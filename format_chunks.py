@@ -1,18 +1,24 @@
 import argparse, json, re, http.client
 from pathlib import Path
 
-PROMPT_HEADER = """Clean and format this scanned German art historical text about baroque ceiling paintings.
-Tasks:
-- Fix broken line wraps and paragraphs.
-- Correct obvious OCR mistakes.
-- Remove stray map legends, page headers/footers, random image captions or wrongly scanned headlines.
-- Preserve valid section headings.
-- Output Markdown; before ':' when it denotes a label make it bold (**Label:**).
-- Do NOT invent missing content.
+PROMPT_HEADER = """Bereinige und formatiere den folgenden eingescannten deutschsprachigen kunsthistorischen Text über barocke Deckenmalereien.
+Aufgaben:
+- Repariere falsch umbrochene Zeilen und Absätze.
+- Korrigiere offensichtliche OCR-Fehler.
+- Entferne zufällige Kartenlegenden, Seitenköpfe/-füße, Bildunterschriften oder falsch erkannte Überschriften.
+- Erhalte sinnvolle Abschnittsüberschriften.
+- Ausgabe als Markdown.
+- Füge KEINE neuen Inhalte hinzu.
+- Fehler bei hochgestellten und tiefgestellten Nummern und Buchstaben beheben.
+- 'x' bei Maßangaben kleinschreiben (nicht 'X').
+- Durchmesser- und Durchschnitts-Symbole sowie Kreuzzeichen korrekt wiedergeben, werden im OCR oft falsch erkannt.
+- Zitate nicht verändern oder inhaltlich korrigieren.
+- Falsch erkannte Zirkumflex-Zeichen nicht als Umlaut behandeln.
+- Antworte nur mit dem bereinigten Text.
 
-Text to clean and format:
+Zu bereinigender Text:
 """
-PROMPT_SUFFIX = "\n\nCleaned text:\n"
+PROMPT_SUFFIX = "\n\nBereinigter Text:\n"
 
 
 def chunk_paragraphs(text: str, limit: int):
@@ -81,7 +87,7 @@ def main():
     args = ap.parse_args()
 
     raw = Path(args.input).read_text(encoding="utf-8", errors="replace")
-    chunks = chunk_paragraphs(raw, 18000)
+    chunks = chunk_paragraphs(raw, 8000)
     print(f"[INFO] Total chunks: {len(chunks)}", flush=True)
 
     # Truncate output file
