@@ -10,7 +10,7 @@ Aufgaben:
 - Ausgabe als Markdown.
 - Füge KEINE neuen Inhalte hinzu.
 - Fehler bei hochgestellten und tiefgestellten Nummern und Buchstaben beheben.
-- 'x' bei Maßangaben kleinschreiben (nicht 'X').
+- 'x' bei Maßangaben (z.B 6,10 x 10,50) kleinschreiben (nicht 'X').
 - Durchmesser- und Durchschnitts-Symbole sowie Kreuzzeichen korrekt wiedergeben, werden im OCR oft falsch erkannt.
 - Zitate nicht verändern oder inhaltlich korrigieren.
 - Falsch erkannte Zirkumflex-Zeichen nicht als Umlaut behandeln.
