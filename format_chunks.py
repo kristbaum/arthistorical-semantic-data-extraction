@@ -1,4 +1,7 @@
-import argparse, json, re, http.client
+import argparse
+import json
+import re
+import http.client
 from pathlib import Path
 
 PROMPT_HEADER = """Bereinige und formatiere den folgenden eingescannten deutschsprachigen kunsthistorischen Text über barocke Deckenmalereien.
