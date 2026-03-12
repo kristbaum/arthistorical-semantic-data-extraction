@@ -62,10 +62,14 @@ def pdf_to_images(pdf_path: Path, dpi: int = RENDER_DPI) -> list[np.ndarray]:
     return result
 
 
+# JPEG quality for saved images (0-100); 90 is high quality with good compression
+JPEG_QUALITY: int = 90
+
+
 def save_page_image(page_img: np.ndarray, output_dir: Path, base_name: str) -> Path:
     """Save a full-page image and return the path."""
-    path = output_dir / f"{base_name}_full.png"
-    cv2.imwrite(str(path), page_img)
+    path = output_dir / f"{base_name}_full.jpg"
+    cv2.imwrite(str(path), page_img, [cv2.IMWRITE_JPEG_QUALITY, JPEG_QUALITY])
     return path
 
 
@@ -75,7 +79,7 @@ def render_folder(
     """Render all pages of the PDF in *folder*.
 
     Returns a list of (page_num, page_image, base_name) tuples.
-    Saves full-page PNGs to output_base/folder.name/pages/ when SAVE_FULL_PAGES is True.
+    Saves full-page JPGs to output_base/folder.name/pages/
     """
     band, chunk = parse_folder_name(folder.name)
     if not band:

@@ -4,7 +4,7 @@
 Works together with pdf_to_images.py: call render_folder() to get page images,
 then this script runs detection and saves results.
 
-Naming convention for saved files: {band}_{chunk}_p{page}_img{n}.png
+Naming convention for saved files: {band}_{chunk}_p{page}_img{n}.jpg
 """
 
 import logging
@@ -14,7 +14,7 @@ from pathlib import Path
 import cv2
 import numpy as np
 
-from pdf_to_images import DATA_DIR, OUTPUT_DIR, parse_folder_name, render_folder
+from pdf_to_images import DATA_DIR, OUTPUT_DIR, parse_folder_name
 
 log = logging.getLogger(__name__)
 
@@ -141,9 +141,9 @@ def extract_and_save(
         y1 = min(h, y + bh + margin)
 
         roi = page_img[y0:y1, x0:x1]
-        fname = f"{base_name}_img{idx:03d}.png"
+        fname = f"{base_name}_img{idx:03d}.jpg"
         out_path = output_dir / fname
-        cv2.imwrite(str(out_path), roi)
+        cv2.imwrite(str(out_path), roi, [cv2.IMWRITE_JPEG_QUALITY, 90])
         saved.append((out_path, (x0, y0, x1 - x0, y1 - y0)))
         log.info("  Saved %s (%dx%d)", fname, x1 - x0, y1 - y0)
 
@@ -151,21 +151,19 @@ def extract_and_save(
 
 
 def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
-    """Render and extract images from all PDF pages in *folder*."""
+    """Extract images from pre-rendered pages in output_base/folder.name/pages/."""
     band, chunk = parse_folder_name(folder.name)
-    if not band:
-        log.warning("Skipping %s — doesn't match Band*_chunk* pattern", folder.name)
-        return
-
     output_dir = output_base / folder.name / "images"
     output_dir.mkdir(parents=True, exist_ok=True)
+    pages_dir = output_base / folder.name / "pages"
 
-    pages = render_folder(folder, output_base)
-    if not pages:
-        return
-
+    page_files = sorted(pages_dir.glob("*_full.jpg"))
     total = 0
-    for page_num, page_img, base_name in pages:
+    for page_path in page_files:
+        page_num = int(re.search(r"_p(\d+)_full", page_path.stem).group(1))
+        base_name = f"{band}_{chunk}_p{page_num:03d}"
+        page_img = cv2.imread(str(page_path))
+
         rects = detect_images(page_img)
         if rects:
             log.info("  Page %d: %d image(s) detected", page_num, len(rects))

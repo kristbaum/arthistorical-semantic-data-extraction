@@ -180,7 +180,7 @@ def identify_captions(lines: list[TextLine]) -> list[dict]:
 
 
 def _parse_image_filename(img_path: Path) -> dict | None:
-    m = re.match(r"(Band[\d\-]+)_(chunk\d+)_p(\d+)_img(\d+)\.png", img_path.name)
+    m = re.match(r"(Band[\d\-]+)_(chunk\d+)_p(\d+)_img(\d+)\.jpg", img_path.name)
     if not m:
         return None
     return {
@@ -195,7 +195,7 @@ def _parse_image_filename(img_path: Path) -> dict | None:
 def load_image_info(images_dir: Path) -> dict[int, list[dict]]:
     """Load extracted image metadata grouped by page number."""
     by_page: dict[int, list[dict]] = {}
-    for img_path in sorted(images_dir.glob("*_img*.png")):
+    for img_path in sorted(images_dir.glob("*_img*.jpg")):
         info = _parse_image_filename(img_path)
         if not info:
             continue

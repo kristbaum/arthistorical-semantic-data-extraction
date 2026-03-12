@@ -237,7 +237,7 @@ def format_block(
             img_found = False
 
             if images_dir and images_dir.exists():
-                for img_file in sorted(images_dir.glob(f"{img_name}_img*.png")):
+                for img_file in sorted(images_dir.glob(f"{img_name}_img*.jpg")):
                     cap_md = img_file.with_suffix(".md")
                     if cap_md.exists():
                         cap_text = cap_md.read_text(encoding="utf-8")
