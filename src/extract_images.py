@@ -160,9 +160,19 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
     page_files = sorted(pages_dir.glob("*_full.jpg"))
     total = 0
     for page_path in page_files:
-        page_num = int(re.search(r"_p(\d+)_full", page_path.stem).group(1))
+        match = re.search(r"_p(\d+)_full", page_path.stem)
+        if not match:
+            log.warning(
+                "  Skipping %s: filename does not match expected pattern",
+                page_path.name,
+            )
+            continue
+        page_num = int(match.group(1))
         base_name = f"{band}_{chunk}_p{page_num:03d}"
         page_img = cv2.imread(str(page_path))
+        if page_img is None:
+            log.warning("  Failed to read %s", page_path.name)
+            continue
 
         rects = detect_images(page_img)
         if rects:
