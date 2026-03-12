@@ -117,7 +117,7 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
         ocr_text_regions(page_pil, regions)
         match_captions_to_images(regions)
 
-        wiki = assemble_mediawiki(regions, page_num)
+        wiki = assemble_mediawiki(regions, page_num, folder.name)
         if wiki.strip():
             wiki_path = wiki_dir / f"p{page_num:03d}.wiki"
             wiki_path.write_text(wiki, encoding="utf-8")

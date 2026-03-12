@@ -110,7 +110,9 @@ def _region_to_mediawiki(region: Region) -> str | None:
     return None
 
 
-def assemble_mediawiki(regions: list[Region], page_num: int) -> str:
+def assemble_mediawiki(
+    regions: list[Region], page_num: int, folder_name: str = ""
+) -> str:
     """Assemble MediaWiki markup for one page from its layout regions."""
     parts: list[str] = []
     for region in regions:
@@ -121,4 +123,5 @@ def assemble_mediawiki(regions: list[Region], page_num: int) -> str:
     if not parts:
         return ""
 
-    return f"<!-- Page {page_num} -->\n\n" + "\n\n".join(parts) + "\n"
+    header = f"<!-- {folder_name} Page {page_num} -->" if folder_name else f"<!-- Page {page_num} -->"
+    return header + "\n\n" + "\n\n".join(parts) + "\n"
