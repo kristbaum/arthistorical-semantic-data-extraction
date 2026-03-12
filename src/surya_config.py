@@ -55,6 +55,7 @@ class Region:
     confidence: float
     text: str = ""  # filled after OCR
     image_path: Path | None = None  # filled after image extraction
+    caption: str = ""  # filled after caption matching
     lines: list[str] = field(default_factory=list)
 
 

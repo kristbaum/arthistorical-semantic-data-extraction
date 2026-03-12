@@ -1,6 +1,7 @@
 """Surya model management — only one model in VRAM at a time for 6 GB GPUs."""
 
 import logging
+import time
 
 log = logging.getLogger(__name__)
 
@@ -33,9 +34,11 @@ def get_layout_predictor():
         from surya.settings import settings
 
         log.info("Loading Surya layout model …")
+        t0 = time.monotonic()
         _layout_predictor = LayoutPredictor(
             FoundationPredictor(checkpoint=settings.LAYOUT_MODEL_CHECKPOINT)
         )
+        log.info("Layout model loaded in %.1fs", time.monotonic() - t0)
     return _layout_predictor
 
 
@@ -53,5 +56,7 @@ def get_recognition_predictor():
         from surya.recognition import RecognitionPredictor
 
         log.info("Loading Surya recognition model …")
+        t0 = time.monotonic()
         _recognition_predictor = RecognitionPredictor(FoundationPredictor())
+        log.info("Recognition model loaded in %.1fs", time.monotonic() - t0)
     return _recognition_predictor
