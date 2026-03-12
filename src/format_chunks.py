@@ -1,8 +1,34 @@
-import argparse
+"""Clean and reformat OCR text chunks using a local Ollama LLM.
+
+Configuration is done via the constants below.
+When running via batch_format.sh, set INPUT_FILE, OUTPUT_FILE and MODEL
+as environment variables before running the script:
+
+    INPUT_FILE=data/raw/Band01_chunk001.txt \
+    OUTPUT_FILE=data/formatted/Band01_chunk001_formatted.md \
+    MODEL=mistral:7b \
+    python src/format_chunks.py
+"""
+
 import json
+import os
 import re
 import http.client
 from pathlib import Path
+
+# ── Configuration ─────────────────────────────────────────────────────────────
+
+# Override via environment variables when calling from batch_format.sh
+INPUT_FILE = Path(os.environ.get("INPUT_FILE", "data/raw/Band01_chunk001.txt"))
+OUTPUT_FILE = Path(
+    os.environ.get("OUTPUT_FILE", "data/formatted/Band01_chunk001_formatted.md")
+)
+MODEL = os.environ.get("MODEL", "mistral:7b")
+
+# Maximum character length per LLM request chunk
+CHUNK_LIMIT = 8000
+
+# ──────────────────────────────────────────────────────────────────────────────
 
 PROMPT_HEADER = """Bereinige und formatiere den folgenden eingescannten deutschsprachigen kunsthistorischen Text über barocke Deckenmalereien.
 Aufgaben:
@@ -24,10 +50,11 @@ Zu bereinigender Text:
 PROMPT_SUFFIX = "\n\nBereinigter Text:\n"
 
 
-def chunk_paragraphs(text: str, limit: int):
+def chunk_paragraphs(text: str, limit: int = CHUNK_LIMIT) -> list[str]:
     paras = re.split(r"\n\s*\n", text)
-    chunks = []
-    cur, length = [], 0
+    chunks: list[str] = []
+    cur: list[str] = []
+    length = 0
     for p in paras:
         plen = len(p) + 2
         if cur and length + plen > limit:
@@ -42,7 +69,7 @@ def chunk_paragraphs(text: str, limit: int):
     return chunks
 
 
-def post_generate(model: str, prompt: str):
+def post_generate(model: str, prompt: str) -> tuple[int, str]:
     body = json.dumps({"model": model, "prompt": prompt, "stream": True})
     conn = http.client.HTTPConnection("localhost", 11434, timeout=300)
     conn.request(
@@ -55,8 +82,8 @@ def post_generate(model: str, prompt: str):
     return status, data
 
 
-def parse_ndjson(data: str):
-    out = []
+def parse_ndjson(data: str) -> str:
+    out: list[str] = []
     for line in data.splitlines():
         line = line.strip()
         if not line:
@@ -72,7 +99,6 @@ def parse_ndjson(data: str):
             break
     if out:
         return "".join(out)
-    # fallback single JSON
     try:
         obj = json.loads(data)
         if isinstance(obj, dict) and isinstance(obj.get("response"), str):
@@ -82,42 +108,35 @@ def parse_ndjson(data: str):
     return ""
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--input", required=True)
-    ap.add_argument("--output", required=True)
-    ap.add_argument("--model", required=True)
-    args = ap.parse_args()
-
-    raw = Path(args.input).read_text(encoding="utf-8", errors="replace")
-    chunks = chunk_paragraphs(raw, 8000)
+def main() -> None:
+    raw = INPUT_FILE.read_text(encoding="utf-8", errors="replace")
+    chunks = chunk_paragraphs(raw)
     print(f"[INFO] Total chunks: {len(chunks)}", flush=True)
 
-    # Truncate output file
-    Path(args.output).write_text("", encoding="utf-8")
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT_FILE.write_text("", encoding="utf-8")
 
     for idx, chunk in enumerate(chunks, 1):
         prompt = f"{PROMPT_HEADER}{chunk}{PROMPT_SUFFIX}"
         print(f"[INFO] Chunk {idx}/{len(chunks)} chars={len(chunk)}", flush=True)
-        status, data = post_generate(args.model, prompt)
+        status, data = post_generate(MODEL, prompt)
         if status != 200 or not data.strip():
             print(
-                f"[WARN] Chunk {idx} status={status} empty response; writing placeholder",
+                f"[WARN] Chunk {idx} status={status} empty response; skipping",
                 flush=True,
             )
-            cleaned = ""  # or keep empty
+            cleaned = ""
         else:
             cleaned = parse_ndjson(data).strip()
-        with open(args.output, "a", encoding="utf-8") as f:
+        with OUTPUT_FILE.open("a", encoding="utf-8") as f:
             if cleaned:
                 f.write(cleaned)
             f.write("\n\n")
 
-    # Collapse excessive blank lines
-    final = Path(args.output).read_text(encoding="utf-8")
+    final = OUTPUT_FILE.read_text(encoding="utf-8")
     final = re.sub(r"\n{3,}", "\n\n", final).strip() + "\n"
-    Path(args.output).write_text(final, encoding="utf-8")
-    print(f"[INFO] Wrote {args.output} total_chars={len(final)}", flush=True)
+    OUTPUT_FILE.write_text(final, encoding="utf-8")
+    print(f"[INFO] Wrote {OUTPUT_FILE} total_chars={len(final)}", flush=True)
 
 
 if __name__ == "__main__":

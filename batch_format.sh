@@ -60,9 +60,7 @@ if ! ollama list | grep -q "^$MODEL"; then
   ollama pull "$MODEL"
 fi
 
-python3 /workspace/format_chunks.py \
-  --input "$RAW_FILE" \
-  --output "$OUT_FILE" \
-  --model "$MODEL"
+INPUT_FILE="$RAW_FILE" OUTPUT_FILE="$OUT_FILE" MODEL="$MODEL" \
+  python3 /workspace/src/format_chunks.py
 
 echo "[INFO] Done $(date)"

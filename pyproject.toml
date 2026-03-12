@@ -9,3 +9,13 @@ dependencies = [
     "opencv-python>=4.13.0.92",
     "pdf2image>=1.17.0",
 ]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+# Python source lives in src/; run scripts from that directory:
+#   cd src && python extract_images.py
+#   cd src && python match_captions.py
+#   cd src && python xml_to_markdown.py
+#   cd src && python pdf_to_images.py
