@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Detect and extract rectangular images from rendered PDF pages.
 
+Uses Surya's layout detection model to classify page regions as
+Picture, Figure, Text, Caption, etc.  Only regions labelled Picture
+or Figure are extracted.
+
 Works together with pdf_to_images.py: call render_folder() to get page images,
 then this script runs detection and saves results.
 
@@ -8,11 +12,12 @@ Naming convention for saved files: {band}_{chunk}_p{page}_img{n}.jpg
 """
 
 import logging
+import os
 import re
 from pathlib import Path
 
 import cv2
-import numpy as np
+from PIL import Image
 
 from pdf_to_images import DATA_DIR, OUTPUT_DIR, parse_folder_name
 
@@ -20,119 +25,68 @@ log = logging.getLogger(__name__)
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
-# Minimum image area as fraction of page area to avoid detecting tiny artifacts
-MIN_AREA_FRACTION: float = 0.01
-# Maximum image area – skip regions that are basically the whole page
-MAX_AREA_FRACTION: float = 0.80
-# Minimum aspect ratio (width/height or height/width) to filter slivers
-MIN_ASPECT_RATIO: float = 0.15
 # Extra pixels added around each detected bounding box when saving
 SAVE_MARGIN: int = 5
 
+# Layout labels that correspond to image content
+IMAGE_LABELS: set[str] = {"Picture", "Figure"}
+
 # ──────────────────────────────────────────────────────────────────────────────
 
+# Lazy-loaded predictor (heavy model; only instantiated once)
+_layout_predictor = None
 
-def detect_images(page_img: np.ndarray) -> list[tuple[int, int, int, int]]:
-    """Detect rectangular image regions on a scanned page.
 
-    Returns list of (x, y, w, h) bounding boxes.
-    """
-    h, w = page_img.shape[:2]
-    page_area = h * w
-    min_area = page_area * MIN_AREA_FRACTION
-    max_area = page_area * MAX_AREA_FRACTION
+def _get_layout_predictor():
+    """Lazily initialise the Surya LayoutPredictor (singleton)."""
+    global _layout_predictor  # noqa: PLW0603
+    if _layout_predictor is None:
+        from surya.foundation import FoundationPredictor
+        from surya.layout import LayoutPredictor
+        from surya.settings import settings
 
-    gray = cv2.cvtColor(page_img, cv2.COLOR_BGR2GRAY)
+        log.info("Loading Surya layout model …")
+        _layout_predictor = LayoutPredictor(
+            FoundationPredictor(checkpoint=settings.LAYOUT_MODEL_CHECKPOINT)
+        )
+    return _layout_predictor
 
-    # Apply bilateral filter to reduce noise while keeping edges
-    filtered = cv2.bilateralFilter(gray, 9, 75, 75)
 
-    # Detect edges
-    edges = cv2.Canny(filtered, 30, 100)
-
-    # Dilate to close gaps in edge contours
-    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))
-    edges = cv2.dilate(edges, kernel, iterations=2)
-    edges = cv2.erode(edges, kernel, iterations=1)
-
-    contours, _ = cv2.findContours(edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+def detect_images_surya(
+    page_pil: Image.Image,
+) -> list[tuple[int, int, int, int]]:
+    """Run Surya layout detection and return (x, y, w, h) boxes for images."""
+    predictor = _get_layout_predictor()
+    results = predictor([page_pil])
 
     rects: list[tuple[int, int, int, int]] = []
-    for cnt in contours:
-        area = cv2.contourArea(cnt)
-        if area < min_area or area > max_area:
+    for bbox_info in results[0].bboxes:
+        if bbox_info.label not in IMAGE_LABELS:
             continue
+        x1, y1, x2, y2 = bbox_info.bbox
+        w = int(x2 - x1)
+        h = int(y2 - y1)
+        rects.append((int(x1), int(y1), w, h))
 
-        peri = cv2.arcLength(cnt, True)
-        approx = cv2.approxPolyDP(cnt, 0.02 * peri, True)
-
-        x, y, bw, bh = cv2.boundingRect(approx)
-        bbox_area = bw * bh
-        if bbox_area < min_area or bbox_area > max_area:
-            continue
-
-        aspect = min(bw, bh) / max(bw, bh) if max(bw, bh) > 0 else 0
-        if aspect < MIN_ASPECT_RATIO:
-            continue
-
-        roi = gray[y : y + bh, x : x + bw]
-        if roi.size == 0:
-            continue
-
-        # Text regions have high edge density; images have moderate density
-        roi_edges = cv2.Canny(roi, 50, 150)
-        edge_density = np.count_nonzero(roi_edges) / roi.size
-        if edge_density > 0.20:
-            continue
-
-        # Require sufficient tonal variation (skip blank/uniform patches)
-        if np.std(roi) < 15:
-            continue
-
-        rects.append((x, y, bw, bh))
-
-    return _remove_overlapping(rects)
-
-
-def _remove_overlapping(
-    rects: list[tuple[int, int, int, int]],
-) -> list[tuple[int, int, int, int]]:
-    """Keep larger rectangles, discard smaller ones that overlap >50% with them."""
-    if not rects:
-        return rects
-
-    rects = sorted(rects, key=lambda r: r[2] * r[3], reverse=True)
-    keep: list[tuple[int, int, int, int]] = []
-
-    for rect in rects:
-        x1, y1, w1, h1 = rect
-        suppress = False
-        for kx, ky, kw, kh in keep:
-            ix = max(x1, kx)
-            iy = max(y1, ky)
-            ix2 = min(x1 + w1, kx + kw)
-            iy2 = min(y1 + h1, ky + kh)
-            if ix < ix2 and iy < iy2:
-                inter_area = (ix2 - ix) * (iy2 - iy)
-                smaller_area = min(w1 * h1, kw * kh)
-                if inter_area > 0.5 * smaller_area:
-                    suppress = True
-                    break
-        if not suppress:
-            keep.append(rect)
-
-    return keep
+    return rects
 
 
 def extract_and_save(
-    page_img: np.ndarray,
+    page_img,
     rects: list[tuple[int, int, int, int]],
     output_dir: Path,
     base_name: str,
     margin: int = SAVE_MARGIN,
 ) -> list[tuple[Path, tuple[int, int, int, int]]]:
-    """Crop detected regions from *page_img* and write them to *output_dir*."""
-    h, w = page_img.shape[:2]
+    """Crop detected regions from *page_img* and write them to *output_dir*.
+
+    *page_img* can be a numpy (BGR) array or a PIL Image.
+    """
+    if isinstance(page_img, Image.Image):
+        w, h = page_img.size
+    else:
+        h, w = page_img.shape[:2]
+
     saved = []
     for idx, (x, y, bw, bh) in enumerate(rects, 1):
         x0 = max(0, x - margin)
@@ -140,10 +94,17 @@ def extract_and_save(
         x1 = min(w, x + bw + margin)
         y1 = min(h, y + bh + margin)
 
-        roi = page_img[y0:y1, x0:x1]
-        fname = f"{base_name}_img{idx:03d}.jpg"
-        out_path = output_dir / fname
-        cv2.imwrite(str(out_path), roi, [cv2.IMWRITE_JPEG_QUALITY, 90])
+        if isinstance(page_img, Image.Image):
+            roi = page_img.crop((x0, y0, x1, y1))
+            fname = f"{base_name}_img{idx:03d}.jpg"
+            out_path = output_dir / fname
+            roi.save(str(out_path), quality=90)
+        else:
+            roi = page_img[y0:y1, x0:x1]
+            fname = f"{base_name}_img{idx:03d}.jpg"
+            out_path = output_dir / fname
+            cv2.imwrite(str(out_path), roi, [cv2.IMWRITE_JPEG_QUALITY, 90])
+
         saved.append((out_path, (x0, y0, x1 - x0, y1 - y0)))
         log.info("  Saved %s (%dx%d)", fname, x1 - x0, y1 - y0)
 
@@ -169,15 +130,13 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
             continue
         page_num = int(match.group(1))
         base_name = f"{band}_{chunk}_p{page_num:03d}"
-        page_img = cv2.imread(str(page_path))
-        if page_img is None:
-            log.warning("  Failed to read %s", page_path.name)
-            continue
 
-        rects = detect_images(page_img)
+        page_pil = Image.open(page_path).convert("RGB")
+
+        rects = detect_images_surya(page_pil)
         if rects:
             log.info("  Page %d: %d image(s) detected", page_num, len(rects))
-            saved = extract_and_save(page_img, rects, output_dir, base_name)
+            saved = extract_and_save(page_pil, rects, output_dir, base_name)
             total += len(saved)
         else:
             log.debug("  Page %d: no images detected", page_num)
@@ -187,6 +146,9 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
 
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+
+    # Sensible VRAM defaults for a 6 GB GPU (GTX 1660)
+    os.environ.setdefault("LAYOUT_BATCH_SIZE", "8")
 
     folders = sorted(
         p
