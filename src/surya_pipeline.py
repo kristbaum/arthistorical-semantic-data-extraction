@@ -22,8 +22,8 @@ from pathlib import Path
 from PIL import Image
 
 from surya_config import DATA_DIR, OUTPUT_DIR, Region, parse_folder_name
-from surya_layout import detect_layout, extract_images
-from src.surya_mediawiki import assemble_mediawiki, match_captions_to_images
+from surya_layout import detect_layout_batch, extract_images
+from surya_mediawiki import assemble_mediawiki, match_captions_to_images
 from surya_ocr import ocr_text_regions
 
 log = logging.getLogger(__name__)
@@ -63,23 +63,38 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
                 pages.append((int(m.group(1)), pf))
     else:
         log.info("Generate image files first")
+        pages = []
+
+    # Skip pages whose .wiki file already exists
+    pages = [
+        (page_num, page_path)
+        for page_num, page_path in pages
+        if not (wiki_dir / f"p{page_num:03d}.wiki").exists()
+    ]
+    if not pages:
+        log.info("All pages already processed for %s, skipping.", folder.name)
+        return
+    log.info("%d page(s) remaining to process.", len(pages))
 
     # ── Pass 1: Layout detection + image extraction (layout model loaded) ────
     log.info("Pass 1: Layout detection on %d pages …", len(pages))
     pass1_t0 = time.monotonic()
-    page_regions: dict[int, list[Region]] = {}
-    for page_num, page_path in pages:
-        page_t0 = time.monotonic()
-        base_name = f"{band}_{chunk}_p{page_num:03d}"
-        page_pil = Image.open(page_path).convert("RGB")
 
-        regions = detect_layout(page_pil)
+    # Load all page images so the layout model can process them in one batch
+    page_images = [Image.open(pp).convert("RGB") for _, pp in pages]
+    all_regions = detect_layout_batch(page_images)
+    log.info("  Layout detection done: %.1fs", time.monotonic() - pass1_t0)
+
+    page_regions: dict[int, list[Region]] = {}
+    for (page_num, _page_path), page_pil, regions in zip(
+        pages, page_images, all_regions
+    ):
+        base_name = f"{band}_{chunk}_p{page_num:03d}"
         log.info(
-            "  Page %d: %d regions (%s) [%.1fs]",
+            "  Page %d: %d regions (%s)",
             page_num,
             len(regions),
             ", ".join(r.label for r in regions[:6]),
-            time.monotonic() - page_t0,
         )
         extract_images(page_pil, regions, images_dir, base_name)
         page_regions[page_num] = regions
@@ -130,8 +145,8 @@ def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
     # VRAM defaults for 6 GB GPU
-    os.environ.setdefault("LAYOUT_BATCH_SIZE", "8")
-    os.environ.setdefault("RECOGNITION_BATCH_SIZE", "64")
+    os.environ.setdefault("LAYOUT_BATCH_SIZE", "22")  # 220MB per batch
+    os.environ.setdefault("RECOGNITION_BATCH_SIZE", "32")  # 40MB per batch
 
     folders = sorted(
         p
@@ -139,10 +154,10 @@ def main() -> None:
         if p.is_dir() and re.match(r"Band[\d\-]+_chunk\d+", p.name)
     )
 
-    # for folder in folders:
-    #     process_folder(folder)
+    for folder in folders:
+        process_folder(folder)
 
-    process_folder(DATA_DIR / "Band12-1_chunk003")
+    # process_folder(DATA_DIR / "Band12-1_chunk003")
 
     log.info("All folders processed.")
 

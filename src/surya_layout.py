@@ -19,23 +19,30 @@ log = logging.getLogger(__name__)
 
 def detect_layout(page_pil: Image.Image) -> list[Region]:
     """Run Surya layout detection and return Region objects sorted by position."""
+    return detect_layout_batch([page_pil])[0]
+
+
+def detect_layout_batch(pages: list[Image.Image]) -> list[list[Region]]:
+    """Run Surya layout detection on multiple pages at once for better GPU utilisation."""
     predictor = get_layout_predictor()
-    results = predictor([page_pil])
+    results = predictor(pages)
 
-    regions: list[Region] = []
-    for box in results[0].bboxes:
-        bbox = polygon_to_bbox(box.polygon)
-        regions.append(
-            Region(
-                label=box.label,
-                position=box.position,
-                bbox=bbox,
-                confidence=box.confidence or 0.0,
+    all_regions: list[list[Region]] = []
+    for result in results:
+        regions: list[Region] = []
+        for box in result.bboxes:
+            bbox = polygon_to_bbox(box.polygon)
+            regions.append(
+                Region(
+                    label=box.label,
+                    position=box.position,
+                    bbox=bbox,
+                    confidence=box.confidence or 0.0,
+                )
             )
-        )
-
-    regions.sort(key=lambda r: r.position)
-    return regions
+        regions.sort(key=lambda r: r.position)
+        all_regions.append(regions)
+    return all_regions
 
 
 def extract_images(

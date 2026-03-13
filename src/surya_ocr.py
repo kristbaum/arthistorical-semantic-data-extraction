@@ -1,6 +1,7 @@
 """Line segmentation and OCR using Surya recognition."""
 
 import logging
+import os
 
 import numpy as np
 from PIL import Image
@@ -87,10 +88,11 @@ def ocr_text_regions(
         batch_bboxes = line_bboxes_per_crop[batch_start:batch_end]
         batch_indices = crop_to_region[batch_start:batch_end]
 
+        rec_batch_size = int(os.environ.get("RECOGNITION_BATCH_SIZE", "32"))
         results = rec(
             batch_crops,
             bboxes=batch_bboxes,
-            recognition_batch_size=64,
+            recognition_batch_size=rec_batch_size,
             math_mode=False,
         )
 
