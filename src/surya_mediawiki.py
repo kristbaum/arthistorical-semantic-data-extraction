@@ -74,8 +74,9 @@ def _region_to_mediawiki(region: Region) -> str | None:
     if region.label in IMAGE_LABELS:
         if region.image_path is None:
             return None
-        caption = region.caption or region.image_path.stem
-        return f"\n[[File:{region.image_path.name}|thumb|{caption}]]\n"
+        if region.caption:
+            return f"\n[[File:{region.image_path.name}|thumb|{region.caption}]]\n"
+        return f"\n[[File:{region.image_path.name}|thumb]]\n"
 
     if region.label == "Caption":
         if region.caption_matched:
@@ -86,20 +87,20 @@ def _region_to_mediawiki(region: Region) -> str | None:
             return f"\n'''{text}'''\n"
         return None
 
-    if region.label in ("Section-header", "SectionHeader"):
+    if region.label == "Section-header":
         text = join_lines(region.lines)
         if text:
             return f"\n== {text} ==\n"
         return None
 
-    if region.label in ("PageHeader", "Page-header"):
+    if region.label == "Page-header":
         # Page headers are typically repeating — include as comment
         text = join_lines(region.lines)
         if text:
             return f"<!-- header: {text} -->"
         return None
 
-    if region.label in ("PageFooter", "Page-footer", "Footnote"):
+    if region.label in ("Page-footer", "Footnote"):
         text = join_lines(region.lines)
         if text:
             return f"\n----\n{text}\n"
@@ -112,9 +113,7 @@ def _region_to_mediawiki(region: Region) -> str | None:
     return None
 
 
-def assemble_mediawiki(
-    regions: list[Region], page_num: int, folder_name: str = ""
-) -> str:
+def assemble_mediawiki(regions: list[Region], page_num: int, folder_name: str) -> str:
     """Assemble MediaWiki markup for one page from its layout regions."""
     parts: list[str] = []
     for region in regions:
@@ -125,5 +124,5 @@ def assemble_mediawiki(
     if not parts:
         return ""
 
-    header = f"<!-- {folder_name} Page {page_num} -->" if folder_name else f"<!-- Page {page_num} -->"
+    header = f"<!-- {folder_name} Page {page_num} -->"
     return header + "\n\n" + "\n\n".join(parts) + "\n"

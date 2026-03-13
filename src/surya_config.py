@@ -27,11 +27,8 @@ TEXT_LABELS: set[str] = {
     "Text",
     "Caption",
     "Section-header",
-    "SectionHeader",
-    "PageHeader",
     "Page-header",
     "Page-footer",
-    "PageFooter",
     "Footnote",
     "List-item",
 }

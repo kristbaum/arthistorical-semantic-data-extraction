@@ -23,7 +23,7 @@ from PIL import Image
 
 from surya_config import DATA_DIR, OUTPUT_DIR, Region, parse_folder_name
 from surya_layout import detect_layout, extract_images
-from surya_markdown import assemble_mediawiki, match_captions_to_images
+from src.surya_mediawiki import assemble_mediawiki, match_captions_to_images
 from surya_ocr import ocr_text_regions
 
 log = logging.getLogger(__name__)
