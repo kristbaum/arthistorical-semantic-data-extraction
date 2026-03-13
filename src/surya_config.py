@@ -56,6 +56,7 @@ class Region:
     text: str = ""  # filled after OCR
     image_path: Path | None = None  # filled after image extraction
     caption: str = ""  # filled after caption matching
+    caption_matched: bool = False  # True when this caption is embedded in a [[File:]] tag
     lines: list[str] = field(default_factory=list)
 
 

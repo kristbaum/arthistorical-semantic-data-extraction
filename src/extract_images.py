@@ -118,10 +118,10 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     pages_dir = output_base / folder.name / "pages"
 
-    page_files = sorted(pages_dir.glob("*_full.jpg"))
+    page_files = sorted(pages_dir.glob("*.jpg"))
     total = 0
     for page_path in page_files:
-        match = re.search(r"_p(\d+)_full", page_path.stem)
+        match = re.search(r"_p(\d+)", page_path.stem)
         if not match:
             log.warning(
                 "  Skipping %s: filename does not match expected pattern",

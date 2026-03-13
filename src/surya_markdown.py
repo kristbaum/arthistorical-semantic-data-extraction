@@ -30,6 +30,7 @@ def match_captions_to_images(regions: list[Region]) -> None:
         if best_img and best_img.image_path:
             caption_clean = cap.text.replace("\n", " ").strip()
             best_img.caption = caption_clean
+            cap.caption_matched = True
             log.info("  Caption → %s: %s", best_img.image_path.name, caption_clean[:60])
 
 
@@ -77,8 +78,9 @@ def _region_to_mediawiki(region: Region) -> str | None:
         return f"\n[[File:{region.image_path.name}|thumb|{caption}]]\n"
 
     if region.label == "Caption":
-        # Captions matched to images are already embedded via [[File:...]]
-        # Include unmatched captions as bold text
+        if region.caption_matched:
+            return None
+        # Unmatched captions: include as bold text
         text = join_lines(region.lines)
         if text:
             return f"\n'''{text}'''\n"

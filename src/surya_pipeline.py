@@ -41,9 +41,6 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
       Pass 2 (recognition model): OCR text regions, match captions, write markdown
     """
     band, chunk = parse_folder_name(folder.name)
-    if not band:
-        log.warning("Skipping %s — doesn't match Band*_chunk* pattern", folder.name)
-        return
 
     output_folder = output_base / folder.name
     pages_dir = output_folder / "pages"
@@ -56,12 +53,12 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
     folder_t0 = time.monotonic()
 
     # Check for pre-rendered pages, or render from PDF
-    page_files = sorted(pages_dir.glob("*_full.jpg"))
+    page_files = sorted(pages_dir.glob("*.jpg"))
     if page_files:
         log.info("Using %d pre-rendered pages from %s", len(page_files), pages_dir)
         pages = []
         for pf in page_files:
-            m = re.search(r"_p(\d+)_full", pf.stem)
+            m = re.search(r"_p(\d+)", pf.stem)
             if m:
                 pages.append((int(m.group(1)), pf))
     else:
@@ -141,12 +138,11 @@ def main() -> None:
         for p in DATA_DIR.iterdir()
         if p.is_dir() and re.match(r"Band[\d\-]+_chunk\d+", p.name)
     )
-    if not folders:
-        log.error("No Band*_chunk* folders found in %s", DATA_DIR)
-        return
 
-    for folder in folders:
-        process_folder(folder)
+    # for folder in folders:
+    #     process_folder(folder)
+
+    process_folder(DATA_DIR / "Band12-1_chunk003")
 
     log.info("All folders processed.")
 
