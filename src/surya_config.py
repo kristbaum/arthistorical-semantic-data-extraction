@@ -6,7 +6,7 @@ from pathlib import Path
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
-DATA_DIR = Path("data")
+DATA_DIR = Path("data/extracted")
 OUTPUT_DIR = Path("data/extracted")
 
 # ── Image extraction ──────────────────────────────────────────────────────────
@@ -27,10 +27,14 @@ TEXT_LABELS: set[str] = {
     "Text",
     "Caption",
     "Section-header",
+    "SectionHeader",
     "Page-header",
+    "PageHeader",
     "Page-footer",
+    "PageFooter",
     "Footnote",
     "List-item",
+    "Table",
 }
 
 
@@ -48,7 +52,9 @@ class Region:
     text: str = ""  # filled after OCR
     image_path: Path | None = None  # filled after image extraction
     caption: str = ""  # filled after caption matching
-    caption_matched: bool = False  # True when this caption is embedded in a [[File:]] tag
+    caption_matched: bool = (
+        False  # True when this caption is embedded in a [[File:]] tag
+    )
     lines: list[str] = field(default_factory=list)
 
 

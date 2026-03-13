@@ -87,26 +87,32 @@ def _region_to_mediawiki(region: Region, folder_name: str = "") -> str | None:
             return f"\n'''{text}'''\n"
         return None
 
-    if region.label == "Section-header":
+    if region.label in ("Section-header", "SectionHeader"):
         text = join_lines(region.lines)
         if text:
             return f"\n== {text} ==\n"
         return None
 
-    if region.label == "Page-header":
+    if region.label in ("Page-header", "PageHeader"):
         # Page headers are typically repeating — include as comment
         text = join_lines(region.lines)
         if text:
             return f"<!-- header: {text} -->"
         return None
 
-    if region.label in ("Page-footer", "Footnote"):
+    if region.label in ("Page-footer", "PageFooter", "Footnote"):
         text = join_lines(region.lines)
         if not text:
             return None
         if text.isdigit() and 1 <= int(text) <= 1000:
             return f"<!-- {folder_name} Original Page {text} -->"
         return f"\n----\n{text}\n"
+
+    if region.label == "Table":
+        if not region.lines:
+            return None
+        rows = [f"| {line.strip()}" for line in region.lines if line.strip()]
+        return "\n{| class=\"wikitable\"\n|-\n" + "\n|-\n".join(rows) + "\n|}\n"
 
     # Default: Text, List-item, etc.
     text = join_lines(region.lines)
