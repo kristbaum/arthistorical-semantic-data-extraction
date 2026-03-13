@@ -65,23 +65,7 @@ def process_folder(folder: Path, output_base: Path = OUTPUT_DIR) -> None:
             if m:
                 pages.append((int(m.group(1)), pf))
     else:
-        from pdf_to_images import find_pdf, pdf_to_images, save_page_image
-
-        pdf_path = find_pdf(folder)
-        if not pdf_path:
-            log.error("No PDF and no pre-rendered pages in %s", folder.name)
-            return
-        log.info("Rendering PDF %s …", pdf_path.name)
-        render_t0 = time.monotonic()
-        raw_pages = pdf_to_images(pdf_path)
-        pages = []
-        for idx, page_img in enumerate(raw_pages):
-            page_num = idx + 1
-            base_name = f"{band}_{chunk}_p{page_num:03d}"
-            save_page_image(page_img, pages_dir, base_name)
-            pf = pages_dir / f"{base_name}_full.jpg"
-            pages.append((page_num, pf))
-        log.info("PDF rendering: %.1fs", time.monotonic() - render_t0)
+        log.info("Generate image files first")
 
     # ── Pass 1: Layout detection + image extraction (layout model loaded) ────
     log.info("Pass 1: Layout detection on %d pages …", len(pages))
