@@ -69,7 +69,7 @@ def join_lines(lines: list[str]) -> str:
 # ── MediaWiki assembly ────────────────────────────────────────────────────────
 
 
-def _region_to_mediawiki(region: Region) -> str | None:
+def _region_to_mediawiki(region: Region, folder_name: str = "") -> str | None:
     """Convert a single region to its MediaWiki markup representation."""
     if region.label in IMAGE_LABELS:
         if region.image_path is None:
@@ -102,9 +102,11 @@ def _region_to_mediawiki(region: Region) -> str | None:
 
     if region.label in ("Page-footer", "Footnote"):
         text = join_lines(region.lines)
-        if text:
-            return f"\n----\n{text}\n"
-        return None
+        if not text:
+            return None
+        if text.isdigit() and 1 <= int(text) <= 1000:
+            return f"<!-- {folder_name} Original Page {text} -->"
+        return f"\n----\n{text}\n"
 
     # Default: Text, List-item, etc.
     text = join_lines(region.lines)
@@ -117,7 +119,7 @@ def assemble_mediawiki(regions: list[Region], page_num: int, folder_name: str) -
     """Assemble MediaWiki markup for one page from its layout regions."""
     parts: list[str] = []
     for region in regions:
-        wiki = _region_to_mediawiki(region)
+        wiki = _region_to_mediawiki(region, folder_name)
         if wiki:
             parts.append(wiki)
 
