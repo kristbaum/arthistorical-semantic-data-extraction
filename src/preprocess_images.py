@@ -147,11 +147,11 @@ def main() -> None:
         return
 
     # ── Test mode: process only the first folder ──────────────────────────────
-    process_chunk(chunk_dirs[0])
+    # process_chunk(chunk_dirs[0])
 
     # ── Full run: uncomment to process all folders ────────────────────────────
-    # for chunk_dir in chunk_dirs:
-    #     process_chunk(chunk_dir)
+    for chunk_dir in chunk_dirs:
+        process_chunk(chunk_dir)
 
 
 if __name__ == "__main__":
