@@ -25,42 +25,42 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 
 ## Process
 
-* Scanning of the complete Corpus (15 books, 6516 Pages, 12.37 GB)
+* [x] Scanning of the complete Corpus (15 books, 6516 Pages, 12.37 GB)
 
 ### Text processing
 
-* Spliting into smaller sizes for processing on the transcribus scanning platform
-* Hand-checking 100 pages for ground truth
-* Training a custon text recognition model (6.5h on transcribus.org)
-* Running all pages through model (34.5h)
-* Running an additional layout and text recognition model ([surya](https://github.com/VikParuchuri/surya), 2025) on smallscale hardware (GTX 1660)
-* Parse and transform the layouted ocr results into [MediaWiki markup language](https://www.mediawiki.org/wiki/Help:Formatting)
-* Adding hidden links to relevant part of pdf on every page
-* Merge both ocr results with larger LLM model (Mistral-7B) on LRZ AI hardware to improve results and fix layout ordering errors from transcribus ocr (Pass 1)
-* Improve spelling mistakes and remove indices and other non article text (Pass 1)
-* Expand abbreviations, based on the glossar (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 1)
-* Identify and split results into building based articles using Mistral on LRZ AI (Pass 2)
-* Standardize article formatting with sections:
-* * Patrozinium
-* * Zum Bauwerk
-* * Auftraggeber
-* * Autor und Entstehungszeit
-* * Befund
-* * Beschreibung und Ikonographie
-* * Literatur
-* * Photographische Dokumentation
-* * Planskizzen
-* * Anhang
-* Improve article formatting by adding citation box at the top, that reference the correct volume (and page number?) with a template
+* [x] Spliting into smaller sizes for processing on the transcribus scanning platform
+* [x] Hand-checking 100 pages for ground truth
+* [x] Training a custon text recognition model (6.5h on transcribus.org)
+* [x] Running all pages through model (34.5h)
+* [x] Running an additional layout and text recognition model ([surya](https://github.com/VikParuchuri/surya), 2025) on smallscale hardware (GTX 1660)
+* [x] Parse and transform the layouted ocr results into [MediaWiki markup language](https://www.mediawiki.org/wiki/Help:Formatting)
+* [ ] Adding hidden links to relevant part of pdf on every page
+* [ ] Merge both ocr results with larger LLM model (Mistral-7B) on LRZ AI hardware to improve results and fix layout ordering errors from transcribus ocr (Pass 1)
+* [ ] Improve spelling mistakes and remove indices and other non article text (Pass 1)
+* [ ] Expand abbreviations, based on the glossar (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 1)
+* [ ] Identify and split results into building based articles using Mistral on LRZ AI (Pass 2)
+* [ ] Standardize article formatting with sections:
+  * Patrozinium
+  * Zum Bauwerk
+  * Auftraggeber
+  * Autor und Entstehungszeit
+  * Befund
+  * Beschreibung und Ikonographie
+  * Literatur
+  * Photographische Dokumentation
+  * Planskizzen
+  * Anhang
+* [ ] Improve article formatting by adding citation box at the top, that reference the correct volume (and page number?) with a template
 Match
-* Match articles to stub articles in deckenmalerei.eu database to get identifiers and correct lemma
-* Upload articles into MediaWiki
-* Fix remaning errors on MediaWiki to track changes
+* [ ] Match articles to stub articles in deckenmalerei.eu database to get identifiers and correct lemma
+* [ ] Upload articles into MediaWiki
+* [ ] Fix remaning errors on MediaWiki to track changes
 
 ### Image processing
 
-* Extracting images and caption from the surya detected layout with script
-* Match captions to images based on proximity
-* Add links to images with captions to parsed MediaWiki markup results
-* Identify and document errors in image recognition manually (GWAP?)
-* Upload images into MediaWiki
+* [x] Extracting images and caption from the surya detected layout with script
+* [x] Match captions to images based on proximity
+* [x] Add links to images with captions to parsed MediaWiki markup results
+* [ ] Identify and document errors in image recognition manually (GWAP?)
+* [ ] Upload images into MediaWiki
