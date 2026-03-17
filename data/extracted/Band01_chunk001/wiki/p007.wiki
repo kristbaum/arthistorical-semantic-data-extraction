@@ -1,0 +1,133 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band01 p12 -->
+
+<!-- header: ABKÜRZUNGEN -->
+
+<!-- header: Abkürzungen der biblischen Schriften -->
+
+
+== ---dazu deutsche Bezeichnu ==
+
+
+
+== Allgemeine Abkürzungen ==
+
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+
+{| class="wikitable"
+|-
+| a. a. o. Wittelschiff
+|-
+| Abb. Abbildung NB Niederbayern
+|-
+| Anm. Anmerkung n. b. nota bene
+|-
+| AR Altarraum NO Nordosten
+|-
+| AT Altes Testament Nr. Nrn. Nummer, Nummern
+|-
+| BayHStA I Bayerisches Hauptstaatsarchiv, NT Neues Testament
+|-
+| München, Abteilung I NW Nordwesten
+|-
+| Bd, Bde Band, Bände O Osten
+|-
+| B.L.f.D. Bayerisches Landesamt für OB Oberbayern
+|-
+| Denkmalpflege, München OFr Oberfranken
+|-
+| BSB Bayerische Staatsbibliothek, München o. J. ohne Jahr Cap. Capitel o. O. ohne Ort
+|-
+| cgm Codex germanicus monacensis OPf Oberpfalz
+|-
+| clm Codex latinus monacensis o. V. ohne Verfasser Cod. Codd. Coddex, Codices Par. Parallelstellen Diss. Dissertation QHs Querhaus Ed., ed. Edition, edidit QSch. Querschiff ehem. ehemalig, ehemals r. recto F. Faszikel S. Sü
+|}
+
+
+
+{| class="wikitable"
+|-
+| Altes Testament Hab Habacuc Habakuk
+|-
+| Soph Sophonias Zephania
+|-
+| Gen Genesis 1 Mose Agg Aggaeus Haggai
+|-
+| Ex Exodus 2 Mose Zach Zacharias Sacharja
+|-
+| Lev Leviticus 3 Mose Mal Malachias Maleachi
+|-
+| Num Numeri 4 Mose 1 Mach 1 Machabaeorum 1 Makkabäer
+|-
+| Deut Deuteronomium 5 Mose 2 Mach 2 Machabaeorum 2 Makkabäer
+|-
+| Ios Iosue Josua
+|-
+| Iud Iudices Richter Neues Testament
+|-
+| Ruth Ruth Ruth
+|-
+| 1 Sam 1 Samuelis seu 1 Samuel Mt Evangelium sec. Matthaeum Matthäus-
+|-
+| 1 Regum Evangelium
+|-
+| 2 Sam 2 Samuelis seu 2 Samuel Mc Evangelium sec. Marcum Markus-
+|-
+| 2 Regum Evangelium
+|-
+| 3 Reg 3 Regum 1 Könige Lc Evangelium sec. Lucam Lukas-
+|-
+| 4 Reg 4 Regum 2 Könige Evangelium
+|-
+| 1 Par 1 Paralipomenon 1 Chronik Io Evangelium sec. Ioannem Johannes-
+|-
+| 2 Par 2 Paralipomenon 2 Chronik Evangelium
+|-
+| Esdr 1 Esdrae Esra Act Actus Apostolorum Apostelgeschichte
+|-
+| Neh Nehemias seu Nehemia des Lukas
+|-
+| 2 Esdrae Rom Epistola ad Romanos Römerbrief
+|-
+| Tob Tobias 1 Cor 1 Epistola ad Corinthios 1. Korintherbrief
+|-
+| Iudith Iudith Judith 2 Cor 2 Epistola ad Corinthios 2. Korintherbrief
+|-
+| Esth Esther Esther Gal Epistola ad Galatas Galaterbrief
+|-
+| IobHiobEphEpistola ad EphesiosEpheserbriefPsPsalmiPsalterPhilEpistola ad PhilippensesPhilipperbrief</t
+|-
+| Eccl Ecclesiastes Prediger Salomo 1 Thess 1 Epistola ad 1. Thessa-
+|-
+| Cant Canticum Canticorum Hoheslied Thessalonicenses lonicherbrief
+|-
+| Salomos 2 Thess 2 Epistola ad 2. Thessa-
+|-
+| Sap Sapientia Weisheit Thessalonicenses lonicherbrief
+|-
+| Salomos 1 Tim 1 Epistola ad Timotheum 1. Timotheus-
+|-
+| Eccli Ecclesiasticus Jesus Sirach brief
+|-
+| Is Isaias Jesaja 2 Tim 2 Epistola ad Timotheum 2. Timotheus-
+|-
+| Ier Ieremias Jeremia brief
+|-
+| Lam Lamentationes Klagelieder Tit Epistola ad Titum Titusbrief
+|-
+| Jeremias Philem Epistola ad Philemonem Philemonbrief
+|-
+| Bar Baruch Baruch Hebr Epistola ad Hebraeos Hebräerbrief
+Ez Ezechiel Hesekiel Iac Epistola Iacobi Jakobusbrief
+Dan Daniel Daniel 1 Petr 1 Epistola Petri 1. Petrusbrief
+Os Osee Hosea 2 Petr 2 Epistola Petri 2. Petrusbrief
+I
+|}
+
+
+
+----
+1 (
+<!-- citation-page-bottom: Band01 p13 -->

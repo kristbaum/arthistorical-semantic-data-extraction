@@ -1,0 +1,441 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=8 -->
+<!-- citation-page-top: Band14 p14 -->
+
+
+== Bibliographische Abkürzungen ==
+
+
+Zitiert sind die jeweils benutzten Ausgaben und Auflagen
+
+
+{| class="wikitable"
+|-
+| AASS Acta Sanctorum. Ed. Johannes Bollanus Wolfs
+|-
+| et alii, Antwerpen 1643–1780, Brüssel und M
+|-
+| 1786 ff. (ab Octobris Tomus 5). Neuauf- und
+|-
+| lage Paris 1863 ff. baute
+|-
+| Bauer – Hermann und Anna Bauer, Johann Bap- baute
+|-
+| Zimmermann tist und Dominikus Zimmermann, Ent- Fürst
+|-
+| stehung und Vollendung des bayerischen Land
+|-
+| Rokoko, Regensburg1985. Stadt
+|-
+| BiblSS Bibliotheca Sanctorum. Ed. Instituto 1998.
+|-
+| Giovannis XXIII nella Pontificia Univer- 2001.
+|-
+| sità Lateranense, Bd 1–12 u. Indexband, Müne
+|-
+| Rom 1962–70. Müne
+|-
+| Boschius Jacobus Boschius, Symbolographia sive de burg-
+|-
+| arte symbolica sermones septem, Augs-
+|-
+| burg-Dillingen 1701. Reprint Graz 1972. gader
+|-
+| Braun Joseph Braun, Tracht und Attribute der Bd 13
+|-
+| Heiligen in der deutschen Kunst, Stutt- chen
+|-
+| gart 1943. Mün
+|-
+| Braun – Augsburg Placidus Braun, Historisch-topographi Dehio OB Geor
+|-
+| sche Beschreibung der Diözese Augsburg Kuns
+|-
+| in drey Perioden, 2 Bde, Augsburg 1823. und
+|-
+| Bruderschaften Josef Krettner und Thomas Finkenstaedt, 32006
+|-
+| Erster Katalog von Bruderschaften in Denkmal- Fran
+|-
+| Bayern (= Veröffentlichungen zur Volks- topographie Karll
+|-
+| kunde und Kulturgeschichte, hg. von Ingolstadt Denl
+|-
+| Wolfgang Brückner und Lenz Kriss-Ret- chen
+|-
+| tenbeck Bd 6), München-Würzburg 1980. Denkmal- Jolan
+|-
+| Buchner Franz Xaver Buchner, Das Bistum Eichtopographie Wege
+|-
+| Bistum Eichstätt stätt. Historisch-statistische Beschrei- Pfaffenhofen hofer
+|-
+| 1937 bzw. 1938 bung, auf Grund der Literatur, der Regi-
+|-
+| stratur des Bischöflichen Ordinariats Drexler-Herold Jolan
+|-
+| Eichstätt sowie der pfarramtlichen tur i
+|-
+| Berichte, 2 Bde, Eichstätt 1937/38.
+|-
+| Buchner Franz Xaver Buchner, Alphabetisches XIII.
+|-
+| Eichstätter Generalregister der Geistlichkeit des Forstner Dord
+|-
+| Bistumsgeistliche Bistums Eichstätt, 2 Bde, Ms. im DAEI. bole,
+|-
+| BKV Bibliothek der Kirchenväter. Eine Aus- GKF Grof
+|-
+| wahl patristischer Werke in deutscher Schn
+|-
+| Ubersetzung, hg. von Otto Bardenhewer Zürie
+|-
+| und Theodor Schermann, ab Bd 35 hg. Hartig – Stifte Mich<br>von Johannes Zellinger und Carl Wey- Stifte
+|-
+| man, Kempten und München 1911–38. chen
+|-
+| Bd 20: Des Sulpicius Severus Schriften Cista
+|-
+| über den hl. Martinus, 1914.
+|-
+| CBD Herrmann Bauer, Frank Büttner, Bern- stifte
+|-
+| hard Rupprecht, Corpus der barocken hohe
+|-
+| Deckenmalerei in Deutschland, Bd 1: Die und
+|-
+| Landkreise Landsberg am Lech, Starn-terlie
+|-
+| berg und Weilheim-Schongau, München Mün
+|}
+
+
+
+{| class="wikitable"
+|-
+| Autlagen
+|-
+| Wolfratshausen, Garmisch-Partenkirchen
+|-
+| und Miesbach, München 1981. Bd 3: Stadt
+|-
+| und Landkreis München, Teil I: Sakral-
+|-
+| bauten, München 1987; Teil II: Profan-
+|-
+| bauten, München 1990. Bd 4: Landkreis
+|-
+| Fürstenfeldbruck, München 1995. Bd 5:
+|-
+| Landkreis Dachau, München 1996. Bd 6:
+|-
+| Stadt- und Landkreis Freising, München
+|-
+| 1998. Bd 7: Landkreis Erding, München
+|-
+| 2001. Bd 8: Landkreis Mühldorf am Inn,
+|-
+| München 2002. Bd 9: Landkreis Altötting,
+|-
+| München 2003. Bd 10: Landkreis Neu-
+|-
+| burg-Schrobenhausen, München 2005.
+|-
+| Bd 11: Landkreise Traunstein, Berchtes-
+|-
+| gadener Land, Ebersberg, München 2006.
+|-
+| Bd 12: Landkreis Rosenheim, Mün-
+|-
+| chen 2007; Bd 13 Landkreis Eichstätt,
+|-
+| München 2008.
+|-
+| Georg Dehio, Handbuch der Deutschen
+|-
+| Kunstdenkmäler, Bayern IV: München
+|-
+| und Oberbayern, München-Berlin <sup>2</sup>1990,
+|-
+| <sup>3</sup>2006.
+|-
+| Frank Becker, Christina Grimminger und
+|-
+| Karlheinz Hemmeter, Stadt Ingolstadt,
+|-
+| Denkmäler in Bayern, Bd 1 und 2, Mün-
+|-
+| chen 2002.
+|-
+| Jolanda Drexler-Herold und Angelika
+|-
+| Wegener-Hüssen, Landkreis Pfaffen-
+|-
+| hofen an der Ilm, Denkmäler in Bayern
+|-
+| Bd 1,19, München 1992.
+|-
+| Jolanda Drexler-Herold, Kunst und Kul-
+|-
+| tur im Landkreis Pfaffenhofen a.d.Ilm,
+|-
+| in: Denkmaltopographie Pfaffenhofen, S.
+|-
+| XIII–XXXIII.
+|-
+| Dorothea Forstner, Die Welt der Sym-
+|-
+| bole, Innsbruck-Wien-München 1967.
+|-
+| Große Kunstführer, hg. von Hugo
+|-
+| Schnell und Johannes Steiner, München-
+|-
+| Zürich 1934ff.
+|-
+| Michael Hartig, Die oberbayerischen
+|-
+| Stifte, die großen Heimstätten der Kir-
+|-
+| chenkunst, Bd 1: Die Benediktiner-,
+|-
+| Cisterzienser- und Augustiner-Chorher-
+|-
+| renstifte, Bd 2: Die Prämonstratenser-
+|-
+| stifte, die Klöster Altomünster und Alten-
+|-
+| hohenau, die Collegiatstifte, der Deutsch-
+|-
+| und der Malteserorden, die nachmittelal-
+|-
+| terlichen begüterten Orden und Stifte,
+|-
+| München 1935/36.
+|}
+
+
+
+{| class="wikitable"
+|-
+| lederich Benjamin Hederich, Gründliches Mytho-
+|-
+| logisches Lexicon, Leipzig 1770, Nach-
+|-
+| druck Darmstadt 1967.
+|-
+| Iemmerle Josef Hemmerle, Die Benediktinerklöster
+|-
+| in Bayern, in: Germania Benedictina, Bd
+|-
+| II, Augsburg 1970. Ke
+|-
+| Ienkel/Schöne Emblemata, Handbuch zur Sinnbildkunst
+|-
+| des 16. und 17. Jahrhunderts, hg. von Ar-
+|-
+| thur Henkel und Albrecht Schöne, Stutt-
+|-
+| gart 1967. KF
+|-
+| Iennecke/ Edgar Hennecke, Neutestamentliche<br>chneemelcher Apokryphen in deutscher Übersetzung, Kr
+|-
+| 3. völlig neu bearbeitete Auflage hg. von
+|-
+| Wilhelm Schneemelcher, Bde 1-2, Tübin- LA
+|-
+| gen 1959 und 1964.
+|-
+| listorischer Atlas Historischer Atlas von Bayern (Hg.
+|-
+| ngolstadt Kommission für Bayerische Landesge- LA
+|-
+| schichte bei der Bayerischen Akademie
+|-
+| der Wissenschaften), Teil Altbayern, Bd
+|-
+| 46, Ingolstadt und die Gerichte Gerolfing, La
+|-
+| Kösching, Stammham-Etting, Vohburg,
+|-
+| Mainburg und Neustadt a.d. Donau, be-
+|-
+| arbeitet von Hubert Freilinger, München LC
+|-
+| 1977.
+|-
+| listorischer Atlas Historischer Atlas von Bayern (Hg.
+|-
+| faffenhofen Kommission für Bayerische Landesge- Le
+|-
+| schichte bei der Bayerischen Akademie We
+|-
+| der Wissenschaften), Teil Altbayern, Bd
+|-
+| 14, Das Landgericht Pfaffenhofen und das Lij
+|-
+| Pfleggericht Wolnzach, bearbeitet von Ki
+|-
+| Volker von Volckamer, München 1963. LT
+|-
+| Historischer Atlas Historischer Atlas von Bayern (Hg.
+|-
+| chrobenhausen Kommission für Bayerische Landesge-
+|-
+| schichte bei der Bayerischen Akademie M:
+|-
+| der Wissenschaften), Teil Altbayern, Bd
+|-
+| 42, bearbeitet von Stefanie Hamann,
+|-
+| München 1977.
+|-
+| Hofmann 1973 Hofmann, Siegfried, Zum Werk Ingol- M
+|-
+| städter Freskenmaler des 18. Jahrhun- bz
+|-
+| derts, in: SHVI 82, 1973, S. 156–184.
+|-
+| Hollstein F.W.H. Hollstein, Dutch and Flemish
+|-
+| Etchings, Engravings and Woodcuts, ca.
+|-
+| 1450–1700, Bd 1 ff., Amsterdam 1949 ff. Na
+|-
+| Hopp, Jakob Hopp, Pfründestatistik der Diö- Ki
+|-
+| fründestatistik zese Augsburg, 2 Bde, Augsburg 1893.
+|-
+| erusalemer Bibel Die Bibel. Die Heilige Schrift des Alten
+|-
+| und Neuen Bundes, deutsche Ausgabe mit
+|-
+| den Erläuterungen der Jerusalemer Bibel,
+|-
+| hg. von Diego Arenhoevel, Alfons Deiss-
+|-
+| ler und Anton Vögtle, Freiburg i. B. 1968.
+|-
+| H Ingolstädter Heimatblätter, Beilage zum
+|-
+| Donaukurier Jg. 12–68, 1949– 2005.
+|-
+| ngolstadt 1974
+|-
+| versitätsstadt – Die Festung. Hg. von
+|-
+| Theodor Müller und Wilhelm Reismüller, O
+|-
+| 2 Bde, Ingolstadt 1974.
+|-
+| XDB I OB Die Kunstdenkmäler des Königreiches
+|-
+| Bayern. I. Regierungsbezirk Oberbayern,
+|}
+
+
+
+{| class="wikitable"
+|-
+| logisches Lexicon, Leipzig 1770, Nachdruck Darmstadt 1967.
+
+merle
+
+Josef Hemmerle, Die Benediktinerklöster in Bayern, in: Germania Benedictina, Bd II, Augsburg 1970.
+
+kel/Schöne
+
+kel/Schöne
+
+Kemp
+
+Kemp
+
+Kemp
+
+Kemp
+
+Kemp
+
+K
+|-
+| der Wissenschaften), Teil Altbayern, Bd<br>46, Ingolstadt und die Gerichte Gerolfing, Lapide, Cornelius Cornelius a Lapide, Commentaria in<br>Kösching, Stammham-Etting, Vohburg, scripturam Sacram, Bd I–XXI, Paris
+|-
+| Mainburg und Neustadt a.d. Donau, be-
+arbeitet von Hubert Freilinger, München
+1977.
+
+Drischer Atlas Historischer Atlas von Bayern (Hg.\nenhofen Kommission für Bayerische Landesge-
+schichte bei der Bayerischen Akademie
+
+Main
+|-
+| der Wissenschaften), Teil Altbayern, Bd
+
+14, Das Landgericht Pfaffenhofen und das Pfleggericht Wolnzach, bearbeitet von Volker von Volckamer, München 1963.
+
+ker, München-Zürich 1988.
+
+Felix Joseph Lipowsky, Baierisches Kün
+|-
+| orischer Atlas Historischer Atlas von Bayern (Hg. von Josef Höfer und Karl Rahner, 13 Bde
+|-
+| obenhausen Kommission für Bayerische Landesge- Freiburg i.Br. <sup>2</sup>1957–68.
+|-
+| schichte bei der Bayerischen Akademie Marienlexikon Marienlexikon, hg. vom Institutum Ma-
+|-
+| der Wissenschaften), Teil Altbayern, Bd rianum Regensburg, Remigius Bäumer
+|-
+| 42, bearbeitet von Stefanie Hamann, Leo Scheffczyk, 6 Bde, St. Ottilien 1988-
+|-
+| München 1977. 94.
+|-
+| nann 1973 Hofmann, Siegfried, Zum Werk Ingol- Meidinger 1787 Franz Sebastian Meidinger, Historische
+|-
+| städter Freskenmaler des 18. Jahrhun- bzw.1790 Beschreibung verschiedener Städte und
+|-
+| derts, in: SHVI 82, 1973, S. 156–184. Märkte der kurfürstlich pfalzbaierischer
+|-
+| stein F.W.H. Hollstein, Dutch and Flemish Rentämter München, Burghausen, Lands-
+|-
+| Etchings, Engravings and Woodcuts, ca. hut und Straubing, Landshut 1787, 1790
+|-
+| 1450–1700, Bd 1 ff., Amsterdam 1949 ff. Nagler Georg Kaspar Nagler, Neues allgemeines
+|-
+| p, Jakob Hopp, Pfründestatistik der Diö- Künstlerlexikon Künstler-Lexicon oder Nachrichten von
+|-
+| ndestatistik zese Augsburg, 2 Bde, Augsburg 1893. dem Leben und den Werken der Maler
+|-
+| talemer Bibel Die Bibel. Die Heilige Schrift des Alten Bildhauer, Baumeister, Kupferstecher
+|-
+| und Neuen Bundes, deutsche Ausgabe mit Formschneider, Lithographen, Zeichner
+|-
+| den Erläuterungen der Jerusalemer Bibel, Medailleure, Elfenbeinarbeiter, etc., 2
+|-
+| hg. von Diego Arenhoevel, Alfons Deiss- Bde, München 1835–1852.
+|-
+| ler und Anton Vögtle, Freiburg i. B. 1968. OAVG, OA Oberbayerisches Archiv für vaterländi
+|-
+| Ingolstädter Heimatblätter, Beilage zum sche Geschichte, hg. vom historischer
+|-
+| Donaukurier Jg. 12–68, 1949–2005. Verein von und für Oberbayern, Mün
+|-
+| lstadt 1974
+|-
+| versitätsstadt – Die Festung. Hg. von Archiv, München 1962 ff.
+|-
+| Theodor Müller und Wilhelm Reismüller, Oefeleana Andreas Felix von Oefele, Nachlass seine
+|-
+| 2 Bde, Ingolstadt 1974. Schriften ca. 1735–58, BSB 5, I–XXVIII.
+|-
+| BIOB Die Kunstdenkmäler des Königreiches
+|}
+
+
+
+----
+Ι4
+
+
+
+----
+TS
+<!-- citation-page-bottom: Band14 p15 -->

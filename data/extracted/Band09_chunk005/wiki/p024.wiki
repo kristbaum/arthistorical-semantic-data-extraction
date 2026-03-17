@@ -1,0 +1,293 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=24 -->
+<!-- citation-page-top: Band09 p246 -->
+
+
+== REGISTER ==
+
+
+
+== Ortsregister ==
+
+
+Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekt
+
+
+{| class="wikitable"
+|-
+| Abensberg 173
+|-
+| Ach/OO 7, 243
+|-
+| Albaching 244 B
+|-
+| Alteglofsheim, Pfarrkirche 224
+|-
+| Altheim/OO 50
+|-
+| Altötting 19–28, 104, 114, 146 f., 154, 204, 243f. B
+|-
+| Wallfahrtsort 81
+|-
+| Chorherrenstöcke 19 B
+|-
+| Franziskanerkirche 20 B
+|-
+| Gnadenkapelle 19, 95 f.
+|-
+| Hoftaverne 19
+|-
+| Institut der Englischen Fräulein 23–28, 224 C
+|-
+| Kirche Mariä Vermählung 7, 23–28, 101 C
+|-
+| Jesuitenkolleg 19–23
+|-
+| Kirche St. Magdalena 7, 19–22, 244
+|-
+| Josephskapelle bei St. Magdalena 224 C
+|-
+| Kongregationssaal 19, 22 f.
+|-
+| Kirche St. Anna 19
+|-
+| Kollegiatstift 98, 223
+|-
+| Kurfürstliches Propsteigericht 7, 19, 29 f., 217
+|-
+| Wallfahrts- und Heimatmuseum 24 D
+|-
+| Wallfahrtsort 81 D
+|-
+| Alzgern 7, 29–42, 82, 114, 217, 219, 244 D
+|-
+| Amberg 224 D
+|-
+| Andechs 120, 245 D
+|-
+| Prälatenkapelle 182
+|-
+| Asbach 224 D
+|-
+| Athen 133 D
+|-
+| Au bei München 154, 245
+|-
+| Aufhofen bei Regensburg 119 El
+|-
+| Augsburg, Dominikanerkirche 145 E.
+|-
+| Aurolzmünster/OÖ 7, 50 En
+|-
+| Baudeloo 157, 175 Et
+|-
+| Baumburg, Stiftskirche 81 f., 87 E1
+|-
+| Archidiakonat 43, 70, 75, 81, 105 f., 119, 125,
+|-
+| 235 Fe
+|-
+| Bayern Fl
+|-
+| Herzogtum 115 Fo
+|-
+| Kurfürstentum 114 f., 162, 188, 190, 201, 240 Fo
+|-
+| Belgrad 233 Fr
+|-
+| Berchtesgaden, Stiftskirche 224 Fr
+|-
+| Berg am Laim 128, 245 Fr
+|-
+| Berg bei Schnaitsee 245 Fr
+|-
+| Bergkirchen 151, 154 Fi
+|-
+| Biberach 154, 245 Fi
+|-
+| Bockhorn 230
+|-
+| Braunau/OO 7, 20, 44, 50 G:
+|-
+| Bruchsal 245
+|-
+| -, Residenz 245 G:
+|-
+| Buch am Buchrain 180 Ga
+|-
+| Burgharting 245
+|-
+| Burghausen 7, 29, 43-74, 81, 95, 100, 125, 143 f., Go
+|-
+| 147, 149, 151 t., 157, 168, 177, 224, 243–45 Go
+|-
+| Burg 177
+|-
+| Jesuitenkolleg 7, 43, 180, 224 Go
+|-
+| Große Aula 43–63
+|-
+| Kleine Aula 63–69, 245
+|-
+| Kirche St. Joseph 43 f., 46
+|-
+| Institut der Englischen Fräulein 70, 205, 211
+|-
+| Kirche Hl. Schutzengel 7, 48, 70–74, 224 Ha
+|-
+| Pfarrei 70, 149
+|-
+| Pfarrkirche St. Jakob 43, 45
+|}
+
+
+
+{| class="wikitable"
+|-
+| Stadtarchiv 191 Hallein 203
+|-
+| Stadtmuseum 125 Halsbach 151, 154
+|-
+| Burgkirchen an der Alz 75-80, 100, 119, 126, 149, Pfarrei 75, 119, 149, 173, 235, 240
+|-
+| 4 Hart an der Alz/Wald an der Alz, Pfart
+|-
+| Pfarrei 98
+|-
+| f., 154, 204, 243f. Burgkirchen am Wald 101 f., 245 Haselbach/OÖ 7, 243
+|-
+| Pfarrei 223 Heidelberg 214
+|-
+| Burgkirchen/OÖ 44 Heiligblut bei Erding 104
+|-
+| Burgund 168 f. Heiligenkreuz/NÖ 166, 168
+|-
+| Heiligenstatt 7, 98–104, 224, 244
+|-
+| Casellion 169 Heiligkreuz 81
+|-
+| lein 23–28, 224 Chalons 170 Helpfau/OÖ 7, 44, 98, 223, 243
+|-
+| 7, 23–28, 101 Chartres 160 Herrenchiemsee, Bibliothek 152, 245
+|-
+| Châtillon 158 Hildesheim 115
+|-
+| -22, 244 Chiemsee 203
+|-
+| alena 224 Cîteaux 150, 158, 162 Ingolstadt 173, 214
+|-
+| Clairvaux 156, 162, 164, 168–70, Kongregationssaal 44, 63
+|-
+| Clermont 54 Innviertel 7, 43, 243
+|-
+| Cluny 160 Innsbruck 244
+|-
+| ht 7, 19, 29 f., 217 Jerusalem 162
+|-
+| eum 24 Damaskus 56 Sabaskloster 56
+|-
+| Deinting 81 Jettenbach 231
+|-
+| 219, 244 Delphi 133
+|-
+| Diessen 244 Kirchisen 149, 151
+|-
+| Dietramszell 82 Kirchberg 245
+|-
+| St. Leonhard 193 Kirchweidach 7, 81 f., 105–18, 128, 244
+|-
+| Dillingen 59, 178 Kirchweidach/Feichten, Verwaltungsg
+|-
+| Dorfen 151, 224, 232 81
+|-
+| Koblenz 214
+|-
+| Ebersberg 64 Köln 233
+|-
+| Edessa 61, 162 St. Maria im Kapitol 62 f.
+|-
+| Erding 100, 244 Konstanz 154, 245
+|-
+| Eschlbach 244 Kösslarn/NB 245
+|-
+| Etampes 160, 164 Kraiburg 50, 100, 224
+|-
+| 7 Ettenberg 45, 224 Gericht 101, 244
+|-
+| , 105 f., 119, 125, Krems 203
+|-
+| Feichten an der Alz 7, 23, 81–94, 105 f., 114, 244 Kunterweg 45
+|-
+| Florenz 62
+|-
+| Fontaines, Schloß 158 Landshut 135, 173, 224, 244
+
+88, 190, 201, 240 Forst bei Wessobrunn 98 St. Jodok 245
+|-
+| Franken 114, 124, 162 St. Martin 20, 245
+|-
+| Freising 95, 154, 166, 168, 233, 244 Frauenkapelle 20
+|-
+| Friedburg/OÖ 7, 50 Seelenkapelle auf dem Martinsfriedh
+|-
+| Friedingen bei Beuron 244 Universität 157
+|-
+| Fürstenfeld 156, 169, 244
+
+Fürstenzell 119
+
+Langheim 124
+
+Langres 170
+|-
+| Lebern bei Halsbach 24
+|-
+| Gandia (Valencia) 58
+
+Leonberg-Marktl, Gericht 7
+
+Kloster St. Clara 58
+
+Linz 70
+|-
+| Garching a.d. Alz 82, 105
+
+Gars am Inn, Augustinerchorherrenstift 23, 223
+
+Archidiakonat 19, 29, 98, 223
+
+Lüttich 160, 233
+
+Lyon 54
+|-
+| , 100, 125, 143 f., Gellone, Kloster St.-Guillaume-du-Desert 164 Madrid 62
+|-
+| , 224, 243–45 Gendorf 75 Männkamberfeld 91
+|-
+| Genua 170 Mailand 166, 170
+|-
+| Goa 53 Maleval 60
+|-
+| Grassau 243
+Gstaig/OÖ 236, 244
+
+Gumattenkirchen 126, 149, 151, 180, 243
+
+Manlieu 54
+
+Margarethenberg 7, 119–24, 126, 149, 235, 245
+|-
+| Maria Ach/OÖ 7, 243
+
+Haag 233
+
+Haigermoos/OÖ 45
+
+Haiming 7, 95–97, 144
+
+Maria Ettenberg 245
+
+Maria Trens, Südtirol 45
+
+Mariakirchen/NB 245
+|}
+<!-- citation-page-bottom: Band09 p247 -->

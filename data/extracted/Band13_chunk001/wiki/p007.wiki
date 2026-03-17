@@ -1,0 +1,216 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band13 p12 -->
+
+
+== ABKURZUNGEN ==
+
+
+
+== Allgemeine Abkürzunger ==
+
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+
+{| class="wikitable"
+|-
+| ABA Archiv des Bistums Augsburg NT Neues Testament
+|-
+| Abb. Abbildung NW Nordwesten
+|-
+| Anm. Anmerkung O Osten
+|-
+| AR Altarraum OAE Ordinariatsarchiv Eichstätt
+|-
+| AT Altes Testament OB Oberbayern
+|-
+| BA Bezirksamt OFr Oberfranken
+|-
+| Bd, Bde Band, Bände o. J. ohne Jahr
+|-
+| BHStA Bayerisches Hauptstaatsarchiv, München o. O. ohne Ort
+|-
+| BLfD Bayerisches Landesamt für Denkmal- OPf Oberpfalz
+|-
+| pflege, München o. V. ohne Verfasser
+|-
+| BNM Bayerisches Nationalmuseum, München Par. Parallelstellen
+|-
+| BSB Bayerische Staatsbibliothek, München PNA Pfalz-Neuburg Akten
+|-
+| BSGS Bayerische Staatsgemäldesammlungen, PNA, NA 1989 Pfalz-Neuburg Akten,
+|-
+| München Neuburger Abgabe 1989
+|-
+| BZAR Bischöfliches Zentralarchiv Regensburg QHs Querhaus
+|-
+| cgm Codex germanicus monacensis QSch. Querschiff
+|-
+| clm Codex latinus monacensis r. recto
+|-
+| Cod. Codd. Codex, Codices S Süden
+|-
+| DAEI Diözesanarchiv Eichstätt S. Seite
+|-
+| Diss. Dissertation Schw. Schwaben
+|-
+| Ed., ed. Edition, edidit SGS Mü Staatliche Graphische Sammlung,
+|-
+| F. Faszikel München
+|-
+| f., ff. folgend, folgende SO Südosten
+|-
+| fl. Gulden Sp. Spalte
+|-
+| Fa. Firma SSch. Seitenschiff
+|-
+| fol. St. Sankt
+|-
+| frdl. Mitt. freundliche Mitteilung StAA Staatsarchiv Amberg
+H. StadtA Stadtarchiv
+|-
+| Hg., hg. v. Herausgeber, herausgegeben von StadtA EI Stadtarchiv Eichstätt
+|-
+| hl., hll. heilig, heilige StAM Staatsarchiv München
+|-
+| HS Handschriften StBiblA Staatsbibliothek Augsburg
+Inv. Inventar SW Südwesten
+|-
+| Jg., Jgg. Jahrgang, Jahrgänge s.v. sub verbo
+|-
+| Jh. Jahrhundert Taf. Tafel
+|-
+| Kat. Katolog Tom. Tomus
+|-
+| Kap. Kapitel tw. teilweise
+|-
+| kr., x Kreuzer TUM Technische Universität, München
+LHs Langhaus UBEI Universitätsbibliothek Eichstätt-Ingo
+stadt
+|-
+| LKr. Landkreis UFr Unterfranken
+|-
+| loc. cit. lococitato ungedr. ungedruckt
+Lw. Leinwand v. verso
+|-
+| Ms., Mss. Westen W
+|-
+| MFr Mittelfranken
+|-
+| MSch. Mittelschiff
+|-
+| NB Niederbayern Darüber hinaus allgemein übliche Abkürzungen sind nach Duden vorgenommen.
+|}
+
+
+
+== Abkürzungen der biblischen Schriften ==
+
+
+nach der Vulgata Clementina in der Neuausgabe Madrid 196<br>dazu deutsche Bezeichnung nach der Übersetzung Luthers
+
+
+{| class="wikitable"
+|-
+| Altes Testament Agg Aggaeus Haggai<br>Zach Zacharias Sacharja
+|-
+| Gen Genesis 1 Mose
+
+Ex Exodus 2 Mose
+
+Lex Leviticus 3 Mose
+
+Mal Malachias Maleachi
+
+1 Mach 1 Machabaeorum 1 Makkabäer
+
+2 Mach 2 Machabaeorum 2 Makkabäer
+|-
+| Num Numeri 4 Mose
+|-
+| Deut Deuteronomium 5 Mose
+|-
+| Ios Iosue Josua Neues Testament
+|-
+| Iud Iudices Richter
+|-
+| Ruth Ruth Ruth Mt Evangelium sec. Matthäus-
+|-
+| 1 Sam 1 Samuelis seu 1 Regum 1 Samuel
+2 Sam 2 Samuelis seu 2 Regum 2 Samuel
+3 Reg 3 Regum 1 Könige
+4 Reg 4 Regum 2 Könige
+1 Par 1 Paralipomenon 1 Chronik
+
+Matthaeum Evangelium
+Evangelium
+Evangelium
+Evangelium
+Evangelium
+Ev
+|-
+| 2 Par 2 Paralipomenon 2 Chronik Io Evangelium sec. Ioannem Johannes-
+|-
+| Esdr 1 Esdrae Esra Evangelium
+|-
+| Neh Nehemias seu 2 Esdrae Nehemia Act Actus Apostolorum Apostelgeschichte
+|-
+| Tob Tobias Tobias des Lukas
+|-
+| IudithJudithRomEpistola ad RomanosRömerbriefEsthEstherEstherEstherEpistola ad CorinthiosEsther</t
+|-
+| Iob Iob Hiob 2 Cor 2 Epistola ad Corinthios 2. Korintherbrief
+|-
+| Ps Psalm Psalter Gal Epistola ad Galates Galaterbrief
+|-
+| Prov Proverbia Sprüche Salomos Eph Epistola ad Ephesios Epheserbrief
+|-
+| Eccl Ecclesiastes Prediger Salomo Phil Epistola ad Philippenses Philipperbrief
+|-
+| Cant Canticum Canticorum Hoheslied Salomos Col Epistola ad Colossenses Kolosserbrief
+|-
+| Sap Sapientia Weisheit Salomos 1 Thess 1 Epistola ad 1. Thessa-<br>Eccli Ecclesiasticus Iesus Sirach Thessalonicenses lonicherbrief
+|-
+| Is Isaias Jesaja 2 Thess 2 Epistola ad 2. Thessa-
+|-
+| Ier Ieremias Jeremia Thessalonicenses lonicherbrief
+|-
+| Lam Lamentationes Klagelieder 1 Tim 1 Epistola ad Timotheum 1. Timotheusbrief
+|-
+| Jeremias 2 Tim 2 Epistola ad Timotheum 2. Timotheusbrief
+|-
+| Bar Baruch Baruch Tit Epistola ad Titum Titusbrief
+|-
+| Ez Ezechiel Hesekiel Philem Epistola ad Philemonem Philemonbrief
+|-
+| Dan Daniel Daniel Hebr Epistola ad Hebraeos Hebräerbrief
+|-
+| Os Osee Hosea Iac Epistola Iacobi Jakobusbrief
+|-
+| Ioel Ioel Joel 1 Petr 1 Epistola Petri 1. Petrusbrief
+|-
+| Am Amos Amos 2 Petr 2 Epistola Petri 2 Petrusbrief
+|-
+| Abd Abdias Obadja 1 Io 1 Epistola Ioannis 1. Johannesbrief
+|-
+| Ion Ionas Jonas 2 Io 2 Epistola Ioannis 2. Johannesbrief
+|-
+| Mich Michaeas Micha 3 Io 3 Epistola Ioannis 3. Johannesbrief
+|-
+| Nah Nahum Nahum Iudae Epistola Iudae Judasbrief
+|-
+| Hab Habacuc Habakuk Apoc Apocalypsis Offenbarung
+|-
+| Soph Sophonias Zephania des Johannes
+|}
+
+
+
+----
+1 4
+
+
+
+----
+T
+<!-- citation-page-bottom: Band13 p13 -->

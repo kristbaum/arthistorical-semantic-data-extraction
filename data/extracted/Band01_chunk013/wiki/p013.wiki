@@ -1,0 +1,126 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=13 -->
+<!-- citation-page-top: Band01 p624 -->
+
+
+== REGISTER ==
+
+
+
+== Ortsregister ==
+
+
+Unter den Ortsnamen sind die weltlichen und geistlichen Rechtsinstitutionen und Rechtsträger - Landgerichte, Pflegämter, Hofmarken und Herrschaften sowie Klöster, Stifte, Kollegien etc. - eigens aufgeführt. Die hierunter erfaßten Seitenzahlen verweisen auf die historischen, z. Z. der Ausmalung bestehenden administrativ-rechtlichen Verbindungen.
+
+Kunstsammlungen sind unter ihrem Standort aufzusuchen. Kursivzahlen verweisen auf die Abhandlung eines Objektes
+
+
+{| class="wikitable"
+|-
+| Adelshausen 19-21, 62
+|-
+| Adelsried 248
+|-
+| Admont 465, 466
+|-
+| Aich 367-372
+|-
+| Aitrang → St. Alban
+|-
+| Aldersbach 469
+|-
+| Altdorf bei Kaufbeuren 520
+|-
+| Altenerding 508
+|-
+| Altomünster 337
+|-
+| Ammerhöfe → St. Nikolaus
+|-
+| Andechs 32, 43, 47, 153, 289–316, 598 f.,
+|-
+| 621
+|-
+| Andechs, Benediktinerabtei 164, 184, 231,
+|-
+| 232, 254, 289, 326, 362
+|-
+| Antdorf 205, 373–75
+|-
+| Antwerpen 278
+|-
+| Arnried 376 f
+|-
+| Asch 22
+|-
+| Asch, Herrschaft 167
+|-
+| Aschering 116, 263, 317 f., 335
+|-
+| Aufkirchen 332, 360
+|-
+| Augsburg 78, 152, 554, 578
+|-
+| Augsburg, Orte der Diözese 19, 22, 23, 25,
+|-
+| 28, 30, 38, 48, 54, 62, 64, 66, 74, 78, 82, 86,
+|-
+| 91, 95, 101, 102; 105, 109, 114, 118, 120,
+|-
+| 126, 132, 144, 158, 162, 164, 167, 169, 172,
+|-
+| 178, 179, 180, 184, 191, 199, 202, 205, 208,
+|-
+| 212, 217, 220, 224, 229, 230, 231, 232, 234,
+|-
+| 240, 241, 247, 248, 252, 254, 255, 266, 275,
+|-
+| 280, 282, 289, 317, 319, 322, 326, 327, 335,
+|-
+| 338, 342, 344, 347, 352, 355, 358, 362, 367,
+|-
+| 373, 376, 378, 381, 387, 393, 397, 403, 404,
+|-
+| 407, 415, 419, 426, 428, 433, 437, 439, 442,
+|-
+| 444, 446, 450, 470, 472, 475, 502, 506, 508,
+|-
+| 513, 517, 525, 530, 532, 543, 545, 548, 549,
+|-
+| 553, 560, 563, 567, 590, 595, 600, 602
+|-
+| Augsburg, Damenstift St. Stephan 22, 167
+|-
+| Augsburg, Hochstift 30, 162, 280, 381, 393,
+|-
+| 426, 446, 475, 543
+|-
+| Augsburg, St. Moritz 105
+|-
+| Augsburg, Städtische Kunstsammlungen 38
+|-
+| 300, 327
+|-
+| Bad Aibling 508
+|}
+
+
+Bad Hibling 500 Baiershofen 157, 189 Bauerbach 378–80, 403 Beinberg → Maria Beinberg Benediktbeuern 184, 256, 302, 375 Benediktbeuern, Benediktinerabtei 19, 2 91, 202, 224, 229, 247, 252, 253, 439, 442 506, 530 Berg 332, 513. → Kempfenhausen
+
+Berlin, Kunstbibliothek 132 Bernbeuren 381–92, 393, 395, 408, 426, 426 475, 600 Bernried, Augustinerchorherrenstift 199, 378, 404, 433, 548 Beuerbach 19, 23 f. Beuern 25-27, 33 Bischofsried 28 f., 268, 275 Blumenthal, Kommende 275 Bonn 25 Bremen, Kunsthalle 327 Brühl 25 Buch 342. → Schlagenhofen Buchendorf → Gauting Burggen 381, 384, 393-402, 397, 426, 475 Denklingen 30–36, 37, 241, 242, 280, 525 Dettenschwang 91, 178 Deutenhausen 376, 403 Diemendorf 319-321 Dienhausen 37
+
+Dietramszell 256. → St. Leonhard bei D. Dillingen 132 Eberfing 376. → Arnried Ebersberg 373 Eching 48-53, 59, 327 Eglfing 433, 548. → Obereglfing, → Unter eglfing Egling 19, 54–63, 95, 100 Ellighofen 64 f., 162, 280 Ellwangen 132 Epfach 543 Epfenhausen 91, 202, 204 Eresing 66-72, 91, 96, 221 Eresried 19, 62 Erling-Andechs 289, 326, 362. → Andechs Erpfting 64, 74–77, 111, 114, 451, 560 Ettal 43, 59, 95, 395, 425 Ettal, Benediktinerabtei 54, 62, 95, 373, 43 512
+
+Fiecht in Tirol 78 Finning → Unterfinning Forst → St. Leonhard im Forst Freising 558 Freising, Diözese → München-Freising, Erzdiözese
+
+Friedberg, Stadt 78 Frieding 362 Fuchstal 22, 162, 280. → Welden Fürstenfeld, Fürstenfeldbruck 82, 326, 493 Füssen, Benediktinerabtei 37, 381, 393, 407 426, 475, 502, 525, 545
+
+Gauting 337 Geltendorf 78−81, 114, 266. → V hausen Geretshausen 180 Gossensass in Tirol 488 Greifenberg 82–85 Greifenberg, Herrschaft 25, 48, 8 Grünsink 312, 322–25, 335, 362
+
+Trabach, Horiegratistift 550 Hadorf 326 Hagenheim 86 Haunshofen 378, 379, 404–06. → Bauerbach Hausen bei Geltendorf 19, 62, 87–90, 91, 92 Hechenwang 19, 62, 91–94 Heinrichshofen 95–100, 223 Herrenchiemsee 493 Herrsching 362. → Widdersberg Hirschberg in Schlesien 141 Hofstetten 86 Hohenfurch 387, 407-09, 428 Hohenpeißenberg 410–14 Hohenschäftlarn 360, 361 Holzhausen am Ammersee 91, 101, 202 Holzhausen bei Buchloe 102-04, 248, 433 II:...................................
+
+Iffeldorf 415–21 Igling, Herrschaft 74, 169, 248. → Oberigling, → Unterigling Indersdorf 500 f. Ingolstadt 463 Inning 327-31, 332, 342, 472 Issing 74, 109–13, 255
+
+Jedelstetten 74, 114-1
+
+Kaltenberg, Hofmark 114 Kaufering 118–25, 236 Kaufering, Hofmark 118 Kempfenhausen 57, 332 f., 34
+<!-- citation-page-bottom: Band01 p625 -->
