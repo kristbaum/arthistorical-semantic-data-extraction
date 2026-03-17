@@ -2,7 +2,8 @@
 
 ## Motivation
 
-The printed versions of the "Corpus der barocken Deckenmalerei in Deutschland" exist in 15 books (14 volumes and one index). They were published from 1976 to 2010 and cover all areas of upper Bavaria. Only a few number of books was printed at the time, and they are not readily available.
+The printed versions of the "Corpus der barocken Deckenmalerei in Deutschland" exist in 15 books (14 volumes and one index). 
+They were published from 1976 to 2010 and cover all areas of upper Bavaria. Only a small number of books were printed at the time, and they are not readily available.
 The goal of this work is to update the contents of the original CbDD to fit the modern digital format of the [deckenmalerei.eu](https://www.deckenmalerei.eu) database.
 
 * Band 1: Die Landkreise Landsberg am Lech, Starnberg, Weilheim-Schongau. Hirmer, München 1976, ISBN 978-3-7991-5737-7 (dnb.de).
@@ -29,17 +30,17 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 
 ### Text processing
 
-* [x] Spliting into smaller sizes for processing on the transcribus scanning platform
+* [x] Splitting into smaller sizes for processing on the Transkribus scanning platform
 * [x] Hand-checking 100 pages for ground truth
-* [x] Training a custon text recognition model (6.5h on transcribus.org)
+* [x] Training a custom text recognition model (6.5h on transcribus.org)
 * [x] Running all pages through model (34.5h)
-* [x] Running an additional layout and text recognition model ([surya](https://github.com/VikParuchuri/surya), 2025) on smallscale hardware (GTX 1660)
-* [x] Parse and transform the layouted ocr results into [MediaWiki markup language](https://www.mediawiki.org/wiki/Help:Formatting)
-* [ ] Adding hidden links to relevant part of pdf on every page
-* [ ] Merge both ocr results with larger LLM model (Mistral-7B) on LRZ AI hardware to improve results and fix layout ordering errors from transcribus ocr (Pass 1)
+* [x] Running an additional layout and text recognition model ([surya](https://github.com/VikParuchuri/surya), 2025) on small-scale hardware (GTX 1660)
+* [x] Parse and transform the laid-out OCR results into [MediaWiki markup language](https://www.mediawiki.org/wiki/Help:Formatting)
+* [ ] Adding hidden links to relevant part of PDF on every page
+* [ ] Merge both OCR results with larger LLM model (Mistral-7B) on LRZ AI hardware to improve results and fix layout ordering errors from Transkribus OCR (Pass 1)
 * [ ] Improve spelling mistakes and remove indices and other non article text (Pass 1)
-* [ ] Expand abbreviations, based on the glossar (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 1)
-* [ ] Identify and split results into building based articles using Mistral on LRZ AI (Pass 2)
+* [ ] Expand abbreviations, based on the glossary (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 1)
+* [ ] Identify and split results into building-based articles using Mistral on LRZ AI (Pass 2)
 * [ ] Standardize article formatting with sections:
   * Patrozinium
   * Zum Bauwerk
@@ -51,11 +52,11 @@ The goal of this work is to update the contents of the original CbDD to fit the 
   * Photographische Dokumentation
   * Planskizzen
   * Anhang
-* [ ] Improve article formatting by adding citation box at the top, that reference the correct volume (and page number?) with a template
+* [ ] Improve article formatting by adding citation box at the top, that references the correct volume (and page number?) with a template
 Match
 * [ ] Match articles to stub articles in deckenmalerei.eu database to get identifiers and correct lemma
 * [ ] Upload articles into MediaWiki
-* [ ] Fix remaning errors on MediaWiki to track changes
+* [ ] Fix remaining errors on MediaWiki to track changes
 
 ### Image processing
 
