@@ -51,9 +51,16 @@ oder getrennten Wörter wie „Stichkap pen" → „Stichkappen").
 Zeichensalat (z. B. „D 110110 3,0 ) FR OSEXISO").
 
 Zitate:
+- Die meisten Zitate sind bereits durch »« im OCR-Text erkennbar (sofern korrekt erkannt).
 - Zitate mit »« umschließen.
 - Zitate über ca. 40 Wörter zusätzlich mit <blockquote>…</blockquote> umrahmen.
-- Zitattext inhaltlich nicht verändern.
+- Den Zitattext AUSSCHLIESSLICH aus der Transkribus-OCR übernehmen – niemals aus \
+ eigenem Wissen ergänzen oder verändern.
+- Ist kein Transkribus-Text vorhanden, Zitat unverändert aus Surya übernehmen.
+
+Bildunterschriften:
+- Text nach „thumb|" in Dateieinbindungen (z. B. [[File:…|thumb|Joseph W]]) \
+OCR-korrigieren wie Fließtext, aber nicht inhaltlich verändern.
 
 Sonstiges:
 - Keine neuen Inhalte hinzufügen, Sinn nicht verändern.
