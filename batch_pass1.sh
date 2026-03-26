@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -p lrz-v100x2
+#SBATCH -p lrz-hgx-h100-94x4
 #SBATCH --gres=gpu:1
 #SBATCH --time=01:00:00
 #SBATCH -o logs/log_%j.out
@@ -9,7 +9,7 @@
 set -euo pipefail
 cd /workspace
 
-MODEL=qwen3:14b
+MODEL=qwen3:32b-fp16
 # Non-thinking mode: add /no_think to the system prompt in run_pass1.py for faster, deterministic output.
 # Recommended Ollama options for non-thinking mode: temperature=0.7, top_p=0.8, top_k=20
 
@@ -17,6 +17,8 @@ echo "[INFO] Host=$(hostname) Start=$(date)"
 
 # Install and start Ollama
 if ! command -v ollama >/dev/null 2>&1; then
+  apt-get update
+  apt-get install -y zstd pciutils
   curl -fsSL https://ollama.ai/install.sh | sh
 fi
 ollama serve &
@@ -28,16 +30,15 @@ done
 ollama pull "$MODEL"
 
 # TEST RUN — process first 20 pages of Band01_chunk001 to verify quality before full run
+# Output: data/extracted/Band01_chunk001/pass1/p*.wiki
 python3 src/run_pass1.py \
   --input-dir data/extracted/Band01_chunk001 \
-  --output-dir data/pass1/Band01_chunk001 \
   --model "$MODEL" \
   --max-pages 20
 
 # FULL RUN — uncomment once test results are verified
 # python3 src/run_pass1.py \
 #   --input-dir data/extracted \
-#   --output-dir data/pass1 \
 #   --model "$MODEL"
 
 echo "[INFO] Done $(date)"

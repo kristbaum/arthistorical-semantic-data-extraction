@@ -8,22 +8,21 @@ Usage:
     # Process a single chunk (test, 20 pages max)
     python src/run_pass1.py \
         --input-dir data/extracted/Band01_chunk001 \
-        --output-dir data/pass1/Band01_chunk001 \
-        --model qwen3:14b \
+        --model qwen3:32b-fp16 \
         --max-pages 20
+    # Output: data/extracted/Band01_chunk001/pass1/p001.wiki ...
 
     # Process specific pages
     python src/run_pass1.py \
         --input-dir data/extracted/Band01_chunk001 \
-        --output-dir data/pass1/Band01_chunk001 \
-        --model qwen3:14b \
+        --model qwen3:32b-fp16 \
         --pages p003 p004 p005
 
     # Process all chunks
     python src/run_pass1.py \
         --input-dir data/extracted \
-        --output-dir data/pass1 \
-        --model qwen3:14b
+        --model qwen3:32b-fp16
+    # Output: data/extracted/Band*/pass1/p*.wiki
 """
 
 import argparse
@@ -34,35 +33,32 @@ from pathlib import Path
 
 PROMPT_TEMPLATE = """\
 Du erhältst zwei OCR-Versionen derselben Doppelseite eines kunsthistorischen \
-Fachbuches über barocke Deckenmalereien in Deutschland. Wurde mittels Surya erstellt und \
-hat schon eine MediaWiki-Markup struktur, die andere stammt aus Transkribus. \
+Fachbuches über barocke Deckenmalereien in Deutschland. Die Surya-Version hat \
+bereits MediaWiki-Markup-Struktur, die Transkribus-Version ist Reintext.
 Erstelle daraus eine einzige, bereinigte Textfassung in MediaWiki-Markup.
 
-Aufgaben:
-- Verwende die Surya-Version als Grundlage: behalte ihr MediaWiki-Markup, \
-ihre Abschnittsstruktur und ihre Layoutreihenfolge vollständig bei.
-- Ziehe die Transkribus-Version nur dann heran, wenn eine Passage in der \
-Surya-Version unlesbar ist, offensichtlich Zeichen fehlen oder der Text \
-keinen Sinn ergibt – dann ergänze oder korrigiere nur die betroffene Stelle.
-- Verändere die Reihenfolge von Textblöcken aus der Surya-Version nicht, \
-auch wenn die Transkribus-Version eine andere Reihenfolge nahelegt.
-- Behalte alle Abschnittsüberschriften (== Überschrift ==) und \
-MediaWiki-Formatierungen (''' txt ''', <sub>, <sup>) und alle Kommentarabschnitte <!-- txt --> aus der \
-Surya-Version bei.
+Grundregeln:
+- Surya-Version ist die Basis: behalte ihr Markup, ihre Abschnittsstruktur \
+(== Überschrift ==, ''' txt ''', <sub>, <sup>, <!-- txt -->) und Reihenfolge vollständig bei.
+- Transkribus nur zur Korrektur einzelner unlesbarer oder offensichtlich falscher Stellen heranziehen.
 
-Aufgaben – Textbereinigung:
-- Korrigiere offensichtliche OCR-Fehler (falsch erkannte Buchstaben, Ziffern, \
-Satzzeichen).
-- Entferne Scanfragmente: zufällig eingelesene Kartenlegenden, Kopf- und \
-Fußzeilen, Seitenzahlen, Bildunterschriften, die fälschlich als Fließtext \
-erkannt wurden, sowie unlesbaren Zeichensalat (z. B. "D 110110 3,0 ) FR OSEXISO").
-- Berichtige Zeilenumbrüche innerhalb von Sätzen und trennzeichenbedingte Wortfehler (z. B. "Kir-che" → "Kirche").
+Textbereinigung:
+- Korrigiere OCR-Fehler (falsch erkannte Zeichen, Satzzeichen, zusammengerutschte \
+oder getrennten Wörter wie „Stichkap pen" → „Stichkappen").
+- <br>-Tags entfernen: bei Silbentrennung Wort zusammenführen \
+(„ge-<br>bildet" → „gebildet"), sonst Zeilenumbruch durch Leerzeichen oder \n ersetzen.
+- Scanfragmente entfernen: Kopf-/Fußzeilen, Seitenzahlen, Bildunterschriften, \
+Zeichensalat (z. B. „D 110110 3,0 ) FR OSEXISO").
 
-Wichtige Einschränkungen:
-- Füge KEINE neuen Inhalte hinzu und verändere NICHT den Sinn des Textes.
-- Verändere Zitate nicht inhaltlich. Wenn Zitate länger als ca. 40 Worte sind, \
-    umrande sie mit dem HTML Tag: <blockquote> </blockquote>, ansonsten sollten sie zumindest mit Anführungszeichen umgeben sein.
-- Antworte ausschließlich mit dem bereinigten MediaWiki-Text, ohne Erläuterungen.
+Zitate:
+- Zitate mit »« umschließen.
+- Zitate über ca. 40 Wörter zusätzlich mit <blockquote>…</blockquote> umrahmen.
+- Zitattext inhaltlich nicht verändern.
+
+Sonstiges:
+- Keine neuen Inhalte hinzufügen, Sinn nicht verändern.
+- Abkürzungen (z. B. „ABA", „Pf 86", „DI", „NK 35") unverändert lassen.
+- Nur den bereinigten MediaWiki-Text ausgeben, ohne Erläuterungen.
 
 Surya-OCR:
 {surya_text}
@@ -173,17 +169,18 @@ def process_page(
 
 def process_chunk(
     chunk_dir: Path,
-    output_dir: Path,
     model: str,
+    pass_name: str = "pass1",
     page_filter: set[str] | None = None,
     remaining: int | None = None,
 ) -> tuple[int, int]:
     """Process all pages in a single chunk directory. Returns (ok, failed).
 
-    remaining: if set, process at most this many pages (for --max-pages).
+    Output is written to chunk_dir/pass_name/. remaining limits total pages.
     """
     wiki_dir = chunk_dir / "wiki"
     add_txt_dir = chunk_dir / "add_txt"
+    output_dir = chunk_dir / pass_name
 
     if not wiki_dir.is_dir():
         print(f"[SKIP] No wiki/ in {chunk_dir.name}", flush=True)
@@ -225,8 +222,12 @@ def main() -> None:
         help="Single chunk dir (e.g. data/extracted/Band01_chunk001) "
         "or parent dir (data/extracted) to process all chunks",
     )
-    parser.add_argument("--output-dir", type=Path, required=True)
-    parser.add_argument("--model", default="qwen3:14b")
+    parser.add_argument(
+        "--pass-name",
+        default="pass1",
+        help="Subdirectory name written inside each chunk dir (default: pass1)",
+    )
+    parser.add_argument("--model", default="qwen3:32b-fp16")
     parser.add_argument(
         "--pages",
         nargs="*",
@@ -248,21 +249,22 @@ def main() -> None:
     # Determine if input is a single chunk or a parent directory
     if (args.input_dir / "wiki").is_dir():
         # Single chunk
-        chunks = [(args.input_dir, args.output_dir)]
+        chunks = [args.input_dir]
     else:
         # Parent directory — find all chunk subdirectories
-        chunks = []
-        for chunk_dir in sorted(args.input_dir.iterdir()):
-            if chunk_dir.is_dir() and (chunk_dir / "wiki").is_dir():
-                chunks.append((chunk_dir, args.output_dir / chunk_dir.name))
+        chunks = [
+            chunk_dir
+            for chunk_dir in sorted(args.input_dir.iterdir())
+            if chunk_dir.is_dir() and (chunk_dir / "wiki").is_dir()
+        ]
 
     total_ok, total_failed = 0, 0
-    for chunk_dir, out_dir in chunks:
+    for chunk_dir in chunks:
         if remaining is not None and remaining <= 0:
             break
-        print(f"[CHUNK] {chunk_dir.name}", flush=True)
+        print(f"[CHUNK] {chunk_dir.name}  -> {chunk_dir / args.pass_name}", flush=True)
         ok, failed = process_chunk(
-            chunk_dir, out_dir, args.model, page_filter, remaining
+            chunk_dir, args.model, args.pass_name, page_filter, remaining
         )
         total_ok += ok
         total_failed += failed
