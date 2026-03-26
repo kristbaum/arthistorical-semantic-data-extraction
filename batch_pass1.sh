@@ -5,8 +5,8 @@
 #SBATCH -o logs/log_%j.out
 #SBATCH -e logs/log_%j.err
 #SBATCH --container-remap-root
-#SBATCH --container-image=/dss/dsshome1/02/USERNAME_HERE/nvidia+pytorch+23.12-py3.sqsh
-#SBATCH --container-mounts=/dss/dsshome1/02/USERNAME_HERE/arthistorical-semantic-data-extraction:/workspace
+#SBATCH --container-image=$HOME/nvidia+pytorch+23.12-py3.sqsh
+#SBATCH --container-mounts=$HOME/arthistorical-semantic-data-extraction:/workspace
 
 set -euo pipefail
 cd /workspace
