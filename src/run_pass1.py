@@ -28,6 +28,7 @@ Usage:
 import argparse
 import json
 import http.client
+import re
 import sys
 from pathlib import Path
 
@@ -51,12 +52,10 @@ oder getrennten Wörter wie „Stichkap pen" → „Stichkappen").
 Zeichensalat (z. B. „D 110110 3,0 ) FR OSEXISO").
 
 Zitate:
-- Die meisten Zitate sind bereits durch »« im OCR-Text erkennbar (sofern korrekt erkannt).
-- Zitate mit »« umschließen.
+- Im Surya-Text sind erkannte Zitate bereits als {{ZITAT|NNN}} vormarkiert – \
+diese Platzhalter EXAKT unverändert übernehmen, Inhalt niemals anpassen.
+- Weitere (nicht vormarkierte) Zitate mit »« umschließen.
 - Zitate über ca. 40 Wörter zusätzlich mit <blockquote>…</blockquote> umrahmen.
-- Den Zitattext AUSSCHLIESSLICH aus der Transkribus-OCR übernehmen – niemals aus \
- eigenem Wissen ergänzen oder verändern.
-- Ist kein Transkribus-Text vorhanden, Zitat unverändert aus Surya übernehmen.
 
 Bildunterschriften:
 - Text nach „thumb|" in Dateieinbindungen (z. B. [[File:…|thumb|Joseph W]]) \
@@ -83,6 +82,31 @@ def find_transkribus_match(add_txt_dir: Path, page_stem: str) -> Path | None:
         if page_stem in txt_file.stem:
             return txt_file
     return None
+
+
+_QUOTE_RE = re.compile(r"»[^»«]*«", re.DOTALL)
+
+
+def _extract_quotes(text: str) -> tuple[str, list[str]]:
+    """Replace »…« spans with {{ZITAT|NNN}} placeholders to shield them from the LLM.
+
+    Returns (modified_text, list_of_original_spans_in_order).
+    """
+    originals: list[str] = []
+
+    def _sub(m: re.Match) -> str:
+        idx = len(originals)
+        originals.append(m.group(0))
+        return "{{ZITAT|" + f"{idx:03d}" + "}}"
+
+    return _QUOTE_RE.sub(_sub, text), originals
+
+
+def _restore_quotes(text: str, originals: list[str]) -> str:
+    """Replace {{ZITAT|NNN}} placeholders back with the original »…« spans."""
+    for idx, original in enumerate(originals):
+        text = text.replace("{{ZITAT|" + f"{idx:03d}" + "}}", original)
+    return text
 
 
 # System prompt for Qwen3 non-thinking mode.
@@ -145,6 +169,15 @@ def process_page(
         print(f"  [SKIP] {wiki_file.name}: empty surya file", flush=True)
         return False
 
+    # Shield »…« spans from LLM edits by replacing them with opaque placeholders.
+    # The LLM receives {{ZITAT|NNN}} and must not touch them; we restore afterwards.
+    surya_shielded, quote_originals = _extract_quotes(surya_text)
+    if quote_originals:
+        print(
+            f"  [INFO] Shielded {len(quote_originals)} quote(s) in {wiki_file.name}",
+            flush=True,
+        )
+
     transkribus_file = find_transkribus_match(add_txt_dir, page_stem)
     transkribus_text = ""
     if transkribus_file:
@@ -155,7 +188,7 @@ def process_page(
         print(f"  [WARN] No Transkribus match for {page_stem}", flush=True)
 
     prompt = PROMPT_TEMPLATE.format(
-        surya_text=surya_text, transkribus_text=transkribus_text
+        surya_text=surya_shielded, transkribus_text=transkribus_text
     )
 
     try:
@@ -168,6 +201,8 @@ def process_page(
     if not result:
         print(f"  [WARN] {wiki_file.name}: empty LLM response", flush=True)
         return False
+
+    result = _restore_quotes(result, quote_originals)
 
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(result + "\n", encoding="utf-8")
