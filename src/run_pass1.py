@@ -57,10 +57,6 @@ diese Platzhalter EXAKT unverändert übernehmen, Inhalt niemals anpassen.
 - Weitere (nicht vormarkierte) Zitate mit »« umschließen.
 - Zitate über ca. 40 Wörter zusätzlich mit <blockquote>…</blockquote> umrahmen.
 
-Bildunterschriften:
-- Text nach „thumb|" in Dateieinbindungen (z. B. [[File:…|thumb|Joseph W]]) \
-OCR-korrigieren wie Fließtext, aber nicht inhaltlich verändern.
-
 Sonstiges:
 - Keine neuen Inhalte hinzufügen, Sinn nicht verändern.
 - Abkürzungen (z. B. „ABA", „Pf 86", „DI", „NK 35") unverändert lassen.

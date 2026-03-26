@@ -32,7 +32,7 @@ ollama pull "$MODEL"
 # TEST RUN — process first 20 pages of Band01_chunk001 to verify quality before full run
 # Output: data/extracted/Band01_chunk001/pass1/p*.wiki
 python3 src/run_pass1.py \
-  --input-dir data/extracted/Band01_chunk001 \
+  --input-dir data/extracted \
   --model "$MODEL" \
 
 echo "[INFO] Done $(date)"
