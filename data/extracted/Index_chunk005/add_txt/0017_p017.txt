@@ -1,0 +1,476 @@
+1750/59 Aich/FS
+1751/52 Kai/TS
+Jahr Ort/Lkr.
+1747 Antwort/RO
+Freising/TS
+Reichersbeuern/TÖL-WOR
+Hohenpeißenberg/WM-SOG
+Schongau/WM-SOG
+1748 Winkl/LL
+1748 Au bei Aibling/RO
+1748/49 Bergheim/ ND-SOB
+1748/50 Rumeltshausen/DAH
+1748/52 Ettal/GAP.
+Wies/WM-SOG
+1749 Dezenacker/ jnO-SOB
+Unterigling/LL
+Umratshausen/RO
+1749/50 Haimhausen/DAH
+1749/50 Evenhausen/RO
+1750 ca. München-Aubing/M
+Reichertshofen/PAF
+Esting/FFB
+walkersaich/MÜ
+Neukirchen/RO
+1750 Wasserburg am Inn/RO
+Willing/RO
+1750 ca. Biburg/FFB
+1750/60 Schlehdorf/TÖL-WOR
+1750/60 Ochsenfeld/E.
+Jesenwang/FFB
+Steingaden/WM-SOG
+Westerham/RO
+1751/52 Ebersberg/EBE
+1751/60 Tauberfeld/EI
+Kleinhelfendorf/M
+Gosseltshausen/PAF
+Salmannskirchen/ED
+Benediktbeuern/TÖL-WOR Anastasiakapelle
+Landsberg/LL
+1752 Gars am Inn/MÜ
+1752/54 Raitenhaslach/AÖ
+Grafrath/FFB
+Bichl/TÖL-WOR
+Schmidham/ME.
+Sachsenried/WM-SOG
+St. Nikolaus/WM-SOG
+Heinrichshofen/LL
+Prittriching/LL
+Scheuring/LL
+Margarethenberg/AÖ
+Objekt
+Wallfahrtskirche
+Wieskirche
+Pfarrkirche
+Wallfahrtskirche
+Stadtpfarrkirche
+Pfarrkirche
+Wallfahrtskapelle
+Kapelle
+Filialkirche
+Klosterkirche
+Wallfahrtskirche (Chor) J. B. Zimmermann
+Pfarrkirche
+Pfarrkirche
+Filialkirche
+Schloss
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Benefiziatenhaus
+Filialkirche
+Wallfahrtskirche
+Frauenkirche
+Pfarrkirche
+Filialkirche
+Filialkirche
+Bibliothek
+Pfarrkirche
+Pestkapelle
+Klosterkirche (EU)
+Filialkirche
+Pfarrkirche
+Klosterkirche
+Filialkirche
+Marterkapelle
+Pfarrkirche
+Filialkirche
+Filialkirche
+Felixkapelle
+Abtsraum
+Wallfahrtskirche
+Filialkirche
+Filialkirche
+Pfarrkirche
+Kapelle
+Filialkirche
+Pfarrkirche
+Pfarrkirche
+Wallfahrtskirche
+J. Adam Mölck
+Julian Breymeyer
+Matthäus Günther
+Matthäus Günther
+J.G. Wolcker
+Balthasar Furtner
+Franz Mayr
+J. Jakob Zeiller
+Joseph Hartmann
+J.G. Lederer
+J. Adam Mölck
+J.G. Bergmüller
+Balthasar Furtner
+F. Ignaz Frank
+J.G. Ludwig
+Nikolaus Miller
+J. Adam Mölck
+J. Paul Kurz
+F.J. Aiglstorffer
+J.J. Zwinck
+Anton Köll
+Balduin Mancini
+J. Georg Bergmüller
+J. Georg Gaill
+L Andreas Dinzl
+J. B. Zimmermann Umkreis Wunder des hl. Sebastian
+J. Michael Franz
+Johann Georg Gaill
+Melchior Puchner
+F.J. Aiglstorffern
+J. Jakob Zeiller
+K. J. Thalheimer-
+D. Zimmerman
+A. Liechtenfurtner
+J. B. Zimmermann
+J. G. Bergmüller
+J. Jakob Zeiller
+F. Anton Zeiller
+J. Joseph Zwinck
+F. Martin Kuen
+Johann Anwander
+F. Martin Kuen
+J. B. Zimmermann
+Thema
+Mariä Himmelfahrt
+Passions-Zyklus
+Korbinian-Zyklus
+Wallfahrts-programm
+Maria Braut des Geistes
+Peter- und Paul-Zyklus
+Marien-programm
+Marien-programm
+Patron St. Laurentius
+Bendiktinerhimmel
+Leben-Jesu-Zyklus
+Patronin St. Elisabeth
+Johann-Baptist-Zyklus
+Heilig Blut
+St. Salvator - Götterhimmel
+Patron St. Petrus und Maria
+Anbetung des Lammes
+Patronin St. Margareta
+Stifterbild
+Marien-programm
+St. Johann Baptist-Johann
+von Nepomuk und Heilige
+Marien-programm
+Patron St. Jakob
+Mariä Himmelfahrt
+Arme-Seelen- und
+Heiligen-Zyklus
+Augustinus-Zyklus
+Heilige
+Architekturmalerei
+St. Johann Baptist
+Patron St. Johann Baptist
+Patron St. Martin
+St. Martin
+Glorie des hl. Emmeram
+Marien-programm
+Patron St. Oswald
+St. Anastasia
+St. Johann Baptiste
+Felix-Zyklus
+Dreifaltigkeit
+Patron St. Rasso
+Georg-Zyklus
+Sebastian-Zyklus
+Martin-Zyklus
+Nikolaus-programm
+Andreas-Zyklus
+Peter- und Paul-Zyklus
+St. Martin und Norbert
+Vierzehn Nothelfer
+XII 56
+VI 200
+II 219
+4.10
+I 517
+I 282
+XII 65
+X 66
+V 224
+II 284
+I 602
+X 85
+I 248
+XII 497
+V 67
+XII 131
+III/161 61
+XIV 237
+IV 39
+VIII 274
+XII 360
+XII 503
+XII 554
+IV 26
+VI 19
+II 248
+XIII 375
+IV 172
+I 532
+XII 542
+XI 83
+XI 300
+XIII 437
+III/1 134
+XIV 205
+VII 271
+II 65
+VIII 112
+IX 180
+IV 140
+II 143
+II 562
+I 502
+1 513
+I 191
+I 220
+IX 119
+Jahr Ort/Lkr.
+1753 Niederaschau/RO
+1753/55 Andechs/StA
+1754 Türkenfeld/FFB
+1754 Wies/WM-SOG
+1754 Geltendorf/LL
+1754 Landsberg/LL
+1754 Niederaschau/RO
+1754/55 Kloster Indersdorf/DAH
+1754-56 Schäftlarn/M
+1755 Großhesselohe/M
+Sigmertshausen/DAH
+Dickelschwaig/GAP
+Ettal/GAP
+Iffeldorf/WM-SOG
+Rosenheim/RO
+1755/56 Schambach/E.
+1755/57 München Nymphenburg/M Steinerner Saal
+1756 München-Harlacking/M
+1756 Freising/F S
+1756   Mühldorf/MÜ
+Prem/WM-SOG
+St. Leonhard im Forst
+WM-SO
+Landsberg/LL
+Landsberg/LL
+Pflugdorf/LL
+1756 Sandizell/ ND-SOB
+1756 Triebenbach/BGBL
+Bad Aibling/RO
+1756 Berbling/RO
+1756-58 Bergen/NB-SOB
+Grunertshofen/FFB
+Zankenhausen/FFB
+Pürten/MÜ
+1757 Obereglfing/WM-SOG
+1757 Eresing/LL
+Romenthal/Lt
+Baumburg/TS
+Klosterseeon/TS
+1757/59 Geiselbulhach/FFB
+1757/59 Annabrunn/MÜ
+München-Moosach/M
+Kloster Indersdorf/DAH
+Oberneukirchen/MÜ
+Polling/gr.
+Beuerberg/TÖL-WOR
+Holzkirchen/NB
+1758 Wessobrunn/VM-SOG
+Objekt
+Kreuzkapelle
+Kloster- und
+Wallfahrtskirche
+Pfarrkirche (AR)
+Wallfahrtskirche
+Pfarrkirche
+Jesuitenkirche
+Pfarrkirche
+Klosterkirche
+Klosterkirche
+Kapelle
+Filialkirche
+Kapelle
+Kapitel-u. Chorsaal
+Pfarrkirche
+Loretokapelle
+Wallfahrtskirche
+Wallfahrtskirche
+Neustift
+Katharinenkirche
+Pfarrkirche
+Wallfahrtskirche
+Jesuiten-Sakristei
+Ignatiuskapelle
+Filialkirche
+Schlosskapelle
+Schlosskapelle
+Pfarrkirche
+Pfarrkirche
+Wallfahrtskirche
+Pfarrkirche
+Pfarrkirche
+Wallfahrtskirche
+Pfarrkirche
+Pfarrkirche
+Kapelle
+Klosterkirche
+Nikolaikapelle
+Kapelle
+Wallfahrtskapelle
+Alte Pfarrkirche
+Rosenkranzkapelle
+Pfarrkircher
+Kuratiekirche
+Festsaal
+Pfarrkirche
+Pfarrkirche
+Maler
+J. Tieffenbrunner
+J. B. Zimmermann
+C. Th. Scheffler
+J. B. Zimmermann
+Matthäus Günther-
+J. G. Dieffenbrunner
+Ch. Th. Scheffler
+Balthasar Mang
+Matthäus Günther
+J. G. Dieffenbrunner
+J. B. Zimmermann
+Martin Heigl
+E. Joseph Degle
+J. Jakob Zeiller
+J. Jakob Zeiller
+J. Jakob Zeiller
+J. A. Höttinger
+J. Michael Baader
+J.B. Zimmermann
+J. B. Zimmermann
+J.B. Zimmermann
+J. Paul Kurz
+Bernhard Ramis
+Martin Heigl
+PA. Scheffler
+F.A. Scheffler
+Martin Heigl
+Ignaz Baldauf
+Andreas Langwider
+Martin Heigl—
+F. Xaver Wunderer
+J. B. Zimmermann
+J. W. Baumgartner
+Johann Anwander
+F. S. Kirzinger
+J. Martin Seltenhorn
+J.G. Lederer
+F. Martin Kuen
+F. S. Kirzinger
+Felix Anton Scheffler
+Joseph Hartmann
+J. A. von Schöpf
+Martin Heigl
+Matthäus Günther
+J. Paul Kurz
+Martin Heigl
+Julian Breymeyer
+J. Baptist Baader
+Thema
+Hl.-Kreuz-programm
+Wallfahrts-programm
+Rosenkranzbild
+Wiederkunft des Herrn
+Stephanus-Zyklus
+Hl.-Kreuz-programm
+Marien-programm
+Augustinus-programm
+Prämonstratenser-Zyklus
+Hl. Dreifaltigkeit
+Verehrung des Gnadenbildes
+St. Gertrud
+David-programm
+St. Vitus-Herz Jesu
+Marien-programm
+Hl.-Kreuz-Zyklus
+Blüte des Landes im Frieden
+Patronin St. Anna
+Prämonstratenser-programm
+Katharina-Zyklus
+Krönung Mariens
+St. Leonhard
+Auferstehung
+Hl. Ignatius
+Patron St. Laurentius
+Himmelfahrt Christi
+Anbetung der Könige
+Marien-programm
+Hl.-Kreuz-programm
+Hl.-Kreuz-programm
+Patron St. Laurentius
+Patron Johannes d. Täufer
+Marien- und Alta-Zyklus
+Huldigung der Erdteile
+Ulrich-Zyklus
+St. Anna
+Augustiner-programm
+Hl. Benedikt und Heilige
+Patron St. Nepomuk
+Anna-programm
+Patron St. Martin
+Bruderschaftsbild
+Margareta-Zyklus
+Jrdische Trinität
+Stifterbild
+St. Laurentius
+St. Johann Baptist und Evangelist I 590
+XII 380
+289
+IV 247
+I 602
+I 132
+XII K67
+III/1 149
+III/1 117
+N:o 23
+II 275
+II 323
+XII 426
+XIII – 425
+III/2 355
+III/1 82
+VI 175
+VIII 179
+I 470
+I 141
+I 142
+I 184
+X 266
+XI 263
+XII 71
+XII 90
+X 45
+IV 149
+IV 269
+VIII 221
+1433
+1 66
+I 205
+XI 21
+XI 95
+IV 134
+VIII 27
+III/1 89
+V 135
+VIII 204
+VIII 218
+II 133
+II 513

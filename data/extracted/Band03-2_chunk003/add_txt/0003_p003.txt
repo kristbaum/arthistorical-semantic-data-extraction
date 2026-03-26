@@ -1,0 +1,89 @@
+O24b RAVHEN/LECHSPERG O
+Rauhenlechsberg, Einöde, Gem. Apfeldorf, LK Landsberg,
+Bei Entstehung: Herzogliche Burg, Landgericht Lands-
+berg, Rentamt München, 1255 Oberland (Morenz 1970S.,)
+O25 ERDING
+Erding, Stadt, LK Erding, OB
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt Lands-
+hut, 1255 Unterland (Morenz 1970, S. 11)
+O25a MENTZING / O
+Blutenburg, Stadtkreis München, (ehem. Gem. Obermen-
+zing), OB
+Bei Entstehung: Herzogliches Schloß, Landgericht
+Dachau, Rentamt München, 1255 Oberland (Morenz 1970,0,
+S. 22)
+O25b MARQVART/STAIN O
+Marquartstein, Pfarrdorf, LK Traunstein, OB
+Bei Entstehung: Burg, Landgerichtssitz, Rentamt Mün-
+chen, 1259 Unterland (Morenz 1970, S. 24)
+O26 KELHAIM
+Kelheim, Stadt, LK Kelheim, NB
+Bei Entstehung: Stadt mit Burg, Landgerichtssitz, Rentamt
+Straubing, 1255 Unterland (Morenz 1970, S. 12)
+O26a TROSTBVRG / V
+Trostberg, Stadt, LK Traunstein, OB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt Burghausen, 1255 Unterland (Morenz
+1970, S. 20)
+O26b TÖLTZ O
+Bad Tölz, Stadt, LK Bad Tölz-Wolfratshausen, OB
+Bei Entstehung: Landständischer Markt mit Schloß, Land¬
+gerichtssitz, Rentamt München, 1255 Oberland (Morenz
+1970, S. 20)
+O27 NEVSTADT
+Neustadt an der Donau, Stadt, LK Kelheim, NB
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt Mün-
+chen, 1255 Oberland (Morenz 1970, S. 13)
+O27a GRIESPACH V
+Griesbach im Rottal, Stadt, LK Passau, NB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt Landshut, 1255 Unterland (Morenz
+1970, S. 17)
+O27b ROTENBVRG / V
+Rottenburg an der Laaber, Stadt, LK Landshut, NB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt Landshut, 1255 Unterland (Morenz
+1970, S. 20)
+O28 AICHACH
+Aichach, Stadt, LK Aichach-Friedberg, Schw
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt Mün¬
+chen, 1255 Oberland (Morenz 1970, S. 10)
+O28a NEVMARCKT / V
+Neumarkt-St. Veit, Stadt, LK Mühldorf, OB
+Bei Entstehung: Landständischer Markt mit Schloß, Land¬
+gerichtssitz, 1269 Unterland (Morenz 1970, S. 19)
+O28b ROSENHAIM O
+Rosenheim, kreisfreie Stadt, OB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt München, 1255 Unterland (Morenz
+1970, S. 19)
+O29 TRAVNSTAIN
+Traunstein, Große Kreisstadt, OB
+Bei Entstehung: Stadt mit Burg, Landgerichtssitz, Rentamt
+München, 1273 Unterland (Morenz 1970, S. 15)
+O29a EGGENFELDEN
+Stadt, LK Rottal-Inn, NB
+Bei Entstehung: Landständischer Markt, Landgerichtssitz
+Rentamt Landshut, 1259 Unterland. — Unter dieser
+Ansicht steht irrtümlich DONAVSTAVF, das gegenüber
+(O29b) dargestellt ist (Morenz 1970, S. 16).
+O29b DONAUSTAUF
+Markt, LK Regensburg, OPf
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt Straubing, 1255 Unterland. — Unter
+dieser Ansicht steht irrtümlich ECKENFELDEN, das
+gegenüber (O29a) dargestellt ist (Morenz 1970, S. 16).
+O30 RAIN
+Rain, Stadt, LK Donau-Ries, Schw
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt Mün¬
+chen, 1255 Oberland (Morenz 1970, S. 14)
+O30a ECKMVL / V
+Eggmühl, Kirchdorf, LK Regensburg, OPf
+Bei Entstehung: Herzogliches Schloß, Landgericht Kirch-
+berg, Rentamt Landshut, 1255 Unterland (Morenz 1970, .2)
+O30b HOHENSCH/WANGA O
+Hohenschwangau, Dorf, Gem. Schwangau, LK Ostallgäu,
+Bei Entstehung: Herzogliche Burg, Landgericht Lands-
+berg, Rentamt München, 1255 Oberland (Morenz 1970S.2)
+O31 LANDAW
+Landau an der Isar, Stadt, LK Dingolfing-Landau, NB

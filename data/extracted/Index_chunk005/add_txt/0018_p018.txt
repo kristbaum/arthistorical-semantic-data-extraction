@@ -1,0 +1,498 @@
+Ort/Lkr.
+Unterbrunn/StA
+1758 Mögling/TS
+Landsham/EBE
+Höïling/RO
+Schröding/ED
+Kloster Indersdorf/DAH
+München Nymphenburg/M
+Altmühldorf/MÜ
+Alb/NB.
+Wilparting/NB
+Arnried/WM-SOG
+Beuern/Lt.
+1760 Reichersdorf/NB
+1760 Pflugdorf/LL
+1760 Ortlfing/ jnD-SOB
+Schrobenhausen/ND-SOB
+1760 Nussdorf/RO
+Pfahldorf/El
+Onteremmendorf/EI
+1760 ca. Salmanskirchen/MU
+1760 ca. Lenting/EI
+1760/61 Sittenbach/DAH
+1760/62 Fraham/MU
+1760/65 Poigern/FFB
+1760/65 Altenhohenau/RO
+1760/66 Sandizell/ jnO-SOB
+1760/70 Unterschweinbach/FFB
+1760/70 Gaißach/TÖL-WOR
+1760/70 Beuerbach/LL
+1760/70 Obermeitingen/LL
+1760/70 St. Georgen/LL
+1761 Eisenhofen/DAH
+Inhausen/DAH
+Freising/TS
+1761 Greiling/TÖL-WOR
+Krün/GAP
+Oberammergau/GAP
+Godzing/MB.
+Schongau/WM-SOG
+Weilheim/WM-SOG
+Straß/ ND-SOB
+Frasdorf/RO
+Frauenchiemsee/RO
+Kottingwörth/El
+1761/65 Birkenstein/NB
+1762 Bairawies/TÖL-WOR
+Erpfting/LL
+1762 Längloh/ ND-SOB
+1762 Raitenhaslach/AÖ
+1762 Raitenhaslach/AÖ
+1762 Raitenhaslach/AÖ
+Obsekt
+Pfarrkirche
+Nebenkirche
+Filialkirche
+Filialkirche
+Pfarrkirche
+Nikolauskapelle
+Schlosskapelle
+Pfarrkirche
+Kapelle
+Wallfahrtskirche
+Filialkirche
+Pfarrkirche
+Filialkirche
+Sakristei
+Pfarrkirche
+Salvatorkirche
+Wallfahrtskirche
+Pfarrkirche
+Filialkirche
+Filialkirche
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Filialkirche
+Klosterkirche (Chor)
+Sakristei
+Filialkirche
+Pfarrkirche
+Kapelle Maria Eich
+Pfarrkirche
+Filialkirche
+Filialkirche
+Filialkirche
+Wieskirche
+Filialkirche
+Kuratiekirche
+Pfarrkirche
+Filialkirche
+Stadtpfarrkirche
+Kapelle/Leichenhaus J. Baptist Baader
+Pfarrkirche
+Pfarrkirche
+Maria-Mitleid-Kapelle Balthasar Furtner
+Pfarrkirche
+Wallfahrtskirche
+Kapelle
+Kapelle Maria Eich
+Filialkirche
+Abtskapelle
+Treppenhaus
+Gästezimmer
+Martin Heigl
+Joseph Hartmann
+Joseph Unterleutner
+J. Georg Gaill
+F.X.Zellner
+J. G. Dieffenbrunner
+J. Adam Mölck
+J. Paul Kurz
+Martin Heigl
+Martin Heigl
+J. Wenceslaus Albert
+Johann Schöpf
+J. Georg Gaill
+J. B. Baader
+Vitus Felix Rigl
+Ignaz Baldauf
+Simon Zaglacher
+Anton Köll
+Anton Köll
+Jakob Fürstenbräu
+Franz Joseph Eberle
+J. G. Dieffenbrunner
+J. A. Seltenhorn
+Johann Leibrecht
+Matthäus Günther
+Ignaz Baldauf
+J. N. von Schöpf
+M. Günther Umkreis
+A.J. Walch
+F. S. Kirzinger
+J. G. Dieffenbrunner
+J. G. Dieffenbrunner
+EX Wunderer
+W. Anton Fett
+P. Guglhör
+Matthäus Günthe:
+J. Georg Gaill
+Matthäus Günther
+Joseph Hartmann
+J. A. Höttinger
+Christian D. Erhardt
+Sebastian Troger
+W. Anton Fett
+J. B. Baader
+Joseph Hartmann
+Martin Heige
+Franz Joseph Soll
+Franz Joseph Soll
+Thema
+Schutz Mariens in einer Schlacht I 358
+Mariä Himmelfahrt
+Patron St. Stephan
+Patron St. Martin
+Die Erdteile verehren Maria
+Patron St. Nikolaus
+Magdalena-Zyklus.
+St. Laurentius
+Marinus-und-Arianus-Zyklus
+Marinus-und-Arianus-Zyklus
+St. Afra und Hilaria
+Engelsturz
+St. Leonhard und Heilige
+Opfer Abrahams
+Patron St. Stephanus
+Wunder Jesu
+Bruderschaftsbild und Heilige
+Johann Baptist und Heilige
+St. Nikolaus
+St. Johann Baptist und Evangelist VIII 257
+Nikolaus-Zyklus
+Patron St. Laurentius
+Martin-Zyklus
+Patron St. Nikolaus
+Patrone St. Petrus und Paulus
+David erhält die Schaubrote
+Mariä Himmelfahrt
+Michael-Zyklus
+Kreuzabnahme
+Mauritius-Zyklus
+St. Georg
+Patron St. Alban
+Vier Erdteile verehren Maria
+Wies als Gnadenort
+St. Nikolaus
+Nr-Szenen und Heilige
+Rosenkranzkönigin
+Hl.-Kreuz-programm
+Krönung Mariens
+Judiths Triumph
+Marien-programm
+Patronin St. Margareta
+Bruderschaftsbild
+Marienzyklus
+Veit-Zyklus
+Krönung Mariens
+St. Sebastian und Rochus
+Judith
+Marien-programm
+Erlösungswerk Christi
+Gastfreundschaft Abrahams
+Joseph von Ägypten
+Bd S.
+XI 106
+XI Compte d.
+XII 263
+VII 281
+V 140
+III/2 397
+VIII 19
+II 447
+II 628
+II 549
+X 238
+X 271
+XII res.
+XIII 376
+XIII 441
+XIII 327
+V 244
+VIII 81
+IV 218
+XII 33
+X 264
+IV 259
+II 176
+1 1722
+I 212
+V 86
+VI 200
+II 185
+II 355
+II 375
+II 503
+1 517
+I560
+X 299
+XII 147
+XII 156
+XIII 317
+II 463
+II 36
+XIII
+IX 178
+IX 182
+IX 184
+1764.
+1765
+Jahr Ort/Lkr.
+1762 Wald/AÖ
+1762 Dörndorf/EI
+1762 Eichstätt/EI Dom
+Pfrombach/ES
+Frauenried/NB
+1763 Neukirchen/NB
+1763 Hurlach/Lt
+1763 St. Georgen/LL
+1763 Burgkirchen/AÖ
+1763 Rain-Thalkirchen/RO
+1763 Rott am Inn/RO
+1763/64 Feichten/AÖ
+1764 München/M
+1764 Westerholzhausen/DAH
+1764 Fürstenfeldbruck/FFB.
+Schleißheim Neues Schloss/M Nördl. Antecamera
+Haag a.d. Amper/Es
+Reichertsheim/MU
+Polling/WM-SOG
+Grünsink/STA
+Thaining/LL
+1764   Marienberg/AÖ
+1764 Ebersberg/EBE
+St. Florian/RO
+Altmannstein/El
+1764 Berghausen/EI
+1764 Hirschberg/EI
+764165 Kleinberghofen/DAH
+Tading/ED
+1765 Lauterbach/DAH
+Rattenkirchen/MÜ
+Starnberg/STA
+Kaufering/LL
+1765 Raitenhaslach/AÖ
+1765 Deinting/TS
+Höglwörth/Bst
+St. Salvator/RO
+1765 ca. Straßbach/DAH
+1765 ca. Eschenlohe/GAP
+1765/66 Polling/WM-SOG
+1765/70 Egenburg/DAH
+1765/72 Pfaffenhofen a.d. Glonn/DAH Pfarrkirche
+Walpertskirchen/ED
+1766 Türkenfeld/FFB
+1766 Vogach/FFB
+1766 Oberammergau/GAP
+1766 Kleinpienzenau/NB
+1766 Polling/WM-SOG
+1766 Raisting/WM-SOG
+1766 Untereglfing/WM-SOG
+Objekt
+Schlosskirche
+Pfarrkirche
+Kapitelstuben
+Pfarrkirche
+Filialkirche
+Pfarrkirche
+Pfarrkirche
+Ehem. Prälatenwohnung F. S. Kirzinger
+Pfarrkirche
+Filialkirche
+Klosterkirche
+Pfarrkirche
+Theatinerkirche
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche (Chor)
+Pfarrkirche
+Reliquienkapelle
+Wallfahrtskirche
+Pfarrkirche
+Wallfahrtskirche
+Klosterkirche
+Wallfahrtskirche
+Pfarrkirche
+Filialkirche
+Schloss Festsaal
+Pfarrkirche
+Wallfahrtskirche
+Filialkirche
+Pfarrkirche
+Alte Pfarrkirche
+Kapelle
+Festsaal
+Filialkirche
+Klosterkirche
+Wallfahrtskirche
+Filialkirche (Chor)
+Pfarrkirche
+Prälatenkapelle
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche (LHs)
+Kapelle
+Pfarrkirche
+Filialkirche
+Stiftskirche
+Pfarrkirche
+Filialkirche
+Franz Joseph Soll
+Anton Köll
+J. M. Franz
+J. Unterleutner
+Julian Breymeyer
+J. Georg Gaill
+Joseph Hörmann
+Martin Heigl
+EX. Tieffenbrunner
+Matthäus Günther
+Franz Joseph Soll
+J. Ignaz Schilling
+J. G. Dieffenbrunner
+Ignaz Baldauf
+Philipp Helterhof
+Christian Wink
+Balthasar Mang
+J. Baptist Baader
+J. Kirzinger
+F. S. Kirzinger
+Martin Heigl
+J. Ignaz Schilling
+F.X. Tieffenbrunner
+J. Michael Franz
+J. G. Dieffenbrunner
+Martin Heigl
+Ignaz Baldauf
+Balthasar Mang
+Christian Wink
+F. S. Kirzinger
+Martin Heigl
+Franz Joseph Soll
+F. Nikolaus Streicher
+F.X. Tieffenbrunner
+Ignaz Baldauf
+J. Jakob Zeiller
+J. Baptist Baader
+J. N. von Schöpf
+J. A. von Schöpf
+J. Nikolaus Miller
+J. Baptist Baader
+Ignaz Paur
+J. Georg Gaille
+J. Baptist Baader
+Christian Wink
+Martin Failler
+Thema
+Erasmus-Zyklus
+St. Sixtus und Heilige
+Hl. Willibald
+Margareta-programm
+Marien-programm
+St. Dionysius und Heilige
+Pieta-St. Laurentius
+Divina Providentia
+Johann-Baptist-Zyklus
+Patron St. Andreas
+Benediktinerhimmel
+Hll. Marinus und Anianus
+Marienzyklus
+Gottvater (Kuppellaterne)
+Patron St. Korbinian
+Bruderschaftsbild-Marien-und IV 42
+Magdalena-Zyklus
+Apoll
+St. Laurentius
+Marien-programm
+Marien-Zyklus
+Marien-Zyklus
+Martin-Zyklus
+Marien-programm
+Patron St. Sebastian
+Patron St. Florian
+Kreuzauffindung
+Maria und Heilige
+Opferung Iphigenies
+Patron St. Martin
+Marienzyklus
+Maria Helferin der Christen
+Marien-programm
+Joseph-programm
+Leonhard-Zyklus
+Die kultivierte Erde
+Patron St. Sebastian
+Gründungsgeschichte
+Hl. Dreifaltigkeit
+Patronin St. Ottilia
+Quellwunder des hl. Clemens
+Auferstandener Christus
+Patron St. Stephanus
+Engelsturz
+Patron St. Erhard und Maria
+Maria Helferin der Christen
+Patron Johannes d. Täufer
+(Emporenwandfresken)
+Georg-Zyklus
+David psallens
+St. Remigius
+Mariä Himmelfahrt
+Bd S.
+IX 235
+XIII 69
+XIII 233
+VI 280
+II 497
+II 529
+I 105
+I 216
+IX 75
+XII 411
+XII 433
+IX 81
+III/1 57
+V 301
+III/2 499
+VI 231
+VIII 248
+I 451
+I 322
+I 234
+IX 125
+XI 300
+XII 467
+XIII 24
+XIII 42
+XIII 262
+V 91
+VII 296
+V 162
+VIII 232
+I 120
+IX 191
+XI 49
+XI 217
+XII 470
+V 253
+II 278
+I 456
+V 192
+VII d. 12
+IV 247
+IV 264
+II 375
+II 523
+I 450
+I 472
+I 548

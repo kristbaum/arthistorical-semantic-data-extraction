@@ -1,0 +1,92 @@
+O5 REICHEN/HALL
+Bad Reichenhall, Große Kreisstadt, LK Berchtesgadener
+Land, OB
+Bei Entstehung: Stadt mit Burg, Landgerichtssitz, Rentamt
+München, 1255 Unterland (Morenz 1970, S. 14)
+O5a FRIBVRG V
+Friedburg, Markt, Ortsgem. Lengau, Polit. Bezirk Braunau
+am Inn, Oberösterreich
+Bei Entstehung: Markt (nicht landständisch) mit Burg,
+Landgerichtssitz, Rentamt Burghausen, 1255 Unterland
+(Morenz 1970, S. 17)
+O5b WILTZHVET / V
+Wildshut, Rotte (Schloß), Ortsgem. Sankt Pantaleon, Polit.
+Bezirk Braunau am Inn, Oberösterreich
+Bei Entstehung: Burg, Landgerichtssitz, Rentamt Burg-
+hausen, 1255 Unterland (Morenz 1970, S. 26)
+O6 SCHERDING
+Schärding, Stadt, Polit. Bezirk Schärding, Oberösterreich
+Bei Entstehung: Stadt mit Burg, Landgerichtssitz, Rentamt
+Burghausen, 1255 Unterland (Morenz 1970, S. 14)
+O6a RIEDT / V
+Ried im Innkreis, Stadt, Polit. Bezirk Ried im Innkreis,
+Oberösterreich
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt Burghausen, 1255 Unterland (Morenz
+1970, S. 19)
+O6b REISCHIPACH V
+Reisbach; Markt, LK Dingolfing-Landau, NB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richt Landau, Rentamt Landshut, 1255 Unterland (Morenz
+1970, S. 19)
+O7 LANDTSPERG
+Landsberg, Große Kreisstadt, LK Landsberg, OB
+Bei Entstehung: Stadt mit Burg, Landgerichtssitz, Rentamt
+München, 1255 Oberland (Morenz 1970, S. 12)
+O7a TEISPACH / V
+Teisbach, eingegliedert in Gem. Dingolfing, LK Dingol¬
+fing-Landau, NB
+Bei Entstehung: Landständischer Markt mit Schloß, Land-
+gerichtssitz, Rentamt Landshut, 1255 Unterland (Morenz
+1970 S. 20)
+O7b SCHWABM / O
+Markt Schwaben, Markt, LK Ebersberg, OB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt München, 1255 Oberland (Morenz
+1970, S. 20)
+O8 WASSER/BURG
+Wasserburg am Inn, Stadt, LK Rosenheim, OB
+Bei Entstehung: Stadt mit Burg, Stadt- und Landgerichts-
+sitz, Rentamt München, 1255 Oberland (Morenz 1970, S.1)
+O8a SCHWINDEGK / V
+Schwindegg, Pfarrdorf, Gem. Schwindegg, LK Mühldorf
+am Inn, OB
+Bei Entstehung: Hofmark, Landgericht Neumarkt, Rent-
+amt Landshut, 1255 Unterland (Morenz 1970, S. 26)
+O8b AVRPVRG / O
+Auerburg, Ruine bei Burgberg, Gem. Oberaudorf, LK
+Rosenheim, OB
+Bei Entstehung: Burg, Landgerichtssitz, Rentamt Mün-
+chen, 1255 Oberland (Morenz 1970, S. 22)
+O9 INGOLSTAT
+Ingolstadt, kreisfreie Stadt, OB
+Bei Entstehung: Stadt mit Burg und Schloß, Stadtgerichts-
+sitz, Rentamt München, 1255 Oberland (Morenz 1970,
+S. 12)
+O9a AIBLING O
+Bad Aibling, Stadt, LK Rosenheim, OB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt München, 1255 Oberland (Morenz
+1970, S. 16)
+O9b HALSS V
+Hals, Gem. Passau, NB
+Bei Entstehung: Landständischer Markt mit Burg, Landge-
+richtssitz, Rentamt Straubing, 1255 Unterland (Morenz
+1970, S. 18)
+O10 STRAVBING
+Straubing, kreisfreie Stadt, NB
+Bei Entstehung: Stadt mit Burg, Landgerichts- und Rent-
+amtssitz, 1255 Unterland (Morenz 1970, S. 15)
+O10a BIBVRG O
+Vilsbiburg, Stadt, LK Landshut, NB
+Bei Entstehung: Landständischer Markt, Landgerichtssitz,
+Rentamt Landshut, 1255 Unterland (Morenz 1970, S. 21)
+O10b MAINBVRG O
+Mainburg, Stadt, LK Kelheim, NB
+Bei Entstehung: Landständischer Markt mit Schloß, Land¬
+gerichtssitz, Rentamt München, 1255 Oberland (Morenz
+1970, S. 18)
+O11 BVRCKHAV/SEN
+Burghausen, Stadt, LK Altötting, OB
+Bei Entstehung: Stadt mit Burg, Stadtgerichts- und Rent-
+amtssitz, 1255 Unterland (Morenz 1970, S. 10)

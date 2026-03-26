@@ -2,7 +2,6 @@ data/additional_ocr/
 data/formatted/
 data/raw/
 data/extracted/*/add_ocr/
-data/extracted/*/add_txt/
 data/extracted/*/images/
 data/extracted/*/processed_images/
 data/extracted/*/pages/

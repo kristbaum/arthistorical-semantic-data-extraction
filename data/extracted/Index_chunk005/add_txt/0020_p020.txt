@@ -1,0 +1,399 @@
+1782
+1790
+Jahr Ort/Lkr.
+1780 Wurmansau/GAP
+1780 Langenmosen/ND-SOB
+1780 Tacherting/TS
+1780 ca. Bayersoien/GAP
+1780 ca. Ettal/GAP
+1780/90 Schwabstadl/LL
+Siegsdorf/TS
+Unterwössen/TS
+Eichstätt/EI Sommerresidenz Hofgartenpavillons
+Grainau/GAP
+Osterwarngau/NB
+Windhag/RO
+Haag a.d. Amper/FS
+Unterammergau/GAP
+Ebersberg/EBE
+Arget/M
+Schwindkirchen/ED
+Elmau/GAP
+Piesenkam/NB
+Kirchberg/WM-SOG
+Oberhausen/WM-SOG
+Welden/LL
+Siegertsbrunn/M
+Bad Tölz/TÖL-WOR
+Königsdorf/TÖL-WOR
+Bayrischzell/NB
+Gelting/EBE
+1785 ca. Aurach/NB
+1785 ca. Hagnberg/NB
+1785/90 Hilperting/RO
+1786 Froschhausen/GAP
+1786 Uffing/GAP
+Jachenau/TÖL-WOR
+Sachsenkam/TÖL-WOR
+Oberammergau/GAP
+Sankt Johann/AÖ
+Oberau/GAP
+Alzgern/AÖ
+1788 Pfraundorf/RO
+Obersöchering/WM-SOG
+Seehausen/GAP
+Oderding/WM-SOG
+1790 Sindelsdorf/WM-SOG
+Antoniberg/usO-SOB
+Ellmosen/RO
+1790 ca. Zell/FF.
+1790 ca. Schlehdorf/TÖL-WOR
+1790/91 Hörgertshausen/TS
+objekt
+Kapelle
+Pfarrkirche
+Friedhofkapelle
+Pfarrkirche
+Refektoriumsgang
+Kapelle
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Frauenkirche
+Kapelle
+Pfarrkirche (LHS)
+Pfarrkirche
+Klosterkirche
+Pfarrkirche
+Pfarrkirche
+Kapelle
+Filialkirche
+Pfarrkirche
+Filialkirche
+Filialkirche
+Wallfahrtskirche (Chor) Augustin Demmel
+Kalvarienbergkirche
+Pfarrkirche
+Wallfahrtskapelle
+Pfarrkirche
+Kapelle
+Kapelle
+Filialkirche
+Wallfahrtskirche
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Kapelle
+Filialkirche
+Pfarrkirche/Beinhaus Franz Joseph Soll
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Filialkirche
+Pfarrkirche
+Wallfahrtskirche
+Filialkirche
+Kapelle
+Friedhofskirche
+Pfarrkirche
+F. Seraph Zwinck
+Ignaz Baldauf
+Franz Joseph Soll
+F. Seraph Zwinck
+F. Seraph Zwinck
+Franz Joseph Soll
+Ignaz Baldauf
+J. M. Franz
+E. Seraph Zwinck
+F. Xaver Lamp
+Peter Troger
+Christan Wink
+F. Seraph Zwinck
+F. Seraph Kirzinger
+J. B. Wageneck
+Th. Christian Wink
+Joseph Degenhart
+J. Sebastian Troger
+Franz Seraph Zwinck
+J. Sebastian Troger
+Alois Gaibler
+J. Mathias Ott
+Christian Wink
+J. B. Böham/Pöheim
+J. G. Liechtmanegger
+J. B. Böham/Pöheim
+J. B. Böham/Pöheim
+J. B. Böham/Pöheim
+Alois Gaibler
+J. Sebastian Troger
+Alois Gaibler
+Caspar Weidinger
+F. Seraph Zwinck
+Franz Joseph Soll
+F. Seraph Zwinck
+J.B. Böham/Pöheim
+J. Sebastian Troger
+J. Georg Kayser
+J. Wenceslaus Albert
+J. Sebastian Troger
+Joseph Leitkrath
+J. B. Böham/Pöheim
+Georg Baur
+F. S. Kirzinger
+Christian Wink
+Thema
+Vermählung Mariens
+Patron St. Andreas
+Patronin St. Anna
+Göttliche Tugenden
+Gründungslegende
+St. Apollonia
+Verehrung des Hauptes
+Christi-Maria vom Siege
+Antonius-Bruderschaft
+Götter und Elemente
+St. Johann Baptist
+Marien-programm
+Scheinkuppel
+Bruderschaftsbild
+(Emporenfresken)
+Patron St. Sebastian
+Darstellung d. Malteserordens
+Patrone St. Michael-
+Kosmas und Damian
+Marienzyklus
+Krönung Mariens
+Jakobus-Zyklus
+St. Jakobus und Sebastian
+St. Mauritius
+Maria-Joseph und Stephanus
+St. Leonhard
+Hl.-Kreuz-programm
+St. Laurentius-IHS-Bruderschaft II 203
+Wallfahrtsbild
+Marienzyklus
+Gottvater
+Maria und Heilige
+Patron St. Leonhard
+Leonhard-Zyklus
+Agatha-Zyklus
+Heiligen-Zyklus
+Andreas-Zyklus
+(Emporenfresken)
+Johann-Baptist-Zyklus
+Traum Jakobs
+Esther-Maria/Leben und Tod IX 29
+Patron St. Nikolaus
+St. Petrus und Paulus
+Kindheit Jesu-Kreuzigung
+Martin-Zyklus
+St. Georg-
+Patron St. Antonius
+Patronin St. Margareta
+Patron St. Sebastian
+Kreuzesprobe
+Jakobus-Zyklus
+Bd S.
+II 444
+X 120
+XI 180
+II 273
+II 329
+130
+XI 144
+XI 190
+XIII 225
+II 348
+II 537
+XII 561
+VI 231
+II 433
+XI 300
+III/1 109
+VII 284
+II 277
+II 546
+422
+_ 437
+I 280
+III/1 160
+II 28
+II 460
+XI 347
+II 454
+II 511
+XII 253
+II 331
+II 430
+II 191
+II 229
+II 375
+IX 217
+II 394
+XIItes
+ 439
+IIenns
+t 44 1
+1530
+X 34
+XII 124
+IV 274
+II 253
+VI 242
+1803
+1813
+1821
+Ort/Lkr.
+Maria Elend/TÖL-WOR
+1791 Hofwies/MÜ
+1791/92 Schnaitsee/TS
+1791/92 Albaching/RO
+Riegsee/GAP
+Siegertsbrunn/M
+1794 Rattenkirchen/MÜ
+1795 Schwabbruck/WM-SOG
+1795 Adelshausen/Lt
+95 Hausen bei Geltendorf/LL
+Hechenwang/LL
+Hollenbach/ ND-SOB
+1796 Weilkirchen/MÜ
+1797 Siegertshofen/TÖL-WOR
+Berg/TS.
+Osterhofen/NB
+98 Lippertskirchen/RO
+Unterhausen/NB-SOB
+1800 ca. Dünzelbach/FFB
+1800 ca. Mammendorf/FFB
+1800 ca. Diemendorf/STA
+1802 Walkertshofen/DAH
+Reichling/LL
+Flintsbach/RO
+1808 Haunshofen/WMM-SOG
+1811 Schwarzlack/RO
+Bad Tölz/TÖL-WOR
+Petzenhausen/LL
+1823 St. Ottilien/LL
+1823 Ruhpolding/TS
+1825 Tannenberg/WM-SOG
+Objekt
+Wallfahrtskirche
+Wallfahrtskirche
+Pfarrkirche
+Pfarrkirche
+Filialkirche
+Wallfahrtskirche (LHs) Christian Wink
+Pfarrkirche
+Pfarrkirche
+Kapelle
+Pfarrkirche
+Filialkirche
+Pfarrkirche
+Filialkirche
+Kapelle
+Filialkirche
+Kapelle
+Filialkirche
+Pfarrkirch
+Pfarrkirche
+Pfarrkirche
+Filialkirche
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Wallfahrtskirche
+Stiegenkirche
+Pfarrkirche
+Kapelle
+Pfarrkirche
+Pfarrkirche
+Maler
+J. Sebastian Troger
+M. A. Seltenhorn
+Franz Joseph Soll
+Christian Wink
+F. S. Kirzinger
+F. Xaver Hornöck
+J.J.A. Hueber
+J. B. Anwander
+J. B. Anwander
+J. B. Anwander
+J. Franz Schuster
+F. Xaver Hornöck
+Joseph Ströbl
+Franz Joseph Soll
+J. B. Böham/Pöheim
+Joseph Hauber
+Joseph Leitkrath
+J. B. Anwander
+R. Viktor Purnickl
+P. Wanner
+Joseph Mangold
+Sebastian Jaud
+S. Rechenauer d. Å
+Joseph Mangold
+S. Rechenauer d. Ä
+A. Fröhlich M. Schmaunz Auferstehung Christi
+Sebastian Jaud
+Sebastian Jaud
+J. E. Rechenauer d. J.
+Nikolaus Augner
+Thema
+Wallfahrtsbild
+Marien-Zyklus
+Erdteile huldigen dem Lamm
+Patron St. Nikolaus-Marienleben XII/1 19
+Leonhard- u. Stephanus-Zyklus II 491
+St. Leonhard
+Verkündigung an Maria
+Leben Jesu
+St. Martin
+St. Nikolaus
+St. Martin
+Patron St. Quirin
+Georg-programm
+Religiöse Symbole
+Patron St. Nikolaus
+St. Georg
+Marien-Zyklus
+Patron St. Pankratius
+Patron St. Nikolaus
+Patron St. Jakobus
+Margareta-programm
+Patronin St. Katharina
+St. Nikolaus
+Patron St. Martin und Maria
+St. Gallus
+Marien-programm
+St. Peter und Paul
+Blindenheilungen Jesu
+Leben Jesu
+St. Gswald
+Bd S.
+II 216
+VIII 129
+XI 135
+III/160
+VIII 2327
+I tr5
+I 19
+I 87
+I 91
+X 105
+VIII 286
+II 255
+XI 45
+II 535
+XII 346
+X 508
+IV 29
+IV 193
+leva d. 319
+V 284
+I 199
+XII 139
+4O4
+XII 480
+I 180
+XI III

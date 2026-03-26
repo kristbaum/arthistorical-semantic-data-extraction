@@ -1,0 +1,450 @@
+1724
+1726
+Jahr Ort/Lkr.
+1720 ca. Aufkirchen/FFB
+1720 ca. Wessobrunn/WM-SOG
+1720 ca. Asch/LL
+1720 ca. Schensand/ND-SOB
+1720 ca. Anzing/EBE
+1720/23 Schleißheim Neues Schloss/M Große Galerie
+1720/25 Schlehdorf/TÖL-WOR
+Schleißheim Neues Schloss/M Prunktreppenhaus
+Schleißheim Neues Schloss/M Maximilianskapelle
+Wimpasing bei Ampfing/MU Kapelle
+St. Johannisrain/WM-SOG
+Vilgertshofen/LL
+Eichstätt/El
+1721/22 Schleißheim Neues Schloss/M Großer Saal
+Kreuzholzhausen/DAH
+Maisach/FFB.
+Lenggries/TÖL-WOR
+Elbach/NB
+Au am Inn/MU
+Hitzhofen/EI
+1722/24 Benediktbeuern/TÖL-WOR
+1722/25 Schleißheim Neues Schloss/M Kurf. Appartements
+1722/28 Großmehring/EI
+1723 Hohenbrunn/M
+1723 Fürstenfeld/FFB
+1723 Fürholzen/F S
+1723/24 Schleißheim Neues Schloss/M Viktoriensaal
+1723/25 Schleißheim Neues Schloss/M Eingangshalle
+1723/34 Burghausen/AÖ
+Schönbrunn/DAH
+Schleißheim Neues Schloss/M Südl. Antecamera
+Freising/TS
+Benediktbeuern/TÖL-WOR Ehem. Bibliothek
+Parsberg/NB
+Günzlhofen/FFB
+Bernbeuren/WM-SOG
+Schongau/WM-SOG
+Neuburg a.d. Donau/IND-SOB H.-Geist-Spitalkirche Matthias Zink
+Ettenberg/BGr.
+Götting/RO
+Appertshofen/EI
+1725 ca. Ruhpolding/TS
+1725/30 Ottendichl/M
+1725/35 Kochel/TÖL-WOR
+München Nymphenburg/M
+Bad Heilbrunn/TÖL-WOR
+Dietranszell/TÖL-WOR Ehem. Pfarrkirche
+1726 Schönau/RO
+1727 Etting/IN
+Objekt
+Pfarrkirche
+Gang im Kloster
+Pfarrkirche
+Friedhofkapelle
+Schlosskapelle
+Psallierchor
+Filialkirche
+Wallfahrtskirche
+Notre Dame
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Klosterkirche
+Alte Pfarrkirche
+Schlafzimmer
+Alte Pfarrkirche
+Pfarrkirche
+Klosterkirche (Chor)
+Pfarrkirche
+Institutskirche
+Schlosskapelle
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Kreuzkapelle
+Pfarrkirche
+Pfarrkirche
+Wallfahrtskirche
+Schlosskapelle
+Pfarrkirche
+Pfarrkirche
+Magdalenenklause
+Pfarrkirche
+Pfarrkirche
+Pfarrkirche
+Maler
+I. Amigoni-
+J. P. Waxschlunger
+1. J. Zwinck
+C.D. Asam
+C. D. Asam
+J. Anton Haas
+Michael Schalck
+J. B. Zimmermann
+J. G. Bergmüller
+Iacopo Amigoni
+J. Georg Pfeill
+Joseph Krenauer
+J. Adam Fett?
+Caspar Glasl?
+B. Albrecht und
+J. E. Kendlbacher
+Matthias Zink
+Lucas Zais
+Iacopo Amigoni¬
+N. G. Stuber-N. Bertin
+J. A. Zächenberger
+C.D. Asam
+J. Georg Sang
+Iacopo Amigoni
+N. G. Stuber
+Innozenz Anton Waratti
+B.A. Albrecht
+C.D. Asam
+C. D. Asam
+J. B. Zimmermann
+Joseph Krenauer?
+Johann Heel
+J. Georg Lederer
+Innozenz Anton Warathi   Maria als neue Esther
+J. A. Zächenberger
+N. G. Stuber
+Lucas Zais
+J. B. Zimmermann
+J. B. Zimmermann Umkreis Marien-programm
+Melchior Puchner
+Thema
+Patron St. Georg
+Embleme
+Heilige Sippe
+Patron St. Stephanus
+H.-Kreuz-programm
+Groteskenmalerei
+AT-Opfer-Zyklus
+Venus bei Vilkan
+Maximilian-Zyklus
+Schlacht bei Ampfing
+Heilige Sippe
+Pietà
+Herz-Jesu-programm
+Turnus und Aeneas
+H.-Kreuz-Zyklus
+Patron St. Vitus
+Jakobus-Zyklus
+Andreas-und Marien-Zyklus
+Augustinus-programm
+Marien-programm
+Marien-programm
+Mythologische Zyklen-
+Achill-Ceres u. a.
+Marien-Zyklus
+Patron St. Stephan
+Kloster-programm
+Stephanus-programm
+Aeneas bei Dido
+Dekorationsmalerei
+Engelchöre
+Verehrung des Kreuzes
+Zephyr
+Korbinian-programm
+Wissenschaften und Künste
+Laurentius-Zyklus
+Jakobs Traum
+Marien-programm
+Hl. Kreuz-
+Heilig-Geist-programm
+Engel-programm
+Marien-programm
+Marienleben
+Patron St. Martin
+Michael-Zyklus
+Magdalena-Zyklus
+Kilian-Zyklus
+Leben Jesu
+Die drei elenden Heiligen
+IV 24
+1 575
+X 276
+XI 288
+III/2 519
+II 246
+III/2 506
+III/2 548
+VIII 294
+I 506
+I 255
+XIII 154
+III/2 510
+V 155
+IV 190
+II 209
+II 465
+VIII 33
+XIII 280
+II 94
+III/2 525
+XIII 254
+III/1 127
+IV 58
+VI 214
+III/2 515
+III/2 488
+IX 70
+V 231
+III/2 496
+VI 49
+II 124
+II 542
+IV 162
+I 381
+1 523
+X 161
+XI 207
+XII 162
+XIII 27
+XI 123
+III/1 144
+II 199
+III/2scr.
+II 21
+II 158
+XII 472
+XIV 151
+1732
+1733
+Ort/Lkr.
+1728 Geisenfeld/PAF
+Klösterl/TÖL-WOR
+Tüssling/AÖ
+Pfalzpaint/EI
+1728 ca. Aich/FFB
+1729 Puch/PAF
+Tegernbach/ED
+Puchschlagen/DAH
+1729 Rammertshofen/FFB
+1729 Weyarn/NB
+1729 ca. Hagenheim/LL
+1729/30 München-Perlach/M
+1729/30 München Residenz/M
+1730 Hohenwart/PAF
+1730 Kirnberg/VM-SOG
+1730 Reisch/LL
+1730 Beyharting/RO
+1730 ca. Puch/FFB
+1730 ca. Bischofsried/LL
+1730 ca. Landsberg/LL
+1730/32 Benediktbeuern/TÖL-WOR Sommerprälatur
+1730/40 Reutberg/TÖL-WOR
+1730/40 Kreuzberg/WM-SOG
+1730/40 Holzhausen a. Ammersee/LL Filialkirche
+1730/40 Stadl/LL
+1731 Fürstenfeld/FFB
+Benediktbeuern/TÖL-WOR Ehem. Speisesaal
+Tegernsee/NB
+Unering/StA
+Großholzhausen/RO
+1731 Kösching/EI
+1731/32 Benediktbeuern/TÖL-WOR Neuer Festsaal
+31/33 Burghausen/AÖ
+Ingolstadt/IN
+Benediktbeuern/TÖL-WOR  Südtrakt
+Neuburg a.d. Donau/ND-SOB Provinzialbibliothek
+Walleshausen/LL
+Walting/EI
+1732/37 Großeisenbach/FS
+Bad Kohlgrub/GAP
+Garmisch/GAP
+Wall/NB
+1733  Dienhausen/L
+1733 Kamsau/B e
+1733/34 München Residenz/M
+Objekt
+Klosterkirche
+Hauskapelle
+Marktkirche
+Pfarrkirche
+Kuratiekirche
+Pfarrkirche
+Filialkirche
+Filialkirche
+Filialkirche
+Klosterkirche
+Filialkirche
+Pfarrkirche (LHS)
+(Chor)
+Ahnengalerie
+Marktkirche
+Kapelle
+Filialkirche
+Klosterkirche
+Wallfahrtskirche
+Wallfahrtskapelle
+Maria Schnee
+Leonhardskapelle
+Klosterkirche
+Kapelle
+Pfarrkirche
+Klosterkirche (LHS)
+Filialkirche
+Pfarrkirche
+Seelenkapelle
+und Gästetrakt
+Jesuitenaula
+Hl.-Geist-Spitalkirche
+Pfarrkirche
+Kapelle
+Filialkirche
+Votivkapelle
+Pfarrkirche
+Pfarrkirche
+Kapelle
+Wallfahrtskirche
+Grüne Galerie
+Melchior Puchner
+Lucas Zais
+J. A. Vogl
+Matthias Zink
+A. Zächenberger
+F. A. Aiglstorffer
+Joseph Krenauer
+J. B. Zimmermann
+Nikolaus G. Stuber
+Anton Zächenberger
+B. A. Albrecht
+Martin Kraus?
+Johann Heel
+J.C.Schäffler
+J.B. Zimmermann
+Joseph Krenauer
+J. G. Wolcker
+D. Zimmermann
+J.J. Zimmermann
+Johann Heel
+J. C. Schäffler
+C. D. Asam
+J.J. Zimmermann
+Melchior Puchner
+J. G. Sang
+Thomas Urscher
+Melchior Puchner
+J. B. und J. J. Zimmermann Ordensleben und
+I. A. Warathi
+Melchior Puchner
+J. B. und J. J. Zimmermann Eintritt ins Kloster
+Melchior Puchner
+J. G. Wolcker
+J. D. Murmann
+Georg Sang
+Augustin Bernhardt
+Matthäus Günther¬
+J. Dieffenbrunner
+Julian Breymeyer
+I. Anton Warathi
+B. A. Albrecht
+Thema
+Gründungsgeschichte
+Heilige Sippe
+Georg-Zyklus
+St. Ulrich
+Petrus-Zyklus
+Patron St. Martin
+Patron St. Petrus
+Patron St. Kastulus und Maria
+Hl.-Kreuz-Zyklus
+Augustinus-Zyklus
+Rosenkranz-Zyklus
+Patron St. Michael
+Ahnen-Zyklus
+Marien-Zyklus
+Marien-programm
+Marien-Zyklus
+Patrone St. Johann Baptist
+und Augustinus
+Selige Edigna
+Mariengnadenbild
+St. Leonhard
+Christliche allegorien
+Loreto-Zyklus
+Hl.-Kreuz-Zyklus
+St. Ulrich
+St. Johann Baptist
+Zisterzienser-programm
+Gastmahl des Pharisäers
+Kloster-Allegorie
+Martin-Zyklus
+Patron St. Georg und
+Kreuz-Zyklus
+Jüngstes Gericht
+mythologische Götter
+Marien- und Jesuiten-Zyklus
+Embleme-Zyklus
+Marien-und-Martin-Zyklus
+Leben-Jesu-programm
+St. Leonhard
+St. Leonhard
+Rochus-programm
+Martin-Zyklus
+Heilige
+Margareta-Zyklus
+H. Benedikt
+Immaculata als Schutzherrin
+des Glaubens
+Allegorie der Künste
+Bd S.
+XIV 189
+II 195
+IX 223
+XIII 380
+IV 21
+XIV 230
+VII 302
+V 212
+IV 239
+II 613
+III/193
+III/2 334
+XIV 223
+426
+I 202
+XII 102
+IV 223
+1 157
+II 119
+II 223
+I 428
+I 101
+I 231
+IV 58
+II 116
+II 598
+I 355
+XII 175
+XIII 906
+II 103
+IX 43
+XIV 17
+II 100
+X 208
+I 266
+XIII 444
+VI 225
+II 269
+II 535
+II 604
+XI 257
+III/2 339
