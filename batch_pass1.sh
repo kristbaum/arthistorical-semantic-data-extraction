@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH -p lrz-hgx-h100-94x4
 #SBATCH --gres=gpu:1
-#SBATCH --time=01:00:00
+#SBATCH --time=48:00:00
 #SBATCH -o logs/log_%j.out
 #SBATCH -e logs/log_%j.err
 #SBATCH --container-remap-root
@@ -34,11 +34,5 @@ ollama pull "$MODEL"
 python3 src/run_pass1.py \
   --input-dir data/extracted/Band01_chunk001 \
   --model "$MODEL" \
-  --max-pages 20
-
-# FULL RUN — uncomment once test results are verified
-# python3 src/run_pass1.py \
-#   --input-dir data/extracted \
-#   --model "$MODEL"
 
 echo "[INFO] Done $(date)"
