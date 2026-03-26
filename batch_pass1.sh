@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH -p lrz-v100x2
 #SBATCH --gres=gpu:1
-#SBATCH --time=24:00:00
+#SBATCH --time=01:00:00
 #SBATCH -o logs/log_%j.out
 #SBATCH -e logs/log_%j.err
 #SBATCH --container-remap-root
