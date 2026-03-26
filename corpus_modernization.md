@@ -36,14 +36,14 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 - [x] Training a custom text recognition model (6.5h on transcribus.org)
 - [x] Running all pages through model (34.5h)
 - [x] Running an additional layout and text recognition model ([surya](https://github.com/VikParuchuri/surya), 2025) on small-scale hardware (GTX 1660) ([src](src/surya_pipeline.py))
-- [x] Parse and transform the laid-out OCR results into [MediaWiki markup language](https://www.mediawiki.org/wiki/Help:Formatting) ([src](src/surya_mediawiki.py))
+- [x] Parse and transform the laid-out OCR results into [MediaWiki markup language](https://www.mediawiki.org/wiki/Help:Formatting) ([src](src/surya_mediawiki.py)) Result: 3,127 files, 2,347,256 words, 16,934,886 characters
 - [x] Join lines and remove line breaks and dashes ([src](src/surya_mediawiki.py))
 - [x] Adding hidden links to relevant part of the PDFs on dropbox on every page ([src](src/dropbox_links.py))
 - [x] Add original page numbers to each page ([src](src/dropbox_links.py))
 - [ ] Merge both OCR results with larger LLM model (Mistral-7B) on LRZ AI hardware to improve results and fix layout ordering errors from Transkribus OCR (Pass 1)
 - [ ] Improve spelling mistakes and remove indices and other non article text (Pass 1)
-- [ ] Expand abbreviations, based on the glossary (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 1)
-- [ ] Identify and split results into building-based articles using Mistral on LRZ AI (Pass 2)
+- [ ] Expand abbreviations, based on the glossary (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 2)
+- [ ] Identify and split results into building-based articles using Mistral on LRZ AI (Pass 3)
 - [ ] Standardize article formatting with sections:
   - Patrozinium
   - Zum Bauwerk
