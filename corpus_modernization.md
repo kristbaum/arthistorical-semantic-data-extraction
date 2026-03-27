@@ -40,6 +40,8 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 - [x] Join lines and remove line breaks and dashes ([src](src/surya_mediawiki.py))
 - [x] Adding hidden links to relevant part of the PDFs on dropbox on every page ([src](src/dropbox_links.py))
 - [x] Add original page numbers to each page ([src](src/dropbox_links.py))
+- [x] Modify formating for improved parsing by LLM (Chapter marks)
+- [x] Shield quotations from LLMs by wrapping them in explicit brackets
 - [ ] Merge both OCR results with larger LLM model (Mistral-7B) on LRZ AI hardware to improve results and fix layout ordering errors from Transkribus OCR (Pass 1)
 - [ ] Improve spelling mistakes and remove indices and other non article text (Pass 1)
 - [ ] Expand abbreviations, based on the glossary (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 2)
