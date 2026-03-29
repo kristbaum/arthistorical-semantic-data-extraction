@@ -30,6 +30,7 @@ import json
 import http.client
 import re
 import sys
+import time
 from pathlib import Path
 
 PROMPT_TEMPLATE = """\
@@ -136,8 +137,13 @@ def post_generate(model: str, prompt: str) -> str:
         conn.close()
         raise RuntimeError(f"Ollama returned {resp.status}: {data[:500]}")
 
+    _TIMEOUT_S = 600  # 10 minutes total wall-clock limit
     tokens: list[str] = []
+    deadline = time.monotonic() + _TIMEOUT_S
     for raw_line in resp:
+        if time.monotonic() > deadline:
+            conn.close()
+            raise RuntimeError(f"LLM response exceeded {_TIMEOUT_S}s timeout")
         line = raw_line.decode("utf-8", errors="replace").strip()
         if not line:
             continue
