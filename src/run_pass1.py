@@ -137,7 +137,7 @@ def post_generate(model: str, prompt: str) -> str:
         conn.close()
         raise RuntimeError(f"Ollama returned {resp.status}: {data[:500]}")
 
-    _TIMEOUT_S = 600  # 10 minutes total wall-clock limit
+    _TIMEOUT_S = 300  # 5 minutes total wall-clock limit
     tokens: list[str] = []
     deadline = time.monotonic() + _TIMEOUT_S
     for raw_line in resp:
