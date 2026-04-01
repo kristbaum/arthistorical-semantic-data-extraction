@@ -1,0 +1,162 @@
+== ABKURZUNGEN ==
+
+
+
+== Allgemeine Abkürzungen ==
+
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+
+{| class="wikitable"
+|-
+| Anm. Anmerkung, Nr., Nrn. Nummer, Nummern, NI Neues Testament
+|-
+| AR Altarraum, NW Nordwesten, AT Altes Testament, O Osten
+|-
+| Bd, Bde Band, Bände, OB Oberbayern, OFr Oberfranken
+|-
+| BHStA Bayerisches Hauptstaatsarchiv, München, OÖ Oberösterreich
+|-
+| BLfD Bayerisches Landesamt für Denkmalpflege, München, OPf Oberpfalz
+|-
+| BNM Bayerisches Nationalmuseum, München, o. J. ohne Jahr
+|-
+| BSB Bayerische Staatsbibliothek, München, o. O. ohne Ort
+|-
+| BSGS Bayerische Staatsgemäldesammlungen, München, o. V. ohne Verfasser
+|-
+| cgm Codex germanicus monacensis, Par. Parallelstellen
+|-
+| clm Codex latinus monacensis, QHs Querhaus, QSch. Querschiff
+|-
+| Cod. Codd. Codex, Codices, r. recto
+|-
+| Diss. Dissertation, S Süden
+|-
+| Ed., ed. Edition, edidit, S. Seite
+|-
+| F. Faszikel, Schw. Schwaben
+|-
+| f., ff. folgend, folgende, SGS Mü Staatliche Graphische Sammlung, München
+|-
+| Fa. Firma, SO Südosten
+|-
+| fol. folio, Sp. Spalte, SSch. Seitenschiff
+|-
+| GL Gerichtsliteralien, St. Sankt
+|-
+| H. Heft, Hg., hg. v. Herausgeber, herausgegeben von, hl., hll. heilig, heilige
+|-
+| HS Handschriften, StAM Staatsarchiv München (ehem. Kreisarchiv)
+|-
+| StAL Staatsarchiv Landshut, StadtAM Stadtarchiv München, Inv. Inventar
+|-
+| SW Südwesten, Jg., Jgg. Jahrgang, Jahrgänge, Tf. Tafel
+|-
+| Jh. Jahrhundert, Tom. Tomus, Kat. Katalog, UFr Unterfranken
+|-
+| Kap. Kapitel, ungedr. ungedruckt, KL Klosterliteralien, v. verso
+|-
+| Kr., x Kreuzer, W Westen, LHs Langhaus
+|-
+| Lib. Liber, LKr. Landkreis, loc. cit. lococitato, Lw. Leinwand
+|-
+| Ms., Mss. Manuskript, Manuskripte, MFr Mittelfranken, MSch. Mittelschiff
+|-
+| NB Niederbayern, NO Nordosten, Darüber hinaus allgemein übliche Abkürzungen sind nach Duden vorgenommen.
+|-
+| }
+
+
+== Abkürzungen der biblischen Schriften ==
+
+
+nach der Vulgata Clementina in der Neuausgabe Madrid 1965 dazu deutsche Bezeichnung nach der Übersetzung Luthers
+
+
+{| class="wikitable"
+|-
+| Altes Testament, Agg Aggaeus Haggai, Zach Zacharias Sacharja
+|-
+| Gen Genesis 1 Mose, Mal Malachias Maleachi
+|-
+| Ex Exodus 2 Mose, 1 Mach 1 Machabaeorum 1 Makkabäer
+|-
+| Lex Leviticus 3 Mose, 2 Mach 2 Machabaeorum 2 Makkabäer
+|-
+| Num Numeri 4 Mose, Ios Iosue Iosua
+|-
+| Deut Deuteronomium 5 Mose, Iud Iudices Richter
+|-
+| Ruth Ruth Ruth, Neues Testament
+|-
+| I Sam I Samuelis seu I Regum 1 Samuel, Mc Evangelium sec. Marcum Markus-Evangelium
+|-
+| 2 Sam 2 Samuelis seu 2 Regum 2 Samuel, Lc Evangelium sec. Lucam Lukas-Evangelium
+|-
+| 3 Reg 3 Regum 1 Könige, Io Evangelium sec. Ioannem Johannes-Evangelium
+|-
+| 4 Reg 4 Regum 2 Könige, Act Actus Apostolorum Apostelgeschichte
+|-
+| 1 Par 1 Paralipomenon 1 Chronik, Rom Epistola ad Romanos Römerbrief
+|-
+| 2 Par 2 Paralipomenon 2 Chronik, I Cor I Epistola ad Corinthios I. Korintherbrief
+|-
+| Esdr 1 Esdrae Esra, 2 Cor 2 Epistola ad Corinthios 2. Korintherbrief
+|-
+| Neh Nehemias seu 2 Esdrae Nehemia, Gal Epistola ad Galates Galaterbrief
+|-
+| Tob Tobias Tobias, Eph Epistola ad Ephesios Epheserbrief
+|-
+| Iudith Iudith Judith, Phil Epistola ad Philippenses Philipperbrief
+|-
+| Esth Esther Esther, Col Epistola ad Colossenses Kolosserbrief
+|-
+| Iob Iob Hiob, 1 Thess 1 Epistola ad Thessalonicenses 1. Thessalonicherbrief
+|-
+| Ps Psalm Psalter, 2 Thess 2 Epistola ad Thessalonicenses 2. Thessalonicherbrief
+|-
+| Prov Proverbia Sprüche Salomos, 1 Tim 1 Epistola ad Timotheum 1. Timotheusbrief
+|-
+| Eccl Ecclesiastes Prediger Salomo, 2 Tim 2 Epistola ad Timotheum 2. Timotheusbrief
+|-
+| Cant Canticum Canticorum Hoheslied Salomos, Tit Epistola ad Titum Titusbrief
+|-
+| Sap Sapientia Weisheit Salomos, Philem Epistola ad Philemonem Philemonbrief
+|-
+| Eccli Ecclesiasticus Iesus Sirach, Hebr Epistola ad Hebraeos Hebräerbrief
+|-
+| Is Isaias Jesaja, Iac Epistola Iacobi Jakobusbrief
+|-
+| Ier Ieremias Ieremia, 1 Petr 1 Epistola Petri 1. Petrusbrief
+|-
+| Lam Lamentationes Klagelieder, 2 Petr 2 Epistola Petri 2. Petrusbrief
+|-
+| Bar Baruch Baruch, 1 Io 1 Epistola Ioannis 1. Johannesbrief
+|-
+| Ez Ezechiel Hesekiel, 2 Io 2 Epistola Ioannis 2. Johannesbrief
+|-
+| Dan Daniel Daniel, 3 Io 3 Epistola Ioannis 3. Johannesbrief
+|-
+| Os Osee Hosea, Iudae Epistola Iudae Judasbrief
+|-
+| Ioel Ioel Joel, Apoc Apocalypsis Offenbarung des Johannes
+|-
+| Am Amos Amos, Soph Sophonias Zephania
+|-
+| Abd Abdias Obadja, Hab Habacuc Habakuk
+|-
+| Ion Ionas Jonas, Nah Nahum Nahum
+|-
+| Mich Michaeas Micha, Hab Habacuc Habakuk
+|-
+| Nah Nahum Nahum, Soph Sophonias Zephania
+|-
+| Hab Habacuc Habakuk, Apoc Apocalypsis Offenbarung des Johannes
+|-
+| }
+
+
+----
+I 3

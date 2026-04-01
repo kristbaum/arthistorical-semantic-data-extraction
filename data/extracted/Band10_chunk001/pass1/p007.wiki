@@ -1,0 +1,188 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band10 p12 -->
+
+
+== ABKURZUNGEN ==
+
+
+
+== Allgemeine Abkürzungen ==
+
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+
+{| class="wikitable"
+|-
+| ABA Archiv des Bistums Augsburg Lw. Leinwand
+|-
+| Abb. Abbildung Ms., Mss. Manuskript, Manuskripte
+|-
+| AEM Archiv des Erzbistums München MFr Mittelfranken
+|-
+| Anm. Anmerkung MSch. Mittelschiff
+|-
+| AR Altarraum NB Niederbavern
+|-
+| AT Altes Testament NO Nordosten
+|-
+| BA Neuburg Bezirksamt Neuburg Nr., Nrn. Nummer, Nummern
+|-
+| Bd, Bde Band, Bände NT Neues Testament
+|-
+| BHStA Bayerisches Hauptstaatsarchiv, München NW Nordwesten
+|-
+| BLfD Bayerisches Landesamt für Denkmal- O Osten
+|-
+| pflege, München OAE Ordinariatsarchiv Eichstätt
+|-
+| BNM Bayerisches Nationalmuseum, München OB Oberbayern
+|-
+| BO Bischöfliches Ordinariat OFr Oberfranken
+|-
+| BSB Bayerische Staatsbibliothek, München o. J. ohne Jahr
+|-
+| BSGS Bayerische Staatsgemäldesammlungen, o.O. ohne Ort
+|-
+| München OPf Oberpfalz
+|-
+| BSV Bayerische Verwaltung der staatlichen o. V. ohne Verfasser
+|-
+| Schlösser, Gärten und Seen, München Par. Parallelstellen
+|-
+| cgm Codex germanicus monacensis PNA Pfalz-Neuburg Akten
+|-
+| clm Codex latinus monacensis PNA, NA 1989 Pfalz-Neuburg Akten,
+Cod. Codd. Codex, Codices PNA, NA 1989 Pfalz-Neuburg Akten,
+Neuburger Abgabe 1989
+|-
+| Diss. Dissertation QHs Querhaus
+|-
+| Ed., ed. Edition, edidit QSch. Querschiff
+|-
+| F. Faszikel r. recto
+|-
+| f., ff. folgend, folgende S Süden
+|-
+| fl. Gulden S. Seite
+|-
+| Fa. Firma Schw. Schwaben
+|-
+| fol. folio SGS Mü Staatliche Graphische Sammlung frdl. Mitt. freundliche Mitteilung München
+|-
+| H. Heft SO Südosten
+|-
+| Hg., hg. v. Herausgeber, herausgegeben von Sp. Spalte<br>hl., hll. heilig, heilige SSch. Seitenschiff
+|-
+| HS Handschriften St. Sankt
+|-
+| Inv. Inventar StA Augsburg Staatsarchiv Augsburg Staatsarchiv München (ehem.
+|-
+| Jahrhundert Kreisarchiv)
+|-
+| Kat. Katolog SW Südwesten
+|-
+| Kap. Kapitel Tf. Tafel
+|-
+| Kr., x Kreuzer Tom. Tomus
+|-
+| LHs Langhaus UFr Unterfranken
+|-
+| Lib. Liber ungedr. ungedruckt
+LKr. Landkreis v. verso
+|-
+| oc. cit. Vesten
+|}
+
+
+Darüber hinaus allgemein übliche Abkürzungen sind nach Duden vorgenommen.
+
+
+== Abkürzungen der biblischen Schriften ==
+
+
+nach der Vulgata Clementina in der Neuausgabe Madrid 196 dazu deutsche Bezeichnung nach der Übersetzung Luthers
+
+
+{| class="wikitable"
+|-
+| Altes Testament Agg Aggaeus Haggai<br>Zach Zacharias Sacharja
+|-
+| Gen Genesis 1 Mose Malachias Maleachi
+Ex Exodus 2 Mose 1 Mach 1 Machabaeorum 1 Makkabäer
+Lex Leviticus 3 Mose 2 Mach 2 Machabaeorum 2 Makkabäer
+|-
+| Num Numeri 4 Mose
+|-
+| Deut Deuteronomium 5 Mose
+|-
+| Ios Iosue Josua Neues Testament
+|-
+| Iud Iudices Richter
+|-
+| Ruth Ruth Ruth Mt Evangelium sec. Matthäus-
+|-
+| 1 Sam 1 Samuelis seu 1 Regum 1 Samuel Matthaeum Evangelium
+2 Sam 2 Samuelis seu 2 Regum 2 Samuel Mc Evangelium sec. Marcum Markus-
+3 Reg 3 Regum 1 Könige Lc Evangelium sec. Lucam Lukas-
+1 Par 1 Paralipomenon 1 Chronik
+|-
+| 2 Par 2 Paralipomenon 2 Chronik Io Evangelium sec. Ioannem Johannes-
+|-
+| Esdr 1 Esdrae Esra Evangelium
+|-
+| Neh Nehemias seu 2 Esdrae Nehemia Act Actus Apostolorum Apostelgeschichte
+|-
+| Tob Tobias Tobias des Lukas
+|-
+| Iudith Iudith Judith Rom Epistola ad Romanos Römerbrief
+|-
+| Esth Esther Esther I Cor I Epistola ad Corinthios I. Korintherbrief
+|-
+| Iob Iob Hiob 2 Cor 2 Epistola ad Corinthios 2. Korintherbrief
+|-
+| Ps Psalm Psalter Gal Epistola ad Galates Galaterbrief
+|-
+| Prov Proverbia Sprüche Salomos Eph Epistola ad Ephesios Epheserbrief
+|-
+| Eccl Ecclesiastes Prediger Salomo Phil Epistola ad Philippenses Philipperbrief
+|-
+| Cant Canticum Canticorum Hoheslied Salomos Col Epistola ad Colossenses Kolosserbrief
+|-
+| Sap Sapientia Weisheit Salomos 1 Thess 1 Epistola ad Thessalonicenses 1. Thessalonicherbrief
+|-
+| Eccli Ecclesiasticus Jesus Sirach 2 Thess 2 Epistola ad Thessalonicenses 2. Thessalonicherbrief
+|-
+| Is Isaias Jesaja 1 Tim 1 Epistola ad Timotheum 1. Timotheusbrief
+|-
+| Ier Ieremias Ieremia 2 Tim 2 Epistola ad Timotheum 2. Timotheusbrief
+|-
+| Lam Lamentationes Klagelieder Tit Epistola ad Titum Titusbrief
+|-
+| Jeremias Philem Epistola ad Philemonem Philemonbrief
+|-
+| Bar Baruch Baruch Hebr Epistola ad Hebraeos Hebräerbrief
+|-
+| Ez Ezechiel Hesekiel Iac Epistola Iacobi Jakobusbrief
+|-
+| Dan Daniel Daniel 1 Petr 1 Epistola Petri 1. Petrusbrief
+|-
+| Os Osee Hosea 2 Petr 2 Epistola Petri 2. Petrusbrief
+|-
+| Ioel Ioel Joel 1 Io 1 Epistola Ioannis 1. Johannesbrief
+|-
+| Am Amos 2 Io 2 Epistola Ioannis 2. Johannesbrief
+|-
+| Abd Abdias Obadja 3 Io 3 Epistola Ioannis 3. Johannesbrief
+|-
+| Ion Ionas Jonas Iudae Epistola Iudae Judasbrief
+|-
+| Mich Michaeas Micha Apoc Apocalypsis Offenbarung
+|-
+| Nah Nahum Nahum des Johannes
+|-
+| Hab Habacuc Habakuk
+|-
+| Soph Sophonias Zephania
+|}
+<!-- citation-page-bottom: Band10 p13 -->

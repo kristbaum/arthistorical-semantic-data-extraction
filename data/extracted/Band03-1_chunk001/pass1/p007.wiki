@@ -1,0 +1,182 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band03-1 p12 -->
+
+<!-- header: ABKURZUNGEN -->
+
+
+== Allgemeine Abkürzungen ==
+
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+
+{| class="wikitable"
+|-
+| AT Altes Testament | NÖ Niederösterreich
+|-
+| BHStA I Bayerisches Hauptstaatsarchiv | Nr., Nrn. Nummer, Nummern
+|-
+| München, Abteilung I | NT Neues Testament
+|-
+| Bd, Bde Band, Bände | NW Nordwesten
+|-
+| BLfD Bayerisches Landesamt für | O Osten
+|-
+| Denkmalpflege, München | OB Oberbayern
+|-
+| BSB Bayerische Staatsbibliothek, München | OFr Oberfranken
+|-
+| Cap. Capitel | o. J. ohne Jahr
+|-
+| cgm Codex germanicus monacensis | o. O. ohne Ort
+|-
+| clm Codex latinus monacensis | OÖ Oberösterreich
+|-
+| Cod. Codd. Codex, Codices | OPf Oberpfalz
+|-
+| Diss. Dissertation | o. V. ohne Verfasser
+|-
+| Ed., ed. Edition, edidit | Par. Parellelstellen
+|-
+| ehem. ehemalig, ehemals | QHs Querhaus
+|-
+| F. Faszikel | QSch. Querschiff
+|-
+| f., ff. folgend, folgende | r recto
+|-
+| fl. Gulden | Süden
+|-
+| Fa. Firma | S. Seite
+|-
+| fol. Schwaben | Schwaben
+|-
+| frdl. Mitt. freundliche Mitteilung | SO Südosten
+|-
+| GL Gerichtsliteralien | Sp. Spalte
+|-
+| H. Heft | SSch. Seitenschiff
+|-
+| Hg., hg. v. Herausgeber, herausgegeben von | St. Sankt
+|-
+| hl., hll. heilig, heilige | StAM Staatsarchiv München
+|-
+| Inv. Inventar (ehem. Kreisarchiv) | 
+|-
+| Jg., Jgg. Jahrgang, Jahrgänge | Stadt A Stadtarchiv
+|-
+| Jh. Jahrhundert | Südwesten
+|-
+| Kat. Katalog | Tf. Tafel
+|-
+| Kap. Kapitel | Tom. Tomus
+|-
+| KL Klosterliteralien | UFr Unterfranken
+|-
+| kr. Kreuzer | ungedr. ungedruckt
+|-
+| LHs Langhaus | v verso
+|-
+| Lib. Liber | vgl. vergleiche
+|-
+| LKr. Landkreis | W Westen
+|-
+| loc. cit. loco citato | z. Z. zur Zeit
+|-
+| Lw. Leinwand | 
+|-
+| Ms., Mss. Manuskript, Manuskripte | Darüber hinaus allgemein übliche Abkürzungen nach Duden vorgenommen.
+|}
+
+
+
+== Abkürzungen der biblischen Schriften ==
+
+
+nach der Vulgata Clementina in der Neuausgabe Madrid 1965 dazu deutsche Bezeichnung nach der Übersetzung Luthers
+
+
+{| class="wikitable"
+|-
+| Altes Testament | Hab Habacuc Habakuk
+|-
+| Soph Sophonias Zephania
+|-
+| Gen Genesis 1 Mose | Agg Aggaeus Haggai
+|-
+| Ex Exodus 2 Mose | Zach Zacharias Sacharja
+|-
+| Lex Leviticus 3 Mose | Mal Malachias Maleachi
+|-
+| Num Numeri 4 Mose | 1 Mach 1 Machabaeorum 1 Makkabäer
+|-
+| Deut Deuteronomium 5 Mose | 2 Mach 2 Machabaeorum 2 Makkabäer
+|-
+| Ios Iosue Josua | 
+|-
+| Iud Iudices Richter | Ruth Ruth
+|-
+| 1 Sam 1 Samuelis seu 1 Samuel | Mt Evangelium sec. Matthaeum Matthäus-Evangelium
+|-
+| 1 Regum | Mc Evangelium sec. Marcum Markus-Evangelium
+|-
+| 2 Sam 2 Samuelis seu 2 Samuel | Lc Evangelium sec. Lucam Lukas-Evangelium
+|-
+| 2 Regum | Evangelium
+|-
+| 3 Reg 3 Regum 1 Könige | Io Evangelium sec. Ioannem Johannes-Evangelium
+|-
+| 4 Reg 4 Regum 2 Könige | Evangelium
+|-
+| 1 Par 1 Paralipomenon 1 Chronik | Act Actus Apostolorum Apostelgeschichte des Lukas
+|-
+| 2 Par 2 Paralipomenon 2 Chronik | Rom Epistola ad Romanos Römerbrief
+|-
+| Esdr 1 Esdrae Esra | Neh Nehemias seu Nehemia
+|-
+| 2 Esdrae | Tob Tobias
+|-
+| Tob Tobias | Iudith Iudith Judith
+|-
+| Iudith Iudith Judith | Esth Esther
+|-
+| Esth Esther | Iob Iob Hiob
+|-
+| Iob Iob Hiob | Ps Psalmi Psalter
+|-
+| Ps Psalmi Psalter | Prov Proverbia Sprüche Salomos
+|-
+| Prov Proverbia Sprüche Salomos | Eccl Ecclesiastes Prediger Salomo
+|-
+| Eccl Ecclesiastes Prediger Salomo | Cant Canticum Canticorum Hoheslied Salomos
+|-
+| Cant Canticum Canticorum Hoheslied Salomos | Sap Sapientia Weisheit
+|-
+| Sap Sapientia Weisheit | Eccli Ecclesiasticus Jesus Sirach
+|-
+| Eccli Ecclesiasticus Jesus Sirach | Is Isaias Jesaja
+|-
+| Is Isaias Jesaja | Ier Ieremias Jeremia
+|-
+| Ier Ieremias Jeremia | Lam Lamentationes Klagelieder Jeremias
+|-
+| Lam Lamentationes Klagelieder Jeremias | Bar Baruch Baruch
+|-
+| Bar Baruch Baruch | Ez Ezechiel Hesekiel
+|-
+| Ez Ezechiel Hesekiel | Dan Daniel
+|-
+| Dan Daniel | Os Osee Hosea
+|-
+| Os Osee Hosea | Ioel Joel
+|-
+| Ioel Joel | 1 Io 1 Epistola Ioannis 1. Johannesbrief
+|-
+| 1 Io 1 Epistola Ioannis 1. Johannesbrief | 2 Io 2 Epistola Ioannis 2. Johannesbrief
+|-
+| 2 Io 2 Epistola Ioannis 2. Johannesbrief | 3 Io 3 Epistola Ioannis 3. Johannesbrief
+|-
+| 3 Io 3 Epistola Ioannis 3. Johannesbrief | Iudae Epistola Iudae Judasbrief
+|-
+| Iudae Epistola Iudae Judasbrief | Apoc Apocalypsis Offenbarung des Johannes
+|}
+<!-- citation-page-bottom: Band03-1 p13 -->

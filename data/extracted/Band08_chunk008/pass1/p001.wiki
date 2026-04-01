@@ -1,0 +1,163 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=1 -->
+<!-- citation-page-top: Band08 p350 -->
+
+
+== REGISTER ==
+
+
+
+== Ortsregister ==
+
+
+Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
+
+
+{| class="wikitable"
+|-
+| Adlstein 157, 232, 326 f., 329, 345, 348 f. Donaustauf, Gericht 33 Herrenchiemsee 54, 102, 345
+|-
+| Altenerding 98 Dorfen 65, 257, 299, 347 Stiftskirche 45, 48
+|-
+| Altenhohenau 240 Dornberg 296 Kaisersaal 33 f., 124, 319
+|-
+| Altmühldorf 19–22, 160, 347 Fürstenzimmer 34
+|-
+| Altötting 38, 70, 155, 186, 257, 294, 316, 349 Ebing 348 Hölsbrunn/NB 346
+|-
+| Amberg 126 Ecksberg 29 Hörbering 190
+|-
+| Ampfing 23–26, 146, 150, 155, 222, 248, 259, Ehrenhaus in Kärnten 305, 326, 329 Hohenaschau 342, 345, 347
+|-
+| 294 f., 305, 315 f., 348 Eichstätt 72 Hofgiebing 126–28, 210, 222, 248, 349
+|-
+| Ampfing Seelenkapelle 7, 36 Elsenbach 190 Hofstetten bei Landsberg 158
+|-
+| Amsterdam 347 Ensdorf 66, 89, 122, 129, 299 Hofwies bei Guttenburg 90, 122, 129–32, 349
+|-
+| Andechs 176 Erding 66 f., 345, 348 Husum 308
+|-
+| Annabrunn 27–30, 119, 203, 347 Erharting 65, 160
+|-
+| Anzenberg 93, 346 Eschlbach 348 Indersdorf 45, 105
+|-
+| Arnstorf 124 Ingolstadt 307, 336
+|-
+| Aschau bei Kraiburg 7, 81, 234, 296, 346 Feichten an der Alz 79 f., 190, 346, 349 Universität 328 f., 331–33, 335
+|-
+| Attel 31 Felizenzell 72, 74 Innsbruck 348
+|-
+| Au am Inn 7, 23 f., 26, 31–63, 81, 100, 102, 114, Flossing 27, 119, 160, 195 f., 200, 203 f., 208, Jerusalem 57, 213
+|-
+| 16, 128, 209, 221 f., 248, 254, 261, 267, 273, Flossing 27, 119, 160, 195 f., 200, 203 f., 208, Jerusalem 57, 213
+|-
+| Stiftskirche 31–54, 103 f., 145, 345, 348 Fraham 67, 81–88, 155, 221, 261, 347 f. Kallham 34, 43
+|-
+| Sakristei 34, 54–58 Frauendorf 67, 82, 89–92, 129, 262, 267, 348 f. Kärnten 307, 320, 327 f., 337, 340, 342
+|-
+| Krankenkapelle 58 Frauenornau 93–98, 185, 267, 292, 346, 348 Kent 138
+|-
+| Ehem. Bibliothek 59–62 Freising 7, 31, 113, 133, 145 f., 195, 305, 320, 308, Kirchbrunn 346
+|-
+| Aufhausen bei Regensburg 349 328, 330, 348 Kirchdorf bei Haag 133–39, 155, 346, 349
+|-
+| Augsburg 287, 335, 346f., 349 Friedburg im Innviertel 23, 308 Kirchisen 347f.
+|-
+| Dominikanerkirche 130 Friesach 324, 329 Kirchthambach 93, 267
+|-
+| Aurolzmünster 34, 102, 124, 305, 342, 345 Fürstenfeld 274–77, 348 Kirchweidach 185
+|-
+| Fürstenfeldbruck 51
+
+Bad Aibling 176
+
+Bamberg Residenz 124
+
+Baumburg 54, 347
+
+Fürstenfeldbruck 51
+
+Kissingen 126, 349
+
+Klagenfurt 320, 329
+
+Kling, Gericht 7, 273, 284
+
+Köln 335
+|-
+| Gargano, Monte 146, 151
+
+Fingolstadt Herzogtum 312
+
+Fingolstadt-Amberg Herzogtum 312
+
+Fingolstadt-Amberg Herzogtum 312
+
+Minchen Herzogtum 312
+
+Felixkapelle 100, 112–16
+
+Gergam Laim 145, 151, 155, 348
+
+Gargano, Monte 146, 1
+|-
+| Grafing 347
+
+Brixen, Bistum 320
+
+Grafing 347
+
+Gran 316
+
+Greifenfels in Kärnten 305
+
+Buchbach 7, 64–78, 82, 89, 210, 274, 279, 299,
+
+Markt 64, 210, 232, 248
+
+Buda 316
+
+Gruphausen 129, 183, 195, 222, 248, 264, 308,
+
+Grafing
+|-
+| Gumattenkirchen 7, 162, 346
+
+Kirche der Englischen Fräulein 36, 348
+
+Filialgalerie 295, 315
+
+Gurk 320, 328
+
+Guttenburg 122–25, 129, 299, 249
+
+Györ (Raab) 222
+
+Loter 65
+
+Litzelkirchen 75
+
+Lobositz 94, 98
+
+Lochen/OÖ 264
+
+Lof
+|-
+| Cambridge 138
+
+Haag 7, 102, 106, 112, 133, 136, 346
+
+Chiemsee, Bistum 320
+
+Hallein 324
+
+Hampersberg am Inn 196, 114
+
+Hampersberg am Inn 196, 114
+
+Diessen, St. Georgen 136
+
+Haunertsholzen 348
+
+Haunzenbergersöll 79, 329, 346
+|}
+<!-- citation-page-bottom: Band08 p351 -->

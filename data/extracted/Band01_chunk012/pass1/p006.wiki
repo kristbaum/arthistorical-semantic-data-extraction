@@ -1,0 +1,56 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=6 -->
+<!-- citation-page-top: Band01 p560 -->
+
+<!-- header: WEILHEIM -->
+
+<!-- header: WEILHEIM -->
+
+Damrich, Johann, Zur Baugeschichte der Weilheimer Stadtpfarrkirche, in: Weilheimer Sonntagsblatt 4, 1927, S. 22.
+
+Mauthe, Willi, Kirchen und Kapellen in Weilheim, Weilheim 1953, S. 3.
+
+Leichenhaus der Stadtpfarrei, sog. Kapelle zur Schmerzhaften Muttergottes am Anger, Diözese Augsburg
+
+'''Zum Bauwerk:''' Die laut Inschrift 1661 erbaute Kapelle wurde 1761 erneuert. Einfacher Rechtecksaal mit segmentförmiger, kaum eingezogener Nische
+
+'''Autor und Entstehungszeit:''' Die nicht signierten Fresken stammen, wie allgemein angenommen wird, von Johann Baptist Baader. Das 1765 signierte Judithfresko in Türkenfeld (OB, LKr. Fürstenfeldbruck) ist eine direkte Wiederholung des Deckenbildes der Angerkapelle; die Gottvater- und Judithgruppe findet sich in dem 1762 entstandenen Fresko in Erpfting (s. LKr. Landsberg am Lech) wieder. Die Judith hinwiederum ist mit Matthäus Günthers Fresken in Würzburg (OFr., 1752) und Wilten (Tirol, 1754) eng verwandt. Beide Maler greifen auf eine gemeinsame Vorlage, das Fresko Luca Giordanos in der Certosa di San Martino in Neapel zurück (Simon). Als Entstehungsdatum ist das Jahr der Erneuerung, 1761, anzusehen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Muldengewölbe; B Kalotte Rahmen: A Stuckprofil; B ohne Rahmen
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 4,00 m; 4,70 × 3,60
+
+B (nimmt die Wand und die Kuppel der gesamten AR- Nische ein): Höhe 3,50 m; 3,40 × 1,55
+
+Erhaltungszustand und Restaurierungen: Restaurierung 1883. Feuchtigkeitsschäden, leichte Risse, Ausbesserungen von ausgebrochenen Stellen. Starke Übermalungen, die den Eindruck einer verwaschenen Farbigkeit und die einheitlich grünliche Tönung verursacht haben. Die Farbsubstanz ist im oberen Teil von B besser erhalten; dagegen ist der untere Teil des Freskos, das Wandbild, bis etwa in Höhe von 1,50 m beschädigt, abgewetzt und übermalt
+
+
+== Beschreibung und Ikonographie ==
+
+
+A JUDITHS TRIUMPH Der Betrachterstandpunkt der im wesentlichen zweiansichtigen, das ganze Gewölbe einnehmenden Darstellung liegt in der Mitte des rechteckigen Hauptraums; Ansichten gegen Osten und Westen
+
+Alle Figuren sind in ziemlich starker Verkürzung und Untersicht gegeben.
+
+In einem Wolkenhimmel schwebt, von Engeln umgeben Gottvater mit dem Zepter, an die Weltkugel gelehnt. Diese himmlische Gruppe ist auf die Ansicht nach O bezogen, die damit zur Hauptansicht wird. Im Mittelpunkt der östlichen Szene steht Judith auf der felsigen Erhebung eines kargen Grashügels vor einer mächtigen Stadtmauer und hält triumphierend das Haupt des Holofernes in die Höhe. Die Magd, die sie begleitet, trägt den Vorhang, den Judith aus dem Zelt des Holofernes mitgenommen hat. Den Hügel hinunter stürzen in wilder Flucht vor den bewaffneten Juden die Assyrer; am Bildrand ist ein Getümmel von fallenden Menschen- und Pferdeleibern wiedergegeben. Vor oben, aus dem Himmel, greifen Engel in das Kampfgeschehen ein, indem sie mit befehlenden Gesten die Assyrer in die Flucht schlagen.
+
+Die Darstellung des Triumphes der Judith vereinigt zwei nach dem Bibeltext chronologisch aufeinanderfolgende Geschehnisse zu einer Szene: das Vorzeigen des Hauptes des Holofernes und die Flucht der Feinde (Judith 13–15).
+
+In der zweiten, gegen W gerichteten Ansicht erhebt sich auf einem felsigen Hügel das Zelt, in dem die Assyrer den enthaupteten Leichnam ihres Anführers finden; ähnlich wie auf der O-Seite ist ihre Verwirrung und Flucht in einer wilden Szene im Vordergrund gezeigt, wo unter den stürzenden Soldaten- und Pferdeleibern, den davonsprengenden Berittenen und den zum Zelt drängenden Kriegern Panik und Auflösung herrschen. Von rechts sprengt ein Jude der eine Fahne trägt, auf einem weißen Pferd heran, geleitet von einem über ihm schwebenden Engel. Der Schauplatz, eine öde, spärlich bewachsene Felsenlandschaft, besteht aus übereinander geschichteten Partien ohne eine räumliche Einheit zu bilden; weder in sich noch im Zusammenhang mit der schmalen Bergkulisse, die an der S-Seite als Andeutung einer terrestrischen Szenerie entlangläuft. Die Farbigkeit ist anscheinend in der Gottvater- und Judithgruppe und in einigen Engeln noch am besten erhalten, während die Himmelspartien mit ihren eigenartigen rot-lila Tönen durch Übermalungen stark entstellt wirken.
+<!-- citation-page-bottom: Band01 p561 -->
+
+
+[[File:Band01_chunk012_p006_img001.jpg|thumb|A Ausschnitt Westseite: Das Zelt des Holofernes]]
+
+
+
+[[File:Band01_chunk012_p006_img002.jpg|thumb]]
+
+
+
+[[File:Band01_chunk012_p006_img003.jpg|thumb|A Ausschnitt Ostseite: Judith zeigt das Haupt des Holofernes]]

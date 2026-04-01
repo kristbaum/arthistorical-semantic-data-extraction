@@ -1,0 +1,70 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk009.pdf#page=2 -->
+<!-- citation-page-top: Band03-2 p402 -->
+
+<!-- header: NYMPHENBURG, PARKBURGEN -->
+
+<!-- header: PAGODENBURG -->
+
+
+[[File:Band03-2_chunk009_p002_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk009_p002_img002.jpg|thumb|Treppenlauf, Decke, Teilansicht]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: In sämtlichen Räumen Flachdecken; die Decke unter dem Treppenlauf ansteigend. Rahmen: Erdgeschoß Saal, Eingangsräume Hohlkehle mit weißem Ornamentstuck auf blauem Grund, Stuckprofilleiste; Kabinett Hohlkehle mit vergoldetem Ornamentstuck auf blauem Grund, vergoldete Stuckprofilleiste; Decke unter dem Treppenlauf ohne Rahmen; Obergeschoß Treppenhaus Hohlkehle mit gemalter weiß-blauer Bandwerkgroteske, vergoldete Stuckprofilleiste; Salon, Erker im Salon, Rotes Kabinett Hohlkehle mit Groteskenmalerei auf goldenem Grund, vergoldete Stuckprofilleisten; Ruheraum und Alkoven Hohlkehle mit vergoldetem Ornamentstuck auf weißem Grund, vergoldete Stuckprofilleiste. Technik: Öl auf Putz; Erdgeschoß Saal, Eingangsräume Blau auf weißem Grund; Kabinett Blau, teils auf weißem, teils auf vergoldetem Grund; Unter dem Treppenlauf Blau auf weißem Grund; Obergeschoß Treppenhaus, Salon, Erker im Salon, Rotes Kabinett, Ruheraum mit Alkoven polychrom.
+
+
+{| class="wikitable"
+|-
+| Maße: Erdgeschoß
+|-
+| Saal Höhe 3,90 m; ∅ 6,30
+|-
+| Eingangsräume Höhe 3,50 m; 1,30 × 2,00
+|-
+| Kabinett Höhe 3,50 m; 1,30 × 2,00
+|-
+| Obergeschoß
+|-
+| Treppenhaus Höhe 2,70 m; 3,20 × 1,90
+|-
+| Salon Höhe 2,70 m; 2,40 × 4,60
+|-
+| Erker im Salon Höhe 2,70 m; 1,60 × 2,00
+|-
+| Rotes Kabinett Höhe 2,70 m; 3,20 × 1,90
+|-
+| Ruheraum Höhe 2,70 m; 5,90 × 2,70
+|-
+| Erker im Ruheraum Höhe 2,70 m; 1,60 × 2,00
+|}
+
+
+Erhaltungszustand und Restaurierungen: Restaurierungen fanden 1752, 1768, 1787, 1835, 1870 und 1961/81 statt.
+
+Die einzelnen Restaurierungen sind schriftlich dokumentiert:
+
+Die erste bekannte Restaurierung erfolgte 1752 durch Anton (wohl Ambrosius) Hörmannstorffer (BHStA I, HR II, 28/1752) {ZITAT|000} und {ZITAT|001} 46 fl. {ZITAT|002} Durch das Grabendach hinter der umlaufenden Attika kam es immer wieder zu Wasserstauungen und Wassereinbrüchen, vor allem, wenn im Herbst und Winter die Dachrinnen durch Laub oder Eis verstopft waren.
+
+Die nächste Restaurierung fand 1768 durch Ambrosius Hörmannstorffer statt (BHStA I, HR I, 202/20 b). Im einzelnen waren jetzt zu machen (BSV, Bauamt, Baumanuale 1787, Beilage, Überschlag von Hörmannstorffer):
+
+
+[[File:Band03-2_chunk009_p002_img003.jpg|thumb|Treppenhaus, Decke mit Huldigung an einen orientalischen Fürsten]]
+
+
+Hörmannstorffer erhielt für die Arbeit am 30. Juni 1770 340 fl. (BHStA HR II, 32/1770).
+
+Die nächste Restaurierung erfolgte 1787 (Datum auf dem Spiegel in der Hand einer Figur im Eingangsraum) im Rahmen einer Gesamtrenovierung. Die Farben dafür wurden einem Maler Johann Hascher ausgehändigt. Näheres ist über diese Arbeiten nicht bekannt (BSV, Bauamt Baumanuale 1786–88).
+
+Weitere Restaurierung 1835 (Datum und Monogramm AB – ligiert – in einem Spiegel in der Hand einer Figur im Eingangsraum).
+
+Die Restaurierung ab Herbst 1834 betraf Schlosser- und Maurerarbeiten und zog sich über das Jahr 1835 hin (Außen- und Innenrestaurierung).
+
+Über Malerarbeiten ist nichts Näheres bekannt; ein Maler mit den Initialen AB wurde vom Hof damals nicht besoldet. Ein bürgerlicher Maler namens Anton Bäcker war gleichzeitig in der Residenz mit Anstreicherarbeiten beschäftigt (BSV, Bauamt Haupt-Geld- und Materialrechnung 1734/35).
+<!-- citation-page-bottom: Band03-2 p403 -->

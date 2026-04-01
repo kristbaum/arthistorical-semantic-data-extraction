@@ -1,0 +1,78 @@
+== Bibliographische Abkürzungen ==
+
+Zitiert sind die jeweils benutzten Ausgaben und Auflagen
+
+{| class="wikitable"
+|-
+| Allégories, Emblèmes etc. ..., Bd 1–4
+|-
+| AASS | Acta Sanctorum. Ed. Johannes Bollandus et alii, Antwerpen 1643–1780, Brüssel 1786 ff. (ab Octobris Tomus 5), Neuauflage Paris 1863 ff.
+|-
+| Halm | Felix Halm, Materialien zu einer bayerischen Kunstgeschichte und zu einem bayerischen Künstlerlexicon, (o. J., um 1800), 23 Faszikel BSB Cgm 5126.
+|-
+| Bibliotheca Sanctorum | Ed. Instituto Sanctorum Giovanni XXIII nella Pontificia Università Lateranense, Bd 1–12 u. Indexband, Rom 1962–70.
+|-
+| Boschius | Jacobus Boschius, Symbolographia sive De arte symbolica – Sermones septem. Augsburg–Dillingen 1701, Reprint Graz 1972.
+|-
+| Burgholzer 1796 | Joseph Burgholzer, Stadtgeschichte von München als Wegweiser für Fremde und Reisende. Mit Beylagen und Zusätzen, München 1796, Bd 2.
+|-
+| Cartari | Le imagini degli Dei... Venedig 1571, Nachdruck New York & London 1976.
+|-
+| CBD | Hermann Bauer u. Bernhard Rupprecht, Corpus der barocken Deckenmalerei in Deutschland, Bd 1: Die Landkreise Landsberg am Lech, Starnberg, Weilheim-Schongau, München 1976; Bd 2: Die Landkreise Bad Tölz – Wolf ratshausen, Garmisch-Partenkirchen, Miesbach, München 1981; Bd 4: Stadt und Landkreis München, Profanbauten, München 1988.
+|-
+| Henkel-Schöne | Emblemata, Handbuch zur Sinnbildkunst des 16. und 17. Jh., hg. v. Arthur Henkel u. Albrecht Schöne, Stuttgart 1967.
+|-
+| Hennecke-Schneemelcher | Edgar Hennecke, Neutestamentliche Apokryphen in deutscher Übersetzung, 3. völlig neubearbeitete Auflage hg. v. Wilhelm Schneemelcher, Bd 1–2, Tübingen 1959 u. 1964.
+|-
+| Comes | Natalis Comes, Mythologiae, Venedig 1567, Nachdruck New York & London 1976.
+|-
+| Crammer 1776 | Anton Crammer, Deutsches Rom oder von dem sexten Jubeljahre der um das Jahr 1176 erbauten baierischen Hauptstadt München, München 1776.
+|-
+| CSEL | Corpus scriptorum ecclesiasticorum latinorum. Hg. v. der Österreichischen Akademie der Wissenschaften in Wien, Wien 1866 ff.
+|-
+| Dehio-Gall OB | Georg Dehio u. Ernst Gall, Handbuch der Deutschen Kunstdenkmäler, Oberbayern, Berlin 1964.
+|-
+| Kemp | Cornelia Kemp, Angewandte Emblematie in süddeutschen Barockkirchen, Kunstwissenschaftliche Studien, Bd 53, München/Berlin 1981.
+|-
+| KF | Kleine Kunstführer. Hg. v. Hugo Schnell u. Johannes Steiner, München-Zürich 1934 ff.
+|-
+| Kloos | Rudolf M. Kloos, Die Inschriften der Stadt und des Landkreises München, Stuttgart 1958.
+|-
+| Knipping | John B. Knipping, Iconography of the Counter Reformation in the Netherlands, Bd 1–2, Nieuwkoop-Leiden 1978.
+|-
+| LA-Benz | Die Legenda aurea des Jacobus de Voragine, aus dem Lateinischen übersetzt v. Richard Benz, Heidelberg 1963.
+|-
+| LA-Graesse | Jacobi a Voragine Legenda aurea, vulgo historia lombardica dicta..., hg. v. Th. Graesse, Breslau 31890, Reprint Osnabrück 1965.
+|-
+| Lexikon der christlichen Ikonographie | Hg. v. Engelbert Kirschbaum; Allgemeine Ikonographie, Bd 1–4, Freiburg im Breisgau 1968–72; Ikonographie der Heiligen, hg. v. Wolfgang Braunfels, Bd 5–8, Freiburg im Breisgau 1973–1976.
+|-
+| Lieb-München | Norbert Lieb, München, Die Geschichte seiner Kunst, München 1971.
+|-
+| Lieb/Sauermost | Norbert Lieb und Heinz Jürgen Sauermost (Hg.) Münchens Kirchen, mit Beiträgen von H. Friedel, W. Hofmann, A. Hubel, H. Lehmbruch, N. Lieb, V. Loers, F. Naab, D. Riedl und H. J. Sauermost, München 1973.
+|-
+| Liedke-Meister | Volker Liedke, Das Meisterbuch der Münchner Zunft der Maler, Bildhauer, Seidensticker und Glaser (1566–1825), Original im StadtA München: Zimelie 55, publiziert in: Ars Bavarica 10, 1978, S. 21–53.
+|-
+| LThK | Lexikon für Theologie und Kirche. Hg. v. Michael Buchberger, Bd 1–10, Freiburg im Breisgau 1930–38; zweite völlig neu bearbeitete Auflage, hg. v. Josef Höfer u. Karl Rahner, Bd 1–10, Register und Zusätze Bd I–III, Freiburg im Breisgau 1957–68.
+|-
+| Mayer-Westermayer | Statistische Beschreibung des Erzbistums München–Freising. Begonnen v. Anton Mayer, fortgesetzt u. vollendet v. Georg Westermayer, Bd 1–3, München-Regensburg 1874–84.
+|-
+| Meidinger 1790 | Franz Sebastian Meidinger, Historische Beschreibung verschiedener Städte und Märkte der kurfürstlich pfalzbaierischen Rentämter München, Burghausen, Landshut und Straubing, Landshut 1790.
+|-
+| MGH | Monumenta Germaniae Historica. Ed. Societas aperiendis fontibus rerum Germanicarum medii aevi, Hannover-Berlin 1826 ff.
+|-
+| Nicolai | Friedrich Nicolai, Beschreibung einer Reise durch Deutschland und die Schweiz, Bd 6, Berlin 1785 (München: S. 500–784).
+|-
+| OAVG | Oberbayerisches Archiv für vaterländische Geschichte. Hg. v. dem historischen Verein von u. für Oberbayern, München 1839 ff.; ab Bd 85: Oberbayerisches Archiv, München 1962 ff.
+|-
+| Oefeleana | Andreas Felix von Oefele, Nachlaß seiner Schriften ca. 1735–1758 BSB, 5, I–XXIII: Adversaria historiae Bavariae, Notizensammlung zu einer bayerischen Biographie, 5, V: mit zahlreichen Notizen über bayerische Künstler, besonders Maler des 17. Jh. 5, VI: Complexus artifices maxime pictores. 14: Bibliotheca pictoriae, statuariae et chalcographicae artis, Sammlung über bildende Künstler und kunstgeschichtliche Werke. 78, 1: pictores, chalcographi, sculptores, statuarii, colatores, plastae, fusores, optici... qui Bavariam natalibus vel operibus suis illustrarunt. 78, 3: Artifices Bavarici. 78, 4: Exzerpte und Notizen bayerische Maler betreffend. 339: Sammlung von Schriftstücken in Originalen und Abschriften des 16. bis 19. Jh. zur Geschichte der bayerischen Klöster.
+|-
+| Pauly-Wissowa | Paulys Realencyclopädie der classischen Altertumswissenschaften, neue Bearbeitung von G. Wissowa und W. Kroll, Stuttgart 1890 ff.
+|-
+| Picinelli | Philippus Picinelli, Mundus symbolicus in Emblematum universitate formatus, explicatus, et tam sacris, quam profanis eruditionibus ac sententiis illustratus... in latinum traductus a R. D. Augustino Erath, Köln 1681. (Köln 1694 Reprint New York 1976.)
+|-
+| Patrologiae Cursus completus, series Graeca | Ed. Jacques-Paul Migne, Paris 1957 ff.
+|-
+| Patrologiae Cursus completus, series Latina | Ed. J.-P. Migne, Paris 1844 ff.
+|-
+| RDK | Reallexikon zur deutschen Kunstgeschichte. Begonnen v. Otto Schmitt, fortgeführt v. Ernst Gall, Ludwig Hey
+|}

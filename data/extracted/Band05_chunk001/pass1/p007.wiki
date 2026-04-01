@@ -1,0 +1,159 @@
+== ABKURZUNGEN ==
+
+== Allgemeine Abkürzungen ==
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+{| class="wikitable"
+|-
+| Leinwand
+|-
+| Abb. Abbildung Ms., Mss. Manuskript, Manuskripte
+|-
+| AEM Archiv des Erzbistums München MFr Mittelfranken
+|-
+| Anm. Anmerkung MSch. Mittelschiff
+|-
+| AR Altarraum NB Niederbayern
+|-
+| AT Altes Testament NO Nordosten
+|-
+| Bd, Bde Band, Bände NÖ Niederösterreich
+|-
+| BHStA Bayerisches Hauptstaatsarchiv, München Nr., Nrn. Nummer, Nummern
+|-
+| BLfD Bayerisches Landesamt für Denkmalpflege, München NT Neues Testament
+|-
+| BNM Bayerisches Nationalmuseum, München NW Nordwesten
+|-
+| BSGS Bayerische Staatsgemäldesammlungen, OFr Oberfranken
+|-
+| München o. J. ohne Jahr
+BSV Bayerische Verwaltung der staatlichen o. O. ohne Ort
+|-
+| Schlösser, Gärten und Seen, München OÖ Oberösterreich
+|-
+| cgm Codex germanicus monacensis OPf Oberpfalz
+|-
+| clm Codex latinus monacensis o. V. ohne Verfasser
+|-
+| Cod. Codd. Codex, Codices Par. Parallelstellen
+|-
+| Diss. Dissertation QHs Querhaus
+Ed., ed. Edition, edidit QSch. Querschiff
+F. Faszikel r. recto
+|-
+| f., ff. fl. Gulden S. Seite
+|-
+| Fa. Firma Schw. Schwaben
+
+fol. folio SGS Mü Staatliche Graphische Sammlung, freundliche Mitteilung München
+
+GHA Bayerisches Hauptstaatsarchiv III, SO Südosten
+|-
+| Geheimes Hausarchiv
+GL Gerichtsliteralien
+SSch. Seitenschiff
+H. Heft
+St. Sankt
+Hg., hg. v. Herausgeber, herausgegeben von
+hl., hll. heilig, heilige
+HS Handschriften
+StadtAM
+Stadtarchiv München
+Inv. Inventar
+SW Südwesten
+Jg
+|-
+| Lib. Liber
+|-
+| LKr. Landkreis Darüber hinaus allgemein übliche Abkürzungen sind nach Duden vorgenommen.
+|}
+
+== Abkürzungen der biblischen Schriften ==
+
+nach der Vulgata Clementina in der Neuausgabe Madrid 1965 dazu deutsche Bezeichnung nach der Übersetzung Luthers
+
+{| class="wikitable"
+|-
+| Altes Testament Agg Aggaeus Haggai
+|-
+| Zach Zacharias Sacharja
+|-
+| Gen Genesis I Mose Mal Malachias Maleachi
+|-
+| Ex Exodus 2 Mose 1 Mach 1 Machabaeorum 1 Makkabäer
+|-
+| Lex Leviticus 3 Mose 2 Mach 2 Machabaeorum 2 Makkabäer
+|-
+| Num Numeri 4 Mose
+|-
+| Deut Deuteronomium 5 Mose
+|-
+| Ios Iosue Josua Neues Testament
+|-
+| Iud Iudices Richter
+|-
+| Ruth Ruth Ruth Mt Evangelium sec. Matthaeum Matthäus-Evangelium
+|-
+| I Sam I Samuelis seu I Regum I Samuel Evangelium
+|-
+| 2 Sam 2 Samuelis seu 2 Regum 2 Samuel Mc Evangelium sec. Marcum Markus-Evangelium
+|-
+| 3 Reg 3 Regum 1 Könige Lc Evangelium sec. Lucam Lukas-Evangelium
+|-
+| 4 Reg 4 Regum 2 Könige Io Evangelium sec. Ioannem Johannes-Evangelium
+|-
+| I Par I Paralipomenon I Chronik Act Actus Apostolorum Apostelgeschichte
+|-
+| 2 Par 2 Paralipomenon 2 Chronik Tob Tobias Tobias
+|-
+| Esdr 1 Esdrae Esra Iudith Iudith Judith
+|-
+| Neh Nehemias seu 2 Esdrae Nehemia Esth Esther Esther
+|-
+| Tob Tobias Tobias Ps Psalm Psalter
+|-
+| Iudith Iudith Judith Prov Proverbia Sprüche Salomos
+|-
+| Esth Esther Esther Eccl Ecclesiastes Prediger Salomo
+|-
+| Iob Iob Hiob Cant Canticum Canticorum Hoheslied Salomos
+|-
+| Ps Psalm Psalter Sap Sapientia Weisheit Salomos
+|-
+| Prov Proverbia Sprüche Salomos Eccli Ecclesiasticus Iesus Sirach
+|-
+| Eccl Ecclesiastes Prediger Salomo Is Isaias Jesaja
+|-
+| Cant Canticum Canticorum Hoheslied Salomos Ier Ieremias Ieremia
+|-
+| Sap Sapientia Weisheit Salomos Lam Lamentationes Klagelieder
+|-
+| Eccli Ecclesiasticus Iesus Sirach Bar Baruch Baruch
+|-
+| Is Isaias Jesaja Ez Ezechiel Hesekiel
+|-
+| Ier Ieremias Ieremia Dan Daniel Daniel
+|-
+| Lam Lamentationes Klagelieder Os Osee Hosea
+|-
+| Bar Baruch Baruch Ioel Ioel Joel
+|-
+| Ez Ezechiel Hesekiel Am Amos Amos
+|-
+| Dan Daniel Daniel Abd Abdias Obadja
+|-
+| Os Osee Hosea Mich Michaeas Micha
+|-
+| Ioel Ioel Joel Nah Nahum Iudae
+|-
+| Am Amos Amos Hab Habacuc Habakuk
+|-
+| Abd Abdias Obadja Soph Sophonias Zephania
+|-
+| Mich Michaeas Micha Nah Nahum Iudae
+|-
+| Hab Habacuc Habakuk Soph Sophonias Zephania
+|-
+|}

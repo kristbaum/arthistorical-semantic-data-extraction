@@ -1,0 +1,103 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=4 -->
+<!-- citation-page-top: Band03-2 p106 -->
+
+<!-- header: RESIDEN -->
+<!-- header: ANTIOUARIUM -->
+
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt Landshut, 1255 Unterland (Morenz 1970, S. 12)
+
+O<sub>31a</sub> PAEL/O
+
+Pähl, Pfarrdorf, LK Weilheim-Schongau, OB
+
+Bei Entstehung: Herzogliche Burg, Landgericht Weilheim, Rentamt München, 1255 Oberland (Morenz 1970, S. 25)
+
+O<sub>31b</sub> MERMOSEN/V
+
+Mörmoosen, Kirchdorf, Gem. Tüßling, LK Altötting, OB Bei Entstehung: Burg, Landgerichtssitz, Rentamt Burghausen, 1255 Unterland (Morenz 1970, S. 24)
+
+O<sub>32</sub> VILSHOVEN
+
+Vilshofen, Stadt, LK Passau, NB
+
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt Landshut, 1255 Unterland (Morenz 1970, S. 15)
+
+O<sub>32a</sub> MITTERNFELS
+
+Mitterfels, Markt, LK Straubing-Bogen, NB
+
+Bei Entstehung: Burg, Landgerichtssitz, Rentamt Straubing, 1255 Unterland (Morenz 1970, S. 24)
+
+O<sub>32b</sub> MURNau
+
+Murnau, Markt, LK Garmisch-Partenkirchen, OB Bei Entstehung: Gefreiter Markt mit Schloß, Landgericht Weilheim, Rentamt München, 1255 Oberland (Morenz 1970, S. 18)
+
+O<sub>33</sub> WEMBDING
+
+Wemding, Stadt, LK Donau-Ries, Schwaben
+
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt München, 1467 Unterland (Morenz 1970, S. 15)
+
+O<sub>33a</sub> UTTENDORF/V
+
+Uttendorf, Ortsgem. Helpfau-Uttendorf, Polit. Bezirk Braunau am Inn, Oberösterreich
+
+Bei Entstehung: Gefreiter Markt mit herzoglicher Burg, Landgericht Braunau, Rentamt Burghausen, 1255 Unterland (Morenz 1970, S. 20)
+
+O<sub>33b</sub> HAG V
+
+Haag, Markt, LK Mühldorf am Inn, OB
+
+Bei Entstehung: Markt (nicht landständisch) mit Burg, Landgerichtssitz, Rentamt München, 1255 Unterland (Morenz 1970, S. 17)
+
+O<sub>34</sub> PFAFFEN/HOVEN
+
+Pfaffenhofen an der Ilm, Stadt, LK Pfaffenhofen an der Ilm, OB
+
+Bei Entstehung: Stadt, Landgerichtssitz, Rentamt München, 1255 Oberland (Morenz 1970, S. 13)
+
+O<sub>34a</sub> ISARECK
+
+Isareck, Weiler, Gem. Wang, LK Freising, OB
+
+Bei Entstehung: Herzogliches Schloß, Landgericht Moosburg, Rentamt Landshut, 1255 Unterland (Morenz 1970, S. 23)
+
+O<sub>34b</sub> STARNBERG O
+
+Starnberg, Stadt, LK Starnberg, OB
+
+Bei Entstehung: Schloß, Landgerichtssitz, Rentamt München, 1255 Oberland (Morenz 1970, S. 26)
+
+
+== Ikonologie ==
+
+
+Das Programm der Ausstattung des Antiquariums bezieht sich auf die Herrschaft. Die Ansichten bayerischer Städte, Märkte, Burgen und Schlösser geben zunächst Zeugnis vom Umfang und Machtbereich des Herzogtums. Diese älteste Folge von Veduten großen Umfangs, die seit 1583 durch topographische Aufnahmen vor Ort vorbereitet wurde, zeichnet sich vor allem durch Sachlichkeit und Genauigkeit aus. Über dem Eingang und innerhalb der Groteskenfelder ist das Herrscherhaus repräsentiert durch die Wappen von Bayern und Lothringen, d.h. des Auftraggeberpaars Wilhelms V. und seiner Gemahlin Renata. Die Hauptdarstellungen der Decke, Fama und die Tugenden, beziehen sich gleichfalls auf die Herrschaft, jedoch nicht als Realität, sondern auf ihre theoretische Begründung, auf ihr Wesen und die Richtlinien politischen Handelns.
+
+Der größte Teil der im Antiquarium vorgeführten Tugenden wird in Fürstenspiegeln, Regierungsanweisungen und Lehrschriften über die Herrscherpflichten gefordert, gleichgültig, ob diese mehr in der biblisch-patristischen Tradition stehen oder direkt auf die Antike zurückgehen. Eher in der Terminologie als im Inhalt unterschieden, haben diese politischen Morallehren alle eine ähnliche Zielsetzung. Bei der Behandlung der staatserhaltenden Werte – und das bedeutet wegen der eindeutigen Bevorzugung der Monarchie in erster Linie der Herrschertugenden – wird gefragt nach dem Verhalten des Fürsten gegen Gott, gegen sich selbst (Prudentia singularis) und gegen seine Umwelt (Prudentia regnativa), d.h. seine Familie, seine Ratgeber, seine Untertanen (Dazu grundsätzlich: Bruno Singer, Die Fürstenspiegel in Deutschland im Zeitalter des Humanismus und der Reformation, München 1981.) Es ist zu fragen, inwieweit diese Gesichtspunkte bei der Auswahl und Anordnung der Tugenden im Antiquarium eine Rolle gespielt haben.
+
+Das Deckenprogramm (I–XVI) entfaltet sich vom ursprünglichen Eingang im SO aus mit dem traditionellen Schema von sieben Tugenden, den drei theologischen Fides (I), Spes (II), Caritas (III) und den vier platonisch-stoischen Kardinaltugenden, die Thomas von Aquin endgültig in die christliche Ethik einbezogen hat. Sie erscheinen hier in der Reihenfolge Prudentia (IV), Temperantia (V), Iustitia (VI), Fortitudo (VII). An sie schließt sich Fama (VIII) an, der gute Ruf, der die Mitte des Deckenprogramms markiert, gefolgt von weiteren Tugenden, die besonders für die politische Ethik relevant sind und bei denen es sich im wesentlichen um Unterarten und Erscheinungsformen der Kardinaltugenden handelt.
+
+Diese Darstellungen des Gewölbescheitels – dazwischen befanden sich ursprünglich kleine Kultszenen – werden in den zugehörigen Gewölbezwickeln von Putten begleitet mit Attributen in Händen, die auf die Hauptdarstellungen jeweils Bezug nehmen (I<sub>1-2</sub>–XVI<sub>1-2</sub>). Es sind meistens Blumen, Palm- und Lorbeerzweige. In der Raummitte, bei Fama sowie Iustitia und Fortitudo bzw. Constantia und Veritas, waren ursprünglich musizierende Putten wieder gegeben.
+
+Alle Tugenden wie auch Fama sind jeweils durch zwei Carmina erläutert. Diese beziehen sich mit ihrer Aussage teils auf das Wesen der Tugend als Habitus der Seele und auf die sie bewegenden Prinzipien Vernunft, Einsicht und Wille, teils auf ihre Wirkungsweise oder auf ihre Position innerhalb des Tugendsystems. Dabei wird zur Präzisierung gelegentlich Bezug genommen auf eine weitere Eigenschaft, z.B. CASTITAS COMES VERECUNDIAE (XI), oder MAGNANIMI INDICIUM EST PATIENTIA (XIV). Hier zeigt sich das Bestreben, den Tugendkatalog noch zu erweitern.
+
+Die in den Inschriften gegebenen Begriffsbestimmungen gehen auf Definitionen der philosophischen und theologischen Literatur zurück. Diese sind meist nicht wörtlich, sondern nur sinngemäß wiedergegeben. Der Erfinder des Programms scheint keinem bestimmten Schema zur Klassifizierung der Tugenden eng gefolgt zu sein, doch haben die ethischen Schriften von Aristoteles und griechisch-römische Moralvorstellungen, wie sie vor allem Cicero in »De officiis« vermittelt, auf die Formulierungen gewirkt. Ob auf diese und andere Autoren der Antike direkt oder über die patristische und scholastische Rezeption zurückgegriffen wurde, ist im Einzelfall schwer zu entscheiden. Die Definitionen der theologischen Tugenden beziehen sich auf die Formulierungen in der »Summa theologica« des Thomas von Aquin. Dort findet sich auch die psychologische Betrachtungsweise, die Verknüpfung der Tugenden mit den verschiedenen Bereichen der Seele. Die seelischen Wirkungskräfte Ratio, Voluntas und Intelligentia, aus denen nach antiker Auffassung die »virtutes morales« entspringen, können sich nach Ansicht des Christentums überhaupt erst entfalten unter Mithilfe der theologischen Tugenden. (Zu diesem Aspekt und grundsätzlich zu den Kardinaltugenden vgl. Sibylle Mähl, Quadriga Virtutum. Die Kardinaltugenden in der Geistesgeschichte der Karolingerzeit. Köln-Wien 1969, besonders S. 116ff.) Welche Bedeutung haben die im Antiquarium zusammen gestellten Wertbegriffe nun als Leitbilder politischen Handelns?
+
+
+[[File:Band03-2_chunk003_p004_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p004_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p004_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p004_img004.jpg|thumb]]
+
+
+<!-- citation-page-bottom: Band03-2 p107 -->

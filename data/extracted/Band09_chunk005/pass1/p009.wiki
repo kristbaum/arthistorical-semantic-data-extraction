@@ -1,0 +1,140 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=9 -->
+<!-- citation-page-top: Band09 p216 -->
+
+<!-- header: RAITENHASLACH -->
+
+Meidinger, Franz Sebastian, Historische Beschreibung der<br>kurfürstlichen Haupt- und Regierungsstädte in Niederbayern,<br>Landshut und Straubing, mit einer ansehnlichen Gemälden-<br>sammlung der Kirchen verschiedener Städte und hohen Präla-<br>turen, Landshut 1787, S. 362 f.
+
+Meidinger, Franz Sebastian, Historische Beschreibung ver-<br>schiedener Städte und Märkte der kurfürstlich pfalzbaierischen Rentämter München, Burghausen, Landshut und Straubing, Landshut 1790, S. 88.
+
+Jansens, Joseph Aloys, Trauerrede auf den tödtlichen Hintritt...Herrn Theobalds, Burghausen 1792 (BSB 2 Bavar. 970,XII-3).
+
+KDB IOB (8), S. 2304-05, 2592-2621.
+
+Krausen, Edgar, Raitenhaslach (=KKF Nr. 22) 1934.
+
+-, Das Zisterzienserstift Raitenhaslach im Jahr 1800, in: Heimatland, Beilage zum Oettinger und Burghauser Anzeiger 1954, Nr. 12 (kommentierte Fassung der Reiseaufzeichnungen des P. Blasius Hauntinger, Benediktiners aus Rheinau/ Schweiz, vom 19.6. 1800).
+
+-, Künstler und Kunsthandwerker im Dienst der Zisterzienser in Raitenhaslach (=Jahrbuch des Vereins für christliche Kunst 8), 1974.
+
+Kreilinger, Kilian, Der bayerische Rokokobaumeister Franz Alois Mayr (= Jahrbuch des Vereins für christliche Kunst 9) 1976.
+
+Thon, Christina, Johann Baptist Zimmermann, München- Zürich 1977, S. 175–78.
+
+Krausen, Edgar, Die Zisterzienserabtei Raitenhaslach, in: Germania Sacra. Neue Folge 11, Das Erzbistum Salzburg, Band 1, Berlin - New York 1977 (Monographie von Raitenhaslach unter Auswertung sämtlicher bekannter Quellen, BSB Hbh Lp 2358/11 oder Z 64.784-11).
+
+Dorner, Johann, Die Inschriften von Raitenhaslach (= Burghauser Geschichtsblätter 38) 1982.
+
+Burger, Hannes, Festschrift 800 Jahre Klosterkirche Raitenhaslach, hg. von der Pfarrgemeinde St. Georg, Grafenau 1987. Hopfgartner, Wolfgang, 1200 Jahre Raitenhaslach (= Burghauser Geschichtsblätter 43), 1987 (mit Plänen und Ansichten).
+
+Goerge, Dieter, Ein Burghauser Barockjuwel strahlt im neuen Glanz, in: Oettinger Land 9, 1989, S. 245 (Zuschreibung des Hochaltars an Jakob Schnabel).
+
+Kupterschmied, Thomas Johannes, Der Freskant J. Martin Heigl. Arbeiten für Johann Baptist Zimmermann und selbständige Werke (= Schriften aus dem Institut für Kunstgeschichte der Universität München Bd 41), München 1989.
+
+Strieder, Barbara, Johann Zick (1702–1762), Die Fresken und Deckengemälde (= Manuskripte zur Kunstwissenschaft in der Wernerschen Verlagsgesellschaft, hg. von Ferdinand Werner), Worms 1990, S. 26–33. (BSB Art. 85, 1117–33)
+
+Leutheußer, Sabine, Die barocken Ausstattungsprogramme<br>der ehemaligen Zisterzienser-Abteikirchen Waldsassen, Fürstenfeld und Raitenhaslach, Diss. Freiburg 1990 (= tuduv Bd 61), München 1993. (BSB Art. 93, 2877)
+
+Demmel, Fritz und Wolfgang Hopfgartner, Die Kirchen der Raitenhaslacher Klosterannalen des 18. Jh., Teil 1 und 2, in: Oettinger Land 10, 1990, S. 212–251 und 11, 1991, S. 132–148.<br>Hopfgartner, Wolfgang, Raitenhaslach (=KKF Nr. 22), 1992.
+
+Die Barockisierung der Klosterkirche Raitenhaslach – Zum 250. Jahrestag einer Bauphase, in: Oettinger Land 13, 1993, S. 166–208.
+
+Demmel, Fritz, Die Burghauser Stadtmaurermeister Franz Anton und Joseph Glonner. Ein Beitrag zur Architektur der Stadt zwischen 1777 und 1842 (= Burghauser Geschichtsblätter 48) 1995.
+
+Hopfgartner, Wolfgang, Ausstellungskatalog zur 850. Wiederkehr der Besiedelung des ehem. Zisterzienserklosters Raitenhaslach, hg. von der Stadt Burghausen 1996.
+
+
+== Pläne von Raitenhaslach ==
+
+
+Folgende Pläne sind herangezogen worden (alle Stadtarchiv Burghausen; Abb. bei Hopfgartner 1987, Demmel 1995): Der gesamte Klosterkomplex:
+
+P 321 Topographische Aufnahme des Klosters Raitenhaslach aus dem Jahr 1806 (F. A. Glonner; Demmel, Abb. 59)
+
+P 429 Vogelschau auf Raitenhaslach mit Scheuerhof, Marienberg, Burghausen, um 1792. Federzeichnung, Wiese grün aquarelliert, 46×31,5 cm (Abb. S. 177)
+
+P 430a-c »Das ganze Klostergebäu zu Raittenhaslach wie selbes bey Auffebung 1803 gestanden ist, Ausgemessen und aufgenumen von Franz Anton Glonner K:B: provincial Hofbauwerckmeister Burghausen.«
+
+P 430a »Erster Grund zu ebner Erd« (KDB, S. 2609, Hopfgartner, Abb. 83)
+
+P 430b r. »2ter Grund Plan«
+
+P 430b v. »3ter Grundplan
+
+P 435 »Kloster Raitenhaslach gänzliche Aufnam von Glonner in Burghausen« 1803, 1. OG, Bleistift, Entwurfszeichnung zu P 1240? (60 Schuh = 12 cm)
+
+P 1237 Kolorierte Bleistiftzeichnung der Klosteranlage von 1812, gefertigt von Ignatz Pfitzer (Hopfgartner, Abb. 29).
+
+P 1240 Großer Plan der Klosteranlage um 1803 (70×100 cm) P 436a-d Konventgebäude, Neubaupläne von Franz Alois Mayr um 1766. Die vorhandenen Bauten schwarz, das neu zu Erbauende »rot ausgeduscht«, mit ausführlicher Beschriftung
+
+10, 10 P 436a Zeichnung zu P 436h Erdgeschoß
+
+P 436b Erdgeschoß (Der Prälatentrakt hat 4+17+4 Achsen; gebaut sind 4+16+4)
+
+P 436c 1. Obergeschoß (der Festsaal ist mit 7 Fensterachsen eingezeichnet)
+
+P 436d 2. Obergeschoß (die »Stuba aulica minor« ist um eine Achse verschoben und hat nur 2 Fensterachsen)
+
+P 323 a – b Prälatenstock:
+
+P 323 a »Der Große Hofstock von Kloster Raitenhaslach, aufgenommen Ant: Glonner jun.« (3 Geschosse auf einem Plan) P 323b (Gleicher Plan mit drei Umbauvorschlägen in eine Schule)
+
+P 1236–1239 Aufrisse des Festsaalstocks:
+
+P 1236 »Profil vom Speissaal inwendig« (Glonner jun. nach Mayr um 1763; Hopfgartner, Abb. 87)
+
+P 1238 »Profil vom Speissaal in: und auswendig« (Glonner jun. nach Mayr um 1763; Hopfgartner, Abb. 86)
+
+, , , , , , , , , , , , , , , , , , , , P 1239 »Profil vom kleinen Gartenstöckl und großen Saalstock« (Glonner sen.; Demmel, Abb. 59a) C. B.
+
+
+== SANKT JOHANN bei OBERESCHLBACH ==
+
+
+Kapelle, Stadtpfarrei St. Nikolaus Neuötting, Stadt Neuötting, Diözese Passau; z. Z. der Ausmalung Pfarrei Alzgern, dem Kurfürstlichen Propsteigericht Altötting inkorporiert war; Erzbistum Salzburg, Archidiakonat Gars. Gericht Neuötting
+
+
+'''Patrozinium:''' St. Johann Baptist
+
+
+'''Zum Bauwerk:''' Die Johannes-Kapelle lag ursprünglich bei Alzgern am Inn und wurde durch Hochwasser zerstört; Franz Wilhelm Graf von Wartenberg, Herr auf Wald und Propst von Altötting, ließ sie mit allen Rechten hierher transferieren und neu erbauen. Die Tuffsteinquader des alten gotischen Baus wurden für das Fundament verwendet. Weihe am 5.9.1611 (Tafel mit Bauinschrift von 1611 an der S-Seite der Altarraumwand). Barocker Umbau mit neuen großen Fenstern mit geschweiftem oberen Abschluß 1763 durch den Neuöttinger Maurermeister Anton Hechel. 1785 Neubau des Turms wegen Sturmschaden, Reparatur des Kirchendachs, ebenfalls durch Anton Hechel. Kanzel und Altar stammen aus dem 17. Jh.
+
+Als der Landrichter Graf von Armansperg 1804 alle vier Filialkirchen von Alzgern abreißen lassen wollte, trat Pfarrer Lorenz Sprengeisen für deren Erhalt ein und beschrieb St. Johann als »reinlich, wie neu gebaut«.
+
+Einfacher Saal (9×5 m) mit Vorhaus, durchgehendes Gesims, Wände ungegliedert; Empore im W. Eingezogener AR zu einem Joch mit halbrundem Schluß. Belichtung durch zwei Fensterpaare im LHs und ein Fenster auf der S-Seite des Chors.
+
+'''Auftraggeber:''' Johann Baptist Adam Knodt, Pfarrer von Alzgern (1758–94). Die Ausmalung muß gestiftet worden sein, da sie in den Kirchenrechnungen 1787/88 nicht erwähnt wird, ebensowenig wie eventuelle Baureparaturen, die Anlaß zur Ausmalung gewesen sein könnten. Pfarrer Knodt gab sich als Gönner seiner Kirchen aus, was nach seinem Tod vom Propsteidirektor Johann Georg Kellner bestritten wurde, der selbst in Obereschlbach eine Wiese für 300 f. getauscht und damit zur Ausstattung beigetragen haben wollte (s. S. 30).
+
+1/34 Frie-<br>dingen an der Donau † 1798 Trostberg; s. S. 244) 1787. Signatur in Fresko A rechts: Pinxit F. Joseph Soll M. in Trostberg. Die Ausmalung entstand ein Jahr vor der in der Pfarrkirche Alzgern. Die Emporenbrüstungsbilder, das Altarbild und das Bild im Auszug sind ebenfalls Franz Joseph Soll zuzuschreiben. Die Fresken in St. Johann gehören zu den gelungensten Arbeiten Solls: der intime Raum und die höfische Thomasik
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A) Flachtonne, AR (B, B<sub>1-2</sub>) Tonne, im O abgemuldet
+
+Rahmen: Gemalte Rahmung
+
+Technik: Fresko; A und B polychrom, B<sub>1-2</sub> monochrom grau
+
+Maße: A Höhe 5,65 m; 6,50×4,60
+
+B Höhe 5,50 m; 2,50×2,30
+
+B<sub>1-2</sub> Ø ca. 1,00
+
+EB<sub>1,3</sub> 0,90×0,75
+
+EB<sub>2</sub> 0,90×1,80
+
+Erhaltungszustand und Restaurierungen: Innenrestaurierung 1829 (Signatur über der Empore rechts B. Peischl., M. W. Lerndle 1829). In einem Gutachten des BLfD von 1955 wird die Kirche als feucht beschrieben; die Wände innen waren mürb und blühten aus. 1978 Außenrestaurierung; 1989/91 Innenrestaurierung durch die Kirchenmaler Franz Nefzger, Surheim, und Jürgen Pursche, München, mit Neufassung der Raumschale und Renovierung des Altars. Die Fresken wurden gereinigt. Ein 3–5 cm breiter Längsriß im LHs-Gewölbe wurde mit Ledan verschmälert. Die einstimmenden Retuschen betrafen nur den violettfarbenen Hintergrundsbereich, nicht das Figürliche. Die unechten Blattmetallauflagen an der gemalten Rahmung (vermutlich von der Restaurierung 1829) waren oxydiert bzw. abgeblättert und wurden in Ockerfarbe retuschiert. Die Fresken sind in ausgezeichnetem Zustand; geringfügige Risse
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die LHs-Tonne ist vollkommen ausgemalt. Über dem Gesims ist eine Attikazone illusioniert, die aus vergoldeten kassettierten Stäben, aus Stuckkonsolen und blauchangierenden Schärpen besteht und am Chorbogen einen kleinen Balkon und zwei steinerne Amphoren vortäuscht. Diese Zone schließt den gemalten Freskorahmen, einen vergoldeten Blattstab, ein. An der W-Seite besteht die dekorative Malerei aus einer stuckfarbenen Blumengirlande; auf dem Gesims sind vor zwei großen Ziervasen Putten mit Geige, Fagott, Kesselpauke und Trompete dargestellt, in Anspielung auf die Musikempore.
+
+
+[[File:Band09_chunk005_p009_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band09 p217 -->
