@@ -7,3 +7,4 @@ data/extracted/*/processed_images/
 data/extracted/*/pages/
 .venv/
 __pycache__
+*.xlsx
