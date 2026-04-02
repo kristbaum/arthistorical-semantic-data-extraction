@@ -1,0 +1,641 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=21 -->
+<!-- citation-page-top: Band10 p340 -->
+
+
+== REGISTER ==
+
+
+
+== Ortsregister ==
+
+
+Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
+
+
+{| class="wikitable"
+|-
+| Agypten 63
+|-
+| Athiopien 83
+|-
+| Aegae in Kilikien 80
+|-
+| Aichach 337
+|-
+| Gericht 130
+|-
+| Kapitel 315
+|-
+| Aichach-Friedberg, Landkreis 122
+|-
+| Aislingen 180, 290
+|-
+| Aldersbach 254
+|-
+| Portenkapelle 269
+|-
+| Altötting 66
+|-
+| Alverna 55
+|-
+| Ambach, Pfarrkirche 17f.
+|-
+| Pfarrei 17
+|-
+| Amiens 214
+|-
+| Ammerfeld 75, 114, 119
+|-
+| Ammerfeld, Pfarrkirche 6, 19–33, 337
+|-
+| Pfarrei 6, 20
+|-
+| Antiochien 82
+|-
+| Antoniberg bei Stepperg, Wallfahrtskirche 34-44,
+|-
+| 310, 338
+|-
+| Antwerpen 269
+|-
+| Arabien 83
+|-
+| Armenien 83
+|-
+| Athen 269
+|-
+| Augsburg 20, 31, 40, 46, 85f., 116, 120, 153, 180-82, 194, 196, 225, 239, 257, 283f., 299, 308, 337-40
+|-
+| Diözese 6, 17, 34, 44, 59, 74, 77, 85, 93, 98f., 105, 115, 120, 130, 142, 155, 233, 238, 244, 257, 271, 276, 280, 295, 299, 306, 308, 313, 328
+|-
+| Dominikanerkirche St. Magdalena 28, 119, 323
+|-
+| Kunstakademie 337
+|-
+| Baar 66
+|-
+| Banz 315
+|-
+| Bari 287, 289f., 295
+|-
+| Bayern-Landshut 155
+|-
+| Beilngries 337
+|-
+| Belém bei Lissabon 290
+|-
+| Benrath bei Düsseldorf 219, 223f.
+|-
+| Bergen, Pfarr- und Wallfahrtskirche 6, 21, 45-60, 238, 337
+|-
+| Benediktinerinnenkloster 45, 60
+|-
+| Hofmark 45
+|-
+| Bergheim, Pfarrkirche 61–65, 66, 340
+|-
+| Marienkapelle 6, 66–73, 102, 162, 210, 282
+|-
+| Pfarrei 66, 68
+|-
+| Bernbeuren 99
+|-
+| Dinkelshausen, Nebenkirche 93–97, 192, 313, 338
+|-
+| Dirlewang bei Mindelheim 310, 337
+|-
+| Donau 40, 155
+|-
+| Donaumünster 162, 341
+|-
+| Donauwörth 37, 310, 338
+|-
+| Düsseldorf 182, 193, 220, 230, 337f.
+|-
+| Edessa 83
+|-
+| Eggenthal/Lkr. Kaufbeuren 37, 99, 310, 337f.
+|-
+| Ehekirchen, Gemeinde 17, 93, 99, 105
+|-
+| Pfarrverband 17, 93, 99, 105
+|-
+| Eichstätt 45, 77, 93, 144, 162, 192, 308, 310, 330, 337, 341
+|-
+| Diözese 6, 19, 45, 59, 61
+|-
+| Residenz 337
+|-
+| Ellenbrunn, Filialkirche 98
+|-
+| Ellwangen, Schönenbergkirche 315, 323
+|-
+| Ensfeld/Markt Mörnsheim 106, 340
+|-
+| Feldheim bei Rain 244
+|-
+| Frauenried/Irschenberg 116
+|-
+| Freising, Dom 325
+|-
+| Fünfstetten 269
+|-
+| Fürstenfeldbruck, St. Magdalena 132
+|-
+| Gachenbach, Gemeinde 130
+|-
+| Gammersfeld 244
+|-
+| Gansheim bei Rennertshofen 339
+|-
+| Gersthofen bei Augsburg 337
+|-
+| Gößweinstein 284
+|-
+| Graisbach 310
+|-
+| Graisbach/Monheim, Gericht 6, 74, 142, 306
+|-
+| Greifenberg, Schloßkapelle 124
+|-
+| Gremelzhausen (Gremerzhausen, Grienwaltshausen), Hofmark 308
+|-
+| Großhausen, Hofmark 313
+|-
+| Grünau bei Neuburg, Jagdschloß 228
+|-
+| Günzburg 182
+|-
+| Gundelsheim bei Treuchtlingen 339
+|-
+| Haffnerskirchen, Hofmark 130
+|-
+| Haselbach, Pfarrkirche 99–104, 337
+|-
+| Haslangkreut, Hofmark 313
+|-
+| Heidelberg 192, 207, 220, 230, 338
+|-
+| Helfta, Zisterzienserinnenkloster 95
+|-
+| Heliopolis 269
+|-
+| Hierapolis 82
+|-
+| Hilgertshausen, Hofmark 130
+|-
+| Hilpoltstein 210, 340
+|-
+| Hirschberg, Schloß 337
+|-
+| Höchstädt an der Donau 338, 340
+|-
+| Hohenkammer bei Freising 313
+|-
+| Hollenbach, Pfarrkirche 105-09, 194, 340
+|-
+| Hofmark 105, 328
+|-
+| Pfarrei 93
+|-
+| Hütting 340
+|-
+| Iarnberg 34
+|-
+| Illdorf, Pfarrkirche 110–14
+|-
+| Pfarrei 115
+|-
+| Inchenhofen 6, 120, 130, 264, 266, 272, 337
+|-
+| Indien 83, 168
+|-
+| Ingolstadt 6, 61, 66, 78, 161, 210, 233
+|-
+| Kongregationssaal 206
+|-
+| Maria de Victoria 66, 254, 315
+|-
+| Spitalkirche Hl. Geist 248, 339
+|-
+| Innsbruck 206, 220, 315, 341
+|-
+| Innsbruck-Wilten 275
+|-
+| Javier, Schloß 203
+|-
+| Jerusalem 50, 57f., 82f., 168
+|-
+| Grabeskirche 50, 57
+|-
+| Judäa 83
+|-
+| Kaisheim, Zisterzienserkloster 19f., 208
+|-
+| Kaisheim, Pflegamt 19
+|-
+| Kaufbeuren 337
+|-
+| Kobel 340
+|-
+| Köln 196
+|-
+| Kufstein 46, 337
+|-
+| Langloh, Filialkirche 6, 86, 115–19, 299, 338
+|-
+| Lambach 315
+|-
+| Landsberg, Jesuitenkirche 58f.
+|-
+| Landshut, Schloß Trausnitz 228
+|-
+| Langenmosen, Pfarrkirche 6, 120–29, 337
+|-
+| Lauingen 20t., 337
+|-
+| Protestantische Landesschule 45
+|-
+| Lauterbach 132, 264
+|-
+| Leidling 115
+|-
+| Lenting/Lkr. Eichstätt 295
+|-
+| Lepanto 78
+|-
+| Ligugé 216
+|-
+| Lissabon 44, 290
+|-
+| Lykaonien 83
+|-
+| Mailand 216
+|-
+| Sant' Ambrogio 56
+|-
+| Mainz 196
+|-
+| Malta 257
+|-
+| Mannheim 193, 207, 220, 225, 338
+|-
+| Marburg 88
+|-
+| Maria Beinberg, Wallfahrtskirche 6, 120, 130-41, 264, 272, 337
+|-
+| Marktoberdorf 337
+|-
+| Martinny 62
+|-
+| Marxheim 66
+|-
+| Mauern, Pfarrkirche 142-54, 339
+|-
+| Mauern, Pfarrei 98, 306
+|-
+| Medien 83
+|-
+| Mering bei Augsburg 122, 124, 257–59, 339
+|-
+| Mesopotamien 83
+|-
+| Mindelheim 21, 337
+|-
+| Mögling bei Trostberg 300
+|-
+| Monheim 78, 142, 244, 254, 313, 336, 339
+|-
+| München 78, 82, 105, 120, 168, 219, 257, 278, 315, 323, 339, 341
+|-
+| Kongregationssaal 206
+|-
+| Schloß Nymphenburg 224
+|-
+| Klosterkirche der Elisabethinerinnen 275
+|-
+| Münnerstadt 284
+|-
+| Myra 287, 295
+|-
+| Navarra 203
+|-
+| Neresheim 162, 341
+|-
+| Neuburg 6, 45, 61, 66, 77, 93f., 105, 115, 142, 153, 155-232, 238, 248, 254, 276, 282, 299, 310, 328, 334, 337t., 340t.
+|-
+| Fürstentum 115, 120
+|-
+| Gericht 6, 17, 34, 45, 85, 98, 105, 155, 233, 238, 276, 280, 299, 308, 328
+|-
+| Landvogtamt 233
+|-
+| Bezirksamt 17
+|-
+| Kapitel 105, 330
+|-
+| Landkapitel 308
+|-
+| Pfarrverband 276, 328
+|-
+| Schloß 156, 198, 219–32
+|-
+| Schloß, Diana-Zimmer 223f., 228
+|-
+| Schloß, ehem. Malereikabinett 225–28
+|-
+| Schloß, Saal im Nordturm 220–22, 248, 339
+|-
+| Schloß, Wendeltreppe 228f.
+|-
+| Hofkirche 155f., 198
+|-
+| Ehem. Hofapotheke 155, 230–32
+|-
+| Benediktinerinnenkloster 45, 93, 115, 120, 328
+|-
+| Ehem. Elisabethinerinnenkloster 194
+|-
+| Franziskanerkirche 282, 340
+|-
+| Jesuitenkolleg 45, 61, 105, 115, 120, 155, 198, 308, 328
+|-
+| Jesuitenseminar 45f., 58, 182
+|-
+| Ehem. Kongregationssaal der Jesuiten 6, 93, 192–207, 198, 230, 313, 338
+|-
+| Provinzialbibliothek, ehem. Bruderschaftshaus 6, 155, 162, 208–18, 282, 292, 340
+|-
+| Malteserordenskommende 308
+|-
+| Großballei des Malteserordens 105, 115
+|-
+| Ursulinenkloster 155
+|-
+| Studienkirche St. Ursula, ehem. Ursulinenkirche 6, 156f., 182–91, 194, 207, 338, 340
+|-
+| St. Andreas 338
+|-
+| Stadtpfarrkirche Heilig Geist 6, 155, 161–81, 210, 276, 278, 282, 340f.
+|-
+| St. Martin 208
+|-
+| Stadtpfarrkirche St. Peter 155, 156-60, 182, 184, 208, 211, 220, 338, 340
+|-
+| Pfarrkirche U.L.F. 161
+|-
+| Neuburg-Schrobenhausen, Landkreis 6, 75, 159, 337f., 340
+|-
+| Neumarkt 210, 340
+|-
+| Niederschönenfeld, Zisterzienserinnenkloster 61, 77, 110, 310
+|-
+| Viederschönenfeld, Hofmark 244
+|-
+| Oberammergau 275
+|-
+| Obermedlingen, Dominikanerinnenkloster 208
+|-
+| Oberhausen, Pfarrkirche 233-37, 299
+|-
+| Oberhausen, Gemeinde 280, 308
+|-
+| Ortlfing, Pfarrkirche 6, 238-43, 340
+|-
+| Ostia 170
+|-
+| Otranto 88
+|-
+| Padua 44
+|-
+| San Giovanni Evangelista 268
+|-
+| Palästina 82f.
+|-
+| Paris 166, 203
+|-
+| Parma 207
+|-
+| Parthien 83
+|-
+| Persien 83
+|-
+| Pfaffenhofen 78, 210, 340f.
+|-
+| Gericht 313
+|-
+| Pfalz-Neuburg, Fürstentum 6,
+|-
+| Pöttmes 17, 85, 99
+|-
+| Pollenfeld 338, 340
+|-
+| Pontus 82
+|-
+| Portiers 215f.
+|-
+| Prag 257, 339
+|-
+| Puch bei Pfaffenhofen 78, 341
+|-
+| Rain 248
+|-
+| Gericht 6, 99, 110, 115
+|-
+| Rappen bei Mindelheim 20, 337
+|-
+| Ravensberg 58
+|-
+| Regensburg, Kollegiatstift St. Johann 233
+|-
+| Reichertshofen 340
+|-
+| Reichstadt in Böhmen 337
+|-
+| Rennertshofen 74, 142, 144, 220, 238, 248, 3
+|-
+| Markt 6, 19, 34, 74, 98, 142, 244, 306
+|-
+| Pfarrkirche 244–54, 339
+|-
+| Friedhofskapelle 248, 254–56, 339
+|-
+| Pfarrverband 34, 74, 98, 142, 306
+|-
+| Pflegamt 6, 244, 254
+|-
+| ehem. Schloß 254
+|-
+| Reutte in Tirol 99, 337
+|-
+| Ried bei Neuburg 341
+|-
+| Rödenhof bei Zell 334
+|-
+| Rögling 144
+|-
+| Rohrbach 66
+|-
+| Rom 34, 40, 56, 82, 168, 287, 310, 324
+|-
+| Collegium Germanicum 328, 330
+|-
+| Sixtinische Kapelle 318
+|-
+| Roveredo 156, 308
+|-
+| Saarbrücken 324
+|-
+| Sachsenkam/Lkr. Bad Tölz-Wolfratshausen 84
+|-
+| Saint-Germain-en-Laye 231
+|-
+| Salzburg 78, 337, 341
+|-
+| St. Peter 178
+|-
+| Samaria 82
+|-
+| Sandizell 120, 161, 257–70
+|-
+| Hofmark 6, 257
+|-
+| Pfarrkirche 6, 257–63, 339
+|-
+| Sakristei 264f.
+|-
+| Schloßkapelle 264, 266–70, 337
+|-
+| Santiago de Compostela 82
+|-
+| St. Maurice d'Agaune 63
+|-
+| St. Petersburg 173
+|-
+| St. Wendel 324
+|-
+| Sanzian, Insel 203
+|-
+| Schenkenau, Hofmark 6, 313
+|-
+| Scheyern, Benediktinerabtei 210
+|-
+| Schleißheim, Schloß Lustheim 224
+|-
+| Schongau 210, 339
+|-
+| Schrobenhausen 6, 257, 271f.
+|-
+| Filialkirche St. Salvator 132, 268, 271–75, 337
+|-
+| Pfarrei St. Jakob 271
+|-
+| Gericht 6, 120, 130, 257, 271
+|-
+| Schwäbishofen 295
+|-
+| Sebensand, Friedhofskapelle 276–79, 340
+|-
+| Sinning 68, 86, 161f., 210, 238
+|-
+| Pfarrkirche 280–98
+|-
+| St. Wolfgang 290
+|-
+| Hofmark 233, 280
+|-
+| Skythien 82
+|-
+| Smyrna 269
+|-
+| Stadtbergen bei Augsburg 295
+|-
+| Stams, Zisterzienserkloster 20
+|-
+| Straß, Pfarrkirche 6, 85, 115, 299–305, 338
+|-
+| Hofmark 299
+|-
+| Straßwalchen 341
+|-
+| Stuttgart 315
+|-
+| Syrakus 332
+|-
+| Tannenberg 99
+|-
+| Thaining bei Landsberg 135
+|-
+| Tholey, Benediktinerkloster 320, 325
+|-
+| Thrakien 82
+|-
+| Tiengen/Kreis Waldshut 85, 116, 299, 338
+|-
+| Tirol 220
+|-
+| Tours 216
+|-
+| Treidelheim, Filialkirche 102, 306f.
+|-
+| Treuchtlingen 66, 339
+|-
+| Trient 78, 177, 341
+|-
+| Trier 196, 325
+|-
+| Diözese 324
+|-
+| Trugenhofen 338
+|-
+| Untergammenried 85
+|-
+| Unterhausen, Pfarrkirche 115, 282, 308–12, 337f.
+|-
+| Hofmark 328
+|-
+| Ussel/Ursel, Fluß 34
+|-
+| Venedig 56, 269
+|-
+| Vilshofen 330
+|-
+| Vorau 178
+|-
+| Wagenhofen, Pfarrei 276
+|-
+| Waidhofen, Pfarrkirche 6, 78, 93, 192, 313-27, 341
+|-
+| Hofmark 313
+|-
+| Waldshut 338
+|-
+| Wartburg 88
+|-
+| Weilach, Pfarrei 130
+|-
+| Weissenburg 210, 340
+|-
+| Wellheim, Pfarrei 98
+|-
+| Wemding 142
+|-
+| Wengen 238
+|-
+| Wertingen 46, 238
+|-
+| Westendorf, St. Georg 283f., 290
+|-
+| Wien 21, 78, 230, 338, 341
+|-
+| Willprechtszell 132
+|-
+| Worms 196
+|-
+| Zahling 122, 124
+|-
+| Zell, Pfarrkirche 146, 328–36
+|-
+| Rödenhof 334
+|}
+<!-- citation-page-bottom: Band10 p341 -->

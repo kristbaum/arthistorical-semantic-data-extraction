@@ -1,0 +1,312 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk001.pdf#page=8 -->
+<!-- citation-page-top: Band11 p14 -->
+
+
+== ABKURZUNGEN ==
+
+
+
+== Allgemeine Abkürzungen ==
+
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+
+{| class="wikitable"
+|-
+| ABA | Archiv des Bistums Augsburg | Lw. | Leinwand
+|-
+| Abb. | Abbildung | Ms., Mss. | Manuskript, Manuskripte
+|-
+| AEM | Archiv des Erzbistums München | MFr | Mittelfranken
+|-
+| Anm. | Anmerkung | MSch. | Mittelschiff
+|-
+| AR | Altarraum | NB | Niederbavern
+|-
+| AT | Altes Testament | NO | Nordosten
+|-
+| BA Neuburg | Bezirksamt Neuburg | Nr., Nrn. | Nummer, Nummern
+|-
+| Bd, Bde | Band, Bände | NT | Neues Testament
+|-
+| BHStA | Bayerisches Hauptstaatsarchiv, München | NW | Nordwesten
+|-
+| BLfD | Bayerisches Landesamt für Denkmal- | O | Osten
+|-
+| pflege, München |  | OAE | Ordinariatsarchiv Eichstätt
+|-
+| BNM | Bayerisches Nationalmuseum, München | OB | Oberbayern
+|-
+| BO | Bischöfliches Ordinariat | OFr | Oberfranken
+|-
+| BSB | Bayerische Staatsbibliothek, München | o. J. | ohne Jahr
+|-
+| BSGS | Bayerische Staatsgemäldesammlungen, | o.O. | ohne Ort
+|-
+| München |  | o. V. | ohne Verfasser
+|-
+| Par. | Parallelstellen | PNA | Pfalz-Neuburg Akten
+|-
+| PNA, NA 1989 | Pfalz-Neuburg Akten, | PFr | Pfalzfranken
+|-
+| Cod. Codd. | Codex, Codices | Neuburger Abgabe 1989 | 
+|-
+| Diss. | Dissertation | QHs | Querhaus
+|-
+| Ed., ed. | Edition, edidit | QSch. | Querschiff
+|-
+| F. | Faszikel | r. | recto
+|-
+| f., ff. | folgend, folgende | S. | Seite
+|-
+| fl. | Gulden | Schw. | Schwaben
+|-
+| Fa. | Firma | SGS Mü | Staatliche Graphische Sammlung, München
+|-
+| fol. | folio | SGS Mü, frdl. Mitt. | Staatliche Graphische Sammlung, München, freundliche Mitteilung
+|-
+| H. | Heft | SO | Südosten
+|-
+| Hg., hg. v. | Herausgeber, herausgegeben von | Sp. | Spalte
+|-
+| hl., hll. | heilig, heilige | SSch. | Seitenschiff
+|-
+| HS | Handschriften | St. | Sankt
+|-
+| Inventar |  | StA Augsburg | Staatsarchiv Augsburg
+|-
+| Jg., Jgg. | Jahrgang, Jahrgänge | StAM | Staatsarchiv München (ehem. Kreisarchiv)
+|-
+| Kat. | Katalog | SW | Südwesten
+|-
+| Kap. | Kapitel | Tf. | Tafel
+|-
+| Kr., x | Kreuzer | Tom. | Tomus
+|-
+| LHs | Langhaus | UFr | Unterfranken
+|-
+| Lib. | Liber | ungedr. | ungedruckt
+|-
+| LKr. | Landkreis | v. | verso
+|-
+| loc. cit. | lococitato | W | Westen
+|}
+
+
+Darüber hinaus allgemein übliche Abkürzungen sind nach Duden vorgenommen.
+
+
+== Abkürzungen der biblischen Schriften ==
+
+
+nach der Vulgata Clementina in der Neuausgabe Madrid 1965 dazu deutsche Bezeichnung nach der Übersetzung Luthers
+
+
+{| class="wikitable"
+|-
+| Altes Testament | Agg | Aggaeus | Haggai
+|-
+| Zach | Zacharias | Sacharja | 
+|-
+| Gen | Genesis | 1 Mose | 
+|-
+| Ex | Exodus | 2 Mose | 
+|-
+| Lex | Leviticus | 3 Mose | 
+|-
+| Num | Numeri | 4 Mose | 
+|-
+| Deut | Deuteronomium | Mose | 
+|-
+| Ios | Iosue | Iosua | Neues Testament
+|-
+| Iud | Iudices | Richter | 
+|-
+| Ruth | Ruth | Ruth | 
+|-
+| 1 Sam | 1 Samuelis seu 1 Regum | 1 Samuel | 
+|-
+| 2 Sam | 2 Samuelis seu 2 Regum | 2 Samuel | 
+|-
+| 3 Reg | 3 Regum | 1 Könige | 
+|-
+| 4 Reg | 4 Regum | 2 Könige | 
+|-
+| 1 Par | 1 Paralipomenon | 1 Chronik | 
+|-
+| 2 Par | 2 Paralipomenon | 2 Chronik | 
+|-
+| Esdr | 1 Esdrae | Esra | 
+|-
+| Neh | Nehemias seu 2 Esdrae | Nehemia | 
+|-
+| Tob | Tobias | Tobias | 
+|-
+| Iudith | Iudith | Judith | 
+|-
+| Esth | Esther | Esther | 
+|-
+| Iob | Iob | Hiob | 
+|-
+| Ps | Psalm | Psalter | 
+|-
+| Prov | Proverbia | Sprüche Salomos | 
+|-
+| Eccl | Ecclesiastes | Prediger Salomo | 
+|-
+| Cant | Canticum Canticorum | Hohelied Salomos | 
+|-
+| Sap | Sapientia | Weisheit Salomos | 
+|-
+| Eccli | Ecclesiasticus | Jesus Sirach | 
+|-
+| Is | Isaias | Jesaja | 
+|-
+| Ier | Ieremias | Jeremia | 
+|-
+| Lam | Lamentationes | Klagelieder | 
+|-
+| Bar | Baruch | Baruch | 
+|-
+| Ez | Ezechiel | Hesekiel | 
+|-
+| Dan | Daniel | Daniel | 
+|-
+| Os | Osee | Hosea | 
+|-
+| Ioel | Ioel | Joel | 
+|-
+| Am | Amos | Amos | 
+|-
+| Abd | Abdias | Obadja | 
+|-
+| Ion | Ionas | Jonas | 
+|-
+| Mich | Michaeas | Micha | 
+|-
+| Nah | Nahum | Nahum | 
+|-
+| Abd | Abdias | Obadja | 
+|-
+| Ion | Ionas | Jonas | 
+|-
+| Mich | Michaeas | Micha | 
+|-
+| Nah | Nahum | Nahum | 
+|-
+| Iud | Iudae | Judas | 
+|-
+| Hab | Habacuc | Habakuk | 
+|-
+| Apoc | Apocalypsis | Offenbarung | 
+|-
+| Soph | Sophonias | Zephania | 
+|-
+| Io | Ioannes | Johannes | 
+|-
+| Iac | Iacobi | Jakobus | 
+|-
+| I Petr | 1 Epistola Petri | 1. Petrusbrief | 
+|-
+| 2 Petr | 2 Epistola Petri | 2. Petrusbrief | 
+|-
+| 1 Io | 1 Epistola Ioannis | 1. Johannesbrief | 
+|-
+| 2 Io | 2 Epistola Ioannis | 2. Johannesbrief | 
+|-
+| 3 Io | 3 Epistola Ioannis | 3. Johannesbrief | 
+|-
+| Iud | Epistola Iudae | Judasbrief | 
+|-
+| Hebr | Epistola ad Hebraeos | Hebräerbrief | 
+|-
+| Gal | Epistola ad Galates | Galaterbrief | 
+|-
+| Eph | Epistola ad Ephesios | Epheserbrief | 
+|-
+| Phil | Epistola ad Philippenses | Philipperbrief | 
+|-
+| Col | Epistola ad Colossenses | Kolosserbrief | 
+|-
+| 1 Thess | 1 Epistola ad Thessalonicenses | 1. Thessalonicherbrief | 
+|-
+| 2 Thess | 2 Epistola ad Thessalonicenses | 2. Thessalonicherbrief | 
+|-
+| 1 Tim | 1 Epistola ad Timotheum | 1. Timotheusbrief | 
+|-
+| 2 Tim | 2 Epistola ad Timotheum | 2. Timotheusbrief | 
+|-
+| Tit | Epistola ad Titum | Titusbrief | 
+|-
+| Philem | Epistola ad Philemonem | Philemonbrief | 
+|-
+| Iac | Epistola Iacobi | Jakobusbrief | 
+|-
+| Io | Evangelium sec. Ioannem | Johannes-Evangelium | 
+|-
+| Mt | Evangelium sec. Matthäum | Matthäus-Evangelium | 
+|-
+| Mc | Evangelium sec. Marcum | Markus-Evangelium | 
+|-
+| Lc | Evangelium sec. Lucam | Lukas-Evangelium | 
+|-
+| Act | Actus Apostolorum | Apostelgeschichte | 
+|-
+| Rom | Epistola ad Romanos | Römerbrief | 
+|-
+| 1 Cor | 1 Epistola ad Corinthios | 1. Korintherbrief | 
+|-
+| 2 Cor | 2 Epistola ad Corinthios | 2. Korintherbrief | 
+|-
+| Gal | Epistola ad Galates | Galaterbrief | 
+|-
+| Eph | Epistola ad Ephesios | Epheserbrief | 
+|-
+| Phil | Epistola ad Philippenses | Philipperbrief | 
+|-
+| Col | Epistola ad Colossenses | Kolosserbrief | 
+|-
+| 1 Thess | 1 Epistola ad Thessalonicenses | 1. Thessalonicherbrief | 
+|-
+| 2 Thess | 2 Epistola ad Thessalonicenses | 2. Thessalonicherbrief | 
+|-
+| 1 Tim | 1 Epistola ad Timotheum | 1. Timotheusbrief | 
+|-
+| 2 Tim | 2 Epistola ad Timotheum | 2. Timotheusbrief | 
+|-
+| Tit | Epistola ad Titum | Titusbrief | 
+|-
+| Philem | Epistola ad Philemonem | Philemonbrief | 
+|-
+| Hebr | Epistola ad Hebraeos | Hebräerbrief | 
+|-
+| Iac | Epistola Iacobi | Jakobusbrief | 
+|-
+| 1 Petr | 1 Epistola Petri | 1. Petrusbrief | 
+|-
+| 2 Petr | 2 Epistola Petri | 2. Petrusbrief | 
+|-
+| 1 Io | 1 Epistola Ioannis | 1. Johannesbrief | 
+|-
+| 2 Io | 2 Epistola Ioannis | 2. Johannesbrief | 
+|-
+| 3 Io | 3 Epistola Ioannis | 3. Johannesbrief | 
+|-
+| Iud | Epistola Iudae | Judasbrief | 
+|-
+| Apoc | Apocalypsis | Offenbarung | 
+|-
+| Soph | Sophonias | Zephania | 
+|}
+
+
+
+----
+I
+
+
+
+----
+I٢
+<!-- citation-page-bottom: Band11 p15 -->

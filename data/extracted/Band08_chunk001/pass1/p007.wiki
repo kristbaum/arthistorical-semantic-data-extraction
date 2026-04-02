@@ -1,0 +1,253 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band08 p12 -->
+
+
+== ABKÜRZUNGEN ==
+
+
+
+== Allgemeine Abkürzungen ==
+
+
+(mit Zeichen von Bibliotheken und Archiven und amtlichen Abkürzungen von Institutionen und Ländernamen)
+
+
+{| class="wikitable"
+|-
+| Abb. Abbildung
+
+AEM Archiv des Erzbistums München
+
+NB Niederbayern
+
+NO Nordosten
+|-
+| Anm. Anmerkung NÖ Niederösterreich
+AR Altarraum Nr., Nrn. Nummer, Nummern
+|-
+| AT Altes Testament NT Neues Testament
+|-
+| Bd, Bde Band, Bände NW Nordwesten
+|-
+| BHStA Bayerisches Hauptstaatsarchiv, München O Osten
+|-
+| BLfD Bayerisches Landesamt für Denkmalpflege, 
+München OFr Oberfranken
+|-
+| BNM Bayerisches Nationalmuseum, München o. J. ohne Jahr
+|-
+| BSB Bayerische Staatsbibliothek, München o.O. ohne Ort
+|-
+| BSGS Bayerische Staatsgemäldesammlungen, 
+München OPf Oberpfalz
+|-
+| cgm Codex germanicus monacensis o. V. ohne Verfasser
+clm Codex latinus monacensis Par. Parallelstellen
+|-
+| Cod. Codd. Codex, Codices QHs Querhaus
+|-
+| Diss. Dissertation QSch. Querschiff
+|-
+| Ed., ed. Edition, edidit r. recto
+|-
+| F. Faszikel S Süden
+|-
+| f., ff. folgend, folgende S. Seite Schw. Schwaben
+|-
+| Fa. Firma SGS Mü Staatliche Graphische Sammlung, München
+|-
+| fol. folio SO Südosten
+|-
+| frdl. Mitt. freundliche Mitteilung GL Gerichtsliteralien
+Sp. Spalte SSch. Seitenschiff
+|-
+| H. Heft St. Sankt
+|-
+| Hg., hg. v. Herausgeber, herausgegeben von
+StAM Staatsarchiv München (ehem. Kreisarchiv)
+hl., hll. heilig, heilige
+StAL Staatsarchiv Landshut
+|-
+| Inv. Inventar SW Südwesten
+|-
+| Jg., Jgg. Jahrgang, Jahrgänge Tf. Tafel
+|-
+| Jh. Jahrhundert Tom. Tomus
+|-
+| Kat. Katolog UFr Unterfranken
+|-
+| Kap. Kapitel ungedr. ungedruckt
+|-
+| KL Klosterliteralien v. verso
+|-
+| kr., x Kreuzer W Westen
+|-
+| LHs Langhaus
+|-
+| Lib. Liber
+|-
+| LKr. Landkreis
+|-
+| loc. cit. lococitato
+|-
+| Lw. Leinwand
+|-
+| Ms., Mss. Manuskript, Manuskripte
+|-
+| MFr Mittelfranken nach Duden vorgenommen.
+MSch. Mittelschiff
+|}
+
+
+
+== Abkürzungen der biblischen Schriften ==
+
+
+nach der Vulgata Clementina in der Neuausgabe Madrid 1965 
+dazu deutsche Bezeichnung nach der Übersetzung Luthers
+
+
+{| class="wikitable"
+|-
+| Altes Testament Agg Aggaeus Haggai
+|-
+| Zach Zacharias Sacharja
+|-
+| Gen Genesis 1 Mose Mal Malachias Maleachi
+|-
+| Ex Exodus 2 Mose 1 Mach 1 Machabaeorum 1 Makkabäer
+|-
+| Lex Leviticus 3 Mose 2 Mach 2 Machabaeorum 2 Makkabäer
+|-
+| Num Numeri 4 Mose
+|-
+| Deut Deuteronomium 5 Mose
+|-
+| Ios Iosue Josua Neues Testament
+|-
+| Iud Iudices Richter
+|-
+| Ruth Ruth Ruth
+|-
+| 1 Sam 1 Samuelis seu 1 Regum 1 Samuel
+|-
+| 2 Sam 2 Samuelis seu 2 Regum 2 Samuel
+|-
+| 3 Reg 3 Regum 1 Könige
+|-
+| 4 Reg 4 Regum 2 Könige
+|-
+| 1 Par 1 Paralipomenon 1 Chronik
+|-
+| 2 Par 2 Paralipomenon 2 Chronik
+|-
+| Esdr 1 Esdrae Esra
+|-
+| Neh Nehemias seu 2 Esdrae Nehemia
+|-
+| Tob Tobias Tobias
+|-
+| Iudith Iudith Judith
+|-
+| Esth Esther Esther
+|-
+| Iob Iob Hiob
+|-
+| Ps Psalm Psalter
+|-
+| Prov Proverbia Sprüche Salomos
+|-
+| Eccl Ecclesiastes Prediger Salomo
+|-
+| Cant Canticum Canticorum Hoheslied Salomos
+|-
+| Sap Sapientia Weisheit Salomos
+|-
+| Eccli Ecclesiasticus Iesus Sirach
+|-
+| Is Isaias Jesaja
+|-
+| Ier Ieremias Ieremia
+|-
+| Lam Lamentationes Klagelieder
+|-
+| Bar Baruch Baruch
+|-
+| Ez Ezechiel Hesekiel
+|-
+| Dan Daniel Daniel
+|-
+| Os Osee Hosea
+|-
+| Ioel Ioel Joel
+|-
+| Am Amos Amos
+|-
+| Abd Abdias Obadja
+|-
+| Ion Ionas Jonas
+|-
+| Mich Michaeas Micha
+|-
+| Nah Nahum Iudae Epistola Iudae Judasbrief
+|-
+| Hab Habacuc Habakuk
+|-
+| Soph Sophonias Zephania des Johannes
+|-
+| Act Actus Apostolorum Apostelgeschichte
+|-
+| Rom Epistola ad Romanos Römerbrief
+|-
+| I Cor I Epistola ad Corinthios I. Korintherbrief
+|-
+| 2 Cor 2 Epistola ad Corinthios 2. Korintherbrief
+|-
+| Gal Epistola ad Galates Galaterbrief
+|-
+| Eph Epistola ad Ephesios Epheserbrief
+|-
+| Phil Epistola ad Philippenses Philipperbrief
+|-
+| Col Epistola ad Colossenses Kolosserbrief
+|-
+| 1 Thess 1 Epistola ad 1. Thessalonicenses Thessalonicherbrief
+|-
+| 2 Thess 2 Epistola ad 2. Thessalonicenses Thessalonicherbrief
+|-
+| 1 Tim 1 Epistola ad Timotheum 1. Timotheusbrief
+|-
+| 2 Tim 2 Epistola ad Timotheum 2. Timotheusbrief
+|-
+| Tit Epistola ad Titum Titusbrief
+|-
+| Philem Epistola ad Philemonem Philemonbrief
+|-
+| Hebr Epistola ad Hebraeos Hebräerbrief
+|-
+| Iac Epistola Iacobi Jakobusbrief
+|-
+| 1 Petr 1 Epistola Petri 1. Petrusbrief
+|-
+| 2 Petr 2 Epistola Petri 2 Petrusbrief
+|-
+| 1 Io 1 Epistola Ioannis 1. Johannesbrief
+|-
+| 2 Io 2 Epistola Ioannis 2. Johannesbrief
+|-
+| 3 Io 3 Epistola Ioannis 3. Johannesbrief
+|-
+| Apoc Apocalypsis Offenbarung des Johannes
+|}
+
+
+
+----
+Ι
+</div>
+
+</div>
+
+----
+Ι:
+<!-- citation-page-bottom: Band08 p13 -->
