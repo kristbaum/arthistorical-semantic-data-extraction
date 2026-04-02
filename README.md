@@ -81,12 +81,14 @@ Clean and format this scanned German art historical text. Fix line breaks, obvio
   python mistral_format.py
 ```
 
-sbatch batch_format_container.sh "/dss/dsshome1/02/di97hiw/Band01_chunk001_full.txt" "/dss/dsshome1/02/di97hiw/Band01_chunk001_formatted.md"
+sbatch batch_format_container.sh "/dss/dsshome1/02/USERNAME_HERE/Band01_chunk001_full.txt" "/dss/dsshome1/02/USERNAME_HERE/Band01_chunk001_formatted.md"
 
 tail -f log_5393747.out
 
-sbatch batch_format.sh "/dss/dsshome1/02/di97hiw/arthistorical-semantic-data-extraction/data/raw/Band01_chunk001_full.txt" "/dss/dsshome1/02/di97hiw/arthistorical-semantic-data-extraction/data/formatted/Band01_chunk001_formatted.md"
+sbatch batch_format.sh "/dss/dsshome1/02/USERNAME_HERE/arthistorical-semantic-data-extraction/data/raw/Band01_chunk001_full.txt" "/dss/dsshome1/02/USERNAME_HERE/arthistorical-semantic-data-extraction/data/formatted/Band01_chunk001_formatted.md"
 
 SBATCH --container-image=docker://nvcr.io/nvidia/pytorch:25.10-py3
 
 ‘docker://nvcr.io#nvidia/pytorch:25.10-py3’
+
+853 Articles?
