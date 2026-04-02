@@ -15,7 +15,6 @@ Articles that cannot be matched are saved to data/formatted/missing_articles.csv
 import argparse
 import csv
 import re
-import sys
 from pathlib import Path
 
 # ── Configuration ─────────────────────────────────────────────────────────────
@@ -28,9 +27,15 @@ OUTPUT_DIR = REPO_ROOT / "data" / "formatted"
 # ── CLI ───────────────────────────────────────────────────────────────────────
 
 parser = argparse.ArgumentParser(description=__doc__)
-parser.add_argument("--dry-run", action="store_true", help="Print plan without writing files.")
-parser.add_argument("--band", type=str, default=None, help="Process only this Band (e.g. 'Band 1').")
-parser.add_argument("--verbose", "-v", action="store_true", help="Print detailed progress.")
+parser.add_argument(
+    "--dry-run", action="store_true", help="Print plan without writing files."
+)
+parser.add_argument(
+    "--band", type=str, default=None, help="Process only this Band (e.g. 'Band 1')."
+)
+parser.add_argument(
+    "--verbose", "-v", action="store_true", help="Print detailed progress."
+)
 args = parser.parse_args()
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -167,7 +172,9 @@ def _ensure_citation_metadata(pass1_file: Path, pass1_text: str) -> str:
         meta_lines: list[str] = []
         for line in wiki_text.splitlines():
             stripped = line.strip()
-            if stripped.startswith("<!--") and ("citation-page" in stripped or "dropbox:" in stripped):
+            if stripped.startswith("<!--") and (
+                "citation-page" in stripped or "dropbox:" in stripped
+            ):
                 meta_lines.append(line)
             elif meta_lines and stripped == "":
                 continue
@@ -227,9 +234,13 @@ def find_article_start_line(lines: list[str]) -> int | None:
     """
     for i, line in enumerate(lines):
         stripped = line.strip()
-        if stripped.startswith("'''Patrozinium:'''") or stripped.startswith("'''Patrozinium:"):
+        if stripped.startswith("'''Patrozinium:'''") or stripped.startswith(
+            "'''Patrozinium:"
+        ):
             return i
-        if stripped.startswith("'''Zum Bauwerk:'''") or stripped.startswith("'''Zum Bauwerk:"):
+        if stripped.startswith("'''Zum Bauwerk:'''") or stripped.startswith(
+            "'''Zum Bauwerk:"
+        ):
             return i
     return None
 
@@ -250,13 +261,14 @@ def find_paragraph_before(lines: list[str], marker_line: int) -> int:
         return marker_line  # No paragraph above
 
     # Now walk upward through the prose paragraph
-    para_end = i
     while i >= 0:
         stripped = lines[i].strip()
         if stripped == "":
             return i + 1
         # Stop at comments, headings, image tags
-        if stripped.startswith("<!--") and ("citation-page" in stripped or "header:" in stripped):
+        if stripped.startswith("<!--") and (
+            "citation-page" in stripped or "header:" in stripped
+        ):
             return i + 1
         if re.match(r"^==\s+.*\s+==$", stripped):
             # This is a section heading — include it as it might be the article title
@@ -276,8 +288,12 @@ def find_next_article_start(lines: list[str], after_line: int) -> int | None:
     """
     for i in range(after_line, len(lines)):
         stripped = lines[i].strip()
-        if (stripped.startswith("'''Patrozinium:'''") or stripped.startswith("'''Patrozinium:")
-                or stripped.startswith("'''Zum Bauwerk:'''") or stripped.startswith("'''Zum Bauwerk:")):
+        if (
+            stripped.startswith("'''Patrozinium:'''")
+            or stripped.startswith("'''Patrozinium:")
+            or stripped.startswith("'''Zum Bauwerk:'''")
+            or stripped.startswith("'''Zum Bauwerk:")
+        ):
             # Found next article boundary — return the paragraph start before it
             return find_paragraph_before(lines, i)
     return None
@@ -305,7 +321,7 @@ def _find_by_name(
 
     for fpath, ftext in ordered_files:
         upper_text = ftext.upper()
-        lines = ftext.splitlines()
+        ftext.splitlines()
         upper_lines = upper_text.splitlines()
 
         if loc_upper not in upper_text:
@@ -313,7 +329,10 @@ def _find_by_name(
 
         # Find each Patrozinium marker and check if location is above it
         for i, uline in enumerate(upper_lines):
-            if not (uline.strip().startswith("'''PATROZINIUM:") or uline.strip().startswith("'''ZUM BAUWERK:")):
+            if not (
+                uline.strip().startswith("'''PATROZINIUM:")
+                or uline.strip().startswith("'''ZUM BAUWERK:")
+            ):
                 continue
             # Check preceding ~30 lines for the location name
             search_start = max(0, i - 30)
@@ -324,14 +343,16 @@ def _find_by_name(
     # Second pass: header comments
     for fpath, ftext in ordered_files:
         upper_text = ftext.upper()
-        lines = ftext.splitlines()
+        ftext.splitlines()
         upper_lines = upper_text.splitlines()
 
         if f"HEADER: {loc_upper}" not in upper_text:
             continue
 
         for i, uline in enumerate(upper_lines):
-            if uline.strip().startswith("'''PATROZINIUM:") or uline.strip().startswith("'''ZUM BAUWERK:"):
+            if uline.strip().startswith("'''PATROZINIUM:") or uline.strip().startswith(
+                "'''ZUM BAUWERK:"
+            ):
                 # Check if a header comment with our location precedes this marker
                 search_start = max(0, i - 30)
                 preceding = "\n".join(upper_lines[search_start:i])
@@ -391,7 +412,11 @@ def collect_article_content(
             for fpath, ftext in page_files:
                 top = extract_citation_page(ftext, "top")
                 bottom = extract_citation_page(ftext, "bottom")
-                if top is not None and bottom is not None and top <= seite_von <= bottom:
+                if (
+                    top is not None
+                    and bottom is not None
+                    and top <= seite_von <= bottom
+                ):
                     start_file = fpath
                     start_text = ftext
                     break
@@ -421,7 +446,11 @@ def collect_article_content(
         # Look for a == HEADING == that might be the article title
         for i, line in enumerate(start_lines):
             stripped = line.strip()
-            if re.match(r"^==\s+[A-ZÄÖÜ]", stripped) and not stripped.startswith("== Befund") and not stripped.startswith("== Beschreibung"):
+            if (
+                re.match(r"^==\s+[A-ZÄÖÜ]", stripped)
+                and not stripped.startswith("== Befund")
+                and not stripped.startswith("== Beschreibung")
+            ):
                 marker_line = i
                 break
 
@@ -447,7 +476,7 @@ def collect_article_content(
     first_file_lines = start_lines[article_start:]
 
     # Check if there's another article starting on the same page after our marker
-    remaining_after_marker = start_lines[marker_line + 1:]
+    start_lines[marker_line + 1 :]
     next_on_same_page = find_next_article_start(start_lines, marker_line + 1)
 
     if next_on_same_page is not None and next_on_same_page > article_start:
@@ -476,7 +505,7 @@ def collect_article_content(
         flines = ftext.splitlines()
 
         # Check if a new article starts on this page
-        this_page_article_start = find_article_start_line(flines)
+        find_article_start_line(flines)
 
         if page_top is not None and page_top > seite_bis:
             break
@@ -650,13 +679,20 @@ def main():
 
         # Collect content
         content = collect_article_content(
-            band_prefix, seite_von, seite_bis, page_index, ordered_files, next_seite_von,
+            band_prefix,
+            seite_von,
+            seite_bis,
+            page_index,
+            ordered_files,
+            next_seite_von,
             bauwerk=bauwerk,
         )
 
         if content is None:
             if args.verbose:
-                print(f"  MISS: {bauwerk} — no matching content for {band_prefix} p{seite_von}")
+                print(
+                    f"  MISS: {bauwerk} — no matching content for {band_prefix} p{seite_von}"
+                )
             missing.append(row)
             skipped += 1
             continue
@@ -673,12 +709,16 @@ def main():
         out_path = out_dir / lemma_filename
 
         if args.dry_run:
-            print(f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}  ({len(article)} chars)")
+            print(
+                f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}  ({len(article)} chars)"
+            )
         else:
             out_dir.mkdir(parents=True, exist_ok=True)
             out_path.write_text(article, encoding="utf-8")
             if args.verbose:
-                print(f"  WROTE: {out_path.relative_to(REPO_ROOT)}  ({len(article)} chars)")
+                print(
+                    f"  WROTE: {out_path.relative_to(REPO_ROOT)}  ({len(article)} chars)"
+                )
 
         written += 1
 
