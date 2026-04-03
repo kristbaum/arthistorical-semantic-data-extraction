@@ -84,39 +84,48 @@ def parse_image_filename(filename: str) -> dict | None:
     }
 
 
-def get_original_pages(chunk_dir_name: str, page: str) -> str:
-    """Read citation-page-top and -bottom from the wiki/ sibling and return a page range.
+def get_original_pages(chunk_dir_name: str, page: str) -> tuple[int | None, int | None]:
+    """Read citation-page-top and -bottom from the wiki/ sibling.
 
-    Returns e.g. '384-385', '266', or '' if the wiki file is missing.
+    Returns (von, bis) as integers, e.g. (384, 385), (266, 266), or (None, None).
     """
     wiki_file = EXTRACTED_DIR / chunk_dir_name / "wiki" / f"{page}.wiki"
     if not wiki_file.is_file():
-        return ""
+        return None, None
 
     text = wiki_file.read_text(encoding="utf-8")
 
     top_m = re.search(r"<!--\s*citation-page-top:\s*\S+\s+p(\d+)\s*-->", text)
     bot_m = re.search(r"<!--\s*citation-page-bottom:\s*\S+\s+p(\d+)\s*-->", text)
 
-    top = top_m.group(1) if top_m else None
-    bot = bot_m.group(1) if bot_m else None
+    top = int(top_m.group(1)) if top_m else None
+    bot = int(bot_m.group(1)) if bot_m else None
 
-    if top and bot and top != bot:
-        return f"{top}-{bot}"
-    return top or bot or ""
+    if top is not None and bot is not None:
+        return top, bot
+    val = top if top is not None else bot
+    return val, val
 
 
-def build_description(band: str, chunk: str, page: str, original_pages: str) -> str:
+def build_description(
+    band: str, chunk: str, page: str, orig_von: int | None, orig_bis: int | None
+) -> str:
     """Return the MediaWiki wikitext description for the image."""
-    band_num = band.removeprefix("Band")
-    chunk_num = chunk.removeprefix("chunk")
-    page_num = page.removeprefix("p")
+    # "Band12-2" → strip prefix → "12-2" → remove "-" → "122"
+    # "Band01"   → strip prefix → "01"   → remove "-" → int → 1
+    band_raw = band.removeprefix("Band").replace("-", "")
+    band_val = int(band_raw) if band_raw.isdigit() else band_raw
+
+    chunk_val = int(chunk.removeprefix("chunk"))
+    page_val = int(page.removeprefix("p"))
+
     lines = [
         "{{BildQuelle",
-        f"|Band={band_num}",
-        f"|Chunk={chunk_num}",
-        f"|Chunkseite={page_num}",
-        f"|Originalseiten={original_pages}",
+        f"|Band={band_val}",
+        f"|Chunk={chunk_val}",
+        f"|Chunkseite={page_val}",
+        f"|Originalseitenvon={orig_von}",
+        f"|Originalseitenbis={orig_bis}",
         "}}",
     ]
     return "\n".join(lines)
@@ -149,9 +158,9 @@ def iter_images(band_filter: str | None = None):
             if meta is None:
                 continue
 
-            original_pages = get_original_pages(meta["chunk_dir_name"], meta["page"])
+            orig_von, orig_bis = get_original_pages(meta["chunk_dir_name"], meta["page"])
             description = build_description(
-                meta["band"], meta["chunk"], meta["page"], original_pages
+                meta["band"], meta["chunk"], meta["page"], orig_von, orig_bis
             )
 
             yield img_path, meta, description
