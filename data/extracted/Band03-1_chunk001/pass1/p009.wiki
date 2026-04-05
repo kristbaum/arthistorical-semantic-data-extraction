@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=9 -->
+<!-- citation-page-top: Band03-1 p16 -->
+
 {| class="wikitable"
 |-
 | denreich u. Karl August Wirth, Stuttgart Schmidtsche Kanonicus-Schmidtische Matrikel des 1937 ff. Matrikel Bistums Freysing vom Jahre 1738 bis 1740, in: Die älteren Matrikeln des Bistums Freysing, hg. von Dr. Martin von Deutinger, Bd 1-2 München 1849, Bd 5 München 1850.
@@ -47,3 +50,4 @@
 
 
 STADT MÜNCHEN INNENSTADT
+<!-- citation-page-bottom: Band03-1 p17 -->

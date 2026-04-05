@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk001.pdf#page=9 -->
+<!-- citation-page-top: Band05 p16 -->
+
 {| class="wikitable"
 |-
 | Paula Paula, Georg, Johann Georg Dieffenbrunner, Leben und Werk (= Studien, Reihe Kunstgeschichte, Bd 8), München 1983.

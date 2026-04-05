@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band07 p12 -->
+
 == ZUR BENUTZUNG ==
 
 
@@ -84,7 +87,4 @@ Chronogramme haben durch Schriftgröße hervorgehobene Zahlbuchstaben.
 Inschriften und Signaturen werden originalgetreu ohne Korrekturen wiedergegeben. Historische Schreibweisen mit Kürzungen, Kürzeln oder Ligaturen werden aufgelöst (z. B. Zimermann = Zimmermann). Ungewisse Lesarten sind durch (?) gekennzeichnet. Ergänzungen nicht mehr vorhandene Inschriftstellen werden durch eckige Klammern ausgewiesen.
 
 Literatur- und Quellenzitate stehen in »«, Begriffe, im Text zitierte Bildtitel und Zitate im Zitat in ×.
-
-
-----
-I 3
+<!-- citation-page-bottom: Band07 p13 -->

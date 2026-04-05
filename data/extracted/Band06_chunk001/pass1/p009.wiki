@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk001.pdf#page=9 -->
+<!-- citation-page-top: Band06 p16 -->
+
 {| class="wikitable"
 |-
 | statuarii, colatores, plastae, fusores, Ripa 1611 Cesare Ripa, Iconologia overo descrittione di diverse Imagini cavate dall'antichità e di propria inventione. Erste illustrierte Ausgabe Rom 1611, Reprint New York-London 1976.

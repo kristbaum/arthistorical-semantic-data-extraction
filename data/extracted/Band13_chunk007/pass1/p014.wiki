@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=14 -->
+<!-- citation-page-top: Band13 p326 -->
+
 == KOTTINGWORTH ==
 
 
@@ -47,3 +50,4 @@ Die barocke Kirche, ein schmaler zweiachsiger Saal (ca 10×7m) mit dem noch best
 
 
 [[File:Band13_chunk007_p014_img001.jpg|thumb|Der Kirchenraum]]
+<!-- citation-page-bottom: Band13 p327 -->

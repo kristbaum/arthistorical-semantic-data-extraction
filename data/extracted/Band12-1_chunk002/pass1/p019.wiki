@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=19 -->
+<!-- citation-page-top: Band12 p86 -->
+
 == BAIERBACH ==
 
 
@@ -46,3 +49,4 @@ B BÜSSENDE MAGDALENA Magdalena ist in einer Höhle in der Wüste dargestellt, v
 C ERHEBUNG DER HL. MAGDALENA Die Heilige schwebt in der Bildmitte, umgeben von Engeln auf Wolken; zwei davon fassen sie an den Armen und erheben sie. Zu Füßen Magdalenas sieht man Totenschädel und Salbgefäß, in der Mitte einen Engel mit Speisen. In einer Glorie erscheinen Gottvater und Christus, von Engeln und Putten begleitet.
 
 1–8 MAGDALENA-SZENEN Je vier Ovalmedaillons in den Gewölbezwickeln des LHs und des AR zeigen Szenen aus der Legende der hl. Magdalena, die in fast allen Szenen durch das Salbgefäß gekennzeichnet ist.
+<!-- citation-page-bottom: Band12 p87 -->

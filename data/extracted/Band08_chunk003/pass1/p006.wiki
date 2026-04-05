@@ -14,8 +14,4 @@
 
 
 IIC
-
-
-----
-III
 <!-- citation-page-bottom: Band08 p111 -->

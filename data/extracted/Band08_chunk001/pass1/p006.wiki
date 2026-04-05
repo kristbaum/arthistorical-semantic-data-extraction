@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=6 -->
+<!-- citation-page-top: Band08 p10 -->
+
 == ZUR BENUTZUNG ==
 
 Das Corpus der barocken Deckenmalerei in Deutschland veröffentlicht nach unten aufgeführten Gesichtspunkten und nach einem festen Schema Deckenbilder des Barock in Deutschland. Das Ende des Dreißigjährigen Krieges einerseits und andererseits der Reichsdeputationshauptschluß geben zeitliche Begrenzungen ab, die keine scharfen Trennungslinien sind, innerhalb derer aber ein nach Konzeption und anschaulichem Bestand kontingentes Material vorliegt. Es wird innerhalb dieser Epoche größtmögliche Vollständigkeit angestrebt; davor oder danach entstandene Denkmäler werden aufgenommen, wenn sie auf das Phänomen der barocken Deckenmalerei vorbereiten oder in deren Tradition stehen. Unter Deckenmalerei werden unabhängig von der Maltechnik wie auch der Beschaffenheit des Trägers Bilder verstanden, die sich an Decken befinden. Wenn es der Kontext erfordert, werden außer den an der Decke befindlichen Bildern auch Wandbilder und Bilder an (Emporen-) Brüstungen aufgenommen.
@@ -76,3 +79,4 @@ Chronogramme haben durch Fettdruck hervorgehobene Zahlbuchstaben.
 Inschriften und Signaturen werden originalgetreu ohne Korrekturen wiedergegeben. Historische Schreibweisen mit Kürzungen, Kürzeln oder Ligaturen werden aufgelöst (z.B. Zimerman = Zimmermann). Ungewisse Lesarten sind durch (?) gekennzeichnet. Ergänzungen nicht mehr vorhandener Inschriftstellen werden durch eckige Klammern ausgewiesen.
 
 Literatur- und Quellenzitate stehen in »«, Begriffe, im Text zitierte Bildtitel und Zitate im Zitat in ×.
+<!-- citation-page-bottom: Band08 p11 -->

@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=8 -->
+<!-- citation-page-top: Band03-2 p14 -->
+
 == Bibliographische Abkürzungen ==
 
 
@@ -245,3 +248,4 @@ Zitiert sind die jeweils benutzten Ausgaben und Auflagen
 |-
 | Klöster.
 |}
+<!-- citation-page-bottom: Band03-2 p15 -->

@@ -34,7 +34,4 @@ Alb 447 Aurach 454 Allgau 451 Bayrischzell 455 Birkenstein 463 Elbach 465 Fischb
 
 
 Ortsregister 635 Personenregister 639 Ikonographisches Register 643 Embleme-Register 655 Orientierungskarte 658/659
-
-
-----
 <!-- citation-page-bottom: Band02 p9 -->

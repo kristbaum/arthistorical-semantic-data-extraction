@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=14 -->
+<!-- citation-page-top: Band01 p126 -->
+
 == LANDSBERG AM LECH ==
 
 
@@ -55,3 +58,4 @@ A ST. VEIT ALS PATRON DER PFARREI Einansichtige Bildanlage, Basis im Westen. —
 Die Hauptfiguren des Bildes, Maria mit dem Jesusknaben und der hl. Veit, sind auf horizontalen Wolkenbänken untereinander wiedergegeben — im Sinne einer mittelalterlichen Heiligenverehrung, bei welcher die Muttergottes als Patronin der Stadt und der hl. Veit als Nebenpatron dargestellt werden. 
 
 [[File:Band01_chunk003_p014_img001.jpg|thumb|A St. Veit Patron der Pfarre]]
+<!-- citation-page-bottom: Band01 p127 -->

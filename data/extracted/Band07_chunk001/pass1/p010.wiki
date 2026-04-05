@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk001.pdf#page=10 -->
+<!-- citation-page-top: Band07 p18 -->
+
 {| class="wikitable"
 |-
 | Schiller | Gertrud Schiller, Ikonographie der christlichen Kunst, Bde 1–5, Gütersloh 1966ff.
@@ -29,3 +32,4 @@ Langhaus zu fünf Jochen, Gliederung durch Pilaster vor Wandvorlagen. Eingänge 
 Der Kostenvoranschlag Heigls lautet: »Überschlag. Was über Ausmahlung des Lobwürdigen Pfarrgottshaus Altenerting an Unkosten erlauffen mechte. Verfast 1766. Erstlich mues ins Chor ein Feld von 26 Schuh lang, und 13 Schuh breit gemahlen: und darein Maria Verkündung vorgestelt werden. Zweytens ist im Langhaus ein Feld, die Königin der Englen und aller Heyligen vorstehlend, auf 66 Schuh lang, und 20 Schuh breit zu mahlen. Drittens wird im Chor, und Langhaus um die 2 Hauptfelder herum ein auf Stockador-Art gemahlene Ram von gueten Farben, und schönsten Zierathen verfertiget. Vierttens komt das Loch zur Himelfahrt Christi, mit Englen, und einer Glori sauber auszumahlen. Fünftens«
 
 [[File:Band07_chunk001_p010_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band07 p19 -->

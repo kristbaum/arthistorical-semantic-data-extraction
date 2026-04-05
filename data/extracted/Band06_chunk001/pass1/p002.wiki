@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk001.pdf#page=2 -->
+<!-- citation-page-top: Band06 p2 -->
+
 == Hermann Bauer · Frank Büttner · Bernhard Rupprecht CORPUS DER BAROCKEN DECKENMALEREI IN DEUTSCHLAND ==
 
 
@@ -16,3 +19,4 @@ Hirmer Verlag München 1998
 
 ----
 Hirmer Verlag München 1998
+<!-- citation-page-bottom: Band06 p3 -->

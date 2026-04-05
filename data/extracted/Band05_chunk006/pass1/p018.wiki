@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=18 -->
+<!-- citation-page-top: Band05 p284 -->
+
 == WALKERTSHOFEN ==
 
 
@@ -43,3 +46,4 @@ Maße: A Höhe 5,70 m; 5,50 × 4,90
 B Höhe 5,50 m; 5,00 × 1,90
 
 Erhaltungszustand und Restaurierungen: Die Ausmalung
+<!-- citation-page-bottom: Band05 p285 -->

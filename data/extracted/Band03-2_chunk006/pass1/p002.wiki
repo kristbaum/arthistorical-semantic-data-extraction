@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=2 -->
+<!-- citation-page-top: Band03-2 p252 -->
+
 {| class="wikitable"
 |-
 | andre runde Stucke, wo der Mercurius, samt den
@@ -260,8 +263,4 @@ IX (Inv. Nr. 10475) 1,72 × 2,30 m oval
 IX<sub>a</sub> (Inv. Nr. 10477) 1,30 × 1,00 m ova Wandhilder
 
 IX<sub>1</sub> (Inv. Nr. 10515) 0,84 × 0,57 m ova
-
-
-----
-0 = 9
 <!-- citation-page-bottom: Band03-2 p253 -->

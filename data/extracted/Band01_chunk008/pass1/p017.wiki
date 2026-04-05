@@ -1,4 +1,7 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=17 -->
+<!-- citation-page-top: Band01 p382 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=17 -->
 
 == Befund ==
 
@@ -43,3 +46,4 @@ C IMMACULATA CONCEPTIO Über dem östlichen Rahmen, der durch ein schmales gemal
 [[File:Band01_chunk008_p017_img007.jpg|thumb]]
 
 [[File:Band01_chunk008_p017_img008.jpg|thumb|B Himmelfahrt Marien]]
+<!-- citation-page-bottom: Band01 p383 -->

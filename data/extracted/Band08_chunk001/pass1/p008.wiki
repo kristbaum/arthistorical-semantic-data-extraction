@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=8 -->
+<!-- citation-page-top: Band08 p14 -->
+
 {| class="wikitable"
 |-
 | Acta Sanctorum, ed. Johannes Bollandus\net alii, Antwerpen 1643–1780, ab Oktober Tomus 5 Brüssel 1786 ff.
@@ -94,3 +97,4 @@ Aurenhammer
 | OAVG, OA | Oberbayerisches Archiv für vaterländische Geschichte, hg. vom historischen Verein von und für Oberbayern, München 1839 ff.; ab Bd 85: Oberbayerisches Archiv, München 1962 ff.
 |-
 | Oefeleana | Andreas Felix von Oefele, Nachlaß seiner Schriften, ca. 1735–58, BSB 5, I–XXVIII: Adversaria historiae Bavaricae, Notizensammlung zu einer bayerischen Biographie. 5,V: mit zahlreichen Notizen über bayerische Künstler, besonders Maler des 17. Jh. 5,VI: Complexus artifices maxime pictores. 14: Bibliotheca pictoriae, statuariae et chalcographicae artis, Sammlung über bildende Künstler und kunstge.
+<!-- citation-page-bottom: Band08 p15 -->

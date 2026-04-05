@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk001.pdf#page=9 -->
+<!-- citation-page-top: Band07 p16 -->
+
 {| class="wikitable"
 |-
 | AASS Acta Sanctorum, ed. Johannes Bollandus Comes Natalis Comitis Mythologiae, sive expli-<br>cationum fabularum libri decem ..., Venedig 1567. Reprint (The Renaissance and the Gods Nr. 11) New York & London 1976.

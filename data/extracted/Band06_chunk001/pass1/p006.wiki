@@ -93,9 +93,4 @@ Literatur- und Quellenzitate stehen in »«, Begriffe, im Text zitierte Bildtite
 
 ----
 IC
-
-
-
-----
-TT
 <!-- citation-page-bottom: Band06 p11 -->

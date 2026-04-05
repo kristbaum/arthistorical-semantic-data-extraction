@@ -292,3 +292,4 @@ Zucalli, Enrico, Baumeister 19, 57, 64, 214
 Zwerger, Philipp, Maurermeister 191, 214  
 Zwerger, Wolfgang, Baumeister 97  
 Zwinck, Franz Seraph, Maler 61
+<!-- citation-page-bottom: Band03-1 p281 -->

@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=6 -->
+<!-- citation-page-top: Band04 p160 -->
+
 == GRUNERTSHOFEN ==
 
 
@@ -46,3 +49,4 @@ Kemp, S. 203
 Dehio 1990, S. 385
 
 B. 3
+<!-- citation-page-bottom: Band04 p161 -->

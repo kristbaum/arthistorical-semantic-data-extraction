@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=18 -->
+<!-- citation-page-top: Band07 p334 -->
+
 {| class="wikitable"
 |-
 | Berufung der Zebedäus-Söhne 120, 323
@@ -410,3 +413,4 @@ Höllestrafe 200
 Hoheslied 166  
 Hoherpriester 249, 266 f., 278, 300  
 Holler, Holunder
+<!-- citation-page-bottom: Band07 p335 -->

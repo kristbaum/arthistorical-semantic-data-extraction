@@ -32,3 +32,4 @@ Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir da
 Dem Hirmer Verlag und auch Herrn Albert Hirmer selbst sind wir zu großem Dank für die verlegerische Betreuung verpflichtet. Frau Katja Durchholz betrieb mit fachlichem Können, künstlerischem Geschick und großem persönlichen Einsatz die Herstellung des Bandes.
 
 Frank Büttner und Bernhard Rupprecht
+<!-- citation-page-bottom: Band10 p7 -->

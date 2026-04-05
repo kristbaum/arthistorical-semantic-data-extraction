@@ -35,6 +35,4 @@
 
 ----
 IOC
-
----- 
 <!-- citation-page-bottom: Band06 p101 -->

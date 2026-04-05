@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk010.pdf#page=10 -->
+<!-- citation-page-top: Band13 p468 -->
+
 == Embleme-Register ==
 
 
@@ -10,3 +13,4 @@ Sense 309 Sonne 284, 300, 304, 309, 350, 358, 368 Sonnenuhr 418 Spiegel 417f. St
 Modico contenta redundant 408 Mors malis vita bonis 409 Non alia est, sed pulchrior Ales 238 Non arbiter unius unus 417 Non sibi, sed aliis 421 Nova haec esse proximae primae 238 Nunquam absque corona 420 Omnis gloria ab intus 407 Ora! Urget id hora 406 Ostendere sufficit 408 Perficit umbra 418 Plusque minusque nocet 407 Protegi urbem 356 Proxima prima 284, 358 Quam bene conveniunt 420 Quae mergitur eminet undis 419 Quia mirabilia fecit 407 Regit quia fixa polo 301 Secum accepta refundit 420 Sensumque consonantes 407 Sequor aemula fratrem 405 Servantur Servanti 407 Sic nocuisse iuvat 406 Sic itur ad astra 408 Sic vos non vobis 418f. Simplicis terribile 306 Sola capax solis 301 Soliciti servare unitatem 168 Summa petit 302 Sursum aut non sum 408 Tantum caelum querit 301 Tollit amor sursum 303 Trahe me post te 167 Unica viva 358 Uta tua sint, mea sunt 405 Vis moderamine maior 416 Vitam illustrans 424
 
 DEUTSCHE LEMMATA Allß erlanget der Herr 310 Dem Baum ohn Fricht dass billich geschicht 310 Dem Spiegl trau./Und dich beschau/diß ist dein Gsalt – seist jung seist alt 312 Der Frichten Schatz hat da nur Blatz 310 Die Lebens Frist/ein Schiffarth ist/Ains frihe ain spath/gelangt zum Gstadt 312 Eine ins gmein wird dleste sein 309 Is dSchuld auch kleyn – zalet mueß seyn 311 Nach zahlter Schuldt – der Freyheit Huldt 311 Schneidt als zu sam ohne aus nam 309 Was auch haar klein, zeigt dißer schein 309 Was falsch/was guet. Entscheided Godt 309
+<!-- citation-page-bottom: Band13 p469 -->

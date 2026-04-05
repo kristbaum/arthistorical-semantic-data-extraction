@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band06 p12 -->
+
 == ABKURZUNGEN ==
 
 
@@ -156,7 +159,4 @@ nach der Vulgata Clementina in der Neuausgabe Madrid 1965 dazu deutsche Bezeichn
 | Hab Habacuc Habakuk, Apoc Apocalypsis Offenbarung des Johannes
 |-
 | }
-
-
-----
-I 3
+<!-- citation-page-bottom: Band06 p13 -->

@@ -1,4 +1,7 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=5 -->
+<!-- citation-page-top: Band04 p108 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=5 -->
 
 
 
@@ -20,3 +23,4 @@
 ED<sub>9</sub> NEUNTES GEBOT »Du sollst nicht begehren deine Nächsten Weib«. »Du sollst nicht begehren deines Nächsten Weib«. David begehrt die Frau des Urias, die er im Bad erblickt (2 Sam 11,2–5).
 
 ED<sub>10</sub> ZEHNTES GEBOT »Du sollst nicht begehren deines Nächsten Hab und Gut«. »Du sollst nicht begehren deines Nächsten Hab und Gut«. Achab begehrt den Weingarten Nabots, den er sich unrechtmäßig aneignet (3 Reg 21).
+<!-- citation-page-bottom: Band04 p109 -->

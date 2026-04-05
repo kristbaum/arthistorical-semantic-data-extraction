@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=9 -->
+<!-- citation-page-top: Band04 p16 -->
+
 {| class="wikitable"
 |-
 | artis, Sammlung über bildende Künstler Einleitung von Erna Mandowsky, Hildes-
@@ -130,3 +133,4 @@
 |-
 | 16
 |}
+<!-- citation-page-bottom: Band04 p17 -->

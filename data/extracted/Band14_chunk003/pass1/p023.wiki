@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=23 -->
+<!-- citation-page-top: Band14 p144 -->
+
 == INGOLSTADT VERLORENE DECKENMALEREIEN ==
 
 [[File:Band14_chunk003_p023_img001.jpg|thumb|Stuckdetails aus der Decke, links Wappenkartusche, rechts Sternkreiszeichen Krebs]]
@@ -61,3 +64,4 @@ Technik: unbekannt
 Maße: Höhe 3,20 m; 4,10 × 2,00
 
 Erhaltungszustand und Restaurierungen: Das Bildfeld ist weiß übertüncht; lediglich an zwei Stellen sind kleinformatige Freilegungen zu konstatieren. Wann das Deckengemälde übertüncht wurde, ist unklar. Frühere Zustände dokumentieren eine Zeichnung aus der Zeit vor bzw. von 1903 und ein Foto, das vor der Übertragung in die Hohe Schule aufgenommen wurde. Man darf wohl von einer Bemalung des Bildfeldes zur Zeit der Entstehung ausgehen. 1903 kaufte laut rückseitiger Beschriftung der Historische Verein Ingolstadt eine großformatige Tuschzeichnung, die der Dresdner Maler Oskar Rothe von der Stuckdecke – damals noch im Anwesen Theresienstraße 23 – angefertigt hatte (Stadtmuseum Ingolstadt, Graphische Sammlung II/36a, 55 × 39,5 cm, bez. gez. v. O. Rothe). Eine Dresdner Vereinigung hatte sich für die Restaurierung eingesetzt
+<!-- citation-page-bottom: Band14 p145 -->

@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=18 -->
+<!-- citation-page-top: Band04 p284 -->
+
 == ORTSREGISTER ==
 
 Unteralting 140  
@@ -146,3 +149,4 @@ Kemeter, Simon Judas Thaddäus, Benefiziat 39-40
 Kirzinger, Franz Seraph, Maler 269-73  
 Kitzinger, Josef Gustav, Kirchenmaler 22  
 Klarner, Klaus, Restaurator 178
+<!-- citation-page-bottom: Band04 p285 -->

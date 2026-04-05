@@ -1,4 +1,7 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=3 -->
+<!-- citation-page-top: Band12 p354 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=3 -->
 
 == LIPPERTSKIRCHEN ==
 
@@ -51,3 +54,4 @@ Bergmaier, Peter, Au bei Aibling – Filialen, in: Der Mangfallgau 12, 1967, S. 
 Knorre, Eckhard von, Neue Beiträge zu Joseph Hauber, in: Zeitschrift des historischen Vereins für Schwaben Bd 75, 1981, S. 124–67 (mit ergänzendem Werkverzeichnis). Dehio 1990, S. 603 f.
 
 Hösch, Karin, Lippertskirchen Maria Morgenstern (= Peda Kunstführer Nr. 201), Passau 2004 (mit Heranziehung aller Quellen). A. B./K
+<!-- citation-page-bottom: Band12 p355 -->

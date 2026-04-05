@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk013.pdf#page=8 -->
+<!-- citation-page-top: Band03-2 p614 -->
+
 == Embleme-Register ==
 
 
@@ -30,3 +33,4 @@ Nec ausibus impar 283 Nec de occupatione causari 232 Nec in arido deficit 296 Ne
 Occulta ex arte triumphus 282, 391 Omnes devorat una meas 287 Omnes in unum 294 Omnibus affluenter 296 Omnibus idem 232 Optima quaeque latent 289 Orbem implebit utrumque 287 Orbis non sufficit unus 287
 
 Pace bidens vomerque vigent 284 Parta tenens non farta sequens 359 Paveat quos pavit 359 Pax omnes promovet una 284 Peperit discordia foedus 266 Per aures, per nares, quem effundit, spiritu recipit 231 Per desìo di beltà m'è specchio un fonte 268 Pereant ne peream 266 Plena sibi et aliis 296 Plures cantu 295 Plus vident oculi, quam oculus 231 Polleat auditu, qui pollet imperio 232 Pondere et mensura regit 289 Potior pax mille triumphis 285 Potius mori quam foedari 266 Praeceps quia praepes 289 Praesidium castitatis 284 Praesidium et decus 295 Premit non opprimit 264
+<!-- citation-page-bottom: Band03-2 p615 -->

@@ -1,4 +1,7 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=5 -->
+<!-- citation-page-top: Band01 p158 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=5 -->
 <!-- header: LANDSBERG AM LECH -->
 
 
@@ -35,3 +38,4 @@ Erhaltungszustand und Restaurierungen: 1931 durch X. Schmid, 1966 durch A. Dasse
 
 
 [[File:Band01_chunk004_p005_img003.jpg|thumb|B Patrone St. Leonhard und St. Wendelin]]
+<!-- citation-page-bottom: Band01 p159 -->

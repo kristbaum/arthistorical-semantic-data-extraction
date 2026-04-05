@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=7 -->
+<!-- citation-page-top: Band13 p12 -->
+
 == ABKURZUNGEN ==
 
 == Allgemeine Abkürzungen ==
@@ -151,3 +154,4 @@ nach der Vulgata Clementina in der Neuausgabe Madrid 1965 dazu deutsche Bezeichn
 |-
 | 1 Tim 1 Epistola ad Timotheum 1. Timotheusbrief<br>2 Tim 2 Epistola ad Timotheum 2. Timotheusbrief<br>Tit Epistola ad Titum Titusbrief<br>Philem Epistola ad Philemonem Philemonbrief
 |}
+<!-- citation-page-bottom: Band13 p13 -->

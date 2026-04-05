@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=18 -->
+<!-- citation-page-top: Band13 p184 -->
+
 == EICHSTÄTT FRAUENBERGKAPELLE ==
 
 [[File:Band13_chunk004_p018_img001.jpg|thumb|1 Geburt Mariens]]
@@ -35,3 +38,4 @@ Grund, Claudia, Die Frauenbergkapelle zu Eichstätt, hg. von der Dompfarrei Eich
 Dehio OB 1990, S. 228f.; 2006, S. 246.
 
 CG
+<!-- citation-page-bottom: Band13 p185 -->

@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=9 -->
+<!-- citation-page-top: Band14 p16 -->
+
 {| class="wikitable"
 |-
 | Pauly Der kleine Pauly. Lexikon der Antike auf
@@ -167,3 +170,4 @@ Kaiser Ludwig der Bayer hatte 1319 das Spital zu Ehren der Jungfrau Maria und de
 Am Ende des 16. Jh. wurde die gesamte Wandfläche der Spitalkirche, inklusive der Emporenbrüstung, mit heilsgeschichtlichen Darstellungen bemalt: Szenen aus dem Leben Jesu, Marienszenen, an der Emporenbrüstung die Passion Jesu. An der Westwand, auf der Höhe der Empore, erscheint im südlichen Drittel Jesus als Salvator Mundi, im nördlichen Drittel Maria als Schutzmantelmadonna. An die zehn freistehenden Rundpfeiler der Hallenkirche und, als Ergänzung, an das mittlere Wandstück auf der Empore wurden die Einzelfiguren der zwölf Apostel gemalt (Spiegel, S. 22-37). Als ausführender Meister, der aber nicht allein arbeitete, wird der Ingolstädter Maler Caspar Freisinger († 1599) in näheren Betracht gezogen (H. Kuhn, S. 38; Hofmann 1985, S. 11). Bereits 1663 verschwand diese Ausmalung unter einer Übertünchung (Spiegel S. 22) und wurde erst 1904 entdeckt und anschließend freigelegt.
 
 Die drei östlichen Joche der Spitalkirche beherbergen den Hochaltar (ausgehendes 17. Jh.) und die beiden Seitenaltäre (Mitte 17. Jh.). Der Hochaltar, dem Hl. Geist geweiht, enthält ein Altarblatt mit der Darstellung des Pfingstwunders, signiert.
+<!-- citation-page-bottom: Band14 p17 -->

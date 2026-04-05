@@ -102,9 +102,4 @@ Literatur- und Quellenzitate stehen in »«, Begriffe, im Text zitierte Bildtite
 
 ----
 IC
-
-
-
-----
-TI
 <!-- citation-page-bottom: Band14 p11 -->

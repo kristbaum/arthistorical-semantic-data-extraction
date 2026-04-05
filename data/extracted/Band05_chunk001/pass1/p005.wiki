@@ -56,8 +56,4 @@ Ortsregister 305
 Personenregister 307  
 Ikonographisches Register 310  
 Embleme-Register 318
-
-
-----
-Q
 <!-- citation-page-bottom: Band05 p9 -->

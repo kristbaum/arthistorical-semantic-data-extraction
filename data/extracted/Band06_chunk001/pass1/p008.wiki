@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk001.pdf#page=8 -->
+<!-- citation-page-top: Band06 p14 -->
+
 == Bibliographische Abkürzungen ==
 
 == Zitiert sind die jeweils benutzten Ausgaben und Auflagen ==
@@ -330,9 +333,4 @@ Kunsttopographie des Erzbistums München und Freising, hg. vom Kunstreferat (ung
 
 der
 |}
-
-
-
-----
-I
-</div>
+<!-- citation-page-bottom: Band06 p15 -->

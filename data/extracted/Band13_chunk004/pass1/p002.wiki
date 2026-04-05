@@ -98,9 +98,4 @@ A.B.
 
 ----
 IS
-
-
-
-----
-ISS
 <!-- citation-page-bottom: Band13 p153 -->

@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=9 -->
+<!-- citation-page-top: Band09 p16 -->
+
 {| class="wikitable"
 |-
 | Felix Joseph Lipowsky, Baierisches Künstlerlexikon
@@ -152,3 +155,4 @@
 |-
 | Joseph Anton Zimmermann, Chur-Bayerisch-geistlicher Calender, Bd 1–5, 1754–1758 (Bd 2 Rentamt Burghausen).
 |}
+<!-- citation-page-bottom: Band09 p17 -->

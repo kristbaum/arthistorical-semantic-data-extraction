@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=23 -->
+<!-- citation-page-top: Band07 p344 -->
+
 == EMBLEME-REGISTER ==
 
 Sonne trocknet Tau 123f. Sonnenblume 46, 49, 77f., 115f., 151f., 205, 242, 324, 327 Stämmchen mit zwei Reisern 314, 326 
@@ -52,3 +55,4 @@ Tegit et protegit 234 Terrae commercia nescit Terrena sordent 77, 242 Tibi soli 
 Una salutis 310 Unica spes 307 Unum aspicit astram 124 
 
 Victorum Genus optimum 37 Vincta feracior 123 Vis ipsa torturae fidem facit animosam 70 Voce excudit umbras 244
+<!-- citation-page-bottom: Band07 p345 -->

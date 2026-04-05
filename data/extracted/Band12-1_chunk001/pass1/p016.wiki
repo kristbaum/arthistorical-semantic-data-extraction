@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk001.pdf#page=16 -->
+<!-- citation-page-top: Band12 p30 -->
+
 == ALBACHING ==
 
 
@@ -56,3 +59,4 @@ Die Kloster- und Wirtschaftsgebäude einschließlich des Grundbesitzes wechselte
 
 [[File:Band12-1_chunk001_p016_img001.jpg|thumb]]  
 [[File:Band12-1_chunk001_p016_img002.jpg|thumb|Der Kirchenraum]]
+<!-- citation-page-bottom: Band12 p31 -->

@@ -94,10 +94,14 @@ def fix_file(pass1_file: Path, *, dry_run: bool = False) -> tuple[bool, int]:
                     pass1_text = pass1_text.rstrip() + "\n" + m.group(1) + "\n"
                     meta_modified = True
 
-    # Clean footer junk (---- and OCR noise before citation-page-bottom)
-    pass1_text, footer_removed = clean_footer(pass1_text)
+    # Clean footer junk (---- and OCR noise before citation-page-bottom).
+    # Small removals (≤18 chars) are applied automatically; larger ones are
+    # surfaced as suggestions in the caller.
+    cleaned_text, footer_removed = clean_footer(pass1_text)
+    if footer_removed <= 18 and footer_removed > 0:
+        pass1_text = cleaned_text
 
-    if (meta_modified or footer_removed > 0) and not dry_run:
+    if (meta_modified or (0 < footer_removed <= 18)) and not dry_run:
         pass1_file.write_text(pass1_text, encoding="utf-8")
 
     return meta_modified, footer_removed
@@ -105,19 +109,25 @@ def fix_file(pass1_file: Path, *, dry_run: bool = False) -> tuple[bool, int]:
 
 def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--dry-run", action="store_true", help="Report changes without writing.")
-    parser.add_argument("--verbose", "-v", action="store_true", help="Print each fixed file.")
+    parser.add_argument(
+        "--dry-run", action="store_true", help="Report changes without writing."
+    )
+    parser.add_argument(
+        "--verbose", "-v", action="store_true", help="Print each fixed file."
+    )
     args = parser.parse_args(argv)
 
     fixed = 0
     checked = 0
     footers_cleaned = 0
+    possible_footer_fixes: list[tuple[Path, int]] = []
 
     missing_wiki = 0
 
     # Group chunk dirs by band prefix to identify last chunk per band
     chunk_dirs = sorted(
-        d for d in EXTRACTED_DIR.iterdir()
+        d
+        for d in EXTRACTED_DIR.iterdir()
         if d.is_dir() and "_chunk" in d.name and (d / "pass1").is_dir()
     )
     last_chunk_per_band: set[Path] = set()
@@ -152,16 +162,28 @@ def main(argv: list[str] | None = None) -> None:
                 if args.verbose:
                     prefix = "WOULD FIX" if args.dry_run else "FIXED"
                     print(f"  {prefix}: {wiki_file.relative_to(REPO_ROOT)}")
-            if footer_chars > 10:
+            if 0 < footer_chars <= 18:
                 footers_cleaned += 1
                 prefix = "WOULD CLEAN" if args.dry_run else "CLEANED"
-                print(f"  {prefix} FOOTER: {wiki_file.relative_to(REPO_ROOT)} ({footer_chars} chars)")
+                print(
+                    f"  {prefix} FOOTER: {wiki_file.relative_to(REPO_ROOT)} ({footer_chars} chars)"
+                )
+            elif footer_chars > 18:
+                possible_footer_fixes.append((wiki_file, footer_chars))
 
     print(f"\nChecked {checked} pass1 files")
     print(f"  Metadata {'would fix' if args.dry_run else 'fixed'}: {fixed}")
-    print(f"  Footers {'would clean' if args.dry_run else 'cleaned'}: {footers_cleaned}")
+    print(
+        f"  Footers {'would clean' if args.dry_run else 'cleaned'}: {footers_cleaned}"
+    )
     if missing_wiki:
         print(f"  Missing wiki files: {missing_wiki}")
+    if possible_footer_fixes:
+        print(
+            f"\nPossible footer fixes (>18 chars removed, not applied — {len(possible_footer_fixes)} files):"
+        )
+        for path, chars in possible_footer_fixes:
+            print(f"  {path.relative_to(REPO_ROOT)} ({chars} chars)")
 
 
 if __name__ == "__main__":

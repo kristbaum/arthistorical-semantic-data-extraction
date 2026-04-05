@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=7 -->
+<!-- citation-page-top: Band13 p162 -->
+
 == EICHSTÄTT NOTRE DAME ==
 
 3 LONGINUS In der Mitte des Bildes ragt das Kreuz in einen bewölkten Himmel auf. Vor den Kreuzbalken schwebt das Herz Jesu, ein Kranz von Strahlenbündeln geht von ihm aus. Aus seiner Seitenwunde fallen Blutstropfen – hinab auf Longinus. Ein Putto und Engelsköpfchen umgeben das Kreuz. Von untern heransteigend ist der Hauptmann, von hinten gesehen und vom Bildrahmen überschnitten, wiedergegeben. Ein grüner Rock und ein hellroter Mantel umgeben in weiten Schwüngen seine Gestalt. Das gegürtete Schwert, Helm, Armspangen und Lanze bezeichnen den römischen Hauptmann. Betroffen zum blutenden Herzen aufblickend lässt Longinus beide Hände sinken. Neben dem Kreuz verfinstern sich die Wolken, die dunkelrot glühende Sonne ist über dem Mantel des Longinus sichtbar.
@@ -13,3 +16,4 @@ In den vier schmalen Bildfeldern zwischen Kuppelgesims und Fenstern sind – äh
 6 S. / CAROLUS / BORROMAE/US Der Schauplatz ist bühnenmäßig mit einem um Säulen drapierten Vorhang gestaltet. 
 
 [[File:Band13_chunk004_p007_img002.jpg|thumb|6 Karl Borromäus]]
+<!-- citation-page-bottom: Band13 p163 -->

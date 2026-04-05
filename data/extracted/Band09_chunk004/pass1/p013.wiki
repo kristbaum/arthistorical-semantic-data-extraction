@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=13 -->
+<!-- citation-page-top: Band09 p174 -->
+
 == RAITENHASLACH ==
 
 [[File:Band09_chunk004_p013_img001.jpg|thumb|RAITENHASLACH]]
@@ -33,3 +36,4 @@
 [[File:Band09_chunk004_p013_img016.jpg|thumb]]
 
 [[File:Band09_chunk004_p013_img017.jpg|thumb|Bernhard als geistiger Führer]]
+<!-- citation-page-bottom: Band09 p175 -->

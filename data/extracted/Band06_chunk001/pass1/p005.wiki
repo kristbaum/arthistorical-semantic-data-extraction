@@ -22,8 +22,4 @@ Stadt Freising Dom 49 St. Johann Nepomuk Kapelle 121 Maximilianskapelle 128 Domk
 Fürholzen 214 Giggenhausen 222 Großeisenbach 225 Günzenhausen 229 Haag an der Amper 231 Hörgertshausen 242 Hohenkammer 261 Johanneck 266 Neufahrn bei Freising 271 Pfrombach 280 Schlipps 290 Thalhausen 291 Tünzhausen 297
 
 Register Ortsregister 305 Personenregister 307 Ikonographisches Register 310 Embleme-Register 319
-
-
-----
--
 <!-- citation-page-bottom: Band06 p9 -->

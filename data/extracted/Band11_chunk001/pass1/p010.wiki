@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk001.pdf#page=10 -->
+<!-- citation-page-top: Band11 p18 -->
+
 {| class="wikitable"
 |-
 | plastae, fusores, obtici ... qui Bavariam illustrarunt. Cesare Ripa, Iconologia overo
@@ -115,3 +118,4 @@ Technik: Fresko, polychrom
 Maße: Höhe 5,55 m; 2,30×2,30 
 
 Erhaltungszustand und Restaurierungen: Auf Arbeiten im Innern weist eine Inschrift auf der Deckplatte der Pilasterkapitelle in der SO-Ecke hin: 1814 FS. IG. MW. Baureparaturen und Innenrestaurierung 1879/80 unter der Leitung von Joseph Marggraf, der berichtete: »Die Kirche war Rokokobemalt. Seit unvordenklichen Zeiten (ist) das Innere der Kirche nicht mehr geweißt worden und zeigt die höchst störende Malerei sowohl am Plavon als an den Seiten von der Unkenntnis eines elendigen Malers«. Die Ausmalung des 18. Jh. wurde übertüncht (das Außenfresko nicht), die Stuckatur teilweise abgeschlagen und die Kirche neu eingerichtet (AEM, Nachlaß Bomhard Nr. 191). 1968/69 wurden das Dach und Wasserschäden am Gewölbe repariert, der Bau saniert und die Veränderungen von 1879/80 im Kirchenraum weitgehend rückgängig gemacht. 1971 wurde die Bemalung des 18. Jh. im Chor durch die Fa. Willibald und Alois Stein, Inzell, wieder aufgedeckt. Das Deckenbild und die Dekorationsmalerei waren nach Auskunft
+<!-- citation-page-bottom: Band11 p19 -->

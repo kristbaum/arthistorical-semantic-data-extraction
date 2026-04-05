@@ -1,4 +1,7 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=17 -->
+<!-- citation-page-top: Band02 p82 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=17 -->
 
 [[File:Band02_chunk002_p017_img001.jpg|thumb]]
 
@@ -41,3 +44,4 @@ M<sub>12</sub> DEZEMBER Steinbock – Den Schauplatz bildet eine kleine winterli
 == Ikonographie und Ikonologie ==
 
 A, A 1-4 und E 1-4 THEATRUM MUNDI Die Hauptbilder des Alten Festsaales von Benediktbeuern und die Elementebilder E1-4 bilden ein geschlossenes Programm, das in allen Einzelheiten einer Dillinger Dissertation entnommen ist (Bauer, S. 126-34). Diese Dissertation, ein Werk der beiden Freiherren Sebastian Franz und Philipp Constanz von [Thurn und] Taxis, Hg. Ferdinand Visler, erschien 1664 bei Ignaz Mayer in Dillingen und hat den Titel: »Philosophia sacro-profana logicam, physicam et metaphysicam disputationem complexa«. Im zweiten Teil des Werkes werden in einem »Theatrum Universi« oder »Theatrum Mundi« (Taxis, S. 139) die Erscheinungsformen der Welt, die Tiere, Steine, Pflanzen usw. in ein
+<!-- citation-page-bottom: Band02 p83 -->

@@ -1,3 +1,6 @@
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=21 -->
+<!-- citation-page-top: Band01 p290 -->
+
 {| class="wikitable"
 |-
 | A 5,00 × 4,30 S<sub>1</sub>, S<sub>4</sub> 3,20 × 2,80
