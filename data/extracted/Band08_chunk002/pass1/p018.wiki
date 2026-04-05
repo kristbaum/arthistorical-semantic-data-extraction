@@ -1,7 +1,6 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=18 -->
 <!-- citation-page-top: Band08 p84 -->
 
-<!-- header: FRAHAI -->
 <!-- header: FRAHAM -->
 
 
@@ -11,26 +10,7 @@
 [[File:Band08_chunk002_p018_img002.jpg|thumb]]
 
 
-== Kapelle ==
-
-
 [[File:Band08_chunk002_p018_img003.jpg|thumb|Ioachim und Ann]]
-
-
-----
-- 8
-<!-- citation-page-bottom: Band08 p85 -->
-
-
-<!-- header: FRAHAM -->
-
-
-<!-- header: FRAHAM -->
-
-
-[[File:Band08_chunk002_p018_img003.jpg|thumb|Ioachim und Ann]]
-<!-- citation-page-bottom: Band08 p85 -->
-
 
 == Kapelle ==
 
@@ -64,3 +44,4 @@ EB1-6 SZENEN AUS DEM LEBEN DES LL. MARTIN
 Ein sechsteiliger Bildzyklus an der Emporenbrüstung von Johann Anton Seltenhorn zeigt Szenen aus dem Leben Martin von Tours mit Unterschriften. Die Szenen von Mantelspende (B) und Martins Tod (A) kommen nochmals vor (Reihenfolge 1–6 an der Brüstung von links nach rechts).
 
 EB1 Der H. Martinus verlässt seine heidnische Eltern und geht in christliche Schule. Links vor einem Pfeiler steht das Elternpaar und winkt dem forteilenden Knaben nach; rechts sieht man, sehr verkleinert, ein Schulgebäude mit Kindern.
+<!-- citation-page-bottom: Band08 p85 -->
