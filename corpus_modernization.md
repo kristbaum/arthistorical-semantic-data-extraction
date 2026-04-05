@@ -42,7 +42,7 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 - [x] Add original page numbers to each page ([src](src/dropbox_links.py))
 - [x] Modify formating for improved parsing by LLM (Chapter marks)
 - [x] Shield quotations from LLMs by wrapping them in explicit brackets
-- [ ] Merge both OCR results with larger LLM model (Mistral-7B) on LRZ AI hardware to improve results and fix layout ordering errors from Transkribus OCR (Pass 1)
+- [x] Merge both OCR results with larger LLM model (qwen3:32b-fp16) on LRZ AI hardware to improve results and fix layout ordering errors from Transkribus OCR (Pass 1)
 - [ ] Improve spelling mistakes and remove indices and other non article text (Pass 1)
 - [ ] Expand abbreviations, based on the glossary (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 2)
 - [ ] Identify and split results into building-based articles using Mistral on LRZ AI (Pass 3)
@@ -69,5 +69,6 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 - [x] Match captions to images based on proximity ([src](src/surya_mediawiki.py))
 - [x] Add links to images with captions to parsed MediaWiki markup results ([src](src/surya_mediawiki.py))
 - [x] Improve extracted images by removing blank space ([src](src/preprocess_images.py))
-- [ ] Identify and document errors in image recognition manually (GWAP?)
+- [x] Upload the improved images to MediaWiki installation (8959 files)
+- [ ] Identify and document errors in image recognition manually (GWAP!)
 - [ ] Upload images into MediaWiki
