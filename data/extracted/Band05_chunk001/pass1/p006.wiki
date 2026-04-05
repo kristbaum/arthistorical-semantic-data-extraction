@@ -79,8 +79,4 @@ Chronogramme haben durch Schriftgröße hervorgehobene Zahlbuchstaben.
 Inschriften und Signaturen werden originalgetreu ohne Korrekturen wiedergegeben. Historische Schreibweisen mit Kürzungen, Kürzeln oder Ligaturen werden aufgelöst (z. B. Zimermann = Zimmermann). Ungewisse Lesarten sind durch (?) gekennzeichnet. Ergänzungen nicht mehr vorhandener Inschriftstellen werden durch eckige Klammern ausgewiesen.
 
 Literatur- und Quellenzitate stehen in »«, Begriffe, im Text zitierte Bildtitel und Zitate im Zitat in ».
-
-
-----
-IC
 <!-- citation-page-bottom: Band05 p11 -->

@@ -98,8 +98,4 @@ Chronogramme haben durch Fettdruck hervorgehobene Zahlbuchstaben.
 Inschriften und Signaturen werden mit ihrer Interpunktion originalgetreu wiedergegeben. Quellentexte werden ebenfalls originalgetreu wiedergegeben, mit Ausnahme von ›v‹ in der Bedeutung von ›u‹; dieses wird als ›u‹ geschrieben. Groß- und Kleinschreibung sowie die Interpunktion werden zur besseren Lesbarkeit dem heutigen Gebrauch angeglichen. Historische Schreibweisen mit Kürzungen, Kürzeln oder Ligaturen werden aufgelöst (z.B. Zimerman = Zimmermann). Ungewisse Lesarten sind durch (?) gekennzeichnet. Ergänzungen nicht mehr vorhandener Inschriftstellen werden durch eckige Klammern ausgewiesen.
 
 Literatur- und Quellenzitate stehen in »«, Begriffe, im Text zitierte Bildtitel und Zitate im Zitat in ×.
-
-
-----
-IC
 <!-- citation-page-bottom: Band14 p11 -->
