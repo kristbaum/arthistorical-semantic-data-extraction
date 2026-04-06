@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Check if each formatted article contains its Ort name from the CSV.
+"""Check formatted articles for missing Ort names and suspiciously small sizes.
 
 Reads the articles CSV and the corresponding formatted .wiki files, then
-reports any article whose text does not mention its Ort value.
+reports any article whose text does not mention its Ort value, as well as
+articles with fewer than 1000 characters of content.
 
 Usage:
     python -m src.articles.check_ort [--band 'Band 1'] [--verbose]
@@ -19,6 +20,8 @@ from .helpers import (
     row_sort_key,
     sanitize_filename,
 )
+
+MIN_ARTICLE_SIZE = 1000
 
 
 def main(argv: list[str] | None = None) -> None:
@@ -38,13 +41,11 @@ def main(argv: list[str] | None = None) -> None:
 
     checked = 0
     missing_ort = 0
+    small_articles = 0
     no_file = 0
 
     for row in rows:
         ort = row.get("Ort", "").strip()
-        if not ort:
-            continue
-
         band_prefix = csv_band_to_dir_prefix(row["Band"])
         if not band_prefix:
             continue
@@ -60,14 +61,18 @@ def main(argv: list[str] | None = None) -> None:
         text = filepath.read_text(encoding="utf-8")
         checked += 1
 
-        if ort in text:
-            if args.verbose:
-                print(f"  OK: {bauwerk} — contains '{ort}'")
-        else:
+        if ort and ort not in text:
             print(f"  MISSING ORT: {bauwerk} — '{ort}' not found in {filepath.relative_to(REPO_ROOT)}")
             missing_ort += 1
+        elif args.verbose and ort:
+            print(f"  OK: {bauwerk} — contains '{ort}'")
 
-    print(f"\nChecked {checked} articles, {missing_ort} missing Ort, {no_file} files not found")
+        if len(text) < MIN_ARTICLE_SIZE:
+            print(f"  SMALL ({len(text)} chars): {bauwerk} — {filepath.relative_to(REPO_ROOT)}")
+            small_articles += 1
+
+    print(f"\nChecked {checked} articles, {missing_ort} missing Ort, "
+          f"{small_articles} small (<{MIN_ARTICLE_SIZE} chars), {no_file} files not found")
 
 
 if __name__ == "__main__":

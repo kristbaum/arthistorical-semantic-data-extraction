@@ -33,12 +33,12 @@ def format_article(
         f"|Chunkseite={chunkseite if chunkseite is not None else ''}",
         f"|Originalseitenvon={seite_von if seite_von is not None else ''}",
         f"|Originalseitenbis={seite_bis if seite_bis is not None else ''}",
-        f'|Lemma="{bauwerk}"',
-        f'|Typ="{eigenschaft}"',
-        f'|Ort="{ort}"',
+        f'|Lemma={bauwerk}',
+        f'|Typ={eigenschaft}',
+        f'|Ort={ort}',
     ]
     for i, autor in enumerate(autoren, 1):
-        template_lines.append(f'|AutorIn{i}="{autor}"')
+        template_lines.append(f'|AutorIn{i}={autor}')
     template_lines.append("}}")
 
     return "\n".join(template_lines) + "\n\n" + content + "\n"
