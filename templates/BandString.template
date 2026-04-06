@@ -1,3 +1,17 @@
+<noinclude><templatedata>
+{
+	"description": "Gibt die vollständige Literaturangabe für einen Band des Corpus der barocken Deckenmalerei in Deutschland (CbDD) aus.",
+	"params": {
+		"1": {
+			"label": "Bandnummer",
+			"description": "Bandnummer des CbDD. Für Band 3 Teil 1 '31', für Band 3 Teil 2 '32', für Band 12 Teil 1 '121', für Band 12 Teil 2 '122' verwenden. Alle anderen Bände als einfache Zahl (1–14).",
+			"type": "number",
+			"required": true,
+			"example": "1"
+		}
+	}
+}
+</templatedata></noinclude>
 {{#switch: {{{1}}}
 | 1   = Bauer, Hermann/Rupprecht, Bernhard: ''Corpus der barocken Deckenmalerei in Deutschland'', Band 1: Die Landkreise Landsberg am Lech, Starnberg, Weilheim-Schongau. Hirmer, München 1976, [ISBN 978-3-7991-5737-7 https://search.worldcat.org/de/title/643685287].
 | 2   = Bauer, Hermann/Rupprecht, Bernhard: ''Corpus der barocken Deckenmalerei in Deutschland'', Band 2: Die Landkreise Bad Tölz-Wolfratshausen, Garmisch-Partenkirchen, Miesbach. Hirmer, München 1981, [WORLDCAT_2 ISBN 978-3-7991-5834-3].

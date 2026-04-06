@@ -1,0 +1,114 @@
+<noinclude><templatedata>
+{
+    "description": "Erzeugt eine Herkunftsbox am Anfang eines Artikels mit Bandangabe, Seitenbereich, Autorinnen und optionalem Link zum Original-PDF.",
+    "params": {
+        "Band": {
+            "label": "Band",
+            "description": "Bandnummer des CbDD. Für Band 3 Teil 1 '31', für Band 3 Teil 2 '32', für Band 12 Teil 1 '121', für Band 12 Teil 2 '122' verwenden.",
+            "type": "number",
+            "required": true,
+            "example": "1"
+        },
+        "Chunk": {
+            "label": "Chunk",
+            "description": "Nummer des PDF-Chunks innerhalb des Bandes. Leer lassen – dann wird kein Link angezeigt.",
+            "type": "number",
+            "suggested": true,
+            "example": "8"
+        },
+        "Chunkseite": {
+            "label": "Seite im Chunk",
+            "description": "Seitennummer innerhalb des Chunk-PDFs (entspricht dem #page=-Parameter im Dropbox-Link).",
+            "type": "number",
+            "suggested": true,
+            "example": "15"
+        },
+        "Originalseitenvon": {
+            "label": "Originalseite von",
+            "description": "Erste Seite des Artikels im gedruckten Band.",
+            "type": "number",
+            "required": true,
+            "example": "373"
+        },
+        "Originalseitenbis": {
+            "label": "Originalseite bis",
+            "description": "Letzte Seite des Artikels im gedruckten Band. Identisch mit 'Originalseitenvon' bei einseitigen Artikeln.",
+            "type": "number",
+            "required": true,
+            "example": "375"
+        },
+        "Lemma": {
+            "label": "Lemma",
+            "description": "Volltitel des Artikels (entspricht der Bauwerk-Spalte in der Metadaten-Tabelle).",
+            "type": "string",
+            "required": true,
+            "example": "Antdorf, Kirnbergkapelle"
+        },
+        "Typ": {
+            "label": "Typ",
+            "description": "Gebäudetyp: 'Sakral' oder 'Profan'.",
+            "type": "string",
+            "required": true,
+            "example": "Sakral"
+        },
+        "Ort": {
+            "label": "Ort",
+            "description": "Ortsname des Bauwerks.",
+            "type": "string",
+            "required": true,
+            "example": "Antdorf"
+        },
+        "AutorIn1": {
+            "label": "AutorIn 1",
+            "description": "Erste Autorin / erster Autor (Nachname, Vorname).",
+            "type": "string",
+            "required": true,
+            "example": "Bauer-Wild, Anna"
+        },
+        "AutorIn2": {
+            "label": "AutorIn 2",
+            "description": "Zweite Autorin / zweiter Autor. Leer lassen, falls nicht vorhanden.",
+            "type": "string",
+            "example": "Böhm, Cordula"
+        },
+        "AutorIn3": {
+            "label": "AutorIn 3",
+            "description": "Dritte Autorin / dritter Autor. Leer lassen, falls nicht vorhanden.",
+            "type": "string",
+            "example": "Lüdicke, Lore"
+        },
+        "AutorIn4": {
+            "label": "AutorIn 4",
+            "description": "Vierte Autorin / vierter Autor. Leer lassen, falls nicht vorhanden.",
+            "type": "string",
+            "example": "Werner-Clementschitsch, Heide"
+        },
+        "AutorIn5": {
+            "label": "AutorIn 5",
+            "description": "Fünfte Autorin / fünfter Autor. Leer lassen, falls nicht vorhanden.",
+            "type": "string"
+        },
+        "AutorIn6": {
+            "label": "AutorIn 6",
+            "description": "Sechste Autorin / sechster Autor. Leer lassen, falls nicht vorhanden.",
+            "type": "string"
+        }
+    },
+    "sets": [
+        {
+            "label": "Seitenbereich",
+            "params": ["Originalseitenvon", "Originalseitenbis"]
+        },
+        {
+            "label": "PDF-Link",
+            "params": ["Chunk", "Chunkseite"]
+        },
+        {
+            "label": "Autorinnen",
+            "params": ["AutorIn1", "AutorIn2", "AutorIn3", "AutorIn4", "AutorIn5", "AutorIn6"]
+        }
+    ]
+}
+</templatedata></noinclude>
+
+<div style="background:#f0f4ff; border-left:4px solid #3a6ea5; padding:0.5em 1em; margin:0 0 1em 0; font-size:0.9em;">Dieser Text stammt aus: {{BandString|{{{Band}}}}}, S. {{{Originalseitenvon}}}{{#ifeq:{{{Originalseitenvon}}}|{{{Originalseitenbis}}}||–{{{Originalseitenbis}}}}}, geschrieben von {{#if:{{{AutorIn2|}}}|{{#if:{{{AutorIn3|}}}|{{#if:{{{AutorIn4|}}}|{{#if:{{{AutorIn5|}}}|{{#if:{{{AutorIn6|}}}|{{{AutorIn1}}}, {{{AutorIn2}}}, {{{AutorIn3}}}, {{{AutorIn4}}}, {{{AutorIn5}}} und {{{AutorIn6}}}|{{{AutorIn1}}}, {{{AutorIn2}}}, {{{AutorIn3}}}, {{{AutorIn4}}} und {{{AutorIn5}}}}}|{{{AutorIn1}}}, {{{AutorIn2}}}, {{{AutorIn3}}} und {{{AutorIn4}}}}}|{{{AutorIn1}}}, {{{AutorIn2}}} und {{{AutorIn3}}}}}|{{{AutorIn1}}} und {{{AutorIn2}}}}}|{{{AutorIn1}}}}}. {{#if:{{{Chunk|}}}|[https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/{{#switch:{{{Band}}}|31=Band03-1|32=Band03-2|121=Band12-1|122=Band12-2|#default=Band{{padleft:{{{Band}}}|2|0}}}}_chunk{{padleft:{{{Chunk}}}|3|0}}.pdf#page={{{Chunkseite|}}} Original (Passwortgeschützt)]}}</div>
