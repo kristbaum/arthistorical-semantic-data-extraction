@@ -71,9 +71,7 @@ def _page_region(lines: list[str], target_page: int) -> tuple[int, int] | None:
     return None
 
 
-def _find_marker_in_range(
-    lines: list[str], start: int, end: int
-) -> int | None:
+def _find_marker_in_range(lines: list[str], start: int, end: int) -> int | None:
     """Find the first article-start marker between *start* and *end* (inclusive).
 
     Searches for '''Patrozinium:''', '''Zum Bauwerk:''', and '''Auftraggeber:'''
@@ -94,6 +92,24 @@ def _clean(text: str) -> str:
     while ls and ls[-1].strip() == "":
         ls.pop()
     return "\n".join(ls)
+
+
+def _find_page_top(lines: list[str], page: int) -> int | None:
+    """Return the line index of citation-page-top for *page*, or None."""
+    for i, line in enumerate(lines):
+        m = re.search(r"<!--\s*citation-page-top:\s*\S+\s+p(\d+)\s*-->", line)
+        if m and int(m.group(1)) == page:
+            return i
+    return None
+
+
+def _find_page_bottom(lines: list[str], page: int) -> int | None:
+    """Return the line index of citation-page-bottom for *page*, or None."""
+    for i, line in enumerate(lines):
+        m = re.search(r"<!--\s*citation-page-bottom:\s*\S+\s+p(\d+)\s*-->", line)
+        if m and int(m.group(1)) == page:
+            return i
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -140,88 +156,57 @@ def split_band(
     )
 
     # ── Phase 1: find each article's start line ──────────────────────────────
-    split_points: list[tuple[int, dict]] = []  # (line_index, row)
+    # Strategy (in order of preference):
+    #   1. No page overlap with predecessor → use citation-page-top directly.
+    #   2. Pages overlap (or page-top not found) → search for a split marker
+    #      (Patrozinium / Zum Bauwerk / Auftraggeber) on the start-page region.
+    #   Only emit an ERROR when all attempts for an article fail.
+
+    # Parallel lists: start_lines[i] corresponds to articles[i].
+    start_lines: list[int | None] = []
     missing: list[dict] = []
 
-    for row in articles:
+    for idx, row in enumerate(articles):
         sv = row["_seite_von"]
         if sv is None:
+            start_lines.append(None)
             missing.append(row)
             continue
 
-        region = _page_region(lines, sv)
-        if region is None:
-            if verbose:
-                print(
-                    f"  WARN: page {sv} not found for "
-                    f"{row.get('Bauwerk', '?')}"
-                )
+        sv = int(sv)  # guaranteed int by the parse block above
+        prev_sb_raw = articles[idx - 1]["_seite_bis"] if idx > 0 else None
+        prev_sb = int(prev_sb_raw) if prev_sb_raw is not None else None
+        pages_clean = prev_sb is None or prev_sb < sv
+
+        start: int | None = None
+
+        # Try 1: clean page boundary → use page-top directly.
+        if pages_clean:
+            start = _find_page_top(lines, sv)
+
+        # Try 2: overlapping pages (or page-top not found) → marker search.
+        if start is None:
+            region = _page_region(lines, sv)
+            if region is not None:
+                marker_line = _find_marker_in_range(lines, region[0], region[1])
+                if marker_line is not None:
+                    start = find_paragraph_before(lines, marker_line)
+
+        if start is None:
+            print(
+                f"  ERROR: cannot find split point for "
+                f"{row.get('Bauwerk', '?')!r} (page {sv})"
+            )
+            start_lines.append(None)
             missing.append(row)
-            continue
-
-        r_start, r_end = region
-        marker_line = _find_marker_in_range(lines, r_start, r_end)
-
-        if marker_line is not None:
-            para_start = find_paragraph_before(lines, marker_line)
-            split_points.append((para_start, row))
         else:
-            # No marker on this page — use the region start as fallback
-            if verbose:
-                print(
-                    f"  WARN: no marker on page {sv} for "
-                    f"{row.get('Bauwerk', '?')} — using page start"
-                )
-            split_points.append((r_start, row))
+            start_lines.append(start)
 
-    # Sort by line number
+    # Build split_points list from parallel arrays, sorted by line number.
+    split_points: list[tuple[int, dict]] = [
+        (sl, articles[i]) for i, sl in enumerate(start_lines) if sl is not None
+    ]
     split_points.sort(key=lambda x: x[0])
-
-    # ── Resolve duplicates ───────────────────────────────────────────────────
-    # When multiple articles land on the same line (same page, same first
-    # marker), search forward from the marker for the *next* marker that
-    # is not already claimed.  Primary lines are protected so retries
-    # cannot steal another article's first-choice position.
-    primary_lines: set[int] = {sp for sp, _ in split_points}
-    deduped: list[tuple[int, dict]] = []
-    used_lines: set[int] = set()
-
-    for sp_line, row in split_points:
-        if sp_line not in used_lines:
-            used_lines.add(sp_line)
-            deduped.append((sp_line, row))
-            continue
-        # Search forward for the next unclaimed marker
-        resolved = False
-        pos = sp_line + 1
-        for _ in range(20):
-            if pos >= len(lines):
-                break
-            for marker in _MARKERS:
-                found = None
-                for k in range(pos, min(pos + 2000, len(lines))):
-                    if lines[k].strip().startswith(marker):
-                        found = k
-                        break
-                if found is not None:
-                    para = find_paragraph_before(lines, found)
-                    if para not in used_lines and para not in primary_lines:
-                        used_lines.add(para)
-                        deduped.append((para, row))
-                        resolved = True
-                        break
-            if resolved:
-                break
-            pos = (found or pos) + 1
-        if not resolved:
-            if verbose:
-                print(
-                    f"  WARN: duplicate split at line {sp_line} for "
-                    f"{row.get('Bauwerk', '?')}"
-                )
-            missing.append(row)
-
-    split_points = sorted(deduped, key=lambda x: x[0])
 
     # ── Phase 2: cut the text ────────────────────────────────────────────────
     out_dir = OUTPUT_DIR / band_prefix
@@ -235,14 +220,18 @@ def split_band(
         if before_text:
             out_path = out_dir / "before_articles.wiki"
             if dry_run:
-                print(f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}"
-                      f"  ({len(before_text)} chars)")
+                print(
+                    f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}"
+                    f"  ({len(before_text)} chars)"
+                )
             else:
                 out_dir.mkdir(parents=True, exist_ok=True)
                 out_path.write_text(before_text + "\n", encoding="utf-8")
                 if verbose:
-                    print(f"  WROTE: {out_path.relative_to(REPO_ROOT)}"
-                          f"  ({len(before_text)} chars)")
+                    print(
+                        f"  WROTE: {out_path.relative_to(REPO_ROOT)}"
+                        f"  ({len(before_text)} chars)"
+                    )
             ba_written += 1
 
     # Each article: from its split point to the next split point
@@ -264,6 +253,15 @@ def split_band(
         autor_str = row.get("Autor", "")
         autoren = [a.strip() for a in autor_str.split("/") if a.strip()]
 
+        # Neighbours in the sorted split_points list (already resolved).
+        sp_idx = next(i for i, (_, r) in enumerate(split_points) if r is row)
+        prev_bauwerk = split_points[sp_idx - 1][1]["Bauwerk"] if sp_idx > 0 else None
+        next_bauwerk = (
+            split_points[sp_idx + 1][1]["Bauwerk"]
+            if sp_idx + 1 < len(split_points)
+            else None
+        )
+
         article_text = format_article(
             bauwerk,
             content,
@@ -274,20 +272,26 @@ def split_band(
             row["Band"],
             seite_von=row.get("_seite_von"),
             seite_bis=row.get("_seite_bis"),
+            davor=prev_bauwerk,
+            danach=next_bauwerk,
         )
 
         lemma_filename = sanitize_filename(bauwerk) + ".wiki"
         out_path = out_dir / lemma_filename
 
         if dry_run:
-            print(f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}"
-                  f"  ({len(article_text)} chars)")
+            print(
+                f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}"
+                f"  ({len(article_text)} chars)"
+            )
         else:
             out_dir.mkdir(parents=True, exist_ok=True)
             out_path.write_text(article_text, encoding="utf-8")
             if verbose:
-                print(f"  WROTE: {out_path.relative_to(REPO_ROOT)}"
-                      f"  ({len(article_text)} chars)")
+                print(
+                    f"  WROTE: {out_path.relative_to(REPO_ROOT)}"
+                    f"  ({len(article_text)} chars)"
+                )
         written += 1
 
     # After text: content after the last article's _seite_bis page
@@ -309,14 +313,18 @@ def split_band(
                 if after_text:
                     out_path = out_dir / "after_articles.wiki"
                     if dry_run:
-                        print(f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}"
-                              f"  ({len(after_text)} chars)")
+                        print(
+                            f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}"
+                            f"  ({len(after_text)} chars)"
+                        )
                     else:
                         out_dir.mkdir(parents=True, exist_ok=True)
                         out_path.write_text(after_text + "\n", encoding="utf-8")
                         if verbose:
-                            print(f"  WROTE: {out_path.relative_to(REPO_ROOT)}"
-                                  f"  ({len(after_text)} chars)")
+                            print(
+                                f"  WROTE: {out_path.relative_to(REPO_ROOT)}"
+                                f"  ({len(after_text)} chars)"
+                            )
                     ba_written += 1
 
     return written, ba_written, missing

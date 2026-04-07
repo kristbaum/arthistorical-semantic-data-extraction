@@ -22,6 +22,8 @@ def format_article(
     seite_bis: int | None = None,
     chunk: int | None = None,
     chunkseite: int | None = None,
+    davor: str | None = None,
+    danach: str | None = None,
 ) -> str:
     """Format the final article with an {{Artikel}} metadata template."""
     band_num = _extract_band_number(band)
@@ -36,6 +38,8 @@ def format_article(
         f'|Lemma={bauwerk}',
         f'|Typ={eigenschaft}',
         f'|Ort={ort}',
+        f'|davor={davor or ""}',
+        f'|danach={danach or ""}',
     ]
     for i, autor in enumerate(autoren, 1):
         template_lines.append(f'|AutorIn{i}={autor}')

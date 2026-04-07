@@ -3,14 +3,16 @@
 
 Reads the articles CSV and the corresponding formatted .wiki files, then
 reports any article whose text does not mention its Ort value, as well as
-articles with fewer than 1000 characters of content.
+articles with fewer than 1000 characters of content. Also prints word count
+and image count (MediaWiki [[File:...]] transclusions) for each article.
 
 Usage:
-    python -m src.articles.check_ort [--band 'Band 1'] [--verbose]
+    python -m src.articles.check_ort [--problems-only]
 """
 
 import argparse
 import csv
+import re
 
 from .helpers import (
     META_CSV,
@@ -22,26 +24,30 @@ from .helpers import (
 )
 
 MIN_ARTICLE_SIZE = 1000
+MAX_ARTICLE_SIZE = 50_000
+FILE_RE = re.compile(r"\[\[File:[^\]]+\]\]", re.IGNORECASE)
 
 
-def main(argv: list[str] | None = None) -> None:
+def main() -> None:
     parser = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
-    parser.add_argument("--band", type=str, default=None, help="Check only this Band (e.g. 'Band 1').")
-    parser.add_argument("--verbose", "-v", action="store_true", help="Also print matches.")
-    args = parser.parse_args(argv)
+    parser.add_argument(
+        "--problems-only", "-p",
+        action="store_true",
+        help="Only print articles with missing Ort or out-of-range size.",
+    )
+    args = parser.parse_args()
 
     with open(META_CSV, encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
-    if args.band:
-        rows = [r for r in rows if r["Band"] == args.band]
     rows.sort(key=row_sort_key)
 
     checked = 0
     missing_ort = 0
     small_articles = 0
+    large_articles = 0
     no_file = 0
 
     for row in rows:
@@ -61,18 +67,34 @@ def main(argv: list[str] | None = None) -> None:
         text = filepath.read_text(encoding="utf-8")
         checked += 1
 
-        if ort and ort not in text:
-            print(f"  MISSING ORT: {bauwerk} — '{ort}' not found in {filepath.relative_to(REPO_ROOT)}")
-            missing_ort += 1
-        elif args.verbose and ort:
-            print(f"  OK: {bauwerk} — contains '{ort}'")
+        words = len(text.split())
+        images = len(FILE_RE.findall(text))
+        size = len(text)
 
-        if len(text) < MIN_ARTICLE_SIZE:
-            print(f"  SMALL ({len(text)} chars): {bauwerk} — {filepath.relative_to(REPO_ROOT)}")
+        ort_missing = bool(ort and ort not in text)
+        too_small = size < MIN_ARTICLE_SIZE
+        too_large = size > MAX_ARTICLE_SIZE
+        has_problem = ort_missing or too_small or too_large
+
+        if not args.problems_only or has_problem:
+            print(f"  {bauwerk} — {words} words, {images} image(s)")
+
+        if ort_missing:
+            print(f"    MISSING ORT: '{ort}' not found in {filepath.relative_to(REPO_ROOT)}")
+            missing_ort += 1
+
+        if too_small:
+            print(f"    SMALL ({size} chars): {filepath.relative_to(REPO_ROOT)}")
             small_articles += 1
 
+        if too_large:
+            print(f"    LARGE ({size} chars): {filepath.relative_to(REPO_ROOT)}")
+            large_articles += 1
+
     print(f"\nChecked {checked} articles, {missing_ort} missing Ort, "
-          f"{small_articles} small (<{MIN_ARTICLE_SIZE} chars), {no_file} files not found")
+          f"{small_articles} small (<{MIN_ARTICLE_SIZE} chars), "
+          f"{large_articles} large (>{MAX_ARTICLE_SIZE} chars), "
+          f"{no_file} files not found")
 
 
 if __name__ == "__main__":
