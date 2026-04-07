@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band10 p164 -->
+<!-- citation-page-top: Band10 p166 -->
 
 == NEUBURG ==
 
@@ -20,4 +20,4 @@ Einen Hinweis zur Deutung dieser Darstellung (bisher irrtümlich als hl. Filippo
 
 
 [[File:Band10_chunk004_p008_img003.jpg|thumb|A. Scientia]]
-<!-- citation-page-bottom: Band10 p165 -->
+<!-- citation-page-bottom: Band10 p167 -->

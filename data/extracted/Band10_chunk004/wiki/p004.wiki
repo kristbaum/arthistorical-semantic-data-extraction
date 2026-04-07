@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=4 -->
-<!-- citation-page-top: Band10 p156 -->
+<!-- citation-page-top: Band10 p158 -->
 
 <!-- header: NEUBURG -->
 
@@ -62,4 +62,4 @@ A-C, E-G APOSTEL In sechs der acht querovalen Bildfelder an der LHs- und AR-Wöl
 
 ----
 I٢
-<!-- citation-page-bottom: Band10 p157 -->
+<!-- citation-page-bottom: Band10 p159 -->

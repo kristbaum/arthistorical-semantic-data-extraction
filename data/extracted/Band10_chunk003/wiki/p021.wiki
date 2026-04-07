@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=21 -->
-<!-- citation-page-top: Band10 p140 -->
+<!-- citation-page-top: Band10 p142 -->
 
 <!-- header: MAUERN -->
 
@@ -35,4 +35,4 @@ In der Baurechnung für das LHs, mit deren Einträgen an 17.5.1734 begonnen wurd
 
 
 [[File:Band10_chunk003_p021_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p141 -->
+<!-- citation-page-bottom: Band10 p143 -->

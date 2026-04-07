@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=6 -->
-<!-- citation-page-top: Band10 p110 -->
+<!-- citation-page-top: Band10 p112 -->
 
 <!-- header: ILLDORE -->
 
@@ -63,4 +63,4 @@ III
 
 ----
 II3
-<!-- citation-page-bottom: Band10 p111 -->
+<!-- citation-page-bottom: Band10 p113 -->

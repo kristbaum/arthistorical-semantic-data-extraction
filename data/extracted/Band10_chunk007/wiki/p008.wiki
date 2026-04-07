@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=8 -->
-<!-- citation-page-top: Band10 p314 -->
+<!-- citation-page-top: Band10 p316 -->
 
 <!-- header: WAIDHOFEN -->
 
@@ -33,4 +33,4 @@ Dem Marienpatrozinium entsprechend sind in den Hauptbildern des LHs im Gewölbes
 
 
 [[File:Band10_chunk007_p008_img002.jpg|thumb|Himmelfahrt und Krönung Mariens mit Musterachsen der geplanten Restaurierung]]
-<!-- citation-page-bottom: Band10 p315 -->
+<!-- citation-page-bottom: Band10 p317 -->

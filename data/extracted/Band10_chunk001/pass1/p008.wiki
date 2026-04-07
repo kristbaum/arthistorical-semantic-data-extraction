@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=8 -->
-<!-- citation-page-top: Band10 p14 -->
+<!-- citation-page-top: Band10 p16 -->
 
 <!-- header: AMBACH -->
 
@@ -32,4 +32,4 @@ Maße: Höhe 4,30 m; 90 × 1,20
 Erhaltungszustand und Restaurierungen: 1914/15 fand eine Innenrestaurierung statt. Bei dieser Gelegenheit wurden »im Hochaltarraum... Barockmalereien (ca. 1740) bloßgelegt, die von Kirchenmaler Kronwitter, Günzburg, restauriert werden« (StA Augsburg, BA Neuburg, Nr. 3727: Schreiben des Pfarramts Ambach an das Bezirksamt Neuburg vom 23. 10. 1915). 1949 wurde die Kirche außen instand gesetzt. Horn/Meyer bezeichnen 1958 das Deckenbild im Chor als »verdorben« und geben an, daß weitere, um 1740 entstandene Fresken dort vorübergehend freigelegt worden waren (bei Befunduntersuchung 1999 nur noch fragmentarisch nachweisbar). Diese Angaben beziehen sich wohl auf die Innenrenovierung der Kirche von 1954, bei der auch der leere Deckenspiegel des LHs von Kunstmaler Sebastian Hausinger mit einer Mantelspende
 
 [[File:Band10_chunk001_p008_img001.jpg|thumb|Der Kirchenraum, historische Aufnahme]]
-<!-- citation-page-bottom: Band10 p15 -->
+<!-- citation-page-bottom: Band10 p17 -->

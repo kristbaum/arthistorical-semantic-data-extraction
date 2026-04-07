@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=17 -->
-<!-- citation-page-top: Band10 p332 -->
+<!-- citation-page-top: Band10 p334 -->
 
 <!-- header: ZELL -->
 
@@ -66,4 +66,4 @@ Inschrift oben: CALICEM SALVTARIS ACCIPIAM. Unten: ET NOMEN DOMINI INVOCABO. (Ic
 
 ----
 33.
-<!-- citation-page-bottom: Band10 p333 -->
+<!-- citation-page-bottom: Band10 p335 -->

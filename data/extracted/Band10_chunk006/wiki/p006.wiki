@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=6 -->
-<!-- citation-page-top: Band10 p260 -->
+<!-- citation-page-top: Band10 p262 -->
 
 <!-- header: SANDIZELL -->
 
@@ -37,4 +37,4 @@ Ursprünglich dürften die Farben des Deckenbildes mehr Leuchtkraft besessen hab
 
 
 [[File:Band10_chunk006_p006_img002.jpg|thumb|B Das Auge Gottes, von Engeln umgeben (Zustand nach der Restaurierung von 1992)]]
-<!-- citation-page-bottom: Band10 p261 -->
+<!-- citation-page-bottom: Band10 p263 -->

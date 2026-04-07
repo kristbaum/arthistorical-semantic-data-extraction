@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=4 -->
-<!-- citation-page-top: Band10 p256 -->
+<!-- citation-page-top: Band10 p258 -->
 
 <!-- header: SANDIZELL -->
 
@@ -35,4 +35,4 @@ Das große fast runde Spiegelgewölbe setzt über einer steiler Voute an, in die
 
 
 [[File:Band10_chunk006_p004_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p257 -->
+<!-- citation-page-bottom: Band10 p259 -->

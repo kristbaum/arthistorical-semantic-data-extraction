@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=20 -->
-<!-- citation-page-top: Band10 p38 -->
+<!-- citation-page-top: Band10 p40 -->
 
 <!-- header: ANTONIBERO -->
 
@@ -44,4 +44,4 @@ B, FISCHPREDIGT »Antonius stunde zu Armini, welches das Haupt-Nest der Ketzer w
 
 ----
 4 I
-<!-- citation-page-bottom: Band10 p39 -->
+<!-- citation-page-bottom: Band10 p41 -->

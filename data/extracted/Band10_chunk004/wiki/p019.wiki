@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band10 p186 -->
+<!-- citation-page-top: Band10 p188 -->
 
 <!-- header: NEUBURG -->
 
@@ -19,4 +19,4 @@ Emgangstaum zur Knehe ist in einer Supraporte über der Eingangstür ins Innere 
 
 
 [[File:Band10_chunk004_p019_img002.jpg|thumb|B Die hl. Ursula als Patronin, Stuckdekoration von Nikolaus Perti]]
-<!-- citation-page-bottom: Band10 p187 -->
+<!-- citation-page-bottom: Band10 p189 -->

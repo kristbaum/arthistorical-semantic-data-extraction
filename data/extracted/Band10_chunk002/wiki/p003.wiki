@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=3 -->
-<!-- citation-page-top: Band10 p54 -->
+<!-- citation-page-top: Band10 p56 -->
 
 <!-- header: BERGEN -->
 
@@ -48,4 +48,4 @@ Beide Fresken beziehen sich auf das Heilig-Kreuz-Patrozinium der Kirche, das an 
 
 ----
 )/
-<!-- citation-page-bottom: Band10 p55 -->
+<!-- citation-page-bottom: Band10 p57 -->

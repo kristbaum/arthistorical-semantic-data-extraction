@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=25 -->
-<!-- citation-page-top: Band10 p298 -->
+<!-- citation-page-top: Band10 p300 -->
 
 [[File:Band10_chunk006_p025_img001.jpg|thumb|Der Kirchenraum nach Westen, Zustand vor 1967]]
 
@@ -19,4 +19,4 @@ A<sub>a</sub> CON=SOLATRIX AFFLICTO=RVM (Trösterin der Bedrängten). Die Taube 
 
 
 [[File:Band10_chunk006_p025_img002.jpg|thumb|Der Kirchenraum nach dem Umbau 1967/68]]
-<!-- citation-page-bottom: Band10 p299 -->
+<!-- citation-page-bottom: Band10 p301 -->

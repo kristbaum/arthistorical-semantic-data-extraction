@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=16 -->
-<!-- citation-page-top: Band10 p80 -->
+<!-- citation-page-top: Band10 p82 -->
 
 <!-- header: BURGHEIM -->
 
@@ -62,4 +62,4 @@ S HL. JOHANNES VON NEPOMUK (Blickrichtung nach O) Der Heilige im Kanonikergewand
 
 
 Die Deckenbilder verherrlichen die Gottesmutter und die beiden Kirchenpatrone, die Medaillons an der oberen Emporen brüstung und in den Stichkappen beziehen sich auf die Apostel, die zur Errichtung der Kirche in die Welt geschickt
-<!-- citation-page-bottom: Band10 p81 -->
+<!-- citation-page-bottom: Band10 p83 -->

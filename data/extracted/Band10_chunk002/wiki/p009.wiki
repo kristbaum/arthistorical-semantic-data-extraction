@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=9 -->
-<!-- citation-page-top: Band10 p66 -->
+<!-- citation-page-top: Band10 p68 -->
 
 <!-- header: BERGHEIM -->
 
@@ -39,4 +39,4 @@ Erhaltungszustand und Restaurierungen: Die Fresken sind in ihrer Bildanlage baro
 
 
 [[File:Band10_chunk002_p009_img003.jpg|thumb|A Himmelfahrt Mariä]]
-<!-- citation-page-bottom: Band10 p67 -->
+<!-- citation-page-bottom: Band10 p69 -->

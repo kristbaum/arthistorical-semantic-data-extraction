@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=20 -->
-<!-- citation-page-top: Band10 p138 -->
+<!-- citation-page-top: Band10 p140 -->
 
 <!-- header: MARIA BEINBERO -->
 
@@ -92,4 +92,4 @@ Saur, Bd 6, 1992, S. 406†
 Mayer, Franz J., Der Maler Ignaz Baldauf und die Deckenfres ken der St. Salvator-Kirche in Schrobenhausen, in: Schroben hausener Kulturschätze. Von der Asamkirche bis zum Zeisel mairhaus, Dachau 1992, S. 104-110.
 
 B. S.
-<!-- citation-page-bottom: Band10 p139 -->
+<!-- citation-page-bottom: Band10 p141 -->

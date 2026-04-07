@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=16 -->
-<!-- citation-page-top: Band10 p230 -->
+<!-- citation-page-top: Band10 p232 -->
 
 <!-- header: NEIJBIJRG -->
 
@@ -87,4 +87,4 @@ Erhaltungszustand und Restaurierungen: Alle Bilder sind restauriert und dabei me
 
 
 [[File:Band10_chunk005_p016_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p231 -->
+<!-- citation-page-bottom: Band10 p233 -->

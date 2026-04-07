@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=6 -->
-<!-- citation-page-top: Band10 p310 -->
+<!-- citation-page-top: Band10 p312 -->
 
 <!-- header: UNTERHAUSEN -->
 
@@ -57,4 +57,4 @@ Saalbau zu drei Jochen mit eingezogenem AR zu zwei Jochen und dreiseitigem Schlu
 
 
 [[File:Band10_chunk007_p006_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p311 -->
+<!-- citation-page-bottom: Band10 p313 -->

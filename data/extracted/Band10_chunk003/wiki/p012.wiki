@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=12 -->
-<!-- citation-page-top: Band10 p122 -->
+<!-- citation-page-top: Band10 p124 -->
 
 <!-- header: LANGENMOSEN -->
 
@@ -40,4 +40,4 @@ A AUGUSTINUS hält mit der Rechten ein flammendes Herz vor seiner Brust; Mitra u
 
 ----
 12.
-<!-- citation-page-bottom: Band10 p123 -->
+<!-- citation-page-bottom: Band10 p125 -->

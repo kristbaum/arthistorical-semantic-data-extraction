@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=1 -->
-<!-- citation-page-top: Band10 p100 -->
+<!-- citation-page-top: Band10 p102 -->
 
 <!-- header: HASFIBACH -->
 
@@ -23,4 +23,4 @@ A, BEFREIUNG PETRI AUS DEM GEFÄNGNIS (Act 12, 11) Ein Engel geleitet den Aposte
 
 
 [[File:Band10_chunk003_p001_img002.jpg|thumb|Die Pfarrgemeinde von Haselbach mit Pfarrer Franz Joseph Kramer, Ausschnitt aus Fresko A]]
-<!-- citation-page-bottom: Band10 p101 -->
+<!-- citation-page-bottom: Band10 p103 -->

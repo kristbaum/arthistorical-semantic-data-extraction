@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=11 -->
-<!-- citation-page-top: Band10 p70 -->
+<!-- citation-page-top: Band10 p72 -->
 
 <!-- header: BERGHEIM -->
 
@@ -67,4 +67,4 @@ B. V.-K
 
 
 [[File:Band10_chunk002_p011_img011.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p71 -->
+<!-- citation-page-bottom: Band10 p73 -->

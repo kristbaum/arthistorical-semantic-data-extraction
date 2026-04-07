@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=2 -->
-<!-- citation-page-top: Band10 p202 -->
+<!-- citation-page-top: Band10 p204 -->
 
 <!-- header: NEUBURG -->
 
@@ -11,4 +11,4 @@
 
 
 [[File:Band10_chunk005_p002_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p203 -->
+<!-- citation-page-bottom: Band10 p205 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=15 -->
-<!-- citation-page-top: Band10 p28 -->
+<!-- citation-page-top: Band10 p30 -->
 
 <!-- header: AMMERFELD -->
 
@@ -54,4 +54,4 @@ Die Werke Anwanders in Ammerfeld sind nicht einheitlich. Ir den Fällen, in dene
 
 ----
 3 I
-<!-- citation-page-bottom: Band10 p29 -->
+<!-- citation-page-bottom: Band10 p31 -->

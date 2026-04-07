@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=24 -->
-<!-- citation-page-top: Band10 p246 -->
+<!-- citation-page-top: Band10 p248 -->
 
 <!-- header: RENNERTSHOFEN -->
 
@@ -42,4 +42,4 @@ Erhaltungszustand und Restaurierungen: Durch grobe Reinigung anläßlich einer �
 
 
 [[File:Band10_chunk005_p024_img001.jpg|thumb|A Szenen aus dem Leben Johannes des Täufers]]
-<!-- citation-page-bottom: Band10 p247 -->
+<!-- citation-page-bottom: Band10 p249 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=6 -->
-<!-- citation-page-top: Band10 p160 -->
+<!-- citation-page-top: Band10 p162 -->
 
 <!-- header: NEUBURG -->
 
@@ -42,4 +42,4 @@ Erhaltungszustand und Restaurierungen: 1854 erfolgte eine Restaurierung durch de
 
 
 162
-<!-- citation-page-bottom: Band10 p161 -->
+<!-- citation-page-bottom: Band10 p163 -->

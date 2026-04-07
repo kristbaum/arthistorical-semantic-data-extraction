@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=11 -->
-<!-- citation-page-top: Band10 p120 -->
+<!-- citation-page-top: Band10 p122 -->
 
 <!-- header: IANGENMOSEN -->
 
@@ -39,4 +39,4 @@ Ein Wiesenstreifen mit verstreut herumliegenden Muscheln, Krebsen und Schneckenh
 
 
 [[File:Band10_chunk003_p011_img001.jpg|thumb|Berufung des Andreas]]
-<!-- citation-page-bottom: Band10 p121 -->
+<!-- citation-page-bottom: Band10 p123 -->

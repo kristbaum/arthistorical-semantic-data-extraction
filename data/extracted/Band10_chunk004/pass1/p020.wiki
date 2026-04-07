@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=20 -->
-<!-- citation-page-top: Band10 p188 -->
+<!-- citation-page-top: Band10 p190 -->
 
 <!-- header: NEURURO -->
 
@@ -90,4 +90,4 @@ Gentili, Domenico, Nicola da Tolentino, ebd. Bd 9, 1967 Sp. 953–968.
 Rano, Balbino, Tommaso da Villanova, ebd. Bd 12, 1969 Sp. 591-595.
 
 B. V.-K.
-<!-- citation-page-bottom: Band10 p189 -->
+<!-- citation-page-bottom: Band10 p191 -->

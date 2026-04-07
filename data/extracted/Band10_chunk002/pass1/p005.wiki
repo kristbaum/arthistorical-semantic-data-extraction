@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=5 -->
-<!-- citation-page-top: Band10 p58 -->
+<!-- citation-page-top: Band10 p60 -->
 
 <!-- header: BERGEN -->
 
@@ -71,4 +71,4 @@ Pfarrkirche, Gemeinde Bergheim, Diözese Eichstätt. Das Patronatsrecht lag seit
 
 
 [[File:Band10_chunk002_p005_img001.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band10 p59 -->
+<!-- citation-page-bottom: Band10 p61 -->

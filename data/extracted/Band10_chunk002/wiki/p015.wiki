@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=15 -->
-<!-- citation-page-top: Band10 p78 -->
+<!-- citation-page-top: Band10 p80 -->
 
 <!-- header: BURGHEIM -->
 
@@ -38,4 +38,4 @@ D ENTHAUPTUNG DER HLL. KOSMAS UND DA- MIAN Das Fresko ist von der Orgel halb ver
 
 ----
 8:
-<!-- citation-page-bottom: Band10 p79 -->
+<!-- citation-page-bottom: Band10 p81 -->

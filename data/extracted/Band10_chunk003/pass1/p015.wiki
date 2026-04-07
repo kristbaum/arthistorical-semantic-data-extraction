@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=15 -->
-<!-- citation-page-top: Band10 p128 -->
+<!-- citation-page-top: Band10 p130 -->
 
 <!-- header: MARIA BEINBERG -->
 
@@ -29,4 +29,4 @@ Am Hochaltar von 1660/70 steht in der Mittelnische über dem Tabernakel das Gnad
 
 
 [[File:Band10_chunk003_p015_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p129 -->
+<!-- citation-page-bottom: Band10 p131 -->

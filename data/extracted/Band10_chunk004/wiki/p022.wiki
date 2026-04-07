@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=22 -->
-<!-- citation-page-top: Band10 p192 -->
+<!-- citation-page-top: Band10 p194 -->
 
 <!-- header: NEUBURG -->
 
@@ -27,4 +27,4 @@ Die dreizehn ehemals zwischen den oberen Fenstern angebrachten Heiligendarstellu
 
 
 [[File:Band10_chunk004_p022_img001.jpg|thumb|A Verehrung Mariens durch die Neuburger Fürsten]]
-<!-- citation-page-bottom: Band10 p193 -->
+<!-- citation-page-bottom: Band10 p195 -->

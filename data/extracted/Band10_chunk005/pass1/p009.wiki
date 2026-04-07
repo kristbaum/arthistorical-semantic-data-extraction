@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=9 -->
-<!-- citation-page-top: Band10 p216 -->
+<!-- citation-page-top: Band10 p218 -->
 
 <!-- header: NEUBURG -->
 
@@ -71,4 +71,4 @@ Die Raumaufteilung des Philipp-Wilhelm-Baus ist nicht in originaler Form erhalte
 
 
 [[File:Band10_chunk005_p009_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p217 -->
+<!-- citation-page-bottom: Band10 p219 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=9 -->
-<!-- citation-page-top: Band10 p166 -->
+<!-- citation-page-top: Band10 p168 -->
 
 <!-- header: NEUBURG -->
 
@@ -34,4 +34,4 @@ d HIERONYMUS
 [[File:Band10_chunk004_p009_img004.jpg|thumb|d Hieronymus]]
 
 Für die Darstellungen der hll. Kirchenväter Ambrosius und Gregor können Kupferstiche von Anthonis Wierix nach Vorlagen von Maerten de Vos nachgewiesen werden, an denen sich Matthias Zink orientiert hat (Mauquoy-Hendrickx, Marie, Les Estampes des Wierix conservées au Cabinet des Estampes de la Bibliothèque Royale Albert Ier., Bd 1, Brüssel 1979, S. 180 u. Taf. 134, Nrn. 975, 977).
-<!-- citation-page-bottom: Band10 p167 -->
+<!-- citation-page-bottom: Band10 p169 -->

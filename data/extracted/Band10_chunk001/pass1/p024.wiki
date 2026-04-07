@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=24 -->
-<!-- citation-page-top: Band10 p46 -->
+<!-- citation-page-top: Band10 p48 -->
 
 <!-- header: BERGEN -->
 
@@ -88,4 +88,4 @@ Erhaltungszustand und Restaurierungen: Eine Innenrestaurierung fand 1905/06 stat
 
 
 A ENGEL VEREHREN DAS HEILIGE KREUZ VON BERGEN / ENGELSKONZERT Das Fresko über der Orgelempore ist nach W zu betrachten, bezieht sich also au den Gläubigen, der die Kirche verläßt. Dargestellt ist die Ver ehrung des Hl. Kreuzes von Bergen durch musizierend Engel, wie es im Kontrakt mit Baumgartner festgelegt ist
-<!-- citation-page-bottom: Band10 p47 -->
+<!-- citation-page-bottom: Band10 p49 -->

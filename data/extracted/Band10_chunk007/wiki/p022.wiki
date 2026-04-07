@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=22 -->
-<!-- citation-page-top: Band10 p342 -->
+<!-- citation-page-top: Band10 p344 -->
 
 
 == Personenregiste ==
@@ -53,4 +53,4 @@ Losen auf Trigertshausen, Max Joseph Plein von 130 Lösch auf Hilgertshausen, Ma
 201011, 10301, 10314111101 194, 212 Loth, Dominikus, Stadtpfarrer von Neuburg ı Dekan 156 Lucas a S. Benedicto OCD 177f. Ludwig der Bayer, Kaiser 155 Ludwig, Landgraf von Thüringen 88 Ludwig Anton von Pfalz-Neuburg, Bischof von Worms 196 Lutz, Michael, Maler 122, 316
 
 Mack, Alois, Maler 28, 119 Maratta, Carlo, Maler 31 Marcus von Aviano OMCap 150 Maul, P. Andreas SJ 115 Mayer, Claus-Peter, Restaurator
-<!-- citation-page-bottom: Band10 p343 -->
+<!-- citation-page-bottom: Band10 p345 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=1 -->
-<!-- citation-page-top: Band10 p250 -->
+<!-- citation-page-top: Band10 p252 -->
 
 <!-- header: RENNERTSHOFEN -->
 
@@ -21,4 +21,4 @@ Die Vierzehn Nothelfer unterhalb davon bilden eine dicht gedrängte Gruppe, aus 
 
 
 [[File:Band10_chunk006_p001_img002.jpg|thumb|B Die Vierzehn Nothelfer und weitere Patrone von Rennertshofen]]
-<!-- citation-page-bottom: Band10 p251 -->
+<!-- citation-page-bottom: Band10 p253 -->

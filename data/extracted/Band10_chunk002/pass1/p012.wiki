@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=12 -->
-<!-- citation-page-top: Band10 p72 -->
+<!-- citation-page-top: Band10 p74 -->
 
 <!-- header: BERTOLDSHEIM -->
 
@@ -90,4 +90,4 @@ EB<sub>5</sub> S. Andreas. mit Andreaskreuz, das durch Stricke zusammengebunden 
 EB<sub>6</sub> S. Petrus. mit den beiden Schlüsseln, im Hintergrund Zentralbau über Felsen als Sinnbild der Kirche.
 
 EB<sub>7</sub> S. Paulus mit Schwert und Buch mit der Inschrift: Gratias / ago / Deo meo / Semper / Pro Vobis / in Gratia / Dei. Cor. 1,4 (1 Cor 1,4), neben ihm ein Weihrauchgefäß
-<!-- citation-page-bottom: Band10 p73 -->
+<!-- citation-page-bottom: Band10 p75 -->

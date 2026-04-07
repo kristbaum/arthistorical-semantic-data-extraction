@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=2 -->
-<!-- citation-page-top: Band10 p302 -->
+<!-- citation-page-top: Band10 p304 -->
 
 [[File:Band10_chunk007_p002_img001.jpg|thumb]]
 
@@ -59,4 +59,4 @@ Dehio 1990, S. 1140.
 Parisi, Jeanette, Studien zu Leben und Werk des Augsburger Barockmalers Joseph Hartmann mit einem Katalog seiner Fresken, München 1994, S. 62-67.
 
 B. V.-K.
-<!-- citation-page-bottom: Band10 p303 -->
+<!-- citation-page-bottom: Band10 p305 -->

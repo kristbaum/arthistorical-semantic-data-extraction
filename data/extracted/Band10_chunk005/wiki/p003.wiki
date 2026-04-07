@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=3 -->
-<!-- citation-page-top: Band10 p204 -->
+<!-- citation-page-top: Band10 p206 -->
 
 <!-- header: NEUBURG -->
 
@@ -74,4 +74,4 @@ Seitz, Reinhard H., Das Familienbild des pfalz-neuburgisches Hofmalers Franz Haa
 Paula, Georg, Marginalien zum Leben und Werk des Neubur ger Hofmalers Franz Haagen, in: Ars Bavarica 69/70, 199 S. 27–36, hier S. 35 und Abb. 4.
 
 Nising, Horst, »... in keiner Weise prächtig«. Die Jesuitenkol legien der süddeutschen Provinz des Ordens und ihre städte bauliche Lage im 16. bis 18. Jahrhundert, Petersberg 2002 S. 228. B. V.-K
-<!-- citation-page-bottom: Band10 p205 -->
+<!-- citation-page-bottom: Band10 p207 -->

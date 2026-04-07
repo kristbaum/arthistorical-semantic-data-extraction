@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=13 -->
-<!-- citation-page-top: Band10 p324 -->
+<!-- citation-page-top: Band10 p326 -->
 
 <!-- header: WAIDHOFEN -->
 
@@ -91,4 +91,4 @@ AASS, Tom 9, Paris-Rom 1869, 21. November, S. 342–51.
 Selzer, Alois, St. Wendelin. Leben und Verehrung eines alemannisch-fränkischen Volksheiligen. Saarbrücken 1936, S. 83–89, 283 passim.
 
 3. V.-K.
-<!-- citation-page-bottom: Band10 p325 -->
+<!-- citation-page-bottom: Band10 p327 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=10 -->
-<!-- citation-page-top: Band10 p118 -->
+<!-- citation-page-top: Band10 p120 -->
 
 <!-- header: LANGENMOSEN -->
 
@@ -31,4 +31,4 @@ Wie in Maria Beinberg (S. 130) bezeichnet sich Baldauf auch hier als Hofmaler de
 
 
 [[File:Band10_chunk003_p010_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p119 -->
+<!-- citation-page-bottom: Band10 p121 -->

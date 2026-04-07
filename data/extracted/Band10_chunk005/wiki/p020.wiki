@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band10 p238 -->
+<!-- citation-page-top: Band10 p240 -->
 
 <!-- header: ORTLFINO -->
 
@@ -30,4 +30,4 @@ B DISPUTATION UND VISION DES HL. STEPHA- NUS Stephanus rechtfertigt sich und gib
 
 ----
 24 I
-<!-- citation-page-bottom: Band10 p239 -->
+<!-- citation-page-bottom: Band10 p241 -->

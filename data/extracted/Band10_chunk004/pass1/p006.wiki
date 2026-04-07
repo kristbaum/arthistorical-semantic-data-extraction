@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=6 -->
-<!-- citation-page-top: Band10 p160 -->
+<!-- citation-page-top: Band10 p162 -->
 
 <!-- header: NEUBURG -->
 
@@ -31,4 +31,4 @@ Erhaltungszustand und Restaurierungen: 1854 erfolgte eine Restaurierung durch de
 [[File:Band10_chunk004_p006_img002.jpg|thumb|A, A<sub>1-7</sub> Die Sieben Gaben des Heiligen Geistes, historische Aufnahme]]
 
 162  
-<!-- citation-page-bottom: Band10 p161 -->
+<!-- citation-page-bottom: Band10 p163 -->

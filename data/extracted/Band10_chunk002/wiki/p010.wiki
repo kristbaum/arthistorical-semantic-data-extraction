@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band10 p68 -->
+<!-- citation-page-top: Band10 p70 -->
 
 <!-- header: BEDCHEIM -->
 
@@ -54,4 +54,4 @@ A<sub>a-h</sub>, W<sub>1-5</sub> ANRUFUNGEN DER LAURETANISCHEN LITANEI Kleine Bi
 
 ----
 7 I
-<!-- citation-page-bottom: Band10 p69 -->
+<!-- citation-page-bottom: Band10 p71 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=9 -->
-<!-- citation-page-top: Band10 p16 -->
+<!-- citation-page-top: Band10 p18 -->
 
 <!-- header: AMBACH -->
 
@@ -67,4 +67,4 @@ Saalkirche zu drei Fensterachsen mit eingezogenem halbrund geschlossenen Chor un
 
 
 [[File:Band10_chunk001_p009_img003.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band10 p17 -->
+<!-- citation-page-bottom: Band10 p19 -->

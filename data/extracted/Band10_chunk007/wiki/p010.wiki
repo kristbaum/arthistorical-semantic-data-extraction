@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=10 -->
-<!-- citation-page-top: Band10 p318 -->
+<!-- citation-page-top: Band10 p320 -->
 
 <!-- header: WAIDHOFEN -->
 
@@ -23,4 +23,4 @@ C VERKÜNDIGUNG AN MARIA Maria kniet recht am Betpult und wendet sich zu dem Erz
 
 
 [[File:Band10_chunk007_p010_img004.jpg|thumb|2 Wendelin als Hirte des Edelmannes]]
-<!-- citation-page-bottom: Band10 p319 -->
+<!-- citation-page-bottom: Band10 p321 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=22 -->
-<!-- citation-page-top: Band10 p42 -->
+<!-- citation-page-top: Band10 p44 -->
 
 <!-- header: ANTONIBERG -->
 
@@ -87,4 +87,4 @@ Durch Doppelpilaster gegliederter hoher Saalbau zu sechs Fensterachsen mit Stich
 
 
 [[File:Band10_chunk001_p022_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p43 -->
+<!-- citation-page-bottom: Band10 p45 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=2 -->
-<!-- citation-page-top: Band10 p302 -->
+<!-- citation-page-top: Band10 p304 -->
 
 <!-- header: STRASS -->
 
@@ -68,4 +68,4 @@ B. V.-K.
 
 ----
 30.
-<!-- citation-page-bottom: Band10 p303 -->
+<!-- citation-page-bottom: Band10 p305 -->

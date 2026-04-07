@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=24 -->
-<!-- citation-page-top: Band10 p296 -->
+<!-- citation-page-top: Band10 p298 -->
 
 <!-- header: SINNING -->
 
@@ -65,4 +65,4 @@ EB, 1,10×2,0
 
 
 [[File:Band10_chunk006_p024_img002.jpg|thumb|Der Kirchenraum nach Westen mit den Fresken B<sub>3-4</sub>, B<sub>b</sub>, B<sub>e-f</sub>, EB<sub>1-6</sub>, EB<sub>3-1</sub>]]
-<!-- citation-page-bottom: Band10 p297 -->
+<!-- citation-page-bottom: Band10 p299 -->

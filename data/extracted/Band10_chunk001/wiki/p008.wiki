@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=8 -->
-<!-- citation-page-top: Band10 p14 -->
+<!-- citation-page-top: Band10 p16 -->
 
 <!-- header: AMBACH -->
 
@@ -46,4 +46,4 @@ Erhaltungszustand und Restaurierungen: 1914/15 fand eine Innenrestaurierung stat
 
 ----
 1/
-<!-- citation-page-bottom: Band10 p15 -->
+<!-- citation-page-bottom: Band10 p17 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=24 -->
-<!-- citation-page-top: Band10 p96 -->
+<!-- citation-page-top: Band10 p98 -->
 
 <!-- header: ELLENBRUNN -->
 
@@ -109,4 +109,4 @@ Erhaltungszustand und Restaurierungen: Feuchtigkeitsschäden und Risse, darunter
 
 ----
 ac
-<!-- citation-page-bottom: Band10 p97 -->
+<!-- citation-page-bottom: Band10 p99 -->

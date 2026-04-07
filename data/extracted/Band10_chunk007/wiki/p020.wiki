@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=20 -->
-<!-- citation-page-top: Band10 p338 -->
+<!-- citation-page-top: Band10 p340 -->
 
 <!-- header: MALER -->
 
@@ -44,4 +44,4 @@ ZINK (Zinck, Zinckh) Malerfamilie in Eichstätt
 Matthias, Maler, * 13.2.1665 Donaumünster † 2.11.1738 Eich stätt. Über seine Ausbildung ist nichts bekannt. Er heiratete 1691 in Eichstätt, war dort ansässig und hauptsächlich in de Umgebung tätig. Sein Hauptwerk ist die Freskierung des großen Saals in der Benediktinerabtei Neresheim von 1719. In Neuburg war er 1725 in der Hl.-Geist-Kirche tätig.
 
 Lit.: Weissenberger, Paulus, Die Malerfamilie Matthias und Johann Michael Zink. Ihre Lebensgeschichte und ihr Lebenswerk, in: Ellwanger Jahrbuch 22, 1967/68, S. 37-51.
-<!-- citation-page-bottom: Band10 p339 -->
+<!-- citation-page-bottom: Band10 p341 -->

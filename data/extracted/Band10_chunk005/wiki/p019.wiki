@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band10 p236 -->
+<!-- citation-page-top: Band10 p238 -->
 
 <!-- header: ORTLFING -->
 
@@ -54,4 +54,4 @@ EB<sub>1,3</sub> 0,95×1,8
 LD<sub>2</sub> 0,9,7,5,5 O 1 0.70×0.95
 
 O<sub>a-b</sub> 0,70×0,95
-<!-- citation-page-bottom: Band10 p237 -->
+<!-- citation-page-bottom: Band10 p239 -->

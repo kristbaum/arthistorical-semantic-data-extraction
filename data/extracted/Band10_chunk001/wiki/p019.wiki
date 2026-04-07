@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=19 -->
-<!-- citation-page-top: Band10 p36 -->
+<!-- citation-page-top: Band10 p38 -->
 
 <!-- header: ANTONIBERG -->
 
@@ -27,4 +27,4 @@ Die Verehrung des hl. Antonius von Padua (1195–1231; bereits 1232 kanonisiert)
 
 
 [[File:Band10_chunk001_p019_img001.jpg|thumb|Der hl. Antonius als Fürbitter, Ostseite von Fresko B]]
-<!-- citation-page-bottom: Band10 p37 -->
+<!-- citation-page-bottom: Band10 p39 -->

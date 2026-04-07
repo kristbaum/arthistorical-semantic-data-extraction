@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=4 -->
-<!-- citation-page-top: Band10 p206 -->
+<!-- citation-page-top: Band10 p208 -->
 
 <!-- header: NEUBURG -->
 
@@ -24,4 +24,4 @@ Saal von fünf zu drei Achsen (21×13,5 m; 9 m hoch) im ersten Stock des Gebäud
 [[File:Band10_chunk005_p004_img002.jpg|thumb|Der ehemalige Kongregationssaal, seit 1803 Provinzialbibliothek, nach Nordwesten]]
 
 [[File:Band10_chunk005_p004_img003.jpg|thumb|Franz Xaver Moritz von Löwen, 1731, Entwürfe zum Bau des Bruderschaftshauses, München]]
-<!-- citation-page-bottom: Band10 p207 -->
+<!-- citation-page-bottom: Band10 p209 -->

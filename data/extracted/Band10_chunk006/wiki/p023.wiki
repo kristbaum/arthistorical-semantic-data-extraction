@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=23 -->
-<!-- citation-page-top: Band10 p294 -->
+<!-- citation-page-top: Band10 p296 -->
 
 <!-- header: SINNING -->
 
@@ -70,4 +70,4 @@ Pötzl, III, S. 57.
 Dehio 1990, S. 1113
 
 Scharrer, Werner, mit Beiträgen von Hans Frei und Günther Kapfhammer, St. Nikolaus in Schwaben. Ein Volksheiliger in Kirche, Kunst und Brauchtum (Schriftenreihe der Museen des
-<!-- citation-page-bottom: Band10 p295 -->
+<!-- citation-page-bottom: Band10 p297 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=13 -->
-<!-- citation-page-top: Band10 p124 -->
+<!-- citation-page-top: Band10 p126 -->
 
 == GLORIE DES APOSTELS ANDREAS ==
 
@@ -38,4 +38,4 @@ Taubenschlag
 [[File:Band10_chunk003_p013_img011.jpg|thumb|10 Adler]]
 
 9 Waag
-<!-- citation-page-bottom: Band10 p125 -->
+<!-- citation-page-bottom: Band10 p127 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=10 -->
-<!-- citation-page-top: Band10 p268 -->
+<!-- citation-page-top: Band10 p270 -->
 
 <!-- header: SANDIZELL -->
 
@@ -72,4 +72,4 @@ A Speisung der Fünftausend
 B Heilung des Lahmen am Teich Bethesda
 
 Stadtwappen von Schrobenhausen
-<!-- citation-page-bottom: Band10 p269 -->
+<!-- citation-page-bottom: Band10 p271 -->

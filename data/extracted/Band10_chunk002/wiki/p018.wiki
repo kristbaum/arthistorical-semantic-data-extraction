@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=18 -->
-<!-- citation-page-top: Band10 p84 -->
+<!-- citation-page-top: Band10 p86 -->
 
 <!-- header: DEZENACKE -->
 
@@ -42,4 +42,4 @@ schwebt die Taube des Hl. Geistes. Etwas unterhalb kniet links die Gottesmutter 
 
 ----
 8-
-<!-- citation-page-bottom: Band10 p85 -->
+<!-- citation-page-bottom: Band10 p87 -->

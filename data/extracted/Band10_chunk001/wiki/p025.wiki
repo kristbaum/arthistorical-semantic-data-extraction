@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=25 -->
-<!-- citation-page-top: Band10 p48 -->
+<!-- citation-page-top: Band10 p50 -->
 
 <!-- header: BERGEN -->
 
@@ -24,4 +24,4 @@ Heraklius wird gezeigt, wie er im Begriff ist, einem Pagen Krone und Schwert zu 
 
 ----
 1.
-<!-- citation-page-bottom: Band10 p49 -->
+<!-- citation-page-bottom: Band10 p51 -->

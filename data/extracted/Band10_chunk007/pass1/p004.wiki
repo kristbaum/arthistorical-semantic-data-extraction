@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=4 -->
-<!-- citation-page-top: Band10 p306 -->
+<!-- citation-page-top: Band10 p308 -->
 
 <!-- header: UNTERHAUSEN -->
 
@@ -27,4 +27,4 @@ Nach dessen Aufhebung 1773 kam die Hofmark 1781 an die Malteserordenskommende Ne
 
 
 [[File:Band10_chunk007_p004_img003.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band10 p307 -->
+<!-- citation-page-bottom: Band10 p309 -->

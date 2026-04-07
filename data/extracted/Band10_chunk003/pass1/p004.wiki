@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=4 -->
-<!-- citation-page-top: Band10 p106 -->
+<!-- citation-page-top: Band10 p108 -->
 
 <!-- header: HOLLENBACH -->
 
@@ -72,4 +72,4 @@ Sturm, S. 20, 30, 92 und 104
 Leinfelder, K., Das Mirakelkreuz in der Pfarrkirche zu Hollenbach, in: Donau-Kurier (Aichach), Nr. 36 vom 31. 3. 1949. Horn/Meyer, 1958, S. 501–504. V
 
 B. V.-K
-<!-- citation-page-bottom: Band10 p107 -->
+<!-- citation-page-bottom: Band10 p109 -->

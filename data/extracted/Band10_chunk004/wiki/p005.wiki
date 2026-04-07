@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=5 -->
-<!-- citation-page-top: Band10 p158 -->
+<!-- citation-page-top: Band10 p160 -->
 
 <!-- header: NEUBUR -->
 
@@ -65,4 +65,4 @@ Geräumiger, nicht sehr hoher Saalbau zu fünf Achsen, eingezogener, niedrigerer
 
 
 [[File:Band10_chunk004_p005_img005.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p159 -->
+<!-- citation-page-bottom: Band10 p161 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=23 -->
-<!-- citation-page-top: Band10 p144 -->
+<!-- citation-page-top: Band10 p146 -->
 
 <!-- header: MAUERN -->
 
@@ -52,4 +52,4 @@ A, DAVID UND DER PESTENGEL (2 Sam 24, 10–25; 1 Chron 21, 1–30) Vorne links k
 
 ----
 14.
-<!-- citation-page-bottom: Band10 p145 -->
+<!-- citation-page-bottom: Band10 p147 -->

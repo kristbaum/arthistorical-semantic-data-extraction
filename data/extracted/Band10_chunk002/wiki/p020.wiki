@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=20 -->
-<!-- citation-page-top: Band10 p88 -->
+<!-- citation-page-top: Band10 p90 -->
 
 <!-- header: DEZENACKE -->
 
@@ -55,4 +55,4 @@ QT
 
 ----
 The same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the same of the sa 41
-<!-- citation-page-bottom: Band10 p89 -->
+<!-- citation-page-bottom: Band10 p91 -->

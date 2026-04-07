@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=3 -->
-<!-- citation-page-top: Band10 p104 -->
+<!-- citation-page-top: Band10 p106 -->
 
 <!-- header: HOLLENBACH -->
 
@@ -27,4 +27,4 @@ Erhaltungszustand und Restaurierungen: 1822 wurde die Kirche renoviert. 1842 wir
 [[File:Band10_chunk003_p003_img002.jpg|thumb|A Hl. Quirin als Patron von Hollenbach; A. Embleme auf den hl. Quirin]]
 
 [[File:Band10_chunk003_p003_img003.jpg|thumb|Der Kirchenraum, Blick in den Chor]]
-<!-- citation-page-bottom: Band10 p105 -->
+<!-- citation-page-bottom: Band10 p107 -->

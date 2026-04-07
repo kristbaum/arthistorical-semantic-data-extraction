@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band10 p238 -->
+<!-- citation-page-top: Band10 p240 -->
 
 <!-- header: ORTLFINO -->
 
@@ -23,4 +23,4 @@ B DISPUTATION UND VISION DES HL. STEPHANUS Stephanus rechtfertigt sich und gibt 
 
 
 [[File:Band10_chunk005_p020_img002.jpg|thumb|B Disputation und Vision des hl. Stephanus]]
-<!-- citation-page-bottom: Band10 p239 -->
+<!-- citation-page-bottom: Band10 p241 -->

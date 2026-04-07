@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=20 -->
-<!-- citation-page-top: Band10 p288 -->
+<!-- citation-page-top: Band10 p290 -->
 
 <!-- header: SINNING -->
 
@@ -25,4 +25,4 @@ C<sub>1-3</sub> SPEISUNGSSZENEN Die Darstellungen umgeben das Mittelbild C in de
 
 
 [[File:Band10_chunk006_p020_img001.jpg|thumb|C Verherrlichung der Eucharistie durch die Vier Erdteile, C<sub>a-d</sub> Embleme]]
-<!-- citation-page-bottom: Band10 p289 -->
+<!-- citation-page-bottom: Band10 p291 -->

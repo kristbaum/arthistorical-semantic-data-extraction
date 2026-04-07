@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=23 -->
-<!-- citation-page-top: Band10 p44 -->
+<!-- citation-page-top: Band10 p46 -->
 
 <!-- header: RERCEN -->
 
@@ -29,4 +29,4 @@ Die völlig einheitliche Bildausstattung ist nicht in einem Zug entstanden. In e
 
 
 [[File:Band10_chunk001_p023_img003.jpg|thumb|Entwurfsskizze zu C Auffindung des Heiligen Kreuzes, Nürnberg]]
-<!-- citation-page-bottom: Band10 p45 -->
+<!-- citation-page-bottom: Band10 p47 -->

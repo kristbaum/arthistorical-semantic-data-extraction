@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=21 -->
-<!-- citation-page-top: Band10 p40 -->
+<!-- citation-page-top: Band10 p42 -->
 
 <!-- header: ANTONIBERG -->
 
@@ -25,4 +25,4 @@ B<sub>27b</sub> EMBLEME In der Hohlkehle unterhalb des Hauptbildes ist jeweils i
 
 
 [[File:Band10_chunk001_p021_img004.jpg|thumb|B<sub>12</sub> Schwebendes Herz]]
-<!-- citation-page-bottom: Band10 p41 -->
+<!-- citation-page-bottom: Band10 p43 -->

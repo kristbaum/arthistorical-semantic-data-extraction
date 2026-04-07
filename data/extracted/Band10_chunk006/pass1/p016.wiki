@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=16 -->
-<!-- citation-page-top: Band10 p280 -->
+<!-- citation-page-top: Band10 p282 -->
 
 <!-- header: SINNING -->
 
@@ -45,4 +45,4 @@ Erhaltungszustand und Restaurierungen: 1998 fand eine Innenrenovierung durch die
 [[File:Band10_chunk006_p016_img002.jpg|thumb|Stuck von Matthias Abel]]
 
 [[File:Band10_chunk006_p016_img003.jpg|thumb|A Vertreibung der Wechsler aus dem Tempel, A111 Kirchenväter]]
-<!-- citation-page-bottom: Band10 p281 -->
+<!-- citation-page-bottom: Band10 p283 -->

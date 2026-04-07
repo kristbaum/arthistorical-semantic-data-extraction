@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band10 p236 -->
+<!-- citation-page-top: Band10 p238 -->
 
 <!-- header: ORTLFING -->
 
@@ -44,4 +44,4 @@ Träger der Deckenmalerei: A, B, C Holztonne mit Stichkappen. Rahmen: Geschwunge
 Technik: Fresko; A, B, C, EB<sub>1-3</sub> polychrom; O<sub>a-b</sub> camaieu braun.
 
 Maße: A Höhe 8,50 m; 3,20 × 4,05 m. B Höhe 8,50 m; 5,70 × 4,00 m. C Höhe 8,30 m; 3,50 × 3,10 m. EB<sub>1,3</sub> 0,95 × 1,83 m. LD<sub>2</sub> 0,95 × 3,35 m. O<sub>1</sub> 0,70 × 0,95 m. O<sub>a-b</sub> 0,70 × 0,95 m.
-<!-- citation-page-bottom: Band10 p237 -->
+<!-- citation-page-bottom: Band10 p239 -->

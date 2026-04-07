@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=14 -->
-<!-- citation-page-top: Band10 p326 -->
+<!-- citation-page-top: Band10 p328 -->
 
 <!-- header: 7FI I -->
 
@@ -23,4 +23,4 @@ Pfarrkirche (Pfarrverband Neuburg), Stadt Neuburg, Diözese Augsburg. Zell gehö
 
 
 [[File:Band10_chunk007_p014_img003.jpg|thumb|Stuckkartusche am Chorbogen mit Chronogramm 1739]]
-<!-- citation-page-bottom: Band10 p327 -->
+<!-- citation-page-bottom: Band10 p329 -->

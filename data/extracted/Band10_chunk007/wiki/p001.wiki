@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=1 -->
-<!-- citation-page-top: Band10 p300 -->
+<!-- citation-page-top: Band10 p302 -->
 
 <!-- header: STRASS -->
 
@@ -27,4 +27,4 @@ EB<sub>1</sub> ERSTER TRAUM JOSEPHS Ein Engel erscheint dem schlafenden Joseph u
 
 
 [[File:Band10_chunk007_p001_img002.jpg|thumb|A Himmelfahrt Mariens]]
-<!-- citation-page-bottom: Band10 p301 -->
+<!-- citation-page-bottom: Band10 p303 -->

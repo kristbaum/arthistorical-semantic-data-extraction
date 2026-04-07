@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=10 -->
-<!-- citation-page-top: Band10 p218 -->
+<!-- citation-page-top: Band10 p220 -->
 
 <!-- header: NEUBURG -->
 
@@ -31,4 +31,4 @@ Anläßlich des Einzugs des Kurfürsten Carl Philipp in Neuburg 1717 ist Praunec
 
 
 [[File:Band10_chunk005_p010_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p219 -->
+<!-- citation-page-bottom: Band10 p221 -->

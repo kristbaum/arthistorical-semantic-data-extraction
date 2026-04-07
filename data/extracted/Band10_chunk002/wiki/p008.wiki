@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=8 -->
-<!-- citation-page-top: Band10 p64 -->
+<!-- citation-page-top: Band10 p66 -->
 
 <!-- header: BERGHEIM -->
 
@@ -31,4 +31,4 @@ Der originelle, qualitätvolle Stuck in Weiß und Gelb auf grünem und rosa Grun
 
 
 [[File:Band10_chunk002_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p65 -->
+<!-- citation-page-bottom: Band10 p67 -->

@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=24 -->
-<!-- citation-page-top: Band10 p146 -->
+<!-- citation-page-top: Band10 p148 -->
 
 <!-- header: MAUER -->
 
@@ -64,4 +64,4 @@ a MARIA AVERTIT REDV/CIT OMNIBVS ADDICTOS [Inschrift ergibt keinen Sinn] – Bur
 b MARIA ASSISTIT RE / NATIS IN AGONE (Maria hilft allen Getauften in der Todesnot). - Segelschiff auf stürmischer See.
 
 C MARIA IMMACULATA Maria in weißem Kleid und blauem, rosa gefütterten Mantel steht auf der Weltkugel und tritt den Kopf der Schlange nieder. In der Linken hält sie eine Lilie. Kleine Engel umgeben sie und breiten einen roten Vorhang zur Seite.
-<!-- citation-page-bottom: Band10 p147 -->
+<!-- citation-page-bottom: Band10 p149 -->

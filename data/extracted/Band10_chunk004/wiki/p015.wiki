@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=15 -->
-<!-- citation-page-top: Band10 p178 -->
+<!-- citation-page-top: Band10 p180 -->
 
 <!-- header: NEUBURG -->
 
@@ -103,4 +103,4 @@ Art. Firmung, in: RDK 8, 1987, Sp. 1337-87 (Karl-Augus Wirth).
 Art. Flamme als Attribut, in: RDK 9, 1993, Sp. 641-93 (Pete Luh).
 
 B. V.-K.
-<!-- citation-page-bottom: Band10 p179 -->
+<!-- citation-page-bottom: Band10 p181 -->

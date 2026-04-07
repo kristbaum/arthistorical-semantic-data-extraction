@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=8 -->
-<!-- citation-page-top: Band10 p214 -->
+<!-- citation-page-top: Band10 p216 -->
 
 <!-- header: NEUBUR -->
 
@@ -31,4 +31,4 @@ Die beiden Embleme beziehen sich auf den Marianischer Pakt, der wie bei der Late
 
 
 [[File:Band10_chunk005_p008_img004.jpg|thumb|Anton Ginther, 1711, Mater amoris et doloris, Marienembleme als Vorlagen]]
-<!-- citation-page-bottom: Band10 p215 -->
+<!-- citation-page-bottom: Band10 p217 -->

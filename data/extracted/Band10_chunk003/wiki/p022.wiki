@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=22 -->
-<!-- citation-page-top: Band10 p142 -->
+<!-- citation-page-top: Band10 p144 -->
 
 <!-- header: MATIFRN -->
 
@@ -42,4 +42,4 @@ A MARIA ALS HIMMELSKÖNIGIN Maria thront auf Wolken, die von Engeln gestützt un
 
 ----
 14.
-<!-- citation-page-bottom: Band10 p143 -->
+<!-- citation-page-bottom: Band10 p145 -->

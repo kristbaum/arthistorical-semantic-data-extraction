@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=14 -->
-<!-- citation-page-top: Band10 p26 -->
+<!-- citation-page-top: Band10 p28 -->
 
 <!-- header: AMMERFELD -->
 
@@ -55,4 +55,4 @@ Die Werke Anwanders in Ammerteld gehen, wie schon Merk beobachtet hat, zum groß
 
 
 [[File:Band10_chunk001_p014_img010.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p27 -->
+<!-- citation-page-bottom: Band10 p29 -->

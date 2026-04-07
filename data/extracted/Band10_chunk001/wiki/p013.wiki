@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=13 -->
-<!-- citation-page-top: Band10 p24 -->
+<!-- citation-page-top: Band10 p26 -->
 
 <!-- header: AMMEREFID -->
 
@@ -47,4 +47,4 @@ B. SEMPER / AD ISTUM. (Immer zu diesem [sc. solem, zur Sonne]). Eine große Sonn
 
 
 [[File:Band10_chunk001_p013_img007.jpg|thumb|Der zwölfjährige Jesus im Temp]]
-<!-- citation-page-bottom: Band10 p25 -->
+<!-- citation-page-bottom: Band10 p27 -->

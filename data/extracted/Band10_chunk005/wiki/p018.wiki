@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=18 -->
-<!-- citation-page-top: Band10 p234 -->
+<!-- citation-page-top: Band10 p236 -->
 
 <!-- header: OBERHAUSEN -->
 
@@ -58,4 +58,4 @@ Braun-Augsburg, Bd 1, S. 478; Bd 2, S. 274. Leuthenmayr, Johann Baptist, Oberhau
 Hopp, Bd 2, S. 78. Réau III, 1, S. 321 f. Horn/Meyer 1958, S. 588–591
 
 B. V.-K
-<!-- citation-page-bottom: Band10 p235 -->
+<!-- citation-page-bottom: Band10 p237 -->

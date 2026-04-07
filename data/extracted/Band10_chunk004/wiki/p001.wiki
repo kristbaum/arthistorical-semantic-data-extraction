@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=1 -->
-<!-- citation-page-top: Band10 p150 -->
+<!-- citation-page-top: Band10 p152 -->
 
 <!-- header: MAIJERN -->
 
@@ -49,4 +49,4 @@ IS
 
 ----
 I 53
-<!-- citation-page-bottom: Band10 p151 -->
+<!-- citation-page-bottom: Band10 p153 -->

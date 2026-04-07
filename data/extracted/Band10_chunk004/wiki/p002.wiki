@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=2 -->
-<!-- citation-page-top: Band10 p152 -->
+<!-- citation-page-top: Band10 p154 -->
 
 <!-- header: MAUERN -->
 
@@ -56,4 +56,4 @@ Schloß allerdings erst durch den seit 1660 errichteten barocker Ostflügel, der
 
 ----
 ISS
-<!-- citation-page-bottom: Band10 p153 -->
+<!-- citation-page-bottom: Band10 p155 -->

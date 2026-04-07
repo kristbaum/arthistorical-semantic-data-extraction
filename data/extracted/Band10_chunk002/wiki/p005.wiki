@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=5 -->
-<!-- citation-page-top: Band10 p58 -->
+<!-- citation-page-top: Band10 p60 -->
 
 <!-- header: BERGEN -->
 
@@ -82,4 +82,4 @@ Nachforderung von 142 fl. 48 kr. mit der Begründung, nach Baubeginn 1741 seien 
 
 ----
 6 I
-<!-- citation-page-bottom: Band10 p59 -->
+<!-- citation-page-bottom: Band10 p61 -->

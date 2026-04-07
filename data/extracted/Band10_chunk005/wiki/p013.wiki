@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=13 -->
-<!-- citation-page-top: Band10 p224 -->
+<!-- citation-page-top: Band10 p226 -->
 
 <!-- header: NEUBURG -->
 
@@ -15,4 +15,4 @@ tenpaar dargestellt mit Ölzweig und Liktorenbündel als Zeichen für Friede und
 
 
 [[File:Band10_chunk005_p013_img002.jpg|thumb|Divina Providentia, Ausschnitt aus dem Deckenbild im Malereikabinett]]
-<!-- citation-page-bottom: Band10 p225 -->
+<!-- citation-page-bottom: Band10 p227 -->

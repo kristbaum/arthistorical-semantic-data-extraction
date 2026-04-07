@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=21 -->
-<!-- citation-page-top: Band10 p90 -->
+<!-- citation-page-top: Band10 p92 -->
 
 <!-- header: DEZENACKER -->
 
@@ -74,4 +74,4 @@ Die Engel an der Decke des LHs um die Heiliggeist-Öffnung A) und die Medaillons
 
 ----
 Q
-<!-- citation-page-bottom: Band10 p91 -->
+<!-- citation-page-bottom: Band10 p93 -->

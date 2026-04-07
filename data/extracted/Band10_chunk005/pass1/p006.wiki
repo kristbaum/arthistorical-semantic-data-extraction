@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=6 -->
-<!-- citation-page-top: Band10 p210 -->
+<!-- citation-page-top: Band10 p212 -->
 
 <!-- header: NEITRIE -->
 
@@ -46,4 +46,4 @@ Die Bildformate der quadrierten Zeichnungen stimmen mit denen in der Provinzialb
 schildert zunächst sechs Ereignisse vor Martins Berufung zum Bischofsamt. Die Reihe wird über die O-Seite weitergeführt mit den Wundertaten, die er nach seiner Erwählung zum Bischof vollbrachte, und endet in der NO-Ecke der nördlichen Schmalseite mit seinem Tod.
 
 1 MANTELSPENDE Dimidium quoque gratum (Auch die Hälfte ist willkommen) Unmittelbar vor seiner Taufe
-<!-- citation-page-bottom: Band10 p211 -->
+<!-- citation-page-bottom: Band10 p213 -->

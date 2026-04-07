@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=10 -->
-<!-- citation-page-top: Band10 p18 -->
+<!-- citation-page-top: Band10 p20 -->
 
 <!-- header: AMMERFELD -->
 
@@ -50,4 +50,4 @@ Mit drei Figurengruppen führt Anwander in das Bild ein und versucht, Bildtiefe 
 
 
 20
-<!-- citation-page-bottom: Band10 p19 -->
+<!-- citation-page-bottom: Band10 p21 -->

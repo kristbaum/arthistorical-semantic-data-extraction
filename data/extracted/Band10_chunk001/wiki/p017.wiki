@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=17 -->
-<!-- citation-page-top: Band10 p32 -->
+<!-- citation-page-top: Band10 p34 -->
 
 <!-- header: ANTONIBERO -->
 
@@ -38,4 +38,4 @@ bis zur Brusthöhe in der S-Wand der Annakapelle gegen den Chorraum der Antonius
 
 ----
 3.4
-<!-- citation-page-bottom: Band10 p33 -->
+<!-- citation-page-bottom: Band10 p35 -->

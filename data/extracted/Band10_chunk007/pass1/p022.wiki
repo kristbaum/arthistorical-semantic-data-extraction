@@ -1,5 +1,5 @@
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=22 -->
-<!-- citation-page-top: Band10 p342 -->
+<!-- citation-page-top: Band10 p344 -->
 
 
 == Personenregister ==
@@ -302,4 +302,4 @@ Maratta, Carlo, Maler 31
 Marcus von Aviano OMCap 150  
 Maul, P. Andreas SJ 115  
 Mayer, Claus-Peter, Restaurator  
-<!-- citation-page-bottom: Band10 p343 -->
+<!-- citation-page-bottom: Band10 p345 -->
