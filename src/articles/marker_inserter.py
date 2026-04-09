@@ -159,11 +159,22 @@ def insert_markers(
                 if marker_line is not None:
                     start = find_paragraph_before(lines, marker_line)
 
+        # Fallback: overlapping pages but no marker found — use page-top anyway.
         if start is None:
-            print(
-                f"  ERROR: cannot find split point for "
-                f"{row.get('Bauwerk', '?')!r} (page {sv})"
-            )
+            start = _find_page_top(lines, sv)
+            if start is None:
+                start = _find_page_bottom(lines, sv)
+            if start is not None:
+                link = f"file://{wiki_path}:{start + 1}"
+                print(
+                    f"  WARN: inexact split point for {row.get('Bauwerk', '?')!r}"
+                    f" (page {sv}, overlapping pages) — review: {link}"
+                )
+            else:
+                print(
+                    f"  ERROR: page {sv} not found in file for"
+                    f" {row.get('Bauwerk', '?')!r} — skipping"
+                )
         start_lines.append(start)
 
     # Pair (start_line, row), drop articles without a start line.
