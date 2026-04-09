@@ -2,7 +2,6 @@ data/additional_ocr/
 data/raw/
 data/extracted/*/add_ocr/
 data/extracted/*/images/
-data/splitting/
 data/extracted/*/processed_images/
 data/extracted/*/pages/
 .venv/
