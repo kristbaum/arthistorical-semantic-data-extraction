@@ -55,6 +55,21 @@ ISBN 3 7991 5737 9
 Das Corpus der barocken Deckenmalerei in Deutschland ist mit Unterstützung der Deutschen Forschungsgemeinschaft erstellt und veröffentlicht
 <!-- citation-page-bottom: Band01 p5 -->
 
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Danksagung (Band 1)
+|Typ=
+|Ort=
+|davor=
+|danach=Adelshausen (Weil), Kapelle St. Martin
+|AutorIn1=Bauer, Hermann
+|AutorIn2=Rupprecht, Bernhard
+}}
+
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=4 -->
 <!-- citation-page-top: Band01 p6 -->
 
@@ -78,6 +93,7 @@ Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir ho
 
 Der Süddeutsche Verlag hat für das CORPUS DER BAROCKEN DECKENMALEREI eine große verlegerische Aufgabe und Verpflichtung übernommen. Für die verständnisvolle Zusammenarbeit danken wir dem Verlag - Herrn Direktor Robert Schäfer, Frau Dr. Helga Heikamp-Wagner, Herrn Dr. Hans-Peter Rasp, Herrn Rudolf Miggisch und Herrn Hans Widmann.
 <!-- citation-page-bottom: Band01 p7 -->
+{{End}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band01 p8 -->
@@ -677,7 +693,7 @@ Zitiert sind die jeweils benutzten Ausgaben und Auflagen
 |Lemma=Adelshausen (Weil), Kapelle St. Martin
 |Typ=Sakral
 |Ort=Adelshausen (Weil)
-|davor=
+|davor=Danksagung (Band 1)
 |danach=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -803,25 +819,6 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 <!-- header: BEUERBACH -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=23
-|Originalseitenbis=24
-|Lemma=Beuerbach (Weil), Kapelle im Holz Maria Eich
-|Typ=Sakral
-|Ort=Beuerbach (Weil)
-|davor=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist
-|danach=Beuern, Pfarrkirche St. Michael
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Pfarrkirche, Gemeinde Fuchstal, Diözese Augsburg; z. Z. der Ausmalung Herrschaft Asch, die im Besitz des adeligen Damenstifts St. Stephan in Augsburg war, welches auch das Präsentationsrecht ausübte
 
 '''Patrozinium:''' St. Johann Baptist
@@ -891,6 +888,24 @@ Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 19-39. Hopp, Jakob, Pfründe-S
 Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen Kunstdenkmale), München 1960, S. 63.
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22–23), München 1971, S. 266
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=23
+|Originalseitenbis=24
+|Lemma=Beuerbach (Weil), Kapelle im Holz Maria Eich
+|Typ=Sakral
+|Ort=Beuerbach (Weil)
+|davor=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist
+|danach=Beuern, Pfarrkirche St. Michael
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Kapelle im Holz Maria Eich, Gemeinde Weil, Pfarrei Beuerbach (von Epfenhausen vikariert), Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Benediktbeuern das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
 
@@ -2736,25 +2751,6 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 <!-- header: HAUSEN pei Geltendorf -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=87
-|Originalseitenbis=90
-|Lemma=Hausen bei Geltendorf, Pfarrkirche St. Nikolaus
-|Typ=Sakral
-|Ort=Hausen bei Geltendorf
-|davor=Hagenheim, Filialkirche Unsere Liebe Frau
-|danach=Hechenwang, Filialkirche St. Martin
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Filialkirche, Gemeinde und Pfarrei Hofstetten, Diözese Augsburg; z. Z. der Ausmalung Pfarrkirche, auf die Kloster Wessobrunn das Präsentationsrecht hatte, Gericht Landsberg
 
 
@@ -2838,7 +2834,24 @@ KDB I OB (1), S. 528 f.
 Neu, Wilhelm, Johann Caspar Schäffler – ein vergessener Maler des Lech-Ammerseegebietes, in: Lechisarland 1962, S. 42.  
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 488.  
+{{End}}
 
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=87
+|Originalseitenbis=90
+|Lemma=Hausen bei Geltendorf, Pfarrkirche St. Nikolaus
+|Typ=Sakral
+|Ort=Hausen bei Geltendorf
+|davor=Hagenheim, Filialkirche Unsere Liebe Frau
+|danach=Hechenwang, Filialkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 Pfarrkirche (z. Z. von Geltendorf vikariert), Gemeinde Geltendorf, Diözese Augsburg; z. Z. der Ausmalung Gericht Landsberg  
 
 '''Patrozinium:''' St. Nikolaus, z. Z. der Ausmalung Johann Baptist  
@@ -4428,12 +4441,12 @@ Schmidt, Hermann und Hugo Schnell, Stadtpfarrkirche Landsberg am Lech (= KKF 88)
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=132
-|Originalseitenbis=143
+|Originalseitenbis=140
 |Lemma=Landsberg am Lech, Heilig-Kreuz-Kirche
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, Stadtpfarrkirche Mariä Himmelfahrt
-|danach=Landsberg am Lech, ehem. Ursulinenkloster
+|danach=Landsberg am Lech, Sakristei der ehem. Jesuitenkollegienkirche
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -4622,6 +4635,23 @@ K<sub>1</sub> Aloisius von Gonzaga aus Mantua (*1568 †1591), der Patron der st
 ED Kreuzigung der Jesuiten-Missionare. Nach anfänglich großen Erfolgen der missionierenden Jesuiten und Franziskaner in Japan gab es nach dem Regierungsantritt des Kaisers Toicosama Rückschläge. Er zeigte sich als Feind des katholischen Glaubens und ließ 1597 in Nagasaki sechs Franziskanermissionare, drei japanische Jesuiten und 17 Konvertiten kreuzigen. Im Fresko ist das Martyrium der drei Japaner Paul Miki, Jean Goto und Jacques Kisai dargestellt. Ganz im Hintergrund sieht man die übrigen Martyrer. Das Durchstechen der Gekreuzigten mit Lanzen, das im Bild gezeigt wird, hat tatsächlich stattgefunden. 1627 wurden die Martyrer von Nagasaki von Papst Urban VIII heiliggesprochen. Franziskaner und Jesuiten ließen in der — übrigens seltenen — Darstellung dieses Themas jeweils nur bzw. im Vordergrund ihre eigenen Martyrer darstellen, wie es auch hier geschehen ist.
 
 Literatur siehe S. 142
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=140
+|Originalseitenbis=141
+|Lemma=Landsberg am Lech, Sakristei der ehem. Jesuitenkollegienkirche
+|Typ=Sakral
+|Ort=Landsberg am Lech
+|davor=Landsberg am Lech, Heilig-Kreuz-Kirche
+|danach=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Sakristei der ehem. Jesuitenkollegienkirche
 
@@ -4661,7 +4691,23 @@ Literatur siehe S. 14
 <!-- header: LANDSBERG AM LECH -->
 
 <!-- header: LANDSBERG AM LECH -->
-
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=142
+|Originalseitenbis=143
+|Lemma=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche
+|Typ=Sakral
+|Ort=Landsberg am Lech
+|davor=Landsberg am Lech, Sakristei der ehem. Jesuitenkollegienkirche
+|danach=Landsberg am Lech, ehem. Ursulinenkloster
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 Ignatiuskapelle der ehem. Jesuitenkollegienkirche
 
 '''Patrozinium:''' St. Ignatius
@@ -4726,12 +4772,12 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=144
-|Originalseitenbis=156
+|Originalseitenbis=155
 |Lemma=Landsberg am Lech, ehem. Ursulinenkloster
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, Heilig-Kreuz-Kirche
-|danach=Landsberg am Lech, ehem. St. Leonhardskapelle
+|danach=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -4992,6 +5038,23 @@ EB1-6 ST. AUGUSTINUS-SZENEN Die sechs Bilder an den Emporenbrüstungen ehren Aug
 Die mittleren Bilder zeigen Bischof Augustinus als den Kirchenlehrer: Mitte unten EB2 Augustinus sinnt über die Dreifaltigkeit nach und sieht den Knaben am Meer Wasser schöpfen (legendär); Mitte oben EB3 Augustinus in der Studierstube beim Schreiben; er hält sein in Liebe entflammtes Herz empor (zur Augustinus-Ikonographie vgl. das Programm von Rottenbuch, s. LKr. Weilheim-Schongau). Direkt darunter ist – in Stuck gebildet – das dornenumwundene Herz Jesu dargestellt. Die Liebe des Erlösers Jesu zu den Menschen und die Liebe des Heiligen zu Gott werden anschaulich aufeinander bezogen. Die Herz-Jesu-Darstellung bezieht sich zudem auf einen Weihetitel der Kirche.
 
 ANGELA MERICI Im Oratorium der Ursulinen wird die Ordensgründerin Angela Merici (*1470 oder 1474, †1540, Ordensgründung 1535, Kanonisation erst 1807) durch eine porträthafte Darstellung geehrt. Sie ist in der schwarzen Ursulinen-Ordenstracht wiedergegeben; in dem aufgeschlagenen Buch ein Wahlspruch Ama te / Deum / Super / Omnia, darüber ein Kruzifixus. Im Hintergrund ist eine Vision Angelas angedeutet: Engel schweben in einer Lichtbahn vom Himmel auf und nieder. Gemeint ist die Vision im Jahr 1497 oder 1498 zu Brudazzo. Angela Merici sah die Jakobsleiter, junge Mädchen, geleitet von Engeln, stiegen diese zum Himmel hinan. Die Vision gab den Anstoß zur späteren Ordensgründung (Biblioteca Sanctorum, Bd 1, Sp. 1191–95). Literatur siehe S. 156
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=155
+|Originalseitenbis=156
+|Lemma=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus
+|Typ=Sakral
+|Ort=Landsberg am Lech
+|davor=Landsberg am Lech, ehem. Ursulinenkloster
+|danach=Landsberg am Lech, ehem. St. Leonhardskapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Stiegenhaus im ehem. Kloster- und Schulgebäude der Ursulinen, z. Z. Dominikanerinnenkloster
 
@@ -5058,7 +5121,7 @@ Schnell, Hugo, Die Landsberger Dominikanerinnenkirche. Das letzte Werk Dominikus
 |Lemma=Landsberg am Lech, ehem. St. Leonhardskapelle
 |Typ=Sakral
 |Ort=Landsberg am Lech
-|davor=Landsberg am Lech, ehem. Ursulinenkloster
+|davor=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus
 |danach=Landsberg am Lech, Filialkirche St. Johannes
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -5830,25 +5893,6 @@ Müller-Hahl, Bernhard, Ortsgeschichte von Obermeitingen (= Unsere Heimat am Lec
 
 <!-- header: PENZIN( -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=179
-|Originalseitenbis=179
-|Lemma=Penzing, Pfarrkirche St. Matrin
-|Typ=Sakral
-|Ort=Penzing
-|davor=Obermühlhausen, Filialkirche St. Peter und Paul
-|danach=Petzenhausen, Pfarrkirche St. Peter und Paul
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Filialkirche, Gemeinde Dießen, Pfarrei Thaining (von Stadl vikariert), Diözese Augsburg; z. Z. der Ausmalung Pfarrei Dettenschwang, auf die Kloster Wessobrunn das Präsentationsrecht hatte, Gericht Landsberg
 
 '''Patrozinium:''' St. Peter und Paul
@@ -5885,6 +5929,25 @@ Hopp, Jakob, Pfründe-Statistik der Diözese Augsburg, Augsburg 1893, Bd 1, S. 3
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 550.
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern. Bd 22–23), München 1971, S. 158.
+
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=179
+|Originalseitenbis=179
+|Lemma=Penzing, Pfarrkirche St. Matrin
+|Typ=Sakral
+|Ort=Penzing
+|davor=Obermühlhausen, Filialkirche St. Peter und Paul
+|danach=Petzenhausen, Pfarrkirche St. Peter und Paul
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatten die Freiherrn von Pfetten das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
 
@@ -6058,7 +6121,7 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 |Typ=Sakral
 |Ort=Pflugdorf
 |davor=Petzenhausen, Pfarrkirche St. Peter und Paul
-|danach=Pöring, Schlosskirche St. Maria von der Versöhnung
+|danach=Pflugdorf, Filialkirche St. Laurentius, Sakristei
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -6188,8 +6251,23 @@ Literatur s. S. 188
 <!-- citation-page-top: Band01 p188 -->
 
 <!-- header: PFLUGDORF -->
-
-PORING
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=188
+|Originalseitenbis=188
+|Lemma=Pflugdorf, Filialkirche St. Laurentius, Sakristei
+|Typ=Sakral
+|Ort=Pflugdorf
+|davor=Pflugdorf, Filialkirche St. Laurentius
+|danach=Pöring, Schlosskirche St. Maria von der Versöhnung
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Sakristei der Filialkirche St. Laurentius
 
@@ -6250,7 +6328,7 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 |Lemma=Pöring, Schlosskirche St. Maria von der Versöhnung
 |Typ=Sakral
 |Ort=Pöring
-|davor=Pflugdorf, Filialkirche St. Laurentius
+|davor=Pflugdorf, Filialkirche St. Laurentius, Sakristei
 |danach=Prittriching, Pfarrkirche St. Peter und Paul
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -7676,25 +7754,6 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 <!-- citation-page-top: Band01 p230 -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=231
-|Originalseitenbis=231
-|Lemma=Stadl, Pfarrkirche St. Johann Baptist
-|Typ=Sakral
-|Ort=Stadl
-|davor=Schwabstadl, Kapelle St. Johannes
-|danach=Stoffen, Pfarrkirche Mariä Heimsuchung
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Kapelle (seit 1871 Friedhofkapelle), Gemeinde und Pfarrei Obermeitingen, Diözese Augsburg; z. Z. der Ausmalung Hofmarksherrschaft Steingaden
 
 '''Patrozinium:''' St. Johannes, ehem. St. Apollonia
@@ -7724,6 +7783,25 @@ Die hl. Apollonia steht frontal neben einem hohen Steinsockel und präsentiert i
 
 
 Steichele-Schröder, Bd 8 (1932), S. 455. Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S. 544 f.
+
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=231
+|Originalseitenbis=231
+|Lemma=Stadl, Pfarrkirche St. Johann Baptist
+|Typ=Sakral
+|Ort=Stadl
+|davor=Schwabstadl, Kapelle St. Johannes
+|danach=Stoffen, Pfarrkirche Mariä Heimsuchung
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Pfarrkirche, Gemeinde Pflugdorf-Stadl, Diözese Augsburg; z. Z. der Ausmalung war die Pfarrei Kloster Andechs inkorporiert, Pfleggericht Rauhenlechsberg
 
@@ -8092,25 +8170,6 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 <!-- header: UNTERDIESSEN -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=241
-|Originalseitenbis=246
-|Lemma=Unterdießen, Pfarrkirche St. Nikolaus
-|Typ=Sakral
-|Ort=Unterdießen
-|davor=Unterbeuern, Kapelle St. Magnus
-|danach=Unterfinning, Pfarrkirche Zur Schmerzhaften Muttergottes
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Kapelle, Gemeinde Dießen, Pfarrei Thaining (z. Z. von Stadl vikariert), Diözese Augsburg; z. Z. der Ausmalung Pfarrei und Hofmark St. Georgen (Inhaber Kloster Die- (Sen)
 
 
@@ -8147,7 +8206,24 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 
 [[File:Band01_chunk005_p021_img001.jpg|thumb]]
+{{End}}
 
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=241
+|Originalseitenbis=246
+|Lemma=Unterdießen, Pfarrkirche St. Nikolaus
+|Typ=Sakral
+|Ort=Unterdießen
+|davor=Unterbeuern, Kapelle St. Magnus
+|danach=Unterfinning, Pfarrkirche Zur Schmerzhaften Muttergottes
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung Herrschaft Unterdießen, die zwischen 1664 und 1779 die Grafen Thurn und Taxis innehatten
 
@@ -8619,25 +8695,6 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 <!-- header: UTTING -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=255
-|Originalseitenbis=263
-|Lemma=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes
-|Typ=Sakral
-|Ort=Vilgertshofen
-|davor=Utting, Filial- und Wallfahrtskirche St. Leonhard
-|danach=Vilgertshofen, Wirtshaus
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Filial- und Wallfahrtskirche, Pfarrei Utting, Diözese Augsburg; z. Z. der Ausmalung Klosterhofmark Andechs
 
 
@@ -8686,6 +8743,25 @@ Müller-Hahl, Bernhard, Heimatbuch Stadt- und Landkreis Landsberg am Lech, Münc
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23). München 1971, S. 109, 180
 
 Wallfahrtskirche Wirtshaus S. 263
+
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=255
+|Originalseitenbis=263
+|Lemma=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes
+|Typ=Sakral
+|Ort=Vilgertshofen
+|davor=Utting, Filial- und Wallfahrtskirche St. Leonhard
+|danach=Vilgertshofen, Wirtshaus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Wallfahrtskirche, Gemeinde Pflugdorf-Stadl, Pfarrei Stadl, Diözese Augsburg; z. Z. der Ausmalung war die Pfarrei Issing-Vilgertshofen Kloster Wessobrunn inkorporiert und zur Klosterhofmark Wessobrunn gehörig
 
