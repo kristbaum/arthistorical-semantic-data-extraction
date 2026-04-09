@@ -2833,7 +2833,7 @@ KDB I OB (1), S. 528 f.
 
 Neu, Wilhelm, Johann Caspar Schäffler – ein vergessener Maler des Lech-Ammerseegebietes, in: Lechisarland 1962, S. 42.  
 
-Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 488.  
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 488.
 {{End}}
 
 {{Artikel
@@ -10176,6 +10176,24 @@ Die Themen der anschließenden und im folgenden behandelten Kapellen stehen in k
 
 Literatur siehe S. 316
 
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=301
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
 Törringkapelle (auch Jäger-, Seefelder-, Hubertus- oder Eustachiuskapelle genannt)
 
 '''Zum Bauwerk:''' Nördliche Seitenkapelle der Klosterkirche; Rechteckraum
@@ -10246,9 +10264,23 @@ Bushart, Bruno, Ein Skizzenbild J. B. Zimmermanns für Andechs, in: Pantheon 26,
 
 Deutsche Barockgalerie (Städtische Kunstsammlungen Augsburg – Bayerische Staatsgemäldesammlungen), Bd. 2. Bearbeitung Eckhard von Knorre, Augsburg 1970, S. 213. Weitere Literatur siehe S. 316
 
-
-== Josephskapelle ==
-
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=302
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Josephskapelle
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 '''Zum Bauwerk:''' Südliche Seitenkapelle der Klosterkirche östlich an die Sakristei anschließend; querrechteckiger Raum
 
@@ -10297,6 +10329,23 @@ Literatur siehe S. 316
 <!-- header: ANDECHS -->
 
 <!-- header: ANDECHS -->
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=304
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Antoniuskapelle
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Sakristei (Antoniuskapelle)
 
@@ -10346,6 +10395,24 @@ Ein eucharistisches Wunder ist das Thema der hagiographischen Szene des Deckenbi
 
 Literatur siehe S. 310
 
+{{End}}
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=305
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Kapellenraum
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
 Ehem. Kapellenraum, jetzt Abstellraum
 
 '''Zum Bauwerk:''' Die Umbauten Ende des 17. Jh. haben hinter der »Schmerzhaften Kapelle« Reste einer früheren Kapelle übriggelassen, und zwar einen schmalen, tonnengewölbten Restraum (A) und weiter dahinter einen kleinen quadratischen Raum (B). Auftraggeber ist wohl Abt Michael Einslin von Andechs (1610–40), der die »Closter- Kirch mit einem Gewölb, schönen Altären, und Bilderen gezieret« (Historiola . . . Zweiter Theil, S. 75).
@@ -10387,6 +10454,23 @@ Literatur siehe S. 316
 <!-- header: ANDECHS -->
 
 <!-- header: ANDECH -->
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=306
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Ehem. Prälatenkapelle, auch Kreuzkapelle
 
@@ -10471,9 +10555,26 @@ W<sub>1</sub>
 <!-- header: ANDECHS -->
 
 <!-- header: ANDECH -->
+{{End}}
 
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=308
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
-== Ehem. Fürstensaal, jetziger Festsaal des Klosters ==
+Ehem. Fürstensaal, jetziger Festsaal des Klosters
 
 
 '''Zum Bauwerk:''' Nach einem verheerenden Brand 1669 wurde ab 1671 unter Abt Maurus Rambeck von Andechs (1666-86) der Klosterbau wiedererrichtet. 1674 ist die neue Bibliothek, die sich im gleichen Trakt wie die Fürstenzimmerflucht befindet, fertiggestellt. Der Deckenstuck des Fürstensaales weist stilistisch auf eine Entstehungszeit in den Jahren vor 1705 hin.
@@ -10516,8 +10617,26 @@ Das profane Thema entspricht der Bestimmung des Raumes innerhalb der Fürstenzim
 
 Literatur siehe S. 311 und 316
 
+{{End}}
 
-== Ehem. Fürstenzimmer ==
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=308
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstenzimmer
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Ehem. Fürstenzimmer
 
 
 '''Zum Bauwerk:''' Das etwas kleinere Fürstenzimmer (9,00 × 7,60 m) ist der erste Saal der Fürstenzimmerflucht im Osttrakt des Klosters. Der Raum hat nur in der O-Wand Fenster (vgl. Fürstensaal).
@@ -10593,8 +10712,26 @@ Leonore Berghoff, Emanuele Tesauro und seine Concetti. Unter besonderer Berücks
 
 <!-- header: ANDECH -->
 
+{{End}}
 
-== Ehem. Klosterapotheke, z. Z. Schlesisches Museum ==
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=308
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Ehem. Klosterapotheke, z. Z. Schlesisches Museum
 
 
 '''Zum Bauwerk:''' Auf Betreiben des P. Felix Funk, der ein berühmter Apotheker und Leiter der Klosterapotheke von Andechs war, wurde mit Hilfe einer Spende von 3000 fl., die Pater Funks Mutter, die Witwe des Stadtapothekers von Landshut, beisteuerte, 1763 unter Abt Meinrad Moosmüller der neue Apothekenbau auf dem Fronhof errichtet (frdl. Mitt. Stiftsbibliothek St. Bonifaz, München). Das Wappen des Abtes mit der Jahreszahl 1763 und der Inschrift M.A.I.M.S.A. (Meinradus Abbas in Monte Sancto Andecensi) befindet sich über der mittleren Eingangstür. Einfacher, zweigeschossiger Bau. Mehrere Räume im Erdgeschoß, im Obergeschoß Kräuterboden. Durch einen Vorraum gelangt man links in den Hauptraum der ehem. Apotheke, der mit Deckenbildern geschmückt ist. Rechteckiger, durch Schwibbögen in drei Joche gegliederter Saal (7,95 × 4,75 m); nach O und W Fenster.
@@ -11179,24 +11316,6 @@ Warncke, Fritz, Maria in der »Grünen Senke«, in: Bayerische Heimat, Sonntagsb
 
 <!-- header: INNING -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=327
-|Originalseitenbis=331
-|Lemma=Inning a. Ammersee, Pfarrkirche St. Johann Baptist
-|Typ=Sakral
-|Ort=Inning a. Ammersee
-|davor=Hadorf, Filialkirche St. Johann Baptist
-|danach=Kempfenhausen, Schlosskapelle St. Anna
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
 
 Filialkirche, Pfarrei Steinebach, Diözese Augsburg; z. Z. der Ausmalung zur Pfarrei Erling gehörig, die dem Kloster Andechs inkorporiert war, Gericht Weilheim
 
@@ -11231,6 +11350,25 @@ Die bestimmende Farbe der Architekturen ist Gelbgrau. In den Gewändern sind sch
 
 Braun-Augsburg, Bd 1, S. 362 f.  
 Thieme-Becker, Bd 13, S. 133 (s. v. Galrapp).
+
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=327
+|Originalseitenbis=331
+|Lemma=Inning a. Ammersee, Pfarrkirche St. Johann Baptist
+|Typ=Sakral
+|Ort=Inning a. Ammersee
+|davor=Hadorf, Filialkirche St. Johann Baptist
+|danach=Kempfenhausen, Schlosskapelle St. Anna
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Seligenthal in Landshut das Präsentationsrecht auf die Pfarrei, Herrschaft Seefeld
 
@@ -14733,6 +14871,13 @@ B<sub>b</sub> ADRIAN mit abgehauenen Füßen und rechter Hand, mit dem Beil als 
 
 Ergänzungen zur Ikonographie: Die Bildthematik bezieht sich auf das Patrozinium der Kirche, das heilige Kreuz. In B wird eine Szene aus der zuerst von Ambrosius aufgezeichneten Geschichte der Kreuzauffindung geschildert, nach der die hl. Helena unter den drei in Jerusalem aufgefundenen Kreuzen das Kreuz Christi durch die Wunderheilung eines Kranken identifizierte (Ribadeneira-Hornig Bd 1, 3.5., S. 678 f.; LCI Bd 2, Sp. 642-48). Das Hochaltarbild darunter zeigt die Verehrung des Hl. Kreuzes durch die vier Erdteile. In A ist die historische Schlacht auf dem Lechfeld dargestellt, in der Kaiser Otto I. 955 über die ungläubigen Ungarn siegte. In dieser Schlacht soll Bischof Ulrich das Kreuz und die Siegesvoraussage zuteil geworden sein. Das Siegeskreuz des Engels hat die Form des in Augsburg als Reliquie verehrten sog. Ulrichskreuzes. Der Name OTTO auf dem Posaunenwimpel sowie die topographisch detaillierte Silhouette der Stadt Augsburg kennzeichnen den historischen Schauplatz. Gleichzeitig deuten die römische Standarte und die Bildinschrift IN HOC / SIGNO / VINCES auf die Schlacht an der Milvischen Brücke im Jahre 312 hin, die im heilsgeschichtlichen Sinn als Vorbild und Legitimation der Ungarnschlacht angesehen wird. Die historisierende Darstellung der Ungarn, welche in den Schlachtberichten des 18. Jh. meist als Hunnen bezeichnet werden, weist türkische Motive, Halbmond in Fahne und Säbel, auf (vgl. Romano Kistler, Basilica ... St. Ulrich und Afra in Augsburg ..., Augsburg 1712, S. 15, Kupferstich und Schlachtbericht).
 
+== Literatur ==
+KDB I OB (1), S. 586  
+Feulner, Adolf, Die Zick, in: Jahrbuch des Vereins für Christliche Kunst 5, 1921, S. 15 f.  
+Mayer-Pfannholz, Anton, Kreuzberg bei Steingaden, in: Weilheimer Sonntagsblatt 9, 1932, Nr. 6.  
+Hofmann, Sigfrid, Stift Steingaden 1147-1803, Steingaden 1947, S. 27, 33, 74.  
+Pfarrkirche, Gemeinde und Pfarrei Eglfing, Diözese Augsburg; z. Z. der Ausmalung (seit 1616) hatte das Augustinerchorherrenstift Bernried das Ernennungsrecht mit Vorbehalt des Präsentationsrechtes vom Kurfürsten, Gericht Weilheim  
+
 {{End}}
 
 {{Artikel
@@ -14752,12 +14897,6 @@ Ergänzungen zur Ikonographie: Die Bildthematik bezieht sich auf das Patrozinium
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-== Literatur ==
-KDB I OB (1), S. 586  
-Feulner, Adolf, Die Zick, in: Jahrbuch des Vereins für Christliche Kunst 5, 1921, S. 15 f.  
-Mayer-Pfannholz, Anton, Kreuzberg bei Steingaden, in: Weilheimer Sonntagsblatt 9, 1932, Nr. 6.  
-Hofmann, Sigfrid, Stift Steingaden 1147-1803, Steingaden 1947, S. 27, 33, 74.  
-Pfarrkirche, Gemeinde und Pfarrei Eglfing, Diözese Augsburg; z. Z. der Ausmalung (seit 1616) hatte das Augustinerchorherrenstift Bernried das Ernennungsrecht mit Vorbehalt des Präsentationsrechtes vom Kurfürsten, Gericht Weilheim  
 
 '''Patrozinium:''' St Martin  
 
@@ -15438,25 +15577,6 @@ Ehemaliges Augustiner-Chorherrenstift, Diözese Augsburg Kirchenbau: Stiftskirch
 
 Prälatenkapelle im Prälaturstock, z. Z. Hauskapelle der Dominikanerinnen S. 456 Bibliothek im Bibliothekstrakt, z. Z. Privatbesitz S. 459 Saal im alten Studienseminar, z. Z. Schulzimmer der Volksschule S. 468 Literatur S. 469
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=451
-|Originalseitenbis=455
-|Lemma=Polling, ehem. Augustiner-Chorherrenstift, Reliquienkapelle
-|Typ=Sakral
-|Ort=Polling
-|davor=Polling, ehem. Augustiner-Chorherrenstift, Stiftkirche
-|danach=Polling, ehem. Augustiner-Chorherrenstift, Prälatenkapelle
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Ehem. Stiftskirche, jetzt Pfarrkirche
 
 '''Patrozinium:''' Kreuzauffindung
@@ -15491,6 +15611,24 @@ Nach oben erscheint der Raum durch die helle Glorie geöffnet; dadurch und durch
 
 [[File:Band01_chunk010_p001_img001.jpg|thumb]]
 
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=451
+|Originalseitenbis=455
+|Lemma=Polling, ehem. Augustiner-Chorherrenstift, Reliquienkapelle
+|Typ=Sakral
+|Ort=Polling
+|davor=Polling, ehem. Augustiner-Chorherrenstift, Stiftkirche
+|danach=Polling, ehem. Augustiner-Chorherrenstift, Prälatenkapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Ehem. Reliquienkapelle der Stiftskirche, sog. Achbergkapelle, heutige Sakristei
 
@@ -18379,26 +18517,6 @@ Literatur siehe S. 547
 
 == UNTEREGLFING ==
 
-
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=549
-|Originalseitenbis=552
-|Lemma=Unterhausen, Pfarr- und Wallfahrtskirche Unsere Liebe Frau
-|Typ=Sakral
-|Ort=Unterhausen
-|davor=Untereglfing, Filialkirche Mariä Himmelfahrt
-|danach=Weilheim, Stadtpfarrkirche Mariä Himmelfahrt
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Filialkirche, Gemeinde und Pfarrei Eglfing, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Bernried das Präsentationsrecht auf die Pfarrei, Gericht Weilheim
 
 '''Patrozinium:''' Mariä Himmelfahrt
@@ -18434,6 +18552,25 @@ Gailler, Franciscus Salesius, Vindeliciae Sacrae Tomi 3.. Capitulum Weilheimense
 Braun-Augsburg, Bd 1, S. 340 f. (Eglfing).
 
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 34.
+
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Unterhausen, Pfarr- und Wallfahrtskirche Unsere Liebe Frau
+|Typ=Sakral
+|Ort=Unterhausen
+|davor=Untereglfing, Filialkirche Mariä Himmelfahrt
+|danach=Weilheim, Stadtpfarrkirche Mariä Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Pfarr- und Wallfahrtskirche, Diözese Augsburg; z. Z. der Ausmalung (seit 1754) hatten die Hofmarksherren von Tutzing, Freiherren von Vieregg, das Präsentationsrecht, Gericht Weilheim
 
@@ -19300,25 +19437,6 @@ Literatur siehe S. 599
 
 <!-- header: WESSOBRUNN -->
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=575
-|Originalseitenbis=589
-|Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang
-|Typ=Sakral
-|Ort=Wessobrunn
-|davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Stiegenhaus
-|danach=Wessobrunn, Pfarrkirche St. Johann Baptist
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
 Stiegenhaus im ehemaligen Gästetrakt, z. Z. Zweigniederlassung der Missionsbenediktinerinnen von Tutzing
 
 '''Zum Bauwerk:''' Das Stiegenhaus (7,75 × 5,15 m) befindet sich in dem unter Abt Leonhard Weiß ab 1680 errichteten Gästetrakt
@@ -19353,6 +19471,25 @@ Uber den architektonisch ungegliederten Wänden des Treppenhauses setzt oberhalb
 
 
 Literatur siehe S 599
+
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang
+|Typ=Sakral
+|Ort=Wessobrunn
+|davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Stiegenhaus
+|danach=Wessobrunn, Pfarrkirche St. Johann Baptist
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Gang im ehem. Prälatentrakt und anschließender Gang im Gästetrakt
 
@@ -20684,6 +20821,7 @@ Lieb, Norbert, Barockkirchen zwischen Donau und Alpen München (1953) 31969, S. 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=13 -->
 <!-- citation-page-top: Band01 p624 -->
 
+{{End}}
 
 == REGISTER ==
 
@@ -20927,6 +21065,17 @@ Wörth, Hofmark 342
 Wörthsee → Steinebach  
 Würzburg 78, 560  
 
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Personenregister (Band 1)
+|davor=
+|danach=
+}}
 == Personenregister ==  
 
 Kursivschrift verweist auf die in den behandelten Landkreisen vertretenen Male  
@@ -21306,14 +21455,27 @@ Zwinck, Franz Joseph, Pfarrer 66, 70, 72
 Zwinck, Malerfamilie  
 Zwinck, Franz Seraph, Maler 54, 59, 422-25  
 Zwinck, Johann Joseph, Maler 513-16  
+{{End}}
 
 <!-- citation-page-bottom: Band01 p629 -->
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=16 -->
 <!-- citation-page-top: Band01 p630 -->
 
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Ikonographisches Register (Band 1)
+|Typ=
+|Ort=
+|davor=
+|danach=
+}}
 
-== Ikonographisches Register ==
+
 
 
 Aaron 33 ff., 228, 463 Aaronstab → Synagoge Abel 458 Abendmahl 225, 228, 394-96, 544 Abiathar 425 Abigail 413 Abraham 413, 458, 463 Melchisedech reicht Abraham Brot und Wein 59 Opfer Abrahams 148, 152, 188, 257, 260 Abstinentia – Enthaltsamkeit 196, 198. → Continentia Abundantia – Überfluß 155 Accedia – Trägheit 370 f. Achan 260 Achtzahl → Seligkeiten, Acht Adalbert, Priester aus Augsburg 44 Adam 391, 463, 601 Adam und Eva 151, 272, 458, 600 f. Vertreibung aus dem Paradies 258 Adela von Andechs 45 Adelheid, Kaiserin 46 Adelinde von Buchau 46 Adeodatus 489 f. Adler → Johannes Evangelist, → Jupiter Adonias 391, 420 Adrian, Martyrer 431 Aedesius 319 Aegeas 96 ff. Aequitas – Gleichmut 44 Afra Zyklus 376–77 Taufe 377 Richterszene 377 Tod 377 Patronatsszene 376 Africa → Erdteile Ägypter, Vernichtung der 260 Ähren → Notburga Albrecht III., Herzog von Bayern 300 Alexander der Große 466 Almosenbüchse → Notburga Aloisius von Gonzaga 137, 140 Älteste, Vierundzwanzig 531 Alto 337 Alypius 490 Aman (Hamman) 413, 420, 517 Amantius 571 Ambrosius 489–91 Taufe des Augustinus 154, 490 f. Predigt 489 f. → Kirchenväter America → Erdteile Amiens → Martin von Tours, Mantelspende Ammer 463 Amor (Eros) 203, 489 Amor carnalis (Cupido) 267, 296, 299, 372, 456, 463, 490 Amor Dei – Gottesliebe 152, 198, 492–94 Ampel als Erkenntnis Gottes 492 Ampeln, sieben brennende 153 Amsel
@@ -21648,6 +21810,19 @@ Patronatsdarstellung 127 f.
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=22 -->
 <!-- citation-page-top: Band01 p642 -->
 
+{{End}}
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Embleme Register (Band 1)
+|davor=
+|danach=
+}}
+
 
 == Embleme-Register ==
 
@@ -21662,9 +21837,18 @@ Embleme mit Epigramm-Inschriften 93 f., 242, 545, 547
 
 BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblemliteratur herangezogenen Bild motive und Lemmata.
 
+{{End}}
 
-== BILDMOTIV ==
-
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Bildmotive (Band 1)
+|davor=
+|danach=
+}}
 
 Adler 130 f., 186, 270, 315, 353, 354, 583 f. Amboß 107 f. Anker 579 Apfelbaum 206 Apothekerschrank 545 f. Ararat 182, 454 f. Arche Noe 182, 454 f. Äskulapstab 316 Axt 186
 
@@ -21714,8 +21898,18 @@ Waage 315 Waffen 588 f. Wanderer 65, 584 f. Wasser 315, 546 f. → Fluß, → Me
 
 Zirkel 579
 
+{{End}}
 
-== LEMMATA, LATEINISCHE ==
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Lateinische Lemmata (Band 1)
+|davor=
+|danach=
+}}
 
 
 Abluor non obruor. 315 Accisa virescet altius. 94 Ad fontem aguarum. 242 Ad omnia. 94 Aedificabo ecclesiam. 182 Agnoscit Praesentem. 593 Altior ex fundo est. 233 Ante illum praecedet. 249 Ante retroque. 315 Ardet et aspicit unum. 130 Ardet ut erumpat. 418 Auxit place amorem 116
@@ -21760,8 +21954,18 @@ Ubique similis. 547 Undique firma. 197 Unica via humili funere surgit in altum 5
 
 Valles abundabunt frumento. 206 Vas admirabile. 353 Vestigia solis adorant. 130 Vir singularis. 353 Vis nulla tenebit. 131 Viscera fesse carent. 316 Vitis fructificans. 454 Vox clamantis in deserto. 593
 
+{{End}}
 
-== LEMMATA, DEUTSCHE ==
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=
+|Originalseitenbis=
+|Lemma=Deutsche Lemmata (Band 1)
+|davor=
+|danach=
+}}
 
 
 »All Fleiß ist hie vergeben Müh.« 589 »Am A die nächste, nach Gott die höchste.« 577 »Apollo mich schützt, Wenns donnert und blitzt.« 587 »Auf ihren Lauf' ich merke auf.« 577 »Aufs Wasser zwar gesezt, doch gar nicht henezt« 589
