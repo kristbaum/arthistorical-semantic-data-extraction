@@ -1,0 +1,134 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=488
+|Originalseitenbis=493
+|Lemma=Oberschleißheim, Neues Schloss Schleißheim, Salle des Colonnes
+|Typ=Profan
+|Ort=Oberschleißheim
+|davor=Oberschleißheim, Neues Schloss Schleißheim
+|danach=Oberschleißheim, Neues Schloss Schleißheim, Sala Terrena
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== <b>Eingangshalle</b> (Raum 1 ==
+
+
+'''Zum Bauwerk:''' Querrechteckiger Saal (15,30 × 27,50 m) zu fünfzehn Gewölbejochen, fünf in der Breite und drei in der Tiefe. Acht Säulen und entsprechende Wandpilaster (in den vier Ecken eingerundet) tragen die stuckierten Gurtund Schildbögen. Von den fünf Bögen nach W sind die vier seitlichen mit Fenstertüren durchlichtet, der mittlere ist durch ein Portal, das später eingebaut wurde, geschlossen. Im S führen drei offene Bogenstellungen in das anschließende Treppenhaus, im O fünf in die angrenzende Sala
+
+Terrena. Im N führt die mittlere Bogenöffnung mit einer Fenstertür zum Speisesaal; die beiden seitlichen Bögen sind Blendbogen, in denen sich unten Kamine befinden.
+
+'''Auftraggeber:''' Kurfürst Max Emanuel von Bayern (1680-1726)
+
+'''Autor und Entstehungszeit:''' Nikolaus Gottfried Stuber (* 1688 München † 1749 München) 1723
+
+In einer Anordnung Max Emanuels von Anfang des Jahres 1723 darüber, {ZITAT|002} (BHStA I, FS 147 d, fol. 159) steht als Punkt 1: der undere Saal von denen 8 Saullen solle gewolbt und in fresco gemahlen auch in allem ausgemacht werdten«. Das Bauamt antwortet (ebd., fol. 155): {ZITAT|003} – Nach den Arbeiten im Laternenraum über dem Treppenhaus (S. 506 f.) war Stubers zweite Arbeit für Schleißheim die Salle des Colonnes. In einer Aufstellung von Stubers Arbeiten von 1738 (s. unten) wird das Entstehungsdatum 1723 und eine vereinbarte Bezahlung von 2400 fl. angegeben. Nach einem zweiten Bericht von 1740 (s. unten) wurde die Ausmalung nicht ganz fertiggestellt: Stuber malte die Gewölbefelder, die Bogenlaibungen im O und W und die ornamentalen Rahmungen der Bögen an
+
+
+[[File:Band03-2_chunk010_p020_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p489 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=21 -->
+<!-- citation-page-top: Band03-2 p490 -->
+
+Salle des Colonnes, Schleißheim
+
+
+[[File:Band03-2_chunk010_p021_img001.jpg|thumb|Feld 12, Schema II mit Lagernden]]
+
+
+allen vier Seiten. Von den fünfzehn Gewölbefeldern waren aber nur vier mit Gold gehöht, von den stuckierten 38 Gurt- und Schildbögen nur zwei vergoldet worden, Bogenrahmungen und Laibungen waren nicht vergoldet. Die beiden »Pögen«, die nach dem Bericht der Kommission noch bemalt werden mußten, sind wahrscheinlich die fehlenden Bogenrahmungen in der Mitte der O- und W-Seite (1973 ergänzt)
+
+
+== Zeichnung ==
+
+
+Zu den Deckenfresken gibt es einen Entwurf Stubers, Tuschpinsel über Bleigriffelvorzeichnung, 23 × 49,2 cm, SGS Mü, Inv. Nr. 1948/4, der die Hälfte eines Gewölbefeldes zeigt: das linke Viertel ist Entwurf für Schema I (mit Putti), das rechte Viertel Entwurf für Schema II (mit Flußgöttern). In Details weicht der Entwurf von der Ausführung ab (Volk 1970, S. 142–45).
+
+Über die Arbeiten Stubers für Schleißheim gibt es vollständige und detaillierte Berichte. Schon 1738 stellte eine Kommission anläßlich einer Restschuldforderung Stubers dessen Arbeiten für den Hof von 1722 bis zum 12. 5. 1727 zusammen, wobei sich noch ein Ausstand von 3108 fl. ergab. In diesem Bericht werden die vereinbarten Einzelsummen für die einzelnen Arbeiten und die Jahreszahl der Entstehung aufgeführt (BHStA I, HR I, 473/894). Nach dem Tod Stubers 1749 stellte seine Witwe eine weitere Liste von Stubers Arbeiten für den Hof in der fraglichen Zeit auf und forderte die Ausstände. Darauf schickte man eine Kommission, »artis peritos«, darunter Balthasar Augustin Albrecht, nach Schleißheim und Nymphenburg, um festzustellen, was von den angegebenen Arbeiten gemacht sei, da sie zum Teil »nit völlig hergestöllet worden«. Der Bericht der Kommission lautet (BHStA I HR I, 286/342, fol. 40ff.): »Es bezeiget sich, Nr<sup>o</sup>1, das in der ober der haubt Stiegen befündtliche Döckh (= Treppenhaus, Laternenraum S. 506f.) sambt dem Fries, und Wändte, auch Fenstern, so in fresco mit ornamenten, und Grotesquen, gemahlt, 8 grosse und 11 klaine Rundell, sambt 4 fensterfillungen noch auszumachen sint, welche mit 350 f. hergestöllet, und ausgemahlt werdten könten
+
+Nr<sup>o</sup>2 hingegen, ist das Neue Stiegen Modell nach dem Accord hergestöllet Nr<sup>o</sup>3 aber in dem herundern Sall, (= Salle des Colonnes), alwo 15 Kuplen, und 38 gurtt, sich befündten, hiervon sint 11 Kuplen und 36 gurtten noch zu vergoltten ... dan 24 f. die auß Ausmahlung der zwey Pögen in disem Sall ergehen werdten, zusammen pro 245 f 15 × gleichförmig anzerichten waren. Wohingegen
+
+Nr<sup>o</sup>4 das Cabinet (= Jagdkabinett) zu Schleißheim würckhlich ausgemach ist, auch
+
+Nr<sup>o</sup>5 aldahin zwey Rüs zur Neuen Cascada gemacht: dan ain dergleichen gemahlt: und das ganze Modell von dem Neuen Gebäu gefast: Und nebstbey nach mein oberPaumeisters gunezrhainer selbstigen wissen, zu Nymphenburg die Claußen von Öhlfarben wohl ausgemahlt: sondern auch aldaselbsten
+<!-- citation-page-bottom: Band03-2 p491 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=22 -->
+<!-- citation-page-top: Band03-2 p492 -->
+
+<!-- header: SCHLEISSHEIM. NEUES SCHLOSS -->
+
+<!-- header: SALA TERREN -->
+
+Nr<sub>o</sub>6 in dem kleinen Cavinet. Die Döckhen ingleichen mit öhlfarben wohl ausgemahlt worden (s. S. 424)
+
+Nr<sup>o</sup>7 bey dem herunderen, unter der gallerie stehenden Sall (= Sala Terrena) sind noch 7 Bögen auszumahlen gegen 50 fl. Uncosten. Wo ybrigens
+
+Nr<sup>o</sup>8 die kleine Capellen (= Kammerkapelle) vollständig ausgemahlt und mir
+
+Nr<sup>o</sup>9 wegen der 8 f. angerechneten Verdienst, es ebenfahls einige ausstehlung mit underworffen ist, also das all. und yede bey dem Cfl. Lustgebäu Schleisshaimb von dem verstorbenen Stuber persl. bis dato annoch unausgemachter sich bezaigente Mahlereyen, wie es auß von sich gegebenes handtglib, hirvor angeregter Hofmahler Balthasar Albrecht an aydts statt confirmiret, in allem pro 645 f. 15 × vollständig ausgearbeitet werdten konten.«
+
+Diese Summe, von dem geforderten Ausstand abgezogen, ergab 2462 fl. und wurde von der Kommission der Witwe Stubers zugesprochen, von ihr aber schon 1750 abermals moniert. Die tatsächlichen Zahlungen aus der Bauamtskasse an Stuber im fraglichen Zeitraum wurden mit 2800 fl. angegeben (BHStA I, HR II, 19).
+
+Nikolaus Gottfried Stuber (* 15. 1. 1688 München, † 22. 4. 1749 München) war Schüler seines Vaters Caspar Gottfried Stuber. 1712/13 hielt er sich zusammen mit Cosmas Damian Asam und Franz Georg Hermann in Rom auf, wo ihn Pietro da Cortonas Werk beeinflusste. Wieder in München bewarb er sich um Aufnahme in die Malerzunft; am 26. 12. 1715 wurde ihm das Meisterstück aufgegeben, am 12. 1. 1715 wies er das zu Hause (nicht bei den Vierern der Zunft) angefertigte Stück vor und bekam deswegen Schwierigkeiten. Um die Hochzeit nicht aufschieben zu müssen, erhielt er am 3. 4. 1716 das Meister- und Bürgerrecht, im gleichen Jahr den Titel des Hofschutzverwandten Malers. 1719–23 war er zusammen mit dem Bildhauer Joseph Faistl Vierer der Zunft. Am 20. 6. 1723 wurde er zum Hofmaler ernannt (BHStA I, HR I fasc. 286 Nr. 342 fol. 82) und gab seine bürgerliche Handwerksgerechtigkeit auf. Ab dem 6. 6. 1730 bekam er als Hofmaler jährlich 600 fl. mit der Verpflichtung, jährlich eine Dekoration für das Opernhaus zu malen (loc. cit., fol. 73). Für den Hof war Stuber hauptsächlich mit ephemeren Arbeiten beschäftigt, mit Theater- und Festdekorationen, Feuerwerk, Triumphpforten und Castra Doloris. Unter der Regierung Max Emanuels wurde Stuber auch häufig mit Deckengemälden beauftragt: in den Jahren 1722–26 im Neuen Schloß Schleißheim, (s. unten), 1725/26 in Schloß Nymphenburg (S. 418 und 424), später, 1733, mit dekorativen Arbeiten für die Residenz (BHStA I, HR I. 473/894). Für den Adel malte er im Palais Portia (S. 576) und im Palais Törring. Sakrale Werke von ihm sind die Fresken in St. Valentin in Unterföhring (1718, CBD Bd 3/1, S. 174 f.), die Seitenschiff-Fresken in der Heilig-Geist-Kirche (1727, ebd., S. 224), die Langhausfresken in St. Michael in Perlach (1730, ebd., S. 93) und die zerstörten Chorfresken in St. Peter (ab 1730, ebd., S. 249).
+
+Nach 1730 war Stuber viel außerhalb Münchens beschäftigt (Bonn, Mergentheim, Würzburg).
+
+Stuber war in zweiter Ehe (seit 1729) mit Maria Katharina Asam aus Freising verheiratet, die 1774 vor der Löwenhauser Brauerei in München von einem Faß Märzenbier erschlagen wurde (loc. cit., fol. 81 r, 82 v). Seine Hinterlassenschaft wurde von Balthasar Augustin Albrecht geregelt (BHStA I, HR 286, Nr. 342; s. auch BHStA I, VA 8, Nr. 215). Unter anderem hinterließ er einen Bozzetto zur Kuppel von St. Peter.
+
+Als seine Schüler werden Ignaz Asam aus der Au (wohl ein Verwandter seiner Frau), Georg Plenk (1753 Zunftaufnahme in München, † 1763) und Stubers Sohn aus erster Ehe, Joseph Nikolaus Stuber (*um 1724) genannt. Der Maler Joseph Ignaz Schilling wird als Schwager Stubers bezeichnet.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: 1–15 Böhmische Kappen. Rahmen: die dekorativen Fresken füllen jeweils das ganze Gewölbefeld; diese sind durch stuckierte Gurte voneinander und durch stuckierte Schildbogen von den Seitenwänden getrennt
+
+Technik: Fresko; die Malereien nach Schema I sind ocker und steingrau monochrom mit violett monochromen Bildfeldern in den Ecken; Schema II ocker und steingrau monochrom. Vier Kuppeln waren ursprünglich mit Gold gehöht.
+
+Maße: Höhe 7,50 (Stich 1,70) m; 1, 5, 11, 15 5,20 × 5,30; 6, 10 4,90 × 5,30; 2–4, 7–9, 12–14 Ø 4,90
+
+Erhaltungszustand und Restaurierungen: In einem Gutachten vom 11. 3. 1907 (BLfD, H. Haggenmiller) wurden Schäden im Mittelfeld, in den Bogenaufsätzen, vor allem aber der Schwund der Goldhöhungen vermerkt, die nur noch in der SO-Ecke spurenweise sichtbar waren. Von der
+
+
+[[File:Band03-2_chunk010_p022_img001.jpg|thumb|Sala Terrena, Ansicht nach S]]
+
+
+Goldmalerei ist heute fast nichts mehr zu sehen. Schimmelflecken und Verschmutzungen; in Feld 8 ist die Farbe stellenweise verdorben. Die Wandmalereien sind vor allem an der W-Seite durch mechanische Beschädigungen im unteren Teil zerstört.
+
+
+== Beschreibung ==
+
+
+In den fünfzehn Gewölbefeldern alternieren zwei Schemata der Bemalung:
+
+Schema I (Feld 1, 3, 5, 7, 9, 11, 13, 15) zeigt über bemalten Pendentifs ein in den Achsen verkröpftes Kuppelgesims über dem eine ornamentale Attika ansetzt, eine ornamentierte Brüstung mit abschließendem geschwungenen Gebälk in den Achsen, ein architektonisch-ornamentales Rundgiebelmotiv in den Ecken; hier befindet sich, flankiert von Konsolen und äußeren Voluten, jeweils ein medaillenförmiges Bildfeld, das lagernde, vorwiegend nackte Männer- und Frauengestalten zeigt, die dekorativen Charakter haben. Auf dem Gebälk des Rundgiebels jeweils zwei Putten
+
+Schema II (Feld 2, 4, 6, 8, 10, 12, 14) zeigt über einer variierten Bemalung der Pendentifs wieder ein in den Achsen verkröpftes Kuppelgesims. Das Brüstungsmotiv über den Achsen ist dem in Schema I gleich. In den Ecken erheben sich sehr flache Giebel, die eine Ziervase tragen, auf dem Gebälk lagern weibliche und männliche Figuren, von kleinen Draperien abgesehen nackt. Sie sind im Typus der Fluß- oder Quellgötter dargestellt, haben aber keine Attribute und sind dekorativer Natur.
+
+Die ornamentalen Malereien um die Bögen an den Wänden sind untereinander gleich mit Ausnahme des Bogens zum Speisesaal im N, der durch zwei bekrönende Putten ausgezeichnet ist (s. Raumaufnahme). Ursprünglich waren es fünfzehn Bogenmalereien – die größere Öffnung zum Treppenaufgang wohl ausgenommen. Durch den späteren Einbau des mittleren hölzernen Portals im W (späteres 18. Jh.) ging die Bemalung am Bogen und in der Laibung verloren. Bei der gegenüberliegenden, zur Sala Terrena führenden Bogenöffnung ist zwar die freskierte Rahmung, nicht aber die Laibungsbemalung zerstört
+
+Die Laibungen – vier im W, fünf im O – und die Bogenrahmungen zeigen in monochromer steingrauer und sandfarbener Malerei Bandwerkornamentik.
+
+
+== Literatur ==
+
+
+Volk, Peter, Bemerkungen zu einigen Zeichnungen von Nikolaus Gottfried Stuber, in: Wallraf-Richartz-Jahrbuch 32, 1970, S. 135–50.
+
+-, Kat. Max Emanuel 1976, II, Nr. 685.
+
+Schmid 1980, S. 102.
+
+Hojer/Schmid 1984, S. 34 f.
+
+A.R.
+
+
+== SALA TERRENA ==
+
+
+
+{{End}}

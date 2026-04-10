@@ -1,0 +1,49 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=215
+|Originalseitenbis=215
+|Lemma=München, Residenz, Schreibzimmer der Kurfürstin Maria Anna
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, ehem. Hofapotheke
+|danach=München, Residenz, Turnierhaus im Hofgarten
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+
+== SCHREIBZIMMER DER KURFÜRSTIN MARIA ANNA ==
+
+
+Raum im Hauptgeschoß, im Bereich des späteren Appartements der Kurfürstin Henriette Adelaide gelegen; Raum und Deckenbilder nicht erhalten
+
+'''Zum Bauwerk:''' Das ehem. Appartement der Kurfürstin Maria Anna befand sich im ersten Geschoß an der N-Seite des Residenzgartens. Über die Räume ist im einzelnen nichts bekannt. Archivalisch überliefert ist die Einrichtung des sog. »Schreibstübls« der Kurfürstin für Juli bis September 1641. Es war etwa 70 qm groß, hatte zwei große und zwei kleinere geschnitzte und vergoldete Türen, ein vergoldetes Hausaltärchen und eine Holzkassettendecke mit darauf angebrachten geschnitzten Ornamenten, die ebenfalls vergoldet waren. Der umlaufende Fries von 120 Werkschuh (ca. 34,80 m) Länge wurde von Bartholomäus Weinsailler in Ölfarben gemalt (wahrscheinlich, ornamentale Malerei). Aus diesem Raum stammten wahrscheinlich die 1641 datierten Scagliolaplatten, die ab 1665 im Herzkabinett angebracht wurden (zerstört).
+
+Die Vergoldungsarbeiten führte Georg Plaimb aus (BHStA I, HR II/2/16, Hofbauamtsrechnung 1641). Die Deckenbilder lieferte Ulrich Loth.
+
+Nach dem Tod der Kurfürstinwitwe wurde das Appartement für die Kurfürstin Henriette Adelaide umgebaut und neu eingerichtet, dabei verschwand das Schreibstübl. Da bei diesem Umbau verschiedene Decken abgenommen und an anderer Stelle wieder angebracht wurden, ist es denkbar, daß die Decke identisch war mit der bei Wening (S. 6) beschriebenen im »andern Audientzzimmer« der Kurfürstin im Antiquarium-Oberstock, das ebenfalls Deckenbilder von Ulrich Loth aufwies (siehe S. 218).
+
+'''Auftraggeber:''' Kurfürstin Maria Anna von Bayern (* 1610 † 1665), geb. Erzherzogin von Österreich
+
+Autor und Entstehungszeit: Ulrich Loth (* um 1600 München † 1660 München) 1641 für 250 fl.
+
+»Ulrichen loth mallern, pr. der Churfrtl: Drtl: unser gdigsten Frauer gemahlte 17 Veltungen oder Stickhl laut Zetl f. 250.-« (BHStA I, KHZ 91 fol. 485 v). Zuvor hatte Loth um 5 fl. einen Entwurf (»Visier«) geliefert.
+
+Verbleib: Beim Umbau ab 1667 wurde die Decke entfernt und möglicherweise an anderer Stelle wieder angebracht (s. oben).
+
+
+== Darstellungen ==
+
+
+In die Holzkassettendecke malte Loth, vermutlich in Öl auf Leinwand, 17 Bildfelder; über die Bildgegenstände ist nichts überliefert.
+
+
+== Quellen ==
+
+
+BHStA I, KHZ 91 fol. 485 v. RHStA I HP II/9/16 Hofbauamtsrechnung 1
+
+AB
+
+{{End}}

@@ -1,0 +1,353 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=18
+|Originalseitenbis=32
+|Lemma=München, Residenz
+|Typ=Profan
+|Ort=München
+|davor=Vorwort (Band 3-II)
+|danach=München, Residenz, Lusthaus im nachmaligen Hofgarten
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== RESIDENZ ==
+
+
+Ehemalige Residenz der bayerischen Herzöge, Kurfürsten und Könige mit Gebäuden im Bereich der zugehörigen Gartenanlagen auf einem Gebiet vom heutigen Max-Joseph-Platz bis zur Galeriestraße jetzt unter der Bayerischen Verwaltung der staatlichen Schlösser, Gärten und Seen. Öffentlich zugänglich sind die Schauräume und das Residenzmuseum mit Schatzkammer (Zugang vom Max-Joseph-Platz), die Staatliche Sammlung Ägyptischer Kunst (Zugang vom Hofgarten) sowie die Staatliche Münzsammlung und das Cuvilliés-Theater (Zugang von der Residenzstraße). Das Gebäude ist außerdem Sitz verschiedener wissenschaftlicher und kultureller Institutionen.
+
+Baugeschichtlicher Überblick S. 20 Pläne und Historische Ansichten der Residenz S. 22
+
+Ausmalung unter Herzog Albrecht V. (1550–79) Lusthaus im nachmaligen Hofgarten, nicht erhalten S. 33
+
+Ausmalung unter Herzog Wilhelm V. (1579–97) Grottenhofhallen S. 49 Antiquarium S. 67
+
+Ausmalung unter Herzog Maximilian I. (1598–1651 ab 1623 Kurfürst)
+
+Schwarzer Saal S. 117 Erdgeschoßzimmer, teilweise erhalten S. 120 Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer« am und im ehem. Südlichen Residenzgarten, nicht erhalten S. 130
+
+Ehemalige Appartements im sog. Charlottentrakt S. 132
+
+Trierzimmer S. 137 Halle zu den Vier Schäften und Kaisertreppe S. 168 Kaisersaal S. 177
+
+Vierschimmelsaal und Steinzimmer, 1674 zerstört erste Ausmalung siehe S. 299 Theatinergang S. 107
+
+Theater Saal S. 197 Hans-Steininger-Treppe S. 210 Gartentempel S. 213
+
+Hofapotheke, nicht erhalten S. 214 Schreibzimmer der Kurfürstin Maria Anna, nicht erhalten S. 215
+
+Ausmalung unter Kurfürst Ferdinand Maria (1652–79) Turnierhaus, nicht erhalten S. 215 Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667, nicht erhalten S. 216
+
+Wohnung der Kurfürstin Henriette Adelaide ab 1667 S. 219
+
+Repräsentationsräume: Zwei ehemalige Vorzimmer und der sog. Goldene Saal S. 220 Privatgemächer: Grottenzimmer, Schlafzimmer, Herzkabinett S. 233 Galerie und angrenzende Kabinette, nicht erhalten S. 250
+
+Galerie und angrenzende Kabinette, nicht erhalten S. 250
+
+Ausmalung unter Kurfürst Max Emanuel (1680–1726) Ehemalige Alexanderzimmer S. 275 Ehemalige Sommerzimmer S. 292 Vierschimmelsaal und Steinzimmer S. 299
+
+Ausmalung unter Kurfürst Karl Albrecht (1726–45 ab 1742 Kaiser Karl VII.) Ahnengalerie S. 334 Grüne Galerie S. 339 Prunktreppenhaus nicht erhalten S. 343
+
+Ausmalung unter Kurfürst Max III. Joseph (1745–77) Speisesaal, nicht erhalten S. 344 Ehemalige Cäcilienkapelle S. 345 Altes Residenztheater S. 346
+
+Ausmalung unter Kurfürst Karl Theodor (1777–99) Ehemalige Hofgartengalerie S. 348 Quellen und Literatur S. 349
+<!-- citation-page-bottom: Band03-2 p19 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=11 -->
+<!-- citation-page-top: Band03-2 p20 -->
+
+{| class="wikitable"
+|-
+| Baugeschichtlicher Überblick 1613/20 Anlage eines großen Hofgartens im Norden der Residenz außerhalb der Stadtmauer, in der Mitte Errichtung eines offenen Gartentempels
+|-
+| 1470/1500 Ausbau der Neuveste zu einer vierflügeligen Wasserburg
+|-
+| Errichtung der »Neuveste« an der Nordostecke der erweiterten Stadtmauer
+|-
+| 1540 Neubau des Ostflügels durch Ludwig Halder
+|-
+| 1559/72 Einbau des prunkvollen St.-Georg-Saals im Ostflügel
+|-
+| 1565/67 Errichtung eines Lusthauses im Garten bei der Neuveste, vermutlich durch Wilhelm Egkl
+|-
+| 1568/71 Bau des Antiquariums nach Plänen von Jacopo Strada und Simon Zwitzel zur Aufnahme der Antikensammlungen außerhalb der Burganlage der Neuveste
+|-
+| 1580 Bau des sog. Witwenstocks an der Schwabinger Gasse (Residenzstraße)
+|-
+| Errichtung einer Vierflügelanlage westlich an das Antiquarium angrenzend um einen Gartenhof (Grottenhof) mit Loggien an den Schmalseiten; Entwurf Friedrich Sustris
+|-
+| 1586/89 Ausmalung der Loggien am Grottenhof mit Malereien nach Entwürfen von Friedrich Sustris
+|-
+| ab ca. 1590 Ausdehnung der Residenz vom Vierflügelbau um den Grottenhof bis zur Schwabinger Gasse
+|-
+| 1601/1605 Ausmalung der in diesem Bereich gelegenen Erdgeschoßräume durch Peter Candid
+|-
+| 1603 Weihe der Hofkapelle
+|-
+| 1605 Ausgestaltung des an den Witwenstock anschließenden Südlichen Residenzgartens; Errichtung eines offenen Gartentempels
+|-
+| um 1600 Ausmalung des wohl in den 1580er Jahren erbauten Schwarzen Saals durch Hans Werl
+|-
+| ab 1612 Erweiterung der Residenz um mehr als das Doppelte: Errichtung der Trakte um den Kaiserhof, Umbau der Neuveste und Zusammenfassung mit den alten und neuen Bauteilen an der Schwabinger Gasse
+|-
+| 1613/15 Umgestaltung des an der Nordostflanke des Brunnenhofs gelegenen Verbindungsbaues, Aufteilung des Obergeschosses in sechs Zimmer (spätere Charlottenzimmer)
+|-
+| 1613/16 Errichtung und Ausstattung der Trakte um den Kaiserhof unter der Leitung von Hans Krumper und Peter Candid: Trierzimmer, die Kaisertreppe zum Kaisersaal empor. Den Steinzimmern im Westen, an der Schwabinger Gasse vorgelagert ist der Theatinergang, an seiner Nordecke befindet sich die Hans-Steininger-Treppe
+|-
+| 1630 Erweiterung der Hofkapelle, Stuck von Wilhelm Fistulator
+|-
+| 1640/41 Ausstattungsarbeiten im Appartement der Kurfürstin Maria Anna im Westen des Flügels nördlich des Südlichen Residenzgartens
+|-
+| ca. 1658 Ausstattungsarbeiten in der ersten Wohnung der Kurfürstin Henriette Adelaide
+|-
+| 1660/61 Bau eines Turnierhauses an der Westseite des großen Hofgartens
+|-
+| 1662/63 Bau des Prunkschiffes ›Bucentaur«
+|-
+| 1666 Schließung der letzten Baulücke an der Schwabinger Gasse zwischen Witwenstock und maximilianischem Bau durch den Goldenen-Saal-Trakt; Umbau der Wohnung der Kurfürstin Maria Anna
+|-
+| 1666/69 Neuaustattung eines großen Appartements für Kurfürstin Henriette Adelaide im ersten Geschoß des südlichen Trakts an der Schwabinger Gasse, im Witwenstock und in der Nordwestecke des Traktes nördlich vom Residenzgarten
+|-
+| 1674 Großer Residenzbrand. Zerstörung des Ersten Vorzimmers der Henriette Adelaide, des Hartschiersaals, der anschließenden Steinzimmer und des Vierschimmelsaals, Beschädigung des Theatiergangs und anderer Räume; Wiederaufbau und Restaurierung der beschädigten Einrichtungen noch im gleichen Jahr
+|-
+| 1674/80 Wiederherstellung der Einrichtung in den zerstörten Zimmern, zunächst der Stuckmarmorarbeiten und der Marmorfußböden und -kamine
+|-
+| 1680 Umbau des Grottenhofsüdtrakts: Verbau der ehem. Altane Maximilians an der Nordseite im ersten Stock. Neuanlage einer Altane in der vollen Breite des Flügels im zweiten Stock. Umbau und Erweiterung der alten Kurfürstlichen Wohnung: Näher am Residenzgarten und damit Verbindung zum Antiquariumstrakt. Bauleitung Enrico Zuccalli
+|-
+| 1680/84 Einsetzen des großen Kurfürstlichen Appartements in diesem Bereich mit den Alexander- und Sommerzimmern
+|-
+| 1693/95 Umbau des Ankleidezimmers in den Alexander-Zimmern zu zwei Kabinetten (Holländisches und Musikkabinett)
+|-
+| ab 1692 Wiederaufnahme der Restaurierungsmaßnahmen in den 1674 zerstörten Räumen
+|-
+| 1692 Einbau einer neuen Decke im Vierschimmelsaal
+|-
+| ab 1694 Einbau neuer Decken in den Steinzimmern; Bildausstattung bis ca. 1700
+|-
+| um 1701/04 Einbau der Cäcilienkapelle in dem ovalen Verbindungsraum zwischen den Alexanderzimmern und dem ersten Stock des Antiquariumstrakts; dort Umbau: Das gegen Norden gelegene Appartement mit dem im Süden vorgelegten Gang wurde zu zwei parallel verlaufenden Zimmerfluchten umgestaltet
+|-
+| ab 1726 Umbau der Alexanderzimmer unter Karl Albrecht durch Joseph Effner. Statt der Altane wurde dem südlichen Grottenhoftrakt ein Dach aufgesetzt. Neudekoration der Kurfürstlichen Räume
+|-
+| 1726/30 Bau der Ahnengalerie
+|-
+| 1729 Brand, bei dem die Kurfürstlichen Zimmer, die zum Residenzgarten lagen, zerstört wurden
+|-
+| 1729/33 Wiederaufbau und Neuausstattung eines Teils der Kurfürstlichen Zimmer: Reiche Zimmer
+|-
+| Umgestaltung der Fassaden im Grottenhof durch François Cuvilliés
+|-
+| 1735/38 Bau des ehem. Gartentempels: Dort Einrichtung der Grünen Galerie; Bau eines im Osten daran anschließenden Treppenhauses durch François Cuvilliés
+|-
+| Innenausstattung bis 1733
+|-
+| 1751/53 Bau und Ausstattung des Residenztheaters nach Plänen von François Cuvilliés
+|-
+| 1753/55 Ausbau des Cuvilliés-Treppenhauses; Errichtung eines Speisesaals mit Neben- und Küchenräumen
+|-
+| 1799/1801 Umbau zum Teil des Vierschimmelsaals: Einbau der Hofgartenzimmer
+|-
+| 1810 Umbau im Bereich der ehem. Vorzimmer Henriette Adelaides: Einbau der Staatsratszimmer
+|-
+| 1826 Abbruch des Galeriebaues/Witwenstocks
+|-
+| 1826/35 Errichtung des Königsbaues unter Ludwig I. durch Leo von Klenze
+|-
+| 1835/42 Errichtung des Festsaalbaues durch Leo von Klenze
+|-
+| 1944/45 Zerstörung der Residenz; ein Teil der ausgelagerten Deckenbilder blieb erhalten
+|-
+| Seit Kriegsende: erst Konservierung, dann rekonstruierender Wiederaufbau unter Verwendung ausgelagerter Teile der Innenausstattung
+|}
+<!-- citation-page-bottom: Band03-2 p21 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=12 -->
+<!-- citation-page-top: Band03-2 p22 -->
+
+<!-- header: PLÄNE UND ANSICHTEN -->
+
+
+== Pläne und Historische Ansichten (I–XI) ==
+
+
+Die Grundrisse sind, den historischen Plänen folgend, nach O gerichtet
+
+
+[[File:Band03-2_chunk001_p012_img001.jpg|thumb|III Grundriß des Hauptgeschosses, Teilplan von Enrico Zuccalli (?) Feder in Schwarz über Bleistift, grau und stellenweise rosa laviert, die Ofen grün. 98 × 49 cm, Paris, Institut de France, Bibliothèque, Ms. 1039 fol. 11 f., aus dem Nachlaß von Robert de Cotte.]]
+
+
+Grau gerastert und im Kreis numeriert sind alle Räume, Raumgruppen und Gebäude, die Deckenmalereien haben bzw. hatten. Ihre Numerierung von 1 bis 29 entspricht der Abfolge im Textteil. Die Bezifferung der Räume (R. 1–115) folgt der Zählung des Amtlichen Residenzführers von 1986. Bei nicht mehr erhaltenen Räumen oder Bauzuständen ist auf die betreffenden Pläne und historischen Ansichten verwiesen, durch die der frühere Zustand dokumentiert ist.
+
+
+[[File:Band03-2_chunk001_p012_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk001_p012_img003.jpg|thumb]]
+
+
+Wiedergegeben sind die Alexanderzimmer im Zustand nach 1693/95 (Aufteilung des Ankleidezimmers in das Holländische und ein weiteres Kabinett), verbunden durch die Cäcilienkapelle (mit Altar in der Nische der Südwand) mit dem im spitzen Winkel angrenzenden Antiquariumstrakt. An diesen schließt sich nach NO, vermittelt durch den Oktogonalraum, der Schwarze Saal, und nach SO, etwa rechtwinklig dazu, der unter Henriette Adelaide erbaute Galerietrakt (s. S. 216) zu sechs Fensterachsen, der bis zur Errichtung des Königsbaus (1827) erhalten war. Durch rosa Lavierung hervorgehoben sind die Cäcilienkapelle und in den Räumen über dem Antiquarium einige kleine Zwischenwände, die den Zweck haben, die Ofen stärker zu kaschieren. Lit.: Unveröffentlicht
+<!-- citation-page-bottom: Band03-2 p23 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=13 -->
+<!-- citation-page-top: Band03-2 p24 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: PLÄNE UND ANSICHTEN -->
+
+
+[[File:Band03-2_chunk001_p013_img001.jpg|thumb]]
+
+
+Feder in Schwarz und Rot, bezeichnet unten links: J:G:H:, ca. 63×47,6 cm, München, BSV, Plansammlung der Residenzbauleitung, früher im Bayerischen Nationalmuseum.
+
+Entstanden nach dem Brand der Neuveste am 4. März 1750 mit Einzeichnung der unversehrten Teile der Residenz (im Plan rot) und der durch
+
+Feuer zerstörten (im Plan schwarz) sowie ausführlicher Legende. Benutzt wurde ein älterer Grundriß, der den Bauzustand der Residenz zwischen 1630 und ca. 1658 wiedergibt (nach dem Anbau des Chors der Hofkapelle und vor der Errichtung der Galerie der Henriette Adelaide am Schwarzen Saal). Lit.: KDB I OB (2) S. 1158f. und Abb. S. 1075. – Frankl 1916–18, Abb. S. 228. – Meitinger 1970, S. 214 und Abb. 18 u. 18 a. – Vgl. Hojer 1976, S. 166, Anm. 15. – Peter Diemer 1980, S. 137 und Abb. 53
+
+1 Lusthaus im nachmaligen Hofgarten — nicht erhalten, ehem. an der NO-Ecke des jetzigen Hofgartens, siehe Ansicht IX  
+2 Grottenhof, Osthalle — R. 6; Westhalle — nicht erhalten, ehem. im Bereich von R. 87, Sechste Porzellankammer, siehe Ansicht X  
+2 Antiquarium — R. 7  
+2 Schwarzer Saal — R. 19  
+5 Erdgeschoßzimmer — R. 92-93, Zweite und Dritte Paramentenkammer, und ehem. östlich anschließend im Bereich von R. 90-91  
+und R. 82-88, Porzellankammern  
+C Pavillon, Loggia mit Seitenkabinetten, »Rundzimmer« — nicht erhalten, ehem. im Bereich des heutigen Küchen- und Königsbauhofs,  
+siehe Pläne und Ansichten II, IV, V, VII, VIII, XI  
+2 Appartements im sog. Charlottentrakt — nicht erhalten, ehem. im Bereich von R. 33-41, Ehem. Hofgartenzimmer, Charlottenzimmer,  
+siehe Pläne II und I  
+8 Trierzimmer - R. 47-53 mit Veränderungen, siehe auch Plan II  
+9 Halle zu den Vier Schäften (keine Raumnummer) und Kaisertreppe- R. 112  
+10 Kaisersaal- R. 111 (Raum rekonstruiert), siehe Plan II  
+11 Theatinergang - R. 114  
+12 Hans Steininger-Treppe (keine Raumnummer), NW-Ecke der Residenz, jetzt Zugang zur Max Plank-Gesellschaft, siehe Plan II  
+13 Gartentempel im Hofgarten — im Zentrum des Hofgartens, siehe Ansicht IX  
+1 Hofapotheke - nicht erhalten, ehem. im Bereich östlich des Apothekenhofs, siehe Plan VI  
+15 Schreibzimmer der Kurfürstin Maria Anna— nicht erhalten, ehem. im Bereich von R. 61-67, jetzt Appartement der Kurfürstin Henriette  
+Adelaide  
+21 Turnierhaus - nicht erhalten, ehem. an der Westseite des Hofgartens, siehe Ansicht IX  
+17 Galerie der Kurfürstin Henriette Adelaide am Schwarzen Saal — nicht erhalten, ehem. im Bereich von R. 14, Gelbe Treppe,  
+siehe Pläne und Ansichten III, V, VI, VIII  
+Wohnung der Kurfürstin Henriette Adelaide, ab 1667 — teilweise erhalten  
+Zwei Vorzimmer - nicht erhalten, ehem. im Bereich von R. 100-102, Silberkammern, siehe auch Plan VI  
+Goldener Saal, Grottenzimmer, Schlafzimmer, Herzkabinett- R. 71, 67-69 mit Veränderungen, siehe auch Pläne II und VII  
+Galerie und angrenzende Kabinette — nicht erhalten, ehem. im Bereich von R. 72 und 115, Königin-Mutter-Treppe und Erstes Vorzimmer  
+im Königsbau, siehe Pläne und Ansichten II, VIII, XI  
+19 Alexanderzimmer- nicht erhalten, ehem. im Bereich von R. 54-58, St.-Georgs-Rittersaal, Reiche Zimmer, siehe Pläne IIb und III  
+20 Sommerzimmer- nur eines erhalten, ehem. im Bereich von R. 57, 59-61, 63, 66, Reiche Zimmer, siehe Plan II  
+21 Vierschimmelsaal- R. 110 (verändert wieder hergestellt) siehe Plan II  
+22 Steinzimmer - R. 104-100  
+23 Ahnengalerie — R. 4  
+24 Grüne Galerie - R. 58 und ehem. im Bereich von R. 14e-g, Porzellankammern im Königsbau  
+25 Prunktreppenhaus — nicht erhalten, ehem. östlich von R. 1, anstelle der sog. Alten Schatzkammer, siehe Plan V  
+26 Speisesaal - nicht erhalten, ehem. östlich von R. 1. anstelle der sog. Alten Schatzkammer, siehe Plan VI  
+27 Cäcilienkapelle - R. 18 (irrtümlich als Holländisches Kabinett bezeichnet)  
+2 Altes Residenztheater (Cuvilliéstheater) — (keine Raumnummer), heute an der SO-Ecke des Apothekenhofs eingebaut, ursprünglich an  
+der Stelle des heutigen Residenztheaters, siehe Plan VI  
+Hofgartengalerie- Gebäude erhalten, Innenaufteilung verändert, an der N-Seite des Hofgartens
+
+
+[[File:Band03-2_chunk001_p013_img002.jpg|thumb|Ib Grundriß des Erdgeschosses, Zustand 1986, Ausschnitt S-Seite]]
+<!-- citation-page-bottom: Band03-2 p25 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=14 -->
+<!-- citation-page-top: Band03-2 p26 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: PLÄNE UND ANSICHTEN -->
+
+
+[[File:Band03-2_chunk001_p014_img001.jpg|thumb]]
+
+
+Feder in Schwarz und Braun, Bleistift, rosa und gelb laviert, 118,5×93,8 cm, Paris, Institut de France, Bibliothèque, Ms. 1040, fol. 6, aus dem Nachlaß von Robert de Cotte.
+
+Der Gesamtplan – Feder in Schwarz, kräftig rosa laviert, die Öfen gelb – zeigt den Bauzustand der Residenz zwischen 1616 und 1630 (nach Vollendung der Kaiserhoftrakte und vor dem Anbau des Chors der Hofkapelle). Dieser Plan wurde später durch Einzeichnungen in brauner Feder und durch Tekturen mit Änderungsvorschlägen versehen. Die aus 3 Teilen zusammengefügte, große, aufklappbare Tektur (II a: mit aufgeklappten Tekturen; II b: mit zugeklappten Tekturen, Ausschnitt) zeigt Umbauvorschläge von Enrico Zuccalli für die Räume über dem Antiquarium und das Appartement Max Emanuels, die sog. Alexanderzimmer, und betrifft die Bauperiode 1693/95 (Aufteilung des Ankleidezimmers in zwei Kabinette, das Spiegel- oder Holländische Kabinett mit quadratischem Grundriß und eingezeichnetem rundem Deckenspiegel, ein weiteres Kabinett und die ovale Cäcilienkapelle). Lit.: Hojer 1976, S. 142ff. und Abb. 26 und 27. — Peter Diemer 1980, S. 137 und Abb. 52 und 54
+
+
+[[File:Band03-2_chunk001_p014_img002.jpg|thumb|V Grundriß des Erdgeschosses von François Cuvilliés d. Ä.]]
+
+
+Maße nicht bekannt, ehem. München, BSV, verschollen (Photos vorhanden).
+
+Dieser Grundriß und ein zugehöriger Grundriß des Hauptgeschosses entstanden um 1764/65 gleichzeitig mit einem Residenzmodell von Cuvilliés (ausgestellt im St.-Georgs-Rittersaal der Residenz, R. 54). Im Osten anstelle der 1750 abgebrannten Neuveste und nach Norden gegen den Hofgarten sind Umbauvorschläge Cuvilliés eingezeichnet. Frühester erhaltener Erdgeschoßplan. Lit.: Hans Lehmbruch, in: Kat. Ausstellung Klassizismus in Bayern, Schwaben und Franken. Architektur-Zeichnungen 1775–1825. München 1980, S. 134 und Abb. S. 135. – Braunfels 1986 S. 158 ff., 184 und Abb. 126 u. 129. – Hojer 1986, S. 66, 125, Anm. 103 u. Abb. S. 67.
+<!-- citation-page-bottom: Band03-2 p27 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=15 -->
+<!-- citation-page-top: Band03-2 p28 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: PLANE LIND ANSICHTEN -->
+
+
+[[File:Band03-2_chunk001_p015_img001.jpg|thumb|VII Ausschnitt aus der Stadtansicht von München in der Vogelperspektive von Wenzel Hollar 1629]]
+
+
+Feder über Bleistift, farbig aquarelliert, 47,0 × 66,8 cm, München, BHStA Abt. III GHA, Handschriften Nr. 64 b (veröffentlicht mit Genehmigung S.K.H. Herzog Albrecht von Bayern).
+
+
+[[File:Band03-2_chunk001_p015_img002.jpg|thumb]]
+
+
+Kupferstich, ca. 45,0 × 56,5 cm, München, Stadtmuseum, Maillinger-Sammlung.
+
+Als Vorlage diente Hollar ein Stadtplan des Hofmathematikers Tobias 
+Volkmer von 1613, auf dem die Residenz jedoch wegen der aktuellen Bauarbeiten ausgespart ist. Hollar bringt die Residenz vor Einsetzen dieser Bautätigkeit in einem Zustand, wie sie im ersten Jahrzehnt des 17. Jahrhunderts ausgesehen hat. Es ist nicht bekannt, auf welche Vorlage er zurückgegriffen hat. Lit.: Busch 1933, S. 404 und Abb. 11. – Knüttel 1967, S. 187 und Abb. 1. – Meitinger 1970, S. 214 und Abb. 15 u. 15 a
+<!-- citation-page-bottom: Band03-2 p29 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk001/Band03-2_chunk001.pdf#page=16 -->
+<!-- citation-page-top: Band03-2 p30 -->
+
+<!-- header: RESIDENT -->
+
+<!-- header: PLÄNE UND ANSICHTE -->
+
+VIIIb Ausschnitt aus VIIIa
+
+
+[[File:Band03-2_chunk001_p016_img001.jpg|thumb]]
+
+
+Kupferstich, 79 × 118 cm, München, BSV. Lit.: Meitinger 1970, S. 215 und
+
+Abb. 24. – Kat. Max Emanuel 1976, II, Nr. 266 (Peter Volk). – Kat. Ausstellung Michael Wening. Der Kupferstecher der Max Emanuel-Zeit, bearb. von Gertrud Stetter, München 1977, Nr. 7 und Abb. S. 58/59. – Kat Wittelsbach 1980 II/1, Nr. 883, mit Abb. (Ursula Erichsen). – Peter Diemer 1980, S. 136 und Abb. 55
+
+
+[[File:Band03-2_chunk001_p016_img002.jpg|thumb|IX Ansicht der Residenz und des Hofgartens von NO aus der Vogelperspektive von Michael Wening 1701]]
+
+
+
+[[File:Band03-2_chunk001_p016_img003.jpg|thumb|VIIIa Ansicht der Residenz von W aus der Vogelperspektive von Michael Wening 1696/97]]
+
+
+Ausschnitt aus: Wahrhaffte Abbildung und Vorstellung Derjenigen Gegend bey Schwabing und Freymann allwo die Churfürstliche Bayerische Armee unter Commando Ihro Excellenz Herrn Generalen von der
+
+Cavallerie Graffen von Arco den 1. October 1701 campirt. Kupferstich, 174 × 72 cm, München, Stadtmuseum, Maillinger-Sammlung. Lit.: Meitinger 1970, S. 215 und Abb. 27 (Ausschnitt). – Kat. Max Emanuel 1976, II, Nr. 334, mit Abb. (Christoph Stölzl). – Kat. Ausstellung Michael Wening. Der Kupferstecher der Max Emanuel-Zeit, bearb. von Gertrud Stetter. München 1977, Nr. 81 und Abb. S. 50 und 103 (Ausschnitte)
+<!-- citation-page-bottom: Band03-2 p31 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=17 -->
+<!-- citation-page-top: Band03-2 p32 -->
+
+<!-- header: RESIDEN7 -->
+
+
+[[File:Band03-2_chunk001_p017_img001.jpg|thumb|Hofgarten um 1720, links das Lusthaus mit angrenzenden Arkaden Stich von M. Disel]]
+
+
+X Ansicht des Grottenhofs nach W. Johann August Corvinus nach Matthias Disel
+
+Aus: M. Disel, Erlustierender Augenweide Zweyte Fortsetzung, Augsburg um 1722, Kupferstich, 23,7 × 35,4 cm, München, Stadtmuseum, Maillinger-Sammlung. Lit.: Peter Diemer 1980, S. 136 und Abb. 51
+
+XI Ansicht des Südlichen Residenzgartens nach W, Johann August Corvinus nach Matthias Disel
+
+Aus: M. Disel, Erlustierender Augenweide Zweyte Fortsetzung, Augsburg, um 1722, Kupferstich, 23,7 × 35,4 cm, München, Stadtmuseum, Maillinger-Sammlung. Lit.: Peter Diemer 1980, S. 136 und Abb. 50
+
+
+[[File:Band03-2_chunk001_p017_img002.jpg|thumb]]
+
+
+
+== LUSTHAUS IM NACHMALIGEN HOFGARTEN ==
+{{End}}

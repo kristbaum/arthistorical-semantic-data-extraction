@@ -67,22 +67,11 @@ Das Corpus der Barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 |Band=32
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=33
-|Originalseitenbis=48
-|Lemma=Vorwort (Band 3-II)
-|davor=
-|danach=München, Grottenhofhallen der Münchner Residenz
-|AutorIn1=Bauer-Wild, Anna
-}}
-{{Artikel
-|Band=31
-|Chunk=
-|Chunkseite=
 |Originalseitenvon=6
 |Originalseitenbis=7
-|Lemma=Vorwort (Band 3)
+|Lemma=Vorwort (Band 3-II)
 |davor=
-|danach=München, Dreifaltigkeitskirche
+|danach=München, Residenz
 |AutorIn1=Bauer, Hermann
 |AutorIn2=Rupprecht, Bernhard
 }}
@@ -105,7 +94,7 @@ Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir ho
 
 Hermann Bauer/Bernhard Rupprecht
 <!-- citation-page-bottom: Band03-2 p7 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band03-2 p8 -->
 
@@ -732,6 +721,20 @@ HÖFISCHE BAUTEN
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk001.pdf#page=10 -->
 <!-- citation-page-top: Band03-2 p18 -->
 
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=18
+|Originalseitenbis=32
+|Lemma=München, Residenz
+|Typ=Profan
+|Ort=München
+|davor=Vorwort (Band 3-II)
+|danach=München, Residenz, Lusthaus im nachmaligen Hofgarten
+|AutorIn1=Bauer-Wild, Anna
+}}
+
 == RESIDENZ ==
 
 
@@ -1070,7 +1073,7 @@ Aus: M. Disel, Erlustierender Augenweide Zweyte Fortsetzung, Augsburg, um 1722, 
 
 
 == LUSTHAUS IM NACHMALIGEN HOFGARTEN ==
-
+{{End}}
 
 {{Artikel
 |Band=32
@@ -1078,11 +1081,11 @@ Aus: M. Disel, Erlustierender Augenweide Zweyte Fortsetzung, Augsburg, um 1722, 
 |Chunkseite=
 |Originalseitenvon=33
 |Originalseitenbis=48
-|Lemma=München, Lusthaus im nachmaligen Hofgarten
+|Lemma=München, Residenz, Lusthaus im nachmaligen Hofgarten
 |Typ=Profan
 |Ort=München
-|davor=
-|danach=München, Grottenhofhallen der Münchner Residenz
+|davor=München, Residenz
+|danach=München, Residenz, Grottenhofhallen
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -1415,11 +1418,10 @@ Geissler, Heinrich, Zeichnung in Deutschland, Deutsche Zeichner 1540–1640. Sta
 |Chunkseite=
 |Originalseitenvon=49
 |Originalseitenbis=66
-|Lemma=München, Grottenhofhallen der Münchner Residenz
-|Typ=Profan
+|Lemma=München, Residenz, Grottenhofhallen
 |Ort=München
-|davor=München, Lusthaus im nachmaligen Hofgarten
-|danach=München, Antiquarium der Münchner Residenz
+|davor=München, Residenz, Lusthaus im nachmaligen Hofgarten
+|danach=München, Residenz, Antiquarium
 |AutorIn1=???
 }}
 
@@ -2127,11 +2129,11 @@ F.B./B. V.-K.
 |Chunkseite=
 |Originalseitenvon=67
 |Originalseitenbis=117
-|Lemma=München, Antiquarium der Münchner Residenz
+|Lemma=München, Residenz, Antiquarium
 |Typ=Profan
 |Ort=München
-|davor=München, Grottenhofhallen der Münchner Residenz
-|danach=München, Schwarzer Saal der Münchner Residenz
+|davor=München, Residenz, Grottenhofhallen
+|danach=München, Residenz, Schwarzer Saal
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -4021,12 +4023,12 @@ B V-K
 |Chunkseite=
 |Originalseitenvon=117
 |Originalseitenbis=119
-|Lemma=München, Schwarzer Saal der Münchner Residenz
+|Lemma=München, Residenz, Schwarzer Saal
 |Typ=Profan
 |Ort=München
-|davor=München, Antiquarium der Münchner Residenz
-|danach=München, Erdgeschoßzimmer der Münchner Residenz
-|AutorIn1=F.B.
+|davor=München, Residenz, Antiquarium
+|danach=München, Residenz, Erdgeschoßzimmer
+|AutorIn1=Bachter, Falk
 }}
 
 Festsaal (Raum 13), im Zweiten Weltkrieg zerstört; Deckenbilder rekonstruiert
@@ -4128,11 +4130,11 @@ F. B.
 |Chunkseite=
 |Originalseitenvon=120
 |Originalseitenbis=129
-|Lemma=München, Erdgeschoßzimmer der Münchner Residenz
+|Lemma=München, Residenz, Erdgeschoßzimmer
 |Typ=Profan
 |Ort=München
-|davor=München, Schwarzer Saal der Münchner Residenz
-|danach=München, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer« der Münchner Residenz
+|davor=München, Residenz, Schwarzer Saal
+|danach=München, Residenz, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer«
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -4453,11 +4455,11 @@ Knüttel, 1967, S. 194–210. Brunner/Hojer 1975, R. 90-93. Kat. Candid-Zeichnun
 |Chunkseite=
 |Originalseitenvon=130
 |Originalseitenbis=131
-|Lemma=München, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer« der Münchner Residenz
+|Lemma=München, Residenz, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer«
 |Typ=Profan
 |Ort=München
-|davor=München, Erdgeschoßzimmer der Münchner Residenz
-|danach=München, Ehemalige Appartements im sog. Charlottentrakt der Münchner Residenz
+|davor=München, Residenz, Erdgeschoßzimmer
+|danach=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -4571,11 +4573,11 @@ Kat. Candid-Zeichnungen 1978, Nr. 28 und Abb. 102.
 |Chunkseite=
 |Originalseitenvon=132
 |Originalseitenbis=137
-|Lemma=München, Ehemalige Appartements im sog. Charlottentrakt der Münchner Residenz
+|Lemma=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt
 |Typ=Profan
 |Ort=München
-|davor=München, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer« der Münchner Residenz
-|danach=München, Trierzimmer der Münchner Residenz
+|davor=München, Residenz, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer«
+|danach=München, Residenz, Trierzimmer
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -4752,11 +4754,11 @@ B V-K
 |Chunkseite=
 |Originalseitenvon=137
 |Originalseitenbis=168
-|Lemma=München, Trierzimmer der Münchner Residenz
+|Lemma=München, Residenz, Trierzimmer
 |Typ=Profan
 |Ort=München
-|davor=München, Ehemalige Appartements im sog. Charlottentrakt der Münchner Residenz
-|danach=München, Halle zu den Vier Schäften und Kaisertreppe der Münchner Residenz
+|davor=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt
+|danach=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -5488,11 +5490,11 @@ Eingangshalle und Prunktreppenhaus (Raum 112) im N-Trakt der Maximilianischen Re
 |Chunkseite=
 |Originalseitenvon=168
 |Originalseitenbis=176
-|Lemma=München, Halle zu den Vier Schäften und Kaisertreppe der Münchner Residenz
+|Lemma=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe
 |Typ=Profan
 |Ort=München
-|davor=München, Trierzimmer der Münchner Residenz
-|danach=München, Kaisersaal der Münchner Residenz
+|davor=München, Residenz, Trierzimmer
+|danach=München, Residenz, Kaisersaal
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -5764,11 +5766,11 @@ Brunner/Hojer/Seelig 1986, S. 126-144 und Abb. 10
 |Chunkseite=
 |Originalseitenvon=177
 |Originalseitenbis=196
-|Lemma=München, Kaisersaal der Münchner Residenz
+|Lemma=München, Residenz, Kaisersaal
 |Typ=Profan
 |Ort=München
-|davor=München, Halle zu den Vier Schäften und Kaisertreppe der Münchner Residenz
-|danach=München, Theatinergang der Münchner Residenz
+|davor=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe
+|danach=München, Residenz, Theatinergang
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -6219,11 +6221,11 @@ BHStA I, HR II, 1, 1614, 1615. Pistorini 1644, fol. 18 v–28 r. Faßmann 1770, 
 |Chunkseite=
 |Originalseitenvon=197
 |Originalseitenbis=210
-|Lemma=München, Theatinergang der Münchner Residenz
+|Lemma=München, Residenz, Theatinergang
 |Typ=Profan
 |Ort=München
-|davor=München, Kaisersaal der Münchner Residenz
-|danach=München, Hans-Steininger-Treppe der Münchner Residenz
+|davor=München, Residenz, Kaisersaal
+|danach=München, Residenz, Hans-Steininger-Treppe
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -6733,11 +6735,11 @@ Treppenhaus (bei Thoma/Kreisel Räume 60,61; heute nicht mehr in der Museumsfüh
 |Chunkseite=
 |Originalseitenvon=210
 |Originalseitenbis=212
-|Lemma=München, Hans-Steininger-Treppe der Münchner Residenz
+|Lemma=München, Residenz, Hans-Steininger-Treppe
 |Typ=Profan
 |Ort=München
-|davor=München, Theatinergang der Münchner Residenz
-|danach=München, Gartentempel im Hofgarten der Münchner Residenz
+|davor=München, Residenz, Theatinergang
+|danach=München, Residenz, Gartentempel im Hofgarten
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -6822,11 +6824,11 @@ B. V.-K.
 |Chunkseite=
 |Originalseitenvon=213
 |Originalseitenbis=214
-|Lemma=München, Gartentempel im Hofgarten der Münchner Residenz
+|Lemma=München, Residenz, Gartentempel im Hofgarten
 |Typ=Profan
 |Ort=München
-|davor=München, Hans-Steininger-Treppe der Münchner Residenz
-|danach=München, ehem. Hofapotheke der Münchner Residenz
+|davor=München, Residenz, Hans-Steininger-Treppe
+|danach=München, Residenz, ehem. Hofapotheke
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -6932,45 +6934,12 @@ R W_K
 |Chunkseite=
 |Originalseitenvon=214
 |Originalseitenbis=214
-|Lemma=München, ehem. Hofapotheke der Münchner Residenz
+|Lemma=München, Residenz, ehem. Hofapotheke
 |Typ=Profan
 |Ort=München
-|davor=München, Gartentempel im Hofgarten der Münchner Residenz
-|danach=München, Schreibzimmer der Kurfürstin Maria Anna der Münchner Residenz
+|davor=München, Residenz, Gartentempel im Hofgarten
+|danach=München, Residenz, Schreibzimmer der Kurfürstin Maria Anna
 |AutorIn1=Bauer-Wild, Anna
-}}
-
-{{End}}
-
-{{Artikel
-|Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=215
-|Originalseitenbis=215
-|Lemma=München, Schreibzimmer der Kurfürstin Maria Anna der Münchner Residenz
-|Typ=Profan
-|Ort=München
-|davor=München, ehem. Hofapotheke der Münchner Residenz
-|danach=München, Turnierhaus im Hofgarten der Münchner Residenz
-|AutorIn1=Bauer-Wild, Anna
-}}
-
-{{End}}
-
-{{Artikel
-|Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=215
-|Originalseitenbis=216
-|Lemma=München, Turnierhaus im Hofgarten der Münchner Residenz
-|Typ=Profan
-|Ort=München
-|davor=München, Schreibzimmer der Kurfürstin Maria Anna der Münchner Residenz
-|danach=München, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667 der Münchner Residenz
-|AutorIn1=Baur, Eva-Gesine
-|AutorIn2=Volk-Knüttel, Brigitte
 }}
 
 Apotheke mit Nebenräumen, zerstört. Deckenbilder nicht erhalten
@@ -6998,6 +6967,22 @@ BHStA I HR II/2/16, Hofbauamtsrechnung 1641.
 Wening 1701, S. 7.
 
 A. B.
+
+{{End}}
+
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=215
+|Originalseitenbis=215
+|Lemma=München, Residenz, Schreibzimmer der Kurfürstin Maria Anna
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, ehem. Hofapotheke
+|danach=München, Residenz, Turnierhaus im Hofgarten
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 
 == SCHREIBZIMMER DER KURFÜRSTIN MARIA ANNA ==
@@ -7033,6 +7018,22 @@ BHStA I, KHZ 91 fol. 485 v. RHStA I HP II/9/16 Hofbauamtsrechnung 1
 
 AB
 
+{{End}}
+
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=215
+|Originalseitenbis=216
+|Lemma=München, Residenz, Turnierhaus im Hofgarten
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Schreibzimmer der Kurfürstin Maria Anna
+|danach=München, Residenz, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667
+|AutorIn1=Baur, Eva-Gesine
+|AutorIn2=Volk-Knüttel, Brigitte
+}}
 
 == TURNIERHAUS ==
 
@@ -7118,11 +7119,11 @@ E.-G. B. / B. V.-K.
 |Chunkseite=
 |Originalseitenvon=216
 |Originalseitenbis=218
-|Lemma=München, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667 der Münchner Residenz
+|Lemma=München, Residenz, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667
 |Typ=Profan
 |Ort=München
-|davor=München, Turnierhaus im Hofgarten der Münchner Residenz
-|danach=München, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide in der Münchner Residenz
+|davor=München, Residenz, Turnierhaus im Hofgarten
+|danach=München, Residenz, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -7261,11 +7262,11 @@ Zwei ehemalige Vorzimmer und ein Audienzzimmer, im ersten Geschoß des Traktes a
 |Chunkseite=
 |Originalseitenvon=220
 |Originalseitenbis=233
-|Lemma=München, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide in der Münchner Residenz
+|Lemma=München, Residenz, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide
 |Typ=Profan
 |Ort=München
-|davor=München, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667 der Münchner Residenz
-|danach=München, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide in der Münchner Residenz
+|davor=München, Residenz, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667
+|danach=München, Residenz, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -7751,11 +7752,11 @@ ausdrückt. Bemerkenswert ist dabei, daß Henriette Adelaid[e] trotz ihrer neuen
 |Chunkseite=
 |Originalseitenvon=233
 |Originalseitenbis=249
-|Lemma=München, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide in der Münchner Residenz
+|Lemma=München, Residenz, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide
 |Typ=Profan
 |Ort=München
-|davor=München, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide in der Münchner Residenz
-|danach=München, Galerie und angrenzende Kabinette der Kurfürstin Henriette Adelaide in der Münchner Residenz
+|davor=München, Residenz, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide
+|danach=München, Residenz, Galerie und angrenzende Kabinette der Kurfürstin Henriette Adelaide
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -8243,11 +8244,11 @@ Levi d'Ancona, Mirella, The Garden of the Renaissance, Botanical Symbolism in It
 |Chunkseite=
 |Originalseitenvon=250
 |Originalseitenbis=274
-|Lemma=München, Galerie und angrenzende Kabinette der Kurfürstin Henriette Adelaide in der Münchner Residenz
+|Lemma=München, Residenz, Galerie und angrenzende Kabinette der Kurfürstin Henriette Adelaide
 |Typ=Profan
 |Ort=München
-|davor=München, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide in der Münchner Residenz
-|danach=München, Ehemalige Alexanderzimmer der Münchner Residenz
+|davor=München, Residenz, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide
+|danach=München, Residenz, Ehemalige Alexanderzimmer
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -9622,11 +9623,11 @@ A. B.
 |Chunkseite=
 |Originalseitenvon=275
 |Originalseitenbis=291
-|Lemma=München, Ehemalige Alexanderzimmer der Münchner Residenz
+|Lemma=München, Residenz, Ehemalige Alexanderzimmer
 |Typ=Profan
 |Ort=München
-|davor=München, Galerie und angrenzende Kabinette der Kurfürstin Henriette Adelaide in der Münchner Residenz
-|danach=München, Ehemalige Sommerzimmer der Münchner Residenz
+|davor=München, Residenz, Galerie und angrenzende Kabinette der Kurfürstin Henriette Adelaide
+|danach=München, Residenz, Ehemalige Sommerzimmer
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -10482,11 +10483,11 @@ A.B.
 |Chunkseite=
 |Originalseitenvon=292
 |Originalseitenbis=298
-|Lemma=München, Ehemalige Sommerzimmer der Münchner Residenz
+|Lemma=München, Residenz, Ehemalige Sommerzimmer
 |Typ=Profan
 |Ort=München
-|davor=München, Ehemalige Alexanderzimmer der Münchner Residenz
-|danach=München, Vierschimmelsaal und Steinzimmer der Münchner Residenz
+|davor=München, Residenz, Ehemalige Alexanderzimmer
+|danach=München, Residenz, Vierschimmelsaal und Steinzimmer
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -10680,11 +10681,11 @@ Faßmann 1770, S. 411–14. Schmid 1685, S. 216–260. Wening 1701, S. 4. Kalmba
 |Chunkseite=
 |Originalseitenvon=299
 |Originalseitenbis=334
-|Lemma=München, Vierschimmelsaal und Steinzimmer der Münchner Residenz
+|Lemma=München, Residenz, Vierschimmelsaal und Steinzimmer
 |Typ=Profan
 |Ort=München
-|davor=München, Ehemalige Sommerzimmer der Münchner Residenz
-|danach=München, Ahnengalerie der Münchner Residenz
+|davor=München, Residenz, Ehemalige Sommerzimmer
+|danach=München, Residenz, Ahnengalerie
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -11805,12 +11806,12 @@ AB
 |Chunkseite=
 |Originalseitenvon=334
 |Originalseitenbis=338
-|Lemma=München, Ahnengalerie der Münchner Residenz
+|Lemma=München, Residenz, Ahnengalerie
 |Typ=Profan
 |Ort=München
-|davor=München, Vierschimmelsaal und Steinzimmer der Münchner Residenz
-|danach=München, Grüne Galerie der Münchner Residenz
-|AutorIn1=F.B.
+|davor=München, Residenz, Vierschimmelsaal und Steinzimmer
+|danach=München, Residenz, Grüne Galerie
+|AutorIn1=Bachter, Falk
 }}
 
 Galerie (Raum 4), an der Nordseite des Königsbauhofes im Erdgeschoß gelegen, Mittelbild erhalten
@@ -11942,12 +11943,12 @@ Brunner/Hojer/Seelig 1986, S. 11 und Abb. 17
 |Chunkseite=
 |Originalseitenvon=339
 |Originalseitenbis=343
-|Lemma=München, Grüne Galerie der Münchner Residenz
+|Lemma=München, Residenz, Grüne Galerie
 |Typ=Profan
 |Ort=München
-|davor=München, Ahnengalerie der Münchner Residenz
-|danach=München, Prunktreppenhaus der Münchner Residenz
-|AutorIn1=F.B.
+|davor=München, Residenz, Ahnengalerie
+|danach=München, Residenz, Prunktreppenhaus
+|AutorIn1=Bachter, Falk
 }}
 
 Galerie (Raum 58), im O-Trakt des Königsbauhofes, nördlich an die Reichen Zimmer angrenzend, nach der Wandbespannung mit grünem Seidendamast benannt; Deckenbilder 1944 zerstört, Raum mit Veränderungen wiederhergestellt
@@ -12075,12 +12076,12 @@ PRUNKTREPPENHAUS
 |Chunkseite=
 |Originalseitenvon=343
 |Originalseitenbis=343
-|Lemma=München, Prunktreppenhaus der Münchner Residenz
+|Lemma=München, Residenz, Prunktreppenhaus
 |Typ=Profan
 |Ort=München
-|davor=München, Grüne Galerie der Münchner Residenz
-|danach=München, Speisesaal der Münchner Residenz
-|AutorIn1=F.B.
+|davor=München, Residenz, Grüne Galerie
+|danach=München, Residenz, Speisesaal
+|AutorIn1=Bachter, Falk
 }}
 
 Treppenhaus, z.Z. der Ausmalung zeremonieller Zugang zur Grünen Galerie und zu den Reichen Zimmern; Raum und Deckenbilder 1764 durch Umbau zum Speisesaal (s. u.) zerstört
@@ -12123,21 +12124,6 @@ Bachter, Falk, Balthasar Augustin Albrecht, Mittenwald 1981, S. 83.
 <!-- citation-page-bottom: Band03-2 p343 -->
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=23 -->
-{{End}}
-
-{{Artikel
-|Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=344
-|Originalseitenbis=345
-|Lemma=München, Speisesaal der Münchner Residenz
-|Typ=Profan
-|Ort=München
-|davor=München, Prunktreppenhaus der Münchner Residenz
-|danach=München, Speisesaal der Münchner Residenz
-|AutorIn1=F.B.
-}}
 
 <!-- citation-page-top: Band03-2 p344 -->
 
@@ -12155,28 +12141,12 @@ Bachter, Falk, Balthasar Augustin Albrecht, Mittenwald 1981, S. 83.
 |Chunkseite=
 |Originalseitenvon=344
 |Originalseitenbis=345
-|Lemma=München, Speisesaal der Münchner Residenz
+|Lemma=München, Residenz, Speisesaal
 |Typ=Profan
 |Ort=München
-|davor=München, Speisesaal der Münchner Residenz
-|danach=München, Ehemalige Cäcilienkapelle der Münchner Residenz
-|AutorIn1=F.B.
-}}
-
-{{End}}
-
-{{Artikel
-|Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=345
-|Originalseitenbis=346
-|Lemma=München, Ehemalige Cäcilienkapelle der Münchner Residenz
-|Typ=Profan
-|Ort=München
-|davor=München, Speisesaal der Münchner Residenz
-|danach=München, Altes Residenztheater
-|AutorIn1=Bauer-Wild, Anna
+|davor=München, Residenz, Prunktreppenhaus
+|danach=München, Residenz, Ehemalige Cäcilienkapelle
+|AutorIn1=Bachter, Falk
 }}
 
 Speisesaal östlich der Grünen Galerie; Raum und Deckenbilder durch Umbau 1896 zerstört
@@ -12245,6 +12215,21 @@ Thoma/Kreisel 1937, S. 27.
 
 Bachter, Falk, Balthasar Augustin Albrecht 1687–1765, Mittenwald 1981, S. 86–89.
 
+{{End}}
+
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=345
+|Originalseitenbis=346
+|Lemma=München, Residenz, Ehemalige Cäcilienkapelle
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Speisesaal
+|danach=München, Altes Residenztheater
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 == EHEMALIGE CÄCILIENKAPELLE ==
 
@@ -12310,7 +12295,7 @@ Hojer, Gerhard, Die Münchner Residenzen des Kurfürsten Max Emanuel in: Kat. Ma
 |Lemma=München, Altes Residenztheater
 |Typ=Profan
 |Ort=München
-|davor=München, Ehemalige Cäcilienkapelle der Münchner Residenz
+|davor=München, Residenz, Ehemalige Cäcilienkapelle
 |danach=München, ehem. Hofgartengalerie
 |AutorIn1=Baur, Eva-Gesine
 }}
@@ -16044,21 +16029,6 @@ Quellen und Literatur siehe S. 448 und 557 f.
 
 <!-- header: SCHLOSS LUSTHEIM -->
 
-{{End}}
-
-{{Artikel
-|Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=449
-|Originalseitenbis=481
-|Lemma=Oberschleißheim, Schloss Lustheim
-|Typ=Profan
-|Ort=Oberschleißheim
-|davor=Oberschleißheim, Altes Schloss Schleißheim, Wilhelmskapelle
-|danach=Oberschleißheim, Schloss Lustheim, Renatuskapelle
-|AutorIn1=Bauer-Wild, Anna
-}}
 
 '''Zum Bauwerk:''' Am S-Flügel des Hauptbaus (über der ehem. Wilhelmsklause) anschließende zweigeschossige, einschiffige Halle zu drei Jochen, Pilasterordnung, Oratorien, Empore im W (?), Belichtung von S und N durch Okuli der Stichkappen, im W Rundbogenfenster, geöstet
 
@@ -16119,6 +16089,22 @@ Holler 1986, S. 267f.
 s. auch Quellen und Literatur S. 557.
 
 A.B./K.S.
+
+{{End}}
+
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=449
+|Originalseitenbis=481
+|Lemma=Oberschleißheim, Schloss Lustheim
+|Typ=Profan
+|Ort=Oberschleißheim
+|davor=Oberschleißheim, Altes Schloss Schleißheim, Wilhelmskapelle
+|danach=Oberschleißheim, Schloss Lustheim, Renatuskapelle
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 <!-- header: SCHLOSS LUSTHEIM -->
 
@@ -17834,7 +17820,7 @@ K.
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Prunktreppenhaus
 |danach=Oberschleißheim, Neues Schloss Schleißheim, Viktoriensaal
-|AutorIn1=W.H.
+|AutorIn1=Holler, Wolfgang
 }}
 
 Festsaal (Raum 3), jetzt als Konzertsaal genutzt
@@ -17951,7 +17937,7 @@ Bretagne 1722, S. 17. Thon 1977, S. 65–70, 303 f. Schmid 1980, S. 105 f. Hojer
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Großer oder Weißer Saal
 |danach=Oberschleißheim, Neues Schloss Schleißheim, Große Galerie
-|AutorIn1=W.H.
+|AutorIn1=Holler, Wolfgang
 }}
 
 Ehem. Speisesaal im Obergeschoß (Raum 4), nördlich an den Weißen Saal grenzend. Nach Vollendung des darunterliegenden neuen Speisesaals 1774 (S. 502) bürgerte sich die Bezeichnung »Victori-Saal« ein, bezogen auf die in den Schlachtenbildern Beichs dargestellten Türkensiege.
@@ -18091,7 +18077,7 @@ W.H.
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Viktoriensaal
 |danach=Oberschleißheim, Neues Schloss Schleißheim, Vor-, Audienz-, Schlaf- und Wohnzimmer des Kurfürsten
 |AutorIn1=Bauer-Wild, Anna
-|AutorIn2=W.H.
+|AutorIn2=Holler, Wolfgang
 }}
 
 Gemäldegalerie (Raum 5), auch Schöne Galerie genannt, innerhalb der Repräsentationsräume als Gemäldegalerie der kurfürstlichen Sammlungen bestimmt
@@ -18259,7 +18245,7 @@ A. B./W. H.
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Große Galerie
 |danach=Oberschleißheim, Neues Schloss Schleißheim, Maximilianskapelle
-|AutorIn1=W.H.
+|AutorIn1=Holler, Wolfgang
 }}
 
 Zwei Appartements im Obergeschoß, an die Galerie angrenzend. Das südliche Appartement (I-VI) war für den Kurfürsten bestimmt, das nördliche (VII-XI) für die Kurfürstin
@@ -20074,22 +20060,6 @@ B. V.-K.
 |AutorIn2=Sinkel, Kristin
 }}
 
-{{End}}
-
-{{Artikel
-|Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=577
-|Originalseitenbis=578
-|Lemma=München, Palais Preysing
-|Typ=Profan
-|Ort=München
-|davor=München, Palais Portia
-|danach=München, Gasthof zum Schwarzen Adler
-|AutorIn1=Baur, Eva-Gesine
-}}
-
 Stadtpalais der Gräfin Maria Josepha von Topor-Morawitzky, spätere Fürstin Portia, seit 1934 im Besitz der Bayer. Vereinsbank, Kardinal- Faulhaberstraße 12. 1944 zerstört.
 
 '''Zum Bauwerk:''' Neubau 1693 von Enrico Zucalli für Gräfin Anna Katharina Fugger. Das Gebäude ging 1721 an deren Sohn Philipp Joseph Graf von Törring zu Seefeld und Dengling über, der es 1731 an Kurfürst Karl Albrecht von Bayern verkaufte. Karl Albrecht vermachte das Palais seiner Favoritin, der Gräfin Maria Josepha Hyazinta von Topor-Morawitzky, später verheiratete Fürstin Portia, während deren Besitz der Bau ab 1731 durch François Cuvilliés d. Ä. modernisiert wurde. Nach wechselnden Eigentümern und dem drohenden Abbruch im Jahr 1919 übernahm am 28. 7. 1934 die Bayerische Vereinsbank den Bau. Kriegszerstörung 1944 bis auf die Fassade, totaler Verlust der barocken Ausstattung. 1950-52 Wiederaufbau unter Neugestaltung des Innern.
@@ -20127,9 +20097,21 @@ Dischinger, Gabriele, Das Palais Portia, Bau- und Ausstattungsgeschichte, in: Zw
 Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann, Entstehung und Vollendung des bayerischen Rokoko, Regensburg 1985, S. 316.  
 Braunfels, Wolfgang, François Cuvilliés. Der Baumeister der galanten Architektur des Rokoko, München 1986, S. 110 f., 178. E.-G. B./K. S.
 
+{{End}}
 
-== PALAIS PREYSING ==
-
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=577
+|Originalseitenbis=578
+|Lemma=München, Palais Preysing
+|Typ=Profan
+|Ort=München
+|davor=München, Palais Portia
+|danach=München, Gasthof zum Schwarzen Adler
+|AutorIn1=Baur, Eva-Gesine
+}}
 
 Stadtpalais in der Residenzstr. 27, an der Rückseite der Feldherrenhalle; bis 1835 in Familienbesitz der Preysing, ab 1844 im Besitz der Bayerischen Hypotheken- und Wechselbank, 1905–44 verschiedene Besitzer, zuletzt der Deutsche Automobilclub München. 1944 Totalzerstörung durch Bombentreffer, 1958-60 Wiederaufbau durch den neuen Eigentümer und Unternehmer Dr. Hermann Hartlaub; seither Geschäftshaus; Deckenbilder nicht erhalten
 
@@ -20278,22 +20260,6 @@ Holler, Wolfgang, Jacopo Amigonis Frühwerke in Süddeutschland, Hildesheim-Zür
 |AutorIn1=Baur, Eva-Gesine
 }}
 
-{{End}}
-
-{{Artikel
-|Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=579
-|Originalseitenbis=580
-|Lemma=München, Schloss Harlaching
-|Typ=Profan
-|Ort=München
-|davor=München, Gasthof zum Schwarzen Adler
-|danach=München, Schloss Neuberghausen
-|AutorIn1=Lüdicke, Lore
-}}
-
 Gasthaus des Weinwirts Albert, Kaufingerstraße 23, Haus A, 1805 abgebrochen, Deckenbilder nicht erhalten
 
 '''Zum Bauwerk:''' Das seit 1529 nachweisbare Haus A (Häuserbuch, Bd 2, S 75) war 1755-91 im Besitz von Franz Joseph Albert. 1791 ging es in der Besitz von dessen Sohn Karl Albert über, der 1805 das Nachbarhaus (Haus B) dazu erwarb, beide Häuser abbrechen und durch einen Neubau ersetzen ließ. Das ehem. Haus A zeigt ein Aquarell von Joseph Puschkin (Stadtmuseum München; abgebildet bei Erich Valentin, Beethoven. Ein Bildbiographie, München 1957, S. 26). Eine Ausstattung mit einem Dekkengemälde ist für einen >Saal< überliefert (s. u.), der vermutlich al Festsaal fungierte. Der Gasthof Alberts war »ein beliebter Treffpunk nicht nur der Cavaliers, sondern vor allem der Musik-, Literatur- und Theaterfreunde des kurfürstlichen München« (Valentin, Mozarts > Weinwirt Albert<, S. 549).
@@ -20318,9 +20284,21 @@ Traini, Du O, S. v. Schinning Westenrieder 1782, S. 40
 
 Valentin, Erich, Mozarts > Weinwirt Albert<, Skizzen zu einem Porträt, in: Festschrift Karl Gustav Fellerer zum 60. Geburtstag, Regensburg 1962 S. 549. E.-G. B
 
+{{End}}
 
-== SCHLOSS HARLACHING ==
-
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=579
+|Originalseitenbis=580
+|Lemma=München, Schloss Harlaching
+|Typ=Profan
+|Ort=München
+|davor=München, Gasthof zum Schwarzen Adler
+|danach=München, Schloss Neuberghausen
+|AutorIn1=Lüdicke, Lore
+}}
 
 Schloß, am Isarhang nordöstlich der St.-Anna-Kirche, erbaut für Baron von Mayr; 1795 abgebrannt, Deckenbilder nicht erhalten
 
@@ -20398,7 +20376,7 @@ Lessing, Waldemar, Johann Georg von Dillis, München 1951, Abb. 6. Andersen, Lis
 |Typ=Profan
 |Ort=München
 |davor=München, Schloss Harlaching
-|danach=
+|danach=Ortsregister (Band 3-II)
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -20429,6 +20407,19 @@ C. B
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=17 -->
 <!-- citation-page-top: Band03-2 p582 -->
+
+{{End}}
+
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=582
+|Originalseitenbis=585
+|Lemma=Ortsregister (Band 3-II)
+|davor=München, Schloss Neuberghausen
+|danach=Personenregister (Band 3-II)
+}}
 
 <!-- header: REGISTER -->
 
@@ -20666,6 +20657,18 @@ Wartenberg 100, 102 Wasserburg am Inn 71 f., 98 Weilheim 73, 103 f., 168 Stadtmu
 
 Zweibrücken 348 Zypern 228, 260
 
+{{End}}
+
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=586
+|Originalseitenbis=592
+|Lemma=Personenregister (Band 3-II)
+|davor=Ortsregister (Band 3-II)
+|danach=Ikonographisches Register (Band 3-II)
+}}
 
 == Personenregister ==
 
@@ -21095,8 +21098,18 @@ Zwerger, Philipp, Maurermeister 449, 482, 484
 Zwinger, Theodor 136  
 Zwitzel, Simon, Baumeister 67
 
+{{End}}
 
-== konographisches Register ==
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=593
+|Originalseitenbis=613
+|Lemma=Ikonographisches Register (Band 3-II)
+|davor=Personenregister (Band 3-II)
+|danach=Embleme-Register (Band 3-II)
+}}
 
 
 → Pfeil verweist auf den Begriff, unter dem die Information aufzusuchen ist. Allegorien sind, soweit sinnvoll, unter ihrem lateinischen Namen aufgeführt; andernfalls ist die italienische bzw. deutsche Bezeichnung verwendet.  
@@ -22575,7 +22588,18 @@ Wilhelm V. 115 Winde, Vier 54, 56-58, 66, 80, 311, 313 f., 315, 330 f. → Windg
 Zepter > Cybele 386 f. > Ecclesia triumphans 328 f. > Gloria 298 > Herrschaft 231 > Jupiter 330, 357, 366, 486 f., 504, 520 > Libertà 255 > Majestät 241 > Providentia divina 345 und Blitzbündel > Jupiter 34 und Krone > Benignità 258 > Majestät 256 > Henriette Adelaide 268 mit Steuerruder und Zodiakus > Regierung weise 185 und Reichsapfel > Karl der Große 127 und Steuerruder > Sapientia 183 f. und Sternenkranz > Sapientia divina 279, 289 mit Auge an der Spitze 231 f. mit Kreuz bekrönt > Basilius I. und Leo VI. 152 Zetes und Kalais jagen die Harpyien 381, 394 f., 466, 470 f. Ziege > Promptitudo audiendi 231 Ziegenfüße > Pan 311 Zink, krummer > Mars 172 > Fama 93 > Musen 36 > Musica 183 Zirkel > Astronomia 368 > Diiudicatio 155 > Geometria 182 f., 240 > Künste, bildende 524 > Mathematica 240 > Urania 534 auf dem Haupt > Saltatio 440 über Erdkugel gehalten > Sapientia divina 289 Zodiakus 36, 46, 57 f., 183, 185, 320, 362, 534, 559, 580 > Agricultura 282 > Jahr 319 f. > Perfettione 185 > Ratio 185 mit Zepter und Steuerruder > Regierung weise 185 Zopf, abgeschnitten, auf Schild 225 Zöpfe, blonde > Felicitas aeterna 258 Zorn > Ira 294 Zurückweisung der böhmischen Königskrone durch Albrecht III. 174 f., 192 durch Maximilian I. 262 Zurückweisung einer Krone > Magnanimitas 192 Zweifel > Dubbio 258 Zweige, grün, auf dem Helm > Bavaria 201 Zweizack > Flußgott 505 > Pluto 34 Zwietracht → Discordia Zwillinge, Sternzeichen 320 f., 580 Zypressenzweig > Aeternitas 322, 332
 
 <!-- citation-page-bottom: Band03-2 p613 -->
+{{End}}
 
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=614
+|Originalseitenbis=619
+|Lemma=Embleme-Register (Band 3-II)
+|davor=Ikonographisches Register (Band 3-II)
+|danach=Bildnachweis (Band 3-II)
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk013.pdf#page=8 -->
 <!-- citation-page-top: Band03-2 p614 -->
 
@@ -22694,6 +22718,19 @@ Reuse, darin Herz 247 Richtblei 232 Richter inmitten einer Volksmenge 232 Ring, 
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk013.pdf#page=11 -->
 <!-- citation-page-top: Band03-2 p620 -->
+
+{{End}}
+
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=620
+|Originalseitenbis=621
+|Lemma=Bildnachweis (Band 3-II)
+|davor=Embleme-Register (Band 3-II)
+|danach=
+}}
 
 
 == Bildnachweis ==

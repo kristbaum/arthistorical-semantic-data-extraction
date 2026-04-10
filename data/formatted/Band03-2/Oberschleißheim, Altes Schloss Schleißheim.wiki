@@ -1,0 +1,117 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=428
+|Originalseitenbis=430
+|Lemma=Oberschleißheim, Altes Schloss Schleißheim
+|Typ=Profan
+|Ort=Oberschleißheim
+|davor=München, Klosterkirche der Chorfrauen von Notre Dame
+|danach=Oberschleißheim, Altes Schloss Schleißheim, Saal und Wohnräume
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band03-2 p428 -->
+
+<!-- header: SCHLEISSHEIM -->
+
+
+== Baugeschichtlicher Überblick ==
+
+
+
+{| class="wikitable"
+|-
+| Altes Schloß
+|-
+| 1598-1600 Erbauung eines Landschlosses und Gutshofs
+|-
+| mit neun im Umkreis gelegenen Einsiedlerklau
+|-
+| sen durch Herzog Wilhelm V.
+|-
+| 1616 Errichtung eines neuen Hauptbaus des Schlos
+|-
+| ses unter Einbeziehung der älteren Flügelbau
+|-
+| ten durch Herzog Maximilian I. unter Leitun
+|-
+| des Hofbaumeisters Heinrich Schön d. A.
+|-
+| Bis 1623 Ausstattung von Hauptgebäude und Kapelle im
+|-
+| S-Trakt
+|-
+| 1651/52 Im N-Trakt Abbruch und Wiedererrichtung
+|-
+| des Obergeschosses unter Kurfürstin Maria
+|-
+| Anna
+|-
+| 1656 Kurfürst Ferdinand Maria läßt drei polygonale
+|-
+| Erker an das Hauptgebäude anbauen
+|}
+
+
+1684-89 Anstelle der mit dem Alten Schloß achsial verbundenen Renatusklause wird unter Kurfürst Max Emanuel das Jagdschloß Lustheim nach Plänen von Enrico Zuccalli errichtet und ausgestattet
+
+1686-89 Bau von zwei im N und S des Schlosses freistehenden Pavillons, im südlichen die Renatuskapelle
+
+ab 1695 Verbindung der Pavillons durch eine halbkreisförmige, zweigeschossige Galerie im O, die nur teilweise fertiggestellt wurde
+
+Neues Schloß Nach jahrelanger Vorplanung durch Enrico Zuccalli Grundsteinlegung unmittelbar nach der Rückkehr Max Emanuels aus Brüssel Nach Fertigstellung des Rohbaus Einsturz des Mittelteils der Gartenfassade, Planänderung und Fortführung des Baus 1704-15 Bauunterbrechung während des Exils von Max Emanuel 1719-22 Ausbau des Schlosses unter Leitung von Joseph Effner, der auch den Außenbau gestaltet 1719 Vollendung des südlichen oder »Herkules«-Pavillons, Beginn der Innenausstattung
+
+1724 Einrichtung der Appartements im Hauptgeschoß, anschließend Errichtung des nördlichen oder »Pallas«-Pavillons Beim Tod Max Emanuels bleibt das Schloß unvollendet
+
+1768-71 Ausstattung des Speisesaals im Erdgeschoß
+
+Altes Schloß
+Hauptgeschoß im Ostflügel
+Rekonstruktion der Bildanordnung
+Rekonstruktion der Bildanordnung
+Rekonstruktion der Bildanordnung
+Rekonstruktion der Bildanordnung
+Rekonstruktion der Bildanordnung
+Rekonstruktion der
+
+
+== ALTES SCHLOSS ==
+
+
+Schloß mit Schwaige, im Zweiten Weltkrieg schwer beschädigt, Deckenbilder nicht erhalten
+
+Baugeschichte: Neben dem Ausbau von Okonomiegebäuden und neun Einsiedeleien (in Entsprechung zu den neun Stationskirchen in Rom) wurde in Schleißheim 1598–1600 durch Herzog Wilhelm V. (1579–98 † 1626) das Herrenhaus errichtet, das 44 Räume aufwies. Der sog. Wilhelmsbau wurde von dem verschuldeten Wilhelm 1616 an seinen Sohn Maximilian I. (1598–1651, Kurfürst ab 1623) gegen eine Leibrente von jährlich 2500 fl. abgetreten; das Schloß wurde jedoch erst 1625 offiziell übereignet (BHStA I, FS 450, fol. 63 ff.).
+
+Ab Dezember 1616 erfolgte auf den Fundamenten des teilweise abgebrochenen Wilhelmsbaus der Neubau des mittleren Haupttraktes im O der Gesamtanlage unter Aufsicht des Hofbaumeisters Heinrich Schön durch die Maurermeister Georg Graff, Hans Reitter und Michael Spözl; Steinmetzarbeiten durch den Hofsteinmetzmeister Hans Staudacher; »Caspa Marolt und seine Consorten Stuckhator Maurer, haben das ganze neue gepey im mittern Gaden, das ist die Capeln, Saal, zway flez oder Gäng, vier Stüben, vier Cämmer und vier guardaroba, also in allem 16 absonderliche Zimmer, und ortt, von Stuckhwerch mit platn und mödlwerch, auch Ziera und anderem, wie die Visieren, vermögt, dazue auch das gmeürwerch ir disen Zimern, bis auf den poden ... abbrait und geweist, verferttigt unne gemacht, darfür ist Imo verdingt und bezalt worden ... 1200 fl. « (BHStA I HR II, 15/119, Maurer Nr. 67). Der Ornamentstuck und die Rustizierung der fürstlichen Räume im Hauptgeschoß stammen also von Caspar Marolt, während der ebenfalls in Schleißheim laufend tätige Hofstukkator Isaak
+
+[[File:Band03-2_chunk009_p015_img001.jpg|thumb|Saal, Ansicht nach W (Zustand zwischen 1028 und ca. 1028)]]
+
+Pader mit anderen Arbeiten beschäftigt war. Am Neubau beteiligt waren auch Blasius Fistulator und seine Mitarbeiter (ebd., Stuckhator und Posierarbeit, passim) offenbar mit Stuckmarmorarbeiten, deren Verwendung nur einmal angegeben ist: »Gesims und ander Zier zu den Fenstern« (Nr. 1). Ende des Jahres 1617 war der Haupttrakt des Schlosses – der Trakt im O – im wesentlichen fertig und ausgestattet.
+
+[[File:Band03-2_chunk009_p015_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p429 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk009.pdf#page=16 -->
+<!-- citation-page-top: Band03-2 p430 -->
+
+<!-- header: SCHIFISSHEIM ALTES SCHLOSS -->
+
+<!-- header: SAAL UND WOHNRÄUMI -->
+
+
+[[File:Band03-2_chunk009_p016_img001.jpg|thumb|Candid-Werkstatt, Kopie eines Entwurfs zu I<sub>1</sub> Melken und Buttern, München]]
+
+
+Noch unter Maximilian I. wurde ab Ende 1650, nach dessen Tod (27. 9. 1651) unter seiner Witwe Maria Anna der nördliche Trakt des Schlosses umgebaut (BHStA I, HR II, 16/129). Über Küchenräumen und Silberkammer entstanden im Hauptgeschoß drei fürstliche Wohnungen und ein Saal. Für den Saal, der mit Stuckmarmor- und Scagliolaarbeiten aus der Fistulator-Werkstatt ausgestattet wurde und einen Grottenbrunnen von Christoph Langenbuecher bekam, malte Caspar Amort (* 1612 Jachenau † 1675 München) eine perspektivische Decke in Wasserfarben auf Leinwand (Nr. 611). Sechs Zimmer hatten Kassettendecken mit Füllungen; Amort malte zumindest einen Teil dieser Füllungen (Nr. 748). Von den Bildern Amorts in diesem Schloßtrakt ist weiter nichts bekannt.
+
+
+[[File:Band03-2_chunk009_p016_img002.jpg|thumb]]
+
+
+Christoph Langenbuecher bekam, malte Caspar Amort (* 1612 Jachenau † 1675 München) eine perspektivische Decke in Wasserfarben auf Leinwand (Nr. 611). Sechs Zimmer hatten Kassettendecken mit Füllungen; Amort malte zumindest einen Teil dieser Füllungen (Nr. 748). Von den Bildern Amorts in diesem Schloßtrakt ist weiter nichts bekannt.
+
+
+{{End}}

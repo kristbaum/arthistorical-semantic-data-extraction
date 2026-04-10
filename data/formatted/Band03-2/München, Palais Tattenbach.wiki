@@ -1,0 +1,75 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=574
+|Originalseitenbis=576
+|Lemma=München, Palais Tattenbach
+|Typ=Profan
+|Ort=München
+|davor=München, Palais Holnstein
+|danach=München, Palais Portia
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+Stadtpalais Rheinstein-Tattenbach, später Arco-Valley, Theatinerstraße 7, Ecke Maffeistraße, 1876 abgebrochen, Ausstattung eines Kabinetts, heute im Bayerischen Nationalmuseum
+
+'''Zum Bauwerk:''' Das Palais wurde um 1770 erbaut, vielleicht von François Cuvilliès d.J. (Reber, S. 272; Lieb 1941, Anm. 1674; Erdmannsdorffer S.88) Das betreffende Kabinett wurde 1772-79 mit einer Deckenbemalung und einer bemalten Wandverkleidung ausgestattet.
+
+'''Auftraggeber:''' Joseph Ferdinand Reichsgraf zu Rheinstein und Tatten bach (1732–1802), Obersthofmeister und Geheimer Konferenzminister
+
+
+'''Autor und Entstehungszeit:'''
+
+
+Joseph Zächenberger, (* 1732 München, † 1802 München), Sohn und Schüler des Anton Zächenberger (CBD, Bd 3/1, S. 93 f.) 1772-79. Westen rieder berichtet, Joseph Zächenberger sei zehn Jahre lang erster Blumen maler der Nymphenburger Porzellanmanufaktur gewesen, und »malt sodann auf Tafent und Beguinartig das schöne Kabinet des Titl. Hrn. Gra von Tattenbach acht ganzer Jahre, wo alles, was Natur sagen will, zugege ISL.«
+
+
+== Befund ==
+
+
+Gesamte Raumausstattung eines etwa quadratischen Kabinetts, Höhe 3,98 m; 4,50 × 4,80 m. Decke und Wände mit Verkleidungen aus einzelnen Holzrahmen mit Füllungen, über die weißer Seidentaft mit grober Leinwand als Unterfutter gespannt ist.
+
+Technik: Tempera auf Seidenbespannung; polychrom. Signatur im Wandfeld rechts vom Konsoltisch Zaechenberger pingebat ab anno 1772 in 1779; das Miniaturselbstbildnis des Künstlers ist gesondert gemalt und auf die Bespannung aufgeklebt.
+
+Erhaltungszustand und Verbleib: Die Raumausstattung des 1876 abgerissenen Palais (vgl. Häuserbuch II. S. 315 ff.) war 1932 im Besitz der Firma L Bernheimer, München (vgl. Feulner), 1951 wurde sie vom BNM erworben, Inv. Nr. 51/103, und dort installiert (Saal 41). Der Seidentaft is verschmutzt, brüchig und weist kleinere und größere Fehlstellen auf Zahlreiche Retuschen, größere Teile des Gitterwerks von Hohlkehle und Decke übermalt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die miniaturhaft feine Bemalung des Raums ist von zarter Farbigkeit und suggeriert ein Gartenhaus mit Spalieren an der Decke, die in perspektivi-
+
+
+[[File:Band03-2_chunk012_p013_img001.jpg|thumb|Kabinett, ehemals im Palais Rheinstein-Tattenbach, jetzt BNM]]
+
+
+<!-- citation-page-bottom: Band03-2 p575 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=14 -->
+<!-- citation-page-top: Band03-2 p576 -->
+
+
+== PALAIS PORTIA ==
+
+
+scher Verkürzung sich nach oben kuppelartig ausweiten und mit Weinlaub berankt sind. In der Mitte gibt eine durch einen Blumenkranz eingefaßte ovale Öffnung den Blick in den Himmel frei, wo man ein Taubenpaar sieht. Den Sockel, von dem das Gitterwerk aufsteigt, bilden gemalte, goldene Leisten, durch die Blumengirlanden geschlungen sind in den vier Ecken jeweils in einem Ornamentfeld Blumenkörbe, darüber auf gemalten Sockeln Vogelpaare. Die Eingangsseite des Kabinetts und die Wand gegenüber sind in der Mitte jeweils durch einen großen Spiegel über einem Konsoltisch bzw. Kamin betont. Daran schließen sich, von vergoldeten Holzleisten eingefaßt, schmale rundbogige Felder, bemalt mit Blumengehängen an blauen Bändern, Vögeln und Blumenkörben, im oberen Abschluß der Füllung Musikinstrumente und andere Gegenstände, die sich u.a. auf die Künste, auf Jagd und Landwirtschaft beziehen.
+
+
+== Literatur ==
+
+
+Westenrieder 1782, S. 4  
+Lipowsky-Künstlerlexikon 1810, II, Bd 2, S. 184  
+Hofmann, Friedrich H., Geschichte der bayerischen Porzellan-Manufak tur Nymphenburg, Rd a Leinzig 1099 S 949  
+Feulner, Adolf, Ein Meisterwerk dekorativer Louis XVI-Malerei, in: Pantheon IX 1932, S. 133ff., mit Abb  
+Thieme-Becker, Bd 36 [1947] S. 380, s.v. Zächenberger, Joseph.  
+Müller, Theodor, Erwerbungsbericht des Bayerischen Nationalmuseums, in: Münchner Jahrbuch III/IV 1952/53, S. 342 und Abb. 5.  
+Bayerisches Nationalmuseum München, Führer durch die Schausammlung, 42. Ausgabe 1985, S. 109, mit farb. Abb.  
+B. V.-K.
+
+
+== PALAIS PORTIA ==
+
+
+{{End}}

@@ -1,0 +1,41 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=214
+|Originalseitenbis=214
+|Lemma=München, Residenz, ehem. Hofapotheke
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Gartentempel im Hofgarten
+|danach=München, Residenz, Schreibzimmer der Kurfürstin Maria Anna
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Apotheke mit Nebenräumen, zerstört. Deckenbilder nicht erhalten
+
+'''Zum Bauwerk:''' Nach der Beschreibung Wenings muß sich die ehem. Hofapotheke im Erdgeschoß des Christophturms befunden haben. Aus dem Jahr 1641 sind dort Einrichtungsarbeiten überliefert (BHStA I, HR II/2/16), die Apotheke dürfte also in den vorhergehenden Jahren aus ihren ursprünglichen Räumen südlich des Christophturms hierher verlegt worden sein. Sie war »mit weiß und rothen Marmel gepflastert, in Form eines Rundells, dessen Runde 106. die Höhe aber 13 Schuech haltet; ist in siben gleiche Theil entschyden, hat eine Decke von feiner Gips-Arbeit . . . « (Wening, S. 7; zur Lage der vorhergehenden Apotheke s. Otto Meitinger, Die baugeschichtliche Entwicklung der Neuveste, in: OA 92, 1970, S. 78).
+
+Die Decke war von »einer Saul in der Mitte von Marmelstain getragen ... E hat über das in der Apoteck ain Marmelstainernen Springbrunn, und nechst daran ein aygne schöne Bibliothec ... Der Kräuter-Boden in de Höhe ist abermahl an der Decke von Gips-Arbeit ... « (ebd.)
+
+Verbleib: Die Ausmalung der Apotheke wurde mit der Einrichtung spätestens beim Residenzbrand 1750 zerstört.
+
+'''Auftraggeber:''' Herzog Maximilian I. von Bayern (1598–1651; ab 1623 Kurfürst)
+
+Autor und Entstehungszeit: Die Malereien dürften um 1640 entstanden sein. Der Maler ist nicht mehr zu ermitteln.
+
+Darstellungen: Nach Wening war die Apotheke selbst »al fresco mit sinnreichen Bildern bemahlen«, der Kräuterboden »al fresco zierlich außgemahlen« (S. 7).
+
+Uber die Bildinhalte ist nichts bekannt
+
+
+== Quellen und Literatur ==
+
+
+BHStA I HR II/2/16, Hofbauamtsrechnung 1641.
+
+Wening 1701, S. 7.
+
+A. B.
+
+{{End}}

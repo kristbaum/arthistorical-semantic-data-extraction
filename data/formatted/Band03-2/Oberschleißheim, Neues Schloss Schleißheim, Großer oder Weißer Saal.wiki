@@ -1,0 +1,116 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=510
+|Originalseitenbis=514
+|Lemma=Oberschleißheim, Neues Schloss Schleißheim, Großer oder Weißer Saal
+|Typ=Profan
+|Ort=Oberschleißheim
+|davor=Oberschleißheim, Neues Schloss Schleißheim, Prunktreppenhaus
+|danach=Oberschleißheim, Neues Schloss Schleißheim, Viktoriensaal
+|AutorIn1=Holler, Wolfgang
+}}
+
+Festsaal (Raum 3), jetzt als Konzertsaal genutzt
+
+'''Zum Bauwerk:''' Der Saal geht auf Pläne Zuccallis von 1704 zurück, Innenausbau ab 1719 durch Joseph Effner, Stuckdekoration 1722/23 durch Johann Baptist Zimmermann nach einem Entwurf Effners (Thon, S. 65–70, 303 f.), Fertigstellung 1723 (»der grosse Saal khan leichtlich in frieling fertig werdten«, BHStA I, FS 147 d, fol. 155 ff.).
+
+Rechteckiger Raum (15,50 × 27,80 m), im Obergeschoß zwischen Treppenhaus (S), Viktoriensaal (N) und Galerie (O) gelegen. Der Saal erstreckt sich über zwei Geschosse. Kolossalgliederung an den Längswänden und in den Ecken durch kannelierte Pilaster über hohen bauchigen Konso len, die Kapitelle sitzen relativ tief in Fensterhöhe und lassen Raum in der Gesimszone für eine umlaufende plastische Stuckdekoration mit pflanzlichen und figürlichen Motiven, die vereinzelt in den Deckenbereich hineinspielt. Das untere Geschoß ist durch hohe, mit Sprenggiebeln und figürlichem Stuck bekrönte Rundbogenarkaden gegliedert, je drei auf den Schmalseiten, je fünf auf den Längsseiten. Die Arkaden sind an der S-Seite zum Treppenhaus offen, während die übrigen Arkaden als verspiegelte Nischen ausgebildet und an der N-Seite mit Kaminen (1757) ausgestattet sind.
+
+Das obere Geschoß folgt an den Längsseiten der Gliederung des unteren mit je fünf Rundbogenfenstern; an den Schmalseiten ist jeweils ein monumentales Schlachtenge-
+
+
+[[File:Band03-2_chunk011_p006_img002.jpg|thumb|Weißer Saal, Ansicht nach N]]
+<!-- citation-page-bottom: Band03-2 p511 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk011.pdf#page=7 -->
+<!-- citation-page-top: Band03-2 p512 -->
+
+<!-- header: SCHLEISSHEIM, NEUES SCHLOSS -->
+
+<!-- header: WEISSER SAAL -->
+
+Mälde von Franz Joachim Beich, 1702/04, angebracht: >die Entsatzschlacht von Wien 1683< und die >Schlacht am Berg Hársan bei Mohács 1687 (; Rahmen 1723 von Adam Pichler.
+
+'''Auftraggeber:''' Kurfürst Max Emanuel von Bayern (1680-1726).
+
+Autor und Entstehungszeit: Jacopo Amigoni (*um 1685 Venedig? † 1752 Madrid), 1721/22.
+
+Der Saal wird von Pierre de Bretagne am 20. 10. 1722 wie folgt beschrieben: »... le sallon, ou conduit cet Escalier, est grand, & bien eclairé, il est orné de plusieurs pilastres, le plafond est peint à fresque par Monsieur Amiconi, peintre italien ... « (S. 17). Nach Bretagnes Bericht waren zu diesem Zeitpunkt (vorausgesetzt, daß er nicht vorgreift und noch Unausgeführtes schildert) ein Teil der Ausstattung sowie die Freskierung durch Amigoni fertiggestellt.
+
+1719/20 war Amigoni mit der Badenburg (S. 410) beschäftigt. Die Angaben in den Rechnungsbüchern des Kurfürstlichen Hofes (BHStA I, HR II, 19 »Specification, was vor denen churfürstl. Privat Geltern ... bezahlet«, fol. 262 und 261 v.) lassen auf eine umfangreiche Beschäftigung Amigonis in den Jahren 1721/22 schließen (an Amigoni 1720 400 fl., 1721 2000 fl., 1722 500, 700 und 300 fl.). Nach den Aufstellungen der Zahlungen des Hofbauamtes an Künstler und den Aufstellungen des Kurfürsten persönlich (fol. 194) erhielt Amigoni 1719 200 fl., 1720 400 fl., 1721 2600 fl., 1722 2200 fl., 1723 2450 fl., 1724 1500 fl., 1725 500 fl. In der zeitlichen Reihenfolge der Deckenmalereien Amigonis im süddeutschen Raum steht der Weiße Saal nach dem Bibliotheksvorsaal in Ottobeuren und der Badenburg an dritter Stelle.
+
+Weder das Geburtsdatum noch der Geburtsort Jacopo Amigonis lassen sich bis heute nachweisen. Als Zeitraum seiner Geburt lassen sich aufgrund überlieferter Lebensdaten und der künstlerischen Entwicklung die Jahre 1685/90 vermuten. Sicher ist, daß Amigonis Frühwerk vor allem Merkmale venezianischer Stilschulung zeigt.
+
+Süddeutschland war Ausgangspunkt der künstlerischen Karriere Amigonis. In München ist er 1714/15 mit einem Altarbild für die Frauenkirche erstmals eindeutig faßbar. Amigonis Aufenthalt in Süddeutschland währte mit Unterbrechungen rund 15 Jahre, von 1714/15 bis 1729. Als herausragende Auftraggeber sind der bayerische Kurfürst Max Emanuel und der Abt von Ottobeuren, Rupert II. Neß, zu nennen.
+
+Nach ersten kleineren Aufträgen für dem Hofe nahestehende Kreise und den Kurfürsten selbst schuf Amigoni in der Fürstabtei Ottobeuren sein erstes überliefertes Deckenbild (1719). Es folgten die großen Freskoaufträge für die Badenburg (1719/20) und für das Neue Schloß in Schleißheim (1720-25). Danach arbeitete Amigoni vor allem wieder in Ottobeuren (1725/26–28). Die Werke in Ottobeuren, Schleißheim und Nymphenburg sind Höhepunkte der künstlerischen Tätigkeit Amigonis im süddeutschen Raum und stellen den überwiegenden Anteil der Deckenmalerei in seinem Oeuvre.
+
+Daneben arbeitete Amigoni für geistliche, adelige und bürgerliche Auftraggeber in München und dem heutigen bayerischen Raum (Theatinerkirche, Augustinerkloster und Lateinische Kongregation in München, Kloster Benediktbeuern, Freising).
+
+Neben Deckenfresken im Palais Preysing in München handelt es sich dabei hauptsächlich um Altarblätter und Gemälde religiösen, allegorischen oder mythologischen Inhalts sowie um Porträts.
+
+
+== <b>Befund</b> ==
+
+
+Träger der Deckenmalerei: Muldengewölbe, Verputz auf Lattenrosten
+
+Rahmen: stuckierte Eierstableiste, oberhalb der Pilaster von Stuckagraffen überspielt, in den Ecken als Fratzen ausgebildet; in den Achsen der Schmalseiten ragen die wappenbekrönenden Kurhüte in die Gewölbezone
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 16,60 (Stich 1,90) m; 15,50 × 27,50
+
+Erhaltungszustand und Restaurierungen: Großflächige Schäden nach dem Bombardement des Zweiten Weltkriegs. Von der gesamten Plafondfläche stürzten quadratmetergroße Freskoteile (ungefähr ein Viertel des Deckenbildes) herab und legten den freskotragenden Lattenrost frei.
+
+[[File:Band03-2_chunk011_p007_img001.jpg|thumb]]
+
+[[File:Band03-2_chunk011_p007_img002.jpg|thumb|Zweikampf des Turnus und Aeneas]]
+
+Besonders betroffen waren die Figurengruppe in der Bildmitte und die Partien am Übergang der Wölbung in den Deckenspiegel. Ein wechselnd breiter Randstreifen blieb erhalten (photographische Aufnahmen des Zustandes 1944 Foto Marburg, Nr. 202769 und BSV, Nr. SNS 170 und 171). Erhaltene Photographien des Deckenbildes vor der Zerstörung lassen bereits großflächige Wasserschäden erkennen. 1950 Wiederherstellung des Deckenbildes durch Johann Drobek und Karl Körner, München.
+
+Das Deckenbild zeigt Querrisse, Flecken, Verschraubungen in der NW-Ecke; der Gesamtzustand ist stark beeinträchtigt und nur teilweise original.
+
+
+== Beschreibung und Ikonographie ==
+
+
+ZWEIKAMPF DES TURNUS UND AENEAS (Vergil, Aeneis, XII) Das Deckenbild ist in zwei Bereiche unterteilt, in Himmelsdarstellung und terrestrische Szenerie. Es ist von zwei Standpunkten aus zu betrachten: die irdische Szenerie und ein Teil der himmlischen Szenerie etwa von der Mitte der W-Wand gegen O, der Randbereich der himmlischen Darstellung von der Raummitte aus gegen W. Amigoni verzichtet auf das traditionelle Prinzip der Quadratura, die als eine vermittelnde Rahmenzone zwischen reale Architektur und bildliche Darstellung eingeschoben wird; die terrestrische Szenerie setzt unmittelbar über dem Bildrand ein. Amigoni führt hier ein Schema weiter, das er in Ottobeuren (1719) und in der Badenburg (1720, S. 413) ansatzweise ausgebildet hat und das er 1725 in der Abteikapelle in Ottobeuren – erstmals im süddeutschen Bereich – zu einem rundumlaufenden Landschaftspanorama durchführen wird. Im Schleißheimer Fresko ist der Bodenstreifen halbkreisförmig in die Schmalseiten hineingezogen und so einer umlaufenden panoramatischen Szenerie angenähert.
+
+Mit dem mythologischen Thema hatte Amigoni die Unterbringung einer großen Zahl himmlischer und irdischer Figuren kompositorisch zu bewältigen. Die himmlischen Figuren sind auf breitgelagerte Wolken gruppiert und in mehreren Schichten angeordnet; eine weitere Wolkenreihe erstreckt sich repoussoirartig in umgekehrter Ansicht am westlichen Bildrand. Für die irdischen Figuren schafft Amigoni Bildraum, indem er mehrere hügelige Erdstreifen hintereinander staffelt. Die zum Horizont hin verblauende Hügelanordnung strebt Tiefenillusion an, ohne auf den Mittelpunkt der Decke hin orientiert zu sein. Vielmehr scheint sie zentrifugal nach außen bzw. nach hinten zu streben. Dementsprechend agieren die Vordergrundfiguren wie auf einem schmalen Grat über dem Bildrand, während die Figuren im Hintergrund auf dem nach hinten abfallenden Bildschauplatz vielfach nur als Halbfiguren ausgebildet sind, d.h. sie wirken, als ob sie aus einem Graben aufsteigen. Dieser »Grabeneffekt« ist ein charakteristisches Kompositionsmittel Amigonis.
+
+In der Bildmitte thront auf einer Wolkenbank Jupiter mit dem Adler, in der Rechten eine Waage. Mit dem linken Arm umfaßt er Ganymed, den Mundschenk der Götter. Rechts lagern die Drei Parzen: Clotho, die am Spinnrocker den Lebensfaden spinnt, Lachesis, die den Faden durch ihre Finger führt und Atropos, die ihn zerschneidet. Putten spulen den Faden auf eine Spindel.
+
+Zur Rechten Jupiters kniet mit verschränkten Armen und bunten Flügeln Saturn, vor ihm Neptun mit dem Dreizack.
+<!-- citation-page-bottom: Band03-2 p513 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk011.pdf#page=8 -->
+<!-- citation-page-top: Band03-2 p514 -->
+
+Dahinter ein Flußgott und eine nicht näher bezeichnete Gestalt. Ebenso ist die weibliche Gestalt unter Neptun nicht eindeutig zu benennen; Faßmann (1761, fol. 2v) identifiziert die als »Diphtera mit ihrem Glückstopf«. Bei dem Gegenstand hinter der Figur, den er »Glückstopf« nennt, kann es sich jedoch auch um die Rückenansicht des Muschelwagens der Venus handeln; der Pfeilköcher in der Hand eines begleitenden Puttos ist ein weiterer Verweis auf die Liebesgöttin.
+
+Venus selbst, mit blauem Umhang bekleidet, thront weiter links und hält eine Taube (eines ihrer Symbole) an einem Faden. Drei nicht näher bezeichnete Figuren stellen wohl die Drei Grazien dar – Gefährtinnen der Venus und häufig den Drei Parzen antithetisch gegenübergestellt; bei ihnen tummeln sich zwei Putti, von denen einer einen Pfeil trägtergänzend zu dem köchertragenden Putto rechts. Am linken Wolkenrand, in der Ansicht um 90° gedreht, sitzt Mars mit Speer und Helm, in Begleitung eines nicht identifizierbaren bärtigen Alten.
+
+Unterhalb der Wolkenbank schweben und stürzen sechs nackte Gestalten, eine als Harpyie mit Klauen ausgestattet, eine bocksfüßig, die zugleich am Haarschopf eine weitere mit sich zerrt, zu deren Füßen ein Käuzchen auffliegt. Amigoni illustriert hier die Textstelle in Aeneis, XII. 861 ff. in der die Verwandlung einer der Diren in ein Käuzchen beschrieben wird, das Turnus umflatterte und als Hinweis auf seinen Untergang zu deuten ist.
+
+Auf der dunklen Wolke über dem östlichen Bildrand ist in umgekehrter Blickrichtung eine zweite große Gruppe plaziert, in deren Mitte Juno im Pfauenwagen zu erkennen ist, von Windgöttern begleitet. Iris auf dem nur undeutlich sichtbaren Regenbogen vermittelt zu der Venus-Gruppe. Rechts unterhalb der Juno schwebt Merkur mit geflügeltem Helm (die Haltung seiner Rechten scheint auf einen nicht rekonstruierten Stab hinzuweisen) zusammen mit einer anderen nackten männlichen Gestalt, deren Haarschopf sie vermutlich als Occasio, die günstige Gelegenheit (nach Ripa allerdings eine weibliche Personifikation), bezeichnen soll. Links sitzt Minerva in Rüstung, mit Speer und Medusenschild, den Helm trägt ein Putto. Daneben Herkules mit Deianeira, zu deren Füßen der von Herkules Pfeil getötete Nessus (die ganze Gruppe erneuert).
+
+Über der terrestrischen Rampe an der W-Seite (wieder in Blickrichtung der Venus-Gruppe) wird der Kampf der Titelhelden ausgetragen: Aeneas, zum Stoß bereit, steht über Turnus, der besiegt zu Boden stürzt, sein zerborstenes Schwert liegt vor ihm. Rechts preschen vier Pferde mit einem herrenlosen Kampfwagen nach vorn. Dahinter steigt aus dem Dunst die brennende Stadt der Latiner auf; als sehr kleine Figuren sind auf ihren Mauern König Latinus und seine Tochter Lavinia zu erkennen. Vom Entsetzen gepackt stürmt (am rechten Bildrand) Juturna, des Turnus Schwester, mit erhobenen Armen davon. An der angrenzenden Schmalseite kauert ein Flußgott, vermutlich Tiberinus, vor dem einige Nymphen beim Bade gezeigt sind.
+
+Die gesamte terrestrische Zone ist mit vielen Kriegern bei der Parteien bevölkert. Die zwei herausragenden Gestalten rechts und links bezeichnet Faßmann als Nisus und Euryalus, Freunde des Aeneas, die im Kampf gegen die Rutuler den Tod fanden.
+
+Das ursprüngliche Gesamtkolorit des Freskos ist auf Grund weitreichender restaurativer Eingriffe kaum mehr zu beurteilen. So, wie wir es heute sehen, wird es von einer kühlen, milchigen Helligkeit bestimmt, wobei die Farben Altrosa, Blau, Ocker und Beige sowie zahlreiche andere Braunschattierungen dominieren. Die Farbwerte sind nicht handlungsakzentuierend, sondern nach dekorativen Gesichtspunkten verteilt. Die Himmelsgruppe um Venus ist äußerst hell gehalten.
+
+In formeller Hinsicht zeigt das Fresko deutliche Schwächen. Eine fast ängstliche Detailvielfalt läßt eine energische Akzentuierung vermissen – vor allem im Bereich der Statisten. Selbst die Protagonisten Aeneas und Turnus sind nicht genügend aus dem Schlachtengetümmel herausgehoben. Himmlische und irdische Szenerie schließen sich zu keiner einheitlichen Komposition zusammen, sondern sind in mehrfach wechselnden Perspektiven nur »addiert«. Deutlich wird Amigonis Streben nach einer umlaufenden terrestrischen Zone: der dunkle Wolkenstreifen unter der Herkules-Juno-Gruppe geht eine anschauliche Verbindung mit der ebenfalls dunklen Erdrampe auf der gegenüberliegenden Seite ein, so daß die helle Szenerie mit Venus in der Mitte als eigentliche Himmelszone deutlich davon abgehoben erscheint. Die an den Schmalseiten weit hochgezogene terrestrische Zone verstärkt diesen Schritt auf eine kompositionelle Neuerung zu, die aber noch nicht vollzogen ist. Dennoch liegt die Bedeutung des Freskos in der fast vollendet gezeigten umlaufenden Szenerie, die zu einer epochemachenden Darstellungsform der Deckenmalerei werden sollte. Neu ist hier auch, daß die Bedeutung der extremen, konsequent durchgeführten Höhenillusion abnimmt, daß Höhen- und Tiefenillusion nicht koordiniert sind, daß die landschaftliche Szene als Bühne aufgefaßt und versatzstückhaft mit Buschwerk und Bäumen ausstaffiert ist, die bereits bestimmte Stimmungswerte assoziieren. Weitere Neuerungen sind die Annäherung himmlischer und irdischer Figuren an den gleichen Figurenmaßstab, die ikonographisch freiere, reich ausschmückende Erzählhaltung, die venezianische Vorliebe für genrehafte Details, die die Situation beleben.
+
+Der Vergleich des Weißen Saals in Schleißheim mit dem Steinernen Saal in Nymphenburg (S. 361-78), 1756/57 von Johann Baptist Zimmermann freskiert, zeigt in Ausdehnung, Bestimmung und Thematik einen frühen und einen späten Höhepunkt in diesem Bereich der Rokokomalerei; er macht deutlich, welche Bedeutung der Venezianer Amigoni für den Bayern Zimmermann hatte, der eben im Weißen Saal als Stukkator beschäftigt war (vgl. Bauer, Zimmermann, S. 66 f.)
+
+
+== Literatur ==
+
+
+Bretagne 1722, S. 17. Thon 1977, S. 65–70, 303 f. Schmid 1980, S. 105 f. Hojer/Schmid 1984, S. 36 f. Holler 1986, S. 28–39, 204 f.
+
+{{End}}

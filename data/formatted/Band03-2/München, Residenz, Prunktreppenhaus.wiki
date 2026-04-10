@@ -1,0 +1,64 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=343
+|Originalseitenbis=343
+|Lemma=München, Residenz, Prunktreppenhaus
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Grüne Galerie
+|danach=München, Residenz, Speisesaal
+|AutorIn1=Bachter, Falk
+}}
+
+Treppenhaus, z.Z. der Ausmalung zeremonieller Zugang zur Grünen Galerie und zu den Reichen Zimmern; Raum und Deckenbilder 1764 durch Umbau zum Speisesaal (s. u.) zerstört
+
+'''Zum Bauwerk:''' Neubau 1731, Stuckierung durch Johann Baptist Zimmermann, Beginn der Vergoldung 1732. 1764 wurden die Stiegenläufe abgetragen und das Obergeschoß in einen Speisesaal (S. 344 f.) verwandelt. Treppenhaus, im O an den Galeriebau anschließend, mit Anlauf und zwei Gegenläufen, die in einen Vorraum vor der Grünen Galerie mündeten. Wandverkleidung in rotem Marmor mit weißen Marmorsäulen; vergoldete Stukkaturen an Wänden und Decke
+
+'''Auftraggeber:''' Kurfürst Karl Albrecht von Bayern (1726–45; ab 1742 Kaiser Karl VII.)
+
+'''Autor und Entstehungszeit:''' Balthasar Augustin Albrecht (* 1687 Berg am Starnberger See † 1765 München, s.S. 335) 1732
+
+Voranschlag Albrechts vom 28. 1. 1732 (GHA, Korr. Akt. 1712 J 35) {ZITAT|000}.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: vermutlich Muldengewölbe (Kuppel ?) Rahmen: Vergoldeter Stuckrahmen Technik: Öl auf Putz Rekonstruierte Maße: Mittelbild ca. 5,80 × 6,50
+
+Verbleib: Die Deckendekoration wurde 1764/65 nach dem Umbau in einen Speisesaal durch ein neues Deckenbild Albrechts ersetzt.
+
+Der oben erwähnte Entwurf Albrechts gelangte in den Besitz des Augustiner-Chorherrnstifts Herrenchiemsee und wurde nach der Säkularisation versteigert (Versteigerungsliste vom 29. 4. 1803 {ZITAT|001}, BHStA I, KL 140/8 fol. 243 f.). Sie ist seitdem verschollen.
+
+
+== Darstellungen ==
+
+
+Bei der Ausmalung des Treppenhauses handelte es sich um ein Mittelbild und vier Eckbilder; über den Bildinhalt ist nichts bekannt.
+
+
+== Quellen und Literatur ==
+
+
+BHStA III, GHA, Korr. Akt 1712 J 35 (Voranschlag Albrechts). BHStA I, HR II / 25, 1732, 1733.
+
+BHStA, Beschreibung 1748, HR I, 25/89 (Brief Cuvilliés vom 4. 4. 1764 über Abtragung der Stiege und Bau eines Speisesaals und einer Küche).
+
+Haeutle 1883, S. 109. Brunner 1977, S. 103. Thon 1977, Kat. Nr. 59
+
+Bachter, Falk, Balthasar Augustin Albrecht, Mittenwald 1981, S. 83.
+<!-- citation-page-bottom: Band03-2 p343 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=23 -->
+
+<!-- citation-page-top: Band03-2 p344 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: SPEISESAAL -->
+
+<!-- header: EHEMALIGE CÄCILIENKAPELLE -->
+
+{{End}}

@@ -1,0 +1,57 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=559
+|Originalseitenbis=559
+|Lemma=München, Salvatortheater
+|Typ=Profan
+|Ort=München
+|davor=Oberschleißheim, Neues Schloss Schleißheim, Maximilianskapelle
+|danach=Starnberg, Kurfürstliches Prunkschiff "Bucentaur"
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+Kurfürstliches Opern und Schauspielhaus am heutigen Salvatorplatz Ecke Jungfernturmstraße gelegen. Das Gebäude wurde 1802 abgerissen Deckenbild nicht erhalten
+
+'''Zum Bauwerk:''' 1651-54 wurde ein rechteckiger, zweigeschossiger Kornspeicher, ca. 20 × 15 m, 27 m hoch, ausgekernt und zu einem dreigeschossigen Rangtheater ausgebaut. Der Stadel, zwischen dem Salvatorfriedhof und der Stadtmauer gelegen und nach dem Umbau durch einen gedeckten Gang mit der Residenz verbunden, ist zu sehen auf dem Sandtnerischen Stadtmodell von München von 1572 (BNM) und auf einem Stich in Wenings > Historico-topographica Descriptio (von 1701; den Grundriß im Zustand des späten 18. Jh. überliefert eine Zeichnung von Lorenzo Quaglio d. Ä. von 1785 (SGS Mü, Inv. Nr. 32018; Löwenfelder, S. 10f.). An den Ausbauarbeiten maßgeblich beteiligt war der Architekt Marx Schinnagl, der auch das Turnierhaus (S. 215) errichtete (BHStA I, HR II/325 und HR 456/12; vgl. Löwenfelder, Anm. 42); Umgestaltung 1685 unter Max Emanuel durch Domenico und Gasparo Mauro aus Venedig; 1724 erneute Restaurierung durch »zwey Theatristen aus Italien«, 1742 Umgestaltungsprojekt von Nikolaus Gottfried Stuber für die Ränge und die Hauptloge; wegen schlechten Bauzustandes wurde das Theater 1799 aufgegeben und 1802 abgerissen (vgl. vor allem Löwenfelder).
+
+
+[[File:Band03-2_chunk012_p005_img001.jpg|thumb|Innenansicht des ehemaligen Salvatortheaters mit Fürstenloge, Kupferstich von M. Wening, 1701]]
+
+
+'''Auftraggeber:''' Kurfürst Max Emanuel von Bayern (1680–1726)
+
+Autor und Entstehungszeit: Wohl Domenico Mauro (aus Venedig, Lebensdaten unbekannt, tätig Ende 17./Anfang 18. Jh.) 1685
+
+Anläßlich der Vermählung Max Emanuels mit der Kaisertochter Maria Antonia 1685 wurden der Bühnenarchitekt Gasparo Mauro und sein Bruder, der Maler und Dekorateur Domenico, aus Venedig berufen und mit der Umgestaltung des Opernhauses und der Ausstattung der Festopern beauftragt. Als erstes der von ihnen vorbereiteten Werke zu den Hochzeitsfeierlichkeiten wurde am 4. Januar 1686 die Oper Servio Tullio mit Musik von Agostino Steffani aufgeführt. Das italienische Textbuch von Ventura Terzago erschien bereits 1685. Ihm waren in Stichen von Wening nach Domenico und Gasparo Mauro die Szenenbilder beigegeben und auf dem Frontispiz eine Innenansicht des umgestalteten Theaters. Diese zeigt ein barockes Opernhaus mit Rängen in drei Geschossen und einer mächtigen, bizarr gebildeten Fürstenloge in der Mitte. Ihr Einbau geht auf die Gebrüder Mauro zurück, die auch die gebälktragenden, teilweise geflügelten Hermen als Stützen der Ränge geschaffen haben, außerdem ein neues Proszenium, das, wie in Italien üblich, einen geraden oberen Abschluß erhielt. Als Entsprechung dazu wurde der gesamte Zuschauerraum mit einer bemalten Flachdecke überspannt.
+
+Verbleib: Das Deckengemälde ging spätestens 1802 beim Abbruch des Gebäudes zugrunde.
+
+
+== Darstellung ==
+
+
+Auf Wenings Stich ist von dem Deckengemälde nur der Teil zu sehen, der sich oberhalb der Fürstenloge befand. Rechts fährt Apoll mit einem von Löwen statt von Pferden gezogenen Zweigespann durch den Zodiakus, links eilen ihm zwei blumenstreuende Gestalten voraus, wohl der Tau und die Morgenröte. Das Löwengespann läßt darauf schließen, daß in der Gestalt Apolls auf Max Emanuel angespielt ist, in dessen Ikonographie sowohl die Sonnenmetapher unter Einbeziehung des Tierkreises begegnet, als auch besonders das Löwenmotiv (vgl. Seelig, in: Kat. Max Emanuel I. S. 6 f.).
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, HR 456/12 und HR II/325.
+
+Grundlegend und mit älterer Literatur:
+
+Löwenfelder, Gertraud, Die Bühnendekoration am Münchner Hoftheater von den Anfängen der Oper bis zur Gründung des Nationaltheaters 1651–1778. Ungedr. Diss. München 1955 (Exemplar mit Photos Theatertum München, 2556), S. 10ff, 54ff. und Abb. 76, 88, 89, 153.
+
+Lieb – München, S. 125, mit Abb.
+
+Kat. Max Emanuel II 1976, Nr. 538
+
+Stetter, Gertrud, Michael Wening. Der Kupferstecher der Max Emanuel Zeit. Kat. Ausstellung München 1977, S. 40 ff und Nr. 38, Abb. S. 83.
+
+B.V.-K.
+<!-- citation-page-bottom: Band03-2 p559 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=6 -->
+{{End}}

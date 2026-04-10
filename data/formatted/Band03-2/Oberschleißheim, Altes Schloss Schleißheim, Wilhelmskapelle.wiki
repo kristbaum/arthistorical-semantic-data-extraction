@@ -1,0 +1,83 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=448
+|Originalseitenbis=448
+|Lemma=Oberschleißheim, Altes Schloss Schleißheim, Wilhelmskapelle
+|Typ=Sakral
+|Ort=Oberschleißheim
+|davor=Oberschleißheim, Altes Schloss Schleißheim, Saal und Wohnräume
+|danach=Oberschleißheim, Schloss Lustheim
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band03-2 p448 -->
+
+<!-- header: WILHELMSKAPELLE -->
+
+<!-- header: SCHLOSS LUSTHEIM -->
+
+
+'''Zum Bauwerk:''' Am S-Flügel des Hauptbaus (über der ehem. Wilhelmsklause) anschließende zweigeschossige, einschiffige Halle zu drei Jochen, Pilasterordnung, Oratorien, Empore im W (?), Belichtung von S und N durch Okuli der Stichkappen, im W Rundbogenfenster, geöstet
+
+'''Patrozinium:''' Hl. Wilhelm
+
+'''Autor und Entstehungszeit:''' Die Bilder der Decke werden in keiner der untersuchten Quellen erwähnt, in den Gemälde-Inventaren ist nur das Altarblatt Candids mit einer Darstellung des hl. Wilhelm vor der Muttergottes aufgeführt (BHStA I, HR I 210–18, fol. 70 r). Das Bild befindet sich heute in Oberschleißheim in der Kirche Patrona Bavariae. Nach Rée (S. 222) waren die Deckengemälde wahrscheinlich ebenfalls von Candid.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Tonnengewölbe mit Stichkappen Rahmen: Im Scheitel der Tonne zwei runde Bildfelder (A, C), dazwischen ein kleineres quadratisches Feld (B), im AR querrechteckiges Feld (C) mit halbkreisförmigen Ausschnitten an den Schmalseiten, in den sechs Stichkappen zwickelförmige Bildfelder; alle Felder sind mit Stuckleisten gerahmt, mit Eierstab-Motiv und Ranken-Ornament, von Engels-Köpfchen besetzt, die beiden Tondi werden von O bzw. W von großen Stuck-Hermenpilastern mit Engeln begleitet.
+
+Technik: Fresko (?), polychrom (?) Maße: A, B, C Höhe ca. 10,57 m A, C Ø 1,72 B 0,73 × 0,73
+
+Erhaltungszustand und Rekonstruktion: Nach Rée (S. 222) ist die Kapelle laut Inschrift 179(?) renoviert worden. Nach der Profanierung wurde im 19. Jh. ein Zwischenboden in den Kapellenraum eingezogen; der obere Raum, als Heuboden genutzt, wurde kurz vor 1900 von Bassermann-Jordan (S. 146) als ruinös geschildert.
+
+Das Gewölbe der Kapelle wurde im 2. Weltkrieg nicht zerstört, die Deckenbilder sind jedoch nicht erhalten und auch nicht durch Photos überliefert. Die Stuck-Rahmen, Fruchtgehänge und Engelshermen, sind erhalten und sollen im Zuge der bevorstehenden Rekonstruktion wieder angebracht werden.
+
+Bildabfolge (Keine Abbildungen; Planskizze S. 420)
+
+Nach den Beschreibungen von Rée (S. 222) und Bassermann-Jordan (S. 146) wurde das Tonnengewölbe von Rustika-Pilastern getragen; auch die Wölbung war in Rustika behandelt. In zwei Medaillons an der Decke waren noch Christi Himmelfahrt bzw. Gottvater erkennbar. In den Stichkappen befanden sich Darstellungen von Engeln mit liturgischem Gerät.
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, HR II, 15/118 Rechnungsbuch über den Schleißheimer Neubau vom Dezember 1616 bis 31. Mai 1617
+
+BHStA I, HR II, 15/119 Rechnungsbuch über den Schleißheimer Neubau vom 1. Juni bis 31. Dezember 1617
+
+BHStA I, HR II, 16/129 Rechnungsbuch über den Umbau 1651
+
+Hainhofer, Philipp, Die Reisen des Augsburger Philipp Hainhofer nach Eichstätt, München und Regensburg in den Jahren 1611, 1612 und 1615, hg. und erläutert von Dr. Christian Haeutle, in: Zeitschrift des Historischen Vereins für Schwaben und Neuburg 8, Augsburg 1881, S. 120–31
+
+Lipowsky – Künstlerlexikon 1810, I, S. 38
+
+Rée, Paul Johannes, Peter Candid, sein Leben und seine Werke, Leipzig 1885, S. 219–22.
+
+KDB I OB (1), S. 809–13.
+
+Bassermann-Jordan, Ernst, Die dekorative Malerei der Renaissance am bayerischen Hofe, München 1900, S. 146–50.
+
+Steinbart, Kurt, Die niederländischen Hofmaler der bayerischen Herzöge, in: Marburger Jahrbuch für Kunstwissenschaft 4, 1928, S. 155–64. Kloos, S. 247f.
+
+Dehio-Gall, OB, S. 47.
+
+Kat. Candid-Zeichnungen 1978 = Volk-Knüttel, Brigitte, Peter Candid, Zeichnungen, Kat. Ausstellung Staatliche Graphische Sammlung München, München 1978, S. 72–77
+
+Kat. Wittelsbach 1980, II/2, S. 553–55 (Brigitte Volk-Knüttel).
+
+Schmid 1980, S. 36–50.
+
+Hojer/Schmid 1984, S. 3–8.
+
+Holler 1986, S. 267f.
+
+s. auch Quellen und Literatur S. 557.
+
+A.B./K.S.
+
+{{End}}

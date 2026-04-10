@@ -1,0 +1,454 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=177
+|Originalseitenbis=196
+|Lemma=München, Residenz, Kaisersaal
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe
+|danach=München, Residenz, Theatinergang
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+Festsaal (Raum 111) im Hauptgeschoß des N-Trakts der Maximilianischen Residenz, über den die Trakte mit den Trierzimmern (im O) und den Steinzimmern (im W) verbunden sind, ab 1638 als der »kaiserliche«, später als »Kaisersaal« bezeichnet (Volk-Knüttel 1976, S. 75). 1799 ließ Max IV. Joseph die Ausstattung beseitigen und den Raum zusammen mit dem im W anschließenden Vierschimmelsaal zu den Hofgartenzimmern (Räume 45-51 des Vorkriegszustands) umbauen. Deckenbilder teilweise erhalten; historisierende Wiederherstellung 1980/85.
+
+'''Zum Bauwerk:''' 1615 Vollendung von Bau und Ausstattung. Ursprüngliche Raumform:  
+Längsrechteckiger Saal zu fünf Fensterachsen, der sich in einer Höhe von ca. 10 m über Hauptgeschoß und Mezzanin erstreckte. Der Saal war von der Kaisertreppe aus an der östlichen Schmalseite durch ein hohes Mittelportal und zwei niedrigere Seitenportale aus Stuckmarmor zugänglich; an der W-Wand saß dem Mittelportal gegenüber ein großer, figurenbekrönter Kamin; seitlich davon zwei Stuckmarmorportale, die in den Vierschimmelsaal führten. Analog dem Gliederungsprinzip aller anderen Trakte um den Kaiserhof erfolgte die Belichtung durch je fünf rechteckige Doppelfenster mit je zwei Okuli darüber an der S- und N-Seite. Im Mezzaningeschoß entsprachen den Doppelfenstern je zwei querrechteckige Fenster (Stuckverzierungen der zehn Fenster durch den Stukkator Michele Castelli; BHStA I, HR II, 1, 1615, 24. Dezember, Stukkator Nr. 242).
+
+[[File:Band03-2_chunk004_p014_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p177 -->
+
+
+== Heutige Raumform ==
+
+
+In den Maßen mit dem ursprünglichen Zustand übereinstimmend (33,60 × 14,70 m). Die ursprüngliche Fenstereinteilung ist nur auf der S-Seite erhalten; auf der N-Seite wurde beim Einbau der Hofgartenzimmer (ab 1799) die Zahl der Fensterachsen auf acht erhöht. Hier sind heute Blindfenster, verdeckt durch einige der für den Saal geschaffenen Wandteppiche.
+
+'''Auftraggeber:''' Herzog Maximilian I. von Bayern (1598–1651; Kurfürst ab 1623)  
+'''Autor und Entstehungszeit:''' Deckenbilder Peter Candid (*um 1548 Brügge † 1628 München) und Mitarbeiter 1614  
+Von den Mitarbeitern sind namentlich belegt: Johann Brüderl (1602 Meister in München † 1634), Johann Käppler (1605 Meister ebd.), Thomas Zechetmair (1610 Meister in München † 1634), Augustin Vogl (Maler aus Salzburg, ansässig in München † 1616), Hans Oberhofer (*um 1585) 1615 Meister in München).  
+Friesbilder Andrea Vicentino (eigtl. Andrea Michieli, *um 1540/42, tätig in Venedig, † nach 1617). Für die Wände des Saals wurde gleichzeitig eine Serie von 12 Tapisserien (erhalten 11) nach Entwürfen Peter Candids gewirkt.  
+Nach den Hofbauamtsrechnungen (BHStA I, HR II, 1) fallen Bauausführung und Ausstattung des Kaisersaals im wesentlichen in die Jahre 1614/15. Bereits im Februar 1614 wird die Holzdecke dem Kistler Franz Liersee und sechs Gesellen in Auftrag gegeben (loc. cit., HR II, 1, 1614, Kistler, Nr. 5 und 49). 1615 werden die Maler Käppler, Brüderl, Zechetmair und Vogl...
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=15 -->
+<!-- citation-page-top: Band03-2 p178 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: KAISERSAA -->
+
+für Malerarbeit, Vergoldung und Fassung mit 2891 fl. abgerechnet »Hans Khäppler, Hanns Brüederl, Thoman Zechetmair und Augustin Vogl haben die deggen im Neuen großen Saal vergultet, gemahlen und gefasst, auch etliche Pleter mit Trachen, Mascula, delphin und laubern deren in allem 52 und in summa dise deggen (ausser der grossen füllungen oder daflen und Trophaen) allerdings wie vor augen verferttiget dafür ist Inen gedingt und zalt 2891 fl.« (BHStA I, HR II, 1, 1615, Malerei-Ausgaben, 24. Oktober, Nr. 122).
+
+Im selben Jahr sind Augustin Vogl und Hans Oberhofer auch mit der Ausführung von Puttenbildern, den »Trophei«, beschäftigt (ebd. 1615, Malerei, Nr. 33, 69 und 70). Im Dezember 1614 und im Januar 1615 ist Vogl zwei Wochen lang damit befaßt, die »venezianischen Stücke«, d. h. die Gemälde von Andrea Vicentino, zu verändern und auszubessern (ebd. 1614, Malerei Nr. 145; 1615, Malerei Nr. 2). Im Dezember 1615 werden von den Malern Brüderl, Käppler, Vogl und Zechetmair die Rahmen für Vicentinos Bilder gefaßt und vergoldet (ebd. 1615, Malerei Nr. 149). 1614/15 führt Käppler auch die Kartons der von Candid entworfenen Wandteppiche aus (Volk-Knüttel 1976, S. 42, 144).
+
+Mit Ausnahme der Friesbilder, die Andrea Vicentino in Venedig gemalt hat, geht die übrige Bildausstattung des Kaisersaals auf Candid zurück, der einen Stab von auch sonst für ihn tätigen Malern beschäftigte; diese arbeiteten zum Teil recht selbständig. Candids persönliche Handschrift zeigte sich am deutlichsten bei den drei verlorenen Hauptbildern (A, B, C), die auch bei den entsprechenden Abrechnungen mit anderen Malern nicht genannt sind. Hierfür sind von seiner Hand sowohl ein detaillierter Entwurf für das Mittelbild, eine Zeichnung für das östliche Deckenbild in einem frühen Planungsstadium als auch einzelne, nach dem Modell gezeichnete Figurenstudien bekannt. Bei den Tapisserien, deren Kartons Käppler gemalt hat, ist Candids Stil weniger stark ausgeprägt, obgleich er selbst Zeichnungen dazu geliefert hat. Das gilt auch für die Puttenbilder. Für sie sind allerdings auch keine Entwürfe seiner Hand bekannt, jedoch sind zumindest kleine Skizzen zu vermuten, ähnlich denen für die Allegorien im Theatinergang (s. S. 198–200).
+
+Zeichnungen, alle von Peter Candid
+
+Zu A Gloria – Der Ruhm
+
+
+== Zu B Sapientia – Die Weisheit ==
+
+
+1. Gesamtentwurf, von der Ausführung stark abweichend, die Figuren im Vordergrund fehlen noch. Es ist nicht sicher, ob das Blatt eigenhändig ist, auf jeden Fall dokumentiert es eine Phase der Bildvorbereitung. Feder, laviert und gelb, rot und blau aquarelliert, achteckig, 10 × 10 cm, Musée de Rennes, Inv. Nr. 794.1.2858 (Kat. Candid-Zeichnungen, zu Nr. 33).
+
+2. Detailstudie für die Figur mit Äskulapstab, Rötel, weiß gehöht, mit schwarzem Stift quadriert, 13,8 × 12,2 cm, das Format ist auf die Figur zurechtgeschnitten, Rotterdam, Museum Boymans-van Beuningen, Inv. Nr. I, 411 (Kat. Candid-Zeichnungen, Nr. 33 und Abb. 107).
+
+
+== Zu C Monarchia – Die Herrschaft ==
+
+
+Detailstudien für die Figur der Victoria, wohl Kopien nach einem Studienblatt Candids, vielleicht von Hans Brüderl gezeichnet, Feder, laviert, weiß gehöht, unten die Aufschrift: Brüderl – 28,3 × 18,3 cm, Paris, Musée du Louvre, Cabinet des Dessins, Inv. Nr. 19241 (Kat. Musées du Louvre, Inventaire général des Dessins des écoles du Nord publié sous les auspices du cabinet des dessins. Maitres des anciens pays-bas nés avant 1550, par F. Lugt, Paris 1968, Nr. 674 und Taf. 191. – Kat. Candid-Zeichnungen, zu Nr. 92).
+
+
+[[File:Band03-2_chunk004_p015_img002.jpg|thumb|A P. Candid, Entwurf zu B Sapientia, Rennes]]
+
+
+P. Candid, Entwurf zu A Gloria Graz
+
+
+[[File:Band03-2_chunk004_p015_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p015_img004.jpg|thumb|P. Candid, Detailstudie zu B Sapientia, Rotterdam]]
+
+
+
+== Nachzeichnung ==
+
+
+Eine Kopie des 18. Jh. nach der Figur des Ehrgeizes (A), wohl nach dem Gemälde gezeichnet, Feder in Braun, 10,4 × 8,4 cm, aus der Sammlung Halm-Maffei XIV, 32–36, befindet sich in der SGS Mü, Inv. Nr. 32 059. Sie gehört zusammen mit drei anderen Zeichnungen (Inv. Nrn 32 056-058), auf denen Wandbilder der östlichen Grottenhalle kopiert sind (s. S. 54).
+
+
+[[File:Band03-2_chunk004_p015_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p015_img006.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: ursprünglich Holzkassettendecke (rekonstruiert in Stuck); Fr<sub>1-16</sub> Fries in der Mezzaninzone
+
+Rahmen: Fr<sub>1-16</sub> vergoldete Stuckrahmen
+
+Technik: Deckenbilder Öl auf Holz, Friesbilder Öl auf Leinwand; sämtlich polychrom
+
+Maße (sämtliche erhaltenen Bilder im Besitz der BSGS): Höhe des Raumes 10,40 m
+
+B<sub>5</sub> (Inv. Nr. 3450) 1,41 × 3,25 B<sub>6</sub> (Inv. Nr. 3454) 1,53 × 1,43 B<sub>7</sub> (Inv. Nr. 3445) 1,52 × 3,26 B<sub>8</sub> (Inv. Nr. 3458) 1,50 × 1,23 C (nicht erhalten, ehem. Inv. Nr. 5206) 4,15 × 4,10 C<sub>1</sub> (Inv. Nr. 3452) 1,20 × 3,24 C<sub>2</sub> (Inv. Nr. 3459) 1,50 × 1,23 C<sub>3</sub> (Inv. Nr. 3447) 1,52 × 3,26 C<sub>4</sub> (Inv. Nr. 3455) 1,53 × 1,43 C<sub>5</sub> (Inv. Nr. 3444) 1,41 × 3,25 C<sub>6</sub> (Inv. Nr. 3462) 1,53 × 1,43 C<sub>7</sub> (Inv. Nr. 3448) 1,52 × 3,26 C<sub>8</sub> (Inv. Nr. 3458) 1,50 × 1,23 Fr<sub>1</sub> (Inv. Nr. 3815) 2,80 × 3,96 Fr<sub>2</sub> (Inv. Nr. 10460) 2,80 × 1,24 Fr<sub>3</sub> (Inv. Nr. 3513) 2,67 × 1,87 Fr<sub>4</sub> (Inv. Nr. 3524) 2,80 × 1,95 Fr<sub>5</sub> (Inv. Nr. 3516) 2,80 × 1,95 Fr<sub>6</sub> (Inv. Nr. 3517) 2,80 × 1,95 Fr<sub>7</sub> (Inv. Nr. 3505) 2,80 × 1,24 Fr<sub>8</sub> (neu gemalt, ehem. Inv. Nr. 3771) 2,80 × 3,75 Fr<sub>9</sub> (neu gemalt, ehem. Inv. Nr. 3772) 2,80 × 3,75 Fr<sub>10</sub> (neu gemalt) 2,80 × 1,25 Fr<sub>11</sub> (neu gemalt) 2,80 × 1,95 Fr<sub>12</sub> (Inv. Nr. 3523) 2,80 × 1,95 Fr<sub>13</sub> (Inv. Nr. 3512) 2,80 × 1,95 Fr<sub>14</sub> (Inv. Nr. 3515) 2,80 × 1,95 Fr<sub>15</sub> (Inv. Nr. 3499) 2,80 × 1,24 Fr<sub>16</sub> (Inv. Nr. 3816) 2,80 × 3,06
+
+Erhaltungszustand und Verbleib: Die erhaltenen Bilder des 1799 abgebrochenen Kaisersaals befinden sich heute wieder an der Decke und im Fries des 1980/85 rekonstruierten Saals. Nicht erhalten sind A–C und Fr<sub>8–11</sub>.
+
+Ab 1764 wurde die Decke im Kaisersaal und im Vierschimmelsaal auf Anordnung des Kurfürsten Max III. Joseph instand gesetzt, die Fenster wurden erneuert. Geschätzte Kosten: 6478 fl. 10 ×. (BHStA, HR 25/89<sup>2</sup>, ad. 49). Beim Abbruch des Kaisersaals 1799 kamen die Bilder in das Gemäldedepot im Hofgarten, wo sie 1804 aufgelistet wurden (BHStA I, HR I, 280/24/8). Sie sind, soweit erhalten, heute im Besitz der BSGS (Inv. Nr. siehe oben).
+
+Die drei Hauptbilder A, B und C wurden am 12. April 1884 der »Spezialkommission für Errichtung eines IV. humani stischen Gymnasiums« übergeben (BHStA I, MK 21459 alte Nr. 2459). Die geplante Schule, die den Namen Luitpoldgymnasium erhielt, entstand durch den Umbau des Militärlazaretts in der Müllerstraße. Die Bilder wurden an der Decke der Aula (A) und im südwestlichen (B) und nordöstlichen (C) Treppenhaus eingelassen. Dort sind sie im letzten Krieg verbrannt. (Photographische Schwarz-Weiß-Aufnahmen vorhanden.) An der Decke des Saals sind jetzt farblich eingestimmte Photos in der Größe der ehem. Gemälde eingelassen.
+<!-- citation-page-bottom: Band03-2 p179 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=16 -->
+<!-- citation-page-top: Band03-2 p180 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: KAISERSAA -->
+
+Die Nebenbilder A<sub>1-2</sub>, B<sub>1-8</sub> und C<sub>1-8</sub> wurden um 1962 von Albert Hunnemann und zuletzt von Angelika Bloch und Mitarbeitern sowie von Romana Schilgen-Arnsberg, alle München, gereinigt, retuschiert und gefirnißt.
+
+0 Die Friesbilder Fr<sub>1-7</sub> und 12-16 wurden 1975/76 von Franz Söker, München, und der Firma Peter Pracher, Würzburg restauriert, wobei man die Leinwand doublierte, die Fehlstellen auskittete und ergänzte. Da die Bilder längere Zeit gerollt aufbewahrt waren, war die Farbe stellenweise abgesprungen. Der Zustand vor der Restaurierung ist dokumentiert bei Kultzen/Eikemeier (S. 245-59 und Abb. 132-45). Fr<sub>8</sub> und Fr<sub>9</sub> sind Kriegsverluste (Schwarz-Weiß-Photos vorhanden). Fr<sub>10</sub> und Fr<sub>11</sub> wurden 1856 wegen ihres ruinösen Zustands vernichtet. Die vier Bilder wurden anläßlich der Rekonstruktion des Saals von den Brüdern Peskoller, Bruneck, neu gemalt. Fr<sub>8-9</sub> wurden nicht an ihrem ursprünglichen Standort an der W-Seite, sondern an der O-Seite angebracht und mit Fr<sub>1</sub> und Fr<sub>16</sub> vertauscht.
+
+
+== Rekonstruierende Beschreibung und Ikonographie (keine Ansichten des Originalzustandes bekannt; ausführlichste Beschreibung bei Pistorini) ==
+
+
+Nach Pistorinis Beschreibung, der die 1985 abgeschlossene Wiederherstellung folgt, ist die Decke aufgeteilt in drei etwa gleich große quadratische Kompartimente. Im O und W sitzen die achteckigen großen Deckenbilder B und C mit den Allegorien der Weisheit und der Herrschaft, umgeben von jeweils acht Begleitbildern von alternierend rechteckiger Form und Rechtecken mit eingezogenen halbkreisförmigen Ausbuchtungen an den Seiten (B<sub>1-8</sub>, C<sub>1-8</sub>). Dargestellt sind Putten mit Attributen, die sich auf das jeweilige Mittelbild beziehen. Dem Hauptbild A in der Mitte des Saals mit der Allegorie des Ruhms, einem Hochrechteck mit eingezogenen halbkreisförmigen Ausbuchtungen oben und unten, sind zwei querrechteckige Begleitbilder mit abgerundeten Schmalseiten zugeordnet. Sie zeigen antike Ehrendenkmäler (A<sub>1</sub> und 2).
+
+Für eine Rekonstruktion der Anbringung im einzelnen ist Pistorinis Beschreibung nicht detailliert genug, sie enthält auch Unstimmigkeiten. Aufgrund ihrer Attribute lassen sich jedoch eindeutig jeweils acht Puttenbilder dem thematisch entsprechenden Hauptbild zuordnen. Unter diesen acht ergeben sich noch engere Gruppierungen, wonach B<sub>1,2</sub> und 8, bzw. B<sub>4,5,6</sub> und C<sub>1,2,8</sub> bzw. C<sub>4,5,6</sub> aufgrund übereinstimmender Maße jeweils nebeneinander anzuordnen sind. Für die weitere Rekonstruktion waren kompositionelle Überlegungen ausschlaggebend, so wurden etwa die schmaleren Bilder B<sub>1,2,8</sub> und C<sub>1,2,8</sub> nach innen zur Saalmitte hin postiert, um ein von den drei Hauptbildern nach außen gewendetes, gleich hohes Band von umlaufenden Begleitbildern zu erhalten.
+
+Die drei Hauptbilder der Decke sind der Längsrichtung des Saales folgend angeordnet. Unbekannt ist ihre ursprüngliche Blickrichtung. Die Residenzbauleitung hat die Anordnung so rekonstruiert, daß die Bildbasis jeweils an der W-Seite, der Betrachterstandort also an der O-Seite angenommen wird, bezugnehmend auf die Beschreibung Pistorinis (fol. 23 v) »A l'entrare dunque in questa SALA solle
+
+vando et alzando le luci al soffitto sudetto, si mira à prima vista in un Circolo ottangolare ... (fol. 24 r) la SAPIENZA«. In Analogie zu Decken des 16. Jh. in Italien (z.B. Florenz, Pal. Vecchio, Salone dei Cinquecento; Venedig, Scuola Grande di San Rocco) ist eher anzunehmen, daß wegen der Größe des Saals und zwei Zugängen von den Schmalseiten her die drei großen Gemälde nicht in einer einzigen Blickrichtung zu lesen waren, daß vielmehr das Bild im Osten (B) an der Haupteingangsseite sich dem Eintretenden richtig darbot, während das Mittelbild (A) und das Bild im Westen (C) richtig zu lesen waren, wenn man mit dem Rücken zu dem Kamin mit der Figur der Virtus stand.
+
+Die Friesbilder Fr<sub>1-16</sub> waren an den Wänden unmittelbar unterhalb der Decke angebracht. Ihre Abfolge ist durch Beschreibungen gesichert. Die vier großen Breitformate besetzten die Schmalseiten des Raums über den Nebenportalen (Fr<sub>1,8,9,16</sub>), an den Langseiten waren zwischen den Fenstern je vier Hochformate angebracht (Fr<sub>3,4,5,6</sub> und 11,12,13,14) und in den Ecken auf kleineren Wandfeldern je zwei noch schmälere Bilder (Fr<sub>2,7,10,15</sub>).
+
+Dargestellt sind beispielhafte Taten aus der biblisch-jüdischen (an der N-Wand und im N an den Schmalseiten) und der heidnisch-antiken Geschichte (an der S-Wand und im S an den Schmalseiten), die einander gegenüber hängen und paarweise aufeinander bezogen sind. Männliche und weibliche Hauptfiguren wechseln sich ab. Das Programm wurde vervollständigt durch die unter den Friesbildern hängenden Teppiche, auf denen ebenfalls alttestamentliche und heidnische ›Exempla virtutis‹ verkörpert sind.
+
+Die Farbigkeit der drei im letzten Krieg zerstörten Hauptbilder der Decke ist nicht bekannt, abgesehen von einigen Details, die Pistorini und Rée mitteilen (s. u.). Die Putten auf den Begleitbildern erscheinen vor einem Hintergrund stark plastischer, blau-grauer Wolken und besitzen kräftige Akzente durch ihre zweifarbigen Flügel und vor allem durch die sie umwehenden einfarbigen Tücher in Rot, Blau, Grün, Gelb und Rosa. Diese Tücher und auch die Attribute scheinen farbig Bezug zu nehmen auf die Gewänder und Attribute der Personen auf den Hauptbildern. Die Architekturen der Ehrendenkmäler sind zurückhaltend auf Braun gestimmt. Die Friesbilder des Venezianers Vicentino stehen stilistisch in der Tradition von Tintoretto und Veronese und sind insgesamt toniger im Kolorit als die Deckenbilder Candids.
+
+A GLORIA – DER RUHM (Kriegsverlust; an der Decke heute ein farblich eingestimmtes Großphoto) In der Mitte thront auf Wolken, das Haupt von Strahlen umgeben, Gloria, die geflügelte, weibliche Verkörperung des Ruhms, auf ihrer Rechten eine Victoria, auf der Linken ein Astrolabium emporhaltend. Ihre Flügel waren nach Pistorini (fol. 25 v) blau, »di colore turchino«. Sie ist umgeben von Putten mit antiken Ruhmeszeichen, einer Krone, dann der aus Eichenlaub gebildeten Corona Civica sowie Palm-, Öl- und Lorbeerzweigen. Unter ihr sitzt auf Wolken links Honor, die Ehre, mit Ketten geschmückt und mit Palmzweigen gekrönt, nach Pistorini (fol. 26 v.) in rotem Mantel mit Goldborte. Sie legt die Linke auf einen Schild, der bemalt ist mit den der Ehre und der Tugend geweihten Tempeln des Marcellus, von denen der erste nur durch den zweiten zu betreten war (Ripa, s.v. guida sicura de veri honori). Mit dem rechten Arm umfaßt sie ein ihr zu Seite stehendes großes Füllhorn, zu ihren Füßen liegt ein Helm. Rechts von der Ehre thront Laus, das Lob, mit den beiden Trompeten des guten und des schlechten Rufs, auf deren Fahnen Ohren und Münder zu sehen sind. Unter ihr sitzt die Gestalt des Ehrgeizes, zu Lob, Ruhm und Ehre emporblickend. Sie hält einen bewachsenen Stamm und ist begleitet von einem radschlagenden Pfau. Ihr gegenüber erscheint Magnanimitas, die große Gesinnung. Auf ihrer linken Hand sitzt ein Adler mit ausgebreiteten Schwingen, mit der Rechten hält sie eine Lanze. Den rechten Fuß hat sie auf eine Kugel gestellt, ihr zu Füßen liegt ein Löwe. Unter den einzelnen allegorischen Figuren waren Inschriften angebracht, die den Inhalt der Gesamtdarstellung erläuterten: GLORIAE FVMVM / HONORIS LVDVM / LAVDIS FVCVM / SPERNIT MAGNANIMITAS / AMBITIO QVAERIT (Den Dunst des Ruhms, das Spiel der Ehre, den Schein des Lobs verachtet die Großmut, der Ehrgeiz strebt danach).
+
+A<sub>1-2</sub> ANTIKE EHRENDENKMÄLER Begleitbilder zu A (Abbildungen S. 186)
+
+A<sub>1</sub> Flankiert von zwei Reitermonumenten mit springendem und schreitendem Pferd auf hohen Sockeln stehen nebeneinander ein überkuppelter Rundbau mit Statuen auf der Dachbalustrade und der Laterne, eine Ehrensäule mit spiralig ansteigenden Reliefs und ein mit Figuren und einer Quadriga geschmückter Triumphbogen.
+
+A<sub>2</sub> Grabbauten, links ein Obelisk zwischen zwei Pyramiden, rechts zwei römische Grabaltäre und dazwischen ein abgetreppter, mit Trophäen und Statuen geschmückter Aufbau, auf dem unten ein Leichnam verbrannt wird. Nach Plinius ist es die Funktion derartiger Denkmäler, die Personen, die durch sie geehrt werden sollten, über die übrigen Sterblichen zu erheben, wobei die Unterscheidung in Grabmonumente und in solche, die sich auf ein hervorragendes Ereignis beziehen, wohl darauf abhebt, daß in republikanischen Rom die Apotheose nur der Tote erfahren konnte oder der Triumphator im Augenblick des Triumphes; später in der Kaiserzeit war der Kaiser der alleinige Triumphator (H. Kähler, s.v. Triumphbogen, in Pauly-Wissowa, 2. Reihe, Bd 13, Stuttgart 1939, Sp. 493). Das Bestattungsritual in A<sub>2</sub> bezieht sich auf die Verbrennung der römischen Kaiser auf dem Campus Martius. Der Nachfolger legte Feuer an den Katafalk, der Verstorbene wurde in diesem Moment zur Gottheit, symbolisiert durch den Phoenix, das Zeichen der Unsterblichkeit.
+<!-- citation-page-bottom: Band03-2 p181 -->
+
+
+[[File:Band03-2_chunk004_p016_img001.jpg|thumb|Kaisersaal, Ansicht nach W (rekonstruiert, Zustand 1986)]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=17 -->
+<!-- citation-page-top: Band03-2 p182 -->
+
+<!-- header: RESIDEN -->
+
+<!-- header: KAISERSAA -->
+
+B SAPIENTIA – DIE WEISHEIT (Kriegsverlust; an der Decke heute ein farblich eingestimmtes Großphoto) Im oberen Drittel des Bildes thront auf Wolken, die anderen Figuren überragend, die Weisheit, charakterisiert als ältere Frau mit in die Stirn gezogenem Kopftuch, ein aufgeschlagenes Buch auf den Knien haltend, auf dessen Text sie mit der Rechten hinweist. Zu ihren Füßen drei weitere Bücher. Sie ist umgeben von zehn jungen Frauen mit Attributen der Freien Künste und der Wissenschaften.
+
+Inschrift NATVRA NOVERCA, SAPIENTIA MATER EST. / ILLA NOS ANIMANTES, ISTA HOMINES FACIT (Die Natur ist die Stiefmutter, die Weisheit die Mutter, jene macht uns zu Lebewesen, diese zu Menschen). – Die Metapher der Natur als Stiefmutter, die der hl. Augustin als Formulierung Ciceros überliefert hat (s. u.), die der Weisheit hingegen als Mutter, die das menschliche Lebewesen veredelt, zeigt, daß hier die Natur für unzureichend und Ars für nötig gehalten wird als Erzieherin des Menschen. Im Hintergrund sind in Anlehnung an die Vorzeichnung, die einen geringeren Figurenbestand gegenüber der Ausführung aufweist und den Vordergrund weitgehend freiläßt, die Personifikationen der Sieben Freien Künste zu sehen.
+
+Astrolabium. Die Personifikationen des Triviums sind nicht so eindeutig zu bestimmen. Es sind (links) wohl die Dialektik mit Waage und Schriftrolle (vgl. Artikel >Dialektik<, in RDK III, 1954, Sp. 1387-1400, mit mehreren Beispielen aus dem 16. Jh.) und (rechts) die Grammatik mit dem Alphabet und einem Schlüssel als Zeichen des Zugangs zu den Wissenschaften und vor ihr, den Rücken zum Beschauer, wohl die Rhetorik mit Buch und Schwert.
+
+In diesem Kontext – die Weisheit als Erzieherin im Kreise der Freien Künste – sind die drei Personifikationen im Vordergrund am sinnvollsten als weitere Disciplinae zu deuten. Die Frau rechts mit einem von einer Schlange umwundenen Baumstamm in der Art des Äskulapstabes ist die Medizin, ihr Gegenüber mit dem Caduceus des Merkur und dem Mieder mit geöffneter Schnürung repräsentiert die Poesie oder Geschichtsschreibung als eine Form der Eloquenz, und die schräg hinter ihr sitzende Frau in weißem Kleid mit einem achtzackigen Stern (= Symbol Christi) auf der Brust ist die Theologie.
+
+Durch die Gabe der Beredsamkeit, die Kunst, gut sprechen zu können, hat Merkur den Menschen über die Triebhaftigkeit erhoben. Grundlage der Eloquenz ist die Weisheit; das Zusammenwirken beider bildet das Ideal Ciceros (De finibus bonorum et malorum I, 42: est eloquentiae sicut reliquarum rerum fundamentum sapientia; vgl. auch I, 3). Den Humanisten mit ihrer Betonung der sprachlichen Bildung bot sich die kunstvolle, geformte Rede am reinsten in den Werken der antiken Autoren dar. So wurden innerhalb der »Studia humanitatis« den Septem Artes Liberales im Bereich des Triviums außer Moralphilosophie noch die Fächer Poetik und Geschichte angefügt. Der Dichter und der Geschichtsschreiber sollen, wie der Redner, auf das Publikum wirken, indem sie es belehren, erfreuen und bewegen.
+
+Die Personifikation der Eloquenz weist durch Merkurstab und gelockerte Schnürung des Mieders Übereinstimmung auf mit Allegorien der Rhetorik und Poesie, bei denen die Kleidung ähnlich gelockert erscheint oder die Figuren sogar weitgehend entblößt gezeigt sind. Damit wird wohl auf die »licentia poetarum« angespielt und auf das Ergötzen des Publikums (Quintilian, Institutio Oratoria 8, 6, 17: poetae omnia ad voluptatem referunt; zitiert nach Heinrich Lausberg, Handbuch der literarischen Rhetorik, München 1973, § 983). – (Vgl. Allegorie der Poesie mit Merkurstab und so locker geschnürtem Kleid, daß der Bauchnabel zu sehen ist; Zeichnung von Bartolomeo Dolendo, Berlin Kupferstichkabinett [Decimal Index of the Low Countries 48 C 9]. – Allegorie der Rhetorik mit Merkurstab und entblößtem Oberkörper. Inschrift: Per me formatur facunde gratia linguae, Etherej qua Dij regesque ducesque moventur. Stich von C. Drebbel nach Hendrik Goltzius [Decimal Index of the Low Countries 49 C 11.3]).
+
+Die drei Bücher zu Füßen der Weisheit, zwei liegende und ein schräg aufgestelltes, spielen auf die Dreiteilung der Philosophie an und entsprechen in ihrer Anordnung Dürers Holzschnitt der Philosophie von 1502, den er nach Quatuor libri amorum geschaffen hat. Dürers personifizierte Philosophie, die von der berühmten Schilderung in De consolatione philosophiae von Boëthius abhängig ist, hält die drei Bücher in ihrer rechten Hand. Sie symbolisieren die Contemplatio philosophica in ihren drei Formen: Philosophia naturalis, Philosophia rationalis und Philosophia moralis, nach anderer Deutung Philosophia naturalis, moralis und divina (Fedja Anzelewsky, Dürer-Studien, Berlin 1983, S. 125 f., 130).
+
+B<sub>1-8</sub> PUTTI MIT ATTRIBUTEN DER SIEBEN FREIEN KUNSTE UND DER WISSENSCHAFTEN Begleitbilder zu B
+
+[[File:Band03-2_chunk004_p017_img002.jpg|thumb]]
+
+Alle Attribute der zehn die Weisheit (B) umgebenden Personifikationen kehren auf den Begleitbildern (B<sub>1-8</sub>) wieder, mit Ausnahme von Buch und Schwert bei der Rhetorik, an deren Stelle ein Spruchband tritt. Die Musik wird durch Orgelspiel, Gesang und durch das Blasen des Zinks repräsentiert. Das gemeinsame Auftreten von Attributen auf einem Puttenbild gibt vielleicht weitere Deutungshinweise. Dem Askulapstab ist das Astrolabium zugeordnet, vielleicht eine Anspielung auf die Verbindung von Medizin und Astronomie, auf die Kenntnis der Corpora caelestia und Corpora humana und die kosmischen Einflüsse auf die menschliche Natur.
+
+C MONARCHIA – DIE HERRSCHAFT (Kriegsverlust; an der Decke heute ein farblich eingestimmtes Großphoto) Im Halbkreis stehen, in leichter Untersicht gesehen, vier Herrschergestalten, die aufgrund ihrer Attribute die Vier Weltreiche darstellen. Über ihnen schwebt in der Mitte Victoria, auf Wolken sitzen allegorische Figuren mit Bezug auf die Herrschaft, links eine Frau mit Blitzbündel und Ölzweig, rechts eine weitere mit sieben Sternen über dem Haupt. Sie hält in der Rechten ein Zepter und umfaßt mit der Linken ein Steuerruder, schräg über ihre Brust verläuft der Zodiakus, in den Saum ihres Kleides ist eine Stadtansicht eingewebt.
+
+Die Darstellung der Vier Weltmonarchien (Regna mundi) geht zurück auf die Traumdeutung und die Vision des Propheten Daniel (Dan. 2,20–45; 7, 1–28). Dieser sah vier Ungeheuer dem Meer entsteigen, einen Löwen mit Adlerflügeln, einen Bären, von dessen Zähnen drei besonders lang waren, einen Leoparden mit vier Flügeln und vier Köpfen und eine abscheuliche Chimäre mit eisernen Zähnen und zehn Hörnern. Er deutete sie als vier sich einander ablösende Weltreiche, deren Untergang, der sich im Wüten des vierten Tieres bereits ankündigt, durch das Jüngste Gericht besiegelt wird. Seine Deutung wurde von den Kirchenvätern auf den Ablauf der Weltgeschichte übertragen. Man identifizierte die Monarchien als das assyrische und das persische Reich (in der Mitte dargestellt), das makedonische (rechts) und das Imperium Romanum (links), repräsentiert durch die Herrscher Nebukadnezar oder Nimrod, Cyrus oder Darius, Alexander und schließlich Caesar oder Augustus. Demnach beschließt das römische Reich die Geschichte, es reicht bis zum Weltende. Bei ihrer Einteilung in vier bzw. fünf Reiche, die nacheinander die Weltherrschaft innehatten und damit eine Ost-West-Bewegung der Macht veranschaulichen, folgten die Kirchenväter der antiken Historiographie. Nach dem Untergang des weströmischen Reichs und dem Ausbleiben des Weltendes hat man
+
+<!-- citation-page-bottom: Band03-2 p183 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=18 -->
+<!-- citation-page-top: Band03-2 p184 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: KAISERSAA -->
+
+
+[[File:Band03-2_chunk004_p018_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p018_img002.jpg|thumb]]
+
+
+die Idee im Mittelalter fortleben lassen im Imperium Karl des Großen und seiner Nachfolger. Diesen Übergang der Herrschaft auf das Hl. Römische Reich Deutscher Nation, die »Translatio Imperii«, bedeutet Gleichsetzung der Welt Herrschaft mit der Kaiserwürde. Für die christliche Ethik beinhaltet der Translationsgedanke ganz allgemein, daß Gott die Macht überträgt und sie wegen der Sünde auch wieder nimmt, daß er also das gute Regiment stützt und das schlechte durch Verlust der Macht bestraft (Dan. 2, 21: Eccles. 10,8: Et ipse mutat tempora et aetates; transfert regna atque constituit; dat sapientiam sapientibus et scientiam intelligentibus disciplinam; Regnum a gente in gentem transfertur propter iniustitias et iniurias et contumelias et diversos dolos; Lit.: Werner Goez, Translatio Imperii, Ein Beitrag zur Geschichte des Geschichtsdenkens und der politischen Theorien im Mittelalter und in der frühen Neuzeit, Tübingen 1958; Adalbert Klempt, Die Säkularisierung der universalhistorischen Auffassung. Zum Wandel des Geschichtsdenkens im 16. und 17. Jh., Göttingen 1960; Herbert Grundmann, Grundzüge der mittelalterlichen Geschichtsanschauungen, in: Geschichtsdenken und
+
+
+[[File:Band03-2_chunk004_p018_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p018_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p018_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p018_img006.jpg|thumb]]
+
+
+Geschichtsbild im Mittelalter, hg. von Walter Lammers Darmstadt 1961, S. 423 ff.; Arnulf Herbst, Zur Ikonographie des barocken Kaisersaals, in: 106. Bericht des Historischen Vereins Bamberg 1970, S. 243 ff.).
+
+Vom Unbestand der Herrschaft spricht auch die Inschrift des Bildes QVID EST MONARCHIA, NISI TRIA SVSPIRIA / OBTINENDI, RETINENDI, AMITTENDI (Was ist die Monarchie anderes als drei Seufzer? Die Begierde, dazu zu gelangen, die Furcht, sie zu verlieren, die Sorge, sie zu erhalten. Übersetzt von P. L. du Crest, Monita paterna ... Regensburg 1729, Vorrede).
+
+Die drei Allegorien im oberen Teil des Bildes sind in der Literatur nur von Pallavicino eindeutig bezeichnet worden. In der Frau mit Blitzbündel und Ölzweig sieht er die Herrschaft, Dominio, in Krieg und Frieden, in der geflügelten Gestalt Virtus, in der mit dem Zepter und Steuerruder hingegen Sapientia. Bei ihr dürfte in Analogie zu Krumpers Bronzefigur der Prudentia auf dem Giebel des nördlichen Residenzportals mit einem Steuerruder und einem Stern auf der Brust ebenfalls auf Prudentia angespielt sein, auf die vorausschauende Klugheit, eine der wichtigsten Herrschertugenden, die zusammen mit dem Zodiakus, dem Symbol der Ratio (Ripa, s.v. perfettione) die Gestalt als eine Verkörperung der weisen Regierung deuten lassen. Bei der geflügelten Figur handelt es sich nicht um Virtus, sondern um Victoria, die den errungenen Sieg verkörpert und den damit verbundenen Ruhm, zu deren Voraussetzungen jedoch vor allem Virtus gehört. Die Siegesgöttin trägt Palmzweig und Lorbeerkranz, mit denen sie sich dem Vertreter des letzten der Vier Weltreiche zuwendet, um ihn auszuzeichnen.
+
+Das Deckenbild ist von Jacob Balde in der Ode III seiner Opera poetica besungen worden; auch seine Ode I von 1641 auf den Kurfürsten Maximilian mit dem Titel »Omni à divina Providentia pendere et gubernari« enthält einen Hinweis auf die Danielsvision (Rée, S. 188; D. Breuer in Kat. Wittelsbach II/1, S. 341–352).
+
+
+== C<sub>1-8</sub> PUTTI MIT ATTRIBUTEN DER HERRSCHAFT Begleitbilder zu C ==
+
+
+C<sub>1</sub> Zwei Putti mit einem Schild mit Pegasus
+
+
+[[File:Band03-2_chunk004_p018_img011.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p018_img012.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p018_img013.jpg|thumb|C<sub>7</sub> Putti mit Köcher und Bogen]]
+
+
+Mit Ausnahme des Steuerruders, das sich allgemein auf eine weise und überlegte Regierung bezieht, wird die Herrschaft in ihren Begleitbildern vorwiegend durch Attribute des Krieges und des Kriegsruhms erläutert. Dazu gehört auch C<sub>1</sub> mit einem Schild, auf dem sich Pegasus zu einem Flug über die Erde anschickt, und das von Rée (S. 188) und Bassermann-Jordan (S. 141) irrtümlich der Darstellung der Sapientia (B) zugeordnet wurde. Pegasus bedeutet in dieser Darstellung die schnelle Ausbreitung des Ruhms (Ripa, s. v. fama chiara), dieselbe Bedeutung haben auf dem Hauptbild, abgesehen von ihrem Bezug zur Danielsvision, die Attribute Alexanders des Großen, der Blitz und der vierflügelige und vierköpfige Panther.
+
+
+[[File:Band03-2_chunk004_p018_img014.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p018_img015.jpg|thumb|C<sub>8</sub> Putto mit Fackel]]
+<!-- citation-page-bottom: Band03-2 p185 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=19 -->
+<!-- citation-page-top: Band03-2 p186 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: KAISERSAAI -->
+
+
+[[File:Band03-2_chunk004_p019_img001.jpg|thumb]]
+
+
+Fr<sub>1-16</sub> FRIESBILDER (Fr<sub>0-12</sub> nicht erhalten) Szenen mit Exempla virtutis aus dem AT (rechts vom Eingang an der nördlichen Längswand und im N der Schmalseiten, Fr<sub>1-8</sub>) und aus der Antike (links vom Eingang an der südlichen Längswand und im S der Schmalseiten, Fr<sub>9-16</sub>); die gegenüber bzw. an den Schmalseiten nebeneinander angebrachten Darstellungen sind jeweils paarweise aufeinander bezogen (Reihenfolge nach Pistorini).
+
+Fr<sub>1</sub> ESTHER VOR AHASVER (Esth 4-5) Die Jüdin Esther bittet ihren Gemahl Ahasver für ihr bedrohtes Volk und fällt dabei in Ohnmacht. Esther, begleitet von ihren Dienerinnen, kniet auf den Stufen zum Thron des rechts sitzenden Ahasver, der zum Zeichen der Gnade sein Zepter gegen sie ausstreckt. Inschrift EXAMINATA CADIT CARIS PRO CIVIBVS HESTER / QVAE CASVRA MAGIS, NI CECI- DISSET ERAT. (Bewußtlos fällt Esther für ihre lieben Mitbürger, sie wäre tiefer gefallen, wenn sie nicht gefallen wäre). Gegenstück zu Fr<sub>16</sub>.
+
+Fr<sub>2</sub> JUDAS MAKKABÄUS (1 Mach 3) Judas Makkabäus kämpft heldenmütig gegen die fremde Herrschaft, die das jüdische Volk unterdrückt und setzt sich gegen die Übermacht durch. Im Vordergrund sieht man seinen Zweikampf mit Apollonios, dem er das Schwert abnahm, im Hintergrund die Reiterei mit Lanzen und großen Fahnen. Inschrift IN CAPVT VNIVS TOTVS LICET INCUBET ORBIS, / NIL IVDAE VIRTVS FORTIOR ORBE TIMET. (Wenn der ganze Erdkreis gegen einen Menschen kämpfen würde, nichts würde die Tapferkeit des Judas fürchten, die stärker ist als der Erdkreis). Gegenstück zu Fr<sub>15</sub>.
+
+Fr<sub>3</sub> SUSANNA IM BADE (Dan 13) Susanna, die tugendhafte Gemahlin des Juden Joakim, wird von den beiden lüsternen Alten beim Baden belauscht, sie verleumden sie wegen ihrer Standhaftigkeit und werden schließlich überführt und bestraft. Susanna sitzt an einer pompösen, von Hermen hinterfangenen Brunnenanlage, bedrängt von den beiden Alten, im Hintergrund der Garten. Inschrift: CASTA SVSANNA PLACET, LVCRETIA CEDE SVSANNAE, / TV POST, ISTA MORI MALVIT ANTE SCELVS. (Die keusche Susanna hat unseren Beifall, Lukretia stehe zurück, du wolltest nach, sie vor dem Frevel sterben.) Gegenstück zu Fr<sub>14</sub>.
+
+Fr<sub>4</sub> DAVIDS KAMPF GEGEN GOLIATH (1 Sam 17) David erlegt den Riesen Goliath mit der Schleuder und schlägt ihm dann mit dessen Schwert den Kopf ab. In Vordergrund kniet David auf dem gestürzten Riesen und hat das Schwert zum Schlag erhoben, im Hintergrund die feindlichen Heere. Inschrift DAVIDIS IMMANEM DEIE CIT DEXTRA GIGANTEM, / QVID NON VIR FACIET, S FACIT ISTA PVER? (Die Rechte Davids streckt den Rieser nieder; was wird nicht ein Mann leisten, wenn solches ein Knabe tat?) Gegenstück zu Fr<sub>13</sub>.
+
+Fr<sub>5</sub> JUDITH MIT DEM HAUPT DES HOLOFERNES (Judith 13) Judith überwältigt mit List Holofernes, der Heerführer der Assyrer und schlägt ihm den Kopf ab Judith steckt das abgeschlagene Haupt des Holofernes, dessen Leichnam neben ihr liegt, in einen Sack, den ihre Magd aufhält, im Hintergrund die Zelte des assyrischer Lagers. Inschrift HOC DVCIS ASSIRII CAPVT EST: IVDI THA RECIDIT. / SOBRIA MENS VINCIT, EBRIA VICTA IACET. (Das ist das Haupt des Assyrerführers: Judith schnitt es ab. Ein klarer Kopf siegt, ein trunkener unterliegt.) Gegenstück zu Fr<sub>12</sub>.
+
+Fr<sub>6</sub> GEFANGENNAHME DES SAMSON (Iuc 15-16) Samson läßt sich das Geheimnis seiner Kraft seine langen Haare, durch die Überredungskünste Dalilas entlocken, wird von ihr geschoren und von den Philisterr überwältigt. Im Vordergrund wird der entkräftete und geblendete Samson gefesselt, rechts sitzt erhöht vor einem offenen Torbogen Dalila mit der Schere und seinen Haaren in der Hand. Inschrift: SAMSON SVM, TOTAS QVI STRAVI DENTE PHALANGAS: ME STRAVIT TONSIS VNA PVELLA COMIS. (Ich bin Samson, der mit einem Knochen ganze Schlachtreihen hinstreckte: mich besiegte ein Mädchen, nachdem es mir die Haare abgeschnitten hatte.) Gegenstück zu Fr<sub>11</sub>.
+
+Fr<sub>7</sub> JAEL UND SISARA (Iud 4) Jael gewährt dem feindlichen Heerführer Sisara Zuflucht und tötet ihn im Schlaf. Jael schlägt Sisara mit einem großen Hammer einen Nagel in die Schläfe; im Hintergrund Architektur mit einer Bogenöffnung und hinter einer Balustrade eine Landschaft. Inschrift ILLA EGO, QVAE SISARAE TEREBRAVI TEMPORA CLAVO. / QVOD NON EST AVSVS FVIT AVSA IAHEL. (Das bin ich, die Sisaras Schläfen mit einem Nagel durchbohrt; was kein Mann wagte, das wagte Jahel). Gegenstück zu Fr<sub>10</sub>.
+
+Fr<sub>8</sub> GESETZGEBUNG DES MOSES (Ex. 19–20) (Kriegsverlust; Vorkriegsphotographie) Moses erhält von Gott die Gesetzestafeln und bringt sie dem Volk Israel. Im Vordergrund das Volk, um das Goldene Kalb geschart, rechts am Fuß des Berges steht Moses und zeigt die Gesetzestafel, die er auf Sinai von Gott empfangen hat. Inschrift: SCRIPTAS DICTAVI MOSES A NVMINE LEGES: / LEGES QVAE VITAE SVNT PROBA NORMA TVAE. (Ich, Moses schrieb die von Gott gegebenen Gesetze nieder: Gesetze, die die rechte Richtschnur deines Lebens sind.) Gegenstück zu Fr<sub>9</sub>.
+
+Fr<sub>9</sub> GESETZGEBUNG DES LYKURG (Kriegsverlust Vorkriegsphotographie) Nachdem er für sie die Billigung des Delphischen Orakels erhalten hatte, veröffentlichte Lykurg seine mehrere Bände füllenden Gesetze, in dem er sie auf dem Forum den Spartanern öffentlich vortrug (Pallavicino, S. 16f.). Wegen seiner weisen und strengen Gesetzgebung, die ein Luxusverbot enthielt, der Tauschhandel und die Gleichheit der Güter zum gemeiner Nutzen vorsah, wurde Lykurg von Petrarca den Sieber Weisen des Altertums an die Seite gestellt (De rebus memorandis, LXIX). Inschrift SI TVA TEXISSET LEX AEOVA LYCVRGE PVDOREM, / LEX TVA NON ALIA LEGI TEGENDA FORET. (Wenn dein gerechtes Gesetz, Lykurg auch die Züchtigkeit einbegriffen hätte, so wäre kein neues Gesetz nötig gewesen.) Gegenstück zu Fr<sub>8</sub>.
+
+Fr<sub>10</sub> PENTHESILEA UND ACHILL (Vergil, Aeneis I 491) (zerstört, Beschreibung nach Pistorini) Die sagenhafte Amazone Penthesilea kämpft im Trojanischen Krieg auf Seiten der Trojer und wird von Achill getötet. Inschrift PANTHESILEA FVRENS MEDIIS IN MILLIBVS ARDET: / CONCIDIT ILLA TAMEN PANTHESILEA FVRENS. (Penthesilea leuchtet unter tausenden einherstürmend hervor, dennoch fällt sie im Sturm.) Gegenstück zu Fr<sub>7</sub>.
+
+Fr<sub>11</sub> HERKULES UND ANTÄUS (Ovid, Metamorphosen IX, 182 ff.) (zerstört; Beschreibung nach Pistorini) Indem er ihn hochhebt und erdrückt, besiegt Herkules den Riesen Antäus, Sohn des Poseidon und der Gaia, der durch die Berührung mit dem Erdboden stets neue Kräfte erhält. Inschrift ALCIDES EGO SVM: QVEM NON POTVERE GIGANTES, / NON STYX CAELVM VINCERE VICIT AMOR. (Ich bin der Alcide: den weder die Riesen noch der Styx noch der Himmel besiegen konnten, den besiegte die Liebe). Gegenstück zu Fr<sub>6</sub>. – Die Inschrift bezieht sich nicht allein auf die dargestellte Szene, sondern auch, in Analogie zu dem Gegenstück, auf die Weiberlist, der auch Herkules zum Opfer fällt. Die Inschrift setzt also Herkules und Samson in Beziehung, die Darstellung aber auch Antäus und Samson, die beide ihrer natürlichen Kräfte beraubt werden.
+
+Fr<sub>12</sub> TOMYRIS MIT DEM HAUPT DES CYRUS (Herodot I, 214; Valerius Maximus IX, 10) Tomyris, Königin der Massageten, läßt das Haupt des im Kampf getöteten Perserkönigs Cyrus in Menschenblut tauchen. Rechts steht die Königin und befiehlt, das Haupt des Feindes in einen mit Blut gefüllten Sack zu stecken, um den Tod ihres Sohnes an dem »Blutsäufer« zu rächen. Im Hintergrund die Reiterei beider Heere. Inschrift REGIS ACHAEMENII TOMYRIS CERVICE RESECTA / IMMERSAQVE VTRI DIXIT: HIRVDO BIBE. (Tomyris steckte das abgeschnit-
+
+
+[[File:Band03-2_chunk004_p019_img003.jpg|thumb|Fr<sub>1-16</sub> Friesbilder mit Exempla virtutis]]
+
+
+
+[[File:Band03-2_chunk004_p019_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p019_img005.jpg|thumb|Fr. David und Goliath]]
+<!-- citation-page-bottom: Band03-2 p187 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=20 -->
+<!-- citation-page-top: Band03-2 p188 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: KAISERSAA -->
+
+tene Haupt des persischen Königs in einen Schlauch und rief: Trinke, du Aussauger!) Gegenstück zu Fr<sub>5</sub>. – Beide Darstellungen beziehen sich auf die Besonnenheit und Mäßigung. Cyrus fällt, weil es ihm an dieser Tugend mangelt, Judith besitzt sie und ist siegreich.
+
+Fr<sub>13</sub> M. VALERIUS CORVINUS (Livius VII, 26,2; Valerius Maximus VIII, 15,5) Geschildert ist der legendäre Kampf gegen einen riesigen Gallier, den der Römer Valerius als Militärtribun im Gallierfeldzug (349 v. Chr.) mit Hilfe eines Raben siegreich geführt haben soll. Im Vordergrund der Zweikampf, den Valerius gerade zu seinen Gunsten entscheidet, im Hintergrund stehen sich die Heere gegenüber. Inschrift: EXPVGNATA TIBI CORVINE EST CELTICA VIRTVS: / SED DVO VICISTIS, DIVIDE VICTOR OPES. (Du Corvinus hast die keltische Kraft besiegt, aber zu zweit habt ihr gesiegt – d. h. mit einem Raben – also teile als Sieger auch die Beute!) Gegenstück zu Fr<sub>4</sub>.
+
+Fr<sub>14</sub> LUCRETIA (Livius I, 57 ff.) Die tugendhafte Römerin Lucretia wird unter Androhung von Tod und Verleumdung vom Königssohn Sextus Tarquinius zur Hingabe gezwungen. Nachdem sie ihre Familie zur Rache aufgefordert hat, ersticht sie sich mit einem Dolch. Sextus Tarquinius dringt mit dem Schwert auf Lucretia ein, die auf ihrem Bett liegt, im Hintergrund eine Architektur mit großer Bogenöffnung, Säule und dem hochgerafften Bettvorhang. Inschrift ACCIPE QVID DVBITAS INTACTA LVCRETIA FERRVM: / MORTE PREMI NVLLA FAMA SINISTRA POTEST. (Warum zögerst Du, Lucretia, vor dem Frevel den Dolch zu nehmen? Ein übler Ruf kann durch keinen Tod getilgt werden.) Gegenstück zu Fr<sub>3</sub>.
+
+Fr<sub>15</sub> HORATIUS COCLES (Livius II, 10) Horatius Cocles, eines der berühmtesten Beispiele römischer Virtus, kämpfte gegen die Truppen des Etruskerkönigs Porsenna (507 v. Chr.) und verteidigte die Tiberbrücke gegen die feindliche Macht so lange, bis sie von den eigenen Truppen hinter ihm abgebrochen war. Der Held ist zu Pferde dargestellt, wie er dem Fußvolk des Feindes entgegensprengt. Inschrift QVID TRAHITIS REGES IN PROELIA MILLE COHORTES? VNVS PRO TOTO SVFFICIT ORBE COCLES. (Warum führt ihr Könige tausend Kohorten in die Kämpfe? Ein einziger Cocles genügt für die ganze Welt.) Gegenstück zu Fr<sub>2</sub>.
+
+Fr<sub>16</sub> VETURIA VOR CORIOLAN (Livius II, 40) Der verbannte römische Feldherr Coriolan belagert Rom und wird von den Frauen der Stadt, die von seiner Mutter Veturia und seiner Gemahlin Volumnia angeführt werden, um Frieden gebeten. Coriolan empfängt die Frauen vor seinem Zelt, im Hintergrund die Engelsburg, das Pantheon und eine Ehrensäule. Inschrift DA PATRIAE VITAM QVAM NATE VETVRIA POSCO, / QVAM MIHI QVAMQVE TIBI PATRIA CARA DEDIT. (Erhalte dem Vaterland das Leben, das ich, Veturia, mein Sohn, verlange, das mir und dir das teure Vaterland gegeben hat.) Gegenstück zu Fr<sub>1</sub>.
+
+In den paarweise zugeordneten Gemälden Vicentinos sind jeweils zwei heldenhafte Taten miteinander in Beziehung gesetzt, die eine bestimmte Tugend beispielhaft verkörpern. Es sind dies Selbstlosigkeit (Fr<sub>1</sub> und 16), Tapferkeit (Fr<sub>2</sub> und 15), Keuschheit (Fr<sub>3</sub> und 14), Gottvertrauen (Fr<sub>4</sub> und 13), Besonnenheit und Mäßigung (Fr<sub>5</sub> und 12), Wachsamkeit (Fr<sub>6</sub> und 11), Wagemut (Fr 7 und 10) und Weisheit in der Gesetzgebung (Fr<sub>8 und 9</sub>) (Kultzen/Eikemeier, S. 246; vgl. auch Brunner/Hojer/Seelig S. 141 f.). In den Teppichen von Candid, die unter diesen Bildern hingen, werden einzelne Heldengestalten als Tugendbeispiele herausgestellt. Der große Kamin an der Stirnwand gegenüber dem Eingang war bekrönt von einer Figur der Virtus aus Stuck (nicht Porphyr), die Pistorini zufolge (fol. 19 v-20 r) auf einem aus Tieren gebildeten Sockel saß. Dadurch erinnert sie an die Bavaria auf Raphael Sadelers d. A. Titelkupfer des Bayerischen Landrechts (1616) (s. Kat. Wittelsbach 1980, II/1, Nr. 393, mit Abb.). Zu Rechten der Virtus beschreibt Pistorini das Vorderteil eines wilden Löwen, den Kopf eines großmütigen Adlers und den eines sanften Lammes, zu ihrer Linken das Hinterteil des Löwen und die Köpfe eines zornigen Ebers und eines grausamen Bären. Die von Pistorini beschriebenen Eigenschaften der Tiere deutet Pallavicino (S. 11) als »soggettione delle fiere alla mansuetudine dominatrice della virtù«, Unterwerfung der wilden Tiere unter die Sanftmut, die Beherrscherin der Tugend. Die von goldenen Strahlen bekrönte Figur hielt in der Rechten die Lanze des Krieges, in der Linken die Ruhmespalme, der Sockel trug die Inschrift VIRTVS. Dem bayerischen Wappen über dem Kamin entsprachen über dem Eingangsportal des Saals die Wappen »di stati sottoposti e compresi nella Baviera«.
+
+[[File:Band03-2_chunk004_p020_img001.jpg|thumb]]
+[[File:Band03-2_chunk004_p020_img002.jpg|thumb]]
+[[File:Band03-2_chunk004_p020_img003.jpg|thumb]]
+
+== Ikonologi ==
+
+Im Kaisersaal befassen sich die drei großen Deckenbilder mit Weisheit, Ruhm und Herrschaft. Sie sind umgeben von Darstellungen mit antiken Ehrendenkmälern, die auf den Ruhm anspielen bzw. mit Putten, die mit ihren Attributen – Waffen und Kriegstrophäen auf der einen und Zeichen der Künste und Wissenschaften auf der andern Seite – auf das Vorhandensein von Potentia und Sapientia hinweisen. Vicentinos Gemälde im Fries und die Tapisserien nach Entwürfen Candids mit heldenhaften Taten aus der biblisch-jüdischen und der heidnisch-antiken Geschichte sowie die Virtus-Statue über dem Kamin schließen sich mit den Deckenbildern zu einem aus mehreren Sinnschichten bestehenden Gesamtthema zusammen. Für die Deutung spielen die Inschriften eine wichtige Rolle. Sie sind nicht so sehr Erläuterungen wie in den Trierzimmern, sondern verhalten sich antithetisch zum vordergründigen Bildsinn und scheinen diesen in Frage zu stellen.
+
+A GLORIA – DER RUHM Das Mittelbild thematisiert den Ruhm. Cicero definierte ihn als den mit Lob verbundenen, weit verbreiteten Ruf eines Menschen (gloria est frequens de aliquo fama cum laude; De inventione II, 166). Zu seiner moralischen Einschätzung hat er eine widersprüchliche Haltung eingenommen, ihn einerseits bejaht, andererseits entwertet (vgl. Ulrich Knoche, Der römische Ruhmesgedanke. Erstmals in: Philologus 89, 1934, S. 102-124. - Günther B. Philipp, Zur Problematik des römischen Ruhmesgedankens, in: Gymnasium 62, 1955, S. 51-82). Im Sinne altrömischer Ethik erblickt er in ihm die Belohnung der für das Gemeinwesen geleisteten Dienste, bezeichnet ihn als Nahrung für den führenden Mann des Staates, andererseits hält er, wohl unter stoisch-griechischem Einfluß, alle äußeren Ehren für verachtenswert (De officiis I, 65 ff.), läßt ihn in dem berühmten >Somnium Scipionis (De re publica VI, 9) als fragil und nichtig erscheinen und den Staatsmann Belohnung im Jenseits finden. Diese Krise der Ruhmesauffassung hängt zusammen mit der Krise des
+
+[[File:Band03-2_chunk004_p020_img004.jpg|thumb]]
+[[File:Band03-2_chunk004_p020_img005.jpg|thumb]]
+[[File:Band03-2_chunk004_p020_img006.jpg|thumb|- Horatius Cocle]]
+
+<!-- citation-page-bottom: Band03-2 p189 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=21 -->
+<!-- citation-page-top: Band03-2 p190 -->
+
+[[File:Band03-2_chunk004_p021_img001.jpg|thumb]]
+
+[[File:Band03-2_chunk004_p021_img002.jpg|thumb|Fr<sub>o</sub> Gesetzgebung des Lykurg (zerstört)]]
+
+Staates am Ende der römischen Republik. Im Niedergang der ›Res publica« hätten schließlich die Privatinteressen den Sieg davongetragen, die Gloria sei zur Ambitio, zu persönlicher Ruhmsucht, entartet (Philipp, S. 64f.). Als Reaktion darauf konnte zu dieser Zeit der Begriff des wahren Ruhms, der Vera Gloria, entstehen (Cicero, Pis. 2.). Er ist nicht mehr auf den Erfolg und die außerordentliche Tat bezogen, sondern beruht auf der großen menschlichen Gesinnung, der Magnanimitas. Gloria ist somit an Virtus gebunden, sie folgt ihr wie ein Schatten nach (gloria virtutem quasi umbra sequitur; August Otto, Die Sprichwörter und sprichwörtlichen Redensarten der Römer. Repr. Hildesheim 1962, Nr. 764, 1).
+
+Die Komposition des Hauptbildes - oben in der Mitte in dominierender Stellung Gloria, darunter ihre Voraussetzungen Ehre und Lob, unten Ehrsucht und große Gesinnung – entspricht in der Figurenanordnung der Systematisierung dieser Begriffe bei Thomas von Aquin (Summa theologica II–II, 132, 1 Ambitio; 132, 2 Gloria). Bei ihm sind Magnanimitas und Ambitio als Tugend und Laster einander gegenübergestellt. Beide sind auf die Ehre ausgerichtet, einmal in angemessener, zum andern in übersteigerter Weise, indem der eine sie verachtet, der andere sie brennend begehrt. Sie sind in gleicher Weise auf den Ruhm ausgerichtet, da dieser eine Folge von Ehre und Lob ist. Dem entspricht nicht nur die Aufteilung des Bildes, darauf bezieht sich auch die Inschrift: Die große Gesinnung (Magnanimitas) verachtet das Spiel der Ehre, den Dunst des Ruhms, den Schein des Lobs, der Ehrgeiz (Ambitio) strebt danach. Dieser Abwertung des Ruhms und seiner Voraussetzungen widerspricht jedoch die formale Gestaltung. Die Personifikation der Gloria ist als Titelfigur hervorgehoben und positiv charakterisiert; durch die Triumphbögen, Pyramiden und andere Ruhmesdenkmäler (A<sub>1-2</sub>) wird der Gedanke der Verherrlichung noch betont. Die Inschrift spricht zwar vom vergänglichen, nichtigen Ruhm, dargestellt ist jedoch Vera Gloria, der wahre Ruhm, im Sinne jenes Ausspruchs, den Livius dem Fabius Maximus beilegt (22, 19, 19): Wer den Ruhm verachtet, wird den wahren Ruhm haben (gloriam qui spreverit, veram habebit), ein Ausspruch, der übereingeht mit der Äußerung des Sallust über Cato: Je weniger er den Ruhm begehrte, desto mehr bekam er ihn (August Otto, loc cit Nr 764 2)
+
+Gloria ist zwar der eindeutige Bezugspunkt des Mittelbildes, doch wird durch die Inschriften moralisch der Akzent auf Magnanimitas gelegt, die große Gesinnung und edle Haltung. In dieser von Aristoteles in der Nikomachischen Ethik« besonders herausgestellten Tugend verbinden sich Eigenschaften von Fortitudo und Temperantia. Nach Cicero (De officiis I, 65 ff.) ist sie durch Verachtung des Ruhms und äußerer Ehren gekennzeichnet sowie durch den Wunsch und die Befähigung, sich für das Gemeinwohl schwierigen Aufgaben zu widmen. Magnanimitas wird seit der Antike als die Herrschertugend schlechthin betrachtet und spielt demzufolge eine entscheidende Rolle in der Fürstenspiegelliteratur. Auch Thomas von Aquin hat in De regimine principum« das Verhältnis von Ambitio und Magnanimitas behandelt (Lib. I, Kap. VII): Der Fürst möge sich vor Ruhmbegierde hüten, denn sie raube ihm Magnanimitas und Freiheit des Geistes. Nichts aber zieme sich für ihn, der dazu eingesetzt wurde, Gutes zu tun, mehr als diese Eigenschaften. Die Tugendhaften und die Starkmütiger müssen um der Gerechtigkeit willen den Ruhm genauso verachten wie das Leben. Denn nur der Ruhm, den die guten Männer (viri boni) verachten, sei für sie ein angemessener Ruhm. Wenn dies also für die Fürsten die einzige Belohnung darstelle, folge daraus, daß sie die Herrschaft nicht mißbrauchten, wenn sie sie aber doch mißbrauchten blieben sie ohne Belohnung
+
+Sowohl in der starken Betonung des Gedanklichen als auch im Bildaufbau erinnert Candids Komposition an andere allegorische Darstellungen der Zeit, wie beispielsweise das Titelkupfer von Maerten de Vos für den von Philipp Galle herausgegebenen ›Circulus vicissitudinis rerum humanorum (Antwerpen o. J.), mit einer gedanklich und formal hervorgehobenen Mittelfigur, zu der um die Kugel des Glücks von links Tugendpersonifikationen ansteigen, denen auf der rechten Seite Laster in abfallender Bewegung entsprechen (s. CBD Bd 2, 1981, S. 88 ff.).
+
+C MONARCHIA – DIE HERRSCHAFT In ähnlicher Weise wie der Ruhm ist auch die Herrschaft durch die Bildinschrift relativiert, die von Instabilitas handelt, von der Schwierigkeit, zur Macht zu gelangen, sie zu bewahren und nicht wieder zu verlieren. Bildlich veranschaulicht ist diese geläufige Vorstellung durch die Repräsentanten der Vier Weltreiche, die sich nach der Ausdeutung der Danielvision in der Herrschaft abgelöst haben. Dieses in der Spätantike entwickelte Geschichtsmodell entspricht auch noch der philosophisch-historischen Auffassung der Zeit um 1600, vor allem in Deutschland. So eröffnet Georg Lauterbeck (Lauterbach) sein bekanntes >Regentenbuch< (1. Ausgabe Leipzig 1556) mit einem Vergleich verschiedener Regierungsformen und entscheidet sich für die Monarchie als die beste (Buch I, Kap. 1; vgl. das Programm des Augsburger Rathauses nach der Invention des Jesuiten Matthäus Raderus, in: Kat. Ausstellung Elias Holl und das Augsburger Rathaus, Augsburg 1985, Nrn. 53-55, Gode Krämer). Anschließend schreibt er (I, 2): »Wie die grossen Keiserthumb in der Welt entsprungen und wider zergangen sein, auff das man aber sehen möge, das kein Regiment so wol kan bestelt werden, das es für ein für bestendig bleibe und nicht möge verendert werden, wie denn Camerarius sagt: Nihil in rebus humanis firmum, rectum, fixum, stabile ... denn alle ding von natur also geordnet, das sie sich zum Untergang neigen und zergehen müssen«. Daher solle geschildert werden, »wie die grossen Monarchien und Keiserthumb in der Welt angefangen und hernach wunderlicher weise sich verendert und wider zergangen sein«. Das erste Kaisertum sei bei den Assyrern gewesen, die vierte Monarchie habe mit Cäsar begonnen und dauere noch an.
+
+Bei Lauterbeck wie im Kaisersaal dient die Theorie von der Ablösung der Weltreiche in erster Linie dazu, den Wechsel im Geschichtsverlauf zu veranschaulichen. Theologischeschatologische Gedanken und die politische Ausdeutung als »Translatio Imperii« vom Römischen Reich auf die Deutschen sind nicht ausgesprochen, aber implizit enthalten und für den Betrachter einer Zeit präsent, die sich mit diesen Geschichtsvorstellungen z.T. auch kontrovers befaßt hat (vgl. Adalbert Klempt, Die Säkularisierung der universalhistorischen Auffassung. Zum Wandel des Geschichtsdenkens im 16. und 17. Jahrhundert, Göttingen 1960). Die Vier Monarchien demonstrieren Blüte, Verfall und Übertragung der Herrschaft, ohne daß für den Wechsel Regeln erkennbar wären. Man kann ihn als biologischen Prozeß begreifen, oder als das Walten der Schicksalsmacht Fortuna und beides auf die Divina Providentia als lenkende Kraft zurückführen. Man kann in ihm auch eine moralisch begründete Gesetzmäßigkeit sehen, verursacht durch den Verfall der Virtutes, den Sallust wie Macchiavelli beklagt haben, oder in christlich-patristischer Auslegung als Folge der Sünde und des Ungehorsams gegen Gott.
+
+Die Monarchie galt in der Antike nicht nur als die Urform des menschlichen Zusammenschlusses – auf einer primitiven sozialen Entwicklungsstufe begibt sich die Herde in den Schutz des Stärksten – sondern auch auf den höheren Kulturstufen wegen der einheitlichen Lenkung des Staates als die beste Regierungsform, vorausgesetzt, sie funktioniert. Die Alleinherrschaft ist jedoch besonders gefährdet, weil sie, wie Cicero in De re publica (II, 23, 43) sagt, leicht durch das Laster eines einzigen in ihr Gegenteil, die Tyrannei, umschlagen kann. Diese und andere Gefährdungen haben in der Literatur ihren Niederschlag gefunden in einem gewissen Pessimismus, in Melancholie und Klage über die Schwere des Amtes, teils wegen der Mühsal, der Sorge und großen Verantwortung für die Regierungsgeschäfte, teils im Bewußtsein der Unbeständigkeit des Glücks, verbunden mit Warnungen vor der das Schicksal herausfordernden Ambitio. Das ist ein durchgängiges Motiv seit der Antike, und es gibt kaum einen Fürstenspiegel, der sich nicht mit diesem Thema beschäftigt hätte (Zu den »Miseriae Regum« im Mittelalter vgl. Lothar Bornscheuer, Miseriae Regum. Untersuchungen zum Krisen- und Todesgedanken in den herrschaftstheologischen Vorstellungen der ottonisch-salischen Zeit, Berlin 1968). Die Aussagen dazu lassen sich überspitzt zusammenfassen: Nur ein Narr übernimmt das Amt gerne! Die Beispiele reichen von König Antiochus, der den Verlust eines Teils seines Reiches durch die Römer nicht beklagte, sondern als Befreiung von Bürde empfand (>Cyripaedia nova et christiana<, Freiburg 1596, aus einer unbekannten französischen Vorlage ins Deutsche übertragen von Hans Beat Graß) über die von
+
+<!-- citation-page-bottom: Band03-2 p191 -->
+
+[[File:Band03-2_chunk004_p021_img003.jpg|thumb|Fr, Esther vor Ahasve]]
+
+[[File:Band03-2_chunk004_p021_img004.jpg|thumb|Fr<sub>16</sub> Veturia vor Coriolan]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=22 -->
+<!-- citation-page-top: Band03-2 p192 -->
+
+<!-- header: RESIDEN -->
+
+<!-- header: KAISERSAAI -->
+
+mehreren Autoren erwähnte, auf Valerius Maximus zurückgehende Sentenz, die vom Hofe Kaiser Karls V. in folgender Form berichtet wird: {ZITAT|000} (zitiert nach Michael de Fernando, Die theatralische Bedeutung des spanischen Hofzeremoniells Kaiser Karls V., in: Archiv für Kulturgeschichte 47, 1965, S. 314) bis zu jenen, die ein Königreich zum Geschenk erhalten sollten und es ablehnten. Der Schenkende pries sie daraufhin als verständige, ja selige Leute, die erkannt hätten, daß es nicht weniger löblich sei, ein königliches Zepter auszuschlagen als es anzunehmen. Denn wenn man Wohlfahrt und Glückseligkeit gegen die unendlichen Gefahren und Mühseligkeiten einer Regierung abwäge, so kämen auf ein Loth Honig zehn Pfund Aloë (>Cyripaedia<, S. 160 f.).
+
+
+[[File:Band03-2_chunk004_p022_img001.jpg|thumb|Fr<sub>12</sub> Tomyris mit dem Haupt des Cyrus]]
+
+
+Mit diesem Gedanken schließt auch die Ode, die Jakob Balde um 1640 dem Gemälde des Saals gewidmet hat, wobei er dessen Inschrift {ZITAT|001} als Titel wählte. Nachdem er Aufstieg und Niedergang der Weltreiche unter dem Vorzeichen von Ambitio betrachtet hat, heißt es: Was halfen euch Ehrendenkmäler, Pompejus, Caesar, als ihr daniederlagt? O bittersüßer Taumel der Ehrbegier! Du Krone, die von Sorgen blinket, Triefest du Aloë, oder Honig? (Übersetzung von Herder, in: Johann Gottfried Herder, Sämmtliche Werke. Hg. B. Suphan, Bd 27: Terpsichore, 1795/96. Berlin 1881 S. 48f)
+
+In dem Emblembuch von Diego Saavedra Fajardo, >Idea de un Principe Politico Christiano<, das etwa gleichzeitig mit Baldes Ode 1640 in München erschienen ist, wird im Zusammenhang mit der Last des Herrscheramtes auch die Inschrift unseres Deckenbildes zitiert, im Kommentar zu Emblem XX mit dem Lemma BONVM FALLAX und der Icon einer Krone, die innen aus Dornen geflochten ist. Der Autor war Gesandter auf dem Reichstag in Regensburg und sah das Bild möglicherweise selbst oder kannte es durch Baldes Ode. So wie Balde und der Autor der ›Cyripaedia« den Untergang der Weltherrscher als Folge ihrer Ambitio verstehen, so wird umgekehrt der Verzicht auf eine Königskrone als Zeichen der Magnanimitas gewertet Die Zurückweisung der böhmischen Königskrone durch Albrecht III. von Bayern, dessen Büste eine der seitlichen Türen des Kaisersaals bekrönte, wurde von der Fürstenspiegelliteratur in diesem Sinn gedeutet (vgl. S. 174 f., 262). In diesen Zusammenhang gehört auch der Topos, daß der wirkliche Staatsmann das Staatsruder nur mit Überwindung ergreife (von Numa Pompilius bis zu {ZITAT|002}, der am Vogelherd saß), wobei zur Bescheidenheitsgeste noch die Erinnerung an die Philosophenherrscher tritt, die im Grunde lieber eine {ZITAT|003} geführt hätten.
+
+Für dieses von den Fürstenspiegeln und Politiken durchgängig diskutierte, zentrale Problem werden verschiedene Lösungen vorgeschlagen. Lipsius (>Politica 1589, Buch 4, Kap. 6) äußert angesichts der Unbeständigkeit des Regiments die Überzeugung, der Fürst werde damit fertig, wenn er seine Fähigkeiten richtig einschätze. Der Autor der >Cyripaedia (dt. Übersetzung 1596) schließt sein entsprechendes Kapitel mit der Bemerkung, daß zwar alle Dinge Veränderungen unterworfen seien, vor allem jedoch die Mächtigsten dieser Erde, denn es sei die Art des Glücks, viel eher die hohen als die niedrigen anzugreifen. Die Inhaber hoher Würden sollten daher Vernunft bewahren und angesichts ihres Glücks und ihrer Stellung nicht überheblich werden, sich vielmehr im Leben von der Tugend leiten lassen, mit Gnaden und Sanftmut regieren und jederzeit bereit sein, unerschrocken und gefaßt vor Gott zu treten (S. 162 f.).
+
+Durch die Bildinschrift soll der Betrachter die Vergänglichkeit der Herrschaft und die {ZITAT|004} assoziieren, so wie es Balde in exemplarischer Weise getan hat. Im Bild selbst ist das Gegenteil dargestellt. Das letzte der Weltreiche, das Imperium Romanum, das durch raschen Aufstieg und Verfall in besonderem Maße als Zeichen der Vergänglichkeit begriffen wurde, hat hier seine Endphase noch nicht erreicht, es besteht noch weiter, Victoria eilt seinem Repräsentanten mit dem Siegeslorbeer entgegen. Durch den Sieg wird nach römischem Verständnis der Friede eingeleitet (Pax Romana) und damit die Dauerhaftigkeit des Reichs garantiert. Da sich mit dem Machtwechsel auch die Vorstellung verbindet, daß die Herrschaft bei Unge- rechtigkeit und Sittenverderbnis genommen wird oder verfällt, deutet das im Bild gezeigte Fortbestehen dieser Herrschaft, d.h. des Imperium Romanum, auf das Vorhandensein von Virtus
+
+B SAPIENTIA – DIE WEISHEIT Die Inschrift der Sapientia-Darstellung bezieht sich auf einen Gedanken der antiken Anthropologie, wonach die Natur nicht die Mutter, sondern die Stiefmutter des Menschen gewesen sei, da sie ihn im Vergleich zu den Tieren nur unvollständig ausgestattet habe. Er entbehre des Fell- oder Federkleides zu seinem Schutz, sei nackt und hilflos auf die Erde gekommen und könne ohne Erziehung weder sprechen noch laufen, nur weinen. Auch charakterlich sei er minderwertig, getrieben von Ehrsucht, Geiz und Gier nach Herrschaft (Plinius, Historia naturalis VII, 1 ff.). Dieser Gedanke der Unterlegenheit gegenüber den Tieren, der bereits in der griechischen Literatur begegnet, wurde in der Antike wie im Humanismus entweder als menschliches Elend beklagt (vor Plinius z.B. Lukrez, De rerum natura V, 223 ff.) oder als {ZITAT|005} verstanden wie bei Cicero, hier in der Uberzeugung, die Schwäche der Natura könne durch Ars ausgeglichen werden (Zur Thematik: Arthur Onken Lovejoy und Georg Boas, Primitivism und related Ideas in Antiquity, Baltimore 1935, bes. S. 242 ff. August Buck, Die Rangstellung des Menschen in der Renaissance: dignitas et miseria hominis, in: Archiv für Kulturgeschichte 42, 1960, S. 61-75; ders., Democritus ridens et Heraclitus flens, in: Die humanistische Tradition in der Romania, Bad Homburg v. d. H., 1968, S. 101–117).
+
+Die Metapher der Natur als Stiefmutter stammt wahrscheinlich von Cicero (Prooemium zum 3. Buch von De re publica). Sie ist nur in einer Paraphrase des hl. Augustin erhalten: {ZITAT|006} (De re publica III, 1 ff., hg. u. übers. von Karl Büchner, Stuttgart 1979; Lovejoy und Boas, S. 244, weisen auf die Ahnlichkeit dieses Passus mit der genannten Plinius-Stelle hin und folgern {ZITAT|007}; Lit. zu Cicero: Eberhard Heck, Die Bezeugung von Ciceros Schrift De re publica [Spudasmata IV], Hildesheim 1966, S. 150f.; Alberto Grilli, I proemi del De re publica di Cicerone, Brescia 1971, S. 139–162).
+
+Für Cicero wird die Schwäche des Menschen ausgeglichen durch seine latent vorhandene Vernunft, die erst entwikkelt werden muß, verbunden mit einer Neigung zur Sozialisation. Seine Fähigkeit zur Sapientia (Intelligenz, Weisheit), durch die er sich vom Tier unterscheidet, manifestiert sich in den Artes als der notwendigen Ergänzung zur Natur; sie bilden seine {ZITAT|008}, altera natura (De natura deorum II, LX, 151-2, nach Lovejoy und Boas, S. 251, Anm. 14). An anderer Stelle gebraucht er das Bild der Weisheit, die den Menschen im Rohzustand aus den Händen der Natur zur Weiterbildung übernimmt: (Sapientia)
+
+non enim ipsa genuit hominem, sed accepit a natura inchoatum. Hanc ergo intuens institutum illud quasi signum absolvere (De finibus 4, 13, 34, nach Lovejoy und Boas, S. 247 f.)
+
+In der Darstellung selbst ist aus dem Gegensatzpaar Natura-Noverca und Sapientia-Mater nur die Weisheit als Erzieherin wiedergegeben, also aus beiden Möglichkeiten der positive Aspekt ausgewählt, während der negative Inhalt nicht anschaulich gemacht wird. Er ist jedoch im Wort von der Stiefmutter präsent. Der Betrachter wird erinnert an die {ZITAT|009} und gewarnt vor Ambitio, ein Gedanke, der gerade im 16. Jh. und im Anschluß an die italienische Plinius-Ausgabe des Landino von 1476, die viel gelesen wurde, sehr stark wirksam war. Macchiavelli schrieb aus dem Gefühl der Minderwertigkeit der menschlichen Natur seine Dichtung >Dell' Ambizione«, in der er vom Ehrgeiz als der Wurzel alles Übels handelt. Da er nicht an den Erfolg der Tugend glaubt, sieht er allein im Staat und seinen Gesetzen eine Möglichkeit, die Laster einzudämmen (August Buck, {ZITAT|010}, in: Die humanistische Tradition in der Romania Bad Homburg v. d. H. 1968, S. 110; ders., Die Krise des humanistischen Menschenbildes bei Macchiavelli, ebd. S 271–284, bes. S. 277).
+
+Betrachtungen über die Natur des Menschen bilden in der antiken Theorie gewöhnlich den Ausgangspunkt für eine Schilderung der Kulturentstehung. Innerhalb der angenommenen chronologischen Entwicklung der Kultur vollzieht sich auf einer bestimmten Stufe die Bildung des Staates, weswegen Cicero sich mit dieser Thematik in De re publica« befaßt hat. Für ihn hat Sapientia als Lehrmeisterin damit auch eine politische Dimension. Ein anderes Phänomen der Kulturgeschichte, das bei Cicero ebenfalls eine große Rolle spielt, ist die {ZITAT|011}}, die Bewegung der Kultur von Ost nach West. Nach dieser Vorstellung sind die Künste von dem Ort aus, wo sie erfunden wurden, zu anderen Völkern gewandert. Ähnlich wie bei dem Modell der politischen Translatio, der Weitergabe der Macht von einem Weltreich zum andern, spielt auch hier der Gedanke des biologischen Verfalls eine Rolle. Wenn die Kräfte eines Volkes erlahmen, ist der Zyklus abgelaufen. Durch den Prozeß der Weitergabe der Kultur ist jedoch eine ungebrochene Kontinuität garantiert.
+
+Die beiden in Format und Anordnung aufeinander bezogenen Achteckbilder B und C sind inhaltlich verbunden durch diesen Gedanken der Translationen der Macht und der Kultur von Ost nach West. Beides sind antike Geschichtsmodelle, die im Mittelalter von Otto von Freising in der Terminologie aufeinander bezogen und zu einer gemeinsamen Geschichtsbewegung systematisiert worder sind. Für seine Epoche bedeutet das, daß Herrschaft und Bildung weitergegeben wurden an das Heilige Römische Reich Deutscher Nation. Für die römische Literatur spieler beide Prinzipien eine Rolle, sobald man über die Ursacher der Größe Roms nachzudenken beginnt, bei Polybios Poseidonios, Cicero (vgl. Franz Josef Worstbrock, Translatio Artium. Über die Herkunft und Entwicklung einer kulturhistorischen Idee, in: Archiv für Kulturgeschichte
+<!-- citation-page-bottom: Band03-2 p193 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=23 -->
+<!-- citation-page-top: Band03-2 p194 -->
+
+<!-- header: RESIDEN -->
+
+<!-- header: KAISERSAAI -->
+
+47, 1965, S. 1–22). Eine Voraussetzung für Roms Aufstieg ist seine große Fähigkeit in der Übernahme und damit gleichzeitig der Vervollkommnung fremder Errungenschaften gewesen. Während Polybios dabei an politische und militärische Kenntnisse denkt, die von anderen Völkern vermittelt wurden, liegt bei Cicero eindeutig der Akzent auf der Aneignung der griechischen Kultur. {ZITAT|000} (Worstbrock, S. 11).
+
+Die antikisierende Gestaltung der Hauptdeckenbilder und vor allem der von Putten gehaltenen Attribute sowie die Auszeichnung von Caesar Augustus durch Victoria deuten an, daß die Translationsbewegungen ihr Ziel und Ende beim Imperium Romanum finden. So ist nicht nur allgemein auf die Leistungen der antiken Vergangenheit angespielt, sondern speziell auf die Größe Roms und seine geschichtliche Bestimmung, wie sie in dem mittelalterlichen Gedicht {ZITAT|001} zum Ausdruck kommt: {ZITAT|002} (zitiert nach Worstbrock S 10)
+
+B und C beziehen sich also auf die Ursachen der Größe Roms, die sich mit dem Gedanken der Translatio verbindet Dasselbe gilt für das Mittelbild A. Der hl. Augustin hat die Ubertragung der politischen Macht auf Rom und die Erlangung seiner Größe dem Ruhmesverlangen der Römer und ihren Tugenden zugeschrieben. {ZITAT|003} (De civitate Dei I, 513; übers. von Wilhelm Thimme, eingeleitet und erläutert von Carl Andresen, Zürich-München <sup>2</sup>1978). Dieser Lobpreis der Ruhmsucht bezieht sich auf die glanzvolle Frühzeit Roms, als die {ZITAT|004} noch intakt war, und auf die Taten jener Männer, die Livius schildert und die zum Teil in den Friesbildern des Saals dargestellt sind. Doch ist Augustins Verhältnis zum Ruhm ähnlich ambivalent wie das Ciceros, von dem er darin beeinflußt ist. Er tadelt die Ehrbegier, die er erst gelobt hat, verweist auf Cato, der den Ruhm floh und von ihm desto mehr verfolgt wurde, und verurteilt schließlich vom christlichen Standpunkt aus das Laster des Ehrgeizes: {ZITAT|005} (De civitate Dei I, 5, 17). Gloriae fumum! Die Gedanken und Formulierungen in dieser Passage bei Augustinus, der das Reich der Römer als Lohn der aus Ruhmsucht und für das Vaterland geleisteten Dienste ansieht und den Ruhm dann relativiert, sind dem Entwerfer des Programms des Saals wohl nicht unbekannt gewesen.
+
+Das Verbindende im Gesamtprogramm des Kaisersaals is die moralische Zielsetzung: die Verwirklichung und Präsenz der Tugend. Unter diesem Vorzeichen stehen alle gemalten Darstellungen, wenn auch in verschiedener Akzentuierung, hierauf bezog sich die Virtus-Statue über dem Kamin in der Hauptachse des Raums. Der Virtus- Gedanke wird realisiert anhand der antiken Geschichte. An den Wänden sind in den Tapisserien dem Betrachter einzelne heldenhafte Gestalten und in den Friesbildern Fr<sub>1-16</sub> vorbildliche Taten gezeigt als Exempla für bestimmte Tugenden. Die Themen der Decke, Weisheit, Ruhm und Herrschaft, sind im Kontext geschichtsphilosophischer Theorien gesehen und damit auf eine höhere Ebene transponiert. Hier soll, unter Zuhilfenahme der Inschriften über die Gesetzmäßigkeiten des Geschichtsverlaufs nachgedacht werden: über die Veränderlichkeit der Welt, den natürlichen Aufstieg und Verfall, das Altern einzelner Völker und Epochen, den Verlust und die Übernahme von Herrschaft und Kultur als Folge dieser Prozesse. Bei der Interpretation der Geschichtsauffassung Ottos von Freising hat man auf drei Gesetzmäßigkeiten verwiesen: die Vergänglichkeit aller Dinge, das Elend (das allerdings im ersten Gesetz aufgehe) und die räumliche Bewegung von Ost nach West (Hans-Werner Goetz, Das Geschichtsbild Ottos von Freising, Köln-Wien 1984, Anm. III/123). Eine solche Sicht von der Ordnung der Historie ist auch für die Decke des Kaisersaals kennzeichnend. Sie ist entstanden im Zusammenfluß antiker und christlicher Vorstellungen bei den Kirchenvätern (Hieronymus, Augustinus, Orosius), die ihrerseits Otto von Freising und die mittelalterliche Weltchronistik beeinflußt haben.
+
+Die einzige Möglichkeit, den Wechselfällen der Geschichte. der Instabilitas und dem damit verbundenen Elend zu begegnen, bietet vom ethisch-moralischen Standpunkt aus die Virtus. Vom Standpunkt der Geschichtsphilosophie sind es die Translationsmodelle, die eine ungebrochene Kontinuität garantieren. Durch die Ost-West-Bewegung sind Bildung und Macht nach Rom gelangt und dienen seiner Verherrlichung, durch die {ZITAT|006} ist der Fortbestand des Römischen Reichs bis in die Gegenwart und bis zum Untergang der Welt gesichert. Das ideale Weiterleben der Leistungen der antiken Vergangenheit und besonders Roms als Vorbild und Verpflichtung konnte der Humanismus hier mit patristisch-mittelalterlicher Geschichtsanschauung in Einklang bringen. Der Gedanke eines politischen Weiterlebens des Römischen Reichs im Kaisertum, den die italienischen und französischen Humanisten entschieden ablehnten, während man in Deutschland daran festhielt, spielt im Kaisersaal nur eine untergeordnete Rolle im Sinne der Aufrechterhaltung der politischen Ordnung der christlich-germanischen Welt
+
+Das ikonographische Programm des Saals ist ebenso wie das der Trierzimmer von allgemeiner Gültigkeit. Ein Bezug zum Auftraggeber wird nicht hergestellt, es findet sich keine Anspielung auf konkrete politische und persönliche Situationen. Die Themen für das allegorische Cosamthan konzept entstammen allein der antiken Geschichte und der Geschichts- und Moralphilosophie, mythologische, emblematische oder christliche Darstellungen fehlen völlig. An den Wänden kommt das einzelne Ereignis zur Geltung, die historische Tat, die praktische Seite der Geschichte, die im Exemplum Ausdruck findet; die Decke dagegen ist der Spekulation über bestimmte historische Prozesse vorbehalten. Das bedeutet in der Bewertung eine Steigerung von den Wänden zur Decke, wie es der Unterscheidung in der Historiographie Ottos von Freising zwischen {ZITAT|007} und {ZITAT|008} entspricht, wobei der letzteren der höhere Rang beigemessen wird; sie wird als {ZITAT|009} bezeichnet (Goetz, loc. cit. S. 49). Im 16. Jh. findet das seine Entsprechung im Begriff {ZITAT|010}, den der Staatstheoretiker Bodin geprägt und jenen Historikern des Altertums beigelegt hat, die mehr vermittelten als nur eine einfache {ZITAT|011} (Klempt, loc. cit., S. 69). Im Saal sind beide Bereiche vertreten und allegorisch ausgedeutet. Das nicht auf einen bestimmten Gesichtspunkt eingeengte, sondern vielschichtige und bewußt allgemein gehaltene Dekkenprogramm eröffnet eine Fülle von Assoziationsmöglichkeiten für den gelehrten Betrachter. Den größten Ausdeutungsspielraum bietet dabei der Rom-Gedanke: Antikenverehrung, paradigmatisch für Aufstieg und Niedergang, heilsgeschichtliche Bedeutung, Fortleben durch die {ZITAT|012}. Der imperiale Bezug kann als {ZITAT|013} für einen kaiserlichen Besucher aufgefaßt werden, dessen Appartement der Saal als {ZITAT|014} dienen konnte.
+
+Das Programm ist humanistisch, entwickelt aus der Kenntnis der antiken Autoren und der Kirchenväter. Es versteht Geschichte als moralische Beispielsammlung, die für den Staatsmann Anschauungsmaterial bietet. Darin hat auch bereits Otto von Freising ihren Sinn gesehen. Aus der Widmung seiner Chronik an Friedrich Barbarossa geht hervor, daß der Kaiser durch sie für seine Regierungstätigkeit Beispiele erhalten solle, für die Kriegskunst wie für die Rechtsprechung, {ZITAT|015} (Goetz, loc. cit. S. 49), eine Formulierung, die an den Prolog der >Institutiones < Justinians erinnert. In dieser Einführung ins Römische Recht wird ebenfalls auf die Aufgabe des Herrschers verwiesen, auf sein Amt in zweifacher Weise vorbereitet zu sein, sowohl für den Krieg als für den Frieden. Dieser Gedanke der ›doppelten Ausrüstung« wurde innerhalb der Residenz als Ausgangspunkt für das Programm der Trierzimmer gewählt. Die in dieser Raumflucht geschilderten Grundsätze für das Verhalten des Herrschers und seiner Ratgeber ergänzen das Programm des angrenzenden Saals, das der Geschichte als Lehrmeisterin des Fürsten gilt. Hier sind Wesen und Aufgaben des moralisch determinierten Herrscheramts formuliert wie in den Fürstenspiegeln. Das hat man auch im 17. Jh. so gesehen. Der Beichtvater des bayerischen Kurfürsten, der Jesuit Johannes Vervaux, nennt die Themen der Deckenbilder von Trierzimmern und Kaisersaal in den von ihm veröffentlichten Erziehungsinstruktionen, die Maximilian seinem Sohn Ferdinand Maria hinterlassen hat Diese
+
+>Monita paterna< wurden bereits 1639 verfaßt, aber erst 1662 in den von Vervaux geschriebenen, aber unter den Namen von Johann Adlzreiter veröffentlichten Annales gentis boicae« publiziert (III, S. 613 ff.). Nach dem Ver gleich von Maximilians Regierungskunst und Staatsklug heit mit der Philipps II. fährt Vervaux in seiner Vorrede fort: {ZITAT|016} (Spirant eximiam sapientiam selecta ab eo Apophthegmata, variis emblematibus novi palatii ins cripta, S. 612. Die deutsche Fassung stammt aus der vier sprachigen Ausgabe von du Crest, 1719, Vorrede, o. S.; aus die Zusammenstellung der Sinnsprüche in der Residenz mit den Monita paterna hat erstmals Heinz Dollinger, Kur fürst Maximilian I. von Bayern und Justus Lipsius, in Archiv für Kulturgeschichte 46, 1964, S. 231, hingewiesen ohne die Darstellungen zu identifizieren). Als Darstellun gen, für die Maximilian selbst die Inschriften festgeleg habe, nennt Vervaux ausdrücklich die der Deckenbilder des Kaisersaals (A, B, C) und von drei Trierzimmern (I<sub>A-D</sub> V<sub>A-B</sub>, VI<sub>A-D</sub>), allerdings ohne sie zu lokalisieren und leite dann mit den Worten {ZITAT|017} unmittelbar zum eigentlichen Zweck der Publikation über.
+
+Diese Nachricht aus gut unterrichteter Quelle, daß Maximilian der Erfinder der Inschriften sei, klingt glaubhaft, wenn sie auch erst zehn Jahre nach seinem Tod mitgeteilt wurde. Trotz konventioneller panegyrischer Züge deutet sie auf eine starke Beteiligung des Auftraggebers an der Festlegung und Ausarbeitung des Programms, die über seine auch sonst übliche kontrollierende Funktion noch hinausgegangen zu sein scheint, wohl deshalb, weil ihm an der Präsentation von Grundsätzen der Staatstheorie und politischen Ethik besonders gelegen war. Es ist von besonderem historischem Interesse, daß die Beschäftigung mit einem Stoff, der, soweit man sehen kann, 1639 zum ersten Mal in den selbstverständlich stärker an der Praxis orientierten Regierungsanweisungen für den Sohn schriftlich formuliert wurde, bereits im Bildprogramm der Residenz mehr als zwanzig Jahre früher einsetzte.
+
+Dollinger (loc. cit., S. 227) hat auf die Abhängigkeit der >Monita paterna< von den über ganz Europa verbreiteter Ideen von Justus Lipsius hingewiesen, vor allem auf desser 1589 erschienene > Politica <, seine auf neu-stoischer Grund lage errichtete Staatslehre, die die Herrschaft auf Pruden tia und Virtus gegründet sein läßt. Stärker noch war der Einfluß der jesuitischen Staatslehre des Adam Contzer (Politicorum libri decem, Mainz 1620), der seinerseits aus Lipsius zurückgeht, aber auch auf die spanischen Jesuiter des 16. Jh., z.B. Bellarmin (Ernst-Albert Seils, Die Staats lehre des Jesuiten Adam Contzen, Beichtvater Kurfürs Maximilians I., Lübeck-Hamburg 1968). Nach Erscheiner seines Buches wurde Contzen 1623 als Beichtvater Maximi lians aus Iülich nach München berufen
+
+Wie stark Maximilian an dieser Thematik persönlich interessiert war, zeigt sich an den Büchern, die er aus der
+<!-- citation-page-bottom: Band03-2 p195 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=24 -->
+<!-- citation-page-top: Band03-2 p196 -->
+
+<!-- header: RESIDEN -->
+
+<!-- header: THEATINERGAN -->
+
+Hofbibliothek auslieh. Im März 1618, zu einem Zeitpunkt, als die Ausstattung der Residenz gerade ihrer Vollendung entgegenging, waren dies u.a. ein ›Corpus Juris‹, die ›Politica‹ und andere staatstheoretische Schriften von Lipsius, Werke von Botero, Bellarmin und Gretser, mehrere Fürstenspiegel aus dem Jahre 1558, Gesamtausgaben von Hieronymus, Augustinus und Gregor dem Großen und vor allem Geschichtswerke der Antike und der neueren Zeit (Rupert Hacker, Die Münchner Hofbibliothek unter Maximilian I., in: Katalog Wittelsbach II/1, S. 357 f.)
+
+Maximilians sorgfältige humanistische Erziehung kulminierte im Studium der Rechtswissenschaften an der Universität Ingolstadt. Ihr galt neben der Geschichte seine besondere Neigung. Er wurde geformt und stand auch später in geistigem Austausch mit den Gelehrten des bayerischen Späthumanismus, vorwiegend Jesuiten, deren Tätigkeit als Philologen und Historiker vielleicht bisher zu wenig beachtet wurde gegenüber ihrer theologischen und pädagogischen Aktivität. Aufgrund seiner Studien war Maximilian durchaus in der Lage, auf literarischer Grundlage ein Bildprogramm wie das von Kaisersaal und Trierzimmern zu entwickeln oder sich zumindest entscheidend daran zu beteiligen.
+
+1619 entstand im Goldenen Saal des neuerbauten Augsburger Rathauses ein auf die Freie Reichsstadt zugeschnittenes, politisches Bildprogramm, für das, wie in München Candid die Entwürfe lieferte, die allerdings von dem Augsburger Stadtmaler Johann Matthias Kager realisiert wurden. Dieses Programm hatte der Jesuitenpater Matthäus Raderus in München in Zusammenarbeit mit Candid entwickelt. Bei der Parallelität der Aufgaben – der Ausschmückung von zwei großen Festsälen – und der aus den Quellen bekannten Orientierung der Augsburger Künstler an München (zur Ausstattung des Goldenen Saals zuletzt Susan Tipton, in: Katalog Ausstellung Elias Holl und das Augsburger Rathaus, Augsburg 1985, S. 241–54; 377–85, sowie den Essay von Sergiusz Michalski, Das Ausstattungsprogramm des Augsburger Rathauses, ebd. S. 77–90), läßt sich vermuten, daß Raderus auch beratend bei der Ausarbeitung des Programms des Kaisersaals mitgewirkt hat, zumal ihn Maximilian etwa gleichzeitig beim Programm des Theatinergangs der Residenz zugezogen hatte (s.S. 198, 209).
+
+<b>Quellen und Literatur</b>
+
+BHStA I, HR II, 1, 1614, 1615. Pistorini 1644, fol. 18 v–28 r. Faßmann 1770, S. 341–49. Adlzreiter (Vervaux) 1662, S. 612 f. Monconys 1666, S. 352. Pallavicino 1667, S. 10–20. Schmid 1685, S. 13–27. Misson 1687, S. 103 f., 106 f. Wening 1701, S. 2. Kalmbach 1719, S. 12–28. Pöllnitz 1719, S. 10 f. Nachrichten zur baierischen Geschichte aus noch unbenutzten Quellen. München 1812, S. 118 (Der österreichische General Bernklau in Baiern. Aus: der Kriegs- und Heldengeschichte des Hrn. J. L. Baron von Bernklau, k. k. General-Feldmarschall-Lieutenant, Erfurt 1747, 8). Bianconi 1763, S. 23. Nicolai 1781, S. 521. Westenrieder 1782, S. 53 ff. Haeutle 1883, S. 58. Rée 1885, S. 183–89. Bassermann-Jordan 1900, S. 137–41 und Abb. 92–94. Kloos, S. 232 ff. Herbst, Arnulf, Zur Ikonologie des barocken Kaisersaals, in: 106. Bericht des Historischen Vereins Bamberg 1970, S. 245. Kultzen, Rolf und Peter Eikemeier, Venezianische Gemälde des 15. und 16. Jh., Alte Pinakothek München, Gemäldekataloge Bd 9, München 1971, S. 245 ff. und Abb. 132–45. Walter, Renate von, Das Augsburger Rathaus, Architektur und Bildgehalt, Augsburg (1972), S. 65 f. Andersen 1973, S. 178–81, 206–208, 220–25 und Abb. 2–5. Volk-Knüttel 1976, S. 75 ff. Brunner 1977, S. 66, 77 und Abb. 66 f. Kat. Candid-Zeichnungen 1978, S. 50 ff. und Abb. 24, 26. Stierhof, H. in: Kat. Wittelsbach 1980, II/1, S. 274. Beil, Toni, Die Wiederherstellung des Kaisersaals in der Münchner Residenz, in: Arx 2, 1985, S. 74–80, und Abb. 7.1–7.9. Brunner / Hojer / Seelig 1986, S. 136–143 und Abb. 14. B. V.-K.
+
+[[File:Band03-2_chunk004_p024_img001.jpg|thumb]]
+
+{{End}}

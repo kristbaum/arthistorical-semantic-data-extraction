@@ -1,0 +1,513 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=197
+|Originalseitenbis=210
+|Lemma=München, Residenz, Theatinergang
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Kaisersaal
+|danach=München, Residenz, Hans-Steininger-Treppe
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+THEATINERGANG  
+Gang (Raum 114) im Hauptgeschoß nach W gegen die Residenzstraße. Von hier aus ehemals Zugang zu einem gedeckten Gang entlang der Stadtmauer mit Verbindung zu anderen höfischen Gebäuden und zu Klöstern, daher Theatiner- oder ›Jesuiter‹-Gang genannt (Wening, S. 3). Die auch übliche Bezeichnung Wappengang geht auf die 1840 an die Wände gemalten Wappen bayerischer Städte zurück. Deckenbilder im Zweiten Weltkrieg zerstört.
+
+'''Zum Bauwerk:''' Der im zweiten Jahrzehnt des 17. Jh. entstehenden Vierflügelanlage um den Kaiserhof wurde im W – an der Schwabingergasse (Residenzstraße) – ab Ende des Jahres 1613 ein in der Flucht der Gasse verlaufender Trakt vorgeblendet, der die bereits bestehenden mit den neuen Bauten der Residenz verbinden und eine einheitliche Fassade zur Stadt hin schaffen sollte. In diesem Trakt liegt im ersten Stock der Theatinergang.
+
+Langer, schmaler Gang (81 × 4 m) zu achtzehn Gewölbejochen. Zugang von S vom Hartschiersaal. Verbindung im NO über den Vorplatz der Steiningertreppe zum Vierschimmelsaal. Infolge der Richtungsdivergenz des Ganges und der Steinzimmer entstanden dazwischen Zwickelräume, über die vom Gang aus die als Gästeappartement dienende Zimmerflucht betreten und bewirtschaftet werden konnte. Belichtung im W durch 16 Fenster. Auf das nördlichste Fenster folgte das (heute zugemauerte) Portal mit Stuckmarmorrahmung, durch das man ehemals auf den gedeckten Gang an der Stadtmauer gelangte.
+
+Die ursprüngliche Anzahl der Fenster ist unklar. Im Gegensatz zur heutigen Situation zeigt der Pariser Plan (s. S. 24) das Portal unvermauert und außerdem die im N zum Hofgarten gerichtete Seite ebenfalls durchfenstert; es sind also insgesamt 17 Fenster und ein nach außen führendes Portal eingezeichnet. Dadurch divergiert der Plan mit den Residenzbeschreibungen, in denen, unabhängig, ob von einer Verbindung nach außerhalb durch ein Portal berichtet wird oder nicht, die Gesamtzahl der Fenster mit 18 angegeben ist. Damit steht in Übereinstimmung ein Eintrag in den Hofbauamtsrechnungen vom August 1615, die Tagwerker hätten 18 Fensterbänke zum Gang hinaufgetragen (d.h. zum Versetzen; HBStA I, HR II, 1, 1615, Steinmetzen Nr. 42).
+
+'''Auftraggeber:''' Herzog Maximilian I. von Bayern (1598–1651; Kurfürst ab 1623)
+
+'''Autor und Entstehungszeit:''' Peter Candid (*um 1548 Brügge † 1628 München, s.S. 141); Hans Käppler (s.u.); Ferdinand Gottbewahr (*um 1580 † 18. 12. 1646 München); Hans Oberhofer (* 1585, 1615 Meister in München); Augustin Vogl (*Salzburg, 1600 Meister in München, † 1616 München); 1615/16
+
+Das Eingangsportal an der S-Seite verweist durch seine Inschrift MAXIMILANVS BAV. DVX MDCXVI auf die Vollendung des Theatinergangs, dessen Ausführung seit Ende des Jahres 1613 nachweisbar ist (BHStA I, HR II, 1 1613: Maurer, 50. Woche; 1614: Maurer Nr. 68) Die Dekoration des Gewölbes fällt in das Jahr 1615. Voraussetzung für die Deckenmalerei war das Vorhandensein des Stuckrahmenwerks, das von Piechl und Marolt gefertigt und 1615 abgerechnet worden war (Profile der Felderrahmungen, Gesimse, Kämpfer und Schrifttafeln; BHStA I, HR II, 1, 1615, Maurer Nr. 83).
+
+Die Zahlungen für die Maler begannen am 24. Juli 1615. Hans Käppler, Mitarbeiter Candids, erhielt von da ab bis Ende Dezember für die ersten dreizehn (von S ausgehend) der insgesamt siebzehn Allegorien im Gewölbescheitel eine Bezahlung von je 15 fl. (BHStA I, HR II, 1, 1615: Malerei Nr. 88, 95, 100, 107, 112, 116, 125, 129, 131, 135, 139). Es ist anzunehmen, daß er die Arbeiten im folgenden Jahr, aus dem die Rechnungen nicht erhalten sind, vollendet hat.
+
+[[File:Band03-2_chunk004_p024_img002.jpg|thumb|Blick in den Theatinergang nach N (Vorkriegszustand)]]
+<!-- citation-page-bottom: Band03-2 p197 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=25 -->
+<!-- citation-page-top: Band03-2 p198 -->
+
+<!-- header: RESIDEN7 -->
+
+<!-- header: THEATINERGANG -->
+
+
+[[File:Band03-2_chunk004_p025_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img002.jpg|thumb|u. 8 Münchner]]
+
+
+
+[[File:Band03-2_chunk004_p025_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img004.jpg|thumb]]
+
+
+Hans Käppler war Schüler des älteren Hans Donauer, seit 1605 Meister in München und zusammen mit Hans Brüderl und Christoph Zimmermann für Candid vor allem bei der Vorbereitung der Wandteppiche beschäftigt. 1614/15 führt er die Kartons für die Kaisersaalteppiche aus (Thieme Becker, s.v. Käppler, Johann; Volk-Knüttel 1976, S. 51, 78, 86, 144, 146; Liedke-Meisterbuch, S. 28f., 33).
+
+Gleichzeitig mit den ersten Zahlungen an Käppler wurden drei weitere Maler für Groteskenmalereien im Theatinergang entlohnt: Hans Oberhofer (s.S. 197), Augustin Vogl (s.S. 197) und der Candidschüler Ferdinand Gottbewahr. Gottbewahr entstammte einer flämischen Familie – sein Vater Hans Gottbewahr war Hofbortenmacher – und hatte 1604 sein Lehrjahr begonnen; von 1606–13 war er als Geselle für Candid tätig und wurde 1614 Meister (Volk-Knüttel 1976, S. 50; Liedke-Meisterbuch, S. 336, 55). Die Bezahlung an Gottbewahr bezieht sich darauf, daß er in einigen »Spickeln« (keilförmig zulaufendes Feld) Grotesken gemalt hatte, die jedoch auf Befehl des Herzogs wieder entfernt und durch Stuck ersetzt werden mußten (loc. cit., 1615: Malerei Nr. 85: 5 fl. 10 kr.). Außer ihr malte Hans Oberhofer »drei dergleichen Crotesckha diß ortts« (ebd., Nr. 86: 6 fl.), während Augustin Vogl »4 dergleichen Crotesckha auf Papie müessen fürmahlen« (ebd., Nr. 87: 8 fl.). In der Literatur wurden bishe die genannten »Spickel« teils mit Stichkappen, teils mit den nach unten schmal auslaufenden, auf Konsolen endigenden Gewölbezwickeln identifiziert. Letztere müssen gemeint sein, da sie eine Stuckierung mit florale und figürlichen Motiven aufweisen. Die Stichkappen dagegen sind mit den Ahnenbildnissen bemalt, die von Anfang an für diesen Platz vorgesehen waren, da ihre Inschriftkartuschen bei der Ausführung des Stuckrahmenwerks eigens erwähnt werden. Für das genealogische Bildprogramm hatte auf Veranlassung des Herzogs der Jesuit Matthäus Rader Vorschläge ausgearbeitet, die am 9. August 1615 von Maximilian mit einem Begleitbrief an seinen Geheimsekretär Gewold zur Begutachtung weitergereicht wurden (s.S. 209). Ende Juli 1615 lag also das Programm für die Stichkappen noch nicht im Einzelnen fest, die Ausführung hatte deshalb noch nicht begonnen. Da Hans Käppler aber im Gewölbe seit Juli bereits mit der Ausführung der Allegorien beschäftigt war, und zwar zunächst in den beiden südlichen Jochen, wurde wohl auch hier der Versuch mit den Groteskenmalereien gemacht, worauf die Gleichzeitigkeit der Abrechnungen mit Käppler einerseits, Gottbewahr, Oberhofer und Vogl andererseits hinweist. Die Stukkaturen mit Groteskenmotiven, für die sich Maximilian statt der Malereien schließlich entschied und deren Entwurf Krumpe zugeschrieben wird, schuf Michele Castelli (ebd., 1615: Stukkatore Nr 159: 450 fl am 5 September).
+
+Die Erfindung der allegorischen Deckenbilder 1-17 geht auf Peter Candid zurück, von dessen Hand sich kleine, rasch ausgeführte Ideenskizzen erhalten haben, auf denen die Figuren mit ihren Attributen knapp skizziert und die geplanten Inschriften – teilweise italienisch – eingetragen sind. Eine Numerierung von 1–17 legt die Abfolge im Gewölbe von S nach N fest, die bei der Ausführung eingehalten wurde (Kat. Candid-Zeichnungen, Nr. 34-50). In einer Folge von vierzehn größeren, quadrierten Zeichnungen sind die Figuren detaillierter ausgeführt. Diese Zeichnungen sind aus stilistischen Gründen nicht Candid zuzuschreiben, sondern einer Mitarbeiter, wahrscheinlich dem ausführenden Maler Hans Käppler selbst, von dem jedoch sonst keine Zeichnungen nachgewiesen sind (Kat. Candid-Zeichnungen, S. 58f.).
+
+Die Bilderfindung der Ahnenporträts P 1–36 geht vermutlich ebenfalls auf Candid zurück. Die Bildnisse der wichtigsten Persönlichkeiten der
+
+
+[[File:Band03-2_chunk004_p025_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img006.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img007.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img008.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img009.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img010.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img011.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img012.jpg|thumb]]
+
+
+bayerischen Genealogie, Karls des Großen, Ottos von Wittelsbach und Ludwigs des Bayern folgen Formulierungen, die Candid selbst zwischen 1601 und 1605 in Deckenbildern für die Erdgeschoßräume der Residenz geschaffen hat (s.S. 127f.). Zur Ausführung gibt es keine Hinweise in der Rechnungen (die Bände ab 1616 fehlen); eine Zeichnung von Candid steht möglicherweise mit einem der Porträts in Zusammenhang (s. S. 122 f., 127)
+
+
+== Zeichnungen ==
+
+
+Siebzehn Skizzen von Peter Candid für die Allegorien 1-17, alle Feder in Grau, grau laviert, SGS Mü (Kat. Candid-Zeichnungen, Nr. 34–50, Abb. 27-43)
+
+Vierzehn Zeichnungen von Hans Käppler (?), SGS Mü (abgebildet nur die erste, S. 200)
+
+
+== lu 2 Nobilitas ==
+
+
+
+[[File:Band03-2_chunk004_p025_img013.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img014.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img015.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p025_img016.jpg|thumb|zu 16 Militia]]
+<!-- citation-page-bottom: Band03-2 p199 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk005.pdf#page=1 -->
+<!-- citation-page-top: Band03-2 p200 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: THEATINERGANO -->
+
+Zu 10 Landishuta, Feder in Grau, grau laviert, weiß gehöht, auf gelblich getöntem Papier, mit schwarzem Stift quadriert, 17,5 × 14,7 cm, Inv. Nr. 116 (Rée, S. 171. – Bassermann-Jordan, S. 125. – Knüttel II, 102).
+
+Zu 11 Straubinga, Feder in Schwarz und Grau, grau laviert, weiß gehöht, gelb getöntes Papier, mit schwarzer Feder quadriert, 18,4 × 14,8 cm, Inv. Nr. 108 (Rée, S. 171. – Bassermann-Jordan, S. 121, 125 und Abb. 82. – Knüttel II, 103).
+
+Zu 12 Oenus, Feder in Schwarz, grau laviert, auf bräunlich getöntem Papier, mit der Feder quadriert, 17,5 × 14,6 cm, Inv. Nr. 111 (Rée, S. 171. – Bassermann-Jordan S. 126. – Knüttel II, 104. – Kat. Candid-Zeichnungen Nr. 53 und Abb. 46).
+
+Zu 13 Isar, Feder in Schwarz, grau laviert, weiß gehöht, bräunlich getöntes Papier, mit der Feder quadriert, 17,5 × 14,5 cm, Inv. Nr. 115 (Rée, S. 171. – Bassermann-Jordan, S. 125. – Knüttel II, 105).
+
+Zu 14 Salinae  
+1. Fassung, Feder in Schwarz, grau laviert, weiß gehöht, bräunliches jedoch nicht präpariertes Papier, mit Rötel und schwarzem Stift quadriert, 17,9 × 13,5 cm, Inv. Nr. 113 (Rée, S. 171. – Bassermann-Jordan, S. 126. – Knüttel II, 106).
+
+2. Fassung, Feder in Schwarz, grau laviert, weiß gehöht, auf bräunlich getöntem Papier, mit Rötel und schwarzem Stift quadriert, 18,4 × 14,4 cm, Inv. Nr. 114 (Rée, S. 171. – Bassermann-Jordan, S. 126 und Abb. 83. – Knüttel II, 107).
+
+Zu 16 Militia, Feder in Schwarz, grau laviert, weiß gehöht, auf gelblich getöntem Papier, mit Rötel quadriert, 18,2 × 14,0 cm, Inv. Nr. 112 (Rée S. 171. – Bassermann-Jordan, S. 126. – Knüttel II, 108).
+
+Zu 17 Religio, Feder in Schwarz und Grau, schwarzer Stift auf gelblich getöntem Papier, mit schwarzem Stift quadriert, 18,9 × 14,7 cm, Inv. Nr. 104 (Rée, S. 171. – Bassermann-Jordan, S. 124. – Knüttel II, 109).
+
+[[File:Band03-2_chunk005_p001_img001.jpg|thumb]]  
+[[File:Band03-2_chunk005_p001_img002.jpg|thumb|H. Käppler (?), Zeichnung zu 2 Nobilitas (erste Fassung)]]  
+
+== Befund ==  
+
+Träger der Deckenmalerei: ursprünglicher Anbringungsort Längstonne zu achtzehn Gewölbejochen mit Stichkappen; 1-17 waren im Gewölbescheitel, P<sub>1-36</sub> in den Stichkappen angebracht  
+
+Rahmen: Ornamentstuckfelderung  
+Technik: wohl Fresko-Secco; polychrom  
+Maße (nach Seidel, II. Abth., 2. Blatt):  
+Höhe des Raumes 6,40 m  
+1, 3, 5, 7, 9, 11, 13, 15, 17 1,70 × 1,25  
+2, 4, 6, 8, 10, 12, 14, 16 2,10 × 1,00  
+P<sub>1–36</sub> 0,80 × 0,55  
+
+Verbleib und Restaurierungen: Sämtliche Fresken wurden mit der Decke 1944 zerstört. Beim Wiederaufbau wurden die Stukkaturen rekonstruiert, die Deckenbilder nicht. Vorkriegsphotos unterschiedlicher Qualität liegen vor.  
+
+In der Literatur wurde der Zustand der Deckenbilder vor der Zerstörung allgemein als schlecht bezeichnet, wobei zwischen künstlerischer Qualität und Erhaltungszustand nicht immer deutlich unterschieden wird. Die Allegorien im südlichen Teil des Ganges scheinen besser erhalten gewesen zu sein als die im nördlichen. Die in Fresko-Secco-Technik ausgeführten Bilder waren, wie sich auch in andern Residenz-Trakten und in Schleißheim zeigte, nicht sehr haltbar und wurden bald restaurierungsbedürftig. Der Residenzbrand 1674 (s.S. 20) hatte auch den Gang in Mitleidenschaft gezogen. Noch 1674 ließ man den Stuck durch Isaac Pader d. J. ausbessern und das Pflaster des Fußbodens reparieren (BHStA I, HR II, 13, 1674). Eine Bezahlung an Caspar Amort läßt sich vielleicht mit einer sicher ebenfalls notwendigen Restaurierung der Deckenbilder in Zusammenhang bringen (Bauamtsabrechnung über die »Residenzreparationen« vom 17. 10. 1674, BHStA I, HR I, 25/89 Prod. 67: ... »Caspar am Orth maler wegen des neugemalten gangs und der facciada in und auswendig der residenz 850 fl.«). Zwischen dem 27. Juni und dem 13. August 1791 reparierte Jakob Dorner den Plafond (HBStA I, HR I, 279, Nr. 6/II).  
+
+Bassermann-Jordan (S. 121) gibt im Jahr 1900 ohne weitere Begründung an, daß in früherer Zeit wenigstens zwei Restaurierungen stattgefunden hätten und erwähnt eine weitere, deren Zeuge er war, durch einen Kunstmaler Kohl.  
+
+Eine Beurteilung der Gemälde nach den Photos und ein Vergleich mit den Skizzen Candids und den Zeichnungen Käpplers (?) zeigt, daß die Personifikationen bis in Handhaltung und Kopfneigung den Entwürfen entsprechen. Bei der Kleidung gibt es gelegentlich Abweichungen, die aber durch Änderungen noch während der Planung entstanden sein können. Dennoch zeigten viele der Darstellungen, vor allem im nördlichen Teil des Ganges, nicht mehr den Charakter des frühen 17. Jh., was durch zahlreiche Erneuerungen der Malsubstanz erklärt werden muß. Den besten Eindruck des originalen Zustands vermittelt das Photo der Venatio-Allegorie: hier sind außerdem die Details bis zum Baum im Hintergrund, Schmuck und Jagdgerät der Jägerin und ihre Hunde genau zu erkennen.  
+
+Rekonstruierende Beschreibung und Ikonographie: Das rekonstruierte lange und schmale Tonnengewölbe, in das von beiden Seiten jeweils achtzehn Stichkappen einschneiden, zeigt eine Stuckdekoration mit Lorbeerstäben, Akanthusranken, Rosetten und Masken; über den Spitzen der Stichkappen sind gerahmte Reliefdarstellungen mit Putten angebracht. Diese alternieren mit den Bildfeldern im Gewölbescheitel (1-17), die ihrerseits im Format wechseln: Oval und Rechteck mit eingezogenen, gestelzten Halbkreisen an den Schmalseiten. Jedes Deckenbild zeigte eine einzige Sitzfigur in leichter Untersicht vor freiem Himmel, gerahmt von landschaftlichen und architektonischen Motiven; Attribute und eine lateinische Inschrift auf dem Sockelabschnitt am unteren Bildrand bezeichneten die Figur. – Die Zählung der Gewölbebilder 1-17 erfolgt in der Blickrichtung von S nach N. Sinngemäß sind die Darstellungen jedoch paarweise der zentralen Darstellung der Bavaria (0) zugeordnet.  
+
+In den Stichkappen befand sich in stuckgerahmten Ovalfeldern jeweils eine gemalte Bildnisbüste (P<sub>1–36</sub>), auf deren Sockel das Wappen des Dargestellten. Unter dem Medaillon befanden sich in rechteckig gerahmtem Feld je eine lateinische Inschrift und eine Ziffer: Die Zählung der numerierten Ahnenporträts begann entsprechend der Herrscherfolge am N-Ende des Gangs im ersten Joch an der W-Seite und setzte sich an der gegenüberliegenden Stichkappe fort, sodaß die ungeraden Ziffern auf der W-Seite, die geraden auf der O-Seite waren.  
+
+Die in den folgenden Beschreibungen gegebenen wenigen Farbangaben folgen Pistorini.  
+
+1-17 ALLEGORIEN AUF DAS LAND BAYERN (zerstört; Schwarz-Weiß-Photos)  
+
+1 CONCORDIA Die Gestalt der Eintracht ist in herkömmlicher Weise durch eine Frau wiedergegeben, die mit dem linken Arm gebündelte Lanzen umfaßt, während sie mit der Rechten einen Granatapfel hochhält.  
+
+2 NOBILITAS Reich gekleidet und mit Ketten geschmückt, den rechten Fuß auf einem Kissen, umfaßt Nobilitas in Gestalt einer vornehmen Frau mit der rechten Hand eine Lanze, in der Linken hält sie eine Statuette der Victoria oder Virtus. Sie folgt der Darstellung bei Ripa (s. v. nobiltà), wo die Allegorie jedoch außer der Lanze eine Statuette der Minerva hält, da Nobilitas durch Ruhm, Wissenschaft oder Waffen zu erwerben sei. Im Gesichtstyp, vor allem in Details wie der Bildung der Lippen und in Einzelheiten der Kleidung zeigt die Figur Verwandtschaft mit den Gestalten auf den Kaisersaalteppichen, so daß hier, über den Candid-Stil hinaus, auch die Eigenart Käpplers faßbar wird.  
+
+3 VENATIO Eine jugendliche Jägerin in grünem Kleid, das Jagdhorn in der erhobenen Rechten, hält mit der anderen Hand zwei Hunde an der Leine, ein großer dritter Hund ist im Hintergrund links zu sehen. Die Darstellung zeigt thematisch Verwandtschaft mit der Jagdallegorie aus einem der Charlottenzimmer (s.S. 134f.) und mit dem Hippolyt-Teppich für den Kaisersaal, dessen Karton von Käppler ausgeführt wurde (vgl. Volk-Knüttel 1976, Kat. Nr. 63 und Abb. 179).  
+
+4 ACADEMIA Die Figur wird durch ein aufgeschlagenes Buch auf ihrem Knie und weitere Bücher zu ihren Füßen als Academia gekennzeichnet, bezogen auf die bayerische Universitätsstadt Ingolstadt, die im Hintergrund zu sehen ist. Rechts erkennt man das Schloß, links die Liebfrauenkirche in der Anordnung wie in Donauers Vedute im Antiquarium.  
+
+5 LYCUS Der Lech ist, wie auch die drei anderen bayerischen Flüsse, dargestellt durch einen alten Flußgott mit langem Bart und Schilf auf dem Haupt. Mit dem rechten Arm stützt er sich auf eine Urne, aus der Wasser fließt, mit der Linken umfaßt er ein Ruder (?). In der Skizze Candids und der Zeichnung Käpplers ist übereinstimmend der Lech durch eine weibliche Figur wiedergegeben.  
+
+6 DANUBIUS Ein alter Flußgott, dem Lech ähnlich, Allegorie der Donau, sitzt frontal mit gekreuzten Beinen, in der linken Hand ein Schilfrohr, und läßt aus der Urne, auf der sein rechter Arm ruht, in breitem Strom Wasser laufen. Im Wasser ein Donauwaller  
+
+7 BURGHUSYUM Die Allegorie Burghausens, eine durch Perlen geschmückte und reich gekleidete Frau, umfaßt mit der Rechten ein großes Schwert, mit der Linken hält sie vor ihren Körper einen Schild mit dem Wappen der Stadt, in rotem Feld eine zinnenbewehrte Burg mit geöffnetem Tor.  
+
+8 MONACHIUM Ein Engel mit großen Flügeln hält vor sich eine goldene, mit Engelskopf verzierte Kartusche mit dem Wappen der Stadt München, dem Mönch mit dem Buch in weißem Feld  
+
+9 BAVARIA Die Personifikation Bayerns, in der Mitte des Theatiner-gangs, trägt über blauem Rock ein bis über die Knie reichendes, weißblau gerautetes Obergewand und einen goldenen Gürtel. Den goldenen Helm schmücken grüne Zweige und üppige Federbüsche in Weiß und Blau. Um den Hals trägt sie eine Perlenkette. In der Rechten hält sie ein Ährenbündel, die Linke greift in das mächtige Geweih eines Hirsches, während ihr Fuß auf einer Salzscheibe ruht. Links ist, als weitere Anspielung auf das Landeswappen, neben dem Gewand ein Löwenkopf zu sehen.  
+
+[[File:Band03-2_chunk005_p001_img003.jpg|thumb]]  
+[[File:Band03-2_chunk005_p001_img004.jpg|thumb]]  
+<!-- citation-page-bottom: Band03-2 p201 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk005.pdf#page=2 -->
+<!-- citation-page-top: Band03-2 p202 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: THEATINERGAN -->
+
+
+[[File:Band03-2_chunk005_p002_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p002_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p203 -->
+
+
+== RESIDENZ ==
+
+=== 2 Nobilitas ===
+'''1-17''' Allegorien auf das Land Bayern (zerstört)
+
+'''15 PISCATUS''' Eine ländlich gekleidete junge Frau, einen breitragenden Strohhut auf dem Kopf, ist durch Angel und Fische in ihren Hals allegorisch des Fischfangs kenntlich gemacht.
+
+'''16 MILITIA''' Mit Lanze und Gorgonenschild bewehrt, auf Waffen und Kriegsinstrumenten thronend, ist das Kriegswesen durch Minerva repräsentiert. Die Göttin trägt über rotem Kleid ein blaues Obergewand und auf dem Haupt einen goldenen Helm mit üppigem Federbusch. Brust und Schultern sind durch einen Panzer geschützt.
+
+'''17 RELIGIO''' Eine Frau im Priestergewand mit zum Himmel gerichtetem Blick hält mit der Linken ein Weihrauchgefäß. Auf einem Tisch sind Brote, Meßkännchen und Kanne zu sehen, deren Henkel sie mit der Rechten umfasst.
+
+'''P1-36 PORTRÄTS WITTELSBACHER REGENTEN''' (zerstört; Schwarz-Weiß-Photos) Die Reihe Wittelsbacher Ahnenporträts ist mit oft nur geringfügigen Varianten nachgestochen in der Festschrift »Fortitudo Leonina«, die die Jesuiten 1715 zur Rückkehr Max Emanuels aus dem Exil herausgegeben hatten. Die um 1730 entstandenen Ahnenporträts in der Ahnengalerie der Residenz (s.S. 334) von Jacopo Amigoni und seiner Werkstatt sind ihrerseits Kopien der Porträts aus der »Fortitudo Leonina« und gehen damit indirekt ebenfalls auf den Theatinergang zurück (s. Seelig, Nr. 86).
+
+'''P1 ANSBERT''' Legendärer Hausmeier († angeblich 579) Büste im Dreiviertelprofil nach links in pelzverbrämtem Gewand über einem Hemd mit schmaler Borte, auf die Schulter herabfallendes Haar. Wappen: Steigender gekrönter Löwe. Inschrift: ANSBERTVS ALIIS / ASOPERTVS S/8 Münch MAIOR DOMVS./ 1. Vorbild für das Porträt war Dürers Selbstbildnis auf dem 1506 datierten Rosenkranzfest oder ein davon abhängiges Einzelbildnis des Künstlers (Fortitudo Leonina, IV; Ahnengalerie, Nr. 86, vgl. Seelig, Nr. 86).
+
+'''P2 ARNOLD''' Legendärer Hausmeier und Herzog von Brabant († angeblich 601) Büste im Dreiviertelprofil nach rechts in durch zwei Schließen gehaltenem, pelzverbrämten Gewand über weißem Hemd, auf die Schultern herabfallendes Haar. Wappen: Geviert, Feld 1 und 4 einma geteilt, oben Doppeladler, unten Turm mit drei Zinnen, Feld 2 und 3 steigender Löwe. In der »Fortitudo Leonina‹ hat Arnold ein anderes Wappen – ebenfalls geviert, 1 und 4 steigender Löwe nach herald. links, 2 und 3 zwei wachsende Adler übereinander — sein Wappen hingegen trägt dort Hugibert, Markgraf von Antwerpen, der im Theatinergang nicht vertreten ist. Inschrift: ARNOLDVS SEV /ARNVLPHVS MAIOR / DOMVS./ 2. (Fortitudo Leonina, V; Ahnengalerie, Nr. 89; vgl. Seelig, Nr. 89.)
+
+'''P3 ARNULF''' Hausmeier und Bischof von Metz († 641) Büste frontal, Kopf ins Dreiviertelprofil nach links gedreht in einem Gewand mit weich umgeschlagenem Kragen, auf dem Kopf eine Kappe. Wappen: Geviert, 1 und 4 einmal geteilt, oben Doppeladler, darunter Turm mit Zinnen, 2 steigender Löwe nach herald. rechts, 3 nach herald. links. Dieses Wappen ist in der »Fortitudo Leonina« dem Ansegisel beigegeben – die Löwen allerdings in beiden Feldern nach herald. rechts gerichtet – während Arnulf dort anstelle des Turms in Feld 1 und 4 wachsende Bären trägt. Inschrift: S. ARNOLPHVS, MAIOR / DOMVS POSTEA EPI / SCOPVS METENSIS./ 3. — (Fortitudo Leonina, VI; Ahnengalerie, Nr. 87; vgl. Seelig, Nr. 87.)
+
+'''10 Landshut'''
+
+'''P4 ANSEGISEL''' Hausmeier († 685) Büste im Dreiviertelprofil nach rechts in pelzverbrämtem Gewand, über perlenbesetztem Untergewand, auf dem Haupt eine mit einem Schmuckstück verzierte Sendelbinde. Wappen: wie 2. Inschrift: ANSCHISIVS ALIAS / ANGISVS, SEV ANGISO / MAIOR DOMVS./ 4. – (Fortitudo Leonina, VII; Ahnengalerie, Nr. 85; vgl. Seelig, Nr. 85.)
+
+'''P5 PIPPIN, DER MITTLERE''' Hausmeier (um 635–714) Büste im Dreiviertelprofil nach rechts in pelzverbrämtem Obergewand, auf dem Haupt ein flaches Barett mit seitlich zwei Einschnitten, langer Bart. Wappen: Steigender gekrönter Löwe nach herald. links. Inschrift: PIPINVS MARTELLI / PATER, MAIOR / DOMVS./ 5. – (Fortitudo Leonina, VIII, mit kurzem Bart; Ahnengalerie, Nr. 84; vgl. Seelig, Nr. 84.)
+
+'''P6 KARL MARTELL''' Hausmeier (um 688/89–741) Büste im Dreiviertelprofil nach links im Harnisch, auf dem Haupt ein großes, schräg sitzendes Barett mit einem Einschnitt. Wappen: Geviert, Einzelheiten nicht erkennbar. Möglicherweise identisch mit dem Wappen der Darstellung in der »Fortitudo Leonina«: 1 schräg stehende Krone, 2 steigender Löwe nach herald. links, 3 Turm mit drei Zinnen, 4 drei Zacken. Inschrift: CAROLVS MARTEL / LVS PIPINI REGIS / PATER./ 6. – (Fortitudo Leonina, IX; Ahnengalerie, Nr. 88; vgl. Seelig, Nr. 88.)
+
+'''P7 PIPPIN DER JÜNGERE''' König der Franken (um 715–768) Büste im Dreiviertelprofil nach links im Harnisch mit sehr großen, bizarr geformten Schulterstücken, über dem Helm eine Krone. Wappen: Dre Lilien. Inschrift: PIPINVS CAROLI / M. PATER FRAN / CORVM REX./ 7. — In diesem Porträt verbinden sich, wie Seelig nachweist, mehrere Motive der Bronzestandbilder des Maximiliansgrabs in Innsbruck. Wie auch bei den von Candid entworfenen Wandteppichen wird hier für die historische Darstellung in den Kostümdetails auf das beginnende 16. Jahrhundert zurückgegriffen (Fortitudo Leonina, X; Ahnengalerie, Nr. 83; vgl. Seelig, Nr. 83.)
+
+'''P8 KAISER KARL DER GROSSE''' (742–814) Büste im Dreiviertelprofil nach rechts im Schuppenpanzer, darüber den zur Seite geschlagenen Kaisermantel, der durch eine große, mit Steinen besetzte Schließe gehalten wird, auf dem Haupt die Kaiserkrone (Mitrenkrone). Wappen: Doppeladler. Der dem Adler aufgelegte Brustschild ist gespalten, weitere Einzelheiten nicht mehr erkennbar. In der »Fortitudo Leonina«, XI, ist hinten ein Schrägrechtsbalken zu erkennen. Inschrift: CAROLVS M. IMPERATOR / PRIMVS EX GERMANIS / ET FRANCIS AVGVSTVS./ 8. – Als Vorlage der Darstellung diente ein Ganzfigurenbildnis Karls des Großen, das Candid zwischen 1601 und 1605 für die Residenz malte (s.S. 127) (Übereinstimmend Fortitudo Leonina XI, während die Darstellung der Ahnengalerie nicht dem Vorbild Candids folgt, sondern auf Dürers 1512/13 datierte Tafel mit dem Bildnis des Kaisers zurückgeht; vgl. Seelig, Nr. 29).
+
+'''P9 PIPPIN''' König von Italien (781–810) Büste im Dreiviertelprofil nach links in gemustertem, durch eine Borte verzierten Mantel, auf der linken Schulter durch eine Schließe gehalten, auf dem Haupt eine durchbrochene Krone. Bekröntes Wappen, im Schild ein Adler. Inschrift: PIPINVS REXITALIAE / CAROLI MAGNI / FILIVS./ 9. (Fortitudo Leonina XII; die Darstellung fehlt in der Ahnengalerie. Zur Abhängigkeit der Gestaltung der Krone vom Maximiliansgrab in Innsbruck vgl. Seelig, zu Nr. 83.)
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk005.pdf#page=3 -->
+<!-- citation-page-top: Band03-2 p204 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: THEATINERGANO -->
+
+
+[[File:Band03-2_chunk005_p003_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img002.jpg|thumb|<sub>a</sub> Bernhard]]
+
+
+
+[[File:Band03-2_chunk005_p003_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img006.jpg|thumb]]
+
+
+P<sub>10</sub> BERNHARD KÖNIG VON ITALIEN (um 797 (?) – 818) Büste im Dreiviertelprofil nach links; dunkler, mit Juwelen gesäumter Mantel lose um die Schultern gelegt; auf dem Haupt eine Bügelkrone. Bekrönte Wappen, im Schild ein Adler. Inschrift BERNARDVS REGIS PIPINI FILIVS REX ITALIAE / CAROLI M. NEP. / 10. (Fortitudo Leonina, XIII Ahnengalerie, Nr. 16; vgl. Seelig, Nr. 16.)
+
+P<sub>11</sub> PIPPIN Legendärer Graf von Lengenfeld Büste im Dreiviertelprofil nach links im Harnisch, darüber eine Prunkkette mit einem Kreuz als Anhänger, auf dem Haupt ein weiches, abgestuftes Barett. Der Stich in der »Fortitudo Leonina« zeigt ihn dagegen in einem weiten Renaissancemantel, die Passe mit einer Borte eingefaßt, mit spitzem Ausschnitt und umgeschlagenen Kragen. Wappen: Steigender Löwe, von Querstreifen überdeckt, über dem Schild ein Schrägrechtsbalken, belegt mit drei Adlern (?). Inschrift PIPINVS BERNARDI / F. PRIMVS EX REGVM SOBOLE COMES IN / LENGELFELD. / 11. (Fortitudo Leonina XIV; Darstellung fehlt in der Ahnengalerie; vgl. Text zu P<sub>20</sub>.)
+
+P<sub>12</sub> BERNHARD Legendärer Graf von Lengenfeld Büste im Dreiviertelprofil nach rechts im pelzverbrämten Brokatgewand, auf dem Haupt ein federgeschmücktes Barett. Wappen: wie P11, aber belegt mit vier Adlern (?). Inschrift BERNARDVS COMES / LENGENFELDENSIS / ARNOLPHI PATER. / 12. (Fortitudo Leonina, XV; Darstellung fehlt in der Ahnengalerie.)
+
+P<sub>13</sub> ARNULF Legendärer Graf von Lengenfeld († angeblich 891) Büste im Dreiviertelprofil nach rechts im Harnisch, auf dem Kopf eine eng anliegende Haube. Wappen: Schräg gerautet. Inschrift ARNOLPHVS COMES / IN LENGELFELD / BELLI DVX. /13. (Fortitudo Leonina, XVI; Ahnengalerie, Nr. 15; vgl. Seelig, Nr. 15, der auf motivische Verwandtschaft zum hl. Georg des Paumgartner Altars von Dürer verweist.)
+
+P<sub>14</sub> LUITPOLD Markgraf (†907) Büste im Dreiviertelprofil nach rechts im Harnisch, barhäuptig. Wappen: Wie 13. Inschrift LVITBALDVS EX COMI / TIBVS LENGELFELD: / DVX NORICORVM, ET / MARCHIO AVSTRIAE. / 14. (Fortitudo Leonina, XVII; Darstellung fehlt in der Ahnengalerie.)
+
+P<sub>15</sub> ARNULF DER BÖSE Herzog von Bayern (†937) Büste im Dreiviertelprofil nach links im Harnisch, auf dem Haupt ein federgeschmücktes Barett. Wappen: Wie 13. Inschrift ARNOLPHVS ALIAS / ARNOLDVS PRINCEPS / BOIARIAE. / 15. (Fortitudo Leonina, XVIII; Ahnengalerie, Nr. 14; vgl. Seelig, Nr. 14; vgl. auch Candids Darstellung des Herzogs, ehemals im Erdgeschoß der Residenz, entstanden zwischen 1601 und 1605, s.S. 127.)
+
+
+[[File:Band03-2_chunk005_p003_img007.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img008.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img009.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img010.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img011.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img012.jpg|thumb|P<sub>16</sub> Arnulf]]
+
+
+
+[[File:Band03-2_chunk005_p003_img013.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p003_img014.jpg|thumb]]
+
+
+P<sub>16</sub> ARNULF Pfalzgraf (†954) Büste im Dreiviertelprofil nach rechts in einem mit Borten besetzten Obergewand, unter dem das Hemd sichtbar ist, über der Brust liegt eine Prunkkette, auf dem Haupt trägt er ein schräg sitzendes großes Barett mit einem Rautenmuster an der Krempe. Wappen: Schräg gerautet, im Herzschild ein Zickzackband. Inschrift ARNOLPHVS PALAT. / CONDITOR ARCIS / VNDE SCHIRENSES / PALATINI BOIORVM. / 16. - (Fortitudo Leonina, XIX; Ahnengalerie, Nr. 13; Seelig, Nr. 13.)
+
+P<sub>17</sub> BERTHOLD Legendärer Graf von Scheyern († angeblich 982) Büste im Dreiviertelprofil nach rechts in pelzverbrämtem Brokatgewand, auf dem Haupt ein flaches Barett über einer Haube. Wappen: Wie 16. Inschrift BERTHOLDVS COMES / SCHIRENSIS / PALATINVS / BOIORVM. / 17. - (Fortitudo Leonina, XX; Ahnengalerie, Nr. 12; vgl. Seelig, Nr. 12.)
+
+P<sub>18</sub> WERNER Legendärer Graf von Scheyern († angeblich um 1010) Büste im Dreiviertelprofil nach links in einem Obergewand mit gemusterten Überschlägen, die am Rand mit einem breiten Band besetzt sind, darunter Hemd und Wams, auf dem Haupt ein Barett aus genopptem Stoff mit aufgeschlagener Krempe. Wappen: Wie 16. Inschrift WERNERVS COMES / SCHIRENSIS OTHONIS / PRIMI PATER. / 18. – (Fortitudo Leonina, XXI; Ahnengalerie, Nr. 11; vgl. Seelig, Nr. 11)
+
+P<sub>19</sub> OTTO I. Legendärer Graf von Scheyern († angeblich 1006 oder 1040) Büste im Dreiviertelprofil nach links im Harnisch und federge-schmückten Barett. Wappen: Wie 16. Inschrift OTHO I. COMES SCHIRENSIS PRAEFECTVS / PRAETORIO ROM : IM / PERII: / 19. – (Fortitudo Leonina, XXII; Ahnengalerie, Nr. 10; vgl. Seelig, Nr. 10.) - Ein Skizzenblatt von Candid (New York, Pierpont Morgan Library, IV, 57, verso; Abbildung S. 122), auf dem mehrfach die Gestalt eines sitzenden Herzogs in Untersicht gezeichnet ist (vgl. hierzu Candids Darstellung Arnulfs des Bösen auf einem Lünettenbild, ehemals im Erdgeschoß der Residenz, s. S. 127), zeigt auf der Rückseite den Oberkörper eines gerüsteten Ritters bis zur Hüfte, die linke Hand am Schwertgriff, den rechten Arm, dessen unterer Teil nicht mit gezeichnet ist, erhoben. Es besteht Verwandtschaft mit Otto von Scheyern, vor allem beim Dekor des Harnischs, dessen große Schulterstücke allerdings auf dem gemalten Porträt noch stärker hochgezogen sind, und durch die Anzahl der Federbüsche auf dem Barett. Die nicht frei, sondern nach einer Vorlage gefertigte Skizze benutzte Candid möglicherweise bereits für eines der zwischen 1601 und 1605 entstandenen genealogischen Porträts und verwendete diesen Typus erneut im Theatinergang
+
+P<sub>20</sub> OTTO II. nach heutiger Zählung Otto I., Graf von Scheyern († 1072) Büste im Dreiviertelprofil nach links in pelzverbrämtem Obergewand, über das eine Hobelspankette gelegt ist, auf dem Haupt ein großes,
+<!-- citation-page-bottom: Band03-2 p205 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk005.pdf#page=4 -->
+<!-- citation-page-top: Band03-2 p206 -->
+
+<!-- header: PESIDEN7 -->
+
+<!-- header: THEATINERGANG -->
+
+
+[[File:Band03-2_chunk005_p004_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img004.jpg|thumb]]
+
+
+rechts und links eingehnittenes Barett. Wappen: Wie 16. Inschrift
+
+P<sub>21</sub> OTTO III. nach heutiger Zählung Otto II., Graf von Scheyern († nach 1107) Büste im Dreiviertelprofil nach links in einem Obergewand mit großem, nur schwach erkennbaren Kragen, darunter ein geschlitztes Wams und weißes Hemd, auf dem Haupt ein Barett mit Hutschnur und Feder. Wappen: wie 16. Inschrift OTHO III: WITTELSBACH / ENSIS COMES, CONDI / TOR ARCIS ET NOMINIS. / 21. – Als Vorlage diente das 1533 datierte Porträt Ottheinrichs von der Pfalz von Barthel Beham (BSGS, Inv. Nr. 2449), das zu einer ebenfalls 36 Exemplare umfassender Bildnisreihe des Hauses Wittelsbach gehörte, die Maximilian I. in seiner Kammergalerie zusammengestellt hatte (s. Erichsen, S. 179ff.; Fortitudo Leonina, XXIV; Ahnengalerie, Nr. 20; vgl. Seelig, Nr. 20.)
+
+P<sub>22</sub> OTTO IV. Graf von Scheyern († 1156) Büste im Dreiviertelprofil nach rechts in einem Obergewand, das auf der Brust durch eine Agraffe geschlossen ist, darunter ein durch kleine Knöpfe geschlossenes Wams und ein am Halsausschnitt verziertes Hemd, auf dem Haupt ein Barett mit Feder. Wappen: Wie 16. Inschrift OTHO IV. WITTELSBACHIVS COMES SENIOR. / 22. (Fortitudo Leonina, XXV; Ahnengalerie, Nr. 21; vgl. Seelig, Nr. 21.)
+
+P<sub>23</sub> OTTO V., Otto I., Pfalzgraf von Wittelsbach, Herzog von Bayern (*um 1117, †1183) Büste im Dreiviertelprofil nach rechts im Harnisch, der vorne mit einer Palmette verziert ist, darüber ein hermelinverbrämter zur Seite geschlagener Mantel, vorne durch ein Schmuckstück geschlossen, auf dem Haupt ein hermelinverbrämter Herzogshut. Wappen: Wie 16. Inschrift OTHO V. MAGNVS / PRIMVS DVX BOIARIAE / EX WITTELSBACHENSI / ORIGINE. / 23. – (Fortitudo Leonina, XXVI; Ahnengalerie, Nr. 22, dort seitenverkehrt; vgl. Seelig, Nr. 22). Die Darstellung geht zurück auf ein zwischen 1601 und 1605 für das Erdgeschoß der Residenz geschaffenes Bildnis Ottos von Wittelsbach von Candid (s. S. 128ff.).
+
+P<sub>24</sub> LUDWIG I. DER KELHEIMER Herzog von Bayern und Pfalzgraf bei Rhein (1172–1231) Büste im Dreiviertelprofil nach links im Kurmantel mit dreifach gestuftem Hermelinkragen, auf dem Haupt den Kurhut. Wappen: Geviert, Feld 1 und 4 schräg gerautet, 2 und 3 steigender Löwe. Inschrift LVDOVICVS I. IDEMQVE / PRIMVS EX BOIIS COMES / PALAT RHENI / ELECTOR. / 24. – (Fortitudo Leonina, XXVII; die Darstellung fehlt in der Ahnengalerie; vgl. Seelig, zu Nr. 24.)
+
+P<sub>25</sub> OTTO VI. Otto II. der Erlauchte, Herzog von Bayern und Pfalzgraf bei Rhein (ca. 1206–1253) Büste im Dreiviertelprofil nach links im Kurmantel mit dreifach gestuftem Hermelinkragen, auf dem Haupt den Kurhut. Wappen: Wie 24. Inschrift OTHO VI. PALAT. RHENI VTRIUSQUE / BAVARIAE / DVX ELECTOR. / 25. – (Fortitudo Leonina, XXVIII; Ahnengalerie, Nr. 24; vgl. Seelig, Nr. 24.)
+
+P<sub>26</sub> LUDWIG II. DER STRENGE Herzog von Bayern und Pfalzgraf bei Rhein (1229–1294) Büste im Dreiviertelprofil nach rechts im Kurmantel mit dreifach gestuftem Hermelinkragen, auf dem Haupt den Kurhut. Wappen: Wie 24. Inschrift LVDOVICVS II. SEVERVS / COM: PALAT: RHENI SV / PER: BAV: DVX. ELECTOR / IMPERII. / 26. – (Fortitudo Leonina, XXIX; die Darstellung fehlt in der Ahnengalerie; vgl. Seelig, zu Nr. 24.)
+
+P<sub>27</sub> KAISER LUDWIG IV. DER BAYER (1282–1347) Büste en face, den Kopf ins Dreiviertelprofil nach links gewendet, in zur Seite geschlagenem, mit Perlen verzierten Kaisermantel, darunter die perlengeschmückte Stola, auf dem Haupt die Kaiserkrone (Mitrenkrone). Wappen: Doppeladler, Herzschild gerautet. Inschrift LVDOVICVS IIII. BAVARVS / ROMANORVM IMPERATOR / IV. ALIAS V. COM: HOLAND / ET SELAND: / 27. – (Fortitudo Leonina, XXX; Ahnengalerie, Nr. 30, dort einem anderen Typus folgend; vgl. Seelig, Nr. 30). Die Formulierung geht zurück auf ein Bildnis des Kaisers, gemalt von Candid für die Residenz zwischen 1601 und 1605 (s. S. 127f.).
+
+P<sub>28</sub> STEPHAN II. mit der Hafte, Herzog von Niederbayern (1319–1375) Büste im Dreiviertelprofil nach links im Harnisch, darüber über der Brust gekreuzte Riemen, ein locker um den Hals gelegtes Tuch, dessen glatt auf der Brust liegendes Ende mit Rauten und Fransen geziert ist, auf dem Haupt der Kurhut. Wappen: Wie 24. Inschrift STEPHANVS COM: PAL: / RHENI SVPER: BOIA/RIAE DVX, S. ROM: IMP: / ELECTOR / 28. Abgesehen vom Kurhut folgt die Darstellung dem hl. Eustachius auf dem 1613 von Herzog Maximilian erworbenen Paumgartner-Altar von Dürer (vgl. Seelig, Nr. 56). (Fortitudo Leonina, XXXI; Ahnengalerie, Nr. 56.)
+
+P<sub>29</sub> JOHANN Wohl Johann II., Herzog von Oberbayern-München (ca. 1341–1397) Büste im Dreiviertelprofil nach rechts im Harnisch, darüber ein Mantel mit hohem Kragen, mit einer Hobelspankette mit Anhänger. Wappen: Wie 24. Inschrift IOANNES COMES / PALAT: RHENI SVPE/RIORES BAVARIAE / DVX. / 29. (Fortitudo Leonina, XXXII; das Bildnis der Ahnengalerie, Nr. 50, das laut Inschrift Herzog Johann darstellt, folgt nicht dem hier vorliegenden Porträt Nr. 29, sondern paraphrasiert Stich Nr. XIV der Fortitudo Leonina, der Pippin, den legendären Grafen von Lengenfeld wiedergibt und seinerseits auf Porträt 11 des Theatinergangs zurückgeht, wobei der Harnisch in einen Renaissancemantel umgeändert wurde. Es ist deshalb zu vermuten, daß Nr. 50 der Ahnengalerie ursprünglich nicht Herzog Johann, sondern Pippin darstellen sollte; vgl. Seelig, Nr. 50, als Herzog Johann.) (Abb. S. 200)
+
+
+[[File:Band03-2_chunk005_p004_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img006.jpg|thumb|der Kelheimer Par Otto]]
+
+
+
+[[File:Band03-2_chunk005_p004_img007.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img008.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img009.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img010.jpg|thumb|Albrecht II. (IV.), der Weise]]
+
+
+
+[[File:Band03-2_chunk005_p004_img011.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p004_img012.jpg|thumb|ALBERTVS II. SAPIENS, VVLGO IV. COM PAL: RHE: / VTRIVSQ. BOIARIAE DVX. / S. ROM: IMP: CAPITANEVS 32.]]
+
+
+P<sub>30</sub> ERNST Herzog von Oberbayern-München (1373–1438) Büste im Dreiviertelprofil nach rechts im Harnisch, über den eine Kette mit gefaßtem Stein als Anhänger gelegt ist. Wappen: Wie 24. Inschrift ERNESTVS COMES / PALATINVS RHENI / ET SVPERIORIS / BOIARIAE DVX. / 30. (Fortitudo Leonina, XXXIII; Ahnengalerie, Nr. 52; vgl. Seelig, Nr. 52.) (Abb. S. 209)
+
+P<sub>31</sub> ALBRECHT I. DER FROMME Nach heutiger Zählung Albrecht III., Herzog von Oberbayern-München (1401–1460) Büste im Dreiviertelprofil nach rechts in pelzverbrämtem Brokatgewand, über das eine doppelte Prunkkette mit Anhänger gelegt ist. Wappen: Wie 24. Inschrift ALBERTVS I. PIVS / COM: PALATINVS / RHENI BAVARIAE / DVX. 31 (Fortitudo Leonina, XXXIV; die Darstellung fehlt in der Ahnengalerie)<br>Vorbild für die Darstellung war Wolfgang Kilians Stich Nr. 13 in Gewolds Genealogia von 1605 (vgl. Seelig, Anm. 172).
+
+P<sub>32</sub> ALBRECHT II. DER WEISE Nach heutiger Zählung Albrecht IV. Herzog von Bayern (1447–1508) Büste en face, den Kopf ins Dreiviertelprofil nach rechts gewendet, im Harnisch, auf dem Haupt ein Barett. Wappen: Wie 24. Inschrift ALBERTVS II. SAPIENS, VVLGO IV. COM PAL: RHE: / VTRIVSQ. BOIARIAE DVX. / S. ROM: IMP: CAPITANEVS. 32. (Fortitudo Leonina, XXXV, dort im Gegensinn: Ahnengalerie Nr. 41 ist eine genaue Kopie des Beham-Porträts; vgl. Seelig, Nr. 41 und zu Nr. 56). Wie Seelig zu Nr. 56 nachwies, kopierte man für das vorliegende Bildnis die Rüstung des hl. Georg auf dem 1613 durch Maximilian erworbenen Paumgartner-Altar von Dürer, für das Antlitz und die Barettform hingegen war ein 1535 datiertes Porträt Albrechts IV. von Bartel Beham vorbildlich.
+
+P<sub>33</sub> WILHELM I. Nach heutiger Zählung Wilhelm IV., Herzog von Bayern (1493–1550) Das Medaillon zeigt den Dargestellten im Dreiviertelprofil nach links in pelzverbrämtem Obergewand über verziertem Wams und eng gefälteltem Hemd mit gesticktem Stehkragen. Über dem Hemd liegen zwei Ketten, die untere mit einem Kreuz als Anhänger; über den Pelzkragen ist außerdem eine große Gliederkette gelegt, auf dem Haupt trägt er ein kleines Barett mit Schmuckstücken, jedoch ohne Feder. Wappen: Wie 24, jedoch seitenverkehrt. Inschrift GULIELMUS I. VULGO IV. COM: PAL: RHE: UTRIUSQUE: BOIARIAE DUX SAC: ROM: IMP VICARIUS (nach Bassermann-Jordan, S. 178) (Fortitudo Leonina XXXVI; Ahnengalerie, Nr. 43, dem jedoch das 1533 datierte Porträt Wilhelms IV. von Bartel Beham zugrunde liegt; vgl. Seelig, Nr. 43). Der<br>Stich in der >Fortitudo Leonina< und die zerstörte Darstellung des Theatinergangs entsprechen – im Gegensinn – dem postumen Porträt Wilhelms
+<!-- citation-page-bottom: Band03-2 p207 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk005.pdf#page=5 -->
+<!-- citation-page-top: Band03-2 p208 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: RESIDENZ -->
+
+
+[[File:Band03-2_chunk005_p005_img001.jpg|thumb]]
+
+
+IV. im sog. Wittelsbacheralbum im Bayerischen Nationalmuseum, München, das 1578 datiert ist und Christoph Schwarz zugeschrieben wird (Kat Wittelsbach, II/1, Taf. 16, Abb. 30; vgl. auch Seelig, Anm. 189).
+
+P<sub>34</sub> ALBRECHT III. Nach heutiger Zählung Albrecht V., Herzog von Bayern (1528–1579); Das Medaillon XXXVII der >Fortitudo Leonina« zeigt den Dargestellten im Dreiviertelprofil nach rechts in pelzverbrämtem Gewand mit schmaler Halskrause und mit der Kette des Ordens vom Goldenen Vlies. Wappen: Wie 24, jedoch seitenverkehrt. Inschrift ALBERTU III. DICTUS V. COM: PALAT: RHE: UTRIUSQUE BAVARIAE DUX (nach Bassermann-Jordan, S. 178). Die Formulierung der Fortitudo Leonina und auch die des Wappengangs folgt einem von Hans Werl für die Kammergalerie Maximilians I. gefertigten Porträt, das vor 1605 entstanden ist (Erichsen, S. 182; Fortitudo Leonina, XXXVII; Ahnengalerie, Nr. 45; vgl. Seelig, Nr. 45).
+
+P<sub>35</sub> WILHELM II. Nach heutiger Zählung Wilhelm V., Herzog von Bayern (1548–1626) Büste im Dreiviertelprofil nach rechts in pelzverbrämtem Gewand mit weißem Kragen, auf der Brust Kette und Kleinod des Ordens vom Goldenen Vlies. Wappen: Wie 24. Inschrift GVLIELMVS II . VVLGO / V. COM: PALATINVS RHE: / VTRIVSQVE BOIARIAE / DVX. 35. Die Darstellung geht zurück auf ein Porträt Wilhelms V., das Hans Werl vor 1605 für die Kammergalerie Maximilians I. geschaffen hat (Erichsen, S. 182; Fortitudo Leonina, XXXVIII; Ahnengalerie, Nr. 47; vgl. Seelig, Nr. 47).
+
+P<sub>36</sub> MAXIMILIAN I. Herzog von Bayern, Kurfürst, Reichserztruchseß (1573–1651) Büste im Dreiviertelprofil nach rechts im Harnisch mit darübergelegter Draperie und hochstehendem weißen Umlegekragen Wappen: Geviert, Feld 1 und 4 schräg gerautet, 2 und 3 steigender Löwe. Im Herzschild der Reichsapfel, Insigne des Truchsessenamtes. Inschrift MAXIMILIANUS I. D: G: COM. PAL: RHE: UTRI: BAV: DUX S.R.I. ARCHIDAPIFER ET ELECTOR (nach Bassermann-Jordan, S. 178). Dem Bildnis Maximilians liegt eine aktuelle Porträtaufnahme aus der Zeit der Ausstattung des Theatinergangs zugrunde, das Wappen wurde nach Erlangung der Kurwürde (1623) verändert (s. Erichsen, Princeps Armi Decoratus. Zur Ikonographie Kurfürst Maximilians I., in: Kat. Wittelsbach, II, 1, Nr. 26 und Abb. 69; übereinstimmend mit P36 Fortitudo Leonina, XXXIX; nach anderer Vorlage Ahnengalerie, Nr. 38; vgl. Seelig
+
+Kalmbach, Faßmann und Hübner erwähnen als 37. Darstellung ein Porträt Ferdinand Marias, das aber nur außerhalb der Stichkappen Platzgefunden haben könnte. Faßmann schreibt es mit dem in Feld 36 dargestellten Maximilian I. dem Maler Nikolaus Prugger zu. Schmid, Misson Wening und von Pöllnitz erwähnen kein Ferdinand-Maria-Porträt (Seelig, Anm. 164).
+
+
+[[File:Band03-2_chunk005_p005_img002.jpg|thumb]]
+
+
+
+== Ikonologie ==
+
+
+Das Programm des Theatinergangs bezieht sich auf Bayern, auf die Kontinuität der Herrschaft der Dynastie der Wittelsbacher und auf die Vorzüge des Landes als Folge natürlichen Reichtums und guten Regiments. Die Mitte der Galerie nimmt eine Personifikation der Bavaria (d ein, kenntlich durch das weiß-blau gerautete Kleid und den Löwen zu ihren Füßen in Anspielung auf das Landeswappen, während ihre übrige Attribute die Schätze der Natur, Salz, Wild und Getreide, verdeutlichen. Unter den Voraussetzungen für diese Allegorik steht Aventins Beschreibung des Landes in seiner Bayerischen Chronik an erster Stelle: »Da ganz land in der gemain ist vast fruchtpar, reich an salz, traid, viech vischen, holz, waid, wildprät und kurz alles, so zu der schnabelwaid dien ist allda übrigs genueg. Viech, salz, traid wird in ander lant getrieber gefüert und verkauft« (Johannes Turmair's genannt Aventinus Bayerische Chronik. Hg. Matthias Lexer, Bd 4, München 1883, S. 41). Auf eine solche Charakterisierung Bayerns als Agrarland beziehen sich auch die um 1590 für den Südlichen Residenzgarten geschaffene Bronzefigur der Tellus Bavarica von Hubert Gerhard (Kat. Wittelsbach 1980, II/2, Nr. 392, mit Abb.) und das mit dem Theatinergang etwa gleichzeitige Titelkupfer des von Maximilian herausgegebenen Bayerischen Landrechts von 1616 (ebd. Nr. 393, mit Abb.). Auf die natürliche Beschaffenheit des Landes verweisen im Theatinergang neben Fischfang (15) und Jagd (3) auch die vier großen bayerischen Flüsse Inn (12), Isar (13), Donau (6) und Lech (5) als Sinnbilder des Wasserreichtums. Ihre Nutzung durch Goldwaschen und Perlenfischerei war dem Landesherrn vorbehalten. Von ungleich größerer wirtschaftlicher Bedeutung für das Land war die sehr einträgliche Salzproduktion, auf die in der Allegorie von Salinae (14) angespielt ist, während die Universität Ingolstadt Bayerns Bedeutung für die Pflege der Wissenschaft (4) veranschaulicht.
+
+Der Bavaria (9) in der Mitte der Decke stehen die vier Rentämter (7-8, 10-11) als die Verwaltungsbezirke des Territoriums unmittelbar zur Seite. Die alte Einteilung in die Tetrarchiae, die 1507 neu organisiert wurde, spielt in Aventins Beschreibung keine Rolle, erst in den 1568 bis 1574 von Jakob Sandtner geschaffenen fünf Stadtmodellen erscheinen die vier Rentamtssitze Straubing (11), München (8), Landshut (10) und Burghausen (7) gemeinsam mit der Universitätsstadt Ingolstadt, die verwaltungsmäßig eine gewisse Eigenständigkeit bewahrt hatte, aber kein Rentamt war. Philipp Apian, der etwa gleichzeitig mit Sandtner sein großes kartographisches Werk, die Bayerischen Landtafeln bearbeitet und 1568 herausgegeben hatte, plante diesem Werk eine Beschreibung des Landes beizufügen, »Declaratio tabulae sive descriptionis Bavariae«, die ebenfalls nach Rentämtern unterteilt und durch die Wiedergabe von Wappen und Ortsansichten bereichert werden sollte. Diese Arbeit konnte der Autor († 1589) nicht mehr vollenden, das Fragment wurde erst 1880 veröffentlicht (Philipp Apians Topographie von Bayern und bayerische Wappensammlung, zur Feier des siebenhundertjährigen Herrscherjubiläums des erlauchten Hauses Wittelsbach, hg. von dem Historischen Vereine von Oberbayern, in: OAVG 30, 1880).
+
+Im Gegensatz zur Bavaria, die schon bei Hubert Gerhard vorgebildet ist, scheinen die Rentämter im Theatinergang überhaupt zum ersten Mal personifiziert worden zu sein. Sie sind symbolisiert durch Wappenhalter, die thematisch Bezug nehmen auf die redenden Wappen, die sie präsentieren. Ein geharnischter Ritter mit den drei Eisenhelmen im Schild und ein Bauer mit dem Pflug vertreten Landshut bzw. Straubing, während ein Engel mit dem Mönch für München und eine Frau mit dem Schwert hinter dem Wappen mit dem Burgtor für Burghausen stehen.
+
+Außer realitätsbezogenen Elementen enthalten die Allegorien auf das Land Bayern auch panegyrische Züge. In der Festschrift zur Einweihung der Michaelskirche, die die Jesuiten Rader und Gretser 1597 herausgaben, wird die dem Bauherrn Wilhelm V. gewidmete ›Elegia Bavaria‹ mit einem Lobpreis der natürlichen Reichtümer des Landes eingeleitet (Barbara Bauer, Theorie und Praxis der jesuitischen Rhetorik und Poetik. ungedr. Diss. München 1980, S. 662 ff.). Alle naturbedingten Gegebenheiten - Wald, Wasser, Vögel, Fisch, Wild – sind hier, wie bereits bei Aventin, vertreten. Die Lobrede auf das Territorium geht über in die Herrscherpanegyrik, wechselt, nach den Regeln der Rhetorik, vom äußeren Wohlstand zur höher eingeschätzten inneren Stabilität, die dem Landesvater zu verdanken ist. Die ›Elegia Bavaria‹, deren Mitverfasser Rader 1615 an der Festlegung des genealogischen Programms des Theatinergangs beteiligt war, zeigt die Relevanz der Lob-Rhetorik für die Gestaltung von Bildthemen oder ganzen Programmen, gerade im höfischen Bereich. Auch in der Thematik des Theatinergangs vollzieht sich die Wendung vom Land zum Regiment und damit zum Landesherrn. Darauf spielen unter den Personifikationen außer den Rentämtern die Paare Militia (16) und Nobilitas (2) an, als jene Machtmittel und Kräfte, deren sich der Fürst zur Ausübung seines Amtes bedient, welches in der Wahrung der Einigkeit (1) und im Schutz des rechten Glaubens (17) besteht. Vor allem aber verweist der Auftraggeber in der bis zu ihm heraufreichenden Bildnisreihe derjenigen Ahnen, die vor ihm das Land regiert haben, auf die in ununterbrochener
+
+
+[[File:Band03-2_chunk005_p005_img003.jpg|thumb|Gewölbeansicht des Theatinergangs mit den Feldern 3 Venatio und 4 Academia, P<sub>29</sub> Herzog Johann und P<sub>30</sub> Herzog Ernst (Vorkriegszustand)]]
+
+
+
+[[File:Band03-2_chunk005_p005_img004.jpg|thumb|P<sub>34</sub>, Albrecht III (V.)]]
+
+
+
+[[File:Band03-2_chunk005_p005_img005.jpg|thumb|P<sub>22</sub> Wilhelm I. (IV.)]]
+
+
+
+[[File:Band03-2_chunk005_p005_img006.jpg|thumb|P<sub>31</sub> Albrecht I. (III.), der Fromme]]
+
+
+Reihenfolge von Mitgliedern seiner Dynastie in Bayern ausgeübte Herrschaft (P<sub>1-26</sub>).
+
+Wie andere Fürsten seiner Zeit ersehnte Maximilian den Ruhm einer gesicherten illustren Abstammung seines Hauses, deswegen sollte die seit dem Mittelalter übliche Rückführung der Wittelsbacher auf Karl der Großen aus dem Bereich der Fabel gerückt und exakt historisch begründet werden. Dieser Aufgabe hatte sich im Rahmen der bayerischer Geschichtspflege bereits mehr als zehn Jahre früher der Geheimsekretär des Herzogs, Christoph Gewold, gewidmet, aus dessen Feder 1605 die mit dem gewünschten Ahnherrn beginnende ›Genealogia Serenissimorum Boiariae ducum ...‹ erschienen war. Gewolds Forschungen haben dabei auch bei den zwischen 1601 und 1605 entstandenen Ahnenbildnissen von Candid im Erdgeschoß der Residenz ihren Niederschlag gefunden. Als man 1615 die Ausstattung des Theatinergangs plante, forderte Maximilian in einem Brief vom 9. August von Gewold eine Stellungnahme zu der vom Jesuitenpater Rader festgelegten Herrscherreihe. Dieser, von Seiten des Hofes mit der Weiterführung der von Marx Welser begonnenen bayerischen Geschichte betraut, hatte als gewissenhafter Historiker Schwierigkeiten mit den ungesicherten Punkten der genealogischen Herleitung, die mit Gewolds Hilfe überwunden werden sollten.
+
+»Demnach wür entschlossen in unnserem neuen pau unnsers hauß ascendentes in recta linea mahlen zulassen, also hat P. Rader auf unnser zumuethen beigefüegte verzaichnus gemacht, anfangs aber weitter nit bil auf den Luitpoldum ime mit der prob aufzukhommen getraut. Weil abei Du in Deiner getruckhten bayrischen Genealogia biß auf Carolum Magnum khommen, also hat er letztlich sich auch darzu bequemb. Ob nur mit bestand darauf zu fuessen, sonderlich was den Arnoldum comitem Bernardi F. unnd Luitpoldi patrem belangt, was Dir auch bei deß P. Raders designation sonsten für bedenckhen zue gemüet gehen, begern wür vor Dir zuvernemmen unnd insonderheit, ob nit mit guetem bestand unnd grund nit noch weitter unnd noch eltere ascendentes in recta linea zu finden. Bleibe beinebens Dir mit genaden wol gewogen.« - »Wollet inall-
+<!-- citation-page-bottom: Band03-2 p209 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk005.pdf#page=6 -->
+<!-- citation-page-top: Band03-2 p210 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: HAUS-STEININGER-TREPP -->
+
+weg notieren, da einer oder mehr auß ihnen mit dem Kurhuet und Habit zu malen« (Eigenhändiger Zusatz des Herzogs; BSB, Cgm 2210 fol. 81; der Brief ist publiziert bei Anton Dürrwächter, Christoph Gewold, Ein Beitrag zur Gelehrtengeschichte der Gegenreformation und zur Geschichte des Kampfes um die pfälzische Kur. = Studien und Darstellungen aus dem Gebiete der Geschichte, Bd IV, H. 1, Freiburg 1904, Anhang I; vgl. Knüttel 1967, S. 207, Anm. 43 und Seelig, S. 269).
+
+Den Wünschen des Auftraggebers wurde entsprochen, die Bildnisreihe über Karl den Großen hinaus zu dessen Vorfahren zurückgeführt, von der Person des Kaisers bis zum Auftraggeber entspricht sie der Abfolge in Gewolds > Genealogia <. Vom selben Autor erschien 1616 auch eine Untersuchung über die Entstehung des Kurfürstenkollegiums, De sacri Romani Imperii septemviratu commentarius«, wodurch Maximilian die Ansprüche der bayerischen Linie der Wittelsbacher auf die Pfälzische Kurwürde publizistisch vorbereiten ließ. Diese Bestrebungen fanden auch im Theatinergang ihren Niederschlag, da der Herzog von Gewold eigens notieren ließ, welche der Vorfahren mit Kurhut und -mantel zu malen seien. Ludwig der Kelheimer, Otto II. der Erlauchte und Ludwig II. der Strenge sind, den historischen Fakten entsprechend, als Kurfürsten dargestellt (P<sub>24</sub>, 25, 26). Durch die Bezeichnung Stephans II. mit der Hafte (P<sub>28</sub>) als Elector und seine Wiedergabe mit dem Kurhut werden dagegen schon bayerische Prätentionen formuliert, da das Amt in Wirklichkeit zu dessen Regierungszeit bereits durch die Goldene Bulle (1356) allein den pfälzischen Wittelsbachern übertragen worden war. Im Rahmen der bayerischen Bemühungen um die Kurwürde wird hier konsequent eine bereits 1605 in der Genealogia bezogene Position unterstrichen. Maximilians Bestreben, die Historiographie den Zielen seiner Politik nutzbar zu machen, zeigt sich also auch im Programm des Theatinergangs. In der Verbindung von Bayern und Wittelsbach, von Landesallegorie und dynastischer Bildnisfolge ist hier innerhalb der Residenz zum ersten Mal eine
+
+politische Ikonographie ausgebildet, die für die Folgezeit maßgeblich werden sollte. (Zur Vorbildlichkeit für weitere Bildnisfolgen der Wittelsbacher vgl. Seelig, loc. cit., bes. S. 270; s. auch S. 127–29)
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, HR II/1, 1613-15. Pistorini 1644, fol. 65 r - 70 v. Faßmann 1770, nach Nr. 1000.
+
+Pallavicino 1667, S. 32-47. Schmid 1685, S. 41–58. Misson 1687, S. 108. Wening 1701, S. 3. Kalmbach 1719, S. 42-60. Pöllnitz 1719, S. 11. Westenrieder 1782, S. 55 ff. Hübner 1803, I, S. 156. Seidel 1880, Taf. II. Abth., 2. Blatt. Haeutle 1883, S. 56 f. Böttger 1893–95, Taf. 93 (seitenverkehrt abgezogen). KDB I OB (2) S. 1144 f. Bassermann-Jordan 1900, S. 119–26, Ab. 80–84. Thoma / Kreisel 1937, R 59. Schalkhaußer 1957, S. 42. Kloos, S. 220 f. Kat. Candid-Zeichnungen 1978, S. 52–59. Kat. Wittelsbach 1980, II/2, S. 257–73, mit Abb. Seelig 1980, S. 253–327 (bes. S. 269 f.). Enichson 1980, S. 179–91
+
+B. V.-K
+
+
+== HAUS-STEININGER-TREPPEN ==
+
+
+Treppenhaus (bei Thoma/Kreisel Räume 60,61; heute nicht mehr in der Museumsführungslinie), am N-Ende des Theatinergangs gegen O, zur Kommunikation und zur Versorgung des nördlichen Teils der maximilianischen Residenz neben dem repräsentativen Prunkaufgang der Kaisertreppe erforderlich. Die Benennung bezieht sich auf Hans Steininger, Ratsherr und Stadthauptmann von Braunau, der hier über seinen bodenlangen Bart zu Tode gestürzt sein soll
+
+{{End}}

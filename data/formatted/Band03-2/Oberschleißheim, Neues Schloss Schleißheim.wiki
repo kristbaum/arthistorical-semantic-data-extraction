@@ -1,0 +1,35 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=488
+|Originalseitenbis=488
+|Lemma=Oberschleißheim, Neues Schloss Schleißheim
+|Typ=Profan
+|Ort=Oberschleißheim
+|davor=Oberschleißheim, Schloss Lustheim, Sog. Schöner Stall
+|danach=Oberschleißheim, Neues Schloss Schleißheim, Salle des Colonnes
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Holler, Wolfgang
+}}
+
+<!-- citation-page-top: Band03-2 p488 -->
+
+<!-- header: SALLE DES COLONNES -->
+
+
+== NEUES SCHLOSS ==
+
+
+Baugeschichte: Das neue Schloß, im Rohbau von 1701-04 errichtet, war konzipiert als O-Flügel einer größeren Anlage, die schließlich nicht realisiert wurde. Diese bezog sich auf das bereits vorhandene Alte Schloß im W. mit dem sie zu einer Einheit zusammengefaßt werden sollte, und das im O gelegene Jagdschloß Lustheim am Ende einer von Kanälen begrenzten Gartenanlage, deren Breite für die enorme Breitenausdehnung des neuen Projekts maßgebend war. Beim Tode des Bauherrn Max Emanuel 1726 war die Ausstattung des Baus noch nicht vollendet, von den Nachfolgern wurde er kaum benutzt.
+
+An ein langgestrecktes Corps de logis, das durch einen
+
+erhöhten, elfachsigen Mittelbau betont ist, fügen sich seitlich Galerietrakte mit Eckpavillons an. Im Innern des Mittelbaus liegt die Eingangshalle, im S schließt sich ein Treppenhaus an, das zu zwei Festsälen im Obergeschoß führt; diesen ist gegen den Garten eine lange Galerie vorgelagert. Auf den Mittelbau folgen rechts und links Flügel mit den Appartements, im S, auf der »Herkules«-Seite das des Kurfürsten, im N, auf der »Pallas«-Seite das seiner Gemahlin. Im SW liegt die durch alle Geschosse gehende Maximilianskapelle. 1945 wurde das Schloß durch zwei Sprengbombenvolltreffer beschädigt, seine Wiederherstellung ist nahezu abgeschlossen.
+
+
+== SALLE DES COLONNES ==
+
+
+
+{{End}}

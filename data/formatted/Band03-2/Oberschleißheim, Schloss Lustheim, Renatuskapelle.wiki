@@ -1,0 +1,80 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=482
+|Originalseitenbis=483
+|Lemma=Oberschleißheim, Schloss Lustheim, Renatuskapelle
+|Typ=Sakral
+|Ort=Oberschleißheim
+|davor=Oberschleißheim, Schloss Lustheim
+|danach=Oberschleißheim, Schloss Lustheim, Sog. Schöner Stall
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band03-2 p482 -->
+
+<!-- header: REMATIICKAPELLE -->
+
+<!-- header: RENATUSKAPELLI -->
+
+Kapelle eines ehem. Eremitoriums für vier Augustiner- Eremiten im südlichen Pavillon von Schloß Lustheim, ehemals dem Kloster der Augustiner-Eremiten in München unterstellt
+
+
+'''Patrozinium:''' St Renatu
+
+
+'''Zum Bauwerk:''' Die ursprüngliche Renatusklause, gegründet von Wilhelm V., »Clösterl« genannt, wurde 1684 abgerissen, um für den Neubau von Schloß Lustheim in der Achse des Alten Schlosses Platz zu schaffen. Ab Frühjahr 1686 wurde sie als Südlicher Pavillonbau wiedererbaut: Pläne von Enrico Zuccalli, Bauaufsicht führte Hofbaumeister Philipp Zwerger, Faßarbeiten Caspar Gottfried Stuber, das Altarbild des hl. Renatus schuf Giovanni Trubillio 1680 für 280 fl. (BHStA I, HR II, 16, S. 21 r); Weihe am 19. 5. 1688.
+
+Zweistöckiger Bau, Fassade nach W: im Erdgeschoß mit fünf Arkadenbögen vor einer Loggia, darüber fünf Fenster mit alternierenden Giebeln. Wenig vorspringende und schmale seitliche Risalite mit je einer halbrunden Nische im Erd- und Obergeschoß. N-Seite zu vier, S-Seite zu fünf, O- Seite zu sieben Fensterachsen. Ein Mittelgang in west-östlicher Richtung in Erd- und Obergeschoß teilt den Bau in die Kapelle (N) und das Eremitorium (S).
+
+Die Kapelle ist ein zweigeschossiger Ovalraum. Zugang in der Mittelachse durch eine Tür im nördlichen Loggienjoch Empore im W, außerhalb des eigentlichen Kapellenraums über der Loggia. Kolossalpilastergliederung. Belichtung im Erdgeschoß von N, im Obergeschoß durch acht Fenster in den Achsen und in den Diagonalen, im N und O direkt, im S und W teils durch belichtete anschließende Gänge, teils durch Anräume, die durch das Einschreiben des Ovals in das Rechteck entstanden.
+
+'''Auftraggeber:''' Kurfürst Max Emanuel von Bayern (1680-1726)
+
+'''Autor und Entstehungszeit:''' Am 28. August 1687 stellte Johann Anton Gumpp die Rechnung für seine Arbeiten in Lustheim: »Vor 3 gemachte Hystori in die zimmer und absonderlich ein stuckh in die Clausen khürchen über sich gemalt ... je 200 fl. = 800 fl. (BHStA I, HR I 282, Nr. 158, vgl. Berg, S. 102). Da die Kapelle ab Mai 1687 eingewölbt wurde (StAM, Ordnungs-Nr. Grau, Lustheim 1687), dürfte das Deckenbild als späteste Arbeit Gumpps in der ersten Bauphase Lustheims im Sommer 1687 entstanden sein (vgl. S. 450).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: längselliptisches Holzlattengewölbe mit annähernd halbrundem Querschnitt. Rahmen: Das Gewölbe zeigt, von Eichblattstäben in acht Sektoren aufgeteilt, Stuckkassetten mit Rosettenfüllungen. Die Blattstäbe enden in einem ovalen Eichenlaubkranz, der den äußeren Bildrahmen bildet, der innere Rahmen ist eine Stuckprofilleiste.
+
+Technik: Fresko mit Secco
+
+Maße: Höhe 11,40 m; 4,30 × 3,30
+
+Erhaltungszustand und Restaurierungen: Restaurierungen sind nicht bekannt. Verschmutzungen, Risse (vor allem im Randbereich), Wasserschaden am NW-Rand, Fehlstelle an der Erdkugel. Im wesentlichen original erhalten.
+
+
+== Beschreibung und Ikonographie ==
+
+
+GLORIE DES HL. RENATUS Szene in Wolken. Blickrichtung nach O. Der Heilige wird in einer bewegten Gruppe von Tugendpersonifikationen emporgetragen und von der Hl. Dreifaltigkeit in Empfang genommen. Die Figuren sind sehr dicht zueinander komponiert, ihr Umriß folgt dem Oval des Bildfeldes und läßt nur einen schmalen Streifen Wolkenszenerie frei. Ohne auf illusionistische Effekte abzuzielen, sind starke Untersichten und Verkürzungen eingesetzt, ebenso kontrastvolle Licht- und Schattenpartien, die die Plastizität der Figurengruppe unterstreichen.
+
+Die Farben sind überwiegend in hellen Werten eingesetzt in Abstufungen von Weiß und Gelb, die in der strahlend weißen Albe und dem goldenen Pluviale einen Höhepunkt erreichen, als Kontrast dazu helles Blau (Weltkugel, Gewand der Spes). Als einzige dunkle Partie wirkt die in ein grauviolettes Tuch eingehüllte Gruppe der Iustitia und Abstinentia rechts.
+
+Dem hl. Renatus sind Putti und weibliche Tugendpersonifikationen zugeordnet. Die Putti halten seine Bischofsinsignien und eine Lilie, Symbol der Reinheit. Die Tugenden sind bezeichnet: links als Spes (Anker), Caritas (brennendes Herz vor der Brust) und Fides (Hostienkelch), rechts als Abstinentia (Geißel) und Iustitia (Flammenschwert).
+
+Der hl. Renatus (René) war Bischof von Angers (legendär). Sein Kult war in Frankreich verbreitet, in Bayern fast unbekannt. Er war Namenspatron Renatas von Lothringen, der Gemahlin Wilhelms V., des Erbauers der ursprünglichen Renatusklause.
+
+
+== Quellen und Literatur ==
+
+
+StAM, Ordnungs-Nr. Grau, Lustheim 1687. BHStA I, HR I, 282, Nr. 158. BHStA I, HR II, 16. fol. 21 r.
+
+Mayer-Westermayer, Bd 2, S. 495
+
+Berg, Viktoria, Die Lustheimer Fresken, in: Anzeiger des Germanischen Nationalmuseums, Nürnberg 1968, S. 102. Heym, Sabine, Schloß Lustheim. Jagd- und Festbau des Kurfürsten Maximilian II. Emanuel von Bayern, in: OA 109, H. 2, 1984, S. 51-56. —, Zuccalli, 1984, S. 50.
+
+s. auch Quellen und Literatur S. 557 f
+
+A.B.
+
+
+[[File:Band03-2_chunk010_p017_img001.jpg|thumb|Glorie des hl. Renatus]]
+<!-- citation-page-bottom: Band03-2 p483 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=18 -->
+{{End}}

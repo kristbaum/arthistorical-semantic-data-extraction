@@ -1,0 +1,180 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=132
+|Originalseitenbis=137
+|Lemma=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer«
+|danach=München, Residenz, Trierzimmer
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<!-- citation-page-top: Band03-2 p132 -->
+
+== EHEMALIGE APPARTEMENTS IM SOG. CHARLOTTENTRAKT ==
+
+Zwei Appartements von 1613/15, im 18. Jh. umgebaut (Räume 33-41). Die Zimmer sind nach der Prinzessin Charlotte Auguste, Tochter Max' I. Joseph, benannt, die um 1800 hier wohnte. Nach dem Zweiten Weltkrieg wurde in einem Teil der Räume die Ausstattung der Hofgartenzimmer eingebaut. Deckenbilder erhalten, nicht in situ
+
+'''Zum Bauwerk:''' Der parallel zum Antiquarium geführte Trakt enthielt ursprünglich nur einen Verbindungsgang von der Residenz zur Neuveste den »Gehörn- oder Khirngang«. 1613/15 ließ ihn Herzog Maximilian im Rahmen seiner Um- und Neubauten aufstocken und das Obergeschoß in sechs Zimmer aufteilen. Nach dem Pariser Plan (s. S. 24f.) und nach der Beschreibung Wenings waren sie zu zwei spiegelbildlichen Appartements von jeweils drei gleich großen Räumen angeordnet, in der Mitte getrennt durch einen gewölbten kleineren Raum mit einer Treppe. Die Räume waren jeweils mit zwei Fenstern nur nach einer Seite, nach SW zum Brunnenhof, geöffnet, der Durchgangsraum hatte ein Fenster. Nach der Beschreibung Wenings war an den Flügeln jeweils noch ein dreiachsiger Saal als Ritterstube vorgelagert, im SO direkt anschließend und ebenfalls gegen den Brunnenhof gerichtet, im NW im Winkel angrenzend der »Vorplatz zur Breiten Treppe«. Wening beschreibt, vom Schwarzen Saal her kommend, die Appartements, »die in siben Zimmern bestehen, sammentlich mit roth und weissen Marmel beleget, und mit dem Kunst-Penßl deß Peter Candits an ihren Decken künstlich bemahlen. Deren erstes in solchem Gemähl den Voglfang, das zweyte die Jägerey, das dritte die Fischerey vorstellet, und das vierdte kleine Zimmer diser Wohnung das Mittel, oder gleichsamb ein Abtheilung gibt, das fünffte zeigt an der gemahlnen Decke die Abwart- und Einsamblung deß Oel-Gewächs, das sechste den Weinbau, unnd das letztere die Erndt« (S. 6).
+
+Die Zimmer hatten vergoldete Holzkassettendecken, an denen im Oktober und Dezember 1613 gearbeitet wurde (BHStA I, HR II, 1, HBR 1613 Ausgabe von Baubrettern am 5. Oktober; Kistler, Dezember); am 24. Mai 1614 hat der Maler Bartholomäus Reiter »in den 6 Zimmern so auf den gewessten Khirngang gerichtet worden, Über sich an den Decken die Paternoster, Stäb und Hollkheln (= Hohlkehlen) mit feingult vergult, auch die gesimbs mit Holzfarb angestrichen, Ist Ime für ains 27 fl. gedingt und zalt, zusammen 162 fl.« (ebd., 1614, Malerei-Ausgaben). Der Durchgangsraum in der Mitte besitzt eine gewölbte Stuckdecke (Rekonstruktion nach dem letzten Krieg). Wie lange der bei Wening beschriebene Zustand erhalten blieb, ist nicht bekannt. Da die Appartements keine Kabinette hatten, entsprachen sie im 18. Jh. nicht mehr dem Geschmack. Auf dem Residenzplan von Cuvilliés (1764/65, s. S. 27), ist der östliche Vorsaal bereits in zwei Vorzimmer aufgeteilt und die Räume II und III werden als Kabinette benutzt. Wahrscheinlich waren bereits zu diesem Zeitpunkt die Deckenbilder nicht mehr in situ, spätestens jedoch 1770 (s. u.).
+
+'''Auftraggeber:''' Herzog Maximilian I. von Bayern (1598–1651; Kurfürst ab 1623)
+
+'''Autor und Entstehungszeit:''' Gesamtentwurf Peter Candid, 1613/15. Drei Bilder wurden nachweislich von Hans Brüderl ausgeführt.
+
+Wening nennt als Autor aller sechs Bilder Peter Candid. Unter den Malerei-Ausgaben des Hofbauamts ist am 24. Dezember 1613 eingetragen: »Hannsen Brüderl Mahlern von 3 stuckh Nemblich der Messi
+
+(= Ernte). Item ainem weibßbildt mit der Vischerei und ainen weibsbildt mit olivae, ainem Paurn mit ainem Impen Sumper (= Bienenkorb) und allen zugeher zemahlen laut Nr. 104 60 fl« (BHStA I, HR II, 1, HBR 1613 mitgeteilt, von Haeutle, S. 55, irrtümlich »Messias« statt »Messis«.). Hans Brüderl hat demnach die drei Bilder der Getreideernte (VI), der Fischerei (III) und des Olivenbaues (IV) für je 20 fl. gemalt. Am 17. Dezember wurde der Künstler fest bei Hof angestellt (BHStA I, Kurbayern HZ 62, 1613, fol. 616 v; hier irrtümlich Christoph Brüderl genannt), am Ende des ersten Quartals 1616 wurde seine Besoldung von 248 auf 300 fl. jährlich angehoben (ebd., 66, 1616, fol. 519). Die Arbeiten fest besoldeter Maler sind in den Rechnungen nicht aufgeführt. Da sich die Ausstattung in den genannten Appartements noch bis 1614/15 hinzog, kann Brüderl hier noch weitere Gemälde ausgeführt haben. Die sechs Darstellungen, denen wohl Entwürfe Candids zugrundeliegen, lassen in der malerischen Ausführung deutliche Unterschiede erkennen, wobei die Beurteilung durch die späteren Übermalungen erschwert sind. Am besten in der Qualität ist I Aucupium, das den Stil Candids besonders gut repräsentiert, so daß an eine persönliche Beteiligung dieses Künstlers an der Ausführung zu denken ist. In Analogie zum Theatinergang (s. S. 197f.), wo Hans Käppler nach Entwürfen Candids alle Deckenbilder für einen vergleichbaren Preis von 15 fl. pro Stück ausführte, ist auch hier anzunehmen, daß die malerische Realisation in einer Hand, bei Brüderl lag, und wohl ähnlich sorgfältig von Candid überwacht war, wie es für ihn auch bei der Herstellung der Wandteppiche bezeugt ist.
+
+== Befund ==
+
+Träger der Deckenmalerei: Ursprünglicher Anbringungsort waren ornamentierte und zum Teil vergoldete Holzkassettendecken
+
+Rahmen: Rahmung durch die ornamentierten Leisten der Kassettendecken
+
+Technik: Öl auf Leinwand, alle Bilder polychrom
+
+Maße: Die Räume waren alle etwa 7,60 × 5,60 m; jetzige Höhe 5,00 m
+
+Die Bildformate waren jeweils paarweise gleich
+
+I und VI Rechtecke mit eingezogenen gestelzten Halbkreisbögen oben und unten
+
+II und V Rechtecke mit abgeschrägten Ecken
+
+III und IV Rechtecke
+
+I (BNM Inv. Nr. R 7505) 2,43 × 1,54 (oben und unten jeweils 10-11 cm, in der Breite um ca. 4 cm beschnitten; rekonstruiertes Originalmaß 2,60/2,65 × 1,58)
+
+II (BNM Inv. Nr. R 7506) 2,43 × 1,54 (oben 7 cm, unten 15 cm, in der Breite ca. 4 cm beschnitten, rekonstruiertes Originalmaß 2,65 × 1,58)
+
+III (BSGS Inv. Nr. 4219) 2,18 × 1,54 (ursprüngliches Maß wohl ca. 2,60/65 × 1,58)
+
+IV (BSV Inv. Nr. ResMüG 1269) 2,21 × 1,45 (ursprüngliches Maß wohl wie III)
+
+V (BSV Inv. Nr. ResMüG 1270) 2,21 × 1,45 (ursprüngliches Maß wohl wie II)
+
+VI (BSV Inv. Nr. ResMüG 1271) 2,21 × 1,45 (ursprüngliches Maß wohl wie I)
+
+[[File:Band03-2_chunk003_p017_img001.jpg|thumb]]
+
+[[File:Band03-2_chunk003_p017_img002.jpg|thumb|Aucupium – Vogelfang, BNM]]
+
+[[File:Band03-2_chunk003_p017_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p133 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=18 -->
+<!-- citation-page-top: Band03-2 p134 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: APPARTEMENTS IM CHARLOTTENTRAK -->
+
+Erhaltungszustand, Verbleib und Restaurierungen: Die sechs Gemälde befinden sich nicht mehr an ihrem ursprünglichen Platz. Die drei Darstellungen aus dem nach SO gerichteten Appartement I-III werden im Faßmann-Inventar von 1770 als Werke Candids aufgeführt: Nr. 429 Der Vogelfang, Nr. 430 Die Jagd, Nr. 431 Der Fischfang, und die Maße mit 7 Fuß 3 Zoll auf 4 Fuß 7 Zoll angegeben. Die Bilder waren damals jedoch bereits nicht mehr in situ, sondern hingen im Schwarzen Saal (Raum 13). Die Räume, aus denen sie stammen, müssen also zu diesem Zeitpunkt schon umgestaltet gewesen sein.
+
+I Aucupium und II Venatio befinden sich seit 1900 im BNM, Inv. Nr. R 7505 und R 7506; III Piscatus ist im Besitz der BSGS, Inv. Nr. 4219. Die drei übrigen Bilder, die bereits 1770 im Faßmann-Inventar nicht mehr erscheinen, waren verschollen. Sie tauchten 1980 bei einer New Yorker Versteigerung auf (Sotheby-Parke Bernet, 9. 1. 1980, Kat. Nr. 44, mit Abb., als venezianisch, 18. Jh.) und wurden von den BSV erworben, Inv. Nr. Res. Mü G 1269, 1270, 1271. Der Zyklus ist somit heute wieder komplett.
+
+Nach ihrem Ausbau aus der Residenz waren die Deckenbilder in Rechteckform gebracht, dabei beschnitten, z.T. an den Ecken angestückt und erheblich übermalt worden. III und IV behielten ihr originales Rechteckformat. (Auf II findet sich neben dem linken Bein eine alte Jahreszahl 1763, möglicherweise das Datum dieser Restaurierung.)
+
+I und II wurden 1979/80 in den Werkstätten des BNM restauriert (Für den Zustand vor der Restaurierung vgl. die Abb. bei Bassermann-Jordan und Voll u.a.). Dabei hat man die Malfläche um die um den Keilrahmen gelegten Streifen vergrößert, die Anstückungen entfernt, so daß das ursprüngliche Format wieder ablesbar ist, und die übermalten Partien freigelegt. Es kamen Kartuschen mit lateinischen Inschriften zum Vorschein und seitlich davon an Bändern hängende Festons, deren Motive auf die Darstellung Bezug nehmen. Diese Kartuschen sind auch bei III Piscatus und IV Ölbaumkultur erhalten. Bei letzterem ist der Titel des Gemäldes durch Übermalungen verdeckt. Auch für die anderen beiden 1980 erworbenen Gemälde V und VI, die bisher noch nicht restauriert wurden, ist mit der Freilegung entsprechender Kartuschen mit Inschrift und Festons zu rechnen.
+
+
+== Rekonstruierende Beschreibung und Ikonographie ==
+
+
+Nach der Beschreibung bei Wening waren die beiden Appartemente symmetrisch angelegt (vgl. auch die Trierzimmer, S. 137-40). Dem entsprechen auch die drei verschiedenen Umrißformen der erhaltene Gemälde, die jeweils doppelt vorhanden sind; es entsprechen sich in Format I Vogelfang und VI Getreideernte, II Jagd und V Weinbau sowie III Fischfang und IV Ölbaumkultur. Folgt man der Beschreibung bei Wening, so entsprach sich die Abfolge der Formate in den Appartement. Die Ränder der Gemälde sind von gemalten Leisten eingefaßt, die die Rahmenprofile der Deckenspiegel ins Bild hinein fortsetzen. Die Beleuchtung dieser Randleisten stimmt mit der Beleuchtung auf dem Bild überein; die Gemälde waren so angebracht, daß die Lichtführung auf ihnen mit dem Lichteinfall durch die Fenster übereinstimmte. Bei den Bildern I–III kommt der Lichteinfall von links, bei IV–VI hingegen von rechts. Da die Räume nur zum Brunnenhof hin durchfenstert waren, ist die Anbringung, wenn man die von Wening gegebene Abfolge einhält, folgendermaßen zu rekonstruieren: Von SO ausgehend I Vogelfang (Aucupium), II Jagd (Venatio), III Fischfang (Piscatus) mit der Bildbasis im NW, und im anderen Appartement entsprechend von außen nach innen: VI Ernte, V Weinbau, IV Ölbaumkultur mit der Bildbasis im SO. Die Bilder waren analog der Enfilade längs gerichtet, in ihren Formaten entsprachen sich jeweils die Deckenbilder der äußeren, mittleren und inneren Räume. Die Anordnung ist ähnlich wie in den Trierzimmern, mit dem Unterschied, daß dort der Betrachterstandort innen in den Kabinetten war, während hier, wo die Kabinette fehlen, die Deckenbilder jeweils von außen nach innen fortschreitend zu betrachten waren.
+
+Jedes Bild zeigt in der für Candid charakteristischen Weise eine monumentale weibliche Figur vor einem landschaftlichen Hintergrund. Sie ist in Untersicht gesehen, man blickt unter den Saum des Rockes, der nach hinten schleppenartig länger wird. Durch die antikische Gewandung in die Sphäre der Allegorie gehoben, ist sie außerdem mit Attributen ausgestattet zur Erläuterung der durch sie verkörperten Tätigkeiten. Auf diese nehmen die beigegebenen ein oder zwei Assistenzfiguren noch näheren Bezug. Sie erscheinen als Halb- oder Dreiviertelfiguren in zeitgenössischer, jedoch idealisierter Arbeitskleidung. Den oberen Abschluß bildete wohl ursprünglich in allen Gemälden eine Inschriftkartusche mit der lateinischen Bezeichnung des Themas. Von der Kartusche gehen Festons aus, die am gemalten Rahmenwerk befestigt sind und deren Blätter und Früchte ebenfalls auf das Bildthema Bezug nehmen. Die Farbigkeit läßt sich am besten an I Aucupium beobachten, da hier die Übermalungen entfernt wurden und die Originalmalerei am besten erhalten ist. Im Bild dominieren die Rot- und Gelbtöne der Hauptfigur, die in eine grüne Umgebung eingebettet sind. Grün sind nicht nur die Vegetation, sondern auch die Kleidung des Falkners und die Ärmel von Aucupium. Deren Kleid und Übergewand zeigen die für Candid charakteristischen Changeants, beim Kleid rot-grün, beim Obergewand rot zu gelb aufgehellt.
+
+I AUCUPIUM – VOGELFANG Auf einem Erdhügel, auf dem erlegte Fasanen liegen, steht die Hauptfigur und trägt auf ihrer durch einen Handschuh geschützten Linken einen Jagdfalken mit einem Falkenhäubchen. Er ist an einem Wurfriemen befestigt, der zusammengerollt in der Hand gehalten wird. Zu einem wadenlangen, vorne kürzeren Kleid mit hellem Übergewand, das vorne durch Nestelverschluß und auf der Schulter mit kleinen Agraffen gehalten wird, trägt sie hohe antikische Sandalen und auf dem Haupt ein Gesteck aus Reiherfedern mit einer großen Schmuckagraffe. Im Hintergrund ist ein Falkner zu sehen, der gerade seinen Jagdfalken füttert, während er dessen Häubchen im Mund hält. Am Gürtel hängt die Falkentasche, auf dem Kopf trägt er einen Hut, ebenfalls mit einem Gesteck aus Reiherfedern.
+
+Die Jagd mit abgerichteten Vögeln, die Falkenbeize, ist die vornehmste und teuerste Art der Jagd, die nur dem Fürsten zustand. Daher ist Aucupium in den die Kartusche umgebenden Festons der fürstliche Lorbeer zugeordnet und die Figur durch Juwelenschmuck ausgezeichnet. Eine Kopie des Bildes von G. Nothhelfer, 1903/04, befindet sich im Treppenhaus des Hauses Georgenstraße 8, München.
+
+II VENATIO – JAGD Die Personifikation der Jagd trägt ein hochgeschürztes Gewand, hohe antikische Sandalen und auf dem Haupt einen Eichenkranz. An ihrer Hüfte hängt das Jagdhorn. Mit ihrer Linken hält sie an kurzer Leine das für die Hetzjagd geeignete Windspiel zurück, während der Jäger am langen Riemen einen Leithund führt, der das Wild aufspürt (Seelig, S. 2857). Dieser Jäger im Hintergrund, in zeitgenössischer Kleidung mit dem Eichenbruch am Hut, hat einen Jagdspieß (?) geschultert. Im Vordergrund und in den Festons Eichenlaub. Die Allegorie bezieht sich auf die Jagd von Hochwild, auf Hirsch oder Wildschwein, nicht so vornehm wie die Falkenbeize, aber eine Jagdgattung, die nur dem Adel zustand.
+
+III PISCATUS – FISCHFANG In kniefreiem, hochgeschürztem Gewand steht die Verkörperung des Fischfangs barfuß, das Haar mit Schilf geschmückt, und hält in der Rechten eine Angel, in der Linken einen Fischbehälter. Im Vordergrund Fische auf dem Boden und in einem Bottich. Rechts unten ein Fischer, der zu ihr aufblickt, im Arm Netze und eine Reuse. Die Festons sind aus Schilf und Fischen gebildet. Nach Seelig (a. a. O.) vertritt der Fischer den Stand des Berufsfischertums, die allegorische Gestalt dagegen eher die noblere Spielart des jagdmäßig ausgeübten Fischfangs.
+
+IV ÖLBAUMKULTUR Die Personifikation trägt wie die anderen ebenfalls ein vorne hochgeschürztes Gewand, das hinten länger herunterfällt und um die Hüfte gebauscht ist. Ihr Haupt ist mit Ölzweigen geschmückt, die sie auch in einem kleinen, am Gürtel befestigten Korb trägt, einen großen Zweig hält sie in der Linken, mit der Rechten stützt sie sich auf einen großen Hirtenstab. Ihr Begleiter im Hintergrund umfaßt mit beiden Armen einen Bienenkorb, aus dem ein Schwarm Bienen fliegt. Olivenzweige füllen einen großen Korb im Vordergrund, schmücken den Hut des Imkers und bilden auch die Festons, die das Bild nach oben abschließen. Die Inschrift der Kartusche ist übermalt, das Bildthema wird bei Wening »Abwart- und Einsammlung des Oel-Gewächs« genannt. Die Darstellung bildet im Format und in der Anordnung der Figuren die Entsprechung zu III.
+
+V WEINBAU Die in einer Hügellandschaft vor Weinbergen stehende Personifikation hält als Attribute in der Rechten ein Rebmesser, in der Linken Weinlaub und Trauben, mit denen auch ihr Haupt geschmückt ist. Den Fuß stellt sie auf einen mit Trauben gefüllten Korb. Die Assistenzfiguren, ein Mann und eine Frau, sind mit Korb und Kiepe bei der Weinlese beschäftigt. Dem Bild fehlen die Kartusche und die Festons, da es beschnitten ist. Pendant zu II.
+
+VI GETREIDEERNTE Zu dem über der Hüfte gebauschten Gewand trägt die Personifikation der Ernte ein geschnürtes Mieder und einen breitrandigen Strohhut. Sie präsentiert als Attribute eine Sichel und ein Garbenbündel. Rechts im Hintergrund sieht man einen Mann bei der Erntearbeit, im Vordergrund eine etwas mißglückt wirkende, hochblickende Figur.
+
+[[File:Band03-2_chunk003_p018_img001.jpg|thumb]]
+
+[[File:Band03-2_chunk003_p018_img002.jpg|thumb]]
+
+[[File:Band03-2_chunk003_p018_img003.jpg|thumb|III Piscatus - Fischfang BNM]]
+
+<!-- citation-page-bottom: Band03-2 p135 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=19 -->
+<!-- citation-page-top: Band03-2 p136 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIERZIMME -->
+
+
+[[File:Band03-2_chunk003_p019_img001.jpg|thumb]]
+
+
+kende Gestalt. Dem Bild fehlen die Kartusche und die Festons, da es beschnitten ist. Pendant zu I.
+
+
+== Ikonologie ==
+
+
+Die Deckenbilder, die ehemals im südöstlichen Appartement angebracht waren, sind der Jagd gewidmet, die im nordwestlichen der Pflanzenkultur. Sie bilden zusammen einen Zyklus, in dem keine Darstellung besonders hervorgehoben ist, weder durch Größe noch aufgrund inhaltlicher Akzentuierung oder Betonung einzelner Räume innerhalb der Zimmerflucht. Es fällt auf, daß für jede Raumgruppe jeweils eine der ›Artes mechanicae‹ als Thema gewählt wurde.
+
+Die in der Wissenschaftstheorie analog zu den sieben ›Artes liberales‹ gewöhnlich in sieben Gruppen eingeteilten mechanischen Künste werden in den Enzyclopädien des 16. Jahrhunderts meistens von der Landwirtschaft, der ›Agricultura‹ angeführt, etwa in Theodor Zwingers ›Theatrum vitae humanae‹ (Basel 1565). Hier sind im 2. Buch die ›Artes mechanicae‹ zu einem strengen System nach den Gesichtspunkten ihrer Nützlichkeit zusammengeschlossen. So dient die Versorgung mit Früchten des Feldes und des Gartens durch die Bauern und Gärtner ebenso der Erhaltung des Körpers und der Gesundheit, wie die Belieferung der Küche durch die Hirten und Jäger, wobei die Aufteilung in ›Venatores‹, ›Piscatores‹ und ›Aucupes‹ auf die Fanggründe Erde, Wasser und Luft hinweist.
+
+1517 definiert Aventin in seiner ›Encyclopaedia orbisque doctrinarum …‹ (Aventin, Sämtliche Werke, Bd 1, München 1881, S. 551 ff.) die ›Artes mechanicae‹, die zur Philosophia mechanicae zählen, auch durch den aristotelischen Begriff der ›poiëtica‹, d.h. Wissens- und Kunstbereich des Machens, und durch die deutsche Bezeichnung Handwerk.
+
+Bei ihm umfassen sie acht Wissensgebiete, die er ebenfalls mit ›Agricultura‹ beginnen läßt. Als nächstes nennt er ›Coquinaria‹, d.h. die Jagd und die gesamte Verarbeitung der Lebensmittel. Unter ›Agricultura‹ zählt er u.a. die Bauern, Imker und Winzer auf, unter ›Venatoria‹ gleich zu Beginn ›Venatores‹, ›Piscatores‹, ›Aucupes‹, wobei er teils lateinische, teils deutsche Bezeichnungen benutzt. Obwohl die einheimischen Handwerktätigkeiten gemeint sind, nennt er als Quellen ausnahmslos antike Schriftsteller (Cato, Varro, Plinius, Columella, Palladius). Aus diesen Quellen und der auf ihnen fußenden römischen Dichtung, vor allem Vergils ›Georgica‹, dürften auch die Anregungen für die Themen der Deckenbilder stammen.
+
+In den von Candid konzipierten Bildern ist der Akzent nicht auf die Ernte gelegt, sondern auf die Pflege und Kultivierung (Seelig, S. 2857), was bereits einen Hinweis für die Deutung gibt. Dies ist vor allem bei der Ölbaumkultur (IV) evident. Hier sind alle Kenntnisse über die Eigenheiten der Pflanze zusammengestellt und gleichzeitig die verschiedenen Bedeutungen des Wortes ›Oliva‹ zur Anschauung gebracht, nämlich Olive, Ölbaum, Ölzweig, Hirtenstab (incumbere olivae = sich auf einen Stab stützen). Der Korb mit Zweigen verweist auf die Vermehrung durch Zweige und Stecklinge (Vergil, Georgica II, 63), wobei der Baum desto mehr Früchte trägt, je mehr er geschnitten wird (Carolus Stephanus nach Quintilian, in: L' agriculture et maison rustique, Paris 1602, S. 220). Vielleicht ist es eine aus Stecklingen gezogene Pflanze, die hinter dem Rücken der Stehenden sich ausbreitet. Der oben aus dem alten knorrigen Stamm aufschießende Trieb deutet auf die große Austriebswilligkeit, selbst aus trockenen Baumstümpfen (Vergil, Georgica II, 30 ff.). Nicht dargestellt ist die Ernte, bei der die Früchte abgepflückt werden. Von den Partien des Baums, an die man nicht hinkommt, werden sie vorsichtig mit Stöcken abgeschlagen (schon auf griechischen Vasen zu sehen, vgl. Hugo Blümner, Technologie und Terminologie der Gewerbe und Künste bei Griechen und Römern, I, 1912, S. 333 f. und Abb. 116, 117). Darauf spielt wohl auch der Stab an. Steht eine reiche Olivenernte bevor, gibt es große Bienenschwärme (Aristoteles, Historia animalium V, 22, 3). Der Imker mit dem Bienenkorb trägt einen Olivenzweig am Hut und ist damit deutlich auf die Hauptdarstellung bezogen und dieser untergeordnet. Die Bienenzucht war ebenfalls ein wichtiger Zweig der antiken Landwirtschaft. Als richtigen Termin für die Honigernte gibt Aristoteles die Zeit an, zu der sich die Frucht des wilden Feigenbaums zeige (Historia animalium V, 22, 6 Pauly/Wissowa s. v. Biene). Eine solche Frucht ist an einem Feigenbusch im Vordergrund zu sehen.
+
+Die Wahl der in der Rangordnung der Wissenschaftstheorie nicht sehr hoch stehenden ›Artes mechanicae‹ als Bildthema läßt sich nur durch den Rückgriff auf eine Vorlage oder Epoche erklären, in denen ihnen ein hoher Wert beigemessen wurde. Der berühmteste Lobpreis der Arbeit in Form einer Verherrlichung der Landwirtschaft und des Lebens der Bauern mit ihren immer wiederkehrenden mühseligen Tätigkeiten findet sich in den ›Georgica‹ Vergils. Hier läßt Jupiter auf einen paradiesischen Urzustand, in dem den Menschen alles mühelos zufiel, aus erzieherischen Gründen die Produktionskraft der Erde versiegen. Die Not zwingt die Menschen, sich anzustrengen, nachzudenken, zu experimentieren und mancherlei Kunstfertigkeiten zu entwickeln. Sie lernen als erstes den Getreideanbau – Ceres bringt ihnen das Pflügen bei – dann die Erzeugung des Feuers, die Schiffahrt sowie das Erlegen der Tiere in Form von Jagd, Vogelfang und Fischerei (Vergil, Georgica I, 134ff.). Im Gegensatz zu anderen Theorien der Kulturentstehung bejaht Vergil die Erfindung der ›Artes‹ und preist das harte Leben der Bauern. Die Landwirtschaft ist für ihn das Fundament der Kultur: Mühe, Geduld und Sorgfalt werden als moralische Werte anerkannt, das Gedeihen hängt jedoch von den Göttern ab. Der Dichter verlegt damit die ideale Epoche vom vorkulturellen, paradiesischen Urzustand in den bäuerlichen Bereich, er erblickt dort einen Rest der »Goldenen Zeit«. Mit dem Begriff der »Goldenen Zeit« verbinden sich allgemein Vorstellungen des Friedens, der Ordnung und des Gesetzes.
+
+Die Nobilitierung der handwerklichen Tätigkeit durch Vergil und die Betonung römischer Wertbegriffe in der neustoischen Geschichtsauffassung zur Zeit Herzog Maximilians machen die ›Artes mechanicae‹ auch in einer Raumflucht der Münchner Residenz zu einem darstellungswürdigen Thema. Was vom gesellschaftlichen Standpunkt, vor allem für die Agricultura als eine allein dem Volk vorbehaltene Tätigkeit nicht möglich wäre, kann in antikisierender Form hier Eingang finden. Ackerbau und Jagd werden nicht vordergründig in ihrer Ausrichtung auf einen Zweck gesehen, z.B. die Versorgung mit Lebensmitteln – wenngleich der Gedanke implizit enthalten ist – sie sind vielmehr Ausdruck kosmischer und sozialer Ordnung, von Pflichterfüllung und friedlichem Zusammenleben und damit Grundlage des Staates. Der Friedensgedanke im Zusammenhang mit Ackerbau und Jagd begegnet innerhalb der Residenz in Candids Pax-Allegorie des ersten Trierzimmers (S. 143-47). Die Landschaft im Hintergrund ist staffiert mit Bauern und Jägern, die ihrer Arbeit in Ruhe nachgehen und das Bild des tiefsten Friedens vollenden.
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, HR II, 1, Hofbauamtsrechnungen 1613–15. BHStA I, Kurbayern, Hofzahlamtsrechnungen 62, 1613, und 66, 1616. Faßmann 1770, Nr. 429-431
+
+Wening 1701, S. 6
+
+Rée 1885, S. 143
+
+Bassermann-Jordan 1900, S. 126 und Abb. 85 (Aucupium).
+
+Voll, Karl, Heinz Braune und Hans Buchheit, Gemäldekatalog des Bayerischen Nationalmuseums 1908, Nr. 568, mit Abb. (Aucupium) und 569 Knüttel 1964, Kat. I, 30 a-c.
+
+Katalog Bayern, Kunst und Kultur, München 1972, Nr. 778 mit Abb. (Piscatus).
+
+Peters, H., Artikel »Falke«. RDR 6, 1973, Sp. 1315, 1334 mit Abb. (Aucupium).
+
+Volk-Knüttel, B., in: Kat. Wittelsbach 1980 II/1, Nr. 258 mit Abb.
+
+Seelig, Lorenz, Kostbarkeiten von fürstlichem Rang, in: Weltkunst 50, Nr. 20, 1980, S. 2856 ff. mit Abb.
+
+Bayerisches Nationalmuseum München, Führer durch die Schausammlung, Red. Peter Volk, München 1983, S. 84 mit farb. Abb. (Aucupium).
+
+B V-K
+
+
+[[File:Band03-2_chunk003_p019_img002.jpg|thumb|VI Getreideernte BSV]]
+
+
+
+== TRIERZIMMER ==
+
+
+{{End}}

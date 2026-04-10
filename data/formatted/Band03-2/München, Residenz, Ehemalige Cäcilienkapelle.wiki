@@ -1,0 +1,68 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=345
+|Originalseitenbis=346
+|Lemma=München, Residenz, Ehemalige Cäcilienkapelle
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Speisesaal
+|danach=München, Altes Residenztheater
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== EHEMALIGE CÄCILIENKAPELLE ==
+
+
+Ehemalige Kapelle, irrtümlich mit dem Holländischen Kabinett identifiziert (Raum 18), zwischen den Reichen Zimmern und den Räumen im Oberstock des Antiquariums gelegen; Raum und Deckenbilder im Zweiten Weltkrieg zerstört, ohne Ausstattung wiederaufgebaut, heute Ausstellungsraum für Ostasiatica
+
+'''Zum Bauwerk:''' Beim Bau der Alexanderzimmer (s. S. 276) entstand als Verbindungsglied zwischen dem neuen Appartement und dem Obergeschoß des Antiquariumstrakts ein ovaler Raum als Kapelle. Von 1704 sind erste Ausstattungsarbeiten überliefert: Pflasterung, Portal aus Tegernseer Marmor von Johann Mathaeo (BHStA I, HR II/21, 1704/5). Nach der Rückkehr des Kurfürsten Max Emanuel aus dem Exil 1715 wurde an der Kapelle weitergearbeitet: Zahlung an Pichler für Vergoldung 1718 (loc. cit., HR II/24, 1718 »in die runde oval Capellen negst dem churfrtl. Music Cabinetl in der Residenz«). Diese Ausstattung dürfte beim Residenzbrand 1729 zumindest schwer beschädigt worden sein, da die Kapelle unmittelbar neben den völlig ausgebrannten Zimmern lag. Neuausstattung um 1756, Weihe am 9. Januar 1757. 1944 zerstört. Die Identifizierung des Raums mit dem Holländischen Kabinett ist irrtümlich.
+
+Nach den KDB (S. 1136) war die Kapelle ein »Ovaler Raum, durch Pilaster us schwarzem Marmor gegliedert. Die Wände sind von einem Gesimse oekrönt, über dem sich eine cassettirte Kuppel erhebt. Zwischen der Pilastern Nischen, von den Fenstern, der Thür und einem Altar ausgefüllt
+
+Am Antependium des Altars Holzrelief, die Geburt der Maria darstellend im Aufsatz das heilige Abendmahl, darüber die Himmelfahrt Mariae« Thoma/Kreisel (S. 185) erwähnen eine »Ausgestaltung mit dunkelgrauer Marmorpilastern, stark vorgekragtem Gesims, Tambour (mit Fenstern und hoher Kuppel (mit gemalten Kassetten und ovalem Deckenbild)«. Eine verdeckte Tür zwischen den beiden Altären verband die Kapelle mit der Grünen Galerie.
+
+Autor und Entstehungszeit: Das Deckenbild wurde vermutlich anläßlich der Neuausstattung unter Max III. Joseph aus einem anderen Zusammenhang übernommen. Datierung: 17. Jh.?
+
+Verbleib: Kriegsverlust
+<!-- citation-page-bottom: Band03-2 p345 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=24 -->
+<!-- citation-page-top: Band03-2 p346 -->
+
+<!-- header: RESIDENZ -->
+
+
+== ALTES RESIDENZTHEATER ==
+
+
+
+== Darstellung ==
+
+
+MYSTISCHE VERMÄHLUNG DER HL. KATHARINA Faßmann ist der einzige, der Thema und Autor des Deckenbildes nennt »In der Capelle der Heiligen Caecilia Petrus de Candito In der Cupola ist ein Mutter Gottes Bild mit dem auf ihrem Schoß sitzenden Jesu Kindlein gemalet, von welchen die heilige Catharina kniet, und von selben den Vermählungs Ring empfanget« (S. 313). Eine photographische Aufnahme der Cäcilienkapelle vor der Zerstörung (Abb. 29 in Kat. Max Emanuel I) zeigt einen Blick in die kassettierte Kuppel und auf das querovale Deckenbild, auf dem schemenhaft die drei dargestellten Figuren zu erkennen sind.
+
+
+== Quellen und Literatur ==
+
+
+Faßmann 1770, S. 313, Nr. 392
+
+Haeutle 1883, S. 99 (bei Haeutle und in der nachfolgenden Literatur werden fälschlich das ehem. Spiegelkabinett und die Josephskapelle mit der Cäcilienkapelle identifiziert).
+
+KDB I OB (2), S. 1136
+
+Thoma/Kreisel 1937, S. 185 (Raum 143)
+
+Hojer, Gerhard, Die Münchner Residenzen des Kurfürsten Max Emanuel in: Kat. Max Emanuel 1976, I, S. 143, Abb. 29.
+
+
+[[File:Band03-2_chunk007_p024_img001.jpg|thumb]]
+
+
+
+== ALTES RESIDENZTHEATER ==
+
+
+{{End}}

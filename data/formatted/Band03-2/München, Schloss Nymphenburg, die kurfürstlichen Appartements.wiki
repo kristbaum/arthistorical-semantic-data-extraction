@@ -1,0 +1,605 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=379
+|Originalseitenbis=396
+|Lemma=München, Schloss Nymphenburg, die kurfürstlichen Appartements
+|Typ=Profan
+|Ort=München
+|davor=München, Schloss Nymphenburg, Großer oder Steinerner Saal
+|danach=München, Schloss Nymphenburg, Schloßkapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Lüdicke, Lore
+}}
+
+Zwei Appartements im Hauptgeschoß des Mittelpavillons, den Großen Saal flankierend; z.Z. der Erbauung war das südliche Appartement (I–III) als Wohnung der Kurfürstin bestimmt, das nördliche (IV-VI) als Wohnung des Kurfürsten
+
+'''Zum Bauwerk:''' (nach BHStA I, HR I, 201/20a; HR II, 20, 21; GHA, Korr. Akt 668 / I, II, III): Der Innenausbau des Schlosses begann im Herbst 1672 mit der Arbeit der Kistler Georg Wohlgemuth und Hans Indauer an den Holzdecken der beiden Appartements südlich und nördlich des Mittelsaales. Es waren schwerplastische, reichgeschnitzte Decken mit ausgesparten Bildfeldern und aufgesetzten Kartuschen mit Bildfeldern. 1675 waren die neun Decken des Hauptgeschosses fertig ausgestattet: die der sechs Zimmer und der beiden Kabinette sowie die einer Galerie (des späteren Gartensaals), die die beiden Appartements im W verband. Sie wurden anschließend nach München zum Vergolden gebracht und drei davon, fertig vergoldet, noch im gleichen Jahr in Nymphenburg wieder angebracht. 1676 entstanden die Friese der Kabinette und der Galerie, 1679 die der sechs Zimmer.
+
+Bei Einstellung der Bauarbeiten 1679 waren, wie aus späteren Berichten und Rechnungen hervorgeht (Packhenreiter und Otschmann 1701) vier von den neun Deckenverkleidungen des Hauptgeschosses fertig vergoldet, mit den zugehörigen Bildern versehen und in den Räumen angebracht. Bei fünf Decken waren die Bilder noch in Arbeit. Die bis dahin fertiggestellten Bilder und die zwar vergoldeten, aber noch nicht aufgemachten Decken wurden teils im Schloß selbst, teils im Schwaighaus in Sicherheit gebracht. Stuckmarmorportale von Andreas Römer mit reich geschnitzten Türen von Georg Wohlgemuth verbanden die Räume. Die Fußböden waren gelegt, für die Einrichtung und Wandbespannung waren noch vor dem Tod der Kur-  
+fürstin Henriette Adelaide große Summen ausgegeben worden, so daß die Appartements zum Teil wohl auch möbliert waren. In welchen Räumen die Decken mit der Bildausstattung fertig waren, wissen wir nicht.
+
+Im Herbst 1672 wurden für die Arbeiten an den Kurfürstlichen Appartements drei Kistler aus Franken verpflichtet, darunter Georg Wohlgemuth und Hans Indauer, von denen Wohlgemuth noch jahrelang für den Münchner Hof arbeiten sollte (s. S. 275). Am 29. Januar 1673 war die erste Decke fertiggestellt. Daraufhin akkordierte man mit den Kistlern auf 140 fl. pro Decke (vorher hatten sie im Taglohn gearbeitet). Diese hohe Summe läßt Rückschlüsse auf den ursprünglichen Reichtum der Decken zu. Am 2. April 1673 war die zweite Decke fertig, am 17. Juni die dritte, am 22. Oktober die vierte: diese war etwas kleiner (Kabinett) und wurde mit 100 fl. bezahlt. Ende 1673 war die fünfte Decke fertiggestellt, am 28. Januar 1674 die sechste, am 26. April die siebente (je 140 fl.); die achte Decke war wieder etwas kleiner (Kabinett; 100 fl.). Anfang des Jahres 1675 wurde die neunte und letzte Decke im »Andern Gaden« (Hauptgeschoß) fertig. Bei diesen neun Decken handelte es sich um die der sechs Zimmer, der beiden Kabinette und der Galerie.
+
+Im Frühjahr 1675 wurden die ersten drei Deckenverkleidungen wieder abgenommen und nach München zum Vergolden gebracht; im Sommer die erste vergoldete Decke »mit dem Gemählwerkh neben den Ramen« endgültig angebracht, im Spätherbst die zweite und dritte, während andere Decken abmontiert und zum Vergolden gebracht wurden.
+
+Der Kistlertrupp unter Wohlgemuth war nun mit den geschnitzten Türen beschäftigt; außerdem entstanden 1676 die Friese in den beiden Kabinetten (der Summe von je 90 fl. nach zu schließen sehr reich ausgearbeitet) und ein weiterer Fries, der wohl für die Galerie bestimmt war (60 fl.). Erst 1679 entstanden wieder sechs Friese, die wesentlich einfacher waren (je 12 fl.) als die noch vor dem Tod der Kurfürstin geplanten und begonnenen. Die besoldeten Hofmaler Jean Delamonce und Antonio Triva arbeiteten, den wenigen Angaben nach zu schließen (s. S. 355) noch bis zur Baueinstellung an der Bildausstattung weiter. Eine Rechnung des im Tagwerk arbeitenden Farbenreibers Gregor Schecker von 1677 verzeichnet Malleinwände für die Hofmalerei, die er seit 4. März 1676 abgegeben hatte: »Erstlich: 5 Döckhen an ain iede werden 8 Stuckh 17 Diecher 8 öckhige 11 Diecher ablonge 2 Diecher 6 öckhige ...« Da die Malleinwände für den Saal gesondert aufgeführt sind (s.S. 355), muß es sich um fünf der insgesamt neun Decken der Appartements handeln, von denen drei schon fertiggestellt waren, fünf nie vollendet werden sollten. Die Leinwände waren für Nebenbilder bestimmt.
+<!-- citation-page-bottom: Band03-2 p379 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=16 -->
+<!-- citation-page-top: Band03-2 p380 -->
+
+<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
+
+<!-- header: DIE KURFURSTLICHEN APPARTEMENT -->
+
+1701/04 Nach der Rückkehr Max Emanuels aus den Niederlanden wurde das Schloß zunächst, soweit möglich, instandgesetzt. Durch den Umbau Viscardis im Großen Saal und den Anbau der seitlichen Galerien wurde die Beleuchtung der beiden Vorzimmer völlig verändert: Aus den je vier Fensterachsen im O, von denen je drei nur Blindfenster hatten (Vierl, s. 100), wurden drei, alle mit Fensteröffnungen. An der S- bzw. N-Seite blieb nur das westliche Fenster bestehen. Die Galerie wurde durch den Saalumbau Viscardis 1701/02 als Gartensaal eng mit dem Großen Saal verbunden.
+
+Die Deckenverkleidungen, die sich nicht an Ort und Stelle befanden und in der Schwaige ausgelagert waren (fünf, deren Bildausstattung in der ersten Bauphase nicht vollendet worden war), ließ man, soweit sie noch vorhanden waren, wieder anbringen. Fehlende Malereien wurden ergänzt. An den Kabinett-Decken wurden als Hauptbilder die mythologischen Porträts von Stefano Catani, ursprünglich Wandbilder, angebracht (s. S. 395). Ab 1702 brachte eine Planänderung auch eine Vereinfachung der geschnitzten Decken mit sich. Die Friese wurden abgebrochen.
+
+Max Emanuel befahl sofort nach seiner Rückkehr, »... zu Nymphenburg alle Zimmer und anders fördersamb in seinen Standt zerichten«, und Zuccalli, der zunächst damit betraut war, schreibt am 29. April 1701: »Wie mich erinndere, sind zu dem Pau zu Nymphenburg vor diesem schon alle Döckhen, Thüren, samt denen Claidungen, und mehr anders verferttiget worden, wovon sich derzeit selben ohrts nichts bezaigt.« Er wird in einem Schreiben Packhenreiters vom 30. April an den Kurfürsten berichtet: »Ihro Churfrtl. Drtl. haben an der, Ihro selbst vorgezeigten, samentlich im Schloss aufgemachten Mallerey bereiths vorhin allgdistes Contento erhalten. Nit weniger ist das ybrige, was an Döckhen, Thüren, Claidungen und andern, so vor diesem bey aufgehobnem Schlosspau zum thail ganz und halb ausgemachter in Nimphenburg verbliben, bereiths vor ank honfft diser erinderung durch den aldorthigen Schwaiger, der ain: so anders im Schloss und auf der Schwaig in sicherer Verwahrung gehabt den iezigen Pauleuthen ordentlich vorgezeigt: und ausgehendiget worden...« Die fünf in der Schwaige verwahrten Deckenverkleidungen wurden zunächst in der alten Form angebracht; Rechnung des Kistlers Franz Otschmann vom 2. November 1701: »Nemblichen die 5 gehengte Döggen von besagter Schwaig in das Schloß hinübergebracht und zusammengerichtet, dann ein iede besonders an sein gehöriges ohrts in dem Zimer aufgeschlagen und vor die abgehende Stuck neue gemacht, wie auch die abgebrochene widerrumben angeleimbt, Item die Mallereyen auf die Plindrhamen recht aufgespant, trifft also mein wolverdienter Lohn von ieder Deggen 20 f., zusamen aber 100 f.«
+
+Eine zweite Rechnung aus der gleichen Zeit nennt weitere Arbeiten: »Erstlichen in die 2 Cavinet die Frieß an das haubt gesims Vesst ange macht, und die Schneid-Arbeith oder Ziraten neu aufgeleimbt, auch den Abgang ausgebessert ... Dann in die Cavinet Deggen alle fillungen net aufgeschraufft ... Mehr in die aussern 2 Zimer an die Cavinet (Schlafzimmer), die frieß, welche zu kurz gewesen, neue daran gestuckht, und den Abgang ausgebessert, auch Vest under das Haubtgesims aufgemacht... Abermahl an die 2 Cavinet Zimer (damit sind wohl wie oben die Schlafzimmer gemeint) in die 2 deggen alle fillungen neu aufgeschraufft.« Diese Rechnung und die Erwähnung der angeschraubten Füllungen (Bildfelder) läßt den Schluß zu, daß die Decke, wie etwa im Herzkabinett der Residenz (s. S. 244) außer den in die Kassettendecke eingelassenen Bildfeldern auch aufgesetzte Bildfelder – für Inschriften oder Embleme – in Kartuschenrahmen gehabt hat. Johann Anton Gumpp ist im Winter 1701 bis Sommer 1702 als Freskant im Großen Saal bezeugt (s. S. 356). Gleichzeitig werden in den Baurechnungen Malerarbeiten in der Zimmern erwähnt, wohl Ausbesserungs- und Ergänzungsarbeiten, die ebenfalls zumindest zum Teil (ebd.) von Gumpp und seiner Werkstatt ausgeführt wurden. Als Vergolder wird auch Caspar Gottfried Stuber genannt. Im Winter 1701/02 faßte der Kurfürst offenbar den Entschluß, die Appartements umzugestalten und zu modernisieren: Am 18. März 1702 rechnet Otschmann folgende Arbeiten ab: »Im Churfrtl. Residenz Schloss Nymphenburg, hab aus befelch des ... Zuccalli ... in acht Zimern (die sechs Zimmer und die beiden Kabinette) die Frieß abgebrochen, und Nidergemacht, warbey in iedem Zimer 2 gsöllen 5 täg zu thun gehabt... Vom 19. Juni 1703 bis 30. Juni 1704 arbeiteten Gumpp und Giovanni Trubillio in den Kurfürstlichen Appartements: sie vergoldeten elf »vor Bildhauerarbeith ausgeschnidtne Thüren« (offenbar aus der ersten Bauzeit) und Anderes, »... item an den obern Töckhen mit Floderholz gemahlen, das Laubwerch mit Gold staffiert, dann im Mittern Zimer verschidtne Leisten vergoldt .« usw. Das Malen mit dem Floderholz war eine Art Maserungsmalerei, was bedeutet, daß zu dieser Zeit die überreiche Schnitzerei von den Decken zumindest teilweise schon abgenommen war. 
+
+Am Abschluß der zweiten Ausstattungsphase 1701-04 waren also die Friese bereits entfernt und die Deckenausstattung vereinfacht. Durch den verlorenen Krieg und das Exil des Kurfürsten blieben die Appartements wieder unfertig liegen.
+
+Nach der Rückkehr Max Emanuels aus dem Exil 1715 ließ er im ersten nördlichen Pavillon neue Kurfürstliche Appartements ausbauen. Als zeremonieller Zugang über die stadtseitige Freitreppe wurde das nördliche Vorzimmer ganz neu und reich ausgestattet, als Vorzimmer zu einer Galerie, die um 1703 neu erbaut worden war und zu den neuen Appartements führte. Auch die übrigen Zimmer wurden verändert, die alten Portale abgetragen und neue gesetzt. Passend zu dem Weiß und Gold, die jetzt die beherrschenden Farben waren, wurden wohl auch in dieser Zeit die Decken in ihre heutige Form gebracht, wobei die Hauptbilder den alten Rahmen behielten, die Nebenbilder aber einen schmalen und flachen Rahmen im Blattstabor nament bekamen. Der Blattstab entspricht dem der Gesimse in den Zimmern I, II, III, V und VI. Das Weiß des Deckengrundes geht wohl auch auf diese Zeit zurück. In der Folgezeit fanden immer wieder Veränderungen in der Ausstattung der Räume statt. Der Zustand der ersten Bauzeit ist in keinem der Räume original erhalten. 1763/64 wurden die Kabinette umgestaltet und dabei die Decken mit den 1701 angebrachten Bildern entfernt.
+
+Zwei Appartements, einander spiegelbildlich gleich. Je drei Zimmer: Vorzimmer, Audienzzimmer und Schlafzimmer mit im W anschließendem Kabinett sind durch eine Enfilade an der S- bzw. N-Seite verbunden. Zugang zu den Appartements vom Saal in die Vorzimmer und vom Gartensaal über die Vorräume der kleinen Treppenhäuser in die Schlafzimmer. Von den Vorzimmern über Galerien Verbindung zum südlichen bzw. nördlichen Pavillon. Die Audienzzimmer sind mit den Zimmerfluchten verbunden, die 1795/96 im W an die Galerien angebaut wurden.
+
+Vorzimmer 6,90 × 5,80 m, je drei Fenster nach O  
+Audienzzimmer 6,90 × 5,90 m, ein Fenster nach S bzw. N  
+Schlafzimmer 6,90 × 5,90 m, zwei Fenster nach S bzw. N  
+
+'''Auftraggeber:''' 1672-76 Kurfürstin Henriette Adelaide von Bayern (1652/54-76), die in den Baurechnungen bis zu ihrem Tod als Auftraggeberin genannt ist; 1676-79 Kurfürst Ferdinand Maria von Bayern (1651/54-79), dem seine Gemahlin das Schloß testamentarisch vermachte (GHA, Korr. Akt 668/I); 1701/04 und 1716 Kurfürst Max Emanuel von Bayern (1670/80–1726)
+
+
+== <b>Autor und Entstehungszeit</b> ==
+
+
+Südliches Appartement  
+
+I Vorzimmer  
+
+I Antonio Triva (* 1626 Reggio † 1699 München) 1673. Das Hauptbild wurde von Triva am 25. Juli 1673 abgerechnet: »Per un quadro grande, che và nel soffitto a Ninfinburg nel mezzo una figura intiera magiore del naturale nomata la Dea Aretusa con una grand'Urna appresso f. 60; Per quatro putini magiori del Naturale che sostentano una grandi Urna, a ragion di 40 fiorini l'uno f. 160; Per altri tre putini nel medesimo quadro compagni delle altri, che scherzano per Aria f. 120; « (BHStA I, HR I/282/155, 156).  
+
+1674 schuf Triva ein weiteres Bild für Nymphenburg: Abrechnung vom 24. Juli 1674: »Per un ... Quadro, che va a Ninfinburgo detto li Sacrifici fontanali con sei Vergini, che andornano de fiori, e frutti delle fontano tutte sei figure fio 360. Architetture di fontane, statue, frutti, fiori, Paesi, e altri accessorij non li metto« (loc. cit.)  
+
+Dieses Bild (Öl auf Leinwand, 257 × 202 cm, BSGS Inv. Nr. 3654) befindet sich als Leihgabe in der Vorhalle der Bayerischen Vereinsbank, München Odeonsplatz 14. 1758 befand es sich an der Wand des Audienzzimmers im südlichen Appartement (Faßmann).  
+
+[[File:Band03-2_chunk008_p016_img001.jpg|thumb|A. Triva, Sacrificii Fontanali, München]]  
+
+I<sub>1-4</sub> Jean Delamonce (?) ab 1676  
+
+Die Nebenbilder I<sub>1-4</sub> können nicht von Triva sein; sie zeigen zwar eine gewisse stilistische Verwandtschaft mit Trivas Werken, ähneln ihnen auch in Details (wie etwa den aufgesetzten Zickzack-Höhungen der Falten), unterscheiden sich jedoch in der Behandlung von Licht und Schatten (etwa in den jähen und unmotivierten Abschattungen in Gesichtern und Körperpartien) wie auch in gegenständlichen Details. Die Vermutung liegt nahe, daß der vom Hof besoldete, für Nymphenburg als Maler überlieferte (s. S. 355) und in einem Schriftwechsel um das Rosen- und Lilienzimmer in der Residenz als Deckenmaler genannte (BHStA I, HR I, 285/267) Jean Delamonce, der bisher in Werken noch nicht faßbar ist, Autor dieser Nebenbilder wie auch der Bilder II<sub>1-4</sub> und V<sub>1-4</sub> war.  
+
+Jean Delamonce (* 1635 Paris † 1708 Lyon) arbeitete als Dekorationsmaler anläßlich der Hochzeit Carlo Emanueles II. von Savoyen, eines Bruders der Kurfürstin, 1662 in Chambéry und 1665 bei den Feierlichkeiten anläßlich der Kanonisation des hl. Franz von Sales in Annecy; außerdem als Bildnismaler für den Turiner Hof. 1672 kam er nach München, wo er zunächst am Hofe wohnte und verköstigt wurde, dann aber eine Besoldung von 250 fl. jährlich (ab 18. 9. 1674, 270 fl.) erhielt. Delamonce führte den Hofmalertitel, arbeitete auch in München an Porträts (s. den Stich Amlings von 1675 nach einem Porträt der Kurfürstin von Delamonce, Kat. Max Emanuel I, 1976, Abb. 62). Am 11. 11. 1675 heiratete er Jeanne Pasquier, Aufwärterin bei der Kammerfrau der Kurfürstin, Gräfin Perusa. 1678 wurde ihm ein Sohn, Ferdinand, geboren, dessen Taufpate der Kurfürst war. Delamonces Besoldung endete mit März 1684, worauf er sich nach Lyon begab (BHStA I, Kurbayern HZ 1672-84; HR I, 285/ 265; BHStA III, GHA, Korr. Akt 668/II; StadtAM, Trautmann-Nachlaß, Schachtel 57).  
+
+I<sub>a–d</sub> zeigen nur sehr einfache Dekorationsmalereien mit den Monogrammen FM (Ferdinand Maria); diese Bilder sind wohl erst nach dem Tod der Kurfürstin, zwischen 1676 und 1679, entstanden.  
+
+II Audienzzimmer  
+
+II Autor unbekannt  
+
+II<sub>1-4</sub> Die Nebenbilder in den Ecken stammen von der gleichen Hand wie I<sub>1-4</sub> und V<sub>1-4</sub>, vermutlich von Jean Delamonce.  
+
+II<sub>a-d</sub> Die Nebenbilder an den Seiten sind verhältnismäßig qualitätvoll. Aufgrund figürlicher und anderer Details sowie der Farbigkeit kann man sie Antonio Triva zuweisen. Sie stammen aus der Zeit vor dem Tod der Kurfürstin 1676.  
+
+III Schlafzimmer  
+
+III Joseph Werner (* 1637 Bern † 1710 Bern) ca. 1675/76? (s. Schlafzimmer VI Thetis S. 383).  
+
+Das Deckenbild Flora ist auf Grund stilistischer Vergleiche mit dem gesicherten Bild Thetis dem Schweizer Maler Joseph Werner zuzuweisen. Beide Bilder stimmen in Kompositionsweise und Zeichnung, in der Art der plastischen Körpermodellierung und in der Behandlung der Stoff- und Faltenpartien mit ihren scharfgratig-metallischen Effekten überein. Der Lichteinsatz mit starker Aufhellung der beleuchteten Partien und kontrastierenden kleinteiligen Schatten läßt Putti, Wolken und Gewänder in unruhiger und kleinteiliger Plastizität erscheinen. Vor allem zeigt das Florabild auch die für Werner bezeichnende präzise und akzentuierende Darstellung der kleinen Gegenstände, der Blüten und Früchte.  
+
+Das Bild ist bei Sandrart (s. Thetis) nicht erwähnt. Es war demnach bei Drucklegung des 1675 erschienenen Werkes noch nicht geliefert.  
+
+III<sub>1-4</sub>, III<sub>a-d</sub> Jean Delamonce Die Nebenbilder unterscheiden sich – ebenso wie VI<sub>1-4</sub> und VI<sub>a-d</sub> – sowohl von  
+
+<!-- citation-page-bottom: Band03-2 p381 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=17 -->
+<!-- citation-page-top: Band03-2 p382 -->
+
+<!-- header: NVMPHENBURG HAUPTSCHLOSS -->
+
+<!-- header: DIE KURFÜRSTLICHEN APPARTEMENT -->
+
+Die Eckbilder III<sub>1-4</sub> und VI<sub>1-4</sub> dürften mit denen identisch sein, die Michael Gumpp (* 1636 Innsbruck † 1679 München) in einer Rechnung anführt (GHA, Korr. Akt 668/II »Aus befelch Ihro Drl. der Churfürstin ... hab ich ... 167 ... die 8 Eckht Zwückhl zu den 2 Töckhen vbersich auf nach Nünffenburg, welliche vorhero gra in gra von öllfarber gemalt gewesen, jezo aber alles mit lebhaften und under schidlichen gemalt, daran hab ich für ein grosses, alwo der rotte grundt (III<sub>1-4</sub> sind rotgrundig) ist, verdient pro 15 f. = 60 f, für die 4 khleineren al wo der griene Grund (VI<sub>1-4</sub> sind kleiner und grüngrundig) ist, für eines verdien pro 12 f = 48 f.« Diese Rechnung bestätigte Delamonce »Je soubsigne ce present billet pour attester comme le dit sr Gompe a tous ce peint e retouché toutes les sudites DIECES...«
+
+Es scheint also, daß die Eckbilder zunächst – wie die anderen - von Jean Delamonce als Grisaillen gemalt waren, dann aber auf Wunsch der Kurfürstin durch Michael Gumpp – der öfters für den Hof beschäftigt wurde – farbig gefaßt wurden.
+
+Die klassizistische Reliefauffassung der Ornamente und die porzellanhaft glatte Oberflächenbehandlung der Nebenbilder beider Schlafzimmer und des Flora-Bildes (III) weisen auf die Restaurierung von 1795 durch Jakob Dorner nin.
+
+Dorners Rechnung vom 17. Juni 1795 lautet: »... sonderheitlich abei jenner in den Wohnzimmern Sr. Churfürstl. Drtl. Unsers gnädigster Herrns in Nymphenburg, wo zween sehr verdorbene große, und 16 kleine Plafon ergänzt musten werden« (BHStA I, HR I, 279/6/II). Die sechzehn Nebenbilder wurden also offenbar von Dorner weitgehend übermalt.
+
+Die beiden großen Plafonds, die Dorner nennt, betreffen wohl das Flora-Bild (III), das in Details viele Gemeinsamkeiten in der Oberflächenbehandlung mit den Eckbildern zeigt, und das Diana-Bild (V), das Dorner schon 1794 restauriert hatte und auf das er sich in der genannten Rechnung wohl bezieht.
+
+
+== Nördliches Appartement ==
+
+
+IV Vorzimmer
+
+IV Antonio Zanchi (* 1631 Este † 1722 Venedig) ca. 1674/73.
+
+Faßmann nennt 1758 Zanchi als Autor des Ceres-Bildes Riccoboni (1969, S. 127) machte auf eine Werkliste aufmerksam, die Zanchis Arbeiten für den Münchner Hof aufführt (Lettera del Sig. N.N. al Sig. Girolamo Albrizzi, in cui gl'invia la Note delle Pitture, ed il Ritratto del Sig. Antonio Zanchi celebre vivente Pittore in Venezia, in: Galleria di Minerva II, 1697, S. 63). Neben den Arbeiten für das Heldinnenzimmer der Residenz (s. S. 220 f.) ist dort »... un altro soffitto da altra stanza, Cerere seguita in Amorini« aufgeführt und von Riccoboni als das Deckenbild des nördlichen Vorzimmers in Nymphenburg identifiziert.
+
+Henriette Adelaide und Ferdinand Maria hatten die Arbeiten Zanchis 1667 während ihres Aufenthaltes in Venedig kennengelernt. Zanchi stand damals bereits auf der Höhe seines Ruhms. 1666 hatte er das vielbewunderte Riesengemälde in der Scuola di San Rocco Die Pest in Venedige vollendet und arbeitete 1667 an der Austreibung aus dem Tempel« in der Scuola di San Fantin. Für den Münchner Hof malte er außer den Deckenbildern in der Residenz das Hochaltarbild und das Schutzengelaltarbild in der Theatinerkirche (Gerhard Ewald, Eine unbekannte Entwurfszeichnung für das Hochaltarbild der Theatinerkirche in München, in: Das Münster 13, 1960, S. 260–63; Baumstark, Kat. Max Emanuel II, Nr. 16). Von allen diesen Bildern ist nur das Ceres-Bild in Nymphenburg erhalten. Baumstark (Kat. Max Emanuel I, S. 184) nimmt einen Aufenthalt Zanchis in München 1672 an, währenddessen das Nymphenburger Deckenbild entstanden sei. Dieser Aufenthalt ist nicht belegt. Nach dem Stand der Arbeiten am Bau und an den Decken ist ein so frühes Entstehungsdatum auch unwahrscheinlich. Der Auftrag kann frühestens im Januar 1673 ergangen sein, bei Fertigstellung der ersten Decke. Da während des Jahres 1675 die ersten drei Deckenverkleidungen vergoldet und zusammen mit den Deckenbildern angebracht wurden, ist es denkbar und zeitlich möglich, daß das Ceres-Bild zusammen mit dem Transport der Altarbilder für die Theatinerkirche von Zanchi und Cignani am 19. Juni 1675 in München angekommen ist.
+
+IV<sub>1-4</sub> Johann Anton Gumpp (* 1654 Innsbruck † 1716 München) 1701/02.
+
+Faßmann nennt 1758 als Autor der Puttenbilder Gumpp mit dieser Angabe stimmt der stilistische Befund überein Gumpp ist als Maler in Nymphenburg 1701-1703 nachweisbar; auch werden in den Baurechnungen ab Winter 1701/02 Malerarbeiten in den Zimmern genannt.
+
+IV<sub>a-d</sub> Die Monogramme Max Emanuels weisen auf eine Entstehungszeit ab 1701 hin; sie entstanden wohl gleichzeitig mit den Puttenbildern.
+
+
+== V Audienzzimmer ==
+
+
+V Johann Anton Gumpp (* 1654 Innsbruck † 1719 München) 1682; das Bild befand sich ursprünglich in der Ritterstube der Alexanderzimmer in der Residenz (s. S. 277, 282) und wurde um 1794 an der Decke des Audienzzimmers angebracht.
+
+Über ein Mittelbild aus der ersten Ausstattungsphase 1672-79 ist nichts bekannt. Bei der Wiedereinrichtung der Zimmer 1701/02 erhielt das Audienzzimmer ein Deckenbild, das in den Inventaren seit 1758 erwähnt und 1770 folgendermaßen beschrieben ist. »In der Antichambre: Vouet In der mit Öhlfarben gemalten Oberdecke zeiget sich die Aurora, wie sie der Diana mit folgender Beyschrift eine Kopel Jagd Hunde verehret Varius variis est usibus usus.«
+
+In einem Inventar vom 19. März 1715 über die 1704 in Nymphenburg vorhanden gewesenen Bilder (BHStA I, FS 675/2) schreibt der Schloßverwalter Packhenreither über die Gemälde: »... all ybrige Mallereyen (sind) in der flucht (= 1704 nach der verlorenen Schlacht am Schellenberg) von Iro Excell. Herrn Baron von Neuhaus nacher München yberschickt worden, ausser der grossen 2 Stuckh, davon Iro Churfürstl. Drtl. wie Sye von Prisslankhomen, aines in die Residenz nacher münchen yberbringen: das<br>ander aber zu Ninphenburg im Audienz Zimer in die obere Döckhen aufmachen lassen.«
+
+Dieses aus Brüssel mitgebrachte Bild, identisch mit dem in den Inventaren bis 1770 genannten, ist offenbar dasselbe, das Jakob Dorner 1794 restaurierte: »... ein Gemälde von Erster Größe, von Simon Vouet gemahlen<br>durch aufzihen auf Neue Leinwand und einer mühesamen Reparation dem nahen Untergange völlig entzogen worden...« Nach Dorner war das Bild damals für die Münchner Galerie bestimmt (BHStA I, HR, 279/6/II). Der Katalog des Residenzmuseums (Adolf Feulner, 1924) führt dieses Bild als Nr. 446 (3,83 × 2,85 m). Bis 1939 war es im Depot der Residenz; durch Verfügung vom Juni 1956 wurde es als Kriegsverlust abgeschrieben (BSV, Registratur Rep. Reg. 164<sup>b</sup> Akt 41).
+
+Anläßlich der Restaurierung von 1794 kam an Stelle des sog. Vouet offenbar das Gumpp-Gemälde aus den 1726 umgebauten Alexanderzimmern an die Decke des Audienzzimmers. Das Gegenstück zu dem sog. Vouet, das gleichzeitig aus Brüssel 1701 angekommen war, befindet sich im Depot der Bayerischen Staatsgemäldesammlungen (Öl auf Leinwand, 3,90 × 6,40 m, Inschrift: Ferit tantum fera comparat arma, BSGS, Inv. Nr. 4679). Es zeigt Diana mit Gefolge, Hunden und einem erlegten Hirsch.
+
+
+== V<sub>1-4</sub> Jean Delamonce: ==
+
+
+V<sub>a-d</sub> Monogramme Ferdinand Marias und Henriette Adelaides, einfache Malereien aus der Zeit vor 1676
+
+
+== VI Schlafzimmer ==
+
+
+VI Joseph Werner (* 1637 Bern † 1710 Bern) um 1674. Das Bild ist für Joseph Werner gesichert durch die Erwähnung bei Sandrart: »... zumal da er erst neulich auch in Öhlfarben in einem großen Stuck, ein rühmliches Merkmal seiner Kunst aufgerichtet, indem er in der Churfl. Residenz nach Mönchen, eine, durch die Lüfte mit vielen Liebsgöttern umgebene, und ab ihrem Wagen allerhand rare See- Muscheln herabschüttende Thetis gebildet, welche zu Ihre Churfl. Durchl. gnädigstem Contento verfärtiget worden.« (Teutsche Academie der edlen Bau- Bild- und Malereykünste, Nürnberg 1675, III. Buch, 2. Teil, S. 334; identifiziert durch Glaesemer S. 186). Der Auftrag dürfte im Jahr 1673 ergangen sein; da Sandrart es 1675 als bereits geliefert erwähnt, muß es zu den ersten drei im Jahr 1675 fertiggestellten Decken gehört haben.
+
+
+[[File:Band03-2_chunk008_p017_img001.jpg|thumb|J. Werner, Zeichnung zu VI Thetis, Berlin]]
+
+
+
+== Zeichnung ==
+
+
+Zu diesem Bild existiert eine Entwurfskizze, Pinsel, Tusche, weiß gehöht, quadriert, 28,6 × 39,5 cm, Kupferstichkabinett Berlin, Inv. Nr. KdZ 6217. Die Zeichnung wurde im Ausstellungskatalog Barock in Deutschlands Residenzen, Berlin 1966, als Entwurf Werners für die Ausführung durch Triva in Nymphenburg publiziert (Nr. 346; s. Baumstark 1976, S. 184).
+
+VI<sub>1-4</sub> Die Eckbilder wurden wie die Bilder III<sub>1-4</sub> wohl zunächst als Grisaillen von Jean Delamonce gemalt, von Michael Gumpp dann farbig gefaßt und 1795 durch Jakob Dorner restauriert (s. S. 382 III<sub>1-4</sub>).
+
+VI<sub>a-d</sub> Monogramme Ferdinand Marias und Henriette Adelaides, entstanden vor 1676, durch Dorner 1795 übermalt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecken
+
+Rahmen: schwere, geschnitzte und vergoldete Rahmen, die durch die Verwendung von Motiven wie Schilf, Perlen, Eichenblättern mit Eicheln, Blumen, Ähren auf das Thema des Mittelbildes eingehen. Sie stammen aus der ersten Ausstattungsphase; im übrigen wurden die ursprünglich schweren vergoldeten und reich verzierten Decken im Laufe des 18. Jh. stark vereinfacht. Alle Nebenbilder haben schmale vergoldete Rahmenleisten mit Blattstab-Motiv
+
+Technik: Öl auf Leinwand; polychrom
+
+Maße: I Höhe 5,20 m; 3,60 × 4,90
+
+II Höhe 5,20 m; 3,10 × 4,80
+
+III Höhe 5,20 m; 3,70 × 4,60
+
+IV Höhe 5,20 m; 3,70 × 4,80
+
+V Höhe 5,20 m; 3,30 × 4,60
+
+VI Höhe 5,20 m; 3,40 × 4,80
+
+Erhaltungszustand und Restaurierungen: Die Deckenbilder der Appartements wurden vor der Wiedereröffnung nach dem Krieg gereinigt und – wo nötig – restauriert. Eine gründliche Restaurierung aller Decken ist in Vorbereitung. Die Mittelbilder sind in verhältnismäßig gutem Zustand, die Nebenbilder I<sub>1-4</sub>, I<sub>a-d</sub>, II<sub>1-4</sub>, II<sub>a-d</sub>, V<sub>1-4</sub>, V<sub>a-d</sub> in schlechtem. III, III<sub>1-4</sub>, III<sub>a-d</sub> und VI<sub>1-4</sub>, VI<sub>a-d</sub> zeigen Übermalungen des 18. Jh. (Dorner).
+
+Zwei mythologische Porträts von Stefano Catani >Ferdinand Maria in Gestalt des gekrönten Astronomen Endymion, der durch das Erforschen des Mondes Luna-Dianas Liebe gewinnt« und »Henriette Adelaide als Luna-Diana im Kreise ihrer Kinder, darunter Max Emanuel als Herkules« wurden wohl bei der Wiedereinrichtung der Räume 1701/02 in den beiden Kabinetten an der Decke angebracht, und zwar Henriette Adelaide im südlichen und Ferdinand Maria im nördlichen; die rechteckigen Bilder wurden dabei zum Ovalformat umgeschlagen. Bei der Umgestaltung der Eckkabinette 1763/64 wurden die Bilder wieder entfernt. Sie befinden sich heute – im ursprünglichen Format – an den Wänden im mittleren südlichen Zimmer.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die Decken sind in ihrer heutigen Form Torsi. Vom ursprünglichen Bestand sind außer den fünf Hauptbildern und fünf Serien von Nebenbildern nur noch die Rahmen der Hauptbilder erhalten; z.Z. der Ausmalung waren die Decken sehr reich geschnitzt, dem Rahmenwerk waren noch Bild- oder Inschriftenfelder in Kartuschenrahmen appliziert, vergleichbar dem Herzkabinett in der Residenz (S. 245).
+
+Die Formate der Hauptbilder variieren: Es sind drei Paare, die ursprünglich in den beiden Appartements wohl parallel angeordnet waren. I und VI sind querformatige Achtecke mit eingebuchteten Ecken. Die dazugehörigen Nebenbilder haben in den Ecken die Form von Viertelkreisen (I<sub>1-4</sub>
+<!-- citation-page-bottom: Band03-2 p383 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=18 -->
+<!-- citation-page-top: Band03-2 p384 -->
+
+NYMPHENBURG, HAUPTSCHLOSS
+
+<!-- header: DIE KURFÜRSTLICHEN APPARTEMENTS -->
+
+
+[[File:Band03-2_chunk008_p018_img001.jpg|thumb]]
+
+
+VI<sub>1-4</sub>), in den Seitenmitten die Form von Längsrechtecken mit gekurvten Schmalseiten (I<sub>a-d</sub>, VI<sub>a-d</sub>). II und V sind Querrechtecke mit an den Schmalseiten angesetzten Kreissegmenten. Die entsprechenden Nebenbilder in den Ecken haben die Form unregelmäßiger Fünfecke, deren zum Hauptbild gerichtete Seite eingezogen ist (II<sub>1-4</sub>, V<sub>1-4</sub>). Die Bildfelder der Seitenmitten haben an den Längsseiten die Form von Längsrechtecken (IIa und c, Va und c); an der Schmalseiten die Form von Längsrechtecken mit zum Hauptbild hin eingezogener Längsseite (II<sub>b und d</sub>, V<sub>b und d</sub>). III und IV sind Querovale; die Nebenbilder in den Ecken haben die Form unregelmäßiger Fünfecke mit zum Hauptbild hin stark eingezogener Seite (III<sub>1-4</sub>, IV<sub>1-4</sub>) und zu den Seiten hin leicht eingezogenen Seiten, analog zu der Krümmung der Nebenbilder III<sub>a–d</sub> und IV<sub>a–d</sub>, die sämtlich die Form längs halbierter Ovale haben.
+
+
+== Südliches Appartement ==
+
+
+== I Vorzimmer ==
+
+
+ARETHUSA (Antonio Triva) Betrachterstandpunkt unter dem östlichen Bilddrittel, Blickrichtung nach W. Auf geballten Wolken vor hellem blauen Himmel sitzt die Quellnymphe Arethusa; sie trägt ein blaues Kleid und über der halb entblößten Brust einen weißen, goldbestickten Überwurf. Ihr grüner Mantel fliegt hinter ihr bauschig auf. Sie ist mit Perlen geschmückt, hat eine Schilfkrone auf dem langen blonden Haar und hält einen Schilfstengel in der Linken wie ein Zepter. Mit dem rechten Arm stützt Arethusa sich auf eine Amphora, in die vier lebhaft bewegte fliegende Putti aus einer zweiten Amphora Wasser gießen. Rechts von dieser Gruppe spielen in den Wolken zwei Putti mit Pfeil, Bogen und Köcher; darüber ist ein weiterer zu sehen, der einen Strauß von Schilfstengeln und eine Schwertlilie herbeibringt. Die Gestalt der Nymphe, die Putti und die Amphoren sind in starker Verkürzung und Untersicht gegeben, Körper, Gewand und Gefäße dadurch effektvoll in das von links oben einfallende Licht gesetzt. Tief abgeschattet wird die Unterseite der Wolken und vor allem die Innenseite des grünen Mantelbauschs, vor die der hell beleuchtete Arm der Nymphe, ihr blondes Haar, die Perlen und die Goldstickerei als Kontrast gesetzt sind.
+
+Das Grau und Blau des Himmelsschauplatzes wie das Grün und Blau des Nymphengewandes, die rein anteilmäßig beherrschenden Farben, sind kühl und zurückhaltend.
+
+
+[[File:Band03-2_chunk008_p018_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p018_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p018_img004.jpg|thumb|384]]
+
+
+
+[[File:Band03-2_chunk008_p018_img005.jpg|thumb|II Cybele]]
+
+
+
+[[File:Band03-2_chunk008_p018_img006.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p018_img007.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p018_img008.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p018_img009.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p385 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=19 -->
+<!-- citation-page-top: Band03-2 p386 -->
+
+
+[[File:Band03-2_chunk008_p019_img001.jpg|thumb]]
+
+
+Farbige Leuchtkraft erhält das Bild durch die verschiedenen Rotwerte, die den Hauptfarben Grün, Blau und Grau entgegengesetzt sind: Das Rotbraun der Amphoren, Rot und Rosa in den Draperien der Putti, das Rot von Bogen und Köcher, vor allem aber die rothaltigen Inkarnate der einzelnen Putti. Das Inkarnat ist von Figur zu Figur differenziert: von lebhaftem Rosa bis zu blassem Elfenbein, an Händen, Gelenken und Füßen rosig intensiviert.
+
+Oberflächeneffekte im Licht – besonders in den Perlen und der Goldstickerei –, das Aufleuchten einzelner Farbpartien fast losgelöst vom Darstellungswert der Farbe steht in der
+
+
+[[File:Band03-2_chunk008_p019_img002.jpg|thumb]]
+
+
+Tradition der venezianischen Deckenmalerei ebenso wie das Bildsystem, in dem die illusionistischen Effekte den Figuren immanent sind, das Erstellen eines illusionistisch schlüssigen Bildraums dagegen kein Anliegen ist.
+
+Die Nymphe Arethusa, Tochter von Nereus und Doris, badete einst nach der Jagd im Wasser des Flusses Alpheus. Dabei erregte sie die Liebe des Flussgottes Alpheus, der sie verfolgte, bis sie durch die Hilfe Dianas zu einer Quelle wurde, in der Erde versank und erst in Sizilien wieder ans Tageslicht kam, wo sich Alpheus zuletzt doch, wieder in einen Fluss verwandelt, mit ihr vermischte {ZITAT|Ovid Metamorphosen V, 572 ff.; Servius, Kommentare zu Vergils Aeneis zu III, 694}.
+
+Auf die Liebe zwischen Alpheus und Arethusa spielen im Bild sowohl die mit Bogen, Pfeil und Köcher spielenden Putti als auch die Vermischung des Wassers beider Amphoren an. Schilfstengel und Schilfkrone kennzeichnen Arethusa als Quellnymphe, ebenso wie die Schwertlilie und das Schilf in den Händen des Putto
+
+
+[[File:Band03-2_chunk008_p019_img003.jpg|thumb|IL]]
+
+
+I<sub>1-4</sub> QUELLNYMPHEN In den vier Eckbildern sind Nymphen dargestellt, jeweils in ein ornamentales System eingebunden, das aus seitlichen Akanthusranken und einer Amphora mit Schilfstengeln besteht.
+
+
+[[File:Band03-2_chunk008_p019_img004.jpg|thumb|III Flor]]
+
+
+I<sub>a-d</sub> Die Nebenbilder in den Seitenmitten der Decke zeigen in grüngrauer Malerei mit weißen Höhungen jeweils das Monogramm FM (= Ferdinand Maria) auf dunklem Grund zwischen einfachen Ranken (Keine Abbildungen).
+
+
+== II Audienzzimmer ==
+
+
+II CYBELE Ansicht nach W. Vom unteren Bildrand ragt ein felsiger Berggipfel auf, dessen Spitze von einer Wolke bedeckt ist. Hier sitzt die Göttin in Gestalt einer anmutigen jungen Frau in rosafarbenem, höfischen Gewand mit weißem Ausputz um die Schultern und einem Schmuckstück auf der Brust. Das Kleid ist geschürzt und gibt ein grünes Unterkleid sowie die nackten Beine der Göttin frei. In der Rechten hält Cybele ein Zepter, mit der Linken stützt sie sich auf einen Würfel. Im ganzen Bildfeld sind fliegende Putti mit weitgespannten Flügeln zu sehen, die die Göttin mit Felsenspitzen und einem Turm krönen und die Tannenzweige, Felsenstücke und rechts oben einen großen Buschen von Kiefernzweigen herbeibringen. Bildhintergrund ist ein kräftig blauer Himmel, vor dem sich
+
+
+[[File:Band03-2_chunk008_p019_img005.jpg|thumb]]
+
+
+nur rechts unten wenige dünne, violett-graue Wolken zeigen.
+
+In der Figur der Cybele und einigen Puttofiguren sind illusionistische Effekte in Untersicht und Verkürzung versucht, in der Gesamtkomposition aber nicht konsequent durchgeführt. Die Figuren sind in oft drastischen Licht- und Schattenkontrasten gezeigt, ohne daß diese Effekte durch einen bestimmten Lichteinfall begründet wären. Die Bildkomposition besteht im wesentlichen in der Dreiecksfigur der auf einem Berggipfel thronenden Göttin, im übrigen ist das Bildfeld mit Puttenfiguren ausgefüllt.
+
+Hauptfarbe ist das reichlich verwendete, braunrot abgeschattete Inkarnat vor blauem Himmel. Neben dieser Kontrastwirkung, die das ganze Bildfeld beherrscht, ist das Grün der über das Bild verteilten Zweige ohne Leuchtkraft. Der Würfel als Attribut Cybeles ist Symbol für die Festigkeit der Erde, das Zepter Zeichen der Herrschaft über sie. Die Turmkrone, ein traditionelles Attribut, wird hier in einer originellen Abwandlung gezeigt: in der Form einer Krönung mit Turm und Felsen durch Putti. Durch Zepter, Würfel und Turmkrone ist Cybele eindeutig gekennzeichnet; andererseits werden durch ihre Darstellung als junges Mädchen in höfischem Gewand und durch die Fichtenzweige bestimmte Wesenszüge der mythologischen Gestalt hervorgehoben. Cybele war die Tochter des phrygischen Königs Meon und seiner Gemahlin Dindyma; ihre Gleichsetzung mit Rhea, Opis oder Magna Mater erfolgte erst später. Meon setzte Cybele, weil sie kein Sohn war, auf den Berg Cybelus in Phrygien aus. Ihr Geliebter in der bergigen Einsamkeit war Attis {ZITAT|Diodor Siculus, Lib. III, 58, 59; Hederich, s.v. Cybele, s.v. Attes}.
+
+Auf Attis verweisen in diesem Bild die Fichtenzweige, denn er starb nach verschiedenen Überlieferungen unter einer Fichte, und die Fichte wurde deshalb der Cybele geweiht {ZITAT|Servius, Kommentare zu Vergils Aeneis IX, 116}. Durch die Darstellung der Göttin als auf dem Berggipfel thronend wird an ihren Aufenthalt in der gebirgigen Einsamkeit erinnert, durch ihr höfisches Kleid an ihre Stellung als Prinzessin und durch die Fichtenzweige an ihre Eigenschaft als Liebende. Die vielen Steine, die von den Putti herange-
+
+
+<!-- citation-page-bottom: Band03-2 p387 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=20 -->
+<!-- citation-page-top: Band03-2 p388 -->
+
+NVMPHENBURG HAUPTSCHLOSS
+
+<!-- header: DIE KURFÜRSTLICHEN APPARTEMENT -->
+
+
+[[File:Band03-2_chunk008_p020_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p020_img002.jpg|thumb|]]
+
+5 (S) (S) III
+
+
+[[File:Band03-2_chunk008_p020_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p020_img004.jpg|thumb|grund dient der Nymphe Flora als Sitz. Sie trägt ein weißes Gewand, das, schräg über den Oberkörper geführt, ihre rechte Brust freiläßt; ein dunkelgrünes Ubergewand ver- hüllt ihre Beine, und eine bogenförmig auffliegende rosa Draperie hinterfängt sie. Ringsum fliegen Putti herbei mit Blüten, Früchten und Girlanden. Die Nymphe selbst hat das Haupt mit einem Kranz aus Rosen geschmückt und hält weitere Blumenkränze in den hocherhobenen Händen; über ihren Knien liegt eine Girlande. Blumen, Blüten und Früchte sind großenteils naturgetreu dargestellt und botanisch bestimmbar: Rosen, Lilien, Jasminblüten, Papageientulpen, Anemonen, Pfirsiche, Kirschen, Pflaumen und]]
+
+
+tragen werden, sind nicht hinreichend zu deuten. Im Hauptbild sind die Steine bergkristallähnlich, in den Nebenbildern verschiedenfarbig. Vielleicht wird damit auf die vielfältigen Schätze der Erde und der Gebirge angespielt (analog zu den Blumen, Ähren, Muscheln und Fischen der anderen Bilder)
+
+II<sub>1-4</sub> PUTTI In den Bildfeldern der Ecken sind in weißen und goldenen Akanthusornamenten geflügelte Putti dargestellt, die schwere Steine tragen. Steine in Diamantschliff sind auch am Akanthusornament zu sehen, z. B. als zusammenfassender Reif oder als Inneres der Blüten
+
+II<sub>a-d</sub> MONOGRAMME Die Bildfelder der Seitenmitten zeigen die Monogramme Ferdinand Marias und Henriette Adelaides, wobei jeweils die gegenüberliegenden sich motivisch gleichen.
+
+
+[[File:Band03-2_chunk008_p020_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p020_img006.jpg|thumb|]]
+
+II<sub>b und d</sub> Vor blauem, rosig bewölktem Himmel sieht man jeweils unter einer roten Schleife das Monogramm HA, durch das Ol- und Ahorn(?)zweige gesteckt sind.
+
+III FLORA (Joseph Werner) Betrachterstandort unter dem östlichen Bilddrittel; Blickrichtung nach W. Eine dichte, kleinteilig geballte Wolke vor graublauem Himmelsgrund dient der Nymphe Flora als Sitz. Sie trägt ein weißes Gewand, das, schräg über den Oberkörper geführt, ihre rechte Brust freiläßt; ein dunkelgrünes Übergewand ver- hüllt ihre Beine, und eine bogenförmig auffliegende rosa Draperie hinterfängt sie. Ringsum fliegen Putti herbei mit Blüten, Früchten und Girlanden. Die Nymphe selbst hat das Haupt mit einem Kranz aus Rosen geschmückt und hält weitere Blumenkränze in den hocherhobenen Händen; über ihren Knien liegt eine Girlande. Blumen, Blüten und Früchte sind großenteils naturgetreu dargestellt und botanisch bestimmbar: Rosen, Lilien, Jasminblüten, Papageientulpen, Anemonen, Pfirsiche, Kirschen, Pflaumen und
+
+
+[[File:Band03-2_chunk008_p020_img007.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p020_img008.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p389 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=21 -->
+<!-- citation-page-top: Band03-2 p390 -->
+
+<!-- header: NYMPHENBURG. HAUPTSCHLOSS -->
+
+<!-- header: DIE KURFURSTLICHEN APPARTEMEN -->
+
+Trauben. An beiden Blumen- und Früchtekörben, die rechts und links von jeweils zwei fliegenden Putti getragen werden, naschen Vögel: Links ein weißer Kakadu, rechts ein Entenpaar. Ein großer roter Papagei fliegt über der Nymphe.
+
+Die Farbigkeit des Bildes wird von den vielen Weiß- und Rosawerten bestimmt und ihrer porzellanähnlich glatter Oberfläche. Die Wirkung dieser hell- und zartfarbigen Flächen wird gesteigert durch den Kontrast zu den dunkler Farbflächen, die überall im Bild in Form von dunklem Laub, Gewand und Gewanddraperien auftreten. Hell und Dunkel wird ins Bild nicht durch Licht und Schatten sondern durch helle und dunkle Lokalfarben eingebracht. Nur die große Wolke, auf der Flora sitzt, zeigt detaillierte Abschattungen von hellem Weiß zu Grau. Illusionistische Effekte finden sich in der Figur der Flora kaum, jedoch in einzelnen Puttenfiguren.
+
+Die Zuordnung der Blüten und Früchte zur Nymphe Flora folgt der antiken Vorstellung, nach der sie nicht nur die Blumen erblühen ließ, sondern auch die Entwicklung der Blüten zu Früchten behütete; »... die Blüten der Bäume, des Getreides und des Weinstocks« sind ihr anvertraut. »Sie sollte insonderheit machen, daß besagte Dinge wohl und glücklich blühen, und erstere sodann auch ihre erwünschten Früchte bringen möchten ...« (Hederich s.v. Flora). Kakadu, Papagei und Wildenten haben möglicherweise einen bestimmten ikonographischen Sinn, der nicht mehr zu ermitteln ist, können aber unter Umständen auch nur eine von der Kurfürstin erwünschte schöne Zutat sein (Henriette Adelaide hatte eine Vorliebe für Papageien, besaß mehrere und ließ sie sich oft von der Residenz auf die Landschlösser bringen).
+
+Flora hatte die Gewalt über Gärten, Blumen und Früchte von ihrem Gemahl, dem Windgott Zephyr, bekommen. Da sie in der Pose einer Herrscherin dargestellt ist, könnte die Herrschaft, die sie durch die Liebe erlangt hat, eine ikonologische Präzisierung des Bildsinns sein.
+
+III<sub>1-4</sub> GENIEN UND PUTTI Die Bildfelder in den Ecken zeigen, aus Akanthusblattwerk aufwachsend, die Oberkörper von Genien und Putti mit Blumen vor ornamentalem Rankenwerk.
+
+III<sub>1 und 3</sub> Je ein geflügelter Genius (Windgott?) mit Perlen um Hals und Handgelenke und Blumen in beiden Händen
+
+III<sub>2 und 4</sub> Je ein geflügelter Putto mit Blumenkorb auf dem Haupt und Blumen in beiden Händen.
+
+III<sub>a-d</sub> MONOGRAMME Die Bildfelder der Deckenseiten zeigen die Monogramme Ferdinand Marias und Henriette Adelaides; die jeweils gegenüberliegenden sind motivisch gleich (Keine Abbildungen)
+
+III<sub>a und c</sub> Das Monogramm FM, in dem Zweige mit weißen Beeren stecken, mit darüberschwebendem Blumenkranz. an dem seitlich weiße Bänder flattern
+
+III<sub>b und d</sub> Das Monogramm HA mit den gleichen Zweigen und dem gleichen Blütenkranz wie in III<sub>a und c</sub>.
+
+Nördliches Appartement
+
+IV Vorzimmer
+
+IV CERES (Antonio Zanchi) Betrachterstandort unter dem östlichen Bilddrittel; Blickrichtung nach W. Ceres fährt auf ihrem Drachenwagen auf dunklen Wolken über den hellen Himmel; in der Linken hält sie die Zügel. Ein wehendes Tuch spannt sich wie ein Baldachin über den Sitz der Göttin. Zwei Putti bekränzen sie mit Ähren. Weitere Putti reiten auf den Drachen, und eine ganze Schar von ihnen trägt die Attribute der Ceres, Garben, Sense und Sicheln.
+
+Die Göttin auf ihrem Wagen ist in starker Untersicht wiedergegeben, und diese Untersicht ist innerhalb der ganzen quer über das Bild fahrenden Gruppe konsequent durchgehalten. Dem hellen Himmelsgrund verleihen diagona verlaufende zartgraue Wolken Tiefe und Weite.
+
+Die offenbar für die Nymphenburger Hauptbilder vorgeschriebene Komposition – eine weibliche Gestalt in Wolken begleitet von Putti – weitet Zanchi durch den Drachenwagen aus; er konzentriert alle Putti kompositionell auf die Göttin und ihr Gespann, so daß der in sich reich bewegten aber geschlossenen Gruppe der freie Himmel gegenübersteht. Zanchi fand hier eine wesentlich überzeugendere Lösung, um mit der vorgegebenen Gruppe das Bildfeld zu bewältigen als das gleichmäßige Verteilen der Putti im Bildfeld wie etwa in II, III und VI. Innerhalb der Gruppe ist der stillen und würdigen Haltung der Göttin die lebhafte Bewegung der Putti gegenübergestellt. Als einzige der fünf Hauptfiguren der Nymphenburger Zimmer präsentiert sich Ceres nicht, agiert nicht auf den Betrachter hin, hat keinen Blickkontakt mit ihm.
+
+Im Spannungsbogen zwischen sehr hellen (Engelsflügel, Mantel der Ceres) und sehr dunklen Farben (Sense, Drachen) treten als Reizwerte in den Puttendraperien kräftiges Rot und Blau auf. Beide Farben werden an der Göttin in zarten und abgeschwächten Werten wiederholt: Graublau ist ihr Kleid, Rosa mit Gelbhöhungen der Mantel; die gleichen Farben - in Flügel und Draperie - hat der Putto, der über dem Haupt der Göttin schwebt.
+
+IV<sub>1-4</sub> PUTTI (Johann Anton Gumpp) Die vier Bildfelder in den Ecken zeigen jeweils mehrere Putti mit Attributen der Ceres.
+
+IV<sub>1</sub> Drei Putti schlingen eine Girlande um eine Ziervase mit Blumen, ein vierter hält Sichel und Garbe
+
+IV<sub>2</sub> Zwei Putti schmücken eine weibliche Büste mit Ähren, zwei weitere halten Garben und Sichel
+
+IV<sub>3</sub> Vier Putti bekränzen eine Ziervase, in der Blumen stecken; sie halten Sichel und Ähren
+
+IV<sub>4</sub> Vier Putti mit Ähren und Sichel bei einer weiblichen Büste.
+
+IV<sub>a-d</sub> MONOGRAMME Die vier Felder der Seitenmitten zeigen auf Goldgrund in grauen Ranken das Monogramm ME (=Max Emanuel; Keine Abbildungen).
+
+
+[[File:Band03-2_chunk008_p021_img001.jpg|thumb|IV Cere]]
+
+
+V Audienzzimmer
+
+V CONSILIUM UND INVENTIO (Johann Anton Gumpp) Blickrichtung nach W. Inschrift OCCULTA EX ARTE TRIUMPHUS. In Wolken sieht man, von vielen Putti begleitet, den Kriegsgott Mars, daneben Inventio in Gestalt einer jungen Frau und ein alter Mann (?) mit Eule, der Consilium, den Guten Rat, verkörpert. Erfindungsgeist und guter Rat müssen sich vereinen, um das Kriegsglück zu zwingen: unter der Gruppe sieht man in einem Ausblick in eine antike Stadt das trojanische Pferd. Das Bild stammt aus den Alexanderzimmern der Residenz (s.S. 280) und hat thematisch nichts mit dem Nymphenburger Zyklus zu tun.
+
+V<sub>1-4</sub> JÄGER Die Nebenbilder gehören zu dem Nymphenburger Zyklus. Die Bilder der Ecken zeigen aus Akanthusornament aufwachsende Geweihe, rechts und links je einen Hund und ganz unten hängend ein Jagdhorn. Die männlichen Halbfiguren, die in den Verzweigungen der Geweihe zu sehen sind, halten Jagdbeute.
+
+V<sub>1</sub> Jäger mit Löwenkopf
+
+V<sub>2</sub> Jäger mit einem Jagdspieß, an dem ein Eberkopf steckt
+
+V<sub>3</sub> Jäger, der mit beiden Händen einen Eberkopf hält
+
+V<sub>4</sub> Jäger mit Köcher auf dem Rücken und einem Löwenkopf in Händen.
+
+V<sub>a-d</sub> MONOGRAMME In den Bildfeldern der Seiten sind aus Pfeilen gebildete Monogramme Ferdinand Marias und Henriette Adelaides dargestellt. Die gegenüberliegenden sind jeweils motivisch gleich.
+
+V<sub>a und c</sub> FM, flankiert von springenden Hunden und Bogen
+
+V<sub>b und d</sub> HA, flankiert von Köchern, um die Bänder geschlungen sind.
+
+VI Schlafzimmer
+
+VI THETIS (Joseph Werner) Blickrichtung nach W. Die jugendliche Meeresnymphe sitzt in einer flachen Muschelschale, die auf dunklen Wolken dahingleitet. Hinter ihrem Oberkörper fliegt bogenförmig eine dunkle Draperie auf und wird von der linken Hand der Nymphe hochgehalten. Mit der rechten weist Thetis eine Perlenschnur um ihren Hals vor. Ihr Haar ist mit Schilf und Perlen geschmückt, an den Ohren hängen Tränenperlen
+<!-- citation-page-bottom: Band03-2 p391 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk008/Band03-2_chunk008.pdf#page=22 -->
+<!-- citation-page-top: Band03-2 p392 -->
+
+DIE KURFÜRSTLICHEN APPARTMENTS
+
+
+[[File:Band03-2_chunk008_p022_img001.jpg|thumb]]
+
+
+Ein weißes Tuch verhüllt die Schenkel der sonst nackten Gestalt. Fliegende Putti spielen mit Gegenständen, die der Meeresnymphe als Attribute zugeordnet werden: Voran treibt ein Putto drei fliegende Fische vor sich her, darüber schüttet ein anderer Perlen aus einer Austernschale. Links von Thetis reicht ihr ein Putto einen Zweig roter Korallen, während zwei andere eine große Muschelschale emporheben, aus der viele kleinere Muscheln und Meeresschnecken fallen. Unten links läßt sich ein Putto von einem großen Delphin tragen.
+
+Die Gestalt der Nymphe ist stark beleuchtet und plastisch gezeichnet wiedergegeben. Ihr helles Inkarnat und das Weiß ihres Perlenschmucks und Lendentuchs heben sich wirkungsvoll von dem düsteren Wolkenhimmel und der dunklen Manteldraperie ab, die sie rahmend umgibt. Das Inkarnat der Putti ist dunkler und rot abgeschattet. In Draperien, Muscheln, Fischen, Korallen, Flügeln tritt Rot in vielen kleinteiligen Farbflecken auf und bestimmt mit dem Hell-Dunkelkontrast die Gesamtfarbigkeit. Die Gegenstände, Muscheln, Perlen und Schnecken sind gegenständlich genau und in großer Vielfalt dargestellt. Ebenso wie beim Florabild (III) sind illusionistische Effekte auf die Putten beschränkt. Die Gestalt der Thetis zeigt sie kaum. – Tethis, Tochter von Nereus und Doris, war eine der Nereiden.
+
+VI<sub>1-4</sub> PUTTI UND GENIEN Die vier Felder in den Ecken der Decke zeigen, aus Akanthus emporwachsend, jugendliche Halbfiguren mit Putten- oder Genienflügeln, die Fische und Schilf halten und vor ornamentalem Rankenhintergrund dargestellt sind.
+
+VI<sub>1 und 3</sub> Genien mit Meeresgetier in Händen, auf dem Kopf Schilf, Muscheln und Fische
+
+VI<sub>2 und 4</sub> Putti mit Meeresgetier in Händen, auf dem Kopf einen Korb mit Schilf, Muscheln und Fischen.
+
+VI<sub>a-d</sub> MONOGRAMME Die Bilder der Seitenmitten zeigen die Monogramme Ferdinand Marias und Henriette Adelaides, wobei sich die jeweils gegenüberliegenden motivisch gleichen.
+
+VI<sub>a und c</sub> FM in goldenen Buchstaben vor rosafarbenem Grund, rechts und links Palmzweige mit je drei Blütenkränzen und über dem Monogramm ein Lorbeerkranz mit weißen Bändern
+
+VI<sub>b und d</sub> HA in goldenen Buchstaben vor rosafarbenem Grund, dahinter, von weißen Bändern gebunden, Lorbeerzweige.
+
+
+== Ikonologie ==
+
+
+Im Hinblick auf das ursprüngliche ikonologische Gesamtprogramm ist die Deckenbildausstattung der Kurfürstlichen Appartements ein Torso. Erhalten sind aus der ersten Ausstattungszeit 1673/79 fünf Hauptbilder (I, II, III, IV, VI) und fünf Serien von Nebenbildern (zu I, II, III, V, VI). Verloren – bzw. nie fertiggestellt – sind das Mittelbild des nördlichen Audienzzimmers, die Serie von Nebenbildern des nördlichen Vorzimmers, sämtliche Friesbilder und sämtliche Bildfüllungen in den »aufgeschrauften« Kartuschen; alle eventuellen Inschriften; die Deckenbildausstattung der beiden Kabinette und der alten Galerie (Gartensaal) sowie alle Deckenbilder des Großen Saals (s. S. 355 f.). Das Gesamtprogramm ist aus diesen Gründen nicht mehr zu rekonstruieren.
+
+Obwohl das Mittelbild des nördlichen Audienzzimmers nicht mehr das ursprüngliche ist, läßt sich doch sein Thema - Diana - und sein Format - Rechteck mit seitlich angeschobenen Halbkreisen – erschließen. Es ergeben sich also bei den Mittelbildern drei Formatpaare, die in den Räumen ursprünglich sicher achsensymmetrisch zum Großen Saal angeordnet waren. Dabei fügen sich auch inhaltlich Paare zueinander: Achteck – Arethusa und Thetis = Wasser; Rechteck mit angeschobenen Halbkreisen – Cybele und
+<!-- citation-page-bottom: Band03-2 p393 -->
+
+
+[[File:Band03-2_chunk008_p022_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p022_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p022_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p022_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk008_p022_img006.jpg|thumb|VI Thetis]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk008.pdf#page=23 -->
+<!-- citation-page-top: Band03-2 p394 -->
+
+<!-- header: NVMPHENBURG HAUPTSCHLOSS -->
+
+<!-- header: DIE KURFÜRSTLICHEN APPARTEMENT -->
+
+
+[[File:Band03-2_chunk008_p023_img001.jpg|thumb|VI]]
+
+
+Diana = die bergige und waldbedeckte, wilde und unkultivierte Erde: Oval – Flora und Ceres = die kultivierte und bebaute Erde.
+
+Das Nymphenburger Programm muß sich also in eine Sinnschicht mit der Natur als Gesamtheit befaßt haben, deren rechtmäßige Herrscher und Beschützer von Anbeginn die Naturgottheiten waren. In diesem Zusammenhang ist interessant, daß einst Pierre, der erste Graf von Savoyen, von einer Nymphe einen Ring und mit diesem die rechtmäßige Herrschaft über Savoyen erhalten haben soll. Dieses Thema wurde bei den Festdekorationen anläßlich der Hochzeit Carlo Emanueles II. von Savoyen in Cham béry dargestellt: Die Nymphe trug dabei eine Krone aus Berggipfeln (Claude François Menestrier, Les nœuds de l'Amour, ..., Beschreibung der Festdekoration in Cham béry, Lyon 1663); auch Cybele in Nymphenburg wird mit Berggipfeln gekrönt, ein Motiv, das sich sicher aus Mene striers Buch herleitet.
+
+Eine zweite Sinnschicht läßt sich in den Bildern der drei südlichen Zimmer – die als Appartement der Kurfürstin geplant waren – feststellen: die der Liebe. Die drei Gestalten Arethusa, Cybele und Flora sind ausdrücklich in ihrem Charakter als Liebende betont: Arethusa durch die eindeutigen Attribute der Putti sowie durch die Vermischung des Wassers in den beiden Urnen, die auf die Liebesvereinigung der Quellnymphe mit dem Flußgott Alpheus anspielt. Cybele ist als junges Mädchen in der Bergeinsamkeit gezeigt, dem Ort ihrer Liebe zu Attis. Darauf spielen auch die Fichtenzweige an. Bei Flora weisen die bräutlichen Myrtenkränze auf ihre glückliche Verbindung mit Zephyr hin, der sie die Herrschaft über Blumen und Blüten verdankt.
+
+Das zur Bild-Erstausstattung gehörende Wandbild Trivas Sacrificii Fontanali führt die Liebesthematik fort. Die Brunnenstatue, die Wasser aus ihren Brüsten spritzt, ist eine Venusfigur, wie sie im Liebesfest von Rubens ähnlich auftritt: »Die Liebesgöttin spritzt Milch aus ihren Brüsten ein Motiv, das Rubens auch anderswo gerne verwendet und das besonders bezeichnend ist für seine Philosophie der Liebe. In Anlehnung an das berühmte Prooemium zu De rerum natura des Lukrez erscheint Venus hier als Spende rin und Beschützerin aller Segnungen des menschlicher Lebens« (Otto von Simson, Rubens. Das Liebesfest, Bilde: des irdischen Glücks, Katalog der Ausstellung Berlin-Char lottenburg 1983, S. 19).
+
+Einige Nachrichten von weiteren Bildern Antonio Trivas sind ebenfalls mit der ersten Bildausstattung Nymphenburgs in Zusammenhang zu bringen: Am 22.1.1675 rechnete Triva unter anderem drei Gemälde für Nymphenburg ab (BHStA I, HR I, 282/Nr. 155/56): »Per due figure intiere del Naturale in un Quadro grande per Ninfinburgo, nomate Zetti, e Calai in Aria fano la caccia al Arpie f. 120.– ... Per Quatro figure intiere del Naturale fatte in un altro quadro grande per Ninfinburgo nomato Ercole con tre Compagni che fanno la Caccia alle Stinfalidi f. 240.- Per cinque Stinfalidi Augeli grandi con le teste di Donna fatti
+
+
+[[File:Band03-2_chunk008_p023_img004.jpg|thumb]]
+
+
+nel istesso quadro a ragion di 20. fiorini l'uno f. 100.-... Per un altro Quadro grande per Ninfinburgo con una figura intiera a cavallo che seguita La Chimera intitolato Belero fonte in tutto f. 150.-«. (>Kalais und Zetes machen Jagd au die Stymphaliden«, »Herkules jagt die Harpyien« und »Bel lerophon tötet Chimaira<). Diese drei Bilder waren so groß, daß die einzelnen Figuren in Lebensgröße dargestell waren. Diese Bilder sind verschollen.
+
+Vier weitere Bilder werden im Schleißheimer Gemälde inventar von 1761 (BSGS, A/761/2) als Werke Trivas aus dem Jahr 1676 genannt. Bildthemen und Entstehungszei lassen vermuten, daß es sich bei diesen Bildern um fü Nymphenburg bestimmte handelte:
+
+»Nr. 5 Von Antonio Triva ao 1676 per 100 fl. Perseus, wie er der Medusa das Haupt abschlägt 4 1"×4 2"
+
+Nr. 6 Von Antonio Triva ao 1676 per 75 fl. Apollo, wie er den Drachen Python erlegt. N<sup>ta</sup>. das gesicht deß Apollo repräsentiert den Sigismund de Chabo Marquis de S. Maurice 4 2"×4 2"
+
+Nr. 7 Anton Triva ao 1676 per 60 fl. Animena wie sie den förchterlichen Meerfisch erlegt 4 2"×4 2"
+
+Nr. 8 Anton Triva ao 1676 per 60 fl. Arcas wie er seine ir eine Bärin verwandlete Mutter Callisto auf der Jagd töter will 4 1"×4 2"«.
+
+Diese vier Bilder waren also alle etwa gleich groß; sie maßer je ca. 1,20 × 1,20 m. Sie sind verschollen. Es handelte sich wohl wie bei den drei oben erwähnten um Deckenbilder. Thematisch zeigen sie Verwandtschaft mit diesen: sie han deln sämtlich vom Verfolgen, Jagen und Töten. Fast alle lassen sich zudem in den Themenbereich des Kampfes de Tugend gegen das Laster einordnen.
+
+Ein Teil dieser sieben Bilder von Triva aus der Zeit von 1675/76 war wohl für den Saal bestimmt, da wohl kaum alle im westlich an den Saal anschließenden Verbindungsraum zwischen den Appartements (der ursprünglichen Galerie dem heutigen Gartensaal) Platz gefunden hätten.
+
+Zur ersten Bildausstattung gehören auch die beiden mytho logischen Porträts der Kurfürstlichen Familie von Stefand Catani. Im einen wird Ferdinand Maria gezeigt, in der Gestalt des mythischen Königs und Astronomen Endymion, der durch das allnächtliche Erforschen des Mondes die Liebe Diana-Lunas gewinnt. Er weist mit dem Stechzir kel auf das Sternbild des Krebses, in dem der Kurprinz Max Emanuel geboren wurde. Hinter ihm hält ein Amorknabe eine Perle hoch als Verheißung des Thronerben – das persönliche Emblem Max Emanuels war eine Perle in der Muschel mit dem Lemma »AD SUMMOS CRESCIT HONORES (Picinelli, Liber XII, Nr. 244). Im zweiten Gemälde ist die Kurfürstin als Diana-Luna im Kreise ihrer Kinder darge stellt.
+
+Als Entwerfer zumindest eines Teils des ursprünglicher Programms wird der Rhetoriker Emanuele Tesauro ange nommen, Jesuit und Beichtvater der Mutter der Kurfür tin, der die Bildprogramme für den Turiner Hof entwart
+
+
+[[File:Band03-2_chunk008_p023_img005.jpg|thumb]]
+
+
+mion, der durch das allnächtliche Erforschen des Mondes die Liebe Diana-Lunas gewinnt. Er weist mit dem Stechzir kel auf das Sternbild des Krebses, in dem der Kurprinz Max Emanuel geboren wurde. Hinter ihm hält ein Amorknabe eine Perle hoch als Verheißung des Thronerben – das persönliche Emblem Max Emanuels war eine Perle in der Muschel mit dem Lemma »AD SUMMOS CRESCIT HONORES (Picinelli, Liber XII, Nr. 244). Im zweiten Gemälde ist die Kurfürstin als Diana-Luna im Kreise ihrer Kinder darge stellt.
+
+Als Entwerfer zumindest eines Teils des ursprünglicher Programms wird der Rhetoriker Emanuele Tesauro ange nommen, Jesuit und Beichtvater der Mutter der Kurfür tin, der die Bildprogramme für den Turiner Hof entwart
+
+
+[[File:Band03-2_chunk008_p023_img006.jpg|thumb|V<sub>a</sub> (V<sub>c</sub> identisch) V<sub>a-d</sub> Jagdmotive mit Initialen FM und HA]]
+
+
+
+[[File:Band03-2_chunk008_p023_img007.jpg|thumb|VI<sub>b</sub> (VI<sub>d</sub> identisch]]
+<!-- citation-page-bottom: Band03-2 p395 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=24 -->
+<!-- citation-page-top: Band03-2 p396 -->
+
+<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
+
+<!-- header: SCHLOSSKAPFLLI -->
+
+Diese Annahme stützt sich auf einen Brief Henriette Adelaides an Emanuele Panealbi, ein Kondolenzschreiben zum Tod Tesauros am 26. Februar 1675: »Si vous connaissiez combien je le regrette, vous avoueriez que je suis touchée de ce malheur comme je le dois dans la pensée où j'étais de lui commander encore des autres faveurs, touchant les belles inventions qu'il fit pour l'établissement de mon palais de Ninfembourg« (Claretta, S. 219). Tesauro hatte also Bilderfindungen für Schloß Nymphenburg gemacht und sollte noch um weitere gebeten werden. Ein fertiges Programm Tesauros lag nicht vor, doch stand sicher schon der ikonologische Grundgedanke fest, ohne den die ersten Bilder nicht in Auftrag gegeben werden konnten. Wie in der Residenz ist aber auch eine Beteiligung der Kurfürstin selbst bei der Programmerfindung anzunehmen.
+
+Leonore Berghoff unternahm den Versuch, Tesauros Bildprogramm für Nymphenburg zu rekonstruieren. Sie ging dabei sowohl von seinen theoretischen Schriften, vor allen →Il cannocchiale Aristotelico (Turin 1654), aus als auch voi seinen Panegirici zu verschiedenen Anlässen am Turine Hof, weniger aber von seinen Bildprogrammen für das Schloß Venaria Reale und für den Palazzo Reale in Turin. Nach Berghoff wäre – ausgehend von dem Sternbild Krebs, auf das der Kurfürst in Catanis Bild zeigt – der Grundgedanke für die gesamte Bildausstattung das Geburtshoroskop Max Emanuels. Sie ordnet dabei den einzelnen Nymphen und Göttinnen in den Deckenbildern der Appartements Sternbilder zu: Flora – Südliche Krone, Cybele - Steinbock, Arethusa – Krebs, Ceres – Jungfrau, Diana - Schütze, Thetis – Nördliche Krone. In einen Sinnzusammenhang mit dem Jahresablauf setzt Berghoff die Perle in der Muschel, das Emblem Max Emanuels. Die Perle, im Frühling, in Vollmondnächten durch den Tau gezeugt, tritt - im Fall Max Emanuels - ans Licht im Zeichen des Krebses und erreicht ihren höchsten Ruhm im Zeichen des (bayerischen) Löwen. Im Sternbild des Löwen sieht Berghoff das Sinnzentrum des Saales, verkörpert durch Apollo. Bei der Gleichsetzung der Gottheiten mit den Sternbildern stützt sie sich teilweise auf die Astronomica des Marcus Manilius (1. Jh. n.Chr.), verarbeitet bei Caesius (Philipp Caesii à Zesen Coelum Astronomico-Poeticum sive Mythologicum Stellarum Fixarum, Amsterdam 1662). Mit Manilius stimmt aber nur die Gleichsetzung Ceres – Jungfrau überein, die übrigen Gleichsetzungen sind mehr oder weniger manipuliert.
+
+Das postulierte Hauptbild Trivas für den Großen Saal glaubt Berghoff in Teilen in Andechs mit den Deckengemälden von Fürstensaal und Fürstenzimmer aufgefunden zu haben (vgl. CBD Bd 1, S. 308–11). Die Herkunft dieser Bilder aus Nymphenburg ist nicht belegt; Triva arbeitete in den achtziger Jahren des 17. Jh. viel im Auftrag von Kirchen und Klöstern. Sein Deckenbild im Fürstensaal, Genien tragen das bayerische Wappen, wirkt durchaus als eigenständige Komposition und entspricht auch ikonologisch dem Fürstensaal eines wittelsbachischen Hausklosters. Entschieden sprechen gegen Berghoffs Theorie die Größenverhältnisse: Die Figur des Apoll im Fürstenzimmer, von Berghoff als Hauptfigur der Nymphenburger Saaldecke in Anspruch genommen, ist ca. 70 cm lang, unverhältnismäßig klein für die 16 Meter hohe Decke.
+
+Berghoffs Annahme, Grundgedanke des Gesamtprogramms seien Geburt und Geburtshoroskop des Kurprinzen gewesen, ist nicht zu belegen. Der astrologische Hinweis ist zusammen mit der emblematischen Gleichsetzung der Perle mit dem Kurprinzen in dem Bildpaar Catanis ausgedrückt, aber nichts weist darüber hinaus auf einen größeren Sinnzusammenhang. In den fünf erhaltenen Hauptbildern der Appartements ist an keiner Stelle eine Gleichsetzung einer der Göttinnen oder Nymphen mit einem Sternbild angedeutet. Für eine schlüssige Rekonstruktion des Nymphenburger Programms reicht das erhaltene Bild- und Quellenmaterial nicht aus.
+
+
+== Literatur ==
+
+
+Bretagne 1722, S. 50. Sckell 1837, S. 42–44. Heigel 1891, S. 10–28. KDB I OB (1), S. 795 f. Hager (1955), S. 11–23
+
+Wichmann, Siegfried, Das mythologische Porträt am Hofe des Kurfürsten Ferdinand Maria von Bayern, in: Die Kunst und das schöne Heim 55, 1956/57, S. 4–7.
+
+Andraeus Bortot, Elisabetta, Per Antonio Triva, in: Arte Veneta XX, 1966, S. 262–65.
+
+Riccoboni, Alberto, Zanchi e Triva nel Castello di Nymphenburg, in: Arte Veneta XXI, 1969, S. 232–35.
+
+Berghoff, Leonore, Emanuele Tesauro und seine Concetti unter besonderer Berücksichtigung von Schloß Nymphenburg, ungedr. Diss. München 1970/71.
+
+Glaesemer, Jürgen, Joseph Werner 1637–1710, Zürich 1974, S. 186 (= Övrekataloge Schweizer Künstler 3).
+
+Baumstark, in: Kat. Max Emanuel 1976, I, S. 175 f., 183 f. Hojer, in: Kat. Max Emanuel I, S. 160
+
+Volk, in: Kat. Max Emanuel, I, S. 131, 133
+
+Schmid, S. 10–33. Hojer/Schmid, S. 26–29, 32–34
+
+Bauer-Wild 1986, S. 60–80.
+
+5.425.
+
+{{End}}

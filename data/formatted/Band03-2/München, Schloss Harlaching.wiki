@@ -1,0 +1,79 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=579
+|Originalseitenbis=580
+|Lemma=München, Schloss Harlaching
+|Typ=Profan
+|Ort=München
+|davor=München, Gasthof zum Schwarzen Adler
+|danach=München, Schloss Neuberghausen
+|AutorIn1=Lüdicke, Lore
+}}
+
+Schloß, am Isarhang nordöstlich der St.-Anna-Kirche, erbaut für Baron von Mayr; 1795 abgebrannt, Deckenbilder nicht erhalten
+
+'''Zum Bauwerk:''' Das Schloß wurde bald nach 1700 nach Plänen des Hofbaumeisters Enrico Zuccalli für Baron Marx Christoph von Mayr, den Geheimen Rat Max Emanuels, erbaut. Der Kurfürst hatte dem Baron die Schwaige Harlaching zum Dank für besondere Verdienste 1700 übergeben. Stiche und Zeichnungen des 18. und 19. Jh. überliefern das Bauwerk, dessen von Matthias Disel geschaffene Gartenanlage vor allem bekannt war (ausführlich bei Andersen, S. 199-200). Das Lusthaus brannte beim Einfall der Franzosen in Bayern 1795 ab.
+
+Autor und Entstehungszeit: Johann Eustach Kendlbacher? (* 1660, 1698 Meister in München, † 1725) um 1700
+
+Die Ausmalung eines Saales des Harlachinger Schlosses ist in einer Beschreibung von 1738 anläßlich des Schloßverkaufes erwähnt: In dem »lustgepäu« befindet sich »ein großer, vortrefflicher saal, khünstlich in fresco gemahlen, mit schönen spalieren undt vihlen sünnreichen simbolis auf daß herrlichste gezieret« (StadtA München, Vororte Harlaching 20, Verkaufsverhandlungen. Zitiert nach Andersen, S. 199 u. Anm. 65 mit Angabe älterer Publikationen).
+
+Liselotte Andersen hat für Harlaching eine ikonographisch detaillierte Beschreibung von drei Deckenbildern in einer um 1700 entstandenen mit einzeln eingeklebten Federzeichnungen versehenen Handschrift gefunden und 1973 im Münchner Jahrbuch für bildende Kunst publiziert (München, Zentralinstitut, Manuskript, o.V. o.O., fol 23r-25r, beigebunden einem Exemplar von »Gerardi de Lairesse ... zu Leiden in Holland Außerlösenes schönes Werk ... «, hg. v. Johann Ulrich Krauß, Augsburg. o.J.) Zum mittleren Bild, Sommer (B), und zum zweiten Nebenbild, Herbst (C), sind die Skizzen eingeklebt. Die Federzeichnung für den Frühling (A) ist aus dem Manuskript herausgelöst. Doch hat Andersen eine lavierte Federzeichnung von der gleichen Hand gefunden, deren Komposition und Darstellung eindeutig mit dem an zweiter Stelle beschriebenen Bild ubereinstimmen.
+
+Andersen identifiziert den Autor der Handschrift und der Federzeichnungen mit dem Münchner Maler Johann Eustach Kendlbacher, der ein Schüler des Andreas Wolff war und z. B. mit Benedikt Albrecht in Kloster Herrenchiemsee und in Kloster Reichersberg zusammen arbeitete, und hält ihn auch für den Autor der zugrundegegangenen drei Harlachinger Deckenbilder (ausführliche Zuschreibung und Lebensdaten bei Andersen, S. 200–205).
+
+Verbleib: Die Ausmalung des Schlosses ging bei dem Brand 1795 zugrunde.
+
+
+== Darstellungen ==
+
+
+Das Thema der drei Deckenbilder wird angegeben: »die 3 Gratien, so sich mit denen 3 jahrszeiten, in welchen man die gärten und välder genießer kan.« (fol. 23r, zitiert nach Andersen wie alles Folgende, s.S. 236–37) Die drei Bilder zeigen jeweils eine Grazie mit einer Jahreszeit in einem Himmelschauplatz. Putti halten ein Inschriftband – der Text dazu ist jeweils in der Beschreibung angegeben. Die Unterschiede zwischen Beschreibung
+<!-- citation-page-bottom: Band03-2 p579 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=16 -->
+<!-- citation-page-top: Band03-2 p580 -->
+
+<!-- header: SCHLOSS HARLACHING -->
+
+
+[[File:Band03-2_chunk012_p016_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk012_p016_img002.jpg|thumb|J. E. Kendlbacher, Zeichnung nach B Sommer]]
+
+
+und Zeichnungen – sie betreffen die Attribute der Figuren – verzeichne Andersen.
+
+A FRUHLING Lavierte Federzeichnung, 17,2 × 25,8 cm, SGS Mü, Inv. Nr. 1968:13. Am oberen Rand ist eine Maßeinteilung angedeutet »als Anfang einer Quadrierung ... Es ist also als Vorlage für eine Vergröße-
+
+rung zum Bozzetto oder zum endgültigen Bild zumindest in Erwägung gezogen worden« (Andersen, S. 198, dazu Abb. 19).
+
+Die weibliche Personifikation des Frühlings rechts im Bild reicht der Grazie Blumen aus einem Korb. Die Grazie – in der Mitte - läßt Münzen aus der rechten Hand herabfallen. Zu ihren Füßen links drei geflügelte Jünglinge, die Monate März, April und Mai vorstellend, unter dem Zodiakusbogen mit Widder, Stier und Zwillingen (in der Beschreibung genau angegeben). NOVA TEMPORIS AETAS OVID: I. I. FAST.
+
+B SOMMER (»in der mittleren veldung«) Federzeichnung, im Ms um 1700, fol. 23r, loc. cit.. Links kniet die Personifikation des Sommers und präsentiert der Grazie ein Kornbündel. Die Grazie streut mit einer Hand Blumen aus. Ein Putto hält ihr eine Fackel. Rechts die Monate Juni, Juli und August mit den Zeichen Krebs, Löwe und Jungfrau. Darunter ist in einer Gartenszene Chronos-Saturn mit einer Sense im Vordergrund dargestellt. Um ihn herum sind Putti bei der Gartenarbeit gezeigt. Eine Gartenmauer mit den römischen Ziffern VI–XII und I–VI zur Bezeichnung der Tagesstunden – schließt die Szene ab. UL.L.A NEC UBERIOR. OVID: XV METAMOR. Der untere Bildstreifen ist in der Originalbeschreibung nicht erwähnt (Andersen, S. 197–98 u. 236)
+
+C HERBST Federzeichnung im Ms um 1700, fol. 24v, loc. cit. Die Personifikation Herbst reicht der Grazie eine Weintraube dar und deutet auf weitere Früchte, die von einer Schale auf die Erde fallen. Die Grazie soll laut Beschreibung »pflaumen und andere frichten« austeilen. In der Federzeichnung sind eher Blumen zu erkennen. Rechts bezeichnen die drei geflügelten Jünglinge mit den Sternzeichen Waage, Skorpion und Schütze die Monate September, Oktober und November. NEC QUIDQUAM TIBI TERRA NEGAT. OVID: XV METAMOR.
+
+
+== Literatur ==
+
+
+Disel Matthias, Erlustierende Augenweide in Vorstellung Herrlicher Gärten und Lustgebäude ..., Bd 1, o.O., ca. 1717, Tf. 15.
+
+Alt-München in Bild und Wort, hg. v. Otto Aufleger und Karl Trautmann, München 1897, Tf. 93 u. 94. (= Disel u. Dillis Ansichten).
+
+Martin Anselm, Topographie und Statistik des Königlich Bayerischer Amtsgerichtes Au, München 1937, S. 31.
+
+Wellnhofer, Matthias, Claude Lorrain und Harlaching, Traunstein 1951, S. 12.
+
+Lessing, Waldemar, Johann Georg von Dillis, München 1951, Abb. 6. Andersen, Liselotte, Eine unbekannte Quellenschrift aus der Zeit um 1700, in: Münchner Jahrbuch für bildende Kunst XIV, 1973, S. 197–200 u. 236–37 (mit Quellen und Literatur).
+
+
+== SCHLOSS NEUBERGHAUSEN ==
+
+
+{{End}}

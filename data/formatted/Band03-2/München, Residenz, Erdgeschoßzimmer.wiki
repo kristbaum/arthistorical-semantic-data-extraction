@@ -1,0 +1,324 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=120
+|Originalseitenbis=129
+|Lemma=München, Residenz, Erdgeschoßzimmer
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Schwarzer Saal
+|danach=München, Residenz, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer«
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<!-- citation-page-top: Band03-2 p120 -->
+
+<!-- header: FRDGESCHOSSZIMMER -->
+<!-- header: ERDGESCHOSSZIMMER -->
+
+Räume im Erdgeschoß (Räume 92-93, jetzt Paramentenkammern, und ehemals weitere Räume) ursprünglich wohl kontinuierlich vom Grottenhof-Südflügel bis an die Residenzstraße reichend, mit den Bezeichnungen Sommerzimmer, Gartenzimmer und teilweise Silberkammer. Ein Teil der Räume ist durch Umbauten verschwunden. Die Deckenbilder gingen teils durch die Umbauten, teils durch den Zweiten Weltkrieg verloren; zwei Gemälde erhalten, nicht mehr am ursprünglichen Platz.
+
+'''Zum Bauwerk:''' Spätestens nach seinem offiziellen Regierungsantritt (1598), möglicherweise bereits früher, etwa nach der Übertragung der Administration (1. Januar 1595), begann Herzog Maximilian I., die Residenz durch Um- und Neubauten den Bedürfnissen seiner eigenen Hofhaltung anzupassen (Überlegungen zu einer frühen Datierung bei von Busch, S. 177). Er ging dabei von dem sog. Gartenbau aus, den sein Vater in den 1580er Jahren von Sustris in italienischer Manier hatte errichten lassen. Die um ein Kabinettgärtchen, den heutigen Grottenhof, gruppierte Vierflügelanlage wurde beibehalten, erfuhr jedoch eine Umgestaltung, deren Ausmaß nicht mehr genau festzustellen ist. Der Binnenhof war im N durch einen Verbindungsgang begrenzt, im O und W öffneten sich Gartenhallen zu ihm hin, von denen nur die mit dem Muschelbrunnen an der Stirnseite des Antiquariums erhalten ist. Den südlichen Abschluß bildete ein größerer, längsgeteilter Bautrakt. Dessen Nordhälfte gegen den Grottenhof umfaßte im Parterre gewölbte Räume, die mit dem Freiraum kommunizierten, darüber eine Altane; auf der Südseite lag gegen den großen Residenzgarten, von dem ein Rest im heutigen Königsbauhof erhalten ist, eine lange Arkadenhalle.
+
+Im Geschoß darüber befand sich die Gemäldegalerie, die auch als Privatbibliothek des Herzogs diente (nachweisbar seit 1606). Von dieser Vierflügelanlage suchte Maximilian den baulichen Anschluß an die Schwabinger Gasse (Residenzstraße), wo das 1590/91 für ihn errichtete Erbprinzenhaus stand. Dieses ließ er abreißen, vielleicht auch nur umändern, und von hier aus die Verbindung zu dem Gartengebäude vermittels eines Binnenhofs herstellen, an den nördlich die Hofkapelle (Weihe 1603) anschließt (s. Residenzpläne S. 24–26).
+
+
+[[File:Band03-2_chunk003_p011_img001.jpg|thumb|Raum 93 mit II, Ansicht nach NO (Vorkriegszustand)]]
+
+
+
+[[File:Band03-2_chunk003_p011_img002.jpg|thumb]]
+
+
+Uber das Aussehen der im ersten Stock gelegenen herzoglichen Wohnräume wissen wir nichts, doch haben sich im Erdgeschoß mehrere Zimmer in ursprünglicher Form erhalten, außerdem sind einige Deckenbilder bekannt, die aus diesem Zusammenhang stammen, und schließlich beschreibt Philipp Hainhofer die ganze bauliche Situation in seinem Bericht von 1611. Nach seiner Schilderung lagen die Gemächer des Herzogs über der Grottenhalle und waren zum Grottenhof und zum großen Residenzgarten hin orientiert, »Ihrer Dhlt. (= Durchlaucht) Zimmer gehn auf beeden Seiten inn garten«, die seiner Gemahlin wendeten sich hingegen der Residenzstraße zu (Hainhofer, 1611–1613 S. 59f., 69). Hainhofer beschreibt auch die Innenausstattung der Räume »Vnder Ihrer Dhlt. wohnzimmer auf ebener erden hat es 9 gewölbte stantias von vnderschidlichen figuren von Pietro Candido gemahlet, theils mit schönen öfen, theils mit Caminen, darauf antichische köpf vnd bilder so wol als auch auf dem gesümbs (darann die tapezereyen hangen) dergleichen<br>stehen; die pflasterstain von gewürffletem blaw vnd weissen marmelstainen, dass bairische Wappen bedeuttend. Die Thürgericht vnd die gesümbs<br>sein alle schön vergult, vnd Dises Ihrer Dhlt. Sommer Zimmer, inn denen sie durchgehenden lufft haben« (ebda S. 70).
+
+Bestätigend und ergänzend erfahren wir bei Wening 1701 anläßlich der Beschreibung des großen Residenzgartens von fünf »sehr vornehmen« Sommer- oder Gartenzimmern, die »an den Wändten mit schönen Brust-<br>bildern auß Marmor besetzt, vnd an denen Decken mit Contrefaiten auß<br>dem Churhauß Bayrn bemahlen seynd; sonderbar ist das fünffte rar wegen seines zierlichen Camin auß Marmel, vnnd etlichen Kunstreichen Contrefaiten« (Wening, S. 7). Es handelt sich hierbei wohl um einen Teil der von Hainhofer beschriebenen Räume. Sie lagen im Grottenhof-Südflügel und können nur identisch sein mit den in den Baurechnungen von 1600 genannten gewölbten Zimmern unter der Altane (BHStA I, HR II 1600: Maurer, 47. und 49. Woche; Tagwerker, 29. Juli), öffneten sich also nach N, wo das Kühlung spendende Gärtchen mit seinen Brunnen lag. Nur ein Teil der durch die Beschreibungen bezeugten Sommerzimmer hatte unter der Altane Platz, andere waren vielleicht im Grottenhof-Westflügel und weitere wahrscheinlich gegen die Residenzstraße und in den Zwischentrakten gelegen, wo sich heute noch Gemächer mit Dekorationen des frühen 17. Jh. finden. Man kann vermuten, daß das gesamte Erdgeschoß in diesem Bereich im Charakter einheitlich und in der Aus schmückung mit antikisierenden Büsten und Statuen der Gestaltung des Binnenhofgärtchens und des angrenzenden Antiquariums angepaßt war. Uber die Anzahl der Räume, inwiefern sie einheitlich oder nur teilweise als Sommerzimmer bezeichnet wurden bzw. ob sie ein oder mehrere Apparte mente bildeten, ist allerdings keine Klarheit mehr zu gewinnen.
+
+
+== Gegenwärtiger Zustand ==
+
+
+Direkt an der Residenzstraße befinden sich heute, abweichend von Wening (S. 4), der »vier überauß schöne gewölbte Zimmer mit dem Prospect gegen der Gassen« nennt, nur zwei Räume (Raum 92 und 93). Östlich schließen daran allerdings ein weiterer Raum (Raum 91) sowie der Vorplatz der Treppe an, die genauso gestaltet sind, deren Fenster sich jedoch zu einem kleinen Hof öffnen, der neben der Kapelle gelegen ist. Die beiden Räume direkt an der Residenzstraße dienten nachweislich bereits in den 1760er Jahren als Silberkammer (s. Cuvilliés-Plan von 1764/65, S. 27 und das Mobilien-Inventar von 1769, BHStA I, HR 22/58, Nr. 101), die sich dem Verschaffelt-Plan von 1799 (s. S. 28) zufolge bis zu diesem Zeitpunkt noch um Raum 91 und einige kleinere Gemächer ausgedehnt hatte.
+
+Die gewölbten Räume hinter der Hofkapelle (Thoma/Kreisel Räume 100 und 111) wurden im 18. Jh. als Sakristei und als Garderobe benutzt. Sie liegen heute, da sie aufgrund späterer Umbauten völlig unbelichtet sind, nicht mehr in der Museumsführungslinie. Von den gegen den Grottenhof gerichteten Gartenzimmern ist nichts mehr vorhanden. Sie wurden wohl schon bald nach 1680 funktionslos, als Max Emanuel anstelle der darüber befindlichen Altane neue Sommerzimmer einrichtete, sie praktisch vom Parterre in den ersten Stock erhob. Die Erdgeschoßräume in der Gestalt des frühen 17. Jh. sind spätestens verschwunden, als Karl Albrecht nach seinem Regierungsantritt (1726) im Zusammenhang mit der Umgestaltung des gesamten Flügels hier das sog. Gelbe Appartement anlegte und in der langen, im S vorgelagerten Gartenhalle die Ahnengalerie einrichtete. Raum 92 (I) Höhe 6,00 m; 6,14 × 9,45, mit drei Fenstern zur Residenzstraße
+
+Raum 93 (II) Höhe 6,00 m; 7,54 × 12,93, mit vier Fenstern zur Residenzstraße
+
+Raum 91 (möglicherweise Anbringungsort von III) Höhe 6,00 m; 5,73 × 9,67, mit zwei Fenstern zum Lichthof
+
+Raum 111 (bei Thoma/Kreisel) (IV), Höhe ca. 6,40 m; ca. 3,40 × 7,50, ohne Fenster
+
+Der hinter dem Chor der Hofkapelle gelegene Raum, meistens als Sakristei bezeichnet, erhielt ursprünglich sein Licht von dem nördlich anschließenden Lichthof, der bei der Errichtung des Kapellenchors (1630) bis auf
+
+<!-- citation-page-bottom: Band03-2 p121 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=12 -->
+<!-- citation-page-top: Band03-2 p122 -->
+
+<!-- header: RESIDENZ -->
+
+
+[[File:Band03-2_chunk003_p012_img001.jpg|thumb|P. Candid, Studien zu IV Theo- dosius, München]]
+
+
+einen kleinen Rest verbaut worden ist (auf dem Pariser Plan, der nur das Obergeschoß zeigt, ist über Raum 111 nach N hin ein Fenster eingezeichnet).
+
+Raum 100 (bei Thoma/Kreisel) (V) Höhe ca. 7,60 m; 4,70 × 12 m, ohne Fenster
+
+Der schöne, heute nicht mehr in die Museumsführungslinie aufgenommene Raum wird meistens als alte Hofkapelle oder Georgskapelle bezeichnet und liegt zwischen der sog. Sakristei und der Ahnengalerie. Er ist heute völlig fensterlos, die ursprüngliche Belichtung ist unklar. Zwei kreuzgewölbte Joche mit abgeflachten Graten sind durch einen breiten Gurtbogen getrennt, der auf zwei Wandpfeilern ruht; deren Terrakotta-Kapitelle sind mit aufgerichteten Löwen geschmückt, die mit erhobenen Tatzen Fruchtgirlanden vor sich halten. Der Stuck mit dem reich profilierten Gesims und den geometrisierenden Formen an der Decke ähnelt, vor allem in der Gestaltung des Rollwerks, der Dekoration der Räume an der Residenzstraße. In den beiden Gewölbescheiteln sind runde Felder ausgespart, jeweils umgeben von acht Stuckrosetten, ähnlich denen über der Kaisertreppe.
+
+Für drei Deckenbilder (VI, VII, VIII), deren Herkunft aus den Erdgeschoßzimmern angenommen wird, ist der ursprüngliche Anbringungsor - vermutlich Räume im Grottenhof-Südflügel - infolge von Umbauten nicht mehr vorhanden.
+
+'''Auftraggeber:''' Herzog Maximilian I. von Bayern (1598–1651; Kurfürst seit 1623)
+
+'''Autor und Entstehungszeit:''' Peter Candid (* um 1548 Brügge† 1628 München) 1601/05
+
+Nach Hainhofer (s.o.) stammen die Deckenbilder von Candid und zeigen »underschidliche figuren«. Wening präzisiert einen Teil davon als Porträt von Wittelsbachern. In den beiden Räumen an der Residenzstraße war bis zum letzten Krieg jeweils ein Deckenbild noch in situ. Das eine mit der Darstellung von Caesar und Augustus ist nicht mehr nachweisbar (Raum 93 s.u.), das andere aus Raum 92 hat sich hingegen erhalten (BSV, Depot ohne Nr.). Es zeigt Alexander den Großen mit dem Gordischen Knoten und stammt von Candid. Von der Alexander-Darstellung ausgehend lassen sich weitere, formal ähnliche Bilder des Künstlers mit antiken Kaisern und bayerischen Landesfürsten mit den Erdgeschoßräumen in Verbindung bringen (Knüttel 1967, S. 194ff.). Die Entstehungszeit ist durch eine 1601 datierte Vorzeichnung Candids zu Alexander und die Nachstiche einiger Wittelsbacher-Porträts von Wolfgang Kilian in Christoph Gewolds »Genealogia Boiariae Ducum« von 1605 auf die Jahre zwischen 1601 und 1605 einzugrenzen.
+
+Zeichnungen, alle von Peter Candid
+
+1. Aktstudie für die Figur Alexanders und Einzelstudien, schwarzer Stift Rötel, Feder in Schwarz, weiß gehöht, auf rötlich getöntem Papier, teilweise mit Feder quadriert. Datiert 1601. 19,7 × 18,6 cm, Berlin, Staatl. Museen Preußischer Kulturbesitz, Kupferstichkabinett, KdZ 11671 r und v (Kat. Candid-Zeichnungen, Nr. 17 und Abb. 94, 95)
+
+2. Gesamtentwurf und Einzelstudien, Feder in Braun und Grau, braun laviert, weiß gehöht, teilweise mit Feder und Rötel quadriert, beschriftet mit Feder in Schwarz am oberen Rand, teilweise beschnitten ... parte, auf dem Sockel TANTV[M]/DEM, zu Füßen Alexanders MAGNVS ALEXANDER, außerhalb des Feldes, teilweise gelöscht ALEX[ANDER MAG]NVS 31,4 × 20,3 cm, Staatsgalerie Stuttgart, Inv. Nr. C 23:53 (Kat. Candid-Zeichnungen, Nr. 27 und Abb. 106; H. Geissler, Zeichnung in Deutschland. Deutsche Zeichner 1540–1640, Kat. Stuttgart 1979/80, D 16 mi)
+
+Zu II Caesar und Augustus Zwei Studien zu einer Gestalt mit Armillarsphäre und Kommandostab, als Vorbereitung für Caesar, schwarzer Stift, Feder in Braun und Schwarz, weiß gehöht, auf rötlich getöntem Papier, mit Rötel quadriert, oben in der Mitte Reste einer Ziffer, wohl (16)01, 19 × 19 cm, Rotterdam, Museum Boymans-van Beuningen, Inv. Nr. T 382 (Kat. Candid-Zeichnungen, Nr. 18 und Abb. 93)
+
+Zu IV Theodosius Studien für die Allegorie des Staates auf der Theodosius-Darstellung, Rötel und schwarzer Stift, 16,5 × 18,3 cm. Auf dem Recto befinden sich Kinderstudien, die 1602 datiert sind, SGS Mü, Inv. Nr. 29 867 v (Kat. Candid-Zeichnungen, Nr. 20 und Abb. 91)
+
+Zu V<sub>1-2</sub> Studienblatt mit einem sitzenden Herzog. Auf dem Recto mehrere Studien, darunter zu einem sitzenden Herzog, auf dem Verso Oberkörper eines Ritters im Harnisch und großem Barett mit Federn. Sie stehen wohl in Zusammenhang mit den verlorenen Lünettenbildern, zu denen die Darstellungen von Arnulf dem Bösen und Otto II. Graf von Scheyern gehörten. Feder in Schwarz und Braun, Kreide und Rötel 174 × 15,7 cm, New York, Pierpont Morgan Library, Inv. Nr. IV, 57 (Knüttel 1967, S. 197 und Abb. 19)
+
+Zu VI und VIII Studienblatt. Auf dem Verso Studien für die Hände Ottos von Wittelsbach und die Hand Karls des Großen mit dem Reichsapfel; die Studien auf der Vorderseite sind 1601 datiert, schwarzer Stift und Feder in Schwarz, 18,6 × 17,3 cm, SGS Mü, Inv. Nr. 29868 (Keine Abb.; Kat. Candid-Zeichnungen, Nr. 19 und Abb. 87)
+
+Zu VIII Otto von Wittelsbach Aktstudie für die Figur Ottos und Einzelstudien; 1602 datiert, schwarzer Stift auf rötlich getöntem Papier, rötlich braun laviert, Spuren von Weißhöhung, 30 × 14,8 cm, SGS Mü, Inv. Nr. 1929:39 (Kat. Candid-Zeichnungen, Nr. 21 und Abb. 92)
+
+
+[[File:Band03-2_chunk003_p012_img004.jpg|thumb|P. Candid, Entwurf zu I Alexander, Stuttgart]]
+
+
+P. Candid, Studien zu VIII Otte von Wittelsbach, München
+
+
+[[File:Band03-2_chunk003_p012_img005.jpg|thumb|Raum 93 mit II, Ansicht nach SO (Vorkriegszustand)]]
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Ursprünglicher Anbringungsort in Raum 92 (I) Muldengewölbe mit Stichkappen, in Raum 93 (II) Tonnengewölbe mit Stichkappen, in Raum 91 (vielleicht Anbringungsort von III) Muldengewölbe, Raum 111 (bei Thoma/Kreisel) (IV) ist heute mit einer Tonne überwölbt. Vor dem Krieg war die Decke durch einen Pfeiler in zwei ungleiche Joche geteilt, wovon das östliche, kleinere mit einem Kreuzgewölbe geschlossen war, das westliche mit einer Tonne; Raum 100 (bei Thoma/Kreisel) (V) zwei Kreuzgewölbe durch Gurtbogen getrennt, für VI, VII, VIII, Art der Decke unbekannt.
+
+Rahmen: I kräftig profilierte, rechteckige Füllung mit Kartuschenrahmung, bei den anderen Bildern vermutlich ähnlich
+
+Technik: Öl auf Leinwand, alle Bilder polychrom
+
+Maße: I 2,29 × 1,04, Rechteck mit abgerundeten Schmalseiten
+
+II Länge ca. 2,50, Hochrechteck mit eingezogenen gestelzten Halbkreisbögen über den Schmalseiten
+
+III 2,38 × 1,20, Rechteck mit ausgebuchteten Ecken
+
+IV Ø 1,70
+
+V rund, Maße nicht bekannt
+
+V<sub>1</sub> 1,56 × 3,40
+
+V<sub>2</sub> 1,50 × 3,40, E<sub>1-2</sub> Lünettenbilder
+
+VI 2,23 × 1,62, Format eines griechischen Kreuzes mit kürzeren Querarmen
+
+VII ca. 1,60 × 1,60, für Zweitverwendung formatisiert. Ursprünglich ein Hochrechteck, dessen Breite 1,14 m betrug, die Höhe entsprach wohl den übrigen Bildern.
+
+VIII Maße nicht bekannt
+
+Erhaltungszustand und Verbleib: Die Räume sind teilweise durch spätere Umbauten verschwunden (Gartenzimmer im Grottenhof-Südflügel, vermutlich die Deckenbilder VI, VII, VIII betreffend). Die im Zweiten Weltkrieg beschädigten Räume (an der Residenzstraße und östlich anschließend, Deckenbilder I–V) sind wiederaufgebaut. An Deckenbildern erhalten haben sich nur I (im Depot der BSV) und VII (als Supraporte von Raum 57). Die Kompositionen der verschollenen bzw. zerstörten
+
+I Bild erhalten im Depot der BSV. Das Bild hat durch den Verlust von Lasuren viel von seiner ursprünglichen Leuchtkraft und Tiefe verloren. Die Oberfläche ist so stark berieben, daß die Inschrift kaum noch zu erkennen ist. I stammt aus Raum 92 und wird erstmals 1902 (KDB, S. 1079) an diesem Anbringungsort beschrieben, für den es auch durch Vorkriegsphotos bezeugt ist. Durch Bombeneinwirkung wurde dieser Raum so stark zerstört, daß das Gewölbe einstürzte. Das Gemälde ist erhalten, muß also vorher geborgen worden sein. Beim Wiederaufbau ist der Rahmenausschnitt im Deckenspiegel größer und in etwas abweichender Form rekonstruiert worden, so daß man das Gemälde dort nicht wieder anbringen konnte.
+
+II Bild nach den Kriegszerstörungen der Residenz 1944 verschollen. Es befand sich ursprünglich in Raum 93 und ist auf einer Vorkriegsphotographie des Raums teilweise zu erkennen. Es wird als »ablang allegorisches Stück« im Plafond an seinem Anbringungsort bereits in einem um 1800 entstandenen Gemäldeinventar der Residenz beschrieben (GHA, Handschriften Nr. 69, nach Nr. 1219), das auf der Grundlage des Faßmann-Inventars von 1770 angelegt und auf den aktuellen Stand gebracht ist. Bei Faßmann selbst ist das Bild nicht erwähnt.
+
+III Bild verschollen, Photographie vorhanden. Sowohl aus thematischen Gründen als auch wegen seiner Größe und seines Formats dürfte es mit den übrigen Bildern zusammengehören, obwohl es sich zu keinem Zeitpunkt in einem Bau der Residenz nachweisen läßt. Rée (S. 119, 196) sah es 1885 in Schleißheim im Depot. Der Deckenspiegel des wiederhergestellten
+
+
+[[File:Band03-2_chunk003_p012_img006.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p123 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=13 -->
+<!-- citation-page-top: Band03-2 p124 -->
+
+[[File:Band03-2_chunk003_p013_img001.jpg|thumb]]
+
+Raumes 91 entspricht im Format dem Bild, mißt jedoch 2,87 × 1,70 m (Folge der Nachkriegs-Rekonstruktion?).
+
+IV Bild verschollen, Photographie vorhanden. Die Darstellung befand sich in Raum 111 und wird erstmals bei Bassermann-Jordan im Jahre 1900 (S. 115, Anm. 2) an diesem Anbringungsort erwähnt. Nicht in den KDB.
+
+V Bild verschollen, Photographie vorhanden. Die Darstellung wird vor Bassermann-Jordan (1900, S. 101) und in den KDB (1902, S. 1086) im westlichen Gewölbejoch von Raum 100 erwähnt und war dort bis zum letzten Krieg erhalten. Ein Pendant zu V ist für das zweite Gewölbefeld anzunehmen. Dieses Feld wurde jedoch um 1740 durch den Einbau einer Retirade und einer Treppe zur Hälfte verdeckt, wobei man wohl das Bild entfernte.
+
+V<sub>1</sub> ehem. im Inventar der BSGS unter Nr. 4224 geführt, jetzt verschollen, Photo vorhanden; bereits zur Zeit der photographischen Aufnahme war das Bild stark beschädigt.
+
+V<sub>2</sub> ehem. im Inventar der BSGS unter Nr. 3514 geführt, jetzt verschollen, keine photographische Aufnahme vorhanden. Als »wahrscheinlich zerstört« erwähnt in: Verlorene Werke der Malerei in Deutschland. In der Zeit von 1939 bis 1945 zerstörte und verschollene Gemälde aus Museen und Sammlungen, München 1956, S. 156.
+
+Die beiden halbrunden Gemälde V<sub>1-2</sub>, ehem. an den Schildbögen von Raum 100, werden erstmals bei Thoma/Kreisel 1937 erwähnt. Sie wurden 1926 bzw. 1927 von den BSGS an das Residenzmuseum abgegeben. Auch Bassermann-Jordan und die KDB kennen sie nicht. Beide geben abe ohne weiteren Nachweis an, daß sich in den Lünetten ursprünglich Gemälde befunden hätten. Die Bilder selbst lassen sich bis 1770 zurückverfolgen. Rée (S. 127 f.) sah sie 1885 im Depot der Schleißheimer Galerie 1810 hing V<sub>1</sub>, im Theatinergang (Seelig, S. 295, zu Nr. 14), davor waren beide im Erdgeschoß des Kaisersaaltrakts deponiert und werden im revidierten Faßmann-Inventar (s.o.) beschrieben und als mit »halbrunder unter das Gewölbe passenden Rahmen« (Nr. 1220, 1221). 1770 erwähnt sie Faßmann unter denselben Nummern in der Silberkammer (woh jetziger Raum 93). Er schreibt sie Candid zu und gibt an, sie seien »dahir dienlich, um die Bögen oben an den gewölbern damit auszufüllen«. Die Schildbögen der Silberkammern waren dafür allerdings viel zu groß, die Schmalseiten des Raums dagegen, in dem sie zuletzt angebracht waren, hatten Lünettenfelder, deren Basis mit der Bildbreite übereinstimm (Seelig, loc. cit.).
+
+VI-VIII Die Bilder stammen vermutlich aus den Gartenzimmern in Grottenhof-Südflügel (s.o.), an deren Stelle nach 1726 das Gelbe Apparte<br>ment errichtet wurde. Sie können nicht mit einem bestimmten Raum in Verbindung gebracht werden.
+
+
+== VI Bild verschollen, Photo vorhanden ==
+
+
+VII Bild erhalten, in den Reichen Zimmern über der Eingangstür des Inneren Audienzzimmers (Raum 57) eingelassen, das nach dem Brand von 1729 in dieser Form eingerichtet wurde. Damals hatte man das Bild spätestens aus seinem ursprünglichen Zusammenhang gelöst. Es war ursprünglich ein Ganzfigurenbild, das für seine Zweitverwendung formatisiert wurde. Man reduzierte es zum Kniestück und verbreiterte es an den Seiten. Die ursprüngliche Breite betrug 1,14 m. In der Höhe dürfte es den übrigen Bildern entsprochen haben.
+
+VIII Verlorene Darstellung, die nur ausschnittweise durch einen Nachstich in Gewolds »Genealogia Boiariae Ducum« von 1605, sowie durch<br>Vorzeichnungen und Kopien überliefert ist (s. u.).
+
+Rekonstruierende Beschreibung und Ikonographie: In den beiden Räumen an der Residenzstraße war jeweils ein durch einen kräftig profilierter Kartuschenrahmen hervorgehobenes Leinwandbild in der Mitte des Gewölbes angebracht. Es bildete den farbigen Akzent für die durch Stuckleisten in ge
+
+
+[[File:Band03-2_chunk003_p013_img002.jpg|thumb|II Konstantin der Große (verschollen)]]
+
+
+teilweise vergoldet, um mit den vergoldeten Gesimsen und Türrahmen harmonisieren zu können, den von »Tapezereyen« bedeckten Wänden und dem weißblau geweckten Plattenbelag des Bodens, der für das Programm nicht ohne Bedeutung ist (s.o. den Bericht Hainhofers)
+
+Die etwas überlebensgroßen, stehenden Figuren sind in Untersicht gegeben, die Bildbasis lag für die Alexanderdarstellung (Raum 92) im N, für »Caesar und Augustus« (Raum 93) im S. Für die übrigen Hochformate kann man wohl eine entsprechende Anbringung im Gewölbescheitel von Räumen vergleichbarer Größe annehmen. Die ihrer Verwendung angepaßten bogenförmigen und runden Formate sind ebenfalls für eine hohe Anbringung berechnet und zeigen die Dargestellten in Untersicht. Erläuternde lateinische Inschriften waren entweder auf einem Sockel seitlich im Bild angebracht oder auf einem Abschnitt am unteren Rand.
+
+
+== I ALEXANDER DER GROSSE MIT DEM GORDISCHEN KNOTEN (Quintus Curtius Rufus 3,1, 14–18) (BSV, aus dem Raum 92 stammend, nicht in situ) ==
+
+
+In heldischer Pose, all'antica gerüstet, steht Alexander vor freiem Himmel in der Rechten das gezogene Schwert und betrachtet den abgeschlagenen Teil des Gordischen Knotens, den er mit der Linken hochhält. Übe grauem Untergewand hat er einen prunkvollen goldenen Schuppenpanzer angelegt mit Löwenköpfen als Schulterstücken, darüber die Feld herrnbinde.
+
+Nach der Unterwerfung der Stadt Gordium in Phrygien besuchte Alexander den Tempel des Jupiter. Dort stand ein berühmter Streitwagen, dessen Joch durch kunstvoll geschlungene Knoten an der Deichsel unlösbar befestigt war. Nach einem Orakelspruch sollte derjenige, dem es gelänge, den unentwirrbaren Knoten zu lösen, die Herrschaft über Asien antreten. In dem Verlangen, das Orakel zu erfüllen, versuchte Alexander die Schlingen zu lösen und durchhieb sie schließlich mit dem Schwert mit den Worten: »Es kommt nicht darauf an, wie sie gelöst werden« (Nihil interest quomodo solvantur; Quintus Curtius Rufus 3, 1, 14–18).
+
+Im Gegensatz zur Antike, wo Alexander nie behelmt ist, trägt er hier über lockigem langen Haar eine Art offene Sturmhaube mit Hippogryphen und großem rotem Federbusch, farblich abgestimmt auf den roten Mantel, der die Gestalt umweht und ihren Umriß belebt. Der Helm und der entschieden ins Profil gedrehte Kopf mit dem auffallend großen Auge weisen auf die Vorbildlichkeit von Münzdarstellungen hin. Seit dem 15. Jh. wurde irrtümlich der behelmte Athena-Kopf auf Alexandermünzen für das Porträt des Makedonenkönigs selbst gehalten (Konrad Kraft, Der behelmte Alexander, in: Jahrbuch für Numismatik und Geldgeschichte 15. Jg, 1965, S. 7 ff; frdl. Hinweis von Dr. Bernhard Overbeck, München) Hierauf verweist auch das aufgelöst flatternde Haar von Candids Alexander-Darstellung, während die auffallend vielen Löwenköpfe am Panzer und der Löwenkopf zu seinen Füßen auf das von den antiken Autoren betonte Löwenmäßige seiner Natur, darunter vor allem die Wachsamkeit anspielen. Auf dem Sockelstreifen im Vordergrund steht ALEXANDER MAGNVS. Auf einem hüfthohen Sockel neben ihm, auf dem das Deichselende liegt, ist schwach die Inschrift zu erkennen TAN / TVM / DEM »gleichviel wie« die sich wohl auf den Ausspruch »Nihil interest quomodo solvantur« bezieht.
+
+Wie die 1601 datierte Entwurfszeichnung Candids belegt, ist das Gemälde eine der frühesten Arbeiten des Künstlers für die Residenz, wenn man von seiner Beteiligung an den Arbeiten in der Grottenhalle absieht (1586/87, s S. 50), für die Sustris die Entwürfe lieferte. Auch Alexander mit seinem durch den wehenden Mantel aufgelockerten Umriß verrät den Einfluß von Sustris. In der warmen Farbigkeit und der präzisen Wiedergabe der Details dieses leider durch Verlust von Lasuren beeinträchtigten Bildes zeigt sich deutlich Candids künstlerische Handschrift (KDB, S. 1079. - Thoma / Kreisel, Raum 109. – Knüttel 1967, S. 194 f. und Abb. 9.)
+
+
+== II CAESAR UND AUGUSTUS (ehem. in Raum 93, Bild verschollen Raumphoto vorhanden) ==
+
+
+Das nicht mehr nachweisbare Bild ist beschrieben worden als »zwei lorbeergekrönte antike Helden, zu ihren Füßen ein Flußgott, oben ein Adler« (KDB, S. 1080). Es gibt photographische Aufnahmen des Raums, auf denen die Darstellung teilweise zu erkennen ist. Unter einem großen<br>Adler mit ausgebreiteten Schwingen sieht man zwei lorbeerbekränzte Männer. Ihre Körper sind einander zugewendet, während die Köpfe
+
+
+[[File:Band03-2_chunk003_p013_img003.jpg|thumb]]
+
+
+beinahe in Frontalansicht gedreht sind und sich ein wenig nach außen zum Bildrand hin neigen. Von dem rechts stehenden sieht man nur den Kopf von seinem Gegenüber, über dessen Haupt ein geschweifter Stern erscheint, auch einen Teil des Oberkörpers. Sein rechter Arm ist vorgestreckt, mit dem Zeigefinger deutet er auf einen Gegenstand auf einem Sockel neben ihm. Dieser Gegenstand kann mit Hilfe eines 1601 datierten Skizzenblattes von Candid, das bereits hypothetisch mit den Darstellungen der Erdgeschoßzimmer in Verbindung gebracht wurde (Kat. Candid Zeichnungen, Nr. 18 und Abb. 93), als Armillarsphäre identifiziert werden. Die Zeichnung zeigt zwei Studien nach einem in Untersicht gegebenen männlichen Modell, einmal bekleidet, einmal mit nacktem Oberkörper. Der Knabe stützt mit der linken Hand einen Kommandostab in die Hüfte – auf dem Gemälde ist das obere Ende dieses Stabs zwischen den beiden Dargestellten zu erkennen - mit dem Zeigefinger deutet er auf die Erde im Zentrum der Armillarsphäre. Im unteren Teil des Bildes sieht man im Vordergrund einen liegenden Flußgott mit einer Urne und einem Ruder, im Hintergrund zwischen den beiden Männern einen Rundtempel.
+<!-- citation-page-bottom: Band03-2 p125 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=14 -->
+<!-- citation-page-top: Band03-2 p126 -->
+
+<!-- header: RESIDE -->
+
+<!-- header: ERDGESCHOSSZIMME -->
+
+Der linke der beiden Herrscher ist als Caesar gekennzeichnet durch das »Sidus Julium« über dem Haupt, den auf ihn bezogenen Kometen, der im Jahre 17 v. Chr. erschien. Die nach seinem Tod geprägten Münzen zeigen ihn mit diesem Stern über dem Haupt als Zeichen seiner Vergöttlichung und der Inschrift DIVVS IVLIVS (z.B. The Roman Imperial Coinage, hg. H. Mattingly, E. A. Sydenham, Bd 9, hg. J. W. Pearce, London 1951, 271). Die
+
+
+[[File:Band03-2_chunk003_p014_img001.jpg|thumb]]
+
+
+Armillarsphäre als Zeichen der Ewigkeit verweist auf seine immerwährende Herrschaft (Pierio Valeriano, Hieroglyphica, lib. 20).
+
+Sein Gegenüber ist Augustus, der sich auf die von Caesar begründete Herrschaft bezog, sie fortführte und ausbaute. Es ist nicht bekannt, welche Attribute ihm beigegeben waren, da er auf den Photos nur teilweise (Kopf, Beine) zu erkennen ist. Im Gegensatz zu Caesar, der den Kommandostab hält, ist wohl bei Augustus auf sein Friedensherrschertum angespielt durch die Darstellung des Tempels mit geschlossenem Tor als Hinweis auf die Schließung des Janustempels 29 v. Chr. Der ihm entgegenfliegende Adler stellt die Beziehung zu Jupiter her (s. auch S. 154) (KDB, S. 1080. – Thoma/Kreisel, Raum 108. – Knüttel 1967, S. 208, Anm. 52).
+
+III KONSTANTIN DER GROSSE (vielleicht ehem. in Raum 91, Bild verschollen, Photo vorhanden)
+
+Der Kaiser steht frontal auf Stufen vor freiem Himmel, wo in einer Gloriole schwach sichtbar das Kreuz erscheint und sich ihm zuneigt, mit der Umschrift IN HOC SIGNO VINCES, in diesem Zeichen wirst du siegen. Er umfaßt mit der Rechten das Labarum, die Linke hat er betont in die Hüfte gestützt. Über einem antikisierenden Muskelpanzer, der mit Engelköpfchen geziert ist, trägt er das Paludamentum, auf dem Haupt den Lorbeerkranz. Seinen Helm mit großem Federbusch hat er auf den Stufen abgelegt, auf denen links noch ein weiterer nicht zu erkennender Gegenstand mit einer Schnalle liegt (Helm?). Eine Kopie des Bildes von G. Nothhelfer (1903/04) befindet sich im Treppenhaus des Hauses Georgenstr. 8, München.
+
+Konstantin, der Begründer des Imperium Christianum, errang im Kampf um die Herrschaft den Sieg, den er dem Gott der Christen zuschrieb, da ihm vor der entscheidenden Schlacht (312 n.Chr.) ein flammendes Kreuz mit der genannten Inschrift erschienen sein soll. Er ließ daraufhin das Christusmonogramm auf die Kaiserstandarte setzen. (Rée, S. 196. – Knüttel 1967, S. 195 und Abb. 10).
+
+IV THEODOSIUS DER GROSSE (ehem. in Raum 111 bei Thoma/Kreisel, Bild verschollen, Photo vorhanden)
+
+Wie die anderen Herrscher ist auch Theodosius auf diesem kleinen Rundbild frontal stehend in Körperpanzer und Mantel wiedergegeben. Er setzt den linken Fuß auf den Kopf eines besiegten Feindes. Die Weltkugel in seiner Linken ist von einer Figur der Victoria bekrönt, die ihm mit einem Lorbeerkranz entgegeneilt. Vor ihm kniet links eine Frau mit nacktem Oberkörper, beide Hände bittend zum Kaiser erhoben, der sie unter ihrem linken Arm faßt, als wolle er ihr aufhelfen. Auf dem Säulenpodest rechts steht die Inschrift FL (AVIVS) THEODO / SIVS MAGNVS / IMP (ERATOR) CAESAR
+
+Die Darstellung zeigt auffallende Ähnlichkeit mit der Rückseite von Theodosius-Münzen des Typs »Reparatio Reipublicae« (z.B. unter vielen anderen Beispielen aus anderen Münzstätten: Aquileja, Bronze; Coinage, loc. cit., Bd 9, 30 d, 378/83). Wie auf dem Gemälde steht der Kaiser frontal, auf der linken Hand die Weltkugel, darüber die ihn bekrönende Victoria, zu seiner Seite kniet, im Profil gesehen, eine Stadtgöttin mit der Mauerkrone, der er aufhilft. Das Motiv, bezogen auf die Wiederherstellung des Staates nach der Bedrohung durch Usurpatoren, ist nicht auf Theodosius beschränkt, sondern begegnet auch auf anderen spätantiken Kaisermünzen. Es war das Vorbild für Candids Komposition, am ehesten vermittelt durch illustrierte numismatische Werke, etwa die kostbaren, von Jacopo Strada gezeichneten Münzbände, ehem. im Besitz des bayerischen Hofes (heute in Gotha). Demzufolge ist die Supplikantin auf dem Bilde Candids als Allegorie des Staates zu verstehen: die Mauerkrone auf der Münzvorlage wurde in eine Zopffrisur umgewandelt. Eine Zeichnung des Künstlers mit Studien für diese Figur zeigt bereits die Schwierigkeit, die er mit der Wiedergabe der von unten verkürzt gesehenen Arme hatte, vor allem mit dem Ansatz des linken Armes (Abb. S. 123).
+
+V WAPPEN MIT DEM PFÄLZISCHEN LÖWEN (ehem. in Raum 100 bei Thoma/Kreisel, Bild verschollen, Photo vorhanden)
+
+In einer Kartusche erscheint als Wappenbild der steigende gekrönte Pfälzer Löwe nach (heraldisch) links. Der Kartuschenrahmen wird seitlich von Putten gehalten, oben drängen sich weitere Putten heran, von denen sich einer in spielerischer Weise den Kurhut aufzusetzen versucht.
+
+Das nicht mehr nachweisbare, schlecht erhaltene Bild ist allein nach dem Photo schwer zu beurteilen. Bassermann-Jordan (S. 101) dachte an einen Entwurf von Sustris, vor allem wegen der Verwandtschaft mit dem Freskofeld im Antiquarium (W), auf dem von Putten Wappenschilde präsentiert werden. Jedoch sprechen die starke Körperlichkeit der das ganze Feld prall ausfüllenden Kinderfiguren wie auch deren Gesichtstyp eher für Candid, ebenso die für diesen typische Art, wie der Putto rechts den Schild nicht direkt anfaßt, sondern ein Tuch dazwischen legt; auch die Faltenbrechung des Tuches selbst ist entsprechenden Draperien Candids ähnlich (Bassermann-Jordan, S. 101. – KDB, S. 1086). Zu einem anzunehmenden Pendant zu V, wohl mit den bayerischen Rauten, s.o.
+
+V<sub>1</sub> ARNULF DER BÖSE, Herzog von Bayern, †937 (ehem. in Raum 100 bei Thoma/Kreisel, Bild verschollen, Photo vorhanden)
+
+Arnulf ist in der Bildmitte sitzend im Harnisch mit Kurhut und Mantel dargestellt, in der Rechten eine Lanze, die Linke in die Hüfte gestützt. Auf dem Boden liegt links ein Helm, daneben lehnt ein großes, ovales Rautenwappen an der Wand. Rechts sieht man, von einer Vorhangdraperie etwas verdeckt, ein Postament mit Inschrift ARNVLPHVS / LVITHBALDI FI (L.) BAVARIAE DVX
+
+Der erste bayerische Herzog aus dem Geschlecht der Luitpoldinger ist 1615 von Candid im Theatinergang noch einmal dargestellt worden, nur als Büste und im Gegensinn. Die Physiognomie mit scharf geschnittener Nase und zusammengezogenen Brauen ist beibehalten, als Kopfbedekkung trat jedoch an die Stelle des Kurhuts ein federgeschmücktes Baret (s. S. 204 f.); (Faßmann, Nr. 1220. – Revidiertes Faßmann-Inventar, GHA Handschriften Nr. 69, Nr. 1220. – Residenz Gemäldeinventar von 1810 BSV, Rep. Reg. Nr. 136 d, Nr. 539. – Rée, S. 127 f. – Thoma/Kreisel, Raum 100. – Knüttel 1967, S. 197, 208, Anm. 58. – Seelig, S. 295, zu Nr. 14).
+
+V<sub>2</sub> OTTO III. GRAF VON SCHEYERN, nach heutiger Zählung Otto II., †nach 1107 (ehem. in Raum 100 bei Thoma/Kreisel, Bild verschollen, kein Photo)
+
+Von dem verlorenen Bild gibt es eine Beschreibung von 1885: »... zeigt in der Mitte in Fürstentracht mit Zepter und Hermelinhut den Grafen Otto der mit der Linken das Modell des Klosters Scheyern gefaßt hat, das recht auf einem Tische steht, an dessen Vorderseite sich das Wappen von Scheyern befindet. Links sieht man durch ein Fenster in einen Schloßho hinein. Unter dem Fenster steht OTHO OTHONIS II. FIL. COMES IN WITELSPAC. FVNDATOR MONASTERII SCHIREN« (Rée, S. 127 f.) (Faßmann, Nr. 1221. – Revidiertes Faßmann-Inventar, GHA, Handschriften Nr. 69, Nr. 1221. – Rée, S. 127 f. – Thoma/Kreisel, Raum 100. – Knüttel 1967, S. 197, 208, Anm. 58. – Seelig, S. 295, zu Nr. 14 und S. 297 zu Nr. 20)
+
+Die beiden Bildnisse V<sub>1-2</sub> gehörten zu einer Folge von Gemälden für die sechs Lünettenfelder von Raum 100. Mit den vermuteten vier weiteren Fürstenporträts können vielleicht die Studien auf dem erwähnten Skizzenblatt Candids in New York in Verbindung gebracht werden. Dieses zeig auf der Vorderseite drei Entwürfe für einen sitzenden Herzog mit Kommandostab, in der Haltung Arnulf dem Bösen ähnelnd, eine weitere Sitzfigur mit Zepter sowie den Oberkörper eines Geharnischten mit erhobenem Schwert in der Rechten. Eine mit der Feder gezeichnete Sitzfigu: links ist stark beschnitten. Auf dem Verso sieht man einen Mann in Harnisch bis zur Hüfte. Er ist bärtig, trägt ein Federbarett und ähnel hiermit und durch die Riefelung der Harnischbrust und die Körperhaltung der gemalten Büste Ottos I., des legendären Grafen von Scheyern, in Theatinergang von 1615 (s. S. 205). Vielleicht war Otto I. bereits auf einem der sechs Lünettenbilder in Raum 100 wiedergegeben.
+
+VI KARL DER GROSSE (Bild verschollen, Photo vorhanden) Die mächtige Gestalt des Kaisers erscheint im reichverzierten Prunkharnisch alla romana, unter dem das Kettenhemd hervorschaut, mit maskenverziertem Knieschutz. Ein großer Helm von der Art des berühmten Löwenhelms Karls V. liegt zu seinen Füßen. Als Zeichen seiner kaiserlichen Würde trägt er einen großen Prunkmantel mit breiter Schließe, der durch die Armhaltung breit zur Seite fällt und das Gewichtige der Figur unterstreicht, auf dem Haupt eine Mitrenkrone, in der linken Hand Reichsapfel und Zepter, mit der rechten dagegen umfaßt er das erhobene Schwert. An einem großen Wandpfeiler links erscheint nicht der kaiserliche Doppeladler, sondern nur der einfache königliche Adler, auf der Brust einen längsgeteilten Wappenschild, vorn mit den französischen Lilien, hinten mit den bayerischen Rauten. Die Inschrift bezeichnet ihr als römischen Kaiser und König von Gallien, Italien und Bayern CAROLVS.M:ROM.IMP.AVG.GALI. / ITAL.ET BAVAR. REX
+
+Ein Skizzenblatt Candids mit einer Hand, die eine Kugel hält, gilt wahrscheinlich dieser Darstellung, von der ein ovaler Ausschnitt mit leichten Varianten von Wolfgang Kilian als Illustration der erstmals 1605 erschienenen »Genealogia Boiariae Ducum« von Christoph Gewold nachgestochen wurde. (Schoenen, S. 299 und Abb. 6. – Knüttel 1967, S. 195 f, 200, 208, Anm. 53 und Abb. 13. – Erichsen, S. 182 und Abb. 111. – Seelig, S. 270.)
+
+VII LUDWIG DER BAYER (Bild erhalten, Zweitverwendung in Raum 57, S.O.)
+
+Kaiser Ludwig erscheint im Krönungsornat, im mit Perlen verzierten Kaisermantel, der durch eine Schmuckagraffe zusammengehalten und so zur Seite geschlagen ist, daß darunter die ebenfalls perlenbestickte, überkreuzte Stola sichtbar wird. In der linken Hand hält er den Reichsapfel; das Zepter in der Rechten und die kaiserliche Mitrenkrone tragen den Doppeladler, der auch auf dem Wandpfeiler links mit dem bayerischen Rautenwappen auf der Brust erscheint. Das Motiv des kaiserlichen Doppeladlers wird mit den zwei lebenden Adlern noch einmal aufgenommen, die den Kaiser flankieren. Ein ursprünglich zu seinen Füßen sitzender Löwe ist der Formatisierung des Bildes zum Opfer gefallen und nur noch auf dem die Komposition im Ausschnitt wiedergegebenen Nachstich von
+<!-- citation-page-bottom: Band03-2 p127 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=15 -->
+<!-- citation-page-top: Band03-2 p128 -->
+
+[[File:Band03-2_chunk003_p015_img001.jpg|thumb]]
+
+Lukas Kilian in Christoph Gewolds »Genealogia Boiariae Ducum« von 1605 sichtbar (Rée, S. 140. – Thoma / Kreisel, Raum 74. – Knüttel 1967, S. 195 f., 201, 208, Anm. 54 und Abb. 14. – Brunner / Hojer, Raum 57. – Erichsen, S. 182 und Abb. 112. – Seelig, S. 270, 272, 200, Anm. 212)
+
+VIII OTTO VON WITTELSBACH, Herzog von Bayern, † 1183 (Bild verloren, Darstellung durch Nachstich, Vorzeichnungen und Kopien überliefert)
+
+Die Darstellung ist durch den Nachstich in Gewolds Genealogie überliefert. Sie stimmt in der Komposition mit Karl dem Großen und Ludwig dem Bayern stilistisch so weit überein, daß auch hier ein entsprechendes Ganzfigurenbild als Vorlage anzunehmen ist. Eine 1602 datierte Zeichnung Candids mit der Aktfigur eines stehenden Mannes, die in einzelnen Details mit dem Stich übereinstimmt, bestätigt diesen Zusammenhang. Otto ist wie die anderen Herrscher frontal wiedergegeben und hat den Kopf etwas nach rechts gewendet. Über dem Harnisch trägt er den hermelinverbrämten, gesenkten Herzogsmantel, das Haupt mit langen lockigen Haaren bedeckt der Herzogshut. Er stützt sich mit dem linken Arm auf ein fast mannshohes gerautetes Wappen mit dem Zickzackbalken im Herzschild als Zeichen des Hauses Scheyern-Wittelsbach. Das Schwert in seiner Rechten hielt er auf dem Bild wahrscheinlich gesenkt (vgl. die Zeichnung, Abb. S. 123).
+
+Ergänzungen zur Ikonographie: Während mit Arnulf dem Bösen der erste bayerische Herzog aus dem Geschlecht der Luitpoldinger und mit Otto II. der Gründer des Klosters Scheyern wiedergegeben ist, werden mit Karl dem Großen, Ludwig dem Bayern und Otto von Wittelsbach die wichtigsten Repräsentanten der Dynastie herausgestellt, mit denen auch Christoph Gewold seine »Genealogia Boiariae Ducum« von 1605 einleitet. Karl sollte durch das im herzoglichen Auftrag entstandene Werk Gewolds als Ahnherr des Hauses wissenschaftlich beglaubigt werden, Otto von Wittelsbach war der erste Herzog des Geschlechts, und Ludwig der einzige, der die Kaiserwürde erlangte. Die von Candid für die Erdgeschoßräume der Residenz geschaffenen Bildnisse besaßen offiziellen Charakter und wurden vorbildlich für die späteren Ahnendarstellungen am Münchner Hof, für gemalte Bildnisfolgen wie im Theatinergang (1615, S. 202-10), in der Ahnengalerie (um 1730) und auch für Stichfolgen (vgl. zu den weiteren Auswirkungen Seelig, loc. cit., bes. S. 270).
+
+Es entsprach den Tendenzen der Zeit, daß der Künstler und sein Auftraggeber um Authentizität bemüht waren. So berücksichtigte man bei der Darstellung Ludwigs des Bayern dessen spätgotische Grabplatte in der Münchner Frauenkirche. Die Ähnlichkeit besteht in der Frontalansicht, in der Bildung des Gesichts mit den eingefallenen Wangen und in dem durch die Agraffe gehaltenen Mantel, unter dem eine gekreuzte Stola sichtbar wird. Die beiden den Herrscher flankierenden, wie lebendig wirkenden Adler, ebenso das Adlerzepter sind dagegen von dem Siegel Kaiser Ludwigs von 1327/28 (Rainer Kahsnitz, in: Kat. Wittelsbach I/2, Nr. 322, mit Abb.) übernommen. Von daher stammt vielleicht auch das Löwenmotiv. Für die Darstellung Karls des Großen hat Candid selbst auf bisher nicht identifizierte Vorbilder in der Bibliothek des Großherzogs von Toskana und in der Alten Kapelle in Regensburg verwiesen (Knüttel, Anm. 64). Ein Mangel an historischer Treue bei seiner Wiedergabe wird im Jahre 1620 anläßlich der zweiten Auflage von Gewolds Genealogie vom Jesuiten Scioppius beklagt, »Caroli Magni effigies ist nit wol getroffen«, und dabei auf eine zu Lebzeiten des Kaisers entstandene Darstellung verwiesen (ebda; S. 198).
+
+Vielleicht ist es eine Folge dieser Kritik, daß für den bayerischen Hof innerhalb der genealogischen Bildnisfolgen wenig später anstelle von Candids Bild Dürers Tafel mit Karl dem Großen im Krönungsornat als Typus maßgeblich wurde (Erichsen, S. 182).
+
+Mit dem Bemühen um Exaktheit in der Wiedergabe historischer Fakten hängt auch die Entsendung Candids nach Kloster Scheyern, der Familiengrablege der Wittelsbacher, im Dezember 1601, zusammen. Er sollte dort Epitaphien, Bildnisse, Grabsteine mit den dazu gehörigen Inschriften und andere »antiquitates« abzeichnen. Ein entsprechendes Empfehlungsschreiben Herzog Maximilians an den Abt datiert vom 5. Dezember 1601 (Volk-Knüttel 1976, S. 49). Falls der Künstler mit dem »ohnehin dort (= in Scheyern) befindlichen Maler« identisch ist, von welchem Maximilian am 21. Februar 1602 eine Ansicht der Kirche und des Klosters gezeichnet haben wollte und die der Abt schließlich im Mai 1602 schickte, so weilte Candid längere Zeit im Kloster (Ludwig Rockinger, Die Pflege der Geschichte durch die Wittelsbacher. Akademische Festschrift zur Feier des Wittelsbacher-Jubiläums. München 1880, S. 45, ohne Identifizierung mit Candid). Candids Tätigkeit in Scheyern fällt genau in die Ausstattungsperiode der Erdgeschoßräume, die sich offenbar in zwei Etappen vollzog: 1601 malte Candid, wie aus den datierten Vorzeichnungen zu schließen ist, die antiken Imperatoren. Im Dezember ging er nach Scheyern zu einer Aufnahme der dortigen Monumente, die möglicherweise in den Darstellungen bayerischer Herrscher ihren Niederschlag fand, aber auf jeden Fall mit den genealogischen und historiographischen Bestrebungen Maximilians im Zusammenhang stand. Die Wittelsbacher-Porträts sind dann 1602 ausgeführt worden, wie die auf dieses Jahr datierte Zeichnung für Otto von Wittelsbach beweist.
+
+Am 3. Oktober 1601 hatte der Jurist Dr. Johann Baptist Fickler, der frühere Erzieher Herzog Maximilians, seinem Herrn auf dessen Wunsch zur Vorbereitung für die Ausmalung einiger Räume der Residenz mit Kaiserdarstellungen historische Erläuterungen zu den von ihm ausgewählten antiken Kaisern übergeben, dazu jeweils einen Lobpreis in Tetrastichen, die er dem Kaiserkatalog des Johannes Cuspinian entnommen hatte (Johannes Steinruck, Johann Baptist Fickler. Ein Laie im Dienste der Gegenreformation. Reformationsgeschichtliche Studien und Texte 80. München 1965, S. 157; vgl. auch von Busch, Anm. 204).
+
+Ficklers Begleitbrief lautete: »Serenissimo Bavariae Duci Maximiliano, Ante paucos dies ab Antonio Pontionio pictore tuo, rerumque Romanae vetustatis curatore accepi te novi pallatii tui conclavia quaedam celeberrimorum ex Imperatorum simulachris atque historiis illustrari velle, atque petere ut paucos nonnullos atque praecipuos Romanorum Imperatores colligam, eisque brevia rerum gestarum encomia addam unde historiae earum conformes desumi et picturis parietum mandari quaent. Ita-
+
+dicto eius voluntatem, iussionemque tuam declaranti statim, ut par est, audiens Imperatorum selectorum (quantum S. Michaelis, ac subsecuti diei Dominici Festa, eorumque indictae supplicationes patiebantur) excerpsi, additis illorim elogijs singulis tetrasticho compraehensis iisque ex Joannis Cuspiniani cathalogo Imperiali desumptis (fol. 252 v) eamque designationem tibi inspiciendam dari petens: idque factum esse non dubito. At cum ad mentem revocarem exinde historiarum argumenta non facile erui posse, ad alium inscriptionis modum me converti plane historicum solutoque sermone, qua fieri potuit, brevitate, contextum, quem Serenitati tuae offerri curavi, suo perlimato iudicio utrum libet summisso studio committens. Monachii ex aedibus, III Octobris Anno salutis nostrae MDCI« (BSB, Clm 715a, fol. 252).
+
+Vor wenigen Tagen habe ich von Ihrem Maler und Kurator der römischen Altertümer Antonio Ponzano vernommen, daß Sie einige Gemächer Ihres neues Palastes mit Bildnissen und Historien berühmter Kaiser ausschmücken wollen, und daß Sie ersuchen, ich solle ... in kleiner Auswahl ... (?) hervorragende römische Kaiser aussuchen und ihnen jeweils ein Lob auf Ihre Taten beigeben, so daß damit entsprechend ihre Historien ausersehen und in Wandmalerei ausgeführt werden möchten.
+
+Daher habe ich seinem Wort, welches mir Ihren Willen und Befehl darlegte, so wie es sich gebührt, gelauscht und die Namen/Taten(?) ausgewählter Kaiser – soweit die Festtage Michaelis [= 29. 9.] und des darauffolgenden Sonntags [= 30. 9.] mit ihren verordneten Gottesdiensten es zuließen – exzerpiert sowie ihr Lob in je einem Tetrastichon, dem Kaiserkatalog des Johannes Cuspinian entnommen, angefügt. Diese Beischriften [wörtl. »Bestimmungen«] habe ich Ihnen zur Einsicht geben wollen und bezweifle nicht, daß dies geschehen ist. Da ich mir aber in den Sinn rief, daß hieraus der Inhalt der Historien nicht leicht abgelesen werden kann, habe ich mich zu einer anderen Art von Beischrift entschlossen, ganz historisch und in Prosa und möglichst kurz abgefaßt; diese habe ich mich bemüht, Ihrer Durchlaucht zu widmen, und vertraue beide [Fassungen] mit untertänigem Arbeitseifer Ihrem geschliffenen Urteil an (Die Übersetzung wird Dr. Peter Diemer, München, verdankt).
+
+Daß sich die Zusammenstellung der Kaiserviten und Tetrastichen tatsächlich auf die Erdgeschoßräume bezieht, kann nicht zweifelsfrei gesichert werden, da in dem zitierten Brief von Wand- und nicht von Deckenmalereien die Rede ist. Die Übereinstimmung der Daten jedoch und auch die sonst nicht zu beobachtende Beziehung Candidscher Kompositionen zu Münzdarstellungen, am deutlichsten bei dem ohne numismatisches Vorbild unverständlichen Theodosiusbild, machen eine Einflußnahme Ficklers bei der Themenauswahl der Deckenbilder glaubhaft.
+
+Der Zusammenschluß von antiken Imperatoren und bayerischen Herrschern zu einem gemeinsamen Bildprogramm wird durch die Person Karls des Großen vollzogen. Er steht am Ende der mit Alexander beginnenden antiken Herrscherreihe, und durch ihn wird das Römische Imperium auf das Heilige Römische Reich und die Deutschen übertragen. Seine antikisierende Darstellung scheint diesen Gedanken der Translatio Imperii besonders zu betonen. Auf die Kaiserwürde wird bei Ludwig dem Bayern der entscheidende Akzent gelegt, während Karls Funktion als Herrscher Bayerns herausgestellt ist. Als solcher und bereits auch als »author familiae nostrae« spielt er in der ersten Hälfte der 90er Jahre bei der Planung Herzog Wilhelms V. für sein Grabmal eine Rolle (Dorothea Diemer, Quellen und Untersuchungen zum Stiftergrab Herzog Wilhelms V. von Bayern und der Renata von Lothringen in der Münchener Michaelskirche, in: Quellen und Studien zur Kunstpolitik der Wittelsbacher vom 16. bis zum 18. Jahrhundert, München-Zürich 1980, bes. S. 18f.), und auch die von den Jesuiten Rader und Gretser 1597 zur Einweihung der Münchner Michaelskirche herausgegebene Festschrift bezeichnet ihn als den größten Herrscher Bayerns (Schoenen, S. 281).
+
+Der Anspruch der bayerischen Wittelsbacher, über die Grafen von Scheyern von Karl dem Großen abzustammen, verbindet sich mit dem Gedanken der Herrschaftstradition. Die antiken Imperatoren, die nicht nur für die Kaiser selbst als Repräsentanten des Reichs eine Rolle spielten, galten auch bei anderen Fürsten als beispielhafte Amtsvorgänger, die Ehre und Ruhm erworben hatten und mit deren Virtutes man sich identifizieren konnte.
+
+Das Deckenprogramm der Erdgeschoßräume verfolgte dasselbe Ziel wie das Programm des Theatinergangs. Der weit zurückreichende Stammbaum und das Alter der Landesherrschaft sollten vor Augen gestellt werden. Während jedoch im Theatinergang die Kontinuität durch die ununterbrochene Reihenfolge der Regenten vom Auftraggeber nach rückwärts betont und durch eine allegorische Repräsentation des Landes ergänzt ist, wurden in den Erdgeschoßräumen die prominentesten bayerischen Regenten den bedeutendsten antiken Herrschern an die Seite gestellt.
+
+
+[[File:Band03-2_chunk003_p015_img002.jpg|thumb|VIII Otto von Wittelsbach (Nachstich)]]
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, HR II, 1, 1600 (Hofbauamtsrechnungen). BHStA I, HR 22, /58, Nr. 101 (Mobilieninventar der Residenz 1769) Faßmann 1770, Nrn. 1220 und 1221. Revidiertes Faßmann-Inventar um 1900
+
+Gewold, Christoph, Genealogia Boiariae Ducum, München 1605, mit Stichen von Lukas Kilian.
+
+Hainhofer 1611–13, S. 59f., 69f. Wening 1701, S. 4, 7.
+
+Rée 1885, S. 127 f., 196. Bassermann-Jordan 1900, S. 101, 115. KDB I OB (2), S. 1079f., 1086 und Taf. 175.
+
+Frankl 1916–18, S. 226–33. Busch 1933, S. 399–404. Thoma/Kreisel 1937, R. 100, 108-111. Verlorene Werke der Malerei in Deutschland. In der Zeit von 1939 bis 1945 zerstörte und verschollene Gemälde aus Museen und Sammlungen, München 1956, S. 156.
+
+Schoenen, Paul, Das Karlsbild der Neuzeit, in: Karl der Große, Lebenswerk und Nachleben, Bd 4: Das Nachleben. Hg. Wolfgang Braunfels und P. E. Schramm, Düsseldorf (1967), S. 299.
+
+Knüttel, 1967, S. 194–210. Brunner/Hojer 1975, R. 90-93. Kat. Candid-Zeichnungen 1978, Nr. 15-21, 27. Diemer 1980, S. 129-174 (bes. S. 129, 137). Erichsen 1980, S. 179–190. Seelig 1980, S. 253–327.
+<!-- citation-page-bottom: Band03-2 p129 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=16 -->
+{{End}}

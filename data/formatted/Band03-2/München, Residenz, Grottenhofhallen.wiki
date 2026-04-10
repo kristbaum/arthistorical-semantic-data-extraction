@@ -1,0 +1,710 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=49
+|Originalseitenbis=66
+|Lemma=München, Residenz, Grottenhofhallen
+|Ort=München
+|davor=München, Residenz, Lusthaus im nachmaligen Hofgarten
+|danach=München, Residenz, Antiquarium
+|AutorIn1=???
+}}
+
+Bauer-Wild, Anna, Das Lusthaus Albrechts V. und seine Deckenbildausstattung, in: Jahrbuch der Bayerischen Denkmalpflege (im Druck).
+
+'''Zum Bauwerk:''' 1581/86 wurde unter der Leitung von Friedrich Sustris im W an das Antiquarium angrenzend und gleichzeitig mit dessen Ausstattung eine geschlossene Vierflügelanlage im Spätrenaissancestil errichtet, die sich in ihren Grundzügen erhalten hat. Sie gruppierte sich um einen längsrechteckigen Gartenhof, das sog. »Geheime Lust- und Residenzgärtlein« (heute Grottenhof), und wurde im O aus einer sich über die gesamte Breitseite gegen den Garten öffnenden Loggia gebildet, im W durch einen Bautrakt, der nur in seiner Mitte durch eine dreiachsige Loggia zum Freien hin geöffnet war, im S durch einen weiteren Bautrakt und im N durch eine Mauer. Diesen Bau Wilhelms V. hat sein Sohn Maximilian I. bereits wenige Jahre später verändert; das ursprüngliche Aussehen ist nicht mehr genau zu ermitteln (s. S. 120 f.).
+
+Eine frühe, ausführliche Beschreibung des Grottenhofs stammt von Hainhofer vom 15. Juli 1603: »Auf der rechten Seite führt uns ein Kämmerling namens Ludwig in einen schönen Lustgarten, das ›Belvedere‹ genannt. Dieses ist e
+
+vielen schönen Bildern von ›Möß‹ [Messing]. In den Trögen sieht mar allerhand schöne Blumen und Nelken. Das Belvetere ist oben ›am getill [= Decke] mit vielen gemalten Tafeln geziert. Vorn hinüber, also zu Ende des Gartens langer Saal mit Tafeln« (Hainhofer 1603-07, S. 2)
+
+In originaler Form erhalten ist die Halle im O. Die westliche Loggia wurde um 1730 geschlossen. In der Beschreibung bei Wening (1701) und auf der Ansicht von Disel (um 1722) öffnet sie sich mit drei Arkaden gegen den Garten, seitlich sind jeweils zwei Joche mit Fenstern innerhalb von Blendarkaden sichtbar. Von dieser kleineren Loggia, die auch nur etwa zwei Drittel der Tiefe des Bautrakts einnahm, ist in den Quellen die Rede als vom »kurzen« Gartengewölbe, vom »hindern mittern« oder vom »hindern gewolb bey der grotta«, im Gegensatz zum »langen vordern« Gartengewölbe (BHStA I, HRI, Fasc. 279, Nr. 4, fol. 62 r; z. B. fol. 11 r; fol. 79 v; z. B. fol. 2 v). In ihr befand sich ein Brunnenbecken, auch »grotta weyer« genannt und ein Berg »ob der Grota« (ebd., fol. 79 v; fol. 108 r). Die Grottendekoration hat man später (unter Maximilian I.?) entfernt und die Wände mit perspektivischen Darstellungen in Scagliola verkleidet, die den Raum illusionistisch erweiterten. Monconys (S. 352 f.) beschreibt ihn 1666 als »un petit cabi ou perspectives dans des arcades avec leurs pilastres et le reste de l'architecture de marbre noire si bien faites qu'il n'y a point de peintre qui les put mieux peindre ny imaginer rien de plus sçavant et de plus beau«. A
+
+
+[[File:Band03-2_chunk001_p025_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p49 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=1 -->
+<!-- citation-page-top: Band03-2 p50 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: GROTTENHOFHALLEN -->
+
+mit »Perspectiven auß Stuckator« geschmückt und der Boden mit weißem und rotem Marmor belegt.
+
+501080 Der gesamte Binnenhof zeigte eine Wandgliederung mit Pilastern, dazwischen waren in Nischen antikisierende Statuen und Büsten, z.T. auch ergänzte Antiken, aufgestellt, die der Anlage den Charakter eines Statuengartens verliehen. Er wurde auch das »steinerne« Gärtchen genannt. Um den Perseusbrunnen von Hubert Gerhard im Zentrum gruppierten sich vier symmetrisch angelegte Gartenkompartimente, jeweils geschmückt mit Brunnen, die Bronzestatuen der allerdings erst 1611 geschaffenen Vier Jahreszeiten von Hans Krumper trugen. (Sie werden identifiziert mit den Jahreszeitenbronzen von Krumper im BNM, München; s. zuletzt Dorothea Diemer, in: Katalog Wittelsbach II/1, Nr. 899 ff.)
+
+
+== Osthalle ==
+
+
+Die erhaltene, heute sog. Grottenhalle (7 × 22 m) ist nach W in 7 Arkaden auf schlanken Marmorsäulen zum Garten hin geöffnet. Von der Rückwand her ragt in der Breite der drei mittleren Joche eine aus Tuff, Tropfsteinen und Muscheln gebildete Grottenarchitektur in den Raum hinein als Kaschierung für die hier einschneidende SW-Ecke des Antiquariums. Bekrönt wird sie von einer vergoldeten Bronzefigur des Merkur nach Giovanni Bologna. Die Wände der Loggia zeigen im unteren Teil hochrechteckige Felder mit Grotesken bzw. szenischen Darstellungen im Wechsel mit rundbogigen Nischen, in denen auf hohen, abgetreppten Sockeln antikisierende Büsten stehen. Zwischen den Nischen Portale mit kräftigen Stuckmarmorbekrönungen. Umlaufendes Gesims, über dem das Gewölbe mit den Schildbögen ansetzt. Zugänge nach O zum Antiquarium, nach S zum Gartensaal, nach N zum Kapellenhof.
+
+
+'''Auftraggeber:''' Herzog Wilhelm V. (1579-97)
+
+
+'''Autor und Entstehungszeit:''' Gesamtentwurf Friedrich Sustris; Ausführung ca. 1586-88, hauptsächlich durch Alessandro Paduano, Antonio Maria Viani, Peter Candid und Antonio Ponzano. Beteiligt waren ferner in beiden Loggien, vor allem jedoch im »grotta gewolb«: Hans Tegler, Hans Donauer, Christoph Schwarz, Jakob Jelle, Christoph Mittermair, Hans Keller und ein Maler Vogel, wohl Augustin Vogel.
+
+Die maßgebliche Quelle für die Ausmalung des Grottenhofs ist das sog. Pronnersche Malbuch »Mallerey bey Hoff betreffend« (BHStA I, HR I Fasc. 279, Nr. 4). In ihm sind für den Zeitraum vom 11. 1. 1586 bis 31. 3 1591 die an die Künstler am bayerischen Hof ausgegebenen Farben und andere Materialien verzeichnet, unter Nennung der Empfänger und des Verwendungszwecks, gelegentlich auch der Bildgegenstände, darunter u.a. für die Ausmalung der Grottenhofhallen und teilweise auch des Antiquariums (vgl. die Darstellung bei Rée, S. 76-79). Demnach dauert die Ausmalung der Loggien und die gesamte Ausstattung des Gartens etwa zwei Jahre. Seit August 1586 erhalten die vier in Italien ausgebildeten Maler Alessandro Paduano (»Alex°«), Antonio Maria Viani (»Antonio Maria«), Peter Candid (»Piero«) und Antonio Ponzano (»Antonio Pinzony«) jeweils gemeinsam, aber auch einzeln, Farben zur Verwendung im »langen forderen gartengewolb«, darunter Viani und Ponzano am 7. und 8. August für Grotesken (fol. 31 r). Bildthemen werden zunächst nicht genannt. Im Herbst beginnt man mit den Lünettendarstellungen, die jedoch im wesentlichen 1587 ausgeführt werden. Ponzano ist daran nicht beteiligt. Er wird 1588 erneut als Maler von Grotesken in dieser Halle erwähnt. Seit November 1586 sind auch bereits Arbeiten in der kleineren Westloggia nachweisbar. Hier werden 1587 und 1588 die Deckenbilder ausgeführt, bezeugt dafür ist ausschließlich Paduano. Für 1588 sind die umfangreichsten Materialausgaben verzeichnet, und Ende August geht die Ausstattung der Loggien und des Gartens ihrem Ende entgegen. Bis zu diesem Zeitpunkt sind für Vergoldung in der Osthalle 372 Buch, in der Westhalle 245 Buch Gold zugeteilt worden, die Figurennischen der großen Halle erhalten in diesem Jahr einen blauen Anstrich, es wird am Merkurbrunnen, dem »Mercurischen Prunnwerch«, und dem »Grotta weyer« gearbeitet, Bildhauer fertigen unzählige »vogelyn« und »thierlyn«, die von Gehilfen farbig gefaßt werden, daneben ist auch von vergoldeten Blumenkübeln für den Garten die Rede.
+
+Friedrich Sustris wird im Pronnerschen Malbuch ohne nähere Spezifizierung »zu lang gewolb im neuen garten« erwähnt, dann bei der Vergabe von »Regalpapier« (Papier des größten Formats), er entwirft die Vögel und überwacht deren Herstellung. Für die eigenhändige Ausführung von Gemälden ist er nicht nachweisbar. Eine Reihe von erhaltenen Entwurfszeichnungen bestätigt jedoch, daß Sustris der maßgebliche Entwerfer der Ausstattung war und daß die ausführenden Maler sich eng an seine Vorlagen hielten.
+
+Folgende Autoren werden im Pronnerschen Malbuch mit bestimmten Darstellungen in Zusammenhang gebracht:
+
+Peter Candid mit W<sub>1</sub> Arachnes Wettkampf mit Minerva (Mai bis Juli 1587, z.B. »piero in das lang fordere gartter<br>gewolb zu der Istoria Aranea« [Arachne], fol. 2 v)
+
+Antonio Maria Viani mit W<sub>2</sub> Merkur schläfert Argus ein (Juli 1587, z. B. »Ant<sup>o</sup> Maria zu der Istoria Argy«, fol. 2 v) mit W<sub>4</sub> Merkur erblickt Herse (14. September 1587: »Antonio Maria zu der Istoria Mercury«, folg. 27 v 1587: »Antonio Maria zu der 3. historia Mercury und Aglafera [Aglaurus], fol. 27 v)
+
+W<sub>3</sub> Juno und Argus. Hierfür werden Viani und Candid genannt (6. August 1587: »Ant° maria zu der andern Istoria Argy geben«, fol. 25 r, 27 r; 12. August 1587: »Piero zu der Istoria Argy mit dem Pfaben« [Pfauen], fol. 27r). Vom Thema her und wegen der Farbausgaben kurz hintereinander muß es sich um eine Darstellung handeln. Die Nennung von zwei Künstlern ist wahrscheinlich irrtümlich.
+
+Alessandro Paduano mit W6 Minerva bei den Musen auf dem Helikon (21. November 1586: »Alex° in das neu garten gewolb zum Caval Bigaseo [Pegasus] geben«, fol. 11 r; ferner Juni und August 1587, fol. 2 v, 27 r.)
+
+In der Westhalle wird im Zusammenhang mit Bildthemen nur Alessandro Paduano genannt. Er malt die Deckenbilder und wohl zum Teil auch die Lünetten, denn er wird als Autor von vier Phaethon-Darstellungen genannt und einer Darstellung der Sonne, die mit einer der vier identisch sein dürfte (1587, 4. September: »Alex° zum hindtern gewolb im Neuen garten zu der Istoria der Sunnen« [Sonne] vetonte«, fol. 11 r; 27. Oktober: »zu der vierten Istoria vetonte« fol. 95 r; 1588, 21. und 27. Juni sowie 5. Juli für die »Historien vetonti« fol. 27 v, 25 r, 2 v).
+
+Die Malerei in den Loggien ist eindeutig nach Entwürfen von Sustris ausgeführt (s. u.), wobei Viani und Candid erst seit dem Sommer 1586, nach ihrer Übersiedlung nach München, zugezogen werden konnten, während Sustris Schwager Paduano seit 1585 in München nachweisbar ist. Ihn nennt Pallavicino später (1667, S. 147) als Autor der Deckenbilder in beiden Hallen (s. u.).
+
+Friedrich Sustris, *um 1540 wahrscheinlich in Italien, †1599 München. Sohn des aus Amsterdam stammenden Malers Lambert Sustris, bei dem er wohl zunächst lernte. 1563–67 in Florenz Gehilfe Vasaris bei der Ausstattung des Palazzo Vecchio, 1568 von Hans Fugger nach Augsburg berufen und dort bis 1573 mit seinen Gehilfen Antonio Ponzano und Alessandro Scalzi, gen. Paduano tätig. Trat anschließend in den Dienst des Erbprinzen Wilhelm von Bayern, dessen Schloß Trausnitz in Landshut er ausstattete. Folgte Wilhelm nach dessen Regierungsantritt (1579) nach München und wurde Leiter aller künstlerischen Unternehmungen bei Hof, die er mit Hilfe eines großen Mitarbeiterstabs ausführte. Sustris war Maler, Architekt, entwarf Festdekorationen und fertigte Entwürfe für Kunsthandwerk. Außer den Arbeiten für die Münchener Residenz - Grottenhofbauten, Antiquarium – gehören Neubau und Ausstattung der Jesuitenkirche S. Michael zu seinen Hauptwerken.
+
+Alessandro Scalzi, gen. Paduano, aus Florenz gebürtig, war ein Schwager von Friedrich Sustris. Der Beiname »Paduano« deutet auf einen Aufenthalt in Padua hin, wo Lambert Sustris, Friedrichs Vater, seit etwa 1560 ansässig war. Paduano war bereits um 1570/71 in Augsburg und auf der Trausnitz in Landshut 1578-80 der Gehilfe von Friedrich Sustris. Ab 1585 ist er in München nachweisbar, 1591/92 in Venedig tätig, † vor Dezember 1596 in München(?). Zu seinen Schülern gehörte Hans Werl, der während der Ausmalung des Grottenhofs mehrfach Farben für ihn in Empfang nahm.
+
+Antonio Maria Viani (in den Archivalien meist »Viviani« genannt) *um 1555/60 Cremona(?), wurde im Sommer 1586 gleichzeitig mit Candid an den Münchner Hof berufen; Schwiegersohn von Sustris, ging 1592 an den Hof der Gonzaga nach Mantua, † 1629 ebda.
+
+Zu Peter Candid siehe S. 141. Zu Antonio Ponzano siehe S. 67
+
+
+[[File:Band03-2_chunk002_p001_img001.jpg|thumb|F. Sustris, Entwurf zu W1 Arachnes Wettkampf mit Minerva, Wien]]
+
+
+
+[[File:Band03-2_chunk002_p001_img002.jpg|thumb|F. Sustris, Entwurf zu W4 Putto mit Früchten, München]]
+
+
+
+== Zeichnungen Entwürfe für die Osthalle ==
+
+
+sen und mit der Grottenhalle in Zusammenhang gebracht (mündliche Mitteilung), Feder in Braun, grau laviert, außerhalb des Feldes 1580 datiert, 15,3 × 16,1 cm. Stuttgart, Staatsgalerie, Stiftung Schloß Fachsenfeld I/1536, als Christoph Schwarz.
+
+
+== Zu B Götterversammlung mit Flußgott ==
+
+
+1. Gesamtkomposition, Sustris, wohl Werkstattkopie, Feder in Schwarz grau laviert, 15 × 29,5 cm, SGS Mü, Inv. Nr. 1951:68, als Sustris. Das Blatt ist identisch mit dem von Feuchtmayr erwähnten Blatt in der Sammlung des Malers und Kunsthändlers Anton Rauh in Bamberg (Lugt 2182 a) und möglicherweise identisch mit dem von Zottmann, S. 88, Anm. 50 erwähnten Blatt in Münchener Privatbesitz (Feuchtmayr, S. 311, als eigenhändig; Hock, S. 91).
+
+
+[[File:Band03-2_chunk002_p001_img003.jpg|thumb|Sustris-Werkstatt, Zeichnung zu B Götterversammlung, München]]
+
+
+2. Gesamtkomposition, Sustris, wohl Werkstattkopie, mit der vorigen Darstellung übereinstimmend, nur geringfügig schwächer, Feder in Braun grau laviert, 14,9 × 29,7 cm, SGS Mü, Inv. Nr. 9214, als Sustris-Umkreis (Steinbart, S. 117 und Abb. 33, als »kaum eigenhändig«; Feuchtmayr S. 311, als Kopie; Hock, S. 91) (keine Abb.).
+
+3. Gesamtkomposition, Sustris-Umkreis, mit den vorigen Darstellungen übereinstimmend, jedoch schwächer als diese, Feder in Schwarz, laviert 14,7 × 31 cm, Martin von Wagner-Museum der Universität Würzburg Graphische Sammlung, Inv. Nr. 9782/D 49 (keine Abb.).
+
+4. Eine weitere Kopie erwähnen Feuchtmayr (S. 311) und Hock (S. 91) in Berlin, Kupferstichkabinett, KdZ 13461, bez. IM (ligiert) und Johann Müller zugeschrieben (keine Abb.).
+
+
+[[File:Band03-2_chunk002_p001_img004.jpg|thumb]]
+
+
+Zu W<sub>1</sub> Arachnes Wettkampf mit Minerva, Gesamtkomposition von Sustris. Durch Zirkelschlag ist die Freskofläche der Schildbogenwand angegeben, die Komposition ist rechts und links beschnitten. Feder in Blau-grau, laviert, 23,4 × 48,2 cm, Graphische Sammlung Albertina Wien, Inv. Nr. 7943 (Beschreibender Katalog der Handzeichnungen in der Graphischen Sammlung Albertina. Hg. von Alfred Stix. Bd. II: Die Zeichnungen der Niederländischen Schulen des XV. und XVI. Jahrhunderts, bearb. von Otto Benesch, Wien 1928, S. 20, Nr. 142 und Taf. 40; Steinbart, S. 116 und Abb. 32; Feuchtmayr. S. 311; Hock, S. 88).
+
+
+[[File:Band03-2_chunk002_p001_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p001_img006.jpg|thumb|F. Sustris, Entwurf zu W<sub>4</sub> Merkur erblickt Herse. Innsbruck]]
+<!-- citation-page-bottom: Band03-2 p51 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=2 -->
+<!-- citation-page-top: Band03-2 p52 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: GROTTENHOFHALLEN -->
+
+Zu W<sub>2</sub> Merkur schläfert Argus ein, Gesamtkomposition von Sustris, Feder in Grau auf bräunlichem Papier, laviert, 18,2 × 21,5 cm, oben halbrund, Graphische Sammlung Albertina Wien, Inv. Nr. 7941 (Zottmann, S. 89 und Abb. 7; Benesch, a. a. O., S. 20, Nr. 144 und Taf. 40; Steinbart, S. 116; Feuchtmayr, S. 211; Hock, S. 88).
+
+
+== Zu W. Merkur erblickt Herse ==
+
+
+1. Gesamtkomposition von Sustris, Feder in Schwarz, grau laviert, 18 × 21,2 cm, oben halbrund, ehem. Sammlung E. Perman, Stockholm. Verbleib unbekannt (Kat. Ausstellung: Oude Tekeningen uit de Nederlanden, Verzameling Prof. E Perman, Stockholm. Laren, Singer Museum 1962, Nr. 11 und Abb. 14; Knüttel, Brigitte, Peter Candid. ungedr. Diss Frankfurt/M. 1964, S. 69, Anm. 3) (keine Abb.).
+
+2. Gesamtkomposition von Sustris, von H. Geissler zugewiesen und mit der Grottenhalle in Zusammenhang gebracht (mündliche Mitteilung), Feder, laviert, 18,4 × 21,5 cm, oben halbrund, Tiroler Landesmuseum Ferdinandeum Innsbruck, Inv. Nr. DM 20.
+
+
+[[File:Band03-2_chunk002_p002_img001.jpg|thumb|F. Sustris, Einzelfiguren, Entwurf zu 2, 7 und 6, Wien]]
+
+
+Zu W<sub>6</sub> Minerva bei den Musen auf dem Parnass
+
+1. Gesamtkomposition, Sustris (eigenhändig?), mit der Ausführung übereinstimmende Fassung, von H. Geissler bestimmt und mit der Grottenhalle in Zusammenhang gebracht (mündliche Mitteilung), datiert 1590, Feder, laviert, 22 × 47,5 cm, École Nationale Supérieure des Beaux-Arts Paris, Inv. Nr. M 180, als Christoph Schwarz.
+
+
+[[File:Band03-2_chunk002_p002_img002.jpg|thumb|J. M. Kager, Nachzeichnung der O-Wand der Grottenhalle mit W<sub>IV</sub> Mit Laub bekränzter Knabe und W<sub>3</sub> Juno und Argus, Wolfenbüttel]]
+
+
+2. Gesamtkomposition, Kopie nach Sustris, von H. Geissler bestimmt und mit der Grottenhalle in Zusammenhang gebracht (mündliche Mitteilung), Feder in Braun, grau laviert, 19,9 × 32,1 cm, Universitätsbibliothek Würzburg, Handschriftenabteilung, früher Bd. II, S. 81
+
+
+Zu W<sub>I</sub> Jäger mit Armbrust auf der Schulter, Gesamtkomposition, von H. Geissler Sustris zugewiesen und mit der Grottenhalle in Zusammenhang gebracht (mündliche Mitteilung), Feder, laviert, 21,6 × 11,1 cm, Mährische Galerie Brünn, Inv. Nr. B 2116, als Jacques de Gheyn.
+
+Zu W<sub>VII</sub> Jäger mit Blasrohr, Sustris-Umkreis, Feder in Schwarz, grau laviert, 18,7 × 11,2 cm, unten beschnitten, SGS Mü, Inv. Nr. 32060 (Bassermann-Jordan, S. 101; Hock, S. 89).
+
+Zu W<sub>a</sub> 1. Putto mit Früchten, Gesamtentwurf von Sustris. Feder in Schwarz, graubraun laviert, 8,5 × 10 cm, SGS Mü, Inv. Nr. 29835 (Bassermann-Jordan S. 101, als Gehilfenarbeit; Steinbart S. 118 und Abb. 38; Feuchtmayr S. 311; Hock S. 89; Geissler, Meneller (s. u.) Anm. 66, als nicht eigenhändig.
+
+2. Putto mit Früchten (links), geflügelter Putto mit Kürbis (rechts), Kopie von Caspar Meneller, datiert 22. Juli 1593, der Putto links ausgeführt nach Wa oder der Vorzeichnung dazu; die Vorlage für den Putto rechts ist nicht nachweisbar. Feder in Braun, rötlichbraun laviert, 10,3 × 12 cm. Kobberstiksammling, Statens Museum for Kunst, Kopenhagen Nr. 35 (Heinrich Geissler, Die Zeichnungen des Augsburger Bildhauers Caspar Meneller. Überlegungen zum Kopierwesen in Deutschland um 1600, in: MJb 34 1983, S. 68 und Abb. 7) (keine Abb.).
+
+Zu 1-10 Einzelfiguren. Die stehenden Einzelfiguren der zehn Zwickelbilder sind zeichnerisch vorbereitet auf zwei Blättern von Sustris, von denen jedes drei Figuren zeigt. Auf dem ersten Blatt, Feder in Grau laviert, 15,7 × 13,6 cm, Graphische Sammlung Albertina Wien, Inv. Nr. 22398, sind zu sehen eine weibliche Figur mit Stab und Füllhorn (2), Bacchus, von einem Panther begleitet (7) und eine beckenschlagende Tänzerin (6); das andere Blatt, Feder in Grau, laviert, 12,7 × 15,5 cm, Graphische Sammlung Albertina Wien, Inv. Nr. 25272, spätere Beschriftung oben rechts »fedrico sustris«, zeigt eine Tänzerin mit einem Blumenkranz in jeder Hand (4), eine weibliche Figur mit einem Blumenkorb (10) und eine Musikantin, Posaune blasend (5) (Benesch, a.a.O., S. 20, Nrn. 147, 148 und Taf. 41; Steinbart, S. 117 f. und Abb. 34, 36; Feuchtmayr S. 311; Hock, S. 89 f.).
+
+Zu 5 Musikantin, Posaune blasend, Kopie nach Sustris, 1630 datiert, Feder in Braun, braun laviert, 11,7 × 7,0 cm, SGS Mü, Inv. Nr. 9874, als Kopie nach Sustris (Steinbart, S. 116f. und Abb. 35 verweist auf eine Zuschreibung des Blattes an Hans Brol; Feuchtmayr, S. 311; Hock, S. 90) (keine Abb.).
+
+Zu 9 Weibliche Figur mit einer Früchteplatte auf dem Haupt, Kopie nach Sustris, 1630 datiert, von derselben Hand wie das vorige Blatt, Feder in Schwarz, grau laviert, 11,7 × 7,2 cm, SGS Mü, Inv. Nr. 7875, als Kopie nach Sustris (Steinbart, S. 118 und Abb. 37; Feuchtmayr. S. 311; Hock, S. 90) (keine Abb.).
+
+
+[[File:Band03-2_chunk002_p002_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p002_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p002_img005.jpg|thumb]]
+
+
+Entwürfe für die ehemalige Westhalle
+
+Zu F Phaethon bittet Apoll um den Sonnenwagen, Gesamtentwurf von Sustris, Feder in Grau, grau laviert auf bräunlichem Papier, 15,1 × 18,6 cm, Graphische Sammlung Albertina Wien, Inv. Nr. 7942 (Zottmann, S. 87 und Abb. 6; Benesch, a.a.O., S. 20, Nr. 145 und Taf. 40; Steinbart, S. 119 und Abb. 41, Feuchtmayr, S. 311; Hock, S. 93; Geissler, Bd. 1, S. 134, D 7 und Abb. S. 136). Abb. S. 63.
+
+Zu W<sub>10</sub> Apoll verfolgt Daphne, Gesamtentwurf von Sustris, Feder in Grau, grau laviert auf bräunlichem Papier, oben halbrund, 21,5 × 24,8 cm, Graphische Sammlung Albertina Wien, Inv. Nr. 7940 (Benesch, a.a.O., S. 20, Nr. 143 und Taf. 40; Steinbart, S. 119 und Abb. 42; Feuchtmayr, S. 311; Hock, S. 93). Abb. S. 65.
+
+Zu W<sub>11</sub> Apoll umarmt Daphne, Gesamtentwurf von Sustris (eigenhändig?), Feder, laviert, oben halbrund, Maße unbekannt, ehem. Sammlung Adalbert Werner, München (Feuchtmayr, S. 311; Hock, S. 92; Photo aus dem Feuchtmayr-Nachlaß, Murnau). Abb. S. 65.
+
+Eine weitere Zeichnung von Sustris wurde als nicht realisierter Entwurf für eine der Schildbogenwände der Westhalle in Betracht gezogen: Triumph der Galatea, Feder in Schwarz, grau laviert, mit schwarzem Stift quadriert, 13,4 × 33,6 cm, Graphische Sammlung Hessisches Landesmuseum Darmstadt, Inv. Nr. AE 769 (Steinbart, S. 118, 120 und Abb. 40; Feuchtmayr, S. 311; Hock, S. 94; Kat. Niederländische Zeichnungen, 16. Jahrhundert im Hessischen Landesmuseum Darmstadt, bearb. von Gisela Bergsträsser, Darmstadt 1979, Beiheft von Kunst in Hessen und am Mittelrhein, 18/19, 1978-79, S. 134 f., Nr. 98, mit Abb.). Aufgrund ihres für eine Lünette bestimmten Formats wurde die Zeichnung mit der westlichen Halle in Verbindung gebracht. Die Schildbögen in der Westhalle waren steiler als in der Osthalle. Das Format der Zeichnung ist jedoch flacher als W1 und W6. Außerdem beschreibt Pallavicino keine Galatea-Darstellung. Ein Zusammenhang ist also unwahrscheinlich.
+
+
+[[File:Band03-2_chunk002_p002_img006.jpg|thumb|F. Sustris, Einzelfiguren, Entwurf zu 4, 10 und 5, Wien]]
+
+
+
+[[File:Band03-2_chunk002_p002_img007.jpg|thumb]]
+
+
+<!-- citation-page-bottom: Band03-2 p53 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=3 -->
+<!-- citation-page-top: Band03-2 p54 -->
+
+<!-- header: DECIDENT -->
+
+<!-- header: GROTTENHOFHALLEN -->
+
+
+[[File:Band03-2_chunk002_p003_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p003_img002.jpg|thumb|Nachzeichnung 18. Jh. von E Merkur, am Rand Einzelfiguren 3-6, München]]
+
+
+
+[[File:Band03-2_chunk002_p003_img003.jpg|thumb]]
+
+
+Nachzeichnungen nach den Fresken der Osthalle
+
+1. Nachzeichnung von Johann Matthias Kager (*um 1575 München †1634 Augsburg) von 1611. Feder mit Aquarell koloriert, auf Papier, 82,3 × 43,8 cm, Wolfenbüttel, Herzog August-Bibliothek, Cod. Guelf. 23.9 Aug. 2°, fol. 130. Dargestellt sind von der nördlich der Grotte gelegenen O-Wand die Tür, rechts daneben die Figurennische mit Büste, daneben das Feld W<sub>IV</sub> »Ein mit Laub bekränzter Knabe«, darüber W<sub>3</sub> »Juno und Argus«. Die Zeichnung befindet sich mit weiteren Ansichten aus der Münchener Residenz – Südlicher Residenzgarten, Antiquarium, Decke des Schwarzen Saals – in einem Band mit Relationen von Philipp Hainhofer. Dieser hatte sie für den Herzog Philipp II. von Pommern-Stettin durch Kager in München zeichnen lassen, mit der Erlaubnis des bayerischen Herzogs Maximilian und mit dessen Auflage, daß sie außer den Auftraggeber niemandem gezeigt werden dürften (zuletzt Katalog Wittelsbach II/2, Nr. 892 b, mit Abb.).
+
+2. Zwei Gruppen von Nachzeichnungen des 18. Jahrhunderts, alle in der SGS Mü. Sie kommen, zusammen mit Inv. Nr. 32060 (zu WVII), aus der Sammlung des 1810 verstorbenen Münchener Kunsthändlers Felix Halm (Halm-Maffei-Sammlung XIV, 32-36; Inv. Nrn. 32046-32060). Auf 10 aquarellierten Zeichnungen sind die Darstellungen der Decke und der Schildbögen genau wiedergegeben, außerdem einzelne Frauen der Zwickeldarstellungen noch gesondert herausgezeichnet. Diese 10 nicht sehr qualitätvollen Zeichnungen von einer Hand sind wohl am Ende des 18. Jh. entstanden (einige Blätter haben ein nordholländisches Wasserzeichen der Firma C. und J. Honig, verwendet in der hier vorkommenden Form seit 1750; vgl. H. Voorn, De papiermolens in de provincie Noord-Holland Haarlem 1960, Nr. 112). Sie besitzen großen dokumentarischen Wert, da die Gemälde weitgehend zerstört sind und schon vorher durch Restaurierungen und Übermalungen verfälscht waren.
+
+
+[[File:Band03-2_chunk002_p003_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p003_img005.jpg|thumb]]
+
+
+Zu B Götterversammlung mit Flußgott, Feder in Grau und Braun, aquarelliert, 14,7 × 27,2 cm, Inv. Nr. 32 049
+
+Zu D Götterversammlung mit Proserpina, rechts oben am Rand herausgezeichnet der Amor aus C, Feder in Grau und Braun, aquarelliert, 18,9 × 26,8 cm, Inv. Nr. 32048
+
+Zu E Merkur und die Winde, am Rand herausgezeichnet die weiblichen Figuren der Zwickel 3–6, Feder in Grau und Braun, aquarelliert, 17 × 26,5 cm, Inv. Nr. 32050
+
+Zu W<sub>1</sub> Arachnes Wettkampf mit Minerva, am Rand herausgezeichnet die weiblichen Figuren der Zwickel 9-10, Feder in Grau und Braun, aquarelliert, 23,4 × 39,3 cm, Inv. Nr. 32046 (keine Abbildung)
+
+Zu W<sub>2</sub> Merkur und Argus, Feder in Grau und Braun, aquarelliert, 18,2 × 17,2 cm, Inv. Nr. 32052 (keine Abb.)
+
+Zu W<sub>3</sub> Juno und Argus, Feder in Grau und Braun, aquarelliert, 18,2 × 17,2 cm, Inv. Nr. 32053
+
+Zu W<sub>4</sub> Merkur erblickt Herse, Feder in Grau und Braun, aquarelliert, 17,8 × 16,8 cm, Inv. Nr. 32054 (keine Abb.)
+
+Zu W<sub>5</sub> Aglaurus und Merkur, Feder in Grau und Braun, aquarelliert, 17,8 × 17 cm, Inv. Nr. 32055
+
+Zu W<sub>6</sub> Minerva bei den Musen, Feder in Grau und Braun, aquarelliert, 22,1 × 39 cm, Inv. Nr. 32047
+
+
+[[File:Band03-2_chunk002_p003_img006.jpg|thumb|Vachzeichnung 18. Jh. von W<sub>6</sub> Minerva bei den Musen, München]]
+
+
+Von vier weiteren, nur mit der Feder ausgeführten Zeichnungen, mit gelegentlichen schriftlichen Farbangaben bei den Gewändern, geben drei die Jägerdarstellungen an den Wänden der Halle wieder. Ein Blatt, Inv. Nr. 32059, gehört nicht in diesen Zusammenhang. Auf ihm ist die Figur des »Ehrgeizes« von der Decke des Kaisersaals (s. S. 179) kopiert, die jedoch stark der Komposition von W<sub>3</sub>, Juno mit dem Pfau, ähnelt. Auf der Rückseite dieser Zeichnungen, die ursprünglich alle auf einem, jetzt auseinandergeschnittenen Blatt saßen, befinden sich Skizzen zu einem Georgiritter und zu Insignien dieses 1729 wieder gegründeten Ordens. Diese ebenfalls aus dem 18. Jh. stammenden Zeichnungen sind von anderer Hand als die aquarellierten. In der Sammlung Halm wurden alle, mit Ausnahme von Inv. Nr. 32 060, die Candid zugeschrieben war, unter dem Namen C. Gaspari geführt (Rée, S. 76f.), von dem sonst keine Werke bekannt sind. Vielleicht war er ein Mitglied der teils in Venedig, teils in München tätigen gleichnamigen Familie von Theatermalern.
+
+Zu W<sub>I</sub> Jäger mit Armbrust auf der Schulter, Nachzeichnung in größerem Bildausschnitt, nach unten verlängert, oben aber kürzer. Neben dem Jäger ist der von Voluten flankierte Büstensockel, der sich in den Nischen neben den Freskofeldern befindet, herausgezeichnet, Feder in Braun, 10,4 × 8,4 cm, Inv. Nr. 32058
+
+Zu W<sub>VII</sub> Jäger mit Blasrohr, Nachzeichnung, Bildausschnitt oben kürzer, nach unten verlängert. Farbangaben: Ärmel des Mannes »gelb«, Hose »rot«. Rechts oben das Profil der Türbekrönung, die neben dem Freskofeld liegt, Feder in Braun, 10,4 × 8,4 cm, Inv. Nr. 32056
+
+Zu W<sub>VIII</sub> Jäger, Armbrust vor sich haltend, Farbangaben: Hut »gelb«, Wams »gelb«, linker Ärmel »blau«, Feder in Braun, 10,4 × 8,4 cm, Inv. Nr. 32057
+
+
+== Befund ==
+
+
+Grottenhalle (Osthalle)
+
+Träger der Deckenmalerei: Tonne mit je sieben Stichkappen, von denen die drei mittleren der O-Seite durch den Grottenbrunnen verdeckt sind
+
+Rahmen: A–E Stuckprofil mit Zierleisten, dazwischen Kartuschen, ehem. mit den Opferszenen a–f; die Lünetten W<sub>1-6</sub>, die Wandstücke oberhalb der Arkadenbögen W<sub>a-g</sub> und die Stichkappen sind stuckgerahmt und mit freihängenden Festons dekoriert; die figürlichen Darstellungen in den Zwickeln 1-10 sind in die felderfüllende Groteskenmalerei einbezogen.
+
+Technik: Decken- und Wandbilder Fresko-Secco-Malerei. polychrom; die nicht erhaltenen Opferszenen a-f waren monochrom blau.
+
+
+== Maße: Höhe der Halle 6,60 m ==
+
+
+A 2,20 × 2,30
+
+B 2,30 × 4,80
+
+C 1,10 × 2,20
+
+D 2,30 × 4,80
+
+E 2,20 × 2,30
+
+W<sub>1</sub> und W<sub>6</sub> 3,00 × 6,50
+
+W<sub>2</sub> 2,20 × 2,40
+
+W<sub>I, II, VII, VIII</sub> 2,00 × 1,00
+
+W<sub>III-VI</sub> 2,00 × 0,45
+
+
+== Erhaltungszustand und Verbleib ==
+
+
+Grottenhalle (Osthalle) 1944 stürzte das Gewölbe der Grottenhalle ein; von totaler Zerstörung verschont blieben nur die Lünettenbilder W<sub>1-6</sub> und die Wandfelder W<sub>I-VIII</sub>. Die Gemälde waren bereits vor dem Krieg in ihrer originalen Substanz stark beeinträchtigt, da ihre ungeschützte, der Witterung ausgesetzte Lage sehr häufig Restaurierungen erforderlich machte. 1641 wurde durch den Maler Hans Georg Plaimb (Pluemb) die Vergoldung des Gewölbes erneuert (BHStA HR II, 2, 1641, Malerei, Nr. 16, 19, 20), für 1630 erwähnt Rée (S. 77) bereits eine Restaurierung durch Pleimb, wohl derselbe Maler. 1695 erhielt Martin Moser 60 fl. für »ausbesserung der Mallereyen im Stainen Residenz Gärttl beim Coral Pronnen und Perspectiv, dan in st. Catharina capeln...« (BHStA, HR I 285/267, Bericht der Hofkammer vom 2. August 1695). 1763 wurde das Grottenwerk restauriert (GHA, Korr. Akt 1717 K II 27, Brief vom 22. September 1764 von Kurfürst Max III. Joseph an den Grafen Josef Franz von Seinsheim). In der um 1800 revidierten Ausgabe des Faßmann-Inventars (GHA, Handschriften Nr. 69, fol. 25) heißt es: »Beyr Grotta ächst am Antiquario sind die vorgemerkten auf der Mauer emalten Stücke alle bis zur Unkenntlichkeit ruiniert.«
+
+1859-61 führte der Kunstmaler Eigner aus Augsburg mit seinen Schülern eine umfassende Restaurierung im Zeitgeschmack durch (Zottmann, S. 88), wovon photographische Aufnahmen zeugen; um 1900 wurde eine Restaurierung durch den Kunstmaler Dietl durchgeführt (Bassermann-Jordan, S. 98).
+
+1957 Wiederaufbau und Konservierung der erhaltenen Gemäldereste durch Karl Körner (Toni Beil, Residenz München, Wiederaufbau 1945-1980, Ms. München 1980 S. 11; Dokumentation des Residenzbauamts). Das Gewölbe wurde nur in seiner Feldereinteilung rekonstruiert, die Deckenbilder A-E, 1-10, W<sub>a-g</sub> und die Groteskenmalerei fehlen ganz. Die Lünettenbilder W<sub>1-6</sub>, die Darstellungen der Jäger W<sub>I-VIII</sub> und die Grotesken in den Wandfeldern seitlich der Türen waren bruchstückhaft erhalten, Binnenzeichnung und Farbsubstanz bis auf die unterste Schicht abgerieben, Feuchtigkeitsschäden in Form von großen schwärzlichen Flecken vorhanden. Die Malerei wurde wiederhergestellt, anstelle einer Jägerszene in WVI ist Groteskenmalerei ergänzt worden.
+
+
+== Ehemalige Westhalle ==
+
+
+Die Westhalle wurde wohl 1730 bei Umbauten durch François Cuvilliés geschlossen. Bei Umbauten im Jahre 1805
+
+
+[[File:Band03-2_chunk002_p003_img007.jpg|thumb|Nachzeichnung 18. Jh. von W<sub>5</sub> Aglaurus u. Merkur, München]]
+
+
+
+[[File:Band03-2_chunk002_p003_img008.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p003_img009.jpg|thumb|Nachzeichnungen 18. Jh. von W<sub>I</sub>, W<sub>VII</sub> und W<sub>VIII</sub> Jäger, München]]
+<!-- citation-page-bottom: Band03-2 p55 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=4 -->
+<!-- citation-page-top: Band03-2 p56 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: GROTTENHOFHALLE -->
+
+
+[[File:Band03-2_chunk002_p004_img001.jpg|thumb|Stichkappe mit Groteskenmalerei (Vorkriegszustand)]]
+
+
+kamen wohlerhaltene Teile der Gemälde der Lünetten vorübergehend zum Vorschein (Bassermann-Jordan, S. 96), 1924/25 wurden diese Partien erneut freigelegt und photographisch dokumentiert, 1944 durch Bomben zerstört.
+
+
+== Rekonstruierende Beschreibung und Ikonographie ==
+
+
+Zur rekonstruierenden Beschreibung der Ausmalung wurden überwiegend Vorkriegsphotographien, Entwurfs- und Nachzeichnungen herangezogen. Die ausführlichste Beschreibung des originalen Zustandes und eine Aufzählung der Decken- und Lünettenbilder liefert Pallavicino 1667:
+
+»S'àprono due loggie sù le volte dalla mano del Padoanino figurate nelle favole d'Ovidio: Nell' una tutta nel giro del muro fatta di prospettive nella finezza di bellisima mistura: Sù la volta Apollo riceve sù'l carro la temerità di Fetonte: nel mezzo egli stesso se ne rende luminosissimo auriga, e in altro quadro mal esperto di tener le briglie ad Eto, e Piroo infelicemente precipita: Né quattr'angoli Cerere, Flora, Bacco, e Saturno finiscono co'loro arnesi l' ornamento. D' intorno le sorelle di Fetonte destinate à convertirsi in Pioppe, piangono al sepolcro dell' ardito fratello le comuni disgrazie. Apollo uccide il Drago Pitone. Le stesso scherza con Amore, si trastulla con Dafne abracciata ne gli amplessi frondosi d'un Lauro. Nell'altra, sù la volta Mercurio in aria con (S. 148) quattro venti, Nettuno, Volcano, e Flora, il Consiglio de' Dei. Apollo tirato da quattro cavalli, Diana
+
+da' cerui fanno apparire la finezza del penello, e le allusioni alle predette favole. D'intorno Aracne con le Parche; Giuno, che adocchia un Pavone adornandogli le piume con gli occhi d' Argo; Mercurio che l' addormenta; Lo stesso assistente al ballo di Pallade, e altre vaghe espressioni compiscono i più bei fregi dell'arte« (S. 147 f.)
+
+Die Dekoration der Grottenhofhallen zeigt folgendes Schema: In der auf der ganzen Länge gegen den Garten geöffneten Osthalle ist an den Wänden die ehemals vorhandene Gliederung des Binnenhofs aufgenommen. Es wechseln rundbogige Nischen, in denen Büsten stehen, mit hochrechteckigen Feldern mit gemalten illusionistischen Landschaftsausblicken mit Vogeljägern hinter Balustraden. Ihre Jagd bezieht sich wohl auf die in den Quellen genannten, plastisch gestalteten Vögel, die den Merkurbrunnen und wohl auch die Grottenanlage in der Westloggia bevölkerten. Ein kräftiges Gesims trennt die Wandzone vom Gewölbe. Hier waren in beiden Hallen in den Lünetten mythologische Szenen aus den Metamorphosen Ovids dargestellt, die sich in freier Landschaft abspielen, mit Ausnahme einer Darstellung im Innenraum. Ihre Anordnung entspricht in der Regel der Abfolge bei Ovid, dem Gang der Handlung folgend wird Szene für Szene erzählt, ursprünglich wohl beginnend an der Rückwand der ehemaligen Westhalle im 1. Joch von S und von hier aus im Uhrzeigersinn weiterführend. Die Darstellungen der Schmalseiten der Osthalle und wohl auch der Westhalle (s.u.) sind aus dieser Chronologie herausgenommen und jeweils aufeinander bezogen. Nur die Themen der fünf Deckenbilder der Osthalle – unter ihnen der auf zwei große Felder verteilte olympische Götterhimmel – schildern keine Episoden aus den Metamorphosen. Allgemein ist als Gliederungsprinzip erkennbar, daß die Decke dem Wirken der olympischen Götter im Himmel gewidmet ist, während die Lünetten, die hauptsächlich Verwandlungssagen zeigen, ihrem irdischen Wirken gelten.
+
+
+== Grottenhalle (Osthalle) ==
+
+
+Die nur noch in Resten erhaltene Ausmalung der heute sog. Grottenhalle umfaßte das gesamte Gewölbe und die Wandfelder zwischen den Türen und den Figurennischen. Die Hauptdeckenbilder (A-E) waren durch Stuckkartuschen miteinander verklammert, die monochrome Opferszenen (a-f) zeigten. Grotesken schmückten Stichkappen und Gewölbezwickel. Ursprünglich war das Gewölbe vergoldet, vor allem wohl bei den Grotesken. In den Zwickeln waren in gemalten Kartuschen die stehenden Einzelfiguren (1-10) in die groteske Dekoration integriert. An den Wänden der Halle flankieren Grotesken in schmalen hochformatigen Feldern die Türen, die etwas breiteren Darstellungen der Jäger (W<sub>I-III</sub>) sind an den Außenseiten der Wände neben den Figurennischen zu sehen.
+
+A-E Darstellungen aus dem olympischen Götterhimmel Nach den erhaltenen photographischen Aufnahmen waren die Deckenbilder im Gewölbescheitel in mäßiger Untersicht angelegt, zentraler Betrachterstandpunkt, Basis im O. Zwischen den drei rechteckigen Bildern, bei denen sich Einzelfiguren vor dem bewölkten Himmel abheben (A, C, E) stehen zwei Querrechtecke mit abgerundeten Schmalseiten (B, D), die zusammengesehen den olympischen Götterhimmel wiedergeben. Von den Wolkenbänken außen mit großen, im Profil und von hinten gesehenen Repoussoirfiguren springt der Blick weit in die Tiefe zu den immer kleiner werdenden Göttern, die aus den Wolken als Halbfiguren, schließlich nur noch als Köpfe auftauchen. Hervorgehoben unter ihnen sind Jupiter, Merkur und Minerva, die die Mitte bilden. Ihre Wendung zum Bildrand hin wird nur verständlich, wenn man beide Bilder aufeinander bezieht. Diese Komposition mit den großen Vordergrundsfiguren und der in die Tiefe gestaffelten Götterversammlung folgt einem verbreiteten manieristischen Schema und begegnet auch auf anderen Kompositionen von Sustris. Charakteristisch ist das starke Springen
+
+
+[[File:Band03-2_chunk002_p004_img002.jpg|thumb|Grottenhof, Osthalle (Vorkriegszustand]]
+
+
+
+[[File:Band03-2_chunk002_p004_img003.jpg|thumb]]
+
+
+der Blicke durch die Schichtung der Figuren. In den Stichkappen und Gewölbezwickeln sind die grotesken Dekorationen mit mythologischen Figuren wie Amor, Faunen und Nymphen dargestellt, die in dynamischen Posen und mit reichen Ornamenten versehen sind. Die Farbgebung ist durch klare Kontraste zwischen Gold, Rot und Blau geprägt, wodurch die illusionistische Tiefe verstärkt wird. Die Stuckkartuschen, die die Opferszenen umrahmen, sind filigran gearbeitet und zeigen Details wie Blüten, Ranken und geometrische Muster, die den barocken Prunk unterstreichen. In den Wandfeldern zwischen den Türen und Nischen sind die Jäger WI-III in lebendigen Szenen dargestellt, bei denen sie mit Bögen, Speeren und Hunden auf Beute ansetzen. Die Balustraden, hinter denen sie stehen, erzeugen eine perspektivische Tiefe, die die Landschaften hinter den Figuren vergrößert und den Raum optisch erweitert. Die in den Kartuschen integrierten Einzelfiguren 1-10, darunter Gottheiten wie Bacchus, Ceres und Flora, sind in ruhigen Posen dargestellt und tragen Attribute, die ihre mythische Bedeutung verdeutlichen. Die gesamte Ausmalung folgt einem harmonischen Konzept, in dem mythologische Themen, illusionistische Architektur und groteske Ornamentik zu einer einheitlichen Darstellung verschmelzen, die sowohl die göttliche Ordnung als auch die künstlerische Meisterschaft der Zeit reflektiert.
+
+
+[[File:Band03-2_chunk002_p004_img004.jpg|thumb|Merkur vertreibt die Winde (zerstört]]
+<!-- citation-page-bottom: Band03-2 p57 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=5 -->
+<!-- citation-page-top: Band03-2 p58 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: GROTTENHOFHALLEN -->
+
+
+[[File:Band03-2_chunk002_p005_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p005_img002.jpg|thumb|Gewölbejoch (Vorkriegszustand) mit W<sub>4</sub> Merkur erblickt Herse in der<br>Lunette und den Tänzerinnen 3 und 4 in den Zwickeln]]
+
+
+gen in den Größenmaßstäben und die rapide Tiefengewinnung, die der Darstellung eine flackernde Unruhe verleihen. Wird bei der Wiedergabe der Gespanne des Apoll und<br>der Diana der an den vorderen Bildrand gerückte Sonnengott durch seine Größe hervorgehoben, so ist der Unterschied von der Hauptfigur im Vordergrund zu den Szenen im Hintergrund bei einigen der Lünettenbilder noch größer, einmal, um Raumtiefe zu erschließen, zum andern, um der Hauptfigur die beherrschende Stellung in der Komposition zuzuweisen.
+
+== A DIE GESPANNE VON APOLL UND DIANA ==
+Links oben, groß in den Vordergrund gerückt, fährt Apoll auf seinem von vier Pferden gezogenen Sonnenwagen durch<br>den Tierkreis, der über seinem Haupt das Sternbild der Fische zeigt; rechts unten in gegenläufiger Bewegung lenkt<br>seine Zwillingsschwester Diana ihren hirschbespannten Wagen tiefer und näher an der Erde durch den Zodiakus.
+
+
+== B GÖTTERVERSAMMLUNG MIT FLUSSGOTT ==
+
+
+Von den auf Wolken lagernden Göttern und Heroen sind Herkules mit Keule und Löwenfell und der gerüstete Mars,<br>der sich ihm zuwendet, links auf Wolken sitzend groß
+
+
+[[File:Band03-2_chunk002_p005_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p005_img004.jpg|thumb]]
+
+
+hervorgehoben. Vor ihnen sieht man in den Wolken das Brustbild einer Sphinx. Rechts davon taucht der vom Rücken gesehene Oberkörper eines Flußgottes auf, das Haupt mit Schilf bekränzt, in der Linken ein Ruderblatt, der rechte Arm ruht auf einem pantherartigen Tier. Mehr im Hintergrund sieht man Diana mit einer weiteren Figur nach Endymion. Rechts erscheinen Jupiter auf dem Adler mit ausgebreiteten Armen, neben ihm, kleiner Vulkan mit dem Hammer, ferner Chronos mit der Sense und weitere Götter. Am linken Bildrand drei nicht identifizierte Figuren, eine mit einer Lyra. Oben in Wolken fährt Apoll durch den Zodiakus.
+
+== C AMOR ==
+In diesem Feld über der Grotte ist allein der geflügelte, bogenschießende Amor, der Gott des Liebesverlangens, dargestellt.
+
+
+== D GÖTTERVERSAMMLUNG MIT PROSERPINA ==
+
+
+Auf einer Wolkenbank im Vordergrund sitzt vom Rücken gesehen eine nackte Göttergestalt, wahrscheinlich Pluto (möglicherweise auch Neptun; vgl. Pallavicino, S. 148). In der ausgestreckten Linken hält er einen Dreizack (?), mit der Rechten umfaßt er einen Hund. Daneben erscheint Vulkan mit seinem Hammer (er ist auch auf B dargestellt)<br>neben ihm der Kopf Pans. Der Bärtige unter der Wolke unten rechts ist wohl Atlas, der Träger des Himmelsgewölbes. An zentraler Stelle sieht man als Halbfigur Proserpina<br>mit entblößten Brüsten und blumenbekränztem Haupt. Links am Bildrand steht Minerva; aus Wolken auftauchend, eilt Merkur mit ausgebreiteten Armen, den Caduceus in der Linken, herbei. Venus mit Amor, Juno mit dem<br>Pfau und Ceres mit einem Füllhorn lagern auf Wolken im<br>Hintergrund.
+
+== E MERKUR VERTREIBT DIE WINDE ==
+Links Merkur im Flug mit Flügelhut und Caduceus. Er vertreibt die bösen Winde, die von Aeolus, dem Windgott und Hüter der<br>Winde, unter seinen breiten Schwingen eingesammelt werden. Sie sind in der üblichen Form als pustende Köpfe dargestellt, einer von ihnen als Totenkopf (Abb. S. 55).
+
+== a-f OPFERSZENEN (nicht erhalten) ==
+Im Scheitel des Gewölbes waren zwischen den Hauptbildern A-E schmale Stuckkartuschen angebracht, die querformatige Opferszenen in Grisaillemalerei zeigten. Die Darstellungen lassen sich auf Vorkriegsaufnahmen teilweise erkennen
+
+a Im Kreis tanzende Frauen mit wehenden Kleidern mit Fackeln in den Händen. Rechts ein Säulentempelchen oder eine Nische mit einem Götterbild; die Gottheit scheint sich auf eine Keule oder einen Stab zu stützen.
+
+b Frauen, die sich an den Händen fassen und um einen Altar einen Reigen tanzen. Hinter dem Altar das Kultbild. links eine große Amphora.
+
+c Anbetungsszene; rechts auf einem Sockel ein Götterbild; von links nähern sich die Adoranten. Das Feld ist von der Grotte angeschnitten; die Komposition nimmt jedoch darauf Rücksicht und ist nicht überschnitten (keine Abb.) d und e nicht dokumentiert
+
+f Mehrfigurige Opferszene; mehrere Personen kommen von den Seiten her – links eine Person mit zwei Fackeln – zu einem Opferaltar (?) in der Mitte (keine Abbildung)
+
+
+== 1-10 EINZELFIGUREN (nicht erhalten) ==
+
+
+In den Zwickeln des Tonnengewölbes befanden sich gemalte Kartuschen. In deren sich nach unten verjüngenden Feldern, von denen sich vier seitlich bogenförmig erweiterten (2, 3, 6, 9), waren auf blauem Grund einzelne ganzfigurige Tänzerinnen, Musikantinnen, Mädchen mit Blumen und Früchten sowie Bacchus (7) und vielleicht eine weitere Gottheit (8) dargestellt.
+
+Sie lassen sich nach den Vorzeichnungen (Abb. S. 53) und alten Raumphotographien weitgehend rekonstruieren.
+
+
+== Ostwand, von N nach S ==
+
+
+1 Weibliche Figur, im linken Arm ein amphorenartiges Gefäß, das sie mit dem rechten, waagrecht vor den Körper gelegten Arm hält. Der Kopf ist etwas zur rechten Schulter geneigt.
+
+2 Weibliche Figur, in der Rechten einen langen, mit Blumen oder Weinlaub und Trauben geschmückten Stab, in<br>der Linken ein Füllhorn (vgl. Albertina-Zeichnung Inv. Nr.<br>22398, linke Figur).
+
+3 Weibliche Figur, einen langen, oben spiralförmig von Blüten oder Blättern umgebenen Stab schräg vor den Körper haltend (vgl. die aquarellierte Kopie, SGS Mü, Inv. Nr. 32050, oben links).
+
+4 Tänzerin, in jeder Hand einen Blumenkranz haltend (vgl. Albertina-Zeichnung Inv. Nr. 25272, linke Figur).
+
+
+== Westwand, von S nach N ==
+
+
+5 Musikantin, Posaune blasend (vgl. Albertina-Zeichnung Inv. Nr. 25272, rechte Figur)
+
+6 Musikantin, mit erhobenen Händen Becken schlagend (vgl. Albertina-Zeichnung Inv. Nr. 22308, rechte Figur)
+
+
+[[File:Band03-2_chunk002_p005_img006.jpg|thumb|D Götterversammlung mit Proserpina (zerstört)]]
+
+
+7 Bacchus, von einem Panther begleitet, in der erhobenen Rechten ein Krug, in der Linken Trauben (vgl. Albertina Zeichnung Inv. Nr. 22398, mittlere Figur).
+
+8 Darstellung ungesichert, da auf Photos kaum erkennbar. Vielleicht eine männliche Figur, an der ein Hund<br>hochspringt.
+
+
+[[File:Band03-2_chunk002_p005_img007.jpg|thumb|1 und 2 Tänzerinnen (zerstört]]
+
+
+
+[[File:Band03-2_chunk002_p005_img008.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p59 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=6 -->
+<!-- citation-page-top: Band03-2 p60 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: GROTTENHOFHALLEN -->
+
+
+[[File:Band03-2_chunk002_p006_img001.jpg|thumb]]
+
+
+9 Weibliche Figur mit einer Früchteplatte auf dem Haupt und Blumen in der Linken (vgl. die Kopie von 1630, SGS Mü, Inv. Nr. 7875).
+
+10 Weibliche Figur, die mit beiden Armen links neben sich einen Korb mit Blumen trägt (vgl. Albertina-Zeichnung Inv. Nr. 25272, mittlere Figur).
+
+
+== W<sub>1-6</sub> MYTHOLOGISCHE SZENEN ==
+
+
+
+== W<sub>1</sub> ARACHNES WETTKAMPF MIT MINERVA ==
+
+
+(Ovid, Metamorphosen VI, 50–145) Arachne, obgleich sie Minerva ihre Kunst verdankt, fordert in ihrem Hochmut diese zu einem Wettstreit im Weben heraus. Die Göttin, als alte Frau verkleidet, tritt zu ihr ins Gemach und mahnt sie vergeblich zur Bescheidenheit. Nach abgeschlossenem Wettkampf findet Minerva am Probestück Arachnes keinen Makel, straft sie jedoch aus Zorn über ihre Überheblichkeit, mißhandelt sie und verwandelt sie schließlich in
+
+
+[[File:Band03-2_chunk002_p006_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p006_img003.jpg|thumb]]
+
+
+eine Spinne, um sie als solche zeitlebens zur Ausübung der Webkunst zu verurteilen.
+
+W<sub>2</sub> MERKUR SCHLÄFERT ARGUS EIN (Ovid, Metamorphosen I, 668-714) Io, die Tochter des Flußgottes Inachus, wird von Jupiter verfolgt und überwältigt. Er verwandelt sie in eine Kuh und schenkt sie der Verdacht schöpfenden, eifersüchtigen Juno. Diese läßt das Geschenk durch den hundertäugigen Argus bewachen. Jupiter entsendet Merkur mit dem Auftrag, Argus zu töten. Merkur schläfert Argus ein, indem er ihm die Geschichte von Pan und Syrinx erzählt.
+
+W<sub>3</sub> JUNO UND ARGUS (Ovid, Metamorphosen I 720-723) Nachdem Merkur Argus eingeschläfert und getötet hat, setzt Juno die Augen des Argus in den Schweif ihres Pfaus ein.
+
+
+[[File:Band03-2_chunk002_p006_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p006_img005.jpg|thumb|W<sub>1</sub> Arachnes Wettkampf mit Minerva (Zustand 1080)]]
+
+
+W<sub>4</sub> MERKUR ERBLICKT HERSE (Ovid, Metamorphosen II, 714-736) Im Flug erblickt Merkur Herse, die Tochter des Königs Kekrops von Athen, und verliebt sich in sie. Herse und die anderen jungen Mädchen der Stadt gehen zum Panathenäenfestzug auf die über einem Felsplateau errichtete Burg zu und bringen Minerva ihre Gaben.
+
+W<sub>5</sub> AGLAURUS VON MERKUR IN STEIN VERWANDELT (Ovid, Metamorphosen I, 814-832) Merkur begehrt von Aglaurus, der Schwester Herses, Eintritt ins Haus, doch diese verlangt Geld für ihre Dienste. Darüber ergrimmt Minerva und schickt die »Mißgunst« zu Aglaurus. Bei einem erneuten Versuch Merkurs, Herses Gemach zu betreten, versucht Aglaurus den Gott daran zu hindern und wird von ihm in Stein verwandelt.
+
+W<sub>6</sub> MINERVA BEI DEN MUSEN AUF DEM HELIKON (Ovid, Metamorphosen V, 250ff.) Minerva, die zum Helikon gekommen ist, um die aus dem Hufschlag des Pegasus entstandene Quelle Hippokrene zu besichtigen, hört dem Lied der um sie versammelten Musen zu. Sie erfährt vom Wettstreit mit den Töchtern des Pierus, die sich erdreistet hatten, sich mit den Musen in der Kunst zu messen und in Elstern verwandelt wurden. Das Streitlied der Musen gegenüber den Pieriden hatte der Göttin Ceres gegolten und dem Raub ihrer Tochter Proserpina durch Pluto. Nach beendetem Bericht der Musen erinnert sich Minerva der hochmütigen Arachne, die für sie in der Kunst des Webens ebenso eine Herausforderung darstellt wie die Töchter des Pierus für die Musen in Dichtkunst und Gesang.
+
+In der Chronologie der von Ovid geschilderten Ereignisse folgt die Arachne-Sage unmittelbar auf den Besuch Minervas bei den Musen. Die Darstellungen an den Schmalseiten der Osthalle beziehen sich also inhaltlich auf einen künstlerischen Wettbewerb, wobei in beiden Fällen die Hybris der Menschen von den Göttern bestraft wird, wenngleich die Verwandlung der Pieriden in W<sub>6</sub> nicht direkt dargestellt, sondern der Sieg der Musen nur durch die Kränze bringenden Putten veranschaulicht wird.
+
+
+[[File:Band03-2_chunk002_p006_img006.jpg|thumb|W<sub>6</sub> Minerva bei den Musen auf dem Parnaß (Vorkriegszustand)]]
+<!-- citation-page-bottom: Band03-2 p61 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=7 -->
+<!-- citation-page-top: Band03-2 p62 -->
+
+[[File:Band03-2_chunk002_p007_img001.jpg|thumb]]
+[[File:Band03-2_chunk002_p007_img002.jpg|thumb]]
+[[File:Band03-2_chunk002_p007_img003.jpg|thumb]]
+[[File:Band03-2_chunk002_p007_img004.jpg|thumb|F. Sustris, Entwurf zu]]
+
+W<sub>d</sub> Frontal sitzender Putto, faßt mit der Linken eine Tulpe
+
+We Über die Schulter blickender Putto hält in der linken Hand einen Lorbeer(?)zweig (ehem. 3. Arkade von N)
+
+W<sub>f</sub> Putto faßt mit beiden Händen in einen Korb mit Früchten (ehem. 2. Arkade von N)
+
+W<sub>g</sub> Putto mit einem länglichen gestreiften Kürbis, ehemals in der ersten Arkade von N
+
+An der Westseite waren in den sichelförmigen Wandstücken oberhalb der Arkadenbögen sitzende Putten mit Blumen und Früchten in querovalen Bildfeldern dargestellt, umgeben von perspektivisch gemalten, eine Öffnung vorspiegelnden Rahmen. Diese Rahmen waren eingefaßt von an Rosetten befestigten gerafften Tüchern und Fruchtgirlanden. Von den sieben durch Photos überlieferten Darstellungen lassen sich vier lokalisieren, Wa, für die sich auch eine Vorzeichnung erhalten hat (Abb. S. 51), und W<sub>e</sub>-W<sub>g</sub>.
+
+Wa Putto nimmt mit der Rechten eine Weintraube aus einem Korb, ehemals in der ersten Arkade von S
+
+W<sub>b</sub> Putto stützt sich auf einen Fruchtkorb und hält in der rechten Hand einen Blumenkranz
+
+W<sub>c</sub> Putto mit einem großen Kürbis, dessen Stiel und Blätter ihn umgeben
+
+[[File:Band03-2_chunk002_p007_img005.jpg|thumb]]
+[[File:Band03-2_chunk002_p007_img006.jpg|thumb]]
+[[File:Band03-2_chunk002_p007_img007.jpg|thumb|Rekonstruktionsvorschlag für die Bildanordnung F-H, W<sub>7-11</sub> (Lünetten) Szenen aus dem Apollo- und Phaethon-Mythos]]
+[[File:Band03-2_chunk002_p007_img008.jpg|thumb]]
+
+Landschaft mit Staffagefiguren gegeben. Die Jäger scheinen hinter einer Brüstung aufzutauchen, durch gelegentliches Überschneiden des Rahmens entstehen Trompe-l'oeil-Effekte, wie sie Sustris auch bei der Ausstattung der Trausnitz in Landshut (vor 1580) erzielt hat. Die Darstellungen auf den Wandbildern W<sub>III-VI</sub>, die etwas schmaler waren, sind kaum noch zu erkennen, ältere photographische Aufnahmen sind nicht bekannt, die Beschreibung folgt Hefner (S. 161; keine ausreichenden Abbildungen)
+
+== Nordwand ==
+
+W<sub>I</sub> Jäger mit Armbrust auf der Schulter, im Hintergrund zwei Falkner, rechts eine Ortschaft
+
+W<sub>II</sub> Jäger mit hoher Kappe, auf der Hand einen Falken, das Falkenhäubchen über den Augen
+
+== Ostwand, Nordseite ==
+
+W<sub>III</sub> Ein sich blähender Truthahn
+
+W<sub>IV</sub> Ein mit Laub bekränzter Knabe, der an einer Lockvogelstange tote Vögel trägt
+
+== Ostwand, Südseite ==
+
+W<sub>V</sub> Jäger mit einem Uhu auf der Stange und einem Blasrohr in der Hand; er blickt zu einem Vogel auf, der sich an der Leimrute gefangen hat
+
+W<sub>VI</sub> Jäger, unter Baumlaub versteckt, mit einem Lockvogel im Vogelhaus
+
+== Siidwand ==
+
+W<sub>VII</sub> Jäger, der ein Blasrohr an den Mund gesetzt hat. Rechts unten der Kopf seines Begleiters, im Hintergrund ein Falkenjäger mit einer Dame, beide zu Pferde
+
+W<sub>VIII</sub> Jäger, die Armbrust vor sich haltend
+
+== Westhalle (nicht erhalten) ==
+
+Wie aus dem Plan des Mezzanin- und des Erdgeschosses der Residenz von Verschaffelt (1799) ablesbar ist, hatte die dreiachsige Loggia eine Länge von über 9 m und, falls sie sich über die gesamte Tiefe des Traktes erstreckte, eine Breite von 6 m. Die Ausmalung läßt sich erschließen aus der Beschreibung Pallavicinos, aus Entwurfszeichnungen und aus Photographien der 1924/25 freigelegten Freskenreste.
+
+F-H PHAETHON-SZENEN Im Scheitel des Gewölbes befanden sich, den drei Achsen entsprechend, drei Deckenbilder mit Darstellungen aus dem Phaethon-Mythos (Ovid, Metamorphosen II, 1–332). Sie waren etwa gleich groß und wohl querrechteckig wie die Vorzeichnung zu F, vielleicht war das Mittelbild durch ein anderes Format hervorgehoben, etwa ein Querrechteck mit abgerundeten Schmalseiten in Analogie zur Osthalle.
+
+F Phaethon bittet seinen Vater Apoll, den Sonnenwagen lenken zu dürfen (Entwurfszeichnung von Sustris erhalten)
+
+G Phaethon auf dem Sonnenwagen (Mittelbild)
+
+H Sturz des Phaethon
+
+[[File:Band03-2_chunk002_p007_img009.jpg|thumb|W<sub>a-g</sub> Putten mit Blumen und Früchten (zerstört)]]
+
+F Phaethon bittet Apoll um den Sonnenwagen, Wier
+
+W<sub>7-11</sub> APOLLO- und PHAETHON-SZENEN Darstellungen in den Schildbögen
+
+Die Halle hatte fünf Schildbögen, drei an der Rückwand und zwei an den Schmalseiten. Es ist demnach mit fünf Bildfeldern zu rechnen, wenn man nicht annehmen will, daß der Berg über dem Grottenweiher bis in diese Zone hochragte und eine Lünette überdeckte. Aus der Nennung bei Pallavicino ist die Anzahl der Bildfelder nicht mit Sicherheit zu erschließen.
+
+W<sub>7</sub> Die Schwestern des Phaethon, die Heliaden, klagen am Grab des toten Bruders und verwandeln sich aus Trauer in Pappeln (Ovid, Metamorphosen II, 344–66)
+
+W<sub>8</sub> Apoll tötet die Python-Schlange (Ovid, Metamorphosen I, 441–451)
+
+W<sub>9</sub> Apoll verspottet Amor (Ovid, Metamorphosen I, 453–465; Photographie von Freskoresten, s.u.)
+
+W<sub>10</sub> Apoll verfolgt Daphne (Ovid, Metamorphosen I
+
+[[File:Band03-2_chunk002_p007_img010.jpg|thumb]]
+
+F-H, W<sub>7-11</sub> (Lünetten) Szenen aus dem Apollo- und Phaethon-Mythos
+<!-- citation-page-bottom: Band03-2 p63 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=8 -->
+<!-- citation-page-top: Band03-2 p64 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: GROTTENHOFHALLEN -->
+
+
+[[File:Band03-2_chunk002_p008_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p008_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk002_p008_img003.jpg|thumb]]
+
+
+488-546; Entwurfszeichnung von Sustris, Photographie von Freskoresten)
+
+W<sub>11</sub> Apoll umarmt Daphne, die sich in einen Lorbeer baum verwandelt (Ovid, Metamorphosen I, 546–566; Ent wurfszeichnung von Sustris oder Kopie danach)
+
+Um 1897 wurden im Mezzanin unter der Reichen Kapelle bei Umbauarbeiten Freskoreste von Schildbögen entdeckt die man jedoch wieder vermauerte (Bassermann-Jordan, S. 96 Anm. 3). 1924/25 wurden sie erneut freigelegt und photographiert. Zum Vorschein kamen Reste einer Dar stellung, wahrscheinlich von W<sub>9</sub>: Kopf des Apoll und sein linker Arm, der den Bogen faßt (aber nicht spannt) und rechts im Hintergrund unter Bäumen der Kopf und die Flügel Amors, sowie von W10: links Laub und rechts der zurückgewandte Kopf Daphnes, mit der Entwurfszeich nung von Sustris genau übereinstimmend. Die freigelegter Freskoreste lassen auch auf den Photos erkennen, daß die Malerei, die sich infolge der Vermauerung sehr gut erhal ten hatte, von hoher Qualität gewesen ist. Auch die Technik mit den secco aufgesetzten Schraffuren und Höhungen ist gut sichtbar. Die ins strenge Profil gedrehten Köpfe, Physiognomie und Haarbehandlung sind charakteristisch für den Stil von Sustris, auch wenn dessen Schwager Paduano der ausführende Maler gewesen sein sollte.
+
+Nicht zu ermitteln war die Stelle, an der die Fresken im Mezzanin entdeckt worden sind. Feuchtmayr (S. 311) nennt Reste des Freskos W<sub>11</sub>, Verwandlung Daphnes, von denen keine Photos bekannt sind. Allerdings läßt er die in Photos dokumentierten Fragmente von W9, Apoll und Amor, unerwähnt. Vielleicht liegt eine Verwechslung der beiden Darstellungen vor. Steinbart (S. 120) bezieht die Fragmente irrtümlich auf die Verwandlung Daphnes und die Ver wandlung der Schwestern Phaethons. Kombiniert man den Befund von Freskoresten und Zeichnungen mit der Beschreibung Pallavicinos, so läßt sich folgende Anordnung rekonstruieren (s. Skizze): W7 und W<sub>11</sub> waren wohl an den Schmalseiten der Halle einander gegenübergestellt. Dafür spricht die Abfolge in der Beschreibung, außerdem sind beides Verwandlungssagen. In der Beweinung durch die Heliaden, W7, findet der an der Decke abgehandelte Phaethon-Mythos nach dem Sturz Phaethons in einer irdischen Szene seinen Abschluß. Anschließend setzt die Apollo-Geschichte ein, wohl an der Rückwand der Halle in der SW-Ecke: W8 Apoll tötet den Python, W9 Verspottung Amors durch Apoll, W10 Apoll verfolgt Daphne, um an der nördlichen Schmalseite mit W<sub>11</sub> Daphnes Verwandlung abzuschließen. Bei dieser Rekonstruktion nähme W9 die Mitte der Rückwand ein. Der Triumph Amors, der sich hier als Folge der Herausforderung durch Apoll anbahnt, wäre als Analogie zur Osthalle zu sehen, wo in der Mitte über dem Merkurbrunnen ebenfalls Amor erscheint. Auch durch ihre Komposition mit der starken Betonung durch die Figur Apolls im Zentrum eignet sich diese Darstellung besonders zur Akzentuierung der Mitte der Rückwand. Bei dieser Rekonstruktion ist allerdings zu bedenken, daß für die Verspottung Amors keine eigene Bildtradition besteht, daß sie vielmehr meistens kombiniert wird mit der Tötung des Python (vgl. Max Dittmar Henkel, Illustrierte Ausgaben von Ovids Metamorphosen im XV., XVI. und XVII. Jahrhundert. Vorträge der Bibliothek Warburg 1926–27. Leipzig-Berlin 1930, S. 58ff.). Es schließt sich die Verfolgung Daphnes an, W<sub>10</sub>, mit der vehementen Bewegung der fliehenden Nymphe nach rechts, eine Bewegung, die in der Umarmung und Verwandlung in den Lorbeerbaum, W<sub>11</sub>, schließlich zum Stillstand kommt (Nordwand). Die noch fehlende Darstellung mit der Tötung des Python, W<sub>8</sub>, müßte formal als Pendant zur Flucht Daphnes angelegt gewesen sein.
+
+von den beiden Szenen der Schmalseite ist nur W<sub>11</sub> durch die Vorzeichnung bekannt. Auch diese Komposition ist stark auf die Mitte bezogen, wo der von links herbeigeeilte Apoll Daphne umfaßt, die sich gerade verwandelt. Durch ihr Format entspricht diese Zeichnung den Lünetten an der Rückwand der Osthalle, bei denen Bildbasis und Höhe etwa gleich sind. Für die Lünetten an den Schmalseiten der Westhalle wäre dieses Format nur passend, wenn die Hallentiefe nicht mehr als 3 m betragen hätte. Eine so geringe Tiefe ergäbe Probleme für die Konstruktion eines Tonnengewölbes mit Stichkappen. Nimmt man eine größere Raumtiefe an, so muß man schließen, daß die Komposition das Wandfeld nicht ganz ausgefüllt hat.
+
+Zur Ausstattung gehörten noch Ceres, Flora, Bacchus und Saturn mit ihren Attributen, die Pallavicino im Anschluß an seine Beschreibung der Decke erwähnt. Es ist nicht klar, ob es sich hierbei um Gemälde, etwa in den Gewölbezwickeln, gehandelt hat. Hainhofer spricht von der Halle als einem »Sälchen, mit schönen Bildern aus Alabaster, z. B. Ceres in Manns- und Weibstracht«. Wening und Pistorini (fol. 84 f.) führen dieselben Götter als Brunnenfiguren außerhalb der Halle in den vier Gartenkompartimenten auf.
+
+
+== Ikonologi ==
+
+
+Der gemalte Zyklus bestand in den Lünetten und an der Decke der Westloggia aus unmittelbaren, wörtlich gemeinten Darstellungen der Erzählungen Ovids, doch läßt die getroffene Auswahl von Textstellen bereits interpretierende Gesichtspunkte erkennen. Die olympischen Szenen an der Decke der gegenüber gelegenen Halle haben dagegen generell symbolische Bedeutung. Sie können unter verschiedenen Aspekten ausgelegt werden und enthalten auch Anspielungen auf die Inhalte der darunter liegenden Lünetten. Im Gesamtprogramm betont sind einerseits Apoll und Naturgottheiten, bzw. die durch sie vertretenen Elemente und Naturkräfte, - dem entspricht auch das grottierte Brunnen- oder Weiherbecken in der Westloggia – andererseits Merkur und Minerva als Repräsentanten von »ars« und »sapientia«. Der bogenschießende Amor im zentralen Deckenfeld über dem Merkurbrunnen feiert bei den Götterliebschaften seine Triumphe. Ein Teil der Metamorphosen ist durch sein Wirken verursacht, andere sind die Folge der Überheblichkeit der Menschen gegenüber den Göttern (Arachne). Besonderes Gewicht liegt auf Apoll in seiner Eigenschaft als Sonnengott, Lenker der Jahreszeiten und der Natur. Ihm bzw. der Sonne war die Westhalle fast völlig gewidmet, und auch in zwei Deckenbildern der Osthalle taucht der Gott auf. Damit tritt die physikalisch kosmische Bedeutung, die in Beziehung zum Gartenambiente steht, an die erste Stelle.
+
+Der Zyklus beginnt innerhalb der Chronologie bei Ovid mit der neuen Schöpfung nach der Deukalischen Sintflut, als die Sonne die Erde wieder belebt und aus Feuchtigkeit und Glut alles Lebendige entsteht, auch das Böse in Gestalt des Python. Apollos Kampf mit diesem Drachen bedeutet den Sieg des lebensspendenden Sonnengottes im Frühjahr über die dämonische Gewalt des Winters (Westhalle, W<sub>8</sub>). Auf die Kraft der Sonne, die in ihrer Übersteigerung bis zur Vernichtung der Natur reicht, wird durch den Mythos von Phaethon angespielt (Decke der Westhalle, F, G, H). Die Verbindung zur Natur betonen auch Gottheiten aus der Sphäre des Wassers, die Flußgötter und Nymphen. Zu ihnen gehört Daphne, die sich bei der Verfolgung durch Apoll in einen Lorbeerbaum verwandelt, nachdem sie ihren Vater, den Flußgott Peneus, um Hilfe angerufen hat (Westhalle, W<sub>10</sub>). Phaethon, der Sohn Apollos und Enkel der Thetis, stürzt in den Fluß Eridanus (Po), an dessen Ufern sich seine Schwestern, die Heliaden, aus Trauer über seinen Tod, ähnlich wie Daphne, in Bäume verwandeln (Westhalle, W<sub>7</sub>). Sie werden zu Schwarzpappeln, ihre Tränen zu Bernstein. Die Thematik der Verwandlung von Naturwesen setzt sich auch in der Osthalle fort in der Geschichte von Io (W<sub>2</sub>), der Tochter des Flußgottes Inachus, der Geliebten Jupiters, die, vom Zorn Junos durch die ganze Welt getrieben, schließlich am Nil Ruhe findet und dort zur Göttin Isis wird. Die Sage von Pluto und Proserpina (D) – beide Götter werden von den Mythographen als »elementum terrae« gedeutet - berichtet Ovid in einer Rahmenerzählung anläßlich des Musenwettstreits. Der Gott der Unterwelt, vom Pfeile Amors getroffen, hat Proserpina, die Tochter der Ceres, geraubt, die verzweifelt nach ihrem Kind sucht. Nach der Beschwerde der Mutter bei Jupiter fällt dieser den salomonischen Schiedsspruch, Proserpina möge eine Hälfte des Jahres in der Unterwelt bei dem Gemahl, die andere auf der Erde zusammen mit der Mutter zubringen. Er teilte damit »gerecht das rollende Jahr ein«. Der Zeitpunkt der Rückkehr der Proserpina wird entweder in den Frühling gesetzt, wo sie bei ihrer Ankunft Blumen streut, oder in den Herbst, wenn die neue Saat in die Erde
+<!-- citation-page-bottom: Band03-2 p65 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=9 -->
+<!-- citation-page-top: Band03-2 p66 -->
+
+<!-- header: RESIDENZ -->
+
+ANTIOUARIUM
+
+kommt. Auf diesen Inhalt ist an der Decke der Osthalle in der Götterversammlung (D) angespielt und dadurch ein Bezug zum Lünettenbild der Schmalseite hergestellt (W<sub>6</sub>). Die aus der Unterwelt zurückgekehrte Göttin, die die Fruchtbarkeit der Erde und deren unerschöpfliche Fülle verkörpert, ist unter den olympischen Göttern zu sehen, wo sie sich mit bittender Gebärde Pluto zuwendet (dessen Platz eigentlich nur in der Unterwelt ist). Ihr Haar ist mit Blumen bekränzt, und sie ist mit entblößten Brüsten dargestellt in einem Typus, der der Personifikation der Erde entspricht (RDK, s. v. Erde, Bd. 5, Sp. 1015).
+
+Ihr Gegenstück ist die Gestalt des Flußgottes in der anderen Hälfte der Götterversammlung, der das Wasser repräsentiert. In Analogie zum Proserpina-Raub begegnen oft Darstellungen des Okeanus. Das Vorhandensein der Sphinx in der Götterversammlung und der vermutete Bezug zu dem Mythos der Io in den Lünetten unterhalb lassen bei dem Flußgott auch an Ios Vater Inachus denken (dessen herzzerreißende Klage um sein Kind die Entsprechung zur Klage der Ceres um Proserpina bildet), oder an die neue Heimat der Io, den Nil, der oft mit dem Okeanus gleichgesetzt wurde. Sphinx und Flußgötter im Kreise antiker Götter und Heroen finden sich in Raffaels Götterrat an der Decke der Villa Farnesina in Rom; auch dort wird einer von ihnen als Nil gedeutet. Bei Raffael wie bei Sustris sitzen sie in der Nähe von Herkules.
+
+Eine interessante Deutung der Sphinx besagt, {ZITAT|000} (Hederich, s. v. Sphinx, S. 6).
+
+Es fällt auf, daß auf allen vier Deckenbildern der Osthalle die angenehme Jahreszeit hervorgehoben wird (A, B und C, D). Apoll fährt durch das Tierkreiszeichen der Fische, in Juli und August tritt der Nil über die Ufer, Proserpina kehrt aus der Unterwelt zurück, nach einer Version im Frühling, nach andrer im Herbst, und in dem letzten Deckenbild vertreibt Merkur die bösen Winde, er ist der Aufheller des Wetters. Darüber hinaus scheint auch auf die vier Elemente angespielt zu sein, im Sonnengott auf das Feuer, im Flußgott auf das Wasser, mit Proserpina auf die Erde und mit den Winden auf die Luft. Die beiden Gespanne vor Apoll und seiner Schwester Diana-Luna zusammen aus einem Bild (A) verweisen auch auf Tag und Nacht.
+
+Schließlich ist in der Osthalle auch den Künsten Platz eingeräumt in den beiden großen Lünetten der Schmalseiten. Der Wettstreit der Arachne mit Minerva bezieht sich auf die Kunstfertigkeit und Geschicklichkeit, der Besuch der Göttin bei den Musen auf dem Helikon auf die Weisheit und die Inspiration des Dichters. Hier besichtigt Minerva die von Pegasus hervorgebrachte Quelle Hippokrene. Sie »bewunderte lang die hufschlagentquollenen Wellen, blickte umher auf die Haine, die Wälder, die alten, rings auf die Grotten und die im Schmuck von unzähligen Blumen prangenden Wiesen und pries ob der Kunst, ob des Ortes die Töchter Mnemones (= Musen) glücklich« (Ovid, Metamorphosen V, 264-268). Die Lieblichkeit des Ortes und die Quellen erheben den Helikon zu einer Ideallandschaft, in der der Dichter die göttliche Offenbarung empfängt. Die Quelle, die Pegasus dort geschlagen hat, versinnbildlicht das heroische Epos. Das Dichterroß selbst ist aus dem Blut der Medusa hervorgegangen, deren Enthauptung durch Perseus in der zentralen Brunnengruppe des Gartens thematisiert ist. Diese Tat war nur möglich durch die Mithilfe von Minerva und Merkur. Dem Götterboten, dem Beschützer und Förderer der Gelehrsamkeit, ist ungewöhnlich breiter Raum in den Darstellungen eingeräumt. Auch in der Götterversammlung, in der auf das kosmische Geschehen nur nebenbei angespielt wird, bezieht sich die Haupthandlung auf das Erscheinen Merkurs vor Jupiter unter der Assistenz von Minerva. Herkules, zu dem sich andere Götter umwenden, verfolgt dieses Geschehen aufmerksam. So fehlt der dem Lustgarten angemessenen Verherrlichung der Naturkräfte nicht die Überhöhung durch die Kunst, die ja auch in den im Garten aufgestellten antiken Figuren vor Augen stand, und es fehlt nicht der Hinweis auf Virtus, repräsentiert durch Perseus, der wie Herkules durch Mühe Ruhm erwarb.
+
+
+== <b>Quellen und Literatur</b> ==
+
+
+BHStA I, HR I, Fasc. 279 Nr. 4 Pronner'sches Malbuch. Pistorini 1644, fol. 82r-85v. Faßmann 1770, S. 425 f.
+
+Hainhofer 1603-07, S. 2. Monconys 1666, S. 352 f. Pallavicino 1667, S. 147 f. Schmid 1685, S. 274–76. Wening 1701, S. 8.
+
+Hefner, Joseph von, Die Grottenhalle und das Grottenhöfchen in der königl. alten Residenz in München, in: OAVG 21, 1858/59, S. 161 f.
+
+Rée 1885, S. 74-97.
+
+Bassermann-Jordan 1900, S. 96-99. KDB I OB (2), S. 1114 ff. und Taf. 174
+
+Zottmann 1910, S. 87-89. Frankl 1916-17, S. 51 ff. und Abb. 26-27
+
+Steinbart 1928, S. 116-19
+
+Thieme-Becker, Bd 26, 1932, S. 132 f. (Karl Feuchtmayr, s. v. Paduano); Bd 32, 1938, S. 306 ff. (ders., s. v. Sustris).
+
+Thoma/Kreisel 1937 S. 38.
+
+Hock, Manfred, Friedrich Sustris, ungedr. Diss. München 1952, S. 91 ff.
+
+Zangheri, Luigi, La grotta nella residenza di Monaco di Baviera, in: Antichità viva 1979, S. 45-49.
+
+Geissler, Heinrich, Zeichnung in Deutschland, Deutsche Zeichner 1540–1640, Staatsgalerie Stuttgart, Graphische Sammlung, Ausstellungskatalog Bd 1, Stuttgart 1980, S. 134–36.
+
+Frosien-Leinz, Heike, Das Antiquarium der Residenz, erstes Antikenmuseum Münchens, in: Kat. Glyptothek München 1830–1980, München 1980, Nr. 342.
+
+F.B./B. V.-K.
+
+{{End}}

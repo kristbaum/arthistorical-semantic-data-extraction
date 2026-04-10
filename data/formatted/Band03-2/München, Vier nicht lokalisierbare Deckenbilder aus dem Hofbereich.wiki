@@ -1,0 +1,75 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=566
+|Originalseitenbis=567
+|Lemma=München, Vier nicht lokalisierbare Deckenbilder aus dem Hofbereich
+|Typ=Profan
+|Ort=München
+|davor=München, Fünf, nicht lokalisierbare Deckenbilder aus dem Hofbereich
+|danach=München, Palais Holnstein
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Zur Herkunft: Die Bildgegenstände und die flüchtige Ausführung der vier Bilder legen die Vermutung nahe, daß es sich um Fest- und Theaterdekorationen gehandelt haben könnte – Bühnendekorationen in Sälen oder Palästen bezogen traditionell auch Deckenbilder mit ein.
+
+'''Auftraggeber:''' vermutlich Kurfürstin Henriette Adelaide von Bayern (1636 + 1676) geb. Prinzessin von Savoyen
+
+'''Autor und Entstehungszeit:''' Die vier Gemälde gehörten, dem Format, der Bildmaßen und dem stilistischen Befund nach zu urteilen, zu einer zusammenhängenden Folge. Sie sind alle von dem gleichen Autor, dem Stil nach könnte es sich um einen italienischen Maler handeln; die Entstehungszeit ist um 1670 anzusetzen.
+
+
+== Befund ==
+
+
+Die Bilder 1-3 befinden sich im Besitz der BSV, Bild 4 ist im Besitz der BSGS und als Leihgabe bei der BSV deponiert.
+
+Technik: Öl auf Leinwand; polychrom
+
+Maße: 1 (BSV, Inv. Nr. 477 G) 1,71 x 2,40; 2 (BSV, Inv. Nr. 478 G) 1,65 × 2,52; 3 (BSV, Inv. Nr. 479 G) Ø 1,65; 4 (BSGS, Inv. Nr. 1083) 1,71 x 2,31
+
+Erhaltungszustand: Die Bilder 1-3 weisen Schäden auf: brüchige Leinwand, Knicke, ausgefranste Bildränder. Bild 4 ist in sehr schlechtem Zustand; es ist überzogen von Knickstellen.
+
+
+[[File:Band03-2_chunk012_p009_img003.jpg|thumb|Jupiter, BSV]]
+
+
+
+[[File:Band03-2_chunk012_p009_img004.jpg|thumb]]
+
+
+
+== Darstellungen ==
+
+
+Die Bilder gehörten zu einer Folge. Bei allen vier Darstellungen handelt es sich um reine Wolkenszenen mit figürlichen Szenen, die in geringen Untersicht wiedergegeben sind. Die Bilder 1 und 2 zeigen in einer sehr verwandten Komposition jeweils zwei Figurengruppen, links erhöht olympische Gottheiten, rechts weltlich-höfische (?) Figuren im Bittgestus. In allen vier Darstellungen steht eine höfisch gekleidete vornehme Dame mit perlengeschmücktem Haar in Beziehung zu einer olympischen Gottheit.
+
+
+[[File:Band03-2_chunk012_p009_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk012_p009_img006.jpg|thumb|Venus, BSGS, Leihgabe an BSV]]
+
+
+1 GÖTTERHIMMEL Links Jupiter mit Juno auf Wolken, dahinter Venus mit Amor und zwei weibliche Köpfe. Rechts kniet eine junge Frau in reichem Gewand, die Arme im Bittgestus zu Jupiter erhoben. Sie wird von Minerva, die schützend neben ihr steht, Jupiter empfohlen. Rechts am Bildrand Diana und Bacchus und der Kopf einer weiteren weiblichen Gestalt.
+
+2 VENUS Links thront auf Wolken Venus, bei ihr zwei Amoretten mit Herz und Taubenpaar sowie Amor mit Pfeil und Bogen. Vor der Gottheit kniet eine reichgekleidete weibliche Figur mit einer Gefährtin; beide erheben bittend die Arme. Über ihnen schwebt ein Putto mit Rosen und einem Zweig.
+
+3 JUPITER Auf Wolken sitzt ein Herr in modischer Allongeperücke, der durch einen Eichenkranz als Jupiter gekennzeichnet ist, bei ihr Amorknabe. Jupiter hält liebkosend eine halbentblößte weibliche Figur auf den Knien.
+
+4 VENUS Von links naht Venus, auf ihrem Wagen stehend, der von zwei weißen Tauben gezogen wird. Eine antikisch gewandete weibliche Gestalt ist ihr beim Aussteigen behilflich. Als Begleitfiguren drei Putti, einer davon mit Fackel. A.B
+<!-- citation-page-bottom: Band03-2 p567 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=10 -->
+<!-- citation-page-top: Band03-2 p568 -->
+
+== NICHT HÖFISCHE BAUTEN ==  
+<!-- citation-page-bottom: Band03-2 p569 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=11 -->
+<!-- citation-page-top: Band03-2 p570 -->
+
+<!-- header: PALAIS HOLNSTEIN ietzt Erzbischöfliches Palais -->
+
+{{End}}

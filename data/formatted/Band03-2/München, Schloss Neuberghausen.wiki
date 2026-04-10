@@ -1,0 +1,43 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=581
+|Originalseitenbis=581
+|Lemma=München, Schloss Neuberghausen
+|Typ=Profan
+|Ort=München
+|davor=München, Schloss Harlaching
+|danach=Ortsregister (Band 3-II)
+|AutorIn1=Böhm, Cordula
+}}
+
+Schloß der Grafen Törring-Jettenbach im heutigen Bogenhausen, südlich der Kirche St. Georg, an der Stelle der heutigen Fachakademie für Sozialwesen, 1893 abgebrochen, Deckenbilder nicht erhalten
+
+'''Zum Bauwerk:''' Das in mehreren Bauperioden errichtete Schlößcher wurde am 14. 6. 1760 von Graf Spreti um 10000 fl. an Graf Törring Jettenbach verkauft. Am 15. 6. 1760 wurde Stadtoberbaumeister Ignaz Anton Gunetzrhainer mit Umbau-Plänen beauftragt. François Cuvillié legte im gleichen Jahr Pläne vor, die mit einigen Anderungen und unter Leitung Gunetzrhainers 1761/63 zur Ausführung kamen; Innenausstattung 1764/65
+
+27. 12. 1827 Verkauf des Schlosses durch einen Sohn Graf Törrings an Maria Linder-Buchmayer, Gastwirtin des Tivoli, die im Schloß eine Wirtschaft einrichtete. 21. 11. 1839 Verkauf an Buchmayers Stiefbruder Martin Danner; Verfall des Gebäudes. 1862 Verkauf an König Max II.; 1863 Abbruch, 1863/64 Neubau einer Königlichen Versorgungsanstalt für Beamtentöchter nach Plänen von Oberbaurat von Riedel.
+
+Der ehem. Schloßbau war eine nach O, zur Gartenseite hin gerichtete eingeschossige Anlage mit zweigeschossigem, dreiachsigen Mittelrisalit und Eckrisaliten. Auf der N- und S-Seite waren Flügelanbauten. Die Lage der 1753 erbauten, 1754 durch Pfarrer Simon Mayr benedizierten, in der späteren Umbau einbezogenen Kapelle ist nicht bekannt.
+
+'''Auftraggeber:''' August Joseph Clemens Lorenz Graf Törring zu Jettenbach (1728–1802) und seine Gemahlin Maria Anna geborene Gräfin Lerchenfeld zu Menkofen (1731–1811)
+
+Autor und Entstehungszeit: Für die malerische Innenausstattung des Schlößchens 1764 wird der Maler und Marmorierer Ambrosius Hörmannstorffer (Herkunft unbekannt † 1781 München) genannt (Wilmersdoerffer, S. 12), der laut Thieme-Becker (Bd 17, [1924] S. 219) zahlreich Gartenschlößehen des Münchner Adels ausgemalt hat (nichts erhalten, s.S. 347).
+
+Die Schloßkapelle malte 1765 Christian Thomas Wink (* 1738 Eichstätt †1797 München) in Fresko mit einer Darstellung der Marter des hl. Laurentius aus (Augsburger Kunstzeitung 1770; Halm, s. Clementschitsch). Sie zählte zusammen mit einer Darstellung gleichen Inhalts in Haag an der Amper (OB, Lkr. Freising, 1764) zu den frühesten Werke Winks
+
+
+== Literatur ==
+
+
+Augsburger Kunstzeitung 1770
+
+Geographisch Topographisches Lexikon von Bayern, 1796, S. 438. Nekrolog = Zum Andenken des Churfürstl. Hofmahlers Christian Wink (o.V.), in: Münchner Intelligenzblatt, 15. Stück, 8. April 1797, S. 230. Wilmersdoerffer, Theodor, Beiträge zur Geschichte der Vorstädte Münchens. I. Neuberghausen, in: OAVG 58, 1914, S. 1–143. (mit einem Lageplan und einer Bleistiftskizze des Schlosses von Lebschée). Clementschitsch, Heide, Christian Wink, ungedr. Diss, Wien 1968, S. 18 und Anhang A.
+
+C. B
+<!-- citation-page-bottom: Band03-2 p581 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=17 -->
+<!-- citation-page-top: Band03-2 p582 -->
+
+{{End}}

@@ -1,0 +1,123 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=354
+|Originalseitenbis=354
+|Lemma=München, Schlosanlage Nymphenburg
+|Typ=Profan
+|Ort=München
+|davor=München, ehem. Hofgartengalerie
+|danach=München, Schloss Nymphenburg, Großer oder Steinerner Saal
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Lüdicke, Lore
+}}
+
+<!-- citation-page-top: Band03-2 p354 -->
+
+<!-- header: NYMPHENBURG, HAUPTSCHLOS -->
+
+
+== CROSSER ODER STEINERNER SAAI ==
+
+
+
+== Baugeschichtlicher Überblick Hauptschloß ==
+
+
+
+{| class="wikitable"
+|-
+| Kurfürst Ferdinand Maria kauft die Schwaige 1702-04 Bau der zwei nördlichen und zwei südlichen Pavillons, von denen die inneren durch Galerien mit dem Mittelpavillon verbunden sind
+|-
+| Kemathen, die Hofmark Menzing und den Hof Pavillons, von denen die inneren durch Ga
+|-
+| Hartmannshofen und schenkt sie seiner Ge-
+rien mit dem Mittelpavillon verbunden sit
+|-
+| mahlin Henriette Adelaide aus Anlaß der Ge-
+Nach der Schlacht von Höchstädt 1704 Einst
+|-
+| burt des Kurprinzen Max Emanuel (11. Juli lung der Bauarbeiten. Zu diesem Zeitpunkt si
+|-
+| Hauptschloß und erster südlicher Pavillon
+|-
+| Baubeginn in Kemathen, das bereits Nymphen- wohnbar, der erste nördliche befindet sich
+|-
+| burg genannt wird: Schwaighaus, Stallungen Ausbau, der zweite nördliche steht im Rohb
+|-
+| und Grundaushub zum Schloß und der zweite südliche ist erst begonnen
+|-
+| 1668–72 Rohbau des Mittelpavillons 1715–19 Nach der Rückkehr Max Emanuels aus de
+|-
+| Fertigstellung des Rohbaus und Aufsetzen des Exil und der Ernennung Joseph Effners zu
+|-
+| Dachstuhls. Im Herbst Beginn des Innenaus-
+Hofbaumeister werden Ausbau und Deko
+|-
+| baus tion vor allem in den beiden nördlichen Pav
+|-
+| 1673 Ubertragung der Bauaufsicht an Enrico Zuc- lons fortgesetzt
+|-
+| calli 1726 Nach dem Tod Max Emanuels Umbau- u
+|-
+| 1673-79 Innenausbau und Rohbau zweier mit dem Mit- Neudekorationsarbeiten im ersten südlich
+|-
+| telpavillon durch Galerien verbundener Seiten-
+Pavillon für den neuen Kurfürsten Karl
+|-
+| pavillons brecht und seine Gemahlin Maria Amalia
+|-
+| Nach dem Tod Ferdinand Marias Einstellung 1755–57 Neuausstattung des Großen Saals (Steinern Saal) unter François Cuvilliés d. Ä.
+|-
+| Abbruch der Pavillons und Verwendung des 1754–66 Umbauten in den Appartements im ersten südlichen Pavillon
+|-
+| Materials beim Schloßbau in Lustheim lichen
+|-
+| Wiederaufnahme der Bauarbeiten nach Plänen
+Zuccallis und Giovanni Antonio Viscardis. Um-
+bau des Mittelpavillons
+
+Neuausstattung der Schloßkapelle
+Neuausstattung der beiden Kabinette in d
+Appartements des Hauptbaus
+|}
+
+
+
+== Parkburger ==
+
+
+
+{| class="wikitable"
+|-
+| Effner
+|-
+| 1718–21 Errichtung der Badenburg durch Joseph<br>Effner
+|-
+| 1725-28 Errichtung der Magdalenenklause durch
+|-
+| Joseph Effner
+|-
+| 1734-39 Errichtung der Amalienburg durch François
+|-
+| Cuvilliés d. Ä.
+|-
+| ab 1730 Bau von Kloster und Kirche für die aus Luxem-
+|-
+| burg berufenen Chorfrauen im Ostflügel des
+|-
+| nördlichen Hofgevierts
+|-
+| Ausstattung eines Kaffeezimmers im ersten
+|-
+| Stock über der Orangerie im Südtrakt des nörd-
+|}
+
+
+Die Anlage von Nymphenburg nahm ihren Ausgang von<br>dem Mitteltrakt des heutigen Schlosses. Er wurde 1664-75<br>für Kurfürstin Henriette Adelaide als freistehendes Landhaus errichtet, dem auf der N- und S-Seite je ein mit dem Hauptbau durch Galerien verbundener Pavillon angefügt<br>war. Die noch nicht vollendeten Pavillons wurden 1684/85 wieder abgebrochen und das Baumaterial für Schloß Lustheim verwendet.
+
+1701, nach der Rückkehr Max Emanuels aus Brüssel, projektierte man, gleichzeitig mit Schleißheim, für Nymphen-<br>burg den Ausbau zur Sommerresidenz, die den gesamten<br>Hof aufnehmen sollte. Dem vorhandenen Hauptbau wurden, in Anlehnung an die ursprüngliche Bauidee, auf jeder<br>Seite zwei übereck gestaffelte Pavillons angefügt und durch<br>je eine Galerie mit dem Hauptbau verbunden. Gegen die<br>Stadt hin entstand dadurch ein Ehrenhof, der schli durch die in symmetrischer Staffelung angeordneten Wirtschafts- und Stallgebäude zu einem riesigen Vorplatz ausgeweitet und durch die im Halbkreis stehenden Kavaliersbauten abgeschlossen wurde. Auf der Rückseite des Schlosses schuf man eine große Gartenanlage mit einem Kanal als Mittelachse, der auch gegen die Stadtseite weiter geführt<br>wurde, hier begleitet von zwei Auffahrtsalleen. Innerhalb des ursprünglich ganz symmetrisch gestalteten Gartens waren die Parkburgen Pagodenburg und Badenburg auf<br>der Querachse symmetrisch angeordnet. Auch die Magda-<br>lenenklause und die Amalienburg sind in ihrer Lage auf-<br>einander bezogen.
+
+
+{{End}}

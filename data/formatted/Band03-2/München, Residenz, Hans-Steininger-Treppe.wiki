@@ -1,0 +1,88 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=210
+|Originalseitenbis=212
+|Lemma=München, Residenz, Hans-Steininger-Treppe
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Theatinergang
+|danach=München, Residenz, Gartentempel im Hofgarten
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+Die Treppe bildet heute den Zugang zu den Büros der Max-Planck-Gesellschaft über dem Theatinergang; Dekkenbilder teilweise erhalten (Planskizze S. 107).
+
+'''Zum Bauwerk:''' 1614 Fertigstellung des Rohbaus, 1615/16 Innenausbau. In der Gesamtabrechnung der Maurer Piech und Marolt vom Dezember 1615 für nach Schabloner gefertigten Stuck in verschiedenen Räumen der Residenz (siehe S. 168) wird außer dem »Langen gang gegen der Schwäbinger gassen«, der Halle zu den Vier Schäften und der Kaisertreppe auch die »grosse Khuppl, Zwischen dem Langen gang und der neuen Taflstuben« (= Vierschimmelsaal) genannt. Demnach handelt es sich um Stuckarbeiten im Gewölbe des Vorplatzes der Steiningertreppe im 1. Geschoß (5). Diese Abrechnung schließt auch Arbeiten ein
+
+die ein halbes Jahr zurückliegen (s. Theatinergang, S. 197). Ob sich allerdings eine Zahlung für frei angetragenen Stuck, die bereits im Februar 1614 geleistet wurde (»Antonio Castelli und seinen consorten ist von der deckhen vor der Taflstuben mit stuckwerch wie vor augen zmachen gedingt und zalt« 280 fl.; BHStA I, HR II, 1, 1614, Februar, Stuckator und Possir Arbeit, fol. 129 v), auf denselben Raum beziehen kann, ist sehr fraglich.
+
+Das Treppenhaus, im Erdgeschoß und im 1. Stock jeweils über einen nördlich gelegenen Vorplatz zugänglich, erstreckte sich ursprünglich vom Keller aus über alle Geschosse (nach dem Verschaffelt-Plan von 1799, S. 28). Ein Treppenschacht führt jeweils zu einem Podest auf halber Geschoßhöhe, von dem aus ein zweiter Lauf in Gegenrichtung das nächste Stockwerk erreicht. Die Decken - Tonnen über den Treppen und Kreuzgratgewölbe über den Podesten – tragen Stuck sowie figürliche und groteske Malereien, die größtenteils noch original sind.
+
+'''Auftraggeber:''' Herzog Maximilian I. von Bayern (1598–1651; ab 1623 Kurfürst)
+
+'''Autor und Entstehungszeit:''' Der Entwurf für den Stuck und die dekorative Malerei der Steininger-Treppe ist wie bei
+
+
+[[File:Band03-2_chunk005_p006_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk005_p006_img002.jpg|thumb|Dritter Treppenlauf mit 6 Groteskenmalere]]
+
+
+
+[[File:Band03-2_chunk005_p006_img003.jpg|thumb]]
+
+
+der Kaisertreppe und dem Vier-Schäfte-Saal Hans Krumper zuzuschreiben (Diemer, S. 289 f. und Abb. 158-60). Ein Ornamentfeld mit Grotesken auf einer Zeichnung Krumpers entspricht in seinem Umriß den vier Feldern in den Gewölbekappen des oberen Vorraums (5a-d), ohne jedoch mit diesen im Dekor im einzelnen übereinzustimmen (Diemer, Abb. 159), während die sitzende Gestalt des Janus (5) im Gewölbescheitel eher an Candid und dessen Deckenbilder für die Trierzimmer erinnert (s.S. 144-68). Es ist zu vermuten, daß die Ausführung der Dekorationsmalerei denselben Kräften übertragen war, die sowohl im Vier-Schäfte-Saal als auch auf der Kaisertreppe (s. S. 168f.) und später im Alten Schloß Schleißheim (S. 430) tätig waren. Entstehungszeit 1615/16
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Über den Treppenläufen (1, 4 6) Längstonnen; über den Treppenabsätzen (2, 3, 7) Kreuzgratgewölbe; über dem Vorplatz im Hauptgeschoß (5) Netzgewölbe
+
+Rahmen: Stuckprofile
+
+Technik: Fresko-Secco; polychrom
+
+Maße: Höhe 6,60 m; Treppenhaus (unregelmäßig) 9,40 (W) 5,70 (N), 9,10 (O) 5,30 (S)
+
+Oberer Vorraum (unregelmäßig) 6,90 (W), 6,00 (N) 6,40 (O), 6,00 (S)
+
+1 2,20 X 1,00
+
+Erhaltungszustand und Restaurierungen: Das Treppenhaus blieb während des Krieges unzerstört, doch waren Stuck und Malerei der Gewölbe stark durchfeuchtet. Erste Sicherungsmaßnahmen 1944 durch den Restaurator Fritz Haeberlein. Dabei wurden am dritten Treppenlauf unter einer weißen Putzschicht verborgene, gemalte Grotesken (6) aufgedeckt.
+
+Das Bildfeld des oberen Vorplatzes (5) ist völlig, die ornamentalen Malereien des dritten Treppenlaufs und des obersten Absatzes sind weitgehend zerstört. Letzte Restaurierung 1961 bei der Adaptierung für die Max-Planck-Gesellschaft.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die gesamte Decke des Treppenhauses ist von weißem Stuckdekor überzogen, der jeweils im Zentrum des einzelnen Gewölbekompartiments ein Feld mit gemalten Einzelfiguren oder Grotesken umschließt. Über zwei Treppenläufen und dem oberen Vorplatz haben die Stuckdecken
+<!-- citation-page-bottom: Band03-2 p211 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk005.pdf#page=7 -->
+<!-- citation-page-top: Band03-2 p212 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: GARTENTEMPEL -->
+
+
+[[File:Band03-2_chunk005_p007_img001.jpg|thumb]]
+
+
+außerdem je vier seitliche Bildfelder mit Groteskenmalerei. Die Grundfarbigkeit der Bildfelder ist gelb-braun, die Rahmung ist gelb.
+
+hänge hochhält. Zu beiden Seiten jeder Herme befindet sich ein weiteres unregelmäßiges Bildfeld mit Groteskenmalerei.
+
+Quellen und Literatur BHStA I HR II, 1, 1614-16.  
+Wening 1701, S. 3. Seidel 1880, Abth. I, Bl. I und II. Haeutle 1883, S. 57. Rée 1885, S. 173 f. Böttger 1893–95, Taf. 95 und 96. Bassermann – Jordan 1900, S. 126ff. und Abb. 87. KDB I OB (2), S. 1139 und Taf. 148. Thoma / Kreisel 1937, R. 60 und 61. Schalkhaußer 1957, S. 42. Diemer, Dorothea, Hans Krumper, in: Kat. Wittelsbach 1980, II/1, S. 289f. und Abb. 159 und 160.
+
+B. V.-K.
+
+{{End}}

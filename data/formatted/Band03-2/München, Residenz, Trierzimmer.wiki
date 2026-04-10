@@ -1,0 +1,735 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=137
+|Originalseitenbis=168
+|Lemma=München, Residenz, Trierzimmer
+|Typ=Profan
+|Ort=München
+|davor=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt
+|danach=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<b>Zwei Appartements</b> (Räume 47–53) von 1614/15 im ersten Geschoß des Kaiserhof-Osttrakts. Die Räume dienten der Unterbringung von Gästen, ihre heutige Bezeichnung bezieht sich auf Clemens Wenzeslaus von Sachsen, Kurfürst und Erzbischof von Trier (1739-1812), der mehrfach hier wohnte.
+
+'''Zum Bauwerk:''' Für die geplante Vierflügelanlage um den Kaiserhof wurden im N und W Neubauten errichtet (Stein- und Zimmertrakt), die in den Baurechnungen gut belegt sind. Keine Daten hatte man bisher über die Errichtung des Triertrakts, abgesehen von einer Rechnung von 1620 über die Herstellung der beiden großen Majolika-Öfen für die Kabinette: »Item hat er Rauch (= Hafner) auf die schöne Öfen in beeden frl. Schreibstiblen des Küchenstockhs den Mercurium auf dem Roß sitzend (fälschlich für Marcus Curtius, s. u.) und dann auf dem ainen den Jupiter auf dem Adler sambt einer Kugl (s.u.) alles von Erden possirt vnd außgetruckht, dann von Gips abgefirmbt, auch etlichen farben geschmelzt und prent... 125 fl.« (BHStA I, HR II, 1, 1620, Hafner, ohne Nr.; abgedr. bei Schalkhaußer, Anm. 101). Da die beiden Öfen von Pistorini in den Trierzimmern genau beschrieben werden, muß der Trakt mit dem Küchenstock identisch sein. Dieser kommt in den Hofbauamtsrechnungen mehrfach vor, 1614/15 wird er „neu aufgeführt“, nach anderer Angabe nur „verändert“, arbeiten die Steinmetzen „im Neuen stock, wo vor(her) die Küchen gewest“ (BHStA I, HR II, 1614, Maurer Nr. 68 Steinmetzen Nr. 136; 1615, Maurer, Nr. 16, 72, 82, Fürgeding und Nacharbeit Nr. 33).
+
+Auf dem Gelände stand schon im 1. Jahrzehnt des 17. Jh. ein größeres Gebäude. Es ist auf dem Plan von München von Hollar nach Volkmer zu sehen, auf dem die Residenz im Zustand von etwa 1605 wiedergegeben ist (s. S. 29).
+<!-- citation-page-bottom: Band03-2 p137 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=20 -->
+<!-- citation-page-top: Band03-2 p138 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIERZIMME -->
+
+Dieses Gebäude ist bereits der Küchenstock (vgl. zu den verschiedenen Meinungen über die Bestimmung des Gebäudes Knüttel 1967, S. 201 und Anm. 81, Abb. 1), wie aus der Schätzung eines an der Schwabinger Gasse (Residenzstraße) gelegenen Anwesens von 1606 hervorgeht, wo es heißt, daß der hinter dem Haus gelegene Garten »gar an die new groß Haubtkhuchen und zörgaden (= Vorratsraum) hinan geet« (BHStA I, GL 2746, Nr. 850, Schätzung des zum Verkauf angebotenen Eisenreichischen Hauses am 18. Juli 1606 durch Hans Reiffenstuel). Das Gebäude war kürzer als der heutige Triertrakt, da das im N zur Verfügung stehende Gelände nur bis zum Graben hinter der Stadtmauer reichte. Für die großen Baumaßnahmen Maximilians 1614/15 wurde ein Teil der Stadtmauer niedergelegt und der Nordflügel mit dem geplanten Kaisersaal in deren Bereich vorgeschoben. Um hier anschließen zu können, mußte man auch den Küchenstock nach N erweitern. Im Rahmen der großen Arrondierungsarbeiten wurde ihm außerdem im O ein schmaler Gang vorgelagert, um die Kommunikation vor allem mit der Neuveste zu ermöglichen (heute Triergang). Daß es sich um eine spätere Hinzufügung handelt, läßt sich belegen durch einen Kellerraum im Bereich des 2. Trierzimmers von N, der nur so breit ist wie das Gebäude ohne Gang (zu sehen auf dem Verschaffelt-Plan der Münchner Residenz von 1799; GHA, Handschriften Nr. 64 b, Kellergeschoß). Dieser Keller bezeichnet vielleicht auch die nördliche Begrenzung des ehemaligen Küchengebäudes. Den Nachweis für die spätere Hinzufügung des Gangs gibt außerdem eine Maurerabrechnung vom Dezember 1615: »...das gemeur zu ainem neuen gang neben dem verenderten Khuchenstock von grund aufgefierth« (BHStA I, HR II, 1615, Maurer Nr. 84, 14.–19. Dezember). Es handelt sich dabei um die letzte von mehreren Baumaßnahmen im O und an der NO-Ecke des Karrees. Dazu gehörte das Hochziehen der Giebelfront über dem östlichen Risalit des Kaisersaaltrakts, die Wölbung des Kellereingangs in diesem Flügel und der Abbruch von dort vorhandenem (älterem?) Mauerwerk, die Aufmauerung von vier Pfeilern für den Küchenherd mit Abzug und andere Wölbungsarbeiten. Die neue Küche, die in dem umgeänderten Gebäude ebenfalls wieder eingerichtet wurde, lag unter dem sog. Weißen Saal. Der Küchenstock hatte insgesamt 14 Kamine, davon zwei, die über den First hinausgingen (BHStA I, HR II, 1615, Maurer, Nr. 90, 21.–14. Dezember). Das stimmt mit einer Angabe Haeutles (S. 68) überein, der ohne Nennung von Quellen berichtet, am 16. Dezember 1615 sei vom beteiligten Baupersonal der Richtfest, der sog. Hebwein, für das mit 14 Kaminen versehene Küchengebäude gefeiert worden (das er allerdings mit der neben dem Ballhaus gelegenen Küche identifiziert).
+
+Uber diese aus den schriftlichen Quellen zu erschließenden früheren Bauzustände des Triertrakts können sicher Untersuchungen des architektonischen Befunds weitere Klärung bringen. Die Angabe in den KDB (S. 1148), wonach im Mezzanin zwischen Erd- und Hauptgeschoß das Gewölbe eines ursprünglich höheren Geschoßes sichtbar ist, muß ebenso geprüft werden wie das im Keller des Kaisersaal- trakts vorhandene Mauerwerk, vielleicht Außenstützmauern gegen den ehemaligen Graben. Zu untersuchen sind auch die Fundamente, die man im Geviert des Kaiserhofs von Vorgängerbauten fand (vgl. zu diesen Stierhof, in: Kat. Wittelsbach II/1, Abb. 121).
+
+Für die Vierflügelanlage um den Kaiserhof hat Maximilian somit stärker noch als man bisher angenommen hat, bestehende Bauten benutzt und umgeändert, im S den Alten Herkulessaal, im O den Küchenstock. Durch sie wurde die Residenzerweiterung in ihren Maßen weitgehend festgelegt. Die Bedeutung der neuen Anlage liegt also vor allem in der Gliederung der Fassaden und in der Disposition des Innern. Die Möglichkeit, ein architektonisches Konzept frei zu entwickeln, bestand nicht
+
+
+== Heutige Raumaufteilung ==
+
+
+Der Triertrakt besteht heute aus sieben Zimmern, einem gewölbten Raum in der Mitte der Flucht (Raum 50), für den keine Deckenbilder nachweisbar sind (daher in unsere Zählung nicht aufgenommen), und nach N und S anschließend aus jeweils drei Räumen, in denen Deckenbilder sind (I, II, V, VI) bzw. waren (III, IV). Sie werden auf der O-Seite von einem Gang begleitet (Triergang, Raum 46). Fenster nach W auf den Kaiserhof, teilweise auch nach O auf den Triergang, Raum I und VI zu je zwei Fensterachsen, Raum II-V zu je einer. Verbindung der Zimmer untereinander mit korrespondierenden Türen an der W-Seite. Zugang von SO vom Triergang, von N von einem Vestibül; Zählung von S nach N.
+
+
+== Frühere Raumaufteilung ==
+
+
+Nach dem Pariser Plan (s. S. 24f.) und nach der Beschreibung Pistorinis von 1644 waren die Trierzimmer ursprünglich in zwei spiegelbildlich angeordnete Appartements von jeweils vier Räumen aufgeteilt, von denen je drei eine Enfilade bildeten: Vorzimmer, Audienzzimmer, Kabinett. Sie nahmen von außen nach innen an Größe ab; das südliche wurde vom Herkulessaal im S, das nördliche von einem Vorsaal im N betreten. Östlich vom Kabinett lag jeweils außerhalb der Enfilade das Schlafzimmer, zugänglich vom Audienzzimmer und dem gewölbten Raum in der Mitte des Trakts, der als einziger auch vom Triergang aus betreten werden konnte. Alle Zimmer außer diesem waren ursprünglich zu dem ehemals mit Arkaden nach außen geöffneten Triergang hin durchfenstert.
+
+Vorzimmer und Audienzzimmer hatten Holzkassettendekken und Stuckfriese. Das Aussehen der Schlafzimmer im ersten Zustand ist nicht bekannt; der Mittelraum war gewölbt und stuckiert, die Kabinette wohl auch. Diese Kabinette wurden um 1730 aufgelöst und jeweils mit dem angrenzenden Schlafzimmer zu einem neuen, etwa quadratischen Schlafzimmer vereinigt (Raum 49 und 51). In dessen Flucht entstand ein jeweils vom Mittelraum abgeteiltes neues Kabinett (Thoma/Kreisel, Raum 29 und 30) in der Enfilade der übrigen Räume. Diese neue Aufteilung zeigt 1764/65.
+
+Die Darstellungen an den Decken der ursprünglichen Kabinette III und IV, die möglicherweise direkt auf den
+
+
+[[File:Band03-2_chunk003_p020_img001.jpg|thumb|Princeps – Der Fürst]]
+<!-- citation-page-bottom: Band03-2 p139 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=21 -->
+<!-- citation-page-top: Band03-2 p140 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIERZIMME -->
+
+
+[[File:Band03-2_chunk003_p021_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p021_img002.jpg|thumb|P. Candid, Studien zu I-Fr<sub>4</sub> Fähnrich, München, und zu VI Constantia, München]]
+
+
+Putz gemalt waren, gingen bei der Auflösung der Kabinette um 1730 verloren. Bis etwa 1800 blieben die Friese im originalen Zustand erhalten (Erwähnung im revidierten Faßmann-Inventar, um 1800, GHA, Hs. 69, fol. 9-11). Zwischen ca. 1800 und 1804 (s.u.) wurden in den Räumen II und V die in die Friese einschneidenden Kaminaufbauten verändert oder völlig abgebrochen. Die bis dahin in der Umrahmung jedes Kamins integrierten drei Leinwandbilder, ein rundes in der Bekrönung und zwei schmale Hochformate an den Seiten, wurden entfernt. Für die dadurch im Fries entstandenen Lücken wurden neue Bilder gemalt.
+
+Wohl im Zusammenhang mit diesen Veränderungen wurde in den Räumen I, II und V auf der O-Seite gegen den Triergang die ebenfalls in die Frieszone einschneidende Fensterumrahmung beseitigt, die Wand geschlossen und der Fries durchgezogen. Die Fenster selbst waren in Raum II und V schon früher zugesetzt worden (bereits zu sehen auf dem Cuvilliés-Plan von 1764/65 und dem Verschaffelt-Plan von 1799; Abb. S. 28). Infolge dieser Veränderungen gab es in den Friesen Platz für weitere Gemälde
+
+I Vorzimmer. Erstes Zimmer von S (Raum 47), 13,20 × 9,60 m
+
+Raum zu zwei Fensterachsen, zwei Fenster nach W auf den Kaiserhof, ursprünglich ein Fenster gegen den Triergang im nördlichen Teil der O-Wand, während der südliche Teil der Wand wegen des Anschlusses des Triertrakts an den Charlottengang (Raum 42) nicht durchfenstert war (vgl Plan IIa+b). In der SO-Ecke befand sich ein Kachelofen. - Zu Anfang des 19. Jh. wurde das Fenster gegen den Triergang geschlossen und in der Frieszone ein Bild (I-Fr<sub>2</sub>) eingefügt.
+
+II Audienzzimmer. Zweites Zimmer von S (Raum 48), 6,93 × 9,57 m
+
+Raum zu einer Fensterachse, ein Fenster nach W auf den Kaiserhof, ursprünglich ein Fenster nach O gegen den Triergang. An der S-Wand befand sich ein Kamin. – Zu Anfang des 19. Jh. wurde der Kaminaufbau verändert oder völlig abgebrochen und auf der O-Seite gegen den Triergang die ebenfalls in die Frieszone einschneidende Fensterumrahmung beseitigt. Die ursprünglich in die Umrahmung des Kamins eingelassenen Bilder wurden deponiert (s. u.). Infolge der Veränderungen der Frieszone wurde der Platz über dem ehemaligen Kamin und die ganze O-Seite, auf der man die Fenstergliederung beseitigt hatte, neu mit Gemälden besetzt (II-Fr<sub>6-8, 10</sub>).
+
+III, IV Kabinette. Die Räume sind nicht erhalten. Sie waren im dritten Zimmer von S bzw. N (Raum 49 bzw. 51) eingebaut und umfaßten etwas mehr als das westliche Drittel des Raums, ca. 6,90 × 3,20 m
+
+Räume zu einer Fensterachse, Fenster nach W auf den Kaiserhof. An der N-Wand bzw. S-Wand befanden sich Kachelöfen als point de vue der Enfilade. – Bei der Auflösung der beiden Kabinette um 1730 gingen die Darstellungen an den Decken verloren. Die sechs Wandbilder (III-W<sub>1-3</sub> und IV-W<sub>1-3</sub>) wurden in den neuen Kabinetten zunächst als Supraporten verwendet. Dort wurden sie von Faßmann 1770 und im revidierten Faßmann-Inventar um 1800 beschrieben. Bei einer weiteren Umgestaltung zu Beginn des 19. Jh. wurden sie von dort entfernt. Erhalten haben sich vier dieser Bilder, III-W<sub>1</sub> und IV-W<sub>1</sub> im Besitz der BSGS, Inv. Nr. 2914 und 2918, sowie III-W<sub>3</sub> und IV-W<sub>3</sub> im Besitz der BSV, Inv. Nr. G 38 und G 39.
+
+V Audienzzimmer. Zweites Zimmer von N (Raum 52) <math>7.00 \times 9.55 \text{ m}</math>
+
+Raum zu einer Fensterachse, ein Fenster nach W auf den Kaiserhof, ursprünglich ein Fenster nach O gegen den Triergang. An der N-Wand befand sich ein Kamin. – Zu Anfang des 19. Jh. wurde der Kaminaufbau verändert oder völlig abgebrochen und auf der O-Seite gegen den Triergang die ebenfalls in die Frieszone einschneidende Fensterumrahmung beseitigt. Die ursprünglich in die Umrahmung des Kamins eingelassenen Bilder wurden deponiert (s. u.). Bei der Veränderung der Frieszone hat man in diesem Raum alle Darstellungen im Fries gegen neue Darstellungen ausgetauscht (V-Fr<sub>1-11</sub>).
+
+VI Vorzimmer. Erstes Zimmer von N (Raum 53), 13,20 × 9,58 m
+
+Raum zu zwei Fensterachsen, zwei Fenster nach W auf den Kaiserhof, ursprünglich zwei Fenster nach O gegen den Triergang (heute Blindfenster). In der NO-Ecke befand sich ein Kachelofen.
+
+
+[[File:Band03-2_chunk003_p021_img003.jpg|thumb|P. Candid (Kopie?), Studien zu V<sub>A</sub> Diiudicatio, München]]
+
+
+'''Auftraggeber:''' Herzog Maximilian I. von Bayern (1598–1651; Kurfürst ab 1623).
+
+'''Autor und Entstehungszeit:''' Peter Candid, wohl 1615/20 und unbekannte Maler aus dem Beginn des 19. Jh. Außer der Abrechnung für die Kachelöfen (s.o.) sind keine Quellen für die Ausstattung der Räume bekannt (HBR 1616-19 fehlen). Die Stuckdekoration wird Hans Krumper zugeschrieben.
+
+Peter Candid zeichnete die Entwürfe für die Decken- und Friesbilder, die überwiegend von seinen Mitarbeitern ausgeführt wurden. Die infolge der baulichen Umänderungen zu Beginn des 19. Jh. hinzugefügten Gemälde sind von ihrem Stil her um 1800-1810 zu datieren und stammen wahrscheinlich von zwei verschiedenen Künstlern; die Stillleben (V-Fr<sub>1</sub>, <sub>2</sub>, <sub>6</sub>, <sub>8</sub>) ähneln den Werken von Johann Amandus Wink (* 1754 † 1817), die Figurenbilder (I-Fr<sub>2</sub> II-Fr<sub>6-8</sub>, 10; V-Fr<sub>3-5</sub>, 7 9-11) denen von Robert von Lange (* 1783 † 1843) (frdl. Hinweise Dr. Barbara Hardtwig und Dr. Steffi Röttgen).
+
+Peter Candid (* um 1548 in Brügge † 1628 in München) ist der bedeutendste Maler in München an der Wende zum 17. Jh. Gebürtiger Niederländer, in Florenz aufgewachsen und ausgebildet, wo sein Vater als Teppichwirker für die Medici tätig war, wurde seine Kunst vom italienischen Manierismus der Michelangelo-Schule und von Stradanus geprägt. 1586 berief ihn Wilhelm V. als Hofmaler nach München. Aus den ersten Jahren seiner Tätigkeit in Italien und Deutschland haben sich hauptsächlich Altarbilder erhalten. Er schuf aber auch Porträts und Landschaften und beteiligte sich an der Ausmalung der Münchner Residenz unter der Leitung von Friedrich Sustris († 1599). Herzog Maximilian beauftragte den Künstler bald nach seinem Regierungsantritt mit der Gestaltung großer Wandteppichserien, die ihn als Entwerfer und Kartonmaler jahrelang beschäftigten und die sein Hauptwerk bilden. Daneben unterstand ihm die gesamte malerische Ausstattung der von Maximilian aufgeführten Residenzbauten. Diese Aufgabe bewältigte er mit Hilfe eines Stabes von zum Teil selbständig tätigen Mitarbeitern, die nach seinen Skizzen eigene Zeichnungen für die Kompositionen anfertigten. In welchem Umfang sich der Meister jeweils selbst an den Arbeiten beteiligte, kann nur aufgrund von Qualitätsunterschieden vermutet werden. Aber selbst in den für Käppler, Brüderl und andere Maler bezeugten Bildern ist Candids Stil noch faßbar, so daß die unter seiner Leitung entstandene Bildausstattung der Residenz die Einheitlichkeit des »großen Wurfs« besitzt. Den besten Eindruck seiner Fähigkeiten auf diesem Gebiet vermitteln die Bilder des ersten Trierzimmers (Raum 47). Hier zeigen sich die an der Hochrenaissance orientierte ruhige Komposition, der kraftvolle, monumentale Figurenstil, niederländische Freude am Detail, eine ausgesprochen schöne, warme Farbigkeit, in der die etwas schrillen Changeants seiner früheren Zeit zu lebhaft schimmernder Oberflächenwirkung gemildert sind, und eine Begabung für die Landschaftsschilderung.
+
+Zeichnungen, alle von Peter Candid
+
+Zu I-Fr 4 Nächtlicher Angriff. Detailskizze für den Fähnrich. Feder in Schwarz, weiß gehöht, etwas Rötel, auf braunem Papier, 13,6 × 14,2 cm. SGS Mü, Inv. Nr. 29876 (Kat. Candid-Zeichnungen, Nr. 29 und Abb. 104).
+
+Zu III-W<sub>1</sub> Minerva. Gesamtentwurf mit leichten Varianten gegenüber der Ausführung. Feder in Schwarz, grau laviert, stellenweise weiß gehöht mit dem Stift quadriert, 8 × 13 cm. Privatbesitz (Kat. Galerie Grünwald München, Winter 1980/81, Nr. 3, mit Abb.).
+
+Zu V<sub>A</sub> Diiudicatio. Das doppelseitig bezeichnete Blatt enthält Studien für die Hauptfigur und für einzelne Details. Es sind möglicherweise zeitgenössische Kopien nach einem Original Candids. Feder in Schwarz, weiß gehöht, mit schwarzem Stift quadriert, auf gelb-braun getöntem Papier. Beschriftet unten rechts mit schwarzem Stift 28. Maße: 27 × 17 cm. SGS Mü, Inv. Nr. 93 (Kat. Candid-Zeichnungen, Nr. 30 und Abb. 23, 105).
+
+Zu VI<sub>A</sub> Studie für eine Constantia-Allegorie. Möglicherweise Entwurf für die in der Gestaltung jedoch abweichende Personifikation der Constantia auf VIA. Feder in Schwarz, weiß gehöht, auf rauhem, grauen Papier, 21,4 × 16,3 cm, SGS Mü, Inv. Nr. 1922: 158 (Kat. Candid- Zeichnungen, Nr. 31 und Abb. 108).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flache Holzkassettendecken (im Zweiten Weltkrieg zerstört; rekonstruiert)
+
+Rahmen: Kassettenwerk; die Friesbilder sind in vergoldete Stuckrahmen eingelassen
+
+Technik: Deckenbilder Öl auf Holz; Friesbilder Öl auf Leinwand; alle Bilder polychrom
+
+Maße (Soweit keine Bildmaße der BSV vorliegen, sind die Maße des Rahmenausschnitts angegeben. Dafür zugrunde gelegt wurde eine Wandabwicklung der Trierzimmer vom Oktober 1944):
+
+Höhe der Räume I, II, V, VI 5,95 m
+<!-- citation-page-bottom: Band03-2 p141 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=22 -->
+<!-- citation-page-top: Band03-2 p142 -->
+
+<!-- header: RESIDENZ -->
+<!-- header: TRIERZIMMER -->
+
+[[File:Band03-2_chunk003_p022_img001.jpg|thumb]]
+
+== I Erstes Zimmer von S ==  
+3,03 × 1,87 I<sub>A–D</sub> Ø 2,00 I-Fr<sub>1, 5, 7, 9</sub> 0,76 × 1,55 I-Fr<sub>2, 4</sub> 0,76 × 2,20 Schmalseiten rundbogig  
+I-Fr<sub>6, 10</sub> 0,76 × 2,00 Schmalseiten rundbogig  
+I-Fr<sub>3</sub> 0,76 × 1,80 I-Fr<sub>8</sub> 0,76 × 1,84  
+
+== II Zweites Zimmer von S ==  
+II<sub>A–B</sub> 2,55 × 1,93 oval II-Fr<sub>1, 2, 6, 8</sub> 0,75 × 0,85 II-Fr<sub>3, 5, 9, 11</sub> 0,75 × 1,25 mit ausgebuchteten Ecken II-Fr<sub>4, 7, 10</sub> 0,75 × 2,10 mit ausgeschnittenen Ecken  
+
+== III Kabinett (Der Raum ist nicht erhalten) ==  
+III nicht erhalten, Maße nicht überliefert  
+III-W<sub>1</sub> (BSGS, Inv. Nr. 2914) 0,95 × 1,60  
+III-W<sub>2</sub> (verschollen) 0,95 × 1,60  
+III-W<sub>3</sub> (BSV, Inv. Nr. G 38) 0,92 × 0,88  
+
+== IV Kabinett (Der Raum ist nicht erhalten) ==  
+IV nicht erhalten, Maße nicht überliefert  
+IV-W<sub>1</sub> (BSGS, Inv. Nr. 2918) 0,95 × 1,60  
+IV-W<sub>2</sub> (verschollen) 0,95 × 1,60  
+IV-W<sub>3</sub> (BSV, Inv. Nr. G 39) 0,92 × 0,88  
+
+== V Zweites Zimmer von N ==  
+V<sub>A–B</sub> 2,55 × 1,93 oval V-Fr<sub>1, 2, 6, 8</sub> 0,75 × 0,85 V-Fr<sub>3, 5, 9, 11</sub> 0,75 × 1,25 mit ausgebuchteten Ecken V-Fr<sub>4, 7, 10</sub> 0,75 × 2,10 mit ausgeschnittenen Ecken  
+
+[[File:Band03-2_chunk003_p022_img002.jpg|thumb]]
+
+== VI Erstes Zimmer von N ==  
+3,03 × 1,87 VI<sub>A–D</sub> Ø 2,00 VI-Fr<sub>2, 4, 6, 8</sub> 0,75 × 1,50 Maße des Rahmenausschnitts  
+VI-Fr<sub>3, 7</sub> 0,75 × 1,80 Schmalseiten rundbogig  
+VI-Fr<sub>1, 5</sub> 0,75 × 1,75  
+
+Verbleib, Erhaltungszustand, Restaurierungen: Von den sechs Bildern, die in den Räumen II und V ursprünglich in der Umrahmung der beiden Kamine saßen, waren 1804 fünf Bilder deponiert, zwei runde und drei hochformatige (Rée, S. 175). Sie werden 1804 im Inventar des Gemäldedepots im Hofgarten aufgeführt (BHStA I, HRI, 280/24/8; BSGS Inv. Mü 802/1 und 2): Die Enthaltsamkeit, Nr. 1070, und Die Basiliken, Nr. 1071, waren rund, Ø ca. 0,65 m. Die Tugend, Nr. 1141, Das Glück, Nr. 1142, und Die Kriegskunst, Nr. 1143, waren rechteckig, ca. 1,28 × 0,46 m. Das vierte Rechteckbild, Die Wissenschaft (ARTE, s. S. 152), ist in den Inventaren nicht erwähnt. Die drei Hochformate wurden 1851 versteigert (BSGS, Dillis-Inventar von 1822, Nr. 2059, 2060, 2052; BSGS Inv. Sch. B 851/1: Versteigerungsprotokoll Schleißheim 1851, Nr. 288, 292, 293); sie sind, wie auch die anderen Bilder, nicht mehr nachweisbar.  
+
+Für das 19. Jh. sind zwei Renovierungen der Trierzimmer bezeugt. 1824/25 wurden Decke, Wände und Vergoldungen im Geschmack der Zeit grau-weiß überstrichen (BSV, Akt des Obersthofmeister-Stabes 241/6 [alte Nummer 206] Nr. 3). Eine Renovierung unter Ludwig II., 1865–68, unter Leitung des Hofbaudirektors Eduard von Riedel, versuchte, den Räumen ihren ursprünglichen Charakter wiederzugeben. Die Überstreichungen wurden entfernt, die Vergoldungen wieder angebracht, die Decken- und Friesbilder restauriert. Im Kostenvoranschlag sind für Gemälderestaurierung 1098 fl. vorgesehen. Dazu wird bemerkt: {ZITAT|000} (ebd. Nr. 20). Die Bilder wurden also wahrscheinlich nach dem schädlichen Pettenkoferschen Verfahren restauriert.  
+
+Ihr Erhaltungszustand wird, allerdings ohne Erwähnung Pettenkofers, um 1900 nicht günstig beurteilt. Die Bilder seien {ZITAT|001} (Bassermann-Jordan S. 115). Nach den KDB (S. 1149f.) sind die Bilder durch Übermalungen entstellt, die Deckenbilder von Raum VI seien nach einer Restaurierung fast ganz neu gemalt worden.  
+
+Während des Zweiten Weltkrieges waren die Gemälde ausgelagert. Sie wurden zuletzt vor dem Wiedereinbau, um 1963, durch Albert Hunnemann gereinigt, retuschiert und gefirnißt.  
+
+== Rekonstruierende Beschreibung und Ikonographie ==  
+
+Die beiden Appartements waren ursprünglich nicht nur in Bezug auf Anordnung und Größe der Räume, sondern auch bis in die Einzelheiten der Ausstattung und Dekoration symmetrisch; auch die ikonographischen Programme sind aufeinander bezogen. Die Residenzpläne und die Beschreibung von Pistorini erlauben es, hier außer dem jetzigen Zustand auch die durch die Umbauten verlorenen Partien zu beschreiben.  
+
+Die beiden Vor- und Audienzzimmer (I, II und V, VI), bei denen das Aussehen des 17. Jh. weitgehend bewahrt blieb, haben eine in geometrische Felder aufgeteilte Holzdecke, in die Gemälde eingelassen sind, in I und VI jeweils in der Mitte ein großes Rechteck, auf vier Seiten von kleineren Rundbildern umgeben, in II und V jeweils zwei ovale Bilder. Im vergoldeten Stuckfries unter der Decke alternieren Ornamentfelder mit gerahmten Gemälden. Die ehemaligen, mit Scagliola verkleideten Kabinette III und IV, die jeweils etwas mehr als ein Drittel der heutigen Räume 49 bzw. 51 einnahmen, waren gewölbt. Im Scheitel ihrer stukkierten, vergoldeten Decke saß eine vielleicht direkt auf den Putz gemalte achteckige Komposition, an den Wänden waren jeweils drei Leinwandbilder eingelassen, davon eins über der Tür.  
+
+Für den Sinnzusammenhang der Decken- und Friesbilder sind auch die Kamine und Öfen zu berücksichtigen, denn die in die Kaminaufbauten eingelassenen Gemälde und die figürlichen plastischen Aufsätze der Kachelöfen waren durch ihre Thematik in das Gesamtprogramm integriert. Hervorzuheben ist, daß die besonders reich geschmückten Öfen der Kabinette den »point de vue« der Enfilade bildeten. Der Forderung der Architekturtheorie des 17. Jh., die Enfilade möge dem eintretenden Gast im Durchblick die Pracht der Ausstattung vor Augen führen, entspricht dies in einem sehr frühen Beispiel. Die außerhalb der Reihung gelegenen Schlafzimmer hatten, worauf schon Pistorini ausdrücklich hinweist, keine Inschriften und wurden von ihm und den späteren Berichterstattern nicht beschrieben. Wening spricht nur von {ZITAT|002} (S. 3).  
+
+Die Deckenbilder der Trierzimmer sind analog der Enfilade längs gerichtet. Obwohl die Zimmerabfolge nach dem Zeremoniell jeweils von außen nach innen verläuft, präsentieren sich die Darstellungen dem Betrachter nur dann richtig, und die Inschriften sind für ihn nur dann lesbar, wenn er jeweils von innen nach außen geht. Der ideale Betrachterstandpunkt wäre demnach in den Kabinetten mit dem Rücken zu den Kachelöfen.  
+
+Jedes Deckenbild zeigt eine einzige, monumental wirkende  
+
+<!-- citation-page-bottom: Band03-2 p143 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=23 -->
+<!-- citation-page-top: Band03-2 p144 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIERZIMMEI -->
+
+allegorische Sitzfigur in leichter Untersicht vor einem landschaftlichen oder architektonischen Hintergrund. Zu ihrem Verständnis sind Attribute beigegeben und auf einem Sockelstreifen am unteren Bildrand eine lateinische Inschrift. Näher erläutert wird die Aussage der Deckenbilder durch szenische allegorische Darstellungen in den Friesen. Diese stehen häufig für Begriffe, die sich der konkreten Anschauung entziehen, so dass der Inhalt der Erklärung durch lateinische Sentenzen auf Tafeln, Büchern und Sockelstreifen bedarf. Von diesem Schema weicht nur das erste südliche Trierzimmer (I) ab, bei dem mit einer Ausnahme die Inschriften in den Friesen fehlen und die Deckenbilder mehr als eine Figur zeigen. Hervorzuheben ist vor allem die gegenüber den anderen Räumen besonders hohe Qualität der Malerei. In dem ausgesprochen flämisch wirkenden Kolorit verbinden sich lebhafte Farben – Gelb, Hellgrün, das Schwarz-glänzende des Metalls, mittleres Blau, sparsam verwendetes Hochrot – harmonisch mit den zart abgestuften Tönen bei den Landschaften, die von Grün über Blau bis zur atmosphärischen Auflösung in Grau und Rosa reichen. Die allegorischen Darstellungen der Friese, mit einzelnen starken Farbakzenten, vor allem in Gelb und Rot, wirken zum Teil wie Genrebilder und besitzen eine weit größere Anschaulichkeit als die Exempla in den anderen Räumen. Es ist zu vermuten, dass die auffallend hohe Qualität auf eine stärkere persönliche Beteiligung Candids zurückzuführen ist gegenüber einer weitgehenden Gehilfenausführung in den anderen Räumen. Die Beurteilung wird jedoch durch den nicht immer guten Erhaltungszustand erschwert.
+
+
+[[File:Band03-2_chunk003_p023_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p023_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p023_img003.jpg|thumb]]
+
+
+I Erstes Zimmer von S, sog. Saal des Fürsten (Raum 47)
+
+
+== I, I<sub>A-D</sub> DER FÜRST REGIERT MIT WAFFEN UND GESETZEN ==
+
+
+I PRINCEPS – DER FÜRST Der unter einem Baldachin thronende Fürst trägt einen Fußkampf-Harnisch mit Rankendekor, darüber Feldbinde und Schultermantel. Er ist mit Lorbeer bekränzt und hält in der nach unten weisenden Rechten den Kommandostab, in der erhobenen Linken das Gesetzbuch. Im Hintergrund, durch eine Balustrade abgetrennt, sieht man links Soldaten, rechts Juristen. Die Farbskala reicht bei der Hauptperson von Braun über Rot zu Gelb, dazu tritt das Grau der Rüstung; die Juristen tragen zartblaue Talare, die Soldaten erscheinen in Grau und Rot. Inschrift auf den Stufen PRINCEPS
+
+I<sub>A</sub> ARMA – WAFFEN Auf einer Kanone sitzt inmitten von Waffen und Fahnen ein Truppenführer, den Streitkolben in der erhobenen Rechten, auf dem Haupt die Sturmhaube. Er trägt eine Halbrüstung mit Armzeug aus schwarz glänzendem Metall, rote Hosen sowie gelbe Feldbinde und Strümpfe. Diese Farben werden von den ihn umgebenden Trophäen aufgenommen. Inschrift ARMIS DECORATVS S/
+
+I<sub>B</sub> LEGES – GESETZE Ein Jurist, der einen grauen, pelzverbrämten Mantel über violettem Gewand trägt, sitzt, von Büchern umgeben, in seiner Studierstube und hält das Gesetzbuch in der erhobenen Rechten. Inschrift ETIAM LEGIBVS/ARMATVS
+
+
+[[File:Band03-2_chunk003_p023_img004.jpg|thumb|I-Fr. Landsknecht und Bäuerin]]
+
+
+
+[[File:Band03-2_chunk003_p023_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p023_img006.jpg|thumb|I-Fr<sub>6</sub> Mann mit Hund]]
+
+
+I<sub>D</sub> PAX – FRIEDEN Zentrum der Komposition ist ein vornehmes Liebespaar in reicher höfischer Kleidung, die außer Gelb und Rot vor allem durch sanftes Hellblau akzentuiert ist. Dem etwas erhöht sitzenden Herrn reicht die inmitten von Blumen kniende Dame rosa Rosen. Der hinter ihnen liegende kleine Garten öffnet sich zu einer baumbestandenen Landschaft mit musizierenden und lustwandelnden Paaren; weiter hinten eine Hirschjagd, pflügende Bauern und weidende Tiere, links eine Palastfassade. Inschrift ET PACIS
+
+Die teils auf den Gemälden, teils ehemals auf der Holzdecke angebrachte Inschrift, die auf der Decke bereits im Jahre 1900 nicht mehr vorhanden war (Bassermann-Jordan, S. 106), wird von Pistorini zusammenhängend überliefert (fol. 51 r). Sie lautet PRINCEPS DEBET ESSE / NON SOLUM ARMIS DECORATVS / SED / ETIAM LEGIBVS / ARMATVS / UT UTRUMQUE TEMPUS / RECTE POSSIT GUBERNARE / ET BELLORVM / ET PACIS (Corpus Iuris, Institutiones, Praefatio, Initium). (Der Fürst soll nicht nur mit Waffen geschmückt, sondern auch mit Gesetzen bewehrt sein, um sowohl in Kriegs- als in Friedenszeiten richtig regieren zu können.)
+
+I-Fr<sub>1-10</sub> WAFFEN UND GESETZE, KRIEG UND FRIEDEN Die Friesbilder zeigen Landschaften mit halbfigurigen allegorischen Darstellungen, die auf Waffen und Gesetze, auf Krieg und Frieden bezogen sind.
+
+Im ursprünglichen Zustand besaß der Raum nur neun Friesbilder, die in drei Themengruppen aufgeteilt waren gegenüber vier Themengruppen an der Decke. I–Fr<sub>5–7</sub> beziehen sich auf den Frieden und I-Fr<sub>8-10</sub> auf die Gesetze I-Fr<sub>1</sub>, 3, 4 sowohl auf die Waffen als auch auf den Krieg. Durch die spätere Schließung des Fensters gegen den Triergang wurde Platz für ein zehntes Gemälde gewonnen, I-Fr<sub>2</sub>, und dieses thematisch dem Gebiet Krieg und Waffen zugeordnet.
+
+I-Fr<sub>1</sub> LEUTNANT Der Soldat, dessen dunkle Rüstung durch rosa Feldbinde und Helmbusch farbig belebt ist, trägt die Ausrüstung eines Leutnants: Sturmhaube und Rondartsche (Schild), Kurzschwert und Degen.
+
+I-Fr<sub>2</sub> VORBEIZIEHENDE SOLDATEN Soldaten mit Schilden, Fahnen und geschulterten Gewehren ziehen paarweise von links nach rechts. Im Hintergrund eine Festung. - Das zu Beginn des 19. Jh. hinzugefügte Bild geht zurück auf einen Stich zum Leben des hl. Johannes Capestranus von Raphael Sadeler d. Ä. nach Johann Matthias Kager im ersten Band der Bavaria Sancta des Raderus, erschienen 1615. Aus dieser Illustration ist die Soldatengruppe im Vordergrund fast wörtlich übernommen.
+
+I-Fr<sub>3</sub> TRUPPENANWERBER Zwei Männer ziehen durch eine waldige Gegend, der rechte von ihnen, mit Feldbinde, Hellebarde und Degen, ist ein Truppenanwerber.
+<!-- citation-page-bottom: Band03-2 p145 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=24 -->
+<!-- citation-page-top: Band03-2 p146 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIFRZIMMER -->
+
+
+[[File:Band03-2_chunk003_p024_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p024_img002.jpg|thumb]]
+
+
+I-Fr<sub>4</sub> NÄCHTLICHER ANGRIFF AUF EINE STADT Vorne links sieht man eine Gruppe von Soldaten, darunter einen aus dem Bild blickenden Fähnrich mit einer großen roten Fahne. Rechts marschiert weiter unten das Heer, von Fackeln beleuchtet, auf eine tiefer gelegene befestigte Stadt zu und beginnt den Angriff (Vorzeichnung s. S. 140f.).
+
+I-Fr<sub>5</sub> LANDSKNECHT UND BÄUERIN Die beiden haben sich zwischen Bäumen niedergelassen und rasten. Der Soldat trägt geschlitzte Pluderhosen, Federbarett und eine Pulverflasche am Gürtel, das Schwert hat er abgelegt. Sie hält auf dem Schoß einen Korb mit einem Hahn, zu ihren Füßen liegt ein Hund. Im Hintergrund sieht man in einer Berglandschaft eine Stadt liegen.
+
+I-Fr<sub>6</sub> AUSRUHENDER MANN MIT HUND Der bequem im Gras ausgestreckte Mann rastet im Schatten von Lorbeerbäumen, einen Lorbeerzweig hat er an den Hut gesteckt. Neben ihm liegt ein Hund, der zu ihm aufblickt und sich streicheln läßt. Auch hier wiederum eine reich abgestufte Landschaft mit einer Stadtansicht vor einer Bergkulisse.
+
+I-Fr<sub>7</sub> ENTENJAGD Zwei zur Jagd gerüstete Männer treten links aus einem Wald und wenden sich dem rechts gelegenen Fluß zu, wo ein dritter Jäger mit seinem Hund Enten aus dem Schilf aufstöbert. Im Hintergrund vor Bergen eine Stadtansicht.
+
+I-Fr<sub>8</sub> ZWEI JURISTEN, EINER SCHREIBEND An einem Tisch stehen die beiden durch das Barett gekennzeichneten Rechtsgelehrten einander gegenüber, der eine verweist auf seinen Kollegen, der in ein Buch schreibt. Aus dem durch Pilastergliederung und Vorhandraperie angedeuteten Innenraum sieht man in der Mitte in eine weite Landschaft hinaus.
+
+[[File:Band03-2_chunk003_p024_img003.jpg|thumb|I-Fr<sub>o</sub> Disputierende Juristen]]
+
+
+
+[[File:Band03-2_chunk003_p024_img004.jpg|thumb|I-Fr<sub>10</sub> Zwei Juristen mit Rechtsrege.]]
+
+
+verweist auf seinen Kollegen, der in ein Buch schreibt. Aus dem durch Pilastergliederung und Vorhandraperie angedeuteten Innenraum sieht man in der Mitte in eine weite Landschaft hinaus.
+
+I-Fr<sub>9</sub> DISPUTIERENDE JURISTEN An einem mit Büchern und Schreibzeug bedeckten Tisch disputieren zwei Juristen, jeder von ihnen hält ein aufgeschlagenes Buch. Sie tragen Barett und Talar.
+
+I-Fr<sub>10</sub> ZWEI JURISTEN MIT RECHTSREGEL In einer offenen Halle, die den Blick in die Landschaft freigibt, stehen sich die beiden mit Barett und Talar bekleideten Juristen gegenüber. Der rechts Stehende verweist auf ein von seinem Gegenüber hochgehaltenes Blatt mit der Inschrift NEMO QVI CON= / DEMNARE POTEST. / ABSOLVERE / NON POTEST (Niemand, der verurteilen kann, kann nicht auch freisprechen).
+
+Ergänzungen zur Ikonographie: Die Deckenbilder veranschaulichen den geläufigen, aus dem Prolog zu den »Institutionen« des Corpus juris stammenden Grundsatz, daß der ideale Herrscher nicht nur mit Waffen geschmückt, sondern auch mit Gesetzen bewehrt sein müsse, um sowohl in Kriegs- als auch in Friedenszeiten richtig regieren zu können. Im Krieg bedient er sich der Waffen zur Überwindung seiner Feinde, im Frieden leitet er das Gemeinwesen mittels der Gesetze nach dem Grundsatz der Gerechtigkeit. Nach römischem Denken bezieht sich der Friedensbegriff auf ein rechtlich geordnetes menschliches Zusammenleben im Inneren des Staates. Die Segnungen dieser Rechtsordnung werden nach einem Krieg auch dem besiegten Feind als Pax Romana zuteil und er damit dem römischen Machtbereich eingegliedert. Mit dieser Auffassung steht der bis in die Zeit Maximilians I. tradierte Gedanke in Zusammenhang, daß es das Ziel und die Rechtfertigung des Krieges sei, den Frieden zu sichern oder wieder herzustellen (bellum iustum). Der Begriff des Friedens ist mit dem des Rechts also eng verbunden, die Wahrung von Pax und Iustitia gilt dem Gemeinwohl, das Ziel und Zweck des Staates ist. Sowohl die einzelnen Machtmittel, auf die sich das Amt des Princeps gründet, als auch die verschiedenen Zeiten, in denen er sie einsetzt, sind an der Decke in den vier Rundbildern, deren höfischer Charakter den Bezug zum Fürsten herstellt, gleich stark akzentuiert. Im Gegensatz dazu befassen sich die Friesbilder mit den Untertanen, wobei Krieg und Waffen in drei, Frieden und Gesetze hingegen in sechs Allegorien repräsentiert sind. Die Abfassung und Diskussion der Gesetze und die Bezugnahme auf den Grundsatz, der Richter habe den Beklagten nach Befund der Sache entweder zu verurteilen oder freizusprechen (aus den »Regulae« des Ulpian), verweisen auf die fürstliche Gerechtigkeit zum Wohl der Untertanen. Der Friede wird durch die Jagd repräsentiert, die als Erquickung des Gemütes gilt, aber auch als Feindin des Müßiggangs, denn sie ist bereits Vorspiel und Übung für den Krieg. Den Frieden als eine Zeit der Muße zeigen hingegen die beiden idyllischen Szenen der Rast. Der Hahn im Korb und der Hund sind keine reinen Genremotive, vielmehr gemahnen sie als Zeichen der Wachsamkeit daran, auch im entspannten Zustand auf der Hut zu sein. Lorbeerzweig und Lorbeerbäume schließlich symbolisieren die Regentschaft des Friedensfürsten und verweisen speziell auf Augustus. Mit der Konzeption des Friedensherrschertums verbindet sich die Hoffnung auf glückliche Zeiten, auf die im ersten Trierzimmer Bezug genommen ist durch die Bekrönung des Kachelofens mit dem Vogel Phoenix, der im Feuer wiedergeboren wird. Die Deckenbilder, die scheinbar ein ausgewogenes, auf Waffen und Gesetze begründetes Fürstenideal vor Augen führen, werden durch die Praedominanz des Friedens in ihrer Aussage modifiziert. (Zur Thematik: Dora und Erwin Panofsky, Pandora’s Box. The Changing Aspects of a Mythical Symbol, London 1956, S. 40f. — Ernst H. Kantorowicz, On transformations of Apolline ethics. In: Charites, Studien zur Altertumswissenschaft, Bonn 1957, S. 265-274. Tonio Hölscher, Victoria Romana, Mainz 1967, vor allem S. 94. – Johannes Erichsen, Princeps Armis Decoratus. Zur Ikonographie Kurfürst Maximilians I., in: Kat. Wittelsbach II/1, S. 196–224.)
+
+
+== II Zweites Zimmer von S. sog. Saal des Rechts (Raum 48) ==
+
+
+
+== II<sub>A-B</sub> DAS WESEN DES RECHTS ==
+
+
+II<sub>A</sub> IUS NATURALE AUT DIVINUM Auf steinigem Boden kniet eine Frau in hellem Gewand und blauem Mantel. Sie erhebt demütig den Blick und erhält von oben aus einer himmlischen Gloriole zwei Tafeln mit der »Golden Regel«, einmal in positiver und einmal in negativer Fassung QVOD / TIBI / NON VIS FIERI / ALTERI / NE / FECERIS (nach Tob 4, 16) und QVOD / TIBI / VIS / FIERI / ALTERI / FECERIS (Mt 7,12; Lc 6, 31; Was du dir nicht wünschst, das tu keinem andern; was du dir selbst wünschst, das tu andern).
+
+IIB IUS HUMANUM In einer Palastarchitektur mit olivgrüner Vorhangdraperie sitzt über Stufen eine Frau in hellem Gewand mit gold-braun glänzendem Mantel über den Knien vor einer offenen Arkade. Sie trägt einen Helm mit rotem Federbusch und hält in der Linken eine Waage, deren eine Schale durch ein Schwert und andere Waffen nach unten gezogen ist. Ihr Blick folgt ihrem ausgestreckten rechten Arm. Zwischen beiden Bildern befand sich
+
+
+[[File:Band03-2_chunk003_p024_img005.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p024_img006.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p147 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=25 -->
+<!-- citation-page-top: Band03-2 p148 -->
+
+RESIDENZ
+
+<!-- header: TRIERZIMME -->
+
+
+[[File:Band03-2_chunk003_p025_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk003_p025_img002.jpg|thumb|II<sub>B</sub> Ius humanum]]
+<!-- citation-page-bottom: Band03-2 p149 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=1 -->
+<!-- citation-page-top: Band03-2 p150 -->
+
+[[File:Band03-2_chunk004_p001_img001.jpg|thumb]]
+
+[[File:Band03-2_chunk004_p001_img002.jpg|thumb|II-Fr<sub>8</sub> Theologie (19. Jh.)]]
+
+ursprünglich auf einer Tafel in goldenen Lettern auf blauem Grund die Inschrift in sanctitate et ivstitia (Pistorini, fol. 52 r).
+
+Die wechselseitige Bezogenheit der Inhalte der beiden Bilder wird durch die Komposition sinnfällig. Für das Christentum, vor allem nach neuscholastischer Anschauung, ist das Naturrecht Ausdruck des von Gott in die menschliche Natur gepflanzten Gemeinwillens und sittlichen Verhaltens. Dafür steht im Bild die vom Himmel gesandte ›Goldene Regel‹, ein allgemeines Moralprinzip für die Gestaltung des Gemeinschaftslebens, das in allen Kulturen Gültigkeit besitzt (Hans Ulrich Hoche, Die >Goldene Regel<, in Zeitschrift f. Philisoph. Forschung 1978, S. 355 f.). Die ius humanum-Personifikation ist der des Naturrechts zugewandt, als wolle sie aus ihren Händen die Goldene Regel empfangen. In der Zurückführung des Naturrechts auf den göttlichen Willen erfährt so auch die Rechtsausübung der Obrigkeit ihre Beglaubigung (Christoph Link, Herrschaftsordnung und bürgerliche Freiheit. Grenzen der Staatsgewalt in der älteren deutschen Staatslehre, Wien-Köln-Graz 1979, S. 93 ff., 206 ff.).
+
+II-Fr<sub>1-11</sub> DIE RECHTSORDNUNG Friesbilder mit halbfigurigen Darstellungen, bezogen auf Gesetzeskodifikationen, auf einzelne Rechtsbereiche und Rechtsregeln.
+
+[[File:Band03-2_chunk004_p001_img003.jpg|thumb]]
+
+[[File:Band03-2_chunk004_p001_img004.jpg|thumb]]
+
+Im ursprünglichen Zustand besaß der Raum neun Friesbilder, je zwei auf den Schmalseiten, an der N-Wand drei und an der S-Wand zwei. Nach einer Umgestaltung zu Beginn des 19. Jh. wurden II-Fr<sub>7 und 10</sub> hinzugefügt und II-Fr<sub>6 und 8</sub> ausgetauscht.
+
+II-Fr<sub>1</sub> IUS CIVILE Ein junger Mann in Renaissancegewand, das erhobene Schwert in der Rechten, hält im linken Arm ein Buch mit der Aufschrift IVS / CIVILE. Vor ihm auf einem Kissen Kaiserkrone und Zepter.
+
+II-Fr<sub>2</sub> IUS BELLICUM Neben einer mit einem Vorhang drapierten Säule steht ein älterer Mann im Harnisch. Er hält in der Rechten das erhobene Schwert. Auf einem Tisch vor ihm liegen ein geöffnetes Buch mit der Inschrift IVS / BELLICUM und daneben ein weiteres, geschlossenes Buch sowie Herzogshut und ein Helm; im Hintergrund sieht man Zelte.
+
+II-Fr<sub>3</sub> QUI TACET, NON NEGAT Ein Jurist in seiner Studierstube legt beide Hände auf ein geschlossenes, aufrecht stehendes Buch. Auf einem aufgeschlagenen Buch daneben steht QVI / TACET / NON / NEGAT (Wer schweigt, verneint nicht). Die Regel entstammt dem kanonischen Recht und ist im 6. Buch der ›Dekretalen‹ als Grundsatz Papst Bonifaz VIII. in der Form »Qui tacet, consentire videtur« (Wer schweigt, scheint zuzustimmen) überliefert.
+
+[[File:Band03-2_chunk004_p001_img005.jpg|thumb]]
+
+[[File:Band03-2_chunk004_p001_img006.jpg|thumb]]
+
+II-Fr<sub>4</sub> LEGES BOIARICAE In einer Architektur mit Säulen und einer Vorhangdraperie steht in der Mitte ein König mit seinen Insignien, begleitet von zwei Männern in Renaissancegewändern. Der zu seiner Rechten in Weiß-Blau Gekleidete legt seine linke Hand auf ein bayerisches Wappen, in der rechten hingegen hält er ein Buch mit der Inschrift LE / GES / BOIARICAE. Der andere Mann, in Gelb und Blau gekleidet, der ein Barett auf dem Kopf trägt, stützt seine rechte Hand auf eine Tafel mit der gleichen Inschrift <i>LEGES / BOIARICAE</i>. Seine Linke hat er auf ein Wappen mit goldenen Lilien auf blauem Grund gelegt.
+
+II-Fr<sub>5</sub> INVITO BENEFICIUM NON DATUR In einem Innenraum, durch dessen Fenster man in eine Berglandschaft blickt, sitzt ein lesender Jurist. In dem neben ihm aufgeschlagenen Buch ist die aus dem Corpus Juris (Dig. I. 17, 69) stammende Regel verzeichnet INVITO / BENEFICIVM / NON / DATVR (Wer nicht will, bekommt die Vergünstigung nicht).
+
+II-Fr<sub>6</sub> PHILOSOPHIE Ein Mann, das Haupt von Sternen umgeben, deutet mit der rechten Hand nach vorn, in der Linken hält er ein Zepter. Dahinter sieht man eine Tafel mit der Inschrift PHILOSO/PHIE. - Darstellung aus dem beginnenden 19. Jh.
+
+[[File:Band03-2_chunk004_p001_img007.jpg|thumb]]
+
+[[File:Band03-2_chunk004_p001_img008.jpg|thumb|II-Fr<sub>7</sub> Iustitia und Concordia (19. Jh.)]]
+
+mit der Inschrift PHILOSOPHIE. - Darstellung aus dem beginnenden 19. Jh.
+
+An dieser Stelle befand sich ursprünglich die Personifikation des DECRETUM (nicht erhalten, Beschreibung nach Pistorini, fol. 53 r) »Qui tacet, consentire videtur«.
+
+II-Fr<sub>7</sub> IUSTITIA – CONCORDIA In der Mitte ein großer geflügelter Genius, die Linke auf eine Tafel mit der Inschrift CONCORDIA gelegt, die Rechte auf eine weitere Tafel mit der Inschrift IUSTITIA. Links, bei Iustitia, ein Knabe mit Schwert, rechts einer mit einem Liktorenbündel. – Zu Beginn des 19. Jh. hinzugefügtes Bild.
+
+II-Fr<sub>8</sub> THEOLOGIE Ein älterer Mann legt die Rechte auf ein Buch mit der Inschrift THEOLOGIE, vor ihm liegt ein Kreuz. – Darstellung aus dem beginnenden 19. Jh.
+
+An dieser Stelle befand sich ursprünglich die Personifikation des IUS PONTIFICIUM (nicht erhalten, Beschreibung nach Pistorini fol. 53 r) »... stà effiggiato giovane adulto Vestito d'habito bianco e Manto Turchino; Con ambe le mani sostiene un gran Libro, nel quale stà caratte-
+
+<!-- citation-page-bottom: Band03-2 p151 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=2 -->
+<!-- citation-page-top: Band03-2 p152 -->
+
+[[File:Band03-2_chunk004_p002_img001.jpg|thumb]]
+
+rizzata L'Inscrittione seguente: IVS PONTIFICIVM. À banda stà una tonda mensa su la quale stà Coscino di colore Celeste, sú quale stà depositata la Mitra Pontificia, con le due Chiavi, l'una d'oro, e l'altra d'argento«.
+
+II-Fr<sub>9</sub> CODEX THEODOSIANUS Vor einer Balustrade steht Kaiser Theodosius, mit Lorbeer bekränzt, über dem Muskelpanzer das Paludamentum und in der rechten Hand den Kommandostab, die linke liegt auf einer Tafel mit der Inschrift CODEX / THEODO/SIANVS.
+
+II-Fr<sub>10</sub> PATRIA Ein alter, bekränzter Mann in roter Toga, die Linke auf eine Tafel gestützt mit der Aufschrift STRENVE / ET / PRVDENTER, ermahnt zwei vor ihm stehende gerüstete Krieger, die ein Schild mit der Aufschrift PATRIA halten, für das Vaterland mit Tapferkeit und Umsicht zu kämpfen. Links ein von einem Diener gehaltenes Pferd, im Hintergrund eine Festung. – Zu Beginn des 19. Jh. hinzugefügtes Bild an der Stelle, an der ehemals der Kamin in die Frieszone einschnitt.
+
+II-Fr<sub>11</sub> INSTITUTIONES IUSTINIANI Kaiser Justinian, mit Lorbeer bekränzt, im Körperpanzer und Mantel, hält ein Buch im Arm mit der Inschrift INSTI / TVTI / ONES / IVSTI/NIA/NI.
+
+Ergänzungen zur Ikonographie: In das ikonographische Programm war der große, auf Säulen ruhende Marmorkamin an der Südseite mit einbezogen. Er trug eine Marmorbüste Karls des Großen auf dem Gesims. Außerhalb der Säulenordnung saßen in flachen Nischen zwei schmale Gemälde, rechts mit der Darstellung eines Jünglings mit einem Buch und der Inschrift ARTE, links mit der eines Kriegers mit Schild und Spieß und der Inschrift MARTE. Das Ideal des sowohl durch Kriegskunst als durch gelehrte Bildung sich auszeichnenden Herrschers, für das die Allegorik des 16. Jh. in Bezug auf Julius Caesar die Formulierung >Ex utroque Caesar< gefunden hat, ist hier auf Karl den Großen bezogen, der als Stammvater der Dynastie angesehen wurde. Etwa in Höhe der Friesbilder umschloß die Kaminbekrönung ein Rundbild mit der Darstellung eines römischen Kaisers, mit einem vom Kreuz bekrönten Zepter und einem Buch mit der Inschrift BASILICA NOVELLAE.
+
+(Pistorini, fol. 54 r u.v.; Faßmann, vor Nr. 482. Zum Verbleib der drei Bilder s. S. 142).
+
+Die Aufteilung der Friesbilder bezieht sich auf den Gedanken des Ius utrumque, wonach seit dem Mittelalter innerhalb des christlichen Staates die beiden Bereiche des Ius civile und des Ius canonicum einander zugeordnet sind. Zum kanonischen Recht gehören die verlorenen Gemälde mit dem Ius pontificium (zu II-Fr<sub>8</sub>) und Decretum (zu II-Fr<sub>6</sub>). Letzteres stellte den eigentlichen Schöpfer der kirchlichen Rechtswissenschaft dar, den Kamaldulensermönch Gratian, dessen um 1140 geschaffenes Werk, das Decretum [Gratiani], die Grundlage des kirchlich gesetzten Rechts bildet, das im Ius pontificium von den Päpsten weitergeführt wurde. Beide Werke wurden im 16. Jh. zu einem Codex, dem >Corpus iuris canonici<, vereint.
+
+Das aus verschiedenen Quellen, vor allem aus dem römischen Recht geschöpfte Ius civile wird auf den Kaiser als den Nachfolger der römischen Imperatoren zurückgeführt (Kaiserrecht). Die zugehörige Allegorie (II-Fr<sub>1</sub>) zeigt einen Mann in für damalige Zeit altertümlicher Renaissancekleidung, die wohl, in Analogie zu sonstiger Schilderung historischer Gestaltung durch Peter Candid (Volk-Knüttel 1976, S. 58), ein zeitlich noch weiter zurückliegendes Ereignis meint, vielleicht die Inkraftsetzung des römischen Rechts im Mittelalter, die man Kaiser Lothar von Supplinburg zuschrieb (Lotharingische Legende).
+
+Gegenüber dem innerstaatlichen Ius civile vertritt das Ius bellicum (II-F<sub>2</sub>) die zwischenstaatlichen Rechtsbeziehungen. Es ist Bestandteil des aus dem römischen Recht herkommenden Ius gentium, aus dem sich später das Völkerrecht entwickelt hat, und bezieht sich auf die im Krieg zwischen den einzelnen Parteien geltenden Rechtsnormen, die sich an der in den einzelnen Territorien geübten Praxis ausrichteten.
+
+Die zu Beginn des 17. Jh. in Europa bestehende Rechtsordnung hatte sich aus einer Vereinigung römischen, kanonischen und germanischen Rechts gebildet. Drei Darstellungen beziehen sich auf wichtige Kodifizierungen des römischen Rechts. Dem Codex des Kaisers Theodosius (II–Fr<sub>9</sub>) folgen die ›Institutiones‹ Justinians (II–Fr<sub>11</sub>), das amtliche Einführungsbuch des ›Corpus iuris civilis«. Das Rundbild, das sich ehemals über dem heute verschwundenen Kamin befand, schließlich verwies auf die ›Basilica‹ und ›Novellae‹ des Kaisers Leo VI., des Weisen (886-911). An betonter Stelle, gegenüber dem Kamin mit der Büste Karls des Großen, war die ›Lex Baiuvariorum‹ (II–Fr<sub>4</sub>), eine Gesetzeskompilation aus bayerischem Volksrecht und fränkischem Königsrecht, besonders hervorgehoben. Sie wird repräsentiert durch den fränkischen König Dagobert (†638) und zwei Begleiter mit bayerischem bzw. fränkischem (französischem) Wappen, wobei wohl dem Franken, der das Barett trägt, die im Prolog erwähnte Funktion des gesetzgeberischen Beraters zufällt. Dieses Gesetz wurde unter Karl dem Großen ergänzt und neu herausgegeben. Auf den beiden verbleibenden Friesbildern, die die ›Lex Baiuvariorum‹ flankieren, sind jeweils eine Maxime des >Corpus iuris (II-Fr<sub>5</sub>) und eine des >Decretum (II-Fr<sub>3</sub>) veranschaulicht.
+
+Die ikonographische Einheit des sehr präzise gefaßten Programms dieses Raums ist zu Beginn des 19. Jh. durch die Auswechslung und Hinzufügung von Gemälden zerstört worden. Diese suchen sich zwar in der Thematik anzupassen, bleiben in ihrer Aussage jedoch unverbindlich. Es ist zu vermuten, daß die kirchenrechtlichen Darstellungen nicht allein aufgrund baulicher Veränderungen ausgewechselt wurden, sondern auch aus inhaltlichen Erwägungen.
+
+vicino a quello una loquace Gazza, attorno della quale sta invogliato lungo striscio di C mirasi l'inscrittione seguente: HOSTIS IN EX FAEDERA IVNGVNT (Um den Feind zu vernicht zusammen und schließen ein Bündnis). A si suolo negletti un elmo et un scudo« (Pistorini, fol. 54 r u.v.; Faßmann, vor Nr. 482). Pallavicino (S. 109) und Schmid (S. 142) erwähnen unter den Tieren außer dem Wolf und der Elster auch noch einen Kranich. III-W, MINERVA ALS FRIEDENSBRI in situ, BSGS Inv. Nr. 2914) Minerva-Atl und Brustwehr, sitzt vor einer Landschaft, Rechten, mit der Linken weist sie auf den sie ihren Panzer und ihre Waffen gehängt h Baumes ihre Attribute, die Eule und Büche die Inschrift ARMA OLEAMQVE VIDES? / I PECTORA OVANTUM / UDIT AMOD DEI (Vorzeichnung von Candid mit leichten Varianten geger über der Ausführung s. S. 140 f.).
+
+[[File:Band03-2_chunk004_p002_img002.jpg|thumb]]
+[[File:Band03-2_chunk004_p002_img003.jpg|thumb|II-Fr., Institutiones Iustiniani]]
+[[File:Band03-2_chunk004_p002_img004.jpg|thumb]]
+[[File:Band03-2_chunk004_p002_img005.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p153 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=3 -->
+<!-- citation-page-top: Band03-2 p154 -->
+
+[[File:Band03-2_chunk004_p003_img001.jpg|thumb]]
+
+III-W<sub>2</sub> NEPTUN BRINGT DAS STREITROSS HERVOR (nicht erhalten, keine Abb.) {ZITAT|000} (Pistorini, fol. 55 v f.) (Schau, vor wem die weiten Meere erzittern, schau, wem als ersten die mit dem großen Trident erschütterte Erde das schnaubende Roß entließ. – Nach Vergil, Georgica I, 12 ff.).
+
+(nicht in situ, BSV Inv. Nr. G 38) Ein Herrscher im Körperpanzer, Mantel und Lorbeerkranz schließt mit der rechten Hand die Tür des Janustempels zum Zeichen des Friedens; im Hintergrund ein Rundtempel, bekrönt von Jupiter auf dem Adler. Vorn die Inschrift ASPERA IAM POSITIS / MITESCANT SECVLA BELLIS (Nun mögen sich die harten Zeiten mildern, da die Kriege beendet sind. – Nach Vergil, Aeneis I, 291).
+
+Ergänzungen zur Ikonographie: Die Darstellungen von Minerva-Athena und Neptun-Poseidon beziehen sich auf ihren Streit um das attische Land, aus dem Athena mit dem Ölbaum gegenüber Poseidon mit dem Schlachtroß als Siegerin hervorging. Mit dem Herrscher, der den Janustempel schließt, ist Augustus gemeint, wie sich aus dem Zitat aus Vergils ›Aeneis‹ ergibt. Es bezieht sich auf die Ankündigung friedlicher Zeiten unter Augustus, die durch Jupiter ausgesprochen wird, der im Hintergrund des Bildes erscheint. Zu der Friedensverheißung gehört auch Concordia, ebenso wie Pax eine Personifikation der neuen augusteischen Glückszeit. Die Inschrift bezeichnet die Concordia-Darstellung als ein gegen den Feind gerichtetes Bündnis, womit eine Voraussetzung für den Frieden erfüllt ist, denn dieser wird nach römischem Verständnis nach einem Sieg über alle Feinde erreicht.
+
+Mit in das Programm einbezogen war der große Kachelofen, den eine plastische Gruppe bekrönte. Über einem Erdglobus mit Darstellung der einzelnen Länder, Flüsse und Meere saß ein großer Adler mit ausgebreiteten Schwingen, das Blitzbündel Jupiters in den Fängen. Auf dem Rücken trug er den Göttervater selbst, {ZITAT|001} (Pistorini, fol. 55 r u. v.). Jupiter, dem Beherrscher des Weltalls, wird in der augusteischen Dichtung Augustus als Herr der Erde gegenübergestellt. Wenn hier Jupiter auf der Erdkugel thront, bedeutet das eine Anspielung auf diesen Herrschaftsanspruch: Augustus ist über die Erde gesetzt, wie Jupiter über das Weltall, und beide werden gleichermaßen Herrscher und Vater genannt (Ovid, Metamorphosen XV, 858).
+
+III-W<sub>3</sub> Die Schließung des Janustempels, BSV
+
+
+[[File:Band03-2_chunk004_p003_img002.jpg|thumb]]
+
+steischen Glückszeit. Die Inschrift bezeichnet die Concordia-Darstellung als ein gegen den Feind gerichtetes Bündnis, womit eine Voraussetzung für den Frieden erfüllt ist, denn dieser wird nach römischem Verständnis nach einem Sieg über alle Feinde erreicht.
+
+Mit in das Programm einbezogen war der große Kachelofen, den eine plastische Gruppe bekrönte. Über einem Erdglobus mit Darstellung der einzelnen Länder, Flüsse und Meere saß ein großer Adler mit ausgebreiteten Schwingen, das Blitzbündel Jupiters in den Fängen. Auf dem Rücken trug er den Göttervater selbst, {ZITAT|001} (Pistorini, fol. 55 r u. v.). Jupiter, dem Beherrscher des Weltalls, wird in der augusteischen Dichtung Augustus als Herr der Erde gegenübergestellt. Wenn hier Jupiter auf der Erdkugel thront, bedeutet das eine Anspielung auf diesen Herrschaftsanspruch: Augustus ist über die Erde gesetzt, wie Jupiter über das Weltall, und beide werden gleichermaßen Herrscher und Vater genannt (Ovid, Metamorphosen XV, 858).
+
+IV Kabinett. Der Raum ist nicht erhalten. Er war eingebaut im dritten Zimmer von N (Raum 51). Die ursprüngliche Ausmalung umfaßte ein achteckiges Deckenbild im Gewölbe (IV) und drei Wandbilder, davon zwei breitere an der Längswand bzw. über dem Fenster (IV-W<sub>1-2</sub>) und ein schmäleres über der Eingangstür (IV-W<sub>3</sub>). IV-W<sub>1,3</sub> sind erhalten, die übrigen, wie auch der Ofen, werden nach Pistorini beschrieben.
+
+IV BONUS EVENTUS (nicht erhalten, keine Abbildung) {ZITAT|002} (Pistorini, fol. 61 r).
+
+IV-W<sub>1</sub> SECURITAS PUBLICA (nicht in situ, BSGS Inv. Nr. 2918) Eine vor einer Landschaft sitzende Frau stützt den linken Arm auf eine Säule, in der rechten Hand hält sie einen Palmzweig. Auf ihrem Kopf sitzt eine Taube mit einem Olzweig im Schnabel. Unten rechts die Inschrift SECVRITAS PVB. [lica]
+
+IV-W<sub>2</sub> FELICITAS PUBLICA (nicht erhalten, keine Abbildung) {ZITAT|003} (Pistorini, fol. 60 v).
+
+IV-W<sub>3</sub> SALUS PUBLICA (nicht in situ, BSV Inv. Nr. G39) Eine Frau sitzt neben einem Opferaltar und hält in der Rechten eine Schale, aus der sie eine Schlange tränkt, die sich um den Altar ringelt. Im Vordergrund links die Inschrift SALVS PVB. [lica]
+
+Ergänzungen zur Ikonographie: Das Wirken der in diesem Kabinett dargestellten Gottheiten des guten Gedeihens, der öffentlichen Sicherheit, des Glücks und der Wohlfahr richtet sich auf das Wohl der Allgemeinheit. Auf diese Thematik war auch die Darstellung auf dem Kachelofen bezogen, die Marcus Curtius auf steigendem Pferd zeigte, mit dem er sich in den Abgrund stürzte, um das Vaterland zu retten.
+
+
+[[File:Band03-2_chunk004_p003_img004.jpg|thumb|III-W<sub>1</sub> Minerva als Friedensbringerin, BSGS]]
+
+
+== V<sub>A-B</sub> WAHL UND ENTSCHEIDUNG ==
+
+
+V<sub>A</sub> DIIVDICATIO – ENTSCHEIDUNG Auf Stufen von einem Gebäude sitzt ein bärtiger Mann in grün-rosa changierendem Untergewand und hellblauem, rosa gefütterten Mantel. Er hält in der erhobenen Linken eine ausbalancierte Waage, mit der Rechten umfaßt er Richtscheit, Winkelmaß, Zirkel und Bleiwaage. (Zeichnung mit Studien zur Figur, möglicherweise Kopie nach einem Original Candids s. S. 141).
+
+V<sub>B</sub> DELECTVS - WAHL Ein unter einer Eiche auf Ährenbündeln sitzender bärtiger Mann hält in der Linken einen Rechen, den rechten Arm legt er auf ein rundes Sieb. Zu seinen Füßen links auf zwei getrennten Haufen Spreu und Weizen. Seine Kleidung ist ohne starke farbige Akzente in Rosa, Gelb und Weiß gehalten.
+
+Zwischen beiden Bildern befand sich ursprünglich in der Mitte der Decke auf einer achteckigen Tafel in goldenen Lettern auf blauem Grund die Inschrift: EXPENDIT AC SELIGIT (Pistorini, fol. 57 c).
+
+V-Fr<sub>1-11</sub> Friesbilder Der Raum hatte, wie das zweite Zimmer von Süden, ursprünglich neun Friesbilder, je zwei an den Schmalseiten, zwei an der Nordwand und drei an der Südwand. Sie sind alle zu Beginn des 19. Jh. gegen neue Bilder ausgetauscht worden; das ursprüngliche Programm ist dadurch zerstört worden. Zu diesem Zeitpunkt gewann man als Folge baulicher Veränderung (s. S. 140) auch Platz für zwei neue Friesbilder, V-Fr<sub>4 und 7</sub>. Das Programm der verlorenen Gemälde überliefert Pistorini (fol. 57 vff.). (Planskizzen S. 160)
+<!-- citation-page-bottom: Band03-2 p155 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=4 -->
+<!-- citation-page-top: Band03-2 p156 -->
+
+RESIDENZ
+
+<!-- header: TRIERZIMMEI -->
+
+
+[[File:Band03-2_chunk004_p004_img001.jpg|thumb|V<sub>B</sub> Delectus]]
+
+
+V<sub>A</sub> Diiudicatio
+
+
+[[File:Band03-2_chunk004_p004_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p157 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=5 -->
+<!-- citation-page-top: Band03-2 p158 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIFRZIMMER -->
+
+
+[[File:Band03-2_chunk004_p005_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p005_img002.jpg|thumb]]
+
+
+V-Fr<sub>1</sub> SCHWERT UND SCHILD Stilleben mit einem großen Rundschild, der an den Stumpf eines Baumes gelehnt ist. An einem Zweig hängen ein Eichenkranz und ein Schwert, auf dem Boden liegt ein Helm.
+
+V-Fr<sub>2</sub> RUNDSOCKEL UND MUSIKINSTRUMENTE An einen mit Efeu bewachsenen Rundsockel ist eine Lyra gelehnt, auf dem Boden liegen eine Trompete und zwei Tambourins.
+
+V-Fr<sub>3</sub> GENIUS MIT LORBEERKRANZ Nach rechts fliegender Genius, in der linken Hand einen Lorbeerkranz, in der rechten eine Fackel
+
+V-Fr<sub>4</sub> OPFERSZENE Bei einem Altar, auf dem ein Feuer brennt, stehen drei Frauen; eine von ihnen gießt eine Flüssigkeit ins Feuer, die andere spielt die Lyra, die dritte breitet die Arme zur Seite. – Diese Darstellung ist Einschnitt.
+
+V-Fr<sub>5</sub> GENIUS MIT BLUMENGIRLANDE Nach links fliegender Genius mit Schmetterlingsflügeln, der vor der Körper eine Blumengirlande hält.
+
+
+[[File:Band03-2_chunk004_p005_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p005_img004.jpg|thumb|V-Fr<sub>8</sub> Früchte und Kohlebecken (19. Jh.)]]
+
+
+V-Fr<sub>6</sub> BLUMENKRANZ UND SICHEL An einem Baum im Vordergrund hängt ein Kranz aus weißen und rosa Rosen. Auf dem Boden davor Sichel und Wasserflasche, im Hintergrund eine bergige Landschaft, davor Kornfelder. – Allegorie des Frühlings und des Sommers
+
+V-Fr<sub>7</sub> REIGEN DER VIER JAHRESZEITEN Zwei Frauen, das Haar mit Blumen bzw. Ähren geschmückt, ein Jüngling als Bacchus mit Weinlaub im Haar und eine Frau mit halb verhülltem Kopf tanzen im Reigen. – Die Darstellung ist an der Stelle eingefügt, an der ursprünglich das Fenster zum Triergang in die Frieszone Einschnitt.
+
+V-Fr<sub>8</sub> FRÜCHTE UND KOHLEBECKEN Vor einem Baumstamm sind rote und weiße Weintrauben und andere Früchte zu sehen, daneben steht ein Becken mit brennenden Kohlen; im Hintergrund eine Waldlandschaft. - Allegorie des Herbstes und des Winters
+
+V-Fr<sub>9</sub> GENIUS MIT STERNEN Fliegender Genius vor dem Sternenhimmel, aufblickend und mit erhobener Hand
+
+V-Fr<sub>10</sub> RÖMISCHER HERRSCHER MIT GELEHRTEN Ein lorbeerbekränzter römischer Herrscher in Körperpanzer und Paludamentum ist von drei Männern umgeben, von denen einer auf seine Anweisung hin schreibt, während die beiden anderen einen Himmelsglobus betrachten. Im Hintergrund zwei Reliefs.
+
+V-Fr<sub>11</sub> GENIUS MIT SCHREIBTAFEL Ein nach links fliegender Genius hält mit der linken Hand drei Pinsel und eine Tafel, auf die er schreibt.
+
+Ursprüngliche Friesfolge (nicht erhalten, keine Abbildungen, Beschreibungen nach Pistorini, fol. 57 vff.)
+
+Anstelle von V-Fr<sub>1</sub>: SOBRIETAS {ZITAT|000}} (Pistorini, fol 58 v-59 r).
+
+Anstelle von V-Fr<sub>2</sub>: FIDES {ZITAT|001}} (Pistorini, fol. 58 v).
+
+Anstelle von V-Fr<sub>3</sub>: GENUS {ZITAT|002}} (Pistorini, fol. 57 v).
+
+Anstelle von V-Fr<sub>5</sub>: RELIGIO {ZITAT|003}} (Pistorini, fol. 58 v).
+
+Anstelle von V-Fr<sub>6</sub>: MORES {ZITAT|004}} (Pistorini, fol. 58 v).
+<!-- citation-page-bottom: Band03-2 p159 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=6 -->
+<!-- citation-page-top: Band03-2 p160 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIERZIMME -->
+
+
+[[File:Band03-2_chunk004_p006_img001.jpg|thumb]]
+
+
+Anstelle von V-Fr<sub>8</sub>: INGENIUM »... stanno dipinti due Arbori, cioè verde Palma à Destra et altro frondoso e verdeggiante à sinistra; Frà l'uno e l'altro (fol. 58 v) stà appesa ghirlanda d'intrecciati ramicelli; Viene allonciata [?] la Palma da lungo striscio di bianca carta nella quale appariscono lettere che dicono. INGENIVM.« (Pistorini, fol. 58 v).
+
+Anstelle von V-Fr<sub>9</sub>: DOCTRINA »... bellissima Libraria ò Studio pieno d'innumerabile quantità di libri; Sù una Tavola stà un Mapamondo et altre appartenenze per un Studio; Sù una Cartella che pende dal soffitto, appesa à bindelli serici, stà scritto. DOCTRINAM.« (Pistorini, fol. 58 r)
+
+Anstelle von V-Fr<sub>10</sub>: SAPIENTIA »... il Giuditio delle due Donne, che porterano li due figlioletti, l'uno vivo e l'altro morto avanti il sapientissimo Salomone, con l'Inscrittine à la Base dove posa il detto. SAPIENTIAM« (Pistorini, fol. 58 r).
+
+Anstelle von V-Fr<sub>11</sub>: FAMA »... si vedono groppi di<br>nuvole torbide e negre à Sinistra; et à Destra chiare e bianche; Fuori da le bianche spunta Capo di biondo Fanciullo con Tromba à le labra, sù la quale stà allacciato Cendale bianco (fol. 58 r) con lettere auree e inscrittioni che
+
+
+[[File:Band03-2_chunk004_p006_img002.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p006_img003.jpg|thumb]]
+
+
+dicono CANDIDAM. A sinistra apparisce fuori dalle negre<br>Capo di Fanciullo negrissimo con Tromba à la bocca parimente negra; Cendale allacciato à quella di colore eguale al resto; Inscrittione anco più negra sù quello, che dice NIGRAM: Frà queste due trombe e cendali, e bianco e negro è situata Cartella bianca con l'Inscrittione in lettere rosse che dice famam. E però famam nigram et famam candidam« (Pistorini, fol. 57 v-58 r).
+
+Ergänzungen zur Ikonographie: In das ikonographische Programm des ursprünglichen Zustands war der große, auf Säulen ruhende Marmorkamin mit einbezogen. Er stand in diesem Zimmer an der N-Wand und trug auf dem Gesims eine Marmorbüste des Kaisers Augustus. Außerhalb der Säulenordnung saßen in flachen Nischen zwei schmale Gemälde, rechts die Tugend, eine Frau auf einem Globus, mit der Inschrift FAVEO, links das Glück, eine auf einem Rad kniende Frau, mit der Inschrift SERVIO. Etwa in Höhe der Friesbilder umschloß die Kaminbekrönung ein Rundbild mit einer Allegorie der Uneigennützigkeit, repräsentiert durch eine Schmuck und Goldgefäße zurückweisende Frau, mit den Inschriften FIDEM NON VENDO (Die Treue verkaufe ich nicht) und ABSTINENTIAM (Pistorini, fol. 59 r u. v., Faßmann, vor Nr. 512. – Zum Verbleib der Bilder s. S. 142).
+
+
+[[File:Band03-2_chunk004_p006_img004.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p006_img005.jpg|thumb|V-Fr., Genius mit Schreibtafel (10 Ih)]]
+
+
+In der ursprünglichen Ausstattung fügten sich die Inschriften der Gemälde sowohl der Decke als auch der Friese zu einem fortlaufenden Text zusammen, der von Pistorini (fol. 59 r) folgendermaßen interpretiert wird: DIIUDICATIO EXPENDIT FAMAM CANDIDAM ET NIGRAM, SAPIENTIAM, DOCTRINAM INGENIUM, ET MORES. DELECTUS SELIGIT RELIGIONEM. FIDEM SOBRIETATEM, ABSTINENTIAM ET GENUS« (Die Unterscheidung beurteilt den guten und den schlechten Ruf, die Weisheit, die Gelehrsamkeit, den Geist, den Charakter. Die Wahl wählt aus die Religion, das Vertrauen, die Nüchternheit, die Uneigennützigkeit, die Herkunft). Hieraus geht hervor, daß die Allegorie der Abstinentia über dem Kamin mit den Darstellungen in den Friesen gleichgestellt war.
+
+Die beiden Personifikationen der Wahl und der Entscheidung sind ausgestattet mit Attributen des Messens, Abwägens und des Unterscheidungsvermögens wie Sieb und Rechen (Ripa s. v. distintione del bene e del male), und ihre Beurteilung richtet sich auf persönliche Eigenschaften und Lebensumstände, die bei der Auswahl fürstlicher Ratgeber in Betracht zu ziehen waren und die in den Friesen symbolisiert sind. Diese Deutung gibt der Jesuit Vervaux 1662 in seiner Vorrede der von ihm edierten Monita paterna« Maximilians I., wo er die Ikonographie des Kaisersaals und der Trierzimmer mit diesen Regierungsanweisungen des Kurfürsten in Verbindung bringt (S. 612 ff.): »Vernünfftige Wahl der Personen. Man muß bey Erwehlung der Personen den guten Ruhm und Nahmen, die Nüchternheit, die Treue, das Herkommen, die Unpartheylichkeit, die Religion, die Sitten, den Verstandt, die Geschicklichkeit und die Vernunfft oder Gelehrsamkeit vor allen andern ansehen und bedenken« (Adlzreiter [Vervaux], Annales gentis boicae, III, München 1662, S. 613; Die Übersetzung entstammt der viersprachigen Ausgabe der Monita paterna< von Du Crest, 1729).
+
+Unter den Tugenden guter Ratgeber nimmt Sapientia, hier durch das salomonische Urteil als Weisheit in der Rechtssprechung akzentuiert, einen bevorzugten Platz ein. Die Darstellung befand sich gegenüber dem Kamin mit der Büste des Kaisers Augustus, dem nachgerühmt wird, daß er »in der Gelehrten Rat« zu erscheinen pflegte (F. Matsche, Die Kunst im Dienst der Staatsidee Kaiser Karls IV. Berlin- New York 1981, S. 273 ff.). Die Abstinentia oberhalb des Kamins wendet sich gegen die Käuflichkeit der Ämter.
+
+V-Fr<sub>1-11</sub> Die Friesbilder des 19. Jh. sind im Stil nicht einheitlich. Die figürlichen Darstellungen stammen von derselben Hand wie die Neuschöpfungen im ersten und zweiten Trierzimmer (I-Fr<sub>2</sub>, II-Fr<sub>6-8</sub>, <sub>10</sub>) und ähneln durch die ausgemergelten Gesichter und übergroßen Augen allen Bildern von Robert von Langer. Die pastos gemalten Stilleben zeigen dagegen in der Komposition eine gewisse Verwandtschaft zu Werken des Stillebenmalers Johann Amandus Wink, die jedoch eher eine porzellanhaft glatte Oberfläche haben. Warum in diesem Raum alle Friesbilder ausgewechselt wurden, ist nicht bekannt, doch kann man vermuten, daß die Symbolik in ihrem Zusammenhang nicht mehr verstanden wurde, wie das bereits bei Pallavicino der Fall war. Während er die attributiones personae panegyrisch auf Ferdinand Maria bezieht (S. 112 ff.), sprechen Schmid (S. 142) und Kalmbach (S. 145) übereinstimmend nur von »lauter schöne Tugenden vnd natürliche Gaben mit welchen das hohe Churfürstliche Hauß Bayrn immerzu geglantzet«. Man gewinnt den Eindruck, daß die Künstler des 19. Jh. sich von den entfernten Gemälden zu einzelnen Motiven haben anregen lassen, die sie dann in neuen Zusammenhängen verwendeten. Auch thematische Anregungen sind möglich. Der antike Kaiser als Feldherr, der die Wissenschaftler um sich versammelt hat (V-Fr<sub>10</sub>), entspricht dem Ideal des gelehrten Herrschers, das zuvor im Raum durch die Augustusbüste auf dem Kamin repräsentiert war. Die Waffen bzw. Musikinstrumente auf den beiden Stilleben könnten ebenfalls auf diesen Gedanken anspielen. An der Ostwand des Raums sind im Mittelbild die vier Jahreszeiten verkörpert, auf die in den flankierenden Stilleben noch einmal verwiesen wird. Ob der Opferszene eine spezifische Bedeutung zukommt, bleibt unklar.
+
+
+[[File:Band03-2_chunk004_p006_img006.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p161 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=7 -->
+<!-- citation-page-top: Band03-2 p162 -->
+
+<!-- header: RESIDENT -->
+
+<!-- header: RESIDENT -->
+
+VI Erstes Zimmer von N, sog. Saal des Rats (Raum 53)
+
+
+== VI, VI<sub>A-D</sub> DER RAT UND SEINE EIGENSCHAFTEN ==
+
+
+VI CONSILIVM - RAT Ein alter Mann mit ergrautem Vollbart, der ein langes und stoffreiches orangerotes Gewand trägt, sitzt über teppichbelegten Stufen vor einer Balustrade, links Säulen und eine Vorhangdraperie, im Hintergrund rechts ein Rundtempel. Das Haupt des Alten ist mit Maulbeerlaub und -früchten bekränzt, um die Schultern liegt eine schwere goldene Kette mit einem Herz als Anhänger. Während er auf der flachen rechten Hand ein Buch trägt, auf dem eine Eule sitzt, umfaßt er mit der erhobenen linken einen Spiegel, in dem drei menschliche Gesichter als Symbole von Vergangenheit, Gegenwart und Zukunft zu sehen sind. An seiner linken Schulter lehnt ein großer Anker, um den sich ein Delphin windet.
+
+Zu den Kennzeichen des Rats gehören vor allem Alter und damit Erfahrung, vielleicht der berühmteste Topos, auf den auch die Allegorie von Rehabeam und seinen Ratgebern verweist (VI-Fr<sub>7</sub>), dann Weisheit (Buch und Eule), wozu das dem Ratgeber wie dem Fürsten anstehende nächtliche Nachdenken gehört, schließlich die Empfehlung, der Rat möge von Herzen kommen (Anhänger). Die drei Gesichter in verschiedenen Lebensaltern symbolisieren die von der Klugheit beherrschte Zeit und beziehen sich damit zugleich auf eine Plato zugeschriebene Definition des Consilium, dessen Aufgabe es sei, das Vergangene zu bewahren, das Gegenwärtige zu erkennen und in die Zukunft vorauszuschauen (Ripa s. v. consiglio; Erwin Panofsky, Hercules am Scheidewege und andere antike Bildstoffe in der neueren Kunst, Leipzig-Berlin 1930, S. 1–9). Für Ausgewogenheit und Sorgfalt des Rats stehen Anker und Delphin, die den Wahlspruch von Augustus und Titus »Festina tarde« symbolisieren. Der Delphin steht für die Eile, der Anker für die Ruhe. Auch der Kranz aus den Blättern des spät blühenden und deshalb klugen, weil vor Frost bewahrten Maulbeerbaums verdeutlicht diesen Gedanken von Ausgleich zwischen Zurückhaltung und Entscheidungsfreudigkeit (Ripa s. v. diligenza).
+
+VI<sub>A</sub> CONSTANS – STANDHAFT Vor einer Palastarchitektur, belebt durch einen zur Seite gerafften roten Vorhang, sitzt ein Mann, gekleidet in einen mit Sternen übersäten blauen Mantel, dessen gelb leuchtendes Futter stellenweise nach außen umgeschlagen ist. Er umfaßt mit dem rechten Arm eine große Säule, das Zeichen der Standhaftigkeit, und stellt den Fuß auf einen Krebs. Zu dem traditionellen Attribut der Säule treten bekräftigend die Sterne als Zeichen der Festigkeit und Unbestechlichkeit
+
+
+[[File:Band03-2_chunk004_p007_img001.jpg|thumb|VI Consilium - Rat]]
+
+
+
+[[File:Band03-2_chunk004_p007_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-2 p163 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=8 -->
+<!-- citation-page-top: Band03-2 p164 -->
+
+[[File:Band03-2_chunk004_p008_img001.jpg|thumb]]
+
+(Ripa s. v. cielo), während der niedergetretene Krebs die Unbeständigkeit symbolisiert (Ripa s. v. incostanza). (Studie von Candid für eine in der Gestaltung jedoch stark abweichende Allegorie der Constantia s. S. 140 f.).
+
+VI<sub>B</sub> TACITVM – VERSCHWIEGEN Im Freien sitzt auf einem Felsbrocken ein Mann, in einen halb über den Kopf gezogenen Mantel gehüllt, dessen düstere Farbe von Grün-Blau bis Grau reicht. An seinen Mund hält er einen Ring, den rechten Fuß stellt er auf eine Urne, aus der Wasser fließt. Zu seiner Rechten steht ein großer Kranich mit einem Stein im Schnabel. Der Verschwiegenheit als einer der wichtigsten Eigenschaften des Rats sind sprechende Attribute beigegeben, das Sich-bedeckt-Halten, der Kranich, der durch den Stein gehindert wird, den Schnabel zu bewegen, schließlich das Gefäß, dessen Inhalt ausläuft und das der Mann mit Füßen tritt. Der Ring bezieht sich auf die Anekdote, Alexander der Große habe seinem Sekretär, nachdem dieser Zeuge von Geheimnissen geworden war, einen Siegelring an den Mund gedrückt und ihn damit zum Schweigen aufgefordert (Ripa s.v. secretezza; M. Mende, Das alte Nürnberger Rathaus, Nürnberg 1979, Kat. Nr. 411, verweist in diesem Zusammenhang auf ein Emblem mit dem Lemma ANIMA CONSILII SILENTIUM).
+
+VI<sub>C</sub> LIBERVM – AUFRICHTIG Die Freimütigkeit und Aufrichtigkeit des Rats symbolisiert ein vor einer Landschaft sitzender Mann, dessen hellgelbes Gewand am Oberkörper durchsichtig ist und zudem einen großen Teil der Brust freiläßt. Er legt seine linke Hand auf eine Tafel mit der Inschrift EST EST, / NON NON (8 Mt 5,37), in der erhobenen Rechten hält er eine herzförmige Frucht mit zungenförmigem Blatt. Sie stammt von dem in Ägypten heiligen Perseabaum, der rechts im Bild zu sehen ist, und symbolisiert die Übereinstimmung von Herz und Mund (Henkel-Schöne, Sp. 236f.). Das Chamäleon, wegen schnell wechselnder Farbe ein Muster der Anpassungsfähigkeit und Sinnbild der Schmeichelei (Henkel-Schöne, Sp. 236f. und 664 ff.), wird von ihm mit Füßen getreten.
+
+VI<sub>D</sub> FIDELE – TREU Als der treue, ehrliche Rat figuriert ein Mann in grau-weißem Kleid und rosa Mantel, der neben einer Palastarchitektur sitzt, im Hintergrund eine bergige Landschaft. Er liebkost mit der Linken ein zu ihm aufspringendes Hündchen, in der erhobenen Rechten hält er einen sog. Bergkompaß, ein Winkelmeßinstrument für Bergleute, wie sie der im Dienst Herzog Maximilians stehende Mathematiker und Goldschmied Tobias Volkmer anfertigte (frdl. Hinweis Dr. Reinhard Bachmann, Deutsches Museum, und Dr. Bettina Wackernagel, beide München). Unter seinem Fuß ist eine verführerische Sphinx zu sehen, deren Leib in einem Skorpionsschwanz endet, der sich um einen zerbrochenen Angelstock ringelt. Die zwei Angelhaken hängen über den Sockel, auf dem die Inschrift steht FIDELE. Der Hund mit seiner sprichwörtlichen Treue gehört zu den festen Attributen der Fidelitas. Gutes und Schlechtes bedeuten kann die durch ihre Vielgestaltigkeit rätselhafte Sphinx, deren Skorpionschwanz mit dem giftigen Stachel sie hier jedoch als bösartig und lügenhaft kenntlich macht. Im schlechten Sinn zu deuten ist auch die Angel mit den beiden Ködern als Zeichen des Eigennutzes (Ripa s. v. interesse proprio).
+
+VI-Fr<sub>1-8</sub> BESTÄNDIGKEIT, VERSCHWIEGENHEIT, AUFRICHTIGKEIT, TREUE Die acht Friesbilder zeigen halbfigurige allegorische Darstellungen als Exempla der Eigenschaften des Rats. Sie sind entsprechend den Rundbildern der Decke in vier Themengruppen aufgeteilt, so daß jede der dort symbolisierten Eigenschaften in zwei Beispielen erläutert ist: VI-Fr<sub>1 und 2</sub> vertreten die Beständigkeit, VI-Fr<sub>3 und 4</sub> die Verschwiegenheit, VI-Fr<sub>5 und 6</sub> die Aufrichtigkeit und VI-Fr<sub>7 und 8</sub> die Treue.
+
+VI-Fr<sub>1</sub> METELLUS GEHT INS EXIL (Valerius Maximus III, 8; IV, 1) Aus einer Gruppe von Männern hat sich links Metellus abgesondert und schickt sich an, das Stadttor zu durchschreiten. – Q. C. Metellus Numidicus, der Hauptvertreter der römischen Senatspartei in den politischen Wirren während des Tribunats des Apuleius Saturninus, hat seine Zustimmung zu dem auf gewaltsame Weise zur Annahme gebrachten Ackergesetz verweigert. Er geht ins Exil nach Rhodos (100 v. Chr.). Inschrift auf der Brüstung METELLVS NE PERNICIOSAE LEGI SVBSCRIBERET. PATRIA CESSIT. (Um nicht einem schädlichen Gesetz zustimmen zu müssen, verlässt Metellus das Vaterland.)
+
+VI-Fr<sub>2</sub> SOKRATES UNTER DEN ATHENERN (Plato Apologie des Sokrates) Sokrates steht inmitten der Männer von Athen und verweist auf eine Tafel mit der Inschrift PLVS / VNVS / CVNC / TIS. (Einer mehr als alle), eine Äußerung, die sich auf das Orakel des Delphischen Apolls bezieht, wonach Sokrates der weiseste von allen sei, da er das, was er nicht wisse, auch nicht zu wissen glaube. Auf Sokrates als Zeichen der Standhaftigkeit weist die Inschrift auf der Brüstung SOCRATES VTILIA SVADENDO NON CEDIT ATHENIENSIBVS. (Sokrates beugt sich den Athenern nicht, indem er Vorteilhaftes rät.)
+
+VI-Fr<sub>3</sub> POMPEIUS VOR KÖNIG GENTIUS (Valerius Maximus III, 3) Zum Zeichen seiner Beständigkeit und Verschwiegenheit, die römischen Ratsbeschlüsse einem fremden König nicht verraten zu wollen, hält Pompeius die Hand über eine brennende Öllampe. Inschriften: An der Wand hinter den Dargestellten rechts POMPEIVS.M: und links REX GENTIVS – auf einem Spruchband vor Pompeius FORTIOR IGNE FIDES (Stärker als Feuer ist die Treue) und auf der Brüstung im Vordergrund FRVSTRA POMPEIVM VRGES REX, NON PRODET ARCANA. (Umsonst, König, bedrängst du den Pompeius: Er wird die Geheimnisse nicht verraten). Die dargestellte Episode des nach Asien geschickten Gesandten Pompeius, der dort von König Gentius gefangengenommen wurde, wird von Valerius Maximus unter den Beispielen von Beständigkeit mitgeteilt.
+
+VI-Fr<sub>4</sub> DIE VERSCHWIEGENHEIT DES PAPIRIUS PRAETEXTATUS (Aulus Gellius, Noctes Atticae 1, 13, 1 ff.) Nach einer berühmten Anekdote aus einer Rede Catos wurde der junge L. Papirius Praetextatus von seinem Vater mit in den Senat genommen und nach der Rückkehr von der Mutter über die Beschlüsse ausgefragt. Um Verschwiegenheit zu wahren, gab er vor, dort erfahren zu haben, jedem Mann seien von nun an zwei Ehefrauen gestattet. Auf dem Bild stellt die Mutter den Sohn zur Rede, der ihr ein Schriftband präsentiert mit dem Text PLVS PATRIAE (das Vaterland bedeutet mehr). Auf der Brüstung steht die Inschrift PAPYRIVS PVER MATREM ARCANA SENATVS QVAERENTEM ELVDIT. (Der junge Papirius täuscht die Mutter über die Geheimnisse des Senats; vgl. Der kleine Pauly, 4, Sp. 492. – vgl. zu dieser auch in den Gesta Romanorum überlieferten Episode: M. Mende, Das alte Nürnberger Rathaus. Nürnberg 1979, Kat. Nrn. 280–286).
+
+VI-Fr<sub>5</sub> DARIUS WEIST DEN RAT DES CHARIDEMOS ZURÜCK (Diodorus Siculus, 17, 30) Der gefesselte Feldherr Charidemos wird dem im Viergespann fahrenden Perserkönig vorgeführt. Er hält ihm ein Spruchband entgegen mit der Inschrift SERO SAPIES. (Zu spät weise.) Die Inschrift auf der Brüstung lautet CHARIDEMVS OB LIBERAM VOCEM AB DARIO REGE OCCIDITVR. (Charidemos
+<!-- citation-page-bottom: Band03-2 p165 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=9 -->
+<!-- citation-page-top: Band03-2 p166 -->
+
+<!-- header: RESIDENZ -->
+
+<!-- header: TRIERZIMMEI -->
+
+
+[[File:Band03-2_chunk004_p009_img001.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p009_img002.jpg|thumb]]
+
+
+wurde wegen seiner freimütigen Äußerung von König Darius getötet.) – Charidemos, den Alexander der Große in die Verbannung geschickt hatte, wurde von Darius III. wegen allzu freimütiger Kritik an seinen militärischen Maßnahmen hingerichtet (333 v. Chr.). Wie berechtigt die Kritik war, zeigt die im selben Jahr erfolgte Niederlage des Darius gegen Alexander. Darauf bezieht sich die Inschrift SERO SAPIES.
+
+VI-Fr<sub>6</sub> KRÖSUS UND SOLON (Plutarch, Solon 28; Herodot, I, 86 f.) Dem Feuertod nahe, erinnert sich Krösus der Worte Solons. Rechts sieht man Solon vor dem König, der unter einem Baldachin thront. - Nach dem Bericht Plutarchs in der Biographie des Solon erinnert sich der letzte König von Lydien, der reiche Krösus, nachdem er gefangen genommen und vom Perserkönig Kyros II. zum Tod auf dem Scheiterhaufen verurteilt worden war, der offenen Worte des Solon von der Unbeständigkeit des Glücks. Inschrift auf der Säule, an die Krösus gefesselt ist: O SOLON / SOLON. Und auf der Brüstung im Vordergrund: SOLOM CROESVM NEGAVIT FELICEM, QVOD ILLE SERO CREDIDIT. (Solon behauptete, Krösus sei nicht glücklich, was jener zu spät einsah.)
+
+VI-Fr<sub>7</sub> REHABEAM UND SEINE RATGEBER (3 Reg 12, 4ff.) In der Mitte thront Rehabeam, König von Judäa, umgeben von einem seiner alten erfahrenen Ratgeber (links), deren Vorschläge zur Milde er verwirft, und einem der jungen unerfahrenen Berater (rechts), die für übergroße Härte gegenüber dem Volk eintreten. Über dem König die Inschrift ROBOAM REX IVDAE (Roboam König von Judäa), auf der Tafel des alten Ratgebers links: BENEVO / LENTIA / ET BENEFI / CENTIA (mit Wohlwollen und Gnade), auf der Tafel des jungen Ratgebers rechts: ARMIS / ET SVP / PLICIIS. (Mit Waffen und Bestrafun gen), auf der Brüstung im Vordergrund links: LENITER IMPERA. (Regiere mild); rechts: IMO ACERBE. (Und ja nich streng; vgl. auch Henkel-Schöne, Sp. 1852).
+
+VI-Fr<sub>8</sub> DIE TRAUMDEUTUNG JOSEPHS (Gen 41, 25 ff.) Rechts thront der Pharao in orientalischer Tracht und zeichnet Joseph, der ihm seine Träume gedeutet hat, als weisen Ratgeber aus, indem er ihm einen Ring überreicht. Links öffnet sich der Ausblick in eine Landschaft mit den sieben Kühen und den sieben Kornähren. An der Rückwand zwischen den Dargestellten die Inschrift: PRO- VIDEAT REX / VIRVM SAPIENTEM. (Der König erkenne als erster den Weisen) und im Vordergrund auf der Brüstung: IOSEPH PHARAONEM DOCET. (Joseph belehrt den Pharao).
+
+Ergänzungen zur Ikonographie: Das Programm des Raumes wird ergänzt durch die plastische Gruppe auf dem Kachelofen, der ehemals in der NO-Ecke stand und der analog zu dem Ofen in Raum 47 gebildet war. Einem Phoenix als Bekrönung dort entsprach hier ein Pelikan, der mit seinem Blut seine Jungen nährt, ein Motiv der Aufopferung für das Wohl der andern.
+
+Im Mittelbild der Decke wird der Begriff Consilium durch eine Fülle von Attributen in seiner Bedeutungsvielfalt zu definieren versucht. Diese beziehen sich auf Beratung und Ratschlag unter der Voraussetzung von Klugheit und Einsicht, von Sorgfalt und Ausgewogenheit. Selbst auf einsame nächtliche Überlegungen ist verwiesen (durch die Eule), die, wie Ripa betont, sowohl von Fürsten als auch von ihren Ratgebern angestellt werden. Durch die vier Rundbilder der Decke wird die Bedeutung von Consilium insofern eingeengt, als hier diejenigen Charaktereigenschaften personifiziert sind, die man bei einem guten Staatsdiener anzutreffen wünscht. Es sind Tugenden des guten Beamten, die durch Jahrhunderte in der Hofliteratur, in den Fürstenspiegeln, Regierungsanweisungen und politischen Schriften in immer gleicher Weise gefordert werden (Michael Stolleis, Grundzüge der Beamtenethik 1550-1650, in: Die Verwaltung, Bd 13/H.4, S. 447-475). Die Ikonographie des Raums bezieht sich also speziell auf das Amt des fürstlichen Rats und die ethische Qualifikation der einzelnen, ihn bildenden Consiliarii, welche nach bestimmten Kriterien für den Staatsdienst ausgewählt wurden, wie im Raum davor veranschaulicht.
+
+In dem Werk des französischen Jesuiten Claude-François Menestrier, L'Art des Emblemes ..., Paris 1684, werden unter den »Emblemes Politiques« einige Themen der Friesbilder dieses Saals und ihre Inschriften aufgeführt, allerdings illustriert mit Holzschnitten aus älteren Werken. »Il v a plusieurs de ces Emblemes peints au Palais du Duc de Bavière à Munick, dans l'appartement que l ón nomme de l'Empereur. Pour montrer qu'un Prince doit faire choix d’un sage Ministre, on voit ...«, und er erwähnt die Beispiele Joseph und Pharao, Sokrates, Metellus, Krösus sowie Charidemus und Darius.
+
+Pistorini bezeichnet bei seinem Residenzrundgang die gesamte Flucht der Trierzimmer, nicht nur den nördlichen Teil, als »Appartamento del Consiglio« und fährt fort: »e però stanza per stanza saranno gradualmente specificate le conditioni e qualità che deve havere il buon Prencipe e buoni e prudenti consiglieri« (fol. 45 v). Er subsummiert die Aufgaben beider Instanzen, des Fürsten und seiner Räte, unter den Begriff Consilium, der ihm damit in seiner umfassenden Bedeutung im Sinne Ciceros vor Augen steht, als Regierungsklugheit und geistige Lenkung des Staates. Die Formulierung von den Bedingungen und Qualitäten definiert in treffender Weise einerseits die Mittel, auf die sich das Amt des Fürsten stützt, die Waffen und Gesetze, andererseits die Tugenden und Fähigkeiten seiner Mitarbeiter. Was uns vor Augen gestellt wird, ist nicht die Regierung des Landesherrn mit Hilfe seiner Verwaltung, sondern das vom Fürsten und seinen Räten getragene gute Regiment als ein politisches Ideal (s. auch S. 195 f.).
+
+
+== Quellen und Literatur ==
+
+
+BHStA I GL 2746, Nr. 850 -, HR II, 1614; 1615. Pistorini 1644 fol 49 r - 65 r
+
+Faßmann 1770, vor Nr. 480, nach Nr. 481, Nr. 484–86 498, 508–09, nach Nr. 511, nach Nr. 513, Nr. 514–21.
+
+Adlzreiter (Vervaux) 1662, S. 612 ff.
+
+Pallavicino 1667, S. 103-21
+
+Menestrier, P. Claude-François, L'Art des Emblemes ou l'enseigne la morale par les figures de la fable, de l'histoire et de la nature, Paris 1684, hg. von Karl Möseneder, Mittenwald 1981, S. 56, 98ff.
+
+Schmid 1685, S. 131–59
+<!-- citation-page-bottom: Band03-2 p167 -->
+
+
+[[File:Band03-2_chunk004_p009_img003.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p009_img004.jpg|thumb]]
+
+
+[[File:Band03-2_chunk004_p009_img005.jpg|thumb|VI-Fr<sub>7</sub> Rehabeam und seine Ratgeber]]
+
+
+
+[[File:Band03-2_chunk004_p009_img006.jpg|thumb|VI-Fr<sub>8</sub> Die Traumdeutung Josephs]]
+
+
+[[File:Band03-2_chunk004_p009_img007.jpg|thumb]]
+
+
+
+[[File:Band03-2_chunk004_p009_img008.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=10 -->
+<!-- citation-page-top: Band03-2 p168 -->
+
+Kalmbach 1719, S. 134–56. Seidel 1880, II. Abth. Blatt 5, 12–14.  
+Haeutle 1883, S. 147ff.  
+Rée 1885, S. 178–83.  
+Böttger 1893–95, Taf. 60–62, 63, 64 und 66 (verkehrt abgezogen).  
+Bassermann-Jordan 1900, S. 106, 109–115 und Abb. 72–74, 76, 78.  
+KDB I OB (2), S. 1152 und Taf. 182  
+Feulner, Adolf, Kat. der Gemälde im Residenz-Museum München und im Schloß Nymphenburg, München 1924, Nr. 38–39.  
+Thoma/Kreisel 1937, R. 26–33.  
+Schalkhaußer 1957, S. 40ff.  
+Kloos, S. 225–29  
+Schulz, Jürgen, Venetian painted ceilings of the Renaissance, Berkeley-Los Angeles 1968, S. 51f.  
+Brunner / Hojer 1975, R. 47–53.  
+Brunner 1977, S. 72–74 und Abb. 61–65.  
+Erichsen, Ursula, in: Kat. Wittelsbach 1980, II/2, Nr. 893–96 mit Abb. B. V.-K.  
+
+== HALLE ZU DEN VIER SCHÄFTEN UND KAISERTREPPE ==  
+
+[[File:Band03-2_chunk004_p010_img001.jpg|thumb]]  
+
+Eingangshalle und Prunktreppenhaus (Raum 112) im N-Trakt der Maximilianischen Residenz, Zugang zum Kaisersaal; der Vier-Schäfte-Saal ist nach den vier Säulen benannt, die das Gewölbe tragen; z.Z. Eingang zur Ägyptischen Staatssammlung, Deckenbilder im Zweiten Weltkrieg zerstört, im Treppenhaus rekonstruiert  
+
+[[File:Band03-2_chunk004_p010_img002.jpg|thumb|Die neun Gewölbefelder der Halle zu den Vier Schäften (zerstört)]]  
+{{End}}

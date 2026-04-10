@@ -1,0 +1,39 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=579
+|Originalseitenbis=579
+|Lemma=München, Gasthof zum Schwarzen Adler
+|Typ=Profan
+|Ort=München
+|davor=München, Palais Preysing
+|danach=München, Schloss Harlaching
+|AutorIn1=Baur, Eva-Gesine
+}}
+
+Gasthaus des Weinwirts Albert, Kaufingerstraße 23, Haus A, 1805 abgebrochen, Deckenbilder nicht erhalten
+
+'''Zum Bauwerk:''' Das seit 1529 nachweisbare Haus A (Häuserbuch, Bd 2, S 75) war 1755-91 im Besitz von Franz Joseph Albert. 1791 ging es in der Besitz von dessen Sohn Karl Albert über, der 1805 das Nachbarhaus (Haus B) dazu erwarb, beide Häuser abbrechen und durch einen Neubau ersetzen ließ. Das ehem. Haus A zeigt ein Aquarell von Joseph Puschkin (Stadtmuseum München; abgebildet bei Erich Valentin, Beethoven. Ein Bildbiographie, München 1957, S. 26). Eine Ausstattung mit einem Dekkengemälde ist für einen >Saal< überliefert (s. u.), der vermutlich al Festsaal fungierte. Der Gasthof Alberts war »ein beliebter Treffpunk nicht nur der Cavaliers, sondern vor allem der Musik-, Literatur- und Theaterfreunde des kurfürstlichen München« (Valentin, Mozarts > Weinwirt Albert<, S. 549).
+
+'''Auftraggeber:''' Franz Joseph Albert (1728–89), Weingastgeb (Wirt) und Mitglied des äußeren Rats
+
+Autor und Entstehungszeit: Ignaz Balthasar Schilling (*29. 12. 1730 München †30. 6. 1808 München, Sohn des Joseph Ignaz Schilling) vermutlich um 1760
+
+Die Ausstattung ist erwähnt bei Halm: »Der Saal in fresco gemahlen vo Ignaz Schilling dem jüngeren« und Westenrieder: »hat überdies bereit vieles in Fresco verfertiget, z.B. den Saal bev Herrn Albert«.
+
+Verbleib: Die Ausstattung des Saales ging mit dem Abbruch des Hauses 1805 verloren
+
+<b>Darstellung:</b> Nicht bekannt
+
+
+== Quellen und Literatur ==
+
+
+Halm, Bd 6, s.v. Schilling
+
+Traini, Du O, S. v. Schinning Westenrieder 1782, S. 40
+
+Valentin, Erich, Mozarts > Weinwirt Albert<, Skizzen zu einem Porträt, in: Festschrift Karl Gustav Fellerer zum 60. Geburtstag, Regensburg 1962 S. 549. E.-G. B
+
+{{End}}

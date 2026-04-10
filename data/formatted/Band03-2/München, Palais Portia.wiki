@@ -1,0 +1,53 @@
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=576
+|Originalseitenbis=576
+|Lemma=München, Palais Portia
+|Typ=Profan
+|Ort=München
+|davor=München, Palais Tattenbach
+|danach=München, Palais Preysing
+|AutorIn1=Baur, Eva-Gesine
+|AutorIn2=Sinkel, Kristin
+}}
+
+Stadtpalais der Gräfin Maria Josepha von Topor-Morawitzky, spätere Fürstin Portia, seit 1934 im Besitz der Bayer. Vereinsbank, Kardinal- Faulhaberstraße 12. 1944 zerstört.
+
+'''Zum Bauwerk:''' Neubau 1693 von Enrico Zucalli für Gräfin Anna Katharina Fugger. Das Gebäude ging 1721 an deren Sohn Philipp Joseph Graf von Törring zu Seefeld und Dengling über, der es 1731 an Kurfürst Karl Albrecht von Bayern verkaufte. Karl Albrecht vermachte das Palais seiner Favoritin, der Gräfin Maria Josepha Hyazinta von Topor-Morawitzky, später verheiratete Fürstin Portia, während deren Besitz der Bau ab 1731 durch François Cuvilliés d. Ä. modernisiert wurde. Nach wechselnden Eigentümern und dem drohenden Abbruch im Jahr 1919 übernahm am 28. 7. 1934 die Bayerische Vereinsbank den Bau. Kriegszerstörung 1944 bis auf die Fassade, totaler Verlust der barocken Ausstattung. 1950-52 Wiederaufbau unter Neugestaltung des Innern.
+
+Dreigeschossiger Bau zu sieben Fensterachsen mit Pilastergliederung über Rustika-Geschoß, kräftiges Konsolgesims. Dreiflügelbau mit Innenhof, Fassade gegen O gerichtet.
+
+'''Auftraggeber:''' Kurfürst Karl Albrecht von Bayern (1726–1745, ab 1743 Kaiser Karl VII.).
+
+Autor und Entstehungszeit: Ein Plafond von Nikolaus Gottfried Stuber (* 1688 München † 1749 München). Die Neugestaltung des Palais unter François Cuvilliés’ d. Ä. Leitung ab 1731 betraf sowohl die Fassadengestaltung durch Philipp Johann Köglsperger (Stadt A München, Maurerakt 1731/69, zit. nach Lieb, S. 107), als auch die Stuckierung und Ausmalung der Räume der Beletage, die nach Cuvilliés Entwürfen von Johann Baptist Zimmermann, Joachim Dietrich und Nikolaus Gottfried Stuber ausgeführt wurden.
+
+Sie zählten wohl zu den reichsten Privatgemächern des Rokoko in München. Bei Hübner heißt es »... In dieser Straße befinden sich der prächtige Palast der Portiaschen Erben, ein von Innen und Außen im edelsten Baustile aufgeführtes Gebäude...« (Hübner, S. 270). Zimmermann erhielt 1733 für den Stuck von 5 Plafonds 1200 fl. und für den Stuck der Fassade 100 fl. (BHStA I, HR II, 25, 1733). Stuber quittierte 1736 für eine auf Anordnung Cuvilliés’ gemalte Decke 400 fl. »Wahrscheinlich handelt es sich um den Plafond im Antichambre, den einst die in Frankreich so beliebte Groteskenmalerei ausgefüllt haben wird« (Dischinger, S. 29).
+
+
+== Verbleib ==
+
+
+Die gesamte Ausstattung der Innenräume des Palais ging mit der Bombenzerstörung 1944 zugrunde. Der oben erwähnte Plafond von Stuber war schon vor 1895 nicht mehr erhalten. Es existieren keine photographischen Aufnahmen von Deckenmalerei, hingegen von Stuckierungen.
+
+
+== Literatur ==
+
+
+Hübner 1803, S. 78f, 270  
+Trautmann, Karl, Der kurfürstliche Hofbaumeister Franz Cuvilliés d. Ä. und sein Schaffen in Altbayern, in: Monatsschrift des Historischen Vereins von Oberbayern, Jg IV, 1895, S. 86–89 und 100–136.  
+Weese, Artur, München, Leipzig 1925, S. 397 f, Abb. 224/25  
+KDB I OB (2), S. 1186.  
+Hauttmann-Kunstleben, S. 79, 107  
+Bender, P., K. Kaspar, F. Dörnhöffer u.a., Das Palais Porzia in München. Worte der Abwehr gegen den geplanten Abbruch, München 1919.  
+Karlinger, Hans, Das Palais Porzia, München 1919.  
+Thieme-Becker, Bd 32 (1938), S. 230, s. v. Stuber, Nikolaus Gottfried. Lieb, Norbert, Münchener Barockbaumeister, München 1941, S. 18, 68  
+Häuserbuch Bd 2, S. 57-50.  
+Thon, Christina, Johann Baptist Zimmermann als Stukkator, München-Zürich 1977, S. 112-14, 322 f., Kat. Nr. 60.  
+Biller, Josef H. und Hans-Peter Rasp, München, Kunst und Kulturlexikon München, <sup>2</sup>1978, S. 77 f.  
+Dischinger, Gabriele, Das Palais Portia, Bau- und Ausstattungsgeschichte, in: Zwei Münchner Adelspalais, Palais Portia – Palais Preysing, mit Beiträgen von Gabriele Dischinger, Laurentius Koch OSB und Robert Münster (Privatdruck), München 1984, S. 13–43.  
+Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann, Entstehung und Vollendung des bayerischen Rokoko, Regensburg 1985, S. 316.  
+Braunfels, Wolfgang, François Cuvilliés. Der Baumeister der galanten Architektur des Rokoko, München 1986, S. 110 f., 178. E.-G. B./K. S.
+
+{{End}}
