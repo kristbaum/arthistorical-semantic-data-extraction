@@ -1,0 +1,100 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=208
+|Originalseitenbis=211
+|Lemma=Rott, Pfarrkirche St. Johannes Baptist
+|Typ=Sakral
+|Ort=Rott
+|davor=Romenthal, Kapelle St. Anna
+|danach=St. Georgen, Filialkirche St. Georg
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p208 -->
+
+<!-- header: ROTT -->
+
+Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung Kloster Wessobrunn inkorporiert, Gericht Landsberg
+
+'''Patrozinium:''' St. Johannes Baptist
+
+'''Zum Bauwerk:''' Der einschiffige, spätgotische Kirchenbau - mit einem eingezogenen, dreiseitig abgeschlossenen AR - wurde unter Abt Goggl barockisiert. Die Stuckierung übernahm der heimische Meister J. M. Merck aus Rott.
+
+'''Auftraggeber:''' Abt Engelbert Goggl von Wessobrunn (1770-81); vgl. Trauerrede von 1781 auf den Abt, zitier bei Hager, S. 341; Kloster- und Abtswappen in der Kirche
+
+'''Autor und Entstehungszeit:''' Signatur am W-Ende von A: Johann Baader pinxit 1779. (Johann Baptist Baader aus Lechmühl.) Meidinger bestätigt die Autorschaft Baaders.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR verschliffene Kreuzgewölbe mit Stichkappen
+
+Rahmen: A, B Stuckprofil von Rocaillen überlappt; A<sub>1-4</sub>
+B<sub>1-2</sub> Rocaille-Kartuschen
+
+Technik: Fresko: polychron
+
+Maße: A Höhe 7,20 m; 6,40 × 4,00
+
+B Höhe 6,70 m: 4,00 × 2,75
+
+Erhaltungszustand und Restaurierungen: Die Deckenfresken wurden 1870/78 übermalt (vgl. Hager, S. 343), 1912 freigelegt und 1952 zuletzt restauriert. Sie sind schlecht erhalten: Die originale Farbsubstanz ist fleckig und blaß und wirkt fast monochrom. A und B haben ausgebesserte Risse.
+
+Beschreibung und Ikonographie
+
+A MARTYRIUM JOHANNES DES TÄUFERS (vgl. Mc 6, 17–28) In das langgestreckte Freskofeld ist eine
+
+Kuppelvierung, deren Arkaden sich in kalottengewölbte Apsiden öffnen, in illusionistischer Perspektive konstruiert. Der Standpunkt des Betrachters ist unterhalb des westlichen Bilddrittels; es wird ein schräger Einblick in die zentrale Kuppel gegeben. Die achsialen Apsidenräume bilden den Hintergrund für die vier Martyriums szenen, welche unter den Vierungsbögen angeordnet sind. Die östliche Szene, Johannes vor Herodes, ist stark hervorgehoben, die Figuren werden hier beträchtlich größer als in den übrigen Szenen wiedergegeben. - Johannes im Büßergewand steht an den Stufen des Thrones und klagt den König wegen dessen unsittlichen Lebenswandels an. Herodes zeigt sich betroffen, doch die Vorbereitungen zur Gefangennahme sind bereits im Gange: seitlich von hinten nähern ein Häscher mit einem Strick und ein bewaffneter Soldat. Der weisende Finger des Johannes deutet auf Herodias, die unrechtmäßige Gemahlin des Herodes. Diese steht rechts vor einem Vierungspfeiler, vertraulich auf ihre Tochter Salome einsprechend. Sie zeigt ihrerseits auf Johannes.
+
+In der rechts (südlich) folgenden Szene tanzt Salome beim Gastmahl des Herodes.
+
+Im Westen ist der apsidiale Raum als Kerker des Johannes gestaltet. Der Henker hat gerade den Schwertstreich vollführt und reicht Salome das Haupt des Heiligen.
+
+Die letzte Szene zeigt das Entsetzen der Mahlgesellschaft beim Anblick des Hauptes auf der Schale, welches Salome heranträgt. Die beiden einander gegenübergesetzten Tischszenen sind äußerst gleichförmig gemalt.
+
+Kuppelkonstruktion und Szenenanordnung gleichen sehr dem ein Jahr früher — 1778 — geschaffenen Bibliotheksfresko Baaders in Polling (s. LKr. Weilheim-Schongau). Hier wie dort sind Architektur und Figuren übergenau gezeichnet und lassen in ihrem steifen Nebeneinander ganz den volkstümlich erzählerischen Charakter früherer Werke vermissen.
+
+
+[[File:Band01_chunk005_p005_img001.jpg|thumb|A Martyrium Johannes des Täufers]]
+
+
+
+[[File:Band01_chunk005_p005_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p209 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=6 -->
+<!-- citation-page-top: Band01 p210 -->
+
+[[File:Band01_chunk005_p006_img001.jpg|thumb|Elisabeth — im Madonnentypus — hält den Johannesknaben auf dem Schoß, dieser ist durch Kreuzstab ECCE AGNUS DEI und Lamm bezeichnet. Literatur Meidinger, Franz Sebastian, Historische Beschreibung der kurfürstlichen Haupt- und Regierungsstädte in Niederbayern, Landshut und Straubing ..., Landshut 1787, S. 382.]]
+
+[[File:Band01_chunk005_p006_img002.jpg|thumb]]
+
+[[File:Band01_chunk005_p006_img003.jpg|thumb|A. Tukas]]
+
+[[File:Band01_chunk005_p006_img004.jpg|thumb]]
+
+A1-4 Die Kartuschbilder zeigen die vier schreibender Evangelisten mit ihren Symbolen in Dreiviertelfigur: Johannes, Matthäus, Markus, Lukas – letzterer malt das Bildnis der Madonna. Die Figuren stimmen genau mit jenen des Pollinger Bibliotheksfreskos überein.
+
+B JOHANNES IM KERKER Das kleine Chorfresko zeigt das Verlies des Täufers ganz entsprechend der westlichen Szene im LHs-Fresko. Der gefesselte Bußprediger spricht zu zwei Jüngern Jesu an der vergitterten Fensteröffnung. - Die Szene spielt über einem Mauerbogen. In der Bogenöffnung halten zwei Putti eine Inschriftkartusche: LIVM OPORTET / CRESCERE ME / AVTEM MINVI. / Joh. 3. U. 30. Als Hinweis auf das kommende Martyrium zeigt ein Putto das Schwert vor. Die Worte des Johannes, ein Zeugnis über Christus, beziehen sich sowohl auf die Freskodarstellung als auch auf das Hochaltarbild der Taufe Jesu durch Johannes.
+
+[[File:Band01_chunk005_p006_img005.jpg|thumb|B<sub>2</sub> Elisabeth]]
+
+derbayerii, Landshut und Straubing ..., 2 S. 382.
+
+Braun-Augsburg Bd 1, S. 377 f
+
+Hager, Georg, Die Bautätigkeit und Kunstpflege im Kloster Wessobrunn, in: OAVG 48, 1893/94, S. 341–43.
+
+Dehio-Gall OB (1964), S. 266
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S 599—609
+<!-- citation-page-bottom: Band01 p211 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=7 -->
+{{End}}

@@ -1,0 +1,88 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=300
+|Originalseitenbis=302
+|Lemma=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche
+|danach=Andechs, Ehem. Benediktinerabtei, Josephskapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Törringkapelle (auch Jäger-, Seefelder-, Hubertus- oder Eustachiuskapelle genannt)
+
+'''Zum Bauwerk:''' Nördliche Seitenkapelle der Klosterkirche; Rechteckraum
+
+'''Auftraggeber:''' Clemens Joseph Gaudenz Graf von Törring-Seefeld (*1699 †1766). »Herr Clemens Augustus, des heiligen Röm. Reichs Graf von Töring, Herr zu Seefeld; ... und Frau Lucretia, dessen Ehe-Gemahlin, geborene Marggräfin de Angelelli ... beede Hochgräfliche Excellenzien haben erst neulich pro anno 1755 zu größer Zierde unsers dritten Saeculi, die Heil. Sebastiani-Capellen, als das zur Begräbnuß dero Hochgebohrnen Familie gestüffte Orth, mit vergoldter Stockador-Arbeit, kunstreicher Mahlerey, und einen gantz neuen Altar, samt dergleichen Altar-Blat, in welchem Ihro Hochgräflichen Excellenz des regierenden Herrn Grafen lebhafftes Contrafait entworffen, auf das herrlichist ausziehren lassen im Jahr 1754.« (Historiola ... Zweiter Theil, S. 51.) Die Kartuschen an den vier Freskoecken weisen ebenfalls auf den Auftraggeber hin; die beiden östlichen zeigen das Wappen des Grafen Törring-Seefeld und das seiner Gemahlin, einer geborenen Marchesa Angelelli. Die beiden westlichen enthalten Inschriften, SW: Charltate / Ingen des Hauses Dießen-Andechs, Rasso, erinnert (D und S3). Es werden die Wappen der Stifter und Wohltäter, deren königliches Blut wiederum Andechs zur Ehre gereicht, angebracht. Die Halbfigur von Albrecht III., links seitlich über dem Hochaltar, zeigt den Herzog als betenden Stifter. Große Ölbilder, rechts und links an der Seiten schiffwand neben S2 und S3, berichten von der Gründung. Das nördliche stellt Papst Nikolaus dar, die Konfirmationsurkunde überreichend. Inschrift: CONFIRMAVIT NICOLAVS V. PONT. MAX. MCDLIV. Das südliche Albrecht III. Inschrift: CONSVMMAVIT ALBERTVS III. DVX BAV. MCDLV. Die 26 kleinen Bilder an der Emporenbrüstung rings um den Raum erzählen die Legende des Andechser Heiltums. In D treten die heiligen und historischen Personen auf, die an der Geschichte der drei Hostien beteiligt waren. Das Drei-Hostien-Heiltum, eine Hl.-Blut-Reliquie, nimmt stellvertretend für die göttlichen Personen die Glorie des Heiligenhimmels ein. Die Auswahl der Bildthemen von S1-4 geht vom Heiltumsschatz aus.
+
+Zuletzt kommt als dritte Bedeutungsschicht noch die Vorstellung von Andechs als Gnadenort hinzu, die sich ausdrückt in dem Fresko vom neuen Teich Bethesda – eine weitere Legitimation des Heiligen Berges durch die geschehenen Wunder und Wunderheilungen.
+
+Die Themen der anschließenden und im folgenden behandelten Kapellen stehen in keinem wesentlichen Zusammenhang mit der Ikonologie der Kirche.
+
+Literatur siehe S. 316
+
+sIgnIs / CLeMens / De / ToerrIng NW: CoMes / seefeLDae / InsIgnI / pIetate / refeCIt. (Beide Chronogramme ergeben 1755. Die Kapelle wurde zwar 1754 ausgestattet, jedoch für die Jubiläumsfeier 1755.)
+
+'''Autor und Entstehungszeit:''' Johann Baptist Zimmermann, 1754; Skizze Öl auf Lw. in Augsburg, Schaezlerpalais, Inv. Nr. 12142 (Deutsche Barockgalerie, S. 213)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Verschliffenes Kreuzgratgewölbe
+
+Rahmen: Stuckprofil, von Rocailleornamenten überspielt
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 4,90 m; 2,70 × 2,20
+
+Erhaltungszustand: Von einigen Haarrissen abgesehen sehr gut
+
+
+== Beschreibung ==
+
+
+HISTORISCHE SZENE Das Freskofeld ist annähernd ein Quadrat mit abgeschrägten Ecken und nach innen geschwungenen Seiten. Einansichtige Szene. Der Betrachterstandort liegt unterhalb des westlichen Bildrandes. Das Fresko gehört zu den schönsten Zimmermanns. Eine Komposition, die durch ihre klare Raumschichtung und die lebendige, dynamische Anordnung der Figuren beeindruckt. Im Vordergrund kniet eine Gruppe von Personen, die durch ihre Kleidung und Haltung als Zeitgenossen des Malers identifiziert werden können. Hinter ihnen erstreckt sich ein Landschaftsbild mit einer idealisierten Darstellung des Klosters Andechs, flankiert von symbolischen Figuren, die die vier Evangelisten darstellen. Die Farbigkeit ist hell und kräftig, wobei die Farbkontraste sorgfältig abgestimmt sind, um die räumliche Tiefe zu unterstreichen. Die Details der Architektur und der Landschaft sind präzise, wodurch der Eindruck einer lebendigen, realistischen Umgebung entsteht.
+
+[[File:Band01_chunk007_p001_img001.jpg|thumb|Historische Szene]]
+<!-- citation-page-bottom: Band01 p301 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=2 -->
+<!-- citation-page-top: Band01 p302 -->
+
+<!-- header: ANDECHS -->
+
+<!-- header: ANDECH -->
+
+ponente seiner Deckenmalerei, nämlich das idyllische Landschaftsszenarium, hat sich hier verselbständigt.
+
+Ein Fürst - gekennzeichnet durch seine höfische weiße Kleidung, Besatz des Unterkleides, Mantel und Schuhe in Gold, auf dem Haupt ein rotes Barett mit blauen Reiherfedern, in der Rechten einen Stab -, ist mit seinem Jagdgefolge aus dunklem Wald auf eine Lichtung herausgetreten. Er wendet sich an den grüngekleideten Jäger zu seiner Seite, dieser weist den Fürst mit Gebärden des Erstaunens auf etwas hin. Auch der Begleiter zur anderen Seite deutet eindringlich nach links vorne, wo unter einem Baum eine kleine Quelle sichtbar wird. Ein Jäger mit großem Jagdhorn über der Schulter, ein Page mit zwei Jagdhunden und zwei Leute im Hintergrund bilden das weitere Gefolge.
+
+Nur wenig an diesem Bild erinnert daran, daß es sich um ein Deckenbild handelt; lediglich, daß die Landschaft nach vorn in die Tiefe abbricht und die Hauptakteure in der von der Deckenmalerei bekannten Bewegungen des Schrei tens und pathetischen Hinweisens im Vordergrund des Bildes wie an einer Rampe agieren, ist ein Moment der Deckenmalerei. Überraschend ist, daß eine bislang in der Deckenmalerei untergeordnete Farbe, nämlich ein sattes Grün, von Braungrün bis Bläulich gestuft, das Bild bestimmt. Selbst ein Großteil der Gewänder ist grün. Bei Zimmermann ist der Hintergrund und Schauplatz meist von heller, nuancierter Farbigkeit, die Buntfarben treter in den Gewändern auf. Hier ist ein großer Teil der Jagdgesellschaft noch in die Schauplatz- und Hintergrundsfarbigkeit mit einbezogen. Die Farben Weiß mit bläulicher Schattierung, Gold und Rot sind auf den Fürsten konzentriert. Das wenige Rot, das außer am Barett des Fürsten nur noch an der Kleidung zweier Leute aus dem Gefolge auftritt, steht in komplementärer Spannung zu dem vorherrschenden Grün. Das Inkarnat besteht aus grünlich-blauen Tiefen und roten Höhungen.
+
+
+== Ikonographie ==
+
+
+Die Gestalten weisen durch ihre historisierenden höfischen Gewänder und Jagdwaffen auf eine mittelalterliche Szene hin. In dieser Hinsicht vergleichbar ist eines der früheren Fresken Zimmermanns von 1731/32 im sog. Neuen Festsaal des Klosters Benediktbeuern (OB, LKr. Bad Tölz-Wolfratshausen, s. Bd. 2), welches die Aufnahme eines Adeligen in den Benediktinerorden als prächtig ausstaffierte höfisch-zeremonielle Szene in historisierenden Formen gibt. Da sich das Deckenbild in einer Kapelle befindet, liegt die Vermutung nahe, daß es sich um eine hagio- graphische Darstellung handelt, also etwa um die höfische Jagdgesellschaft des hl. Hubertus (vgl. die Bildbenennungen in der Andechsliteratur), aber es fehlt in dem Bild ganz die wunderbare Erscheinung des Hirsches.
+
+Die Darstellung gibt wahrscheinlich eine Szene aus der Gründungsgeschichte des benachbarten Benediktinerklosters Wessobrunn wieder: Herzog Tassilo III. von Bayern, nach der Tradition der Stifter des Klosters, finde auf der Jagd mit seinen Begleitern Wesso und Torro die drei Quellen von Wessobrunn. – Diese drei Quellen treten im Deckenfresko nicht ebenso deutlich in Erscheinung wie in der Ölskizze (Farbabb. bei Bushart). - Die Wahl des Themas ist vom Auftraggeber her zu erklären: Die Kapelle ist eine Stiftung der Grafen von Törring-Seefeld (1459) und wurde im Auftrag des Grafen Clemens Joseph Gaudenz neu dekoriert und zwar ungefähr in der Zeit des 1000jährigen Jubiläums vom Nachbarkloster Wessobrunn (753-1753). 1754 ist auch eine Festschrift »Tausendmal gesegnete Brunnen Wessonis« erschienen (vgl. G. Hager, in OAVG 48, 1893/94, S. 329). Torro, der Begleiter des Herzogs, wurde von den Grafen Törring-See- feld als ihr Ahne angesehen. (Diese überzeugende Deutung der Szene wird Benno Hubensteiner verdankt, vgl. die Anm. im Katalog Deutsche Barockgalerie)
+
+Nicht nur das Deckenbild der Kapelle weist als Jagdszene auf die zeitgenössische höfische Jagd hin, sondern auch Johann Georg Winters Altarbild, das den hl. Jäger Hubertus mit der Hirscherscheinung zeigt, und eine Votivtafel, welche die Gräfin Törring-Seefeld zum Dank für die Heilung ihres bei der Jagd verletzten Sohnes dem hl. Benedikt vom Berge Andechs gewidmet hat.
+
+
+== Spezialliteratur zur Törringkapelle ==
+
+
+Bushart, Bruno, Ein Skizzenbild J. B. Zimmermanns für Andechs, in: Pantheon 26, 1968, S. 393.
+
+Deutsche Barockgalerie (Städtische Kunstsammlungen Augsburg – Bayerische Staatsgemäldesammlungen), Bd. 2. Bearbeitung Eckhard von Knorre, Augsburg 1970, S. 213. Weitere Literatur siehe S. 316
+
+{{End}}

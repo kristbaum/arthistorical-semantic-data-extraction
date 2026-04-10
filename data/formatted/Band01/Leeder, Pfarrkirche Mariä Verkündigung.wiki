@@ -1,0 +1,94 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=162
+|Originalseitenbis=163
+|Lemma=Leeder, Pfarrkirche Mariä Verkündigung
+|Typ=Sakral
+|Ort=Leeder
+|davor=Landsberg am Lech, Filialkirche St. Johannes
+|danach=Lengenfeld, Filialkirche St. Nikolaus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p162 -->
+
+<!-- header: LEEDE -->
+
+
+== LEEDER ==
+
+
+Pfarrkirche, Gemeinde Fuchstal, Diözese Augsburg; z. Z. der Ausmalung Herrschaft Leeder, die im Besitz des Hochstifts Augsburg war, von dem auch das Präsentationsrecht ausgeübt wurde
+
+
+'''Patrozinium:''' Mariä Verkündigung
+
+
+'''Zum Bauwerk:''' Neubau von LHs und AR um 1740 von Stephan Socher aus Denklingen nach Plänen von Johann Georg Fischer. - Breiter Saalbau zu vier Achsen <math>(19,50 \times 14,10)</math> und eingezogener AR <math>(9,80 \times 8,30)</math> mit halbrundem Schluß; im W Doppelempore
+
+'''Auftraggeber:''' Joseph Landgraf von Hessen-Darmstadt und Fürstbischof von Augsburg (1740-68, Wappen am Chorbogen); der amtierende Pfarrer war Johann Conrad Spoettel (1742–68)
+
+'''Autor und Entstehungszeit:''' Nach Unterlagen des Ordinariatsarchivs schuf Joseph Anton Mörz 1747 die Deckenbilder (Deutsche Gaue . . . Kaufbeuren). Der Vergleich der drei Hauptbilder mit den Fresken in Ellighofen zeigt unverkennbar ein und dieselbe Hand. Die Bilder von Leeder weisen jedoch so entstellende und grobe Übermalunger auf, die vor allem die ursprüngliche Farbgebung verfälschen, daß ihr vorherrschender Eindruck der einer Restaurationsmalerei ist. Sie werden nicht eingehend behandelt doch erscheint es trotz des Erhaltungszustandes sinnvoll die drei Hauptfresken abzubilden, um ein weiteres Werk des noch verhältnismäßig unbekannten Malers vorzustellen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Flachtonne mit Stichkappen
+
+Rahmen: Geschwungene Stuckprofilrahmung, von Rocailleornamenten überlappt
+
+Technik: Fresko mit Seccoübermalungen; sämtliche Bilder polychrom
+
+Maße: A Höhe 10,40 m; 6,20 × 5,10
+
+B Höhe 10,40 m; 5,40 × 5,10
+
+C Höhe 10,20 m; 3,70 × 3,00
+
+Erhaltungszustand und Restaurierungen: Ob die starken Übermalungen nur von der letzten Restaurierung durch B. Coletti, im Jahre 1900 herrühren, ist zweifelhaft. Jedenfalls wurde die Kirche auch im 19. Jh. nach dem damaligen Geschmack umgestaltet, u.a. die Decke mit blauer Farbe übertüncht. Sämtliche Deckenbilder sind dick übermalt und durch eine dem 19. Jh. gemäße Farbgebung in ihrem originalen Charakter schwer beeinträchtigt. Während man in den Hauptfresken A, B und C von der Anlage her noch Kompositionen des 18. Jh. erblicken kann, zeigen die LHs- Kartuschen 1–10, auch dem Schriftstil nach, keine originale
+
+Substanz mehr. Keine Abbildungen von 1–10, C1-4 und Ca-b.
+
+
+== Bildabfolge ==
+
+
+A Der hl. Dominikus predigt in der Kirche. Überkuppelter Innenraum, in dessen Mitte der Heilige steht, umringt von Männern, Frauen und Kindern in zeitgenössisch-phantastischer Kleidung. Basis im Westen.
+
+
+[[File:Band01_chunk004_p007_img001.jpg|thumb|C Anbetung der Eucharistie durch die vier Erdteile]]
+
+
+B Rosenkranzspende. Reine Wolkenszenerie; Dominikus und Katharina von Siena empfangen aus den Händen von Maria und dem Jesuskind den Rosenkranz.
+
+C Anbetung der Eucharistie durch die vier Erdteile. Auf einer angedeuteten Stufen- und Sockelarchitektur erscheinen die Personifikationen der Fides und der Erdteile mit ihrem Gefolge; in Wolken die Monstranz mit der Hostie C1-4 Kirchenväter: C1 Gregor, C2 Augustinus, C3 Hieronymus, C<sub>4</sub> Ambrosius
+
+Ca-b Embleme, monochrom-karmin: Ca Phönix, Cb Pelikan (spätere Zutat?)
+
+1–10 allegorische Mariendarstellungen, bezogen auf das Magnificat mit der versweisen Zitierung desselben in der Reihenfolge von NO nach NW und NW nach NO (zitiert bei Breuer, S. 150)
+
+Das Bildprogramm hängt mit der in Leeder bestehenden Corpus Christi- (C) und der Rosenkranz-Bruderschaft (A, B) zusammen.
+
+
+[[File:Band01_chunk004_p007_img002.jpg|thumb]]
+
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 159 f., Bd 2, S. 72 f. Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 76-98 Hopp, Jakob, Pfründe-Statistik der Diözese Augsburg
+
+Leeder (o. V.), in: Deutsche Gaue, Gemeindebeschreibungen des Bezirksamts Kaufbeuren, 1923 ff. Neu, Wilhelm, Unbekannte Frühwerke des Baumeister Joseph Schmuzer, in: Lechisarland 1963, S. 20.
+
+Breuer, Tilman, Stadt und Landkreis Kaufbeuren (= Kurz inventar der Bayerischen Kunstdenkmale), München 1960, S. 149 ff.
+<!-- citation-page-bottom: Band01 p163 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=8 -->
+{{End}}

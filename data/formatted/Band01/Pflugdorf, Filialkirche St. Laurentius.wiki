@@ -1,0 +1,141 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=184
+|Originalseitenbis=188
+|Lemma=Pflugdorf, Filialkirche St. Laurentius
+|Typ=Sakral
+|Ort=Pflugdorf
+|davor=Petzenhausen, Pfarrkirche St. Peter und Paul
+|danach=Pflugdorf, Filialkirche St. Laurentius, Sakristei
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p184 -->
+
+<!-- header: PFLUGDORF -->
+
+
+== PFLUGDORF ==
+
+
+Filialkirche Sakristei S 188
+
+Filialkirche, Pfarrei Stadl, Diözese Augsburg; z. Z. der Ausmalung mit Pfarrei Stadl Kloster Andechs inkorporiert; Gericht Landsberg
+
+'''Patrozinium:''' St. Laurentius
+
+'''Zum Bauwerk:''' Kirchenneubau wahrscheinlich von dem Münchner Hofmaurermeister Lorenz Sappel († 1759) von 1756 (Hochaltar) errichtet. — Saalbau mit eingezogenem, halbrund geschlossenem AR; im W Empore
+
+'''Auftraggeber:''' Abt Bernhard Schütz von Andechs (1746-59); Kloster- und Abtswappen am Chorbogen
+
+'''Autor und Entstehungszeit:''' Die Gewölbedekoration ist unter Abt Bernhard Schütz von Andechs um 1756 geschaffen worden. Der Stuck stammt von Thassilo Zöpf; der Name des Malers ist nicht überliefert. Stilistisch zeigen die Deckenfresken größte Verwandtschaft zu Johann Baptist Zimmermanns Fresken in der Klosterkirche Andechs um 1753/55 (s. LKr. Starnberg) und jener in Schäftlarn um 1754/55 (OB LKr. München). Aus Zimmermanns Fresken herzuleiten sind die Versatzstücke: Thronarchitektur mit Baldachin (vgl. Benediktbeuern, Bibliotheksfresko St. Benedikt, 1723/24, LKr. Bad Tölz-Wolfratshausen, s. Bd 2; Schäftlarn, LKr München, Vision des hl. Norbert) sowie die Figurentypen und die Gruppenkomposition (Andechser Fresken, s. LKr. Starnberg). Ebenso weist die delikate Farbigkeit mit den charakteristischen Lichtweiten auf Zimmermann hin. Von Zimmermanns eigenhändigen Werken unterscheiden einige Eigenheiten der Ausführung: Farbtonstufungen und Lichtbrechungen sind nicht so subtil getroffen, sie wirken in Draperie und Gewändern flächiger und lappiger, weniger knisternd lebendig. Es fehlen auch die für diese Jahre spezifischen, leuchtenden Rot- und Blau-Töne Zimmermanns. Besonders stark ausgeprägt sind diese Eigenheiten bei den Vordergrundfiguren rechts in A und bei dem buchhaltenden Engel in B. Die Figuren der Pflugdorfer Fresken haben teilweise einen vergleichsweise plumpen Charakter, die Armbeuger z. B. sind keulenartig grob (Kaiser Valerian und Soldaten in A); den Körperwendungen eignet oft etwas abrupt Fahriges, was Zimmermann ganz fremd ist; die Gestensprache der Hände ist weniger preziös, vielmehr pointenhaft zugespitzt. Wie einige der Andechser Kirchenfresken (über der Orgel, an der Emporendecke, in den Abseiten u. a.) sind die Fresken der (umfangreichen) Zimmermann-Werkstatt zuzuschreiben.
+
+Das auf der Axt des knienden Bauern in A befindliche Monogramm HB (ligiert) konnte bisher nicht aufgelöst werden; es weist wohl nicht auf den Namen des Malers
+
+
+[[File:Band01_chunk004_p018_img001.jpg|thumb|A St. Laurentius vor Kaiser Valerian]]
+
+
+
+[[File:Band01_chunk004_p018_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p185 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=19 -->
+<!-- citation-page-top: Band01 p186 -->
+
+<!-- header: PFLUGDORF -->
+
+hin, der sich kaum als Bauer – mit einer Axt! – porträtiert hätte
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Tonne mit Stichkappen, im AR nach O gemuldet
+
+Rahmen: A, B vergoldetes Stuckprofil, bei B von Rocailen durchsetzt
+
+Technik: Fresko; A, B, Aa, EB1-3 polychrom; A1, 3, 6, 8 B1, 4 monochrom grün, A2, 4, 5, 7, B2, 3 monochrom karmin Maße: A Höhe 7,80 m; 8,00 × 4,00
+
+B Höhe 8,00 m; 3,80 × 2,73
+
+Erhaltungszustand und Restaurierungen: 1953 Restaurierung, 1970 Entstaubung. Die Fresken A und B sind im wesentlichen gut erhalten, die Malerei ist stellenweise leicht übergangen, die Himmelspartie in A wirkt etwas flau Haarrisse im Gewölbescheitel in A und B. Die Emblemkartuschen A1-8 und B1-4 sind stark erneuert. Die gestochen scharfe Zeichnung geht auf die Restaurierung zurück (keine Abbildung). As ist durch Feuchtigkeitseinwirkung beschädigt.
+
+
+== Beschreibung ==
+
+
+A ST. LAURENTIUS VOR KAISER VALERIAN Ein prächtiger Thronaufbau, kulissenartig in Szene gesetzt, nimmt die linke Seite des einansichtig angelegten Bildes ein. Über einem Stufenpodest ragt eine stattliche Säule auf, ein verkröpftes Gebälkstück tragend und von einer Imperatorenbüste bekrönt. Eine Draperie, baldachinartig über dem Thronsessel hängend, setzt den Aufbau fort. Den Thronsessel nimmt der Kaiser ein, er wendet sich erregt dem hl. Laurentius zu, welcher in aufrechter Haltung vor ihm an den Stufen des Throns steht. Ein Präfekt zur Seite des Kaisers spricht auf diesen ein, Soldaten mit aufgepflanzten Hellebarden umgeben den Thron. Vom Kaiser nach den Schätzen der Kirche befragt, wendet sich Laurentius um und deutet in beredter Gebärde auf Bresthafte, Kranke und Arme, die ihm zur Gerichtsstätte gefolgt sind. Eine Gruppe dieser erbarmungswürdigen Menschen lagert auf einem schräg ansteigenden, durch wenige Wiesenpflanzen gekennzeichneten Erdstück rechts im Vordergrund. Eine zweite, stehende Gruppe wird vor einem Torbogen sichtbar; dieser begrenzt den seichten Bühnenraum. Die schlichten Würdeformen des Bogens betonen die ragende Gestalt des hl. Laurentius in der Mitte des Bildes zwischen Kaiser und armem Volk.
+
+Farblich sind die Gestalten von Kaiser und Heiligen zugleich mit dem Thronaufbau durch lichte Töne – Gelbgold und Weiß, Gelbgold und weiß changierendes Rosa und Grün – zusammengebunden. Im Vordergrund herrschen dunkler nuancierte Farbtöne, den hinteren Torbogen bestimmen in Grau gebundene Farben. Über den Schauplatz spannt sich weit ein lichtblauer Himmel mit zartem Wolkenflor; die leichte Grauverschmutzung nimmt besonders in dieser Partie den Freskofarben etwas ihre Strahlkraft.
+
+B DER HL. LAURENTIUS Das kleine Bildfeld des Chores zeigt den hl. Diakon in der Glorie. Der Heilige kniet auf einer aufwärts strebenden Wolke, das Haupt nach oben, zu dem lichten Himmelszeichen der Hl. Dreifaltigkeit gewendet, die Arme gleich einem Oranten ausgebreitet, die Rechte das Zeichen des Martyrersieges, einen Palmzweig haltend. Engel umringen den Heiligen, sie halten Marterrost, Lorbeerkranz und ein aufgeschlagenes Buch mit der Inschrift: Regnum / Celorum / Vim pati/tur. Math. / 11. 12 / Daß Himmel-/reich Leyd/et gewal(t). Die prophetischen Worte Jesu kommentieren hier das Martyrium des hl. Laurentius.
+
+Lichtes Rosaocker, Weiß und Gelbgold in der Gestalt des Heiligen, die gleichen Töne und wenig mattes Blau und Grün bei Engeln und Gegenständen heben sich von den dunstigen Ocker- und Schiefertönen der Wolken ab. Der reicher ornamentierte goldene Stuckrahmen hebt den feierlichen Charakter des Chorfreskos hervor.
+
+A1-8, B1-4 EMBLEME Die stark restaurativ übergangenen Emblemkartuschen zeigen auffallenderweise keine Lemmata. Diese müssen ursprünglich jedoch vorhanden gewesen sein. Die Embleme zeigen beliebte Objekte (Adler, Biene, Baum etc.) von so vielfältiger Bedeutung, daß eine spezielle Deutung ohne Lemma nicht möglich ist (keine Abbildungen).
+
+A1 Bienenstock, aus dem Bienen auf Blumen ausschwärmen
+
+A<sub>2</sub> Festung, von deren Söller eine Kanone losfeuert
+
+A<sub>3</sub> Am Boden liegender Mann vor Bundeslade
+
+A4 Geier stürzt sich auf eine Schar Vögel
+
+A5 Springfontäne in Gartenlandschaft
+
+A6 Schlange und Drachen fliehen vor Bär
+
+A7 Hand aus Wolken fällt Laubbaum mit Axt
+
+A8 Adler erhebt sich von Balken
+
+B<sub>1</sub> Auffliegender Adler
+
+B<sub>2</sub> Aufgehende Sonne über Landschaft
+
+B<sub>3</sub> Adler trägt Junges zur Sonne
+
+B4 Bienenkorb, von Sonne beschienen, von dem die Bienen ausschwärmen
+
+Aa Hl. Geist-Loch mit Taube des Hl. Geistes auf dem Deckel (keine Abbildung).
+
+Ab Das Medaillonfresko über der Orgel – von den Orgelpfeifen fast ganz verdeckt – zeigt das Auge Gottes von zwei Puttoköpfen umgeben (keine Abbildung).
+
+Ergänzungen zur Ikonographie: Fresko A gibt die Gerichtsszene aus der legendären Passio (vgl. Ribadeneira-Hornig, Bd 2, 10. Aug., S. 187–93) des hl. Laurentius wieder. Der römische Kaiser ist in phantastische Gewänder gehüllt – am auffälligsten der Hennin, auch seine Begleiter tragen phantastisch-historisierende Kostüme. Säule und Imperatorenbüste spielen deutlich auf das antike Rom an
+
+
+[[File:Band01_chunk004_p019_img001.jpg|thumb]]
+
+
+Der Präfekt stellt vielleicht den zum Christentum bekehrten Kerkermeister des Laurentius, Hippolytus, dar. Der Heilige wird im liturgischen Diakonsgewand wiedergegeben. Unter den Armen und Bresthaften fällt der Bauer in zeitgenössischer Tracht mit dem kantigen, porträthaft gezeichneten Kopf auf.
+
+EB1-3 Thematisch gehören zu dieser Szene die Bilder an der Emporenbrüstung (Johann Baptist Baader zuzuweisen, vgl. Pähl, LKr. Weilheim): Laurentius nimmt Abschied von Papst Sixtus II.; er teilt die ihm anvertrauten Schätze der Kirche aus; Martyrium des Heiligen. Das Martyrium kehrt noch einmal in der Darstellung des Hoch-
+
+
+[[File:Band01_chunk004_p019_img002.jpg|thumb]]
+
+
+altarblattes (Johann Baptist Baader zugeschrieben) wie der. Hieran knüpft die Gloriendarstellung des Chorfreskos unmittelbar an.
+
+Literatur s. S. 188
+
+
+[[File:Band01_chunk004_p019_img003.jpg|thumb|EB<sub>2</sub> Laurentius verteilt die Schätze der Kirche]]
+
+
+
+[[File:Band01_chunk004_p019_img004.jpg|thumb|EB3 Martyrium des Laurentius]]
+<!-- citation-page-bottom: Band01 p187 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=20 -->
+<!-- citation-page-top: Band01 p188 -->
+
+<!-- header: PFLUGDORF -->
+{{End}}

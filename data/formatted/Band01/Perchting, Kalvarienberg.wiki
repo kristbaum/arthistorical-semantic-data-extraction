@@ -1,0 +1,48 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=341
+|Originalseitenbis=341
+|Lemma=Perchting, Kalvarienberg
+|Typ=Sakral
+|Ort=Perchting
+|davor=Perchting, Pfarrkirche Mariä Heimsuchung
+|danach=Schlagenhofen, Filialkirche St. Michael
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+== Kalvarienberg ==
+
+'''Zum Bauwerk:''' Halbrunde Nische (5,45 × 8,90 m), von Pilastervorlagen flankiert; Kalotte; geschwungener Giebel
+
+'''Autor und Entstehungszeit:''' 1774 war Johann Baptist Baader mit den Fresken der Kirche in Perchting beschäftigt. Dem stilistischen Befund nach zu urteilen hat Baader im gleichen Jahr auch dieses Nischenfresko geschaffen.
+
+== Befund ==
+
+Träger der Deckenmalerei: Nischeninnenwand und Kuppel als oberer Abschluß der Nische
+
+Rahmen: Architektonische Rahmung, Pilaster und Gurtbogen mit ornamentaler Bemalung
+
+Technik: Fresko; polychrom
+
+Maße: Höhe der Nische 8,00 m; 2,10 × 4,10
+
+Erhaltungszustand: Der Putz wurde mehrfach ausgebessert, zwei Schichten späterer Übermalungen sind sichtbar; starke Veränderungen im Detail
+
+== Beschreibung und Ikonographie ==
+
+GOLGOTHA Im unteren Teil der Nische plastische Golgothagruppe mit Kruzifix, den beiden Schächern und Maria unter dem Kreuz.
+
+In der Halbkuppelwölbung ist Gottvater dargestellt, neben der Weltkugel auf Wolken thronend, von einer hellen Himmelsöffnung und einem Kranz von Engelsköpfchen wie von einer Glorie umgeben. Seine Rechte weist segnend auf Christus. Über dem Kreuz schwebt die Taube des Geistes. Rechts in den Wolken die schmale Sichel eines Himmelsgestirns bedeutet die Verfinsterung der Sonne nach Christi Tod. Inschrift am Giebelbogen in einer Kartusche: Sieh das Holz des Kreuzes, / an welchem das Heil der Welt hing (Schriftstil spätes 19. Jh.)
+
+[[File:Band01_chunk007_p021_img002.jpg|thumb]]
+
+Literatur siehe S. 340
+<!-- citation-page-bottom: Band01 p341 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=22 -->
+{{End}}

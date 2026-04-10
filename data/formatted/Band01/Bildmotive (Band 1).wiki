@@ -1,0 +1,60 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=642
+|Originalseitenbis=643
+|Lemma=Bildmotive (Band 1)
+|davor=Embleme-Register (Band 1)
+|danach=Lateinische Lemmata (Band 1)
+}}
+
+Adler 130 f., 186, 270, 315, 353, 354, 583 f. Amboß 107 f. Anker 579 Apfelbaum 206 Apothekerschrank 545 f. Ararat 182, 454 f. Arche Noe 182, 454 f. Äskulapstab 316 Axt 186
+
+Balsambaum 107 Bär 65, 186 Basilisk 579 f. Baum, Bäume 94, 164 f., 186, 197, 454, 586, 587 f. Berg 182, 353. → Ararat, → Felsen Bienenkorb, Bienenstock 65, 186, 315, 577, 583 f. Bild, Bildleinwand 94, 577 Blitze 182, 315, 320 f., 583 f., 587 f. Blumen 107, 130, 131, 186, 315 Blut 131 f. Boot → Schiff Brett 270 Brunnen 107, 186 Buch 315 Buchstabe – B – 577 Bundeslade 186
+
+Destillierofen 315 Dornen, Dornenhecke 165, 585 f., 587 Drachen 186
+
+Eiche, Eichenlaub 583 f Elefant 584
+
+Esche 580 Engel 107
+
+Fels 182, 197, 233, 581, 589 Festung 182, 186 Feuer, Flammen 107, 108, 130 f., 242, 244, 315, 353, 418, 582, 583, 587 Fisch 316 Fluß 94, 582 Früchte 545 f. Füllhorn 454, 545 f.
+
+Garten 107, 206, 242, 315, 586 Gärtner 94 Gefäß – vas 353 Geier 186 Getreidekasten 545 f. Gießkanne 131 f. Gold 107 f., 242, 244 Granatapfel 416 Gürtel, Abzeichen der Bruderschaft Maria vom Trost 170 f.
+
+Hecke → Dornenhecke Henne mit Küken 455 Herrschaftsinsignien, weltliche und geist 454. → Krone Herz 130 f., 494 Heuschrecke 586 f. Hippe 94, 131 f. Hirsch 242, 244, 416, 418, 455, 578 f. Holz, Holzstoß 587 Honig, Honigwabe 577 Hortus conclusus -> Garten
+
+Insignien → Herrschaftszeichen, → SPQF Janus 315 Jupiter 315
+
+Kanone 131 f., 182, 186 Kelch 108, 182 Kerze 580 f. Kind 107 Kompaß 593 Koralle, Korallenzweig 580 Kornfeld 545 f. Koronis 316 Krone, Kronen 164 f., 315 Kruzifix 270
+
+Landschaft mit Wasser und Bäumen natura 315 Laterne 580 f. Lerche 578 Lichtstrahlen 248 f., 321. → Sonne Lilie, Lilien 131 f., 165, 416 Lorbeer 182, 197, 587 f. Löwe, Löwen 131, 455 Lucidia → Scheinvogel Luntenstock 131 f.
+
+Meer 182, 197, 270, 320 f., 575, 577, 579, 580, 581
+
+Merkur 315, 316 Mond 94 Monocodiata → Paradiesvogel Morgenstern 249 Mörser 316, 320 f. Münze, Münzen 545 f. Muschel → Perlmuschel Musikinstrumente 107 Mutter 107
+
+Nest 315, 587 Nordstern 593
+
+Obelisk 588. → Pyramide Ofen → Destillierofen Olbaum, Olbaumzweig 270, 454, 580
+
+Palme, Palmwedel 197, 546 f., 583 Pfau 581 Pfeil, Pfeile 93 f., 416, 584 Phönix 108, 162, 545 f., 582 Polypen 581 
+
+Quelle 242, 244, 578 f.
+
+Regen 107 f., 122, 124, 242, 244, 516, 585 Regenbogen 108, 121 f., 124, 454 Ring, Ringe 353 Rose, Rosen 131 f., 416, 546 f. Rosenkranz 108
+
+Salamander 583 Säule 588 Scheinvogel – lucidia 584 f. Schiff 233, 270, 579 Schiffbrüchiger 270 Schilfrohr 586 Schirm 585 Schlange, Schlangen 186, 580, 586 f., 587 Schlüssel 182 Schwan 315, 582 Schweine 586 Segelboot → Schiff Sisyphus 589 Sonne 65, 130, 131, 186, 205, 233, 270, 285, 315, 321, 353, 354, 455, 516, 575, 577, 581 f., 588, 593 f. → Lichtstrahl Sonnenblume 76, 130 f., 354, 577 f. Spiegel 130 f., 579 f. S.P.Q.R. 588 f. Staffelei 94 Statue – ars 315 Staubkorn 589
+
+Stern, Sterne 94, 249, 353, 585. → Nordstern Sternfisch – stella 584 Stößel 320 f.
+
+Tal 206 Taube 454 Tobias 316 Trompete 593 Tulpe, Tulpen 131 f. Tümpel 581 f. Turm 93 f., 131 f., 233, 516, 593
+
+Vogel, Vögel 242, 244, 315. Vogelbauer 242, 244 Vulkan 418
+
+Waage 315 Waffen 588 f. Wanderer 65, 584 f. Wasser 315, 546 f. → Fluß, → Meer, → Quelle, → Regen, → Tümpel Weinberg 585 f. Weinstock 131 f., 206, 416, 454 Wind 315, 580 f., 585, 586, 588, 589 Windlicht → Laterne Wolke 546 f., 577 Würfel 589 f.
+
+Zirkel 579
+
+{{End}}

@@ -1,0 +1,498 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=602
+|Originalseitenbis=623
+|Lemma=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|Typ=Sakral
+|Ort=Wies bei Steingaden
+|davor=Wies bei Steingaden, Wieskapelle
+|danach=Ortsregister (Band 1)
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p602 -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+Wallfahrtskirche Wies, Gemeinde und Pfarrei Steingaden, Diözese Augsburg; z. Z. der Ausmalung im Besitz des Prämonstratenserstifts Steingaden
+
+'''Patrozinium:''' St. Joseph, Wallfahrt zum Gegeißelten Heiland
+
+'''Zum Bauwerk:''' Um das primitive Bild des Gegeißelten Heilands, das aus dem Kloster Steingaden in den Besitz der Wiesbäuerin Maria Lory gelangt war, entwickelte sich seit einem Tränenwunder im Jahr 1738 eine rege Wallfahrt. Die rasch erbaute Kapelle reichte bald nicht für den großen Zustrom zu dem neuen Gnadenbild aus, so daß Abt Hyazinth Gaßner von Steingaden (1729-45) den Bau einer großen Wallfahrtskirche plante. Den Auftrag erhielt Dominicus/Zimmermann/Baumeister/v: Landsberg (Signatur unter der Orgelempore); er lieferte 1744 einen ersten Plan. Unter Gaßners Nachfolger Abt Marian II. Mayr (1745-72) wurde 1745 der Bau des Altarhauses begonnen, 1746 die feierliche Grundsteinlegung vollzogen, am 24. August 1749 das Altarhaus eingeweiht und am 31. desselben Monats das Gnadenbild übertragen. In den Jahren 1750-54 erfolgten Bau, Stuckierung und Freskierung des Gemeindehauses. Am 1. September 1754 wurde die Kirche konsekriert.
+
+Der Bau besteht aus einem zentralen Hauptraum, dem eine segmentförmige Vorhalle vorgelagert ist, und einem Altarhaus, dessen gerader Schluß an den Ecken abgerundet ist. In dem aus zwei Halbkreisen mit eingeschobenem Rechteck gebildeten Ovalraum sind acht Doppelpfeiler eingestellt, so daß ein schmaler Umgang entsteht. Die Pfeilerpaare betonen durch unterschiedlich weite, rhythmisierte Abstände Längs- und Querachse und deuten ein Querschiff an. Das dreiachsige Altarhaus weist eine doppelschossige Gliederung auf. Die um drei Seiten des Raumes laufenden Umgänge enden im Emporengeschoß in Kanzel bzw. Abtsloge. Unten tragen Pfeiler, in den Emporen Säulen reichstuckierte Arkaden. Die Stukkaturen werden als eine gemeinsame Schöpfung der Brüder Zimmermann angesehen (Schnell, GKF 1960, S. 17 f.); C. Lamb (1964, S. 67 f.) schreibt – mit Hilfe der Aufrißzeichnung für die südliche Altarhauswand der Wies im Stadtmuseum Weilheim – einen entscheidenden Anteil der Altarhausdekoration Johann Baptist Zimmermann zu (vgl. dagegen Hitchcock, S. 73 f.).
+
+'''Auftraggeber:''' Abt Marian II. Mayr von Steingaden (1745-72); Initialen an der Brüstung der Abtsloge; Kloster- und Abtswappen am Chorbogen
+
+'''Autor und Entstehungszeit:''' Die Signatur in C am Sockel der Martersäule Zimmerman/ pinx sichert die Fresken für den Hofmaler und Stukkator Johann Baptist Zimmermann. Nach einer nicht belegbaren lokalen Tradition soll sein Sohn Franz Michael Zimmermann mitgearbeitet haben. Das Weihedatum der Kirche 1754 gilt in der Literatur allgemein als terminus ante quem für Altarhaus- und Gemeinderaumfresken. In der von H. Schnell 1960 erstmals zitierten Wallfahrtschrift {ZITAT|000}} von 1776 wird die Ausmalung der Kirche einmal ausdrücklich erwähnt (S. 20): {ZITAT|001}} Auf S. 16 der gleichen Schrift wird aber auch berichtet, daß der Chor {ZITAT|002}} Entsprechend heißt es in Teil 3 der von C. Lamb zitierten Mirakelbücher {ZITAT|003}} (1937 Teil 1 und 2, 1948 Teil 3), im Jahre 1749 sei {ZITAT|004}} (S. 1). C. Lamb datiert den Stuck des Altarhauses nach den Angaben der {ZITAT|005}} und nach stilistischen Kriterien (s. o.) in das Jahr 1749. Die angeführten Berichte legen die Annahme nahe, daß auch die Fresken (C, D D<sub>1-2</sub>, ED<sub>1-6</sub>) zur Einweihung des Altarhauses 1749 vollendet waren.
+
+Gewisse anschauliche Unterschiede, welche die Fresken im Altarhaus und im Gemeinderaum aufweisen, können als stilistische Kriterien für die Annahme eines Zeitabstandes von rund fünf Jahren zwischen der Freskierung der beiden Raumteile angeführt werden, sie weisen jedoch ebenfalls auf eine unterschiedliche Handhabung bei der Ausführung der Fresken durch Johann Baptist Zimmermann hin. Fresko C im Altarhaus ist eines der dichtesten Werke Zimmermanns überhaupt; dies betrifft den kompositionellen Aufbau ebenso wie die Licht-Farb-Komponenten, die bei aller Präsenz der Gegenstände auch die Raumintentionen völlig verdeutlichen. Die hervorragende Qualität des Deckenbildes ist wohl auf weitgehende Eigenhändigkeit von Entwurf und Ausführung zurückzuführen.
+
+Fresko B im Gemeinderaum zeigt in Komposition und Ausführung nicht diese Dichte und Differenziertheit. Dabei ist zu erinnern, daß die Parusie gegenüber C auch formal eine andere Aufgabe darstellt, besonders wegen der Bildwirksamkeit der architektonischen Gegenstände. Die Bewältigung größerer Malflächen durch Figürliches ist nicht Zimmermanns Stärke. Die Figuren scheinen im Freskofeld wenig bestimmend, wirken vielmehr wie hingestreut. Andererseits ermöglicht der spezifisch Zimmermannsche Einsatz von Buntfarben und Licht bei Abwesenheit des Dunkels in einem Freskofeld dieses Ausmaßes eine besonders überzeugende Höhenillusion. Nicht zu übersehen sind Qualitätsschwankungen im Detail. Von daher kann mit großer Wahrscheinlichkeit auf die Mitarbeit von Gehilfen geschlossen werden. Eine solche legte der materielle Umfang der Arbeit nahe. Daneben kennt der Kunstbetrieb der Zeit unterschiedliches Engagement, sei es in der zeitlichen Folge einer Freskenserie, sei es nach Position und Bedeutung innerhalb des Ensembles.
+
+Die kleinen Begleitfresken zeigen auffällige Qualitätsunterschiede. Die biblischen Szenen im Umgang des Gemeinderaumes U1-8, die Puttodarstellungen B1-8, Ba-d, Ua-d, UI-IV sowie im Altarhaus D1-2 sind augenscheinlich durch Gehilfen ausgeführt worden
+
+
+[[File:Band01_chunk013_p002_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p603 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=3 -->
+<!-- citation-page-top: Band01 p604 -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+<!-- header: WIES BEI STEINGADE -->
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Flachtonne, B elliptisches, zum Zentrum hin abgeflachtes Muldengewölbe, C Tonne, D Flachkuppel über hoher Kehle, D<sub>1-2</sub> Flachdecken, U<sub>1-8</sub> Flachtonnen, ED1-6 querelliptische Flachkuppeln; die Gewölbe bestehen aus verputzten Holzlatten
+
+Rahmen: A gegenläufig gekurvte Profilstücke in Stuck, von Rocailleornamenten teils über-, teils unterschnitten
+
+von Rocanicomanicinch tens uper-, tens unterschintten B gesimsähnliches, aus geraden und gekurvten Stücken zusammengesetztes Stuckprofil am Gewölbeansatz, darüber eine stuckierte Zone, in der sich Elemente der Architektur – eine Art Attika mit Giebeleinsätzen und Logen –, des Ornaments – Rocaillen, Girlanden, Kartuschen – und der Malerei – illusionistisch gemalte Thron- und Torarchitektur sowie die illusionistischen Deckenöffnungen Ba-d – verbinden (vgl. hierzu Beschreibung und Stilanalyse bei Rupprecht 1959, S. 40)
+
+B<sub>1</sub>-8 Rocaillekartuschen
+
+C gegenläufig gekurvte Profilstücke in Stuck, an der Nund S-Seite abgewechselt von fächerförmigen, flammenartig gebildeten Stuckornamenten, an der O-Seite ersetzt durch die Profilstücke des stuckierten Altarbaldachins
+
+D Rahmen des Hochaltarbildes an der O-Seite, stuckierte Giebel an der N- und S-Seite, schmaler, ornamentierter Stuckreifen an der W-Seite
+
+D<sub>1-2</sub> schmale, gekurvte Stuckprofile
+
+U<sub>1-8</sub> Stuckprofile, über- und unterschnitten von Rocaille ornamenten
+
+Ua-d, UI-IV Stuckprofile, teilweise von Rocailleornamenten überlappt
+
+ED1-6 schmale Stuckprofile, seitlich von Stuckornamenten unterschnitten
+
+Der weiße Stuck ist reich vergoldet und teilweise hellfarbig getönt.
+
+Technik: Fresko; A, B, B<sub>a-d</sub>, C, D, D<sub>1-2</sub>, U<sub>1-8</sub>, ED<sub>1-6</sub> polychrom; B1-8, Ua-d, UI-IV Grisaillemalerei auf gelben Grund
+
+Maße: A Höhe 16,30 m; 3,90 × 6,70
+
+Höhe 20,6 m; (Stich 4,20 m); 22,00×17,50
+
+C Höhe 16,30 m; 9,10 × 6,90
+
+D Höhe 16,30 m (von der Empore 11,60 m); <math>3,30 \times 4,40</math>
+
+D<sub>1-2</sub> Höhe (von der Empore) 11,60 m; 3,50×1,90
+
+U<sub>1,3,5,7</sub> Höhe 16,30 m; 2,30 × 5,00
+
+U2,4,6,8 Höhe 16,30 m; 1,80 × 3,60
+
+ED1-6 Höhe (von der Empore) 11,60 m; 2,00 × 3,30
+
+Erhaltungszustand und Restaurierungen: Restaurierungen fanden 1903/04 und 1970/71 durch W. Peltzer statt. In beiden Fällen betrafen die Restaurierungsmaßnahmen vorwiegend die Gemeinderaumfresken A, B und U<sub>1-8</sub>, die aufgrund von immer wiederkehrenden Dachschäden schon im 19. Jh. durch Feuchtigkeitseinwirkungen beeinträchtigt waren (Akten des Landbauamtes Weilheim. 1831, im StAMü, s. Lamb 1937, S. 23 und Akten Wies im B. L. f. D.).
+
+Die Farbabbildungen des Gemeinderaumes zeigen die Fresken A, B, U5 in neurestauriertem Zustand, die Farbabbildung von Fresko C und alle Schwarz-Weiß-Abbildungen zeigen die Fresken in ihrem Erhaltungszustand von der letzten Restaurierung 1970/71.
+
+A retuschierte Stelle am Sockel links. B verkittete Risse und retuschierte Stellen in der Himmelspartie um Thron und Tor, Übermalungen in den Apostelgruppen auf der S- Seite (Petrus und Johannes) und der N-Seite (Judas Thaddäus, Jakobus Major). B1-8 Risse und geringfügig retuschierte Stellen. Ba-d Risse und Putzabblätterungen in den Tonnenwölbungen. C mit Ausnahme von Schimmelbildungen am W- und O-Rand ist das Fresko sehr gut erhalten. D radiale Risse, vom Rahmen ausgehend, Farbsubstanz sehr gut erhalten. D1-2 zahlreiche feine Risse, in D1 zwei größere Querrisse. U1 Feuchtigkeitsschäden in der rechten Bildhälfte, die Holzlatten der Gewölbekonstruktion scheinen durch die dünne Putzschicht. U2 Fehlstellen in der Gruppe der Jünger und im Laubwerk des Baumes. U3 mehrere durchgehende Längsrisse, schwere Feuchtigkeitsschäden im Mittelteil des Freskos. U4 Risse, Feuchtigkeitsschäden. U5 Schimmelbildungen im rechten Bildteil, Durchzeichnen der Lattenkonstruktion. U6 Feuchtigkeitsschäden und fleckige Übermalungen im ganzen Bildfeld. U7 tiefgreifende Feuchtigkeitsschäden und zahlreiche Fehlstellen, in der rechten Bildhälfte dunkle Flecken (verursacht durch die 1903/04 angewandte Restaurierungstechnik mit Leimfarben). U8 Riß mit Abblätterungen im Gewand der Samariterin, Risse und Feuchtigkeitsschäden. Ua-d, UI-IV Risse, leicht fleckig. ED1-6 Schimmelbildungen, zumeist vom Bildrand ausgehend und Farhabhlätterungen in den Runtfarben
+
+
+== Beschreibung ==
+
+
+A NATHAN VOR DAVID (2 Sam 12,1—25) Das querformatige Fresko über der Orgelempore hat seine Basis im Westen. Der die Kirche verlassende Betrachter blickt in einen durch Stufen, Konchenwände und Säulen gebildeten Bühnenraum, der sich nach rechts durch eine Arkade ins Freie öffnet. König David sitzt an einem mit Büchern und Schreibgerät bedeckten Tisch, seine Rechte auf die Harfe gestützt, und lauscht reuebewegt der Bußpredigt des Propheten Nathan.
+
+Die figürliche Szene ist in den intensiven Farben Blau und Weiß sowie Rot und Orangegelb von einem in hellen graublauen und rosagrauen Mischtönen gehaltenen Schauplatz abgesetzt. Hinzu kommen in großen Flächen die Komplementärfarben Rot und Grün von Draperie und Sockel im Vordergrund.
+
+B PARUSIE – DIE WIEDERKUNFT DES HERRN IN HERRLICHKEIT (Mt 24,30-31) Von dem Standort unterhalb der Freskomitte sind sowohl die Parusiedarstellung als auch die biblischen Szenen der Umgangsfresken (U1-8) zu betrachten. Auch der Hochaltar mit dem Gnadenbild und die Darstellung in Fresko C im Altarhaus erschließen sich im großen ganzen dem Betrachter von hier aus.
+
+Das Freskofeld B überspannt den ganzen, von acht Freistützen umstellten Gemeinderaum. Es hat eine zentralper-
+
+
+[[File:Band01_chunk013_p003_img001.jpg|thumb|U5 Jesus und die Ehebrecherin, Umgangsgewölb]]
+<!-- citation-page-bottom: Band01 p605 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=4 -->
+<!-- citation-page-top: Band01 p606 -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+Spektivische Bildanlage. Die ornamentale Stuckzone bildet keine feste Begrenzung der Himmelsszenerie, vielmehr verbindet sich der gemalte Himmel als Grund der Ornamente mit derselben; Bildgegenstände ersetzen an zwei Stellen die stuckierte Attika.
+
+Licht, Perspektive und Komposition machen die Gestalt Christi auf dem Regenbogen zum Bildmittelpunkt. Mit der linken Hand berührt Christus seine Seitenwunde, seine rechte weist empor auf das Lichtzentrum mit dem Leidenskreuz zu seinen Häupten. Engel tragen das Kreuz und die Weltkugel heran.
+
+Vier Gruppen verschieden charakterisierter Engel sind im inneren Himmelskreis um Christus und die Kreuzglorie geordnet. Unterhalb des Regenbogens, der sich quer über den östlichen Bildhimmel wölbt, stehen auf einer Wolkenbank Maria und die Erzengel. Auf den seitlich anschließenden Wolkenbänken, längs der N- und S-Begrenzung des Freskos, durch den Regenbogen von der Mariengruppe getrennt, sind die Apostel farbig akzentuiert wiedergegeben. An den Enden der Wolkenausläufer – östlich und westlich – haben die zum Blasen ansetzenden Posaunenengel ihren Platz.
+
+Am östlichen Ende des Freskos steht auf einem zweistufigen Podest der Richterthron Christi. Eine schmale, illusionistisch die Stuckzone fortsetzende Attika ist das ästhetisch vermittelnde Gelenk. Die Thronbank steht in einem prächtigen, ornamental geformten Baldachinbau. Vor den seitlichen Säulen sind als Thronwächter zwei Engel postiert. Gegenüber im W erhebt sich unvermittelt auf einem schmalen Terrainstreifen über einem vierstufigen Sockel eine Portalarchitektur. Die zweiflügelige, verschlossene Holztür ist in einen säulenbesetzten steinernen Torbogen gefügt. Das Portal wie auch der Thron ragen wie Versatzstücke aus der Architektur ornamental in die Himmelszone des Freskos (Hermann Bauer, Der Himmel im Rokoko. Das Fresko im deutschen Kirchenraum des 18. Jh., Regensburg 1965, S. 62).
+
+In der kompositionellen Bildanlage folgt der Maler der architektonischen Gestalt des Raumes, der Verschmelzung von Zentral- und Längsrichtungen. Der annähernd radialen Anordnung der Figuren und Wolkenbänke liegt das alte Ringkuppelschema zugrunde. Zugleich wird die Längsrichtung durch die beiden architektonischen Bildgegenstände stark betont. Letztere markieren die Mittelachse und verleihen dem Bildraum illusionistische Höhendimension. Als einzige perspektivisch konsequent konstruierte Architektur steht das Tor gegen den sonstigen, ornamental organisierten Zusammenhang und erfordert deshalb die strikte Einhaltung des Betrachterstandpunktes. Die illusionistische Wirkung des den Gemeinderaum bestimmenden Deckengemäldes beruht weitgehend auf der durchlichteten, von sattem Himmelsblau über gelblichgrau-weiße Abstufungen zur weißgelben Lichtglorie um das Kreuz und dem strahlenden Weiß des Gewandes Christi erhöhten Farbigkeit. Der Thron und vor allem das Tor wirken als perspektivische Anstöße und Einführung zur unendlichen Licht-Farb-Atmosphäre. Die Figuren scheinen eher von diesem Sog erfasst, als daß sie selber an der Illusion der Höhe und Weite mitwirkten. Analog der Auflichtung der an der O-, N- und S-Seite fleckig eingesetzten Buntpartien verkleinert sich auch der Figurenmaßstab zur Mitte hin. Regenbogen und Gloriole um das Kreuz sichern jedoch das anschauliche Gewicht des inhaltlichen Zentrums.
+
+Wesentlichen Anteil an der Illusion des Grenzenlosen hat die singuläre Gestaltung der Rahmenzone in weißgoldenem Ornament. Mit ihrem quasiarchitektonischen Charakter, der den Einschub des gemalten Thrones bzw. Tores erlaubt, vermittelt sie zum Aufenthaltsort des Betrachters. Auch dieser, von »Lichtwänden« umstellt, erscheint dem Auge grenzenlos, und so überhöht die anschauliche und inhaltliche Grenzenlosigkeit der Deckenmalerei über die Vermittlung der Rahmenzone den Gemeinderaum zu einem empirischer Wirklichkeit enthobenen, heilsträchtigen Ort (vgl. Rupprecht 1959).
+
+Ba-d PUTTI IN LOGEN Am ornamental organisierten Gewölbeansatz befinden sich vier reale, vom Dachboden her betretbare Logen, die mit Balustraden ausgestattet sind. Muschelformen in Stuck rahmen die bogenförmigen Öffnungen. Stuck und Malerei täuschen eine gemauerte Wandung und Kalotte mit einer kreisrunden Öffnung darin vor. Die in den Himmelsausschnitt gemalten Putti schauen gleichsam von draußen in den Kirchenraum hinein. (Photographische Aufnahmestandorte in den Logen.)
+
+Ba Putto mit erhobenem Finger
+
+[[File:Band01_chunk013_p004_img001.jpg|thumb]]  
+[[File:Band01_chunk013_p004_img002.jpg|thumb]]  
+[[File:Band01_chunk013_p004_img003.jpg|thumb]]  
+[[File:Band01_chunk013_p004_img004.jpg|thumb]]  
+[[File:Band01_chunk013_p004_img005.jpg|thumb|B Parusie – Die Wiederkunft des Herrn in Herrlichkeit]]  
+[[File:Band01_chunk013_p004_img006.jpg|thumb]]  
+
+<!-- citation-page-bottom: Band01 p607 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=5 -->
+<!-- citation-page-top: Band01 p608 -->
+
+[[File:Band01_chunk013_p005_img001.jpg|thumb]]
+
+== B1-8 DIE ACHT SELIGKEITEN ==  
+Die Zwickelkartuschen oberhalb der acht Freistützen des Gemeinderaumes verbinden sich durch die Stuckrocaillen sowie durch die Farben Weiß-Grau und Gold bei Stuckornament und figürlicher Darstellung ästhetisch mit der stuckierten Ornamentzone darüber. Putti stellen durch Handlung und sinnbildliche Gegenstände die acht Seligkeiten der Bergpredigt (Mt 5,3—10) allegorisch dar.
+
+B1 Putto, der sich von irdischen Gütern, die aus einem Füllhorn quellen, ab- und dem Dreifaltigkeitssymbol zuwendet: Selig die Armen im Geiste.
+
+B<sub>2</sub> Putto mit Lamm: Selig die Sanftmütigen.
+
+B3 Weinender und händeringender Putto: Selig die Trauernden.
+
+B4 Putto präsentiert eine Waage und deutet auf Speise und Trank: Selig, die hungern und dürsten nach der Gerechtigkeit.
+
+B5 Putto, Geldstücke austeilend: Selig die Barmherzigen.
+
+B6 Putto mit Herz, dem das Reinheitssymbol der Lilie entwächst: Selig, die reinen Herzens sind.
+
+B7 Putto hält einen Ölzweig, Sinnbild für Frieden und Versöhnung, über ein Liktorenbündel, Sinnbild der strafenden Gerechtigkeit: Selig die Friedfertigen.
+
+B8 Putto mit Geißel und Passionskreuz: Selig, die Verfolgung leiden um der Gerechtigkeit willen.
+
+Gottvater und schließlich die Gruppe mit Schweißtuch, Lanze und Ysopstab sowie Knüppel und Dornenkrone. Durch Gesten, Blickrichtungen und Bezüge der Komposition entsteht eine die Gruppen umfassende Rundform, die jener der Himmelsglorie entspricht. Gottvater als verklammernde Gestalt ist somit auch kompositionell als Zentrum ausgezeichnet. Auch das Kreuz tritt nach Größe, Position im Bild und Farbigkeit in verbindender Funktion auf. Heiliggeisttaube, Gottvater und Kreuztitulus INRI bezeichnen in symbolischer Dreiecksanordnung die Hl. Dreifaltigkeit. Übergegenständlich ist das Malfeld durch eine gegensinnig verlaufende S-Kurve bestimmt, die im Osten mit den dunklen Wolken beginnt, sich über die Gruppe links zu Gottvater fortsetzt und im Gegenschwung beim Engel mit dem Weihrauchfaß endet. Jede Gruppe ist durch einen Farb-Lichtbereich charakterisiert: Gottvater im Goldlicht der großen, das westliche Bilddrittel füllenden Gloriole.
+
+[[File:Band01_chunk013_p005_img002.jpg|thumb]]
+[[File:Band01_chunk013_p005_img003.jpg|thumb]]
+[[File:Band01_chunk013_p005_img004.jpg|thumb]]
+[[File:Band01_chunk013_p005_img005.jpg|thumb|C Darbietung der Arma Christi]]
+[[File:Band01_chunk013_p005_img006.jpg|thumb]]
+
+<!-- citation-page-bottom: Band01 p609 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=6 -->
+<!-- citation-page-top: Band01 p610 -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+die Gruppe links durch eine prononciert ausgebreitete Skala intensiver Buntfarben auf dunklem Wolkensockel, während die Lichthaltigkeit der Freskofarben bei der Gruppe rechts im Schweißtuch kulminiert. Vor allem wegen der reich differenzierten Farbigkeit - einem integrierenden Bestandteil des Hochaltaraufbaus - gehört das Bild zu den reifen Meisterleistungen Zimmermanns.
+
+D ANBETENDE ENGEL Die kleine freskierte Kuppel bildet zusammen mit dem Altarbaldachin den bekrönenden Abschluß des Altarensembles. Die Rahmung des Freskos gehört teilweise unmittelbar zum Altar: Die stukkierten Giebelstücke mit Voluten, Rocaillen, Kartuschen und Balustrade an der N- und S-Seite des Freskofeldes bilden die Verbindungsbögen zwischen Säulen-Baldachin-Aufbau vorn und Altarbild an der rückwärtigen Abschlußwand des Altarhauses. Der Rahmen des Altarbildes ersetzt am O-Rand den Gewölbestuck. Voll sichtbar ist das Freskofeld nur im Emporenumgang - innerhalb des Altarensembles (= photographischer Aufnahmestandort unterhalb der Bildmitte).
+
+In das Freskofeld sind fünf anbetende Engel und eine lichte Himmelsglorie gemalt. Für den Kirchenbesucher ist das plastische Bild des Lammes – es befindet sich davor, in einer runden Öffnung innerhalb des Altarbaldachins – als Bildgegenstand in die Himmelsdarstellung integriert. Vom Standort in der Mitte des Gemeinderaumes bietet sich das beste Gesamtbild des Altarensembles; von hier aus sind die anbetenden Engel beim Lamm Gottes sichtbar.
+
+D<sub>1-2</sub> PUTTI Rechts und links von D, oberhalb der Eingänge vom Priesterhaus zum Emporenumgang, befinden sich zwei kleine, längliche Freskofelder mit Puttodarstellungen (Aufnahmestandort jeweils unterhalb der Bildmitte).
+
+D<sub>1</sub> Putti mit Palme und Lorbeerkranz
+
+D<sub>2</sub> Putti mit einem Kranz von Rosen
+
+U1-8 BIBLISCHE SZENEN Rings um den Gemeinderaum, in den Umgangsgewölben, begleiten breitformatige, einansichtig komponierte biblische Szenen die Parusiedarstellung (B). Vom Gemeinderaum aus betrachtet stellen sie sich perspektivisch richtig dar und erscheinen oberhalb durch die volutenförmigen, rocaillebesetzten Bogenstellungen gerahmt. (Photographischer Aufnahmestandort unter dem jeweiligen Arkadenbogen zwischen Umgang und Gemeinderaum.) Die Zählung der Fresken beginnt in der Hauptachse des Raumes, im Osten.
+
+
+[[File:Band01_chunk013_p006_img001.jpg|thumb]]
+
+
+
+[[File:Band01_chunk013_p006_img002.jpg|thumb]]
+
+
+U<sub>1</sub> JESUS BEIM GASTMAHL DES PHARISÄERS (Lc 7,36–50) Die Szene befindet sich im Übergangsgewölbe zum Altarhaus und hat ihre Basis im Osten. – Auf einem Dreistufenpodest, vor verschiedenartigen architektonischen Kulissen, steht die langgestreckte Tafel. Die Teilnehmer des Mahles sind in zwei Gruppen um den Tisch geordnet. Im Vordergrund wendet sich Jesus der zu seinen Füßen knienden demütigen Sünderin zu. Das Salbgefäß bezeichnet die biblische Handlung.
+
+U<sub>2</sub> JESUS UND ZACHÄUS (Lc 19,1–10) In einer Landschaft, links durch ein Haus und im Hintergrund durch Berge begrenzt, zieht Jesus mit seinen Jüngern von rechts heran und spricht zu dem auf dem Baum sitzenden Zachäus
+
+U<sub>3</sub> DER REUIGE SCHÄCHER (Lc 23,39–45) Auf der Kreuzigungsstätte ragen die drei Kreuze in den düsteren Himmel empor. Jesus - in der Mitte - wendet sich dem reuigen Schächer zu seiner Rechten zu. Im Hintergrund ist Jerusalem wiedergegeben. - Die ganz von der Stimmung des düsteren Himmels und der expressiven, isolierenden Darstellung der Kruzifixe bestimmte Szene unterscheidet sich von allen übrigen Bildern.
+
+U<sub>4</sub> GLEICHNIS VOM UNFRUCHTBAREN FEIGEN- BAUM (Lc 13,6–9) Vor einer Gruppe von Feigenbäumen steht zürnend der Weinbergbesitzer - Jesus -, zu seinen Füßen kniet bittend der Gärtner. Rechts und im Hintergrund ein Tempel und andere Gebäude.
+
+U<sub>5</sub> JESUS UND DIE EHEBRECHERIN (Jo 8,3–11) Ein Schriftgelehrter führt die Ehebrecherin Jesus vor, ein weiter deutet auf ein Schriftblatt – das Gesetz. Iesus wendet sich der weinenden Ehebrecherin zu. Im Hintergrund verlassen zwei Schriftgelehrte den Tempel.
+
+U<sub>6</sub> BERUFUNG DES MATTHÄUS (Mt 9,9) In der Stube des Zollhauses ist Jesus an den Tisch des Geldzählenden Zöllners Matthäus getreten. Letzterer folgt der Aufforderung Jesu und erhebt sich von seinem Platz.
+
+U<sub>7</sub> VERLEUMDUNG PETRI (Lc 22,55–62) In der rechten Bildhälfte ist die Abführung Jesu vom Thron des Hohenpriesters dargestellt. Jesus schaut nach Petrus, der das Feuer und die Magd – in einem Nebenraum wiedergegeben - verlassen hat und sich weinend davonstiehlt. Ein krähender Hahn verdeutlicht die Verleumdungsszene. U<sub>8</sub> JESUS UND DIE SAMARITERIN (Jo 4,5–26) Im Vordergrund einer weiten bergigen Landschaft sitzt Jesus auf dem Beckenrand eines Ziehbrunnens und spricht zu der Samariterin.
+
+In den Umgangsfresken ist die Gestalt Christi wie im Orgelemporenbild A und den Emporenumgangsbildern
+
+
+[[File:Band01_chunk013_p006_img003.jpg|thumb|U1 Jesus beim Gastmahl des Pharisäers]]
+<!-- citation-page-bottom: Band01 p611 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=7 -->
+<!-- citation-page-top: Band01 p612 -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+<!-- header: WIES REI STEINGADEN -->
+
+
+[[File:Band01_chunk013_p007_img001.jpg|thumb|U<sub>4</sub> Gleichnis vom unfruchtbaren Feigenbaum]]
+
+
+
+[[File:Band01_chunk013_p007_img002.jpg|thumb|U<sub>5</sub> Jesus und die Ehebrecherin]]
+
+
+ED1-6 durch die rot-violett oder rot-blau gemalte Kleidung hervorgehoben. Doch die Farbigkeit der Umgangsfresken weicht stark von Zimmermanns Malstil ab, nur die Szene der Ehebrecherin (U5) weist in Farbigkeit und Komposition charakteristische Merkmale der Kunst Zimmermanns auf. Die übrigen Szenen zeigen eine auffällig vergröberte Figurenzeichnung sowie eine unsichere Raumdarstellung und Gruppenkomposition.
+
+Ua-d und UI-IV PUTTODARSTELLUNGEN Im Umgang, zwischen Freistützen und Wandpilastern, befinden sich kleine, länglich ovale (Ua-d) und runde (UI-IV) Fresken.
+
+Ua-d können nur vom Umgang her betrachtet werden und zwar senkrecht darunter durch die Öffnungen in den doppelbogigen Verbindungen zwischen Freistützen und Wandpilastern (photographischer Aufnahmestandort) oder schräg darunter durch die rocailleeingefaßten Öffnungen in den Umgangsgewölben. Wie die Kartuschfresken B1-8 sind diese Umgangsfresken farbig auf den Stuckdekor abgestimmt.
+
+
+[[File:Band01_chunk013_p007_img003.jpg|thumb]]
+
+
+
+[[File:Band01_chunk013_p007_img004.jpg|thumb]]
+
+
+Ua-d Putti stellen durch sinnbildliche Gegenstände die vier Elemente vor:
+
+U<sub>I-IV</sub> Die musizierenden Putti in U<sub>III</sub> und U<sub>IV</sub> beziehen sich sinngemäß auf den Musikchor, über dem sich die Darstellungen befinden. Der Posaunenengel in UI über der Kanzel kann als allegorische Anspielung auf das Wort des
+
+Predigers verstanden werden. (Photographische Aufnahmestandorte Musikchor, Kanzel und Abtsloge.)
+
+ED1-6 HEILUNGEN JESU Die querovalen, einansichtig komponierten Szenen oberhalb des Emporenumgangs haben ihre Basis im N (ED<sub>1-3</sub>) bzw. im S (ED<sub>4-6</sub>). Der Be-
+<!-- citation-page-bottom: Band01 p613 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=8 -->
+<!-- citation-page-top: Band01 p614 -->
+
+<!-- header: WIES BEI STEINGADEN -->
+<!-- header: WIES BEI STEINGADEN -->
+
+
+[[File:Band01_chunk013_p008_img001.jpg|thumb]]
+
+
+[[File:Band01_chunk013_p008_img002.jpg|thumb|U<sub>8</sub> Jesus und die Samariterin]]
+
+
+überliegenden Arkadenbogen. Von dort aus gesehen erscheinen die Bildausschnitte durch die stuckierten Rocaille-Einfassungen der Öffnungen im Gewölbeansatz gerahmt (vgl. Abbildung ED2). Voll sichtbar sind die Freskofelder nur im Emporenumgang (= photographischer Aufnahmestandort unterhalb der Bildmitte)
+
+ED1 HEILUNG EINES KRANKEN Vor der Kulisse eines Rundbaus liegt ein in Tücher gehüllter Kranker auf Kissen am Boden vor Jesus und blickt bittend zum Heiland auf. Jesus heilt segnend den Kranken. Drei Jünger und eine Mutter mit ihrem Kind nehmen an dem Ereignis
+
+ED<sub>2</sub> HEILUNG BESESSENER Unter einem Baum lagern zwei Besessene, gestützt von Helfern. Jesus, begleitet von zwei Jüngern, geht auf sie zu. Er gebietet den Dämonen – wiedergegeben in Gestalt von kleinen Drachen –, die besessene Frau zu verlassen. Beim Anblick Jesu weicht der zweite Besessene entsetzt zurück.
+
+ED3 JESUS HEILT KRANKE Die Leidenden lagern am Fuß einer Pyramide vor einem verfallenen Haus. Einer von ihnen ist an das Haus gekettet. Vor ihnen steht Jesus und weist mit der Rechten zum Himmel empor, im Hintergrund zwei Jünger im Gespräch.
+
+ED4 JESUS HEILT ZWEI BLINDE Am Wegesrand sitzen zwei Blinde – die Augen sind deutlich als blind charakterisiert –, der eine ist auf einen Stock gestützt, der andere wendet sich zu Jesus, der mit drei Jüngern herankommt. Jesus hält im Gehen inne und richtet den Blick zum Himmel. Die beredten Gesten der Hände und der Augen machen die Handlung anschaulich.
+
+ED5 AUFERWECKUNG EINES TOTEN Vor einem Grabbau liegt der in weiße Laken gehüllte Verstorbene. Er schlägt zum Leben erwachend die Augen auf und greift sich an die Brust. Der Heiland steht ihm gegenüber, her-
+
+
+[[File:Band01_chunk013_p008_img003.jpg|thumb|U6 Berufung des Matthäus]]
+
+
+anschließend.
+
+
+[[File:Band01_chunk013_p008_img004.jpg|thumb|U7 Verleumdung Petri]]
+<!-- citation-page-bottom: Band01 p615 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=9 -->
+<!-- citation-page-top: Band01 p616 -->
+
+
+[[File:Band01_chunk013_p009_img001.jpg|thumb|ED<sub>1</sub> Heilung eines Kranken (oben) ED<sub>2</sub> Heilung der Blinde (unten]]
+
+
+
+[[File:Band01_chunk013_p009_img002.jpg|thumb]]
+
+
+
+[[File:Band01_chunk013_p009_img003.jpg|thumb]]
+
+
+
+[[File:Band01_chunk013_p009_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p617 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=10 -->
+<!-- citation-page-top: Band01 p618 -->
+
+[[File:Band01_chunk013_p010_img001.jpg|thumb|ED<sub>2</sub> vom Altarraum aus gesehen]]
+[[File:Band01_chunk013_p010_img002.jpg|thumb]]
+[[File:Band01_chunk013_p010_img003.jpg|thumb]]
+
+beigeführt von den trauernden Frauen. Rechts neben Jesus neigt sich ein Jünger erstaunt vor.
+
+ED6 HEILUNG EINES LAHMEN Vor der Kulisse eines zerfallenen Baus sitzt ein Mann mit Krücken und streckt Jesus seine Arme flehend entgegen. Der Heiland segnet den Lahmen. Zwei Jünger folgen ihm.
+
+Die in roten und blauen Farbtönen – Dunkelrot, Orangerot, Violett und Blau – gemalte Gestalt Jesu dominiert in den hellfarbig in Gelb-Ocker und Grau-Weiß-Mischtönen gemalten Szenen. Sattes Goldgelb und Blau sowie zartes Hellgrün kommen als Buntakzente hinzu.
+
+
+== Ikonographie und Ikonologie ==
+
+
+Ausgangspunkt und thematisches Zentrum des Darstellungsprogramms der Wies ist das kultische Gnadenbild des Gegeißelten Heilandes auf dem Hochaltar der Wallfahrtskirche. Die bildlichen Darstellungen (von Altar und Altarraum) stellen es einerseits in soteriologisch-heilsgeschichtlichen, andererseits in eucharistischen Zusammenhang:
+
+Auf die incarnatio verbum Dei bezieht sich das Hochaltarbild des Balthasar Albrecht mit der Wiedergabe der Hl Sippe, der von Gott vorherbestimmten Familie aus dem Geschlecht Davids. Das Bild ist als »Mausoleum Davidis« bezeichnet; dargestellt sind Maria und Joseph - der Patronatsheilige der Kirche -, Mariens Eltern Joachim und Anna, die Base Mariens Elisabeth und Zacharias mit Johannes dem Täufer, dem Vorläufer und Verkünder Jesu. Die Propheten Isaias und Malachias, plastische Figuren zu Seiten des Altarbildes, weisen auf den Messias hin (vgl. Lamb 1964, S. 74).
+
+Christus Salvator und Reparator (Soter) wird in seiner Macht und in seinem Erbarmen durch die Umgangsszenen (ED1-8 und U1-8, siehe weiter unten) dargestellt.
+
+Für die passio, das Kreuzesopfer, steht die Geißelung Christi – das Andachtsbild Christus an der Geißelsäule. Die vier Evangelisten, plastische Figuren neben den Säulen des Altaraufbaus, zeigen Schriftstellen der Geißelungsberichte
+
+Die Annahme des Kreuzesopfers und die Versöhnung Gottes verbildlicht die Darbringung der Leidenswerkzeuge als Zeugnis der erlittenen Pein (Fresko C). Die Wahl des Bildmotives ist offenbar durch das Gnadenbild – die Geißelsäule – bestimmt. Die Klagegebärden der Engel machen den Sinnbezug zu dem Passions-Meditationsbild deutlich:
+
+Unter eucharistischem Aspekt ist das Gnadenbild im Schrein auf der Altarmensa zusammen zu sehen mit der plastischen Darstellung des Lammes im Altarbaldachin. Beide Bilder veranschaulichen das unschuldig geschlachtete Opferlamm Christus, das in der Meßfeier in mystischer Weise stets von neuem Gott dargebracht wird. Der Kommuniongesang »Ecce Agnus Dei« wird durch die bildlichen Darstellungen veranschaulicht. Als ein weiteres eucharistisches Symbol fügt sich das Bild des Pelikans — plastisch über dem Gegeißelten wiedergegeben - in diesen Zusammenhang. Die Darstellung des Freskos (C) greift den Opfergedanken auf und verbindet sich mit den liturgischen Opfergebeten des Kanons <blockquote>»Supplices te rogamus,... jube haec perferri per manus sancti Angeli tui in sublime altare tuum ...«</blockquote> und <blockquote>»Unde et memores ... ejusdem Christi Filii tui ...tam beatae passionis... offerimus... de tuis donis ac datis hostiam puram, hostiam sanctam, hostiam immaculatam ...«</blockquote> (vgl. Schnell, GKF 1953, S. 22). Lamm- und Arma Christi-Darstellung leiten über zu dem eschatologischen Gedankenkreis der Freskodarstellung B im Gemeinderaum. Das Lamm steht auf dem Buch mit sieben Siegeln als das apokalyptische Lamm, das würdig ist, das Buch zu öffnen (Apoc 5,1); es ist das Sinnbild des geopferten und siegreich auferstandenen verherrlichten Christus. Der in der Blickachse zum Hochaltar dargestellte Thron ist als die himmlische »sedes Dei et agni« (Apoc 22, 1 u. 3) zu deuten. Im Hinblick auf die Parusiedarstellung haben die Arma Christi übertragene Bedeutung, sie sind als signa des wiederkehrenden Christus, als Majestätssymbole des Weltenrichters zu verstehen.
+
+Im Gemeinderaum ist die Parusie, die Wiederkunft Christi in Herrlichkeit in den Wolken des Himmels (Mt 24,30) dargestellt (Fresko B). Christus ist im Typus des Auferstandenen, Verklärten wiedergegeben. Er zeigt die Wundmale, Zeichen der Liebe Gottes und des Heiles der Menschheit und zugleich des Gerichtes über die Sünde wider Gott (vgl. Apoc 1,7). Der Regenbogen bezeichnet die Herrlichkeit Christi (Ez 1,28) des Weltenrichters (traditionelles Attribut in Weltgerichtsdarstellungen). Darüber hinaus ist er auch Zeichen der Versöhnung (Gen 9,8-17). Christus erscheint inmitten der Engelscharen (Mt 25,31) und der Apostel, die dem Richter assistieren werden (Mt 19,28). Das Zeichen des Menschensohnes (Mt 24,30) ist das Kreuz. Zwei Engel tragen das verklärte Leidenskreuz zu Christus – zum Gericht im Heilszeichen des Kreuzes. Engel bringen die Weltkugel und das Zepter der Gött-
+
+<!-- citation-page-bottom: Band01 p619 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=11 -->
+<!-- citation-page-top: Band01 p620 -->
+
+== WIES BEI STEINGADEN ==
+
+Die himmlischen Vorsehung (mit Dreifaltigkeitssymbol) herbei – zum Zeichen der Erneuerung des Himmels und der Erde in der Weltvollendung (Apoc 21,1). In diesen Sinnzusammenhang gehören die allegorischen Darstellungen der vier Elemente (U<sub>a</sub>-d).
+
+Engel bereiten den himmlischen Altar des dreifaltigen Gottes (Dreifaltigkeitsdreieck über dem Altartisch). Der irdischen, am Altar der Wallfahrtskirche vollzogenen Liturgie ist hier eine himmlische Liturgie gegenübergestellt (vgl. den Passus des Opfergebetes »in sublime altare tuum«). Diese Szene ist wohl im Kontext der ganzen Darstellung in eschatologischem Sinn ähnlich zu deuten wie Kreuz, Thron und Tor. Der Altar ist auch ein Motiv der Apokalypse und wie der Thron ein Bild der göttlichen Herrlichkeit und Allmacht (Apoc 6,9; 8,3; 16,7 – keine der Stellen ist textgetreu im Bild dargestellt). Die Bereitung des Altares scheint hier in Analogie zur Bereitung des Thrones gesetzt zu sein.
+
+Engel mit Posaunen sind ausgesandt, die Auserwählten zu versammeln (Mt 24,31). Durch ihre Position im Freskofeld markieren die Posaunenengel die vier Himmelsrichtungen. Der Regenbogen wölbt sich über dem apokalyptischen Thron (Apoc 4,3). Es ist der für den Weltenrichter bereitete Thron (Ps 9,8) – die Hetoimasia der Weltgerichts darstellungen – der Stuhl der Herrlichkeit (Mt 25,31). Im periale Würdeformen – erhöhte Thronbank, Säulen und Baldachin – und die imperialen Symbolfarben Rot und Blau (= Purpur) und Gelbocker (= Gold) zeichnen der Thron aus. Es besteht eine sinnbildliche Analogie de Würdeformen bei Altar- und Thronarchitektur (vgl. hierzu ähnlich Lamb 1964, S. 75 f.). Auch die Symbolfarber stimmen bei Altar und Thron überein, analog symbolisier das Rot der Thronbank die Passion Christi, das Blau des Baldachins den Himmel und die Göttlichkeit Christi. Auch die Farben des Regenbogens symbolisieren das Heilswirken Christi: Rot = Passion, Blau = himmlische Herkunft, Grün = Wirken auf Erden (hierzu vgl. LCI, Bd 2, Sp 7-14, s. v. Farbensymbolik und Schnell, GKF die verschie denen Auflagen).
+
+Der Thron ist mit der Krone des Weltenrichters (Apoc 14,14), dem Schwert des Gerichts (vgl. Ez 21; Apoc 19, 15 u. 21) und dem Ölbaumzweig der Gnade und Versöhnung (vgl. Ps 51,10; Gen 8,11) ausgestattet. Der Richterstuhl ist als Thron der Gnade im Sinne von Psalm 88.15 »Iustitia et iudicium praeparatio sedis tuae. Misericordia et veritas praecedent faciem tuam.« zu deuten. Die Kombination der Symbole Schwert und Ölbaumzweig weicht ikonographisch von den traditionellen Gerichtssymbolen Christi, einem Schwert und einer Lilie (= weltliche und geistliche Macht), ab, der Aspekt der göttlichen Gnade wird auf diese Weise zur Anschauung gebracht.
+
+Gegenüber vom Richterstuhl Christi ist ein Tor gesetzt. Das alttestamentliche Bild der porta caeli ist in eschatologischem Sinn als das Tor zur ewigen Seligkeit verwendet. Das Tor ist ähnlich ausgezeichnet wie der Thron: erhöht durch einen Stufensockel und ausgestattet mit den Würdeformen eines Triumphbogens. Im Hinblick auf den christologischen, soteriologischen Grundgedanken des Wies-Programmes ist das Tor symbolisch als Bild Christi zu deuten, und zwar im Sinne der Worte Jesu im Johannesevangelium: »Ego sum ostium. Per me si quis introierit, salvabitur . . . « (Jo 10.9).
+
+Das Tor ist verschlossen dargestellt – im Gegensatz zu den Weltgerichtsdarstellungen, die den Einzug der Seligen durch das Tor zeigen. Im Sinne der Doppelbedeutung des Wortes ostium weist das Tor auf die ewige Seligkeit hin und versperrt zugleich den Zugang dorthin (frei zitiert nach I.C.I. Bd 4. Sp. 339 s. v. Tor — Tür).
+
+Der schreitende Engel vor dem Tor zeigt bildhafte Charakteristika des Apokalypse-Abschnittes Kapitel 10, Ver 1-2: »Et vidi alium angelum fortem descendentem de caelo amictum nube, ... et habebat in manu sua libellun apertum: (die Bilddarstellung zeigt ein großes geschlosse nes Buch) et posuit pedem suum dextrum super mare, sini strum autem super terram: « Er erhebt die Hand zum Schwu gemäß Vers 5-6: »Et angelus, . . . levavit manum suan ad caelum: et iuravit per viventem in saecula saeculorum qui creavit caelum, et ea quae in eo sunt: et terram, et e quae in ea sunt: et mare, et ea quae in eo sunt:« Qui Tempus non erit / amplius / Ap: 10. U: 6. Der Schluß de sechsten Verses ist in Form einer Inschriftkartusche an Torbogen angebracht.
+
+Das Tor bezeichnet die Scheide zwischen der himmlischen. zeitlosen Ewigkeit und der irdischen, vergänglichen Zeit. Die Ewigkeit wird durch das Symbol des Uroborus gekennzeichnet, die Zeit durch die mythologisch-allegorische Figur des Chronos (charakterisiert durch die Attribute Greisenalter, Flügel, Sense und Stundenglas; vgl. Erwin Panofsky, Studies in Iconology, Harper Torchbook edition New York 1962, Chapter: Father Time, S. 71-73). Das nahe Ende der irdischen Zeit wird durch den biblischen Engel angekündigt und durch die Chronosfigur szenisch veranschaulicht.
+
+Christus ist vom himmlischen Hofstaat der Engel umgeben, die Engel huldigen dem Herrn. Zur Deutung der unterschiedlich charakterisierten Engel der Parusiedarstellung kann wie bei den eucharistisch konzipierten Altarhausdarstellungen als deutende Ergänzung ein liturgischer Text, der Schluß der Präfationen, herangezogen werden: »Per quem majestatem tuam laudant Angeli, adorant Dominationes, tremunt Potestates. Caeli caelorumque Virtutes ac beatae Seraphim socia exsultatione concelebrant ...« (vgl. Satzger 1957, S. 13).
+
+Nach den sinnbildlichen Attributen und Handlungen wurde versucht, die Engel als Vertreter der neun Chöre, gegliedert in drei Hierarchien, im einzelnen zu benennen (vgl. Vierthaler 1949, S. 14):
+
+Als Seraphim, Cherubim und Throni werden die Engel beim »Thron Gottes« (von uns als Altar Gottes bezeichnet) gedeutet, Dreifaltigkeitssymbol und »Thron« werden dabei als die entscheidenden Hinweise angesehen. Der Engel mit Zackenkrone und Zepter wird als Vertreter der Herrschaften, die Engel, welche die Weltkugel tragen, werden als Kräfte und der Engel mit den Fortitudo-Attributen Helm und Säulenstumpf, als Vertreter der Mächte bzw Gewalten angesehen. Die Fürstentümer repräsentiert der
+
+Engel mit Kurhut, Hermelin und Regentenstab (Vierthaler a. a. O.). Für die Darstellung dieser Engelchöre gibt es keine festen ikonographischen Typen (vgl. LCI, Bd 1, Sp. 639 f., s. v. Engel; RDK, Bd 5, Sp. 555-601, s. v. Engelchöre). Wenn auch die Fortitudoattribute als ziemlich klare Hinweise auf die Chöre der virtutes (= Mächte oder Kräfte) oder potestates (= Gewalten) angesehen und die Herrschaftszeichen auf dominationes (= Herrschaften) und principates (= Fürstentümer) bezogen werden können, so muß die Benennung aller Chöre im einzelnen ohne das literarische Konzept des Wiesprogrammes vage bleiben. Unterhalb des Regenbogens sind die Erzengel wiedergegeben. Die biblischen Engel Michael, Gabriel und Raphael sind durch ihre traditionellen Attribute gekennzeichnet - Michael durch Küraß, Helm, Schild und Kreuzstab (= Siegeszeichen) und die Waage des Gerichts, Gabriel durch die Verkündigungslilie und Raphael durch den Wanderstab. Die Erzengel huldigen Christus - hierauf verweisen der Gebetsgestus und das Weihrauchgefäß (= Sinnbild für oratio; vgl. Ripa, s. v. oratione).
+
+Die Identifizierung des ganz rechts in der Erzengelgruppe dargestellten (achten) Engels, der, halb liegend, in einem blau-gelben Umwurf wiedergegeben ist, als Teufel (Schnell, GKF, S. 19 f.) oder Luzifer (Satzger a. a. O., S. 13 f.) ist wenig überzeugend: Inkarnat und Umwurf sind nicht düsterer gemalt als z. B. beim knienden Engel in der Mitte. Der Engel ist vor allem nicht als Antipode Michaels gezeigt, und er wendet sich der Mitte, das bedeutet hier Christus, zu. Von der Bildkomposition her betrachtet leitet er zu den Engeln beim Altar Gottes über.
+
+Die einzige nimbierte, geflügelte Gestalt wird allgemeir als Maria gedeutet (vgl. Vierthaler 1949, S. 14). Durch Blick- und Handgesten ist diese Gestalt zugleich in besonderer Weise auf Christus hin geordnet. Maria ist geflügelt im Typus des apokalyptischen Weibes (Apoc 12,14) neben Michael, dem apokalyptischen Streiter (Apoc 12,7) gezeigt. Die Darstellung Mariens zusammen mit den Erzengeln kann mit dem besonderen Kult Mariens und der sieben Erzengel in Beziehung gebracht werden (vgl. die Kuppelbilder der Stadtpfarrkirche Weilheim).
+
+Die Beisitzer des Gerichts, die Apostel, sind durch ihre Attribute gekennzeichnet: Auf der N-Seite von W nach O: Andreas mit Diagonalkreuz, Paulus mit Buch und Schwert. Petrus mit Schlüsseln, Johannes mit Buch, Schreibfeder und Adler, Bartholomäus mit Schabmesser und abgezogener Haut, Matthäus mit Buch und Hellebarde; auf der S-Seite von O nach W: Matthias mit Beil, Thomas mit Winkel Jakobus Minor mit Walkerbogen, Philippus mit Kreuzstab, Judas Thaddäus mit Keule, Simon mit Säge und Jakobus Maior mit Pelerine, Gurde, Pilgerstab und Buch.
+
+ED1-6 HEILUNGEN JESU Bei den Wunder-Jesu- Szenen wird vor allem durch die starke Betonung der Gebärden, der Hände und der Blicke - das Wundergeschehen als solches dargestellt. Wenig Wert gelegt ist auf die Wiedergabe der äußeren, historischen Umstände, welche die einzelnen biblischen Berichte angeben.
+
+Die Begleiter Jesu sind als Jünger -bärtig, in antikisierer der Idealgewandung – meist nicht genauer unterschieden. Die Geheilten lassen nach Anzahl und Charakterisierung kaum eine eindeutige Festlegung der einzelnen Szenen auf die verschiedenen Evangelienberichte zu (vgl. Vierthaler 1949, S. 13, Satzger 1957, S. 10, Schnell 1960, S. 22, Lamb 1964, S. 69), sie sind vielmehr alle auf die zusammenfassende Aussage Jesu über sein Wirken zu beziehen: »Euntes renuntiate Ioanni quae audistis et vidistis: Quia caeci vident, claudi ambulant, leprosi mundantur, surdi audiunt, mortui resurgunt, pauperes evangelizantur« (Lc 7,22). Dies gilt in besonderem Maße für die Darstellung ED3, in welcher unterschiedliche Krankheiten angedeutet sind: Das Pestglöcklein des Knaben weist auf Aussatz hin, die ihre Ohren berührende Frau auf Taubheit, der Bettlägerige wohl auf Lahmheit und der angekettete Mann auf Besessenheit. Pyramide und verfallenes Haus kennzeichnen den Aufenthaltsort der Ausgestoßenen, vgl. den Bericht des Markus: »... statim occurrit de monumentibus homo in spiritu immundo, qui domicilium habebat in monumentis, et necque catenis iam quisquam poterat eum ligare . . .« (Mc 5,2–3). Die Heilung des bettlägerigen Kranken (ED1) ist vielleicht auf den Johannesbericht (5,2–9) zu beziehen der Rundbau ist dann als die biblische Badehalle von Bethesda anzusehen. Das signifikante Motiv, der Teich fehlt jedoch (vgl. die beiden Darstellungen von Andechs in der Kirche und in der ehem. Klosterapotheke, s. LKr. Starnberg). Die Heilung Besessener (ED2) und die des Gelähmten (ED6) sind auf keine bestimmten Evangelienberichte festzulegen, vgl. hierzu auch die allgemeine Aussage des Matthäus: »... et obtulerunt ei omnes male habentes variis languoribus, et tormentis comprehensos, et qui daemonia habebant et lunaticos, et paralyticos, et curavi eos:« (Mt 4,24). Die Szene ED4 zeigt die Heilung der Blinden am Weg vor Jericho (Mt 20,29-34). ED5 ist als die Erweckung des Lazarus (Jo 11,32–44) zu erkennen.
+
+U1-8 BIBLISCHE SZENEN Die Darstellungen in Umgang des Gemeinderaumes haben als gemeinsamer Grundgedanken die Sündenvergebung Jesu. Die thema tische Differenzierung in den acht Gewölbefresken mach die allgemeine, universale Gültigkeit des Heilswirken Jesu deutlich; unter den Sündern und Reumütigen werder Männer und Frauen, Juden und Nichtjuden, Apostel, Aus gestoßene der Gesellschaft sowie einfache Angehörige de Volkes dargestellt.
+
+Die Bilder sind von der jeweiligen Themastellung her nicht so einheitlich wie die Heilungsszenen der Altarhausempore. Die Gebärdensprache ist weniger eindringlich, die szenische Handlung ist dafür mit mehr erzählerischen Details ausgestattet, besonders die Verleumdungsszene (U7) Die Szenen sind daher klar zu benennen. Nur U6 wird in der Literatur allgemein anders bezeichnet (vgl. Vierthaler 1949, S. 15, Satzger 1957, S. 19, Schnell 1960, S. 20, Lamb 1964, S. 59), und zwar als Gleichnis vom ungetreuen Verwalter (Lc 16,1-8). Die Bildhandlung der Szene ist von der Gestik her klar zu bestimmen: Der von Jesus angesprochene Mann folgt dessen Aufforderung, er unterbrich seine Arbeit und erhebt sich von seinem Sitz. Die Charak-
+<!-- citation-page-bottom: Band01 p621 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=12 -->
+<!-- citation-page-top: Band01 p622 -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+<!-- header: WIES BEI STEINGADEN -->
+
+Die Verklärung als bärtiger, kraftvoller Mann entspricht dem Darstellungstypus des Matthäus. In der Berufungsszene ist er nicht in der antikisierenden Idealgewandung der Apostel wie im Himmel – in Fresko B – wiedergegeben. Die attributiven Details – Tisch mit Geldsack, Schale mit Münzen und Schreibzeug – bezeichnen den Zöllner. Von den bekannten, nachtridentinischen Darstellungen der Berufung des Matthäus (vgl. z. B. Caravaggios Gemälde von 1598 in San Luigi dei Francesi, Rom) unterscheidet diese Szene ikonographisch nur das Fehlen von Nebenfiguren – weiteren Zöllnern und Knechten (vgl. LCI, Bd 7, Sp. 589 f. u. 597 f., s. v. Matthäus).
+
+Thematisch paßt die Berufung des Zöllners zum Apostel sehr gut in diese Folge; inhaltlich verwandt ist die Zachäus-Szene (U2) – dem Haus des Zöllners widerfährt das Heil des Herrn (Lc 19,9) –, eine weitere Apostelszene ist in der Verleumdungsszene gegeben (U7), welche Petrus in der reuevollen Erkenntnis seiner Schuld zeigt.
+
+Die Vorführung der Ehebrecherin (U5) ist der Bußpredigt des Nathan (A) – der Prophet wirft König David den Ehebruch vor – typologisch gegenübergestellt. Das zur Orgelempore gehörige David-Thema ist im Sinne des Wies-Programmes modifiziert.
+
+Im Übergang zum Altarraum ist – bezogen auf die eucharistische Mahlfeier – eine Mahlszene gesetzt, in Übereinstimmung mit dem Grundthema das Gastmahl mit der Begegnung Jesu und der Sünderin (U<sub>1</sub>).
+
+Der Jakobsbrunnen in Us gibt einen symbolischen Verweis auf das Wasser des Lebens – den eucharistischen Christus – und den Gnadenquell der Wies – den Gegeißelten Heiland (vgl. den Kupferstich des B. Ramis im ersten Teil der »Gnaden-Blum«, welcher den inschriftlich bezeichneten Gnadenbrunnen neben dem Wallfahrtsbild zeigt; s. Lamb 1937, Abb. S. 13). Das einzige Gleichnis dieser Reihe hat wie die Gleichnisse der Beichtstühle ein Bußethema – die Gewährung einer letzten Frist zur Besinnung und Umkehr von dem sündigen – fruchtlosen – Leben (U<sub>4</sub>).
+
+Die Szenen sind ikonologisch auf die im Umgang aufgestellten vier Beichtstühle bezogen. Letztere sind mit kleinen einfachen Bildern ausgestattet: Gleichnis vom Pharisäer und Zöllner (Lc 18,10–14), Gleichnis vom Schalksknecht (Mt 18,23–35), der Gute Hirt mit den Gleichnissen vom verlorenen Schaf und der verlorenen Drachme (Lc 15,3–9) und das Gleichnis vom verlorenen Sohn (Lc 15,11–32). Die Darstellung der Altarblätter in den beiden Bruderschaftsaltären des Umgangs wiederholen Themen der Gewölbefresken, sie zeigen die Reue des Petrus (J. Magges, 1756) und Maria Magdalena beim Gastmahl (J. G. Bergmüller, 1765).
+
+In den Umgangsfresken wird das soteriologische Thema zyklisch ausgeführt. Sie zeigen die Rettung des Menschen unter zwei verschiedenen Aspekten: Über der Altarhausempore wird die Heilung körperlicher Gebrechen, welche den vertrauensvoll Glaubenden zuteil wurde, behandelt. Die Darstellungen befinden sich in unmittelbarer Nähe des Gnadenbildes, oberhalb des Umgangs, in dem die Votivgaben der Wallfahrer zur Schau gestellt werden. Sie zeigen in tropologischer, auf den Wallfahrer bezogener Sinngebung die biblischen Heilungen Jesu als Exempel für die von den Wallfahrern erflehte wunderbare göttliche Hilfe. (In einem Kupferstich, gezeichnet von B. Ramis, des zweiten Teils der »Gnaden-Blum« werden die Mirakel selbst neben dem Gnadenbild abgebildet, s. Lamb 1937, Abb. S. 14) Im Gemeinderaumumgang werden die Gnadenakte Jesu an seelisch Leidenden, an reumütigen Sündern, vorgeführt. Die Bilder stellen, tropologisch gedeutet, einen moralischen Apell und trostvollen Ansporn an den Wallfahrer dar.
+
+Die Parusiedarstellung bildet den thematischen Schlußpunkt des soteriologischen Wies-Programmes. Damit ist ein – eschatologischer – Ausblick auf die Vollendung des Erlösungswerkes Christi am Ende aller Zeiten gegeben. Das Kommen des Herrn – die Vorbereitung des Gerichtes – ist nicht unter dem Vorzeichen der Schrecken des Weltgerichtes gezeigt, sondern unter jenem der Erneuerung, der »Heimholung der Welt« durch Christus-Salvator (Satzger 1957 S 13).
+
+Die sinnbildliche Darstellung des Richterthrones ist – in enger ikonologischer Rückbeziehung auf den Altar und die Altarhausdarstellungen – unter den Grundgedanken der gratia, der clementia und misericordia Christi gestellt. Das verschlossene Paradiesestor ist Sinnbild der Endzeit, der den Menschen – den Wallfahrern der Wies – gewährten Gnaden-Frist, sich – wie Petrus – vor dem leidenden Herrn der Wies schuldig zu bekennen und sich zu Christus. dem Tor zur Ewigkeit, zu bekehren. Die Umgangsfresken (U1-8) zeigen moraltheologisch den Weg, den der Gläubige zu gehen hat. Die Kartuschfresken (B1-8) definieren die Tugenden der Auserwählten in diesem christologisch geprägten Programm durch die Seligpreisungen Jesu in der Bergpredigt. Die theologischen (göttlichen) Tugenden Glaube, Hoffnung, Liebe, sind zusammen mit den Zehn-Gebote-Tafeln an der Predigerkanzel wiedergegeben.
+
+Die Wahl des Themas Parusie für das Gemeinderaumfresko der Wies ist außergewöhnlich. Für dieses Thema, das selten allein, vielmehr meist mit dem Thema Weltgericht und seltener mit der Himmelfahrt Christi verbunden ist, gibt es keine verbindliche Ikonographie (vgl. LCI Bd 3, Sp. 384–86, s. v. Parusie). Die symbolischen Motive – das Glorienkreuz als Zeichen des Menschensohnes, die Weltgerichts-Hetoimasia (Etimasie), die Arma Christi und das Paradiesestor verweisen auf frühchristliche, byzantinische und abendländisch-mittelalterliche Bildtraditioner (vgl. hierzu RDK, Bd 6, Sp. 144–54, s. v. Etimasie; Gertrud Schiller, Ikonographie der christlichen Kunst, Gütersloh 1966 ff., Bd 3, 1971, S. 193 f., s. v. Etimasia). Es handelt sich jedoch nicht um eine einfache Übernahme, sondern um eine schöpferische Rezeption: Die Motive sind thematisch neu bestimmt, modifiziert und bereichert worden. In der Auswahl der einzelnen Bildmotive sowie in der bibelexegetischen Durchgestaltung des Parusie-Themas liegt das Originelle der Rezeption (vgl. Lamb 1964, S. 56: »eine echte ikonologische Neufassung«).
+
+Der Freskodarstellung der Wies liegt sicher ein eigenes literarisches Konzept zugrunde, dessen Verfasser mit großer Wahrscheinlichkeit ein Angehöriger der ehem. Prämonstratenserabtei Steingaden war. Die von Bildtypus und -tradition her sehr verschiedenen Bildmotive sind in die Formensprache des Rokoko übertragen und durch J. B. Zimmermanns künstlerische Konzeption mit dem Kirchenraum zu einem monumentalen Bildkosmos von origineller Prägung und überwältigender Überzeugungskraft gestaltet worden.
+
+
+== Ouellen und Literatur ==
+
+
+Neu-entsprossene Gnaden-Blum Auf der Wis, Das ist Kurtzer Unterricht des Ursprungs, und Gnaden-vollen Fortgangs der in Obern-Bayrn, Augspurger Bistums und einem Löblichen Closter Steingaden . . . einverleibter Wallfahrt auf der Wis genennt...Zusammengetrager von einem deß Löblichen Closters Steingaden . . . Capitulari. Erster Theil. Augspurg, bey Antoni Maximilian Heiß 1746.
+
+Fernerer und noch weit mehrer sich ausbreitender Beruch Der Neu-entsprossnen Gnaden-Blum In der Wis, Das is Fortgesezte Beschreibung der Wallfahrt. . . Auf der So genannten Wis . . . Zusammen getragen von einem des Löbl Closters Steingaden Capitulari. Anderter Theil. Kauffbeyren, bey Christian Starck, 1748.
+
+Fortdauernd-Lieblicher Geruch der neu-entsprossner Gnaden-Blum In der Wis . . . Dritter Theil. Kauffbeyren bey Johann Baptista Neth. 1749
+
+KDB I OB (1), S. 606–608
+
+Hager, Georg, Die Bau- und Kunstdenkmale des Kloster Steingaden, in: OAVG 48, 1893, S. 173 ff.
+
+Hoffmann, Richard, Wallfahrtskirche Wies bei Steingaden, in: Kalender bayrischer und schwäbischer Kunst 8, 1911. S. 8–10.
+
+Muchall-Viebroock, Thomas, Dominikus Zimmermann Dillingen 1912.
+
+Hauttmann, Max, Die Wallfahrtskirche Wies bei Steingaden, München 1922.
+
+Hartig, Michael, Die Wallfahrtskirche in der Wies, in: Die
+
+christliche Kunst 21, 1924–25, S. 129–136
+
+-, Wies und Vierzehnheiligen, die reichsten Wallfahrtskirchen des bayerischen Rokoko, in: Bayerland 37, 1927 S. 469–72.
+
+Vierthaler, Max. Führer durch die Wallfahrtskirche Wies Steingaden, München 1927.
+
+Hofmiller, Josef, Die Wieskirche bei Steingaden, in: Wanderbilder aus Bayern und Tirol, Altötting 1929.
+
+Feulner, Adolf, Die Wies, Augsburg 1931
+
+Hartig, Michael, Die Wallfahrtskirche Wies, Schongau 1936
+
+Lamb. Carl. Die Wies, Berlin 1937
+
+- Die Wies, München 1948
+
+Röhlig, Ursula, Die Deckenfresken Johann Baptist Zimmermanns, ungedr. Diss. München 1949, S. 99–104.
+
+Satzger, Alfons, Wallfahrtskirche Wies, Wertheim bei Augsburg 1949.
+
+Vierthaler, Max, Die Wies. Zum 200jährigen Jubiläum, Schongau 1949.
+
+Lieb, Norbert, Die Wies, Berlin 1950.
+
+Lill, Georg, Die Wies, München 1950
+
+Schnell, Hugo, Die Wies (= GKF 1), München 81953 und <sup>10</sup>1960 (mit Literaturangaben).
+
+-. Die Wies (= KKF). München <sup>15</sup>1953.
+
+Satzger Alfons, Wallfahrtskirche Wies (= Kirchenführer) Tübingen [1957].
+
+Rupprecht, Bernhard, Die bayerische Rokokokirche, Kallmünz 1959. S. 37–49.
+
+Hofmann, Sigfrid, Zur Geschichte der Wallfahrtskirche Wies im 18. Jahrhundert, in: Lechisarland 1961, S. 15–21 Lamb, Carl, Die Wies, München 1964 (mit ausführlicher Literaturangaben).
+
+Bauer, Hermann, Il Rococo Tedesco Nella Cattedrale D Wies, L'Arte Racconta, Mailand 1965.
+
+Hitchcock, Henry-Russell, German Rococo, The Zimmermann Brothers, London 1968, S. 68–77.
+
+Lieb, Norbert, Barockkirchen zwischen Donau und Alpen München (1953) 31969, S. 118–28, 164 f., 174 f.
+<!-- citation-page-bottom: Band01 p623 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=13 -->
+<!-- citation-page-top: Band01 p624 -->
+
+{{End}}

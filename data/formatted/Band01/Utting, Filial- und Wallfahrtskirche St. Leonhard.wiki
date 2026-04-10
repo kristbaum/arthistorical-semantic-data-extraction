@@ -1,0 +1,73 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=254
+|Originalseitenbis=254
+|Lemma=Utting, Filial- und Wallfahrtskirche St. Leonhard
+|Typ=Sakral
+|Ort=Utting
+|davor=Untermühlhausen, Pfarrkirche St. Benedikt
+|danach=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p254 -->
+
+<!-- header: VILGERTSHOFEN -->
+
+<!-- header: UTTING -->
+
+Filial- und Wallfahrtskirche, Pfarrei Utting, Diözese Augsburg; z. Z. der Ausmalung Klosterhofmark Andechs
+
+
+'''Patrozinium:''' St. Leonhard
+
+
+'''Zum Bauwerk:''' Neubau 1707-12 durch Michael Natter. Datum am Chorbogen: MDCCXII. - Saalbau zu drei Jochen (14,50 <math>\times</math> 9,80) mit eingezogenem AR (8,00 <math>\times</math> 6,90) zu einem Joch und dreiseitigem Schluß; im W Empore
+
+'''Autor und Entstehungszeit:''' Die Deckenbilder - drei im LHs, eines im Chor - sind etwa gleichzeitig mit dem Neubau und der Stuckierung (Pontian Finsterwalder aus Wessobrunn) entstanden. Der Autor ist nicht bekannt. Die Deckenbilder sind durch Restaurierung in ihrer barocken Substanz schwer beeinträchtigt (keine Abbildungen).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Tonne mit Gurtbogen, AR Stichkappentonne, im O abgemuldet
+
+Rahmen: A, B, C, D Mit Akanthus und Laubwerk dekorierte Profilstäbe
+
+Technik: Öl auf Leinwand; polychrom
+
+Maße: A Höhe 10,50 m; 2,20 × 2,20  
+B Höhe 10,50 m; 2,80 × 2,20  
+C Höhe 10,50 m; 2,20 × 2,20  
+D Höhe 10,20 m; 9,20 × 1,00
+
+Erhaltungszustand und Restaurierungen: Anläßlich einer 1902 vollendeten Renovierung sind die Deckenbilder teils im nazarenischen Stil erneuert (B, D), teils stark übermalt worden (A, C). Gut erhalten sind die Emporenbrüstungs bilder.
+
+
+== Bildabfolge ==
+
+A Der hl. Leonhard befreit einen Edelmann im Kerker  
+B Der hl. Leonhard erscheint einem Gefangenen und befreit ihn von seinen Ketten  
+C Der hl. Leonhard erwirkt durch sein Gebet der Königin von Frankreich eine glückliche Entbindung  
+D Tod des hl. Leonhard  
+EB1 Der hl. Leonhard — Patron der Gefangenen  
+EB2 Der hl. Leonhard — Patron der Kranken und Krüppel  
+EB3 Besessenenheilung durch den hl. Leonhard
+
+
+== Literatur ==
+
+
+KDB I OB (1), S. 553 f.
+
+Müller-Hahl, Bernhard, Heimatbuch Stadt- und Landkreis Landsberg am Lech, München-Aßling 1966, S. 655.  
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23). München 1971, S. 109, 180
+
+Wallfahrtskirche Wirtshaus S. 263
+
+{{End}}

@@ -1,0 +1,108 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=342
+|Originalseitenbis=343
+|Lemma=Schlagenhofen, Filialkirche St. Michael
+|Typ=Sakral
+|Ort=Schlagenhofen
+|davor=Perchting, Kalvarienberg
+|danach=Seefeld, Schlosskapelle St. Johann Baptist
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p342 -->
+
+<!-- header: SCHLAGENHOFEN -->
+
+
+== SCHLAGENHOFEN ==
+
+
+Filialkirche, Gemeinde Buch, Pfarrei Inning, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Seligenthal in Landshut das Präsentationsrecht auf die Pfarrei; ehem. Hofmark Wörth, seit 1642 in der Herrschaft Seefeld
+
+'''Patrozinium:''' St. Michael
+
+'''Zum Bauwerk:''' Mittelalterlicher Kern: Umbau und Ausstattung 2. Hälfte 17. Jh. Einfacher Saalraum mit gleich breitem AR und dreiseitigem Schluß; im W Empore
+
+'''Autor und Entstehungszeit:''' Die Bilder entstanden in der 2. Hälfte des 17. Jh.; Autor ist vermutlich ein Maler der Weilheimer Schule (Greiter-Nachfolge; vgl. die Bilder Greiters in der Pfarrkirche Weilheim, s. LKr Weilheim- Schongau).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B Flachdecke
+
+Rahmen: A. B Stuckprofil
+
+Technik: Fresko mit starken Secco-Übermalungen; polychrom
+
+Maße: A Höhe 4,15 m; 2,15 × 2,15
+
+B Höhe 4,15 m; 2,05 × 2,05
+
+Erhaltungszustand und Restaurierungen: Letzte Restaurierung 1965. Alle Fresken zeigen deutlich erkennbare grobe Übermalungen. Haarrisse in A
+
+
+== Beschreibung und Ikonographie ==
+
+
+A ST. MICHAEL Einansichtige Szene, Betrachter standort unterhalb der Bildmitte. Der Erzengel Michael wiedergegeben mit ausgebreiteten Flügeln und wallenden Gewändern, steht auf Felsen inmitten eines Flammenmeeres. Mit seinem rechten Fuß und mit dem Kreuzstab, den er in beiden Händen hält, stößt er den Teufel in Drachengestalt in das Feuer. Über den Flammen türmen sich Wolken mit zarten weißen Höhungen auf, nach oben zu in eine angedeutete Himmelsöffnung übergehend.
+
+
+[[File:Band01_chunk007_p022_img001.jpg|thumb|B Die heilige Eucharisti]]
+
+
+
+[[File:Band01_chunk007_p022_img002.jpg|thumb]]
+
+
+B DIE HEILIGE EUCHARISTIE Zwei schwebende Engel tragen eine Monstranz mit einer Hostie. Rings um das Sanctissimum weichen die Wolken zurück und bilden eine strahlende Glorie, als Folie für die Monstranz. In den Wolken rechts und links zwei Puttoköpfe.
+
+
+[[File:Band01_chunk007_p022_img003.jpg|thumb]]
+
+
+
+[[File:Band01_chunk007_p022_img004.jpg|thumb]]
+
+
+
+[[File:Band01_chunk007_p022_img005.jpg|thumb|A4 Hieronymus]]
+
+
+
+[[File:Band01_chunk007_p022_img006.jpg|thumb]]
+
+
+
+[[File:Band01_chunk007_p022_img007.jpg|thumb]]
+
+
+Wie in A herrschen die Rot- und Gelbfarben vor; doch tritt auch zartes Grün in dem Gewand eines Engels auf und dazu das reine Himmelblau.
+
+A<sub>1-4</sub> LATEINISCHE KIRCHENVÄTER In Ovalmedaillons thronen die vier Kirchenväter auf dicken, bräunlichen Wolken, die nach oben hin heller werden und wie in A und B eine Himmelsöffnung freigeben, aus der Strahlen fallen. Unter den Wolken der blaue Himmel.
+
+Die Kirchenväter sind in der ihnen typischen Kleidung mit ihren Attributen dargestellt.
+
+A1 Augustinus im Bischofsornat, bei ihm ein Kind mit einem Schöpflöffel
+
+A<sub>2</sub> Gregor im Papstornat mit der Taube
+
+A<sub>3</sub> Ambrosius im Bischofsornat mit dem Bienenstock
+
+A4 Hieronymus in Kardinalstracht mit dem Löwen
+
+
+== Literatu ==
+
+
+Braun-Augsburg, Bd 1, S. 364
+<!-- citation-page-bottom: Band01 p343 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=23 -->
+{{End}}

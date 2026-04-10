@@ -1,0 +1,64 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=475
+|Originalseitenbis=475
+|Lemma=Reisgang, Kapelle Mariä Heimsuchung
+|Typ=Sakral
+|Ort=Reisgang
+|davor=Raisting, Pfarrkirche St. Remigius
+|danach=Rottenbuch, Pfarrkirche Mariä Geburt
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Kapelle, Gemeinde Tannenberg, Pfarrei Bernbeuren, Diözese Augsburg; z. Z. der Ausmalung Pfarrei Burggen, auf die das Hochstift Augsburg das Präsentationsrecht hatte, bischöfliches Pflegamt Füssen
+
+
+'''Patrozinium:''' Mariä Heimsuchung
+
+
+'''Zum Bauwerk:''' Die kleine Kapelle wurde laut Inschrift am Altarbild 1659 von Andreas Welz, Leinweber, errichtet. - Saalbau mit schmalem rechteckigem AR; das Dekkenbild befindet sich im Altarraum.
+
+'''Autor und Entstehungszeit:''' Das Deckenbild ist in der gleichen Technik ausgeführt wie die Kassettenbilder der Annakapelle in Burggen. Soweit der Erhaltungszustand es erlaubt, lassen sich stilistische Ähnlichkeiten in Komposition, bei Architekturdarstellung und Figurentypen feststellen. Wahrscheinlich ist das Bild vom gleichen Autor gemalt; Entstehungszeit wohl 3. Drittel des 17. Jahrhunderts.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Holzdecke
+
+Rahmen: Holzprofil
+
+Technik: Tempera auf Holz; Grisaille
+
+Maße: Höhe 3,70 m; 1,55 × 0,95
+
+Erhaltungszustand: sehr schlecht, Farbe teilweise abgeblättert
+
+
+== Beschreibung und Ikonographie ==
+
+
+'''HEIMSÜCHUNG (Lc 1,39 ff.)''' Die rechteckige Holztafel wurde wohl einmal irrtümlich verkehrt eingesetzt, so daß das im kleinen Chorraum angebrachte Bild seine Basis im W hat und auch von dem am Altar stehenden Priester nicht richtig betrachtet werden kann.
+
+Vor einer schräg in die Tiefe führenden Säulenarchitektur stehen Maria und Elisabeth nebeneinander und reichen sich die Hände. Im Hintergrund wiederholen Joseph und Zacharias diese Gebärde. Wie die Bilder von Burggen ist auch dieses rein tafelbildmäßig angelegt.
+
+
+[[File:Band01_chunk010_p013_img002.jpg|thumb|Heimsuchung]]
+
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 155.
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23), München 1971, S. 260.
+<!-- citation-page-bottom: Band01 p475 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=14 -->
+{{End}}

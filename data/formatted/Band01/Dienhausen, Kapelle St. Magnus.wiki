@@ -1,0 +1,68 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=37
+|Originalseitenbis=37
+|Lemma=Dienhausen, Kapelle St. Magnus
+|Typ=Sakral
+|Ort=Dienhausen
+|davor=Denklingen, Pfarrkirche St. Michael
+|danach=Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Braun-Augsburg, Bd 1, S. 156  
+Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 54–72.  
+Hopp, Jakob, Pfründe-Statistik der Diözese Augsburg, Augsburg 1893, Bd 2, S. 200 f.  
+Die Pfarrherren in Denklingen (o. V.), in: Landsberger Geschichtsblätter 16, 1917, Nr. 12, S. 94 ff.  
+Denklingen (o. V.), in: Deutsche Gaue, Gemeindebeschreibungen des Bezirksamts Kaufbeuren. 1923 ff.  
+Haugg, Donatus, Die Kirche von Denklingen, in: Schwäbische Heimat, Gratisbeilage zum Buchloer Anzeigeblatt 2, 1923, Nr. 19, 20, 21.  
+Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen Kunstdenkmale), München 1960, S. 78 ff.  
+DIENHAUSEN  
+Kapelle, Gemeinde und Pfarrei Denklingen, Diözese Augsburg; z. Z. der Ausmalung Niedergericht und Grundherrschaf Abtei Füssen
+
+
+'''Patrozinium:''' St. Magnus
+
+
+'''Zum Bauwerk:''' Neubau 1733 an Stelle einer hölzernen Kapelle. Einfacher Saal zu zwei Fensterachsen, eingezogener AR (4,60 × 4,20) zu einem Joch mit halbrundem Schluß. Das Deckenbild befindet sich im Altarraum.
+
+'''Auftraggeber:''' Abt Dominicus Dierling von Füssen (1714–38), dessen Wappen sich am Chorbogen befindet
+
+'''Autor und Entstehungszeit:''' Das Deckenbild stammt aus der Erbauungszeit, also kurz nach 1733. Der unbekannte Autor dürfte im Umkreis der Abtei St. Mang in Füssen zu suchen sein.
+
+
+== Befund ==
+
+Träger der Deckenmalerei: Flachdecke über Hohlkehle  
+Rahmen: Stuckprofil mit Goldleiste  
+Technik: Fresko; polychrom  
+Maße: Höhe 4,90 m; 1,50 × 1,30  
+Erhaltungszustand: Einzelne Risse, Verschmutzungen, Abblätterungen am unteren Rand
+
+
+== Beschreibung und Ikonographie ==
+
+Auf Wolken stehend ist der hl. Benedikt dargestellt, als Ordensgründer der Benediktiner — St. Mang in Füssen war Benediktinerabtei. Neben ihm sind seine Attribute zu sehen, Buch, Abtstab und Giftbecher mit Schlange. Er trägt die schwarze Benediktinerkutte; sein Haupt umgeben lichte Strahlen. Seitlich erscheinen aus den Wolken Engelsköpfchen.
+
+
+== Literatur ==
+
+Braun-Augsburg, Bd 1, S. 156.  
+Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 72 ff.  
+Dienhausen (o. V.), in: Deutsche Gaue, Gemeindebeschreibungen des Bezirksamts Kaufbeuren. 1923 ff.  
+Dienhausen bei Denklingen. — Aus mehreren alten Urkunden über den Kapellenbau zusammengetragen (o. V.), in: Schwäbische Heimat, Heimatkundliche Beilage zum Buchloer Anzeigblatt 5, 1926, Nr. 65.  
+Zimmermann, Eduard, Bayerische Klosterheraldik, München 1930, S. 83.  
+Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen Kunstdenkmale), München 1960, S. 83 f.  
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 266.
+<!-- citation-page-bottom: Band01 p37 -->
+
+
+[[File:Band01_chunk001_p019_img001.jpg|thumb|Hl. Benedik]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=20 -->
+{{End}}

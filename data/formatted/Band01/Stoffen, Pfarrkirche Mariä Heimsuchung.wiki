@@ -1,0 +1,96 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=232
+|Originalseitenbis=233
+|Lemma=Stoffen, Pfarrkirche Mariä Heimsuchung
+|Typ=Sakral
+|Ort=Stoffen
+|davor=Stadl, Pfarrkirche St. Johann Baptist
+|danach=Thaining, Pfarrkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p232 -->
+
+<!-- header: STOFFE -->
+
+
+== STOFFEN ==
+
+
+Pfarrkirche (z. Z. von Landsberg vikariert), Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Andechs das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
+
+'''Patrozinium:''' Mariä Heimsuchung
+
+'''Zum Bauwerk:''' Laut KDB Neubau 1751 aus einem Legat des Pfarrers Michael Pöckh. - Saalbau mit eingezogenem, halbrund geschlossenem Altarraum; im W Empore
+
+'''Autor und Entstehungszeit:''' Am O-Rand des LHs-Freskos befindet sich die Jahreszahlangabe MDCCXXXIX. Mit diesem Datum stimmen Baujahr und stilistischer Befund der Deckenbilder nicht überein, auch die Art der Datierung in so auffälliger Weise und in römischen Ziffern ist für das 18. Jh. ungewöhnlich. Mit den Deckenbildern des Malers Johann Caspar Schäffler, den Wilhelm Neu als Autor für das LHs-Fresko in Betracht zieht, lassen sich keine stilistischen Übereinstimmungen feststellen. Soweit der Zustand des sehr übermalten Freskos es erlaubt, läßt sich eine stilistische Verwandtschaft zu den Deckenbildern der nahegelegenen Filialkirche in Lengenfeld feststellen. Die tafelbildartige Komposition und der Bildaufbau sind in beiden LHs-Fresken ähnlich, desgleichen stimmt der Figurentypus in mancher Beziehung überein, besonders anschaulich beim Vergleich der Apostel in Stoffen mit den Evangelisten der Kartuschen in Lengenfeld; typisch ist auch der Kopftypus mit gerecktem Hals und vorgestrecktem Kinn. Demnach könnte es sich in beiden Fällen um den gleichen - unbekannten - Maler handeln, woraus sich auch eine ungefähr gleiche Datierung der Deckenbilder, etwa ins 6. Jahrzehnt des 18. Jh. ergibt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Flachtonne mit Stichkappen, AR Tonne mit Stichkappen
+
+Rahmen: Stuckprofil
+
+Technik: Fresko mit Seccoübermalungen; A, A<sub>1-6</sub> polychrom, B<sub>1-2</sub> monochrom ocker, W<sub>1-2</sub> monochrom blau Maße: A Höhe 6,65 m; 6,60 × 4,50
+
+Erhaltungszustand und Restaurierungen: Restaurierungen fanden 1858 und 1903 statt, bei der letzten umgreifenden Renovierung 1959/60 durch A. Dasser wurden die Kartuschbilder im AR (B<sub>1-2</sub>, W<sub>1-2</sub>) freigelegt und die des LHs, sowie das große LHs-Fresko ausgebessert bzw. eine größere Fehlstelle am rechten Bildrand ergänzt.
+
+Bei einer früheren Restaurierung (vielleicht gelegentlich der 1924 von Oswald Völkel vorgenommenen Neuausmalung des ARs) wurden die Langhausbilder tiefgreifend übermalt und in ihrer originalen Substanz schwer angegriffen.
+
+für Changeantfarben verändern den barocken Charakter völlig, desgleichen das breiige Gelb der Himmelsszenerie und das schwerfällige Pathos sowohl der himmlischen als auch der irdischen Figuren. Darüber hinaus sind Veränderungen im Detail vorgenommen worden (die Alpen im Hintergrund und die Pappelspitzen zwischen den Köpfen der Apostel, der männliche Engel mit Römerkopf, der Maria eine Lilie darbringt, das beziehungslos angebrachte Ornament auf dem Säulensockel sowie die Ziervase darüber, die am Boden verstreuten Attribute neben einem Weihwasserkessel mit Pinsel, schließlich der mit dem Beschauer Beziehung aufnehmende Blick des Apostels in der Mitte), die den Charakter eines nachempfundenen Barock vorherrschen lassen.
+
+
+[[File:Band01_chunk005_p017_img001.jpg|thumb|A Himmelfahrt Mariens]]
+
+
+
+== Bildabfolge und Inschriften ==
+
+
+A Himmelfahrt Mariens Buchinschrift (teilweise verunklärt): Magni/ficat / Anima / mea /Dominum /et Exsul/ tavit / Spiridus / Meus . . . (Lc 1,46 f.)
+
+A<sub>1</sub>—<sub>6</sub>, B<sub>1</sub>—<sub>2</sub>, W<sub>1</sub>—<sub>2</sub> Mariensymbole (schwer beschädigt, keine Abbildungen)
+
+A<sub>1</sub> Sedes sapientiae — Thron mit Baldachin
+
+A<sub>2</sub> Speculum justitiae — Spiegel
+
+A3 <i>Domus aurea</i> — Kuppelbau
+
+A4 Rosa mystica — Rose in Vase
+
+A<sub>5</sub> Vas insigne devotionis — Monstranz
+
+A6 Vas spirituale — Weihrauchfaß
+
+B<sub>1</sub> Tuetur omnes — Turm
+
+B<sub>2</sub> Monstrat iter — Schiff
+
+W<sub>1</sub> ALTIOR EX FUNDO EST – Sonne über Booten
+
+W<sub>2</sub> NON RESPECTA LATENS NOBILIS EXORTUR - Sonne über Segelschiff zwischen Felsen.
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 380
+
+KDB OB. (1) S. 549
+
+Neu, Wilhelm, Johann Caspar Schäffler - ein vergessener Maler des Lech – Ammerseegebietes, in: Lechisarland 1969. S. 36—44.
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1964 S. 624.
+<!-- citation-page-bottom: Band01 p233 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=18 -->
+{{End}}

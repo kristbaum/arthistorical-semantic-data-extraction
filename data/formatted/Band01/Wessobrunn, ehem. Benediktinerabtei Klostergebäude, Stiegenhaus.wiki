@@ -1,0 +1,57 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=574
+|Originalseitenbis=574
+|Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Stiegenhaus
+|Typ=Sakral
+|Ort=Wessobrunn
+|davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Magdalenenzimmer
+|danach=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p574 -->
+
+<!-- header: WESSOBRUNN -->
+
+Stiegenhaus im ehemaligen Gästetrakt, z. Z. Zweigniederlassung der Missionsbenediktinerinnen von Tutzing
+
+'''Zum Bauwerk:''' Das Stiegenhaus (7,75 × 5,15 m) befindet sich in dem unter Abt Leonhard Weiß ab 1680 errichteten Gästetrakt
+
+'''Auftraggeber:''' Abt Leonhard Weiß von Wessobrunn (1671–96)
+
+
+'''Autor und Entstehungszeit:'''
+
+
+Der stilistische Befund legt eine Datierung in die 90er Jahre nahe: Die Quadraturmalerei ist pedantisch-streng durchgeführt, die einzelnen Architekturteile sind monoton gereiht und haben einen gerüstartigen Charakter. Belebende Elemente fehlen; die Laubgirlande oberhalb der Attika wirkt musterartig, der Architektur verwandt. Fortschrittlich ist nur der Einblick in den imitierten Stiegenhausumgang mit den perspektivisch überzeugend wirkenden Kreuzgratgewölben und den Fensteröffnungen. Die Hellfarbigkeit des Freskos, die für eine spätere Datierung sprechen könnte, ist augenscheinlich auf den schlechten Erhaltungszustand zurückzuführen. Außerdem ist ein wesentlicher Teil des Bildes, der Himmelsausschnitt, vollkommen ruiniert, so daß die Datierung nur mit Einschränkung vorgenommen werden kann.
+
+
+== Befund ==
+
+
+Rahmen: Profiliertes Gesims in Stuck
+
+Technik: Fresko; polychrom
+
+Maße: Höhe (vom Betrachterstandort auf dem Treppenabsatz aus gemessen) 6,30 m; 7,35 × 4,75
+
+Erhaltungszustand und Restaurierungen: 1944 wurde das ehemals übertünchte Deckenbild freigelegt und restauriert. Die Farbsubstanz hat stark gelitten, die Farben sind fahl, die Architekturzeichnung weist viele kleine Fehlstellen auf. Der Himmelsausschnitt ist ruiniert und nur noch als Wolkenhimmel eingepaßt.
+
+
+== Beschreibung ==
+
+
+Uber den architektonisch ungegliederten Wänden des Treppenhauses setzt oberhalb des Stuckgesimses unvermittelt eine Quadraturmalerei ein. Diese gibt — in reiner Zentralperspektive konstruiert — einen galerieartigen Umgang, also ein weiteres Stockwerk wieder. Die architektonischen Formen des Bildes nehmen wenig Bezug auf die Realarchitektur: Die rotmarmornen Baluster der Bildbrüstung harmonieren mit den Geländerbalustern des Treppenhauses, die imitierten sind weniger gedrungen geformt als die realen. Auch die abschließende doppelte Bogenstellung an der einen Schmalseite des Treppenhauses wird in der Bildarchitektur berücksichtigt, doch in ganz eigener Formensprache: Anstelle der realen schlichten Pfeiler stehen im Bild korinthische Säulen auf hohen Brüstungssokkeln vor den Pfeilern. Statt der mit üppigem Stuckornament besetzten Bogenlaibungen sieht man im Bild kahle gemauerte Bögen, ebenso wie der Einblick in die Kreuzgratgewölbe des illusionierten Umganges nicht den realen reich stuckierten Flachtonnen der Gänge entspricht (vgl. dazu die Abb. des Treppenaufganges im GKF Nr. 13). – Die Bildarchitektur gibt über einer vasengeschmückten Attika den Blick in den Himmel frei, doch ist das Himmelsbild neueren Datums.
+
+[[File:Band01_chunk012_p013_img001.jpg|thumb|Illusionistische Weiterführung des Stiegenhauses]]
+
+
+Literatur siehe S 599
+
+{{End}}

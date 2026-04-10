@@ -1,0 +1,64 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=450
+|Originalseitenbis=450
+|Lemma=Polling, ehem. Augustiner-Chorherrenstift, Stiftkirche
+|Typ=Sakral
+|Ort=Polling
+|davor=Pähl, Pfarrkirche St. Laurentius
+|danach=Polling, ehem. Augustiner-Chorherrenstift, Reliquienkapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p450 -->
+
+<!-- header: POLLING -->
+
+
+== POLLING ==
+
+
+Ehemaliges Augustiner-Chorherrenstift, Diözese Augsburg Kirchenbau: Stiftskirche, z. Z. Pfarrkirche S. 450 Reliquienkapelle, z. Z. Sakristei S. 451 C1. C1 . 1 . . . 1
+
+Prälatenkapelle im Prälaturstock, z. Z. Hauskapelle der Dominikanerinnen S. 456 Bibliothek im Bibliothekstrakt, z. Z. Privatbesitz S. 459 Saal im alten Studienseminar, z. Z. Schulzimmer der Volksschule S. 468 Literatur S. 469
+
+Ehem. Stiftskirche, jetzt Pfarrkirche
+
+'''Patrozinium:''' Kreuzauffindung
+
+'''Zum Bauwerk:''' Spätgotische, dreischiffige Hallenkirche, 1416–20 erbaut, erweitert und stuckiert 1621–26 durch Georg Schmuzer. Neuausstattung 1761–65; ein Deckenfresko über der Orgelempore.
+
+'''Auftraggeber:''' Propst Franz Töpsl von Polling (1744–96), dessen Wappen sich in einer Rocaillekartusche am O-Rand des Deckenbildes befindet.
+
+'''Autor und Entstehungszeit:''' In der Literatur wird das Bild Johann Baptist Baader zugeschrieben; ein Vergleich mit anderen Bildern dieses Autors, der in Polling häufig beschäftigt wurde, ergibt die Richtigkeit dieser Zuschreibung. Zwischen Orgel und Freskobild ist in einer gemalten Kartusche die Jahreszahl der Entstehung angegeben MDCCL/XVI; zu den Seiten zwei Putti mit Horn und Posaune
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: verschliffenes Kreuzgewölbe Rahmen: vergoldete Stuckleiste vor goldfarbenem Ornamentfeld
+
+Technik: Fresko; polychrom
+
+Maße: Höhe (vom Boden der Empore) 9,40 m, 2,30 × 2,80 Erhaltungszustand und Restaurierungen: Reinigung 1929. Der Zustand ist sehr gut, die Farbsubstanz nahezu unbeschädigt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+DAVID PSALLENS Über der Orgel ist, dem Ort entsprechend, das Bild des psalmodierenden Königs David; die Figur scheint in vorderster Bildebene fast auf dem Rahmen zu knien. David ist in prächtiger Königskleidung dargestellt, mit Krone und hermelingefüttertem Mantel, und hält die Harfe in Händen. Vor ihm stützen zwei Putti eine Tafel mit darübergelegter Schriftrolle <i>LAUDATE / EUM IN CHOR:/DIS ET / ORGANO / PS 150 (= Ps 150,4)</i>
+
+hellen Strahlen umgeben, das Dreieck als Symbol der Dreifaltigkeit.
+
+Direkt hinter dem Bildrahmen fällt der Boden steil nach hinten ab. Die Raumtiefe ist gering, nach hinten ist der Bildraum von einer diffusen, unbestimmten Wolken- und Himmelskulisse abgeschlossen.
+
+Nach oben erscheint der Raum durch die helle Glorie geöffnet; dadurch und durch die Verkürzung und Untersicht in den Figuren entsteht eine deutliche Illusionswirkung. Der Farbdreiklang in Rot-Gold-Blau, verbunden mit reichlich gebrochenem Weiß, ergibt vor dem Goldbrokat-Hintergrund eine festliche Wirkung. 
+
+[[File:Band01_chunk010_p001_img001.jpg|thumb]]
+
+{{End}}

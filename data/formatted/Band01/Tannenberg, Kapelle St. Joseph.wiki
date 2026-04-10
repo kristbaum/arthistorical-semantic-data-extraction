@@ -1,0 +1,117 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=545
+|Originalseitenbis=547
+|Lemma=Tannenberg, Kapelle St. Joseph
+|Typ=Sakral
+|Ort=Tannenberg
+|davor=Tannenberg, Pfarrkirche St. Oswald
+|danach=Untereglfing, Filialkirche Mariä Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Kapelle St. Joseph, Gemeinde und Pfarrei Tannenberg, Diözese Augsburg; z. Z. der Ausmalung Präsentationsrecht beim Kurfürsten von Bayern, bischöfliches Pflegamt Hilsen
+
+'''Patrozinium:''' St. Joseph
+
+'''Zum Bauwerk:''' Das Chronogramm am Chorbogen bezieht sich auf das Jahr der Errichtung und Ausmalung sanCtVs IosephVs NobIs CoraM Deo sIngVLarIs patronVs (1774) - Zweiachsiger Saal mit eingezogenem AR; AR rechteckig mit apsidialem Schluß; Empore im Westen
+
+'''Autor und Entstehungszeit:''' Signatur in B an den Stufen links F.X. bernhardt / Pinxit. de Eggenthall / 1774. Von Franz Xaver Bernhardt stammen auch die Emporen- und Wandbilder sowie das Altarantependium.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A und B Flachdecke Rahmen: A, B imitierte Stuckprofilrahmen, A1-4, B1-2 imitierte Kartuschrahmen mit vegetabilen Ornamenten
+
+Technik: Fresko; A, B polychrom, A1-4, B1-2 zweifarbig ocker und hellgrün, W1–4 polychrom, EB1, EB3 monochrom rot, EB2 monochrom ocker
+
+Maße: A Höhe 6,10 m; 3,00 × 3,60
+
+B Höhe 5,60 m; 2,90 × 2,20
+
+Erhaltungszustand und Restaurierungen: Das Fresko A im Langhaus war übertüncht; bei der Freilegung wurde eine große schadhafte Stelle in der östlichen Bildhälfte ausgebessert; leichte Risse. A3 und A4 fast ganz neu gemalt; B leichte Risse, wohl auch retuschiert.
+
+Beschreibung und Ikonographie
+
+A ST. JOSEPH PATRON VON TANNENBERG Der Standort des Betrachters liegt unterhalb des westlichen Bilddrittels; das einansichtige Fresko hat seine Basis im Osten. Den größten Teil der Bildfläche nimmt eine Himmelsszene ein. Auf Wolken kniet Joseph und blickt fürbittend zu den göttlichen Personen der Dreifaltigkeit empor, mit der Hand auf die irdische Szene weisend. Ein Putto trägt die Lilie, das Attribut der Keuschheit Josephs. Zu Füßen Christi kniet bittend die Fürsprecherin Maria.
+
+
+[[File:Band01_chunk011_p023_img002.jpg|thumb]]
+
+
+Über dem östlichen Rahmen ist eine weite Landschaft mit dem Ort Tannenberg in Vogelperspektive dargestellt (dies ist wahrscheinlich ein Werk des Restaurators – besonders auffällig ist die zwergartig kleine Figur des knienden Beters im Vordergrund).
+
+A<sub>1-4</sub> EMBLEME Die in Kartuschen gemalten Emblembilder haben oberhalb und unterhalb Spruchbänder, diese enthalten mit Ausnahme von A3 lateinische Lemmata und deutsche Epigramme. – Entsprechend sind auch B1 und B2 gestaltet.
+
+A<sub>1</sub> Latet abundantius. – Ein Füllhorn mit Früchten und Münzen – im überfluss ich theile mit, was nur verlangen deine hitt.
+
+A<sub>2</sub> Clausa recludo. – Ein verschlossener Getreidekaster auf freiem Platz, zu den Seiten wird hinter Gesträuch ein Kornfeld sichtbar. - in armuth, undt auch hungersnoth verschaf ich dir das täglich brodt.
+
+A<sub>3</sub> Causas mille salutis habet. — Ein Apothekerschrank ist einem Baum, unter dem krankes (?) Vieh lagert, gegenübergestellt. - hier findet man der mittl vil, artznei, wie man es haben will.
+
+Die Embleme A1 und A2 knüpfen offensichtlich bei der Geschichte des ägyptischen Joseph an, und zwar beziehen sie sich auf Josephs Verwaltertätigkeit in den sieben Hungerjahren, die auf die sieben fruchtbaren Jahre der Vorrathaltung folgten - der verschlossene Getreidekasten, der zur rechten Zeit geöffnet wird und entsprechend das Füllhorn. Vielleicht spielen die Münzen im Füllhorn auch auf die Geldgeschenke an, die Joseph seinen Brüdern bei ihrem Kauf von Getreide in Ägypten zuspielte (vgl. Gen 41–43) Das dritte Emblem A3 zeigt zwar kein Motiv, das sich direkt aus der Josephsgeschichte ableiten läßt, entspricht jedoch sinngemäß den beiden ersten, es bezieht sich anscheinend auf den in allen Nöten Rat wissenden Joseph in Ägypter (Traumdeutungen, Verwaltungstätigkeit).
+
+Die lateinischen Inschriften sind auf die Icon bezogene Lemmata, während die deutschen Erläuterungen dazu allgemein gehaltene moralische Aussagen geben, die sich auf Joseph, den Nährvater Jesu, beziehen. Die Tugenden Josephs, des Nährvaters Jesu, werden hier durch emblematische Motive, die aus der Geschichte des alttestamentlicher Joseph stammen, erläutert. Das tertium comparationis bilden die Tugenden dieser beiden biblischen Männer – der ägyptische Joseph gilt seit der patristischen Exegese als Verkörperung verschiedener Tugenden. Außerdem spiel die Analogie der Namen eine Rolle. – Vergleichbares findet sich in der von Christian Winck 1765 ausgemalter alten Pfarrkirche St. Joseph in Starnberg (s. LKr. Starnberg).
+
+A4 unica via humili funere / surgit in altum — Ein Voge erhebt sich aus einem brennenden Nest (?). Gemeint is wohl der Phönix, der sich aus der Asche erhebt. Dieses Emblem ist sicher neu: Die Formen von Vogel und Nesteine Art Dornenkrone – und die Versatzstücke im Hintergrund zeigen einen Restaurierungsmalstil. Auffällig is auch, daß es hier nur eine lateinische Inschrift gibt, die auf das obere und untere Band verteilt ist. Auch inhaltlich füg
+<!-- citation-page-bottom: Band01 p545 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=24 -->
+<!-- citation-page-top: Band01 p546 -->
+
+<!-- header: TANNENBERG -->
+
+
+[[File:Band01_chunk011_p024_img001.jpg|thumb|B Vermählung Josephs und Mariens]]
+
+
+sich das Emblem dieser Reihe nicht ein, es gibt ein christliches Auferstehungssymbol wieder.
+
+B VERMÄHLUNG JOSEPHS UND MARIENS (apokryph) Auf einer mit Rosen bestreuten Stufe knien Maria und Joseph einander gegenüber und reichen sich die Hand. Sie sind in weite, bauschige Gewänder gehüllt. Maria trägt einen Kranz aus Rosen im Haar, Joseph eine Lilie in der Hand. Hinter ihnen steht der segnende Hohepriester und ein Tempeldiener mit der geöffneten Heiligen Schrift zur Seite die Gesetzestafeln. Den engen Raum umschließt
+
+
+[[File:Band01_chunk011_p024_img002.jpg|thumb|EB3 Josephs Werkstat]]
+
+
+eine Architektur, deren Arkade in der Mitte den Blick in zwei Kuppelräume freigibt, darin die niederschwebende Geist-Taube. Auch diese Szene ist symmetrisch aufgebaut. In den Architekturen, nicht aber in den Figuren ist einige Höhenillusion angestrebt. Farbig bestimmt den Grundton das Hellrosa bis Graugelb der Architektur, von dem sich das helle Blau der Kleider Mariens und Josephs abhebt.
+
+
+[[File:Band01_chunk011_p024_img003.jpg|thumb|V4 Kruzifixus]]
+
+
+
+[[File:Band01_chunk011_p024_img004.jpg|thumb]]
+
+
+B<sub>1</sub> Sola mihi redolet. – Rosen in einer Vase – aus dem schönen blumenflor die rosen ich ziehe vor. – Die Rose – ein klassisches Symbol Mariens — bezeichnet hier die auserwählte Braut Josephs.
+
+B<sub>2</sub> ubique similis — Palme am Wasser und Wolke. — kein wolckh weder sonenschein, kan der tugent schädtlich sein. Die Palme, die zahlreiche Sinnbezüge haben kann, wird durch die Inschriften als Bild der unerschütterlichen Standhaftigkeit und Beharrlichkeit Josephs gedeutet.
+
+An der Emporenbrüstung drei Fresken mit Szenen aus dem Leben Josephs: EB1 Der Engel fordert Joseph im Traum zur Flucht auf (Mt 2,13), EB2 Flucht nach Ägypten (Mt 2,13), EB<sub>3</sub> Werkstatt Josephs. Das Altarantependium zeigt eine Darstellung des Todes Josephs (apokryph). An der Chorwand zwei Fresken. W1 Hl. Sippe; W2 die Nothelfer vor dem apokalyptischen Lamm im himmlischen Jerusalem. An den Langhauswänden zwischen den Fenstern zwei Kartuschen: W3 Hl. Georg, W4 Kruzifixus.
+
+Literatur siehe S. 547
+
+
+[[File:Band01_chunk011_p024_img005.jpg|thumb]]
+
+
+
+[[File:Band01_chunk011_p024_img006.jpg|thumb|W<sub>2</sub> Vierzehn Nothelfe]]
+
+
+
+[[File:Band01_chunk011_p024_img007.jpg|thumb]]
+
+
+
+[[File:Band01_chunk011_p024_img008.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p547 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=25 -->
+{{End}}

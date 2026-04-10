@@ -1,0 +1,87 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=280
+|Originalseitenbis=281
+|Lemma=Welden, Filialkirche St. Stephan
+|Typ=Sakral
+|Ort=Welden
+|davor=Weil, Pfarrkirche St. Mauritius
+|danach=Winkl, Pfarrkirche St. Peter und Paul
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p280 -->
+
+<!-- header: WELDEN -->
+
+<!-- header: WELDEN -->
+
+Filialkirche, Gemeinde Fuchstal, Pfarrei Leeder, Diözese Augsburg; z. Z. der Ausmalung Pfarrei und Herrschaft Leeder, deren Besitzer das Hochstift Augsburg war
+
+
+'''Patrozinium:''' St. Stephan
+
+
+'''Zum Bauwerk:''' Anstelle einer spätgotischen Kirche, von der nur mehr der Turm steht, wurden LHs und AR 1780/84 neu aufgeführt. – Kleiner, einfacher Saal zu zwei Jochen, eingezogener AR zu einem Joch mit dreiseitigem Schluß; im W Empore
+
+'''Autor und Entstehungszeit:''' Das Langhausfresko ist signiert: G. ALOYSIUS GEIBLER/KAUFBEUREN PINX. 1784. Georg Aloysius Gaibler (*1751 †1813) war Bürger und Maler in Kaufbeuren. Vermutlich lernte er bei Joseph Anton Walch (dessen Enkel seine Tochter heiratete). Aber auch die stilistische Verwandtschaft zu Joseph Anton Mörz ist unverkennbar (vgl. Fresko B mit Ellighofen, Fresko A des gleichen Themas).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A und B Flachdecke Rahmen: A und B Stuckprofil Technik: Fresko; polychrom Maße: A Höhe 6,60 m · 5,10 × 4,10 m; B Höhe 6,40 m · 4,60 × 3,00 m
+
+Erhaltungszustand und Restaurierungen: Restaurierungen des Kircheninnern 1884 und 1955. Der Zustand ist relativ gut bis auf geringfügige Abblätterungen und Übermalungen.
+
+
+[[File:Band01_chunk006_p016_img001.jpg|thumb|A Maria und Joseph Fürsprecher von Welden]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+A MARIA UND JOSEPH FÜRSPRECHER VON WELDEN Hinter einer geschwungenen steinernen Brüstung, die der unteren runden Rahmenausbuchtung folgt, erstreckt sich eine einfache bäuerliche Landschaft in die Tiefe: die Kirche von Welden und einige Bauernhäuser, der Wald und in der Ferne die Berge. An der Brüstung haben sich eine Schar Bittflehender mit ihrem Pfarrer versammelt; links fünf Bauern, rechts ein Krüppel, ein Kranker und eine Frau. Alle haben den Blick zum Himmel gerichtet, wo in den Wolken der hl. Joseph kniet, von Engeln begleitet, die seine Attribute – Zimmermannswerkzeug und Lilie – bei sich haben. Maria, schräg über ihm thronend, weist mit einer fürbittenden Geste auf das bittende Volk von Welden; sie hat wie Joseph den Blick nach oben gerichtet, wo die Dreifaltigkeit erscheint, Gottvater mit Zepter und Weltkugel und Christus mit Kreuz, darüber die Taube des Hl. Geistes.
+
+Bei der Darstellung der Brüstung und der dahinter befindlichen Figuren steht Gaibler noch in der Tradition der illusionistischen Deckenmalerei, ebenso bei der Darstellung der himmlischen Erscheinung, und das zu einem Zeitpunkt, wo auch in der betreffenden Gegend diese Positionen längst aufgegeben waren. An die neuen Darstellungsmöglichkeiten, wie sie z. B. das nahegelegene Denklingen zeigt, erinnert nur die realistische Landschaft mit ihrer beträchtlichen Tiefe.
+
+Das Bild ist sowohl im Gesamteindruck als auch im Detail nicht ohne Frische und Ursprünglichkeit, in dem Beharren bei alten Formen von bäuerlicher Naivität. Die Farbigkeit ist fahl und ohne Leuchtkraft.
+
+B STEINIGUNG DES HL. STEPHANUS (Ac 7,57-60) Schauplatz der Szene ist ein kleines felsiges Plateau mit zwei im Vordergrund gelagerten Soldaten. Im Mittelgrund kniet der Heilige in golden und weißer Diakonstracht mit ausgebreiteten Armen und zum Himmel gerichtetem Blick; dicht an ihn drängen sich drei Henkersknechte mit hochgehobenen Steinbrocken. Rechts sitzt unter einem kleinen und fast dürren Baum ein junger Mann, der mit der Rechten auf ein am Boden liegendes Gewand weist: der junge Saulus, der nach der Schrift die Kleider der Steiniger hütete. Links kommt aus dem Hintergrund ein Offizier zu Pferde mit hochgehobener, bauschig drapierter Fahne. - Die karge, bühnenhaft seichte Landschaftsszenerie, auf der das Geschehen spielt, fällt nach hinten steil ab; dort drängt sich eine Menschenmenge, von der nur die Köpfe sichtbar sind. In der Ferne erblickt man eine hochragende, prächtige Architekturkulisse mit Tor, Türmen und Kuppeln: Jerusalem.
+
+Im Himmel schwebt ein Engel herab und hält Kranz und Palme für den ersten Martyrer des Christentums bereit
+
+W Maria und Johannes Ev. unter dem Kreuz, Fresko an der Stirnwand des Presbyteriums.
+
+
+[[File:Band01_chunk006_p016_img002.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p016_img003.jpg|thumb]]
+
+
+[[File:Band01_chunk006_p016_img004.jpg|thumb|W Maria und Johannes Ev. unter dem Kreuz]]
+
+
+
+== Literatu ==
+
+
+Braun-Augsburg, Bd 1, S. 160, Bd 2, S. 73.
+
+Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 90 f. Welden (o. V.), in Deutsche Gaue, Gemeindebeschreibungen des Bezirksamts Kaufbeuren 1923 ff.
+
+Fuchs, Adolf, Georg Alois Gaibler, in: Kaufbeurer Geschichtsblätter 2, 1955 bis 1958, S. 126 ff.
+
+Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen Kunstdenkmale) München 1960, S. 206.
+<!-- citation-page-bottom: Band01 p281 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=17 -->
+{{End}}

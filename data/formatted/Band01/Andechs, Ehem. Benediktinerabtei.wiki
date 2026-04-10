@@ -1,0 +1,28 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=289
+|Originalseitenbis=289
+|Lemma=Andechs, Ehem. Benediktinerabtei
+|Typ=Sakral
+|Ort=Andechs
+|davor=Winkl, Pfarrkirche St. Peter und Paul
+|danach=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Ehem. Benediktinerabtei, jetzt Benediktinerpriorat, zur Abtei St. Bonifaz München gehörig; Gemeinde und Pfarrei Erling, Diözese Augsburg
+
+Kloster- und Wallfahrtskirche mit Törringkapelle S. 300 Josephskapelle S. 303 Sakristei S. 304 Ehem. Kapellenraum S. 305 Ehem. Prälatenkapelle S. 306
+
+Kloster mit Fürstensaal S. 308 Fürstenzimmer S. 309
+
+Ehem. Klosterapotheke S. 312
+
+Literatur S. 316
+
+{{End}}

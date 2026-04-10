@@ -1,0 +1,137 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=381
+|Originalseitenbis=387
+|Lemma=Bernbeuren, Pfarrkirche St. Nikolaus
+|Typ=Sakral
+|Ort=Bernbeuren
+|davor=Bauerbach, Filialkirche St. Leonhard
+|danach=Bernbeuren, Kapelle Mariä Heimsuchung
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung Im mediatort des Hochstifts Augsburg, bischöfliches Pflegam Filssen
+
+'''Patrozinium:''' St. Nikolaus
+
+'''Zum Bauwerk:''' Die mittelalterliche Kirche wurde beim Dorfbrand 1720 zerstört. Der Wiederaufbau stand unter Leitung des Füssener Baumeisters Johann Georg Fischer und war 1723 vollendet, laut Inschrift an der Orgelempore: »Anno MDCCXXIII / Erbauet unter der Regierung Ihro Durchlaucht Alexander Siegmund Bischof zu Augsburg / der Zeit Pfarrer H. Joh. Konrad Fischer / und Richter Joh. Georg Kösl.« »Anno MDCCXXI / Erbauet unter der Regierung Ihro Durchlaucht Alexander Siegmund Bischof zu Augsburg / der Zeit Pfarrer H. Joh. Konrad Fischer / und Richter J. Georg Kösl.« Am Chorbogen Wappen des Alexander Sigmund Bischof von Augsburg und Pfalzgraf von Neuburg (1690-1737). Stukkierung des Langhauses durch J. B. Siuter (Hitchcock S. 245, Anmerkung 44). — Fünfachsiger Saalbau mit stark eingezogenem Chorraum, der in einen quadratischen, überkuppelten Raum und einen fünfseitig geschlossenen AR unterteilt ist. Im W Doppelempore.
+
+'''Auftraggeber:''' Für das LHs kommt die marianische Bruderschaft in Betracht, für den Chorraum Pfarrer Joseph Burckart (Chronogramm in D, siehe Autor) unter Clemens Wenzeslaus Bischof von Augsburg (1768–1812)
+
+'''Autor und Entstehungszeit:''' Durch die Signatur in B rechts auf den Stufen: Johan hell pinx. sind die Fresken des Lang- hauses (A, B, C, 1–8) für Johann Heel gesichert. Das Datum der Kirchenweihe am 7. Oktober 1725 wird wohl den terminus ante quem für die Fresken festlegen. Auch die Bandstukkaturen im LHs entsprechen dieser Datierung. Zur Einweihung waren auch die Pendentifkartuschen im Chor (D1-4) fertiggestellt, für die der einheimische Maler Mang Anton Schropp 1723/24 11 fl. erhielt (Schnell). Die Freskierung des übrigen Chorraumes (D, E) erfolgte erst 1775 durch Franz Xaver Bernhardt. Er signierte im O von Fresko D oberhalb des gemalten Rahmens auf einem Stein: F. Xaveri / Bernhardt pinxit / 1775 (zur Person des Malers siehe Burggen, Pfarrkirche). In dem Scheinrahmen von D sind zwei Chronogramme gemalt, im W: sVbCVraDoMIni IosephI / bVrCkat pLebanI bernbVrg. Im O: D. O. M (= Deo Optimo Maximo) / sVb / DIVI nICoLaI / epIsCopi MIIrensIs / honorIbVs. Beide Chronogramme ergeben die Jahreszahl 1775.
+
+Im Pfarrhof befindet sich eine Entwurfsskizze, Ol auf Leinwand, 73,5 × 58 cm (abgebildet bei Schnell, 1971). Sie hat als Vorlage für die Komposition von D gedient, ist jedoch anscheinend - wegen der stark abweichenden Umrißform – nicht unmittelbar für dieses Freskofeld geschaffen worden. Die Vermutung (Schnell 1935, aber nicht mehr in der Ausgabe von 1971, und Richard Hofmann), daß diese Skizze aus den zwanziger Jahren des 18. Jh. und vor Bergmüller stamme, ist nicht zu unterstützen. Zeitlich und stilistisch kann sie sehr wohl von Bernhardt selbst geschaffen worden sein, der dann bei der Übertragung ins Bernbeurener Kuppelfeld einige Änderungen vornahm.
+
+
+[[File:Band01_chunk008_p016_img003.jpg|thumb|D St. Leonhard leistet der Königin von Frankreich Beistand bei ihrer Niederkunft (Fälschung des 19. Jh.)]]
+<!-- citation-page-bottom: Band01 p381 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=17 -->
+<!-- citation-page-top: Band01 p382 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=17 -->
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs (A-C) Korbbogentonne mit Stichkappen, D Pendentifkuppel, E kalottenförmiges Stichkappengewölbe
+
+Rahmen: A, B, C, D, E, 1–8, D<sub>1</sub>–4, Stuckprofil Technik: Fresko; polychrom
+
+Maße: A Höhe 15,80 m; 4,30 × 5,40  
+B Höhe 15,80 m; 9,30 × 5,40  
+C Höhe 15,80 m; 4,30 × 5,40  
+D Höhe 15,50 m (Stich 1,00 m); Φ7,80  
+E Höhe 14,40 m; 4,90 × 6,10  
+
+Erhaltungszustand und Restaurierungen: 1860–64 und 1936 Restaurierungen. Die Pendentifkartuschen D<sub>3</sub>–4 wurden 1936 durch Kutruff neu ausgemalt (von Kutruff stammen auch die Fresken an den Emporenbrüstungen). Die ursprüngliche Farbigkeit der LHs-Fresken A, B, C und besonders die der Medaillons und Kartuschen 1–8 ist durch Übermalung teilweise verfälscht. Risse in A, B, C; Feuchtigkeitsschäden und Schimmelbefall im AR-Fresko D.
+
+A TEMPELGANG MARIENS Das Fresko über der Empore ist einansichtig und tafelbildmäßig gemalt. Betrachterstandort unterhalb des östlichen Bildrandes. Vor einer Mauer, deren Torbogen den Blick auf eine Kirchenfront freigibt, ziehen von rechts Joachim und Anna, die Eltern Mariens, begleitet von einer Dienerin mit Opfertauben, zu den Stufen des Tempels. Ergriffen blicken sie zu dem Hohenpriester und seinem Gefolge, der vor das durch zwei Säulen angedeutete Tempeltor getreten ist.
+
+B HIMMELFAHRT MARIENS Das einansichtige Bild hat seine Basis an der Ostseite des längsgerichteten, sich über zwei Joche erstreckenden Freskofeldes. Die Komposition ist in zwei übereinanderliegende Zonen geteilt. Auf einer verwinkelten Treppenanlage stehen und knien die Apostel um den Sarkophag, im Vordergrund Petrus und Jakobus Major durch die Attribute Schlüssel und Pilgermuschel gekennzeichnet. Die Apostel blicken zu Maria, die auf einer quergelagerten Wolkenbank emporschwebt. Sie lehnt sich zurück und blickt zu dem sich über ihr öffnenden Himmel, in dem das strahlende Trinitätssymbol – ein Dreieck mit drei Flammenzungen – erscheint. Putti tragen Rosen, Palme und Lorbeerkranz. Ein Portikus links im Bild und die vom Sarkophag her aufwärts ziehenden Wolken bilden allein die Verbindung zwischen irdischer und himmlischer Zone. Neben einigen Verkürzungen und Untersichten bei den Figuren ist der Portikus das einzige Motiv einer Höhenillusion, er scheint, wie häufig Architekturaufbauten in Fresken Heels, umzustürzen. Farblich trifft das helle Blau im Himmel und bei den Kleidern Mariens und Petri hervor. Stufen und Wolken sind grauweiß, die Glorie von Weißlichgelb bis Ocker abgestuft, die Architektur ist in einem hellen Graugrün getönt, von dem sich die blau marmorierten Säulen abheben. Die Kleidung der Apostel und Engel ist in Ockergelb, stumpfem Rost und in hellen Grüntönen gehalten.
+
+[[File:Band01_chunk008_p017_img001.jpg|thumb]]
+
+[[File:Band01_chunk008_p017_img002.jpg|thumb|5 FECIT POTENTIAM IN BRACHIO SUO DISPER- SIT / SUPERBOS MENTE CORDIS SUI. Luc. C. I. V. 51 Maria zeigt die Macht von Gottes Arm: sie stützt das auf einer Weltkugel stehende Jesuskind, das in einer Verbalanalogie das Erlöserkreuz im Arm hält.]]
+
+[[File:Band01_chunk008_p017_img003.jpg|thumb|C Immaculata Conception]]
+
+C IMMACULATA CONCEPTIO Über dem östlichen Rahmen, der durch ein schmales gemaltes Gesims eine Deckenöffnung illusioniert, steht Maria auf der Mondsichel, von der Weltkugel getragen. Engel und Putti umflattern die Jungfrau. Die Anordnung der Engel sowie das reichbewegte Gewand Mariens geben der symmetrischen Komposition etwas Schwung.
+
+1–8 MAGNIFICAT Vier Medaillons und vier Kartuschen, jeweils mit der Darstellung der auf Wolken thronenden Maria zur Illustrierung einer Versstelle des Magnificat (Lc 1, 46–55).
+
+1 EXULTAVIT SPIRITUS MEUS IN DEO / SALUTARI MEO Luc. C. I. V. 47. Maria blickt zum Himmel und greift zu ihrem Herzen, vor dem die Geistestaube schwebt. Hier wird durch die Geist-Taube vor dem Herzen die Empfängnis Christi durch den Hl. Geist veranschaulicht.
+
+2 RESPEXIT HUMILITATEM ANCILLAE SUAE ECCE ENIM EX / HOC BEATAM ME DICENT OMNES GENERATIONES. Lc. C. I. V. 48. Maria, strahlenumglänzt, sitzt mit demütig gebeugtem Haupt und blickt auf ihren Leib, in dem das Herz Christi erstrahlt; eine Maria gravida Darstellung, in der das Herzsymbol anstelle der vom Mittelalter her tradierten Kindsgestalt bevorzugt wurde.
+
+[[File:Band01_chunk008_p017_img004.jpg|thumb]]
+
+[[File:Band01_chunk008_p017_img005.jpg|thumb]]
+
+4 MISERICORDIA EIUS A PROGENIE IN PROGENIES TIMENTIBUS EUM Luc. C. I. V. 50. Maria zeigt das Kind, das barmherzige Erlösungswerk Gottes. Sie selbst übt ein Werk der Barmherzigkeit, indem sie den Knaben wickelt.
+
+[[File:Band01_chunk008_p017_img006.jpg|thumb]]
+
+[[File:Band01_chunk008_p017_img007.jpg|thumb]]
+
+[[File:Band01_chunk008_p017_img008.jpg|thumb|B Himmelfahrt Marien]]
+<!-- citation-page-bottom: Band01 p383 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=18 -->
+<!-- citation-page-top: Band01 p384 -->
+
+<!-- header: BERNBEUREN -->
+
+<!-- header: BERNBEURE -->
+
+6 DEPOSUIT POTENTES DE SEDE ET / EXALTA- UIT HUMILES Luc. C. I. V. 52. Maria, eine der Niedrigen, die vom Herrn sogar zur Gottesmutter erhöht wurde, sitzt in demütiger Geste mit geneigtem Haupt.
+
+7 ESURIENTES IMPLEVI BONIS ET DIVITES DIMISIT INANES Luc. C. I. V. 53. Gleichnishaft wie Gott die Darbenden sättigt, reicht Maria dem Jesusknaben die Brust.
+
+8 SICUT LOCUTUS EST AD PATRES NOSTROS ABRAHAM ET SEMINI EIUS IN SAECULA Luc. C. I. V. 55. Maria, die aufgehende Sonne auf der Brust, zeigt auf zwei Bildern das Erlösungswerk Gottes, das er schon den Vätern versprochen hatte: die Menschwerdung Christi im Stall von Bethlehem und den Kreuzestod.
+
+D NIKOLAUS UND DIE DREI UNSCHULDIGEN RITTER Wie bei Bernhardts Deckenbildern in der Pfarrkirche Burggen fallen figürliche und architektonische Illusion stark auseinander. Durch eine umlaufende ornamentalen-architektonische Attikazone über dem Kuppelkranz wird eine starke Höhenillusion angestrebt, die jedoch in keiner Weise in der einansichtigen szenischen Darstellung des Nikolauswunders weitergeführt wird. Über dem östlichen Rahmen der Sockelzone öffnet sich eine schräg in die Bildtiefe führende Landschaft, im Hintergrund durch eine Stadtansicht mit Kirchen- und Schloßfassade abgeschlossen. Davor schreiten, erregt gestikulierend, Bischof Nikolaus und ein Scharfrichter aufeinander zu. Neben dem Henker knien drei Männer mit verbundenen Augen, und hinter Nikolaus stehen drei prunkvoll gekleidete Fürsten mit ihrem Gefolge. Links scharen sich neben einem berittenen maurischen Soldaten unter einem Baum Zuschauer, weitere lagern im Vordergrund der Richtstätte und führen durch ihre Gestik den Blick des Betrachters ins Bildinnere zu Nikolaus.
+
+Bis auf die Baumgruppe links ist die Komposition symmetrisch angelegt und erhält fast nur durch die bauschigen Gewänder Bewegung. Die Höhenillusion der szenischen Darstellung wird durch einige konvergierende Vertikalen bei Baum und Architekturen angedeutet und steht so im Kontrast zu der stark illusionistischen Sockelzone, die eine rundansichtige Szenerie erfordert. Die Umsetzung der für ein längsgerichtetes Freskofeld geschaffenen Skizze in eine Kuppel hat wohl diesen Kontrast verstärkt. Durch das Verschieben der figürlichen Gruppen gegeneinander, Ausdehnung der Landschaft in die Tiefe und Licht- und Schattenkontraste wird eine stärker tiefenräumliche Wirkung erzielt. Die Farbgebung ist in für die Entstehungszeit typischen gedeckten Tönen gehalten: viel milchiges Graublau, Grau, Grauweiß neben einigem hellen stumpfen Rost und Ocker bei Architekturen und Kleidungen und gelblichem Grün in der Landschaft.
+
+Die Figurengruppen am östlichen Bildrand hat Bernhardt dem von Franz Anton Zeiller 1753/54 gemalten Langhausfresko in Sachsenried entnommen und in Bernbeuren in der gleichen Reihenfolge und bis ins Detail genau wiederholt. Im Vergleich zur Freskoausführung zeigt der Entwurf Bernhardts aus dem Zeillerschen Figurenrepertoire nur den auf das Geschehen deutenden Jüngling. - Auch in Fresko E stammen die Begleitfiguren der Europa unverkennbar von Zeillers Figurentypus ab (s. dazu auch Burggen, Pfarrkirche, Fresko B und unter Autor und Entstehungszeit).
+
+D<sub>1-4</sub> DIE VIER KIRCHENVÄTER AUF WOLKEN D1 Gregor, D2 Ambrosius, D3 Augustinus, D4 Hieronymus. Die von Mang Anton Schropp gemalten östlichen Pendentifresken zeigen klare Farben und sind im Detail sorgfältig gezeichnet.
+
+E VERHERRLICHUNG DER EUCHARISTIE DURCH DIE VIER ERDTEILE Fünf breite Treppenstufen steigen vom halbkreisförmigen Ostrahmen auf, eher flächenfüllend als Höhe illusionierend. Darauf steht in der Mitte vor einer Ädikula die fürstlich gekleidete Europa mit ihrem Gefolge. Sie ist umgeben von den Insignien kirchlicher und weltlicher Macht, die von Gottes Gnaden ausgeübt wird: Kaiserkrone, Herzogskrone, Tiara, Papstkreuz und Bischofsstab. Symmetrisch zu ihren Seiten sind die Personifikationen der anderen Erdteile angeordnet. Links vorne steht Asia mit Turban, halbmondgeschmücktem Reichsapfel und Lanze, neben ihr drei schwarze Vertreter Africas mit Köcher und Pfeilen. Rechts stehen die federgeschmückten Abgesandten Americas. Im Hintergrund, wieder symmetrisch, eine Balustrade und Landschaft. Von oben senkt sich eine strahlende Monstranz in einer kreisförmigen Engels- und Wolken-Glorie herab, die die Architektur zum Teil überdeckt. - Das Fresko ist thematisch dem Altar, der Stätte der liturgischen Eucharistiefeier, zugeordnet.
+
+Symmetrie, geringe Verkürzungen und Untersichten unterdrücken das Bestreben, durch besonders stark gegeneinander konvergierende Säulen Höhe zu illusionieren. Wie in D bestimmen folgende Farben das Bild: Graublau, Grauweiß, Gelbweiß, Gelbgrün neben dem Altrosa der Säulen und Wolkenpartien.
+
+Ergänzungen zur Ikonographie: Die Fresken des Langhauses haben eine marianische Thematik, die darauf hindeutet, dass die ortsansässige Marianische Bruderschaft das Programm bestimmt, vielleicht auch die Fresken gestiftet hat.
+
+A Nach dem Protoevangelium des Jakobus (Hennecke-Schneemelcher, Bd 1, S. 283) wurde Maria als Kind von ihren Eltern in den Tempel gebracht und dem Tempeldienst geweiht.
+
+Dem ikonographischen Typus der Immaculata conceptio (C) liegen Stellen des Hohenliedes und der Apokalypse zugrunde (vgl. LCI, Bd 2, Sp. 338 ff.). Mit einem Fuß zertritt sie als neue Eva das Haupt der erdbeherrschenden Schlange (Gen 3,15), die den todbringenden...
+
+[[File:Band01_chunk008_p018_img001.jpg|thumb|D Nikolaus und die drei unschuldigen Ritter]]
+<!-- citation-page-bottom: Band01 p385 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=19 -->
+<!-- citation-page-top: Band01 p386 -->
+
+<!-- header: BERNBEUREN -->
+
+
+[[File:Band01_chunk008_p019_img001.jpg|thumb]]
+
+
+Altarraumgewölbe: D Nikolaus und die unschuldigen Ritter D1-4 Kirchenväter E Verherrlichung der Eucharis
+
+Apfel des Sündenfalls im Rachen hat. Die den Erdball umschlingende Schlange erinnert mit ihren Flügeln an den Drachen der Apokalypse, der das Weib verfolgt. Maria ist wie das apokalyptische Weib von der Sonne bekleidet bzw. von 12 Sternen bekrönt und steht auf der Mondsichel (Apoc 12, 1 f.). Die Taube des Geistes ist als Zeichen des göttlichen Ratschlusses zu deuten, daß Maria von Urbeginn an als Mutter Christi frei von der Erbsünde konzipiert war. So wird der Erlösungsgedanke ausgesprochen: Maria, von jeder Sünde frei, zertritt als neue Eva die Schlange, indem sie Mutter des Erlösers wird (vgl. Ernst Guldan, Eva und Maria, Graz 1966, S. 102 ff., 105 ff.). Der Regenbogen neben der Schlange ist das Zeichen der Versöhnung Gottes mit den Menschen; wie er Noe (Gen 9) einen Regenbogen sandte, um das Ende der Sintflut anzuzeigen, kündet er durch die Immaculata der Welt Rettung an.
+
+Die bildlichen Medaillondarstellungen 1–8 zum Magnificat, Vers 47–53 und Vers 55, werden durch zwei Inschriftkartuschen ergänzt; am Chorbogen Vers 46: MAGNIFICAT - ANIMA / MEA - DOMINUM / Luc. C. 1. V. 54 (= V. 46!), über der Orgelempore Vers 54: SUSCEPIT ISRAEL-PERUM SUUM / RECORDATUS-MISERICORDIAE SUAE. Luc. C. 1. V. 54.
+
+D schildert eine Szene aus dem Leben des Kirchenpatrons Nikolaus (Ribadeneira-Hornig, Bd 2, Sp. 937 f.). Während eines Gastmahls, bei dem der Bischof drei vom Kaiser gesandte Fürsten bewirtete, erfährt er, daß ein bestochener Landpfleger drei unschuldige Ritter hinrichten will. Er eilt mit den Gästen zur Richtstätte – diese stehen im Fresko rechts hinter Nikolaus. Dort reißt er zornig dem Henker das Schwert aus der Hand, mit dem dieser eben die bereits mit verbundenen Augen knienden Ritter enthaupten wollte.
+
+Literatur siehe S. 392
+
+{{End}}

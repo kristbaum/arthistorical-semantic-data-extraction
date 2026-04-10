@@ -1,0 +1,90 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=543
+|Originalseitenbis=544
+|Lemma=Tannenberg, Pfarrkirche St. Oswald
+|Typ=Sakral
+|Ort=Tannenberg
+|davor=Steingaden, ehem. Prämonstratenserabteikirche Johannes der Täufer
+|danach=Tannenberg, Kapelle St. Joseph
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatte das Hochstift Augsburg das Präsentationsrecht auf die
+
+'''Patrozinium:''' St. Oswald
+
+'''Zum Bauwerk:''' Neubau der wegen Baufälligkeit abgerissenen alten Kirche 1819/20 durch Stadtmaurermeister Matthias Left aus Schongau. Weihe am 7. August 1827. — Schlichter dreiachsiger Saalbau, eingezogener AR mit dreiseitigem Schluß
+
+'''Autor und Entstehungszeit:''' Als Maler der Deckenbilder hat W. Neu Nikolaus Augner aus Schongau anhand des Kontraktes von 1825 nachgewiesen (Neu, S. 74 f., S. 83 Anm. 9). Nikolaus Augner stammt aus Bernbeuren und ist ab 1798 in Schongau ansässig. Er nennt in seiner Bewerbung um den Auftrag in Tannenberg neben Altarbildern und Faßmalerarbeiten ein 1814 geschaffenes Deckenbild in der Pfarrkirche Schwabniederhofen (Neu, S. 75, S. 83 f., Anm. 11). Lebensdaten und Oeuvre Nikolaus Augners sind unbekannt.
+
+Die Fresken zeigen stilistisch und motivisch weitgehende Übereinstimmungen mit Deckenbildern Joseph Anton Kellers aus Pfronten (vgl. Trauchgau, 1819, LKr. Ostallgäu und Epfach, 1823, LKr. Landsberg am Lech).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A und B Flachdecke
+
+Rahmen: A rechteckiger Stuckprofilrahmen mit vergoldeten Ornamenten, B Stuckprofilrahmen mit vergoldeter Rosengirlande
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 7,30 m; 6,60 × 4,10
+
+B Höhe 7,10 m: Ø 3,10
+
+Erhaltungszustand und Restaurierungen: Innenrestaurierungen 1869, 1914/15 und 1970. Risse, verkitteter Scheitelriß, Feuchtigkeitsschäden im östlichen Bildteil von A. Die Emporenbilder sind bezeichnet G. Kutruff pinx. 1939.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A DER PATRON ST. OSWALD Das ovale Bild liegt in der Mitte eines rechteckigen, weiß getünchten Deckenfeldes, das durch klassizistische, vergoldete Ornamente verziert und durch geradlinige Stuckprofile begrenzt ist. Das Bild ist einansichtig angelegt; der Standort des Betrachters liegt unterhalb des westlichen Bildviertels.
+
+In der Mitte der aus groß geformten Wolkenbögen gebildeten Himmelsszenerie ist der hl. Oswald dargestellt. Er wendet sich fürbittend zur Himmelsglorie empor. Letztere ist durch Lichtstrahlen, die aus einer Wolkenöffnung aus
+<!-- citation-page-bottom: Band01 p543 -->
+
+
+[[File:Band01_chunk011_p022_img001.jpg|thumb|A Der Patron St. Oswald]]
+
+
+
+[[File:Band01_chunk011_p022_img002.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=23 -->
+<!-- citation-page-top: Band01 p544 -->
+
+den Heiligen hinabfallen, und durch anbetende Engel angedeutet. Die irdische Szenerie ist auf einen schmalen Streifen längs des östlichen Bildrandes beschränkt: Auf und hinter einem dreistufigen Podest sind Bittflehende in dicht gedrängten Gruppen wiedergegeben. Kranke, Mütter mit ihren Kindern und Pilger sowie Soldaten, die von einem Reiter angeführt werden, wenden sich an den hl. Patron. Ganz im Vordergrund ist eine Gruppe hervorgehoben: ein vornehm gekleideter Mann kniet auf den Stufen, begleitet von einem Geistlichen, der als Rückenfigur in Chorhemd und Almutie wiedergegeben ist.
+
+Das Bild zeigt ausgeprägt klassizistische Züge: die Form der Rahmung mit der Kombination von Oval und Rechteck, die weit auseinandergezogene Komposition der Szene, in welcher die drei zusammengehörigen Figurengruppen durch große Abstände voneinander getrennt sind, und die großflächige, stumpf wirkende Farbgestaltung in Ockertönen, von welchen sich einzelne helle Farbpartien, Türkis und Blau, auffällig abheben.
+
+Das bühnenartige Stufenpodest am O-Rand und die dunkelfarbigen Wolken und Putti am W-Rand sind noch in barocker, illusionistischer Manier gemalt. Auch der figürliche Typus - Haltung und Gesten - entstammt barocker Tradition. Das Fehlen von volkstümlichen, genremäßigen Details ist bezeichnend für die klassizistische Auffassung dieses Devotionsbildes. Es ist kein modisches Kostüm im Zeitgeschmack zu sehen, vielmehr klassizistisch antikisierende Gewänder neben Standestrachten.
+
+Der hl. Oswald, König von Northumbrien ist nur durch generelle Attribute charakterisiert: römische Soldatentracht, Helm, Krone und Zepter sowie Martyrerpalme. Es fehlt ein individuelles – der legendären Vita entnommenes — Attribut.
+
+Ikonographisch nicht zu erklären ist die mittelalterliche Rüstung - Harnisch und Lanze - der Soldaten unter den Bittflehenden; sie paßt weder zur römischen Lorica des Heiligen noch zu den Gewändern der anderen Bittflehenden.
+
+B ABENDMAHL In dem runden Bildfeld im Altarraum ist die Abendmahlszene dargestellt. Stufenpodest und Vorhangdraperie führen in die Bildszene ein, die im traditionellen, schematisiert wirkenden Typus der Tafelmalerei wiedergegeben ist. Die lange Mahltafel ist ungeschickt der Rundform des Deckenfeldes angepaßt. Farbig ist das Bild ganz ähnlich wie Fresko A gestaltet. Die Figur Christi ist durch Glanzlichter auf den hellfarbig gemalten Gewändern ausgezeichnet.
+
+
+[[File:Band01_chunk011_p023_img001.jpg|thumb|B Abendmahl]]
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 163. KDB I OB (1) S 606
+
+Hofmann, Sigfrid, Der Landkreis Schongau, München 1959, S. 118.
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 236, 260.
+
+Neu, Wilhelm, Der Schongauer Stadtmaurermeister Matthias Left, ein Vertreter des ländlichen Spätklassizismus im alten Landgericht Schongau, in: Lechisarland 1974, S. 75, 79 u. 83 (zu Nikolaus Augner).
+
+{{End}}

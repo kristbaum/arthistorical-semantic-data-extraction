@@ -1,0 +1,56 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=140
+|Originalseitenbis=141
+|Lemma=Landsberg am Lech, Sakristei der ehem. Jesuitenkollegienkirche
+|Typ=Sakral
+|Ort=Landsberg am Lech
+|davor=Landsberg am Lech, Heilig-Kreuz-Kirche
+|danach=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Sakristei der ehem. Jesuitenkollegienkirche
+
+'''Zum Bauwerk:''' Gleichzeitig mit dem Kirchenbau 1752/03 wurde die Sakristei errichtet. Einfacher rechteckiger Saal (16,00 × 5,50 m), im N an den AR der Kirche anschließend, nach N und O Fenster
+
+'''Autor und Entstehungszeit:''' Das Bild wird allgemein Felix Anton Scheffler zugeschrieben. Scheffler bringt das Motiv der Auferstehung Christi in dieser Form häufig (vgl. besonders die Darstellung in der Gnadenkirche zu Hirschberg/Schlesien). Entstehung wohl gleichzeitig mit dem Fresko der darüberliegenden Ignatiuskapelle, um 1756
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke  
+Rahmen: vergoldete Holzleiste, in Stuckprofilrahmen eingerlassen
+
+Technik: Öl auf Leinwand; polychrom  
+Maße: Höhe 4,30 m; 2,35 × 1,90
+
+Erhaltungszustand: Die Farbsubstanz ist durch Feuchtigkeit angegriffen
+
+Beschreibung und Ikonographie
+
+AUFERSTEHUNG CHRISTI Die Bildanlage ist auf den von der Kirche aus die Sakristei Betretenden berechnet und demnach eigens für diesen Raum geschaffen. Daß das Leinwandgemälde als Deckenbild konzipiert ist, zeigt auch ein illusionistisch verkürzter Mauerschacht, der die Rahmenzone innerhalb des Bildes fortsetzt, und dessen östliche Rampe als Podium für das Bildgeschehen dient. Hier steht der offene Sarkophag Christi, von Engeln und stürzenden Wächtern umgeben (vgl. Mt 28,2-4). Darüber schwebt, zur Glorie des Himmels aufstrebend, Christus die österliche Siegesfahne in Händen.
+
+Alle Figuren sind in starker Untersicht gegeben. Trotz dieser illusionistischen Tendenzen ist die Komposition als einansichtiges Deckenbild nicht konsequent durchgeführt; das große Grabmal an der S-Seite des Bildes, rahmenparallel von der O-Seite aufsteigend, nimmt der umlaufenden Mauer ihre illusionistische Glaubwürdigkeit. Die Inschrift auf dem Grabmal: SEPVL/TOS EPI . . . / AB ARIMAT/HIA, ein Hinweis darauf, daß Joseph von Arimathia Jesus in sein eigenes Grab gelegt hatte (Mt 27, 59–60).
+
+Die Szene selbst ist etwa in der Form eines Dreiecks komponiert, dessen Basis – die Soldaten mit dem Sarg – im Dunkel liegt, während seine Spitze – die Gestalt des auferstehenden Christus – im hellsten Himmelslicht schwebt. Eine zweite, imaginäre Lichtquelle von N beleuchtet die Gestalten einseitig und verleiht ihnen starke Plastizität. Farblich stehen sich als kräftige Akzente das Rot-Blau in der Rückenfigur des stehenden Wächters und das Rot im Kreuzesbanner in der Diagonalen gegenüber. Dazwischen löst sich das purpurne Gewand Christi gegen den gelben Himmel aus der düster-violetten Zone heraus.
+
+Literatur siehe S. 14
+
+
+[[File:Band01_chunk003_p021_img001.jpg|thumb|Auferstehung Christi]]
+<!-- citation-page-bottom: Band01 p141 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=22 -->
+<!-- citation-page-top: Band01 p142 -->
+
+<!-- header: LANDSBERG AM LECH -->
+
+<!-- header: LANDSBERG AM LECH -->
+{{End}}

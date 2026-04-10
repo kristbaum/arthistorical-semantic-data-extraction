@@ -1,0 +1,55 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=179
+|Originalseitenbis=179
+|Lemma=Penzing, Pfarrkirche St. Matrin
+|Typ=Sakral
+|Ort=Penzing
+|davor=Obermühlhausen, Filialkirche St. Peter und Paul
+|danach=Petzenhausen, Pfarrkirche St. Peter und Paul
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatten die Freiherrn von Pfetten das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
+
+'''Patrozinium:''' St. Martin
+
+'''Zum Bauwerk:''' Der gotische Kirchenbau wurde um 1650 durch einen barocken Neubau ersetzt, der im 18. Jh. nach W verlängert und stuckiert wurde. - Saalbau mit eingezogenem, dreiseitig geschlossenem AR; das Deckenbild befindet sich im Altarraum.
+
+'''Autor und Entstehungszeit:''' Das nicht signierte und datierte Deckenbild ist von Wilhelm Neu dem Maler Johann Caspar Schäffler aus Oberfinning (* 1700 † 1777) zugewiesen worden. Die drei von Schäffler gemalten Altarbilder — das südliche Seitenaltarbild mit der Darstellung des hl. Florian trägt die Signatur J:C:S: 1772 — zeigen unverkennbar die gleichen stilistischen Merkmale wie das Deckenbild. Bildanlage und Figurentypus sind in Deckenbild und Altargemälden, die jeweils Heiligendarstellungen in einfacher Umgebung zeigen, fast identisch. Der stilistische Befund, der gegenüber den (meist ungesicherten!) Werken Schäfflers aus den dreißiger Jahren des 18. Jh. durch gesteigerte Auflösung der Konturen und durch einen Verlust an Plastizität gekennzeichnet ist, spricht für eine Datierung gleichzeitig mit den Altarbildern, und nicht, wie Neu annimmt, zwischen 1730 und 1740. Das Penzinger Fresko, das eine sehr einfache Heiligendarstellung zeigt, ist das einzige gut erhaltene Beispiel für die Deckenbilder des Malers Johann Caspar Schäffler.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachtonne mit Stichkappen Rahmen: Gestreckter vierpaßförmiger Stuckprofilrahmen Technik: Fresko; polychrom
+
+Maße: Höhe 13,00 m; 3,20 × 2,20
+
+Erhaltungszustand und Restaurierungen: 1962 fand eine Restaurierung statt, bei der laut Restaurierungsbericht das Deckenbild zu reinigen war. Dem Augenschein nach ist es nicht frei von Übermalungen, jedoch im ganzen gut erhalten.
+
+== Beschreibung und Ikonographie ==
+
+ST. JOSEPH Einansichtige, ohne Verkürzungen durchgeführte Wolkenszenerie mit Ausblick auf eine karge Berglandschaft am östlichen Bildrand. Auf einer Wolke kniet der hl. Joseph in blau-gelber Gewandung, die Rechte an die Brust gelegt, den Blick erhoben. Vor einer Strahlengloriole sitzt das Jesuskind mit dem Kreuz und hält mit der Linken einen Blumenkranz über das Haupt Josephs. Ein Engel trägt den Zimmermannsstab des Heiligen. Für die Wahl des Themas war die seit 1712 in der Pfarrei Penzing bestehende Josephsbruderschaft bestimmend. — Die vier Inschriftkartuschen, die mit der Rahmung verbunden sind, geben Zitate aus der Vita des Kirchenpatrons St. Martin wieder, der im Aufzugsbild des Hochaltars dargestellt ist.
+
+
+[[File:Band01_chunk004_p015_img002.jpg|thumb]]
+
+
+== Literatur ==
+
+
+KDB I OB (1), S. 536
+
+Neu, Wilhelm, Johann Caspar Schäffler – ein vergessener Maler des Lech-Ammerseegebiets, in: Lechisarland 1962 S. 36–44.
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg, Aßling-München 1966, S. 558 f. Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23), München 1971, S. 162.
+<!-- citation-page-bottom: Band01 p179 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=16 -->
+{{End}}

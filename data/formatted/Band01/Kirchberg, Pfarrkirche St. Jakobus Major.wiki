@@ -1,0 +1,107 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=422
+|Originalseitenbis=425
+|Lemma=Kirchberg, Pfarrkirche St. Jakobus Major
+|Typ=Sakral
+|Ort=Kirchberg
+|davor=Iffeldorf, Heuwinklkapelle
+|danach=Kienberg, Kapelle St. Michael
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p422 -->
+
+<!-- header: KIRCHBERG -->
+
+<!-- header: KIRCHBERG -->
+
+Pfarrkirche, Gemeinde und Pfarrei Wildsteig, Diözese München-Freising; z. Z. der Ausmalung Filialkirche, Klosterpfarrei und Herrschaft Rottenbuch
+
+'''Patrozinium:''' St. Jakobus Major
+
+'''Zum Bauwerk:''' Der mittelalterliche Bau wurde unter Propst Clemens Prasser (1740-70) erneuert; Innenausstattung 1780-84. - Vierjochiger Saalbau mit Pilastergliederung, eingezogener zweijochiger AR mit dreiseitigem Schluß; im W Empore
+
+'''Auftraggeber:''' Propst Ambrosius Mösner von Rottenbuch (1775–98); Kloster- und Abtswappen am Chorbogen.
+
+'''Autor und Entstehungszeit:''' Signatur nördlich in B an einem Sockel: FRANZ ZWINCK / INVENIT ET PIN- XIT / 1784 (= Franz Seraph Zwinck aus Oberammergau)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Flachtonne mit Stichkappen, AR Flachtonne mit Stichkappen, im O abgemuldet Rahmen: A, B, C, D Stuckprofilrahmen, in B von Band und Girlanden umwunden
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 9,15 m; 3,00 × 3,50
+
+B Höhe 9,15 m; 7,70 × 5,40
+
+C Höhe 9,15 m; 3,00 × 3,50
+
+D Höhe 8,30 m; 3,90 × 3,60
+
+Erhaltungszustand und Restaurierungen: 1884, 1934 und 1953 fanden Restaurierungen statt.
+
+Die Fresken sind fleckig verschmutzt und weisen kleine schadhafte Stellen auf; in B einzelne, teils gekittete Risse
+
+Beschreibung
+
+A NAME MARIENS Das von der Orgel zum Teil verdeckte Fresko hat seine Basis im Westen. Es zeigt musizierende Engel vor dem von einem Lorbeerkranz eingefaßten Mariennamen, MA (ligiert) RIA, von schwebenden Putti gehalten.
+
+
+[[File:Band01_chunk009_p012_img001.jpg|thumb|A Marienmonogramm]]
+
+
+B MARTYRIUM DES HL. SEBASTIAN Die einansichtige Szene hat ihre Basis im O. Darstellungsprinzipien der Tafelbildperspektive und der illusionistischen Perspektive der Deckenmalerei sind unmittelbar nebeneinander angewendet: Die irdische Handlung spielt in einer Landschaftsszenerie, die mit einem lichten Horizont tiefenräumlich gemalt ist. Die Himmelsszene ist ganz in das westliche Bilddrittel placiert und wirkt weit entrückt. An den Seiten wird der irdische Schauplatz längs des ovalen Rahmens im illusionistischen Sinn hochgezogen. Die Architektur links und der Laubbaum rechts am Bildrand verbinden sich mit dem schmalen rötlichbraunen Wölkchenstreifen, der die Himmelsszene einfaßt. Himmlische und irdische Handlung sind durch diese Bildmotive miteinander verklammert.
+
+
+[[File:Band01_chunk009_p012_img002.jpg|thumb|B Martyrium des hl. Sebastian]]
+
+
+
+[[File:Band01_chunk009_p012_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p423 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=13 -->
+<!-- citation-page-top: Band01 p424 -->
+
+<!-- header: KIRCHBERG -->
+
+
+[[File:Band01_chunk009_p013_img001.jpg|thumb|D Gang des Apostels Jakob zur Richtstätt]]
+
+
+Das Bildfeld ist symmetrisch aufgebaut. Die Mittelachse markieren die Gestalten Christi und – in ähnlicher Haltung - die des hl. Sebastian. Das östliche Bilddrittel füllt eine Landschafts- und Architekturszenerie, die aus Bäumen, Bergen und Hügeln sowie den nördlich aufgeführten Bauten – zusammengesetzt aus Podesten, Säulen und Palastfassade – gebildet ist. Sie ist von einer großen Zahl verhältnismäßig kleiner Figuren bevölkert. In einem weiten Kreis sind Bogenschützen, Reiter und Zuschauer um den Martyrer gruppiert. Zwei Putti in der Mitte halten für den Martyrer Siegespalme und Lorbeerkranz bereit. Vor der himmlischen Erscheinung stürzt die am linken Bildrand auf einem hohen Sockel stehende Statue Jupiters.
+
+Das Fresko zeigt die Merkmale der ausgehenden Rokokomalerei: der einansichtige Bildaufbau erinnert in der am Rand hochgezogenen Landschaft nur entfernt an ein Panorama; auch das Fehlen von Untersicht und Verkürzung, besonders aber die starke Tiefenillusion kennzeichnen die Rückkehr zu einer tafelbildmäßigen Anlage. Die Tiefenwirkung wird noch durch die Farbgebung verstärkt. Bei Himmel, Bergen, Architekturen und Bäumen ist eine ins Bildinnere führende Luftperspektive angewandt. Typisch für die späte Entstehungszeit ist die gebundene und grautonige Farbigkeit. Architekturen, Landschaft und Wolkenpartien sind in einem grünlich-gelben Ton gehalten. Der Himmel ist graublau, gegen den Hintergrund zu rosatonig. Die graublauen und ockerfarbenen kleinteiligen Gewandpartien sind durch einen Grauton in den Grundton eingebunden, so daß eine unbunte Gesamtwirkung entsteht. Als einzige Kontrastfarbe hebt sich Rostrot ab, das im Mantel Christi, in den Gewändern der Engel und in den Zuschauergruppen verstreut auftritt; durch die gewaltige Vorhangdraperie über dem Säulenportikus ist dieser Farbe eine Sonderrolle eingeräumt.
+
+C IHS (keine Abbildung) In Entsprechung zu A zeigt das Fresko vor dem Chorbogen einen von Putti und Wölkchen gesäumten Strahlenkranz um das »Hl.-Geist-Loch«, dessen Deckel in Metallettern die Inschrift IHS trägt.
+
+D GANG JAKOBS ZUR RICHTSTÄTTE Die Szene ist einansichtig aufgebaut. Schauplatz ist eine Landschaftsszenerie vor den Toren der Stadt Jerusalem, die als weiße Kulisse im Hintergrund zu sehen ist. Rechts schließt ein hoher Berg die Szene ab, links eine Baldachinarchitektur. Am O-Rand führt eine Repoussoirzone - ein schmaler Erdstreifen - in den Mittelgrund ein; darauf lagern und stehen in Rückenansicht wiedergegebene Zuschauer. Etwas zurückgesetzt am nördlichen Bildrand sitzt auf einem Thron Herodes Agrippa. Zu seiner Rechten steht der Hohepriester Abiathar. Der von einem Schergen geführte Apostel Jakobus steht in der Mitte auf einem kleinen Hügel und wendet sich dem vor ihm niedergeknieten Schriftgelehrten Josias zu. Hinter ihnen ist die Hinrichtungsstätte dargestellt, wo der Henker und andere Soldaten warten. Zu beiden Seiten des Gnadenstrahls, der auf Jakobus herabfällt, schweben Engel und Putti mit zwei Lorbeerkränzen und Martyrerpalmen.
+
+Wie in B dominiert in der tafelbildmäßigen Anlage die starke Tiefenwirkung. Farblich sind die zurückhaltend verwendeten und gedämpften Farben in den von einem grauen Belag überzogenen grünlichen Gesamtton eingebunden.
+
+Ergänzungen zur Ikonographie: Dem Patron der Kirche, Jakobus dem Älteren, dem ersten Apostelmartyrer, der im Jahr 44 in Jerusalem enthauptet wurde, ist das AR-Fresko gewidmet (vgl. Act 12,1-2 und Ribadeneira-Hornig, Bd 2, S. 95 f.). Der Hohepriester Abiathar hatte einen Aufstand verabredet, wobei Jakobus während einer seiner Predigten überfallen und von den Soldaten unter dem Vorwand, den Aufruhr zu dämpfen, ergriffen und vor den König Herodes geführt werden sollte. Der Legende nach war es der Schriftgelehrte Josias, der ihn ergriff und der angesicht einer Krankenheilung zum Christentum bekehrt wurde, worauf er Jakobus kniefällig um Verzeihung bat. Er wurde später verfolgt und gleichfalls hingerichtet. Diese Ereignisse sind in einer Szene zusammengefaßt: Jakobus und Josias erleiden gleichzeitig den Martertod, die zum Aufruhr bestellten Krieger warten im Hintergrund, und der Thron des Königs ist auf die Hinrichtungsstätte verlegt. In der halbnackten Rückenfigur im Vordergrund ist vielleicht der Gichtbrüchige zu erkennen, der Jakobus im Augenblick der Gefangennahme anrief und augenblicklich geheilt wurde. Neben ihm liegen Attribute des Jakobus, Pilgerhut, Gurde und Stab, bezogen auf die Missionsreise nach Spanien.
+
+Das Martyrium des hl. Sebastian, der unter der diokletianischen Regierung verfolgt wurde, wird im großen LHs-Fresko geschildert (AASS, Jan., Tom. 2, 20.1., S. 278). 1821 wurde die 1601 in Ettal errichtete Sebastiansbruderschaft nach Kirchberg transferiert, doch muß eine Sebastiansverehrung neben der des Kirchenpatrons schon im 18. Jh. bestanden haben.
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 3, S. 35  
+KDB OB I (1), S. 585  
+Hofmann, Sigfrid, Zur Geschichte der Pfarrei und Gemeinde Wildsteig, in: Lech- und Ammerrain 8, 1957, S. 25  
+-, Der Landkreis Schongau, München 1959, S. 117  
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23), München 1971, S. 179.
+<!-- citation-page-bottom: Band01 p425 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=14 -->
+{{End}}

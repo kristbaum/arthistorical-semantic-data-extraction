@@ -1,0 +1,62 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=247
+|Originalseitenbis=247
+|Lemma=Unterfinning, Pfarrkirche Zur Schmerzhaften Muttergottes
+|Typ=Sakral
+|Ort=Unterfinning
+|davor=Unterdießen, Pfarrkirche St. Nikolaus
+|danach=Unterigling, Pfarrkirche St. Johann Baptist
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Pfarrkirche, Gemeinde Finning, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Benediktbeuern das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
+
+
+'''Patrozinium:''' Zur Schmerzhaften Muttergottes
+
+
+'''Zum Bauwerk:''' Von dem gotischen Bau stammt noch der in der 1. Hälfte des 15. Jh. errichtete Chor. Erweiterung und Innenausstattung des Langhauses im späten 17. Jh. – Saalbau (15,50 × 7,50) mit eingezogenem AR; im W Empore
+
+'''Autor und Entstehungszeit:''' Die einfachen, tafelbildartigen Darstellungen im LHs, die neben ornamentalen Malereien fünf Felder – vier kleinere Medaillons um ein Ovalmedaillon – der Kassettendecke zieren, stammen wohl aus der Zeit der barocken Umgestaltung. Der Autor ist nicht bekannt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: flache Holzkassettendecke Rahmen: Holzprofil
+
+Technik: Tempera auf Holz; polychrom Maße: A Höhe 6,50 m; 1,70 × 1,10
+
+Erhaltungszustand und Restaurierungen: Anläßlich einer durchgreifenden Renovierung in den Jahren 1911–13 wurden die Malereien auf der Kassettendecke durch F. Grill unter einem Ölfarbenanstrich freigelegt und erneuert. Inwieweit bei diesem Verfahren, das die Temperamalschicht teilweise mit auflöste, die originale Substanz erhalten blieb, läßt sich nicht mehr beurteilen. Keine Abbildungen.
+
+
+== Bildabfolge ==
+
+
+A Mariä Himmelfahrt
+
+A<sub>1</sub> Geburt Mariens
+
+A<sub>2</sub> Darbringung im Tempel
+
+A<sub>3</sub> Verkündigung
+
+A<sub>4</sub> Heimsuchung
+
+
+== Literatur ==
+
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S. 634 f.
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 159.
+<!-- citation-page-bottom: Band01 p247 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=25 -->
+{{End}}

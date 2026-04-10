@@ -1,0 +1,72 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=28
+|Originalseitenbis=29
+|Lemma=Bischofsried, Maria-Schnee-Kapelle
+|Typ=Sakral
+|Ort=Bischofsried
+|davor=Beuern, Pfarrkirche St. Michael
+|danach=Denklingen, Pfarrkirche St. Michael
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p28 -->
+
+<!-- header: BISCHOFSRIED -->
+
+<!-- header: BISCHOFSRIED -->
+
+Maria-Schnee-Kapelle, Gemeinde und Pfarrei Dießen, Diözese Augsburg; z. Z. der Ausmalung Klosterpfarrei (St. Georgen) und Hofmarksherrschaft Dießen
+
+'''Patrozinium:''' Maria-Schnee
+
+'''Zum Bauwerk:''' Um 1645 erbautes Oktogon mit flachem querrechteckigem AR im Süden; Weihe 1674.
+
+'''Auftraggeber:''' Propst Herkulan Karg. v. Dießen (1728-55)
+
+'''Autor und Entstehungszeit:''' Das unsignierte Freskobile im Kuppelspiegel zeigt so große Übereinstimmungen mit den zwischen 1730-34 geschaffenen Fresken des Johann Georg Wolcker in der Zisterzienser-Stiftskirche Stams (Tirol), daß es in das Werk dieses Künstlers einzureihen ist. Vor allem zum Vergleich heranzuziehen ist die Stamser Darstellung der Passionsvision des hl. Bernhard, welche eine auffallend ähnlich gemalte Pendentifkuppel zeigt. Hier wie dort öffnet sich die Kuppelschale mit einem Brüstungsring zum Himmel; die Pendentifbögen geben Einblick in weitere Räume (architektonische bzw. Himmelsausschnitte). Die baulichen Zierglieder - eingerollte Voluten mit einem Quaderblock im Scheitelbogen, aufgesetzte Büsten, Voluten und Muscheln mit Blattranken im Kuppelkörper, kassettierte Kalotten – gleichen sich auf fallend. Bei den Engeln stimmen die Gruppen im Kuppelring motivisch genau überein: die zwei frei fliegender hornblasender Putti, die Bläserengel auf dem Brüstungsrand, der Dirigentenengel und sein Partner mit dem Notenblatt auf einer Wolke (KKF Nr. 289, München 1970 hg. v. der Abtei Stams). Die musizierenden Engel finder sich variiert in der Magdalenendarstellung in Walleshau sen. – Eine ausgeprägte sotto-in-su-Perspektive mit manchmal kühnen Einblicken, schwungvolle Bewegungs motive, kontrapostische Gruppenkomposition finden sich als charakteristische Merkmale Wolckers auch in Bischofs ried. Das Fresko ist wohl ebenfalls in den Jahren um 1730 entstanden.
+
+
+[[File:Band01_chunk001_p015_img001.jpg|thumb|Das Gnadenbild von Bischofsried]]
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Hängekuppel  
+Rahmen: einfaches Stuckprofil  
+Technik: Fresko; polychrom  
+Maße: Höhe 6 m (Stich 1,70); Ø 4,75  
+
+Erhaltungszustand und Restaurierungen: Das Kuppelfresko ist in sehr schlechtem Zustand: große Risse, Feuchtigkeitsflecken (z. T. Fehlstellen), teilweise Übermalungen besonders im südwestlichen Viertel. Die Bildfiguren sind trotzdem einigermaßen gut erhalten. - Restaurierungen nicht bekannt
+
+Beschreibung
+
+DAS GNADENBILD VON BISCHOFSRIED Das Gemälde in der Flachkuppel gibt einen illusionistischen Einblick in eine Pendentifkuppel (exzentrischer Standpunkt). Die Kuppel mit ihren Öffnungen zum Himmel, zur lichten Glorie mit dem Zeichen der Dreifaltigkeit, erfüllt von dem Licht des Himmels, von seinen Wolken und von Engels scharen, wirkt als eine himmlische Architektur, die den kleinen Kapellenbau von Bischofsried bekrönt. Engel tragen das Gnadenbild der Kapelle, Maria-Schnee, auf Wolken wie in einer triumphalen Himmelfahrt empor. Andere Engel haben sich zum Musizieren im Kuppelrund versammelt. Ein Rauchfaß schwingender Engel sitzt auf dem Bildrahmen und läßt seine Beine über den profilierten Stuckring hängen (die Malerei geht in Stuckplastik über).
+
+Die Farben des Bildes sind der Thematik gemäß sehr licht, zunehmend transparent und duftig werdend zur Glorie hin. Lichtes Gelb-Ocker-Gold verbindet sich mit zartem Violettrosa und Goldorange und wird durch intensives Blau und matteres Blaugrün akzentuiert. Die rotbraunen Schattentöne der Kalotte und im Gewand des Rauchfaßengels und vor allem das kräftige Blau in den Gewändern und den seitlichen Himmelsausschnitten sind verfälscht
+
+
+[[File:Band01_chunk001_p015_img002.jpg|thumb]]
+
+
+
+== Literatur ==
+
+
+Gailler, Franciscus Salesius, Vindeliciae Sacrae Tomi III . . . capitulum Weilheimense, Augsburg 1756, Cap. 12. Abaco, Joseph dall', Chronik des Klosters Diessen, Bd 3, S. 57 (BSB Cod. germ. 1769/70). Braun-Augsburg Bd 1, S. 339
+
+KDB I OB (1), S. 517 f.
+
+Hugo, Joseph Anton, Chronik des Marktes und der Pfarrei Dießen, Dießen 1901, S. 107.
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 442.
+<!-- citation-page-bottom: Band01 p29 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=16 -->
+{{End}}

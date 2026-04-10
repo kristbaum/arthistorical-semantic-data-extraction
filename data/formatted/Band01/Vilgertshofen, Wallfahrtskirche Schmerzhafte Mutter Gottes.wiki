@@ -1,0 +1,320 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=255
+|Originalseitenbis=263
+|Lemma=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes
+|Typ=Sakral
+|Ort=Vilgertshofen
+|davor=Utting, Filial- und Wallfahrtskirche St. Leonhard
+|danach=Vilgertshofen, Wirtshaus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Wallfahrtskirche, Gemeinde Pflugdorf-Stadl, Pfarrei Stadl, Diözese Augsburg; z. Z. der Ausmalung war die Pfarrei Issing-Vilgertshofen Kloster Wessobrunn inkorporiert und zur Klosterhofmark Wessobrunn gehörig
+
+
+'''Patrozinium:''' Schmerzhafte Mutter Gottes
+
+
+'''Zum Bauwerk:''' Neubau der Wallfahrtskirche unter Abt Leonhard Weiß 1686–92, Baumeister und Stukkator: Johann Schmuzer; Weihe 1692. – Kreuzförmiger Zentralbau mit betonter Längsachse: die vier apsidialen Räume in den Kreuzachsen eingezogen und etwas niedriger; Vorhalle und AR mit Emporenumgang; nach S gerichtet
+
+'''Auftraggeber:''' Abt Leonhard Weiß (1670-96) und Abt Thassilo Boelzl (1706–43) von Wessobrunn
+
+'''Autor und Entstehungszeit:''' Für die Ausmalung der Kirche unter Abt Leonhard Weiß, zwischen 1688 und 1692, wird  
+
+von Coelestin Leutner in den Rudia fundamenta Bl. 35 v – 36 (= S. 32 f.) – Zitat s. Wessobrunn, Gasthaus zur Post – und in den Hyperdulia Wessofontana, Bl. 124 (= S. 35) als Autor der aus Salzburg stammende Pater Joseph Zäch aus dem Wessobrunner Klosterkonvent 1693, überliefert. Als original von Zäch stammend sind, dem Erhaltungsbefund folgend, nur die Fresken D und E der Querarme und die Medaillonfresken ED1-6 und EDI des Emporenumganges beim AR anzusehen. In Fresko A der Vorhalle ist wohl die originale Bildanlage Zächs erhalten, doch sind sowohl die Farben verdorben als auch die Umrisse und Binnenzeichnung der Figuren entstellt. Unter Abt Thassilo Boelzl ersetzte Johann Baptist Zimmermann das durch Unwetter zerstörte Chorfresko. Die Rudia fundamenta geben eine knappe Beschreibung von Zimmermanns Bild und für die Ausstattung des Altarraumes (Doppelaltar mit Maria-Himmelfahrt Gemälde und Gewölbefresko) folgende Zeitangabe: »... Et in supremo tholo corruptam tempestate picturam«
+
+[[File:Band01_chunk006_p003_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p255 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=4 -->
+<!-- citation-page-top: Band01 p256 -->
+
+<!-- header: VILGERTSHOFEN -->
+
+novam supplevit, quae Virginem filium cruce depositum gremis gestantem exhibet. Utramque aram elegantissima et solertissima manu ex constantissimi splendoris gypso formavit. D. Franciscus Schmuzer, Wessofontanus, artifex longe lateque celeberrimus. Vespertinam in tholo Dolorosae Matris imaginem pinxit D. Johannes Zimmermann Aulae Bavaricae pictor, itidem Wessofontanus. Haec magnificentiae augmenta templo nostro Reverendissimus Thassilo contulit anno huius saeculi post vigesimum primo.« (loc. cit.) Als Entstehungsjahr des Freskos ist also 1721 anzusehen. Der stilistische Befund widerspricht dem nicht: Wie die Fresken von 1723/24 in der Klosterbibliothek von Benediktbeuern und die Fresken von 1726 in der Martinskirche von Dietramszell (beide OB, LKr. Bad Tölz-Wolfratshausen, s. Bd 2) zeigt das Vilgertshofener Fresko eine gut vergleichbare Licht- und Farbbehandlung: eine gleichmäßige Helligkeit aller Farbtöne, eine tonige, fein differenzierte, helle Farbskala, welche durch gedämpfte, lichtgebrochene Farben bestimmt ist. Für die Bildanlage charakteristisch ist eine Handlungsbühne von sehr geringer Tiefe, verbunden mit einer einfachen räumlichen Vorstellung. Der Himmelsraum mit seinen Figuren ist der irdischen Szenerie gleichwertig übergeordnet. Das Vilgertshofener Fresko zeichnet sich durch eine besonders straffe, flächige Komposition und präzise Zeichnung aus, dem die symmetrische Anlage und die klare Zeichnung des Pfingstbildes von St. Martin in Dietramszell vergleichbar sind.
+
+== Befund ==
+
+Träger der Deckenmalerei: A, B, C: Tonne mit Stichkappen; D, D<sub>1</sub>-3, E, E<sub>1</sub>-2: Apsiskalotte; ED<sub>1</sub>-6, ED<sub>I</sub>: Spiegel in Kreuzgewölben
+
+Rahmen: C, D, E, ED<sub>1</sub>-6, ED<sub>I</sub>: profilierte Stuckrahmen mit Akanthus, Laub und Blumen (C mit Eierstab und Kyma); A<sub>1</sub>-5, B<sub>1</sub>-4, C<sub>1</sub>-6, D<sub>1</sub>-3, E<sub>1</sub>-2: Stuckkartuschen, z. T. ausgebessert; A, B, B<sub>a-d</sub>: wohl erneuerte Stuckprofile
+
+Technik: Fresko, zum größten Teil übermalt; A, B<sub>a-d</sub>, C, D, E, ED<sub>1-6</sub>, ED<sub>I</sub>: polychrom; B, B<sub>1-4</sub>: monochrom violett; A<sub>1-5</sub>, D<sub>1-3</sub>, E<sub>1-2</sub>: monochrom ocker
+
+Maße: A Höhe 14,20 m; 4,50 <math>\times</math> 3,60  
+C Höhe 13,80 m; 5,40 <math>\times</math> 3,40  
+D Höhe 13,60 m; 3,50 <math>\times</math> 9,20  
+E Höhe 13,60 m; 3,50 <math>\times</math> 2,20  
+
+Erhaltungszustand und Restaurierungen: Das bereits vor 1740 ruinierte Kreuzigungsfresko — »... quid tempestatum iniuria parvo tempore amplissimo huic imagini nocuerit hodie dum intuentibus patet.« (Rudia fundamenta Bl. 36 bzw. S. 33) — wurde im 19. Jh. gänzlich erneuert; Endres’ Beschreibung von 1864 nennt bereits das Kreuz im Strahlenkranz. In einem Gutachten des B.L.f.D. von 1903 werden die vier Eckfelder (B<sub>a-d</sub>) als nicht mehr restaurierbar und weitere 16 Bildfelder als zugestrichen angegeben. Die Fresken wurden 1910/11 von Ranzinger restauriert (Oberbayerischer Generalanzeiger Landsberg vom 6. Nov. 1911), wobei die Deckenfelder A<sub>1-5</sub>, B<sub>a-d</sub>, B<sub>1-4</sub>, C<sub>1-6</sub>, D<sub>1-3</sub>, E<sub>1-2</sub> ganz oder weitgehend erneuert worden.
+
+Erhaltungszustand: A Haarrisse. Die beherrschende Ockerfarbe stammt wohl von den Übermalungen her. C gut erhalten, nur leichte Scheitelrisse, geringfügige Verschmutzung. Der Kopf von Christus und der des knienden Engels sind retouchiert. D, E, ED<sub>1</sub>–6, ED<sub>I</sub> geringfügige Schäden, im wesentlichen originale Malerei erhalten. Die oben genannten 1910/11 erneuerten Bilder weisen z. T. erhebliche Schäden auf.
+
+== Beschreibung ==
+
+A FÜRBITTE MARIENS Der Betrachtungspunkt für das in starker Untersicht konzipierte Deckenbild liegt unterhalb der nördlichen Gurtbogen. In dem längsformatigen Bildfeld, einem Querrechteck mit Kreissegmenten an den Breitseiten, nimmt die Gruppe von Gottvater und Christus-Salvator, getragen von einer breitgelagerten Wolkenbank, die rechte Bildhälfte ein. Linksseitig ragt unterhalb der göttlichen Gruppe die hohe Gestalt Mariens auf, wiedergegeben in überlängten Proportionen. Die Heilig-Geist-Taube, mitten in Wolkenringen, entsendet Lichtstrahlen auf Maria und die zwei göttlichen Personen. Dicht geballte Wolkenbögen mit zahlreichen Putti füllen das ganze Bildfeld.
+
+Christus zeigt, Maria zugewandt, seine Wundmale, während Maria in fürbittender Gebärde nach unten (zu den Menschen in der Kirche) weist. Die Inschrift in der Bogenlaibung SANCTA / MARIA SUC-/CURRE MI-/SERIS bezeichnet die Darstellung. Farbig dominierend sind die lehmigen Ockertöne der Wolken. Mariens Gewandung zeigt, kaum differenziert, blau- und rottoniges Violett.
+
+[[File:Band01_chunk006_p004_img001.jpg|thumb|A Fürbitte Marien]]
+
+[[File:Band01_chunk006_p004_img002.jpg|thumb]]
+
+[[File:Band01_chunk006_p004_img003.jpg|thumb]]
+
+[[File:Band01_chunk006_p004_img004.jpg|thumb]]
+
+[[File:Band01_chunk006_p004_img005.jpg|thumb]]
+
+[[File:Band01_chunk006_p004_img006.jpg|thumb]]
+
+A<sub>4</sub>
+
+A<sub>1-5</sub> Die begleitenden Nebenbilder sind durch die Übermalungen des 19. und 20. Jh. geprägt, am krassesten in der Marienkrönungsszene, welche sowohl formal als auch ikonographisch von der barocken Tradition gänzlich abweicht. Die Bilder weisen keine Untersicht auf. Folgende Themen sind wiedergegeben:
+
+A<sub>1</sub> Heimsuchung (Lc 1,39–56): Elisabeth kniet vor Maria nieder.  
+A<sub>2</sub> Anbetung der Hirten (Lc 2,15 ff.)  
+A<sub>3</sub> Auffindung des zwölfjährigen Jesus im Tempel (Lc 2,45–47)  
+A<sub>4</sub> Herabkunft des Geistes (Act 2)  
+A<sub>5</sub> Krönung Mariens durch Christus  
+
+Die Emporen der Vorhalle sind mit neueren Gemälden ausgestattet, an den Emporenunterseiten sind die drei theologischen Tugenden, Fides, Spes und Caritas wiedergegeben. Der Bestimmung einer Wallfahrtskapelle in ganz allgemeinem Sinn entsprechen die Darstellungen an den Emporenbrüstungen: die drei großen Übel, Pest, Hunger und Krieg, die als Strafen Gottes angesehen werden.
+
+B ehemals Kreuzigung, jetzt Kreuz in Strahlenglorie (keine Abbildung)
+
+Die Begleitbilder (B<sub>1-4</sub>, B<sub>a-d</sub>) sind ebenfalls größtenteils erneuert; folgende Passionsszenen finden sich darunter:  
+B<sub>2</sub> (Hochformat) Abschied Jesu von Maria (ungewöhnlich ist der Stab in der Hand Jesu). Vielleicht eine entstellte Darstellung der Ehebrecherin, welche Leutner nennt (siehe unten).  
+B<sub>e</sub> (Queroval) Dornenkrönung und Verspottung Jesu (Mt 27,28–31)  
+B<sub>3</sub> (Hochformat) Fall Jesu unter dem Kreuz  
+
+Dazu gehören die beiden Wandbilder an den Arkadenbögen:  
+W<sub>1</sub> Kreuzannagelung  
+W<sub>2</sub> Kreuzaufrichtung  
+
+Typologische Vorbilder der Kreuzigung sind:  
+B<sub>d</sub> (Queroval) Opferung Isaaks (Gen 22) — und gegenüber —  
+B<sub>b</sub> (Queroval) Errichtung der Schlange durch Moses (Num 21,6–9)  
+
+Zwei Szenen gehören der Jugendgeschichte Jesu an:  
+B<sub>4</sub> (Hochformat) Darstellung im Tempel (Lc 2,22 ff.)  
+B<sub>i</sub> (Hochformat) Flucht nach Ägypten (Mt 2,14)  
+B<sub>a</sub> (keine Abbildung) Das Bildfeld ist mit Wolken bemalt, der runde Deckel in der Mitte zeigt die Geist-Taube (Heiliggeistloch).
+
+C PIETA Maria, den toten Sohn im Schoße bergend, sitzt am Fuße des Leidenskreuzes und weist, pathetisch zum Himmel aufblickend, auf die Seitenwunde Christi. Der marmorn-schöne, starre Körper Christi berührt kaum das untergebreitete Leichentuch. In schräger Lagerung ist er an die Knie Mariens gelehnt. Das Haupt wird von Maria umfaßt, das friedvolle, vom Blut gezeichnete Ant...
+
+<!-- citation-page-bottom: Band01 p257 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=5 -->
+<!-- citation-page-top: Band01 p258 -->
+
+<!-- header: VILGERTSHOFEN -->
+
+[[File:Band01_chunk006_p005_img001.jpg|thumb]]
+
+litz ist dem Betrachter zugewendet. Die herabhängende durchbohrte Hand weist auf Dornenkrone und Nägel am Boden. Zu Füßen Christi ist links ein Engel in anbetender Betrachtung der Wundmale niedergekniet, rechts **nahen** von hinten zwei weitere Engel. – Das helle, glatte Kreuz entspricht dem nackten, steinern modellierten Körper Christi, die leichte Abwendung des Kreuzes zur Seite betont die Hinwendung des Körpers Christi zum Betrachter. - Über dem Kreuz neigt sich Gottvater aus den Wolken zur Pieta hinab, die Pfeile des Zornes in seinen Händen zerbrechend und die Taube des Heiligen Geistes mit einem Olivenzweig zum Zeichen des Friedens und der Versöhnung aussendend. Zwei klagende Putti eilen der Geisttaube voran.
+
+Nur wenige Requisiten geben den Schauplatz an: Der flach nach vorne abfallende Erdboden charakterisiert ein bewachsener Stein. Die Pietagruppe wird von einer Steinstufe getragen. Eine Stadt in historisierenden Bauformen und ein befestigter Berg in der Ferne schließen den Ausblick auf der linken Bildseite. – Der von Wolken überzogene Himmel und seine Öffnung zur Glorie Gottvaters bleiben bildimmanent – sie sind nicht im illusionistischen Sinn auf den Kirchenbesucher bezogen. Wohl aber berücksichtigt die perspektivische Anlage bei den Figuren mit gemäßigter und beim Kreuz mit stark betonter Untersicht den Ort der Darstellung an der Decke.
+
+Die helle Farbskala des Bildes wird bestimmt von den fein differenzierten Ockertönen in Christi Körper und Kreuz und – matter – in den Wolken. Gebrochenes Gelb und Weiß wirken als lichte Steigerung dieser Ockertöne. In den Gewandfarben, Karmesinrosa und Stahlblau bei Maria und Rotbraun und Hellgrün beim knienden Engel werden Komplementärspannungen erzeugt. Diese Farben klingen – matter – in der Himmelszone an. Die starken Lichtreflexe auf dem Gewand Mariens und dem Leichentuch binden die Farben an das helle Inkarnat vom Körper Christi. Ein ähnlicher Bezug ist bei den Gewändern der schreitenden Engel und dem Kreuz festzustellen.
+
+C1–6 Medaillonfelder in Zweipaßform; 19./20. Jh. (vgl. Anmerkung zu A1–5).
+
+C1 Vertreibung der Stammeltern aus dem Paradies (Gen 3,23–24)  
+C2 Arche Noe in der Sintflut (Gen 7,17–20)  
+**B1 Flucht nach Ägypten**  
+**B2 Abschied Jesu von Maria**  
+**Bb Eherne Schlange**  
+**Bc Dornenkrönung**  
+**Bd Opferung Isaaks**  
+**Wi Kreuzannagelung**  
+**W2 Kreuzaufrichtung**  
+
+[[File:Band01_chunk006_p005_img002.jpg|thumb]]  
+[[File:Band01_chunk006_p005_img003.jpg|thumb]]  
+[[File:Band01_chunk006_p005_img004.jpg|thumb]]  
+[[File:Band01_chunk006_p005_img005.jpg|thumb|C Pieta]]  
+[[File:Band01_chunk006_p005_img006.jpg|thumb]]  
+<!-- citation-page-bottom: Band01 p259 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=6 -->
+<!-- citation-page-top: Band01 p260 -->
+
+<!-- header: VILGERTSHOFEN -->
+
+
+[[File:Band01_chunk006_p006_img001.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img002.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img003.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img004.jpg|thumb|ED3 Anbetung der Könige]]
+
+
+
+[[File:Band01_chunk006_p006_img005.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img006.jpg|thumb]]
+
+
+C3 Durchzug durch das Rote Meer – Vernichtung der Agypter (Ex 4,27)
+
+C4 Gefesselter König im Gefängnis – der reuige König Manasse? (vgl. 2 Par 33,11–13). Endres (S. 37) nennt unter den alttestamentarischen Szenen des Chores den »geduldigen Job« (so auch Bauer S. 22 und Hartig S. 8). Vielleicht handelt es sich bei diesem Bild um eine ikonographisch völlig entstellte Darstellung des Job im Elend.
+
+C5 Gottes Strafgericht über Sodom. Lot flieht, sein Weib erstarrt zur Salzsäule (Gen 19). Auffallend sind das Fehlen der Töchter Lots und des Engelgeleites sowie das Vorhandensein einer weiteren Gruppe von Fliehenden
+
+C6 Achan? Ein Feldherr spricht zu einem Mann, der in seinem Zelt ein Bündel packt; im Hintergrund ein brennender Scheiterhaufen (?) und eine Stadtansicht. Die Szene gibt vielleicht die Geschichte Achans (Jos 7) wieder. Josue befiehlt Achan, das gestohlene Banngut aus seinem Zelt zu holen. Der Scheiterhaufen weist auf das Strafgericht – Steinigung und Feuertod der Familie Achans – 
+
+ED<sub>1</sub>-6 Rundmedaillons über dem Emporenumgang des Chores (Emporendecke).
+
+an einem Pult sitzend, blickt erschrocken von ihrem Buch auf und wendet sich zu dem auf Wolken herabfahrenden Engel Gabriel nach hinten um. Die Taube des Hl. Geistes fliegt zu ihr hinab.
+
+ED2 GEBURT JESU Maria, ein Engel und Joseph knien im Halbkreis um das Kind, um es anzubeten. Eine Himmelsglorie öffnet sich über dem Kind, zu der Maria staunend aufschaut.
+
+ED<sub>3</sub> ANBETUNG DER HLL. DREI KÖNIGE (Mt 2,9)
+
+Maria sitzt mit dem Jesuskind auf dem Schoß vor dem Stall von Bethlehem, der durch den Stern bezeichnet ist. Die Heiligen Drei Könige knien in dicht gedrängter Gruppe vor dem Kinde nieder und reichen ihre Geschenke dar. ED. DIHLE ALLE DED ET TAGE
+
+ED4 RUHE AUF DER FLUCHT (apokryphes Motiv in Ergänzung zu Mt 2,13 ff.) Maria hat sich unter einem Baum niedergelassen und stillt das Kind. Joseph, an den Esel gelehnt, betrachtet Maria und das Kind.
+
+ED5 BESCHNEIDUNG JESU (Lc 2,21) Der Hohepriester hält das Kind auf dem Schoß und blickt voll Erstaunen zu den Lichtstrahlen, die in den Tempel eindringen. Ein vor ihm kniender Möchel beschneidet das Kind.
+
+ED6 DARBRINGUNG JESU IM TEMPEL (Lc 2,22 f.) Maria schreitet, gefolgt von Joseph, auf den Hohepriester zu und streckt ihm das Kind entgegen. Die zwei um ein Säulenpodest flatternden Tauben spielen auf die Opfergabe an. Mit dem Hohepriester ist der greise Simeon gemeint, der in dem Kinde den Heiland erkennt.
+
+ED<sub>I</sub> ASSUNTA Die Gestalt der auf Wolken zum Himmel fahrenden Maria, in extremer Untersicht gegeben, nimmt das ganze Bildfeld ein. Das gleiche Thema ist auf dem von Edmund Egg signierten Gemälde des Doppelaltares (von 1721) dargestellt.
+
+An der Empore des Chorumganges sind in fünf Einzelbildern die Blinden, Aussätzigen, Tauben, Stummen, Lahmen und Kranken dargestellt.
+
+D ST. ULRICH Über dem Altar mit der Darstellung des hl. Bischofs Ulrich und Ottos I. bei der Ungarnschlacht ist der Heilige in der Glorie wiedergegeben. Er sitzt im Bischofsornat auf Wolken; seine Gestalt ist stark verkürzt. Über seinem lichtumstrahlten Haupt öffnet sich eine von Engelsköpfchen umkreiste Glorie. Im Trennbogen die Anrufung des Heiligen: SANCTE UDALRICE O. P. N. (= Ora Pro Nobis).
+
+D<sub>1</sub>-3 19./20. Th.:
+
+D1 Der Heilige teilt im Feldlager die hl. Kommunion aus.
+
+D<sub>2</sub> Meßwunder des hl. Ulrich
+
+D<sub>3</sub> Der Heilige rettet zwei Männer vor der Enthauptung.
+
+E ST. STEPHANUS Das Glorienbild des hl. Stephanus über der Steinigungsszene im Altar entspricht formal weitgehend dem gegenüber befindlichen St. Ulrichsfresko. Stephanus wird durch ein Buch (die Heilige Schrift), Steine und Martyrerpalme gekennzeichnet. Im
+
+E ST. STEPHANUS Das Glorienbild des hl. Stephanus über der Steinigungsszene im Altar entspricht formal weitgehend dem gegenüber befindlichen St. Ulrichsfresko. Stephanus wird durch ein Buch (die Heilige Schrift), Steine und Martyrerpalme gekennzeichnet. Im
+
+Trennungsbogen: SANCTE STEPHANI O.P.N. E<sub>1</sub>-2 19./20. Th.:
+
+E1 Stephanus vor dem Hohen Rat (Act 6,12 ff.
+
+[BREEK NEW MANAGES _ E<sub>2</sub> Streitgespräch des hl. Stephanus (Act 6 8–1)
+
+22 Strengesprach des m. Stephanas (1200 5,5 10) Die Fresken ED1-6, ED1, sowie D und E zeichnen sich durch gleiche Stilmerkmale aus. Die Szenen sind in entschiedener Untersicht dargestellt, dabei fallen die gewaltsamen Verkürzungen und Verzerrungen auf: Die Figuren sind disproportioniert, Gesichter und Gliedmaßen zeigen derbe Formen. Breitausladende Gewänder verhüllen die Figuren. Die szenische Handlung ist durch wenige bildfüllende Figuren wiedergegeben, sparsame Requisiten kennzeichnen den Handlungsort. - Soweit sich die Farbigkeit der Fresken noch beurteilen läßt, weisen diese eine helltonige Palette auf. Vor allem Goldocker und Ockerrot gegen weißliches Grau oder lichtes Blau sind bezeichnende Farbkombinationen.
+
+
+== Ergänzungen zur Ikonographie ==
+
+
+In den Rudia fundamenta werden zu Zächs - ehemaligen – Fresken folgende ikonographische Erläuterungen gegeben: »In media templi nostri testudine Christi Crucifixionem exhibuit ... Caeterae picturae Dolores Beatissimae Virginis exhibent, et intermistas ex Sacro Codice figuras, Magdalenae videlicet Domini pedes unguentis adulterae a Christo in templo absolutae alisque ut locus iste poenitentiae agendae designatus esse indicaretur ...« (loc. cit.) Die genannten Themen sind in den heutigen Malereien nicht zu erkennen: Von den sieben Schmerzen Mariens finden sich sechs Darstellungen, doch sind diese in verschiedene Bildfolgen zerstreut und treten teilweise doppelt auf: Darbringung Jesu im Tempel = B4 und ED6
+<!-- citation-page-bottom: Band01 p261 -->
+
+
+[[File:Band01_chunk006_p006_img007.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img008.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img009.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img010.jpg|thumb|ED<sub>I</sub> Assunta]]
+
+
+
+[[File:Band01_chunk006_p006_img011.jpg|thumb]]
+
+
+
+[[File:Band01_chunk006_p006_img012.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=7 -->
+<!-- citation-page-top: Band01 p262 -->
+
+<!-- header: VILGERTSHOFEN -->
+
+
+[[File:Band01_chunk006_p007_img001.jpg|thumb|D<sub>3</sub> Errettungsszene]]
+
+
+Flucht nach Ägypten = B<sub>1</sub> und ED<sub>4</sub> (Ruhe auf der Flucht): der zwölfjährige Jesus im Tempel = A<sub>3</sub>; Kreuztragung = B<sub>3</sub> (Fall unter dem Kreuz); Kreuzigung = ehemals B; Kreuzabnahme = C (Pieta); Grablegung – fehlt völlig. 
+
+Die jetzigen Bildfolgen zeigen keine sinnvolle Ordnung und Auswahl: die Jugendgeschichte Jesu im Chorumgang wird ohne ersichtlichen Grund teilweise wiederholt unter den Passionsszenen um B und bei den Marienszenen der Vorhalle.
+
+Die beiden alttestamentarischen Szenen, Eherne Schlange und Opferung Isaaks, sind sehr geläufige Typen der Kreuzigung Christi. Bei den identifizierbaren AT-Szenen im Chor fehlt dagegen ein typologischer Bezug, es ist ein heils¬geschichtlicher Aspekt mit der Betonung von Gottes Strafgericht zu erkennen.
+
+Die beiden beispielhaft genannten Figuren Maria Magdalena und die Ehebrecherin fehlen, wie auch der Bußgedanke durch die – jetzt gegebene – Bildwahl nicht zum Ausdruck kommt. 
+
+Die Darstellungen an den Emporen zeigen die Nöte der Menschen, in welchen sie sich vertrauensvoll an Maria als ihre Fürbitterin (Fresko A) wenden.
+
+C PIETA Die Marienklage ist in einem im Barock sehr verbreiteten ikonographischen Bildtypus dargestellt: Maria wendet sich in Ergebenheit und Trauer zum Him¬mel; Engel eilen hinzu, den Tod des Herrn zu beweinen (vgl. RDK, Bd. 5, Sp. 616 ff. mit Abb. 12, s.v. Engelpieta). Bei einem Vergleich mit den ikonographisch sehr verwandten Gemälden van Dycks von 1627/32 im Louvre, Paris, und von 1634 in der Alten Pinakothek, München, fällt auf, wie stark das szenische Pathos in Zimmermanns Fresko reduziert ist.
+
+Das Pietabild ist zugleich Darstellung der Dreifaltigkeit unter dem heilsgeschichtlichen Aspekt der Versöhnung Gottvaters durch das Opfer des Sohnes. Das allegorische Motiv, das Zerbrechen der Zornespfeile, ist in Fürbittedarstellungen geläufig (vgl. LCI, Bd 2, Sp. 351 f., s. v. Interzession).
+
+Das Fresko ist dem Wallfahrtsaltar mit dem plastischen Gnadenbild zugeordnet; es gibt eine inhaltlich bereicherte und differenzierte Wiederholung der Vesperbildgruppe (vgl. die knappe Beschreibung der Rudia fundamenta Bl. 37v–38). Eine ähnliche Themenstellung zeigt die Wallfahrtskirche zum gegeißelten Heiland in der Wies (s. LKr. Weilheim-Schongau). In diesem Spätwerk gibt Zimmermann über dem Gnadenbild nicht den Gegeißelten, nicht einen irdischen Schauplatz, sondern eine reine Himmelsszene wieder: Engel bieten Gott die Leidenswerkzeuge dar und beklagen das Leiden Jesu. – Statt der straffen, in eine Bildebene gebundenen Komposition von Vilgertshofen zeigt das Wiesfresko einen weiten Himmelsraum, dessen Ordnung durch eine dynamische, raumschaffende S-Kurve bestimmt ist; lockere Gruppierung und reich variierte Bewegungsmotive zeichnen die Figuren aus.
+
+
+[[File:Band01_chunk006_p007_img002.jpg|thumb|E2 Streitgespräch des hl. Stephanus]]
+
+
+Fo Straitmonnial I 11 C. 1
+
+
+mel; Engel eilen hinzu, den Tod des Herrn zu beweinen (vgl. RDK, Bd. 5, Sp. 616 ff. mit Abb. 12, s.v. Engelpieta). Bei einem Vergleich mit den ikonographisch sehr verwandten Gemälden van Dycks von 1627/32 im Louvre, Paris, und von 1634 in der Alten Pinakothek, München, fällt auf, wie stark das szenische Pathos in Zimmermanns Fresko reduziert ist.
+
+Das Pietabild ist zugleich Darstellung der Dreifaltigkeit unter dem heilsgeschichtlichen Aspekt der Versöhnung Gottvaters durch das Opfer des Sohnes. Das allegorische Motiv, das Zerbrechen der Zornespfeile, ist in Fürbittedarstellungen geläufig (vgl. LCI, Bd 2, Sp. 351 f., s. v. Interzession).
+
+Das Fresko ist dem Wallfahrtsaltar mit dem plastischen Gnadenbild zugeordnet; es gibt eine inhaltlich bereicherte und differenzierte Wiederholung der Vesperbildgruppe (vgl. die knappe Beschreibung der Rudia fundamenta Bl. 37v–38). Eine ähnliche Themenstellung zeigt die Wallfahrtskirche zum gegeißelten Heiland in der Wies (s. LKr. Weilheim-Schongau). In diesem Spätwerk gibt Zimmermann über dem Gnadenbild nicht den Gegeißelten, nicht einen irdischen Schauplatz, sondern eine reine Himmelsszene wieder: Engel bieten Gott die Leidenswerkzeuge dar und beklagen das Leiden Jesu. – Statt der straffen, in eine Bildebene gebundenen Komposition von Vilgertshofen zeigt das Wiesfresko einen weiten Himmelsraum, dessen Ordnung durch eine dynamische, raumschaffende S-Kurve bestimmt ist; lockere Gruppierung und reich variierte Bewegungsmotive zeichnen die Figuren aus.
+
+
+== Literatur ==
+
+
+[Leutner, Coelestin] Vestibulum historiae Vilgertshovensis ... conscribi coepta Ao 1740, darin: Rudia fundamenta historiae b. V. Mariae dolorosae Vilgertshovii ... congesta 1740: Bay HStA I Wessobrunn KL 26.
+
+Hyperdulia Wessofontana, BSB München, clm 27 160. Prove Augeburg Rd 1 C 272
+
+Endres, Anton Wendelin, Geschichte der Wallfahrtskirche Vilgertshofen in Oberbayern, Augsburg (1864).
+
+KDB I OB (1), S. 54.
+
+Fugger, Eberhard Graf von, Die alte Wallfahrtskirche zu Vilgertshofen, in: OAVG 48, 1893/4, S. 179 ff.
+
+Hager, Georg, Die Bautätigkeit in Kloster Wessobrunn. in: OAVG 48, 1893/94, S. 195 ff.
+
+Bauer, Peter, Geschichte der Wallfahrtskirche Vilgertshofen, Landsberg 1906.
+
+[Emerich, Karl] Die Wallfahrtskirche zu Vilgertshofen nach der Säkularisation, in: Landsberger Geschichtsblätter 29, 1932, Nr. 7–8, Sp. 49 ff.
+
+Röhlig, Ursula, Die Deckenfresken J. B. Zimmermanns ungedruckte Diss. München 1949, S. 88 f.
+
+Hartig, Michael, Vilgertshofen (= KKF Nr. 484), München 1956.
+
+Neu. Wilhelm. Unbekannte Werke des Baumeisters J. Schmuzer, in: Lechisarland 1963, S. 24.
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S. 620–23.
+
+{{End}}

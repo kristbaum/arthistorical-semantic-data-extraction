@@ -1,0 +1,143 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=282
+|Originalseitenbis=287
+|Lemma=Winkl, Pfarrkirche St. Peter und Paul
+|Typ=Sakral
+|Ort=Winkl
+|davor=Welden, Filialkirche St. Stephan
+|danach=Andechs, Ehem. Benediktinerabtei
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p282 -->
+
+<!-- header: WINKL -->
+
+Pfarrkirche, Gemeinde Prittriching, Diözese Augsburg; von 1621 bis zur Aufhebung des Ordens besaßen die Jesuiten von Landsberg am Lech das Patronatsrecht, sie waren auch die Inhaber der Hofmarksrechte von Winkl
+
+'''Patrozinium:''' St. Peter und Paul
+
+'''Zum Bauwerk:''' Chorraum und Chorturm darüber stammen bis auf das später hinzugefügte Obergeschoß aus der Zeit um 1400, das gotische Gewölbe ist bei der Barockisierung der Kirche Mitte des 18. Jh. neu dekoriert, das LHs ganz umgestaltet worden. - Auf die Jesuiten, die Inhaber der Patronatsrechte, weist in der Kirche nur die Devise an der Kanzel hin: AD / MAIOR / DEI / GLO / RIAM. — Einfacher Saalraum zu vier Achsen, stark eingezogener AR mit geradem Abschluß
+
+'''Autor und Entstehungszeit:''' Fresko B zeigt die Signatur ... (?) Wolcker Aug / vindel fecit 1748. Der den Vornamen angebende Buchstabe - eher eine Ligatur - wird als P, I oder auch als JG (ligiert) gelesen, er ist aber nicht eindeutig erkennbar und wirkt verschrieben. Auch die Besichtigung während der Restaurierungsarbeiten 1970 vom Gerüst aus ergab keinen anderen Befund. In KDB OB und der nachfolgenden Literatur werden die Winkler Fresken einem Petrus Wolcker aus Augsburg zugewiesen – bei Thieme-Becker wird diesem völlig unbekannten Künstler noch Walleshausen zugeteilt (so auch in den Landsberger Geschichtsblättern). Die Geschichte – Familiengeschichte – der Künstler namens Wolcker im süddeutschen Raum ist noch nicht geklärt, so bleibt auch die Person des bei Thieme-Becker als D. Wolcker aus Augsburg mit zwei signierten Altarbildern angeführten Künstlers ganz unfaßbar.
+
+Die Walleshausener Fresken haben wir sicher Johann Georg Wolcker zuweisen können, eine Beschreibung von 1770 konnte diese Zuschreibung erhärten. Allein aufgrund des stilistischen Befundes weisen wir die Weiler Fresken Johann Georg zu (s. dort die Charakterisierung des Figuralstiles). Wir möchten auch die Winkler Fresken diesem Künstler zuschreiben, obwohl hier der schlechte Erhaltungszustand ein besonderes Hindernis bedeutet. Die Darstellung der Aufrichtung des Kreuzes Petri in B fordert zum Vergleich mit dem Weiler Fresko, Aufrichtung des Kreuzes Christi (B), heraus. Kulissenhafter Bau des Bildschauplatzes, Gruppenkomposition und Aktion der Figuren stimmen auffallend überein. Die Kriegsknechte der Winkler Szene scheinen allerdings weit weniger muskelstrotzend und drastisch wiedergegeben, doch hier hat das Fresko an einer inhaltlich besonders wichtigen Stelle großen Schaden erlitten: die Figur Petri und einige Schergen sind neu gemalt — besonders auffällig wird das bei der zu glatten, wie aufgeschwollenen Brust Petri und dessen verschattetem Kopf oder auch bei der mißlungenen Beinstellung des Strickziehers rechts daneben. Die anderen ursprünglichen Figuren der Kreuzigung sind Nebenfiguren und die Kriegsleute der Paulusszene sind etwas distanziert und nicht in voller Aktion gezeigt. Die Firnisverschmutzung des Freskos trägt weiter dazu bei, die Szenen weniger prägnant und ausdrucksvoll erscheinen zu lassen.
+
+Auch Fresko C bietet diese Schwierigkeiten, die einigermaßen intakten Figuren, Maria und der Jesusknabe, sind von Stams (Tirol) her bereits vertraute Wolcker-Figuren. Ebenso die in extremer Untersicht wiedergegebene Gestalt Gottvaters (vgl. Stams, Verkündigung), die hier in Winkl schlecht erhalten ist.
+
+Das Chorbild D zeigt im gereinigten Zustand noch die Spuren der ehemaligen Firnisüberdeckung, doch haben die Farben etwas von ihrer ursprünglichen Klarheit und Frische wiedergewonnen. Die Gewandfiguren (Petrus und Paulus) stimmen mit solchen in den Stamser Fresken, wie auch jenen der Walleshausener und Weiler Fresken (siehe vor allem die Nebenszenen) überein.
+
+[[File:Band01_chunk006_p017_img001.jpg|thumb]]
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs gedrückte Tonne mit Stichkappen; AR verschliffenes Kreuzgewölbe
+
+Rahmen: A, B, C, D Stuckprofil von Rocaillen überlappt D<sub>1-3</sub>, a–k Rocaillekartuschen
+
+Technik: Fresko; A, B, C, D polychrom; D1-3 und a, e, f, l sind monochrom ocker, b, c, d, g, h, i sind monochrom braunviolett.
+
+Maße: A Höhe 6,85 m; 2,10 × 2,10
+
+B Höhe 6,85 m; 4,60 × 3,73
+
+C Höhe 6,85 m; 4,60 × 3,75
+
+D Höhe 6,15 m; $\phi$ 1,70
+
+Erhaltungszustand und Restaurierungen: Die Fresken wurden 1901, 1950, 1962 und 1970/71 restauriert. In den 50er/60er Jahren hatte die Kirche schwere bauliche Schäden erlitten, dabei fielen aus den LHs-Fresken B und C große Stücke der Freskomalerei herunter. 1950 und 1962 wurden die Fresken zunächst durch Schrauben gesichert, dann die fehlenden Partien völlig neu ergänzt: in B die Gestalt Petri am Kreuz und teilweise die Schergen, sowie die Gestalt des enthaupteten Paulus; in C die Figur Josephs und das Himmelsstück über ihm bis zur Figur Gottvaters. 1970 wurde die Entfernung des 1901(?) aufgetragenen Ölfirnisses und die Beseitigung der 1950 oder 1962 hinzugemalten Figuren durch N. Fischer in Angriff genommen. Die Aufnahmen des Corpus der barocken Deckenmalerei zeigen bei den LHs-Bildern den Zustand vor dieser Reinigung, bei denen des Chores den gereinigten Zustand (D. D<sub>1-3</sub>). Die AR-Fresken (D, D<sub>1-3</sub>) zeigen noch die Spuren der ehem. Firnisüberdeckung, die Szene in D3 ist nicht klar lesbar. Im ganzen ist der Erhaltungszustand durch die Reinigung wesentlich verbessert worden. Die noch nicht restaurierten LHs-Fresken machten dagegen einen viel schlechteren Eindruck (Farben dunkel verschmiert). Die Szenen der Kartuschen a–k sind sehr schlecht erhalten, z. T. ruinös, und weisen neu gemalte Figuren auf. Bei Kartusche a, z. B., war die rechte Bildhälfte zerstört, sie wurde 1970 ergänzt. Ob bei Kartusche g die Darstellung nur verstümmelt überliefert ist, bleibt fraglich.
+
+== Beschreibung und Ikonographie ==
+
+A Das kleine vierpaßförmige Freskofeld ist von den Orgelpfeifen fast völlig verdeckt. Die Darstellung des Erzengels Michael im Triumph über Luzifer ist kaum zu erkennen (keine Abbildung).
+
+B-C Die beiden gleichformatigen Deckenfelder des Kirchenschiffes sind einansichtig konzipiert.
+
+B MARTYRIUM PETRI UND PAULI (apokryph-legendäre Berichte) Die Hinrichtungsszenen sind in zwei Gruppen für sich komponiert und nebeneinander gesetzt. Links ist die pathetisch bewegte Szene der Aufrichtung des Kreuzes Petri. Soldaten und Schergen stemmen das umgekehrte Kreuz, an das Petrus gebunden ist, mit vereinten Kräften empor. Rechts steht die Gruppe von Henker und Soldaten, im Anblick der vollzogenen Enthauptung Pauli erstarrt. Das Haupt Pauli, gerade vom Rumpf getrennt, springt herab, Blut strömt aus den Halsadern. Die in dieser Partie erneuerte Darstellung überliefert vielleicht nicht die originale Darstellung, die Gebärden des entsetzten Staunens bei Henker und Hauptmann weisen vielmehr auf ein legendäres Wunder hin: das dreimalige Aufspringen des Hauptes und das Entstehen dreier Quellen an den vom Haupt berührten Stellen. (Martyriumsberichte der beider Apostel vgl. Ribadeneira-Hornig, Bd 1, 29. u. 30. Juni S. 899 und S. 912 f.)
+
+Ein bühnenmäßiger Architekturaufbau schließt die Szene nach hinten ab. Hinter der Paulusgruppe ragt eine Steinmauer auf, bekrönt von einem Säulenstumpf – dieser ist dem aufragenden Kreuzesstamm Petri gegenübergestellt. Übereck schließt sich an die Mauer ein weiter Bogen zur linken Seite hin an. Die zweigeteilte Architektur verbindet beide Szenen und akzentuiert zugleich ihre Selbständigkeit. – Ein S-förmig gewundenes Wolkenband über dem Säulenstumpf trägt zwei Engel, diese halten die Siegeszeichen der Martyrer, Lorbeerkränze und Palmwedel, für die Apostelfürsten bereit.
+
+C RÜCKKEHR DER HL. FAMILIE AUS ÄGYPTEN (vgl. Mt 2,19-23) In eine bergige Landschaft - Palmen deuten den Schauplatz Ägypten an - ist bühnenartig ein Stufenpodest mit einer Brüstung und einer Statue gesetzt. Am Rande des Podestes schreitet die hl. Familie entlang. Joseph, bepackt mit den Geräten seines Zimmermannhandwerkes, faßt die Hand des Jesusknaben, Maria – in wehendem Mantel und nimbusähnlichem Reisehut – folgt, den
+
+<!-- citation-page-bottom: Band01 p283 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=18 -->
+<!-- citation-page-top: Band01 p284 -->
+
+<!-- header: WINKL -->
+
+<!-- header: WINK -->
+
+
+[[File:Band01_chunk006_p018_img001.jpg|thumb]]
+
+
+zurückschauenden Jesusknaben von hinten umfassend. Der Blick des Jesusknaben geht zurück zu der Götzenfigur, die in der Mitte geborsten, gerade von ihrem Sockel stürzt.
+
+Über der Hl. Familie schwebt die Taube des Hl. Geistes und sendet ihre Gnadenstrahlen hinab. Gottvater fliegt, die Hände segnend ausgebreitet, über ihnen. Seine Figur, in mächtigem Mantel wie im Sturzflug wiedergegeben, bildet ein kräftiges Gegengewicht zu der wandernden Gruppe. (Die stürzende Götzenfigur ist ein Motiv aus den apokryphen Wundererzählungen von der Flucht der Hl. Familie; vgl. LCI, Bd 2, Sp. 43–50.)
+
+D GLORIE PETRI UND PAULI In dem Rundmedaillon über dem Hochaltar sind die beiden Apostelfürsten auf Wolken mit ihren speziellen Attributen, Schlüssel und Schwert, und begleitet von zwei Engeln, wiedergegeben.
+
+Die Kartuschenfelder in Chor und Gemeinderaum geben Szenen aus dem Leben Petri und Pauli wieder. Die Petrusfolge nimmt die N-Seite ein, beginnend im Chor, die Paulusfolge entsprechend die Südseite. PETRUSFOLGE:
+
+D<sub>1</sub> PETRI BERUFUNG ZUM MENSCHENFISCHER (vgl. Mt 4,18–22 u. Par.) Jesus ruft vom Ufer des Galiläischen Meeres aus die Fischer Simon und dessen Bruder Andreas, die netzauswerfend am Ufer entlang rudern.
+
+Die Kartusche in der Mittelachse des Chorgewölbes zeigt eine schwer deutbare Petrusszene. Petrus – kenntlich an den Schlüsseln – begrüßt vor einem Hause stehend einen bärtigen Mann, der sich vor ihm verneigt. Vielleicht handelt es sich um die Aussendung der Diener des Cornelius zu Petrus – dem Bärtigen folgen zwei weitere Männer (Act 10,7–8), doch ist die Wahl dieser Szene nicht typisch für die Geschichte der Bekehrung des Hauptmannes Cornelius.
+
+a GEFANGENNAHME (Act 4,5) oder GEISSELUNG PETRI (?) Die linke Bildhälfte zeigt Petrus mit entblößtem Oberkörper, an einem Mauersockel stehend, vor ihm etwas tiefer ein Soldat; von hinten packt eine Hand einen Strick, mit dem Petrus gefesselt ist. In der rechten zerstörten Bildpartie wurde diese Hand 1970 zu der Figur eines geißelnden Soldaten ergänzt. (Von der Geißelung Petri nach der Verurteilung berichten die Martyriumsakten, vgl. Ribadeneira-Hornig, Bd 1, S. 899.)
+
+b AUFERWECKUNG DER JÜNGERIN TABITHA (Act 9,36–42) Petrus steht vor dem Sarg der Verstorbenen und reicht der sich aufrichtenden Wiedererweckten die Hand. Drei Frauen im Hintergrund verfolgen das Geschehen.
+
+c PETRUS HEILT BESESSENE UND GELÄHMTE (Act 5,16) Petrus breitet seine Hände über einem halb entblößten Besessenen aus, der von einem Begleiter gehalten wird. Petrus wendet sich zugleich den Lahmen hinter sich zu, die sich Heilung suchend an ihn wenden.
+
+d BEFREIUNG PETRI AUS DEM GEFÄNGNIS (Act 12,7–11) Ein lichtstrahlender Engel hat Petrus am Arm genommen und führt ihn durch die aufgesprungene Gefängnistür, vorbei an einem schlafenden Wächter.
+
+e DOMINE QUO VADIS? Christus erscheint dem aus Rom fliehenden Petrus dornengekrönt, das Kreuz auf den Schultern tragend. Petrus wendet sich, erschreckt beide Arme hochwerfend, zu Christus um und stellt die Frage, »Herr, wohin gehst Du?« Als Christus ihm erwidert, er wolle ein zweites Mal am Kreuz sterben, erkennt Petrus, daß ihm das Martyrium am Kreuz in Rom von Gott bestimmt ist. Nach dieser Vision kehrt Petrus nach Rom zurück (apokryph, vgl. Ribadeneira-Hornig, Bd 1, S. 899).
+
+
+== PAULUSFOLGE ==
+
+
+D<sub>2</sub> BEKEHRUNG DES PAULUS (Act 9,3–6) Von himmlischem Licht getroffen, ist Saulus von seinem davonsprengenden Pferd zu Boden gestürzt.
+
+f STEINIGUNG PAULI ZU LYSTRA (Act 14,18) Männer umkreisen mit erhobenen Steinen den am Boden knienden Paulus.
+
+g Das Kartuschenfeld über der Kanzel gehört nicht zum Pauluszyklus, es zeigt eine schlecht erhaltene malerische Landschaft mit Sonne (die neuere Inschriftkartusche davor gehört zum Schalldeckel der Kanzel). Vielleicht ist die Sonne emblematisch auf das Wort Gottes – das Licht Gottes (vgl. Jo 1,1), das von der Kanzel verkündet wird – zu beziehen.
+
+h SCHIFFBRUCH VOR MALTA (Act 27,39–44) Paulus, auf einem Brett von dem sturmgepeitschten Meer an Land getragen, wendet sich dankbar zum Himmel empor, zu seinen Seiten einige der mit ihm geretteten Männer vom Schiff. Das gestrandete Schiff wird hinter ihnen in den Wellen sichtbar.
+<!-- citation-page-bottom: Band01 p285 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=19 -->
+<!-- citation-page-top: Band01 p286 -->
+
+<!-- header: WINKI -->
+
+i DAS SCHLANGENWUNDER AUF MALTA (Act 28,3-6) Beim Einlegen von Reisern ins Feuer ist Paulus eine Otter an die Hand gefahren. Ein Einwohner der Insel fällt vor Paulus auf die Knie und weist in lebhafter Gebarde auf die anderen Reisigsammler. (Die Schlange vermochte nach dem biblischen Bericht Paulus nichts anzutun.)
+
+k PAULUS IN ROM(?) – (vgl. Act 28) Die letzte Paulusszene ist unklar, vielleicht gibt sie den Heiligen im Kreis seiner römischen Zuhörer wieder, die seiner Predigt teils Glauben schenken, teils in heftige Diskussionen darüber ausbrechen.
+
+Ergänzungen zur Ikonographie
+
+Das Programm der Kirche wird durch einen Petrus-und-Paulus-Zyklus bestimmt (Patrozinium!). Dieser gibt die Berufung von Simon und Saulus zu Jüngern Jesu, das Wirken der Apostel nach dem Tode Jesu, ihr Martyrium und ihre Glorie wieder. In dem Wandfresko am Chorbogen
+
+[[File:Band01_chunk006_p019_img001.jpg|thumb|W Schlüsselübergabe]]
+
+ist die Verleihung der Schlüsselgewalt an Petrus (Mt 16,19) dargestellt. Der Kirchenbau im Hintergrund der Szene alludiert die Kirchengründung Christi. In dem Bild des Hochaltares werden die Heiligen als Apostelfürsten gefeiert.
+
+Bis auf einige Bildfelder (D3, a, g, k) sind die Szenen klar bestimmbar, wenn auch nicht ganz sicher ist, ob die schlecht erhaltenen Bilder alle die ursprünglich dargestellten Szenen überliefern. An der unteren Empore befinden sich noch drei weitere Apostelszenen: Du bist Petrus der Fels (Mt 16,18 - Jo 1,42), Christus schläft bei Sturm in dem Schiff (Mt 8,23-26 u. Par.), Fischerszene - hier ist wohl der wunderbare Fischfang (Lc 5,4–7) gemeint.
+
+Auf die 1686 eingeführte Bruderschaft vom hl. Wandel Jesu, Maria und Joseph mit den besonderen Kirchenfeiern an St. Joseph und St. Michael (Steichele-Schröder) sind die Darstellungen C – Rückkehr der Hl. Familie aus Ägypten – und A – Erzengel Michael – bezogen. In diesen Zusammenhang gehört auch das Seitenaltarbild der Hl. Familie.
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 403. Steichele-Schröder, Bd 2, S. 556–60. KDB I OB (1), S. 559 f. Kunstdenkmale in Stadt und Bezirk (o.V.), in: Landsberger Geschichtsblätter 10, 1911, S. 27. Dehio-Gall, OB (1964), S. 280. Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 671 f. Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 112, 191.
+
+{{End}}

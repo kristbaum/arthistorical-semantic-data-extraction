@@ -1,0 +1,71 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=229
+|Originalseitenbis=229
+|Lemma=Schwabhausen, Kapelle St. Leonhard
+|Typ=Sakral
+|Ort=Schwabhausen
+|davor=Schwabhausen, Pfarrkirche Heilig Kreuz
+|danach=Schwabstadl, Kapelle St. Johannes
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Kapelle, Gemeinde Weil, Pfarrei Schwabhausen, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Benediktbeuern das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
+
+
+'''Patrozinium:''' St. Leonhard
+
+
+'''Zum Bauwerk:''' Die kleine Kapelle wurde 1478 errichtet, im 16. Jh. im W um ein Joch verlängert, 1865 nach Blitzschlag restauriert. Der dreiseitig geschlossene, spätgotische Raum mißt 5,60 m × 4,50 m
+
+'''Autor und Entstehungszeit:''' Die einfachen Bauernmalereien sind wohl gegen 1770/80 entstanden.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Spätgotisches Sternrippengewölbe
+
+Rahmen: gemalte Rocaillekartuschen
+
+Technik: Fresko; monochrom, alternierend rot oder ocker Maße: Höhe (bis zum Gewölbescheitel): 5,50 m; mittleres Gewölbe Feld A (Achslängen): 3,40 × 3,10
+
+Erhaltungszustand und Restaurierungen: 1954 erfolgte die Freilegung der Gewölbemalereien (Müller-Hahl); diese sind farblich sehr blaß und ungleichmäßig erhalten. Keine Abbildungen
+
+
+== Bildabfolge und Inschriften ==
+
+
+Um das mittlere Gewölbefeld A, das den Namen Jesu, IHS, zeigt, gruppieren sich zehn Szenen, welche das hilfreiche Wirken des Bauernpatrones St. Leonhard wiedergeben:
+
+**e STABWUNDER DES MOSES (Ex 7,10–12)** Der durch Gottes Allmacht in eine Schlange verwandelte Stab des Moses verschlingt vor Pharao die durch ägyptische Zauberer in Schlangen verwandelten Stäbe. – SaCrVM plgnVs/reVeLatVr, / ChrlstI fIDes / roboratVr (=1779). Die in Moses’ Stab wirksame Kraft Gottes ist stärker als die Kraft der Zauberer, d. h. der Götzendiener. Diese Szene befindet sich – in inhaltlich direktem Bezug – unter der Darstellung des gestürzten Götzenbildes.
+
+**f DAS WASSER VON MARA (Ex 15,25)** Moses macht das bittere Wasser von Mara genießbar, indem er ein von Gott gezeigtes Holz hineinwirft, auch hier ein typologischer Bezug: auf das lignum crucis.
+
+**D ABENDMAHL** Das Chorfresko zeigt die Einsetzung der Eucharistie, eine auf den Altar im Chor als der Stätte des Meßopfers bezogene Szene. Diese besondere Darstel-lungsart – als Deckenfresko über dem Altar – ist erst im späten 18. Jh. häufiger anzutreffen. Die Abendmahlsszene ist nur durch den allgemeinen theologischen Sinnbezug – Kreuzesopfer, Meßopfer, Eucharistie – auf die übrigen Darstellungen bezogen.
+
+1. **Ab hostibus liberat** – Drei Bauern vor einem Tor erheben hilfesuchend ihre Arme.
+2. **Pecora servat** – Der hl. Leonhard wird als Beschützer des Viehs von einem Bauernpaar angerufen.
+3. **Dissipat Grandinem** – Zwei Bauern bei einem Feld mit geknickten Kornähren (Hagelschaden).
+4. **Cohibet Fulmina** – Zwei von Blitzen bedrohte Bauern auf freiem Feld.
+5. **Mortuos vocat** – Ein Sterbender wird in einem Zelt versehen; im Hintergrund der Tod als Sensenmann.
+6. **Obsessos liberat** – Einer besessenen Bäuerin entweicht der Dämon aus dem Munde, hinter ihr der Bauer.
+7. **Debiles sanat** – Drei Brusthafte flehen um Hilfe.
+8. **Vinctos solvit** – St. Leonhard erscheint einem Gefangenen, der vom Gefängnisturm herabgelassen wird.
+
+Die Kartuschen 5 und 6 – über dem Altar – zeigen das Herz Jesu mit Kreuz und Dornenkrone und das Herz Mariens mit dem Schwert der Schmerzen und einem Kranz von Rosen – diese Bilder sind auf den Namen Jesu im Mittelfeld bezogen.
+
+
+== Literatur ==
+
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 613
+<!-- citation-page-bottom: Band01 p229 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=16 -->
+{{End}}

@@ -1,0 +1,233 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=38
+|Originalseitenbis=47
+|Lemma=Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt
+|Typ=Sakral
+|Ort=Dießen a. Ammersee
+|davor=Dienhausen, Kapelle St. Magnus
+|danach=Eching a. Ammersee, Pfarrkirche St. Peter und Paul
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p38 -->
+
+<!-- header: DIESSEN -->
+
+Ehemalige Augustiner-Chorherrenstiftskirche, seit 1804 Pfarrkirche, Diözese Augsburg
+
+
+'''Patrozinium:''' Mariä Himmelfahrt
+
+
+'''Zum Bauwerk:''' Der Neubau der Kirche wurde 1722 begonnen, jedoch erst 1732 durch Johann Michael Fischer fortgesetzt; Weihe 1739. - Wandpfeilerkirche ohne seitliche Emporen, mit kurzen Pfeilern und dadurch seichten Seitenkapellen. Niedrige Vorhalle unter der Westempore. Langhaus zu vier Jochen, eingezogener quadratischer Chor; hufeisenförmige Altarapsis
+
+'''Auftraggeber:''' Propst Herkulan Karg von Dießen (1728-1766)
+
+'''Autor und Entstehungszeit:''' Signatur in Fresko A, am Westrand: JGB: (ligiert) f: 1736. Signatur am Südwestrand von Fresko B: Ioannes GeorglVs BergMILLer AVgVstanVs sIC De-/pInXIt. Das Chronogramm ergibt 1736. Dießen gilt als ein Hauptwerk des Augsburger Akademiedirektors Johann Georg Bergmüller. — Skizze für Fresko B, Ol auf Lw., 106 × 61 cm, Inv. Nr. 6225, Städtische Kunstsammlungen Augsburg (Deutsche Barockgalerie, S. 36, Abb. 47)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B, C Flachtonnengewölbe, D Pendentifkuppel
+
+Rahmen: A, C profilierte Stuckprofilrahmen mit Band und Girlande umwunden und von Putti überspielt, B und D ornamentierter Stuckprofilrahmen, in B von Engelkartuschen gestützt, in D von Rocaillekartuschen überlappt. Technik: Fresko; polychrom
+
+Maße: A Höhe 23,20 m; 6,10 × 10,50
+
+B Höhe 23,20 m; 20,90 × 12,10
+
+C Höhe 23,20 m; 6,10 × 11,40
+
+D Höhe 25,40 m (Stich 5,10); ∅ 11,30
+
+Erhaltungszustand und Restaurierungen: Letzte Restaurierung 1955/58. Durchgehender Riß im Scheitel der Tonne (A, B, C), verbunden mit leichten Feuchtigkeitsschäden und Haarrissen, im O-Teil von Fresko B kommen stärkere Risse hinzu. Auch in D geringfügige Feuchtigkeitsschäden und Haarrisse; alle Fresken sind leicht verschmutzt.
+
+
+== Beschreibung ==
+
+
+A AUFFINDUNG DER GEBEINE DES SELIGEN RATHARD Das Bild befindet sich an der Wölbung im Vorjoch über der Orgelempore. Die einansichtige Komposition hat ihre Basis im Westen.
+
+Eine dunkle, als Repoussoir dienende Vordergrundzone führt in das Bild ein: links auf einer felsigen Rampe Staffagefiguren, rechts eine Schar Bittflehender innerhalb einer halbarchitektonischen Kulisse, gebildet aus Vase, Sockel, Mauer, Draperie und Bäumen. Im hellen Bildmittelgrund spielt die historische Szene. Ihr Schauplatz ist eine schon teilweise mit Gras bewachsene Kirchenruine. Man könnte diese als Reste einer überkuppelten Vierung mit anschließendem Altarraum beschreiben; eine genaue Bestimmung würde aber dem Charakter des bildhaft-ornamentalen Schauplatzes nicht gerecht.
+
+Ein Geistlicher öffnet, unterstützt von einem herbeifliegenden Engel, den Deckel einer Gruft. Ein weiterer Geistlicher und ein Bauarbeiter schauen in die Gruft, in der die Gebeine des seligen Rathard sichtbar werden. Diesen entströmt himmlischer Wohlgeruch, wiedergegeben durch kleine Rauchwölkchen.
+
+Die himmlische Teilnahme am irdischen wunderbaren Geschehen dringt als schwere Wolkenbank in die Szene ein: hier thront der selige Rathard in Chorherrn-Prälatentracht, den Propststab in der Hand, von vielen Engeln begleitet. Er weist auf seine Gruft und segnet nicht nur die Kranken und Bittflehenden, die nach der Legende am Tag der Auffindung seiner Gebeine Hilfe erlangten, sondern auch das Vorhaben der beiden Priester, nämlich den Wiederaufbau der Kirche, und legitimiert damit diese Szene der Dießener Geschichte als Teil des Dießener Heilsplans.
+
+Der Schauplatz ist sehr seicht; Architektur und Wolken schließen ihn nach hinten ab und beschränken die Handlung auf kleinsten Raum. Ein bühnenhafter Effekt, zu dem auch die Art beiträgt, wie die Ruine dargestellt ist: als Versatzstück, dessen Herkunft aus Vorlageblättern im Stil eines Juste-Aurèle Meissonier oder Jacques de la Joue (die in Augsburg bekannt waren) unübersehbar ist. Ornament und Ruinendarstellung gehen in eins und sind zu einem phantastisch-theatralischen Schauplatz geworden.
+
+Auffallend sind der Kontrast von der dunklen Rand- oder Repoussoirzone zu der Helligkeit der Hauptszene, die Sparsamkeit in der Verwendung von Lokalfarben (zu denen bei Bergmüller auch das intensive Kalkweiß gehört, dazu klares, kaltes Blau und ganz wenig Karminrosa und Gelb), und der Gegensatz von den kalten Blau-Weißtönen zu dem kompakten Braun und Braungrün der vordersten Zone.
+
+
+[[File:Band01_chunk001_p020_img001.jpg|thumb]]
+
+
+
+[[File:Band01_chunk001_p020_img002.jpg|thumb|A Auffindung der Gebeine des seligen Rathard]]
+
+
+B SZENEN AUS DER GESCHICHTE DER KLÖSTER ST. MARIA UND ST. STEPHAN Das mächtige Hauptfresko B erstreckt sich über drei Langhausjoche. Es ist eine umlaufende, konsequent zentralperspektivische Darstellung mit dem Fluchtpunkt der Höhenlinien in der Bildmitte. Die Konsequenz der Perspektive erstreckt sich aber nur auf die architektonische Rand- und Rahmenzone; die zu den historischen Szenen im Bildmittelgrund gehörigen Architekturen zeigen schwächere Verkürzungen und Untersichten, und ihr Höhenfluchtpunkt liegt etwa am gegenüberliegenden Bildrand. Dadurch, daß sie dem System der Rahmenzone nicht unterworfen sind, erhalten die dargestellten Schauplätze bildhafte Eigenständigkeit.
+
+Das Fresko ist, trotz der panoramaartig angelegten Randzone, zweiansichtig: Die Figuren hinter der Brüstung an der N- und S-Seite — Fanfarenbläser und Berittene (im O-Teil) und Engel (im W-Teil) — sind jeweils ganz auf die beiden Hauptszenen bezogen. Diese sind sowohl inhaltlich als auch formal gleichrangig; ausgezeichnet wird allerdings die östliche, in der Ansicht auf den Altar hin, dadurch, daß die ganze himmlische Szenerie auf diese Ansicht bezogen ist. Diese Himmelsszenerie wirkt im Bildaufbau trennend wie ein Querriegel.
+
+In der Ostansicht ist die Gründung des Klosters St. Maria durch Berthold I. von Dießen und Graf Otto II. von Dießen-Wolfratshausen dargestellt. Hinter einer dunklen Rampe, von der nach beiden Seiten Treppen aufsteigen, liegt eine bildparallel verlaufende Bühne im hellsten Licht. Hier wird mit Pomp die historische Szene aufgeführt.
+
+Vor einer zweitürmigen Kirchenanlage, die wohl San Giovanni in Laterano zu Rom darstellen soll, zieht ein Zug von Edelleuten und Prälaten von links zu dem erhöhten, baldachinbekrönten Thron des Papstes. Voran schreiten die Stifter Graf Berthold und Graf Otto in hermelinbesetzten Mänteln, begleitet von Pagen und Bewaffneten, und zeigen auf das von zwei Knaben gehaltene Bild des neuen Klosters (des Fischer-Baus). Ihnen folgen Bertholds Sohn
+
+
+<!-- citation-page-bottom: Band01 p39 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=21 -->
+<!-- citation-page-top: Band01 p40 -->
+
+<!-- header: DIESSEN -->
+
+Otto, Bischof von Bamberg, in Prälatentracht, und Ottos Sohn, Graf Heinrich, in Fürstenkleidung. Sie präsentieren Schenkungsurkunden Litterae / Donati/ onis. Papst Innozenz II., umgeben von Kardinälen und anderen Prälaten, überreicht dem vor ihm auf den Thronstufen knienden Chorherrn Degenhard die Bestätigungsbulle Litterae Confirmationis. Gleichzeitig mit dem irdisch-historischen Akt erfolgt analog eine Bestätigung vom Himmel her: ein Engel überbringt dem Papst ein Blatt mit der Aufschrift Confirmation.
+
+Ein schwerer und kompakt gebildeter Wolkenschauplatz schiebt sich von oben dicht und drängend an und vor das Geschehen. Ganz oben, im Zentrum des Bildes, in der lichten Himmelsglorie, von Engeln umgeben, thront Maria als Königin der Heiligen und Patronin der Dießener Stiftskirche. Die weiße, auffliegende Draperie, die Engel wie einen Baldachin über Maria ziehen, trennt gegenständlich die Mariengruppe von der zweiten historischen Szene in der Westansicht, kompositionell schafft sie jedoch einen Übergang zu derselben.
+
+Auf den dicken Wolkenkissen nehmen weitere Patrone der Dießener Klöster ihren Platz ein: Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert. Bischof Augustinus, bezeichnet durch das flammende Herz, ist ein Engel zugeordnet, der ein Buch mit der Inschrift ANTE / OMNIA / DILIGATUR / DEUS (frei zitiert der Beginn der sog. zweiten Regel des Augustinus) präsentiert.
+
+Dieser sehr starkfarbige, schwere, das Deckenbild dominierende himmlische Aufzug scheint nur auf den ersten Blick primär der historischen Szene zugeordnet. In Wirklichkeit bildet allein der Engel mit der himmlischen Konfirmationsschrift den realen Zusammenhang, der in seiner Hellfarbigkeit der historischen Szene angehört; er ist räumlich distanziert von dem Wolkenszenarium, welches farblich, lichtmäßig und räumlich vielmehr auf die Rahmenzone bezogen ist – ein formaler Hinweis darauf, daß der gemalte Heiligenhimmel ikonologisch auf die Kirche und die Gegenwart von 1736 bezogen ist. So betrachtet, wirken die Ost- und die Westszene wie Ausblicke, in denen die Geschichte des gegenwärtigen Dießen als Bild erscheint. Hier »zeichnet sich eine ... Problematik des 18. Jh. ab: Die Forderung an die Kunst ..., einen Modus zu finden, durch den an der Decke an Stelle der bisherigen Illusion der Himmelsöffnung eine Illusion der Geschichte erscheint. An die Stelle der hypäthralen ist jetzt eine historische Perspektive getreten, in der das System der optischen Illusion zu einem System geschichtsdarstellender Illusion wird.« (Bauer, S. 221)
+
+An der westlichen Schmalseite ist der Eintritt der fünfjährigen Mechthild in das unter der Leitung des Propstes Hartwig stehende regulierte Chorfrauen-Stift St. Stephan dargestellt. Wie auf der Gegenseite führen links und rechts ansteigende Treppenstufen von der dunklen Vordergrundrampe zu einem im hellen Licht liegenden, seichten Bühnenschauplatz, dessen Hauptkulisse eine barocke Kirchenfassade ist. Etwas unvermittelt davorgesetzt ist eine kleine Treppe mit anschließender geschwungener Balustrade – die architektonische Szenerie ist ganz ähnlich wie in der Ostszene arrangiert. Auf den Stufen dieser Treppe ist das kleine Mädchen, von mehreren Edelfrauen geleitet und empfohlen, vor dem Propst niedergekniet und küßt seine Hand. Dem Gefolge des Propstes gehören vier Männer an, die unverkennbar porträthafte Züge tragen, wahrscheinlich sind vier der Bauzeit angehörige Personen abgebildet, unter ihnen der Baumeister Johann Michael Fischer und – als ein Selbstbildnis – Johann Georg Bergmüller (Norbert Lieb, S. 6 f.). Auf den Stufen der Vordergrundzone sind Genrefiguren dargestellt, Frauen und Kinder – ein Kind flieht vor einem Hund. Rechts vor der Balustrade Bresthafte, in so allgemein-genrehafter Art wiedergegeben, daß man in ihnen kaum einen Hinweis auf spätere Wundertaten der seligen Mechthild sehen kann.
+
+Das Deckenbild zeigt die unverwechselbare Bergmüller-Farbigkeit: den klaren, hellen, intensiv blauen Himmel mit den weißen, grau abgeschatteten Wolken, wobei der reale Himmel der Historienszenen in Farbe, Tiefe und Substanz anders ist als der gelblich aufgehellte Glorienhimmel um Maria, sowie das wiederholte Auftreten von Blau und leuchtendem, aber kompaktem Weiß in den Gewändern und im Kontrast zu diesem kalten und reinen Farbakkord das intensive Braun und Graubraun der Randzone. In dem Verhältnis dieser architektonischen Randzone zum Kirchenraum Fischers einerseits und zu den historischen Szenen andererseits ist eine Besonderheit des Bergmüller-Stils zu sehen. Seine individuelle Leistung liegt in der Lösung des Problems einer Vermengung von Quadratura-Prinzipien mit der Darstellung historisch-legendärer Szenen. Einerseits eröffnet er sein Deckenbild durch Elemente illusionistischer Rahmenarchitektur, also ein Objektivum, andererseits wird gerade daraus ein historischer Bildschauplatz entwickelt. Das Ergebnis ist eine bislang unbekannte Einbindung des Historienbildes in die Quadratura: Scheinarchitektur gewinnt die Dimension des Geschichtsbildes und umgekehrt überträgt das Geschichtsbild sich über die Vermittlung der Scheinarchitektur auf den Kirchenraum.
+
+C GRÜNDUNG DES KLOSTERS ST. GEORGEN DURCH RATHARD Hinter einer schmalen, grasbewachsenen Erdzunge links und einem Baugerüst rechts erhebt sich ein massiver, brückenähnlicher Quaderbau. Dieser läuft bildparallel und dient den handelnden Personen als eine Art Bühne: Zwei Geistliche, die Brüder Rathard und Hanto, assistiert von Chorherren, Chorfrauen und einem Baumeister, präsentieren dem Kaiser einen Kirchen- und Klosterplan. Der Kaiser schreitet in prunkvollem Aufzug, begleitet von Edelleuten und Soldaten, auf die Prälaten zu. Von oben senkt sich eine Wolkenbank bis dicht an das irdische Geschehen herab. Divina Providentia, das Haupt hinterfangen von einem Dreieck mit dem Auge Gottes, schwebt über der Weltkugel und weist mit dem Zepter auf den Klosterplan – auch hier eine Analogie von irdischer und himmlischer Szene.
+
+[[File:Band01_chunk001_p021_img001.jpg|thumb|B Szenen aus der Geschichte der Klöster St. Maria und St. Stephan]]
+<!-- citation-page-bottom: Band01 p41 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=22 -->
+<!-- citation-page-top: Band01 p42 -->
+
+<!-- header: DIESSEN -->
+
+<!-- header: DIESSEN -->
+
+
+[[File:Band01_chunk001_p022_img001.jpg|thumb]]
+
+
+Die Szene ist einansichtig und im Bereich der Randzone – ähnlich wie in Fresko A – in starker Untersicht gegeben; bei der eigentlichen Historienszene sind Verkürzung und Untersicht reduziert. Der Fluchtpunkt der Höhenlinien liegt weit außerhalb des oberen Bildrandes. Im ganzen wirkt das Bild etwa wie ein Drittel der großen Anlage von B und ist auch ungefähr so konstruiert (ebenso Fresko A). Die formale, kompositionelle Gleichartigkeit der beiden Einzelbilder mit den jeweiligen Bildszenen des Hauptfreskos – auch die Ansichtsrichtungen stimmen überein – akzentuiert die inhaltliche Übereinstimmung der vier historischen Szenen.
+
+Die Randzone in Fresko C ist in der typischen Art Bergmüllers konstruiert: Links steigt steil eine Felsenszenerie empor, in deren unterer Höhlung eine Mutter mit Kind, ein Trommler und ein Soldat dargestellt sind. Rechts ragt ein Bohlengerüst in den Himmel, hinter dem der Ziegelrohbau einer Gebäudekante sichtbar wird. Hier verfolgen Arbeiter, wie von einer Proszeniumsloge aus, mit erstaunten Gebärden das Geschehen in der Bildmitte.
+
+Bergmüller baut seine dunklen Randzonen im allgemeinen aus Felskulissen, Treppen und architektonischen Versatzstücken. Auffallend ist seine Vorliebe für Baugerüste (vgl. Steingaden, s. LKr. Weilheim-Schongau). Diese Zone distanziert und komprimiert die dahinter erscheinende Historienszene in der Art einer Guckkastenbühne. Zu dieser Wirkung tragen noch die einfachen, bildparallel verlaufenden Bühnenschauplätze bei. Ebenso wie die Szene zu den Seiten hin eingeschränkt ist, ist sie es auch in der Tiefe: der Bildschauplatz ist seicht und von Architektur und Wolken begrenzt.
+
+In diesem engen Bühnenraum nun reduziert Bergmüller das historische Geschehen auf das Bildhaft-Wesentliche, in Fresko C auf den theatralischen Moment der Gründung und Legitimation.
+
+In der Farbigkeit zeigt unser Bild noch einmal mit aller Deutlichkeit die schon vorher beschriebenen Bergmüller-Merkmale. Das Licht – mehr als eine bildimmanente Helligkeit als das Ergebnis einer dargestellten Beleuchtung – ist kalt und klar; es verändert die Buntfarbe nie zum Warmen hin; rosige oder gelbliche Höhungen fehlen. Die Farben werden durch Licht und Schatten nur intensiviert oder abgeschwächt, heller oder dunkler.
+
+D HEILIGENHIMMEL VON DIESSEN Das Kuppelfresko über der Vierung ist auf einen zentralen Standpunkt hin angelegt. Umgeben von den Personifikationen der vier Kardinaltugenden Klugheit, Gerechtigkeit, Mäßigkeit und Starkmut in den stuckierten Pendentifkartuschen und den stuckierten Herrschaftswappen der gräflichen Linien von Dießen, Andechs, Hohenwart und Wolfratshausen über dem verkröpften Gebälk der Vierungspfeiler erhebt sich ein Glorienhimmel mit der Umschrift im Kuppelring GLORIA SANCTO-RUM, BEATO-RUMQUE DIESSEN-SIUM, ET ANDECEN-SIUM.
+
+Auf dicken, starkfarbigen, kompakten Wolkenkissen, die, dem Freskorand folgend, eine unterste, umlaufende Wolkenszenerie bilden, thronen die Heiligen aus den einzelnen Herrschaftshäusern, die jeweils in Gruppen einander zugeordnet und nur lose untereinander verbunden sind. Einzelne Wolkenpartien verlaufen, lichter werdend, nach oben zur Bildmitte hin. Dort umgibt eine Schar von Engeln mit Weihrauchgefäßen und Blumen die Gestalt Christi, die im Zentrum des Bildes vor einer hellen Himmelsglorie erscheint, von Strahlen umgeben, das Kreuz in Händen, zu Füßen die Weltkugel. Eine weitauffliegende, blaue, von Engeln gehaltene Draperie hinterfängt Christus. Seine senkrecht, halb schwebend, halb thronend wiedergegebene Gestalt beherrscht die Ostansicht der Himmelskuppel.
+
+Verglichen mit den anderen Bildern in Dießen ist das Kuppelfresko von verhältnismäßig geringer Qualität. Eine konventionelle und für das frühe Rokoko unmoderne Aufgabe, nämlich die Darstellung einer Heiligenkuppel, wurde hier konventionell ausgeführt. Bergmüllers besondere Qualitäten in Bildaufbau und Farbgebung werden kaum sichtbar, was aber bei anderen Rokokofreskanten auch der Fall ist. Man denke beispielsweise an die Kuppel in Andechs von Zimmermann (s. LKr. Starnberg) oder die Zeillers in Ettal (OB, LKr. Garmisch-Partenkirchen, s. Bd 2)
+<!-- citation-page-bottom: Band01 p43 -->
+
+
+[[File:Band01_chunk001_p022_img002.jpg|thumb|D Heiligenhimmel von Dießen]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=23 -->
+<!-- citation-page-top: Band01 p44 -->
+
+Ikonographie
+
+== A AUFFINDUNG DER GEBEINE DES SELIGEN RATHARD ==
+Eine Szene aus der älteren Geschichte Dießens, die legendenhafte Züge trägt. Das alte, durch den seligen Rathard gegründete Kloster, dessen Patron St. Georg war, lag an der Stelle des heutigen St. Georgen. 955 wurde es von den Ungarn verwüstet; nach der legendären Tradition wollte man um 1013 die niedergebrannte Kirche wiederaufbauen. Bei der Beseitigung der Trümmer stieß man auf eine Sargplatte, die man nicht heben konnte. Da erschien den beiden Augsburger Priestern Ulrich und Adalbert ein Engel als Hilfe. Die legendäre Szene mit Arbeitern, Priestern, dem Engel und der Gruft wird in unserem Bild ergänzt durch die Erscheinung des himmlischen Rathard, als Kloster- und Kirchengründer dargestellt, in der später üblichen Chorkleidung der Prälaten, Almutie über Rochett und Birett. Nach der Legende erlangten die bei der Auffindung anwesenden Kranken Heilung – darauf weisen die im Vordergrund dargestellten Bittflehenden hin.
+
+== B SZENEN AUS DER GESCHICHTE DER KLÖSTER ST. MARIA UND ST. STEPHAN ==
+Die Augustiner-Chorherren erhielten an der jetzigen Stelle, einer Anhöhe im Westen des Ortes, das neue Kloster St. Maria. In der Ostansicht ist diese Gründung durch die Grafen Berthold I. von Dießen und Otto II. von Dießen-Wolfratshausen dargestellt, gleichzeitig mit der später — 1132 — erfolgten Bestätigung durch Papst Innozenz II. Gründung und Bestätigung sind zwei kirchenrechtlich verschiedene Vorgänge. Man darf hier wohl kaum die Darstellung der Bestätigung allein sehen, sondern — in einer Simultandarstellung — die durch die Bestätigung vollendete Gründung. — Die Darstellung von San Giovanni in Laterano erklärt sich daraus, daß das Dießener Chorherrenstift seit 1699 der Lateranesischen Kongregation angeschlossen war; die römische Lateranskirche war zeitweilig Sitz dieser Kongregation. Seit etwa 1020 hat der Tradition nach in Dießen ein Frauenkloster St. Stephan, gegründet von der Gräfin Kunissa von Dießen, bestanden, das im 14. Jh. wieder erlosch. In der Westansicht ist der Eintritt Mechthilds, der Tochter Graf Bertholds I. (Lieb, S. 13), dargestellt. 
+
+Wie schon in der Bildbeschreibung angedeutet sind die vier Historienszenen des Langhauses mit ihren drei Schauplätzen, St. Georgen, St. Maria und St. Stephan, als heilsgeschichtliche Einheit anzusehen. Die himmlische Erscheinung in Fresko B bezieht sich auch auf alle drei Stifte. Im Zentrum Maria als Patronin des 1736 bestehenden Augustiner-Chorherrenstifts, Georg als Patron des ehemaligen Rathardklosters, Stephanus als Patron des ehemaligen Frauenstiftes. Dazu kommen der hl. Augustinus als Regelstifter und Patron der Augustiner-Chorherren und die hll. Petrus und Paulus als Nebenpatrone der damaligen Pfarrkirche St. Georgen. Unter den nicht durch individuelle Attribute bezeichneten Heiligen sind Repräsentanten der geistlichen Hierarchie dargestellt: Papst, Kardinal, Erzbischof und Bischöfe und schließlich ganz im Hintergrund Chorherren. Diese sind vielleicht als Heilige des Augustiner-Chorherrenordens anzusehen.
+
+Schwierig ist die Bestimmung der vier auf den seitlichen Brüstungen bei den Wittelsbacher Wappen (im S und N) als Stuckfiguren gemalten allegorischen Gestalten. Bei den nördlichen Figuren ist die eine mit einem Einhorn, die andere mit Zügeln und einem den Faszes ähnlichen Bündel von Stäben wiedergegeben. Nach Ripa (s. v. virginità, obedíenza, temperanza) ist das Einhorn Attribut der Virginitas. Zaum und Zügel sind Attribute der Oboedientia und der Temperantia. Das Bündel von Stäben ist wahrscheinlich ein Hinweis auf Concordia – der einzelne Stab kann gebrochen werden, das Bündel aber nicht (vgl. Piccinelli, s. v. virga, Liber 9, Nr. 245). Die beiden Figuren verkörpern wahrscheinlich auf die Dießener Chorherrn bezogene klösterliche Tugenden: die Keuschheit sowie den Gehorsam, verbunden mit der Eintracht.
+
+Die südlich dargestellten Figuren haben ein Buch und eine Kugel bei sich. Das Buch als Attribut ist zu allgemeiner Natur, als daß man eine allegorische Figur allein danach bestimmen könnte. Im Dießener Kontext kann sie als eine Personifikation der klösterlichen Gelehrsamkeit und des theologischen Wissens, vielleicht auch der Rhetorik, der Predigt der Chorherren, gedeutet werden. Ebenso schwierig ist die Entschlüsselung der Gestalt mit der Kugel, eben weil es nur eine Kugel ist. — Fortuna oder Tempus kommen in diesem Zusammenhang kaum in Frage. Bezogen auf die erstgenannte Figur bietet sich eine auch bei Ripa (s. v. scienza) zu belegende Deutung an: Scientia, und zwar hier als die Naturwissenschaften in Gegenüberstellung zur Theologie – eine geläufige Vorstellung, vgl. Polling, Bibliothek (s. LKr. Weilheim-Schongau), da die Augustiner-Chorherren in Bayern in der Pflege der Naturwissenschaften bedeutend waren. Unabhängig von der anderen Figur gesehen käme, von Picinelli ausgehend (s.v. pila, Liber 18, Nr. 24, 25, 28, 32, 34) auch Aequitas oder Constantia in Frage.
+
+== C GRÜNDUNG DES KLOSTERS ST. GEORGEN DURCH RATHARD ==
+Dargestellt ist die erste, nur legendär überlieferte Klostergründung St. Georgen durch den seligen Rathard um 815. Rathard ist, wie in Fresko A, mit Almutie über Rochett bekleidet wiedergegeben. Sein Bruder Hanto, Bischof von Augsburg, trägt die Prälatentracht, Mozzetta über Rochett und Birett. Bischof Hanto soll später die Weihe der Kirche St. Georgen vollzogen haben. Der Kaiser wird als Ludwig der Fromme benannt.
+
+== D DER HEILIGENHIMMEL VON DIESSEN ==
+Wie die Umschrift der Kuppel angibt, sind in diesem Dießener Glorienhimmel die Heiligen aus den vier Linien des Hauses Dießen-Andechs dargestellt. Im einzelnen sind zu benennen: An der Ostseite unterhalb der Gestalt Christi die Gruppe der Heiligen aus dem Dießener Geschlecht: Die selige Mechthild in weißem Ordenshabit mit grauem Schleier, Hostienkelch und goldenen Abtstab haltend; 1153 war sie Abtissin des Kanonissenstifts Edelstetten in Schwaben geworden. Daneben der selige Rathard in Prälatentracht mit dem Stab des Propstes (vgl. Fresko A und C). Davor kniet der selige Rasso in Rüstung, blauem Mantel und Hermelinpelz, Grafenhut und Helm zu seinen Füßen, Zepter und Klosterplan in Händen. Der Klosterplan bezeichnet ihn als Gründer des Benediktinerklosters Grafrath (OB, LKr. Fürstenfeldbruck). Nächst Rathard die selige Euphemia, eine Schwester der Mechthild, in grauem Ordensgewand mit silbernem Abtstab. Sie war Äbtissin des damaligen Benediktinerinnen-Klosters Altomünster (OB, LKr. Dachau). In der weiblichen Gestalt zu ihrer Seite, bekleidet mit einem roten, hermelingefütterten Mantel, ist wohl die selige Gertrud, Tochter des hl. Ludwig und der hl. Elisabeth von Thüringen, zu sehen. Daneben, im Hintergrund, mit goldenem Abtstab die selige Kunissa als Ordensfrau, Gemahlin des Grafen Friedrich II. von Dießen und Gründerin von St. Stephan.
+
+Es folgen die Heiligen und Seligen aus dem Geschlecht derer von Hohenwart: der selige Ulrich, Bischof von Lausanne (vgl. dall'Abacos Heiligenliste Nr. 11). Die selige Adela, Tochter Aribos I., Grafen von Andechs,
+
+[[File:Band01_chunk001_p023_img001.jpg|thumb|B Ausschnitt: Patrone von Dießen]]
+<!-- citation-page-bottom: Band01 p45 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=24 -->
+<!-- citation-page-top: Band01 p46 -->
+
+<!-- header: DIESSEN -->
+
+<!-- header: DIESSEI -->
+
+Stifterin des Benediktinerinnen-Klosters Göß in der Steiermark. Ein Putto hält ihren Grafenhut. Gegenüber thront die selige Wiltrudis in der Tracht der Benediktinerinnen, den Abtstab haltend. Sie war eine Tochter des Grafen Rapoto von Tauern und Hohenwart und wurde Äbtissin des 1074 gestifteten Benediktinerinnen-Klosters Hohenwart in Tirol. Ihr zur Seite kniet der selige Einsiedler Romadius in brauner Kutte mit Buch und Stab. Er soll von der Burg Hohenwart oder von Tauern, einem Ort zwischen Innsbruck und Hall stammen; er wanderte als Bußprediger durchs Land.
+
+Anschließend folgen die Welfen: der hl. Stephan, König von Ungarn, in gelbem Königsmantel mit Hermelinbesatz, dazu Königskrone, Kreuzstab und Zepter. Als Rückenfigur ist der selige Zisterzienser Konrad in Kardinalstracht über dem Ordenshabit, mit Kreuzstab wiedergegeben. Daneben thront, breit hingelagert, der hl. Kaiser Heinrich II. Er trägt einen gelben Mantel und die Kaiserkrone; Reichsapfel und Zepter liegen ihm zur Seite. In den drei gekrönten Frauengestalten dahinter sind die selige Gisela, Schwester des hl. Heinrich und Gemahlin König Stephans von Ungarn, die hl. Adelheid, Gemahlin Kaiser Ottos des Großen, und die hl. Kunigunde, Gemahlin Kaiser Heinrichs II. zu sehen. Im Hintergrund der hl. Konrad, Bischof von Konstanz, mit Bischofsstab und Kelch mit einer Spinne darauf. Seine Mutter war eine Schwester des seligen Rasso. Daran schließen sich die Heiligen aus dem Geschlecht der Wolfratshausener. In grauer Kutte, mit einem Pilgerstab ist der selige Luitpold, Einsiedler von Ellwang am Ammersee, zu sehen. Er ist der Sohn der neben ihm sitzenden seligen Justitia, der Gemahlin Ottos I., Grafen von Wolfratshausen. Dahinter die selige Lauritta, Gräfin von Wolfratshausen, in hellblauem, wehendem Mantel, ein Putto hält ihr den Grafenhut.
+
+Hierauf folgt die Gruppe der Andechser, als erster Kaiser Karl der Große mit Reichsapfel, Zepter und der historischen Kaiserkrone. Ihm wendet sich seine zweite Gemahlin die selige Hildegard zu, die mütterlicherseits von den Grafen von Andechs-Dießen abstammte. Sie hatte große Stiftungen an das Benediktiner-Reichsstift Kempten in Schwaben gemacht. Der dazwischen wiedergegebene Ritter hat keine individuellen Attribute (er wird bei Stenger als der selige Gerold, ein Bruder Hildegards und kaiserlicher Statthalter in Bayern bezeichnet). Es folgen nun drei weibliche Gestalten, in denen wohl die selige Adelinde, Stifterin des benediktinischen hochadeligen Damenstifts von Buchau am Federsee in Baden-Württemberg, die hl. Hedwig, Herzogin von Schlesien und Gründerin des Zisterzienserinnenklosters Trebnitz, eine Andechser Grafentochter, und die hl. Elisabeth, Königin von Portugal, eine Großnichte der Thüringer Elisabeth, zu sehen sein sollen. Darüber sitzen die bereits erwähnten Heiligen, Ludwig Landgraf von Thüringen mit seiner Gemahlin, der hl. Elisabeth, einer Nichte Hedwigs.
+
+Unsere Beschreibung folgt der Anordnung und Benennung von Hugo (S. 90–92, hier auch Nachweis der bei Matthäus Rader, Bavaria Sancta, behandelten Heiligen) und nicht der des dall'Abaco, der keine Kleidung und Attribute und den Platz der einzelnen Heiligen im Fresko nicht nennt. Danach sind im Fresko nicht dargestellt die bei dall'Abaco unter den Nummern 8, 15, 17, 18, 19, 20, 25, 31 aufgeführten Personen. Auch Fastl macht in seiner Kirchweihpredigt einige Anmerkungen zu den Heiligen, meist nach Raders Bavaria Sancta. Stenger nennt die gleichen Heiligen wie Hugo, hinzu kommt der oben erwähnte Gerold (S. 28 ff.); er gibt die Verwandtschaftsbezeichnungen der einzelnen Heiligen und Seligen genauer an (vgl. auch Lieb).
+
+
+== Ikonologie ==
+
+
+Die Bedeutung dieses einheitlichen historischen Programms ist aus der Dießener Kirchweihpredigt des Pollinger Chorherrn Augustinus Fastl, 1739, publiziert in München 1740, ersichtlich. Sie trägt den Titel: »Der neue Himmel zu Dießen«. Im Vorbericht wird der Festtag beschrieben, an dem die neue Kirche durch den Propst Herkulan Karg, zugleich lateranensischer Abt, geweiht wurde. Das geschah am Tage vor dem Fest Mariä Geburt. An diesem Tag wurden die Gebeine des seligen Rathard aus St. Georgen in die neue Kirche überführt.
+
+Im folgenden beschreibt er nun die neue Kirche als einen neuen Himmel nach der Apokalypse des Johannes (21,1): »Vidi caelum novum« (Fastl, S. 7), der zu Ehren der göttlichen Mutter erbaut wurde. Papst Innozenz II. hat das Stift mit Gnaden angesehen (vgl. in Fresko B die Übergabe der Bestätigungsschrift) und den Schutzmantel des hl. Petrus darübergebreitet. (Petrus ist in der Heiligengruppe unterhalb Mariens in Fresko B wiedergegeben.) Über allen Heiligen steht Maria, die Königin aller Heiligen, deren Tugendglanz durch Sterne, Mond und Sonnenstrahlen versinnbildlicht ist. Ihre Darstellung geht zurück auf die Vision des Johannes, der im Himmel ein Weib erscheinen sah: Ihr Kleid war die Sonne, ihr Fußschemel war der Mond, ihr Haupt zierte eine Krone aus lauter Sternen. Von dieser Vorstellung her sieht nun der Prediger neue Verbindungen zu Dießen: Die neue Kirche ist ein neuer Himmel, der Maria geweiht ist. In diesem neuen Himmel hat Maria für ihr Kleid die Sonne, das ist der selige Rathard, unter ihren Füßen den Mond, das ist die selige Mechthild, auf ihrem Haupt eine Sternenkrone, das sind alle übrigen Heiligen von Dießen. Somit wird die Himmelskuppel als die schimmernde Krone Mariens angesehen.
+
+Die Vorstellung von der Kirche als einem Himmel ist in Dießen zweifellos sehr geläufig: »Diser neue Himmel aber ist dise neue Stüfft-Kirchen« (Fastl, S. 7), »Dise gegenwärtige Stüfft-Kirchen ist ein unvergleichlich-heilig-neues Himmlisches Jerusalem« (Fastl, S. 9), »Ein Kirchen bauen ist sovil als einen neuen Himmel erschaffen« (Fastl, S. 30). Neben der einfachen Himmelsillusion, die in der Kuppel und in der himmlischen Erscheinung von Fresko B zur Anschauung gebracht wird, steht in Dießen ein neuer, sublimer Sinn. In der Geschlossenheit und Einheitlichkeit des historischen Sinnbezugs wird eine Bedeutung des Kirchengebäudes spürbar, die weit über die direkte, hergebrachte illusionistische Thematik hinausgeht. Der Heiligenhimmel ist in Dießen auf die Lokalhistorie bezogen: »Christlicher Zuschauer, ... sihe an disen neuen Himmel ... alle Heiligen aus dem heiligen Stammen-Hauß deren Stüffteren von Dießen« (Fastl, S. 15 f.). Die Legitimation als Himmel bezieht die Kirche nicht mehr allein aus ihrer Zugehörigkeit zur Institution der Kirche, zu einem Orden, oder aus Patronaten. Ein direkter, persönlicher und lokaler Bezug wird sichtbar: die Geschichte des Ortes. Aber die Geschichte ist nicht »historische Wahrheit im heutigen Sinn, nämlich tatsächliche Begebenheit, sondern sie ist Wahrheit als religiöses Faktum: Heilsgeschichte. ... Aus dieser Geschichtsbetrachtung resultiert jedoch, daß der Ort, auf dem das Kirchengebäude steht, durch die Kirchengründung zum heilsgeschichtlichen Ort wird ... Das Faktum der Lokalgeschichte erlangt somit überragende Bedeutung, als Teil des göttlichen Heilsplans kann es neben biblische Begebenheiten gestellt werden und wird genauso wie diese darstellungswürdig.« (Rupprecht S. 22 f.). Die heilsgeschichtliche Bedeutung des Ortes nimmt nun oft Bezug – in geradezu typologischer Weise – auf einen biblisch-historischen Ort, etwa auf Bethulia (Wilten in Tirol), den Teich Bethesda (Andechs, s. LKr. Starnberg) oder auf einen hagiographisch-legendären Ort, z. B. den Monte Gargano (St. Michael, München-Berg am Laim).
+
+In dieser Reihe nimmt Dießen eine Sonderstellung ein, indem es nämlich in seiner Legitimation aus der Geschichte keinen Umweg über typologische Bezüge macht, sondern nur sich selbst meint: »Transzendiert in den vorher besprochenen Beispielen der Kirchenbau durch den Verweis des Freskos auf einen historischen Gnadenort, so im Falle von Dießen nur noch durch einen Verweis auf sich selbst als historischen Ort.... Hier wird der Begriff der Stiftung transzendental. Die Geschichte der Gründung von Dießen wird ... das quasi-typologische Vorbild des eigentlichen Dießen. Der Unterschied zwischen der Stadt Bethulia über Wilten und dem Bild von Dießen über Dießen ist nur ein gradueller. Beide Male wird die Geschichte als Anfang eines Heilsgeschehens eingeführt, das seine Erfüllung im gegenwärtigen Kirchenbau fand« (Bauer, S. 235; vgl. das Steingadener Programm). Diese Überzeugung klingt auch in der Kirchweihpredigt Fastls an, der Heilsplan ist vollendet, das Ziel der Geschichte, das florierende und jubilierende Stift, ist erreicht.
+
+
+== Literatur ==
+
+
+Fastl, Augustinus, Der neue Himmel zu Diessen, das ist Kirchweih-Lob- und Jubelpredigt, München 1740.
+
+Abaco, Joseph dall', Vollständige Chronick des Uralten U.L. Frauen Stifts- und Klosters der regulierten Chorherrn unter der Regel des Hl. Augustins zu Diessen in Ober-Bayern am Ammer See gelegen mit ächten Urkunden und beglaubten Schriftstellern beleuchtet, mit chritischen Abhandlungen befestiget, in IV. Theile abgesondert, und also zusammengetragen und verfaßt von R. P. Josepho dall'Abaco. Des erwehnten Stifts und Klosters Profeß nach Kapitularn, [1748], BSB, Cod. germ. 1769/70.
+
+Braun-Augsburg, Bd 1, S. 338 f.
+
+KDB I OB (1), S. 518 ff.
+
+Hugo, Joseph Anton, Chronik des Marktes und der Pfarrei Dießen, Dießen 1901.
+
+Stenger, Josef, Eine Stunde in der ehemaligen Augustiner Klosterkirche, jetzt Pfarrkirche zu Dießen am Ammersee, Dießen 1929.
+
+Hartig, Michael, Die oberbayerischen Stifte, München 1935, Bd 1, S. 188–96.
+
+Läuterer, Oswald, Die Künstler Türkheims, 1. Teil, Johann Bergmüller, Diss. Mainz 1959, S. 82–90.
+
+Diedrich, Hans Heinrich, Die Fresken des Johann Georg Bergmüller, Diss. Mainz 1959, S. 82–90.
+
+Rupprecht, Bernhard, Die bayerische Rokoko-Kirche (= Münchner Historische Studien, Abteilung Bayerische Geschichte, Bd 5), Kallmünz 1959.
+
+Bauer, Hermann, Zum ikonologischen Stil der Süddeutschen Rokokokirche, in: Münchner Jahrbuch der bildenden Kunst 12, 1961, S. 218–240.
+
+Dehio-Gall OB (1964), S. 278.
+
+Lieb, Norbert, Dießen am Ammersee (= KKF Nr. 30), München<sup>5</sup> 1966.
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 414 f.
+
+Deutsche Barockgalerie (Städtische Kunstsammlungen Augsburg – Bayerische Staatsgemäldesammlungen), Bd 2, Bearbeitung Eckhard von Knorre, Augsburg 1970, S. 36.
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23), München 1971, Register.
+<!-- citation-page-bottom: Band01 p47 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=25 -->
+{{End}}

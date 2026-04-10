@@ -1,0 +1,182 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=172
+|Originalseitenbis=177
+|Lemma=Obermeitingen, Pfarrkirche St. Mauritius
+|Typ=Sakral
+|Ort=Obermeitingen
+|davor=Oberigling, Pfarrkirche St. Peter und Paul
+|danach=Obermühlhausen, Filialkirche St. Peter und Paul
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p172 -->
+
+<!-- header: OBERMEITINGEN -->
+
+
+== OBERMEITINGEN ==
+
+
+Pfarrkirche (von Klosterlechfeld vikariert), Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Rottenbuch das Präsentationsrecht, Kloster Wessobrunn den Kirchensatz, Herrschaft Rottenbuch
+
+
+'''Patrozinium:''' St. Mauritius
+
+
+'''Zum Bauwerk:''' Der spätgotische Kirchenbau (Ende 15. Jh.) erfuhr im 18. Jh. eine durchgreifende Umgestaltung. Einfacher längsrechteckiger Gemeinderaum zu drei Jochen; eingezogener dreiseitig geschlossener AR
+
+'''Auftraggeber:''' Propst Clemens Prasser von Rottenbuch (1740–70) und Pfarrer Alexander Baumer (1764–68). Das Wappen am Chorbogen (vgl. Steichele-Schröder, S. 409), 1920 zugemalt, 1957/58 aufgedeckt und restauriert, zeigt die Buche des Klosterwappens kombiniert mit dem Lamm (seitenverkehrt) des Propstwappens. Das Wappenlamm wird durch das Schriftband: Ego sum via, veritas et vita. Joh. 14 V. 6, als Lamm Gottes gedeutet.
+
+'''Autor und Entstehungszeit:''' Signatur in A (NO-Ecke)
+
+Antonius Josephus / Walch pinx. — und in B (O-Rand):
+
+A.J. Walch Pinx. (Anton Joseph Walch, †1773 Kaufbeuren) Die Innenausstattung unter Propst Clemens Prasser erfolgte im wesentlichen in den 60er Jahren (Altäre 1767). Die bei Müller-Hahl (1957 u. 1966) unbegründet angegebene Datierung von 1759 für die Fresken — vor der Stukkierung um 1765 – ist nicht annehmbar (vgl. die unklaren Angaben im Sinkelboten 1928/29, Nr. 1, S. 2f.). Die Stukkierung ging der Freskierung voraus, stilistisch passen beide in das späte 7. Jahrzehnt (vgl. Steichele-Schröder).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Flachtonne mit Stichkappen
+
+Rahmen: A, B Stuckprofil; Kartuschen in LHs und AR Rocaillestuck
+
+Technik: Fresko; A, B, A<sub>1-4</sub>, A<sub>a-b</sub>, B<sub>1-2</sub> polychrom; monochrom violett; 1–4, W<sub>1–2</sub> monochrom ocker Maße: A Höhe 8,30 m; 9,10 × 5,60
+
+B Höhe 7,25 m: 5,10 × 2,80
+
+Erhaltungszustand und Restaurierungen: 1852; 1920 Übermalung sämtlicher Kartuschen; 1957/58 Wiederaufdeckung und Restaurierung. - A gekittete Scheitelrisse; die Farben sind schlecht erhalten, sie wirken flau, viele Stellen des Freskos sind ausgebessert. B gekitteter Längsriß; farblich etwas besser erhalten, geringfügige Ausbesserungen. A1-4, B1-2 (Apostelkartuschen) Konturen nachgezogen, ungleichmäßige Farbigkeit; Aa-d (Evangelistenkartuschen), a-f, 1–4 (Stichkappenkartuschen), W1–2 (Wandkartuschen) stärkstens erneuert, nur noch für die Ikonographie heranzuziehen.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A MARTYRIUM DES HL. MAURITIUS UND DER THEBÄISCHEN LEGION Das langgestreckte Freskofeld zeigt eine rundumlaufende, perspektivisch jedoch auf die Ansicht gegen O hin konzipierte Szenerie. Der Betrachterstandpunkt ist aus der Mitte etwas nach W hin verlegt. Die Hauptszene, die Enthauptung des hl. Mauritius, ist in der O-Achse des Bildes mit wenigen groß gezeichneten Figuren vor hellem Grund stark hervorgehoben. Figurenreiche Szenen, längs der Seitenwände weit hochgezogen, hinterfangen die Mittelgruppe bogenförmig. Durch eine V1.-2 Geistie ...
+
+
+
+[[File:Band01_chunk004_p012_img001.jpg|thumb|A Martyrium des hl. Mauritius und der Thebäischen Legion]]
+
+
+
+[[File:Band01_chunk004_p012_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p173 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=13 -->
+<!-- citation-page-top: Band01 p174 -->
+
+<!-- header: OBERMEITINGEN -->
+
+<!-- header: OBERMEITINGER -->
+
+Zäsur getrennt, fügen sich im westlichen Bilddrittel drei einfach nebeneinandergereihte Szenen dem irdischen Panorama ein. Der Bildhimmel wird durch eine große Wolkenformation bestimmt: Ein Wolkenkreis umschließt im westlichen Bildteil ein lichtes Himmelszentrum und geht in einer lang ausgezogenen, flächigen Spirale zu dem szenisch betonten östlichen Teil über. – Dieser west-östlichen Richtungsachse – ohne räumlich-illusionistische Höhendimension – folgen Engel und Putti. Ein Engel auf einem Wolkenballen vor dem lichten Zentrum präsentiert einen Schild mit den Worten: obtulerunt / Decimas sanctorum. / 2. Paralip. 31 U. 6. Putti mit Siegespalmen und Lorbeerkränzen fliegen auf die Hinrichtungsstätte zu. Dort kniet barhäuptig – Rüstung, Waffen und Fahne sind abgelegt – der hl. Mauritius und erwartet den Tod aus der Hand des Henkers, der hinter ihm stehend zum Schwertstreich ausholt. Ein heidnischer Priester versucht, den Christen noch zum kultischen Opfer zu überreden, er weist auf die Götterstatue und die opfernden Priester links im Hintergrund. — Die Hinrichtungsgruppe befindet sich auf einem kleinen Erdhügel, distanziert vom Bildrand, den zuschauende kaiserliche Soldaten, wiedergegeben als dunkle Renoussoirfiguren einnehmen.
+
+Zur linken Seite - schräg gegen den Bildrand gesetzt - steht der Stufenthron des römischen Kaisers, aufgebaut an einem abgestorbenen Baum im Zeltlager des Heeres. Der Kaiser streckt gebieterisch seinen Feldherrnstab gegen die Opfer- und Hinrichtungsstätte hin aus. Die ihm ergebenen Soldaten umstehen dichtgedrängt, in vollen Waffen, seinen Thron. Ein Schild bezeichnet den Kaiser: MAXI/ MIANIS/CS...
+
+Auf der rechten Seite, ein wenig hinter die Enthauptungsszene gesetzt, ist die Dezimierung der Thebäischen Legion dargestellt. Soldaten des Kaisers metzeln die christlichen Verweigerer des Götteropfers nieder und berauben sie ihrer Habe, während der Bote des Kaisers Mauritius, dem Anführer der Christen, das kaiserliche Schreiben vorweist. Mauritius hingegen zum Zeichen des unerschütterlichen Glaubens seines Heeres ein Kruzifix hoch empor hält. -
+
+Über dieser Szene erheben sich zwei Hügel, in einer gleichnishaften Gegenüberstellung bekrönt von einer intakten Festung und einer Ruine.
+
+Im westlichen Bilddrittel wird in einer übereckgestellten Szene wieder die Thebäische Legion gezeigt, sie bewegt sich auf die Festung zu, auf die der mit wehendem Mantel und Fahne heranschreitende Mauritius und einer seiner Bannerträger hinweisen. Daran schließt sich eine genrehaft geschilderte Lagerszene an. In der Mitte bereitet sich eine Gruppe von Soldaten am offenen Feuer eine Mahlzeit. Von hinten tritt ein heidnischer Priester hinzu und fordert zum Opfern auf. Über dem rechten Eckbogen des Rahmens steht schräg das behäbige rote Zelt des Kaisers, bewacht von einem Hund vor dem offenen Eingang. Die Initialen D.M.C. (= Divus Maximianus Caesar) auf dem Zeltwimpel bezeichnen dasselbe.
+
+Die Farbigkeit des Freskos ist auffallend milchig-matt fade verschwommen, was im wesentlichen auf den Erhaltungszustand zurückzuführen ist. Ockertöne, gedämpfte Violett gegen kühles Grün und Stahlblau sind die bestimmenden Farben der irdischen Szenerie, sie kehren in helleren Abstufungen im Wolkenhimmel wieder.
+
+B ST. MAURITIUS PATRON VON OBERMEITINGEN Das Chorfresko ist einansichtig konzipiert, die Figuren zeigen geringfügige Untersichtverkürzungen. Christus-Salvator und Gottvater thronen, gestützt auf die Weltkugel zwischen ihnen, auf lichten Wolken. Über ihren Häuptern die Geisttaube in einer Gloriole, umgeben von Putto-Engeln. Seitlich unterhalb der Hl. Dreifaltigkeit wendet sich der hl. Mauritius - im Schmuck seiner Rüstung – fürbittend an die göttlichen Personen: Pater sancte serva eos. / Non pro mundo rogo. Jo. 17.9. / Sed pro his / quos dedisti / mihi. Joh. 17.9. (vgl. Jo. 17,11!). - Die ockertonige Wolke, auf der St. Mauritius kniet, senkt sich in einen Kirchenraum hinein. Dieser ist durch wenig Architekturteile, Stufenpodeste, Altar, Säulen und Fensterwand, kulissenartig angedeutet. Der Pfarrer von
+
+[[File:Band01_chunk004_p013_img001.jpg|thumb|Jakobus Major und Johannes Ev]]
+
+[[File:Band01_chunk004_p013_img002.jpg|thumb|Simon und Thaddäus]]
+
+[[File:Band01_chunk004_p013_img003.jpg|thumb]]
+
+[[File:Band01_chunk004_p013_img004.jpg|thumb]]
+
+[[File:Band01_chunk004_p013_img005.jpg|thumb]]
+
+Obermeitingen steht darin und präsentiert dem Heiligen eine Ortsansicht mit der Inschrift: ut sint unum. Io. 17. 11 Das Chorfresko ist in der Farbigkeit etwas klarer – besser erhalten. Ockertöne in Übergängen von Goldgelb zu Karmin bestimmen das Bild.
+
+B<sub>1-2</sub>, A<sub>1-4</sub> ZWOLF APOSTEL Den beiden Hauptfresken in Altar- und Gemeinderaum sind kartuschförmige, rocaillegerahmte Apostelbilder zugeordnet. Die Apostel werden paarweise in Grisaillemalerei in einer mehrfarbigen Szenerie wiedergegeben. Petrus und Paulus (B1); Jakobus d. Ä. und Johannes (B2); Thomas und Andreas (A1); Jakobus d. J. und Philippus (A2); Bartholomäus und Matthäus (A<sub>3</sub>): Simon und Thaddäus (A<sub>4</sub>)
+
+Aa-d EVANGELISTEN In den Eckfeldern des Lang hauses sind die 4 Evangelisten – ebenfalls monochrom ge malte Figuren - dargestellt: Lukas, Markus, Matthäus und Johannes. Den Evangelisten entsprechen die vier lateinischen Kirchenväter, welche an der Empore dargestell sind (keine Abbildungen).
+<!-- citation-page-bottom: Band01 p175 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=14 -->
+<!-- citation-page-top: Band01 p176 -->
+
+<!-- header: OBERMEITINGEN -->
+
+[[File:Band01_chunk004_p014_img001.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img002.jpg|thumb|Beleidigern verzeihen]]
+
+[[File:Band01_chunk004_p014_img003.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img004.jpg|thumb]]
+
+d Grablegung Jesu. Posuit eum in / monumento, quod erat / excisum de petra / Marc. 15. V. 46. — Anstelle des biblischen Werkes, Nackte bekleiden, ist hier ein später hinzugefügtes Werk der Barmherzigkeit, die Toten begraben, wiedergegeben.
+
+e Der Barmherzige Samariter verbindet den unter die Räuber gefallenen Juden. Samaritanus / videns eum misericordia motus est. / Luc. 10. V. 33. — Kranke besuchen (pflegen)
+
+f Ein Engel öffnet den zwei Aposteln in Kerkerhaft die Gefängnistüren. – Angelus / Domini per noctem / aperuit ianuas carceris / Act. 5. V. 19. — Die Gefangenen besuchen (befreien)
+
+[[File:Band01_chunk004_p014_img005.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img006.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img007.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img008.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img009.jpg|thumb|W2 Sünder zurechtweisen]]
+
+[[File:Band01_chunk004_p014_img010.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img011.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img012.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img013.jpg|thumb]]
+
+[[File:Band01_chunk004_p014_img014.jpg|thumb]]
+
+1–4, W1–2 DIE GEISTLICHEN WERKE DER BARMHERZIGKEIT Die in Ocker gehaltenen neutestamentlichen Szenen in den vier Stichkappenkartuschen und zwei Wandkartuschen des Altarraumes sind den geistlichen Werken gewidmet:
+
+1 Ecce homo. Pilatus führt Jesus den Hohenpriestern und dem jüdischen Volk vor (Jo 19,4–5). – Sicut agnus coram tondente non aperiet os suum Is. 53. V. 7. – Unrecht geduldig ertragen
+
+2 Jesus erweckt den Jüngling zu Naim vom Tode. – Resedit, qui erat mortuus et dedit illum matri suae. Luc. 7. V. 15. – Die Betrübten trösten
+
+3 Jesus im Gespräch mit Nikodemus. – Amen dico tibi, quia quod scimus loquimur. Joh. 3. V. 11. – Zweifelnden raten
+
+4 Steinigung des Diakons Stephanus. — Domine ne statuas illis hac peccatum Act. 7. V. 60. (= V. 59). — Beleidigern verzeihen
+
+W1 Der Jesusknabe belehrt die Schriftgelehrten im Tempel. - Stupebant autem omnes, qui eum audiebant. Luc. 2. V. 47. — Die Unwissenden belehren
+
+W2 Johannes der Täufer predigt Umkehr und Buße. – Poenitentiam agite: prope est regnum coelorum. Matth. 3. V. 2. – Die Sünder zurechtweisen. (Zu den sehr selten bildlich dargestellten geistlichen Werken vgl. RDK, Bd 1, Sp. 1457–68.)
+
+Ein drittes Wandbild im Altarraum, eine Mariendarstellung, gehört nicht in diesen Zusammenhang.
+
+[[File:Band01_chunk004_p014_img015.jpg|thumb|Fremde beherbergen]]
+
+[[File:Band01_chunk004_p014_img016.jpg|thumb]]
+
+Ergänzungen zur Ikonographie: Die zwei Hauptfresken A und B sind dem Kirchenpatron St. Mauritius (22. September) gewidmet, der sich mit seiner Legion unter der Regierung Diokletians und Maximians im Jahre 287 an einem Feldzug nach Frankreich beteiligte. Nach Überwindung der Alpen ergeht an alle Krieger der Befehl, am Altar der Götter zu schwören (A, westliche Szene). Mauritius mit seiner christlichen Legion widersetzt sich dem abgöttischen Eid, sondert sich vom römischen Heer ab und zieht nach Agaunum, dem heutigen St. Moritz (A, südwestliche Szene). Durch einen Boten fordert Maximian ihre Rückkehr. Sie bieten dem Kaiser ihre Kriegsdienste an, versagen aber weiterhin den Eid, worauf die Legion dezimiert wird (A, südöstliche Szene). Als sich auch jetzt das Heer dem kaiserlichen Befehl noch nicht beugt, läßt Maximian die Thebäische Legion bis auf den letzten Mann hinrichten (Ribadeneira-Hornig, Bd 2, S. 418f.). Stellvertretend für alle zeigt die östliche Szene von A das Martyrium des hl. Mauritius; Rüstzeug und Waffen liegen abseits zum Zeichen der widerstandslosen Hingabe. Das Zitat aus dem AT, obtulerunt Decimas sanctorum (2 Par 31,6 – Opfer der Juden und Israeliten) ist hier im buchstäblichen Sinn auf die Dezimierung der Thebäischen Legion, im übertragenen Sinn auf den Martertod der Legion als Selbstaufopferung der Heiligen bezogen.
+
+== Literatur ==
+
+Braun-Augsburg, Bd 1, S. 173 f. KDB I OB (1), S. 535. Steichele-Schröder, Bd 8, S. 403–09.
+
+Pfarrkirche Obermeitingen (o. V.), in: Der Sinkelbote, Heimatkundliche Beilage zum Schwabmünchner Tagblatt 1928/29, Nr. 1, S. 2–3.
+
+Müller-Hahl, Bernhard, Ortsgeschichte von Obermeitingen (= Unsere Heimat am Lechrain, Bd 7), Landsberg am Lech 1957, S. 27–38.
+
+- (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 543–47.
+<!-- citation-page-bottom: Band01 p177 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=15 -->
+{{End}}

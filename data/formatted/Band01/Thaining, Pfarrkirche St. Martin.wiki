@@ -1,0 +1,196 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=234
+|Originalseitenbis=239
+|Lemma=Thaining, Pfarrkirche St. Martin
+|Typ=Sakral
+|Ort=Thaining
+|davor=Stoffen, Pfarrkirche Mariä Heimsuchung
+|danach=Unterbeuern, Kapelle St. Magnus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p234 -->
+
+<!-- header: THAINING -->
+
+
+== THAINING ==
+
+
+Pfarrkirche (z. Z. von Stadl vikariert), Diözese Augsburg; z. Z. der Ausmalung hatte das Hl.-Geist-Spital in Landsberg, d. h. der Magistrat von Landsberg, das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
+
+
+'''Patrozinium:''' St. Martin
+
+
+'''Zum Bauwerk:''' Neubau 1762/63 von Nikolaus Schütz aus Landsberg. - Einfacher Saal zu vier Jochen mit Pilastergliederung, AR zu zwei Jochen mit segmentförmigem Schluß; im W Empore
+
+'''Auftraggeber:''' Pfarrer und Kammerer Lorenz Keller (Pfarrer in Thaining 1739-67). Die Berufung des Münchner Malers Kirzinger erfolgte wohl über den Magistrat von Landsberg
+
+'''Autor und Entstehungszeit:''' Das Deckenbild B ist signiert und datiert: F. Kirzinger, Monac: pinxit / 1764. Franz Seraph Kirzinger (vgl. Antdorf, LKr. Weilheim-Schongau) erhielt für Fresken und Stuckvergoldung 400 fl. (Rechnung im Pfarrarchiv Thaining, frdl. Mitt. Georg Stechele, Thaining, und Wilhelm Neu, B.L.f.D.). Außerdem ist die Innenausstattung durch zwei Chronogramme datiert, in einer Kartusche von dem Chorbogen: LoCVs SANCTO MARTINO / LAICo CLERICo EPIsCOPo / sVo (= 1764), und in einer Kartusche im AR: SANCTE MARTINE / DA / VT PAGVS GLORIAE / PARTICEPS FIAT (= 1764)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Flachtonne mit Stichkappen
+
+Rahmen: A, B, C Stuckprofil, D Stuckprofil von Rocaillen überlappt, a-d, B<sub>1-2</sub> imitierte Rocaillekartuschen, D<sub>1-2</sub>, Da Rocaillekartuschen
+
+Technik: Fresko; A-D, a-d, W<sub>1-2</sub> polychrom, B<sub>1-2</sub> D<sub>1-2</sub>, D<sub>a</sub> monochrom karmin
+
+Maße: A Höhe 10,80 m: 3,80 × 5,50
+
+B Höhe 10,80 m: 8,40 × 6,50
+
+C Höhe 10,80 m; 2,80 × 5,50
+
+D Höhe 10,30 m: 4,90 × 4,00
+
+Erhaltungszustand und Restaurierungen: Letzte Restaurierung 1954 durch A. Dasser. Dabei wurden die Decken bilder gereinigt und eine Fehlstelle in B (Baum) ergänzt. Im übrigen ist der Zustand der Bilder gut
+
+
+[[File:Band01_chunk005_p018_img001.jpg|thumb]]
+
+
+
+== Beschreibung ==
+
+
+A MANTELSPENDE DES HL. MARTIN Das Fresko, über dem westlichen Langhausjoch gelegen, hat seine Basis im Westen. Den Schauplatz bildet eine seichte, nach hinten leicht ansteigende Vordergrundsbühne aus grasbewachsenen Erhebungen und ein steiniges Straßen-
+
+
+[[File:Band01_chunk005_p018_img002.jpg|thumb|Baumwunder – St. Martin vor dem Kaiser]]
+
+
+
+[[File:Band01_chunk005_p018_img003.jpg|thumb|A Mantelspende Martins]]
+<!-- citation-page-bottom: Band01 p235 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=19 -->
+<!-- citation-page-top: Band01 p236 -->
+
+stück, von Büschen und Bäumen, rechts im Hintergrund durch ein prachtvoll antikisches, ruinöses Tor – das Stadttor von Amiens - begrenzt. Der hl. Martin reitet auf einem sich aufbäumenden Pferd die Straße herauf, an der im Vordergrund auf einem dunklen Grashügel der halbentblößte Bettler liegt und die Rechte flehend ausstreckt. Der Heilige wendet sich ihm zu, im Begriffe, seinen Mantel mit dem Schwert zu teilen und die Hälfte dem Armen zu reichen.
+
+Die Figurengruppe ist in schwacher Untersicht gegeben; bei der Landschaftsdarstellung wurde – besonders im Hintergrund – versucht, einen gemeinsamen Höhenfluchtpunkt anzustreben, der allerdings weit außerhalb des Bildes liegt.
+
+B BAUMWUNDER – ST. MARTIN VOR DEM KAISER Das Deckenbild erstreckt sich über die zwei mittleren Langhausjoche; es gliedert sich in zwei inhaltlich und formal getrennte Darstellungen, deren eine Basis im W die andere im O liegt. Bei beiden Ansichten wurde versucht, einen Höhenfluchtpunkt anzudeuten, der allerdings jeweils außerhalb des gegenüberliegenden Bildrahmens liegt.
+
+Westliche Bildansicht – das Baumwunder. Die Szene spielt auf einem grasbewachsenen Schauplatz, an dessen repoussoirhaft dunklem vorderstem Hügelchen ein Quell entspringt. Der Bischof steht neben einem Baum, der, abgehauen, im Begriff ist, umzufallen. In seinem Geäst ist ein Götzenbild mit der Inschrift DOLVM (= idolum) angebracht. Die Bauern, die den Baum gefällt haben, und ein Begleiter des Heiligen wenden sich vor dem fallenden Baum zur Flucht. Links im Hintergrund ragt zwischen Büschen und Bäumen ein antikischer Tempel mit der Inschrift IDOLEUM auf.
+
+Ostliche Bildansicht – Martin vor dem Kaiser. Über hinter- und übereinandergeschichteten Substruktionen erhebt sich auf drei Stufen der Thron des Kaisers, unter dem Flammen hervorschlagen. Über dem Kaiser ziehen Engel und Putti eine prachtvolle, baldachinähnliche Draperie hoch, deren Ende auf einer triumphbogenähnlichen Architektur aufliegt und sie zur Hälfte verdeckt. Hinter dem Bogen wird ein heller überkuppelter Saal sichtbar. Rechts vorn an der Rampe steht die hohe Gestalt des Heiligen, vom Kaiser abgewandt, der auf ihn blickt. Die Szene wird belebt durch zahlreiche Pagen, Soldaten, Begleiter des Heiligen und Hofleute.
+
+B<sub>1-2</sub> SZENEN AUS DEM LEBEN DES HL. MARTIN Heilung eines Besessenen (B<sub>1</sub>) und Erweckung von drei Toten (B<sub>2</sub>).
+
+C TOD DES HL. MARTIN Das Bildfeld über dem östlichen LHs-Joch hat seine Basis im O. Hinter einer steinernen, bildparallel verlaufenden Bühne fällt der Boden des Schauplatzes nach hinten ab. Der Heilige liegt links auf dem Totenbett, über dem eine Draperie hochgezogen ist, beweint von seinen Mitbrüdern. Er hat die Hände erhoben und richtet den Blick nach oben, wo in Wolken ein Fünfwundenkreuz erscheint, von dessen Herzwunde ein Strahl ausgeht und den Sterbenden trifft. Daneben sind auf den Wolken zwei Engel mit Buch und Geige dargestellt, unter ihnen auf dunklen Wolken eine Teufelsgestalt.
+
+[[File:Band01_chunk005_p019_img001.jpg|thumb]]
+
+a-d Paarweise die vier Evangelisten (a, b) und die vier Kirchenväter (c, d).
+
+D ST. MARTIN ALS FÜRBITTER Reine Himmels- und Wolkenszenerie mit nur sehr schwachen Verkürzungseffekten. Der Heilige kniet – in der unteren Bildhälfte – auf dichten Wolkenkissen, von Engeln und Putti umgeben, die seine Attribute halten. Oben, auf sich hochauftürmenden Wolken, thronen Christus mit dem Kreuz und Gottvater mit der Weltkugel; zu ihren Füßen schwebt die strahlenumgebene Taube des Hl. Geistes, ein bezeichnendes Detail für den Verlust der eigentlichen Himmelsillusion und der Vorstellung des Eindringens des Göttlichen. Die Taube im Strahlenkranz bildet sonst das Zentrum der im Licht aufbrechenden Himmelsglorie; hier ist sie nur noch Darstellungsgegenstand einer legendenerzählenden, volksfrommen Bildvorstellung. Im ganzen wirken die Bilder Kirzingers dann am erfreulichsten, wenn er sich vom Thema her auf die schlichte, volkstümliche Erzählung beschränken kann, wo seine farbige, drastisch-lebendige und aller überirdischen Illusion abholde Darstellungsweise zum Vorzug wird.
+
+D<sub>1-2</sub> St. Martin als Patron gegen Unwetter (D<sub>1</sub>) und Krieg (D<sub>2</sub>)
+
+Da Dreifaltigkeitssymbol
+
+W<sub>1-2</sub> Szenen aus dem Leben des hl. Martin; St. Martin als Gastgeber (W<sub>1</sub>) und Versuchung durch den Teufel (W<sub>2</sub>)
+
+In der Gesamtkomposition herrscht in den Thaininger Fresken eine klassizistische Einfachheit und Übersichtlichkeit vor, die Kirzinger in Romenthal noch fremd war und die auch die Leonhardsbilder in der Kapelle zu Kaufering noch nicht kennzeichnet – trotz annähernd gleicher Entstehungszeit. Die strenge Zweiansichtigkeit von Fresko B, die, rein tafelbildmäßig, ohne Verkürzungseffekte und ohne verbindende Versatzstücke durchgeführt ist, galt zur Zeit der Ausmalung wohl als das Modernste, was ein Münchner Maler in einer Dorfpfarrkirche zu bieten hatte. Die Figuren sind marionettenhaft in Szene gesetzt, ja die Martinus-Bettlergruppe wirkt wie eine Plastik vor einer Hintergrundskulisse. Auch die Farbigkeit der Fresken zeichnet sich in erster Linie durch Klarheit und Kühle aus.
+
+[[File:Band01_chunk005_p019_img002.jpg|thumb|D. Hl. Martin als Fürbitter mit D1 Hl. Martin Beschützer bei Unwetter D2 Hl. Martin Beschützer in Kriegsnöten D3 Dreifaltigkeitssymbol]]
+
+== <b>konographie</b> ==
+
+Dem ungewöhnlich ausführlichen Martinsprogramm liegen die Vita S. Martini des Sulpicius Severus, dessen Brief an seine Schwiegermutter – ad Bassulam parentem –, der den Tod Martins schildert, sowie die Dialogi, denen der Auftritt Martins vor dem Kaiser entnommen ist, als wesentliche Quellen zugrunde, aus denen teilweise wörtlich zitiert wird (Sulpicii Severi Opera, CSEL Bd 1; im folgenden wird nach dieser Ausgabe zitiert).
+
+Als moralisch-ethischer Leitgedanke des Gesamtprogramms können die Inschriften zwischen den drei Hauptfresken des Langhauses: QUALIS VITA – FINIS ITA gedeutet werden. QUALIS VITA – zwischen A und B – bezieht sich auf die Szenen aus dem Leben, FINIS ITA auf Tod und Glorie des Heiligen – in C und D. Dementsprechend zeigt das LHs zusammen mit den Wandbildern des ARs Szenen aus dem Leben Martins, während das Gewölbe des ARs dem hl. Martin als Patron gewidmet ist.
+
+A MANTELSPENDE Der hl. Martin von Tours, der im römischen Heer als Soldat diente, begegnete zur Winterszeit vor den Toren der Stadt Amiens einem halbnackten Bettler. Obgleich noch Katechumene, teilte er seinen Mantel mit dem Schwert zu teilen und die Hälfte dem Armen zu reichen.
+
+<!-- citation-page-bottom: Band01 p237 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=20 -->
+<!-- citation-page-top: Band01 p238 -->
+
+<!-- header: THAINING -->
+
+<!-- header: THAINING -->
+
+tel mit dem Schwert und reichte die eine Hälfte dem Bettler. In der darauffolgenden Nacht erschien ihm im Traum Christus mit der Mantelhälfte und sprach zu ihm die Worte, die die Inschrift wiedergibt: MARTINUS ad huc Catechumenus, / hac me veste Contexit (Vita 3.4; S. 113).
+
+B BAUMWUNDER Die zusammen mit der Mantelspende am häufigsten dargestellte Martinslegende. Martin, der zahlreiche heidnische Tempel zerstörte, wollte in einem Ort auch den neben dem Tempel stehenden Baum vernichten, der einem Dämon geweiht war. Dem widersetzten sich der Priester und die Bauern des Ortes und verlangten als Gottesbeweis, daß Martin sich unter die stürzende Fichte stelle. Der fallende Baum neigte sich ihm entgegen, doch auf eine einhaltgebietende Gebärde des hl. Martin stürzte der Baum wie von einem Wirbelwind erfaßt in die entgegengesetzte Richtung und erschlug fast die Bauern. Durch dieses Zeichen bekehrte Martin das ganze Dorf (Vita 13, S. 122 f.).
+
+ST. MARTIN VOR DEM KAISER Martin hatte sich an den Hof des Kaisers Valentinian in Trier begeben, wurde aber auf Betreiben von dessen Gemahlin nicht vorgelassen. Nach mehrtägigem Fasten und Beten gelang es ihm mit Gottes Hilfe ungehindert bis zum Kaiser vorzudringen, der ihn weder begrüßen noch anhören wollte. Ein plötzlich unter dem Thron aufflammendes Feuer zwang den Kaiser, sich zu erheben und vor Martin niederzuknien. Durch dieses Wunderzeichen erlangte Martin großes Ansehen bei Hofe. Inschrift: COGITUR IMPERATOR! (2. Dialog 5, S. 186 f.).
+
+Landpfleger Tätradius wandte sich wegen seines von einem bösen Geiste besessenen Sklaven hilfesuchend an Martin. Dieser betrat sein Haus aber erst auf das Versprechen des Landpflegers hin, von seinem Heidentum abzustehen, und heilte den Diener. Inschrift: O Inneffabilem Virum / per quem Tanta Mira-cula Coruscant (Vita 17; S. 126).
+
+Darstellung: Ein junger Katechumene, der sich Martin angeschlossen hatte, starb während dessen Abwesenheit innerhalb weniger Tage. Bei der Rückkunft Martins nach Poitiers trugen die Brüder mit großem Wehklagen den Leichnam eben zum Kloster heraus; er wurde von Martin wieder ins Leben gerufen. – Desgleichen erweckte er den Diener des adeligen Herrn Lucipinus, der sich erhängt hatte, wieder zum Leben. – In Trier konnte er durch die Wiederbelebung eines Mädchens, dem Geist und Glieder schon erstorben waren und dem nur noch ein schwacher Atem geblieben war, eine große Menschenmenge zum christlichen Glauben bekehren. Inschrift: S Martinus trium mortuorum suscitator magnificus (Vita 7, 8, 16; S. 117 f., S. 125 f.)
+
+
+[[File:Band01_chunk005_p020_img001.jpg|thumb]]
+
+
+[[File:Band01_chunk005_p020_img002.jpg|thumb]]
+
+
+
+[[File:Band01_chunk005_p020_img003.jpg|thumb|W<sub>2</sub> Versuchung des Teufels]]
+
+
+W1 ST. MARTIN ALS GASTGEBER Nach dem Bericht des Sulpicius Severus besuchte dieser den hl. Bischof, um ihn selbst kennenzulernen, und wurde von ihm mit großer Demut und Güte empfangen und bewirtet. Inschrift: Quis Maior est / qui Recumbit / an / qui Ministrat. / Lucae 22 v. 27 (Vita 25; S. 134 ff.).
+
+W<sup>2</sup> VERSUCHUNG DES TEUFELS Ein spanischer Jüngling, der von sich behauptete, er sei Christus, erschien dem hl. Martin im Königsmantel, umgeben von schimmerndem Licht. Martin widerstand ihm und sagte: Ich werde an die Ankunft Christi nicht glauben, es sei denn, er käme in der Gestalt seines Leidens, angetan mit den Wundmalen des Kreuzes. Inschrift: Facesse/ / ego christum nullum novi / nisi crucifixum (Vita 24; S. 133 f.).
+
+C TOD DES HL. MARTIN Auf einer Seelsorgereise fühlte Martin seinen Tod nahen. Wiederum erschien der Teufel an seinem Sterbebett, aber Martin wies ihn mit den Worten zurück: quid aestas cruenta bestia? nichil in me funeste reperies (3. epistula 16; S. 149). Seine Schüler waren verzweifelt und sprachen: Vater, warum willst du uns verlassen? (Inschrift: Deploratur. / Cur nos bater deseris. = 3. epistula 10, S. 148) Martin, obgleich den Tod herbeisehnend, ging das Weinen der Schüler zu Herzen, und er stellte Christus anheim, ihn heimzurufen oder sein Wirken auf Erden zu verlängern. Die Antwort gibt die Inschrift: invitatur. / mane nobiscum in aeternum (die auch auf die Glorie in D hinweist) und die Erscheinung des Fünfwundenkreuzes, welche über die literarische Quelle hinausgeht, jedoch auf Martins Erwiderung auf die Versuchung des Teufels hin in W<sub>1</sub> anspielt. — Nach seinem Hinscheiden wurde himmlischer Gesang vernommen, dieser ist verbildlicht durch den geigenden Engel in Wolken.
+
+D zeigt den Heiligen vor der hl. Dreifaltigkeit im Bischofsornat mit seinem persönlichen Attribut, der Gans (eine spätere Zutat, die wahrscheinlich mit dem Zinstag am 11. November zusammenhängt); D<sub>1</sub> gibt ihn als Patron der Felder vor dichten schwarzen Hagelwolken wieder, angerufen von einem Bauern, der vor Haus und Feld kniet. – Inschrift: S. MARTIN, ein beschützer / wider schaur. In D<sub>2</sub> erscheint er auf Wolken über einem Ort (Thaining?), vor dem ein Bürger sich unter seinen Schutz stellt, während eine Schar berittener Panduren abzieht. Inschrift: S. MARTIN, ein beschützer in / Kriegszeiten. Dieses Patronat rührt von seinem Soldatenberuf her.
+
+In a–d sind die vier Evangelisten und die vier lateinischen Kirchenväter paarweise zusammengefaßt, im O die Evangelisten, im W die Kirchenväter. Jeder von ihnen hält ein Buch in Händen; die Kirchenväter werden schreibend vorgeführt.
+
+a IN ORE / DUORUM — Matthäus und Markus. Inschriften um die Kartuschen: Martinus perseveravit usque in Finem, salvus erit. Math. 24. v. 13. (Nach Mt 24,13: Qui autem perseveravit usque in finem, hic salvus erit). Martine, scio qui sis Sanctus Dei. Mark. 1. v. 24. (Mc 1,24: scio, qui sis, Sanctus Dei.)
+
+b VEL / STAT / TRIUM OMNE VERBUM — Lukas und Johannes. Inschriften: Martinus incedens in omnibus mandatis. Luc: 1. v. 6. (Lc 1,6: Erant autem iusti ambo ante Deum, incedentes in omnibus mandatis et iustificationibus Domini sine querela.) Ecce Martinus, vere Israelita, in quo dolus non est. Jo. 1. v. 47. (Io 1,47: Ecce vere Israelita, in quo dolus non est.)
+
+c VEL / STAT / TRIUM OMNE VERBUM — Augustinus und Hieronymus. Inschriften: S. Martine, meritis, et incessione vincis invicibilem, et ligas omnipotentem: S Aug: C. de tem: (= Augustinus, Sermo de Tempore Barbarico; PL Bd 40, Sp. 699–708.) S. Martinus labore studio, et oratione, incentivare pellebat. S. Hier: ad Nepot (=Hieronymus, Epistola 52 c, ad Nepotianum, De Vita Clericorum et Monachorum; PL Bd 22, Sp. 527–540.)
+
+d IN ORE DUORUM — Gregor und Ambrosius. Inschriften: Nolentes, volentes, quotidie ad finem tendamus cum S. Martino. S. Greg: in ep: C. 6. (= Gregor. Die Zitierung erlaubt keine exakte Quellenangabe, vgl. PL Bd 75–79.) Qui sibi Martini ex opere omnium, imitetur exemplum. S. Ambros: de v. (= Ambrosius, De Virginitate. Vgl. PL Bd 16.)
+
+Die Inschriften am unteren Kartuschenrand ergeben in a und b wie in c und d zweimal den gleichen Wortlaut nach Mt 18,16: ut in ore duorum vel trium testium stet omne verbum. Die entlang der Stichkappen verlaufenden Inschriften bezeichnen Stellen aus den Evangelien und den Werken der Kirchenväter, wobei letztere durch ungenaue Zitierung nur sinngemäß, nicht im Wortlaut nachweisbar sind. Beabsichtigt ist eine Gegenüberstellung der vier Kirchenväter und der vier Evangelisten in ihren Schriften (vgl. dazu RDK, Bd 5, s. v. Evangelisten, Sp. 507 und LCI Bd 7, s. v. Johannes, Lukas, Markus, Matthäus). Demgemäß sind die Aussagen aufeinander abgestimmt, vgl. Matthäus — Gregor, Lukas — Augustinus.
+
+Durch die Abwandlung der Schriftstellen auf den hl. Martinus werden Evangelisten und Kirchenväter gemeinsam als Zeugen für den Heiligen aufgeführt. In umgekehrter Deutung ist der Matthäus-Text (18,16) auch auf Martinus als einen Zeugen für das Evangelium zu beziehen.
+
+Die durch die literarische Erweiterung des Martinsprogramms gegebene Kompilation ist in dieser Ausführlichkeit bei bildlichen Darstellungen ungewöhnlich. Das Programm wurde offensichtlich speziell für die Kirche vor Thaining entworfen; als Urheber kommt der Pfarrer in Frage und naheliegend erscheint die Zusammenarbeit mit den Jesuiten in Landsberg (frdl. Mitt. Peter von Bomhard, Erzbischöfl. Ordinariatsarchiv München).
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 382  
+KDB I OB (1), S. 549 ff.  
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 628
+
+
+[[File:Band01_chunk005_p020_img004.jpg|thumb]]
+
+
+
+[[File:Band01_chunk005_p020_img005.jpg|thumb]]
+
+
+
+[[File:Band01_chunk005_p020_img006.jpg|thumb]]
+
+
+
+[[File:Band01_chunk005_p020_img007.jpg|thumb|Gregor und Ambrosius]]
+<!-- citation-page-bottom: Band01 p239 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=21 -->
+{{End}}

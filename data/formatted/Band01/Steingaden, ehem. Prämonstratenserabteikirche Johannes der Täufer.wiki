@@ -1,0 +1,325 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=532
+|Originalseitenbis=542
+|Lemma=Steingaden, ehem. Prämonstratenserabteikirche Johannes der Täufer
+|Typ=Sakral
+|Ort=Steingaden
+|davor=Sindelsdorf, Pfarrkirche St. Georg
+|danach=Tannenberg, Pfarrkirche St. Oswald
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p532 -->
+
+<!-- header: STEINGADEN -->
+
+<!-- header: STEINGADEN -->
+
+Ehem. Prämonstratenserabteikirche, nach 1803 Pfarrkirche; Diözese Augsburg.
+
+'''Patrozinium:''' Johannes der Täufer
+
+'''Zum Bauwerk:''' Romanische, dreischiffige, querschifflose Pfeilerbasilika mit Doppelturmanlage im Westen; Weihe 1176. Von den drei östlichen Apsiden ist die mittlere noch erhalten. In der zweiten Hälfte des 15. Jh. Überwölbung der Seitenschiffe; nach einem Brand Restaurierung der Kirche unter Abt Augustin I. Bonenmayr (1645–77) um 1663: Einbau eines Tonnengewölbes mit Stichkappen im Chor und Stuckierung von Chor, Apsis und Seitenschiffen. Rokokoausstattung des Mittelschiffes unter Abt Hyazinth Gaßner zur 600-Jahr-Feier etwa ab 1740: je zwei der sechs Joche wurden durch eine Flachkuppelkonstruktion aus Latten zusammengefaßt und durch neue Obergadenfenster großzügig belichtet. Gliederung der Hochschiffwände durch Pilaster, der Gewölbe durch Gurtbogen; Orgelempore im Westen.
+
+'''Auftraggeber:''' Abt Hyazinth Gaßner von Steingaden (1729–45) und sein Nachfolger Marian II. Mayr (1745–72)
+
+'''Autor und Entstehungszeit:''' Der Augsburger Akademiedirektor Johann Georg Bergmüller schuf 1741/42 und 1751 die Fresken der Abteikirche. Das Fresko an der geschweiften Emporenunterseite (EU) zeigt die Signatur am Sitz des Soldaten: J.G.B: (ligiert) fecit und die Jahreszahl an zwei Vasen 17 = 51. Die beiden Welfenporträts unterhalb der Empore (Wa-b) stammen wahrscheinlich auch aus dieser Zeit (vgl. Diedrich, S. 146).
+
+Die nicht datierten Deckenfresken A-C und die Hochschiffwandbilder W<sub>1-10</sub> entstanden in dem Zeitraum 1741/1742. W<sub>3</sub> zeigt das Monogramm Bergmüllers zwischen den untersten Leitersprossen: <i>IB</i> (ligiert).
+
+Nach den Notizen des Gerlaius Haimerle (cgm 2960 S. 52 f., zitiert bei Hager, S. 140) wurden noch unter Abt Hyazinth Gaßner »die Gemähle an denen mittleren Gewölben und zu beyden Seiten durch den berühmten Kunst Mahler Herrn Johann Georg Bergmüller, die Arbeit von Gips durch Franz Schmuzern von Wessobrunn, die Vergoldung durch diesortigen Mahler Bernhard Ramies verfertigt ...« Die von Diedrich entdeckten Entwurfszeichnungen, weißgehöhte, lavierte Federzeichnungen, zu den Hochschiffwandfresken in der Graphischen Sammlung München, H.M.IV 95—99, Inv.Nr.30387—96, sind signiert und datiert: Entwurf zu W<sub>6</sub>: »JGB (ligiert) f. 1741« (Diedrich, S. 113) und ermöglichen eine genauere Datierung der Fresken. Die Chronik von Rottenbuch des Stiftsdekans Joachim Hoffmair berichtet, daß Bergmüller 1742 nach Rottenbuch kam (Erzbischöfliches Ordinariatsarchiv München, 8°/58; zitiert bei Jakob Mois, Die Stiftskirche Rottenbuch, München 1953, S. 48). Jakob Mois vermutet danach, daß Bergmüller vom nahen Steingaden kam, wo er wohl gerade die Mittelschiff-Fresken malte. Wahrscheinlich wollte sich Bergmüller von dem 1741—42 geschaffenen Dekorationssystem der Gewölbe- und Hochschiffwandfresken Matthäus Günthers in der romanisch-gotischen Basilika von Rottenbuch anregen lassen; eine ähnliche Schlußfolgerung gibt Diedrich (S. 125).
+
+Neben den erwähnten 10 Federzeichnungen zu den Wandfresken in der Graphischen Sammlung München vermutet Diedrich (S. 105) in einer 1939 bei Weinmüller in München versteigerten Zeichnung (datiert »Okt. 1739«) nach der Beschreibung im Auktionskatalog eine Vorzeichnung zu dem westlichen Deckenfresko (= A) in Steingaden.
+
+
+[[File:Band01_chunk011_p017_img001.jpg|thumb|A Gründung des Klosters Steingaden]]
+
+
+
+[[File:Band01_chunk011_p017_img002.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B, C (LHs) Flachkuppel in Holzkonstruktion
+
+Rahmen: A, B, C, EU profilierte Stuckrahmen mit Rocaillen und Pflanzenornamenten besetzt; W<sub>1-10</sub> Stuckstäbe von einzelnen Rocaillen überschnitten; W<sub>a-b</sub> Hohlkehle
+
+Maße: A Höhe 14,75 m; 8,40 × 8,40
+
+B Höhe 14,75 m; 9,00 × 9,00
+
+C Höhe 14,75 m; 8,40 × 8,40
+
+EU 6,60 × 7,25
+
+W<sub>1-10</sub> 2,85 × 3,75
+
+W<sub>a-b</sub> 4,35 × 2,15
+
+Erhaltungszustand und Restaurierungen: 1959 Reinigung durch A. Dasser. Der Erhaltungszustand der Fresken ist sehr gut. Die drei Hauptfresken A—C sind geringfügig verschmutzt, A zeigt Spuren von Feuchtigkeitsschäden, C Haarrisse. EU weist einen gekitteten Riß auf. Die Wandfresken W<sub>1-10</sub> und W<sub>a-b</sub> sind ebenfalls nur leicht verschmutzt.
+
+
+== Beschreibung ==
+
+
+A GRÜNDUNG DES KLOSTERS STEINGADEN Fresko A und B sind vom gleichen Standort aus, unterhalb des Gurtbogens zwischen den Freskofeldern, zu betrachten. Das Bildfeld A nimmt das Gewölbe über den beiden westlichen Mittelschiffjochen ein und hat seine Basis im Westen. Eine in starker Untersicht repoussoirmäßig wiedergegebene Vordergrundszenerie führt in die einansichtige Bildszene ein: Am rechten Bildrand ist eine Felshöhle dargestellt, an die eine als Schenke der Bauleute dienende Bretterbude angebaut ist; davor sitzen Steinmetze bei der Arbeit. Von dem felsigen Terrain führt eine Holzbohlenbrücke schräg zur linken Seite hinüber. Unmittelbar dahinter erhebt sich im Mittelgrund des Bildes ein mächtiger Quadersteinsockel als Bühne für die historische Handlung. Ein im Entstehen begriffener Klosterbau, auf dessen Gerüsten die Arbeit in vollem Gang ist, und eine Rundkirche bilden kulissenartig den architektonischen Schauplatz. Aus einem großen Zelt ist Herzog Welf VI. in Begleitung seines Sohnes herausgetreten und betrachtet die Ansicht der
+
+
+<!-- citation-page-bottom: Band01 p533 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=18 -->
+<!-- citation-page-top: Band01 p534 -->
+
+<!-- header: STEINGADEN -->
+
+
+[[File:Band01_chunk011_p018_img001.jpg|thumb]]
+
+
+Klosteranlage, welche ein Prämonstratenser-Propst und ein kniend wiedergegebener Baumeister dem Herzog erläutern. Daneben gibt ein Chorherr einem Bauzeichner Anweisungen.
+
+Darüber öffnet sich der Himmel in ein Glorienrund. Im hellen Gnadenlicht thronen die beiden Patrone der Neu gründung auf einer Wolke und weisen nach hinten hinab auf die Gründungsszene. Diese himmlische Erscheinung gehört, wie auch der Trompeten-Engel, der einen schweren Theatervorhang vor der Szene zur Seite rafft, der vordersten Bildzone an: sowohl in der Größe der Figuren – die Tiefenräumlichkeit wird durch starke Verkleinerung der Figuren nach hinten betont – als auch in der kräftigeren Farbgebung. Die beiden Patrone sind so gleicherweise auf die historische Szene als auch auf die Steingadener Gegenwart bezogen.
+
+Die Darstellung erinnert an Bergmüllers Deckenbild ähnlichen Inhalts in Dießen (Fresko C, s. LKr. Landsberg am Lech). Die Vordergrundszenerie, welche in beiden Fresken ähnliche Motive zeigt, ist in Steingaden nicht unzusammenhängend, auf die Seiten beschränkt wie in Dießen, sondern bildet eine durchgehende eigene Zone, den Schau-platz einer Nebenhandlung. Der vom Vordergrund deutlich distanzierte historische Schauplatz – in Dießen eine ganz seichte Bühne – hat in Steingaden Tiefenraum und ist perspektivisch in kunstvoller asymmetrischer Komposition mit Vordergrund und Hintergrund verschränkt. Der kompositionelle Aufbau ist in Steingaden differenzierter und erzielt eine stärkere Raumillusion als in Dießen.
+
+Auffallend ist Bergmüllers Vorliebe für das genremäßige Detail, zu dem die von ihm bevorzugten Bauszenerien viele Gelegenheiten liefern: Arbeiter mit ihrem Handwerkszeug, die kleine Schenke mit Buschen, Krug und Sieb und der auch in anderen Bildern Bergmüllers auftretende Hund geben vor allem der Randzone eine eigene, lebendige Atmosphäre, die wieder zu der historischen Idealität der Gründungsszene in einem akzentuierten Gegensatz steht.
+
+[[File:Band01_chunk011_p018_img002.jpg|thumb|C Gründungsvisionen]]
+
+
+C Gründungsvisionen
+nicht mehr so stark ausgeprägt, zwar ist auch in Steingaden der Mittelgrund heller, zartfarbiger, kühler; die intensiven Brauntöne sind auf die Vordergrundpartien beschränkt. Aber die Farbigkeit im Ganzen ist doch weicher, toniger und einheitlicher. Vor dem sehr hellen Hintergrund aus zarten Rosa-Blau- und Gelbtönen erscheinen sehr zarte, kaum intensivere Buntfarben; die einzig kräftige Farbe ist das reine und unvermischte Blau – in Gewändern –, das meist im Gegensatz zu kalkigem Weiß auftritt.
+
+B GLORIE DES HL. NORBERT Das einansichtige Fresko über den beiden mittleren Mittelschiffjochen zeigt eine Wolkenszenerie, die sich über einem seichten Stufenpodest mit einer Baldachinarchitektur am rechten Bildrand entfaltet. Im Zentrum des Bildes kniet der hl. Norbert auf Wolken, mit ausgebreiteten Armen hält er eine von hellen Strahlen umgebene Monstranz. Links darüber erscheint in einer vielfigurigen Gruppe Maria-Immaculata, von Engeln umgeben. In der Höhe thront vor einer hellen Glorie Gottvater mit dem Zepter über der Weltkugel; neben ihm die Geist-Taube und musizierende Engel.
+
+Die Engel zu Füßen des hl. Norbert leiten zu den allegorischen Personifikationen auf der schmalen Stufenbühne über. Die Wolkenkissen reichen bis zur Stufenanlage hinab und lassen die Schaubühne mehr als Bestandteil der Himmelsszenerie denn als irdischen Schauplatz erscheinen. Hier agieren Fides und Ecclesia – Ecclesia oder das Papsttum unter dem Baldachin, umgeben von einem Engelgefolge. Zu Füßen der Fides – rechts im Bild – stürzen ein Ketzer und ein Ritter in die Tiefe.
+
+Die Komposition dieser vielfigurigen Szene ist reich und bewegt. Die Vielfalt der Diagonalbezüge, die Staffelung der Gruppen in die Raumtiefe sowie die Konzentrierung der Figuren auf einzelne bewegte Gruppen, getrennt durch voluminöse Wolkenpartien, geben dem Bild Spannung und Lebendigkeit. Durch den in starker Untersicht wiedergegebenen, kulissenartigen Baldachinaufbau wird Höhenillusion erzeugt.
+
+Die Farbigkeit ist kühl und zurückhaltend. Von dem weiß-
+
+
+<!-- citation-page-bottom: Band01 p535 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=19 -->
+<!-- citation-page-top: Band01 p536 -->
+
+<!-- header: STEINGADEN -->
+
+bis rosa-grautonigen Grund der Architekturen und Wolken, die gegen oben gelblich aufgehellt werden, heben sich die hellen blauen und weißen Gewandpartien ab. Ein farbliches Gleichgewicht zu der strahlenden blau-weißen Erscheinung Mariens stellt der rosa-violette Baldachin her.
+
+C GRÜNDUNGSVISIONEN Das dritte einansichtige Fresko hat seinen Betrachterstandort unterhalb des Gurtbogens westlich vom Freskofeld. Es zeigt eine sich weit in die Tiefe erstreckende Landschaft, die rechts im Vordergrund von steilen Felsen mit spärlichem Bewuchs eingeleitet wird und links im Mittelgrund zu einem Hügel ansteigt, auf dem eine mittelalterliche Rundkapelle steht. Über dieser Landschaft erscheint im Zentrum des Bildes beherrschend ein lichtausstrahlendes Kreuz mit dem Gekreuzigten, von Engeln getragen. Eine Schar von Pilgern in weißen Gewändern, die von den breiten Gnadenstrahlen getroffen werden, sinkt anbetend in die Knie. Engel haben einen Klosterplan entrollt und machen die ersten Spatenstiche zur Aushebung einer Baugrube.
+
+Entfernt von dieser Gruppe kniet vor der Kapelle auf dem Hügel ein Prämonstratenser-Kanoniker, seinen Blick ebenfalls auf das Kreuz gerichtet. Aus den Wolken neigt sich Divina Providentia zu dem hl. Prämonstratenser – Norbert – hinab. Divina Providentia ist räumlich eng mit dem Heiligen verbunden, während seine Vision, der Gekreuzigte, der vordersten Raumschicht angehört und somit auf beide Szenen bezogen ist.
+
+Der Kruzifixus bildet kompositionell eine Diagonale in der Mitte des Bildes, welche - eingespannt zwischen zwei begleitende Parallelen, Vorhangdraperie und Fels - kompositionsbestimmend ist. Diese drei Motive sind durch die intensivsten Farben im Bild, Rostrot und Orange, strahlendes Weiß und Lichtblau und helle Brauntöne ausgezeichnet. Die irdische Szene ist in hell abgestuften Mischfarben – Ocker, Ocker-Grün, Graublau – gemalt.
+
+EU ENTHAUPTUNG DES TÄUFERS Die Orgelempore über den Pfeilerarkaden zwischen Vorhalle und Mittelschiff hat einen weit vor- und hochragenden Baukörper; an diesem, der sphärisch gekrümmten Emporenunterseite, hat das breitformatige Fresko seinen Platz. Die perspektivische Bildanlage der einansichtigen Szene ist dem steilen Aufblick des Betrachters angemessen. Es setzt direkt über dem mittleren, ein Portal einschließenden Bogen und den diesen flankierenden Pilastern an. Ein Dreistufenpodest bildet eine gerade verlaufende Bühne, deren Boden nach hinten mäßig abfällt. Der Schauplatz ist völlig symmetrisch aufgebaut, eine große Halle, die durch mehrere vergitterte Fenster als Gefängnis gekennzeichnet ist. Ihre Rückwand schließt den Bildschauplatz gerade ab. Die bühnenähnliche Wirkung wird noch verstärkt durch zwei architektonische Ornamente, zwei Sockel mit Vasen darauf, von denen nach oben C-Bogen, dem Rahmen folgend, aufwärts führen, und durch zwei zurückgeraffte Draperien am oberen Bildrand.
+
+
+[[File:Band01_chunk011_p019_img001.jpg|thumb|EU Enthauptung des Täufer]]
+
+
+In der Mitte der Szene kniet der Täufer an einen Säulenstumpf gebunden; der hinter ihm stehende Henker holt eben zum Streich aus. Soldaten verfolgen, in weitem Halbkreis darum stehend, die Hinrichtung. Rechts sind Salome und eine Dienerin aufgetreten, die Schüssel für das Haupt des Johannes in Händen.
+
+W<sub>1-10</sub> HEILIGE DES PRÄMONSTRATENSERORDENS An den Hochschiffwänden des Mittelschiffes sind zwischen den Pilastern der einzelnen Joche 10 Wandfresken angebracht. Sie sind tafelbildmäßig angelegt, nehmen jedoch durch geringe Untersichten und Verkürzungen Rücksicht auf den tief darunter stehenden Betrachter. Es sind klare, übersichtliche Kompositionen in hellen und kühlen Farben. Die meist nur angedeuteten Schauplätze sind oft von großem stimmungsmäßigem Reiz. Fast durchweg herrscht das leicht grau, gelbgrünlich oder rosa getönte Weiß der Ordenskleider, Architekturen und Wolken vor, in das nur einige wenige blaue, goldgelbe und lichtgrüne Farbakzente gesetzt sind. Die Zählung der Fresken beginnt an der N-Wand, von W nach O, und wird an der S-Wand, von O nach W, fortgesetzt.
+
+W<sub>a-b</sub> STIFTERPORTRÄTS In den schmalen, hohen, oben durch einen Halbkreis abgeschlossenen Bildfeldern rechts und links vom Eingang sind in überlebensgroßen Porträts die beiden Stifter Steingadens wie plastische Nischenfiguren dargestellt.
+
+
+[[File:Band01_chunk011_p019_img002.jpg|thumb]]
+
+
+
+[[File:Band01_chunk011_p019_img003.jpg|thumb]]
+
+
+
+== Ikonographie ==
+
+
+C GRÜNDUNGSVISIONEN Das Steingadener Fresko weist deutlich Motive auf, die aus zwei verschiedenen Visionsberichten in Zusammenhang mit der Gründung des Stammklosters Prémontré stammen. Zunächst die Erscheinung des Gekreuzigten, von dem sieben Sonnenstrahlen
+
+
+ausgehen, in der öden, sumpfigen Gegend von Prémontré. Pilger eilen aus den vier Himmelsrichtungen herbei und verehren den Kruzifixus. Diese Vision wurde einem Begleiter und Anhänger Norberts zuteil, und Norbert sah dies als das göttliche Zeichen zur Wahl des Ortes für seine Ordensgründung an (Vita A, Cap. 12; Vita B, Cap. 27, vgl. Gustav Hertel, Leben des heiligen Norbert, Leipzig 1881, S. 39). Dann der Visionsbericht im dritten Buch über die Wunder der hl. Maria von Laon, des Mönches Herimann (Cap 4, vgl. Hertel, S. 105-108): Norbert verbringt die Nacht allein in einer Johannes dem Täufer geweihten Kapelle in der Gegend von Prémontré und sieht eine Schar Psalmen singender Pilger die Kapelle umziehen. Norbert teilt am nächsten Morgen dem Bischof von Laon mit, daß er sich in dieser Gegend mit seinen Ordensbrüdern niederlassen wolle.
+
+Die Steingadener Darstellung zeigt an zentraler Stelle den Visionskruzifixus über öder Landschaft, im Hintergrund eine durch romanische Bauformen als altehrwürdig charakterisierte Kapelle und schließlich Prämonstratenser, ausgestattet mit Pilgerstäben und -hüten.
+
+Beide Visionen sind zusammengefaßt und zudem deutlich abgeändert: die Pilger verehren nicht den Kruzifixus und umziehen nicht die alte Kapelle, außerdem ist Divina Providentia als Vermittlerin der Vision eingeschaltet.
+
+Diese Veränderungen deuten darauf hin, daß das Steingadener Fresko nicht allein Prémontré-Visionen zur Darstellung bringt, sondern vor allem eine auf Steingaden selbst bezogene Gründungsvision: Nach Berichten lokalhistorischer Tradition hätte Norbert auf seiner Romreise 1125/26 - die im Winter 1125 auf der Hinreise über Regensburg u. a. durch die Diözese Augsburg führte (vgl. Charles Louis Hugo, La Vie de St. Norbert, Luxemburg 1704, S. 183- 185) – bei einer nächtlichen Rast an der Stätte Steingadens einen göttlichen Hinweis auf diese spätere Prämonstratensergründung erhalten (vgl. Kalender für Katholische Christen 14, 1854, S. 68 und Ringmeir, S. 20 ff.). Dabei sind offensichtlich Prémontré-Visionsmotive aufgegriffen worden: die Erscheinung des Kruzifixus, die Pilger und die altehrwürdige Johanneskapelle. Die Steingadener Johanneskapelle des 12. Jh. soll zum Andenken an Norberts nächtliche Rast und göttliche Eingebung an eben jener Stelle seines Aufenthaltes errichtet worden sein.
+
+Uns erscheint daher folgende Bilddeutung am wahrscheinlichsten (vgl. dagegen Ringmeier, S. 20 ff. und Diedrich, S. 106 ff.): In dem durch einen Glorienschein ausgezeichneten Prämonstratenser vor der – heute noch bestehenden 
+    Johannes-Rotunde, dessen abgelegter Hut und Stab auf eine (Pilger-)Reise hindeuten, ist der hl. Norbert zu sehen. Auf die zukünftige – 23 Jahre nach Norberts Tod erfolgte - Steingadener Gründung weist Divina Providentia (!) durch die Kreuzesvision hin. Auch die Engel als Bauarbeiter mit dem Grundriß des romanischen Klosters Steingaden betonen den Zukunftscharakter. Der göttlichen, durch die Engel unterstützten Weisung folgen einige von ehrfürchtigem Staunen ergriffene Pilger. Einem von ihnen werden die Kreuzeserscheinung und der Klosterplan speziell durch einen Engel erläutert, er ist durch die Prämonstratenser-
+<!-- citation-page-bottom: Band01 p537 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=20 -->
+<!-- citation-page-top: Band01 p538 -->
+
+<!-- header: STEINGADEN -->
+
+tracht mit der weißen Prälatenmozzetta wiedergegeben und darum wohl als der erste Steingadener Propst anzusehen. Während die übrigen vier in weiße Habite und einfache Überwürfe Gekleideten zugleich als Pilger und als Prämonstratenser-Brüder gekennzeichnet sind.
+
+In diese lokalhistorische Darstellung impliziert sind zugleich die durch die Norbert-Viten tradierten Visionen von Norberts Stammgründung Prémontré. Die Vorstellung von Steingaden als einem zweiten Prémontré und Prémontré quasi als typologischem Vorbild für Steingaden, also der Versuch einer historischen Legitimation des Klosters auf dem Wege eines typologischen Gleichnisses, ist der grundlegende, jedoch vage zur Anschauung gebrachte Gehalt, der in Fresko C und auch in Fresko A zur Darstellung gelangt. Die eigene bedeutungsvolle Vergangenheit wird der des ersten Gründungsklosters gleichgestellt. Steingaden versteht sich selbst als einen von Gott durch seinen Heiligen, den Ordensgründer Norbert, vorherbestimmten, also heilsgeschichtlichen Ort.
+
+== A GRÜNDUNG UND ERRICHTUNG KLOSTER STEINGADENS ==
+Die Darstellung in Fresko A knüpft inhaltlich bei jener in Fresko C an. Das Chronogramm am Sockel des in die Vergangenheit wie in die Zukunft schauenden Januskopfes **QuoD Divinavit / NorbertVs. Explebat / Welf seXtVs** (= 1147) bezieht sich auf die zur Zeit der Gründung durch Welf VI. in der Vergangenheit liegende Steingadener Vision Norberts wie auf die historische, gegenwärtig dargestellte Gründung des Stiftes. Der Januskopf weist über diese beiden historischen Ereignisse des Stiftes in dessen Zukunft hinaus: in die Steingadener Gegenwart des 18. Jahrhunderts.
+
+Als Rückblicke in die Steingadener Geschichte, als historische Szenen, werden beide Fresken durch den bühnenmäßig vorhangraffenden Engel akzentuiert. Eine Motivwiederholung beim Schauplatz der beiden Szenen macht die Parallelität im Sinne lokaler Gleichsetzung offenkundig: Der rechts im Bild aufragende Fels, in der Darstellung A mit einer angebauten Schenke und Werkstätte der Bauarbeiter verbunden, ist praktisch identisch.
+
+Die romanische Johanneskapelle hingegen findet sich in Fresko A nicht wieder, dort ist vielmehr im Hintergrund ein in Steingaden nicht existierender Rundbau in barocken Formen (nb. die kleine Tambourkuppel) gemalt. Der im Baugerüst stehende — in historisierenden Formen wiedergegebene — Gebäudekomplex links im Bild zeigt ebenfalls einen weder in der gemalten Klosteransicht noch im heutigen Baubestand vorhandenen Rundturm.
+
+In der Gruppe der um die Klosteransicht versammelten Gründer ist Herzog Welf VI. dargestellt; er ist in dem weißbärtigen Greis mit Harnisch, Helm und Wappenzier zu erkennen. Neben ihm der Jüngling — mit Barett und Hermelin —, sein früh verstorbener Sohn Welf VII. (vgl. die Stifterporträts Wa-b). In dem als Prälat gekennzeichneten Prämonstratenser bei den Stiftern ist vielleicht Anselm, der erste Propst von Steingaden, der mit den ersten Chorherren aus der Propstei Rot (Mönchsrot) kam, wiedergegeben.
+
+Zum Zeichen des himmlischen Schutzes und der himmlischen Gnade, die Steingaden genießt, thronen über der Szene der von den Prämonstratensern allgemein verehrte Patron Steingadens, Johannes der Täufer mit Lamm und Kreuzstab, sowie der Nebenpatron Johannes der Evangelist mit Schreibtafel, Feder und Adler.
+
+== B GLORIE DES HL. NORBERT ==
+In diesem Bild wird auf die kirchenpolitisch bedeutenden Werke Norberts verwiesen: die Verteidigung der Unbefleckten Empfängnis Mariens, die Niederringung der Irrlehre Tanchelins und die Wiedervereinigung der durch ein Schisma geteilten Kirche.
+
+Der Ordensgründer trägt über dem weißen Prämonstratenserhabit die Prälatentracht. Das Pallium bezeichnet ihn als Erzbischof von Magdeburg, Engel präsentieren weitere Würdezeichen, Mitra und Kreuzstab. Die Monstranz in Händen St. Norberts weist auf den {ZITAT|000} hin, seit dem 16. Jh. ein Titel des Heiligen. Maria-Immaculata — mit Sternenkranz und Lilie — deute auf den großen Marienverehrer hin. In dem Streit der Theologen, der im 12. Jh. um den Begriff der Unbefleckten Empfängnis stattfand, hatte sich Norbert auf die Seite der Immaculata-Verteidiger gestellt. Ihm wird eine Antiphon zum Immaculata-Text im Ordensbrevier zugeschrieben (Zák, S. 191).
+
+Die Mutter Gottes weist auf die Monstranz. Die eucharistische Hostie darin bezeichnet Jesus, Gott Sohn – Gottvater als Weltregent und Gott Heiliger Geist als Taube sind in der Glorie darüber dargestellt. Von der Geist-Taube fällt ein Lichtstrahl über die Hostie der Monstranz hinunter zu einem mit einem Schild bewaffneten Putto, wo der Lichtstrahl sich in Blitz und Feuerbündel verwandelt und zwei Männer in die Tiefe stürzt: Tanchelin und einen Soldaten. Es ist der Triumph des Altarsakraments, dessen Lehre Norbert gegenüber Tanchelins Häresie verteidigt hatte. Tanchelin (Tanchelm) wird traditionell als der Urheber einer in der Utrechter Diözese verbreiteten Irrlehre angesehen. Norbert wurde 1124 nach Antwerpen berufen und bekämpfte die Häretiker (Vita A, Cap. 16, Vita B, Cap. 36, vgl. Hertel, S. 54–56).
+
+Die Planetenzeichen von Mars und Venus auf der Fahne des Soldaten spielen auf den lasterhaft-erotischen Charakter der Irrlehre an. Zu der Gefolgschaft Tanchelins gehörten vor allem Soldaten. Triumphierend thront über den gestürzten Feinden des wahren Glaubens die Gestalt der Fides, ihre Attribute: Kreuzstamm, Kelch, Gesetzestafeln und Buch, dazu im Hintergrund eine Palme und ein Rundtempel auf einem Fels (vgl. Mt 16,18).
+
+Die Personifikation der Ecclesia ist als das römische Papsttum charakterisiert: Liturgischer Ornat, Papstkreuz, Tiaren und die gekreuzten Schlüssel Petri unter einem eigenen Baldachin-Schirm.
+
+Ecclesia hält stützend die eine Tiara auf dem Steinsockel aufrecht und weist dabei bedeutungsvoll auf den hl. Norbert hin, während die zweite Tiara unbeachtet, umgestürzt neben der stehenden liegt. Die Tiaren beziehen sich auf das Schisma von 1130 mit den Gegenpäpsten Innozenz II. und Anaklet II., an dessen Beendigung Norbert entscheidend beteiligt war. Lothar III. nahm bei seinem Zug nach Italien 1132 Norbert, den damaligen Erzbischof von Magdeburg wie auch Bernhard von Clairvaux, die beide Partei für Innozenz II. ergriffen hatten, mit. 1133 wurde Papst Innozenz als der rechtmäßige Papst anerkannt und Lothar III. in Rom feierlich zum Kaiser gekrönt (Vita A, Cap. 21; Hertel, S. 82–87).
+
+Die Olivenzweige in Händen eines Engels zur Seite Norberts bezeichnen den Heiligen in diesem Zusammenhang als Friedensstifter der Kirche. Zugleich deuten dieselben wohl auf eine Erscheinung des gerade verstorbenen Norbert bei einem Prämonstratenserbruder. Norbert zeigte sich diesem in weißem Gewande, einen Ölzweig tragend, den er, vom Paradies mitgebracht, nun in seinem Kloster Prémontré pflanzen wollte (Vita B, Cap. 54; Hertel, S. 89).
+
+Dem Patron der Steingadener Abteikirche, Johannes dem Täufer, ist eine eigene szenische Darstellung im Emporenfresko EU gewidmet. Er ist außerdem in bedeutungsvollem Zusammenhang in dem Gründungsbild A wiedergegeben.
+
+Das segensreiche Wirken des Prämonstratenserordens wird als zweites Grundthema in den Wandfresken W1-10 durch die bedeutenden Heiligen und Seligen des Ordens zur Anschauung gebracht.
+
+=== W<sub>1</sub> SEL. HERMANN JOSEPH ===
+Dem Prämonstratenser Hermann erscheint Maria als Himmelskönigin und steckt dem großen Marienverehrer zum Zeichen der mystischen Vermählung einen Ring an die Hand. Vor dem Seligen liegt das Attribut seiner Keuschheit und Reinheit, eine Lilie. Von dieser Vision her erhielt der Prämonstratenser den Beinamen Joseph (Erklärung auf dem Entwurf: {ZITAT|001}}, Diedrich, S. 122).
+
+[[File:Band01_chunk011_p020_img001.jpg|thumb|W<sub>1</sub> Hermann Joseph]]
+
+=== W<sub>2</sub> SEL. GERTRUD ===
+Die selige Jungfrau Gertrud, jüngste Tochter der hl. Elisabeth von Thüringen, ist als Äbtissin des Prämonstratenserinnenklosters Altenberg - in weißer Nonnentracht - in einer allegorischen Szene wiedergegeben, welche die Heilige als Schlichterin von Zwistigkeiten und Friedensstifterin darstellt: Die Ordensschwester weist zwei sie bedrängende allegorische Personifikationen, die Zwietracht – mit Schlangenhaar und brennender Fackel – und die rasende Streitsucht – mit Helm, Schild und gezücktem Schwert – zurück (vgl. Ripa, s. v. discordia u. furore superbo e indomito). Sie zeigt den Unbändigen einen wilden Löwen, der sich gezähmt an ihrer Seite niedergekauert hat. Faszes – auf dem Podestabsatz – bezeichnen ihre Gerechtigkeitsliebe, die Krone und das juwelengeschmückte Buch auf einem Tisch ihre fürstliche Abstammung. Durch ein Rundfenster fällt in breitem Strahl das Sonnenlicht ein und trägt ihren weißen Kopfschleier. Die Gabe des Friedenstiftens, der legendäre, gebändigte Löwe und der vom Licht getragene Schleier werden in der fünften Lesung des Prämonstratenseroffiziums am Festtag Gertruds eigens erwähnt (AASS Augusti, Tomus 3, 13.8., S. 143): {ZITAT|002}} (Entwurf bezeichnet: {ZITAT|003}}, Diedrich, S. 121.)
+
+[[File:Band01_chunk011_p020_img002.jpg|thumb|W2 Gertrud]]
+
+=== W<sub>3</sub> HL. ADRIAN JANSEN / HL. JACOB LA COPPERS ===
+Die beiden Prämonstratenser – Chorherren von Kloster Middelburg –, der eine wiedergegeben in Chortracht – Almutie über Rochett –, der andere in einfacher Ordenstracht – Habit mit Skapulier –, sitzen auf Wolken vor der Stätte ihres Martyriums, dem Dachbalken eines Stadels, an dem noch die Galgenstricke hängen. Als Martyrer werden die Heiligen durch einen Strick um den Hals, durch Palmzweig und Lorbeerkranz bezeichnet. Adrian
+
+<!-- citation-page-bottom: Band01 p539 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=21 -->
+<!-- citation-page-top: Band01 p540 -->
+
+Jansen und Jacob Lacops, in der Seelsorge als Pfarrer und Kaplan tätig, die Martyrer von Gorcum, waren 1572 in Holland, zusammen mit anderen Geistlichen, hingerichtet worden. (»B u B: Adrianus. M: Jacobus. M:«, Diedrich, S. 121.)
+
+
+[[File:Band01_chunk011_p021_img001.jpg|thumb]]
+
+
+
+[[File:Band01_chunk011_p021_img002.jpg|thumb|W7 Gerlach]]
+
+
+W4 HL./BISCHOF EVERMOD Evermod, Freund und Begleiter des hl. Norbert, war in hohem Alter Bischof von Ratzeburg geworden. Die Szene zeigt den Bischof, wie er die Ketten zweier Gefesselter mit Weihwasser besprengt, die Fesseln zerspringen auf sein Gebet hin. Auf diese Weise hatte Bischof Evermod – der legendären Tradition nach – zwei vom Herzog von Ratzeburg gefangenen Friesen befreit. (»B: Siardus, Abbt«, Diedrich, S. 120.)
+
+
+[[File:Band01_chunk011_p021_img003.jpg|thumb]]
+
+
+
+[[File:Band01_chunk011_p021_img004.jpg|thumb]]
+
+
+W5 HL. /ABT SIARD Siard, der Nachfolger des seligen Abtes Friedrich im Kloster Mariengarten, war mit der Wundergabe, Augenleiden, Lahmheit und Bruchschäden zu heilen, begnadet. Die Szene zeigt den Heiligen bei der Speisung einer Schar von Armen. In dem sich aufrichtenden Alten mit einer Krücke ist ein soeben durch Abt Siard Geheilter zu erkennen, alle Umstehenden weisen mit lebhaften Gebärden des Erstaunens auf ihn. (»B: Gerlacus wird von dem S. Bi<br>schoff Servatio gespeißt mit dem H: Sacrament«, Diedrich, S. 119.)
+
+
+[[File:Band01_chunk011_p021_img005.jpg|thumb|V<sub>9</sub> Gottfried von Kappenberg]]
+
+
+
+[[File:Band01_chunk011_p021_img006.jpg|thumb|W<sub>10</sub> Abt Friedrich]]
+
+
+W6 HL. /GILBERT / ABT Gilbert, Abt des von ihm gegründeten Prämonstratenserklosters Neuffontaines, erbaute neben dem Kloster ein Spital, in dem er selbst die Kranken, vor allem Kinder, pflegte. Die Szene zeigt den von Müttern mit ihren kranken Kindern umringten Heiligen, der eben einen kranken Knaben durch Handauflegung heilt. (»B. Ludolphis: M: B: Is fridus Bischof«, Diedrich, S. 114.)
+
+
+W7 HL. /GERLACH /EINSIEDLER Gerlach von Valkenburg, ein Einsiedler des Prämonstratenserordens, empfängt in seiner Klause beim Herannahen des Todes die hl. Kommunion. Bischof Servatius, zu dessen Kirche in Maastricht Gerlach jeden Morgen bloßfüßig gepilgert war, gelangt durch ein Wunder – auf Wolken – in die Höhle Gerlachs und reicht dem Sterbenden die Hostie. (Erklärung auf dem Entwurf: »B: Godfridus Frater sambt einer Closter Jungfraun Gerbergi eine Abbtißin«, Diedrich S. 116 f.)
+
+
+[[File:Band01_chunk011_p021_img007.jpg|thumb]]
+
+
+
+[[File:Band01_chunk011_p021_img008.jpg|thumb]]
+
+
+W8 HL. BISCHOF /LUDOLF /MARTYR Der Prämonstratenserchorherr und Bischof von Ratzeburg wurde von Herzog Albrecht von Sachsen-Lauenburg ins Gefängnis geworfen, da er die Rechte und Freiheiten der Kirche wahren wollte. Dem geketteten Gefangenen, wiedergegeben in der einfachen Ordenstracht, erscheint sein Amtsvorgänger Bischof Isfried und labt ihn. Der Putto mit Lorbeerkranz und Palme weist auf den baldigen Martyrertod hin. Ludolf wurde während seiner Haft mehrfach gefoltert. Der Großherzog Johann von Polen befreite den Bischof von Ratzeburg aus dem Gefängnis, dieser starb jedoch an den erlittenen Mißhandlungen. ({{ZITAT|005}}, Diedrich, S. 117.)
+
+
+W9 SEL./GOTTFRIED v. /KAPPENBERG Gottfried von Kappenberg erscheint in der Nacht nach seinem Tode seiner Tante Gerberga, der Abtissin des Marienklosters zu Münster. Er zeigt ihr die Krone der Unsterblichkeit, die er für sein frommes Leben erhalten hatte. Der
+
+
+[[File:Band01_chunk011_p021_img009.jpg|thumb]]
+
+
+
+[[File:Band01_chunk011_p021_img010.jpg|thumb]]
+
+
+Putto weist mit dem weißen Prämonstratenser-Birett auf eine mittelalterliche Burganlage; diese gibt die Stammburg Kappenberg wieder, die Gottfried in ein Prämonstratenserkloster umgewandelt hatte. ({{ZITAT|006}}, Diedrich, S. 118.)
+
+
+W10 SEL. /ABT FRIEDRICH Die hl. Cäcilie erscheint dem als Abt wiedergegebenen Prämonstratenser Friedrich und gibt ihm den Auftrag, für das Heil anderer zu sorgen. Sie weist mit der einen Hand auf eine Kirche, mit der anderen auf den demütig knienden Prämonstratenser. Die Kirche deutet auf das Prämonstratenserkloster Mariengar-
+<!-- citation-page-bottom: Band01 p541 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=22 -->
+<!-- citation-page-top: Band01 p542 -->
+
+<!-- header: STEINGADEN -->
+
+TANNENBERG
+
+ten bei Hallum hin, das Friedrich Jahre nach der Vision gründete und dem er als Abt vorstand. (»B: Friedericus. S: Cecilia Erscheinet ihm«, Diedrich, S. 119.)
+
+(Zu den Heiligen vgl. das Kalendarium bei Zák, die Einzelartikel im LThK, zu den Steingadener Szenen, Ringmeir, S. 31 ff.)
+
+
+== Literatur ==
+
+
+Haimerle (Gerlaius), Sammlung zu einer Steingadenscher Chronik (nach 1764), BSB, cgm 2960, S. 52 f.
+
+Pfarrdorf Steingaden, ehemaliges Prämonstratenserkloster in Oberbayern (o. V.), in: Kalender für Katholische Christen 14, 1854, S. 63–69.
+
+KDB I OB (1), S. 598 f.
+
+Hager, Georg, Die Bau- und Kunstdenkmale des Klosters Steingaden, in: OAVG 48, 1893/94, S. 124–77.
+
+Graf, Matthäus, Geschichte der Prämonstratenserabtei Steingaden 1147–1803, in: Kalender für Katholische
+
+Christen 66, 1906, S. 58–74 und 67; 1907, S. 48–76. Zák, Alfons, Der heilige Norbert, Wien 1930.
+
+Ringmeir, Franz Seraph, Die ehemalige Klosterkirche, nunmehrige Pfarrkirche in Steingaden, hg. v. Sigfrid Hofmann, Steingaden 1935.
+
+Hartig, Michael, Die oberbayerischen Stifte, München 1935, Bd 2, S. 18–27.
+
+Hofmann, Sigfrid, Stift Steingaden 1147–1803, Steingaden 1947 (mit Quellen und Literaturangaben).
+
+Ringmeir, Franz Seraph und Hugo Schnell, Stiftskirche Steingaden (= KKF Nr. 5). München 1954
+
+Diedrich, Hans Heinrich, Die Fresken des Johann Georg Bergmiller, Diss. Mainz 1959, S. 104–126, 145 f.
+
+Hofmann, Sigfrid, Der Landkreis Schongau, 1959, S. 114. Ohnesorg, Anton, Steingaden, Steingaden 21965.
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23), München 1971, Register.
+
+{{End}}

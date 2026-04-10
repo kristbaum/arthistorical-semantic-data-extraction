@@ -1,0 +1,102 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=82
+|Originalseitenbis=85
+|Lemma=Greifenberg, Schlosskapelle St. Georg
+|Typ=Sakral
+|Ort=Greifenberg
+|davor=Geltendorf, Pfarrkirche St. Stephan
+|danach=Hagenheim, Filialkirche Unsere Liebe Frau
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p82 -->
+
+<!-- header: GREIFENBERG -->
+
+
+== GREIFENBERG ==
+
+
+Schloßkapelle, Pfarrei Greifenberg-Beuern, Diözese Augsburg; ehem. Hofmarkssitz
+
+'''Patrozinium:''' St. Georg
+
+'''Zum Bauwerk:''' Das seit 1507 im Besitz der Freiherren von Perfall befindliche Schloß Greifenberg wurde mit seiner Kapelle 1760-62 unter dem Freiherrn Emanuel Maximilian von Perfall erneuert, wie es die Inschriften der Kapelle in A1 und A2 angeben: FLAMMIS / DELETAM / ANNO MDCCLX und ME FECIT / E: M: B: D: BERF. / ANNO MDCCLXII (= Emanuel Maximilian Baron de Berfall) — Die Schloßkapelle ist ein einfacher, rechteckiger Saal mit flacher Altarnische.
+
+'''Auftraggeber:''' Emanuel Maximilian Freiherr von Perfall (* ca. 1717 †1790); Familienwappen über dem Zugang zur Empore
+
+'''Autor und Entstehungszeit:''' Die von 1956 stammenden Inschriften in den Evangelistenkartuschen vermitteln knappe Angaben zur Geschichte der Gewölbedekoration (vgl. Erhaltungszustand und Restaurierungen); zur Entstehung derselben heißt es in A3: PINXIT. / ANNO MDCCLXXV. Der stilistische Befund entspricht dieser Zeitangabe. Der bislang unbekannte Autor war auch archivalisch nicht zu ermitteln (Schloß- und Kapellenbauakten brechen nach dem Brand von 1760 ab), jedoch fand sich im Schloßarchiv Greifenberg ein Rechnungsbeleg aus dem Jahre 1776, wonach der Maler Ignaz Baldauf für ein Wandfresko in der Herrgottsruhkapelle bei Greifenberg bezahlt wurde (frdl. Mitt. Wilhelm Neu, B.L.f.D. München). Durch Stilvergleich konnte auch die Ausmalung der Schloßkapelle einwandfrei als ein Werk des Aichacher Malers Ignaz Baldauf (*1715 †1795) identifiziert werden. Typisch für Baldauf ist die gemalte Gewölbedekoration: die schematisierten, in ihrer Formsubstanz wie eingeschrumpft wirkenden Rocaillen, die zusammenhanglos in die Gewölbefläche gesetzt sind, die Ziervasen und die Evangelistensymbole vor Goldbrokatgrund, die bauchige, in der Mitte eingeschnürte Ovalform mit der klassizistischen Rahmung (vgl. Kristin Biron von Curland, Ignaz Baldauf, Diss. München 1975: die Fresken in Mering, 1779, LKr. Aichach-Friedberg; Sandizell, Beinberg und Schrobenhausen, alle LKr. Neuburg-Schrobenhausen). Unverkennbar ist Baldaufs Figurentypus, den er seinem Repertoire ohne spezielle Modifizierung entnimmt: die wirkungsvoll in Szene gesetzte Reitergestalt des hl. Georg hat ihr Vorbild in der Pfarrkirche von Fürstenfeldbruck (1764), die Divina Providentia kehrt sehr ähnlich in den Deckenbildern in Zahling (1778, LKr. Aichach-Friedberg) und Langenmosen (1780, LKr. Neuburg-Schrobenhausen) wieder, und der Füllhornengel rechts tritt nahezu detailgetreu in Schlehdorf in dem Deckenbild mit der Bestattung des Tertulin (OB LKr. Bad Tölz-Wolfratshausen, s. Bd 2) auf. – Das Freskobild selbst zeigt Eigentümlichkeiten, die für Baldaufs Spätzeit charakteristisch sind: Die Bildanlage weist farbig und perspektivisch keinen Bezug zur Deckenmalerei mehr auf; eine dunkle und eine helle Zone sind neutral, ohne illusionistische Höhendimension, übereinandergesetzt. Gemäß der Tafelbildmalerei ist der Tiefenhorizont konzipiert, wenn auch in der perspektivischen Zeichnung mißglückt. Die maßstäblich großen Figuren zeigen keine differenzierenden Verkürzungen, sie sind isoliert dargestellt, musterartig in die Bildfläche gesetzt - darin vergleichbar den Rocaillen. In ihren Handlungsmotiven überdeutlich herausgearbeitet, besitzen die Figuren jedoch keine Einheit der Gestalt, flatternde Gewandteile zergliedern sie.
+
+
+[[File:Band01_chunk002_p017_img001.jpg|thumb|A St. Georgs Drachenkampf]]
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: gedrückte Tonne mit Stichkappen
+
+Kanmen: imitiertes Goldprofil und Rocaillen
+
+Technik: Fresko; A und Wandfresken polychrom; A1-8 Grisaillen auf Goldgrund
+
+Maße: A Höhe 9,00 m; 4,60 × 3,00
+
+Erhaltungszustand und Restaurierungen: Die Deckenfresken wurden 1956 durch T. Roth unter Franz Ferdinand Maria von Perfall (*1879 †1966) restauriert, vgl. die Inschrift in A4: ME RENOV / F. V. P. MCMLVI / PIN XIT. TONI RÖTH und das Chronogramm unter den Familienwappen der Perfall am Zugang zur Empore: Maria sancta Mater / coeLi et mVndI / ora pro nobis (= 1956). Die ornamentalen Partien mit den in Grisaille gemalten Figuren sind kräftig nachgezeichnet und farbig erneuert worden. Im Freskobild sind zahlreiche Retuschen in der fast homogen braunen Erdzone mit dem Drachen und – weniger stark – in der Gewand- und Gesichtszeichnung der Figuren zu bemerken.
+
+Beschreibung und Ikonographie
+
+A ST. GEORGS DRACHENKAMPF Das einansichtige Deckenfresko wird von der Gestalt des hl. Ritters
+
+
+[[File:Band01_chunk002_p017_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p83 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=18 -->
+<!-- citation-page-top: Band01 p84 -->
+
+<!-- header: GREIFENBERG -->
+
+<!-- header: GREIFENBER -->
+
+Georg beherrscht. Dieser sprengt auf einem Schimmel heran und sticht seine Lanze in den Schlund des vor ihm sich windenden Drachens. Die Reitergestalt hebt sich, einer Ausschneidefigur vergleichbar, groß und farbig von dem lichten Horizont ab, das Drachenungeheuer unter dem Reiter ist durch stark herausgezeichnete Konturen von der monoton braunen, ungestalten Erdzone abgehoben. Am Horizont werden zu den Seiten die Prinzessin mit einem Lamm – rechts – und das Schloß Greifenberg – links – sichtbar, menschliche Figur und Architektur - auf Hügel gesetzt - kippen nach hinten weg. Auch die Berglandschaft in der Mitte versinkt. Über der irdischen Szene thront auf Wolken Divina Providentia mit Weltkugel und dreieckbekröntem Zepter. Zu ihren Seiten schütten zwei Engel reiche Gaben aus zwei Füllhörnern: Kronen, Zepter, Ketten, Orden und Blumen.
+
+Die Farbigkeit scheidet das Fresko in zwei Hauptzonen, die dunkle, kaum differenzierte Erdzone, in welche der in plastischen Formen gezeigte Drache gehört, und die lichte Zone darüber, in welche der Reiter Georg, in hellen Rot-Grün-, Blau- und Weißtönen wiedergegeben, hineinragt. Die himmlischen Figuren über St. Georg sind gleichfalls buntfarbig in einen lichtockerfarbenen Wolkenhimmel gesetzt.
+
+A1-4 zeigen die Symbole der Evangelisten Matthäus, Markus, Lukas und Johannes. In vier Kartuschfelder sind Vasen gemalt.
+
+Wa der Altaraufbau mit Altarbild und Seitenfiguren der Martyrer Paulus und Johannes, der sog. Wetterheiligen, ist als Wandfresko in der Art Pozzoscher Scheinarchitektur gegeben. Die Fresken W<sub>1-3</sub> an der N-Wand der Kapelle zeigen folgende Heilige: St. Franz Xaver, St. Joseph und St. Ignatius.
+
+[[File:Band01_chunk002_p018_img001.jpg|thumb|W<sub>3</sub> St. Ignatius]]
+
+[[File:Band01_chunk002_p018_img002.jpg|thumb|Wa imitierter Altaraufbau]]
+
+[[File:Band01_chunk002_p018_img003.jpg|thumb]]
+
+[[File:Band01_chunk002_p018_img004.jpg|thumb]]
+
+[[File:Band01_chunk002_p018_img005.jpg|thumb|Johannessymbol]]
+
+[[File:Band01_chunk002_p018_img006.jpg|thumb]]
+
+[[File:Band01_chunk002_p018_img007.jpg|thumb]]
+
+[[File:Band01_chunk002_p018_img008.jpg|thumb]]
+
+== Literatur ==
+
+Perfall, Max Freiherr von, Urkundliche Mittheilungen über das Schloß Greifenberg und seine Besitzer, in: OAVG 7, 1846, S. 316 f.
+
+[Emerich, Karl], Beiträge zur Ortsgeschichte. Zur Geschichte der Pfarrei Beuern, in: Landsberger Geschichtsblätter 26, 1929, Nr. 8, S. 59. 
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S. 108, 484, 745.
+<!-- citation-page-bottom: Band01 p85 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=19 -->
+{{End}}

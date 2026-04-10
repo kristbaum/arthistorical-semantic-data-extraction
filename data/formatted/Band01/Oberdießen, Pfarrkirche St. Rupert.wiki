@@ -1,0 +1,78 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=167
+|Originalseitenbis=168
+|Lemma=Oberdießen, Pfarrkirche St. Rupert
+|Typ=Sakral
+|Ort=Oberdießen
+|davor=Lengenfeld, Filialkirche St. Nikolaus
+|danach=Oberigling, Pfarrkirche St. Peter und Paul
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Pfarrkirche (z. Z. von Unterdießen vikariert), Gemeinde Unterdießen, Diözese Augsburg; z. Z. der Ausmalung hatte das Domkapitel Augsburg das Präsentationsrecht auf die Pfarrei, Herrschaft Asch, deren Inhaber das Damenstift St. Stephan in Augsburg war
+
+
+'''Patrozinium:''' St. Rupert
+
+
+'''Zum Bauwerk:''' Baukern aus dem 15. Jh., Umbau und Neuausstattung unter Pfarrer Johann Baptist Auerbacher (1737-70) um 1740. - Einfacher Saal zu drei Jochen eingezogener AR (7,00 × 5,80) zu zwei Jochen mit dreiseitigem Schluß. Das Deckenbild befindet sich im Altarraum
+
+'''Autor und Entstehungszeit:''' Laut Vertrag vom Jahre 1741 malte Chor und Langhaus »Herr Mathias Wolckher, Burger und Maler in Dillingen« um 50 fl. (Fürst, S. 101).  
+Es handelt sich anscheinend um den seit 1731 in Dillingen ansässigen Maler Matthias Wolcker aus Schelklingen,  
+†1742 in Dillingen, einen Bruder des Johann Georg  
+Wolcker. Biographie und Œuvre des Malers sind noch  
+weitgehend unbekannt (vgl. Thieme-Becker, Bd 35, S. 185)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Tonne mit Stichkappen  
+Rahmen: Der Rahmen folgt zum großen Teil den Rocaille-Schwüngen des Stuckornaments; schmales, vergoldetes Drofil
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 6,60 m; 2,30 × 4,30
+
+Erhaltungszustand und Restaurierungen: Bei einer Neu-  
+ausstattung der Kirche im 19. Jh. wurden die Deckengemälde des 18. Jh. mit der Krönung (LHs) und der Himmelfahrt Mariens (AR) durch Andreas Oswald 1869, 1922  
+zum zweitenmal durch Franz Reinhardt übermalt. Aufgedeckt wurden bei der letzten Restaurierung 1961 durch Haugg nur die Bilder am AR-Gewölbe (Inschrift in A1: <math>A\Omega/RESTAUR./1961</math>). Ihr Zustand ist denkbar schlecht, Details und Farben sind schwer beeinträchtigt.
+
+
+[[File:Band01_chunk004_p009_img001.jpg|thumb|A Tod eines hl. Bischofs mit A1-2 Heilige]]
+<!-- citation-page-bottom: Band01 p167 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=10 -->
+<!-- citation-page-top: Band01 p168 -->
+
+<!-- header: OBERDIESSEN -->
+
+<!-- header: OBERIGLING -->
+
+Beschreibung und Ikonographie
+
+A TOD EINES HL. BISCHOFS In dem relativ schmalen und langen Bildfeld ist auf einem bildparallel verlaufenden Drei-Stufen-Podest ein sterbender Bischof dargestellt, der halb liegend an einem Tisch lehnt. Zwei Geistliche leisten ihm Beistand. In den Wolken erscheint Gottvater mit Engeln und nimmt die Seele des Sterbenden in Gestalt eines nackten kleinen Kindes auf. Ein Engel bringt eine Krone. Dem Patronat der Kirche entsprechend dürfte es sich um den hl. Rupert von Salzburg handeln. Das ist allerdings wegen des Fehlens jeden Attributs nicht mit Sicherheit zu sagen.
+
+A1 Auch diesem Heiligen fehlen die Attribute; er trägt geistliche Gewandung und erlebt wohl eine Erleuchtung (Strahlen von rechts oben). Er diktiert einem Schüler.
+
+A2 Bei diesem Heiligen handelt es sich um den hl. Johann Nepomuk, kenntlich an der Kanonikertracht mit hermelinbesetzter Mozzetta und Kreuz. Ein Engel reicht ihm die Martyrerkrone.
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 161.
+
+Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 98–105. Die Pfarrherren in Oberdießen (o. V.), in: Landsberger Geschichtsblätter 16, 1917, S. 49 ff.
+
+Breuer, Tilmann, Stadt und Landkreis Kaufbeuren, (= Kurzinventar der Bayerischen Kunstdenkmale), München 1960, S. 164 f.
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 268.
+
+{{End}}

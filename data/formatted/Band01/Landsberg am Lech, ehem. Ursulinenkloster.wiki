@@ -1,0 +1,272 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=144
+|Originalseitenbis=155
+|Lemma=Landsberg am Lech, ehem. Ursulinenkloster
+|Typ=Sakral
+|Ort=Landsberg am Lech
+|davor=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche
+|danach=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p144 -->
+
+<!-- header: LANDSBERG AM LECH -->
+
+Ehemalige Ursulinenklosterkirche, z. Z. Dominikanerinnen-Klosterkirche, Diözese Augsburg
+
+'''Patrozinium:''' Heilige Dreifaltigkeit und Herz Jesu
+
+'''Zum Bauwerk:''' Der ältere, 1720–22 errichtete Kirchenbau der Ursulinen wurde in den Jahren 1764/66 wegen Baufälligkeit völlig erneuert. Eine Kartusche am Chorbogen gibt die Jahreszahl MDCC/LXV. an. Grundstein 1764; Weihe 1766. Die Baumeisterfrage ist noch nicht eindeutig geklärt. In den Akten über die Grundsteinlegung wird ein Baumeister Ignatius Resler von Mehring genannt. Hugo Schnell nimmt jedoch Dominikus Zimmermann als den planenden Architekten an (Das Münster, 1966; KKF Nr. 861).
+
+Einfacher Saalbau zu fünf Achsen, Doppelempore im Westen. Stark eingezogener AR zu drei Achsen, mit geradem Abschluß, an der Ostseite Oratorium angebaut; genordet
+
+'''Auftraggeber:''' Für die Grundsteinlegung ist die Oberin des Ursulinenklosters Maria Anna Nepomucena Aloisia, geb. Wachsenstein (1737 gewählt) in den Akten bezeugt (Schnell Das Münster, S. 476)
+
+'''Autor und Entstehungszeit:''' Das Fresko an der Emporenunterseite (EU3) ist rechts im Schild des Ritters signiert: <br>
+Johann Baptist Bergmüller / Pinxit / 1766. Das Wandfresko (W1) am Chorbogen zeigt das Monogramm JB (ligiert). <br>
+
+ter, die in das Kloster eingetreten waren (Schnell, KKF Nr. 861, S. 8).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Tonne mit Stichkappen; EU<sub>1-3</sub> flache Muldengewölbe, durch Gurte getrennt
+
+Rahmen: A, B, C imitierte Stuckprofile und gemalte Rocailen, bei B überschneiden die Nebenfiguren außerhalb des Hauptbildes (B<sub>a-c</sub>) die Rahmenstücke. Die Scheinkuppe (C) bildet mit der plastischen Altarbekrönung und dem zugehörigen Wandfresko (W2) eine Einheit.
+
+A<sub>1-4</sub>, B<sub>1-4</sub>, C<sub>1-2</sub> imitierte Rocaille-Kartuschen
+
+EU1-3 dünnes Stuckprofil mit Stuckornamenten
+
+Oratoriumsbilder imitierte Stuckprofile mit gemalten Rocailen und imitierte Rocaillen
+
+Technik: Fresko; A, B, B<sub>a</sub>-c, C, EU<sub>1-3</sub>, EB<sub>1-6</sub>, W<sub>1</sub>, W<sub>2</sub>. Oratoriumsbilder polychrom, A<sub>1-4</sub> monochrom grün-grau B<sub>1-4</sub>, C<sub>1-2</sub> monochrom goldocker
+
+Maße: A Höhe 14,40 m; 11,25 × 9,00
+
+B Höhe 11,80 m; 5,40 × 3,40
+
+EU<sub>1-3</sub> Höhe (ab Empore) 3,70 m; 2,20 × 3,10
+
+Erhaltungszustand und Restaurierungen: 1910 Reinigung und Ausbesserungen durch W. Kolmsperger (s. Landsberger Geschichtsblätter 1914); 1965 gründliche Restaurierung unter Beteiligung von A. Dasser, A. Wolf und A. Petri (vgl. Akten des B.L.f.D.)
+
+A gekittete Risse; die stellenweisen Ausbesserungen an der Farbsubstanz werden kaum sichtbar; die Farben sind im ganzen etwas blasser geworden. B mit Ba-c Farben frischer, nur in der nördlichen Gewölbepartie werden Ausbesserungen geringfügig sichtbar. EU1-3 Farben frisch und kräftig, leichte Graustellen besonders in den Himmelspartien; wenige Ausbesserungen zu erkennen. Die übrigen kleinen Gewölbefresken und die Wandfresken zeigen einen entsprechenden Erhaltungszustand. Die Fresken sind insgesamt gut erhalten.
+
+
+[[File:Band01_chunk003_p023_img001.jpg|thumb|A Die Ursulinen von Landsberg in der Heilsgeschichte mit A1-4 Kirchenlehrer]]
+
+
+
+[[File:Band01_chunk003_p023_img002.jpg|thumb]]
+
+
+== Beschreibung ==
+
+
+Die Tonnengewölbe der Kirche sind ganz durch die Mitte der Freskomalerei gestaltet. Die gemalte Dekoration erstreckt sich im Gemeinderaum über die Stichkappen in die Schildbögen hinein, auf die Chorbogenwand und die Abschlußwand des Orgelprospektes.
+
+A DIE URSULINEN VON LANDSBERG IN DER HEILSGESCHICHTE Gewichtige Profilrahmenstücke, die, den ins Gewölbe einschneidenden Stichkappen nachgebend, sich einwärts und auswärts biegen, fassen das Freskobild ein. Die großflächige Komposition des Bildes ist einansichtig angelegt. Der Standort des Betrachters ist unterhalb des westlichen Bilddrittels des Freskofeldes. Die perspektivische Konstruktion hat keine echt illusionistische Höhendimension. Der Heiligenhimmel – er nimmt den Hauptteil des Bildes ein – wirkt flächig, nahezu in einer Ebene mit dem Rahmen. Die Heiligenfiguren sind in einer symmetrischen, lockeren Anordnung über die Himmelsfläche verteilt. Eine geraffte Draperie akzentuiert den
+<!-- citation-page-bottom: Band01 p145 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=24 -->
+<!-- citation-page-top: Band01 p146 -->
+
+<!-- header: LANDSBERG AM LECH -->
+
+[[File:Band01_chunk003_p024_img001.jpg|thumb|W<sub>1</sub> Der Gnadenstuhl]]
+
+Himmel als Schauplatz. Die irdische Szenerie, eine dicht gedrängte Menschenmenge, ist ganz auf den südlichen Bildrand beschränkt.
+
+Die bildliche Komposition hat ihren bestimmenden Ausgangspunkt in dem Himmelsthron der drei Göttlichen Personen. Gottvater und Christus zu seiner Rechten haben die Weltkugel zwischen sich, die Geist-Taube schwebt im strahlenden Dreieck zwischen ihren Häuptern. Engel breiten einen Vorhang als Baldachin über den vom Regenbogen umstrahlten Thronsitz und umgeben anbetend die Göttlichen Personen. Unterhalb knien, auf Wolken einander schräg gegenübergestellt, Maria und Joseph als Fürbitter der Landsberger Ursulinen. Ein Erzengel – in Rüstung wiedergegeben wie Michael – wendet sich diesen mit huldvoll ausgebreiteten Armen zu. Ein weiterer Engel daneben hält einen Schild mit den Ordensabzeichen der Ursulinen. Die Nonnen stehen oder knien mit ihren Zöglingen ganz im Vordergrund, direkt über dem Profilrahmen – wie beim letzten Auftritt der Akteure an der Bühnenrampe an Ende eines Schauspiels. Hinter zwei ornamental gezeichneten Brüstungsstücken an den Seiten drängen sich Frauen Ursulinen und Kinder. Sie alle richten ihre Blicke zum Heiligenhimmel empor. – Das Kloster- und Kirchengebäude der Ursulinen – rechts im Hintergrund sichtbar – bezeichnet allein den Schauplatz Landsberg. Diese Architektur ist perspektivisch unbeholfen, »kippend« ins Bild gesetzt.
+
+Die Farbigkeit des Freskos ist mit der ganzen Gewölbedekoration zusammen zu betrachten. Eine hellfarbige Palette von gedämpften Farbtönen ist charakteristisch. Mattes Grüngrau, Rosa und Ocker mit wenig Goldglanz sind für die ornamentaldekorative Malerei bestimmend. Diese Farben beherrschen auch das figürliche Bild. Die Wolken und das Himmelslicht sind vor allem in diesen Tönen gemalt. Es kommen in den Figuren als Buntfarben verschiedene gebrochene Violett- und Rosttöne, helles Graublau und das geradezu hervorstechende Schwarz der Nonnentracht hinzu. Die Buntfarben sind musterartig verteilt und haben daher eine ähnlich dekorative Wirkung wie die gemalten Kartuschen, Statuetten und Brokatornamente außerhalb des Bildes.
+
+Dieses große Fresko des jüngeren Bergmüller fordert einen Vergleich mit der Malerei seines Vaters heraus: Der Figurtypus ist unverkennbar bergmüllerisch, Gesichtsbildung, Gliederbau, Gewanddrapierungen sind einander verwandt, wie die Figuren Christi, Gottvaters, Mariens oder auch der vorhangraffenden Engel und der Nonnen in den in diesen Band aufgenommenen Werken Johann Georg Bergmüllers – Dießen und Steingaden (s. LKr. Weilheim-Schongau) – zeigen. Die Figuren des jüngeren Bergmüller zeigen nicht das artifizielle Raffinement in Komposition und Zeichnung, das jenen des Vaters eignet, sie sind naiver, puppenhafter gemalt. Besonders auffällig ist dies bei den »irdischen« Figuren, die wie modisch geputzte Figurinen wirken.
+
+Auch die Bildschauplätze sind einfacher komponiert. Die gegeneinander versetzten Raumebenen und kunstvoll in die Tiefe gestaffelten Bildräume Johann Georgs sind beim Sohn einer flächigen Raumaufteilung im Bild gewichen. Der jüngere Bergmüller hat nicht die Vorliebe seines Vaters für Architekturkulissen, er beschränkt diese im Gegenteil auf ein Minimum.
+
+Die im Vergleich dynamisch wirkende Kompositionsweise Johann Georgs bei Gruppen ist zu einer mehr musterartigen Ordnung geworden. Vom Vater übernimmt Johann Baptist die Vorliebe für gebrochene, oft fahle Farbtöne, er stimmt die Farben jedoch nicht tonig aufeinander ab, sondern hebt von einem farblich neutral gehaltenen Grund einzelne Figuren in bunt wirkenden Farbtönen deutlich ab.
+
+A1-4 Kirchenväter, Gregor (A1), Ambrosius (A2), Augustinus (A<sub>3</sub>) und Hieronymus (A<sub>4</sub>)
+
+W<sub>1</sub> DER GNADENSTUHL Den Übergang von dem weitgespannten Tonnengewölbe des Gemeinderaumes zum beträchtlich kleineren des Chores ist durch Quadraturmalerei und eine Bildszene am Chorbogen geschaffen. Ein attikaähnlicher Aufbau, zusammengesetzt aus Gebälkstücken und Sockeln, Konsolen und Voluten, sowie einer Baldachindraperie birgt die Darstellung des Gnadenstuhles: Gottvater thront, auf die Weltkugel gestützt, in Betrachtung seines Sohnes. Der vom Kreuzestod gezeichnete Körper Christi liegt zu seinen Füßen, das Haupt an seine Knie gelehnt. Die Geist-Taube schwebt zwischen Gottvater und Sohn. Ein betender Engel am rechten Bildrand schließt die einer Dreiecksform eingegliederte Komposition ab.
+
+Auf Konsolen und Voluten des Attikaaufbaues präsentieren Putti – als plastische Statuetten gemalt – die Arme Christi, Kreuz und Nägel, Rute und Dornenkrone, Kreuztitulus IN/RI und Hammer, Essigschwamm und Lanze.
+
+B DIE INKARNATION JESU Die ersten beiden Joche des Chores sind durch eine szenische Darstellung zusammengefasst und gegen das dritte Joch, den eigentlichen Altarbereich, durch einen ornamental bemalten Gurtbogen deutlich abgesetzt. Die Rahmenprofile der einansichtigen Darstellung werden an drei Seiten von Figuren – im gleichen Maßstab wie jene innerhalb des Bildes – überschritten. Die Basis der Szene bildet ein dreistufiges Treppenpodest mit einem Brüstungssockel an der rechten Seite. Darauf steht Joseph und trägt auf seinen Armen das göttliche Kind. Zur Seite Josephs wendet sich Maria kniend dem Jesuskind zu. Gottvater, der auf einer Wolke thront, neigt sich zu der Heiligen Familie hinab. Die Geist-Taube schwebt darüber. Himmelswolken erfüllen den ganzen Bildraum. Allein die gebettete Krippe ist darin noch ein irdisches Requisit aus dem Geburtsstall von Bethlehem. Die Wolken dringen über den Bildrahmen hinaus und
+
+[[File:Band01_chunk003_p024_img002.jpg|thumb|Die Inkarnation Jesu mit B<sub>2</sub> Abrahams Opfer Bb Engel Be König David B<sub>1</sub>-<sub>4</sub> Evangelisten]]
+<!-- citation-page-bottom: Band01 p147 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=25 -->
+<!-- citation-page-top: Band01 p148 -->
+
+<!-- header: LANDSBERG AM LECH -->
+
+<!-- header: LANDSBERG AM LECH -->
+
+tragen die seitlich in die Szene hereinragenden Figuren:
+
+B2-e.. Abraham, im Begriff seinen Sohn Isaak als Opfer zu töten (B2). – Eine statuarisch, in der Gebärdensprache theatralisch-steif wiedergegebene Gruppe. Gegenüber gende Engel über (Bb).
+
+B<sub>1-4</sub> In die Stichkappen sind Kartuschen mit monochromen Brustbildern der vier Evangelisten gemalt
+
+B<sub>1</sub> Matthäus
+
+B<sub>2</sub> Markus
+
+B<sub>3</sub> Iohannes
+
+B<sub>4</sub> Lukas
+
+C und W2 DIE DREIFALTIGKEIT VON ENGELN VEREHRT Im Altarbereich schafft die Quadraturmalerei im wesentlichen den feierlichen Rahmen für den Hochaltar. Die Formen von Pilaster, verkröpftem Gebälk und Fenster täuschen eine halbrunde Apsis vor. Die nur eben angedeutete Apsiskalotte darüber ist mit Himmelswolken und Engel-Liturgen in Verehrung der Dreifaltigkeit gefüllt. Über der Altarbekrönung ist eine kleine Tambourkuppel gemalt, diese ist von Wolken durchdrungen. Das lichte Symbol der Dreifaltigkeit - ein Dreieck mit dem Tetragramm – erscheint hier, getragen von Putti.
+
+C1-2 Die anstoßenden zwei Stichkappen werden von Kartuschen mit monochromen Brustbildern allegorischer Figuren eingenommen
+
+Zu Seiten des Altares, neben den plastischen Heiligenfiguren auf hohen Sockeln, raffen Engel einen roten Samtvorhang zur Seite. An dieser Stelle grenzen illusionistische Malerei und reale Architektur mit eigenen dekorativer Stuckformen in gleitendem Übergang aneinander (Abbildung S. 149).
+
+Im Altarraum wirken die Buntfarben – besonders in dem Fresko B - frischer, sie kommen durch die großfigurige Komposition in dem kleinen Raum mehr zur Geltung. Violett und Blauviolett in Kontrast gesetzt zu Ocker und Goldocker bestimmen die Farbigkeit in der Wölbungszone. Im Wandbereich sind es die Steinfarben Grüngrau und Marmorrot, sowie das schwere Samtrot.
+
+
+[[File:Band01_chunk003_p025_img001.jpg|thumb|C und W<sub>2</sub> Die Dreifaltigkeit von Engeln verehrt]]
+
+[[File:Band01_chunk003_p025_img002.jpg|thumb]]
+
+
+ORATORIUM ANGELA MERICI
+
+In dem zum Presbyterium hin durch Pfeilerarkaden geöffneten Oratorium ist an der violettrosa getönten Seitenwand in einem ornamental gerahmten Tondo Angela Merici, die Gründerin der Ursulinenorden, dargestellt.
+
+Eine — imitierte — Puttostatuette auf einer Kapitellkonsole stützt das Porträtbild. Die Attribute des Puttos, eine Tuba als Sinnbild des Ruhmes (Fama) und eine Lilie als Symbol der Reinheit beziehen sich auf die Patronin der Ursulinen.
+
+An der Decke ist eine kleine runde Deckenöffnung gemalt, durch welche ein Putto mit einer Krone zu der Ursuline herabzufliegen scheint.
+
+
+== DER ORGELPROSPEKT ==
+
+
+Die Orgel wird von einer baldachinartigen Draperie - einem in dieser Kirche stets wiederkehrenden Motiv - eingefaßt. Vor dem schweren roten Samt fliegen musizierende Putti, in Grisaillemalerei akzentuiert abgehoben. Die beiden dreiteilig gegliederten Emporenbrüstungen sind mit jeweils drei Augustinusszenen in Grisaillemalerei geschmückt. Hier gesellt sich zur Malerei der Stuck - die Rocaillen sind nicht imitiert, sondern stuckiert. Brokatierte Rocaillekartuschen betonen an den Brüstungen die senkrechte Mittelachse der Orgel.
+
+Zwischen den Brüstungen werden an der einen Emporenunterseite drei stuckgerahmte Gewölbefresken sichtbar. Sie sind der rhythmischen Dreierordnung harmonisch eingefügt. Im Detail müssen sie von der unteren Empore aus jeweils unterhalb des betreffenden Bildes betrachtet werden.
+
+EU1 SCHIFFAHRT DER HL. URSULA Fast die ganze Breite des Bildes wird von dem seitlich herankommenden Segelschiff eingenommen. Ein Ruderer am Bug bringt es mit kräftigem Ruderschlag voran. Die Prinzessin Ursula – in modische Tracht gekleidet – steht aufrecht neben dem Segelmast und hält ein Kruzifix empor. Dicht gedrängt um sie, nehmen zehn vornehme Jungfrauen den Raum des Bootes ein. – Im Hintergrund links wird ein — sehr viel kleiner gezeichnetes - Segelschiff mit einem Ruderer und Jungfrauen sichtbar. Noch zwei weitere Segelmasten deuten das Schiffsgeschwader in Begleitung der hl. Ursula an.
+
+EU2 MARTYRIUM DER HL. URSULA Ein Bogenschütze in ritterlicher Rüstung schießt einen Pfeil auf die an einen Stamm gebundene Prinzessin ab. Zwei weitere Krieger unterstützen den Schützen. Diese ganz im Bildvordergrund wiedergegebene Handlung ist in zwei Gruppen geteilt. Zwischen der betenden Heiligen und den drei Bogenschützen unter einem Baum wird – in den Hintergrund gerückt - die Ermordung der Jungfrauen gezeigt. Die heidnischen Krieger erschlagen und erschießen die Gefährtinnen der hl. Ursula vor der Stadt Köln, die mit einer mächtigen zinnenbewehrten Mauer in der Mitte des Bildes wiedergegeben ist.
+
+EU3 MARTYRIUM EINES RITTERS Diese Szene ist wie die erste kompositionell klar und einfach in ihrer Bildordnung. Die Mitte des Bildes nimmt die aufragende Gestalt der hl. Ursula ein, dicht gefolgt von einer fahnentragenden Jungfrau. Links daneben ein heidnischer Priester mit einer Götzenfigur. Die Heilige wendet sich dem heidnischen Feldherrn, ganz links, zu. Dieser gebietet von seinem Thron aus seinen Kriegern die Tötung eines Ritters. Der christliche Ritter liegt betend, auf den Boden gestreckt zu Füßen der Heiligen. Eine Krone bezeichnet wie bei Ursula die königliche Abstammung. Ein Kriegsknecht zu seinen Häupten schwingt seinen Säbel zum Todeshieb. Gegenüber, ganz an den rechten Bildrand gerückt, schaut ein Krieger, in voller Rüstung, dem Geschehen zu.
+
+Die mittlere Figurengruppe mit Ursula als der hervorragenden Gestalt folgt kompositionell der Grundfigur einer Pyramide. Der im Profil gesehene Feldherr und die Krieger an den Seiten sind dunkelfarbig als Repoussoirfiguren von der zentralen, in hellen, zum Teil leuchtenden Farben gemalten Gruppe abgehoben.
+
+BRÜSTUNGS- UND WANDFRESKEN Die Augustinusszenen (EB1-6, s. Abbildungen S. 154), die ähnlich EU1-3 in erzählerischem Stil vorgetragen werden, sind in schmale breitformatige Bildfelder gesetzt. Ihnen entsprechen gleichformatige, rocaillestuckgerahmte Apostelszenen unterhalb der Fensterbänke im Gemeinderaum und den Oratoriums- bzw. Balkonbrüstungen im Chor. Die Bilder der unteren Emporenbrüstung befinden sich etwa in gleicher Höhe wie die letztgenannten. Die Bilderreihe schmiegt sich wie ein schmales Gurtband an die Wand- und Brüstungsflächen des Raumes. Klar abgehoben davon sind die regelrecht wie Tafelbilder gerahmten Kreuzwegstationen im Gemeinderaum (keine Abbildung).
+
+
+== Ikonographie und Ikonologie ==
+
+
+Der Heilsplan Gottes, die incarnatio verbum Dei, ist der tragende Grundgedanke des malerischen Programmes der Ursulinenkirche von Landsberg. Es ist der dreieinige Gott, der den Ratschluß zur Erlösung faßt und den Heilsplan vollzieht. Die incarnatio verbum Dei wird ganz unter dem trinitarischen Aspekt vorgestellt – der Hauptweihetitel der Kirche gehört der Dreifaltigkeit. Maria und Joseph sind die von Gott zur Erfüllung seines Werkes erwählten Menschen. Josephs Bedeutung wird besonders stark hervorgehoben, die Darstellungen geben seiner Person den Vorrang vor Maria. Joseph ist der Patron des Landshuter Ursulinenklosters, aus dem die ersten Ursulinen 1719 nach Landsberg kamen, Joseph wurde darum auch in Landsberg besonders verehrt.
+
+Das Programm wird in verschiedenen bildlichen Darstellungen der Altäre und der Freskomalerei an Gewölben, Wänden und Brüstungen thematisch entfaltet und zur Anschauung gebracht. Die Darstellungen sind nicht im Sinne einer einfachen Folge konzipiert, vielmehr komplex aufeinander bezogen und untereinander verbunden. Die ikonographische Darlegung muß daher hier die Altarbilder miteinbeziehen, sie kann zwar nur der Reihe nach vorgehen, die thematische Verquickung soll jedoch wenigstens angedeutet werden. Seinen Ausgang nimmt das Inkarnationsprogramm in dem Hochaltarbild Johann Georg Bergmüllers (1748).
+<!-- citation-page-bottom: Band01 p149 -->
+
+<!-- citation-page-top: Band01 p150 -->
+
+[[File:Band01_chunk004_p001_img001.jpg|thumb|EU1 Schiffahrt der hl. Ursula]]
+
+[[File:Band01_chunk004_p001_img002.jpg|thumb|EU<sub>3</sub> Martyrium eines Ritters]]
+
+[[File:Band01_chunk004_p001_img003.jpg|thumb]]
+
+DER RATSCHLUSS DER ERLÖSUNG Christus, bekleidet mit dem Purpurmantel (Hinweis auf die Passion) nimmt das Kreuz aus den Händen Gottvaters und des Heiligen Geistes, in Gestalt eines geflügelten Mannes, entgegen und schickt sich an, die Erlösung der gefallenen Menschheit zu vollbringen; das veranschaulicht die Weltkugel mit der Darstellung der sündigen Stammeltern zu Füßen der Dreifaltigkeit. Der Ratschluß Gottes wird ganz entschieden als ein trinitarisches Geschehen betont durch das kombinierte Dreieck-Kreis-Symbol — es verdeutlicht die Einheit in der Dreiheit der göttlichen Personen -, so wie durch die Komposition der Gruppe der göttlichen Personen als drei männliche Gestalten.
+
+In der gemalten Tambourkuppel (C) erscheint nochmals ein Dreifaltigkeitssymbol mit dem alttestamentlichen hebräischen Tetragramm. Allegorisch gedeutet wird der Ratschluß zur Erlösung durch die plastischen Figuren der Altarbekrönung: an den Seiten Justitia und Pax, in der Mitte darüber Veritas. Psalm 84, Vers 11–12 »Misericordia et veritas obviaverunt sibi; Iustitia et pax osculatae sunt. – Veritas de terra orta est, et iustitia de caelo prospexit«, wird speziell mit der Inkarnation als Erlösungs-thema in Zusammenhang gebracht (Bernhard von Clairvaux, Predigt zum Fest der Verkündigung, s. LCI Bd 2 s.v. Geburt Christi, Sp. 89). Veritas ist als die Veritas Domini in Vorrangstellung – in der Mitte zwischen den Dreifaltigkeitssymbolen – besonders nachdrücklich auf den trinitarischen Ratschluß bezogen. Misericordia fehlt als eigene Figur, sie ist vielleicht durch Christus selbst verkörpert.
+
+C<sub>1-2</sub> ALLEGORISCHE FIGUREN In den Stichkappen neben der vorgetäuschten Apsiskalotte sind zwei Figuren wiedergegeben, deren Deutung Schwierigkeiten bereitet. Die Figur in C2, ausgezeichnet durch ein Barett auf dem Kopf, ein gesiegeltes Schriftstück und einen Schlüsselbund in Händen, wird von Hugo Schnell als Karl Borromäus, einen Förderer der Ursulinen, gedeutet. Doch unterscheidet sich diese Figur von der dicht daneben porträthaft wiedergegebenen Angela Merici sehr: Es ist keine bestimmte Tracht (Amtstracht) dargestellt, auch das Geschlecht der Figur ist indifferent. - Ähnlich ist die Figur in C1 aufgefaßt. Der Figurentypus verweist auf die Darstellung allegorischer Personifikationen. Bei C1 sind die be-
+<!-- citation-page-bottom: Band01 p151 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=2 -->
+<!-- citation-page-top: Band01 p152 -->
+
+<!-- header: TECH -->
+
+<!-- header: LANDSBERG AM LECH -->
+
+
+[[File:Band01_chunk004_p002_img001.jpg|thumb]]
+
+
+
+[[File:Band01_chunk004_p002_img002.jpg|thumb]]
+
+
+zeichnenden Attribute, ein flammendes Herz, Strahlenkranz um das Haupt, Bogen und Köcher mit Pfeilen.
+
+Zu den Personifikationen am Hochaltar, Justitia, Veritas und Pax, ist bei den Stichkappenfiguren keine direkte thematische Verbindung zu finden. Eher läßt sich zu den bisher noch nicht erwähnten Putti mit Gebetbuch oder Heilssakrament hin
+
+Ein Beichtzettel des 18. Jh. von Hl. Kreuz Augsburg zeigt in Kupfer gestochen ähnliche, benannte Symbole: zwei Schlüssel mit Bischofsstab und Inful=»Potestas Solvendi« und »Potestas Ligandi«, ein lichtstrahlendes, flammend durchschossen, = »Superemineat Charitas« – »In Cruce Salus« (Privatbesitz Gregor Martin Lechner O.S.B., Stift Göttweig, Niederösterreich). Das Liebessymbol des Herzens steht offenbar für die Liebe Christi bis zum Kreuzestod – für die erbarmende, heilende Liebe, die der Christ im Bußsakrament erfährt, und umgekehrt auch für die antwortende Liebe des Christen, die bereit ist für eine Läuterung durch das Leid.
+
+In C2 ist allem Anschein nach die Binde- und Lösegewalt der Kirche zu sehen: Schlüssel, bzw. Schlüsselbund, Bischofsinsignien, bzw. Barett und versiegeltes Schreiben stehen für die institutionelle Amtsgewalt. – In C1 sind vergleichbare Liebessymbole gegeben, flammendes Herz mit Bogen und Pfeilen; vielleicht soll durch die spezifische Auswahl in der Ursulinenkirche allegorisch auch auf die Liebe der hl. Ursula angespielt werden, die den ihr vorausgesagten Martyrertod (durch Pfeil und Bogen) in Liebe auf sich nahm.
+
+Die beiden Seitenaltarbilder und das Altarraumfresko B stehen ikonologisch in direktem Zusammenhang mit den Darstellungen des Hochaltarbereiches: Die Altarbilder zeigen die Erfüllung des Ratschlusses auf Erden: die Verkündigung an Maria (Lc 1,26–38) – das traditionelle Bild zur Veranschaulichung des Inkarnationsgeheimnisses – und die Weisung des Engels an Joseph, Maria, die durch den Hl. Geist empfangen hat, zu sich zu nehmen (Mt 1,18–20), beides biblisch-historische Szenen.
+
+B DIE INKARNATION JESU Das Deckenfresko greift das biblisch-historische Thema der Altäre in der Form eines Andachtsbildes auf. Theologische Gedankengänge, mystische Betrachtung und symbolische Darstellung durchdringen sich in der nachtridentinischen Zeit - gezeigt.
+
+Die zentrale Gestalt des Bildes ist das göttliche Kind. Alle übrigen Figuren sind auf es hin geordnet. Die Geist-Taube, genau oberhalb des Hauptes des Kindes — in der senkrechten Bildachse — wiedergegeben, veranschaulicht Familie hin geordnet. Die Gesten der ausgebreiteten Arme des Kindes, Josephs, Mariens und Gottvaters sind »redend« aufeinander bezogen.
+
+Die Inkarnationsdarstellung ist zugleich ein Joseph gewidmetes Devotionsbild. Joseph, der Nährvater Jesu, trägt den ihm von Gottvater anvertrauten eingeborenen Sohn. Maria dagegen ist in Umkehrung des traditionellen Bedeutungsverhältnisses Joseph in dienender Haltung untergeordnet.
+
+Der aus der apokryphen Vermählungsszene stammende grünende Stab, wiedergegeben in der Hand eines Puttos weist symbolisch auf die göttliche Auserwählung Josephs hin. (Zur Ikonographie der aus den Heiligen-Familien-Darstellungen entwickelten Josephsbilder vgl. LCI, Bd 7 s.v. Joseph von Nazareth, Sp. 215–18; Quellen zu den apokryphen Berichten s. Sp. 210 f.)
+
+Auf Joseph beziehen sich die alttestamentlichen Darstellungen in Ba und Be. Die Patriarchen Abraham und Isaak (Ba) und König David (Be) vertreten das von Gott erwählte Menschengeschlecht, den Stammbaum wie ihn Matthäus (Mt 1,1-17) bis zu Joseph hin darlegt: »Liber generationis Iesu Christi filii David, filii Abraham.« (Mt 1,1). Von Joseph heißt es: »Iacob autem genuit Ioseph virum Mariae, de qua natus est Iesus, qui vocatur Christus.« (Mt 1,16). Abraham ist der vornehmste Träger der messianischen Verheißung (vgl. Gen 12,1-3), David vertritt das Königsgeschlecht, dem im Nathanorakel die Prophezeiung des Messias zuteil wurde (2 Sam 7,12-16). Die Gestalten des Alten Testamentes sind zugleich typologisch auf das Heilswirken Gottes im Neuen Testament bezogen. Abraham opfert seinen Sohn Isaak (Gen 22), so wie Gottvater seinen Sohn opfert, der geopferte Isaak ist der Typus Christi, des Gekreuzigten, des Opferlammes. Der Opfergedanke verbindet sich mit der Liturgie, mit dem Meßopfer, das am Altar zelebriert wird.
+
+König David präfiguriert Christus als den Rex Judaeorum, als den König der Welt. Beide typologischen Vorbilder haben eine große Tradition, sie sind geradezu klassisch in der christlichen Ikonographie.
+
+Schließlich sind in diesen Zusammenhang die vier Evangelisten sinnvoll eingefügt; ihr Bericht zeugt von der Offenbarung Gottes in der Menschwerdung Jesu.
+
+W1 DER GNADENSTUHL Das Wandfresko am Chorbogen hat das vollbrachte Erlösungswerk Christi zum Thema. Wieder ist es eine trinitarische Darstellung. Gottvater mit dem toten Sohn im formalen Typus der Pieta, eng verbunden mit ihnen die Geist-Taube. Für diese Pieta-Sonderform des Gnadenstuhls ist von G. Troescher die Bezeichnung »Not Gottes« eingeführt worden. - Die Arma Christi in Händen der Puttostatuetten weisen zusätzlich auf das real-irdische Leiden, das Christus auf sich genommen hat, hin. - Das mystische Andachtsbild steht in bezug zum Altarraum, dort wird das geschichtlich vollzogene Opfer in der liturgischen Meßfeier wiederholt (vgl. hierzu Wolfgang Braunfels, Die Heilige Dreifaltigkeit, Düsseldorf 1954, S. 41 f.).
+
+A DIE URSULINEN VON LANDSBERG IN DER HEILSGESCHICHTE Die göttlichen Personen thronen in diesem Bild als Weltregenten auf dem Himmelsthron, die Geist-Taube schwebt vor dem Dreifaltigkeitssymbol. Gottvater weist mit seinem Zepter auf das Wort FIAT, das auf der Weltkugel in weißen Lichtbuchstaben sichtbar wird. Christus-Salvator deutet mit seinem Zeigefinger ebenfalls darauf hin. Von der Geist-Taube fallen Lichtstrahlen auf die Buchstaben. Es ist das Fiat des dreieinigen Gottes zum Heilswerk, das im Ratschluß, in der Inkarnation, im Opfertod Christi und schließlich in der Heilsgeschichte der ganzen Menschheit seine Erfüllung findet.
+
+Der Thron Gottes ist nach Vorstellungen in der Apokalypse des Johannes gestaltet, besonders Apoc 4,2–5 »...e ecce sedes posita erat in caelo ... et iris erat in circuita sedis . . . et septem lampades ardentes ante thronum, qu sunt septem spiritus Dei.« Die sieben brennenden Ampeln sind im Bild auf die Thronlehne versetzt. Die Wahl der apokalyptischen Motive deutet vielleicht die vorherbestimmte Vollendung des Heilswerkes Gottes im eschatologischen Sinn an.
+
+Maria und Joseph sind als Fürbitter der Ursulinen gezeigt Joseph ist in besonderem Maße dem Kloster verbunden Er hat seinen Platz oberhalb des Klostergebäudes und vermittelt gleichsam die Gnadenstrahlen Gottes zu diesem nin.
+
+Die Ursulinen, fürsorglich um ihre Schülerinnen besorgt stellen sich in ihrer Erziehungsaufgabe dem göttlicher Schutz und Segen anheim. Das Kloster der Ursulinen ist in die Heilsgeschichte Gottes einbezogen, von daher erfährt das Wirken der Schulschwestern seine Legitimation. – Die Prägung dieser ikonologischen Vorstellungen ist ganz bezeichnend für das spätere 18. Jh. (vgl. z. B. Andechs, s. LKr. Starnberg, oder Dießen und Schongau, s LKr. Weilheim-Schongau).
+
+Die Frauen, in weltlicher zeitgenössischer – meist vornehmer – Tracht, repräsentieren wohl Mütter der Ursulinen-Zöglinge, Wohltäterinnen oder auch Laienschwestern der Ursulinen, in jedem Fall Frauen, die das Werk der Ursulinen unterstützen. Die Figuren sind im Detail der Trach-ten porträtartig genau wiedergegeben. Es ist jedoch kein bestimmtes historisches Ereignis – wie z. B. beim älteren Bergmüller in Dießen die Aufnahme des Kindes Mechthild in das Kloster St. Stephan (Abb. S. 41) - wiedergegeben. Die traditionelle Annahme, das Mädchen in der Mitte stelle die Tochter der Oberin Maria Ursula Katharina, geb. Gräfin Leiblfing, verw. Freifrau von Pruggberg dar, die erst als erwachsene Frau zu den Ursulinen als Pensionärin zog und, wie auch ihre Mutter, ihr Vermögen dem Kloster vermachte, entbehrt im Bild jeden Hinweises szenischer oder heraldischer Art.
+
+Der Schild des einen Engels enthält die Ordensabzeichen der Ursulinen, das IHS mit dem Herz Jesu, den drei Nägeln des Kreuzes und dem Kruzifix – dieses Zeichen kommt in abgewandelter Form auch im Stiegenhaus vor und ist variiert auch heute noch gültiges Ordenszeichen der Ursulinen. Die Buchstabenfolge C. S. VR.(ligiert)L. ist wohl in die Worte »Congregatio Sanctae Ursulae« aufzulösen. Die Ligatur VR ist bei den Ursulinen noch heute ein gebräuchliches Zeichen für Ursula. Das eigens noch folgende L. gehört ebenfalls zum Namen Ursula, zugleich gibt es das bei den Ursulinen beliebte Anagramm »Ursula-Laurus« (Material zur Aufschlüsselung der Ordenszeichen stellte uns freundlicherweise das Ursulinenkloster St. Joseph in Landshut, NB, zur Verfügung).
+
+Dem Hauptfresko des Gemeinderaumes, in dem das Heils wirken der Dreifaltigkeit in nachbiblischer Zeit, in der Heilsgeschichte der Welt bis zu ihrem historischen End veranschaulicht wird, sind in den Kartuschen (A1-4) sinn gemäß die vier großen Kirchenväter des Abendlandes zu geordnet.
+
+Die Folge der schmalen Wandfresken in Chor und Gemeinderaum schließlich ist den Aposteln gewidmet, sie zeigt die Martyriumsszenen (vgl. Schnell, KKF Nr. 861 S. 8, 11 f.). Die Apostel sind symbolisch als die zwölf Säulen der Kirche Christi in das Programm einbezogen sinngemäß zu den vier Evangelisten und den vier Kirchenlehrern gehörig.
+
+EU1-3 ST. URSULA-SZENEN Die Gewölbefresken der Orgelempore sind der Ordensheiligen St. Ursula gewidmet. Die erzählerischen Bilder geben wieder:
+
+EU1 die Schiffahrt der britischen Prinzessin und ihres Geleites während ihrer langen Pilgerfahrt von der britischen Insel den Rhein hinauf über die Alpen bis nach Rom. Am Bug ihres Schiffes ist ein Wappen angebracht, das auch im Stiegenhaus wiederkehrt (siehe dort). —
+
+EU2 Es folgt das Martyrium der Heiligen auf ihrer Rückreise, das sie durch Heiden, die Köln belagern, erleidet. - EU3 Die dritte Szene, das Martyrium eines christlicher Ritters, im Beisein der hl. Ursula, ist von den bekannter Ursulazyklen her nicht geläufig. Dargestellt ist vielleicht der Tod des fürstlichen Bräutigams der hl. Ursula, der seiner Braut auf ihrer Heimreise entgegenkam, die Taufe erhielt und wie St. Ursula das Martyrium bei Köln erleidet Von ihm berichten die »Revelationes S. Elisabethae Schoenaugiensis de SS. Ursula et Sociabus«. Er wird nach einer im Mittelalter in Köln aufgefundenen Grabinschrift
+<!-- citation-page-bottom: Band01 p153 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=3 -->
+<!-- citation-page-top: Band01 p154 -->
+
+[[File:Band01_chunk004_p001_img001.jpg|thumb|Orgelempore: EU1-3 Ursula-Szenen EB1-6 Augustinus-Szenen]]
+
+Aetherius genannt (vgl. AASS Octobris Tomus 9, 21. 10. für Aetherius S. 167–69).
+
+Tui Metherius S. 101 Ooj. Der Feldherr und seine Soldaten (auch in EU2) tragen römische Rüstungen und als Waffen Säbel und Lanze, bzw. Säbel und Pfeil und Bogen. Die Krieger sind also nicht als Orientalen, als »Hunnen« charakterisiert, so daß wohl die Legendenversion zugrunde liegt, die Julius Maximus, der sich selbst zum römischen Kaiser erhoben hatte, als den heidnischen Feind der hl. Ursula und ihres Gefolges angibt (vgl. Ribadeneira-Hornig, Bd 2, S. 621 f.).
+
+EB1-6 ST. AUGUSTINUS-SZENEN Die sechs Bilder an den Emporenbrüstungen ehren Augustinus, der als Stifter einer Ordensregel, welche auch die Kongregationer der Ursulinen für sich übernommen haben, angesehen wird. Aus seiner Lebensgeschichte werden vier Szenen dargestellt: untere Empore links EB1 die Bekehrung des Augustinus im Garten; rechts EB3 Bischof Ambrosius tauft Augustinus (beides berichtet Augustinus in seiner Confessiones); obere Empore links EB4 Augustinus wäscht als Einsiedler-Mönch einem Pilger – Christus – die Füße (legendär); rechts EB6 Augustinus wird zum Bischof von Hippo geweiht.
+
+Die mittleren Bilder zeigen Bischof Augustinus als den Kirchenlehrer: Mitte unten EB2 Augustinus sinnt über die Dreifaltigkeit nach und sieht den Knaben am Meer Wasser schöpfen (legendär); Mitte oben EB3 Augustinus in der Studierstube beim Schreiben; er hält sein in Liebe entflammtes Herz empor (zur Augustinus-Ikonographie vgl. das Programm von Rottenbuch, s. LKr. Weilheim-Schongau). Direkt darunter ist – in Stuck gebildet – das dornenumwundene Herz Jesu dargestellt. Die Liebe des Erlösers Jesu zu den Menschen und die Liebe des Heiligen zu Gott werden anschaulich aufeinander bezogen. Die Herz-Jesu-Darstellung bezieht sich zudem auf einen Weihetitel der Kirche.
+
+ANGELA MERICI Im Oratorium der Ursulinen wird die Ordensgründerin Angela Merici (*1470 oder 1474, †1540, Ordensgründung 1535, Kanonisation erst 1807) durch eine porträthafte Darstellung geehrt. Sie ist in der schwarzen Ursulinen-Ordenstracht wiedergegeben; in dem aufgeschlagenen Buch ein Wahlspruch Ama te / Deum / Super / Omnia, darüber ein Kruzifixus. Im Hintergrund ist eine Vision Angelas angedeutet: Engel schweben in einer Lichtbahn vom Himmel auf und nieder. Gemeint ist die Vision im Jahr 1497 oder 1498 zu Brudazzo. Angela Merici sah die Jakobsleiter, junge Mädchen, geleitet von Engeln, stiegen diese zum Himmel hinan. Die Vision gab den Anstoß zur späteren Ordensgründung (Biblioteca Sanctorum, Bd 1, Sp. 1191–95). Literatur siehe S. 156
+{{End}}

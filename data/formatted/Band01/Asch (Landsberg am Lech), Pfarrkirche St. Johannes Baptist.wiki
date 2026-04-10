@@ -1,0 +1,93 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=22
+|Originalseitenbis=22
+|Lemma=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist
+|Typ=Sakral
+|Ort=Asch (Landsberg am Lech)
+|davor=Adelshausen (Weil), Kapelle St. Martin
+|danach=Beuerbach (Weil), Kapelle im Holz Maria Eich
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p22 -->
+
+<!-- header: ASCH -->
+
+<!-- header: BEUERBACH -->
+
+Pfarrkirche, Gemeinde Fuchstal, Diözese Augsburg; z. Z. der Ausmalung Herrschaft Asch, die im Besitz des adeligen Damenstifts St. Stephan in Augsburg war, welches auch das Präsentationsrecht ausübte
+
+'''Patrozinium:''' St. Johann Baptist
+
+'''Zum Bauwerk:''' Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 unter Pfarrer Johann Georg Einßlin (1707-41) und unter der Herrschaft der Eva Maria Theresia Freifrau von Boodman, Äbtissin in St. Stephan, barock erweitert, wobei das LHs neu aufgeführt wurde. Baumeister und Stukkator war Joseph Schmuzer. - Saalbau zu 4 Jochen mit eingezogenem dreiseitig geschlossenem AR zu 2 Jochen; im W Doppelempore
+
+'''Autor und Entstehungszeit:''' Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden. Der Autor ist unbekannt, dürfte stilistisch auch kaum zu ermitteln sein, da die Deckenbilder in ihrem schwer verrestaurierten Erhaltungszustand nur noch wenig von der barocken Substanz erkennen lassen. Allenfalls in B lässt sich von der Komposition her vermuten, dass der Autor ein nicht ungeschickter und verhältnismäßig fortschrittlicher Maler war.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs stark abgeflachte Tonne AR verschliffenes Stichkappengewölbe, im O abgemuldeter Rahmen: Stuckprofil
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 10,10 m; 4,80 × 5,30
+
+B Höhe 10,10 m; 5,80 × 5,30
+
+C Höhe 10,10 m; 4,80 × 5,30
+
+D Höhe 8,70 m; 4,50 × 3,20
+
+Erhaltungszustand und Restaurierungen: Restaurierungen 1848 durch Osterried, 1912 durch Kolmsperger und Fa. Haugg, 1960/61 durch H. Pfohmann und Fa. Lang. Bei der Restaurierung 1848 wurden bis auf das Fresko über der Orgel (A) sämtliche Deckenbilder durch zeitgemäße Darstellungen von dem Schraudolph-Schüler A. Osterried ersetzt. 1961 wurde die ursprüngliche Malschicht freigelegt und ergänzt. Am stärksten in Mitleidenschaft gezogen war das schwer beschädigte AR-Bild (D). Daneben zeigt C beträchtliche Übermalungen. Aber auch A, B und 1–6 sind überarbeitet und in ihrer Gesamtwirkung sehr flau und unklar. Keine Abbildungen.
+
+
+== Bildabfolge und Inschriften ==
+
+
+A Vermählung Mariens mit der Taube des Geistes; Himmelsszenerie mit Engeln, die marianische Symbole tragen.
+
+Inschriftkartusche zwischen A und B: PER / MARIAM / AD / JESUM.
+
+B Huldigung an die Immaculata; einansichtige Darstellung einer nach oben offenen zentralen Scheinarchitektur, durch deren fünf Öffnungen seitlich die Vertreter der vier Erdteile (verunklärt), in der Mitte der geistlichen und weltlichen Stände (mit Porträts) hereinblicken. Inschrift auf den Fenstersockeln EX HOC / BEATAM / ME / DICENT - OMNES / GENERATIONES / LUCA IU 48 (= Luc 1.48).
+
+C Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens. Inschrift am Chorbogen: ECCE AGNUS DEI/ECCE QUI TOLLIT / PECCATA MUNDI (= Jo 1,29; neu).
+
+D Heiligenhimmel mit apokalyptischem Lamm; u. a. Johann Baptist und Evangelist, Apostel, Vertreter verschiedener männlicher und weiblicher Orden, heilige Jungfrauen. Wegen des Fehlens bzw. der Unklarheit der Attribute im einzelnen nicht identifizierbar. Inschriftband östlich: VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT apoca (= Apoc 14,4).
+
+D<sub>1</sub> Augustinus, D<sub>2</sub> Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum. Die beiden fehlenden Kirchenväter Ambrosius und Hieronymus befanden sich vermutlich in den seitlichen, jetzt marmorierten Kartuschen.
+
+Medaillons an der N- und S-Seite der LHs-Decke
+
+1 Zacharias erfährt den Namen des Johannes, Buchinschrift: Johan/s Es.
+
+2 Johannes als Knabe in der Wüste, von einem Engel verpflegt
+
+3 Johannes predigt den Pharisäern
+
+Taufe Jesu
+
+5 Verhaftung des Johannes
+
+6 Enthauptung des Johannes
+
+Die Ikonographie der Deckenbilder teilt sich in die Verehrung Johannes des Täufers (Patrozinium und Bruderschaft) und der Maria Immaculata, deren Fest in der Pfarrei besonders gefeiert wurde (siehe Hopp), sowie in die Verehrung spezifischer Ordensheiliger, was mit der Besitzherrschaft des Damenstifts St. Stephan zusammenhängt.
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 155
+
+Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 19-39. Hopp, Jakob, Pfründe-Statistik der Diözese Augsburg, Augsburg 1893, Bd 2, S. 198 f.
+
+Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen Kunstdenkmale), München 1960, S. 63.
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22–23), München 1971, S. 266
+{{End}}

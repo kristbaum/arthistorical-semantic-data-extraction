@@ -1,0 +1,68 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=23
+|Originalseitenbis=24
+|Lemma=Beuerbach (Weil), Kapelle im Holz Maria Eich
+|Typ=Sakral
+|Ort=Beuerbach (Weil)
+|davor=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist
+|danach=Beuern, Pfarrkirche St. Michael
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Kapelle im Holz Maria Eich, Gemeinde Weil, Pfarrei Beuerbach (von Epfenhausen vikariert), Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Benediktbeuern das Präsentationsrecht auf die Pfarrei, Gericht Landsberg
+
+'''Patrozinium:''' Schmerzhafte Mutter Gottes
+
+'''Zum Bauwerk:''' Rundbau von 1686 mit nach W gerichtetem Altar, im O ein querrechteckiger Anbau von 1824
+
+'''Autor und Entstehungszeit:''' Der Maler der Deckenmalereien ist nicht überliefert, eine Zuschreibung ist wegen des schlechten Erhaltungszustandes nicht versucht worden. Die Rocailleformen der Stuckdekoration und das erst im späten 18. Jh. als Deckenbild häufiger behandelte Thema der Kreuzabnahme weisen in das 7./8. Jahrzehnt des 18. Jahrhunderts.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachkuppel
+
+Rahmen: A Stuckprofil; A1-4 und W1-2 Rocaillekartuschen in Stuck; W<sub>3-4</sub> gemalte Rocaillekartuschen
+
+Technik: Fresko; A polychrom, A1-4 monochrom-ocker Maße: A Höhe 5,90 m, (Stich 1,40); ∅ 2,40
+
+Erhaltungszustand und Restaurierungen: 1957 Restaurierung durch S. Hausinger. Das polychrome Mittelbild A weist wieder beträchtliche Feuchtigkeitsflecken auf. Die originale Deckenmalerei ist durch Feuchtigkeit stark beschädigt, daher wirken Himmel und irdischer Schauplatz so flächig und monoton und die Figuren plump. Die Kontur- und Binnenzeichnung ist großenteils zerstört oder erneuert, vor allem erneuert ist die Zeichnung der monochromen Bilder A<sub>1</sub>–<sub>4</sub>.
+
+[[File:Band01_chunk001_p012_img001.jpg|thumb]]
+
+beschädigt, daher wirken Himmel und irdischer Schauplatz so flächig und monoton und die Figuren plump. Die Kontur- und Binnenzeichnung ist großenteils zerstört oder erneuert, vor allem erneuert ist die Zeichnung der monochromen Bilder A<sub>1</sub>–<sub>4</sub>.
+
+Beschreibung und Ikonographie
+
+A KREUZABNAHME (vgl. Mt 27, 57–60 u. Par.) Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein. Zwei Jünger tragen Jesus in ihrer Mitte, der dritte steht auf der ans Kreuz gelehnten Leiter und beugt sich zu Jesus hinab. Von rechts her eilen zwei Frauen herbei, sie werden von einem aufgeschichteten Erdhügel am Bildrand weitgehend verdeckt. - Die Gruppe der Kreuzabnahme ist einem Dreieck eingeschrieben, die Figuren sind flächig wiedergegeben, das Leinentuch betont kompositionell Geschlossenheit und Flächigkeit der Figurengruppe.
+
+A1-4 Die monochromen, rundum angeordneten Fresken sind ungefähr ebenso groß wie das Mittelbild. A1 Abschied Jesu von Maria, seiner Mutter (nicht biblisch, vgl. LCI, Bd 1, Sp. 35-37). Hinter der Gruppe Christi und Mariens erhebt sich eine triumphale Torbogenarchitektur, rechts von dieser weidet eine Herde von 12 Schafen, welche symbolisch die Apostel darstellen. – A3 Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle. – A4 Der reuige Petrus in der Einöde kniend; der Hahn zeigt seine Verleugnung Christi an (Mt 26, 73-75). -A2 Die Büßerin Maria Magdalena geißelt sich im Anblick von Kreuz und Totenschädel.
+
+Die Trauer um den toten Herrn und die reuevolle Buße angesichts seines Todes bestimmen als Grundgedanken die Auswahl der Szenen. Kreuzabnahme und Grablegung sind zwei unmittelbar zusammenhängende Szenen der Passionsgeschichte. Als Andachtsbildgruppe sind zwei Marienszenen dargestellt: der Abschied Jesu von Maria und die plastische Pietà im Altar. Der reuige Petrus gehört der Passionsgeschichte an. Die biblische Maria Magdalena ist Zeugin der Grablegung Christi (Mc 15,47), die Legende berichtet von ihrem Büßerleben nach Christi Tod (vgl. Ribadeneira-Hornig, Bd 2, 22.7., S. 80–82).
+
+In den Wandfresken sind volkstümliche Heilige wiedergegeben: seitlich vom Altar die Eltern Marias, Joachim mit Hirtenschippe und zwei Opfertauben auf einem Buch (W1) und Anna, ihre Tochter Maria lehrend (W2); im östlichen Raumteil die beiden Bauernheiligen, Notburga mit Sichel und Ährenbündel (W3) und Wendelin vor einem Kruzifix kniend, im Hintergrund der pflügende Engel der Legende (W4). Von einer barocken Substanz dieser Bilder kann nicht mehr die Rede sein (keine Abbildungen).
+<!-- citation-page-bottom: Band01 p23 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=13 -->
+<!-- citation-page-top: Band01 p24 -->
+
+<!-- header: BEUERBACH -->
+
+<!-- header: BEUERN -->
+
+
+[[File:Band01_chunk001_p013_img001.jpg|thumb|Joseph Schmuzer und A1-4 Szenen zur Pa]]
+
+
+Literatur Braun-Augsburg, Bd 1, S. 385 KDB I OB (1), S. 516.
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S. 403.
+
+{{End}}

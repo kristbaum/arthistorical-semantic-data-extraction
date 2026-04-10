@@ -1,0 +1,639 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=625
+|Originalseitenbis=626
+|Lemma=Ortsregister (Band 1)
+|davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|danach=Ikonographisches Register (Band 1)
+}}
+
+== Ortsregister ==
+
+
+Unter den Ortsnamen sind die weltlichen und geistlichen Rechtsinstitutionen und Rechtsträger - Landgerichte, Pflegämter, Hofmarken und Herrschaften sowie Klöster, Stifte, Kollegien etc. - eigens aufgeführt. Die hierunter erfaßten Seitenzahlen verweisen auf die historischen, z. Z. der Ausmalung bestehenden administrativ-rechtlichen Verbindungen.
+
+Kunstsammlungen sind unter ihrem Standort aufzusuchen. Kursivzahlen verweisen auf die Abhandlung eines Objektes
+
+
+{| class="wikitable"
+|-
+| Adelshausen 19-21, 62
+|-
+| Adelsried 248
+|-
+| Admont 465, 466
+|-
+| Aich 367-372
+|-
+| Aitrang → St. Alban
+|-
+| Aldersbach 469
+|-
+| Altdorf bei Kaufbeuren 520
+|-
+| Altenerding 508
+|-
+| Altomünster 337
+|-
+| Ammerhöfe → St. Nikolaus
+|-
+| Andechs 32, 43, 47, 153, 289–316, 598 f., 621
+|-
+| Andechs, Benediktinerabtei 164, 184, 231, 232, 254, 289, 326, 362
+|-
+| Antdorf 205, 373–75
+|-
+| Antwerpen 278
+|-
+| Arnried 376 f.
+|-
+| Asch 22
+|-
+| Asch, Herrschaft 167
+|-
+| Aschering 116, 263, 317 f., 335
+|-
+| Aufkirchen 332, 360
+|-
+| Augsburg 78, 152, 554, 578
+|-
+| Augsburg, Orte der Diözese 19, 22, 23, 25, 28, 30, 38, 48, 54, 62, 64, 66, 74, 78, 82, 86, 91, 95, 101, 102, 105, 109, 114, 118, 120, 126, 132, 144, 158, 162, 164, 167, 169, 172, 178, 179, 180, 184, 191, 199, 202, 205, 208, 212, 217, 220, 224, 229, 230, 231, 232, 234, 240, 241, 247, 248, 252, 254, 255, 266, 275, 280, 282, 289, 317, 319, 322, 326, 327, 335, 338, 342, 344, 347, 352, 355, 358, 362, 367, 373, 376, 378, 381, 387, 393, 397, 403, 404, 407, 415, 419, 426, 428, 433, 437, 439, 442, 444, 446, 450, 470, 472, 475, 502, 506, 508, 513, 517, 525, 530, 532, 543, 545, 548, 549, 553, 560, 563, 567, 590, 595, 600, 602
+|-
+| Augsburg, Damenstift St. Stephan 22, 167
+|-
+| Augsburg, Hochstift 30, 162, 280, 381, 393, 426, 446, 475, 543
+|-
+| Augsburg, St. Moritz 105
+|-
+| Augsburg, Städtische Kunstsammlungen 38, 300, 327
+|-
+| Bad Aibling 508
+|}
+
+
+Bad Hibling 500 | Baiershofen 157, 189 | Bauerbach 378–80, 403 | Beinberg → Maria Beinberg | Benediktbeuern 184, 256, 302, 375 | Benediktbeuern, Benediktinerabtei 19, 231, 202, 224, 229, 247, 252, 253, 439, 442, 506, 530 | Berg 332, 513. → Kempfenhausen | Berlin, Kunstbibliothek 132 | Bernbeuren 381–92, 393, 395, 408, 426, 428 | Bernried, Augustinerchorherrenstift 199, 378, 404, 433, 548 | Beuerbach 19, 23 f. | Beuern 25–27, 33 | Bischofsried 28 f., 268, 275 | Blumenthal, Kommende 275 | Bonn 25 | Bremen, Kunsthalle 327 | Brühl 25 | Buch 342. → Schlagenhofen | Buchendorf → Gauting | Burggen 381, 384, 393–402, 397, 426, 475 | Denklingen 30–36, 37, 241, 242, 280, 525 | Dettenschwang 91, 178 | Deutenhausen 376, 403 | Diemendorf 319–321 | Dienhausen 37 | Dietramszell 256. → St. Leonhard bei D. | Dillingen 132 | Eberfing 376. → Arnried | Ebersberg 373 | Eching 48–53, 59, 327 | Eglfing 433, 548. → Obereglfing, → Untereglfing | Egling 19, 54–63, 95, 100 | Ellighofen 64 f., 162, 280 | Ellwangen 132 | Epfach 543 | Epfenhausen 91, 202, 204 | Eresing 66–72, 91, 96, 221 | Eresried 19, 62 | Erling-Andechs 289, 326, 362. → Andechs | Erpfting 64, 74–77, 111, 114, 451, 560 | Ettal 43, 59, 95, 395, 425 | Ettal, Benediktinerabtei 54, 62, 95, 373, 437 | Fiecht in Tirol 78 | Finning → Unterfinning | Forst → St. Leonhard im Forst | Freising 558 | Freising, Diözese → München-Freising, Erzdiözese | Friedberg, Stadt 78 | Frieding 362 | Fuchstal 22, 162, 280. → Welden | Fürstenfeld, Fürstenfeldbruck 82, 326, 493 | Füssen, Benediktinerabtei 37, 381, 393, 407, 426, 475, 502, 525, 545 | Gauting 337 | Geltendorf 78–81, 114, 266. → Wallenhausen | Geretshausen 180 | Gossensass in Tirol 488 | Greifenberg 82–85 | Greifenberg, Herrschaft 25, 48, 82 | Grünsink 312, 322–25, 335, 362 | Habach, Kollegiatstift 530 | Hadorf 326 | Hagenheim 86 | Haunshofen 378, 379, 404–06. → Bauerbach | Hausen bei Geltendorf 19, 62, 87–90, 91, 92 | Hechenwang 19, 62, 91–94 | Heinrichshofen 95–100, 223 | Herrenchiemsee 493 | Herrsching 362. → Widdersberg | Hirschberg in Schlesien 141 | Hofstetten 86 | Hohenfurch 387, 407–09, 428 | Hohenpeißenberg 410–14 | Hohenschäftlarn 360, 361 | Holzhausen am Ammersee 91, 101, 202 | Holzhausen bei Buchloe 102–04, 248, 433 | Hörmannshofen 397 | Huglfing 437, 513 | Hurlach 105–08 | Iffeldorf 415–21 | Igling, Herrschaft 74, 169, 248. → Oberigling, → Unterigling | Indersdorf 500 f. | Ingolstadt 463 | Inning 327–31, 332, 342, 472 | Issing 74, 109–13, 255 | Jedelstetten 74, 114–17 | Kaltenberg, Hofmark 114 | Kaufering 118–25, 236 | Kaufering, Hofmark 118 | Kempfenhausen 57, 332 f., 344
+<!-- citation-page-bottom: Band01 p625 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=14 -->
+<!-- citation-page-top: Band01 p626 -->
+
+Kirchberg 422–25  
+Kirnberg 426 f., 428  
+Klosterbruck 466, 467  
+Klosterlechfeld 172  
+Kohlgrub 403  
+Königsdorf 449  
+Kreuzberg 428–32  
+
+Laimering 404  
+Landsberg am Lech, 74, 126–61, 164, 189, 202, 231 f. → Pöring, → Reisch  
+Landsberg am Lech, Hl.-Geist-Spital 234  
+Landsberg am Lech, Jesuitenkolleg 114, 132, 239, 282  
+Landsberg am Lech, Landgericht 19, 23, 54, 62, 78, 86, 87, 101, 109, 158, 164, 178, 179, 180, 184, 189, 202, 208, 224, 229, 232, 234, 247, 252, 444  
+Landshut, Kloster Seligenthal 327, 342  
+Landstetten 317, 335 f.  
+Langenmosen 82  
+Leeder 64, 162 f.  
+Leeder, Herrschaft 162, 280  
+Lengenfeld 164–66, 232  
+Leutstetten 337  
+Lichtenberg, Hofmark 220  
+
+Maria Beinberg 82  
+Marnbach 403  
+Mattsee 466  
+Mauerstetten 387  
+Mering 82  
+München 47, 263, 289, 295, 298, 308, 309, 311, 476, 559  
+München, Augustinereremitenkloster 360  
+München, Bayerisches Nationalmuseum 191  
+München-Freising, Orte der Erzdiözese 332, 337, 360, 410, 422, 476, 506  
+München, Staatl. Graphische Sammlung 532  
+Münster 25  
+Murnau, Gericht 373, 437, 513  
+
+Neapel 76, 560  
+Neustift bei Brixen in Südtirol 493, 496, 520  
+
+Oberalting, Oberalting-Seefeld 355. → Seefeld  
+Oberammergau 54  
+Oberdießen 167 f., Obereglfing 248, 433–36  
+Oberhausen 437 f.  
+Oberighing 109–71  
+Obermeitingen 172–77, 230. → Schwabstadl  
+Obermühlhausen 178, 548  
+Oberottmarshausen 404  
+Obersöchering <i>439–43</i>, 563  
+Oderding 444 f.  
+Osterzell 74  
+Ottobeuren 395  
+
+Pähl 109, 187, 263, 319, 378, 404, 446–49  
+Palermo 559  
+Paris, Louvre 263  
+Peißenberg 412. → Aich  
+Penzberg → St. Johannisrain  
+Penzing 179, 202, 252. → Untermühlhausen  
+Percha 332  
+Perchting 335, 338–41. → Landstetten  
+Petzenhausen 180–83  
+Pflugdorf, Pflugdorf-Stadl 109, 184–88, 231, 255. → Stadl, → Vilgertshofen  
+Philadelphia, Academy of Fine Arts 517  
+Pitzling 189  
+Pöcking 317, 335  
+Polling 188, 208, 450–69  
+Polling, ehem. Augustinerchorherrenstift 114, 266, 274, 317, 335, 338, 367, 376, 403, 437, 444, 450, 513, 563  
+Pöring 157, 189 f.  
+Pössing 189  
+Prem 470 f., 600  
+Prittriching 191–98, 282. → Winkl  
+
+Rauhenlechsberg, Pfleggericht 199, 231, 367  
+Reichling 180, 199–201  
+Reisch 86, 91, 202–04  
+Reisgang 475  
+Rettenbach 426  
+Rieden am Ammersee 205  
+Riegsee 373  
+Rom 559, 622  
+Romenthal 120, 205–07, 216, 236  
+Rosshaupten 428  
+Rott 208–11, 217. → St. Ottilien bei R.  
+Rottenbuch 154, 410, 476–501  
+Rottenbuch, Augustinerchorherrenstift 172, 410, 412, 422, 476, 532  
+Rottenburg 132  
+
+Sandau, Sandau-Untermühlhausen 252 f.  
+Sandizell 82  
+St. Alban 397  
+St. Georgen 28, 205, 212–16, 240  
+St. Johannisrain 120, 506 f.  
+St. Leonhard bei Dietramszell 59, 327  
+St. Leonhard im Forst 508–12, 595  
+St. Nikolaus 513–16  
+St. Ottilien bei Rott 217–19  
+St. Ottilien bei Windach 66  
+St. Pölten, Niederösterreich 566  
+Schäftlarn 104, 184, 361  
+Schäftlarn, Prämonstratenserabtei 220, 360  
+Scheuring 220–23  
+Schlagenhofen 342 f.  
+Schlehdorf 82, 112, 212  
+Schlehdorf, ehem. Augustinerchorherrenstift 506  
+Schmiechen, Herrschaft 95  
+Schongau 78, 153, 410, 517–24  
+Schongau, Landgericht 199, 517, 543  
+Schrobenhausen 82  
+Schwabbruck 34, 241, 525–29  
+Schwabhausen 114, 224–29  
+Schwabniederhofen 543  
+Schwabstadl 230  
+Schwifting 202  
+Seefeld 312, 335, 344 f., 362  
+Seefeld, Herrschaft 322, 327, 338, 342, 344, 352, 355  
+
+Stadl 178, 184, 231, 234, 240, 255, 263. → Pflugdorf  
+Stams in Tirol 28, 266, 268, 271, 275, 282  
+Starnberg 327, 347–51  
+Starnberg, Landgericht 337, 347, 358, 360  
+Steinebach 326, 352–54  
+Steingaden 42, 47, 102 f., 104, 146, 155, 428, 532–42  
+Steingaden, ehem. Prämonstratenserabtei 102, 230, 428, 470, 532, 600, 602  
+Steinhausen 378  
+
+Tannenberg 543–47. → Kirnberg, → Reisgang  
+Thaining 94, 120, 178, 234–39, 240, 504  
+Trauchgau 543  
+Türkenfeld 76, 560  
+Türkheim 169  
+Tutzing 567, 570, 574  
+Tutzing, Hofmark 319  
+Unering 352, 355–57  
+Unterbeuern 240  
+Unterbrunn 358  
+Unterdießen 241–46, 525. → Oberdießen  
+Unterdießen, Herrschaft 64, 241  
+Untereglfing 178, 548  
+Unterfinning 247  
+Unterhausen 549–52  
+Unterigling 248–51, 433  
+Untermühlhausen 202, 252 f.  
+Utting 101, 254  
+
+Vilgertshofen 255–65, 575, 597  
+
+Walleshausen 28, 114, 266–74, 275, 282, 421, 451, 456  
+Wangen 360 f.  
+Weil 19, 23, 180, 224, 229, 275–79, 282  
+Weil, Hofmark 275  
+Weilheim 76, 305, 342, 437 ff., 553–66, 621  
+Weilheim, Landgericht 326, 378, 403, 404, 433, 439, 442, 446, 548, 549, 553, 563  
+Welden 280 f.  
+Wessling 322  
+Wessobrunn 74 f., 188, 217, 231, 302, 310, 492 f., 567–99  
+Wessobrunn, ehem. Benediktinerabtei 86, 109, 126, 172, 178, 180, 255, 263, 415, 419, 508, 533, 567  
+Westendorf 275  
+Widdersberg 312, 362 f.  
+Wies 263, 600–23  
+Wildsteig 422. → Kirchberg  
+Wilparting 508  
+Wilten in Tirol 47, 78, 520, 560  
+Windach 91. → St. Ottilien bei W.  
+Windach, Hofmark 66  
+Winkl 282–86  
+Wörth, Hofmark 342  
+Wörthsee → Steinebach  
+Würzburg 78, 560  
+
+
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=627
+|Originalseitenbis=629
+|Lemma=Personenregister (Band 1)
+|davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|danach=Ikonographisches Register (Band 1)
+}}
+
+Kursivschrift verweist auf die in den behandelten Landkreisen vertretenen Male  
+
+Adelaide von Savoyen, Kurfürstin 311  
+Albert, Johann Wenceslaus, Maler 376–77, 444–45  
+Albrecht III., Herzog von Bayern 289, 297 f., 300, 309  
+Albrecht V., Herzog von Bayern 497  
+Albrecht J., Restaurator 30  
+Alembert d', Jean Baptiste 464  
+Alexander Siegmund, Pfalzgraf zu Neuburg und Bischof von Augsburg 381  
+Allezer, Matthias, Maler 506–7  
+Altomonte, Bartolomeo, Maler 465 f.  
+Amort, Eusebius 467  
+Anna von Braunschweig, Gemahlin Albrechts III. 298  
+Anwander, Malerfamilie 87  
+Anwander, Franz Anton 87, 266  
+Anwander, Johann (Vater) 87, 191–98  
+Anwander, Johann (Sohn) 87  
+Anwander, Johann Baptist 19–21, 62–63, 87–90, 91–94  
+Anwander, Johann Christoph 87  
+Asam, Cosmas Damian, Maler 326, 434, 463, 483  
+Asam, Hans Georg, Maler 554  
+Atterer, Andreas, Pfarrvikar 502  
+Auerbacher, Johann Baptist, Pfarrer 167  
+Aumann, Vitus, Pfarrer 118  
+Baader, Johann Baptist, Maler 74–76, 109–13, 114–17, 164, 187–88, 208–11, 231, 263–65, 317–18, 335–36, 338–41, 446–49, 450–69, 549–52, 560–62, 563, 590–94  
+Baader, Matthias, Baumeister 456, 459  
+Baar, Maximilian Johann von, Pfarrer 327  
+Baldauf, Ignaz, Maler 82–85, 112  
+Bauer, Andreas, Restaurator 563  
+Baumer, Alexander, Pfarrer 172  
+Bayerlacher, Matthias Johann Nepomuk, Pfarrer 25  
+Bedatta, Pfarrvikar 54  
+Beer, Michael II., Baumeister 224  
+Benedikt XIII., Papst 552  
+Bergmüller, Künstlerfamilie 144, 169  
+Bergmüller, Dominikus, Kunstschreiner 169  
+Bergmüller, Johann Andreas, Maler 169–171  
+Bergmüller, Johann Baptist, Maler 144–156  
+Bergmüller, Johann Georg, Maler 25, 47, 104, 144, 146, 149, 153, 155, 169, 212, 266, 275, 488, 532–42, 622  
+
+Faber, Johann Georg, Pfarrer 355  
+Failler, Martin, Maler 178, 548  
+Feichtmayr, Franz Xaver, Stukkator 212, 220, 226, 347  
+Ferdinand Maria, Kurfürst von Bayern  
+Fesenmayr, Johann Kaspar, Pfarrer 103  
+Fichtell, Benedikt 20  
+Fichtell, Jakob 20  
+Filosi, Joseph, Kupferstecher 468  
+Finkenzeller, Restaurator 524  
+Finsterwalder, Ignaz, Stukkator 30  
+Finsterwalder, Pontian, Stukkator 254  
+Fischer, Arno, Restaurator 216  
+Fischer, Gaudenz, Pfarrvikar 437  
+Fischer, Johann Georg, Baumeister 162, 381  
+Fischer, Johann Michael, Baumeister 38, 54, 205, 355  
+Fischer, Joseph, Stukkator 387  
+Fischer, Norbert, Restaurator 60, 62, 120  
+Fischhaber, Wilhelm, Pfarrvikar 199 f.  
+Forchner, Franz Xaver, Maler 252–53  
+Förg, Simon, Pfarrer 446  
+Fronske, Manfred, Restaurator 459  
+Füll, Freiherrn auf Windach 66  
+Wilhelm Rupert von 72  
+Georg von 298  
+Funk, Felix, Pater 312  
+Gaibler, Georg Aloysius, Maler 280–81  
+
+Guitter, Georg Moystus, Wasser 200–01  
+Gannemacher, Johann, Baumeister 393  
+Gassner, Hyazinth, Abt von Steingaden 102, 428, 532, 600, 602  
+Gaulrapp, Franz Seraph, Maler 326  
+Gege, Felix, Abt von Schäftlarn 220  
+Gering, Abt von Wessobrunn 569, 571 f.  
+Giesinger, Dominikus, Pfarrer 446  
+Gießl, Leonhard Matthias, Baumeister 48, 327, 347  
+Gigel, Johann, Stukkator 91  
+Giordano, Luca, Maler 76, 560  
+
+Gloggner, Ignatius, Pfarrvikar 266  
+Glück, Hans, Baumeister 444  
+Goggel (Goggl), Engelbert, Abt von Wessobrunn 109, 208, 217, 595  
+Gravelot, H., Kupferstecher 465  
+Greither (Greiter), Elias d. Ä., Maler 305, 553  
+Greither, Johann, Maler 305, 342 f., 553–60  
+Greuner, Johann, Maler 305, 342 f., 553–60  
+Grill, F. Restaurator 247  
+Gruber, Lorenz, Pfarrer 48  
+Gruber, Makarius, Pfarrvikar 220  
+Gumpp, Johann Anton, Maler 311  
+Günther, Bernhard, Bruder des Matthäus 468  
+Günther, Jakob, Vater des Matthäus 412  
+Günther, Matthäus, Maler 20, 78–81, 180, 217–19, 326, 367–72, 410–14, 463, 468–69, 476–501, 508–12, 517–22, 532, 560, 595–97  
+
+Hackenmüller, Franz, Restaurator 178  
+Hafner, Ämilian, Abt von Füssen 525  
+Hagenreiner, Johann Joachim, Pfarrer 1  
+Haid, Kupferstecher 25  
+Hainz, Josef, Maler 506  
+Hartmann, Restaurator 78, 525  
+Hartwig, Propst von Dießen 40  
+Haugg, Restaurator 22, 167  
+Hausinger, Sebastian, Restaurator 23, 87, 180, 266  
+Heel, Johann, Maler 381–87, 387–92, 407–09, 426–27, 428–32  
+Heigl, Joseph Martin, Maler 358–59, 508–12  
+Herz, Johann, Pfarrer 387 f.  
+Hirsauer, Magdalena 252  
+
+<!-- citation-page-bottom: Band01 p627 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=15 -->
+<!-- citation-page-top: Band01 p628 -->
+
+Hotter, Restaurator 64, 352  
+Hueber, Johann Joseph Anton, Maler 30-36, 241-46, 525-29  
+Huwyler, Jakob, Restaurator 199, 202, 220  
+
+Innozenz XI., Papst 57  
+
+Jänker, Johann Georg, Pfarrer 517  
+Jaud, Martin, Maler und Restaurator 41  
+Jaud, Sebastian, Maler 180-83, 199-201, 217, 219  
+Johann Franziskus, Bischof von Konstanz und Augsburg 189  
+Joseph, Landgraf von Hessen-Darmstadt und Fürstbischof von Augsburg 30, 169  
+Joue, Jacques de la, Kupferstecher 39  
+
+Karg, Herkulan, Propst von Dießen 28, 38, 46, 191, 205  
+Keller, Joseph Anton, Maler 543  
+Keller, Lorenz, Pfarrer 234  
+Kirchgrabner, Franz Anton, Baumeister 54, 199  
+Kirzinger, Malerfamilie 322, 373  
+Kirzinger, Aloys, Maler 373  
+Kirzinger, Franz Seraph, Maler 120-25, 205-07, 216, 234-39, 322-25, 373-75, 504  
+Kirzinger, Johann 322-25, 373  
+Kleinhans, Franz Xaver, Baumeister 30  
+Koch, Matthäus, Pfarrer 373  
+Kögl, Restaurator 95, 191  
+Kohle, Restaurator 66  
+Köhler, Joachim Anton, Pfarrer 74, 76  
+Kolmsperger, W., Restaurator 22, 127, 144  
+Korber, Gregor Norbert, Ritter von 466  
+Kornemann, Franz Xaver, Pfarrer 78  
+Kösel, Johann Georg, Pfleger 381, 388  
+Kößler, Beda, Pfarrvikar 109  
+Kratz, Sebastian, Pfarrer 553, 559  
+Kraut, A., Restaurator 426  
+Krönninger, Karl, Restaurator 327, 410  
+Kuen, Franz Martin, Maler 66-73, 95-100, 220-23  
+Kurz, Friedrich, Pfarrvikar 470  
+
+Lang, Joseph, Restaurator 22, 470, 502  
+Lederer, Johann Georg, Maler 102-04, 248-51, 433-36, 523-24  
+Lederer, Tobias Benno, Maler 87  
+Left, Matthias, Baumeister 543  
+Leiblfing, Maria Ursula Katharina, Oberin der Ursulinen in Landsberg 153  
+Lettner, Georg, Baumeister 360  
+Lohner, Tobias, Pater 361  
+Lory, Maria, Wiesbäuerin 600, 602  
+Loth, Ulrich, Maler 559  
+Luidl, Johann, Bildhauer 160  
+Luidl, Lorenz, Bildhauer 129  
+Luzenberger, Johann Michael, Pfarrer 224  
+
+Magges, Joseph, Maler 337  
+Maierle, Anton, Restaurator 393  
+Mairhofer, Restaurator 397  
+Mangold, Maler und Restaurator 379, 404  
+Mangold, Joseph, Maler 379, 404-06  
+Mangold, J. J., Restaurator 444  
+
+Manninger, Karl, Maler und Restaurator 472  
+Manz, Joseph Ignaz, Pfarrer 549  
+Marx, Franz Joseph Ferdinand, Pfleger 360  
+Maulbertsch, Franz Anton, Maler 466 f.  
+Mauser, Kaspar, Pfarrer 25  
+Max Emanuel, Kurfürst von Bayern 169, 311, 358  
+Max III. Joseph, Kurfürst von Bayern 347  
+Maximilian I., Kurfürst von Bayern 412, 559  
+Mayer, Simon, Benefiziat 158  
+Mayr, Jacob, Propst von Herrenchiemsee 361  
+Mayr, Marian II., Abt von Steingaden 470, 532, 600, 602  
+Meissonier, Juste-Aurèle, Kupferstecher 39  
+Merani, Ignazio, Baumeister 132, 289  
+Merck, Johann Michael, Stukkator 208  
+Merlen, Jonas van, Kupferstecher 468  
+Merz → Mörz, Joseph Anton  
+Miller, Matthias, Pfarrer 86  
+Mittermayr, Ulrich, Abt von Wessobrunn 263, 415, 508  
+Monogramme C. S. → Schäffler, Caspar I.  
+P. → Bidermann, Ignaz J.  
+M. → Mangold, Joseph  
+SMC (SMG?) → Mangold  
+Moosmüller, Meinrad, Abt von Andechs  
+Mörz, Joseph Anton, Maler 64-65, 162-63  
+Mösner, Ambrosius, Propst von Rottenbuch 422  
+Mutter, Restaurator 114  
+Natter, Michael, Baumeister 76, 118, 120, 254  
+Niedermayr, Leonhard, Pfarrvikar 54  
+Nigg, Benedikt, Baumeister 393  
+
+Oettl, Lorenz, Pfarrer 202  
+Osterried, Franz, Maler 22  
+Oswald, Albert, Propst von Polling 266, 367, 444  
+Oswald, Andreas, Maler 107  
+Oswald, Patritius, Propst von Rottenbuch 476, 493, 498-500  
+Ott, Joseph Matthias, Maler 312-16, 322-25, 335, 334-46, 362-63  
+Ott, Maria-Anna 303  
+Ott, Sebastian 303  
+Ottinger, Johann Georg, Pfarrer 446  
+
+Pacher, Benedikt II., Abt von Ettal 54  
+Pachinger, Magnus, Abt von Benediktbeuer 506  
+Paulus, Johann Balthasar, Dekan 248  
+Pautner, Benedikt, Abt von Füssen 407  
+Peirlacher, Andreas, Pfarrer 338  
+Peltzer, Werner, Restaurator 266, 604  
+Pemler (Pembler), Freiherrn zu Hurlach und Leutstetten 105, 337  
+Franz Joseph von 105  
+Sebastian von 105  
+Theresia von 105  
+Pentenrieder, Pfleger von Starnberg 350  
+
+Perfall, Freiherrn zu Greifenberg 25, 82  
+Emanuel Maximilian von 25, 48, 82  
+Franz Ferdinand Maria von 82  
+Perkhofer, Wolfgang, Propst von Rottenbuch 412  
+Petri, A., Restaurator 144  
+Pfetten, Freiherrn von 179  
+Pfohmann, Hans, Restaurator 22, 205, 525, 563  
+Pidermann → Bidermann, Ignaz  
+Piechl, Peter Paul, Pfarrer 327  
+Piechner, Heinrich, Pfarrvikar 367  
+Pienzenau, Georg von 410, 412  
+Pirchinger, Johann Baptist von 332, 334  
+Pirchinger, Maria Clara, geb. Couplet 332  
+Plank, Claudius, Propst von Polling 451  
+Pöckh, Michael, Pfarrer 232  
+Portenschlager, Johann Baptist, Pfarrer 358  
+Pracht, Magnus, Abt von Steingaden 428  
+Prasser, Clemens, Propst von Rottenbuch 174, 410, 412, 422, 476, 491, 497–501  
+Praun, Georg, Maurermeister 553  
+Prévost, Benoît Louis, Kupferstecher 465  
+Prugger, Nikolaus, Maler 126, 419  
+
+Rambeck, Maurus, Abt von Andechs 308  
+Ramis, Bernhard, Maler 470-71, 532, 600-01, 622  
+Ranzinger, Restaurator 87, 256  
+Rauscher, Thaddäus, Pfarrer 404  
+Reinhardt, Franz, Maler und Restaurator 74, 76, 167  
+Resch, Maurermeister 378  
+Resler, Ignatius, Baumeister 144  
+Rigl, Vitus Felix, Maler 224-29  
+Romperg, Ignaz, Rektor des Jesuitenkollegs in Landsberg 132  
+Rost, Leopold Freiherr von, Abt von Füssen 407  
+Roth, Toni, Restaurator 82  
+Ruhens Peter Paul Maler 30, 978, 558  
+
+Sang, Johann Georg, Maler 352-54, 355-57  
+Sappel, Lorenz, Baumeister 164, 184, 289, 517  
+Schäffler, Johann Caspar, Maler 86, 91-94, 101, 179, 202-04, 232  
+Schalck, Michael, Maler 506-07  
+Schallhammer, Beda, Abt von Wessobrunn 415, 508, 573, 590  
+Scheffler, Christoph Thomas, Maler 132-40  
+Scheffler, Felix Anton, Maler 141-43  
+Scheichmantel, Restaurator 78  
+Schilcher, Bauer in Kirnberg 426  
+Schmid, Joseph, Pfarrer 30  
+Schmid, Xaver, Restaurator 158  
+Schmuzer, Franz, 256  
+Schmuzer, Franz Xaver, Stukkator 180, 410, 476, 532, 590  
+Schmuzer, Georg, Baumeister und Stukkator 450  
+Schmuzer, Johann, Baumeister und Stukkator 118, 255, 523, 567  
+Schmuzer, Joseph, Baumeister und Stukkator 22, 25, 74, 91, 109, 118, 275, 367, 407, 410, 419, 446, 476, 508  
+Schmuzer, Matthias Stukkator 393  
+
+Schöpf, Johann Adam, Maler 25-27, 64  
+Schöpf, Johann Nepomuk, Maler 25  
+Schött, Franz Anton, Pfarrer 241  
+Schrattenbach, Johannes, Abt von Andechs 362  
+Schraudolph, Johann von 22  
+Schropp, Mang Anton, Maler 381, 384  
+Schütz, Bernhard, Abt von Andechs 164, 184, 289 f., 304, 306  
+Schütz, Nikolaus, Baumeister 234  
+Schwarz, Benedikt, Abt von Wessobrunn 595  
+Schweiger (Schwaiger), Urban Johannes, Pfarrvikar 415, 419  
+Eder, Ignaz Wilhelm, Pfarrer 220  
+Edlmayr, Restaurator 444  
+Seeholzer, Thassilo, Pfarrvikar 376  
+Seidl, Ollegarius, Chorherr 459, 469  
+Selig, J. A., Maler 240  
+Selig, Theresia 87  
+Suter, J. B., Stukkator 381  
+Spöttl, Johann Conrad, Pfarrer 162  
+Spurner, Sigmund 355  
+Stallhofer, Restaurator 205  
+Stegmüller, Franz Xaver, Maler und Restaurator 410, 524  
+Steigenberger, Gerhoh, Chorherr 459, 463 f., 466 f., 469  
+Steiner, Joseph Anton, Dekan 322  
+Steinle, Barthlmä, Bildhauer 553  
+Stiller, Michael, Baumeister und Stukkator 169  
+Stoixner, Franz Xaver, Pfarrer 433  
+Straub, Johann Baptist, Bildhauer 337  
+Strehle, Ludwig, Restaurator 379  
+Stuber, Kaspar Gottfried, Maler 355  
+Stuber, Maria Theresia 126  
+
+Thalheimer, Carl Joseph, Maler 158-61  
+Thoma, Leonhard, Maler 25  
+Thurn und Taxis, Maximilian Carl, Graf 241  
+Tizian, Vecellio, Maler 465  
+Töpsl, Franziskus, Propst von Polling 114, 274, 317, 338, 355, 376, 444, 450 f., 456, 459, 463-69  
+Törring-Seefeld, Grafen zu Seefeld  
+Adelhaid Felizitas, geb. von Canossa 332, 355  
+Anton Clemens Gaudenz 322, 327, 338, 344  
+Clemens Joseph Gaudenz 300, 302  
+Lucretia, geb. Angelelli 300, 302  
+Max Cajetan 352, 355  
+Trischberger, Balthasar, Baumeister 327, 338  
+Triva, Antonio, Maler 131, 308-11, 599  
+
+Vanloo, Carle, Maler 464  
+Vieregg, Freiherrn zu Tutzing 319, 549  
+Vogt, Erwin, Restaurator 191, 231  
+Vogt, Max, Restaurator 410  
+Völkel, Oswald, Maler und Restaurator 232  
+Vorhölzer, Karl, Restaurator 169, 231  
+Wachsenstein, Maria Anna Nepomucena, Aloisia, Oberin der Ursulinen in Landsberg 144, 155  
+Wagensail, Franz Klemens, Pfarrer 252  
+Waibl, Michael, Pfarrer 317, 335  
+Walch, Anton Joseph, Maler 169, 172-77, 280  
+Wanckmiller, Franziskus, Pfarrer 525  
+Wanner, P., Maler 319-21  
+Wassermann, Franz Anton, Maler 517, 522  
+Wassermann, Georg, Maler 397-402  
+Weigl, Franz, Pfleger 347, 350  
+Weinmiller, Benedikt, Pfarrer 407  
+Weiß, Herkulanus, Propst von Polling 444  
+Weiß, Johannes, Pfarrer 533, 559  
+Weiß, Leonhard, Abt von Wessobrunn 255, 263, 567, 570-75, 597  
+Welf VI. 476, 533, 537 f.  
+Welf VII. 537 f.  
+Welz, Andreas 475  
+Weyland, I. G., Maler 62  
+Wiedemann, Joachim, Abt von Steingaden 428  
+
+Wimmer, Hans, Restaurator 410  
+Wink, Christian Thomas, Maler 48-53, 54-62, 327-31, 332-34, 344, 347-51, 449, 472-74  
+Winkler, Mathias, Pfarrer 361  
+Winter, Johann Georg, Maler 212, 302  
+Wirsching, Sebastian, Restaurator 240  
+Wolcker, Malerfamilie 282  
+Wolcker, D., Maler 282  
+Wolcker, Johann Georg, Maler 28, 167, 266-73, 275-79, 282-86  
+Wolcker, Matthias, Maler 167-68  
+Wolcker, Petrus, Maler 282  
+Wolff, Alban, Restaurator 144  
+Wolff, Berthold II., Propst von Dießen 205, 212, 472  
+Wolff, Johann Andreas, Maler 107  
+Wörle, Benedikt, Pfarrer 563  
+
+Zäch, Joseph, Maler 255-63, 575, 579-99  
+Zanchi, Antonio, Maler 311  
+Zeiler, Gallus, Abt von Füssen 502  
+Zeiller, Franz Anton, Maler 384, 393, 502-05  
+Zeiller, Johann Jakob, Maler 43, 415-18, 502  
+Zick, Johann, Maler 428  
+Ziegler, Franz Anton, Pfarrer 48  
+Zimmermann, Künstlerfamilie  
+Zimmermann, Dominikus, Baumeister, Stukkator, Maler 66, 144, 155, 157-58, 160, 189-90, 517, 602  
+Zimmermann, Franz Michael 602  
+Zimmermann, Johann Baptist, Maler und Stukkator 43, 104, 184-87, 255-63, 289-307, 358, 361, 378, 602-23  
+Zitter, Franz Joseph, Maler 212-15  
+Zitter, Johann Joseph 212  
+Zöpf, Thassilo, Stukkator 184, 317, 327, 451, 456, 458 f.  
+Zwinck, Franz Joseph, Pfarrer 66, 70, 72  
+Zwinck, Malerfamilie  
+Zwinck, Franz Seraph, Maler 54, 59, 422-25  
+Zwinck, Johann Joseph, Maler 513-16  
+{{End}}

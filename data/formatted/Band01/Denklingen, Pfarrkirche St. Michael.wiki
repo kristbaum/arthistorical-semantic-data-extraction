@@ -1,0 +1,180 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=30
+|Originalseitenbis=36
+|Lemma=Denklingen, Pfarrkirche St. Michael
+|Typ=Sakral
+|Ort=Denklingen
+|davor=Bischofsried, Maria-Schnee-Kapelle
+|danach=Dienhausen, Kapelle St. Magnus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p30 -->
+
+<!-- header: DENKLINGEN -->
+
+<!-- header: DENKLINGEN -->
+
+Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung im Besitz des Hochstifts Augsburg, von dem auch das Präsentationsrecht ausgeübt wurde
+
+
+'''Patrozinium:''' St. Michael
+
+
+'''Zum Bauwerk:''' Brand der mittelalterlichen Kirche 1668. 1765/66 Neubau anstelle eines provisorischen Baues unter Pfarrer Joseph Schmid (1761-82). Baumeister war Franz Xaver Kleinhans, Stukkator Ignaz Finsterwalder. Inschrifttafel über dem N-Portal: Unter dem Pfarrer Joseph Schmid / unter dem Baumeister Johannes Kleinhans aus Tirol / ist dieß Gotteshaus / im Jahre 1766 / erbauet worden. - Einfacher, weiter Saal zu vier Jochen mit im O und W angeschobenen Vorjochen mit abgerundeten Ecken; Pilastergliederung; im W Doppelempore; annähernd quadratischer, eingezogener Chor mit anschließender, segmentförmiger Altarnische
+
+'''Auftraggeber:''' Joseph Landgraf von Hessen-Darmstadt und Fürstbischof von Augsburg (1740-68); Wappen am Chorbogen
+
+'''Autor und Entstehungszeit:''' Signatur am O-Rand von B: A: 1767. JAH (ligiert) ueber inven: et pinx: = Johann Joseph Anton Hueber, der spätere Akademiedirektor in Augsburg
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A und B Flachtonne mit Stichkappen, C Flachkuppel mit Pendentifs
+
+Rahmen: A und B Stuckprofil, teilweise von Rocaillen überspielt, C ornamentierter, teilweise vergoldeter Stuckrahmen, 1–10, C<sub>1</sub>–4 Rocaillekartuschen
+
+Technik: Fresko; A, B, C polychrom, 1-10, C<sub>1-4</sub>, EB<sub>1-</sub> zweifarbig grün-karmin
+
+Maße: A Höhe 12,10 m; 4,40 × 7,15 B Höhe 12,10 m; 15,40 × 9,50 C Höhe 11,90 m: 8,70 × 8,20
+
+Erhaltungszustand und Restaurierungen: Restaurierungen 1902 durch J. Albrecht und 1956/57 durch A. Dasser. Ausgebesserte Risse und mit Kupferschrauben befestigte Partien in A, B, C; einzelne Wasserflecken. Übermalungen in A. Die Figur des Michael in C ist augenscheinlich erneuert. Der älteren Literatur ist zu entnehmen, daß die Darstellung an dieser Stelle mehrmals geändert wurde, eine leuchtende Wolke und eine Michaelsfigur wechselten einander ab (Fürst 1880, S. 58 und Hauge 1993, Nr. 90)
+
+
+== Beschreibung ==
+
+
+A WUNDER AM MONTE GARGANO Das Fresko über der Orgelempore hat seine Basis im Westen. In einer weiten, verlassenen, baumbestandenen Hügellandschaft spielt die Wunderszene: Der Hirt wird von seinem eigenen Pfeil getroffen; er hält den Bogen noch in der Hand, während er niederstürzt. Bei ihm sind friedlich weidende Tiere. Links - im Mittelgrund des Bildes - erscheint im Ausgang einer Höhle ein Rind. In der Tiefe der Landschaft erblickt man eine Bittprozession mit Kreuzträgern und mitziehendem Bischof, dahinter eine Stadt und am Horizont ein Gebirge. In den Wolken erscheint der Erzengel Michael von anderen Engeln begleitet; er trägt als Attribut einen Schild mit der Inschrift QUIS / UT / DEUS.
+
+Die Landschaft, bei deren Darstellung auf die Schrägansicht von unten keine Rücksicht genommen wurde, erstreckt sich extrem weit in die Tiefe. Die eigentliche Darstellung spielt auf der vordersten Rampe, ein räumlich distanzierendes Repoussoir oder eine in das Bild gewandte Vordergrundsfigur fehlen. Der Landschaftsboden besteht aus mehreren bildparallel laufenden Hügelrampen, deren räumlich ungenaue Position zueinander durch Bäume und Buschwerk kaschiert wird. Reizvoll ist die ungewöhnliche
+
+
+[[File:Band01_chunk001_p016_img001.jpg|thumb|B Triumph Michael]]
+
+
+
+[[File:Band01_chunk001_p016_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p31 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=17 -->
+<!-- citation-page-top: Band01 p32 -->
+
+<!-- header: DENKLINGEN -->
+
+
+[[File:Band01_chunk001_p017_img001.jpg|thumb|A Wunder am Monte Gargano]]
+
+
+Landschaftstiefe und die dichte Stimmung der dargestellten Natur. Die einzelnen Bestandteile der Landschaft sind nicht mehr als kulissenartige Versatzstücke, die Träger landschaftlicher Stimmung – in der Deckenmalerei des Rokoko wurde so allerdings oft eine sehr dichte, wenn auch in bestem Sinn artifizielle Atmosphäre geschaffen -, sondern der Reiz der Landschaftsdarstellung liegt hier in ihrem Erscheinen als reales, zusammenhängendes Ganzes, als Stimmungsraum, dessen »Natürlichkeit« bezaubert. So ist auch die Farbigkeit der Landschaft, ihre sehr differenzierten Grün- und Brauntöne, nicht mehr Hintergrund darauf erscheinender Lokalfarben, sondern ein Wert für sich, der auf die Bunt-Akzentuierung durch das Gewand des Hirten unter Umständen verzichten könnte.
+
+Konventioneller Bestandteil des Bildes ist die Erscheinung des hl. Michael in den Wolken, auf einer Wolkenbank, die sich an den Rändern zu höchst natürlichen, dem weiten Landschaftshimmel zugehörigen Wolken auflöst, so dass ihre räumliche Zuordnung auf das Geschehen im Vordergrund verunklärt wird.
+
+Interessant ist der Vergleich mit dem gut zehn Jahre vorher entstandenen Wunder am Monte Gargano in der Wallfahrtskirche zu Andechs (s. LKr. Starnberg). Er veranschaulicht prägnant die Unterschiede in der Deckenmalerei zwischen dem mittleren und dem späten 18. Jahrhundert.
+
+B TRIUMPH MICHAELS Das die drei östlichen Langhausjoche überspannende Deckenbild ist – bis auf eine kleine felsige Erdscholle am östlichen Bildrand – eine reine Himmels- und Wolkenszenerie in einseitiger Darstellung. Die Komposition ist in fünf übereinanderliegenden querverlaufenden Schichten aufgebaut, deren Helligkeit sich östlich und westlich entspricht und sich zur Mitte hin steigert. Am dunkelsten sind der stürzende Engel am westlichen Bildrand und die Felsenscholle mit dem Höllenfeuer am östlichen, ferner entspricht die Gruppe Gottvaters und der Engel jener der stürzenden Verdammten. Licht und Platzierung innerhalb der Gesamtkomposition machen den Erzengel Michael zum beherrschenden Bildgegenstand. Er erscheint in der Mitte in einer Zone hellsten Lichts, auf einer Wolke stehend, mit auffliegendem Gewand und mächtigen Flügelschwingen, auf dem Haupt den Helm, in der Linken den Schild, in der Rechten das Flammenschwert. Umgeben und unterstützt von anderen Engeln stürzt er die abtrünnigen Geister ins höllische Feuer. (Mit den ihn an beiden Bildseiten flankierenden großen Engeln verwendet Hueber das gleiche Kompositionsprinzip wie in der Moses-Aarongruppe in C: die Hervorhebung einer Gestalt durch zwei symmetrisch nach vorn gezogene Figuren.) Die Gestalt Gottvaters, der inmitten von Engeln mit Zepter und Weltkugel auf einer Wolke thront, ist dagegen eine Randfigur, abgedrängt in eine – im Verhältnis zur hellen Bildmitte – Dunkelzone, auch als Person isoliert, d. h. nicht im Zusammenhang mit der Hl. Dreifaltigkeit stehend. Außergewöhnlich ist, dass an seinem Platz nicht das geringste Licht aus den Wolken bricht. Traditionell war die höchste göttliche Erscheinung zwar nicht unbedingt an zentraler Stelle, aber doch an dem hellsten Ort des Bildes dargestellt, gesteigert durch das Gnadenlicht, das von der göttlichen Erscheinung ausging bzw. sie umgab. Im Denklinger Fresko fehlt die Auszeichnung durch das Licht. Eine weitere bemerkenswerte Einzelheit ist die Farbe bei der Gewandung Gottvaters: Weiß und Blau. Seine traditionellen Farben in der Deckenmalerei des 18. Jh. sind Gelb und Violett.
+
+Die düstere gewaltsame Handlung des Engelsturzes kommt in dem anschaulichen Charakter des Bildes wenig zum Ausdruck. Die Gesamtkomposition in ihrem schichtweisen Aufbau, den geordneten Symmetriebezügen wirkt spannungslos und eher ruhig, undramatisch ist auch die Farbigkeit mit lichten und besonders im Mittelteil sehr delikten Himmels- und Wolkentönen, mit kühlen und süßen Lokalfarben — Rosa, helles Grün, helles Blau, helles Violett. Spannung und Dramatik äußern sich nur im Detail – in den ganz auf eine Gebärde konzentrierten Körpern der strafenden Engel etwa oder in der Gruppe der Verdammten – einem Knäuel verschlungener, sich aufbäumender Leiber, deren Extremitäten fächerartig in die Luft ragen. Der Vergleich gerade dieser Gruppe mit dem 1759 entstandenen Fresko zum gleichen Thema in Beuern (J. A. Schöpf) zeigt jedoch deutlich, wie sehr Schöpf noch in der barocken Tradition (Rubens) steht, während Hueber die inhaltliche Aussage zugunsten der klaren, kühlen dekorativen Form reduziert.
+
+
+[[File:Band01_chunk001_p017_img002.jpg|thumb|C Zug der Israeliten durch die Wüste und C1-4 Kirchenväter]]
+<!-- citation-page-bottom: Band01 p33 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=18 -->
+<!-- citation-page-top: Band01 p34 -->
+
+zitiert. Was in Denklingen an klassizistischer Tendenz im Ansatz vorhanden ist, zeigt in geradezu perfektionierter Form Huebers dreißig Jahre später entstandene Ausmalung der Kirche des nahegelegenen Schwabbruck (s. LKr. Weilheim-Schongau).
+
+== C ZUG DER ISRAELITEN DURCH DIE WÜSTE ==
+In karger Landschaft mit einzelnen niedrigen Büschen und Bäumen ziehen die Juden aus dem Hintergrund links in einem weiten Bogen durch das Bild hin nach vorn, wo die Spitze des Zuges vor einer theatralisch aufgebauten Gruppe innehält. Hier stehen im Mittelpunkt der irdischen Szenerie Moses und Aaron in malerischen Gewändern, deren klares und helles Blau, Weiß und Rot vor dem Grün und Ocker des Hintergrundes den bestimmenden Grundakkord für die gesamte Bildfarbigkeit setzen. Räumlich gesehen stehen Moses und Aaron im Mittelgrund des Landschaftsschauplatzes - eine breite dunkelfarbige Erdscholle dient als Repoussoir und gibt der Hauptgruppe räumliche Distanz. Zu dieser dunkleren Vordergrundszone gehören auch die Figuren rechts und links, hier ein Jüngling, der in der Pose des Rossebändigers ein Kamel hält, und sein in weite rote Gewänder gehüllter Begleiter, dort ein Krieger mit Helm, Schild und Lanze, ebenso in weitausladendem gebauschtem blauem Mantel. Sie steigern die theatralische Wirkung der Hauptgruppe in zweierlei Hinsicht, formal durch die vorn gezogene Flankierung und farblich durch das Aufnehmen des Rot und Blau in modifizierter Form, was eine Auflichtung vom Vordergrund zum Mittelgrund hin bewirkt.
+
+Die Szene ist einansichtig; an die umlaufende terrestrische Szenerie des mittleren 18. Jh. erinnert lediglich die schräg ins Bild stehende Palme am nördlichen Bildrand. Untersichten und Verkürzungen finden sich nicht. Nicht nur die barocke Illusion ist aufgegeben, sondern auch ihr Ersatz, die bildmäßige Einrichtung der Darstellung auf die Schrägansicht von unten. Als Rest der nach hinten abfallenden terrestrischen Rampe, auf der - ohne Möglichkeit einer Ausweitung des Bildraums in die Tiefe - die irdischen Akteure früherer Deckenbilder paradierten, sehen wir einen beträchtlich tiefen Landschaftsraum, aufgebaut aus den Hügelrampen des älteren Bildsystems. Die illusionistische Raumtiefe ist in drei Zonen gegliedert, in eine dunkle Vordergrundszone, in die mittlere Zone, welche die Hauptfiguren Moses und Aaron trägt, denen der Zug von hinten aus der Tiefe nach vorn folgt, und in eine letzte, - vom Hügel überschnitten -, durch welche der Zug der Juden näherkommt. Über der Landschaftsszenerie dehnt sich ein weiter, zartfarbiger Himmel mit hellen Wolken, der realistische Himmel einer Historiendarstellung. Typisch für die Spätzeit ist, dass keine illusionistische Himmelsöffnung als Schauplatz des Erscheinens himmlischer Personen gegeben wird. Die stümperhaft gemalte Figur Michaels unterscheidet sich stilistisch in jeder Hinsicht von der übrigen Darstellung, sie ist in dieser Form nicht original (vgl. Restaurierungen). Ursprünglich ist, dem biblischen Text folgend, die Darstellung einer Wolkensäule anzunehmen. Die Reduzierung des barocken Apparates einer Himmelserscheinung auf eine Wolkensäule entspräche dem klassizistischen Stil Huebers.
+
+Die Darstellung kennzeichnet ein neuer historischer Ernst und eine Distanz zum Dargestellten als einer historischen Begebenheit. Selbst der Judenzug - so sehr die einzelnen Figuren noch Typen des Theatrums der barocken Deckenmalerei sind - ist von einer neuen Eindringlichkeit in dem Bemühen um geschichtliche Realität geprägt.
+
+In der Farbigkeit fällt der Kontrast zwischen den Erdfarben der Landschaft und des Hintergrundes und den klaren, kühlen, »modernen« Farben der Gewänder auf. Zu diesen Farben gehört das kühle, helle, durch starke Weißbeimischung kompakte Schweinfurtergrün im Gewand des Kameltreibers, das, den Erdfarben beigemischt, auch der Vordergrundsrampe einen ungewöhnlich lebendigen Ton gibt.
+
+== C<sub>1</sub>—4 Die vier Kirchenväter in Halbfiguren ==
+Gregor (C<sub>1</sub>), Augustinus (C<sub>2</sub>), Ambrosius (C<sub>3</sub>) und Hieronymus (C<sub>4</sub>)
+
+== 1-10 Die zwölf Apostel in den Gewölbezwickeln ==
+In den Gewölbezwickeln im Langhaus sind die 12 Apostel dargestellt, und zwar in den beiden dem Chorbogen nächstliegenden jeweils zwei. Es sind sitzende Ganzfiguren auf Wolken vor diffusem grauem Hintergrund, modelliert in den Tönen Hellgrau – in den Auflichtungen –, Grüngrau und Karmin in den Schatten. Die Zählung der Fresken folgt der ikonographischen Anordnung:
+1. Petrus mit Schlüssel und Paulus mit Schwert
+2. Philippus mit Kreuz und Jakobus Minor mit Wanderstange
+3. Jakobus Major in Pilgertracht mit Muscheln und Stab
+4. Thomas mit Lanze
+5. Judas Thaddäus mit Keule
+6. Matthäus mit Beil
+7. Bartholomäus mit Messer
+8. Simon mit Säge
+9. Johannes mit dem Kelch
+10. Andreas mit Andreaskreuz
+
+[[File:Band01_chunk001_p018_img001.jpg|thumb|EB<sub>1</sub> David psallens]]
+
+
+[[File:Band01_chunk001_p018_img002.jpg|thumb]]
+
+
+[[File:Band01_chunk001_p018_img003.jpg|thumb]]
+
+
+[[File:Band01_chunk001_p018_img004.jpg|thumb|6 Matthäus]]
+
+
+[[File:Band01_chunk001_p018_img005.jpg|thumb]]
+
+
+[[File:Band01_chunk001_p018_img006.jpg|thumb]]
+
+
+[[File:Band01_chunk001_p018_img007.jpg|thumb]]
+
+
+[[File:Band01_chunk001_p018_img008.jpg|thumb|10 Andreas]]
+
+
+[[File:Band01_chunk001_p018_img009.jpg|thumb]]
+
+
+[[File:Band01_chunk001_p018_img010.jpg|thumb]]
+
+
+== EB<sub>1-2</sub> Die Bilder an den Emporenbrüstungen ==
+Die Bilder an den Emporenbrüstungen zeigen oben David psallierend (EB<sub>1</sub>), unten (EB<sub>2</sub>) Putti mit den Attributen der drei göttlichen Tugenden, Kreuz und Kelch (Fides), flammendem Herzen (Caritas) und Anker (Spes).
+
+[[File:Band01_chunk001_p018_img011.jpg|thumb]]
+
+
+[[File:Band01_chunk001_p018_img012.jpg|thumb|EB<sub>2</sub> Göttliche Tugenden]]
+
+
+== Ergänzungen zur Ikonographie ==
+Michael (B) ist der Antagonist Satans und Anführer der himmlischen Heerscharen (Apoc 12, 7). Die Inschrift auf seinem Schild QUIS / UT DEUS – die lateinische Übersetzung seines hebräischen Namens – ist zugleich eine Anspielung auf die Empörung Luzifers und seiner Engel gegen Gott. Die Gestürzten sind als kaum bekleidete männliche Wesen mit Hörnern und langen Nägeln, teilweise beflügelt, charakterisiert; Satan unter ihnen ist durch Attribute nicht näher bezeichnet (vgl. Beuern).
+
+Der Monte Gargano (A) ist benannt nach einem reichen Viehbesitzer namens Garganus, welcher der Legende nach im 4. Jh. in Sipont lebte und der seinen entkommenen Stier auf jenem Berge in einer Höhle wiederfand. Als er auf den Stier schoß, wendete der Pfeil und traf ihn selbst. Die erschrockenen und verwirrten Bürger beteten mit ihrem Bischof um ein Zeichen, und am dritten Tage tat ihnen der Erzengel Michael kund, dass dieser Ort sein Heiligtum sei, worauf Bischof und Bürger in einer Prozession zu der Höhle zogen. Im Bild sind die drei Ereignisse in einer Szene zusammengefasst (AASS, Sept. Tom. 8, S. 61–63).
+
+Die Darstellung des Erzengels Michael über dem Zug der Israeliten durch die Wüste (C) entspricht nicht der Schrift.
+<!-- citation-page-bottom: Band01 p35 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=19 -->
+<!-- citation-page-top: Band01 p36 -->
+
+<!-- header: DENKLINGEN -->
+
+DIENHAUSEN
+
+in der von der Wolkensäule des Tags und der Feuersäule des Nachts (Ex 13,21) sowie von dem Engel Gottes und der Wolkensäule (Ex 14,19) die Rede ist. Der Engel ist als Anführer des Zuges der Israeliten in der christlichen Ikonographie ungewöhnlich. Die aus spätjüdischen Schriften stammende Gleichsetzung dieses Engels mit dem Erzengel Michael ist den christlichen Theologen der Barockzeit bekannt, wird jedoch allgemein als unglaubwürdig abgelehnt (vgl. AASS Sept., Tom. 8, [Antwerpen 1762] 29.9., S. 16, kritische Bemerkung: »Michaelem archangelum fuisse, qui nomine Dei Israelitas ducebat, et Moysen alloquebatur, nonnulli credunt« in : »De S. Michaele et de omnibus angelis. Commentarius historicus.« Zur Herkunft der Gleichsetzung: Reallexikon für Antike und Christentum, hg. von Th. Klauser, Stuttgart 1950 ff., Bd 5, Sp. 246; Beispiel für eine christliche Darstellung des Durchzugs durch das Rote Meer mit Engel s. Sp. 266, 297).
+
+In ikonographischer Hinsicht ist die Michaelsfigur höchst ungewöhnlich. Da sie auch nicht dem stilistischen Befund entspricht, ist anzunehmen, daß es sich hier um eine spätere Änderung der Darstellung handelt. Ohne die Michaelsfigur ist die Darstellung auf Moses und Aaron als die Führer des Volkes konzentriert und als alttestamentliche Typen der religiösen Führung der christlichen Gemeinde – speziell auch auf den Auftraggeber bezogen – zu verstehen (vgl. LCI Bd 1, s.v. Durchzug durch das Rote Meer, Sp. 557 f.). Durch die Michaelsfigur wurde die in der Themenwahl ungewöhnliche Szene des Altarraumes in direkten Zusammenhang mit den zwei Michaelsdarstellungen gebracht; das entsprach vielleicht mehr den Vorstellungen der erst 1771 eingeführten Michaelsbruderschaft.
+
+
+== Literatur ==
+
+{{End}}

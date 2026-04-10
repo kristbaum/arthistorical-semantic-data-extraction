@@ -1,0 +1,65 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=303
+|Originalseitenbis=303
+|Lemma=Andechs, Ehem. Benediktinerabtei, Josephskapelle
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|danach=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+'''Zum Bauwerk:''' Südliche Seitenkapelle der Klosterkirche östlich an die Sakristei anschließend; querrechteckiger Raum
+
+'''Auftraggeber:''' »Herr Sebastian Antoni Ott, Ihro Churfürstl. Durchläucht in Bayrn Pfleg-Stadt und Land-Gerichts ... Commissarius in Weilheim, und Maria Anna dessen Frau Gemahlin, haben die S. Josephi Capellen zierlich aus Stockador kunstreich ausmahlen, und mit einem neuen Altar ausziehren lassen zu besonderer Zierde unseres dritten Saeculi, welches geschehen im Jahr 1754.« (Historiola . . . Zweiter Theil, S. 53)
+
+'''Autor und Entstehungszeit:''' Das 1754 gemalte Kapellenfresko ist nicht signiert und datiert. Das qualitativ schwache Bild ist als eine Arbeit eines Gehilfen Zimmermanns anzusehen. Im Vergleich zu den eigenhändigen Fresken Zimmermanns in Andechs (vgl. Ausführungen S. 289) ist der Farbcharakter des Bildes flau und spannungslos. Die hellen Grautöne der Szenerie, welche die Farbigkeit bestimmen, sind nicht in der für Zimmermann typischen Art durch feine buntfarbige Abstufungen belebt und auf die in den Gewändern auftretenden Buntfarben bezogen, die einzelnen Farbwerte im Bild sind vielmehr nebeneinandergesetzt.
+
+Das kräftige, eine große Fläche einnehmende Rot im Gewand des Johannes ist der Palette Zimmermanns fremd, es stammt allem Anschein nach von einer restaurierenden Übermalung.
+
+Die Kompositionsweise Zimmermanns ist in dieser Darstellung vereinfacht: Die figürliche Szene beschränkt sich auf eine – der Malfläche des Bildes parallele – Bildebene. Die architektonischen Versatzstücke schließen sich nicht überzeugend zu einem Bildschauplatz zusammen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: flache Quertonne mit Stichkappen
+
+Rahmen: Stuckprofil, von Rocailleornamenten überspielt
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 4,40 m; 2,35 × 3,20
+
+Erhaltungszustand: einige Fehlstellen, Haarrisse, entstellende Übermalung in der linken Bildhälfte
+
+
+[[File:Band01_chunk007_p002_img001.jpg|thumb|Josephs Tod]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+JOSEPHS TOD Einansichtige, breitformatige Szene ohne Untersichten und Höhenillusion; Standort unterhalb des westlichen Rahmens.
+
+Parallel zur Querachse des Bildes ist ganz im Vordergrund die Bettstatt Josephs auf einem Stufenpodest wiedergegeben. Johannes umfaßt den Sterbenden an der Schulter und deutet eindringlich zum Himmel, der mit seinen lichten Wolken und Engeln in das – durch eine Wand angedeutete – Zimmer eindringt. Ein Engel und Maria stehen zur Seite des Bettes; Maria hält die Sterbekerze. Das Reinheitssymbol des Heiligen, eine Lilie, ist auf einem Tisch im Vordergrund des Bildes wiedergegeben.
+
+Die apokryphen Berichten entstammende Todesszene zeigt hier am Sterbelager Josephs Johannes den Evangelisten und Maria, und nicht, wie es in barocken Darstellungen üblich ist, Christus und Maria (vgl. Landsberg, ehem. Kollegienkirche der Jesuiten, Fresko K4). Die Todesszene deutet auf Joseph als den Patron eines guten Todes hin (zu den apokryphen Quellen und barocken Darstellungen vgl. LCI, Bd. 7, s. v. Joseph von Nazareth, Sp. 210 f. u. 219 f.).
+
+Literatur siehe S. 316
+<!-- citation-page-bottom: Band01 p303 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=3 -->
+<!-- citation-page-top: Band01 p304 -->
+
+<!-- header: ANDECHS -->
+
+<!-- header: ANDECHS -->
+{{End}}

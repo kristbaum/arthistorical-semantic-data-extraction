@@ -1,0 +1,107 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=86
+|Originalseitenbis=86
+|Lemma=Hagenheim, Filialkirche Unsere Liebe Frau
+|Typ=Sakral
+|Ort=Hagenheim
+|davor=Greifenberg, Schlosskapelle St. Georg
+|danach=Hausen bei Geltendorf, Pfarrkirche St. Nikolaus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p86 -->
+
+<!-- header: HAGENHEIM -->
+
+<!-- header: HAUSEN pei Geltendorf -->
+
+Filialkirche, Gemeinde und Pfarrei Hofstetten, Diözese Augsburg; z. Z. der Ausmalung Pfarrkirche, auf die Kloster Wessobrunn das Präsentationsrecht hatte, Gericht Landsberg
+
+
+'''Patrozinium:''' Unsere Liebe Frau
+
+
+'''Zum Bauwerk:''' Die im Kern gotische Anlage wurde im Auftrag von Abt Thassilo Boelzl von Wessobrunn (1706–42) unter Pfarrer Matthias Miller 1726–29 erweitert und anläßlich des 100-jährigen Bestehens der 1629 gegründeten Rosenkranzbruderschaft neu ausgestattet. - Saalbau zu 4 Jochen (15,80 × 7,60) mit eingezogenem, halbrund geschlossenem AR (7,00 × 6,00); im W Empore
+
+'''Autor und Entstehungszeit:''' Die durch Übermalungen stark beeinträchtigten Deckenbilder dürften aus der Zeit des barocken Umbaus stammen. Wilhelm Neu schreibt die Gemälde dem Oberfinninger Maler Caspar Schäffler (*1700 †1770) zu. Formale Übereinstimmungen der Altarraumkuppelbilder in Hagenheim und in Reisch, einem ebenfalls ungesicherten und überarbeiteten Werk dieses Malers, reichen nicht für eine stilkritische Zuschreibung aus.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, B, C, 1–14) Flachdecke mit Hohlkehle, AR (D, D<sub>1-4</sub>) Ovalkuppel über Pendentifs mit flachem Spiegel
+
+Rahmen: Stuckprofil
+
+Technik: Ol?; sämtliche Deckenbilder polychron
+
+Maße: A Höhe 6,50 m; 2,00 × 2,00
+
+B Höhe 6,50 m; 2,60 × 2,00
+
+C Höhe 6,50 m; 2,00 × 2,00
+
+D Höhe 6,80 m: 3,70 × 9,80
+
+Erhaltungszustand und Restaurierungen: Erste Restaurierung 1800 (KDB). 1914 fand eine durchgreifende Renovierung der Deckenbilder statt (Inschrift am Chorbogen Ren. 1914), bei der alle, insbesondere aber die Hauptszenen des Langhauses, stark übermalt wurden. Während diese über die Bildthematik hinaus in keiner Hinsicht mehr an den originalen Bestand erinnern, weisen das Chordeckenbild D und die Medaillons formal und stilistisch noch barocke Substanz auf.
+
+
+== Bildabfolge ==
+
+
+Das Programm ist durch die Rosenkranzbruderschaft bestimmt. Der Emporenbereich zeigt Szenen aus dem Leben des hl. Dominikus, die Chorkuppel die Rosenkranzspende an die hll. Dominikus und Katharina. Das mittlere Langhausdeckenbild B ist zugleich inhaltlicher Mittelpunkt für die darum angeordneten Medaillons, deren szenische Darstellungen den freudenreichen, den schmerzhaften und den glorreichen Rosenkranz wiedergeben, den das Hauptbild C mit der Krönung Mariens beschließt.
+
+A Predigt des Dominikus  
+FR1-2 Szenen aus dem Leben des hl. Dominikus  
+
+B Immaculata  
+
+1–5 nördliche Hohlkehle von O nach W – Der freudenreiche Rosenkranz  
+1 Verkündigung – Den du, o Jungfrau, vom Heiligen Geist empfangen hast  
+2 Heimsuchung – Den du, o Jungfrau, zu Elisabeth getragen hast  
+3 Geburt Christi – Den du, o Jungfrau, geboren hast  
+4 Darbringung im Tempel – Den du, o Jungfrau, im Tempel aufgeopfert hast  
+5 Der zwölfjährige Jesus im Tempel – Den du, o Jungfrau, im Tempel wiedergefunden hast  
+
+6–10 südliche Hohlkehle von W nach O – Der schmerzhafte Rosenkranz  
+6 Ölberg – Der für uns Blut geschwitzt hat  
+7 Geißelung – Der für uns gegeißelt worden ist  
+8 Dornenkrönung – Der für uns mit Dornen gekrönt worden ist  
+9 Kreuztragung – Der für uns das schwere Kreuz getragen hat  
+10 Kreuznagelung – Der für uns gekreuzigt worden ist  
+
+11–14 Medaillons um B, C – Der glorreiche Rosenkranz  
+11 Auferstehung – Der von den Toten auferstanden ist  
+12 Himmelfahrt – Der in den Himmel aufgefahren ist  
+13 Pfingsten – Der uns den Heiligen Geist gesandt hat  
+14 Himmelfahrt Mariens – Der dich, o Jungfrau, in den Himmel aufgenommen hat  
+15 Krönung Mariens – Der dich, o Jungfrau, im Himmel gekrönt hat  
+
+D Rosenkranzspende  
+D1 (östlich) Auge Gottes  
+D2 Anna Selbdritt  
+D3 Der hl. Antonius in der Wüste (modern)  
+D4 Anna lehrt Maria  
+
+Über den Eingängen im LHs zwei Wandkartuschen  
+W1 (nördlich) Jesus schreibt vor den Pharisäern in den Sand  
+W<sub>2</sub> (südlich) Tempelaustreibung  
+
+An die Kanzelbrüstung sind – relativ gut erhalten – die vier Evangelisten gemalt.
+
+
+== Literatur ==
+
+
+KDB I OB (1), S. 528 f.  
+
+Neu, Wilhelm, Johann Caspar Schäffler – ein vergessener Maler des Lech-Ammerseegebietes, in: Lechisarland 1962, S. 42.  
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 488.
+{{End}}

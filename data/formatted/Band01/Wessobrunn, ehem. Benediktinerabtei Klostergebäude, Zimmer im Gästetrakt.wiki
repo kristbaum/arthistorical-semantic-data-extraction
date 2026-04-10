@@ -1,0 +1,106 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=570
+|Originalseitenbis=572
+|Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Zimmer im Gästetrakt
+|Typ=Sakral
+|Ort=Wessobrunn
+|davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Benediktussaal im Gästetrakt
+|danach=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Magdalenenzimmer
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p570 -->
+
+<!-- header: WESSOBRUNN -->
+
+<!-- header: WESSOBRUNN -->
+
+Zimmer im ehemaligen Gästetrakt, z. Z. Zweigniederlassung der Missionsbenediktinerinnen von Tutzing
+
+'''Zum Bauwerk:''' Der Gästetrakt wurde unter Abt Leonhard Weiß errichtet (ab 1680) und im wesentlichen ausgestattet (Historia monasterii Wessofontani, S. 466). Die vier Räume liegen im oberen Geschoß des Baus. Es sind einfache Säle, mit jeweils zwei Fenstern nach Süden Maße: Zimmer (A) 5,30 × 7,70 m; Zimmer (B) 5,70 × 7,70 m; Zimmer (C) 8,10 × 7,70 m; Zimmer (D) 8,10 × 7,70 m.
+
+'''Auftraggeber:''' Abt Leonhard von Wessobrunn (1671–96)
+
+'''Autor und Entstehungszeit:''' A, B und C zeigen soviel Ähnlichkeit mit den Bildern des Benediktussaals, daß wir sie dem gleichen Autor zuweisen möchten. Sie sind im ganzen besser erhalten als jene, aber die große Verwandtschaft in der Farbgebung ist trotz des unterschiedlichen Erhaltungszustandes evident. Auffallend ist die Ähnlichkeit in der Wiedergabe des Himmels mit fedrig gezeichneten Wolken (Zimmer B und Benediktussaal A). Untersichten, Verkürzungen und Aufbau der architektonischen Schauplätze stimmen überein (Zimmer A und C, Benediktussaal B, D und G). Die Bilder A, B und C der Zimmer und die sieben Bilder des Benediktussaales zeigen den gleichen Figurentypus. Dagegen ist D, das Sebastiansbild, sicher von einem anderen Autor und zeigt in Aufbau, Farbigkeit und in den malerischen Details Ähnlichkeiten mit dem Magdalenenbild aus dem Magdalenenzimmer des anschließenden Prälatentrakts. Die Entstehungszeit aller Bilder ist durch die Ausstattungszeit des Gästetraktes gegeben: das letzte Jahrzehnt des 17. Jahrhunderts.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecker
+
+Rahmen: A Stuckprofil mit Lorbeerkranz, B sternförmiges Stuckprofil mit Blattkranz, C Stuckprofil, von Rocailleornamenten und Blumenranken überspielt (letztere sind wesentlich später als das Bild und das Stuckprofil entstanden), D Stuckornamente; auch diese später
+
+Technik: Öl auf Leinwand; polychrom Maße: A Höhe 4,25 m; 2,80 × 2,10
+
+B Höhe 4,25 m; 2,60 × 2,60 C Höhe 4,25 m; 3,40 × 3,40 D Höhe 4,25 m; 2,00 × 3,00
+
+Erhaltungszustand: Alle Bilder sind verschmutzt und ziemlich stark nachgedunkelt; in A Krakelee, sonst gut erhalten; B ist durch eine starke graue Schmutzschicht entstellt; C ebenfalls stark verschmutzt, Risse und Flecken; bei D ist die Leinwand brüchig, die Farben sind stellenweise abgeblättert und stark entstellt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+In der knappen Beschreibung des Gästebaus überliefert Coelestin Leutner uns die Namen der wichtigsten Räume: »Coenacula et cubicula singulis Divis monasterii Patronis dedicata et eorum nomine vocata sunt. Ab oriente Aula
+
+Thassilonis perampla visitur, ... Inde S. Sebastiani, S. Amantii, S. Pontiani nominibus insignita diversoria. Scala qua ad subjectum atrium descenditur interposita sequitur S. Scholasticae nomine dictum cubiculum duplex inde S. Benedicti nominatum coenaculum.« (Historia monasterii Wessofontani, S. 466.) Nicht alle diese Räume, wie z. B. der bekannte Tassilo-Saal, haben noch ihre Deckenbilder, doch unter denen mit Deckenbildern sind der Benediktussaal (siehe dort) und aus der hier besprochenen Raumfolge das Pontians-Zimmer mit Sicherheit, das Sebastians- und Amantius-Zimmer mit einiger Wahrscheinlichkeit zu identifizieren. Die Aussage, daß die Heiligennamen auf Patrone Wessobrunns zurückgehen, ist hierbei entscheidend, weil so die Angaben zu diesen Heiligen mitherangezogen werden können.
+
+Die Farbigkeit dieser drei Bilder wird bestimmt durch eine Gesamttonigkeit in düsterem Braun und Violett, vor der als Buntfarben Blau und Rot hervortreten.
+
+A BEKENNTNIS EINES MARTYRERS VOR DEM KAISER Der Bildaufbau des ovalen Bildfeldes ist deutlich durch illusionistische Effekte charakterisiert. Der Betrachter hat Einblick in einen steilen Kuppelraum mit einem rampenartig an den Bildrand gesetzten Stufenaufbau. Die in Untersicht gezeigten Figuren sind bis zur Verzerrung verkürzt.
+
+In einer überkuppelten Halle sitzt am linken Bildrand, auf einem über mehreren Stufen errichteten und baldachinbekrönten Thron der Kaiser, in lebhafter Rede dem halbentblößten Christen zu seinen Füßen zugewandt. Dieser hält dem Kaiser mit energischer Bewegung das Zeichen seines Glaubens, ein Kreuz, entgegen. Hinter dem Thron drängen sich drei Soldaten, bereit, den bekennenden Christen abzuführen.
+
+Diese Gerichtsszene als solche sowie Einzelheiten - das Rot des umgeworfenen Mantels, das Passionszeichen des Kreuzes - deuten auf ein Martyrium des Heiligen hin. Doch fehlen gänzlich spezifische Hinweise - Attribute - zur Benennung des Heiligen.
+
+Die Szene als solche, in welcher das beherzte Auftreten des Christen vor dem heidnischen Kaiser auffällt, paßt gut zur Passio des hl. Sebastian. Dieser war, genesen von den Pfeilschüssen seines ersten Martyriums, vor den Kaiser getreten und hatte ihn in heftiger Anklage wegen der Christenverfolgung zur Rede gestellt (siehe unten D).
+
+B HL. PONTIAN Zwei gekreuzte Quadrate ergeben das achteckige, sternförmige Bildfeld. Die Basis des Bildes ist asymmetrisch zur Achse des Raumes verschoben. Die Figur ist in ungeschickter Verkürzung wiedergegeben: Die Beine sind gegen die Achse des Oberkörpers etwa um 45 Grad verdreht.
+
+In einem düsteren Wolkenkranz, dessen Ränder innen flammenartig erhellt sind, steht ein lorbeerbekränzter jugendlicher Heiliger in vornehmer Soldatentracht. Er trägt in der Rechten die Martyrerpalme und einen keulenförmigen Knüttel.
+
+Der Heilige läßt sich nach C. Leutners Ausführungen eindeutig benennen. In einem Kapitel über Abt Bernhard Gering (1655–66) berichtet Leutner (1664): »Obtentum est feliciter corpus S. Pontiani Martyris, cujus festum proxima die post illud Divi Bartholomaei Apostoli in Germania celebratur, nempe 25. Aug. Ejusdem et sociorum memini Usuardus in suo Martyrologio his verbis: Romae natalis sanctorum martyrum Eusebeii, Pontiani, Vincentii, e
+
+
+[[File:Band01_chunk012_p011_img002.jpg|thumb|B Hl. Pontian]]
+
+
+Peregrini sub Commodo Imperatore, qui primo in equuleum levati nervis quoque distenti, ac deinde fustibus caesi sunt, . . . « (Vgl. AASS Augustii, Tomus 5, 25. 8., S. 111.) »Atque ita S. Pontianus apud nos depingebatur dextra ramum palmae, sinistra clavam gerens, aliis suppliciis longinquo exhibitis.« (Historia monasterii Wessofontani, S. 445.) – C. Leutner nennt ausdrücklich die bildliche Darstellung Pontians. Die Attribute Martyrerpalme und Knüttel stimmen genau überein, auch die Tracht entspricht der eines römischen Martyrers.
+
+
+[[File:Band01_chunk012_p011_img001.jpg|thumb]]
+
+
+C ABFÜHRUNG EINES MARTYRERS Die Gerichtsszene ist breit in das vierpaßähnliche Bildfeld hineinkomponiert. Die starke Untersicht ist bei Figuren und Schauplatz nicht gleichmäßig durchgeführt.
+
+In einem hofartigen Raum, rückwärts von einer balustradenbekrönten Galerie und auf der rechten Bildseite durch einen hohen Thronaufbau gebildet, wird ein gefesselter jugendlicher Heiliger von Soldaten und einem halbnackten Schergen gewaltsam abgeführt. Der Kaiser auf dem Thron erteilt dazu Befehl, er hat in wütender Gebärde seine Hand gegen den Heiligen ausgestreckt. Das Gewand mit kurzem Rock kennzeichnet letzteren als vornehmen Römer.
+
+Die Handlung wirkt wie eine Fortsetzung der Szene in Bild A: Die Rede des Christen hat den heidnischen Kaiser so erzürnt, daß er Folterung und Hinrichtung befiehlt. Auch diese Martyriumsszene ist ganz allgemein gehalten. Von den oben genannten Patronen Wessobrunns kommt der hl. Amantius in Frage. Von diesem weiß Leutner kaum etwas zu berichten: »Leonardus (Abt Leonhard Weiß) a SS Domino Innocentio XI . . . impetravit corpus S. Amantii Martyris quod expedivit Romae . . . anno Domini 1678 die 28. Augusti.« (Historia monasterii Wessofontani, S. 462.) Es wird sich wahrscheinlich um einen sog. römischen Katakombenheiligen handeln: Seit der Wiederentdeckung der römischen Katakomben, 1578, hatten sich viele Klöster um die Erwerbung heiliger Leiber bemüht, vor allem auch im späten 17. Jahrhundert. Diesen unbekannten römischen
+<!-- citation-page-bottom: Band01 p571 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=12 -->
+<!-- citation-page-top: Band01 p572 -->
+
+<!-- header: WESSOBRUNN -->
+
+<!-- header: WESSOBRUNI -->
+
+Leibern wurden Heiligennamen und auch Geschichten gegeben (Edgar Krausen, Die Pflege religiös-volksfrommen Brauchtums bei Benediktinern und Zisterziensern in Süddeutschland und Österreich, in: Studien und Mitteilungen zur Geschichte des Benediktinerordens, Bd 83, Ottobeuren 1972, S. 277–80). Daß diesem römischen Heiligen unter Abt Leonhard eine figurenreiche Szene gewidmet wird, ist verständlich. Auffallend ist, daß die bildliche Darstellung sich mit der Wiedergabe einer allgemein gehaltenen Martyrer-Gerichtsszene wie bereits in Zimmer A begnügt.
+
+D DER GEMARTERTE SEBASTIAN Der Bildaufbau ist der Tafelbildmalerei gemäß ganz ohne Untersichtsperspektive konzipiert. Die Komposition nimmt auf Bildformat und Bildfläche Bezug. Der reliefähnlich in die Fläche komponierten Hauptgruppe ist eine als Repoussoir wirkende Rückenfigur zugeordnet. Die Darstellung ist von dem Bildtypus der Beweinung Christi abgeleitet.
+
+Um den zusammengesunkenen, mit einer Hand noch an den Baum gefesselten Martyrer Sebastian bemühen sich drei niedergekauerte Frauen. Eine von ihnen versucht einen Pfeil aus seiner Seite zu ziehen, eine andere trocknet ihm mit einem Tuch das Gesicht.
+
+Der hl. Sebastian wurde, nachdem er durch Pfeilschüsse scheinbar zu Tode gemartert worden war, von Irene, der Witwe des hl. Kastulus, und ihren Gefährtinnen gesundgepflegt. (Passio des hl. Sebastian, noch in den AASS dem hl. Ambrosius zugeschrieben, vgl. Januarii, Tomus 2, 20.1. S. 278.) – Die Verehrung des römischen Heiligen war in Wessobrunn im 17. Jh. groß, unter Abt Bernhard Gering war eine Sebastiansbruderschaft gegründet worden (Historia monasterii Wessofontani, S. 447).
+
+Die Sebastiansdarstellung dieses Zimmers unterscheidet sich wesentlich von den drei ersten Deckengemälden: Format und perspektivische räumliche Anlage des Bildes geben keinen eindeutigen Hinweis darauf, daß das Gemälde als Deckenbild konzipiert wurde, es ist eher als Wandbild vorstellbar. Es stammt vom gleichen Autor wie das Magdalenenbild im Prälatentrakt (siehe dort) und könnte vielleicht wie jenes erst später seinen Platz an der Decke erhalten haben. Das würde das Vorkommen zweier verschiedener – handlungsmäßig einander folgender (D-A) – Sebastiansszenen in zwei getrennten Räumen, was den Ausführungen C. Leutners widerspricht, erklären. Die Anhaltspunkte für diese Erklärung sind jedoch zu unbestimmt, daher muß die Benennung der Szene in Zimmer A und folglich auch der in Zimmer C ungewiß bleiben. Vielleicht ist außer Amantius ein weiterer römischer Katakombenheiliger (vgl. Pontians Passio S. 571), von dem das Kloster keine Reliquien besaß und der deshalb vom Chronisten C. Leutner nicht erwähnt wird, durch eine der bildlichen Darstellungen geehrt.
+
+Literatur siehe S. 599
+
+{{End}}

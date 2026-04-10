@@ -1,0 +1,66 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=304
+|Originalseitenbis=304
+|Lemma=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Josephskapelle
+|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Sakristei (Antoniuskapelle)
+
+'''Zum Bauwerk:''' Längsrechteckiger Raum an der S-Seite der Klosterkirche
+
+'''Auftraggeber:''' Abt Bernhard Schütz von Andechs (1746–1759)
+
+'''Autor und Entstehungszeit:''' Johann Baptist Zimmermann 1753/55 (vgl. Ausführungen S. 289)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Gedrückte Stichkappentonne  
+Rahmen: A Stuckprofil; A1-4 Rocaillekartuschen  
+Technik: Fresko; A polychrom; A1-4 monochrom rot  
+Maße: Höhe 4,70 m; 5,50 × 3,90  
+
+Erhaltungszustand: Kleine Fehlstellen; leichte Risse; stark verrußt. Zustand schlecht
+
+
+== Beschreibung ==
+
+
+A ANTONIUSWUNDER Einansichtige Szene, perspektivische Verkürzungen und Untersichten in der Schauplatzarchitektur. Die illusionistische Wirkung des Bildschauplatzes ist durch den schlechten Erhaltungszustand der Himmelspartie sehr beeinträchtigt.
+
+Vor ein hochragendes, mit Säulen und verkröpftem Gebälk geschmücktes Kirchenportal ist Antonius getreten, als Priester gekleidet und mit anderen Geistlichen in seiner Begleitung. Ihnen gegenüber steht ein Edelmann mit zwei Dienern, von denen einer einen Hund zurückhält, während der andere aus einem großen Korb einem Esel Futter streut. Der Esel beachtet nicht das Heu, sondern blickt zur Hostie auf, die Antonius ihm vorweist. Zwei Geistliche halten über die hl. Hostie einen Baldachin mit Lambrequins und Quasten. Nach hinten öffnet sich der Schauplatz zu einer prächtigen Straße mit hoher Terrasse und Balustradenbrüstung links und einem Palast im Hintergrund. Eine Wolke mit kleinen Engelsköpfen senkt sich in nebeligen Schwaden in den irdischen Schauplatz hinein.
+
+Der Schauplatz wird farblich bestimmt durch die aufeinander abgestimmten, hellen Mischtöne von Grau, Ocker, Rotbraun und Violett – das Himmelsblau dazu ist verdorben. Lichtfarben, Gold (Farbsubstanz sehr beschädigt) mit Ockergelb und gebrochenen Weißabstufungen in den liturgischen Gewändern, zeichnen die Figuren des Antonius und seiner Begleiter aus. Buntfarben, Rot und Blau heben den Widersacher des Heiligen hervor. Die Violett- und Rosaabstufungen in der großen Fläche des Baldachins binden die figürliche Szene farblich zusammen.
+
+
+[[File:Band01_chunk007_p003_img001.jpg|thumb|Antoniuswunder]]
+
+
+A<sub>1-4</sub> LITURGISCHE GERÄTE
+
+A<sub>1</sub> Putto mit Rauchfaß  
+Putto mit Weihwasserkessel und Wedel  
+A<sub>2</sub> Putto mit Kelch  
+A<sub>4</sub> Putto mit Abtkreuz und Abtstab
+
+
+== Ikonographie ==
+
+
+Ein eucharistisches Wunder ist das Thema der hagiographischen Szene des Deckenbildes in der Sakristei: Um einen Häretiker von der katholischen Lehre der Eucharistie zu überzeugen, wirkt der hl. Antonius ein Wunderzeichen, das der starrsinnige Häretiker gefordert hatte. Er zeigt einem Maulesel des Häretikers, dem man drei Tage nichts zu fressen gegeben hatte, die hl. Hostie. Das Tier verschmäht das ihm gleichzeitig gereichte Futter und fällt vor der Hostie nieder (vgl. AASS Junii, Tom. 2, 13. 6., Liber Miraculorum, S. 725). Die Darstellung verbindet sich ikonologisch mit der dem Drei-Hostien-Heiltum gewidmeten Gloriendarstellung (D) der Kirche.
+
+Literatur siehe S. 310
+
+{{End}}

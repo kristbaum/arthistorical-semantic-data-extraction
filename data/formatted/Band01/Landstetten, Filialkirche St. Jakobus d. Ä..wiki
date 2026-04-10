@@ -1,0 +1,100 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=335
+|Originalseitenbis=336
+|Lemma=Landstetten, Filialkirche St. Jakobus d. Ä.
+|Typ=Sakral
+|Ort=Landstetten
+|davor=Kempfenhausen, Schlosskapelle St. Anna
+|danach=Leutstetten, Filialkirche St. Alto
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Filialkirche, Gemeinde Perchting, Pfarrei Pöcking, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Polling das Präsentationsrecht auf die Pfarrei, Grundherrschaf Kloster Polling
+
+
+'''Patrozinium:''' St. Jakobus d. Ä
+
+
+'''Zum Bauwerk:''' Älterer Bau, unter Pfarrer Michael Waibl 1768 neu ausgestattet. – Annähernd quadratischer Hauptraum mit abgeschrägten Ecken; leicht eingezogener AR mit halbrundem Schluß
+
+'''Auftraggeber:''' Propst Franz Töpsl von Polling (1744–96), der sein Wappen zusammen mit dem des Stiftes Polling am Chorbogen angebracht hat.
+
+'''Autor und Entstehungszeit:''' Die Angabe in den KDB, von der Restaurierung von 1887 sei das Fresko von Joseph Ot signiert gewesen, ist unzuverlässig. Die stilistischen Merkmale des Freskogemäldes sprechen gegen die Autorschaf des Joseph Mathias Ott (vgl. dessen Fresken in Grünsinl und Seefeld).
+
+Das »Monumentum debitae gratitudinis« überliefert sowohl den Freskanten als auch das Jahr der Ausmalung für die Kirchen von Aschering und Landstetten: Johann Baptist Baader, 1768 (Text zitiert bei Aschering). Der schlechte Zustand des Deckenbildes läßt einen Vergleich in den Details mit Baaders übrigen Werken nicht mehr zu. Doch finden wir in der Komposition der Dreifaltigkeitsgruppe vie Ähnlichkeit mit derjenigen im Fresko von Perchting, ebenso in der Gestaltung des Wolkenrings um die Himmelsöffnung.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachkuppel mit Hängezwickeln
+
+
+[[File:Band01_chunk007_p018_img003.jpg|thumb]]
+
+
+Rahmen: Stuckprofil; an den vier Kartuschen sparsamer Stuck
+
+Technik: Fresko: polychrom
+
+Maße: A Höhe 6,05 m; 4,80 × 4,50
+
+Erhaltungszustand und Restaurierungen: Bei einer Restaurierung 1887 soll laut KDB eine Signatur Joseph Otts übermalt worden sein. Die Restaurierung von 1946 ist am Freskorand vermerkt: Rev. 1946. Das Fresko ist sehr schlecht erhalten. Die ursprüngliche Farbsubstanz ist durch Wasserschäden und grobe Übermalungen verdorben. Komposition und Bildgegenstand sind einigermaßen originalgetreu erhalten. Der Goldgrund hinter den vier Evangelisten in A1-4 dürfte Zutat einer dieser Restaurierungen sein.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A PATRON ST. JAKOBUS D. Ä. Einansichtige Szene, in der perspektivischen Anlage inkonsequent ausgeführt. Betrachterstandort unterhalb der Bildmitte. Im Zentrum des Bildes ist eine Himmelsöffnung, von einem Wolkenring gebildet. Von Strahlen umgeben, erscheint die Taube des Hl. Geistes vor einem lichten Dreieck; auf Wolken Christus mit dem Kreuz und Gottvater mit Zepter und wehendem Mantel neben der Weltkugel.
+
+Darunter kniet auf einer Wolkenbank der hl. Jakobus d. Ä., dargestellt in der Tracht der Compostela-Wallfahrer: langer Rock mit Kragen, Muscheln an Hut und Brust, Gurde am Gürtel; Stab und Hut tragen ihm zwei Putti. Er hat die Hände in Verehrung ausgebreitet, bittend für das Landvolk, das sich in der terrestrischen Szenerie des östlichen Kuppelrandes versammelt hat. Links knien die Männer, rechts die Frauen, alle in bäuerlicher Tracht. In der Mitte sieht man in einem Durchblick auf die Landschaft das Kirchlein von Landstetten. Der irdische Schauplatz wird links durch ein Mauerstück mit steinerner Vase, rechts durch einen Strauch begrenzt.
+
+A1-4 EVANGELISTEN Johannes mit Adler (A1) Matthäus mit Engel (A2); Markus mit Löwe (A3); Luka mit Stier, hinter Lukas eine Staffelei mit dem angefangenen Madonnenbildnis (A4)
+
+
+== Literatur ==
+
+
+Braun-Augsburg, Bd 1, S. 360 f. (Böcking)
+
+[Daisenberger], Johann Nepomuk, Monumentum debitae gratitudinis . . . erga Franciscum Toepsel (o. O.) 1815, S. 30 KDB I OB (1), S. 885.
+
+Emerich, Karl, Johann Baptist Baader. Von des Lech malers Wirken und Sterben, in: Landsberger Geschichts blätter 29, 1932, Sp. 66–68, 73–77, 84–88.
+
+Fuchs, Adolf, Johann Baptist Baader, der Lechhansl Kaufbeuren 1959, S. 32.
+<!-- citation-page-bottom: Band01 p335 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=19 -->
+<!-- citation-page-top: Band01 p336 -->
+
+<!-- header: LANDSTETTEN -->
+
+<!-- header: LEUTSTETTEN -->
+
+
+[[File:Band01_chunk007_p019_img001.jpg|thumb|St. Alto in der Glor]]
+
+
+
+[[File:Band01_chunk007_p019_img002.jpg|thumb|A Patron St. Jakobus Majo]]
+
+
+
+[[File:Band01_chunk007_p019_img003.jpg|thumb]]
+
+
+
+[[File:Band01_chunk007_p019_img004.jpg|thumb]]
+
+
+
+[[File:Band01_chunk007_p019_img005.jpg|thumb|1 Lukas]]
+
+
+{{End}}

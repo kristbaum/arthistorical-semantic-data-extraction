@@ -1,0 +1,564 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=476
+|Originalseitenbis=501
+|Lemma=Rottenbuch, Pfarrkirche Mariä Geburt
+|Typ=Sakral
+|Ort=Rottenbuch
+|davor=Reisgang, Kapelle Mariä Heimsuchung
+|danach=Sachsenried, Pfarrkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p476 -->
+
+<!-- header: ROTTENBUCH -->
+
+
+== ROTTENBUCH ==
+
+
+Pfarrkirche, ehem. Klosterkirche des Augustinerchorher renstifts, Erzdiözese München-Freising
+
+'''Patrozinium:''' Mariä Geburt
+
+'''Zum Bauwerk:''' Das von den Welfen gestiftete romanische Münster wurde nach 1455 gotisch umgebaut und erweitert. Barocke Innenausstattung 1735-45 nach Plänen Joseph Schmuzers. Oberpalier und Stukkator war sein Sohn Franz Xaver Schmuzer. Inschrift an der Ostseite des Chorbogens: RENOUIERT R. P. P. (= Regno Praepositi Patritii) ANNO MDCCXXXVIII. - Dreischiffiges basikales Langhaus mit sechs Jochen, ausladendes Querschiff, eingezogener dreijochiger Chor in der Breite des Mittelschiffs mit 3/8- Schluß; im W Empore; Belichtung durch Obergadenfenster im Mittelschiff und durch Fenster in den Seitenschiffen
+
+'''Auftraggeber:''' Die Pröpste Patritius Oswald (1700-40) und Clemens Prasser (1740-70) von Rottenbuch. Vor dem Chorbogen, im Anschluß an E, ist das Wappen des Propstes Clemens Prasser freskiert: Unter der Rotbuche, dem sprechenden Wappenbild Rottenbuchs, ruht der Gründer des Stiftes: Herzog Welf VI. Auf seinem Schoß liegt das Lamm, das Wappentier des Kirchenausstatters Propst Clemens Prasser, dessen Devise: P.O.N.O.C. (= Prodesse Omnibus Nemini Obesse Cupio, s. Mois, 1970, S. 7) in der Buche angebracht ist. Darüber der bekrönte Name der Kirchenpatronin: Maria. Clemens Prasser gibt sich hier als der zweite Stifter von Rottenbuch, als dessen Erneuerer zu erkennen.
+
+'''Autor und Entstehungszeit:''' Signatur in B: Matthäus Gindter Pinxit. 1742. In W10 Jahreszahl über dem Portalbogen MDCCXXXXII. Nach dem Manuskript des Stiftsdekans Joachim Hoffmair ging die Ausstattung und Freskierung in mehreren Etappen vor sich. Günther malte vom 11. August bis Oktober 1737 und vom 19. April bis 6. Mai 1738 Chor, Vierung und Querschiff (I, F, G, H) für 500 Gulden. Unter Propst Clemens Prasser freskierte Günther vom 28. August bis 3. Oktober 1741 und vom 16. Mai bis 22. Oktober 1742 die Gewölbe und Hochschiffwände des Mittelschiffs (A, B, C, D, E, a-f, W<sub>1-12</sub>) und erhielt dafür 1036 Gulden. 1744 schuf Günther vom 15. September bis 27. Oktober die vier Fresken der Seitenschiffgewölbe (S<sub>1-4</sub>) und schließlich, 1746, das Gemälde unter der Orgelempore (EU). Für dieses Emporenfresko und ein inzwischen zerstörtes Deckenbild der Josephskapelle erhielt er 111 fl. 48 kr. Den Quellen nach stellte Günther alle Fresken ohne Unterstützung eines Gehilfen her (vgl. Mois 1953, und Mois 1973).
+
+Zu Ws (Taufe des Augustinus) besitzt die Staatsgalerie Stuttgart eine mit Matth. Gindter fecit 1742 signierte Entwurfszeichnung, braune Feder und Blei, laviert. 33,2 × 25,4 cm, Inv. 627 (Ausstellungskatalog Der Barocke Himmel, S. 38 und Abb. 31). In Münchner Privatbesitz befindet sich eine Entwurfsskizze zu Fresko E (Das unversehrte Herz des hl. Augustinus), Bleivorzeichnung, laviert, 29,5 × 28 cm (Woeckel S. 299 f. und Abb. 10).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: spätgotisches Kreuzgewölbe, das durch Abschlagen der Rippen und durch Ausschalen mit Holz barock verschliffen wurde
+
+Rahmen: A-I Stuckprofilrahmen, von Rocaillen durchbrochen und überspielt, um C vergoldet, S1-4, EU stuckierte Rocaillerahmen, a-f, F<sub>1-4</sub>, G<sub>1-3</sub>, H<sub>1-3</sub>, I<sub>1-4</sub> Rocaillekartuschen, W1-12 geschwungene Stuckprofilrahmen mit Rocail ledekoration
+
+Technik: Fresko; A–I, S1–4, EU, F1–4, W1–12 polychrom, a-f monochrom ocker, G<sub>1-3</sub>, H<sub>1-3</sub> Grisaillen auf Goldbrokatgrund, I1-4 monochrom karmin auf Goldbrokatgrund
+
+Maße: A Höhe 15,60 m; 5,00 × 5,60  
+B Höhe 15,60 m; 5,00 × 5,65  
+C Höhe 15,60 m; 11,70 × 6,25  
+D Höhe 15,60 m; 5,55 × 5,65  
+E Höhe 15,60 m; 5,00 × 5,65  
+F Höhe 15,10 m; Ø 5,70  
+G Höhe 15,60 m; 5,10 × 5,10  
+H Höhe 14,60 m; 5,10 × 5,10  
+I Höhe 7,90 m; 6,40 × 5,00  
+EU 3,55 × 3,00 4,30 × 3,60  
+W<sub>1-12</sub> Höhe 15,60 m  
+
+Erhaltungszustand und Restaurierungen: 1961/62 Reinigung und Verkittung der Risse durch A. Dasser. Schlecht übermalte Bildteile in Vierung, Hängezwickeln (F, F<sub>1-4</sub>) und Querschiffarmen (G, G<sub>1-3</sub>) freigelegt. Größere Schäden in den Mittelschiff- und Querschiff-Fresken (A–H), Wasserflecken im Chordeckenbild (I) behoben.
+
+
+== Beschreibung ==
+
+
+Die in verschiedenen Zeitabschnitten verlaufende Ausstattung der Kirche läßt wie bei den Stukkaturen F. X. Schmuzers, so auch bei den Fresken des Matthäus Günther eine stilistische Entwicklung erkennen. Gegenüber den Fresken von 1737/38 im Ostteil der Kirche, die eine mehr tafelbildmäßige Komposition aufzeigen, sind die des Mittelschiffs von 1741/42 durch eine illusionistische Bildanlage gekennzeichnet. So sind in Fresko F und I, obzwar sich besonders in Fresko F eine rundansichtige Darstellung anbieten würde, die Szenen einansichtig komponiert, während das große Mittelschiff-Fresko C bereits eine panoramahafte Darstellungsform aufweist. Auch die einansichtigen Fresken der Mittelschiffdecke sind illusionistischer durchgestaltet als die der Ostpartie. Dies wird weniger durch konstruktive Mittel – stärkere Untersicht und Ver-
+
+
+[[File:Band01_chunk010_p014_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p477 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=15 -->
+<!-- citation-page-top: Band01 p478 -->
+
+<!-- header: ROTTENBUCH -->
+
+
+[[File:Band01_chunk010_p015_img001.jpg|thumb]]
+
+
+kürzung – als vielmehr durch Gestaltungsmittel der Farbe bewirkt. Die Farbgebung der später entstandenen Fresken ist um vieles leichter und lockerer als in den Gemälden des Chores und der Vierung. Die Bildfiguren sind weniger kontrastreich vom weißgrauen Grund abgesetzt, vielmehr in rosagelb- und blautonige Wolken und Architekturer eingebettet. Nach »oben«, zur illusionierten Höhe hin werden die Figuren fast transparent und wirken entstofflicht und schwerelos. In stärkeren Hell-Dunkel-Kontraster und daraus entstehender größerer Plastizität der Figuren präsentieren sich die Fresken der ersten Ausstattungsperiode. Die Symmetrie der Kompositionen und das Pathos der formalen Durchgestaltung weisen die östlichen Gemälder noch mehr als Schöpfungen des Spätbarocks aus, während in den westlichen Fresken, in denen ein asymmetrischer Bildaufbau überwiegt, das Rokoko völlig zum Durchbruch gekommen ist. 
+
+Der Gesamtentwurf für die Neugestaltung der Gewölbe zielt auf eine optische Verkürzung und Zentralisierung des schmalen, langgestreckten gotischen Baus. In der erst ausgestatteten Ostpartie der Kirche kommt dem dekorativen Element der Stuckornamente mehr Bedeutung zu als in dem später dekorierten Mittelschiff.
+
+Der Altarraum wird durch das zwei Joche zusammenfassende Fresko I vereinheitlicht. Das Vierungsgewölbe ist durch das runde Freskoformat ausgezeichnet. Hier am klassischen Ort der Kuppel ist tatsächlich eine Scheinkuppel gemalt. Jedoch kommt die Illusionsarchitektur hinter der dominierenden figuralen Szene kaum zur Geltung. Beim Vierungsjoch ist das ältere Dekorationssystem besonders augenfällig. Es weist eine durch die Stuckfiguration vorgezeichnete musterartige Ordnungsstruktur auf. Das runde Freskofeld hat einen verhältnismäßig geringen Umfang. Die vier Zwickelkartuschen sind hoch in das Gewölbe hineingezogen. So ist von vorneherein eine große Scheinkuppel ausgeschlossen. Günther faßt die fünf Bildfelder der Vierung optisch zusammen, indem er sie alle polychrom ausmalt und die in Diagonalzügen angelegte Komposition des Mittelfeldes an zwei Stellen über den Bildrahmen hinausführt. Das mittlere Bild strahlt auf diese Weise radial aus und verleiht dem Ordnungsschema rhythmische Dynamik. — Die Fresken in den Querschiffarmen daneben, G und H, greifen nicht in die stuckierte Zone über. Die monochrom, in den Stuckfarben Weiß und Gold gemalten Kartuschen sind vielmehr vom mittleren vierpaßförmigen Bildfeld getrennt und ganz der Ornamentzone zugehörig.
+
+Die sechs gleichartigen Mittelschiffjoche werden durch die fünf Fresken lebendig gegliedert. Das zwei Joche überspannende Fresko C in der Mitte akzentuiert rhythmisch die Folge der vier gleichgroßen Fresken A, B, D und E. Kartuschen sind an den Rand verwiesen, neben die Stichkappen. Die panoramahafte Bildanlage in Fresko C verstärkt die zentralisierende Wirkung dieses Freskos. Es bietet sich dem vorwärts schreitenden Kirchenbesucher zuerst der
+
+
+[[File:Band01_chunk010_p015_img002.jpg|thumb|B Vision des hl. Augustinu]]
+
+
+A AUGUSTINUS SUCHT DIE DREIFALTIGKEIT ZU ERGRÜNDEN Dominierende Gestalt in einer breit gelagerten, bergigen, wildwüchsigen Flußlandschaft ist der hl. Augustinus. Am Ufer stehend, sinnt er über einen Text nach, während zu seinen Füßen ein Knabe auf ein Grübchen weist, in das er vergeblich das Flußwasser mit einem Löffel zu schöpfen versucht hat. Aus Wolken blickt die Hl. Dreifaltigkeit herab, farblich kaum gegen die Himmelsszenerie abgesetzt. Zarte Pastellfarben – helles Rosa, Gelb, Lichtblau, Flieder und Gelbgrün - prägen den idyllisch-ruhigen Charakter der Szene.
+
+B VISION DES HL. AUGUSTINUS Mit Stufenbau und Säulen ist ein Innenraum vage angedeutet. Auf einem reichdrapierten Betstuhl in der Mitte des Bildes sitzt der hl. Augustinus. Er blickt ekstatisch verzückt zu dem Kruzifixus auf. Ein Blutstrahl aus der Seitenwunde trifft den Heiligen. Zu seinen Häupten schwebt in Wolken Maria heran. Aus ihrer Brust fällt ein Milchstrahl auf Augustinus. Ein großbauschiger Vorhang am linken Bildrand unterstreicht die Wirkung des in Rückenansicht gemalten Kruzifixus und bildet das kompositorische Gegengewicht zu der bewegten Szene in der rechten Bildhälfte: Ein Engel trägt Augustinus ein Buch heran, zwei Putti tummeln sich spielend auf der Treppe, zwei weitere leiten empor zu der Marienerscheinung auf Wolken. Die Figurengruppe, vor allem die Gestalt des Augustinus, ist spannungsvoll bezogen auf das in steiler Untersicht wiedergegebene Kreuz. In den bewegten, gleichsam vibrierenden Faltenwürfen der üppigen Draperien und Gewänder ist die ekstatische Stimmung anschaulich eingefangen. Die Farben Hellgrün, Lichtblau, Lavendel und Flieder wirken in diesem Bild effektvoll gegeneinander.
+
+C TOD DES HL. AUGUSTINUS Der Betrachterstandpunkt für das große Fresko liegt unterhalb des westlichen Bilddrittels, bei der Glorie. Als einziges Fresko der Bilderfolge ist es als Panorama aufgebaut. Das Panorama läuft nicht gleichmäßig den geschwungenen Rahmenprofilen entlang, sondern wechselt von szenischen Schauplätzen im Vordergrund unmittelbar über den Rahmenprofilen zu solchen in der Bildtiefe, die hinter den Rahmenstücken versinken. Durch diesen bewegten, raschen Wechsel meistert Günther die große Längserstreckung des Bildfeldes, die sich einer panoramahaften Bildanlage entgegenstellt. Das historische Ereignis des Todes des hl. Augustinus wäh-
+<!-- citation-page-bottom: Band01 p479 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=16 -->
+<!-- citation-page-top: Band01 p480 -->
+
+<!-- header: ROTTENBU -->
+<!-- header: ROTTENBUCH -->
+
+
+[[File:Band01_chunk010_p016_img001.jpg|thumb|C Tod des hl. Augustinus]]
+
+
+rend der Belagerung von Hippo durch die Wandalen wird in zwei Vorgängen geschildert: Im O ist das Sterbelager des Augustinus in der Stadt dargestellt, im W Szenen aus der Belagerung mit der Außenansicht von Hippo. Die östliche Todesszene nimmt über zwei Drittel des Bildfeldes ein, weil die himmlische Handlung eng mit der irdischen verknüpft und die Glorie allein auf die Todesszene bezogen ist. Die Belagerungsszenen im W sind dagegen ganz an den Rand gedrängt, als illustrative Historie dem Hauptereignis zugeordnet.
+
+Der Komposition der östlichen Szene liegt die Form eines steilen Dreiecks zugrunde. Jedoch liegen die Akzente der Handlung nicht axial in der Mitte, sondern sind an die Seiten gesetzt. Die Symmetrie ist zugunsten eines asymmetrisch bewegten Rhythmus aufgegeben.
+
+Das prunkvolle Lager des hl. Bischofs Augustinus steht auf Stufen unter einem Baldachin, der am Gebälk hochaufragender Säulen befestigt ist. Unmittelbar unterhalb des Baldachins (es befindet sich dort eine reale, liturgische Öffnung) schwebt die Geisttaube zu Häupten des Augustinus. Um das Lager des Sterbenden sind Chorherren versammelt. Von dem im Hintergrund gezeigten Palast ziehen weitere Geistliche heran. Am rechten Bildrand führt eine massive Quermauer in den Bildvordergrund, wo ein Schreiber, isoliert von der Sterbeszene, an einem Tischchen sitzt. Ein Wolkenbogen leitet über zu der himmlischen Handlung: Caritas und Fides nehmen die entschwebende Seele des Augustinus in Empfang. Fides, Divina Sapientia und Spes weisen mit einer Lampe in der Hand zur lichtstrahlenden Glorie empor. Schwebende Engel halten Lorbeer und Krone bereit, begleitet von musizierenden Putti.
+
+Die Krone bereit, begleitet von musizierenden Putti. Der sterbende Heilige und die betenden Chorherren sind in einer dicht gedrängten Gruppe der orthogonalen Bettstatt-Kulisse zugeordnet – einzelne Figuren pathetisch erregt. Die Seele des Heiligen und die Tugenden folgen in bewegten Gebärden der steil ansteigenden, schmalen Wolkenbahn, die zum Glorienrund führt. Baldachin und Säulen verquicken irdische und himmlische Handlung, sie ragen hoch in den Himmel hinein - geradezu als Leitmotiv für den Weg der Seele. Die stereometrisch-tektonischen Bauformen kontrastieren zu den amorphen Wolken, die sich in weitem Bogen um die Säulen herumziehen. Die helle Farbigkeit – grüngraue und lila Töne – mildert zugleich den Gegensatz und bindet den Baldachinbau in die Himmelsszenerie ein. Hier zeigt sich Günthers differenzierte Farbbehandlung: Während die gleichfarbigen Wolken rauchig weich das Licht schlucken, schimmern Architektur und Baldachinstoff silbrig und opaleszierend. Die westlichen Belagerungsszenen zeigen in rhythmischem Wechsel von Vordergrund und Hintergrund die Scharen der bewaffneten Krieger, angeführt von ihrem Feldherrn. Die ferne Ansicht Hippos nimmt die NW-Seite ein, die Verteidiger werden über der Stadtmauer und auf den Türmen sichtbar. An der N-Seite ist eine Gruppe kräftig ausschreitender Soldaten direkt über dem Rahmen in gewagten Körperdrehungen und Verkürzungen wiedergegeben, ein Lanzen- und ein Schildträger scheinen geradezu aus dem Fresko heraus in den Kirchenraum überzuwechseln. Die Soldaten kehren – wie alle übrigen auch – der Sterbeszene und der himmlischen Handlung den Rücken zu. Schräg gegenüber ist der befehlende Wandalenfürst in voller Gestalt, frontal stehend dargestellt. Der Feldherr und der hl. Augustinus sind, jeweils am Ende der die Himmelsszenerie bestimmenden S-Kurve des durchgehenden Wolkenzuges, als Antipoden diametral auseinandergerückt. Während der Heilige und die Caritas-Gruppe, ihrer Bedeutung gemäß, wenig verkürzt als Gewandfiguren konzipiert sind, werden der Feldherr und seine Soldaten in ihrer irdischen Leiblichkeit durch die Untersicht besonders betont. Farblich sind die ikonologisch bedeutsamen Stellen im Bild ausgezeichnet: Gold, das dem Rahmen einen feierlich-kostbaren Charakter verleiht, tritt im Bild beim Sterbelager und in den Gewändern der Tugenden aus.
+
+== D GRAB DES HL. AUGUSTINUS ==
+Einansichtige, über dem Ostrahmen symmetrisch aufgebaute Architekturszenerie in steiler Untersicht und starker Verkürzung. Auf einem vielstufigen Podest steht in einer von zwei Pilastern gerahmten und von einem Baldachin bekrönten Pfeilernische ein Sarkophag. Darauf ruht die Figur des Heiligen. Seine Gestalt nimmt das Zentrum des Bildes ein und bezeichnet die horizontale Fluchtlinie der Perspektivkonstruktion.
+
+Pilger suchen Hilfe beim Grab des Heiligen; sie sind in bewegter Gruppierung einer flach ansteigenden Diagonale eingefügt. Links unten eine Gruppe Kranker, das heilsame Wasser aus dem Brunnenbecken beim Sarkophag schöpfend und trinkend. Von rechts führt ein Knabe einen Blinden zum Grabmal. Darüber ein kranker Augustinerpropst und andere Kranke, eine Frau hält ein Pestglöcklein empor. Durch die Farbgebung verleiht Günther der Architekturszenerie eine lockere und duftige Gesamtwirkung. Die Farbtöne – vor allem Rosa, Violett, Blaugrau bis Weiß und Grün – sind in den Architekturteilen in zarten, ineinanderspielenden Nuancen und in den Gewändern etwas kräftiger, mit Licht- und Schattenpartien, gemalt.
+
+== E DAS UNVERSEHRTE HERZ DES HL. AUGUSTINUS ==
+Auch in diesem Fresko ist der Sarkophag des Heiligen formaler und inhaltlicher Schwerpunkt des Bildes. Er steht ebenfalls auf einer in steiler Untersicht gezeigten Stufenanlage, doch in dieser Darstellung erstrahlt unmittelbar darüber die Himmelsglorie. Darin leuchtet das Wort Sanctus im Trinitätssymbol. Engel und Putti umfliegen das Glorienrund und haben sich um den geöffneten Sarkophag geschart. Sie heben das strahlend reine Leichentuch empor, darüber schwebt unversehrt das Herz des Heiligen. Angesichts dessen stürzen die Widersacher (= Pelagianer) rücklings in die Tiefe.
+
+Der symmetrisch angelegte Bildaufbau wird durch das geringfügige Herausrücken des Hauptmotivs, des Herzens, aus der Mittelachse aufgelockert. Die lichte Himmelsszenerie und der preziös-anmutige Engelreigen verleihen dem Bild einen lyrisch-musikalischen Charakter.
+<!-- citation-page-bottom: Band01 p481 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=17 -->
+<!-- citation-page-top: Band01 p482 -->
+
+<!-- header: ROTTENBUCH -->
+
+
+[[File:Band01_chunk010_p017_img001.jpg|thumb]]
+
+
+a–f In den monochrom goldfarben gemalten Kartuschen des Mittelschiffgewölbes verkörpern weibliche Figuren sechs Tugenden.
+
+W1–12 Die Fresken der Hochschiffwände im Mittelschiff zeigen Szenen aus dem Leben des hl. Augustinus. Sie weisen alle eine Diagonalkomposition auf, die auf der Nordseite von links nach rechts, auf der Südseite von rechts nach links, also jeweils von W nach O, auf den Altarraum zu verläuft. Dieses Kompositionsschema verleiht den Bildern im einzelnen dynamische Bewegung und in der Gesamtwirkung einen harmonisch vereinheitlichenden Rhythmus. Auch der bis auf zwei Ausnahmen (W2, W7) konsequent durchgeführte szenische Aufbau über Treppenstufen ordnet sich dieser zusammenbindenden Tendenz unter. Die wandbildgemäße Bildanlage weist mit Rücksicht auf den tiefer liegenden Standort des Betrachters geringe Verkürzungen und Untersichten auf. Die Farbigkeit entspricht im wesentlichen jener der Mittelschiffgewölbefresken, sie ist um geringes kräftiger und intensiver.
+
+F GLORIE DES HL. AUGUSTINUS Wie bei den Mittelschiffgewölbefresken C, D, E liegt der Standort für das Vierungsfresko F unterhalb des westlichen Bildendes. Der Betrachter blickt schräg in eine reich dekorierte barocke Pendentifkuppel auf säulengeschmückten Pfeilern. Durch die weite Scheitelöffnung sind Wolken und himmlische Gestalten eingedrungen. Vor dem Kuppelrund werden die Personen der Hl. Dreifaltigkeit sichtbar. Auf einer Wolke dicht bei einem Altar steht Augustinus als Mittler zwischen den Angehörigen der Augustiner-Orden und Gott. Engel begleiten den Heiligen, sie durchmessen den ganzen Kuppelraum und dringen über denselben hinaus. Zur Seite des Heiligen stürzen sie mit Blitz und Feuer die Feinde des rechten Glaubens, die der Heilige bekämpft hat, in die Tiefe.
+
+Der Altar steht auf einem Treppenpodest unterhalb der Kuppelöffnung. Die Repräsentanten der Augustiner-Orden haben sich darum versammelt und bringen ihre Herzen zum Opfer dar. Sie wenden sich bittend an ihren Patron. Die enge Beziehung des Heiligen zu den Ordensvertretern wird gegenständlich sichtbar gemacht: Der Rauch der flammenden Herzen auf der Opferschale verdichtet sich zu der Wolke, auf der Augustinus seinen Platz hat. Ein Engel präsentiert ein Buch mit der Aufschrift Regula.
+
+Die in Perspektivkonstruktion gemalte Illusionsarchitektur ist nur ein Hintergrundsmotiv für die figürliche Szene. Die Größe der Figuren steht in keinem kommensurablen Verhältnis zur Illusionsarchitektur. Die szenische Handlung flutet gleichsam über den Bildraum hinweg, sie sprengt die meßbaren Grenzen der Scheinarchitektur. Das reale stukkierte Gewölbe wird so doppelt negiert, durch die Scheinarchitektur, die das Gewölbe überhöht, und durch die Bildfiguren, die den Bildraum dem messenden Auge entrücken. Es handelt sich nicht mehr um eine raumhaltige Scheinkuppel, sondern um einen »visionären Imaginationsraum« (Hans Tintelnot, Die barocke Freskomalerei in Deutschland, München 1951, S. 159). Bei der Gestaltung dieses Freskos geht Günther von Freskoschöpfungen seines Lehrers Asam aus (Abbildung S. 484).
+
+F1–4 Die polychrom gemalten Zwickelkartuschen zeigen Engel und Putti, welche verschiedene Bestandteile des Stundengebetes vorstellen.
+
+G AUGUSTINUS UND MUTTER MONIKA IM GESPRÄCH Das einansichtige Deckenbild im nördlichen Querschiff hat seine Basis im Osten. Schauplatz der Szene ist ein Garten. Augustinus, an eine gemauerte Brüstung gelehnt, blickt zu dem Trinitätssymbol im Himmel empor. Zu seiner Rechten sitzt Monika, sie wendet sich im Gespräch zu ihrem Sohn und weist eindringlich auf die Dreifaltigkeitsglorie. – Zwei Engelgruppen über den ins Gespräch vertieften Heiligen betonen die Symmetrie der Komposition. Mit ihren Lockenköpfen erinnern sie unmittelbar an den Engeltypus des Cosmas Damian Asam. Auch die modisch gekleidete, in barocker Pose wiedergegebene Gestalt des Augustinus ist nahezu wörtlich dem Figurenrepertoire Asams entnommen (Abbildung S. 486).
+
+G1–3 Stuckfarbig weiß-grau gemalte Halbfiguren vor Goldbrokatgrund geben die drei göttlichen Tugenden wieder.
+
+H DAS GASTMAHL FÜR DIE ARMEN Pendant zu G im südlichen Querschiff. – Die Mahlszene ist in einem Innenraum mit Ausblick auf eine zweitürmige Kirchenfassade wiedergegeben. Augustinus kniet auf einem Stufenpodest, er wäscht einem Pilger die Füße, dieser gibt sich durch seine Wundmale als der Heiland zu erkennen. Die zum Mahl versammelten Gäste folgen staunend dem wunderbaren Geschehen. – Unmittelbar über den Köpfen der Gäste thront Fides-Ecclesia auf breitgelagerten Wolken.
+<!-- citation-page-bottom: Band01 p483 -->
+
+
+[[File:Band01_chunk010_p017_img002.jpg|thumb|E Das unversehrte Herz des hl. Augustinus]]
+
+<!-- citation-page-top: Band01 p484 -->
+
+
+[[File:Band01_chunk010_p018_img001.jpg|thumb|I Die Erdteile huldigen Maria]]
+
+
+Darüber schwebt die Geisttaube und sendet einen Gnadenstrahl aus (Abbildung S. 487).
+
+H<sub>1-3</sub> Weibliche Halbfiguren stellen drei der vier Kardinaltugenden dar.
+
+I DIE ERDTEILE HULDIGEN MARIA Das einansichtig angelegte Chorfresko ist zweiteilig komponiert. In der fast zwei Drittel des Bildes einnehmenden westlichen Partie ist die Gottesmutter kaum verkürzt wiedergegeben. Sie ist wie ein plastisches Altarbild vor den flächigen, von
+
+
+[[File:Band01_chunk010_p018_img002.jpg|thumb|Glorie des hl. Augustinus, des Kirchenlehrers und Bischofs von Hippo – das Wirken des Heiligen als Regelstifter, Patron und Vorbild seiner Ordensfamilie. F1 Schriftlesung F2 Chorgesang F3 Chorgebet F4 Kirchenväterlesung]]
+<!-- citation-page-bottom: Band01 p485 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=19 -->
+<!-- citation-page-top: Band01 p486 -->
+
+
+[[File:Band01_chunk010_p019_img001.jpg|thumb]]
+
+
+einer Vorhangdraperie eingefaßten Wolkenhimmel gesetzt, deutlich unterschieden von den in illusionistischer Perspektive gemalten Figuren der vier Erdteile darunter in der östlichen Partie.
+
+Die Himmelskönigin Maria hält den Jesusknaben, der als Erlöser der Welt gezeigt wird: Auf der Weltkugel sitzend hebt er ein Kreuz empor. Engel tragen die Gottesmutter. Unterhalb der Gestalt Mariens steht Europa, an einen Erdglobus gelehnt; als Königin gekleidet, ist sie in Typus und Erscheinung Maria ähnlich. Sie weist auf Tiara, Bischofshut und Herrscherkrone, die Symbole geistlicher und weltlicher Macht. Ein Page mit einem Pferd und der mythische Stier bilden ihr Gefolge. Ihr gegenüber, als männliche Rückenfigur gemalt, nimmt Asia den zweiten
+
+Ehrenplatz ein. Asia, begleitet von Page und Kamel, bringt kostbare Schätze dar. Zur Linken Europas sind America und Africa wiedergegeben. Africa, einen Elefantenkopf als Hauptschmuck, begleitet von einem Krokodil, bietet die von einem Mohrenknaben getragenen Korallen dar, und die federngeschmückte America läßt Weihrauch emporsteigen. Der bühnenmäßige Schauplatz der Erdteilpersonifikationen ist ein gekurvtes Stufenpodest. Pfeiler, Bogen und der Ansatz einer Kuppelschale wirken weniger als Architektur denn als Würderahmen, in deutlicher Entsprechung zu der Vorhangdraperie. Die starke Betonung der Mittelachse durch die Hauptfiguren Maria und Europa, die Dreiecks¬komposition bei der Mariengruppe sowie die unterschiedliche perspektivische Behandlung der Figuren geben dem Fresko einen hierarchisch-feierlichen Charakter (Abbildung S. 485).
+
+I1-4 Engel in Dreiviertelfigur, stuckfarbig vor Goldbrokatgrund gemalt, stellen die ehemaligen Rottenbucher Bruderschaften vor.
+
+Die Fresken im Ostteil der Kirche (F, G, H, I) unterscheiden sich farblich von den Mittelschiff-Fresken. Sie haben insgesamt einen kühler wirkenden, auf das dominierende Grau-Weiß abgestimmten Farbcharakter. Die buntfarbig gemalten Figuren sind durch Glanzlichter und Schatten etwas plastischer als in den Mittelschiff-Fresken modelliert und noch nicht so tonig eingebunden, vielmehr vom grauweißen Grund abgehoben.
+
+S1-4 Die zwei östlichen Joche der beiden Seitenschiffe sind mit Gewölbefresken von 1744 ausgestattet; diese zeigen szenische Heiligendarstellungen.
+
+EU TEMPELREINIGUNG Das letztausgeführte Fresko von 1746 befindet sich an der Unterseite der Orgelempore, es hat seine Basis im Westen. Zentrale Bildfigur ist Christus. In weit ausholender Bewegung hebt er die Rechte zum Peitschenhieb, kippt mit der Linken einen Tisch nach hinten um und tritt einen hinabstürzenden Händler. Seine rotgewandete Gestalt, hinterfangen von einem weiten, flat-
+
+
+[[File:Band01_chunk010_p019_img002.jpg|thumb|H Das Gastmahl für die Armen]]
+
+
+<!-- citation-page-bottom: Band01 p487 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=20 -->
+<!-- citation-page-top: Band01 p488 -->
+
+<!-- header: ROTTENBUCH -->
+
+<!-- header: ROTTENBUCH -->
+
+
+[[File:Band01_chunk010_p020_img001.jpg|thumb]]
+
+
+ternden blauen Überwurf, überragt die nach allen Seiten auseinanderstiebenden, fliehenden Händler.
+
+Die unterhalb der Figur Christi wiedergegebenen Händler sind in steiler Untersicht gezeigt. Die Bretter eines von unten gesehenen Tisches – ganz in der Art Bergmüllers gemalt - führen aus dem Tempel, dem Bildschauplatz, hinaus scheinbar direkt in den Raum des Betrachters hinein. Die in energischer Aktion gezeigte Figur Christi ist in die Fläche gebannt, während bei der gleichen Szene in einem fünf Jahre später gemalten Fresko der Pfarrkirche von Gossensaß in Tirol die ähnliche Gestalt Christi aus der Fläche gelöst ist, die dynamische Bewegung wirkt dort unmittelbar in den Raum des Kirchenbesuchers hinein (Gundersheimer, Tf. 44, Abb. 65).
+
+
+== Ikonographie ==
+
+
+Das Programm der Fresken ist zum überwiegenden Teil dem Ordenspatron Augustinus gewidmet. Als literarische Quellen liegen den Szenen die Schriften des Aurelius Augustinus zugrunde, in erster Linie die Confessiones, welche in Lib. 1-9 Ereignisse aus dem Leben des Heiligen bis zu dessen Bekehrung und zum Tode seiner Mutter wieder geben. Bis zum Tode des Heiligen reicht die von Possidius, dem langjährigen Schüler und Biographen des Augustinus, verfaßte Vita. Die später entstandenen, u. a. in der Acta Sanctorum aufgeführten Legenden schließlich ergänzen den dargestellten Lebenszyklus. Die ikonographische<br>Bestimmung der einzelnen Darstellungen wurde im wesentlichen von J. Mois (1953, S. 76-81) unternommen, dessen fundierte Monographie der Stiftskirche das historische Quellenmaterial gründlich auswertet.
+
+In zweimaliger W-O-Folge schildern die Bilder an Hochschiffwänden, Mittelschiff- und Querschiffgewölben (W<sub>1-12</sub>, A-H) Leben und Glorie des hl. Augustinus. Der Zyklus beginnt im W an der Südwand (W<sub>1</sub>) und schreitet.
+
+
+[[File:Band01_chunk010_p020_img002.jpg|thumb|W3 Flucht aus Afrika]]
+
+
+
+[[File:Band01_chunk010_p020_img003.jpg|thumb|W4 Augustinus im Kreis der Manichäer]]
+
+
+zwischen S- und N-Seite wechselnd, chronologisch bis W<sub>12</sub><br>an der N-Seite fort. Zwei hierzu gehörige Szenen (G und<br>H) sind außerhalb der Ordnung in den bereits unter Propst<br>Patritius Oswald ausgemalten Querschiffwölbungen
+
+den. Die Mittelschiffgewölbefresken setzen, im W beginnend, die Folge chronologisch fort und enden mit dem Glorienbild im Vierungsgewölbe unmittelbar vor dem Altarraum (A—F).
+
+W<sub>1</sub> MONIKA UNTERRICHTET AUGUSTINUS Auf Stufen vor zwei Arkadenbögen sitzt der Knabe Augustinus vor seiner Mutter Monika. Sie zeigt ihm ein Buch mit der aufgeschlagenen Schriftstelle Fili mi ausculta / sermones meos / prov. / 4 U. 20. - Die Unterweisung im christlichen Glauben durch seine Mutter schildert Augustinus in den Confessiones (1,11). Die Mutter und die dahinter stehende Amme sind deutlich geschieden von dem noch nicht getauften Augustinus und den zwei Männern, in denen wohl der ungläubige Vater Patritius und ein heidnischer Lehrer zu sehen sind.
+
+W2 AUGUSTINUS ZWISCHEN WELT UND KIRCHE In einer öden Landschaft steht zaudernd der jugendliche Augustinus. Divina Providentia zeigt ihm die Kirche Christi auf einem fernen, steilen, weglosen Felsen, während ein Freund und ein Eros-Putto ihn von diesem Ziel abzulenken versuchen.
+
+Der Freund, einen Geldsack in der Hand, und der Eros- Putto, einen Köcher mit Pfeilen geschultert, versinnbildlichen das Laster – die im dritten Buch der Confessiones geschilderten haltlosen Freundschaften mit Männern und Frauen, die Augustinus davon abhielten, den Weg zur Kirche, den er als den wahren erfühlte, auch einzuschlagen. Die in Wolken thronende Divina Providentia ist an ihrem Zepter mit dem Dreifaltigkeitssymbol kenntlich. Augustinus berichtet wiederholt von der verborgenen Führung Gottes während seiner sündhaften Jugendzeit. Die Kirche auf dem Felsen entspricht dem biblischen Bild Mt 16,18; zugleich macht der Fels anschaulich, wie fern Augustinus noch der Kirche ist. Die mosaischen Tafeln am Fuß des Berges deuten als Weg die Gesetzeszucht an. Als die römisch-katholische Kirche weisen die päpstlichen Insignien den Rundtempel aus; hier ist vielleicht noch ein versteckter Hinweis auf Rom, das von Gott vorherbestimmte Ziel des Rhetors Augustinus (Confessiones 5,8), zu sehen.
+
+W<sub>3</sub> FLUCHT AUS AFRIKA Vor einem Kirchenportal steht inmitten ihrer Dienerinnen weinend die Mutter Monika. Augustinus verläßt zurückschauend die Frauen. Links das reisefertige Segelschiff.
+
+Die Szene schildert die heimliche Abreise des Augustinus nach Rom. Er hatte seine Mutter, die ihm bis ans Meer ge-<br>folgt war, um mit ihm zu fahren, getäuscht und in der Kapelle des hl. Cyprian zurückgelassen (Confessiones 5,8). Der Redegestus des Augustinus deutet auf diesen Betrug nin.
+
+W4 AUGUSTINUS IM KREIS DER MANICHÄER In einer offenen Halle sind auf den Stufen die Manichäer mit ihren Schriften versammelt, eifrig um Augustinus be-<br>müht. Dieser steht zweifelnd in ihrer Mitte. — Seinen eige-<br>nen Ausführungen nach wurde Augustinus gegenüber den
+
+Lehren der Manichäer skeptisch und begann sich für die Predigten des Bischofs Ambrosius zu interessieren (Con fessiones 5,14).
+
+
+[[File:Band01_chunk010_p020_img004.jpg|thumb]]
+
+
+
+[[File:Band01_chunk010_p020_img005.jpg|thumb|W<sub>1</sub> Monika unterrichtet Augustinus]]
+
+
+W5 PREDIGT DES BISCHOFS AMBROSIUS In einem barocken Kirchenraum lauscht eine Schar von Männern, unter ihnen deutlich hervorgehoben der junge Augustinus, ergriffen den Worten des Bischofs, der von der Kanzel spricht. Ambrosius und Augustinus sind einander diagonal gegenübergestellt. Die durch pathetische Gebärden betonte Konfrontation wird kompositionell in Spannung gehalten durch eine gegenläufige Diagonale, gegeben in der Gebälklinie und in der Gruppierung der Zunorer.
+
+Der als Lehrer der Rhetorik nach Mailand berufene Augustinus hört am Sonntag die Predigten des Bischofs Ambrosius; dadurch findet er langsam zum christlichen Glauben Zugang (Confessiones 6,4). J. Mois (1953, S. 77) deutet die betende Frau mit dem Knaben unter der Kanzel als Darstellung der ihrem Sohn nach Mailand gefolgten Monika mit ihrem Enkel Adeodatus, dem Sohn des Augustinus aus einem Konkubinat.
+<!-- citation-page-bottom: Band01 p489 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=21 -->
+<!-- citation-page-top: Band01 p490 -->
+
+<!-- header: ROTTENBUCH -->
+
+
+[[File:Band01_chunk010_p021_img001.jpg|thumb]]
+
+
+
+[[File:Band01_chunk010_p021_img002.jpg|thumb|W10 Klostergründung]]
+
+
+W6 BESUCH DES PONTICIANUS Der afrikanische Hofbeamte tritt in die Studierstube des Augustinus, welcher, in einen Sessel gelehnt, den Worten des Besuchers lauscht, dessen große Gestalt durch die Beleuchtung im Hintergrund effektvoll abgehoben ist.
+
+Tiefen Eindruck hinterlässt bei dem immer noch zaudernden Augustinus der Bericht des Pontician über den Einsiedler Antonius von Ägypten und die Klöster in der afrikanischen Wüste (Confessiones 8,6–7).
+
+W7 BEKEHRUNG In einem Garten vor einem Landhaus ruht Augustinus unter Gebüsch. Eine allegorische Gestalt in den Wolken neigt sich zu Augustinus hinab; in dem von ihr ausgehenden Lichtstrahl stehen die Worte: Tolle Lege T
+
+Im Bericht der Confessiones (8,12,29; s. Ed. Bernhart, S. 414–16) hört Augustinus, unter einem Feigenbaum liegend, von einer Kinderstimme das »Tolle lege«. Er eilt ins Haus zu seinem Freund Alypius zurück, schlägt dort die 
+
+Rottenbucher Fresko ist die historische Szene leicht verändert worden und durch allegorische Figuren bereichert, welche sich auf die Zeit unmittelbar vor diesem Bekehrungserlebnis beziehen: Augustinus hört die Stimmen der Tändelei und Eitelkeit, der ehemaligen Freundinnen, bis diese durch die Keuschheit, die Augustinus für ein Leben in Enthaltsamkeit und Tugend gewinnt, verdrängt werden. ». . . casta dignitas continentiae, serena et non dissolute hilaris, honeste blandiens ... et extendens ad me suscipiendum et amplectendum pias manus plenas gregibus<br>bonorum exemplorum. Ibi tot pueri et puellae, ibi iuventus multa et omnis aetas et graves viduae et virgines anus, et in omnibus ipsa continentia . . . « (Confessiones 8, 11,27; a. a. O., S. 410).
+
+Continentia ist rosenbekränzt mit einem langen Schleier über dem Haupt als liebliche Jungfrau wiedergegeben. In der Rechten hält sie eine Lilie – das klassische Reinheitssymbol. Der Putto daneben präsentiert eine Schildkröte als Sinnbild der Keuschheit (vgl. Picinelli, Lib. 6, Nr. 250 s. v. testudo – die panzergeschützte Schildkröte steht für die »mulieris castitas«; bei Ripa, Rom 1603, hat »pudicitia« unter anderem eine Schildkröte als Attribut). Das Gefolge der Continentia wird durch drei ihr ähnliche junge Mädchen repräsentiert, sie tragen ein Herz, aus dem eine Lilie sprießt – zum Zeichen ihrer lauteren Tugend.
+
+Die »nugae nugarum et vanitates vanitantium, antiquae amicae meae« (Confessiones 8, 11,26; a. a. O., S. 410) werden durch eine perlengeschmückte Frau und einen Amor-Putto verkörpert. Venus und Amor sind in die Laster Vanitas und Amor carnalis verwandelt. Die Maske, Sinnbild der Verstellung, bezeichnet das Laster im allgemeinen, die Erdkugel die sündhafte Welt. Der Bogen Amors ist gebrochen, die stürzenden Laster sind besiegt.
+
+
+[[File:Band01_chunk010_p021_img003.jpg|thumb|W6 Besuch des Ponticianus]]
+
+
+W8 TAUFE In einer Basilika empfängt Augustinus im Kreise seiner Freunde durch Bischof Ambrosius die Taufe. Dieses Ereignis fand – zusammen mit der Taufe seines Freundes Alypius und seines Sohnes Adeodatus, die im Fresko nicht dargestellt sind – an Ostern 387 in Mailand statt (Confessiones 9,6). Augustinus und Ambrosius
+
+
+[[File:Band01_chunk010_p021_img004.jpg|thumb]]
+
+
+sollen aus diesem Anlaß erstmals das Te Deum / Laudan (us) gesungen haben, das im Bild Putti in der Kuppel auf einem Notenblatt zeigen (Durch Ambrosius wurde der Kirchengesang in Mailand eingeführt.)
+
+G AUGUSTINUS UND MONIKA IM GESPRÄCH Vor seiner Rückkehr nach Afrika weilte Augustinus in Ostia und führte mit seiner Mutter Monika kurz vor ihrem Tod im Jahr 387 ein letztes tiefreligiöses Gespräch über die Ewigkeit, das Mutter und Sohn in Verständnisinnigkeit verband (Confessiones 9,10). Als Schauplatz des Gesprächs ist ein Garten und nicht, dem Confessiones-Text folgend, ein Platz an einem Fenster der Herberge in Ostia wiedergegeben.
+
+
+[[File:Band01_chunk010_p021_img005.jpg|thumb|W9 Priesterweihe]]
+
+
+W9 PRIESTERWEIHE In einem Kirchenraum wendet sich der am Altar stehende Bischof Valerius, von Priestern assistiert, dem jungen Augustinus zu. Dieser wird von zwei Begleitern vorwärts gedrängt. Sie weisen auf das auf der Treppe bereitliegende Priestergewand. Links auf den Stufen zwei Männer im Gespräch
+
+
+[[File:Band01_chunk010_p021_img006.jpg|thumb|W8 Taufe]]
+
+
+Nachdem Augustinus in Afrika zwei Jahre in monastischer Zurückgezogenheit gelebt hatte, wurde er 390 in Hippo während einer Messe gegen seinen Willen von der Gemeinde zum Priester bestimmt. Die Darstellung schildert getreu dem Bericht des Possidius (Kapitel 4), wie der widerstrebende und weinende junge Mann zum Altar geschoben wird.
+
+W10 KLOSTERGRÜNDUNG Vor einem säulengeschmückten Portal überreicht Augustinus feierlich einem Aspiranten das Regelbuch. Der Baumeister trägt den Klosterplan herbei und weist auf einen prächtigen Garten als den Bauplatz für das Kloster. Ein Bauarbeiter hält Mörteltrog und Kelle zur Grundsteinlegung bereit. Zuschauer umringen die Szene.
+
+Über die Entstehung des sog. Gartenklosters von Hippo berichtet Augustinus in den Sermones (Sermo 355,2, PL Bd 39, Sp. 1569 f.): »Et quia hoc disponebam, in monasterio esse cum fratribus, cognito instituto et voluntate mea beatae memoriae senex Valerius dedit mihi hortum illum in quo nunc est monasterium. Coepi boni propositi fratres colligere, compares meos, nihil habentes sicut nihil habebam, et imitantes me.«
+
+Die Augustiner-Orden sehen ihren Ursprung in dem asketischen Gemeinschaftsleben, das Augustinus mit seinem Klerus im Geiste der Apostelgemeinde zu Jerusalem (Act 2,44; 4,32) führte. Augustinus wurde als Schöpfer der nach ihm benannten Ordensregel angesehen. Darum ist Augustinus als Ordensvater in der Tracht der Augustiner-Chorherren wiedergegeben. Die Klostergründung des Heiligen legitimiert das Augustiner-Chorherrenstift. Die Jahreszahl MDCCXXXXII ist die Datierung der Freskomalerei im Langhaus und damit der barocken Erneuerung des Kirchenraumes, die mit der Freskierung im wesentlichen abgeschlossen war. Die Anbringung der Datierung gerade in dieser Szene, an ausgezeichneter Stelle – in einer Kartusche oberhalb der Gestalt des Augustinus –, läßt vielleicht den Schluß zu, daß die Erneuerung des Stiftes (= Neugründung, s. das Wappenbild des Auftraggebers Clemens Prasser) rückbezogen wurde auf die heilsgeschichtlich relevante
+<!-- citation-page-bottom: Band01 p491 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=22 -->
+<!-- citation-page-top: Band01 p492 -->
+
+<!-- header: ROTTENBUCH -->
+
+
+[[File:Band01_chunk010_p022_img001.jpg|thumb|W11 Bischofsweihe]]
+
+
+Klostergründung des Augustinus. Doch gibt die bildliche Darstellung nur einen versteckten, indirekten Hinweis
+
+
+== W11 BISCHOFSWEIHE ==
+Aus der Hand des greisen Bischofs Valerius empfängt Augustinus im Beisein von zwei Bischöfen, Meßdienern und Soldaten die Bischofsmitra. – 395 erwählte Bischof Valerius von Hippo Augustinus zum Hilfsbischof und zu seinem späteren Nachfolger. Augustinus überwand sein Widerstreben mit der Einsicht: »Quod quidem quia tanta eius (Valerii) charitate, tantoque populi studio Dominum id velle credidi, nonnullis iam exemplis praecedentibus, quibus mihi omnis excusatio claudebatur vehementer timui excusare« (Epistolarum Classis 2, epistola 31,4; PL, Bd 33, Sp. 123; vgl. Possidius Kapitel 8).
+
+
+== W12 DIE GOTTESLIEBE ENTFLAMMT DEN HL AUGUSTINUS ==
+Beim Studium religiöser Schriften gleitet Augustinus, seiner Sinne nicht mehr mächtig, von seiner Sitzbank hinab auf die Knie. Ein Engel stützt den in Ekstase Ohnmächtigen und lenkt einen feurigen Pfeil auf die Brust des Heiligen. Der Pfeil ist eingebettet in einen feurigen Lichtstrahl, der von der lichten Dreifaltigkeitserscheinung im Himmel ausgeht. Der Pfeil hat an beiden Enden eine Spitze, zum Zeichen, daß die von Gott in Augustinus entfachte Liebe (= Flammen auf der Brust des Heiligen) zu Gott zurückkehrt. Drei Putti (eine Anspielung auf die Dreifaltigkeit?) entzünden an dem Gnadenstrahl eine Ampel (ampulla!). Die Ampel verbildlicht das Licht der Erkenntnis Gottes, das Augustinus zuteil wird. Das Ampelmotiv findet sich im Todesbild (C) wieder.
+
+[[File:Band01_chunk010_p022_img002.jpg|thumb|W12 Die Gottesliebe entflammt den hl. Augustinus]]
+
+Die Darstellung der Verzückung des hl. Augustinus, ikonographisch vergleichbar der hl. Therese des Gian Lorenzo Bernini, geht nicht auf eine historische Vision des Augustinus zurück. Ein zentrales Thema der Confessiones, die Liebe Gottes, die den Menschen ergreift und ihn zur Liebe und Hingabe an Gott befähigt – die Liebe Gottes, die dem suchenden Menschen die Erkenntnis Gottes schenkt, ist in einer religiös-mystischen und sinnbildlich-allegorischen Handlung vorgestellt. Die einzelnen Sinnbilder finden sich auch im metapherreichen Text der Confessiones, wie z. B. »... tu, lumen cordis mei ...« (3, 4, 8) — »Sagittaveras tu cor nostrum caritate tua, et gestabamus verba tua transfixa visceribus . . . « (9, 2, 3) – ». . . tetigisti me, et exarsi in pacem tuam.« (10, 27, 38) – »O amor, qui semper ardes et numquam extingueris, caritas, deus meus, accende me!« (10, 29, 40; s. Ed. Bernhart, S. 106, 424, 548, 550).
+
+== H DAS GASTMAHL FÜR DIE ARMEN ==
+Der Legende nach erschien bei einem der Gastmahle, das Augustinus den Armen bereitete, Christus selbst und gab sich Augustinus durch seine Wundmale zu erkennen (AASS, S. 358, 711). Die Legende knüpft bei der Fußwaschung Christi (Jo 13) und Mt 25,40 an: »Was ihr getan habt einem unter diesen meinen geringsten Brüdern, das habt ihr mir getan.«. Augustinus, der sich in Werken der Nächstenliebe übt, wird das Licht der Erkenntnis Gottes zuteil. Zur Verdeutlichung ist der historischen Szene eine emblematisch-allegorische Handlung eingefügt, die jedoch klar getrennt ist von der Mahlszene selbst: Der Lichtstrahl der Geisttaube bricht sich im Spiegel der Fides-Ecclesia und wird von da weitergeleitet zur Brust des Augustinus. Der Glaube bzw. die Kirche sind als Vermittler göttlicher Gnade vorgestellt.
+
+== A AUGUSTINUS SUCHT DIE DREIFALTIGKEIT ZU ERGRÜNDEN ==
+Das größte dogmatische Werk des Augustinus, »De Trinitate Dei«, an dem er vierzehn Jahre lang arbeitete, gab den Anstoß zu der bekannten Legen-denerzählung vom spielenden Knaben am Strand von Ostia, dessen Sandgrübchen das Wasser des Meeres ebensowenig faßt, wie es dem Menschen möglich ist, die Dreifaltigkeit mit dem Verstande zu begreifen (AASS, S. 357 f., 707 f.). Die Szene zeigt den hl. Augustinus als Kirchenlehrer, die legendäre Handlung ist beiläufig geschildert, stimmungsvoll gemalt.
+
+== B VISION DES HL. AUGUSTINUS ==
+Das mystische Legendenmotiv der Stärkung eines Heiligen durch das Blut Christi und durch die Milch Mariens (Lactatio) – bekannter als Vision des hl. Bernhard (vgl. z. B. Wessobrunn, Benediktussaal; ehem. Zisterzienserklosterkirche Fürstenfeld, OB, LKr. Fürstenfeldbruck) – wird auf eine Stelle in den vermeintlich von Augustinus stammenden Meditationes bezogen: »Hinc pascor a vulnere, hinc lacto ab ubere« (Louis Réau, Iconographie de l'art chrétien, Bd 3, Iconographie des Saints I, S. 155). Dieser Vers steht als Inschrift bei einem Fresko gleichen Inhalts von 1695 in der ehem. Stiftskirche von Herrenchiemsee, OB, LKr. Rosenheim. Ein zeitlich nahe stehendes Werk über Augustinus, Gelasius Hiebers Leben des Kirchenlehrers Aurelii Augustini, München 1720, hebt die meditative Verehrung des Gekreuzigten und der Gottesmutter hervor; es hat folgende bezeichnende Kapitel: »Wie inmüthig Augustinus das Leiden Christi verehrt« – »Von seiner kindlichen Liebe, Verehrung und Andacht gegen der Mutter Gottes« (a. a. O., S. 369–75). (Hinweise auf Herrenchiemsee und G. Hieber bei Mois 1953, S. 119, Anm. 219.) Augustinus selbst umschreibt seine Gottes- und Wahrheitssuche als Hunger und Durst, an einer Stelle sagt er: »... hoc nomen salvatoris mei, fili tui, in ipso adhuc lacte matris tenerum cor meum pie biberat et alte retinebat . . . « (Confessiones 3, 4, 8; s. Ed. Bernhart, S. 108). Maria steht als geistige Mutter anstelle der leiblichen Mutter Monika.
+
+== C TOD DES HL. AUGUSTINUS ==
+Vom Tod des Heiligen während der Belagerung der Stadt Hippo durch die Wandalen im Jahr 430 berichtet Possidius im 29. und 31. Kapitel seiner Vita Augustini. Augustinus hatte sich die Bußpsalmen Davids aufschreiben lassen, um sie immer vor Augen zu haben, im Fresko weist die Buchinschrift Psalm / Penitentialis darauf hin. Der Heilige starb im Kreis seiner Mitbrüder, darunter auch Possidius, der damals Bischof von Calama war. In dem Schreiber rechts im Vordergrund ist jedoch sicher nicht der bischöfliche Chronist wiedergegeben. In diesem wird Feulner folgend ein Selbstporträt Günthers gesehen (vgl. Mois 1953, S. 79 u. 120 f., Anm. 220). Die aufwendig geschilderte Sterbeszene geht über in eine himmlische Handlung. Diese weist alte, in der monumentalen Malerei des 18. Jh. ungewöhnliche Motive auf: Die Seele des Sterbenden ist als Eidolon (animula), als nackte, kleine Menschengestalt – hier halb von einem weißen Tuch umhüllt –, die Hände in Gebetshaltung erhoben, auf dem Weg in die Seligkeit wiedergegeben (zur Ikonographie der Seele vgl. LCI, Bd 4, Sp. 138–42). Dieser Weg wird durch eine steil aufsteigende Wolke bezeichnet, auf der wie auf Stufen vier Tugendpersonifikationen ihren Platz haben. Das aus der Bibel stammende Bild der Himmelsleiter (Gen 28, 12–13), in altchristlicher Zeit allegorisch als Tugendleiter gedeutet, hat hier eine neue Formulierung im Sinne barocker Allegorik gefunden. Der Tugendweg ist als Weg der Gotteserkenntnis charakterisiert, die Tugendpersonifikationen weisen den Weg mit brennenden Lampen – über dem Sterbenden schwebt die Geist-Taube. Ganz im Sinne der Confessiones ist die Personifikation der Caritas Augustinus an erster Stelle zugeordnet, sie nimmt seine Seele in Empfang. Durch die Liebe zu Gott hat Augustinus den Irrglauben überwunden, Caritas verbrennt mit einer Fackel die glaubensfeindlichen Schriften.
+
+== D GRAB DES HL. AUGUSTINUS ==
+Seit dem 8. Jh. ruhen die Gebeine des hl. Augustinus in S. Pietro in Ciel d’Oro in Pavia und werden von Pilgern verehrt; diese suchen Heilung durch das Wasser von dem Brunnen beim Grab. Auf die vom Heiligen gewirkten Wunder weist die Kartuscheninschrift hin: Erit / Sepulchrum / Eius Gloriosum. Das Pestglöcklein erinnert wohl an die 1503 in Pavia wütende Pest, von der die Stadt auf die Fürbitte des Heiligen befreit wurde. Von dem am Sarkophag sitzenden Augustinerpropst wird berichtet, daß er nach dreijähriger Krankheit durch den hl. Augustinus geheilt worden sei (AASS, S. 358, 711). Das flammende Herz in der Hand des Puttos oberhalb des Augustinus-Brunnens ist Symbol der unversiegbaren Liebe des Heiligen, es leitet zugleich über zum Thema des folgenden Freskos:
+
+== E DAS UNVERSEHRTE HERZ DES HL. AUGUSTINUS ==
+Der Legende nach hat das Herz des Augustinus weitergelebt und wurde von Engeln nach Lyon zu Bischof Sigibert, einem besonderen Verehrer des hl. Augustinus, übertragen (AASS, S. 380, 812).
+
+== F GLORIE DES HL. AUGUSTINUS ==
+Die Hl. Dreifaltigkeit hält eine Krone für den Heiligen bereit, zum Zeichen seiner Aufnahme in die himmlische Glorie. Augustinus wird als der Stifter der Ordensregel, als Vater vieler Ordensfamilien (Patriarcha Religiosorum) und als Verteidiger des rechten Glaubens der Kirche (Malleus Haereticorum) verherrlicht; zwei Themen, die Günther in Neustift im Jahr zuvor in zwei figurenreichen Szenen gestaltet hatte (Mois 1973, S. 522). Augustinus, als Bischof von Hippo in pontifikalem Ornat wiedergegeben, steht als Mittler zwischen Gott und den Repräsentanten seiner Orden. Als solche sind vertreten: links neben dem Altar ein Dominikaner und ein Augustinerchorherr, der porträthafte Züge trägt – möglicherweise Propst Patritius darstellend –, und etwas zurückgesetzt ein Prämonstratenser; rechts neben dem Altar knien ein Ordensritter, ein Augustinereremit und außen ein Barmherziger Bruder. Die von drei Engelgruppen gehaltenen Papst-, Kardinals- und Bischofsinsignien verweisen auf die hohen kirchlichen Ämter, die von zahlreichen Augustinern besetzt wurden.
+
+Von Augustinus gehen Blitzstrahlen aus und treffen die herabstürzenden Häretiker, zwei sind durch Buchinschriften namentlich bezeichnet: Man/es und Donat/us – Augustinus hatte sie erfolgreich widerlegt.
+
+Das Liebessymbol des Augustinus, das Herz, ist Abzeichen des Schildes in Händen eines Engels – die Gottesliebe ist die Waffe gegen die Irrlehren. Die allegorische Gestalt Fortitudo bezeichnet die Stärke des Augustinus in seinem Kampf für die Kirche. Fortitudo hat ihren Platz über einem Vierungspfeiler der Scheinkuppel und apostrophiert so Augustinus als Stütze der Kirche.
+
+Die hingebungsvolle Gottesliebe des Heiligen und der Ordensleute ist besonders hervorgehoben: Die Brust des Augustinus ist entflammt (vgl. die daneben stehende Mahlszene H und auch B und W12). Die Ordensleute weihen in der Nachfolge des Heiligen ihr Herz Gott.
+<!-- citation-page-bottom: Band01 p493 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=23 -->
+<!-- citation-page-top: Band01 p494 -->
+
+F1-4 In der Vierung stand im 18. Jh. das Chorgestühl; dort vollzogen die Chorherren das Officium. J. Mois hat die vier Kartuschenfresken ikonologisch auf die liturgische Bestimmung dieses Raumteiles bezogen und als Darstellungen des Stundengebetes gedeutet (Mois 1953, S. 79). Wiedergegeben sind die verschiedenen Bestandteile desselben (Hymnus, Psalm und Lesung). Darüber hinaus enthalten die Darstellungen direkte oder sinnbildliche Hinweise auf Augustinus und sind thematisch an das Hauptbild F gebunden. Die Inschriften der Bilder sind jeweils auf ein von Putti getragenes Notenblatt gemalt (Abbildungen S. 484).
+
+F1 SCHRIFTLESUNG Ein Engel präsentiert ein Buch - die Heilige Schrift, außerdem als Tugendsymbole eine Lilie, einen Kranz von Rosen und einen Spiegel. Die Inschrift lautet: Tolle Lege. Das Bild weist auf die Bekehrung des Augustinus hin. Ein historisches Faktum belegt moraltheologisch den Nutzen der Schriftlesung. Lilie und Kranz von Rosen bezeichnen im Bekehrungsbild (W7) Continentia; der Spiegel ist Sinnbild der Weisheit (vgl. H und H2); es sind die Tugenden, die Augustinus durch seine Bekehrung gewinnt.
+
+F2 CHORGESANG Ein singender Engel spielt Laute. Ein Putto bläst die Flöte - der Chorgesang. Ein anderer Engel hält ein Weihrauchgefäß, das Sinnbild des Gebetes - der Chorgesang ist Gebet. Vor dem Trinitätssymbol, einem Dreieck mit drei Flammen, zeigt ein Putto einen Löffel; darunter die Notenblattinschrift Immensum non / capit. Hier wird auf das legendäre Ereignis von Ostia (A), auf die Wahrheitssuche des Augustinus Bezug genommen.
+
+F3 CHORGEBET Ein Engel reicht auf einer Opferschale ein flammendes Herz dar - Sinnbild für die Hingabe an Gott im inbrünstigen Gebet (vgl. Picinelli, Lib. 3, Nr 562 »Cor in thuribulo fumans« — »Symbolum orationis«). Das Herz ist mit verschiedenen Sinnzeichen emblemartig ausgestattet: Eine Flamme lodert aus dem Herzsattel - diese bezeichnet die Gottesliebe. Die Flamme steigt wie Opferrauch empor – zum Zeichen der inbrünstigen Hingabe. Das Herz ist geflügelt, emblematischer Hinweis darauf, daß es sich vom Irdischen löst und zu Gott emporschwingt. Es zeigt fünf Schnittwunden, die in Zahl und Anordnung an die Wunden Jesu erinnern und daher auf die Compassio, die innerliche Teilnahme am Leiden Jesu, hindeuten. Die vom Engel dargebotene Schale schließlich bezeichnet das Herz als aufgeopfert (vgl. im Hauptbild F die Schale voller flammender Herzen). Das Herz steht für das Gebet und darüber hinaus für die menschliche Seele selbst, die sich im Gebet Gott schenkt und Gott ähnlich wird.
+
+Im Hintergrund steht ein Rundtempel auf einem Felsen (vgl. W2) - die von Christus gestiftete Kirche. Das dargebrachte Opfer des Herzens ist auf die Kirche als die Stellvertreterin Gottes zu beziehen: Durch die Kirche gelangt der Mensch zu Gott.
+
+Die Worte auf dem Notenblatt Sanctus / Sanc (tus / Sanct us stammen aus dem Schluß der Präfation, des eucharistischen Hochgebetes zu Beginn der Opferhandlung und weisen als solche auf das am Altar gefeierte Meßopfer, die Heilige Eucharistie, die mystische Wiederholung des Kreuzopfers hin. In diesem Sinnzusammenhang wird die Bedeutung der fünf Schnittwunden am Herzen als Compassio verständlich.
+
+In dieser allegorisch-emblematischen Darstellung fehlt ein direkter, aus der Vita oder Legende geschöpfter Hinweis auf Augustinus wie in F1, F2 und F4. Hauptsinnträger im Bild ist das Herz. Ein Herz ist im 18. Jh. das Symbol des hl. Augustinus schlechthin geworden. Das Herz dieser Darstellung bezieht sich auch auf Augustinus als Vorbild für die liebende Hingabe an Gott. Das Herzbild ist thematisch besonders eng an das Glorienbild (F) gebunden, es kann geradezu zu dessen Erläuterung dienen.
+
+Zur Deutung der verschiedenen Sinnzeichen vgl. Picinelli Lib. 3, s. v. cor – Picinelli zieht zur Erläuterung der Herz icones bevorzugt Augustinus-Zitate heran! – und den für die Herzemblematik wichtigen Aufsatz von August Wirth Religiöse Herzemblematik, in: Das Herz, Bd 2, Biberach 1966, Privatdruck Dr. Karl Thomae GmbH, S. 63-106.
+
+F4 KIRCHENVÄTERLESUNG Ein Engel öffnet den Vorhang zu einer Bibliothek. Die Inschrift lautet: Gloria Triadi. Die Folianten weisen in diesem Augustinus-Programm auf die zahlreichen theologischen Schriften des Augustinus, des bedeutendsten Theologen unter den vier lateinischen Kirchenvätern. Die Inschrift, ein Preislied auf die Dreifaltigkeit, spielt auf sein Werk, »De Trinitate Dei«, an.
+
+== G<sub>1-3</sub> GÖTTLICHE TUGENDEN ==
+
+G1 SPES Frau mit Anker
+
+G2 FIDES Frau mit Feuerzunge über dem verschleierten Haupt, darüber schwebt im Trinitätssymbol die Geist-Taube. Fides hält ein Buch in der Rechten und ein Kreuz mit Eucharistiekelch in der Linken. Auf einem Tisch Tiara und Papstkreuz - Hinweise auf das römische Papsttum. G<sub>3</sub> CARITAS Frau mit flammendem Herzen über dem Haupt; auf dem Schoß drei kleine Kinder
+
+== H1-3 KARDINALTUGENDEN ==
+
+H<sub>1</sub> TEMPERANTIA Eine Frau schenkt sich aus einer Kanne zum Trinken ein. Die Uhr an der Wand ist ein Bild des rechten Zeitmaßes. - Typisches Kennzeichen der Temperantia ist das Mischen (von Wein und Wasser) mit zwei Gefäßen. Diese symbolische Handlung ist hier auf das Augustinusprogramm hin modifiziert: das Maßhalten beim (Essen und) Trinken ist dem Laster der Schwelgerei, dem der junge Augustin frönte, entgegengesetzt.
+
+H2 PRUDENTIA Spiegel und Schlange sind geläufige Attribute der Klugheit. Auf dem Schoß hält Prudentia ein Buch aufgeschlagen - ein Hinweis auf die Gelehrsamkeit Augustins. Die Fackel ist wohl auch symbolisch als Zeichen für die Geisteskraft der Ratio anzusehen; Feuerflammen bezeichnen bei Ripa z. B. die Geisteskräfte (vgl. ragione, intelletto).
+
+H<sub>3</sub> JUSTITIA Die Tugend ist zum Zeichen der Unbestechlichkeit mit verbundenen Augen dargestellt
+
+[[File:Band01_chunk010_p023_img001.jpg|thumb]]
+
+[[File:Band01_chunk010_p023_img002.jpg|thumb|G<sub>3</sub> Caritas]]
+
+[[File:Band01_chunk010_p023_img003.jpg|thumb]]
+
+Weitere typische Attribute sind Waage, Schwert und Liktorenbündel.
+
+a-f TUGENDEN Die folgenden Personifikationen bezeichnen Tugenden des klösterlichen Lebens
+
+a OBOEDIENTIA Eine verschleierte Frau in Betrachtung des Kruzifixes verkörpert den religiösen Gehorsam. Ein Joch ist das charakteristische Attribut dieser Tugend (vgl. Ripa s. v. obedienza).
+
+b HUMILITAS Die weibliche Personifikation kniet, die Arme sind vor der Brust gekreuzt, die Augen nieder- geschlagen – diese Gebärden drücken die Tugend Demut deutlich aus. Im Sinne Ripas sind außerdem die Attribute gewählt: eine Kugel in der Hand (La palla . . . quanto piu ê percossa in terra tanto piu s'inalza, e pero S. Luca nel 14. etiam 18. disse cosi: »Qui se humiliat exaltabitur.« Ripa s. v. humiltà, S. 215) und eine Krone am Boden, letztere zum Zeichen der Verachtung der weltlichen Ehren. Außerdem hält die Figur noch einen Zweig (Lorbeer? – Lorbeer ist als Zeichen der siegreichen Tugend geläufig).
+
+c ORATIO Eine kniende verschleierte Figur – ein ordenstrachtähnliches Gewand trägt auch die Personifika-
+
+[[File:Band01_chunk010_p023_img004.jpg|thumb]]
+
+[[File:Band01_chunk010_p023_img005.jpg|thumb]]
+
+[[File:Band01_chunk010_p023_img006.jpg|thumb|I<sub>3</sub> Iustitia]]
+<!-- citation-page-bottom: Band01 p495 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=24 -->
+<!-- citation-page-top: Band01 p496 -->
+
+<!-- header: ROTTENBUCH -->
+
+[[File:Band01_chunk010_p024_img001.jpg|thumb]]
+[[File:Band01_chunk010_p024_img002.jpg|thumb]]
+[[File:Band01_chunk010_p024_img003.jpg|thumb]]
+[[File:Band01_chunk010_p024_img004.jpg|thumb]]
+
+Die allegorischen Figuren der Kartuschen ergänzen thematisch die historischen Darstellungen der Hauptfresken. Die Personifikation Fides (G2) verbindet sich ikonologisch mit dem Ecclesia-Thema des östlichen Altares an der Nordseite, welche Augustinus zeigt, der von Ecclesia der Auftrag erhält, den christlichen Glauben zu verteidigen. Die Kardinaltugenden (H<sub>1-3</sub>) gehören zu der Mahlszene (H), welche Augustinus in Ausübung der Nächstenliebe vorstellt. Eine formale Analogie ist in dem Motiv des Einschenkens in der Tafelszene und in der Temperantiaszene zu finden. Die vierte der Kardinaltugenden, Fortitudo mit Helmbusch und Säulenstumpf, ist in einer Zwickelkartusche der gemalten Kuppelhalle des Vierungsfreskos (F) wieder gegeben. Die Tugenden des klösterlichen Lebens (a-f) beziehen sich auf den in den Langhausfresken szenisch dargestellten Weg Augustins zum Verzicht auf weltliche Freuden und Ehren zu einem Christus geweihten Leben in Demut, Keuschheit und Frömmigkeit, zugleich ist der aktuelle Bezug auf die nach der Regel des hl. Augustinus – ehemals – in diesem Kloster lebenden Chorherren relevant.
+
+[[File:Band01_chunk010_p024_img005.jpg|thumb]]
+[[File:Band01_chunk010_p024_img006.jpg|thumb]]
+
+== I DIE ERDTEILE HULDIGEN MARIA ==
+Das Chorfresko ist der Patronin der Stiftskirche gewidmet. Der Hochaltar darunter zeigt eine plastische Darstellung des Patroziniums Mariä Geburt, und zwar als Aussendung des Kindes Maria von Gottvater zu den Eltern Anna und Joachim. Die Huldigung der Erdteile ist eine im 18. Jh. sehr beliebte und verbreitete Bildform der Marienverehrung (das gleiche Thema in Neustift, s. Gundersheimer, Tf. 24, Abb. 35).
+
+I1-4 Die vier begleitenden Kartuschenfreske beziehen sich thematisch auf die Pfarrseelsorge des Stiftes. Heilszeichen und Symbole der sechs zur Zeit der Ausmalung bestehenden Rottenbucher Bruderschaften werden von Engeln präsentiert.
+
+[[File:Band01_chunk010_p024_img007.jpg|thumb]]
+[[File:Band01_chunk010_p024_img008.jpg|thumb|I<sub>4</sub> Skapulier-Bruderschaft]]
+[[File:Band01_chunk010_p024_img009.jpg|thumb]]
+[[File:Band01_chunk010_p024_img010.jpg|thumb]]
+
+== I1 NAMEN-JESU-BRUDERSCHAFT ==
+Die kreuzgeschmückten Initialen IHS auf der Brust des Engels weisen auf die Namen-Jesu-Bruderschaft hin, die seit 1736 in Rottenbuch besteht. Auf die im gleichen Jahr eingeführte Johann-Nepomuk-Bruderschaft bezieht sich die von Sternen umstrahlte unversehrte Zunge des Heiligen in der Rechten des Engels; Maßstab und Lilien in der Linken bezeichnen die ältere, seit 1668 bestehende Josephs-Bruderschaft. In der Kirche finden sich eigene Kultstätten dieser Bruderschaften: ein Namen-Jesu-Altar an der Südseite und ein Josephsaltar an der Nordseite; die ebenfalls von Günther ausgemalte Josephskapelle ist bei der Säkularisation zerstört worden. Am Pfeiler gegenüber der Kanzel steht eine monumentale Figur des 1729 heiliggesprochenen beliebten Heiligen Johann Nepomuk.
+
+== I<sub>2</sub> MARIA-VOM-TROST ODER GÜRTEL-BRUDERSCHAFT ==
+1737 – im Jahr des Beginns der Ausmalung war diese Bruderschaft eingeführt worden. Sie wird durch ihr Heilsabzeichen, den schwarzledernen Gürtel, gekennzeichnet. – An einem Altar an der Südseite befindet sich ein Maria-vom-Trost-Gnadenbild.
+
+== I3 ROSENKRANZ-BRUDERSCHAFT ==
+Die charakteristischen Gebetsschnüre des »Rosenkranzes« weisen auf die seit 1736 bestehende Bruderschaft hin.
+
+== I4 SKAPULIER-BRUDERSCHAFT ==
+Der Engel präsentiert die Skapuliere der danach benannten, seit 1668 in Rottenbuch bestehenden Bruderschaft.
+
+== S<sub>1-4</sub> ==
+Die später – 1744 – geschaffenen Seitenschiffgewölbefreske haben ebenfalls eine pastorale Thematik, sie geben Patrone des Stiftes und seiner Heimat Bayern wie der. Clemens als Namenspatron des regierenden Propstes Clemens Prasser (S<sub>3</sub>), Helena (S<sub>2</sub>), von der die Stiftskirche eine Reliquie bewahrt, Benno als Patron Altbayerns (S1) und Korbinian als Begründer und Patron der Erzdiözese Freising (S<sub>4</sub>).
+
+== S1 ST. BENNO ==
+Der hl. Bischof Benno thront in Wolken, Putti tragen Krumme und Buch, darauf das spezifische Attribut des Heiligen, ein Fisch mit Schlüsseln im Maul. St. Benno blickt gnädig auf die Repräsentanten Kurbayerns, welche ihrem Landespatron huldigen. Die Stadtwappen bezeichnen die vier Kurbayerischen Rentämter: das Mönchswappen auf der Landkarte München, die drei Helme auf dem Wappenschild Landshut, das Burgtor Burghausen, und der Pflug Straubing. Der kurfürstliche Ornat, die Kurkrone und das Kurwappen weisen zudem auf München als den Sitz des Kurfürsten hin. Im Hintergrund wird die Silhouette der Stadt München mit der Frauenkirche, in der sich die Grablege des hl. Benno befindet, gezeigt.
+
+Die Gebeine des Bischofs von Meißen waren 1576 Herzog Albrecht V. von Bayern übergeben und 1580 in die Münchner Frauenkirche übertragen worden. Der hl. Benno wurde zum Patron der Residenzstadt München und des Landes Bayern erhoben.
+
+[[File:Band01_chunk010_p024_img011.jpg|thumb|S2 ST. HELENA Dargestellt ist die legendäre Szene der Kreuzauffindung und Erprobung. In der Mitte die]]
+<!-- citation-page-bottom: Band01 p497 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=25 -->
+<!-- citation-page-top: Band01 p498 -->
+
+<!-- header: ROTTENBUCH -->
+
+[[File:Band01_chunk010_p025_img001.jpg|thumb]]
+
+Die hochaufragende Gestalt der hl. Helena. Ein Page mit Krone und Zepter bezeichnet sie als die Mutter des Kaisers Konstantin. Sie umfaßt das von Knechten aufgerichtete Kreuz Christi mit dem Titulus IN/RI. Unterhalb des Kreuzes liegt ein Kranker, an ihm wird das Kreuz erprobt. Rechts Bischof Makarios unter einer zerberstenden Venusstatue (vgl. AASS, Augustii, Tom. 3, 18. 8., S. 580–99).
+
+S3 ST. CLEMENS Der an den Chersones verbannte und zu Steinbrucharbeiten verurteilte Papst Clemens, wiedergegeben im päpstlichen Ornat, kniet betend vor einer steilen Felswand. Um ihn herum bearbeiten halbnackte Zwangsarbeiter die Marmorblöcke. Sie blicken zu dem hoch oben auf der Felswand erscheinenden Lamm empor. Auf das Gebet des hl. Papstes hin hat das Lamm eine Quelle freigescharrt. Ein Arbeiter fängt das kostbare Trinkwasser in einer Schale auf (vgl. Ribadeneira-Hornig, Bd 2, 23. 11., S. 852–56).
+
+Das Lamm ist ein symbolisches Motiv der Clemens-Legende: Es ist das Lamm Gottes, die fons vitae. Propst Clemens Prasser bezieht sich bei seiner Wahl des Gotteslammes zu seinem persönlichen Wappenbild auf seinen Namenpatron (vgl. oben: Auftraggeber). Die Szene spielt augenscheinlich auf Clemens Prasser als den Erneuerer des Kirchenbaues von Rottenbuch und – in den folgenden Jahren – des Stiftsgebäudes an: In dem Steinbruch dieser Darstellung werden Marmorblöcke zu Architekturschmuckteilen zurechtgeschlagen.
+
+S4 ST. KORBINIAN Vor einer Arkade, die den Blick auf Freising mit Domberg und Kloster Weihenstephan freigibt, sitzen Herzog Grimuald von Bayern und Bischof Korbinian, begleitet von ihrem Gefolge, einander gegenüber. Der Bischof empfängt aus den Händen des Herzogs Urkunde und Schlüssel für das ihm übertragene Bistum Freising. An der Thronbank das bayerische Wappen, ganz vorne das spezielle Attribut Korbinians, ein mit Gepäck beladener Bär (vgl. AASS, Sept., Tom. 3, 9. 9., S. 281–96).
+
+EU TEMPELREINIGUNG Die biblische Szene (Jo 2,13–17 u. Par.) mahnt den die Kirche verlassenden Gläubigen an die Heiligkeit des Gotteshauses.
+
+[[File:Band01_chunk010_p025_img002.jpg|thumb]]
+
+== Ikonologie des Augustinusprogramms ==
+
+Das Konzept für die Ausmalung der Stiftskirche geht nach dem Zeugnis Hoffmairs auf die beiden Pröpste Patritius Oswald und Clemens Prasser zurück (vgl. Mois 1953 S. 45–47 u. 76). Propst Patritius Oswald hatte bereits das Refektorium mit einem Augustinuszyklus versehen lassen (Mois, a. a. O., S. 119, Anm. 216); in der Stiftskirche gehen vom Augustinuszyklus folgende Bilder auf ihn zurück: die Glorie F und die Vitaszenen G und H. Propst Clemens Prasser setzte das Augustinusprogramm im gleichen Sinn fort und zwar, wie Hoffmair bemerkt, nach eigenem Konzept. Das betrifft vor allem wohl die Durchformung der Szenen im einzelnen, weniger die thematische Auswahl als solche, denn die Vitaszenen im Mittelschiffgewölbe sind der Vierungsdarstellung direkt zugeordnet, die Anspielungen in F1, F2 und F4 werden in den Szenen W2, W7, A und C bis auf Motivwiederholungen genau erfüllt und die Szenenabfolge der Wandfresken bezieht die Querschiffgewölbefresken mit ein, nur daß die chronologische Reihenfolge nicht ganz genau eingehalten ist.
+
+Bei dem Augustinuszyklus handelt es sich nicht »um eine bloße Schilderung des Lebenslaufes von der Kindheit bis zum Tod und zur himmlischen Verklärung, sondern um
+
+[[File:Band01_chunk010_p025_img003.jpg|thumb|S<sub>3</sub> St. Clemens]]
+<!-- citation-page-bottom: Band01 p499 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=1 -->
+<!-- citation-page-top: Band01 p500 -->
+
+<!-- header: ROTTENBUCH -->
+
+<!-- header: ROTTENBLICE -->
+
+>Seelengeschichte« im Sinn der >Bekenntnisse« St. Augustins, wo ebenfalls die äußeren Schicksale zur Deutung innerer Wandlungen benützt ... werden« (Mois 1953, S. 75). In der bildlichen Darstellung ist die Seelengeschichte Augustins über die »Confessiones« und die Biographie des Possidius hinaus durch Elemente mittelalterlich-mystischer Religiosität modifiziert und bereichert. Die inneren geistig-religiösen Erfahrungen Augustins werden im Sinne mittelalterlicher Mystik als geistig-sinnliche Erlebnisse, als Grenzsituationen der Ekstase aufgefaßt und durch die pathetische Darstellungskunst des Barock geprägt. Äußere sichtbare Gottesbezeugungen in Form eines Wunders (vgl. Szenen H und A) sind den »Confessiones« wesensfremd. In dieser Hinsicht unterscheidet sich die Darstellung deutlich vom Text der »Confessiones«, deren Stil spätantik-neuplatonische Züge aufweist und in dem daher die Selbstäußerung Augustins in anderer Erlebnisform vermittelt wird.
+
+Die Seelengeschichte Augustins wird als mystischer Heils weg der Seele mit seinen verschiedenen Stufen in typisch barocker Ikonologie zur Anschauung gebracht. Die ersten acht Szenen zeigen die Via purgativa, den Weg der Bekehrung zu Gott auf, am Schluß dieses Lebensabschnittes steht der feierliche Taufakt. Daran schließen sich drei weitere offizielle Ereignisse an: In den Szenen W9-11 sind die Stationen der geistlichen Laufbahn des Augustinus wiedergegeben. Als Vita illuminata charakterisieren die Szenen W12 G und H, A und B die innere, ganz vom Glauben und von der Liebe zu Gott bestimmte Seelengeschichte. Die Todesszene C gibt den Übergang zur Vita unita, zur himmlischen Glorie des Heiligen – dargestellt im Vierungsfresko F. Der Tod ist als eine Via triumphalis gezeigt, die Wunder auf Erden (D und E) geben Zeugnis von der Auserwählung des Heiligen.
+
+Die zwei allegorischen Darstellungen bei den Jugendszenen (W2 und W7) veranschaulichen in verdichteter Form den Gehalt der Kapitel 3-5 der »Confessiones«. Der Szene W2 liegt gar kein äußeres Ereignis zugrunde. Die zur Kirche weisende Divina Providentia, eine im 18. Jh. sehr verbreitete allegorische Figur, veranschaulicht den Anruf Gottes, den Augustinus in der Zeit des Unglaubens ver nimmt. Augustinus beschreibt das Wirken Gottes in seinem Leben in zahlreichen Bildern, die gemalte allegorische Szene ist jedoch nicht unmittelbar aus dem Text geschöpft wie die handelnden Personifikationen der Bekehrungsszene W7.
+
+Die Bekehrungsszene ist vielschichtig konzipiert: Das äußere, im »Confessiones«-Text prägnant geschilderte Bekehrungsgeschehen ist in der bildlichen Darstellung stark reduziert worden, es bestimmt den Schauplatz der Szene, die Bibel hat nur mehr den demonstrativen Charakter eines Requisits. Das innere Bekehrungsgeschehen ist der Hauptgegenstand des Bildes, vermittelt durch eine allegorische Szene. Diese wird zugleich im Sinne der Mystik als religiöse Handlung vorgestellt: Die Tugendpersonifikationen erscheinen einem visionär verzückten Augustinus. 1735 hatte Günther für die Augustinerchorherren von Neustift bei Brixen (Südtirol) bereits eine ähnlich allegorisch konzipierte Bekehrungsszene in der dortigen Stiftskirch gemalt. Dort ist noch Divina Sapientia eingefügt, während in Rottenbuch eine eigene Szene mit Divina Providentia (W2) geschaffen wurde (Vergleich bei Mois 1973, S. 524). Die drei Szenen W8-11 sind mit einem typisch barocker Vokabular als prunkvoll-feierliche Akte gestaltet. Bei der Klostergründungsszene (W10), dem Akt der Regelübergabe und der Präsentation des Bauplanes fällt auf, daß der in den Jahrzehnten um die Jahrhundertmitte so beliebte quasitypologische Bezug der historischen, heilsgeschichtlich relevanten Gründung auf das zeitgenössische Kloster hier nur in der Form einer versteckten Allusion gegeben ist und keinen direkten Hinweis auf die Person des Propstes Clemens Prasser enthält. Hierin äußert sich die individuelle Gesinnung des Auftraggebers (vgl. dazu die Charakteristik des Propstes Clemens Prasser, s. Mois 1970).
+
+Die Visions- und Wunderszenen hat Günther teils nach dem Konzept des Propstes Patritius Oswald (G und H) und teils nach dem jüngeren des Propstes Clemens Prasser (W12 A, B) gemalt. Bei einem ikonologischen Vergleich dieser Szenen werden Unterschiede faßbar, die sowohl die Wandlung des Konzeptes als auch die künstlerische Reifung Günthers erkennen lassen. Das Gastmahl für die Armen (H) ist eine genremäßig in ihren äußeren Einzelheiten geschilderte mittelalterliche Wundererzählung, dazu ist eine barock-allegorische Handlung wie ein theologischer Kommentar eingeschaltet. Das Nebeneinander der beiden aufeinander bezogenen Handlungen ist für die Darstellung charakteristisch. Bei der Szene W12, Die Gottesliebe entflammt den hl. Augustinus, hingegen sind eine mystisch-pathetische und eine emblematisch-lehrhafte Handlung verquickt, der Verbindung eignet eine für den ikonologischen Stil dieser Zeit bezeichnende Ambivalenz.
+
+Das Gespräch zwischen Mutter und Sohn (G) ist nicht als visionäre Handlung wiedergegeben und entspricht darin dem »Confessiones«-Text. Die Gesten – auch die der Engel – sind als anschauliche Rhetorik lehrhaft-demonstrativ. Der hervorragende »Confessiones«-Text des Ewigkeitsgespräches entzieht sich weitgehend bildlicher Veranschaulichung, er bietet kaum äußere Handlung und Fakten und ebensowenig allegorische Hilfsfiguren wie der Bekehrungsbericht.
+
+Die genremäßige Darstellungsform von H findet sich bei der thematisch verwandten Szene A nicht wieder, im Gegenteil, die legendäre Handlung spielt eine ganz untergeordnete Rolle (die pointierten Gesten Augustins und des Knaben), vielmehr ist die Darstellung des in die Einsamkeit zurückgezogenen, in die Betrachtung der religiösen Wahrheit versenkten Kirchenlehrers dominant; Günther ist es hier gelungen, ein stimmungsvolles und zugleich repräsentativ-lehrhaftes Bild zu gestalten.
+
+In der Visionsszene B gibt es wie bei der Gesprächsszene H kaum äußere Handlung und keine allegorischen Figuren. Hier hat Günther jedoch den pathetisch-mystischen Akt in sich konzentriert und alle Details auf ihn bezogen und aufeinander abgestimmt und so die Wirkung des Aktes gesteigert. Das gleiche Thema hat Günther 1755 in der ehemaligen Augustinerchorherrenstiftskirche Indersdorf (OB, LKr. Dachau) in einer vielfigurigen, dreiteiligen Darstellung noch einmal gestaltet, er erreicht dort jedoch nicht die konzentrierte Intensität des mystischen Geschehens wie in Rottenbuch (Gundersheimer, Tf. 53, Abb. 74).
+
+Der Tod des Augustinus (C) ist der Angelpunkt des Zyklus. Die Darstellung gibt eine Zusammenfassung des ganzen religiösen Lebensweges, von der Überwindung von Irrglauben und Sünde hin zu Gott, zu Gottes Liebe und Weisheit. Dem mystisch verzückten Augustinus der Visionsszenen entspricht hier der im Gebet sich Gott anvertrauende Sterbende. Die Tugenden haben den irdischen Lebensweg des Heiligen bestimmt, sie geleiten seine Seele zu Gott. Die Schriften des Irrglaubens, dem Augustinus in seiner Jugend anhing und den er als Bekehrter leidenschaftlich bekämpfte, gehen in Flammen auf. Zurück – der Nachwelt erhalten – bleiben die theologischen Schriften des großen Kirchenlehrers.
+
+Der Tod des hl. Bischofs ist in seinem säkular-historischen Rahmen als persönliches Ereignis von heilsgeschichtlicher Bedeutung vorgestellt. Die Darstellung bietet ein umfassendes und triumphales Spectaculum. Die vielschichtige Handlung ist konzentriert und klar in einzelne Akte und Sphären gegliedert, Gegensätzliches wird antithetisch verdeutlicht. Die im thematischen Konzept und in der formalen Gestaltung hervorragende Darstellung ist der Höhepunkt innerhalb des Rottenbucher Freskenprogramms. Sie zeugt von der Erfindungsgabe des Schriftstellers Prasser, der auch Texte zu Musikdramen schrieb (Mois 1953, S. 119, Anm. 215) und der Kunst Günthers, der dem Ideenkonzept die anschauliche Bildgestalt gab.
+
+Die folgenden Darstellungen D und E sind einfacherer Art. Erzählfreudig wie in einem Mirakelbuch wird die wundertätige Grabstätte des Heiligen dem Kirchenbesucher vor Augen gestellt. Das unversehrte Herz des Heiligen hat in der Darstellung E ein eigenes Glorienbild erhalten – beide Bilder propagieren den Kult des hl. Augustinus.
+
+Das Glorienbild F zeigt die kanonisch barocke Verbindung von Vierung und Kuppel mit der Glorie eines Heiligen. Die ikonologische Konzeption des Bildes ist konservativ, keine eigenständige Schöpfung für Rottenbuch. Das Thema Opfer wird in dem Kartuschenfresko F3 fortgesetzt, bezeichnend ist hier das additive Prinzip, die Häufung emblematisch-allegorischer Bildzeichen.
+
+== Literatur ==
+
+Hoffmair, Joachim, Beschreibung deß zum Großen nuzen deß Closters Rottenbuech ... so lang und chostbar erpauten Neuen Weyher zu Sprenglspach. – Erzbischöfliches Ordinariatsarchiv München, 8º/58 (ab S. 580 – Kirchenausstattung – zitiert bei Mois 1953).  
+Mayer-Westermayer, Bd 3, S. 27–32  
+KDB I OB (1), S. 590 ff.  
+Gundersheimer, Hermann, Matthäus Günther, Augsburg 1930, S. 27 f.  
+Hartig, Michael, Die Oberbayerischen Stifte, Bd 1, München 1935, S. 135 f.  
+Woeckel, Gerhard, Vier unbekannte Handzeichnungen Matthäus Günthers, in: Das Münster 4, 1951, S. 299 f.  
+Mois, Jakob, Die Stiftskirche Rottenbuch, München 1953.  
+Hofmann, Sigfrid, Der Landkreis Schongau, München 1959, S. 81–86.  
+Dehio-Gall OB (1964), S. 268 f.  
+Ausstellungskatalog Der Barocke Himmel, Staatsgalerie Stuttgart, Graphische Sammlung, Stuttgart 1964, S. 38.  
+Mois, Jakob, Propst Clemens Prasser von Rottenbuch (1740–1770) zum Gedenken des 200. Todestages, Schongau (1970).  
+Schnell, Hugo, Rottenbuch (KKF Nr. 8), München <sup>2</sup>1971  
+Mois, Jakob, Matthäus Günthers Kirchenfresken in Neustift und Rottenbuch nach ihrem zeitlichen und künstlerischen Zusammenhang, in: Der Schlern 47, 1973, S. 519–28 -, Der Einzug des Rokoko in die Stiftskirche und die Fresken von Matthäus Günther, in: Festschrift 900 Jahre Rottenbuch, hg. v. Hans Pörnbacher, Weißenhorn 1974, S. 86–98.  
+Augustinus-Literatur und Quellen: AASS Augustii, Tomus 6, 28. 8., S. 213–460.  
+Augustinus, Aurelius, Opera omnia, P. L., Bd 32–47.  
+Possidius, Sancti Augustini Vita scripta a Possidio Episcopo, hg. v. Herbert T. Weiskotten, Princeton 1919.  
+Possidius, Das Leben des heiligen Kirchenvaters Augustinus, deutsche Ausgabe von Kapistran Romeis, Berlin 1930  
+Augustinus, Aurelius, Confessiones — Bekenntnisse, lateinisch und deutsch, eingeleitet, übersetzt u. erläutert v. Joseph Bernhart, München <sup>2</sup>1960.  
+<!-- citation-page-bottom: Band01 p501 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=2 -->
+{{End}}

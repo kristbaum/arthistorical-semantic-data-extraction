@@ -1,0 +1,80 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=360
+|Originalseitenbis=361
+|Lemma=Wangen, Expositurkirche St. Ulrich
+|Typ=Sakral
+|Ort=Wangen
+|davor=Unterbrunn, Pfarrkirche St. Laurentius
+|danach=Widdersberg, Filialkirche St. Michael
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p360 -->
+
+<!-- header: WANGEN -->
+
+Expositurkirche, Erzdiözese München-Freising; z. Z. der Ausmalung Filialkirche der Pfarrei Aufkirchen, die von 1688–1803 dem Kloster der Augustinereremiten in München inkorporiert war, grundbesitzmäßig Kloster Schäftlarn, Gericht Starnberg
+
+
+'''Patrozinium:''' St. Ulrich
+
+
+'''Zum Bauwerk:''' Am 27. 3. 1734 wurde vom Kurfürstlichen Pfleger in Starnberg Franz Joseph Ferdinand Marx an den Abt von Schäftlarn ein Bericht über den völlig ruinösen Zustand der Ulrichskirche zu Wangen geschickt, nebst Überschlägen und (nicht erhaltenen) Rissen des Maurermeisters Georg Lettner aus Wolfratshausen und des Zimmermeisters (StA Mü, KL Schäftlarn 3, F. 851, Nr. 127). Kloster Schäftlarn war Grundherr des Ortes. Vermutlich gab Kloster Schäftlarn zu dem Bau der Kirche Zuschüsse und empfahl die Künstler. Eine Inschrift am Chorbogen gibt das Baudatum an: Neu Aufgefiehrt Anno 1736. - Saalkirche mit eingezogenem AR und halbrundem Schluß
+
+'''Autor und Entstehungszeit:''' Die unsignierten Fresken zeigen stilistisch so große Übereinstimmungen mit den Fresken der Kirchen in Hohenschäftlarn und Zell (OB LKr. München), die beide Kloster Schäftlarn unterstanden, daß für alle ein Autor angenommen werden kann. Der Name des Malers ist nicht bekannt. Die Fresken sind um 1736 entstanden.
+
+
+[[File:Band01_chunk008_p006_img001.jpg|thumb|A Die Sieben Zufluchten]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A sehr flache, gedrückte Stichkappentonne (das Deckenbild liegt fast eben); B Stichkappentonne
+
+Rahmen: A, B Stuckprofil
+
+Technik: Fresko mit Secco; polychrom
+
+Maße: A Höhe 7,05 m; 5,80 × 3,55
+
+B Höhe 6,05 m; 2,10 × 1,40
+
+Erhaltungszustand und Restaurierungen: 1915, 1926, 1958 fanden Restaurierungen statt. Der Erhaltungszustand der Bilder ist gut.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A DIE SIEBEN ZUFLÜCHTEN Das Deckenbild ist ohne Untersicht und Verkürzungen gegeben und entspricht im einfachen Bildaufbau dem Typus des Gebetsbildes der Sieben Zufluchten. Die neben- und untereinandergereihten Figuren sind, der bestimmenden Längsachse des Bildes folgend, um ein zentrales Motiv gruppiert. Betrachterstandort unterhalb der westlichen Bildhälfte.
+
+Im westlichen, »oberen« Bildviertel thronen Gottvater und Christus. Sie haben die Weltkugel zwischen sich und halten gemeinsam ein Zepter, über dem die Taube des Geistes schwebt, von Strahlen umgeben (erste Zuflucht). Die Bildmitte nimmt eine goldene Strahlenmonstranz ein, welche die Hostie mit dem Namen Jesu, IHS, birgt. Zur rechten Seite des eucharistischen Christus ist der Kruzifixus, Christus als der sich am Kreuz opfernde Heiland, wiedergegeben (zweite und dritte Zuflucht). Linksseitig, dem Kruzifixus gegenüber, kniet Maria, im Fürbittgestus der Interzession (vierte Zuflucht). Zu Füßen des Kruzifixus sind die Erzengel gruppiert (fünfte Zuflucht); Maria ist eine Schar von Heiligen zugeordnet (sechste Zuflucht). Unter den Erzengeln ist Michael als Gerichtsengel mit Flammenschwert und Waage besonders hervorgehoben. Seinen sinngemäßen Platz hat Michael über dem Fegfeuer mit den büßenden Armen Seelen (siebente Zuflucht). Außer Michael ist nur noch Gabriel durch die Verkündigungslilie gekennzeichnet.
+
+In der Gruppe der Heiligen sind wiedergegeben: unterhalb Mariens Joseph mit der Lilie, weiter rechts die hll. Benedikt mit Abtsstab und Antonius von Padua mit Lilie; unter dieser Gruppe der hl. Johann Nepomuk in Kanonikertracht mit Kruzifix und Martyrerpalme. Der alttestamentlich gekleidete bärtige Greis unter Joseph ist vielleicht als Joachim und die Gestalt mit dem Kopfschleier, wenig darunter, als Anna zu deuten, die Eltern Mariens. In der vordersten Reihe folgen die biblischlegendäre Maria Magdalena als Büßerin mit Salbgefäß, die jungfräuliche Martyrin Katharina von Alexandrien mit Rad und Schwert und schließlich Ignatius von Loyola im Meßgewand mit dem strahlenden IHS – dem Zeichen der Gesellschaft Jesu – vor der Brust und Bischof Benno, der Patron Altbayerns mit dem Fisch, dem ein Schlüssel aus einer Seitenwunde ragt. Über dem hl. Benno sind in summarischer Darstellung die Apostel Petrus – mit Schlüssel – und Paulus wiedergegeben.
+
+Wie aus noch nicht veröffentlichten Unterlagen des Erzbischöflichen Ordinariatsarchives hervorgeht, ist die Sieben-Zufluchten-Andacht in München im späten 17. Jh. entstanden und durch einen Münchner Jesuiten, Pater Tobias Lohner, eingeführt worden. Zentrum des Kults war die Frauenkirche. Ein nach Angaben des Jesuitenpaters 1685 angefertigtes Gebetbildchen mit der Darstellung der Sieben-Zufluchten zeigt detailgetreu die gleiche Komposition wie das Wangener Deckenbild und hat möglicherweise letzterem als Vorlage gedient (Erzbischöfliches Ordinariatsarchiv, Pfarrakten Grassau IV, Sieben- Zufluchten-Altar; Schreiben Mathias Winkler, Pfarren von Grassau, an Propst und Archidiakon Jacob Mayr, Herrenchiemsee, vom 26. 6. 1700; frdl. Mitt. Peter von Bomhard, Erzbischöfl. Ordinariatsarchiv München). Zum Sieben-Zufluchten-Kult vgl. LCI, Bd 4, s. v. Zufluchten
+
+B ST. AUGUSTINUS UND ST. NORBERT Augustinus im Bischofsornat, mit flammendem Herzen vor der Brust, reicht Norbert sein Regelbuch mit der Aufschrift Regu/lae S./Aug: - Norbert hatte für seinen in Prémontré gegründeten Orden die Augustinerregel ausgewählt. - Norbert ist in Chorherrentracht wiedergegeben und wird durch Doppelkreuz und Pallium als Erzbischof von Magdeburg gekennzeichnet. Über seinem Haupt erscheint in himmlischer Glorie eine Hostie mit dem IHS, Augustinus deutet auf diese hin. – Die Hostie weist Norbert als den Verehrer und Verteidiger der Eucharistie aus. Gewöhnlich zeigen bildliche Darstellungen den Heiligen mit einer Monstranz in Händen. In Hohenschäftlarn ist die Vision von der Skapulierspende Mariens zusammen mit der Regelspende des hl. Augustinus vom gleichen Meister dargestellt. Eine im Himmel schwebende Hostie in einer Norbertszene zeigt ein Fresko des J. B. Zimmermann von 1754/55 in der Klosterkirche Schäftlarn (OB, LKr. München); dort ist die Hostie in Beziehung gesetzt zu dem vom Blitz getroffenen Buch des Häretikers Tanchelin. – Das Thema des Bildes verweist deutlich auf das ehem. Prämonstratenserkloster Schäftlarn.
+
+
+[[File:Band01_chunk008_p006_img002.jpg|thumb|3 St. Augustinus und St. Norbert]]
+
+
+[[File:Band01_chunk008_p006_img003.jpg|thumb]]
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 3, S. 615, 618. Albrecht, Dieter, Das Landgericht Starnberg (= Historischer Atlas von Bayern, Teil 1, Heft 3), München 1951, S. 13.
+<!-- citation-page-bottom: Band01 p361 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=7 -->
+{{End}}

@@ -1,0 +1,150 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=590
+|Originalseitenbis=594
+|Lemma=Wessobrunn, Pfarrkirche St. Johann Baptist
+|Typ=Sakral
+|Ort=Wessobrunn
+|davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang
+|danach=Wessobrunn, Kreuzbergkapelle Hl. Kreuz
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p590 -->
+
+<!-- header: WESSOBRUNN -->
+
+Pfarrkirche, Diözese Augsburg; zur Zeit der Ausmalung Klosterpfarrei
+
+'''Patrozinium:''' St. Johann Baptist
+
+'''Zum Bauwerk:''' Neubau 1757–59 wohl durch Franz Xaver Schmuzer d. J. - Weiter Saal zu vier Jochen, Doppelpilastergliederung; im W Doppelempore; eingezogener AR zu zwei Jochen, halbrunder Schluß
+
+'''Auftraggeber:''' Abt Beda Schallhammer von Wessobrunn (1743–60), dessen Wappen sich mit dem Klosterwappen am Chorbogen befindet
+
+'''Autor und Entstehungszeit:''' Mehrere Signaturen: Im O von Fresko A (auf dem Hundehalsband): Baa. Im NO von A (auf dem Brückengiebel): 1759. In B (auf dem Stein unter dem Fuß des hl. Johannes): J. Baader pinxit 1758. Die Deckenbilder wurden also von Johann Baptist Baader 1758–59 gemalt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A und B Flachtonne mit Stichkappen
+
+Rahmen: A und B Stuckprofilrahmen, an manchen Stellen von Rocailleornamenten überspielt; A<sub>1-6</sub> und B<sub>1-4</sub> Rocaillekartuschen
+
+Technik: Fresko; A, B und B<sub>1</sub>-4 polychrom; A<sub>1</sub>-6 annähernd monochrom graugrün bis braungrau
+
+Maße: A Höhe 11,00 m; 17,20 × 9,30
+
+B Höhe 10,70 m; 7,50 × 5,40
+
+Erhaltungszustand und Restaurierungen: 1849, 1901 und 1953 Restaurierungen. Die Fresken sind leicht verschmutzt; die Farben haben etwas ihre ursprüngliche Klarheit eingebüßt.
+
+
+== Beschreibung ==
+
+
+A LEBEN DES HL. JOHANNES DES TÄUFERS<br>Der Bildaufbau des langgestreckten Deckengemäldes ist panoramaartig, in annähernd zentraler Untersichtsperspektive konzipiert. Der Standort des Betrachters befindet sich unterhalb der Mitte des Freskofeldes, ein wenig gegen W hin versetzt. Das Panorama ist im W von einer Architekturkulisse, im O von einer Landschaftsszenerie gebildet. Die Architekturkulisse ist in der Art Pozzos durch mächtige, säulenbesetzte Pfeiler gebildet, zwischen denen sich drei nischenartige Räume öffnen. Diese Räume sind in starker Untersicht gegeben: ihr Boden ist entweder gar nicht oder als Rampe, scheinbar über den Bildrand ragend, von unten sichtbar. Den oberen Abschluß der schweren, wuchtigen Architektur bildet eine Balustrade mit Ziervasen. Darüber öffnet sich in lichten Wolken der Himmel, in dem musizierende Engel erscheinen.
+
+In den Nischenräumen spielen sich Szenen aus der Johannesgeschichte ab. Man blickt durch die westliche Bogenöffnung in einen großartigen Kuppelraum, in dem Herodes auf einem über Stufen erhöhten Thron sitzt. Vor ihm tritt der Täufer, während Soldaten und, am Thron stehend, Herodias und Salome die Szene beobachten. Die beiden anderen Nischenräume, ähnlich aufgebaut, sind in ihrem Charakter anders. Durch Rustizierung der Säulen und Vergitterung der Kuppellaterne sind sie als Gefängnisräume bezeichnet. Im NW sieht man Johannes im Kerker durch ein seitliches, vergittertes Fenster spricht er mit zwei Jüngern und weist dabei auf seinen Kreuzstab. Im SW sieht man – ganz im Bildvordergrund wiedergegeben – den Leichnam des Heiligen. Salome nimmt das Haupt des Johannes vom Henker in Empfang.
+
+Ornamentale Architekturstücke bilden etwa in der Mitte der Freskolängsseiten den Übergang zur landschaftlichen Szenerie an der W-Seite. Diese Landschaft ist aus hohen, steil aufgetürmten Felsen, aus Fluß, Wasserfall und Bäumen gebildet und wird im N von hohen Brückenbögen, einem zinnenbewehrten Turm und einer Mauer begrenzt. Neben den handelnden Personen beleben zahlreiche Staffagefiguren diese theatralische Naturbühne.
+
+Christus kniet im Zentrum auf einer steilen Erhebung; Johannes, neben ihm unter einem Baum stehend, gießt aus einer Muschel Wasser über sein Haupt. Zwei Engel tragen den Mantel Christi.
+
+
+[[File:Band01_chunk012_p021_img001.jpg|thumb|A Leben des hl. Johannes des Täufers]]
+
+
+[[File:Band01_chunk012_p021_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band01 p591 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=22 -->
+<!-- citation-page-top: Band01 p592 -->
+
+<!-- header: WESSOBRUNN -->
+
+
+[[File:Band01_chunk012_p022_img001.jpg|thumb]]
+
+
+Über Christus öffnet sich — in einem lichten Wolkenwirbel — der Himmel und der Hl. Geist erscheint. Etwa im Zentrum des Bildes, vor einer zweiten Himmelsöffnung schwebt Gottvater, von Engeln und Wolken getragen; um diese Gruppe schlingt sich ein Schriftband mit den Worten: HIC EST FILIUS MEUS DILECTUS IN QUO MIHI BENE COMPLACUI. (Mt 3,17)
+
+Durch die zwei Himmelsöffnungen, die fast wie die beiden Brennpunkte einer Ellipse wirken, wird das zentralperspektivische System durchbrochen und die Zwei-Ansichtigkeit betont. Dabei bezieht sich die Himmelsöffnung über der Architektur zwar formal auf diese, bildlich aber auf die Taufszene im Osten und bildet mit ihr eine inhaltliche Einheit durch den Bezug Christus – Hl. Geist – Gottvater. Farblich ist das Bild bestimmt von den schweren Farbtönen Braunrot, Rotgrau und Ocker in der architektonischen und landschaftlichen Szenerie, die etwa zwei Drittel der Bildfläche einnimmt. Der Himmel mit seinen Gestalten kontrastiert dazu in lichten Farben – Blau, Gelbocker und Hellrot.
+
+A1-6 EMBLEME In den an das Hauptfresko angrenzenden Gewölbezwickeln sind sechs Embleme dargestellt. Die Farbigkeit ist der Monochromie angenähert, aber in den kühlen Grün-Grau- und Brauntönen sehr fein nuanciert.
+
+
+[[File:Band01_chunk012_p022_img002.jpg|thumb]]
+
+
+
+[[File:Band01_chunk012_p022_img003.jpg|thumb]]
+
+
+
+[[File:Band01_chunk012_p022_img004.jpg|thumb]]
+
+
+
+[[File:Band01_chunk012_p022_img005.jpg|thumb]]
+
+
+B DIE APOKALYPTISCHE VISION DES HL. JOHANNES Einansichtige Szene mit geringen Verkürzungen und Untersichten, Standort des Betrachters ungefähr unterhalb des westlichen Bildrandes. – Den irdischen Schauplatz bildet eine öde Landzunge, mit Schilfgras, verkrüppelten Bäumen und Büschen bewachsen, an die die Wellen des Meeres branden. In der Ferne wird ein Schiff sichtbar. Auf dem schmalen Landstück sitzt der Evangelist, den Adler zur Rechten, und blickt in ekstatischer Gebärde zum Himmel. Dort erscheinen in ansteigenden Wolkenbänken und Wirbeln die Gestalten seiner Vision: hoch oben das Dreifaltigkeitssymbol, zu dem ein Engel das Kind emporträgt. Darunter auf einer Mondsichel das Apokalyptische Weib; es zeigt mit der Rechten nach unten, wo Michael mit Schild und Flammenbündel den vielköpfigen Drachen in die Tiefe stößt.
+
+Die Bildkomposition wird durch eine parallel zur Bildfläche verlaufende Spirale bestimmt. Der Farbkontrast von Blau und Blauweißtönen gegen Rot, Braun und Ocker beherrscht den himmlischen Schauplatz. In der braunocker-tonig gehaltenen irdischen Szenerie sind ein düsteres Violett und ein fahles Grün — in den Gewändern des Iohannes — kombiniert.
+
+B<sub>1-4</sub> KIRCHENVÄTER In den östlichen vier das Bild umgebenden Gewölbezwickeln sind die lateinischen Kirchenväter dargestellt: B1 Gregor der Große mit der Taube; B2 Augustinus mit dem brennenden Herzen, Inschrift: VERITAS; B3 Ambrosius mit Mitra, Stab und Buch und B4 Hieronymus als nackter Büßer mit Totenkopf.
+
+
+== Ikonographie: ==
+
+
+Während sich die Fresken des Langhauses auf den Patron der Kirche, den hl. Johannes den Täufer, beziehen, stellt das Altarraumfresko eine Szene aus dem Leben Johannes des Evangelisten dar. Die beiden Johannes werden oft zusammen dargestellt, auch wenn nur einer von ihnen das Patronat der Kirche innehat.
+
+A LEBEN DES HL. JOHANNES DES TÄUFERS Der chronologische Ablauf geht von Osten – die Taufe Christi (Mt 3,13-17) über Süden – Einkerkerung (Mt 11,2-6 und 14,3) nach Westen – Anschuldigung der Herodias und des Herodes (Mt 14,3-4) und endlich zur Enthauptung im Nordwesten (Mt 14,10-11): eine Szenenfolge ohne ikonographische Besonderheiten.
+
+A1-6 Die Embleme der Kartuschen A1-6 beziehen sich exegetisch auf Johannes den Täufer, den Vorläufer, Verkünder und Täufer Jesu. Die Lemmata sind meist direkte Aussagen über Johannes aus der Bibel.
+
+A1 Non surrexit major. – Ein Turm mit spiralförmig sich nach oben verjüngendem Aufbau ragt hoch über die Wolkendecke hinaus. Das Bild illustriert die Worte Jesu »Amen dico vobis, non surrexit inter natos mulierum maior Ioanne Baptista . . . « (Mt 11,11).
+
+A<sub>2</sub> Vox clamantis in deserto. — Flußlandschaft mit baumbestandenen Ufern. Im Himmel eine Trompete mit den Worten: Parate Viam / DOMINI. Dieses Bild gibt eine vordergründige Anspielung auf das Wirken des hl. Johannes als Prediger in der Wüste. Die Inschriften sind Bibelzitate (Mt 3,3 u. Par. nach Is 40,3).
+
+A<sub>3</sub> Agnoscit Praesentem. — In einer weiten, stimmungsvollen Ruinenlandschaft liegt ein Kompaß, dessen Zeiger auf den Nordstern weist. Ähnlich Picinelli (Lib. 1, Nr. 36 s. v. Venus, hoc est Lucifer, seu Diana): Sonne mit Morgenstern, »Dianae sidus, solem vicinum praeveniens, epigraphen tenet: PRAESENTEM NUNCIAT. Pronum est, in hoc ecotypo S. Joannem Baptistam dignoscere; de quo S. Maximus: Hic enim, inquit, solus est prophetarum, qui Domi
+
+
+[[File:Band01_chunk012_p022_img006.jpg|thumb|B₁−₄ Kirchenväter]]
+
+
+
+[[File:Band01_chunk012_p022_img007.jpg|thumb]]
+
+
+A<sub>6</sub>
+<!-- citation-page-bottom: Band01 p593 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=23 -->
+<!-- citation-page-top: Band01 p594 -->
+
+<!-- header: WESSOBRUNN -->
+
+num nostrum Jesum Christum, quem alii in longa tempora futurum praescierunt, propriis oculis videre meruit.« Dieses Bild bezieht sich auf Johannes in seiner Eigenschaft als Vorläufer und Verkünder Jesu.
+
+A4 Quantus erit cognoscitur. — Drei kleinere Pyramiden-Obeliske um einen größeren in einer Wüstenlandschaft mit Palmen.
+
+Ein ähnliches Emblem ist bei Boschius beschrieben (Classis 1, Nr. 28): drei Pyramiden mit dem gleichen Lemma und der Erklärung »Mensura Nili in Pyramidibus, e cuius altitudine fertilitatem anni metiuntur Aegyptij«. Es bezieht sich auf die Taufe Christi durch Johannes, bei der die Größe Christi sichtbar wurde.
+
+As Non manducans neque bibens (Mt 11,18). — Über einer öden Landschaft fliegt ein seltsam gebildeter Vogel. Es handelt sich um den Paradiesvogel, den Picinelli (Lib. 4 Nr. 483, s. v. monocodiata beschreibt: »Haec volucris... alis destituta, volat; et pedibus orba, graditur. Carnem pene nullam habet, totoque corpore oblonga cauda plumea tegi-<br>tur. Natales quidem suos e terra trahit; verum eam, quas designata, nunquam contingit. Denique, quod maxime mireris, crescit, vivit et generat, nec tamen comedit vel bibit unquam. Unde D. Aresius Monocodiatae Emblemate S Joannem Baptistam, Eremi incolam, depinxit; subjuncto D. Matthaei lemmate. NON MANDUCANS NEQUE BIBENS.« – Das gleiche Emblem bei Boschius, Classis 1, Nr. 769, bezieht sich ebenfalls auf Johannes den Täufer in der Wüste.
+
+As Praecedet (anknüpfend an Lc 1,17). - Die Sonne geht über einer lieblichen Landschaft auf; am Himmel steht der Morgenstern. - Picinelli (Lib. 1, Nr. 50, s. v. aurora) bezieht das Bild der Morgenröte auf die Geburt Johannes des Täufers, des Vorläufers Jesu: »PRAEVIA SOLIS«. Ähnlich bei Boschius (Classis 1, Nr. 765): Morgenstern und aufgehende Sonne »PRAESENTUM NUNTIAT«.
+
+B DIE APOKALYPTISCHE VISION DES HL. JOHANNES Die Vision des Evangelisten (Apoc 12,1–18) ist der späteren Tradition gemäß auf die Insel Patmos verlegt. Dem biblischen Text folgend ist das apokalyptische Weib geflügelt, mit den Gestirnen des Himmels wiedergegeben. Der Engel trägt den Knaben zu Gott empor. Das apokalyptische Weib ist im Typus der Immaculata gezeigt, als solche zertritt es der Schlange des Paradieses den Kopf (Gen 3,15). Michael stürzt den siebenköpfigen, gekrönten Drachen Satan. Anstelle des siebenten Tierkopfes und Schlangenhalses ist hier ein menschlichen Oberkörpers wiedergegeben. Von diesem gehen Schlangen und Fledermäuse aus. Es ist eine Vermischung der traditionellen Bildtypen Satans. Vielleicht soll aber der Menschenkörper mit Schlangen und Fledermäusen speziell auf die Häresie, auf die gegen die katholische Mariologie gerichteten häretischen Angriffe hinweisen.
+
+Literatur siehe S. 599
+
+{{End}}

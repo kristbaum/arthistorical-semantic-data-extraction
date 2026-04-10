@@ -1,0 +1,66 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=188
+|Originalseitenbis=188
+|Lemma=Pflugdorf, Filialkirche St. Laurentius, Sakristei
+|Typ=Sakral
+|Ort=Pflugdorf
+|davor=Pflugdorf, Filialkirche St. Laurentius
+|danach=Pöring, Schlosskirche St. Maria von der Versöhnung
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Sakristei der Filialkirche St. Laurentius
+
+'''Zum Bauwerk:''' vgl. Filialkirche. Der Sakristeiraum ist in der Ausstattung wesentlich schlichter gehalten, die Decke zeigt keine Stuckdekoration, nur einen einfachen Profilrahmen.
+
+'''Autor und Entstehungszeit:''' Das Sakristeibild wird in der Literatur allgemein Johann Baptist Baader zugeschrieben, der für diese Kirche drei Altarblätter und die Emporenbilder schuf (das Altarbild St. Silvester von Baader signiert und datiert 1760). Die Figuren und die Wolkenglorie des Sakristeibildes gehören eindeutig zu den charakteristischen Formen Baaders in den Deckenbildern der 50/60er Jahre, wie sie z. B. die Ölmalereien in der ehem. Reliquienkapelle und der Hauskapelle von Polling (1764 und 1765/66) oder die Fresken der Wessobrunner Johanneskirche (1758) zeigen (s. LKr. Weilheim-Schongau). Das Deckenbild ist wahrscheinlich gleichzeitig mit den Altarbildern – um 1760 – entstanden.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke Rahmen Stuckprofil
+
+Technik: Öl; polychrom
+
+Maße: Höhe 2,30 m; 1,60 × 1,30
+
+Erhaltungszustand und Restaurierungen: Bei der allgemeinen Restaurierung der Kirche 1953 wohl gereinigt; recht gut erhalten, Farboberfläche ein wenig streifig.
+
+
+== Beschreibung und Ikonographie ==
+
+
+ABRAHAM OPFERT ISAAK (Gen 22) Die traditionelle Gruppe Abrahams Opfer, in barock-pathetischer Formensprache wiedergegeben, nimmt das kleine Ovalfeld an der niederen Decke der Sakristei ganz ein. Auf einem steinernen, übereck gestellten Altarsockel liegt der entkleidete Jüngling Isaak, die Hände gefesselt, den Oberkörper halb aufgerichtet. Abraham drückt den Kopf seines Sohnes mit der Rechten nieder. Der Säbel ist zum Todesstreich angesetzt, doch ein Engel hält den Arm mit dem Degen fest und weist den erschrocken aufblickenden Greis zur Glorie des Himmels, in welcher das Zeichen der Dreifaltigkeit, ein Dreieck mit dem Auge Gottes, umkreist von Wolkenringen, erstrahlt. – Ein Räuchergefäß im Vordergrund des Bildes steht zur Vollendung des Opfers bereit; das Dornengestrüpp zu Füßen Isaaks deutet den Ausgang der Szene an: an Stelle Isaaks wird der Widder in den Dornbuschzweigen geopfert.
+
+Abraham wird als kraftvolle Greisengestalt, umflattert von einem Mantel, in stockenden, fahrigen Bewegungen gezeigt. Sein Gesicht ist abrupt zum Himmel gewendet, die scharf gezeichneten Züge seines Profils umrahmt das zerzaust-lockige Haupt und Barthaar. In eindrucksvollem Kontrast zu Abraham zeigt der Jünglingsengel, nur halb aus den tief über dem Altarblock hängenden Wolken hervorkommend, Ruhe, Gelassenheit und Bestimmtheit in
+
+
+[[File:Band01_chunk004_p020_img001.jpg|thumb|Abraham opfert Isaak]]
+
+
+Gestik und Bewegung, während der Jüngling Isaak, in verschränkter Stellung der Glieder, verhaltenen Widerstand ausdrückt. Abraham und der Engel, einander zugewandt, sind als Hauptfiguren der Gruppe in eine steile Bilddiagonale komponiert, Isaak darunter ist in der kreuzenden, flacheren Diagonale eingeordnet. Farblich wird das Bild durch sehr gedämpfte, rauchige Töne charakterisiert; die Farbskala Grau-Ocker-Rosa in fließenden Übergängen ist bestimmend, wenig Weiß und Blau bilden Akzente. – Das sehr atmosphärisch – tonig wirkende Bild steht farblich den Deckenbildern von Polling sehr nahe. Thematisch ist das Bild auf die Sakristei als Ort der Vorbereitung des Meßopfers, der Eucharistiefeier, bezogen. Das Opfer Abrahams steht typologisch für diese.
+
+
+== Literatur ==
+
+
+KDB I OB (1), S. 537
+
+Emerich, Karl, Johann Baptist Baader, in: Landsberger Geschichtsblätter 29, 1932, Nr. 11, Sp. 87.
+
+Fuchs, Adolf, Johann Baptist Baader, der Lechhansl, Kaufbeuren 1959, S. 23.
+
+Dehio-Gall OB (1964), S. 291 f.
+
+Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 568–71.
+
+Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Katalog des Gesamtwerkes, ungedr. Diss. München 1972.
+
+{{End}}

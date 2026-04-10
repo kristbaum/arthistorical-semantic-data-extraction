@@ -1,0 +1,61 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=308
+|Originalseitenbis=309
+|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|danach=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Ehem. Fürstensaal, jetziger Festsaal des Klosters
+
+
+'''Zum Bauwerk:''' Nach einem verheerenden Brand 1669 wurde ab 1671 unter Abt Maurus Rambeck von Andechs (1666-86) der Klosterbau wiedererrichtet. 1674 ist die neue Bibliothek, die sich im gleichen Trakt wie die Fürstenzimmerflucht befindet, fertiggestellt. Der Deckenstuck des Fürstensaales weist stilistisch auf eine Entstehungszeit in den Jahren vor 1705 hin.
+
+Der Fürstensaal liegt im zweiten Stock des Ostflügels am Ende einer Fürstenzimmerflucht; es ist der größte Raum (11,40 m×7,00 m); die Fenster sind nach N und O gerichtet
+
+'''Autor und Entstehungszeit:''' Das Deckenbild dieses Raumes sowie die Deckenbilder des nachfolgend besprochenen Fürstenzimmers können auf Grund des stilistischen Befundes dem 1670 an den bayerischen Hof berufenen Maler Antonio Triva zugeschrieben werden. Zum Vergleich wird Trivas Deckengemälde, die Nymphe Arethusa, in Schloß Nymphenburg (München), dessen Entstehungszeit im Jahre 1673 archivalisch dokumentiert ist (vgl. Berghoff, S. 26), herangezogen. Gemeinsam ist den Bildern die zentrale Untersicht, kombiniert mit einer Lichtführung, die nicht im illusionistischen Sinn vom Bildzentrum, sondern vom oberen Bildrand ausgeht. Im Figürlichen stimmen die Kopftypen in der ebenmäßigen Bildung der Gesichter und der Behandlung des lockigen Haares überein. Körper und Gliedmaßen sind plastisch geformt und die weit gebauschten Gewänder durch Licht und Schatten modelliert. Das freie, bewegte Fliegen der Figuren, teilweise in extremen Körperstellungen gezeigt, findet sich im Andechser wie im Nymphenburger Bild. Die in satten Farben gemalten Figuren sind silhouettenartig auf den blauen Himmelsgrund gesetzt (vgl. Heinrich Kreisel, Farbiges Nymphenburg, München 1944, S. 22, Tf. 3).
+
+Das im Andechser Fürstensaal befindliche Wappenbild hat Triva wahrscheinlich in den 70er Jahren des 17. Jh. gemalt (vgl. S. 311).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: stuckierte Flachdecke Rahmen · Stuckprofil
+
+Technik: Öl auf Leinwand Maße: Höhe 3,60 m; 2,05 × 3,25
+
+
+[[File:Band01_chunk007_p005_img001.jpg|thumb]]
+
+
+Erhaltungszustand und Restaurierungen: Nach der Restaurierung 1966 ist der Zustand des Bildes durchweg gut.
+
+
+== Beschreibung ==
+
+
+DAS WITTELSBACHER WAPPEN Betrachterstandort unterhalb der Mitte des Bildes. Die in zentraler Untersicht wiedergegebenen Bildfiguren sind in einen Himmelsausschnitt gesetzt, dessen Lichtperspektive auf Schrägsicht berechnet ist. Breite Lichtstrahlen, deren Ursprung im Bild nicht dargestellt ist, und ein dunkler Wolkenkranz bezeichnen das Oben und das Unten des Himmelsschauplatzes am westlichen bzw. östlichen Bildrand.
+
+Drei Genien, mit weitausgebreiteten Flügeln und flatternden, weiten Gewändern, tragen, frei in der Luft fliegend, das Wappen der Wittelsbacher in schwerem Rollwerkrahmen, das von dem hermelinbesetzten Kurhut gekrönt ist. Auf den Wolken ringsum sind vier weitere Ruhmesgenien, die mit Fanfaren die Glorie der bayerischen Farben verkünden.
+
+Die Farbigkeit hat heraldischen Charakter. Auf dem reinen Himmelsblau erscheinen Gelb, Blaugrau mit Rot und Rosenholz. Diese Töne sind alle schon im Wappen angelegt.
+
+
+== Ikonographie ==
+
+
+Das profane Thema entspricht der Bestimmung des Raumes innerhalb der Fürstenzimmerflucht und ist in einen weiteren Sinnzusammenhang gestellt: Mit dem Ruhm des Fürstengeschlechtes werden die Kardinaltugenden als christliche Herrschertugenden verbunden. Justitia, Prudentia, Fortitudo und anstelle der Temperantia die theologische Tugend Fides sind in Stuckmedaillons um das Wappenbild dargestellt. Zu den figürlichen Tugenddarstellungen gehören erklärende Inschriftkartuschen mit biblischen Zitaten – hier wiederum ist Temperantia und nicht Fides vertreten: SOBRII / ESTOTE / 1 Petri 5.V.8. Das christliche Herrscherhaus wird auf das antike Herrschertum bezogen: In den beiden Türädikulen des Fürstensaales ist eine Imperatorenbüste aufgestellt. Das Wappenbild huldigt nicht nur dem Landesherrn, es bezieht sich auch auf die Geschichte des Klosters. Ein Ölbild an der Wand feiert Herzog Albrecht III. als den Gründer des Benediktinerklosters Andechs.
+
+Literatur siehe S. 311 und 316
+
+{{End}}

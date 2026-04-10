@@ -1,0 +1,23 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=642
+|Originalseitenbis=642
+|Lemma=Embleme-Register (Band 1)
+|davor=Ikonographisches Register (Band 1)
+|danach=Bildmotive (Band 1)
+}}
+
+
+Embleme 93 f., 107 f., 121 f., 124, 130-32, 164 f., 182 f., 197 f., 205 f., 231, 233, 242 f., 246, 248 f., 270, 272 f., 315 f., 320 f., 353 f., 416-18, 454 f., 545-47, 575-89, 593 f.
+
+Emblemähnliche Darstellungen Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Bibel- und Vitazitate. Anstelle der Icones finden sich historische (hagiographische und biblische oder symbolische Szenen und Figuren, sowie Illustrationen zu den Zitaten. 92, 107 f., 131 f., 170 f., 182, 205 f., 270, 315 f., 353 f., 416, 454 f., 593
+
+Emblemähnliche Bilder ohne Lemmata 65, 76, 162, 186, 516
+
+Embleme mit Epigramm-Inschriften 93 f., 242, 545, 547
+
+BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblemliteratur herangezogenen Bild motive und Lemmata.
+
+{{End}}

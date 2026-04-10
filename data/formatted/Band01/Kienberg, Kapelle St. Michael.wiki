@@ -1,0 +1,81 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=426
+|Originalseitenbis=427
+|Lemma=Kienberg, Kapelle St. Michael
+|Typ=Sakral
+|Ort=Kienberg
+|davor=Kirchberg, Pfarrkirche St. Jakobus Major
+|danach=Kreuzberg, Kapelle Hl. Kreuz
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p426 -->
+
+<!-- header: KIRNBERC -->
+
+
+== KIRNBERG ==
+
+
+Kapelle, Gemeinde Tannenberg, Pfarrei Rettenbach, Diözese Augsburg; z. Z. der Ausmalung Pfarrei Burggen, auf die das Hochstift Augsburg das Präsentationsrecht hatte, bischöfliches Pflegamt Füssen
+
+'''Patrozinium:''' St. Michael
+
+'''Zum Bauwerk:''' 1727 durch Bauer Schilcher erbaut. – Zweiachsiger Saal mit eingezogenem Altarraum.
+
+'''Auftraggeber:''' Bauer Schilcher, Hofbesitzer in Kirnberg
+
+'''Autor und Entstehungszeit:''' Die über dem Chorbogen angebrachte Jahreszahl 1730 ist auf die Ausmalung zu beziehen. Der Autor ist unbekannt, doch sprechen stilistische Merkmale für Johann Heel aus Göggingen, der um 1723 in der nahen Pfarrkirche von Bernbeuren und nach 1730 in der dortigen Marienkapelle freskierte. Besonders gut sind die Himmelfahrts-Darstellungen in Kirnberg und in der Pfarrkirche Bernbeuren zu vergleichen. Beide Bilder zeigen eine übereinstimmende, in der perspektivischen Konstruktion mißlungene Bildanlage. Ein gemeinsames Charakteristikum ist die Marmorierung von Säulen und Sarkophag. Die weiten, bauschigen Gewänder und der Aposteltypus sprechen ebenfalls für eine Zuschreibung an Heel. Trotz der Beeinträchtigung des Kirnberger Freskos durch Übermalungen stimmt die Farbigkeit mit anderen Fresken Heels überein; Hellgrün-Gelb und Hellblau-Rost werden in den Gewändern mit Vorliebe changierend verwendet. In Bernbeuren ist wie in Kirnberg die bei einer Himmelfahrt Mariens ikonographisch ungewöhnliche Wiedergabe einer Martyrerpalme und eines Lorbeerkranzes zu finden.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke Rahmen: Einfaches Stuckprofil Technik: Fresko; polychrom Maße. Höhe 6,00 m. 2,50 × 2,00
+
+
+[[File:Band01_chunk009_p014_img001.jpg|thumb|A Himmelfahrt Marier]]
+
+
+Erhaltungszustand und Restaurierungen: Risse nach Blitzschlag 1953 von A. Kraut ausgebessert, dabei wurden besonders die Kartuschen weitgehend neugemalt (keine Abbildungen). 1960/61 Freskoteile aus der Bildmitte herausgefallen (betroffen waren der Sarkophag, zwei Apostel und die Wolke mit der Figur Mariens) und von A. Dasser restauriert.
+
+Beschreibung und Ikonographie
+
+A HIMMELFAHRT MARIENS Einansichtige Darstellung mit geringer Untersicht. Auf einer gestuften Terrasse knien und stehen die erstaunten Apostel um den leeren Sarkophag. Links ragt eine Säulenarchitektur schräg in die Wolken, wo die auffahrende Muttergottes von ihrem Sohn in Empfang genommen wird. Farblich dominiert ein beige-gelblicher Grundton. Außer dem auffallenden Changieren der Kleider in hellen grün-gelb, bläulich-rosa und rost-gelb Tönen ist wenig von der originalen Farbwirkung erhalten. Maria ist nicht in der typischen Assunta-Haltung mit ausgebreiteten Armen wiedergegeben, vielmehr ist eine Hand an die Brust gelegt, die andere weist hinunter, eine Gebärde, die in Krönungsbildern und vor allem in Fürbittdarstellungen geläufig ist. Christus hält nicht die Krone für Maria bereit, wie in den kombinierten Himmelfahrt-Krönungsbildern, sondern zeigt nachdrücklich sein Leidenskreuz und seine Wundmale vor, was mehr einem Interzessionsbild entspricht. Ebenfalls abweichend von der Himmelfahrtsikonographie hält hier ein Putto Martyrersymbole, Palmzweig und Lorbeerkranz.
+
+[[File:Band01_chunk009_p014_img002.jpg|thumb]]
+
+
+Die Kartuschen zeigen biblische Mariensymbole, die durch die Lauretanische Litanei allgemein verbreitet waren (keine Abbildungen).
+
+A<sub>1</sub> Sonne. » Auserlesen wie die Sonne« (Cant 6,9)
+
+A<sub>2</sub> Mond, »Schön wie der Mond« (Cant 6,9)
+
+A3 Weiße Rose, »Du geistliche Rose« (biblisch-literarisches Symbol)
+
+A<sub>4</sub> Stern, »Du Morgenstern« (Eccli 50,6)
+
+Aa Turm auf Wolken, »Du Turm Davids« (Cant 4,4)
+
+Ab Haus auf Wolken, »Du goldenes Haus« (vgl. der goldene Tempel Salomos 3 Reg 6)
+
+Ac Portal auf Wolken, »Du Pforte des Himmels« (Gen 28,17)
+
+Ad Arche auf Wolken, »Du Arche des Bundes« (2 Par 5,7) Die Übersetzung der Vulgatastelle »arca foederis« lautet im allgemeinen »Bundeslade« und so ist auch gewöhnlich die Bundeslade mit den Cherubim bildlich dargestellt, seltener statt dessen die Arche Noe.
+
+
+== Literatur ==
+
+
+Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 260.
+<!-- citation-page-bottom: Band01 p427 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=15 -->
+{{End}}

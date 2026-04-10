@@ -1,0 +1,59 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=326
+|Originalseitenbis=326
+|Lemma=Hadorf, Filialkirche St. Johann Baptist
+|Typ=Sakral
+|Ort=Hadorf
+|davor=Grünsink, Filial- und Wallfahrtskirche Mariahilf
+|danach=Inning a. Ammersee, Pfarrkirche St. Johann Baptist
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p326 -->
+
+<!-- header: HADORF -->
+
+<!-- header: INNING -->
+
+
+Filialkirche, Pfarrei Steinebach, Diözese Augsburg; z. Z. der Ausmalung zur Pfarrei Erling gehörig, die dem Kloster Andechs inkorporiert war, Gericht Weilheim
+
+'''Patrozinium:''' St. Johann Baptist
+
+'''Zum Bauwerk:''' Der mittelalterliche Bau wurde im 18. Jh. - wohl mit Hilfe des Klosters Andechs - umgestaltet und neu ausgestattet. Einfacher, rechteckiger, ungegliederter Saalbau; eingezogener AR mit dreiseitigem Schluß; im W Empore. Der Raum ist sehr breit und niedrig (LHs: 5,05 m hoch, 9,10 lang, 7,75 breit). Das LHs-Fresko ist aus Mitte des Gewölbes nach O verschoben.
+
+'''Autor und Entstehungszeit:''' Signatur in der SO-Ecke des Deckenbildes am Treppengeländer: F. Gaullrapp. pin Franz Seraph Gaulrapp oder Galrapp, * um 1715 in Alling bei Fürstenfeldbruck † 3. 11. 1800 in München als Stadtkammermaler (seit 1770), lernte bei Cosmas Damian Asam — vielleicht während dessen Tätigkeit in Fürstenfeldbruck — und war seit 1742 Bürger und Maler in München. Seine drei Söhne wurden gleichfalls Maler (frdl. Mitt. Peter von Bomhard, Erzbischöfl. Ordinariatsarchiv München). — Wegen seiner Komposition, gewisser Übernahmen aus dem Spätwerk von Matthäus Günther und einer allgemeinen klassizistischen Grundhaltung dürfte das Fresko in das 8. Jahrzehnt des 18. Jh. zu datieren sein.
+
+== Befund ==
+
+Rahmen: Stuckprofil  
+Technik: Fresko; polychrom  
+Maße: Höhe 5,05 m; 5,65×4,10  
+Erhaltungszustand und Restaurierungen: 1963 letzte Restaurierung. Bis auf leichte Haarrisse ist der Zustand gut
+
+Beschreibung und Ikonographie
+
+TOD JOHANNES DES TÄUFERS (Mt 14, 6—11) Obwohl die Architekturanlage noch barocke Elemente aufweist, haben wir hier eine Reduktion auf eine rein {ZITAT|000} Szenerie, wobei sogar auf eine Himmelsöffnung verzichtet wurde.
+
+Der Henker soeben den Täufer geköpft, das Haupt übergibt er Salome. Salome ist reich gekleidet und in Begleitung zweier Frauen.
+
+[[File:Band01_chunk007_p014_img001.jpg|thumb]]
+
+Rechts unten, nur angedeutet durch ein geschwungenes steinernes Treppengeländer, führen Stufen ins Obergeschoß. Salome, zum zweitenmal auf dem Bild erscheinend, trägt das Haupt des Täufers nach oben, ihre Schleppe wird von einem Edelknaben getragen.
+
+Auf der oberen Bühne, rechts und links begrenzt von aufragenden Architekturteilen, ist das Gastmahl des Herodes dargestellt, auf einer Art Terrasse unter freiem Himmel. Bildparallel ein weißgedeckter Tisch, an dem Herodes, neben ihm wohl noch einmal Salome und weitere Gäste sitzen.
+
+Die bestimmende Farbe der Architekturen ist Gelbgrau. In den Gewändern sind scharf konturierte, isolierte und in sich abgestufte Buntwerte von Blau, Gelb und Rosenholz.
+
+== Literatu ==
+
+Braun-Augsburg, Bd 1, S. 362 f.  
+Thieme-Becker, Bd 13, S. 133 (s. v. Galrapp).
+
+{{End}}

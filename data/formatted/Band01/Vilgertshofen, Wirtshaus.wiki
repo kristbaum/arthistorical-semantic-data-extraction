@@ -1,0 +1,74 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=263
+|Originalseitenbis=265
+|Lemma=Vilgertshofen, Wirtshaus
+|Typ=Profan
+|Ort=Vilgertshofen
+|davor=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes
+|danach=Walleshausen, Pfarrkirche Mariä Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Wirtshaus, Gemeinde Stadl, z. Z. der Ausmalung Gasthaus der Wallfahrer, Kloster Wessobrunn zugehörig.
+
+'''Zum Bauwerk:''' Von Kloster Wessobrunn unter Abt Leonhard Weiß (1670–96) als Unterkunft für die Wallfahrer 1690 erbaut. — Korridor im Obergeschoß
+
+'''Autor und Entstehungszeit:''' Die nicht signierten Fresken werden übereinstimmend Johann Baptist Baader zugeschrieben. Baader malte 1770 ein Altarblatt (St. Stephan, signiert und datiert) für die Wallfahrtskirche, ins gleiche Jahr werden die Wirtshausbilder datiert. — Die Fresken zeigen typische Baaderfiguren, meist in der zeitgenössischen Bauerntracht in einfach gebauten Szenen mit geringer Untersicht. Die Bilder erinnern an die Fresken von 1768 in Aschering (s. LKr. Starnberg) und lassen sich auch gut mit dem Chorbild von 1772 in der Pähler Pfarrkirche St. Laurentius (s. LKr. Weilheim-Schongau) vergleichen. Der Auftrag an Baader erging vermutlich über Abt Ulrich Mittermayr von Wessobrunn (1760–70).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke Rahmen: A, B, C einfacher imitierter Profilrahmen Technik: Fresko; polychrom Maße: A Höhe 3,60 m; 2,70 × 2,00
+
+B Höhe 3,60 m; 3,00 × 2,20
+
+C Höhe 3,60 m; 2,70 × 2,20
+
+Erhaltungszustand und Restaurierungen: 1958 durch A. Dasser restauriert, wobei fehlende Putzteile wieder aufgetragen, lose Stellen aufgeschraubt und Risse ausgebessert wurden. Am besten erhalten ist Fresko A, es zeigt kaum wahrnehmbar Retouchen. Der gekittete Querriß in B ist wieder leicht aufgerissen, Haarrisse kommen hinzu. Zwei Freskopartien – ein Himmelsstück und die Beinpartie der Figur Josephs – sind ausgebessert. Fresko C ist teilweise stark erneuert: Über das ganze Bild läuft quer ein breiter erneuerter Streifen, die Stadtansicht und ein Stück des Himmels sind erneuert. — Im ganzen sind die Bildfiguren in Zeichnung und Farbe trotzdem recht gut erhalten
+<!-- citation-page-bottom: Band01 p263 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=8 -->
+<!-- citation-page-top: Band01 p264 -->
+
+<!-- header: VILGERTSHOFEN -->
+
+Beschreibung
+
+A EMMAUS (Lc 24,30 f.) Jesus bricht den beiden Jüngern das Brot, diese fahren - ihren Meister endlich erkennend - erschrocken zusammen, während der Wirt unbeteiligt von der Seite den Vorgang betrachtet. Die Jünger sind in lebhaften, etwas gekünstelten Gebärden wiedergegeben, die in Bewegung geratenen Falten der Tischdecke betonen die Gesten der Hände. - Pilgerattribute, Stab und Hut, deuten auf die gemeinsame Wanderung Jesu und der Jünger hin. - Baader hat die Mahlszene auf einer seichten Bühne in eine feierliche Szenerie gesetzt: Der Kulissenaufbau von Säulen, Vorhang, Bogen und Treppenpodesten steht in Kontrast zur bäuerlichen Tracht des (porträtähnlich wiedergegebenen) Wirtes, zu den derb charakterisierten Typen.
+
+
+[[File:Band01_chunk006_p008_img001.jpg|thumb|B Herbergssuche]]
+
+
+B HERBERGSSUCHE (vgl. Lc 2,7) Auf der ungepflasterten Straße eines Ortes mit solid-behäbigen Gebäuden geht Joseph, sein Handwerkszeug geschultert, auf Herbergssuche. Maria folgt ihm auf einem Esel reitend. Ein Wirt weist Joseph mit bäuerlich grober Gebärde von der Tür seines Hauses weiter zum nächsten Gasthaus. Die Wirtin hinter ihm im Türrahmen hebt beim Anblick der schwangeren Maria erstaunt und zugleich abwehrend ihre Hand mit gespreizten Fingern vor ihr Gesicht.
+
+
+C JESUS UND DIE SAMARITERIN AM JAKOBSBRUNNEN (Jo 4,5 ff.) Jesus hat sich an der steinernen Brunneneinfassung niedergelassen und spricht in ruhigem Redegestus auf die Samariterin ein. Diese, eine Bäuerin in sonntäglichem Putz, steht feierlich am Brunnen, die Hände überkreuz auf ihren Wassereimer gestützt. Ein hohes, in Quadersteinen errichtetes Brunnenhaus hinterfängt die Gruppe. Ein weiter Bogen gibt die Aussicht auf eine Stadt mit dicht zusammengedrängten Gebäuden frei - gemeint ist das biblische Sychar in Samarien.
+
+Ergänzungen zur Ikonographie: Für das Gasthaus der Wallfahrer - eine selten gestellte ikonologische Aufgabe - ist eine angemessene Themenwahl getroffen. Von den sieben Werken der leiblichen Barmherzigkeit sind die drei dargestellt worden, welche sich gut auf die Funktion des Pilgerhauses beziehen lassen: die Hungrigen speisen (= Emmaus), die Obdachlosen beherbergen (= Herbergssuche) und die Durstigen tränken (= Jesus und die Samariterin). In typisch barock-allegorischer Erzählweise wurden für die drei Werke biblisch-historische Ereignisse aus dem Leben Jesu herangezogen.
+
+
+== Literatur ==
+
+
+Schilling, Johann August, Herberge eines vergessenen schwäbischen Malers, in: Der Sammler 1879, Nr. 87,88. Emerich, Karl, Johann Baptist Baader, in: Landsberger Geschichtsblätter 29, 1932, Nr. 11, Sp. 84 f.
+
+Fuchs, Adolf, Johann Baptist Baader, der Lechhansl, Kaufbeuren, 1959, S. 33.
+
+Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Katalog des Gesamtwerkes, ungedr. Diss. München 1972.
+
+Weitere Literatur siehe S 269
+
+
+[[File:Band01_chunk006_p008_img003.jpg|thumb|C Jesus und die Samariterin am Jakobsbrunnen]]
+<!-- citation-page-bottom: Band01 p265 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=9 -->
+{{End}}

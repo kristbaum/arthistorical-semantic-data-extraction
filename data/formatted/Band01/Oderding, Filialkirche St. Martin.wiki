@@ -1,0 +1,95 @@
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=444
+|Originalseitenbis=445
+|Lemma=Oderding, Filialkirche St. Martin
+|Typ=Sakral
+|Ort=Oderding
+|davor=Obersöchering, Pfarrkirche St. Maria
+|danach=Pähl, Pfarrkirche St. Laurentius
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band01 p444 -->
+
+<!-- header: ODERDING -->
+
+Filialkirche, Pfarrei Polling, Diözese Augsburg; z. Z. der Ausmalung eigene, dem Augustinerchorherrenstift Polling inkorporierte Pfarrei, Gericht Landsberg
+
+
+'''Patrozinium:''' St. Martin
+
+
+'''Zum Bauwerk:''' Erbaut 1536 durch den Baumeister Hans Glück von Peißenberg. Umgestaltung 1724; Jahreszahl und Wappen des Propstes Albert Oswald von Polling (1701–44) am Chorbogen. Auftraggeber für die Ausmalung wohl Propst Franz Töpsl von Polling (1744-96) unter Pfarrvikar Herkulanus Weiß (1786–93), Chorherr von Polling. – Einfacher Saal mit eingezogenem AR und <sup>3</sup>/<sub>8</sub> – Schluß.
+
+'''Autor und Entstehungszeit:''' Aus Kirchenrechnungen geht hervor, daß die Fresken 1790 entstanden; der Maler war der Pollinger Klostermaler Johann Wenzeslaus Albert (Rückert 1936).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Tonne mit Stichkappen
+
+Rahmen: A, B, C Stuckprofil mit Voluten
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 8,80 m; 2,20 × 1,70  
+B Höhe 8,80 m; 2,70 × 1,90  
+C Höhe 8,80 m; 2,20 × 1,70
+
+
+[[File:Band01_chunk009_p023_img001.jpg|thumb|C Auferweckung des Erhängten]]
+
+
+Erhaltungszustand und Restaurierungen: Restaurierungen 1589 durch J. J. Mangold und 1893 durch Sedlmayr. Der Zustand von A, B und C ist sehr schlecht: Wasserschäden, Schimmelbildung, Farbabblätterungen, lange Risse und übermalte Stellen. Die Mittelpartie von C mit der Figur Martins, zwei Begleitfiguren und einem Engel ist offensichtlich ergänzt. Das Deckenbild im Altarraum (D) wurde im 19. Jahrhundert völlig übermalt und bezieht sich nur noch ikonographisch auf die Deckenbilder des Langhauses: Es zeigt die Mantelspende des hl. Martin (keine Abbildung).
+
+
+[[File:Band01_chunk009_p023_img002.jpg|thumb]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+A AUFERWECKUNG DES KATECHUMENEN DURCH DEN HL. MARTIN Die Szene ist einansichtig, kaum Untersichten und Verkürzungen. Der Betrachterstandpunkt liegt unter der Mitte des Bildes mit Blickrichtung nach Osten. Der Schauplatz wird von hochragender Architektur gebildet und umschlossen; über ihr wird nur in einem schmalen Stück der Himmel sichtbar. Eine hohe Mauer, an der rechten Bildseite von einer Balustrade gekrönt, schwingt sich, eine Nische bildend, nach hinten. Rechts wird die Szene von einer Säule abgeschlossen. Der hl. Martin in Bischofstracht, umgeben von drei Begleitern, segnet den sich im Sarg aufrichtenden Katechumenen.
+
+Im Hintergrund verfolgen Zuschauer staunend das Geschehen. Feine Wolken mit Engelsköpfchen spielen vom Himmel in den irdischen Schauplatz hinein. Der farbliche Eindruck aller Fresken wird bestimmt von schweren, warmen Farben. Kräftiges Inkarnat, Rot, Orange und Violett sind in die tonige Hintergrundsfarbigkeit aus Brauntönen eingebunden. Sulpicius Severus berichtet von der Erweckung des Katechumenen, der, ohne das Sakrament der Taufe empfangen zu haben, in Abwesenheit des hl. Martin gestorben war (Vita S. Martini, Kap. 7, in: Sulpicii Severi Opera, CSEL, Bd 1, S. 117 f.).
+
+
+[[File:Band01_chunk009_p023_img003.jpg|thumb]]
+
+
+B GLORIE DES HL. MARTIN Fresko B hat mehr illusionistische Eigenschaften als A und C. Es ist eine reine Himmels- und Wolkenszenerie. Am oberen Bildrand ist eine Himmelsöffnung angedeutet. Untersichten und Verkürzungen sind verhältnismäßig schwach, jedoch bedeutend stärker als in den beiden anderen Fresken. Der Betrachterstandpunkt liegt unterhalb des westlichen Bildrandes.
+
+Das Zentrum nimmt der hl. Martin ein, kniend auf einer von Engeln getragenen Wolke wiedergegeben. Darüber die Hl. Dreifaltigkeit: die Taube des Hl. Geistes, in einem Strahlenkranz vor der Himmelsöffnung erscheinend, Christus mit dem Kreuz und Gottvater mit Zepter und Weltkugel; beide verhältnismäßig kleine Gestalten.
+
+Der Heilige selbst hat die Arme in Verehrung ausgebreitet; er trägt Pontifikalkleidung. Ein Engel hält die Insignien der Bischofswürde, Stab und Mitra. Neben dem hl. Martin sein spezielles Attribut, eine Gans.
+
+C AUFERWECKUNG DES ERHÄNGTEN In der Bildanlage ist C dem Fresko A ähnlich. Der Schauplatz ist ein flacher, von Mauern umschlossener Innenraum, in dem die Personen in gedrängter Enge agieren. Der Heilige mit seinen Begleitern steht hinter dem bildparallel angeordneten Totenlager. Er hält die Hand des Toten; letzterer schlägt, zum Leben erwachend, die Augen auf. – Der hl. Martin erweckte den Diener des Lupicinius, der sich erhängt hatte (Vita S. Martini, Kap. 8, a. a. O., S. 118). Im Vordergrund sind Bittflehende wiedergegeben, die sich an den Heiligen als den Patron der Kranken und Sterbenden wenden.
+
+
+[[File:Band01_chunk009_p023_img004.jpg|thumb]]
+
+
+== Literatur ==
+
+
+Gailler, Franciscus Salesius, Vindeliciae sacrae Tomi 3 Capitulum Weilheimense, Augsburg 1756, Cap. 31. Braun-Augsburg, Bd 1, S. 349.
+
+Schmidtner, Andreas, Alterthümliches betreffend Oderding, Weilheim 1895. Abdruck aus dem Weilheimer Tagblatt 1895, Nr. 176–183.
+
+Rückert, Georg, Die St. Martinskirche in Oderding, in Weilheimer Sonntagsblatt 3, 1926, Nr. 33–37.  
+—, Vierhundertjähriges Kirchweihjubiläum in Oderding, in: Lechisarland 12, 1936, S. 159ff.  
+—, Polling, Etting, Oderding, Bd 2 Pfarrgeschichte, Weilheim 1938.
+
+Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1962, S. 43.
+<!-- citation-page-bottom: Band01 p445 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=24 -->
+{{End}}
