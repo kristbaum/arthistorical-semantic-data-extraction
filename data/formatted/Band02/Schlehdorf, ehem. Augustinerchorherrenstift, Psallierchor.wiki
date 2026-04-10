@@ -1,0 +1,96 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=246
+|Originalseitenbis=247
+|Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Psallierchor
+|Typ=Sakral
+|Ort=Schlehdorf
+|davor=Schlehdorf, ehem. Augustinerchorherrenstift, Stiftskirche
+|danach=Schlehdorf, ehem. Augustinerchorherrenstift, Bibliothek
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p246 -->
+
+<!-- header: SCHLEHDORF -->
+
+<!-- header: SCHLEHDORF -->
+
+
+[[File:Band02_chunk005_p024_img001.jpg|thumb|C Dankopfer Noes]]
+
+
+Psallierchor im ehem. Stiftsgebäude, z.Z. bayerischer Staatshesitz
+
+'''Zum Bauwerk:''' Das östlich an die ehem. Stiftskirche anschließende Gebäude mit Psallierchor, Bibliothek und östlich angrenzendem Treppenhaus wurde im Anschluß an den S-Flügel des Klosters zusammen mit der Stiftskirche 1720/35 nach Plänen Johann Michael Fischers errichtet. Rechteckiger Saalbau (5,70 × 15,50 m) im ersten Stock. Eingang von O (Treppenhaus); Belichtung durch breite Rundbogenfenster im S und N, nach W Türen und Fenster auf den Chor der ehem. Stiftskirche; nach W gerichtet. (Planskizze S. 239)
+
+'''Auftraggeber:''' Propst Constantius Schröller von Schlehdorf (1726–35; s. Wappenkartuschen a–b)
+
+'''Autor und Entstehungszeit:''' Bei Sebastian Meidinger ist der Autor der Deckenbilder überliefert (1787, S. 373): {ZITAT|000} Durch die Signatur in der Bibliothek S. 248) steht fest, daß es sich dabei um Johann Joseph Zwinck aus Oberammergau handelt. Die Datierung der Deckenbilder fällt mit der Regierungszeit des jüngsten der in den Wappenkartuschen a-d dokumentierten Pröpste. mit Constantius Schröller (1726-35), zusammen; der plastische, aus Akanthusranken, Muschelornamentik und Puttoköpfchen gebildete Stuck ist hingegen in eine frühere Stilphase, um 1720/25 zu datieren.
+
+Die Schaffenszeit Johann Joseph Zwincks (Lebensdaten unbekannt) ist nach dem jetzigen Forschungsstand zwischen 1725/26 (Ölgemälde in der Sakristei des Klosters Ettal) und 1753 (Deckenbilder in St. Nikolaus bei Huglfing, CBD, Bd 1, S. 513-16) anzusetzen. Die Schlehdorfer Gemälde sind demnach seine frühest bekannten Deckenbilder, wobei die im Psallierchor gleichzeitig als die besterhaltenen gelten können.
+
+Von Franz Seraph Zwinck (* 1748 † 1792), vermutlich einem Sohn des Johann Joseph Zwinck, befindet sich im Kloster ein 1791 datiertes Porträt des Propstes Tertulin Salcher.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle Rahmen: A–C, a–d Stuckprofil Technik: Oltempera; polychrom
+
+A Höhe 4,50 m; 2,10 × 2,10 B Höhe 4,50 m; 2,10 × 4,50
+
+C Höhe 4,50 m; 2,10 × 2,10
+
+Erhaltungszustand und Restaurierungen: Eine Restaurierung ist nicht bekannt, dem Augenschein nach sind die Deckenbilder nicht restauriert. Risse und Sprünge in allen Bildern, Feuchtigkeitsschäden an der W-Seite (Basis) von A, B und C. Die Schwarz-Grau-Grün-Farbwerte (Erd- und Laubzonen) sind weitgehend verdorben, dagegen sind Inkarnat und Gewandkolorit in gutem Zustand. Abblätterungen in B (linkes Bein Abrahams) und C (N-Rand)
+
+
+== Beschreibung und Ikonographie ==
+
+
+A MOSES VOR DEM BRENNENDEN DORNBUSCH
+
+
+[[File:Band02_chunk005_p024_img002.jpg|thumb]]
+
+
+(Ex 3) Vierpaßförmiges Feld, einansichtige Komposition in Tafelbildperspektive, Betrachterstandort unter dem O-Rand des Bildes. Sparsam repoussoirartig angedeutete Landschaft durch einen Erdstreifen und durch einen Baum am rechten Bildrand. Moses kniet vor dem brennenden Dornbusch, über dem das hebräische Zeichen Jahwes erscheint. Moses ist durch Hirtentracht gekennzeichnet, Mütze, Hirtenschippe und Sandalen liegen vor ihm am Boden.
+
+B OPFERUNG ISAAKS (Gen 22, 9–13) Mit ähnlichen Kompositionsmitteln wie in A ist der Schauplatz gebildet: schmale terrestrische Zone, am rechten Bildrand Bäume, im Hintergrund Felsen. Den verbleibenden Freiraum füllt die Figurengruppe von Abraham, Isaak und dem Engel, eine kompositionelle Einheit. Isaak kauert auf dem Opferaltar, Abraham hat bereits das Messer erhoben, während der Engel ihm Einhalt gebietet. Im Dornengestrüpp liegt der Widder, der an Isaaks Statt geopfert werden soll.
+
+
+[[File:Band02_chunk005_p024_img003.jpg|thumb]]
+
+
+C DANKOPFER NOES (Gen 8, 20) Wie sein Pendant A so beschränkt sich auch diese Szene auf die nötigsten Angaben: ein Opferaltar aus Quadersteinen, auf dem das Opfertier, ein Widder, verbrennt, davor Noe in dankbar-demütiger Haltung; im Hintergrund rechts die Arche auf einem Felsen.
+
+Alle drei Szenen sind als typologische Vorbilder für die Eucharistie zu deuten, die an gewöhnlichen Werktagen für die Chorherren im Psallierchor gefeiert wurde.
+
+a-d WAPPEN In Dreipässen sind zwischen den Hauptbildern das Klosterwappen und die Wappen der am Klosterbau beteiligten Schlehdorfer Pröpste wiedergegeben
+
+Literatur siehe S. 245
+
+
+[[File:Band02_chunk005_p024_img004.jpg|thumb|246]]
+
+
+
+[[File:Band02_chunk005_p024_img005.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p024_img006.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p024_img007.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p247 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=25 -->
+{{End}}

@@ -1,0 +1,150 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=203
+|Originalseitenbis=208
+|Lemma=Königsdorf, Pfarrkirche St. Laurentius
+|Typ=Sakral
+|Ort=Königsdorf
+|davor=Kochel, Pfarrkirche St. Michael
+|danach=Lenggries, Pfarrkirche St. Jakobus Major
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Pfarrkirche, Erzdiözese München und Freising; z. Z. der Ausmalung Landgericht Wolfratshausen
+
+'''Patrozinium:''' St. Laurentius
+
+'''Zum Bauwerk:''' Spätgotischer Tuffsteinbau, 1785/86 weitgehend umgestaltet; Stuck 1785 von Franz Doll. Saalbau zu fünf Jochen; doppelte W-Empore, deren unteres Geschoß auf beiden Seiten bis ins zweite Joch vorgezogen ist; eingezogener AR zu zwei Jochen mit dreiseitigem Schluß. Gleichmäßige Beleuchtung von N und S, im AR nur zwei Fenster.
+
+'''Auftraggeber:''' Ein Bittbrief des amtierenden Pfarrers Sebastian Eisen (1772–95) vom 30. 8. 1786 an den Münchener Hof (StAMü, GL 45 72/143) überliefert, daß Stifter, wohl aus der Pfarrgemeinde, an der Finanzierung der Kirchenausstattung beteiligt waren: »Die gutthäter haben dies Gotteshaus zur erstellung eines Neuen Choraltarblats, dan machung neuer seitenaltar . . . wie auch zur ausstokador- und mallung desselben mehr den 2000 fl freywillig geschenkt . . . « (zitiert nach Clementschitsch, Anhang A).
+
+'''Autor und Entstehungszeit:''' Signatur in A, auf einem Stein in der SW-Ecke Christianus Wink/ pictor Aulicus/ Monachij 1785. (Christian Wink * 1738 Eichstätt † 1797 München) Eine ebenfalls von Wink signierte und datierte Olskizze von 1787, die die Komposition von Fresko A zeigt, existiert in den Staatlichen Kunstsammlungen Dresden (Inv.-Nr. 62 97, 78,5 × 58 cm, mit Datum 12. April 1787)
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs (A) leicht gedrückte Stichkappentonne; AR (B, B<sub>1-4</sub>) Stichkappentonne mit abgerundetem Schluß
+
+Rahmen: A, B Stuckprofil, von stuckierten Rocaillen und Wolken mit Puttoköpfchen überlappt; B1-4 Rocaillekartuschen
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 9,30 m; 13,50 × 6,70 B Höhe 9,70 m; 7,10 × 6,00
+
+Erhaltungszustand und Restaurierungen: 1936 wurden durch Herbert Jäger und Johann Baumann, beide München, die Ölübermalungen der Restaurierungen von 1848 und 1873 entfernt und die Fresken gereinigt. Letzte Restaurierung 1964/65 durch Sebastian Hausinger und Fa. Eixenberger; bis auf sichtbar gekittete Scheitelrisse in A und B ist der Zustand relativ gut
+
+== Beschreibung ==
+
+A PASSIO DES HL. LAURENTIUS Das gekurvt gerahmte Bildfeld zieht sich über drei Joche des LHs hin und zeigt an den Schmalseiten im O und W je einen terrestrischen Schauplatz mit Szenen aus der Passio des Martyrers Laurentius, die den Betrachterstandort jeweils unterhalb der gegenüberliegenden Bildhälfte verlangen. Diese beiden voneinander unabhängigen Ansichten werden kaum von der großen Himmelsglorie in der Freskomitte zusammengefaßt, wo über der Hauptansicht gegen O Fides zwischen Engeln auf Wolken beherrschend thront.
+
+Beide Bildszenen sind vielfigurig, erzählerisch angelegt, wobei die östliche Gerichts-Szene in einen halbrund geöffneten Architekturraum mit zurückschwingender Treppenanlage und Exedra gesetzt ist, während der westliche Bildschauplatz mit dem Abschied von Sixtus eine von antikischen Gebäuden begrenzte Landschaft zeigt. An den Architekturteilen wird mit Untersicht und leicht konvergierenden Vertikalen jeweils ein Raum für die agierenden Personen geschaffen, während die scheibenförmige Gloriole in der Himmelsdarstellung folienartig wirkt und keine
+
+[[File:Band02_chunk005_p002_img006.jpg|thumb|5 Der Engel erscheint den Hirten 6 Der Engel am Ölberg]]
+<!-- citation-page-bottom: Band02 p203 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=3 -->
+<!-- citation-page-top: Band02 p204 -->
+
+[[File:Band02_chunk005_p003_img001.jpg|thumb]]
+
+Raumillusion schafft. Die Figuren sind wenig untersichtig und kaum gegeneinander verkürzt in die Schauplätze eingesetzt, was die tafelbildmäßige Wirkung der getrennt zu sehenden Szenen verstärkt, eine Eigenschaft, die sich erst in der Spätzeit der Winkschen Freskomalerei manifestiert und der Illusion einer großen Himmelswölbung entgegenwirkt.
+
+Die Hauptansicht mit der Verurteilung des Laurentius durch Kaiser Valerian nimmt dabei durch die betonte Mittelachse, verlaufend durch den Heiligen mit dem erhobenen Kreuz und den herabschwebenden Engel mit Lorbeerkranz und Palmzweig, formal und inhaltlich Bezug zur darüber thronenden Fides; in der von den Architekturlinien betonten Horizontalen wird der wiederholte deutende Handgestus von Kaiser, Priester und Soldaten eine bedeutende Bildachse.
+
+Ruhiger ist der bildparallele Zug der W-Seite angelegt. Auch hier wird von den Seiten auf Papst Sixtus in Ketten, begleitet von Laurentius, in der Mitte des Schauplatzes gewiesen; der Putto mit den Martyrer-Insignien über ihnen deutet eine vergleichsweise schwache Verbindung zur himmlischen Darstellung an.
+
+Entsprechend verhält sich die farbige Gestaltung der beiden Szenen: Die Laurentius-Szene vor dem Kaiser wird von rötlich-violetten Tönen der Architekturrahmung beherrscht, die vertieft im Purpur und Violett-Blau der Gewanddraperien wiederkehren. Dazu im Kontrast steht die Zentralfigur des Heiligen in Gelb und Weiß vor einer lichten weißen Wolke. Grün- und Brauntöne bewirken einen buntfarbigen Eindruck.
+
+In der gegenüberliegenden Abschied-Szene fassen Grün und Brauntöne die Komposition zusammen und schaffen einen ausgeglichenen Gesamtton: Die Farben der Landschaft und der Gebäude, Beige, Graugrün, Oliv und Graurosa bis Rotbraun, finden sich wieder im Inkarnat der Soldaten, in den Gewändern und den Pferdekörpern. Das Goldgelb und Weiß der Kleidung der Heiligen ist hier weniger auf Kontrast angelegt. Insgesamt wirkt das Fresko in seiner erdigen Tonigkeit schwerer und dumpfer als Deckenmalereien Winks aus den vorangehenden Jahren (vgl. St. Leonhard, S. 234–38), in denen milchige, mit Weiß gemischte Farben bestimmend sind.
+
+B DIE BRUDERSCHAFT VOM HEILIGSTEN NAMEN JESU Das nahezu runde, vierpaßförmige Bildfeld ist einansichtig, mit dem Betrachterstandort unter dem Chorbogen. Die Komposition wird von drei tafelbildmäßig parallel übereinander angeordneten Figurengruppen bestimmt: In der irdischen Zone über Treppenstufen, Brüstungen und architektonischen Versatzstücken an beiden Seiten stehen links im Bild die männlichen Bruderschaftsmitglieder, angeführt vom Pfarrer und den Trägern des Abzeichens, rechts festlich gekleidet die Frauen im Gebet. Blickrichtung und erhobene Hände weisen auf die Gruppe in Wolken, wo Laurentius zwischen Engeln mit seinem Attribut, dem Rost, kniet und auf eine große Rundscheibe mit dem IHS blickt, die ein Engel und Putti tragen. Zuoberst thront die Dreifaltigkeit, Christus, die Taube des Hl.-Geistes und Gottvater mit Zepter und Erdkugel. Die Gruppe wird links von Engeln mit dem Passionskreuz, rechts von anbetenden Engeln und Putti begleitet. In dieser Figurenanordnung wiederholt Wink eine eigene Komposition, wie sie schon in den 60er Jahren (s. Haag/Amper, OB, LKr. Freising) bekannt ist.
+
+Die Himmelsöffnung am obersten Bildrand, von Putti besetzt, wirkt in ihrem stumpfen Gelb-Ocker einer Höhenillusion entgegen. Hellste Bildpartie ist vielmehr das Zentrum des Freskos mit der grauweißen Wolke, von der sich der weiß und gelb gekleidete Laurentius abhebt. Die übrigen Figuren, die Architektur und die Wolkenbildungen sind vorwiegend in schweren Rot- und Brauntönen gehalten, die nur wenige Akzente durch graublaue und graugrüne Farbtöne bekommen. Diese Farbwahl entspricht dem Spätstil Winks seit den 80er Jahren.
+
+B<sub>1-4</sub> EVANGELISTEN Rocaille-Kartuschen in den Zwickeln um B zeigen die Evangelisten in Ganzfigur mit ihren Symbolen und aufgeschlagenen Büchern, teilweise zugeordnete Inschriften:
+
+B1 Matthäus mit Engel
+
+B<sub>2</sub> Markus mit Löwe
+
+B<sub>3</sub> Johannes mit Adler, HIS/ QUI/ CREDUNT/ IN NOMINE/ EIUS. (= Io 1, 12)
+
+B4 Lukas mit Stier, VOCATUM/ EST/ NOMEN/ EIUS/ IESUS /C2 (= Lc 2, 21)
+
+
+[[File:Band02_chunk005_p003_img002.jpg|thumb|A Passio des hl. Laurentius – Abschied von Sixtus]]
+<!-- citation-page-bottom: Band02 p205 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=4 -->
+<!-- citation-page-top: Band02 p206 -->
+
+<!-- header: KÖNIGSDORF -->
+
+<!-- header: KÖNIGSDORI -->
+
+
+[[File:Band02_chunk005_p004_img001.jpg|thumb]]
+
+
+Ikonographie
+
+== A PASSIO DES HL. LAURENTIUS – ABSCHIED VON SIXTUS ==
+In beiden Szenen des Hauptfreskos – wie auch im Chorfresko - ist Laurentius, der im Jahr 258 das Martyrium erlitt, als junger Diakon in Albe und Dalmatik, barhäuptig und bartlos dargestellt. Papst Sixtus II. (257–58) erlitt vier Tage vor seinem Diakon Laurentius das Martyrium. In der Darstellung im W sieht man, wie der Papst in Ketten zur Richtstätte geführt wird und beim Abschied den ihm folgenden Laurentius zum Diakon (Erzdiakon) weiht. Bei der letzten Zwiesprache erteilt Sixtus den Auftrag, das Kirchenvermögen an die Armen zu verteilen und prophezeit Laurentius sein Martyrium (AASS, Aug., Tom 2, Antwerpen 1735, 10. 8., S. 492; Ribadeneira-Hornig, Bd 2, 10. 8., S. 187). Im Hintergrund rechts angedeutete Bauten spielen auf römische Architektur an, den Schauplatz des Martyriums, wie etwa die Trajans- oder Marc-Aurel-Säule sowie antike Grabmäler.
+
+== VERURTEILUNG DES LAURENTIUS ==
+In der Hauptansicht gegen O ist eine Art Tribunal dargestellt, in dem Kaiser Valerian dem Diakon die Auslieferung des Kirchenschatzes befiehlt und Laurentius auf die Armen und Krüppel als die wahren Schätze der Kirche weist (AASS loc. cit., S. 493; Ribadeneira-Hornig, loc. cit., S. 188 f.). Mit vorgehaltenem Kreuz bekundet Laurentius seine Abkehr vom heidnischen Götzendienst, der durch das Jupiter-Standbild und die römischen Priester verkörpert wird. Der im Martyrium sieghafte christliche Glaube ist in der allegorischen Gestalt der Fides, bezeichnet durch Kreuz, Hostienkelch und Hl. Schrift, und in den Symbolen himmlischen Martyrerlohnes, Palmzweig und Lorbeerkranz, veranschaulicht. Das ebenfalls von Wink 1787 gemalte Hochaltarblatt zeigt das Martyrium des Laurentius.
+
+== B DIE BRUDERSCHAFT VOM HEILIGSTEN NAMEN JESU ==
+Das Thema des Bildes wird allgemein angegeben mit: »Stiftung der Bruderschaft vom heiligsten Namen Jesu«; dargestellt ist aber nicht die Stiftung durch Diego Victorio im 16. Jh. in Spanien, sondern die Bruderschaft von Königsdorf, wahrscheinlich deren Einsetzung im Jahr 1715. Mitglieder der Bruderschaft in roter Tracht halten das Bruderschaftszeichen IHS, das die Zeremonialstangen bekrönt. Der Pfarrer weist auf den in der Form einer eucharistischen Hostie im Himmel erscheinenden Namen Jesu, das kreuzbekrönte IHS mit dem Passionssymbol der drei Nägel. Laurentius als Patron der Kirche empfiehlt die Bruderschaft der Hl. Dreifaltigkeit. So sind auch die Inschriften in den Evangelienbüchern (in B3 und B4) wegen der Erwähnung des Namens Jesu als Anspielung auf die Bruderschaft zu sehen
+
+
+[[File:Band02_chunk005_p004_img002.jpg|thumb|Verurteilung des Laurentius, Ausschnitt aus A]]
+<!-- citation-page-bottom: Band02 p207 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=5 -->
+<!-- citation-page-top: Band02 p208 -->
+
+
+== KÖNIGSDORF ==
+
+
+
+[[File:Band02_chunk005_p005_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p005_img002.jpg|thumb|B4 Lukas]]
+
+
+
+[[File:Band02_chunk005_p005_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p005_img004.jpg|thumb]]
+
+
+
+== Literatur ==
+
+
+Genghamer, Joseph, Königsdorf. Oberbayerisches Archiv für Vaterländische Geschichte, Bd 30, 1870. Mayer-Westermayer, Bd 3, S. 438. KDR I OR (1) S 881 f
+
+Feulner, Adolf, Christian Wink, München 1912, S. 41, 54 Mindera, Karl, Benediktbeuern, München 1939, S. 38, 40 Dehio-Gall OB, S. 164
+
+Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.), München 1965, S. 180. Clementschitsch, Heide, Christian Wink, ungedr. Diss. Wien 1968, S. 133–36.
+
+Katalog Neuerwerbungen deutscher Malerei. Staatliche Kunstsammlungen Dresden, Gemäldegalerie Alte Meister Bearbeitung Harald Marx, Dresden 1974/75, Kat. Nr. 42 Abb. 15
+
+
+== LENGGRIES ==
+
+
+Pfarrkirche St. Jakob Kapelle Maria Hilf S. 214
+
+{{End}}

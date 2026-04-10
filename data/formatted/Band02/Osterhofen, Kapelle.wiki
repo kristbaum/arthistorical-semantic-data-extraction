@@ -1,0 +1,78 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=535
+|Originalseitenbis=536
+|Lemma=Osterhofen, Kapelle
+|Typ=Sakral
+|Ort=Osterhofen
+|davor=Neukirchen, Pfarrkirche St. Dionysius
+|danach=Osterwarngau, Frauenkirche Mariä Opferung
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle, Gemeinde und Pfarrei Bayrischzell, Erzdiözese München und Freising; z. Z. der Ausmalung war Bayrischzell Kuratie der Benediktinerpropstei Fischbachau, Hofmark Fischbachau, im Besitz der Benediktinerabtei Scheyern
+
+'''Zum Bauwerk:''' Die Kapelle wurde 1798 unter Kurat Adam Vötter (1794-1810) erbaut und erst 1890 benediziert. Inschrift über der Eingangstür im Innern: »Erbaut 1798/Renov. 1930 / M.L.« (= Maximilian Löweneck in Osterhofen, der die Finanzierung für die Renovierungen 1930 bestritt). Grund- und Aufriß des Bauwerks sind dem der Friedhofskapelle in Bayrischzell verwandt.
+
+Kleiner zweijochiger Rechteckraum (4,90 × 4,40 m) mit dreiseitig geschlossener Altarnische; Pilastergliederung. Die Kapelle ist gleichmäßig von N, S und O beleuchtet.
+
+Autor und Entstehungszeit: Die Angabe M. Meindls (1924, S. 29; 1963, S. 66 f.), die Deckenbilder stammten wie die signierten der Kapelle in Bayrischzell von Johann Baptist Pöheim (* 1752 Westerndorf † 1838 Aibling), bestätigt ein Vergleich beider Decken. Bild B in Osterhofen, formal eine vereinfachte Wiederholung von Bild A in Bayrischzell, zeigt weitgehende stilistische und motivische Übereinstimmungen. Beiden Decken gemeinsam ist auch die Maltechnik in Secco. Zu Pöheim s. Bayrischzell, S. 460. – Die Entstehungszeit ist im Erbauungsjahr – 1798 – anzunehmen.
+
+
+== <b>Befund</b> ==
+
+
+Träger der Deckenmalerei: A und B Flachtonne Rahmen: imitierte glatte Leisten Technik: Secco, polychrom Maße: A Höhe 4,00 m; 1,50 × 1,80 B Höhe 4,00 m; 1,50 × 1,80
+
+Erhaltungszustand und Restaurierungen: 1890 und 1930 fanden Restaurierungen in der Kapelle statt. Die Deckenbilder sind dem schlechten baulichen Zustand der Kapelle entsprechend, vor allem aufgrund des morschen Dachstuhls, von Rissen durchzogen und durch Feuchtigkeitseinwirkung beschädigt. In A und B Schimmelstellen am linken Bildrand und viele kleine Farbabschürfungen; deutlich sichtbare, grobe Übermalungen.
+
+
+[[File:Band02_chunk011_p018_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p018_img002.jpg|thumb|A Sichelwunder der Notburg]]
+
+
+== Beschreibung und Ikonographie ==
+
+
+An der durch Gurtbogen unterteilten Flachtonne befinden sich zwei rechteckige, breitformatige Bilder. Es sind derbe volkstümliche Darstellungen in der Art von Votivtafeln, die hier an die Decke gemalt sind. Die räumliche Situation ist dabei weder durch die Rahmung noch durch die Bildanlage berücksichtigt, Untersichtsperspektive fehlt völlig (Aufnahmestandort jeweils unterhalb des westlichen Bildrandes).
+
+A SICHELWUNDER DER NOTBURGA In einer Voralpenlandschaft, die die Umgebung Osterhofens am Wendelsteingebirge darstellen soll, wird Notburga von ihrem Dienstherrn zur Rede gestellt, weil sie sich, dem Angelusläuten folgend, auf den Weg zur Kirche macht, anstatt bei der Feldarbeit zu bleiben. Als Erwiderung hat Notburga ihre Sichel in die Luft gehängt, wo diese freischwebend verharrt und den Herrn sein Unrecht erkennen läßt (AASS Sept., Tom. 4, 14. 9., S. 720 f., LCI, Bd 8, Sp. 73). Durch zwei Knechte beim Kornschneiden links im Bild und die Kirchgänger rechts wird das legendäre Geschehen in die bayerische Gegenwart von 1798 verlegt. Die beiden Hauptfiguren – auch sie in zeitgenössischer Tracht – sind durch ihre Größe hervorgehoben.
+
+B ENTSTEHUNGSGESCHICHTE DER KAPELLE Ein Schiff segelt unter dem Zeichen Jesu und Mariens (auf dem Segel die Monogramme IHS und MARIA ligiert) auf bewegten Wellen. Das Schiff trägt eine Schar von Bauern, die Männer halten Spaten und Pickel geschultert, die
+<!-- citation-page-bottom: Band02 p535 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=19 -->
+<!-- citation-page-top: Band02 p536 -->
+
+<!-- header: OSTERHOFEN -->
+
+
+[[File:Band02_chunk011_p019_img001.jpg|thumb|B Entstehungsgeschichte der Kapelle]]
+
+
+Frauen spenden Geld in einen zur Sammlung dargereichten Hut. Links am Ufer ein festungsähnlicher Bau auf einem Fels.
+
+Nach Meindl (1963, S. 66 f.) hatte der Köhler Eyrainer von Osterhofen Sammlungen für den Bau einer Kapelle veranstaltet, bei denen sich Magdalena Widmesser, Wirtstochter von Osterhofen, durch großzügige Spenden auszeichnete. Diese beiden Personen sind links am Bug des Schiffes dargestellt, dahinter die Bauern von Osterhofen, die zwischen Frühjahr und Sommer 1798 den Kapellenbau eigenhändig aufführten. Das Motiv der Gemeinde im Schiff (= Kirche Christi) ist von der Darstellung in der Seelenkapelle in Bayrischzell übernommen; es gibt hier jedoch nur noch die Szenerie für eine lokalhistorische Gründungsszene ab: die Sammlung in der bäuerlichen Gemeinde für einen eigenen Kapellenbau. Der symbolische Gehalt des Schiffsbildes ist kaum mehr relevant
+
+
+== Literatur ==
+
+
+Wayer-Westermayer, Bu 2, S. 31. Meindl, Michael, Führer von Bayrischzell und Umgebung, München 1924, S. 29. Meindl, Michael, Bayrischzell, Bayrischzell 1963, S. 66 f.
+
+
+== OSTERWARNGAU ==
+
+
+Frauenkirche Manhartskapelle S. 541
+
+{{End}}

@@ -1,0 +1,86 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=509
+|Originalseitenbis=510
+|Lemma=Grund, Kapelle zum Grundnerhof gehörig
+|Typ=Sakral
+|Ort=Grund
+|davor=Gotzing, Filialkirche St. Jakobus Major
+|danach=Hagnberg, Kapelle
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle zum Grundnerhof gehörig, Gemeinde Gmund Pfarrei Miesbach, Erzdiözese München und Freising
+
+'''Zum Bauwerk:''' Die kleine Kapelle in der Nähe des Grundnerhofes wurde wohl um die Mitte des 18. Jh. erbaut. – Saal auf quadratischem Grundriß mit Pilasteranordnung, Altarnische mit segmentförmigem Schluß (Kapelleninnenraum 3,30 × 2,00 m)
+
+'''Autor und Entstehungszeit:''' Der Autor ist unbekannt; die Bilder dürften der Mitte des 18. Jh. zuzuweisen sein
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Kreuzgratgewölbe, im Bereich des Bildfeldes sind die Grate verschliffen, B gedrückte Tonne mit Stichkappen
+
+Rahmen: A, A<sub>1-2</sub>, B, B<sub>1-2</sub> Stuckprofil
+
+Technik: Secco; polychrom
+
+Maße: A Höhe 2,90 m; 1,10 × 0,80
+
+B Höhe 2,75 m; 0,55 × 0,50
+
+Erhaltungszustand und Restaurierungen: Folgende Restaurierungsdaten sind in einer Inschriftkartusche am Chorbogen verzeichnet: 1872, 1932, 1949. – In A gekittete Längsrisse, Abblätterungen. A2 und B2 sind zerstört. In den Bildern B, A1 und B1 ist die Farbsubstanz nur noch zum Teil erhalten (A2, B2 keine Abbildungen)
+
+
+== Beschreibung und Ikonographie ==
+
+
+Wie beim Bau der kleinen Kapelle Anspruch und Formen der ›großen‹ Architektur nachgeahmt wurden, so wurde auch in Form und Anordnung der kleinen Deckenbilder »große« Deckenmalerei nachgeahmt. Die Mittelbilder A und B sind jeweils von zwei kartuschförmigen Seitenbildern begleitet (A<sub>1-2</sub> und B<sub>1-2</sub>). Der einheitliche Ockerton des Bildgrundes und die Graubraun-, Ocker- und Braunrosawerte in den Bildgegenständen lassen die Bilder fast monochrom wirken. Die anspruchsvolle Bildkomposition von A folgt offenbar einer Kupferstichvorlage. Bei der
+
+
+[[File:Band02_chunk011_p005_img001.jpg|thumb|Heiligenhimmel]]
+
+
+
+[[File:Band02_chunk011_p005_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p005_img003.jpg|thumb|A Anbetung der Hirter]]
+<!-- citation-page-bottom: Band02 p509 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=6 -->
+<!-- citation-page-top: Band02 p510 -->
+
+<!-- header: GRUNI -->
+
+
+[[File:Band02_chunk011_p006_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p006_img002.jpg|thumb]]
+
+
+terrestrischen Szenerie wurde auf Untersicht und Verkürzungen verzichtet, bei der Himmelsdarstellung versuchte der Maler eine illusionistische Glorienöffnung zu geben mit Engeln um die lichte Mitte und dunklen Wolken als Repoussoir am oberen Bildrand.
+
+A ANBETUNG DER HIRTEN Im Schriftband, das Engel oberhalb der Stallarchitektur tragen, ist der Anfang der Bibelstelle Lc 2,14 zu erkennen: GLORIA (in excelsis Deo)
+
+
+== B<sub>1</sub> CHRISTI HIMMELFAHRT (Act 1,9–11) ==
+
+
+B<sub>2</sub> MARIA HIMMELFAHRT (fast völlig zerstört) In der oberen Bildhälfte sind die Umrisse einer weiblichen Figur (der Assunta?) und zweier anbetender Engel zu ihren Seiten zu erkennen (keine Abbildung)
+
+
+== HAGNBERG ==
+
+
+{{End}}

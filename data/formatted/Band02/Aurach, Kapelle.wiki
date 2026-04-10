@@ -1,0 +1,67 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=454
+|Originalseitenbis=454
+|Lemma=Aurach, Kapelle
+|Typ=Sakral
+|Ort=Aurach
+|davor=Allgau bei Piesenkam, Kapelle St. Gregor der Große
+|danach=Bayrischzell, Pfarrkirche St. Margareta
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p454 -->
+
+== AURACH ==
+
+
+Kapelle, Gemeinde und Pfarrei Fischbachau, Erzdiözese München und Freising; z. Z. der Ausmalung Klosterhofmark Fischbachau
+
+'''Zum Bauwerk:''' Bau 18. Jh.; Raum (5,40 × 3,30 m) zu zwei Jochen mit dreiseitiger Altarnische. Nach SW gerichtet
+
+'''Autor und Entstehungszeit:''' Als Autor kommt in Frage Johann Baptist Pöheim (* 1752 Westerndorf † 1838 Aibling), der Maler der benachbarten Kapellen in der ehem. Klosterhofmark Fischbachau, Hagnberg (S. 511 f.), Osterhofen (S. 535f.) und Bayrischzell (S. 460–62). Das Deckenbild stimmt stilistisch mit den Deckenbildern Pöheims (um 1785) überein.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Tonne  
+Maße: Höhe 3,60 m; 1,50 × 1,50  
+
+Rahmen: Die Darstellung ist ohne Rahmung zwischen zwei gemalten, ornamentierten Gurtbogen angebracht  
+
+Technik: Secco; polychrom  
+
+Erhaltungszustand: Zahlreiche Risse, Feuchtigkeitsstellen, Verschmutzungen. Abblätterungen: schlechter Zustand
+
+
+== Beschreibung ==
+
+
+GOTTVATER Im Zentrum des Gewölbes ist in einem Wolkenring Gottvater wiedergegeben, hinterfangen von einer Strahlengloriole. Ein Putto hält die Weltkugel. Das Gewand Gottvaters ist in Blau und Gelb gehalten, in Grün das des Puttos.
+
+
+== Literatui ==
+
+
+Brunhuber, Josef, Chronik des oberen Leitzachtales, Birkenstein 1928
+
+
+[[File:Band02_chunk010_p003_img001.jpg|thumb]]
+
+
+ottvater
+
+
+== BAYRISCHZELL ==
+
+
+Pfarrkirche Seelen- und Wallfahrtskapelle S. 460  
+
+{{End}}

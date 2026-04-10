@@ -1,0 +1,39 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=157
+|Originalseitenbis=157
+|Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, Psallierkirche
+|Typ=Sakral
+|Ort=Dietramszell
+|davor=Dietramszell, ehem. Augustiner-Chorherrenstift, Pfarrkirche
+|danach=Dietramszell, ehem. Augustiner-Chorherrenstift, ehem. Pfarrkirche
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+'''Auftraggeber:''' Propst Dietram II. Hiepper von Dietramszell (1728–54)
+
+'''Zum Bauwerk:''' Der Psallierchor wurde zusammen mit der Stiftskirche ab 1729 erbaut; Inschrift am W-Bogen: 1729 AEDIFICATUM / 1741 EXORNATUM / 1746 CONSECRA- TUM. Saalraum im ersten Stock hinter dem Hochaltar in der Achse des Kirchenbaues. Pilastergliederung, gerader Schluß. An der N- und S-Seite je zwei Fenster, an der W- Seite seitlich Treppen zur N- und S-Empore der Stiftskirche. Nach W gerichtet (Planskizze S. 149)
+
+Autor und Entstehungszeit: Die Stuckierung und Ausmalung des Psallierchors erfolgte 1741 zusammen mit der Ausstattung der Stiftskirche, die von Johann Baptist Zimmermann besorgt wurde. Das Deckenbild im Psallierchor fällt qualitativ gegenüber eigenhändigen Werken Zimmermanns ab und ist seiner Werkstatt zuzurechnen (s. S. 148)
+
+== <b>Befund</b> ==
+
+Träger der Deckenmalerei: Stichkappentonne Rahmen: innen ein gemaltes, breites, ornamentiertes Rahmenprofil, außen Stuckprofil, nördlich und südlich von den
+
+Stuckkartuschen übergriffen Technik: Fresko; polychrom Maße: Höhe 8,50 m; 4,00 × 4,30 Erhaltungszustand: gut, schwacher Riß im Scheitel
+
+== Beschreibung und Ikonographie ==
+
+DAVID PSALLENS Auf Wolken kniet König David vor einem Thronsitz und schlägt die Harfe. Links zur Seite ein aufgeschlagenes Notenheft und ein Engel, der ein Räuchergefäß, das Symbol der Anbetung, emporhebt. Die Figuren sind in mäßiger Untersicht gegeben (Aufnahmestandort unter dem westlichen Bildrand). Die Wolken sind großflächig, in blaß-hellen Mischwerten von Violettrosa, Ocker und Grauweiß vor den blauen Himmelsgrund gesetzt. Die Figuren sind in helleren und klareren Farbwerten gegeben. König David ist durch Violettrosa und Karmin in Kontrast zu Gelbweiß und Weiß- oder Graugrün hervorgehoben. Die verschatteten Farben des Throns – Graugrün und Goldbraun – verbinden sich mit dem Goldbraun des breiten gemalten Ornamentrahmens.
+
+Die Stuckkartuschen enthalten als Inschrift Zitate aus den Psalmen, als deren Autor König David angesehen wurde, nördlich: CANTATE / DEO / PSALLITE / DOMINO / psal: 67. V. 33, südlich: PSALMUM / DICITUS / NOMINI EIUS / psal: 65. V. 2
+<!-- citation-page-bottom: Band02 p157 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=5 -->
+{{End}}

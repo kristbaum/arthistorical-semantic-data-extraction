@@ -1,0 +1,161 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=234
+|Originalseitenbis=238
+|Lemma=St. Leonhard, Wallfahrtskirche St. Leonhard
+|Typ=Sakral
+|Ort=St. Leonhard
+|davor=Sachsenkam, Pfarrkirche St. Andreas
+|danach=Schlehdorf, ehem. Augustinerchorherrenstift, Stiftskirche
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p234 -->
+
+<!-- header: ST. LEONHARD -->
+
+
+== ST. LEONHARD ==
+
+
+Wallfahrtskirche, Gemeinde und Pfarrei Dietramszell, Erzdiözese München und Freising; z. Z. der Ausmalung dem Augustinerchorherrenstift Dietramszell zugehörig
+
+
+'''Patrozinium:''' St. Leonhard
+
+
+'''Zum Bauwerk:''' An Stelle einer 1686 entstandenen, baufällig gewordenen Leonhardskapelle ab 1764 Neubau durch Leonhard Matthias Gießl; Weihe 1774. – Zentralraum über annähernd quadratischem Grundriß mit im O und W angeschobenen Ovalräumen; im N und S schließen sich an den Hauptraum flache Seitenarme mit Quertonnen an. Gleichmäßige Beleuchtung in allen Raumteilen von N und S durch große Segmentbogenfenster; Pilastergliederung; im W Empore. Turm und zweigeschossiges Klausnerhaus schließen an der O-Seite der Kirche an.
+
+'''Auftraggeber:''' Propst Franz Kamm (1754–69) und dessen Nachfolger Propst Leonhard Schwab (1769–77) von Dietramszell
+
+'''Autor und Entstehungszeit:''' Signatur mit Chronogramm am Hauptfresko B an der Brüstung im NW ChrIstIanVs / WInCkh / MahLte / DIses. (= 1769; Christian Thomas Wink * 1738 Eichstätt † 1797 München). Zu B existiert eine Skizze von Wink in den Städtischen Kunstsammlungen Augsburg, Öl auf Leinwand, 43,5 × 41 cm, Inv. Nr. 3787
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Halbkuppel mit Stichkappen B, B<sub>1-4</sub> flache Pendentifkuppel, C Halbkuppel mit Stichkappen
+
+Rahmen: A, B, C Stuckprofil, von Rocailleornamenten überschnitten; B<sub>1-4</sub> Rocailleornament-Kartuschen Technik: Fresko; A, B, C polychrom, B1-4 monochrom
+
+Maße: A Höhe (von der Empore) 6,05 m; 2,40 × 3,10 B Höhe 13,50 m (Stich 3,60); 8,80 × 8,80 C Höhe 10,10 m; 2,40 × 3,10
+
+Erhaltungszustand und Restaurierungen: Bei der letzten Restaurierung 1965/66 durch Martha Heise, München wurden Übermalungen einer früheren Restaurierung mit Kremser Weiß, das in der Verbindung mit Kalkputz schwarz geworden war, abgenommen; Risse wurden geschlossen, Schadstellen eingestimmt. Der Zustand ist gut.
+
+Beschreibung und Ikonographie
+
+A ST. ISIDOR UND ST. WENDELIN Betrachterstandpunkt gegen W unterhalb des Hauptfreskos. In den querformatigen, ovalen Bildfeld über der Empore sind die beiden Bauernheiligen auf Wolken dargestellt. Links kniet der hl. Isidor von Madrid in bäuerlicher Kleidung mit ausgebreiteten Armen und nach oben gerichtetem Blick
+
+
+[[File:Band02_chunk005_p018_img001.jpg|thumb|Blick in das Gewölbe nach Westen: A die hll. Isidor und Wendelin, B Ausschnitt Westseite]]
+
+
+
+[[File:Band02_chunk005_p018_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p235 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=19 -->
+<!-- citation-page-top: Band02 p236 -->
+
+<!-- header: ST. LEONHARD -->
+
+== ST. LEONHARD ==
+Ein Engel hält sein Attribut, den Pflug. Wendelin trägt ebenfalls einfache Kleidung; er hat die Hände gefaltet und blickt zum Himmel. Seine Attribute, Hirtentasche und Hirtenstab, werden von einem Engel rechts neben ihm vorgewiesen.
+
+Das Gelblichgrau der Wolken ist durch ein zartes Violet verschattet, helles Ocker und weiß gehöhtes Karmin der Gewänder werden durch kleinere Partien von Graugrün und hellem Graublau aufgefrischt.
+
+
+[[File:Band02_chunk005_p019_img001.jpg|thumb]]
+
+
+== B ST. LEONHARD ALS PATRON ==
+Durch Ausweiten des Kuppelbildfeldes in die Pendentifs entsteht die Bildform eines sphärischen Quadrats. Wink verwendet hier erstmals das Bildschema einer umlaufenden terrestrischen Darstellung (vgl. Egling, CBD, Bd 1, S. 54). Der Betrachterstandpunkt liegt unterhalb der Bildmitte, zu der alle Fluchtlinien verlaufen. Da die Bodenzone, bis auf die geschwungene Brüstung im W, sehr reduziert ist, und sich die Szenen an der vordersten Rampe abspielen, entsteht wohl eine Höhenillusion, nicht aber räumliche Tiefe in der Landschaft; nur rechts und links der Brüstung tun sich kleine Tiefblicke in die Horizontale auf. Die Höhenillusion wird unterstützt durch die Untersicht, in der die Vordergrundsfiguren und vor allem im Himmel die Engel mit der Draperie gegeben sind.
+
+In der Bildmitte gehen von einem großen Dreiecksnimbus mit der davor erscheinenden Taube des Hl. Geistes helle Strahlenbündel aus; davor thronen Gottvater mit Zepter und Weltkugel und Christus mit dem Kreuz; die Gruppe der Dreifaltigkeit ist von Engeln und Putti umgeben. Auf einer Wolkenbank darunter kniet der hl. Leonhard mit ausgebreiteten Armen. Engel halten seine Attribute, den Abtstab und die Kette.
+
+In der umlaufenden Bodenzone sieht man am S-Rand der Kuppel zwischen Bäumen, Felsen und Baumstrünken im Hintergrund einen Pferdekarren mit Pilgern, davor Bauern mit Rindern, Pferden und Schafen; am N-Rand sind in einer Ruinenlandschaft mit Stufen, antikischem Mauerwerk, Säulenstümpfen und Bäumen Gefangene und Bittflehende dargestellt. Von rechts naht eine Prozession mit Vortragekreuz und Fahnen. Die gesamte W-Seite wird von der hohen geschwungenen Steinbrüstung eingenommen, über der zwei Engel und eine Gruppe von Putti eine schwere Stoffdraperie emporheben.
+
+Die Hauptansicht im O ist in der Bodenzone durch keine besondere Gruppe ausgezeichnet. Aus dem Hintergrund kommen Bauern. Eine kompositorisch wichtige Stelle in der Mitte des Vordergrunds nimmt ein Baumstrunk ein, der zu der quergelagerten Wolkenbank mit dem hl. Leonhard überleitet. Von da aus sind die Wolken in einer S-förmigen Bewegung über den weiten Himmel gezogen; diese Bewegung wird von der Draperie an der W-Seite aufgenommen und fortgesetzt. Die Dreifaltigkeitsgruppe und die Leonhardsgruppe sind vor diesen bewegten Wolken fast parallel breit hingelagert.
+
+Das Fresko, aus Winks frühester Schaffensperiode, kann als eines seiner Hauptwerke angesehen werden, in dem ein monumentales Thema mit volkstümlichen Motiven gestaltet ist. Gegenüber dem Entwurf, in dem Repoussoir-Figuren einansichtig um die große Zentralgruppe der Dreifaltigkeit und des Heiligen angeordnet sind, paßt sich das ausgeführte Fresko dem Zentralraum an, indem die Schilderung der terrestrischen Szenerie rund um die Kuppel an Anschaulichkeit gewinnt. Dabei gibt die detailreiche Darstellung volkstümlicher Szenen aus der ländlichen Nachbarschaft dem Bild eine neue Dimension der Verstehbarkeit. Der Eindruck der bukolischen Einfachheit wird verstärkt durch die lichte Farbgebung der Deckenmalerei, die einen himmlischen Freiraum illusionieren kann und zugleich in (farblicher) Beziehung zur übrigen Ausstattung des Kirchenraums durch Stuck und Altäre steht. Trotz der Ergänzungen in den beschädigten Bildpartien läßt sich ein allgemeiner Zusammenklang der Farbigkeit feststellen: Ein helles Goldgelb, vom Bildzentrum ausgehend, überspielt die Wolkenzüge und wird von den kräftig ockerfarbenen Pendentif-Kartuschen aufgenommen. Die Grünwerte mit bläulichen und grauen Beimischungen in den Landschaftsdarstellungen kehren im Rocaille-Stuck wieder. Rosige Werte in Himmelspartien, die bis ins Violett spielen, kräftiger an den Architekturteilen des Bildes auftretend, finden ihre Entsprechung in dem Altrosa der Stichkappen und Pendentifs sowie der Marmorfassung der Altäre. Die nördliche Szene des Hauptfreskos mit Bauern und Vieh ist in kühleren Farben mit vielen gebrochenen Weißtönen gehalten, im S und W treten wärmere und kräftigere Farben auf, wie das Karmin- bis Violettrot der Gewänder und der großen Draperie. Bräunliche Zwischenwerte und Weißmischungen bis hin zum reinen Weiß geben dem gesamten Fresko eine sehr differenzierte Farbigkeit, in der gelegentlich auftretende Buntkontraste durch die Einbettung in die farbliche Grundstimmung aufgelöst werden. Inschriftkartuschen im O und W, östlich SOLI / DEO / GLORIA, westlich MDCCLXX
+
+
+[[File:Band02_chunk005_p019_img002.jpg|thumb|Patron St. Leonhard]]
+<!-- citation-page-bottom: Band02 p237 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=20 -->
+<!-- citation-page-top: Band02 p238 -->
+
+<!-- header: ST. LEONHARD -->
+
+
+[[File:Band02_chunk005_p020_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p020_img002.jpg|thumb|B<sub>4</sub> Spes]]
+
+
+
+[[File:Band02_chunk005_p020_img003.jpg|thumb]]
+
+
+B1-4 CHRISTLICHE TUGENDEN In den Kartuschenfeldern an den Pendentifs der zentralen Kuppel sind die drei theologischen Tugenden und die Kardinaltugend Fortitudo als weibliche Personifikationen mit Attributen dargestellt
+
+B1 Fides-Ecclesia mit Kreuz, Hostienkelch und Kirchenmodell in der Strahlenglorie
+
+B<sub>2</sub> Caritas mit einem brennenden Herzen
+
+B<sub>3</sub> Fortitudo im Harnisch mit Säulenstumpf
+
+B4 Spes mit Anker und Zweig
+
+
+[[File:Band02_chunk005_p020_img004.jpg|thumb]]
+
+
+C DIE WETTERHEILIGEN JOHANNES UND PAULUS In dem querovalen Bildfeld über dem Hochaltar sind in Wolken die beiden Martyrer Johannes und Paulus
+
+als römische Soldaten dargestellt. Palmzweige und Schwerter sind Hinweise auf ihr Martyrium; ein Putto links hält die Fasces, ein weiterer, der über der Gruppe schwebt, die Kordel der Altarampel.
+
+Die Wetterheiligen Johannes und Paulus wurden vor allem im bäuerlichen Bereich um Regen und gegen Gewitter angefleht. Ihre Darstellung vervollständigt das Programm einer ländlichen Wallfahrt zusammen mit den Bauernheiligen Isidor von Madrid und Wendelin, der Patron des Viehs ist, ebenso wie Leonhard von Noblac, dem die Wallfahrt gewidmet ist, und der im Hauptfresko nicht nur als Fürbitter und Vermittler in bäuerlichen Angelegenheiten, sondern auch als Patron der Gefangenen gezeigt wird (zur Bauernikonologie vgl. Beuerberg, Marienkirche, S. 141 ff.).
+
+
+== Literatur ==
+
+
+Augsburger Kunstzeitung 1772, S. 104.
+
+Churbaierisches Intelligenzblatt 1797, Nekrolog auf Christian Wink, S. 227.
+
+KDB I OB (1), S. 885 f.
+
+Feulner, Adolf, Christian Wink, München 1912, S. 23.
+
+Tintelnot, Hans, Die barocke Freskomalerei in Deutschland, München 1951, S. 135.
+
+Woeckel, Gerhardt, Der bayerische Rokokobildhauer Philipp Jakob Rämpl (1728–1809), in: Das Münster 9, 1956, S. 315 f.
+
+Hartig, Michael, Dietramszell (= KKF, Nr. 682), München 1958.
+
+Clementschitsch, Heide, Christian Wink, ungedr. Diss. Wien 1968, S. 46 f.
+
+Katalog der Städtischen Kunstsammlungen Augsburg, Bd 2, Barockgalerie, bearbeitet von Eckhard von Knorre, Augsburg 1970, S. 203.
+
+
+== SCHLEHDORF ==
+
+
+Ehem. Augustinerchorherrenstift, ietzt Kloster der Missionsdominikanerinnen, Erzdiözese München und Freising, Verwaltungsgemeinschaft Kochel am See
+
+Stiftskirche, jetzt Pfarrkirche Psallierchor S. 246 Klosterbibliothek S. 248 ehem. Refektorium S. 252
+
+Friedhofskirche S. 253
+
+{{End}}

@@ -1,0 +1,71 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=96
+|Originalseitenbis=96
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Zelle
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer
+|danach=Benediktbeuern, ehem. Benediktinerabtei, Verbindungsgang
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p96 -->
+
+
+Ehem. Zelle im Osttrakt des Konventbaues, z. Z. Büroraum
+
+'''Zum Bauwerk:''' Der Osttrakt des Konventbaues wurde 1671 durch Caspar Feichtmayr vollendet. Die Zelle liegt im zweiten Obergeschoß.
+
+Quadratischer Raum (5,00 × 5,00 m) mit einem Fenster nach O
+
+'''Autor und Entstehungszeit:''' Anläßlich der Freilegung der Deckenbilder brachte der Restaurator folgende Inschrift an:
+
+Fr. Lucas Zais pinxit ca. annum 1720 – Andreas Bauer detexit anno 1948. Es ist ungewiß, ob er dabei auf eine originale (ruinierte?) Signatur oder auf eine archivalische Nachricht zurückgriff. (Zu Lucas Zais siehe S. 94 und 261)
+
+
+[[File:Band02_chunk002_p024_img001.jpg|thumb]]
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke über Hohlkehle Rahmen: Stuckprofil
+
+Technik: Fresko mit Seccoübermalungen; polychrom Maße: A 1,50 × 1,50 m
+
+Erhaltungszustand und Restaurierungen: Die Deckenbilder wurden 1948 durch Andreas Bauer, Weilheim, freigelegt und weitgehend erneuert; kaum mehr barocke Substanz (keine Abbildungen)
+
+
+== Bildabfolge ==
+
+
+Die Deckenbilder sind in der Blickrichtung nach W zu betrachten.
+
+A Das Mittelfeld zeigt den Namen Jesu IHS mit brennendem dornenumwundenen Herz. Aus den Flammen ragt das Kreuz, darunter drei Nägel
+
+A<sub>1-4</sub> In den Medaillons der Ecken sind die durchbohrten Hände (A<sub>3-4</sub>) und Füße (A<sub>1-2</sub>) Christi dargestellt.
+
+Die Darstellung der Fünf Wunden Jesu wird außerhalb der Bildfelder begleitet von vorwiegend ornamentaler Malerei, Gefäßen mit Pflanzen, auf deren Zweigen Vögel sitzen, und doppelten Wasserstrahlen, die Muscheln entspringen und auf denen Fische emporgetragen werden. Es handelt sich hier vielleicht um Erinnerungen an altchristliche Paradieses- und Christussymbolik. In der Hohlkehle vier Tierdarstellungen (Eichkatze, Rebhühner?, Fuchs?)
+
+Literatur siehe S. 133
+
+
+== A Das Mittelfeld ==
+
+
+Die Deckenbilder sind in der Blickrichtung nach W zu betrachten.
+
+A Das Mittelfeld zeigt den Namen Jesu IHS mit brennendem dornenumwundenen Herz. Aus den Flammen ragt das Kreuz, darunter drei Nägel
+
+A<sub>1-4</sub> In den Medaillons der Ecken sind die durchbohrten Hände (A<sub>3-4</sub>) und Füße (A<sub>1-2</sub>) Christi dargestellt.
+
+Die Darstellung der Fünf Wunden Jesu wird außerhalb der Bildfelder begleitet von vorwiegend ornamentaler Malerei, Gefäßen mit Pflanzen, auf deren Zweigen Vögel sitzen, und doppelten Wasserstrahlen, die Muscheln entspringen und auf denen Fische emporgetragen werden. Es handelt sich hier vielleicht um Erinnerungen an altchristliche Paradieses- und Christussymbolik. In der Hohlkehle vier Tierdarstellungen (Eichkatze, Rebhühner?, Fuchs?)
+
+{{End}}

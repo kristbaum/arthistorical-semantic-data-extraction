@@ -1,0 +1,273 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=613
+|Originalseitenbis=623
+|Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche
+|Typ=Sakral
+|Ort=Weyarn
+|davor=Westenhofen, Filialkirche St. Martin
+|danach=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Ehem. Stiftskirche, jetzt Pfarrkirch
+
+'''Patrozinium:''' St. Peter und Paul
+
+'''Zum Bauwerk:''' Propst Gelasius Harlass von Weyarn ließ 1687–93 anstelle der alten gotischen Stiftskirche durch den Graubündner Architekten Lorenzo Sciasca einen Neubau errichten; Weihe 1693. Die Innenausstattung mit Stuck und Fresken erfolgte 1729 durch Johann Baptist Zimmermann im Hinblick auf die 600-Jahrfeier im Jahre 1733. LHs zu vier Jochen mit schlanken, tiefen Wandpfeilern, im W Orgelempore; eingezogener Chor zu zwei Jochen mit halbrunder Apsis. Pilastergliederung. Der Raum und die Gewölbezone sind gut belichtet, im LHs durch Hochfenster auf der S-Seite mit darüberliegenden Ochsenaugen und
+
+durch drei Ochsenaugen in den westlichen Jochen auf der N-Seite. Der AR hat vier Hochfenster und Ochsenaugen in der östlichen Raumhälfte
+
+'''Auftraggeber:''' Propst Praesidius Held von Weyarn (1697–1731), dessen Wappen sich mit dem des Erbauers Propst Gelasius Harlass (1675–97) am Chorbogen befindet
+
+'''Autor und Entstehungszeit:''' Signatur in C Zimmermann / pinxit. 1729 (Johann Baptist Zimmermann * 1680 Gaispoint bei Wessobrunn † 1758 München). Die Weyarner Fresken, die bislang meistens im Ganzen als Werk Johann Baptist Zimmermanns galten, sind sicher zum Teil Arbeiten von Gehilfen, wie schon Ursula Röhlig erkannt hat (S. 58–59).
+
+
+[[File:Band02_chunk013_p007_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p613 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=8 -->
+<!-- citation-page-top: Band02 p614 -->
+
+[[File:Band02_chunk013_p008_img001.jpg|thumb|C Augustinus sucht die Dreifaltigkeit zu ergründen]]
+
+Dabei handelt es sich vor allem um die acht Seitenfresken 1–8, wenig qualitätvolle Arbeiten, die zwar allgemeine Charakteristika der Zimmermannwerkstatt zeigen, aber im Aufbau, in der Farbigkeit und im Detail gegen die Hauptfresken stark abfallen. Von den sechs Hauptfresken muß man wohl A und C als eigenhändige Werke erster Qualität ansprechen. Bei den anderen finden sich Partien, die von Mitarbeitern stammen müssen; eine charakteristische Eigenart der Zimmermannwerkstatt ist die enge Zusammenarbeit auch innerhalb eines Bildes und die weitgehende Anonymität der Mitarbeiter.
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs (A–D) und AR (E–F, E<sub>1-2</sub> F<sub>1-2</sub>) Stichkappentonne mit Querteilung durch Gurte, 1–8 Quertonnen
+
+Rahmen: A, B, C, D Stuckprofilrahmen, an den Seiten von Bandwerkornamenten angeschnitten; E und F Stuckprofilrahmen, die an den Bildschmalseiten von stark plastischer Stuckdekoration abgeschnitten werden: dort übernehmen geschwungene Gesimse und darauf liegende Putti die Rahmenfunktion; E<sub>1-2</sub> und F<sub>1-2</sub> Stuckprofil und Ornamentstuck, 1–8 Stuckprofilrahmen
+
+Technik: Fresko; A–F, 1–8 polychrom, E<sub>1–2</sub> und F<sub>1–2</sub> Grisaillen
+
+Maße: A Höhe 15,00 m; 4,25 × 6,60  
+B Höhe 15,00 m; 4,50 × 6,60  
+C Höhe 15,00 m; 4,50 × 6,60  
+D Höhe 15,00 m; 4,50 × 6,60  
+E Höhe 13,50 m; 4,00 × 5,90  
+F Höhe 13,50 m; 4,00 × 5,90  
+1–8 Höhe 13,00 m; 1,40 × 2,60  
+
+Erhaltungszustand und Restaurierungen: Die Fresken wurden 1976 durch Hans Heinrich Müller-Werther, Ebersberg, erstmals restauriert. Durch die Zerstörung des Kirchendachs während eines Unwetters waren an allen Fresken Wasserschäden entstanden, am meisten in E. An diesen Stellen wurden der Putz gefestigt und die Schäden behoben. Außerdem wurden die Fresken gereinigt. Die Farbsubstanz ist sehr gut erhalten. W2 an der N-Wand des westlichen Querjochs wurde neu gemalt. (Die Fresken 1–8 wurden vor der Restaurierung von 1976 aufgenommen, A–F, E<sub>1-2</sub>, F<sub>1-2</sub>, W<sub>1-3</sub> zeigen den Zustand nach der Restaurierung.)
+
+== Beschreibung ==
+
+Weyarn ist das letzte Werk Zimmermanns, das in der Dekoration die Jochteilung beibehält. Die Deckenbilder, in Form und Größe jeweils auf das einzelne Gewölbejoch bezogen, sind auch in ikonographischer Hinsicht gleichwichtig gereiht. In Beyharting (OB, LKr. Rosenheim), ein Jahr später, faßt Zimmermann zwei Joche für das Hauptfresko zusammen.
+
+Diesen Schritt taten, in der Nachfolge der römischen barocken Deckenmalerei, in Bayern z. B. Cosmas Damian Asam und in Österreich Michael Rottmayr erheblich früher (Ernst Guldan, Die jochverschleifende Gewölbedekoration von Michelangelo bis Pozzo und in der bayerisch-österreichischen Sakralarchitektur, Göttingen 1954). Die künstlerische Herkunft Zimmermanns ist anders: er kam aus der Wessobrunner Stukkatorenschule, wo das Deckenbild neben figural-ornamentalem Stuck gleichgewichtiger Bestandteil des Dekorationssystems war. Erst im Laufe des dritten Jahrzehnts des 18. Jh. gelangte Zimmermann in einer eigenständigen und von den besonderen Möglichkeiten dieses Dekorationssystems ausgehenden Entwicklung zum Bild, das den Großteil der Decke einnimmt. Damit verbunden sind neue ikonologische Möglichkeiten (vgl. Dietramszell, S. 149–51, 153–56).
+
+In Weyarn tritt der Stuck in der Bedeutung für die Gesamtdekoration bereits zurück. Seine gegenständlichen Bestandteile, Vasen, Pflanzen, Gitter, Lauben, Architekturteile, Hermen, Draperien und Springbrunnen sind in das Deckenbild eingegangen (vgl. Benediktbeuern, Bibliothek, S. 124–31) und bilden hier einen den Prinzipien des Pozzo-Illusionismus widersprechenden, für Zimmermann typischen Bildschauplatz. Daraus erklärt sich der besondere räumliche Charakter der Bilder: Ornamentale Versatzstücke binden das Bild an die Fläche; ihr Verhältnis zum Bildgrund ist ornamental ähnlich dem Stuck in seinem Verhältnis zur Decke.
+
+In der farbigen Gestaltung der Gewölbezone zeigt sich eine verwandte Grundhaltung bei stuckiertem Ornament und gemaltem Bild. Die Stuckzone ist in verschiedenen zarten Farbtönen gegeben, eingebettet in lichte, kaum materiell wirkende Weißflächen des Gewölbes. Analog dazu heben sich im Deckenbild die buntfarbigen Figuren von einem zartfarbigen, vor allem aber lichten Grund ab.
+
+Jeweils die vier LHs-Fresken A–D wie auch die beiden Chorfresken E und F haben die gleiche Größe, Form und Stuckrahmung. Die querformatigen Bilder A–D sind an den Breitseiten geradlinig und an den Schmalseiten durch ausschwingende Bogenabschnitte und in das Bildfeld hineinspielendes Bandwerk begrenzt. Der Bildumriß bei E und F ist bewegter, das bewirken die Rahmeneinbuchtungen an den Breitseiten und die plastischen Giebelstücke mit den Putti darauf an den Schmalseiten.
+
+Die einansichtigen Darstellungen A–F haben wenig Untersichtsverkürzungen; eine perspektivische Konstruktion ist
+<!-- citation-page-bottom: Band02 p615 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=9 -->
+<!-- citation-page-top: Band02 p616 -->
+
+<!-- header: WEYARN -->
+
+
+[[File:Band02_chunk013_p009_img001.jpg|thumb]]
+
+
+nur an den einzelnen architektonischen Versatzstücken zu beobachten, am meisten bei dem architektonischen Schauplatz in Fresko B. Der photographische Aufnahmestandpunkt liegt jeweils unterhalb des nach W (für A nach O) angrenzenden Deckenbildes.
+
+A TOLLE LEGE Augustinus als Jüngling sitzt auf einer kleinen Bodenerhebung unter einem Baum. Ein Buch liegt vor ihm am Boden. Er blickt zum Himmel, von dem in Strahlenform eine Schrift ausgeht: <i>TOLLE</i>, <i>LEGE</i>. Ein Bogenspalier, antikische Steinvasen, Hermen und ein Springbrunnen im Hintergrund bilden den Schauplatz des Geschehens. 
+
+Auffallend ist an dieser Darstellung die Reduzierung des historischen Ereignisses auf die lyrische Schilderung eines schönen Gartens mit dem darin weilenden Jüngling, der in der Lektüre innehält. Die antikischen Gartenmotive alludieren den historischen Schauplatz: den Garten des Alypius. Der Feigenbaum, unter dem die Szene spielt, und der in den Confessiones die einzige konkrete Angabe ist, wird von Zimmermann nicht textgetreu wiedergegeben, sondern durch einen beliebigen Baum dargestellt. Der Anruf Gottes ist nicht bildlich – etwa durch eine himmlische Figur –, sondern allein durch den Schriftstrahl dargestellt. Bezeichnend für Zimmermann ist auch der Verzicht auf eine Ausweitung der historischen Szene im Sinne der Barockikologie.
+
+In diesem Bild nehmen die Gegenstände der szenischen Handlungsbühne viel Raum ein; verglichen mit Fresko C sind die Versatzstücke stärker miteinander verklammert und ihre Staffelung schafft einen vergleichsweise tieferen Bühnenraum. Die in dunkleren, teils verschatteten Goldocker- und Violettbraunwerten gemalte Vase im Vordergrund links ist als Repoussoir behandelt. Die intensivsten und klarsten Farben sind in der Figur des Augustinus gesammelt: Die Farbtrias Gelb-Rot-Blau tritt in der Kombination vom Karminrosa des Mantels mit wenigem, aber intensivem Blau, begleitet von Weiß und Gelb im Gewand, auf. Zugleich bildet der Rotwert im Mantel mit dem warmen und hellen Grün der umgebenden Landschaftsszen erie den Komplementärkontrast. Das Gelb verbindet mit den Ockerwerten des Baumstamms.
+
+Der helle blaue Himmelsgrund mit den weißen Wölkchen erscheint in Ausschnitten zwischen den ornamental aufgefaßten Kulissen der Gartenszenerie, die ihm gitterartig vorgelegt sind. Am Bildrand links wird eine Himmelsglorie angedeutet: ein wolkig verschleiertes Ockergelb, eingefaßt vom Violettgrau der Wolken.
+
+B KLOSTERGRÜNDUNG In einem rein architektonischen Schauplatz wird die Gründung des Klosters von Hippo dargestellt. Augustinus, in Chorherrentracht, ist vor das Portal einer säulengeschmückten Halle getreten und zeigt fünf weltlich gekleideten Männern, die über Stufen herankommen, sein Regelbuch. Er ist von zwei Chorherren begleitet.
+
+Dieses Geschehen spielt sich im Vordergrund auf ansteigenden Stufen ab. Den Mittelgrund bilden die offene Halle und ein davorliegender Hof mit einer runden Bogenöffnung in der Mauer, die Durchblick auf eine Kirche gibt. Diese Bauten sind räumlich zusammenhängend und in für Zimmermann ungewohnter konsequenter perspektivischer Verkürzung wiedergegeben. Diese Eigenart, die spannungslose Komposition, die vergleichsweise stumpfen, in der Schauplatzarchitektur großflächig aufgetragenen und monoton wirkenden Farben lassen an eine stärkere Beteiligung von Mitarbeitern bei diesem Bild denken.
+
+[[File:Band02_chunk013_p009_img002.jpg|thumb|D Gründung des Klosters Weyarn]]
+
+
+C AUGUSTINUS SUCHT DIE DREIFALTIGKEIT ZU ERGRUNDEN Der Bildschauplatz wird von einer seichten Landschaftsrampe gebildet, die links von einer Baumgruppe, rechts von antiken Architekturfragmenten begrenzt wird. Hier steht Augustinus, in Bischofstracht, mit Mitra und Stab, dem Kind gegenüber, das vor ihm am Boden Wasser aus dem Meer mit dem Löffel in ein Sandgrübchen schöpft. Dabei deutet es mit der Rechten auf die in den hellen Wolken erscheinende Dreifaltigkeit.
+
+Die Himmelserscheinung der Dreifaltigkeit ist nicht unmittelbar in die szenische Handlung miteinbezogen. Sie ist mit dem Hintergrund einer anderen Bildrealitätsschicht zugehörig. Als thematischer Bestandteil hat sie mehr den Charakter eines attributiven Einsatzstückes als den einer in die Handlung eingreifenden himmlischen Erscheinung.
+
+Eine weite, abwechslungsreiche Meereslandschaft mit Schiffen, bewaldetem jenseitigen Ufer, Bergen und Türmen bildet den Hintergrund. Dieser ist mit der Vordergrundsrampe nicht zu einer räumlichen Einheit verbunden, sondern erscheint wie eine Kulisse hinter der Handlungsbühne. Der Kontrast der hellen großflächigen Partien zu den ornamental konturierten Vordergrundsdarstellungen wird zum neuen Kunstmittel. Dieses Bild zählt zu den schönsten und typischsten aus Zimmermanns mittleren Schaffenszeit. Seine Eigenart, einen Bildschauplatz zu schaffen, dessen Räumlichkeit nicht faßbar ist und dessen Gestaltung durch die Auswahl der Schönheit der einzelnen Motive als Stimmungsträger, ihren ornamentalen Charakter und ihr besonderes Verhältnis zum Hintergrund geschieht, ist hier voll ausgeprägt.
+
+Das ganze Bild ist in klaren Buntfarben angelegt. Im hellen Bildgrund dominieren verschiedene Blauwerte, begleitet von Grau-, Rosa- und Gelbwerten. Die einzelnen Farben sind durch eine hohe, allen gemeinsame Helligkeitsstufe miteinander verbunden und verleihen dem Hintergrund die Wirkung lichter Transparenz. Hiervon heben sich die Gegenstände und Figuren der szenischen Handlung in stärker gesättigten Buntwerten ab. Die in grünen, ockerhaltigen Mischfarben gemalte Bodenzone, zu der auch die Baumgruppe links und die Ruinen rechts gehören, suggeriert...
+
+<!-- citation-page-bottom: Band02 p617 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=10 -->
+<!-- citation-page-top: Band02 p618 -->
+
+<!-- header: WEYARN -->
+
+
+[[File:Band02_chunk013_p010_img001.jpg|thumb]]
+
+
+riert eine dunklere, bühnenartig angelegte Raumschicht. Die inhaltliche und kompositionelle Hauptfigur des Bildes - der hl. Augustinus - ist auch hier durch die Farbtrias Gelb-Rot-Blau hervorgehoben. Die Farbzusammenstellung von Goldgelb und gedämpftem Rot im Gewand ist durch ein intensives Weiß im Lichtwert gesteigert und wird durch das Blau des Bildgrundes zu lebhafter Kontrastwirkung gebracht.
+
+D GRÜNDUNG DES KLOSTERS WEYARN Von einer prachtvollen Portalarchitektur mit Säule, Draperie und Vase - rechts im Bild - kniet auf Stufen ein Mann mit faltenreichem Gewand, der durch ein Schwert, einen beigegebenen Helm und Rüstungsschnallen (unter dem Mantel an seiner linken Seite erkennbar) als Ritter gekennzeichnet ist. Einer der Leute aus seinem Gefolge, in altertümlich historisierender Tracht, zeigt auf ein Wappen, das den Ritter als den Grafen Siboto II. von Neuburg, den Gründer des Klosters Weyarn, ausweist. Graf Siboto hält die Schenkungsurkunde in Händen und präsentiert sie dem hl. Augustinus, der, umgeben von Engeln, auf Wolken thront. In der linken Bildhälfte sind sechs Augustinerchorherren kniend dargestellt. Zwischen dem Ritter mit seinem Gefolge und der Gruppe der Chorherren ergibt sich in der Bildmitte ein Ausblick auf die in zarten Farben gemalte Ansicht von Weyarn.
+
+Die drei im Diagonalkreuzschema angeordneten Figurengruppen bestimmen den Bildaufbau. Der Graf und sein Gefolge – ausgezeichnet durch die Würdeform der Architektur – ist der Augustinusgruppe kompositionell unmittelbar zugeordnet und durch die Gebärden mit ihr zu einer szenischen Einheit verbunden. Die himmlischen Personen sind hier in der selben vorderen Bildschicht und gleich real handelnd dargestellt wie die irdischen.
+
+Zimmermanns Farbeinsatz und das Verhältnis der Farbe zum Licht wird an diesem Bild gut sichtbar. Die Buntfarben werden in den hellsten Stellen fast bis zu Weiß hin aufgelichtet, verlieren aber nie völlig den Farbcharakter. Andererseits zeigt auch der hellste Hintergrund und die hellste Auflichtung im Himmel immer noch Farbe. Dabei bezeichnet die Auflichtung an den Gewändern ein Vorne im Bild, die Helligkeit der Landschaft und der Glorie weit Entferntes. Durch dieses zwischen zwei Polen des Weiß Sich-Befinden der Farbe gibt es bei Zimmermann letztlich keine Möglichkeiten von Erhöhungen, Stufungen, Durchbrechungen, sondern ein »idyllisches« Sich-Befinden der Gegenstände in einer Welt - nicht des Lichtes - der Helligkeit.
+
+Die Reduktion auf wenige Farbeinheiten verhindert dabei direkte Gegenstandsbezeichnungen. Rot, Rosa, zu Lila hin gebrochen, setzt Würdeakzente (Herz Augustini, Rosen, Gewänder); Gelb kann als Gold- oder Lichtfarbe auftreten, ist aber meist durch Ockerbeimengung abgestumpft und kann in den verschiedenen Mischwerten mit Ocker und Braun auch Farbe für den Schauplatz werden, für Erde und Architekturen und in extremer Aufhellung auch Glorienlicht. Das Blau als Himmelsfarbe kommt auch als Würdefarbe in Gewändern vor oder, verändert durch Beimischung, das Rot. Der Himmelsschauplatz wird in der Regel von den Farben der Trias gebildet, wobei Rot als heller Rosaton in Wolken auftritt.
+
+Eigenhändig sind in diesem Bild die Gruppe des Augustinus und die des Grafen, während die Gruppe der Chorherren wohl eine Arbeit von Mitarbeitern ist.
+
+E ENTHAUPTUNG PAULI Paulus kniet in der Mitte des Bildes auf einem kleinen Erdhügel und hat den Blick zum Himmel erhoben, wo zwei Putti mit Martyrerkranz und Palmzweig zu sehen sind. Der Henker steht mit gezücktem Schwert neben Paulus. Eine Gruppe von Zuschauern links unter einer Baumgruppe und zwei Soldaten rechts, vor denen im Bildvordergrund eine Mutter mit ihrem Kind lagert, nehmen an dem Geschehen teil.
+
+Hier wird im Verhältnis des Stuckornaments zur Rahmenzone und zum Bild anschaulich, wie bei Zimmermann die Gegenstände des Stuckornaments bildgegenständlich werden können. Dieser Prozeß geschieht an der Nahtstelle zwischen Bild und Decke. Die Rahmenprofile werden unterbrochen, und in Stuck gebildete architektonische, ornamentale und figürliche Elemente - geschweifte Gesimsstücke, Akanthusornamente, Putti mit Blumenranken – dringen ins Bildfeld ein. Der Stuck verliert seinen Rahmencharakter, er trennt nicht mehr zwischen Bild und Ornament. Das Entscheidende dabei ist, daß Stuck und Bild den gleichen Realitätsgrad haben, wie man an diesem Beispiel bei den Putti sieht. Rosengirlanden finden sich im Stuck der Rahmenzone wie auch als Bildmotiv in Fresko A und D ebenso wie Palmzweige, die in Fresko C und E zu Bestandteilen des Bildschauplatzes werden, und Gesimsstücke, die in Fresko D Teil der architektonischen Kulisse sind.
+
+F KREUZIGUNG PETRI Der hl. Petrus ist ans Kreuz geschlagen; vier Henkersknechte richten dieses so auf, daß der Heilige mit dem Kopf nach unten daran hängt. Soldaten in Rüstung, mit Lanzen, Feldzeichen und Fahnen, beobachten das Martyrium. Ein Rundtempel und eine Pyramide deuten den historischen Schauplatz der Szene - Rom – an.
+
+Die Handlung spielt auf einem Rasenplatz, der wie eine Bühne den Bildvordergrund einnimmt; dahinter fällt der Boden ab; die Architekturen, sehr hell und rötlich-grau, verschmelzen mit dem bewölkten Himmel zu einer flächigen Kulisse, die den Bildraum nach hinten abschließt. Innerhalb der Szene entsteht durch den doppelten Diagonalbezug in der Komposition (die Gruppe der Kreuzaufrichtung führt von links vorn nach rechts in die Tiefe, zwischen den Soldaten rechts vorn und links hinten besteht ein zweiter Diagonalbezug) mehr Bildräumlichkeit als sonst bei Zimmermann üblich; auch ein illusionistischer Effekt wie der bei dem vorderen Henkersknecht, der auf dem Bildrahmen zu stehen scheint und dem man auf die Fußsohlen sieht, ist ungewöhnlich. Buntfarben sind sehr sparsam eingesetzt, wohl auch aus ikonographischen Gründen, da die Figur des hl. Petrus nicht durch Gewandfarben hervorgehoben werden kann. Hier sind Inkarnat und Holz durch die gleichen grünlich abgeschatteten Ockerwerte gegeben, dadurch werden Kreuz und Körper zu einer Einheit.
+
+E<sub>1-2</sub> und F<sub>1-2</sub> APOSTEL-SZENEN Die beiden Hauptbilder im Chor sind jeweils durch zwei Medaillons begleitet, die monochrome Szenen zeigen.
+
+1–8 AUGUSTINUS-SZENEN In den acht kleinen querformatigen Fresken an den Quertonnen zwischen der
+<!-- citation-page-bottom: Band02 p619 -->
+
+
+[[File:Band02_chunk013_p010_img002.jpg|thumb|F Kreuzigung Petri F<sub>1-2</sub> Petrus-Szenen]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=11 -->
+<!-- citation-page-top: Band02 p620 -->
+
+[[File:Band02_chunk013_p011_img001.jpg|thumb]]
+[[File:Band02_chunk013_p011_img002.jpg|thumb]]
+
+Wandpfeilern wird der Augustinus-Zyklus fortgeführt. Die Bilder sind auf eine Ansicht aus dem LHs berechnet und haben ihre Basis im N (1, 3, 5, 7) und im S (2, 4, 6, 8). Im Vergleich mit den Hauptbildern sind sie von geringerer Qualität und wohl Werkstattarbeiten. In einfachen Innenräumen, die mit typischen Zimmermann-Motiven dekoriert sind, spielen die meist mehrfigurigen Szenen. Die Bildkompositionen sind anspruchslos, die Farbigkeit ist vergleichsweise stumpf und ohne Leuchtkraft.
+
+W<sub>1-3</sub> PUTTI Im letzten – östlichen – LHs-Joch finde sich an der N-Wand anstelle eines Ochsenaugen-Fensters ein Rundbild (W<sub>1</sub>). Es zeigt einen Rosen streuenden Putto mit einem Kranz von Rosen. Ähnlich ist im ersten-westlichen – Chorjoch an der N- und S-Wand jeweils ein Putto mit Lorbeerkranz und Palmzweig gemalt (W<sub>2-3</sub>). Diese Martyrersymbole beziehen sich inhaltlich auf die Marterdarstellungen in E und F (Abbildungen S 622)
+
+== Ikonographie ==
+
+Das Programm der Deckenbilder im LHs (A, B, C, D, 1–8) der ehemaligen Augustinerchorherrenstiftskirche befaß sich in zyklischer Form mit der Schilderung von Szenen aus dem Leben des hl. Augustinus, auf dessen Regeln sich die Augustinerchorherren berufen. Der Zyklus ist von W nach O jochweise zu lesen und beginnt an der N-Seite.
+
+1 PREDIGT DES BISCHOFS AMBROSIUS In einem Kirchenraum sitzt der jugendliche Augustinus im Kreise anderer Zuhörer dem hl. Bischof Ambrosius gegenüber, der von einer Kanzel aus predigt. In den Confessiones (Augustinus, Confessiones – Bekenntnisse, eingeleitet, übersetzt und erläutert von Joseph Bernhart, München <sup>2</sup>1960) berichtet Augustinus davon, wie er, der als Lehrer der Rhetorik in Mailand wirkte, durch die Predigten des Bischofs Ambrosius tief bewegt wurde und allmählich zum christlichen Glauben fand (Confessiones 6 4, loc. cit., S. 254-57). Von der Anwesenheit seiner Mutter Monika dabei ist nicht die Rede; sie ist jedoch ein fester Bestandteil der Bildtradition bei diesem häufig in Augustinuszyklen dargestellten Thema. Sie war allerdings in der in Frage kommenden Zeit in Mailand anwesend und eifrige Hörerin und Verehrerin des Bischofs Ambrosius (Confessiones 6, 1, loc. cit., S. 245). In Weyarn erkennt man in der älteren Frau neben Augustinus seine Mutter. – Ambrosius wird bei seiner Predigt von der Taube des Hl. Geistes inspiriert — eine für diese Szene typische ikonographische Einzelheit.
+
+[[File:Band02_chunk013_p011_img003.jpg|thumb]]
+
+[[File:Band02_chunk013_p011_img004.jpg|thumb|8 Tod Augustin]]
+
+A TOLLE LEGE Augustinus hört im Garten seines Freundes Alypius unter einem Feigenbaum eine Kinderstimme »Tolle, Lege; tolle, lege«. Er eilt zu seinem Freund, bei dem er die Hl. Schrift zurückgelassen hat, schlägt das Buch auf und findet die Stelle aus dem Römerbrief des Apostels Paulus: »non in comisationibus et ebrietatibus, non in cubilibus et inpudicitiis, non in contentione et aemulatione, sed induite dominum lesum Christum et carnis providentiam ne feceritis in concupiscentiis« (Confessiones 8, 12, loc. cit., S. 414 u. 416 nach Rom 13, 13–14). Dieses Ereignis, das Augustinus in seinen Confessiones eindringlich schildert (loc. cit., S. 412-17), ist der letzte Anstoß zu seiner Bekehrung.
+
+[[File:Band02_chunk013_p011_img005.jpg|thumb|Augustinus zwischen dem Blut Christi und der Milch Mariens]]
+[[File:Band02_chunk013_p011_img006.jpg|thumb]]
+
+2 TAUFE Bischof Ambrosius tauft Augustinus im Beisein von zwei Chorknaben und mehreren anderen jungen Männern. In einem der zwei Knaben rechts in der Gruppe ist wohl der uneheliche Sohn des Augustinus, Adeodatus zu sehen, der nach dem Zeugnis des Heiligen mit ihm zugleich getauft wurde (Confessiones 9, 6, loc. cit., S 444-47). – Die Taufe fand an Ostern des Jahres 387 in Mailand statt.
+
+3 DAS GASTMAHL FÜR DIE ARMEN Unter einem Baldachin sitzt ein Mann in Pilgertracht auf einem Thronsessel. Augustinus, als Chorherr gewandet, kniet vor ihm und wäscht ihm die Füße. In der Mitte des Bildes sieht man eine gedeckte Tafel. Ein Diener bringt Speisen herbei. Die Legende berichtet (AASS Aug., Tom. 6, 28.8., S. 358 und 711), daß Augustinus einst ein Gastmahl für die Armen gegeben hat, bei dem als Gast ein Mann in Pilgertracht erschienen ist. Der Heilige hat ihm die Füße gewaschen; daraufhin gibt sich ihm der Pilger als Christus zu erkennen. Hier ist der Augenblick wiedergegeben, wo sich Christus dem Augustinus offenbart. An das Gastmahl erinnern nur noch der gedeckte Tisch und der Diener mit der Schüssel. In der Bildtradition kommen beide Möglichkeiten vor: die Fußwaschung für sich und im Kreise der Armen, die beim Gastmahl zugegen sind.
+
+[[File:Band02_chunk013_p011_img007.jpg|thumb]]
+[[File:Band02_chunk013_p011_img008.jpg|thumb]]
+
+Die Chorherrentracht des Augustinus ist – auf die Vita bezogen – ein Hinweis auf das klösterliche Gemeinschaftsleben, das Augustinus in Afrika mit Gleichgesinnten führte. Darüber hinaus verweist es auf den Orden der Augustinerchorherren, die in dem Heiligen ihren Ordensvater sehen.
+
+B KLOSTERGRUNDUNG Diese Szene, bei der das Regelbuch die bedeutsamste Rolle spielt, gibt die historische Legitimation für den Orden der Augustinerchorherren. Über die Entstehung des Klosters von Hippo schreibt Possidius (Possidius, Sancti Augustini Vita scripta a Possidio Episcopo, hg. v. Herbert T. Weiskotten, Princetor 1919): »Factus ergo presbyter monasterium intra ecclesiam mox instituit: et cum Dei servis vivere coepit secundum modum et regulam sub sanctis Apostolis constitutam.« (Possidius, Kap. 5, loc. cit., S. 48)
+
+4 BISCHOFSWEIHE Augustinus kniet zu Füßen des greisen Bischofs Valerius vor einem Marienaltar und erhält das Zeichen der Bischofswürde, die Mitra. Zwei weitere Bischöfe und Kleriker nehmen an der Zeremonie teil. 395 wurde Augustinus von Bischof Valerius von Hippo als Coadjutor zum Bischof geweiht und folgte ihm schon zwei Jahre später in der Leitung der Diözese nach.
+
+5 AUGUSTINUS WEIST DIE SCHWÄTZER VOM GEMEINSAMEN MAHL ZURÜCK Augustinus sitzt im Kreise von weltlich gekleideten Männern beim Mahl
+
+<!-- citation-page-bottom: Band02 p621 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=12 -->
+<!-- citation-page-top: Band02 p622 -->
+
+<!-- header: WEYARN -->
+
+<!-- header: WEYARN -->
+
+und spricht zu seinen Gästen. Einer der Zuhörer faßt sich betroffen an die Brust.
+
+Die Inschrift Convivas male-/Dicos aversatur verdeutlicht die Szene, welche sich offenbar auf eine Stelle der Possidius- Vita bezieht: {ZITAT|000} (Possidius, Kap. 22, loc. cit., S. 94)
+
+Die Lesungen bei Tisch, die Augustinus bei seiner klösterlichen Gemeinschaft einführte, wurden 589 beim dritten Konzil von Toledo allgemein empfohlen. - Dieses Thema ist in Augustinus-Zyklen selten; hier bezieht es sich auf das Ordensleben der Augustinerchorherren.
+
+C AUGUSTINUS SUCHT DIE DREIFALTIGKEIT ZU ERGRÜNDEN Die Szene des Heiligen mit dem<br>Kind am Meer gehört zu den am häufigsten dargestellten<br>Augustinus-Themen. Nach der Legende (AASS, loc. cit., S 357 f. und 707 f.) ging Augustinus einst am Meeresufer, in tiefe Gedanken über das Wesen der Dreifaltigkeit versunken (eines seiner Hauptwerke, De Trinitate, wurde in den Jahren 400-416) geschrieben). Dabei sah er ein Kind, das mit dem Löffel Wasser aus dem Meer in ein Sandgrübchen<br>schöpfte. Auf die Frage des Heiligen antwortete es, es sei leichter, das ganze Meer in dieses Grübchen zu schöpfen, als das Wesen der Dreifaltigkeit zu ergründen.
+
+6 AUGUSTINUS ZWISCHEN DEM BLUT CHRISTI UND DER MILCH MARIÄ In einem Innenraum kniet Augustinus vor dem Kruzifixus und hält ihn mit der Rechten umschlungen. Gleichzeitig wendet er sich nach der anderen Seite, wo eine Marienstatue auf einem Sockel steht. Aus der Brust der Madonna fällt ein Milchstrahl auf den Heiligen.
+
+Dieses merkwürdige Thema, das Bestandteil der meisten barocken Augustinus-Zyklen in Süddeutschland ist, läßt sich durch keine Stelle in den Schriften des hl. Augustinus oder in der Possidius-Vita und den späteren Legenden belegen. Der Text, auf welchen sich die Bilddarstellung bezieht und der als begleitende Inschrift — besonders im 17. Jh. – häufig hinzugefügt ist, lautet: »Positus in medio, quo me vertam, nescio. Hic lactator ab ubere, hic pascor a vulnere.«
+
+Emile Mâle und Louis Réau vermuteten, daß diese Verse aus den pseudoaugustinischen Meditationes stammten. In den genannten Meditationes, die A. Wilmart dem Abt Johannes von Fécamp (1028-79) als Autor zugewiesen hat, findet sich wohl die Vorstellung von der mystischen Stärkung des Christen durch Christi Blut und Maria's Milch, jedoch nicht die oben zitierte Textstelle.
+
+Als frühestes Beispiel der Bilddarstellung des hl. Augustinus zwischen dem Blut Christi und der Milch Mariä zusammen mit dem zitierten Vers ist ein Kupferstich des Marius Kartarius, um 1570, bekannt (Jeanne et Pierre Courcelle, Iconographie de Saint Augustin, Bd 3, Paris 1963, S. 24, Tafel 10, siehe auch S. 101 und John B. Knipping, Iconography of the Counter Reformation in the Netherlands, Niewkoop 1974, Bd 2, S. 275). Von den Niederlanden wurde das Bildthema zunächst als Einzeldarstellung im 17. Jh. verbreitet und später zunehmend in die Augustinus-Zyklen aufgenommen. Innerhalb der Augustiner-Ordens-Ikonographie in Süddeutschland scheint es ein fester Bestandteil gewesen zu sein. Es findet sich in den Deckenbildprogrammen von Herrenchiemsee, Au am Inn Rottenbuch (CBD Bd 1, S. 479), Indersdorf und Gars.
+
+7 CIVITAS DEI Augustinus steht in seiner Studierstube, neben der, hinter einer Brüstung, ein Garten sichtbar ist. Er blickt zum Himmel, wo in den Wolken eine mauerbewehrte Stadt erscheint. Ein Putto präsentiert dem Heiligen eine Krone. Das Herz Augustins fliegt zum<br>Himmel auf, während er eine auf dem Boden liegende<br>Weltkugel mit dem Fuß tritt.
+
+In einem barock-allegorischen, antithetischen Handlungs<br>schema wird Augustinus als Schöpfer des Werkes De Civitate Dei gezeigt, das in den Jahren 413-26 entstanden ist. Das ikonographische Bildmotiv des Himmlischen Jerusalem ist für die {ZITAT|001} des Augustinus eingesetzt und steht im moralisch-allegorischen Bildkontext für die Gemeinschaft der Heiligen in Gott. Die Weltkugel ist – dieser Schrift entsprechend – als {ZITAT|002} zu verstehen. Durch den Fußtritt auf die Weltkugel wird die<br>Verachtung der irdischen Eitelkeit ausgedrückt, die Hin-<br>wendung zu Gott durch das entflammte Herz, das bezeichnendste Augustinus-Symbol im 18. Jh., und zwar in emblematischer Form: das geflügelte Herz ist eigener Träger<br>einer Handlung. Die Krone des Putto schließlich bezeichnet allegorisch den himmlischen Lohn des Heiligen
+
+8 TOD DES HL. AUGUSTINUS In einem Raum, der sich durch einen hohen Bogen rechts ins Freie öffnet, liegt
+
+
+[[File:Band02_chunk013_p012_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk013_p012_img002.jpg|thumb|W<sub>3</sub>]]
+
+
+
+[[File:Band02_chunk013_p012_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk013_p012_img004.jpg|thumb]]
+
+
+
+[[File:Band02_chunk013_p012_img005.jpg|thumb]]
+
+
+
+[[File:Band02_chunk013_p012_img006.jpg|thumb|F<sub>2</sub> Heilung des Lahmen]]
+
+
+D GRÜNDUNG DES KLOSTERS WEYARN Siboto II., Graf von Neuburg, besaß in der Gegend von Weyarn einen Weinkeller oder ein Weinlager (Cella vinaria – daher der Name Wiare = Weyarn). Diesen Besitz übergab er 1133 dem Erzbischof Konrad I. von Salzburg mit der Bestimmung, dort ein Chorherrenstift zu errichten und eine Kirche zu erbauen, die den Aposteln Petrus und Paulus geweiht werden sollte. (Der in der Literatur gelegentlich als Gründer Weyarns irrtümlich angegebene Graf Siboto I. von Falkenstein-Neuburg, der Urheber des Codex Falkensteinensis, ist der Enkel des Neuburger Grafen und hat mit der Gründung Weyarns nichts zu tun.)
+
+Den Abschluß des Augustinus-Zyklus bildet die lokalhistorische Gründungsszene. Diese ist inhaltlich in die Vita des Heiligen einbezogen, indem sie als ein Akt des aus der himmlischen Seligkeit heraus fortwirkenden, handelnden Heiligen vorgestellt ist und ikonologisch im Zusammenhang der Vita die Stelle einer Gloriendarstellung des Heiligen einnimmt. Gleichzeitig legitimiert sich das Augustinerchorherrenstift Weyarn durch diese Darstellung als heilsgeschichtlich relevante Gründung.
+
+E und F, E<sub>1-2</sub>, F<sub>1-2</sub> Die Darstellungen des AR sind den beiden Patronen der Stiftskirche gewidmet. Die beider Hauptfresken zeigen die Martyrien der beiden Apostel, die in den Acta Pauli und Acta Petri beschrieben sind (Hennecke-Schneemelcher, Bd 2, S. 216-21). Die Martyriums Szenen sind auf den Handlungskern reduziert, jede legendäre Ausschmückung fehlt.
+
+F, F<sub>1-2</sub> PETRUS-SZENEN Die Fresken sind dem Hochaltar zugeordnet, dessen Altarblatt die Schlüsselübergabe zeigt (Mt 16, 18–19).
+
+
+[[File:Band02_chunk013_p012_img007.jpg|thumb]]
+
+
+
+[[File:Band02_chunk013_p012_img008.jpg|thumb]]
+
+
+F<sub>1</sub> BEFREIUNG PETRI AUS DEM KERKER DES HERODES (Act 12, 6–11) Die Grisailleszene zeigt den Engel, der den im Sitzen schlafenden Petrus weckt. F<sub>2</sub> DIE HEILUNG DES LAHMEN AN DER SCHÖNEN PFORTE DES TEMPELS ZU JERUSALEM (Act 3, 1-8) Petrus und Johannes nähern sich dem Lahmen, der auf einer Stufe vor einem Säulenpodest sitzt. Petrus richtet den Kranken auf.
+
+E, E<sub>1-2</sub> PAULUS-SZENEN (westliches AR-Joch)
+
+E<sub>2</sub> DIE BEKEHRUNG PAULI (Act 9, 3–7) Die südliche Kartusche gibt die am häufigsten dargestellte Paulus-Szene, die Bekehrung des Christenverfolgers Saulus auf dem Weg nach Damaskus, wieder.
+
+E1 DIE BERUFUNG ZUM VÖLKERAPOSTEL Diese ikonographisch ungewöhnliche Szene zeigt Paulus in halb sitzender, halb liegender Stellung auf Wolken; vor ihm erscheint Christus. Die Wolken könnten auf einen himmlischen Schauplatz hindeuten. Hier ist jedoch wohl nicht die Entrückung Pauli in den dritten Himmel (2 Cor 12, 2–4) gemeint, sondern wahrscheinlich die Berufung Pauli zum Völkerapostel. In der Apostelgeschichte (Act 22, 17–21) berichtet Paulus in seiner Verteidigungsrede den Juden von der Erscheinung Christi, die er nach seiner Bekehrung im Tempel von Jerusalem hatte: {ZITAT|003}.
+
+Durch die Hinzufügung der Visionsszene wird der theologische Bedeutungsgehalt der Bekehrungsszene erweitert und Paulus in seiner Eigenschaft als Völkerapostel apostrophiert
+
+Literatur siehe S. 626
+<!-- citation-page-bottom: Band02 p623 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=13 -->
+{{End}}

@@ -1,0 +1,54 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=625
+|Originalseitenbis=625
+|Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sitzungssaal
+|Typ=Sakral
+|Ort=Weyarn
+|davor=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei
+|danach=Weyarn, ehem. Augustiner-Chorherrenstift, Bürgermeisterzimmer
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Sitzungssaal im Rathaus der Gemeinde Weyarn, ehem. Stiftsgebäude
+
+'''Zum Bauwerk:''' (vgl. S. 626): Im ersten Obergeschoß an der SO-Ecke des Gebäudes befindet sich ein rechteckiger Saal (8,90 × 6,30 m) mit drei Fensterachsen im S, der ursprünglich als Gerichtssaal diente.
+
+'''Autor und Entstehungszeit:''' Die undatierten und unsignierten Deckenbilder stammen ebenso wie der Stuck wohl aus der Zeit der Wiedererrichtung des Gebäudes (1708). Der schlechte Erhaltungszustand erübrigt die Autorenanalyse.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle über Akanthuskonsole
+
+Rahmen: Stuckprofile, A Lorbeerkranz, A1-4 Kartuschen aus Blattwerk und Fruchtgehängen
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 4,00 m; 4,50 × 3,00 (nicht erhalten)  
+A<sub>1-4</sub> Kartuschen in der Hohlkehle 1,00 × 1,60  
+
+Erhaltungszustand und Restaurierungen: Die Deckenbilder wurden 1973 anläßlich der Restaurierung des gesamten Gebäudes durch die Fa. Richard Kunze, München, freigelegt. Die originale Farbsubstanz ist kaum erhalten, starke Abblätterungen und Übermalungen sind zu erkennen in A2-4, wogegen A1 keine figürliche Darstellung mehr ausmachen läßt. Das ovale Mittelfeld A ist nicht erhalten, das Bildfeld wurde bei der Restaurierung monochrom blau mit einem IHS gestaltet (Erwin Schleich). Keine Abbildungen
+
+
+== Bildabfolge ==
+
+
+A2 Petrus heilt einen Siechen. (Schattenheilung? Act 5 14–16).
+
+A3 Petrus empfängt die Schlüssel von Christus (Mt 16 19).
+
+A4 Petri Befreiung aus dem Kerker des Herodes (Act 12. 3–19).
+
+Literatur siehe S. 620
+<!-- citation-page-bottom: Band02 p625 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=14 -->
+{{End}}

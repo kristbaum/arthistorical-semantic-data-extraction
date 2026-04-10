@@ -1,0 +1,135 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=143
+|Originalseitenbis=147
+|Lemma=Bichl, Filialkirche St. Georg
+|Typ=Sakral
+|Ort=Bichl
+|davor=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus
+|danach=Dietramszell, ehem. Augustiner-Chorherrenstift, Pfarrkirche
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Filialkirche, Verwaltungsgemeinschaft Benediktbeuern, Klosterpfarrei Benediktbeuern, Diözese Augsburg; z. Z. der Ausmalung Klosterhofmark und Klostergericht Benediktbeuern
+
+'''Patrozinium:''' St. Georg
+
+'''Zum Bauwerk:''' Nach Abbruch eines Vorgängerbaues des 12. Jh. 1751–52 Neubau von Johann Michael Fischer unter Einbeziehung des älteren Turmes; Benediktion 1753.
+
+Die gewestete Kirche besteht aus einer Reihe von drei Räumen je über quadratischem Grundriß, dem Gemeinderaum mit genischten Ecken, dem Vorraum im O mit Empore und dem AR im W mit geradem Abschluß; Pilastergliederung, Beleuchtung von N und S durch Rundbogenfenster
+
+'''Auftraggeber:''' Abt Leonhard Hohenauer von Benediktbeuern (1742–58), dessen Wappen sich im großen Benediktbeurer Konventswappen am Chorbogen befindet
+
+'''Autor und Entstehungszeit:''' Signatur in B auf dem Schild eines Kriegers Jo. Jacob Zeiller inv. & / fecit 1753 (Johann Jakob Zeiller * 1708 Reutte in Tirol † 1783 Reutte). Außerdem das Chronogramm am Chorbogen über dem Konventswappen DEO / COELI REGINAE / SANCTO GEORGIO (= 1753).
+
+Nach den Aufzeichnungen am Baudiarium von Bichl (BayHStA I, KL 224 u. 225, zitiert bei Matsche, S. 598 f.) hat Zeiller nach der Freskierung der Anastasiakapelle von Benediktbeuern (S. 64–69) vom 15.–30. 9. 1752 das Chorfresko (C), vom 9.–25. 10. 1752 das »Vorhaus« (A und EU) und nach einem Aufenthalt in Kloster Ettal (S. 284) ab 14. 7. 1753 (Rechnungsbeleg) das Hauptfresko (B) in der Pendentifkuppel gemalt. Am 7. 11. 1753 erhielt er akkordgemäß 250 fl. (vgl. Matsche, S. 247 f., und Mindera, 1939 S. 52).
+
+Neben der Kuppel von Ettal bietet die Kirche von Bichl die aufwendigste Quadraturmalerei Zeillers in Oberbayern im Stil der österreichisch-bolognesischen Richtung (vgl. Matsche S. 260).
+
+Zu der Rahmenarchitektur-Malerei des Hauptfreskos (B) gibt es ein Studienblatt, schwarze Kreide auf blaugrauem Papier, mit Spuren von Höhungen in weißer Kreide, 22 × 36,3 cm, Elbigenalp in Tirol, Sammlung Falger (Matsche S. 702, ohne Abb.).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A verschliffenes Kreuzgratgewölbe, B Pendentifkuppel, C Spiegelgewölbe über Pendentifs
+
+Rahmen: A, B, C gemalte ornamentale Rahmenarchitektur; EU Stuckprofil
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 8,40 m; 4,40 × 5,40
+
+B Höhe 10,80 m (Stich 1,80); 7,00 × 7,00
+
+C Höhe 8,40 m; Ø 3,10
+
+EU Höhe 3,30 m; 2,00 × 2,60
+
+Erhaltungszustand und Restaurierungen: 1936 wurden Fresko B und C gereinigt; 1966 Reinigung von A; letzte Restaurierung 1976–77 durch Franz Xaver Marchner, München, bei der alle Fresken gereinigt und Haarrisse und kleine Wasserschäden in den westlichen Partien von B und am rechten Bildrand von C ausgebessert wurden. Der Zustand ist sehr gut.
+
+
+[[File:Band02_chunk003_p022_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p143 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=23 -->
+<!-- citation-page-top: Band02 p144 -->
+
+<!-- header: BICHI -->
+
+<!-- header: RICHI -->
+
+== Beschreibung und Ikonographie ==
+
+A DAVID PSALLENS Einansichtig gegen O mit Betrachterstandort in der Mitte darunter. Durch die Imitation von breiten diagonalen Stuckbändern mit einer Rosette über dem Schnittpunkt wird die Decke über der Orgelempore zu einem Kreuzgewölbe gestaltet. Die voluminösen Ornamentformen, wie gerahmte Kartuschen und balusterartige, pflanzliche Formen, erinnern an italienische Ornamentik des 17. Jh. (Matsche, S. 259).
+
+Über den Fensterlaibungen sind Giebelaufsätze gemalt, und an der O-Seite ist auf einem Giebel kniend König David beim Harfenspiel dargestellt. Auffallend ist die gering untersichtig gemalte Figur, die fast bildparallel und dabei sehr plastisch gegeben ist. Mit Weiß gemischtes Grün und gebrochenes Weiß der Scheinwölbung, eingerahmt von hellgelben Schilden und Muschelwerk, illusionieren einen lichten Raum, in dem die Gestalt des David mit dem weiten roten Gewand, der goldenen Krone und der Harfe - in stark lichthaltigen Partien und gesättigten Schattenwerten – vom Glanz erfaßt wird.
+
+
+[[File:Band02_chunk003_p023_img001.jpg|thumb|Martyrium des hl. Georg]]
+
+
+B MARTYRIUM DES HL. GEORG Die Deckenmalerei setzt unmittelbar über dem Gebälk der Pilaster, die Laibungen der vier Bögen überspielend, mit einer formenreichen Quadraturmalerei ein, die einen breiten Rahmen für die im runden Bildausschnitt gemalte Enthauptungsszene bildet. Die leicht schrägansichtige Bildanlage erfordert einen Betrachterstandort am östlichen Eingang zum Gemeinderaum.
+
+An den Pendentifs des Gewölbes sind vier große Figurennischen illusioniert und darüber ein mehrteiliges, friesgeschmücktes Kuppelgesims, das von vier achsial und vier diagonal angeordneten gesprengten Voluten- bzw. Segmentgiebeln überragt wird. Die einzelnen architektonischen Teile sind räumlich über- und hintereinandergeschichtet. Der Aufbau ist jedoch nicht architektonisch konstruktiv, vielmehr ornamental organisiert. Kriterien hierfür sind die auf den Bögen und den Pendentifnischen fußenden Voluten, welche die acht Giebelaufsätze tragen. Diese ornamental »verbogenen«, in Pflanzenformen übergehenden Voluten sind im Sinne von Grotesken einer eindeutigen Bestimmung von Gegenstand und Größenrelation entzogen und distanzieren bildlich so die »greifbar« plastisch gemalten architektonischen Schmuckteile (Friese, Gebälkstücke, Muscheln, Kartuschen).
+
+Die Pendentifnischen erheben sich über attikaähnlich gebildeten Postamenten, darin sind die Evangelisten beim Schreiben innehaltend mit ihren Symbolen dargestellt. Die Figuren sind leicht untersichtig gegeben und stark plastisch behandelt. Betonte Höhung und Aufhellung der Farben der Gewänder, Darstellung des Schattenwurfs der Gestalten sowie illusionistisches Übergreifen von Armen und Beinen über den Architekturrahmen zeigen die Absicht, die Evangelisten wie Skulpturen darzustellen (vgl. auch David in A). Südwestlich ist Matthäus mit dem Engel, nordwestlich Markus auf dem Löwen, nordöstlich Johannes neben dem Adler und südöstlich Lukas auf dem Stier dargestellt.
+
+Die Enthauptungsszene setzt mit einer schmalen Bodenzone ein, die zu drei Vierteln das Scheingesims umzieht. In der Hauptansicht gegen W ist das ansteigende Terrain in gewisser Tiefenerstreckung gegeben, zu den Seiten hin wird es seicht und fällt abrupt ab. Die Gruppe zu Füßen des Kaisers auf dem Thron, des knienden Heiligen links und des Henkers mit erhobenem Schwert rechts, bildet das Zentrum der figurenreichen Szene. Beidseitig vom Thron stehen Priester und auf diese folgend Soldaten, links in einer dicht gedrängten Reihe den Vordergrund einnehmend, rechts eine Gruppe im Hintergrund aus der Tiefe aufsteigend. Von der rechten Seite her nähern sich weitere Priester und Soldaten zu Pferde und zu Fuß der Hinrichtungsstätte.
+
+Die Figuren sind in geringer Untersicht und Verkürzung dargestellt und in radialer Anordnung auf den Kuppelmittelpunkt mit der fliegenden Engelsgruppe bezogen. Die aufrechten Lanzen-, Hellebarden- und Fahnenstangen betonen die Radialordnung, welche das Zentrum weniger als Höhenfluchtpunkt denn als Drehpunkt einer mehransichtigen Darstellung mit wechselndem Standort erscheinen läßt. Im Gegensatz hierzu steht die architektonisch ornamentale Rahmung, die eine in sich schlüssige Perspektivillusion zeigt. Zwei Zuschauer an der S-Seite sind mit der Rahmenzone verbunden, die eine Figur sitzt auf der tauförmigen Abschlußleiste, die andere lehnt sich dagegen. Weitere Figuren, wie ein aus dem Bild heraus deutender Soldat, ein Page mit Hund, ein Faszesträger und ein Schildträger führen als Repoussoirs in die Szene ein.
+
+Der hl. Georg ist in vornehmer Soldatentracht mit entblößtem Nacken dargestellt, der Helm liegt vor ihm am Boden. Lorbeerkranz, Feldherrnstab und Thron bezeichnen den römischen Kaiser Diokletian. Ein Knabe vor dem Thron hält die Zeichen der kaiserlichen Macht und der Rechtsprechung, den Purpurmantel, darauf liegend das Gerichtsschwert (mit blutbefleckter Spitze) und die Faszes. Hinter
+
+
+[[File:Band02_chunk003_p023_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p145 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=24 -->
+<!-- citation-page-top: Band02 p146 -->
+
+[[File:Band02_chunk003_p024_img001.jpg|thumb|EU Fides-Ecclesia]]
+
+Dem Thron ist das römische Feldzeichen (Adler) sichtbar. Faltenreich drapierte Mäntel, Barttracht und turbanähnliche Kopfbedeckungen charakterisieren die Priester, Waffen, Helme und Brustpanzer die Soldaten. Die eine klagende Frau, etwas abseits links im Bild, könnte die Christin Polychronia, die Mutter Georgs, darstellen. Besonders sorgfältig ausgeführt ist der Knappe in geschmückter Rüstung, der den Buckelschild mit der Künstlersignatur trägt. (Vorbilder für einzelne Figuren s. Matsche, S. 255–57).
+
+Die großen Partien der weißen Stuckimitation, unterbrochen von leuchtend gelben Wandstücken, deren Farbton in der goldgelben Rahmenleiste um das Rundbild verfestigt wird, verleihen dem Raum festliche Helligkeit. Das Bild in den Pendentifs (s. Fresko B) der Deckenöffnung setzt Goldgelb als Bezeichnung des Thrones ein, sonst herrschen gesättigte braunrote und grüne Erdfarben vor, die in einzelnen Vordergrundsfiguren und der Martyrergestalt zu lichten Tönen bis zu Weiß aufgehellt werden. Ein lichtes Himmelblau hinterfängt die Figurengruppen und umgibt die gelbrötliche Wolkenbildung.
+
+[[File:Band02_chunk003_p024_img002.jpg|thumb]]
+
+C BEKEHRUNG DER KAISERIN ALEXANDRA Kreisrundes einansichtiges Fresko mit Betrachterstandort in der Mitte darunter. Ein stark untersichtig dargestellter verkröpfter Profilrahmen über Kartuschenkonsolen gibt den Blick in den lichten Himmel frei. Die westliche Hälfte der illusionierten Deckenöffnung wird von den Figuren des hl. Georg, der Kaiserin Alexandra und einer stürzenden Götzenfigur eingenommen. Es gibt dabei keinen eigenen terrestrischen Schauplatz, die Figuren fußen vielmehr auf oder hinter dem Scheinrahmen. Der Mantel der auf dem Abschlußprofil knienden Kaiserin übergreift dabei weit die Rahmenzone.
+
+Die Figuren sind durch ihre geringe Verkürzung und Untersicht, anders als die rahmende Quadraturmalerei, ohne Höhenfluchtpunkt konstruiert und wirken deshalb so, als kämen sie vom Himmel in den Kirchenraum herab. Wie auch in B fällt die radiale Anordnung der Figuren auf. Rot mit teils starken Beimischungen von Ocker sowie kühles Graublau, das zu gebrochenen Weißtönen aufgehellt ist, beherrschen das Fresko, dazu treten das helle Goldgelb der Rahmung und die weiße lichthaltige Stuckimitation mit Blumenamphoren, die der Gesamtdekoration einen prunkvollen Charakter verleihen.
+
+EU FIDES-ECCLESIA Einansichtiges, fast querovales Fresko an der flachen Unterseite der Empore (Betrachterstandort am Eingang zum Vorraum). Die sehr geringe Deckenhöhe ließ den Maler auf Architekturillusion verzichten. Fides-Ecclesia ist auf Wolken sitzend mit üblichen Attributen dargestellt, mit dem Kreuz, dem Hostienkelch und der dreikronigen Tiara. Ein Putto neben ihr deutet auf die Mosestafeln mit den zwölf Geboten. Auf der Hostie der Kruzifixus mit Assistenzfiguren. Lichtführung und Farbgebung ähneln der Darstellung in C, sind aber weit spannungsloser eingesetzt.
+
+[[File:Band02_chunk003_p024_img003.jpg|thumb]]
+
+[[File:Band02_chunk003_p024_img004.jpg|thumb|111/20]]
+
+[[File:Band02_chunk003_p024_img005.jpg|thumb]]
+
+Ergänzungen zur Ikonographie
+
+<blockquote>Die Vita des Erzmartyrers gründet sich ausschließlich auf Legenden. Danach soll Georg die Enthauptung nach Verfolgung und Marterung durch Diokletian (oder den sagenhaften Perserkönig Dacianus) in Nikomedien oder Lydda in Persien um 303 erlitten haben.</blockquote>
+
+C BEKEHRUNG DER KAISERIN ALEXANDRA Dargestellt ist nicht die weit häufiger anzutreffende Szene der Befreiung der Königstochter (vgl. die plastische Darstellung des Drachenkämpfers am Hochaltar), sondern die Bekehrung Alexandras, der Gemahlin des Kaisers Diokletian, auch als die Frau des Dacianus von Persien bezeichnet. Sie erlitt als noch ungetaufte Christin den Martertod vor Georg in Nikomedien. Im Chorfresko sind zwei Momente der Georgslegende zusammengefaßt: Die stürzenden Götzen im Tempel bei Georgs Anrufung Gottes und die Segnung der bekehrten Kaiserin sind in unmittelbaren Zusammenhang gebracht und veranschaulichen den Vorgang der Bekehrung durch Bildhandlung (vgl. LA-Benz, S. 330; AASS, Aprilii, Tom. 3, 23. 3., S. 117–19 u. 122).
+
+== Literatur ==
+
+KDB OB (1), S. 665.
+
+Mindera, Karl, Benediktbeuern, Das Handwerk im Dienst der Kunst, München 1939, S. 52.
+
+-, Benediktbeuern, Kulturland und Kirchen (= GKF, Nr. 23), München 1957, S. 41 f.
+
+Matsche, Franz, Der Freskomaler Johann Jakob Zeiller (1708–1783), Marburg an der Lahn 1970, S. 247–60.
+<!-- citation-page-bottom: Band02 p147 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=25 -->
+{{End}}

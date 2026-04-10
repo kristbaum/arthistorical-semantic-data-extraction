@@ -1,0 +1,119 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=116
+|Originalseitenbis=118
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Speisesaal
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gästezimmer
+|danach=Benediktbeuern, ehem. Benediktinerabtei, ehem. Sommerprälatur
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p116 -->
+
+== Ehem. Speisesaal, jetzt Bibliotheksraum ==
+
+'''Zum Bauwerk:''' Der Saal liegt im ersten Geschoß des 1728-31 durch Joseph Hainz und Michael Otschmann errichteten Südtraktes, zwischen der ehem. Sommerprälatur und dem Treppenhaus.
+
+Querrechteckiger Saal, Belichtung durch fünf Fenster von S, Zugang vom Gang im N, Türen nach O und W zu den angrenzenden Zimmern
+
+'''Auftraggeber:''' Abt Magnus Pachinger von Benediktbeuern (1707–42)
+
+'''Autor und Entstehungszeit:''' Meichelbeck schreibt in seinem Tagebuch unter dem 30. 9. 1731: »Prandemus ac coenamus hac prima vice in novo aedificio.« Mindera (Münster, S. 16) bezieht das erwähnte Essen auf den Neuen Festsaal. Dagegen sprechen jedoch Bestimmung und Datierung des Neuen Festsaals (s. S. 103). Viel eher dürfte Meichelbeck mit seinem Eintrag den ehem. Speisesaal des Gästetrakts gemeint haben, dessen Dekoration demnach schon im Spätsommer 1731 fertiggestellt worden wäre, wofür auch der Tagebucheintrag vom 1. 10. 1731 spricht: »Aedificium novum a pluribus aestimatur.« Die Stuckdekoration des ehem. Speisesaals gilt als ein Werk Johann Baptist Zimmermanns (Thon, S. 118). Das Dekkenbild (A) steht Johann Baptist Zimmermann jedoch fern. Es ist stark an italienischen Vorbildern orientiert und wirkt in der perspektivischen Bildanlage im Vergleich mit gleichzeitigen Deckenbildern im süddeutschen Bereich altertümlich. Andererseits zeigt es doch Übereinstimmungen mit den Darstellungen der Gästezimmer, der Bildkomposition des Neuen Festsaals, den Kindertypen des Treppenhauses, so daß es vielleicht auch als ein Werk des Johann Joseph Zimmermann anzusprechen ist, als das früheste des etwa Zwanzigjährigen in Benediktbeuern, in dem er sich noch sehr stark an fremde Vorbilder anlehnt und noch keinen persönlichen Stil entfaltet hat (Lebensdaten s. S. 100). Die Wandbilder W1-8 stammen aus dem späteren 17. Jh. Sie zeigen motivische und stilistische Übereinstimmungen mit den Deckenbildern des Verbindungstrakts (S. 96-100; vgl. M8 und W4, M1 und W7) und sind vermutlich vom gleichen unbekannten Autor.
+
+[[File:Band02_chunk003_p009_img001.jpg|thumb]]
+
+== Befund ==
+
+Träger der Deckenmalerei: Flachdecke über Hohlkehle Rahmen: A Stuckprofil, von Bandwerkornamenten unterbrochen, 1-4, a-d Ornamentkartuschen im Achsenkreuz und in den Diagonalen der Deckendekoration
+
+Technik: A Öl auf Leinwand, 1-4, a-d Öl auf Putz, alle Bilder polychrom
+
+Maße: A Höhe 4,85 m; 3,60 × 5,90  
+1, 3 Höhe 4,85 m: 1,20 × 0,90  
+2, 4 Höhe 4,85 m; 1,30 × 0,80  
+a-d Höhe 4,85 m: 1,60 × 1,20  
+
+Erhaltungszustand und Restaurierungen: Das Mittelbild A wurde 1958 durch August Dirr, Regensburg, restauriert. Es ist in gutem Zustand, die Farben sind klar und leuchtend. 1–4, a–d sind fleckig verschmutzt und verrußt; geringfügige Farbabschürfungen. W1-8 stark nachgedunkelt, teilweise ist der Bildgegenstand nicht mehr erkennbar.
+
+== Beschreibung und Ikonographie ==
+
+A GASTMAHL IM HAUSE DES PHARISÄERS (Lc 7, 36-50) Der Betrachterstandpunkt für das Hauptbild ist an der Mitte der Fensterwand anzunehmen. Die geringe Höhe der Decke im Verhältnis zu dem sehr breiten Deckenbild macht ein Verifizieren der Perspektivführung kaum möglich.
+
+Die Gäste sind um einen langen Tisch versammelt, der parallel zu den Längsseiten des Rahmens auf einer bühnenähnlichen Rampe steht, zu der Stufen emporführen. Eine palastartige Architektur bildet den Hintergrund, von den Schmalseiten des Rahmens überschnitten. Die Architektur ist zum Himmel geöffnet in der Art einer Forumsarchitektur. Im perspektivischen System lehnt sie sich eng an das Schema Pozzos an (Andrea Pozzo, Perspectivae pictorum atque architectorum I. Pars, Augsburg 1708, Fig. 99), wobei jedoch die Scheinarchitektur nicht in der Realarchitektur vorbereitet ist, sondern Teil eines gerahmten Ausschnittbildes ist. So wirkt auch die Draperie eines von Engeln über der Bildmitte hochgerafften und links fallenden Vorhangs im Sinne Pozzos unlogisch; es sind heterogene Perspektivmittel kombiniert.
+
+[[File:Band02_chunk003_p009_img002.jpg|thumb|A Gastmahl im Hause des Pharisäers]]
+
+Während die Architektur als Hintergrund erhellt ist, aufgebaut aus ziegelroten und tonig grauen Teilen, sind Draperie, Tisch und Stufen im Vordergrund abgeschattet, so daß die Farben – in der dominierenden Kombination von dunklem Purpurrot, Schwarz und Weiß – der Helldunkel-Spannung dienen. Außerdem erzeugt die Abdunkelung vorne eine Repoussoirwirkung zur Kulissenarchitektur im Hintergrund. Die Helligkeit geht aus von der Himmelsöffnung mit hellem Blau und Grau; die Lichtführung zu den Personen hinab aber ist inkonsequent.
+
+Christus sitzt an der rechten Schmalseite des Tisches, die linke Hand lehrend erhoben. Mit der Rechten weist er hinab zu Maria Magdalena, die vor ihm kniet und seine Füße mit ihren Haaren trocknet. Mit dem Rücken zum Tisch steht ein Mann mit Turban, der zu der Büßerin hinabblickt. In ihm darf man wohl Simon, den Pharisäer, sehen, bei dem Christus zu Gast ist. Auf seine Frage, ob Christus nicht wisse, daß die Frau eine Sünderin sei, hatte dieser mit dem Gleichnis von den beiden Schuldnern geantwortet.
+
+Von links, also Christus gegenüber, sind zwei Männer eingetreten; einer deutet über den langen Tisch und bildet so den Bildabschluß dieser Seite. Die Gäste um den Tisch sind in teils orientalischer, teils vage mittelalterlicher Tracht und in den bei diesem Thema üblichen Varianten der Haltung und des Mienenspiels gegeben. Mit Tafelgeschirr beschäftigte Pagen auf der Mitte der Treppe führen als Repoussoirfiguren in die Szene ein, die weniger an einer mit architektonischen Motiven arbeitenden Illusionistik, als an dem in Venedig heimischen Typ der Gastmahldarstellungen orientiert ist. Auch die Farbigkeit könnte – mit Ausnahme der farblos-schwärzlichen Abdunkelung in den Schatten – von gewissen venezianischen Möglichkeiten Impulse empfangen haben.
+
+Die Berührung der Füße Christi durch Maria Magdalena bedeutet gleichzeitig Tactus im Rahmen der Fünf-Sinne-Serie.
+
+1-4 FÜNF SINNE In den Kartuschfeldern, die das Hauptbild im Achsenkreuz begleiten, sind die übrigen vier der Fünf Sinne durch Männergestalten mit Attributen dargestellt:
+
+1 VISUS Das Gesicht wird durch einen alten Mann verkörpert, der an einem Tische sitzend ein Blatt liest, während er mit der Linken eine Brille vor seine Augen hält.  
+2 ODORATUS Der Geruch ist ein jüngerer Mann mit einem Korb voller Blumen, der eine Rose in der Hand hält und daran riecht.  
+3 GUSTUS Der Geschmack wird durch einen Mann personifiziert, der in der einen Hand ein Weinglas hält, in der anderen eine Pfeife. Vor sich hat er einen Weinbehälter.  
+4 AUDITUS Das Gehör wird durch zwei Männer dargestellt, von denen der eine auf der Flöte bläst, der andere mit der Hand zum Ohr weist.
+
+Das Thema der Fünf Sinne, das in der niederländischen Malerei des 16. und 17. Jh. eines der Schlüsselthemen war (s. Hans Kauffmann, Die Fünfsinne in der niederländischen Malerei des 17. Jahrhunderts, in: Festschrift für Dagobert Frey, Breslau 1943), ist im süddeutschen Bereich in der Deckenmalerei selten. Wie im Stil ist auch in der Thematik eine Übernahme aus dem Niederländischen
+
+<!-- citation-page-bottom: Band02 p117 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=10 -->
+<!-- citation-page-top: Band02 p118 -->
+
+<!-- header: BENEDIKTBEIJERN -->
+<!-- header: BENEDIKTBEUERN -->
+
+[[File:Band02_chunk003_p010_img001.jpg|thumb]]
+
+[[File:Band02_chunk003_p010_img002.jpg|thumb|4 Auditus – Gehör]]
+
+[[File:Band02_chunk003_p010_img003.jpg|thumb]]
+
+[[File:Band02_chunk003_p010_img004.jpg|thumb]]
+
+anzunehmen. Daß die einzelnen Sinne durch die Darstellung biblischer Themen verkörpert werden, ist nicht ungewöhnlich (LCI, Bd 4, Sp. 161). Doch wird das Gastmahl des Pharisäers meist dem Geruch zugeordnet (s. Kauffmann, S. 146), wobei auf den Duft der Salbe angespielt wird.
+
+a-d PUTTI MIT MUSIKINSTRUMENTEN Die Kartuschfelder in den Diagonalen zeigen
+
+W<sub>1-8</sub> MONATSDARSTELLUNGEN An der S-Wand zwischen den Fenstern sind acht Ölbilder in Stuckrahmen - jeweils zwei übereinander - angebracht; W1-4 obere Reihe, W5-8 untere Reihe (keine Abbildungen)
+
+W1 Junger Mann mit Barett und Samtrock, einen Blumenkorb und Laute in Händen – April
+
+W2 Alterer Mann bei der Schafschur, im Hintergrund Leute im Freien – Juni
+
+W<sub>3</sub> Mann mit Barett und Sichel, im Hintergrund Leute auf dem Feld (?) – August
+
+W4 Beleibter Mann, der einen gebratenen Vogel in der Schüssel präsentiert, im Vordergrund Gans und Wildpret, im Hintergrund zechende und musizierende Männer – Dezember
+
+W5 Blumenbekränztes Mädchen, Blumen pflückend, im Hintergrund Arkadenbogen und Gartenarchitektur – Mai
+
+W6 Mädchen an Heugabel gelehnt, vor ihr ein Heuhaufen, im Hintergrund heuwendende Bauern und ein Reiter – Juli
+
+W7 In Pelze gehüllter alter Mann, der die Hände übers Feuer hält; Blasebalg, Speise und Trank. Im Hintergrund gefrorener Weiher – Januar
+
+W8 Mann mit Barett und Pfeife, vor ihm Meeresfrüchte: Fische, Muscheln und Krebse – November?
+
+== Ikonologie ==
+
+Im Speisesaal von Benediktbeuern finden wir ein Gesamtprogramm, das der Bestimmung des Raumes entspricht. Das Gastmahl als vordergründige thematische Entsprechung wird ergänzt durch die Fünf Sinne, {ZITAT|000} (Kauffmann, S. 143). Die musizierenden Putti erhöhen den festlichen Charakter des Raumes durch den Hinweis auf die Tafelmusik. Eine Ausweitung erfährt das Programm durch die Wandbilder und im Stuck.
+
+Die beiden Kartuschfelder 1 und 3 sind von je zwei Stuckallegorien flankiert, die mönchische Tugenden darstellen (Thon, S. 318 und Anm. 434 und 496). Die weibliche Gestalt links neben 1 hält Palmzweig und Kugel. In ihr ist Humilitas verkörpert. Die Palme, die sich wieder aufrichtet, wenn sie gebeugt wurde, und der Ball, der emporspringt, wenn er zu Boden geworfen wurde, sind ihre Attribute (Cesare Ripa, Der Kunst-Göttin Minerva Liebreiche Entdeckung, Augsburg 1704, S. 71 und 77). Die Allegorie rechts von 1 hält ein Lamm; sie personifiziert Innocentia. Hund und Schlüssel sind die Kennzeichen der Fidelitas links von 3 (Ripa, s.v. fedeltà); die Allegorie rechts von 3, die einen Säulenstumpf hält, könnte Fortitudo bedeuten. Wahrscheinlicher ist in unserem Zusammenhang Constantia, vielleicht auch Stabilitas loci (vgl. Kapitelsaal, S. 72).
+
+Die Monatsdarstellungen an der Wand entsprechen der allgemeinen Thematik des ganzen Südtraktes (s. Neuer Festsaal S. 103).
+
+Literatur siehe S. 133
+
+{{End}}

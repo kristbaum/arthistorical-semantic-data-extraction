@@ -1,0 +1,148 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=248
+|Originalseitenbis=251
+|Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Bibliothek
+|Typ=Sakral
+|Ort=Schlehdorf
+|davor=Schlehdorf, ehem. Augustinerchorherrenstift, Psallierchor
+|danach=Schlehdorf, ehem. Augustinerchorherrenstift, ehem. Refektorium
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p248 -->
+
+<!-- header: SCHLEHDORF -->
+
+Bibliothek im ehem. Stiftsgebäude, z.Z. bayerischer Staatsbesitz
+
+'''Zum Bauwerk:''' Das in der Achse des AR der ehem. Stiftskirche anschließende Gebäude mit Psallierchor und darüberliegender Bibliothek wurde 1720/35 errichtet. Rechteckiger Saal im zweiten Stock (15,50 × 5,70 m wie der Psallierchor). Breite Rundbogenfenster im S und N, Eingang von der O-Seite. An den Wänden ringsumlaufend Bücherregale; umlaufende Empore in halber Höhe, zu der Treppen an den Schmalseiten des Raumes führen.
+
+'''Auftraggeber:''' Propst Corbinian Gschwendtner (1735–55) oder Innozenz Strasser (1755–88) von Schlehdorf
+
+'''Autor und Entstehungszeit:''' Signatur in B 10: IOSEPH ZWINCKH fecit. Durch Meidinger ist die Autorschaft Johann Joseph Zwincks aus Oberammergau zusätzlich belegt (s. Psallierchor, S. 246).
+
+Historische Anhaltspunkte für eine Datierung sind nicht unmittelbar gegeben. Die Bibliotheksbilder unterscheiden sich stilistisch von den Psallierchorbildern: Dort ist Zwinck technisch wie stilistisch noch ganz der Tafel- und Ölmalerei verpflichtet. Die Abraham-Isaak-Gruppe im Psallierchor (B), die das Bemühen um eine in sich abgeschlossene Komposition deutlich macht, weist auch einen sorgfältig geführten Pinsel und differenzierte Farbgebung auf. In der Bibliothek zeigt sich Zwinck mit der Technik der Deckenmalerei vertrauter, sein Darstellungsstil ist dabei vergröbert und kompositorisch verflacht. Die Bildkomposition in B beschränkt sich auf eine flächenfüllende Addition einzelner Figuren, die marionettenhaft steif im Bildfeld agieren. In diesen charakteristischen Eigenarten stehen die Deckenbilder der Bibliothek denen der St.-Nikolaus-Kirche in Huglfing von 1753 (CBD, Bd 1, S. 513-16) sehr nahe. Die Rocailleformen in Fresko A ähneln denen des Bibliotheksmobiliars und sind stilistisch nach 1750 zu datieren. Die Ausmalung datieren wir daher in das 6. Jahrzehnt des 18. Jh.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle Rahmen: Stuckprofil
+
+Technik: A, C, A<sub>1-4</sub>, B<sub>1-2</sub>, C<sub>1</sub>, C<sub>4</sub> Fresko, B Öltempera; A B, C polychrom, A<sub>1-4</sub>, B<sub>1-2</sub>, C<sub>1</sub>, C<sub>4</sub> monochrom karmin
+
+
+[[File:Band02_chunk005_p025_img001.jpg|thumb|A Augustinus in der Studierstube A<sub>1-4</sub> Emblem]]
+
+
+Maße: A Höhe 6,20 m; 2,80 × 2,80
+
+B Höhe 6,20 m; 3,20 × 4,50
+
+C Höhe 6,20 m; 2,80 × 2,80
+
+Erhaltungszustand und Restaurierungen: 1971/78 Freilegung der Deckenbilder durch Norbert Fischer, Egling, und Firma Wiegerling, Bad Tölz. Die Emblemfelder C2, C3 sind völlig zerstört, von C und A4 sind nur Fragmente erhalten. Bei den Emblemen ist der Bildgegenstand deutlich sichtbar nachgezeichnet. In B geringfügige Risse und Feuchtigkeitsflecken. Die Dekorationsmalerei wurde in Anlehnung an den freigelegten Befund restauriert, sie paßt jedoch nicht zu Deckenbildern und Raumausstattung und stammt vielleicht aus dem 19. Jh.
+
+
+== Beschreibung ==
+
+
+Die einansichtigen Deckenbilder A, B und C sind nach V orientiert, der Aufnahmestandpunkt befindet sich jeweils unter dem östlichen Bildrand.
+
+A AUGUSTINUS IN DER STUDIERSTUBE Die Bildanlage bewältigt perspektivisch nicht das kreisrunde Bildformat, die verkürzte Schauplatzarchitektur, ein Innenraum mit Säule und hohen Fenstern, erscheint nach innen stürzend. Das Schreibpult auf einem Treppenpodest und Regale mit Folianten sind davor rein frontal wiedergegeben. Der Kirchenlehrer Augustinus sitzt schreibend im Zentrum des Bildes, von der Geistestaube beim Verfassen seiner Schriften inspiriert.
+
+B TRIUMPH AUGUSTINS ÜBER DIE HÄRETIKER Den Großteil des Bildfeldes nimmt eine Himmelsszene ein. Als terrestrischer Schauplatz ist nur ein schmaler Grasboden rampenartig gegeben, im Hintergrund sind Berge angedeutet. Die Bildfiguren sind in geringer Untersicht gemalt.
+
+Zentral im Bildfeld ist der Bischof Augustinus auf einem zweirädrigen goldenen Triumphwagen, der von den Vier Wesen gezogen wird, dargestellt. Über Augustinus erscheint das Symbol der Dreifaltigkeit (Dreieck mit Auge Gottes) in einer durch Wolkenbögen angedeuteten Glorie. Der Wagen fährt auf einer Wolkenbahn hinab und droht die stürzenden Häretiker, bezeichnet durch Tracht und Bücher, zu überrollen. Augustinus schleudert Blitze auf die Häretiker. Symmetrisch angeordnet, schweben zwei Engel zu beiden Seiten des Kirchenlehrers. Links hält der Engel ein Buch aufgeschlagen und weist auf die Worte IN SAPIEN/TIA / ET / SANCTI/=TATE. Blitze fallen aus dem Buch und aus der Rechten des anderen Engels auf die Häretiker.
+
+Die Darstellung ist mehr in ungebrochenem Blau, Rot, Gelb und Grün gemalt, als farblich differenziert gestaltet.
+
+C TOLLE LEGE Fragmente einer sitzenden männlichen Figur, die auf den Knien ein aufgeschlagenes Buch hält. Neben der Krone eines Baumes die Worte TOLLE LEGE, welche die Darstellung eindeutig als die Bekehrung des jungen Augustinus im Garten des Alypius (Confessiones, Lib. 8) bestimmen. (Keine Abbildung)
+
+
+[[File:Band02_chunk005_p025_img002.jpg|thumb]]
+
+
+
+== Ikonographie ==
+
+
+B TRIUMPH AUGUSTINS ÜBER DIE HÄRETIKER Der Kampf gegen die Irrlehrer ist ein Thema, das besonders durch die Gegenreformation im Barock zu neuen Bildprägungen führte und in Augustinuszyklen selten fehlt (s. dazu LCI, Bd 5, s. v. Augustinus, Sp. 282–88; z. B. der Sp. 287 f. aufgeführte Zyklus J. B. Enderles in der Augustinerkirche in Mainz, 1771/72; siehe auch CBD, Bd 1, M. Günther, 1737/38, Rottenbuch, Fresko F, S. 484 u. 493). Ikonographisch ungewöhnlich ist dabei die Darstellung des Heiligen auf dem von den Vier Wesen gezogenen Triumphwagen, die wohl folgendermaßen zu deuten ist: Der vom Heiligen Geist inspirierte Kirchenlehrer (vgl. A), der Verfasser der dogmatischen Lehrschrift De Trinitate (vgl. das betonte Dreifaltigkeitssymbol und das Emblem C4) verteidigt »in Weisheit und Heiligkeit« den rechten Glauben, der auf den vier kanonischen Evangelien beruht (die Vier Wesen der Vision Ezechiels und der Apokalypse sind die traditionellen Evangelistensymbole). Der Heilige triumphiert über die Irrlehrer.
+
+Das Triumphwagenmotiv findet sich gelegentlich in religiösen Darstellungen der barocken Deckenmalerei in Süd-deutschland, und zwar in verschiedenen thematischen Verknüpfungen (z. B. bei H. G. Asam, 1709, Sapientia Divina führt die Jugend, Freising, OB; bei J. A. Merz 1726/30, Benediktus im Triumphwagen, gezogen von den
+
+<!-- citation-page-bottom: Band02 p249 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=1 -->
+<!-- citation-page-top: Band02 p250 -->
+
+<!-- header: SCHLEHDORF -->
+
+<!-- header: SCHLEHDORI -->
+
+
+[[File:Band02_chunk006_p001_img001.jpg|thumb]]
+
+
+Vier Erdteilen, Oberaltaich, NB; M. Günther, 1734, Maria und das Jesuskind im Triumphwagen als Siegerin über Sünde, Irrlehre, Tod und Teufel, s. CBD, Bd 1, S. 367 f.)
+
+A1-4, B1-2, C1 und C4 EMBLEME A und C sind jeweils von vier rundformatigen Emblemen - bzw. ruinierten leeren Bildfeldern (C<sub>2-3</sub>) -, B ist von zwei schmaler rechteckigen Emblemen begleitet.
+
+A1 SAPOR OMNIS AB INDE – In einer Scheune steht ein hoher gemauerter Trog, in den über eine Leitung Wasser fließt. Eine halbrunde Öffnung an der Basis des Troges deutet darauf hin, daß dieser zu beheizen ist. Im Vordergrund links schiebt ein Mann einen Schubkarren mit einem Korb, rechts liegen einige Fässer am Boden.
+
+Offensichtlich handelt es sich um eine Darstellung der Salzgewinnung. Die Verbindung von Hauptbild und Emblem geschieht durch die Doppeldeutigkeit des Wortes »sapor« im Lemma. In der Bedeutung »Geschmack« wird auf die Würze des Salzes angespielt; mit der übertragenen Bedeutung »Verstand, Wissen« weist das Lemma auf die Bibliothekszene A.
+
+A2 NON ABSQUE LABORE - Das Bild zeigt Bauern bei der Feldarbeit mit gebündelten Getreidegarben und auf der Heimkehr aus dem Weinberg.
+
+
+[[File:Band02_chunk006_p001_img002.jpg|thumb]]
+
+
+Bı
+
+So wie das Landleben Arbeit und Mühe erfordert, um Ertrag zu erzielen, bedarf auch das Studium des Gelehrten der Anstrengung und Ausdauer, um zur Erkenntnis zu führen.
+
+A<sub>3</sub> HAEC SEMITA LAUDUM – Eine Frau sitzt lesend an einem Tisch unter einem Baum. Vor ihr vier weitere Bücher, ein Tintenfaß und ein Globus.
+
+Abgesehen von der Analogie zur Hauptszene könnte die ungewöhnliche Darstellung einer studierenden Frau als ein Hinweis auf die Erythräische Sibylle gedeutet werden, die Augustinus im 18. Buch Oracula de Christo in De civitate Dei erwähnt. Die heidnische Herkunft verbindet Augustinus mit der Sibylle; während diese jedoch in prophetischer Vorschau Christus nur zu erahnen vermochte, fand Augustinus nach Jahren des Studiums Gewißheit im christlichen Glauben
+
+
+== A4 RECREAT... - Fragment ==
+
+
+B<sub>1</sub> PRETIOSA LATENT – Ein Schiff mit gerefften Segeln treibt in der aufgewühlten See. Im Vordergrund rechts zwei Muscheln, die eine mit Perle. Im linken Bildfeld wird die Aussage des Emblems durch einen weiteren Sinnträger verstärkt: durch einen Bergarbeiter im Bergwerk – wohl auf der Suche nach edlem Metall.
+
+Entsprechend der Deutung, die Picinelli der Muschel mit Perle als Sinnbild der »virtus abscondita« gibt (Picinelli s. v. conchylium, Liber 6, Nr. 64 u. 69), weist das Emblem im Zusammenhang mit dem Triumph Augustins in B auf die verborgenen Fähigkeiten, die durch den Heiligen und seinen Orden im Kampf gegen die Häretiker offenbar geworden sind.
+
+B<sub>2</sub> DAT DIVISIO LUCEM – Die hinter dem Meereshorizont aufgehende Sonne vertreibt die lichtscheuen Eulen und Fledermäuse.
+
+Gleich der Morgenröte, die Tag und Nacht voneinander trennt, haben Augustinus - und sein Orden - die Irrlehre vertrieben und dem wahren Wort Gottes zu neuem Glanz verholfen.
+
+
+[[File:Band02_chunk006_p001_img003.jpg|thumb]]
+
+
+B
+
+C<sub>1</sub> DULCEDO SEQUITUR – Das stark restaurierte Bild zeigt links einen Bienenschwarm, der von einem Bienenstock zu einem Baum fliegt. Von rechts nähert sich ein Mann, der eine runde Scheibe, ein Metallbecken, trägt, auf das er mit einem Stock schlägt, um die Bienen zur Umkehr zu bewegen (vgl. Joh. Amos Comenius, Orbis sensualium pictus, Nürnberg 1658, Nr. XLVII mit Abb. und Erläuterung (Neudruck Dortmund 1978)). Das Lemma lautete wahrscheinlich ehemals: DULCEDO SEQUITUR. Diese Lesart, die auf den Honig hindeutet, verweist auf das Bekehrungserlebnis (C). Jacobus de Voragine zitiert in der Legenda aurea aus den Confessiones des Augustinus: »... du has himmlischen Wohlgeruch mich spüren lassen und meiner Geist geführt, daß ich nun dir atme, und dich schmecke und nach dir hungre und dürste . . . « (LA-Benz, S. 690). Die Süße des Honigs wird mit den Freuden des Bekehrten verglichen.
+
+
+[[File:Band02_chunk006_p001_img004.jpg|thumb|B Triumph Augustins über die Häretiker B<sub>1-2</sub> Embleme]]
+
+
+C4 PER ARDUA – Ein Mann besteigt die untersten Stufen einer Treppe, die sich um einen Felsen herum in die Höhe windet. Oben ragt aus den Wolken der Gipfel, der von drei Kränzen bekrönt ist, die sich in der Form eines Kleeblattes berühren. Die Kränze sind vermutlich als Ehren- oder Siegeskränze aufzufassen. Auf der untersten Stufe der Treppe steht GRADATIM.
+
+Augustinus betritt bei der Bekehrung gleichsam die unterste Stufe einer Treppe, die ihn über steile Felsengefahrvolle Situationen – immer höher hinaufführt, bis er schließlich am Gipfel das Geheimnis der Hl. Dreifaltigkeit selbst berührt. Das Dreiringsymbol als Zeichen der Dreifaltigkeit (vgl. RDK, Bd 4, Sp. 417) weist auf das Werk De Trinitate hin.
+
+Literatur siehe S. 245
+<!-- citation-page-bottom: Band02 p251 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=2 -->
+{{End}}

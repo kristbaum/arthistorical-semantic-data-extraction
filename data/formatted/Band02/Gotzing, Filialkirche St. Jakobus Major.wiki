@@ -1,0 +1,176 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=503
+|Originalseitenbis=508
+|Lemma=Gotzing, Filialkirche St. Jakobus Major
+|Typ=Sakral
+|Ort=Gotzing
+|davor=Frauenried, Filialkirche Mariä Geburt
+|danach=Grund, Kapelle zum Grundnerhof gehörig
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Filialkirche, Gemeinde Weyarn, Pfarrei Neukirchen, Erzdiözese München und Freising; z. Z. der Ausmalung war die Pfarrei Neukirchen dem Augustinerchorherrenstift Weyarn inkorporiert, Landgericht Aibling
+
+'''Patrozinium:''' St. Jakobus Major
+
+'''Zum Bauwerk:''' Anstelle eines Baus von 1161 wurde im 15. Jh. ein spätgotischer Bau errichtet. 1761 wurde das LHs neu eingewölbt und der Innenraum mit Stuck und Fresken ausgestattet. Weihe 17. 8. 1761
+
+Einfacher Saal zu drei Jochen; im W Empore. Wenig eingezogener AR zu zwei Jochen mit dreiseitigem Schluß; Pilastergliederung. – Beleuchtung im LHs gleichmäßig von S und N, im AR von S und im Chorschluß
+
+'''Auftraggeber:''' Propst Augustin Hamel von Weyarn (1753–66). Ab 1756 wurde in der Pfarrei Neukirchen ein Wohltäterverzeichnis geführt, in dem es heißt: »Im Jahre 1761 wurde unter Propst Augustin das Gotteshaus St. Jakobi Apostoli durch nit wenige Unkosten vollkommen repariert und in wohl recht schönen und herrlichen Stand gesetzt.« (frdl. Mitt. Geistlicher Rat Ernst Kretschmer, Holzolling)
+
+'''Autor und Entstehungszeit:''' A ist signiert: Joh. Georg Gaill pinx. 1761. Das Datum der Ausmalung findet sich noch einmal am Chorbogen in einem Chronogramm in der Inschrift EX HOC SPLENDOREM RECEPI. Die Ausmalung der Kirche in Gotzing ist das zweite Werk des Aiblinger Malers Johann Georg Gaill (* 1721 Friedberg † 1793 Aibling) in der Pfarrei Neukirchen (s. Reichersdorf, S. 549)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, A<sub>1-6</sub>) flache Korbbo-gentonne mit Stichkappen, im AR (B, C, a-f) ist das spätgotische Gewölbe zu einer Spitzbogentonne mit Stichkappen verschliffen
+
+Rahmen: A Stuckprofil, B und C Stuckprofil, an den Seiten ornamentiert, A1-6 einfache Ornamentkartuschen, a-f Stuckprofilmedaillons mit Puttoköpfchen als oberer Abschluß
+
+Technik: Fresko; A, B, C polychrom, A1, 2, 5, 6 monochrom blaugrün, A3,4 monochrom karmin, a, c, d, f monochrom karmin, b und e monochrom blaugrün
+
+Maße: A Höhe 6,30 m; 7,50 × 4,80
+
+B Höhe 6,10 m; 1,40 × 2,70
+
+C Höhe 6,10 m; 1,40 × 2,70
+
+Erhaltungszustand und Restaurierungen: Bei der letzten Restaurierung 1960 durch Sebastian Hausinger, München wurden die Fresken gereinigt und ausgebessert. Die Farbsubstanz ist durchweg gut erhalten. Gekittete Risse in A; in B und C unerhebliche Haarrisse
+
+
+== Beschreibung ==
+
+
+Die Gesamtdekoration der Decken in Gotzing liegt qualitativ unter der der übrigen Kirchen der Pfarrei Neukirchen, die etwa gleichzeitig von Gaill ausgemalt worden sind. Während dort Stukkatoren am Werk waren, die die Rocaille anwenden, arbeitet der Stukkator von Gotzing noch mit den Formen der Stilstufe um 1730 und bringt nur selten (etwa an den Rahmen der Medaillons A1-6) die Andeutung einer Rocaille. Dies und die Unbeholfenheit in der Gesamtanordnung und Detail der Ornamentik lassen vermuten, daß kein ausgebildeter Stukkator am Werk war. Das Bildfeld A übergreift die beiden östlichen LHs-Joche; im AR ist die Jochteilung beibehalten worden, was der Zeitstufe von 1761 nicht entspricht und bei Gaill ungewöhnlich ist. Diese Anordnung geht offensichtlich auf den Stukkator zurück.
+
+
+[[File:Band02_chunk011_p002_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p503 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=3 -->
+<!-- citation-page-top: Band02 p504 -->
+
+<!-- header: GOTZING -->
+
+<!-- header: GOTZING -->
+
+A KREUZESPROBE Das sehr lange und verhältnismäßig schmale Bildfeld zeigt eine einansichtige Szene. Der Aufnahmestandpunkt liegt unter dem westlichen Bilddrittel. Um das lange Format zu bewältigen, bringt Gaill einen extrem tiefen Vordergrund, der ins Bild einführt. Hier, auf einer Wiese mit einer tief ausgehobenen Grube, liegen die drei Kreuze von Golgotha. In ihrer Anordnung und Verkürzung in die Tiefe wird versucht, den weiten Vordergrund als Raum faßbar zu machen.
+
+Die eigentliche Handlung ist in der Mittelzone des Bildes in einer eng gedrängten, figurenreichen Szenerie zusammengezogen. Hier sieht man die Kaiserin Helena und den Bischof Makarios von Jerusalem mit ihrem Gefolge. Eine todkranke Frau wird, um das richtige Kreuz herauszufinden, auf die Kreuze gelegt. Als sie das Kreuz Christi berührt, wird sie gesund. Dieser Augenblick ist hier dargestellt.
+
+Dem fast leeren Vordergrund entspricht die Hintergrundlandschaft mit Hügeln und einzelnen Palmen, über der ein friedlicher Himmel mit rosigen Wolken ausgespannt ist. Der Himmel ist hier nicht der Schauplatz überirdischer Erscheinungen, die an der irdischen Szene beteiligt sind; lediglich zwei kleine Putti sind in einer gelblichen Aufhellung am oberen Bildrand zu sehen als Erinnerung an die traditionelle Gloriendarstellung.
+
+Die drei Bildzonen haben räumlich wenig miteinander zu tun: sie sind weniger hintereinander als übereinander angeordnet. Dadurch und durch die Konzentration der figürlichen Darstellung auf das seichte Mittelfeld entsteht kein Raumkontinuum, ebensowenig wie eine Höhenillusion. Die üblichen Merkmale der Raumkonstruktion im barocken Deckenbild sind hier im volkstümlichen Bereich aufgegeben.
+
+Durch die Farbigkeit wird die Flächigkeit des Deckenbildes unterstützt: hier entsprechen sich Vorder- und Hintergrundlandschaft farblich in ihren Gelb-Ocker-Braun- und Grünwerten. Die Farben, die in der Mittelzone bei der Darstellung der Figuren verwendet sind - Gelb, Karmin und Blau - werden in der Himmelszone in lichteren Werten wieder aufgenommen, auch in der Farbgebung ein ornamental-flächiges Prinzip.
+
+A<sub>1-6</sub> KREUZESTHEMEN Sechs Medaillons an den Gewölbezwickeln begleiten das Hauptbild.
+
+B ST. HELENA Auf einem kleinen Hügel im Vordergrund kniet die hl. Kaiserin Helena und hält das aufgefundenen Kreuz Christi, das in der Mittelachse das Bildfeld beherrscht. Ein Baum am linken Bildrand und eine aufragende, in jäher Verkürzung gegebene Architektur rechts im Hintergrund stehen mit der Hauptdarstellung in keinem logischen räumlichen Zusammenhang. Der Eindruck der Addition einzelner Versatzstücke, aus denen die Szenerie aufgebaut ist, wird durch das aufragende Kreuz noch unterstützt, das bis zum oberen Bildrand reicht und das Bild in zwei Hälften teilt.
+
+In der Farbigkeit herrschen karminrosa Werte vor, die, nach Grau, Gelb oder Braun hin gebrochen, in Himmel, Architektur und Gewand auftreten und das Bild in die Farbigkeit der Dekoration einbinden.
+
+C ENTHAUPTUNG DES JAKOBUS MAJOR Der hl. Jakobus kniet im Zentrum des Bildes auf einer Steinplatte, mit gefalteten Händen und zum Himmel erhobener Augen. Dort wird in einer Wolkenöffnung ein Putto sichtbar. Neben dem Heiligen steht der Henkersknecht mit erhobenem Schwert. Ein Jude – links am Bildrand – deutet erregt mit der Hand auf den Apostel, seitlich dahinter präsentiert ein Hoherpriester ein aufgeschlagenes Buch. Am rechten Bildrand ist ein römischer Soldat mit Helm und Hellebarde wiedergegeben. Die ganze Szene spielt auf einer in den Bildvordergrund geschobenen bühnenartigen Rampe, die nach hinten jäh abfällt. Dort erscheinen – zum Teil sind nur die Oberkörper sichtbar – Männer und Frauen als Zuschauer des Martyriums.
+
+Das Bild wiederholt bis ins Detail die Darstellung der Enthauptung des Apostels Paulus von Johann Baptist Zimmermann in Weyarn (E, S. 618). Der Einfluß Zimmermanns ist nicht nur in dieser Übernahme faßbar, sondern erstreckt sich auf das gesamte Schaffen Gaills, besonders was die Figurentypen und die Bestandteile der Bildschauplätze betrifft.
+
+a-f JAKOBUS-SZENEN Sechs Bildmedaillons in den Gewölbezwickeln des Chors begleiten die Hauptbilder. Als Relikt der Jocheinteilung sind b und e durch ein ornamentiertes Stuckband verbunden
+
+
+== Ikonographie ==
+
+
+Die Bildinhalte der Fresken von Gotzing beziehen sich zunächst auf den Apostel Jakobus Major als Kirchenpatron. Ihm sind das Hauptbild C und die sechs begleitenden Medaillons a-f gewidmet. Die hl. Kaiserin Helena ist die zweite Patronin Gotzings: Aus den Themen, die ihrer Ikonographie entnommen sind (A und B) ist als dritter Themenkreis eine Kreuzesikonologie entwickelt worden. Zu diesem Zyklus gehören A und A<sub>1-6</sub>.
+
+A KREUZESPROBE Das Hauptbild schildert das Wunder, durch das unter den drei Kreuzen von Golgotha das Kreuz Christi herausgefunden wurde (AASS Maii, Tom. 1, 3.5., S. 366; LA-Benz, S. 384). Es ist von sechs Darstellungen begleitet, die, jeweils paarweise angeordnet, sich auf drei Aspekte der Kreuzesikonologie beziehen: A1 und A2 bringen teleologische Kreuzesthemen, A3 und A4 antetypische Vorbilder, A5 und A6 historische Szenen.
+
+A1 DAS LEBENDE KREUZ In der Mitte ist ein Kruzifixus zu sehen, eine weibliche Gestalt weist darauf, während sich – am linken Bildrand – eine verschleierte Gestalt abwendet und flieht. Rechts eine Schar Betender. Es handelt sich wohl um das allegorische Bildthema des lebenden Kreuzes, das die Kreuzigung Christi als den Sieg der Kirche über die Synagoge, des Neuen Bundes über den Alten, veranschaulicht {ZITAT|NNN}.
+
+
+[[File:Band02_chunk011_p003_img001.jpg|thumb|A Kreuzesprobe]]
+<!-- citation-page-bottom: Band02 p505 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=4 -->
+<!-- citation-page-top: Band02 p506 -->
+
+<!-- header: GOTZING -->
+
+<!-- header: GOTZINO -->
+
+
+[[File:Band02_chunk011_p004_img001.jpg|thumb|A<sub>5</sub> Schlacht an der Milvischen Brücke]]
+
+
+
+[[File:Band02_chunk011_p004_img002.jpg|thumb]]
+
+
+Kreuz, Einsiedeln 1964). In Gotzing ist es in reduzierter Form dargestellt durch die Figuren des Kruzifixes, der auf diesen weisenden Ecclesia und der entfliehenden Synagoge.
+
+A2 AUFERSTEHUNG DER TOTEN (Mt 24, 29–31) Die Gräber öffnen sich, die Toten stehen auf, am Himmel erscheint das Zeichen des Kreuzes, während Engel die Posaunen blasen. Das Kreuz ist hier als Überwinder des Todes angezeigt.
+
+A<sub>3</sub> EHERNE SCHLANGE Die Eherne Schlange, die Moses auf das Geheiß Gottes errichtete (Num 21, 6–9), ist ein geläufiges antetypisches Vorbild für das Kreuz Christi (LCI, Bd 1, Sp. 583–86).
+
+A4 DER KREUZESBAUM Ein belaubter Baum, dessen Äste in Kreuzesform wachsen. Es handelt sich um den Baum des Lebens, der in der Mitte des Paradieses stand und antetypisches Vorbild für das Kreuz ist; seine Geschichte wird im Nikodemus-Evangelium erzählt (Hennecke-Schneemelcher, Bd 1, S. 349): Als Adam erkrankte, ging Seth zu der Pforte des Paradieses, um Öl vom Baum des Lebens zu holen. Der Engel Michael gab ihm einen Zweig davon, den Seth auf das Grab Adams pflanzte. Aus dem Holz dieses Baumes wurde endlich das Kreuz Christi gemacht. Kreuzesbaum und Baum des Lebens werden oft gleichgesetzt, sind aber streng genommen nicht dasselbe. Der Baum des Lebens ist Antetypus für das Kreuz, der Baum des Kreuzes, aus dessen Reis gewachsen, ist eine Gleichsetzung mit dem Kreuz Christi. Parallel zur Eherne Schlange kommt hier eher der typologische Bezug in Frage (vgl. LCI, Bd 1, s. v. Baum, Sp. 260–64).
+
+A5 SCHLACHT AN DER MILVISCHEN BRÜCKE Über einer Schlachtszene erscheint in Wolken strahlend das Kreuz. - Ein wichtiger Bestandteil der Kreuzlegende ist der Bericht von der Vision des Kaisers Konstantin vor der Schlacht gegen Maxentius, in der ihm ein Sieg im Zeichen des Kreuzes verheißen wurde. Das Fresko zeigt die Kreuzeserscheinung am hellen Mittag und das Kreuzeszeichen auf den Fahnen der siegreichen Truppen Konstantins wie es bei Ribadeneira-Hornig beschrieben ist (Bd 1, 3.5. Fest der Erfindung des Hl. Kreuzes, S. 678).
+
+A6 KREUZÜBERFÜHRUNG Der Kaiser Heraklius, das Kreuz auf den Schultern, nähert sich dem Stadttor von Jerusalem. Ein Page begleitet ihn und trägt seine Krone. - Als Kaiser Heraklius nach dem Sieg über König Chosroes II. und der Rückeroberung des Kreuzes Christi in Jerusalem einziehen wollte, schlossen sich vor ihm die Stadttore durch ein Wunder und öffneten sich erst, als er die kaiserlichen Gewänder abgetan hatte und mit dem Kreuz auf dem Rücken einzog (LA-Benz, S. 756 f.; Ribadeneira-Hornig, Bd 2, 14.9. Fest der Erhöhung des Hl. Kreuzes, S. 383 f.)
+
+C ENTHAUPTUNG DES JAKOBUS MAJOR Als erster der Apostel erlitt Jakobus d.Ä. im Jahr 44 unter Herodes Agrippa den Martertod (Act 12, 2). - Der Jude links im Vordergrund ist sicher der Hohepriester Abiathar, der Jakobus fangen und an Herodes ausliefern ließ, dargestellt (AASS Julii, Tom. 6, 25.7., S. 9–12; Ribadeneira-Hornig, Bd 2, 25.7., S. 95 f.); die Figur ist wohl als Schriftgelehrter bezeichnet; den Hohenpriester dahinter kennzeichnen Ephod und Mitra. In dieser Gruppe 
+
+
+
+[[File:Band02_chunk011_p004_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p004_img004.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p004_img005.jpg|thumb|ist sicher der Hohepriester Abiathar, der Jakobus fangen und an Herodes ausliefern ließ, dargestellt (AASS Julii, Tom. 6, 25.7., S. 9–12; Ribadeneira-Hornig, Bd 2, 25.7., S. 95 f.)]]
+
+
+
+[[File:Band02_chunk011_p004_img006.jpg|thumb]]
+
+
+links im Vordergrund ist durch das weite Gewand und eine Art Mitra, die mit hebräischen Schriftzeichen versehen ist, wohl als Schriftgelehrter bezeichnet; den Hohenpriester dahinter kennzeichnen Ephod und Mitra. In dieser Gruppe 
+<!-- citation-page-bottom: Band02 p507 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=5 -->
+<!-- citation-page-top: Band02 p508 -->
+
+a-f JAKOBUS-SZENEN in chronologischer Folge:
+
+c BERUFUNG DES JAKOBUS (Mt 4, 21) Am Ufer eines Sees sind Fischer mit Kahn und Netz beschäftigt. Jesus erwählt Jakobus, Sohn des Zebedäus und der Maria Salome, und seinen jüngeren Bruder Johannes als Jünger.
+
+a BEKEHRUNG DES HERMOGENES Auf einer Wiese steht der Apostel Jakobus in Pilgertracht inmitten einer Menschenmenge. Ein Teufel bringt den Zauberer Hermogenes gebunden zu ihm. - Es handelt sich um die Legende, nach der Hermogenes seinen Jünger Philetus zu Jakobus gesandt hatte, um den Apostel vom Glauben abzubringen. Philetus wurde von Jakobus bekehrt und deshalb von Hermogenes verzaubert. Jakobus aber befreite den Philetus, worauf der Zauberer Teufel sandte, um den Apostel zu fangen; dieser aber befahl den Teufeln, den Hermogenes gebunden vor ihn zu bringen. Schließlich ließ sich Hermogenes bekehren. Der kniende Mann auf der rechten Bildseite ist wohl Philetus (LCI, Bd 7, Sp. 24; Ribadeneira-Hornig, loc. cit., S. 95).
+
+f MARIA DEL PILAR Der Apostel kniet in Pilgerkleidung vor einer Säule, auf der Maria steht; Engel umgeben sie. Im Hintergrund ist eine Stadt zu sehen. Bei seiner Mission in Spanien erschien Maria dem Jakobus in der Nähe der Stadt Saragossa auf einer Säule und befahl ihm, am Ort ihrer Erscheinung eine Kirche zu bauen (Ribadeneira-Hornig, loc. cit., S. 94 f.)
+
+e GRAB DES JAKOBUS Am Ufer des Meeres, an dem ein Kahn liegt, stehen mehrere Männer und weisen auf die Leiche des Apostels, die in Gestein eingebettet liegt. Die Legende von der Überführung des Apostels Jakobus nach Galizien (erstmals bei Honorius von Autun, PL, Bd 94, Sp. 986; LA-Benz, S. 530; Ribadeneira-Hornig, loc. cit., S. 96; in AASS, loc. cit., S. 12 erwähnt, aber angezweifelt) berichtet, daß der Leichnam des Jakobus von seinen Jüngern auf ein Schiff gebracht wurde, das von einem Engel nach Galizien (in die Gegend von Santiago) geführt wurde. Nach der Landung wurde der Leichnam auf einen Felsen gelegt, der nachgab und sich zu einem Grab formte.
+
+d DER ERHÄNGTE JUNGLING Die Bilder b und d stellen zwei Pilgerwunder dar, die es in der Jakobuslegende in großer Zahl gibt. - Ein Pilgerpaar steht unter einem Galgen mit einem Erhängten. Es handelt sich um den Sohn eines Elternpaares, das sich auf der Pilgerreise nach Santiago de Compostela befand. Auf der Reise wurde der Jüngling unschuldig des Diebstahls bezichtigt und gehenkt. Als die Eltern von Santiago zurückkamen, fanden sie ihren Sohn am Galgen lebend vor (AASS, loc. cit., S. 50, LA- Benz, S. 533).
+
+b ERWECKUNG DES SELBSTMÖRDERS Auf einer Wiese kniet Maria; bei ihr steht – unter anderen – ein Jüngling. - Hier handelt es sich wohl um die Legende vom Jüngling, der eine Wallfahrt zum hl. Jakobus von Compostela machte und unterwegs in Sünde fiel. Vom Teufel wurde er in einem Traumgesicht veranlaßt, sich zur Buße selbst zu töten. Jakobus aber führte die Seele des Toten auf eine schöne Wiese, auf der Maria ihn wieder zum Leben erweckte (AASS, loc. cit., S. 54–55, LA-Benz, S. 534 f.).
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 2, S. 45 f. KDB I OB (2), S. 1460 f.
+
+Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nach den Tagebüchern des Chorherrn L. J. Ott, in: Beiträge zur altbayerischen Kirchengeschichte, Bd 30, 1976, S. 117.
+
+{{End}}

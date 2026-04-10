@@ -1,0 +1,54 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=137
+|Originalseitenbis=137
+|Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Prälatenkapelle
+|Typ=Sakral
+|Ort=Beuerberg
+|davor=Beuerberg, ehem. Augustinerchorherrenstift, Festsaal
+|danach=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<b>Prälatenkapelle</b> im ehem. Stiftsgebäude
+
+'''Zum Bauwerk:''' Die Prälatenkapelle befindet sich im ersten Stock des 1729-53 errichteten Stiftsgebäudes. - Querrechteckiger Raum (2,75 × 5,30 m), im O stark eingezogener, rechteckiger AR (2,75 × 2,15 m); Fenster nach N und S
+
+'''Auftraggeber:''' Propst Dominikus Lechner von Beuerberg (1752–70)
+
+Autor und Entstehungszeit: Der Stuck der Prälatenkapelle stammt ebenso wie der des Beuerberger Festsaals von Franz Doll. Der Festsaal ist 1758 datiert. Die Ausstattung der Prälatenkapelle dürfte etwa gleichzeitig entstanden sein. Der Maler der Kartuschbilder ist nicht bekannt.
+
+
+== <b>Befund</b> ==
+
+
+Träger der Deckenmalerei: Zwickel einer ovalen Flachkuppel im AR
+
+Rahmen: Rocaille-Ornamentkartuschen
+
+Technik: Ol auf Putz; polychrom Maße: 1–4 Höhe: 3,00 m; 0,30 × 0,25
+
+Erhaltungszustand und Restaurierungen: Alle vier Kartuschen sind wohl im 19. Jh. stark übermalt worden, so daß vom ursprünglichen Zustand wenig erhalten ist.
+
+
+== Bildabfolg ==
+
+
+Die kleinen Bildfelder zeigen Darstellungen der Evangelistensymbole, dazu jeweils ein Tintenfaß mit Feder und ein Buch
+
+Literatur siehe S. 142
+
+[[File:Band02_chunk003_p019_img001.jpg|thumb]]
+[[File:Band02_chunk003_p019_img002.jpg|thumb]]
+[[File:Band02_chunk003_p019_img003.jpg|thumb]]
+[[File:Band02_chunk003_p019_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p137 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=20 -->
+{{End}}

@@ -1,0 +1,496 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=73
+|Originalseitenbis=93
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt
+|danach=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+== Alter Festsaal ==
+
+
+'''Zum Bauwerk:''' Der dreiflügelige, im S an die Klosterkirche angrenzende Konventbau wurde 1669-71 über dem spätgotischen Erdgeschoß mit Kreuzgang aufgeführt. Baumeister und Stukkator des Festsaals war Caspar Feichtmayr. Der Alte Festsaal liegt im zweiten Geschoß des am 29. 5. 1670 noch unter Abt Amand Thomamiller (1661–71) begonnenen Westtrakts.
+
+Querrechteckiger Saal (9,30 × 18,60 m); Belichtung durch sechs Fenster von W. Türen auf der N- und S-Seite
+
+'''Auftraggeber:''' Abt Placidus Mayr von Benediktbeuern (1671–90); sein persönliches Wappen an der Decke südlich vom Hauptbild A, Konventswappen über dem S-Portal, kurbayerisches Wappen über dem N-Portal
+
+'''Autor und Entstehungszeit:''' Für die Deckenbilder des Alten Festsaals ist als Autor Caspar Amort der Ältere überliefert (* 1612 als viertes von sechs Kindern des Floßmeisters Jakob am Orth in der Jachenau ∞ 2. 5. 1640 München mit Elisabeth Maria Kröll, 1642 kurbayerischer Hofmaler † 5. 3. 1675 München). Briefprotokolle mit den Unterschriften Amorts bezeugen dessen Anwesenheit in Benediktbeuern in den Jahren 1671 und 1674 (Oberbayerisches Staatsarchiv Tölz 569/141, 569/128, 569/245; frdl. Mitt. P. Karl Mindera †; vgl. Bauer, S. 124).
+
+Bauer (loc. cit.) schreibt Caspar Amort das Hauptbild A des Festsaals zu. Es ist als einziges in perspektivischer Untersicht angelegt und durchgeführt, vergleichbar den etwa gleichzeitigen Deckenbildern Antonio Trivas, mit dem Caspar Amort am Münchner Hof (Residenz München und Nymphenburg) zusammenarbeitete. Er verarbeitet die
+<!-- citation-page-bottom: Band02 p73 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=13 -->
+<!-- citation-page-top: Band02 p74 -->
+
+<!-- header: BENEDIKTREHERN -->
+
+<!-- header: BENEDIKTBEUER -->
+
+ikonographische Bildvorlage zu einer eigenständigen, barock-bewegten Decken-Bildkomposition.
+
+Anläßlich der Restaurierung 1977 entdeckte Weber drei Signaturen. In den Bildern M2 und M3 fand er jeweils auf dem Hundehalsband das Monogramm S. K. und auf der Rückseite von C8 die Inschrift Herrn (?) Michael Kessler Maller zu Brixen (frdl. Mitt. P. Leo Weber, Kloster Benediktbeuern). Es handelt sich um zwei Mitglieder der in Brixen ansässigen und vor allem in Südtirol tätigen Malerfamilie Kessler (Thieme-Becker, Bd 20 [1927], S. 207–209), um Stephan Kessler (*1622 Wien? †1700 Brixen) und seinen Sohn Michael (*1649 Brixen; vgl. auch die beiden Signaturen S.K. auf den Hundehalsbändern in Kesslers Ölbild in Wilten/Tirol von der Einweihung der Klosterkirche 1665).
+
+Ein Vergleich der Benediktbeurer Bilder M1-12 und C1-8 mit gesicherten Werken Stephan Kesslers in Schloß Schenna bei Meran (Walter Frodl, Kunst in Südtirol, München 1960, S. 72, Abb. 119) ergibt in allen Punkten eine solche Übereinstimmung, daß die Autorschaft Stephan Kesslers und seines damals etwa 25jährigen Sohnes Michael als gesichert angesehen werden kann.
+
+Auch die Begleitbilder A1-4 sind Stephan und vielleicht Michael Kessler zuzuschreiben. Im Gegensatz zum Hauptbild A von Amort kopieren A1-4 die Bildvorlagen detailgetreu und zeigen dabei außerordentliche Ähnlichkeit mit M1-12 und C1-8: in der Darstellung der zartfarbigen Landschaften mit weiter Fernsicht und feiner Silhouette vor aufgelichtetem Horizont, in der Figurendarstellung mit rundlichen Köpfen, scharfgezeichneten Augenbrauen und Nasen (vgl. Thieme-Becker, loc. cit., zu Stephan Kessler, S. 208). Auch der Einsatz der Farbigkeit mit Buntfarben in scharf begrenzten Flächen - am auffälligsten bei Rot - und 
+
+die Darstellung der Bildarchitekturen, die viel Sinn für typische Details zeigt, stimmen überein.
+
+Nicht eindeutig zu bestimmen sind dagegen die Elemente-Darstellungen E1-4. Sie weisen einerseits Stilmerkmale Caspar Amorts auf: Großzügige Komposition, gekonnte Handhabung von Verkürzungen, plastisch durchgearbeitete, in ihren Bewegungsmotiven überzeugende Körper, dynamische Pinselführung und warme, leuchtende Farben: ähnlich wie in A ist die Bildvorlage frei verwendet. Dies gilt besonders für Aolus (E2), aber auch für Neptun (E1) und Vulkan (E<sub>3</sub>). Andere Stilmerkmale sprechen wiederum für beide Kessler: die Figur der Venus (E3), deutlicher noch die Figurengruppe der Kybele im Figuren- und Gesichtstypus und in der behutsamen, detailreichen Ausführung der Gewänder und der Hintergrundslandschaft (E4)
+
+Für die Tätigkeit Amorts wird das zweite Datum seiner Anwesenheit in Benediktbeuern, 1674, angenommen (Bauer, S. 124, Mindera, GKF 1965, S. 21 f.). Da Amort am 5. 3. 1675 starb, liegt der Schluß nahe, daß er nur das Hauptbild A vollendet, die Nebenbilder E1-4 dagegen unvollendet hinterließ, und daß nach seinem Tod Stephan und Michael Kessler mit der Weiterführung und Vollendung des Bilderzyklus beauftragt wurden.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: stuckierte Flachdecke mit breiter Schrägung an allen vier Seiten; A und A1-4 liegen an der Decke, E1-4, C1-8, M1-12 in der Schrägung
+
+Rahmen: Die Bilder sind, von schmalen Holzprofilleisten eingefaßt, in die stuckierte Decke eingelassen, wobei der Stuck schwer plastische, reich ornamentierte Rahmen für die einzelnen Bildfelder bildet
+
+Technik: Öl auf Leinwand; alle Bilder polychrom
+
+
+[[File:Band02_chunk002_p013_img001.jpg|thumb|A Der Mensch – Triumphwagen der Anima Rationalis]]
+
+
+
+[[File:Band02_chunk002_p013_img002.jpg|thumb]]
+
+
+Maße: A Höhe 5,60 m; 2,30 × 5,50
+
+A<sub>1-4</sub> Höhe 5,60 m; 1,30 × 2,80
+
+E<sub>1-4</sub> Höhe (bis zur Bildunterkante) 4,50 m; 0,75 × 1,50
+
+C₁-8 Höhe (bis zur Bildunterkante) 4,50 m; Ø 0,85
+
+M<sub>1-12</sub> Höhe (bis zur Bildunterkante) 4,50 m; 0,75 × 1,50
+
+Erhaltungszustand und Restaurierungen: Beginn einer durchgreifenden Restaurierung sämtlicher Deckenbilder, die in schlechtem Zustand waren, 1958 durch August Dirr, Regensburg (A<sub>3</sub>, A<sub>4</sub>, E<sub>3</sub>, C<sub>1</sub>). 1977/78 Vollendung durch Peter Pracher, Würzburg (alle übrigen Bilder). Die Gemälde wurden auf neue Leinwand doubliert, vom Firnis befreit, Schadstellen und Löcher ausgebessert und retuschiert. Sie sind jetzt in gutem Zustand.
+
+
+== Beschreibung ==
+
+
+A, A<sub>1-4</sub>, E<sub>1-4</sub> THEATRUM MUNDI
+
+A DER MENSCH – TRIUMPHWAGEN DER ANIMA RATIONALIS Das Hauptbild in der Mitte der Decke bildet, durch seinen Platz und die Größe ausgezeichnet, inhaltlich wie formal den Höhepunkt des Bilderzyklus. Es hat die gleiche Form wie die vier kleineren Begleitbilder A1-4: ein Querrechteck mit seitlich halbkreisförmigen, oben und unten korbbogenförmigen Ausbuchtungen. Die Bild-
+
+basis ist an der W-Seite (Aufnahmestandort unter der O-Seite).
+
+In einem Zug, der fast das ganze querformatige Bildfeld einnimmt und sich von rechts nach links bewegt, fährt ein Prunkwagen einem Tor am linken Bildrand zu. In einer Maueröffnung neben dem Tor erscheinen zwei Gerippe und blicken dem Zug entgegen; ein drittes ist unter der Öffnung dargestellt. Aus dem Tor brechen helle Strahlen, deren Ursprung eine wolkenumgebene Glorie ist. Auf dem Wagen sitzt erhöht Anima rationalis, die beide Hände betend erhoben hat. Vor ihr, als Wagenlenkerin, sitzt Voluntas, die ein Zepter in der Rechten hält. Eine Schar allegorischer Figuren, den Wagen teils ziehend, teils ihm vorausschreitend, bilden mit ihren Attributen eine bewegte und beziehungsreich komponierte Gruppe. Darüber, dem Wagen voran, schwebt ein Genius in bauschig auffliegendem Gewand, Fackel und Trompete in Händen.
+
+Die Figuren sind in einer seichten Raumschicht dicht gedrängt dargestellt. Raumtiefe ist nur an einer Stelle durch die in die Tiefe reichende Torarchitektur angedeutet, sonst erscheint der Hintergrund, der bewölkte Himmel, als Kulisse, die die Darstellung nach hinten abschließt. In der Darstellung der Figuren wie auch des Tores werden durch Untersicht und Verkürzungen gewisse illusionistische Effekte erreicht; hier wird eine Diskrepanz im Bildauf-
+<!-- citation-page-bottom: Band02 p75 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=14 -->
+<!-- citation-page-top: Band02 p76 -->
+
+[[File:Band02_chunk002_p014_img001.jpg|thumb|A<sub>2</sub> Die Lebewesen auf der Erde – Christus als Jäge]]
+
+bau sichtbar: Einerseits stammt die Anlage aus der alten Tradition der trionfi (in der Graphik und im Tafelbild), andererseits wird versucht, diesen trionfo in seiner längsparallelen Bewegung mit höhenillusionistischen Mitteln auszustatten. Dabei kommt es zu einem gewissen Zwiespalt zwischen diesen illusionistischen Mitteln und dem traditionell »planmäßig« über die Bühne gehenden Zug.
+
+Warme und leuchtende Farben herrschen im Bild vor, vor allem ein tiefes und sattes Rot, dazu Goldgelb. Der Hintergrund wird durch Grauwerte bestimmt; diesem Grau ist Violett und Blau beigemischt. Davor erscheint das Weiß in den Gewändern als Farbe, den Buntfarben Blau, Gelb, Rot in der Farbwirkung gleichgestellt. Inkarnat wird in starken Abstufungen verwendet, vom hellsten in den Frauenkörpern bis zu dem tiefdunklen in der Gestalt des gebeugten alten Mannes in der Bildmitte (Ikonographie S. 87f.).
+
+A1-4 Die vier Bilder, die am horizontalen Teil der Decke das Hauptbild begleiten, sind tafelbildmäßig angelegt; A1 und A3 Ansicht nach O, A2 und A4 Ansicht nach W: Aufnahmestandpunkt jeweils unter dem oberen (d.h. westlichen bzw. östlichen) Bildrand. Der Schauplatz ist in mäßiger Aufsicht gegeben, der Fluchtpunkt der Tiefenlinien liegt jeweils in der Bildmitte am Horizont.
+
+Der farbliche Eindruck dieser vier Bilder ist kühl und wird vor allem von der blau-grauen Tönung des Hintergrunds bestimmt. Auch die grau-grünen, stumpfen Farben der Bäume und Felsen sind in die unbunte Grundfarbigkeit mit einbezogen. Buntfarben treten vor allem an den Gewändern der Figuren auf, kleine, begrenzte Farbflächen, vorwiegend Rot, Gelb und - seltener - Blau. Die Kleidung der Christusfigur ist jeweils in Blau und Violett gehalten, das mit dem Gelb des Nimbus im Komplementärkontrast einen starken farblichen Reizwert besitzt.
+
+Die Komposition der Bilder wird durch weitgehende Achsensymmetrie bestimmt, die in A3 (Das Reich der Metalle) und A4 (Das Reich der Pflanzen) bis in Details geht. (Ikonographie S. 83–86).
+
+A1 DIE LEBEWESEN IM WASSER – CHRISTUS ALS FISCHER Das Bild zeigt eine weite Meereslandschaft, deren dunkle Wasserfläche sich in die Tiefe erstreckt. Links sieht man am Bildrand im Hintergrund eine friedliche Uferlandschaft, rechts ragen steile Felsen auf. Christus sitzt seitlich im Mittelfeld des Bildes auf einem flachen Felsen, dargestellt als Fischer mit einer Angel in Händen; er ist von drei fischenden Putti begleitet. Ihm ist auf der linken Bildseite die Gruppe des Neptun auf dem Muschelwagen und zweier Flußgötter mit Schilfhaar und Wasserkrügen entgegengesetzt; zwei weitere Meereswesen mit Wassergefäßen nehmen die Bildmitte ein. Farblich ist A1 von den vier Bildern das qualitätvollste; vor dem dunklen Meeresgrün, das in den Schaumkronen weißlich aufgehellt ist, wirken die Farben der Christusgestalt lebendig und bunt.
+
+[[File:Band02_chunk002_p014_img002.jpg|thumb]]
+
+A<sub>2</sub> DIE LEBEWESEN AUF DER ERDE – CHRISTUS ALS JÄGER In einer Waldlichtung, die an beiden Seiten von hohen Bäumen abgeschlossen ist, steht rechts Christus in geschürztem Gewand und mit angelegtem Gewehr. Er ist umgeben von den Allegorien der drei Göttlichen Tugenden. Christus zielt auf eine Schar von Tieren, die aus den Bäumen links hervorbricht. Dort sieht man im Vordergrund ein improvisiertes Zelt, aus dem ein junger Treiber, einen Stock in Händen, hervortritt. Ein Jagdnetz schließt hier in der Bildmitte die weite Wiese ab, auf der weitere Tiere dargestellt sind. Vor dem aufgelichteten Himmel im Hintergrund ragt auf einem Hügel eine Burg auf; am Fuß des Hügels kämpfen zwei Teufel und ein Drache. In einer räumlich nicht eindeutig bezeichneten Zone zwischen Vordergrund und Bildtiefe sieht man rechts die Gruppe der vier Erdteile in Gestalt männlicher Allegorien.
+
+In der Farbigkeit fällt die Konzentration der Buntfarben in der rechten Bildhälfte auf, zu der nur das Rot-Weiß des Zeltstoffes ein gewisses Gegengewicht bildet.
+
+A<sub>3</sub> DAS REICH DER METALLE – CHRISTUS UNTER ANTIKEN GOTTERN Die Mitte des Bildes nimmt ein großes, plastisch und leuchtend rot gegebenes IHS ein. Christus steht auf dem Querbalken des H und umfaßt ein großes, ebenfalls rotes Kreuz, das aus dem IHS aufragt und nicht nur farblich, sondern auch im Material ihm zugehörig ist. Zu Häupten Christi fährt Apoll-Sol auf dem Sonnenwagen. Er beugt sich nach vorne und krönt Christus mit einem Kurhut. Von rechts fliegt Merkur herbei, im Vordergrund kniet Mars, das S des IHS mit seinem rechten Arm umfassend, und in einer Säulenhalle, die das Bild nach rechts begrenzt, läßt Diana-Luna aus einem Tuch Silbermünzen fallen. Vor einer ebensolchen Säulenhalle sind auf der linken Bildseite drei Götter dargestellt: Venus und Amor kniend im Vordergrund, daneben Saturn an einer Feuerstelle stehend und darüber Jupiter, der auf einem Adler fliegend auf die Gestalt Christi deutet.
+
+Die symmetrische Komposition geht hier bis in Einzelheiten, in denen sich die Darstellungen der beiden Bildseiten entsprechen, und erstreckt sich auch auf die Farbigkeit. Dadurch wird die Gestalt Christi, relativ klein, in der Bildachse zur beherrschenden Figur.
+
+A4 DAS REICH DER PFLANZEN – CHRISTUS ALS GÄRTNER In einem von Hecken umschlossenen Garten steht in der Mitte eine Brunnenschale, die sich aus einem quadratischen Becken erhebt. Aus der Schale ragt der Kruzifixus auf, aus dessen Wundmalen Blut in die Brunnenschale und aus deren seitlichen Öffnungen weiter in das Becken fließt. Kleine Engel schöpfen aus dem Becken und gießen die Blumen in den rechtwinklig angelegten Beeten des Gartens oder sind mit anderen Arbeiten beschäftigt. Rechts, unter einer von Wein umrankten Pergola, steht Christus mit geschultertem Spaten und gibt den arbeitenden Engeln Anweisungen. Auf dem Heckenzaun stehen die allegorischen Figuren der Vier Jahreszeiten.
+
+Außerhalb des Gartens dehnt sich eine öde Berglandschaft, an der linken Seite von einer Säulenhalle begrenzt. Dort sieht man den Tod mit einem Rechen Gerippe und Leichen
+
+
+<!-- citation-page-bottom: Band02 p77 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=15 -->
+<!-- citation-page-top: Band02 p78 -->
+
+<!-- header: BENEDIKTBEUERN -->
+
+
+[[File:Band02_chunk002_p015_img001.jpg|thumb]]
+
+
+einsammelnd. Ein zweites Gerippe, eine Sichel in Händen, lauert an einem der Heckentore zum Garten.
+
+Dieses Bild, ebenso streng symmetrisch aufgebaut, hat als farbigen Hauptakzent das Rot des Blutes in den beiden Brunnenbecken.
+
+E1-4, C1-8 und M1-12 Die übrigen, kleinformatigen Deckenbilder liegen an den vier Seiten der Deckenschrägung. Alle haben ihre Basis jeweils an der Wandseite. E<sub>1-4</sub> liegen jeweils in der Mitte einer Seite. Es sind querrechteckige Bildfelder mit seitlichen halbrunden Ausbuchtungen (E1 N-Seite, E2 O-Seite, E3 S-Seite, E4 W-Seite). C1-8 liegen an den Längsseiten alternierend mit E2 und E4 sowie M1-4 und M<sub>7-10</sub>. Es sind runde Bildfelder (C<sub>1-4</sub> W-Seite, C<sub>5-8</sub> O-Seite). M<sub>1-12</sub> liegen an den Längsseiten alternierend mit C<sub>1-8</sub>, an den Schmalseiten flankieren sie E<sub>1</sub> und E<sub>3</sub>. Es sind
+
+
+[[File:Band02_chunk002_p015_img002.jpg|thumb]]
+
+
+querrechteckige Bildfelder (M1-4 W-Seite, M5-6 N-Seite, M<sub>7-10</sub> O-Seite und M<sub>11-12</sub> S-Seite).
+
+E<sub>1-4</sub> ELEMENTE (Ikonographie S. 86f.)
+
+E1 NEPTUN - WASSER Mit erhobenem Dreizack fährt der Meergott auf seinem Muschelwagen über eine weite, nur leicht bewegte Meeresfläche. Zwei weiße Pferde mit flatternden Mähnen ziehen den Wagen; den Zug führt ein Triton an, der auf dem Horn bläst.
+
+In der Farbigkeit dominieren Grau, Schwarz, dunkles Blau und Grün. Die weißen Leiber der Pferde mit den hellen Mähnen und das Inkarnat des Tritonen und des Meeresgottes leuchten lebendig vor dem düsteren Hintergrund. Die ganze Darstellung ist präzise, nicht nur in der unbunten und doch sehr delikaten Farbgebung, sondern auch in der schlanken Eleganz der Pferdeleiber und der komplizierten, halb stehenden, halb sitzenden Haltung des Gottes.
+
+
+[[File:Band02_chunk002_p015_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk002_p015_img004.jpg|thumb|A<sub>3</sub> Das Reich der Metalle – Christus unter antiken Göttern]]
+
+
+E<sub>2</sub> ÄOLUS – LUFT Auf Wolken sitzt Äolus, in einer zugleich kraftvollen und gelassenen Haltung, die Krone auf dem Haupt, von seinem wehenden roten Gewand wie von einem Nimbus umgeben. In den Händen trägt er ein Zepter und die Fesselkette für die Winde. Aus dunklen Wolken blasen in vier Richtungen die Köpfe der Winde. Überspannt wird die Gruppe von einem Regenbogen im Hintergrund. Der Kontrast des roten Mantels zum hellen Inkarnat des Äolus ist der einzige Bunteffekt vor dem düsteren Hintergrund.
+
+Als einziges der Bilder im Alten Festsaal neben dem
+
+
+[[File:Band02_chunk002_p015_img005.jpg|thumb|A<sub>4</sub> Das Reich der Pflanzen – Christus als Gärtner]]
+
+
+
+[[File:Band02_chunk002_p015_img006.jpg|thumb|C4 Cybele – Erde]]
+
+
+
+[[File:Band02_chunk002_p015_img007.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p79 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=16 -->
+<!-- citation-page-top: Band02 p80 -->
+
+<!-- header: BENEDIKTBEHERN -->
+
+<!-- header: BENEDIKTBEUER -->
+
+an der rotglühenden Esse. Die kühlen, delikaten Farben am Gewand der Venus – Zartviolett am Mantel im Kontrast zum weiß-gold-gemusterten Brokat des Kleides – bilden eine farbliche Einheit mit dem Blau und Zartviolett des Himmels vor der Tür und dem Dunkelblau im Gewand Vulkans und stehen im Gegensatz zu dem warmen Rot im Feuerschein der Esse. Hinsichtlich der Farbgebung steht diese Darstellung des Elementes Feuer den Bildern A1-4 und E1 (Neptun) am nächsten.
+
+E4 CYBELE – ERDE Vor einer weiten Landschaft liegt die Göttin, halb aufgerichtet, unter einem Baum und lehnt sich an einen Löwen. Auf dem Haupt trägt sie die Mauerkrone. Zwei Putti schmiegen sich an sie, ein dritter hält eine Getreidegarbe. Das Rot im Gewand der Cybele und das helle Inkarnat sind in Gegensatz gesetzt zu dem dunklen Grün der umgebenden Bäume. Der Himmel ist hell, blaugrau und hat lichte Wolken.
+
+C<sub>1-8</sub> CIRCULUS VICISSITUDINIS Der Zyklus ist in einem Bild (C1) thematisch zusammengefaßt. In den übrigen Bildern wird er im einzelnen ausgeführt. C1 zeigt eine große dunkle Kugel auf einem Podest, um die in Kreisform angeordnet sieben allegorische Figuren sitzen. In den Bildern C2-8 ist jeweils eine dieser Figuren die Hauptfigur: ganz im Vordergrund dargestellt, beherrscht ihre Gestalt das Bildfeld. Seitlich von ihr ergeben sich Tiefenausblicke. Die Figur ist durch Haltung, Gewand, Putz und Attribute charakterisiert; auch die Hintergrundslandschaft, ihr Zustand und ihre Bestandteile dienen zur Bezeichnung der Allegorie, zu deren Füßen jeweils – wesentlich kleiner – die im Zyklus nächstfolgende dargestellt ist, so daß als in sich mündender Kreislauf jeweils die Geburt oder Entstehung einer Eigenschaft oder eines Zustandes aus dem andern Thema der Bildfolge ist.
+
+Die Bilder sind tafelbildmäßig angelegt; die Landschaften erstrecken sich weit in die Tiefe. Auf die Darstellung schmückender Details, wie Stickereien der Gewänder, goldene Gefäße und Schmuck ist großer Wert gelegt. Die Farbigkeit wird meist durch die Farbwerte der Gewänder der großen und kleinen Allegorie bestimmt und ist durch die Ikonographie festgelegt, wie auch die je nach Thema heiteren oder düsteren Farben der Landschaft. (Einzelbeschreibung und Ikonographie S. 88, 93)
+
+M<sub>1-12</sub> MONATSZYKLUS Alle Bilder setzen sich zusammen aus einer Landschaft in jahreszeitlich typischem Zustand, in der sich Staffagefiguren bei den charakteristischen Arbeiten und Vergnügungen des Monats befinden, und einer großen allegorischen Figur im Vordergrund, die durch Kleidung, Haltung oder Attribut charakterisiert ist. Am oberen Bildrand ist jeweils das Tierkreiszeichen des letzten Monatsdrittels zu sehen, einige Bilder zeigen darunter den Monatsnamen. Es sind tafelbildmäßig angelegte Darstellungen.
+
+In der Farbigkeit unterscheiden sie sich je nach der Grundstimmung des Monats. Gemeinsam ist ihnen der punktuelle Einsatz der Buntfarben, besonders Rot, in kleinen, festumgrenzten Farbflächen. Neben diesem Rot spielt vor allem auch Weiß in den Gewändern als Kontrast eine große Rolle; auch Schwarz kann wie eine Buntfarbe verwendet sein. Schauplatz und Hintergrund wird von Grün- und Blauwerten gebildet.
+
+M1 JANUAR Wassermann – Unter grau verhangenem Himmel erstreckt sich eine verschneite Stadtlandschaft in die Ferne. Zentrum ist ein zugefrorener Fluß, auf dem sich Eisläufer tummeln. Andere sind damit beschäftigt, Schlittschuhe anzuschnallen; ein Lastschlitten wird über das Eis geschoben.
+
+Die Monatspersonifikation ist ein bärtiger Mann in vornehmer Kleidung, mit pelzbesetztem Mantel, Muff und Pelzhut.
+
+
+[[File:Band02_chunk002_p016_img001.jpg|thumb|M<sub>1</sub> Januar – Wassermann]]
+
+
+M2 FEBRUAR Fische – Den Vordergrund der Szene bildet eine Loggia, die sich in zwei Bögen nach hinten zu einem weiten Platz öffnet. Auf dem bunten Pflaster der bühnenartigen Architektur tanzen Männer in Fastnachtsverkleidung, mit schwarzen Masken, Tamburin und Fakkel. Einer reitet verkehrt herum auf einem Esel. Rechts im Vordergrund, als Allegorie des Februar, spielt ein Maskierter die Laute. Den Hintergrund bildet ein weiter, verschneiter Platz, rings von Häusern umstanden. Dort
+
+
+[[File:Band02_chunk002_p016_img002.jpg|thumb|M<sub>9</sub> September – Waag]]
+
+
+
+[[File:Band02_chunk002_p016_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk002_p016_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p81 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=17 -->
+<!-- citation-page-top: Band02 p82 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=17 -->
+
+[[File:Band02_chunk002_p017_img001.jpg|thumb]]
+
+herrscht reges Treiben mit Berittenem, Pferdeschlitten und Gruppen bürgerlich gekleideter Menschen. Das runde gelbe Sternzeichen scheint die winterliche Szene wie ein Mond zu erleuchten.
+
+M<sub>3</sub> MÄRZ Widder – Inschrift MARTIVS. Im Vordergrund personifiziert ein höfisch gekleideter Herr in eleganter Haltung den Monat. Er trägt auf der einen Hand einen Falken und führt Jagdhunde an der Leine. Den Landschaftsschauplatz bildet ein Gartenparterre mit Fontäne vor einem pavillonartigen Schloßbau. Gärtner sind mit dem Pflanzen von Bäumchen und anderen Frühjahrsarbeiten beschäftigt. Rechts, hinter einer Balustrade, führt eine Landstraße vorbei.
+
+[[File:Band02_chunk002_p017_img002.jpg|thumb]]
+
+M4 APRIL Stier – Ein Hirtenpaar verkörpert den Monat: Ein junger Mann mit einem Hirtenstab steht unter einem vollbelaubten Baum und bläst Flöte. Das Mädchen sitzt ihm zur Seite, einen Spinnrocken in Händen; vor ihr eine Geiß und ihre Zicklein. Hinter dieser Gruppe breitet sich eine bäuerliche Landschaft mit Bäumen, Feldern, Dorf mit Kirche und Bergen im Hintergrund. Bauern pflügen und säen.
+
+M5 MAI Zwillinge – Hier steht ein junger Herr in reicher, höfischer Tracht auf einer kleinen, hinten von einer Balustrade begrenzten Terrasse vor einem Rosenbogen. Sein Hut ist mit Rosen besteckt, er hält eine Laute und einen Kranz aus Rosenblüten in Händen. Neben der Terrasse wird ein Ausblick in einen Garten frei, ein festliches Parterre mit Brunnenprospekt im Hintergrund und sitzenden oder lustwandelnden Liebespaaren.
+
+[[File:Band02_chunk002_p017_img003.jpg|thumb|M<sub>11</sub> November – Schütze]]
+
+M6 JUNI Krebs – Rechts steht ein Fischer mit Angel und Netz, einen Fischlägel auf dem Rücken. Auf einer weiten Wiese sind Gruppen von Hirten bei der Schafschur oder bei der Rast dargestellt. Rechts bildet den Abschluß eine baumumstandene Kirche und ein Gehöft, links sieht man in eine weite Flußlandschaft.
+
+[[File:Band02_chunk002_p017_img004.jpg|thumb|M<sub>12</sub> Dezember – Steinbock]]
+
+M7 JULI Löwe – Ein Landarbeiter in einfacher Kleidung mit blumengeschmücktem Hut und Gürtel, an dem ein Wetzstein hängt, lehnt sich an seine Sense und hält einen Krug in Händen. Bauern in den Wiesen heuen, mähen und dengeln. Die bäuerliche Landschaft wird von Gehöften und einem Aquädukt in der Ferne begrenzt.
+
+M8 AUGUST Jungfrau – Im Vordergrund rechts steht eine Schnitterin in bäuerlicher Tracht mit Sichel und Garbe. Die helle Gestalt ist von dunklem Mauerwerk hinterfangen. Sie blickt in das Bild, wo Bauern an einem einfachen Tisch beim Mahl sitzen. Ein Dudelsackbläser spielt auf. Die Getreideernte ist in vollem Gang. Die gelben, teilweise schon abgeernteten Felder erstrecken sich bis zu einem baumbestandenen Fluß, an dessen jenseitigem Ufer ein Herrensitz aufragt.
+
+[[File:Band02_chunk002_p017_img005.jpg|thumb]]
+
+M9 SEPTEMBER Waage – Links steht unter einem Baum ein höfisch gekleideter junger Mann mit erlegten Rebhühnern in der Hand. Dazu trägt er einen Vogelkäfig und hat einen Jagdhund bei sich. Auf der anderen Bildseite sieht man ein junges Paar beim Apfelpflücken. Kinder balgen am Boden. In der weiten Landschaft sind die Netze der Vogelsteller ausgespannt. Im Hintergrund ragt ein mauerumgebenes Schloß auf (Abbildung S. 81).
+
+[[File:Band02_chunk002_p017_img006.jpg|thumb]]
+
+M<sub>10</sub> OKTOBER Skorpion – Das Bild zeigt die Weinlese. Ein Winzer sitzt im Vordergrund links auf einem Weinfaß; er hält ein gefülltes Glas in der Hand. Kopf und Lenden sind rebenbekränzt. Hinter ihm sieht man in einen Bottich geerntete Trauben. Ein Weinberg, Gehöfte, Gärten und Gebüsch bilden die friedliche bukolische Landschaft, in der überall Winzer mit der Weinlese beschäftigt sind.
+
+M11 NOVEMBER Schütze – Inschrift NOVEMBER. Man sieht in den großen umzäunten Hof eines bäuerlichen Anwesens, hinter dem die Dorfkirche und ein Turm dargestellt sind. Die Bäume sind kahl. Im Vordergrund steht ein Bauer vor einem Gatter. Er trägt Gänse und einen Korb mit Eiern und ist offenbar auf dem Weg zum Markt. Im Hof brechen drei Frauen Flachs.
+
+[[File:Band02_chunk002_p017_img007.jpg|thumb]]
+
+M<sub>12</sub> DEZEMBER Steinbock – Den Schauplatz bildet eine kleine winterliche Stadt, mit Mauern, Turm und Kirche, an einem Fluß gelegen. Hauptthema ist hier das Schlachten des Viehs, das Kochen und Braten. Von allen Seiten wird Schlachtvieh herangetrieben. Kinder, von ihrer Mutter begleitet, spielen mit einer Schweinsblase. Im Vordergrund ein Wirt mit einer Platte voller Fleischspeisen vor dem Kaminfeuer, über dem ein Kessel hängt.
+
+[[File:Band02_chunk002_p017_img008.jpg|thumb]]
+
+== Ikonographie und Ikonologie ==
+
+A, A 1-4 und E 1-4 THEATRUM MUNDI Die Hauptbilder des Alten Festsaales von Benediktbeuern und die Elementebilder E1-4 bilden ein geschlossenes Programm, das in allen Einzelheiten einer Dillinger Dissertation entnommen ist (Bauer, S. 126-34). Diese Dissertation, ein Werk der beiden Freiherren Sebastian Franz und Philipp Constanz von [Thurn und] Taxis, Hg. Ferdinand Visler, erschien 1664 bei Ignaz Mayer in Dillingen und hat den Titel: »Philosophia sacro-profana logicam, physicam et metaphysicam disputationem complexa«. Im zweiten Teil des Werkes werden in einem »Theatrum Universi« oder »Theatrum Mundi« (Taxis, S. 139) die Erscheinungsformen der Welt, die Tiere, Steine, Pflanzen usw. in ein
+<!-- citation-page-bottom: Band02 p83 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=18 -->
+<!-- citation-page-top: Band02 p84 -->
+
+<!-- header: BENEDIKTBEUERN -->
+
+[[File:Band02_chunk002_p018_img001.jpg|thumb]]
+
+wissenschaftliches System gebracht, gleichzeitig aber als Zeugen der Größe Gottes und Künder seines Ruhms aufgeführt.
+
+Die Kupfer zu den einzelnen »Cogitationes« schuf Christoph Sporer, und diese sind die unmittelbaren und genau befolgten Vorbilder für die Bilder A<sub>1-4</sub>:
+
+A1 DIE LEBEWESEN IM WASSER – CHRISTUS ALS FISCHER Im Kapitel »De Viventibus Sensitivis« (Taxis, S. 111) findet sich die Darstellung des fischenden Christus mit der Unterschrift »Benedicite cete, et omnia quae moventur in Aquis, Dominum. Dan.III.« (= Dan 3, 79). Darunter folgt eine wissenschaftlich-systematische Einteilung der Lebewesen im Wasser. Neben dieser zoologischen Einteilung steht eine der Erklärung der bildlichen Darstellung A1 dienende religiöse Interpretation und damit der ikonologische Schlüssel: »Ecclesia MARE est, et rubrum quidem, purpureo videlicet CHRISTI sanguine tinctum, quod Hebraei (Catholici) incolumes transeunt; Aegyptii (Haeretici) submerguntur; quod AURA Spiritus Sancti perflat; quod CHRISTUS Gratiis suis perambulat; e quo Electi PISCATU Apostolorum ad LITTUS Vitae aeternae pertrahuntur. PISCIS es o homo! inquit D. Ambrosius Hex.lib.5. Audi, quia PISCIS es: Simile est Regnum Coelorum reti misso in mare, et ex omni genere piscium congreganti. Cum autem esset impletum, duxerunt id ad littus, et sedentes elegerunt<br>optimos in vasis suis, malos autem foras miserunt. Sic erit in consummatione saeculi, exibunt angeli, et separabunt<br>malos de medio iustorum, et c. Addit deinde: Noli timere o bone PISCIS HAMVM, non occidit, sed consecrat. Tandem vero concludit laudatissimus Doctor, F.::
+
+Homo! quia PISCIS es; non te opprimant saeculi istius fluctus; si tempestas est, pete altum, et profundum; si serenitas, lude in fluctibus; si procella, cave a scopuloso littore, ne te in rupem furens aestus illidat.«
+
+Sporer folgt in seinem Kupfer der zweiten Interpretation, die das Himmelreich mit einem Netz vergleicht, das die Seelen wie Fische fängt und ans rettende Ufer bringt. Er hält sich mit seiner Illustration an gegenreformatorische, emblematische Bildtypen von Christus und den helfenden Engeln als Seelenfischer; Christus zieht an seiner Angel ein Herz aus dem Meer; er wendet sich dabei einem Engel zu, der ihm ein anderes – flammendes – Herz zur Prüfung vorweist. An dessen Angel hängt eine menschliche Gestalt, die vertrauensvoll zu Christus aufblickt; eine zweite schwimmt auf ihn zu. Zwei Putti ziehen ein Netz mit Fischen aus dem Wasser.
+
+Zur Darstellung der menschlichen Seele sind drei verschiedene traditionelle Bilder verwendet: Fische, Herzen und eine kindliche Menschengestalt; die beiden letztgenannten sind in dieser Bedeutung in der Emblematik sehr verbreitet. Christus, dem Herrn der Welt, dem die Elemente gehorchen (Mt 8, 23-27, Stillung des Seesturms), ist der Meeresgott des Heidentums, Neptun, gegenübergestellt (entsprechend bei Picinelli, Liber 3, s. v. Neptunus, Nr. 109). Auf Neptun schwimmen zwei Hunde zu: diese kann man wohl, dem Taxis-Text folgend, als Häretiker deuten – solche, die falschen Göttern folgen. Die Bedeutung des Hundes in der christlichen Bilderwelt kann sowohl positiv als auch negativ sein. Hier schließt sich die Darstellung der Bibel an, die die Bezeichnung »Hund« als Schimpfwort gebraucht und »in dem Tier das Bild gottloser, haßerfüllter, blutgieriger unsittlicher Menschen« sieht (nach Apoc. 22, 15; Dorothea Forstner, Die Welt der Symbole, Innsbruck 1967, S. 290 f).
+
+In einer zweiten Sinnschicht ist Neptun wohl auch Bild der Natur, die Meergötter mit ihren Schilfkronen und den Fischen, die sie mit dem Wasser aus ihren Urnen gießen, verweisen auf die Fruchtbarkeit des Meeres.
+
+A2 DIE LEBEWESEN AUF DER ERDE – CHRISTUS ALS JÄGER Hierzu gehört das Kapitel (Taxis, S. 129) »De Viventibus Sensitivis terrestribus« mit dem Untertitel »Laudate Dominum de Terra, Bestiae, et universa pecora, serpentes, etc. Psal. 148.« (= Ps 148, 7 u. 10).
+
+»Alia Venatio Spiritualis est, in qua Venator Christus cum comitibus Fide, Spe et Charitate. Retia sunt inspirationes divinae, quae alliciunt praepositis proemiis, illae e contra quae terrent suppliciis, tela sunt et Arma venatoria. II. Tot Ferae occurrunt venanti Christo, quot Animae peccatrices in quatuor orbis plagis, veluti silvis continentur. III. Quid enim aliud est homo ira indomitus, quam rapto catulo effera Tigris? Quid ventri deditus ac porcinae libidini, quam Sus in coeno volutatus? Quid gula distentus ac ebrietate submersus, quam vorax Lupus? Homo cum in Honore esset, non intellexit, comparatus est iumentis insipientibus (Feris) et similis factus est illis.«
+
+Christus ist der Jäger, seine Gefährten sind Fides mit Kreuz und Hostienkelch, Spes mit Anker und Caritas mit einem kleinen Kind an der Brust. Spes hat außerdem einen Jagdhund bei sich, der diesmal in positivem Sinn zu deuten ist: als »Sinnbild der geistlichen Hirten und der apostolischen Männer, die als ›Seelenjäger‹ den Verirrten nachspüren und nachgehen« (Forstner, loc. cit., S. 291). Die Netze stehen für die göttlichen Eingebungen. Die wilden Tiere stellen laut Text die sündigen Seelen aus allen Vier Erdteilen dar. Die Erdteile sind durch eigene – männliche (!) – Personifikationen wiedergegeben: Africa als Neger, Europa als junger Mann mit einem Kurfürstenhut, America im Federschmuck und Asia mit Turban.
+
+Die Tiere sind in der Taxisschen Dissertation verschiedenen menschlichen Lastern zugeordnet: Der Tiger dem Zorn, das Schwein der Unkeuschheit und der Wolf der Unmäßigkeit. Diese Tiere fehlen im Bild. Es erscheinen dort neben Tieren von eindeutig negativer Bedeutung (Krokodil, Fuchs? und Leopard) auch solche mit eindeutig positiver, wie Elefant und Hirsch. Der Löwe hat beide Bedeutungsmöglichkeiten. Die Lasteranalogie vom Text trifft hier für das Bild nicht zu. Die Tiere sind vielmehr zuerst als Repräsentanten der Tierwelt aus den verschiedenen Erdteilen anzusehen: der Hirsch für Europa, der Elefant für Asia, das Krokodil für Africa und der Leopard für America; damit aber in zweiter Sinnschicht als die Seelen aus den vier Erdteilen, denen Christus in einer »Venatio Spiritualis« zu ihrem Heile nachstellt.
+
+Der sinnbildliche Gehalt der Drachenszene ist im Stich deutlicher zu erkennen. Dort kämpfen Drache und Teufel vor einer Burgruine. Wie schon in A1 ist damit eine Antithese zu Christus gegeben: der Teufel, der die sündigen 
+
+[[File:Band02_chunk002_p018_img002.jpg|thumb|Bildvorlage zu A3]]
+
+Seelen (Drachen als altes Sinnbild der Sünde) in seine Gewalt bringt.
+
+A<sub>3</sub> DAS REICH DER METALLE – CHRISTUS UNTER ANTIKEN GÖTTERN Die Ikonographie dieses Bildes ist besonders interessant; ohne schriftliche Erklärung wäre die Deutung kaum möglich (Taxis, S. 87): »De Mineralibus seu mixtis inanimis«, Untertitel »Huius statuae caput ex auro optimo erat, pectus autem et brachia de argento, etc. Dan.II.« (= Dan 2, 32 Traum Nebukadnezars). Im Text wird daran erinnert, dass die Gelehrten den verschiedenen Planeten verschiedene Metalle zuordnen »Quam in rem septem Planetae docti mineralium Fabri METALLA conterunt . . . «
+
+Die sieben antiken Göttergestalten dieses Bildes sind also nicht als Götter, sondern als die damals bekannten Planeten zu verstehen: Apoll im Sonnenwagen – Sonne, Diana mit Pfeil und Bogen, die Mondsichel im Haar – Mond, Mars in Kriegsrüstung, Merkur mit Flügelhut und Flügelschuhen, den Caduceus in der Hand, Jupiter mit dem Adler, Venus mit dem Amorknaben und Saturn mit der Sense. Sonne und Mond sind hier in die Reihe der Planeten einbezogen. Den verschiedenen Himmelskörpern sind folgende Metalle zugeordnet: Sonne – Gold, Mond – Silber, Jupiter – Erz, Merkur – Quecksilber, Saturn – Blei, Mars – Eisen, Venus – Messing; dabei wurde unter aes (= Erz) im allgemeinen Bronze oder Kupfer verstanden. Die Götter auf diesem Bild haben fast alle ein Attribut aus dem ihnen zugeordneten Metall bei sich: Apoll fährt auf goldenen Wagen, Diana schüttet Silbermünzen aus einem Tuch
+
+<!-- citation-page-bottom: Band02 p85 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=19 -->
+<!-- citation-page-top: Band02 p86 -->
+
+<!-- header: BENEDIKTBEUERN -->
+
+[[File:Band02_chunk002_p019_img001.jpg|thumb|Bildvorlage zu A]]
+
+Saturn gießt Kugeln aus flüssigem Blei, Mars hat Waffen aus Eisen bei sich; Jupiter hält ein (erzenes) Zepter und Venus hat (Messing-)Gefäße bei sich. Dem Hauptgedanken des Zyklus entsprechend preisen die Metalle wie alles übrige Geschaffene ihren Schöpfer.
+
+Darüber hinaus spielt noch der Gedanke der Überwindung der heidnischen Antike durch das Christentum, der schon in A1 (Christus als Fischer) in der Gegenüberstellung von Christus und Neptun angeklungen ist, eine Rolle. Apoll krönt Christus und anerkennt ihn damit als Herrscher. Der Hinweis auf die Eigenschaft Christi als Erlöser der Welt im IHS, das im Bild eine so wichtige Stelle einnimmt, ist dabei von Bedeutung. Zugleich vertreten die Götter als Planeten den Makrokosmos: »wie in den anderen drei Bildern ist gleichzeitig aber die Welt wiederum ein Gleichnis für den Menschen, sind die Metalle Veranschaulichungen mensch-<br>licher Eigenschaften, in denen er zu Gott gelangen kann« (Bauer, S. 133).
+
+A4 DAS REICH DER PFLANZEN – CHRISTUS ALS GARTNER Dieses Bild hat sein Vorbild in dem Kupfer zum Kapitel »De viventibus non sensitivis seu plantis«, Untertitel »Laudate Dominum de terra, ligna fructifera, et omnes cedri. Psal. 14.« (= Ps 148, aus 1–9; Taxis, S. 97). Wie auch die übrigen Bilder A<sub>1–3</sub> folgt dieses genau der Kupferstichvorlage. Die Erklärung des Bildes besagt, daß, so wie die Fürsten der Welt in schönen Gegenden ihre Gärten anlegen und von Mauern umgeben lassen, der höchste Herr der Welt seinen Garten in der menschlichen Seele errichtet: »Vere enim hortus est microcosmos Homo
+
+omnigenis herbarum, germinum, arborum, florum, fructuum, seminum speciebus locuples et speciosus, cui pro Solo fertili est toto corpore porrecta ac diffusa anima, quam sanguis irrigat, occisum continuata moenia circumsepiunt, cuius Hortulanus Gratia Divina, cuius fructus ac flores diversi actus virtutum, quam Arbor Sanctae Crucis inumbrat.«
+
+Der Garten der Seele wird vom Blut-Christi-Brunnen getränkt. Die Brunnendarstellung entspricht ikonographisch dem spätmittelalterlichen Bildtyp des Lebens- oder Gnadenbrunnens: Das Blut des Gekreuzigten speist den Brunnen; den Fuß der Brunnenschale bilden die Evangelistensymbole (im Bild sichtbar Adler und Stier). Außer am Kreuz ist Christus noch einmal (und zwar wie in A1-3 zusammen mit kleinen Engeln) handelnd dargestellt: Als Gärtner betreut er den Garten der Seele. Die Jahreszeiten als Statuen auf der Einfriedung ergänzen das Bild vom Garten. Weinstock und Trauben sind ein traditionelles Christus-Symbol.
+
+Außerhalb dieses Gartens, der vom Baum des Kreuzes beschattet, vom Blut Christi getränkt und von der Göttlichen Gnade gepflegt wird, hält der Tod seine Ernte: Die Szenen mit den Gebeine einsammelnden Gerippen bedeuten nicht nur den leiblichen Tod, sondern die Verdammnis des Menschen, der sich außerhalb der göttlichen Gnade befindet. Auch dabei spielt wie in A1 und A3 die Gegenübersetzung Christus – heidnische Antike eine Rolle: hier erhebt sich außerhalb des Gartens - also außerhalb der Gnade – eine prächtige antikisierende Architektur.
+
+E<sub>1-4</sub> ELEMENTE-BILDER Die vier Elementebilder beziehen sich auf das Kapitel »De Elementis et Meteoris« (Taxis, S. 73) mit dem Untertitel »Ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius. Psal. 148. (= Ps 148, 8). Das zugehörige Kupfer zeigt die Vier Elemente in der allegorischen Gestalt antiker Götter. Im Alten Festsaal ist jedem Element ein eigenes Bildfeld zugeordnet, wobei die Darstellung der Cybele (E4), die traditionelle Personifikation der Erde, bis in Einzelheiten übernommen ist; bei den übrigen Elementen weichen die Festsaalbilder von der Vorlage formal ab:
+
+E1 Neptun, die Verkörperung des Wassers, hat in der Vorlage zwar den Muschelwagen, aber nicht die beiden Pferde, die ihn ziehen
+
+E2 Aolus, Personifikation der Luft, ist als Attribut noch ein Regenbogen zugegeben
+
+E3 Vulkan, Personifikation des Feuers, ist durch die Gestalt der Venus ergänzt
+
+»Den Elementen sind im Text Qualitäten zugeordnet: Elementum est corpus, quod exprimis qualitatibus duplici tantum gaudet. Quatuor enim sunt primae qualitates Calor, Frigus, Siccitas, Humiditas (Taxis, S. 73). Gleichzeitig repräsentieren diese Elemente Eigenschaften des<br>Schöpfers: >Ignis agit personam divinae Justitiae et Bonitatisc, Aer Divinam Potentiam repraesentate, Aqua Dei Sapientiam eloquitur, Terra Bonitatem conditoris referte (Taxis, S. 83). Schließlich werden diese Elemente von dreierlei statuiert: >Sal, Sulphur & Mercurium . . ., quibus
+
+
+[[File:Band02_chunk002_p019_img002.jpg|thumb]]
+
+
+placet hoc ternario elementorum LS. Trinitatem exprimi in rebus sublunaribus, Sale quidem Patrem, Filium Sulphure, Mercurio Spiritum Sanctum . . . In unserem Zusammenhang ist die enzyklopädische Steigerung, nach der diesen Elementen Qualitäten zugeordnet sind, interessant« (Bauer, S. 127). Damit treten in der Taxisschen Dissertation alchimistische Vorstellungen von der Scheidung der Bestandteile der Welt auf. »Nachdem die Materie in diese Elemente zerlegt ist und diese gesondert sind (was im übrigen nicht nur den chemischen Prozeß ermöglicht, sondern genauso die allegorisch-bildhafte Darstellung in eben dieser Sonderung), wird die >chymische Hochzeit« vorbereitet. Der Vereinigung entspringt das Endprodukt, das gleichzeitig der Anfang ist, die essentia«« (Bauer, S. 129). Der Alchimist erfährt »im Auseinandertreten der Elemente die Trennung von Subjekt und Objekt, von Mensch und Welt. Die Vereinigung der Gegensätze in der >chymischen Hochzeit< bedeutet für ihn . . . die Erfüllung des uralten Menschheitstraumes, die mystische Vereinigung mit der Gott-Natur und damit die Erhöhung über sich selbst hinaus zum Gottmenschen, zum Deus in terrise...« (Karl Popitz, Die Darstellung der Elemente in der niederländischen Graphik von 1565 bis 1630, München 1965, S. 14 f.) »Die Frage nach der ›quinta essentia‹ aus den Elementen führt uns also in den Hauptgedanken ein, von Dissertation wie Deckenbild. Naturgemäß werden wir ihn im Hauptbild antreffen« (Bauer, S. 129).
+
+A DER MENSCH – TRIUMPHWAGEN DER ANIMA RATIONALIS Das Hauptbild faßt die Grundgedanken
+
+[[File:Band02_chunk002_p019_img003.jpg|thumb]]
+
+des Programmes zusammen und erläutert den Zusammenhang der einzelnen Bilder. In ihm treten die voneinander geschiedenen Bestandteile der Welt in einen höheren Sinnbereich, in dem sie, die schon bisher als Gleichnisse gezeigt worden sind, nun dem Menschen als Krone der Schöpfung zugeordnet werden: »De Vivente Rationali seu Homine. Reges Terrae, et omnes populi, etc. iuvenes et virgines: Senes cum iunioribus laudent nomen Domini Psal. 148.« (= Ps 148, 11-12). »Prodit tandem in Theatrum Anima Rationalis, corpore e quatuor Elementis composito [!], tanquam sublimi invecta curru, quem quatuor Passiones Amor, Ira, Spes, Tristitia trahunt Voluntate Aurigante, Praecedit Ratio cum face, ut caecae praelucea voluntati: ipsi denique Sensus Externi Internorum ac Intellectus prodromi agmen ducunt, hic Cervo, ille Urso Cane alius supervectus. Hac igitur pompa Rationalis Anima Portae Aeternitatis, excubante prae foribus morte propinquat, ut Deo Glorioso, quem in huius vitae exilio ir Creaturis, veluti in speculo cognovit, sine Aenigmate in Patria comprehendat. Solus enim homo est, inquit Lactant Lib. de Ira Dei c.14 qui sentiens, capaxque Rationis intelligere possit Deum, qui opera eius admirari, Virtutem Potestatemque perspicere: idcirco enim Concilio, Mente Prudentia instructus est: ideo solus praeter caeteras Ani mantes rectus corpore et statu factus est, ut ad contempla tionem parentis sui excitatus esse videatur: ideo sermonen accepit solus, ac linguam cogitationis interpretem, u enarrare Maiestatem Domini sui posset: postremo ei cuncta subiecta sunt, ut Factori, atque Artifici Deo esset ips subjectus« (Taxis, S. 136).
+<!-- citation-page-bottom: Band02 p87 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=20 -->
+<!-- citation-page-top: Band02 p88 -->
+
+<!-- header: BENEDIKTBEUERN -->
+
+Allegorische Figuren veranschaulichen die im Text genannten Begriffe vor allem durch szenische Handlung, durch Gewand und Gestalttypus sowie durch Gesten und Mimik; die Symbol-Attribute haben nur ergänzenden Charakter.
+
+Anima rationalis sitzt im Prunkwagen, eine geflügelte Gestalt mit einem Stern auf dem Haupt, die Hände zum Gebet gefaltet (vgl. die ähnliche Figur bei Ripa, s. v. anima ragionevole e beata, S. 21). Die Wagenräder stellen die vier Elemente dar, aus denen im Text der Wagen gebildet ist: Das vordere linke Rad ist mit vier blasenden Windgottköpfen besetzt, aus dem hinteren linken schlagen Flammen, das hintere rechte ist ein Wasserschöpfrad, das vordere rechte Rad (Erde) ist nicht sichtbar.
+
+Der Wagen wird von den vier Leidenschaften (Passiones) an Bändern gezogen. An der rechten Seite der Deichsel ist Spes allein eingespannt. Sie blickt zu Voluntas und Anima rationalis im Wagen auf und setzt sich mit einer Geste der linken Hand von Ira, Amor und Tristitia – links von der Deichsel – ab. Hierdurch ist bildlich eine Wertung im Sinne von Tugend und Laster ausgedrückt. Spes ist als schöne junge Frau mit grünem Überwurf (Symbolfarbe), mit einem Anker und einem Falken auf der Hand dargestellt. Der Falke ist ein seltenes Attribut der Spes (s. RDK, Bd 6, s. v. Falke, Sp. 1314 und 1333).
+
+Ira, der Zorn, ist ein Kriegsknecht in Rüstung und Helm, das Schwert in der Hand. Sein voranstürmender Schritt und der grimmige Blick verdeutlichen die Heftigkeit der Gemütsbewegung (vgl. Ripa, s. v. ira, S. 243 f.). Amor ist durch den traditionellen geflügelten Amor-Knaben mit Bogen und Pfeilen im Köcher dargestellt. Zwischen den Beinen von Ira und Amor windet sich die Paradiesesschlange mit dem Apfel im Rachen, das Sinnbild des Sündenfalles und im engeren Sinn der Verführung; sie ist hier Amor carnalis zugeordnet. Ein bärtiger alter Mann ohne Attribut verkörpert Tristitia. Sein mühsam schleppender Gang - er ist der letzte im Gespann - sein vergrämtes Gesicht, der gesenkte Blick, das nachlässig um den Leib gelegte dunkelfarbige (blaue) Tuch veranschaulichen den lähmenden Gemütszustand (verwandt bei Ripa accidia und malenconia).
+
+In diesen vier Personifikationen sind auch die vier Lebensalter des Menschen dargestellt. Es liegt nahe, auch an die vier Temperamente zu denken: dem entsprächen Ira, Tristitia und Spes (Spes und der Falke sind Verkörperungen des sanguinischen Temperaments; s. RDK, Bd 6, s. v. Falke, Sp. 1312), doch ist diese Gleichsetzung bei Amor–Phlegma nicht schlüssig.
+
+Voluntas, der Wille, ist eine Frau mit königlichen Insignien, einem rot-goldenen Mantel, Krone und Zepter. Sie sitzt auf dem Wagen und lenkt ihn, indem sie das Zepter erhebt; sie ist nicht als blinde Gestalt gezeigt, wie sie im zitierten Text und bei Ripa (s. v. volonta, S. 518 f.) beschrieben ist.
+
+Die Stichvorlage zeigt Ratio, die Vernunft, mit einer Fackel in der Hand auf einem Elefanten dem Gespann voranreitend, ebenso die fünf Sinne, und zwar jeweils auf ihrem Symboltier. Der Text nennt cervus, ursus und canis; im Stich sind Hirsch und Hund sowie ein langhalsiges Tier (Strauß?) zu sehen. Die Auswahl der Tiere ist im Bild A dem Text und dem Stich gegenüber geändert: Im Bild fliegt Ratio über dem Zug dem Wagen voran; sie ist durch die Fackel - das Licht der Vernunft - und eine Fanfare bezeichnet. Die daran befestigte Standarte zeigt das Bild eines Elefanten. Der Elefant ist in diesem Zusammenhang als Bild der Religio zu deuten; Ripa charakterisiert den Elefanten, Plinius folgend, als »piu d'ogn' altro animale religioso« (s. v. religione, S. 431). Die Vernunft, bestimmt von der Religion, weist dem Willen den rechten Weg.
+
+Als Vorläufer gehen die fünf Sinne voran, schöne junge Frauen mit grünen Laubkränzen im Haar. Links neben Ira ist Visus zu sehen, den Blick nach oben gerichtet, in den Händen ein Teleskop und zu Füßen den scharfsichtigen Adler; Ripa (s. v. sentimenti, S. 447–49) ordnet Viso einen Geier und das Bild eines Adlers mit Jungen bei der Sonnenprobe zu. Daneben riecht Odoratus, einen Blütenkranz im Haar, an einer Rosenblüte; zu ihren Füßen hat sie einen Hund, nach Ripa eine Bracke wegen ihres außerordentlich guten Geruchsinnes. Gustus, im Vordergrund, beugt sich zu einem Apfel fressenden Affen hinab und hält einen weiteren Apfel mit abwehrender Geste von ihm fort (ähnlich in einem Stich von Maerten de Vos, s. Hans Kauffmann, Die Fünfsinne in der niederländischen Malerei des 17. Jahrhunderts, in: Festschrift für Dagobert Frey, Breslau 1943, Abb. 20). Dahinter ist Auditus dargestellt, den Kopf zum Hören geneigt, ein Jagdhorn (?) in der Linken, das sie über eine Hirschkuh hält (bei Ripa eine Laute und die Hirschkuh mit dem feinen Gehör). Unmittelbar beim Tor umfaßt Tactus eine Säule.
+
+Der Mensch, allegorisch in den Bedingungen seines irdischen Lebens veranschaulicht, nähert sich der Pforte der Ewigkeit, vor der der Tod Wache hält: Knochenmänner mit Sense und Pfeil stehen neben den Säulen; aus einer dunklen Maueröffnung, die an eine Totengruft erinnert, beugen sich Gerippe: auch hier wieder in der Antithese Tod - Leben. Die Gegenwart Gottes ist durch die strahlende Sonne hinter dem Tor bezeichnet. »Nach dem Tode brich das große Licht der Erkenntnis auf. Mit anderen Worten Die Seele erkennt ihren Schöpfer, der chymische Verschmelzungsprozeß ist zu Ende, die Vereinigung vollzogen« (Bauer, S. 131).
+
+C<sub>1-8</sub> CIRCULUS VICISSITUDINIS Zu diesem Zyklus, der bis jetzt nicht endgültig gedeutet werden konnte (Bauer, S. 125 f.), ist es gelungen, die graphische Vorlage zu finden. Es ist eine Serie von acht Kupferstichen (18 × 23 cm) nach Maerten de Vos, herausgegeben von Philipp Galle in Antwerpen o.J. (Staatliche Graphische Sammlung München, Inv. Nr. 29346-53) unter dem Titel Circulus Vicissitudinis. Die Vorlage ist, abgesehen von der Umwandlung des querrechteckigen Formats in das Rundformat, in kompositorischer Hinsicht bis ins Detail kopiert worden. In bezug auf die ikonographischen Details sind die Ölbilder nicht ganz so ausführlich, besonders was die Einzelheiten in den Hintergrundslandschaften betrifft. Die Gewänder der Vorlage wurden der Mode des 17. Jh. entsprechend verändert. Jedes Blatt hat eine lateinische Erklärung in Form eines Distichons als Unterschrift.
+
+C<sub>1</sub> CIRCULUS VICISSITUDINIS Das Bild zeigt den Kreislauf des wechselnden Glücks. Sieben Allegorien thronen um eine große dunkle Kugel, die wohl als Fortuna-Symbol gedeutet werden kann. Aufsteigend von links unter ist zuerst die Armut zu sehen, dann die demütige Gesinnung, darauf der Friede und zuoberst thronend der Reichtum. Der Abstieg beginnt mit der Vermessenheit (Stolz), dem Neid und endet unten mit dem Krieg.
+
+Das Vorsatzblatt der Kupferstichserie zeigt die gleiche Darstellung, rechts und links begleitet von großen allegorischen Figuren; Tempus als an Rücken und Haupt geflügelter Chronos mit der Sense in der Hand und der Sanduhr auf dem Kopf; Dies als junger Mann mit der Sonnenscheibe um das Haupt und Nox als weibliche Gestalt mit der Mondsichel im Haar. In diesen Figuren wird die irdische Zeit veranschaulicht, in deren gleichmäßiger Folge von Tag und Nacht sich das menschliche Leben mit seinem wechselnden Glück abspielt.
+
+C<sub>2</sub> SUPERBIA Vor einem rechts aufragenden Gebäude sitzt eine junge, schöne Frau in einem prachtvollen roten Gewand, mit Juwelen geschmückt. Ihr Haupt ist von einem nimbusähnlichen Kopfputz aus Pfauenfedern umgeben. Zu ihrer Seite hält ihr ein Affe einen Spiegel vor. In der Landschaft ist ein springendes Pferd mit rotem Zaumzeug zu sehen, dahinter der Turm von Babel. Zu Füßen der Vermessenheit erscheint die kleine Gestalt des Neides. Die lateinischen Verse der Vorlage geben folgende Erklärung: 
+
+»Stultitiae vitio permista Superbia, tristem Commoda ob alterius procreat Invidiam.«
+
+In der Vorlage hält Superbia den Spiegel selbst, der Affe fehlt. In der Landschaft sind viele antike Bauwerke zu sehen; auf einem Triumphbogen eine Gruppe von drei springenden Pferden.
+
+[[File:Band02_chunk002_p020_img001.jpg|thumb|C<sub>2</sub> Superbia]]
+
+<!-- citation-page-bottom: Band02 p89 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=21 -->
+<!-- citation-page-top: Band02 p90 -->
+
+<!-- header: BENEDIKTBEUERN -->
+
+[[File:Band02_chunk002_p021_img001.jpg|thumb]]
+
+Superbia, die Mutter und der Ursprung aller Laster **ist** nach Ripa darzustellen als »Donna bella, e altera, vestit nobilmente di rosso, coronata d'oro, di gemme in gracopia, nella destra mano tiene un pavone, e nella sinistra un specchio nel quale miri, e contempli se stessa« (Ripa, s. v. superbia, S. 479). Der Affe ist an und für sich kein Superbia-Attribut; er ist ganz allgemein ein negatives Symbol und kann für den Teufel, den Sünder und das Laster überhaupt stehen. In diesem Fall »erscheint er woh als Veranschaulichung des schändlichen und verächtlicher Charakters des Hochmütigen« (Carl Gustav Stridbeck, Bruegelstudien, Stockholm 1956, S. 75). »Das Pferd was traditionell ein Bild für den Hochmut« (Stridbeck, loc. cit., S. 77). Der Turm von Babel steht in diesem Zusammenhang als ein Bild menschlicher Vermessenheit.
+
+C3 INVIDIA Eine alte, häßliche Frau ist hier dargestellt, von Schlangen umgeben; Schlangen bilden auch ihr
+
+[[File:Band02_chunk002_p021_img002.jpg|thumb]]
+
+[[File:Band02_chunk002_p021_img003.jpg|thumb|C<sub>6</sub> Humilis Animus]]
+
+Haar und winden sich wie ein Gürtel um ihren **Leib**. Invidia ist halb entblößt; sie hält ein Herz in Händen und frißt es. Im Hintergrund sieht man eine Burg, in die aus gewitterdunklem Himmel der Blitz einschlägt und sie in Brand setzt. Über einen Wasserlauf führt eine kleine Brücke; daneben sind zwei vom Sturm geknickte Bäume. Links von Invidia sieht man auf ein vom Sturm aufgewühltes Meer, auf dem sich ein Schiff in Seenot befindet. Zu Füßen des Neides erscheint die kleine Personifikation des Krieges.
+
+»Invidia, alterius macrescens rebus opimis Lites, dissidia, et Bella cruenta parit.«
+
+In der Landschaft der Vorlage sind streitende Menschen, eine fliehende Herde mit Hirten, tote Kühe und sinkende Schiffe zu sehen. Deutlicher als auf dem Ölbild ist zu erkennen, daß Invidia auf einem aus Schlangen gebildeten Sitz dargestellt ist.
+
+[[File:Band02_chunk002_p021_img004.jpg|thumb|Bildvorlage zu C6]]
+
+[[File:Band02_chunk002_p021_img005.jpg|thumb]]
+
+Die Gestalt der Invidia folgt dem ikonographischen Schema (Ripa, s. v. invidia, S. 241 f.). Das sinkende **Schiff** kommt bei **Bruegel** als Symbol für Invidia vor (Stridbeck, loc. cit., S. 100), der Turm, in den der Blitz einschlägt, steht wohl noch in Sinnzusammenhang mit der vorhergehenden Allegorie Superbia: Wer hoch steht, fällt desto tiefer (vgl. Henkel-Schöne, Sp. 1213: Turmspitze vom Blitz getroffen).
+
+C4 BELLUM Auf einem Thron, der aus Waffen **gebildet** ist, ist die Personifikation des Krieges dargestellt, **in** Rüstung, mit Helm und Schwert. Mit der Linken schwingt sie drohend die Kriegsfackel, in der Rechten hält sie das Schwert. Im Hintergrund sieht man Belagerer mit Kanonen vor einer brennenden Stadt. Zu Füßen des Krieges erscheint die kleine Gestalt der Armut.
+
+»Bellum hostile, rapax, ardens, miserabile, dirum, Exutam profert robore Pauperiem.«
+
+[[File:Band02_chunk002_p021_img006.jpg|thumb]]
+
+[[File:Band02_chunk002_p021_img007.jpg|thumb]]
+
+Das Bild zeigt keinerlei ikonographische Abweichungen von der Vorlage; nur die Landschaft mit dem Kriegsgeschehen ist dort ausführlicher geschildert. Vor der belagerten Stadt sieht man ein brennendes Dorf, fliehende Bauern und kämpfende Soldaten.
+
+Die Gestalt des Krieges ist hier mit den ikonographischen Zügen der Ira ausgestattet, mit roter Gesichtsfarbe, Waffen und Fackel (Ripa, s. v. ira, S. 243 f.)
+
+C5 PAUPERIES Unter einem entlaubten Baum sitzt auf einem Bund Stroh über einem armseligen, aus **Ästen** zusammengefügten Gestell eine halbnackte Frau, die Gewandfetzen nachlässig um den Leib geschlungen. Als Attribute hat sie einfache bäuerliche Gegenstände, wie einen Korb, eine Kürbisflasche und umgestürztes Geschirr, bei sich. Hinter ihr ist ein halbzerstörtes Haus zu sehen. Zu Füßen der Armut sitzt die Verkörperung der Demut.
+
+[[File:Band02_chunk002_p021_img008.jpg|thumb]]
+
+<!-- citation-page-bottom: Band02 p91 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=22 -->
+<!-- citation-page-top: Band02 p92 -->
+
+<!-- header: BENEDIKTBELLERN -->
+<!-- header: BENEDIKTBEUERN -->
+
+[[File:Band02_chunk002_p022_img001.jpg|thumb]]
+
+1 Sarata, Signit Demissum atque humilem, spe pereunte, animum.« In den beiden Personifikationen und den Attributen zeigt das Bild keine Abweichungen gegenüber der Vorlage; sie ist bis ins kleinste Detail befolgt. Die – ausführlichere – Landschaft im Stich zeigt Bauern in armseligen Notbehausungen inmitten von Ruinen.
+
+Ripa beschreibt die Armut als {ZITAT|000} (s. v. povertà, S. 409) eine Kennzeichnung, der die Darstellung im wesentlichen folgt.
+
+C6 HUMILIS ANIMUS Eine junge Frau sitzt auf einem einfachen Stuhl; der dunkle Mantel, der sie im vorhergehenden Bild noch ganz eingehüllt hat, ist von ihren Schultern geglitten und gibt ein schönes Gewand frei. Sie trägt einen breitrandigen (Hirten-)Hut und in der Linken einen Hirtenstab. In der Rechten hält sie ein Herz und blickt darauf nieder. Als Attribut ist ihr ein Lamm beigegeben. In der stillen Landschaft im Hintergrund führt ein Weg zu einer Kapelle. Zu Füßen der Demut erscheint die kleine Figur des Friedens.
+
+{ZITAT|001}}
+
+Eine Variation gegenüber der Vorlage ist das Motiv des von den Schultern gleitenden Mantels, das die Allegorie als Übergangszustand mit wachsenden positiven Seiten charakterisiert. Die Figur selbst ist bei Ripa nicht zu finden; sie ist aus den Kennzeichen verschiedener Allegorien zusammengesetzt: Das Herz ist nach Ripa Kennzeichen der Reinheit, der Nächstenliebe und des Gebetes. Das Lamm ist Symbol der Milde und der Geduld, der Unschuld und der Demut. Lamm und Herz sind auch Kennzeichen der christlichen Seligkeiten: der der Sanftmütigen (Lamm) und der der Reinheit des Herzens (Herz; Ripa s. v. beatitudini S. 37 und S. 39). Wichtig ist weiterhin die Hirtentracht. Ein Hirt mit Lamm kann als Vertreter des Gegensatzes zu Superbia stehen, als Symbolfigur des anspruchslosen Lebens (das Schaf ist Bild der Notdurft des Menschen; vgl. Hubert Korneliszoon Poot, Het groot Natuur, Bd 2, Delft 1743, S. 195). Ein antithetisches Gegenüber in unserem Zyklus wäre denkbar, weil in Bild C1 mit der Allegorie des Animus Humilis der Aufstieg beginnt, mit Superbia aber der Abstieg im Kreislauf des wechselnden Glücks. In diesem Zusammenhang ist die Kapelle, zu der ein Weg führt, von Bedeutung: der Weg der demütigen Seele zum Frieden ist zugleich der Weg der inneren Einkehr und damit zu Gott.
+
+[[File:Band02_chunk002_p022_img002.jpg|thumb]]
+
+[[File:Band02_chunk002_p022_img003.jpg|thumb|C<sub>8</sub> Divitiae]]
+
+[[File:Band02_chunk002_p022_img004.jpg|thumb|Bildvorlage zu Ca]]
+
+C7 PAX Auf einem schönen, mit Ornamenten geschmückten Sessel sitzt die Figur des Friedens als schöne junge Frau in weißgoldenem Gewand mit einem Kranz auf dem Haupt. In der Rechten hält sie den Olzweig, in der Linken ein Füllhorn mit Früchten. Als Attribute sind eine Schale, eine Kugel, eine Palette, ein Stechzirkel und ein Violoncello zu sehen. Die friedliche Landschaft im Hintergrund zeigt links ein kleines Schloß, rechts, von Bäumen umgeben, ein Bauerngehöft und einen Kirchturm. Zu Füßen des Friedens erscheint die Personifikation des Reichtums.
+
+{ZITAT|002}}
+
+Das Bild weicht von der Vorlage insofern ab, als diese in der Landschaft Menschen bei der Arbeit und Muße zeigt: Bauarbeiter bauen ein Schloß, im Hintergrund bewegt sich eine Prozession, rechts ist ein Jahrmarkt zu sehen. Durch die Vorlage kann die Bedeutung der Kugel im Vordergrund gedeutet werden: Es ist eine Armillarsphäre. Der kleine dunkle Gegenstand bei der Kugel soll ein Meißel sein; er steht hier für Skulptur, die Palette für die Malerei, der Stechzirkel für die Architektur und das Violoncello für die Musik, zusammen mit der Armillarsphäre Symbole für die Künste und Wissenschaften, die im Frieden gedeihen {ZITAT|003}} (Ripa, s. v. pace, S. 376)
+
+C8 DIVITIAE Die Allegorie des Reichtums, eine prächtig gekleidete weibliche Gestalt, reich mit Juwelen geschmückt, sitzt auf einem rotbespannten Sessel. In der Linken hält sie einen goldenen Pokal, mit der Rechten greift sie in eine Truhe, die mit Geschmeide gefüllt ist. Als Attribute sind ihr wertvolle Gefäße und Geldsäcke beigegeben. Im Hintergrund sieht man eine Allee, die zu einem Schloß führt. Zu Füßen des Reichtums erscheint die kleine Gestalt der Superbia.
+
+{ZITAT|004}}
+
+Damit ist der Kreislauf des wechselnden Glücks in sich geschlossen.
+
+Die Figur des Reichtums in der Vorlage hat als Attribut noch einen Geldbeutel in Händen. In der Hintergrundslandschaft sind reichgekleidete Menschen beim Spiel und an der Tafel dargestellt.
+
+Nach Ripa hat der Reichtum (s. v. ricchezza, S. 434) ein goldenes Gewand und goldene und silberne Gefäße sowie Geschmeide bei sich. Die Allee gilt ebenso als Zeichen des Reichtums (siehe später Gravelot-Cochin, s. v. richesse, Bd 4, S. 67).
+
+Interessant am Benediktbeurer Zyklus, besonders aber an der Vorlage ist die konsequente Durchführung der allegorischen Kennzeichnung auch im Sessel der jeweiligen Gestalt, in den Bauten des Hintergrunds und in den Beschäftigungen der Staffagefiguren.
+
+M<sub>1-12</sub> MONATSZYKLUS Das Thema von der irdischen Zeit wird im Alten Festsaal durch die Folge der Monatsbilder ausführlicher behandelt. Dieser Zyklus schließt sich aber sinngemäß auch an das Hauptprogramm an, das alle Erscheinungen der Schöpfung in Zusammenhang mit dem Heilswirken sieht, und bildet dadurch eine Erweiterung und Verknüpfung beider Programme.
+
+== Spezialliteratur zum Alten Festsaal ==
+
+[Thurn und] Taxis, Sebastian Franz und Philipp Constanz, Philosophia sacro-profana logicam, physicam et metaphysicam disputationem complexa, Hg. Ferdinand Visler, Dillingen 1664.
+
+Mayr, Rudolf, Leben und Wirken des kurbairischen Hofmalers Caspar Amort, in: Altheimatland 9, 1932, Nr. 5, 9. -, Der kurbairische Hofmaler Caspar Amort, in: Heimgarten 10, 1932, S. 262 f.
+
+Bauer, Hermann, Das Programm der Deckenbilder im Alten Festsaal von Kloster Benediktbeuern, in: Zeitschrift für bayerische Landesgeschichte, Bd 35, 1972, Heft 1, S. 124–34.
+
+Literatur siehe S. 133
+<!-- citation-page-bottom: Band02 p93 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=23 -->
+{{End}}

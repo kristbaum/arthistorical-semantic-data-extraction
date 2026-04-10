@@ -1,0 +1,47 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=277
+|Originalseitenbis=277
+|Lemma=Elmau, Kapelle
+|Typ=Sakral
+|Ort=Elmau
+|davor=Dickelschwaig, Kapelle St. Gertrud
+|danach=Eschenlohe, Pfarrkirche St. Clemens
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle beim Gasthof Elmau, Privatbesitz, Gemeinde Krün, Pfarrei Mittenwald, Erzdiözese München und Freising; z. Z. der Ausmalung Grafschaft Werdenfels, Niedergericht Mittenwald  
+
+'''Zum Bauwerk:''' Neubau der kleinen Schwaigkapelle 1778 laut Inschrift an der Außenfassade über dem Eingang FW. MDCCLXXVIII A W. Die Initialen beziehen sich auf die Familie Wackerle, die in der fraglichen Zeit im Besitz der Schwaige Elmau war (frdl. Mitt. Wolfgang Ott, Garmisch).  
+
+Kleiner Rechteckraum (3,60 × 2,70 m) mit geradem Schluß, nach SO gerichtet  
+
+Autor und Entstehungszeit: Signatur im Medaillon am südöstlichen Bildrand IOS Degenhart / pinx: 1784. Joseph Degenhart (* 1746 Telfs in Tirol † 1800 Telfs?) tritt im Lechtal, Tirol, als Kirchen- und Fassadenmaler auf; von ihm stammen die Deckenmalereien in der Kreuzkapelle von Tabland um 1777, der Kapelle am Fernpaß um 1780 und die 1787 datierte und signierte Ausmalung der Sebastians- und Rochuskirche in Hägerau, (s. Gert Ammann, Das Tiroler Oberland, Die Bezirke Imst, Landeck und Reutte, Salzburg 1978, S. 74, 161 f., 241 f., 254, 369-71 mit Abb.).  
+
+Eine weitgehend übereinstimmende Freskodarstellung, die auf Johann Evangelist Holzers Krönung Mariens, nachgestochen von Johann Isaias Nilson, zurückgeht, befindet sich an einer Hauswand in Holzgau im Lechtal (Gert Ammann, loc. cit., S. 161; Margarete Baur-Heinhold, Bemalte Fassaden, München 1975, S. 73 f., Abb. 89 und 167.). Die Fassadenmalerei an der Eingangswand der Kapelle ist ebenfalls von Joseph Degenhart: In der Mitte Flucht nach Ägypten, links hl. Andreas (vielleicht Namenspatron des A. W.?), rechts Heiliger (nicht mehr zu identifizieren)  
+
+== <b>Befund</b> ==  
+
+Träger der Deckenmalerei: Tonne mit Stichkappen  
+Rahmen: imitierte goldfarbene Stuckleiste mit weißer Blumengirlande  
+Technik: Fresko; polychrom  
+Maße: Höhe 2,80 m; 2,30 × 1,70  
+Erhaltungszustand und Restaurierungen: 1958 Restaurierung durch Marta Heise, München (Signatur Rest. 1958 m. heise). Scheitelriß, geringfügige Übermalungen  
+
+[[File:Band02_chunk006_p014_img001.jpg|thumb|Krönung Mariens]]  
+
+== Beschreibung und Ikonographie ==  
+
+KRÖNUNG MARIENS Himmelsdarstellung mit geringer Höhenillusion. Symmetrische Komposition, deren Mittelachse die Gestalt Mariens, die Weltkugel und die Geisttaube bezeichnen. Christus und Gottvater halten jeweils mit der Linken eine Krone über das Haupt Mariens. Maria kniet auf einer Wolke, den Fuß auf der Mondsichel, die Hände über die Brust gelegt. Die Symmetrie der Komposition schließt auch die Farbigkeit ein: Blau ist die »Achse« (Gewand Mariens, Weltkugel, Taube). Rosa und Gelb bezeichnen die Gewänder Gottvaters und Christi, in einer Mischung aus Rosa und Gelb ist der Wolkenhimmel gehalten, rosa ist auch das mit Blumenvasen bemalte Gewölbe getönt.  
+
+Zur Ausmalung des Kapellenraumes gehört die Altarwand, an die um eine kleine gemauerte Nische ein illusionistischer Altaraufbau gemalt ist. Seitlich die gemalten Figuren eines Franziskanerheiligen mit Prozessionsstange (Aufschrift Cha/ri/tas) und der hl. Katharina, im Auszug Herz Jesu und Herz Mariens. (Keine Abbildung)  
+<!-- citation-page-bottom: Band02 p277 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=15 -->
+{{End}}

@@ -1,0 +1,257 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=323
+|Originalseitenbis=329
+|Lemma=Ettal, Benediktinerabtei, Kapitel- u. Chorsaal
+|Typ=Sakral
+|Ort=Ettal
+|davor=Ettal, Benediktinerabtei, Sakristei
+|danach=Froschhausen, Filial- u. Wallfahrtskirche St. Leonhard
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapitelsaal und Chorsaal im Obergeschoß des Sakristei- oder Bibliothekstraktes
+
+'''Zum Bauwerk:''' Der 1714 begonnene und 1715 teilweise fertiggestellte Sakristeitrakt (vgl. S. 316) wurde nach dem Klosterbrand von 1744 fortgeführt, jedoch nie ganz vollendet. Kapitel- und Chorsaal wurden 1752/53 von Franz Xaver Schmuzer stuckiert und anschließend ausgemalt. Die beiden Säle schließen in der O-W-Achse der Kirche an das Presbyterium an. Sie sind räumlich disponiert wie die in zwei Räume geteilte Sakristei darunter, haben jedoch keine Wandgliederung und keine Gewölbe wie diese. Der östliche querrechteckige Raum zu zwei Fensterachsen (N-S) ist der Kapitelsaal, er ist von O her über das unvollendet gebliebene Treppenhaus zu betreten. An der W-Wand sind seitlich zwei durch Türen verschlossene Durchgänge zu dem anschließenden westlichen Längsraum zu drei Fensterachsen, dem Chorsaal. An der W-Seite sind die Ecken gerundet und die Wand schwingt in der Mitte konvex vor, der Form des AR folgend.
+
+'''Auftraggeber:''' Abt Benedikt III. Pacher von Ettal (1739–59)
+
+'''Autor und Entstehungszeit:''' Signatur in Fresko A im Kapitelsaal Jo. Jacob Zeiller inv. & fecit. 1755. Johann Jakob Zeiller (* 1708 Reutte in Tirol † 1783 Reutte). Die Ausmalung von Kapitel- und Chorsaal war Zeillers letzte Arbeit in Ettal, laut Signatur 1755 beendet.
+
+
+[[File:Band02_chunk007_p012_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p323 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=13 -->
+<!-- citation-page-top: Band02 p324 -->
+
+[[File:Band02_chunk007_p013_img001.jpg|thumb]]
+
+[[File:Band02_chunk007_p013_img002.jpg|thumb|Kapitelsaal: A Nathan predigt König David]]
+
+== Befund ==
+
+Träger der Deckenmalerei: A, A<sub>1-4</sub> (Kapitelsaal) und B, B<sub>1-4</sub> (Chorsaal) Flachdecke mit Hohlkehle Rahmen: A, A<sub>1-4</sub> Stuckprofil, B, B<sub>1-4</sub> Stuckprofil, von Rocailleornamenten überspielt
+
+[[File:Band02_chunk007_p013_img003.jpg|thumb]]
+
+[[File:Band02_chunk007_p013_img004.jpg|thumb|Kapitelsaal: A4 Patientia]]
+
+Technik: Fresko; polychrom Maße: A Höhe 4,80 m; 5,70 × 7,00 B Höhe 4,80 m; 8,50 × 7,20
+
+Erhaltungszustand: Bisher wurden an den Fresken noch keine Restaurierungen vorgenommen. Der Zustand sämtlicher Deckenfresken ist bis auf Längsrisse in A und B und Farbveränderungen bei Ultramarin sehr gut.
+
+[[File:Band02_chunk007_p013_img005.jpg|thumb|Kapitelsaal: A2 Correctio]]
+
+== Beschreibung ==
+
+== Kapitelsaal ==
+
+A NATHAN PREDIGT KÖNIG DAVID (2 Sam 12, 1–14) Das etwa vierpaßförmige, querformatige Fresko ist in der Mitte der durch Stuckprofile in Felder gegliederten Decke und wird von vier kleineren Fresken, A1-4, in Diagonalordnung begleitet. Die Basis der einansichtigen Darstellung liegt am W-Rand des Freskos (Betrachterstandort unterhalb des östlichen Randes). Die Szene ist in mäßiger Untersicht und Verkürzung durchgeführt.
+
+Eine Treppe mit reich ornamentiertem Geländer führt schräg zu einem Stufenpodest. Darüber erhebt sich links eine prunkvolle, tempiettoähnliche Ornamentarchitektur, ein Kuppelraum mit rocaillemäßig geformten Strebepfeilern. Daraus geht weinend David - in königlichen, prächtigen Kleidern - Nathan entgegen. Der Prophet tritt mit demonstrativer Geste auf David zu und hält ihm eine Strafpredigt. Im Hintergrund ein sich auftürmender Berg mit einer mauerbewehrten Stadt davor. Rechts im Bild, hinter der Marmorbrüstung, führt ein Knabe ein Lamm am Strick, eine Anspielung auf die Parabel Nathans. 
+
+Im Vergleich mit Zeillers Hauptkuppelfresko der Kirche (S. 286–88) wirken die Bilder im Kapitel- wie auch im Chorsaal heller und klarer. Im Kapitelsaalfresko ist das farbig nuancierte Lichtweiß der Bildarchitektur bestimmend. Es überstrahlt die Buntwerte der Gewänder von König und Prophet. Leuchtendes Ultramarin als dominierender Buntwert, Karminbraun und verschattetes Gelbokker verstärken im Kontrast die Lichtwirkung; sie sind in den vom Licht abgewandten Gewandpartien (Ultramarin und Karmin bei David, Gelbocker beim Propheten und dem Knaben abseits der Szene) und in der Repoussoirzone (Ultramarin der Vorhangdraperie, Karminbraun von Brüstung und Geländer) eingesetzt. Die Landschaft im Hintergrund ist hell, in verschwimmenden blassen Grün- und Grauwerten mit zartblauem Himmel gegeben.
+
+Nathan verweist mit der Parabel vom Reichen, der das einzige Lämmchen des armen Mannes nahm und es einem Gast zubereitete, auf Davids sündiges Verhalten gegenüber Uria und dessen Weib Bathseba. Die aufgeschlagenen Notenbücher auf dem Marmortisch weisen auf David als den Psalmendichter hin.
+
+A1-4 ALLEGORIEN ZUM THEMA SCHULD UND BUSSE Das Hauptbild wird von vier Allegorien in den Eckfeldern begleitet. Es sind ganzfigurige Darstellungen; die Schauplätze (Architektur oder Landschaft) sind sparsam, aber eindeutig charakterisiert. (Ikonographie S. 328)
+
+<!-- citation-page-bottom: Band02 p325 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=14 -->
+<!-- citation-page-top: Band02 p326 -->
+
+<!-- header: ETTAL -->
+
+<!-- header: ETTAI -->
+
+
+[[File:Band02_chunk007_p014_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk007_p014_img002.jpg|thumb]]
+
+
+
+== Chorsaal ==
+
+
+B David psallens und die Vierundzwanzig Ältesten (Apoc 5, 8) Die vierpaßförmig gerahmte Himmelsszene an der durch Rocaillen und Blumengirlanden etwas reicher dekorierten Chorsaaldecke hat einen zentralen Betrachterstandort und ist in Blickrichtung gegen W angelegt. Die Bildkomposition hebt entschieden die Querachse des Bildfeldes hervor. Die Figuren sind teilweise in betonter Untersicht, dabei mäßig verkürzt dargestellt.
+
+Im Zentrum des Bildes kniet König David beim Harfenspiel auf Wolken, die von Engeln getragen werden. Die Gestalt Davids in der vorderen Bildebene ist wirkungsvoll von dem diffus hellen Himmelsgrund abgehoben. In weitem Bogen um ihn geschart, die Querachse des Bildfeldes einnehmend, sind die anbetenden Vierundzwanzig Ältesten der Apokalypse versammelt. Sie huldigen mit Räucherschalen und -fässern der Bundeslade, die von Engeln herabgetragen wird. Das Zeichen Jahwes in der Glorie darüber sendet Lichtstrahlen herab.
+
+Die große Zahl gleichartiger Figuren ist durch die Bildkomposition vorzüglich gemeistert, durch Variieren der bewegten Körperstellungen, Hervorheben von Einzelfiguren gegenüber zusammengefaßten Gruppen und durch das Vor- und Zurücktretenlassen der Gruppen. Die Himmels szene ist dem 1752 geschaffenen Glorienfresko Zeillers in der Anastasiakapelle von Benediktbeuern (S. 65, 67) verwandt. Die Gestalt Davids ist eine kaum variierte Wiederholung der 1752 in Bichl gemalten Figur (S. 144). Das Zurücknehmen von Umrißzeichnung und Farben in diffusem Licht, verbunden mit der perspektivischen Verkleinerung distanzieren illusionistisch Glorie, Bundeslade
+<!-- citation-page-bottom: Band02 p327 -->
+
+
+[[File:Band02_chunk007_p014_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk007_p014_img004.jpg|thumb|Chorsaal: B David psallens und die Vierundzwanzig Ältesten]]
+
+
+
+[[File:Band02_chunk007_p014_img005.jpg|thumb|Chorsaal: B<sub>2</sub> Matthäus]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=15 -->
+<!-- citation-page-top: Band02 p328 -->
+
+<!-- header: ETTAL -->
+
+<!-- header: ETTAL -->
+
+und die hinteren Bildfiguren. Vor dem sehr hellen Himmelsgrund sind in den Gewandfiguren der vorderen Bildebene Buntwerte, vor allem Ultramarin, Gelb und Grün, in Kontrastwirkung eingesetzt.
+
+B<sub>1-4</sub> EVANGELISTEN Das Hauptbild wird in den Eckfeldern von ganzfigurigen Darstellungen der Evangelisten begleitet, die auf Wolken thronen und schreiben. Putti sind spielerisch mit den Attributen beschäftigt. Lichtstrahlen (in B2 vom Dreifaltigkeitssymbol ausgehend) bezeichnen die göttliche Inspiration.
+
+B1 Johannes mit Adler, der das Tintenfaß hält und dem seltenen Attribut der Lilie als Symbol der Reinheit
+
+B<sub>2</sub> Matthäus mit Engel
+
+B<sub>3</sub> Markus mit Löwe
+
+B4 Lukas mit Stier, der von einem Putto bekränzt wird. Malstock, Palette und Pinsel weisen auf den Madonnenmaler hin, Mörser und Stößel auf den Arzt
+
+
+== Ikonographie und Ikonologie ==
+
+
+
+== Kapitelsaal ==
+
+
+A<sub>1-4</sub> ALLEGORIEN ZUM THEMA SCHULD UND BUSSE Diese vier bisher noch nicht richtig gedeuteten Allegorien (Fischer, S. 50) behandelt Gosbert Schüßler in einem Aufsatz über den Ettaler Kapitelsaal.
+
+A1 OBOEDIENTIA Als Allegorie des Gehorsams ist eine junge Frau dargestellt, die in kahler, felsiger Landschaft kniet; sie hat ihre Augen zum Himmel gerichtet, aus dem Strahlen auf sie fallen; ein Zügel mit Trense senkt sich herab und sie ergreift ihn. Diese Figur findet sich bei Ripa: »Donna modesta, e humile, stara con la testa china, e con gl'occhi rivolti al Cielo, donde esca un raggio di splendore,<br>dal quale penda un freno, e ella allegramente porga le<br>braccia per prenderlo« (Ripa, s. v. obedienza, S. 363; Schüßler, loc. cit.).
+
+A2 CORRECTIO In einem gewölbten Innenraum sitzt als Allegorie der Zurechtweisung eine alte Frau an einem Tisch und schreibt mit der Feder in einem Buch. In der Linken hält sie eine Geißel als Instrument der Strafe. Ripa beschreibt diese Figur als: »Donna vecchia, grinza, che<br>sedendo nella sinistra mano tenga una ferula, overo uno staffile, e nell'altra con la penna emendi una scrittura, aggiungendo, e togliendo varie parole« (Ripa, s. v. correttione, S. 92; Schüßler, loc. cit.).
+
+A3 DILATIO POENITENTIAE Als Quelle zu der Allegorie der aufgeschobenen Buße nennt Schüßler (loc. cit.) das um 1720 in Nürnberg erschienene Werk von Christoph Weigel (1654-1725): »Viel nutzende und erfindungen reichende Sinnbild-Kunst, oder Hieroglyphische<br>Bilder, vorstellung der Tugenden, Laster, Gemüts-bewegungen, Künste und Wissenschaften . . . «, der die Figur folgendermaßen beschreibt: »Aufgeschobene Busse. Ein
+
+Bauer auf einem Acker lehnet sich auf seine Schauffel/ und wartet auf Regen/ in der andern Hand hat er einen Raben welcher/ weil er sonst immer cras, cras, zu schreyer pfleget/ ein Bild der muthwilligen Sünder ist/ die ihr Busse auf cras, morgen/ zu verschieben pflegen. Hinter ihn steht ein Ol-Baum/ unter welchem die Gesetz-Taflen al hingeworffen/ ligen. Über ihm bricht ein Blitz aus der Wolcken« (S. 51; Abb. auf der dieser Seite gegenüberliegenden Tafel 17). Eine Auslegung bis ins Detail gibt Vincenzo Ricci (Geroglifici morali, Neapel 1626, S. 345) Danach ist »die »penitenza, che si procrastina« bzw. der verstockte Sünder einem Bauern vergleichbar, der Tag für Tag seine Feldarbeit aufschiebt, weil er erst den Regen abwarten will. Auf das Verschieben auf morgen alludiert auch der Rabe, dessen Gekrächze, onomatopoetisch als >cras, cras< wiedergegeben, im Lateinischen soviel wie >morgen, morgen< bedeutet. Im Vertrauen auf die Barmherzigkeit Gottes, deren Sinnbild der Ölbaum ist, glaubt der Unbußfertige seine Umkehr immer wieder hinauszögern zu können. Die zu Boden geworfenen Gesetzestafeln zeigen an, daß zugleich mit dem andauernden Hinausschieben der Buße das Gesetz Gottes vertrieben und mit Füßen getreten wird. Nach einer Zeit geduldigen Zusehens läßt Gott den Sünder vom flammenden Blitz seines Zornes getroffen werden, indem der Verstockte eines jähen Todes stirbt und der ewigen Verdammnis anheimfällt« (Schüßler, loc. cit.).
+
+A4 PATIENTIA Eine junge Frau mit bedecktem Haupt und langem Gewand schreitet über Dornen. Sie hat die Hände ineinander gelegt und trägt ein Joch auf ihren Schultern. Als Vorbild für diese Allegorie kann wieder Weigel gelten (loc. cit., S. 34; Abb. auf der S. 33 gegenüberliegenden Tafel 17), der sie folgendermaßen beschreibt »Die Gedult. Ein betrübtes Weibs-Bild/ trägt ein Joch aus ihren Schultern/ legt die Hände zusammen/ und gehet auf<br>Dornen« (Schüßler, loc. cit.).
+
+
+== Chorsaal ==
+
+
+B DAVID PSALLENS UND DIE VIERUNDZWANZIG ALTESTEN Bei der Anbetung der Vierundzwanzig Altesten sind abweichend vom Text der Apokalypse anstelle des Lammes, dem die Huldigung gilt, die Lade des Alten Bundes und dazu König David psallens eingesetzt. Dadurch wird die Textstelle aus dem ersten Buch der Chronik, 1 Par 15, 25–29, apostrophiert, die von der Zeremonie der Bundesladenüberführung handelt. Die Anbetung der Altesten und David psallens sind als voneinander unabhängige Bildthemen sehr verbreitet, eine Verknüpfung wie hier in Ettal ist ungewöhnlich. Beide Themen beziehen sich auf den Chorsaal als den liturgischen Ort des täglichen Mönchsoffiziums mit der Rezitation von Psalmen im Wechselgesang. Die Engel zu Füßen Davids präsentieren dem Betrachter das »Neue Lied« (Apoc 5, 9), ein Choralnotenblatt mit dem Anfang von Psalm 32, 3 Cantate / Domino / ticum / vum (= canticum novum).
+
+David ist hier in seiner Eigenschaft als Verfasser der Psalmen dargestellt. In den beiden Sälen mit völlig verschiedenen Programmen ist er jeweils die ikonographische Hauptfigur und stellt so einen inhaltlichen Zusammenhang her.
+
+Die vier Evangelisten verweisen im Zusammenhang des Chorsaals auf die Lesungen der neutestamentarischen Perikopen innerhalb des Offiziums.
+
+Der Bestimmung des Kapitelsaals entsprechend behandeln die Deckenbilder Anklage und Zurechtweisung, Reue und Buße. »Mit Achtung vor dem Sünder, jedoch unerbittlich im Aufdecken der Schuld, handle der Zurechtweisende und Anklagende; der Schuldiggewordene dagegen zeige sich einsichtig und reumütig (A). Die vier, das Zentralfresko umgebenden Personifikationen helfen mit, diese Aussage zu vertiefen. Die Correctio ruft dem Ankläger seine schwierige Aufgabe ins Gedächtnis, konsequent, doch von brüderli cher Liebe getragen, die Fehler anzuprangern und für ihre
+
+Ausmerzung Sorge zu tragen. Die übrigen Allegorien gelter dem Schuldigen: Die Dilatio Poenitentiae redet ihm in Gewissen, nicht im eitlen Vertrauen auf Gottes Barmher zigkeit die Buße zu verschieben, sondern die Gelegenheit die ihm das Schuldkapitel zur Besserung bietet, zu ergrei fen: Patientia und Oboedientia fordern ihn schließlich auf Ermahnung und Strafe in Geduld und Gehorsam anzuneh men, wie dies auch David einst getan hat« (Schüßler, loc. cit.).
+
+
+== Spezialliteratur zum Kapitelsaal ==
+
+
+Schüßler, Gosbert, J. J. Zeillers Fresken im Ettaler Kapitelsaal, in: Festschrift Ettal 1980, Publikation in Vorbereitung.
+
+Literatur siehe S. 320
+
+Refektoriumsgang im Parterre des Pfortentrakts, Stirnwand über der Tür zum heutigen Frühstückszimmer, Klausurbereich
+
+Autor und Entstehungszeit: Das Fresko ist unsigniert. Es ist aus stilistischen und koloristischen Gründen Franz Seraph Zwinck aus Oberammergau (* 1748 † 1792; s. Kappel S. 350) zuzuschreiben. Entstehungszeit um 1780. Von Franz Seraph Zwinck finden sich in Ettal außerdem noch eine Kreuzwegfolge im Chorumgang, Szenen aus der Leidensgeschichte in den Gewänden der Beichtstühle und einige Olbilder in den Mittelfeldern der Ankleideschränke in der Sakristei (Koch, S. 77 f.)
+
+
+[[File:Band02_chunk007_p015_img001.jpg|thumb|Wandfresko im Refektoriumsgang: Gründungslegende]]
+<!-- citation-page-bottom: Band02 p329 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=16 -->
+<!-- citation-page-top: Band02 p330 -->
+
+<!-- header: ETTAL -->
+
+Erhaltungszustand: Die Erhaltung des Wandfreskos ist bis auf einige Quersprünge im Mauerwerk gut. Die Sprünge verlaufen unmittelbar durch die Engelsgestalt.
+
+Beschreibung und Ikonographie
+
+GRÜNDUNGSLEGENDE VON KLOSTER ETTAL Das Wandfresko setzt unmittelbar über dem Türstock an und endet in der Tonnenwölbung des Kreuzgratgewölbes, das das Rahmenornament oben beschneidet. Die kartuschartige Rocaille-Rahmung, in braun-roten blassen Farbwerten gegeben, dringt mit einem großen C-Bogen in die bildliche Darstellung ein und gibt einen Ausblick in die Alpenlandschaft von Oberammergau mit dem Kofel und dem Barockkloster Ettal frei. Ein auf dem C-Bogen sitzender Engel überreicht auf einem Wolkenpolster das Ettaler
+
+Gnadenbild dem gegenüberknienden Kaiser Ludwig in Rüstung und Hermelinmantel. Der ihm zugeordnete Putto hält auf einem blauen Kissen die Insignien des Römischen Kaisers empor.
+
+Es dominieren, vor allem im Hintergrund und bei der Figur Ludwigs des Bayern, Braun- und Rottöne. Das Gegengewicht hierzu bildet der Engel mit dem schwungvollen orangen und lindgrünen Mantel. Die satten, etwas stumpf wirkenden Farben werden durch viele gelblich-weiße aufgesetzte Lichter und Schattierungen aufgelockert und zum Licht hin entwickelt.
+
+Das Thema der Ettaler Klostergründung hatte Zwinck bereits in den beiden Wandfresken der LHs-Oratorien in der Pfarrkirche St. Ulrich zu Egling behandelt (CBD, Bd 1 S. 60), wobei er sich eng an J. J. Zeillers Triumphbogenfresko W1 in der Ettaler Klosterkirche hielt (S. 288).
+
+
+== Literatur ==
+
+
+Engelbert Sartori, Diarium Ettalense (1683–1722), Erzbischöfliches Ordinariatsarchiv München.
+
+Meidinger, Franz Sebastian, Historische Beschreibung der kurfürstl. Haupt- und Regierungsstädte in Niederbaiern Landshut und Straubing, Landshut 1787, S. 331–36. M IAI Dia a - ...
+
+Mayer-Westermayer, Bd 3, S. 7–12.
+
+Bührlen, Johann Richard, Geschichte und Beschreibung des ehemaligen Benediktinerklosters Ettal und seiner prachtvollen Kirche, Garmisch [1890].
+
+KDB I OB (1), S. 620–28.
+
+Popp, Joseph, Martin Knoller, Innsbruck 1904.
+
+Hoffmann, Richard, Das Marienmünster zu Ettal im Wandel der Jahrhunderte, Augsburg 1927.
+
+-, Die Benediktinerabtei Ettal, in: Das Bayerland 41, 1930 S. 66–70.
+
+Hessenbach, A., Johann Jakob Zeiller, ein Großmaler der Rokokozeit, in: Augsburger Postzeitung, 1933, Nr. 27, S. 105 f.
+
+Hartig, Michael, Die oberbayerischen Stifte, Bd 1, München 1935, S. 70–78.
+
+Seidel, Max, Ad Gloriam Dei. Neue Bilder vom Benediktinerkloster Ettal, Stuttgart [1948].
+
+Tintelnot, Hans, Die barocke Freskomalerei in Deutschland, München 1951, S. 230–34.
+
+Lieb, Norbert, Barockkirchen zwischen Donau und Alpen, München <sup>2</sup>1958, S. 98–106.
+
+Schnell, Hugo, Ettal, Kloster und Marienmünster (= GKF, Nr. 3), München <sup>2</sup>1960.
+
+Fischer, Pius, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, München 1964.
+
+Dehio-Gall OB, S. 206–09
+
+Matsche, Franz, Der Freskomaler Johann Jakob Zeiller (1708–1783), Marburg/Lahn 1970, S. 208–39.
+
+Festschrift zum 600jährigen Weihejubiläum der Klosterkirche Ettal, Ettal 1970.
+
+Koch, Laurentius, Der Ettaler Hochaltar, eine Untersuchung zu seiner Geschichte im 18. Jahrhundert, in: Ettaler Mandl 1976, S. 29–73.
+
+Ettal 1330–1980. Festschrift zum Benediktusjahr und Klosterjubiläum, Ettal 1980.
+
+
+== Literatur und Quellen zur Ikonographie der Kirche ==
+
+
+Sangrinus, Angelus O.S.B., Speculum et Exemplar Christicolarum . . . Vita Benedicti . . ., Rom 1587.
+
+Wion, Arnold O.S.B., Lignum Vitae . . ., Venedig 1595, deutsch von Karl Stengel, Baum des Lebens - Historii des ganzen Ordens S. Benedicti, Augsburg 1607.
+
+Stengel, Karl O.S.B., Laudes S.P.N. Benedicti . . ., Augsburg 1647.
+
+Rambeck, Aegidius O.S.B., Heiliges Benedictiner-Jahr, das ist kurtze Lebens-Beschreibung von dreyhundertfünffundsechtzig Heiligen aus dem Orden deß H. Ertz-Vatters Benedicti, in der deutschen Übersetzung von Carlmann Vierholz O.S.B., 4 Bände, Augsburg 1710 (zu jedem Heiligen eine szenische Kupferstichdarstellung).
+
+Sutor, Rupert, Lehr-Tugend- und Wunderspiegel – Das ist deß . . . Benedicti . . . Leben . . ., München 1719.
+
+Brendan, Ignatius, Auslegung deren in der neuen Kirch zu Münster-Schwartzach von einem kunstreichen Pensel entworfenen Figuren (Anhang D. in: Magna Gloria . . . Abbatiae Schwarzacensis O.S.B. . ., Würzburg 1743.
+
+Doyé, Franz von Sales, Heilige und Selige der römisch-katholischen Kirche, deren Erkennungszeichen, Patronate und lebensgeschichtliche Bemerkungen, Bd 2, Leipzig 1929.
+
+Zimmermann, Alfons O.S.B., Kalendarium Benedictinum. Bd 1–4, Metten 1933–38.
+
+<!-- header: FROSCHHAUSEN -->
+
+{{End}}

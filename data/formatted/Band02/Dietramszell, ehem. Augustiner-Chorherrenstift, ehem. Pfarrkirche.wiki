@@ -1,0 +1,227 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=158
+|Originalseitenbis=164
+|Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, ehem. Pfarrkirche
+|Typ=Sakral
+|Ort=Dietramszell
+|davor=Dietramszell, ehem. Augustiner-Chorherrenstift, Psallierkirche
+|danach=Einöd, Kapelle Schmerzhafter Heiland und Schmerzensmutter Maria
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p158 -->
+
+[[File:Band02_chunk004_p005_img001.jpg|thumb]]
+
+Ehem. Pfarrkirche der Stiftspfarrei Dietramszell, seit 1857 Klosterkirche der Salesianerinnen
+
+'''Patrozinium:''' St. Martin
+
+'''Zum Bauwerk:''' Zusammen mit dem N- und O-Trakt des Augustinerchorherrenstiftes wurde 1717/18 auch die neue Pfarrkirche errichtet; Weihe 1722, Innenausstattung 1726. Saal zu drei Jochen, Empore im S, gleichbreiter AR zu zwei Jochen mit geradem Schluß; genordet; Beleuchtung durch fünf Fenster im W; die entsprechenden Fenster im O führen in den anschließenden Klostertrakt (Planskizze S. 149)
+
+'''Auftraggeber:''' Propst Petrus Öffner von Dietramszell (1702–28), dessen Wappen sich mit der Inschrift PPDZ / 1726 (= Propst Petrus von Dietramszell) am Chorbogen befindet
+
+'''Autor und Entstehungszeit:''' Das Datum am Chorbogen gibt das Jahr der Ausstattung an: 1726. Von den Deckenbildern ist E signiert (am nördlichen Bildrand links): Zimmermann. Röhlig hat die Deckenbilder von St. Martin nicht in ihr Œuvreverzeichnis aufgenommen, ohne dafür einen Grund zu nennen. Thon hält sie für Werkstattarbeiten, ebenso wie den Stuck: »Die Dekoration kleinerer Kirchen wurde ... oft der Werkstatt übertragen, wie es für die kurz nach der Mitte der zwanziger Jahre entstandenen Fresken und Stuckaturen der ehemaligen Pfarrkirche Dietramszell anzunehmen ist. Ob Zimmermann hierfür mehr oder weniger detaillierte Entwürfe ausgearbeitet hat oder ob der Palier, unter dessen Leitung diese Arbeiten ausgeführt wurden, auch der Entwerfende war, läßt sich nicht entscheiden« (S. 90 f.). Was die einfache Stuckdekoration angeht, hat Thon sicher recht. Die Deckenbilder allerdings sind als großenteils eigenhändige Werke zu betrachten, wie ein Vergleich mit den Fresken von 1724 im Bibliothekssaal von Benediktbeuern ergibt (S. 124–31). In der Wiedergabe der Details vor allem in den Figuren stehen die Dietramszeller Hauptfresken (B, C, E) denen von Benediktbeuern nicht nach. In den Darstellungen der Gewänder ist die typisch Zimmermannsche Eigenart zu beobachten, Falten-schatten durch dunklere Farbflächen zu geben und nicht als breite Striche, wie sie bei Werkstattarbeiten zu sehen sind. Die Innenzeichnung entsteht bei Zimmermann durch das Gegeneinandersetzen von Farbflächen, die nie ineinander verschwimmen, sondern klare Konturen haben. Auch in der Komposition der Einzelfiguren ist keine geringere Qualität als in Benediktbeuern zu finden: der auferstehende Christus gehört zu den besten Arbeiten Zimmermanns in diesem Jahrzehnt. Die Gesamtkompositionen in C Himmelfahrt Christi 
+
+ihrer Achsensymmetrie entsprechen nicht den für diese Zeit typischen asymmetrischen Kompositionen (vgl. Benediktbeuern). Hier waren wohl Bildtraditionen bestimmend, die neue Bilderfindungen ausschlossen. Außerdem war das Bildformat von B und C für Zimmermann ungünstig. Eine ungelöste Frage bleibt allerdings, wieso in einer Kirche mit einer so bescheidenen Stuckdekoration, die sicher Werkstattarbeit ist, der Meister selbst zum großen Teil die Ausmalung vornahm. Die Bilder A und D und die Darstellungen in den Kartuschen sind sicher Gehilfenarbeiten.
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs (A, B, C, D, 1–4, a-d) und AR (E, e-f) Stichkappentonne
+
+Rahmen: Stuckprofil; die Ornamente der Stuckdekoration übergreifen die Rahmen nur geringfügig; 1–4, a-f Ornamentkartuschen
+
+Technik: Fresko; A, B, C, D, E polychrom, 1–4, a-d monochrom violett, e-f monochrom graugrün
+
+Maße: A Höhe 9,20 m; 1,10 × 4,25  
+B Höhe 9,20 m; 2,20 × 4,25  
+C Höhe 9,20 m; 2,20 × 4,25  
+D Höhe 9,20 m; 1,10 × 4,25  
+E Höhe 9,00 m; 5,80 × 4,25  
+
+Erhaltungszustand und Restaurierungen: Bei der letzten Kirchenrestaurierung 1966 wurden die Fresken nur gereinigt. Von einer früheren Restaurierung rührt die Ausbesserung eines großen Scheitelrisses in C und E her. Von Haarrissen und Verschmutzungen abgesehen ist der Zustand der Deckenbilder gut.
+
+== Beschreibung und Ikonographie ==
+
+Das Dekorationssystem von St. Martin ist insofern bemerkenswert, als die Anbringung der Bildfelder nicht der Jocheinteilung entspricht; sie liegen jeweils um einen halben Takt verschoben zwischen den Jochmitten; in konsequenter Verfolgung dieses Systems bleiben halbierte Bildfelder im ersten und letzten LHs-Joch übrig, jeweils mit den entsprechenden halbierten Kartuschen (A, D, 1–4). Die Gurtteilung entfällt. Bedingt wird diese Anordnung, die außer in Dietramszell noch in Maria Mödingen (Schw, Fresken von J. B. Zimmermann 1719–22, Stuck von Dominikus Zimmermann) auftritt, wohl beidemale durch die tiefeinschneidenden Stichkappen, die in der Jochmitte kein großes Bildfeld erlauben.
+
+Bei den Fresken handelt es sich um einansichtige Darstellungen; A hat seine Basis im S, bei allen anderen liegt der Aufnahmestandpunkt unter dem südlichen Bildrand.
+<!-- citation-page-bottom: Band02 p159 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=6 -->
+<!-- citation-page-top: Band02 p160 -->
+
+<!-- header: DIETRAMSZELL -->
+
+== A ENGELSKONZERT ==
+Auf Wolken sind Engel mit ihren Instrumenten dargestellt. Das Bild ist von der Orgel fast völlig verdeckt (keine Abbildung).
+
+== B AUFERSTEHUNG CHRISTI (Mt 28, 1–10 u. Par.) ==
+Die Mitte des querformatigen Bildfeldes nimmt die Gestalt Christi ein, der, von rosafarbenen Wolken umgeben, das Haupt im Strahlenkranz und in den Händen die Osterfahne, aus dem Grab emporschwebt. Nach rechts und links weichen die Wächter zurück. Die Felswand des Grabes, identisch mit dem Bildgrund, schließt den Schauplatz nach hinten ab, nur am linken Bildrand gibt sie einen kleinen Ausblick auf den nächtlichen Himmel mit dem Mond. Baumstämme mit belaubten Ästen bilden den Abschluß nach rechts und bezeichnen mit den Felssteinen im Vordergrund und ein wenig Buschwerk die Ode des Grabesortes. Der Bildschauplatz ist seicht. Durch die Bewegungsimpulse der stürzenden und fliehenden Wächter sowie durch die Tiefenlinien des Sarkophags mit der übereck gelegten Platte entsteht innerhalb dieser Bühne Räumlichkeit; diese wird in der Figur Christi mit den umgebenden Strahlen und Wolken wieder aufgehoben, wie überhaupt bei Zimmermann Gloriendarstellungen oft mit der Räumlichkeit des irdischen Schauplatzes nichts zu tun haben. Dieses Prinzip ist hier auf eine historische Szene angewandt; dadurch überwindet Zimmermann die Nachteile des für die Darstellung eines solchen Themas wenig geeigneten niedrigen und sehr breiten Bildfeldes, isoliert die aufsteigende Gestalt Christi von der quergelagerten Landschaftsbühne und macht die Höhenbewegung sinnfällig. Der bei der Darstellung dieses Themas traditionelle Hell-Dunkel-Gegensatz ist bei Zimmermann vermieden. Er erscheint nur in einer Abwandlung, die man als typisch für ihn bezeichnen kann: Das Dunkel (im nächtlichen Himmel, in den Wächtern und den Bäumen am Bildrand) ist nur ein minder helles Licht, von den hellsten Bildstellen weniger durch den Grad der Helligkeit unterschieden als durch die Farbqualität. Dunkel wird durch Beimischung unbunter Farben oder durch Erdfarben bezeichnet, Helligkeit durch die Rosa-Farben in Inkarnat und Gewand Christi, in der Osterfahne, in den umgebenden Wolken; Rosa ist für Zimmermann eine Lichtfarbe; weil es durch Weißbeimischung entsteht, kann es auch mit Weiß gehöht werden, was er bei anderen Farben vermeidet. Bei der Darstellung des nächtlichen Himmels ist das Blau kaum abgedunkelt; das Dunkel ist bezeichnet durch das Abwandeln des reinen hellen Himmelsblaus nach Grau-Violett hin.
+
+== C HIMMELFAHRT CHRISTI (Act 1, 6–11) ==
+Zu beiden Seiten einer angedeuteten Hügelkuppe haben sich die Apostel, Maria und eine Begleiterin versammelt. Christus fährt mit ausgebreiteten Armen auf einer Wolke in den Himmel auf. Seine Fußspuren bleiben auf der Hügelkuppe zurück (seit der Renaissance ein verbreitetes ikonographisches Motiv). Von den Aposteln ist links Petrus durch die Schlüssel, die traditionellen Gewandfarben Blau-Gelb und den Gesichtstypus bezeichnet, Johannes durch das grünrote Gewand und seine Jugendlichkeit. Der Bildschauplatz ist auf den Erdhügel, einen angedeuteten Baum am rechten Bildrand und den blauen, rosig bewölkten Himmel im Hintergrund reduziert. Die Figuren sind im Vordergrund durch den Rahmen überschnitten, so daß es – abgesehen von dem Stein, auf dem Johannes kniet – keinen terrestrischen Bildvordergrund gibt. Das ist bei Zimmermannfresken sonst kaum zu finden, so daß die Zuschreibung an Gehilfen nicht von ungefähr kommt. Diese Abweichung vom typischen Bildaufbau ist wohl auf das niedrige Querformat des Bildfeldes zurückzuführen. Die Qualität der Christusfigur und einzelner Köpfe (Maria, Petrus) aber weisen auch dieses Fresko als eigenhändige Arbeit Zimmermanns aus. In der Hintergrundfarbigkeit – dem Blau und Violett des Himmels, den Grün- und Ockerwerten des Hügels – ist bereits die ganze Palette der Farben vorhanden, die Zimmermann in intensiveren Farbwerten als Buntfarben in den Gewändern einsetzt. Das ist für den Farbcharakter des Bildes bestimmend, ebenso wie die Kontrastmöglichkeiten verschiedener Farben von gleicher Buntwertigkeit.
+
+== D ENGELSKONZERT ==
+In dem vom Chorbogen halbierten Bildfeld sind musizierende Engel auf Wolken dargestellt. Links spielen drei große Engel auf einer Harfe, einer Knickhals-Laute und zwei Flöten, in der Mitte singen zwei Putti von einem Notenblatt, einer von ihnen schlägt den Takt. Der Engel rechts hält eine Laute in Händen.
+
+[[File:Band02_chunk004_p006_img001.jpg|thumb|E Pfingsten]]
+
+== E PFINGSTEN (Act 2, 1–4) ==
+Stufen im Vordergrund führen zu einer prächtigen, säulenbesetzten Bogenarchitektur, die den Blick nach hinten auf den blauen, rosig bewölkten Himmel freigibt. Maria kniet im Zentrum des Bildes an einem Tischchen; um sie sind auf den Stufen und in der Bogenöffnung die zwölf Apostel versammelt. Unter ihnen sind Johannes und Petrus an der Kleidung zu erkennen (vgl. C). Am oberen Bildrand, vor der Bogenöffnung, erscheint der Hl. Geist in Gestalt einer Taube. Die Flammenzungen des Pfingstwunders schweben über den Häuptern von Maria und den Aposteln. Bei Maria sind zwei Frauengestalten zu erkennen, die nicht zur Bildtradition der Pfingstdarstellungen gehören. Die Flamme über dem Haupt der linken muß sich auf Petrus beziehen, der im Vordergrund kniet. Diese Stelle ist bezeichnend für Zimmermanns Verhältnis zum ikonographischen Detail: Die genaue Kombination figuraler und handlungsmäßiger Details tritt meist zurück zugunsten einer allgemeinen Bildvorstellung vom Thema.
+
+Die Taube erscheint vor der Bogenöffnung, also in vorderster Bildebene; die Wölkchen, die sie umgeben, verschmelzen mit den Wolken des Himmelsgrundes hinter dem Bogen. Dadurch wird der Himmel im Hintergrund, der die Bildtiefe darstellt, in die Bildfläche eingebunden. Der helle Himmel ist mehr als die Darstellung realen Himmels, er ist weniger gegenständlicher als ästhetischer Bildgrund, vor dem die Darstellungen fast ornamental erscheinen. Dieser Bildgrund, der mit seinen Blau-, Rosa- und Gelbwerten eminent farbig ist, spielt auch für den Aufbau der Gesamt-farbigkeit eine große Rolle. Vor ihm erscheinen die Farben des Vordergrundes lebhafter und kontrastreicher und bekommen unabhängig von der Gegenstandsbezeichnung einen starken Eigenwert.
+
+== 1–4 TUGEND-EMBLEME ==
+In den vier halbierten Medaillons der Ecken des LHs-Gewölbes wird auf einem Schriftband jeweils oben im Bild die Tugend benannt, das lateinische Lemma steht unten im Bild auf einem Sockel.
+
+== 1 PRVDENTIA. – PERDIT, UT / SERVET ==
+Das Bild zeigt eine Schlange, die aus der Spalte eines Felsens herausschlüpft. In der Spalte bleibt ihre Haut zurück. –
+<!-- citation-page-bottom: Band02 p161 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=7 -->
+<!-- citation-page-top: Band02 p162 -->
+
+<!-- header: DIETRAMSZELL -->
+
+
+[[File:Band02_chunk004_p007_img001.jpg|thumb|A. Inetiti]]
+
+
+
+[[File:Band02_chunk004_p007_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk004_p007_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk004_p007_img004.jpg|thumb]]
+
+
+Während es im Buch für die Hinwendung des Kurfürsten zu Gott steht, ist das Emblem hier in der Interpretation des Physiologus zu verstehen als ein Sinnbild der Erneuerung in Analogie zu der Auferstehung Christi von den Toten.
+
+b SINE VULNERE LATRANT. – Das Geschray der Hunden/ macht mir keine Wunden. - Auf einen liegenden Löwen
+
+
+[[File:Band02_chunk004_p007_img005.jpg|thumb]]
+
+
+
+[[File:Band02_chunk004_p007_img006.jpg|thumb]]
+
+
+
+[[File:Band02_chunk004_p007_img007.jpg|thumb]]
+
+
+
+[[File:Band02_chunk004_p007_img008.jpg|thumb]]
+
+
+springen drei Hunde zu. Auch hier wurde Veranis Emblembuch als Vorlage verwendet. Das Emblem auf S. 171 zeigt das gleiche Bild, jedoch mit anderem Lemma »MAGNIS NON SVNT FORMIDINI LATRATVS« (vgl. Holzkirchen, Emblem d, S. 515), und steht für die Unerschrockenheit des bayrischen Kurfürsten gegenüber seinen Feinden. Die profane Bedeutung des Emblems in der Vorlage wurde in Dietramszell auf Christus übertragen, dem auch der irdischen Tod nicht anhaben konnte.
+
+
+[[File:Band02_chunk004_p007_img009.jpg|thumb|162]]
+
+
+
+[[File:Band02_chunk004_p007_img010.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p163 -->
+
+
+== 3 Temperantia ==
+Das Symbol der Prudentia, die Schlange (Ripa s. v. prudentia, S. 416), ist hier von der Personifikation losgelöst und mit einer allegorischen Interpretation verbunden, die auf der Eigenschaft der Schlange, sich zu häuten, beruht. Schon im Physiologus wird die Häutung als Symbol der Verjüngung gedeutet. In der Emblematik wird dieses Emblem schon im ersten christlichen Emblembuch, den Devises chrestiens der Georgette de Montenay, Lyon 1571 (Nr. 41), im Sinne der Erneuerung durch Reue verwendet. Picinelli (Liber 7, s. v. serpens, Nr. 50 »NOVUS, EXUTA PELLE, RESURGO«) bezieht es auf Mutatio Vitae, beruft sich auf Montenay und zitiert Mt 10, 16 »Estote prudentes sicut serpentes«.
+
+== 2 Fortitudo ==
+Nec unda nec aura. Auf einem Fels in bewegtem Wasser steht ein zinnengekrönter Turm; von links blasen zwei Puttenköpfe aus einer Wolke auf ihn. Boschius, Classis 3, verweist unter dem Stichwort »Fortitudo« auch auf das Stichwort »Constantia«. Nr. 312 und 339 zeigen hier das gleiche Bild wie in Dietramszell. Auf der gleichen Seite wie das zweite Emblem bei Boschius findet sich auch ein Emblem mit der Darstellung eines Baumes auf einem Felsen im Wasser mit dem Lemma »NI UNDAS NI VENTOS« oder, wie in der zugehörigen Erklärung erläutert wird, »NEC UNDA, NEC AURA«. Der Urheber des Emblemprogrammes hat hier offenbar (wie auch bei Emblem 4) zwei Constantia-Embleme der Vorlage zu einem zusammengefügt.
+
+== 3 Temperantia ==
+Pavcis / contentus. Das Bild zeigt ein Dromedar. Das Lemma bezieht sich auf die Genügsamkeit des Tieres. Wie der Elefant, ein Attribut der »Temperanza« bei Ripa (S. 481), so zeichnet sich auch das Kamel oder Dromedar durch seine große Zurückhaltung bei der Nahrungsaufnahme aus, was schon Plinius erwähnt. In der Emblematik ist dieses Motiv in der vorliegenden Interpretation sonst nicht gebräuchlich.
+
+== 4 Iustitia ==
+Cuique / suum. In der unteren Bildhälfte ist ein halber Erdball dargestellt, darüber verläuft in einigem Abstand ein helles Band, das den Zodiacus vorstellen soll. Die Sonne mit einem lachenden Gesicht erscheint hier im Zeichen der Waage. Auch hier wird das Attribut einer Personifikation von der Figur abgelöst verwendet. Das Emblem stimmt mit dem Bild bei Boschius (Classis 3, Nr. 475) überein. Hier lautet das Lemma jedoch »CUM LIBRA TEMPERAT ORBEM«. Das folgende Emblem (Nr. 476) zeigt die Sonne, die auf eine Sonnenuhr scheint, mit dem Lemma »CUIQUE SUUM METITUR«. Beide Embleme sind unter dem Oberbegriff »Iustitia« zusammengefaßt. Picinelli führt das Bild von der Sonne im Zeichen der Waage in gleichem Sinn auf (s.v. sol in zodiaco, Liber 1, Nr. 196).
+
+== a-f Embleme ==
+Die vier Embleme in den mittleren Gewölbezwickeln der LHs-Tonne a-d stehen inhaltlich in Zusammenhang mit den Fresken B und C. Das Lemma steht wiederum jeweils auf einem Schriftband oben im Bild, eine etwas ausführlichere deutsche Übersetzung der lateinischen Lemmata befindet sich auf einem weißen Sockel unter dem Bild.
+
+=== a SOLVITVR QUIA SOLATVR ===
+Aus Lieb der Sonnenstralen Las ich die Fedem falen. Das Bild zeigt einen Adler, der von einer Landschaft aus empor zur Sonne fliegt und dabei seine Federn verliert. Als Vorlage diente das Emblem auf Seite 123 in Gaetano Felice Veranis Werk Monumentum Extremi Honoris Principis Ferdinandae Mariae, München 1679 (vgl. Holzkirchen, Emblem a, S. 515). Während es im Buch für die Hinwendung des Kurfürsten zu Gott steht, ist das Emblem hier in der Interpretation des Physiologus zu verstehen als ein Sinnbild der Erneuerung in Analogie zu der Auferstehung Christi von den Toten.
+
+=== b SINE VULNERE LATRANT ===
+Das Geschray der Hunden/ macht mir keine Wunden. Auf einen liegenden Löwen springen drei Hunde zu. Auch hier wurde Veranis Emblembuch als Vorlage verwendet. Das Emblem auf S. 171 zeigt das gleiche Bild, jedoch mit anderem Lemma »MAGNIS NON SUNT FORMIDINI LATRATUS« (vgl. Holzkirchen, Emblem d, S. 515), und steht für die Unerschrockenheit des bayrischen Kurfürsten gegenüber seinen Feinden. Die profane Bedeutung des Emblems in der Vorlage wurde in Dietramszell auf Christus übertragen, dem auch der irdischen Tod nicht anhaben konnte.
+
+=== c EX FUNERE VITA ===
+Dis Feur thuet geben / ein anders Leben. Ein Phönix verbrennt mit ausgebreiteten Flügeln auf einem erhöhten Scheiterhaufen, über ihm steht die Sonne. Dieses Emblem stammt aus der Vorlage Veranis, S. 161. Dort ein Symbol für die Unsterblichkeit des Kurfürsten, ist es in Dietramszell wieder auf Christus übertragen. Picinelli (s.v. phoenix, Liber 4, Nr. 582) nennt dieses Motiv als Sinnbild der Auferstehung Christi, ebenso Boschius (Classis 1, Nr. 72).
+
+=== d FUGATUR AB ORTU ===
+von schönen Sonen Liecht / Alles Unreines Fliecht. Aufgehende Sonne hinter einem Torbogen. Im Vordergrund fliehen Schlangen und Kröten; ein Mann vertreibt eine Hydra mit Fackel und erhobener Keule. Rechts steht ein Bogen mit einer Figurennische. Das Motiv der aufgehenden Sonne als Sinnbild für die Auferstehung Christi (vgl. Picinelli s.v. sol, Liber I, Nr. 90) wird erweitert durch das Motiv der Vertreibung des Nachtgetiers. Hauptgedanke dieser Darstellung ist die Überwindung des Übels und Todes durch die Auferstehung (vgl. Picinelli s.v. aurora, Liber I, Nr. 52, »ILLUMINAT ET ELIMINAT«).
+
+=== e-f ===
+Diese beiden Embleme flankieren im AR die Darstellung des Pfingstfestes (D). Das lateinische Lemma steht hier nicht im Bild, sondern in einer Stuckkartusche darüber, das deutsche in einem weißen Sockel an der Basis des Bildes.
+
+== 4 Iustitia ==
+e TVO DE LVMINE SPLENDEO - Von Deinem Glantz Erleicht bin gantz. Das Bild zeigt einen Adler, der auf einem Stein sitzt und zur Sonne emporblickt. Die Fähigkeit des Adlers, mit offenen Augen das Sonnenlicht ertragen zu können, steht in der Emblematik u. a. als Sinnbild für das Leben in der Gegenwart Gottes (Picinelli s.v. aquila, Liber 4, Nr. 96 u. par; auch Nr. 102 »AD TE LEVAVI OCULOS«). Hier wird es auf die Apostel angewandt, auf die das Feuer des Hl. Geistes herabkommt.
+
+f ESVRIENTIBVS ESCAM. – Das Hegst Gebott / Hilf in der Noth. Das Bild stellt ein Nest auf einem Baum dar. Vier junge Vögel sitzen darin und recken sich dem herbeifliegenden Vogel entgegen, der einen Wurm im Schnabel trägt. Der Text des lateinischen Lemmas stammt aus Ps 145, 7, der die Hilfe rühmt, die den Menschen durch Gott zuteil wird. Eine Deutung dieses Emblems ist durch keine Quelle belegt. Sinngemäß ließe sich ein Bezug auf Pfingsten herstellen, indem man als tertium comparationis das Warten auf die Gaben nennt, die von oben kommen. Damit stimmen die Lemmata nicht überein. Sie führen vom Thema des Mittelbildes weg, um eine allgemein christliche Aufgabe, nämlich den Notleidenden zu helfen, zu verkünden.
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=8 -->
+<!-- citation-page-top: Band02 p164 -->
+
+<!-- header: DIETRAMSZELL -->
+
+
+== EINÖD ==
+
+
+
+== Literatur ==
+
+
+Meidinger, Historische Beschreibung verschiedener Städte und Märkte der kurfürstlich pfalzbaierischen Rentämter München, Burghausen, Landshut und Straubing, Landshut 1790, Bd 1, S. 329–31.
+
+[Kiesel, S.], Dietramszell, in: Kalender für katholische Christen 21, 1861, S. 89 f.
+
+Mayer-Westermayer, Bd 3, S. 421–24.
+
+Fugger, Eberhard von, Kloster Dietramszell, München 1880.
+
+KDB I OB (1), S. 861–63.
+
+Lindner, Pirmin, Monasticon Metropolis Salzburgensis, Salzburg 1908, S. 150–53.
+
+Glaser, Friedrich, Wie das Kloster Dietramszell gegründet wurde, in: Altheimatland 1, 1924–25, S. 1 f.
+
+Dietramszell, (o. V.), in: Altheimatland 5, 1928, S. 41–43. Feulner, Adolf, Skulptur und Malerei des 18. Jahrhunderts in Deutschland, Potsdam 1929, S. 179
+
+Dietramszell, (o. V.), in: Altheimatland 7, 1930, S. 29 f. Hämel-Stier, Angela, Das Kloster von der Heimsuchung Mariä in Dietramszell 1831–1931, Dietramszell 1931
+
+Hartig, Michael, Die oberbayerischen Stifte, München 1935, Bd 1, 143–48.
+
+Lieb, Norbert, Münchener Barockbaumeister, München 1941, S. 135–37.
+
+Röhlig, Ursula, Die Deckenfresken Johan Baptist Zimmermans, ungedr. Diss. München 1949, S. 88, 115.
+
+Dehio-Gall OB, S. 161 f.
+
+Hartig, Michael, Dietramszell (= KKF, Nr. 682), München 1966.
+
+Backmund, Norbert, Die Chorherrenorden und ihre Stifte in Bayern, Passau 1966, S. 75–77.
+
+Hitchcock, Henry-Russell, German Rococo: The Zimmermann Brothers, London 1968, S. 13, 31.
+
+Reclams Kunstführer, Bayern, Stuttgart 1970, S. 228–30. Huber, Erhard, Dietramszell, Ottobeuren 1972.
+
+Thon, Christina, Johann Baptist Zimmermann als Stukkator, München 1977, S. 165, 204, 337.
+
+Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981. Reclams Kunstführer, Bayern, Stuttgart 1970, S. 228–30.
+
+{{End}}

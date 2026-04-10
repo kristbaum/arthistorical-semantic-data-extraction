@@ -1,0 +1,128 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=511
+|Originalseitenbis=512
+|Lemma=Hagnberg, Kapelle
+|Typ=Sakral
+|Ort=Hagnberg
+|davor=Grund, Kapelle zum Grundnerhof gehörig
+|danach=Holzkirchen, Pfarrkirche St. Laurentius
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle, Gemeinde und Pfarrei Fischbachau, Erzdiözese München und Freising; z. Z. der Ausmalung Klosterhofmark Fischbachau, die im Besitz der Benediktinerabtei Scheyern war
+
+'''Zum Bauwerk:''' Neubau der Kapelle um 1785 im Auftrag der anliegenden Hofbesitzer Jodlbauer, Stefflbauer, Hanslauer. - Zweijochiger Raum mit Pilastergliederung, durchgehendem Gesims und Gurtteilung; eingezogene, halbrund geschlossene Altarnische. Nach N gerichtet
+
+
+[[File:Band02_chunk011_p006_img003.jpg|thumb]]
+
+
+'''Autor und Entstehungszeit:''' Ein Vergleich mit den Dekkenbildern der nahegelegenen Kapellen in Osterhofen (s. S. 535 f.) und Bayrischzell (s. S. 460-62) weist eindeutig auf Johann Baptist Pöheim als Autor und auf eine etwa gleichzeitige Datierung, um 1785, hin. Die gleichfalls Pöheim zugeschriebenen, reichen und gut erhaltenen Fassadenmalereien des angrenzenden Jodlerhofes, 1786 datiert, zeigen teilweise die gleichen Heiligendarstellungen wie W1-5 in der Kapelle. Die Dekorationsmalerei gleicht auffallend der in Wall (s. S. 608–10). Auch Josef Brunhuber (S. 496) gibt Pöheim als Autor an.
+
+Zu Johann Baptist Pöheim (* 1752 Westerndorf † 1838 Aibling) vgl. Bayrischzell, Seelenkapelle (S. 460)
+
+
+[[File:Band02_chunk011_p006_img004.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p006_img005.jpg|thumb|Eingang: W<sub>5</sub> Leonhard]]
+
+
+
+[[File:Band02_chunk011_p006_img006.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B Korbbogentonne, a abge¬moldete Tonne
+
+Rahmen: gemalte goldfarbene Profilrahmung
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 3,60 m; 1,20 × 1,70
+
+B Höhe 3,60 m; 1,20 × 1,70
+
+a Höhe 3,00 m; Ø 0,50
+
+Erhaltungszustand und Restaurierungen: 1868 Restaurierung; die Kapelle und die Malereien wurden zuletzt 1975/76 durch Wasmayr, Neuhaus, restauriert. Dabei wurden Risse ausgebessert, ein Fehlstück in A ergänzt und Übermalungen entfernt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Das Gewölbe ist in Bildfelder und Ornamentfelder gleichmäßig aufgegliedert: auf die Gurtbögen und beidseitig der Fresken A und B sind grüngrundige Ornamentkartuschen mit goldfarbenen Rocaillen und naturalistischen Blumen gemalt. Die Bildfelder A und B sind tafelbildmäßig, ohne Verkürzungen und ohne Untersicht angelegt.
+
+A VERKÜNDIGUNG (Lc 1, 26–38) In einem Innenraum kniet Maria am Betpult, der Engel tritt von links auf sie zu; in Wolken die Geisttaube
+
+B ANBETUNG DER HIRTEN In einer Ruine ist die Hl. Familie dargestellt, ein älterer Hirt bringt kniend ein
+
+
+[[File:Band02_chunk011_p006_img007.jpg|thumb|Anbetung der Hirten]]
+<!-- citation-page-bottom: Band02 p511 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=7 -->
+<!-- citation-page-top: Band02 p512 -->
+
+<!-- header: HAGNRERG -->
+
+
+[[File:Band02_chunk011_p007_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p007_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p007_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk011_p007_img004.jpg|thumb]]
+
+
+Lamm dar, zwei weitere Hirten bringen einen Korb Eier. In Wolken ein Putto mit Schriftband GLORIA IN EXCELSIS DEO (Lc 2, 14)
+
+W GOTTVATER mit Weltkugel und Zepter (eine ähnliche Darstellung findet sich an der Decke der Kapelle im Nachbarort Aurach; siehe S. 454.) Zu beiden Seiten raffen Putti einen blauen goldgesäumten Vorhang hoch.
+
+
+== a GEISTESTAUBE über dem Altar ==
+
+
+W<sub>1-5</sub> HEILIGE in Ganzfigur, imitierte Plastik auf gemalten Wandkonsolen
+
+W<sub>1</sub> Sebastian
+
+W<sub>2</sub> Katharina
+
+W<sub>3</sub> Barbara
+
+W<sub>4</sub> Andreas
+
+W<sub>5</sub> Leonhard
+
+Die Heiligen stellen vermutlich die Namenspatrone der ehemaligen Hofbesitzer dar. An der Eingangsfassade weitere gemalte Heilige: Johannes Evangelist, Georg, Michael.
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 2, S. 7, 9, 11. Brunhuber, Josef, Chronik des oberen Leitzachtales, Fischbachau-Birkenstein 1928, S. 496.
+
+
+== HOLZKIRCHEN ==
+
+
+{{End}}

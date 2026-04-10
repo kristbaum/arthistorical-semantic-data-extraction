@@ -1,0 +1,97 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=633
+|Originalseitenbis=634
+|Lemma=Wilparting, Kapelle St. Vitus
+|Typ=Sakral
+|Ort=Wilparting
+|davor=Wilparting, Wallfahrtskirche St. Marinus u. Anianus
+|danach=Ortsregister (Band 2)
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle St. Veit, Gemeinde und Pfarrei Irschenberg Erzdiözese München und Freising; z. Z. der Ausmalung Gericht Aibling.
+
+'''Patrozinium:''' St. Vitus
+
+'''Zum Bauwerk:''' Bau aus dem späten 17. Jh. an der Stelle, wo nach der Legende der hl. Marinus seine Zelle hatte. Gelängtes geostetes Oktogon (6,00 × 4,80 m), in den Ecken Doppelpilaster.
+
+Autor und Entstehungszeit: Soweit man bei der spärlich erhaltenen ursprünglichen Substanz urteilen kann, stammt das Bild aus der Erbauungszeit der Kapelle, dem späteren 17. Jh. Der Autor ist unbekannt.
+
+== <b>Befund</b> ==
+
+Träger der Deckenmalerei: Klostergewölbe mit Stichkappen
+
+Rahmen: Stuckprofil (Akanthusgirlande)
+
+Technik: Secco; polychrom
+
+Maße: Höhe 6,30 m; 2,90 × 2,00
+
+Erhaltungszustand und Restaurierungen: Die Restaurierung des zum großen Teil zerstörten Bildes erfolgte 1968 durch Helmut Knorr, Grafing. Vor der Wiederherstellung war die Darstellung trotz großflächiger Abblätterungen und Feuchtigkeitsschäden in der oberen Bildhälfte ikonographisch noch lesbar.
+
+== Beschreibung und Ikonographie ==
+
+DIE HLL. MARINUS UND ANIANUS Die Darstellung ist tafelbildmäßig – ohne Untersicht – in das ovale Bildfeld komponiert, das eine Himmelsszenerie zeigt. Auf Wolken knien links der hl. Bischof Marinus, rechts der hl. Diakon Anianus, von Putti mit Palmzweigen begleitet. Marinus ist in Bischofskleidung, Anianus in Diakonstracht. Über den Heiligen thront die Dreifaltigkeit, Christus mit dem Kreuz, Gottvater mit der Weltkugel und die Taube des Hl. Geistes am oberen, westlichen Bildrand. (Keine Abbildung)
+<!-- citation-page-bottom: Band02 p633 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=18 -->
+<!-- citation-page-top: Band02 p634 -->
+
+<!-- header: WILPARTING -->
+
+
+== Literatur ==
+
+
+Obernberg, Joseph von, Reisen durch das Königreich Bayern, 1. Theil, Der Isarkreis, 1. Heft, München-Leipzig 1815. S. 273–75.
+
+-, Über zwei sich widersprechende Grabinschriften zu Wilparting, in: OAVG 1, 1839, S. 291–307.
+
+Die Wallfahrtskirche Wilparting bei Irschenberg in Oberbayern (o. V.), in: Kalender für katholische Christen 1857, S. 64–75.
+
+Pfatrisch, Peter, Die Geschichte der Pfarrei Irschenberg, in: OAVG 23, 1863, S. 76–142.
+
+Mayer-Westermayer, Bd 2, S. 27.
+
+KDB I OB (2), S. 1529 f.
+
+Lechner, Ludwig, Das Leizachtal, Miesbach 1913, S. 280. Thieme-Becker, Bd 16 [1923], S. 269.
+
+Bergmaier, Peter, Die Wallfahrt Wilparting bei Miesbach, in: Altheimatland 6, 1929/30, S. 62–64.
+
+Sieghardt, August, Altbayerns älteste Glaubensstätte, Kirche und Kapelle Wilparting am Irschenberg, in: Altbayerische Heimatpost 8, 1956, Nr. 45.
+
+Reclams Kunstführer, Bd 1, Bayern, Stuttgart <sup>7</sup>1970, S. 994.
+
+Bauer, Hermann, Die Rokokofresken von Wilparting und Alb, in: Charivari 1976, Nr. 1, S. 68–71.
+
+Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.
+
+Literatur und Quellen zur Vita der hll. Marinus und Anianus
+
+Legenda vetusta SS. Mariani et Aniani, in: Monumenta Boica Bd 1, München 1763, S. 343–50, unter Monumenta Rotensia – Diplomatarium Miscellum.
+
+Johannes a Via, Das Leben der Heiligen S.S. Marini Bischoves Martyrers und Aniani Archidiaconus Bekenners ..., München 1597.
+
+Streiter, Alexander Joseph, Kurze Nachricht von dem Leben, Marter, Tod und Ruheplatz der zween Heiligen Marinus, Bischofs und Märtyrers, und Anianus Diacons und Beichtigers zu Wilparting, Tegernsee 1780.
+
+Westermair, Joseph, Nachricht von dem Leben, Tod und Ruheplatz der Hll. Marinus und Anianus, (o. O.), 1823.
+
+[Tölzer, Georg], Das heilige Leben, der herrliche Tod... der Heiligen Marinus und Anianus, München 1827.
+
+Elrainer, C., St. Marin und Anian, Passau 1897. Jocham, Magnus, Bavaria Sancta, Bd 1, München 1861, S. 122–25.
+
+Maier, Marinus, Die »Vita SS. Marini et Anniani« in ihrer kürzeren Fassung, in: Beiträge zur altbayerischen Kirchengeschichte Bd 23/1, 1963, S. 87–101.
+
+Hausberger, Karl, Die heiligen Marinus und Anianus, in Georg Schwaiger, Bavaria Sancta, Bd 3, Regensburg 1973, S. 21–32.
+
+Mass, Josef, Zeugen des Glaubens, München 1974, S. 74–76
+
+{{End}}

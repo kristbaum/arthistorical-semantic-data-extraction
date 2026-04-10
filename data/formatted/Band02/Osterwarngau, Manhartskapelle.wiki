@@ -1,0 +1,61 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=541
+|Originalseitenbis=541
+|Lemma=Osterwarngau, Manhartskapelle
+|Typ=Sakral
+|Ort=Osterwarngau
+|davor=Osterwarngau, Frauenkirche Mariä Opferung
+|danach=Parsberg, Pfarrkirche St. Laurentius
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Manhartskapelle am Ortseingang, Gemeinde Warngau, Pfarrei Osterwarngau, Erzdiözese München und Freising; z. Z. der Ausmalung war Osterwarngau dem Augustinerchorherrenstift Weyarn inkorporiert, Gericht Aibling
+
+'''Zum Bauwerk:''' Inschrift auf einem Stiftungsbild in der Kapelle: »Anno 1642 hat Hanß Sig von Osterwarngau und Ursula Hueberin dise Kapellen Machen Lassen Gott zu Lob unser lieben Frauen; sowoll H. Sebastian, Rochus, Francisgus Lienharthus zu ehren und errettung liller gefarn und alle die firiber raisen.«
+
+Kleiner, zweijochiger Raum mit Pilastergliederung, dreiseitiger Schluß (3,10 × 4,50 m). Der Name der Kapelle leitet sich vom nahegelegenen Manhartshof her.
+
+'''Autor und Entstehungszeit:''' Das Deckenbild dürfte gleichzeitig mit dem Stuck entstanden sein. Die Formen von Bildfeld und Rahmenprofilen sowie der Gewölbestuck mit Gitterfeldern, locker verteilten Blätterranken und Puttoköpfchen auf Wolken verweisen auf das 4. Jahrzehnt des 18. Jh. als Entstehungszeit der Deckendekoration. Der Autor der Malerei ist unbekannt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Stichkappentonne
+
+Rahmen: Stuckprofil
+
+Technik: Fresko?; polychrom; Maße: Höhe 3,50 m; 2,00 × 1,40 m
+
+Erhaltungszustand und Restaurierungen: Inschrift im Deckenbild renoviert 1903 von W. Oliv. Das Deckenbild ist vollständig mit Ölfarbe (?) übermalt, das Figurenschema entspricht jedoch noch barocker Tradition.
+
+
+== Beschreibung ==
+
+
+HEILIGE FAMILIE Ganzfigurige Darstellung des jugendlichen Jesus zwischen Maria und Joseph auf Wolken in tafelbildmäßiger Art. Über der »Trinitas terrestris«
+
+
+[[File:Band02_chunk011_p021_img003.jpg|thumb]]
+
+
+Gottvater und die Taube des Hl. Geistes. Das Deckenbild in der Mitte des kleinen Raumes rechnet nicht mit illusionistischer Wirkung.
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 3, S. 310
+
+Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, München 1913, S. 77.
+<!-- citation-page-bottom: Band02 p541 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=22 -->
+{{End}}

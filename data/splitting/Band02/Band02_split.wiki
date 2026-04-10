@@ -58,6 +58,19 @@ Das Corpus der barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 
 <!-- header: DANK -->
 
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Danksagung (Band 2)
+|davor=
+|danach=Bad Heilbrunn, Pfarrkirche St. Kilian
+|AutorIn1=Bauer, Hermann
+|AutorIn2=Rupprecht, Bernhard
+}}
+
 Der erste Band des Corpus der Barocken Deckenmalerei IN DEUTSCHLAND erfuhr im allgemeinen wohlwollend kritische Aufnahme. Wir danken all denen, die uns zur weiteren Arbeit ermunterten, und wir sind ebenso dankbar für erfolgte Kritik. Sie gab uns Anlaß, in den vorliegenden zweiten Band Verbesserungen einzubringen. Nach wie vor wurden wir von vielen Seiten unterstützt und danken bei dieser Gelegenheit herzlich für diese Hilfe.
 
 Empfehlungen des Erzbischöflichen Ordinariats München- Freising und des Bischöflichen Ordinariats Augsburg sowie des Bayerischen Landesamtes für Denkmalpflege haben uns die Arbeit sehr erleichtert. Wir dürfen den geistlichen Herren danken, ebenso den Besitzern kirchlicher und profaner Objekte, die uns Zutritt gewährten, Einsicht in Archivalien ermöglichten und die Erlaubnis für photographische Aufnahmen gaben.
@@ -610,9 +623,9 @@ LANDKREIS BAD TÖLZ – WOLFRATSHAUSEN
 |Chunkseite=
 |Originalseitenvon=19
 |Originalseitenbis=20
-|Lemma=Aufhofen. Filialkirche St. Valentin
+|Lemma=Aufhofen, Filialkirche St. Valentin
 |Typ=Sakral
-|Ort=Aufhofen. Filialkirche St. Valentin
+|Ort=Aufhofen
 |davor=
 |danach=Bad Heilbrunn, Pfarrkirche St. Kilian
 |AutorIn1=Bachter, Falk
@@ -718,7 +731,7 @@ Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.)
 |Lemma=Bad Heilbrunn, Pfarrkirche St. Kilian
 |Typ=Sakral
 |Ort=Bad Heilbrunn
-|davor=Aufhofen. Filialkirche St. Valentin
+|davor=Danksagung (Band 2)
 |danach=Bad Tölz, Wallfahrtskirche Maria Hilf
 |AutorIn1=Bachter, Falk
 |AutorIn2=Bauer-Wild, Anna
@@ -2229,6 +2242,11 @@ Fischer, Pius OSB, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, M
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Anastasiakapelle
 |danach=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
 }}
 
 == <b>Ehem. Kapitelsaal</b>, z. Z. Bildschnitzerwerkstatt ==
@@ -2333,26 +2351,6 @@ Literatur siehe S. 133
 |AutorIn5=Sinkel, Kristin
 }}
 
-{{End}}
-
-{{Artikel
-|Band=2
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=73
-|Originalseitenbis=93
-|Lemma=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal
-|Typ=Sakral
-|Ort=Benediktbeuern
-|davor=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt
-|danach=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer
-|AutorIn1=Bachter, Falk
-|AutorIn2=Bauer-Wild, Anna
-|AutorIn3=Böhm, Cordula
-|AutorIn4=Lüdicke, Lore
-|AutorIn5=Sinkel, Kristin
-}}
-
 == Zelle im Osttrakt ==
 
 
@@ -2382,6 +2380,26 @@ HL. JOSEPH In Wolken sitzt der hl. Joseph mit seinen Attributen Lilie und Winkel
 
 Literatur siehe S. 133
 
+
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=73
+|Originalseitenbis=93
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt
+|danach=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
 
 == Alter Festsaal ==
 
@@ -2955,25 +2973,6 @@ Literatur siehe S. 133
 
 <!-- citation-page-top: Band02 p96 -->
 
-{{End}}
-
-{{Artikel
-|Band=2
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=96
-|Originalseitenbis=100
-|Lemma=Benediktbeuern, ehem. Benediktinerabtei, Verbindungsgang
-|Typ=Sakral
-|Ort=Benediktbeuern
-|davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Zelle
-|danach=Benediktbeuern, ehem. Benediktinerabtei, Treppenhaus des Südtrakts
-|AutorIn1=Bachter, Falk
-|AutorIn2=Bauer-Wild, Anna
-|AutorIn3=Böhm, Cordula
-|AutorIn4=Lüdicke, Lore
-|AutorIn5=Sinkel, Kristin
-}}
 
 Ehem. Zelle im Osttrakt des Konventbaues, z. Z. Büroraum
 
@@ -3024,6 +3023,25 @@ A<sub>1-4</sub> In den Medaillons der Ecken sind die durchbohrten Hände (A<sub>
 
 Die Darstellung der Fünf Wunden Jesu wird außerhalb der Bildfelder begleitet von vorwiegend ornamentaler Malerei, Gefäßen mit Pflanzen, auf deren Zweigen Vögel sitzen, und doppelten Wasserstrahlen, die Muscheln entspringen und auf denen Fische emporgetragen werden. Es handelt sich hier vielleicht um Erinnerungen an altchristliche Paradieses- und Christussymbolik. In der Hohlkehle vier Tierdarstellungen (Eichkatze, Rebhühner?, Fuchs?)
 
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=96
+|Originalseitenbis=100
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, Verbindungsgang
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Zelle
+|danach=Benediktbeuern, ehem. Benediktinerabtei, Treppenhaus des Südtrakts
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
 
 == Verbindungsgang ==
 
@@ -4343,25 +4361,6 @@ Literatur siehe S. 142
 |AutorIn5=Sinkel, Kristin
 }}
 
-{{End}}
-
-{{Artikel
-|Band=2
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=137
-|Originalseitenbis=137
-|Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Prälatenkapelle
-|Typ=Sakral
-|Ort=Beuerberg
-|davor=Beuerberg, ehem. Augustinerchorherrenstift, Festsaal
-|danach=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus
-|AutorIn1=Bachter, Falk
-|AutorIn2=Bauer-Wild, Anna
-|AutorIn3=Böhm, Cordula
-|AutorIn4=Lüdicke, Lore
-|AutorIn5=Sinkel, Kristin
-}}
 
 Festsaal im ehem. Stiftsgebäude
 
@@ -4403,6 +4402,26 @@ Die Inschriften beziehen sich auf den Neubau der Klosteranlagen 1729–53, ebens
 An der S-Seite des Saales ist das bayrische Kurwappen angebracht. Dieses Wappen, die Darstellung Marias als Patrona Bavariae und die Berufung auf die beiden Kurfürsten Karl Albrecht (1726-45) und Max III. Joseph (1745-77) stellt das Stift in den größeren Zusammenhang der bayrischen Geschichte.
 
 Literatur siehe S. 142
+
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=137
+|Originalseitenbis=137
+|Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Prälatenkapelle
+|Typ=Sakral
+|Ort=Beuerberg
+|davor=Beuerberg, ehem. Augustinerchorherrenstift, Festsaal
+|danach=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
 
 <b>Prälatenkapelle</b> im ehem. Stiftsgebäude
 
@@ -11443,6 +11462,21 @@ b1 Gaudium ab adversis. Das schlecht erhaltene Bild zeigt eine aufgewühlte Wass
 
 b2 Non confundar in aeternum Die Sonne über einer Berglandschaft wird von Wolken verdeckt. – Picinelli (Liber s. v. sol, Nr. 65, 77 u. a.) nennt das Emblem als Sinnbild für die verfolgte Unschuld. Hier steht es für den Ruhm des Heiligen, der Verurteilung und Tod überdauerte.
 
+== Literatur ==
+Prechtl, Johann Baptist, Chronik der ehemals bischöflichen freisingischen Grafschaft Werdenfels in Oberbayern mit ihren drei Untergerichten und Pfarreien Garmisch, Partenkirchen und Mittenwald, Augsburg 1850, S. 185–95.
+Baader, Johann, Chronik des Marktes Mittenwald, Nördlingen 1880.
+Mayer-Westermayer, Bd 3, S. 584–89.
+KDB I OB (1), S. 632 f.
+Steffen, Hugo, Mittenwald und seine Kunstdenkmäler, in: Das Bayerland 29, 1918, S. 421–26.
+Steffen, Hugo, Mittenwald, in: Der Sammler 91, Nr. 83, 1922, S. 1–2; Nr. 84, S. 2–4.
+Simon, Ludwig und Richard Vollmann, Das Werdenfelser Land (= Münchner Wanderbücher H. 5), München 1923, S. 23 f.
+Hoffmann, Richard, Die Kunst in Mittenwald, in: Das Bayerland 39, 1928, S. 193–208.
+Gundersheimer, Hermann, Matthäus Günther, Augsburg 1930, S. 24 f.
+Brenner, Matthias und Hugo Schnell, Pfarrkirche Mittenwald (= KKF, Nr. 17), München <sup>1</sup>1934, <sup>5</sup>1961.
+Tintelnot, Hans, Die barocke Freskomalerei in Deutschland, München 1951, S. 159–60.
+Hofmann, Sigfrid, Kirchen der ehemaligen Grafschaft Werdenfels (= Wissenschaftliche Veröffentlichungen des Heimatpflegers von Oberbayern, Reihe A, Heft 7), Schongau 1955, S. 30–43.
+Dehio-Gall OB, S. 213.
+
 {{End}}
 
 {{Artikel
@@ -11463,20 +11497,6 @@ b2 Non confundar in aeternum Die Sonne über einer Berglandschaft wird von Wolke
 |AutorIn5=Sinkel, Kristin
 }}
 
-== Literatur ==
-Prechtl, Johann Baptist, Chronik der ehemals bischöflichen freisingischen Grafschaft Werdenfels in Oberbayern mit ihren drei Untergerichten und Pfarreien Garmisch, Partenkirchen und Mittenwald, Augsburg 1850, S. 185–95.
-Baader, Johann, Chronik des Marktes Mittenwald, Nördlingen 1880.
-Mayer-Westermayer, Bd 3, S. 584–89.
-KDB I OB (1), S. 632 f.
-Steffen, Hugo, Mittenwald und seine Kunstdenkmäler, in: Das Bayerland 29, 1918, S. 421–26.
-Steffen, Hugo, Mittenwald, in: Der Sammler 91, Nr. 83, 1922, S. 1–2; Nr. 84, S. 2–4.
-Simon, Ludwig und Richard Vollmann, Das Werdenfelser Land (= Münchner Wanderbücher H. 5), München 1923, S. 23 f.
-Hoffmann, Richard, Die Kunst in Mittenwald, in: Das Bayerland 39, 1928, S. 193–208.
-Gundersheimer, Hermann, Matthäus Günther, Augsburg 1930, S. 24 f.
-Brenner, Matthias und Hugo Schnell, Pfarrkirche Mittenwald (= KKF, Nr. 17), München <sup>1</sup>1934, <sup>5</sup>1961.
-Tintelnot, Hans, Die barocke Freskomalerei in Deutschland, München 1951, S. 159–60.
-Hofmann, Sigfrid, Kirchen der ehemaligen Grafschaft Werdenfels (= Wissenschaftliche Veröffentlichungen des Heimatpflegers von Oberbayern, Reihe A, Heft 7), Schongau 1955, S. 30–43.
-Dehio-Gall OB, S. 213.
 Pilgerhaus am Obermarkt 4, ehem. Kapelle seit 1911 profaniert; z. Z. der Ausmalung Fürstbischöflich-Freisingische Grafschaft Werdenfels, Niedergericht Mittenwald
 
 '''Patrozinium:''' Hl. Geist (Patroziniumsfest Pfingsten)
@@ -19207,26 +19227,6 @@ Literatur siehe S. 626
 
 <!-- header: WEYARN -->
 
-{{End}}
-
-{{Artikel
-|Band=2
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=625
-|Originalseitenbis=625
-|Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sitzungssaal
-|Typ=Sakral
-|Ort=Weyarn
-|davor=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei
-|danach=Weyarn, ehem. Augustiner-Chorherrenstift, Bürgermeisterzimmer
-|AutorIn1=Bachter, Falk
-|AutorIn2=Bauer-Wild, Anna
-|AutorIn3=Böhm, Cordula
-|AutorIn4=Lüdicke, Lore
-|AutorIn5=Sinkel, Kristin
-}}
-
 Sakristei der ehem. Stiftskirche
 
 '''Zum Bauwerk:''' Die Sakristei, nördlich an den AR der Stiftskirche anschließend, wurde gleichzeitig mit dieser erbaut (1687–93). Baumeister war Lorenzo Sciasca. Die Stuckierung stammt aus der Erbauungszeit.
@@ -19276,6 +19276,26 @@ B REGELÜBERGABE Im Vordergrund einer weiten Landschaft kniet ein Chorherr. Übe
 C KASELÜBERGABE Ein heiliger Chorherr, der das erzbischöfliche Pallium trägt, kniet vor Maria, die vor ihm in Wolken erscheint und eine Kasel überreicht. Das Haupt Mariens ist von hellen Strahlen umgeben. Auf dem Haupt trägt sie die Krone der Patrona Bavariae. Zu Füßen des Heiligen ist eine Mitra zu sehen.
 
 Literatur siehe S 626
+
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=625
+|Originalseitenbis=625
+|Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sitzungssaal
+|Typ=Sakral
+|Ort=Weyarn
+|davor=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei
+|danach=Weyarn, ehem. Augustiner-Chorherrenstift, Bürgermeisterzimmer
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
 
 Sitzungssaal im Rathaus der Gemeinde Weyarn, ehem. Stiftsgebäude
 
@@ -19606,7 +19626,7 @@ Literatur siehe S. 634
 |Typ=Sakral
 |Ort=Wilparting
 |davor=Wilparting, Wallfahrtskirche St. Marinus u. Anianus
-|danach=
+|danach=Ortsregister (Band 2)
 |AutorIn1=Bachter, Falk
 |AutorIn2=Bauer-Wild, Anna
 |AutorIn3=Böhm, Cordula
@@ -19692,12 +19712,20 @@ Hausberger, Karl, Die heiligen Marinus und Anianus, in Georg Schwaiger, Bavaria 
 
 Mass, Josef, Zeugen des Glaubens, München 1974, S. 74–76
 
+{{End}}
 
 == REGISTER ==
 
-
-
-== Ortsregister ==
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=635
+|Originalseitenbis=638
+|Lemma=Ortsregister (Band 2)
+|davor=Wilparting, Kapelle St. Vitus
+|danach=Personenregister (Band 2)
+}}
 
 
 Unter den Ortsnamen sind die weltlichen und geistlichen Rechtsinstitutionen und Rechtsträger – Landgerichte, Pflegeämter, Hofmarken und Herrschaften sowie Klöster, Stifte, Kollegien etc. – eigens aufgeführt. Die hierunter erfassten Seitenzahlen verweisen auf die historischen, z. Z. der Ausmalung bestehenden administrativ-rechtlichen Verbindungen.
@@ -19970,6 +19998,18 @@ Wurmannsau 348, 350, 444
 
 Zell 455  
 <!-- citation-page-bottom: Band02 p637 -->
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=639
+|Originalseitenbis=642
+|Lemma=Personenregister (Band 2)
+|davor=Ortsregister (Band 2)
+|danach=Ikonographisches Register (Band 2)
+}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=20 -->
 <!-- citation-page-top: Band02 p638 -->
@@ -20486,7 +20526,18 @@ Zwick, Patritius, Propst von Weyarn 562
 Zwinck, Franz Seraph, Maler 273 f., 246, 329 f., 331, 336–47, 348 f., 350–54, 433–41, 444  
 Zwinck, Johann Joseph, Maler 246–253, 350, 376–93, 394–96, 440  
 
-== Ikonographisches Register ==  
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=643
+|Originalseitenbis=654
+|Lemma=Ikonographisches Register (Band 2)
+|davor=Personenregister (Band 2)
+|danach=Embleme-Register (Band 2)
+}}
 
 Aaron 314, 319 f., 387, 390, 540, 586, 633  
 Ahnen und Sippe Christi 196  
@@ -21728,11 +21779,21 @@ Wolfgang von Regensburg 57, 490, 518, 532 Wolke, dunkle – Leid der Menschen 27
 Zacharias 32, 316, 390, 518 Ahnen und Sippe Christi 196, 589 Zambri 52 Zebedäus 196 Zehn Gebote Übergabe an Moses 387 Zehn-Gebote-Tafeln 35, 146, 179, 201, 328 369, 380, 390 → Alter Bund, → Fides-Ecclesia, → Ecclesia-Symbole Zodiakus 162, 188 f., 228 Zorn → Ira Zurechtweisung → Correctio Zwölf-Sterne-Kranz 521 → Maria Immaculata, → Sterne-Kranz
 <!-- citation-page-bottom: Band02 p653 -->
 
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=655
+|Originalseitenbis=655
+|Lemma=Embleme-Register (Band 2)
+|davor=Ikonographisches Register (Band 2)
+|danach=Bildmotive (Band 2)
+}}
+
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=3 -->
 <!-- citation-page-top: Band02 p654 -->
-
-== Embleme-Register ==
-
 
 Embleme 95, 134, 161–63, 250–53, 270–72, 369 f., 382, 385, 416–20, 467 f., 500–02, 514 f., 521 f., 543–45, 562 f., 608–10  
 Emblemähnliche Darstellungen  
@@ -21741,6 +21802,19 @@ Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegensta
 23 f., 255, 369, 385, 544 f.  
 Emblemähnliche Bilder ohne Lemmata  
 352, 562 f., 608–10, 632  
+
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=655
+|Originalseitenbis=655
+|Lemma=Bildmotive (Band 2)
+|davor=Embleme-Register (Band 2)
+|danach=Lateinische Lemmata (Band 2)
+}}
 
 BILDMOTIVE UND LEMMATA  
 Nicht aufgenommen sind die aus der Emblemliteratur herangezogenen Bildmotive und Lemmata.  
@@ -21834,6 +21908,19 @@ Wanderer, von Hund angebellt 608
 Weihraugefäß 272  
 Weinranke, aus den beschnittenen Zweigen fließt Saft 253  
 
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=656
+|Originalseitenbis=656
+|Lemma=Lateinische Lemmata (Band 2)
+|davor=Bildmotive (Band 2)
+|danach=Deutsche Lemmata (Band 2)
+}}
+
 LEMMATA, LATEINISCHE  
 Agnis mei sunt foeini patratus 515  
 Blanda se pace salutant 522  
@@ -21895,7 +21982,20 @@ Tuo de lumine splendeo 163
 
 Vas electionis est mihi iste 369 Vivificat 23
 
-LEMMATA, DEUTSCHE Auch In den Klein thuen erlich sheinn 544 Aus Lieb der Sonnenstralen Las ich die Federn falen 162
+{{End}}
+
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=656
+|Originalseitenbis=657
+|Lemma=Deutsche Lemmata (Band 2)
+|davor=Lateinische Lemmata (Band 2)
+|danach=
+}}
+
+Auch In den Klein thuen erlich sheinn 544 Aus Lieb der Sonnenstralen Las ich die Federn falen 162
 
 Das Geschray der Hunden macht mir keine Wunden 162 Das Hegst Gebott Hilf in der Noth 163 Der beste Port ist dises orth 134 Dis Feur thuet geben ein anders Leben 16 Dißes Verzehren thuet heiß gebehren 544 Drei ding Hasset Mein seele 545 Du must in Ewighkeit nit beweget werden 545
 
@@ -21921,6 +22021,7 @@ Wer unter disen schuz, der biethet aller Truz 501
 <!-- citation-page-bottom: Band02 p657 -->
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=5 -->
+{{End}}
 <!-- citation-page-top: Band02 p658 -->
 
 
@@ -22065,6 +22166,4 @@ Mittenwald 3)
 
 1  
 Deabach, 34.
-
-{{End}}
 

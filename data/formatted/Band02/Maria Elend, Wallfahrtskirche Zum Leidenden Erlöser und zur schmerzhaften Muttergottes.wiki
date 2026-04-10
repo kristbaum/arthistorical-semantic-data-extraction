@@ -1,0 +1,111 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=216
+|Originalseitenbis=218
+|Lemma=Maria Elend, Wallfahrtskirche Zum Leidenden Erlöser und zur schmerzhaften Muttergottes
+|Typ=Sakral
+|Ort=Maria Elend
+|davor=Lenggries, Kapelle Maria Hilf
+|danach=Reichersbeuern, Pfarrkirche St. Korbinian
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p216 -->
+
+<!-- header: MARIA ELEND -->
+
+
+== MARIA ELEND ==
+
+
+Wallfahrtskirche Maria Elend, Gemeinde und Pfarrei Dietramszell, Erzdiözese München und Freising; z. Z. der Ausmalung Klosterhofmark Dietramszell
+
+'''Patrozinium:''' Zum Leidenden Erlöser und zur Schmerzhaften Muttergottes
+
+'''Zum Bauwerk:''' Erbaut 1688, Weihe 1690; 1791 zur Hundertjahrfeier neu ausgestattet
+
+Achteckiger Zentralbau, gewölbt; im O Turm mit Vorhalle
+
+'''Auftraggeber:''' Propst Innozenz Deiserer von Dietramszell (1777–98)
+
+'''Autor und Entstehungszeit:''' Signatur im Fresko, nordwestlich an einem Säulensockel Joh: Seb: Troger/ inv: et Pinx:/ 1791. Johann Sebastian Troger (* um 1735 Oberaudorf † 1792 Weilheim, weiteres s. CBD, Bd 1, S. 563) malte das Fresko ein Jahr vor seinem Tod; es ist sein letztes bekanntes Werk. Es existiert ein Entwurf in Privatbesitz. Ol auf Leinwand, 45,5 × 50 cm, signiert Joh: Seb: Troger inventor, et pinxit 1791.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachkuppel über Pendentifs Rahmen: Profilierter, vergoldeter Stuckrahmen, von Band und Blattkranz umwunden
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 10,30 m (Stich 1,20); Ø 7,70
+
+
+[[File:Band02_chunk005_p009_img001.jpg|thumb|Vallfahrt zu Christus und Maria im Elend]]
+
+
+Erhaltungszustand und Restaurierungen: Letzte Restaurierung 1964 durch Martha Heise, München. Der Zustand der Malerei ist gut
+
+
+== Beschreibung ==
+
+
+WALLFAHRT ZU CHRISTUS UND MARIA IM ELEND In dem kreisrund begrenzten Bildfeld der Flachkuppel ist ein zentralperspektivisch konstruierter Innenraum mit konzentrischer Kuppelöffnung dargestellt (Betrachterstandpunkt unter der Bildmitte). Säulenbe-
+
+
+[[File:Band02_chunk005_p009_img002.jpg|thumb]]
+
+
+setzte Pfeiler tragen den Ansatz einer Pendentifkuppel, die oberhalb des Kuppelrings zum Glorienhimmel geöffnet ist. Nach den vier Seiten schließen tonnengewölbte Seitenarme an, vor denen auf Stufenpodesten, die in den Raum einschwingen, Wallfahrer und Flehende zu sehen sind. Da die Vierung und die angrenzenden Raumteile mit wechselnden Fluchtpunkten der Höhen- und Tiefenlinien konstruiert und die Vierungspfeiler auf die Hauptansichten bezogen sind, wird keine einheitliche Raumillusion erzielt. In der Realarchitektur hat die über dem Kuppelring ansetzende Scheinarchitektur keine Entsprechung. Troger setzt diese Bildanlage, die als Illusionssystem in der fraglichen Zeit keine Rolle mehr spielt, wie ein Bildmotiv ein (vgl. Polling, Bibliothek, Fresko B, CBD Bd 1, S. 461). Das wird auch deutlich in den Rahmenüberschneidungen, denen die Scheinarchitektur in den Diagonalen unterworfen ist.
+
+Die Hauptansicht gegen W ist kompositionell durch die Anordnung der Figuren in der Glorie sowie durch einen Engel, der mit einer dunklen Wolke aufschwebt, hervorge-
+
+
+[[File:Band02_chunk005_p009_img003.jpg|thumb|Entwurfsskizze zum Deckenbild]]
+
+
+216
+<!-- citation-page-bottom: Band02 p217 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=10 -->
+<!-- citation-page-top: Band02 p218 -->
+
+<!-- header: MARIA ELEND -->
+
+hoben. Im Bildzentrum erscheinen auf Wolken die Andachtsbilder von Christus im Elend, hinter dem Engel das Kreuz halten, und der Schmerzhaften Muttergottes. Darüber thront Gottvater auf Wolken. Das Stufenpodest darunter zeigt die figurenreichste Gruppe von Pilgern, Kranken und Bittenden. Im südlichen Teil des Deckenbildes sind Bauern mit ihren Arbeitsgeräten versammelt, auf der gegenüberliegenden nördlichen Seite wird eine Prozession von einem Geistlichen und einem Kreuzträger angeführt. Im O sind Pilger hinter einer hohen Brüstung dargestellt, auf deren Mitte ein Weihrauchgefäß steht.
+
+Farbgebung und Lichtführung tragen nicht zu einer Höhenillusion bei: Es dominieren die Ockerwerte der Architekturmalerei, die in Kleidung und Inkarnat der Figuren aufgenommen werden und dem Fresko einen fast monochromen Farbcharakter verleihen. Die Himmelsglorie ist gegenständlich durch die weiß gemalten Strahlen als Lichtzentrum bezeichnet, sonst aber mit ihren ockerfarbenen Wolken farblich nicht anders als die Architektur behandelt. Die kompakte Ockerfarbigkeit des Bildes steht in Kontrast zu dem hellen Gewölbe mit dem wenigen Stuck und schließt auch dadurch eine illusionistische Wirkung der Scheinarchitektur aus.
+
+Das ausgeführte Fresko zeigt entscheidende Änderungen der Skizze gegenüber. Dort ist die Glorie exzentrisch an den Bildrand geschoben, die Pilgerszene spielt sich vor einem Ausschnitt des Zentralraumes ab, der auf zwei Vierungspfeiler mit Säulen, Gebälk und Wölbung konzentriert wird. Die seitlichen Figurengruppen – im S Bauern, im N von Blitzen Niedergeworfene – runden die Hauptszene ab; sie werden am östlichen Bildrand von stark verkürzten und verschatteten architektonischen Versatzstücken überschnitten. Die Malerei ist auf einen gemeinsamen Fluchtpunkt bezogen. Im ganzen wirkt der Entwurf weit geschlossener und spannungsvoller als das ausgeführte Fresko.
+
+
+== Ikonographie ==
+
+
+Christus ist auf dem Fresko mit Dornenkrone und Schilfrohr dargestellt, den Kopf in die linke Hand gestützt, im Typ des Christus-im-Elend-Bildes. Ein roter Mantel ist um seine Schultern gelegt; der Mantel ist an sich ein Bestandteil des Andachtsbild-Typs der Herrgottsruh (Gertrud Schiller, Ikonographie der christlichen Kunst, Gütersloh 1968, Bd 2, S. 95 f.); er fehlt an der Holzplastik des Gnadenbildes im Hauptaltar, wo Christus nackt bis auf das Lendentuch vor der Geißelsäule sitzt und ist im Fresko wohl ein Zugeständnis an den traditionellen Christustyp in Gloriendarstellungen. Auch die Darstellung der Schmerzhaften Muttergottes variiert das Gnadenbild im Hauptaltar; dort ist sie ohne Schwert dargestellt.
+
+Die dunkle Wolke, die über der Gruppe an der westlichen Bildseite aufquillt und von dem Engel nach oben getragen wird, kann als das Leid und die leidvollen Anliegen der Menschen gedeutet werden, die an dieser Gnadenstätte Christus und Maria um Hilfe anflehen (vgl. Bad Tölz Mariahilfkirche, S. 25–27). Das Weihrauchfaß an der gegenüberliegenden Bildseite mit dem aufsteigenden weißen Rauch ist ein Symbol des Gebets (Oratio hat als Attribut das Weihrauchfaß).
+
+In den Pendentifs der Scheinkuppel sind die Kardinaltugenden dargestellt, im NW: Sapientia mit Schlangenspiegel und Buch, eine Flamme auf dem Haupt, im NO: Fortitudo mit Helm, Brustpanzer und Säulenstumpf, im SO: Temperantia mit Buch und Trinkgefäß, im SW: Justitia mit Helm, Brustpanzer, Schwert und Waage. Durch die Symbole der drei theologischen Tugenden aus Stuck in den Zwickeln um das Deckenbild ergänzt sich die Zahl zu den Sieben Christlichen Tugenden, im NW: für Fides Hostienkelch, Kreuz und Hl. Schrift, im NO: für Caritas ein flammendes Herz, im SO: für Spes ein Anker und ein grünender Zweig. Zepter und Auge Gottes im vierten Zwickel, im SW, sind Attribute der Divina Providentia.
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 3, S. 422.  
+KDB I OB (1), S. 889.  
+Maria Elend bei Dietramszell, (o. V.) in: Altheimatland 2, Ausgabe A, 1925/26, S. 194 f.  
+Hartig, Michael, Dietramszell (= KKF, Nr. 682), München 1958.  
+RDK, Bd 4 [1958], s. v. Elend, Sp. 1291–93.
+
+
+== REICHERSBEUERN ==
+
+
+{{End}}

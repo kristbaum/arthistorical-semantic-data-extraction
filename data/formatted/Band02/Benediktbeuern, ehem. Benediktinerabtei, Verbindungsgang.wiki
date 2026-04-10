@@ -1,0 +1,152 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=96
+|Originalseitenbis=100
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, Verbindungsgang
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Zelle
+|danach=Benediktbeuern, ehem. Benediktinerabtei, Treppenhaus des Südtrakts
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+== Verbindungsgang ==
+
+
+'''Zum Bauwerk:''' Der Verbindungsbau zwischen dem Konventbau und dem 1728-32 errichteten Süd- oder Gästetrakt ist sicher während der Bauarbeiten an letzterem entstanden.
+
+Gang zu fünf Fensterachsen im ersten Geschoß, 19,20 × 5,00 m; Fenster nach O
+
+'''Auftraggeber:''' Als Auftraggeber für die Mehrzahl der Bilder (A, A<sub>1-4</sub>, M<sub>1-8</sub>) kommen Abt Amand II. Thomamiller (1661–71) oder Abt Placidus Mayr (1671–89) in Frage. Die Anbringung der Bilder an der jetzigen Stelle fand unter Abt Magnus Pachinger (1707–42) statt.
+
+Autor und Entstehungszeit: Sämtliche Bilder sind unsigniert und undatiert. A, A<sub>1-4</sub> und M<sub>1-8</sub> stammen von der gleichen Hand und können ins spätere 17. Jh. datiert werden. B und C können Giovanni Trubillio zugewiesen werden; es sind wohl Vorstudien für die Deckenbilder der Vier Winde im Zimmer der Elemente (Steinzimmer) der Münchner Residenz (1692/94), die vermutlich als Geschenk des kurfürstlichen Hofes nach Benediktbeuern gelangt sind. Die Bilder wurden um 1730 zu der jetzigen Deckendekoration zusammengefügt.
+
+A, A<sub>1-4</sub> und M<sub>1-8</sub> sind sicher Bestandteile einer früheren Deckendekoration. Aus ihnen läßt sich eine Kassettendecke mit Seitenschrägung rekonstruieren, die thematisch Übereinstimmungen mit dem Alten Festsaal zeigt (Elemente, Monate). Zwei Decken mit ähnlicher Thematik im gleichen Kloster sind schwer denkbar. Vielleicht wurde nach dem Tod des Abtes Amand Thomamiller und der Wahl des Abtes Placidus Mayr die Dekoration des Alten Festsaals neu geplant und die für die ursprünglich geplante Kassettendecke bestimmten Bilder überflüssig.
+
+M<sub>1-8</sub> zeigen motivische Übereinstimmungen mit den Monatsbildern Stephan Kesslers im Alten Festsaal. Die stilistischen Übereinstimmungen mit den Monatsbildern im ehem. Speisesaal (S. 118) sind so groß, daß man M1-8 und damit auch A und A1-4 dem gleichen (unbekannten) Autor zuweisen kann.
+
+
+== <b>Befund</b> ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle Rahmen: Stuckprofil und Innenleisten aus Holz Technik: Öl auf Leinwand; polychrom
+
+Maße: Höhe des Ganges 3,95 m
+
+A 1,20 × 2,65
+
+B 0,65 × 0,65
+
+C 0,65 × 0,65
+
+A<sub>1-4</sub> 1,45 × 2,40
+
+M<sub>1-8</sub> 1,20 × 1,65
+
+Erhaltungszustand: Die Bilder sind nicht restauriert. Sie sind durchweg durch starke Risse und viele kleine Sprünge beeinträchtigt. Die Farbsubstanz ist angegriffen. Alle Bilder sind auffallend blaß in den Farben, bei M3 ist der Bildgegenstand kaum mehr erkennbar.
+
+
+[[File:Band02_chunk002_p024_img002.jpg|thumb]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die Bilder A, A<sub>1-4</sub> und M<sub>1-8</sub> sind in Aufbau, Komposition und Perspektivsystem als Tafelbilder angelegt. Nur die Form ihrer Bildfelder (vgl. oben) zeigt, daß sie für eine Decke bestimmt waren. A, B und C sind mit Blickrichtung nach W, A<sub>1-2</sub>, M<sub>1-2</sub> und M<sub>5-6</sub> nach W, A<sub>3-4</sub>, M<sub>3-4</sub> und M<sub>7-8</sub> nach O zu betrachten
+
+
+[[File:Band02_chunk002_p024_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk002_p024_img004.jpg|thumb|A Erschaffung der Welt]]
+
+
+A ERSCHAFFUNG DER WELT Das Bild zeigt eine weite Weltlandschaft mit Wiese, Bäumen, Wäldern, Meer und Bergen im Hintergrund. Hauptszene ist die Erschaffung Evas. Diese Figurengruppe nimmt das Zentrum des Bildes ein. Gottvater in weißem Gewand und rotem Mantel hat die Hand segnend erhoben, zu seinen Füßen liegt der schlafende Adam. Eva kniet dicht an Adams Seite. Sie hat die Hände gefaltet und neigt das Haupt Gottvater zu. Noch zweimal ist Gottvater auf diesem Bild zu sehen: Im Mittelgrund links am Bildrand ist die Erschaffung der Tiere dargestellt: Gott breitet die Arme über einer Schar von Tieren aus. Im Hintergrund sieht man die Erschaffung der Vögel: Gott blickt zu einer großen Zahl von Vögeln im Himmel auf.
+
+
+== A<sub>1-4</sub> ELEMENTE ==
+
+
+A1 WASSER Das Wasser wird von einer jungen Frau verkörpert, die auf dem Haupt Korallen trägt und mit Perlen geschmückt ist. Sie sitzt am schilfigen Ufer eines weiten Gewässers; aus zwei großen runden Gefäßen gießt sie Wasser. Auf dem Meer, das sich weit in den Hintergrund erstreckt, sind Schiffe dargestellt.
+
+A2 FEUER Die Allegorie des Feuers ist rechts im Bildvordergrund dargestellt; es ist eine junge Frau, ihr Haupt ist von einem Flammenkranz umgeben, in der Linken hält sie ein Flammenbündel. Als Attribut hat sie einen Feuersalamander, der von einem Feuerschein umgeben ist. Da der Salamander nach Meinung antiker Autoren im Feuer leben konnte, wurde er zum geläufigen Feuer-Attribut. Im Hintergrund eine brennende Stadt.
+
+
+[[File:Band02_chunk002_p024_img005.jpg|thumb|A2 Feuer]]
+<!-- citation-page-bottom: Band02 p97 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=25 -->
+<!-- citation-page-top: Band02 p98 -->
+
+<!-- header: BENEDIKTBEUERN -->
+
+[[File:Band02_chunk002_p025_img001.jpg|thumb]]
+
+A3 LUFT Die Allegorie der Luft ist eine junge Frau mit wehendem Gewand, die über Wolken schreitet. Rechts und links über ihr sowie zu ihren Füßen sind die vier Winde in Gestalt von blasenden Puttoköpfchen dargestellt. Der Hintergrund bildet eine Landschaft, die sich weit in die Ferne erstreckt. Sie ist Schauplatz einer mythologischen (?) Szene (es sind zwei Figürchen, eines stehend, eines wegeilend zu erkennen).
+
+A4 ERDE Die Erde ist personifiziert durch eine junge Frau, die eine Mauerkrone auf dem Haupt trägt. Sie ist an einen steinernen Sockel gelehnt; zu ihren Füßen sieht man Blumen und Früchte, die Gaben der Erde. Ein Löwe ist ihr als Attribut beigegeben. Die Ketten in ihrer Hand und der große goldene Pokal ganz rechts im Bild bedeuten wohl die Schätze der Erde. Auch hier bildet eine weite Landschaft den Hintergrund.
+
+B und C WINDGÖTTER Die acht noch vorhandenen Monatsbilder M1-8 sind je zu viert im Quadrat einander zugeordnet, so daß in der Mitte jeder Vierergruppe ein um 45° gedrehtes Quadrat freier Deckenfläche entsteht. Die Mitte dieser Deckenfläche nehmen die ebenfalls quadratischen kleinen Bilder B und C ein. Diese Bilder sind offensichtlich als Deckengemälde konzipiert. Sie zeigen jeweils einen Windgott zusammen mit einem fliegenden Putto in Wolken. Die Körper sind in Verkürzung und Untersicht gegeben; Ansicht nach W. Beide Windgötter sind muskulöse Männergestalten mit Flügeln. Ihre Körper sind mit großem Interesse am anatomischen Detail gezeichnet.
+
+B Windgott; vor ihm ein Putto in einer Gebärde des Erstaunens
+
+C Windgott; links über ihm ein fliegender Putto
+
+M<sub>1-8</sub> MONATSBILDER Von den ursprünglich sechs zwölf Monatsbildern sind an dieser Decke nur acht verwendet worden. In trapezförmigen Bildfeldern ist jeweils eine große Gestalt dargestellt bei einer für den Monat typischen Tätigkeit. Die weite Landschaft dahinter zeigt das für die Jahreszeit charakteristische Gepräge. In ihr sind die Arbeiten und Vergnügungen des Monats zu sehen.
+
+[[File:Band02_chunk002_p025_img002.jpg|thumb|I<sub>2</sub> August]]
+
+[[File:Band02_chunk002_p025_img003.jpg|thumb]]
+
+Der Reiz dieser Bilder liegt vor allem in den sehr detailliert gezeichneten, zartfarbigen Landschaften.
+
+M1 JANUAR Im Vordergrund steht ein alter Mann mit langem weißen Bart in warmer Kleidung. Der Hintergrund zeigt eine Parklandschaft nahe der Stadt mit einer Säulenarchitektur rechts. Ein Paar fährt in einem Schlitten, der von einem Pferd gezogen wird.
+
+[[File:Band02_chunk002_p025_img004.jpg|thumb]]
+
+[[File:Band02_chunk002_p025_img005.jpg|thumb|M<sub>4</sub> Juni]]
+
+[[File:Band02_chunk002_p025_img006.jpg|thumb]]
+
+[[File:Band02_chunk002_p025_img007.jpg|thumb]]
+
+[[File:Band02_chunk002_p025_img008.jpg|thumb]]
+
+M2 AUGUST Eine junge Frau in bäuerlicher Kleidung hält eine Sichel und eine Getreidegarbe. Zu ihren Füßen liegt eine Heugabel. Auf zwei großen Getreidefeldern sind Bauern bei der Ernte. Im Hintergrund sieht man einen waldigen Hügel und in der Ferne eine Stadt.
+
+M<sub>3</sub> NOVEMBER (?) Die Hauptfigur zeigt einen Holzhacker (? das Bild ist weitgehend zerstört).
+
+[[File:Band02_chunk002_p025_img009.jpg|thumb]]
+
+[[File:Band02_chunk002_p025_img010.jpg|thumb|16 Dezember]]
+<!-- citation-page-bottom: Band02 p99 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=1 -->
+<!-- citation-page-top: Band02 p100 -->
+
+[[File:Band02_chunk003_p001_img001.jpg|thumb]]
+
+M4 JUNI Vor einer weiten sommerlichen Landschaft, in der Bauern mit der Schafschur beschäftigt sind, steht eine junge Frau in ländlicher Tracht. Sie trägt unter dem Arm ein Schaf und hält ein Schermesser.
+
+M5 MAI Eine junge Frau in braunem Kleid mit heller Schürze hält in der einen Hand einen Strauß Blumen, in der anderen einen kleinen Rettich. Zu ihren Füßen liegt neben einer Blumenvase ein weiterer Rettich als erstes Gemüse, das der Frühling bringt. Zwischen baumbestandenen Hügeln liegt im Hintergrund ein Garten, von Hecken eingefaßt, mit einem Springbrunnen in der Mitte. Beim Garten vergnügt sich eine höfische Gesellschaft.
+
+M6 DEZEMBER Ein dicker Schlächter in rot-grünem Gewand und Schürze steht im Vordergrund. Er hält ein Messer in der Hand; zu seinen Füßen sieht man ein geschlachtetes Tier und einen Kessel. Die Landschaft ist verschneit; auf dem Eis eines Flusses, der zu einer Stadt führt, vergnügen sich Schlittschuhläufer.
+
+[[File:Band02_chunk003_p001_img002.jpg|thumb]]
+
+M7 JULI Eine junge Frau, barfuß, in ländlicher Tracht, trägt über der Schulter zwei Brotkörbe. In der Hand hält sie einen Rechen. Die Landschaft ist sommerlich, mit bewaldeten Hügeln und einer Stadt in der Ferne. Auf einer Wiese sind Erntearbeiter bei der Rast.
+
+M8 FEBRUAR Ein rotgekleideter, dicker Koch mit weißer Schürze hält eine Platte mit gebratenem Geflügel. Kahle Bäume ragen in den winterlichen Himmel. Vor Häusern am linken Bildrand sieht man Masken beim Karnevalstreiben.
+
+Literatur siehe S 139
+
+
+{{End}}

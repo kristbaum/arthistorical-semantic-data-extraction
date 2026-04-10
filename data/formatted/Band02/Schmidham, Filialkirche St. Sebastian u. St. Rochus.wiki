@@ -1,0 +1,89 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=562
+|Originalseitenbis=563
+|Lemma=Schmidham, Filialkirche St. Sebastian u. St. Rochus
+|Typ=Sakral
+|Ort=Schmidham
+|davor=Schliersee, Kapelle St. Nikolaus
+|danach=Tegernsee, ehem. Benediktinerabtei, Klosterkirche
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p562 -->
+
+== SCHMIDHAM ==
+
+Filialkirche, Gemeinde Valley, Pfarrei Osterwarngau, Erzdiözese München und Freising; z. Z. der Ausmalung war Osterwarngau dem Augustinerchorherrenstift Weyarn inkorporiert, Grafschaft Valley
+
+'''Patrozinium:''' St. Sebastian und St. Rochus
+
+'''Zum Bauwerk:''' Die Kapelle wurde 1634 als Pestvotivkirche erbaut {ZITAT|000} (Stiftungstafel im Vorraum); Weihe 1636.
+
+Rechteckiger Saal zu drei Jochen mit dreiseitigem Schluß, im S Fenster
+
+'''Auftraggeber:''' Propst Patritius Zwick von Weyarn (1731–53)
+
+'''Autor und Entstehungszeit:''' Der Autor der bäuerlichen Malerei ist unbekannt; in A ist das Jahr der Entstehung angegeben 1753.
+
+[[File:Band02_chunk012_p007_img001.jpg|thumb|B Glorie des hl. Sebastian]]
+
+== Befund ==
+
+Träger der Deckenmalerei: A, B, 1-4 Tonne mit Stichkappen (ehemals Kreuzgratgewölbe, hinter dem Altar noch sichtbar)
+
+Rahmen: A, B gemalte Rahmenprofile, 1–4 gemalte Kartuschrahmung
+
+Technik: Fresko; A und B polychrom, 1-4 monochrom steingrau mit karminrot gemalter Rahmung
+
+[[File:Band02_chunk012_p007_img002.jpg|thumb]]
+
+[[File:Band02_chunk012_p007_img003.jpg|thumb]]
+
+Maße: A Höhe 4,10 m; 2,50 × 1,60 m. B Höhe 4,10 m; 2,30 × 1,60 m.
+
+Erhaltungszustand und Restaurierungen: 1916 wurden die Deckenbilder restauriert. In A und B leichte Haarrisse; der Zustand ist allgemein gut, teilweise blasse Stellen (in der rechten Bildpartie von B), vielleicht aufgrund einer Reinigung
+
+== Beschreibung und Ikonographie ==
+
+A TOD DES HL. SEBASTIAN Durch Pfeiler, Bogen und Stufen ist ein palastartiger Innenraum angedeutet, in dem links unter einem Baldachin der römische Kaiser thront. Vor ihm kniet der hl. Sebastian als römischer Krieger gekleidet, zwei Henkersknechte erschlagen ihn mit Keulen. Ein Lichtstrahl dringt in den Raum, und ein Putto bringt die Martyrerkrone.
+
+B GLORIE DES HL. SEBASTIAN Der Heilige in Rüstung und Mantel, einen Palmzweig in Händen, kniet auf dicken Wolkenkissen, begleitet von Putti, die einen Helm und Pfeile, seine Attribute, tragen. Über ihm, auf einer weiteren Wolkenbank, die Dreifaltigkeit.
+
+Auf unbeholfene Weise sind in der Deckenmalerei übliche Bildschemata wiederholt und tafelbildmäßig – ohne Untersicht – vorgetragen. Die Farben der Fresken sind matt und ausdruckslos. Vom ocker und graublau (in A) bzw. ocker und grau (in B) gehaltenen Gesamtton des Hintergrundes heben sich die karminrosa und blaugrau gemalten Figuren durch eine starke Konturierung ab.
+
+Die Darstellungen beziehen sich nur auf einen der beiden Pestpatrone der Kirche. In A ist Sebastians Martertod wiedergegeben und nicht wie häufig dessen Pfeilmarter. Der Legende nach ist Sebastian, von den Verwundungen der Pfeilschüsse genesen, wiederum vor Kaiser Diokletian getreten, um ihm das Unrecht der Christenverfolgungen vorzuhalten. Der Kaiser ließ Sebastian daraufhin in seiner Gegenwart zu Tode prügeln (Ribadeneira-Hornig, Bd 1, 20.1., S. 232 f.)
+
+1-4 EMBLEME Vier textlose Embleme in den mittleren Gewölbezwickeln führen das Sebastiansthema fort.
+
+[[File:Band02_chunk012_p007_img004.jpg|thumb]]
+
+[[File:Band02_chunk012_p007_img005.jpg|thumb]]
+
+1 Über dem Dorf Schmidham geht ein Unwetter nieder, Pfeile fallen herab. Im Zentrum öffnet sich die Wolkendecke, die strahlende Sonne bricht hervor. – Durch die Sonne (= Gott) wird Unheil vom Dorf abgewendet. Die Pfeile alludieren Sebastian (vgl. Emblem 3).
+
+2 Das Innere einer Apotheke mit einem Regal voller Gefäße, einem Tisch mit Arzneien und links unter einem kleinen Fenster einem Mörser. Die Apotheke ist ein Sinnbild, das in der Emblematik in erster Linie marianisch gedeutet wird als »salus infirmorum« und »medicamentum vitae« (vgl. Jacob Masen, Speculum imaginum veritatis occultae, Köln 1650, S. 597, Nr. 1). Sie kann aber auch als Bild des Heiles die Apotheose eines Heiligen begleiten (vgl. Tannenberg, CBD, Bd 1, S. 545).
+
+3 Springender Hirsch mit einem Pfeil in der Kruppe in einer Flußlandschaft, am Horizont die aufgehende Sonne. Dieses Motiv geht auf Ps 41, 2 zurück. Der verwundete Hirsch findet Heilung an der Quelle, wie der Gläubige in Gott (vgl. Unterdießen, CBD, Bd 1, S. 242). Die Pfeile alludieren das Sebastiansmartyrium (vgl. Emblem 1).
+
+4 Mit dem Motiv der Sonnenblume, die sich der aufgehenden Sonne zuneigt, wird ein geläufiges Sinnbild der Hinwendung zu Gott vorgeführt.
+
+== Literatur ==
+
+Mayer-Westermayer, Bd 3, S. 309.
+
+KDB I OB (2), S. 1493
+
+Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, (München) 1913, S. 64.
+
+Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.
+<!-- citation-page-bottom: Band02 p563 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=8 -->
+{{End}}

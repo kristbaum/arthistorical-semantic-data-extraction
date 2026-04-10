@@ -1,0 +1,93 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=611
+|Originalseitenbis=612
+|Lemma=Westenhofen, Filialkirche St. Martin
+|Typ=Sakral
+|Ort=Westenhofen
+|davor=Wall, Pfarrkirche St. Margareta
+|danach=Weyarn, ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Filialkirche, Gemeinde und Pfarrei Schliersee, Erzdiözese München und Freising; z. Z. der Ausmalung war Schliersee dem Kollegiatsstift Unserer Lieben Frau in München inkorporiert, Herrschaft Hohenwaldeck  
+
+'''Patrozinium:''' St. Martin  
+
+'''Zum Bauwerk:''' Neubau 1734–37 an der Stelle eines Folgebaus der ehem. Benediktinerabteikirche {ZITAT|001} (Weihe 779) unter Pfarrvikar Sebastian Ehrenhofer von Schliersee (1729–42). Am Chorbogen gemalt eine von zwei Engeln gehaltene Kartusche, darin ein 1973 verfaßtes Chronogramm DEO VNO ATQVE TRINO/ REGINAE PARENTI VIRGINI/ VENERABILI MARTINO EPISCOPO/ SIT PIA LAVS (= 1737)  
+
+Saalbau zu vier Jochen mit eingezogenem AR (9,50 × 7,50 m) zu zwei Jochen mit dreiseitigem Schluß, dessen O-Wand segmentförmig gemuldet ist; im W Empore  
+
+'''Autor und Entstehungszeit:''' Die Deckenbilder stammen vermutlich aus der Erbauungszeit von einem ländlichen, wohl im lokalen Bereich ansässigen Maler.  
+
+== Befund ==  
+
+Träger der Deckenmalerei: LHs (1–4) Flachtonne mit Stichkappen, AR (A, B) Tonne mit Stichkappen  
+Rahmen: A und B Stuckprofil  
+Technik: Fresko; A, B polychrom, 1–4 monochrom rosa  
+Maße: A Höhe 9,90 m; 2,00 × 2,40  
+B Höhe 9,90 m; Ø 2,60  
+
+Erhaltungszustand und Restaurierungen: 1878 fand eine Restaurierung statt, bei der die Fresken im AR übertüncht wurden, im LHs durch neue ersetzt, signiert und datiert AD(ligiert)imberger Miesbach 1878. (= Alois Diernberger *1823 †1897). 1927 wurden die Fresken im AR wieder freigelegt. Bei der letzten Restaurierung 1973/75 durch die Firma Holderried, Pfaffenhofen/Ilm, wurde die barocke Gewölbedekoration von einer Dispersions- und Kalktünche freigelegt, wobei weitgehende Ergänzungen vorgenommen wurden (Emblemkartuschen 1–4 im LHs, Chronogramm am Chorbogen). Die Deckenbilder im AR, deren Bildgegenstand nach der Freilegung von 1927 nur noch schwach erkennbar war, wurden farblich und zeichnerisch neu herausgearbeitet, die Inschrift in B ergänzt (vgl. Akten des B.L.f.D.). 1, 3 und 4 keine Abbildungen  
+
+[[File:Band02_chunk013_p006_img007.jpg|thumb|E6 Es zeigt ein geflügeltes Kind, das mit dem linken Bein auf einer Kugel steht, während das rechte wie im Lauf zurückgenommen ist. Der nackte Körper wird nur von einem Tuch bedeckt. Die Arme sind emporgereckt und die Augen auf das Dreieck mit dem Auge Gottes im Himmel gerichtet. Vom Auge Gottes fällt ein Strahlenkegel auf das Kind herab. Im Hintergrund eine Flußlandschaft mit einer Stadt]]  
+
+== Bildabfolge und Inschriften ==  
+
+Chronologische Abfolge von O nach W  
+
+A MANTELSPENDE DES HL. MARTIN  
+Der Heilige zu Pferde teilt seinen Mantel mit einem Bettler.  
+
+B CHRISTUS ERSCHEINT DEM HL. MARTIN  
+Der Heilige kniet neben seinem Pferd. Von Christi Mund geht ein Schriftstrahl aus: Martinus der nicht getaufte hat mich mit diesen Kleid bekleidet  
+
+Die Deckenbilder von 1878 im LHs setzen den Martin-Zyklus mit folgenden Szenen fort: Martin wird die  
+
+[[File:Band02_chunk013_p006_img008.jpg|thumb]]  
+<!-- citation-page-bottom: Band02 p611 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=7 -->
+<!-- citation-page-top: Band02 p612 -->
+
+<!-- header: WESTENHOFEN -->
+
+
+[[File:Band02_chunk013_p007_img001.jpg|thumb]]
+
+
+Bischofswürde angetragen; Baumwunder des hl. Martin; Tod des hl. Martin
+
+Die vier erneuerten Emblembilder innerhalb der gemalten Bandwerkkartuschen in den LHs-Stichkappen zeigen:
+
+
+[[File:Band02_chunk013_p007_img002.jpg|thumb|B Christus erscheint dem hl. Martin]]
+
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 2, S. 54. KDB I OB (2), S. 1520
+
+<b>RDB</b> 1 <b>OB</b> (2), <b>B</b>. 1320. Gasteiger, Michael, Das Buch vom Schlie
+
+Gasteiger, Michael, Das Buch vom Schliersee, München 1951, S. 340.
+
+Andrelang, Franz, Landgericht Aibling und Reichsgrafschaft Hohenwaldeck (= Historischer Atlas von Bayern, Bd 17), München 1967, S. 282 f.
+
+
+== WEYARN ==
+
+
+Ehem. Augustinerchorherrenstift Erzdiözese München und Freising
+
+Ehem. Stiftskirche, jetzt Pfarrkirche Sakristei S. 624 Ehem. Stiftsgebäude, jetzt Rathaus der Gemeinde Sitzungssaal S. 625 Bürgermeisterzimmer S. 626
+
+{{End}}

@@ -1,0 +1,57 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=252
+|Originalseitenbis=253
+|Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, ehem. Refektorium
+|Typ=Sakral
+|Ort=Schlehdorf
+|davor=Schlehdorf, ehem. Augustinerchorherrenstift, Bibliothek
+|danach=Schlehdorf, Friedhofskirche Schmerzhafte Mutter Maria
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p252 -->
+
+<!-- header: SCHLEHDORF -->
+
+Ehem. Refektorium im Stiftsgebäude, z. Z. Büroraum der Missionsdominikanerinnen
+
+'''Zum Bauwerk:''' Der Südtrakt der erst 1927 vollendeten Klosteranlage (Nordflügel) wurde 1718-24 nach Plänen Johann Michael Fischers errichtet und 1724 bezogen. Auftraggeber war Propst Bernhard Bogner von Schlehdorf (1674–1724; stuckiertes Kloster- und Propstwappen an der Decke der Eingangsnische mit den Initialen B.P.I.S = Bernhard Propst in Schlehdorf). Das ehem. Refektorium liegt im ersten Stock als vierter Raum von W. Der relativ kleine Raum (6,00 × 6,50 m) war für die durchschnittlich sieben in Schlehdorf lebenden Chorherren bemessen. Rechteckiger Raum, der nach N in eine schmale Eingangsnische mündet; der Übergang zwischen beiden Raumteilen ist durch Schrägen gebildet. Der durch die Eingangsnische ausgesparte Raumabschnitt ist gegen O als Waschraum ausgebaut. Belichtung von der S-Seite, nach N, O und NO Türen.
+
+'''Autor und Entstehungszeit:''' Sebastian Meidinger (1787, S. 373) schreibt: »Endlich ist die Bibliothek und das Refectorium in Fresco gemalt, von obigen Zwick.« Durch die Signatur in der Bibliothek (S. 248) ist gesichert, daß es sich dabei um Johann Joseph Zwinck aus Oberammergau handelt. Eine Datierung nach stilistischen Kriterien ist wegen des schlechten Erhaltungszustandes nicht möglich; es ist aber anzunehmen, daß die Ausmalung des Refektoriums der des Psallierchores von 1730/35 folgte.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle Rahmen: Stuckprofil mit Bronzeanstrich Technik: Fresko? jetzt übermalt; polychrom Maße: A Höhe 4,00 m; 1,90 × 2,90
+
+
+[[File:Band02_chunk006_p002_img001.jpg|thumb|W Golgotha]]
+
+
+Erhaltungszustand und Restaurierungen: Seit der Übernahme des Klosters durch die Missionsdominikanerinnen 1904 fand keine Restaurierung mehr statt. Die massiven Übermalungen von Bildern und Stuck stammen demnach aus dem 19. Jh. Die originale Substanz des Mittelbildes A und der Kartuschen 1-2 ist so schwer beeinträchtigt, daß nicht feststeht, inwieweit der Bildgegenstand von A noch original ist. Die Embleme 1-4 sind ihrem Charakter nach jedoch barock und passen thematisch auf das Thema der Kreuzabnahme.
+
+
+[[File:Band02_chunk006_p002_img002.jpg|thumb]]
+
+
+
+== Bildabfolge ==
+
+
+A PIETA (keine Abbildung)
+
+Das Lemma, das wie in den übrigen Emblemen in einer gleichsam antithetischen Wortverknüpfung dem gegenwärtigen Zustand des Leidens und der Trauer die Hoffnung auf Trost und Erlösung gegenüberstellt, deutet auf ein Bildmotiv hin, das dem heutigen Zustand der pictura nicht mehr zu entnehmen ist. Vermutlich war hier ehemals eine Schnittwunde am Stamm des Baumes zu sehen, aus der Harz hervortrat. Denn das Motiv des beschnittenen Baumes taucht besonders häufig im Zusammenhang mit dem Kreuzestod Christi auf. Boschius (Classis 1, Nr. 68, »vulnere vulnera sano«) vergleicht das ausfließende Harz mit der Erlösung, die den Menschen durch den Tod Christi am Kreuz zuteil wird (vgl. auch C. Leutner, Vita, Doctrina, Passio Domini Nostri Jesu Christi, Augsburg 1733 Cons. 95; ebenso A. Ginther, Speculum amoris, Augsburg 1706, Nr. 39 »ET LAESA MEDELAM«). Ahnlich wird der Weinstock bei Picinelli (Köln 1715) als Emblem für »Maria V. supra Calvariae montem« (Liber 9, Nr. 505) und »Maria V. in passione« (Nr. 544) gedeutet.
+
+Die Tränen des Weinstocks verweisen auf die Trauer Mariens über den Tod ihres Sohnes, die Wunde des Baumes auf das Leiden und Sterben Christi.
+
+Literatur siehe S. 24.
+
+{{End}}

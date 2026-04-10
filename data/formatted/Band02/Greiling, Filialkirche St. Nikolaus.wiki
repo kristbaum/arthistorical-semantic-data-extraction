@@ -1,0 +1,69 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=185
+|Originalseitenbis=186
+|Lemma=Greiling, Filialkirche St. Nikolaus
+|Typ=Sakral
+|Ort=Greiling
+|davor=Grafing, Kapelle St. Ulrich
+|danach=Harmating, Schloss
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Filialkirche, Verwaltungsgemeinschaft und Pfarrei Reichersbeuern, Erzdiözese München und Freising; z. Z. der Ausmalung gehörten Reichersbeuern und Greiling zur Pfarrei Oberwarngau, auf die Kloster Tegernsee das Präsentationsrecht hatte, Hofmarksherrschaft Greiling-Reichersbeuern (Inhaber Grafen Preysing)
+
+'''Patrozinium:''' St. Nikolau
+
+'''Zum Bauwerk:''' Die gotische Kapelle wurde 1728 unter Pfarrer und Dekan Kaspar Neumüller von Oberwarngau (1718-50) durch einen barocken Neubau ersetzt (Brief Neumüllers an das Ordinariat Freising vom 23. 8. 1731, Erzbischöfliches Ordinariatsarchiv München, Pfarrakten Oberwarngau, publiziert bei Anton Bauer, Allerheiligen bei Oberwarngau, in: Beiträge zur altbayrischen Kirchengeschichte, Bd 26, 1971, S. 236). Nach einem Großbrand 1760 Erneuerung des Dachstuhls (Datum 1763). Die Raum- und Altarausstattung stammt aus der Erbauungszeit 1728.
+
+Saal zu 4 Jochen, eingezogener einjochiger AR mit halbrundem Schluß (6,80 × 6,20 m); an der N-Seite über der Sakristei Oratorium; Pilastergliederung, umlaufendes Gesims in Fensterfußhöhe. Der AR mit dem Deckenbild ist von S und O beleuchtet.
+
+'''Auftraggeber:''' Johann Max IV. Graf Preysing (* 1687 † 1764)
+
+'''Autor und Entstehungszeit:''' Signatur in der NO-Ecke des Freskos 1761 AF., das ist wahrscheinlich das Monogramm des »bürgerl. Mahlers zu Tölz«, Wilhelm Anton Fett (* 1739 Tölz † 1800 Tölz), vermutlich Sohn des Adam Anton Fett aus Böhmen (s. Lenggries S. 209). Bisher ist kein voll signiertes Werk bekannt; aus Quellen geht hervor, daß Wilhelm Anton Fett 1768 das Chorgewölbe der Filialkirche in Wackersberg »en fresco mit unterschiedlichen Bildnissen und Zieraten« (jetzt übertüncht) versah und dafür 1773 100 fl. erhielt. 1798 hat er in Tölz »auf das Bruderhaus die Vorstellung des barmherzigen Samaritan hinaufgemahlen« (Anton Bauer, Regesten zur Tölzer Kunstgeschichte, Tölzer Maler, in: Altheimatland 5, 1928/ 1929, Nr. 7, S. 28, Nr. 9, S. 35). Fett trat auch als Fassadenmaler auf (Margarete Baur-Heinhold, Bemalte Fassaden. München 1975, S. 71).
+
+Sein Œuvre läßt sich aufgrund stilistischer Merkmale erweitern; s. dazu Reichersbeuern, S. 219, Pestkapelle Bairawies, S. 36f. und Allgaukapelle, S. 451–53
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: AR Stichkappentonne Rahmen: Stuckprofil
+
+Technik: Fresko; polychrom Maße: Höhe 6,50 m; 4,30 × 3,70
+
+Erhaltungszustand und Restaurierungen: Restaurierungen 1900 durch Ludwig Griebl, 1975/76 durch Franz Xaver Marchner u. Fa. Wiegerling, Bad Tölz. (Photographische Aufnahme vor der letzten Restaurierung.) Ein großer Scheitelriß und kleinere Risse sind jetzt gekittet, Übermalungen entfernt. Die von ca. 1900 stammende Dekorationsmalerei im LHs und in den Stichkappenfeldern im AR ist jetzt übertüncht; die Stuckrahmung hebt sich nur durch eine gebrochene Weißtönung von der rein weißen Decke
+
+
+[[File:Band02_chunk004_p018_img003.jpg|thumb|Patron St. Nikotai]]
+
+
+Beschreibung und Ikonographie
+
+PATRON ST. NIKOLAUS Einansichtige Bildanlage mit geringen Verkürzungen, Betrachterstandpunkt unter dem W-Rand des Bildes. Der hl. Nikolaus im Bischofsornat ist im Fürbittgestus wiedergegeben, zur Seite liegen seine Attribute, Mitra, Buch und drei goldene Kugeln. Ein großer Engel in Rückenansicht mit wallendem Lendentuch hält den Bischofsstab. Am O-Rand ist in Vogelperspektive ein Schiff in Seenot dargestellt, eine Anspielung auf das Patronat der Schiffer und Flößer der nahegelegenen Isar. Das Fresko hat eine von Weiß zu Ocker gestimmte hellstumpf wirkende Farbigkeit, Braun und Rotbraun
+<!-- citation-page-bottom: Band02 p185 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=19 -->
+<!-- citation-page-top: Band02 p186 -->
+
+<!-- header: GREILING -->
+
+HARMATING
+
+(Mantelumwürfe) wirken als Schattenwerte, helles Lila (Bischofsgewand), Graublau und Grau (Himmel und Meer) als Kontraste.
+
+Das Hochaltarbild zeigt den hl. Nikolaus in der Glorie umgeben von den hll. Margareta, Katharina, Barbara und Dorothea.
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 3, S. 321 f. Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, Dießen [1913], S. 41 f. Greiling (o. V.), in: Tölzer Kurier, August 1957. Dehio-Gall OB, S. 217.
+
+{{End}}

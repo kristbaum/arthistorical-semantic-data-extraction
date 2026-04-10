@@ -1,0 +1,196 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=223
+|Originalseitenbis=228
+|Lemma=Reutberg, Klosterkirche Mariä Verkündigung
+|Typ=Sakral
+|Ort=Reutberg
+|davor=Reichersbeuern, Pfarrkirche St. Korbinian
+|danach=Sachsenkam, Pfarrkirche St. Andreas
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Klosterkirche der Franziskanerinnen, Gemeinde und Pfarrei Sachsenkam, Erzdiözese München und Freising z. Z. der Ausmalung Pfarrei Hartpenning, Hofmarksgericht Reichersbeuern und Sachsenkam
+
+'''Patrozinium:''' Mariä Verkündigung
+
+'''Zum Bauwerk:''' Die 1606 von der Hofmarksherrin von Reichersbeuern und Sachsenkam, Gräfin Anna Papafava, geb. von Pienzenau, gestiftete Loreto-Kapelle (mit dem 1618 gestifteten Frauenkloster) wird 1733 nach Abbruch und Wiedererrichtung als AR in einen Kirchen- und Klosterneubau einbezogen; Bauleitung hat der Franziskanerbruder Gebhard Westermeier aus Tölz; Weihe 16. 9. 1735.
+
+Saalbau zu fünf Jochen, von S durch hohe Fenster belichtet, im W Empore über zwei Joche hinaus vorgezogen mit Schwesternchor, stark eingezogener AR mit geradem Schluß nach den Maßen des »Heiligen Hauses«.
+
+'''Auftraggeber:''' Maria Regina Perchtoldin (1737–42) Oberin von Reutberg; möglicherweise schon Maria Anna Dietenhauser (1724–37).
+
+Archivalisch ist die Stiftung des Olgemäldes A aus der ehem. Kapelle belegt: »Der wol ehrwürdige Herr Walthasar Aumiller Vicarius zue Raicherspeyrn hat das ut gemahlne blat den Englischen gruess in der oben Dekher oder Däfel in den Chor bezahlt« (unter dem Jahr 1688 in der Chronik von Refflin und Strohueber, Archiv des
+
+Klosters eingetragen, Balthasar Aumüller, von 1684–95 Pfarrvikar von Reichersbeuern).
+
+Die Ausstattung der Kirche von 1735 wurde durch Stiftungen des kurfürstlichen Hofkammerrats Christian Raßveld aus München († 16. 2. 1746) ermöglicht (Wappen an der Seitenaltären und am Schalldeckel der Kanzel, Grabplatte vor dem Hochaltar); ob seine Stiftungen sich auch auf die Ausmalung der Kirche bezogen, ist nicht belegt.
+
+'''Autor und Entstehungszeit:''' Das Olgemälde A und die Fresken sind nicht signiert. Die Entstehungszeit von A archivalisch um 1688 belegt, es ist aus der Vorgängerkapelle übernommen. Die differenzierte Ölmalerei läßt die Vermutung zu, die Tafel stamme von einem Künstler des Münchener kurfürstlichen Hofes. Zu dieser Zeit waren tätig, besonders als Altarbild-Maler, Johann Andreas Wolff (* 1652 † 1716) und eine Zahl von Schülern des Johann Karl Loth, deren Bildanlage durch großfigurige Gestalten und ein eher düsteres Hell-Dunkel charakterisiert ist, wie es die Reutberger Tafel zeigt.
+
+Der Autor der Deckenfresken (A1-8, B, a-k) ist ebenfalls nicht überliefert. Es ist naheliegend, daß für sie ein Maler des franziskanischen Ordens herangezogen wurde. Die in der gleichzeitig ausgestatteten Franziskanerkirche in Tölz als Maler tätigen Brüder P. Aventin und P. Simon Maisthuber (Franziskanerkirche Bad Tölz, KKF 762, München 1962, S. 4) sind in Werken zu wenig faßbar. P. Nicephorus Vischer, der Maler der Wandbilder W 1-2 (s. u.), kommt aus
+
+
+[[File:Band02_chunk005_p012_img002.jpg|thumb|D Die Gemeinde Reichersbeuern begibt sich unter den Schutz der Gottesmutter]]
+<!-- citation-page-bottom: Band02 p223 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=13 -->
+<!-- citation-page-top: Band02 p224 -->
+
+<!-- header: REUTBERG -->
+
+<!-- header: REUTBERG -->
+
+stilistischen Gründen als Autor für die Deckenbilder nicht in Frage.
+
+Ornament und Rahmenform der Deckenbilder weisen auf eine Entstehungszeit in den dreißiger Jahren hin.
+
+Der in Kloster Reutberg für das Wandfresko an der W- Wand des Schwesternchores (W<sub>2</sub>) überlieferte Maler ist der Franziskaner P. Nicephorus Vischer (* um 1695 Landshut † 24. 12. 1764 Dingolfing). Er war 1731/38 und 1744 in Kloster Reutberg als Kaplan und Wallfahrtsseelsorger und zugleich auch als Maler tätig (frdl. Mitt. Schwester M. Petra Dilger, Archiv Kloster Reutberg). Die Initialen M. R. P. und N. V. um das gemalte Wappen in W<sub>2</sub> sind als die der Oberin Maria Regina Perchtoldin (1737–42) und des Nicephorus Vischer aufzulösen; das Fresko läßt sich demnach zeitlich auf die Jahre 1737/38 eingrenzen.
+
+Dem Wandfresko W<sub>2</sub> ist stilistisch das Wandfresko am Chorbogen W<sub>1</sub> eng verwandt; es ist wohl gleichfalls von Nicephorus Vischer.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, A1-8, B Stichkappentonne; a–k Stichkappen
+
+Rahmen: A Stuckprofil; A<sub>1-8</sub>, B, a-k imitierte Stuckprofile bei A<sub>1-8</sub> mit Rocailleformen
+
+Technik: A Öl auf Lw.; polychrom;
+
+A<sub>1-8</sub>, B, a-k, W<sub>1-2</sub> Fresko; polychrom
+
+a-k monochrom purpurviolet
+
+Maße: A Höhe 10,90 m (Höhe von der Empore zur Decke 5,90 m): 2,50 × 1,30
+
+B Höhe 10,90 m: 3,20 × 3,60
+
+Erhaltungszustand und Restaurierungen: Die Renovierung von 1881 wurde 1961 durch Alban und Antonie Wolf, München, überarbeitet, wobei nach Freilegung großer Partien der Fresken (besonders der Wandbilder W1-2) auch starke Ergänzungen stattfanden: bei allen Fresken zu deckende, gesättigte Ocker- und Blautöne, B stark übermalt; originale Substanz der monochromen Kartuschen am besten erhalten, mit leichten Haarrissen. Das Ölgemälde A ist gut erhalten, etwas nachgedunkelt.
+
+Sechs Tierdarstellungen an der Unterseite der Empore, Pfau, Pelikan, Lamm über den vier Paradiesesflüssen, Fisch mit Brotkorb auf dem Rücken, zwei trinkende Hirsche an einer Quelle, entstammen einer frühchristlichen Symbolsprache, die für die Barockzeit ungewöhnlich ist. Auch im Hinblick auf die rahmende Ornamentik ist anzunehmen, daß die Bilder erst bei der Restaurierung von 1881 entstanden sind (keine Abbildungen).
+
+
+== Beschreibung und Ikonographie ==
+
+
+A MARIÄ VERKÜNDIGUNG Einansichtiges Mittelfeld der Gewölbedekoration über der Empore des Schwesternchores. Der Betrachterstandort befindet sich auf der Empore etwas östlich der Bildmitte, da die Darstellung leicht untersichtig angelegt ist und sich der Fluchtpunkt außerhalb der Tafel befindet. Die hochrechteckige Tafel, an den Schmalseiten um Kreissegmente erweitert, wird ganz ausgefüllt von den Figuren der Jungfrau und des Verkündigungsengels mit der Lilie, darüber die Hl.-Geist-Taube. Die Figurenanordnung in der Mittelachse des Bildes und den Kompositionslinien der Diagonalen folgend, wird auch durch den Hell-Dunkel-Einsatz hervorgehoben.
+
+Stark schattenhaltige Partien schaffen ein Kontinuum von Gewandfiguren und Raum, aus dem nur das fast grauweiß aufgehellte Inkarnat und einige Gewandteile Mariens heraustreten (in der rechten oberen Bildhälfte wohl Putti). Die Glorie des Hl. Geistes wirkt vergleichsweise blaß, wobei die Farbtrias von Blau, Rot und Gelb mit der Inkarnatfarbe sehr unbunt zurücktritt. Trotz der schon (für den Vorgängerbau) als Deckenbild angelegten Malerei hat die Tafel mit ihrem großfigurigen und eng komponierten Bildausschnitt ohne betonte Himmelssphäre wenig illusionistische Eigenschaften, insbesondere inmitten der Fresken A1-8, unter denen das Ölgemälde den dunkelsten Farbwert ausmacht
+
+A<sub>1-8</sub> LAURETANISCHE LITANEI – ANRUFUNGEN MARIENS ALS KÖNIGIN In acht Rocaille-Kartuschen, vier größeren und vier kleineren, sind Darstellungen zur Lauretanischen Litanei (Vers 47–54) in zwei Halbkreisen westlich und östlich um die Mitteltafel A angeordnet. Sie zeigen bis auf eine Szene mit terrestrischem Schauplatz (A1) an der Bildbasis vielfigurige Gruppen auf Wolken und im Scheitel die Himmelskönigin auf einer Wolkenbank. Der Betrachterstandort liegt auf der Empore, unmittelbar unter jeder Kartusche, die ohne Untersicht, aber mit leichter Verkürzung der Marienfigur angelegt sind. Dabei bewirkt die klare Trennung der jeweils unteren Gruppe von der kleineren Marienfigur deren räumliche Entrückung, veranschaulicht durch das ausgedehnte sehr lichte Himmelsblau gegenüber den mehr gesättigten Farben der Gewandfiguren. Der Kranz der Kartuschen reiht sich so um die Mitteltafel, daß die gesättigten, schweren Farbtöne der Bildbasen mehr an der Peripherie der Wölbung liegen und die lichten Himmelspartien sich zur Mitte hin, kaum unterbrochen durch die weiß-gelbe Rocaille-Rahmung, fast zusammenschließen. Die illusionierte Öffnung der Decke wird nur durch das dunkle Zentrum beeinträchtigt (vgl. A). Die Kartuschen haben als Unterschriften je eine Anrufung der Lauretanischen Litanei. (Die Freskozählung folgt der Verszählung der heute gültigen Litanei.)
+
+A1 REGINA ANGELORUM Maria läßt einer Franziskaner-Nonne durch Engel ein Schriftstück überreichen, im Hintergrund das Kloster Reutberg.
+
+A2 REGINA PATRIARCHARUM Unter der Himmelskönigin sind die Patriarchen, darunter Noe (Arche), Moses (Gesetzestafeln) und Abraham (Schwert und Holzstoß), in der Mitte ein Weihrauchfaß.
+
+A3 REGINA PROPHETARUM Die Himmelskönigin mit Propheten; durch die Harfe ist König David ausgezeichnet.
+
+
+[[File:Band02_chunk005_p013_img001.jpg|thumb|A<sub>1-8</sub> Lauretanische Litanei – Anrufungen Mariens als Königin]]
+<!-- citation-page-bottom: Band02 p225 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=14 -->
+<!-- citation-page-top: Band02 p226 -->
+
+<!-- header: REUTBERG -->
+
+<!-- header: REUTBER -->
+
+
+[[File:Band02_chunk005_p014_img001.jpg|thumb|k Mater Salvatori]]
+
+
+
+[[File:Band02_chunk005_p014_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img004.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img005.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img006.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img007.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img008.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img009.jpg|thumb]]
+
+
+
+[[File:Band02_chunk005_p014_img010.jpg|thumb]]
+
+
+Die Szenen g und k können sinngemäß nach Karl Stengel, Erklärung der Lauretanischen Litanei, München 1637 gedeutet werden, wonach die Auslegung zur Anrufung »Mater inviolata« (S. 77) der Darstellung g entspricht »errette uns . . . damit das Loch der Gruben dieser höllischen Sünde seinen Mund nicht ober uns schließ, welcher gleich wie die Höll niemahlen spricht es ist genug«. Die Darstellung Mariens mit Krone in g und neben Christus mit dem Reichsapfel in k wird zur Anrufung »Mate: Creatoris« (S. 86) beschrieben: » . . . wie die Königin Mut ter ober das Land und Reich des Königs Ihres Sohnes . . . «
+
+Am umlaufenden Gesims des Chores befindet sich die skulpturale Darstellung (Schnitzerei) der Lauretanischen Anrufungen mit jeweils einem Symbol zwischen zwei Putti, darunter auf einer Kartusche der Text der Litanei, vgl. a-k, die das Symbol in die jeweilige Marienszene einbeziehen.
+
+
+[[File:Band02_chunk005_p014_img011.jpg|thumb|Mater admirabilis]]
+
+
+
+[[File:Band02_chunk005_p014_img012.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p227 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=15 -->
+<!-- citation-page-top: Band02 p228 -->
+
+<!-- header: REUTBERG -->
+
+<!-- header: SACHSENKAM -->
+
+
+[[File:Band02_chunk005_p015_img001.jpg|thumb]]
+
+
+W1 ÜBERTRAGUNG DES HL. HAUSES NACH LORETO Dieses Fresko bezieht sich auf den Bericht des Propstes Teramus von Loreto von 1291 (vgl. LCI, Bd 3, Sp. 544). Engel tragen das Hl. Haus über wildbewegtes Meer. Rechts zwei große Segelschiffe. Über dem Loreto-Haus hält ein Engel ein Spruchband mit der Anrufung »HAEC DOMUS AUREA«. Rechts daneben in den Wolken Maria mit Jesus, der Zepter und Reichsapfel hält, von Putti umgeben. Unter ihrem weit nach rechts ausschwingenden Mantel sucht ein Mann Schutz. Während das Haupt Mariens von zwölf Sternen gekrönt wird, ruht ihr linker Fuß auf der Mondsichel; die Gottesmutter ist als Synthese von Schutzmantelmadonna und Maria Immaculata zu verstehen. Rechts im Bild, neben Maria, musizierende Engel. Die über dem Chorbogen angebrachte und in das Fresko einschneidende Uhr wird von zwei Putti gehalten, wobei der linke ein Stundenglas, der rechte eine welke Rose hält, beides Vanitas-Symbole.
+
+
+[[File:Band02_chunk005_p015_img002.jpg|thumb]]
+
+
+W2 DIE KLUGEN UND TORICHTEN JUNGFRAUEN (Mt 25, 1-13) Rechts im Bild vor der verschlossenen Pforte die Törichten Jungfrauen, die sich verzweifelt und heftig gestikulierend nach rechts entfernen. Die hohe, unüberwindliche Mauer rechts im Hintergrund und die Säule in der Bildmitte verstärken den Eindruck des Ausgesperrtseins und der Trennung von den Klugen Jungfrauen. Diese ziehen blumenbekränzt mit ihren unübersehbaren brennenden Öllampen auf einem sanft ansteigenden Hügel Christus entgegen. Die ersten drei, in der Bildmitte und Christus am nächsten befindlich, sind Franziskanerinnen. Hier nimmt das Fresko unmittelbar Bezug auf das Kloster: Die Klugen Jungfrauen werden unter anderen durch drei Franziskanerinnen vertreten, die unter dem Schutz Mariens in den Himmel einziehen dürfen. Links neben der auf Wolken thronenden und bekrönten Maria in adorierender Stellung Franziskus und rechts von Maria, mit Krug und Brot, Elisabeth von Thüringen, eine Tertiarin und neben Clara eine der besonders verehrten Ordensheiligen der Franziskanerinnen. Christus, von einer Gloriole umgeben, empfängt die Klugen Jungfrauen mit ausgebreiteten Armen. Er trägt eine Krone und ist mit einem weiten roten Mantel mit Hermelinkragen fürstlich gekleidet. Dahinter Engel mit Blumenkranz und Palmzweigen. Der erste von ihnen trägt den zu einer Schleppe auslaufenden Mantel Christi.
+
+Unterhalb der Säulenbasis ein von zwei Putti in Form einer dreiteiligen Kartusche gehaltenes Wappen. Es zeigt links das Franziskanerwappen, rechts eine zweitürmige Marienkirche und im kleineren Feld darunter einen orientalisch gekleideten Mann mit Krone.
+
+An der Emporenbrüstung zeigen zwölf Tafeln (Öl auf Holz) einen marianischen Festbildzyklus. Vor einem großen Stern erscheint Maria, das jeweils entsprechende Fest symbolisierend, links und rechts oben die dazugehörigen Tierkreiszeichen, unten zwei hll. Marienverehrer. Die Inschrift darüber bezieht sich auf das Fest, darunter stehen die Namen der hll. Marienverehrer (Dilger, S. 12).
+
+
+== Literatur ==
+
+
+Refflin, Eleutherius, Archivium oder Jahrs=Merckhung aller Denckhwürdigen sachen, so sich auff den Reittberg- ... zuegetragen, 1700/03 (Hs. in Kloster Reutberg). Mayer-Westermayer, Bd 3, S. 323–26
+
+KDB OB I (1), S. 672
+
+Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, Dießen 1913, S. 91–94.
+
+Bavaria Franciscana Antiqua, Bd 4, München 1958, S. 443–64.
+
+Dilger, M. Petra, M. Angela Mayer, Josef Zimmermann, Kloster Reutberg (= KKF, Nr. 116), München <sup>6</sup>1977.
+
+{{End}}

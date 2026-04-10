@@ -1,0 +1,61 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=165
+|Originalseitenbis=165
+|Lemma=Einöd, Kapelle Schmerzhafter Heiland und Schmerzensmutter Maria
+|Typ=Sakral
+|Ort=Einöd
+|davor=Dietramszell, ehem. Augustiner-Chorherrenstift, ehem. Pfarrkirche
+|danach=Eurasburg, Schloss
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle, Privatbesitz Beham, Gemeinde und Pfarrei Dietramszell, Erzdiözese München und Freising; z. Z. der Ausmalung Landgericht Wolfratshausen
+
+'''Patrozinium:''' Wallfahrt zum Schmerzhaften Heiland und zur Schmerzensmutter Maria
+
+'''Zum Bauwerk:''' Rechteckiger, ungegliederter Saal (3,90 × 2,90 m) mit dreiseitig geschlossener Altarnische (1,20 × 2,50 m); Hochaltar bezeichnet 1652.
+
+'''Autor und Entstehungszeit:''' Bauernmalerei von geringer Qualität; der Autor ist nicht bekannt. Entstehungszeit: frühes 18. Jh.
+
+
+[[File:Band02_chunk004_p008_img001.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Kreuzgratgewölbe Rahmen: gemalte Laubgirlanden mit Agraffen Technik: Fresko; polychrom
+
+Maße: Scheitelhöhe der Kappen: 3,05 m;
+
+1–4 0,75 × 0,50
+
+5–8 0,90 × 0,60
+
+Erhaltungszustand und Restaurierungen: Freigelegt 1959/1960. Die Farbsubstanz ist stark angegriffen.
+
+
+== Bildabfolge ==
+
+
+Anordnung der Bildfelder, in der Art von Medaillons, im ganzen Kapellenraum. Die ovalen Bilder 5–8 liegen in den Wangen der Tonne am Gewölbeansatz. Es handelt sich nicht um »barocke Deckenmalerei«, vielmehr um an die Decke und die Wand versetzte Tafelbildchen, die auch stilistisch der Malerei volkstümlicher Heiligenbilder und Votivtafeln entsprechen. Dargestellt ist die Passion Christi; die Zyklusfolge springt vom äußeren (1–4) zum inneren (5–8) Kreis (keine Abbildungen).
+
+Sechs weitere Rundbogenbilder an den Wänden zeigen Heilige: im AR Ulrich und Nikolaus, im Gemeinderaum östlich Martin und Georg, westlich Antonius von Padua mit dem Nährvater Joseph und Isidor mit Notburga.
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 3, S. 421 u. 424. Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.), München 1965, S. 183.
+<!-- citation-page-bottom: Band02 p165 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=9 -->
+{{End}}

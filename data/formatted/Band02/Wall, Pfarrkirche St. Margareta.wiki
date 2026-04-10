@@ -1,0 +1,226 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=604
+|Originalseitenbis=610
+|Lemma=Wall, Pfarrkirche St. Margareta
+|Typ=Sakral
+|Ort=Wall
+|davor=Thalham, Kapelle St. Florian
+|danach=Westenhofen, Filialkirche St. Martin
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p604 -->
+
+<!-- header: WAL -->
+
+<!-- header: WALI -->
+
+Pfarrkirche Gemeinde Warngau, Erzdiözese München und Freising; z. Z. der Ausmalung der Benediktinerabtei Tegernsee inkorporiert, Klostergericht Tegernsee
+
+
+'''Patrozinium:''' St. Margareta
+
+
+'''Zum Bauwerk:''' Die Pfarrkirche wurde zu Beginn des 16. Jh. von Maurermeister Alex Gugler von Tegernsee erbaut (L. Gernhardt) und im 18. Jh. barockisiert. Die Ausstattung mit Deckenfresken fand unter Pfarrvikar Andreas Lochner (1750–63) statt und wurde unter Sebastian Katzmayr (1763–94) noch ergänzt. – Saalbau zu vier Jochen, eingezogener, zweijochiger AR mit dreiseitigem Schluß. Pilastergliederung und umlaufendes Stuckgesims: im W Doppelempore. Das LHs wird einseitig rechts durch drei Fenster beleuchtet, der AR rechts durch ein Fenster und drei weitere mit dreiseitigem Schluß.
+
+'''Autor und Entstehungszeit:''' Fresko E ist am östlichen Bildrand signiert J. M. Breymayer. 1755. Die Hauptfresken A–E gehören stilistisch zusammen und sind daher als Werk des Tölzer Malers Julian Breymeyer (Lebensdaten s. Reichersbeuern, S. 219) anzusehen. Das dreieckige Bildfeld E4 trägt die Jahreszahl M/DCC/LV; im gleichformatigen Feld C1 findet sich die Signatur Jos. Waß. In einer Inschriftkartusche innerhalb der gemalten Rocaillen um den Stuckrahmen von E4 findet sich die Signatur J. Pöham pinx / et Georg Faustner / 1784. Diese Angaben beziehen sich offensichtlich auf die vom Dreiecksformat und geradlinigen Profilform der Stuckrahmen unabhängig gestaltete, den 13 Begleitszenen hinzugefügte Ornamentmalerei ebenso wie auf die vier Rocaillekartuschen mit allegorischen Figuren Ca-b und Da-b. Die stereotype und schwunglos gemalte Rocailleornamentik ist stilistisch in die 80/90er Jahre des 18. Jh. zu datieren (Lebensdaten zu Johann Baptist Pöheim s. Bayrischzell, Seelenkapelle, S. 460-62, zu Georg Faustner und Jos. Waß. = Waßmann, Waßermann?? nichts bekannt).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: AR und LHs flache Segmenttonnen ohne Stichkappen, im AR gegen O abgemuldet Rahmen: A–E Stuckprofil, A1–2, B1–2, C1–2, D1–2, E1–7 Stuckprofil, von gemalten Rocaillen und Rosengirlanden umgeben, Ca-b, Da-b gemalte Rocaillekartuschen Technik: Fresko; A–E polychrom, B<sub>1-2</sub>, E<sub>1-2</sub>, E<sub>5-6</sub>, monochrom ocker, C<sub>1-2</sub>, E<sub>3-4</sub>, E<sub>7</sub> monochrom braunrot, C<sub>a-d</sub>, Da-d Grisaillen auf blaßgelbem Grund, D1-2 monochrom graugrün
+
+
+[[File:Band02_chunk013_p003_img001.jpg|thumb|B Margareta wird Olibrius vorgeführt]]
+
+
+Maße: A Höhe 9,30 m; Ø 2,50
+
+B Höhe 9,30 m; 2,60 × 2,50
+
+C Höhe 9,30 m; 2,40 × 2,70
+
+D Höhe 9,30 m; 2,50 × 2,50
+
+E Höhe 9,00 m; 4,20 × 3,20
+
+Erhaltungszustand und Restaurierungen: Renovierung Ende 19. Jh., bei der die LHs-Decke mit einem Sternenhimmel und mit 12 Apostelbildern übermalt wurde. Durchgreifende Innenrenovierung 1956 durch Firma Karl Eixenberger, München, mit Freilegung der barocken Deckenbilder im LHs. Die Fresken wurden von Sebastian Hausinger, München, restauriert. In A mehrere Längsrisse, z. T. verkittet, in C Scheitelriß, Sprünge, kleinere, ausgebesserte
+
+
+[[File:Band02_chunk013_p003_img002.jpg|thumb]]
+
+
+Stellen, in B Haarrisse, ausgebesserte Stellen, in D Parallelrisse, z. T. verkittet, in E deutlich sichtbare, ausgebesserte Diagonalrisse, starke Farbausblühungen im östlichen Bilddrittel.
+
+Die Farben wirken leicht verwaschen, scheinen jedoch weitgehend original zu sein.
+
+E<sub>1-7</sub> stark nachgedunkelt (E7 keine Abbildung)
+
+
+== Beschreibung ==
+
+
+Das Deckendekorationssystem gliedert die Tonnengewölbe in einer von der einfachen Jochreihung des Innenraumes ausgehenden Weise. Gurtbänder unterteilen die LHs- Tonne in vier gleichwertige Abschnitte, in deren Mitte jeweils ein in Längen- und Breitenmaß etwa gleich großes Freskofeld in variierender Umrißform medaillonartig eingesetzt ist. Die acht seitlichen Felder am Ort der baulich nicht vorhandenen Stichkappen imitieren deren Form: sie haben den Umriß eines gleichschenkligen, spitzwinkligen Dreiecks, dessen Basis durch ein Kreissegment ersetzt ist. Die Felder im westlichen LHs-Joch sind ornamentiert, die übrigen haben bildliche Darstellungen.
+
+Die schlichten Profilformen der Freskorahmen stimmen mit dem umlaufenden Stuckgesims überein. Die AR-Tonne ist ebenfalls durch Stuckbänder und stichkappenförmige Freskofelder gegliedert; das mittlere Fresko in Längsform erstreckt sich jedoch über beide Joche. Um die in zurückhaltenden Farben gemalten Fresken Breymeyers (von 1755) – die seitlichen Felder sind alle monochrom – waren weite Flächen des Gewölbes freigelassen. Die ornamentale Malerei von 1784 diente dazu, diese Flächen zu füllen. Die strengen Dreiecksfelder wurden mit lang ausgezogenen Rocaillebögen umgeben, und im LHs wurden daneben teigig ausgewalzte Rocaillekartuschen – stilistisch gesehen Spätformen – gesetzt. Zum Weiß des Grundes bzw. zu den Grau-, Ocker- und Braunrot-Werten der Malerei kam goldtoniges Gelb in den Rocaillen und fahles Gelb oder Rosa in den Kartuschenflächen hinzu. Die polychromen Fresken Breymeyers zeigen matte, milchig trüb wirkende Farben (wohl mitverursacht durch die frühere Übermalung) in hellen auf Grau oder Braunkarmin basierenden Mischtönen. Die Figuren heben sich von dieser Schauplatzfarbigkeit in etwas kräftigeren Buntwerten ab; es kommen vor allem ein leuchtendes Blau zusammen mit Weiß und – bei den Vordergrundfiguren – dunkle Braun- und Grau-Werte hinzu. Die Farbgebung erreicht wohl eine zeichnerisch klare Trennung von hellen und schattigen Partien, eine lichthafte Wirkung fehlt jedoch. Allein durch die perspektivische Konstruktion der Schauplätze ist ein räumlicher Illusionismus im Sinne der Deckenmalerei erzielt, und zwar in übertrieben steiler Untersicht bei den Architekturen – Fresko B und C – oder durch die Staffelung seichter, abrupt abfallender terrestrischer Zonen-Fresko A–, und E. Breymeyer versteht es dabei
+
+
+[[File:Band02_chunk013_p003_img003.jpg|thumb]]
+
+
+der menschlichen Figuren wie auch in dem unvermittelten Zusammenstoßen der beiden terrestrischen und der himmlischen Zone zeigt. Anmutig wirken in Breymeyers Bildern einzelne Figuren – besonders die Gestalt Margaretas – oder auch kleine Gruppen, z. B. in Fresko A die Gegenüberstellung der beiden Reiter und Margaretas.
+
+A OLIBRIUS WIRBT UM MARGARETA Einansichtige Darstellung, Basis im W; teilweise von der Orgel verdeckt. Vor einer italianisierenden Landschaft mit kahlen Bergen und kubusförmigen Häusern kniet Margareta auf einem seichten, rampenartigen Bodenstreifen im Vordergrund des Bildes. Der Präfekt Olibrius zu Pferde, begleitet von Soldaten, streckt werbend und fordernd zugleich seinen Befehlsstab nach ihr aus. Sein Begleiter zu Pferd zeigt dagegen in die Ferne auf das Reiseziel. Als Erwiderung auf die Werbung weist Margareta zum Himmel empor. Ein Lichtstrahl fällt aus den Wolken auf die Heilige.
+
+B MARGARETA WIRD OLIBRIUS VORGEFÜHRT Einansichtige Darstellung in extremer Untersicht, Basis im O. Schauplatz ist die Thronnische eines palastartigen Innenraumes, beherrscht von steilen Treppenaufbauten. Auf dem baldachingeschmückten Thron sitzt Olibrius, Margareta wird ihm gefesselt vorgeführt. Auf den Stufen kniet ein heidnischer Priester neben einem Räucherbecken und hält Margareta eine Jupiterstatue für den Götzendienst entgegen. Ein zweiter zeigt ihr als Alternative die offenstehende Kerkertür. – Die beiden Rückenfiguren der Priester sind farblich als dunkle Repoussoirs behandelt.
+<!-- citation-page-bottom: Band02 p605 -->
+
+<!-- citation-page-top: Band02 p606 -->
+
+[[File:Band02_chunk013_p004_img001.jpg|thumb]]
+
+== B<sub>1-2</sub> EMBLEME ==
+
+C MARGARETA BEZWINGT DEN DRACHEN Der Schauplatz ist wie bei der vorangehenden Szene annähernd achsensymmetrisch erstellt. Drei wuchtig gemauerte Arkaden deuten ein Kerkergewölbe an. Links im Bild ist die Kerkertür, die zum Thronsaal (der Szene B) führt, verschlossen wiedergegeben. Rechts öffnet sich der Bogen zu einer Berglandschaft hinaus. Die Mittelachse des Bildes beherrscht die hohe Gestalt Margaretas; an einen Pfeiler gekettet, erhebt sie unerschrocken ein Kreuz und bezwingt den feuerspeienden Drachen zu ihren Füßen.
+
+C<sub>1-2</sub> FOLTERUNG MARGARETAS In den beiden seitlichen Freskofeldern wird durch zwei völlig gleichartig gemalte Folterszenen die Passio-Schilderung detailliert: Die Martyrin ist bis auf einen Lendenschurz entblößt und mit ausgestreckten Armen an ein Foltergerüst gefesselt. Sie wird mit Rute und Eisenhaken geschunden (C1) und mit zwei Fackeln am Oberkörper gesengt (C2).
+
+Ca-d JAHRESZEITEN Putti mit Attributen in Rocaillekartuschen
+
+D IHS Das vierpaßförmige, der Größe nach von den Fresken A-E nicht unterschiedene Freskofeld D, in dessen Mitte sich die Hl.-Geist-Offnung befindet, ist nur mit Wolkenringen und Engelsköpfchen darin bemalt. Der Dekkel der Offnung trägt den Namen Jesu IHS im Strahlenkranz.
+
+D<sub>1-2</sub> TUGENDEN In den Seitenfeldern sind weibliche Personifikationen als Ganzfigur in einem landschaftlichen Schauplatz dargestellt
+
+Da-d ERDTEILE Putti mit Attributen in Rocaillekartuschen
+
+
+[[File:Band02_chunk013_p004_img002.jpg|thumb]]
+
+E ENTHAUPTUNG MARGARETAS Auf der Hinrichtungsstätte im Mittelgrund des Bildes - links durch einen Tempelbau, rechts im Hintergrund durch einen Obelisken begrenzt - kniet Margareta. Soldaten, heidnische Götzendiener und Zuschauer umringen sie. Margareta wendet sich von dem Räucherbecken und dem Jupiterbild ab und erwartet den Schwertstreich des Henkers. Im Himmel erwarten sie Engel und Putti mit Blumen, Lorbeerkranz und Palmwedel, den Symbolen des Martyriums.
+
+E<sub>1-4</sub> TUGENDEN und E<sub>5-6</sub> EMBLEME
+
+E7 Das vom Hochaltar verdeckte Bildfeld ist inhaltlich nicht in das Bildprogramm einbezogen, es zeigt in dem kartuschenförmigen Schild eines Engels die Jahreszahl der Ausmalung <i>M/DCC/LV</i> (keine Abbildung).
+
+Ikonographie
+
+A, B, C, E und C<sub>1-2</sub> MARGARETA-ZYKLUS Der Zyklus der legendären Passio der Kirchenpatronin Margareta von Antiochien (vgl. Ribadeneira-Hornig, Bd 2, 20. 7., S. 72 f.) beginnt über der Orgelempore:
+
+A OLIBRIUS WIRBT UM MARGARETA Die junge Margareta, von ihrer Amme heimlich dem Christentum zugeführt, hat sich vor dem Zorn ihres heidnischen Vaters Aedesius auf ein Landgut zurückgezogen, wo der Stadtpräfekt Olibrius sie auf einer Durchreise erblickt und, von ihrer Schönheit angetan, um sie wirbt.
+
+B MARGARETA WIRD OLIBRIUS VORGEFÜHRT Auf ihre Weigerung hin läßt Olibrius sie vorführen und will sie unter Strafandrohung zum Götzendienst bekehren. - Feldherrnstab, Helm und Brustpanzer bezeichnen Olibrius als römischen Präfekten, während die geschnürten Gewändern...
+
+
+[[File:Band02_chunk013_p004_img003.jpg|thumb|E Enthauptung Margaretas]]
+<!-- citation-page-bottom: Band02 p607 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=5 -->
+<!-- citation-page-top: Band02 p608 -->
+
+<!-- header: WALL -->
+
+<!-- header: WALI -->
+
+
+[[File:Band02_chunk013_p005_img001.jpg|thumb]]
+
+
+der bzw. der Turban auf seine orientalische Herkunft hinweisen.
+
+C<sub>1-2</sub> FOLTERUNG MARGARETAS Olibrius läßt Margareta geißeln und mit Haken reißen (C1) und ihr am Foltergerüst die Brüste brennen (C2).
+
+C MARGARETA BEZWINGT DEN DRACHEN Im Kerker erscheint der Teufel in Drachengestalt und wird durch das Kreuzzeichen besiegt.
+
+E ENTHAUPTUNG MARGARETAS Nach der Legende hat Margareta im 4. Jh. unter Diokletian das Martyrium erlitten. Die wehklagenden Zuschauer stellen die durch ihr Martyrium Bekehrten dar. Der Legende entsprechend ist die Heilige in allen Marterszenen unversehrt dargestellt.
+
+Abschluß dieses Zyklus bildet das Hochaltargemälde, ein Glorien- und Devotionsbild der Heiligen, das stilistisch Julian Breymeyer zuzuschreiben ist.
+
+D<sub>1-2</sub> und E<sub>1-4</sub> TUGENDEN In D<sub>1-2</sub> und E<sub>1</sub> sind die generellen Tugenden des Christen, die sog. drei göttlichen oder theologischen Tugenden, vorgestellt:
+
+D1 FIDES mit Hostienkelch. Im Hintergrund der Rundbau der Kirche auf dem Fels (Mt 16, 18) - Anspielung auf die Lehre der römisch-katholischen Kirche.
+
+D<sub>2</sub> SPES mit Anker, den Blick zum Himmel gerichtet
+
+E1 CARITAS hält eine Opferschale mit brennenden Herzen. Die Modifizierung des üblichen Herzsymbols betont die Liebe als Aufopferung und Weihe des Menschen an Gott.
+
+In E<sub>2-4</sub> sind spezielle Tugenden Margaretas wiedergegeben:
+
+E2 FORTITUDO Die Figur ist mit den Attributen der Kardinaltugend, Brustpanzer, Helm und Säule, versehen. Der Palmwedel ist Hinweis auf das Martyrium.
+
+
+[[File:Band02_chunk013_p005_img002.jpg|thumb]]
+
+
+E3 VIRGINITAS Das Lamm, Sinnbild der Keuschheit (vgl. Ripa, s. v. virginità), und die Geste der demütigen Hinwendung zum Himmel weisen auf die Jungfrau Margareta hin, die der Ehe entsagt und sich dem Himmel verlobt hat (Fresko A).
+
+E4 CONSTANTIA wird durch die Martyrin Margareta verkörpert. Sie blickt zum Himmel auf und setzt die Füße auf das Schwert ihres Martyriums, daneben die weiteren Folterinstrumente, Fessel, Kerkerschloß, Eisenhaken und Fackel, im Hintergrund das Kerkergewölbe (genau der Szene C entsprechend). Der Palmzweig in ihrer Hand, die aufgehende Sonne (vgl. die Embleme B1-2) und der Licht-Gnaden-Strahl vom Himmel bezeichnen die glorreiche Vollendung des Martyriums. –
+
+Die sinnverwandten Tugenden Fortitudo und Constantia verdeutlichen beide das standhafte Ausharrungsvermögen während der körperlichen und geistigen Bedrängnisse der verschiedenen Martern (Szenen C, C1-2 und E).
+
+B<sub>1-2</sub> und E<sub>5-6</sub> EMBLEME Das Tugendthema wird in vier Seitenfeldern emblematisch fortgeführt. Die Emblem-Icones sind formal ähnlich wie die Folterszenen (C1-2) und die Tugendpersonifikationen (D1-2, E1-4) als Landschaftsszenerien konzipiert; sie haben keine Lemmata.
+
+B1 Die Icon stellt die von Wolken verdunkelte Sonne über einer gebirgigen Landschaft dar. - Picinelli, s. v. sol, Liber 1, Nr. 72 und 78 deutet dieses Bild als ein Motiv der verfolgten und bedrängten Tugend. So, wie die Wolken die Sonne für einige Zeit verfinstern können, ohne ihr zu schaden, so ist auch die strahlende Tugend der hl. Margareta durch die Zudringlichkeit des Präfekten in Bedrängnis geraten, ohne daran zugrunde zu gehen.
+
+B2 Auch dieses Emblem zeigt die Sonne über dem Horizont einer Landschaft. Im Vordergrund steht ein Wanderer, der von einem Hund angebellt wird. Da das Motiv der Sonne ebenso häufig wie vieldeutig ist, ist eine eindeutige Interpretation dieses Emblems, noch dazu ohne inscriptio, nicht möglich. Im Hinblick auf das Mittelfresko B ist nach dem Interpretationsangebot der Emblemliteratur am ehesten an eine untergehende Sonne zu denken. Dieses Bild symbolisiert nach Picinelli, s. v. sol, Liber 1, Nr. 86-89 Tod und Auferstehung. So hat die hl. Margareta in der Beharrlichkeit des Glaubens sich dem Präfekten Olibrius verweigert und damit den Tod auf sich genommen, aber die Hoffnung auf die Auferstehung gewonnen.
+
+E5 Im Vordergrund eine geöffnete Muschel, in der eine Perle ruht. Dahinter eine Wasserfläche, aus der ein Fels mit einem runden, zinnenbekrönten Turm aufragt, links ankern zwei Schiffe mit gerefften Segeln.
+
+In dem Motiv der Perle, lateinisch auch margarita, liegt eine etymologische Anspielung auf die Patronin der Kirche, die metaphorische Qualität, die auf die Heilige verweist. So schreibt schon Johannes de Voragine in der Legenda aurea: »Margareta hat ihren Namen von einem gar köstlichen Edelstein, der Margarita genannt ist; dieser Stein ist weiß und klein und voll Kräfte. Also war Sanct Margareta weiß durch ihre jungfräulichen Kräfte; klein durch ihre Demut; voll Kräfte durch die Wunder die sie wirkte« (LA-Benz, S. 500). Picinelli vergleicht emblematisch die Reinheit der aus Himmelstau entstandenen Perle (s.v. margaritha, Liber 12, concha margarithifera, Nr. 212) mit der »Virginitas« (loc. cit., Nr. 219, 235) oder mit der »Puritas virginalis« (s. v. conchylium, Nr. 63).
+
+Der Turm auf dem Felsen im Wasser ist ein bekanntes Constantia-Motiv. Damit wird die Aussage des Emblems noch erweitert, indem auf die Standhaftigkeit der Heiligen im Glauben angespielt wird (vgl. E4).
+
+
+[[File:Band02_chunk013_p005_img003.jpg|thumb]]
+
+
+[[File:Band02_chunk013_p005_img004.jpg|thumb|C<sub>1</sub> Folterung Margaretas C<sub>a-b</sub> Frühling und Sommer]]
+
+
+[[File:Band02_chunk013_p005_img005.jpg|thumb|2 Spes D<sub>c-d</sub> Africa und Europa]]
+
+
+[[File:Band02_chunk013_p005_img006.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p609 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=6 -->
+<!-- citation-page-top: Band02 p610 -->
+
+[[File:Band02_chunk013_p006_img001.jpg|thumb]]
+[[File:Band02_chunk013_p006_img002.jpg|thumb]]
+[[File:Band02_chunk013_p006_img003.jpg|thumb]]
+[[File:Band02_chunk013_p006_img004.jpg|thumb]]
+[[File:Band02_chunk013_p006_img005.jpg|thumb|Е]]
+[[File:Band02_chunk013_p006_img006.jpg|thumb|9 Emblem im Langhaus]]
+
+Eine Erklärung für dieses, in der angewandten Emblematik im süddeutschen, katholischen Raum einmalige Motiv liefert das 9. Emblem des dritten Buches der Pia desideria des Jesuiten Herman Hugo (Antwerpen 1632, S. 334). Der Stich von Boetius à Bolswert zeigt die Figur der anima in Gestalt eines geflügelten Mädchens in langem Gewand, das über einer Kugel schwebt, an die es mit einer Kette am Fuß gefesselt ist. Das Mädchen hat die Arme zu dem Christusknaben im Himmel emporgereckt. Im Hintergrund wird das Thema des Emblems wiederholt mit der Darstellung eines Knaben, der einen auffliegenden Vogel an einer Schnur gefangenhält. Der Text unter der pictura gibt eine Stelle des Paulusbriefes an die Philipper, die die Gottessehnsucht ausdrückt: {ZITAT|000} (Phil 1).
+
+Trotz der bemerkenswerten Unterschiede stimmt die Icon von Wall in zwei wesentlichen Motiven – Kinderfigur (= anima) über einer rollenden Kugel und Hinwendung zum göttlichen Himmel – mit dem genannten Stich überein und ist entsprechend zu deuten als Bild der zu Gott strebenden Seele Margaretas. Das Fehlen der Fessel ist wohl nicht als formale Auslassung anzusehen, vielmehr inhaltlich zu deuten: Die Kinderfigur von Wall stellt wohl die bereits von irdischem Leid befreite Seele dar.
+
+Ca-d und Dad JAHRESZEITEN UND ERDTEILE  
+Geläufige Attribute kennzeichnen die Putti als die Vier Jahreszeiten  
+Ca Frühling – Blumen und Windköpfchen  
+Cb Sommer – Korngarbe und Sichel  
+Cc Herbst – Weintrauben und Trinkglas  
+Cd Winter – Kohlenbecken und Schlüssel  
+und als die Vier Erdteile  
+Da Asia – Turban mit Halbmond, Säbel und Kamel  
+Db America – Schurz und Kopfputz aus Federn und Papagei  
+Dc Africa – Armaringe, Kopfputz und Krokodil  
+Dd Europa – Krone, Zepter und Pferd  
+
+== Literatur ==  
+Mayer-Westermayer, Bd 2, S. 66–68  
+KDB I OB (2), S. 1519  
+Gernhardt, Ludwig, Wall bei Miesbach, in: Altheimatland. Zeitschrift für Heimatkunde, Heimat- und Naturschutz 7, 1930, Nr. 6, S. 43 f.  
+Gasteiger, Michael, Der Landkreis Miesbach, Miesbach 1953, S. 48.  
+Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.  
+
+{{End}}

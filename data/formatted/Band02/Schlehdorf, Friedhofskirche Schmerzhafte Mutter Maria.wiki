@@ -1,0 +1,80 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=253
+|Originalseitenbis=254
+|Lemma=Schlehdorf, Friedhofskirche Schmerzhafte Mutter Maria
+|Typ=Sakral
+|Ort=Schlehdorf
+|davor=Schlehdorf, ehem. Augustinerchorherrenstift, ehem. Refektorium
+|danach=Siegertshofen, Kapelle St. Elisabeth
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Friedhofskirche, z. Z. der Ausmalung Votivkirche des Augustinerchorherrenstifts, Klosterhofmark Schlehdorf
+
+'''Patrozinium:''' Schmerzhafte Mutter Maria
+
+'''Zum Bauwerk:''' Neubau 1693. Inschrift über dem Eingang Erbaut 1693 / Renoviert 1969 – darüber – VOBIS O IESU ET MARIA! / DVLCIS MAXIMI AMORIS / ET DOLORIS COMPAR! / CONDOLENDO POVIT / MAXIM EHEV! PECCA=/TOR B.P.I.S. MDCXCIII (= Bernhard Pogner in Schlehdorf 1693).
+
+Zentralbau mit vier Konchen (8,00 × 8,00 m), gewestet, die östliche Konche als Turmraum ausgebaut. Pilastergliederung, umlaufendes Gesims, Empore
+
+'''Auftraggeber:''' Propst Innozenz Strasser (1755–88) oder Tertulin Salcher (1788–1803) von Schlehdorf
+
+'''Autor und Entstehungszeit:''' Der Autor des Deckenbildes ist nicht überliefert. Das Fresko an der Altarwand der Kapelle (W), das sich im Gegensatz zum Deckenbild noch in originalem Zustand befindet, ist als ein Werk des Franz Seraph Kirzinger (* um 1728 † 1811 München) zu erkennen. Der Typus des Johannes stimmt weitgehend überein mit dem Evangelisten Johannes in Riegsee (s. S. 402, Fresko A2). Von Kirzinger ausgehend finden sich auch für das Deckenbild Parallelen in Riegsee, z. B. die Figur des Christus (Fresko A) in ihrer überlängten Zeichnung, auch in Haltung und Gebärde. Vorbilder für den Hohenpriester, die Soldaten und die genrehaften Figuren im Deckenbild finden sich in Antdorf (s. CBD, Bd 1, S. 374). Auch die Bildanlage ist - soweit noch original - vergleichbar mit Kirzingers Fresken in Romenthal und Grünsink (loc. cit., S. 207, 324).
+
+Aufgrund dieser Übereinstimmungen kann man schließen, daß Wand- und Deckenbild vom gleichen Autor, Franz Seraph Kirzinger, stammen. Die Entstehungszeit ist wegen der engen Verwandtschaft mit Riegsee verhältnismäßig
+
+
+[[File:Band02_chunk006_p002_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p253 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=3 -->
+<!-- citation-page-top: Band02 p254 -->
+
+<!-- header: SCHLEHDORF -->
+
+spät, zeitlich jedoch vor Riegsee (1792) anzusetzen, weil dort Kirzingers manieristischer Spätstil im Vergleich zu Schlehdorf noch weiter fortgeschritten ist. Zwei von Franz Kirzinger signierte Ölgemälde in Kloster und Pfarrkirche, ein Porträt Propst Innozenz Strassers (1755-88) und ein Altarblatt des hl. Johann Nepomuk (datiert 1794) belegen die Tätigkeit Franz Seraph Kirzingers für Kloster Schlehdorf in der fraglichen Zeit.
+
+
+[[File:Band02_chunk006_p003_img001.jpg|thumb|A Kreuzesprobe]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Achteckkuppel über Hängekuppel, die auf vier Eckpilastern ruht
+
+Rahmen: Stuckprofil Taskaila Fasskar askroha
+
+Maße: Höhe 7,50 m (Stich 1,50): 4,80 × 4,80
+
+Erhaltungszustand und Restaurierungen: Das Kuppelfresko wurde 1969 durch A. Bauer, München, freigelegt. Während die W-Seite, die Hauptansichtsseite, noch auf den originalen Bestand zurückgreift, wurde die O-Seite vom Restaurator neu konzipiert. Der Zustand ist äußerst schlecht, die Farbsubstanz ist durch Übermalungen in unbunten, grau-weißen Farben gänzlich verfremdet.
+
+Das Wandfresko W zeigt dagegen noch originale, ockertonige Freskofarben, auch die Figurenzeichnung ist erhalten.
+
+
+== Bildabfolge ==
+
+
+A KREUZESPROBE Umlaufende Szenerie mit Hauptansichtsseite im W. Königin Helena, Bischof Makarios, Geistliche, Soldaten und Volk wohnen dem Kreuzeswunder bei. Die Figur des Christus mit Zepter ist nicht auf die Hauptansichtsseite, sondern nach rückwärts, gegen O, gerichtet. An der O-Seite ein Kirchenbau, der dem der Friedhofskapelle gleicht (neu).
+
+W GOLGOTHA Das Wandfresko hat die Form eines gemalten Altarbildes und bezieht sich auf die plastischen Figuren des romanischen Kruzifixes, der Mater Dolorosa sowie zweier Putti, die sich von dem dunkel gemalten Himmel abheben. Unter dem Kreuz, neben der Mater Dolorosa, Johannes Evangelist, Maria Magdalena, eine der drei Marien (vgl. Kappel, S. 354), ein Priester und Soldaten.
+
+
+== Literatur ==
+
+
+Hartig, Michael, Die Oberbayerischen Stifte, München 1935, Bd 1, S. 233.
+
+
+== SIEGERTSHOFEN ==
+
+
+{{End}}

@@ -1,0 +1,23 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=655
+|Originalseitenbis=655
+|Lemma=Embleme-Register (Band 2)
+|davor=Ikonographisches Register (Band 2)
+|danach=Bildmotive (Band 2)
+}}
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=3 -->
+<!-- citation-page-top: Band02 p654 -->
+
+Embleme 95, 134, 161–63, 250–53, 270–72, 369 f., 382, 385, 416–20, 467 f., 500–02, 514 f., 521 f., 543–45, 562 f., 608–10  
+Emblemähnliche Darstellungen  
+Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Bibel- und Vitazitate. Anstelle der Icones finden sich historische, hagiographische und biblische) oder symbolische Szenen und Figuren, sowie Illustrationen zu den Zitaten.  
+
+23 f., 255, 369, 385, 544 f.  
+Emblemähnliche Bilder ohne Lemmata  
+352, 562 f., 608–10, 632  
+
+{{End}}

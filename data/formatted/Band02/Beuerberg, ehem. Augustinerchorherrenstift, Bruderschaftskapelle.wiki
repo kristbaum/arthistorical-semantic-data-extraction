@@ -1,0 +1,83 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=134
+|Originalseitenbis=136
+|Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Bruderschaftskapelle
+|Typ=Sakral
+|Ort=Beuerberg
+|davor=Benediktbeuern, ehem. Benediktinerabtei, Ökonomiehof
+|danach=Beuerberg, ehem. Augustinerchorherrenstift, Festsaal
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p134 -->
+
+<!-- header: BEUERBERG -->
+
+
+== BEUERBERG ==
+
+
+Ehem. Augustinerchorherrenstift, seit 1846 Kloster der Salesianerinnen des hl. Franz von Sales Gemeinde Eurasburg, Erzdiözese München und Freising
+
+Bruderschaftskapelle in der ehem. Stiftskirche Ehem. Stiftsgebäude Festsaal S. 136 Prälatenkapelle S. 137 Ehem. Pfarrkirche S. 138 Literatur S. 142
+
+Bruderschaftskapelle in der ehem. Stiftskirche, jetziger Pfarrkirche St. Peter und Paul
+
+'''Zum Bauwerk:''' Der ursprünglich romanische Kirchenbau ist ab 1626 umgebaut worden; nach einem Einsturz 1628 wurde Isaak Pader als Gutachter berufen, und es erfolgte ein Neubau ab 1629, die Gewölbe erhielten eine Stuckdekoration; Weihe 1635. Die Bruderschaftskapelle ist gegen 1730 ausgestattet worden.
+
+Wandpfeilerkirche, LHs zu vier Jochen, eingezogener AR zu zwei Jochen. Abseiten des LHs im N und S als Seitenkapellen ausgebildet. Die Bruderschaftskapelle befindet sich in der nördlichen Reihe im dritten Joch.
+
+Im S schließt an die Kirche im ersten Stock ein Oratoriengang an, der mit ornamentaler Malerei um 1735 dekoriert ist. An der Decke sind in fünf vierpaßförmigen Bildfeldern Putti dargestellt, die neu übermalt sind (keine Abbildungen).
+
+'''Auftraggeber:''' Die Einrichtung der Kapelle als Bruderschaftskapelle erfolgte unter Propst Cajetan I. von Beuerberg (1712–44) für die beiden zu dieser Zeit in Beuerberg bestehenden Marienbruderschaften: die Rosenkranzbruderschaft und die Skapulierbruderschaft.
+
+'''Autor und Entstehungszeit:''' Die Stuckdekoration stammt aus dem dritten Jahrzehnt des 18. Jh. Die Darstellungen in den beiden kleinen Medaillons sind gleichzeitig entstanden. Der Autor ist unbekannt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Schmale Quertonne zwischen Wandpfeilern
+
+Rahmen: Stuckprofil
+
+Technik: Secco; monochrom karmin
+
+Maße: 1 und 2 Höhe 9,35 m, Ø 0,50.
+
+Erhaltungszustand: Die beiden Bilder sind wegen vieler Abblätterungen und Wasserflecken in sehr schlechtem Zustand
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die beiden runden Bildfelder zeigen emblematische Darstellungen; das weiße Schriftband folgt der oberen Rahmenhälfte und trägt jeweils ein Lemma in deutscher Sprache. Beide Embleme beziehen sich auf Maria, die Patronin der zwei Beuerberger Bruderschaften in ihrer Eigenschaft als Schutzherrin.
+
+[[File:Band02_chunk003_p018_img001.jpg|thumb]]
+
+[[File:Band02_chunk003_p018_img002.jpg|thumb|Festsaal Otto von Eurasburg stellt das Stift Beuerberg unter den Schutz Mariens]]
+
+1 (östliches Bildfeld) Mit dir allein wird Sicher sein. - Segelschiff mit übergroßem Anker. Das Segelschiff, das im Sturm vor Anker liegt, ist ein geläufiges marianisches Emblem. Jacob Masen, Speculum imaginum veritatis occultae, Köln 1650, S. 582, Nr. 1, führt dieses Motiv als marianisches Symbol; Picinelli, s. v. navis, Liber 20, Nr. 80, nennt es als ein Sinnbild der »Mariae Virginis Protectio«.
+
+2 (westliches Bildfeld) Der beste Port ist dises orth. – Arche Noe in den Fluten. Eine weiße Taube mit einem Zweig im Schnabel fliegt auf ein geöffnetes Fenster im Dach der Arche zu. Die Arche ist eines der häufigsten marianischen Symbole. {ZITAT|NNN}
+
+[[File:Band02_chunk003_p018_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p135 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=19 -->
+<!-- citation-page-top: Band02 p136 -->
+
+Sinnbilder. Sie gilt als die neue Lade, aus der Christus, das neue Gesetz, hervorgegangen ist. Picinelli, s. v. arca Noe, Liber 20, Nr. 16, nennt die Arche das {ZITAT|000}.
+
+Das Motiv der Errettung wird noch erweitert durch die Taube mit dem Olzweig (Gen 8, 11). Die Arche gewährt Schutz wie der Anker, so verwendet sie Abraham a Santa Clara in: Stern, so aus Jacob aufgegangen Maria, Nr. 39 (erste lateinische Ausgabe Wien 1684) als ein Symbol der {ZITAT|001}.
+
+Literatur siehe S. 142
+
+{{End}}

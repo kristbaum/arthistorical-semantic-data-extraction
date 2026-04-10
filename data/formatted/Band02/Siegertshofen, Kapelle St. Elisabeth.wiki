@@ -1,0 +1,79 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=255
+|Originalseitenbis=255
+|Lemma=Siegertshofen, Kapelle St. Elisabeth
+|Typ=Sakral
+|Ort=Siegertshofen
+|davor=Schlehdorf, Friedhofskirche Schmerzhafte Mutter Maria
+|danach=Thankirchen, Pfarrkirche St. Katharina
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle, Gemeinde Egling, Pfarrei Thanning, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei Than kirchen, die Kloster Dietramszell inkorporiert war, Landgericht Wolfratshausen
+
+'''Patrozinium:''' St. Elisabeth
+
+'''Zum Bauwerk:''' Spätgotischer Bau. – Saal zu drei Jochen, eingezogener AR mit 76-Schluß
+
+'''Autor und Entstehungszeit:''' Laut Inschrift an der W-Wand links vom Eingang ein lokaler Künstler Joseph Ströbl Mahler in Sachsenkam pinxit 1797 (Lebensdaten und weitere Werke sind nicht bekannt); es handelt sich um kleinformatige Bilder minderer Qualität.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A-C, 1-4) und AR (D) Korbbogentonne mit kleinen Stichkappen
+
+Rahmen: A-D, 1-4 gemalte Lorbeerblattkränze von vier Bändern umwunden
+
+Technik: Secco; polychrom
+
+Maße: A, B, C Höhe 5,10 m; Ø 1,85
+
+D Höhe 4,60 m; Ø 1,85
+
+Erhaltungszustand und Restaurierungen: Vor der Restaurierung 1978 durch Firma Wiegerling, Bad Tölz, waren die Bilder durch Übermalungen verdorben. Die späteren Malschichten wurden entfernt, die Deckenbilder neu eingestimmt und teilweise verändert (Inschriften)
+
+
+[[File:Band02_chunk006_p003_img002.jpg|thumb]]
+
+
+
+== Bildabfolge ==
+
+
+Die fünf runden Bildfelder im Scheitel der Tonne von LHs und AR (A-D) sowie vier kleinere seitliche ovale Felder (1–4) zeigen emblemähnlich dargestellte religiöse Symbole. In A-D sind diese innerhalb eines breiten Strahlenkranzes dargestellt. Freie Zitate nach der Bibel sind als erläuternde Bildunterschriften hinzugefügt.
+
+A Eine Hand aus Wolken reicht ein Brot herab, darunter ein Tisch mit zwei weiteren Broten. – Komt her zu mir alle die ihr mit Hunger beladen, ich will euch erquicken. Math. 22, V. 24 (frei nach Mt 11, 28). — Das Bildmotiv Brot und die Anderung der Schriftstelle weisen auf die Kirchenpatronin, die hl. Elisabeth von Thüringen, hin.
+
+B Eine Hand deutet auf ein Tor in Wolken. – Gehet zu Elisabeth. Gen. 41, V. 55. (frei zitiert). – Anstelle des Namens von Joseph von Ägypten ist hier der Name der Heiligen eingesetzt.
+
+C Betende Hände in Wolken. — woher nemmen wir Brod. Mac. 8, V. 1 (frei nach Mc 8, 4)
+
+D Krone und Zepter auf einem Buch (= Hl. Schrift). - TE DEUM LAUDAMUS. (Ambrosianischer Hymnus) Symbol des himmlischen Lohnes und Insignien des fürstlichen Standes der hl. Elisabeth.
+
+1 Eine Hand wirft Münzen in eine Schale. — Gib du Almosen und / Freywillig, Math: / 5, PS 13. (frei nach Mt 6, 2—4). - Die Almosenspende verweist auf die Mildtätigkeit Elisabeths.
+
+2 Lorbeerkranz und Palmzweig. — Dan wird Jeder seine Cron / von Gott haben. / 1 Kor, 4. 5. (frei zitiert)
+
+3 Gebetbuch und Rosenkranz. – Das Gebett versöhnet Gott.
+
+4 Wasserglas und Bußgürtel. — Faste und say nicht / Traurig. Math: 6, V. 16. (frei zitiert)
+
+Inschrift am Chorbogen <i>Lobet den Herrn in Seinen Heiligen 1.50</i> bsal: (= Ps 150,1)
+
+
+== Literatur ==
+
+
+KDB I OB (1), S. 903
+<!-- citation-page-bottom: Band02 p255 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=4 -->
+{{End}}

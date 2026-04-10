@@ -1,0 +1,197 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=628
+|Originalseitenbis=633
+|Lemma=Wilparting, Wallfahrtskirche St. Marinus u. Anianus
+|Typ=Sakral
+|Ort=Wilparting
+|davor=Weyarn, ehem. Augustiner-Chorherrenstift, Bürgermeisterzimmer
+|danach=Wilparting, Kapelle St. Vitus
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p628 -->
+
+<!-- header: WILPARTING -->
+
+
+== WILPARTING ==
+
+
+Wallfahrtskirche Kapelle St. Veit S. 633
+
+Wallfahrtskirche, Gemeinde und Pfarrei Irschenberg, Erzdiözese München und Freising; z. Z. der Ausmalung Gericht Aibling
+
+
+'''Patrozinium:''' St. Marinus und Anianus
+
+
+'''Zum Bauwerk:''' Am Ort des Wirkens und des Martertodes des hl. Marinus entstand schon frühzeitig eine Andachtsstätte. Die jetzige Kirche, die aus dem 15. Jh. stammt, wurde 1724 bei einem Brand schwer beschädigt und unter Pfarrer Philipp Eyrainer wiederhergestellt. 1759 erhielt sie zum Teil schon unter Pfarrer Alexander Joseph Streiter – die Rokokoausstattung mit Stuck und Fresken.
+
+Saal zu fünf Jochen, von N und S gleichmäßig ausgeleuchtet, Pilastergliederung, im W Doppelempore; eingezogener AR mit dreiseitigem Schluß.
+
+'''Auftraggeber:''' Pfarrer Philipp Eyrainer (1738–59), der ein Legat von 1100 fl. für die Ausstattung der Kirche machte; dazu kam ein Vermächtnis des Wirtes Holzmair (Pfatrisch S. 140). Das Programm bestimmte Pfarrer Alexander Joseph Streiter (1759–97), der Verfasser einer Vita der hll. Marinus und Anianus (s. Literatur, S. 634).
+
+'''Autor und Entstehungszeit:''' Signatur am O-Rand von B M. HEIGL/INVENIT/1759. Joseph Martin Heigl (* Konstanz † 1776 München) war Schüler Johann Baptist Zimmermanns. Nach Aibling (OB, LKr. Rosenheim, 1756), Berbling (OB, LKr. Rosenheim, 1756), Unterbrunn (1758; siehe CBD, Bd 1, S. 358) und Beuerberg (1758; S. 135–37) gehören die Fresken von Wilparting und Alb (S. 447–50) zu den frühen selbständigen Arbeiten Heigls, dem es als einzigem unter den Schülern und Mitarbeitern Zimmermanns gelang, sich selbst einen Namen zu machen
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, B, C, B1-4) und AR (D, D<sub>1-2</sub>) Tonne mit Stichkappen
+
+Rahmen: A-D Stuckprofil, von Rocailleornamenten übergriffen, B1-4, D1-2 Rocailleornament-Kartuschen
+
+Technik: Fresko; A, B, C, D polychrom, B<sub>1-4</sub>, D<sub>1-2</sub> monochrom violett
+
+Maße: A Höhe 8,60 m; 2,50 × 3,60
+
+B Höhe 8,60 m; 10,60 × 5,00
+
+C Höhe 8,60 m; 2,50 × 3,60
+
+D Höhe 8,40 m; 3,80 × 2,70
+
+Erhaltungszustand und Restaurierungen: Inschrift am Chorbogen RE-/novirt / im / Jahre / 1875. In neuerer Zeit ist keine Restaurierung erfolgt. Sämtliche Fresken sind verschmutzt, leichte Längsrisse in C und D. Der Erhaltungszustand ist verhältnismäßig gut.
+
+
+== Beschreibung ==
+
+
+In der Dekoration der LHs-Decke bringt Heigl das gleiche Schema wie in der drei Jahre früheren Freskierung der Pfarrkirche von Aibling. Von den fünf Jochen des LHs sind in der Gewölbezone das erste und fünfte jeweils durch Gurte abgeteilt; die mittleren drei Joche sind zusammengefaßt: hier erstreckt sich das Hauptfresko B über die gesamte Länge. Es zeigt die ikonographisch wichtigste Darstellung im LHs, während die beiden Bilder im ersten und fünften Joch (A und C) inhaltlich keine Schwerpunkte bringen. Die Rahmenseiten folgen in rhythmischem Aus- und Einschwingen dem Wechsel von Stichkappen und Gewölbezwickeln. Die östliche und westliche Rahmenseite läuft jeweils zu den das Gewölbefeld abschließenden Gurtbögen parallel. Die Rocailleornamentik der Stuckdekoration tritt am reichsten in den begleitenden Bildkartuschen (B1-4) auf und an den Stellen, wo die Stichkappen vom Freskorahmen
+
+
+[[File:Band02_chunk013_p015_img001.jpg|thumb|B Martyrium des hl. Marinus und Tod des hl. Anianus B<sub>1-4</sub> Embleme]]
+
+
+
+[[File:Band02_chunk013_p015_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p629 -->
+
+
+D1-2 AT-Szenen
+
+D1 Berufung Abrahams
+
+D2 Namensgebung Jesu
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=16 -->
+<!-- citation-page-top: Band02 p630 -->
+
+überschnitten werden. Dadurch bildet die Stuckdekoration eine ganz auf das Bildfeld bezogene Rahmenzone.
+
+A NAME JESU Der Name Jesu IHS in einer lichten Strahlengloriole nimmt die Bildmitte ein. Er wird von vier musizierenden Engeln verehrt, die auf Wolken schweben.
+
+
+[[File:Band02_chunk013_p016_img001.jpg|thumb]]
+
+
+B MARTYRIUM DES HL. MARINUS UND TOD DES HL. ANIANUS Das sehr lange und schmale Deckenbild zeigt in einer einansichtigen Szene den Tod des hl. Marinus auf dem Scheiterhaufen (der photographische Aufnahmestandpunkt liegt unter dem westlichen Bilddrittel). Die irdische Szenerie nimmt die östliche Bildhälfte ein: in der westlichen bildet der Himmel eine große wolkenumgebene Glorie, in der das Dreifaltigkeitssymbol erscheint. Diese Glorie ist ebenso wie die irdische Szene einansichtig. Unter der Glorie schwebt eine Engelsgruppe mit Palmzweigen und Kränzen, deren Gesten und Blickrichtung sind nur auf die Hauptansicht bezogen. Diese Gruppe in der Bildachse verbindet zusammen mit den aufragenden Bäumen links und rechts am Bildrand irdische und himmlische Szenerie, inhaltlich wie kompositionell.
+
+Den Schauplatz des Martyriums bildet eine baumbestandene Landschaft. Um das lange Bildfeld zu bewältigen bringt Heigl diese Landschaft in hintereinandergeschichteten Plänen: Ein Wiesenstreifen im Vordergrund führt in das Bild ein. Die erste Figurengruppe wirkt als dunkles Repoussoir; hier lagern auf Steinen eine Mutter mit ihrem Kind und zwei Soldaten. Ein Reiter in Rüstung und Federhut beugt sich zu ihnen. Neben ihm ragt ein fast kahler, efeubewachsener Baum an der rechten Bildseite auf und verlängert die dunkle Repoussoirzone seitlich bis zur Bildmitte. Zwischen der Vordergrundsgruppe und der Martyriumsszene im Mittelgrund schafft ein hell beleuchteter Wiesenplan Bildtiefe.
+
+Unter der Aufsicht eines berittenen Hauptmanns zwingt ein dunkelhäutiger Scherge den Bischof Marinus auf einen Holzstoß nieder, an den ein anderer Henkersknecht Feuer legt. Zwei alte Männer in der Tracht heidnischer Priester halten dem Heiligen eine Götzenfigur vor Augen. Von dieser Gruppe im Mittelgrund ist wiederum der Hintergrund mit der Gestalt des seligen Anianus in seiner Hütte durch Verringerung des Größenmaßstabes abgesetzt. Dichter Wald schließt den Bildraum nach hinten ab.
+
+Die Raumwirkung ist in der Rahmenzone aufgehoben: dem Baum am rechten Bildrand entspricht kompositionell der Reiter am linken; er gleicht ihm auch in seinem Verhältnis zum Rahmen. Überschneidungen verbinden beide Darstellungen eng mit der Rahmenzone, so daß an dieser Stelle ihre räumlich verschiedene Situation in bezug auf den Bildraum wieder aufgehoben ist.
+
+Typisch für Heigls Palette ist ein Braunviolett in verschiedenen Mischwerten von Lila bis Braunrot, das in Gewändern und als Himmelsfarbe auftritt und dessen Gewicht für den farblichen Gesamteindruck durch das Violett der umgebenden monochromen Embleme B1-4 noch verstärkt wird. Dieses Violett wird in Kontrast zu den häufig auftretenden Grünwerten gesetzt, das nicht nur zur Schauplatzbezeichnung dient, sondern auch in Gewändern auftritt. Zusammen mit Violett wird es zur Bildung des Inkarnats benutzt. Bei weißen Gewändern tritt es als Schattenfarbe auf. Gelb dient als Auszeichnung und Lichtfarbe. Anianus in seiner Hütte ist davon umgeben; Marinus trägt ein goldgelbes Pluviale.
+
+Obwohl Heigl mit starken Hell-Dunkel-Effekten arbeitet, verwendet er die hellsten Lichtwerte doch nicht zur Erzeugung einer Höhenillusion im barocken Sinn; der Lichteinsatz hat eher den Charakter einer ikonographischen Auszeichnung und hängt nicht von einer konsequent konstruierten Lichtführung im Bild ab. Dunkelfarben treten in der Rahmenzone verstärkt auf. Durch dieses Absetzen von der hellen Decke und durch Überschneiden der Bildgegenstände durch den Rahmen wird das Bild distanziert.
+
+B<sub>1-4</sub> EMBLEME Das Hauptbild ist an den mittleren Gewölbezwickeln von vier monochromen Kartuschenbildern umgeben.
+
+C ENGEL Um eine runde Öffnung in der Decke, die ursprünglich wohl durch einen Deckel mit der Darstellung der Heilig-Geist-Taube verschlossen war, sind Engel, Putti und Engelsköpfchen auf Wolken gemalt, ringförmig angeordnet um eine helle Glorie.
+
+
+[[File:Band02_chunk013_p016_img002.jpg|thumb|D Aussendung der hll. Marinus und Anianus D<sub>1-2</sub> AT-]]
+
+
+
+[[File:Band02_chunk013_p016_img003.jpg|thumb|A Name Jesu]]
+
+
+D AUSSENDUNG DER HLL. MARINUS UND ANIANUS Die Szene ist einansichtig. Stufenanlage und Architekturen sind in weit stärkerem Maß Verkürzungen und Untersichten unterworfen als die Figuren. Der Aufnahmestandpunkt ist unter dem westlichen Bildrand.
+
+Auf einer breiten Treppe, die den ganzen Bildvordergrund einnimmt, knien die beiden Heiligen vor dem Papst, der rechts im Bild auf einem goldenen Thron sitzt, durch eine Säulenarchitektur mit Draperie hervorgehoben. Der Ältere der beiden, Marinus, hält ein Schriftstück in Händen. Diese Gruppe ist umgeben von zwei Kardinälen und zwei Diakonen, die Stab und Mitra, die Abzeichen der Bischofswürde des hl. Marinus, tragen. Eine hohe helle Mauer mit Ziervase und Bäumen bilden zusammen mit dem lichten Himmel den Bildhintergrund.
+
+»Gerade in diesem Bild wird deutlich, daß Martin Heig zwar sehr abhängig von Zimmermann ist, was den Bildaufbau und die Ausstaffierung betrifft, daß andererseits aber vor allem seine Farbe einer anderen Skala zugehört. Grün oft zu Violett und Blau hin gebrochen, dominiert, selbst das Inkarnat ist mit diesen Farben aufgebaut. Das gibt zu Gelb, vor allem aber auch zu Rot eigenartige Kontraste deren Ergebnis eine gewisse kühle Stimmung ist, die zu der idvllischen Gegenständen kontrastiert« (Bauer, S. 69)
+
+D<sub>1-2</sub> AT-SZENEN Das Hauptbild ist an den Gewölbezwickeln von zwei monochromen Darstellungen in Kartuschen begleitet.
+
+
+== Ikonographie ==
+
+
+B MARTYRIUM DES HL. MARINUS UND TOD DES HL. ANIANUS Die erste Nachricht vom Leben und Sterben der beiden Heiligen Marinus und Anianus gibt eine Tegernseer Handschrift aus dem 12. Jh., die das Geschehen in die Regierungszeit Pippins und Karlmanns verlegt. Alexander Joseph Streiter, Pfarrer von Irschenberg in der Ausstattungszeit der Kirche von Wilparting, faßte die Legende neu und nennt als Quelle die Vita des Johannes a Via aus dem späten 16. Jh. – Danach lebte der Bischof Marinus, ein iroschottischer Wandermissionar, im 7. Jh. als Priester und Einsiedler am Ort des heutigen Wilparting. Sein Gefährte und Neffe, der Diakon Anianus, lebte und wirkte in einer Zelle in der Gegend des heutigen Alb, von Wilparting durch eine Schlucht getrennt. Am 15. November des Jahres 697 (Streiter, S. 8–10) kam eine Schar räuberischer Wenden und »Sclaven« (Slawen), fand Marinus im Gebet und verlangte von ihm Geld, das Gläubige bei ihm hinterlegt hatten. Außerdem wollten sie ihn zwingen, dem christlichen Glauben zu entsagen. Als
+<!-- citation-page-bottom: Band02 p631 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=17 -->
+<!-- citation-page-top: Band02 p632 -->
+
+<!-- header: WILPARTING -->
+
+[[File:Band02_chunk013_p017_img001.jpg|thumb]]
+
+[[File:Band02_chunk013_p017_img002.jpg|thumb|der Heilige sich weigerte, folterten sie ihn mit Geißeln und Hacken und verbrannten ihn schließlich auf dem Scheiterhaufen, wo er, für seine Peiniger betend, verschied. Im wesentlichen folgt die Darstellung dieser Überlieferung. Der heidnische Priester mit der Götzenstatue ist ein zusätzliches traditionelles Bildmotiv bei Martyrien.]]
+
+[[File:Band02_chunk013_p017_img003.jpg|thumb]]
+
+[[File:Band02_chunk013_p017_img004.jpg|thumb|D<sub>2</sub> Berufung des Moses]]
+
+Im Hintergrund des Bildes sieht man in einer kleinen Holzhütte, die von Bäumen umgeben ist, den Diakon Anianus: er kniet am Boden, von Strahlen umgeben, und eine weiße Taube fliegt von ihm aus zum Himmel. Streiter berichtet in seiner Vita (S. 10 f.): »In der Zeit, als die Marter mit dem hl. Bischof Marinus vorbey gieng, lag<br>Anianus der heilige Diacon in seiner Hütte schwerlich krank, und da er innerlich erleuchtet erkante, was mit seinem heiligen Bischof vorbey gieng ... nahm er das heilige Sakrament des Altars, als die letzte Wegzehrung zu<br>sich, da er dann unter anmuthigen Liebsseufzern und inbrünstiger Begierd bey Gott und seinem heiligen Bischof zu seyn, ganz freudenvoll an diesem Tag ... seinem nächsten und liebsten Verwandten im Himmel nachgefolget ist . . . « Nach der Legende soll dabei die Seele des Heiligen in Gestalt einer Taube zum Himmel geflogen sein; diese Taube wurde in den bildlichen Darstellungen zum Attribut des Heiligen.
+
+B<sub>1-4</sub> EMBLEME Die vier Embleme haben kein Lemma. Die Icones enthalten sehr geläufige Motive. Paarweise stehen sich zwei Vogel- und zwei Blumenbilder gegenüber.
+
+B<sub>1</sub> Phönix auf brennenden Zweigen. – Das Bild bezieht sich auf das Martyrium des hl. Marinus: Wie der Vogel Phönix durch das Feuer seine Jugendkraft wiedergewinnt, so erlangt der hl. Marinus durch den Feuertod das Ewige Leben (vgl. die auf Laurentius bezogenen Embleme bei Picinelli, s. v. phoenix, Liber 4, Nr. 574, 577 u.a.).
+
+B<sub>2</sub> Singender Schwan. – Der Schwan stirbt der Legende nach singend. Bei Picinelli (s. v. cygnus, Liber 4, Nr. 331) ist der singende Schwan Sinnbild für »Mors praenuntiata«; es heißt: »S. Petrus Martyr eandem pro sancta fide mortem toleravit, quam paulo ante concionando praedixerat. elata enim voce, triumphalem vitae suae terminum praenuntiavit.« Das Bildmotiv bezieht sich in Wilparting wohl auf Anianus, der den Martertod des Marinus und sein eigenes Ende vorherwußte und freudig starb (s. o. Vita-Zitat).
+
+B<sub>3</sub> Lilie und B<sub>4</sub> Rose – Die beiden Blumenemblem verweisen auf den himmlischen Lohn, der den Heiligen zuteil wird. Beidemale ragt aus einer Wolke über der Blume eine Hand hervor, die eine Krone über die Lilie und einen Lorbeerkranz über die Rose hält. Lilie und Rose sind traditionelle Tugendsymbole. Die Lilie, Zeichen der Unschuld, steht jungfräulichen Priestern zu und ist hier wohl auf Anianus bezogen; die Rose, zugleich Symbol des Martyriums (vgl. Picinelli, s. v. rosa, Liber 11, Nr. 179, 185 u. a.) auf Marinus.
+
+D AUSSENDUNG DER HLL. MARINUS UND ANIANUS Dargestellt ist das Ereignis, das Streiter in seiner Vita beschreibt: »Nachdem sie zu Rom ihre Andacht verrichtet haben, giengen sie zum Papst Eugenius dem Ersten und bitten ihn um Erlaubnis, das heilige Evangelium an andern Orten predigen zu dürfen ... welcher ihnen auch dieses mit Freuden erlaubet hat« (S. 5). In dem Schriftstück, das Marinus in Händen hält, kann man sowohl die Bittschrift als auch den Aussendungsauftrag sehen.
+
+D<sub>1-2</sub> AT-SZENEN Sie sind antetypisch auf den Gegenstand des Hauptbildes bezogen.
+
+D<sub>1</sub> BERUFUNG ABRAHAMS Gottvater auf einer Wolke (bezeichnet durch den Dreiecksnimbus) beugt sich herab zu einem bärtigen Greis und weist mit der Rechten in die Ferne. Der auf einem Steinblock kniende Greis hört auf die Worte Gottes. Die nicht näher gekennzeichnete Szene stellt wohl die Berufung Abrahams dar (Gen 12, 1-9): Auf Befehl des Herrn verlässt Abraham seine Heimat Ur in Chaldäa und geht mit seinem Neffen Lot nach Kanaan.
+
+D<sub>2</sub> BERUFUNG DES MOSES Auf einer Wolke sitzend spricht Gottvater zu Moses. Dieser steht an einen Steinblock gelehnt und wendet aufhorchend sein Haupt zu Gott. Moses ist durch die zwei Strahlenbündel am Haupt und den Stab zu seinen Füßen gekennzeichnet. Im Buch Genesis sind mehrere Berufungs- und Sendungsgespräche mit Moses verzeichnet. Die bildliche Darstellung gibt keine szenischen Details, welche die Festlegung auf einen bestimmten biblischen Bericht erlauben.
+
+Die Tatsache, daß Moses mit seinem Bruder Aaron berufen wird, und Abraham zusammen mit seinem Neffen Lot nach Kanaan zieht, gibt das tertium comparationis für den typologischen Bezug der alttestamentarischen Berufungsszenen auf die Aussendung des Marinus zusammen mit seinem Neffen Anianus. In einem Zyklus von 12 Tafelbildern, von denen sich drei an der südlichen LHs-Wand, drei an der nördlichen LHs-Wand und je drei an der unteren und oberen Emporenbrüstung befinden (laut LCI, Bd 5, Sp. 167, s. v. Anianus von J. B. Vicelli) wird die Legende der beiden Heiligen ausführlich geschildert. Der Zyklus beginnt im SO. Beschriftungen in Tafeln unter den Bildern:
+
+1 »Der heilige Marin und Anian wallfahrten aus Irland nach Rom.«
+
+2 »Der heil. Marin und Anian werden vom Pabst Fugan I mit Ehren empfangen «
+
+3 »Der heil. Marin u. Anian empfangen den päbstlicher Segen, u. die Erlaubniß zu Verkündung der Lehre Jesu.«
+
+An der unteren Emporenbrüstung wird der Zyklus von S nach N fortgeführt und an der oberen Emporenbrüstung fortgesetzt:
+
+4 »Der hl. Marin und Anian kommen über die Alper nach Bayern.«
+
+5 »Der hl. Marin und Anian wählen sich Wilparting und Alb zu ihrem Wohnorte.«
+
+6 »Der hl. Marin und Anian unterrichteten das anwohnende Volk in der Lehre Jesu.«
+
+7 »Der hl. Marin entrichtet das heil. Opfer zum Troste der armen Seelen.«
+
+8 »Der hl. Marin und Anian führen ein sehr strenges Leben mit Fasten und Abtötung.«
+
+9 »Der hl. Marin und Anian versammeln sich im Geiste mit Gott durch Beten und Betrachtungen.«
+
+Der Zyklus wird an der Nordwand von W nach O zu Ende geführt:
+
+10 »Der heil. Marin wird von den wilden raubgieriger Slaven in seiner Einöde aufgefunden.«
+
+11 »Der heil. Marin wird von den Slaven äusserst mis handelt um des Glaubens willen.«
+
+12 »Der heil. Marin stirbt unter Gebeth als Martyrer Anian als Beichtiger am nämlichen Tag im Jahre 697 der 15. November.«
+
+Literatur siehe S. 634
+
+{{End}}

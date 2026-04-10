@@ -1,0 +1,118 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=119
+|Originalseitenbis=122
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Sommerprälatur
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Speisesaal
+|danach=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gastzimmer
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+== Ehem. Sommerprälatur, jetzt Gästewohnung ==
+
+'''Zum Bauwerk:''' Die ehem. Sommerwohnung des Abtes liegt im ersten Stock in der O-Ecke des Süd- oder Gästetraktes, der 1728-31 nach Plänen von Joseph Hainz und Michael Ötschmann erbaut wurde. Sie besteht aus sechs Räumen und einem Vorplatz, den der lange Gang des Südtraktes hier an seinem östlichen Ende bildet. Deckenbilder befinden sich im Vorplatz (A), im Vorzimmer zum Audienzzimmer (B), im Alkoven des ehem. Audienzzimmers (C) und in der ehem. Kapelle (D). Planskizze S. 116
+
+'''Auftraggeber:''' Abt Magnus Pachinger von Benediktbeuern (1707–42)
+
+'''Autor und Entstehungszeit:''' Bei der Stuckdekoration der ehem. Sommerabtei handelt es sich um Arbeiten von Gehilfen J. B. Zimmermanns, der mit seiner Werkstatt in den frühen 30er Jahren die Ausstattung des ganzen ersten Stockwerks im Südtrakt besorgte (Thon, S. 118). Ebenso wie der Stuck sind auch die Deckenbilder Werkstattarbeiten, wahrscheinlich von der gleichen Hand wie die der Gästezimmer (S. 111). Der figurale Stil weist auf den Maler des Treppenhauses, auf Johann Joseph Zimmermann, hin, wobei zu berücksichtigen ist, daß die verschiedenen in der Sommerprälatur angewandten Maltechniken auch stilistische Unterschiede bewirken (Lebensdaten s. S. 100–102). Die Dekoration des ehem. Audienzzimmers mit zwei Wappenkartuschen in der Mitte der Decke wurde unter Abt Benno Vogelsanger (1758-84) angebracht (rechtes Wappen; das linke ist das des Erbauers der Sommerabtei, des Abtes Magnus Pachinger).
+
+== Befund ==
+
+Träger der Deckenmalerei: A, B, C, D Flachdecken über Hohlkehlen
+
+Rahmen: A Stuckprofil, das Bild sprengt am östlichen Rand den Rahmen; B Stuckprofil mit übergreifenden Stuckwolken am östlichen Rand; C nimmt die gesamte Decke des Alkovens ein; D Stuckprofil, am östlichen Bildrand von einer Engelsfigur übergriffen, D1-4 Stuckkartuschen
+
+Technik: A Fresko, B Öl auf Leinwand, C, D, D1-4 Öl auf Putz; sämtliche Deckenbilder polychrom
+
+Maße: A Höhe 4,85 m; 2,60 × 3,30
+
+B Höhe 4,25 m; 2,50 × 2,00
+
+C Höhe 3,00 m; 2,65 × 1,65
+
+D Höhe 4,25 m; 2,80 × 1,75
+
+Erhaltungszustand: Die Deckenbilder sind nach Auskunft von P. Leo Weber, Benediktbeuern, und dem Augenschein nach noch nicht restauriert. A ist von mehreren Rissen durchzogen, B kleine fleckige nachgedunkelte Stellen (Antlitz der Spes), C geringfügige Risse, schwach nachgedunkelt, D zahlreiche Sprünge und Farbabschürfungen, D und D<sub>1-4</sub> stark vergraut. Alle Deckenbilder sind ziemlich verschmutzt
+
+== Beschreibung und Ikonographie ==
+
+A MISERICORDIA UND JUSTITIA (Vorplatz) Einfassung der Darstellung; Aufnahmestandpunkt unter der Bildmitte; Blickrichtung nach O. – Das Deckenbild zeigt in einer Himmelsszenerie die beiden allegorischen Gestalten auf Wolken thronend. Misericordia in rotem Gewand und faltenreichem Mantel, der auch ihr Haupt bedeckt, trägt einen Ölzweig in der Rechten, mit der Linken weist sie nach oben. Justitia neben ihr in Helm und Panzer, mit bauschig aufflatterndem gelben Mantel, hält Waage und Schwert in Händen und blickt nach unten, wo die Personifikation eines Lasters auf dunklen Wolken über den Bildrahmen hinaus in die Tiefe stürzt.
+
+Der illusionistische Effekt ist bereits in der vorgebeugten Figur der Justitia vorbereitet, während die Gestalt der Misericordia von dieser Bewegungsrichtung unberührt ist. Die Konturen der Gruppe sind vor dem hellen Himmelsgrund klar gezeichnet. Die Farbgebung bringt helle, fast grelle Buntfarben in harten Kontrasten, Grün, Rot und Gelb, während Blau nur in sehr stark aufgehellten Werten vorkommt.
+
+[[File:Band02_chunk003_p010_img005.jpg|thumb|A Misericordia und Iustitia]]
+
+Die Figur des Lasters ist ikonographisch nicht genau zu bestimmen. Sie ist durch Krallen und Drachenschwanz, allgemeine Teufels- und Lasterattribute, gekennzeichnet. Die Maske weist auf Falschheit und Verstellung (fraus, simulatio) und die Schlangenhaare auf Zwietracht (discordia) hin (Ripa). Eine Zusammenfassung verschiedener negativer Attribute und damit Charakterzüge in einer Lastergestalt ist ikonographisch nicht ungewöhnlich (vgl. Aich, CBD, Bd 1, S. 370-72). Der Putto schräg unter Justitia trägt mit Schild und Faszes weitere Kennzeichen der Gerechtigkeit. Der kleine Putto neben Misericordia hält ein Buch und weist auf die Inschrift Miserj/cordi/am,/ et Ju/ dicium/ can/tabo ps:/io (= Ps 100, 1). Der Ölzweig ist Symbol der Barmherzigkeit (vgl. Ps 51, 10 und danach Ripa, s. v. misericordia). Das Deckenbild ist an dieser Stelle
+
+<!-- citation-page-bottom: Band02 p119 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=11 -->
+<!-- citation-page-top: Band02 p120 -->
+
+[[File:Band02_chunk003_p011_img001.jpg|thumb]]
+
+- vor den Privaträumen des Abtes - eine Anspielung auf die<br>Haupttugenden eines Abtes, Barmherzigkeit und Gerechtigkeit.
+
+B SPES (Vorzimmer) Einansichtige Darstellung; Aufnahmestandpunkt unter dem westlichen Bildrand; Blickrichtung nach O. - Die Figur der Spes ist in Wolken in mäßiger Untersicht und Verkürzung gegeben. Sie wird<br>durch eine junge Frau mit langem Haar und reich gefalte-<br>tem, auffliegenden Gewand dargestellt, die einen großen<br>Anker hält und ihre Füße auf die Weltkugel setzt. Am<br>unteren Rechten greift sie an die Weltkugel. Diese Figur ist vom Bildrand überschnitten.
+
+Die Farbigkeit des Bildes ist auf der fast ausschließlicher Verwendung von Rosa und Olivgrün aufgebaut. Diese<br>Farben treten – fein abgestuft – in Gewand und Mantel der Spes auf und werden vom Hintergrundshimmel mit seiner rosagefärbten Wolken aufgenommen.
+
+Bei der stürzenden Figur fehlen Attribute. Sie ist wohl als antithetische Gestalt zu Spes aufzufassen, als Desperatio<br>Damit wäre das Thema hier an der Decke des Wartezimmers zur Audienz der Sieg der Hoffnung über die Verzweiflung.
+
+In der Stuckdekoration der Decke sind in den vier Ecken je zwei Putti dargestellt, die die Vier Jahreszeiten verkörpern
+
+C SCHUTZENGEL (Alkoven) Einansichtige Darstellung; Aufnahmestandpunkt unter der Bildmitte; Ansicht nach O. – Das Deckenbild nimmt die gesamte Deckenfläche des Alkovens ein. Es ist inhaltlich auf den darunter im
+
+Bett Ruhenden bezogen. Die Bildanlage mit geringer Verkürzung und Untersicht verzichtet auf illusionistische Effekte.
+
+Wolken füllen fast das ganze Bildfeld und überdecken den nur am östlichen Bildrand sichtbaren Landschaftsschau platz. Die große Gestalt des Schutzengels ist auf den untersten, dunklen Wolkenkissen halb stehend, halb aufschwebend dargestellt, mit großen Flügeln und faltenreichem, aufflatternden Gewand. Mit der Linken ergreift er den Arm eines Knaben, mit der Rechten weist er zum Himmel. Seiner Aufwärtsbewegung steht das Vorwärtslaufen des Knaben entgegen; die Bewegungstendenz des Engels fängt die des Knaben auf und leitet sie nach oben. Dadurch wird der ikonographische Topos des Wegführens von der Erde anschaulich gemacht. In dieser Darstellung ist ganz auf symbolisches oder biblisches Beiwerk verzichtet (vgl. dagegen die Schutzengelbilder S. 123, 132 und 594, 596).
+
+Die Farbigkeit ist zurückhaltend und differenziert; die verschiedenen Grauwerte der Wolkenlandschaft wiederho len sich in den Flügeln und im Gewand des Engels. Das Graugrün des Kindergewandes und das zarte Rosa des
+
+
+[[File:Band02_chunk003_p011_img002.jpg|thumb|D Anbetung der Eucharistie D1-4 Evangelistensymbole]]
+
+[[File:Band02_chunk003_p011_img003.jpg|thumb|B Spes]]
+<!-- citation-page-bottom: Band02 p121 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=12 -->
+<!-- citation-page-top: Band02 p122 -->
+
+[[File:Band02_chunk003_p012_img001.jpg|thumb]]
+[[File:Band02_chunk003_p012_img002.jpg|thumb]]
+[[File:Band02_chunk003_p012_img003.jpg|thumb]]
+[[File:Band02_chunk003_p012_img004.jpg|thumb]]
+
+Engelsmantels bringen - in einem abgeschwächten Komplementärkontrast - die einzigen Buntfarben. Das Licht ist an die Gestalt des Engels und seine unmittelbare Umgebung gebunden.
+
+DANBETUNG DER EUCHARISTIE (ehem. Kapelle) Aufnahmestandpunkt unter der Bildmitte; Blickrichtung nach O. - Die reine Himmels- und Wolkenszenerie ist im wesentlichen einansichtig angelegt. Ein großer, fliegender Engel mit ausgebreiteten Flügeln und Weihrauchfaß überschneidet den nordöstlichen Bildrand. Er ist in starker Untersicht dargestellt. Auch eine einfache, gemalte und teilweise verschattete Mauerbrüstung am westlichen Bildrand trägt zum illusionistischen Effekt bei. Dieser wird im Zentrum des Bildes, der frontal erscheinenden Monstranz mit dem Allerheiligsten und den sie umgebenden, anbetenden Putti und Engeln nicht fortgesetzt. - Die Farbigkeit zeigt mit Ausnahme der beiden Gelb-Gold-Werte im Gewand des unteren Engels und in der Monstranz fast nur sehr helle Grauwerte.
+
+D<sub>1-4</sub> EVANGELISTEN In den vier Ecken sind in kleinen, medaillonförmigen Bildfeldern die vier Evangelisten-symbole dargestellt; jeweils mit Namensinschrift:
+
+D<sub>1</sub> Engel – MATHE  
+D<sub>2</sub> Löwe – MAR/CVS  
+D<sub>3</sub> Stier – LVCAS  
+D<sub>4</sub> Adler – <i>IOHANES</i>  
+
+Die Ikonographie entspricht der früheren Bestimmung des Raumes als Kapelle.
+
+Die Gesamtikonographie der Sommerprälatur hat keinen übergreifenden Gedanken. Die Bildinhalte haben jeweils Bezug auf die Bestimmung des betreffenden Raumes.
+
+== Spezialliteratur zum Südtrakt ==
+
+Schmid, Anton, Die Nachblüte der Abtei Benediktbeuern nach dem dreißigjährigen Kriege, Salzburg 1924, S. 77 f.  
+Braunfels, Wolfgang, François de Cuvilliés, Würzburg 1938, S. 89 f.  
+Röhlig, Ursula, Die Deckenfresken Johann Baptist Zimmermans, ungedr. Diss. München 1949, S. 115.  
+Mindera, Karl, J. B. Zimmermanns Arbeiten für die ehemalige Benediktinerabtei Benediktbeuern, in: Das Münster 8, 1955, S. 15–19.  
+Thon, Christina, J. B. Zimmermann als Stukkator, München 1977, S. 117–122.  
+Literatur siehe S. 133
+
+{{End}}

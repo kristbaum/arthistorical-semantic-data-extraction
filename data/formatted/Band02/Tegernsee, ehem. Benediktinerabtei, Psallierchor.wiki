@@ -1,0 +1,90 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=594
+|Originalseitenbis=596
+|Lemma=Tegernsee, ehem. Benediktinerabtei, Psallierchor
+|Typ=Sakral
+|Ort=Tegernsee
+|davor=Tegernsee, ehem. Benediktinerabtei, Klosterkirche
+|danach=Tegernsee, ehem. Benediktinerabtei, Sakristei
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p594 -->
+
+<!-- header: TEGERNSEE -->
+
+<!-- header: TEGERNSEI -->
+
+Ehem. Psallierchor, jetzt Bibliothek, in Wittelsbachischem Resitz
+
+'''Zum Bauwerk:''' Dreijochiger Chorraum mit dreiseitigem Schluß in der Achse des Kirchenschiffes. Errichtung einer Trennwand im W zum AR erst 1823–24 durch Leo von Klenze unter König Max I. Joseph von Bayern, dabei wahrscheinlich Zerstörung eines dritten Freskos. Ursprünglich an dieser Stelle eine segmentbogenförmige Wand bis zur Höhe des Hauptaltars, darüber ein Holzgitter-Abschluß (Planskizze S. 565)
+
+'''Auftraggeber:''' Abt Bernhard Wenzl von Tegernsee (1673–1700)
+
+'''Autor und Entstehungszeit:''' Die Fresken sind nicht datiert und signiert, jedoch archivalisch belegt: In einem Schreiben des Hans Georg Asam (* 1649 Rott am Inn † 1711 Sulzbach) vom 7. 9. 1687 an den Prior von Tegernsee (BayHStA I, KL 875/519, fol. 37, 38; publiziert von S. Lampl, S. 117) bittet er um Aufschub der Ausstattung des Chors in das folgende Frühjahr. Im Vertrag für die Arbeiten in der Kirche (vgl. S. 564) vom 29.4.1689 werden die Fresken des Chors als ausgeführt erwähnt, müssen also vom Frühjahr 1688 an entstanden sein.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B Tonne mit Stichkappen Rahmen: A Stuckprofil mit Blüten-Früchte-Kranz, B Stuckprofil mit Lorbeerkranz
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 8,50 m; 3,75 × 2,6
+
+B Höhe 8,50 m; 2,70 × 3,80
+
+Erhaltungszustand und Restaurierungen: Die Fresken wurden noch nicht restauriert. Die Farbsubstanz ist im allgemeinen gut erhalten, beide Bilder sind jedoch verschmutzt und von stärkeren Scheitelrissen durchzogen; Wasserschäden in B
+
+Beschreibung und Ikonographie
+
+A HIMMELFAHRT UND KRONUNG MARIENS Einansichtiges hochovales Bildfeld mit schmalem terrestrischen Schauplatz an der östlichen Basis und großfiguriger Darstellung in einer Himmelsszenerie (Betrachterstandort unterhalb des westlichen Bildrahmens). In betonter Achsensymmetrie, mit einem Fluchtpunkt weit oberhalb des westlichen Bildrahmens, ist Mariä Himmelfahrt in starker Untersicht und mäßiger Verkürzung dargestellt. Engel und Putti tragen Maria hinauf zu Christus und Gottvater, die sie mit den Insignien der Krönung erwarten; zuoberst die Taube des Hl. Geistes. Der Erdenbereich wird
+
+
+[[File:Band02_chunk012_p023_img001.jpg|thumb|Himmelfahrt und Krönung Mariens]]
+
+
+
+[[File:Band02_chunk012_p023_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p595 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=24 -->
+<!-- citation-page-top: Band02 p596 -->
+
+<!-- header: TEGERNSEE -->
+
+<!-- header: TEGERNSE -->
+
+mit dem geöffneten Sarkophag vor der Tegernseer Landschaft mit der Klostervedute über dem See angedeutet.
+
+Hell-Dunkel-Einsatz und Farbgebung unterstützen die Entrückung der Gestalt Mariens in einen überirdischen Bereich, der mit aufgehellten Farbtönen von einer strahlenden Lichtquelle hinterfangen wird.
+
+Die leibliche Aufnahme Mariens in den Himmel und ihre Krönung zur Himmelskönigin durch die Dreifaltigkeit sind in einer Darstellung miteinander verbunden. Das Thema der Krönung Mariens ist mit dem des Patronats von Bayern und speziell von Kloster Tegernsee verquickt. Drei Kronen werden für Maria bereitgehalten: die Königskrone der Glorie (fester Bestandteil der Krönungsikonographie) auf der Weltkugel und zusätzlich ein Blütenkranz in der Hand Christi, unterhalb der Geist-Taube, welcher Maria als Braut bezeichnet (vgl. das Wessobrunner Gnadenbild »Mutter der schönen Liebe«). Hinzu kommen Kurhut und Zepter, die Insignien der Patrona Bavariae, die auf einem Kissen von einem Engel herangetragen werden. Der in der Landschaft sitzende Putto mit dem Spruchband SUB HAC PROTECTIONE weist auf Maria als die Schirmherrin von Tegernsee. Zusammengelesen mit dem Spruchband in B »Sub hac custodia« ergibt sich, daß die lateinischen Inschriften abgewandelte Verse des Mariengebetes »Subtuum praesidium confugimus, Sancta Dei Genitrix« sind.
+
+B SCHUTZENGEL Breitrechteckiges Bildfeld mit Betrachterstandort unter A. Die Darstellung ist untersichtig gegeben mit schmaler Bodenzone, die an der vorderen Bildkante einen felsigen Weg zeigt; im tiefen Landschaftsausblick, links im Bild, das Kloster Tegernsee.
+
+Die Hauptgruppe - ein Schutzengel, der die menschliche Seele zum Himmel emporleitet – schwebt im Bildzentrum. Die Seele ist gleich groß wie der Engel, in menschlicher Gestalt ohne Flügel, in weißem Gewand dargestellt. Der Engel umfaßt die Seele und hüllt sie in seinen Mantel ein. Er deutet dabei auf die Glorie, auf den hebräisch geschriebenen Namen Jahwe im Trinitätssymbol (Dreieck)
+
+Warme Braun-, Rot- und Grüntöne herrschen im Bild vor, wobei die Hauptgruppe durch Buntwerte von Rot, Gelb und Blau, abgesetzt mit Grauweiß, betont ist, während die entfernteren Gruppen durch aufgehellte Werte von Karmin und Himmelsblau ausgezeichnet sind bzw. ganz in die
+
+Braun- und Grüntöne der Landschaft integriert werden. Über der schwebenden Gruppe öffnet sich in einem Wolkenkranz eine weißgelbe Himmelspartie, die das Licht der Glorie veranschaulicht.
+
+Von rechts schreitet ein weiterer Engel ins Bild, er führt die Seele, ein weiß gewandetes Kind, zwischen irdischen Lastern und der Hölle hindurch. Zwei perlengeschmückte kartenspielende weibliche Gestalten verkörpern die Laster. Die aus einem Felsspalt hervorzüngelnden Flammen veranschaulichen den Abgrund der Hölle. Die Dornenzweige am felsigen Weg bezeichnen die Mühsalen und Entbehrungen des Tugendpfades.
+
+Gegenüber, am linken Bildrand, ist ganz klein Tobias dargestellt, der auf Geheiß des Erzengels Raphael (bezeichnet durch den Wanderstab) den Fisch ausnimmt (Tob 6,3-6). Anstelle des Tigris sind die Wasser des Tegernsees wiedergegeben. Die alttestamentarische Erzählung biete das historische Exempel für die theologische Schutzengeldeutung, die das Bild allegorisch-lehrhaft veranschaulicht. So wie Raphael den Knaben Tobias auf seiner Reise begleitet und sicher zum Ziel geführt hat, wird die Seele des Menschen von einem Schutzengel durch die Anfechtungen des irdischen Lebens und nach dem Tod zu Gott hingeführt – im Bild dargestellt durch die zwei Schutzengelgruppen (vgl. John B. Knipping, Iconography of the Counter Reformation in the Netherlands, Bd 1, Nieuwkoop 1974, S. 127).
+
+Die Darstellung von Schutzengel und menschlicher Seele (anima) ist in der vorliegenden Form innerhalb der Deckenmalerei ungewöhnlich, sie ist jedoch ein sehr verbreitetes Thema innerhalb der emblematischen Erbauungsliteratur im 16.–17. Jh. (vgl. Knipping, loc. cit., Bd 2, Register s. v. soul, und zur Gestaltikonographie der Seele vgl. LCI Bd 4, s. v. Seele, Sp. 138–42).
+
+Die Inschrift SUB HAC CUSTODIA bezeichnet das theologische Thema des Bildes. Die Wahl desselben für den Psallierchor erklärt sich wohl daraus, daß die Bayerische Benediktiner-Kongregation unter das Patronat der hll. Schutzengel gestellt war (Lindner, in: OAVG 50 Ergänzungsheft 1898, S. 44 f., und Lampl, S. 109, Anm. 199).
+
+Literatur siehe S. 597
+
+{{End}}

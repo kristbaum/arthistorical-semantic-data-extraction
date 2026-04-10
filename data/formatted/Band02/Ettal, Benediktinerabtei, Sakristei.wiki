@@ -1,0 +1,196 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=316
+|Originalseitenbis=323
+|Lemma=Ettal, Benediktinerabtei, Sakristei
+|Typ=Sakral
+|Ort=Ettal
+|davor=Ettal, Benediktinerabtei, Kloster-, Pfarr- u. Wallfahrtskirche
+|danach=Ettal, Benediktinerabtei, Kapitel- u. Chorsaal
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Sakristei im Sakristei- oder Bibliothekstrakt
+
+'''Patrozinium:''' St. Michael
+
+'''Zum Bauwerk:''' Laut Diarium Ettalense (1683–1722), verfaßt von P. Engelbert Sartori (Erzbischöfliches Ordinariatsarchiv München, vgl. Koch, S. 71–72), wurde unter dem 27. Abt Placidus II. Seiz von Ettal (1709–36) ab 1714 zugleich mit dem Presbyterium der in der O-W-Achse anschließende Sakristeitrakt durch Enrico Zuccalli erbaut. Von der abgebrochenen Michael-Friedhof-Kapelle ist das Patrozinium für die Sakristei übernommen worden. Der Sakristeibau war 1715 erstellt; die Stuckierung im Band- und Laubwerkstil erfolgte laut Rechnungsbeleg von 1725 (Koch, S. 75, Anm. 17) durch Johann Baptist Zimmermann. Durch den großen Klosterbrand von 1744 wurde die Sakristei nur geringfügig betroffen; die Ausmalung erfolgte erst danach.
+
+Die Sakristei mit einer Gesamtlänge von 23,20 m zu einer Breite von 11,60 m ist durch eine Zwischenwand mit Wandpfeilern und einer Arkadenöffnung als Raumverbindung in zwei verschieden lange Teilräume gegliedert. Der querrechteckige östliche Raumabschnitt mit Fresko A wird vom (unvollendet gebliebenen) Treppenhaus des Sakristeitrakts her betreten und hat zwei Fensterachsen (N-S); es ist die sog. Innere oder Wintersakristei. Der westliche Längsraum, die Äußere oder Sommersakristei, mit den Temperabildern B–E und B<sub>1-2</sub>–E<sub>1-2</sub> hat drei Fensterachsen und eine Mittelstütze aus einem Marmorsäulenpaar. Der Michaels-Altar steht an der W-Wand – in räumlicher Beziehung zum Hochaltar der Kirche. Südwestlich ist der Zugang zum Presbyterium durch den Chorumgang. Die Wandgliederung besteht in beiden Teilräumen aus Wandpfeilern, die flache Nischen umschließen.
+
+'''Auftraggeber:''' Abt Benedikt III. Pacher von Ettal (1739–59)
+
+'''Autor und Entstehungszeit:''' Signatur in A JO. IACOBVS ZEILLER (Johann Jakob Zeiller * 1708 Reutte in Tirol † 1783 Reutte). Die Sakristeibilder entstanden in den Jahren 1746/47, während des Neubaus von Kirche und Kloster nach dem Brand. Für das Fresko A ist laut Calendarium pro Anno 1747 (BayHStA I. KL Ettal Nr. 112, vgl. Koch, S. 82) die Entstehungszeit vom 26. Juni bis 26. Juli notiert.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A (Wintersakristei) auf den Wandpfeilern aufliegendes Spiegelgewölbe mit Stichkappen; B, C, D, E und B<sub>1-2</sub>–E<sub>1-2</sub> (Sommersakristei) vier auf der Mittelstütze und den Wandpfeilern aufliegende, etwa trapezförmige, flache Gewölbeabschnitte mit Stichkappen. Rahmen: A, B, C, D, E Stuckornament-Rahmen; B<sub>1-2</sub>, C<sub>1-2</sub>, D<sub>1-2</sub>, E<sub>1-2</sub> Stuckmedaillons
+
+Technik: A Fresko, B, C, D, E und B<sub>1-2</sub>–E<sub>1-2</sub> gefirnißte Tempera auf Putz; A–E polychrom, B<sub>1-2</sub> und C<sub>1-2</sub> monochrom ocker, D<sub>1-2</sub> und E<sub>1-2</sub> monochrom rotbraun
+
+
+[[File:Band02_chunk007_p009_img001.jpg|thumb]]
+
+
+Maße: A Höhe 4,20 m; 4,00 × 6,70 m. B Höhe 4,20 m; 3,25 × 4,90 m. C Höhe 4,20 m; 3,25 × 4,90 m. D Höhe 4,20 m; 2,80 × 6,00 m. E Höhe 4,20 m; 2,80 × 6,00 m.
+
+Erhaltungszustand und Restaurierungen: Erste Restaurierung 1901 durch Anton Ranzinger, letzte 1972–73 durch Franz X. Marchner, München. Bei Fresko A in der Wintersakristei ist die obere Malschicht weitgehend zerstört. Die Temperabilder der Sommersakristei sind insgesamt nachgedunkelt. Die Bilder B, C und D sind ansonsten recht gut erhalten, E zeigt in der linken Bildhälfte Farbabreibungen. Die Medaillons B<sub>1</sub> und B<sub>2</sub> waren in der oberen Hälfte fast völlig zerstört und sind nahezu Neuschöpfungen Marchners. Auch die restlichen Bilder C<sub>1-2</sub>, D<sub>1-2</sub> und E<sub>1-2</sub> präsentieren sich heute nach zwei Restaurierungen in stark ergänztem Zustand (vgl. Koch, S. 81).
+
+
+== Beschreibung und Ikonographie ==
+
+
+Innere oder Wintersakristei
+
+A WUNDERBARE BROTVERMEHRUNG (Io 6, 1–15 u. Par.) Die Wintersakristei ist mit einem größeren breitformatigen Fresko innerhalb der hellfarbigen Stuckdekoration ausgestattet. Die Darstellung ist auf den vom Kloster (von O) her Eintretenden hin gerichtet, sie hat ihre Basis am W-Rand des Freskos (zentraler Aufnahmestandort). Die figürliche Szene ist rahmenparallel, ohne Untersicht und Verkürzungen gegeben.
+
+Schauplatz ist eine kaum bewachsene Einöde, von geringer Bildtiefe, im Hintergrund und rechts von aufragenden kahlen Bergrücken begrenzt. In der Mitte unter spärlich belaubten Bäumen thront Jesus auf einem Natursteinsitz. Die segnend erhobene Rechte ist zu dem Knaben gerichtet, der kniend zwei Fische darreicht (vgl. Io 6, 9).
+
+Zu beiden Seiten ist die Verteilung der Brote geschildert. Links neben Jesus steht eine geschlossene Gruppe von sechs Aposteln, der vordere weist pathetisch auf Jesus und auf die lagernde Volksmenge an der anderen Seite hin, die das Brot von einem Jünger empfängt. Darunter ist die Gruppe eines Mädchens, das sich um einen Greis bemüht, hervorgehoben. Rechts sind Johannes und Petrus beim Austeilen zu erkennen. Ganz am Bildrand ist wohl das Einsammeln der Brotreste in Körbe (Io 6, 12–13) zu erkennen; ein Hund macht sich dabei über einen Brotkorb her.
+
+Jesus, in frontal dargestellter Figur, und die ihm zugeordneten Apostel sind kompositionell betont. Auf diese Figuren sind die hellen Buntfarben, Karmin, Weiß-Blau, Gelb, Violett und Grün, konzentriert. Die Farbwirkung des Freskos ist stark beeinträchtigt, besonders der Schauplatz ist farblich zu eintönig geworden.
+
+Außere oder Sommersakristei
+
+B–E und B<sub>1-2</sub>–E<sub>1-2</sub> Die in Tempera ausgeführten Bilder an den von der Mittelstütze ausgehenden Gewölbefeldern der Sommersakristei heben sich dunkelfarbig von dem hellen Stuck ab. Technik und Bildanlage lassen darauf schließen, daß Zeiller wohl den Eindruck von Ölbildern
+<!-- citation-page-bottom: Band02 p317 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=10 -->
+<!-- citation-page-top: Band02 p318 -->
+
+<!-- header: ETTAL -->
+
+<!-- header: ETTAI -->
+
+
+[[File:Band02_chunk007_p010_img001.jpg|thumb|Sommersakristei: C Abraham und Isaak]]
+
+
+erwecken wollte. Bei Deckendekorationen wurde im 17. und 18. Jh. mehrfach mit in den Plafond eingelassenen Leinwandbildern gearbeitet (z. B. J. J. Zeiller, 1746, Deckenbilder der Sakristei in Aldersbach, NB, oder B. A. Albrecht, 1730, Deckenbilder in der Ahnengalerie der Münchner Residenz).
+
+Der kartuschmäßig geformte Rahmenstuck (C-Bogen-Profil mit Akanthusranken, Voluten und von Putti getragene Konsolen) bildet keine eigentlichen Rahmen, sondern spielt als eigenwertiges Ornament in die bildlichen Darstellungen hinein. Die Formate variieren in Längs- und Querachse des Raumes. Die Bilder B–E werden von je zwei monochromen, ovalen oder runden Medaillons B<sub>1–2</sub>–E<sub>1–2</sub>, die über den Wandpfeilern angebracht sind, begleitet. Die in einfacher Draufsicht gemalten Bildszenen sind jeweils von der Mittelstütze her zu betrachten (zentrale Aufnahmestandorte).
+
+B ABELS UND KAINS OPFER (Gen 4, 1–16) Der Bildschauplatz bildet eine waldige, zerklüftete Urlandschaft mit einer unregelmäßigen Lichtung in der Mitte der Darstellung. Eine dunkle Vordergrundzone in den Rahmenausbuchtungen bewirkt eine in sich geschlossene Räumlichkeit des Bildes und Distanz zum Betrachter. Links kniet Abel neben dem Opferaltar, den Blick erhoben, die Arme betend ausgebreitet. Neben ihm auf dem Altar lodern hohe Flammen um ein Lamm zum Himmel empor. Kain, auf der rechten Bildseite, hat verwirrt die Arme über das Haupt erhoben, den Blick gen Boden, wo auf einer einfachen Steinplatte Feldfrüchte verbrennen, deren schwarz schwelender Rauch niedergedrückt wird. In der Mitte des Bildes öffnet sich die Szene in ein Flußtal mit Bergen in der Ferne. Dort erschlägt Kain seinen Bruder.
+
+In der Vordergrundszene fällt von links her nur auf Abel Licht. Sein Körper und seine unmittelbare Umgebung wirken strahlend hell gegenüber der Gestalt Kains, dessen Körper einen gedämpften Rotton wie das Feuer hat, noch unterstrichen vom Rotbraun seines Gewandes. Die Gestaltung der Landschaft trägt zur Charakterisierung der ungleichen Brüder bei: Hinter Kain starren abgestorbene bizarre Baumstämme zum Himmel auf, die Bildseite Abels ist von üppig belaubten Bäumen bestanden. Die Idylle um Abel wird noch erweitert durch die bei ihm weidenden Schafe. (Abbildung S. 321)
+
+
+[[File:Band02_chunk007_p010_img002.jpg|thumb]]
+
+
+C ABRAHAM UND ISAAK (Gen 22, 10–13) Im Vordergrund der Bildmitte ragt eine baumbestandene Bergspitze auf; links wird im Mittelgrund Gehölz mit Dornengestrüpp sichtbar, rechts fällt der Berg steil ab und der Blick führt in eine öde, gebirgige Landschaft in der Ferne. Am Gipfel ist der Opferaltar aus Steinplatten aufgebaut, Isaak wird dort vom Vater auf das aufgeschichtete Holz niedergedrückt. Abraham, in prachtvoller alttestamentarischer Gewandung neben dem Altar, wird von einem heranfliegenden Engel an der Opferung des Knaben gehindert; der Engel weist auf einen Widder seitlich im Gestrüpp. Unten am Abhang des Berges, nur zur Hälfte sichtbar, warten die Diener Abrahams mit einem Esel.
+
+Vor dem tonig verschwimmenden Hintergrund von Grün und Braun heben sich die Buntfarben wirkungsvoll ab: In der Gestalt des Abraham ein Zusammenklang von gedämpftem Blau, Weißgold und Rosenholz, in der Gestalt des Engels Blau, Rot und ein sehr helles, fahles Gelb. In der Gestalt des Isaak Weiß und Rot, das in dem zarten und hellen Inkarnat des Knaben wiederkehrt. Die Gruppe der drei Hauptakteure ist in scheinwerferähnlich wirkendem Licht mit starken Schatten-Kontrasten gegeben. Die übrigen Partien des Gemäldes liegen in diffusem Dämmerlicht.
+
+D MANNALESE (Ex 16, 15–17) Gezeigt ist das Wüstenlager der Israeliten in einer weiten, von Bergen umgebenen Ebene. Links sind aus ihrem Zelt unter Bäumen Moses, Aaron und einige Begleiter getreten. Moses weist mit seinem Stab pathetisch auf das Manna, das vor ihm in einem prächtigen Gefäß am Boden steht; Aaron hat die Hand segnend darüber erhoben. Gegenüber auf der rechten Bildseite hat sich das jüdische Volk gelagert und blickt teils mit dankbaren Gesten zum Himmel, teils prüft es das in Körben und Gewandfalten gesammelte Manna. Auf beide Gruppen fällt gleichmäßig Licht. Der mittlere Vordergrund des Bildes ist leer und öffnet sich auf die Ebene im Hintergrund, auf der, kaum erkennbar, Mannasammler dargestellt sind. Hinter dunklen Wolken ist der Himmel in der Ferne gelichtet; Manna fällt in kleinen weißen Flocken herab.
+
+Die Farben sind weniger nuanciert als in den übrigen Bildern; die Gewänder sind im Stofflichen kaum charakterisiert – im Gegensatz etwa zu den Gewändern des Abraham oder des Moses in C und E. Vor dem tonigen braun-grünen Hintergrund erscheinen die Buntfarben: Blau, Rot und Gelb, dazu ein helles Violettrosa. (Abbildung S. 322)
+<!-- citation-page-bottom: Band02 p319 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=11 -->
+<!-- citation-page-top: Band02 p320 -->
+
+<!-- header: ETTAL -->
+
+<!-- header: ETTA -->
+
+
+[[File:Band02_chunk007_p011_img001.jpg|thumb]]
+
+
+E DIE KUNDSCHAFTER MIT DER TRAUBE (Num 13, 23-26) Die Szene spielt auf einer seichten, hellen, bildparallel verlaufenden Landschaftsbühne, die sich bis in die Rahmenausbuchtungen erstreckt. Nach hinten bricht der Boden ab und läßt von den Hintergrundsfiguren nur die Oberkörper sichtbar werden. Kundschafter - mit Helm, Schwert und Mantel - kommen von links und bringen eine große Traube an einer Stange. Der letzte der Gruppe trägt einen Strauß voller Ähren und anderer Pflanzen als Zeugnis reicher Vegetation. Über die Bildmitte hinweg findet die Überreichung einiger Weinbeeren statt: Die Hände von Moses und dem ersten knienden Kundschafter treffen sich in einem Bogen; Moses, Aaron und ein dritter stehen rechts in einer geschlossenen Gruppe. Ihr hoher Rang wird durch den Reichtum ihrer malerischen Tracht veranschaulicht. Hinter ihnen ist zwischen Bäumen eine große graugrüne Draperie ausgespannt, um das Lager der Israeliten anzudeuten. Am rechten Bildrand kauert ein Knabe mit einem Hund vor einer Truhe. Die Szene ist gleichmäßig belichtet und farblich in warmen Tönen gehalten.
+
+Wie in B ist eine gewisse Kontrastierung der beiden Bildhälften festzustellen. Die linke Bildpartie ist voller Bewegung, die Boten drängen nach vorn. Rechts steht die Gruppe um Moses still vor dem dunklen Hintergrund. Die Farbgebung entspricht der Komposition, indem die linke Bildhälfte lebhaftere und weniger abgestufte Buntfarben, vorwiegend Gelb, Rot und Blau zeigt. Rechts sind die Farbtöne feiner differenziert: Blaugrün, Rosenholzfarben, Grau und Gold charakterisieren die Gruppe um Moses.
+
+
+== B1 DAVID ISST VON DEN SCHAUBROTEN (1 Sam ==
+
+
+
+[[File:Band02_chunk007_p011_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk007_p011_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk007_p011_img004.jpg|thumb]]
+
+
+
+[[File:Band02_chunk007_p011_img005.jpg|thumb|Sommersakristei: B Abels und Kains Opfe]]
+
+
+21, 5–7) David mit ausgebreiteten Armen hält in seiner Linken einen Brotfladen, rechts auf einem Tisch die aufgeschichteten Schaubrote, am Boden ein Krug und ein Kelch. Hinter der Szene eine Draperie – ein Zelt; links der Ausblick auf eine ferne Bergkette
+
+B<sub>2</sub> BARMHERZIGER SAMARITER (Lc 10, 30–35) Der Samariter und ein Helfer (der Herbergswirt?) besorgen sich um den von Räubern geschlagenen und ausgeraubten Mann, der an einen Steinblock gelehnt, nackt am Boden kauert. Der Samariter pflegt die Wunden mit Öl und Wein (darauf deuten die beiden Gefäße am Boden hin).
+
+C1 DAS GESCHLACHTETE LAMM AUF DEM THRON (Apoc 5, 6) Auf einer Altarplatte ein Kreuz und das von einer Glorie umgebene geschlachtete Opferlamm, aus dessen Wunde am Hals Blut fließt.
+
+C2 ANBETUNG DES LAMMES AUF DEM BERG (Apoc 5, 14) Im Vordergrund die Altesten, ihre Blicke zum Lamm gerichtet, das im Hintergrund auf einem kuppelförmigen Berg steht und in helles Glorienlicht getaucht ist.
+
+D1 HABAKUK BEI DANIEL IN DER LÖWENGRUBE (Dan 14, 36–37) Ein Engel trägt den Propheten Habakuk an den Haaren zu Daniel, der auf einem Steinblock in der Löwengrube sitzt. Habakuk überreicht Daniel die Speisung.
+
+D<sub>2</sub> KOMMUNION DES JUDAS (Io 13, 26–30 und Mt 26, 23) Jesus in hellem Licht spendet Judas die Kommunion.
+
+
+[[File:Band02_chunk007_p011_img006.jpg|thumb]]
+
+
+
+[[File:Band02_chunk007_p011_img007.jpg|thumb]]
+
+
+
+[[File:Band02_chunk007_p011_img008.jpg|thumb|La Das Altarsakramen]]
+
+
+
+[[File:Band02_chunk007_p011_img009.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p321 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=12 -->
+<!-- citation-page-top: Band02 p322 -->
+
+<!-- header: ETTAL -->
+
+
+[[File:Band02_chunk007_p012_img001.jpg|thumb|Sommersakristei: D Mannalese]]
+
+
+nion. Hinter dem Unwürdigen, der in der Linken einen Beutel - den Lohn seines Verrats - hält, erscheint fratzenhaft der Satan. Links von Christus sind drei Apostel zu sehen, von denen einer unmittelbar neben dem Erlöser die Hände zum Gebet gefaltet hat. In ihm dürfte Petrus zu sehen sein, der Christus dreimal verleumdet hat.
+
+E1 SPEISUNG DES ELIAS (3 Reg 19, 5) Elias sitzt an einen Baum gelehnt auf der Erde und blickt zu einem herabschwebenden Engel auf, der ihm ein Brot reicht und mit seiner Linken zum Himmel zeigt.
+
+E2 DAS ALTARSAKRAMENT Auf einem Sockel steht eine Monstranz mit Hostie, von der eine Strahlenglorie ausgeht.
+
+
+== Ikonologie ==
+
+
+Bestimmendes Grundmotiv des Bilderzyklus ist die Eucharistie in ikonologischem Sinnbezug auf die Sakristeiräume und deren Funktion. Gegenüber dem neutestamentarischen Vorbild, der Wunderbaren Brotvermehrung in A stellen die Bilder B – E alttestamentarische Präfigurationen der Eucharistie dar, wobei die Bilder der Längsachse des Raumes, B und C, den Aspekt des Opfers und die Bilder der Querachse, D und E, den Mahlcharakter betonen. Die doppelt zugeordneten Medaillonbilder sind hierzu weitere Explikationen, wobei die alttestamentarische Thematik nur in B1, D1 und E1 fortgeführt ist. Abels und Kains Opfer (B) zeigt Abel, das Vorbild Christi mit Hirtenattributen, die auf den Guten Hirten anspielen, während sich das geopferte Lamm auf Passio Christi und Eucharistie bezieht. Kain als Gegenbild bezeichnet die völlige Abkehr von Gott. Hinzugeordnet sind die Themen Gleichnis vom Barmherzigen Samariter (B2) und David ißt von den Schaubroten (B1). Dies sind wenig gebräuchliche Bilder, wobei Abel als Präfiguration Christi und der Barmherzige Samariter als positives Verhalten, Kain und David als negatives antithetisch gegenübergestellt sind.
+
+Abrahams Opfer (C) wird erläutert durch die Apokalypse-motive, das Gotteslamm auf dem Kreuz und dem Opferaltar (C1) und durch Anbetung des Lammes auf dem Berg (C2). Hier ist Isaak mit Christus als dem Lamm Gottes gleichgesetzt, der sich in Gehorsam dem Vater gegenüber als Opfer hingab, dem dadurch Lob und Dank gebührt, das die Ältesten der Apokalypse stellvertretend vorwegnehmen. Den Mahlcharakter der Eucharistie bringen auch die vier Medaillons D1-2 und E1-2 zum Ausdruck. Zum Kundschafterbild (E) sind zugeordnet die Darstellung einer eucharistischen Monstranz (E2) und die Speisung des am Leben verzweifelten Propheten Elias (E1) als Symbol für die stärkende Kraft des Abendmahls.
+
+Die Medaillons D<sub>1-2</sub> bei der Mannalese (D) behandeln in Verbindung mit der Kommunion des Judas beim Letzten Abendmahl den unwürdigen Genuß der Eucharistie, der zu Gericht und Verdammnis führt und in der Speisung Daniels durch den Propheten Habakuk den tröstenden und errettenden Charakter der Himmelsspeise zeigt.
+
+Innerhalb der eucharistischen Ikonologie ist auffallend das Bildzitat der Kommunion des Judas, der Speisung des Elias und des Barmherzigen Samariters. Es sind dies Themen, die sich in gleicher Weise als Präfigurationen und »Lebende Bilder« im Oberammergauer Passionsspiel in der Fassung von 1750 bei P. Ferdinand Rosner (1709–78) bis in den Daisenberger Text, der heute im wesentlichen noch gespielt wird, erhalten haben. Die Judas-Präfiguration läßt sich sogar bis 1730 vor der Rosner-Fassung zurückverfolgen, so daß für das Programm der Ettaler Sakristei, das sich bis in die Thematik des Stuckdekors fortsetzt, P. Ferdinand Rosner als Initiator angenommen werden könnte (Koch, S. 80, Anm. 38).
+
+
+== Spezialliteratur zur Sakristei ==
+
+
+Koch, Laurentius, OSB, Die Sakristei der Klosterkirche Ettal, in: Jahrbuch des Vereins für Christliche Kunst Bd 10. München 1978, S. 71–82.
+
+Literatur siehe S 320
+
+{{End}}

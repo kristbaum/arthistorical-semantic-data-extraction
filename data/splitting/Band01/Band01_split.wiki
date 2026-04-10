@@ -62,8 +62,6 @@ Das Corpus der barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Danksagung (Band 1)
-|Typ=
-|Ort=
 |davor=
 |danach=Adelshausen (Weil), Kapelle St. Martin
 |AutorIn1=Bauer, Hermann

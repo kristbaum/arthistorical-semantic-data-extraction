@@ -1,0 +1,84 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=275
+|Originalseitenbis=276
+|Lemma=Dickelschwaig, Kapelle St. Gertrud
+|Typ=Sakral
+|Ort=Dickelschwaig
+|davor=Bayersoien, Pfarrkirche St. Georg
+|danach=Elmau, Kapelle
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Kapelle beim Forsthaus, zur Staatsforstverwaltung gehörig, Gemeinde Oberammergau, Pfarrei Ettal, Diözese Augsburg; z. Z. der Ausmalung Sommersitz der Äbte von Ettal, Klosterhofmark Ettal
+
+
+'''Patrozinium:''' St. Gertrud
+
+
+'''Zum Bauwerk:''' Grundsteinlegung am 27. 5. 1698 durch Abt Romuald Haimblinger (1697-1708), Inschrift an der Fassade über dem Wappen von Ettal RHAZE (= Romuald Haimblinger Abt zu Ettal). Erste Hl. Messe am 17. 11. 1698. Konsekration am 22. 9. 1708.
+
+Kleiner sechseckiger Zentralbau (5,40 × 6,20 m), nach NW gerichtet, von vier Fenstern gleichmäßig belichtet
+
+'''Auftraggeber:''' Abt Benedikt III. Pacher von Ettal (1739–59)
+
+'''Autor und Entstehungszeit:''' Signatur im Fresko am Kreuzesstamm Jacob Zeiller. fe. 1755. (Johann Jakob Zeiller * 1708 Reutte in Tirol † 1783 Reutte). Das Deckenbild
+
+entstand anschließend an die Ausmalung des Kapitelsaals in Ettal (S. 323-29) als letzte Freskomalerei im Auftrag des Klosters.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Klostergewölbe über sechseckigem Grundriß
+
+Rahmen: profiliertes Stuckgesims und imitiertes verkröpftes Gesims mit vergoldeter Randleiste
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 6,90 m (Stich 2,20); 6,20 × 5,40
+
+Erhaltungszustand und Restaurierungen: Letzte Restaurierung 1967 durch Fa. Mayerhofer, München. Die Inschrift über dem Eingang Ren. MDCCCCLXV-A.F.D. (= Arno Fischer, Dießen) bezieht sich nicht auf die Deckenmalerei, sondern auf Malerei am Außenbau. - Verkitteter Riß, guter Zustand des Freskos
+
+
+== Beschreibung ==
+
+
+GLORIE DER HL. GERTRUD Einansichtige Himmelsdarstellung mit der Dreifaltigkeit und der Heiligen auf
+
+
+[[File:Band02_chunk006_p013_img003.jpg|thumb|Glorie der hl. Gertrud]]
+<!-- citation-page-bottom: Band02 p275 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=14 -->
+<!-- citation-page-top: Band02 p276 -->
+
+<!-- header: DICKELSCHWAIG -->
+
+ELMAU
+
+Wolken. Das imitierte Gesims, das den Zentralraum über dem realen Kuppelansatz weiterführt und in den Glorienhimmel öffnet, wie auch die Versammlung der Figuren in der NW-Partie der Kuppel, sind auf den Betrachterstandort unmittelbar am Eingang der Kapelle berechnet; hier wird auch die Einbeziehung des Hochaltars in die Deckenmalerei deutlich. Die Architekturmalerei mit dem um fünf Konsolen verkröpften Profil ist im Vergleich zu Bichl (S. 143-47) sehr zurückhaltend eingesetzt. Die Mittel der illusionistischen und raumverbindenden Deckenmalerei sind so in überzeugender Weise auf den kleinen Maßstab des Zentralraums ohne Wandgliederung übertragen.
+
+In starker Verkürzung und entlang den Fluchtlinien zum Gewölbemittelpunkt mit der Gloriole und der Hl. Geist-Taube sind die beiden seitlichen Gruppen – Christus mit Kreuz und Gottvater mit Weltkugel und Zepter, jeweils von einem großen Engel begleitet – übereinander angeordnet und vermitteln eine beträchtliche Höhenillusion. Dazu tragen auch die Untersicht der Gruppe um Gottvater und die düster verschatteten Wolkenpartien bei, die rechts über den Bildrand in den Kapellenraum herabzuhängen scheinen, während die Farbwerte zum Bildzentrum immer lichter werden. Weniger untersichtig gegeben, und damit bezugnehmend auf die Bildebene des Hochaltars, kniet zwischen den Figurengruppen die hl. Gertrud im Benediktinerhabit und empfängt von Christus den Nimbus.
+
+Die stark zusammengeballte Wolkenbank unter ihr, die den Rahmen überschneidet, stellt räumlich und ikonographisch den Zusammenhang mit dem Hochaltar darunter her; mit dem dunklen Violett-Rosa knüpft sie auch farblich an die Stuckmarmorierung des Altars an. Im bewölkten Himmelsbereich wird dieser Ton zartrosa aufgehellt und mit lichtem Gelb zur bestimmenden Farbigkeit des Freskos. Hierin werden die stark lichthaltigen Buntfarben des Himmels und der Gewänder – Blau, Gelb, Violett und das dunklere Graugrün der Ordenstracht – eingebettet und in den aufgehellten Partien, in den Nimben und der Gloriole bis zu reinem Weiß sublimiert.
+
+<b>Ikonographie</b>
+
+Dargestellt ist die Mystikerin aus dem ehem. Zisterzienserkloster Helfta (*1256 † um 1302), die durch ihre Schriften besonders für die Herz-Jesu-Mystik bedeutsam wurde. Im Deckenfresko wird sie durch schwarze Ordenstracht charakterisiert, das Altarblatt weist sie näher aus: dort ist sie mit ihrer Erzieherin Gertrud von Hackeborn wiedergegeben (vgl. auch im Zeillerschen Kuppelfresko des benachbarten Klosters Ettal, S. 312), die den Jesusknaben, Gegenstand ihrer Visionen, auf dem Arm hält. Außerdem hat sie als Attribut ein zerbrochenes Herz, das mit einer Kette verbunden wird, zurückgehend auf Gertruds Visionen (Revelationes, Insinuationes divinae pietatis). Der Äbtissinnenstab, von ihrer Erzieherin Gertrud von Hackeborn stammend, kann zu häufiger Gleichsetzung und Verwechslung der beiden Frauen geführt haben.
+
+== Literatur ==
+
+Hofmann, Richard, Das Marienmünster zu Ettal, Augsburg 1927, S. 21, 50.  
+Thieme-Becker, Bd 36 (1947), S. 435 f.  
+Lutterotti, Otto, Die Barockmaler-Familie Zeiller aus Reutte, in: Außerferner Buch, Schlern-Schriften 111, Innsbruck 1955, S. 312.  
+Fischer, Pius, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, München 1964, S. 50, 115.  
+Matsche, Franz, Der Freskomaler Johann Jakob Zeiller, Marburg 1970, S. 280–282.  
+
+{{End}}

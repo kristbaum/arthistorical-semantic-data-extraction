@@ -1,0 +1,38 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=656
+|Originalseitenbis=657
+|Lemma=Deutsche Lemmata (Band 2)
+|davor=Lateinische Lemmata (Band 2)
+|danach=
+}}
+
+Auch In den Klein thuen erlich sheinn 544 Aus Lieb der Sonnenstralen Las ich die Federn falen 162
+
+Das Geschray der Hunden macht mir keine Wunden 162 Das Hegst Gebott Hilf in der Noth 163 Der beste Port ist dises orth 134 Dis Feur thuet geben ein anders Leben 16 Dißes Verzehren thuet heiß gebehren 544 Drei ding Hasset Mein seele 545 Du must in Ewighkeit nit beweget werden 545
+
+Er hat mich wie Gold Bewähret daß durchs süb gehet 545
+
+Hilf alß Zusßam lebt nichts wie Flamm 544 Hoch erhoben gnug zu loben 544
+
+Je mehr daß Leiden je greßere Freiden 54
+
+Mein ankunft In die Welt, Aufs beste alles bestellt 502 Mein heller schein bringt freud allain 502 Mein Hoffnung 468 Mein Überguß Im Überfluß 501 Mit den gleichen strallen thue ich bezahlen 544 Mit dir allein wird Sicher sein 134
+
+Mit dir allein wird Sicher sein 134
+
+Ohn Feller sein gibt solchen shein 543
+
+Stehet denn, angethan mit dem Panzer der gerechtigkheit 544
+
+Unbeweglich 468 Unverlegt 468
+
+Von Deinem Glantz Erleicht bin gantz 163 Von schönen Sonen Liecht Alles Unreines Fliecht 163 Vor Deinen Lohn Bereidt die Kron 543
+
+Wer unter disen schuz, der biethet aller Truz 501
+<!-- citation-page-bottom: Band02 p657 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=5 -->
+{{End}}

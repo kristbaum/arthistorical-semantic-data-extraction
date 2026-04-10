@@ -1,0 +1,156 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=21
+|Originalseitenbis=24
+|Lemma=Bad Heilbrunn, Pfarrkirche St. Kilian
+|Typ=Sakral
+|Ort=Bad Heilbrunn
+|davor=Danksagung (Band 2)
+|danach=Bad Tölz, Wallfahrtskirche Maria Hilf
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Pfarrkirche, Diözese Augsburg; z.Z. der Ausmalung Filialkirche der Klosterpfarrei Benediktbeuern, Klosterherrschaft Benediktbeuern
+
+
+'''Patrozinium:''' St. Kilian:
+
+
+'''Zum Bauwerk:''' Neubau des Chors durch Stiftspalier Joseph Hainz von Bichl ab 1725 nach Plänen des Benediktbeurer Klosterschreiners Michael Otschmann; Stuckdekoration (Joseph Hainz) und Ausmalung 1726; ab 1727 »Erweiterung« wohl des LHs (Meichelbeck, S. 394), Weihe 1742. Die LHs-Fresken A, B, C von Josef Schäfer 1882. Ungegliederter Saalbau zu drei Fensterachsen, eingezogener AR mit längsovalem Grundriß. 1931 Anbau nach W
+
+'''Auftraggeber:''' Abt Magnus Pachinger von Benediktbeuern (1707–42); dessen Wappen am Chorbogen mit dem Chronogramm: SVB HIS BIS GRATIOSIS / AVSPICIIS / MAGNI ABBATIS / BENEDICTOVRANI. (= 1726). Auf einem Stuckband zusätzlich die Jahreszahl 17/26. Das Konventswappen befindet sich gegenüber, westlich im Gewölbe.
+
+'''Autor und Entstehungszeit:''' Für die Ausmalung des Chors ist das Jahr 1726 durch Chronogramm und Jahreszahl beim Abtswappen sowie durch ein weiteres Chronogramm in den Bildunterschriften der Chorfresken gegeben: OMnes (D<sub>1</sub>) - QVI (D<sub>2</sub>) - BIbent (D<sub>3</sub>) - DE FONTIBVS SALVATORIS (D) - Certo (D<sub>4</sub>) - saLVI (D<sub>5</sub>) - Flent (D<sub>6</sub>) (= 1726). Als Autor wird der Laienbruder Lucas Zais von Benediktbeuern (* 1674 Lambach/OO † 1739 Benediktbeuern) vermutet, der mit Marx und Joseph Hainz, Maurer und Stukkator, etwa ab 1710 für das Kloster als Maler tätig war. Von den stark übermalten Kirchenfresken zeigen die Kartuschbilder im Chor D<sub>1-6</sub> noch am meisten barocke Substanz. Der Puttotypus dieser Bilder ist jenem in der Deckenmalerei von St. Jakob im Walchensee (S. 262–64) sehr ähnlich. Auch die Bildkomposition des Hauptfreskos D im Chor ist mit den Walchenseer Bildern A und B zu vergleichen. Historisch gesehen ist es wahrscheinlich, daß der Abt den malenden Laienbruder seines Konvents mit der Ausmalung der Filialkirchen von Benediktbeuern betraute.
+
+
+[[File:Band02_chunk001_p011_img006.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, B, C, 1–8) Tonne mit Stichkappen; AR (D, D<sub>1-6</sub>) angeschnittene längsovale Flachkuppel mit Stichkappen
+
+Rahmen: A-D Stuckprofil von Akanthus und Rollwerk leicht überschnitten, D<sub>1-6</sub> Stuckkartuschen
+
+Technik: Fresko; polychrom
+
+Maße: D Höhe 8,80 m; 4,10 × 3,20
+
+Erhaltungszustand und Restaurierungen: In C findet sich
+
+
+[[File:Band02_chunk001_p011_img007.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p21 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=12 -->
+<!-- citation-page-top: Band02 p22 -->
+
+[[File:Band02_chunk001_p012_img001.jpg|thumb]]
+
+die Signatur Jos. Schäfer 1882. Dem stilistischen Befund nach sind die drei LHs-Bilder A-C vollständig erneuert.
+
+Im Kartuschbild 2 ist angegeben Renov. 1936. Die acht LHs-Kartuschen sind stark übermalt, von der Ikonographie her zu urteilen, überliefern sie wohl die ursprünglichen barocken Bildthemen. AR-Fresko D und die Kartuschen D1-6 haben augenscheinlich noch barocke Malsubstanz; sie weisen Querrisse auf.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Das Kiliansthema hebt die drei LHs-Fresken von den übrigen Kirchenfresken ab; es bezieht sich auf das Patrozinium der Kirche. Der hl. Kilian wird bei Gicht und Rheuma angerufen. - Es ist fraglich, ob die Bilder des 19. Jh. das barocke Programm überliefern.
+
+D BLUT-CHRISTI-BRUNNEN Annähernd rundes, einansichtiges Bildfeld mit Betrachterstandort unter dem Chorbogen. Stark untersichtige und verkürzte Darstellung des Gekreuzigten über einer plastisch modellierten Brunnen- 
+schale mit den vier Evangelistensymbolen am Fuß (als Vorbild hat wohl die Brunnendarstellung im Alten Festsaal von Benediktbeuern gedient, vgl. in A4, S. 79). An der östlichen Basis des Bildes die Armen Seelen als Halbfiguren zwischen Flammen und Felsen. Zwei Engel zu Seiten Christi fangen Blut aus den Wunden in Kelchen auf. Aus Öffnungen der Brunnenschale fließt Blut ins Fegfeuer. Blut-Christi-Brunnen- und Fegfeuer-Darstellung nehmen inhaltlich Bezug auf die liturgische Feier des Meßopfers und veranschaulichen die katholische Erlösungstheologie.
+
+D<sub>1-6</sub> ARMA CHRISTI In den ovalen und kartuschförmigen um D angeordneten Bildfeldern ist jeweils ein Putto am Boden sitzend oder kniend dargestellt, der Leidenswerkzeuge präsentiert.
+
+Eine lateinische Inschrift verbindet und erläutert die meditativen Passionsdarstellungen:
+
+[[File:Band02_chunk001_p012_img002.jpg|thumb]]
+
+[[File:Band02_chunk001_p012_img003.jpg|thumb]]
+
+[[File:Band02_chunk001_p012_img004.jpg|thumb]]
+
+[[File:Band02_chunk001_p012_img005.jpg|thumb]]
+
+DI D<sub>1-6</sub> Arma Christi
+
+Grundlage sind die biblischen Worte Jesu am Jakobsbrunnen, Io 4, 13-14: »Omnis qui bibit . . . ex aqua quam ego dabo ei non sitiet in aeternum, sed aqua . . . fiet in eo fons aquae salientis in vitam aeternam«, und eines Dankliedes, Is 12, 3: »Haurietis aquas in gaudio de fontibus salvatoris«. Das Kernstück der Inschrift bei der Hauptdarstellung D ist zugleich Benennung des Bildgegenstandes.
+
+[[File:Band02_chunk001_p012_img006.jpg|thumb|D Blut-Christi-Brunnen D<sub>1-6</sub> Arma Christi]]
+
+[[File:Band02_chunk001_p012_img007.jpg|thumb]]
+
+1–8 BRUNNENZYKLUS In den ebenfalls ovalen oder kartuschförmigen Bildfeldern an den Zwickeln der LHs-Tonne wird das Christus-Brunnen-Thema von D durch sechs biblisch-historische und zwei symbolische Szenen weiter ausgeführt. Lateinische Überschriften benennen jeweils den Brunnen, die Quelle oder den Badeteich. Die Unterschriften bezeichnen die Wirkungen des Wassers und zwar in exegetischer Weise auf Christus den Erlöser bezogen. Das Quellwasser, alttestamentarisches Symbol des Lebens, das Gott gibt, ist als typologisches Bild Christi genommen. Bad Heilbrunn mit der Jodquelle, bei der die Kranken die Gesundheit des Körpers wiederzugewinnen suchen, wird im Bildprogramm religiös gedeutet als der »Heilsbrunnen«, bei dem der Mensch Heil für Körper, Geist und Seele gewinnt.
+
+1 FONS / IACOB / Joa. 4. (= Io 4, 6) – ILLVMINAT. - Jesus spricht zu der Samariterin am Jakobsbrunnen  
+2 FONS / AQVAE VIVAE / Cant. 4. (= Cant 4, 12: »hortus conclusus, fons signatus« und 4, 15: »fons hortorum, puteus aquarum viventium«) – VIVIFICAT. – Ein turmartiges Brunnenhaus. Die Wasserstrahlen benetzen Blumenbeete und -wiesen, Kornfeld und Zypressen.  
+3 FONS/AGAR. Gen. 21. 19- REFOCILLAT. – Der Engel zeigt Hagar und Ismael in der Wüste den Brunnen.  
+4 FONS / AETHIOPIAE / ACT. 8 (= Act, 8, 38) - MVNDAT. — Philippus tauft den Eunuch aus Athiopien an einer Quelle. Zwei Athiopier halten das Obergewand des Täuflings. Im Hintergrund Kutsche und Pferd.  
+5 PISCINA / PROBATICA / Joh. 5. 3 - SANAT. – Ein Engel schwebt zu dem Badeteich von Bethesda herab, um den Kranke geschart sind.  
+6 FONS / ELISAEI / II. Reg. 2. 21 (= 4 Reg 2, 21: ».. egressus ad fontem aquarum misit in illum sal, et ait: Haec dicit Dominus: Sanavi aquas has, et non erit ultra in eis mort, neque sterilitas.«) — FRVCTIFICAT – Elisäus reinigt und macht das Wasser eines Brunnens in Jericho gesund. Neben dem Propheten eine Mutter mit zwei Kindern, dahinter Haustiere.  
+7 FONS / AQUAE / PERENNIS (Die Überschrift entspricht inhaltlich Is 58, 11: »Et eris quasi hortus irriguus, et sicut fons aquarum cuius non deficient aquae.«) — PERENNAT. – In der Mitte erhebt sich ein turmartiger Tempelbau, umschlossen von einer Mauer mit Zinnen. Im Hintergrund links ein Springbrunnen, dessen Wasser den Tempelhof durchquert und sich durch eine Maueröffnung in einen Graben im Vordergrund ergießt.  
+8 FONS / IVDICII / Gen. 14. (= Gen 14, 7: »Reversique sunt, et venerunt ad fontem Misphat, ipsa est Cades...«] — RECREAT. — Vor dem Zeltlager eines Heeres zwei Könige und ein Feldherr an einem Brunnen. Die Darstellung illustriert vom Bericht des Feldzugs der »vier großen Könige« in Genesis 14 den Aufenthalt bei der »Gerichtsquelle« (Übersetzung der Jerusalemer Bibel).
+<!-- citation-page-bottom: Band02 p23 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=13 -->
+<!-- citation-page-top: Band02 p24 -->
+
+<!-- header: BAD HEILBRUNN -->
+
+<!-- header: BAD TOLZ -->
+
+
+[[File:Band02_chunk001_p013_img001.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p013_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p013_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p013_img004.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p013_img005.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p013_img006.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p013_img007.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p013_img008.jpg|thumb]]
+
+
+
+== Literatur ==
+
+
+Meichelbeck, Carolus, Chronicon Benedictoburanum, München 1751, S. 394.
+
+KDB I OB (1), S. 666
+
+Hartig, Michael, Die Oberbayerischen Stifte, Bd 1, München 1935, S. 17.
+
+Mindera, Karl, Benediktbeuern. Das Handwerk im Dienst
+
+der Kunst auf dem Boden der Grundherrschaft Benediktbeuern, München 1939, S. 53 f.
+
+{{End}}

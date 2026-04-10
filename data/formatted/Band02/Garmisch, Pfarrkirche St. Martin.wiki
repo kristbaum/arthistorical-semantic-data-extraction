@@ -1,0 +1,332 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=335
+|Originalseitenbis=347
+|Lemma=Garmisch, Pfarrkirche St. Martin
+|Typ=Sakral
+|Ort=Garmisch
+|davor=Froschhausen, Filial- u. Wallfahrtskirche St. Leonhard
+|danach=Grainau, Pfarrkirche Johann Baptist
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Pfarrkirche, Erzdiözese München und Freising; z. Z. der Ausmalung zur Fürstbischöflich-Freisingischen Grafschaft Werdenfels gehörig, Niedergericht Garmisch
+
+
+'''Patrozinium:''' St. Martin
+
+
+'''Zum Bauwerk:''' Da die spätgotische alte Pfarrkirche zu klein geworden war, beschloß man den Neubau einer größeren neuen Pfarrkirche aus eigenen Mitteln. Durch Vermittlung von Stift Rottenbuch wurde Joseph Schmuzer mit dem Bau beauftragt; Kostenvoranschlag 1729; Baubewilligung von Freising 1729. Ein Streit um den Bauplatz innerhalb der Gemeinde verzögerte die Grundsteinlegung, die im Spätsommer 1730 durch Propst Patritius Oswald von Rottenbuch vorgenommen wurde. Der Neubau wurde anstelle der dafür abgerissenen spätgotischen Nikolauskapelle errichtet. 1732–33 Stuckierung durch Joseph Schmuzer; 1734 Fertigstellung des Hochaltars; feierliche Weihe am 23. 9.1734.
+
+LHs zu vier Jochen mit Doppelpilastergliederung und Doppelempore im W; das östliche, vierte LHs-Joch tiefer als die drei ersten; die beiden im N und im S anschließenden Seitenkapellen verleihen ihm querhausartigen Charakter. Stark eingezogener AR, dessen Vorjoch mit seitlichen Oratorien niedriger ist als das apsidial geschlossene AR-Joch. Gleichmäßige Beleuchtung von N und S durch große Fenster unten und darüberliegende querformatige Fenster in der Gewölbezone.
+
+In den Vorzeichen des südlichen und nördlichen Portals befinden sich in flachen Bogennischen je zwei stark beschädigte, polychrome Wandbilder, deren Entstehungszeit unbekannt ist. Die Darstellungen des Gekreuzigten über dem Fegfeuer, eines Totentanzes, der Kirchenpatrone Martin und Nikolaus und des Letzten Abendmahles stehen in keiner Beziehung zum Bildprogramm des Kirchenraumes (keine Abbildungen).
+
+'''Auftraggeber:''' Johann Theodor von Bayern, Fürstbischol von Freising (1727-63), dessen Wappen sich am Chorbogen befindet. Pfarrer Johann Marquard Schmid von Garmisch (1730–50) hat den Kirchenneubau und seine Ausstattung durchgeführt; Inschrift auf der Grabplatte in der nördlichen Seitenkapelle »... Pastor fuit bonus Quem Domus Dei comedit Zelus . . . « (vgl. Prechtl, S. 161 f.)
+
+'''Autor und Entstehungszeit:''' Signatur in D Mathae Gindter Invenit et Pinxit 1733 Matthäus Günther (* 1705 Unterpeißenberg † 1788 Haid bei Wessobrunn) hatte am 30. 8. 1732 den Entwurf für die Ausmalung der Chorkuppel vorgelegt; am 8. 11. 1732 erhielt er für die Ausführung (Fresken F F<sub>1-2</sub>) die Summe von 150 Gulden, für weitere Arbeiten im Chor (wohl Fresko E) 25 Gulden und für seine Gehilfen 4 Gulden 10 Kreuzer ausgezahlt. Für die vier LHs-Fresken erhielt er am 15. 11. 1733 »accordsgemeß« 250 Gulden (Bogenrieder, S. 25).
+
+Die beiden zum Martins-Zyklus gehörigen Wandfresken an
+
+
+[[File:Band02_chunk007_p018_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p335 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=19 -->
+<!-- citation-page-top: Band02 p336 -->
+
+<!-- header: GARMISC -->
+
+<!-- header: GARMISCH -->
+
+der westlichen Emporenwand EW<sub>1-2</sub> stammen von Franz Seraph Zwinck (* 1748 Oberammergau † 1792 Oberammergau); Signatur in EW2 F: Zwinck inv: pinxit. Die Chronogramme in den Bildern ergeben die Jahreszahl 1776. Zwinck hat noch ein signiertes und 1777 datiertes Olbild (an der südlichen Wand im AR) für die Garmischer Pfarrkirche geschaffen.
+
+Die wenig qualitätvollen Deckenbilder in den Seitenkapellen (K<sub>1-2</sub>) und im südlichen Oratorium (O) sind al secco gemalt. 1733 war die Gemeinde in Geldschwierigkeiten gekommen, weshalb die Kirche auf Befehl des Fürstbischofs mit den Altären der alten Pfarrkirche ausgestattet werden sollte. Sammlungserträge ermöglichten die Errichtung eines neuen Hochaltars, in den Seitenkapellen wurden der Nikolaus- und der Apostelaltar aus der alten Kirche aufgestellt. So erklärt sich, daß die genannten Deckenbilder nicht mehr von Günther ausgeführt wurden. Joseph Dieffenbrunner (* 1697 Mittenwald † 1779 Mittenwald, s. auch St. Anton, S. 406) hat mit zwei »frembten faß-Mahlergesöhlen«, Anton Steinmez und Anton Loß, den 1734 fertiggestellten Hochaltar mit seinen Figuren gefaßt. Zusätzlich versuchten sich die Faßmaler als Gewölbemaler: Steinmez und Loß schufen die Deckenbilder der Kapellen (K 1-2), Dieffenbrunner die der beiden Oratorien, von denen nur das südliche (O) erhalten ist (Bogenrieder, S. 24–26 nach der inzwischen verschollenen Bauabrechnung von Johann Anton Baader 1739).
+
+Das Deckenbild im südlichen Oratorium (O) ist sehr schlecht erhalten. Anlage und Komposition der Himmelsszene, die unbeholfen angewandte Untersicht und die illusionistisch gemeinte Einführung ins Bild wie auch Details der Figuren zeigen Ubereinstimmungen mit dem von Joseph Dieffenbrunner signierten Deckenbild in St. Anton (B, S. 410f.) und dem Fresko der Kreuzkapelle in Mittenwald (a, S. 367f.).
+
+Die ebenfalls sehr schlecht erhaltenen Kapellen-Deckenbilder K<sub>1-2</sub> zeigen stilistische Eigenarten, die durch die Zusammenarbeit zweier ungeübter Maler, der Gesellen Steinmez und Loß, zu erklären sind: zwei heterogen gemalte Bildbestandteile, die Himmelsszene mit den plump gemalten Heiligen und Engeln, und der irdische Schauplatz sind ohne vermittelnden Übergang zusammengefügt und ohne illusionistische Absicht ins Bild gesetzt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B, C, D (LHs), böhmische Kappen über querrechteckigem Grundriß, E (AR) gedrückte Tonne mit Stichkappen, F (AR) Flachkuppel über zwei Pendentifs im W und dem halbrunden Chorschluß im O, F<sub>1-2</sub> Kuppelpendentifs, K<sub>1-2</sub> (Seitenkapellen) Quertonne, O (Oratorium) Flachdecke mit Hohlkehle Rahmen: A-D Stuckprofile, E Stuckprofil mit Ornamenten im Achsenkreuz, F Stuckprofil (Kuppelgesims), F<sub>1-2</sub> Stuckleisten, K1-2 und O Stuckprofile, EW1-2 gemalter Rocailleornament-Rahmen mit Figuren
+
+Technik: A-F, F<sub>1-2</sub>, EW<sub>1-2</sub> Fresko; K<sub>1-2</sub>, O Secco; polychrom
+
+Maße: A Höhe 15,50 m; 3,80 × 6,90
+
+B Höhe 15,50 m; 3,80 × 7,50
+
+C Höhe 15,50 m; 3,80 × 6,90
+
+D Höhe 15,90 m (Stich 2,60); 6,50 × 10,90
+
+E Höhe 12,90 m; 2,60 × 4,40
+
+F Höhe 16,20 m (Stich 3,00); Ø 8,75
+
+K<sub>1-2</sub> Höhe 12,60 m; 4,00 × 2,00
+
+O Höhe 5,00 m; 2,60 × 1,90
+
+Erhaltungszustand und Restaurierungen: 1912 Restaurierung der Fresken (dazu Akten im B.L.f.D.), 1948 und zuletzt 1972–73 durch Restaurator Alban Wolf, München und Fa. Mayerhofer. Günthers Fresken A–E weisen zwar kleinere Schäden auf, sind jedoch im ganzen gesehen farblich recht gut erhalten: in A-E Haarrisse, in E einige stärkere Risse; in A sind am südlichen Bildrand und bei der Martinsfigur in der mittleren Bildpartie ausgebesserte Feuchtigkeitsschäden zu erkennen, ähnlich in E in der südlichen Partie (das dunkle Mantel-Blau des Mannes mit dem Stabbündel ist nicht mehr original). Im Kuppelfresko F ebenfalls Haarrisse; es ist farblich stark beeinträchtigt: Die Farben erscheinen schmutzig grau und in der figürlichen Zeichnung etwas verunklärt; in der nördlichen Bildpartie eine größere, dunkel verfärbte Stelle. Die Kassettenrosetten der Kuppel und die aus dem Füllhorn fallenden Schmuckstücke sind neu vergoldet worden. Die Pendentif- Fresken F<sub>1-2</sub> haben Haarrisse, in F<sub>1</sub> ist eine größere ausgebesserte Stelle. Die Kapellenbilder K1-2 sind sehr schlecht erhalten, die Farben weitgehend verdorben. Das Oratoriumsbild O weist einen Längsriß und viele ausgebesserte Stellen auf, besonders längs des östlichen Randes. Photographische Aufnahme von C vor der Restaurierung 1972–73, alle übrigen zeigen den Zustand nach der Restaurierung.
+
+
+== Beschreibung ==
+
+
+A-D Im System der LHs-Dekoration wird die Jochteilung beibehalten; die Rahmenfunktion der Stuckprofile wird durch die ornamentierten Gurte noch verstärkt. Bei den vier Bildfeldern alternieren zwei Formvarianten: A und C sind Rechtecke mit abgerundeten Ecken, B und D von Querovalen durchdrungene Rechtecke. Die kleinformatigen, das Gewölbejoch nicht ausfüllenden Bilder A-C deuten das Raumgefüge des LHs keineswegs um; erst in dem wesentlich größeren Fresko D öffnet der gemalte Bildraum das Gewölbe. Die Bildanlage ist bei allen vier Fresken einansichtig, der Betrachterstandpunkt liegt bei A unter dem östlichen Bildrand mit Ansicht nach W, bei B, C und D unter dem westlichen Bildrand mit Ansicht nach O. Die Bildhandlung ist jeweils bei voller Bildbreite in einem seichten, nach hinten abrupt abfallenden Schauplatz entwickelt. Verkürzungen und Überschneidungen bei Schauplatz und einigen Vordergrundsfiguren in Rückenansicht tragen der sotto-in-su-Ansicht Rechnung, während im übrigen Komposition und bildräumliche Darstellung in A–C weitgehend tafelbildmäßig sind.
+
+Zusammen mit den Fresken in Druisheim von 1732 (Schw. LKr. Donau-Ries), in Welden von 1733 (Schw, LKr. Augsburg-West) und in Sterzing von 1733 (Südtirol)
+
+
+[[File:Band02_chunk007_p019_img001.jpg|thumb|A Aufnahme Martins in der Taufschule]]
+
+
+gehören die Garmischer Malereien zu den frühesten Günthers. Während der Maler in Welden und Sterzing das System der figurenbesetzten Tambour-Scheinarchitektur versucht, ist es in Garmisch das einansichtige Legendenbild im Breitformat, das ebenfalls in dieser Zeit (vgl. J. B. Zimmermann in Schliersee 1714, S. 555-60, und Weyarn 1729, S. 613–27) als Typ des Deckenbildes erprobt wird. Unter dem Einfluß von Hans Georg und Cosmas Damian Asam bildet Günther hier eine wesentliche Komponente des späteren Bildsystems aus: in Bühnenteilen, die durch die Perspektivanlage bedingt sehr seicht und mit landschaftlichen oder architektonischen Versatzstücken ausgestattet sind, werden wie in Mansionen des Theaters Akte eines Stückes aufgeführt. Untersicht und Perspektivgesetze werden dabei zu einem Teil und Faktor des bizarren, malerischen Erzählbildes, sie handeln gleichsam mit.
+
+A DIE AUFNAHME IN DER TAUFSCHULE Parallel zum westlichen Bildrand führen zwei Stufenpodeste optisch in das Bild ein. Sie bilden die Handlungsbühne, die links durch einen gerafften Vorhang neben einem Schreibpult und rechts durch einen aufragenden Torbogen abgeschlossen ist. Auf den Stufen kniet der junge Martin, geleitet von Caritas, die, neben ihm auf einer Wolke sitzend, den Knaben am Arm faßt. Die Hand Martins weist zu dem Geistlichen am Pult hin. Dieser ist von Männern umringt, von denen einer Martin einen Rosenkranz entgegen hält.
+
+Der Blick des Knaben ist zum Himmel gerichtet, wohin ihn Caritas weist: Dort thronen Fides-Ecclesia und Spes mit ihren Attributen auf Wolken, die in den irdischen Raum
+
+eindringen und ihn erfüllen. Von hellem Glorienlicht umgeben erscheint zwischen beiden Gestalten das Dreifaltigkeitssymbol.
+
+Auf einem kleinen Podest steht rechts vor dem Torbogen der Vater Martins; er blickt auf seinen Sohn und wendet sich zum Tor, durch das man die weggehende Mutter sieht. Typisch für Günther ist die Erweiterung und Motivierung der historischen Szene durch himmlische oder allegorische Gestalten; der junge Martin steht im Mittelpunkt dreier Handlungsimpulse, deren Hauptfigur er ist.
+
+Das Grau der Grundfarbigkeit ist durch Beimischungen von Violett, Ocker, Gelb und Weiß ungemein differenziert. Die Buntwerte sind darin eingebettet: Karmin in großer Fläche beim Vorhang, Gelbocker, Grün und Blau sowie Rotwerte bei den Gewändern, wobei die einzelnen Farben durch Kontrastwirkungen gesteigert werden. Die Hauptsigur ist durch die Verwendung der Farb-Trias Rot, Blau, Gelb ausgezeichnet; die Farbwahl bei den drei Tugenden ist ikonographisch bestimmt. In der Gruppe von Martin und Caritas werden die höchsten Lichtwerte des Bildes erreicht.
+
+B ABSCHIED VOM HEERDIENST Auf einem seichten Grasstreifen im Bildvordergrund ist über zwei zum Teil mit Teppichen bedeckten Stufen das Prunkzelt des Kaisers aufgerichtet. Dieser sitzt umgeben von seinen Offizieren auf einem Thronsessel und nimmt die Verteilung des Geldes an seine Soldaten vor. Martin steht vor ihm auf den Stufen und weist die von einem Diener dargebotenen Münzen zurück; mit der Rechten hat er ein Kreuz erhoben. Sein Haupt ist von einem Strahlenkranz umgeben. Seine
+<!-- citation-page-bottom: Band02 p337 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=20 -->
+<!-- citation-page-top: Band02 p338 -->
+
+[[File:Band02_chunk007_p020_img001.jpg|thumb]]
+
+Rüstung und Waffen, Panzer, Helm, Schwert und Fahne, liegen vor ihm auf den Stufen.
+
+Von links unten nähern sich zwei Boten des Feindes in Begleitung eines Soldaten und bringen zum Zeichen der freiwilligen Ergebung die Schlüssel der Stadt herbei. Im
+
+Hintergrund formiert sich das Heer zum Abmarsch aus dem Zeltlager.
+
+Rötlich-violette Werte bestimmen die Farbigkeit des Schauplatzes und scheinen sich von hinten (Himmel, Zelt) nach vorn (Teppich auf den Stufen) zu verdichten. Außer
+
+[[File:Band02_chunk007_p020_img002.jpg|thumb|D St. Martin als Patron und Wundertäter]]
+
+[[File:Band02_chunk007_p020_img003.jpg|thumb|B Abschied vom Heerdienst]]
+
+diesen Rotwerten spielen nur noch Gelb und Weiß als Farben in den Gewändern der meisten Figuren eine Rolle durch den Kontrast zum Rot hin in ihrer Buntwertigkeit gesteigert.
+
+== C ÜBERFALL AUF MARTIN ==
+Bildschauplatz ist ein Weg über einen grasbewachsenen Hügel, der wie eine seichte Bühne den Bildvordergrund einnimmt. Im Hintergrund sieht man hochaufragende Berge, die auf der rechten Seite, dem Rahmen folgend, panoramaähnlich hochgezogen sind.
+
+Auf dem schmalen Pfad steht der Heilige in schwarzer Mönchskleidung. Eine Räuberbande mit Säbeln, Knüppeln und Morgenstern dringt von allen Seiten auf ihn ein; er wird von hinten gepackt und gefesselt. Zwei Räuber holen zum Schlag auf ihn aus; ein dritter fällt ihnen in die Arme. Martin, dessen Haupt von Strahlen umgeben ist, zeigt den Angreifern das Kreuz an seinem Rosenkranz. Über ihm erscheinen im Himmel Engel und Engelsputti. Im Hintergrund sieht man einen Mann rosenkranzbetend zu einem Kloster bergan gehen.
+
+Die frontal dargestellte Gestalt Martins in der Bildmitte ist kompositionell als Angelpunkt der szenischen Handlung hervorgehoben; seine ruhige Erscheinung bildet einen Kontrast zu den erregt ausfahrenden Bewegungen der Räuber. In diesem Bild fällt die Lichtführung mit den starken Schlagschatten auf, die mit der Abschattung des Vordergrundes links zur räumlichen Tiefenstaffelung, aber auch als Mittel zur Dramatisierung der Komposition eingesetzt wird.
+
+Vor dem Hintergrund mit den differenzierten Blau- und Grauwerten erscheinen die wenigen Buntfarben im Mittelgrund an den Gewändern der Figuren. Das Schwarz-Weiß der Hauptfigur ist als Kontrast zu den Gelb- und Rotwerten in der Engelgruppe und den Figuren der Räuber eingesetzt.
+
+== D ST. MARTIN ALS PATRON UND WUNDERTÄTER ==
+Eine zentralperspektivisch in Untersicht konstruierte, stark verkürzte Phantasiearchitektur umfaßt dreiseitig eine weite Handlungsbühne, zu der eine breite, bildparallele Stufenanlage hinaufführt. Darüber öffnet sich eine helle Himmelsglorie, die von Engeln auf Wolken umgeben ist. Die Bildanlage ist streng symmetrisch. Die weite mittlere Bogenöffnung hat die Form eines stuckierten Gurtbogens, doch trägt sie kein Gewölbe und führt nicht in einen weiteren Raum, sondern ist wie ein Triumphbogen gegen den Glorienhimmel gestellt als auszeichnendes Bild-
+<!-- citation-page-bottom: Band02 p339 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=21 -->
+<!-- citation-page-top: Band02 p340 -->
+
+[[File:Band02_chunk007_p021_img001.jpg|thumb]]
+
+== E VORAUSSAGE DES TODES ==
+
+motiv für die darunter dargestellte Gestalt des Heiligen. Das Nebeneinander von perspektivisch logischer Konstruktion und Architektur als Bildmotiv erzeugt einen Widerspruch, der auch in Details offensichtlich wird; z. B. die eingesetzten Ornament-Kartuschen an den Stellen, wo das Bauwerk an den oberen Gesimsplatten und am Bogen nicht logisch fortgeführt ist.
+
+In der Bildmitte, unter dem Bogen, steht der hl. **Bischof** Martin inmitten von Menschen, die sich um ihn drängen. Kranke, Besessene und andere Hilfesuchende kommen von allen Seiten durch die Bogenöffnungen und über die Treppe heran und blicken auf den hl. Patron, der, zum Himmel gewandt, die Arme über sie breitet. Seine Gestalt ist inhaltlich und formal ausgezeichnet. Eine große Strahlenglorie umgibt sein Haupt; die Bewegung der Menschen wie auch der Engel führt zu ihm hin. Die Glorie um sein Haupt im Bildmittelpunkt ist zu der Himmelsglorie darüber in Beziehung gesetzt. Seine frontal dargestellte Gestalt überragt die übrigen Figuren.
+
+Die für Günther typische Graufarbigkeit des Schauplatzes umfaßt hier gleichermaßen Architektur wie Himmelsglorie, wobei das Grau im Bereich des in der Mitte erscheinenden Dreifaltigkeitssymbols bis zu Weiß hin aufgehellt und an der Unterseite der Wolken zu massivem Rußgrau abgeschattet ist. Quasi als Hintergrund dieser Schauplatzfarbigkeit tritt das Blau des Himmels als Fernfarbe zurück. Wenige Buntfarben treten in den Gewändern auf: Blau und Gelb bei der Engelsgruppe, Grün und Gelb bei den Bittflehenden. Die wenigen Rotwerte sind entweder vom Lichtweiß aufgezehrt oder zu Braun hin verschattet. Der Heilige ist durch das dominierende Gelb des Strahlenkranzes ebenso ausgezeichnet wie durch die sehr hellen Auflichtungen seiner grauvioletten Soutane; er bildet neben der Glorie ein zweites Lichtzentrum, dem in vergleichbarer optischer Wirkung wie bei den verschatteten Wolken dunkle Partien im Bildvordergrund entgegengesetzt sind.
+
+== F TOD UND GLORIE DES HL. MARTIN ==
+
+[[File:Band02_chunk007_p021_img002.jpg|thumb|F Tod und Glorie des hl. Martin]]
+
+Das Fresko in der Flachkuppel des Chores stellt eine Scheinkuppel über einem säulenbesetzten Tambour mit verkröpftem Gebälk dar, die nach Pozzo (Andrea Pozzo, Der Mahler und Baumeister Perspectiv, Augsburg 1708, Fig. 90) in Untersicht konstruiert ist. Der Tambour ist von Konsolen getragen, die über dem realen Stuckgesims ansetzen. Der Mittelpunkt der gedachten Kuppel ist konzentrisch nach W verschoben, so daß eine Hauptansicht nach O entsteht, in der die Tambourzone Handlungsschauplatz ist, während sie im W in äußerster Verkürzung vom Rahmen überschnitten wird. Der ein Jahr nach dem Fresko entstandene Hochaltar überschneidet den östlichen Bildteil, der deshalb nur vom LHs aus ganz sichtbar ist.
+
+Über dem reich gegliederten Tambour mit Säulen, Arkadenbögen und Nischen öffnet sich die kassettierte Kuppelschale in einem weiten Ausschnitt zum Himmel. Durch diese Öffnung sind Wolken in das Kuppelrund eingedrungen, auf denen unter der Taube des Hl. Geistes Christus und Gottvater in hellem Glorienlicht thronen. Unter ihnen kniet der hl. Martin mit gesenktem Blick und gekreuzten Armen. Zwei Putti reichen ihm die Krone des Lebens auf dem Mantel Christi dar. Engel tragen die Attribute des Heiligen, Gans, Mitra und Bischofstab. Der Erzengel Michael, in Rüstung, mit Schild und Schwert, sitzt dem Heiligen gegenüber auf einer Wolke. Am Rand der Glorienöffnung schmücken Engel den Bau mit einer Blumengirlande und einer goldgesäumten Draperie (vgl. die ähnlichen Motive bei C. D. Asam: Fresko im Festsaal der Benediktinerabtei Brevnov, Böhmen, und die Scheinkuppel der Stiftskirche Weingarten, Bad-Württ).
+
+Gesten und Blicke der Engel sind auf das Sterbelager des hl. Martin gerichtet: Vor der östlichen Arkadenöffnung in der Hauptansicht ist ein Steinsarkophag dargestellt, auf dessen Deckplatte der Leichnam des Heiligen gebettet ist.
+<!-- citation-page-bottom: Band02 p341 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=22 -->
+<!-- citation-page-top: Band02 p342 -->
+
+Mönche stehen betend und klagend um das Totenbett; einer hält die Sterbekerze. Am Fußende des Lagers stürzt ein Putto mit einem Blitzbündel den Teufel in die Tiefe. Die Figur des Teufels ist plastisch gebildet und ragt weit über den Kuppelfuß hinaus (vom Altaraufbau überdeckt; vgl. Abbildung S. 346).
+
+Die Farbigkeit des Kuppelfreskos ist verdorben. Grauwerte dominieren durch die Schädigung der Farbsubstanz zu stark und beeinträchtigen den Lichtcharakter - besonders bei der Glorie. Die zarten Farbabstufungen Günthers kommen kaum mehr zur Geltung. Bei den Figuren ist die Prägnanz der Linienführung verloren gegangen.
+
+F<sub>1-2</sub> PUTTI Die Flachkuppel ruht nur an der W-Seite auf Pendentifs. Hier befinden sich Bildfelder mit der Darstellung spielender Putti (Abbildungen S. 347)
+
+F1 Putti mit Lamm
+
+F<sub>2</sub> Putti mit Lilie
+
+K<sub>1-2</sub> Die Darstellungen in den schmalen Bildfeldern an den Quertonnen sind zwar ikonologisch auf den jeweils zugehörigen Kapellenaltar bezogen, formal aber nicht auf ihn hin geordnet, sondern hochformatig für die Ansicht nach O.
+
+K1 HL. NIKOLAUS Der Bischof sitzt auf Wolken, Engel und Putti tragen seine Attribute, Stab, Buch und drei Kugeln. Ein Putto hält einen Lorbeerkranz über sein Haupt; unter ihm in Vogelperspektive eine weite Alpenlandschaft mit einem Fluß (Loisach).
+
+Die Flöße darauf zeigen, daß Nikolaus in Garmisch als Patron der Flößer verehrt wird.
+
+
+[[File:Band02_chunk007_p022_img001.jpg|thumb|K2 Hl. Johannes von Nepomu]]
+
+
+K<sub>2</sub> HL. JOHANNES VON NEPOMUK Der Heilige thront auf Wolken, von Engeln und Putti getragen. Er trägt die Tracht der Kanoniker mit der Almutie und hält in der Hand sein Attribut, die Zunge. Putti tragen Barett und Palmzweig; einer hebt den Zeigefinger im Schweigegestus, Hinweis auf die Bewahrung des Beichtgeheimnisses durch den Heiligen. Unten im Bild ist Prag mit mächtigen Befestigungsbauwerken und der Moldaubrücke dargestellt. Der Martyrer wird gerade von der Brücke gestürzt; auf dem Wasser schwimmt seine Sternengloriole.
+
+O HL. KORBINIAN Die Oratorien über Nebenräumen sind mit der Kirche durch offene Bögen zum Chor und zum LHs hin verbunden. Das ovale Bildfeld im südlichen Oratorium zeigt den hl. Bischof Korbinian in Wolken, vor Engeln begleitet; darüber die Dreifaltigkeit. Christus ist im Taufgestus Johannes des Täufers dargestellt; in der Hand hält er einen Kranz. An der Bildbasis ist der Abschnitt einer Brüstung perspektivisch verkürzt gemalt. Darüber lehnt sich der Bär, das Attribut des Heiligen; Mitra und Stab werden von einem Engel gehalten.
+
+In die tafelbildmäßige Darstellung der Wolkenszenerie sind die illusionistischen Effekte (Brüstung, Figur Christi) unvermittelt eingebracht.
+
+Korbinian von Freising ist Bistumspatron.
+
+imitierten Rahmen, deren Ornamente und am oberen Rand angebrachte Figuren Schlagschatten werfen. Schriftbänder mit Chronogrammen, die um die unteren Rahmenseiten geschlungen sind, nennen die dargestellte Szene. EW1 MARTIN STÜRZT DIE GÖTZENBILDER Der Heilige, von zwei Engeln in Rüstung und Waffen begleitet, tritt mit erhobenem Kreuz einer Gruppe von Soldaten und Bauern entgegen, die im Vordergrund dargestellt sind: Sie legen Pfeil und Bogen an, um den Heiligen zu töten. Im Hintergrund ein großes, mauerumgebenes Gebäude mit Kuppel und Turm; auf der Mauer stehen Standbilder, zwei weitere Bildwerke auf Säulen: Apoll und Marsyas. Die Figur des Marsyas zerbirst, von einem Strahl getroffen, der vom Kreuz in den Händen Martins ausgeht. Die Figuren auf dem Rahmen stellen einen Krüppel mit Krücke und Holzbein dar (links) und einen Besessenen, aus dessen Mund der böse Geist entweicht (rechts).
+
+EW2 DIE GELÖSCHTE FEUERSBRUNST Der hl. Martin steht vor zwei brennenden Häusern und gebietet den Flammen Einhalt. Sein Begleiter, ein Geistlicher, und die Hausbewohner haben sich bittend an Martin gewandt; andere tragen Wasser zum Löschen herbei. Im Vordergrund, im unteren Rahmenbereich, sind Repoussoirfiguren zu sehen: eine Wasserträgerin mit Kind und ein Knabe mit einem Korb.
+
+Beide Wandbilder wirken durch die lebhaft und anschaulich geschilderten Details. Die Figuren auf dem Rahmen zeigen rechts eine Frau und links einen Mann, der auf Kopf und Rücken ein Bett (Strohsack?) trägt (vgl. den Mann mit dem Bett in St. Anton, S. 412, 414)
+
+
+[[File:Band02_chunk007_p022_img002.jpg|thumb]]
+
+
+
+== Ikonographie und Ikonologie ==
+
+
+Die neue Pfarrkirche von Garmisch hat das Patrozinium St. Martin von Tours von der heute noch bestehenden Alten Pfarrkirche übernommen, die zunächst bis auf den Chor abgebrochen und in eine Totenkapelle verwandelt werden sollte (Bogenrieder, S. 28). In den Fresken A, B, C ist in chronologischer Folge die Vita Martins von seiner Hinwendung zum christlichen Glauben bis zu seiner Entlassung aus dem weltlichen Heeresdienst dargestellt. Die am meisten verbreitete Martinsdarstellung, die Mantelteilung, chronologisch zwischen A und B einzuordnen, findet sich auf dem Hochaltarblatt des Martin Speer von 1734, das Propst Patritius Oswald von Rottenbuch gestiftet hat. Die Darstellung des Heiligen als Patron nimmt das letzte Gewölbejoch im LHs ein und ist durch die Größe des
+
+
+[[File:Band02_chunk007_p022_img003.jpg|thumb]]
+
+
+Bildfeldes ausgezeichnet; sie ist auf die in diesem Raumteil versammelte Gemeinde bezogen; die Notleidenden des Deckenbildes repräsentieren die Gläubigen in der Kirche von Garmisch.
+
+Im AR sind in E und F Tod und Glorie Martins vorgestellt. Uber die Geschichte hinausgreifend wird der historische Bericht unter den heilsgeschichtlichen Aspekt des Patronats gestellt.
+
+Günthers Darstellungen des Martins-Zyklus sind im historischen Detail präzis - im Sinne des 18. Jh. - und lassen sich anhand der Martinschriften von Sulpicius Severus eindeutig bestimmen (deutsche Ausgabe in: Bibliothek der Kirchenväter, Bd 20, Kempten-München 1914, S. 17-53) Zur Erläuterung herangezogen ist Ribadeneira-Hornig Bd 2, 11. 11., S. 713–76.
+<!-- citation-page-bottom: Band02 p343 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=23 -->
+<!-- citation-page-top: Band02 p344 -->
+
+<!-- header: GARMISCH -->
+
+Die historischen Szenen A, E und F sowie die Patroziniums-Darstellung D sind durch allegorische Bilder und Figuren bereichert. Dabei fällt auf, daß Günther bereits bei diesem Frühwerk wie in den später folgenden die konventionellen Figuren zusätzlich mit wenig üblichen Attributen ausstattet, weniger geläufige Personifikationen hinzunimmt und emblematisch gefaßte Handlungsmotive miteinbezieht. Unmittelbare literarische oder bildliche Vorlagen, nach denen Günther seine allegorischen Figuren konzipiert hat, sind bisher unbekannt. Die Ikonographie der Szenen ist manchmal nicht zweifelsfrei zu deuten. Günther hat, wie die Signatur besagt, die Bilder selbst »erfunden«, d. h. ihre formale Konzeption. Die Übereinstimmungen im ikonologischen Stil in Günthers Werk sprechen aber dafür, daß unter seiner »Invention« auch die inhaltlicher Details zu verstehen ist. Für die Festlegung von Themen und die Szenenauswahl kommt in Garmisch außer Pfarrer J. M. Schmid auch der Propst von Rottenbuch, Patritius Oswald, in Frage (vgl. Oberammergau, S. 375f., und Rottenbuch, CBD, Bd 1, S. 498), der sich sehr für die Kirche in Garmisch engagiert hatte.
+
+A DIE AUFNAHME IN DER TAUFSCHULE Gegen den Willen seiner heidnischen Eltern bittet der Knabe Martinus um die Aufnahme unter die Katechumenen von Pavia. Die Szene zeigt, wie sein Name in das Buch der Taufschüler eingetragen wird (Sulpicius Severus, Vita 2, loc. cit., S. 20–21).
+
+Das historische Geschehen ist allegorisch eingekleidet: Die drei Göttlichen Tugenden führen den Knaben zum Christentum. Fides-Ecclesia in weißblauem Gewand mit Schlüssel, Kreuz und Kirchenmodell, auf dem die päpstlichen Insignien zu sehen sind, vermittelt Martin die göttliche Gnade; das wird verdeutlicht durch den Lichtstrahl, der von drei Flammen in einem Dreieck in einer Lichtscheibe (Dreifaltigkeit) ausgeht. Fides-Ecclesia hält diese Lichtscheibe in der Hand. Der Strahl trifft zuerst einen Spiegel auf ihrer Brust und dann, reflektiert, die Brust des Knaben. Durch den Spiegel ist Ecclesia auch als Vermittlerin der Gotteserkenntnis gezeigt, ebenso als Sitz der göttlichen Weisheit, veranschaulicht durch die Geist-Taube auf ihrem Haupt, von der aus ebenfalls ein Strahl auf Martin fällt. Caritas ist in einen roten Mantel gekleidet, hat ein flammendes Herz auf der Brust und einen Kranz von roten und weißen Rosenblüten auf dem Kopf. Sie lenkt mit der rechten Hand den Gnadenstrahl auf die Brust des Kindes und zeigt so die Auserwählung durch die göttliche Liebe. Spes ist außer durch die grüne Farbe des Gewandes und den Anker durch einen grünen Blätterkranz gekennzeichnet (vgl. Ripa, s. v. speranza).
+
+B ABSCHIED VOM HEERDIENST (Vita 4, loc. cit., S. 23–25) Der römische Kaiser, der ein Heer gegen die in Gallien eingefallenen Barbaren (Alemannen) zusammenzog, rief seine Soldaten zum Donativum. Dabei erbittet Martin seinen Abschied. Der Kaiser wirft ihm Feigheit vor; darauf erklärt Martin, am folgenden Tag sich »ohne<br>Waffen vor die Schlachtreihe zu stellen und im Namen des
+
+Herrn Jesus mit dem Zeichen des Kreuzes, ohne Schild und Helm furchtlos die feindlichen Reihen zu durchbrechen«. Am folgenden Morgen ergibt sich das feindliche Heer.
+
+Im Bild wird die historische Szene, die Unterredung zwischen Martin und dem Kaiser, durch Gesten und Requisiten genau wiedergegeben. Die Männer mit den Schlüsseln links stellen die feindlichen Unterhändler dar, die bei Sulpicius Severus genannt sind, und die die »Stadi der Vangionen« (Worms) übergeben. Im Hintergrund sieht man den Abzug des feindlichen Heeres. Die kampflose Beendigung der Feindseligkeiten wurde als ein von Gott bewirkter wunderbarer Sieg Martins angesehen.
+
+C ÜBERFALL AUF MARTIN (Vita 5, loc. cit., S. 26) Nach seinem Abschied vom Heeresdienst war Martin nach Tours zu Bischof Hilarius gegangen und zum Exorzisten geweiht worden. Im Traum dazu ermahnt, macht er sich dann auf die Reise in seine Heimat Pannonien (Ungarn), um seine heidnischen Eltern zu bekehren. Unterwegs wird er von Räubern überfallen, gefesselt und mit dem Tod bedroht. Martin spricht zu den Räubern von Christus, sie lassen von ihm ab und »einer aus ihnen sich auch bekehrte und Buß zu thun ins Closter gienge, frey bekennend, was ihm mit dem H. Martino begegnet« (Ribadeneira-Hornig, loc. cit., S. 715).
+
+Martin hält den Räubern einen Rosenkranz entgegen; das Rosenkranz-Motiv kehrt in den Fresken immer wieder (vgl. A, D) und weist auf die 1669 errichtete Rosenkranz-Bruderschaft in Garmisch hin. In dem Mann rechts, der mit einem Rosenkranz in Händen auf das Bergkloster zugeht, kann man den bei Ribadeneira erwähnten bekehrten Räuber sehen. Das Kloster soll wohl das ungarische Martinsberg bei Szent Marton, das auch als Martins Geburtsort Sabaria gilt, darstellen.
+
+D ST. MARTIN ALS PATRON UND WUNDER-TATER Der Heilige erscheint hier an ausgezeichneter Stelle vor dem Chorbogen als Patron nicht nur der Garmischer Gemeinde, sondern der notleidenden Menschheit. »Die Menge der Wunderwerck, so er in disen und anderen Fällen an jedem, der ihn in Nöthen angesprochen,<br>zu Leibs und Seelen-Heyl gewürcket, lassen sich in unsere vorgenommene Kürtze nit einschräncken: . . . Uns ist zu seinem Ruhm genug, ihn solchen Wundermann zu nennen. dessen Befehl Gott gleichsam alle Geschöpff unterworfen: nach dessen Willen Himmel, Erd und alle Elementen. Kranckheiten und der Tod, . . . alle zahm- und wilde Thier wandlen müssen: auf dessen Gebett-Anruffung... Gott<br>unzählige Wunderwerck gewürcket, seinen wehrtesten Diener bey aller Welt in Hochachtung zu setzen« (Ribadeneira-Hornig, loc. cit., S. 773).
+
+Die Kranken sind in Anlehnung an die Heilungen Jesu (Lc 7, 22) als Blinde, Lahme, Aussätzige und Taube charakterisiert. Ein totes Kind ist vor die Füße des Heiligen gelegt. Hinzu kommt ein Besessener. Alle diese Personen lassen sich in generellem Sinn auf entsprechende Heilungsberichte der Vita beziehen.
+
+Martin, dem auch die Tiere gehorchten (Sulpicius Severus, dritter Brief, loc. cit., S. 65 f.) und der eine besessene Kuh geheilt hat (LA-Benz, S. 937), wird auch als Patron der Haustiere angerufen; diese sind im Bild als Pferd, Kuh und Esel vertreten.
+
+Auf die exorzistische Macht des Heiligen, auf die Überwindung der Dämonen in besessenen Menschen, in heidnischen Götterbildern und Tempeln nimmt das Bild bezug in der Wiedergabe eines von der Säule stürzenden Götzenbildes (im Hintergrund, links vom Heiligen) und des die Treppe herabrollenden goldenen Tempelgeschirrs (rechts vorne).
+
+Die Macht über den Tod wird durch zwei Figuren veranschaulicht, die getrennt von den Hilfesuchenden ganz im Vordergrund zu sehen sind; sie sind im Typus der auferstehenden Toten des Jüngsten Gerichts wiedergegeben, als Leichnam und Totengerippe, die, von einem Leichentuch bedeckt, aus der Tiefe emporsteigen.
+
+Bei den Engeln an den Wolkenrändern finden sich Genien mit Schmetterlingsflügeln: links ein Genius, der Wasser aus einem Kübel schüttet, und rechts fünf blasende Windköpfchen. Die Vita berichtet davon, daß die jährlich auf den Ländereien des Präfekten Patricius Schäden anrichtenden Unwetter auf das Gebet des Heiligen hin ausblieben und daß ein heftiger Sturm dem Heiligen half, einen gewaltigen heidnischen Tempelbau zu zerstören; auch daß sich ein Sturm auf dem Meer beim Anruf Gottes im Namen des 
+
+[[File:Band02_chunk007_p023_img001.jpg|thumb|EW<sub>2</sub> Die gelöschte Feuersbrunst]]
+
+Heiligen legte (Sulpicius Severus, loc. cit., dritter Dialog, Kapitel 7, 8 und 14, S. 132–34 u. 141).
+
+Die Genien könnten auf diese Berichte anspielen; sie sollen wohl die Macht des Heiligen über die Naturgewalten verdeutlichen. Die auffällige Anordnung von Figuren und Gegenständen an vier Eckpunkten des Bildes, außerhalb der Patroziniumszene, läßt vermuten, daß hier außerdem noch die Vier Elemente gemeint sind: die Himmelsgenien für Luft und Wasser, die Auferstehenden für Erde und das feuergeschmiedete Goldgeschirr für Feuer.
+
+E VORAUSSAGE DES TODES Während Sulpicius nur kurz erwähnt »Martinus wußte seinen Hingang schon lange vorher . . . « (dritter Brief, loc. cit., S. 65), begründet Ribadeneira dieses Vorauswissen: der Achtzigjährige »söhnete sich derohalben Tag und Nacht nach der Auflösung des Bands der Sterblichkeit und ewigen Ruhe in den Himmel; Gott erhörte auch sein Seuffzen und erfreuete ihn mit gewissen Zeichen, daß die Stund seines Hinscheidens begünne anzunahen, so er freudenvoll seinen Brüdern alsobald in klaren Worten geoffenbahret;« (Ribadeneira-Hornig, loc. cit., S. 774).
+
+Die himmlischen Zeichen sind in Günthers bildlicher Darstellung konkretisiert durch Symbole für Tod und Gericht, irdischen Ruhm und Ewiges Leben: Günther malt einen Totenkopf, Chronos mit dem Stundenglas und eine
+<!-- citation-page-bottom: Band02 p345 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=24 -->
+<!-- citation-page-top: Band02 p346 -->
+
+<!-- header: GARMISCH -->
+
+<!-- header: GARMISC -->
+
+Posaune, sowohl biblisches Symbol des (Jüngsten) Gerichts als auch Sinnbild für den Ruhm. Auch der Lorbeerkranz um den Schädel weist auf Ruhm sowie auf himmlischen Lohn hin.
+
+Die Begrüßungsszene links im Bild läßt sich von der Vita her nicht deuten. Ausgehend von der Darstellung der neuen Garmischer Pfarrkirche und den beiden lorbeerumwundenen Stabbündeln der Männer, die Sinnbild der Concordia sind (Ripa, s. v. concordia; vgl. auch Bergmüllers LHs-Fresko von 1736 in Diessen, CBD, Bd 1, S. 44) erschließt sich eine auf der Ortsgeschichte fußende Deutungsmöglichkeit: Die Männer in nicht näher gekennzeichneter Kleidung stellen die Bürger von Garmisch dar, die sich nach langem Streit um den Kirchenneubau die Hand zur Versöhnung reichen und im Zeichen der Eintracht wieder zusammenkommen. (Der Streit der Archer und Rainer gegen den Bauplatz auf dem Nikolausanger wird in den Garmischer Chroniken ausführlich behandelt; vgl. Prechtl, S. 161 f., Bogenrieder, S. 3–11). Die Verbindung der Darstellungen von der Versöhnung mit der Todesvorhersage Martins beruht auf dem Bericht des Sulpicius Severus von dem Besuch des hl. Martin in der Pfarrei Candes kurz vor seinem Tod: »Unter den Klerikern jener Kirche war nämlich ein Zwiespalt ausgebrochen. Martinus war von dem Wunsche beseelt, den Frieden wiederherzustellen . . . obwohl ihm das nahe Ende seiner Tage bekann war. Wenn er der Kirche den Frieden wiederschenke und hinterlasse, so könne er darin die Krönung seiner Tugendverdienste sehen.« (dritter Brief, loc. cit., S. 65). Der Streit der Garmischer Bürger wird hier gleichgesetzt mit dem Streit in der Pfarrei Candes und der hl. Martin als Friedensstifter gefeiert.
+
+F TOD UND GLORIE DES HL. MARTIN Nach dem Bericht des Sulpicius Severus lag Martin auf Asche mit einem Bußgewand, den Blick während des ganzen Todeskampfes zum Himmel gerichtet. Er vertrieb die Teufelserscheinung an seinem Totenbett (dritter Brief, loc. cit., S. 67–68).
+
+
+[[File:Band02_chunk007_p024_img001.jpg|thumb|Tod Martins, Ausschnitt aus F über dem Hochaltar]]
+
+
+Der Heilige ist mit lichtstrahlendem Haupt und Oberkörper dargestellt: »Nachdem die H. Seel entwichen, verblibe der Leichnamb also wohlgestaltet, das Angesicht schör und glantzend, alle Gliedmassen, die bevor auß strengster Abtödtung gäntzlich ausgemergelt, ... weiß, Frisch und weich, als wäre er würcklich in die Unsterblichkeit übersetzet; man hörte auch in der Lufft ein Englisches Gesang,« (Ribadeneira-Hornig, loc. cit., S. 775). In die Todesszene einbezogen ist die Darstellung der Verehrung des Grabes: Der Tote ist in einem weiten Raum auf einem Sarkophag gebettet, dem sich hilfesuchende Menschen betend nähern; der Vorderste hält einen Flößerstab (Zapin).
+
+In der Glorie ist Martin im goldglänzenden Bischofspluviale wiedergegeben. Die Darstellung Michaels über dem Sterbelager und gegenüber dem zu Gott gelangten Heiligen erklärt sich aus dem Amt Michaels als Seelengeleiter. Er ist hier auch als Überwinder des Teufels, der Martin noch im Tode bedrängt hatte, zu sehen.
+
+Die Nischenfiguren und die Putti in den Pendentif-Bildern F<sub>1-2</sub> stellen Tugenden des Heiligen dar. FIDVCIA IN DEVM (links), das Gottvertrauen, ist wie Spes mit einem Anker dargestellt. Dazu kommt eine Flamme auf der Brust, Zeichen der Liebe und Ergebenheit. MISERICORDIA (rechts), die Barmherzigkeit, trägt ein Kind auf dem Arm und reicht mit der Rechten eine Schale dar (Ripa, s. v. beatitudine sesta, misericordia, S. 39). Günther stellt die Misericordia außerdem mit Flügeln dar, Sinnbild für Schnelligkeit und Allgegenwärtigkeit.
+
+F<sub>1-2</sub> Das Lamm (F<sub>1</sub>) bezeichnet die Reinheit des asketischen Mönchslebens, ebenso wie die Lilie (F<sub>2</sub>); außerdem ist das Lamm Sinnbild der Sanftmut.
+
+EW<sub>1-2</sub> Die beiden Wandbilder Zwincks, die erst 1776 entstanden sind, ergänzen den Martin-Zyklus. Die Chronogramminschriften geben die Szenen an.
+
+EW1 MARTIN STÜRZT DIE GÖTZENBILDER IN VIRTVTE CRVCIS MARTINVS STERNIT IDOLA. Das Bild stellt eine Begebenheit während der Missionsreisen des hl. Martin zu den Dörfern auf dem Land dar. In Leprosum wurde Martin von den heidnischen Einwohnern mißhandelt und vertrieben, als er ihren prächtig ausgestatteten Tempel zerstören wollte. Da erschienen dem Heiligen »zwei Engel mit Schild und Lanze bewehrt wie himmlische Krieger. Sie sprachen, der Herr habe sie gesandt, die Rotte der Heiden zu verjagen und Martinus zu beschützen« (Vita 14, loc. cit., S. 37). Martin kehrte, von den Engeln beschützt, ins Dorf zurück und zerstörte Götzenbilder und Tempel.
+
+EW2 DIE GELÖSCHTE FEUERSBRUNST MARTINI NVTV VIGILANTE INCENDIA PARCVN[tur]. Auch diese Szene schildert ein wunderbares Ereignis auf einer Missionsreise. Bei der Zerstörung eines Götzentempels griff das Feuer auf ein anliegendes Wohnhaus über. Martin stieg auf das brennende Dach und beschwichtigte die Flammen (Vita 14, loc. cit., S. 37). Im Bild ist er vor zwei Häusern stehend dargestellt. Die mächtigen Bauwerke im Hintergrund stellen wohl die heidnischen Tempel dar
+
+
+[[File:Band02_chunk007_p024_img002.jpg|thumb|<b>F</b>2]]
+
+
+
+== Literatur ==
+
+
+Prechtl, Johann Baptist, Chronik der ehemals bischöflichen freisingischen Grafschaft Werdenfels in Oberbayern mit ihren drei Untergerichten und Pfarreien: Garmisch, Partenkirchen und Mittenwald, Augsburg 1850, S. 151–69. Mayer-Westermayer, Bd 3, S. 577–83
+
+KDB I OB (1), S. 628 f.
+
+Simon, Ludwig und Richard Vollmann, Das Werdenfelser Land, in: Münchner Wanderbücher, Heft 5, München 1923, S. 23 f.
+
+Gundersheimer, Hermann, Matthäus Günther, Augsburg 1930, S. 15 f.
+
+Kriner-Fischer, Eva, Garmisch-Partenkirchen einst und jetzt, Garmisch 1930, S. 85 f.
+
+
+[[File:Band02_chunk007_p024_img003.jpg|thumb]]
+
+
+Mencke, Hermann und Hugo Schnell, Pfarrkirche St. Martin/Garmisch (= KKF, Nr. 20), München 1934, München <sup>3</sup>1964.
+
+Bogenrieder, Franz Xaver, Die Baugeschichte der neuen Pfarrkirche zu Garmisch (= Wissenschaftliche Veröffentlichungen des Heimatpflegers von Oberbayern, Reihe A, Heft 7a), Schongau 1955.
+
+Hofmann, Sigfrid, Kirchen der ehemaligen Grafschaft Werdenfels (= Wissenschaftliche Veröffentlichungen des Heimatpflegers von Oberbayern, Reihe A, Heft 7), Schongau 1955, S. 10–16.
+
+Dehio-Gall OB, S. 202–03
+
+Reclam Kunstführer, Bd 1, Bayern, Stuttgart <sup>7</sup>1970, S. 337–38.
+<!-- citation-page-bottom: Band02 p347 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=25 -->
+{{End}}

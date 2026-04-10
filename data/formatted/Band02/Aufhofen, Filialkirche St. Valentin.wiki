@@ -1,0 +1,104 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=19
+|Originalseitenbis=20
+|Lemma=Aufhofen, Filialkirche St. Valentin
+|Typ=Sakral
+|Ort=Aufhofen
+|davor=
+|danach=Bad Heilbrunn, Pfarrkirche St. Kilian
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Filialkirche, Gemeinde Egling, Pfarrei Thanning, Erzdiözese München und Freising; z. Z. der Ausmalung Hofmark Aufhofen
+
+'''Patrozinium:''' St. Valentin
+
+'''Zum Bauwerk:''' Weihe 1408, 1558 renoviert. Neuausstattung 1770
+
+Kleiner Saalbau zu zwei Fensterachsen; eingezogener AR mit dreiseitigem Schluß; im W Empore; Beleuchtung von N und S im LHs und AR
+
+'''Auftraggeber:''' Wappen am Chorbogen mit der Inschrift I.C.D.A.M.D.S.E.B.C.A.M.C. Inhaber der Hofmark Aufhofen war z. Z. der Ausmalung Johann Clas, kurfürstlicher Leibmedicus und Rat (BayHStA I, Altbayrische Landschaft Nr. 132, S. 176; frdl. Mitt. Adolf Sandberger). Die Buchstaben müssen demnach gelesen werden: Johannes Clas De Aufhofen Medicinae Doctor Serenissimi Electoris Bavariae Consiliarius. Anna Maria Clasin.
+
+'''Autor und Entstehungszeit:''' Die Entstehungszeit nennt eine Inschrift am Chorbogen Ao. Do. 1770. Der Maler ist unbekannt; stilistische Ähnlichkeiten in dem in Frage kommenden örtlichen und zeitlichen Bereich zeigen die Deckenbilder in Frauenried (1763, S. 497–502), die spätesten bekannten des Tölzer Malers Julian Breymeyer (* 1716 † 1795, weitere Daten s. Reichersbeuern, S. 219). Sie weisen Übereinstimmungen mit den Aufhofener Fresken im Bildaufbau auf: Die terrestrische Szenerie wird in silhouettierten Tiefenplänen konstruiert, die Himmelsszenerie besteht aus quergelagerten Wolkenbänken vor kreisrunder Glorie. Durch starkes Abdunkeln entstehen Repoussoireffekte. Ähnlichkeiten zeigen sich auch in den Details wie der Faltenbildung, der stereotypen Gestik und in Einzelfiguren und Motiven. In der Farbigkeit ist der Einsatz von Rot über Lila bis Blau vor einem dominierenden Gelbtoner vergleichbar. Dabei muß allerdings berücksichtigt werden, daß die Fresken von Aufhofen durch Übermalung und Wiederaufdeckung nicht mehr den originalen Zustand zeigen; sie erlauben keine sichere Zuschreibung.
+
+
+[[File:Band02_chunk001_p010_img001.jpg|thumb|A Patron St. Valentin Hofmarkswappen]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, A1-4) flache, gedrückte Korbbogentonne mit Stichkappen, AR (B) Stichkappentonne
+
+Rahmen: A gemalter profilierter Vierpaß, von Rocaillen überspielt, B gemalter Rocailleornament-Rahmen, A1-4 gemalte Rocailleornament-Kartuschen
+
+Technik: Fresko; A und B polychrom, A1-4 monochrom ocker
+
+
+[[File:Band02_chunk001_p010_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p19 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=11 -->
+<!-- citation-page-top: Band02 p20 -->
+
+<!-- header: AUFHOFEN -->
+
+Maße: A Höhe 4,20 m; 2,80 × 1,70 B Höhe 4,90 m; Ø 1,30
+
+Erhaltungszustand und Restaurierungen: Die Übermalung von 1848 wurde bei der Restaurierung 1961/62 entfernt. Bei der Ausbesserung und Ergänzung wurden die Fresken wohl erheblich verändert
+
+
+== Beschreibung und Ikonographie ==
+
+
+A PATRON ST. VALENTIN Hochoval gestrecktes, vierpaßförmiges Bildfeld mit einansichtiger Darstellung; der Aufnahmestandpunkt liegt unterhalb der Bildmitte. Der hl. Valentin im Bischofshabit thront auf Wolken vor einer hellen, kreisrunden Glorie, die sein Haupt umgibt. Darunter haben sich auf einer Wiese Bittflehende versammelt: eine Frau mit einem Kranken, eine Mutter mit Kind und ein Krüppel. Ein Pferd und eine Kuh sind am rechten Bildrand zu sehen. Der abgedunkelte Vordergrundsstreifen mit einem in starker perspektivischer Verkürzung gegebenen Stein führt als Repoussoir in das Bild ein und rückt die Darstellungen im Mittelgrund in räumliche Tiefe. Ein Baum, der links am Bildrand hochragt, und die Rückenfigur eines Pilgers gehören optisch auch zu dieser Vordergrundszone. Die wenig differenzierte Farbgebung bringt bei Figuren und Tieren vorwiegend Brauntöne mit Beimischungen von Gelb, Rot und Grün, Boden und Himmelszone dagegen sind aufgehellt in Grün-Ocker bzw. Lila-Ocker.
+
+Das Patrozinium der Kirche wird am 14. 2. gefeiert. Patron ist daher der hl. Martyrer Valentin, Bischof von Terni, dessen Lebensdaten Legende sind und dessen Grab an der Via Flaminia bei Terni seit dem 8. Jh. verehrt wurde, oder der hl. Valentin von Rom, der im Jahr 269 unter Claudius Gothicus das Martyrium erlitt und ebenfalls an der Via Flaminia bei Rom begraben wurde. Diese beiden Heiligen, beide mehr oder weniger legendär, wurden häufig miteinander identifiziert und in Personalunion verehrt. Sie teilen auch das Fest. Nach der Legende wurde Valentin von Terni mit Knüppeln erschlagen, während Valentin von Rom enthauptet wurde. Valentin von Terni ist Patron der Krüppel und Epileptiker; dieses Patronat geht auf das legendäre Ereignis aus seiner Vita zurück, nach der er den Sohn des Rhetors Creton, der als Krüppel geboren war, heilte.
+
+Szenen der Passio des Bischofs von Terni wurden später für die Vita des hl. Valentin, Bischof von Rätien, rezipiert, der im 5. Jh. lebte und in Kult und Darstellungen gelegentlich mit den beiden Martyrern gleichgesetzt wurde. Sein Fest wird am 7. 1. oder 4. 8. gefeiert (Bibliotheca Sanctorum, Bd 12, Sp. 890–99, LCI, Bd 8, Sp. 529 f.).
+
+Der hl. Valentin in Aufhofen trägt Züge des hl. Valentin von Rom (Schwert) und des Bischofs von Terni (Bischofstracht). Der Krüppel könnte auf sein Patronat hinweisen, kann aber auch zu dem geläufigen Repertoire der Bittflehenden zählen, mit dem der Patron als Helfer in den verschiedenen Anliegen dargestellt ist.
+
+A<sub>1-4</sub> EVANGELISTEN In gemalten Rocaillekartuschen sind die vier Evangelisten in Halbfigur mit Büchern und ihren Attributen dargestellt; Die Namensbeischriften sind in kleinen Kartuschfeldern darunter angebracht: A<sub>1</sub> S. MARCUS. A<sub>2</sub> S. JOANNES. A<sub>3</sub> S. LUCAS. A<sub>4</sub> S. MATHEUS
+
+
+[[File:Band02_chunk001_p011_img001.jpg|thumb|Konventswappen]]
+
+
+B DREIFALTIGKEITSSYMBOL Über dem Hochaltar ist das Auge Gottes im Dreieck in einem gelben Strahlenkranz vor rosafarbigem Hintergrund dargestellt.
+
+
+== Literatur ==
+
+
+Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.), München 1965, S. 208.
+
+
+[[File:Band02_chunk001_p011_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p011_img003.jpg|thumb]]
+
+
+
+[[File:Band02_chunk001_p011_img004.jpg|thumb|4 Matthäus]]
+
+
+
+[[File:Band02_chunk001_p011_img005.jpg|thumb]]
+
+
+
+== BAD HEILBRUNN ==
+
+
+{{End}}

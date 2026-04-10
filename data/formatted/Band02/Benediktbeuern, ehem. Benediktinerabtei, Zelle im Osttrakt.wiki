@@ -1,0 +1,49 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=73
+|Originalseitenbis=73
+|Lemma=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt
+|Typ=Sakral
+|Ort=Benediktbeuern
+|davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Kapitelsaal
+|danach=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+== Zelle im Osttrakt ==
+
+
+'''Zum Bauwerk:''' Der Osttrakt des Konventbaues wurde von Caspar Feichtmayr von 1669-71 errichtet. Die Zelle liegt im ersten Geschoß, dritter Raum von N, etwa über dem Kapitelsaal, und wird vom Westgang her betreten
+
+Rechteckiger Raum (3,80 × 4,00 m) mit einem Fenster auf der O-Seite (Übersichtsplan S. 38)
+
+'''Autor und Entstehungszeit:''' Das Deckenbild ist der Zimmermann-Werkstatt zuzuschreiben und in die Zeit um 1730 zu datieren, als Johann Baptist Zimmermann mit seinem Sohn Johann Joseph und seiner Werkstatt die gesamte Ausstattung des Süd- oder Gästetrakts durchführte (s. Neuer Festsaal S. 103 f.).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke über Hohlkehle. Rahmen: Stuckprofil
+
+Technik: Fresko; polychrom. Maße: Höhe 3,50 m; 1,65 × 1,25
+
+Erhaltungszustand und Restaurierungen: Das Fresko wurde 1975 durch Franz Xaver Marchner, München, freigelegt und restauriert. Dabei wurden die ergänzten Partien durch lasierende Tönung bewußt von der originalen Farbsubstanz unterschieden. Die Farbsubstanz ist weitgehend abgeschabt und ruinös.
+
+
+== Beschreibung ==
+
+
+HL. JOSEPH In Wolken sitzt der hl. Joseph mit seinen Attributen Lilie und Winkelmaß, den Blick emporgerichtet. Das blauviolette Gewand und der gelbe Mantel sind gegen einen grau-gelben Wolkengrund abgesetzt. Vier Stuckmedaillons in den Ecken der Decke sind gelb getüncht.
+
+[[File:Band02_chunk002_p012_img001.jpg|thumb|Hl. Joseph]]
+
+Literatur siehe S. 133
+
+
+{{End}}

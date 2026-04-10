@@ -1,0 +1,164 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=278
+|Originalseitenbis=283
+|Lemma=Eschenlohe, Pfarrkirche St. Clemens
+|Typ=Sakral
+|Ort=Eschenlohe
+|davor=Elmau, Kapelle
+|danach=Ettal, Benediktinerabtei, Kloster-, Pfarr- u. Wallfahrtskirche
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p278 -->
+
+<!-- header: ESCHENLOHI -->
+
+
+== ESCHENLOHE ==
+
+
+Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung der<br>Benediktinerabtei Ettal inkorporiert, Kloster-Ettalisches- Gericht Murnau
+
+
+'''Patrozinium:''' St. Clemens
+
+
+'''Zum Bauwerk:''' Entwurf des Neubaues durch Johann Michael Fischer vor 1765, Ausführung und Vollendung des Chorbaues durch Franz Anton Kirchgrabner bis 1765; drei Inschriften im Ziegelwerk des Chorgewölbes sind darauf zu beziehen + FK + B, 17 + BI + S: Pff 65 und Kaltenhauser. bezeichnen den damaligen Pfarrer P. Ignaz Kaltenhauser, ungeklärte Initialen mit dem Datum 1765 und wohl »Franz Kirchgrabner Baumeister« (Lieb, S. 186 ff.). 1768 Unterbrechung des Baues, 1773 Benedizierung, Weihe am 22. 7. 1782.
+
+Zentralbau in der Form eines Quadrats mit abgeschrägten Ecken, Pilaster- und Nischengliederung; flaches Joch im S
+
+B Quellwunder des hl. Clemens
+
+Glorie des hl. Clemens - Die sieben Notare des Clemens - Frühchristliche Martyrien
+
+mit Empore, gleichmäßig beleuchtet; nach N gerichteter, eingezogener quadratischer AR mit halbrundem Schluß durch vier Fenster beleuchtet
+
+'''Auftraggeber:''' Abt Bernhard II. von Ettal Graf von Eschenbach (1761–1779) und Pfarrer P. Ignaz Kalten hauser
+
+'''Autor und Entstehungszeit:''' Signatur im Kuppelfresko auf dem Fuß des Obelisken J. Paur / pinxit / 1776. (Ignaz Paur * 1723 Großhausen/OB † nach 1780).
+
+Fresko B und die Dekorationsmalerei im Chor sind nicht signiert und datiert; Meidinger (S. 335) überliefert als Autor Johann Jakob Zeiller (* 1708 Reutte in Tirol † 1783 Reutte), was Lieb bestätigt hat (S. 186 ff.). Da keine Bauakten erhalten sind, Datierung des Chorfreskos nach stilistischem Befund, ausgehend vom Bauabschluß des Chorkuppelraumes 1765.
+
+Kompositionsschema und Quadratura-Malerei erinnern an das Haupt- und Chorfresko von Bichl (S. 144-46), bei der imitierten Stuckmalerei sah Matsche Augsburger Einfluß, besonders des Johann Michael Feichtmayr; er datiert in die sechziger Jahre (Matsche, S. 401 ff.). Bemerkenswert ist die illusionistische Fortführung des Hochaltars durch die Gewölbemalerei (a), (selbst wenn die Altar-Tafel 1774 datiert ist). (Vgl. zur stilistischen Einordnung in Zeillers Œuvre, Matsche, S. 396, besonders 400 ff.) Man kann annehmen, daß die Ausstattung des AR unmittelbar nach dessen Bauabschluß 1765 erfolgte.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A) Flachkuppel, AR (B) Hängekuppel, a Halbkuppel mit Stichkappen
+
+Rahmen: A imitiertes Stuckprofil, von Muschelappliquen besetzt; B imitiertes Stuckprofil, überspielt von Rocaillen, im N Putti
+
+Technik: Fresko; A, B polychrom, a monochrom weiß auf hellgrünem Grund
+
+Maße: A Höhe 17,30 m; Ø 12,90
+
+B Höhe 14,30 m; Ø 5,80
+
+Erhaltungszustand und Restaurierungen: Letzte Gesamtre- staurierung 1906; in A wurde 1962 wegen Pilzschäden das Zentrum der Kuppel ausgebessert, davon sichtbar die Begrenzung der gelblicheren Mittelzone gegenüber dem übrigen Himmelblau, gekittete Risse, sonst guter Zustand. Fresko B zeigt Ränder (»Tagwerk«-Grenzen?) um die ins Bildfeld ragende Rocailledekoration, die erneuert wurde. Der Zustand ist sehr gut.
+
+
+== Beschreibung ==
+
+
+A GLORIE DES HL. CLEMENS – DIE SIEBEN NOTARE DES CLEMENS – FRÜHCHRISTLICHE MARTYRIEN Kreisrundes Fresko mit umlaufender terrestrischer Darstellung der Martyrien mit den Notaren als
+
+
+[[File:Band02_chunk006_p015_img001.jpg|thumb|A Glorie des hl. Clemens – Die sieben Notare des Clemens – frühchristliche Martyrien]]
+<!-- citation-page-bottom: Band02 p279 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=16 -->
+<!-- citation-page-top: Band02 p280 -->
+
+<!-- header: ESCHENLOHE -->
+
+Zeugen; in der Himmelsszenerie Verklärung des Heiligen mit Christus, Petrus und Paulus in der Hauptansicht gegen N. Betrachterstandort unter dem südlichen Bilddrittel. 
+
+Betrachterstandort unter dem südlichen Bilddrittel. Im Bild wird eine Verschmelzung von Zentralanlage und Achsenbetonung erreicht, wie sie durch die architektonische Raumfolge vorgegeben ist. Dazu trägt auch die leichte Verschiebung des Höhenfluchtpunktes aus dem Kuppelzentrum nach S und die von Großfiguren und dominierenden Gebäudeteilen fast freie S-Partie der Kuppel bei. Die Architekturversatzstücke wie Arkaden, Säulenbauten, Tore, Türme und Obelisk sind verkürzt und untersichtig gegeben und bieten durch beträchtliche Tiefenstaffelung einerseits Rampen und Nischen, also »Mansionen« für die figürlichen Szenen, andererseits, in stark aufgehellten Tönen, eine geschlossen umlaufende Hintergrundsschicht. Komposition wie Figurentypus weisen auf Matthäus Günther, mit dem Ignaz Paur 1761 in der Pfarrkirche von Oberammergau tätig war (vgl. S. 376). Die Figuren der Ringzone dagegen sind in wesentlich geringerer Untersicht, und bis auf die Szene im S, in der vordersten Bildebene dargestellt; ihre Verkleinerung in die Bildtiefe trägt kaum zu einer allgemeinen Höhenillusion bei, die jedoch in der pyramidal aufgebauten und leicht verkürzten Dreiecksgruppe von Christus, Petrus und Clemens im Zentrum versucht wird. Gesättigte Farbtöne, besonders Braun- und Rottöne mit Ocker und Grau herrschen in der terrestrischen Zone vor und wirken dunkler als das Bildzentrum und die Himmelspartie um die Gloriole über Christus (n. b. die ungünstig wirkende Ergänzung des Kuppelzentrums, s. unter Befund). Die Himmelsgruppe unterscheidet sich jedoch in ihrer Farbgebung kaum von Figuren der inferioren Zone, was ihrer illusionistischen Entrückung entgegenwirkt. Auch gibt es keine anschauliche Trennung beider Bereiche. 
+
+B QUELLWUNDER DES HL. CLEMENS Einansichtiges Rundbild, das in einen reich bewegten Rocaille-Dekor mit Muschelwerk eingesetzt ist, welches den gesamten Chorraum wie eine Art Quadratura-Malerei überzieht. Zwischen zwei gemalten Gurtbögen sind große Kartuscher als Pendentifs um das figürliche Bildfeld geordnet, Putti am Bildrahmen halten die Papstinsignien, Mitra und Kreuzstab. Zum Rocaille-Dekor gehört auch die illusionistische Malerei in der Altarnischenkalotte (a). 
+
+Dargestellt ist das Quellwunder im Steinbruch, in dem Clemens mit anderen Christen zu Zwangsarbeit verurteilt ist. Clemens kniet etwas erhöht über den Arbeitenden und schaut die Erscheinung – Arbeiter fangen das herabfließende Wasser in Krügen und Schalen auf. 
+
+Die Komposition mit differierenden Fluchtpunkten zeigt eine merkwürdige Inkongruenz – radiale Anordnung von Figuren (vgl. Bichl, S. 145) auf einem schmalen Erdstreifen um den nördlichen Bildrand in geringer Untersicht und Verkürzung und tafelbildmäßig gegebene Bergkulisse mit dem Lamm, die im oberen Bilddrittel unvereinbar aufeinanderstoßen; dies ist besonders deutlich an der W-Seite des Bildfeldes. Bei einem versierten Deckenmaler wie Zeiller kann das als Experiment mit zwei Betrachterstandorten erklärt werden: Von der Rückwand des Gemeinderaumes her sind nur die unteren zwei Drittel des Bildes sichtbar, und es ergibt sich die Illusion einer Erdmuldung, wo die Arbeiter des Steinbruchs tätig sind; die Partie hat auch die Funktion eines Binnenrahmens, über den ein Knabe sein Bein schwingt. Andere Arbeiter sind in die Vertiefung hinabgestiegen und nur halb zu sehen. Vom Betrachterstandort unter dem Chorbogen wird der Berg mit dem Quellwunder und dem Lamm in der Gloriole beherrschend; der Fluchtpunkt dieses Bildteils liegt über dem Lamm, dem sich der hl. Clemens zuwendet (Komposition in Anlehnung an die Darstellung Matthäus Günthers in Rottenbuch, CBD, Bd 1, S. 499). Vom Standpunkt unter dem Chorbogen gesehen, wirkt die umlaufende inferiore Zone als Relikt einer illusionistischen Kuppeldarstellung mit zentraler Himmelsszenerie, die aber aus dem Zentrum verschoben ist. Die Entrückung des Lammes wird durch Lichtfarben und starke Aufhellung der Töne erreicht, aber die bis zu den Bildrändern durchgezogene Horizontale der Berge bewirkt eher die Vorstellung von Bildtiefe als die einer Höhenillusion. 
+
+a DEKORATIONSMALEREI ÜBER DEM HOCHALTAR Entsprechend der illusionistischen Stukkatur um B und im ganzen Chorraum ist über dem Hochaltar eine kleine Kuppel gemalt, in die man unter dem Chorbogen stehend schräg hineinblickt. Unter ihrem Scheitel schwebt in einem tempiettoförmigen Rocaille-Gebilde ein großer Engel mit Kronreif auf den Altar herab; er ist eigentlicher Abschluß des Altaraufbaues und der Darstellung des Altarblattes mit der Glorifikation des hl. Clemens, dem die Martyrerkrone gebracht wird. Der Engel ist durch zartviolette Verschattung wie eine Stuckfigur den plastischen Stuckputti der Altarbekrönung angeglichen. 
+
+== <b>Ikonographie</b> == 
+
+A GLORIE DES HL. CLEMENS – DIE SIEBEN NOTARE DES CLEMENS – FRÜHCHRISTLICHE MARTYRIEN Im Kuppelfresko Paurs ist das Grundthema, die Glorie des hl. Clemens, in einen übergeordneten historischen und theologischen Zusammenhang gebracht. Die Glorie – Christus empfängt den Heiligen im Himmel – ist historisch auf Clemens bezogen: die Apostel Petrus und Paulus als seine Lehrer und die Päpste Linus und Cletus sind als seine unmittelbaren Vorgänger für die Darstellung ausgewählt. Es fällt auf, daß dabei auf die Wiedergabe der Hl. Dreifaltigkeit und der Mutter Gottes verzichtet ist, die zum traditionellen Glorienbild gehören. In die Gloriendarstellung ist vielmehr die Szene der Schlüsselübergabe an Petrus (Traditio clavorum) einbezogen und dabei in theologisch-ekklesiologischer Auslegung der Bibelstelle Mt 16 19 auf Papst Clemens wie auf Petrus bezogen; es ist die Legitimation des Primats des Bischofs von Rom, der Hierarchie der katholischen Kirche. 
+
+Die Schlüssel des Himmels, Symbol der von Christus verliehenen Löse- und Bindegewalt, sind zentrales Bildmotiv: Die Bildhandlung ist auf die Gesten der drei Hauptfiguren reduziert. Die Figuralkomposition, ein Dreieck, dessen 
+
+[[File:Band02_chunk006_p016_img001.jpg|thumb|B Quellwunder des hl. Clemens]] 
+
+280
+<!-- citation-page-bottom: Band02 p281 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=17 -->
+<!-- citation-page-top: Band02 p282 -->
+
+<!-- header: ESCHENLOHE -->
+
+<!-- header: ESCHENLOHI -->
+
+
+[[File:Band02_chunk006_p017_img001.jpg|thumb|a Dekorationsmalerei über dem Hochaltar]]
+
+
+obere Spitze Christus, dessen Basis Petrus – zur Rechten Christi – und Clemens mit Paulus einnehmen, verdeutlicht die hierarchische Rangordnung.
+
+Christus ist als Salvator mit Wundmalen, Purpurmantel und Kreuz dargestellt; Petrus wird durch Typus und Gewand (in Violett und Gelb) und das umgekehrte Kreuz bezeichnet. Die Papstinsignien in Händen eines Puttos beziehen sich auf Petrus wie auch auf Linus und Cletus im Ornat. Die Attribute des Papstes Clemens, Insignien auf einem Zeremonialkissen und der Anker seines Martyriums (Versenken im Meer), sind kompositionell besonders hervorgehoben. Der Fels, der in die Himmelswolken hineinragt, ist sicher symbolisch als Hinweis auf Petrus zu verstehen (Mt 16, 18), außerdem kann er als Anspielung auf den Taurischen Chersones, Ort der Verbannung und des Martyriums des Clemens, verstanden werden.
+
+Clemens ist zwischen seine beiden Lehrer Petrus und Paulus gestellt. Paulus, bezeichnet durch Typus und Gewand (in Grün und Rot) und das Schwert, ist dabei deutlich von der Mittelgruppe abgesetzt. Er reicht seinem Boten Epaphroditus (mit Wanderstab) das Sendschreiben an die Philipper (vgl. Phil 2, 25–30), darauf sind die Worte zu lesen ADJUVA / ILLAS CUM / CLEMENTE (= Phil 4, 3). Der von Paulus genannte Clemens ist in patristischen Schriften mit dem Papst identifiziert (vgl. die Lectio im Meßformular zum Gedächtnistag am 23. 11.: Phil 3, 17-21 u. 4, 1-3). Den legendär ausgeschmückten Vita-Berichten (vgl. Ribadeneira-Hornig, Bd 2, 23. 11., S. 852-56) folgend, wurde der vornehme Römer Clemens ein »Gehilf« des Paulus »im Predigen und Bekehren der Heyden« (loc. cit., S. 852, hier auch Phil 4, 3 zitiert). Als Petrus nach Rom kam, wurde Clemens sein Begleiter, und Petrus bestimmte ihn selbst zu seinem Nachfolger. In einer Rede an die versammelten Christen wiederholte Petrus dabei die Worte Jesu ». . . Deshalb übertrage ich ihm die Macht, zu binden und zu lösen, auf daß alles was er auf Erden anordnet, im Himmel beschlossen sei . . . « (Pseudo-Clementinen, Epitome 2, Hennecke-Schneemelcher, Bd 2, <sup>2</sup>1964, S. 389). Aus Bescheidenheit hatte Clemens nach dem Martertod Petri dem Linus (etwa 67-78) und Cletus (etwa 92–101) den Vortritt gelassen und erst danach das 
+
+höchste Kirchenamt angenommen. Als Papst bestimmte er sieben Notare für die Bezirke Roms, welche als Zeugen die sich ereignenden Martyrien der verfolgten Christen aufzuzeichnen hatten (Ribadeneira-Hornig, loc. cit., S. 853). Die Chronisten legitimieren die Passio-Berichte, die ACTA MARTYRUM, wie in zwei Spruchbändern über den Mar- 
+
+Die Chronisten legitimieren die Passio-Berichte, die ACTA MARTYRUM, wie in zwei Spruchbändern über den Martszenen zu lesen ist. Die historisierenden Formen der Bildarchitektur bezeichnen einen antiken Schauplatz, vermutlich Rom. Die Zuschauertribüne der Arena, ein palastartiger Bau mit umlaufendem Altan über Arkaden, so vielleicht die Exedra über dem Circus Maximus darsteller; charakteristische römische Bauwerke fehlen. Es sind für verschiedene typische Arten von Foltern und Hinrichtungen geschildert (im S, links von der Halle beginnend): Vor einem Triumphbogen liegt im Hintergrund ein gefesselter Martyrer auf einer Steinplatte, er wird mit eisenbespickten Keulen auf den nackten Oberkörper geschlagen; davor zwei Zuschauer, die im Typus den Notaren gleichen. Gegenüber wird im Vordergrund der an einen Pfahl gefesselte Martyrer mit glühenden Zangen gefoltert; als szenischer Abschluß ein Soldat mit Hellebarde an einen Obelisken gelehnt. An der N-Seite, gegenüber der Halle mit den Notaren, ist eine Arena dargestellt. Wilde Tiere werden auf Christen gehetzt; rechts sind ein Löwe und ein Jaguar(?), links der Kopf eines Rindes zu erkennen. Die Tribüne im Hintergrund ist von Zuschauern bevölkert. In einer Ehrenloge rechts der Kaiser (mit Befehlsstab) und sein Gefolge, im Vordergrund ein Soldat mit Faszes.
+
+Es folgen zwei Szenen vor der Mauer der Stadt: Bei einem unterirdischen Gewölbe (Katakombe?) ist ein Martyrer an Holzbalken gefesselt und wird mit Geißeln geschlagen. Daneben zeigt ein Henker einer vornehm gekleideten Frau das Haupt eines am Boden liegenden Enthaupteten. Ein Priester hält ihr ein Götzenbild entgegen, während der zweite Henker bereits zum tödlichen Schwerthieb ausholt. Soldaten mit Hellebarde und Lanze flankieren die Szenen. Es fällt auf, daß die einzelnen Martyrer nicht durch spezielle Attribute als bestimmte Personen bezeichnet sind. Auch anhand der wiedergegebenen Martern, die sich in den Passio-Berichten gleicherweise für verschiedene Martyrer belegen lassen, ist eine eindeutige Identifizierung nicht möglich. Es handelt sich wohl um allgemein gültige Beispiele, welche die römischen Christenverfolgungen, deren Zeugen und Berichterstatter die sieben Notare waren, illustrieren sollen.
+
+Die ungewöhnliche, komplexe Ikonologie erinnert dabei an die Fresko-Programme in den nahen Kirchen von Mittenwald (S. 358-70) und Oberammergau (S. 375-93), die von Paurs Lehrer M. Günther gemalt und wohl auch konzipiert worden sind.
+
+B QUELLWUNDER DES HL. CLEMENS Im jüngeren AR-Fresko ist eine auch in der Deckenmalerei geläufige Szene dargestellt (vgl. CBD, Bd 1, S. 498–9; M. Günther, Fresko S3 von 1744 in Rottenbuch). Papst Clemens wurde unter Kaiser Trajan auf den Taurischen Chersones (= Krim) verbannt. Er verrichtete zusammen mit anderen gefangenen Christen Zwangsarbeit in den Steinbrüchen.
+
+Auf das Gebet des Heiligen hin wurde der Wassermangel behoben: Das Lamm Gottes erschien Clemens und zeigte ihm eine Wasserquelle an. Im Bild entspringt die Quelle unter dem Huf des Lammes mit Siegesfahne und Gloriensonne. Das Quellwunder und die Missionspredigten des Clemens bekehrten viele Heiden zum Christentum, was zur Verurteilung des Papstes führte. Er wurde von einem Schiff aus mit einem Anker - Attribut des Heiligen in der Gloriendarstellung A – ins Meer versenkt (Ribadeneira- Hornig, loc. cit., S. 854–55). Das Lamm der Wunderszene alludiert das Apokalyptische Lamm auf dem Berg (Apoc 14, 1), die sich teilende Wasserquelle die Paradiesesflüsse (Gen 2, 10–14). In ikonologischem Bezug zum Altar ist der eucharistische Christus als »Fons vitae« (Ps 35, 10) dargestellt
+
+
+== Literatur ==
+
+
+Meidinger, Franz Sebastian, Historische Beschreibung der kurfürstlichen Haupt- und Regierungs-Städte . . . Landshut 1787, S. 335.
+
+Melchinger, J. W., Geographisches Statistisch-Topographisches Lexikon von Bayern, Ulm 1796, S. 578.
+
+Braun-Augsburg, Bd 1, 1823, S. 341
+
+KDB I OB (1), S. 619
+
+Hopp, Jakob, Pfründe-Statistik der Diözese Augsburg, Bd 2. Augsburg 1893, S. 302.
+
+Welisch, Ernst, Beiträge zur Geschichte der Augsburger Maler im 18. Jh., Augsburg 1901, S. 71.
+
+Thieme-Becker, Bd 36 (1932), S. 317
+
+Lieb, Norbert, Münchener Barockbaumeister, München 1941, S. 186 ff.
+
+Lutterotti, Otto, Die Barockmaler-Familie Zeiller aus Reutte, in: Außerferner Buch, Schlern-Schriften 111, Innsbruck 1955, S. 31.
+
+Fischer, Pius, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, München 1964, S. 44.
+
+Dehio-Gall OB, S. 205–06
+
+Matsche, Franz, Der Freskomaler Johann Jakob Zeiller Marburg 1970, S. 396 ff.
+<!-- citation-page-bottom: Band02 p283 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=18 -->
+{{End}}

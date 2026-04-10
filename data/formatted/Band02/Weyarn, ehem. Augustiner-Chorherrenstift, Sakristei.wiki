@@ -1,0 +1,75 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=624
+|Originalseitenbis=625
+|Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei
+|Typ=Sakral
+|Ort=Weyarn
+|davor=Weyarn, ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche
+|danach=Weyarn, ehem. Augustiner-Chorherrenstift, Sitzungssaal
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band02 p624 -->
+
+<!-- header: WEYARN -->
+
+<!-- header: WEYARN -->
+
+Sakristei der ehem. Stiftskirche
+
+'''Zum Bauwerk:''' Die Sakristei, nördlich an den AR der Stiftskirche anschließend, wurde gleichzeitig mit dieser erbaut (1687–93). Baumeister war Lorenzo Sciasca. Die Stuckierung stammt aus der Erbauungszeit.
+
+Saal zu drei Jochen mit Wandpfeilern im W. Drei Fenster nach O (Planskizze S. 613)
+
+'''Auftraggeber:''' Propst Praesidius Held von Weyarn (1697–1731), dessen Wappen und Initialen sich in B befinden P.P.Z.W. 1699. (= Praesidius Propst zu Weyarn)
+
+'''Autor und Entstehungszeit:''' Die Entstehungszeit im Jahr 1699 ist im Inschriftband mit den Initialen des Propstes angegeben. Der Autor ist unbekannt
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A-C Segmentbogentonne mit bis zu den Bildfeldern eingreifenden Stichkappen
+
+Rahmen: Stuckprofil (Kyma)
+
+Technik: Öl auf Putz; polychrom
+
+Maße: A Höhe 4,40 m; 1,80 × 1,40  
+B Höhe 4,40 m; 1,80 × 1,40  
+C Höhe 4,40 m; 1,80 × 1,40  
+
+Erhaltungszustand und Restaurierungen: Die Deckenbilder sind schlecht erhalten, haben gekittete Risse und Fehlstellen, Farbabblätterungen und Feuchtigkeitsschäden, Restaurierung bevorstehend
+
+
+[[File:Band02_chunk013_p013_img001.jpg|thumb|B Regelübergabe]]
+
+
+
+[[File:Band02_chunk013_p013_img002.jpg|thumb]]
+
+
+
+[[File:Band02_chunk013_p013_img003.jpg|thumb|C Kaselübergabe]]
+
+
+Beschreibung und Ikonographie
+
+A-C Sämtliche Bilder haben die Basis im N. Sie sind tafelbildmäßig angelegt, ohne Untersicht und Verkürzungen
+
+A MARTERSZENE Ein Heiliger in Chorherrentracht kniet im Zentrum des Bildes. Neben ihm ist eine Mitra zu sehen, Zeichen seiner Abts- oder Bischofswürde. Zwei Männer dringen mit Keulen auf ihn ein. Im Hintergrund ist ein Schiff mit Klerikern zu sehen und ein Heiliger, der, an einen Pfahl gebunden, den Feuertod erleidet.
+
+B REGELÜBERGABE Im Vordergrund einer weiten Landschaft kniet ein Chorherr. Über ihm erscheint, in Wolken thronend, die Gestalt des hl. Augustinus in bischöflichem Gewand, mit Mitra und Stab. Er überreicht dem Chorherrn ein offenes Buch mit der Inschrift REGVLA AVGVSTINI. Zu Füßen des Chorherrn ist ein Wappen zu sehen, das, gespalten, links das Weyarner Konventswap- pen und rechts das Wappen des Propstes Praesidius Held zeigt. Es ist nicht anzunehmen, daß der dargestellte Chorherr der 1699 regierende Praesidius Held ist. Die Regelübergabe ist eine Handlung, die meist mit der Gründungsgeschichte verbunden wird. Vielleicht handelt es sich hier um den ersten bekannten Propst von Weyarn Wilhelm (urkundlich erwähnt 1159, 1177), oder um Propst Heinrich II., der nach fast völliger Zerstörung des Klosters Kirche und Klostergebäude wieder aufbaute, die Inkorporierung der Pfarrei Neukirchen erlangte und als zweiter Gründer Weyarns gilt.
+
+C KASELÜBERGABE Ein heiliger Chorherr, der das erzbischöfliche Pallium trägt, kniet vor Maria, die vor ihm in Wolken erscheint und eine Kasel überreicht. Das Haupt Mariens ist von hellen Strahlen umgeben. Auf dem Haupt trägt sie die Krone der Patrona Bavariae. Zu Füßen des Heiligen ist eine Mitra zu sehen.
+
+Literatur siehe S 626
+
+{{End}}

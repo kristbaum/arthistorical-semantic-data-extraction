@@ -1,0 +1,164 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=465
+|Originalseitenbis=469
+|Lemma=Elbach, Pfarrkirche St. Andreas
+|Typ=Sakral
+|Ort=Elbach
+|davor=Birkenstein, Wallfahrtskirche Mariä Himmelfahrt 
+|danach=Fischbachau, Pfarrkirche St. Martin
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Pfarrkirche, Gemeinde Fischbachau, Erzdiözese München und Freising; z.Z. der Ausmalung hatte die Propstei Fischbachau, die zur Benediktinerabtei Scheyern gehörte, das Präsentationsrecht, Landgericht Aibling
+
+
+'''Patrozinium:''' St. Andreas
+
+
+'''Zum Bauwerk:''' Nach einem Brand von 1655 Wiederaufbau 1689 (die Jahreszahl 1689 findet sich am Scheitel des Chorbogens und über dem Eingang); Weihe 1697. Gleichzeitig mit der Errichtung des Turms fand unter Pfarrer Ferdinand Rieder (1701–36; Inschrift über dem Eingang zum Turm: »FERD. RIEDER PAROCHUS CASP. GLASL MA[URER]- MAISTER 1722«) eine Innenrenovierung statt.
+
+Fünfjochiger Saal mit Pilastergliederung, im W Doppelempore; eingezogener, zweijochiger AR mit dreiseitigem Schluß. Das LHs ist gleichmäßig von N und S beleuchtet, das erste AR-Joch mit den Fresken i und k hat keine Fenster.
+
+'''Autor und Entstehungszeit:''' Der Stuck der Kirche und damit das geometrisch organisierte Dekorationssystem der Gewölbe stammt aus der Erbauungszeit (ab 1689). Für die ornamentale und szenische Ausmalung ist jedoch die Datierung 1722 im Wandfresko W am Chorbogen (südlich, bei der Figur Barbaras) heranzuziehen: Stuckiertes und gemaltes Ornament unterscheiden sich auffällig. Von den in flachem Stuckrelief feingliedrig gebildeten und harmonisch zusammengefügten Akanthus-, Eier- und Blattstäben hebt sich das in grober, ungelenker Strichführung gemalte Bandwerk der Felderfüllungen ab. Stilistisch ist dieses Bandwerk in das Jahr 1722 zu datieren (vgl. dagegen R. Hofmann 1924, und den Restaurierungsbericht von 1929, Altheimatland, welche die gesamte Gewölbedekoration in die Bauzeit datieren).
+
+Die figürlichen Bilder sind derb gemalte Szenen von minderer Qualität, auf welche die Charakterisierung des Elbacher Pfarrers Anton Lechner von 1788 zutrifft: »daß die Gemälde in der Kirche, so in allerhand Sinnbildern
+
+bestehen, sehr schlecht seien, indem es die Arbeit eines nicht mahlen gelernten alten Maurers ist« (aus einem Akt über den Nachlaß des Dekans Daller, zitiert bei Brunhuber, S. 509). Lechner folgend kommt als Autor der Ausmalung der am Turmeingang namentlich bezeichnete Maurermeister Caspar Glasl in Frage. Stilistisch ähnlich sind die Fresken in Parsberg (s. S. 542–45).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A-D, B1, C1, D1, a-h, 1–8) und AR (i, k) Stichkappentonne
+
+Rahmen: Verschiedenfarbig getönte Ornamentstuckstäbe in Flachrelief
+
+Technik: Fresko (?); alle Deckenbilder und das Wandfresko sind polychrom
+
+Maße: A Höhe 11,00 m; 2,00 × 2,00
+
+B Höhe 11,00 m; 2,00 × 2,00
+
+C Höhe 11,00 m; 2,00 × 2,00
+
+D Höhe 11,00 m; 2,00 × 2,00
+
+Erhaltungszustand und Restaurierungen: Nach einem 1788 vorgelegten, vom bayerischen Kurfürsten nicht genehmigten Kostenvoranschlag des Malers Johann Pöheim für »das Gewölb Fresco malen, die Stuccadoren malen und gut vergolden, die Kirche ausweißen« wurde die Kirche 1792 weiß getüncht. Bei einer Tünchung in Gelb und Violett im Jahre 1855 wurden durch Dekorationsmaler Alois Stanger aus München Ornamente und 15 Monogramme an die Decke gemalt. 1929 wurde die originale Ausmalung durch die Maler J. Hilz sen. und jun. aus Aibling freigelegt und restauriert.
+
+Die Maloberfläche ist stark abgerieben; die Farben sind äußerst blaß, Übermalungen erkennbar.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die geometrisch-ornamentale Felderteilung gliedert die Stichkappentonnen im Sinne der Raumjoche. Kettenartig aneinandergereihte Quadrate und Kreise bezeichnen die Längsachse der Tonne. An die quadratischen Bildfelder (A–D) angefügte ovale Bildmedaillons (a–h) und Bildfelder (1–8) bilden die ikonographische Struktur.
+
+[[File:Band02_chunk010_p008_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p465 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk010.pdf#page=9 -->
+<!-- citation-page-top: Band02 p466 -->
+
+<!-- header: ELBACH -->
+
+<!-- header: ELBACH -->
+
+
+[[File:Band02_chunk010_p009_img001.jpg|thumb]]
+
+
+8 Hieronymus
+
+an den Gewölbezwickeln (1-8) markieren die Querteilung, ebenso die gurtartige Verbindung der Rundmedaillons (B1, C1, D1) mit den Stichkappen. Die kleinteilige, netzartige Gliederung gleicht dem Aufbauprinzip einer Kassettendecke. Das monochrom grünlich-grau gemalte Bandwerk füllt die unregelmäßig vieleckigen Zwischenfelder sowie die Dreiecke der Stichkappen. In der Längsachse gereiht, sind polychrom gemalte Festons eingefügt.
+
+In den kleinformatigen, einansichtigen, anspruchslos entworfenen Darstellungen sind die Szenen bildfüllend in der Fläche ausgebreitet, die erzählerischen Einzelheiten bunt farbig naiv gemalt.
+
+A PREDIGT DES ANDREAS IN KERKERHAFT (Blickrichtung gegen W) An einen Türpfosten gekettet spricht Andreas zu einer Gruppe von Menschen. Ein Spruchband über Andreas: Wer aus gott Ist / der höret gottes Wort gibt die Textstelle (Jo 8,47) an. Das Johanneszitat und die Bibel in Händen des Apostels betonen als Grundthema der Darstellung die Missionspredigt des Apostels. Vor einer Kerkerhaft in Skythien und einer weiteren vor dem Martyrium in Achaia berichtet die Legende (vgl. LA-Benz S. 20 u. 23; Ribadeneira-Hornig, Bd 2, 30.11., S. 896 u 897).
+
+Am rechten Bildrand ist auf einem hohen Sockel götzenbildähnlich eine Gestalt auf einem Thron gemalt. Vom Blitz getroffen, stürzt ein Arm der Gestalt herab. Vielleicht soll diese Figur den ungerechten Richter darstellen, der durch Blitze vom Richterstuhl gestürzt wurde, nachdem er einen unschuldigen Jüngling verurteilt und den Apostel eingekerkert hatte. Bei dem göttlichen Strafgericht waren viele Menschen gestürzt und verletzt worden, sie wurden von Andreas geheilt und bekehrt (= Zuhörer im Bild?vgl. Ribadeneira-Hornig, loc. cit., S. 895 f.). Als Symbol für
+
+
+[[File:Band02_chunk010_p009_img002.jpg|thumb|Di Emblem a-d Marien-Szenen]]
+
+
+Betrug und Verstellung könnte die Maske - in Händen eines Zuhörers im Vordergrund rechts – auf die falsche Anklage der Mutter des Jünglings hinweisen, es fällt jedoch auf, daß nicht ihr Tod dargestellt ist.
+
+B MESSOPFER DES ANDREAS (Blickrichtung gegen O wie bei C, D, B1, B1-C1) In der Mitte des Bildes steht Andreas im Meßgewand am Altar und hebt bei der Eucharistiefeier die Hostie empor. Ein Soldat mit Befehlsstab und ein heidnischer Priester gebieten ihm Einhalt. Im Hintergrund auf einem Balkon der römische Statthalter Aegeas (vgl. die thronende Gestalt in A). Inschriftband des Puttos über Andreas: Ich opfere dem wahren / gott täglich das unbefleckte lamb auf dem altar. Diese Worte hatte Andreas in einem Disput an Aegeas gerichtet (LA-Benz, S. 23 und Ribadeneira-Hornig, loc. cit., S. 897; vgl. dort auch die beiden folgenden Ereignisse der Passio).
+
+C FOLTERUNG DES ANDREAS Mit bloßem Oberkörper ist Andreas zwischen zwei Säulen gespannt und wird von Folterknechten mit Stöcken und Ruten geschlagen. Im Vordergrund weist eine Götzenbüste mit der Inschrifttafel am Sockel Für Gott / Und den glauben. auf die Ablehnung des heidnischen Opfers und das darauf folgende Martyrium hin.
+
+D HULDIGUNG AN DAS KREUZ Von Schergen wird der Apostel zu dem Marterkreuz, der crux decussata, geführt. Andreas fällt auf die Knie und huldigt dem Kreuz: Sey gegriest / o heiliges creutz (= Anfang des Kreuzeshymnus, den Andreas nach der Legende gebetet hat).
+
+B1-D1 EMBLEME Den drei Emblemen im LHs liegt das Buch von Gaetano Felice Verani Monumentum Extremi Honoris . . . Principis Ferdinandae Mariae . . .,
+<!-- citation-page-bottom: Band02 p467 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk010.pdf#page=10 -->
+<!-- citation-page-top: Band02 p468 -->
+
+[[File:Band02_chunk010_p010_img001.jpg|thumb]]
+[[File:Band02_chunk010_p010_img002.jpg|thumb]]
+
+München 1679, zugrunde. Bei den Elbacher Emblemen in den Rundmedaillons sind die lateinischen Lemmata der Vorlage sinngemäß ins Deutsche übertragen, die Icone sind leicht abgewandelt und vereinfacht. Die Embleme beziehen sich auf die jeweils nachfolgende Andreas-Szene.
+
+B1 Unbeweglich Fels in bewegtem Meer. Aus einer Wolke blasen zwei Puttoköpfe, und ein Blitz fährt in den Fels (vgl. Verani, loc. cit., S. 177 »FRANGIT NON FRANGITUR«). Der die Fluten brechende, jedoch selbst ungebrochene Fels ist ein sehr verbreitetes Constantia-Motiv, das die Beharrlichkeit des hl. Andreas gegenüber Aegeas verdeutlicht.
+
+C1 Unverlezt. Aus den Wolken schlägt eine Hand auf einen Diamanten, der auf einem Amboß liegt. (Verani, loc. cit., S. 119 »NON FRANGITUR ICTU«). Der harte Diamant ist Sinnbild für die Fortitudo, die Standhaftigkeit des Heiligen unter den Folterungen.
+
+D1 Mein Hoffnung. In der Mitte ein Laubbaum, dessen Krone deutlich in drei Etagen geteilt ist. Weitere Bäume im Halbkreis dahinter. Im Vordergrund ein Baumstumpf mit einem Trieb voller Blätter. – Das Bild stimmt mit der Vorlage überein, lediglich der Baumstumpf zeigt bei Verani einen verdorrten, blattlosen Ast. Das Lemma dazu »GAUDIUM MEUM SPES MEA«. Das Emblem soll einen Obstbaum darstellen, der in der Winterkälte von allen Früchten entblößt und von Schnee bedeckt auf die Wiederkehr des Frühlings harrt. Es steht für die in Gott gesetzte Zuversicht in Zeiten des Unglücks (Verani, loc. cit., S. 107). In Elbach versinnbildlicht es die Hoffnung des Martyrers auf himmlischen Lohn, der durch den grünenden Zweig angedeutet ist.
+
+MARIENSZENEN Die Ovalmedaillons seitlich der quadratischen Bildfelder sind wie die Zwickelfeldbilder nach N bzw. S hin ausgerichtet. Die Bildunterschriften geben einen Bildtitel oder eine moralische Deutung der historischen Szenen. (Die Freskobezeichnungen entsprechen der chronologischen Reihenfolge.)
+
+a VERHEISSUNG MARIENS (apokryph) Joachim und Anna erfahren auf ihr Gebet hin die göttliche Verheißung von der Geburt Mariens: Gottvater sendet in einem Lichtstrahl Maria (Immaculata-Typus) zur Erde (ikonographisch verwandte Darstellungen sind angegeben im LCI, Bd 5, s. v. Anna, Sp. 179). – Alles durchs Gebett.
+
+b UNBEFLECKTE EMPFÄNGNIS Maria mit den Symbolen der Immaculata – ohne Macel.
+
+c GEBURT MARIENS (apokryph) Anna hebt das neugeborene Kind Maria empor und weiht es der Hl. Dreifaltigkeit im Himmel (Trinitätssymbol Dreieck mit drei Flammen). Joachim ist neben der Wiege niedergekniet (vgl. LCI, loc. cit., Sp. 181). – Grosse Freyd der Welt.
+
+d DARBRINGUNG IM TEMPEL (apokryph) Das Kind Maria steht auf den Tempelstufen vor dem Hohenpriester, am Fuß der Treppe Joachim und Anna – herrliches.
+
+e VERMÄHLUNG MARIENS (apokryph) In einem durch zwei Säulenpaare angedeuteten Tempelraum segnet der Hohepriester Maria und Joseph, die sich die Hand reichen. Über der Zeremonie schwebt die Geistestaube. – Keusche Vermählung. (Apokryphe Szenen: Protevangelium des Jakobus, ed. v. Hennecke-Schneemelcher, Bd 1, S. 283 f.; vgl. LA-Benz, S. 734-37)
+
+f VERKÜNDIGUNG (Lc 1,26-38) Gabriel bringt Maria die Botschaft – voller Gnaden.
+
+g ANBETUNG DER HIRTEN Maria bietet den Hirten das Jesuskind dar, ein Engel hält das Spruchband mit dem GLORIA IN EXCELSIS (Lc 2,14) – Geburt Christi.
+
+h FLÜCHT NACH ÄGYPTEN (Mt 2,13-15) Maria auf dem Esel trägt das Kind unter ihrem Mantel. Ein Engel geht voran, Joseph folgt an Mariens Seite – Sichere Flucht.
+
+i–k Die im Chorraum befindlichen Szenen haben anstelle von Bildtiteln längere Inschriften in Versform zu i und zugleich als Gebet zu k, diese sind in den Zwickelfeldern darunter angebracht.
+
+i TOD ANNAS Jesus spricht zu Anna am Sterbelager. Maria, Joachim (oder Joseph?) und ein Jünger sind anwesend (vgl. LCI, loc. cit., Sp. 183 f. und die Todes-Szene 10 in Burggen, CBD, Bd 1, S. 399). – Glüchseelig ist S. Annä / Todt. / Bey deme war der / Grosse Gott.
+
+k HIMMELFAHRT MARIENS (?) – Nach deinem Gruch / Zieh / uns Zue dir / Eröffne auch die / himmels thür. – Das Bild zeigt eine Heilige in aufrechter Haltung, auf Wolken, von Engeln gestützt, dem ikonographischen Typus der Himmelfahrt Mariens entsprechend. Die rechte Hand ist vor die Brust gehoben, die linke nach unten ausgestreckt (keine typische Assunta-Haltung im 18. Jh.). Die Gewänder zeigen nicht die Marienfarben, vielmehr ist das Kleid rot und der Mantel grün, wie es der Ikonographie Annas entspricht (LCI, loc. cit., Sp. 171), und der Kopfschleier ist goldgelb wiedergegeben. In den Szenen a, c und d ist Anna jeweils vollig gleich, allerdings mit goldgelbem Kopfschleier und Mantel über grünem Gewand gemalt.
+
+Vielleicht sind die ikonographischen Unstimmigkeiten der Darstellung durch eine Veränderung anläßlich der Restaurierung von 1929 zu erklären.
+
+Die Szenenauswahl des Elbacher Marienzyklus umfaßt das Annenthema. Außer den Empfängnis, Geburt und Darstellung Mariens betreffenden Szenen mit Anna und Joachim ist eine eigene seltenere, seit dem 16. Jh. vorkommende Darstellung des Todes eingeführt. Als Pendant hierzu ist die Darstellung einer Glorie der hl. Anna denkbar (vgl. Burggen, die Patronats-Szene 15, CBD, Bd 1, S. 402). Für das außerordentlich verbreitete Thema der Himmelfahrt Mariens spricht der Darstellungstyp als solcher.
+
+1-8 EVANGELISTEN UND KIRCHENVÄTER Ganzfigurige Darstellungen der Evangelisten (1–4 in den äußeren Zwickelfeldern) und der Kirchenväter (5–8 in den mittleren Feldern), meist am Schreibpult und mit den Attributen. Ein Putto in der oberen Ecke hält jeweils ein Schriftband mit dem Namen.
+
+1 S. LUCAS. Evan – 2 S. MATTHAEUS – 3 S. MARCUS Evang – 4 S. IOANNES Evan  
+5 S. AMBROSIUS – 6 S. AUGUSTINUS – 7 S. GREGORIUS – 8 S. HIERONYMUS. Aus einer Fanfare, die aus Wolken kommt, ertönen die Worte SURGITE MORTUI / VENITE AD IUDICIUM
+
+W MARIA UND VIERZEHN NOTHELFER An den Chorbogen sind um die stuckgerahmte Darstellung der thronenden Madonna die Halbfiguren der Vierzehn Nothelfer, gekennzeichnet durch ihre Attribute, gemalt (keine Abbildung). Inschriftbänder enthalten die Namen, links: S. CATARINA – S. EUSTACHIUS – S. CHRISTOPH – S. CIRIACUS – S. BANTALEON – S. GEORGIUS – S. ERASMUS. Es folgen rechts: S. BLASIUS – S. ACHATIUS – S. DIONISIUS – S. VEIT – S. AEGIDIUS – S. MARGARETHA – S. BARBARA. (Zum Abschluß die Jahreszahl 1722).
+
+== Literatur ==
+
+Mayer-Westermayer, Bd 2, S. 7–10.  
+KDB I OB (2), S. 1441 f.  
+Brunhuber, Josef, Chronik des oberen Leitzachtales, Fischbachau-Birkenstein 1928, S. 417–24, 445–65 und S. 506–09.  
+Hoffmann, Richard, Kirchenkunst im Schlierach- und Leitzachtal, in: Jahrbuch des Vereins für christliche Kunst VII, München 1929, S. 165 f.  
+Die Erneuerung der Elbacher Pfarrkirche (o. V.), in: Altheimatland 6, Nr. 18, 1930, S. 71.  
+Dehio-Gall OB, S. 234  
+Andrelang, Franz, Landgericht Aibling und Reichsgrafschaft Hohenwaldeck (=Historischer Atlas von Bayern Bd 17), München 1967, S. 124.  
+Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.  
+<!-- citation-page-bottom: Band02 p469 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk010.pdf#page=11 -->
+{{End}}

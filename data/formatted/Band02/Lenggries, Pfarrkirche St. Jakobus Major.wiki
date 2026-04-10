@@ -1,0 +1,168 @@
+{{Artikel
+|Band=2
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=209
+|Originalseitenbis=213
+|Lemma=Lenggries, Pfarrkirche St. Jakobus Major
+|Typ=Sakral
+|Ort=Lenggries
+|davor=Königsdorf, Pfarrkirche St. Laurentius
+|danach=Lenggries, Kapelle Maria Hilf
+|AutorIn1=Bachter, Falk
+|AutorIn2=Bauer-Wild, Anna
+|AutorIn3=Böhm, Cordula
+|AutorIn4=Lüdicke, Lore
+|AutorIn5=Sinkel, Kristin
+}}
+
+Pfarrkirche, Erzdiözese München und Freising; z. Z. der Ausmalung hatte der Pfarrer von Tölz das Präsentations recht auf die Pfarrei, Hofmark Hohenburg
+
+'''Patrozinium:''' St. Jakobus Major
+
+'''Zum Bauwerk:''' Nach Abbruch der baufälligen gotischen Kirche Neubau 1721–22 durch Stadtmaurermeister Adam Schmidt aus München. Weihe am 15. September 1722 durch Johannes Franz von Eckher, Fürstbischof von Freising. Innenausstattung bis 1728.
+
+Weiträumiger Saalbau mit Pilastergliederung, im LHs zwei hohe, nischenartige Erweiterungen, eingezogener Chor mit halbrundem Schluß, im W Doppelempore. Der Raum ist hell erleuchtet durch acht Rundbogenfenster im LHs und vier Fenster im Chor
+
+'''Auftraggeber:''' Hofmarksherr Graf Ferdinand Joseph von Herwarth auf Hohenburg (* 1663 † 1731) trug die Kosten des Neubaues und ist auch als Auftraggeber der Fresken anzunehmen (Familiengruft unter dem AR); amtierender Pfarrvikar Elias Kaiser (1681–1724)
+
+'''Autor und Entstehungszeit:''' Die Deckenbilder sind weder datiert noch signiert. In der Festschrift des Lenggrieser Pfarrers Jakob Murböck (s. S. 15), der sich im wesentlichen auf handschriftliche Notizen des Pfarrers Stephan Glonne von Lenggries (1878–83) beruft, ist ein Maler namens {ZITAT|000} aus Tölz für die Ausmalung 1722 in Schiff und Altarraum benannt. Anton Bauer vermutet in dem Namen {ZITAT|001} eine fehlerhafte Lesart für Fett. Der aus Böhmen stammende Maler Johann Adam Anton Fett ist seit 1722 in Tölz nachweisbar, heiratete dort 1723 und wird im Sterbebuch der Pfarrei Tölz unter dem 17. 3. 1768 als {ZITAT|002} aufgeführt. Von Johann Adam Anton Fett sind keine weiteren Deckenmalereien bekannt. 1722 wurde er für Faßarbeiten in der Filialkirche Wackersberg bezahlt, 1730 und 1737 war er zusammen mit dem Tölzer Maler Julian Breymeyer für den Farbenschmuck und die Fassung der Altäre in der Mühlfeldkirche in Tölz beauftragt. Vermutlich ist Johann Adam Anton Fett der Vater des Tölzer Malers Wilhelm Anton Fett (Anton Bauer, Altheimatland Nr. 5 und 7; s. auch Greiling S 185)
+
+Eine Stellungnahme zu den zitierten Angaben ist nach den gegenwärtigen Forschungsstand nicht möglich, da ein Maler Erth nicht nachgewiesen ist, und zu Johann Adam Anton Fett stilistische Vergleichsmöglichkeiten fehlen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, B, 1–4) Flachtonne mit Stichkappen, AR (C, D und a, e) Tonne, (E und b, c, d) Halbkuppel
+
+Rahmen A–E, 1–4, a–e Stuckprofile
+
+
+[[File:Band02_chunk005_p005_img005.jpg|thumb]]
+<!-- citation-page-bottom: Band02 p209 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=6 -->
+<!-- citation-page-top: Band02 p210 -->
+
+<!-- header: LENGGRIES -->
+
+<!-- header: LENGGRIE -->
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 15,30 m; 5,10 × 3,00  
+B Höhe 15,30 m; Ø 4,10  
+C Höhe 14,50 m; 2,50 × 4,80  
+D Höhe 14,50 m; Ø 4,90  
+E Höhe 14,50 m; 1,80 × 4,20  
+
+Erhaltungszustand und Restaurierungen: 1822, 1841, 1885 Restaurierungen. 1915/16 Renovierung der Deckenbilder durch Kögl, München; anläßlich der Aufstellung eines neuen Hochaltares (Weihe 28. Mai 1916) »verschwanden die hinteren Deckengemälde im Presbyterium« (Murböck, S. 15; diese sind inzwischen wieder freigelegt). »verschwanden die hinteren Deckengemälde im Presbyterium« Innenrestaurierung des Gebäudes 1965. 1976 Übertünchung von Fresko A über der Orgel (photographische Aufnahme vor diesem Zeitpunkt).  
+
+Die Deckenbilder sind in schlechtem Zustand: erhebliche Verschmutzungen, fleckige Farbsubstanz, Abblätterungen und Übermalungen an allen Bildern, am stärksten sind die Fresken A, 1–4 und a–e betroffen, die Fresken in der Chorhalbkuppel stark erneuert.  
+
+[[File:Band02_chunk005_p006_img001.jpg|thumb|A Musizierende Engel]]  
+
+== Beschreibung und Ikonographie ==  
+
+Die Flachtonne über dem LHs setzt über einem breiten Gebälk an, das nur in die weiten Seitennischen im S und N verkröpft ist. Das Dekorationssystem der Decke wird von breiten, gekurvten Profilbändern bestimmt, die die flachen Stichkappen und die zentrale Hl.-Geist-Öffnung miteinander verbinden und in etwa gleich große lichtfarbig getönte Flächen teilen, in die die Medaillons der Deckenmalerei eingesetzt sind. Die Wölbung über der Orgelempore und die eingezogene Tonne über dem AR werden durch glatte Profile jochartig gegliedert; im Chorhaupt ist die Halbkuppel in vier kleine gleichmäßige Felder geteilt, die die gerahmten Deckenbilder tragen. Die Fresken wirken dunkel und kräftig in der Farbgebung, besonders auf den verhältnismäßig großen, blassen Deckenfeldern des LHs; im AR sind sie mehr als Gruppe zusammengeschlossen. Insgesamt ist ihre Wirkung als Raumerweiterung gering.  
+
+A MUSIZIERENDE ENGEL (jetzt übertüncht) Einansichtiges Fresko über der Orgelempore. Auf Wolken sind leicht untersichtig musizierende Putti mit Flöte, Tamburin, Violine und Notenbuch dargestellt, zuoberst drei Puttoköpfchen.  
+
+[[File:Band02_chunk005_p006_img002.jpg|thumb]]  
+
+B ENGELSGLORIOLE Betrachterstandort in der Mitte darunter. Ringförmiges Bildfeld um die Hl.-Geist-Öffnung, die von einer geschnitzten Taube auf einem Strahlenkranz geschlossen ist. Dargestellt ist ein doppelter Chor von geflügelten Engelsköpfchen, die sich konzentrisch um die Taube scharen. Farblicher Gesamtton ist ein kräftiges Gold-Ocker.  
+
+1–4 EVANGELISTEN Kreisrunde Medaillons, in denen die vier Evangelisten in Ganzfigur auf Wolken mit ihren Symbolen, Büchern und Schreibfedern, ohne Untersicht dargestellt sind.  
+
+1 JOHANNES mit dem Adler — IN/ princi=/pio erat/ Verbum (Io 1, 1 – Prolog)  
+2 MARKUS mit dem Löwen — INitium/ Evangelij Jesus Christi/ Filij Dei (Mc 1, 1)  
+3 LUKAS mit dem Stier — FVit in/ diebus/ Herodis. (Lc 1, 5)  
+4 MATTHÄUS mit dem Engel — Liber/ Generati/ onis IESV/ Christi/ Filij David (Mt 1, 1)  
+
+C–D und a–e JAKOBUS-SZENEN Die Fresken des AR sind thematisch zusammenhängend: sie zeigen Szenen des Kirchenpatrons Jakobus d. Ä. in einansichtigen, tafelbildmäßig aufgebauten Bildern, die ihren gemeinsamen Betrachterstandort am Eingang zum Chorraum haben. a und e betrachtet man gegen S bzw. N, das Hauptbild D liegt im Scheitel der Tonne, im Zentrum des Bildzyklus.  
+
+[[File:Band02_chunk005_p006_img003.jpg|thumb|D Erscheinung des Jakobus in der Schlacht bei Clavigo]]  
+
+[[File:Band02_chunk005_p006_img004.jpg|thumb|B Engelsgloriole]]  
+
+C ENTHAUPTUNG DES JAKOBUS Darstellung im Breitformat ohne Untersicht, aber mit einer gewissen Bildtiefe durch eine schmale Erderhebung mit einer Repoussoirfigur im Vordergrund. In der Mitte des Bildes kniet Jakobus gefesselt auf einem Hügel, umstanden von einem Soldaten, Schergen, einem Priester und Schaulustigen, neben ihm holt der Henker zum Schwertstreich aus.  
+
+D ERSCHEINUNG DES JAKOBUS IN DER SCHLACHT BEI CLAVIGO Das kreisrunde Bild verzichtet auf Untersicht und Verkürzungen bis auf ein Architektur-Versatzstück im Hintergrund links. Das Gemälde schildert den Kampf bei Clavigo um 843, bei dem der hl. Jakobus auf einem Schimmel reitend König Ramiro I. erschien und den Spaniern den Sieg gegen die Sarazenen brachte. Die Kampfszene spielt sich auf einem schmalen Erdstreifen ab, in dessen Vordergrund nackte Heiden hingestürzt sind, die von repoussoirhaft dunklen Erdschollen halb verdeckt werden. Links fällt ein weiterer kopfüber auf den Boden; ein berittener Sarazene mit geschwungenem Krummschwert scheint durch den Anblick des Heiligen getroffen. Dahinter steht das Heer der Spanier mit Lanzen und Schilden dicht gedrängt. Über der Kämpfenden zieht sich quer über das ganze Bildfeld eine Wolkenbank, in deren Mitte in einer Lichtmandorla mit Puttoköpfchen der hl. Jakobus auf einem sich bäumenden Schimmel erscheint, in seiner Pilgerkleidung mit Hut und wallendem Mantel, das Schwert erhoben. Rechts und links am Bildrand spielende Engelchen mit zwei Palmzweigen, den Insignien des hl. Martyrers.  
+<!-- citation-page-bottom: Band02 p211 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=7 -->
+<!-- citation-page-top: Band02 p212 -->
+
+<!-- header: LENGGRIES -->
+
+
+[[File:Band02_chunk005_p007_img001.jpg|thumb]]
+
+
+Das Fresko ist in tonigen, jetzt etwas düster wirkenden Farben gehalten, die von Karminrot bis Rosa, von Grautönen und Ultramarinblau bestimmt werden. Gelbtöne sind sparsam verwendet: so hebt sich die Gloriole um den Heiligen kaum von den graurosa Wolken ab und hat keine Wirkung als Licht. Bis auf die angedeutete Verschattung am unteren Bildrand ist die Lichtführung diffus.
+
+
+[[File:Band02_chunk005_p007_img002.jpg|thumb|E Dreifaltigkeitssymbol]]
+
+
+[[File:Band02_chunk005_p007_img003.jpg|thumb|4 Matthäus]]
+
+
+sitzt König Herodes umgeben von seinen Soldaten und Gefolgsleuten. Der Schriftgelehrte Josias hat Jakobus vor den Kaiser geführt und ihm die Fesseln gelöst.
+
+
+[[File:Band02_chunk005_p007_img004.jpg|thumb]]
+
+
+[[File:Band02_chunk005_p007_img005.jpg|thumb]]
+
+
+[[File:Band02_chunk005_p007_img006.jpg|thumb]]
+
+
+[[File:Band02_chunk005_p007_img007.jpg|thumb]]
+
+
+[[File:Band02_chunk005_p007_img008.jpg|thumb]]
+
+
+[[File:Band02_chunk005_p007_img009.jpg|thumb]]
+
+
+Hermogenes kniet vor Jakobus und empfängt von ihm den Pilgerstab zum Schutz gegen den Teufel; hinter Hermogenes ist wohl der Schüler des Zauberers Philetus dargestellt
+
+
+[[File:Band02_chunk005_p007_img010.jpg|thumb|d Bekehrung des Hermogenes]]
+
+
+== Ergänzungen zur Ikonographie ==
+
+
+Jakobus d.A., der erste Apostelmartyrer, wurde wahrscheinlich um das Jahr 44 in Jerusalem von Herodes Agrippa I. zum Tode verurteilt (Act 12, 1–2). Der Heilige ist in der Tracht des Pilgers dargestellt, mit Muschelabzeichen an der Pelerine, mit Pilgerhut und -stab. Thematisch und chronologisch gehören die Szenen folgendermaßen zusammen:
+
+b und d zwei Szenen aus der legendären Hermogenesgeschichte (Ribadeneira-Hornig, Bd 2, 25. 7., S. 95), wonach sich der Hohepriester Abiathar an den Zauberer Hermogenes und dessen Schüler Philetus wendet, damit diese Jakobus vom Glauben abbringen. Beide werden jedoch bekehrt: Jakobus übergibt Hermogenes seinen Stab zum Schutz gegen die Teufel, Hermogenes bringt seine Zauberbücher, die ins Feuer geworfen werden.
+
+a und e zwei Szenen aus der legendären Josiasgeschichte (Ribadeneira-Hornig, loc. cit., S. 96), nach der Jakobus von Josias, einem Schriftgelehrten, gefangengenommen wird. Er führt ihn vor Herodes Agrippa, wird selber aber vom Heiligen zum Christentum bekehrt und läßt sich von Jakobus taufen.
+
+C und c Martyrium (Act 12, 2 und Ribadeneira-Hornig loc. cit., S. 96) und Glorie des Heiligen.
+
+D Nach der legendären Translatio der Reliquien des hl. Jakobus nach Santiago de Compostela im 7. Jh. wird Jakobus zum spanischen Nationalheiligen. Ein spanischer Zusatz in der Legende (etwa seit dem 11. Jh.; s. LCI, Bd 7, Sp. 24 und 34) ist das Auftreten des Heiligen in der Schlacht bei Clavigo um 843 als der berittene Maurentöter (Matamoros). Diese Szene ist im deutschsprachigen Raum selten dargestellt (vgl. Walchensee, St. Jakob, S. 262 u Ensdorf, OPf., Klosterkirche St. Jakob, C. D. Asam).
+
+
+== Literatur ==
+
+
+Mayer-Westermayer, Bd 3, S. 443–49
+
+Murböck, Jakob, Die Pfarrkirche St. Jakob in Lenggries Festschrift aus Anlaß des 200-jährigen Jubiläums, Lenggries 1922.
+
+Murböck, Jakob und Josef Greis, Die Pfarrei Lenggries (= KKF, Nr. 126), München <sup>3</sup>1972.
+
+Bauer, Anton, Regesten zur Tölzer Kunstgeschichte, Tölzer Maler, in: Altheimatland 5, 1928/29, Nr. 7, S. 28, Nr. 9 S. 35.
+
+Dehio-Gall OB, S. 218
+<!-- citation-page-bottom: Band02 p213 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=8 -->
+{{End}}
