@@ -46,7 +46,7 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 - [ ] Improve spelling mistakes and remove indices and other non article text (Pass 1)
 - [x] Fix missing metadata and remove remaining OCR footers (Checked 3126 pass1 files, Metadata fixed: 170, Footers cleaned: 511 + 74)
 - [x] Split articles, by combining the csv table with the full length text and estimating a separation point by section headers
-- [x] Check results by matching the article lemma location with the content of the article
+- [x] Check results by matching the article lemma location with the content of the article (Fix missing scanned page in Band 10, page 14,15)
 - [ ] Expand abbreviations, based on the glossary (Abkürzungen: allgemein, biblische Schriften, bibliographische, Editions- und Zitierhinweise), of each volume (Pass 2)
 - [ ] Identify and split results into building-based articles using Mistral on LRZ AI (Pass 3)
 - [ ] Standardize article formatting with sections:
