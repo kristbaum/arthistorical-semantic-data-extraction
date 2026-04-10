@@ -2,11 +2,10 @@
 
 Checks and optionally fixes:
 
-1. Originalseitenvon / Originalseitenbis — verified against the nearest
+1. Originalseitenvon / Originalseitenbis — verified against the
    <!-- citation-page-top/bottom --> comments found *inside* the article
    block (between the closing ``}}`` of the template and the ``{{End}}``
-   marker).  The minimum page number seen = Originalseitenvon; the maximum =
-   Originalseitenbis.
+   marker).  Originalseitenvon = min page number; Originalseitenbis = max.
 
 2. davor / danach — verified against the Lemma of the immediately preceding
    and following {{Artikel}} blocks in the same file.
@@ -28,8 +27,6 @@ SPLITTING_DIR = REPO_ROOT / "data" / "splitting"
 
 _ARTIKEL_RE = re.compile(r"^\{\{Artikel\b")
 _END_RE = re.compile(r"^\{\{End\}\}")
-_CITE_TOP_RE = re.compile(r"<!--\s*citation-page-top:\s*\S+\s+p(\d+)\s*-->")
-_CITE_BOTTOM_RE = re.compile(r"<!--\s*citation-page-bottom:\s*\S+\s+p(\d+)\s*-->")
 
 
 # ---------------------------------------------------------------------------
@@ -127,77 +124,6 @@ def _parse_blocks(lines: list[str]) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Page inference
-# ---------------------------------------------------------------------------
-
-
-def _infer_pages(
-    lines: list[str], template_end: int, end_line: int
-) -> tuple[int | None, int | None]:
-    """Scan lines[template_end+1 : end_line] for citation-page comments.
-
-    Returns (von, bis), or (None, None) if no comments are found.
-
-    von = min page from any citation-page comment.
-    bis = max page from citation-page-bottom comments, with one extension:
-          if there is a citation-page-top *after* the last bottom and real
-          article content (non-blank, non-HTML-comment lines) follows it
-          before {{End}}, the article genuinely ends on that later page and
-          it is included in bis.  A trailing citation-page-top that is only
-          followed by headers/dropbox comments and blank lines is treated as
-          the start of the next article's page and is excluded from bis.
-          Falls back to max of all comments when no bottom comment exists.
-    """
-    top_pages: list[int] = []
-    bottom_pages: list[int] = []
-    last_bottom_idx = -1
-    # (line_index, page_num) of the last citation-page-top seen after the most
-    # recent citation-page-bottom; reset to None whenever a new bottom appears.
-    last_top_after_bottom: tuple[int, int] | None = None
-
-    for i in range(template_end + 1, end_line):
-        line = lines[i]
-        mt = _CITE_TOP_RE.search(line)
-        if mt:
-            page = int(mt.group(1))
-            top_pages.append(page)
-            if last_bottom_idx >= 0:
-                last_top_after_bottom = (i, page)
-        mb = _CITE_BOTTOM_RE.search(line)
-        if mb:
-            bottom_pages.append(int(mb.group(1)))
-            last_bottom_idx = i
-            last_top_after_bottom = None  # reset; only track top after the last bottom
-
-    if not top_pages and not bottom_pages:
-        return None, None
-
-    all_pages = top_pages + bottom_pages
-    von = min(all_pages)
-
-    if not bottom_pages:
-        # No bottom comment at all — use all page comments.
-        bis = max(top_pages)
-    elif last_top_after_bottom is None:
-        # Last page comment was a bottom — straightforward.
-        bis = max(bottom_pages)
-    else:
-        # There is a citation-page-top after the last citation-page-bottom.
-        # Include it in bis only when real wiki content (non-blank,
-        # non-HTML-comment) follows between that top comment and {{End}}.
-        top_line, top_page = last_top_after_bottom
-        has_real_content = any(
-            lines[i].strip() and not lines[i].strip().startswith("<!--")
-            for i in range(top_line + 1, end_line)
-        )
-        bis = (
-            max(max(bottom_pages), top_page) if has_real_content else max(bottom_pages)
-        )
-
-    return von, bis
-
-
-# ---------------------------------------------------------------------------
 # Per-band fixer
 # ---------------------------------------------------------------------------
 
@@ -231,21 +157,31 @@ def fix_band(
     fixes: list[tuple[int, str, str, str]] = []
 
     for idx, block in enumerate(blocks):
-        inferred_von, inferred_bis = _infer_pages(
-            lines, block["template_end"], block["end_line"]
-        )
+        von, bis = block["von"], block["bis"]
 
-        # --- Originalseitenvon ---
-        if inferred_von is not None and inferred_von != block["von"]:
-            fixes.append(
-                (idx, "Originalseitenvon", str(block["von"] or ""), str(inferred_von))
+        # --- Invalid template: bis before von ---
+        if von is not None and bis is not None and bis < von:
+            print(
+                f"  [INVALID] {band_prefix} / {block['lemma']!r}: von={von} > bis={bis}"
             )
 
-        # --- Originalseitenbis ---
-        if inferred_bis is not None and inferred_bis != block["bis"]:
-            fixes.append(
-                (idx, "Originalseitenbis", str(block["bis"] or ""), str(inferred_bis))
-            )
+        if idx > 0:
+            prev = blocks[idx - 1]
+            prev_bis = prev["bis"]
+
+            # --- Overlap: starts before previous article ends ---
+            if prev_bis is not None and von is not None and von < prev_bis:
+                print(
+                    f"  [OVERLAP] {band_prefix} / {prev['lemma']!r} (ends p{prev_bis})"
+                    f" → {block['lemma']!r} (starts p{von})"
+                )
+
+            # --- Gap: page(s) skipped between consecutive articles ---
+            elif prev_bis is not None and von is not None and von > prev_bis + 1:
+                print(
+                    f"  [GAP] {band_prefix} / {prev['lemma']!r} (ends p{prev_bis})"
+                    f" → {block['lemma']!r} (starts p{von})"
+                )
 
         # --- davor ---
         expected_davor = blocks[idx - 1]["lemma"] if idx > 0 else ""

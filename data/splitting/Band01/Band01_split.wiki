@@ -4776,7 +4776,7 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 |Lemma=Landsberg am Lech, ehem. Ursulinenkloster
 |Typ=Sakral
 |Ort=Landsberg am Lech
-|davor=Landsberg am Lech, Heilig-Kreuz-Kirche
+|davor=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche
 |danach=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -9710,7 +9710,7 @@ Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen 
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=282
-|Originalseitenbis=286
+|Originalseitenbis=287
 |Lemma=Winkl, Pfarrkirche St. Peter und Paul
 |Typ=Sakral
 |Ort=Winkl
@@ -9847,14 +9847,29 @@ Auf die 1686 eingeführte Bruderschaft vom hl. Wandel Jesu, Maria und Joseph mit
 
 Braun-Augsburg, Bd 1, S. 403. Steichele-Schröder, Bd 2, S. 556–60. KDB I OB (1), S. 559 f. Kunstdenkmale in Stadt und Bezirk (o.V.), in: Landsberger Geschichtsblätter 10, 1911, S. 27. Dehio-Gall, OB (1964), S. 280. Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 671 f. Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 112, 191.
 
+{{End}}
+
 LANDKREIS STARNBERG
 <!-- citation-page-bottom: Band01 p287 -->
 
 <!-- citation-page-top: Band01 p288 -->
 
-
-== ANDECHS ==
-
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=289
+|Originalseitenbis=289
+|Lemma=Andechs, Ehem. Benediktinerabtei
+|Typ=Sakral
+|Ort=Andechs
+|davor=Winkl, Pfarrkirche St. Peter und Paul
+|danach=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
 
 Ehem. Benediktinerabtei, jetzt Benediktinerpriorat, zur Abtei St. Bonifaz München gehörig; Gemeinde und Pfarrei Erling, Diözese Augsburg
 
@@ -9866,7 +9881,6 @@ Ehem. Klosterapotheke S. 312
 
 Literatur S. 316
 
-
 {{End}}
 
 {{Artikel
@@ -9874,20 +9888,17 @@ Literatur S. 316
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=289
-|Originalseitenbis=316
-|Lemma=Andechs, Ehem. Benediktinerabtei
+|Originalseitenbis=299
+|Lemma=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche
 |Typ=Sakral
 |Ort=Andechs
-|davor=Winkl, Pfarrkirche St. Peter und Paul
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei
+|danach=Andechs, Ehem. Benediktinerabtei, Törringkapelle
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
-
-== Kloster- und Wallfahrtskirche ==
-
 
 '''Patrozinium:''' St. Nikolaus und St. Elisabeth; Marienwallfahrt
 
@@ -10181,13 +10192,13 @@ Literatur siehe S. 316
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=301
-|Originalseitenbis=316
+|Originalseitenvon=300
+|Originalseitenbis=302
 |Lemma=Andechs, Ehem. Benediktinerabtei, Törringkapelle
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche
+|danach=Andechs, Ehem. Benediktinerabtei, Josephskapelle
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10269,13 +10280,13 @@ Deutsche Barockgalerie (Städtische Kunstsammlungen Augsburg – Bayerische Staa
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=302
-|Originalseitenbis=316
+|Originalseitenvon=303
+|Originalseitenbis=303
 |Lemma=Andechs, Ehem. Benediktinerabtei, Josephskapelle
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
+|danach=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10335,12 +10346,12 @@ Literatur siehe S. 316
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=304
-|Originalseitenbis=316
-|Lemma=Andechs, Ehem. Benediktinerabtei, Antoniuskapelle
+|Originalseitenbis=304
+|Lemma=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei, Josephskapelle
+|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10401,12 +10412,12 @@ Literatur siehe S. 310
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=305
-|Originalseitenbis=316
-|Lemma=Andechs, Ehem. Benediktinerabtei, Kapellenraum
+|Originalseitenbis=305
+|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
+|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10460,7 +10471,7 @@ Literatur siehe S. 316
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=306
-|Originalseitenbis=316
+|Originalseitenbis=307
 |Lemma=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
 |Typ=Sakral
 |Ort=Andechs
@@ -10562,12 +10573,12 @@ W<sub>1</sub>
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=308
-|Originalseitenbis=316
+|Originalseitenbis=309
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|danach=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10623,13 +10634,13 @@ Literatur siehe S. 311 und 316
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=308
-|Originalseitenbis=316
-|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstenzimmer
+|Originalseitenvon=309
+|Originalseitenbis=311
+|Lemma=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
+|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10718,12 +10729,12 @@ Leonore Berghoff, Emanuele Tesauro und seine Concetti. Unter besonderer Berücks
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=308
+|Originalseitenvon=312
 |Originalseitenbis=316
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|davor=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
 |danach=Aschering, Filialkirche St. Sebastian
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -10925,7 +10936,7 @@ Ausstellungskatalog, Der Schatz vom heiligen Berg Andechs. Bayerisches Nationalm
 |Lemma=Aschering, Filialkirche St. Sebastian
 |Typ=Sakral
 |Ort=Aschering
-|davor=Andechs, Ehem. Benediktinerabtei
+|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
 |danach=Diemendorf, Filialkirche St. Margareta
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -20334,7 +20345,7 @@ Literatur siehe S. 623
 |Typ=Sakral
 |Ort=Wies bei Steingaden
 |davor=Wies bei Steingaden, Wieskapelle
-|danach=
+|danach=Ortsregister (Band 1)
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -20823,9 +20834,16 @@ Lieb, Norbert, Barockkirchen zwischen Donau und Alpen München (1953) 31969, S. 
 
 {{End}}
 
-== REGISTER ==
-
-
+{{Artikel
+|Band=1
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=625
+|Originalseitenbis=626
+|Lemma=Ortsregister (Band 1)
+|davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|danach=Ikonographisches Register (Band 1)
+}}
 
 == Ortsregister ==
 
@@ -21070,13 +21088,12 @@ Würzburg 78, 560
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=
-|Originalseitenbis=
+|Originalseitenvon=627
+|Originalseitenbis=629
 |Lemma=Personenregister (Band 1)
-|davor=
-|danach=
+|davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|danach=Ikonographisches Register (Band 1)
 }}
-== Personenregister ==  
 
 Kursivschrift verweist auf die in den behandelten Landkreisen vertretenen Male  
 
@@ -21466,13 +21483,11 @@ Zwinck, Johann Joseph, Maler 513-16
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=
-|Originalseitenbis=
+|Originalseitenvon=630
+|Originalseitenbis=641
 |Lemma=Ikonographisches Register (Band 1)
-|Typ=
-|Ort=
-|davor=
-|danach=
+|davor=Ortsregister (Band 1)
+|danach=Embleme-Register (Band 1)
 }}
 
 
@@ -21816,15 +21831,12 @@ Patronatsdarstellung 127 f.
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=
-|Originalseitenbis=
-|Lemma=Embleme Register (Band 1)
-|davor=
-|danach=
+|Originalseitenvon=642
+|Originalseitenbis=642
+|Lemma=Embleme-Register (Band 1)
+|davor=Ikonographisches Register (Band 1)
+|danach=Bildmotive (Band 1)
 }}
-
-
-== Embleme-Register ==
 
 
 Embleme 93 f., 107 f., 121 f., 124, 130-32, 164 f., 182 f., 197 f., 205 f., 231, 233, 242 f., 246, 248 f., 270, 272 f., 315 f., 320 f., 353 f., 416-18, 454 f., 545-47, 575-89, 593 f.
@@ -21843,11 +21855,11 @@ BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblemliteratur herang
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=
-|Originalseitenbis=
+|Originalseitenvon=642
+|Originalseitenbis=643
 |Lemma=Bildmotive (Band 1)
-|davor=
-|danach=
+|davor=Embleme-Register (Band 1)
+|danach=Lateinische Lemmata (Band 1)
 }}
 
 Adler 130 f., 186, 270, 315, 353, 354, 583 f. Amboß 107 f. Anker 579 Apfelbaum 206 Apothekerschrank 545 f. Ararat 182, 454 f. Arche Noe 182, 454 f. Äskulapstab 316 Axt 186
@@ -21904,11 +21916,11 @@ Zirkel 579
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=
-|Originalseitenbis=
+|Originalseitenvon=644
+|Originalseitenbis=644
 |Lemma=Lateinische Lemmata (Band 1)
-|davor=
-|danach=
+|davor=Bildmotive (Band 1)
+|danach=Deutsche Lemmata (Band 1)
 }}
 
 
@@ -21960,10 +21972,10 @@ Valles abundabunt frumento. 206 Vas admirabile. 353 Vestigia solis adorant. 130 
 |Band=1
 |Chunk=
 |Chunkseite=
-|Originalseitenvon=
-|Originalseitenbis=
+|Originalseitenvon=645
+|Originalseitenbis=645
 |Lemma=Deutsche Lemmata (Band 1)
-|davor=
+|davor=Lateinische Lemmata (Band 1)
 |danach=
 }}
 
