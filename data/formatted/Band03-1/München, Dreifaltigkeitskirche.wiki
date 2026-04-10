@@ -1,0 +1,429 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=19
+|Originalseitenbis=36
+|Lemma=München, Dreifaltigkeitskirche
+|Typ=Sakral
+|Ort=München
+|davor=Vorwort (Band 3)
+|danach=München, St. Johann Nepomuk, sog. Asamkirche
+|AutorIn1=Sinkel, Kristin
+|AutorIn2=Bauer-Wild, Anna
+}}
+
+Votivkirche und ehem. Klosterkirche der Karmelitinnen Pacellistraße 6, Filialkirche der Pfarrei Unserer Lieber Frau; Erzdiözese München und Freising
+
+'''Patrozinium:''' Hl. Dreifaltigkeit
+
+'''Zum Bauwerk:''' Neubau 1711–14 nach Plänen von Giovanni Antonio Viscardi, nach dessen Tod 1713 von Johann Georg Ettenhofer weitergeführt unter Oberaufsicht Enrico Zuccallis. Benediktion 6. 10. 1714, Innendekoration bis 1718, Weihe 29. 5. 1718.
+
+Nach N gerichteter Bau über kreuzförmigem Grundriß. Das an der Durchdringung der beiden Arme sich ergebende Quadrat ist an den Ecken zu einem ungleichseitigen Oktogon abgeschrägt. Die vier angrenzenden Kreuzarme bilden im O und W je eine einjochige Kapelle; die Arme sind im N um den halbrund geschlossenen AR, im S um die trapezförmige Vorhalle mit Doppelempore verlängert. Der Raum ist durch vollrunde Säulen auf hohem Sockel und verkröpftes Gesims gegliedert. Mäßige Belichtung des Zentralraums durch Rundbogenfenster in der Fassade östlich und westlich, je zwei in drei Etagen über der Empore und über dem westlichen Seitenaltar, in der Gewölbezone durch vier Stichkappenfenster. Der AR wird durch zwei Bogenfenster in der Wölbung von O und W beleuchtet.
+
+'''Auftraggeber:''' Die drei Stände der Bayerischen Landschaft, d. h. Adel, Geistlichkeit und Bürgerschaft Münchens. Im Spanischen Erbfolgekrieg war nach der Niederlage der kurbayerischen gegen die kaiserlichen Truppen am Schellenberg bei Donauwörth am 2. Juli 1704 auch die Stadt München unmittelbar bedroht. Die Münchner Bürgertochter Maria Anna Lindmayr hatte, mystisch erleuchtet, wiederholt in Visionen ein Strafgericht Gottes nahen sehen, wenn nicht zu Ehren der Allerheiligsten Dreifaltigkeit eine Kirche errichtet würde. Am 17. Juli 1704 versammelten sich in der Frauenkirche die Vertreter der drei Landstände, nahmen die Mahnung der »Lindmayrin« auf und gelobten den Bau der Dreifaltigkeitskirche (zwei Inschrift-Tafeln in der Vorhalle der Kirche). Die Suche nach einem geeigneten Bauplatz und die Verbindung der Kirche mit einem Karmelitinnen-Kloster, dem sie nach ihrer Vollendung übergeben wurde, verschoben den Baubeginn bis zum Herbst 1711.
+
+'''Autor und Entstehungszeit:''' Die Fresken zählen zu den
+
+
+[[File:Band03-1_chunk001_p010_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p19 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=11 -->
+<!-- citation-page-top: Band03-1 p20 -->
+
+[[File:Band03-1_chunk001_p011_img001.jpg|thumb]]
+
+frühesten selbständigen Arbeiten Cosmas Damian Asam (* 1686 Benediktbeuern † 1739 München). In der Dreifaltigkeitskirche führt er in München die erste Probe seines malerischen Könnens vor, nachdem er ein Jahr zuvor von seinem Studienaufenthalt an der Lukasakademie in Rom zurückgekehrt war. Im Herbst 1714 ist die Kuppel der Dreifaltigkeitskirche aufgemauert, 1714/15 Stuckierung durch Johann Georg Bader. 1714-15 freskiert Cosmas Damian Asam die Wölbung. (Zu Asams Münchner Werken vgl. S. 27–40)
+
+In den Rechnungsbänden der Klosterliteralien des Karmelitinnen-Klosters sind der Akkord und die Bezahlung des Cosmas Damian Asam überliefert (BHStA I. KL 455, Nr. 9 Bd 2). Darin bestätigt Cosmas Damian vier Abschlagszahlungen vom 24. Sept. 1714 bis 28. Aug. 1715. Abschließend schreibt er am 10. Dez. 1715: »Daß Ich Endtsunderschribner, von dem Edl: und Wohlwiss. Herrn Jo: Franz Mayr, dess Rhats, Burgern und Schönfärbern, auch wohlbestellten Comissario der neuen Heyl: Dreyfaltigkeit Khürchen in München, wegen der ausmahlung angezogener Khürchen, mit nur die lezt ausständige 45 f. seithin also die ehstwegen<br>vollig pactierte 600 f. zwar ohne die versprochene und wohlverdiente besserung, rechtens und paar empfangen,<br>bezeigt dise meine eigenhendige Underschreib: und Färtigung, actum München den 10. Dezember Ao 1715 Cosmas Damian Asam id est 45 f.«
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A (Vorhalle) dreiteiliges Stichkappengewölbe, B, B<sub>1-2</sub>, D, D<sub>1-2</sub>, F, F<sub>1-2</sub>, G, G<sub>1-2</sub> Tonnenbogen, C, C<sub>1-4</sub>, C<sub>I-IV</sub>, C<sub>a-d</sub> Pendentifkuppel, E, E<sub>I-III</sub>, E<sub>1-1</sub> (AR) Muldengewölbe mit Stichkappen
+
+Rahmen: A, B, B<sub>1-2</sub>, C, D, D<sub>1-2</sub>, F, F<sub>1-2</sub>, EU<sub>1-2</sub> glatte teils bewegt geschwungene Stuckprofile mit Muschelwerk und Blütenranken umgeben, C<sub>a-d</sub> geschwungene Stuckprofile von Akanthusranken und Spruchbändern übergriffen, E<sub>I-III</sub>, Akanthusranken-Kartuschen, C<sub>I-IV</sub> Akanthusblatt-Kartuschen mit Spruchbändern, Palmetten und Früchtefestons besetzt, C<sub>1-4</sub> Akanthusblatt-Kartuschen 
+
+Technik: Fresko; A, B, B<sub>1-2</sub>, C, C<sub>a-d</sub>, D, D<sub>1-2</sub>, E, E<sub>1-2</sub>, F, F<sub>1-2</sub>, G, G<sub>1-2</sub>, EU<sub>1-2</sub> und W<sub>1-2</sub> (AR) sind polychrom; C<sub>1-4</sub> und C<sub>I-IV</sub> monochrom ocker, E<sub>I-III</sub> monochrom graubraun 
+
+Maße: A Höhe 13,30 m; 1,15 × 2,10  
+B Höhe 13,30 m; 3,50 × 2,10  
+C Höhe 19,90 m (Stich 15,30 m); Ø 10,00  
+D Höhe 13,30 m; 3,50 × 2,10  
+E Höhe 13,00 m; 3,10 × 3,30  
+F Höhe 13,15 m; 2,90 × 2,00  
+G Höhe 13,15 m; 2,90 × 2,00  
+EU<sub>1</sub> Höhe 5,30 m; 0,95 × 1,25  
+EU<sub>2</sub> Höhe 8,70 m; 0,95 × 2,00  
+
+Erhaltungszustand und Restaurierungen: Der Innenraum wurde 1845/55 und besonders 1905 durchgreifend restauriert. Die Deckenmalerei überstand den Zweiten Weltkrieg ohne Verlust. 1958 Restaurierung durch Toni Roth. Bei einer 1984/85 durchgeführten umfassenden Restaurierung durch Klaus Klarner, München, wurden starke Verschmutzungen und umgreifende Übermalungen festgestellt, unter denen die für C. D. Asam charakteristische leuchtende, bunte Farbigkeit nicht mehr zu erkennen war. Das Kuppelfresko war übersponnen von teils starken, verschmutzten Rissen, die Freskooberfläche von Feuchtigkeit teilweise sehr verdorben. Besonders ruinös waren A und die Kartuschfelder C<sub>I-IV</sub> und C<sub>1-4</sub>, der Bildgegenstand von C<sub>3</sub> und C<sub>4</sub> kaum mehr erkennbar. Die Fresken wurden anhand einer Vorkriegs-Photo-Dokumentation gereinigt und restauriert.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A, B, B<sub>1-2</sub> EMBLEME Das Vorhallengewölbe und der folgende Tonnenbogen tragen Emblem-Darstellungen. Die biblischen Lemmatexte sind bei A und B in Inschriftbändern am bzw. über dem Stuckrahmen und bei B<sub>1-2</sub> in eigene Stuck-Kartuschen gesetzt.
+
+A QUIS SCRUTABITUR VIAM NOSTRAM (frei nach Iob 36, 23) Drei Adler fliegen über einer Landschaft (Blickrichtung nach S). – Der Adler, sehr häufiges Bild Gottes oder Christi in der Emblematik, tritt hier in der Dreizahl auf als Hinweis auf die drei Personen Gottes. Die Inschrift erinnert an die Unerforschlichkeit der Wege Gottes.
+
+B POSUIT FINES TUO[S] PACEM (Ps 147, 14) Arche, zu der die Taube den Ölzweig bringt (Blickrichtung nach S). – Das Bild ist eine Weiterführung des Gedankens von A (Wer wird unseren Weg erforschen?): »Deine Grenzen hat er geordnet in Frieden« und damit Hinweis auf den Frieden von Rastatt (7. 3. 1714), das Ende der kaiserlichen Administration und den Abzug der österreichischen Truppen aus München (Januar 1715).
+
+B<sub>1</sub> QUASI ABSCONDI/TUS VULTUS EIUS (Is 53, 3) Sockel mit Blumentopf, aus dem drei Blumen wachsen. Die Textstelle ist der Isaias-Weissagung vom Leiden Jesu entnommen. Ihr entstammt auch das Bild von der aus
+
+
+[[File:Band03-1_chunk001_p011_img003.jpg|thumb|Ansicht des Gewölbes mit dem Kuppelfresko C Caelum Monacense C<sub>I-IV</sub> (Kartuschen in den Achsen) C<sub>1-4</sub> (Kartuschen in den Laibungen der Kuppelfenster) Dreifaltigkeits-Embleme C<sub>a-d</sub> (Pendentifs) Evangelisten A, B, B<sub>1-2</sub> (oben) und D, D<sub>1-2</sub> (unten) Dreifaltigkeits-Embleme seitlich angeschnitten F Verklärung Christi und G Taufe Jesu (Vorkriegsphotographie)]]
+<!-- citation-page-bottom: Band03-1 p21 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=12 -->
+<!-- citation-page-top: Band03-1 p22 -->
+
+<!-- header: DREIFALTIGKEITSKIRCHE -->
+
+<!-- header: DREIFALTIGKEITSKIRCH -->
+
+
+[[File:Band03-1_chunk001_p012_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p012_img002.jpg|thumb]]
+
+
+Wurzeln aufwachsenden Pflanze: »Et ascendet sicut virgul tum coram eo; et sicut radix de terra sitienti«. So ist wohl anzunehmen, daß die mittlere, emporstrebende Blume die Person Jesu in der Dreifaltigkeit bedeutet.
+
+B<sub>2</sub> ITER FACITE EI / QUI ASCENDIT (Ps 67, 5) Palmbaum, der emporstrebt. – Fast identisch ist ein Emblem bei Picinelli (Liber 9, s. v. palma, Nr. 342, nach Aresi): »Christus, mortalium animas sanetificans, Palmae non absimilem se probat, cuius truncus instar scalae efformatus, epigraphen ab Aresio accepit; ITER FACIT EI, QUI ASCENDIT.«
+
+B<sub>1</sub> und B<sub>2</sub> sind damit wohl Hinweise auf das Leiden Jesu und sein Erlösungswerk. Sieht man das Mittelbild B als typologisches Vorbild für den 1715 in Bayern endlich eingetretenen Frieden, so sind die Seitenbilder Hinweise auf die durch das Leiden Jesu bewirkte Möglichkeit der Heiligung der Menschen, die nach den Visionen der Maria Anna Lindmayr Voraussetzung war für die Befreiung von Not und Krieg.
+
+C Münchener Heiligenhimmel CAELUM MONACENSE Die Kuppel setzt ohne Tambour unmittelbar über einem glatten Stuckprofil an. Darüber schneiden vier relativ große Rechteckfenster mit geraden Dachgauben in die Schale ein. Die Belichtung des Freskos oberhalb des Rahmen-Gesimses deutet die Stuckleiste am Kuppelfuß als Abschluß der gemauerten Architektur - das Fresko erscheint »schwebend dahinter, mehr oder minder hohl gelegt« (Rupprecht, 1959, S. 15).
+
+Asam hat die steile Wölbfläche nach (konventioneller, d. h.) italienischer Tradition mit Figurengruppen gefüllt: Wie auch im kurz vorher vollendeten Kuppelfresko von Ensdorf (1714) und der Kuppel von Weingarten (1718/19) ordnet er konzentrische Kreise von Figuren auf Wolken übereinander an, zum Mittelpunkt der Kuppel hin stark verkleinert und durch Aufhellung der Farben illusionistisch entrückt. In dieser Hinsicht folgt Cosmas Damian auch der schon um die neunziger Jahre des 17. Jh. von seinem Vater Hans Georg Asam ausgemalten Scheinkuppel in Tegernsee (CBD, Bd 2, S. 585–88)
+
+Eine Abwandlung des bekannten Schemas bewirken in der Dreifaltigkeitskirche die vier einschneidenden, mit Muschelwerk und Fruchtgirlanden stuckierten Fensterlaibungen: Sie geben dem Fresko eine Kreuzform. Entsprechend den vier Kreuzarmen sind vier großfigurige Szenen am Kuppelfuß über den Längs- und Quertonnenbögen des Kirchenraums dargestellt. Hier führen zunächst, besonders im S, Repoussoirfiguren in das steile Gewölbefeld ein; die Figuren darüber sind bereits kleiner und stärker in Untersicht angelegt. In Höhe der Fensteroberkante setzen Figurenringe an und konzentrieren die Komposition auf den Kuppelscheitel.
+
+Der formalen Gliederung entspricht die ikonologische Bildordnung der Kuppel: im unteren Rang sind die Heiligen dargestellt, und an hervorgehobener Stelle, durch die Mittelachse kompositionell Gottvater zugeordnet, haben die Göttlichen Tugenden mit dem Kreuz Christi sowie der Triumph des Erzengels Michael ihren Platz.
+
+Darüber folgen die Kreise der Gott huldigenden Engel. Vor den obersten Ringen der Cherubköpfchen tragen Engel Christus auf Wolken empor zur Rechten Gottvaters in der Himmelsglorie. Christus breitet seine Arme zum Empfang Mariens aus, die ihm von der gegenüberliegenden Seite her mit Joseph und Theresia von Avila entgegeneilt. Wie in Parusiedarstellungen ist Christus als der verklärte, verherrlichte Herr in reines Weiß gekleidet, so auch die Jungfrau Maria, die Immaculata auf der Mondsichel und Königin des Himmels, der die Engel Sternenreif und Krone entgegentragen. Placierung, Kleidung, Gebärden wie auch das zeremonielle Geleit Mariens veranschaulichen Christus und Maria als Bräutigam und Braut.
+
+Die Glorie ist in lichter Entrückung von fernen Engelchören umgeben. Im Zentrum schwebt Gottvater als Schöpfer mit ausgebreiteten Armen, das Zepter in der Rechten. Die Hl. Geist-Taube verbindet Gottvater und Christus. Die Weltkugel mit dem Kreuzzeichen darauf ist etwas entfernt im Kreis der Engel dargestellt und sinnfällig den Personen der Dreifaltigkeit, dem Kreuz Christi wie auch Maria, der Miterlöserin, zugeordnet.
+
+Die Hauptansicht gegen N zeigt das hochaufragende Kreuz Christi in heller Goldfarbe und links unter dem Kreuzstamm die drei Göttlichen Tugenden: Fides-Ecclesia in einem violett-weißen Gewand mit Schleier über dem Haupt, Hostienkelch, Tiara und Schlüssel des Papstes haltend; sie hat den Blick nach oben gerichtet. Anstelle des üblichen Kirchenmodells ist der Plan mit der Fassade der Dreifaltigkeitskirche dargestellt. Ein Genius, der das Münchner Kindl auf dem Gewand trägt, präsentiert den Plan, das Dankopfer der drei Stände. Auch Spes weist mit der Rechten nachdrücklich darauf, in lichtblauem Gewand, mit einem Perlengeschmeide auf dem Haupt trägt sie den Anker und einen grünen Zweig. Vorne am Kuppelrand sieht man breit hingelagert Caritas in dunkelrotem Gewand mit zwei Kindern im Arm.
+
+Unten rechts vom Kreuz stürzt in weitausholender Bewegung der Erzengel Michael den Teufelsdrachen und Verdammte hinab, die bis über das Kuppelfresko hinaus, in Stuckwolken, als Halbfiguren in Rückenansicht gegeben sind. Michael trägt außer dem Blitzbündel in seiner Rechten keine Waffen. Er ist mit einem gebauschten Tuch und gebundenen Sandalen bekleidet.
+
+
+[[File:Band03-1_chunk001_p012_img003.jpg|thumb|Teilansicht von C Caelum Monacense, Scheitel: Die Hl. Dreifaltigkeit mit Maria und Engeln]]
+<!-- citation-page-bottom: Band03-1 p23 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=13 -->
+<!-- citation-page-top: Band03-1 p24 -->
+
+<!-- header: DREIFALTIGKEITSKIRCHE -->
+
+<!-- header: DREIFALTIGKEITSKIRCHE -->
+
+
+[[File:Band03-1_chunk001_p013_img001.jpg|thumb|Teilansicht von C gegen O: Der hl. Petrus mit den Gründern der in München ansässigen Orden sowie den hll. Kosmas und Damian in der Kartusche C<sub>II</sub>]]
+
+
+[[File:Band03-1_chunk001_p013_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p25 -->
+
+
+<!-- header: DREIFALTIGKEITSKIRCHE -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=14 -->
+<!-- citation-page-top: Band03-1 p26 -->
+
+[[File:Band03-1_chunk001_p014_img001.jpg|thumb]]
+
+[[File:Band03-1_chunk001_p014_img002.jpg|thumb|Ausschnitt aus C, S-Seite: Vision des Propheten Elias (Vorkriegsphotographie)]]
+
+Auf dem Wolkenring darüber sind zu beiden Seiten des Kreuzes huldigende Engel angeordnet. Links ist ein Engelskonzert dargestellt, Putti und Engel mit Notenblättern, Streichinstrumenten und Orgelpfeifen. Rechts tragen Engel die Leidenswerkzeuge Christi, Schwamm, Lanze und den Kreuztitulus INRI. Andere Engel beten das Kreuz an und schwenken Weihrauchgefäße.
+
+Das große Kreuz an zentraler Stelle ist verschiedenen Sinnzusammenhängen zuzuordnen: Es ist Attribut der Fides-Ecclesia, die es hält, und Symbol des Glaubens und der Kirche wie auch unverzichtbares Attribut Christi in der Dreifaltigkeitsdarstellung. Es ist Bestandteil der Arma Christi und damit Symbol des Erlösungswerkes und der Herrschaft des verherrlichten Christus. In der Zusammenstellung mit dem triumphierenden Michael ist es Zeichen des endgültigen Sieges Christi.
+
+Die Inschrift DEO UNI ET TRINO SIT LAUS / HONOR ET GLORIA PERENNIS in einer Kartusche unterhalb des Freskorahmens bezieht sich auf das gesamte Bildprogramm, besonders aber auf diesen nördlichen Freskoteil über dem Chorbogen mit den lobpreisenden Engelscharen.
+
+Gegen O zeigt das Fresko eine stärker in sich abgeschlossene Szene, bestimmt von der mächtigen knienden, im Profil gezeigten Figur des hl. Petrus. Sie führt als Repoussoir mit verschatteter Rückenpartie und weit ausgebreiteten Armen von der vordersten Bildebene in das himmlische Geschehen über ihm ein; ein Putto im Vordergrund, in starker Untersicht gegeben, trägt sein Attribut, die Schlüssel. Petrus ist mit weißem Bart, in blauem Gewand mit grauweißem Überwurf dargestellt, während die ihn umgebenden Heiligen, die ebenfalls staunend nach oben blicken, vorwiegend in braunen und ockerfarbenen Tönen gehalten sind. Blickpunkt für die Heiligengruppe ist die lichte Gestalt Mariens auf einer hellen Wolkenbank hoch über Petrus.
+
+In der Gruppe links von Petrus sind (von links beginnend) die Heiligen Kosmas und Damian durch ihre Attribute, Salbentöpfe und Medizingefäß sowie Buch, bezeichnet und als Ärzte dargestellt. Der hintere, mit individueller Physiognomie, ist wohl ein Selbstporträt Asams.
+
+Als nächster ist der hl. Ignatius von Loyola dargestellt, den Blick erhoben, die Linke auf die Brust gelegt, wo auf der Kasel das IHS mit Kreuz und Herz, in dem drei Nägel stecken, zu sehen ist. Es folgt Bischof Augustinus, der in seiner Linken vor der Brust das flammende Herz hält. Der Heilige hinter ihm, mit dunklem lockigen Haar und jugendlichem Gesichtstypus, in schwarzem Talar, hält ein von einem Pfeil durchbohrtes Herz in der Rechten. Es ist der hl. Kajetan von Thiene, Gründer des Regularklerikerordens der Theatiner. Neben ihm sieht man einen Heiligen mit Tonsur und braunem Habit: die stigmatisierte rechte Hand kennzeichnet ihn als Franziskus von Assisi. Er hat das Haupt geneigt und hält einen nicht zu identifizierenden braunen Gegenstand (das Bußkleid? einen Bettelsack?).
+
+Mit dieser Gruppe sind die Gründer der wichtigsten, im frühen 18. Jh. in München ansässigen Orden dargestellt: Ignatius als Gründer der Jesuiten, Augustinus als Stifter der Ordensregel der Augustiner-Eremiten, Kajetan von Thiene als Gründer der Theatiner, die nach der Geburt des Kurprinzen Max Emanuel 1662 von dessen Eltern Ferdinand Maria und Henriette Adelaide nach München gerufen worden waren. Kajetan von Thiene war seit 1672 Patron des Kurhauses. In München gab es vier Klöster nach der Franziskanerregel: das der Franziskaner, der Klarissen, das Ridler- und das Pütrich-Regelhaus.
+
+Geht man von einem »Caelum Monacense« für die Heiligenzusammenstellung aus, so müßte der Heilige im Hintergrund den Kapuzinerorden vertreten: er hat einen langen weißen Bart und einen Stab. Eine nur durch wenige Striche angedeutete Lilie (?) im Hintergrund könnte ihm zugeordnet sein. Gründer der Kapuziner war Ludwig von Fossombrone, einer der Hauptheiligen Felix von Cantalice, der bärtig und mit Lilie dargestellt wird.
+
+Rechts neben Petrus sieht man zwei jugendliche Heilige: Rochus mit Stab, Hund und der Pestbeule am Bein und Sebastian mit Helm und entblößtem Oberkörper mit seinen Attributen, den Pfeilen (im Köcher) und der Martyrerpalme. In den Sinnzusammenhang der Patrone gegen Pest und Krankheit kann man neben Rochus und Sebastian auch Kajetan von Thiene und die beiden Ärzte Kosmas und Damian einordnen.
+
+Über der Heiligengruppe schwebt, in weißem Kleid auf hellen Wolken, Maria nach oben. Mit der Mondsichel zu ihren Füßen und dem Sternenkranz über dem Haupt ist sie als Immaculata Conceptio gekennzeichnet. Dies eröffnet einen weiteren Münchner Sinnzusammenhang: Die Unbefleckte Empfängnis ist das Patrozinium der Frauenkirche, St. Peter das der ältesten Pfarrei der Stadt: die Patrone der beiden Pfarreien nehmen damit im »Caelum Monacense« eine wichtige Stelle ein. Der Engel hinter Maria hält die Krone der Patrona Bavariae (seit Maximilian I.). Joseph ist rechts neben Maria dargestellt: ein Engel hält über seinem Haupt einen Lilienkranz (die Lilie als Zeichen der Reinheit ist sein Attribut). Joseph ist seit 1664 Patron Bayerns: die Karmeliten förderten seinen Kult (Bruderschaft St. Josephi an der Karmeliterkirche).
+
+An der linken Hand hält Maria die unter ihr kniende Theresia von Avila. Die Mystikerin trägt den Habit der Karmelitinnen; mit der Linken hält sie ein brennendes Herz vor der Brust; sie verfaßte die Constitution der Unbeschuhten Karmelitinnen und hat als Hauptheilige der klösterlichen Gemeinschaft an dieser Kirche einen wichtigen Platz in diesem Heiligenhimmel. Weitere Ordensheilige der Karmeliten sieht man links und rechts von ihr. Unter ihnen sind durch Attribute gekennzeichnet: rechts hinter ihr mit Dornenkrone und Stigmata die hl. Maria Magdalena von Pazzi, daneben, mit Buch und Kreuz, im Karmelitenhabit (ein bloßer Fuß in Sandale ist zu sehen) Johannes vom Kreuz, mit Theresia von Avila Begründer des reformierten Zweiges der Unbeschuhten Karmeliten. Sie sind als Vertreter der beiden in München ansässigen Ordensfamilien und als Ordensgründer anzusehen. Dahinter hält ein Mönch im weißen Habit einen Zweig mit einer weißen Blume: wohl der hl. Brocardus, der erste Ordensgeneral und Ordensgründer der Karmeliten, der 1200/10 vom hl. Albert, dem Patriarchen von Jerusalem, die Bestätigung der Ordensregel erhielt. Er wird mit einem Blumenzweig dargestellt.
+
+Auf diese Partie des Kuppelfreskos – in der Ansicht zum Theresienaltar im östlichen Querhaus – bezieht sich die Inschrift in der Kartusche unter dem Freskorahmen ALMA TRIAS AMORIS VIRGINIS ET DECOR CARMELI (Alma Trias = Maria, Joseph, Theresia).
+
+[[File:Band03-1_chunk001_p014_img003.jpg|thumb|Ausschnitt aus C, O-Seite: Maria mit Joseph und der hl. Theresia von Avila (Vorkriegsphotographie)]]
+
+[[File:Band03-1_chunk001_p014_img004.jpg|thumb]]
+
+Musizierende Engel leiten über zur Ansicht nach S: Auf schmaler Bodenzone, in großer Tiefenperspektive angelegt, sieht man die Szene der Entrückung des Elias (4 Reg 2,11). Links sitzt der Prophet mit ausgebreiteten Armen, mit einem braun-goldenen, kuttenähnlichen Gewand bekleidet, in einem muschelförmigen Wagenkorb. Sein Mantel, den er dem Elisäus zurückläßt, ist im Vordergrund
+
+<!-- citation-page-bottom: Band03-1 p27 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=15 -->
+<!-- citation-page-top: Band03-1 p28 -->
+
+<!-- header: DREIFALTIGKEITSKIRCHE -->
+
+
+[[File:Band03-1_chunk001_p015_img001.jpg|thumb]]
+
+
+zu sehen. An einer goldenen Deichsel, vor feuerfarbigem Hintergrund, entschwebt bereits das Gespann der beiden Pferde, in starker Untersicht gegeben. Das Gespann mit dem »feurigen Wagen im Sturmwind« wird von einem Engel an den Zügeln nach oben geführt, wo in den Wolken viele musizierende Engel mit ihren Instrumenten – Horn, Pauken, Flöten, Tambourin und Fanfaren – zu sehen sind. Sie leiten zur Ansicht nach W über.
+
+Der Prophet Elias wird als der Vorläufer des christlichen Mönchstums angesehen. Die Karmeliten verehren ihn als ihren besonderen Beschützer, als »Führer und Vater«. Der Berg Karmel, wo Elias die Baalspriester besiegte und die Jahwe-Religion befestigte, war später der Ort der Entstehung des Mönchstums, nach ihm hat der Karmelitenorden seinen Namen.
+
+Die Inschrift der Kartusche unter dem Freskorahmen bezieht sich auf Elias wie auch auf den Orden, dessen Motto die Worte sind ZELO ZELATUS SUM PRO / DOMINO DEO EXERCITUUM (= 3 Reg 19, 10).
+
+In der Ansicht gegen W ist eine großfigurige Gruppe von
+
+
+[[File:Band03-1_chunk001_p015_img002.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p015_img003.jpg|thumb]]
+
+
+Heiligen dargestellt, die am Kuppelfuß auf einer schmalen Erdrampe stehen und direkt in die Himmelszone mit den musizierenden Engeln überleiten. Diese Fresko-Partie wirkt auch farblich geschlossen; sie ist pyramidenförmig aufgebaut und von einer Engelsgruppe gekrönt, die die Wolken unter dem zu Gottvater auffahrenden Christus tragen.
+
+Festlich wirken die Ornate der drei großen Heiligenfiguren Maximilian, Benno und Kunigunde in ihrem Dreiklang von Weiß, Rot und Gold. In der Mitte steht der hl. Benno von Meißen, der Patron der Stadt München, im Bischofsge wand. Ein Putto hinter ihm hält seine Attribute, das Buch darauf den Fisch mit den Schlüsseln im Maul. Bennos Reliquien ruhen seit 1580 in der Frauenkirche. Er war außerdem Patron von Kurbayern.
+
+Benno führt an seiner linken Hand die hl. Kunigunde, rechts neben ihm sieht man den hl. Maximilian. Maximilian von Lorch hat als Attribut nur eine Palme. Hinter ihm ist ein bekränzter Schild mit der Inschrift S:/MAXI/MILIA NVS angebracht. Engel mit Posaunen sind bei ihm: Er spielt
+
+
+[[File:Band03-1_chunk001_p015_img004.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p015_img005.jpg|thumb|C<sub>d</sub> Johannes]]
+
+
+in diesem Heiligenhimmel als Namenspatron des Kurfürsten Max Emanuel eine große Rolle. Die hl. Kunigunde, Namenspatronin der Kurfürstin Therese Kunigunde (Theresia ist als Ordensgründerin bereits in einen anderen Zusammenhang eingeordnet, deshalb tritt hier Kunigunde auf), die Gemahlin Kaiser Heinrich II., trägt eine Krone. Ein Engel neben ihr hält ihr Attribut, die Pflugscharen, die an die von ihr bestandene Feuerprobe erinnern.
+
+Inschrift in der Kartusche unter dem Freskorahmen A NOBIS PESTEM PELLITE / BELLA FAMEM. Da die dreifache Bitte an drei Heilige gerichtet ist und Benno von Meißen unter anderem Pestpatron ist, kann man wohl annehmen, daß der Patron des Kurfürsten mit der Bitte um den Frieden angerufen wird und die Patronin der Kurfürstin gegen den Hunger.
+
+C<sub>a-d</sub> EVANGELISTEN In den Pendentifs sind in Medaillons die vier Evangelisten in Ganzfigur mit Schreibfeder und aufgeschlagenem Buch, das eine Inschrift trägt, dargestellt. Die Malerei reicht über die Stuckrahmung hinaus (Hände) und geht dabei auch in Stuck über (Wolken)
+
+
+[[File:Band03-1_chunk001_p015_img006.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p015_img007.jpg|thumb]]
+
+
+C<sub>1-4</sub>, C<sub>I-IV</sub> DREIFALTIGKEITS-EMBLEME An den Decken der Fenstereinschnitte in der Kuppel befinden sich die Embleme C<sub>1-4</sub>, deren Lemmata im Rahmen über der Emblemkartusche angebracht sind. Zwischen den Fenstern am Kuppelfuß sind die Kartuschen C<sub>I-IV</sub>, ihre Lemmata in einem Inschriftenband am unteren Rahmenrand.
+
+C<sub>1</sub> UNUS IN TRINO VIDET OMNIA Auge Gottes in Dreieck mit Strahlen. Häufigstes Dreifaltigkeitssymbol. C<sub>2</sub> IN ODOREM CURRIMUS Drei Männer verehren drei blühende Rosen an einem Stiel. Die Inschrift ist Cant 1
+
+
+[[File:Band03-1_chunk001_p015_img008.jpg|thumb|G<sub>4</sub>]]
+<!-- citation-page-bottom: Band03-1 p29 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=16 -->
+<!-- citation-page-top: Band03-1 p30 -->
+
+DREIFALTIGKEITSKIRCHE
+
+
+[[File:Band03-1_chunk001_p016_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p016_img002.jpg|thumb|Teilansicht von C gegen W: Der hl. Benno als Stadtpatron, die hll. Maximilian und Kunigunde als Namenspatrone in der Kartusche C<sub>IV</sub>]]
+<!-- citation-page-bottom: Band03-1 p31 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=17 -->
+<!-- citation-page-top: Band03-1 p32 -->
+
+<!-- header: DREIFALTIGKEITSKIRCHE -->
+
+<!-- header: DREIFALTIGKEITSKIRCHI -->
+
+
+[[File:Band03-1_chunk001_p017_img001.jpg|thumb]]
+
+
+Die doppelte Dreizahl deutet darauf hin, daß es sich um eine die Dreifaltigkeit verehrende Dreiheit handelt. Die verehrende Haltung der drei Männer läßt an die drei Landstände denken, die in ihrer Angst vor dem Strafgericht Gottes (Vision der M. A. Lindmayr) der Güte der Hl. Dreifaltigkeit huldigen. {ZITAT|000} (Picinelli Liber 11, s. v. rosa, Nr. 176).
+
+
+[[File:Band03-1_chunk001_p017_img002.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p017_img003.jpg|thumb]]
+
+
+Aarons in ihr aufbewahrt (vgl. RDK, Bd 3, Sp. 112f.). Der dreifache Schatz in einem Gefäß ist Bild der Dreifaltigkeit.
+
+C<sub>III</sub> ATTINGIT UBIQUE Drei Pyramiden, auf deren Spitzen Sonnen strahlen. Das geläufige Bild der allseits von der Sonne bestrahlten Pyramide wird hier verdreifacht. {ZITAT|001} (Picinelli, Liber 16, s. v. pyramis, Nr. 141; vgl. Nr. 140, 142). Die Sonne wird dabei als Praesentia Dei gedeutet, die Pyramide auf die Unbefleckte Empfängnis oder ganz allgemein auf den Seligen bezogen. Hier liegt nahe, daß der Glanz des dreifaltigen Gottes, durch die drei Sonnen symbolisiert, die darüber dargestellte {ZITAT|002} nämlich Maria Joseph und Theresia erfüllt.
+
+
+[[File:Band03-1_chunk001_p017_img004.jpg|thumb|E Drei Männer bei Abrah]]
+
+
+
+[[File:Band03-1_chunk001_p017_img005.jpg|thumb|E<sub>III</sub> Gottvater als Schöpfer der Welt]]
+
+
+
+[[File:Band03-1_chunk001_p017_img006.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p017_img007.jpg|thumb]]
+
+
+E<sub>III</sub> GOTTVATER Gottvater als Weltschöpfer ist auf Wolken thronend dargestellt, die Sonne in der Hand, in Hintergrund Mond und Sterne
+
+Das Bild von E, zusammen mit dem Lemma von E. beschreibt Picinelli (Liber 15, s. v. speculum, Nr. 188, nach Paolo Aresi, Imprese sacre, Tortona 1630, S. 302, und Aresi, Lobreden, Sulzbach 1695, S. 107): {ZITAT|003} —
+
+
+[[File:Band03-1_chunk001_p017_img008.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p33 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk001.pdf#page=18 -->
+<!-- citation-page-top: Band03-1 p34 -->
+
+<!-- header: DREIFALTIGKEITSKIRCHE -->
+
+<!-- header: DREIFALTIGKEITSKIRCH -->
+
+
+[[File:Band03-1_chunk001_p018_img001.jpg|thumb]]
+
+
+»Man siehet aber gleichwohl, daß unter gleichen Spiegeln eine Action eines gegen dem andern gegeben werde gleichwie es in unserem Emblemate oder Sinnbild scheinet in welchem drey Spiegel in einem Triangel vorgestellt werden, solcher gestalt gegeneinander gesetzet, daß deren ein jeder in denen zweyen andern gesehen wird, und dasjenige, was von einem vorgestellt ist, ebenfalls auch von denen andern repraesentiret wird« (Aresi).
+
+Das Bild der Laterne in E, ist nur eine Abwandlung des Bildes von den drei Spiegeln; die Bedeutung ist die gleiche. Der Versuch, das Geheimnis der Dreifaltigkeit durch die drei Spiegel auszudrücken, ist zugleich Hinweis auf Paulus 1 Cor 13, 12: »Videmus nunc per speculum in aenigmate«.
+
+Wie die Taufe Jesu (G) gilt auch die Verklärung mit der Anerkennung der Gottessohnschaft – »Dieses ist mein geliebter Sohn, an dem ich mein Wohlgefallen habe. Ihn sollt ihr hören« – durch Gottvater als Manifestation des
+
+
+[[File:Band03-1_chunk001_p018_img002.jpg|thumb|UN ATRESCONFICHUM]]
+
+
+
+[[File:Band03-1_chunk001_p018_img003.jpg|thumb]]
+
+
+dreifaltigen Gottes, weil sich die Begegnungen von Vater und Sohn im Heiligen Geist vollziehen.
+
+Diese Szene gilt als die wichtigste Bezeugung der Dreifaltigkeit Gottes: »Ecce aperti sunt ei caeli: et vidit spiritum Dei descendentem sicut columbam, et venientem super se. Et ecce vox de caelis dicens: Hic est filius meus dilectus, in quo mihi complacui.«
+
+G<sub>1</sub> MENS UNICA Dreigesichtiger Kopf mit einer gemeinsamen Krone. Picinelli (Liber 3, s. v. caput, Nr. 540 bringt das Bild und Lemma mit folgender Deutung
+
+
+[[File:Band03-1_chunk001_p018_img004.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p018_img005.jpg|thumb|EU.]]
+
+
+»...Optime haec imago SS. Trinitatem spectat, cuius una solum est essentia, una voluntas, una sapientia etc.«
+
+G, LUX SPLENDOR IGNIS Dreieck mit dem Auge Gottes in heller Strahlenglorie. Neben der Übersetzungsmöglichkeit »Licht. Glanz. Feuer.«, die mit den drei Erscheinungsformen des gleichen Elements einen Hinweis auf die Dreifaltigkeit geben kann, ist die wahrscheinlichere: »Licht ist Glanz des Feuers.« Diese Übersetzung präzisiert die gleiche Bedeutung: Das Licht (= Christus) ist mit dem Feuer (= Gottvater) wesensgleich. Erscheinungsform des göttlichen Lichtes ist der Glanz (= Hl. Geist).
+
+EU<sub>1-2</sub> DREIFALTIGKEITS-EMBLEME An der Doppelempore in der Vorhalle im S befinden sich an den Unterseiten je eine emblematische Darstellung, an der unteren EU<sub>1</sub>, an der oberen EU<sub>2</sub>. Die Lemmata stehen jeweils am oberen Bildrand.
+
+EU<sub>1</sub> ABYSSUS ABYSSUM VOCAT (Ps 41, 8) Drei sich schneidende Ringe, in den beiden seitlichen eine Sonne, im mittleren das Tetragramm, am unteren gemeinsamen Schnittpunkt die Geist-Taube.
+
+Das Bild gehört zu den ältesten Dreifaltigkeitssymbolen (RDK, Bd 4, Sp. 417 f.). Die Stelle »Abgrund ruft Abgrund« wird in der Theologie auf die Mehrgestaltigkeit Gottes bezogen.
+
+EU<sub>2</sub> PRAEVOLANTEM SEQUOR Ein Schiff fährt auf dem Meer. An seinen drei Masten blähen sich die Segel. Von rechts blasen zwei Puttenköpfchen. Vor dem Schiff erscheint am Himmel ein T mit zwei Männerköpfen an den Enden des Querbalkens; darüber eine Taube. Am Heck des Schiffes sieht man das Wappen des zur Erbauungszeit regierenden Papstes Clemens XI. Albani mit bekrönender Tiara und gekreuzten Schlüsseln. Darüber drei Herzen unter einer Laterne. Vom vordersten Mast weht ein rotweißer Wimpel mit der Aufschrift REGINA DECOR CAR- MELI; über dem mittleren ist ein schwarzer (Doppel)Adler zu sehen. Auf dem schwarz-gelben Wimpel steht ASPIRAN- TIBUS AUSTRIS. Am hintersten Mast weht die weißblaue Rautenfahne. Auf dem weißblauen Wimpel die Inschrift UNO TRINOQUE DUCE SECURI.
+
+Das Schiff stellt das katholische München dar (Farben Schwarz-Gelb, Papstwappen). Die drei Masten bedeuten die drei Stände, die den Kirchenbau gelobt und als Vertreter der Einwohnerschaft durch das Gelöbnis Gottes Hilfe bewirkt haben. Auf die Stände weisen auch – analog zu D – die drei Herzen auf dem Heckaufbau hin. Rautenfahne und die Farben Weiß und Blau bedeuten Bayern, die Farben Weiß-Rot und der Adler Österreich; auf letzteres weist auch die Inschrift »Aspirantibus Austris« hin (vgl. das Emblem bei Picinelli, Liber 20, s. v. navis, Nr. 68 ASPIRANTI- BUS AUSTRIS). Wegen der Namensähnlichkeit kann in der Emblematik Auster, der Südwind, mit dem Hause Österreich gleichgesetzt werden (vgl. Picinellis Erläuterung zum Lemma perflantibus austris, Liber 11, s. v. lilium, Nr. 136). Die österreichische Administration, 1705–15, unter der die Kirche erbaut und ein großer Teil der Innendekoration
+
+
+[[File:Band03-1_chunk001_p018_img006.jpg|thumb|EU]]
+
+
+verfertigt wurde, hatte den Bau der Kirche begünstigt und vor allem die Errichtung des Karmelitinnenklosters veranlasst: sie hatte erlaubt, daß die Verlassenschaft des Herzogspaares Maximilian Philipp und Mauritia Febronia zur Gründung des Klosters verwendet wurde. Die ersten Karmelitinnen kamen aus Wien.
+
+Maria ist die Patronin der Karmeliten, des Ordo Fratrum B. V. Mariae de Monte Carmelo. Stern und Kreuz an der Mastspitze des Segelschiffes sind Bestandteile des Karmeliterwappens (unbeschuhte Karmeliter). Danach liegt es nahe, daß die drei Masten das Haus Wittelsbach, das Haus Österreich und den Karmeliterorden bedeuten. Aber die Bedeutungen sind jeweils nur alludiert. Das Schiff der Stadt München fährt sicher, geführt vom dreifaltigen Gott. Auf ihn bezieht sich die Inschrift »Uno trinoque duce securi« mit der Taube (des Hl. Geistes?) darüber am hintersten Mast. Ein Symbol Gottes schwebt in den Wolken vor dem Schiff: ein T (= Trinitas), links der Kopf Christi, rechts der Gottvaters, darüber die Taube des Hl. Geistes.
+
+W<sub>1-2</sub> DREIFALTIGKEITS-EMBLEME Im AR sind an den Seitenwänden unter den Oratorien Bildkartuschen: das jeweils dazugehörige Lemma befindet sich über den Oratorien:
+
+
+[[File:Band03-1_chunk001_p018_img007.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p35 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk001.pdf#page=19 -->
+<!-- citation-page-top: Band03-1 p36 -->
+
+
+== DREIFALTIGKEITSKIRCHE ==
+
+
+
+[[File:Band03-1_chunk001_p019_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk001_p019_img002.jpg|thumb]]
+
+
+W, SIMUL UNUS ET SEMPER TRINUS Aus Wolken ragen zwei Hände, die sich umfassen und gemeinsam einen Blumenstrauß halten.
+
+W. IN NOMINE PATRIS / ET FILII ET SPIRITUS SANCTI (Mt 28,19) Aus Wolken ragt die Hand Gottes segnend über der Kuppel von St. Peter in Rom. Die Aufforderung zur Taufe im Namen des Dreifaltigen Gottes mit den Worten Christi: »Gehet hin und lehret alle Völker und taufet sie im Namen des Vaters und des Sohnes und des Heiligen Geistes« gehört zu den Hauptzeugnissen der Dreifaltigkeit.
+
+
+== Literatur ==
+
+
+Lindmayr, Maria, Geschichte der Entstehung der Dreifaltigkeitskirche in München, Ms. von 1714, BSB, Cgm 8491 Beschreibung 1750, S. 103.
+
+Verzeichnis 1760. Crammer, 1781, S. 129. Westenrieder, 1783, S. 205
+
+Geschichtliche Darstellung des vor einhundert Jahren aus einem Gelübde der dreyeinigen Gottheit erbauten Tempels. ... Gedächtnisfeier den 5. Juni 1814. o. V., München 1814.
+
+Hefner, Otto von, Originalbilder aus der Vorzeit Münchens, 19. Stiftung der Dreifaltigkeitskirche 1704, in:
+
+OAVG, 13, München 1852, S. 93–96.
+
+Sattler, Maximilian V., Die hl. Dreifaltigkeitskirche, München 1888.
+
+Halm, Philipp Maria, Die Künstlerfamilie der Asam, München 1896, S. 17.
+
+Mayer-Westermayer, Bd 2, S. 241–47.
+
+Popp, Joseph, Das Innere der Dreifaltigkeitskirche zu München, München 1907.
+
+-, Geschichte der hl. Dreifaltigkeitskirche, München <sup>2</sup>1913 Historisch-Politische Blätter für das katholische Deutschland, Bd 171, München 1923, S. 635–641.
+
+Hanfstaengl, Erika, Kosmas Damian Asam, München 1939. Rupprecht, Bernhard, Die bayerische Rokoko-Kirche, Kallmünz 1959, S. 4, 15, 73-75.
+
+Lippert, Karl-Ludwig, Giovanni Antonio Viscardi (1645 bis 1713), München 1969, S. 29–41.
+
+Hartig Michael, Die Dreifaltigkeitskirche in München (= KKF, Nr. 27) München 1934, <sup>2</sup>1971.
+
+Lieb/Sauermost, S. 135–44 (Friedrich Naab)
+
+Rupprecht, Bernhard, Die Brüder Asam, Regensburg 1980, S. 21, 32, 36 f.
+
+Kemp, Cornelia, Religiöse Sinnbilder, Freilassing 1982, S 4f., 89f, 253f.
+
+Cosmas Damian Asam 1686–1739, Leben und Werk, hg. von Bruno Bushart und Bernhard Rupprecht, München 1986, S. 201–04.
+
+K. S./A. B.
+
+
+== ST. JOHANN NEPOMUK sog. ASAMKIRCHE ==
+
+
+{{End}}

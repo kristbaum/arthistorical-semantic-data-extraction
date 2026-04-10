@@ -1,0 +1,16 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=289
+|Originalseitenbis=289
+|Lemma=Embleme-Register (Band 3-I)
+|davor=Ikonographisches Register (Band 3-I)
+|danach=Bildmotive (Band 3-I)
+}}
+
+Embleme 20-22, 29-36, 128-30, 136, 207
+
+Emblemähnliche Darstellungen: Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Bibel- und Vitazitate. Anstelle der Icones finden sich historische (hagiographische und biblische) oder symbolische Szenen und Figuren sowie Illustrationen zu den Zitaten. 33, 34, 54-56, 95-96, 105-06, 178-79,
+
+{{End}}

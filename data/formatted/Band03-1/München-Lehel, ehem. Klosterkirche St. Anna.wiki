@@ -1,0 +1,164 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=191
+|Originalseitenbis=195
+|Lemma=München-Lehel, ehem. Klosterkirche St. Anna
+|Typ=Sakral
+|Ort=München-Lehel
+|davor=München, ehem. Klosterkirche St. Anna Damenstift
+|danach=München, Bürgersaal
+|AutorIn1=Sinkel, Kristin
+|AutorIn2=Bauer-Wild, Anna
+}}
+
+Cosmas Damian Asam 1686–1739, Leben und Werk, hg. von Bruno Bushart und Bernhard Rupprecht München 1987, S. 299
+
+
+'''Patrozinium:''' St. Anna
+
+
+'''Zum Bauwerk:''' Die vom Klösterl am Walchensee vertriebenen Hieronymitaner (s. CBD Bd 2, S. 195) erhielten am 19. 3. 1725 durch Kurfürst Max Emanuel die Genehmigung zur Niederlassung im Lehel vor München, dessen Bevölkerung ein eigenes Gotteshaus wünschte. Nach der Grundsteinlegung am 19. 5. 1727 durch Kurfürstin Maria Amalia und den Propsi der Liebfrauenkirche, Freiherr von Ow, entstand 1727-33 der Neubau durch Johann Michael Fischer; Bauausführung durch den Maurermeister Philipp Jakob Zwerger. Die Innenausstattung dauerte bis 1738. Vorläufige Benediktion am 24. 12. 1730, Weihe am 19. 9. 1737 durch den Freisinger Weihbischof Johann Ferdinand Joseph von Poedigheim.
+
+Gewölfter Ovalraum mit Wandpfeilergliederung; angeschobener AR über fast kreisrundem Grundriß. Die Vorhalle, ursprünglich über angeschnittenem kreisrunden Grundriß, wurde 1852 beim Bau der neoromanischen Fassade (1944 zerstört, rekonstruiert wurde die alte Fischer Fassade) verändert. Belichtung durch große Fenster über den Seitenaltären, im Chor und auf der Empore von S, O und N. Der Bau wurde fast völlig durch den Bombenangriff am 25. 4. 1944 zerstört, von 1950 an rekonstruiert.
+
+
+'''Auftraggeber:''' Der Kirchenbau war eine Stiftung der Kurfürstin Maria Amalia zum Dank für die Geburt des Kurprinzen Max Joseph am 28. 3. 1727: Allianzwappen des Kurfürstlichen Paares am Chorbogen unter dem W-Rand des Hauptfreskos (Karl Albrecht von Bayern und Maria Amalia von Osterreich). Amtierender Prior während der Ausmalungszeit war P. Engelbertus a SS. Sacramento (1728–31).
+
+
+'''Autor und Entstehungszeit:''' Die heute rekonstruierte Deckenmalerei war im Hauptfresko B über der östlichen Orgelempore signiert C.D. Asam pinxit MDCCXXIX. Cosmas Damian Asam (* 1686 Benediktbeuern † 1739 Weltenburg) besorgte mit seinem Bruder Egid Quirin die gesamte Ausstattung der Kirche: den gemäß der Konzeption Johann Michael Fischers sehr zurückhaltenden Stuck, die Altaraufbauten und die Gemälde. Im Catalogus fundatorum et benefactorum conventus s. Annae wird dazu berichtet: »1729 Herr Cosmas Damian Asam hat am End dises Jahrs das ganze Kirchengewölb in fresco gratis bey unserer armen Kost ausgemahlt, so Er auf 1500 fl geschätzt« (Sturm, S. 22 ff.). Asam war gleichzeitig (1729-31) mit der Ausmalung eines anderen Fischer-Baues in Osterhofen (NB) beschäftigt. Die dort erhaltenen Fresken können deshalb am ehesten eine Vorstellung von der Art der verlorenen Malerei in St. Anna im Lehel vermitteln.
+
+
+[[File:Band03-1_chunk004_p021_img005.jpg|thumb|Rekonstruktion von A Tod der hl. Anna:]]
+
+
+
+[[File:Band03-1_chunk004_p021_img006.jpg|thumb|Rekonstruktion von C]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Muldengewölbe, B Flachkuppel, C kreisrunde Flachkuppel, angeschnitten
+
+Rahmen: stark gekurvte Stuckrahmung in Weiß und Gold, bei A mit Muschelornament besetzt; Stichkappen mit Brokatmuster in Goldocker und Crüngrau
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 13,90 (von der Empore 8,50) m; 5,90 × 8,30
+
+B Höhe 17,40 m; 15,30 × 9,80
+
+C Höhe 13,90 m; 6,20 × 8,20
+
+
+[[File:Band03-1_chunk004_p021_img007.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p191 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=22 -->
+<!-- citation-page-top: Band03-1 p192 -->
+
+<!-- header: ST. ANNA IM LEHEL -->
+
+<!-- header: ST ANNA IM LEHE -->
+
+
+[[File:Band03-1_chunk004_p022_img001.jpg|thumb]]
+
+
+Verbleib: Beim Luftangriff vom 25. 4. 1944 wurden Kloster und Kirche durch Bomben fast völlig zerstört, die barocken Fresken gingen verloren. Den Zustand vor der Zerstörung dokumentieren Farb- und Schwarz-Weiß-Photographien. Nach diesen Photographien rekonstruierte Karl Manninger, Söcking, 1967–76 die Fresken. Der jetzige Zustand gibt soweit möglich den Eindruck der Asamschen Malerei wieder; die Hell-Dunkel-Kontraste scheinen ursprünglich ausgeprägter gewesen zu sein.
+
+Restaurierungen vor der Zerstörung: Das Fresko A über der Orgelemporwurde vielleicht schon beim Fassadenumbau 1852 verdorben. Sturm (S 24) zweifelte die Autorschaft Cosmas Damian Asams an diesem Fresko an und schrieb es A. Müller zu, der es in der Umbauzeit gemalt haben sollte. Die barocken Fresken wurden 1878/79 zum ersten Mal durchgreifend restauriert. Der Maler Bernhard Kress übermalte dabei ganze Partien stilverfremdend. 1934 wurde die originale Substanz wieder freigelegt (Ritter von Hofmann), Fehlstellen stilgemäß ergänzt und der farbige Gesamteindruck wiederhergestellt.
+
+
+== Rekonstruierende Beschreibung und Ikonographie (Vorkriegsphotos) ==
+
+
+A TOD DER HL. ANNA Breitformat, Ansicht nach O mit Standpunkt am Eingang zum Gemeinderaum. Stufen führen in das Bild ein. In Mittelgrund liegt die hl. Anna auf ihrem Totenbett; zwei Engel geleiten ihre Seele (in Kindesgestalt) zum Himmel empor. Zwei Männer und eine Frau sind bei der Toten: durch den zweifelhaften Zustand des Bildes schon vor der Zerstörung können sie nicht mit Sicherheit identifiziert werden. In der Bildtradition des Annentodes, die in das frühe 16. Jh. zurückreicht (LCI, Bd 5, Sp. 183), treten Joachim, Annas Gemahl, Maria und Joseph als beim Tod anwesend auf. – Links sieht man musizierende Die hl. Elisabeth und Zacharias mit dem Johannesknaben. Engel, auf den Stufen sitzen zwei kleine Engel, die in ein aufgeschlagenes Buch blicken. Den seitlichen Bildabschluß bilden glatte fluchtende Mauerstücke; rechts auf einem Sockel ein Rauchfaß.
+
+B DIE HL. ANNA IM GÖTTLICHEN HEILSPLAN Das Groß-Hauptfresko ist im wesentlichen einansichtig; Betrachterstandpunkt unter dem östlichen Drittel. Im S zeigt es mit der Gruppe der alttestamentarischen Figuren, im O mit Engeln, die eine große Draperie halten Relikte einer umlaufenden Szenerie. In der Hauptansicht nach W führen geballte Wolken, die eine säulengetragene Tempelfront zum größten Teil verdecken, ins Bild ein. Hier thront Isaias, eine mächtige Gestalt mit weißem Haar und Bart, die Rechte auf sein Herz, die Linke auf ein aufgeschlagenes Buch gelegt. In den Wolken sind musizierende Engel zu sehen. Ein großer Engel, der in der Hand einen Stab hält, umfängt ein weißgekleidetes Mädchen, das ein großes, aufgeschlagenes Buch hält. Die Darstellung des kleinen Mädchens mit dem Engel besetzt die wichtigste Stelle der Hauptansicht des Freskos, sie ist außerdem ausgezeichnet durch den Tempelportikus, vor den sie plaziert ist. (Hinter der Mädchengestalt sind kleine flügelähnliche Formen zu sehen, wohl fälschlich bei einer frühen Restaurierung aus Gewandteilen des Engels umgedeutet). Der Portikus ist von zwei Säulen getragen, die an ihren Schäften je zwei Reliefdarstellungen aus dem Leben Davids zeigen; links oben: David reißt ein Lamm aus dem Rachen des Löwen (1 Sam 17, 34–35); links unten: David mit der Steinschleuder vor Goliath (1 Sam 17, 49); rechts oben: David psallens; rechts unten: Nathan, der David die Weissagung von seiner Bestrafung durch Gott bringt (2 Sam 12, 7–13). Der Tempel ist damit wohl als das »Haus Davids« präzisiert, dem der von Isaias prophezeite Messias entspringt. – In der Darstellung des Johannesknaben und der hl. Anna ist die hl. Anna als Mutter des Mädchens (Maria) zu verstehen; das Mädchen trägt das Evangelium und verkörpert damit die Kirche. Der Engel symbolisiert die Verkündigung und damit den Beginn des Heilsplans Gottes. 
+
+[[File:Band03-1_chunk004_p022_img003.jpg|thumb|Die hl. Anna im göttlichen Heilsplan (vor der Zerstörung)]]
+<!-- citation-page-bottom: Band03-1 p193 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=23 -->
+<!-- citation-page-top: Band03-1 p194 -->
+
+<!-- header: ST. ANNA IM LEHEL -->
+
+<!-- header: ST. ANNA IM LEHE -->
+
+
+[[File:Band03-1_chunk004_p023_img001.jpg|thumb]]
+
+
+zeite Erlöser entstammt. »Ich werde den Schlüssel des Hauses David auseine Schultern legen; wenn er öffnet, wird niemand schließen, und wenr er schließt, wird niemand öffnen« (Is 22, 22). Auf einer großen Wolke links vom Tempel sitzt David, von Putti begleitet, an seiner Harfe. Die Wolken, die den Tempel zum großen Teil verdecken, dürften sich auf Is 6,4 beziehen, nach dem sich bei der Erscheinung des Herrn der Tempel mit Rauch füllte.
+
+Als Deutungsmöglichkeit für die Szene vor dem Tempel – das Mädchen und der Engel – käme damit in Frage: Anna wird als auserwähltes Werkzeug der Erlösung gezeigt, die von Isaias geweissagt wurde. Das Motiv des Lesens im Buch dürfte analog zu dem Bildthema »Anna lehr Maria« zu sehen sein, bei dem traditionell das Mädchen Maria die Weissagung des Isaias liest.
+
+Die große Wolke, die den Tempel erfüllt, zieht sich nach oben zur Glorie. Über Isaias erscheint zunächst Joseph, der Nährvater Jesu, aus dem Geschlecht Davids, ebenfalls Werkzeug des Heilsgeschehens. Er hält den grünenden Stab, sein Attribut, in Händen; ein Putto hält das Zimmermannswerkzeug. In kraftvoller Bewegung tragen darüber Engel die hl. Anna nach oben; sie ist als Greisin dargestellt und trägt einen Schleier über dem Haupt. Ihr Anteil am Erlösungsgeschehen, angekündigt in der Szene vor dem Tempel, ist vollbracht, die Glorie ist ihr Lohn. Maria als Immaculata Conceptio hält ihre Mutter Anna an der Hand, sie nach oben leitend. Putti und Engel mit Lilien über und unter den beiden Frauengestalten weisen auf die Unbefleckte Empfängnis Mariens durch Anna und auf die jungfräuliche Geburt des Jesusknaben hin und damit auf die wichtigste Stelle der Isaias-Prophezeiung: »Siehe, die Jungfrau wird empfangen und einen Sohn gebären« (Is 7, 14). Vor Maria steht der Jesusknabe als Salvator Mundi auf der Weltkugel. Er streckt die Arme aus nach Gottvater, der, von Engeln umgeben, vor der lichtumstrahlten Glorie thront, über ihm in Strahlenkranz die Taube des Heiligen Geistes. Der Jesusknabe ist sowohl der Gruppe der Drei Göttlichen Personen zugeordnet als auch Maria und Joseph. Das Bildthema der Himmlischen und Irdischen Trinität klingt damit an. In die Irdische Trinität ist die Kirchenpatronin Anna als Mutter Mariens miteinbezogen. In dem nahen Beieinander von Anna, Maria und Jesusknaben wird wohl auch auf die alte Bildtradition der Anna Selbdritt angespielt.
+
+[[File:Band03-1_chunk004_p023_img002.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk004_p023_img003.jpg|thumb|Engel mit dem Kind Anna]]
+
+
+
+[[File:Band03-1_chunk004_p023_img004.jpg|thumb]]
+
+
+damit an. In die Irdische Trinität ist die Kirchenpatronin Anna als Mutter Mariens miteinbezogen. In dem nahen Beieinander von Anna, Maria und Jesusknaben wird wohl auch auf die alte Bildtradition der Anna Selbdritt angespielt.
+
+An der nördlichen Freskoseite folgt auf die Figur des psallierenden David Zacharias, als Hoherpriester gekleidet, ein Rauchfaß in Händen. Ein Engel hält als sein Attribut ein Buch, während seine Gemahlin Elisabeth den kleinen Johannesknaben emporhebt. Dieser ist durch das Kreuzfähnchen, das er hält, und das Lamm zu seinen Füßen gekennzeichnet.
+
+Auffällig und nicht zu erklären ist unter den Figuren der Hl. Sippe das Fehlen Joachims, der Gemahl Annas und Vater Mariens war.
+
+C TUGENDEN DER HL. ANNA Auf Wolken, von einem goldenen Strahlenkranz hinterfangen, sind vier große Engel mit den Namensbuchstaben der hl. Anna dargestellt. Farbe der Gewänder und Attribute versinnbildlichen zugleich die Tugenden der Heiligen: der mittlere Engel mit rotem Gewand und Feuerflammen auf dem Haupt versinnbildlicht die glühende Gottesliebe, der Engel rechts von ihm mit grünem Gewand und einem Anker und grünem Kranz stellt die Hoffnung dar (die Erlösungshoffnung der Menschheit ging mit ihrer Tochter in Erfüllung), der Engel links in blauem Gewand mit einem Rosenkranz, eine Opferschale, aus der Rauch aufsteigt, in der Linken, erinnert an das Gebet der hl. Anna, das wie Wohlgeruch zum Himmel aufstieg, mehr im Hintergrund weist ein vierter Engel mit einem Kreuz und Lilienkranz auf die Reinheit und den Glauben der Heiligen hin
+
+Literatur: Verzeichnis 1760
+
+
+[[File:Band03-1_chunk004_p023_img005.jpg|thumb|Ausschnitt aus dem Kuppelfresko B, Zentrum: Das Jesuskind auf der Weltkugel vor Gottvater (vor der Zerstörung)]]
+
+
+ammer 1781, S. 159. stenrieder 1789 S 104
+
+103, 0. 194 Hötzl, P. Petrus, Geschichte der Klosterpfarrkirche St. Anna in München, München 1870
+
+Schmidtsche Matrikel, S. 185.
+
+ayer-Westermayer, Bd 2, S. 402 f.
+
+Destouches, Ernst von, Gedenkblatt und Urkunde zur Feier der Grundsteinlegung... St. Anna in München, München 1887, S. 1–6.
+
+KDB 1 OB 2, S. 952 f.
+
+Sturm, Joseph, Die St. Anna-Pfarrkirche in München, Festschrift zum 25-jährigen Pfarrjubiläum, P. Remigius Stadler, München 1915.
+
+Gatz, Fr. Johann Baptist, Zum 100. Gedenktag... St. Anna im Lehel, Pfarrkirchenjahr 1929, S. 31 f.
+
+Kunst und Antiquitäten Rundschau 42, 1934, S. 407
+
+turm, Joseph, Verherrlichung der hl. Anna in der Klosterkirche St. Anna im Lehel, Pfarrkirchenjahr 1935, S. 22–25.
+
+Rupprecht, Bernhard, Die bayerische Rokokokirche, Kallmünz 1959, S. 15 f., 58, 81 – 83, 93.
+
+Dehio-Gall, OB, S. 10f.
+
+Lieb/Sauermost, S. 145–150 (Veit Loers)
+
+Lutz, P. Dominikus, 250 Jahre Klosterkirche St. Anna in München-Lehel, Dokumentation einer Rekonstruktion-Restauration-Renovation, München 1977.
+
+Grän, P. Sigfried, Klosterkirche St. Anna am Lehel, München/Zürich <sup>1</sup>1980 (= KKF, Nr. 42).
+
+Rupprecht, Bernhard, Die Brüder Asam, Regensburg 1980, S. 42, 46, 182. Cosmas Damian Asam, Leben und Werk, hg. von Bruno Bushart und Bernhard Rupprecht, München 1986, S. 295–98.
+
+K.S./A.B.
+<!-- citation-page-bottom: Band03-1 p195 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=24 -->
+{{End}}

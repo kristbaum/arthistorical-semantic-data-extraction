@@ -1,0 +1,76 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=257
+|Originalseitenbis=258
+|Lemma=Neuried (Kr. München), Kuratiekirche St. Nikolaus
+|Typ=Sakral
+|Ort=Neuried (Kr. München)
+|davor=München, Stadtpfarrkirche St. Peter
+|danach=München-Mittersendling, Pfarrkirche St. Achaz
+|AutorIn1=Böhm, Cordula
+}}
+
+Kuratiekirche St. Nikolaus, Franz Schusterstraße 40, Pfarrei Forstenried, Erzdiözese München und Freising; z.Z. der Ausmalung Landgericht Starnberg
+
+
+'''Patrozinium:''' St. Nikolaus
+
+
+'''Zum Bauwerk:''' Die Kirche wird 1194 als Pfarr-, 1315 als Filialkirche erwähnt. Das LHs und das Untergeschoß des Turms stammen noch aus der Romanik; der Chor zeigt spätgotische Formen (Bauinschrift im Chor 1484). Barockisierung 1. Hälfte 18. Jh. Dreijochiger Saalbau, eingezogener, dreiseitig geschlossener AR, hohe Rundbogenfenster. Die Deckenbilder befanden sich im LHs, sie sind nicht erhalten.
+
+'''Autor und Entstehungszeit:''' Die Bilder waren einfache Arbeiten wohl eines lokalen Meisters aus der Zeit um 1730.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: ehem. Flachdecke mit Hohlkehle Rahmen: Stuckprofilrahmen an der sonst schmucklosen Decke Technik: Fresko mit Secco; polychrom Maße: ungefähr rekonstruiert
+
+A Ø 0,80
+
+B 2,00 X 1,00
+
+C Ø 0,80
+
+Verbleib: Die Deckenbilder existieren nicht mehr, sie wurden anläßlich von Restaurierungsmaßnahmen im März 1970 heruntergeschlagen und vernichtet, die barocke Decke wurde durch eine neue Holzdecke ersetzt. Nach dem Vorschlag des BLfD sollten die Fresken abgenommen, in eine neue, höher gesetzte Decke eingeputzt und mit dekorativer Gewölbemalerei ergänzt werden. Am 13. 3. 1970 wurde durch das BLfD der Abbruch der Deckenbilder festgestellt (BLfD, Akten Neuried, St. Nikolaus).
+
+
+[[File:Band03-1_chunk006_p004_img001.jpg|thumb|A Himmelfahrt Mariens (vernichtet)]]
+
+
+
+[[File:Band03-1_chunk006_p004_img002.jpg|thumb|B Die hll. Diakone und Martyrer Stephanus und Laurentius (vernichtet)]]
+
+
+
+[[File:Band03-1_chunk006_p004_img003.jpg|thumb|C Der hl. Georg (vernichtet)]]
+<!-- citation-page-bottom: Band03-1 p257 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=5 -->
+<!-- citation-page-top: Band03-1 p258 -->
+
+<!-- header: NEURIED -->
+
+<!-- header: SENDLING ST. ACHAZ -->
+
+
+== Darstellungen ==
+
+
+(Reihenfolge nicht mehr bekannt)
+
+A HIMMELFAHRT MARIENS, zu ihren Häupten das Dreieck der Dreifaltigkeit mit dem Auge Gottes, zu ihren Füßen der leere Sarkophag  
+B DIE HLL. DIAKONE UND MARTYRER STEPHANUS – mit drei Steinen auf dem Evangeliumsbuch und Palmzweig - und LAURENTIUS- mit Rost und Palmzweig  
+C DER HL. ERZMARTYRER GEORG als Drachentöter, im Hintergrund die befreite Prinzessin
+
+
+== Literatur ==
+
+
+KDB I OB (1), S. 793
+
+C B.
+
+{{End}}

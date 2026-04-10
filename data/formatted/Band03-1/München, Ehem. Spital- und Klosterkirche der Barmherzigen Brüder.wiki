@@ -1,0 +1,49 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=263
+|Originalseitenbis=263
+|Lemma=München, Ehem. Spital- und Klosterkirche der Barmherzigen Brüder
+|Typ=Sakral
+|Ort=München
+|davor=München, Bibliothek des Klosters der Augustiner-Eremiten
+|danach=München, Kapelle im ehem. Stadthaus des Klosters Ettal
+|AutorIn1=Böhm, Cordula
+}}
+
+Ehem. Spital- und Klosterkirche der Barmherzigen Brüder am Sendlinger-Tor-Platz, Stadtpfarrei St. Peter, am 16. 3. 1809 säkularisiert, die Einrichtung wurde versteigert, der Raum verbaut (Krankensäle 1–5). Die Kapelle befand sich an der S-Seite des Spitals. 1813 wurde sie durch die Kapelle zu den hll. Maximilian und Rochus im allgemeinen Städtischen Krankenhaus links der Isar ersetzt.
+
+'''Patrozinium:''' hl. Maximilian von Lorch, Martyrer, 12. 10.
+
+'''Zum Bauwerk:''' 1750 Niederlassung der Barmherzigen Brüder (fratres misericordiae Ordinis S. Joannis de Deo) aufgrund einer Genehmigung Kurfürst Maximilian Josephs III. Der Orden diente der Pflege männlicher Kranker, etwa gleichzeitig ließen sich die Elisabethinerinnen zur Pflege weiblicher Kranker in der Nachbarschaft nieder (s. S. 209); beide Orden hatten ihr Provinzialkloster in Prag. Besondere Wohltäter waren Kurfürstin Maria Amalia, die Mutter Maximilians III., mit einer Stiftung von 3000 fl., die auch den Grundstein zum Kirchen- und Klosterbau legte, sowie Graf Max Emanuel von Perusa († 1755, in der Kirche begraben). Beginn des Kirchenbaues im Oktober 1750, des Klostergebäudes 1752. Baumeister Franz Anton Kirchgrabner (Lieb nennt Johann Michael Fischer). 1754 Fertigstellung des Spitals; der Kirchenbau zog sich noch über Jahre hin, Baukosten bis 1770 60365 Gulden. Weihe am 11. 5. 1772 durch Bischof Joseph Ludwig von Freising. Die Kirche hatte fünf Altäre, das Choraltarbild, eine Darstellung des hl. Maximilian, war ein Werk des Johann Nepomuk de la Croce aus Burghausen.
+
+'''Auftraggeber:''' Prior Alanus Lesnitzer bzw. sein Nachfolger Prior Riccardus Reichler (bis ca. 1779)
+
+Autor und Entstehungszeit: Die Ausmalung stammte von Matthäus Günther (* 1705 Peißenberg † 1788 Haid bei Wessobrunn): »Der Plafond, auf welchem die Geschichte des hl. Ordensstifters zu sehen, ist von Günther« (Westenrieder, S. 195).
+
+Datierung späte 50er Jahre des 18. Jh. (Lieb, S. 29)
+
+Verbleib: Das Deckenbild ging durch den Neubau der Kapelle nach der Säkularisation verloren.
+
+Darstellung: Leben und Wirken des Ordensstifters Johannes von Gott (s. open)
+
+
+== Literatur: ==
+
+
+Crammer 1781, S. 159
+
+Westenrieder 1783, S. 195
+
+Geiß, Ernest, Geschichte der Stadtpfarrei St. Peter in München, München 1868, S. 346f.
+
+Destouches, Ernst von, Das ehem. Spital und die Kirche der Barmherzigen Brüder zu St. Max vor dem Sendlingerthore, in OAVG 29, 1869/70, S. 273–292.
+
+Mayer-Westermayer, Bd 2, S. 393–95
+
+C. B.
+<!-- citation-page-bottom: Band03-1 p263 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=8 -->
+{{End}}

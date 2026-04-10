@@ -1,0 +1,131 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=82
+|Originalseitenbis=85
+|Lemma=München-Harlaching, Filial- und Wallfahrtskirche St. Anna
+|Typ=Sakral
+|Ort=München-Harlaching
+|davor=München-Fröttmaning, Filialkirche Hl. Kreuz
+|danach=München-Lochhausen, Pfarrkirche St. Michael
+|AutorIn1=Lüdicke, Lore
+}}
+
+<!-- citation-page-top: Band03-1 p82 -->
+
+<!-- header: HARLACHING -->
+
+
+== HARLACHING St Anna ==
+
+
+Filial- und Wallfahrtskirche St. Anna, Harlachinger Berg 30, Stadtpfarrei Heilige Familie, Erzdiözese München und Freising; z. Z. der Ausmalung Filiale der Pfarrei Biberg (Unterbiberg), Präsentationsrecht beim Kloster Tegernsee, Kirchenpatronat mit Rechnungsführung Rat der Stadt München (magistratus civium monacensium), Gericht Wolfratshausen
+
+
+'''Patrozinium:''' St. Anna
+
+
+Fest 26. 7. und St. Anna-Dreißiger im September; St Anna-Bündnis 1732–1853, seit 1931 St. Anna-Bruderschaft
+
+'''Zum Bauwerk:''' Der Bestand einer St. Anna-Kirche ist seit 1163 archivalisch nachgewiesen. Der spätgotische Bau erlitt im 16. und 17. Jh. Zerstörungen und erfuhr im 18. Jh. eine umfassende bauliche Umgestaltung und Neuausstattung. Für die Bauplanung (ab 1751) wird Johann Michael Fischer angenommen.
+
+Über die Baumaßnahmen geben die Abrechnungen der Filialkirche St Anna vom Jahr 1753 folgende Auskunft: »Nach vorher ordentl: bewirck Gnädigst Geistl. Raths Consens dato 13. Martij ao diss hat man den nothwenigen Kirchen- und Thurm Bau diss Jahr vorgenommen.« -
+
+»Nachdem das liebe Gottshaus im octobri Endlich unter das Tach gebracht worden, hat man denen Maurern: Zimmerleuthen und Tagwerckern... jedem ein Tagelohn zusammen aber laut abgefolget 9f. 33 kr.« (StadtA München, Kultusstiftungen 474/105, fol. 16 u. 20 v. Zwischen 1744 und 1755 finden sich keine Künstlerhonorare in den von 1630-1755 erhaltenen Abrechnungen.)
+
+Der Bau war jedoch 1753 noch nicht vollständig fertiggestellt, wie aus einem Kostenvoranschlag hervorgeht:
+
+»Yberschlag-Was noch zu außbauung der Löbl. S. Anna Kirchen zu Harläding... an Baukosten ergehen möchte. Verfaßt München dem 8. Juli 1758. – Erstlich so weillen bey dißer Kirchen der Kirchen Thurn nur etwaß über die Helfte ist aufgeführt und gebauet, auch die gantze Kirchhof Mauern durchauß höchst baufällig sich findet, wie ingleichen noch dise Kirch außwendig zu verputzen sey... Joh. Michael Fischer Bürger und Maurermeister« (BHStA I, Gericht Wolfratshausen, Literalien 4543; vollständig zitiert bei A. Grad, S. 75).
+
+Im Visitationsbericht vom 28./29. 8. 1761 wird vermerkt, die Kirche »stehet actu in der Reparation«; sie wurde dabei schon für den Kult benutzt (AEM Freising Statistik, Bd 58, S. 189). Die Jahreszahl 1761 über dem Chorbogen gibt
+
+Anna und Joachim mit dem Kind Maria
+
+Anna und Joachim in der Glorie
+
+einen Hinweis darauf, daß die Baumaßnahmen in diesem Jahr zum Abschluß gekommen sind.
+
+Der Kircheninnenraum war bereits 1756 im wesentlichen fertiggestellt: In diesem Jahr erfolgten Freskierung und Stuckierung, und der Hochaltar, für den ein von Ignaz Günther signierter Entwurf von 1754 im Germanischen Nationalmuseum Nürnberg erhalten ist, war sicher aufgestellt. Die weitere Ausstattung zog sich noch bis 1768 hin (Rahmenwerk des St. Anna-Seitenaltars 1744/45 und des St. Joachim-Seitenaltars 1759/60, Kanzelaufstellung 1767, Vergoldung 1768).
+
+Saalraum mit Pilastergliederung, von NO und SW her durch je zwei große Fenster und ein Rundfenster über den westlichen Eingangstüren beleuchtet, im NW Empore Stark eingezogener, flach geschlossener AR, der das Untergeschoß des Turmes einnimmt und nur vom NO-Fenster her direktes Tageslicht erhält. Neben dem AR sind die Ecken im LHs abgeschrägt und als flache Nischen für die Nebenaltäre gebildet. Die Kirche ist nach SO gerichtet.
+
+'''Auftraggeber:''' Das Münchner Stadtwappen über dem Chorbogen dokumentiert das Patronatsrecht des Rates der Stadt, dem die Rechnungsführung oblag (vgl. die Abrechnungen im StadtA München, loc. cit. und die Erwähnung dieses Rechtes bei den Visitationsberichten, AEM Freising Statistik, loc. cit., S. 203). Z. Z. der Ausmalung amtierte der Biberger Pfarrer Michael Katzmayr 1756 (ab 8. 5.) bis 1772
+
+'''Autor und Entstehungszeit:''' Fresko A ist rechts unten signiert Zimm. pinxit / 1756. Anlage des Schauplatzes, architektonische Versatzstücke und Figurentypen stammen zwar aus dem Repertoire Johann Baptist Zimmermanns, doch zeigen Details und Farbgebung, daß es sich um kein eigenhändiges Werk handeln kann, sondern um die Arbeit eines Schülers nach einer Zimmermann-Skizze. Stilistische Merkmale der Harlachinger Malereien finden sich im großen Fresko im Steinernen Saal in Nymphenburg wieder, wo neben Heigl – Zimmermanns Sohn Franz Michael nach eigenen Angaben mitarbeitete. Man kann also mit einiger Sicherheit das Harlachinger Fresko Franz Michael Zimmermann (* 1709 † 1784) zuweisen, wofür auch die Signatur spricht.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A (LHs) Tonne mit Stichkappen gegen SO gemuldet, B Hängekuppel
+
+Rahmen: A Stuckprofil von Rocaillen und zwei Inschriftkartuschen überlappt, B Stuckprofil von vier Kartuschen in den Hängezwickeln überschnitten
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 8,50 m; 7,40 × 5,00
+
+B Höhe 7,90 m; 3,30 × 3,30
+
+Erhaltungszustand und Restaurierungen: Restaurierungen
+
+
+[[File:Band03-1_chunk002_p017_img001.jpg|thumb|A Die hll. Anna und Joachim mit dem Kind Maria]]
+<!-- citation-page-bottom: Band03-1 p83 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=18 -->
+<!-- citation-page-top: Band03-1 p84 -->
+
+<!-- header: HARLACHING -->
+
+'''B Die hll. Anna und Joachim in der Glorie'''
+
+
+gen der Kirche haben stattgefunden: 1889, 1933, 1959 (Wiederherstellung der Originalfarbtönungen von Decke und Wänden nach Angaben des BLfD, Aufdeckung des gemalten Münchner Wappens und der Jahreszahl 1761 über dem Chorbogen), 1960 (Außenrestaurierung), 1972-73 (Dachinstandsetzung, erneuter Außenanstrich). Die Fresken sind augenscheinlich nicht durch Restaurierung verändert. In Fresko A finden sich einzelne verfärbte Scheitelrisse und weitere leichtere Risse. Rechts im Bild ist die Farbsubstanz des Blau im Vorhang und im Gewand der Magd beschädigt. Fresko B ist in der Mitte fleckig und zum Rand hin grau verschmutzt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A ANNA UND JOACHIM MIT DEM KIND MARIA Stuckrocaillen und Inschriftkartuschen begleiten den geschweiften Profilrahmen ohne bildhafte Verschmelzung mit der Freskodarstellung (vgl. Thon, S. 173). Die einansichtig, hochformatig komponierte Szene ist in geringer Untersicht gegeben, Standpunkt etwas gegen NW vom Zentrum verschoben.
+
+Für die zentrale Figurengruppe ist ein Bildschauplatz aus Stufenpodest, geschwungener Brüstung und Wand und einer Säule mit Gebälk und Draperie gebaut. Der Wolkenhimmel wird durch das lichte Zeichen der Dreifaltigkeit, ein Dreieck mit dem Auge Gottes, ikonologisch bezeichnet. Zwei Engel auf den tief herabreichenden Wolken links bilden das kompositionelle Gegengewicht zur Säule rechts; inhaltlich beziehen sie die Mittelgruppe auf die Himmelsdarstellung.
+
+Die hl. Anna hält ihr Kind über der Wiege empor. Maria mit dem Sternenkranz um das Haupt und der zu ihrer Seite stehende Vater Joachim heben die Hände zum Himmel. Eine Magd, die gerade Windeln ausbreitet, kniet vor der Wiege; eine weitere setzt links einen Wasserkrug auf die Brüstung.
+
+Ocker in Farbbrechungen von Rosa, Violett, Gelb, Grün und Grau bildet im Schauplatz die Grundfarbigkeit. Während Anna, in Gelbocker, Türkis und Violett gegeben, in die Grundfarbigkeit eingebunden ist, stehen die Rot- und Grünwerte bei Joachim stärker in Kontrast gegen den Grund. In der Figur Mariens sind die hellsten Farbwerte verwendet, sie ist dadurch wie das Dreifaltigkeitssymbol ausgezeichnet.
+
+Ikonographisch ist die Szene von Darstellungen der Geburt Mariens herzuleiten, von daher stammen die Wiege – sie ist mit den Initialen MA (= Maria und Anna) versehen –, der Windelkorb und der Wasserkrug wie auch die beiden Mägde. Für die Hauptfiguren ist der Typus der Hl. Familie vorbildlich.
+
+Die Kartuscheninschriften entstammen dem Ave Maria: IN / MORTIS / HORA (nordöstlich, links), PRO / NOBIS / ORA (südwestlich, rechts).
+
+B ANNA UND JOACHIM IN DER GLORIE Das kleine Kuppelfresko in quadratischem Format zeigt die Eltern Mariens nebeneinander auf Wolken thronend in großfiguriger Darstellung. Eine gelblich-graue Gloriole hinterfängt die Heiligen. Anna hält ein Buch mit zwei weißen Tauben darauf, ein Putto zur Seite trägt eine gelbbraune Blüte (Sonnenblumen?). Joachim ist durch die Hirtenschippe gekennzeichnet.
+
+Das mäßig belichtete Fresko hat eine düster-graue Farberscheinung; die Figuren sind in denselben, dabei weniger differenzierten Buntfarben wie in Fresko A gemalt. Am Altar darunter befinden sich das spätmittelalterliche Annaselbdritt-Gnadenbild und die Figuren Joachims und Josephs aus der Ignaz Günther-Werkstatt.
+
+
+== Literatur ==
+
+
+Die Wallfahrtskirche zu Harlaching bei München, in: Kalender für katholische Christen 1862, S. 53–55. Mayer-Westermayer, Bd 2, S. 472 u. 656
+
+KDB I OB (2), S. 950.
+
+Baumgärtner, Georg August, 1910–1935: 25 Jahre Gartenstadt Harlaching, München 1935, S. 50–51.
+
+Vogel, Hanns, Au, Giesing, Haidhausen – 100 Jahre bei München 1854–1954. München 1954.
+
+Reitzenstein, Alexander Freiherr von, Frühe Geschichte rund um München, München 1956.
+
+Englmann, Heinrich und Leopold Ellner, St. Anna Wallfahrtskirche München-Harlaching (= KKF, Nr. 51) München <sup>3</sup>1973.
+
+Grad, A., Harlaching vom Miocän bis heute, München 1974, S. 23–35, 42–47 u. 64–75 (Lokalhistorische Materialsammlung mit Angabe und Verwertung von Archivalien, Pfarrei Heilige Familie München).
+
+Wild, Therese, Chronik der Filial- und Wallfahrtskirche Sankt Anna München-Harlaching, München 1977 (Hektographierte Schrift, Pfarrei Heilige Familie München).
+
+Thon, Christina, Johann Baptist Zimmermann als Stukkator, München 1977, S. 173 u. 343. L. L.
+<!-- citation-page-bottom: Band03-1 p85 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=19 -->
+{{End}}

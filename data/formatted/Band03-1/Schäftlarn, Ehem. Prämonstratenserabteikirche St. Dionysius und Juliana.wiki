@@ -1,0 +1,267 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=149
+|Originalseitenbis=159
+|Lemma=Schäftlarn, Ehem. Prämonstratenserabteikirche St. Dionysius und Juliana
+|Typ=Sakral
+|Ort=Schäftlarn
+|davor=Ottendichl, Pfarrkirche St. Martin
+|danach=Siegertsbrunn, Pfarrkirche St. Peter
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Ehem. Prämonstratenserabteikirche, jetzige Benediktinerabtei, Erzdiözese München und Freising; das 762 gegründete, zugrundegegangene Benediktinerkloster wurde 1140 durch Bischof Otto von Freising als Prämonstratenserpriorat neu gegründet, 1598 zur Abtei erhoben, 1803 Aufhebung des Klosters, 1803-65 Pfarrkirche, 1866 Benediktinerpriorat, seit 1910 Benediktinerabtei
+
+
+'''Patrozinium:''' St. Dionysius und Juliana
+
+
+'''Zum Bauwerk:''' Beginn des Neubaus an Stelle der baufälligen mittelalterlichen Kirche 1733 unter Abt Hermann Josef Frey (1719–51) nach Plänen von François Cuvilliés. 1740 Einstellung des Baus, Fortführung nach Planänderung durch Johann Georg Gunetzrhainer ab 1751, Bauausführung 1751/54 unter Johann Michael Fischer. 1752/53 Einwölbung; 1754/56 Innenausstattung. Fertigstellung und Benedizierung Ostern 1757; feierliche Weihe am 9. 11. 1760 durch den Freisinger Weihbischof Franz Ignaz von Werdenstein.
+
+Wandpfeilerkirche: LHs zu drei Jochen mit zentralisierender Tendenz durch größere Länge und Breite des mittleren Jochs sowie durch konkave Einrundung der umgebenden Pfeiler im O und W. Die seitlichen Anräume im N und S sind als Nischen ausgebildet und ihr Gewölbe durch die größere Breite im Vergleich zum ersten und dritten LHs-Joch bei gleichem Gewölbeansatz bedeutend höher; die drei LHs-Joche sind durch eine zum Chor hin eingezogene, zum LHs hin eingerundete Pfeilerstellung mit genau entsprechender W-Wand-Anlage zusammengeschlossen; Empore im W.
+
+Querrechteckiger Chor, dessen Eigenständigkeit innerhalb der Raumfolge durch die Einrundung der ihm zugewandten Pfeilerseiten betont ist; AR in der Form eines zu einem Drittel angeschnittenen Längsovals.
+
+Gleichmäßige Belichtung der Gewölbezone durch Fenster über dem Gesims in allen Jochen; zusätzliche Fenster im Wandbereich im ersten und dritten LHs-Joch.
+
+'''Auftraggeber:''' Abt Felix Gege von Schäftlarn (1752–76), dessen Wappen sich rechts zusammen mit dem Hermann Josef Freys (links) am Gurtbogen über der Orgel befindet.
+
+'''Autor und Entstehungszeit:''' Die Deckenbilder sind weder signiert noch datiert. Das Schließen der Gewölbe im Chor 1752 und im LHs 1753 gibt den terminus post quem, die Benedizierung zu Ostern 1757 den terminus ante quem Die Chronik des Kloster- und Kirchenbaues faßt die Jahre 1754–56 zusammen: »...1754, 1755, 1756. Sind die Kuppeln im Chor und Langhaus mit Mahlerey in fresco, die Gewölbe ... mit Stuckador Arbeit, und darauf angebrach ten Vergoldungen ausgemacht ... worden« (BHStA I, KI Schäftlarn 7, fol. 137 v). Hinter dem letzten Datum 1778 erfolgt eine Nennung der Namen der beim Bau beteiligter Künstler: »Die Künstler, welche mit Auszihrung der Kür chen ihre Kunst gezeigt haben, waren der beriemte Zimmermann in Fresco und Stuckador...« (loc. cit., fol. 138 v). In der Reihe der Spätwerke Johann Baptist Zimmermann (* 1680 Gaispoint bei Wessobrunn † 1758 München) ist Schäftlarn nach der Ausmalung von Andechs 1752 (Thon Anm. 694), dem Hauptfresko in der Wies von 1754 (CBD Bd 1, S. 602) und vor der Arbeit in Neustift bei Freising 1756 und der Ausmalung des Steinernen Saales von Nymphenburg 1756/57 (s. CBD, Bd 3, II) einzuordnen.
+
+Der Anteil der Mitarbeiter Zimmermanns bei der Ausführung der von ihm entworfenen Deckenbilder ist in seinen
+
+
+[[File:Band03-1_chunk003_p025_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p149 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=1 -->
+<!-- citation-page-top: Band03-1 p150 -->
+
+[[File:Band03-1_chunk004_p001_img001.jpg|thumb|A David psallens]]
+
+letzten Lebensjahren sehr hoch. In dieser Zeit kommen dafür in Frage Zimmermanns Sohn und langjähriger Mitarbeiter Franz Michael (* 1709 Miesbach † 1784 München), der nur für unwichtigere Partien in Frage kommt (s. CBD, Bd 3, II, Schloß Nymphenburg, Festsaal), und Martin Heigl (* Konstanz † 1776 München), der Zimmermanns Stil am nächsten kam und dessen Anteil an der Ausführung der Fresken mit den Jahren immer größer wird (loc. cit.).
+
+Das Hauptfresko in Schäftlarn zählt mit Recht zu Zimmermanns besten Werken: doch kann man auch hier als eigenhändige Arbeit nur die eigentliche Gründungsgruppe bezeichnen; ebenso wie in C auch nur die Hauptgruppe. Heigls persönlicher Stil – die kompakten Farben, die grünlichen Schatten, die breitere Pinselführung und die weichere Faltenbildung -, der sich in einem seiner erster selbständigen Werke, der Ausmalung der Pfarrkirche in Aibling (LKr. Rosenheim, vgl. auch unsere Zuschreibung der Malereien in Großhesselohe, s. S. 117-19), schon voll ausgeprägt zeigt und sich auch in der Freskierung des Steinernen Saales von Nymphenburg 1756/57, s. CBD Bd 3, II, gut fassen läßt, ist auch in Schäftlarn erkennbar. Er war hier maßgeblich beteiligt: Fresko E muß ihm ganz zugewiesen werden. Allerdings ist hier der stilistische Einfluß Zimmermanns noch weit größer als wenige Jahre später in Nymphenburg.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs A und C Tonnengewölbe, B Flachkuppel mit Pendentifs; Chor Flachkuppel mit Pendentifs; AR Muldengewölbe
+
+Rahmen: A und C Rocailleornamentrahmen; B ornamentiertes Stuckprofil mit übergreifenden Ornamentkartuschen im Achsenkreuz und in den Diagonalen; B<sub>1-4</sub> Rocailleornamentkartuschen; D ornamentiertes Stuckprofil mit übergreifenden Ornamentkartuschen im Achsenkreuz und in den Diagonalen; D<sub>1-4</sub> Rocaille-Ornamentkartuschen; E Rocaille-Ornamentrahmen
+
+Technik: Fresko, der abschließende Deckel des Heiliggeistlochs in C Öl auf Blech;
+
+A, B, C, D, E polychrom; B<sub>1-4</sub>, D<sub>1-4</sub> Grisaillen auf Goldgrund
+
+Maße: A Höhe 16,70 m; 4,50 × 6,80
+
+B Höhe 19,00 m; 10,80 × 13,40
+
+C Höhe 16,70 m; 4,50 × 6,80
+
+D Höhe 16,60 m; 8,80 × 8,10
+
+E Höhe 16,00 m; 4,80 × 7,00
+
+Erhaltungszustand und Restaurierungen: Letzte Restaurierung 1954-59 durch Sepp Hilz, Aibling. Die originale Farbigkeit der Fresken ist sehr gut erhalten. Es sind nur geringe Schäden zu verzeichnen: Alle Fresken weisen leichte Risse auf. In B ist in der Himmelspartie eine ausgebesserte Stelle und darunter, an der Burg, sind Feuchtigkeitsschäden zu erkennen. Die auf einen Blechdeckel gemalte Figur Christi in Fresko C ist nachgedunkelt und schadhaft. In D ein verkitteter Querriß und zwei Feuchtigkeitsstellen beim östlichen Bildrand.
+
+
+== Beschreibung ==
+
+
+Die beiden architektonisch wichtigsten Raumteile, das mittlere LHs-Joch und der Chor, sind durch gewölbefüllende Deckenmalereien ausgezeichnet, während das erste und dritte LHs-Joch nur kleine Bildfelder zeigen. In dieser Rhythmisierung der Bildanordnung folgt die Dekoration der Absicht des Architekten zur Zentrierung jeweils des Gemeinderaums und des Chors, die auf die Doppelbestimmung der Kirche als Pfarr- und Klosterkirche eingeht, eine Tendenz, die auch im ikonologischen Programm deutlich wird. Das Fresko in der Apsis ist – auch ikonologisch - Abschluß des Hochaltaraufbaues.
+
+A DAVID PSALLENS Über der Orgelempore ist auf Wolken König David mit der Harfe dargestellt, umgeben von musizierenden Engeln. Über der Gruppe ist der Himmel zu einer Glorie geöffnet, in der von Strahlen umgeben das Dreifaltigkeitssymbol, ein Dreieck mit drei Flammen, erscheint
+
+B GRÜNDUNG DES PRÄMONSTRATENSERKLOSTERS SCHAFTLARN Das Bild gibt über eine landschaftliche Rahmenszenerie hinweg Einblick in einen Glorienhimmel. In der perspektivischen Konstruktion ist die Schrägansicht vorweggenommen, indem die »zentrale« Glorie konzentrisch an den westlichen Bildrand verschoben und die »umlaufende« irdische Zone am westlichen Bildrand vom Rahmen überschnitten ist. Dadurch entsteht trotz der Zentralanlage eine Betonung der Hauptansicht von W nach O, die der Einansichtigkeit sehr nahe kommt, in einer »modernen« Lösung des Widerspruchs zwischen Historienbild und illusionistischer Zentralperspektive. Eine Lösung, die bei gleichzeitiger Aushöhlung des illusionistischen Gedankens im fortgeschrittenen 18. Jh. der zentralisierenden Tendenz der Architektur gerecht wird. Dabei ist bezeichnend, daß der Betrachterstandpunkt nicht durch eine in sich logische perspektivische Konstruktion bestimmt wird, sondern allein durch die Wahl des Ausschnitts vermittels des Einblickwinkels.
+
+Eine weite Landschaft bildet den irdischen Schauplatz. Sie wird als das Ufer eines reißenden Flusses gezeigt, der im Bildmittelgrund, aus der Tiefe kommend, dahinschießt; rechts zweigt ein kleiner Seitenarm ab und führt unter einer Brücke hindurch in den vordersten Bildgrund. Am jenseitigen Ufer sieht man einen steil aufragenden Berg mit einer Burgruine. Das diesseitige Ufer wird als Panorama um drei Bildseiten geführt.
+
+In der Hauptansicht nach O bildet ein kleiner freier Platz am Fuß eines aufragenden Turmbaues die eigentliche Handlungsbühne; hier wird die Gründung des Prämonstratenserstifts Schäftlarn vollzogen: Bischof Otto der Große von Freising überreicht im Beisein seines Bruders Leopold des Babenbergers dem vor ihm knieenden ersten Propst Engelbert von Schäftlarn die Gründungsurkunde. Begleiter der drei Hauptpersonen halten die Standesabzeichen. Auf dem Turm ist die Gestalt des hl. Norbert von Magdeburg zu sehen, der eine Monstranz trägt.
+
+Im Hintergrund, an der nördlichen Bildseite, ragt eine »mittelalterliche« Architektur mit Mauern, Tor und Türmen auf. Die südliche Bildseite zeigt eine wilde und öde, baumbestandene Landschaft. Auf dem Fluß fährt in einem kleinen, bewimpelten Schiff ein Chorherr. Über den Himmel spannt sich der Zodiakus, vor dem, von Strahlen umgeben, das apokalyptische Lamm erscheint. Auf dem Wolkenkranz, der um die Glorienöffnung geführt ist, sind die Patrone Schäftlarns, der hl. Dionysius mit dem Kopf in der Hand und die hl. Juliana mit dem Drachen, zu sehen sowie Engel und Putti.
+
+Im Vergleich zur Landschaft sind die Figuren sehr klein. Weit mehr als in anderen Zimmermann-Fresken kommt den einzelnen Bestandteilen der Landschaft über die stimmungshafte Charakterisierung hinaus darstellerisches und inhaltliches Gewicht zu. Das vergleichsweise komplizierte Programm brachte keine Einschränkung der für Zimmermann spezifischen Möglichkeiten (wie etwa in Andechs, Hauptkuppel, oder in Neustift, LHs-Fresko, die beide etwa gleichzeitig entstanden sind), sondern forderte und steigerte sie. Zum Beispiel ermöglichte das ikonographisch wichtige Motiv des Zodiakus das kompositorische Motiv des überspannenden und zusammenschließenden Diadembogens (vgl. Wies, Hauptbild, und Nymphenburg, Steinerner Saal). Hier in Schäftlarn gelingt in ganz überzeugender Weise die Verbindung von himmlischer und irdischer Szenerie. Die Himmelsglorie nimmt das architektonische Motiv des zentralisierenden Raumes auf; der Zodiakus ist auf die Hauptansicht bezogen und entspricht dem architektonischen Motiv der in der Längsrichtung aufeinanderfolgenden Gurtbögen. Die Verbindung der beiden Kompositionstendenzen im Bild geschieht in der Figur des Lammes, die sowohl Gegenstand der Glorie als auch dem Zodiakus zugehörig ist.
+
+Reine Buntfarben finden sich nur in einigen kleinen Flächen im Rot oder Gelb der Gewänder. Das Ocker und Grün des irdischen wie auch das Blau und Gelb des himmlischen Schauplatzes sind weitgehend ausgezehrt und unbunt. Weite Partien – an der Architektur und am Himmel - bestehen nur aus nach Violett oder Blau tendierendem Grau. Der im Hinblick auf den sparsamen Einsatz reiner Buntwerte überraschend farbige Gesamteindruck des Bildes resultiert aus der Ausreizung zweier Komplementärkontraste: Rot-Grün sowie Gelb-Violett. Diese Kontraste sind dadurch in Spannung gehalten, daß sie kaum benachbart auftreten. Durch die Spannung Rot-Grün werden Gelb und Blau, die Bestandteile des Grün, in ihrer Wirkung gesteigert, durch die Spannung Gelb-Violett wird die Wirkung von Rot und Blau intensiviert, so daß, abgesehen von der objektiv vorhandenen schwachen Intensität der einzelnen Werte, die farbige Gesamtwirkung fast als leuchtend empfunden wird.
+<!-- citation-page-bottom: Band03-1 p151 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk004.pdf#page=2 -->
+<!-- citation-page-top: Band03-1 p152 -->
+
+B<sub>1-4</sub> HEILIGE UND SELIGE AUS DEM PRÄMONSTRATENSERORDEN Die vier Zwickel der Gewölbefläche nehmen, mit ihren Kartuschenrahmen unmittelbar an das Hauptbild anschließend, Bildfelder mit den Darstellungen von jeweils zwei Heiligen auf Wolken ein; in nach unten anschließenden Inschriftkartuschen werden diese namentlich bezeichnet.
+
+C DER AUFERSTANDENE CHRISTUS Die schwebende Gestalt Christi, die die Osterfahne in der Linken hält und die Rechte segnend erhoben hat, ist auf einen Blechdeckel gemalt; er schließt das Heiliggeistloch. Das Fresko selbst zeigt den umgebenden Wolkenhimmel, der hinter der Gestalt Christi glorienähnlich aufgelichtet ist, und anbetende Engel.
+
+D ST. NORBERT EMPFÄNGT SKAPULIER UND REGEL Standpunkt unter dem östlichen Bildrand. In der Hauptansicht erhebt sich über einem seichten, grasbewachsenen Bodenstreifen eine Torarchitektur, hinter der sich ein offener Hof mit einer balustradenbekrönten Arkadenexedra befindet. Die Toröffnung steht in der Mittelachse des Bildes in einer achsensymmetrischen Anlage, die bei Zimmermann ungewöhnlich ist. Diese Symmetrie wird in den verschieden geschwungenen Treppen, einer Balustrade mit Vase und dahinter aufragenden Bäumen links und einer Draperie rechts abgeschwächt.
+
+Das Tor ist von einem ornamentalen Diadembogen bekrönt als Auszeichnung des Geschehens, das darunter stattfindet: Der hl. Norbert, als junger Mann in weißer Tunika, kniet vor Maria, die ihm das weiße Skapulier reicht. Dahinter steht Augustinus in Bischofstracht und weist in seinem geöffneten Regelbuch auf die Inschrift CAP. / I. / DE / DILECTIONE / DEI / ET PRO / XIMI. Von links oben dringt eine große weiße Wolke ein. Hier bringen Engel und Putti Brustkreuz und Mitra, zwei große Engel halten den doppelten Kreuzstab und das Pallium, alles Insignien des Heiligen als Erzbischof von Magdeburg.
+
+Die Szene ist einseitig. In den konkav geschwungenen Stufen im Vordergrund setzt sie zwar zu einem umlaufenden Panorama an, das jedoch an den Seiten bald vom Rahmen überdeckt wird. Der Himmel über dem Bogen ist von gleichmäßig lichter Bläue; er bildet keine Glorie aus. Nur die große weiße Wolke zieht sich in ihren Ausläufern um den Rahmen und wirkt als Zitat einer Glorienöffnung. Einige Engel und Putti erscheinen dort auf die Ansicht nach W bezogen: Mit anbetenden Gesten und einem Weihrauchfaß verehren sie eine strahlenumgebene Hostie; von hier aus fällt ein Blitzstrahl auf ein geöffnetes Buch in den Händen eines Engels. Es trägt die Aufschrift HAERE/SIS TAN/CHELINI / SA/CRA/MEN/TA/RIA.
+
+Anstelle der traditionellen barocken Glorie erscheint die eucharistische Hostie. Die Dreifaltigkeit ersetzt Zimmermann mit Vorliebe durch ikonologisch oder historisch speziell auf die Kirche bezogene Darstellungen, z. B. die Drei-Hostien-Monstranz in Andechs (CBD, Bd 1, S. 294), das in der Vision erschauten Kreuz in Neustift bei Freising oder etwa das apokalyptische Lamm in Fresko B.
+
+Eine große Rolle spielt auch in diesem Fresko der Diadem-Bogen, der kompositionell als eine Wiederholung des Gurtbogens und ikonographisch als Motiv der Auszeichnung eingesetzt ist. Wie auch in der Wies und in Neustift geht Zimmermann auf dieser Stufe in ganz neuer Weise auf die Architektur ein: Nicht in illusionistischen »Real«-bezügen, sondern in ästhetisch-formalen Bezügen. Das reizvolle architektonische Thema der gestaffelten Bögen in der Raumabfolge wird von ihm in beiden Hauptbildern aufgegriffen und gesteigert.
+
+Die Farbigkeit des Bildes wird wesentlich mitbestimmt von dem Goldgrund der umgebenden Kartuschenfelder: Er schließt sich optisch zusammen mit dem (Gold-)Ocker einzelner Architekturteile im Bild, dem Goldgelb des Engelsgewandes und dem Ocker in den Auflichtungen der terrestrischen Bestandteile. Zusammen mit den ursprünglich vorhandenen Vergoldungen der Stukkaturen (BHStA I KL Schäftlarn 7, fol. 137 v; vgl. Thon, S. 164 f.) ergab dies eine Steigerung der feierlichen Auszeichnung in der Raumfolge vom LHs zum Chor. Im Kontrast zu dieser dominierenden Goldfarbigkeit wirken sowohl die Buntwerte – wie das Dunkelblau der Draperie, Rot und Blau in den Gewändern, Grün in den Bäumen – als auch das lichte Himmelsblau in ihrer Intensität gesteigert.
+
+Die gleichmäßige Helligkeit, die den Bildraum erfüllt, hat keine faßbare Lichtquelle oder Lichtführung im Bildbereich. Das Bildlicht wird identisch mit dem natürlichen Licht der hell beleuchteten Gewölbezone, ein Phänomen, das, für viele Fresken Zimmermanns bezeichnend und hier besonders evident, den Bildraum, der nirgends mehr illusionistische Fortsetzung des Realraums ist, in einer rationalisierenden Vereinheitlichung wieder mit dem Kirchenraum zusammenschließt.
+
+D<sub>1-4</sub> HEILIGE AUS DEM PRÄMONSTRATENSER-ORDEN Die vier Zwickel der Gewölbefläche werden von Bildfeldern in Kartuschenrahmen eingenommen, die unmittelbar an das Hauptbild anschließen. Sie zeigen je einen Heiligen auf Wolken, der in einem jeweils darunter angebrachten Kartuschenfeld inschriftlich bezeichnet wird.
+
+E HULDIGENDE PUTTI Putti spielen mit Lorbeerkranz, Lilie, Girlanden aus Rosen und anderen Blumen. Die Mariensymbole sind in Zusammenhang mit dem darunter befindlichen Hochaltar zu sehen. Das Altarblatt von Balthasar Augustin Albrecht zeigt die Himmelfahrt Mariens, die plastische Gruppe von Johann Baptist Straub in der Altarbekrönung die Dreifaltigkeit in Erwartung der aufschwebenden Gottesmutter.
+
+Die Putti im Fresko bilden den Abschluß dieser theatralischen Inszenierung, ein im süddeutschen Bereich der Deckenmalerei des 18. Jh. häufig verwendetes Motiv (Abbildung S. 159).
+
+[[File:Band03-1_chunk004_p002_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p153 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=3 -->
+<!-- citation-page-top: Band03-1 p154 -->
+
+<!-- header: SCHÄFTLARN -->
+
+<!-- header: SCHÄFTLARN -->
+
+
+[[File:Band03-1_chunk004_p003_img001.jpg|thumb|Teilansicht von D Der hl. Norbert empfängt Skapulier und Regel]]
+
+
+
+[[File:Band03-1_chunk004_p003_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p155 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=4 -->
+<!-- citation-page-top: Band03-1 p156 -->
+
+<!-- header: SCHAFTLARN -->
+
+<!-- header: SCHÄFTLAR -->
+
+
+[[File:Band03-1_chunk004_p004_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk004_p004_img002.jpg|thumb|B<sub>4</sub> Die hll. Adrian und Jakobus]]
+
+
+
+[[File:Band03-1_chunk004_p004_img003.jpg|thumb]]
+
+
+Bischofs unterscheiden soll. Daran hängt der weiße Pannisellus (Velum), der seit 1659 für den Abtsstab ausdrücklich vorgeschrieben war (Schäftlarn hatte am 17. 3. 1598 die Pontifikalien erhalten).
+
+Die Gründungsszene spielt am Ufer eines Flusses, mit dem die Isar gemeint ist. Das Schifflein, das auf den reißenden Fluten stromabwärts fährt, wird von einem weißgekleideten Prämonstratenser gelenkt; am Bug flattert die Fahne mit dem Wappen Schäftlarns, der Wimpel an der Mastspitze hat die Farben des Klosters. Da das Wappen Schäftlarns aus einem Schiff mit zwei gekreuzten Rudern besteht, ist kein Zweifel, daß das Schifflein im Fresko das neugegründete Kloster bedeutet, das nun, unter dem Schutz des Himmels und der Schäftlarner Patrone, seine Fahrt in Zeit und Welt aufnimmt.
+
+Auf einem hohen Turm steht Norbert, der Gründer des Ordens der Prämonstratenser, mit der Monstranz, seinem Attribut, in Händen. Die Darstellung des Heiligen auf der Turmspitze ist auf das Schiff in den Fluten bezogen: Der Turm wird zum Leuchtturm und das Allerheiligste in Händen Norberts wird zum Licht, das dem Schiff den Weg weist. Diese Vorstellung ist der Emblematik entnommen, wo der Leuchtturm ein beliebtes Bild ist: »Pharus supra
+
+
+[[File:Band03-1_chunk004_p004_img004.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk004_p004_img005.jpg|thumb]]
+
+
+maris litus collocata, interdiu nautis felicem portum e longinquo significat...« (Picinelli, s. v. Turris, Lib. 16, Nr. 219; ähnlich Nr. 215-221, 224, 235 - besonders deutlich: Nr. 240 u. 245: »In rectum ducit« = das gute Beispiel), so zeigt Norbert seinen Mönchen den Hafen, das sichere Heil.
+
+Die Burg ganz links im Bild ist in ihrer Bedeutung nicht zweifelsfrei zu erklären. Im Vergleich mit anderen Zimmermann-Bildarchitekturen ist evident, daß es sich um einen Bau aus ferner Vergangenheit handelt. Er stellt wohl das alte, erloschene Benediktinerkloster dar. Die benediktinische Vorgeschichte Schäftlarns war im mittleren 18. Jh. den Chorherren nicht nur sehr bewußt, sondern auch Gegenstand quellenkundlicher Forschungen (vgl. Monumenta Boica, Bd 8, München 1767, S. 350ff.).
+
+Dionysius war bereits Patron der ersten Gründung, der Zeitpunkt, an dem Juliana zweite Patronin wurde, ist noch umstritten (vgl. Mitterer, S. 15).
+
+Das apokalyptische Lamm in der Himmelsmitte bedeutet das Altarsakrament, dessen Verehrung bei den Prämonstratensern eine besondere Rolle spielt. Hinter dem Lamm spannt sich der Zodiakus über den Himmel: Links sieht man aufeinanderfolgend Wassermann und Fische, dann wird er von der sonnenumglänzten Gestalt des Lammes verdeckt; rechts zeigt er noch das Zeichen der Zwillinge. Es fehlen Widder und Stier. Vor der Stelle, wo der Widder zu denken ist, erscheint das Lamm. Auch diese Darstellung des Zodiakus ist der Emblematik entnommen. Picinelli gibt die Deutung (s. v. Sol in Zodiaco, Lib. 1, Nr. 186): »Soli, ac Arietem divertenti, subscriptu IAM HYEMS TRANSIIT. Ita Deus dum carnem nostram induit, Arietem intravit; ... Und etiam instar arietis, in Calvariae clivo interfectus est... Nih proinde mirum, si, sole Divino arietem induente, durissim legis Hebraeae hyems transiverit, et veris Christiani amoe nitas adolescere coeperit. Ante adventum Christic, Ambro sio teste, hyems erat; venit Christus, fecit aestatem ... « Das Ende des Winters und das Nahen des Gnaden-Sommers bezieht sich auf die Neugründung nach der Zeit, in der Schäftlarn als Kloster verwaist war
+
+
+== B<sub>1-4</sub> HEILIGE UND SELIGE AUS DEM PRÄMONSTRATENSERORDEN ==
+
+
+B<sub>1</sub> BB./GILBERTUS/G/SIARDUS/OP. Der hl. Gilbert (24. 10.), Abt von Neuffontaines, Gründer von Aubeperre und Neuffontaines, † 1152, zeichnete sich durch Sorge für die Kranken aus und wirkte nach seinem Tod viele Wunder. Hier ist er mit einem lahmen Knaben dargestellt.
+<!-- citation-page-bottom: Band03-1 p157 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=5 -->
+<!-- citation-page-top: Band03-1 p158 -->
+
+<!-- header: SCHAFTLARN -->
+
+<!-- header: SCHÄFTLARI -->
+
+
+[[File:Band03-1_chunk004_p005_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk004_p005_img002.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk004_p005_img003.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk004_p005_img004.jpg|thumb]]
+
+
+Der hl. Siardus (17. 11.), Abt von Mariengaarden, † 1230 ein besonderer Verehrer Mariens, ist hier mit einem Korb voller Brot zu sehen. Damit wird auf seine Fürsorge für die Armen hingewiesen.
+
+B<sub>2</sub> BB. / FRIDERICUS / & / GERTRUDIS / OP. Der sel. Friedrich von Hallum (3. 3.) hält hier eine kleine Marienstatue in Händen: er war Gründer und erster Abt von Mariengaarden (Hortus Beatae Mariae Virginis), † 1175.
+
+Die sel. Gertrud (13. 8.), Äbtissin von Altenberg, hat neben sich Krone und Zepter als Zeichen ihrer fürstlichen Herkunft liegen: sie war eine Tochter der hl. Elisabeth von Thüringen. Sie ist mit Leidenswerkzeugen in der Hand dargestellt (Kreuz, Schilfrohr oder Lanze, Schwammstab): T1297.
+
+B<sub>3</sub> BB. / GODEFRIDUS / & / HERMANNUS / OP. Der sel. Gottfried (16. 1.), Graf von Kappenberg, hat als Zeichen seiner weltlichen Würde Krone und Zepter neben sich liegen; er weist auf das Kreuz in seiner Rechten, das er dafür eingetauscht hat. Er gründete auf seinen Gütern die Prämonstratenserklöster Kappenberg, Ilbenstadt und Var lar und trat später ebenso wie seine Gemahlin Jutta von Arnsberg in eines davon ein; †1127.
+
+Der sel. Hermann Joseph (7. 4.), Mystiker, Mönch des Prämonstratenserklosters Steinfeld bei Köln, war ein besonderer Verehrer der Gottesmutter und des Jesuskin des. Er ist mit dem Jesusknaben und einer Lilie auf dem Arm dargestellt. Er starb um 1241 in dem Zisterzienserinnenkloster von Hoven, dessen Seelsorger er war.
+
+B<sub>4</sub> BB. / ADRIANUS / & / JACOBUS / OP. Die Heiligen Adrian van Hilvarenbeek und Jacobus Lacops, Chorherren von Kloster Middelburg, gehören zu den neunzehn Martyrern von Gorkum (9. 4.), Weltpriestern und Ordensleuten, die bei der Einnahme von Gorkum durch die kalvinistischen Geusen gefangengenommen und am 9. 7. 1572 zu Briel gehängt worden waren. Auf ihr Martyrium weisen Stricke und Schwerter hin.
+
+D ST. NORBERT EMPFÄNGT SKAPULIER UND
+
+REGEL Diese Szene mit der Übergabe des Skapuliers an den hl. Norbert durch die Gottesmutter hat für die Prämonstratenser die Bedeutung einer Legitimation ihres Ordens durch Maria, deren Mitwirken bei der Gründung damit zum Ausdruck kommt. Der Prämonstratenserorden hat zur Grundlage die Regel des hl. Augustinus, der mit seinem Regelbuch bei der Szene anwesend ist. Rechts sieht man eine Schar junger Männer noch in weltlicher Kleidung, die das Ordensgewand schon in Händen halten.
+
+Der hl. Norbert (6. 6.), *ca. 1080, 1115 zum Priester geweiht, gründete 1121 das Kloster Prémontré und wurde 1126 Erzbischof von Magdeburg, worauf in dieser Szene die Engel mit den erzbischöflichen Insignien hinweisen. Als eines seiner großen Verdienste um die Kirche wurde der Kampf gegen den Häretiker Tanchelinus, der die Sakramente verwarf, angesehen. Norbert erhielt als Verteidiger und besonderer Verehrer des Altarsakramentes die Monstranz mit dem Allerheiligsten als Attribut. In dieser Szene vernichtet ein Strahl, der vom Altarsakrament ausgeht, die Irrlehre des Tanchelin. Norbert starb 1134 zu Magdeburg (Quellennachweis für Skapulier- und Regelspende s Hohenschäftlarn, S. 131–33.)
+
+Den beiden architektonischen Schwerpunkten in der Raumgestaltung entsprechen die ikonographischen Schwerpunkte in B und D. Richtet sich das Gründungsbild mehr an die Schäftlarner Gemeinde, indem es ihr quasi die lokale Heilsgeschichte vor Augen führt, ist das Fresko über dem Chor auf den Orden und den Ordensgründer bezogen und gibt damit die heilsgeschichtliche Legitimation des Prämonstratenserklosters Schäftlarn durch den Bezug auf die ruhmreiche Ordenstradition.
+
+D<sub>1-4</sub> HEILIGE AUS DEM PRÄMONSTRATENSER ORDEN
+
+D<sub>1</sub> B. / LUDOLPH / OP. Der hl. Ludolph (29. 3.), Bischof von Ratzeburg, der an den bei der Einkerkerung durch Herzog Albrecht von Sachsen-Lauenburg erlittenen Mißhandlungen 1250 starb, ist hier mit einem Palmzweig als Symbol seines Martyrertums dargestellt.
+
+
+[[File:Band03-1_chunk004_p005_img005.jpg|thumb|E Huldigende Putt]]
+
+
+D<sub>2</sub> B. / EVERMOD / OP. Der hl. Evermod (17. 2.), Schüler des hl. Norbert und Mitstreiter im Kampf gegen die Häresie des Tanchelinus, wurde später der erste Bischof von Ratzeburg, dessen Domstift er nach der Prämonstratenserregel einrichtete. Er trägt den Beinamen Apostel der Wenden († 1178). Als Attribute hat er hier eine Fessel und einen Weihwedel; sie erinnern daran, daß er nach der Legende einst zwei gefangene Friesen durch Besprengen der Fesseln mit Weihwasser befreit hatte.
+
+D<sub>3</sub> B. / ISFRIDUS / OP. Der hl. Isfrid (15. 6.) war als zweiter Bischof von Ratzeburg Nachfolger des hl. Evermod († 1180). Als Attribut hat er hier einen Kelch, Hinweis auf die Christianisierung der Wenden.
+
+D<sub>4</sub> B. / GERLAC / OP. Der hl. Gerlach von Falkenburg (5. 1.) war aus ritterlichem Geblüt, worauf Helm und Stab, die vor ihm liegen, hinweisen. Nach dem Tod seiner Gemahlin führte er ein Leben als Einsiedler in der Höhlung einer alten Eiche. Der Überlieferung nach war er Prämonstratenser, in deren Gewand er hier dargestellt ist. Kruzifixus und Buch weisen auf sein gottgefälliges Leben hin († um 1166).
+
+
+== Literatur ==
+
+
+Schmidtsche Matrikel, Bd 2, S. 593. Mayer-Westermayer, Bd 3, S. 647 f., 651 ff. KDB I OB (1), S. 001 f.
+
+Abstreiter, Leo, Geschichte der Abtei Schäftlarn, Schäftlarn 1916.
+
+Hoffmann, Richard, Kloster Schäftlarn im Isartal, Augsburg 1928.
+
+Röhlig, Ursula, Die Deckenfresken Johan Baptist Zimmermans, ungedr. Diss., München 1949, S. 194–197.
+
+Lieb, Norbert, Barockkirchen zwischen Donau und Alpen, München 1953, S. 97 f.
+
+Solf, Hugo, Schäftlarn an der Isar (= KKF Nr. 537), München <sup>3</sup>1965.
+
+Mitterer, Sigisbert, Die erste benediktinische Zeit von Schäftlarn, in: 1200 Jahre Kloster Schäftlarn 762–1962 (= Deutinger Beiträge zur altbay. Geschichte 22/3, 1962), S. 9–19. Thon, Christina, Johann Baptist Zimmermann als Stukkator, München 1977, S. 162–165, 342 f.
+
+Hartig, Michael, Die Oberbayerischen Stifte, Bd 2, 3–11. Backmund, Norbert, Die Chorherrenorden und ihre Stifte in Bayern, Passau 1966, S. 187–190.
+
+Bauer, Hermann und Anna, Die Brüder Zimmermann, Regensburg 1985, S. 270–75.
+<!-- citation-page-bottom: Band03-1 p159 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=6 -->
+{{End}}

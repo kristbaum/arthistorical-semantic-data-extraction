@@ -1,0 +1,50 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=289
+|Originalseitenbis=289
+|Lemma=Lateinische Lemmata (Band 3-I)
+|davor=Bildmotive (Band 3-I)
+|danach=Deutsche Lemmata (Band 3-I)
+}}
+
+Abyssus abyssum vocat 35 Alta petit fixo corde 128 Altiora te ne quaesiveris 96 Arca salutis 55 Attingit ubique 32
+
+Concutior sed non frangor 136 Constantissima 129
+
+Dabit his deus quoque finem 129 De nocte auxilium 34
+
+Ecce ostium apertum 179
+
+Facta sum coram eo quasi pacem reperiens 178
+
+Humilibus dat gratiam 96
+
+Id ipsum invicem 33 I(e)st omnibus unus 35 In nomine patris et filii et spiritus sancti 36 In odorem currimus 29 In trino sinceritas 32 Iter facite ei qui ascendit 22
+
+Linea terna est unum alpha 32 Lux splendor ignis 35
+
+Mens unica 34 Mersus emergam 129 Misericordissima 128
+
+Nativo humore rubescam 128 Nec defessus nec diffusus 128 Nubila fello 129
+
+Permanent in simplicitate 3 Posuit fines tuo(s) pacem 20 Praevolantem sequor 35 Privilegium singulare 56
+
+Quasi absconditus vultus eius 20 Quasi aurora consurgens 179 Quis scrutabitur viam nostram 20
+
+Rubus incombustus 55
+
+Satiabor cum appuerit 128 Sicut oliva fructifera in domo dei 178 Signum foederis 54 Simul unus et semper trinus 36 Splendescit et urit 136 Superbis resistit 96
+<!-- citation-page-bottom: Band03-1 p289 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=21 -->
+<!-- citation-page-top: Band03-1 p290 -->
+
+Tenet una trinum 32 Terras diffusus in omnes 136 Tres huic conficiunt 33 Tres vidit et unum adoravit 33 Tribus his propellitur una 32 Trino trinus unum 32 Trinum tenet una thesaurum 32
+
+Una tres conficiunt 34 Unus in trino videt omnia 29 Ut potiar patiar 129
+
+Vulnerant sanantque 136
+
+{{End}}

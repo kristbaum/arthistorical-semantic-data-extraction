@@ -1,0 +1,85 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=265
+|Originalseitenbis=265
+|Lemma=München, ehem. Obere Gruftkirche
+|Typ=Sakral
+|Ort=München
+|davor=München, Kapelle im ehem. Stadthaus des Klosters Ettal
+|danach=München, Peterskapelle, sog. Wieskapelle
+|AutorIn1=Sinkel, Kristin
+}}
+
+Kirche in der ehemaligen Gruftstraße Nr. 1, im Terrain des heutigen Marienhofes, z.Z. der Ausmalung Kloster Andechs inkorporiert, 1803 säkularisiert, 1806 abgebrochen
+
+'''Patrozinium:''' Unsere Liebe Frau
+
+'''Zum Bauwerk:''' 1442 überließ Herzog Albrecht III. dem herzoglichen Leibarzt Johannes Hartlieb eine von den Juden verlassene Synagoge. Dieser erbaute an der Stelle ein Haus mit einem Oratorium, in dem ein Vesperbild aufbewahrt wurde. Der Zustrom zu diesem sich als wundertätig erweisenden Gnadenbild machte 1450 einen Kapellenneubau notwendig, das sog. »Neustift bey unser lieben Frauen in der Gruft« (Schmidtsche Matrikel) oder die sog. Untere Gruft; die Kapelle hatte zwei Altäre, den Hochaltar mit dem Gnadenbild und einen Nebenaltar mit der Geburt Christi. 
+
+Im 17./18. Jh. lebte die Andacht neu auf, in diesem Zusammenhang erfolgten um 1725/30 Ausbau und Ausstattung einer zweiten Kirche darüber, der sog. Gruftkirche oder Oberen Gruft: »Huic Capellae seu Cryptae Marianae vicina est ecclesia paucis abhinc annis reparata et ferme noviter aedificate et necdum consecrata« (Schmidtsche Matrikel, S. 142) Sie hatte drei Altäre, der Hochaltar war der Himmelfahrt Mariens geweiht, die Nebenaltäre St. Joseph und dem Schmerzhaften Christus. Amtierender Benefiziat war (ab 1725) Georg Rist.
+
+Der Bau, nach dem die Straße bezeichnet war, grenzte westlich an ein Kloster Andechsisches Haus, von dem aus die Kirche versehen wurde, östlich an das Institut der Englischen Fräulein (siehe S. 214), die zur Erweiterung des Baues Grund zur Verfügung gestellt hatten. Der Zugang zur Oberen und Unteren Gruft ging offenbar nach deren Neubau durch das Institut, »... und gehet der fürnembste Adl durch die porten des Instituts-Hauses in die Gruft, allwo man auf einem zweyfachen Untern und obern Chor darin Meeß hören kann« (Fridl, S. 611). Von einem Gebets-Saal, dem sog. Marianischen Saal neben der Hauskapelle der Englischen Fräulein, »konnte man in die Untere L. Frauen-Gruft hinabsehen«, was 1695 zu Streitigkeiten führte (Leitner, S. 180). 1753 wurde dieser Umstand behoben, die Gruftkapelle wurde »in einen bessern und bequemern Stand hergestellet, durch leichtern Eingang und erweiterte Sacristei« (Crammer, S. 63; Stimmelmayr, Abb. 32).
+
+1803 wurde die Kirche profaniert und verkauft, 1806 abgebrochen. Bei diesem Anlaß ging die Ausmalung vermutlich zugrunde.
+
+
+== Autor und Entstehungszeit: Friedrich Scheffler 1725/30 ==
+
+
+Nach der Schmidtschen Matrikel (1749, s. oben) lag die Ausstattung der Kirche erst wenige Jahre zurück. Eine Datierung um 1725/30 würde mit Oefeles Angaben übereinstimmen. Oefele (5, VI, S. 165 s. v. Sang) schreibt: Sang »hat in der obern Kruft zu München die Himmelfahrt Mariae im Chorblat gemahlt. Das fresco ist vom Schäfler«. In einer weiteren Notiz (5, V, S. 64 v) heißt es: »Friedrich Schöfler filius pictoris Mainburgensis – hat in fresco die obere Kruft gemahlt. item die Uhrlaubnahme Xti (Christi) in Ohl in der oberkürche des.«
+
+Seit den Aufzeichnungen Lorenz Westenrieders von 1783 (S. 360, vgl. Lipowsky, Fürst, Thieme-Becker) gilt der Maler Martin Kohlbrenner als Autor »eines schönen Frescos in der obern Kruftkirche der Engländischen Fräulein, das die hl. Dreyfaltigkeit vorstellt. Er starb 1738.« Da über die Ausmalung nichts Näheres bekannt ist, können diese widersprüchlichen Angaben nicht aufgeklärt werden; es muß sich entweder um eine Verwechslung der Maler oder um eine Verwechslung der Grüfte und Kapellen evtl. auch mit denen im Institut der Englischen Fräulein handeln. Oefeles Angaben über das Hochaltarbild mit der Himmelfahrt Mariens sind zutreffend (vgl. Schmidtsche Matrikel), die zeitliche Nähe macht seine Angaben glaubwürdig. Oefele, der als Hofbibliothekar ab 1735 in München Nachrichten über deutsche Künstler sammelte und aufzeichnete, bezog nach eigener Aussage von Kohlbrenner viele Auskünfte. Er nennt den Maler aber nicht im Zusammenhang mit der Gruftkirche!
+
+Friedrich Scheffler, ab 1724 in München nachweisbar (Liedke-Meisterbuch, S. 45), 1728 Zunftaufnahme (Maler und Bildhauer Rechnungsbuch, StadtAMü) †8. 4. 1750 München (Thieme-Becker, Bd 30, S. 7), wäre demnach neben Felix Anton und Christoph Thomas Scheffler ein weiterer Sohn des Mainburger Malers Johann Wolfgang Scheffler, der ab 1688 in München nachweisbar ist, †8. 4. 1725 München.
+
+Martin Kohlbrenner *1680 (Fürst) oder 1682 (Westenrieder) in Siegsdorf †1738 (Westenrieder) oder 17. 7. 1740 (Totenbuch U. L. F., Thieme-Becker) in München, war Sohn des Wolfgang Kohlbrenner, eines Salzmeisteramts-, Holz- und Triftschreibers in Siegsdorf (OB LKr. Traunstein). Laut Oefele (Oefeleana 5, VI. s. v. Kohlbrenner), lernte Johann Martin in seinem Vaterland bei einem schlechten Maler und kam nach München, um Schüler des Andreas Wolff zu werden – es wurden ihm jedoch andere Gesellen vorgezogen. Er heiratete in München Franziska Unterstainer, Tochter des Malers Johann Baptist Unterstainer, und war hauptsächlich als Fassadenmaler tätig (Thieme-Becker, S. 205 f.).
+
+Die einzige von M. (?) Kohlbrenner bekannte Arbeit ist ein Blatt in der Graphischen Sammlung München, Feder auf Papier, laviert, ca. 19,00 × 30,00 cm, Inv. Nr. 1940:38, das den Entwurf für zwei Pendentif-Felder darstellt. Es sind weibliche Tugenden (?) mit nicht näher zu bezeichnenden Attributen. Die Figuren sind schulmäßig und wenig frei in die Dreiecksfelder eingepaßt. Für die Gruftkirche lassen sich die Pendentif-Entwürfe nicht nachweisen, auch mit der Kapelle der Englischen Fräulein (S. 214) stehen sie stilistisch in keinem Zusammenhang.
+
+Verbleib: Die Ausmalung ging vermutlich im Zusammenhang mit Profanierung und Umbau 1803/06 zugrunde.
+
+Darstellung: Hl. Dreifaltigkeit? (nach Westenrieder)
+
+
+== Quellen und Literatur ==
+
+
+Fridl, Markus, Englische Tugendschule Mariä unter den vom Papst Clemens XI bestätigten Regeln des von der hochgeborenen Frau Maria Ward aufgerichteten Instituts Maria oder der englischen Fräulein, Augsburg 1732, Bd 2, S. 588f.
+
+Oefeleana 5, V und VI.
+
+Schmidtsche Matrikel, Bd 1, S. 141 f.
+
+Zimmermann, Joseph Anton, Chur-Bayrisch = Geistlicher Kalender München 1754, S. 59-55
+
+Crammer 1776, S. 61
+
+Westenrieder 1783, S. 210, 359f.
+
+Westenrieder 1783, S. 210, 359f. –, Leben des Johann Seraph Edlen von Kohlbrenner, München 1810, S. 7
+
+Stimmelmayr um 1800, S. 16, Abb. 32
+
+Scharl, P. Placidus, Die ehemalige Gruftkirche, in: Sulzbacher Kalender 1867.
+
+Leitner, Jakob, Geschichte der Englischen Fräulein und ihrer Institute seit ihrer Gründung aus den Quellen dargestellt, Regensburg 1869, S. 179f.
+
+Trautmann, Franz, Jahrbuch für Münchener Geschichte, I, München 1887, S. 16.
+
+Fürst, Max, Biographisches Lexikon für das Gebiet zwischen Inn und Salzach, München 1902, S. 78 f.
+
+Trautmann, Karl, Kulturbilder aus Alt-München, Bd 1, München 1919-23, S. 69.
+
+Thieme-Becker, Bd 21 (1927), S. 205 f. (s. v. Kohlbrenner)
+
+Häuserbuch, Bd 1, München 1958, S. 80.
+
+Lieb/Sauermost, S. 286, Nr. 26.
+
+Lipowsky-Künstlerlexikon 1810, Bd 1, S. 158.
+<!-- citation-page-bottom: Band03-1 p265 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=9 -->
+{{End}}

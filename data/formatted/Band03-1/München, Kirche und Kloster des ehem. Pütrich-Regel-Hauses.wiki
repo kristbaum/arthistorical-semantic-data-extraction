@@ -1,0 +1,60 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=266
+|Originalseitenbis=267
+|Lemma=München, Kirche und Kloster des ehem. Pütrich-Regel-Hauses
+|Typ=Sakral
+|Ort=München
+|davor=München, Peterskapelle, sog. Wieskapelle
+|danach=München, Kapelle im ehem. Kloster am Lilienberg
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== PUTRICH-KLOSTER ==
+
+
+Kirche und Kloster des ehem. Pütrich-Regel-Hauses, im Bereich der heutigen Perusastraße, Residenz- und Theatinerstraße gelegen, die Fassade der Kirche war auf die Theatinerstraße gerichtet. Ehem. Frauenkloster des dritten Ordens des hl. Franziskus, 1802 säkularisiert, in der Folge abgebrochen
+
+
+'''Patrozinium:''' St. Christophorus
+
+
+'''Zum Bauwerk:''' Anstelle einer Christophorus-Kapelle, die fortan als Sakristei diente, ließ das Geschlecht der Pütrich ab 1365 den Seelschwestern vom hl. Christophorus eine neue Kirche erbauen. Erweiterung 1559, nach Brand Umbau 1660 mit Stuckierung durch Konstantin Pader. Neuausstattung 1739/40.
+
+'''Auftraggeber:''' Oberin Klara Hortulana von Wilhelm (1737–53)
+
+Autor und Entstehungszeit: Vertrag über die Austattung der Kirche mit Stuck und Fresken mit Johann Baptist Zimmermann 1739 (BHStA I, KL 424/9): »Contract So zwischen dem alhiesigen Lobl. Closter Bittrich Röglhaus. Dann mit Johann Zimermann Churfürstl. Hof Stucator wegen dero
+
+Gottshaus Ausziehrungen, der Stuccator arbeith und fresco Gemell daselbst abgeredtermassen Pactiert: und bedderseits zuhalten versprochen worden, den 5<sup>ten</sup> März anno 1739, Nemblich für hernachstehente arbeith zu bezahlen 1000 fl. Dann Leykauf 25 fl... Erstlich sint in fordern und Inneren Chor oder Langhaus, zway grosse feltungen, auch neben denen Sechs Schildereyen, in Fresco zumahlen. Dann das Gewölb, und ober denen fensteren auch sovil als drey Thüren oder Porten, ingleichen die Prustwand, warauf das Gatter am Frauen Chor, diss alles dem vorgezeigten Ris gemess mit ornament zu decorieren...« Zimmermann erhielt am 25. 7. 1739 200 fl., am 2. September 300 fl. und wurde am 7. Dezember 1739 nach vollendeter Arbeit mit den restlichen 500 fl. ausbezahlt.
+
+Nach Oefele wurde für die Ausmalung des Klosters der Sohn Johann Baptist Zimmermanns, Franz Michael, verpflichtet: »Franciscus ... mahlt itzo S: Bonaventura und ander füllungen in öhl in das Closter büttrich. sein Vatter hat das fresco in dasiger Kürch gemahlt.«
+
+Für den Maler Joseph Ignaz Schilling ist 1740 eine Darstellung des David und der hl. Cäcilia an der Orgelwand in der Kirche belegt, für das er in Zusammenhang mit einem Altarblatt für den Frauenchor und mit Dekorations- und Fassarbeiten mit 144 fl. bezahlt wurde (KL 424).
+
+Verbleib: Die Ausmalung von Kirche und Kloster ging mit dem Abbruch nach der Säkularisation zugrunde
+
+
+== Darstellungen ==
+
+
+Dem Vertrag mit J. B. Zimmermann nach zu schließen, umfaßte die Ausmalung der Kirche »zwey große Felder« und »sechs Schildereyen«, vermutlich Nebenbilder. In einem Hauptfeld war die hl. Anna dargestellt: »Der Plafond worinnen die hl. Anna zu sehen ist, hat ... Zimmermann der ältere gemahlen« (Verzeichnis 1760, S. 99). In der Beschreibung von 1750 wird die Ausstattung nur allgemein gerühmt: »Tota Ecclesia ist mit stugador, schönen Gemähl herrlichen oberen Chor Gättern versehen.«
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, KL 424, 426
+
+Oefeleana 5, V, S. 426
+
+Schmidtsche Matrikel, Bd 1, S. 256f
+
+Beschreibung 1750, S. 97f., 99
+
+Verzeichnis 1760
+
+Hufnagl, Max Joseph, Franziskanerinnenkloster der Pütrich-Schwestern z. Hl. Christophorus, in: Bavaria Franciscana Antiqua, Bd 3, S. 273–307. Lieb/Sauermost, S. 31. A. B.
+
+{{End}}

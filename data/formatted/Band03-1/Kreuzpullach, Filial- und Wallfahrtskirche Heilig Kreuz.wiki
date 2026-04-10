@@ -1,0 +1,188 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=137
+|Originalseitenbis=141
+|Lemma=Kreuzpullach, Filial- und Wallfahrtskirche Heilig Kreuz
+|Typ=Sakral
+|Ort=Kreuzpullach
+|davor=Kleinhelfendorf, Marterkapelle St. Emmeram
+|danach=Lanzenhaar, Filialkirche St. Ulrich
+|AutorIn1=Böhm, Cordula
+|AutorIn2=Lüdicke, Lore
+}}
+
+Filial- und Wallfahrtskirche, Gemeinde Oberbiberg, Pfarrei Deisenhofen (seit 1966), Erzdiözese München und Freising; z. Z. der Ausmalung Hofmarkskirche, Pfarrei Oberhaching, auf die das Stift St. Andreas in Freising das Präsentationsrecht hatte, Hofmark Kreuzpullach, Landgericht Walfratshausen
+
+
+'''Patrozinium:''' Hl. Kreuz
+
+
+'''Zum Bauwerk:''' 1709/10 Neubau anstelle einer mittelalterlichen Kirche. Baumeister Philipp Jakob Köglsperger aus Sachsenkam (Lieb) oder Giovanni Antonio Viscardi (Bomhard), möglicherweise beide (Hobmair, S. 225).
+
+Saalbau mit nischenförmig ausgerundeten Ecken, zwei Fensterachsen, eingezogener AR, an den Ecken und an der O-Wand ebenfalls gemuldet. Pilastergliederung, Belichtung durch je zwei große vierpaßförmige Fenster im S und N, im W Empore.
+
+'''Auftraggeber:''' Petrus von Lehner, Hofmarksherr von Kreuzpullach (1700–25), finanzierte den Bau und dessen Ausstattung (Wappen Lehners am Chorbogen). Er war Rat-, Rent- und Zahlmeister bei Herzog Maximilian Philipp von Bayern, Regent in der Grafschaft Türkheim-Schwabegg, einem Bruder Kurfürst Ferdinand Marias. Durch die benachbarte Hofmark Laufzorn, deren Verwalter Lehner war, kam er vermutlich an die Hofmark Kreuzpullach. Der Münchner Kaufmann Johann Martin Cler wollte 1710 in Kreuzpullach ein Benefizium für zwei Tegernseer Patres stiften, was aber am Widerstand der Pfarrei Oberhaching und des Stiftes St. Andreas in Freising scheiterte. Dadurch blieb auch die finanzielle Unterstützung, die Lehner sich durch Cler erhofft hatte, aus. Das Benefizium wurde erst 1729 durch die Schwester und den Schwager Clers, Magdalena und Markus von Dürsch, die nachfolgenden Hofmarksinhaber, verwirklicht.
+
+'''Autor und Entstehungszeit:''' Die Deckenbilder werden Johann Georg Bergmüller zugeschrieben, der das Aufzugsbild am nördlichen Seitenaltar (hl. Ursula) Joan / Georg Berckhmüller / 1710 und das Fresko EB<sub>3</sub> J: G: B: 1710 signiert hat. Johann Georg Bergmüller (* 1688 Türkheim †1762 Augsburg) war von Herzog Maximilian Philipp von Bayern, der in Türkheim residierte, zur Ausbildung nach München geschickt worden. Über diese Verbindung kannte vermutlich der Auftraggeber Petrus Lehner den Maler Bergmüller.
+
+Kreuzpullach ist das früheste erhaltene Freskowerk Bergmüllers (die 1708/09 entstandene Ausmalung der Hospitalkirche St. Hubertus in Düsseldorf existiert nicht mehr). Es ist stilistisch noch deutlich beeinflusst von den Werken Andreas Wolffs, des Lehrers von Bergmüller.
+
+Die Decken- und Emporenfresken zeigen stilistische Unterschiede: Die Deckenbilder kennzeichnet eine voluminöse, aber zeichnerisch prägnant konturierende Formgebung; für die Farbigkeit ist eine Rot-Gelb-Skala grundlegend, zu der als Kontrastfarbe Coelinblau eingesetzt wird. Die Emporenbilder zeigen dagegen in einer malerisch flüssigen Pinselführung einen manieristisch gelungenen Figuralstil, verbunden mit einer eher bunten Farbgebung. Auf diese Unterschiede hat Diedrich (S. 16–22) hingewiesen und sie auf die künstlerische Unreife Bergmüllers zurückgeführt
+
+
+[[File:Band03-1_chunk003_p019_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p137 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=20 -->
+<!-- citation-page-top: Band03-1 p138 -->
+
+[[File:Band03-1_chunk003_p020_img001.jpg|thumb]]
+
+Zu den Engeldarstellungen B<sub>1-4</sub> im AR konnte eine Entwurfszeichnung J. G. Bergmüllers, braune Feder braun laviert, 20 × 23,5 cm, in der Graphischen Sammlung in Augsburg, Inv. Nr. G 21869 (s. v. Melchior Steidl) aufgefunden werden. Die tropfenartig zulaufende Kartuschenform und drei der Engel stimmen mit B1, B2 und B4 überein, die Studien schwebender Figuren und eines Puttos am Blattrand sind auf die Hauptfresken A und B zu beziehen.
+
+Drei Entwurfszeichnungen zu einer kleinen AR-Kuppel in Stadtmuseum München (Joseph Maillinger, Bilder-Chronik... – Katalog der Maillinger-Sammlung, München 1876, Bd 1, S. 95, Nr. 927), die stilistisch in das frühe Œuvre Bergmüllers zu datieren sind, könnten als Vorentwürfe für Kreuzpullach vermutet werden.
+
+
+[[File:Band03-1_chunk003_p020_img002.jpg|thumb|A Himmelfahrt Mariens A<sub>1-8</sub> Musizierende Engel]]
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, A<sub>1-8</sub>) gedrückte Tonne mit Stichkappen, im O und W gemuldet, über den Ecknischen Halbkuppeln; AR (B, B<sub>1-4</sub>) flaches Kappengewölbe mit Stichkappen, EU Flachdecke
+
+Rahmen: A, B verkröpfter Profilrahmen mit Akanthusblattwulst, A<sub>1-8</sub>, B<sub>1-4</sub> Akanthusblattkartuschen, EU und EB Stuckprofil
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 8,00 m; 4,40 × 2,90
+
+B Höhe 7,70 m; ∅ 2,20
+
+EU Höhe 3,50 m; 1,60 × 1,60
+
+Erhaltungszustand und Restaurierungen: Letzte Restaurierung 1954 durch Fa. Karl Eixenberger, München. Die Fresken weisen Übermalungen auf, deutlich erkennbar z. B. in A an dem betenden Apostel rechts am Grab und in den Putti B<sub>1-2</sub>; Längsrisse in A und B
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die Gewölbe sind durch regelmäßige Felderteilung mit stark plastischem Blattwerkstuck vollkommen ausgeschmückt; in diese Dekoration sind die verhältnismäßig kleinen Bildfelder eingebunden. Das längsformatige Fresko A mit bogig geschweiftem Umriß erstreckt sich über zwei Joche. Es ist im rhythmischen Wechsel von acht kleineren und größeren Kartuschfeldern (A<sub>1-8</sub>) umgeben unter deutlicher Betonung der Längsachse. Die diagonal um das runde Fresko B angeordneten Kartuschfelder (B<sub>1-4</sub>) wirken im Einklang mit den Kompositionslinien des Mittelbildes zentrierend.
+
+A HIMMELFAHRT MARIENS Einansichtige Darstellung mit unterschiedlichen Verkürzungen; Betrachterstandpunkt unter dem westlichen Bilddrittel. Die Darstellung hat ihre stilistischen Vorbilder in Tafelbildkompositionen (Raffael, Tizian), die Umsetzung ins Deckenbild ist nicht voll geglückt.
+
+Die Szene zerfällt in einen irdischen – eine Architekturkulisse mit dem Sarkophag und den Aposteln – und einen himmlischen Teil – Maria und Engel in Wolken unter dem Zeichen der Dreifaltigkeit in der Gloriensonne, einem Dreieck mit Tetragramm im Kreis. Jeder Teil ist für sich durch extreme Maßstabverkleinerung auf Höhenillusion angelegt, es fehlt ein einheitlicher, verbindender Höhenzug (vgl. Diedrich, S. 16f.).
+
+Die Maria-Engel-Gruppe dehnt sich über die gesamte Bildbreite aus und läßt eine kompositionelle Zentrierung vermissen. Ikonographisch ist Maria durch Gloriensonne und Mondsichel wie durch das weiß-blaue Gewand bezeichnet. Um den Sarkophag sind elf Apostel und zwei Frauen versammelt. Durch Stellung und Größe hervorgehoben ist der schreibende Apostel im Vordergrund, ikonographisch nach Haartracht und Gewandfarben als Petrus zu bestimmen.
+
+
+[[File:Band03-1_chunk003_p020_img003.jpg|thumb|Johann Georg Bergmüller, Entwurfszeichnung für die musizierenden Engel B<sub>1</sub>, B<sub>2</sub>, B<sub>4</sub>, Augsburg, Städt. Kunstsammlungen]]
+<!-- citation-page-bottom: Band03-1 p139 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=21 -->
+<!-- citation-page-top: Band03-1 p140 -->
+
+<!-- header: KREUZPULLACH -->
+
+<!-- header: KREUZPULLACE -->
+
+
+[[File:Band03-1_chunk003_p021_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk003_p021_img002.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk003_p021_img003.jpg|thumb]]
+
+
+men und als Würdigung des Namenspatrons des Hof marksherrn Petrus Lehner zu verstehen. (Der Legende nach schrieb Johannes Evangelist die Geschichte der Him melfahrt Mariens, LA-Benz 1979, S. 583).
+
+A<sub>1-8</sub> MUSIZIERENDE ENGEL in den Kartuschfresken paarweise mit jeweils gleichen Instrumenten um A geordnet. Die huldigenden Engel sind thematischer Bestandteil der Himmelfahrt-Mariens-Darstellung.
+
+A<sub>1</sub> Engel mit Cello (am O-Ende von Fresko A)
+
+A<sub>2</sub> Engel mit Geige
+
+A<sub>3</sub> Engel mit Geige
+
+A<sub>4</sub> Engel mit Laute
+
+A<sub>5</sub> Engel mit Laute
+
+A<sub>6</sub> Engel mit Trompete
+
+A<sub>7</sub> Engel mit Trompete
+
+A<sub>8</sub> Engel mit zwei Pauken (am W-Ende von Fresko A)
+
+B AUFERSTEHUNG CHRISTI (Mt 28,2-4) Einansichtige Szene, deren Untersicht die Figuren in starker Verkürzung erscheinen läßt. Betrachterstandpunkt unter dem W-Rand. Die Szenerie ist beschränkt auf die Andeutung von Felsbrocken, auf denen ein Sarkophag steht. In das Halbrund des östlichen Bildfeldes sind vier heftig gestikulierende Grabwächter als Repoussoirfiguren eingeschrieben, betont durch leuchtende blaue und grüngraue sowie gedämpftere Rottöne. Das westliche Halbrund füllt die Christus-Engel-Gruppe, umschrieben von einem Wolkenbogen. Christus und die Engel sind in lebhaften, differenzierten Rotwerten – auch das Inkarnat und die Wolken sind auf Rot gestimmt – vor einen ruhig-hellen ockergelben Grund, die Glorie, gesetzt. Wenig Blau als Kontrast steigert die Wirkung der Rot-Ocker-Skala.
+
+Ein auf dem Sarkophag sitzender Engel ragt in die Christus-Engel-Gruppe und bildet das kompositionelle Verbindungslied zwischen irdischer und himmlischer Szene. Der Engel ist auch farblich ausgezeichnet: das lichte, an Ocker gebundene Weiß in Gewand und Flügeln bildet den Auf- takt zu den Rot-Ocker-Tönen der Himmelsgruppe. Auf dem Sarkophag eine Inschrift, die hebräische Schriftzeichen nachahmt.
+
+Im Vergleich zu A fügt sich dieses Fresko formal und kompositorisch zu einer dynamisch bewegten, farblich spannungsvollen Darstellung.
+
+B<sub>1-4</sub> MUSIZIERENDE ENGEL Analog zu den Engel kartuschen im LHs sind im AR vier huldigende Engel dem sieghaft Auferstandenen beigesellt.
+
+B<sub>1</sub> Engel mit Flöte
+
+B<sub>2</sub> Engel mit Notenblatt
+
+B<sub>3</sub> Engel mit Flöte
+
+B<sub>4</sub> Engel mit Fagott
+
+EU und EB<sub>1-3</sub> KREUZ-SZENEN Das vierpaßförmige Fresko an der Emporenunterseite (EU) schlägt das Patroziniumsthema, Hl. Kreuz, an. Die sehr breiten und dabei niederen Brüstungsbilder (EB<sub>1-3</sub>) enthalten volkreich dargestellte Passionsszenen. Allen Emporendarstellungen gemeinsam ist das Kreuz als Bildmotiv, es ist auch in der Ecce-Homo-Szene stark betont.
+
+EU Das Leidenskreuz Christi, als Zeichen des Heiles und Sieges von Engeln getragen und zur Schau gestellt.
+
+EB<sub>1</sub> (Mitte) Ecce Homo (Jo 19,4-6)
+
+EB<sub>2</sub> (links) Kreuztragung (Lc 23,27)
+
+EB<sub>3</sub> (rechts) Kreuzannagelung (vgl. Jo 20,25)
+
+Im Hochaltarblatt ist die Kreuzigung mit Johannes und Maria Magdalena dargestellt. In den Seitenaltarbildern wird mit der Verleumdung Petri (links) und der reuigen Magdalena (rechts) im Zusammenhang mit der Passionsthematik auf die Namenspatrone der Hofmarksinhaber Petrus Lehner und Magdalena von Dürsch angespielt.
+
+
+[[File:Band03-1_chunk003_p021_img004.jpg|thumb|B Auferstehung Christi B<sub>1-4</sub> Musizierende Enge]]
+
+
+
+[[File:Band03-1_chunk003_p021_img005.jpg|thumb|EB<sub>2</sub> Kreuztragung]]
+
+
+
+[[File:Band03-1_chunk003_p021_img006.jpg|thumb|EB<sub>3</sub> Kreuzannagelun]]
+
+
+
+[[File:Band03-1_chunk003_p021_img007.jpg|thumb|EU Passionskreuz]]
+
+
+== Literatur ==
+
+
+KDB OB I (1), S. 884f.
+
+Hager, Georg, Kreuzpullach, eine Dorfkirche der Barock kunst, in: Hager, Georg, Heimatkunst, Klosterstudien Denkmalspflege, München 1909, S. 37–43.
+
+Schnell, Hugo, Kreuzpullach vor München, in: Propyläen (= Zeitungsbeilage zur Münchener Zeitung) 32, 1934/35, S. 349.
+
+Diedrich, Hans Heinrich, Die Fresken des Johann Georg Bergmüller, Diss. Mainz 1959, S. 16-22
+
+Der Landkreis Wolfratshausen in Geschichte und Gegenwart, ein Heimatbuch (o.V.), München 1965, S. 187.
+
+Hobmair, Karl, Hachinger Heimatbuch, Oberhaching 1979, S. 223-40.
+
+Der Landkreis München (o.V.), München 1979, S. 58-61.
+
+C.B/L.L
+<!-- citation-page-bottom: Band03-1 p141 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk003.pdf#page=22 -->
+{{End}}

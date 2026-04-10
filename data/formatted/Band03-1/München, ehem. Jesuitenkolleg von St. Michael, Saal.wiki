@@ -1,0 +1,146 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=241
+|Originalseitenbis=244
+|Lemma=München, ehem. Jesuitenkolleg von St. Michael, Saal
+|Typ=Sakral
+|Ort=München
+|davor=München, ehem. Jesuitenkolleg von St. Michael, sog. Schöner Studentensaal
+|danach=München, ehem. Jesuitenkolleg von St. Michael, Saal II
+|AutorIn1=Baur, Eva-Gesine
+}}
+
+'''Zum Bauwerk:'''
+
+
+Der Saal war ein längsrechteckiger Raum ca. 24,60 × 9,80 m (nach Hörmann 84 Schuh × 33 Schuh 6 Zoll), neun Fensterachsen nach N, an der O-, S- und W-Seite Durchgänge zu den Nebenräumen, S-Seite von einem Gang begrenzt. Stuckierte Flachdecke, Stuck nach einem Entwurf Fr. Johannes Hörmanns. Hörmann war Schreiner und Angehöriger des Jesuitenkollegs in München; er leitete u. a. 1697 die Restaurierungsarbeiten in der Michaels-Kirche. Seine Entwürfe sammelte er in einem von ihm selbst kommentierten Werk, »Delineationes...«. Unter ihnen befindet sich ein Entwurf zu der Decke der Bibliothek (»pilletäg«, Bl. 73) mit der Erklärung: »Ein thier kleidung sambt einer deckhen wie angedeut von weißen gipswerch alles gemacht zu München in der pilletäg sambt unter schidlichen schönen Mallereien in der deckhen 1696.« Der Entwurf stimmte mit der ausgeführten Deckendekoration in Saal I (vgl. die photographischen Aufnahmen) nahezu vollständig überein.
+
+Die Rechteckfenster saßen in Korbbogen-Rahmungen mit kannelierten Stuckleisten, von einer stuckierten Girlande und einer Muschel bekrönt
+
+'''Autor und Entstehungszeit:''' Erste Ausmalung um 1696, Autor unbekannt. Bei Hörmann sind die »unterschidlichen schönen Mallereien in der deck hen 1696« bereits erwähnt, 1701 beschreibt Wening »ein doppelte mi Büchern wol eingerichte und schönen Gemählen gezierte Bibliothek« in Jesuitenkolleg, die Ausstattung war demnach in beiden Sälen vollendet. Auf diese Ausstattung bezogen sich die ovalen Olbilder in der Randzone (1–8; die dargestellten Gelehrten lebten großenteils im 17. Jh., bis 1680) Ob diese Ausstattung auch die Mittelfelder miteinbezog, läßt sich nicht mehr ermitteln. Die Puttenköpfchen in C erinnerten sehr an Johann Anton Gumpp (* 1654 Innsbruck † 1719 München, vgl. Kapelle der Englischen Fräulein, 1696/97, S. 214-19, nicht aber der übrige stilistische Befund.
+
+Zweite Ausmalung um 1730/40, Zuschreibung an Joseph Ignaz Schilling. Die Mittelbilder A-C sind stilistisch später zu datieren. Als Autor kommt Joseph Ignaz Schilling in Betracht, dessen Stil auf den erhaltenen Photographien zu erkennen und anhand der gesicherten Fresken Schillings in der Pfarrkirche St. Johannes in Taufkirchen (S. 169–73) zu identifizieren ist. Stilistische Unstimmigkeiten in Fresko B, wo die Figuren des Moses und David aufgrund eines differierenden Größenmaßstabs, einer kleinteiligen Gewandauffassung und einer qualitativ schwachen Malweise aus der Komposition herausfallen bzw. wie nachträglich eingesetzt wirken, lassen sich anhand der Photographien nicht mehr klären.
+
+Joseph Ignaz Schilling (* 1702 Villingen, 1730 Meister in München † 2. 4. 1773 München) war dedizierter Jesuitenmaler. Er war an der Ausmalung des Lateinischen Kongregationssaals (1725/52, siehe S. 235) beteiligt und malte für die Kongregation »allein bey vierzig Jahr das ganze Theater« (Westenrieder, S. 377).
+
+
+[[File:Band03-1_chunk005_p021_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk005_p021_img002.jpg|thumb|Johannes Hoermann, Entwurf zur Deckengestaltung von Saal I, 1696, in: Delineationes ... Blatt 73, München, Bayerische Staatsbibliothek]]
+<!-- citation-page-bottom: Band03-1 p241 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=22 -->
+<!-- citation-page-top: Band03-1 p242 -->
+
+<!-- header: EHEM. IESUITENKOLLEG -->
+
+<!-- header: EHEM. JESUITENKOLLI -->
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke
+
+Rahmen: A und C hatten die Form eines regelmäßigen Achtecks mit alternierend geraden und konvex geschwungenen Seiten. Eine innere gemalte dunkle Rahmenleiste zeigte an den geraden Seiten Bibelzitate, an sie schloß ein Stuckprofilrahmen an, dessen äußeres Profil mit Blattornamenten verziert war. Fresko B hatte eine innere, kreisrunde Stuckprofilrahmung mit bandumflochtener Blatt- und Blütengirlande und eine äußere, analog dem Format von A und C, in Form eines lanzettförmigen Blattkranzes. 1–8 stuckierte Lorbeerblattgirlanden. Die Inschriftkartuschen um das Mittelbild griffen agraffenartig in die Rahmenleisten der benachbarten Bildfelder ein. Tempera oder Öl auf Leinwand (auf den Photographien ist eine Mittelnaht zu erkennen)
+
+Technik: A-C Fresko; 1-8 Öl auf Leinwand oder Holz, vermutlich alle Bilder polychrom
+
+Verbleib: Die Deckenbilder sind nicht erhalten, sie wurden 1944 zerstört. Von dem Raum existieren photographische Aufnahmen (Foto Marburg, Nr. 120136 k, o, q, s, u, x und y), die den Zustand vor der Zerstörung zeigen.
+
+
+== Rekonstruierende Beschreibung und Ikonographie ==
+
+
+Die Decke läßt sich nach den erhaltenen photographischen Aufnahmen weitgehend rekonstruieren; die Inschriften sind teilweise zu erkennen und teilweise zu rekonstruieren.
+
+Die Stuckdekoration gliederte die Decke in einen mittleren Bereich mit drei hintereinanderliegenden großen Bildfeldern (A, B, C) und in einen Randbereich mit kleineren ovalen Medaillons (1–8).
+
+A ASTRONOMIE Zentrale Bildkomposition; um einen Himmelsglobus, den vier Puttoköpfchen umgaben, waren in den Achsen vier männliche Gestalten angeordnet, über den konvexen Seiten ragte in starker Untersicht jeweils eine Balustrade auf. Die vier Figuren sollten wohl bekannte Astronomen darstellen:
+
+Östlich, auf dem Foto erkennbar, eine bartlose Gestalt mit halblangen Haar, in der Rechten ein Papier mit drei Gestirnen auf einer Umlaufbahn, in der Linken ein Buch, Inschrift STANTE SOLE TERRA MOVETUR. Es muß sich um Nikolaus Kopernikus (1473-1543) handeln, der Typus stimmt mit damals bekannten Porträts überein, die Inschrift formuliert den Grundsatz des heliozentrischen kopernikanischen Weltbildes.
+
+In dem gemalten Rahmen die Inschrift MUNDUM (analoge Inschriften an den drei anderen Seiten sind nicht zu erkennen).
+
+Südlich eine Gestalt in der Gelehrtentracht des 16./frühen 17. Jh. mit Halskrause, in der Linken einen Zirkel, zu Füßen ein aufgeschlagenes Buch (Inschrift nicht lesbar). Tracht und Habitus können auf den dänischen Hofastronomen am Rudolfinischen Hof, Tycho Brahe (1546-1601), aber auch auf seinen Amtsnachfolger Johannes Kepler (1571–1630) schließen lassen. Der Knebelbart des abgebildeten Astronomen stimmt mit dem Porträttypus des letzteren besser überein.
+
+Westlich eine Gestalt in dunkler, das Haupt verhüllender Kutte, im Profil gegeben. Auf den Knien(?) ein aufgeschlagenes Buch (Inschrift nicht lesbar). Wahrscheinlich handelt es sich um den Franziskanermönch Roger Bacon (1214-1294), den einzigen bedeutenden Astronomen des Mittelalters, der als erster den julianischen Kalender in Frage stellte.
+
+Nördlich ein vollbärtiger Mann in Toga, einen antiken Gelehrten repräsentierend, zu seinen Füßen ein aufgeschlagenes Buch (Inschrift nicht lesbar): wohl Hipparch von Nicäa (2. Jh. v. Chr.) oder Ptolemäos (um 140 n. Chr.).
+
+B VIER EVANGELISTEN ALS REPRÄSENTANTEN DER THEOLOGIE In der Mitte des runden Bildfeldes ist Maria in der Glorie zu erkennen, sie trägt ein helles, blütenverziertes Gewand, eine Krone auf dem Haupt und ein Zepter in der Rechten. In der Linken ein Buch mit der Inschrift OMNIA SAPIENTIA A DEO EST Eccl 1 (Eccl 1, 1, Alle Weisheit ist von Gott). Vor der Hl.-Geist-Taube im Herzen der Himmelskönigin gehen vier Strahlen aus, die auf die aufgeschlagenen Bücher der vier Evangelisten treffen, die Buchinschriften geben den Anfang des jeweiligen Evangeliums wieder. Konzentrisch um Maria angeordnet sind die Figuren der Evangelisten und des Alten Testaments, die über dem Bildrand auf Wolken lagern:
+
+im NW Matthäus mit Engel und Buch LIBER GENERATIONIS IESU CHRISTI (Mt. 1, 1, Buch der Abstammung Jesu Christi)
+
+im SW Lukas mit Stier und Buch QUONIAM QUIDEM MULTI (conati sunt ordinare narrationem, Lc 1, 1, Da es schon so viele unternommen haben, einen Bericht über die Ereignisse abzufassen)
+
+gegenüber im NO Johannes mit Adler und Buch IN PRINCIPIO ERAT VERBUM (Io 1, 1, Im Anfang war das Wort)
+
+neben ihm im SO Markus mit Löwe und Buch INITIUM EVANGELII JESU CHRISTI (Mc 1, 1, Anfang der Heilsbotschaft von Jesus Christus)
+
+Stilistisch verschieden und vielleicht nicht original sind die beiden Figuren im N und S, Moses mit Hörnern und Gesetzestafeln und König David mit Krone, Lyra und Buch BEATUS VIR QUI NON ABIIT IN COSILIO IPIOTUM (Consilio impiorum, Ps 1, 1, Selig der Mann, der nicht folgt den Rat der Freyler).
+
+Auf das Mittelbild sind vier Inschriftkartuschen gerichtet, die einen zusammenhängenden Text ergeben
+
+QUI AUTEM DOCTI FUERINT (W)
+
+FULGEBUNT QUASI SPLENDOR FIRMAMENTI (S)
+
+ET QUI AD IUSTITIAM ERUNDIUNT MULTOS (O)
+
+QUASI STELLAE IN PERPETUAS AETERNITATES Eccles. (N)
+
+(Dan 12, 3, Da werden die Einsichtigen leuchten wie der Glanz des Firmamentes, und die, welche viele zur Gerechtigkeit geführt, wie die Sterne in alle Ewigkeit).
+
+C VIER HERRSCHER ALS REPRÄSENTANTEN DER ERDTEILE Vier männliche Herrschergestalten repräsentieren die Vier Erdteile, sie sind konzentrisch um ein rundes dunkles Feld (? nicht genau zu benennen) in der Bildmitte angeordnet, das von unterschiedlich bekrönten Puttoköpfchen umgeben ist. Die Figuren sind in die Bildachsen komponiert, sie haben den Blick nach oben gerichtet, bei jeder ist als Begleitfigur ein Putto in entsprechender Hautfarbe mit einem Schild zu sehen, auf dem ein Tier als Symbol dargestellt ist. Über den eingezogenen Bildseiten ist - analog zu A – als illusionistische Rahmenzone eine steinerne Balustrade in starker Verkürzung gemalt
+
+Africa (O) Dunkelhäutige Gestalt in heller, kostbarer Kleidung, eine Krone auf dem Haupt, die Rechte ans Herz gelegt. Auf dem Schild ein Affe in Menschenkleidung. In der Ecke vor der Balustrade ein großer Papierbogen mit der Aufschrift GENTES QUAE LEGEM NON HABENT NATURALITER QUAE LEGIS SUNT FACIUNT Rom 10 (Rom 2, 14, Went nämlich die Heiden, die kein Gesetz haben, von Natur aus die Vorschriften des Gesetzes erfüllen, so sind sie, die sie kein Gesetz haben, sich selbst Gesetz)
+
+Europa (S) Herrscher in Prachtrobe, auf dem Haupt die Kaiserkrone mit Kreuz, die Rechte ans Herz gelegt, mit der Linken ein Buch aufschlagend CODEX IUSTINIANUS. Rechts über der Balustrade ein Papierbogen, Inschrift PER ME REGES REGNANT ET LEGUM CONDITORES IUSTA DECERNUNT (Prov 8, 15, Durch mich regieren die Könige, verfügen die Begründer das Rechte). Der nach vorn gebeugte Putto hält ein Schild mit Pferd oder Einhorn (?). Mit der Herrschergestalt wird auf den oströmischen Kaiser Flavius Justinianus angespielt, der die Gesamtheit der Gesetze im sog. Codex Justinianus, auch Corpus Iuris genannt, publizierte, um zersplitterten und schwer zugänglichen Rechtsstoff zusammenzufassen und verfügbar zu machen
+
+America (W) Dunkelhäutige Gestalt, um die Schultern ein Federkragen, um das Haupt eine federgeschmückte Kette, als Attribute Pfeil und Bogen. Das Symbol auf dem Schild ein Kakadu oder Papagei (?). In der Ecke vor der Balustrade ein Buch mit der Inschrift IUDEX SAPIENS IUDICABIT POPULUM SUUM Eccl 10 (Eccli 10, 1, Ein weiser Herrscher festigt sein Volk)
+
+Im gemalten Rahmen das Wort GUBERNATIONI
+
+Asia (N) Weißhaarige, bärtige Gestalt in kostbarer Gewandung, auf dem Haupt einen hellen Turban, die Linke wie zum Schwur erhoben, in der Rechten ein Buch LEGEM EIUS INSULAE EXPECTANT Rom 10 (Zitat nicht zutreffend, ähnlich nur Is 60, 9: Me enim insulae expectant, Mich erwarten nämlich die Inseln). Dieser Text wurde wohl absichtlich im Sinne der jesuitischen Missionstätigkeit paraphrasiert (= die Inseln erwarten sein Gesetz). Der beigesellte Putto hält den Schild mit Drachen vor der Balustrade.
+
+
+[[File:Band03-1_chunk005_p022_img001.jpg|thumb|Saal I: Ansicht der Decke mit C Vier Herrscher als Repräsentanten der Erdteile B Vier Evangelisten als Repräsentanten der Theologie A Astronomie sowie den Jesuitenheiligen 3 Jakob Balde und 6 Jeremias Drexler (vor der Zerstörung)]]
+
+
+
+[[File:Band03-1_chunk005_p022_img002.jpg|thumb|Saal I: Teilansicht der Decke mit dem Mittelbild B und 2 Athanasius Kircher (vor der Zerstörung)]]
+<!-- citation-page-bottom: Band03-1 p243 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=23 -->
+<!-- citation-page-top: Band03-1 p244 -->
+
+<!-- header: EHEM. JESUITENKOLLEG -->
+
+
+[[File:Band03-1_chunk005_p023_img001.jpg|thumb|(1554–1624) war Verfasser bedeutenden und umfangreichen aszetischer Schrifttums.]]
+
+
+
+[[File:Band03-1_chunk005_p023_img002.jpg|thumb]]
+
+
+
+== Ikonologie ==
+
+
+Mit dem Bildprogramm des ehem. Studentensaals ist ein sehr spezielles und schlüssig durchdachtes Bibliotheksprogramm weitgehend rekonstruiert, das im süddeutschen Raum und im betreffenden Zeitraum als ein seltenes Beispiel einzustufen ist.
+
+Im Zentrum von B und damit im Mittelpunkt des Raumes verwies Maria als Beschützerin des Ordens auf die Provenienz aller Weisheit und relativierte die menschliche Gelehrtheit OMNIA SAPIENTIA A DEO EST.
+
+Saal I: Teilansicht der Decke mit
+
+
+[[File:Band03-1_chunk005_p023_img003.jpg|thumb|Saal II: Ansicht der Decke mit C Hl. Ignatius als Missionsgründer B Die Kirchenväter als Medium der Exegese und A Die Wissenschaften als Medium der Jesuitischen Mission (vor der Zerstörung)]]
+
+
+{{End}}

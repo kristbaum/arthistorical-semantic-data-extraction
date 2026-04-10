@@ -1,0 +1,192 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=235
+|Originalseitenbis=240
+|Lemma=München, ehem. Jesuitenkolleg von St. Michael, sog. Schöner Studentensaal
+|Typ=Sakral
+|Ort=München
+|davor=München, ehem. Jesuitenkolleg von St. Michael
+|danach=München, ehem. Jesuitenkolleg von St. Michael, Saal
+|AutorIn1=Baur, Eva-Gesine
+}}
+
+EHEM. SAAL DER GROSSEN LATEINISCHEN KONGREGATION, sog. Schöner Studentensaal; Saal der Congregatio Maior Latina Monacensis sub Titulo B. V. Mariae ab angelo salutatae; Oratorium der Lateinischen Kongregation, die aus der Kongregationsteilung am Dreifaltigkeitssonntag 1597 in Congregatio Maior Latina (Adlige, Beamte, Studierende des Lyceums) und Congregatio Minor (des Lateinischen unkundige Bürger und Schüler des Gymnasiums) hervorgegangen war
+
+'''Zum Bauwerk:''' 1697/98 Planung und Bau anlässlich des hundertjährigen Bestehens der Congregatio Maior Latina (s. o.) und der Hundertjahrfeier der Konsekration von St. Michael. Am 27. November 1697 Beratung und Inspektion durch Giovanni Antonio Viscardi; am 9. April 1698 Grundsteinlegung zum Umbau, Bauleitung durch G. A. Viscardi (erhält lt. Abrechnung 1744 fl.), 1698 vollendet. Über der Tür war die Weiheinschrift: »Deo Ter: optimo maximo. Ad honorem B. V. M. ab Angele salutatae, Matris propitiae. Hoc suum oratorium angustiori forma extru fecit Marianorum D. D. sodalium munificentia MDCXCVIII.« (Beschreibung 1750).
+
+Am 23. Mai 1698 Bericht über die Bauarbeiten; Veränderung von Vorraum und Treppenaufgang, neue Einwölbung unter Einbeziehung des darübergelegenen Mezzaningeschosses, wo bis dahin die Congregatio Minor ihren Sitz gehabt hatte (Beschreibung 1750, S. 54: »Congreg. Mino war vorhero oberhalb der Alt: grossen Congr: nachdem aber selbige i ezige form aufgericht, Ist diese auch in der vorherigen Rhetorii Schu eingeführt«; Randnotiz »Minor in ablong Rundell fenstern«).
+
+1698 mehrere Gesamtentwürfe zur Innenraumgestaltung von Johann Andreas Wolff und einem nicht genannten Stukkator (Hoermann, Delinationes, Bl. 11, 12, 13, 14). Stuckierung der Decke durch Johann Georg Bader (869 fl.); fertiggestellt am 27. September 1698. Am 21. November 1698 fand in dem neugestalteten Kongregationssaal der erste Konvent statt (Continuatio, BSB, Cod. lat. 1552). Die einzige bekannte Bildquelle zur Gestalt des Kongregationssaales sind zwei aquarellierte Prospekte von unbekannter Hand, bis 1935 in der Sakristei der Dreifaltigkeitskirche nachweisbar (z. Z. verschollen, Abb. aus Steinbart, Greiff, Berlin 1935 Tafel 28). Das Datum MDCCLII, das in einem der Prospektzeichnungen im Hauptdeckenbild eingetragen war, ist vielleicht als Entstehungsdatum
+<!-- citation-page-bottom: Band03-1 p235 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=19 -->
+<!-- citation-page-top: Band03-1 p236 -->
+
+<!-- header: EHEM. JESUITENKOLLEG -->
+
+der Skizze zu interpretieren. Dem Datum entspricht stilistisch die dargestellte Stuckdekoration, die in der Deckenaufteilung andererseits jedoch exakt mit dem Entwurf Hörmanns (Bl. 14) übereinstimmt: Ohne photographisches Bildmaterial läßt sich nicht feststellen, ob dieser Stilbefund auf eine Neustuckierung der Decke um die Mitte des 18. Jhs. oder auf eine zeitgemäße Interpretation des Prospektzeichners zu beziehen ist.
+
+1755 wurden die Fenster vermehrt (Öffnung von Blindfenstern). 1784 wurde der Saal profaniert und zur Aufnahme der naturhistorischen Sammlungen der Akademie der Wissenschaften bestimmt (Übertragung der Congregatio Maior Latina in die Dreifaltigkeitskirche am 1. Juni 1802).
+
+Anfang des 19. Jh. wurde der Saal umgestaltet, 1944 Totalzerstörung durch Sprengbomben. Es ist ungeklärt, was zu dieser Zeit von der barocken Raumausstattung noch vorhanden war.
+
+Längsrechteckiger Saal im zweiten Stock des Risalitflügels des ehem. Jesuitenkollegs an der Neuhauserstraße; Maße ca. 24 × 15,45 m (= 82 Schuh × 52 Schuh, 9 Zoll; nach Hoermann, Delineationes, Bl. 13) oder, was im Verhältnis zu den Fensterachsen wahrscheinlicher ist, ca. 24,55 × 16,70 m (= 83 Schuh, 9 Zoll × 57 Schuh; nach Hoermann, Delineationes, Bl. 14). Sieben Fensterachsen nach O, fünf nach S; Rechteck-Fenster, darüber hochovale Fenster, sog. Ochsenaugen. Wandgliederung an den geschlossenen Seiten entsprechend der jeweils gegenüberliegenden Fensterfront. An der W-Seite sieben Rechteckfelder, darüber Ovalfelder; gegenüber dem zweiten und sechsten Fenster je ein Eingang von dahinterliegenden Räumen (Congregatio Minor seu Media und Congregatio Tertia; Steinbart, Greiff, S. 18; »Jagd- und Skelettsaal«). In den übrigen Rechteckfeldern der W-Seite und in allen der N-Seite waren Ölgemälde eingelassen (W<sub>1-10</sub>). In den darüberliegenden Blendoculi, den Ochsenaugenfenstern entsprechend, an der W-Seite jeweils ein ovales Ölbild (W<sub>a-f</sub>, fehlend nur über W<sub>5</sub>, in der siebenten Fensterachse, dort Ansatz der Orgelempore an der N-Seite). Die Ovalfelder der N-Seite waren durch stuckierte eingestellte Rechtecke gegliedert. Die Empore war an der N- Seite zwischen der unteren Zone der Rechteckfelder und der oberen der Ovalfelder eingezogen, auf gedrehten Säulen, an der Brüstung fünf rechteckige Felder mit eingelassenen Ölbildern, an der Unterseite der Empore war ein weiteres Ölbild (EU) zu sehen; an der S-Seite war ein Muttergottesaltar.
+
+Horizontale Gliederung durch umlaufendes Gebälk zwischen den beiden Fensterreihen, das mit den vertikalen Gliedern (ionische Doppelpilaster) verkröpft war. Zwischen Gebälk und Dachansatz vermittelten pilasterartige Glieder zwischen den Ovalfenstern. Decke Spiegelgewölbe mit Stichkappen, stuckiert.
+
+'''Auftraggeber:''' Rektor der S. J
+
+
+[[File:Band03-1_chunk005_p019_img001.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk005_p019_img002.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk005_p019_img003.jpg|thumb]]
+
+
+'''Autor und Entstehungszeit:''' Erste Ausmalung 1698 nach einem abgeänderten Entwurf eines Deckengliederungs-Systems von Johann Andreas Wolff (Hoermann, Delineationes, Bl. 14); mittleres Deckenbild von Johann Andreas Wolff (*11. 12. 1652 München †9. 4. 1716 ebda., s. S 103; Oefeleana 5, V, fol. 39), die acht umgebenden kleineren Bildfelder von Johann Baptist Untersteiner (Oefeleana, 5, V, pag. 401 und Oefeleana 78, 4, fol. 22) bzw. teilweise von Wolff (Verzeichnis von 1760: »In der Oberdecke ist die allerseeligste Mutter Gottes Maria zu sehen, welche nebs denen 6 füllungen von Andre Wolf verfertiget worden ist. Die an bemelter Oberdecke noch weiters fündige 4 Rundellen seind durch die Hand des Hanns Untersteiners gemahlen worden. Ob dem Altar ist ein Rundell die Verkündigung Mariae, von Andre Wolff«).
+
+<blockquote>»In der FlippöNer Oberdecke ist die allerseeligste Mutter Gottes Maria zu sehen, welche nebst denen 6 füllungen von Andre Wolf verfertiget worden ist. Die an bemelter Oberdecke noch weiters fündige 4 Rundellen seind durch die Hand des Hanns Untersteiners gemahlen worden. Ob dem Altar ist ein Rundell die Verkündigung Mariae, von Andre Wolff«.</blockquote>
+
+Johann Baptist Untersteiner, * 1661 Vohburg als Sohn eines Soldaten, der in Tölz in bayerischen Diensten stand. 1677 stirbt der aus Brixen gebürtige Vater; die Mutter Katharina Untersteiner, Mutter vier ehelich gezeugter Kinder, schreibt am 26. Juli 1677 an den Bischof von Brixen, daß er ihr die Auszahlung des väterlichen Erbteils vermitteln solle. In dem Brief, den sie als »Soldatin von Tölz« unterschreibt, sagt sie, ihr Mann habe zwanzig Jahre als Soldat gedient. In demselben Jahr tritt Untersteiner in die Lehr bei Niclas Prugger; der Kurfürst zahlt Lehr- und Kostgeld für ihn (Sigl vom 3. April 1677) mit der Bedingung, daß Untersteiner immer, wenn er gebraucht werde, ohne Pruggers Widerrede für den Kurfürsten ohne zusätzliche Bezahlung arbeiten und nach Beendigung seiner Lehre der Churfrtl. Drl. dienen solle. Darauf solle das Hofbauamt ihn verpflichten. Gleichzeitig ergeht Befehl an Cammerloher, die 300 fl. Lehr- und Kostgeld an Prugger auszuzahlen. Zuvor hat ein Rat in einem Bittschreiben vom 15. 10. 1676 dem Kurfürsten die Bedürftigkeit des jungen Untersteiner dargelegt; er und seine Geschwister seien Waisen und dem Bettel verfallen. Untersteiner habe Zeichnungen und Risse vorgewiesen, die Talent verrieten, habe bei Prugger zur Probe gearbeitet, und dieser sei unter obengenannten Bedingungen bereit, ihn als Lehrling aufzunehmen. 1679 ergeht ein Bericht über seinen Lehrling von Prugger an den Kurfürsten, in welchem er um Bezahlung von sechs Hemden, sechs Krägen, sechs Taschentüchern und sechs Paar Strümpfen für den armen Buben bittet; er habe zwar 1677 Leinwand, 1678 aber gar nichts erhalten. Eine Notiz unter dieser Anfrage läßt vermuten, daß hierfür 10 fl. 35 kr. ausgezahlt wurden. Am 23. 8. 1679 wird eine von Untersteiner verfaßte Bittschrift zum Bericht an das Hofbauamt weitergeleitet, die an Herzog Max Philipp gerichtet ist, und, mit dem Hinweis, er gehe ganz zerrissen, eine Liste des Benötigten enthält: dem Gesuch wird willfahren.
+
+Am 15. Mai 1684 sind für Untersteiner insgesamt 60 fl. akkordiert, da er für Max Emanuel ein Brettspiel auf Pergament mit 60 unterschiedlichen Tieren »auf Miniaturart« (pro Stück 36 kr.) gemalt hatte. (Nach BHStA I, FS 78, FS 675, 1, fol. 180; HR I, 286, Nr. 345.) Oefele (Oefeleana 5, V, pag. 401) sagt von Untersteiner, er sei »ein gebohrener bayr von tölz: an ihm mag das Sprichwort ein Rubens von Tölz seine ironiam verlieren, dann er ein trefflicher meister gewesen«. Untersteiner war später Schüler von Wolff, 1691 Heirat in München, ab 1703 wird er als Kurfürstl. Hofmaler genannt.
+
+Zweite Ausmalung 1720/52 (?)
+
+Die Wandgemälde W<sub>1-10</sub> und W<sub>a-f</sub> wurden in einer zweiten Ausstattungsperiode hinzugefügt. In der Schmidtschen Matrikel heißt es, der Saal sei bei Gelegenheit seines hundertjährigen Bestehens im Jahr 1720 »eleganter exstructum« (S. 206–07, Mayer-Westermayer, S. 226).
+
+Dieses Datum ist für die beschäftigten Maler wahrscheinlich, mit Ausnahme von J. I. Schilling, der erst 1730 Meister in München wurde. Der terminus ante quem der Vollendung ist das Datum 1752 auf dem aquarellierten Prospekt (s. S. 235 f., 239).
+
+Die Autoren der Wandbilder sind in der zeitgenössischen Literatur vielfach, wenn auch nicht immer übereinstimmend, überliefert. Nach Oefele Westenrieder und Rittershausen stammten die einzelnen Gemälde von folgenden Malern:
+
+W<sub>1</sub> Joseph Ruffini (* Meran † 7. 2. 1749 Augsburg)
+
+W<sub>2</sub> Johann Degler (* Vilnöss/Tirol † 2. 1. 1726 Tegernsee)
+
+W<sub>3</sub>, W<sub>e</sub> Nikolaus Gottfried Stuber (*15. 1. 1688 München †23. 4. 1749 ebda)
+
+W<sub>4</sub> Jacopo Amigoni (* um 1675 Venedig † 1752 Madrid
+
+W<sub>5</sub>, W<sub>f</sub> Johann Baptist Zimmermann (*3. 1. 1680 Gaispoint bei Wessobrunn †begraben 2. 3. 1758 München)
+
+W<sub>7</sub> Johann Georg Winter (*30. 9. 1707 Groningen †11. 1. 1770 München)
+
+W<sub>8</sub> Cosmas Damian Asam (*28. 9. 1686 Benediktbeuern † 11. 5. 1739 München)
+
+W<sub>9</sub>, W<sub>b</sub> Balthasar Augustin Albrecht (* 1687 Berg bei Starnberg † 1. 8. 1765 München)
+
+W<sub>10</sub> Johann Eustachius Kendlbacher (tätig Anfang 18. Jh. in München † 1725 ebda.)
+
+Wa Joseph Ignaz Schilling (* 1702 Villingen † 2. 4. 1773 München)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: stuckiertes Spiegelgewölbe mit Stichkappen Rahmen: stuckierte Rahmen
+
+Technik: Alle Deckenbilder waren in Öl auf Leinwand ausgeführt (zum Mittelbild A s. Lipowsky, Künstlerlexikon 1810, S. 176; zu den Tafeln 1–8 s. Oefeleana 5, V, pag. 401). Die Bilder an den Wänden (W<sub>1-10</sub> und W<sub>a-f</sub>) ebenfalls Öl auf Leinwand oder Holz. Sämtliche Bilder vermutlich polychrom.
+
+Verbleib: Der Raum wurde 1944 zerstört, die Deckenbilder sind nicht erhalten, sie sind auch nicht durch photographische Aufnahmen dokumentiert.
+
+Johann Andreas Wolff, Entwürfe zur Wand- und Deckengestaltung der 🗅 Großen Lateinischen Kongregation 1698, in: Johannes Hoermann, Delineationes ... Blatt 11 (unten) und 12 (oben), München, Bayerische Staatsbibliothek
+
+
+[[File:Band03-1_chunk005_p019_img004.jpg|thumb]]
+
+
+
+[[File:Band03-1_chunk005_p019_img005.jpg|thumb|Johann Andreas Wolff, Entwürfe zur Deckengestaltung der Großen Lateinischen Kongregation 1698, in: Johannes Hoermann, Delineationes...Blatt 13 und 14, München Bayerische Staatsbibliothek]]
+<!-- citation-page-bottom: Band03-1 p237 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=20 -->
+<!-- citation-page-top: Band03-1 p238 -->
+
+<!-- header: EHEM. JESUITENKOLLEC -->
+
+
+== Rekonstruierende Beschreibung und Ikonographie ==
+
+
+Die Decke läßt sich anhand der oben angeführten aquarellierten Prospekte und der Beschreibungen von Westenrieder und Rittershausen weitgehend rekonstruieren. Der besseren Übereinstimmung mit Archivalien und vor allem der größeren Ausführlichkeit in Angaben der Bildinhalte wegen ist im folgenden die Beschreibung von Rittershausen maßgeblich.
+
+Der bei Hoermann (Delineationes, Bl. 14) abgebildete Entwurf für die Decke ist mit folgendem Kommentar versehen: »Mer ein riß für obgemelte congregation nach den die Decken obenher ist gemacht worden doch in der arbeit selbst in den seiten auf den gewölben etwas mers von laubwerch ist gemacht worden als ich in diesem riß angedeutt hab. 1698«.
+
+Hoermanns Entwurf zeigt eine Decke mit einem größeren längsrechteckigen Bildfeld mit C-Bogenrundungen an den Schmalseiten, daneben rechts und links zwei Bildfelder über quadratischem Grundriß, mit nach außen geschwungenen Seiten oben und unten, mit eingezogenen Seiten rechts und links (parallel zum Mittelbild). Über den vier Ecken sind schräggestellte Ovalfelder in der Achse der Schmalseite, je ein Vierpaß über quadratischem Grundriß, eingesetzt. Alle Bildfelder haben eine Rahmung aus Profilleisten und fein ornamentiertem Rundstab mit Blättchen und Blüten, das Mittelbild hat am oberen und unteren Ende Muschelverzierungen, die Ovalfelder zeigen oben Engelsprotome, unten kleine Kartuschen, und sind von gerolltem Laubwerk umgeben.
+
+Der aquarellierte Prospekt gibt die Bildfelder in Relation zur Deckenfläche wohl etwas zu klein, wahrscheinlich aber die ausgeführten Formen wieder: das Mittelbild (A) ist identisch mit der Bildform in Hoermanns Entwurf, die schräggestellten Ovalfelder über den Ecken (1, 3, 5, 7) sind etwas gelängt; die Bildfelder rechts und links des Mittelbildes (2,6) sind hier in der Form den Ovalbildern über den Ecken angeglichen, d. h. es sind hier sechs gleiche ovale Bildfelder vorhanden. Die Vierpässe an den Schmalseiten (1,8) erscheinen gegenüber Hoermanns Entwurf weiter an den Rand gerückt und in der Wiedergabe verzerrt über querrechteckigem Grundriß.
+
+A HIMMELFAHRT MARIAE »Die heilige Maria in der Glorie von Engeln getragen; unter ihrem Fuß schwebt verblaßt die Sichel des Mondes der Unvollkommenheit Sinnbild vorüber; einige Engel halten Rauchgefäße, Schilde, flammende Herzen auf goldenen Schalen und andere Zeichen der Ergebenheit und Dienerschaft empor; aber die Verklärte sieht mit einem Blick voll Huld und Gnad auf ihre Pflegekinder herab Uber der Zeichnung Schönheit, der Holdseligkeit des Adels, herrscht noch in der Miene der Jungfrau eine sonderbare Majestät. Der Begriff einer Königin des Himmels ist vielleicht von keinem Maler glücklicher und erhabener ausgedrückt worden« (Rittershausen, S. 106).
+
+Rechten einen Stift, in der Linken ein Schreibtäfelchen mit Inschrift (nicht rekonstruierbar); er wendet den Kopf über die Schulter hinweg nach links, wo ein Engel erscheint.
+
+Rittershausens umständliche Ausdrucksweise steht einer eindeutigen ikonologischen Interpretation der Bilder im Wege; es könnten in den Bildern 1–8 geistliche Werke der Barmherzigkeit dargestellt gewesen sein, die vor Maria oder mit ihrer Hilfe erfüllt werden. 1 wäre dann »Zweifelnder raten«, 2 und 6 »Unwissende belehren« und »Sünder zurechtweisen« (was als Sinn der christlichen Erziehung galt), 3 ist nach Rittershausens Beschreibung keinem der barmherzigen Werke zuzuordnen, könnte aber als Erweiterung der kanonischen Werke den barmherzigen Beistand Mariens bei der Regierung bedeuten. 4 wäre als »Betrübte trösten« zu verstehen – Rittershausen spricht vom »Seelenhirten«, 5 vielleicht analog zu 3 wieder als Mariens Beistand bei der Findung der Gerechtigkeit im Regieren, 8 ist wohl in diesem Zusammenhang als Paraphrase der schon erwähnten Tröstung der Betrübten zu interpretieren. Eine andere Deutungsmöglichkeit bezöge sich auf den Beistand Mariens bei allen Schichten und Lebensaltern: dem Jüngling (1), den Eltern (2 oder 6), den Herrschern (3), den hohen (4) und niederen Geistlichen (2 oder 6), dem Rat (7) und dem Sterbenden (8).
+
+
+[[File:Band03-1_chunk005_p020_img001.jpg|thumb|Ehemaliger Saal der Großen Lateinischen Kongregation, zwei aquarellierte Zeichnungen um 1752. Oben: Ansicht nach N, gegen den Altar, erkennbar die Deckenbilder A, 3–5, und die Wandbilder W<sub>1–3</sub> und W<sub>a–d</sub>]]
+
+
+Unten: Ansicht nach S, zur Orgelempore, erkennbar die Deckenbilder A, 7, 8, 1 und die Wandbilder W<sub>1–5</sub> (links), W<sub>6–10</sub> (frontal), in den Oculi W<sub>d</sub>.
+
+
+[[File:Band03-1_chunk005_p020_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p239 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=21 -->
+<!-- citation-page-top: Band03-1 p240 -->
+
+<!-- header: EHEM. IESUITENKOLLEG -->
+
+<!-- header: W<sub>6</sub> HL. FILIPPO NERI von Johann Adam Müller »Philippus Nerius mit brünstiger Andacht vor einem Marienbild betend: sein Schutzengel hinter ihm« (Rittershausen, S. 108). – Filippo Neri begründete den Oratorianerorden. -->
+
+W<sub>7</sub> HL. FRANZISKUS VON ASSISI von Johann Georg Winter »Franciscus von Assisi erhält von der göttlichen Mutter das Kind Jesus in seinen Arm; aus der Glorie schwebt der himmlische Vater herab« (Rittershausen, S. 108/109). – Franziskus ist Gründer des Franziskanerordens.
+
+W<sub>8</sub> HL. BRUNO von Cosmas Damian Asam »Bruno erhält von dem Apostel Petrus den Chorpsalm der heiligen Jungfrau; sie aber selbst mit Jesus im Arm tritt unter einem Thronhimmel, von Engeln getragen prächtig einher« (Rittershausen, S. 109). – Bruno ist Ordensstifter der Kartäuser.
+
+W<sub>9</sub> HL. DOMINIKUS von Balthasar Augustin Albrecht »Dem Dominicus reicht Maria den Rosenkranz; darneben ein Engel mit einer Krone von Rosen« (Rittershausen, S. 109). – Dominikus gründete den Dominikanerorden. (Fest 4. 8.)
+
+W<sub>10</sub> HL. IGNATIUS von Johann Eustachius Kendlbacher »Ignatiu schreibt in der Einöde seine Betrachtungen; über ihm Maria von vieler Engeln umgeben« (Rittershausen, S. 109). – Ignatius begründete der Orden der Jesuiten. (Fest 31. 7.)
+
+
+== Empore ==
+
+
+EB An der N-Seite über den Rechteckbildern (W<sub>6-10</sub>) eine Empore, die Bilder auf der Brüstung zeigten nach Rittershausen (S. 110) »verschieden Erscheinungen Mariens ihren frommen Pflegekindern«; er hebt die »ganz sonderbare Beleuchtung« (S. 110) hervor und ordnet sie dem »Stil aus Christoph Schwarzens Zeiten« (S. 110) zu.
+
+EU An der Unterseite der Empore befand sich ein weiteres Bild von Johann Andreas Wolff »Jesus am Kreuz von zween Engeln zum Himmel getragen« (Rittershausen, S. 110). Das Bild wird bei Oefele (14, fol. 126 v) als »ein verkürztes Crucifixbild, so durch die Engel getragen wird« beschrieben.
+
+Wa-f HEILIGE IN MARIENVISIONEN Darstellungen auf der W- Seite in Felderungen von Blindfenstern, die den Ochsenaugenfenstern der gegenüberliegenden O-Seite entsprachen (die den Ochsenaugenfenstern der S-Seite entsprechenden Felder auf der N-Seite waren blind). Die dargestellten Heiligen hatten als ikonographisches Merkmal eine Erscheinung Mariens bzw. Christi (W<sub>f</sub>) gemeinsam. Es sind unbekannte neben bekannteren Heiligen, die außer Franz Stanislaus Kostka (Wf) zu den Jesuiten in keiner Beziehung stehen. Nach den hervorstechenden Eigenschaften ihrer Vita können sie zusätzlich christliche Tugenden repräsentiert haben.
+
+W<sub>a</sub> (über W<sub>1</sub>) HL. FRANZ VON SALES von Joseph Ignaz Schilling »Franz von Sales, in der Ferne die Heimsuchung« (Rittershausen, S. 109). - Franz von Sales (*21. 8. 1567 †28. 12. 1622, Fest 29. 1.) war Dr. jur., wurde 1593 Priester und erreichte als Missionar gegen den Calvinismus am Genfer See nach jahrelanger Erfolglosigkeit und gegen erbitterten Widerstand schließlich die Rekatholisierung. Sein berühmtestes Werk, das in zahlreiche Sprachen übersetzt wurde, trägt den Titel »Traieté de
+
+l'amour de Dieu« (Lyon, 1616). Die Liebe zu Gott, die »Amor Dei«, ergänzt traditionell die drei theologischen Tugenden. Die Heimsuchungsszene im Hintergrund verweist auf den von ihm und der hl. Chantal gegründeten Orden der Heimsuchung Mariens (Salesianerinnen).
+
+W<sub>b</sub> (über dem ersten Eingang) HL. KÖNIG STEPHAN VON UNGARN von Balthasar Augustin Albrecht »König Stephan; von wei tem ein Lager, darüber schwebend Maria« (Rittershausen, S. 109). – König Stephan von Ungarn (*969 † 15. 8. 1038, Fest 22. 8.) galt als Muster des gerechten und guten apostolischen Herrschers. Er gab seinem Reich eine neue christliche Verfassung und bekämpfte mit Erfolg die heidnische Reaktion. Sein Symbol ist die Marienfahne, unter deren Zeichen er siegte worauf wohl die Hintergrundsszene verweist. König Stephan kann sowohl Justitia als auch Fortitudo vertreten.
+
+W<sub>c</sub> (über W<sub>2</sub>) HL. ELEAZAR (= ELZEAR) von Johann Adam Müller »Maria auf Salomons Ruhebett von Engeln getragen; um sie Schare bewaffneter Engel« (Rittershausen, S. 109). – Über ein Auftreten des Eleazar wird bei Rittershausen nichts gesagt; da Elzear von Sabran, Baron von Ansonis, Graf von Ariano (* 1285 † 27. 9. 1323, Fest 27. 9.), mit seiner Frau, der hl. Delphina, jungfräulich lebte, steht er vermutlich für die Castitas, die in der Darstellung der von Engeln beschützten schlafender Maria ebenfalls symbolisiert wird.
+
+W<sub>d</sub> (über W<sub>3</sub>) HL. JOHANNES VON NEPOMUK von Johann Adam Müller »Johann Nepomuk; ihm zur Seite schwebt die unbefleckte Jung frau« (Rittershausen, S. 110). – Johannes von Nepomuk (*zwischen 1340-50†20. 3. 1393) erlitt den Märtyrertod in Prag, weil er der Legende zufolge das Beichtgeheimnis der Königin selbst unter Folter nicht preisgeben wollte. In diesem Sinn repräsentierte er die Constantia.
+
+W<sub>e</sub> (über W<sub>4</sub>) HL. IVO (Hélory) von Nikolaus Gottfried Stuber »Ivo theilt Rechtsschriften unter die Armen aus; die Opferung Mariens im Tempel« (Rittershausen, S. 110). – Der hl. Ivo. (* 17. 10. 1253 † 19. 5. 1303) verteidigte Arme vor weltlichen und geistlichen Gerichten und stand den Hilflosen bei. Er könnte für Caritas oder Iustitia stehen.
+
+W<sub>f</sub> (über dem zweiten Eingang) HL. STANISLAUS KOSTKA von Johann Baptist Zimmermann »Stanislaus auf dem Krankenbette wird von Maria besucht; die Opferung Jesu im Tempel« (Rittershausen, S. 110). – Stanislaus Kostka (* 28. 10. 1550 † 15. 8. 1568, Fest 10. 8.) wurde 1567 Mitglied der Societas Jesu und zeichnete sich durch besonders innige und mystische Liebe und Andacht zur Gottesmutter aus, die ihm erschien. Hier steht er vielleicht für Fides. Analog zu W10 beendet auch hier die Darstellung eines Jesuiten die Reihe.
+
+Uber dem Muttergottesaltar an der S-Seite soll sich ein Bild (=Rundel) von Johann Andreas Wolff befunden haben, das die Verkündigung Mariens zeigte. Es wird im Verzeichnis 1760 und bei Westenrieder (1783, S. 171) genannt, sein Anbringungsort kann nicht mehr rekonstruiert werden (im Prospekt, s. o., nicht zu sehen).
+
+Das gesamte Programm umkreiste wahrscheinlich die barmherzige und tugendreiche Unbefleckte Maria, die in dem Mittelbild der Decke gezeigt wurde. Gleichzeitig ist aus den Wandbildern (W<sub>1-10</sub> und W<sub>a-f</sub>) ein historischer Anspruch herauszulesen, mit dem sich die Jesuiten in die Reihe großer Vorgänger bzw. Orden eingliedern.
+
+<!-- header: EHEM. JESUITENKOLLEG -->
+
+Ehem. Bibliothek der Jesuiten, zwei ineinander übergehende Bibliotheksräume; Wening spricht von einer »dopplete(n) mit Büchern wol eingerichte(ten) und schönen Gemählen gezierte(n) Bibliothec«, die er im Zusammenhang mit den Höfen, nicht mit dem vorderen zur Straße gerichteten Schul- und Kongregationstrakt erwähnt. Nach Plänen des 19. Jh. (BHStAI, PLS 12053) können die beiden Räume in dem an die Kirche in Höhe des westlichen Querarms rechtwinklig angrenzenden Kollegtrakt lokalisiert werden, und zwar im zweiten Obergeschoß. Mit dieser Ortung deckt sich auch Burgholzers Beschreibung der Raumabfolge in diesem Geschoß (Bd 1, 1795, S. 234–248). Die Bibliothek ist nicht zu verwechseln mit der 1783/84 ausgestatteten ehem. Hofbibliothek, vor der Säkularisation sog. Studentenbibliothek, die im gleichen Schultrakt im Geschoß an der Straßenfront lag (s. Volk).
+
+
+== Saal ==
+
+{{End}}

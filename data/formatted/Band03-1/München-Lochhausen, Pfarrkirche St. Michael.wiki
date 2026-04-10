@@ -1,0 +1,101 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=86
+|Originalseitenbis=88
+|Lemma=München-Lochhausen, Pfarrkirche St. Michael
+|Typ=Sakral
+|Ort=München-Lochhausen
+|davor=München-Harlaching, Filial- und Wallfahrtskirche St. Anna
+|danach=München-Moosach, Alte Pfarrkirche St. Martin
+|AutorIn1=Böhm, Cordula
+}}
+
+<!-- citation-page-top: Band03-1 p86 -->
+
+<!-- header: LOCHHAUSEN -->
+
+
+== LOCHHAUSEN St Michael ==
+
+
+
+[[File:Band03-1_chunk002_p019_img001.jpg|thumb]]
+
+
+Pfarrkirche St. Michael, Schussenriederstraße 6, Erzdiözese München und Freising; z. Z. der Ausmalung Landgericht Dachau
+
+
+'''Patrozinium:''' St. Michael
+
+
+
+[[File:Band03-1_chunk002_p019_img002.jpg|thumb|A Krönung Mariens A. Putti]]
+
+
+'''Zum Bauwerk:''' Gotischer Bau, um 1727/39 barockisiert, 1742–45 ausgestattet. Zwei Epitaphien im AR nennen Pfarrer Johannes Agricola (1727–39) »Huius Ecclesia AMPLIATOR ET BENEFACTOR« (N-Seite) und Pfarrer Melchior Schlaffdaller (1739–50) »per 11 annos huius Ecclesia Parochus de Lochhausen qui eam novo Choro, Altai summo, Calice Paramentis, ac novis Campanis ornavit« (S-Seite, beim Eingang zur Sakristei). Die Rokoko-Ausstattung des AR wurde großenteils aus Stiftungen finanziert: so stiftete die 1737 begründete Herz-Jesu-Bruderschaft 1744 35 Gulden zum »Neuen Coraltar« (Rechnung über die Lobl. des Heiligsten Herzen Jesu Bruderschaft zu Lochhausen von 1737–1801, Pfarrarchiv Lochhausen). 1743 hatte »Anna Giggenbacherin allhier 300 fl. dem Gottshaus vermacht, davon der Choraltar gemacht worden fl. 783« (Pfarrbuch, 1627 angelegt von Pfarrer Georg Kiermayr, von späteren Pfarrern fortgeführt, S. 76; Pfarrarchiv Lochhausen).
+
+1926 wurde eine Erweiterung der Kirche notwendig, das barocke zweijochige LHs wurde durch ein breiteres und längeres ersetzt; Architekt F. X. Boemmel; Weihe 11. 9.
+
+
+'''Auftraggeber:''' Im Pfarrbuch (s. oben, S. 782) findet sich 1742 der Hinweis: »umb 76 fl. 1 kr. den Chor ausstockador und ein fresco gemallen worden, da zue Joseph Ruesdor fer, Schwaiger in Freyhamb 12 fl. 45 kr. Caspar Häberl.. von Langwied 12 fl. Franz Pfuger (?) Zollner 4 fl. 15 kr hergeschenkt«.
+
+
+'''Autor und Entstehungszeit:''' Die Deckenfresken sind 1742 entstanden (s. oben). In den Gerichtsrechnungen heißt es 1740 (StAM Geistl. Rat, Kirchenrechnungen Gericht Dachau 1740, S. 1422 v): »Franz Schmidt Mahler in Alling hat den tabernacl blau angemahlen und von guettem gol<br>einige Stern hierein gesprengt, daß gemähl in fresco ir etwas verbessert, dann ihm vor hergegebenes Golt, Farber und arbeith zaig zötls bezalt worden 2 fl. 28 kr.« Möglicherweise handelt es sich bei dem erwähnten »fresco« um das Bruderschafts-Fresko W, das auch schon 1737, bei Gründung der Bruderschaft, entstanden sein kann. Die Ausmalung ist Anton Zächenberger (*um 1690 bei Salzburg †1773 München) zuzuschreiben. Sie zeigt stilistische Verwandtschaft mit den Chorfresken in St. Michael in Perlach (S. 93–96).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: verschliffenes Kreuzgratgewölbe
+
+Rahmen: A Stuckprofil, A<sub>1–2</sub> Bandwerkkartuschen, W Stuckprofil
+
+
+[[File:Band03-1_chunk002_p019_img003.jpg|thumb]]
+
+
+Technik: Fresko; polychrom; Maße: A Höhe 6,80 m; 3,40 × 2,20 m; W 2,50 × 2,00 m
+
+Erhaltungszustand und Restaurierungen: 1927 – im Zusammenhang mit der Erweiterung der Kirche – Restaurierung durch M. Gottschalk, Taufkirchen/Vils. Letzte Restaurierung 1965/66 durch Fa. Karl Eixenberger, München, und T. Anton Petri, München; die Fresken wurden gereinigt, Übermalungen entfernt und locker sitzende Farbteile gefestigt. Die originalen Farbtönungen der Stukkaturen im AR wurden freigelegt. Die Fresken sind bis auf kleine Risse, Verschmutzungen und geringfügige Abblätterungen in gutem Zustand, die Farbsubstanz ist weitgehend original erhalten. Die Deckenbilder im barocken, 1926 abgebrochenen LHs der Kirche waren – einer Photographie nach zu urteilen – neobarock.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die Ausstattung des AR bildet stilistisch und ikonographisch eine Einheit. Der Altar, wie ein Theaterprospekt in verschiedenen räumlichen Ebenen komponiert, füllt den dreiseitigen Chorschluß, dessen Wölbung von einem blauen Stuckbaldachin (Innenseite rötliches Brokatmuster) ausgestattet ist. Plastische graue Stuckwölkchen schaffen die Verbindung zwischen Altar und Deckenbild. Gewölbe und Stichkappen sind mit zartfarbigen Bandwerkstukkaturen dekoriert. Das westliche Joch der N-Wand schmückt das Bruderschaftsfresko W, das formal und farblich in die AR-Dekoration einbezogen ist.
+
+A KRÖNUNG MARIENS Konventionelle Darstellung mit symmetrischer Anordnung der Figuren ohne nennenswerten Unterschied; Gottvater im gelb-blauen Mantel mit Weltkugel und Zepter, Christus im roten Gewand mit dem Kreuz halten die Krone über Maria, die im Typus der Immaculata mit der Mondsichel zu Füßen zwischen ihnen schwebt. Über der Gruppe die Geisttaube, in den Wolken verstreut Puttoköpfchen.
+<!-- citation-page-bottom: Band03-1 p87 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=20 -->
+<!-- citation-page-top: Band03-1 p88 -->
+
+<!-- header: LOCHHAUSEN -->
+
+<!-- header: MOOSACH St. Martin -->
+
+
+[[File:Band03-1_chunk002_p020_img001.jpg|thumb|W Vision der Margareta Maria Alacoque und Herz-Jesu-Bruderschaftsbild]]
+
+
+Farblich dominieren die Buntfarben der Gewänder: Rot, Blau, Gelb, Weiß vor zartfarbigem rosa-gelbem Himmels- und Wolkengrund.
+
+A<sub>1-2</sub> Putti mit Blumen
+
+A<sub>1</sub> Zwei Putti halten einen Korb mit Blumen über ihrem Kopf
+
+A<sub>2</sub> Zwei Putti streuen Blumen aus einem Korb
+
+W VISION DER HL. MARGARETA MARIA ALACOQUE UND HERZ-JESU-BRUDERSCHAFTSBILD
+
+Illusionistische Rahmendarstellung, vergleichbar Augsburger Kupferstichen des 18. Jh., mit einem »fatto« in verkleinertem Maßstab, der wie ein Bildmedaillon in die Rahmenform eingesetzt ist. Über einem hohen Sockelaufbau ist der Innenraum einer Kapelle durch Säule und Altar angedeutet. Die hl. Margareta Maria Alacoque, als Salesianerin dargestellt, sieht in einer Vision Christus auf einer Wolke herniederschweben und auf das Herz-Jesu-Symbol hinweisen, das, mit Dornenkrone, Flammen und Kreuz, im Strahlen- und Flammenkranz, über dem Altar erscheint. Rechts steht der Kirchenpatron St. Michael im Fürbittgestus, auf der Brust das Herz-Jesu-Symbol. Er deutet auf die Mitglieder der Herz-Jesu-Bruderschaft in Lochhausen, die, in verkleinerter Darstellung in der Sockelwand wie ein Bildausschnitt – oder ein Durchblick – vorgeführt wird: links vorne der Bruderschafts-Präfekt, dahinter aufgereiht die Männer, rechts die Kirche (das LHs noch mit 2 Jochen) und davor die Frauen in schwarzer Tracht mit Halskrause, alle porträthaft wiedergegeben. (Im Bruderschaftsbuch, Pfarrarchiv Lochhausen, sind bei der Gründung am 30. Juni 1737 220 Mitglieder aufgeführt: »1. Bruderschafts-Praecept Joh. Anton Sigmund Zanger, Pfarrer und Kammerer zu Massenhausen, 2. Martin Niedermaier, Beneficiat in Pasing, 3. Johann Agricola Parochus de Lochhausen...«) Über der Szene zwei Engel, der linke trägt eine Opferschale mit den flammenden Herzen der Bruderschaftsmitglieder, der rechte hält ein aufgeschlagenes Buch mit der Inschrift herz / Jesu / brüder / schafft. In der Größenrelation wieder der Visionsszene zugeordnet, stellen sie den Bezug zwischen beiden Darstellungen her.
+
+
+== Literatur ==
+
+
+Schmidtsche Matrikel, Bd 1, S. 394 f. Westenrieder, Beiträge, Bd 4, S. 390. Mayer-Westermayer, Bd 2, S. 516–19. Sattler, Karl, Lochhausen – Langwied in der Vergangenheit und Jetztzeit, München 1931, S. 41, 49 f. Dehio-Gall OB, S. 44.
+
+{{End}}

@@ -1,0 +1,73 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=266
+|Originalseitenbis=266
+|Lemma=München, Peterskapelle, sog. Wieskapelle
+|Typ=Sakral
+|Ort=München
+|davor=München, ehem. Obere Gruftkirche
+|danach=München, Kirche und Kloster des ehem. Pütrich-Regel-Hauses
+|AutorIn1=Böhm, Cordula?
+}}
+
+<!-- citation-page-top: Band03-1 p266 -->
+
+<!-- header: PETERSKAPELLE SOG WIESKAPELLE -->
+
+ehem. Friedhofskirche auf dem Petersplatz, in der O-Ecke, ehem. Haus Nr. 5, Pfarrei St. Peter; 1803 säkularisiert und profaniert, 1880 abgebrochen. Innenansicht überliefert
+
+
+'''Patrozinium:''' St. Peter
+
+
+'''Zum Bauwerk:''' 736 erste urkundliche Erwähnung einer »Antiqua capelle« neben der St. Peters-Kirche, 1663 Nennung der »uralt St. Peterskapelle« (Reiser). Nach Geiß geht die spätere Kapelle auf einen Neubau aus dem 16. Jh. zurück.
+
+Saalbau zu 4 Jochen, quadratischer AR, gerade geschlossen, geostet Pilastergliederung mit Konsolen in Höhe der Fußpunkte der Stichkappen. An der N-Seite zweigeschossiger Anbau, im oberen Geschoß Oratorien. Belichtung durch Rechteckfenster im S bzw. indirekt über die Oratorien im N (Außenansichten bei Stridbeck und im Häuserbuch)
+
+Autor und Entstehungszeit: Eine Notiz aus der Beschreibung 1750, die wohl irrtümlich das Patrozinium St. Peter mit Maria verwechselt, muß sich nach der Lokalisierung auf die Peterskapelle beziehen: »Yberdes ist im Egg oder Winckhl gegen der Fleischbankh ein khleines doch anmüthiges Capellerl B. M.... ist selbiges ganz renoviert und ausgemallen ao 1729.«. Der Datierung entspricht der stilistische Befund der überlieferten Innenansicht; der Autor ist nicht bekannt.
+
+Befund: Träger der Deckenmalerei: jochweise Tonnen mit Stichkappen (= verschliffene gotische Kreuzgewölbe?)
+
+Rahmen: Stuckrahmung
+
+Technik: vermutlich Fresko
+
+Verbleib: Die Ausstattung der Kirche wurde nach der Säkularisation veräußert, die Kirche dem Magistrat überlassen und am 1. 10. 1880 abgebrochen, dabei ging die Ausmalung zugrunde. Kurz vor dem Abbruch fertigte der Münchner Maler und Stahlstecher Christian Steinicken eine Innenansicht der Kapelle an (Reiser).
+
+
+== Darstellungen ==
+
+
+Die gemalte Innenansicht von C. Steinicken zeigt das wohl gotische Kreuzgratgewölbe barock verschliffen und mit einer Stuck- und Freskendekoration ausgestattet. Stichkappen und Zwickel waren mit Brokatmalerei, die Gurtbogen und Grate mit Stuckprofilen bzw. Akanthusstäben ornamentiert. Im Scheitel jedes Gewölbejochs war ein Deckenbild, abwechselnd queroval bzw. vierpaßförmig. Die szenischen Darstellungen lassen sich nach der Zeichnung nicht identifizieren, naheliegend wäre ein Petrus-Zyklus.
+
+
+[[File:Band03-1_chunk006_p009_img001.jpg|thumb|Christian Steinicken, Innenansicht der Peterskapelle vor dem Abbruch 1880]]
+
+
+Neben der Wieskapelle befand sich der Kongregationssaal der Corpus Christi-Bruderschaft (von Crammer fälschlich mit der Wieskirche gleichgesetzt, vgl. Schmidt und Geiß). Nach Crammer waren »die Seitenwände mit kunstreichen Malereien, die verschiedene durch die Kraft der heiligen Hostien gewirkte Wunderwerk den Augen vorhalten, annehmlich ausge schmücket«.
+
+
+== Quellen und Literatur ==
+
+
+Stridbeck, S. 5. Schmidtsche Matrikel, Bd 1, S. 372
+
+0 13 / Crammer, 1781, S. 27
+
+Crammer, 1781, S. 27.
+
+Burgholzer, Stadtgeschichte, 1796, S. 205.
+
+StadtA München, Kultusstiftungen 201, Säkularisierung der nächst der St. Peters Pfarrkirche befindlichen sog. Wieskapelle 1803-04.
+
+Geiß, Ernest, Geschichte der Stadtpfarrei St. Peter in München, München 1867, S. 384 f.
+
+Häuserbuch, Bd 4, S. 183.
+
+Reiser, Rudolf, Zwei Kirchen standen am Petersbergl, in: Süddeutsche Zeitung vom 1. 10. 1980.
+
+C. B
+
+{{End}}

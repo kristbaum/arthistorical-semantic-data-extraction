@@ -1,0 +1,31 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 3)
+|davor=
+|danach=München, Dreifaltigkeitskirche
+|AutorIn1=Bauer, Hermann
+|AutorIn2=Rupprecht, Bernhard
+}}
+
+== VORWORT ==
+
+
+Der vorliegende Band mit dem Inhalt der barocken Deckenmalereien in sakralen Objekten der Stadt und des Landkreises München stellt uns vor neue Probleme, sowohl was die Arbeit als auch die Edition betrifft. Die Zerstörungen während des letzten Krieges, aber auch schon frühere Veränderungen, etwa nach der Säkularisation, machten es notwendig, vieles zu rekonstruieren und auf altes Bildmaterial oder Zeichnungen und ähnliches zurückzugreifen. Unsere Dokumentation wird auch dadurch komplizierter, daß ein Teil der Deckenbilder in München an anderem Ort erhalten ist bzw. rekonstruiert wurde.
+
+Abweichend vom bisherigen Editionsschema haben wir in diesem Band einen Anhang aufgenommen, der sich entweder mit im Krieg zerstörten, aber noch photographisch dokumentierten oder nur noch durch Quellen und Literatur überlieferten Deckenbildern befaßt.
+
+Bei unserer Arbeit wurden wir von vielen Seiten unterstützt und danken bei dieser Gelegenheit herzlich für diese Hilfe. Empfehlungen des Erzbischöflichen Ordinariats München und Freising und des Bayerischen Landesamtes für Denkmalpflege haben uns die Arbeit sehr erleichtert. Wir dürfen den geistlichen Herren danken, die uns Zutritt gewährten, Einsicht in Archivalien ermöglichten und die Erlaubnis für photographische Aufnahmen gaben.
+
+Die Zusammenarbeit mit einschlägigen Institutionen ist ebenso ergiebig wie dankenswert erfreulich. Herr Dr. Sigmund Benker im Erzbischöflichen Ordinariatsarchiv steht uns mit Rat zur Seite. Im Bayerischen Hauptstaatsarchiv, im Staatsarchiv und im Stadtarchiv München, in der Bayerischen Staatsbibliothek mit Handschriftenabteilung und der Universitätsbibliothek München, im Zentralinstitut für Kunstgeschichte, in den Bayerischen Staatsgemäldesammlungen, in der Staatlichen Graphischen Sammlung und im Bayerischen Landesamt für Denkmalpflege haben wir immer wieder Unterstützung gefunden. Aus den Photoarchiven der betreffenden Institutionen wurde uns Bildmaterial für die Dokumentierung zerstörter Objekte zur Verfügung gestellt; in diesem Zusammenhang waren auch das Bildarchiv Foto Marburg und der Photo-Nachlaß von Carl Lamb, München, sehr ergiebig. All diesen Institutionen und ihren Vertretern sei herzlich gedankt.
+
+Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir hoffen, durch unsere wissenschaftlichen Ergebnisse unseren Dank abstatten zu können. An dieser Stelle aber wollen wir den Damen und Herren der Deutschen Forschungsgemeinschaft, die mit unserer Sache befaßt sind und die unseren Sorgen Gehör schenken, aufs herzlichste danken für ihre Geduld und ihr Verständnis.
+
+Der Süddeutsche Verlag hat für das CORPUS DER BAROCKEN DECKENMALEREI eine große verlegerische Aufgabe und Verpflichtung übernommen. Für die verständnisvolle Zusammenarbeit danken wir dem Verlag – Herrn Dr. Wolfgang Reister, Frau Dr. Helga Heikamp-Wagner, Herrn Dr. Hans-Peter Rasp, Herrn Rudolf Miggisch und Herrn Hans Widmann.
+
+Hermann Bauer/Bernhard Rupprecht
+<!-- citation-page-bottom: Band03-1 p7 -->
+{{End}}

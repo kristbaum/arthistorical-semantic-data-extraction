@@ -1,0 +1,252 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=224
+|Originalseitenbis=230
+|Lemma=München, Ehem. Spitalkirche Hl. Geist
+|Typ=Sakral
+|Ort=München
+|davor=München, Stadtpfarrkirche zu Unserer Lieben Frau, sog. Frauenkirche
+|danach=München, Ehem. Klosterkirche St. Jakob am Anger
+|AutorIn1=Sinkel, Kristin
+}}
+
+<!-- citation-page-top: Band03-1 p224 -->
+
+<!-- header: HL. GEIST -->
+
+<!-- header: HL. GEIST -->
+
+Ehem. Spitalkirche, Tal 77, seit 1844 Stadtpfarrkirche, Erzdiözese München und Freising; z.Z. der Ausmalung Spital-Pfarrei (1271–1811), Dekkenbilder nicht erhalten
+
+
+'''Patrozinium:''' Hl. Geist, Patroziniumsfest am Pfingstsonntag
+
+
+'''Zum Bauwerk:''' Die Anfänge des Hl. Geist-Spitals mit einem Pilgerhaus und einer der hl. Katharina geweihten Kapelle gehen wahrscheinlich auf die Gründung im Jahre 1208 durch Herzog Ludwig I., den Kelheimer zurück. Otto der Erlauchte erbaute im Jahre 1253 die erste Spitalkirche. Die bestehende Kirche ist allgemeiner Annahme zufolge nach dem Stadtbrand vom 14. 2. 1327 erbaut worden; der Bautyp, Grundriß und Chorumgang der Hallenkirche verweist ihre Errichtung eher in das 15. Jh. nach einem zweiten Brand im Münchner »Tal« im Jahre 1418.
+
+Diese Kirche erfuhr bauliche Veränderungen unter Pfarrer Michael Hönmann (1633–69). Ein von Giovanni Antonio Viscardi auf Beschluß der Baukommission für den Umbau der Hl. Geist-Kirche vorgelegter Riß vor 14. 3. 1711 kam nicht zur Ausführung (Karl Ludwig Lippert, Giovanni Antonio Viscardi, München 1969, S. 30). Unter Pfarrer Joseph Pirchinger wurde 1724–30 der Bau von Johann Georg Ettenhofer und Paul Sonnleithner umfassend modernisiert. Es wurden u. a. die Seitenschiffe erhöht, die Gewölbe und der Dachstuhl vollkommen erneuert und die Fenster zweiteilig erweitert. Während dieses Umbaues entstand die Innenausstattung durch die Brüder Asam. Neue Weihe durch Fürstbischof Johann Theodor von Freising am 22. 7. 1731 (nach Mayer-Westermayer, S. 428; in der Beschreibung von 1750 ist als Weihedatum 2. 6. 1729 angegeben). 1885–88 wurde unter Leitung von Friedrich Löwel die Kirche um drei Joche nach W verlängert und mit einer nachbarocken Fassade versehen. Der Bau wurde 1944/45 bis auf die Außenmauern zerstört, unmittelbar nach Kriegsende wiederhergestellt, die Innenausstattung 1970–75 rekonstruiert.
+
+Dreischiffige Hallenkirche zu neun Jochen, Chorschluß im Mittelschiff in fünf Achtel, im Chorumgang neun Sechzehntel Schluß. Pfeiler mit Kompositkapitellen, darüber hohe Gesimse. Im W Empore. Helle Belichtung von beiden Seitenschiffen von N und S und vom Chor durch hohe Rundbogenfenster und Okuli.
+
+'''Auftraggeber:''' Die Spitalverwaltung, amtierender Pfarrer Joseph Pirchinger (1722–55)
+
+Im Churbayerisch-Geistlichen Kalender von 1754 wird als Stifter u. a. der Ratsherr und Mitverwalter des Hl. Geist Spitals, Johann Franz Mayr genannt: »Sie ist aber jüngst vor wenig Jahren durch Sorgfalt, und Veranlassung des damaligen Mit-Verwalters Hr. Johann Frantz Mayr, des Inneren Rath und Schönfärbern allhier (weilen ohne dem Altershalber das Gewölb begunte sich zu spalten, und völligen Eingang zu bedrohen) also schön, und herrlich mit Stuckador, und Mahlerey des berühmten Pemsel Hr. Asams hergestellt worden... Herr Mayr hat auch Geld dazu hergegeben, und andere Guttäter.«
+
+
+'''Autor und Entstehungszeit:'''
+
+
+Cosmas Damian Asam und Nikolaus Gottfried Stuber 1724/27
+
+Das zerstörte Hauptfresko (B) des Mittelschiffs trug die Signatur Cosmas Damian Asam / Maller / Aegidius Quirin Asam / Pildhauer / anno 1727. (vgl. KDB, S. 1008). Die Asam-Brüder Cosmas Damian (* 1686 Benediktbeuern † 1739 München) und Egid Quirin (* 1692 Tegernsee † 1750 Mannheim) waren mit der Innenraumgestaltung beauftragt. 1723/24 hatten die Brüder mit der Umgestaltung des Freisinger Doms (OB) ihre Kunstfertigkeit – die Neugestaltung eines mittelalterlichen Raumes mit Licht und Farbe – unter Beweis gestellt. Die Stuckierung des Gewölbes und der Wände ist von Egid Quirin wohl nur entworfen worden, denn für die Ausführung erhielt der Stukkator Mathias Schmidtgartner 2415 Gulden (Hahn 1893, S. 181).
+
+Die Freskierung des Mittelschiffs besorgte Cosmas Damian Asam, und zwar malte er die beiden größten Deckenbilder (B, D) unentgeltlich, seine Witwe, Anna Asam, bekam für diese Stücke 40 Gulden (6 Maxdor) zu Ehrung (Huhn, 1893, S. 181).
+
+Für die Ausmalung der Seitenschiffe erhielt Nikolaus Gottfried Stuber (* 1688 München † 1749 ebda; zu Stubers Vita vgl. CBD, Bd 3, II) 800 Gulden. In den Aufzeichnungen Oefeles (Oefeleana 5/V, pag. 255) werden Cosmas Damian Asam und Nikolaus Gottfried Stuber für die Ausstattung der Spitalkirche genannt: »...die drei großen Füllungen von Cosma Damian Asam supra hospitale in fresco item von Stuber...« – In den »Verzeichnis« von 1760 werden als Autoren ebenfalls Asam und Stuber genannt: »Die mittere Haubt-Stück der oberdecke haben die beyde Brü der Cosmas Damian, und Aegidius Asam = alle übrige Vorbildungen abe an beeden seiten gewölbern um die ganze Kirche herum, Niclas Gotfric Stuber a° 1727 gemahlen«.
+
+Unterhalb der Fenster der Seitenschiffe Ölgemälde mit allegorischen Darstellungen der Sieben Gaben des Hl. Geistes von Peter Horemans (* 1700 Antwerpen † 1776).
+
+
+== Zeichnungen ==
+
+
+Das Städelsche Kunstinstitut in Frankfurt am Main besitzt eine Skizze
+
+
+[[File:Band03-1_chunk005_p013_img001.jpg|thumb|Blick vom Altar in das Mittelschiff nach Westen mit den Fresken B und A von C. D. Asam; die beiden westlichen Fresken von L. Glötzle 1888 (vor der Zerstörung)]]
+
+
+Cosmas Damian Asams zu Fresko B mit dem Thema der Gründungsgeschichte des Hl. Geist-Spitals, lavierte Zeichnung, 37,1 × 21,6 cm, Inv. Nr. 14385 (S. Schöner, Kat. Nr. 30, S. 37.), die weitgehend dem ausgeführten Fresko entspricht.
+
+Von Nikolaus Gottfried Stuber sind zwei Skizzen zu den Medaillons der Seitenschiff-Fresken erhalten, Kreide, laviert und gelblich-weiß gehöht, je 28,3 × 25,3 cm, SGS Mü, Inv. Nr. 30509 und 30510, die zwei Szenen aus dem Zyklus der Sieben Werke der Barmherzigkeit, Laurentius und Barmherziger Samariter (N<sub>7</sub> und 8), zeigen. Ein weiteres Blatt Stubers mit der Darstellung der Sieben Werke der Barmherzigkeit, Bleigriffel und Kreide mit bräunlicher Ölfarbe laviert, weiß gehöht, 41,8 × 54,0 cm, SGS Mü (Inv. Nr. 347) ist in Einzelheiten motivisch eng an die Freskomalerei anzuschließen, aber keine Vorlage für ein Deckenbild, da keine Kriterien für Untersicht erfüllt sind
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B, C, D (MSch) Tonnengewölbe mit Stichkappen; CU (Umgang) Kreuzgewölbe
+
+Rahmen: A–D ornamentierte vergoldete Stuckrahmen mit Kartuschen besetzt; N<sub>1–8</sub>, S<sub>1–8</sub> weiße glatte Stuckprofile in Vierpaßformen Technik: Fresko; polychrom
+
+Maße: A Höhe 16,70 m; 3,00 × 4,80
+
+B Höhe 16,70 m; 9,80 × 5,20
+
+C Höhe 16,70 m; 3,00 × 4,80
+
+D Höhe 16,70 m; Ø 4,80
+
+CU, N<sub>1–8</sub>, S<sub>1–8</sub> Höhe 16,70 m; 3,50 × 2,70
+
+Erhaltungszustand und Verbleib: Die Fresken wurden 1944/45 alle zerstört. Rekonstruktion der Deckenmalerei des Mittelschiffs durch Karl Manninger, Pöcking, der das Hauptfresko (B) bis 1971 fertigstellte und die übrigen Deckenbilder Asams (A, C, D) bis 1975 rekonstruierte. Vorlagen waren Schwarz-Weiß-Photographien der Vorkriegszeit. In Fresko A wurde eine andere Inschrift angebracht. Die Deckenbilder Stubers im Umgang (CU, N<sub>1–8</sub>, S<sub>1–8</sub>) wurden in Ermangelung geeigneter photographischer Vorlagen nicht rekonstruiert.
+
+Eine letzte umfassende Restaurierung hatte 1907/08 durch Hans Kohl stattgefunden; die Deckenbilder, insbesondere der SSch, waren vor dieser Restaurierung in schlechtem Zustand, in N<sub>5</sub> Johannes, N<sub>6</sub> Martinus, N<sub>7</sub> Laurentius waren die Konturen nur noch schwach sichtbar, sie wurden nach Photographien erneuert (Gerhauser, S. 20 f.).
+
+Die beiden westlichen Joche des Anbaues ab 1885 wurden von Ludwig Glötzle 1888 ausgemalt: Das größere Bild im Schiff zeigte die Wirksamkeit Papst Leo XIII., umgeben von Thomas von Aquin, Franz von Assisi und Augustinus, über der Gruppe Maria als Rosenkranz-Königin von Engeln getragen. Das Fresko über der Musik-Empore zeigte die hl. Cäcilie. In den drei westlichen Jochen der Seitenschiffe nördlich Otto, Bischof von Bamberg, Vinzenz von Paul, hl. Sebastian, südlich hl. Monika, hl. Magdalena und hl. Odilia (zerstört, nicht rekonstruiert). Ein Fresko an der W-Wand die Sieben Gaben des Hl. Geistes, stammt ebenfalls aus dem Jahr 1888.
+
+Rekonstruierende Beschreibung und Ikonographie (Nach erhaltenen photographischen Aufnahmen vor der Zerstörung und mit Hilfe der Bildbeschreibungen bei Huhn 1888, S. 15ff.)
+
+Die barocke Umgestaltung des gotischen Kirchenraumes wurde zum einen durch größere Belichtung über die Seitenschiffe erzielt, die auf
+<!-- citation-page-bottom: Band03-1 p225 -->
+
+
+[[File:Band03-1_chunk005_p013_img002.jpg|thumb|Cosmas Damian Asam, Entwurfsskizze zum Hauptfresko: B Gründung des Hl.-Geist-Spitals, Frankfurt am Main, Städelsches Kunstinstitut]]
+
+
+
+[[File:Band03-1_chunk005_p013_img003.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=14 -->
+<!-- citation-page-top: Band03-1 p226 -->
+
+<!-- header: HL. GEIST -->
+<!-- header: HL. GEIS -->
+
+[[File:Band03-1_chunk005_p014_img001.jpg|thumb]]
+[[File:Band03-1_chunk005_p014_img002.jpg|thumb]]
+
+Scheitelhöhe des Mittelschiffes gebracht wurden und größere Fenster mit Okuli erhielten. In Höhe der Okuli reflektierte das breite weiße Gesimsstück über den Kapitellen die Helligkeit ins Gewölbe des Mittelschiffes. Die mittelalterliche Jochfolge wurde in den Seitenschiffen beibehalten, wobei Stuber pro Joch ein Bildmedaillon malte. Im Mittelschiff brachten die Asams durch Zusammenfassen mehrerer Joche und Überspielung der Gewölbepartien mit Stuck und Malerei die Abfolge verschieden gewichtiger Fresken: das zentralisierende Hauptfresko in geschwungener Ovalform (B), das das dritte, vierte und fünfte Joch überspannt, wurde flankiert von zwei kleineren Bildfeldern gleicher eckig gebrochener Rahmenform (A, C). Über dem AR folgte das große Rund (Fresko D). Die stuckierten Gurtbögen teilten die Gewölbeszene in die vier Abschnitte mit einem Fresko. Dazwischen zog sich die Stuckdekoration über Stichkappen, Zwickelfelder und Scheidbögen mit zart grün getöntem Brokatmuster und feinem ocker bis altrosa gefärbten Rankenwerk auf weißem Grund. Es dominierten die farbigen Bildfelder. An Stelle der von den Bildern überspielten Gurte waren am Gurtansatz Inschrift-Kartuschen angebracht, die die Bildrahmen übergriffen.
+
+[[File:Band03-1_chunk005_p014_img003.jpg|thumb]]
+[[File:Band03-1_chunk005_p014_img004.jpg|thumb|A DAVID PSALLENS (rekonstruiert) Das Fresko befand sich ursprünglich, vor der Verlängerung des Kirchenschiffs um drei Joche, im westlichsten Joch über der Empore. Betrachterstandpunkt am Eingang mit Blickrichtung gegen W. Dargestellt war in der Mitte des Querformates der singende David mit der Harfe, über ihm Engel und Putti, die in den Raum herabschweben; dieser wurde durch Architektur-Versatzstücke angedeutet. Im Asam-Fresko standen über dem Haupt des David die Worte In conspectu angelorum psallam tibi (nach Ps 52, 11, A. Huhn 1888), S. 15; heute anders rekonstruiert auf dem Notenblatt des Engels).]]
+
+B GRÜNDUNG DES HL. GEIST-SPITALS (rekonstruiert) Das hochovale Fresko bildete den Mittelpunkt der gemalten Deckendekoration. Der Betrachterstandpunkt lag unterhalb des westlichen Bilddrittels, Blickrichtung gegen O.
+
+Eine geschwungene Treppenanlage ist Schauplatz einer Menschenmenge von Armen und Kranken sowie Stiftern, die sich von der östlichen Basis des Bildes in diagonalen Zügen zu einem säulenbesetzten Portal an der linken Bildkante wenden. Oberhalb der Volksszene schwingt eine Balustrade konkav nach rechts und öffnet einen Himmelseinblick, der die Jungfrau auf Wolken und darüber die Geisttaube zeigt. Die himmlische Szene wird am westlichen Bildrand von einer gebauschten Stoffdraperie, von Putti über der Portalanlage getragen, zu einem Rund geschlossen. Die großen gelagerten Figuren im verschatteten Vordergrund, in halber Rückenansicht mit den Blicken und Gesten nach oben gewandt, bilden ein Repoussoir für die sich im Mittelgrund auf den Stufen abspielende Gründungsszene des Hl.-Geist-Spitals.
+
+Verkürzung und Untersicht sowie das Hinaufziehen der Szenerie an den seitlichen Bildrändern des Ovals schaffen die Illusion des Blickes in eine runde Himmelsöffnung. In der Skizze (Frankfurt, Städelsches Kunstinstitut, Inv. Nr. 14385) ist diese noch deutlicher artikuliert. Im ausgeführten Fresko brachte das Farbkontinuum weichere Übergänge zwischen irdischem und himmlischem Bereich. Soweit es sich nach der Schwarz-Weiß-Vorkriegsaufnahme bestimmen lässt, schien die Glorie um die Geisttaube und die umglänzte Gestalt Mariens im weißen Gewand in zwar starl aufgehellten, aber doch sinnfälligen Bunttönen gegeben gewesen zu sein entsprechend dem Malstil Asams um 1730 (vgl. Regensburg, Opf, St.
+
+[[File:Band03-1_chunk005_p014_img005.jpg|thumb]]
+[[File:Band03-1_chunk005_p014_img006.jpg|thumb|Die Deckenbilder des Mittelschiffs (vor der Zerstörung): B Gründung des H. Geist-Spitals (rechts oben); C Engel verehren den Hl. Geist (links unten); D Die Sieben Gaben des Hl. Geistes (links oben) (Fresko A nicht dokumentiert)]].
+Emmeram, Chorfresko, 1731–33). Das Licht geht dabei weniger von einer unsichtbaren, überirdischen Quelle aus als vielmehr von der Person Mariens selbst.
+
+Thema des Bildes ist die Gründung des Hl. Geist-Spitals. Auf den Stufen vor dem triumphal ausgestatteten Portal des Spitals steht in weitausholender Gebärde, einen Arm den Kranken und Bresthaften entgegenstreckend, der Gründer, Herzog Otto II., der Erlauchte. Er ist fürstlich gekleidet, mit einem hermelingesäumten Mantel; in seiner Rechten hält er die Stange einer Standarte mit der Darstellung des Gnadenstuhls und der Geisttaube im Dreiecksnimbus. Die Inschrift auf dem baldachinförmigen Banner ECCELSIA PAROCHIAL... weist auf die Stiftung als Spital-Pfarrei hin. Vor dem Herzog zwei Gestalten im Portal, eine von ihnen mit der Gründungsurkunde (?, vgl. Gerhauser, S. 26), der andere mit Stab, Kreuz und Muschel (?) oder Brottasche als Pilger gekennzeichnet, der hilfesuchend zum Tor des Spitals kommt. Rechts vom Gründer kauern Kranke; eine Frau mit einer Schale in Händen wendet sich für einen halbbekleideten Mann an den Arzt, der die Linke des Kranken ergriffen hat. Er ist bärtig und barhäuptig dargestellt, im knielangen Mantel, ein Assistent.
+
+<!-- citation-page-bottom: Band03-1 p227 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=15 -->
+<!-- citation-page-top: Band03-1 p228 -->
+
+<!-- header: HL. GEIST -->
+
+neben ihm, vom rechten Bildrand halb überschnitten, trägt Gefäße vor sich, den Kopf bedeckt. Unter der Gruppe spendet ein Bruder des Ordens vom Hl. Geist einer Sterbenden letzten Trost; die Frau hält ein Kruzifix in Händen und folgt mit ihrem Blick dem Zeigegestus des Geistlichen auf die himmlische Erscheinung. Zu Häupten ihres Lagers steht eine brennende Kerze. Links von der Mittelgruppe sind bürgerlich gekleidete Personen zu erkennen; eine auf den Stufen hockende Frau sammelt Almosen für das Spital, ein reicher Bürger spendet eine Münze in ihre Büchse, auf der die Aufschrift 4000 fl zu erkennen war (Huhn, S. 15).
+
+Am äußeren linken Bildrand ist der Kopf eines Schimmels zu erkennen, daneben eine Brezel und der Kopf eines Mannes: Laut lokalem Brauch stammte aus dem Jahr 1318 die sogenannte »Wadlerspende«, nach welcher ein »Bretzenreiter« auf einem Schimmel alljährlich am 1. Mai einer Stiftung zufolge Brezeln an die Bürger und Armen auszuteilen hatte (vgl. Gerhauser, S. 26 ff.).
+
+In der himmlischen Erscheinung ist Maria auf Wolken thronend darge stellt, das Haupt von zwölf Sternen und einer Strahlenglorie umgeben. Sie hält in ihrer Linken das Lilienzepter, in der Rechten den Ring als Braut des Hl. Geistes, ihren Fuß setzt sie auf die Mondsichel. Ein begleitender Engel zu ihrer Rechten breitet den Umhang Mariens aus. Mit ihrem linken Arm und dem darüberdrapierten Mantel beschützt die Jungfrau zwei nackte Gestalten in den Wolken unter ihr. Über Maria ist in einer ovalen Wolkenöffnung die Taube des Hl. Geistes zu sehen, Putti säumen den Rand der Gloriole.
+
+Am unteren Bildrand in der Stützmauer die Hl. Geist-Offnung; auf dem Mauerstein befand sich die Signatur Cosmas Damian Asam / Maller / Aegidius Quirin Asam / Pildhauer / anno 1727.
+
+
+[[File:Band03-1_chunk005_p015_img001.jpg|thumb|Die Gewölbe des nördlichen (rechts) und des südlichen Seitenschiffs (links) mit den Fresken N<sub>7-8</sub> und S<sub>7-8</sub> von Nikolaus Gottfried Stuber; Ausmalung der westlichen Joche von L. Glötzle 1888 (vor der Zerstörung)]]
+
+
+Vier begleitende Kartuschen-Inschriften beziehen sich auf verschiedene Gnadengeschenke des Hl. Geistes nach 1. Kor 12, 4–9 (zitiert nach Vorkriegsphoto Rekonstruktion entsprechend).
+
+(DIVISIONES vero GRATIARUM sunt, idem autem SPIRITUS: et divisiones ministrationum sunt, idem autem Dominus: et divisiones operationum sunt, idem vero Deus qui operatur omnia in omnibus. Unicuique autem datur manifestatio Spiritus ad utilitatem. Alii quidem per Spiritum datur sermo sapientiae: ALII autem SERMO SCIENTIAE secundum eundem Spiritum: ALTERI FIDES in eodem Spiritu: ALII GRATIA SANITATUM in uno Spiritu.)
+
+C ENGEL VEREHREN DEN HL. GEIST (rekonstruiert) Die Dar stellung ist stark untersichtig angelegt; Betrachterstandpunkt westlich darunter mit Blickrichtung gegen O. Große Engelsgestalten scharen sich anbetend im Kreis um die helle Glorie der Geisttaube, die am westlichen Bildrand dargestellt ist. Auffallend ist der große Hell-Dunkel-Kontras zwischen den Randwolken, die im Schatten liegen, und beleuchteter Partien von Engelsgewändern. Die lichteste Gestalt ist der Engel mit erhobenem Arm in der Mitte. Nach Huhn (1888, S. 15) waren Engel und Erzengel dargestellt, die Vorkriegsaufnahmen lassen aber keine Attribute bei den Engeln erkennen.
+
+D DIE SIEBEN GABEN DES HL. GEISTES (rekonstruiert) In kreisrunden Fresko, dessen lichterfüllte Glorie mit der Taube des Hl. Geistes leicht aus dem Zentrum gerückt ist, wird mit kräftigen Hell-Dunkel-Kontrasten die Illusion einer hellen Himmelsöffnung erzielt. Von der Taube gehen feurige Zungen aus. Große Engelsgestalten verkörpern die Sieben Gaben des Hl. Geistes, durch Attribute jeweils gekennzeichnet (Huhns Deutung der sieben Engelsgestalten als jeweils eines Vertreters von sieben – eigentlich neun – Engelschören zusätzlich zu ihrer Funktion als Darstellung der Sieben Gaben kann nicht aufrecht erhalten werden). In der Darstellung der Septem Dona Spiritus folgt Asam dem Tegernseer Deckenbild seines Vaters Hans Georg, der die Gaben ebenfalls durch von Engeln gehaltene Attribute darstellte (CBD, Bd 2, S. 572, 588). Wenige Jahre früher hatte Cosmas Damian Asam in der Klosterkirche von Michelfeld (OPf.) ebenfalls das Thema der Sieben Gaben des Hl. Geistes gemalt, bei denen anstelle von Engeln jedoch weibliche Gestalten die Gaben vertreten. Scientia hat in Michelfeld ein Fernrohr, Consilium ein Buch, die übrigen Attribute stimmen überein.
+
+In Fresko D ist die Zuordnung der Attribute zu den einzelnen Engelsfigu ren abgewandelt: Der Engel direkt unter der Glorie zeigt ein Zepter mit Auge an der Spitze sowie ein aufgeschlagenes Buch, Symbole der erster Gabe, der Weisheit, in vergleichbaren Zyklen häufig dargestellt. Daneben hält ein Engel einen Spiegel empor, in dem sich die Geisttaube widerspiegelt: die Gabe des Verstandes. Darauf folgt, gegen den Urzeigersinn gesehen, ein Engel mit Säulenstumpf, der die Gabe der Stärke bezeichnet. Am westlichen Bildrand ist über einem Engel ein großer Blitz dargestellt – Attribut, das der Gabe der Gottesfurcht zuzuordnen ist. Das Attribut des Engels daneben, ein Gefäß aus dem Flammen schlagen, weist auf die Gabe der Frömmigkeit. Die Attribute der beiden Engel in der Hauptansicht sind den noch im Zyklus fehlenden Gaben des Rates und der Wissenschaft nicht eindeutig zuzuordnen. Himmelsglobus und Winkelmaß kann für Scientia gelten, wobei dann die Attribute des zweiten Engels, Feder und Schriftrolle, für die Gabe des Consilium stünden (?)
+
+Isaias beschreibt den Geist Gottes als »spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis... spiritus timoris Domini« (Is 11, 2). Davon ausgehend war den Kirchenlehrern seit Justin dem Märtyrer († zw. 163 und 167 n.C.) die Vorstellung von den Sieben Gaben des Hl. Geistes geläufig. Die Inschriften in den Kartuschen am Freskorand (rekonstruierter Zustand) VENI SANCTE SPIRITUS (links) und VENI PATER PAUPERUM (rechts) zitieren die Anfangszeilen der ersten und zweiten Strophe der Sequenz des Pfingstfestes. Zwei weitere Kartuschen in den Inschriften VENI DATOR MUNERUM (links) und VENI LUMEN CORDIUM (rechts) brachten die beiden folgender Zeilen der zweiten Strophe. Impliziert wird mit Bild und Inschriften die vorletzte Strophe der Pfingstsequenz: »Da tuis fidelibus / in te confidenti bus / sacrum septenarium.« (Zur Darstellung der Sieben Gaben vgl. Karl August Wirth, Septem Dona Spiritus Sancti, in: Münchner Jahrbuch der Bildenden Kunst 29, 1978, S. 149–209.)
+
+CU, N<sub>1-8</sub>, S<sub>1-8</sub> DIE LEIBLICHEN WERKE DER BARMHERZIG- KEIT (zerstört, Bildabfolge nach schriftlicher Überlieferung) Von der Darstellung im Chorumgang (CU) ausgehend brachten die vierpaßförmigen Medaillons in den Seitenschiffen einen Zyklus heiliger Männer (nördlich) und heiliger Frauen (südlich), darunter biblische Gestalten (N<sub>8</sub>, S<sub>2</sub>, S<sub>5</sub>), die die leiblichen Werke der Barmherzigkeit (nach Mt 25, 35/36) geübt haben. Nach Photographien (Lieb/Sauermost, Abb. S. 75) und nach den beiden erhaltenen Zeichnungen Stubers war jeweils der Heilige in einer großfigurigen Szene bei der Ausübung eines barmherzigen Werks dargestellt. Die Reihe der Heiligen und die Inschrift in CU ist von Huhn (1888, S. 16f.) überliefert, die Bildthemen sind nur noch von N<sub>6-8</sub> bekannt. Für die meisten der dargestellten Heiligen ist jedoch ein bestimmtes Werk oder eine bestimmte Verhaltensweise charakteristisch. Dabei sind die einzelnen Heiligen nicht sicher jeweils einem Werk der Barmherzigkeit zuzuordnen. Die Werke sind im einzelnen: Hungernde speisen, Durstige tränken, Fremde beherbergen, Nackte bekleiden, Kranke besuchen, Gefangene besuchen (nach Mt 25, 31–46) und (seit dem 3. Jh.) Tote begraben.
+
+CU JESUS trägt den Jüngern auf, das Evangelium zu verkünden (?) Der Geist des Herrn ist über mir, den Armen das Evangelium zu verkünden hat er mich gesandt – Spiritus Domini super me, evangelizare pauperibus misit me. Die Stelle bei Lc 4, 17–19 schildert, wie Jesus in der Synagoge im Buch des Isaias las. Die Fortsetzung der in der überlieferten Inschrift zitierten Stelle lautet bei Lukas: »den Gefangenen Befreiung zu verkündigen und den Blinden das Augenlicht, Bedrückte in Freiheit zu entlassen, auszurufen ein Gnadenjahr des Herrn« (nach Is 61, 1–3). Der Sinn des Bildes, an das sich seitlich die Darstellungen der Werke der Barmherzigkeit anschlossen, war Hinweis auf die Verkündigung des Evangeliums, also auf die Sorge für das leibliche Wohl. Die Spitalskirche als Ort der Vermittlung des geistigen Heils betont hier die Priorität der Seelsorge vor der Sorge um den Leib, der das Spital gewidmet war.
+<!-- citation-page-bottom: Band03-1 p229 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=16 -->
+<!-- citation-page-top: Band03-1 p230 -->
+
+<!-- header: HL. GEIST -->
+
+<!-- header: ST. JAKOB AM ANGER -->
+
+N<sub>1-8</sub> Nördliches Seitenschiff (von O nach W, Blickrichtung gegen W)
+
+N<sub>1</sub> Franz Regis (1597–1640) Volksmissionar und Vater der Armen in den Cevennen nach den Hugenottenkriegen. Oft dargestellt bei der Verteilung von Speisen oder als Tröster am Sterbebett
+
+N<sub>2</sub> Johannes von Gott (1495–1550) Gründer eines Spitals in Granada, Diener der Armen, Kranken und Schwachen. Von ihm ging der Orden der Barmherzigen Brüder aus. Meist dargestellt in der Fürsorge für Kranke
+
+N<sub>3</sub> Paulinus von Nola (353/54-431), der seinen großen Besitz den Armen schenkte und in Nola eine Herberge für Arme, Mönche und Pilger gründete
+
+N<sub>4</sub> Ivo Helory (1253-1303) hatte als Richter den Beinamen »Vater der Armen«: er leistete ihnen Rechtsbeistand
+
+N<sub>5</sub> Johannes von Alexandrien (†619/20) gen. Johannes Elemosynarius (Almosengeber), hochverehrt wegen seiner Mildtätigkeit; meist dargestellt beim Verteilen von Almosen
+
+N<sub>6</sub> Martin von Tours teilt seinen Mantel mit einem frierenden Bettler
+
+N<sub>7</sub> Diakon Laurentius verteilt die Kirchenschätze an die Armen
+
+N<sub>8</sub> Barmherziger Samariter (Lc 10, 34)
+
+
+== S.__ Südliches Seitenschiff (von O nach W, Blickrichtung gegen W) ==
+
+
+S<sub>1</sub> Notburga von Rattenberg (um 1205–1313) Dienstmagd, die sich Speise und Trank vom Mund absparte, um den Armen helfen zu können 
+
+S<sub>2</sub> Die Witwe von Sarepta (3 Reg 17, 9-24), die während einer Dürre
+
+S<sub>3</sub> Franziska Romana (1384–1440), Gründerin der Compagnia delle Oblate del Monastero Olivetano di S. M. Nuova mit dem Zweck caritativer Tätigkeit. Oft dargestellt bei einer Armenspeisung
+
+S<sub>4</sub> Hyacintha Mariscotti (1585–1640), Stifterin der Gemeinschaft der krankenpflegenden Oblaten Mariä und einer caritativen Genossenschaft In Sacconi
+
+S<sub>5</sub> Tabitha (Act 9, 36–42), die viele Almosen gab und vor allem Kleider für Arme nähte
+
+S<sub>6</sub> Hildegard (†782), zweite Gemahlin Karls des Großen, die ihr Leben der Fürsorge für Kirchen und Klöster weihte
+
+S<sub>7</sub> Elisabeth von Thüringen (1207–1231), Gründerin eines Spitals. Oft dargestellt bei der Fürsorge für Kranke und Arme
+
+S<sub>8</sub> Paulina Tochter der hl. Paula Romana (4./5. Jh.), erbte die Reichtümer ihrer Mutter, als diese ins Heilige Land ging und in Bethlehem ein Kloster gründete. Sie tat den Armen damit viel Gutes.
+
+
+== Quellen und Literatur ==
+
+
+Oefeleana 5, V, S. 255.
+
+Reschreibung 1750, S. 15
+
+Zimmermann, Joseph Anton, Chur Bayrisch=Geistlicher Kalender, München 1754, S. (17)
+
+Verzeichnis 1760
+
+Westenrieder 1783, S. 164
+
+Mayer-Westermayer, Bd 2, S. 428ff
+
+Huhn, Adalbert, Kleine Geschichte und kurze Beschreibung der Stadt- und Pfarrrkirche zum Hl. Geist in München zur Kirchweih 1888, München 1888
+
+-, Geschichte des Spitales, der Kirche und der Pfarrei zu Hl. Geist in München, München 1893
+
+Halm, Philipp Maria, Die Künstlerfamilie der Asam. Ein Beitrag zur Kunstgeschichte Süddeutschlands im 17. und 18. Jahrhundert, München 1896, S. 35.
+
+KDB I OB 2, S. 1007-13
+
+Gerhauser, Michael, Die Hl. Geist-Kirche in München. Kurze Gründungsgeschichte und Bericht über die Renovation im Jahre 1907-1908, München 1909
+
+Hartig, Michael, Bestehende mittelalterliche Kirchen Münchens, Augsburg 1928, S. 12ff.
+
+Lieb, Norbert, Münchener Barockbaumeister, München 1941, S. 80, 97 f
+
+Brugger, Walter, Hl. Geist-Pfarrkirche München (= KKF, Nr. 264) München<sup>2</sup>1962.
+
+Dehio-Gall OB, S. 16.
+
+Schöner, Susanne, Asam-Zeichnungen, ungedr. Magisterarbeit, München 1966, Nr. 30.
+
+Volk, Peter, Bemerkungen zu einigen Zeichnungen von Nikolaus Gottfried Stuber, in: Wallraf-Richartz Jahrbuch, Bd 32, 1970, S. 135–150.
+
+Lieb/Sauermost, Münchens Kirchen, Spitalkirche Hl. Geist, S. 69-76 (Dorith Riedl).
+
+Cosmas Damian Asam 1686–1739, Leben und Werk, hg. von Bruno Bushart und Bernhard Rupprecht, München 1986, S. 280.
+
+K. S.
+
+{{End}}

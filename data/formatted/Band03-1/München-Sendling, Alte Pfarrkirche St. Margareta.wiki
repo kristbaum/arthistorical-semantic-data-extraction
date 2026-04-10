@@ -1,0 +1,136 @@
+{{Artikel
+|Band=3
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=97
+|Originalseitenbis=101
+|Lemma=München-Sendling, Alte Pfarrkirche St. Margareta
+|Typ=Sakral
+|Ort=München-Sendling
+|davor=München-Perlach, Pfarrkirche St. Michael
+|danach=München-Thalkirchen, Pfarr- und Wallfahrtskirche St. Maria
+|AutorIn1=Böhm, Cordula
+}}
+
+Alte Pfarrkirche St. Margareta, Plinganserstraße 1, Flaire St. Margaret (neue Pfarrkirche), Erzdiözese München und Freising; z. Z. der Ausmalung Filialkirche der Pfarrei Sendling (Pfarrkirche St. Maria Thalkirchen, Pfarrsitz bei St. Achaz), auf die St. Johann Baptist in Freising das Präsentationsrecht hatte, Landgericht Dachau, Kirchenverwaltung beim Magistrat der Stadt München (Stadtwappen am Chorbogen)
+
+
+'''Patrozinium:''' hl. Margareta
+
+
+'''Zum Bauwerk:''' In der sog. »Mordweihnacht« im Jahre 1705 wurde die alte, gotische Kirche beraubt und profaniert, danach Wiederweihe. Im März 1711 erbat Pfarrer Simon Soyer in Freising »zu dem Pau des ganz veralthn und ruinosen Pfarrgotteshaus Sendling einen gnädigsten Consens« (zitiert nach W. R., in: Münchner Neueste Nachrichten, 6. 11. 1911). 1711–13 Neubau der Kirche unter Verwendung gotischer Bauteile.
+
+Pfarrer Simon Soyer (1687–1712) wird in der Grabsteininschrift in St. Maria Thalkirchen als Erbauer der Kirche von Untersendling gewürdigt (vgl. S. 103). Er stiftete den Hochaltar, an dem seine Initialen, sein Wappen und die Jahreszahl 1712 angebracht sind. Im November 1712 wurde er als Pfarrer von Caspar Soyer (1712–18) abgelöst.
+
+Als ausführende Künstler und Handwerker sind für den Bau überliefert: Wolfgang Zwerger, Maurermeister; Nikolaus Kraft, Zimmermeister; Franz Appiani, Stukkator; Johann Baptist Unterstainer, Maler in München (Seitenaltarblatt Hl. Familie); Caspar Gottfried Stuber, Maler in München (Altarfassung); Franz Fröhlich, Bildhauer in Tölz (Salvator- und Apostelfiguren); Franz Ableitner, Hofbildhauer in München (Ausbesserung von acht Apostelfiguren) – Summe der Bauausgaben 5406 Gulden. – Für die Figuren Fröhlichs und für Appianis Stuckierung sind Stiftungen belegt, die geringeren Aufwendungen wurden aus dem Kirchenvermögen bezahlt (StadtA München, Kultusstiftungen 509/59, »PauRechnung über alle bey dem neuauferpauthen Wurdt. St. Margarethen Gottshaus und Pfarrkürchen zu Untersendling beschechener Außgaben de dato 6. März 1711 bis Juni 1713«).
+
+Saalbau zu drei Jochen, im W Empore; eingezogener, einjochiger AR, dreiseitig geschlossen. Belichtung im LHs durch je vier, im AR durch je zwei hohe Rundbogenfenster.
+
+'''Autor und Entstehungszeit:''' Die Deckenbilder sind nicht signiert und datiert, ihr Autor ist unbekannt. Aus der oben zitierten Baurechnung (1711–13) geht nichts über die Deckenbilder hervor. Sie können in voller Summe gestiftet und deshalb nicht aufgeführt worden sein. Es ist naheliegend, daß sie gleichzeitig mit dem Stuck 1712 entstanden sind. Das bisher nicht identifizierte Wappen in Fresko B (geviertet, Gemse auf Bergspitze und Mann mit Hut und Besen?) weist sicher auf den Maler hin. Im Wappenbuch der Münchner Malerzunft (StadtA München, Zimelie 55 Liedke, S. 21ff.) ist es nicht aufgeführt; dort sind nur wenige Wappen von Malern des 18. Jh. enthalten.
+
+Der stilistische Befund der Deckenbilder ist uneinheitlich und deutet auf mehrere Autoren hin; Fresko C z. B. fällt in Kompositions- und Figuralstil neben dem routiniert anmutenden Fresko B deutlich ab.
+
+Wir schreiben die Ausmalung der Kirche stilistisch Nikolaus Gottfried Stuber zu, *1688 in München, 1712/13 Studienaufenthalt in Rom zusammen mit Cosmas Damian Asam und dem Kemptner Maler Franz Georg Hermann, 1716 Meisterrecht in München, 1723 Kurfürstlicher Hof-Architektur- und Theater-Maler, † 1749 in München. Caspar Gottfried Stuber, der für die Fassung eines Seitenaltars der Kirche belegt ist (s. o.), könnte den Sohn noch vor seiner Romreise zu dem Auftrag herangezogen haben, der hier in Gemeinschaftsarbeit mit seinem Vater sein erstes Freskowerk im Münchner Raum geschaffen hätte. (Zu Caspar Gottfried Stuber s. CBD, Bd 3, II, Schloß Schleißheim, Schöner Stall.)
+
+Das qualitätvollste und besterhaltene Fresko B weist in Komposition und Figuren eine auffallende stilistische Übereinstimmung mit Nikolaus Gottfried Stubers Werken
+
+
+[[File:Band03-1_chunk002_p024_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band03-1 p97 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=25 -->
+<!-- citation-page-top: Band03-1 p98 -->
+
+<!-- header: SENDLING -->
+
+auf. Der barock-pathetische, füllige Figurentypus, Profilbildung und Haartracht von Christus und Adam ebenso wie von Eva finden sich übereinstimmend bei den Figuren Christi und der Göttlichen Tugenden in den Erlösungsdarstellungen der Fresken A und B von 1718 in Unterföhring (S. 174–79) und bei Christus und Magdalena im Glorienbild und in der Szene Noli me tangere der Nymphenburger Magdalenenklause von 1729 (Fresko A<sub>3</sub> s. CBD, Bd 3, II). Auch in den durch die Restaurierungen zum Teil beträchtlich entstellten Bildern sind Stuberfiguren zu erkennen: in A die nackten Frauenfiguren der Seligen und Verdammten; in D ist die Immaculata in Haltung, Gewanddrapierung und Haartracht mit der Fides-Ecclesia (Fresko A) von Unterföhring und mit den Frauen am Grab (Fresko A<sub>1</sub>) in Nymphenburg zu vergleichen. Der Putto bei der Mondsichel der Immaculata ist in Unterföhring nur geringfügig abgewandelt wiederholt, und zwar zu Füßen Mariens (Fresko D).
+
+Fresko C steht im traditionellen Bildschema des 17. Jh. (Typus Gottvaters, Puttotypus, Wolkenbildung, Farbgebung); es dürfte von Caspar Gottfried Stuber gemalt sein.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A-C) und AR (D) Tonne mit Stichkappen
+
+Rahmen: Stuckprofil, in den Achsen von Akanthus, Muschel- und Blattwerkkartuschen überlappt
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 9,50 m; 2,00 × 2,70  
+B Höhe 9,50 m; 2,40 × 3,00  
+C Höhe 9,50 m; 2,40 × 3,00  
+D Höhe 10,00 m; 2,80 × 2,60  
+
+Erhaltungszustand und Restaurierungen: Zwei 1911 und 1921 geplante Restaurierungen wurden offenbar nicht durchgeführt. Vor der Innenrestaurierung von 1935/36 befand sich die Kirche in einem schlechten Zustand. Unter einem Leimfarbenanstrich wurde die originale Farbigkeit freigelegt. Letzte Restaurierung 1964/65 durch Kunstmaler Anton Petri und Fa. Eixenberger München
+
+Alle Deckenbilder sind von feinen Rissen überzogen und zeigen Übermalungen. Besonders auffällig sind diese in A und C. In Fresko D ist die Farbigkeit stark verändert, die Zeichnung ist unscharf, die Farben wirken verwaschen und blaß.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die vier Darstellungen sind weitgehend im Sinn der Tafelmalerei angelegt, jedoch wird vereinzelt mit leichter Untersicht und variierenden Größenmaßstäben eine Höhenillusion versucht, die (besonders in A) zu unhomogenen Bildräumen führt. Der Gewölbestuck steht gleichrangig mit den Bildfeldern; freiplastisch wirkende Putti seitlich von B und C konkurrieren mit den gemalten Figuren. Die an die Rahmen angefügten Kartuschen sind keine Bildträger
+
+A JÜNGSTES GERICHT (Mt 25, 31–33) Im Breitoval des Bildfeldes sind die Weltgerichtsmotive dargestellt, Wolkenbänke sollen eine Tiefenstaffelung des Schauplatzes bezeichnen. Die unverhältnismäßig große Gruppe von Maria und Johannes gegenüber dem fast schmächtig wirkenden Christus versucht eine Höhenillusion zu erzeugen. Oben in der Mitte Christus mit den Wundmalen, als Weltenrichter in einer Lichtglorie auf dem Regenbogen thronend (Ez 1,28), zu seinen Füßen die Scheidung der Gerechten von den Ungerechten: links steigen die Seligen in einer Wolke empor, sie tragen Lorbeerzweige in Händen. Rechts wird eine Verdammte von Teufeln in den feurigen Höllenrachen gezerrt. Am linken Bildrand die Fürbitter der Deesis, Maria und Johannes der Täufer.
+
+In dem von Weiß- und Ockerwerten bestimmten Bild haben die in dunkleren Farben gegebenen Figuren Mariens und des Täufers sowie des Teufels im Höllenra chen farblich mehr Gewicht als die blaß zurücktretende Figur Christi.
+
+Die Figur des Johannes ist offensichtlich durch Restaurierung verfälscht, wie die eingefügten Schraffurlinien zeigen. Das Fellgewand wirkt wie eine Mönchskutte, die Gesichtszüge sind verändert. Auch bei der Figur Christi sind Unstimmigkeiten zu verzeichnen: neben seiner Seitenwunde ein fragmentarischer Zweig – die Lilie des Richters. Die Herkunft der roten, die Verdammten treffenden Blitzstrahlen aus dem Mund Christi ist verunklärt.
+
+In den angrenzenden Kartuschen stehen Bibelzitate zur Bilddarstellung, auf der Seite der Gerechten: Khombt / Ihr Gebenedeithe / Matth: C. 25. V: 34., auf der Seite der Ungerechten: Gehet / ihr Vermalledeithe / Matth: C. 25. V: 46 (eigentlich Mt 25,41!).
+
+B SÜNDENFALL UND ERLÖSUNG Mitten im Bild der Baum der Erkenntnis aus dem Paradies; um den Stamm windet sich die Schlange mit dem Apfel der Versuchung (Gen 2 u. 3). In der Baumkrone sitzt Christus der Erlöser mit Kreuz und Wundmalen. Er wendet sich Adam zu, der zu seiner Rechten auf einer Erderhebung sitzt und zu ihm aufschaut, eine Hand schuldbewußt an die Brust gelegt. Adam trägt, wie auch Eva ihm gegenüber, einen Schurz aus Feigenblättern. Rechts in Halbfigur ein Totengerippe.
+
+Die »oben« sitzende Gestalt Christi ist im Verhältnis zu der Darstellung der Stammeseltern leicht verkleinert, wirkt aber gleichgewichtig aufgefaßt. Unverhältnismäßig klein gezeigt, soll die Figur des Todes Bildtiefe andeuten.
+
+Ocker ist die Grundfarbe des Bildes. Es ist dem Weiß (gedämpft im Himmel, hell im Inkarnat Evas) und dem Erdbraun beigemischt und modifiziert das sparsam verwendete, von Weiß fast aufgezehrte Rot (Christi Mantel). Grün ist an Ocker gebunden, auch dort, wo es als Kontrast eingesetzt ist (bei Christus und Adam).
+
+Das rötliche Braun von Adams Inkarnat ist ikonographisch zu verstehen, es macht Adam als »den von der roten Erde genommenen« anschaulich. Christus im Baum der Erkenntnis ist im paulinischen Sinn typologisch der »neue Adam« (vgl. LCI, Bd 1, s. v. Adam und Eva, Sp. 43, 45). Die Schriftzitate in den seitlichen Kartuschen entstammen der Weissagung des Simeon und sind auf die Erlösung der
+
+
+[[File:Band03-1_chunk002_p025_img001.jpg|thumb|A Jüngstes Gericht]]
+
+
+
+[[File:Band03-1_chunk002_p025_img002.jpg|thumb|B Sündenfall und Erlösung]]
+<!-- citation-page-bottom: Band03-1 p99 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=1 -->
+<!-- citation-page-top: Band03-1 p100 -->
+
+[[File:Band03-1_chunk003_p001_img001.jpg|thumb]]
+
+Menschheit von der Sündenschuld bezogen: Links Villen / Zur Auferstehung / Luc. C. 2. / V: 34, rechts Villen / Zum Undergang / Luc C. 2. / V: 34.
+
+C GOTTVATER ALS SCHÖPFER UND WELTREGENT In einer von geballten Wolken umgebenen und von Cherubköpfchen gesäumten Lichtglorie thront Gottvater, die Rechte gebieterisch erhoben, die Linke am Kreuzreif der Weltkugel; der Nimbus ist das Dreieck der Dreifaltigkeit.
+
+Die Figur Gottvaters zeigt den entschiedenen Versuch einer Untersichtsperspektive mit daraus resultierenden Verzerrungen. – Gelbocker in verschiedenen Farbabstufungen und das helle Himmelsblau der Weltkugel bestimmen den Farbeindruck.
+
+Inschriften Ershafft / Himmel (links) – Und / Erden (rechts)
+
+D MARIA IMMACULATA in der Mittelachse des Bildes ist die Immaculata in weiß-blauer Gewandung ohne Untersicht wiedergegeben. Die statuarisch aufgefaßte Figur ist von weitläufigen Gewanddrapierungen und von zwei Puttogruppen und Engelsköpfchen in den Wolken umgeben. Maria steht auf der Weltkugel mit der Schlange des Sündenfalls. Sonne und Mondsichel befinden sich über ihrem Haupt. Am linken Bildrand ist eine Zypresse gemalt. Die Farbigkeit ist wie bei C ganz auf Gelbocker und Himmelsblau gestimmt, wirkt in diesem schlecht erhaltenen Fresko jedoch blaß und verwaschen.
+
+Im Zusammenhang mit den Darstellungen von Schöpfergott, Sündenfall und Erlösung ist die Immaculata als das Weib des Protoevangeliums (Gen 3,15) zu verstehen und typologisch als neue Eva zu deuten.
+
+Inschriften Erhechet / Wie ein Cederbaum / Eccl: 24. / V. 17 – Der Vers Eccli 24,13 lautet: <blockquote>»Wie eine Zeder des Libanon wuchs ich empor und wie eine Zypresse auf dem Hermon gebirge«</blockquote>; eine Zypresse zeigt das Bild Über alle / Chör der Englen / Eccles. / Cath.
+
+Zwischen den Fresken B und C sind neben der Heiliggeist-öffnung – ohne bildliche Darstellung – folgende Inschriften angebracht: Scheint wie das Liecht Jo (?) / C. 3 / V: 4 (? - 10 3,4 nicht zutreffend, eher frei nach 10 1,5), Erleichte alle Menschen... Jo 1 / V. 9 (frei nach 10 1,9).
+
+[[File:Band03-1_chunk003_p001_img002.jpg|thumb|D Maria Immaculata]]
+
+== Literatur ==
+
+Schmidtsche Matrikel, Bd 1, S. 428. Mayer-Westermayer, Bd 2, S. 475 f. KDB I OB, 2. 1022.
+
+W. R., Vom alten St. Margarethen Pfarrkirchlein, in Münchner Neueste Nachrichten Nr. 518 vom 6. 11. 1911. Lanzhammer, Hans, Alt-Sendling und seine Beziehungen zu München, München 1926, Nachdruck, bearb. von W. Clemens, in: Münchner Texte, Heft 3, München 1980, S. 49–60.
+
+Dehio-Gall OB, S. 38.
+
+Lieb/Sauermost, S. 29, 257. Lackermeier, Johann und Hugo Schnell, St. Margaret München-Sendling (= KKF, Nr. 308), München 2 1967. Böhm, Cordula, Die Münchner Maler J. A. Wolff, C. G. und N. G. Stuber sowie C. D. Asam als Freskanten in drei Kirchen der ehem. Pfarrei Sendling, in: Jahrbuch des Ver eins für christliche Kunst in München e.V., Bd 16, 1987, S. 170–75.
+
+C. B.
+<!-- citation-page-bottom: Band03-1 p101 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=2 -->
+{{End}}
