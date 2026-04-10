@@ -65,7 +65,7 @@ Das Corpus der Barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 |Chunkseite=
 |Originalseitenvon=6
 |Originalseitenbis=7
-|Lemma=Vorwort (Band 3)
+|Lemma=Vorwort (Band 3-I)
 |davor=
 |danach=München, Dreifaltigkeitskirche
 |AutorIn1=Bauer, Hermann
@@ -522,7 +522,7 @@ STADT MÜNCHEN INNENSTADT
 |Lemma=München, Dreifaltigkeitskirche
 |Typ=Sakral
 |Ort=München
-|davor=Vorwort (Band 3)
+|davor=Vorwort (Band 3-I)
 |danach=München, St. Johann Nepomuk, sog. Asamkirche
 |AutorIn1=Sinkel, Kristin
 |AutorIn2=Bauer-Wild, Anna

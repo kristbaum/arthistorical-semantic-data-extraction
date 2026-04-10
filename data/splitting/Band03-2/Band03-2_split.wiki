@@ -63,6 +63,30 @@ Das Corpus der Barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 
 <!-- header: VORWORT -->
 
+{{Artikel
+|Band=32
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=33
+|Originalseitenbis=48
+|Lemma=Vorwort (Band 3-II)
+|davor=
+|danach=München, Grottenhofhallen der Münchner Residenz
+|AutorIn1=Bauer-Wild, Anna
+}}
+{{Artikel
+|Band=31
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 3)
+|davor=
+|danach=München, Dreifaltigkeitskirche
+|AutorIn1=Bauer, Hermann
+|AutorIn2=Rupprecht, Bernhard
+}}
+
 Der vorliegende Band behandelt die Deckenmalerei in den Profanbauten der Stadt und des Landkreises München. Der historischen Zusammenhänge wegen wurde der Text in höfische Bauten, die den überwiegenden Teil ausmachen, und in nicht höfische Bauten unterteilt. Die sonst übliche Gliederung nach der administrativen Einteilung mußte dafür aufgegeben werden. Vielleicht noch mehr als der vorangehende Sakralband stellte uns der Profanband vor große Probleme, sowohl der Bearbeitung als auch der Edition. Aufgrund der komplizierten Baugeschichte der Münchner Residenz mit den vielen Veränderungen im Laufe der Jahrhunderte sowie der Kriegszerstörungen, aber auch wegen der Bedeutung, die dieses Ensemble besitzt, wurde alles, was an Deckenmalereien zu ermitteln war, dokumentiert. Dabei war es sinnvoll, bis ins 16. Jh zurückzugehen.
 
 Unsere Arbeit wurde von vielen Seiten unterstützt. An erster Stelle haben wir uns bei der Bayerischen Verwaltung der staatlichen Schlösser, Gärten und Seen zu bedanken: vor allem für Erlaubnis zum Photographieren, Zugang zum Bildarchiv und zu den Depots. Besonders ergiebig war die Zusammenarbeit mit den Bauämtern in Nymphenburg und in der Residenz. Die Damen und Herren haben uns jederzeit freundlich und bereitwillig geholfen, uns Zugang zu Archivalien und Plänen gewährt und uns an Ort und Stelle ausführlich über Restaurierungen informiert. Wir sind ihnen für alle Gespräche und Auskünfte zu großem Dank verpflichtet.
@@ -1049,7 +1073,7 @@ Aus: M. Disel, Erlustierender Augenweide Zweyte Fortsetzung, Augsburg, um 1722, 
 
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=33
@@ -1386,7 +1410,7 @@ Geissler, Heinrich, Zeichnung in Deutschland, Deutsche Zeichner 1540–1640. Sta
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=49
@@ -2098,7 +2122,7 @@ F.B./B. V.-K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=67
@@ -3992,7 +4016,7 @@ B V-K
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=117
@@ -4099,7 +4123,7 @@ F. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=120
@@ -4424,7 +4448,7 @@ Knüttel, 1967, S. 194–210. Brunner/Hojer 1975, R. 90-93. Kat. Candid-Zeichnun
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=130
@@ -4542,7 +4566,7 @@ Kat. Candid-Zeichnungen 1978, Nr. 28 und Abb. 102.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=132
@@ -4723,7 +4747,7 @@ B V-K
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=137
@@ -5459,7 +5483,7 @@ Eingangshalle und Prunktreppenhaus (Raum 112) im N-Trakt der Maximilianischen Re
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=168
@@ -5735,7 +5759,7 @@ Brunner/Hojer/Seelig 1986, S. 126-144 und Abb. 10
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=177
@@ -6190,7 +6214,7 @@ BHStA I, HR II, 1, 1614, 1615. Pistorini 1644, fol. 18 v–28 r. Faßmann 1770, 
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=197
@@ -6704,7 +6728,7 @@ Treppenhaus (bei Thoma/Kreisel Räume 60,61; heute nicht mehr in der Museumsfüh
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=210
@@ -6793,7 +6817,7 @@ B. V.-K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=213
@@ -6903,7 +6927,7 @@ R W_K
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=214
@@ -6919,7 +6943,7 @@ R W_K
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=215
@@ -6935,7 +6959,7 @@ R W_K
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=215
@@ -7089,7 +7113,7 @@ E.-G. B. / B. V.-K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=216
@@ -7232,7 +7256,7 @@ Zwei ehemalige Vorzimmer und ein Audienzzimmer, im ersten Geschoß des Traktes a
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=220
@@ -7722,7 +7746,7 @@ ausdrückt. Bemerkenswert ist dabei, daß Henriette Adelaid[e] trotz ihrer neuen
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=233
@@ -8214,7 +8238,7 @@ Levi d'Ancona, Mirella, The Garden of the Renaissance, Botanical Symbolism in It
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=250
@@ -9593,7 +9617,7 @@ A. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=275
@@ -10453,7 +10477,7 @@ A.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=292
@@ -10651,7 +10675,7 @@ Faßmann 1770, S. 411–14. Schmid 1685, S. 216–260. Wening 1701, S. 4. Kalmba
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=299
@@ -11776,7 +11800,7 @@ AB
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=334
@@ -11913,7 +11937,7 @@ Brunner/Hojer/Seelig 1986, S. 11 und Abb. 17
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=339
@@ -12046,7 +12070,7 @@ PRUNKTREPPENHAUS
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=343
@@ -12102,7 +12126,7 @@ Bachter, Falk, Balthasar Augustin Albrecht, Mittenwald 1981, S. 83.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=344
@@ -12126,7 +12150,7 @@ Bachter, Falk, Balthasar Augustin Albrecht, Mittenwald 1981, S. 83.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=344
@@ -12142,7 +12166,7 @@ Bachter, Falk, Balthasar Augustin Albrecht, Mittenwald 1981, S. 83.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=345
@@ -12278,7 +12302,7 @@ Hojer, Gerhard, Die Münchner Residenzen des Kurfürsten Max Emanuel in: Kat. Ma
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=346
@@ -12420,7 +12444,7 @@ Braunfels 1986, S. 129–36.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=348
@@ -12698,7 +12722,7 @@ Quellen und Literatur S. 425
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=354
@@ -12822,7 +12846,7 @@ Die Anlage von Nymphenburg nahm ihren Ausgang von<br>dem Mitteltrakt des heutige
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=355
@@ -13441,7 +13465,7 @@ Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann, Entstehung und
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=379
@@ -14047,7 +14071,7 @@ Bauer-Wild 1986, S. 60–80.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=397
@@ -14155,7 +14179,7 @@ Schmidtsche Matrikel, Bd 1, S. 429f. Mayer-Westermayer, Bd 2, S. 528f. Heigel 18
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=401
@@ -14438,7 +14462,7 @@ A.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=410
@@ -14693,7 +14717,7 @@ Holler, Wolfgang, Jacopo Amigonis Frühwerk in Süddeutschland, Hildesheim-Züri
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=417
@@ -14797,7 +14821,7 @@ BHStA I, HR II, 24/249
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=421
@@ -14927,7 +14951,7 @@ A.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=424
@@ -15025,7 +15049,7 @@ Heigel 1891, S. 65. Hager (1955), S. 63.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=424
@@ -15041,7 +15065,7 @@ Heigel 1891, S. 65. Hager (1955), S. 63.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=425
@@ -15238,7 +15262,7 @@ Quellen und Literatur S. 557
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=428
@@ -15356,7 +15380,7 @@ Christoph Langenbuecher bekam, malte Caspar Amort (* 1612 Jachenau † 1675 Mün
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=430
@@ -16000,7 +16024,7 @@ Quellen und Literatur siehe S. 448 und 557 f.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=448
@@ -16023,7 +16047,7 @@ Quellen und Literatur siehe S. 448 und 557 f.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=449
@@ -16868,7 +16892,7 @@ A.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=482
@@ -16949,7 +16973,7 @@ A.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=484
@@ -17075,7 +17099,7 @@ G B
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=488
@@ -17111,7 +17135,7 @@ erhöhten, elfachsigen Mittelbau betont ist, fügen sich seitlich Galerietrakte 
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=488
@@ -17246,7 +17270,7 @@ A.R.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=493
@@ -17359,7 +17383,7 @@ Hojer/Schmid 1984, S. 35.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=496
@@ -17452,7 +17476,7 @@ Literatur siehe S. 502
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=499
@@ -17558,7 +17582,7 @@ KDB I OB (1), S. 815. Thieme-Becker, Bd 16 (1923), S. 361 (s. v. Helterhof). Tho
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=502
@@ -17660,7 +17684,7 @@ Weizenfeld, Johann Nepomuk, Die kurfürstliche Bildergalerie in Schleißheim, M�
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=506
@@ -17800,7 +17824,7 @@ K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=510
@@ -17917,7 +17941,7 @@ Bretagne 1722, S. 17. Thon 1977, S. 65–70, 303 f. Schmid 1980, S. 105 f. Hojer
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=515
@@ -18056,7 +18080,7 @@ W.H.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=519
@@ -18225,7 +18249,7 @@ A. B./W. H.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=525
@@ -19019,7 +19043,7 @@ Thon 1977, Kat. Nr. 33, S. 87 f. Schmid 1980, S. 115 f. Hojer/Schmid 1984, S. 50
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=548
@@ -19339,7 +19363,7 @@ Holler, Wolfgang, Jacopo Amigonis Frühwerk in Süd deutschland, Hildesheim – 
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=559
@@ -19397,7 +19421,7 @@ B.V.-K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=560
@@ -19625,7 +19649,7 @@ Wiederverwendung im Bayerischen Nationalmuseum, dort im Zweiten Weltkrieg zerst�
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=565
@@ -19727,7 +19751,7 @@ B. V.-K
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=566
@@ -19803,7 +19827,7 @@ Die Bilder gehörten zu einer Folge. Bei allen vier Darstellungen handelt es sic
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=571
@@ -19960,7 +19984,7 @@ Braunfels, Wolfgang, François Cuvilliés. Der Baumeister der galanten Architekt
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=574
@@ -20036,7 +20060,7 @@ B. V.-K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=576
@@ -20053,7 +20077,7 @@ B. V.-K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=577
@@ -20241,7 +20265,7 @@ Holler, Wolfgang, Jacopo Amigonis Frühwerke in Süddeutschland, Hildesheim-Zür
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=579
@@ -20257,7 +20281,7 @@ Holler, Wolfgang, Jacopo Amigonis Frühwerke in Süddeutschland, Hildesheim-Zür
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=579
@@ -20365,7 +20389,7 @@ Lessing, Waldemar, Johann Georg von Dillis, München 1951, Abb. 6. Andersen, Lis
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=32
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=581
