@@ -60,7 +60,7 @@ Das Corpus der Barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 <!-- citation-page-top: Band03-1 p6 -->
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=6
@@ -514,7 +514,7 @@ STADT MÜNCHEN INNENSTADT
 
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=19
@@ -944,7 +944,7 @@ K. S./A. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=37
@@ -1350,7 +1350,7 @@ Cosmas Damian Asam 1686–1739, Leben und Werk, hgg. von Bruno Bushart und Bernh
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=53
@@ -1496,7 +1496,7 @@ C. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=57
@@ -1582,7 +1582,7 @@ EINGEMEINDETE VORORTE
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=311
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=61
@@ -1652,7 +1652,7 @@ Schmidtsche Matrikel, Bd 1, S. 396–98. Mayer-Westermayer, Bd 2, S. 486. KDB I 
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=311
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=62
@@ -1767,7 +1767,7 @@ C. B
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=64
@@ -1972,7 +1972,7 @@ A. B
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=73
@@ -2187,7 +2187,7 @@ FRÖTTMANING Hl. Kreuz
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=79
@@ -2278,7 +2278,7 @@ C. B
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=82
@@ -2410,7 +2410,7 @@ Thon, Christina, Johann Baptist Zimmermann als Stukkator, München 1977, S. 173 
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=86
@@ -2512,7 +2512,7 @@ Schmidtsche Matrikel, Bd 1, S. 394 f. Westenrieder, Beiträge, Bd 4, S. 390. May
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=89
@@ -2617,7 +2617,7 @@ Laturell, Volker, D. und Georg Mooseder, Moosach, Bd 1, Von den Anfängen bis 18
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=93
@@ -2763,7 +2763,7 @@ Lieb/Sauermost, S. 29, 290.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=97
@@ -2900,7 +2900,7 @@ C. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=102
@@ -3050,7 +3050,7 @@ LANDKREIS MÜNCHEN
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=109
@@ -3143,7 +3143,7 @@ E[ismann], J[oseph], St. Cosmas und Damian zu Arget, in Holzkirchner Merkur 28./
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=112
@@ -3340,7 +3340,7 @@ C.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=117
@@ -3443,7 +3443,7 @@ KS
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=120
@@ -3549,7 +3549,7 @@ C. B
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=122
@@ -3705,7 +3705,7 @@ Schmidtsche Matrikel, Bd 2, S. 510f. Mayer-Westermayer, Bd 2, S. 627, 630. E[ism
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=127
@@ -3808,7 +3808,7 @@ C. B./L. L.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=131
@@ -3904,7 +3904,7 @@ Schmidtsche Matrikel, Bd 2, S. 593 f. Hinterloner, Joannes, Der gerechte und vol
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=134
@@ -4030,7 +4030,7 @@ Böhm, Cordula, Kleinkarierte Denkart hemmt große Meister, Intrigenspiel um die
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=137
@@ -4219,7 +4219,7 @@ C.B/L.L
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=142
@@ -4319,7 +4319,7 @@ C.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=144
@@ -4473,7 +4473,7 @@ Schmidtsche Matrikel, Bd 2, S. 484 f. Mayer-Westermayer, Bd 3, S. 647 f. KDB I O
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=149
@@ -4741,7 +4741,7 @@ Bauer, Hermann und Anna, Die Brüder Zimmermann, Regensburg 1985, S. 270–75.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=160
@@ -4868,7 +4868,7 @@ Literatur s. S. 168
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=163
@@ -5061,7 +5061,7 @@ Skrabal, Gerhard, St. Leonhard zu Siegertsbrunn, in: Münchner Stadtanzeiger, Di
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=169
@@ -5242,7 +5242,7 @@ Soldaten führen Johannes gefesselt zu dem Ölkessel, unter dem das Feuer gesch�
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=174
@@ -5494,7 +5494,7 @@ Schmidtsche Matrikel, Bd 2, S. 482. Mayer-Westermayer, Bd 2, S. 636. Dehio-Gall 
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=180
@@ -5610,7 +5610,7 @@ Kirche in Zell wird restauriert (o. V.), in: Isar-Loisach-Bote 84, 23. Juli 1952
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=185
@@ -5810,7 +5810,7 @@ Lieb/Sauermost, S. 151–56 (Friedrich Naab)
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=191
@@ -5975,7 +5975,7 @@ K.S./A.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=196
@@ -6376,7 +6376,7 @@ EHEM. KLOSTER DER ELISABETHINERINNEN
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=209
@@ -6532,7 +6532,7 @@ A.B./C.B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=214
@@ -6685,7 +6685,7 @@ Langenstein-Wagner, Eva, Georg Asam, 1649–1711, Ein Beitrag zur Entwicklung de
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=220
@@ -6819,7 +6819,7 @@ B.V.-K.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=224
@@ -7072,7 +7072,7 @@ K. S.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=231
@@ -7259,7 +7259,7 @@ Thon, Christina, Johann Baptist Zimmermann als Stukkator, München und Zürich 1
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=235
@@ -7326,7 +7326,7 @@ m. Saal der Großen Lateinischen Kongregation S. 235 Ehem. Bibliothek Saal I –
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=235
@@ -7519,7 +7519,7 @@ Ehem. Bibliothek der Jesuiten, zwei ineinander übergehende Bibliotheksräume; W
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=241
@@ -7666,7 +7666,7 @@ Saal I: Teilansicht der Decke mit
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=244
@@ -7808,7 +7808,7 @@ Wagner, Karl S. J. und Albert Keller S. J. (Hg.), St. Michael in München Festsc
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=248
@@ -8154,7 +8154,7 @@ C.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=257
@@ -8231,7 +8231,7 @@ C B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=259
@@ -8332,7 +8332,7 @@ Böhm, Cordula, Die Münchner Maler J. A. Wolff, C. G. und N. G. Stuber sowie C.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=263
@@ -8384,7 +8384,7 @@ A. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=263
@@ -8434,7 +8434,7 @@ C. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=264
@@ -8512,7 +8512,7 @@ E.-G. B
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=265
@@ -8598,7 +8598,7 @@ Lipowsky-Künstlerlexikon 1810, Bd 1, S. 158.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=266
@@ -8672,7 +8672,7 @@ C. B
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=266
@@ -8733,7 +8733,7 @@ Hufnagl, Max Joseph, Franziskanerinnenkloster der Pütrich-Schwestern z. Hl. Chr
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=267
@@ -8788,7 +8788,7 @@ Lippert, Karl-Ludwig, Giovanni Antonio Viscardi 1645–1713, München 1969, S. 1
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=268
@@ -8865,7 +8865,7 @@ Marquart, Eva-Maria, die Gemälde der Bayerischen Staatsgemäldesammlungen Münc
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=269
@@ -9230,7 +9230,7 @@ E.-G. B.
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=276
@@ -9475,7 +9475,7 @@ Zell 131, 180–81
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=279
@@ -9945,7 +9945,7 @@ Zwinck, Franz Seraph, Maler 61
 {{End}}
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=283
@@ -10137,7 +10137,7 @@ Zacharias 172, 195, 206 Zodiakus 151, 157 Zug der Jungfrauen zum Lamm auf den Be
 <!-- citation-page-top: Band03-1 p288 -->
 
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=289
@@ -10153,7 +10153,7 @@ Emblemähnliche Darstellungen: Diese enthalten anstelle von echten Lemmata Insch
 
 {{End}}
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=289
@@ -10203,7 +10203,7 @@ Zepter und Schlüssel auf einem Tisch 201
 
 {{End}}
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=289
@@ -10253,7 +10253,7 @@ Vulnerant sanantque 136
 
 {{End}}
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=290
@@ -10293,7 +10293,7 @@ Wie der Sonnen glantz/scheint und hitzet gantz 130
 
 {{End}}
 {{Artikel
-|Band=3
+|Band=31
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=292
