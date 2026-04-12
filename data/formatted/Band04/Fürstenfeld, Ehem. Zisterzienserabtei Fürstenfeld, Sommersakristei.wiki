@@ -1,0 +1,284 @@
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=104
+|Originalseitenbis=112
+|Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Sommersakristei
+|Typ=Sakral
+|Ort=Fürstenfeld
+|davor=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
+|danach=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Klostergebäude
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Hamacher, Bärbel
+|AutorIn3=Werner-Clementschitsch, Heide
+}}
+
+Sommersakristei, im Süden an den Chor grenzend
+
+
+'''Zum Bauwerk:''' Die Sakristei entstand im Zusammenhang mit dem Kirchenneubau zwischen 1699 und 1731 nach Plänen Giovanni Antonio Viscardis, ab 1716 unter der Leitung Johann Georg Ettenhofers (s. S. 58). Stuckierung Jakob Appiani zugeschrieben und um 1730 datiert (Vollmer).
+
+Die Sakristei (rechteckiger Raum, Höhe 6,00 m; 14,30 × 8,00; Beleuchtung von O und S, Eingang von W; Plan s. S. 59) befindet sich im S des Chors. Die N-Seite der Sakristei ist durch einen Wandpfeiler in zwei kleine Nischen geteilt, in deren westlicher die Sakristeischränke untergebracht sind. In der östlichen Nische befindet sich der Zugang zum Chor im Altarbereich. Die Decke dieser Nische bildet so einen erweiterten Türsturz (Höhe 3,60 m; 1,30 × 4,60). An dieser kleinen Deckenfläche befindet sich ein Bild (S); ein zweites (SW) füllt den Schildbogen über dem Türsturz.
+
+'''Auftraggeber:''' Abt Liebhard Kellerer von Fürstenfeld (1714-34)
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Jakob Appiani (* 22. Juni 1687 Porto Morcote/Ceresio † ebd. 14. Juni 1742) um 1730 (Vollmer, Kat. Fürstenfeld II, S. 256 f.)
+
+Die mit Stuckreliefs kombinierten blauen Ton-in-Ton-Malereien stehen technisch und stilistisch in engem Zusammenhang mit den Darstellungen ED<sub>1-10</sub> in den zehn Emporenräumen über den Langhauskapellen (S. 104-09). In ihrer gegenüber den Emporendarstellungen ED<sub>1-10</sub> eher zaghaften Kombination von Malerei und Stuck muten sie wie Probestücke zu diesen an. Sie dürften in der Zeit vor der Vollendung des Langhauses 1731 entstanden sein. Die Vorliebe für szenische Stuckreliefs ist auch in der von Jakob Appiani stuckierten benachbarten Wallfahrtskirche in Puch (S. 223-38) zu beobachten, aber auch von den Brüdern Asam gibt es vergleichbare Darstellungen im Kuppelring von Weltenburg (NB, um 1720).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: S Flachdecke; SW Schildbogen  
+Rahmen: Stuckprofil  
+Technik: Freskomalerei, kombiniert mit Stuckrelief; monochrom blau  
+Maße: S Höhe 3,60 m; 0,90 × 2,60  
+SW Bildansatz in Höhe von 3,60 m; 1,40 × 4,60  
+
+Erhaltungszustand und Restaurierungen: Die Malereien wirken original. In S viele kleine Netzrisse. SW ist durch die starke Belichtung des gegenüberliegenden Südfensters sehr verblaßt (Fortsetzung S. 110 f.).
+
+
+[[File:Band04_chunk003_p003_img001.jpg|thumb|ED<sub>1-10</sub> Die Zehn Gebote, Stuckbilder mit Malerei von Jacopo Appiani an den Decken der Emporenumgänge]]
+
+
+[[File:Band04_chunk003_p003_img002.jpg|thumb|ED<sub>1</sub> Erstes Gebot]]
+
+
+ED<sub>1</sub> ERSTES GEBOT »Ich bin der Herr, dein Gott. D sollst keine fremden Götter neben mir haben«. Josue, als Feldherr gekleidet, und Moses, der die Gesetzestafeln erzürnt zu Boden wirft, sehen die Götzenverehrung der Israeliten, die ums Goldene Kalb tanzen (Ex 32,17–20).
+
+ED<sub>2</sub> ZWEITES GEBOT »Du sollst den Namen Gottes nicht verunehren«. Steinigung des Sabbathändlers vor Moses und Aaron (Num 15,32–37).
+
+
+<!-- citation-page-bottom: Band04 p105 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=4 -->
+<!-- citation-page-top: Band04 p106 -->
+
+<!-- header: FÜRSTENFELD -->
+
+<!-- header: FURSTENEELD -->
+
+
+[[File:Band04_chunk003_p004_img001.jpg|thumb]]
+
+
+
+[[File:Band04_chunk003_p004_img002.jpg|thumb]]
+
+
+ED<sub>3</sub> DRITTES GEBOT »Gedenke, daß du den Sabbat heiligest«. Die Bundeslade, die Gesetzestafeln, die Schaubrote, das Schofar und der siebenarmige Leuchter (Ex 25) und der Rauchaltar (Ex 30).
+
+ED<sub>4</sub> VIERTES GEBOT »Du sollst Vater und Mutter ehren, auf daß es dir wohlergehe und du lange lebest auf Erden«. Die Stelle aus der Geschichte des Tobias, der seinen blinden Vater mit der Fischgalle heilt, steht für Elternliebe (Tob 10). Rechts der Erzengel Raphael, der Begleiter des jungen Tobias, links die Mutter mit dem vorausgeeilten Hündchen.
+
+
+[[File:Band04_chunk003_p004_img003.jpg|thumb|ED<sub>5</sub> FÜNFTES GEBOT]]
+
+
+
+[[File:Band04_chunk003_p004_img004.jpg|thumb|ED<sub>6</sub> SECHSTES GEBOT]]
+
+
+ED<sub>5</sub> FÜNFTES GEBOT »Du sollst nicht töten«. Kain tötet Abel (Gen 4). Links der Altar Abels mit dem Lamm, von dem der Rauch aufsteigt, links der Altar Kains mit den Feldfrüchten, dessen Rauch schwer am Boden liegt.
+
+ED<sub>6</sub> SECHSTES GEBOT »Du sollst nicht Unkeuschheit treiben«. Potiphars Weib versucht Joseph zu verführen (Gen 39,7–13).
+<!-- citation-page-bottom: Band04 p107 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=5 -->
+<!-- citation-page-top: Band04 p108 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=5 -->
+
+
+
+[[File:Band04_chunk003_p005_img001.jpg|thumb|ED<sub>9</sub> Neuntes Gebot]]
+
+
+
+[[File:Band04_chunk003_p005_img002.jpg|thumb|ED<sub>10</sub> Zehntes Gebot]]
+
+
+
+[[File:Band04_chunk003_p005_img003.jpg|thumb]]
+
+
+
+[[File:Band04_chunk003_p005_img004.jpg|thumb]]
+
+
+ED<sub>9</sub> NEUNTES GEBOT »Du sollst nicht begehren deine Nächsten Weib«. »Du sollst nicht begehren deines Nächsten Weib«. David begehrt die Frau des Urias, die er im Bad erblickt (2 Sam 11,2–5).
+
+ED<sub>10</sub> ZEHNTES GEBOT »Du sollst nicht begehren deines Nächsten Hab und Gut«. »Du sollst nicht begehren deines Nächsten Hab und Gut«. Achab begehrt den Weingarten Nabots, den er sich unrechtmäßig aneignet (3 Reg 21).
+<!-- citation-page-bottom: Band04 p109 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=6 -->
+<!-- citation-page-top: Band04 p110 -->
+
+<!-- header: FURSTENEEL -->
+
+<!-- header: FURSTENFELD -->
+
+
+[[File:Band04_chunk003_p006_img001.jpg|thumb|Sommersakristei: S Die Liebe zu Gott befreit die Seele aus dem Fegfeuer, Fresko über dem Zugang zum Chor]]
+
+
+
+[[File:Band04_chunk003_p006_img002.jpg|thumb|SW Memento Mei – Die Seele hofft auf Erlösung, Fresko an der Schildwand]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die beiden Bildfelder zeigen emblemähnliche Darstellungen, bei denen jeweils das Herz Gegenstand des Emblems ist. (Die Herz-Ikonographie Abt Liebhard Kellerers wird in Puch, S. 223–38, ausführlich behandelt.)
+
+S Laqueu[s] contritus est (die Fessel ist zerrissen). Bildschauplatz ist eine weite ebene Landschaft mit mehreren Gruppen von Laubbäumen, die seitlich an den Bildrändern leicht in Stuckrelief übergehen. Rechts steigen vom Erdboden Flammen auf, die sich zur Bildtiefe hin in Rauchwolken fortsetzen. Aus ihnen erhebt sich, eine Kette unter sich lassend, ein geflügeltes, flammendes Herz (Stuckrelief), um das ein Schriftband mit dem Lemma flattert. - Das Emblem bezieht sich auf die Erlösung der Seele aus dem Fegfeuer; ihre Schuld würde sie dort festhalten (Kette), aber die Liebe zu Gott (flammendes Herz), die sie zu Lebzeiten gezeigt hat, läßt sie von der Sündenschuld frei werden. Abt Liebhard Kellerer drückt damit seine Erlösungshoffnung aus, gestützt auf die Bibelstelle {ZITAT|000} (Lc 7,47).
+
+SW MEMENTO MEI (Sei meiner eingedenk). Der Bildschauplatz ist wie in S eine ganz ähnliche weite flache Landschaft, in der Laubbäume gruppiert sind. (In der Wallfahrtskirche Puch befindet sich an der Unterseite der Orgelempore eine ähnliche Landschaft in Relief mit der Darstellung des Paradieses.) Im rechten und im linken Bildteil ist je eine Anhäufung von Steinen (aus Stuck) in der Art von Opferaltären zu sehen: Auf dem rechten liegen Totenkopf und Knochen, darüber stehen die Worte MEMENTO MEI, auf dem linken ein Herz mit vasenförmiger Öffnung, aus der Rauch zum Himmel steigt und das von Gnadenstrahlen aus dem Himmel getroffen wird.
+
+Das Bild ist ähnlich zu deuten wie Fresko S. In Anspielung an die Opferaltäre von Kain und Abel, wo das Opfer des einen von Gott angenommen, das des anderen verschmäht wird, soll dieses Bild sagen, daß zwar der Gott liebende Mensch sich des ewigen Heils sicher sein kann, daß aber nach der Erlösungstat Christi auch der Mensch, der schuldbeladen ist und die vollkommene Liebe zu Gott nicht erreicht, sich vertrauensvoll der Gnade Gottes anheimgeben kann (memento mei).
+
+
+== Quellen und Literatur ==
+
+
+BSB, Cgm 3920 und Cod. Bavar. 380, Chronik des Abt Gerhard Führer, Ms um 1802.
+
+Röckl, Carl Adolf, Beschreibung des ehemaligen Klosters Fürstenfeld, München 1840.
+
+Gross, August, Chronik des Marktes Bruck, Fürstenfeldbruck 1877.
+
+Fugger, Eberhard Graf von, Kloster Fürstenfeld, eine Wittelsbacher Stiftung und deren Schicksale von 1258–1803. Ein Beitrag zur Geschichte unseres engeren Vaterlandes, 2München 1885.
+
+Aufleger, Otto und Karl Trautmann, Die Kgl. Hofkirche zu Fürstenfeld – Die Klosterkirche zu Dießen, München 1894. KDB I OB (1), S. 454–59.
+
+Lindner, Pirmin, Beiträge zur Geschichte der Abtei Fürstenfeld, in: Cisterzienserchronik 17, 1905, S. 193–207, 225–43, 257–74 und Cisterzienserchronik 18, 1906, S. 129–34, 167–244 (mit älterer Literatur).
+
+Aumiller, August, Kirche und Kloster Fürstenfeld. Fürstenfeldbruck 1916.
+
+Aumiller, August, Kirche und Kloster Fürstenfeld überarbeitet von Karl Weber, Fürstenfeldbruck 1930.
+
+Hartig, Bd 1, S. 113–20.
+
+Hanfstaengl, Erika, Cosmas Damian Asam, München 1939. Baumeister, Engelbert, Die Zeichnungen des Cosmas Damian Asam, in: Das Münster 6, 1953, S. 245–59.
+
+Lieb, Norbert, Barockkirchen zwischen Donau und Alpen München 1953, S. 28 ff, 141 f.
+
+Krausen, Edgar, Die Klöster des Zisterzienserordens in Bayern, (= Bayerische Heimatforschung Bd 7), München 1953.
+
+Historischer Atlas I. Bd 11/12, S. 107–11.
+
+Schnell, Hugo, Fürstenfeldbruck (= KKF 6), 3München 1959. Wolf, Friedrich, Die unbekannten Ausstattungskünstler der Klosterkirche Fürstenfeld, in: OA 85, 1962, S. 59–66.
+
+Lampl, Lorenz, 700 Jahre Kloster Fürstenfeld, in: Landkreis Fürstenfeldbruck, Heimatbuch, Pörsdorf 1963, S. 101–12.
+
+Lindemann, Hans (Hg.), 700 Jahre Fürstenfeld (= GKF Nr. 39), München 1963.
+
+Dehio-Gall OB, S. 126–28.
+
+Bauer, Hermann, Der Himmel im Rokoko, Regensburg 1965. S. 23.
+
+Schoener, Susanne, Die Handzeichnungen von Cosmas Damian Asam, ungedr. Mag. München 1966, S. 46 ff.
+
+Lippert, Ludwig, Giovanni Antonio Viscardi 1645–1713 Studien zur Entwicklung der barocken Kirchenbaukunst in Bayern (= Studien zur altbayerischen Kirchengeschichte Bd 1), München 1969, S. 75–105.
+
+Hojer, Gerhard, Cosmas Damian Asams gemalte Dekoration der Bibliothek von St. Emmeram in Regensburg, in: Thurn und Taxisstudien 7, Die Bibliothek zu St. Emmeran in Regensburg, Kallmünz 1971.
+
+Böhne, Clemens, Die Stukkaturen in der Klosterkirche Fürstenfeld, in: Amperland 11, 1975, S. 28–30.
+
+Kraft, Klaus und Florian Hufnagel, Landkreis Fürstenfeldbruck (= Baudenkmäler in Bayern, Bd 12), München 1978, S. 48–51.
+
+Pörnbacher, Karl, Das Wittelsbachische Sühnekloster zu Fürstenfeld. Zur Geschichte der Zisterzienserabtei, München 1978.
+
+Rupprecht, Bernhard, Die Brüder Asam. Sinn und Sinnlichkeit im bayerischen Barock, Regensburg 1980, S. 116–23.
+<!-- citation-page-bottom: Band04 p111 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=7 -->
+<!-- citation-page-top: Band04 p112 -->
+
+<!-- header: FURSTENFELD -->
+
+<!-- header: Klostergebäude -->
+
+Lampl, Lorenz und Wolf-Christian von der Mülbe, Die Klosterkirche Fürstenfeld. Ein Juwel des bayerischen Barock, München 1981
+
+Kraft, Klaus, Die Fresken des Cosmas Damian Asam, in: Lampl/von der Mülbe 1981, S. 55–63.
+
+Ramisch, Hans, Die Innenrestaurierung der ehemaligen Zisterzienser-(Landhof-)Kirche Fürstenfeld, in: Jahrbuch der bayerischen Denkmalpflege 33 für das Jahr 1979, 1981, S. 117–35.
+
+Lindemann, Bernd Wolfgang, Cosmas Damian Asams Fresken in der ehemaligen Zisterzienserkirche zu Aldersbach, Fragen nach den Quellen des ikonologischen Programms, in: Münchner Jahrbuch der bildenden Kunst, Dritte Folge 35, 1984, S. 129–56.
+
+Trottmann, Helene, Cosmas Damian Asam 1686–1739. Tradition und Invention im malerischen Werk, Nürnberg 1986, S. 95 f.
+
+Cosmas Damian Asam 1686–1739. Leben und Werk, hg. von Bruno Bushart und Bernhard Rupprecht, Katalog der Ausstellung in Aldersbach, München 1986.
+
+Rupprecht, Bernhard, Der Deckenmaler Cosmas Damian Asam, in: Kat. Asam 1986, S. 11–27.
+
+Möseneder, Karl, Zur Ikonologie und Topologie der Fresken, in: Kat. Asam 1986, S. 28–42.
+
+Krausen, Edgar und Peter Pfister, Ehemalige Zisterzienserabtei Fürstenfeld (= KKF Nr. 6), München 1987.
+
+Kat. Fürstenfeld 1988, Bd I: D. Spiritualität und Mystik: Die barocken Fresken, S. 91–108, Nr. D.I.I.-D.II.5 (Altmann und Pfister); IV. Ausstattung der Kirche, S. 176–82, Nr. F.IV.1–F.IV.7 (Altmann):
+
+Kat. Fürstenfeld 1988, Bd II (Aufsätze)
+
+Liebhart, Wilhelm, Fürstenfeld im Zeitalter des Barock (1690–1796), in: Kat. Fürstenfeld, Bd II, S. 125–39.
+
+Dinkelacker, Susanne, Die barocke Klosteranlage und Kirche in Fürstenfeld, in: Kat. Fürstenfeld, Bd II, S. 191–210.
+
+Vollmer, Eva Christina, Die Stuckdekorationen in Kloster und Kirche Fürstenfeld, in: Kat. Fürstenfeld, Bd II, S. 247–58.
+
+Dorner, Peter, Nescit molimina tarda - Cosmas Damian Asam und Fürstenfeld, in: Amperland 25, 1989, S. 332 f.
+
+Kaiser, Alfred, Zur Ikonologie der ehemaligen Zisterzienser- Klosterkirche Fürstenfeld, in: Amperland 25, 1989, S. 228–37.
+
+Dehio 1990, S. 332–36.
+
+Bachmair, Thomas, Hugo Schnell, Peter Pfister, Ehemalige Zisterzienserabtei Fürstenfeld, KKF Nr. 6 1994.
+
+Literatur zur Zisterzienser-Ikonographie
+
+Henriquez, Chrysostomus, Fasciculus Sanctorum Ordinis Cisterciensis, Brüssel 1621.
+
+Henriquez, Chrysostomus, Menologium Cistertiense Notationibus illustratum, Antwerpen 1630; Teil 2: Regula, Constitutiones et Privilegia Ordinis Cistertiensis.
+
+Henriquez, Chrysostomus, Lilia Cistercii sive sacrarum virginum Cisterciensium Origo, Instituta, et Res gestae, Duaci 1633.
+
+Sartorius, Augustinus, Verteutschtes Cistercium Bistertium, Prag 1708.
+
+Henriquez, Chrysostomus, Menologium Cisterciense Notationibus illustratum, übersetzt von Theobald Zellbacher, Prag 1731.
+
+Hilteprand, Bonifaz Abt von Gotteszell, Annales Cistercienses, d. i. Cisterciensische oder vielmehr jährliche Kirchengeschichte von Erbauung von Cisterz 1098–1212, 2 Bde. Augsburg 1739.
+
+Manrique von Burgen, Angelo, Annales Cistercienses, das ist, Cisterciensische, oder Vielmehr Jährliche Kirchengeschichte, aus dem Lateinischen übersetzt, Regensburg 1739.
+
+Breviarium Cisterciense, Paris 1762, 2 Bde.
+
+Ribadeneira-Hornig Bd 2, S. 256–79
+
+AASS, Augusti Tom. IV, s. v. 20. August (Bernhard von Clairvaux).
+
+Vancanddard, Elphegius, Das Leben des Hl. Bernhard von Clairvaux, Mainz 1897.
+
+Sancti Bernardi Abbatis Clarae-Vallensis Vita et Res gestae, Libri septem, in: PL, Bd 185, S. 226–467.
+
+Sachsen, Johann Georg Herzog von, Ikonographische Studien an den kirchlichen Fresken von Cosmas Damian Asam, in: Kunstwissenschaftliches Jahrbuch der Görresgesellschaft 1, 1928, S. 47.
+
+Zimmermann, Alfons, Kalendarium Benedictinum. Die Heiligen und Seligen des Benediktinerordens und seiner Zweige, Wien 1934.
+
+Aurenhammer, Bd 1, s. v. Bernhard, S. 330.
+
+Gilson, Stefan, Die Mystik des heiligen Bernhard von Clairvaux, Wittlich 1936.
+
+Sinz, Paul, Das Leben des Hl. Bernhard von Clairvaux, Düsseldorf 1962.
+
+Wentzlaff-Eggebert, Friedrich-Wilhelm, Deutsche Mystik zwischen Mittelalter und Neuzeit. Einheit und Wandlung ihrer Erscheinungsformen, <sup>3</sup>Berlin 1969.
+
+Liturgia Horarum Ordinis Cisterciensis, hg. Abtei Heiligenkreuz, Mödling 1978.
+
+Die Zisterzienser. Ordensleben zwischen Ideal und Wirklichkeit, Katalog der Ausstellung in Aachen, Berlin 1980.
+
+A. B./B. H./H.W.
+
+{{End}}

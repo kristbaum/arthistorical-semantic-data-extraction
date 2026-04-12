@@ -93,6 +93,19 @@ Die Drucklegung wurde vom Ernst von Siemens-Kunstfonds unterstutzt
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=4 -->
 <!-- citation-page-top: Band04 p6 -->
 
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 4)
+|davor=
+|danach=Adelshofen, Kuratiekirche St. Michael
+|AutorIn1=Bauer, Hermann
+|AutorIn2=Rupprecht, Bernhard
+}}
+
 <!-- header: VORWORT -->
 
 Der vorliegende Band behandelt die barocken Deckenmalereien des Landkreises Fürstenfeldbruck. Abweichend von der bisherigen Editionsweise wird die Reihe von jetzt an jeweils einen Landkreis in einem Einzelband herausbringen, da sich mehrere Landkreise in einem Band zu vereinen als unhandlich erwiesen hat.
@@ -113,6 +126,8 @@ Hermann Bauer / Bernhard Rupprecht
 <!-- citation-page-bottom: Band04 p7 -->
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=5 -->
+
+{{End}}
 <!-- citation-page-top: Band04 p8 -->
 
 
@@ -875,7 +890,7 @@ Notizen über bayerische Künstler, beso
 |Lemma=Adelshofen, Kuratiekirche St. Michael
 |Typ=Sakral
 |Ort=Adelshofen
-|davor=
+|davor=Vorwort (Band 4)
 |danach=Aich, Kuratiekirche St. Peter und Paul
 |AutorIn1=Böhm, Cordula
 }}
@@ -1605,7 +1620,7 @@ AR
 |Typ=Sakral
 |Ort=Fürstenfeldbruck
 |davor=Esting, Ehem. Benefiziatenhaus
-|danach=Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
+|danach=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
 |AutorIn1=Gluderer, Martin
 }}
 
@@ -1941,12 +1956,12 @@ Klemenz, Birgitta, Ausstattung und frühere Restaurierungen der Pfarrkirche St. 
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=58
-|Originalseitenbis=112
-|Lemma=Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
+|Originalseitenbis=103
+|Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
 |Typ=Sakral
 |Ort=Fürstenfeld
 |davor=Fürstenfeldbruck, Stadtpfarrkirche St. Magdalena
-|danach=Fürstenfeld, Ehem. Klostergebäude
+|danach=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Sommersakristei
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Hamacher, Bärbel
 |AutorIn3=Werner-Clementschitsch, Heide
@@ -2723,9 +2738,24 @@ Auf einer Wolke im Vordergrund, kompositionell aber auch als zugehörig zur Scha
 Die Zisterzienser unter dem Schutz von Mariens Mantel verweisen auf eine weitere Vision eines Zisterziensers, der den Himmel sah, und alle Orden in ihm, aber die Zisterzienser vermißte; er fragte Maria nach seinen Ordensbrüdern, worauf diese den Mantel hob und sprach: »Ita mihi dilect sunt, qui de Ordine Cisterciense sunt, ut eos etiam sub ulni meis foveam« (Henriquez, Fasciculus, Lib. I, Distinctio 2 Cap. 2).
 
 Emporen über den Kapellen im Langhaus (Jacopo Appiani) ED<sub>1-10</sub> ZEHN GEBOTE illustriert an alttestamentlichen Szenen. Die breitformatigen Darstellungen an den Quertonnen in den Emporenräumen über den Kapellen sind vom Kirchenschiff aus kaum sichtbar. Es sind auf der S-Seite (ED<sub>1-5</sub>, Zählung von O nach W) Stuckreliefs, kombiniert mit blaumonochromer Malerei, auf der N-Seite (ED<sub>6-10</sub>, Zählung von W nach O) gemalte Darstellungen, die vereinzelt in Stuck übergehen. In den beiden westlichen (ED<sub>5-6</sub>) sind die stuckierten Körperpartien der Hauptfiguren fleischfarben wiedergegeben, wodurch die Dramatik der betreffenden Szenen, Kain und Abel, Potiphars Weib und Joseph, gesteigert wird. Numerierung I-X jeweils auf einer kleinen Schriftrolle am unteren Bildrand, in ED<sub>6,9,10</sub> mit kaum mehr lesbarer Angabe der betreffenden Bibelstelle. (Abbildungen und Text S. 105-09.)
+{{End}}
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=104
+|Originalseitenbis=112
+|Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Sommersakristei
+|Typ=Sakral
+|Ort=Fürstenfeld
+|davor=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
+|danach=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Klostergebäude
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Hamacher, Bärbel
+|AutorIn3=Werner-Clementschitsch, Heide
+}}
 
-
-== Sommersakristei, im Süden an den Chor grenzend ==
+Sommersakristei, im Süden an den Chor grenzend
 
 
 '''Zum Bauwerk:''' Die Sakristei entstand im Zusammenhang mit dem Kirchenneubau zwischen 1699 und 1731 nach Plänen Giovanni Antonio Viscardis, ab 1716 unter der Leitung Johann Georg Ettenhofers (s. S. 58). Stuckierung Jakob Appiani zugeschrieben und um 1730 datiert (Vollmer).
@@ -3000,10 +3030,10 @@ A. B./B. H./H.W.
 |Chunkseite=
 |Originalseitenvon=113
 |Originalseitenbis=133
-|Lemma=Fürstenfeld, Ehem. Klostergebäude
+|Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Klostergebäude
 |Typ=Sakral
 |Ort=Fürstenfeld
-|davor=Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
+|davor=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Sommersakristei
 |danach=Geiselbullach, Kapelle St. Johannes
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
@@ -3441,7 +3471,7 @@ Wollenberg, Klaus, Zum Ruhme von Kloster und Kurfürst Max Emanuel. Die Asamfres
 |Lemma=Geiselbullach, Kapelle St. Johannes
 |Typ=Sakral
 |Ort=Geiselbullach
-|davor=Fürstenfeld, Ehem. Klostergebäude
+|davor=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Klostergebäude
 |danach=Grafrath, Wallfahrts- und Klosterkirche St. Rasso
 |AutorIn1=Sauerländer, Brigitte
 }}
@@ -6211,7 +6241,7 @@ Wirth, Karl-August, Religiöse Herzemblematik, in: Das Herz, Bd 2, Biberach an d
 |Typ=Sakral
 |Ort=Rammertshofen
 |davor=Puch, Wallfahrtskirche St. Sebastian
-|danach=
+|danach=Tegernbach, Filialkirche St. Stephan
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -6311,6 +6341,22 @@ AEM, Pfarrakten Aufkirchen, 127000101: Pfarrbeschreibung.
 
 Schmidtsche Matrikel, Bd 2, S. 269 f. Mayer-Westermayer, Bd 1, S. 255. KDB I (OB) Bd 1, S. 474. Kunst- und Kulturdenkmäler 1977, S. 341. Dehio 1990, S. 1003. Landkreisbuch Fürstenfeldbruck 1992, S. 571. C. B.
 
+{{End}}
+
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=242
+|Originalseitenbis=246
+|Lemma=Tegernbach, Filialkirche St. Stephan
+|Typ=Sakral
+|Ort=Tegernbach
+|davor=Rammertshofen, Filialkirche Inventio Crucis
+|danach=Türkenfeld, Pfarrkirche Mariä Himmelfahrt
+|AutorIn1=Sauerländer, Brigitte
+}}
+
 == TEGERNBACH ==
 
 Filialkirche, Pfarrei Baindlkirch, Gemeinde Mittelstetten, Diözese Augsburg; z. Z. der Ausmalung hatte das Augsburger Domkapitel das Präsentationsrecht auf die Pfarrei Baindlkirch (Baindlkirch lag im Gericht Friedberg). Tegernbach gehörte seit 1399 zur Hofmark Hofhegnenberg, die seit 1542 im Besitz der Freiherren von Hegnenberg-Dux war. Gericht Landsberg
@@ -6398,8 +6444,21 @@ Kunst- und Kulturdenkmäler, S. 360. Dehio 1990, S. 1152
 
 B. S.
 
+{{End}}
 
-== TÜRKENFELD ==
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=247
+|Originalseitenbis=258
+|Lemma=Türkenfeld, Pfarrkirche Mariä Himmelfahrt
+|Typ=Sakral
+|Ort=Türkenfeld
+|davor=Tegernbach, Filialkirche St. Stephan
+|danach=Unterschweinbach, Filialkirche Mariä Himmelfahrt
+|AutorIn1=Sauerländer, Brigitte
+}}
 
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung war Türkenfeld Hofmark, von 1598-1789 im Besitz der Fugger, Freiherren, später Grafen zu Kirchberg und Weißenhorn, die als Hofmarksbesitzer auch das Präsentationsrecht auf die Pfarre innehatten. Die Jurisdiktion lag beim Hofmarksgericht Schmiechen (LKr. Friedberg; ebenfalls im Besitz der Fugger-Kirchberg). Gericht Landsberg
@@ -6671,8 +6730,21 @@ Dehio 1990, S. 1191 f.
 
 Müller, Mechthild, ›In hoc vince‹. Schlachtendarstellungen an süddeutschen Kirchendecken im 18. Jahrhundert. (= Europäische Hochschulschriften, Reihe 28 Kunstgeschichte, Bd 115), Frankfurt – Bern – New York – Paris 1991, S. 169 f.
 
+{{End}}
 
-== IINTERSCHWEINBACH ==
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=259
+|Originalseitenbis=263
+|Lemma=Unterschweinbach, Filialkirche Mariä Himmelfahrt
+|Typ=Sakral
+|Ort=Unterschweinbach
+|davor=Türkenfeld, Pfarrkirche Mariä Himmelfahrt
+|danach=Vogach, Filialkirche St. Johann Baptist
+|AutorIn1=Sauerländer, Brigitte
+}}
 
 
 Filialkirche, Pfarrverband Aufkirchen, Gemeinde Egenhofen, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei Aufkirchen. Aufkirchen war Monatspfarrei. Gericht Dachau, Amt Esting
@@ -6787,7 +6859,21 @@ Literatur zu Johann Nepomuk von Schöpf s. S. 139.
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=8 -->
 <!-- citation-page-top: Band04 p264 -->
 
-== VOGACH ==
+{{End}}
+
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=264
+|Originalseitenbis=265
+|Lemma=Vogach, Filialkirche St. Johann Baptist
+|Typ=Sakral
+|Ort=Vogach
+|davor=Unterschweinbach, Filialkirche Mariä Himmelfahrt
+|danach=Windach, Filialkirche St. Johannes der Täufer
+|AutorIn1=Böhm, Cordula
+}}
 
 
 Filialkirche, Gemeinde Mittelstetten, Pfarrei Baindlkirch, Diözese Augsburg; auf die Pfarrei Baindlkirch präsentierte z. Z. der Ausmalung das Domkapitel Augsburg. Die Hofmark Vogach war 1596-1781 im Besitz des Jesuitenkollegs Landsberg und 1781-1808 der Malteserkommende Kaltenberg. Das ehem. Hofmarkschloß grenzte östlich an die Kirche, an der Stelle des heutigen Bauernhofs.
@@ -6835,6 +6921,22 @@ C. B
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=9 -->
 <!-- citation-page-top: Band04 p266 -->
+
+{{End}}
+
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=266
+|Originalseitenbis=267
+|Lemma=Windach, Filialkirche St. Johannes der Täufer
+|Typ=Sakral
+|Ort=Windach
+|davor=Vogach, Filialkirche St. Johann Baptist
+|danach=Zankenhausen, Pfarrkirche St. Johannes der Täufer
+|AutorIn1=Böhm, Cordula
+}}
 
 <!-- header: WINDAC -->
 
@@ -6921,6 +7023,23 @@ Historischer Atlas I, Bd 22/23, S. 172.
 Kunst- und Kulturdenkmäler, S. 380.  
 Kraft, Klaus und Florian Hufnagel, Landkreis Fürstenfeldbruck (= Baudenkmäler in Bayern, Bd 12), München 1978, S. 96 f.  
 Dehio, 1990, S. 1290.  
+
+{{End}}
+
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=268
+|Originalseitenbis=273
+|Lemma=Zankenhausen, Pfarrkirche St. Johannes der Täufer
+|Typ=Sakral
+|Ort=Zankenhausen
+|davor=Windach, Filialkirche St. Johannes der Täufer
+|danach=Zell, Kapelle St. Sebastian
+|AutorIn1=Böhm, Cordula
+}}
+
 Pfarrkirche, von Türkenfeld vikariert, Gemeinde Türkenfeld Diözese Augsburg; z. Z. der Ausmalung hatte das Jesuitenkolleg Landsberg das Patronatsrecht auf die Pfarrei Zankenhausen; Zankenhausen war Hofmark im Besitz der Landsberger Jesuiten (1598–1773). Gericht Landsberg  
 
 '''Patrozinium:''' St. Johannes der Täufer  
@@ -7028,6 +7147,22 @@ Dehio 1990, S. 1301 f.
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=13 -->
 <!-- citation-page-top: Band04 p274 -->
+
+{{End}}
+
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=274
+|Originalseitenbis=279
+|Lemma=Zell, Kapelle St. Sebastian
+|Typ=Sakral
+|Ort=Zell
+|davor=Zankenhausen, Pfarrkirche St. Johannes der Täufer
+|danach=Zellhof, Kapelle St. Vitus
+|AutorIn1=Böhm, Cordula
+}}
 
 <!-- header: ZELI -->
 
@@ -7214,6 +7349,23 @@ DC
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=16 -->
 <!-- citation-page-top: Band04 p280 -->
 
+
+{{End}}
+
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=280
+|Originalseitenbis=281
+|Lemma=Zellhof, Kapelle St. Vitus
+|Typ=Sakral
+|Ort=Zellhof
+|davor=Zell, Kapelle St. Sebastian
+|danach=Ortsregister (Band 4)
+|AutorIn1=Bauer-Wild, Anna
+}}
+
 <!-- header: ZELLHO -->
 
 
@@ -7313,7 +7465,18 @@ AR
 
 == REGISTER ==
 
+{{End}}
 
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=282
+|Originalseitenbis=284
+|Lemma=Ortsregister (Band 4)
+|davor=Zellhof, Kapelle St. Vitus
+|danach=Personenregister (Band 4)
+}}
 
 == Ortsregister ==
 
@@ -7411,7 +7574,18 @@ Zankenhausen 269-273
 Zell 274  
 Zellhof 128, 280-81  
 
-== Personenregister ==  
+{{End}}
+
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=284
+|Originalseitenbis=286
+|Lemma=Personenregister (Band 4)
+|davor=Ortsregister (Band 4)
+|danach=Ikonographisches Register (Band 4)
+}}
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band vertretenen Maler bzw. auf die behandelten Objekte  
 
@@ -7434,7 +7608,8 @@ Allegorie 212
 Stammbaum 133  
 Clemens August, Fürstbischof von Köln → Bayern-Wittelsbach  
 Johann Theodor, Fürstbischof 41  
-Joseph-Ferdinand, Kurprinz 116  
+Joseph-Ferdinand, Kurprinz
+ 116  
 Judith, Herzogin 142  
 Karl Albrecht 212  
 Ludwig II., Herzog 58  
@@ -7711,8 +7886,18 @@ Zacherl, Kirchenmaler
 Zernickel, Helmut, Restaurator 117  
 Zöpf, Thassilo, Stukkator 33, 42, 44, 199 f.
 
+{{End}}
 
-== konographisches Register ==
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=287
+|Originalseitenbis=290
+|Lemma=Ikonographisches Register (Band 4)
+|davor=Personenregister (Band 4)
+|danach=Embleme-Register (Band 4)
+}}
 
 
 Aaron 105  
@@ -8015,17 +8200,38 @@ Visionen 72–104
 
 Zodiakus 229 im Zeichen der Zwillinge 78, 80, 82
 
+{{End}}
 
-== Embleme-Register ==
-
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=290
+|Originalseitenbis=290
+|Lemma=Embleme-Register (Band 4)
+|davor=Ikonographisches Register (Band 4)
+|danach=Bildmotive (Band 4)
+}}
 
 Embleme 46, 49, 67–82, 154–56, 230 f., 235
 
 Emblemähnliche Darstellungen 88–92, 110 f. Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Zitate aus der Bibel und den Viten. Anstelle der Icones finden sich historische (hagiographische und biblische) oder symbolische Szenen und Figuren sowie Illustrationen zu den Zitaten.
 
-BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblemliteratur zum Vergleich herangezogenen Bild-
+{{End}}
 
-BILDMOTIVE Adler trägt seine Jungen zur Sonne 74 f. Altar – Opferaltar 91, 110 f. Amor an einem Münzprägestock 68, 71 Anker 46, 49 Arche Noe 70, 72 Arma Christi 91
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=290
+|Originalseitenbis=291
+|Lemma=Bildmotive (Band 4)
+|davor=Embleme-Register (Band 4)
+|danach=
+}}
+
+BILDMOTIVE 
+Adler trägt seine Jungen zur Sonne 74 f. Altar – Opferaltar 91, 110 f. Amor an einem Münzprägestock 68, 71 Anker 46, 49 Arche Noe 70, 72 Arma Christi 91
 
 Bienen folgen der Bienenkönigin 75 Bienenschwarm fliegt vom Baum 75 Blitze treffen ketzerische Schriften 91 Buch, aufgeschlagenes, und Bücherregal 91
 

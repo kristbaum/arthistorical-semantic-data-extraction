@@ -1,0 +1,123 @@
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=268
+|Originalseitenbis=273
+|Lemma=Zankenhausen, Pfarrkirche St. Johannes der Täufer
+|Typ=Sakral
+|Ort=Zankenhausen
+|davor=Windach, Filialkirche St. Johannes der Täufer
+|danach=Zell, Kapelle St. Sebastian
+|AutorIn1=Böhm, Cordula
+}}
+
+Pfarrkirche, von Türkenfeld vikariert, Gemeinde Türkenfeld Diözese Augsburg; z. Z. der Ausmalung hatte das Jesuitenkolleg Landsberg das Patronatsrecht auf die Pfarrei Zankenhausen; Zankenhausen war Hofmark im Besitz der Landsberger Jesuiten (1598–1773). Gericht Landsberg  
+
+'''Patrozinium:''' St. Johannes der Täufer  
+
+'''Zum Bauwerk:''' Der spätgotische Bau des 15. Jh. wurde im 17. Jh. umgebaut, der heutige Kirchenraum im 18. Jh. weitgehend neu errichtet und anschließend barock ausgeziert. Zuschreibung des Stuckdekors von 1756/57 an Franz Xaver Schmuzer (* 1713 † 1775) durch Vollmer (S. 59–62, 115). Zweiachsiger Saalbau mit einem einachsigen, fast quadratischen Chor, an den eine kleine, flache Apsis angefügt ist; LHs und AR gleich breit, durch eine eingeschobene Chorbogenwand gegeneinander abgesetzt. Wandgliederung im LHs durch hochangesetzte Stuckpilaster, im AR durch Eckpilaster; im W Empore und spätgotisches Vorhaus. Hohe Rundbogenfenster in N und S ergeben eine gleichmäßig helle Belichtung.  
+
+'''Auftraggeber:''' Das Jesuitenkolleg in Landsberg am Lech; amtierender Rektor war P. Andreas Oberhueber (25. 3. 1756–27. 10. 1762). Kleine Inschriftkartusche über dem Chorbogen mit einem stuckierten Christusmonogramm mit aufgesetztem Kreuz IHS: es ist das Wappenzeichen des Jesuitenordens, meistens, aber nicht immer durch drei Nägel unter dem H vervollständigt (LThK², Bd 5, s. v. IHS, Sp. 363 f.) Eine weitere, wohl ebenfalls auf die Jesuiten zu beziehende Inschriftkartusche befindet sich an der AR-Südwand, über der Öffnung des Oratoriums BENEDICITE / SACERDOTES.  
+
+'''Autor und Entstehungszeit:''' Franz Seraph Kirzinger (* um 1728 † 1811 München) 1757. Signatur in A auf dem Stein am östlichen Bildrand: Franc. Kirzinger. Monacensis. pinxit. 1757. und in B an der Stufe über dem östlichen Rahmen: Franc. Kirzinger. pinxit. 1757.  
+
+Franz Seraph Kirzinger (Kürzinger) war Schüler von Johann Georg Winter in München und wurde bei seiner weiteren Ausbildung in Rom durch Anton Raphael Mengs und seine frühklassizistische Sehweise beeinflußt (s. auch CBD, Bd I, S. 373).  
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Flachdecke über hoher, sehr breiter Hohlkehle; AR Flachdecke über Hohlkehle  
+Rahmen: A geschweifter Stuckprofilrahmen, in den Achsen von vier Rocaille-Kartuschen überlappt; B runder Stuckprofilrahmen, in der Längsachse von zwei Kartuschen übergriffen, in der Querachse von zwei Kartuschen berührt; B<sub>1-2</sub> Rocaille-Kartuschen  
+Technik: Fresko; A und B polychrom, B<sub>1-3</sub> monochrom zart ocker  
+Maße: A Höhe 6,15 m; 7,40 × 4,80 m  
+B Höhe 5,80 m; ∅ 3,65 m  
+b Hone 5,00 m, 2 3,05 m  
+Erhaltungszustand und Restaurierungen: 1857 Restaurierung zur 100-Jahrfeier. Eine umfangreiche Restaurierung durch Kunstmaler Jakob Huwyler, Buch am Ammersee, fand 1912 statt; hierbei wurden die Fresken gereinigt und aufgefrischt sowie schadhafte Teile repariert. 1960 letzte Reinigung der Fresken durch Sebastian Hausinger, München, und Restaurierung des Stuckdekors durch Karl Eixenberger, München (Datum 1960 in der leeren Kartusche im W von Fresko B). Letzte Restaurierung der Fresken und der Raumschale 1988/89 durch Kirchenmaler Alfred Binapfl, Friedberg: Sicherung des Freskoputzes durch Hinterspritzen, stellenweise Befestigung der Malschicht, Abnahme nur der störendsten Kittungen und Übermalungen (großflächige Übermalungen)
+
+
+[[File:Band04_chunk006_p010_img002.jpg|thumb|B Taufe Jesu]]
+<!-- citation-page-bottom: Band04 p269 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=11 -->
+<!-- citation-page-top: Band04 p270 -->
+
+ZANKENHAUSEN
+
+<!-- header: ZANKENHALISEN -->
+
+
+[[File:Band04_chunk006_p011_img001.jpg|thumb]]
+A Predigt Johannes des Täufers in der Wüste
+
+
+[[File:Band04_chunk006_p011_img002.jpg|thumb|Maria im Kreis von Joseph, dem Jesus- und dem Johannesknaben und König David, Ausschnitt aus Fresko B]]
+<!-- citation-page-bottom: Band04 p271 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=12 -->
+<!-- citation-page-top: Band04 p272 -->
+
+<!-- header: ZANKENHAUSEN -->
+
+
+[[File:Band04_chunk006_p012_img001.jpg|thumb|B<sub>1-3</sub> Mariensymbole]]
+
+
+gen wurden belassen), Ersatz durch neue Kittungen und entsprechende Retuschen, Reinigung und Instandsetzung des Stuckdekors. Trotz des sehr verbesserten Gesamtzustandes bleiben alte Überarbeitungen erkennbar.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Das Hochovalbild des LHs und das Rundbild des AR, die jeweils den größten Teil der Deckenfläche beanspruchen, sind eingebunden in zierlichen, farbigen Wessobrunner Stuck, der locker und weiträumig verteilt, die Kartuschen durch Rocaillegehänge und fast vollplastische Blumengirlanden mit einander verbindet.
+
+A PREDIGT JOHANNES DES TÄUFERS IN DER WUSTE (Mt 3, 1-12 u. Par.) Einansichtiges, längsovales Fresko von tafelbildmäßigem Charakter; keine Höhenillusion, geringe Tiefenillusion nur im Mittelgrund des Bildes. Betrachterstandort im westlichen LHs-Drittel.
+
+Die Wüste von Judäa ist, wie sehr oft, als Ausschnitt einer ansteigenden, entrückten Berglandschaft mit Palmen gegeben. Hier bildet sie eine Vordergrundsbühne und steigt am nördlichen Bildrand entlang aufwärts. Es ergibt sich ein kleines Plateau, wo Johannes, leicht aus der Mittelachse gerückt, mit der ausgestreckten Linken seinen unterschiedlichen Zuhörern Buße predigt. Diese sind teils um ihn gelagert, teils steigen sie noch aus der Tiefe zu ihm herauf, darunter auch ein jüdischer Priester mit Priesterhut. Johannes trägt einen Lendenschurz und Mantelüberwurf; seine rechte Hand ist neben der Muschel aufgestützt, die für die Bußtaufe gebraucht wird. Sein durchmodellierter Körper erinnert entfernt an Michelangelos Marmorfigur des auferstandenen Christus. Seitlich vor Johannes liegt sein Kreuzstab mit dem Spruchband ECCE/ANGNVS (S)/ DEI.
+
+Am Fuß des Bildes erscheinen an einem Böschungseinschnitt – als Repoussoirfiguren – zwei spielende Knaben mit einem Lamm. Spruchband und Lamm sind Hinweise auf das Lamm Gottes und die Passionsprophetie des Johannes (Io 1, 29 und 36). Das verbleibende Bildfeld jenseits der Landschaftsdiagonale ist dem Himmelsraum vorbehalten, wo ein großes Wolkenpolster mit zwei die terrestrische Szene betrachtenden Engeln das kompositorische Gegengewicht zur Johannesgruppe abgibt. Ein weiterführender diagonaler Wolkenzug öffnet sich im westlichen Bildabschluß zu einem Durchblick in höhere Himmelspartien.
+
+Die Durchbildung der Figuren ist zum Teil etwas flau. Der ausgewogenen, etwas spannungslosen Komposition entspricht eine warme, gedämpfte Buntfarbigkeit. Im Landschaftsbereich herrschen braune und rostrote Töne vor, im Himmelsbereich zartes Blau sowie Ocker und Weiß für die Wolken. Mittelblau, Malachitgrün und Beige erscheinen bei den Gewändern, das Inkarnat ist ein weißtoniges Rosa. Fast aquarellhaft differenziert ist die Wiedergabe des verschiedenen Blattwerks.
+
+B HEILIGE SIPPE UND KÖNIG DAVID (Mt 1, 1–16 u. Par.). Einansichtiges Rundbild von tafelbildartigem Charakter, keine Höhen- und Tiefenillusion. – Der bildparallele, reliefartige, dem Tondo widerstrebende Aufbau der Figurengruppe wird unterstrichen durch eine stufenartige Basis, die ein Kreissegment am östlichen Bildrand abschneidet. Dargestellt ist die Heilige Sippe zusammen mit König David als Vorfahre Jesu (Wurzel Jesse; Is 11,1). Das Zentrum der Gruppe bildet die thronende Muttergottes mit dem Jesuskind und dem ihm zu Füßen knienden Johannesknaben; davor am Boden der Kreuzstab des Johannes mit der Umschrift ECCE/ANGNVS/ DEI. Hinter Maria steht Joseph, der Nährvater Jesu, auf seinen Stab gestützt; zu seiner Rechten kniet anbetend die betagte Elisabeth, Base Mariens und Mutter Johannes des Täufers. Ihr Mann, der Hohepriester Zacharias, mit Brustschild und Rauchfaß, ist schräg hinter ihr angeordnet. Neben ihm erscheinen Joachim und Anna, die Eltern Mariens. Joachim, als Greis mit weißem Bart gegeben, bindet formal durch seine Gebärde der Danksagung diese Vierergruppe zusammen.
+
+Der neutestamentlichen Sippe Jesu ist in der anderen Bildhälfte der alttestamentarische Ahne König David, die Harfe spielend, gegenübergestellt. Ihn begleiten singende Putten und ein flöteblasender Engel. Die Verheißungen an David über einen Nachfolger, dessen Thron immerwährenden Bestand haben soll (1 Par 17,7–15), werden erfüllt durch die Worte des Verkündigungsengels an Maria (Lc 1, 30–34). Eine vorhangähnliche Wolkenwand hinterfängt die Hauptpersonen der figürlichen Szene. Im Zentrum darüber schwebt ein mächtiger Verkündigungsengel, der sich wahrscheinlich auch auf Joachim und Anna bezieht. Er wird flankiert von einem anbetenden Engel und ebensolchen Putten, die sich dem Rund des Tondos anpassen.
+
+Eine warme, gedämpfte Buntfarbigkeit mit vorherrschenden Tönen der Gelb-Rot-Skala bestimmt den Gesamteindruck, doch unterstreicht die Farbgebung auch die symmetrische mit geometrischen Formen arbeitende Komposition. Die Hauptfiguren, formal in ein inneres Dreieck (Maria, Jesus, Johannes) und in ein äußeres Dreieck (Joseph, Elisabeth, David) eingepaßt, sind im wesentlichen in die Elementarfarben Gelb, Rot und Blau gekleidet: Maria rotes Gewand und blauer Mantel, David blaues Gewand und roter Mantel, Joseph und Elisabeth gelbe Mäntel. Die Hintergrundsfiguren und der himmlische Bereich zeigen zartere, gebrochene Pastelltöne.
+
+Vergleicht man die Fresken A und B mit Kirzingers gleichzeitigen Kuppelfresken der Annakapelle in Romenthal (LKr. Landsberg, s. CBD, Bd 1, S. 205–07), so zeigt sich eine nahe Verwandtschaft in der Bildung der Figuren und in der Farbgebung, doch entwickelt die ringsumlaufende Szenerie in Romenthal noch eine stärkere Raum- und Höhenillusion. Die andersgearteten Bildfelder von Zankenhausen begünstigten die für eine Landkirche von 1757 recht auffallende frühklassizistische Bildauffassung, welche Kirzinger aus Rom mitgebracht hatte und in der Martinskirche von Thaining 1764 mit leicht veränderten Farben weiterführte (LKr. Landsberg, s. CBD, Bd 1, S. 234–39). Auch in Einzelfiguren zeigt sich der römisch-frühklassizistische Einfluß: Die Frauengruppe nördlich von Johannes in A sowie die Hl. Familie in B sind durch die Augen von Mengs gesehene Typen des römischen Barock.
+
+
+== Literatur ==
+
+
+Catalogus personarum et officiorum Provinciae Germaniae superioris Societatis Jesu... 29 Bde (1742-1773) München, Bd 1756/57, S. 37, und Bd 1762/63, S. 37.
+
+Braun-Augsburg, Bd 1, S. 371.
+
+KDB I OB (1), S. 480.
+
+Thieme-Becker, Bd 22, S. 72, s. v. Kürzinger, Franz.
+
+Heimatbuch Fürstenfeldbruck (o.V.), Fürstenfeldbruck 1952, S. 317.
+
+Landkreis Fürstenfeldbruck (o.V.), Heimatbuch, Pörsdorf 1963, S. 222 f.
+
+Dehio-Gall OB, S. 134.
+
+Historischer Atlas I, Bd 22/23, S. 113 f., 191.
+
+Kunst- und Kulturdenkmäler, S. 381.
+
+Kraft, Klaus und Florian Hufnagel, Landkreis Fürstenfeldbruck (= Baudenkmäler in Bayern, Bd 12), München 1978, S. 96 f.
+
+Vollmer, Eva Christina, Der Wessobrunner Stukkator Franz Xaver Schmuzer, Sigmaringen 1979, S. 59–62, 115.
+
+Dehio 1990, S. 1301 f.
+<!-- citation-page-bottom: Band04 p273 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=13 -->
+<!-- citation-page-top: Band04 p274 -->
+
+{{End}}

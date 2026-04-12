@@ -1,0 +1,210 @@
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=140
+|Originalseitenbis=148
+|Lemma=Grafrath, Wallfahrts- und Klosterkirche St. Rasso
+|Typ=Sakral
+|Ort=Grafrath
+|davor=Geiselbullach, Kapelle St. Johannes
+|danach=Grunertshofen, Pfarrkirche St. Laurentius
+|AutorIn1=Volk-Knüttel, Brigitte
+|AutorIn2=Werner-Clementschitsch, Heide
+}}
+
+<!-- citation-page-top: Band04 p140 -->
+
+<!-- header: GRAFRATI -->
+
+
+== GRAFRATH ==
+
+
+Wallfahrts- und Klosterkirche, seit 1979 Sitz des Pfarrverbands Grafrath (bestehend aus den Pfarreien Unteralting und Kottgeisering sowie der Wallfahrtskuratie Grafrath), Diözese Augsburg. Grafrath war 1132 bis 1803 dem Augustiner- Chorherrenstift Dießen inkorporiert; seit 1719 versahen drei exponierte Augustiner-Chorherren aus Dießen die Seelsorge; seit 1836 mit Franziskanern besetzt. Ab 1696 besaß Kloster Dießen die Niedergerichtsbarkeit in Grafrath. Gericht Weilheim
+
+
+'''Patrozinium:''' St. Rasso
+
+
+'''Zum Bauwerk:''' Um 950 Gründung eines Benediktinerklosters mit Kirche durch Graf Rasso (um 900-954) aus dem Geschlecht der Grafen von Dießen-Andechs. Diese Kirche wurde durch die Ungarn bereits 955 wieder zerstört. Über dem erhaltenen Grab des dort beigesetzten Stifters wurde eine Laurentiuskapelle errichtet, die 1132 dem Augustiner-Chorherrenstift Dießen inkorporiert wurde. Propst Hartwig ließ daraufhin eine neue Kirche bauen. 1468 wurden die Gebeine Rassos erhoben und in einem neuen Hochgrab beigesetzt, von dem die Deckplatte aus Rotmarmor erhalten ist. Inzwischen hatte sich eine Wallfahrt zu seinem Grab entwickelt und sich der ursprüngliche Name Wörth in Grafrath (Rapoto/ Rath = Rasso) gewandelt. Vierter Kirchenbau unter Propst Balthasar Günther, Weihe 1593. Propst Renatus Sonntag (1673-90) ließ schließlich 1688-95 von Michael Thumb den heutigen Neubau aufführen. Ab 1753 ließ Propst Herkulan Karg (1728–55) die Kirche umgestalten. Die Architektur wird neuerdings Johann Michael Fischer, die Stuckierung den Brüdern Franz Xaver d. Ä. und Johann Michael Feichtmayr in Zusammenarbeit mit Johann Georg Üblhör zugeschrieben. Dreijochiger, einschiffiger Raum mit Pilastergliederung, im W tiefe Orgelempore; stark eingezogener einjochiger AR mit halbkreisförmigem Abschluß.
+
+'''Auftraggeber:''' Propst Herkulan Karg von Dießen (1728-55). Die Gelder für die Innenausstattung wurden teils von der Stadt München vorgestreckt, teils aus dem Vermögen aufgebracht, das der Münchner Hofarzt Abraham Praunschober, der zu Lebzeiten schon 900 fl. für die Grafrather Orgel gestiftet hatte, dem Stift in Dießen vermacht hatte (Dall'Abaco S. 76). Die Wappen Praunschobers und der Stadt München befinden sich am Chorbogen.
+
+'''Autor und Entstehungszeit:''' Johann Georg Bergmüller (* 1688 Türkheim/Schwaben † 1762 Augsburg) 1753. Signatur mit Chronogramm im Osten des Langhausfreskos rechts am Sockel neben den Stufen: GeorgIVs BergMIL Ler / CIVIs AVgVstanVs aD / InVenIt pInXITqVe (= 1753).
+
+
+[[File:Band04_chunk003_p021_img001.jpg|thumb|Das Langhausgewölbe nach Westen mit den Fresken A Der hl. Rasso in der Ungarnschlacht, und B Gründung von Grafrath (Photo D. Reichler]]
+
+
+[[File:Band04_chunk003_p021_img002.jpg|thumb]]
+
+
+Das Wandfresko im W ist einer 1755 datierten Entwurfszeichnung Bergmüllers zufolge erst in diesem Jahr entstanden. Nach Diedrich (S. 158) stammen die übermalten Brustbilder der Maria Immaculata und des hl. Joseph über den beiden Presbyteriumstüren ebenfalls von Bergmüller.
+
+
+== Zeichnungen ==
+
+
+Zu B Gründung von Grafrath. Kompositionsskizze, Feder in Braun über Bleistift, grau laviert, 19,1 × 20,7 cm. Staatsgalerie Stuttgart, Graphische Sammlung, Inv.Nr. 575. Lit.: Der barocke Himmel, Ausstellungskatalog Stuttgart 1964, Nr. 113, Abb. 29.
+
+Zu C Der hl. Rasso als Patron. Kompositionsskizze, Rötel grau laviert und quadriert, 21,1 × 35,2 cm, Augsburg, Städtische Kunstsammlungen, Graphische Sammlung, Inv. Nr. G 22032. Lit.: Adolf Feulner, Die Sammlung Hofrat Sigmund
+
+
+[[File:Band04_chunk003_p021_img003.jpg|thumb|J. G. Bergmüller, Kompositionsskizze zu B Gründung von Kloster Grafrath, Stuttgart]]
+<!-- citation-page-bottom: Band04 p141 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=22 -->
+<!-- citation-page-top: Band04 p142 -->
+
+<!-- header: GRAFRATI -->
+
+<!-- header: GRAFRATH -->
+
+Röhrer im Besitze der Stadt Augsburg, Augsburg 1926, S. 46, Kat.Nr. III, 28; Rolf Biedermann, Meisterzeichnungen des deutschen Barock aus dem Besitz der Städtischen Kunstsammlungen Augsburg, Ausstellungskatalog, Augsburg 1987, Nr. 102, mit Abb.; Johann Georg Bergmüller 1688-1762. Zur 300. Wiederkehr seines Geburtsjahres. Katalog der Ausstellung in Türkheim, Weißenhorn 1988, Nr. 21 und Abb. 20 (Rolf Biedermann).
+
+Zu W Hl. Cäcilie. Mit der Ausführung weitgehend übereinstimmender Entwurf, Feder in Graubraun, grau laviert und mit Blei quadriert, 31,7 × 24,6 cm, bez. JGB (ligiert): Fecit. Ano 1755. Bremen, Kunsthalle, Inv.Nr. 63/458. Lit.: Bildkunst im Zeitalter Johann Sebastian Bachs, Ausstellungskatalog, Kunsthalle Bremen, 1971, Nr. 242, Abb. S. 201.
+
+Vielleicht auch für Grafrath: Hl. Rasso. Feder in Braun, grau laviert, 29,9 × 19,4 cm, Augsburg, Städtische Kunstsammlungen, Graphische Sammlung, Inv.Nr. G 4942.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR flache Stichkappentonne
+
+Rahmen: Geschwungene, ornamentierte Stuckprofile, Wulst mit kleinen Rocaillekartuschen besetzt, stellenweise vom Deckenstuck unterbrochen oder übergriffen
+
+Maße: A Höhe 15,50 m; 9,50 × 9,10
+
+A 110116 15,50 III; 9,50 × 9,10 D II'l
+
+373 7 773 77- C Höbe 1450m. 525 Y 600
+
+C Höhe 14,50 m; 5,35 × 6,90 Erhaltungszustand und Restaurierungen: 1852 gründliche Instandsetzung der Kirche, erneute Restaurierung (Lins, S. 39 f.). Bei der letzten Außen- und Innenrestaurierung der Kirche 1952/55 durch Karl Eixenberger, München, wurden die Fresken gereinigt, die Übermalungen früherer Restaurierungen beseitigt und die ursprüngliche Farbigkeit wieder hergestellt. Der Erhaltungszustand ist gut, bis auf feine Risse im Gewölbescheitel.
+
+Beschreibung und Ikonographie
+
+Zwischen den Stichkappen der Tonne im Hauptraum ist ein Freskofeld (A und B) ausgegrenzt, dessen Verhältnis von 2:1 für Länge zu Breite (19,00 × 9,50) für eine einheitliche szenische Gestaltung sehr ungünstig war. Bergmüller entschloß sich zu einer Aufteilung durch eine zurückhaltende Scheinarchitektur, durch die er vor allem auch die Längenerstreckung reduzierte. Ein aus Kriegstrophäen aufsteigender, in der Feldmitte querverlaufender Gurt trennt zwei gleichgroße Bildfelder mit streng umlaufendem gemalten Rahmen voneinander. Der Gurt trägt in der Mitte das umkränzte runde Wappen des Kirchenpatrons St. Rasso mit einer Vierung von schwarzem Adler in weißem Feld und goldenem Löwen in blauem Feld. Über dem Gurt verläuft diagonal ein schwerer blauer Vorhang, der von Engeln gehalten wird. Er verschleift die Trennung der beiden Deckenbilder und lockert die strenge Regelmäßigkeit ihrer Rahmen auf. Die beiden Szenen sind einansichtig und liegen einander gegenüber, ihr gemeinsamer Betrachterstandpunkt ist unter dem Gurt
+
+Das queroblonge Feld des Chorfreskos C wird in seiner Form von den Stichkappen beeinflusst, die es an den Schmalseiten einschwingen lassen. Im oberen Teil gegen den Chorschluß ist es größer, was der Künstler bei seiner Komposition berücksichtigt und sogar noch besonders betont hat. Der Betrachterstandpunkt liegt etwas westlich vom Chorbogen.
+
+Das hochformatige Wandfresko W auf der vorspringenden Partie in der Mitte der Eingangswand fügt sich harmonisch dem innerhalb der Rokokodekoration altertümlich wirkenden spätbarocken Orgelprospekt ein. Es ist verhältnismäßig klein und nimmt nicht unmittelbar auf die Deckenbilder Bezug.
+
+A DER HL. RASSO IN DER UNGARNSCHLACHT Blickrichtung nach W. - Als Feldhauptmann Herzog Heinrichs zeichnete sich Rasso im Jahr 948 in zwei Schlachten gegen die Ungarn aus. Die Darstellung zeigt ihn an der Spitze einer in breiter Front vorrückenden Reiterei. Er trägt einen silberglänzenden Harnisch, der Helmbusch ist weiß-blau. Als Sieger über den Unglauben sprengt er über einen geköpften Feind hinweg. Rechts werden von Fußsoldaten weitere Gegner getötet. Dem Heer voran schwebt hoch am Himmel ein großer Engel mit der Siegespalme in der Rechten.
+
+Die Illusion der Tiefe wird vor allem durch den jäh verkürzten Baum rechts, die große Bodenwelle links mit Gefallenen und Fahnen sowie durch den von unten gesehenen Engel in der linken oberen Ecke, der den Vorhang hält, erreicht. Aus den braunen und grünen Tönen im Vordergrund mit dem Blau des Soldaten rechts als belebendem Akzent ist die Lichtgestalt Rassos, der einen Schimmel reitet, wirkungsvoll herausgehoben. Ihm wird die größte Helligkeit zuteil innerhalb des insgesamt hell leuchtenden Kolorits.
+
+B GRÜNDUNG VON GRAFRATH Blickrichtung nach O. – Um 950 gründete Rasso das Benediktinerkloster auf der Amperinsel Wörth, dem nachmaligen Grafrath. Im Jahr zuvor hatte er gemeinsam mit der Bayernherzogin Judith eine Pilgerfahrt nach Rom und Jerusalem unternommen, von der sie mit reichem Reliquienschatz, der später nach Andechs gelangte, heimkehrten. Im Jahr 952, zwei Jahre vor seinem Tod, trat Rasso als Laienbruder in das von ihm gegründete Kloster ein (AASS, Junii Tom. III, 19.6., Artikel von Ignaz Keferloher; Ribadeneira-Hornig, Bd 1, S. 332).
+
+In der Darstellung werden diese nicht ganz gleichzeitigen Ereignisse aus der Zeit der Gründung Grafraths vereinigt. Vor der hochaufragenden Kulisse der bereits vollendeten Kirche und dem im Bau befindlichen Kloster steht Rasso erhöht auf Stufen und nimmt von einem Geistlichen das Ordenskleid entgegen. Zu seinen Füßen liegt die Rüstung, auf einem Sockel sieht man Herzogshut, Feldherrnschärpe und -stab, über der Balustrade rechts davon hängt sein hermelingefütterter blauer Mantel. Von rechts naht im Pilgergewand Herzogin Judith. Sie hält einen Totenkopf in der Hand, eine der Reliquien aus der geöffneten Truhe zu ihren Füßen.
+
+Vor der von Gelb-Braun bis zu Grau-Violett spielenden Hintergrundsarchitektur, die machtvoll nach vorne drängt, gruppieren sich die handelnden Personen in einer schmalen Zone. Rechts hinter der Dreiecksgruppe der heimkehrenden
+
+
+[[File:Band04_chunk003_p022_img001.jpg|thumb]]
+
+
+
+[[File:Band04_chunk003_p022_img002.jpg|thumb|J. G. Bergmüller, Kompositionsskizze zu C Der hl. Rasso als Patron, Augsburg]]
+
+
+
+[[File:Band04_chunk003_p022_img003.jpg|thumb|J. G. Bergmüller, Hl. Rasso, vielleicht für Grafrath, Augsburg]]
+<!-- citation-page-bottom: Band04 p143 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=23 -->
+<!-- citation-page-top: Band04 p144 -->
+
+[[File:Band04_chunk003_p023_img001.jpg|thumb|C Hl. Rasso als Patron]]
+[[File:Band04_chunk003_p023_img002.jpg|thumb]]
+
+Pilgerin mit den Reliquien behauptet sich die Gruppe des Herzogs im gelben Wams und des Geistlichen in leuchtend weißem Chorhemd als Zentrum der Darstellung. Eine starke Tiefenräumlichkeit wird vermieden, wie bei der Ungarnschlacht ist die Einansichtigkeit streng durchgeführt.
+
+== C DER HL. RASSO ALS PATRON == 
+Gegenüber den Bildern im Laienraum ist bei dem auch im Umriß bewegteren Chorfresko der Illusionismus gesteigert, die Basis der Darstellung wird an den Freskoseiten hochgeführt. Auf Wolken entrückt, zu den beiden Engeln aufblickend, die mit einer Krone zu ihm herabschweben, erscheint der Kirchenpatron über dem Hochaltar, wo in einem grabmalähnlichen Aufbau seine kostbar gefaßten Gebeine im Glasschrein zur Schau gestellt sind. Zu seinen Füßen haben sich auf einer Treppenanlage Kranke und Krüppel – einer von ihnen wird im Wagen gebracht -, Hirten und Pilger, Linderung erhoffend, versammelt. Rasso trägt einen schimmernden Harnisch und ist durch das weiß-blaue Rautenbanner, Herzogshut, Hermelinmantel und Feldherrnstab sowie das von einem Engel auf der linken Seite gehaltene bayerische Wappen als S. RASSO DUX GRAFRATH BAVARIAE dargestellt, wie ihn die Inschrift auf der Stele im Zentrum des Hochaltars nennt.
+
+Die pathetische Vordergrundsarchitektur mit der vorhang-umwundenen Säule links und der steiler Geländeabbruch rechts öffnen mit ihren divergierenden Schrägen den Himmel mit der überirdischen Erscheinung des Heiligen.
+
+Auch bei diesem Fresko dominieren die hellen Töne, das Weiß-Silber-Blau bei Rasso und dem Engel mit dem Wappen gegenüber den wenigen Schattenpartien, vor allem der rechts unten mit der Pilgergruppe, die als Repoussoir eingesetzt ist.
+
+== W HL. CÄCILIE == 
+Von musizierenden Engeln mit Laute, Violoncello und Flöte umgeben, spielt die hl. Cäcilie die Orgel. Sie blickt zu einem über ihr schwebenden Engel auf, der in sein Notenbuch blickt.
+
+Durch die Wolkenformation unten werden die in starker Untersicht gesehenen Figuren der Musizierenden weit nach oben gerückt. Diesem Höhenzug begegnet der herabschwebende Engel mit dem Buch. Die Schräge seines Körpers ist ein wichtiges Moment innerhalb des strengen Kompositionsgerüsts. Aus dem lichten Grau-Beige ist das Blau-Rosa-Gold-
+
+<!-- citation-page-bottom: Band04 p145 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=24 -->
+<!-- citation-page-top: Band04 p146 -->
+
+<!-- header: CRAFRATH -->
+<!-- header: GRAFRATH -->
+
+[[File:Band04_chunk003_p024_img001.jpg|thumb]]
+
+[[File:Band04_chunk003_p024_img002.jpg|thumb|Der hl. Rasso, Patron von Grafrath, Ausschnitt von Fresko C]]
+<!-- citation-page-bottom: Band04 p147 -->
+
+'''GRAFRATH'''  
+Der hl. Rasso, Patron von Grafrath, Ausschnitt von Fresko C  
+
+<!-- Scanfragmente entfernt: Kopf-/Fußzeilen, Zeichensalat -->  
+<!-- OCR-Fehler korrigiert: "E" am Ende des Textes aus Transkribus entfernt -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=25 -->
+<!-- citation-page-top: Band04 p148 -->
+
+<!-- header: GRAFRATE -->
+
+gelb der hl. Cäcilie hervorgehoben, wirkungsvoll in Kontrast gesetzt zu dem schwereren Rot-Violett und Rot-Grün der großen Engel links und rechts.
+
+
+== Ouellen und Literatur ==
+
+
+BSB München, Cgm 1770, Johann Dall'Abaco, Vollständige Chronik des uralten U.L. Frauen Stifts und Klosters der regulierten Chorherrn unter der Regel des hl. Augustinus zu Diessen, S. 76, 78.
+
+Wallfahrtsbüchlein oder Lebensgeschichte und Andachtsübungen zum seligen Rasso in Wörth (o.V.), Grafrath 1843. Senestrey, A., Die Wallfahrt nach Andechs, Altötting und Grafrath, München 1843.
+
+Kunstmann, F., Zur Lebensgeschichte des Grafen Rasso von Andechs in: OAVG 16, 1866, S. 372 ff.
+
+Braun-Augsburg, Bd 2, S. 370 f.
+
+KDB I OB (1), S. 460.
+
+Blattmann, P. Bonaventura, Der hl. Rasso, ein christliches Heldenleben, Steyl 1901.
+
+Roth, Bartholomäus, Grafrath ruft Dich, Grafrath 1939. Hartig, Michael, Wallfahrtskirche Grafrath (= KKF Nr. 519) München 1948.
+
+Historischer Atlas I, Bd 4, S. 29.
+
+Heimatbuch Fürstenfeldbruck (o.V.), Fürstenfeldbruck 1952. S. 196.
+
+Lins, P. Bernhardin, Der hl. Rasso und seine Verehrung Grafrath 1954.
+
+Hartig, Michael, Wallfahrt und Wallfahrtskirche Grafrath, in: Der Zwiebelturm 10, 1955, S. 177 ff.
+
+Diedrich, Hans Heinrich, Die Fresken des Johann Georg Bergmüller, Diss. Mainz 1958, S. 152 f.
+
+Völk, Wolfgang, Kloster- und Wallfahrtskirche Grafrath, in: Landkreis Fürstenfeldbruck, Heimatbuch, Pörsdorf 1963, S. 219.
+
+Dehio-Gall OB, S. 133 f.
+
+Kunst- und Kulturdenkmäler, S. 259-62.
+
+Kraft, Klaus und Florian Hufnagl, Landkreis Fürstenfeldbruck (= Baudenkmäler in Bayern, Bd 12), München 1978, S. 54 f. und Abb. 55.
+
+Grän, P. Sigfried, Wallfahrts- und Klosterkirche Grafrath/Amper (= KKF Nr. 519), <sup>2</sup>München 1981.
+
+Dehio 1990, S. 368-70.
+
+Müller, Mechthild, In hoc vince. Schlachtendarstellungen an süddeutschen Kirchendecken im 18. Jahrhundert. (= Europäische Hochschulschriften, Reihe 28 Kunstgeschichte, Bd 115), Frankfurt - Bern - New York - Paris 1991, S. 132 f.
+
+Kat. Johann Michael Fischer (1692-1766), hg. von Gabriele Dischinger und Franz Peter, Bd 2, Tübingen 1995 Werkverzeichnis Nr. 71 (Christel Karnehm, Gabriele Dischinger). B.V.-K./H.W
+
+
+== GRUNERTSHOFEN ==
+
+
+{{End}}

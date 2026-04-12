@@ -1,0 +1,94 @@
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=26
+|Originalseitenbis=28
+|Lemma=Biburg, Filialkirche Mariä Geburt
+|Typ=Sakral
+|Ort=Biburg
+|davor=Aufkirchen, Pfarrkirche St. Georg
+|danach=Dünzelbach, Pfarrkirche St. Nikolaus
+|AutorIn1=Böhm, Cordula
+}}
+
+<!-- citation-page-top: Band04 p26 -->
+
+<!-- header: BIBUR -->
+
+
+== BIBURG ==
+
+
+Filialkirche, Gemeinde Alling, Pfarrei Pfaffing-Biburg, Erzdiözese München und Freising; z. Z. der Ausmalung hatte die Zisterzienserabtei Fürstenfeld das Recht, die Pfarrei Pfaffing mit einem Konventualen zu besetzen. Gericht Starnberg
+
+'''Patrozinium:''' Mariä Geburt
+
+'''Zum Bauwerk:''' Der Chor der Kirche stammt wohl aus der Spätgotik, vom Vorgängerbau zeugt der romanische Turm. Die Barockisierung fand nicht vor 1740 statt (Schmidt: »Inter rurales communis«). Das LHs wurde wahrscheinlich nicht barockisiert, denn es hatte bis zum Neubau noch eine Holzdecke und war im Vergleich zum Chor sehr niedrig (AEM Bauten II). 1883 wurde es länger, weiter und höher in neuromanischen Formen neu erbaut. Gleichzeitig wurden die Fenster im AR entsprechend verändert. Neuromanische Einrichtung von Fa. Sebastian Steiner, Fürstenfeldbruck.
+
+Saalbau mit eingezogenem, dreiseitig geschlossenen AR (6,40 × 6,00 m) ohne Gliederung; Belichtung durch fünf Fenster. Die Ausmalung betrifft den AR.
+
+'''Auftraggeber:''' Äbte von Fürstenfeld in der fraglichen Zeit waren Konstantin Haut (1734-44) und Alexander Pelhammer (1745-61). Pfarrer von Pfaffing waren P. Nonnosus Schindler (1735–48) und P. Romanus Weixer (1748–62).
+
+
+[[File:Band04_chunk001_p014_img001.jpg|thumb]]
+
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, um 1750
+
+Die gemalten Rocaillekartuschen zeigen die Stilformen etwa der Jahrhundertmitte. Lokalhistorisch kommt als Autor Franz Schmid oder sein Sohn Johann Schmid, Maler in Alling, in Frage. Von Franz Schmid stammt die Ausmalung der Pfarrkirche in Lochhausen um 1740 (CBD, Bd 3/I S. 86-88), von Johann Schmid der Kreuzweg in Maisach (1769). Der überarbeitete Erhaltungszustand läßt jedoch keine stilkritische Stellungnahme zu
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: AR verschliffenes Rippengewölbe Rahmen: Gemalte Rahmung
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 5,80 m; 3,50 × 2,00 m
+
+Erhaltungszustand und Restaurierungen: Auf einer Photographie von 1905 ist noch die neuromanische Ausmalung des AR mit einem Sternenhimmel auf gemalter Felderteilung zu sehen. Anläßlich einer geplanten Neuausmalung des AR 1916 wurde die barocke Ausmalung aufgefunden, von Michael Gottschalk freigelegt und in eine neoklassizistische Dekoration eingebunden, die auch die LHs-Decke umfaßte. 1956 Restaurierung durch Fa. Hausch sen. und Sebastian Hausinger: Beseitigung der neoklassizistischen Deckendekoration und nüchterne Deckengliederung im LHs, in der Mitte Darstellung.
+
+
+[[File:Band04_chunk001_p014_img002.jpg|thumb|A Mariä Himmelfahrt]]
+
+
+
+[[File:Band04_chunk001_p014_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band04 p27 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=15 -->
+<!-- citation-page-top: Band04 p28 -->
+
+<!-- header: BIBLIR -->
+
+stellung des Hl. Geistes. 1992 Vorbereitung einer Innenrestaurierung, die den Zustand von 1916 wiederherstellen soll. Im nordwestlichen AR-Joch ist eine Freilegungsprobe zu sehen, die eine Schar von Köpfen zeigt, verschiedener Stände angehörig – die Darstellung läßt auf vergleichbare schließen, vielleicht Anrufungen aus der Lauretanischen Litanei oder ein ähnliches Stifterbild wie in Lochhausen. Die Deckenbilder sind in ihrer barocken Substanz sehr beeinträchtigt.
+
+
+== Bildabfolge ==
+
+
+A MARIÄ HIMMELFAHRT Das große AR-Fresko zeigt auf einer kleinen terrestrischen Rampe mit Rosen- und Lilienbusch den Sarkophag Mariens im Zentrum, Grabtuch und Rosen liegen auf dem Rand. Auf einer Wolke wird Maria von Engeln nach oben getragen; diese Gruppe bildet die Mitte des Bildes. Oben erscheint in einem Wolkenkranz, der von Putten besetzt ist, das Namenszeichen MARIA. Die Putten tragen ein umlaufendes schmales Schriftband, auf dem, von den Putten häufig unterbrochen, zu lesen ist REGINA ANGELORUM. Seitlich darunter auf Wolken sind verehrende Engel zu sehen.
+
+Das Hauptbild wird durch acht Rocaille-Kartuschen an der Gewölbezwickeln begleitet, davon sind sechs klein und ohne Darstellung.
+
+A<sub>1-2</sub> In den mittleren Kartuschen im AR sind lauretanische Symbole dargestellt.
+
+A<sub>1</sub> (N) Erwählt wie die Sonne Strahlende Sonne vor hellem Himmel, darüber lichte Wolken.
+
+A<sub>2</sub> (S) Schön wie der Mond Mondsichel im hellem Wolkenkranz, hinterfangen von dunklen Wolken, über ihnen eine stadtähnliche Darstellung.
+
+
+== Quellen und Literatur ==
+
+
+AEM, Pfarrakten Fürstenfeldbruck, 56: Erweiterung und Restaurierung der Filialkirche sowie Benediktion 1881–83.
+
+Schmidtsche Matrikel, Bd 2, S. 301. Mayer-Westermayer, Bd 1, S. 259. Heimatbuch Fürstenfeldbruck 1963, S. 127. Kunst- und Kulturdenkmäler 1977, S. 211. Der Landkreis Fürstenfeldbruck 1992, S. 562 f. C. B.
+
+
+== DÜNZELBACH ==
+
+
+{{End}}

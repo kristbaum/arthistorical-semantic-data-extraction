@@ -1,0 +1,16 @@
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=290
+|Originalseitenbis=290
+|Lemma=Embleme-Register (Band 4)
+|davor=Ikonographisches Register (Band 4)
+|danach=Bildmotive (Band 4)
+}}
+
+Embleme 46, 49, 67–82, 154–56, 230 f., 235
+
+Emblemähnliche Darstellungen 88–92, 110 f. Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Zitate aus der Bibel und den Viten. Anstelle der Icones finden sich historische (hagiographische und biblische) oder symbolische Szenen und Figuren sowie Illustrationen zu den Zitaten.
+
+{{End}}

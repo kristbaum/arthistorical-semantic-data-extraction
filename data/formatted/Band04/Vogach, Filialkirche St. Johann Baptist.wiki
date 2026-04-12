@@ -1,0 +1,62 @@
+{{Artikel
+|Band=4
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=264
+|Originalseitenbis=265
+|Lemma=Vogach, Filialkirche St. Johann Baptist
+|Typ=Sakral
+|Ort=Vogach
+|davor=Unterschweinbach, Filialkirche Mariä Himmelfahrt
+|danach=Windach, Filialkirche St. Johannes der Täufer
+|AutorIn1=Böhm, Cordula
+}}
+
+
+Filialkirche, Gemeinde Mittelstetten, Pfarrei Baindlkirch, Diözese Augsburg; auf die Pfarrei Baindlkirch präsentierte z. Z. der Ausmalung das Domkapitel Augsburg. Die Hofmark Vogach war 1596-1781 im Besitz des Jesuitenkollegs Landsberg und 1781-1808 der Malteserkommende Kaltenberg. Das ehem. Hofmarkschloß grenzte östlich an die Kirche, an der Stelle des heutigen Bauernhofs.
+
+'''Patrozinium:''' Ursprünglich St. Michael, seit dem 19. Jh. (Steichele-Schröder 1864) St. Johann Baptist
+
+'''Zum Bauwerk:''' Spätgotischer Bau; Ende des 17. Jh. wurde der AR barockisiert und stuckiert; Hochaltar aus dieser Zeit. Das Datum 1766 ist für die Barockisierung des LHs überliefert: Gestühl, seitliche Figuren St. Florian und Sebastian und Kreuzweg stammen aus der frühen klassizistischen Stilphase.
+
+Saalbau (9,50 × 8,60 m) zu drei Jochen mit Empore im W und zwei Fensterachsen; kleiner AR (3,20 × 2,50 m, Höhe 4,70), einjochig, dreiseitig geschlossen, mit Stichkappengewölbe und einem Fenster nach S. Turm an der N-Seite des ARs. Das Deckenbild befindet sich im LHs.
+
+'''Auftraggeber:''' Das Jesuitenkolleg Landsberg
+
+'''Autor und Entstehungszeit:''' Der Autor ist unbekannt; als Datum ist 1766 überliefert (Kunst- und Kulturdenkmäler). Das Fresko ist von guter Qualität. Es ist stilistisch in die Nachfolge Johann Georg Bergmüllers und in den Umkreis der Augsburger Freskanten wie Johann Baptist Enderle oder Franz Joseph Degle einzuordnen. Aber auch jesuitisch geschulte Maler wie der Umkreis der Brüder Scheffler oder die Söhne Schillings stehen zur Diskussion. Der Vergleich ist insofern schwierig, als das kleine, niedrige Fresko vom Ausmaß eines Tagwerks naturgemäß eine sehr differenzierte Ausgestaltung im Detail zeigt, die umfangreicheren Freskowerken fehlt. Diese Eigenart assoziiert eher einen Künstler aus dem Bereich der Kupferstiche.
+
+Der qualitätvolle Rokoko-Kreuzweg könnte im Zusammenhang mit dem Fresko stehen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke; gerundeter Übergang zur Wand, ohne Profilierung der Hohlkehle
+
+Rahmen: gemalter Profilrahmen. Technik: Fresko; polychrom. Maße: Höhe 5,30 m; 3,60 × 4,20 m.
+
+Erhaltungszustand und Restaurierungen: 1947 fand eine unsachgemäße Restaurierung durch Emil Schmid aus Fürstenfeldbruck statt. Das barocke Deckenbild wurde völlig übermalt. Die vom Dorfschreiner schon früher ergänzte, zum Teil neu angefertigte Einrichtung (mit klassizistischen Anklängen) wurde grasgrün angestrichen und mit Goldbronze verziert. Auch der Triumphbogen erhielt einen breiten Bronzestreifen. 1959 wurden die Übermalungen wieder abgenommen. 1970 geringfügige Rißausbesserungen durch Konrad Kästle; Kirchenmaler in Vogach. Das Deckenbild ist sehr gut erhalten.
+
+Beschreibung und Ikonographie
+
+ENTHAUPTUNG JOHANNES DES TÄUFERS. Das kleine Fresko befindet sich mit seinem gemalten Blattkranzrahmen an der sonst schmucklosen Decke. Die mannshohe Sockelzone eines palastartigen Gebäudes mit einem Säulenschaft läßt nur links einen geringen Ausblick auf Tor und Tempel von Jerusalem frei. Auf einem seichten Absatz liegt der nackte Leichnam Johannes des Täufers, die gefesselte Hand hängt über der Treppe. Der Henker, der ihm das Haupt abgeschlagen hat, schaut auf den Leichnam, während er mit einem Tuch das Schwert abwischt. Er ist phantasievoll gekleidet in gestreifte Pumphosen, rote Jacke und gemusterten Schal, sein Turban ist mit einer Feder geschmückt (Reminiszenzen an Tiepolo). Links vom Leichnam steht Salome, eine üppige, prunkvoll gekleidete Rokokoschönheit von großer Eleganz, mit feinen Gesichtszügen und perlengeschmücktem Kopf; sie neigt sich zu ihrer Dienerin, die ihr von unten herauf – ihr Körper ist nur bis zu den Knien sichtbar – die Schale mit dem Haupt des Johannes zeigt. Obgleich nur ein kleines Werk, verrät das Fresko doch ein gutes technisches und farbliches Können und setzt die Kenntnis der Fresken Giovanni Battista Tiepolos voraus.
+
+
+== Literatur ==
+
+
+Steichele-Schröder Bd 2, Baindlkirch S. 413–560, Vogach S. 439 f. KDB I OB (1), S. 479.
+
+Kunst- und Kulturdenkmäler 1977, S. 370.  
+Heimatbuch Fürstenfeldbruck 1992, S. 634 f.
+
+C. B
+
+
+[[File:Band04_chunk006_p008_img001.jpg|thumb|Enthauptung Johannes des Täufers]]
+<!-- citation-page-bottom: Band04 p265 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=9 -->
+<!-- citation-page-top: Band04 p266 -->
+
+{{End}}
