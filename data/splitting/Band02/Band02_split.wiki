@@ -21786,10 +21786,10 @@ Zacharias 32, 316, 390, 518 Ahnen und Sippe Christi 196, 589 Zambri 52 Zebedäus
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=655
-|Originalseitenbis=655
+|Originalseitenbis=658
 |Lemma=Embleme-Register (Band 2)
 |davor=Ikonographisches Register (Band 2)
-|danach=Bildmotive (Band 2)
+|danach=
 }}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=3 -->
@@ -21803,23 +21803,11 @@ Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegensta
 Emblemähnliche Bilder ohne Lemmata  
 352, 562 f., 608–10, 632  
 
-{{End}}
-
-{{Artikel
-|Band=2
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=655
-|Originalseitenbis=655
-|Lemma=Bildmotive (Band 2)
-|davor=Embleme-Register (Band 2)
-|danach=Lateinische Lemmata (Band 2)
-}}
-
 BILDMOTIVE UND LEMMATA  
 Nicht aufgenommen sind die aus der Emblemliteratur herangezogenen Bildmotive und Lemmata.  
 
-BILDMOTIVE  
+== Bildmotive ==
+
 Adler, verliert Federn in der Nähe der Sonne 162, 515  
 blickt zur Sonne 163  
 Anker 134 f.  
@@ -21908,20 +21896,8 @@ Wanderer, von Hund angebellt 608
 Weihraugefäß 272  
 Weinranke, aus den beschnittenen Zweigen fließt Saft 253  
 
-{{End}}
+== Lateinische Lemmata ==
 
-{{Artikel
-|Band=2
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=656
-|Originalseitenbis=656
-|Lemma=Lateinische Lemmata (Band 2)
-|davor=Bildmotive (Band 2)
-|danach=Deutsche Lemmata (Band 2)
-}}
-
-LEMMATA, LATEINISCHE  
 Agnis mei sunt foeini patratus 515  
 Blanda se pace salutant 522  
 Caute munus coeleste recondo 419  
@@ -21982,18 +21958,7 @@ Tuo de lumine splendeo 163
 
 Vas electionis est mihi iste 369 Vivificat 23
 
-{{End}}
-
-{{Artikel
-|Band=2
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=656
-|Originalseitenbis=657
-|Lemma=Deutsche Lemmata (Band 2)
-|davor=Lateinische Lemmata (Band 2)
-|danach=
-}}
+== Deutsche Lemmata ==
 
 Auch In den Klein thuen erlich sheinn 544 Aus Lieb der Sonnenstralen Las ich die Federn falen 162
 

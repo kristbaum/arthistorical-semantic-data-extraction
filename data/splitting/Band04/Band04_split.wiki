@@ -8207,30 +8207,19 @@ Zodiakus 229 im Zeichen der Zwillinge 78, 80, 82
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=290
-|Originalseitenbis=290
+|Originalseitenbis=291
 |Lemma=Embleme-Register (Band 4)
 |davor=Ikonographisches Register (Band 4)
-|danach=Bildmotive (Band 4)
+|danach=
 }}
 
 Embleme 46, 49, 67–82, 154–56, 230 f., 235
 
 Emblemähnliche Darstellungen 88–92, 110 f. Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Zitate aus der Bibel und den Viten. Anstelle der Icones finden sich historische (hagiographische und biblische) oder symbolische Szenen und Figuren sowie Illustrationen zu den Zitaten.
 
-{{End}}
 
-{{Artikel
-|Band=4
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=290
-|Originalseitenbis=291
-|Lemma=Bildmotive (Band 4)
-|davor=Embleme-Register (Band 4)
-|danach=
-}}
+== Bildmotive ==
 
-BILDMOTIVE 
 Adler trägt seine Jungen zur Sonne 74 f. Altar – Opferaltar 91, 110 f. Amor an einem Münzprägestock 68, 71 Anker 46, 49 Arche Noe 70, 72 Arma Christi 91
 
 Bienen folgen der Bienenkönigin 75 Bienenschwarm fliegt vom Baum 75 Blitze treffen ketzerische Schriften 91 Buch, aufgeschlagenes, und Bücherregal 91
@@ -8271,7 +8260,9 @@ Weinstöcke 70, 72 Weiß und Rot 78–82 Winzer beschneidet Weinstöcke 70, 72
 
 Zodiakus im Zeichen der Zwillinge 78–80 Zwillinge 78–80
 
-LEMMATA, LATEINISCHE Alta petit fixo corde - Höhe sucht er mit fest aufgerichtetem Herzen 154 156
+== Lateinische Lemmata ==
+
+Alta petit fixo corde - Höhe sucht er mit fest aufgerichtetem Herzen 154 156
 
 Candidus et rubicundus - Weiß und Rot 79–82 Cedite scuta – weicht den Schilden 46, 49 Commentando – durch das Auslegen der Schrift 90 f. Cursum recitando – durch das Beten des Offici-
 
@@ -8313,7 +8304,9 @@ Ulcera sano – ich heile Geschwüre 67, 69
 
 Via lactea iungit – die Milchstraße verbindet 78-80 Virgo Maria tegit – Jungfrau Maria schützt 46 Vota reddendo – durch Ablegen der Gelübde 85
 
-LEMMATA, DEUTSCHE Ich habe Verlangen, aufglöst z’werden 231 f., 235
+== Deutsche Lemmata ==
+
+Ich habe Verlangen, aufglöst z’werden 231 f., 235
 
 Wer wird mich erledigen? 230 f., 235
 <!-- citation-page-bottom: Band04 p291 -->

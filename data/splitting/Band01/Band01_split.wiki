@@ -21830,10 +21830,10 @@ Patronatsdarstellung 127 f.
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=642
-|Originalseitenbis=642
+|Originalseitenbis=645
 |Lemma=Embleme-Register (Band 1)
 |davor=Ikonographisches Register (Band 1)
-|danach=Bildmotive (Band 1)
+|danach=
 }}
 
 
@@ -21847,18 +21847,7 @@ Embleme mit Epigramm-Inschriften 93 f., 242, 545, 547
 
 BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblemliteratur herangezogenen Bild motive und Lemmata.
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=642
-|Originalseitenbis=643
-|Lemma=Bildmotive (Band 1)
-|davor=Embleme-Register (Band 1)
-|danach=Lateinische Lemmata (Band 1)
-}}
+== Bildmotive ==
 
 Adler 130 f., 186, 270, 315, 353, 354, 583 f. Amboß 107 f. Anker 579 Apfelbaum 206 Apothekerschrank 545 f. Ararat 182, 454 f. Arche Noe 182, 454 f. Äskulapstab 316 Axt 186
 
@@ -21908,18 +21897,8 @@ Waage 315 Waffen 588 f. Wanderer 65, 584 f. Wasser 315, 546 f. → Fluß, → Me
 
 Zirkel 579
 
-{{End}}
+== Lateinische Lemmata ==
 
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=644
-|Originalseitenbis=644
-|Lemma=Lateinische Lemmata (Band 1)
-|davor=Bildmotive (Band 1)
-|danach=Deutsche Lemmata (Band 1)
-}}
 
 
 Abluor non obruor. 315 Accisa virescet altius. 94 Ad fontem aguarum. 242 Ad omnia. 94 Aedificabo ecclesiam. 182 Agnoscit Praesentem. 593 Altior ex fundo est. 233 Ante illum praecedet. 249 Ante retroque. 315 Ardet et aspicit unum. 130 Ardet ut erumpat. 418 Auxit place amorem 116
@@ -21964,19 +21943,7 @@ Ubique similis. 547 Undique firma. 197 Unica via humili funere surgit in altum 5
 
 Valles abundabunt frumento. 206 Vas admirabile. 353 Vestigia solis adorant. 130 Vir singularis. 353 Vis nulla tenebit. 131 Viscera fesse carent. 316 Vitis fructificans. 454 Vox clamantis in deserto. 593
 
-{{End}}
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=645
-|Originalseitenbis=645
-|Lemma=Deutsche Lemmata (Band 1)
-|davor=Lateinische Lemmata (Band 1)
-|danach=
-}}
-
+== Deutsche Lemmata ==
 
 »All Fleiß ist hie vergeben Müh.« 589 »Am A die nächste, nach Gott die höchste.« 577 »Apollo mich schützt, Wenns donnert und blitzt.« 587 »Auf ihren Lauf' ich merke auf.« 577 »Aufs Wasser zwar gesezt, doch gar nicht henezt« 589
 
@@ -22047,3 +22014,4 @@ S. 520, rechte Spalte, 31. Zeile von oben: anstatt Altheim: Altdorf
 
 {{End}}
 
+2

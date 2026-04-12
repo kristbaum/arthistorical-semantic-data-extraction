@@ -10141,27 +10141,18 @@ Zacharias 172, 195, 206 Zodiakus 151, 157 Zug der Jungfrauen zum Lamm auf den Be
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=289
-|Originalseitenbis=289
+|Originalseitenbis=291
 |Lemma=Embleme-Register (Band 3-I)
 |davor=Ikonographisches Register (Band 3-I)
-|danach=Bildmotive (Band 3-I)
+|danach=Bildnachweis (Band 3-I)
 }}
 
 Embleme 20-22, 29-36, 128-30, 136, 207
 
 Emblemähnliche Darstellungen: Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Bibel- und Vitazitate. Anstelle der Icones finden sich historische (hagiographische und biblische) oder symbolische Szenen und Figuren sowie Illustrationen zu den Zitaten. 33, 34, 54-56, 95-96, 105-06, 178-79,
 
-{{End}}
-{{Artikel
-|Band=31
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=289
-|Originalseitenbis=289
-|Lemma=Bildmotive (Band 3-I)
-|davor=Embleme-Register (Band 3-I)
-|danach=Lateinische Lemmata (Band 3-I)
-}}
+
+== Bildmotive ==
 
 BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblem-Literatur herangezogenen Bildmotive und
 
@@ -10201,17 +10192,8 @@ Weinrebe, dreifach an einem Stab 32 Weltkugel, von drei Fingern gehalten 33
 
 Zepter und Schlüssel auf einem Tisch 201
 
-{{End}}
-{{Artikel
-|Band=31
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=289
-|Originalseitenbis=289
-|Lemma=Lateinische Lemmata (Band 3-I)
-|davor=Bildmotive (Band 3-I)
-|danach=Deutsche Lemmata (Band 3-I)
-}}
+
+== Lateinische Lemmata ==
 
 Abyssus abyssum vocat 35 Alta petit fixo corde 128 Altiora te ne quaesiveris 96 Arca salutis 55 Attingit ubique 32
 
@@ -10251,18 +10233,7 @@ Una tres conficiunt 34 Unus in trino videt omnia 29 Ut potiar patiar 129
 
 Vulnerant sanantque 136
 
-{{End}}
-{{Artikel
-|Band=31
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=290
-|Originalseitenbis=290
-|Lemma=Deutsche Lemmata (Band 3-I)
-|davor=Lateinische Lemmata (Band 3-I)
-|danach=Bildnachweis (Band 3-I)
-}}
-
+== Deutsche Lemmata ==
 
 Beystand der gerechten und unschuldig Waissen 106
 
@@ -10299,7 +10270,7 @@ Wie der Sonnen glantz/scheint und hitzet gantz 130
 |Originalseitenvon=292
 |Originalseitenbis=292
 |Lemma=Bildnachweis (Band 3-I)
-|davor=Deutsche Lemmata (Band 3-I)
+|davor=Embleme-Register (Band 3-I)
 |danach=
 }}
 

@@ -3,10 +3,10 @@
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=642
-|Originalseitenbis=642
+|Originalseitenbis=645
 |Lemma=Embleme-Register (Band 1)
 |davor=Ikonographisches Register (Band 1)
-|danach=Bildmotive (Band 1)
+|danach=
 }}
 
 
@@ -19,5 +19,170 @@ Emblemähnliche Bilder ohne Lemmata 65, 76, 162, 186, 516
 Embleme mit Epigramm-Inschriften 93 f., 242, 545, 547
 
 BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblemliteratur herangezogenen Bild motive und Lemmata.
+
+== Bildmotive ==
+
+Adler 130 f., 186, 270, 315, 353, 354, 583 f. Amboß 107 f. Anker 579 Apfelbaum 206 Apothekerschrank 545 f. Ararat 182, 454 f. Arche Noe 182, 454 f. Äskulapstab 316 Axt 186
+
+Balsambaum 107 Bär 65, 186 Basilisk 579 f. Baum, Bäume 94, 164 f., 186, 197, 454, 586, 587 f. Berg 182, 353. → Ararat, → Felsen Bienenkorb, Bienenstock 65, 186, 315, 577, 583 f. Bild, Bildleinwand 94, 577 Blitze 182, 315, 320 f., 583 f., 587 f. Blumen 107, 130, 131, 186, 315 Blut 131 f. Boot → Schiff Brett 270 Brunnen 107, 186 Buch 315 Buchstabe – B – 577 Bundeslade 186
+
+Destillierofen 315 Dornen, Dornenhecke 165, 585 f., 587 Drachen 186
+
+Eiche, Eichenlaub 583 f Elefant 584
+
+Esche 580 Engel 107
+
+Fels 182, 197, 233, 581, 589 Festung 182, 186 Feuer, Flammen 107, 108, 130 f., 242, 244, 315, 353, 418, 582, 583, 587 Fisch 316 Fluß 94, 582 Früchte 545 f. Füllhorn 454, 545 f.
+
+Garten 107, 206, 242, 315, 586 Gärtner 94 Gefäß – vas 353 Geier 186 Getreidekasten 545 f. Gießkanne 131 f. Gold 107 f., 242, 244 Granatapfel 416 Gürtel, Abzeichen der Bruderschaft Maria vom Trost 170 f.
+
+Hecke → Dornenhecke Henne mit Küken 455 Herrschaftsinsignien, weltliche und geist 454. → Krone Herz 130 f., 494 Heuschrecke 586 f. Hippe 94, 131 f. Hirsch 242, 244, 416, 418, 455, 578 f. Holz, Holzstoß 587 Honig, Honigwabe 577 Hortus conclusus -> Garten
+
+Insignien → Herrschaftszeichen, → SPQF Janus 315 Jupiter 315
+
+Kanone 131 f., 182, 186 Kelch 108, 182 Kerze 580 f. Kind 107 Kompaß 593 Koralle, Korallenzweig 580 Kornfeld 545 f. Koronis 316 Krone, Kronen 164 f., 315 Kruzifix 270
+
+Landschaft mit Wasser und Bäumen natura 315 Laterne 580 f. Lerche 578 Lichtstrahlen 248 f., 321. → Sonne Lilie, Lilien 131 f., 165, 416 Lorbeer 182, 197, 587 f. Löwe, Löwen 131, 455 Lucidia → Scheinvogel Luntenstock 131 f.
+
+Meer 182, 197, 270, 320 f., 575, 577, 579, 580, 581
+
+Merkur 315, 316 Mond 94 Monocodiata → Paradiesvogel Morgenstern 249 Mörser 316, 320 f. Münze, Münzen 545 f. Muschel → Perlmuschel Musikinstrumente 107 Mutter 107
+
+Nest 315, 587 Nordstern 593
+
+Obelisk 588. → Pyramide Ofen → Destillierofen Olbaum, Olbaumzweig 270, 454, 580
+
+Palme, Palmwedel 197, 546 f., 583 Pfau 581 Pfeil, Pfeile 93 f., 416, 584 Phönix 108, 162, 545 f., 582 Polypen 581 
+
+Quelle 242, 244, 578 f.
+
+Regen 107 f., 122, 124, 242, 244, 516, 585 Regenbogen 108, 121 f., 124, 454 Ring, Ringe 353 Rose, Rosen 131 f., 416, 546 f. Rosenkranz 108
+
+Salamander 583 Säule 588 Scheinvogel – lucidia 584 f. Schiff 233, 270, 579 Schiffbrüchiger 270 Schilfrohr 586 Schirm 585 Schlange, Schlangen 186, 580, 586 f., 587 Schlüssel 182 Schwan 315, 582 Schweine 586 Segelboot → Schiff Sisyphus 589 Sonne 65, 130, 131, 186, 205, 233, 270, 285, 315, 321, 353, 354, 455, 516, 575, 577, 581 f., 588, 593 f. → Lichtstrahl Sonnenblume 76, 130 f., 354, 577 f. Spiegel 130 f., 579 f. S.P.Q.R. 588 f. Staffelei 94 Statue – ars 315 Staubkorn 589
+
+Stern, Sterne 94, 249, 353, 585. → Nordstern Sternfisch – stella 584 Stößel 320 f.
+
+Tal 206 Taube 454 Tobias 316 Trompete 593 Tulpe, Tulpen 131 f. Tümpel 581 f. Turm 93 f., 131 f., 233, 516, 593
+
+Vogel, Vögel 242, 244, 315. Vogelbauer 242, 244 Vulkan 418
+
+Waage 315 Waffen 588 f. Wanderer 65, 584 f. Wasser 315, 546 f. → Fluß, → Meer, → Quelle, → Regen, → Tümpel Weinberg 585 f. Weinstock 131 f., 206, 416, 454 Wind 315, 580 f., 585, 586, 588, 589 Windlicht → Laterne Wolke 546 f., 577 Würfel 589 f.
+
+Zirkel 579
+
+== Lateinische Lemmata ==
+
+
+
+Abluor non obruor. 315 Accisa virescet altius. 94 Ad fontem aguarum. 242 Ad omnia. 94 Aedificabo ecclesiam. 182 Agnoscit Praesentem. 593 Altior ex fundo est. 233 Ante illum praecedet. 249 Ante retroque. 315 Ardet et aspicit unum. 130 Ardet ut erumpat. 418 Auxit place amorem 116
+
+Caelestes concipit ignes. 130 Causas mille salutis habet. 545 Clausa recludo. 545 Contraria prosunt. 315 Cruore triumpho. 165 Cunctis amoena. 171
+
+De cubilibus leonum. 455 De obscuris clarior ortus. 94 Decus episcoporum. 353 Destruit insidias. 171
+
+Eo föecundior. 131 Eripuit me. 242 Extrahit ad minimum. 315
+
+Fert multis dolor iste salutem. 107 Fiat voluntas tua. 354 Flores mei fructus honoris et honestatis. 206 Foedunda ex alto 151
+
+Fortior aestate. 197
+
+Gemma sacerdotum. 353 Globo resistit. 171
+
+Hoc foedus deterget aquas et temperat ignes 108
+
+Igne probatur. 107 Imber serotinus. 242 Inclinata resurgit. 197 Inde omne decus. 321 Intacta triumphat. 197 Intus pretiosa recondit. 418 Iras deponite manes. 93
+
+Labor omnia vincit. 316 Latet abundantius. 545 Legunt non laedunt. 315
+
+Matrem astra solumque canunt. 107 Matrem facitote salutet. 107 Mereor candore coronam. 416 Miro mixtus odore decor. 107 Monstrat iter. 233
+
+Ivatura ruvatur ab arte. 515 Ne guid nimis. 315 Nec fulmina terrent. 320 Nichil ab aequore sugit. 320 Nihil in me funeste reperies. 354 Non manducans neque bibens. 594 Non marte sed arte. 315 Non nocebunt. 182 Non praevalebunt. 182 Non respecta latens nobilis exortur. 233 Non surrexit major. 593 Nulla hic munera desunt. 454 Nullo meo purpura constitit auro. 416 Nuntia pacis. 454
+
+O quam pulchra est casta generati Oleastro olivae. 270 Omnibus omnia. 320 Omnibus ortus. 455 Onustior humilior. 454
+
+I attituti Col testis amolis. 410 Per ignem probatur. 242 Per me omnia spirant. 315 Percussa triumphant. 131 Perto lucror. 164 Pluribus ut prosit. 94 Praecedet. 594 Pretiosa latent. 315 Provida sic providet. 315 Purgantes opprimo flammas. 107
+
+Quantas erit cognoscitur. 594
+
+Recipit et tuetur. 455 Redivivus ab urna. 316 Renovatur. 270 Replebitur ex utero. 248
+
+Se exhaurit egenti. 122 Secunda tabula. 270 Semen christiadum. 131 Semper in motu. 315
+
+Serenitatem affert. 121 Si sum necessarius. 354 Sic accepta refer.s 94 Sic se perfectior ipsa. 94 Sicut vitis abundans. 206, 416 Sinite me caelum aspicere. 354 Sola mihi redolet. 547 Splendet in ortu. 320 Sponte crematur. 108 Sub sole rubescit. 321 Supra hanc petram. 182
+
+Totus tibi concinit Aether. 94 Tuendo inardescit. 131 Tuetur omnes. 233
+
+Ubique similis. 547 Undique firma. 197 Unica via humili funere surgit in altum 545
+
+Valles abundabunt frumento. 206 Vas admirabile. 353 Vestigia solis adorant. 130 Vir singularis. 353 Vis nulla tenebit. 131 Viscera fesse carent. 316 Vitis fructificans. 454 Vox clamantis in deserto. 593
+
+== Deutsche Lemmata ==
+
+»All Fleiß ist hie vergeben Müh.« 589 »Am A die nächste, nach Gott die höchste.« 577 »Apollo mich schützt, Wenns donnert und blitzt.« 587 »Auf ihren Lauf' ich merke auf.« 577 »Aufs Wasser zwar gesezt, doch gar nicht henezt« 589
+
+»Bestimmt zu messen der Linien Größen« 579
+
+»Der Heuschreck obsiegt, die Schlange unterliegt.« 586 »Der Schatten allein schon tödtlich kan seyn.« 580 »Der Schlange Witz mich treibt vom Sitz.« 587 »Des Ankers Kraft mir Ruhe verschafft.« 579 »Dornen Hecken mich bedecken.« 585 »Durch eigne Gestalt das Leben entfallt.« 579
+
+»Es steigt Ihr Ehr Um soviel mehr.« 587
+
+»Früh schwing, ich mich zu loben dich.« 578
+
+»Ganz und gar hell und klar.« 577 »G'en Sturm sich setzen, heißt sich selbst verletzen« 586 »Glanzt von fern wie ein Stern.« 584
+
+»Ich leuchte bedeckt, kein Wind mich erschreckt.« 580 »Ihr nichts vermögt, ich bleibe unbewegt.« 588
+<!-- citation-page-bottom: Band01 p643 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=23 -->
+<!-- citation-page-top: Band01 p644 -->
+
+Im Koth zwar schein, verbleib doch rein. 581 In ganzer Revier kein Schatten ist hier
+
+Kein Feuer kein Glut mir Schade thut. 58
+
+Leuchte allen nach Gefallen. 58
+
+Nur dem der siegt, nicht unterliegt. 58 Nur einer sonst keiner. 582
+
+Roth und fest auf das best. 580
+
+Sehr durstet mich, Drum eile ich. 57 Sicher zu seyn hang ich mich ein. 581 Süß allein kann ich seyn. 583
+
+Umsonst ist hie all eure Müh. 580
+
+Vom Meere entsprieß, und dennoch bin süß 577 Von anhegin schneeweiß ich hin 578
+
+Wenn d' Füße betracht verschwindt meine Pracht. 581
+
+Wenns noch so fein kanns schädlich seyn 589
+
+Wer siegen will muß streiten viel. 588 Willst sicher sein brauch mich allein. 585 Wird von den seinigen verfolgt. 94 Wirf her wirf hin, doch allzeit aufrecht bin
+
+Wirft hin die Pfeile ohne Schade und Eil
+
+Zu bringen den Tag alleinig vermag. 588
+
+ERRATA
+
+S. 38, linke Spalte, 15. Zeile von oben: anstatt Georglys: Georgly
+
+S. 54, linke Spalte, 18. Zeile von oben: anstatt 1760-79: 1761-79
+
+S. 121, Planskizze: anstatt EB1: EB1 Gleichnis vom Verlorenen Sohn
+
+S. 125, rechte Spalte, 11. Zeile von oben: entfällt
+
+S. 162, rechte Spalte, 17. Zeile von oben: anstatt C<sub>a-b</sub> Embleme: C<sub>a-b</sub> Symbole
+
+S. 248, rechte Spalte, 13.–14. Zeile von oben: anstatt Oberegling: Obereglfing
+
+S. 329 und S. 331 Nachträge: Reproduktionsvorlagen für die beiden Entwurfszeichnungen zu Fresken B, A3 und A4 und die Entwurfsskizze zu Fresko A stammen von den Städtischen Kunstsammlungen Augsburg (S. 329) und von der Kunsthalle Bremen (S. 331).
+
+S. 451, Planskizze, C1 und C2 sind zu tauschen
+
+S. 520, rechte Spalte, 31. Zeile von oben: anstatt Altheim: Altdorf
+
+80 Ba
+<!-- citation-page-bottom: Band01 p645 -->
 
 {{End}}

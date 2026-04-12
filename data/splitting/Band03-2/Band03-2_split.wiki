@@ -22610,7 +22610,9 @@ Embleme 223, 225, 231 f., 243, 258, 264-68, 280-90, 293-96, 298, 323 f., 358 f.,
 
 Emblemähnliche Darstellungen Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegenstand benennen, oder Zitate aus antiken Schriftstellern. Anstelle der Icones finden sich historische oder mythologische Darstellungen. 244, 246, 247, 268 f., 283, 284, 288, 322, 357 f., 437, 440, 486 f
 
-LEMMATA A poco a poco 225 Ad summos crescit honores 395, 456 Accensa vigorem 264 Accipit, et reddit 296 Achillis cura ferit, et curat 223 Acuimus acuimur 266 Ad summos crescit honores 396, 456 Addenda regno 286 Aemula siderum 287 Aeternis parta triumphis 294 Al tuo voler s'inclina 268 Aliis fundit odores 295 Aliis meliora refundit 296 Alliciens trahit 295 Alterius alterum 294 Altiora te ne quaesieris et fortiora te ne scrutatus fueris 282 Altro guerrier mi tinse 268 Amat has victoria curas 295 Anceps alea martis 284 Argentum nectitur auro 296 Armatos increpat hostes 264 Arrigit, ut dirigat 231 Arte non marte 358 Audiuntur statim subditi, dimittuntur statim 232 Auget decorum, non urit 266 Auget praesentia vires 358 Aut omnibus aut nulli 288
+== Lateinische Lemmata ==
+
+ A poco a poco 225 Ad summos crescit honores 395, 456 Accensa vigorem 264 Accipit, et reddit 296 Achillis cura ferit, et curat 223 Acuimus acuimur 266 Ad summos crescit honores 396, 456 Addenda regno 286 Aemula siderum 287 Aeternis parta triumphis 294 Al tuo voler s'inclina 268 Aliis fundit odores 295 Aliis meliora refundit 296 Alliciens trahit 295 Alterius alterum 294 Altiora te ne quaesieris et fortiora te ne scrutatus fueris 282 Altro guerrier mi tinse 268 Amat has victoria curas 295 Anceps alea martis 284 Argentum nectitur auro 296 Armatos increpat hostes 264 Arrigit, ut dirigat 231 Arte non marte 358 Audiuntur statim subditi, dimittuntur statim 232 Auget decorum, non urit 266 Auget praesentia vires 358 Aut omnibus aut nulli 288
 
 Blande trahens nectit 295 Blando assuescit regimini 486 Chì punge, auvien che sani 267 Clarior ictu 265 Colli meliores ad auras 359 Conantia frangere frangit 294 Conciliat animos 295 Cum foenore reddit 296 Cura aures tuas quaerelis omnium 233
 
@@ -22660,7 +22662,11 @@ Ut aliquid sibi animantia significent 231 Utilia libant 283 Utrinque securitas 2
 
 Ventos custodit & arcet 295 Vertitur non occidit 324 Vi et consilio 283 Vi suavi 295 Vici mea fata superstes 282, 323 Victori debita 288 Victoria Castore digna 358 Videt, inde videtur 232 Vires acquirit eundo 286 Virtus nulla solutis 294 Virtutis praemia 295 Vis consilii expers mole ruit sua 28 Vis multa, sed plura consilium 283 Vis nescia vinci 293 Vox sufficit una 286
 
-Vanis terroribus obstat 358 BILDMOTIVE Achills Lanze, die Telephus verletzt und heilt 223, 284 Acker 206 Adler bekämpft Drachen 294 fliegt mit Jungen zur Sonne 258, 294, 296 fliegt zur Sonne 296 fliegt durch Wolken zur Sonne 295 unter kleineren Vögeln 286 über Hasen 286 Adlerfeder unter anderen Federn 287 Aiax 268 Alexander der Große 288, 289 Amalthea 286
+Vanis terroribus obstat 358 
+
+== Bildmotive ==
+
+Achills Lanze, die Telephus verletzt und heilt 223, 284 Acker 206 Adler bekämpft Drachen 294 fliegt mit Jungen zur Sonne 258, 294, 296 fliegt zur Sonne 296 fliegt durch Wolken zur Sonne 295 unter kleineren Vögeln 286 über Hasen 286 Adlerfeder unter anderen Federn 287 Aiax 268 Alexander der Große 288, 289 Amalthea 286
 
 Amazone mit gespanntem Bogen 223 mit Haupt der Medusa 223 mit Lanze 223 Amazonen treffen das Ziel 289 Amboß, darauf glühendes Eisen 265 Ameisen 231 Andromeda und Perseus 284 Angelhaken, daran Herz 247 Anker, zwei, mit Ketten 283 Apollostatue der Lakedämonier 231 Archimedes vernichtet feindliche Flotte 295 Architectura 284 Armband aus Haar 225 Armillarsphäre 323
 
