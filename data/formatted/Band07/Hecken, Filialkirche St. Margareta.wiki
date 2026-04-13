@@ -1,0 +1,116 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=130
+|Originalseitenbis=133
+|Lemma=Hecken, Filialkirche St. Margareta
+|Typ=Sakral
+|Ort=Hecken
+|davor=Grünbach, Filialkirche St. Andreas
+|danach=Heilig Blut bei Erding, Wallfahrtskirche
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band07 p130 -->
+
+<!-- header: HECKE -->
+
+
+== HECKEN ==
+
+
+Filialkirche, Pfarrei und Gemeinde Bockhorn, Erzdiözese München und Freising. Gericht Erding
+
+
+'''Patrozinium:''' St. Margareta
+
+
+'''Zum Bauwerk:''' Antrag auf Ratifizierung der Pläne zum Neubau der baufälligen Kirche am 25. 10. 1754. Ausführung 1755 durch Johann Baptist Lethner, Maurermeister in Erding; Benedizierung im September 1755. Drei Altäre und Kanzel 1758 durch den Bildhauer und Stuckator Johann Paul Wagner aus Vilsbiburg; von Wagner stammt auch der Stuck.
+
+LHs zu drei Jochen mit gerundeten Ecken, Empore im W, Gliederung durch Pilaster vor Wandvorlagen; gleichmäßige Belichtung in allen Jochen von N und S durch hohe Rundbogenfenster. Eingezogener AR zu einem Joch mit halbrundem Schluß, Gliederung wie LHs, im S Sakristei mit darüberliegendem Oratorium; Belichtung durch ein Fenster von N und zwei seitliche in der Rundung.
+
+'''Auftraggeber:''' Hecken wurde unter Pfarrer Maximilian Graf von Trauner (1730-75) erbaut und ausgestattet. Trauner war Domkapitular in Freising, wo er auch residierte. Pfarrvikar war Johann Baptist Humplmayr (1744–56). Hecken gehörte mit Salmannskirchen und Grünbach zur ersten Kooperatur der Pfarrei Bockhorn, die 1752-58 durch Johann Franz Pfättisch betreut wurde. Vor dem Chorbogen befinden sich zwei stuckierte Wappenkartuschen, die die Wappen von Kurbayern (mit Kurhut, links) und Freising (mit Mitra, Pedum, Fürstenhut und Schwert, rechts) als Hinweis auf die weltliche und geistliche Obrigkeit zeigen.
+
+'''Autor und Entstehungszeit:''' Franz Joseph Aiglstorffer (* um 1713 Wartenberg † 1790 Wartenberg; s. S. 146) 1755. Datum am Chorbogen MDCCLV
+
+Überzeugende Zuweisung durch Brenninger 1980 (S. 135) und 1982 (S. 112 f.). Die Übereinstimmungen mit der einzigen für den jüngeren Aiglstorffer gesicherten Freskierung von Hinterholzhausen (S. 146f.) sind unübersehbar.
+
+Dem jüngeren Aiglstorffer kann man auch die wenige Jahre vorher entstandenen Fresken in der ebenfalls zur Pfarrei Bockhorn gehörigen Filialkirche Salmannskirchen zuweisen (S. 271).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A) und AR (B, a-d) Tonne mit Stichkappen, im AR nach O abgemuldet
+
+Rahmen: A und B geschwungene Rahmen in kräftigem Stuckprofil, in den Diagonalen besetzt mit Rocaille-Ornamente. Technik: Fresko; A und B polychrom, a und d monochrom ocker, b und c monochrom blau
+
+Maße: A Höhe 8,70 m; 4,70×2,80 B Höhe 8,40 m; 2,80×1,80
+
+Erhaltungszustand und Restaurierungen: 1858 ist die Kirche»in geradezu schauerlicher Weise restauriert worden, sodaß<br>der schöne Innenraum gänzlich entstellt ist« (Gutachten BLfD Johann Eder. (Datum an der Innenseite des Chorbogens Renoviert A. 1960 D.). Freilegen des Stucks, Reinigen der Deckenbilder, Abnehmen der Übermalungen, Einstimmen der Fehlstellen. Jetzt wieder zahlreiche schwarze Flecken (Befall von Mikro-Organismen an den Secco-Übermalungen).
+
+
+== Beschreibung und Ikonographie ==
+
+
+Das Bildprogramm beschäftigt sich mit der Kirchenpatronin Margareta von Antiochien, die nach der legendären Überlieferung zu Beginn des 4. Jh. unter Diokletian den Martertod erlitt. Margareta war Tochter vornehmer heidnischer Eltern und Christin. Als sie fünfzehnjährig die Schafe ihrer Amme hütete, erblickte sie der heidnische Präfekt Olibrius und entbrannte in Liebe zu ihr (B). Margareta erhörte ihn nicht, worauf er sie ins Gefängnis warf, wo sie mit dem Kreuzzeichen den höllischen Drachen vertrieb und bei einem weiteren Aufenthalt vom Hl. Geist getröstet wurde (A, Ansicht nach W). Sie wurde verschiedenen Martern unterworfen und endlich enthauptet (A, Ansicht nach O).
+
+A MARTYRIUM DER HL. MARGARETA Zweiansichtige Bildanlage, Ansichten nach O und W, wobei die beiden Ansichten in der Bildmitte durch einen Ring aus Wolken um eine Glorienöffnung geschieden sind. In der Ansicht nach W ist die hl. Margareta in einem finsteren Kerker dargestellt, auf einem Stein sitzend, mit Ketten gefesselt, die Linke auf die Brust gelegt und die Rechte bittend ausgestreckt. Vor ihr erscheint ein großes Kreuz mit der Taube des hl. Geistes an der Spitze. Das Kreuz ist Waffe und Abwehr gegen den höllischen Drachen, der vor Margareta am Boden zu sehen ist.
+
+Die Erscheinung des Teufels in Drachenform wird in Bildzyklen der hl. Margareta von Antiochien häufig dargestellt. Meist erscheint die Heilige dabei mit einem Kreuz in der Hand, und wird von einem Drachen bedroht, den sie mit dem Kreuz bekämpft.
+
+
+
+[[File:Band07_chunk003_p016_img001.jpg|thumb|Das Langhausgewölbe mit A Martyrium der hl. Margareta, der Heiliggeist-Öffnung und den Wappen von Kurbayern und Hochstift Freising]]
+
+
+
+[[File:Band07_chunk003_p016_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band07 p131 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk003.pdf#page=17 -->
+<!-- citation-page-top: Band07 p132 -->
+
+[[File:Band07_chunk003_p017_img001.jpg|thumb|a-d Margareta-Emblem]]
+[[File:Band07_chunk003_p017_img002.jpg|thumb|B Margareta und Olibrius]]
+[[File:Band07_chunk003_p017_img003.jpg|thumb]]
+
+Hand; doch erzählt die Legende, daß sie den höllischen Drachen mit einem Kreuzzeichen ihrer Hand vertrieben habe (LA Benz, S. 465). Darauf bezieht sich Aiglstorffers Darstellung, der das Kreuz als himmlische Erscheinung zeigt. Die lichtumstrahlte Taube an der Spitze des Kreuzes erinnert an eine zweite Vision Margaretas im Kerker, als ihr der Hl. Geist erschien und sie tröstete.
+
+Die Ansicht nach O zeigt die Enthauptung Margaretas. Sie kniet auf einem Podest im Bildvordergrund, hinter ihr steht der Henker und holt mit dem Schwert zum tödlichen Streich aus. Die Landschaft fällt jäh nach hinten ab und läßt dadurch keinen Bildraum für die Figuren entstehen. So erscheinen die Assistenzfiguren ohne räumlich-logische Einordnung: eine dunkle Rückenfigur als Repoussoir rechts, ein Berittener im Vordergrund, ein von hinten nahender Zug mit dem Präfekten Olibrius zu Pferd an der Spitze und dicht gedrängtes Volk.
+
+B MARGARETA UND OLIBRIUS Margareta steht in der Bildmitte, vornehm gekleidet, den Hirtenstab in der Linken, die Rechte auf die Brust gelegt. Zu ihren Füßen weiden Schafe. Eine Landschaft mit Zäunen, Fluß und Buschwerk weitet sich in die Tiefe bis zu den Bergen am Horizont. Zwischen der Herde und dem Fluß sitzt ein Hirte und bläst die Schalmei. In diese Idylle dringen zwei Reiter am jenseitigen Flußufer ein: der Präfekt Olibrius, der mit dem Finger auf Margareta weist, und ein Begleiter.
+
+[[File:Band07_chunk003_p017_img004.jpg|thumb]]
+
+a-d MARGARETA-EMBLEME Vier Stuckkartuschen in den seitlichen Stichkappen zeigen Embleme, die sich mit der hl. Margareta beschäftigen. Deutsche Lemmata auf Schriftbändern unten im Bild.
+
+a Auch schön aus dem Wüsten. Lilie zwischen Dornen vor einer Landschaft. Das Lemma erklärt die Lilie, die in Wüste und Ödnis wächst, als Symbol der Tugend, die auch in heidnischer Umwelt möglich ist (Picinelli, Lib. XI, Nr. 123 f., s. v. lilium).
+
+b Klein und kostbar. Perlmuschel. Die Perle in der Muschel (lat. margarita) ist ein beliebtes Bild für die hl. Margareta.
+
+c Mit der Zeit nimmt zu. Quelle. Aus einem Felsen links in weiter Landschaft entspringt eine Quelle, die im Tal allmählich zum Fluß wird. Das Bild bezieht sich auf die Tugend der Heiligen, die, von Kindheit an vorhanden, im Laufe des Lebens immer größer wurde: »Prudentiae, divitiarum, aut virtutun profectus e flumine dignosci potest, quod ACQUIRIT, aut CRES CIT EUNDO« (Picinelli, Lib. II, Nr. 417, s. v. flumen, torrens).
+
+d Steht all=zeit fest! Säule im wildbewegten Meer, auf die vier Puttenköpfe blasen. Das Bild ist Symbol der Standhaftigkeit in Heimsuchungen: »Heroicum ac imperterritum hominis pectus dum adversantis fortunae impetu valide arietatur, columnae non absimilem se probat, quae ventorum, grandinum ac pluviarum iniuriis allisa« (Picinelli, Lib. XVI, Nr. 42 s. v. columna).
+
+== Quellen und Literatur ==
+
+BHStA I, Landshuter Abgabe 1993, 179: Antrag auf Neubau 1754 (mit Plan).
+
+StAL, Regierung Landshut A 4080: Bau 1754/55 und Altarausstattung.
+
+AEM, Pfarrakten Bockhorn. 144 0001 01: Pfarrbeschreibung mit Rechnungsextrakten 1748-57; 144 8300 01: Filiale Hecken.
+
+AEM, Kunsttopographie der Erzdiözese, Dekanat 23/Erding, Pfarrei Bockhorn, Filialkirche St. Margareta Hecken (Georg Brenninger).
+
+[[File:Band07_chunk003_p017_img005.jpg|thumb]]
+
+BLfD, Akt Hecken, Kirche St. Margareta. Schmidtsche Matrikel, Bd 1, S. 520f. Mayer-Westermayer, Bd 1, S. 364. Landkreis Erding 1963, S. 228.
+
+Brenninger 1980, S. 135. Brenninger 1982, S. 112 f. Landkreis Erding 1985, S. 321. Dehio 1990, S. 412 f.
+
+<!-- citation-page-bottom: Band07 p133 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk003.pdf#page=18 -->
+{{End}}

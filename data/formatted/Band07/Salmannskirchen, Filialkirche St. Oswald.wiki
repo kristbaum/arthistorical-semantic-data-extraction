@@ -1,0 +1,141 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=271
+|Originalseitenbis=274
+|Lemma=Salmannskirchen, Filialkirche St. Oswald
+|Typ=Sakral
+|Ort=Salmannskirchen
+|davor=Riding, Pfarrkirche St. Georg
+|danach=St. Wolfgang, Pfarr- und Wallfahrtskirche St. Wolfgang
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Filialkirche, Pfarrei und Gemeinde Bockhorn, Erzdiözese München und Freising; z.Z. der Ausmalung war die Pfarrei Bockhorn Monatspfarrei. Gericht Erding
+
+'''Patrozinium:''' St. Oswald
+
+'''Zum Bauwerk:''' Die mittelalterliche Kirche erhielt 1751/52 ein neues LHs und einen neuen Turm. Der gotische AR wurde belassen, aber um 6 Schuh (ca. 1,80 m) erhöht und gewölbt. Baumeister war Johann Baptist Lethner aus Erding, Zimmermeister Abraham Kirschenhofer. Altarausstattung und Kanzel 1765/66 durch den Dorfener Schreiner Matthias Fackler mit Figuralplastik von Christian Jorhan, Altarblättern von Nikolaus Miller und Fassung von Franz Xaver Zellner von Erding. Das LHs-Gewölbe wurde 1889 wegen Einsturzgefahr abgerissen und durch eine Weißdecke ersetzt (StAM, LRA). Die Chorwölbung blieb erhalten.
+
+LHs zu drei Achsen mit eingerundeten Eckpilastern, Empore im W. AR zu zwei Jochen mit dreiseitigem Schluß, Gliederung durch Pilaster vor flachen Wandvorlagen mit Gebälkstücken. Belichtung durch je zwei Fenster von N und S. Die Decken bilder befinden sich im AR.
+
+'''Auftraggeber:''' Pfarrer in Bockhorn war Maximilian Graf Trauner (1729-75; Domherr in Freising, 1757-70 Domkustos und 1769-75 Propst von Isen), der die Pfarrei Bockhorn durch Vikare betreuen ließ. Vikar war Johann Baptist Humplmayr (1744–56), der auch den Bau führte.
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Franz Joseph Aiglstorffer (* um 1713 Wartenberg † 1790 Wartenberg) 1752. Datum in A 1752.
+
+Überzeugende Zuweisung durch Brenninger 1982 (S. 111). Vergleicht man Salmannskirchen mit den 1754 entstandenen,
+
+
+[[File:Band07_chunk006_p011_img001.jpg|thumb|Der Kirchenraum]]
+<!-- citation-page-bottom: Band07 p271 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=12 -->
+<!-- citation-page-top: Band07 p272 -->
+
+<!-- header: SALMANNSKIRCHEN -->
+
+
+[[File:Band07_chunk006_p012_img001.jpg|thumb]]
+
+
+signierten Fresken Aiglstorffers d.J. in Hinterholzhausen (s. S. 146), so kann kein Zweifel bestehen, daß die Deckenbilder in Salmannskirchen eine Arbeit desselben Malers sind.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: AR (A, A<sub>a-h</sub>) Tonne mit Stichkappen, im O abgemuldet
+
+Rahmen: A Stuckprofil; A<sub>a-h</sub> einfache Stuckkartuschen Technik: Fresko mit starken Secco-Übermalungen; A polychrom, A<sub>a, c, f, h</sub> monochrom karmin, A<sub>b, d, e, g</sub> monochrom blaugrau
+
+Maße: A Höhe 8,00 m; 3,40×2,60
+
+Erhaltungszustand und Restaurierungen: Innenrestaurierung 1857 durch den Freisinger Maler Joseph Baumann, der »den
+
+Blavon, welcher ganz zersprungen war ... mit Gyps ausgebessert, die Gemälde, welche ebenfalls sehr schadhaft waren, alles frisch restauriert, die Seitenwände ausgebessert, und mit Farbe überdüncht« hat. Nach dem Abbruch des Gewölbes im LHs und der Herstellung einer neuen Decke 1889 erhielt diese ein Deckenbild durch Adalbert Kromer, Freising. Innenrestaurierung 1909/10 mit Restaurierung der Chorfresken durch Martin Irl, Erding. Neufassung der Raumschale mit Reinigung und Ausbesserung der Fresken 1955 durch Christian Seibold, Freising. Befunduntersuchung 1996 durch Michael Hornsteiner, Dorfen: Danach zeigten die Deckenbilder Risse, teilweise mikrobiellen Befall und vor allem großflächige Übermalungen. Am Chorbogen wurden (übertünchte) barocke Malereien entdeckt. Restaurierung durch Fa. Wiegerling, Bad Tölz, in Vorbereitung.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A GLORIE DES HL. OSWALD Vor hellblauem Himmelsgrund schweben gelbliche und rosige Wolkenkissen mit zahlreichen Putten. Links kniet Oswald, gerüstet, mit hermelingefüttertem Mantel, in der Rechten das Zepter und auf dem Haupt eine vielzackige Krone. Schräg über ihm erscheint Christus, der seine Wundmale zeigt und in der Linken ein Zepter hält. Ein Putto hält einen Palmzweig als Hinweis auf Oswalds Martyrium, einer eine große Schale, in der ein Vogel zu sehen ist, Hinweis auf den Raben, der nach der Legende das Öl zur Krönung des hl. Oswald herbeibrachte. Oben und unten im Bild befinden sich Schriftbänder Triumphum Cape / parta victoria mit dem Datum 1752.
+
+
+[[File:Band07_chunk006_p012_img002.jpg|thumb|Langhausfresken von Albert Kromer 1889: Die hll. Oswald, Leonhard, Christoph, Wolfgang, Magdalena, Katharina, Sebastian vor Maria (oben), Hl. Dreifaltigkeit (unten)]]
+
+
+Der hl. Oswald, Sohn des Königs Ethelfrith von Northumbrien, floh nach Schottland, als Edwin im Jahr 616 das Königreich an sich brachte. In der 563 gegründeten Abtei Iona wurde er Christ. Nach Edwins Tod 633 kehrte Oswald mit seiner Familie nach Northumbrien zurück. Nach dem Sieg über den englischen König Cadwalla in Hevenfelt bei Hexham berief König Oswald den Mönch Aidan aus Iona (635 Bischof, Gründer des Klosters Lindisfarne), der Northumbrien erfolgreich christianisierte. Oswald vereinigte während seiner Herrschaft die beiden Teile Northumbriens, Bernicia und Deira. Andere anglo-sächsische Könige erkannten seine Vorherrschaft an. Nach acht Jahren der Herrschaft, in denen er das Vorbild eines christlichen Königs war, wurde er von dem Heidenkönig Penda von Mercia in der Schlacht bei Maserfield in Shropshire im Alter von achtunddreißig Jahren getötet, sein Körper zerstückelt. Die Teile wurden später aufgesammelt und an verschiedenen Orten verehrt. Das Haupt wurde in Lindisfarne begraben (zu Oswald s. AASS, Augusti Tom. II, S.94-103; BiblSS, Bd 9, Sp.1290-96; LCI, Bd 8, Sp. 102 f.).
+
+
+A<sub>a-h</sub> embleme und emblemahnliche darstellungen Die acht Bilder in den Stichkappen und Gewölbezwickeln des Chors beziehen sich auf Tugenden und Taten des hl. Oswald.
+
+A<sub>a</sub> Gloria et honore (Mit Ruhm und Ehre). Über Wolken erscheint eine Fürstenkrone, auf die Strahlen fallen. Durch die Krone sind ein Palm- und ein Lorbeerzweig gezogen. Der Sinn ist klar: Die ererbte weltliche Würde (Fürstenhut) wird von Oswald durch seine Tugend (Lorbeer) und sein Martyrium (Palme) zu ewigem Ruhm gesteigert, der allein im Himmel gilt (Strahlen).
+
+A<sub>b</sub> In hoc signo! (In diesem Zeichen). Kreuz, hinter dem eine Gnadensonne leuchtet. Das Bild ist eine Anspielung auf den Sieg, den Oswald in Hevenfelt bei Hexham gegen den englischen König Cadwalla errang. Vor der Schlacht versammelte Oswald seine Soldaten um sich, hielt ein hölzernes Kreuz hoch und betete um den Sieg (BiblSS, Bd 9, Sp. 1290-92). Oswalds Sieg wird (Inschrift) in Bezug gesetzt zu Konstantins Sieg an der Milvischen Brücke.
+
+A<sub>c</sub> Elargiendo Ditior (Durch Austeilen reicher). Tisch, auf dem vier Teller und ein großes Gefäß stehen. Strahlen über Wolken. Das Bild bezieht sich auf die Mildtätigkeit Oswalds. Einst hatte Oswald ein großes kostbares Gefäß von seinem Tisch in Stücke gebrochen, um diese an die Armen auszuteilen (BiblSS, Sp. 1295). Diese Szene wurde hier in ein Emblem umgesetzt, das die Vorstellung vertritt, Almosengeben bereichere den Spender, die sonst meist durch Quelle und Brunnen ausgedrückt wird.
+
+A<sub>d</sub> Iustitia et Aequitate (Mit Gerechtigkeit und Billigkeit). Waage, auf deren linker Schale eine Krone liegt, auf der rechten Schwert und Zepter. Darüber Wolken und Strahlen. Das Bild bezieht sich auf die Fürstentugend der Gerechtigkeit, die modifiziert sein muß durch die Tugend der Aequitas, die nicht
+<!-- citation-page-bottom: Band07 p273 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=13 -->
+<!-- citation-page-top: Band07 p274 -->
+
+<!-- header: SALMANNSKIRCHEN -->
+
+<!-- header: ANKT WOLFGANG -->
+
+
+[[File:Band07_chunk006_p013_img001.jpg|thumb]]
+
+
+
+[[File:Band07_chunk006_p013_img002.jpg|thumb|A Gedeckter Tisch]]
+
+
+
+[[File:Band07_chunk006_p013_img003.jpg|thumb]]
+
+
+
+[[File:Band07_chunk006_p013_img004.jpg|thumb|A. Kloster Lindisfarne]]
+
+
+
+[[File:Band07_chunk006_p013_img005.jpg|thumb]]
+
+
+
+[[File:Band07_chunk006_p013_img006.jpg|thumb]]
+
+
+nur den Sinn für Gleichheit meint, sondern auch den Sinn dafür, was dem Einzelnen angemessen ist (keine Abb.).
+
+A<sub>e</sub> His qui in Tenebris (Denen, die in der Dunkelheit sind). In stürmischem Meer ist ein Schiff dargestellt, am Ufer ein Leuchtturm. Das häufig benutzte Bild des Leuchtturms, der den Schiffen den Weg weist, wird hier auf den hl. Oswald angewandt, der seinen Untertanen durch das Einführen des Christentums den Weg zum Heil zeigte (keine Abb.).
+
+Af Crescit Religio (Es wächst die Religion). In einer Landschaft steht ein mauerumschlossener Gebäudekomplex mit Rundtempel, Kirche und großem Gebäude - Kloster Lindisfarne, im Vordergrund das Meer. Darüber Strahlen. Nach seinem Sieg über Cadwalla ließ Oswald Northumbrien durch den hl. Aidan christianisieren, dem er die Insel Lindisfarne schenkte, auf der das berühmte Kloster entstand, das zum Zentrum der Christianisierung wurde.
+
+Ag hac luce clarescit (Von diesem Licht wird sie angezündet). Auf einem Tischchen steht eine Kerze. Eine Hand aus Wolken zündet sie mit einer brennenden Kerze an. Das Bild sagt aus, daß Oswalds Glaubenseifer von Gott entzündet wurde. Picinelli bringt eine Kerze, von der Sonne entzündet, mit dieser Deutung (Lib. XV, Nr. 36, s. v. candela, LUCEM EX ALTO).
+
+Ah pro fide robur (Kraft für den Glauben). Stehender Löwe der in einer Tatze einen Schild hält, mit der zweiten ein Schwert emporreckt. Oswald wird in seinem Kampf für das Christentum hier mit dem Löwen verglichen.
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, Landshuter Abgabe 1993, 209: Baugenehmigung 1750.
+
+StAM, LRA 147322: Gewölbeabbruch im LHs 1889, Restaurierung 1909/10.
+
+StAL, Regierung Landshut A 4114: Altarausstattung 1765/66. AEM, Pfarrakten Bockhorn, 144 0001 01: Pfarrbeschreibung mit summarischen Rechnungsextrakten 1748-57; 144 8500 01: Filiale Salmannskirchen.
+
+AEM, Kunsttopographie der Erzdiözese, Dekanat 23/Erding, Pfarrei Bockhorn, Filialkirche St. Oswald Salmannskirchen (Georg Brenninger).
+
+Baureferat des Erzbischöflichen Ordinariats, Dokumentation Stefan Nadler/Maria Hildebrandt: Kath. Filialkirche St. Oswald Salmannskirchen, mit Auswertung des Pfarrarchivs Bockhorn.
+
+Schmidtsche Matrikel, Bd 1, S. 519f. Mayer-Westermayer, Bd 1, S. 365. KDB I OB (2), S. 1288. Landkreis Erding 1963, S. 308. Kemp, S. 287f. Brenninger 1982, S. 111. Landkreis Erding 1985, S. 322 f. Dehio 1990, S. 1047.
+
+AR
+
+{{End}}

@@ -1,0 +1,77 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=187
+|Originalseitenbis=187
+|Lemma=Landersdorf, Filialkirche St. Martin
+|Typ=Sakral
+|Ort=Landersdorf
+|davor=Kirchberg, Filialkirche St. Peter und Paul
+|danach=Langengeisling, Pfarrkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+LANDERSDORF
+Filialkirche, Pfarrei Oberdorfen, Stadt Dorfen, Erzdiözese München und Freising; z.Z. der Ausmalung war die Pfarrei Oberdorfen dem Priesterhaus in Dorfen inkorporiert. Gericht Erding
+
+
+'''Patrozinium:''' St. Martin
+
+
+'''Zum Bauwerk:''' Neubau der Kirche ab 1761: Grundsteinlegung am 21.4.1761, Rohbau noch im gleichen Jahr, Vollendung des Baus 1762. Baumeister war der Erdinger Maurermeister Johann Baptist Lethner.
+
+LHs zu drei Achsen, gerundete Ecken, Empore im W; wenig eingezogener AR zu einem Joch mit halbrundem Schluß, Gliederung durch Pilaster vor flachen Wandvorlagen; Belichtung durch ein Fenster von N und zwei in der Schlußrundung. Das Fresko befindet sich im AR.
+
+'''Auftraggeber:''' Pfarrer von Oberdorfen zur Zeit der Ausmalung war Simon Ellinger (1761-63), Direktor des Priesterhauses in Dorfen. 1761 war der für die Oberdorfener Filialen Landersdorf, Geislbach und Esterndorf zuständige Kooperator Korbinian Puechperger.
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, 1762. Datum am Chorbogen MDCC/LXII
+
+Das Deckenbild unterscheidet sich deutlich von den Arbeiten des jüngeren Aiglstorffer (Zuschreibung Brenninger 1982 S. 114); es ist vom gleichen Maler wie das in Jaibing (1762). Als Autor kommt der in Dorfen ansässige Maler Franz Xaver Gruber in Frage (s. S. 181).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: AR Tonne mit Stichkappen, im O abgemuldet
+
+Rahmen: Stuckprofil; aus C-Bögen gebildete Vierpaßform Technik: Fresko: polychrom
+
+Maße: Höhe 8,50 m; 3,50×2,80
+
+Erhaltungszustand und Restaurierungen: 1859 wurde der Kirchenraum im neoromanischen Stil verändert. Damals wohl wurden Fresko und Dekorationsmalereien am Gewölbe des AR übertüncht. 1913 wurden »unter dem jetzigen neuen und unschönen Deckengemälde im Chor« das alte Fresko und in den Gewölbezwickeln »alte, in kaltem Rot al fresco gemalte Ornamente« gefunden. Freilegung durch Maler Kaspar Auer aus Dorfen, Restaurierung durch Max Vogt aus München, der das LHs-Gewölbe mit ähnlichen Ornamenten bemalte. Im Bildfeld des LHs wurde nur eine alte Ornamentmalerei gefunden. Es wurde durch Josef Albrecht, München, mit einer Darstellung der Anbetung der Hirten bemalt. 1974 Restaurierung der Raumschale durch Ludwig Keilhacker, Taufkirchen/Vils.
+
+
+[[File:Band07_chunk004_p019_img009.jpg|thumb|1 Schwert]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+0 HL. MARTIN In der Konstruktion des Bildschauplatzes bemühte sich der Maler in naiver Ungeschicklichkeit, eine untersichtige Perspektive zu erreichen (vgl. Jaibing). Schauplatz ist eine barock geschwungene Treppenanlage, die nach oben zum Vorplatz einer Kirche führt, wo auf dem Altar die Monstranz mit dem Allerheiligsten steht. Auf den Stufen ist Bischof Martin von Tours dargestellt, sein Attribut, die Gans, zu seinen Füßen. Vom Dreifaltigkeitssymbol in einer Glorie fallen Strahlen auf den Heiligen.
+
+
+== Quellen und Literatur ==
+
+
+StAM, LRA 147836: Restaurierung 1913
+
+AEM, Pfarrakten Oberdorfen, Bauten II
+
+AEM, Kunsttopographie der Erzdiözese, Dekanat 21/Dorfen, Pfarrei Oberdorfen, St. Martin Landersdorf (G. Brenninger). BLfD, Akt Landersdorf St. Martin
+
+Schmidtsche Matrikel, Bd 2, S. 124.
+
+Mayer-Westermayer, Bd 1, S. 221 f
+
+Gammel, Josef, Die Heimat und ihre Geschichte: Landersdorf, in: Das Mühlrad 5, 1955, S. 18-21. Nachdruck in Gammel/Gribl, S. 371–74.
+
+Landkreis Erding 1963, S. 339. Brenninger 1982, S. 114.
+
+Landkreis Erding 1985, S. 302.
+
+<!-- citation-page-bottom: Band07 p187 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=20 -->
+{{End}}

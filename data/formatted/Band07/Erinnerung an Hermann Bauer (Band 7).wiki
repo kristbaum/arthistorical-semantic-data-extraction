@@ -1,0 +1,31 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Erinnerung an Hermann Bauer (Band 7)
+|davor=
+|danach=Vorwort Dank (Band 7)
+|AutorIn1=Rupprecht, Bernhard
+}}
+
+<!-- header: HERMANN BAUER † -->
+
+
+[[File:Band07_chunk001_p004_img001.jpg|thumb|Hermann Bauer *12. 12. 1929 † 22. 1. 2000 Photo von Kai-Uwe Nielser]]
+
+
+Am 22. Januar 2000 ist Hermann Bauer in München gestorben. Das Corpus der barocken Deckenmalerei in Deutschland, das er zusammen mit dem Unterzeichnenden im Jahre 1966 gründete, nahm in Bauers Tätigkeit als Hochschullehrer und Forscher eine zentrale Stelle ein. Die wichtigsten inhaltlichen Voraussetzungen für die Erforschung des für die neuzeitliche deutsche Kunst so ausgedehnten und unermeßlich differenzierten Phänomens der Deckenmalerei hat sich Bauer mit seiner inzwischen zum Klassiker der Ornamentforschung avancierten Dissertation über die Rocaille geschaffen. Er konnte zeigen, daß dieses Ornament den Schlüssel zum Verständnis der Bildstruktur des 18. Jahrhunderts darstellt. Da die Blüte angewandter Ornamentik im bayerisch-schwäbischen Raum besonders in Symbiose mit der Deckenmalerei erschien, mußte Bauer auf die Großmalerei und ihre Probleme aufmerksam werden. Zu deren Bearbeitung erwarb er sich weitere entscheidende Kenntnisse bei der Erstellung eines ikonologischen Indexes, mit dem er nach der Promotion im Münchener Zentralinstitut für Kunstgeschichte betraut war. Aus dieser Befassung mit konkreten Programmen, aber auch mit ikonologischer Quellenliteratur ging eine Reihe von Aufsätzen hervor – besonders aber brachte Bauer damit die überaus wichtige ikonographische/ikonologische Dimension in das Corpus der barocken Deckenmalerei ein. Zusammen mit den biographischen Vorgaben – Herkunft aus Altbayern und eine inmitten des »Materials« verbrachte Jugend - ermöglichten diese Forschungsrichtungen es Bauer, sich der vollständigen Erfassung und wissenschaftlichen Durchdringung der neuzeitlichen Deckenmalerei in Deutschland zuzuwenden.
+
+Schnell stellte sich heraus, daß für eine solche Aufgabenstellung selbst bei Hauptwerken die Vorarbeiten - wenn solche denn überhaupt existierten - wenig hilfreich waren. Zielsetzung und Arbeitsweise des Corpus mußten ab ovo konzipiert werden, Hermann Bauer hat bei der Erarbeitung dieses Konzeptes Maßgebliches beigesteuert - es hat sich in seinen wesentlichen Elementen bis heute bewährt. Es ist nicht bei abstrakten Richtlinien geblieben; in unzähligen Ausfahrten ins oberbayrische Land hat er selbst an den Objekten von der Feststellung positiver Fakten bis zu Beratungen über Datierung, Zuschreibung und ikonographische Fragen mitgearbeitet. Vor dem Original und bei der kunstgeschichtlichen Durcharbeitung erwies sich Bauer als ein ungewöhnlich begabter Wissenschaftler, von Fragen der Attribution und Datierung bis zu den Komplikationen barocker Emblematik und Allegorese sattelfest. Intuition und künstlerischer Blick für das Spezifische und für Qualität sicherten seinen Forschungsergebnissen über das »Handwerkliche« hinaus Eleganz und überraschende Einsichten.
+
+Bei der Gründung des Corpus der barocken Deckenmalerei in Deutschland hatte man zunächst und vor allem die Konzeption für die verschiedenen Bearbeitungsstadien des Denkmälerbestandes im Auge – die unausweichlichen sachlichen und personellen Weiterungen, die ein Unternehmen solchen Umfanges mit sich bringt, zu bedenken, dafür ließ die Euphorie des Anfangs wenig Raum. Doch schnell genug häuften sich die nicht immer leichten außerwissenschaftlichen Probleme: Aufbau einer ständigen Arbeitsstelle, permanenter Kontakt mit der Deutschen Forschungsgemeinschaft als vorwiegend fördernder Institution, besonders in der ersten Zeit schwierige Suche nach einem geeigneten Verlag, Auswahl qualifizierter und motivierter Mitarbeiter und deren Integration zu einer bis zu einem gewissen Grad arbeitsteiligen Gruppe. Zu all dem kamen neuerdings auch noch die Bemühungen um finanzkräftige Sponsoren. Hermann Bauer hat bei der Bewältigung der technischen Probleme und im Umgang mit Personen Eigenschaften an den Tag gelegt, die nur Bewunderung verdienen. Sachlich kompetent und bei stets gewahrter Ruhe überraschte er seine Verhandlungspartner mitunter ebenso mit entwaffnenden Zugeständnissen wie auch mit kühnen Forderungen – alles serviert mit verhaltenem altbayrischen Charme. Die ihm eigene glückliche Verbindung von praktischer Vernunft und Verbindlichkeit hat dem Corpusunternehmen über das Wissenschaftliche hinaus unabsehbaren Nutzen gebracht.
+
+Besonders aber sind diese menschlichen Eigenschaften dem »Binnenraum« des Betriebes zugute gekommen. Bei unbestrittener Kompetenz erzeigte er den Mitarbeitern stets Geduld, ja Langmut, war eher Mitarbeiter als »Leiter«, gab statt Weisung Anregung und Hilfe. Von solchem von ihm bestimmten Klima rührt es her, daß viele Personen, die früher und auch jetzt noch am Deckenmalereicorpus tätig waren und sind, mit Hermann Bauer nunmehr einen Freund verloren haben.
+
+Hermann Bauer hat dem größten Corpusunternehmen der deutschen Kunstgeschichte über Jahrzehnte Inhalt und Form gegeben. Diese Prägung wird über seinen Tod hinaus Bestand haben, er hat mit diesem Werk bei vielen Personen und in der Wissenschaft sein bleibendes Andenken gestiftet.
+
+BERNHARD RUPPRECHT
+
+{{End}}

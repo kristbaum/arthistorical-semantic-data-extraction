@@ -1,0 +1,79 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=107
+|Originalseitenbis=108
+|Lemma=Geislbach, Filialkirche St. Nikolaus
+|Typ=Sakral
+|Ort=Geislbach
+|davor=Eschlbach, Pfarrkirche Mariä Geburt
+|danach=Großköchlham, Filialkirche St. Valentin
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Filialkirche, Pfarrei Wambach (Pfarrverband Taufkircher Vils), Gemeinde Taufkirchen/Vils, Erzdiözese München und Freising; z.Z. der Ausmalung war Wambach Monatspfarre Gericht Erding
+
+
+'''Patrozinium:''' St. Nikolaus
+
+
+'''Zum Bauwerk:''' Nach Blitzschlag 1727 Neubau des Turms und Baureparatur an der Kirche, die fast einem Neubau gleichkam (StAL). Die Pfarrbeschreibung 1817 bezeichnet die Kirche als {ZITAT|005} (AEM). Baumeister war Anton Kogler von Erding, nach dessen Tod Hans Georg Mayr, Palier aus München, der für Koglers Witwe arbeitete. Die Innendekoration dürfte 1729 entstanden sein. Die Gewölbe waren nur mit Leistenstuck gegliedert; der Modelstuck im Gewölbe und an der Empore stammt von 1905 (s. Erhaltungszustand).
+
+Saal zu drei Jochen, Tonne mit Stichkappen, Pilastergliederung, Empore im W mit kleiner oberen Orgelempore; eingezogener AR zu zwei Jochen mit dreiseitigem Schluß, Pilastergliederung, Belichtung von N und S im östlichen Joch und in den Schlußschrägen; Okulus in der O-Wand. Sakristei im N, Turm im S des AR. Das barocke Fresko befindet sich im AR.
+
+'''Auftraggeber:''' Pfarrer Gregor Wagner von Wambach (1712- 32), der in A dargestellt ist. Er bekam wegen der nicht genehmigten Ausweitung der Arbeiten an der Kirche großen Ärger. Unter ihm war 1724 durch Aiglstorffer d. Ä. bereits die Wambacher Filiale Burgharting (s. S. 70) ausgemalt worden.
+
+'''Autor und Entstehungszeit:''' Franz Albert Aiglstorffer (* um 1675 Wartenberg † 1741 Wartenberg; (s. S. 238) 1729 Uberzeugende Zuweisung der Fresken an Franz Albert Aiglstorffer durch Brenninger 1782 (S. 109). Das Datum der Ausmalung ergibt sich aus der Baugeschichte (s. o.).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: AR Stichkappentonne, im O abgemuldet
+
+Rahmen: A einfaches Stuckprofil, aus C-Bögen gebildet, die in den Achsen nach außen, in den Diagonalen nach innen gebogen sind; A<sub>1-4</sub> Medaillons in einfachem Stuckleistenrahmen Technik: Fresko; polychrom
+
+Maße: A Höhe 7,20 m; 3,20×2,70
+
+Erhaltungszustand und Restaurierungen: Außen- und Innenrestaurierung sowie Renovierung der Einrichtung 1872/75, dabei wurden {ZITAT|006}}. Die Darstellungen der Vier Evangelisten stammen aus dieser Zeit. Planung einer erneuten Innenrestaurierung mit Rokoko-Ausmalung ab 1900. Das Generalkonservatorium riet dagegen, die Fresken zu belassen und die gewünschte reichere Ausschmückung der Kirche durch {ZITAT|007}}. Innenrestaurierung 1908 durch Peter Keilhacker, Taufkirchen an der Vils, Restaurierung des einfachen Leistenstucks und Herstellung neuer Stuckmotive (einschließlich der Kartusche am Chorbogen) durch Fa. Franz Schuler, München.
+
+1993 Sanierung des Dachstuhls, da Schäden im Gewölbe auftraten. Restaurierung 1995 durch Michael Hornsteiner, Dorfen. Dabei wurde in den Nebenbildern im Chor eine Signatur des Dorfener Malers Hackl gefunden (= wohl Ludwig Hack) Am Chorbogen wurden Reste der ursprünglichen Aiglstorffer-Ausmalung aufgedeckt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Das Hauptfresko im AR ist von vier runden Stuckfelder umgeben, die die Vier Evangelisten zeigen (1872). An den seitlichen Zwickeln befinden sich zwei Dreipaß-Felder mit modernen (1908) Inschriften.
+
+ST. NIKOLAUS ALS PATRON VON GEISLBACH In Wolken thront Bischof Nikolaus von Myra. Zwei Putten halten Mitra und Pedum, ein weiterer die drei goldenen Äpfel (Kugeln). Schwere rote Draperien zu beiden Seiten der Himmelsszene. Der Heilige hat die Hand segnend erhoben und blickt nach unten, wo in einer weiten hügeligen Landschaft mit Bergen am Horizont sich Menschen versammelt haben, angeführt von ihrem Pfarrer, und Arme und Blick bittend nach oben erheben. Rechts sieht man auf einem Hügel die Nikolauskirche von Geislbach, von den Bauernhäusern umgeben. Das Bild zeigt die Prozession, die die Pfarrgemeinde Wambach alljährlich am dritten Bittag zum Hl. Nikolaus in Geislbach abhielt (Schmidt: {ZITAT|008}}): dabei flehte man um Gottes Segen für die Früchte der Erde. An der Spitze der Prozession links ist Pfarrer Gregor Wagner zu sehen. Eine zweite Prozession – die offenbar nicht vom Pfarrort, sondern von einem der Filialorte kommt, naht von rechts.
+
+Unterschrift Von allen Ungewitter Blitz Doner u. Feuer / behü uns St. Niklas die Häuser u. Scheuer / dann bittet diß Seufze. die hiesige Gemein / auf ewig wir wollen dir zugethan sein.
+
+
+== Quellen und Literatui ==
+
+
+StAM, LRA 148026: Baureparaturen im 19. und frühen 20. Jh. Restaurierungen 1872 und 1908.
+
+StAL, Kirchenrechnungen Gericht Erding, 1730, Bd 2, Geislbach fol. 1473 ff.
+
+StAL, Regierung Landshut A 4077 (Abbruch und Neubau 1728).
+<!-- citation-page-bottom: Band07 p107 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk003.pdf#page=5 -->
+<!-- citation-page-top: Band07 p108 -->
+
+<!-- header: GEISLBACH -->
+
+<!-- header: GROSSKÖCHLHAM -->
+
+
+[[File:Band07_chunk003_p005_img001.jpg|thumb]]
+
+
+AEM, Pfarrakten Wambach: Pfarrbeschreibung; Bauten Filiale Geislbach 1640–1878. BLfD, Akt Geislbach, St. Nikolaus. Schmidtsche Matrikel, Bd 1, S. 511f. Mayer-Westermayer, Bd 1, S. 504.
+
+Landkreis Erding 1963, S. 326. Brenninger 1980, S. 133–35. Brenninger 1982, S. 109. Landkreis Erding 1985, S. 406.
+
+{{End}}

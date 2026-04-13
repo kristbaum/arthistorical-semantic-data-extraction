@@ -1,0 +1,131 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=183
+|Originalseitenbis=186
+|Lemma=Kirchberg, Filialkirche St. Peter und Paul
+|Typ=Sakral
+|Ort=Kirchberg
+|davor=Jaibing, Filialkirche Johannes der Täufer
+|danach=Landersdorf, Filialkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Filialkirche, Pfarrei Schröding (Pfarrverband Holzland) Gemeinde Kirchberg, Erzdiözese München und Freising; z. Z. der Ausmalung Filiale der Pfarrei Steinkirchen. Gericht Erding
+
+
+'''Patrozinium:''' St. Peter und Paul
+
+
+'''Zum Bauwerk:''' Neubau der baufälligen Kirche 1728/30 (Konsens zur Grundsteinlegung 22.4. 1728, kurfürstl. Ratifizierung 12.5.1728). Anfang Dezember 1730 fehlten nur noch der Außenputz und die Friedhofsmauer. Baumeister war Anton Kogler (nach dessen Tod 1729 der bei der Witwe angestellte Hans Georg Mayr, Palier aus München), Zimmermeister Martin Fräberger von Niederstraubing. Altarausstattung und Kanzel 1730. Innendekoration erst 1759.
+
+LHs zu vier Jochen, einfache Pilastergliederung, Empore im W; gleichmäßige Belichtung durch je drei Fenster und ein verkürztes im W-Joch von N und S. Eingezogener AR zu einem Joch mit halbrundem Schluß, Pilastergliederung; Belichtung durch zwei Fenster von N und eines von S.
+
+'''Auftraggeber:''' Matthäus Hoffmayr, Pfarrvikar von Steinkirchen (1737–59, s.S. 154). Die Ausmalung entstand im Todesjahr Hoffmayrs († 16. 12. 1759).
+
+'''Autor und Entstehungszeit:''' Zuweisung an Franz Xaver Zellner (* 1738 Furth i. W. † 1788 Erding, s. S. 281) 1759. Chronogramm in B zerbreChe / gLeICher Massen / VnserIge SIInDen / Ketten (= 1759).
+
+Überzeugende Zuweisung durch Brenninger 1980 (S. 133). Das Deckenbild in Schröding (S. 281), im gleichen Jahr entstanden und unverkennbar von der gleichen Hand, ist signiert.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Stichkappentonne im AR nach O abgemuldet Rahmen: Gemalte illusionistische Rahmung Technik: Secco; polychrom Maße: A Höhe 8,60 m; 9,80×6,40 B Höhe 7,90 m; 4,80×4,60
+
+
+[[File:Band07_chunk004_p017_img002.jpg|thumb|Johannes der Täufer]]
+
+
+Erhaltungszustand und Restaurierungen: 1851 »Verschönerung« des völlig heruntergekommenen Kircheninnern (StAM, LRA 147553 unter Burgharting). Bei der Innenrestaurierung 1919/20 durch Ludwig Ametsberger wurde die Raumfassung erneuert, Restaurierung der Deckenbilder durch Hans Kögl, München-Pasing: »Reinigung der Deckengemälde, Ausfüllen der Stichkappen durch Gemälde ... Ausfüllen des Chorbogens mit Ornamenten« (StAM, LRA). 1977 Innenrestaurierung durch Johann Eder, Vaterstetten, bei der die Deckenbilder gereinigt und die originale Raumfassung freigelegt wurden. Gemalte Stuckkartusche auf der AR-Seite des Chorbogens 1977 / Renoviert / 1919. Laut Gutachten von Sigmund Benker (22.6.1976, BLfD) sind »die Fresken im Farbwert reduziert und aus dem Gleichgewicht gekommen«.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A KREUZIGUNG PETRI Die ornamental-dekorative Malerei der Rahmenzone am LHs-Gewölbe geht von der Idee einer umlaufenden Brüstung über einer Hohlkehle mit Voluten aus, variiert und geschmückt durch Rocaille-Kartuschen, Blumenschalen und ädikula-ähnlichen Sims-Architekturen. Die Stichkappenflächen zeigen Rocaille-Kartuschen mit Symbolen, die auf den Kirchenpatron hinweisen (Hans Kögl, 1919). In der Hauptansicht setzt über der Brüstung sofort eine gebirgige Landschaft mit kühn getürmten Felsen und jähen Abstürzen an, die Schauplatz der Kreuzigung ist. An Rom erinnert nur ein fragiles Bogenelement, das sich, in keinem logisch erfaßbaren Zusammenhang stehend, über die Gebirgsszene schwingt. Die Kreuzigung nimmt die Bildmitte ein. Das Kreuz, an das Petrus geheftet ist, wird von zwei Henkersknechten aufgestellt. Rechts im Bild sind, von Felsen bedrängt, mehrere Zuschauer in jähen Verkürzungen und in bizarren Längungen dargestellt. Zwei Putten bringen Tiara und dreifachen Papststab sowie Palme und Kranz als Zeichen des Papsttums und des Martyriums. Neben ihnen erscheint Christus, der mit der Rechten sein Kreuz umfängt, die Linke aber dem Heiligen entgegenstreckt.
+
+Die eigentliche szenische Handlung ist nur schwer zu erkennen: Die spitzkantig und bizarr gemalten Felsen mit den dunklen Abschattungen unterscheiden sich in der Art der Darstellung kaum von den Figuren. So sind Schauplatz und Handlung anschaulich eins, zumal die Figuren auch farblich nicht hervorgehoben sind - ein Prinzip, das an Zellners Marmorierungen erinnert. Die Farbigkeit ist - wie auch bei Fresko B - ungewöhnlich, fast monochrom, in grauen und ockerfarbenen Tönen; Buntfarben gibt es nicht. Blau erscheint als Graublau, Rot als dunkles Braunrot.
+
+Der Chorbogen ist an Stirn- und Rückwand mit Rocaillen und Blumengebinden dekoriert (Hans Kögl, 1919), die Leibung ist von Zellner in Marmor-Art ausgemalt.
+<!-- citation-page-bottom: Band07 p183 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=18 -->
+<!-- citation-page-top: Band07 p184 -->
+
+<!-- header: KIRCHBERG -->
+
+<!-- header: KIRCHBERG -->
+
+
+[[File:Band07_chunk004_p018_img001.jpg|thumb|A Kreuzigung Per]]
+
+
+
+[[File:Band07_chunk004_p018_img002.jpg|thumb]]
+
+
+<!-- citation-page-bottom: Band07 p185 -->
+
+
+Bereinigter Text:
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=19 -->
+<!-- citation-page-top: Band07 p186 -->
+
+<!-- header: KIRCHBERG -->
+
+
+== LANDERSDORF ==
+
+
+
+[[File:Band07_chunk004_p019_img001.jpg|thumb]]
+
+
+
+[[File:Band07_chunk004_p019_img002.jpg|thumb]]
+
+
+
+[[File:Band07_chunk004_p019_img003.jpg|thumb]]
+
+
+
+[[File:Band07_chunk004_p019_img004.jpg|thumb]]
+
+
+
+[[File:Band07_chunk004_p019_img005.jpg|thumb]]
+
+
+
+[[File:Band07_chunk004_p019_img006.jpg|thumb|Hl. Martir]]
+
+
+
+[[File:Band07_chunk004_p019_img007.jpg|thumb]]
+
+
+
+[[File:Band07_chunk004_p019_img008.jpg|thumb]]
+
+
+B BEFREIUNG PETRI AUS DEM GEFÄNGNIS (Act 12, 3-19) Über der Rahmenzone, die sich bis tief in die Gewölbezwickel erstreckt, setzen Stufen, Felsen, Sockel, Balustraden und Pfeiler an, in jähen Verkürzungen, seitlich mit den Fluchtlinien wie stürzend, unübersichtlich geschichtet. Es entsteht nicht eigentlich ein Bildraum, sondern ein gedrängtes und konfuses Relief, in das die Figuren wie eingezwängt erscheinen, ohne daß ihnen Bewegungs- und Handlungsspielraum gegeben wäre. Die Komposition ist nicht unähnlich der Spezialität Zellners, die ihn in seinem Bereich berühmt gemacht hat: In das ornamentale und wie zufällig erscheinende Muster der Marmorierungen szenische Darstellungen einzufügen, ja, sie für den flüchtigen Blick zu verstecken. Auch hier im Deckenbild erkennt man erst auf den zweiten Blick die Figur des Petrus, der in der Bildmitte auf Stufen kniet – dicht bedrängt von Kerkermauer und stürzenden Architektur-Teilen - und seine Arme einem Engel entgegenstreckt, der über ihm erscheint, unter einem Gewölbebogen mit einem kleinen, vergitterten, runden Fenster. Von den Armen Petri fallen eiserne Fesseln ab. Zwei Wächter sind in den Vordergrund eingebaut. Zwischen ihnen liegt ein Schlüssel, wohl weniger Hinweis auf das Öffnen des Kerkers als Attribut des Heiligen.
+
+Nach der Apostelgeschichte sagte Petrus nach seiner Befreiung: »Nun weiß ich in Wahrheit, daß der Herr seinen Enge
+
+gesandt hat« (Act 12,11). Darauf bezieht sich die Inschrift in der Kartusche über dem Hochaltar. Das Hauptaltarblatt zeigt die Schlüsselübergabe (Johann Anton Vogl, Landshut).
+
+In den gemalten Kartuschen der LHs-Stichkappen stammen acht Petrus-Symbole von Hans Kögl (1919).
+
+
+== Quellen und Literatur ==
+
+
+BHStA, Landshuter Abgabe 1993, 187: Neubau 1728/30. StAM, LRA 147945: Restaurierung 1921. StAL, Kirchenrechnungen Gericht Erding 1730, fol. 1631 ff. AEM, Pfarrakten Steinkirchen: Filiale Kirchberg. BLfD, Akt Kirchberg, St. Peter und Paul.
+
+Schmidtsche Matrikel, Bd 2, S. 149. Mayer-Westermayer, Bd 3, S. 485. Landkreis Erding 1963, S. 273. Brenninger 1780, S. 133. Brenninger, Georg, Die Kirchen der Pfarreien Schröding und Burgharting (Kirchenführer), Selbstverlag<sup>2</sup> 1983. Landkreis Erding 1985, S. 356. Dehio 1990, S. 529. Brenninger, Georg, Kirchberg, Filialkirche St. Peter und Paul (Kirchenführer), Kirchberg 1990.
+
+{{End}}

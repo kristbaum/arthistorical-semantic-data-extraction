@@ -1,0 +1,67 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=59
+|Originalseitenbis=60
+|Lemma=Bockhorn, Sakristei der Pfarrkirche Mariä Heimsuchung
+|Typ=Sakral
+|Ort=Bockhorn
+|davor=Blainthal, Filialkirche St. Ulrich
+|danach=Buch am Buchrain, Pfarrkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Sakristei in der Pfarrkirche Mariä Heimsuchung, Gemeinde Bockhorn, Erzdiözese München und Freising. Die Pfarre Bockhorn war Monatspfarrei. Unter den sechs Filialen waren Salmannskirchen (S. 271) und Hecken (S. 130). Gericht Erding
+
+'''Zum Bauwerk:''' Bischöflicher Konsens zum Neubau anstelle der kleinen und baufälligen gotischen Kirche am 9.3.1711, Ratifizierung (kaiserliche Administration) am 30.9.1711. Grundsteinlegung zum Chor, der als erstes gebaut werden sollte, im Mai 1712. Baumeister war der Erdinger Maurermeister Anton Kogler, Zimmermann Georg Diemer (Plan des Neubaus im AEM und im BHStA I). Der Rohbau des Chors und der guten Hälfte des LHs war 1714 eingedeckt und gewölbt, aber noch nicht verputzt. Weihe am 10.6.1723 durch den Freisinger Fürstbischof Johann Franz Eckher. 1890/91 Abbruch der Gewölbe in Chor und Lhs sowie des Chorbogens wegen Baufälligkeit und Ersetzen durch »eine Weißdecke in Gewölbeform« (StAM, LRA und BLfD). Bei diesem Anlaß wurde der Verlust der schönen Stuckierung bedauert, Fresken wurden nicht erwähnt.
+
+Das Deckenbild befindet sich in der Sakristei. Diese ist hufeisenförmig im Osten um das Chorhaupt der Kirche gelegt (Raummaße ca. 6,80×4,00 m) und hat noch die alte Einrichtung. Zugang von N und S über einen Gang. Belichtung vor Osten durch ein großes Vierpaß-Fenster, darunter, an der Ostwand, ein Wasserbecken.
+
+'''Auftraggeber:''' Sebastian Engelbrecht, Pfarrer von Bockhorn (1698–1721; Grabstein im LHs, Chorbogen-Südseite). Engelbrecht bemühte sich ab 1710 um den Neubau, was in der Zeit der kaiserlichen Administration nicht leicht war. Der Erdinger Pflegskommissar Martin Wächinger, der sich seiner Verdienste um die Kirchenbauten des Gerichts Erding rühmte, unterstützte auch hier den bauwilligen Pfarrer.
+
+'''Autor und Entstehungszeit:''' Zuweisung an Franz Albert Aiglstorffer (* um 1675 Wartenberg † 1741 Wartenberg; s. S. 238), um 1716/18
+
+Überzeugende Zuschreibung an Aiglstorffer durch Georg Brenninger 1986. Einen Hinweis zur Datierung kann der Stuck geben. Er zeigt in den zarten Blattranken mit den sehr plastischen Blättchen auffallende Ähnlichkeit mit entsprechenden Motiven in der Bibliothek von Ottobeuren 1715/16, auch die fast textil gefalteten Muscheln sind vergleichbar. Eine Zuweisung an Johann Baptist Zimmermann, der ab 1715 in Freising ansässig war, scheint nicht abwegig (dazu s. auch Isen, S. 169). Für ihn spricht auch die große Formenphantasie des Bockhorner Stucks, dessen Motive manchmal an Jugendstilmotive denken lassen. Da sich Zimmermanns Ornamentik in seiner Frühzeit fast von Jahr zu Jahr weiterentwickelte, kann man die Stuckierung der Sakristei – und damit auch ihre Ausmalung – auf 1715/18 einschränken, was mit den weniger Daten, die wir vom Bau haben, übereinstimmt. Ein Terminus post quem ist die Ausmalung von Itzling 1716, von der Aiglstorffer mehrere Motive übernahm.
+
+Das ehemalige Gewölbe der Pfarrkirche war einst stuckiert und wenn die Zuweisung des Sakristeistucks an Zimmermann zutrifft, wohl auch von Zimmermann. Ob das Gewölbe freskiert war, und wenn, von Aiglstorffer, ist nicht mehr zu klären. Heute befinden sich im LHs Fresken von Christian Seibold (1953).
+
+== Befund ==
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle
+
+Rahmen: Kräftiges Stuckprofil und breiter Außenrahmen mit reichem Ornamentstuck
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 3,35 m; 3,00×1,85
+
+Erhaltungszustand und Restaurierungen: Restaurierung des Deckenbildes 1867, weitere Restaurierungen sind nicht bekannt. Es ist gut erhalten, besser als die meisten Deckenbilder des älteren Aiglstorffer. Die Quadrierung ist noch erkennbar. Auch der Stuck ist gut erhalten. Die Farbfassung der Inschriften weist auf eine Bearbeitung vor oder um 1900.
+
+Beschreibung und Ikonographie
+
+MANNALESE Das hohe und schmale Bild ist an der Decke quer angebracht, mit Ansicht nach S. Landschaft mit den Zelten der Israeliten im Hintergrund. Im Vordergrund drängen sich Männer, Frauen und Kinder und sammeln das Manna, das wie Schnee in Flocken vom Himmel fällt und weißlich auf der Erde liegt. Links stehen Moses mit dem Stab, neben dem ein Knabe die Gesetzestafeln hält, und Aaron im hohenpriesterlichen Gewand. Im Himmel erscheint in Wolken Gottvater, auf die Weltkugel gestützt, von Engeln begleitet.
+
+Aiglstorffer übernahm die beiden Engelsgestalten bis ins Detail aus dem LHs-Fresko A der Kirche in Itzling (1716), das Johann Degler zugewiesen werden kann (s.S. 179). Auch in den Putten finden sich Details aus Itzling (z. B. die Beinhaltung des Putto unter der Weltkugel und der Putto mit den gefalteten Händen rechts). Von Johann Degler stammte das ehem. Hochaltarblatt von Bockhorn (Beschreibung von Pfarrer Lethner 1817, AEM).
+
+Die Farbigkeit des Deckenbildes wird von kräftigen Ocken bis Rotbraun-Tönen bestimmt, die auch die Konturen abgeben. Wenige Weiß- und Blaugrau-Akzente stehen dazu in Kontrast: Die Gewänder Gottvaters sowie Moses' und Aarons, die Flügel der Engel, die Zelte im Hintergrund und einzeln Gewandpartien beim Volk.
+
+Die (wahrscheinlich ursprüngliche) Inschrift in den sechs Kar
+<!-- citation-page-bottom: Band07 p59 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=6 -->
+<!-- citation-page-top: Band07 p60 -->
+
+<!-- header: BOCKHORN -->
+
+tuschen in den vier Raumecken sowie östlich und westlich vom Deckenbild ist dem Hymnus »Lauda Sion« des Thomas von Aquin entnommen, der Sequenz vom Fronleichnamsfest ECCE (SW) PANIS (W) ANGELO/RUM (NW) FACTUS (NO) CIBUS (O) VIATORUM (SO). In zwei Kartuschen an der N- und S-Seite weitere Inschriften: PROBET AUTEM SEIPSUM HOMO (S) ET SIC DE PANE / ILLO EDAT (N I Cor 11,28: »Probet autem seipsum homo: et sic de pane illo edat, et de calice bibat«). Alle diese Inschriften sind heute in Gold auf blauem Grund ausgeführt
+
+
+== Quellen und Literatur ==
+
+
+BHStA, Landshuter Abgabe 1993, 150: Neubau 1710/14; 150 Kirchturmreparatur 1778.
+
+AEM, Pfarrakten Bockhorn, 144 0001 01: Pfarrbeschreibung mit Beschreibung des Pfarrers Lethner 1817; 144 3002 01: Pfarrkirchenbauten; 144 3002 02: Baufälle 1862–1931. AEM, Kunsttopographie der Erzdiözese, Dekanat 23/Erding, Pfarrei Bockhorn, Pfarrkirche Mariä Heimsuchung (Georg Brenninger). BLfD, Akt Bockhorn, Pfarrkirche Mariä Heimsuchung. Schmidtsche Matrikel, Bd 1, S. 518 f. Mayer-Westermayer, Bd 1, S. 362 f. KDB I (OB) 2, 1214 f. Landkreis Erding 1985, S. 320. Dehio 1990, S. 141. A. B.
+
+{{End}}

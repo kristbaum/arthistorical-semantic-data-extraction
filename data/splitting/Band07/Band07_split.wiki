@@ -56,6 +56,18 @@ Die Drucklegung wurde von der Kreis- und Stadtsparkasse Erding und vom Landkreis
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk001.pdf#page=4 -->
 <!-- citation-page-top: Band07 p6 -->
 
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Erinnerung an Hermann Bauer (Band 7)
+|davor=
+|danach=Vorwort Dank (Band 7)
+|AutorIn1=Rupprecht, Bernhard
+}}
+
 <!-- header: HERMANN BAUER † -->
 
 
@@ -73,13 +85,25 @@ Besonders aber sind diese menschlichen Eigenschaften dem »Binnenraum« des Betr
 Hermann Bauer hat dem größten Corpusunternehmen der deutschen Kunstgeschichte über Jahrzehnte Inhalt und Form gegeben. Diese Prägung wird über seinen Tod hinaus Bestand haben, er hat mit diesem Werk bei vielen Personen und in der Wissenschaft sein bleibendes Andenken gestiftet.
 
 BERNHARD RUPPRECHT
+
+{{End}}
 <!-- citation-page-bottom: Band07 p7 -->
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band07 p8 -->
 
-
-== VORWORT DANK ==
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=8
+|Originalseitenbis=9
+|Lemma=Vorwort Dank (Band 7)
+|davor=Erinnerung an Hermann Bauer (Band 7)
+|danach=Altenerding, Pfarrkirche  Mariä Verkündigung
+|AutorIn1=Büttner, Frank
+|AutorIn2=Rupprecht, Bernhard
+}}
 
 
 Der heutige Landkreis Erding deckt sich weitgehend mit dem früheren Gericht Erding und dem kleinen Gericht Dorfen im ehemaligen Rentamt Landshut in Niederbayern. Die ehemals reichsfreie Grafschaft Haag im Süden mit St. Wolfgang und Schwindkirchen war im 18. Jh. unter kurfürstlicher Verwaltung. Die Hochfürstlich Freisingische Herrschaft Burgrain mit dem Kollegiatstift Isen bildete eine Enklave, die um 1700 eine gewisse Bedeutung für das Erdinger Land als Kunstlandschaft hatte. Das Gebiet, das in diesem Band behandelt wird, besaß weder bedeutende Schlösser noch Klöster – neben Isen ist nur das erst 1737 gegründete kleine Kollegiatstift St. Wolfgang zu nennen. Das Erdinger Land war in erster Linie Bauernland. Zwar gab es im Gericht siebzig Adelshofmarken und Sitze auch bedeutender bayrischer Adelsfamilien, aber die Hofmarkskirchen des 18. Jh. unterscheiden sich hier nicht von den Pfarr- und Filialkirchen. Von diesen Kirchen, erbaut von den Gerichtsmaurermeistern Hans und Anton Kogler sowie ihrem Nachfolger Johann Lethner, ist das Land geprägt. Sie gleichen sich alle in ihren hohen lichten Räumen, ihren weiten fragilen Gewölben und den geschwungenen Turmhauben. Bei ihrer Ausstattung richtete sich das Interesse der Auftraggeber oft mehr auf die Altäre, die im Durchschnitt erstaunlich gut sind, erst in zweiter Linie auf Stuck und Fresken.
@@ -102,7 +126,7 @@ Das Zustandekommen dieses Bandes war nur möglich durch das großzügige Entgege
 
 Frank Büttner und Bernhard Rupprecht
 <!-- citation-page-bottom: Band07 p9 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk001.pdf#page=6 -->
 <!-- citation-page-top: Band07 p10 -->
 
@@ -609,7 +633,7 @@ Dehio 1990 Georg Dehio, Handbuch der Deutschen Kunstdenkmäler, Bayern IV: Münc
 |Lemma=Altenerding, Pfarrkirche  Mariä Verkündigung
 |Typ=Sakral
 |Ort=Altenerding
-|davor=
+|davor=Vorwort Dank (Band 7)
 |danach=Amelgering, Filialkirche St. Lambert
 |AutorIn1=Bauer-Wild, Anna
 }}
@@ -9348,7 +9372,7 @@ Gemeindechronik von Walpertskirchen (mit Beitrag von Anton Gandl), 1999.
 |Typ=Sakral
 |Ort=Wörth
 |davor=Walpertskirchen, Pfarrkirche St. Erhard
-|danach=
+|danach=Bildnachweis (Band 7)
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -9610,13 +9634,23 @@ Schierl, Wolfgang, St. Peter in Wörth. Faltblatt, Wörth 1982. Landkreis Erding
 
 Dehio 1990, S. 1294.
 <!-- citation-page-bottom: Band07 p327 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=15 -->
 <!-- citation-page-top: Band07 p328 -->
 
-<!-- header: BILDNACHWEIS -->
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=328
+|Originalseitenbis=328
+|Lemma=Bildnachweis (Band 7)
+|davor=Wörth, Pfarrkirche St. Petrus
+|danach=Ortsregister (Band 7)
+}}
 
-<!-- header: Achim Bunz, München S. 21, 25, 27 unten, 33 – 38, 41, 48 Mitte, 55 – 57, 60, 62, 71 – 79, 81, 87, 96, 99 – 102, 106, 110-111, 113, 118, 121-126, 131-133, 135, 147-187, 195 – 208, 211, 226, 227, 229, 231 – 244, 265 – 269, 271, 272 – 274, 276, 278 – 279, 288 – 296, 304 – 311, 319, 321, 325 -->
+
+Achim Bunz, München S. 21, 25, 27 unten, 33 – 38, 41, 48 Mitte, 55 – 57, 60, 62, 71 – 79, 81, 87, 96, 99 – 102, 106, 110-111, 113, 118, 121-126, 131-133, 135, 147-187, 195 – 208, 211, 226, 227, 229, 231 – 244, 265 – 269, 271, 272 – 274, 276, 278 – 279, 288 – 296, 304 – 311, 319, 321, 325
 
 Wolf-Christian von der Mülbe, Dachau S. 22–23, 26, 27 oben, 29 – 30, 42 – 52, 63 – 67, 83 – 86, 88 – 95, 97-98, 105, 138-144, 189-194, 212-224, 228, 230, 247-252, 256, 258-261, 277, 300-301, 313-315, 318, 320, 322 – 324, 326
 
@@ -9624,12 +9658,21 @@ Kunsttopographie des Erzbistums München und Freising bzw. die betreffenden Pfar
 
 Gregor Peda, Passau (S. 257) Konrad Rainer, Salzburg (S. 298) Dieter Reichler, München (S. 114-117, 122 links unten, S. 283) Erwin Wiegerling, Gaißach bei Bad Tölz (S. 299) Ein Teil der Schwarz-Weiß-Abzüge wurde im Fachlabor Blow up, München, hergestellt. Photos von Zeichnungen stammen von den betreffenden Sammlungen.
 
+{{End}}
 
 == REGISTER ==
 
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=329
+|Originalseitenbis=329
+|Lemma=Ortsregister (Band 7)
+|davor=Bildnachweis (Band 7)
+|danach=Personenregister (Band 7)
+}}
 
-
-== Ortsregister ==
 
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
@@ -9686,8 +9729,18 @@ Zell 178
 
 <!-- header: PERSONENREGISTER -->
 
+{{End}}
 
-== Personenregister ==
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=330
+|Originalseitenbis=332
+|Lemma=Personenregister (Band 7)
+|davor=Ortsregister (Band 7)
+|danach=Ikonographisches Register (Band 7)
+}}
 
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Maler bzw. auf die behandelten Objekte
@@ -10015,8 +10068,18 @@ Zollner, Maria, Brodbäuerin in Berglern 53 Simon, Brodbauer in Berglern 53 Zunh
 
 Zwingli, Ulrich, Reformator 304
 
+{{End}}
 
-== Ikonographisches Register ==
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=333
+|Originalseitenbis=341
+|Lemma=Ikonographisches Register (Band 7)
+|davor=Personenregister (Band 7)
+|danach=Embleme-Register (Band 7)
+}}
 
 
 Aaron, Hoherpriester 59, 164, 289 Mannalese 138 Eherne Schlange 144 Abel 289 Abigail als Antetypus Mariens 24, 26 Abraham 24, 289 Opfer Isaaks 65 f., 232 Abtsinsignien → Insignien Abundius, Sohn des Placidus 111, 117 Achatius, hl., Nothelfer 125 Adam und Eva 65, 195, 289 Vertreibung aus dem Paradies 196–99 vor der Dreifaltigkeit 195, 198 werden als Erlöste ins Paradies geführt 200 Adler auf der Fahne Florians 241 bewacht die Leiche Florians 240 f. fliegt zur Sonne auf 160 speist Vitus und seine Begleiter 72, 78 → Johannes 222, 295 Aegidius, hl., Nothelfer 125, 134 Apfel, drei goldene – Nikolaus von Myra 107 Africa → Vier Erdteile 20, 282, 314 Ahasver, König 24, 26 Alexander, hl., Papst 82 Allerheiligen-Litanei, Bitten 106 Almosen zum Heil der Armen Seelen 167f. Alpais, Geliebte König Pippins 39 Alpha und Omega 138 Altar 73, 187, 200 Alttestamentliche Gestalten 24 Ambrosius von Mailand, hl., Kirchenvater 223, 244, 278 America → Vier Erdteile 20, 282, 314 Amiens 64, 253 Ammoniter 24 Andreas, hl., Apostel 53, 244, 304 Wunderbarer Fischfang und Berufung 323 Anker → Spes 76 Anna, Mutter Mariens 20, 22, 28, 156, 244, 266, 276, 278, 286, 292, 300 Geburt Mariens 90 Patronin in Altenerding 24 Patronin in Reichenkirchen 148, 150 Embleme 150f. Antonius von Padua, hl. 129, 230 Patron in Niederstraubing 232 f. Patron und Wundertäter 148f. 151 Embleme 150–52 Apfel → Sündenfall 65, 198 Apollonia von Alexandria, hl. 22 Apollonius, Schüler Valentins von Terni Bekehrung und Taufe 111, 117 Enthauptung 111 Apostel, Zwölf 53, 158, 214, 243 f., 262, 327 Letztes Abendmahl 141 Ölberg 249 Himmelfahrt Christi 250, 294 Pfingsten 250, 294 Himmelfahrt Mariens 94, 248, 294, 298, 312 Apotheke 165 Aquilinus 240f. Arche 289 Ariadne 160
@@ -12057,6 +12120,18 @@ Prophezeiung der Geburt durch einen Engel 173, 176 vom Teufel aus der Stadt getr
 
 Erweckung des Sohns eines mildtätigen Mannes 173f. verschafft einem Toten Zeit zur Buße 173 f. Wetter-, Feuer und Viehpatron 174 Zepter → Maria 218 → Asia 20 → Europa 20, 282 → Katharina 125 → Oswald 273 → Sigismund 82 Zirkel → Joseph 264 Zodiakus 160 Zwingli, Ulrich, als Ketzer 304
 
+{{End}}
+
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=342
+|Originalseitenbis=344
+|Lemma=Embleme-Register (Band 7)
+|davor=Ikonographisches Register (Band 7)
+|danach=
+}}
 
 == Embleme-Register ==
 

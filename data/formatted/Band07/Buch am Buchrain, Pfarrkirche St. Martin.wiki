@@ -1,0 +1,224 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=61
+|Originalseitenbis=69
+|Lemma=Buch am Buchrain, Pfarrkirche St. Martin
+|Typ=Sakral
+|Ort=Buch am Buchrain
+|davor=Bockhorn, Sakristei der Pfarrkirche Mariä Heimsuchung
+|danach=Burgharting, Pfarrkirche St. Vitus
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Pfarrkirche, Gemeinde Buch am Buchrain, Erzdiözese München und Freising. Buch war ehedem Wechselpfarrei, in Zusammenhang mit der Gründung des Kollegiatstifts St Wolfgang (s. S. 275) durch Karl Albrecht aber trat der Kurfürst sein Monatsrecht an den Bischof ab (1733/34). An der Kirche bestand eine Allerseelenbruderschaft. Zu Buch gehörte als Filiale Tading (s. S. 296). Gericht Erding
+
+
+'''Patrozinium:''' St. Martin
+
+
+'''Zum Bauwerk:''' Spätgotischer Bau, dessen LHs um 1707 erneuert wurde (Baumeister Anton Kogler). 1760 spaltete sich der alte Sattelturm und zog das Chorgewölbe in Mitleidenschaft. 1761 mußte »das zum täglichen Einfahlen sich zeigente Chorgwölb abgebrochen: mit einen neuen Tachstuehl, statt des alt verfaulten versichert: sohin wider neu gewölbt ... werden«. Überschläge von Maurermeister Johann Lethner und Zimmermeister Johann Degle (StAL, Regierung Landshut). Stuckierung 1761. Schöner Rokokostuck, wohl unter Beteiligung des Erdinger Stuckators Martin Pichler (frdl. Mitt. Gerhard Koschade, Erding). Altarausstattung ab 1761 (Matthias Fackler und Christian Jorhan, Fassung Andreas Zellner aus Furth, Altarblätter der Seitenaltäre 1762 von Franz Xaver Zellner aus Erding). Weihe 1762.
+
+1911 Verlängerung der unteren Empore um 1,50 m nach O und Ausbrechen von kleinen Ovalfenstern im westlichen LHs-Joch.
+
+LHs zu drei Jochen mit Vorhalle im W, Doppelempore im W, Gliederung durch schmale Wandvorlagen mit asymmetrisch geschwungenen Gebälkstücken; gleichmäßige Belichtung durch hohe Rundbogenfenster in allen Jochen, im westlichen Joch jedoch nur halbhoch wegen der Empore. Leicht eingezogener AR zu zwei Jochen mit dreiseitigem Schluß, Gliederung wie im LHs, die Pilaster aber tiefer. Belichtung durch zwei Fenster von N und eines im S.
+
+'''Auftraggeber:''' Gabriel Caspar Parzer, Pfarrer von Buch am Buchrain (1747–1774), der drei Jahre später von Heigl auch seine Filiale Tading ausmalen ließ. »Meines Orths hab ich zwai / iedoch ohne Ruhmm zu melden / zu dickherwendt (mehrfach erwähnt) hisigen Pfarrgottshaus an Zierdt, und anderer Nothwendigkeiten schon würkhlich ein, so anderes hunder Gulden von dem meinigen beygetragen« (StAL, Regierung Landshut; auf dem rechten Seitenaltarblatt die Stifterinschrift Parzer Parochus 1762). Er gab Heigl wohl, wie in Tading, Verpflegung und Unterkunft und rechnete wie in Tading auch in Buch mit einem Anwachsen der Besucher- bzw. Wallfahrerzahl, und damit, daß die Ausgaben »durch das künfftighir gewis reichlicher-fahlente Opffer anwider ersezet werden« könnten, »wie eben bey dem Gottshaus Dading ihrer Zierdt und Aufbuzes halber das Opffergefähl schon etliche Jahr anhero iedesmahl umb 100 f. mehr als zu vor angewaxen ist« (ebda).
+
+Parzer beauftragte Heigl auch mit der Lüftlmalerei am Pfarrhof in Buch (errichtet 1756/57, s. Landkreis Erding 1985 S. 327).
+
+'''Autor und Entstehungszeit:''' Johann Martin Heigl (* unbekannt †1774) 1762. Chronogramm am Chorbogen MAR- TINO / VIRTVS DECET / A CAELO (= 1762).
+
+Die Fresken sind nicht signiert. In der Beschreibung der Pfarrei Buch am Buchrain von Jakob Hauber 1818 (AEM) heißt es »Das Langhaus von Joh. Heigl von München mit Fresco Mah lerey niedlich ausgemahlen, u. im Jahre 1762 neu eingeweihet ... «. In der Literatur sind die Fresken erstmals als Arbeiten Heigls erwähnt in den KDB, seitdem unwidersprochen.
+
+
+[[File:Band07_chunk002_p006_img001.jpg|thumb|Mannales]]
+<!-- citation-page-bottom: Band07 p61 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=7 -->
+<!-- citation-page-top: Band07 p62 -->
+
+[[File:Band07_chunk002_p007_img001.jpg|thumb]]
+
+In Buch am Buchrain tritt Heigl zum erstenmal als Freskant im Gebiet des ehem. Gerichts Erding auf, wo in den folgenden Jahren noch die Ausmalungen von Maria Thalheim (1764), Tading (1765), Altenerding (1767) und Langengeisling (1767) entstehen sollten.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, A<sub>a-f</sub>) und AR (B, B<sub>1-2</sub> B<sub>a-d</sub>) flache Tonne mit Stichkappen, im AR im O abgemuldet Rahmen: A geschwungenes Stuckprofil aus C-Bögen mit Ornamentierung an den Gelenken, an der Außenseite eine Goldleiste, überspielt von Ranken; B geschwungenes, ornamentiertes Stuckprofil mit äußerer und innerer Goldleiste von Ranken überspielt. A<sub>a-f</sub>, B<sub>1-2</sub> und B<sub>a-d</sub> stuckierte Rocaille Kartuschen
+
+Technik: Fresko; A und B polychrom; A<sub>a-f</sub>, B<sub>1-2</sub> und B<sub>a-c</sub> monochrom graubraun
+
+Maße: A Höhe 9,00 m; 9,20×5,30
+
+Erhaltungszustand und Restaurierungen: Im 19. Jh. mehrfach Bauarbeiten an der Kirche, die als »schwachgebaut und morsch« bezeichnet wurde (LRA). Neufassung des Innenraums 1879. Schlaudern des Gewölbes im Hauptschiff 1890. Erste große Innenrestaurierung 1911 mit Trockenlegungsarbeiten und Restaurierung der Deckenmalerei durch Karl Weinzierl, Isen. Die Hauptfresken waren noch gut erhalten, sie wurden gereinigt, Sprünge geschlossen und Fehlstellen retuschiert. Schlechter war der Zustand der Kartuschen: »Hier wird es allerdings nötig sein, auch die ziemlich verwischte Zeichnung da und dort zu ergänzen unter tunlichster Schonung und möglichster Beibehaltung des alten Bestandes« (StAM, LRA). Das Generalkonservatorium schlug eine Bemalung des Chorbogens mit hellgrauem Rokoko-Damastmuster auf grünem Grund vor. Stuckierung der unteren, nach vorn versetzten Emporenbrüstung durch Hans Drescher, Landshut, nach altem Vorbild. Damals wurde auch das Brüstungsbild der oberen Empore, deren Mittelteil durch einen Orgelbau verdeckt war, neu gemalt. Die Malereien im Vorhaus wurden freigelegt (s. S. 68). Erneute Innenrestaurierung unter der Leitung von Prof. Voraus 1935. Die Fresken hatten nach 1935 ...
+
+
+
+[[File:Band07_chunk002_p007_img002.jpg|thumb|A Mantelspende des hl. Martin von Tours]]
+<!-- citation-page-bottom: Band07 p63 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=8 -->
+<!-- citation-page-top: Band07 p64 -->
+
+<!-- header: BUCH AM BUCHRAIN -->
+
+<!-- header: BUCH AM BUCHRAIN -->
+
+ten Feuchtigkeitsschäden, A zeigte gravierende Längsrisse. Trockenlegungsarbeiten am Bau, Reinigung und Restaurierung der Fresken, die Feuchtigkeitsschäden zeigten, durch Michael Gottschalk, Taufkirchen; Raumfassung durch Karl Weinzierl, Isen.
+
+Vor der nächsten Innenrestaurierung 1967 stellte man wegen Verschiebungen im Hügel, auf dem die Kirche steht, Risse fest. In den Fresken waren erneut Feuchtigkeitsschäden aufgetreten (Schimmel, Stockflecken, Salpeterausblühungen, Abblätterungen). Restaurierung der Fresken durch Hanns Müller-Werther, Ebersberg, der Raumschale durch Johann Eder, Vaterstetten. Die Risse wurden geschlossen und eingestimmt, die Fresken gereinigt, Übermalungen früherer Restaurierungen wurden abgenommen.
+
+Letzte Restaurierung 1981 durch Johann Eder, Vaterstetten. Die durch die Feuchtigkeit und ihre Folgeschäden schon sehr beeinträchtigten Deckenbilder reinigte er trocken und mit großer Vorsicht, die Abblätterungen, die durch eingesickerte Dachabwässer entstanden waren, wurden fixiert. An der Raumschale Wiederherstellung der Fassung von 1762 (Befunduntersuchung Klaus Klarner, München). Der Zustand ist heute bereits wieder durch starke Verschmutzungen, Vergrauung und einzelne Feuchtigkeitsschäden beeinträchtigt. Vor allem Fresko B und die Zwickelbilder zeigen Übermalungen.
+
+== Beschreibung und Ikonographie ==
+
+A MANTELSPENDE DES HL. MARTIN VON TOURS Dargestellt ist die bekannteste Szene aus der Vita des hl. Martin von Tours: Unmittelbar vor seiner Taufe begegnete der römische Soldat Martin vor dem Stadttor von Amiens einem nackten Bettler. Martin schnitt mit dem Schwert seinen Mantel in zwei Teile und gab ein Teil dem Nackten. In der folgenden Nacht erschien ihm Christus, bekleidet mit Martins halbem Mantel, und sprach: Martin, obwohl erst Katechumene, hat mich mit diesem Mantel bekleidet (»Martinus, adhuc Catechumenus, hac me veste contexit«. Vita des Sulpicius Severus 3,4). Über einem seichten dunklen Wiesenstück im Vordergrund führt Heigl mit Felsen links und einer Quaderbrücke rechts ins Bild ein. Den Mittelgrund nimmt eine fast bildparallel verlaufende Straße ein. Martin kommt auf seinem Pferd von rechts; links erhebt sich ein Bettler vom Straßenrand, nur mit Lumpen bekleidet und auf eine Krücke gestützt, und fleht mit ausgestrecktem Arm um ein Almosen. Martins Pferd scheut zurück, und Martin selbst teilt mit dem Schwert seinen weiten roten Mantel. Die Bildkomposition wird gerahmt von einem hoch am Rahmen aufwachsenden Baum und einem felsigen Burgberg. Zu Füßen des Berges sieht man ein rundes dunkles Tor, das Stadttor von Amiens. Rechts geht der Blick frei auf ein Zeltlager im Hintergrund.
+
+Über der Szene erscheint Christus, von Engeln begleitet. Er beugt sich von der Wolke, auf der er thront, nach vorn und blickt auf Martin. Die Arme hat er liebend ausgebreitet, gleichzeitig in einer Geste des Wundmale-Zeigens. Ein großer Engel neben Christus hat die Hälfte des roten Mantels in Händen, die Martin dem Bettler schenkte.
+
+Die auf Rot und Ocker mit wenig Grün, das nach Blau oder Ocker abgewandelt ist, aufgebaute Farbigkeit ist vergraut und die ursprüngliche Farbwirkung beeinträchtigt. Landschaft, Felsen und Wolken zeigen einen braun-grauen Gesamtton, von dem die Gewandfarben sich klar abheben, die Strahlenglorie erscheint in silbrigweißem Licht.
+
+A<sub>a-f</sub> EMBLEME In den sechs Kartuschen der LHs-Gewölbezwickel befinden sich Embleme und emblemähnliche Darstellungen, wie öfters bei Heigl ohne Lemmata. Sie beziehen sich auf Martin von Tours und seine Tugenden als Seelenhirt.
+
+A<sub>a</sub> Schäferstab, von einer Hand aus Wolken in einer Landschaft gehalten. Er erinnert an das Hirtenamt des Heiligen; im Fresko B<sub>b</sub> in Langengeisling ist es genauer ausgeführt: Der Hirtenstab schützt die Herde vor dem Wolf.
+
+A<sub>b</sub> Mitra und Helm. Am Boden liegt ein römischer Soldatenhelm, darüber erscheint von Strahlen umgeben in einem Wolkenkranz eine Mitra. Das Bild ist wie A<sub>a</sub> kein eigentliches Emblem. Es erinnert daran, dass Martin seine Stellung als römischer Soldat aufgab und später Bischof wurde.
+
+A<sub>c</sub> Kranich mit dem Stein. Auf der Erde steht ein Kranich, der einen Stein in einer erhobenen Kralle hält. Darüber nächtlicher Himmel mit Mond und Sternen. Der Kranich, der einen Stein hält, um nicht einzuschlafen, während er den Schlaf der übrigen Kraniche bewacht, ist Bild der Wachsamkeit des guten Hirten, des Bischofs oder Fürsten: »ME STANTE NIL TIMEN- DUM. Ita, dum Principes ac Praelati vigiles persistunt, Provinciae ac Religiones nil, quod timeant, habent; illorum enim vigilantia, ad omnem hostium incursum attenta, quietem ac tranquillitatem felicissimam subditis praestat« (Picinelli, Lib. IV, Nr. 414 und passim, s. v. grus).
+
+A<sub>d</sub> Gans. Sie ist Attribut des hl. Martin, weil ihn einst Gänse verraten hatten, als er sich versteckt hatte, um dem Bischofsamt zu entgehen. Deshalb kann die Gans, in der Emblematik meist Bild der Geschwätzigkeit, auch Bild dessen sein, der zur rechten Zeit seine Stimme erhebt. Picinelli zitiert den hl. Gregor: »Sicut incauta locutio in errorem pertrahit, ita indiscretum silentium eos, qui erudiri poterant, in errore relinquit« (Lib. IV, Nr. 84, s. v. anser). So ist die Gans hier Bild des guten Seelenführers.
+
+A<sub>e</sub> Huhn und Raubvogel. Eine Huhn, das Küken unter seinen Flügeln beschützt, duckt sich hinter einen Schild. Aus dem Himmel stößt ein Raubvogel nieder. Auf den Schild hin fliegen Pfeile, die abbrechen. Das Huhn, das seine Küken vor dem Angriff des Raubvogels schützt, ist Bild des göttlichen Schutzes (Picinelli, Lib. IV, Nr. 357, s.v. gallina), auch des Schutzes durch Maria (Nr. 363) oder den Seelenhirten (Nr. 364); hier auf Martin in dieser Eigenschaft angewandt. Ähnlich ist das Bild des Schildes zu deuten, der Angriffe abwehrt (vgl. B<sub>a</sub> in Langengeisling).
+
+A<sub>f</sub> Kerze. Auf einem Tisch steht eine hell brennende Kerze (vgl. A<sub>b</sub> in Langengeisling, S. 192). Die Kerze, die sich verzehrt, während sie anderen leuchtet, ist Bild des liebenden Seelenhirten (Picinelli, Lib. XV, Nr. 42 s. v. candela).
+
+[[File:Band07_chunk002_p008_img001.jpg|thumb]]
+
+[[File:Band07_chunk002_p008_img002.jpg|thumb|Kranich mit Stein]]
+
+[[File:Band07_chunk002_p008_img003.jpg|thumb]]
+
+[[File:Band07_chunk002_p008_img004.jpg|thumb|Helm und Mitra]]
+
+[[File:Band07_chunk002_p008_img005.jpg|thumb]]
+
+[[File:Band07_chunk002_p008_img006.jpg|thumb|A, Ma]]
+
+B RATSCHLUSS DER ERLOSUNG Das Fresko zieht sich über die gesamte Länge des AR-Gewölbes. Zentrum des Bildes ist die Taube des Hl. Geistes inmitten einer weiß strahlenden Glorie. Über dieser Glorie thront Gottvater, mit der Rechten auf den Hl. Geist weisend. Am östlichen Bildrand ist auf einem schmalen Erdstreifen die Weltkugel zu sehen, und in ihr Adam und Eva unter dem Baum der Erkenntnis, um den sich die Schlange windet. Eva gibt eben Adam, der noch abwehrt, den Apfel.
+
+Engel halten Leidenswerkzeuge Christi: die Würfel über dem roten Gewand (um das gewürfelt wurde), die Geißelsäule mit Geißel und Rute, den Schwamm auf der Stange und die Lanze. Einer der beiden Putten bei Gottvater hält den Schilfstengel. Die Darstellung bezieht sich inhaltlich wie formal auf den großen Kruzifixus im Aufbau des Hochaltars, der, vom Schiff aus gesehen, ins Bild ragt. Dass es sich dabei um eine Variante des Bildthemas ›Ratschluß der Erlösung‹ handelt, zeigt die Taube des Hl. Geistes, die an zentraler Stelle erscheint. Der Hl. Geist steigt mit Christus nieder, er wirkt mit am Erlösungswerk (Schiller, Bd 1, S. 21 f.). Die Engel bringen die Leidenswerkzeuge zur Erde nieder, die, unerlöst durch die Schuld der ersten Menschen, in Form der Weltkugel unten im Bild dargestellt ist. Im Kruzifixus des Hochaltars, dessen enge ikonographische Beziehung zum Fresko evident ist, ist bereits das vollendete Erlösungswerk dargestellt.
+
+B<sub>1-3</sub> PRÄFIGURATIONEN DES OPFERS CHRISTI Die großen Kartuschen an den mittleren Gewölbezwickeln des AR beziehen sich auf das Thema des Hauptbildes.
+
+B<sub>1</sub> ABRAHAM UND ISAAK (Gen 22) Auf einem Holzstoß liegt Isaak. Abraham holt eben mit dem Messer aus, um den Sohn zu töten. Ein Engel vom Himmel fällt ihm in den Arm. Das Opfer Abrahams ist typologisches Vorbild für den Opfertod Christi und dessen Erneuerung in der Eucharistie.
+<!-- citation-page-bottom: Band07 p65 -->
+
+<!-- citation-page-top: Band07 p66 -->
+
+
+[[File:Band07_chunk002_p009_img001.jpg|thumb]]
+
+
+
+[[File:Band07_chunk002_p009_img002.jpg|thumb|R Dolikan]]
+
+
+
+[[File:Band07_chunk002_p009_img003.jpg|thumb]]
+
+
+
+[[File:Band07_chunk002_p009_img004.jpg|thumb]]
+
+
+
+[[File:Band07_chunk002_p009_img005.jpg|thumb]]
+
+
+
+[[File:Band07_chunk002_p009_img006.jpg|thumb|B Ratschluß der Erlösung]]
+
+
+
+[[File:Band07_chunk002_p009_img007.jpg|thumb]]
+
+
+Zur barocken Ausstattung gehören 7 Ölgemälde in Stuckrahmen an den Wänden des Langhauses und an der rechten Chorwand mit Darstellungen der Sieben Barmherzigkeiten: Gefangene besuchen – Kranke pflegen – Tote begraben – Hungrige speisen – Durstige tränken – Nackte bekleiden – Fremde beherbergen. An der linken Chorwand zwei Ovalmedaillons Hl. Wendelin und hl. Notburga.
+
+
+[[File:Band07_chunk002_p009_img008.jpg|thumb]]
+<!-- citation-page-bottom: Band07 p67 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=10 -->
+<!-- citation-page-top: Band07 p68 -->
+
+[[File:Band07_chunk002_p010_img001.jpg|thumb]]
+[[File:Band07_chunk002_p010_img002.jpg|thumb]]
+[[File:Band07_chunk002_p010_img003.jpg|thumb|Fresken in der Vorhalle: W<sub>1</sub>, Christi-Blut-Brunnen als Heil der Armen Seelen (Mitte), W<sub>2</sub> und W<sub>3</sub> die Eitelkeit des irdischen Lebens (seitlich)]]
+
+== Vorhalle mit Beinhaus ==
+
+'''Zum Bauwerk:''' Dem Westeingang der Kirche ist eine kleine Eingangshalle vorgelegt, mit einem kapellenartigen Anbau (Beinhaus) im W, der an jeder seiner drei Seiten eine Wandnische hat. Die drei Wandflächen sind bemalt, die beiden seitlichen auch beschriftet, auf den drei Schildbogen befinden sich zusätzlich Inschriften.
+
+'''Auftraggeber:''' Die Thematik der Bilder weist auf die Allerseelenbruderschaft hin. Pfarrer in der Zeit, in der die Freskierung anzunehmen ist, waren Felix Marquard von Kray (1718–20), Paulus Schifferer (1720–32) und Johannes Schwarz (1732–37).
+
+'''Autor und Entstehungszeit:''' Zuweisung an Franz Albert Aiglstorffer (* um 1675 Wartenberg † 1741 Wartenberg) um 1716/35. Die Zuschreibung wird durch die einfachen Darstellungen – die einzig figürlichen sind die des leidenden Jesus in W<sub>1</sub> und der Armen Seelen –, die zudem sehr schlecht erhalten sind, erschwert. Die langen Inschriften sprechen für Franz Albert oder seinen Sohn Franz Joseph Aiglstorffer, die Figuren eher für den Vater als für den Sohn, dessen Ausmalung der Friedhofskapelle in Hohenpolding 1753 (S. 167) bei ähnlicher Thematik doch erhebliche Unterschiede zu Buch zeigt. Hinweis auf die Entstehungszeit gibt es nicht, die erhaltenen Freskierungen des älteren Aiglstorffer stammen aus der Zeit zwischen 1716 und 1735.
+
+== Befund ==
+
+Träger der Wandmalerei: Rückwände der Nischen in der Vorhalle  
+Rahmen: Einfache Strichrahmen mit bräunlichen Streifen  
+Technik: Secco; polychrom, mit den vorherrschenden Farben gelber und roter Ocker  
+Maße der Nischen: Mittelnische (W<sub>1</sub>) 2,00×1,50 | Seitennischen (W<sub>2</sub> und W<sub>3</sub>) 2,00×1,14  
+
+Erhaltungszustand und Restaurierungen: Die Malereien der Vorhalle wurden anläßlich der Innenrestaurierung 1911 durch Karl Weinzierl, Isen, freigelegt und restauriert.
+
+Beschreibung und Ikonographie
+
+W<sub>1</sub> CHRISTI-BLUT-BRUNNEN ALS HEIL DER ARME SEELEN  
+Wandbild an der W-Wand mit segmentförmigem oberen Abschluß. Über einer Darstellung des Fegfeuers mit Armen Seelen in den Flammen erscheint auf einem sich halbkreisförmig nach unten senkenden weißen Wolkenbogen die Gestalt des dornengekrönten Jesus über einer Brunnenschale. Aus seinen fünf Wunden fließt Blut in die bereits blutgefüllte Schale. Das Blut fließt über den Beckenrand nach unten, als Heilsmittel für die Armen Seelen. Überschrift auf dem Schildbogen auf zwei Schriftblättern, dazwischen ein Totenkopf auf gekreuztem Gebein:  
+»Euch Heilige Wunden Grüss Ich Von Herzen, / durchbohrt Mit Nägeln, Ach Gröster Schmerzen. / Ihr Seyt Alß Rosen gfärbt Mit Blut / Und Rinnet Stetß Nur Uns Zu Gut« (linke Hälfte).  
+»Betracht Mein Leiden in Dißer Pein, / Sitzen Villeicht die Eltern Dein, / Wenn Du Für Sie Würst Lüsstig betten, / kanst Sie Heraus Gar leicht Errethen« (rechte Hälfte).
+
+W<sub>2</sub> und W<sub>3</sub> DIE EITELKEIT DES IRDISCHEN LEBENS  
+Die beiden Seitenwände sind wagrecht geteilt, so daß jede zwei querformatige Bilder zeigt. Am Schildbogen befindet sich jeweils ein Schriftblatt mit einem Vers, der sich auf das obere Bild bezieht. Der Vers zwischen den beiden Bildern bezieht sich jeweils auf das untere Bild.
+
+W<sub>2</sub>  
+Totenkopf auf gekreuztem Gebein, umgeben von Tiara, Kurhut, Krone, Helm und Waffen (oben):  
+»Der Tod Sicht keinen Menschen an, / Er seye baur Oder Edelman, / Er Underscheid kein NATION, / Wer Ihm Gefällt Mues Mit Darvon.«  
+
+Totenkopf auf gekreuztem Gebein, daneben ein Rosenstrauch, dessen Blüten die Blätter verlieren (unten):  
+»Seyn, Gewesen sein, Seyn werden / Seynd Drey Dirre blum Auf Erden, / Das Gewesen, Das Ist, Das Wird sein / Gehn Hin Wie Dunst Wie Evtler Schein.«  
+
+W<sub>3</sub>  
+Totenkopf auf gekreuztem Gebein und Sanduhr (oben):  
+»Das Wür Nichts Seynd In disen Schnöden Leben, / Als Ein Elendes Volk mit Tod Umgeben / beweist Uns Solches Clar Und Rund, / Ein Jedes Jahr, Woch, Tag Und Stund.«  
+
+Totenkopf auf gekreuztem Gebein, daneben eine geknickte Kerze (unten):  
+»Ah Mensch was bist, / Ein Erd Ein Mist, / würst auch nicht anders werden / schau an das Liecht wie es sich biecht / Und neigt sich zu der Erden.«  
+
+== Quellen und Literatur ==
+
+StAM, LRA 147536: Baufälle und Restaurierungen 1875–1935  
+StAM, Landbauämter 134: Baureparaturen 1837, 1850  
+StAL, Regierung Landshut A 4072 (Chorgewölbe und Altäre 1760/61)  
+StAL, Kirchendeputation Landshut A 1974: Zu Pfarrer Parzer  
+AEM, Pfarrakten Buch am Buchrain, 148 0001 01: Pfarrbeschreibung; 148 3002 01: Baufälle 1907–1936  
+BLfD, Akt Buch am Buchrain, Pfarrkirche St. Martin  
+Schmidtsche Matrikel 3, S. 88f.  
+Mayer-Westermayer Bd 3, S. 96f.  
+KDB I OB (2), S. 1215  
+Reindl, Josef, Beiträge zur Geschichte der Pfarrei Buch am Buchrain und der dazugehörigen Orte (Ms. im Pfarrarchiv)  
+Kemp, S. 175  
+Landkreis Erding 1985, S. 325–27  
+Koschade, Gerhard, Kirchenausstattungen von Matthias Fackler (1721–1792) im Erdinger Raum (Magisterarbeit München 1987), S. 56, 65  
+Kupferschmied, Thomas Johannes, Der Freskant J. Martin Heigl. Arbeiten für Johann Baptist Zimmermann und selbständige Werke (= Schriften aus dem Institut für Kunstgeschichte der Universität München Bd 41), München 1989, S. 50–52  
+Dehio 1990, S. 146  
+
+<!-- citation-page-bottom: Band07 p69 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=11 -->
+{{End}}

@@ -1,0 +1,158 @@
+{{Artikel
+|Band=7
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=225
+|Originalseitenbis=230
+|Lemma=Niederding, Pfarrkirche St. Martin
+|Typ=Sakral
+|Ort=Niederding
+|davor=Maria Thalheim, Pfarrkuratie- und Wallfahrtskirche Mariä Himmelfahrt
+|danach=Niederstraubing, Filialkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Pfarrkirche (Pfarrverband Aufkirchen), Gemeinde Oberding Erzdiözese München und Freising; z. Z. der Ausmalung Filial der Pfarrei Aufkirchen, die der Domdechantei in Freising inkorporiert war. In Niederding bestand ein Benefizium. Der Edelmannssitz Niederding gehörte seit 1685 dem Jesuitenkolleg Landshut. Gericht Erding
+
+
+'''Patrozinium:''' St. Martin
+
+
+'''Zum Bauwerk:''' Ratifikation der Pläne zum Neubau anstelle der gotischen, 1689/90 veränderten Kirche unter Verwendung alten Mauerwerks am 11.1.1758, bischöflicher Konsens am 10.4.1758, Grundsteinlegung Anfang Mai. Baumeister war Johann Baptist Lethner, Zimmermeister Johann Degle von Erding. Hübscher Rokoko-Stuck. Fertigstellung und Abrechnung des Neubaus 1760 (StAL, Kirchenrechnung Erding 1760). Inschrift am Wandbild W1 an[n]Vs Iste sanCto MartIno / ae Des restaVraVIt, noVas eX/trVXIt, atqVe saCraVIt (= 1760). 1761/62 neue Einrichtung mit drei Altären und Schiffskanzel (Schreiner Andreas Rauscher, Bildhauer Christian Jorhan, Maler Joseph Anton Abfalter, alle Landshut, Fassung Andreas Zellner aus Furth). Datum am Hochaltar 1762. Weihe am 16.5.1764.
+
+LHs zu fünf Jochen mit gerundeten Ecken, Gliederung durch seichte Wandpfeiler, denen Pilaster vorgelegt sind, Empore im W; gleichmäßige Belichtung von N und S in allen Jochen. Eingezogener AR zu zwei Jochen mit halbrundem Schluß, Gliederung wie im LHs; Belichtung durch zwei Fenster von N, eines von S und zwei in den Schlußschrägen.
+
+'''Auftraggeber:''' Baubeginn unter Johann Georg Kayser, Pfarrvikar von Aufkirchen (1745-59), dessen Nachfolger Franz Christoph Naasn (1759-72) war. Aufkirchen hatte zwei Kooperatoren: Der erste war für Oberding und Niederding zuständig. Er wohnte in Niederding und genoß neben seinen Einkünften als Kooperator das bescheidene Benefizium, z.Z. der Ausmalung war es Paulus Schmid († 1768). Daß er mit der Ausmalung zu tun hatte, läßt die Inschrift am Chorbogen (s. Autor) vermuten, die sich auf die >zwei Dienge \ bezieht, also
+
+
+[[File:Band07_chunk005_p013_img003.jpg|thumb]]
+
+
+auf seinen Seelsorgsbereich. Das Gericht Erding schrieb am 11.4.1761, die Kirche sei vor einem Jahr »vollents ausgepauet, und zu jedermans Gefahlen hergestellet ... auch von Guetthättern sauber ausgemahlen ... worden« (StAL, Reg. Landshut). Der Geistliche Rat in München hatte vor der Ratifikation gemahnt, alle »überflüssige Zierlichkeit in Errichtung der Thurnkuppel, Kirchenpflaster, Tabulat, und Altären« zu unterlassen, auch »Vergoldten, und Außmahlen ... wann nicht ein sonderbarer Gutthätter, oder hinlängliche Opfergefäll die Sach zu bestreitten sich findten« (BHStA).
+
+'''Autor und Entstehungszeit:''' Joseph Unterleutner (* 1708 Kiefersfelden † 1772 Freising) 1760. Chronogramm am Chorbogen SANCTE MARTINE / ISTE proteCtor noster / fortIs miLes o. p. n. (= ora pro nobis) DeVm (= 1758, Datum des Baubeginns) und heILIger MARTIN VVIr bIt-/ten soehn- LICst. Vnd aVf eVVIg fVr/bItter fVr Vns In den / zVVe Diengen (= 1764, Datum der Weihe).
+
+Überzeugende Zuweisung durch Brenninger 1981 (S. 153). Es gibt von Unterleutner ein Vergleichsbeispiel, die signierte Ausmalung in Pfrombach (1763; CBD, Bd 6, S. 280-90). Auffallend ist die Ähnlichkeit in der Art der Darstellung, etwa bei den Stoffen, die durch dickliche, rundliche kleine Falten und schraffierte Vertiefungen gestaltet sind. Die Wolkenformationen sind flächig und sehr hell, Gesichter und Hände sind sorgfältig gemalt, fein gezeichnet und schattiert gegeben, mit dem Versuch, jeweils individuelle Züge herauszuarbeiten. Bei der Kleidung der Figuren ist große Sorgfalt auf Einzelheiten gelegt, auf Rüstungen, Hüte, >mittelalterliche« Kleidungsstücke: Hierin zeigt Fresko A in Niederding mit Fresko B in Pfrombach viele frappante Übereinstimmungen. Den völlig gleichen Figurentyp zeigen die Putten in Niederding und Pfrombach: kräftige, aber schon gelängte Kinderfiguren, die die runden Köpfe und kurzen Hälse auf stämmigen Schultern tragen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, A<sub>a-d</sub>) und AR (B, B<sub>a-b</sub>) Tonne mit Stichkappen, im AR nach O abgemuldet
+
+Rahmen: A und B Stuckprofile, A<sub>a-d</sub> und B<sub>a-b</sub> stuckierte Rocaillekartuschen
+
+Technik: Fresko; A und B polychrom, A<sub>a-d</sub> monochrom grünlich, B<sub>a-b</sub> monochrom rot
+
+Maße: A Höhe 11,30 m; 10,40×5,75
+
+B Höhe 10,50 m; 4,90×3,35
+
+Erhaltungszustand und Restaurierungen: 1863/64 Reparatur des stuckierten Chorbogens, Schlaudern, Schließen der Risse, Restaurierung der Deckenbilder und Neufassung der Raumschale durch den Maler Joseph Martin Karl von Erding, der bei beiden Bildern eine »Übermalung« in Rechnung stellt
+<!-- citation-page-bottom: Band07 p225 -->
+
+<!-- citation-page-top: Band07 p226 -->
+
+[[File:Band07_chunk005_p014_img001.jpg|thumb]]
+[[File:Band07_chunk005_p014_img002.jpg|thumb|A Martin von Tours vor Kaiser Valerian]]
+<!-- citation-page-bottom: Band07 p227 -->
+
+(»Ubermalen« oder »Auffrischen« bedeutet Nachmalen des vorhandenen Bildes). Die monochromen Bilder wurden ausgebessert und retuschiert (StAM, LRA).
+
+Entfeuchtung 1907, Restaurierung 1908 durch Martin Irl, Erding. Reinigung der Fresken, Schließen der Sprünge, Weißfassen der Stuckaturen, Gesimse und Pilaster, Fassen der Flächen in »hellen Tönen«; »... in den Kartuschen, wo jetzt ein Muster schabloniert ist, (wird) in Hellviolett ein Rokokomuster gemalt« (StAM, LRA).
+
+Nächste Innenrestaurierung 1959 mit Reinigung der Deckenbilder und Abnehmen von Übermalungen durch Hans Pfohmann, München. Letzte Restaurierung der Fresken 1994 durch Martin Zunhamer, Altötting. Entfernen von Übermalungen in den Brokatfeldern (BLfD). Nach Befunduntersuchungen Franz Debolds faßte Michael Hornsteiner aus Dorfen den Raum nach der Originalfassung von 1760.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A MARTIN VON TOURS VOR KAISER VALERIAN Um das sehr langgezogene Bildfeld zu gliedern, wurden parallele Architektur- und Raumschichten hinter- und übereinander gestaffelt. Ein Brüstungsgitter über dunkler Sockelzone führt ins Bild ein. Auf den Stufen der anschließenden Treppenanlage stehen Figuren, die der Darstellung Tiefe geben sollen. Handlungsbühne im Mittelgrund ist ein Palasthof, wo sich rechts ein hoher, baldachinüberwölbter Thronsessel erhebt, höher als die architektonische Konstruktion der linken Bildseite mit Torbogen, Stadtmauer, Kolonnade, Kuppeln und Türmen. Über diesem ganzen Aufbau breitet sich ein zartblauer und rosig bewölkter Himmel. Zu Füßen des Thrones begrüßt der Kaiser in rotem Mantel mit Hermelinkragen den Bischof Martin von Tours im goldbestickten Rauchmantel. Gerüstete Soldaten verfolgen eine wunderbare Begebenheit: Der goldene Thronsessel des Kaisers brennt.
+
+Geschildert ist die Szene, als der hl. Martin den Kaiser aufsuchte: »Diser ware von Natur eines unleuthseelig- und rauhen Gemüths, und feindete beynebens, seiner Arianischen Kayserin zulieb, die Catholische, und vorab die Priesterschafft, über die massen an. Nun erforderte einstens die Noth, daß Martinus ihm einige Wichtigkeiten vortragen solte, und um gnädigsten Zutritt ersuchte, der ihm aber zum andern und drittenmahl versaget ward: setzet derohalben von ferneren Begehren aus, lasset gleichwohlen den Muth nit fallen, sondern begibt sich sieben Tag lang zum H. Gebett ... gegen dem«.
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=15 -->
+<!-- citation-page-top: Band07 p228 -->
+
+[[File:Band07_chunk005_p015_img001.jpg|thumb]]
+[[File:Band07_chunk005_p015_img002.jpg|thumb]]
+[[File:Band07_chunk005_p015_img003.jpg|thumb]]
+[[File:Band07_chunk005_p015_img004.jpg|thumb]]
+[[File:Band07_chunk005_p015_img005.jpg|thumb|Das Chorgewölbe mit B Glorie des hl. Martin und den Emblemen B<sub>a-b</sub>]]
+[[File:Band07_chunk005_p015_img006.jpg|thumb]]
+[[File:Band07_chunk005_p015_img007.jpg|thumb|B<sub>a</sub> Gekrönter Granatapfel]]
+
+End solcher Andacht erscheinet ihm ein Engel Gottes, sagend: Nun solte er behertzt wiederum nacher Hof gehen, der Vorlaß werde ihm gestattet werden, und ein geneigtes Ohr deß Kaysers finden. Der H. Mann folget dem Wort, komt zur Pfort, und wird nicht mehr angehalten ... gelanget endlich gar biß zum Kayserlichen Gemach, mercket abermahl keinen Widerstand und tritt unangemeldet hinein. Der Kayser reisset die Augen auf, erschrickt, schauet ihn trotzig an, filzlet seine Cämmerling auf das schärffiste aus, daß sie den Pfaffen vorgelassen, bleibet unverruckt in seinem Sessel, und würdiget sich aus grossen Unwillen nicht ihn anzuschauen, weniger ihn anzureden. Aber wie hurtig wuste ihn GOTT auf die Füß zu bringen ... und disem Priester die gebührende Ehr geben; Dann (sehet Wunder!) ehe er sich versihet, flodert ein entsetzliche Flamm vor seinen Augen in die Höhe, nimmt urplötzlich grossen Teil des Zimmers ein, praßlet und prauset um den Sessel her, und dringet ihm endlich gar auf den Leib: er ertattert, rumplet auf, lauffet dem H. Bischof zu, und ... empfienge nunmehr den H. Mann mit tieffister Ehrerbietung ...« {ZITAT|NNN} (Ribadeneira-Hornig, Bd. 2, S. 720; s. auch Sulpicius Severus, Dia log 2,5).
+
+A<sub>a-d</sub> EMBLEME Kartuschen an Gewölbezwickeln des LHs zeigen vier Embleme ohne Lemmata, die als gemeinsames Bildmotiv das Feuer haben und sich auf das Hauptbild beziehen.
+
+A1 Kessel auf dem Feuer. Sey das Wasser noch so kalt / wirds da werden warm gar balt. Wie das Wasser über dem Feuer erhitzt wird, so wurde dem Kaiser auf seinem brennenden Sessel warm.
+
+<!-- citation-page-bottom: Band07 p229 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=16 -->
+<!-- citation-page-top: Band07 p230 -->
+
+<!-- header: NIEDERDING -->
+
+Ab Tobendes Unwetter und Blitz. Ob zwar nit allzeit Schlagt ein, / Schrekht er Doch insgemein. Ebenso wie die Menschen immer Furcht vor dem Gewitter haben, weil der Blitz manchmal einschlägt, so müssen die Hoffärtigen Gott auf das einmalige Ereignis am Thron des Kaisers hin fürchten.
+
+A<sub>c</sub> Kanone, deren Lunte angezündet wird. Schadet nit dem, der es trifft / Sonderen dem, den es trifft. Der hl. Martin, dessen Gegenwart den Brand auslöste, wurde von ihm nicht getroffen, sondern der Kaiser.
+
+A<sub>d</sub> Brennende Kerze. Scheinet bey stockfinstrer Nacht, / und die Blinde sehent macht. Hier erinnert der Verfasser der Embleme daran, daß das Feuer auf dem Thron den Kaiser einsichtig machte, so wie das Licht der Kerze in der Nacht das Sehen ermöglicht.
+
+B GLORIE DES HL. MARTIN Eine untersichtig gegebene Balustrade führt ins Bild ein. Darüber entfaltet sich vor einem blau-rosigen Himmelsgrund eine helle Wolkenlandschaft. In der Mitte thront der hl. Martin im goldgelben Rauchmantel. Putten halten Mitra, Bischofstab und die Gans. Martin hat die Arme ausgebreitet und blickt zum Himmel, aus dem ein breiter Gnadenstrahl auf ihn fällt.
+
+Die Inschrift am Chorbogen spricht den hl. Martin als Fürbitter für Ober- und Niederding an.
+
+
+[[File:Band07_chunk005_p016_img001.jpg|thumb]]
+
+
+B<sub>a-b</sub> EMBLEME Bilder ohne Lemmata in den Kartuschen der beiden westlichen Gewölbezwickel beziehen sich auf Tugenden des Heiligen.
+
+Ba Gekrönter Granatapfel. Zu seinen Lohn, tragt er die Cron. Das Bild weist auf die Himmelskrone hin, die Lohn der Freigebigkeit und Nächstenliebe Martins ist.
+
+B<sub>b</sub> Lilie in einem Garten. Die Weisse des kleid, gebihrt ihr allzeit. Die Lilie ist Symbol der Reinheit.
+
+W ANTONIUS UND ELISABETH An der S-Seite der AR-Wand, in der sich wegen der anschließenden Sakristei keir Fenster befindet, sind in einem Wandfeld in Wolken zwei Heilige unter dem Auge Gottes dargestellt. Antonius von Padua ir Franziskanerhabit hält die Lilie und hat das Jesuskind auf dem Arm. Elisabeth von Thüringen ist königlich gekleidet, hat ein Brot in der Rechten und einen Beutel in der Linken. Vor ihr steht eine Kanne. Die beiden Heiligen, die nicht zu den Altarpatronen der Kirche gehören, weisen vielleicht als Namenspatrone auf ein Spenderpaar hin (Inschrift s.o. unter Bauwerk).
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, Landshuter Abgabe 1993, 200: Baugenehmigung 1756/57.
+
+StAM, LRA 147488
+
+StAL, Kirchenrechnungen Gericht Erding 1760, Bd 3, Filialkirche St. Martin, Niederding.
+
+StAL, Regierung Landshut A 4104 (Neubau und Altäre 1756/62).
+
+AEM, Pfarrakten Aufkirchen, 126 0001 01: Pfarrbeschreibung; 126 8232 01: Filiale Niederding, Erweiterung der Kirche 1689; 126 8232 02: Filiale Niederding, Baufälle 1865–1917; 126 8241 01: Filiale Niederding, Neubau 1758.
+
+BLfD, Akt Niederding, Kirche St. Martin.
+
+Schmidtsche Matrikel, Bd 1, S. 535 f.
+
+Mayer-Westermayer, Bd 1, S. 356f.
+
+KDB IOB (2), S. 1269f.
+
+Hartig, Michael, Die in den Jahren 1661-1710 genehmigten und vollzogenen Kirchenbauten des Bistums Freising, in: Jahrbuch des Vereins für christliche Kunst 6, S. 286–94, Nr. 44. Landkreis Erding 1963, S. 298.
+
+Kemp, S. 259
+
+Brenninger, Georg, Joseph Unterleutner, ein Freisinger Maler der Rokokozeit, in: Amperland 17, 1981, S. 151-55, S. 153 f. Landkreis Erding 1985, S. 384.
+
+Brenninger, Georg, Die Kirchen Aufkirchen, Kempfing, Notzing, Oberding, Niederding, Schwaig und Franzheim (Kirchenführer), Aufkirchen 1981, S. 19–23
+
+Kleiner, Andreas, Geschichte und Erklärung der Rokoko-Kirche in Niederding (Faltblatt als Kirchenführer) o.J.
+
+Dehio 1990, S. 881 f.
+
+Historischer Atlas I, Bd 58, Erding, (Susanne Margarethe Herleth-Krentz) 1997, S. 210. A.B.
+
+<!-- header: NIEDERSTRAUBING -->
+
+{{End}}
