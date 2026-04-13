@@ -85,7 +85,18 @@ Wir danken folgenden Personen und Institutionen, die mit großzügigen Spenden z
 
 Stadt Altötting Landratsamt Altötting Kreissparkasse Altötting-Burghausen Stadt Burghausen Heimatverein Burghausen Institut der Englischen Fräulein, Burghausen Kurfürst-Maximilian-Gymnasium, Burghausen Werkleitung Wacker-Chemie, Burghausen Gemeinde Burgkirchen a.d.Alz Gemeinde Feichten a.d.Alz Gemeinde Garching a.d.Alz Heimatbund Garching a.d.Alz Gemeinde Haiming Gemeinde Kirchweidach Stadt Neuötting Gemeinde Tüßling Silvia Engel, Restauratorin Wolfgang Hopfgartner, Heimatpfleger Fritz Riedel, Restaurator Martin Zunhamer, Restaurator
 <!-- citation-page-bottom: Band09 p5 -->
-
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 9)
+|davor=
+|danach=Altötting, Ehem. Jesuitenkolleg, Kirche St. Magdalena
+|AutorIn1=Büttner, Frank
+|AutorIn2=Rupprecht, Bernhard
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=4 -->
 <!-- citation-page-top: Band09 p6 -->
 
@@ -105,7 +116,7 @@ Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für d
 
 Frank Büttner und Bernhard Rupprecht
 <!-- citation-page-bottom: Band09 p7 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band09 p8 -->
 
@@ -765,7 +776,19 @@ Im Felix Halm, Materialien zu einer baye- Kemp Cornelia Kemp, Angewandte Emblema
 | Joseph Anton Zimmermann, Chur-Bayerisch-geistlicher Calender, Bd 1–5, 1754–1758 (Bd 2 Rentamt Burghausen).
 |}
 <!-- citation-page-bottom: Band09 p17 -->
-
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=18
+|Originalseitenbis=28
+|Lemma=Altötting, Ehem. Jesuitenkolleg, Kirche St. Magdalena
+|Typ=Sakral
+|Ort=Altötting
+|davor=Vorwort (Band 9)
+|danach=Alzgern, Pfarrkirche Mariä Himmelfahrt
+|AutorIn1=Böhm, Cordula
+}}
 <!-- citation-page-top: Band09 p18 -->
 
 
@@ -850,6 +873,20 @@ Das Fresko wirkt in dieser üppigen plastischen Umrahmung flach und leicht. Vor 
 In der Figur der Maria Magdalena vereinigen sich drei Frauen aus dem Neuen Testament, die von Christus geheilte Maria Magdalena (Lc 8,2 und Mc 16,3), die Sünderin, die Jesus die Füße salbt (Lc 7,37-50), und Maria von Bethanien, die Schwester des Lazarus (Jo 12,1-8). Im Mittelalter wurde ihre Legende auch noch mit der der Eremitin Maria Ägyptiaca vermischt. Daraus erklären sich die vielen Attribute der Heiligen: Salbgefäß und Weihrauchfaß weisen auf die Salbung Jesu und den Gang zum Grab hin, Büßergewand und Strick auf das asketische Leben, Buch und Totenkopf auf die Überwindung der Vanitas und die Vita contemplativa, Ölzweig auf den himmlischen Lohn (LCI Bd 7, Sp. 516–524). Schließlich gehört auch die himmlische Vision zu ihrer Legende. Die brennenden Herzen dagegen bedeuten Andacht und Hingabe der Gläubigen, die aus dem Füllhorn mit himmlischen Gnaden belohnt werden.
 
 Das Kirchenpatrozinium St. Maria Magdalena geht nach Stadler auf einen besonderen Wunsch Herzog Wilhelms V. zurück, der nicht nur zwei Töchter dieses Namens hatte (Eleonora Magdalena *7.10.1578 in München †18.4.1579 in Landshut, und Magdalene *4.7.1587 in München, 1613 Ehe mit Wolfgang Wilhelm von Pfalz-Neuburg † 25.9. 1628 in Neuburg a.d. Donau), sondern auch eine Nichte, die er laut Stadler (S. 12) besonders liebte (Marie Magdalena * 1589 als Tochter Erzherzog Karls II. von Innerösterreich und Marias von Bayern, der Schwester Wilhelms, spätere Gemahlin Großherzog Cosimos III. von Toskana). Die Verehrung der hl. Magdalena durch Herzog Wilhelm (ihr war ein Seitenaltar in der Michaelskirche geweiht) hing mit zwei Reliquien der Heiligen zusammen, die ihm sein Bruder, der Kölner Erzbischof Ernst von Bayern, 1585/86 schenkte. Die Verehrung der heiligen Sünderin und Büßerin entsprach den frommen und asketischen Neigungen Wilhelms, der 1597 abdankte, um bis zu seinem Tod 1628 wie ein Eremit in Schleißheim zu leben. Auch die Jesuiten förderten ihre Verehrung als »advocata omnium peccatorum et peccatricum« (Rom in Bayern. Kunst und Spiritualität der ersten Jesuiten. Kat. München 1997, S. 469 f.).
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=18
+|Originalseitenbis=28
+|Lemma=Altötting, Ehem. Jesuitenkolleg, Kongregationssaal
+|Typ=Sakral
+|Ort=Altötting
+|davor=
+|danach=Alzgern, Pfarrkirche Mariä Himmelfahrt
+|AutorIn1=Böhm, Cordula
+}}
 
 Teilweise noch vorhandene Gemäldeausstattung aus der Barockzeit: Kongregationssaal, sog. Josephisaal
 
@@ -1062,7 +1099,7 @@ Pfarrkirche Mariä Himmelfahrt. Ehemaliges Beinhaus S. 38
 |Lemma=Alzgern, Pfarrkirche Mariä Himmelfahrt
 |Typ=Sakral
 |Ort=Alzgern
-|davor=Altötting, Institut der Englischen Fräulein, Institutskirche Mariä Vermählung
+|davor=Altötting, Ehem. Jesuitenkolleg, Kirche St. Magdalena
 |danach=Alzgern, ehem. Beinhaus
 |AutorIn1=Böhm, Cordula
 }}
@@ -1325,6 +1362,21 @@ Fellermeier, Max, Alzgern. Ein Beitrag zur Ortsgeschichte. In Heimatland. Beilag
 
 hio 1990, S. 36 f. (
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=43
+|Originalseitenbis=43
+|Lemma=Burghausen, ehem. Jesuitenkolleg
+|Typ=Sakral
+|Ort=Burghausen
+|davor=Alzgern, ehem. Beinhaus
+|danach=Burghausen, ehem. Jesuitenkolleg, Große Aula
+|AutorIn1=Böhm, Cordula
+}}
 
 == BURGHAUSEN ==
 
@@ -1358,12 +1410,12 @@ liegt im Erdgeschoß an der Salzachseite gegenüber dem Portal und reicht, von S
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=43
-|Originalseitenbis=69
-|Lemma=Burghausen, ehem. Jesuitenkolleg
+|Originalseitenbis=61
+|Lemma=Burghausen, ehem. Jesuitenkolleg, Große Aula
 |Typ=Sakral
 |Ort=Burghausen
-|davor=Alzgern, ehem. Beinhaus
-|danach=Burghausen, Institur der Englischen Fräulein, Institutskirche Hl. Schutzengel
+|davor=Burghausen, ehem. Jesuitenkolleg
+|danach=Burghausen, ehem. Jesuitenkolleg, Kleine Aula
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -1783,6 +1835,22 @@ Die Marienverehrung war ein zentrales Anliegen des Jesuitenordens. Über die mar
 
 Höhepunkte des Kongregationsjahres bildeten die Marienfeste: Unbefleckte Empfängnis, Mariä Reinigung, Mariä Geburt, Mariä Himmelfahrt und das Patrozinium Mariä Verkündigung. Zu diesen und anderen Anlässen waren Theateraufführungen wichtige Ereignisse. Wie bekannt damals noch für uns heute völlig fremd gewordene Heilige wie Theophilus oder Emerich waren, belegen zwei Theaterstücke: »Theophilus, Dreyfacher Krieg einer Gottliebenden Seel, wider das Fleisch, die Welt, den Teufel« von Wenzeslaus Stadler, 1675 aufgeführt, und »Emericus Hungariae« von Ferdinand Silbermann, 1707 aufgeführt (Kurfürst-Maximilian-Gymnasium 1997, S. 127).
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=62
+|Originalseitenbis=69
+|Lemma=Burghausen, ehem. Jesuitenkolleg, Kleine Aula
+|Typ=Sakral
+|Ort=Burghausen
+|davor=Burghausen, ehem. Jesuitenkolleg, Große Aula
+|danach=Burghausen, Institur der Englischen Fräulein, Institutskirche Hl. Schutzengel
+|AutorIn1=Böhm, Cordula
+}}
+
 Kleine Aula, ehemaliger Saal der Marianischen Kongregation der Studenten, im Erdgeschoß des Kollegbaus unter der Großen Aula gelegen. Der Raum wird heute als Musikzimmer genutzt.
 
 '''Patrozinium:''' Unbefleckte Empfängnis Mariä
@@ -2039,7 +2107,7 @@ Goerge, Dieter, Johann Nepomuk della Croce (= Burghauser Geschichtsblätter 50),
 |Lemma=Burghausen, Institur der Englischen Fräulein, Institutskirche Hl. Schutzengel
 |Typ=Sakral
 |Ort=Burghausen
-|davor=Burghausen, ehem. Jesuitenkolleg
+|davor=Burghausen, ehem. Jesuitenkolleg, Kleine Aula
 |danach=Burgkirchen an der Alz, Alte Pfarrkirche Johannes der Täufer
 |AutorIn1=Böhm, Cordula
 }}
@@ -2341,7 +2409,7 @@ FEICHTEN AN DER ALZ
 |Typ=Sakral
 |Ort=Feichten an der Alz
 |davor=Burgkirchen an der Alz, Alte Pfarrkirche Johannes der Täufer
-|danach=Haiming, Pfarrkirche St. Stephan
+|danach=Haiming, Pfarrkirche St. Stephan, Vorhalle
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -2621,12 +2689,12 @@ Pfarrkirche, Vorhalle Ehemaliges Beinhaus S. 96
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=95
-|Originalseitenbis=97
-|Lemma=Haiming, Pfarrkirche St. Stephan
+|Originalseitenbis=96
+|Lemma=Haiming, Pfarrkirche St. Stephan, Vorhalle
 |Typ=Sakral
 |Ort=Haiming
 |davor=Feichten an der Alz, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
-|danach=Heiligenstatt, Wallfahrtskirche Unschuldige Kinder
+|danach=Haiming, Pfarrkirche St. Stephan, ehem. Beinhaus
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -2711,8 +2779,21 @@ A DREIFALTIGKEIT in einem kreisrunden Mittelfeld; stark erneuert
 
 Eindeutig in diesem Zyklus ist allerdings nur die Pfeilmarte Sebastians (4), die drei vorhergehenden sind nicht mit Sicherheit Sebastian zuzuordnen: als junger, vom Kaiser geschätzter Palastwächter setzte er sich für ein zum Tode verurteiltes Brüderpaar ein – im Schraubstock sitzen aber drei junge Männer (1). Er bekehrte den Präfekten von Rom mit seiner Gemahlin und seinem Sohn zum Christentum (3). Kaiser Diokletian verurteilte ihn zur Pfeilmarter (2). Der Sebastian-Zyklus steht wohl in Zusammenhang mit der Pest. Gedenktafel an der Südseite der Kirche in Höhe der Totenkapelle: »Den Toten der Gemeinde Haiming des Pestjahres 1634«. In diese Zeit fällt auch die Gründung der Sebastians-Bruderschaft in Haiming.
 
+{{End}}
 
-== Ehemaliges Beinhaus ==
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=96
+|Originalseitenbis=97
+|Lemma=Haiming, Pfarrkirche St. Stephan, ehem. Beinhaus
+|Typ=Sakral
+|Ort=Haiming
+|davor=Haiming, Pfarrkirche St. Stephan, Vorhalle
+|danach=Heiligenstatt, Wallfahrtskirche Unschuldige Kinder
+|AutorIn1=Böhm, Cordula
+}}
 
 
 '''Zum Bauwerk:''' Niedriger Anbau an der Südseite der Kirche; den östlichen Teil nimmt die Vorhalle zum Hauptportal im Südportal ein, den langgestreckten westlichen die Totenkapelle. Kleiner Raum (ca. 7,00×2,50 m), an der N-Seite ein Gesims in 1,20 m Höhe, an der Südseite ein Fenster. Zugang von O.
@@ -2798,7 +2879,7 @@ C.B.
 |Lemma=Heiligenstatt, Wallfahrtskirche Unschuldige Kinder
 |Typ=Sakral
 |Ort=Heiligenstatt
-|davor=Haiming, Pfarrkirche St. Stephan
+|davor=Haiming, Pfarrkirche St. Stephan, ehem. Beinhaus
 |danach=Kirchweidach, Pfarr- und Wallfahrtskirche St. Vitus
 |AutorIn1=Böhm, Cordula
 }}
@@ -3999,12 +4080,12 @@ Haug, Heinrich, Albert Huber, Alois Stockner, Niedergottsau Mariä Himmelfahrt (
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=148
-|Originalseitenbis=216
+|Originalseitenbis=150
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Niedergottsau, Expositurkirche Mariä Himmelfahrt
-|danach=St. Johann bei Obereschlbach, Kapelle St. Johann Baptist
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Pfarrkirche St. Georg
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -4097,8 +4178,21 @@ Nach dem Verbot des Jesuitenordens übernahmen die Zisterzienser von Raitenhasla
 
 Die Kloster- und Wirtschaftsgebäude, die von 1804 bis 2003 in Besitz der Familie Baumgartner waren, werden derzeit ein zweites Mal versteigert. Uns war es leider nicht möglich, alle Räumlichkeiten zu sehen; daher bleibt manche Frage offen.
 
+{{End}}
 
-== Pfarrkirche ==
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=151
+|Originalseitenbis=177
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Pfarrkirche St. Georg
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Ehem. Abtskapelle
+|AutorIn1=Böhm, Cordula
+}}
 
 
 ehem. Abteikirche der Zisterzienser (die Pfarrkirche von Raitenhaslach war bis zur Säkularisierung Marienberg)
@@ -4618,7 +4712,7 @@ Quellenübersicht über die in Raitenhaslach dargestellten Bernhard-Szenen (fett
     
     
       Weihnachtsvision
-      <td
+      
 |-
 | Humilitas – abgelehnte Bistümer
       1,14,69
@@ -4635,13 +4729,28 @@ Quellenübersicht über die in Raitenhaslach dargestellten Bernhard-Szenen (fett
 
 
 [[File:Band09_chunk004_p014_img001.jpg|thumb|Idealansicht der Klosteranlage Raitenhaslach, aquarellierte Federzeichnung um 1792, Stadtarchiv Burghausen, P 429 Im Vordergrund die Wirtschaftshöfe mit der Leutekirche St. Georg, in der Mitte Kirche und Konventgebäude, re]]
+
 <!-- citation-page-bottom: Band09 p177 -->
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=15 -->
 <!-- citation-page-top: Band09 p178 -->
 
 <!-- header: RAITENHASLACH -->
+{{End}}
 
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=178
+|Originalseitenbis=179
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Ehem. Abtskapelle
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Pfarrkirche St. Georg
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Raum in der Abtswohnung
+|AutorIn1=Böhm, Cordula
+}}
 
 == Prälatenstock mit Gäste- und Küchentrakt ==
 
@@ -4713,6 +4822,21 @@ A<sub>b</sub> Regenbogen Der Regenbogen ist Symbol für die Versöhnung Gottvate
 
 A<sub>c</sub> Pelikan Der Pelikan nährt die Jungen mit seinem eigenen Blut und ist damit ein Sinnbild für den Opfertod Christi. A<sub>d</sub> Phönix Der Vogel Phönix, der sich im Feuer erneuert, ist Sinnbild der Auferstehung Christi.
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=180
+|Originalseitenbis=181
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Raum in der Abtswohnung
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Ehem. Abtskapelle
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Gästewohnung Treppenhaus
+|AutorIn1=Böhm, Cordula
+}}
 
 == Kleiner Raum in der ehemaligen Abtswohnung ==
 
@@ -4770,6 +4894,23 @@ B<sub>a-d</sub> EMBLEMAHNLICHE DARSTELLUNGEN, vergoldete Stuckreliefs (die Darst
 Raum B ist in den Quellen nicht erwähnt und in der Literatur kaum bekannt.
 
 BSB, Clm 12536, fol. 20–23, 60: Hauntinger, 1800. KDB I OB (8), S. 2620. Krausen 1977, S. 25. Kreilinger, S. 16. Kupferschmied, S. 52f. und 89f.
+
+
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=182
+|Originalseitenbis=184
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Gästewohnung Treppenhaus
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Raum in der Abtswohnung
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer
+|AutorIn1=Böhm, Cordula
+}}
 
 Treppenhaus im Gäste- bzw. Küchentrakt, an die Prälatur anschließend
 
@@ -4836,6 +4977,21 @@ Das Thema von der Gastfreundschaft Abrahams ist hier am Vorplatz zur Tafelstube 
 
 [[File:Band09_chunk004_p018_img002.jpg|thumb]]
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=185
+|Originalseitenbis=190
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Gästewohnung Treppenhaus
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal
+|AutorIn1=Böhm, Cordula
+}}
 
 Kleines Tafelzimmer - »Stuba aulica minor«, Zimmer 6 in der Flucht der ehemaligen Gästezimmer im zweiten Obergeschoß des Prälatenstocks, die nach dem Besuch des Papstes Pius VI. im Herbst des Jahres 1782 in Raitenhaslach anläßlich seiner Reise von München nach Wien auch Päpstliche Zimmer genannt wurden.
 
@@ -5009,6 +5165,21 @@ Dem Motto Nil stabile terris läßt sich auch die Jahreszeitenfolge (W<sub>1-4</
 Quellen und Literatur BSB, Clm 12536, fol. 57. KDB OB (8), S. 2620.
 
 <!-- header: Festsaalstock -->
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=191
+|Originalseitenbis=205
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus
+|AutorIn1=Böhm, Cordula
+}}
 
 Nach dem Ausbau der Gästezimmer 1760/62 trat im Jahr 1763 eine Pause in der Bautätigkeit ein. 1764/65 wurde durch Franz Alois Mayr im rechten Winkel zum Prälatenstock der Festsaalstock aufgeführt, der den Prälatenstock mit dem damals noch alten Konventbau verband. Er lag mit der Südfront zur Salzach. Der Festsaalstock hatte fünf Fensterachsen. Nach der Beschreibung des Chronisten nahm der Weinkeller das ganze Untergeschoß ein. Der Festsaal nahm die beiden Obergeschosse in den vier westlichen Jochen ein. Im verbleibenden östlichen Joch mit dem Turm waren das mathematische Kabinett und das Observatorium eingerichtet. Bei Meidinger und Lippert wird der Festsaal als »Speissaal« bezeichnet.
 
@@ -5354,6 +5525,22 @@ Marianischer Berg, das ist... Bericht vom Ursprung und Fortgang des 618jährigen
 (Enterniplan 202) Meidinger 1787, S. 362 f., 1790, S. 89. Hauntinger, 1800. KDB I, OB (8), S. 2326, 2620f. (1895 f.) Kreilinger, S. 16. Krausen, 1977, S. 27. Wagner, Festsäle Diss. S. 20f., 28f.  
 <!-- citation-page-bottom: Band09 p205 -->
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=206
+|Originalseitenbis=207
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Loggia im Gartenstöckl
+|AutorIn1=Böhm, Cordula
+}}
+
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=4 -->
 <!-- citation-page-top: Band09 p206 -->
 
@@ -5398,6 +5585,22 @@ Die Farben sind fast monochrom; das helle Grün der Wiese und der Alpenrand gebe
 == Literatur ==
 
 Keine Erwähnung in den Quellen. Hopfgartner, 1987, Abb. 33, 1996, S. 93, Kat. Nr. 7. 8.
+
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=207
+|Originalseitenbis=209
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Loggia im Gartenstöckl
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Großes Tafelzimmer
+|AutorIn1=Böhm, Cordula
+}}
 
 == Loggia im sog. Gartenstöckl, dem Südflügel des Prälatenstock ==
 
@@ -5448,6 +5651,22 @@ ROCAILLEDEKORATION Der Raum ist mit einer hellgrüngrundigen Rocailledekoration 
 [[File:Band09_chunk005_p005_img003.jpg|thumb|Die Loggia im sogenannten Gartenstöckl, Ansicht nach Weste]]
 <!-- citation-page-bottom: Band09 p209 -->
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=210
+|Originalseitenbis=210
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Großes Tafelzimmer
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Loggia im Gartenstöckl
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau, Altes Refektorium und alte Bibliothek
+|AutorIn1=Böhm, Cordula
+}}
+
 <!-- citation-page-top: Band09 p210 -->
 
 == Nicht erhaltene Ausmalungen ==
@@ -5465,6 +5684,22 @@ Autor und Entstehungszeit: Franz Joseph Soll (* 1734 Friedingen an der Donau †
 == Nachrichten in den Quellen ==
 
 Die Annalen berichten von der prächtigen Einrichtung der »Stuba aulica minor« und der »Stuba aulica maior«, von Spiegeln, Bildern und Möbeln. Die »Stuba aulica minor« zeige den ägyptischen Joseph, das Treppenhaus Abraham, die »Stuba aulica maior« aber Martha, und alle drei Ausmalungen seien von dem Trostberger Soll. Da das gemeinsame Thema der drei Räume die Gastfreundschaft ist, war in dem Großen Tafelzimmer die Bewirtung Jesu in Bethanien durch Martha gezeigt. »Revertenti Stuba major, minorque, quod aiunt, aulica occurrit, nitidissimis speculis, picturis, cistisque novo artificio elaboratis et muro cohaerescentibus distincta, atque ad omnem elegantiam exornanta. Utrique eodem tractu bina decens admodum hospitum habitatio vicina est, his sex elegantiores e tertia contignatione insident: omnibus palmam praesipit, quam merito principum dicunt, insigni ex integro penicillo Joseph Aegyptiacis historiam recensente delibuta, speculis praeterea maioribus, picturis pretiosissimis, atque omnis commoditate Spectabilis. Pictura aquaria muro cohaerens eundem collaudat auctorem D. Josephum Soll pictorem Trosbergensem, quem illa Stubae aulico maioris et fornicis scalae maiori incumbentis: haec hospitalitatem Abrahae, illa Marthae haut invenuste praesentat« (BSB, Clm 12536, fol. 57).
+
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=210
+|Originalseitenbis=210
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau, Altes Refektorium und alte Bibliothek
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Großes Tafelzimmer
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Konventbau, Dreikönigskapelle am Kreuzgang
+|AutorIn1=Böhm, Cordula
+}}
 
 == Alter Konventbau, Südflügel ==
 
@@ -5496,6 +5731,23 @@ Ob die Bilder in der Bibliothek Deckenbilder waren oder Wandbilder, geht ebenfal
 
 [[File:Band09_chunk005_p006_img002.jpg|thumb|Der sel. Abt Alberich erhält von Maria die weiße Kukulle. Beide Gemälde Burghausen, Institut der Englischen Fräulein, ehemals im alten Refektorium]]
 
+
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=211
+|Originalseitenbis=211
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Konventbau, Dreikönigskapelle am Kreuzgang
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau, Altes Refektorium und alte Bibliothek
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Refektorium
+|AutorIn1=Böhm, Cordula
+}}
+
 == Neuer Konventbau, Nordflügel ==
 
 Dreikönigskapelle am nördlichen Kreuzgangflügel
@@ -5524,6 +5776,21 @@ Autor und Entstehungszeit: Datierung zeitgleich mit dem Bau um 1778. Als Maler n
 
 Quellen und Literatur BSB, Clm 12536, fol. 79 r. Krausen 1977, S. 24f. Kreilinger, S. 25. Kupferschmied, S. 121.
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=212
+|Originalseitenbis=212
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Refektorium
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Konventbau, Dreikönigskapelle am Kreuzgang
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Bibliothek
+|AutorIn1=Böhm, Cordula
+}}
 
 == Refektoriumsstock ==
 
@@ -5560,6 +5827,23 @@ Embleme und sechs verschiedene Szenen aus dem Alten Testament rahmten das Mittel
 
 (Die Chronik berichtet über dieses Anna-Bild noch, es sei nach einer verbürgten Überlieferung das wahre Abbild eines Mitglieds der bayerischen Herrscherfamilie, und es sei viele Jahre auf dem Hochaltar bei den Franziskanern gestanden.)
 
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=213
+|Originalseitenbis=213
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Bibliothek
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Refektorium
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Bibliothekstrakt mit Bibliothek
+|AutorIn1=Böhm, Cordula
+}}
+
+
 Bibliothek, ehemals im zweiten Obergeschoß des 1777/78 erbauten Refektoriumsstocks, nach dem Bau des neuen Bibliothekstocks 1785 umgewandelt in das Museum
 
 '''Zum Bauwerk:''' Die Bibliothek war über dem neuen Refektorium gelegen und hatte die gleichen Ausmaße. Langgestreckter Raum (ca. 25×12 m) zu sechs Achsen in der Länge und drei in der Breite. Zugang von Norden über das Treppenhaus im Kreuzgang. Im SW führte eine Tür in das Naturalienkabinett, das zwischen Bibliothek und Festsaal lag. Die Einstöckigkeit und die verhältnismäßig einfache Ausstattung waren wohl der
@@ -5584,8 +5868,21 @@ Die Chronik berichtet, Anfang November 1778 habe Soll sein Werk in der neuen Bib
 
 Quellen und Literatur BSB Clm 12536, fol. 74–80. Meidinger 1787, S. 363; Meidinger 1790, S. 8. Hauntinger 1800.
 
+{{End}}
 
-== Neuer Bibliothekstrakt ==
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=213
+|Originalseitenbis=213
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Bibliothekstrakt mit Bibliothek
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Bibliothek
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Lusthäuschen im Abtsgarten
+|AutorIn1=Böhm, Cordula
+}}
 
 
 Neubau eines eigenen Bibliothekstraktes 1782–85. Der Bau schloß im Norden an das erste westliche Joch der Kirche rechtwinklig an und war sonst freistehend. Er war dreigeschossig, hatte neun Fensterachsen in der Länge und nur zwei in der Breite. Das Portal war in der Mitte der Westseite (Pläne Glonners StAB P 430). Der Bibliothekstrakt wurde nach der Säkularisation 1806 abgebrochen. Der Marmorboden mit einer Mittelrosette wurde in der Stiftskirche in Tittmoning wieder verwendet, die Einrichtung in ein Chorgestühl umgebaut. Ein Teil der Bibliotheksschränke ist noch in der Universitätsbibliothek in München vorhanden.
@@ -5635,6 +5932,22 @@ Hauntinger, 1800.
 Krausen 1977, S. 38.
 
 Straßer, Josef, Januarius Zick 1730–1797, Gemälde – Gra phik – Fresken, Weißenhorn 1994, S. 565.
+
+{{End}}
+
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=214
+|Originalseitenbis=216
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Lusthäuschen im Abtsgarten
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Bibliothekstrakt mit Bibliothek
+|danach=St. Johann bei Obereschlbach, Kapelle St. Johann Baptist
+|AutorIn1=Böhm, Cordula
+}}
 
 == Lusthäuschen im Abtsgarten – »Aula minor« ==
 
@@ -5785,7 +6098,7 @@ P 1238 »Profil vom Speissaal in: und auswendig« (Glonner jun. nach Mayr um 176
 |Lemma=St. Johann bei Obereschlbach, Kapelle St. Johann Baptist
 |Typ=Sakral
 |Ort=St. Johann bei Obereschlbach
-|davor=Raitenhaslach, ehem. Zisterzienserabtei
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Lusthäuschen im Abtsgarten
 |danach=Tüssling, Marktkirche St. Georg
 |AutorIn1=Böhm, Cordula
 }}
@@ -6352,7 +6665,7 @@ C.B.
 |Typ=Sakral
 |Ort=Wald an der Alz
 |davor=Tüssling, Schloss
-|danach=
+|danach=Im 18. JH. im Berich des Landkreises Altötting tätige Maler
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -6522,12 +6835,20 @@ C. B
 
 [[File:Band09_chunk005_p021_img008.jpg|thumb|2 Sachsen und Österreich]]
 <!-- citation-page-bottom: Band09 p241 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=22 -->
 <!-- citation-page-top: Band09 p242 -->
 
-
-== M 18. JH. IM BEREICH DES LANDKREISES ALTÖTTING TÄTIGE MALER ==
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=242
+|Originalseitenbis=245
+|Lemma=Im 18. JH. im Berich des Landkreises Altötting tätige Maler
+|davor=Wald an der Alz, Pfarrkirche St. Erasmus
+|danach=Ortsregister (Band 9)
+}}
 
 
 Malerwerkstätten in den Gerichten des Landkreises Altötting
@@ -6669,7 +6990,17 @@ Martin Heigl war sein bekanntester Schüler. Zu Zimmermanns bedeutendsten Fresko
 
 In Margarethenberg (1752/53) rühmt die Abtschronik die Fresken Zimmermanns. Auch dort ist von »den Malern« die Rede. Unwahrscheinlich ist die Autorschaft Zimmermanns am Stuck und an der Chorgestaltung der Klosterkirche in Raitenhaslach, die ihm von der Forschung zugeschrieben wird.
 <!-- citation-page-bottom: Band09 p245 -->
-
+{{End}}
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=246
+|Originalseitenbis=248
+|Lemma=Ortsregister (Band 9)
+|davor=Im 18. JH. im Berich des Landkreises Altötting tätige Maler
+|danach=Personenregister (Band 9)
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=24 -->
 <!-- citation-page-top: Band09 p246 -->
 
@@ -7145,6 +7476,18 @@ Zell an der Pram/OÖ 7, 193
 Zell in der Fischbachau 223  
 Zwiefalten 244  
 
+{{End}}
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=249
+|Originalseitenbis=251
+|Lemma=Personenregister (Band 9)
+|davor=Ortsregister (Band 9)
+|danach=Ikonographisches Register (Band 9)
+}}
+
 == Personenregister ==  
 
 Kursivschrift und Kursivzahlen verweisen auf in diesem Band behandelten Maler  
@@ -7263,6 +7606,19 @@ Vogl, Johann Paul, Maler in Kößlarn 249 Vogl, Maria Margareta geb. Lederer 245
 Wald, Edle von 241 Warathi, Elias, Maler in Stilfes 245 Warathi, Maria Elisabeth 243, 245 Warathi, Innozenz Anton, Maler in Burghausen 7,44-50,63-65,70-74,245 Warathi, Maria Franziska 245 Warathi, Maria Theresia Cäcilia geb. Mähninger 245 Ward, Maria, Gründerin der Englischen Fräulein 70 Wartenberg, Grafen von 7, 98, 232, 241 Wartenberg, Maria Johanna Baptista Gräfin von, geb. Melun d'Epinois 98f., 223f., 233, 244 Wartenberg, Max Emanuel Graf von 99 Wartenberg, Ferdinand Marquard Joseph Antonius Graf von 89, 98f., 224, 230, 233 Wartenberg, Franz Wilhelm Graf von, Propst von Altötting 217 Wechselberger, Hans, Baumeister in Burghausen 95 Weidinger, Matthias, Maurermeister in Neuötting 24, 223 Weinast, Heinrich, Maler in Tüßling 100 Werner, Abt von Heiligenkreuz 166 Widmann, Augustin, Sekretär in Tüßling 23 Widmann, Emmeram, Stuckator 152 Wieleitner, Oskar, Restaurator 76 Wieser, Regierungsregistrator in Burghausen 30 Wilhelm von Aquitanien 154, 164 Wilhelm von Maleval, Gründer der Wilhelmiten 60-63, 164 Wilhelm V. der Fromme, Herzog von Bayern 19, 22, 115 Wilhelm IX., Herzog von Poitou 162, 164 Will, Matthias, Kistler in Burghausen 81 Wink, Thomas Christian 7, 20, 192f., 245 Wolfer von Wasentegernbach, Stifter in Raitenhaslach 149, 166, 173, 188, 201, 205 Wolfer von Wasentegernbach d.J. 166 Wolff, Johann Andreas, Maler in München 24, 245
 
 Zahler, Johann von, Pflegsverwalter von Wald 89 Zanussi 245 Zattler, Franz Xaver, Maler in Wurmannsquick 144, 225 Zeiller, Johann Jakob, Maler 7 Zerle, Hans, Stuckator 26 Zernickel, Helmut, Restaurator 7, 128 Zettl, P. Paul, Rektor des Kollegs Burghausen 45 Zick, Januarius, Maler 214, 245 Zick, Johann, Maler in München 7, 128, 152, 154–76, 185f., 188, 213, 245 Zick, Ulrich, Schmied in Lachen 245 Ziegler, Johann Georg, Maler in Tüßling 224 Zimmer, Franz Xaver, Maler in Wurmannsquick Zimmermann, Franz Michael, Maler in München 120, 245 Zimmermann, Johann Baptist, Maler und Stuckator in München 7, 82, 106, 119–24, 126, 128, 151, 154, 178, 182, 194, 232, 243–45 Zimmermann, Johann Joseph 245 Zimmermann-Werkstatt 119, 182, 243, 245 Zimmermann, Joseph Anton, Kupferstecher 126 Zöpf, Joseph Clemens von 45, 48 Zuccalli, Enrico, Architekt 19f. Zunhamer, Martin, Restaurator 7, 46, 65, 106, 156,
+
+
+{{End}}
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=252
+|Originalseitenbis=262
+|Lemma=Ikonographisches Register (Band 9)
+|davor=Personenregister (Band 9)
+|danach=Embleme-Register (Band 9)
+}}
 
 
 == Ikonographisches Register ==
@@ -7763,7 +8119,19 @@ Zisterne → ägyptischer Joseph 187
 an der Himmelspforte 132  
 im Schiff des Heils 130  
 
-Embleme-Register  
+{{End}}
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=263
+|Originalseitenbis=263
+|Lemma=Embleme-Register (Band 9)
+|davor=Ikonographisches Register (Band 9)
+|danach=
+}}
+
+
 Der Übergang zwischen Emblemen und häufig auftretenden emblemähnlichen Darstellungen ist fließend.  
 Die Aufnahme ins Register erfolgte nach Ermessen.  
 

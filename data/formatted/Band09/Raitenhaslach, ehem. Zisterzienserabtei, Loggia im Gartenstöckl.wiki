@@ -1,0 +1,64 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=207
+|Originalseitenbis=209
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Loggia im Gartenstöckl
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Großes Tafelzimmer
+|AutorIn1=Böhm, Cordula
+}}
+
+== Loggia im sog. Gartenstöckl, dem Südflügel des Prälatenstock ==
+
+'''Zum Bauwerk:''' Der südliche zweigeschossige Flügel des Prälatenstocks, um ein Joch vom Hauptbau zurückgesetzt, verband sowohl den Prälaten- als auch den Festsaaltrakt mit den langgestreckten Brauereigebäuden im Südwesten der Klosteranlage und schloß gleichzeitig den östlich von ihm gelegenen Abtsgarten gegen diese Wirtschaftsgebäude ab. Er wurde mit dem Prälatenstock ab 1752 erbaut.
+
+Zweistöckiger Bau zu sechs Achsen, Tordurchfahrt unter der nördlichen. Verlängerung nach S durch einen niedrigeren Bau aus späterer Zeit. Im Erdgeschoß liegt, zum Garten hin offen,
+
+<!-- citation-page-bottom: Band09 p207 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=5 -->
+<!-- citation-page-top: Band09 p208 -->
+
+<!-- header: RAITENHASLACH -->
+
+
+[[File:Band09_chunk005_p005_img001.jpg|thumb|Dekorationsmalerei an der Westwand der Loggia (Martin Heigl um 1765)]]
+
+
+
+[[File:Band09_chunk005_p005_img002.jpg|thumb]]
+
+
+eine Loggia, die sich ehemals auf den Abtsgarten hin öffnete. In den Quellen ist sie nicht erwähnt.
+
+Kreuzgewölbte Halle zu fünf Achsen, von den fünf Arkadenbögen ist der nördliche vermauert, vier sind offen. Nach W grenzt ein Treppenhaus an. Eingang von Norden; die Südseite ist durch eine gemalte Nische geschmückt.
+
+'''Auftraggeber:''' Abt Emanuel II. Mayr von Raitenhaslach (1759-80)
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Martin Heigl (* unbekannt † 1774 München, s. S. 243) um 1765
+
+Die Loggia wurde vermutlich im Zusammenhang mit dem Ausbau des Abtsgartens ausgeschmückt, der sich der Abtschronik zufolge an die Vollendung des Festsaals anschloß und zeitlich vor dem Erdrutsch im August 1766 liegt. Die Dekorationsmalerei zeigt den Stil Heigls. Die Putten mit der Locke am Kopf sind ein typisches Erkennungsmerkmal. Im übrigen ist die Malerei in der Loggia mit ziemlich groben und flüchtigen Pinselstrichen hingeworfen, was an die Ausführung durch Franz Joseph Soll oder einen anderen Mitarbeiter Martin Heigls denken läßt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Fünf nebeneinanderliegende Kreuzgewölbe Rahmen: gemalt
+
+Technik: Fresko mit Secco; en camaieu grau, grün und gelb Erhaltungszustand und Restaurierungen: Die Dekorationsmalerei ist augenscheinlich noch nicht restauriert worden. Der Freskoanteil hat sich weitgehend erhalten, ist aber ziemlich beschädigt.
+
+
+== Beschreibung ==
+
+
+ROCAILLEDEKORATION Der Raum ist mit einer hellgrüngrundigen Rocailledekoration ausgemalt. Die architektonische Gliederung ist gemalt: Pilastergliederung, Gurtbögen, Arkadenlaibungen, Lunetten und Gewölbezwickel sind mit Rocaillen, Vasen, Blütengirlanden und spielenden Putten geschmückt. Die Südwand ziert eine gemalte Nische, in der wohl einmal eine Figur stand. An der Nordwand über der Tür drei Putten mit Anker, Stern und Blumen. Die Lunetten der geschlossenen Wand des nördlichen Jochs schmücken ebenfalls eine Dekoration mit Ziervasen.
+
+
+[[File:Band09_chunk005_p005_img003.jpg|thumb|Die Loggia im sogenannten Gartenstöckl, Ansicht nach Weste]]
+<!-- citation-page-bottom: Band09 p209 -->
+
+{{End}}

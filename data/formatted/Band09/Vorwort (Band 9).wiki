@@ -1,0 +1,32 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 9)
+|davor=
+|danach=Altötting, Ehem. Jesuitenkolleg, Kirche St. Magdalena
+|AutorIn1=Büttner, Frank
+|AutorIn2=Rupprecht, Bernhard
+}}
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=4 -->
+<!-- citation-page-top: Band09 p6 -->
+
+<!-- header: VORWORT -->
+
+Der heutige Landkreis Altotting umfasst im wesentlichen das ehemalige Landgericht Neuötting, die ehemalige Herrschaft Wald sowie das Stadtgebiet Burghausen und einen Teil des ehemaligen Landgerichts Leonberg-Marktl. Kirchlich gehörte das Gebiet zum Fürsterzbistum Salzburg mit Ausnahme der Pfarrei Haiming, die schon immer zum Bistum Passau gehörte, dem dann 1823 das Dekanat Burghausen zufiel. Im gerichtsunmittelbaren Bereich findet sich jedoch kein Bauwerk mit Deckenmalerei; das Gebiet nördlich des Inn, das sog. Holzland, lag abseits der Salz- und Wasserstraße und war kulturhistorisch nicht bedeutend. Künstlerische Impulse gingen von den südlich des Inn gelegenen Niedergerichtsbezirken aus, dem Propsteigericht Altötting, der Klosterhofmark Raitenhaslach, der Hofmark Tüßling und dem Herrschaftsgericht Wald. Geistiger und künstlerischer Mittelpunkt im Barock war das Zisterzienserstift Raitenhaslach. Sein Verdienst war es, für die Neuausstattungen der Klosterkirche mit einem umfangreichen Bernhardszyklus (Johann Zick 1737/42) und des Klosters mit sieben erhaltenen freskierten Räumen, darunter dem nur Wenigen bekannten Festsaal (Martin Heigl 1765), Künstler aus München zu berufen, die die Freskomalerei in diesem Gebiet maßgeblich beeinflussten. Als Höhepunkte sind zu nennen die Wallfahrtskirchen Margarethenberg (Johann Baptist Zimmermann 1753/54) und Marienberg (Martin Heigl 1764). In Heigls künstlerischer Nachfolge wuchs der Maler Franz Joseph Soll aus Trostberg heran, dessen Freskenzyklen in Wald a.d. Alz, in Feichten, Kirchweidach, Alzgern und St. Johann als geistvolle Glanzleistungen der volkstümlichen Rokokomalerei im östlichen Altbayern gelten können. Unter dem Patronat der Grafen von Wartenberg wurden im ersten Drittel des Jahrhunderts die Kirchen in Tüßling und Heiligenstatt durch Johann Anton Vogl und Nikolaus Miller ausgestattet.
+
+Die ansässigen Maler machen sich wenig bemerkbar. Mit Ausnahme von Franz Joseph und Philipp Anton Lederer in Altötting (Kirchen der Jesuiten und der Englischen Fräulein) und Innozenz Anton Warathi in Burghausen (Kolleg der Jesuiten und Kirche der Englischen Fräulein) treten sie als Freskanten nicht in Erscheinung.
+
+Burghausen war Sitz des gleichnamigen Rentamts. Im Fresko der Aula des ehemaligen Jesuitenkollegs (S. 51) huldigen ihm die Städte und Märkte. Zum Rentamt gehörten bis 1779 außer dem Land links des Inn acht Gerichte rechts des Inn: Braunau, Mauerkirchen, Mattighofen, Uttendorf, Friedburg, Wildshut, Ried und Schärding. Im Bayerischen Erbfolgekrieg ging mit der Abtretung des Innviertels an Österreich dieses Land für Bayern verloren. An künstlerisch wertvollen Ausstattungen, die hier nicht behandelt werden können, historisch aber dazugehören, sind in diesem Bereich hauptsächlich zu nennen die Freskenzyklen in den Klöstern Ranshofen (Christoph Lehrl 1697), Suben (J. Jakob Zeiller 1768), Reichersberg (Benedikt Albrecht 1695, J. Nepomuk Schöpf 1771 und Christian Wink 1778/89), in Haselbach (Martin Heigl 1774) und eine Anzahl 1720/40 vom Stuckator J. Michael Vierthaler oft mit dem Freskanten Johann Georg Reischl ausgestattete Pfarrkirchen, nicht zu vergessen die von Münchner Künstlern gestalteten Schlösser Aurolzmünster (J. Kendlbacher und Benedikt Albrecht 1701) und Zell a.d. Pram (Christian Wink 1771). Für den in diesem Band gar nicht vertretenen bedeutendsten Maler Burghausens im 18. Jahrhundert, Johann Nepomuk della Croce seien die im heutigen Bezirk Braunau liegenden Ausmalungen von Ach, Helpfau und Mattighofen als Beispiele genannt.
+
+Bei unserer Arbeit haben wir von vielen Seiten Unterstützung erfahren. Zu danken haben wir den Mitarbeitern der staatlichen Archive und Bibliotheken, der Archive des Bistums Passau und der Erzbistümer München und Freising und Salzburg und des Bayerischen Landesamts für Denkmalpflege. Im Landkreis Altötting wurde das Entstehen des Bandes in jeglicher Hinsicht gefördert. Wolfgang Hopfgartner, Heimatpfleger in Burghausen, stand nicht nur mit seinem fachlichen Wissen zur Verfügung, er kümmerte sich auch mit großem persönlichen Einsatz um Spenden für die Drucklegung. Dr. Johann Dorner half bei der Übersetzung der Quellen aus dem Lateinischen, Fritz Demmel M.A., Alois Stockner, Heimatpfleger von Altötting, und Dieter Goerge stellten ihre Forschungen zur Verfügung, Dr. Christoph Niedersteiner brachte in Fragen zum Stuck sein Wissen ein. Eine große Hilfe waren Frau Ulla Kendlinger im Stadtarchiv Burghausen und Dr. Robert Bauer † im Stiftsarchiv Altötting.
+
+Zu allen Objekten wurde uns großzügig Zugang gewährt, in Altötting, Burghausen und in Heiligenstatt durch die Englischen Fräulein, im Kurfürst-Maximilian-Gymnasium in Burghausen durch Direktor Wolfgang Gutfleisch, in Schloss Tüßling durch Stephanie Gräfin von Pfuel. Auch den Pfarrherren und Mesnern der jeweiligen Kirchen sei für ihre Hilfe gedankt. Prälat Dr. Sigmund Benker machte sich freundlicherweise die Mühe, das Manuskript auf historische und theologische Fakten durchzusehen, Dr. Claudia Schwaab, die den Historischen Atlas von Altötting bearbeitet, half historische Belange klären. Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir möchten allen Damen und Herren, die mit unserer Sache befaßt sind, von ganzem Herzen danken für ihre Geduld und ihr Verständnis, für manche Anregung und auch für Kritik.
+
+Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für die verlegerische Betreuung verpflichtet. Frau Katja Durchholz betrieb mit fachlichem Können, künstlerischem Geschick und großem persönlichen Einsatz die Herstellung des Bandes.
+
+Frank Büttner und Bernhard Rupprecht
+<!-- citation-page-bottom: Band09 p7 -->
+{{End}}

@@ -1,0 +1,187 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=185
+|Originalseitenbis=190
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Gästewohnung Treppenhaus
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal
+|AutorIn1=Böhm, Cordula
+}}
+
+Kleines Tafelzimmer - »Stuba aulica minor«, Zimmer 6 in der Flucht der ehemaligen Gästezimmer im zweiten Obergeschoß des Prälatenstocks, die nach dem Besuch des Papstes Pius VI. im Herbst des Jahres 1782 in Raitenhaslach anläßlich seiner Reise von München nach Wien auch Päpstliche Zimmer genannt wurden.
+
+'''Zum Bauwerk:''' Das ehem. kleine Tafelzimmer lag über dem großen Tafelzimmer (»Stuba aulica maior«, nicht erhalten, s.S. 210). Fast quadratischer Raum (7,55 x 8,30 m), Zugang vom Gang, drei Fenster nach W; im S Tür zu einem Nebenraum. In zwei Ecken ein Wandschrank (Toilette) und als Pendant ein Kachelofen in Ockerbraun, beide prächtige Rokokostücke. Auf dem Plan (StAB P 323) von Franz Anton Glonner zum Umbau des Prälatenstocks in Pfarr- und Schulräume ist der Raum nicht namentlich hervorgehoben.
+
+'''Auftraggeber:''' Abt Emanuel II. Mayr von Raitenhaslach (1759-80). Sein Wappen befindet sich über der Eingangstür.
+
+'''Autor und Entstehungszeit:''' Franz Joseph Soll (* 1734 Friedingen an der Donau † 1798 Trostberg, s. S. 244) um 1762
+
+Anläßlich der Weihe der Prälatenkapelle am 26.9.1762 bewohnte der Salzburger Fürsterzbischof Sigismund von Schrattenbach die Gästewohnung. Man kann annehmen, daß die Zimmer damals fertig ausgestattet waren. Soll wird in der Annalen zwar für das Treppenhaus im Gästetrakt und für die »Stuba aulica maior« als Autor der Deckengemälde genannt, aber nicht ausdrücklich auch für die Stuba minor. Es ist aber an seiner Autorschaft aus stilistischen Gründen kein Zweifel.
+
+Wegen der niedrigen Decke kann man Solls stilistische Eigenarten gut beobachten. Die Malerei wirkt relativ grob und flüchtig. Die Binnenzeichnung ist mit dickem Pinsel aufgetragen – Augen, Nase, Mund als dicke Tupfer. Die Körper der Putten sind recht plump, die Beinchen dick und formlos. Übermalungen in Secco sind bei Soll häufig. Wo sich die Farben im Laufe der Zeit in ihrer Konsistenz verändert haben, wirken sie schmutzig; sonst sind sie sehr bunt und mit Vorliebe gegen duftige weißgrundige Partien abgesetzt. Soll zeigt sich im Fresko des Gästezimmers deutlich beeinflußt von Zicks Fresken in der Klosterkirche, z.B. in der Verwendung des kräftigen Blau, gerade auch in der häufigen Kombination mit Goldocker. Im Aufbau des Schauplatzes ist die Ähnlichkeit mit der Triumphbogenarchitektur in der Hauptansicht von
+<!-- citation-page-bottom: Band09 p185 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=19 -->
+<!-- citation-page-top: Band09 p186 -->
+
+<!-- header: RAITENHASLACH -->
+
+
+[[File:Band09_chunk004_p019_img001.jpg|thumb|V. Winter – Feuer]]
+
+
+Zicks Fresko C offensichtlich. Andererseits arbeitet Zick im Gegensatz zu Soll den Seccoanteil miniaturhaft fein aus.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle Rahmen: Brokatierter Stuckrahmen, Kartuschen und Rocailleornamentierung gemalt
+
+Technik: Fresko mit Seccoübermalungen; D, D<sub>1-4</sub>, W<sub>a-b</sub>, W<sub>1-4</sub> polychrom, F<sub>a-f</sub> monochrom ocker
+
+Maße: D Höhe 4,00 m; 5,60 × 6,00 m  
+D<sub>1-4</sub> 0,60 × 0,50 m  
+W<sub>1-4</sub> 2,05 × 1,70 m  
+F<sub>a-f</sub> 0,50 × 0,40 m  
+
+Erhaltungszustand und Restaurierungen: Nach der Beschreibung in der Abtschronik zu schließen ist der Raum heute noch
+
+
+[[File:Band09_chunk004_p019_img002.jpg|thumb]]
+
+
+
+[[File:Band09_chunk004_p019_img003.jpg|thumb]]
+
+
+unverändert. Die Decken- und Wandfresken wurden sichtlich noch nie restauriert. Risse und Abblätterungen, hauptsächlich im Rahmenbereich. Seccoübermalungen teilweise stark abgerieben, besonders bei den Wandbildern. Trotzdem ist die Malerei in originalem Zustand.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Der gesamte Raum ist farbig gefaßt in illusionistischer Malerei, die eine Marmorarchitektur vorstellen will. Der farbige Grundakkord ist das Grau der Marmorierung zu dem Rot der Pilaster und des Gesimses; die Kapitelle und Sockel sind goldfarben; die Attikazone ist in gelb und sandfarbenem Marmor gefaßt. In Höhe der Fensterbrüstung ist ein umlaufendes Profil gezogen, unter dem sich querformatige Paneele befinden. Jede Wand ist in drei vertikale Achsen aufgeteilt. Die seitlichen Wände zeigen in ihren Feldungen die vier Jahreszeiten als Gemälde (W<sub>1-4</sub>), die die Wirkung von Gobelins bzw. von Wandbespannungen haben. An der Eingangsseite, wo Öfen und Schrank stehen, sind zwei historische Szenen (W<sub>a-b</sub>). Die Eingangstür ist flankiert von Paneelen mit je einer Rocaillevase in Goldgelb. Die Pendants an der gegenüberliegenden Fensterwand sind mit Spiegeln geschmückt; die Fensterlaibungen der drei Fenster mit Emblemen (F<sub>a-f</sub>).
+
+D JOSEPH UND SEINE BRÜDER Das Fresko ist zweiansichtig, Hauptansicht nach W, Gegenansicht nach O. Untersichten und Verkürzungen sind kaum beabsichtigt. Bei der geringen Raumhöhe kann die Scheinarchitektur nicht zur Wirkung kommen. Die Geschichte Josephs und seiner zwölf Brüder ist vielfigurig, lebhaft und in bunten Farben erzählt.
+
+
+[[File:Band09_chunk004_p019_img004.jpg|thumb]]
+
+
+
+[[File:Band09_chunk004_p019_img005.jpg|thumb]]
+
+
+JOSEPH WIRD VON SEINEN BRÜDERN VERKAUFT (O-Seite) Den Hintergrund dieser Szene bilden kleine, niedrige Phantasiegebäude, ein Brunnen, ein Zelt und unbelaubte Bäume. Links weidet einer der Brüder die Schafe. Der zweite Bruder rollt einen großen Stein über die Zisterne. Das blutbefleckte Kleid deutet darauf hin, daß die Brüder Joseph in die Zisterne werfen und dem Vater das blutbefleckte Kleid bringen wollen, als Beweis dafür, daß Joseph von einem wilden Tier zerrissen worden sei. Ruben, der älteste der Brüder, war gegen den Mord, Juda, der vierte, überredete die Brüder, Joseph für 20 Silberlinge an eine vorbeiziehende Karawane zu verkaufen. In der Mitte der Ostseite findet der Handel statt. Dem als Hirten mit Schippe und Wasserschlauch gekennzeichneten Juda werden von dem midianitischen Kaufmann die Silberlinge in die Hand gezählt. Eine vornehme Dame, die
+
+
+[[File:Band09_chunk004_p019_img006.jpg|thumb]]
+
+
+
+[[File:Band09_chunk004_p019_img007.jpg|thumb]]
+
+
+JOSEPH WIRD VON SEINEN BRÜDERN VERKAUFT (O-Seite) [...] (Fortsetzung im nächsten Abschnitt)
+
+
+[[File:Band09_chunk004_p019_img008.jpg|thumb|Wappen der Stifterin Hemm]]
+<!-- citation-page-bottom: Band09 p187 -->
+
+
+D1 Wappen der Stifterin
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=20 -->
+<!-- citation-page-top: Band09 p188 -->
+
+<!-- header: RAITENHASLACH -->
+
+<!-- header: RAITENHASLACH -->
+
+ein Kind bei sich hat, nimmt sich des Knaben Joseph an. Weitere reich gekleidete Kaufleute warten mit dem Träger und einem Kamel bei dem Zelt. Auf der Seite der Brüder steht ein Bruder neben Juda. Die Köpfe der übrigen Brüder erscheinen zusammen mit ihren Hirtenschippen hinter einer Mauer.
+
+JOSEPH EMPFÄNGT SEINE BRÜDER IN ÄGYPTEN (W-Seite) Schauplatz der Szene in der Hauptansicht ist eine sich über die ganze Bildbreite erstreckende Thronarchitektur mit zwei Säulenpaaren, die eine überkuppelte Thronhalle flankieren. Dort ist unter einem hohen, rot ausstaffierten Thron ein Gastmahl bereitet. Auf den einführenden Treppenstufen sind vor einer blauen Stoffdraperie drei Krüge in einer Bronzeschale angeordnet; ein Motiv, das von Johann Zick stammen könnte. Von links tritt, in Begleitung von Höflingen und Pagen, Joseph heran. Als ägyptischer Statthalter ist er prächtig geschmückt mit spitzen- und perlenverzierten Kleidern und einem Turban auf dem Kopf. Sein jüngster Bruder Benjamin, noch ein Kind, tritt ihm entgegen und küßt ihm die Hand. Vor rechts nähern sich, ehrerbietig und erstaunt zugleich, die übrigen zehn Brüder.
+
+Die Geschichte des ägyptischen Joseph (Gen 37) ist hier in der Tafelstube der Gästewohnung als alttestamentliches Vorbild für Gastfreundschaft dargestellt. Joseph, von den Brüdern als Knabe aus Eifersucht verkauft, war in Ägypten zum ersten Mann nach Pharao aufgestiegen und vergalt, als während einer Hungersnot die Brüder in Ägypten Getreide kaufen wollten, diesen ihr Unrecht mit Großmut und Liebe. Als sie zum erstenmal kamen, verlangte er von ihnen, sie sollten mit dem jüngsten Bruder Benjamin, der beim Vater zurückgeblieben war, zurückkommen. Bei ihrer Ankunft sprach er zu seinem Hausverwalter: Führe die Männer in mein Haus, lasse ein Stück Vieh schlachten und zubereiten, denn die Männer sollen am Mittag bei mir speisen. Den jüngeren Bruder erblickte er mit tiefer Ergriffenheit. Im inneren Gemach weinte er. Nachdem er sich das Gesicht gewaschen hatte, ging er wieder hinaus und befahl, die Speisen aufzutragen. Er bewirtete die Brüder königlich und lud sie ein, mit ihrem Vater Jakob und der ganzen Sippe zurückzukommen und in Ägypten zu wohnen.
+
+D<sub>1-4</sub> WAPPEN Die Kartuschen in den Zwickeln zeigen die Wappen der Gründer von Raitenhaslach sowie der geistlichen und weltlichen Herrschaft.
+
+D<sub>1</sub> Wappen des Stifters (SO): Löwe im Käfig (Graf Wolfker von Wasentegernbach).
+
+D<sub>2</sub> Wappen des Landesherrn (SW): Löwe und Rauten (Kurbayern).
+
+D<sub>3</sub> Wappen des geistlichen Oberhaupts (NW): Rotweiß (Salzburg) und springender Löwe (Fürsterzbischof Sigismund von Schrattenbach).
+
+D<sub>4</sub> Wappen der Stifterin (NO): Drei Blumen (Hemma von Vohburg, Gemahlin des Stifters).
+
+Diese Wappen sind in der gleichen Zusammenstellung in der Chronik BSB, Clm 1088, Tafel 3 gezeichnet (Hopfgartner 1987, Abb. 6).
+
+W<sub>1-4</sub> JAHRESZEITEN UND ELEMENTE Hochrechteckige Wandbilder an der S- und N-Wand, auf ockerfarbenem Grund, von Rocaillen gerahmt. Mit jeder Jahreszeit ist auch ein Element dargestellt.
+
+W<sub>1</sub> FRÜHLING – ERDE (SO) Drei Putten mit Blumen, Spaten und Helm in einer parkartig angelegten Gartenlandschaft.
+
+W<sub>2</sub> SOMMER – WASSER (SW) Zwei Putten spielen und balgen am Wasser, ein dritter schaut ängstlich aus der Tür des Weiherhäuschens, der vierte sitzt auf einer Garbe mit Angel und Sichel.
+
+W<sub>3</sub> HERBST – LUFT (NW) Putten in einem Weinzelt, einer pflückt die Trauben, der andere drückt sie in den Bottich. Vogelkäfig und Vögel symbolisieren die Luft.
+
+W<sub>4</sub> WINTER – FEUER (NO, neben dem Ofen) Ein Putto mit Kohlenschaufel wärmt sich die Hände am Feuer, der zweite sitzt mit Pelzmütze auf einer Rocaille und hält eine Feuerpfanne. Ein Gewehr ist Zeichen für das Element Feuer.
+
+[[File:Band09_chunk004_p020_img001.jpg|thumb]]
+
+[[File:Band09_chunk004_p020_img002.jpg|thumb|W<sub>b</sub> Der Ring des Polykrates]]
+
+[[File:Band09_chunk004_p020_img003.jpg|thumb]]
+
+W<sub>a-b</sub> NIL STABILE TERRIS Zwei Wandbilder an der O-Seite beschäftigen sich mit Eigenschaften von Herrschern. W<sub>a</sub> BERUFUNG DES CINCINNATUS (NO) Ein junger, lockiger Mann in grünem Wams und brauner Jacke hält in der Hand ein sichelförmiges Feldmesser. Er lehnt lässig an einem Sockel, auf dem eine Vase mit einem prächtigen Blumenstrauß steht. Ein Page tritt herzu und offeriert ihm auf einem Samtkissen Krone und Zepter (die Szene ist teilweise verdeckt vom Ofen). Es muß sich um die Berufung des Lucius
+
+[[File:Band09_chunk004_p020_img004.jpg|thumb]]
+
+[[File:Band09_chunk004_p020_img005.jpg|thumb|F<sub>6</sub> Vogel Strauß mit Hufeisen]]
+
+[[File:Band09_chunk004_p020_img006.jpg|thumb]]
+<!-- citation-page-bottom: Band09 p189 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=21 -->
+<!-- citation-page-top: Band09 p190 -->
+
+<!-- header: RAITENHASLACH -->
+
+Quinctius handeln, der Cincinnatus (Lockenkopf) genannt wurde (458 v. Chr.). In Kriegsgefahr wurde er vom Pflug weg zum Diktator berufen und gab nach sechzehn Tagen, nach erfolgtem Sieg über die Aequier, seine Herrschaft wieder ab (Livius 3,26, 8–11, 27,1–29).
+
+W<sub>b</sub> DER RING DES POLYKRATES (SO) Ein Negerpage bringt einem König auf einer Platte einen Fisch und reicht ihm einen Ring. Der König weist auf ein Blatt mit der Inschrift Nil stabile terris (die Szene ist teilweise vom Schrank verdeckt).
+
+Polykrates, Tyrann von Samos (538–522 v. Chr.) hatte sich die Alleinherrschaft über Samos und viele Inseln und Küstenstädte Kleinasiens angeeignet und seine Brüder übergangen. Sein Glück und sein Reichtum waren sprichwörtlich. Durch das freiwillige Opfer seines Ringes, den er ins Meer warf, wollte er dem Neid der Götter entgehen. Aber das Opfer wurde nicht angenommen, der Ring tauchte im Bauch eines Fisches wieder auf. Später fiel Polykrates einem Mord zum Opfer (Herodot 3,42, Plat. Men. 90a).
+
+Die beiden Szenen und der Spruch Nil stabile terris (Nichts auf Erden ist sicher) illustrieren in einem positiven und einem negativen Beispiel, daß Herrschaft und Reichtum, irdisches Glück und irdische Macht vergänglich sind, wobei Cincinnatus als Beispiel des weisen Mannes steht, der sich an die Herrschaft nicht klammert, Polykrates als mahnendes Beispiel, daß das irdische Glück nicht gehalten werden kann.
+
+F<sub>1-6</sub> EMBLEME AUF HERRSCHERTUGENDEN Die drei Fensterlaibungen sind ebenfalls mit hellgelben Paneelen auf marmoriertem Grund eingefaßt. Die Laibungen sind in Augenhöhe jeweils mit einer Emblemkartusche geschmückt. Das Lemma befindet sich oben auf einem Schriftband.
+
+F<sub>1</sub> Tarde, sed tute (Langsam aber sicher). Schildkröte, die einen Berg hinaufkriecht. Nach Picinelli (Lib. VI, Nr. 257, s. v. tarda) ist die Schildkröte Sinnbild für beharrliche Mühe und steht für den vorsichtigen Herrscher, der unter ständigen Überlegungen seine Entscheidungen reifen läßt.
+
+F<sub>2</sub> Sursum, et subter (Ich bin oben und unten). Fliegender Fisch, der untertaucht und wieder auftaucht. Henkel-Schöne (Sp. 690 f.) bringt ein Emblem mit dem Lemma NEC AURA NEC UNDA (weder in der Luft noch im Wasser). Das Emblem meint in der positiven Umkehrung des Weder-noch in das Sowohl-als-auch, daß dem umsichtigen Herrscher nichts entgeht.
+
+F<sub>3</sub> Nec in sopore sopitur (Selbst im Schlaf schläft er nicht). Löwe, der mit offenen Augen unter einem Baum schläft. Das Emblem bezieht sich auf die Wachsamkeit des Herrschers (Picinelli, Lib. V, Nr. 499, s. v. leo). Bei Henkel-Schöne (Sp. 400) wird in einem Vers die Wachsamkeit des Fürsten gepriesen: »Ob ich schon lig und ruhe, mein Augen doch halb offenstahn, Spricht der schlaffende Löw, Mein Schwantz ohr Underlaß sich regt, Ein König, Fürst und Herr Sorg für die Underthanen tregt, Sein Hertz wacht, ob er schon den natürlichen Schlaff nimbt an.«
+
+F<sub>4</sub> Nec tela nocebunt (Selbst die Pfeile schaden nicht). Elefant, gespickt von Pfeilen. Der Elefant, von Pfeilen getroffen, aber unverletzt, ist Bild der angegriffenen, aber unverletzten Tugend. Er ist so stark, daß er die Pfeile abschüttelt, seine Haut ist so dick, daß sie nicht blutet (Picinelli Lib. V, Nr. 264, 265; vgl. Wessobrunn, CBD Bd 1, S. 584).
+
+F<sub>5</sub> Nil lumine laedor (Vom Licht werde ich nicht verletzt). Adler fliegt ganz nah an die Sonne heran. Die Nähe des Sonnenlichts schadet dem Adler nicht, sondern schärft seine Augen (Picinelli, Lib. IV, Nr. 211, s. v. aquila). Das Emblem steht für den Fürsten, der unbeirrt vom Lob der Menge sich auf das Wesentliche beschränkt.
+
+F<sub>6</sub> Durissima vinco calore (Das Härteste besiege ich mit meiner Hitze). Vogel Strauß hält ein Hufeisen im Schnabel. Dem Vogel Strauß wird so viel Hitze des Magens nachgesagt, daß er selbst ein Hufeisen verdauen kann (Picinelli, Lib. IV, Nr. 617, s. v. struthio). Das Emblem bezieht sich auf den starken Herrscher, dessen Stärke selbst die größten Widrigkeiten überwindet.
+
+Die Fürstenzimmer innerhalb der Gästewohnungen waren für hohe Gäste bestimmt, die z. B. anläßlich einer Abtswahl oder auf der Durchreise nach Österreich in Raitenhaslach zu Gast waren, in erster Linie aber für den jeweiligen geistlichen und weltlichen Herrscher, den Fürsterzbischof von Salzburg und den Kurfürsten von Bayern. In der Regel repräsentiert sich hier - oder in seinem Festsaal - das Kloster innerhalb der Koordinaten der weltlichen und geistlichen Macht. Hier spielen die Wappen der Stifter auf Raitenhaslachs Alter und seine Rolle in der Geschichte an, die Wappen des Kurfürstentums Bayern und der Erzdiözese Salzburg auf die weltliche und geistliche Ordnung, in die Raitenhaslach eingebunden ist.
+
+Das Mittelbild thematisiert an einem biblischen Beispiel die Gastfreundschaft, wie im Treppenhaus die Gastfreundschaft Abrahams und in der Großen Gaststube die Marthas dargestellt werden. Mit Gastfreundschaft hat aber die zweite Iosephszene, der Verkauf Josephs an die midianitischen Kaufleute, nichts zu tun. Sie paßt mehr zu der Herrscherikonographie der Wandbilder W<sub>a-b</sub> und der Embleme F<sub>1-6</sub> in den Fensterlaibungen. Es ist vorstellbar, daß diese Thematik sich auf das Amt des Abtes bezieht: Dieser ist nicht, wie ein Fürst, für die hohe Stellung geboren, sondern kommt durch eigene Verdienste in die Lage, Macht auszuüben und hohe Gäste empfangen und bewirten zu können.
+
+Die Inschrift Nil stabile terris gibt den Schlüssel zur Deutung. Sie paßt nicht nur auf das Schicksal des Polykrates, sondern auch auf das des Cincinnatus und das des ägyptischen Joseph. Unter diesem Aspekt ist auch die Reihe der Herrschertugenden (F<sub>1-6</sub>) zu verstehen. Sie zielt auf die Eigenschaften ab, mit denen der Herrscher der Unsicherheit des Geschicks begegnen kann: Beharrlichkeit, Umsicht, Wachsamkeit, Unempfindlichkeit, Unbeirrbarkeit und Kraft in der Überwindung auch größter Schwierigkeiten. Dagegen fehlen wichtige Herrschertugenden wie Magnificentia oder Clementia.
+
+Dem Motto Nil stabile terris läßt sich auch die Jahreszeitenfolge (W<sub>1-4</sub>) mit dem Hinweis auf stetigen Wechsel zuordnen. In mancher Hinsicht bereitet das Programm des Tafelzimmers das des Festsaals (s. S. 191–205) vor. Dessen zentrale Aussage lautet <i>Stant cuncta labore</i> (Alles ist Ergebnis der Arbeit).
+
+Quellen und Literatur BSB, Clm 12536, fol. 57. KDB OB (8), S. 2620.
+
+<!-- header: Festsaalstock -->
+{{End}}

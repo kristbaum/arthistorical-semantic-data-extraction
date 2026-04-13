@@ -1,0 +1,64 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=213
+|Originalseitenbis=213
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Bibliothekstrakt mit Bibliothek
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Bibliothek
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Lusthäuschen im Abtsgarten
+|AutorIn1=Böhm, Cordula
+}}
+
+
+Neubau eines eigenen Bibliothekstraktes 1782–85. Der Bau schloß im Norden an das erste westliche Joch der Kirche rechtwinklig an und war sonst freistehend. Er war dreigeschossig, hatte neun Fensterachsen in der Länge und nur zwei in der Breite. Das Portal war in der Mitte der Westseite (Pläne Glonners StAB P 430). Der Bibliothekstrakt wurde nach der Säkularisation 1806 abgebrochen. Der Marmorboden mit einer Mittelrosette wurde in der Stiftskirche in Tittmoning wieder verwendet, die Einrichtung in ein Chorgestühl umgebaut. Ein Teil der Bibliotheksschränke ist noch in der Universitätsbibliothek in München vorhanden.
+
+Neue Bibliothek, 1785 aus dem Refektoriumstrakt hierher verlegt
+
+'''Zum Bauwerk:''' Die Bibliothek nahm die vier nördlichen Achsen des Baus ein, die fünf südlichen waren in Gang und
+<!-- citation-page-bottom: Band09 p213 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=8 -->
+<!-- citation-page-top: Band09 p214 -->
+
+<!-- header: RAITENHASLACH -->
+
+Nebenräume aufgeteilt (Maße nach Glonner ca. 25×12 m, nach Meidinger 26,5×15 m, Höhe 13,5 m). Der Raum erstreckte sich in der Höhe über das erste und zweite Obergeschoß und war durch eine umlaufende Galerie unterteilt (als geschwungener Umriß in Glonners Plan eingezeichnet). Er hatte zwei übereinander liegende Fensterreihen nach O und W, dazu zwei Fenster nach N. Zwischen den Fenstern waren oben und unten insgesamt 24 Bücherregale aufgestellt (Hauntinger).
+
+'''Auftraggeber:''' Abt Theobald Weißenbach von Raitenhaslach (1780-92). Der Abt war wissenschaftlich sehr interessiert. Er schickte seine Konventualen auf die Universitäten nach Ingolstadt, Salzburg, Heidelberg und Wien. Auf seinem Epitaph steht: »Der Begründer unserer Schatzkammer, aber nicht nur für die Philosophie, sondern auch der Begründer der überaus reichen Bibliothek« (Dorner 1988, S. 119f., Nr. 151). In der Trauerrede auf den Abt (S. 18f.) wird die Bibliothek gepriesen, aber nicht näher beschrieben.
+
+Autor und Entstehungszeit: Januarius Zick (* 1730 München † 1797 Ehrenbreitstein) 1785
+
+Die Autorschaft Zicks ist mehrfach dokumentiert: In einem Brief Zicks aus Rot an der Rot an den Hof in Trier vom 20.7. 1784 erkundigt er sich nach einem Auftrag für die Kurtrierer Residenz: »... das ich meine Zeit dernach einrichten weis. Würklich habe ich Schreiben aus Oberland Baijeren von Kloster Reittenhasslach, welches ein Lantstand ist, man verlangt mich bis übers Jahr die prechtige Bibliteg in fresco zu mahlen, und seind würklich in Begriff schriftlich den Accord auf Anweisung deren Grundrisse zu machen ... « (zitiert nach Straßer, Zick, S. 565).
+
+[[File:Band09_chunk005_p008_img001.jpg|thumb]]
+
+Im Tagebuch des Baron von Ingenheim findet sich ein Eintrag vom 18.8.1785: »Nachmittags besuchte ich den neuen Bibliothekssaal in Raitenhaslach, den ein Maler aus Koblenz al fresco ausgemalt hat.«
+
+Meidinger schreibt 1787 (S. 363; 1790, S. 89): »Die neue Bibliothek hat in der Länge 88, Breite 50, Höhe 45 Schuh. Die schöne Freskomahlerey allda ist von dem großen Künstler Jammerius Zück, Hofkammerath zu Koblenz im Rembrandischen Geschmack kostbar gemalt.«
+
+== Nachrichten in den Ouellen ==
+
+In den Reiseaufzeichnungen von P. Blasius Hauntinger wird unterm 19.6. 1800 die Bibliothek beschrieben: »Von der Kir che aus gingen wir in die Bibliothek, die der jüngere Zyck, ein Sohn des Vorgemeldeten, recht gut ausgemalt hat. Sie ist mi einer Galerie versehen. Die Verzierungen mit Urnen, Vasen Genien und dgl. sind sehr passend angebracht. Sie fällt sehr gu in das Auge und hat auf 3 Seiten im ganzen 20 Lichter, 10 unter und 10 auf der Galerie, und 24 Kästen oder Bücherschränke nämlich 12 unten und 12 auf der Galerie.«
+
+Der Umriß des ehem. Deckenbildes ist in Glonners Plan des zweiten Obergeschosses als ein langes Rechteck eingetragen. Der Randbereich ist in insgesamt 24 rechteckige Felder unterteilt. Das Mittelfeld war laut Meidinger »im Rembrandischen Geschmack« kostbar gemalt. Für die Beherrschung des chiaroscuro, für seine in dunklen Farben gemalten Gemälde von porzellanener Klarheit war Januarius Zick berühmt. Der Bibliotheksneubau fiel zeitlich mit dem Wandel zum Zopfstil zusammen. Die Freskomalerei Zicks auf dieser Stilstufe hatte sich von den Arbeiten Heigls und Solls schon weit entfernt. Baron Aretin, der 1803 die Bibliotheksbestände der säkularisierten Klöster begutachtete, berichtet: »Das lezte Kloster, das wir auf dieser Reise besuchten, war Rotenhaslach, das eine vortreffliche Bibliothek hatte. Sie war in einem Saale aufgestellt, in welchem die Dekorationen aus Engeln bestanden, die eine türkische Musik machten.« Die von Hauntinger erwähnten Urnen, Vasen und Genien hat man sich auf der Galeriebrüstung vorzustellen, wo Putten eine »türkische Musik« machten, d.h. überwiegend Blasinstrumente wie Pfeifen und Trompeten spielten (Mitteilung Robert Münster, München). Aus den Kirchenräumen, in denen Zick um 1780 freskiert hatte (Oberelchingen, Wiblingen oder Rot an der Rot) kann man eine Vorstellung vom Bibliotheksraum von 1785 in Raitenhaslach gewinnen: Ein weiter Raum, die Einrichtung in Weiß und Gold, die Dekoration in klassizistischen Formen. Das in dunklen Farben gemalte Fresko hatte wahrscheinlich eine gemalte Rahmenzone in Grisaillemalerei, die eine Stuckdekoration imitierte.
+
+[[File:Band09_chunk005_p008_img002.jpg|thumb|Die Bibliothek von 1785, unten das 1. Obergeschoß in Höhe der Galerie, oben das 2. Obergeschoß mit der Aufteilung der Decke, Ausschnitte aus den Bauaufnahmen 430b r und v. von Franz Anton Glonner, 1803, Stadtarchiv Burghausen]]
+
+== Quellen und Literatur ==
+
+Meidinger, 1787, s. 363, 1790, S. 89.
+
+Aretin, Johann Christian Freiherr von, Beyträge zur Geschichte und Literatur aus den Schätzen der pfalzbaierischen Centralbibliothek zu München, Bd 5, 1805, S. 432, mit einer Auswahl der Handschriften und gedruckten Bücher, die nach München gekommen sind, S. 446–48.
+
+(o.V.), Aus dem Tagebuch des Baron von Ingenheim 1784-93, in: Burghauser Geschichtsblätter 8, 1918, S. 1.
+
+Hauntinger, 1800.
+
+Krausen 1977, S. 38.
+
+Straßer, Josef, Januarius Zick 1730–1797, Gemälde – Gra phik – Fresken, Weißenhorn 1994, S. 565.
+
+{{End}}

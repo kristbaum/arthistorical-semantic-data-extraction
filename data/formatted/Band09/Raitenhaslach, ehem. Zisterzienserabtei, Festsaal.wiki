@@ -1,0 +1,359 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=191
+|Originalseitenbis=205
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus
+|AutorIn1=Böhm, Cordula
+}}
+
+Nach dem Ausbau der Gästezimmer 1760/62 trat im Jahr 1763 eine Pause in der Bautätigkeit ein. 1764/65 wurde durch Franz Alois Mayr im rechten Winkel zum Prälatenstock der Festsaalstock aufgeführt, der den Prälatenstock mit dem damals noch alten Konventbau verband. Er lag mit der Südfront zur Salzach. Der Festsaalstock hatte fünf Fensterachsen. Nach der Beschreibung des Chronisten nahm der Weinkeller das ganze Untergeschoß ein. Der Festsaal nahm die beiden Obergeschosse in den vier westlichen Jochen ein. Im verbleibenden östlichen Joch mit dem Turm waren das mathematische Kabinett und das Observatorium eingerichtet. Bei Meidinger und Lippert wird der Festsaal als »Speissaal« bezeichnet.
+
+== Festsaal - »Aula maior« ==
+
+'''Zum Bauwerk:''' Saal (22,00×9,00 m, 12,00 m hoch), mit vier Fenstern nach Norden und vier nach Süden, hohe Rechteckfenster mit darüberliegenden glockenförmigen Oberfenstern. Der Raum ist durch Stuckmarmorpilaster rhythmisch in sieben Wandachsen gegliedert, vier mit Fenstern und drei dazwischenliegende ohne Fenster. Sie tragen ein umlaufendes, verkröpftes Gebälk. Die Schmalseiten haben drei Achsen, in der Mitte war jeweils ein Portal, beide von zwei Nischen flankiert, in denen heute Holzfiguren stehen. Das westliche Portal besteht noch, es führt zum Gang vor den Gästezimmern im Prälatenstock. Das östliche Portal war ehemals der Zugang zum mathematischen Kabinett. Es ist heute durch ein Fenster ersetzt; der Bau bricht hier ab. Der Boden ist aus roten und weißen polierten Marmorplatten.
+
+Die Chronik erwähnt im Saal noch einen Marmorbrunner und gegenüberliegenden Marmortisch, Putten aus Stuckmarmor, die auf Jahres- und Tageszeiten alludierten, drei Kristalllüster und 24 Spiegel in vergoldeten Rahmen: »Aures inibit mulcet amoenissimus aquae ad placitum salientis susurrus molliter in concham marmoream irriguus, cui e regione gemina pariter mensa marmorea correspondet: jucunditatem adaugent circumsidentes parvuli naturam marmoream habentes, aut fingentes, ac quatuor et anni et diei partes puerili occupatione affabre repraesentantes. Lucem nocte, amoenitatem per diem diffundunt tres ex crystallo ab alto ... lychnuchi vulgo Lüster / cum viginti quatuor speculis columnis adhaerentibus aureo, crispatoque margine cinctis« (BSB, Clm 12536, fol. 62 v).
+
+Aufrisse des Festsaalstocks (Stadtarchiv Burghausen):
+
+P 1236 »Profil vom Speissaal inwendig« (Anton Glonner jun. nach Mayr um 1763)
+
+P 1238 »Profil vom Speissaal in- und auswendig« (Anton Glonner jun. nach Mayr um 1763)
+
+P 1239 »Profil vom kleinen Gartenstöckl und großen Saalstock« (Franz Anton Glonner sen.).
+
+Glonners Pläne differieren in manchen Punkten mit dem ausgeführten Bau, woraus geschlossen werden muß, daß Glonner junior die Pläne zwar signiert, aber nicht selbst aufgenommen hat. Es muß sich um Entwurfspläne Franz Alois Mayrs vor dem Bau 1763, allenfalls um Kopien davon handeln.
+
+Die wegen der Bezeichnung »Speissaal« in der Literatur für das Refektorium in Anspruch genommenen Pläne entsprechen im wesentlichen dem Festsaal. Der Aufriß mit der Innenansicht des Saals (P 1236) ist zweigeteilt mit Alternativvorschlägen: die rechte Seite zeigt als Wandgliederung Pilaster, die linke Halbsäulen, die außer den Kapitellen in halber Höhe noch mit Rocaillen geschmückt sind. Das Gewölbe der rechten Hälfte zeigt offenbar eine Spiegeldecke; der Gemäldespiegel ist mit einem Rocaillerahmen eingefaßt. Das Gewölbe der linken Hälfte entspricht mit Spiegel- und darübersitzendem Klostergewölbe dem ausgeführten Zustand bis auf die rocaillegeschmückten Zwickel und Stichkappen, für die bautechnisch keine Veranlassung besteht, weil die oberen Fenster unterhalb der Attika sitzen. Der Aufriß mit Innen- und Außenansicht des Saals (P 1238) zeigt an den Schmalseiten halbrunde Balkone, die im Osten vom Naturalienkabinett und im Süden vom zweiten Obergeschoß des Gästetrakts zugänglich waren. Es gibt keinen Hinweis darauf, daß die Balkone und die Zugänge zum zweiten Obergeschoß ausgeführt wurden. In den muschelförmigen Nischen neben der Tür stehen überlebensgroße Figuren von Flußgöttern auf muschelförmigen Brunnenschalen. In der Abtschronik ist von diesen Figuren nicht die Rede. In Glonners Beschriftung von 1803 heißt es im Perfekt: »wie der Speissaal ausgesehen hat«, d. h. der Saal war wie alle Klostergebäude für den Abbruch vorgesehen. Durch den 1804 erfolgten Ankauf der Klostergebäude durch den Braumeister Franz Xaver Baumgartner, der sich zunächst nur für die Wirtschaftsgebäude interessiert hatte, ist der Abbruch verhindert worden (Krausen 1977, S. 184).
+
+'''Auftraggeber:''' Abt Emanuel II. Mayr von Raitenhaslach (1759–80)
+
+'''Autor und Entstehungszeit:''' Martin Heigl (* unbekannt † 1774 München, s. S. 243) 1765
+
+Heigl wird in der Chronik als Autor genannt: »Prae reliquis idem fornix arte naturae aemula clarescit, praeclarissimo eiusdem D. Martini Heigl penicillo superbiens: refert elementa quatuor cum plurali epigraphe picto ineisa marmori: Stant Cuncta labore« (BSB, Clm 12536, fol. 60 v). Auch Meidinger (»das Frescogemälde in dem Saal ist von Heigl«) und Hauntinger (»der Plafond ist von dem Münchnerischen Hofmaler Haygel«) nennen ihn als Maler des Festsaals.
+
+Die Anwesenheit Heigls und seiner Familie in Raitenhaslach ist in den Pfarrmatrikeln belegt. Am 30.7. 1763 ist die Geburt einer Tochter verzeichnet, im April/Oktober 1765 Geburt und Tod einer zweiten Tochter; Patin war die Klosterbaderin (Bischöfl. Ordinariat Passau; Kopie im StadtA Burghausen). Das nächste Kind wurde am 6.9. 1766 wieder in München geboren (Krausen 1974, S. 12).
+
+[[File:Band09_chunk004_p021_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band09 p191 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=22 -->
+<!-- citation-page-top: Band09 p192 -->
+
+<!-- header: RAITENHASLACH -->
+
+
+[[File:Band09_chunk004_p022_img001.jpg|thumb|»Profil vom kleinen Gartenstöckl und großen Saalstock«, Stadtarchiv Burghausen, P 123]]
+
+
+[[File:Band09_chunk004_p022_img002.jpg|thumb|»Profil vom Speissaal in- und auswendig«, Stadtarchiv Burghausen, P 1238]]
+
+
+Johann Kaspar Lippert überliefert, daß Heigl nach einem Entwurf Thomas Christian Winks (* 1738 Eichstätt † 1797 München) gearbeitet habe. In der Schrift »Marianischer Berg« von 1764 (s. S. 143) wird Martin Heigl als Maler der Fresken von Marienberg gerühmt (fol. 34). Das Exemplar, das die BSB besitzt, war ehemals offenbar im Privatbesitz des geheimen Rats Johann Kaspar Lippert; bei der Stelle über Heigl findet sich der handschriftliche Hinweis: »vid. in finem«, und dort, am Ende des Buchs, sind eineinhalb eingeklebte Seiten mit einer Erklärung Lipperts: »In München ist es volkommen
+
+
+[[File:Band09_chunk004_p022_img003.jpg|thumb]]
+
+
+bekannt, daß der Martin Heigl weder ein churfrtl. privilegierter noch ein sinreich und sehr künstlicher Maler gewesen sey: Er war nur ein blos bürgerlicher und sehr mittelmäßiger Maler, und ohne Erfindung. Weil der damalige Prälat auch das Gewelb des Speiszimmers ausmalen ließ, bediente er sich einer List, wodurch er hiezu von einem andern geschickten Maler eine Sgizze erlangen möchte, weil sein Gevater Heigl sich selbst eine zu machen nicht im Stande war. Er gieng daher zu dem nachmaligen Hofmaler Christian Wink und verlangte von ihm erwähnte Sgizze, die das Leben des heil. Bernards vorstellen sollte. Der Künstler erbot sich hirzu in der Vermuthung, daß er gesagtes Zimmer oder vielmehr Saal werde selbst ausmalen dürfen. Der Prälat schickte ihm hierauf ein Model vom Holz, wie der Plafond des Gewelbes im verjüngten Maßstabe aussähe, damit sich Heigl in der Ausführung desto eher helfen konnte. Als nachhin Wink erfuhr, daß Heigl die Arbeit erhielt, beschwehrte er sich schriftlich beym Prälaten und dieser belohnt ihm seine Miehe mit zwelf Conventions Thalern, womit er Wink auch befriediget wurde, weil er ohnedem mit überfleißiger Arbeit versehen war. Hieraus ergibt sich also, daß die Seite 34 findige Stelle ganz unbegründet sey. J. K. L.« (s. Krausen 1974, S. 12–14, und Kupferschmied, S. 8 f.).
+
+Dieser Bericht wirkt überzeugend, obwohl zwei Punkte zu denken geben. Erstens sagt Lippert, Heigl sei der Gevatter des Abtes gewesen. Dafür konnte noch kein Beweis gefunden werden, wie ja überhaupt zu Herkunft und Tod des Malers nur widersprüchliche Angaben existieren (Kupferschmied S. 3-11). Zweitens sagt Lippert, Wink habe eine Skizze gemacht »die das Leben des heil. Bernards vorstellen sollte«. Die Festsaalthematik hat nichts mit dem hl. Bernhard zu tun. Das mit dem als »Speiszimmer oder vielmehr Saal« bezeichnete Raum andererseits wirklich der Festsaal gemeint ist, dafür sprechen die zeitlichen Angaben, die den Saal vor 1769 datieren: Der »nachmalige Hofmaler« Wink wurde 1769 Hofmaler
+
+Auch die Bezeichnung »Ausmalung« trifft auf den farbig gefaßten Raum zu. Lipperts Nachricht läßt sich wohl so interpretieren, daß Heigl für die Art der umlaufenden Landschaftsszenerie Anleihen bei einem Entwurf Winks genommen hat. Die Stelle von der Bernhards-Ikonologie beruht wohl auf einer Verwechslung.
+
+Johann Kaspar Lippert war befreundet mit Christian Wink und Pate seiner Kinder; er war auch Verfasser des Nachrufs auf Christian Wink. Es war ihm ein Anliegen, den genauen Sachverhalt über die Ausmalung des Saals in Raitenhaslach festzuhalten. Für Lippert war Wink der kommende Mann, während Heigl das ländliche, für fortschrittliche Kunstkenner schon veraltete Rokoko vertrat. Das in Lipperts Bemerkung erwähnte Holzmodell des Gewölbes und die Entwurfsskizze Winks sind verschollen. Inwieweit Heigl den erwähnten Entwurf Winks zur Vorlage nahm, sagt Lippert nicht; er hat den Raum offensichtlich nicht gesehen.
+
+Sucht man in Winks Oeuvre nach einer Ausmalung, die der umlaufenden Szenerie im Festsaal von Raitenhaslach vergleichbar wäre, so ist als erste erhaltene Komposition die Kuppel von St. Leonhard in Dietramszell aus dem Jahr 1769 zu nennen (CBD, Bd 2, S. 237), außerdem der Speisesaal im Schloß Schleißheim (CBD, Bd 3/II, S. 505) und der Festsaal von Zell an der Pram (OÖ, bei Schärding), dem ehemaligen Schloß der Grafen Tattenbach, beide 1772 entstanden. Das Deckenbild in Zell zeigt auch in einer Panorama-Szenerie die Elemente. Die Komposition ist aber viel reichhaltiger und lebendiger. Eine schlagende Ähnlichkeit mit dem Fresko in Raitenhaslach bietet sich nicht an. Aber den Einfluß Winks und Heigls Hinwendung zum Klassizismus zeigt der Vergleich mit Heigls ein Jahr zuvor entstandenem Kuppelfresko in Marienberg (S. 129 ff.). Neu sind im Festsaal die Klarheit der Komposition, die Abgegrenztheit der einzelnen Elemente, verschiedene klassizistische Motive wie z.B. die Figur der
+<!-- citation-page-bottom: Band09 p193 -->
+
+<!-- citation-page-top: Band09 p194 -->
+
+Sphinx. Die kühle, fast zum Monochromen hin zielende Farbigkeit der Hintergrundszenerie steht im Gegensatz zu der flimmernden, von heißer Sommerluft getränkten Atmosphäre früherer Heigl-Fresken (z. B. in Wilparting, CBD Bd 2, S. 629). In der Marienberger Kuppel sind zwar die gleichen Kompositionselemente für die umlaufende Szenerie eingesetzt wie im Saal von Raitenhaslach, aber dort ist die Szene angefüllt mit einer bunten, bewegten Menschenmenge und wie durch einen zarten Schleier gesehen. Im Festsaalfresko dagegen gibt es viel freien Raum
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Verbindung aus Spiegel- und Tonnengewölbe. Über dem Ansatz einer Spiegeldecke erhebt sich eine langgestreckte, an den Schmalseiten halbrund geschlossene Tonne über der flachen Wölbung, so daß zwei verschiedene Gewölbeformen praktisch übereinandersitzen.
+
+Rahmen: Das Gewölbe setzt vertieft hinter einem weißen umlaufenden verkröpften Gesims an, das Bildfeld A hat einen ockergefaßten, brokatgemusterten Stuckprofilrahmen; die Kartuschen und Ornamente der Rahmenzone sind gemalt
+
+Technik: Fresko; Mittelbild polychrom; Rahmenbilder Grisaillen auf blaßlila Grund
+
+Maße: Höhe 9,00 (Stich 2,00) m; Spiegelgewölbe 22,00×9,40 Tonne 19,00×6,40
+
+Erhaltungszustand und Restaurierungen: Der Raum ist im Lauf der Zeit verschiedentlich genutzt worden, teilweise als Lager und zum Wäschetrocknen. Die Decke ist dem Augenschein nach und nach Auskunft der bisherigen Besitzerin nicht restauriert. Technische Mängel sind zu erkennen wie viele Längsrisse im Scheitelbereich, die das Lattengewölbe erkennen lassen, und Querrisse. Feuchtigkeitsflecken im Himmelsbereich der Westseite bei der Figur der Diana, eine feuchte Stelle oberhalb des Fischerkahns an der Ostseite. Abblätterungen der Rahmenfassung. Die Fresken zeigen im übrigen einen hervorragenden originalen Zustand.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die Ausmalung ist wie das Gewölbe in zwei Zonen aufgeteilt, die nicht direkt miteinander korrespondieren: die Kuppel und die Rahmenzone. Die Rahmendekoration besteht aus einer Abfolge von Bildkartuschen und Hermen in zarter lockerer Rocaille-Rahmung. Sie erinnert in ihrer Aufteilung an die Rahmenzone des Steinernen Saals in Nymphenburg, wo Heigl unter Johann Baptist Zimmermann 1756 malte (CBD Bd 3/II, S. 361–78); unübersehbar ist aber das neue Verhältnis von Bild und Rahmenornament. Während in Nymphenburg Fresko und Stuckdekoration eine Einheit bilden, im gleichen Rhythmus schwingen und sich gegenseitig durchdringen, verhalten sich Rahmen und Bild in Raitenhaslach wie im Gegensatz zueinander. Die Rocaille-Dekoration umgibt in spannungsloser Abfolge der Motive das streng eingefaßte Bildfeld
+
+
+== A DIE KULTIVIERTE ERDE – DIE VIER ELEMENTE ==
+
+
+Umlaufende Panorama-Komposition. Die Darstellung des Apoll im Zentrum ist merkwürdig richtungslos, so daß von einer Hauptansicht keine Rede sein kann, die es auch inhaltlich nicht gibt. Die terrestrische Anlage hat ihre szenischen Schwerpunkte an den Längsseiten. Die Breitseiten sind ornamentale aufgefaßt und zeigen barocke Landschafts-Requisiten. Die umlaufende Landschaft schwingt in Vorder-, Mittel- und Hintergrundszenen rhythmisch vor- und zurück und zeigt die Personen je nachdem in größerem oder kleinerem Maßstab. Auf jeder der Längsseiten gibt es drei Szenen im Vordergrund, die fast dreiecksförmig angelegt sind und – in Gestalt von Bäumen oder Bergen – nach oben spitz zulaufen und der Komposition einen gleichmäßigen akzentuierten Verlauf geben. Ebenso gleichmäßig ist auch die Farbgebung: Grün in vielerlei Nuancen, Blaugrün, Gelbgrün, Braungrau, im Hintergrund fast zu Grau abgeschwächt, das zur Tiefe hin verblaut und in den Himmel übergeht, erzeugen die Vorherrschaft von erdgebundenen Farben, in dem Rot und Blau fehlen. Bäume und Berge sind die bestimmenden Motive der Komposition. Das Motto, unter dem die Vier Elemente szenisch dargestellt sind, wird auf einem Steinsockel mit Ziervase, der über der Westansicht aufragt, genannt: Stant / Cuncta / Labore (Alle ist Ergebnis der Arbeit).
+
+Im Zentrum erscheint Apoll in rosigen, lichten Wolken, eine goldlockige Jünglingsfigur in roter Draperie, am Rücken die Leier, in der Hand den Feuerpfeil, der direkt durch das Loch in der Decke geht, in dem ursprünglich der mittlere Kristalleuchter an der Decke aufgehängt war. Zwei Putten sind bei ihm. An der Seite sind zwei jugendliche Figuren zu sehen: Der Morgenstern und der Morgentau. An der Gegenansicht ist fliegend der Windgott Zephyr dargestellt, der zusammen mit zwei Amoretten Blumen auf die Erde bläst. Er bringt mit dem milden, feuchten Westwind den Frühling, der Blumen und Früchte wachsen läßt.
+
+
+[[File:Band09_chunk004_p023_img001.jpg|thumb]]
+
+
+
+[[File:Band09_chunk004_p023_img002.jpg|thumb]]
+
+
+
+[[File:Band09_chunk004_p023_img003.jpg|thumb|A Die kultivierte Erde – Die Vier Elemente, das Gewölbe des Festsaals (Martin Heigl 1765)]]
+<!-- citation-page-bottom: Band09 p195 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=24 -->
+<!-- citation-page-top: Band09 p196 -->
+
+<!-- header: RAITENHASLACH -->
+
+<!-- header: RAITENHASLACH -->
+
+
+[[File:Band09_chunk004_p024_img001.jpg|thumb]]
+
+
+
+[[File:Band09_chunk004_p024_img002.jpg|thumb|Das Zentrum mit Apoll, Jäger beim Element Luft (unten), Ackerbau und Viehzucht bei Erde (oben), Ausschnitt aus Fresko A]]
+
+
+196
+<!-- citation-page-bottom: Band09 p197 -->
+
+
+RAITENHASLACH
+
+RAITENHASLACH
+7
+g
+g2S
+F h
+Stan( - Alles ist Ergebnis der Arbeit, Westseite von Fresko A mit Diana - Luft (unten), Ceres und Kybele - Erde (oben)
+
+
+Das Zentrum mit Apoll, Jäger beim Element Luft (unten), Ackerbau und Viehzucht bei Erde (oben), Ausschnitt aus Fresko A
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=25 -->
+<!-- citation-page-top: Band09 p198 -->
+
+<!-- header: RAITENHASLACH -->
+
+<!-- header: RAITENHASLAC -->
+
+
+== Luft - Jagd - Diana (NW) ==
+
+
+Die Baumgruppe, die das kleine Monument mit der Inschrift umgibt, weicht zurück und eine hellfarbige Wolke senkt sich zur Erde nieder. Auf ihr erscheint Diana, die Göttin der Jagd umgeben von einer auffliegenden grünen Draperie, die Mondsichel im Haar, in der Hand den Jagdspieß. Zu Füßen der Wolke sitzen im Grase drei Nymphen, eine von ihnen mit dem Hifthorn. Vor ihnen liegen ein getöteter Hirsch und ein Reiher. Diana weist auf zwei Jäger mit ihren Hunden, die von rechts herankommen; einer trägt ein toten, blutenden Steinbock. Zwei bocksfüßige Satyrn mit Faunsohren und eine Nymphe sitzen an einem kleinen Erdhügel. Dahinter sieht man in der hellen, vergrauenden Ferne eine Jagdszene. Ein Jäger legt auf fliehendes Wild an, in der Luft fliegen Vögel. Die Szene beschließt in der Mitte der Längsseite eine kleine Anhöhe mit Bäumen vor einem weiten Wiesenplan. Hier lagern zwei Jäger; der eine ruht sich mit seinem Hund aus und schmaucht ein Pfeifchen, der andere legt auf einen Reiher an.
+
+
+== Feuer – Bergbau – Vulkan (NO) ==
+
+
+Hinter der mittleren Jagdgruppe sieht man einen Wasserfall zwischen Felsen niederrauschen, in der Ferne verblassende hohe Berge, auf halber Höhe eine Burg. Dann türmt sich wieder im Mittelgrund ein jäh ansteigender Steinbruch auf, in dem Steinbrecher arbeiten. Ein Mann schiebt mit der Schubkarre Steine nach unten. Es folgt im Vordergrund eine Ruinenarchitektur, ein hohes Gebäude mit rauchendem Kamin und einer höhlenartigen Werkstatt, aus der das Feuer lodert und in der drei kräftige, halbnackte Männer mit Hammer und Zange eine Kupferplatte bearbeiten. Vor dem Gebäude steht vor einer Anhäufung von fertigen, gebündelten Platten Vulkan, Gott des Feuers, ein kräftiger Mann in weißem Lendenschurz und rotem Mantel, den Hammer wie ein Zepter haltend. Er weist zwei junge Arbeiter an, den Korb mit kleinen Steinen, die sie ihm zeigen, zur Schmiede zu bringen.
+
+
+== Wasser - Fischfang - Neptun (SO) ==
+
+
+Abrupt bricht die Szene ab und gibt den Blick auf eine Gartenarchitektur frei, die die Ost-Ansicht des Deckenbildes besetzt, die inhaltlich schon zur nächsten Szene gehört. Dargestellt ist ein Brunnen mit Marmorbecken und Aufbau dahinter. Die vergoldete Brunnenfigur stellt Neptun dar, den Dreizack in der Hand, mit seinen Rossen, deren eines aus der Nase einen Wasserstrahl speit. Pendant zum Sockel an der Westseite ist in der Ostansicht eine gewölbte Gartenlaube, zu der eine Steintreppe führt, flankiert mit Ziervasen und einer steinernen Sphinx. Die Ausführung des Elements Wasser setzt sich jenseits der Gartenarchitektur fort, an der S-Seite, wo ein kleiner Felsenhügel mit Bäumen und einem Weinstock mit reifen Trauben aufragt. Unter den Bäumen sitzen zwei schöne junge Nymphen, von denen die rechte einen großen Fisch hält. Sie werden belauscht von einem dunkelhäutigen jungen Mann (Satyr) hinter dem Baum. Die Hintergrundszene zeigt drei Fischer in einem Boot auf einem See vor Bergen. Die Ansicht in der Mitte der zweiten Längsseite zeigt zwei Fischer, die ihr Netz aus dem Wasser ziehen. Vor ihnen steht ein Bottich mit Fischen, am Boden liegt eine Perlmuschel. Eine schilfbekränzte Nymphe weist die Fischer auf die folgende Szene hin.
+
+
+== Erde – Ackerbau – Ceres und Kybele (SW) ==
+
+
+Im Mittelgrund leitet eine idyllische Szene zum nächsten Element hin: Pferde und Kühe weiden und lagern im felsigen Gelände, ein Pan sitzt auf Steinquadern und spielt die Panflöte. Die Landschaft wandelt sich zu einer Bauernlandschaft mit Feldern. Hier arbeiten zwei Schnitter; Putten laden die Garben auf den mit Rocaillen verzierten Erntewagen, der an den Wagen der Ceres erinnert. Im Anschluß an diese Szene ist eine Rastszene dargestellt: die beiden Erdgöttinnen, Ceres mit Ährenkranz und Sichel und Kybele mit der Mauerkrone auf dem Haupt lagern auf den Garben. Kybele legt den Arm um Ceres, Ceres weist auf die Ernteszene. Putten spannen eine große weiße Draperie zwischen einem Baum und dem Sockel im O, dessen Aufschrift STANT CUNCTA LABORE an die Arbeit erinnert, die die Erde im Kulturzustand erhält.
+
+RAHMENZONE Die ca. 1,50m breite gemalte Rahmenzone imitiert einen Gewölbeansatz mit Stichkappen und Zwickeln, ornamentiert mit steinfarbenem Stuck, der mit bronzefarbenen Blatt- und Blütenranken durchflochten ist und Kartuschen mit lavendelfarbener Grisaillemalerei einschließt. Von diesen Kartuschen sind vier Vierergruppen symmetrisch angeordnet: Kartuschen in den Achsen (1-4) mit spielenden Putten; Kartuschen in den Diagonalen mit Sinnbildern (a-d); gemalte Stuckfiguren an den Längsseiten, die Allegorien darstellen (A<sub>1-4</sub>) und vier gemalte Hermen vor goldenen Muscheln.
+
+
+[[File:Band09_chunk004_p025_img001.jpg|thumb|Vulkan – Bergbau – Feuer (unten) und Neptun – Fischfang – Wasser, Ostseite von Fresko A]]
+<!-- citation-page-bottom: Band09 p199 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=1 -->
+<!-- citation-page-top: Band09 p200 -->
+
+<!-- header: RAITENHASLACH -->
+
+
+[[File:Band09_chunk005_p001_img001.jpg|thumb]]
+
+
+Bezieht man aber die Embleme auf die Arbeit, die Grundlage des blühenden Landes ist und die laut Inschrift Stant Cuncta Labore auch das Grundthema des Hauptbildes ist, so wird der gemeinsame Sinn erkennbar. Die Arbeit muß ihr Ziel scharf ins Auge fassen (Adler), sie muß auch größte Widrigkeiten überwinden (Strauß), sie muß in Eintracht getan werden (Glocke) und aufopfernd sein für das Gemeinwohl (Jonas).
+
+
+[[File:Band09_chunk005_p001_img002.jpg|thumb]]
+
+
+
+[[File:Band09_chunk005_p001_img003.jpg|thumb]]
+
+
+d Jonas wird vom Walfisch ausgespien (SO). Trotz Irren und Fehlen erfüllt er seine Sendung. Die Deutung Picinellis (Lib. III, Nr. 343, s. v. Jonas, mit Lemma EJICIAR EGO, UT TEMPESTA DESINAT) zielt auf die Aufopferung für andere und für die Gemeinschaft.
+
+Jonas lehnte sich gegen seine Sendung auf und floh vor Jahwe nach Tarschisch. Auf einer Schiffsreise brach ein schrecklicher Sturm los, die Schiffsleute warfen das Los, um den Schuldigen zu finden. Jonas bekannte sich als der Schuldige und wurde ins Meer geworfen, um den Sturm zu besänftigen. Er wurde von einem Fisch verschlungen. Aus dem Bauch des Fisches hörte er nicht auf, zu Gott zu rufen. Nach drei Tagen wurde er an Land gespien (Jon 1–2).
+
+A<sub>1-4</sub> EIGENSCHAFTEN, DIE ZU UNTÄTIGKEIT FUHREN Vier Putten an den Längsseiten, jeweils an einem Steinsockel mit Ziervase stehend, in einem aus Rocaillen und Blumengirlanden locker gebildeten Ornamentgeflecht ohne Rahmung und Hintergrund. Ebenso wie die Putten in 1-4 sind sie Teil der Gegenwelt zur Welt der sinnvollen Arbeit. Sie verkörpern die Eigenschaften oder Liebhabereien, die den Menschen von der Arbeit abhalten.
+
+A1 ZERSTREUUNG DER KRÄFTE Putto mit zwei Trompeten (NW). Der Putto versucht, gleichzeitig beide Trompeten zu blasen, was keinen Ton ergibt. Im Sinne der andern drei Sinnbilder gedeutet, kann man in diesem Bild einen Hinweis auf die nicht zielgerichtete Arbeit sehen, auf die Zerstreuung der Kräfte, auf mangelnde Konzentration.
+
+
+[[File:Band09_chunk005_p001_img004.jpg|thumb]]
+
+
+
+[[File:Band09_chunk005_p001_img005.jpg|thumb]]
+
+
+
+[[File:Band09_chunk005_p001_img006.jpg|thumb|4 Spiel mit Tieren – Erde]]
+
+
+A2 SINNENLUST Putto mit verbundenen Augen, Pfeil und Bogen (SO). Der Putto stellt die blinde Sinnenlust dar, Amor profanus. Henkel-Schöne (Sp. 1759–61) bringt hierzu ein Beispiel: Die irdische Liebe ist blind und frönt dem Müßiggang, die rechte Liebe ist »ein lieblich süß« Arbeit und meidet den Müßiggang.
+
+A<sub>4</sub> NARRHEIT Putto mit Laute (SW). Der Putto trägt einen Harlekinshut, der ihn als Narren ausweist. Das närrische Lautenspiel steht hier für oberflächliche und sinnlose Beschäftigungen.
+
+
+== Ikonologie ==
+
+
+Die Ikonologie des Festsaals von Raitenhaslach ist erstaunlich verglichen mit der von Festsälen in anderen ständischen Klöstern. Der Festsaal ist Stätte der zeremoniellen Begegnung der landständischen Abtei mit der Landesherrschaft. Seine Programmatik zielt fast stets auf das Verhältnis Stift/Fürst ab, daher auch meist der Name Fürstensaal. Das Stift wird durch die Bildausstattung in den Zusammenhang der weltlichen Herrschaft – sei es das Heilige Römische Reich, sei es in Bayern das Kurfürstentum – eingeordnet, seine Bedeutung im weltlichen Zusammenhang wird dargestellt. Eine weitere Sinnschicht ist die Gründungsgeschichte und damit die Einordnung des Stifts in den Zusammenhang der Landesgeschichte einerseits und der Heilsgeschichte andererseits. In übergeordnetem Rahmen wird das Stift dann in der kosmologischen Ordnung der Elemente, Jahreszeiten, Monate dargestellt.
+
+Diese dritte Sinnschicht scheint hier in Raitenhaslach auf den ersten Blick das Programm zu bestimmen. Erst der genauere Blick und die sorgfältige Deutung der Puttenszenen erschließt den tieferen Sinn: die Unterordnung des kosmologischen Themas unter das Thema der Arbeit. Die Arbeit läßt das Land blühen. Zu den himmlischen Grundvoraussetzungen Sonne, Tau, warmer Regenwind kommt die Kultivierungsarbeit der Menschen.
+
+An die übliche Festsaal-Ikonologie erinnerten in Raitenhaslach nur die Bilder an den Wänden, die in einer oberen und einer unteren Reihe an den nicht durchfensterten Zwischenjochen der Längsseiten angebracht waren. Die Chronik nennt in jeder Reihe sechs Bilder. Es waren an jeder Längswand drei Fenster-Zwischenräume. Die Bilder waren offenbar paarweise, sich jeweils gegenüberhängend, dargestellt. Die unten hängenden Bilder zeigten das 1765 regierende Kurfürstenpaar Max III. Joseph und Maria Anna; dann die Gründer Raitenhaslachs, Wolfer und Hemma; dann Erzbischof Konrad I. von Salzburg, den eigentlichen Gründer, und den 1765 regierenden Salzburger Fürstbischof Christoph Sigismund von Schrattenbach, den großen Gönner des Stifts.
+
+
+[[File:Band09_chunk005_p001_img007.jpg|thumb]]
+
+
+ern das Kurfürstentum – eingeordnet, seine Bedeutung im
+weltlichen Zusammenhang wird dargestellt. Eine weitere
+Sinnschicht ist die Gründungsgeschichte und damit die Ein¬
+ordnung des Stifts in den Zusammenhang der Landesge¬
+schichte einerseits und der Heilsgeschichte andererseits. In
+übergeordnetem Rahmen wird das Stift dann in der kosmolo¬
+gischen Ordnung der Elemente, Jahreszeiten, Monate dar-
+gestellt
+Diese dritte Sinnschicht scheint hier in Raitenhaslach auf den
+ersten Blick das Programm zu bestimmen. Erst der genauere
+Blick und die sorgfältige Deutung der Puttenszenen erschließt
+den tieferen Sinn: die Unterordnung des kosmologischen The¬
+mas unter das Thema der Arbeit. Die Arbeit läßt das Land
+blühen. Zu den himmlischen Grundvoraussetzungen Sonne,
+Tau, warmer Regenwind kommt die Kultivierungsarbeit der
+Menschen.
+An die übliche Festsaal-Ikonologie erinnerten in Raitenhas¬
+lach nur die Bilder an den Wänden, die in einer oberen und
+einer unteren Reihe an den nicht durchfensterten Zwischenjo¬
+chen der Längsseiten angebracht waren. Die Chronik nennt in
+jeder Reihe sechs Bilder. Es waren an jeder Längswand drei
+Fenster-Zwischenräume. Die Bilder waren offenbar paar-
+weise, sich jeweils gegenüberhängend, dargestellt. Die unten
+hängenden Bilder zeigten das 1765 regierende Kurfürstenpaar
+Max III. Joseph und Maria Anna; dann die Gründer Raiten¬
+haslachs, Wolfer und Hemma; dann Erzbischof Konrad I. von
+Salzburg, den eigentlichen Gründer, und den 1765 regierenden
+Salzburger Fürstbischof Christoph Sigismund von Schratten-
+bach, den großen Gönner des Stifts.
+
+[[File:Band09_chunk005_p001_img008.jpg|thumb]]
+
+
+
+[[File:Band09_chunk005_p001_img009.jpg|thumb|1. Narrheit]]
+<!-- citation-page-bottom: Band09 p201 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=2 -->
+<!-- citation-page-top: Band09 p202 -->
+
+<!-- header: RAITENHASLACH -->
+
+<!-- header: RAITENHASLACH -->
+
+
+[[File:Band09_chunk005_p002_img001.jpg|thumb|d Ionas mit dem Walfisch]]
+
+
+Mit diesen sechs Bildern sind wie in einer Abbreviatur die Festsaal-Themen der geistlichen und weltlichen Herrschaft sowie der Gründung abgehandelt (die sechs oben hängenden Bilder des Salzburger Fürstbischofs Hieronymus Colloredo, der erst seit 1772 regierte, des seit 1775 regierenden Papstes Pius VI. und weiterer Kurfürsten und Herzöge von Bayern gehörten nicht zur ursprünglichen Ausstattung).
+
+Große Supraporten, nach der Chronik auch von der Hand Heigls, zeigten Salomon und Ahasver. Es ist wohl die Szene von Salomon als weisem Richter dargestellt gewesen – eine beliebte Anspielung auf den guten Herrscher. Unter dem Bild »Taten von Ahasver« muß man sich Esther vor Ahasver vorstellen; Ahasver verschonte auf Esthers Bitte das Volk der Iuden – es bedeutete wohl die Clementia des Herrschers.
+
+Nirgends war nach der Überlieferung innerhalb der Wanddekoration oder an der Decke selbst eine Anspielung auf Raitenhaslach, kein Wappen, kein Mönch.
+
+Andererseits ist auch die mythische Deutung der Landschaft als von Göttern geleiteter und getragener Kosmos in gewisser Weise ausgezehrt. Man vergleiche den Apoll in Nymphenburg von 1756 mit dem neun Jahre später entstandenen Apoll in Raitenhaslach, jener noch Sonnengott auf dem Sonnenwagen, dieser lieblich schwebend wie irgendein Genius, wie Zephyr.
+
+
+[[File:Band09_chunk005_p002_img002.jpg|thumb]]
+
+
+
+[[File:Band09_chunk005_p002_img003.jpg|thumb]]
+
+
+oder der Morgentau. In Nymphenburg erscheinen die Götter wie Diana, Venus, Bacchus auch in der umlaufenden irdischen Szenerie, in Raitenhaslach wird in der Hierarchie zwischen Götter- und Menschenwelt neu gewertet. Der Mensch, und zwar der tätige Mensch, agiert in den einzelnen Szenen neben den Göttern. Diana nimmt Kontakt auf zu den Jägern, Ceres und Kybele ruhen neben den Landleuten scheinbar von der Erntearbeit aus, Vulkan gibt den Bergarbeitern Anweisungen, Neptun ist nur noch formelhaft als Brunnenfigur in Erinnerung gebracht.
+
+Augenfällig ist der inhaltliche, aber auch der formale Bezug zum Deckenbild im Steinernen Saal des Schlosses Nymphenburg. Auch dort werden die Elemente und die Götter dargestellt unter dem Motto: Die Blüte des Landes im Frieden. Mehrfach hat Heigl im Festsaal von Raitenhaslach aus den Nymphenburger Fresken zitiert: in der Gestalt des Apoll, der Diana, der Berglandschaft mit Burg. Das Motiv mit dem Faun, der beim Element Wasser hinter dem Baum hervorlugt und auf die schöne Nymphe blickt, ist aus dem Fresko des Gartensaals >Zephyr und Flora« zitiert; die Nymphe ist eine Wiederholung der Flora.
+
+Ist in Nymphenburg die Blüte des Landes unter der Friedensherrschaft des Kurfürsten Max III. Joseph dargestellt, so in
+
+
+[[File:Band09_chunk005_p002_img004.jpg|thumb]]
+
+
+Raitenhaslach die Blüte des Landes durch die Arbeit des Menschen an seiner Kultivierung. Die Kultivierung des Landes war eine der Hauptaufgaben und Grundlage für das Aufblühen des Zisterzienserordens. Im Gegensatz zu den Augustiner-Chorherren, deren Hauptaufgabe die Seelsorge war, und noch viel ausschließlicher als bei den Benediktinern beschränkten sich die Zisterzienser auf Gebet und Arbeit. Ihre weltliche Bedeutung lag in der Urbarmachung des Landes. War die geistliche Bedeutung des Zisterzienserordens in dem Deckenbildprogramm der Klosterkirche dargestellt worden, so repräsentiert nun der Festsaal die weltlichen Verdienste des Klosters. Konkrete Hinweise finden sich nirgends; das Programm beschränkt sich auf die Allusion, wie auch im Programm der Klosterkirche nirgends auf Raitenhaslach selbst verwiesen ist. Nur mit dem Motto Stant Cuncta Labore wird angedeutet, daß mit den dargestellten Tätigkeiten die Arbeit des Klosters Raitenhaslach gemeint sein kann.
+
+Das Stift Raitenhaslach lebte sozusagen autark; es besaß eine ausgedehnte Landwirtschaft – die ehemalige Klosterschwaige, der sog. Scheuerhof, stand zwischen Kloster und Marienberg und bezog zusätzliche Abgaben an Getreide, Ölsaat und Hülsenfrüchten. Fischerei und Milchwirtschaft waren wichtige Erwerbszweige. Nicht nur an den Flüssen Salzach, Alz und
+
+
+[[File:Band09_chunk005_p002_img005.jpg|thumb]]
+
+
+Rott, sondern auch auf dem Chiemsee besaß das Kloster Fischereirechte. Die Käseproduktion erfolgte hauptsächlich auf klostereigenen Almen in Tirol. Neben Wald- und Wiesenwirtschaft betrieb Raitenhaslach Pferde-, Rinder- und Schafzucht (für die grauen Schafwollkutten der Mönche). Eigene Weingüter besaß es in der Wachau mit einem Sitz im Klosterhof in Krems (der Weinbau an den Salzachhängen war wenig erfolgreich). In Reichenhall und in Hallein besaß es ehemals Salinen, die im 15. Jh. an das Erzbistum Salzburg gegen jährliche Abgaben verkauft worden waren. Inwieweit es an den Erzbergwerken im Tauerngebirge (Eisen, Kupfer) partizierte, ist nicht bekannt. Einen Tuffsteinbruch, eine Mühle, eine eigene Papiermühle gab es in der Nähe des Klosters und auch Kupfer-, Eisen- und Nagelschmiede, in denen der Bedarf für die klostereigenen Bauten hergestellt wurde (Hopfgartner, 1996, S. 78; ausführlich dazu Edgar Krausen, Die Wirtschaftsgeschichte der ehem. Cisterzienserabtei Raitenhaslach bis zum Ausgang des Mittelalters, Kallmünz 1937, S. 103-42, und Krausen 1977, S. 194–99.)
+
+Es soll hier auf den Bibliotheksaal der Prämonstratenserabtei Schussenried (1757) hingewiesen werden, wo die Elemente durch technische Geräte und menschliche Verrichtungen dar-
+
+
+[[File:Band09_chunk005_p002_img006.jpg|thumb|Gemalte Hermen vor goldenen Muschen in der Hohlkehle, Südseite]]
+
+
+
+[[File:Band09_chunk005_p002_img007.jpg|thumb]]
+<!-- citation-page-bottom: Band09 p203 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=3 -->
+<!-- citation-page-top: Band09 p204 -->
+
+[[File:Band09_chunk005_p003_img001.jpg|thumb]]
+[[File:Band09_chunk005_p003_img002.jpg|thumb]]
+[[File:Band09_chunk005_p003_img003.jpg|thumb|König Salomon und Esther vor Ahasver (Martin Heigl um 1765). Burghausen, Institut der Englischen Fräulein. Ehemals Supraporten im Festsaal?]]
+[[File:Band09_chunk005_p003_img004.jpg|thumb|Maria Anna Gemahlin Max III. Joseph (1747-07)]]
+[[File:Band09_chunk005_p003_img005.jpg|thumb]]
+
+gestellt sind. Daß aber in Raitenhaslach ganz konkret die menschliche Leistung verherrlicht und der Müßiggang getadelt wird, daß jeglicher Hinweis auf Gott bzw. die Göttliche Vorsehung fehlt, ist für den Festsaal eines Klosters schon ungewöhnlich. In Altötting war 1765 eine sog. ökonomische Societät gegründet worden, die erste in Bayern, die sich zur Aufgabe gemacht hatte, die Landesökonomie zu verbessern. Sie übersiedelte 1772 nach Burghausen, 1773 wurde Abt Emanuel als Mitglied aufgenommen (Sieglinde Graf, Aufklärung in der Provinz. Die sittlich-ökonomische Gesellschaft von Ötting-Burghausen 1765–1802, Göttingen 1993, S. 268; Huber - Burghausen, S. 321, 325; Nicolai 1785, S. 493). Sie war die Keimzelle der späteren Akademie der Wissenschaften und des Großen Landwirtschaftlichen Vereins. Bei der Gründung einer solchen Societät ist natürlich eine lebhafte Beteiligung der in landesökonomischer Hinsicht so bewanderten Zisterzienser anzunehmen. Hier könnte ein Anstoß zu dem ungewöhnlichen Programm des Saales liegen.
+
+Von den Bildern an den Wänden sind einige noch in Raitenhaslach vorhanden: Im Großen Tafelzimmer das Kurfürstenpaar Max III. Joseph und Maria Anna, im Chorgang das Stifterpaar Wolfer und Hemma (Hopfgartner 1996, S. 18f. mit Abbildungen); von der späteren oberen Porträtreihe zwei weitere Kurfürstenpaare (Mitt. Wolfgang Hopfgartner). Im Institut der Englischen Fräulein in Burghausen befindet sich das Bildnis von Fürsterzbischof Christoph Sigismund von Schrattenbach, außerdem zwei Gemälde von Heigls Hand, wohl die ursprünglichen Supraporten (ca. 2,00×1,65 m): König Salomon mit dem Weihrauchfaß und mit drei Frauen; und Esther vor Ahasver. Bildnisse des Kurfürstenpaars Karl Albrecht und Maria Amalia befinden sich ebenfalls dort.
+
+In den Nischen seitlich der Portale in den Schmalseiten stehen heute weiß- und holzfarben gefaßte Standfigurenpaare aus Holz, je ein antiker und ein neuzeitlicher Vertreter der Künste und Wissenschaften. Im Osten Diogenes (Philosophie) und Paracelsus (Naturwissenschaften), im Westen Demosthenes (Rhetorik) und Orlando di Lasso (Musik). Diese Figuren sind Georg Kapfer zuzuweisen. Sie gehören nicht zur originalen Ausstattung des Festsaals, da sie zu klein für die Nischen sind (siehe S. 207). In der Chronik sind sie nicht erwähnt. Zur Zeit der Säkularisation standen sie im Prälatengarten (StAM, KL 617/5; Krausen 1977, S. 28).
+
+== Quellen und Literatur BSB, Clm 12536 fol. 61 v–62 v. ==
+
+Marianischer Berg, das ist... Bericht vom Ursprung und Fortgang des 618jährigen... Pfarrgotteshauses... Maria-Berg (Burghausen 1764), fol. 34 und eingeklebte handschriftliche Notiz am Ende des Buches von Johann Kaspar von Lippert (Exemplar BSB, Bav. 926)  
+(Enterniplan 202) Meidinger 1787, S. 362 f., 1790, S. 89. Hauntinger, 1800. KDB I, OB (8), S. 2326, 2620f. (1895 f.) Kreilinger, S. 16. Krausen, 1977, S. 27. Wagner, Festsäle Diss. S. 20f., 28f.  
+<!-- citation-page-bottom: Band09 p205 -->
+
+{{End}}

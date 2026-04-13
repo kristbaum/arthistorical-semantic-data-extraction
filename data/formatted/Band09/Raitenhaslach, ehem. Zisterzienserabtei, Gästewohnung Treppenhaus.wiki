@@ -1,0 +1,80 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=182
+|Originalseitenbis=184
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Gästewohnung Treppenhaus
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Raum in der Abtswohnung
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer
+|AutorIn1=Böhm, Cordula
+}}
+
+Treppenhaus im Gäste- bzw. Küchentrakt, an die Prälatur anschließend
+
+'''Zum Bauwerk:''' Das Treppenhaus (4,30×8,10m) verbinde drei Geschosse, hat eine dreiläufige barocke Holzstiege mit Balustergeländer und ist belichtet in den drei Geschossen von Süden und von Norden über den Gang. Es diente als repräsentativer Zugang zur Prälatur und zu den herrschaftlichen Gästewohnungen in den Obergeschossen des Prälatur- und des Gästetraktes.
+
+'''Auftraggeber:''' Abt Emanuel II. Mayr von Raitenhaslach (1759-80)
+
+'''Autor und Entstehungszeit:''' Franz Joseph Soll (* 1734 Friedingen an der Donau † 1798 Trostberg) um 1762
+
+Die Chronik Abt Emanuels nennt Soll als Autor der Deckenbilder sowohl in der (nicht erhaltenen) »Stuba maior« als auch im Treppenhaus und nennt auch die Bildthemen. »Pictura aquaria muro cohaerens eundem collaudat auctorem D. Josephum Soll pictorem Trosbergensem, quem illa Stubae aulico maioris et fornicis scalae maiori incumbentis: haec hospitalitas Abrahae, illa Marthae haut invenuste praesentat« (BSB, Clm 12536, fol. 57).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Elliptische Hängekuppel über einem sphärischen Tonnengewölbe
+
+Rahmen: Stuckprofil, marmoriert, in den Achsen flach ausgeschnittene Rocaillekartuschen
+
+Technik: Fresko mit Seccoübermalungen; polychrom Maße: C Höhe vom Boden des 1. Obergeschoß 8,70 m; 4,00×7,80
+
+Erhaltungszustand und Restaurierungen: Das Deckenbild ist offenbar nicht restauriert. Durch Alter und Feuchtigkeit sind die Seccofarben ausgeblüht, d.h. Gesichter und Binnenzeichnungen wirken schmutzig und unscharf und verdunkelt. Verschmutzungen durch Vögel, die im Treppenhaus nisten.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die elliptische Kuppel erhebt sich über dem dreiteiligen Treppenlauf, in den Achsen sitzen auf dem marmorierten Stuckrahmen flache Gipskartuschen, auf die goldfarbene Rocaillen gemalt sind. Vier weiße Rocaillekartuschen auf blauem Grund füllen die ausgeschiedenen Zwickelfelder. Der Gurtbogen, der das Treppenhaus vom Gang trennt, ist ebenfalls mit Brokatierrung und mit Rocaillen verziert.
+
+C DIE GASTFREUNDSCHAFT ABRAHAMS Die Komposition setzt hinter dem vorspringenden Rahmen zu einem rundumlaufenen Panorama an, das im Vordergrund aus einer spärlich bewachsenen Wiese besteht. Im S und W geben kleine steile Anhöhen den Schauplatz für die Einzelszenen ab. Rund um das Bild zieht sich als Hintergrund eine Kette von blauen Bergen. Vier Episoden aus der Geschichte Abrahams markieren die vier Achsen. Abraham ist immer gleich gekleidet, in blauem Unterkleid, rosa Gewand und gelbem Mantel. Zwischen den vier Szenen tauchen hinter Stein- oder Holzblöcken barocke Staffagefiguren als Halbfiguren auf; einige von ihnen sind mit porträthaften Zügen ausgestattet.
+
+Das Deckenbild mit seinen vier Ansichten erschließt sich dem Betrachter im Ersteigen der Treppe; die Hauptansicht geht nach O vom oberen Gang aus, dem die »Stuba aulica minor« frontal gegenüber liegt; von ihr aus werden auch die nördliche und die südliche Szene erfaßt.
+
+ABRAHAM GRÜSST DIE ENGEL (N-Seite) Abraham wirft sich zur Begrüßung den drei Engeln zu Füßen. Sie wenden sich ihm freundlich zu. Im Hintergrund ist das Haus Abrahams zu sehen, in der gleichen Form wie in der folgenden Ansicht.
+
+»Abraham saß in der heißen Mittagszeit im Hain Mamre im Schatten einer Eiche vor dem Eingang seines Zeltes. Als er seine Blicke erhob, standen drei Männer (Engel) vor ihm. Als er sie erblickte, lief er ihnen entgegen und beugte sich tief zur Erde nieder« (Gen 18, 1–3).
+
+ABRAHAM BEWIRTET DIE ENGEL (O-Seite) Abraham reicht den drei am weißgedeckten Tisch sitzenden Engeln Teller. Der Tisch steht im Freien unter einem Baum, im Hintergrund steht Abrahams Haus mit angebautem Schuppen. Hinter der Tür ist Sarah zu sehen, die dem Gespräch lauscht.
+<!-- citation-page-bottom: Band09 p183 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=18 -->
+<!-- citation-page-top: Band09 p184 -->
+
+<!-- header: RAITENHASLACH -->
+
+<!-- header: RAITENHASLACE -->
+
+
+[[File:Band09_chunk004_p018_img001.jpg|thumb|Joseph wird von seinen Brüdern verkauft, Ostansicht von Fresko D im Kleinen Tafelzimmer (Franz Joseph Soll um 1762]]
+
+
+»Abraham ließ die Männer unter der Eiche rasten, holte Wasser zum Füßewaschen, ließ seine Frau Sarah Brot backen, der Knecht ein schönes Jungrind schlachten, holte Butter und Milch und wartete ihnen auf unter den Bäumen, während sie aßen. Dann kündigten sie an, daß Sarah übers Jahr einen Sohr haben werde. Sarah, die am Zelteingang horchte, lachte in sich hinein und dachte: Ich bin doch verblüht und auch mein Gatte ist schon ein Greis« (Gen 18, 4–15).
+
+ABRAHAM BEGLEITET DIE ENGEL (S-Seite) Abraham und die drei Männer sind mit Wanderstöcken unterwegs, die Beine in Sandalen geschnürt. In ihrem Blickfeld liegt die Stadt Sodom.
+
+»Dann erhoben sich die Männer und blickten nach Sodom hinüber, wo sie am Abend eintreffen wollten. Abraham ging mit ihnen, sie zu geleiten« (Gen 19,1).
+
+ABRAHAM BITTET FÜR SODOM (W-Seite) Schauplatz sind zwei aufragende Felsen und davor ein gemauerter Opferaltar, auf dem ein Feuer lodert. Im Hintergrund ist die Stadt Sodom zu sehen. Abraham kniet vor dem Altar. Gottvater erscheint im Dreiecksnimbus und spricht zu ihm: das Gespräch ist in Form eines Strahlenbündels ausgedrückt. In der Bibel schließt an den Besuch der Engel die Fürsprache Abrahams (Gen 18,22–33) an, sein verzweifeltes Handeln mit Gott um die Schonung der Stadt Sodom. Seine Bitte ist durch das Brandopfer verbildlicht, durch das im Alten Testament Gott angerufen wurde.
+
+Als Staffagefiguren erscheinen im NO ein südländisches junges Paar, der junge Mann hält ein Lamm im Arm, das Mädchen einen Wasserkrug auf dem Kopf. Im SO ein Mann mit Ruderstange und einer mit Beil; besonders der rechte trägt porträtähnliche Züge und man kann vermuten, daß Soll hier den Fischer und den Holzfäller des Klosters dargestellt hat. Der letzte Zuschauer auf der NW-Seite, ein junger lockiger Mann im blauen Mantel, zeigt mit der Linken auf Abraham. Sein Malerbarett und der eindringliche Blick auf den Beschauer sprechen für ein Selbstporträt Franz Joseph Solls. Ähnlichkeit mit dem Selbstbildnis des reifen Soll im Rathaus von Trostberg besteht; auch altersmäßig entspricht die Figur dem 28jährigen Maler.
+
+Das Thema von der Gastfreundschaft Abrahams ist hier am Vorplatz zur Tafelstube der Gästewohnung Hinweis auf die Gastfreundschaft des Klosters, die ganz allgemein ein wichtiger Bestandteil der benediktinischen Regel war: alle Gäste sollten im Kloster aufgenommen werden wie Christus selbst.
+
+
+[[File:Band09_chunk004_p018_img002.jpg|thumb]]
+
+{{End}}

@@ -1,0 +1,50 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=212
+|Originalseitenbis=212
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Refektorium
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Konventbau, Dreikönigskapelle am Kreuzgang
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Bibliothek
+|AutorIn1=Böhm, Cordula
+}}
+
+== Refektoriumsstock ==
+
+
+Der neue Refektoriumsstock wurde 1777/78 erbaut, die Grundsteinlegung war am 13.2.1777 durch den Prior Albericus Haas, nachdem die Baumaterialien schon am Platze waren. Im Grundstein waren in einer Bleibüchse Reliquien der Heiligen Ausanius, Concordia und Fortunata eingeschlossen, deren Leiber in der Klosterkirche ruhten, außerdem verschiedene zeitgenössische Münzen und ein Verzeichnis der Konventsangehörigen. Noch im Jahr 1777 kam der Bau unter Dach. Es war ein dreigeschossiger Trakt in der Verlängerung des westlichen Kreuzgangflügels nach Süden, von gleicher Breite wie dieser. Er hatte sechs Fensterachsen in der Länge und drei in der Breite. Im Erdgeschoß war die Krankenstation mit einer Terrasse zur Salzach hin, im ersten Obergeschoß das Refektorium und im zweiten Obergeschoß die Bibliothek, an die sich im rechten Winkel, dem östlichen Joch des Festsaaltrakts, das Naturalienkabinett anschloß. Abbruch nach 1803.
+
+Die prächtige Ausstattung dieses Trakts wird in der Trauerrede auf Abt Emanuel (S. 19) gerühmt: »Wenn wir aber das jetzige fast zu seiner Vollkommenheit gebrachte Kloster durchsehen, und in selben das sowohl mit ungezwungener Kunst als herrlichen Gemälden versehene Refectorium; die den geistlichen Söhnen verfertigte, und schon wirklich bezohene Zellen beschauen: wenn wir den mit so vielen gelehrten Büchern ange-<br>füllten, und durch einen erfahrnen Pensel prächtig hergestellten Büchersaal, nebst den mit aller Geschicklichkeit ange-
+
+hengten Naturalien Cabinet, wo nicht nur fast alle philosophi-<br>sche Instrumente, sondern auch fast aus allen Reichen gesammelten Seltenheiten anzutreffen; kurz: wenn wir da Kunst und Geschmack vereiniget anschauen, und uns zugleich erinneren daß alles dessen der seltene Erfindungsgeist Emanuels der Urheber gewesen sey, müssen wir nicht mit dem heil. Bernardo aufrufen: was erfindet nicht der Glauben? er wirket ungemeine Dinge; er macht das Alte neu, und das Neue angenehm.«
+
+Neues Refektorium, im ersten Obergeschoß des Refektoriumsstocks gelegen
+
+'''Zum Bauwerk:''' Einweihung des neuen Refektoriums am 1.1.1778. Man wollte ein festliches Frühstück mit Musik einnehmen, es traf jedoch die Nachricht vom Tod des Kurfürsten Max III. Joseph ein; noch am gleichen Tag wurde der Abt nach München gerufen.
+
+Das Aussehen des Refektoriums ist durch Pläne und eine Beschreibung in der Chronik der Regierung von Abt Emanuel Mayr überliefert: Es war ein rechteckiger Raum (ca. 24×12 m, Höhe 6,60 m; s. Plan Glonners P 430 b r.) mit sechs Fenstern nach O und drei nach S zur Salzach hin; im W waren der Zugang zum Treppenhaus im neuen Festsaaltrakt und vier Fenster zu einem Hof; Zugang von N vom noch existierenden Treppenhaus im Südflügel des Konventbaus. Die Decke muß eine Flachdecke gewesen sein, weil sich die Bibliothek darüber befand. Kunstvolle gußeiserne Öfen standen in der NO- und SW-Ecke. Auf dem Entwurfsplan F. A. Mayrs (P 436c) sind mit Bleistift zwei Sockel an der Innenseite der Tür hinzugefügt, die auf ein zumindest geplantes Portal hinweisen.
+
+Nach der Chronik (BSB, Clm 12536, fol. 73–77) war der Boden aus rotem polierten Marmor. An den Wänden hingen die Bildnisse der vier Äbte, die im 18. Jh. regierten: Emanuel I. Scholtz (1700–33), Robert Pendtner (1734–56), Abundus Tschan (1756–59) und Emanuel II. Mayr (1759–80). Der Raum hatte einen Altar, dessen genaue Situierung nicht überliefert ist: Unter einem Baldachin sah man den Gekreuzigten und zu seinen Füßen den hl. Bernhard in der Betrachtung der Dornenkrone; Engel hielten Bernhards Attribute, die Arma Christi. Inschrift aus einem Traktat Bernhards: »Cernit Regen Salomonem in Diademate ad excitandum et perficiendum in nobis Dominicae Passionis affectum.«
+
+Das Pult für die Lesungen bei Tisch war geschnitzt und vergoldet. Eine Uhr wurde wegen ihrer Kunstfertigkeit gerühmt; ihr Gehäuse war ein Werk des Trostberger Bildhauers (Kapfer). Von Künstlern und Handwerkers sind namentlich nur Franz Joseph Soll und der Uhrmacher Philipp Kumberger aus Littmoning genannt.
+
+Hauntinger sagt: »Das Refektorium ist ebenfalls sehr reinlich, niedlich und gerade so groß wie das Armarium, welches sich ob demselben befindet.«
+
+'''Auftraggeber:''' Abt Emanuel II. Mayr von Raitenhaslach (1759–80)
+
+Autor und Entstehungszeit: Franz Joseph Soll (* 1734 Friedingen † 1798 Trostberg) 1778
+
+
+== Nachrichten in den Quellen ==
+
+
+Die Deckenmalerei wird in der Chronik als schön und anmutig beschrieben, von der Hand des Trostberger Malers Franz Joseph Soll. Sie zeigte neben verschiedenen Symbolen (= Emblemen) sieben Deckenbilder, sechs verschiedene Szenen aus dem Alten Testament, und in der Mitte ein großes Bild der Mutter Anna, wie Abt Emanuel es von den Franziskanern in Altötting zum Geschenk erhalten hatte: »Si tabulatum superius oculis subiicio, tale est, quod ad illicium oculorum non minus ac animorum suum explicat decorem et pretium: Solliano quippe penicillo haut invenuste depictum praeter varia Symbola suis locis ex asse adcomodata Septem imagines affixas exhibet, quarum sex varias veteris Testamenti historias, maior in medio Tabulati posita imaginem S. Matris Annae pulcherrimam repraesentant, quam ultimam Reverendissimus Emanuel noster a R.R. PP. Franciscanis Conventus Oettingae veteris dono accepit« (BSB, Clm 12536, fol. 77).
+
+Embleme und sechs verschiedene Szenen aus dem Alten Testament rahmten das Mittelfeld der Decke, das die hl. Anna zeigte. Vermutlich kopierte Soll die Darstellung der hl. Anna aus dem Besitz des Franziskanerklosters, denn daß das ehemalige Hochaltargemälde selbst an der Decke angebracht war, ist zwar möglich, aber nicht wahrscheinlich.
+
+(Die Chronik berichtet über dieses Anna-Bild noch, es sei nach einer verbürgten Überlieferung das wahre Abbild eines Mitglieds der bayerischen Herrscherfamilie, und es sei viele Jahre auf dem Hochaltar bei den Franziskanern gestanden.)
+
+{{End}}

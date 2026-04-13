@@ -1,0 +1,40 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=213
+|Originalseitenbis=213
+|Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Bibliothek
+|Typ=Sakral
+|Ort=Raitenhaslach
+|davor=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Refektorium
+|danach=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Bibliothekstrakt mit Bibliothek
+|AutorIn1=Böhm, Cordula
+}}
+
+
+Bibliothek, ehemals im zweiten Obergeschoß des 1777/78 erbauten Refektoriumsstocks, nach dem Bau des neuen Bibliothekstocks 1785 umgewandelt in das Museum
+
+'''Zum Bauwerk:''' Die Bibliothek war über dem neuen Refektorium gelegen und hatte die gleichen Ausmaße. Langgestreckter Raum (ca. 25×12 m) zu sechs Achsen in der Länge und drei in der Breite. Zugang von Norden über das Treppenhaus im Kreuzgang. Im SW führte eine Tür in das Naturalienkabinett, das zwischen Bibliothek und Festsaal lag. Die Einstöckigkeit und die verhältnismäßig einfache Ausstattung waren wohl der
+
+
+[[File:Band09_chunk005_p007_img001.jpg|thumb|Die Bibliothek von 1778, Ausschnitt aus der Bauaufnahme 430b v. von Franz Anton Glonner, 1803, Stadtarchiv Burghausen]]
+
+
+Grund, daß schon 1785 eine neue Bibliothek errichtet wurde und die von 1778 in ein Museum umgewandelt wurde, das ca 150 Gemälde bekannter Maler enthielt (darunter nach dem Katalog von Dillis, den er anläßlich der Säkularisierung verfaßte, Stücke von Beich, Bocksberger, Candid, Loth, Oefele Rottenhammer, Rubens, Zick; s. BHStA, KL 616/4, Bündel 2 Krausen 1977, S. 167–69).
+
+'''Auftraggeber:''' Abt Emanuel II. Mayr von Raitenhaslach (1759–80). Nach der Abtschronik waren am Portal zum Naturalienkabinett Rätsel eingemeißelt, die Abt Emanuel erfunden und die ein in den Wissenschaften Erfahrener zu lösen hatte. Auch in der Trauerrede auf Abt Emanuel sind die Bibliothek und das Naturalienkabinett erwähnt.
+
+Autor und Entstehungszeit: Franz Joseph Soll (* 1734 Friedingen † 1798 Trostberg) 1778
+
+Die Chronik berichtet, Anfang November 1778 habe Soll sein Werk in der neuen Bibliothek vollendet: »Ad initium Nov.bri Pictor Trospergensis - D. Soll - ultimam manum imposui novae Bibliothecae« (BSB, Clm 12536, fol. 79 v – 80 r).
+
+
+== Nachrichten in den Quellen ==
+
+
+Über das Deckenbild und sein Thema ist aus den Quellen nichts zu erfahren. Einziger Anhaltspunkt ist die Glonner- Bauaufnahme, auf der ein Bildfeld fast von der Größe des Raums eingetragen ist, längsrechteckig mit abgerundeten Ecken. Als Gewölbe ist eine Spiegeldecke naheliegend. Ähnlich wie im Deckenfresko des Treppenhauses und wie im Festsaal könnte die Rahmung um das Bildfeld in gemalter Rocailledekoration ausgeführt gewesen sein.
+
+Quellen und Literatur BSB Clm 12536, fol. 74–80. Meidinger 1787, S. 363; Meidinger 1790, S. 8. Hauntinger 1800.
+
+{{End}}

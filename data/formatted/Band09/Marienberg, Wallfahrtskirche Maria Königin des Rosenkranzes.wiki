@@ -1,0 +1,399 @@
+{{Artikel
+|Band=9
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=125
+|Originalseitenbis=143
+|Lemma=Marienberg, Wallfahrtskirche Maria Königin des Rosenkranzes
+|Typ=Sakral
+|Ort=Marienberg
+|davor=Margarethenberg, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
+|danach=Niedergottsau, Expositurkirche Mariä Himmelfahrt
+|AutorIn1=Böhm, Cordula
+}}
+
+Wallfahrtskirche, Filiale der Pfarrei Raitenhaslach, Stadt Burghausen, Diözese Passau; z. Zt. der Ausmalung Erzbistum Salzburg, Archidiakonat Baumburg. Marienberg war bis zur Säkularisation Pfarrkirche der Pfarrei Raitenhaslach, die der Zisterzienserabtei inkorporiert war. Die Marienwallfahrt blühte im 17. Jh. auf und erreichte im 18. Jh. ihren Höhepunkt. Einführung der Rosenkranzbruderschaft 1627, bis 1763 zählte sie 46642 Mitglieder. Im gleichen Jahr 1627 Einführung der Sterbestunden-Bruderschaft. Gericht Neuötting
+
+
+'''Patrozinium:''' Maria Königin des Rosenkranzes
+
+
+'''Zum Bauwerk:''' Die Kirche in Marienberg war die zuständige Pfarrkirche für das 1143 gegründete und 1146 nach Raitenhaslach verlegte Zisterzienserstift, dem die Ordensregeln zunächst die Seelsorge nicht erlaubten. Weihe 1148. 1203 wurde die Pfarrei dem Stift inkorporiert. Erweiterungen der Kirche 1398 und 1600. Mit dem Amtsantritt von Abt Emanuel II. Mayr 1759 wurde ein Neubau in Angriff genommen. Grundsteinlegung am 27.9.1760; am 29.9.1764 feierliche Übertragung des Marien-Gnadenbildes von 1595, das während der Bauarbeiten in Marienberg in der Leutekirche St. Georg in Raitenhaslach aufgestellt war; Weihe am 1.5.1765. Schon 1732 war südlich an die Friedhofsmauer das »Herrnstöckl« gebaut worden, ein Haus für den Pfarrvikar. Die Pfarrei Raitenhaslach/Marienberg wurde von Konventualen des Zisterzienserstifts Raitenhaslach betreut.
+
+Baumeister war Franz Alois Mayr, die Altäre schufen Johann Georg Lindt aus Burghausen und Johann Georg Kapfer aus Trostberg. Ein Baumodell Mayrs und ein Altarmodell Lindts sind erhalten (Stadtmuseum Burghausen, s. Kreilinger 1988, S. 15–19 und Hopfgartner 1997).
+
+
+[[File:Band09_chunk003_p013_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band09 p125 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=14 -->
+<!-- citation-page-top: Band09 p126 -->
+
+<!-- header: MARIENBERG -->
+
+<!-- header: MARIENBERG -->
+
+In der Chronik der Regierungszeit des Abtes Emanuel II. Mayr (BSB, Clm 12536) ist der Bau beschrieben und sind die an Bau und Ausstattung beteiligten Künstler genannt (fol. 35): {ZITAT|000} Außerdem ist der Neubau ausführlich dokumentiert in der Festschrift von 1764.
+
+Nach der Säkularisation des Klosters Raitenhaslach wurde die ehemalige Klosterkirche zur Pfarrkirche bestimmt und über die Kirche von Marienberg der Abbruch verfügt. Durch den Widerstand der Marienberger Bauern und durch das persönliche Eingreifen des Kronprinzen Ludwig blieb sie bestehen und konnte 1811 wieder eröffnet werden.
+
+Auf einem Kegelberg am Salzachufer exponiert gelegener und nach Osten weithin sichtbarer Bau mit Ostturmfassade, zwei Kilometer nordwestlich von Raitenhaslach. Zentralbau, in Außenbau von annähernd quadratischem Umriß, im Innenraum in Form eines griechischen Kreuzes. Der Eingangsraum ist gerade, der Altarraum flach gerundet, die seitlichen Räume sind konchenförmig ausgebildet. Pilastergliederung mit breiter Gesimszone, die an allen vier Seiten durch Altäre bzw. durch Fenster und Orgel unterbrochen ist und auf der die zentrale Pendentifkuppel und die seitlichen Tonnen in relativ großer Höhe halbkreisförmig ansetzen. Empore im Westen. Belichtung auf der N- und der S-Seite durch je ein Fensterpaar mit einem darüberliegenden birnenförmigen Oberlicht und durch ein Fenster von Westen.
+
+In den vom Außenbau eingeschlossenen Raumteilen in den vier Ecken befinden sich auf der O-Seite über den Sakristeiräumen die Türme und auf der W-Seite die Treppen.
+
+'''Auftraggeber:''' Abt Emanuel II. Mayr von Raitenhaslach (1759-80). Der kunstsinnige Abt und leidenschaftliche Marienverehrer, dessen Porträt von Joseph Anton Zimmermann gestochen wurde (Kreilinger 1992, S. 2), betrieb den Neubau mit großem Enthusiasmus. In der Abtschronik (BSB, Clm 12536) wird der Bau als ein von ihm erdachtes und gemachtes Kunstwerk gewürdigt: {ZITAT|001} Auch in der Trauerrede wird im Zusammenhang mit der besonderen Marienverehrung des Abtes der Bau von Marienberg hervorgehoben (S. 12): {ZITAT|002}
+
+Abt Emanuel, der hervorhob, daß das Gesamtwerk Marienberg seine eigene Erfindung war, war auch an der Gestaltung des ikonologischen Programms entscheidend beteiligt.
+
+Das Herz Abt Emanuels wurde am 23.6. 1780 vor dem Hochaltar bestattet (Trauerrede, S. 14): {ZITAT|003} Inschrift auf der Grabplatte: {ZITAT|004}
+
+Die finanzielle Beteiligung der im 18. Jh. sehr starken und vermögenden Rosenkranzbruderschaft ist wegen des Patroziniums und der Ikonologie als sicher anzunehmen.
+
+'''Autor und Entstehungszeit:''' Martin Heigl (* unbekannt † 1774 München) 1764
+
+Vier Chronogramme auf Kartuschen an der Kuppel und eines an der Orgelbrüstung nennen als Datum der Ausmalung 1762 (s. Fresko A und unten). Die Fresken sind nicht signiert. Heigl wird in der Chronik des Abts Emanuel (BSB, Clm 12536, fol. 35, s. unter Bauwerk) als Autor genannt: {ZITAT|005}
+
+Martin Heigl war für das Kloster Raitenhaslach 1760/65 tätig. Lippert zufolge wegen einer Verwandtschaft mit dem Abt, die bisher nicht geklärt werden konnte. Die Verbindung ist auch über Heigls 1758 verstorbenen Lehrer Johann Baptist Zimmermann denkbar, der im Auftrag des Klosters 1753 die Wallfahrtskirche Margarethenberg ausgemalt hatte und dessen Arbeit Heigl zunächst weiterführte. Außer seinen Arbeiten im Stift selbst freskierte Heigl für Raitenhaslach die dem Stift inkorporierten Kirchen Burgkirchen (1763, s. S. 75-80), Gumattenkirchen und Niederbergkirchen (1774, beide nicht erhalten; Lkr. Mühldorf).
+
+Das oben erwähnte Baumodell Franz Alois Mayrs zeigt auch eine modellartige Ausmalung der Deckenfelder, die mit den ausgeführten Fresken inhaltlich teilweise übereinstimmt, stilistisch aber Heigl fernsteht. Der Vorschlag Kreilingers, diese Freskenskizzen dem seit 1761 in Trostberg lebenden Franz Joseph Soll zuzuschreiben (KKF Nr. 24, S. 16), ist überzeugend.
+
+[[File:Band09_chunk003_p014_img001.jpg|thumb|Der Kirchenraum]]
+<!-- citation-page-bottom: Band09 p127 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=15 -->
+<!-- citation-page-top: Band09 p128 -->
+
+<!-- header: MARIENBERG -->
+
+gend. Man kann annehmen, daß Soll auch an der Ausmalung in Marienberg beteiligt war. Besonders im landschaftlichen Bereich fällt die Art und Weise auf, das Blattwerk in fingerförmigen Blättern auszuführen. So ist es auch in Kirchweidach zu beobachten. Soll war gleichzeitig mit Heigl in Raitenhaslach beschäftigt. Es ist naheliegend, ihn als Mitarbeiter bei der Ausführung der umfangreichen Fresken zu vermuten.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Pendentifkuppel, B, E, EU Ouertonnen, C und D Segmentkuppeln
+
+Rahmen: A mehrfach profilierter weißer Rahmen, der innere und der äußere Ring sind vergoldet und mit einer vergoldeten Zierleiste geschmückt; 1-5 vergoldetes Stuckprofil; A<sub>1-4</sub>, 1<sub>a-b</sub>, 2, 1, 3, 1, 4, 1, 5, 1 gemalte Rocaillekartuschen
+
+Technik: Fresko; A, 1-5 polychrom; A<sub>1-4</sub> monochrom ocker, I<sub>a-b</sub>, 2<sub>a-b</sub>, 3<sub>a-b</sub>, 4<sub>a-b</sub>, 5<sub>a-b</sub>, W<sub>c</sub> monochrom graugrün; W<sub>a-b</sub> Ol auf Leinwand
+
+Maße: A Höhe 22,00 (Stich 5,20) m; Durchmesser 12,00
+
+, \ 1 Erhaltungszustand und Restaurierungen: Erste dokumentierte Innenrestaurierung 1960-1962 durch Alois Schlee Altötting. 2002 Inangriffnahme einer umfangreichen Restaurierung: Befunderstellung und Restaurierung der Raumschale durch Wolfgang Lauber, Bad Endorf, Restaurierung der Fresken durch Helmut Zernickel, München.
+
+Die Fresken sind bis auf einige mechanische Schäden in überwiegend originalem Zustand. Kuppelfresko A: Verschmutzung und Abblätterungen im Scheitel, Fehlstelle bei dem Puttenpaar links von St. Franziskus, Querriß an der Westseite unterhalb der Seligen. Die Figuren von St. Franziskus und St. Norbert wirken überarbeitet. Fresko 3: Abblätterungen am Gloria-Engel. Fresko 4: Wasserschäden an den Seiten.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A DIE ROSENKRANZBRUDERSCHAFT ALS HEILS- INSTRUMENT Das große Kuppelfresko zeigt ein umlaufendes Panorama: eine gelb-braune Erdzone, manchmal flach und seicht, manchmal hoch ansteigend, felsig und zerklüftet. Stellenweise dringt von hinten das Meer in den Vordergrund, an anderen Stellen weitet sich der Blick in landschaftliche Tiefe. Die Komposition des Schauplatzes hat ihre Schwerpunkte in den Achsen, hier sind vier verschieden geartete und verschieden gestimmte Szenerien aufgebaut, die von vier monumentalen Versatzstücken überragt werden: Leuchtturm, Schiff, Baum, Himmelspforte. Die Inschriften in den vier Chronogramm-Kartuschen am Rahmen benennen die jeweilige Szene. Das Fresko ist belebt von einer bunten, bewegten Menschenmenge in verschiedenen Gruppen oder Zügen. Trotz des Reichtums an Figuren und der großen Kompliziertheit des Bildprogramms bleibt die Landschaft und ihre Stimmung überall so präsent, daß hinter der Lebhaftigkeit und Farbigkeit die Stille und Idylle immer wieder wirksam wird. Manche Szenen sind wie poetisch verklärt, erinnern an einen Traum. Der Zug zur Himmelspforte an der Westseite ist wie von einem duftigen Schleier überspannt und vermittelt die Vision einer Annäherung an himmlische Gefilde.
+
+Auffallend ist der Gegensatz zu der zwanzig Jahre früher entstandenen, angestrengten, fast überfrachteten Komposition Johann Zicks im Hauptfresko der Klosterkirche Raitenhaslach. Heigls Kunst steht in Marienberg auf dem Höhepunkt des Rokoko; bereits ein Jahr später wendet er sich bei der Freskierung des Festsaals von Raitenhaslach der neuen klassizistischen Stilrichtung zu. In Marienberg verwendet Heigl Farbe in kräftigem Bunt, aber auch – durch Weiß gebrochen – in aufgehelltesten Werten. Manches an dieser Kuppel erinnert an die Hauptkuppel B in Berg am Laim von Johann Baptist Zimmermann (1743/44, CBD Bd 3/I, S. 70), ganz besonders die Prozession zum Schiff an den Zug zum Michaelheiligtum.
+
+Im Zentrum der Kuppel erscheint in hellem Licht Gottvater mit der Weltkugel, das Zepter in der Hand, von Engeln begleitet. Unter ihm ist in der Hauptansicht Maria mit dem Jesusknaben zu sehen, die aber bereits in die Handlung der darunterliegenden Szene der Fresko-Ostseite einbezogen ist. Das Jesuskind auf ihrem Arm reicht einem Engel eine gelbe Blume. In Höhe des Jesuskindes erscheint der Heilige Geist in Gestalt der Taube, über zwei Heiligen schwebend, Benedikt von Nursia und Bernhard von Clairvaux. Sie thronen auf einer Wolke. Benedikt ist dargestellt als Gründer des Benediktinerordens in der schwarzen Benediktinertracht mit dem goldenen Abtskreuz auf der Brust. Ihm halten zwei Putten Stab und Mitra sowie sein Attribut, den zerbrochenen Giftbecher mit dem Schlänglein. Bernhard trägt das weiße Kleid der Zisterzienser ebenfalls mit dem Abtskreuz und hält seinen Stab in der Linken. Zwei Putten präsentieren Mitra und Buch, ein dritter den Bienenkorb, Hinweis auf Bernhards Ehrentitel »doctor mellifluus«. In einer Gruppe von fünf Heiligen folgen nach Süden zunächst, an einer Wolke kniend, der hl. Franziskus als Gründer des Franziskanerordens in der braunen Kutte, mit Seitenwunde, Kreuz und Totenkopf (Wasserschäden, Figur überarbeitet). Schräg über ihm kniet der hl. Dominikus, der Gründer des Dominikanerordens in weißem Kleid mit schwarzem Mantel, einen Rosenkranz an seiner Seite und die Lilie in der Hand. Hinter ihm ist sein Attribut dargestellt, eine große blaue Weltkugel, die von einem Hund mit einer Fackel im Maul entzündet wird. Über Dominikus sitzt auf Wolken Norbert von Magdeburg, der Gründer des Prämonstratenserordens in der weißen Prämonstratensertracht, die Monstranz in der Hand. Schräg links über Norbert sind zwei weibliche Heilige dargestellt, die hl. Katharina von Siena in weißem Kleid mit schwarzem Schleier, eine Dornenkrone auf dem Haupt, und die hl. Barbara in reicher Kleidung, ein Krönchen auf dem Kopf, mit Martyrerpalme, Turm und Hostienkelch.
+
+Von den Heiligen sind fast alle Ordensgründer. Mit Bernhard von Clairvaux, der zwar nicht Gründer, aber bedeutendster Vertreter des Zisterzienserordens war, erscheint als Vater des christlichen Mönchtums der hl. Benedikt, dessen Ordensregel für die Zisterzienser maßgeblich war. Norbert von Magdeburg übernahm für den Prämonstratenserorden Bestandteile der zisterziensischen und der augustinischen Regel. Bernhard schenkte ihm den Grund für das Stammkloster Prémontré und setzte sich zusammen mit Norbert für die Anerkennung des Papstes Innozenz II. ein. Der hl. Franziskus und der hl. Dominikus werden als Bekehrer der Welt und als Retter vor dem Zorn Gottes dargestellt. Dominikus gilt als der Stifter des Rosenkranzes, der ihm in einer Vision von Maria als stärkste Waffe gegen die Häresie überreicht wurde. Auch Katharina von Siena hat eine enge Verbindung zum Rosenkranz. Sie war eine bedeutende Dominikanerin und Mystikerin (mit Dominikus tritt sie als Seitenfigur am Hochaltar noch einmal auf) und wird als Schutzfrau des Dritten Ordens verehrt. Barbara war Patronin der Sterbenden und tritt hier wohl auf in Zusammenhang mit der zweiten in Marienberg bestehenden Bruderschaft, der Sterbestunden-Bruderschaft. Sie ist in der Achse zwischen Gottvater und dem Nachen mit den Seelen dargestellt. In dieser Richtung findet sich über der Sakristeitür auch ein Emblem mit einer Uhr – Nunc et in hora (1c). Barbara ist auch Nebenpatronin des Kreuzaltars.
+
+In den vier Seiten des Kuppelrundes zeigen sich vier Schauplätze, Schiff, Leuchtturm, Paradiesgarten und Tor, die sich auf Maria bzw. auf den Rosenkranz beziehen.
+<!-- citation-page-bottom: Band09 p129 -->
+
+
+[[File:Band09_chunk003_p015_img001.jpg|thumb|A Die Rosenkranzbruderschaft als Heilsinstrument, A, Evangelisten (Martin Heigl 1764)]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=16 -->
+<!-- citation-page-top: Band09 p130 -->
+
+<!-- header: MARIENBERG -->
+
+<!-- header: MARIENBER -->
+
+O-Seite: DER ROSENKRANZ ALS SCHIFF DES HEILS Inschrift in der Kartusche vor dem Rahmen Deo / aC Virgineae / Caelitvm / Reginae (= 1764; Gott und der jungfräulichen Himmelskönigin). Schauplatz ist das Meeresufer, an dem ein sehr großes Schiff mit hohem Mast in sturmbewegten Wogen liegt. Ein einfacher hölzerner Steg verbindet Schiff und Ufer. Menschen drängen heran, um das Schiff zu erreichen, andere sind schon an Bord. Zwei Engel helfen einem Mann mit Frau und Kind über die Planken.
+
+Das Schiff ist Symbol für die Rosenkranzbruderschaft, sein Rumpf ist bekränzt mit je fünf weißen, roten und goldenen Rosen, die die jeweils die fünf Rosenkranzgeheimnisse des Freudenreichen (weiß), Schmerzhaften (rot) und des Glorreichen Rosenkranzes (gold) bedeuten.
+
+Viele Engel an Bug und Heck rudern und steuern das Schiff. Zwischen ihnen sitzen von rechts nach links zunächst ein sehr vornehmes Paar – wenn auch ohne fürstliche Insignien – dann ein Zisterzienser, ein Bischof, ein Kardinal und, erhöht am Mast und Segel wie auf einem Thron sitzend, der Papst mit Tiara und goldenem Rauchmantel; hinter ihm ist ein Ordensmann mit weißer Kutte und schwarzem Mantel zu sehen, ein Dominikaner. Alle diese Personen sind nicht als Individualitäten gekennzeichnet: es sind einfach Vertreter der geistlichen und weltlichen Macht.
+
+Hoch ragt der Mast mit dem geblähten Segel auf, bis in die Zone der himmlischen Gestalten; auf seiner Spitze bezeichnen der weißblaue Wimpel und ein silberner Stern mit den Buchstaben MARIA die Gottesmutter als die Patronin des Schiffes. Maria selbst hält ein purpurnes Band, das am Mast befestigt ist, als Zeichen dafür, daß sie das Schiff führt und leitet. Das Jesuskind auf ihrem Arm wendet sich in die andere Richtung und reicht einem Engel eine gelbe Rose. Mehrere Engel fliegen um das Schiff. Links am Mast hält einer das Kreuz wie einen Schild und bewirkt damit, daß aus der dunklen Wolke zu seinen Füßen zwei drachengeflügelte Teufel brechen und – schon an der N-Seite – unter feurigem Blitzen in den Abgrund stürzen.
+
+N-Seite: DER ROSENKRANZ ALS LEUCHTTURM Inschrift De Vita / periclitantivm / anChora (= 1764; Anker derer, die in Lebensgefahr schweben). An dieser Seite der Kuppel ragt auf steilen Felsen ein Leuchtturm auf. Links davon ist unter stürmisch verdunkeltem Himmel ein Schiffbruch dargestellt; auf den Felsen und am Bildrand sind die Schiffbrüchigen und die Geretteten zu sehen. Diese Szene ist der Szene in der Hauptansicht voraufgehend zu denken: Der Aufnahme in das Schiff des Heils geht ein Schiffbruch voraus. Im Wasser treibt der geborstene Schiffsrumpf; der Mast ist gebrochen, die Segel und Taue hängen lose herunter. Zwei Männer suchen Halt am Mast. In den aufgepeitschten Wellen sieht man ein Paket schwimmen und einen Ertrinkenden kurz vor dem rettenden Ufer. Hier birgt ein halbnackter Mann einen Gestrandeten, eine leblose Frau wird ins Gras gebettet. 
+
+Weiter oben am Felsen lagert eine Gruppe von Geretteten, von denen eine Frau mit gefalteten Händen zum Leuchtturm aufblickt, an dessen Gesims ein Korb mit dem Leuchtfeuer befestigt ist. Auf den Leuchtturm bezogen dargestellt ist eine Gruppe von Engeln direkt darüber, die Girlanden mit weißen, roten und goldenen Rosen halten. Vor düsteren Wolken spannt sich ein Regenbogen, der die Ruhe nach dem Sturm und die Versöhnung mit Gott verheißt.
+
+Rechts vom Leuchtturm lagert an Felsgestein eine große Gruppe von geretteten Frauen, Männern und Kindern, gekleidet in faltenreiche blaue, rote und gelbe Gewänder. Sie lauschen den Worten eines weißbärtigen Predigers, an dessen Seite eine reuevoll weinende Frau kniet. Von links tritt ein fürstlich gekleideter Feldherr hinzu, dem ein blonder und ein dunkler Page die Schleppe tragen. Er blickt und agiert hinauf zum Himmel, wo der Engel mit dem Kreuz am Mast des Heilsschiffs erscheint. Hinter dem Feldherrn eilen am Bildrand noch ein Krieger mit Helmbusch und sein Begleiter mit Schild nach rechts. Der Blick des Begleiters, aus dem Hintergrund auf den Beschauer gerichtet, und seine individuellen Züge lassen an ein Selbstbildnis Martin Heigls denken (allerdings kennt man von Heigl keine Selbstporträts).
+
+S-Seite: DIE ROSENKRANZBRUDERSCHAFT ALS GEISTLICHES PARADIES Inschrift Salvus/hac Virgine / Mediatrice (= 1764; Rettung durch die Vermittlung dieser Jungfrau). Der ikonologische Gedanke wird auf der gegenüberliegenden Seite fortgesetzt. Hier ist eine Gartenlandschaft zu sehen, von der Szene in der Westansicht durch einen aufragenden Baum geschieden, links von einem tiefen Ausblick auf eine Meereslandschaft im Hintergrund begrenzt – das gleiche Meer, das dann an der O-Seite in so stürmischen Wogen bis in den Bildvordergrund drängt. Es ist der Garten des Dominikanerordens, in dem die Rosenkranzbruderschaft gehegt wird. Der Garten ist still und lieblich, mit weitem dunstigen Hintergrund, mit Bergen, Wiese und Bäumen. Ein Springbrunnen mit vergoldeter Brunnenfigur und eine Gartenarchitektur mit Treppe, Terrasse und geschwungenen Treppenwangen mit Ziervasen stellen eine idyllische Stimmung her. Ein Dominikanermönch – vielleicht Thomas von Aquin – lehnt an der Treppe, Blick und Gebärde zum Himmel gerichtet, wo über ihm – in der Gruppe der Ordensgründer – der hl. Dominikus erscheint. Links vom Baum ist auf der Wiese um einen großen Findling, ähnlich einem Opferaltar, eine Versammlung von Männern und einer Frau zu erkennen. Sie haben ihre Blicke zum Himmel gerichtet. Ein Hügel trennt sie vom Meer, auf dessen gegenüberliegender Seite auf einem breiten Bergplateau die Arche Noah ruht. Auf dem Meeresarm fährt ein kleiner Nachen, von Engeln gelenkt, fast aufgelöst in irrealer Helligkeit. Er bringt die Seelen an das himmlische Ufer.
+
+W-Seite: DER ROSENKRANZ ALS HIMMELSPFORTE Inschrift Maria / Deipara / secura Caeli / Ianua (= 1764; Gottesgebärerin Maria, das sichere Tor zum Himmel). In der westlichen Ansicht ragt auf einem ansteigenden Felsplateau ein Portal mit Säulen und mit seitlichen Durchgängen auf, in hellem Grau und Gelb gehalten und in Schleierwolken gehüllt, überirdisch wie eine Vision. Zum Tor empor führt ein Weg, der mit weißen, roten und gelben Rosen bestreut ist. Hier ziehen drei junge Frauen nach oben, idealische Gestalten in schönen Gewändern, von Engeln geleitet; weiter oben kniet ein bärtiger Mann in antikischem Gewand. Unmittelbar beim Himmelstor steht eine Schar von Ordensangehörigen in weißen Gewändern, auch sie im Geleit eines Engels. Unter
+
+[[File:Band09_chunk003_p016_img001.jpg|thumb|Der Rosenkranz als Schiff des Heils, Ostseite von Fresko A]]
+<!-- citation-page-bottom: Band09 p131 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=17 -->
+<!-- citation-page-top: Band09 p132 -->
+
+[[File:Band09_chunk003_p017_img001.jpg|thumb|Der Rosenkranz als Himmelspforte, Westseite von Fresko A]]
+
+ihnen ist ein Zisterzienser und eine Dominikanerin zu erkennen. Diese Gruppe ist fast durchscheinend von lichtem Weiß, als wäre sie schon im Stand der Seligkeit.
+
+Das Thema des Kuppelfreskos ist der Rosenkranz. Die für das Rosenkranzgebet übliche Gebetsschnur wird jedoch außer am Gürtel des hl. Dominikus nirgends gezeigt. Er ist präsent in der Form der weißen, roten und goldenen Rosen. Durch sie werden das Schiff, der Leuchtturm und das Himmelstor als Gleichnisse für den Rosenkranz gedeutet: sie schmücken das Schiff, werden über den Leuchtturm gehalten, werden in einer Schale am Himmelstor gezeigt; mit ihnen ist der Weg zum Tor bestreut. An der S-Seite mit dem geistlichen Paradies treten diese Rosen nicht auf.
+
+Mit großer Wahrscheinlichkeit wurde bei der Konzeption des Bildprogramms ein Werk von Thomas Ferselius benutzt, die »Rosen-Reden« (Rosiloquia, 2 Bde, 1679 und 1682; auf Bd 1 hat Thomas Kupferschmied in Zusammenhang mit Marienberg schon aufmerksam gemacht), eine Sammlung von sechzig Predigten zum Ruhm des Rosenkranzes, anhand derer die einzelnen allegorischen Anspielungen im Bild sich entschlüsseln lassen. Allerdings ist die Erbauungsliteratur des 17. und 18. Jh.
+
+[[File:Band09_chunk003_p017_img002.jpg|thumb|Der Rosenkranz als Leuchtturm, Nordseite von Fresko A]]
+
+über Maria und den Rosenkranz uferlos und das symbolische Gedankengut als allgemein bekannt vorauszusetzen.
+
+Grundlage all dieser mystisch-allegorischen Vorstellungen ist das Hohelied; für die Zisterzienser waren besonders wichtig die 33 Sermones des Bernhard von Clairvaux über das Hohelied. Wichtig war auch die auf dem Hohenlied beruhende Lauretanische Litanei in ihren ausführlichen frühen Versionen. An zeitgenössischer Literatur waren am verbreitetsten die im 17. und 18. Jh. mehrfach aufgelegten »Homiliae de Rosarii« von Johannes de Carthagena sowie die »Sermones« von Cornelius Schnekis.
+
+Schiff des Heils
+
+Zur Gleichsetzung des Rosenkranzes mit einem Schiff sagen die »Rosiloquia«: »Der Rosenkrantz ist ein großes Kriegsschiff, in welchem man sich den Ketzern, der Sünd, dem Teufel selbsten widersetzen thut; dann gleichwie die Menschen all ihr Hoffnung und Zuflucht in einer Meerschlacht setzen auff das gröste und veste Kriegs-Schiff, also setzen auch die Brüder und Schwester des Rosenkrantzes all ihr Hoffnung auff die Andacht des Rosenkranzes ... Der Rosenkrantz ist ein Schiff des Heyls und des Lebens. Zu Athen war vor Zeiten ein Schiff, genant das Schiff des Heyls, auf welchem sie nach Delphi in ein
+<!-- citation-page-bottom: Band09 p133 -->
+
+<!-- citation-page-top: Band09 p134 -->
+
+[[File:Band09_chunk003_p018_img001.jpg|thumb]]
+
+[[File:Band09_chunk003_p018_img002.jpg|thumb|A. Markus]]
+
+Geistliche und weltliche Würdenträger verschiedener Stände befinden sich auf diesem Schiff. In den »Rosiloquia« (Bd 2, Rede 5, Nr. 12–16) werden allerlei Standespersonen aufgeführt, die zu dem Rosenkranz in enger Beziehung stehen.
+
+Das purpurfarbene Band (funiculus coccineus), mit dem Maria das Schiff hält, ist mit dem roten Strick Rahab gleichzusetzen (Bd 1, Rede 9, Nr. 2-5). Dabei bedeutet das Haus Rahab die Bruderschaft des Rosenkranzes, die rote Schnur Rahab der Rosenkranz, denn mit ihr werden die Rosen des Vaterunsers und des Ave Maria in »einem gewissen Maß und Zahl zusammengebunden«.
+
+Der Stern am Mast des Schiffes bedeutet Maria, die als Meerstern »ein wachtbahres Aug auff unser Kauffmansschiff« hat »Sie regieret die Segel unsers Kauffmansschiff, sie erwecket di glückhafftige Wind, sie hat ein trewes Aug, damit das Schif sich nicht an einem Felsen zerstoße, sie stillet das Ungewitte und die Ungestümmigkeiten, sie führet durch alle gefährlich Wind und Wellen unser Schiff zu dem sicheren und glückseeli gen Port des Himmels« (Bd 2, Rede 15, Nr. 16). »Dieser Stern wird dich führen auff einen wunderbarlichen Weeg mitter durch die schwartze Wolken des Zorn Gottes, er wird dir sein des Tags Schatten und des Nachts durch die Wellen des Meer diser Welt zum Licht der Sternen, er wird dich führen durch das rothe Meer deiner Sünden, und über die große Wässer dei ner Trübsal bringen, deine Feind aber versenken, dann einma die Bruderschaft ist ein Meerstern, durch welchen wir mitter durch die auffgeblaasene Meerwellen dieser Welt geländet und mitten in der finsteren Wolcken des Zorns Gottes erleuchte und zum verlangten Gestadt des Heyls geführt werden« (Bd 2 Rede 29, Nr. 8).
+
+[[File:Band09_chunk003_p018_img003.jpg|thumb]]
+
+Die Teufel, die durch das Kreuz in der Hand des Engels gestürzt werden, sind ebenfalls Thema der »Rosiloquia«: ».. denn der Teufel förchtet und fliehet das Kreuz, weil durch da Kreuz ihm sein Macht war genommen, seine Kräfften geschwächet, und so vil tausend Seelen aus seinem Rachen gerissen worden« (Bd 2, Rede 29, Nr. 11). Neben dem Kreuz kann aber auch der Rosenkranz das Böse wirksam in Bann schlagen.
+
+== Schiffbruch ==
+
+Das Leben wird mit der Fahrt auf dem gefährlichen Meer verglichen, auf der die Rosenkranz-Bruderschaft dem Menschen den Weg zum Heil weist: »Nun sollst du wissen, mein Christ daß die Welt nichts anders nach der Aussag des hl. Augustin seye als ein Meer, das durch die Falschheit ganz bitter und durch die Wellen ganz ungestüm. Auf diesem .... Meer müsser alle Menschen, keinen ausgenommen, hin und her fahren, bis wir endlich in das Todten-Meer, allwo erst die meisten Schiffbruch leyden und ewig zu Grund gehen, ausgeworfen werden«. Das Paket in den Wellen ist Bild der Sünden, von denen man sich durch die Beichte befreit: Es »ist also vonnöten, daß man den Last der Sünden aus der Arch in das Meer werffe. denn nichts also beschwäret unser geistliche Arch mehr, als die Sünden, diese müssen durch eine rechtschaffene Beicht ausgeworffen werden« (Bd 1, Rede 29, Nr. 15).
+
+Der Regenbogen als Versöhnungszeichen zwischen Gott und den Menschen wird ebenfalls mit der Bruderschaft verglichen: »Der heilige Rosenkrantz ist ein vast schöner Regenbogen zu einem Bund-Zeichen des Frids zwischen Gott und den Menschen ... Der Rosenkranz ist ein Regenbogen der Milde Gottes, durch welche die Verzeyhung der Sünden bedeutet werden« (Bd 1, Rede 22, Nr. 6).
+
+== Geistliches Paradies ==
+
+Die Rosenkranzbruderschaft wird als geistliches Paradies bezeichnet: »Die Ertz=Bruderschaft des H. Rosenkrantzes ist
+
+
+[[File:Band09_chunk003_p018_img004.jpg|thumb]]
+
+
+ein Geistliches Paradeyß, in welchem mit höchsten Frewden wohnen ... Christus und Maria, in der andächtigen Gemeinschaft der Brüder und Schwestern des hl. Rosenkranzes. O geistliches Paradeyß, o heilige Ertzbruderschaft: In dir wohnet Gott und Maria, in dir steiget auf der kleine Brunn Dominicus ... mitten in dir steht der Baum des Lebens, welcher die Schwache stärket und das ewige Leben thut geben, und der Baum der Wissenschaft des Guten und des Bösen« (Bd 2, Rede 2). Diese Stelle kann die Darstellung des kleinen Springbrunnens erklären sowie den Baum in der Mitte und den großen Baum am Anschluß zur W-Seite. Dieser könnte allerdings auch eine Zeder sein, die selbst wieder mit dem Rosenkranz verglichen wird: »Die Ertzbruderschaft ist ein Geistlicher Cederbaum, und übertrifft mit den Gaben, Gnaden, Freyheiten und Werth alle andern Bruderschaften wie die Ceder alle Bäum der Welt ... Durch das Mark des Cederbaums werden verstanden die Geheimnissen des Rosenkrantz ... Das zarte Ästl ist der Englische Gruß« (Bd 2, Rede 4).
+
+Gärtner im Geistlichen Garten des Rosenkranzes sind die Dominikaner, die allein befugt sind, die Bruderschaft aufzurichten. Sie sind die »tauglichen Arbeiter in Fortpflanzung des Rosenkranzes« (Bd 1, Rede 15). Der Dominikanermönch im Garten ist möglicherweise einfach ein Vertreter des Ordens - die Dominikaner in Landshut hatten die Rosenkranzbruderschaft in Marienberg eingeführt -, möglicherweise aber auch Thomas von Aquin, denn »dieser ist der jenige große Fluß welcher das geistliche Paradeis die Ertzbruderschaft mit seiner Lehr dermaßen befeuchtiget, daß sie so vil Pflantzen, Blumer und Rosen der Andacht herfürgesprossen, daß ihr keine gleich ist noch werden wird« (Bd 2 Rede 2 Nr 5)
+
+Auch die Arche auf dem Berg im Hintergrund ist wieder Bild des Rosenkranzes: »Der heilige Rosenkranz ist die Arch Noe, durch welche die ganze Welt von dem Fluß der Sünden erlöset und von dem Überschwall der Mühseeligkeit und Trübsall beschirmet wird ... 15 Ellenbogen ist das Wasser höher gestiegen, welche die 15 Geheimnis des Rosenkranzes bedeuten« (Bd 1, Rede 29, Nr. 4)
+
+[[File:Band09_chunk003_p018_img005.jpg|thumb]]
+
+== Weg und Himmelspforte ==
+
+Der Weg zur Himmelspforte ist gleichzusetzen mit dem Rosenkranz. »Der Weg zum Himmel ist durch den Rosenkranz leicht und süß gemacht worden« (Bd 2, Rede 23, Nr. 14) »Wer durch Mariam als ein Porten des Himmels zur Seeligkeit eingehen will, der muß zuvor durch die Porten Mariae die Andacht des Rosenkrantz nemblich trängen ... und um ein seeliges Sterbstündlein bitten ... und endlich durch sie das ewige Leben finden« (Bd 2, Rede 10, Nr. 14–16).
+
+== Enge ==
+
+Die Rosenkranzbrüder und -Schwestern werden als irdische Engel bezeichnet bzw. als Chor-Brüder und Chor-Schwestern der Engel, »in dem ein Chor umb den andern den heiligen Rosenkrantz, die Engel zwar in dem himmlischen, die Menschen aber in dem irdischen Chor betten und also miteinander umbwechseln, wie die Menschen, wann sie den Rosenkrantz offentlich in der Kirchen chorweiß (= wechselweise) beten« (Bd 1, Rede 16). Sie treten als Vermittler zwischen Himmel und Erde auf. Das Jesuskind reicht einem Engel eine gelbe Rose, vielleicht als Symbol für den glorreichen Rosenkranz. Der Engel mit dem Kreuz bedeutet dann vielleicht den schmerzhaften und der Engel, der auf den Stern MARIA deutet, den freudenreichen Rosenkranz.
+
+A<sub>144</sub> VIER EVANGELISTEN Die Pendentifs der Kuppel sind mit je einer großen tropfenförmigen Kartusche ausgemalt, gebildet aus großlappigen, muschelförmigen Rocaillen, die von bronzefarbenen Blattranken durchflochten sind. Jeweils eine mit einem Puttenköpfchen geschmückte Rocaille am oberen Bildrand ist stuckiert und übergreift den Kuppelring. Vor goldfarbenem Hintergrund, der schalenartig ähnlich
+
+<!-- citation-page-bottom: Band09 p135 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=19 -->
+<!-- citation-page-top: Band09 p136 -->
+
+[[File:Band09_chunk003_p019_img001.jpg|thumb|2 Heimsuchung]]
+
+einer Muschel ausgeformt ist, sitzen auf einer Wolke die Evangelisten mit ihren Attributen.
+
+A, JOHANNES Johannes hat den Blick nach oben gerichtet; er hält ein geöffnetes Buch auf den Knien und in der Rechten hocherhoben die Feder. Der Adler neben ihm hält das Tintenfaß im Schnabel.
+
+A, MATTHÄUS Matthäus schreibt in ein Buch. Bei ihm kniet der Engel, der ihm das Tintenfaß hält.
+
+A, LUKAS Der Evangelist sitzt an der Staffelei. In der Linken hält er Pinsel und Palette, mit der Rechten weist er auf das Bild von Maria mit dem Jesusknaben, an dem er arbeitet. Der Stier hält ein Blatt im Maul mit der Inschrift Donec formetur / in Vobis / Gal.4 V.19. (Gal 4,19: Filioli mei, quos iterum parturio, donec formetur Christus in vobis; Meine Kinder, um die ich abermals Wehen leide, bis Christus in euch Gestalt gewinnt).
+
+[[File:Band09_chunk003_p019_img002.jpg|thumb]]
+
+[[File:Band09_chunk003_p019_img003.jpg|thumb]]
+
+[[File:Band09_chunk003_p019_img004.jpg|thumb]]
+
+A MARKUS Der Evangelist kniet auf der Wolke und hält die Schreibfeder hoch. Neben ihm ist der geflügelte Löwe, an dessen Flügel ein Tintenfaß befestigt ist. Er hält ein Blatt in den Klauen: Est mibi / utilis in / Ministerium / 2 Tim. 4 V. ii (=V.11).
+
+1-5, 1<sub>a-b</sub>-5<sub>a-b</sub> FREUDENREICHER ROSENKRANZ Die fünf breitformatigen Fresken 1-4 in den Konchen und Fresko 5 unter der Orgelempore zeigen weite Räume, in denen die Figuren locker verteilt sind. Eine Ausnahme bildet das Orgelfresko 4, in das die vergoldeten Ornamente des Orgelprospekts hineinragen und das reicher mit Details ausgestattet ist. Die Fresken sind hell und duftig, trotz starker Licht- und Schatten-Effekte, die Buntfarben der Gewänder (Rot, Blau, Gelb, Grün) sind bis zu Weißwerten aufgehellt.
+
+Jedes Fresko ist von zwei Emblemen flankiert. (1<sub>a-b</sub>, 2<sub>a-b</sub>, 3<sub>a-b</sub>, 4<sub>a-b</sub>, 5<sub>a-b</sub>). Die rahmenden Rocaillekartuschen sind monochrome.
+
+[[File:Band09_chunk003_p019_img005.jpg|thumb|Bienen am Rosenstock]]
+
+[[File:Band09_chunk003_p019_img006.jpg|thumb]]
+<!-- citation-page-bottom: Band09 p137 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=20 -->
+<!-- citation-page-top: Band09 p138 -->
+
+<!-- header: MARIENBERG -->
+
+[[File:Band09_chunk003_p020_img001.jpg|thumb]]
+
+chrom grau und mit grünem und rostfarbenem Laub durchwirkt. Das Ikon ist jeweils ohne jede Ausschmückung dargestellt, das Lemma ist in einem Schnörkel bzw. einer kleinen Kartusche am unteren Bildrand.
+
+Die meisten Embleme haben allgemein bekannte und häufig benutzte Bilder (Perlmuschel, Phönix, Schwan, Palme, Biener usw.). Ein Teil davon wird als geläufiges Bild für das entsprechende Thema gebraucht (z.B. Perlmuschel = Befruchtung vom Himmel her = Verkündigung), ein anderer Teil wurde für das jeweilige Thema adaptiert, wobei die Deutung oft neuartig ist, und ein Teil der Bilder ist selten (Adler mit Adlerstein) und die Deutung auch ungewöhnlich. Es ist anzunehmen, daß Abt und Mönche ihren Ehrgeiz darein setzten, ein nicht alltägliches, aber doch präzises Emblemprogramm zu gestalten. Als Vorlage für die Emblembilder wurde der »Coelum christianum« des Coelestin Leuthner (Augsburg 1749) genannt.
+
+[[File:Band09_chunk003_p020_img002.jpg|thumb]]
+
+[[File:Band09_chunk003_p020_img003.jpg|thumb|3 Phönix im Feuer]]
+
+[[File:Band09_chunk003_p020_img004.jpg|thumb|4 Darbringung im Tempel/Mariä Reinigung, 4a Schwan, 4b Palme]]
+
+(s. 2<sub>a-b</sub>, 3<sub>b</sub> und 5<sub>b</sub>). Leuthner wurde bei der Verfassung des Emblem-Zyklus sicher herangezogen, aber nicht ausschließlich.
+
+1 VERKÜNDIGUNG Den du, o Jungfrau, vom Heiligen Geist empfangen hast. Bildschauplatz ist eine ummauerte Terrasse, abgeschlossen rechts von einem Podest mit Ziervase, links von einer aufragenden Säulenarchitektur, wo zwei Engel dargestellt sind. Der eine rafft die große karminrote Draperie, der zweite ist mit Wäsche in einem Korb beschäftigt. Maria ist links an einem geschnitzten und vergoldeten Lehnstuhl vor einem weißgedeckten Tisch dargestellt, halb sitzend, halb kniend. Sie blickt in ein Buch und empfängt mit ausgebreiteten Händen die Botschaft des Engels, der auf einer weißen Wolke in den umhegten Gartenplatz eingedrungen ist, begleitet von Putten. Gabriel hält die Lilie in der Hand und weist zum Himmel, wo in einer großen Strahlenglorie die Taube des Heiligen Geistes erscheint und einen breiten Gnadenstrahl auf Maria wirft. Diese Gloriole setzt sich am oberen Bildrand in plastischen Strahlen fort.
+
+1<sub>a</sub> Caelo faecunda marito (Fruchtbar durch den Himmel als Gatten). Perlmuschel im Meer. Die Muschel empfängt die Perle durch den Tau des Himmels; damit ist sie Bild für die Empfängnis Mariens durch den Heiligen Geist: »Siquidem margarithae e destillante coelesti rore conficiantur, idcirco margaritha, intra concham reposita, epigraphen praefert SEMINE AB AETHEREO ... hoc Emblemate Virginis sanctissimae uterum significare licet, in quo, superna Spiritus S. virtute, Verbum Divinum cum humana natura hypostatice fuit unitum« (Picinelli, Lib. X, Nr. 237, s.v. margarita; s. auch Nr. 240, COELO FOECUNDA PARENTE mit gleicher Redeutung).
+
+1<sub>b</sub> Concepto non laesa lapillo (Nicht verletzt durch den empfangenen Edelstein). Adler, der einen großen Stein zum Nest trägt. Der Adlerstein (lapis aquilinus oder aetites) wird vom Adler ins Nest gelegt, um die Jungen immun gegen Schlangengift zu machen: »Aetites, in aquilae nido collocatus, pullis, ab omni serpentum veneno praeservandis, antidoti loco deservit« (Picinelli Lib. XXX, Nr. 40, s.v. aetites). Der Adlerstein galt als Hilfsmittel für leichte Geburten. Nach Plinius und anderen konnte der Adlerstein auch selbst schwanger sein, denn in seinem Innern konnte man, ohne daß der große Stein beschädigt war, einen kleinen Stein finden: »quippe in cuius sinu absque ulla ipsius laesione aut fissura, alius lapis reperitur clausus« (ebda, Nr. 44, mit Lemma concepto non laesa lapillo). Diese Eigenschaft wird bezogen auf Maria gravida, wobei das tertium Comparationis die Unversehrtheit des Adlersteins ist, die auf die bei der Empfängnis des Jesuskindes unversehrte Jungfräulichkeit Mariens verweist.
+
+2 HEIMSÜCHUNG Den du, o Jungfrau, zu Elisabeth getragen hast. Das Bild der nördlichen Konche zeigt eine weite, idealische Landschaft mit hellem Wolkenhimmel und einem palastähnlichen Bau rechts, an dessen säulengetragenem Portal ein weißgekleidetes junges Mädchen zu sehen ist. Die niedrigen Stufen des Palasts erstrecken sich quer über die gesamte Bildbreite. In der Bildmitte empfängt Elisabeth Maria und neigt sich zu ihr, Maria blickt mit ausgebreiteten Armen zum Himmel auf. Rechts, vor einer aufragenden Bergkulisse, wird Joseph von Zacharias begrüßt. Eine Magd schleppt eine schwere Truhe.
+
+2<sub>a</sub> Quia plena, recurvor (Weil ich gefüllt bin, neige ich mich). Reife Ähre, deren Frucht überhängt. Dieses Bild findet sich mit gleicher Bedeutung bei Leuthner (Teil II, Nr. VI/1: Mari Elisabetham visitans). Picinelli (Lib. X, Nr. 92, s.v. frumentum) bringt es als Bild der Demut.
+<!-- citation-page-bottom: Band09 p139 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=21 -->
+<!-- citation-page-top: Band09 p140 -->
+
+<!-- header: MARIENBERG -->
+
+
+[[File:Band09_chunk003_p021_img001.jpg|thumb]]
+
+
+2b Nec laedit, nec onerat (Sie verletzt nicht, noch beschwert sie). Rosenstock, von Bienen umsummt. Die Biene besucht die Rose, ohne sie zu beschädigen (Leuthner, Teil I, Nr. II/1: Ad Elisabetham portatur). Bei Picinelli (Lib. VIII, Nr. 16, s.v. apis) mit gleichem Lemma und gleicher Bedeutung.
+
+3 GEBURT JESU Den du, o Jungfrau, geboren hast. Auf dem Bild der südlichen Konche ist eine nächtliche Szene dargestellt, durch den Sternenhimmel mit der Mondsichel erhellt. In hellstem Schein erstrahlt die Heilige Familie im Stall, hinterfangen von einer leuchtenden Wolke, über der der Engel der Verkündigung an die Hirten erscheint, mit dem Inschriftband Gloria in Excelsis Deo. Hirten sind von rechts herangekommen und bringen ihre Gaben: ein Lamm und zwei Tauben.
+
+Joseph neben ihnen, in violettem Gewand und gelbem Mantel weist auf das Kind. Links im Bild, im Bereich einer sich nach hinten dunkel vertiefenden Höhle, ist eine Frau zu sehen, die ein Huhn bringt, während der Knabe, der sie begleitet, die Flöte spielt. Ochs und Esel sind im Hintergrund an einer Futterraufe dargestellt.
+
+3a Et friget et ardet (Er friert und glüht zugleich). Feuerspeiender Vulkan. Wie der Vulkan Ätna in Sizilien, der Feuer speit, während er von Eis bedeckt ist, ist Maria kalt für die sinnliche Liebe, aber glühend in ihrer Liebe zu Gott (Leuthner I, Nr. III, 3: Aetna; Picinelli, Lib. II, Nr. 600, s.v. mons Aetna: VIRESCIT, ET ALBESCIT).
+
+3b Sine coniuge Mater (Mutter ohne Gatten). Phoenix, der sich aus dem brennenden Nest erhebt. Das Bild des Phönix
+
+
+[[File:Band09_chunk003_p021_img002.jpg|thumb]]
+
+
+
+[[File:Band09_chunk003_p021_img003.jpg|thumb|St. Bienenstock]]
+
+
+
+[[File:Band09_chunk003_p021_img004.jpg|thumb|W<sub>L</sub> Cäcilia]]
+
+
+der sich sterbend im Feuer erneuert und verjüngt, wurde hier durch das Lemma auf die jungfräuliche Geburt bezogen (Leuthner, Teil I, Nr. I/3).
+
+4 DARBRINGUNG IM TEMPEL/MARIA REINIGUNG Den du, o Jungfrau, im Tempel aufgeopfert hast. Das große Fresko über der Orgel zeigt eine vielfigurige Gruppe im Innern des Tempels. Links sind Altaraufbauten mit dem siebenarmigen Leuchter zu sehen, rechts eine Portalarchitektur, während von oben eingedrungene Wolken den Raum hinten verunklären. In der Bildmitte steht der golden gewandete Hohepriester, blickt zum Himmel und hält den Jesusknaben auf einem weißen Tuch. Maria kniet vor ihm mit ausgebreiteten Armen. In der knienden Frau rechts im roten Kleid und blauen Schleier, deren Hände auf einem geöffneten Buch liegen, kann man die Prophetin Hannah sehen. Drei jugendliche Assistenzfiguren sind am Altar beschäftigt: eine hält ein aufgeschlagenes Buch, eine zweite zündet die Kerzen des Leuchters an und eine dritte an den Stufen des Altars öffnet den Käfig mit den beiden Opfertauben und nimmt eine heraus. Über der Szene schweben Engel und weisen ein Notenblatt vor, auf dem die Worte stehen, die der greise Simeon ausgesprochen hat, als er das Jesuskind auf seinen Armen als den Messias erkannte; allerdings vertont: Canon a 4 voc. / Nunc dimittis servum tuum / Domine in pace (Lc 2, 21-38).
+
+Nach dem Gesetz des Moses war eine Mutter nach der Geburt eines Knaben vierzig Tage (bei Mädchen achtzig Tage) unrein und durfte den Tempel nicht betreten. Nach Ablauf der Frist brachte sie die vorgeschriebenen Opfergaben und wurde daraufhin wieder zum Besuch des Tempels zugelassen. Jedes männliche Erstgeborene mußte bei diesem Anlaß dem Herrn dargestellt werden.
+
+4a Candida lustrat aquas (Strahlend weiß durchzieht er das Wasser). Schwan im Wasser. Nach Picinelli ist der durch das Wasser ziehende Schwan Bild für die Reinigung Mariens. So wie der Schwan, der ganz rein ist, sich doch durch das Schwimmen im Wasser weiter reinigt, unterzog sich Maria der Reinigung nach dem Gesetz, nicht weil sie der Reinigung
+
+
+[[File:Band09_chunk003_p021_img005.jpg|thumb]]
+
+
+bedurfte, sondern um sich zu vervollkommnen (Lib. IV, Nr. 325, s.v. cygnus).
+
+4b Flexa licet, non fracta tamen (Gebeugt zwar, jedoch nicht gebrochen). Palme, auf die zwei Puttenköpfchen blasen. Die Palme, die sich im starken Wind beugt, deren Stamm aber nicht bricht, ist hier in Beziehung gesetzt zu der Ankündigung des greisen Simeon an Maria »Dein Herz wird ein Schwert durchbohren« (Lc, 2,35). Alle Schmerzen, die Maria in ihrem Leben als Mutter Jesu erleiden wird, werden sie nicht brechen (vgl. Picinelli, Lib. IX, Nr. 348, s.v. palma: Maria in monte Calvariae). Abbildung S. 139 und oben.
+
+5 DER ZWÖLFJAHRIGE JESUS IM TEMPEL Den du, o Jungfrau, im Tempel wiedergefunden hast. Das Fresko befindet sich im Eingangsbereich unter der Orgel. Schauplatz ist das Innere des Tempels von Jerusalem mit Pfeilern, einer halbrunden Apsis im Hintergrund und einer großen goldfarbenen Draperie rechts. Rechts sitzen an einer niedrigen steinernen Exedra die Schriftgelehrten vor hebräischen Schriften. Der Jesusknabe sitzt etwas tiefer, hat die Arme ausgebreitet und weist zum Himmel. Vor ihm steht ein Schriftgelehrter, eine imposante und prachtvoll gewandete Figur mit Barett, pelzbesetztem Mantel und Goldkette. Von links treten Maria und Joseph herzu, überrascht, das schmerzlich gesuchte Kind im Tempel zu finden. Daraufhin ging Jesus mit seinen Eltern nach Nazareth zurück und war ihnen untertan (Lc 2, 41–50).
+
+5a Quibus impero subsum (Ich bin denen untertan, über die ich herrsche). Zodiakus mit den Sternzeichen Jungfrau zwischen Löwe und Waage. Das Emblem bezieht sich auf das Verhältnis Jesu zu seinen Eltern. Wie die Sonne, die sich im Zodiakus bewegt, von diesem bestimmt scheint, in Wirklichkeit aber den Zodiakus bestimmt, so ist Jesus (= Sonne) größer als Maria (= Sternbild Jungfrau) und ihr nur scheinbar und zeitweise untertan. Das Emblem scheint in dieser Form und Deutung eine Raitenhaslacher Neuerfindung zu sein. Die Sonne in den verschiedenen Bildern des Tierkreises, mit den entsprechenden Deutungen war allerdings ein gern gebrauchtes Emblem (Picinelli, Lib. I, Nr. 177–98, s.v. sol in zodiaco).
+<!-- citation-page-bottom: Band09 p141 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=22 -->
+<!-- citation-page-top: Band09 p142 -->
+
+[[File:Band09_chunk003_p022_img001.jpg|thumb]]
+
+5b Deo templisque laborant (Sie arbeiten für Gott und die Kirchen). Bienen am Bienenkorb. Das Vorbild dieses Emblems findet sich bei Leuthner als Bild für den lehrenden Jesus im Tempel (Teil I, Nr. VII/3: in templo docet). Herz und Bienenkorb waren die Wappensymbole Abt Emanuels.
+
+W<sub>a-b</sub> DAVID UND CACILIA Seitlich des Orgelprospekts befinden sich zwei Ölgemälde von Martin Heigl in dreipaßförmigem Rahmen.
+
+Wa DAVID PSALLENS Der in herrlichen Samtkleidern in Blau, Grün und Rot gekleidete König ist umringt von Putten, sie halten eine Papierrolle mit den Worten Davids aus dem letzten Psalm Laudate eum in Chordis, et Organo. Psl. ult. (Ps I 50,4).
+
+W<sub>b</sub> CACILIA Ebenso prächtig gekleidet wie David, greift die Heilige in die Tasten der Orgel. Putten spielen Flöte und Gambe, einer streut Rosen, ein anderer trägt eine Lilie.
+
+Eine Inschriftkartusche an der Brüstung der Orgelempore trägt ein weiteres Chronogramm SoLI Deo / aC MatrI eIVs / LaVs & gLorIa (= 1764). Sie ist von zwei seitlichen kleinen Kartuschen flankiert, in denen Musikinstrumente dargestellt sind.
+
+Emblemkartusche an der südlichen Wand über dem Abt-Oratorium und dem Sakristeizugang:
+
+W<sub>c</sub> Nunc et in hora (jetzt und in der Stunde). Uhr auf einem Tisch. Das Lemma spielt auf die Schlußworte des Ave Maria an: »Sancta Maria, mater Dei, Ora pro nobis peccatoribus nunc et in hora mortis nostrae.«
+
+Auf dem Hochaltar steht das Gnadenbild; die seitlichen Figuren stellen Dominikus und Katharina von Siena dar. Mit dieser Zuordnung wird an die Szene erinnert, in der Maria den hl. Dominikus und der hl. Katharina von Siena den Rosenkranz überreichte – die Hauptszene jeder Rosenkranz-Ikonologie.
+
+Das Gnadenbild steht auf einer Weltkugel, auf der fünf Rosen in einen Dornenkranz eingeschlossen sind, mit der Inschrift Ex spinis sine spina (aus Dornen ohne Dorn). Nach den »Rosi loquia« sind die Rosen im Paradies, noch vor der Sünde Adams und Evas, ohne Dornen gewachsen; damit symbolisieren sie die ohne Erbsünde empfangene Maria Immaculata. Die fünf Rosen auf der Weltkugel sind die fünf Geheimnisse des freudenreichen Rosenkranzes. Engel am Hochaltar halten die marianischen Symbole Sonne, Spiegel, Kranz und Lilie.
+
+Der schmerzhafte und der glorreiche Rosenkranz sind in der Kirche nicht dargestellt. Der schmerzhafte Rosenkranz ist in Architektur umgesetzt: Die Freitreppe vor der Kirche ist über einen Antritt von drei Stufen in fünf mal zehn Stufen abgeteilt und gibt damit die Möglichkeit, beim Hinaufsteigen den Rosenkranz zu beten. Der Antritt steht für die drei Ave Maria mit der Bitte um Stärkung durch die drei göttlichen Tugenden Glaube, Hoffnung und Liebe. Der erste Absatz ist durch eine Nische mit dem Kruzifix markiert. Auf weitere Zahlensymbolik am Bau hat Kreilinger (S. 76ff.) hingewiesen: am Modell waren 50 Pilaster im Außenbau vorgesehen, im ausgeführten Bau sind es zwölf und zwei mal vier an den Türmen.
+
+[[File:Band09_chunk003_p022_img002.jpg|thumb|Kartuschen mit Musikinstrumenten an der Orgelempore]]
+
+Auf dem Giebelfeld im O ist in vergoldeten Blechbuchstaben zu lesen AVE MARIA, »gegen Sonnenuntergang funkelt beim Abendlichte ein reich vergoldeter und verzierter Buchstabe M aus Metall in nachstehender Weise: MDCCLXIV ... Über den in eine Spitze zulaufenden Dache prangt ein prachtvoller großer Stern, der den Morgenstern in der lauretanischen Lita nei so schön sinnbildet« (Seidl 1866, S. 63). Zwischen Burghausen und Marienberg waren fünfzehn Ehrensäulen gesetzt, die die fünfzehn Geheimnisse des Rosenkranzes darstellten (Bonifaz Huber, Geschichte der Stadt Burghausen, Burghausen 1862, S. 323. Eine Säule steht noch bei der Einöde Stacherl). »Die Hauptbedeutung Marienbergs mag man darii sehen, daß es zu den letzten Kirchenbauten gehört, die in ihre Architektur symbolhaft ein ikonologisches Programm vollen den« (Kreilinger, S. 80).
+
+== Literatur zum Rosenkranz ==
+
+Rosiloquia das ist Rosen=Reden von der Fruchtbringenden Ertz=bruderschafft des heiligen Rosenkrantzes Jesu und Mariae ... durch Thomam Ferselium, PredigerOrdens, der H. Schrift Lectorem und der Zeit des Löbl. Stiffts und Jungfrawen Klosters bey S. Maria Magdalena zu Windhag gemeldten Ordens Beichtvattern, Erster Theil gedruckt im Fürstl. Stüfft Kempten bei Michael Frantz 1682.
+
+Rosiloquia das ist Rosen=Reden von der Fruchtbringender Ertz=bruderschafft des heiligen Rosenkrantzes Jesu und Mariae ... durch Thomam Ferselium, PredigerOrdens, der H Schrift Praesentatum und der Zeit des Closters zu Crembs bei St. Peter und Paul Priorn, Anderter Theil gedruckt im Fürstl Stüfft Kempten bei Rudolf Drehern 1679 (Exemplar UB München 0001/4 Homil. 1279, 1.2).
+
+Leuthner, Coelestin, Coelum christianum, in quo vita, doctrina... D.N. Jesu Christi... symbolis figuris expressa... proponuntur, Augsburg 1749, Teil II: Maria pulchra luna (Exemplar BSB, Asc. 2862 t).
+
+== Quellen und Literatur ==
+
+BSB, Clm 12536, Annales Raitenhaslacenses fol. 24–46: Geschichte, Bau, Beschreibung und Einweihungsfeierlichkeiten von Marienberg.
+
+Stadtarchiv Burghausen, Chronik von Raitenhaslach (mit Marienberg), Manuskript von Lothar Krick 1897, S. 55–75. BLfD, Akt Marienberg, Wallfahrtskirche.
+
+Marianischer Berg, das ist: Kurtz=doch gründlich=und wahrhafter Bericht von Ursprung und Fortgang des sechs hundert achtzehn jährigen, einem befreytem Stift und Kloster Unser Lieben Frauen zu Raittenhaslach, des heil. Cisterzer=Ordens einverleibten Pfarr=Gotteshaus auf dem sogennanten Maria=Berg, Bey dessen von Grund neuer Erbauung zu sicherer Nachricht in Druck verfertiget ..., Burghausen 1764 (Exemplar BSB, Bav. 269).
+
+[[File:Band09_chunk003_p022_img003.jpg|thumb|W. Emblemkartusche über dem Abt-Oratorius]]
+
+Meidinger, 1787, S. 364.
+
+Geographisches Statistisch-Topographisches Lexikon von Baiern, Bd 2, Ulm 1796, Sp. 239.
+
+Seidl, Johann Nepomuk, Die Wallfahrtskirche Marienberg, in: Kalender für Katholische Christen 1866, S. 62–72.
+
+KDB I OB (8), S. 2545-58
+
+Reichenwallner, Matthias, Barocke Symbolik in Marienberg in: Heimatland, Beilage zum Öttinger und Burghauser Anzeiger 4, 1953, Nr. 5.
+
+Krausen, Edgar, Marienberg – eine erloschene Wallfahrt der Zisterzienser von Raitenhaslach, in: Österr. Zeitschrift für Volkskunde Neue Folge 11, 1957, Heft 2, S. 129–38.
+
+-, Marienberg - eine erloschene Wallfahrt der Zisterzienser von Raitenhaslach - eine Nachlese, in: Österr. Zeitschrift für Volkskunde Neue Folge 15, 1961, S. 250–54.
+
+Krausen, Edgar, Künstler und Kunsthandwerker im Dienste der Zisterzienser von Raitenhaslach (= Jahrbuch des Vereins für christliche Kunst Bd 8), 1974, S. 1-33.
+
+-, Die Zisterzienserabtei Raitenhaslach, in: Germania Sacra Neue Folge 11, Berlin-New York 1977.
+
+Kreilinger, Kilian, Der bayerische Rokokobaumeister Franz Alois Mayr (= Jahrbuch des Vereins für christliche Kunst Bd 9), 1976, S. 51–80.
+
+Kemp, S. 241 f.
+
+Handbuch des Bistums Passau 1981, S. 174
+
+Dorner, Johann, Die Inschriften von Raitenhaslach, in: Burghauser Geschichtsblätter 38, 1982, S. 112, Nr. 142 ff.
+
+Krausen, Edgar und Kilian Kreilinger, Marienberg (= KKF Nr. 24), München-Zürich <sup>4</sup>1988.
+
+Dehio 1990, S. 618-20.
+
+Hopfgartner, Wolfgang, Wallfahrtskirche Marienberg: Die erhaltenen Modelle von Kirche und Altar. In: Oettinger Land 17, 1997, S. 203–212.
+
+Kupferschmied, Thomas, Der Freskant J. Martin Heigl. Arbeiten für Johann Baptist Zimmermann und selbständige Werke (= Schriften aus dem Institut für Kunstgeschichte der Universität München Bd 41), München 1998, S. 57-69.
+<!-- citation-page-bottom: Band09 p143 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=23 -->
+{{End}}
