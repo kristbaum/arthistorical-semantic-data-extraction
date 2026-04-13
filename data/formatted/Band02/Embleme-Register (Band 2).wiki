@@ -3,10 +3,10 @@
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=655
-|Originalseitenbis=655
+|Originalseitenbis=658
 |Lemma=Embleme-Register (Band 2)
 |davor=Ikonographisches Register (Band 2)
-|danach=Bildmotive (Band 2)
+|danach=
 }}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=3 -->
@@ -20,4 +20,187 @@ Diese enthalten anstelle von echten Lemmata Inschriften, welche den Bildgegensta
 Emblemähnliche Bilder ohne Lemmata  
 352, 562 f., 608–10, 632  
 
+BILDMOTIVE UND LEMMATA  
+Nicht aufgenommen sind die aus der Emblemliteratur herangezogenen Bildmotive und Lemmata.  
+
+== Bildmotive ==
+
+Adler, verliert Federn in der Nähe der Sonne 162, 515  
+blickt zur Sonne 163  
+Anker 134 f.  
+Apotheke 563  
+Aeche Noe 134 f.  
+Bauern, arbeiten auf dem Feld 250  
+Baum, fruchttragender Obstbaum 522  
+aus dessen Schatten Schlangen fliehen 95  
+mit Schnittwunde 253  
+im Winter 468  
+Berg, dessen Gipfel über die Wolken ragt 95  
+Bergarbeiter im Bergwerk 251  
+Bethesda, Teich von 23  
+Bienen, werden von der Sonne aus der Erstarrung geweckt 271  
+Bienenschwarm 251  
+Blitz, entzündet Baumstamm 419  
+Brunnen 23  
+Brunnen von Jericho 23  
+Marianischer Gnadenbrunnen 501  
+Jakobsbrunnen 23  
+Springbrunnen 23  
+Diamant auf Amboß 468, 515  
+Dornbusch, brennender 95  
+Dromedar 162  
+Edelstein auf Amboß 382  
+Engel 543  
+Fels im Meer 382, 468, 545, 609  
+Frau, studiert 251  
+Gefäß, Kelch 369  
+Gerichtsquelle 23  
+Gold, wird geläutert 545  
+Granatapfel 420  
+Helm, mit Orden des Goldenen Vlieses 418  
+Henne, holt Futter vom Baum 271  
+Herz, flammend 544  
+auf das ein Stein fällt 544  
+Herz Jesu 252  
+Herz Mariä 252  
+Hirsch, an Quelle 563  
+hat sein Geweih abgeworfen 271  
+Hirt 369  
+Jakobsbrunnen 23  
+Jericho, Brunnen von 23  
+Kind, auf Kugel stehend 610  
+Krone 543  
+Leiter, führt zum Himmel 370  
+Lerche 544  
+Lilie 632  
+Männchen, die sich häutet 161 f., 271  
+Morgenstern 272  
+Muschel, Perlmuschel 251, 419, 522, 609  
+Ölbaum 385  
+Palmen, neigen sich einander zu 522  
+Paradiesvogel 271 f.  
+Pelikan 271  
+Perlmuschel 251, 419, 522, 609  
+Phönix 163, 515, 544, 632  
+Pyramide 95  
+Ritter 544  
+Ritter mit drei Tieren 545  
+Rose 385, 632  
+Salz, Salzgewinnung 250  
+Schild, hält Unwetter ab 501  
+Schlange, die sich häutet 161 f., 271  
+Schlüssel zum Herzen 417  
+Schwan, singt 632  
+Sonne 502  
+aufgehend 502  
+aufgehend, vertreibt das Nachtgetier 163, 251  
+beleuchtet Bienen 271  
+spiegelt sich in Wolken 420  
+untergehend 272, 608  
+von Wolken verdeckt 370, 608  
+im Zeichen der Waage 162  
+Sonnenblume 369, 522, 563  
+Spiegel, von Pfeil getroffen 544  
+reflektiert die Sonne 544  
+Springbrunnen 23  
+Taufe an der Quelle 23  
+Treppe zu einem Felsengipfel 251  
+Turm 545, 609  
+in bewegtem Wasser 162  
+Vlies, Goldenes 418  
+Vogel, füttert die Jungen 163  
+Wanderer, von Hund angebellt 608  
+Weihraugefäß 272  
+Weinranke, aus den beschnittenen Zweigen fließt Saft 253  
+
+== Lateinische Lemmata ==
+
+Agnis mei sunt foeini patratus 515  
+Blanda se pace salutant 522  
+Caute munus coeleste recondo 419  
+Cuique suum 162  
+Cuncta patent, ubi clavis abyssi 417  
+Curvantur onustae 522  
+Dat divisio lucem 251  
+Dulcedo sequuntur 251  
+Dum morior orior 272  
+Esurientibus escam 163  
+Et memor ab alto 271  
+Ex funere vita 163, 515  
+Frangit, et accendit 419  
+Fructificat 23  
+Fugatur ab ortu 163  
+Gaudium ab adversis 370  
+Hac itur ad astra 370  
+Haec semita laudum 251  
+Haud aliis defenditur armis 417  
+Hic vere dicitur alter ego 420  
+Hinc salus 370  
+Hoc dignus honore est quem rex ipse colit 418  
+Illas oportet me adducere 369  
+Illuminat 23  
+Immemor ipse sui 271  
+In cruce levamen 252  
+In lachrimis spes 253  
+In morte solamen 252  
+In vulnere decor 253  
+Iuvat abiecisse caducum 271  
+Magnis non sunt formidini latratus 514  
+Me non combussit 95  
+Mundat 23  
+Nec flumine nec flamine nec fulmine 382  
+Nec igne nec malleo 382  
+Nec unda nec aura 162  
+Non absque labore 250  
+Non confundar in aeternum 370  
+Non frangitur ictu 515  
+Paucis contentus 162  
+Per ardua 251  
+Perdit, ut servet 161  
+Perennat 23
+<!-- citation-page-bottom: Band02 p655 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=4 -->
+<!-- citation-page-top: Band02 p656 -->
+
+Perfusa latent 522 Portet nomen meum coram gentibus 369 Pretiosa latent 251 Proiectis agilior 271
+
+Quasi oliva specio in campis 385 Quasi plantatio rosae in Iericho 385 Quos iterum pario 420
+
+Recreat 23, 25 Refocillat 23
+
+Sanat 23 Sapor omnis ab inde 250 Semper illaesa 95 Servat, et arcet 369 Sic mea me virtus vulnerat 420 Sine pondere sursum 271 Sine vulnere latrant 162 Solis faecundor ab ortu 522 Solvitur quia solatur 162, 515 Sospitat intuitu 271 Stella matutina 272 Suavis ubique 272 Sunt infra me 95
+
+Tuo de lumine splendeo 163
+
+Vas electionis est mihi iste 369 Vivificat 23
+
+== Deutsche Lemmata ==
+
+Auch In den Klein thuen erlich sheinn 544 Aus Lieb der Sonnenstralen Las ich die Federn falen 162
+
+Das Geschray der Hunden macht mir keine Wunden 162 Das Hegst Gebott Hilf in der Noth 163 Der beste Port ist dises orth 134 Dis Feur thuet geben ein anders Leben 16 Dißes Verzehren thuet heiß gebehren 544 Drei ding Hasset Mein seele 545 Du must in Ewighkeit nit beweget werden 545
+
+Er hat mich wie Gold Bewähret daß durchs süb gehet 545
+
+Hilf alß Zusßam lebt nichts wie Flamm 544 Hoch erhoben gnug zu loben 544
+
+Je mehr daß Leiden je greßere Freiden 54
+
+Mein ankunft In die Welt, Aufs beste alles bestellt 502 Mein heller schein bringt freud allain 502 Mein Hoffnung 468 Mein Überguß Im Überfluß 501 Mit den gleichen strallen thue ich bezahlen 544 Mit dir allein wird Sicher sein 134
+
+Mit dir allein wird Sicher sein 134
+
+Ohn Feller sein gibt solchen shein 543
+
+Stehet denn, angethan mit dem Panzer der gerechtigkheit 544
+
+Unbeweglich 468 Unverlegt 468
+
+Von Deinem Glantz Erleicht bin gantz 163 Von schönen Sonen Liecht Alles Unreines Fliecht 163 Vor Deinen Lohn Bereidt die Kron 543
+
+Wer unter disen schuz, der biethet aller Truz 501
+<!-- citation-page-bottom: Band02 p657 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=5 -->
 {{End}}

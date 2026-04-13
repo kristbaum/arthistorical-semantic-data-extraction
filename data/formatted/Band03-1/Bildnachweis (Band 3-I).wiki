@@ -5,7 +5,7 @@
 |Originalseitenvon=292
 |Originalseitenbis=292
 |Lemma=Bildnachweis (Band 3-I)
-|davor=Deutsche Lemmata (Band 3-I)
+|davor=Embleme-Register (Band 3-I)
 |danach=
 }}
 
