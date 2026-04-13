@@ -1,0 +1,103 @@
+{{Artikel
+|Band=10
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=255
+|Originalseitenbis=256
+|Lemma=Rennertshofen, Friedhofskapelle St. Leonhard
+|Typ=Sakral
+|Ort=Rennertshofen
+|davor=Rennertshofen, Pfarrkirche Johannes der Täufer
+|danach=Sandizell, Pfarrkirche St. Petrus
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+Friedhofskapelle, westlich außerhalb des Ortes in ummauertem Friedhof gelegen
+
+'''Patrozinium:''' St. Leonhard
+
+
+'''Zum Bauwerk:''' Gotische Kapelle, im 17. Jh. verändert, am 8.6. 1686 von dem Augsburger Weihbischof Eustach Egloff von Egloffstein geweiht. 1738/39 erhielt die Kapelle eine neue Innenausstattung, im Anschluß an die Arbeiten in der Pfarrkirche und zum Teil durch dieselben Künstler und Handwerker. Der Stuckator der Pfarrkirche, Rudolph Faber aus Monheim, stuckierte zusammen mit seinem Kollegen Leonhard Schäffler die Kapelle für 66 fl. (ABA, Pf 212, Nr. 161, Jahresrechnung 1. 12. 1737-1. 12. 1738, Nr. 5). Ein neuer Altar wurde errichtet, dessen Figuren der Neuburger Bildhauer Friedrich Gabriel Parraiter (Parreither, Barreiter) ausführte (ebd. Nr. 8; Jahresrechnung 1738/39, Nr. 6 u. 7). Daneben sind Instandsetzungsarbeiten durch verschiedene Handwerker bezeugt.
+
+Einschiffiger Raum zu zwei Fensterachsen, im O dreiseitig geschlossen. Tonne mit Stichkappen und Westempore. Bandwerkstuck, bestehend aus weißen Ornamenten auf lila und teilweise gelbem Grund, sparsam vergoldet.
+
+
+[[File:Band10_chunk006_p002_img001.jpg|thumb|Friedhofskapelle, Der hl. Leonhard von Noblac weist die Bischofswürde zurück]]
+<!-- citation-page-bottom: Band10 p255 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=3 -->
+<!-- citation-page-top: Band10 p256 -->
+
+
+== RENNERTSHOFEN ==
+
+
+'''Auftraggeber:''' Jakob Arnold, Pfarrer in Rennertshofen (1732-64) und die St. Leonhard-Stiftung, die über ein eigenes Vermögen verfügte.
+
+'''Autor und Entstehungszeit:''' Carl Conrad Prauneck (* 1686 Neuburg † 1742 Rennertshofen) 1738
+
+Im Zusammenhang mit der Innenrenovierung malte Prauneck 1738 das Fresko an der Decke und erhielt dafür 26 fl. (ebd. Jahresrechnung 1737/38, Nr. 10). Er faßte auch den neuen Altar, wofür er 1738 einen Abschlag von 35 fl. (ebd. Nr.9) und ein Jahr später noch einmal 30 fl. erhielt (ebd. Jahresrechnung 1738/39, Nr. 8).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Tonne mit Stichkappen Rahmen: Geschwungener profilierter Stuckrahmen, vergoldet, mit übergreifenden Stuckagraffen.
+
+Technik: Fresko, polychrom
+
+Maße: Höhe 7,05 m; 6,50×4,20
+
+Erhaltungszustand und Restaurierungen: Renovierungen der Kapelle fanden gewöhnlich gleichzeitig mit denen der Pfarrkirche statt: 1887 Neufassung des Altars durch Ludwig Wagner, Nordendorf, dem 1903, nach einer Entfeuchtung der Kapelle, auch die Renovierung der Decken= und Wandflächen übertragen wurde (nur Tünchen?; siehe StA Augsburg). Das Fresko ist stark überarbeitet. Der mit dem Schwamm getupfte Baumschlag und der insgesamt wolkige Eindruck deuten auf denselben Restaurator wie in der Pfarrkirche hin. Dabei handelt es sich möglichweise um den Kirchenmaler Karl Glaubacker, Regensburg, der 1910 hier wie dort eine Innenrenovierung vornahm. In seinem Voranschlag für die Leonhardskapelle vom 5.1.1910 heißt es: »Die Wände werden von der sie bedeckenden Ölfarbe gesäubert, Risse und Löcher ausgegipst und mit Kalkfarben getüncht. Die noch erhaltenen Stellen an der Decke und der Emporenbrüstung werden gereinigt und ausgebessert« (StA Augsburg). 1979/80 Renovierung durch die Fa. Rudolf Pfaller, Ingolstadt.
+
+Beschreibung und Ikonographie
+
+DER HL. LEONHARD VON NOBLAC WEIST DIE BISCHOFSWÜRDE ZURÜCK Die einansichtige, figurenreiche Darstellung, die nach Osten zu betrachten ist, entfaltet eine beträchtliche Höhenwirkung durch hochaufragende, stark verkürzt wiedergegebene Bauten am linken Bildrand, denen rechts, weniger akzentuiert, Felsen und Bäume entsprechen. Durch die Verwendung dieser Architekturkulissen zeigt sich der Künstler auch hier von Asam beeinflußt. Die angestrebte Tiefenwirkung verstärken, wie bei Prauneck üblich, schräg nach oben weisende Linien, gebildet aus Lanzen und Bischofsstab, vor allem aber die Umrisse der beiden Hauptpersonen, die sich einander zuwenden. Der im Benediktinerhabit dargestellte hl. Leonhard verzichtet auf ein Leben am Hof des merowingischen Königs Chlodwig. Er weist Mitra und Bischofsstab zurück, die ihm Chlodwig überreichen läßt, da er ein Leben in der Einsamkeit vorzieht. Der Herrscher mit Krone und Hermelinmantel steht vor einem Säulenportikus in
+
+Begleitung seines Gefolges, das teilweise neben ihm, teilweise auch unterhalb auf Podesten Platz gefunden hat, die in starker Verkürzung wiedergegeben sind. Die meist frontal dargestellten Personen sind bildparallel in Streifen übereinander angeordnet, was dem angestrebten Zug in die Tiefe wieder entgegenwirkt. Von unten führt ein bräunlicher gemalter Sockel in die Darstellung ein, über den Bettzeug und Kleidung einer im Vordergrund liegenden kranken Frau herabhängen. Hinter ihr sieht man einen Blinden und eine Person mit einer Klapper. Sie spielen auf den hl. Leonhard als Betreuer der Kranken an. Ein rechts kauernder Mann, der eine Kette mit Fesseln hält und die Tiere hinter ihm verweisen auf Leonhards Patronat für die Gefangenen und das Vieh.
+
+
+== Ouellen und Literatur ==
+
+
+ABA, Pf 212 (Pfarrarchiv Rennertshofen), Nr. 148, Jahresrechnungen der Pfarrkirchenstiftung, Lichtmeß 1737- Lichtmeß 1738; ebenso 1738/39 und 1740/41: Innenausstattung der Pfarrkirche; Nr. 167, Jahresrechnungen der St.-Leonhard-Stiftung 1731-1740: Innenausstattung und Instandsetzung der Kapelle 1738/39.
+
+Matrikelbuch von Rennertshofen, 1739–1810, Verstorbene \ T (
+
+BHSTA, PNA, NA 1989, Nr. 4422: Rennertshofen, Kirchenbauten.
+
+BLfD Archiv, Abtlg. R, Wandrestaurierung. Befunduntersuchung und Fotodokumentation von 1998 durch die Fa. Erwin Wiegerling, Bad Tölz; ebd. Registratur, Akten Rennertshofen Pfarrkirche Johannes der Täufer und Friedhofskapelle.
+
+BSB, cgm. 3075: Hueber, Martin, Durchleuchtiges Herzogthumb PfalzNeuburg, daß ist Historisch undt Korographische Beschreibung dises ganzen Herzogthumb, 1759.
+
+StA Augsburg, BA Neuburg. Nr. 5708, Rennertshofen: Restaurierungen; ebd. Regierung Nr. 13187: Reparaturen und Restaurierungen der Kirche ab 1854.
+
+Braun-Augsburg, Bd 1, S. 486 f; Bd 2, S. 257.
+
+Steichele Bd 2, S. 715-720
+
+Böhaimb, Carl August, Rennertshofen, in: NK, 30, 1864 S. 88-121.
+
+Hopp, Bd 1, S. 129
+
+Markmiller, W. u. Adam Horn, Die Pfarrkirche und die Friedhofskapelle in Rennertshofen bei Neuburg a.d. Donau (Kirchenführer), Rennertshofen 1956.
+
+Horn/Meyer 1958, S. 638–650
+
+Neuhofer, Theodor, Beiträge zur Kunstgeschichte Bayerns Landgebiet des Fürstentums Pfalz-Neuburg, Rennertshofen in: Sammelblatt des Historischen Vereins Eichstätt 62 1967/68, Eichstätt 1969, S. 52–54.
+
+Herlein, Willibald, neu hg. von Albert Steib, Das Dorfleben. Geschichte der Ortschaft Rohrbach im Landkreis Neuburg- Schrobenhausen als Beispiel für Entwicklung der Verhältnisse auf dem Lande, Ensdorf 1983.
+
+Riedmayr, Georg, Pfarrkirche Johannes der Täufer Rennertshofen (Kirchenführer), Ottobeuren 1984.
+
+Dehio 1990, S. 1017.
+
+B. V.-K.
+
+
+== SANDIZELL ==
+
+
+Pfarrkirche Sakristei S. 264 Schloßkapelle (Privatbesitz) S. 266
+
+{{End}}

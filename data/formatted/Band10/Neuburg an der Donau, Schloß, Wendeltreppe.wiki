@@ -1,0 +1,82 @@
+{{Artikel
+|Band=10
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=228
+|Originalseitenbis=229
+|Lemma=Neuburg an der Donau, Schloß, Wendeltreppe
+|Typ=Profan
+|Ort=Neuburg an der Donau
+|davor=Neuburg an der Donau, Schloß, Diana-Zimmer
+|danach=Neuburg an der Donau, ehem. Hofapotheke
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+== Wendeltreppe ==
+
+
+'''Zum Bauwerk:''' An der NO-Ecke des Philipp-Wilhelm-Baus steht ein sechseckiger Treppenturm mit Wendeltreppe, über die man von der Grottenanlage im Erdgeschoß ursprünglich die Altane im zweiten Obergeschoß erreichen konnte. In der Höhe des ersten Geschosses kam man zunächst in einen gewölbten Raum mit zwei Fenstern nach N, der über der großen Grottenhalle lag (nicht mehr vorhanden; stattdessen Pultdach über der Grottenhalle). Im zweiten Geschoß endete der Treppenturm als Belvedere, von dem aus die Altane zugänglich war. Auf der Altane war ein »Gärtlein« angelegt (erwähnt 1687; BHStA), das man wohl vom Ecksaal oder vom Diana-Zimmer aus betreten konnte.
+
+'''Auftraggeber:''' Herzog Philipp Wilhelm (*1615 † 1690; seit 1685 Kurfürst von der Pfalz).
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, um 1670. Aufgrund der Kostüme der Dargestellten kann man die Wandmalerei in die Zeit um 1670 datieren. Sie entstand wohl in zeitlichem Zusammenhang mit dem Neubau des Ostflügels.
+
+
+== Befund ==
+
+
+Wandmalerei, lebensgroße Figuren
+
+Technik: Secco; polychrom
+
+Erhaltungszustand und Restaurierungen: Die fragmentierten Wandmalereien wurden 1988 bei Bauarbeiten im Treppenturm aufgedeckt. Sie lagen unter einer bis zu 2cm dicken Putzschicht verborgen. Die Restauratoren Eckart Gross, Olching, und Raymund Schuhwerk, Ettringen-Siebnach, die mir freundlicherweise ihren Restaurierungsbericht zugänglich machten, unternahmen zunächst eine grobe Freilegung, anschließend wurden die Malereien bis 1992 völlig freigelegt, konserviert und ergänzt. Dabei zeigten sich auf der Malfläche rote Schrammen von Ziegelsteinen, die man wohl bei baulichen Veränderungen im oberen Teil des Turms die Treppe heruntergeworfen hatte. Bei dieser Baumaßnahme waren vermutlich auch die Malereien in der oberen Hälfte der Treppe zugrunde gegangen. Bevor die Wandmalerei in früherer Zeit überputzt worden war, hatte man die gesamte Wandfläche aufgepickt, um eine bessere Verankerung des neuen Putzes zu erreichen. Diese Löcher mußten geschlossen und eingestimmt werden, die stark farbigen Teile der Malerei, die zum Abpudern neigten, wurden gefestigt und retuschiert. »Größer Fehlstellen im unteren Bereich der Balustrade wurden teil weise ergänzt. Die anderen Fehlstellen wurden mit Punktre tusche geschlossen. Der Kopf des Wächters und die Schulter partie wurden erkennbar ergänzt, ebenso die Gesichter nac Originalresten angedeutet«.
+
+Beschreibung und Ikonographie
+
+WÄCHTER, HÖFISCHE GESELLSCHAFT, MARKETENDERIN (?), KIND (?) MIT TROMMEL. Im unteren Teil des Treppenturms begegnen dem, der die Wendeltreppe begeht, in illusionistischer Malerei lebensgroße Figuren. Entsprechend dem Anstieg der Treppenstufen ist an der Wand eine abgetreppte graue Balustrade gemalt, vereinzelt mit Buschwerk dahinter, was einen Ausblick ins Freie suggeriert. In gewissen Abständen ist die Balustrade unterbrochen. Hier stehen auf sich nach außen weitenden Podesten einzelne Figuren oder Figurengruppen, deren genaue Anordnung sich wegen des fragmentarischen Zustands nicht sicher ermitteln läßt. Zum Teil sind sie von »draußen« emporgestiegen, wie ein abwärts führendes Geländer andeutet.
+
+Die Wandmalerei ist deutlich inspiriert von den Darstellungen im Jagdschloß Grünau bei Neuburg, wo im Treppenturm des Alten Schlosses zu Seiten der Stufen ebenfalls Balustergeländer gemalt sind, hinter denen ab und zu vornehm gekleidete Paare den Besucher anblicken (1555). Zu verweisen ist auch auf die illusionistischen Darstellungen in der Narrentreppe auf Schloß Trausnitz bei Landshut (1570)
+
+Abfolge der Szenen
+
+Stufe 1: WÄCHTER. Neben der Eingangstür steht links ein in Braun gekleideter Wächter mit einem Stab.
+
+Stufe 4-6: HÖFISCHES PAAR in schwarz-grauer Kleidung in der Mode der 1670er Jahre mit Schleifen und Rüschen.
+
+
+[[File:Band10_chunk005_p014_img001.jpg|thumb|Höfisches Paar]]
+
+
+
+[[File:Band10_chunk005_p014_img002.jpg|thumb|Marketenderin (]]
+
+
+
+== Kleines Fenster ==
+
+
+Stufe 10-11: KAVALIER mit Perücke, von vorne gesehen, in schwarzer Kleidung mit geschlitzten Ärmeln und Schleifenbesatz in Weiß und Rosa. Er verneigt sich gegen eine oberhalb stehende Frau, von der nur noch Fragmente erhalten sind. Stufe 14: FRAU, von der nur der linke Oberarm mit Ärmel und Teile des Hinterkopfs erhalten sind.
+
+Kleines Fenster, zugesetzt
+
+Stufe 20-21: MARKETENDERIN (?) mit einer Musketengabel in der Rechten. Sie blickt zurück zu einem KIND (?) mit Trommel
+
+
+[[File:Band10_chunk005_p014_img003.jpg|thumb]]
+
+
+
+[[File:Band10_chunk005_p014_img004.jpg|thumb]]
+
+
+Auf der Höhe der 22. Stufe endet die erhaltene bzw. aufgedeckte Malerei. Es ist zu vermuten, daß ursprünglich das gesamte Treppenhaus bis zum Belvedere ausgemalt war.
+
+
+== Quellen und Literatur ==
+
+
+BHStA, PNA, Nr. 1583: Erwähnung des »Gärtleins« 1687. Schloßmuseum Neuburg an der Donau. Amtlicher Führer bearb. v. Horst H. Stierhof und Petra Haller, 3. Aufl. München 1998, S. 9. B. V.-K.
+<!-- citation-page-bottom: Band10 p229 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=15 -->
+{{End}}

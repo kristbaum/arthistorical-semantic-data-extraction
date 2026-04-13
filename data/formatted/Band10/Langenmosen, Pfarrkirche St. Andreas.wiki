@@ -1,0 +1,200 @@
+{{Artikel
+|Band=10
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=120
+|Originalseitenbis=129
+|Lemma=Langenmosen, Pfarrkirche St. Andreas
+|Typ=Sakral
+|Ort=Langenmosen
+|davor=Längloh, Filialkirche Mariä Geburt
+|danach=Maria Beinberg, Wallfahrtskirche Mariä Geburt
+|AutorIn1=Sauerländer, Brigitte
+}}
+
+<!-- citation-page-top: Band10 p120 -->
+
+<!-- header: LANGENMOSEN -->
+
+
+== LANGENMOSEN ==
+
+
+Pfarrkirche, Gemeinde Langenmosen, Diözese Augsburg. Seit 1381 war die Pfarrei dem Benediktinerinnenkloster in Neuburg inkorporiert. 1542 wurde das Fürstentum Neuburg vorübergehend protestantisch. 1638, mit der Restitution der Kirchengüter, kamen das Patronatsrecht und der Zehent von Langenmosen an das Neuburger Jesuitenkolleg als Rechtsnachfolger der Benediktinerinnen. Zugleich erhoben die Freiherrn von Sandizell Anspruch auf diese Rechte, da sie 1556 Güterbesitz des aufgelösten Klosters erworben hatten. Der daraufhin entbrennende Streit wurde erst 1766 durch eine kurfürstliche Hofratskommission zugunsten der Freiherrn von und zu Sandizell entschieden. Z. Z. der Ausmalung lag bei ihnen das Patronatsrecht. Gericht Schrobenhausen (Kurbavern)
+
+
+'''Patrozinium:''' St. Andrea
+
+
+'''Zum Bauwerk:''' Frühklassizistischer, 1779 fertiggestellter Bau, der den gotischen AR des 14. Jh. einbezieht (Jahreszahl 1354 am Turm). Aufgrund seiner architektonischen Merkmale wurde der Bau zu Recht Franz Anton Kirchgrabner zugewiesen (Dehio-Gall OB, S. 299). Die Zuschreibung wird bestätigt durch die Kirchenrechnung von 1780 (StAM), wo der »Bürger und Maurermeister Kirchgrabner zu München« als Erbauer des Gotteshauses Langenmosen genannt wird. Ihm werden für »zu Anrichtung der Arbeit gemachte Reisen« einmal 108 fl. und einmal 125 fl. bezahlt (fol. 573 r.u.v.); ferner ist mit allen Einzelheiten verzeichnet, daß er für die Beischaffung verschiedener Baumaterialien und die Taglöhnerarbeit insgesamt 2068 fl. 25 kr. ausgab (fol. 573 v.-580 v.).
+
+Breiter, geräumiger Saalbau zu vier Fensterachsen mit gerundeten Ecken und eingezogenem, zweiachsigem AR, dessen leicht eingezogene Altarnische außen dreiseitig schließt und
+
+innen gerundet ist. Im LHs Wandgliederung durch flache Pilaster mit einem Attika-Stück als Bekrönung, im AR durch Doppelpilaster. Belichtung im LHs durch acht hohe Rundbogenfenster, im AR durch vier, von denen sich zwei in der Schrägen des Chorschlusses befinden. Im AR Oratoriumslogen (die südliche vermauert). Im W hölzerne Doppelempore (die obere jüngeren Datums) mit Okulusfenstern über der westlichen LHs-Fenstern. Der barocke Hochaltar von 1671 stammt aus einer anderen Kirche.
+
+'''Auftraggeber:''' Anton Joseph Maria Freiherr von und zu Sandizell (* 1748 † 1803, Hofmarksherr seit 1778). Pfarrer war von 1775-1805 Heinrich Obermayer (sein Epitaph an der Süd wand des AR). Er hatte den Kirchenneubau stark befürwortet. Da Freiherr von Sandizell zum Bau nur ein Almosen von 200 fl. gab, wurden »die ratifizierten Baukosten von 3468 fl. durch eine Kirchenkonkurrenz der übrigen Kirchen vom Rentamt München und Rentamt Burghausen« bezahlt (Schrobenhausen, Stadtarchiv, Schloßarchiv Sandizell A 612, Brief Sandizells v. 18.2.1779 an den bayerischen Kurfürsten und Mitteilung des Geistlichen Rats München v. 27.3.1779 an Sandizell). Bei der Ausmalung handelte es sich wahrscheinlich um eine private Stiftung.
+
+'''Autor und Entstehungszeit:''' Ignaz Baldauf (* 1715 Inchenhofen † 1795 Inchenhofen) 1780. Signatur in der linken unteren (nordöstlichen) Bildecke von Fresko A an einem Stein: JE (ligiert) aldauf, Serenis= / simi Episcopi August: / Pictor Aulicus, pinxit. / Anno 1780.
+
+Wie in Maria Beinberg (S. 130) bezeichnet sich Baldauf auch hier als Hofmaler des Fürstbischofs von Augsburg. Eine gemalte Schriftkartusche über dem Chorbogen enthält als
+
+[[File:Band10_chunk003_p010_img001.jpg|thumb|Der Kirchenraum]]
+
+
+[[File:Band10_chunk003_p010_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band10 p121 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=11 -->
+<!-- citation-page-top: Band10 p122 -->
+
+<!-- header: IANGENMOSEN -->
+
+<!-- header: LANGENMOSEN -->
+
+Chronogramm ebenfalls die Jahreszahl 1780: Ihr Christliche SeeLen / RVhMet EVCh Iezt In NIChts / aLs Im CreVtz IesV ChristI / Paul: ad Galat / C: V (bezieht sich auf Gal 6,14).
+
+Die Fresken von Langenmosen gehören zu den Spätwerken Baldaufs, wie auch die in den Pfarrkirchen in Zahling, datiert 1778, und in Mering, signiert und datiert 1779, beide LKr Aichach-Friedberg. Die späten Arbeiten des Künstlers sind gekennzeichnet durch ein Abnehmen der spontanen Erzählfreude und damit verbunden eine Isolierung und gewisse Erstarrung der Einzelfigur, im Bildaufbau durch eine Annäherung ans Tafelbild bei relativ lockerer Flächenfüllung und einen fast völligen Verzicht auf Höhen- und Tiefenillusion, im Kolorit durch Reduzierung der Palette auf gebrochene, abgestufte Rot-, Gelb-, Ocker-, Violett- und Brauntöne als bestimmende Farben, in der Faltenführung durch weichere Artikulierung, in der Auszierung durch eine Verringerung des gemalten, imitierten Stuckdekors und der Brokatierungen. Diese inhaltlichen und formalen Vereinfachungen im Zusammenwirken mit der strengen, flächigen, völlig schnörkelfreier Architektur Kirchgrabners entsprechen der im kurfürstlicher Mandat von 1770 gestellten Forderung nach »edler Simplizität« im Kirchenbau und seiner Ausschmückung (Biron von Curland, S. 29–32 u. ö.).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A, A<sub>1-4</sub>, 1–6) gedrückte Flachtonne mit Stichkappen über Schildbögen; AR (B, B<sub>1-4</sub>, 7- 10) Flachtonne mit Stichkappen über Schildbögen
+
+Rahmen: A, B breite vergoldete Stuckprofilrahmen mit gerundeten Ecken; A<sub>1-4</sub>, B<sub>1-4</sub> flache ovale Stuckbandrahmen in Braun, Goldpunkte auf den Schnittpunkten mit den Hauptachsen; 1–10 runde braune Stuckprofilrahmen
+
+Technik: A, B Fresko, polychrom, mit neuzeitlichen Übermalungen; A<sub>1-4</sub> camaieu bräunlich, 1, 3, 4, 6 camaieu graugrün, B<sub>1</sub>–4 camaieu graugrün, 2, 5 und 7–10 camaieu rosa
+
+Maße: A Höhe 9,05 m; 10,60×6,70
+
+B Höhe 8,70 m; 8,00×4,05
+
+Erhaltungszustand und Restaurierungen: 1895 werden die Fresken als »ganz ruiniert« bezeichnet (KDB), bei einer Kirchenrenovierung 1905 wurden sie dann »aufgefrischt und nachgemalt« (Singer 1974). 1937 erfolgte eine Restaurierung, bei der Kunstmaler Bernhard (?) Otterpohl, München, die Bilder A und B »übermalte« und Kunstmaler Josef Albrecht, München, die Medaillons 1-10 mit neuen Darstellungen bemalte. 1953 Ausbesserung der Fresken durch Kunstmaler Michael Lutz, München, und Tünchung der Raumschale. Bei einer Instandsetzung des Innern 1967 durch Kirchenmaler Jakob Holderried, Pfaffenhofen a.d. Ilm, wurden auch die Deckenbilder gereinigt, Risse geschlossen und eingestimmt. Erneute Restaurierung 1979 durch Bernd Holderried, Restaurator und Kirchenmaler, bei der die Deckenbilder gereinigt und die Medaillons 1–10 von der Übermalung von 1937 befreit wurden. Ebenfalls freigelegt und restauriert wurden die Ornamentbemalung und Vergoldung an den Rahmen sowie die Kartusche mit dem Chronogramm. Die Stuckarbeiten besorgte die Fa. Walter Berger, Friedberg. 1990 Außeninstandsetzung, ebenfalls durch Bernd Holderried. 1990/92 übernahm Kunstmaler Stefano Cafaggi, Regenstauf, die Trockenreinigung der Fresken A und B. Die Instandsetzung der Brokatmuster sowie die erneute Ausbesserung, Tünchung und Tönung der Raumschale besorgte Kirchenmaler und Vergolder Robert Rolnik, Pfaffenhofen a.d. Ilm, dem für frdl. Mitt. gedankt wird.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A BERUFUNG DES ANDREAS (Mt 4,18-22) Einansichtige Szene, geostet. Das langgestreckte Bildfeld, das von der Westempore bis zum Ansatz der gerundeten Ecken im O des LHs reicht, ist mit seinem Ornamentrahmen fest eingefügt in das netzartige, geometrische System aus flachen Stuckbändern, das wie eine zweite Rahmung das Hauptbild A, die drei Stichkappen auf jeder Längsseite sowie die Ovalmedaillons A<sub>1-4</sub> umschließt und zugleich alle Teile aneinander bindet. Auch die Rundmedaillons 1–6 in den Schildbögen sind in dieser Art eingefaßt und gleichzeitig mit der Stuckbandrahmung der Schildbögen selbst verknüpft. Zusätzlich begrenzen der Gurtbogen vor der Empore und der Ansatz der abgemuldeten Deckenpartie vor dem Chorbogen den Bereich, worin Fresko A unverrückbar eingespannt ist.
+
+Im Einvernehmen mit den strengen Vorgaben dieser frühklassizistischen Architekturgliederung und entsprechend den Tendenzen seines eigenen Spätstils hat Ignaz Baldauf das Fresko A fast tafelbildmäßig angelegt und in zwei übereinandergestellten Szenen aufgebaut. Betrachterstandort östlich vom Rand der Empore.
+
+Ein Wiesenstreifen mit verstreut herumliegenden Muscheln, Krebsen und Schneckenhäusern, zu den Seiten leicht hochgezogen, bildet das Ufer des Sees von Galiläa, der durch einen schmalen Wellenhalbkreis auf der Uferkante markiert wird. Um die Bildachse sind nahe am Wasser die beiden Hauptpersonen angeordnet. Jesus, frontal gesehen und scharf silhouettiert, wendet sich dem knienden Andreas zu und fordert ihn mit einer Handbewegung, als wolle er ihn herbeiwinken, zur Nachfolge auf. Am rechten Uferrand hat ein Fischerboot angelegt, das Andreas als erster verlassen hat, während hinter ihm sein Bruder Petrus gerade aussteigt. Eine weitere Person sitzt im Heck und hält das Stechpaddel fest. Zwischen dem erhobenen Arm Jesu und dem ihm zugewandten Gesicht des Andreas ragt genau in der Mittelachse der spitze Bug des Fischerbootes empor, so daß der Aufruf Jesu »Kommt mir nach, ich will euch zu Menschenfischern machen« (Mt 4,19) hier mit eindringlicher Bildhaftigkeit vor Augen geführt wird. Baldauf erzählt gerne simultan. So ist hinter dem Rücken Jesu am linken Ufer, die Darstellung entsprechend dem Matthäustext (Mt 4,21) fortgesetzt: Man sieht ein weiteres Fischerboot mit den Brüdern Johannes und Jakobus sowie deren Vater Zebedäus.
+
+Über diesen Darstellungen nimmt der himmlische Bereich mehr als die Hälfte der Bildfläche ein. Analog der Form des Uferstreifens unten bildet eine breite Wolkenbank den Sitz für die thronende Personifikation der Divina Providentia. Im Schrägsitz neben der Weltkugel gelagert, blickt sie auf die Szene der Berufung hinab. In der erhobenen linken Hand hält sie das Zepter, bekrönt von dem Trinitätsdreieck mit dem Auge Gottes. Das Trinitätszeichen ist mit einer sonnenähnlichen Scheibe hinterlegt, von der ein großer Strahlenkranz ausgeht
+
+
+[[File:Band10_chunk003_p011_img001.jpg|thumb|Berufung des Andreas]]
+<!-- citation-page-bottom: Band10 p123 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=12 -->
+<!-- citation-page-top: Band10 p124 -->
+
+<!-- header: LANGENMOSEN -->
+
+
+[[File:Band10_chunk003_p012_img001.jpg|thumb]]
+
+
+[[File:Band10_chunk003_p012_img002.jpg|thumb|B Glorie des Andreas]]
+
+
+Sinnbild des Lichts und der Weisheit Gottes. Es bildet genau das Zentrum der himmlischen Szenerie.
+
+Wie in vorangegangenen Arbeiten hat Ignaz Baldauf auch in Langenmosen Figuren mit geringen Abwandlungen seinem eigenen, bewährten Fundus entnommen. So erscheinen die beiden Engel, die sich über die Wolkenbrüstung beugen, 1779 im LHs-Fresko in Mering (Biron von Curland, S. 192 Anm. 38), die Figur der Divina Providentia in der ehem. Schloßkapelle von Schloß Greifenberg (CBD Bd 1, S. 82-85 mit Abb.) und seitenverkehrt als Ecclesia 1778 im AR-Fresko von Zahling.
+
+In Zahling und Mering begegnen noch frei verteilte, gemalte Rocaille-Motive und gemalte Stuckkartuschen, auch solche mit Brokatmusterfüllung, während in Langenmosen eine einzige imitierte Kartusche als Schriftkartusche über dem Chorbogen übrig geblieben ist.
+
+A<sub>1-4</sub> VIER KIRCHENVÄTER Die Kirchenväter in den Ovalmedaillons sind als stehende Dreiviertelfiguren gegeben, nur Hieronymus kniet.
+
+A AUGUSTINUS hält mit der Rechten ein flammendes Herz vor seiner Brust; Mitra und Krummstab sind hinter ihm abgelegt. Er blickt nach oben auf das Trinitätsdreieck mit dem Auge Gottes, das sich auf sein Nachsinnen über das Geheimnis der Dreifaltigkeit bezieht.
+
+
+[[File:Band10_chunk003_p012_img005.jpg|thumb|A, Gregor]]
+<!-- citation-page-bottom: Band10 p125 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=13 -->
+<!-- citation-page-top: Band10 p126 -->
+
+== GLORIE DES APOSTELS ANDREAS ==
+
+Das geostete, einansichtige Fresko B mit dem Betrachterstandort unter dem Chorbogen ist in gleicher Weise wie Fresko A gerahmt und wie dieses in zwei übereinander gestellte Szenen gegliedert. Es zeigt jedoch noch Reste von perspektivischer Darstellung und von luftperspektivischer Aufhellung. Der Bildaufbau gliedert sich in zwei übereinander gesetzte Dreieckskompositionen, deren jede eine eigene perspektivische Ausrichtung hat. Im unteren Teil kniet links der Apostel Andreas in ehrfürchtiger Haltung, die linke Hand auf die Brust gelegt, und blickt zur Dreifaltigkeit empor. Ihm zur Seite hält ein Putto eine Angelrute mit Schnur und Haken in Anspielung auf den »Menschenfischer«. Rechts thront ein Engel, der das Andreaskreuz hält. Zwischen dem Engel und Andreas hält ein Putto eine Schnur mit Quaste und ein weiterer Putto den Palmzweig des Martyrers. Im unteren Teil des Bildfeldes sind ein vierter Putto mit einer Blumengirlande und eine Anzahl Puttenköpfchen um die Hl.-Geist-Öffnung angeordnet.
+
+In der Himmelszone erscheint oben die Dreifaltigkeit. Gottvater und Gottsohn thronen auf einer breiten, konkav geschwungenen Wolkenbank. Jesus weist mit der rechten Hand zu Andreas hinab und wendet sich Gottvater zu. Beide werden von einem großen, lichterfüllten Trinitätsdreieck umfangen, in dem oben die Taube des Hl. Geistes in einem eigenen Strahlenkranz schwebt, von dem ein schmales Strahlenbündel herniederfällt zu Andreas.
+
+Ähnlich wie bei Fresko A beherrschen auch hier die gebrochenen Gelb-, Rot- und Ockertöne die Farbgebung. Gebrochenes Rot erscheint im Umhang von Jesus und im Mantel von Andreas, wodurch beide farblich einander zugeordnet sind. Das von Baldauf geschätzte Grauviolett ist aufgelichtet im Gewand Gottvaters verwendet, ein grünliches Blau begegnet im Mantel des Engels, der das Kreuz Jesu hält. Die Gelb- und Ockertöne sind im Wesentlichen den Wolkengebilden und dem Trinitätsdreieck vorbehalten. Zarte blaugraue Töne gehören zur Himmelsfläche, die an den Bildrändern durchscheint.
+
+[[File:Band10_chunk003_p013_img001.jpg|thumb]]
+
+[[File:Band10_chunk003_p013_img002.jpg|thumb|Schafe und Wölfe]]
+
+[[File:Band10_chunk003_p013_img003.jpg|thumb]]
+
+1 Stadt
+
+[[File:Band10_chunk003_p013_img004.jpg|thumb]]
+
+[[File:Band10_chunk003_p013_img005.jpg|thumb|6 Kerzenleuchter]]
+
+[[File:Band10_chunk003_p013_img006.jpg|thumb]]
+
+[[File:Band10_chunk003_p013_img007.jpg|thumb]]
+
+Taubenschlag
+
+[[File:Band10_chunk003_p013_img008.jpg|thumb|8 Lilien und Spiegel]]
+
+[[File:Band10_chunk003_p013_img009.jpg|thumb]]
+
+7 Altartisch und Opferlamm
+
+[[File:Band10_chunk003_p013_img010.jpg|thumb]]
+
+[[File:Band10_chunk003_p013_img011.jpg|thumb|10 Adler]]
+
+9 Waag
+<!-- citation-page-bottom: Band10 p127 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=14 -->
+<!-- citation-page-top: Band10 p128 -->
+
+[[File:Band10_chunk003_p014_img001.jpg|thumb]]
+[[File:Band10_chunk003_p014_img002.jpg|thumb]]
+
+7-10 EMBLEMATISCHE DARSTELLUNGEN Die vier Rundbilder, die an den Längsseiten Fresko B begleiten, beziehen sich auf Eigenschaften des Apostels Andreas.
+
+[[File:Band10_chunk003_p014_img003.jpg|thumb|B. Matthäus]]
+[[File:Band10_chunk003_p014_img004.jpg|thumb|B<sub>4</sub> Johannes]]
+
+7 Dem Sanftmüthigen. / Keinem entgegen. Gemauerter Altartisch mit Opferlamm. Hinweis auf den Martyrertod des Apostels Andreas. Bei Picinelli (Lib. V, Nr. 9, s. v. agnus) ist dem Lamm, das gebunden auf dem Altar liegt, umgeopfert zu werden, das Lemma beigegeben: DEUS NON DESPICIET (Gott achtet es nicht gering).
+
+8 Dem Gott geliebten. / Reinlich geziert. Zwei Lilienpflanzen flankieren und halten einen rechteckigen Spiegel. Verwiesen ist auf den Blick in den Spiegel, der die Menschen ihre Unvollkommenheit und angeborenen Fehler erkennen und korrigieren läßt. Bei Picinelli (Lib XV, Nr. 187, s. v. speculum) führt dieser Spiegel das Lemma: LUCET, UT EMENDET – Er leuchtet, damit er von Fehlern befreit.
+
+9 Dem Gerechten. / Niemals betrügend. Eine aus den Wolken kommende Hand hält eine Waage, deren Schalen gleich hoch hängen, Sinnbild des gerechten Richterspruchs. Sie führt bei Picinelli (Lib. XXI, Nr. 22, s. v. bilanx) das Lemma: NEC CITRA, NEC ULTRA – Weder nach dieser noch nach der andern Seite.
+
+10 Dem Frommen. / Allzeit zur Höche. Ein Adler, der über einer Landschaft mit Gebirge zur Sonne hochfliegt, steht hier als Sinnbild für den religiösen Menschen, der sich von der Erde ab- und gänzlich Gott zuwendet. Er hat bei Picinelli (Lib. IV, Nr. 102, s. v. aquila) das Lemma: AD TE LEVAVI OCULOS – Zu dir habe ich meine Augen erhoben.
+
+Mit dem Hauptfresko A, das in Schlichtheit und eindringlicher Einfachheit Bibeltext und Worte Jesu zur Anschauung bringt, ist die Langenmosener Andreaskirche schon recht weit abgerückt von dem vielfältigen Schaugepränge religiöser Deckenbilder des Barock und Rokoko. Die emblematischen Medaillonbilder 1–10 sind jedoch noch einem barocken Gliederungsschema des Deckenprogramms bzw. Deckenbereichs zuzurechnen, worin ein Kranz von Sinnbildern das Hauptbild erläuternd und ergänzend umgibt. Neu ist hier, daß die Medaillons 1–6 Textstellen aus dem Matthäusevangelium verbildlichen.
+
+== Quellen und Literatur ==
+
+BLfD, Registratur Akten, Langenmosen, Pfarrkirche St. Andreas; ebd. Abtlg. R, Wandrestaurierung, Befunduntersuchung und Photodokumentation von Robert Rolnik 1993.
+
+Langenmosen, Pfarrarchiv: Kirchenrenovierungen 1953, 1966/67 und 1979; Notizen von Pfarrer Ignaz Singer von 1974 Ms.
+
+Schrobenhausen, Stadtarchiv, Schloßarchiv Sandizell, A 132: Zehentschuldigkeit des Pfarrers von Langenmosen 1767–1768, darin Bericht über die Hofratskommission von 1766; A 612: Konkurrenz zum Kirchen- und Pfarrhofbau in Langenmosen 1776–1784, darin die genannten Briefe von 1779.
+
+StAM, Geistlicher Rat, Kirchen- und Stiftungsrechnungen, Kirchenrechnungen Gericht Schrobenhausen, 1780, fol. 573 r–580 v: Zum Bau und zu Kirchgrabner. StAM, Schloßarchiv Sandizell, Urkunde Nr. 0134.
+
+Mayr, S. 314f. Braun-Augsburg, Bd 1, S. 466; Bd 2, S. 126. Hopp, Bd 2, S. 184. KDB I OB (1), S. 162. Welisch, S. 85f. Thieme-Becker, Bd 2, s. v. Baldauff, Ignatz, S. 390 (Wgn.). Lieb, Norbert, Münchener Barockbaumeister, München 1941, S. 182f. (Franz Anton Kirchgrabner).
+
+Reischl, Georg August, Tausendjähriges Sandizell. München 1950, S. 69, 87f, 126. Dehio-Gall OB, S. 299. Schrobenhausener Land, S. 59 und Abb. S. 51 (Fresko B). Gruber, Max, Der Maler Ignaz Baldauf (1715–1795), in: Amperland 4, 1968, H. 1, S. 7–10.
+
+Historischer Atlas Schrobenhausen, S. 40, 65, 113. Biron von Curland, S. 29–32, 49, 84–86, 192, Anm. 38 und 41. Pötzl II, S. 92. Dehio 1990, S. 584.
+
+Altmann, Lothar, Zwei Inchenhofener Künstler: Friedrich Schwerdtfiehrer und Ignaz Baldauf, in: Inchenhofen. Wallfahrt, Zisterzienser und Markt, hg. von Wilhelm Liebhart, Sigmaringen 1992, S. 447, 451. Saur Bd 6, 1992, s.v. Baldauf, dt. Maler-Familie, 3. Ignaz, S. 406f. (Jürgen Tiede)
+
+<!-- citation-page-bottom: Band10 p129 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=15 -->
+{{End}}

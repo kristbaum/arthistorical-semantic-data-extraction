@@ -1,0 +1,148 @@
+{{Artikel
+|Band=10
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=266
+|Originalseitenbis=270
+|Lemma=Sandizell, Schlosskapelle Zum gekreuzigten Heiland
+|Typ=Sakral
+|Ort=Sandizell
+|davor=Sandizell, Pfarrkirche St. Petrus, Sakristei
+|danach=Schrobenhausen, Filialkirche St. Salvator
+|AutorIn1=Sauerländer, Brigitte
+}}
+
+<!-- citation-page-top: Band10 p266 -->
+
+== Schloßkapelle Filialkirche der Pfarr- und Hofmarkskirche St. Peter ==
+
+
+'''Patrozinium:''' Zum gekreuzigten Heiland
+
+'''Zum Bauwerk:''' Das Sandizeller Schloß wurde 1749-1751 als Wasserschloß unter Einbindung älterer Bauteile errichtet. Es ist eine Dreiflügelanlage, die im N durch einen niedrigen Verbindungstrakt begrenzt wird. Der Haupteingang liegt im Südtrakt.
+
+Beteiligte Baumeister waren: 1749 Michael Anton Prunnthaler, Stadtmaurermeister von Ingolstadt; 1750 Johannes Puchtler, Hof- und Stadtmaurermeister von Neuburg; 1751 Vitus Haltmaier, Stadtmaurermeister von Ingolstadt (Wörsching 1987, S. 13 f.).
+
+Im dreigeschossigen Südflügel, der durch einen Mittelrisalit zu drei Fensterachsen akzentuiert ist, liegt hinter der zweiten Fensterachse westlich des Risalits die Schloßkapelle. Sie reicht durch das erste und zweite Obergeschoß. Schmaler, rechteckiger Raum, genordet, Empore im S, Belichtung durch zwei Fenster übereinander im S. Zwei Oratorien im zweiten Obergeschoß rechts und links vom Altar. Im ersten Obergeschoß öffnet sich nach W durch zwei Arkaden ein zweiachsiger Anraum, wohl eine Art Gemeinderaum, der vom nördlich anschließenden Flur aus zugänglich ist.
+
+Der Altar an der Nordwand, der sich formal an den Nebenaltären der Hofmarkskirche orientiert, ist ein Werk des Schreinermeisters Friedrich Schwerdtfiehrer, Inchenhofen, und des Bildhauers Anton Siessmayr, Augsburg. Die Arbeiten wurden 1755 vertraglich festgelegt und im folgenden Jahr ausgeführt: {ZITAT|000}. Ausgaben auf Bildhauerarbeit 1756: {ZITAT|001} (StAM, Schloßarchiv Sandizell Ökonomie 342, fol. 10 v und 18 v)
+
+In der zum Betrachter hin offenen Altarmensa liegt der tote Christus im Grab. Über dem Tabernakel erhebt sich der Kruzifixus, hinterlegt von dem Altarblatt, das die Stadt Jerusalem mit der Sonnenfinsternis zur Zeit der Todesstunde Iesu darstellt. Die Schmerzhafte Muttergottes mit dem Schwert im Herzen, Johannes und Maria Magdalena stehen als plastische Gruppe unter dem Kreuz. Im kleinen Auszugsbild erscheint der auferstandene Christus.
+
+Die Emporenbrüstung in Rocailleform stammt wohl von dem Schrobenhausener Schreinermeister Anton Wiest, der 1753 für das ähnliche Geländer der Haupttreppe des Schlosses 22 fl. 48 kr. erhielt (StAM, Schloßarchiv Sandizell 168, Prod. 25).
+
+'''Auftraggeber:''' Max Emanuel Reichsfreiherr von und zu Sandizell (1702–78), der die Freskierung selbst bezahlte (s.u.). Pfarrer z.Z. der Ausmalung war Bartholomäus Kigle (1743–62), Schloßkaplan Matthäus Andreas Mertl.
+
+'''Autor und Entstehungszeit:''' Ignaz Baldauf (* 1715 Inchenhofen, † 1795 Inchenhofen) 1756
+
+Die Arbeiten sind weder signiert noch datiert. Bisher wurden die Fresken Baldauf aufgrund stilistischer Vergleiche zugewiesen, wobei man nur von der Himmelfahrt Christi (A) ausging, das Fresko an der Emporenunterseite (EU) blieb unerwähnt. Baldaufs Autorschaft kann archivalisch belegt werden. In den Kirchenrechnungen finden sich Bemerkungen zu Geldausgaben für die Schloßkapelle, die sich auf den Sommer 1757 beziehen, unterzeichnet vom Verwalter Wolf Gabriel Mödlhamer. Hier heißt es im Zusatz: {ZITAT|002} (StAM, Schloßarchiv Sandizell 459, Schloßkapelle. Ausgaben 8. 5. bis 6. 10. 1757). Im Mai 1756 erfolgten die Zurüstungen für die Freskierung der Schloßkapelle. {ZITAT|003}. »Vom 16ten bis 23ten May. bey der in Fresco Ausmalung der Schloß Capelln verwendt alhiesigen Maurer ad. 18 kr. ... für 4 Maurer Tag 1 fl. 12 kr.. und vom 24. bis 30ten May also
+
+
+[[File:Band10_chunk006_p008_img001.jpg|thumb|A Himmelfahrt Christi]]
+<!-- citation-page-bottom: Band10 p267 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=9 -->
+<!-- citation-page-top: Band10 p268 -->
+
+<!-- header: SANDIZEL -->
+
+<!-- header: SANDIZELL -->
+
+für 4 Maurer Tag 1 fl. 12 kr.« (StAM, Schloßarchiv Sandizell, Okonomie 342, fol. 6 v, 5). Das bedeutet, daß nach Aufbringen des Putzes durch die Maurer bereits ab Juni 1756 freskiert werden konnte. Baldauf malte für die Kapelle zwei Fresken und die Darstellungen am Hochaltar.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Flachdecke über Hohlkehle mit Stuckprofilrand; EU Flachdecke über dreiseitiger Hohlkehle Rahmen: A, EU weiße Stuckprofilrahmen
+
+Technik: Fresko, polychrom
+
+Maße: A Höhe 7,06 m; 4,50 × 2,60
+
+EU Höhe 3,20 m; 1,80 × 2,60
+
+Erhaltungszustand und Restaurierungen: Die Fresken sind in leuchtenden Farben gehalten und bisher noch nie restauriert worden (frdl. Mitt. der Familie). Fresko A weist einige größere Längsrisse auf, die vielleicht einmal ausgebessert worden sind. Fresko EU zeigt ein paar kleinere Risse im Bereich der Treppenstufen, winzige Fehlstellen am gemalten Gewölbe und eine aufgehellte Partie hinter der linken Hand des Dionysius Areopagita. Die ursprüngliche Farbqualität scheint vollkommen erhalten zu sein, die Farbintensität ist ungewöhnlich.
+
+Beschreibung und Ikonographie
+
+A HIMMELFAHRT CHRISTI Das einansichtige, langgestreckte Fresko, das nach N zu betrachten ist, nimmt die gesamte Deckenfläche ein; Betrachterstandort in der Mitte des Raums. Irdische und himmlische Zone teilen sich die Bildfläche annähernd zur Hälfte. Von rechts eingeschobene, abgetreppte Rasenstücke bilden eine schräge Vordergrundsrampe, dahinter erstreckt sich ein Wiesengrund mit hochgelegter Horizontlinie. Auf der ansteigenden Fläche verteilen sich die Apostel in Kreisanordnung nach hinten, wobei sie mehr übereinander als hintereinander gestaffelt sind. Die Personen im Bildhintergrund, Maria, von zwei Frauen begleitet, und Johannes werden von der Horizontlinie der Wiese überschnitten und scheinen in einem Graben zu versinken (vgl. das gleiche Kompositionsprinzip in St. Salvator in Schrobenhausen, S. 271). Die lebhaft agierenden Apostel sind in einem Zustand außerordentlicher Erregung, des Überwältigtseins und Staunens dargestellt. Der optische Zusammenhang der Gruppe, ihre tiefenräumliche Erstreckung wird kaum durch perspektivische Verkleinerung und gar nicht durch Luftperspektive erreicht. Vielmehr erlaubt die hochgelegte Horizontlinie, die Figuren wie auf einer Schautafel hinter- und übereinander anzuordnen, so daß ihr Zusammenhang als Gruppe im Raum fast nur an der dichten Zuordnung ihrer Hände ablesbar wird. Die Apostelgruppe präsentiert sich in kräftigen, kaum gebrochenen Buntfarben. Leicht schrille Gelb- und Rottöne, begleitet von Rotbraun, haben die Vorherrschaft; dazwischen sind jedoch Hellblau und Hellgrün in verschiedenen Schattierungen gleichgewichtig verteilt. Partielle Farbaufhellungen und eine in Zickzacklinien geführte Faltenmarkierung verstärken zusammen mit den teilweise wild bewegten Manteldrapierungen den expressiven Charakter der Gruppe.
+
+Über den Aposteln schwebt Christus in blauem Gewand und rotem, lebhaft zur Seite gewehten Mantel vor zartblauem Licht und hellgelber Strahlengloriole gen Himmel empor. Die Gloriole ist hufeisenförmig umgeben von einer dunkelblauen, fast schwarzen Wolkenformation, die dem Geschehen einen dramatischen Akzent verleiht, in der Mitte wird Christus wie von einem Sog nach oben gezogen. Das Außerordentliche und Plötzliche des Ereignisses für die Apostel wird in Baldaufs expressiv-naiver Darbietungsform noch unterstrichen durch die Verwendung des altvertrauten Motivs der sichtbaren Standspuren von Jesu Füßen.
+
+Den Prototyp für diese Erscheinungsform des stark in Untersicht gegebenen, vor einer lichterfüllten Himmelsöffnung auf fahrenden Christus schuf Correggio mit der illusionistischen Ausmalung der Kuppel der Kirche San Giovanni Evangelista in Padua, 1520–24. Stil und Farbigkeit der Himmelfahrt Christi sind für Baldauf eher ungewöhnlich. Es handelt sich hier wohl um sein frühestes Werk. Die Vehemenz der mit expressiver Gestik agierenden Apostelfiguren und die grelle (original erhaltene?) Farbigkeit begegnen in dieser starken Ausprägung später nicht mehr bei ihm. Vielleicht erforderte auch die hohe Anbringung in einem kleinen kastenartigen Raum eine gewisse drastische Überbetonung, um Wirkung hervorzurufen.
+
+EU DER HL. DIONYSIUS AREOPAGITA ALS ASTRONOM Querformatige, einansichtige, nach S gerichtete Szene; Betrachterstandort vor der Emporenbrüstung. Die in extrem steiler Untersicht angelegte Darstellung, die sich über einem bildparallel verlaufenden Stufensockel aufbaut, gewährt Einblick in eine gewölbte Studierstube, die sich links zu einer großen überdachten Rotunde öffnet, welche der Sternbeobachtung dient. Bei der hier geübten Perspektive versinkt die angedeutete Arkatur beinahe ganz hinter dem Horizont. Die Inschrift auf der Kartusche an dem Arbeitstisch rechts lautet: Aut Deus Naturae Patitur, / aut Mundi Machina Dissolvetur. (Entweder leidet der Schöpfer der Natur, oder die Maschinerie der Welt löst sich auf.) Auf dem Tisch und auf den Stufen ist das Arbeitsgerät des Astronomen verteilt: ein kupferfarbenes Astrolabium, daneben ein dicker Foliant, aufgeschlagene Bücher, eine Landkarte, ein blauer Himmelsglobus mit Sternen, ein Erdglobus, ein Proportionszirkel und eine Meßlatte. Der Gelehrte sitzt neben seinem Arbeitstisch, ist aber gänzlich dem Betrachter zugewandt. Dionysius erscheint als älterer Mann mit Bart, gekleidet in ein langes rotes Gewand, einen leuchtend blauen, mit weißem Pelz gefütterten Mantel und ein blauviolettes Barett. Er blickt zum Betrachter hinab, hat die linke Hand dozierend erhoben und hält in der rechten das ausgezogene Fernrohr, das noch auf den nachtblauen Himmel weist, wo man oben die verfinsterte Sonne erkennt: schwarz, mit einem schmalen, sichelförmigen Rand in Orange. Darunter liegt am Boden der Rotunde die umgestürzte, ihrer Funktion beraubte Sonnenuhr. Die verfinsterte Sonne ist die gleiche, wie sie Ignaz Baldauf für den Altar der Kapelle auf der Ansicht von Jerusalem hinter der plastisch gebildeten Kreuzigungsgruppe gemalt hat (wegen des schlechten Erhaltungszustands des Leinwandbildes heute kaum mehr zu erkennen).
+
+Der hl. Dionysius Areopagita, der die Sonnenfinsternis während der Todesstunde Christi beobachtet, ist im 18. Jahrhundert mehrfach dargestellt worden, so in einem Fresko von Matthäus Günther 1767 in der Portenkapelle von Kloster Aldersbach. Dort erscheint er überlebensgroß, umgeben von astronomischem Gerät, in einem Wandbild hinter dem Hochaltar, das als Altarbild dient. Unter der verfinsterten Sonne halten zwei Putten eine Schriftrolle mit der gleichen Inschrift wie in Sandizell (Hermann Gundersheimer, Matthäus Günther, Augsburg 1930, S. 132; Michael Hartig, Aldersbach, KKF Nr. 698, <sup>5</sup>1970, S. 12).
+
+Sitzend und ähnlich gewandet wie bei Baldauf in Sandizell ist Dionysius zu sehen im Deckenbild der Pfarrkirche St. Dionysius in Fünfstetten, Lkr. Donau-Ries, von Johann Baptist Enderle, 1766 (Karl Ludwig Dasser, Johann Baptist Enderle, Weißenhorn 1970, S. 106 f, Abb. 81 und 82). Möglicherweise benutzten Enderle und Baldauf die gleiche Vorlage. Eigenständig ist Baldauf jedoch in seiner volksnahen, drastischen Beredsamkeit und in der Art, wie es ihm gelingt, die Szene in dem beengten, queroblongen Bildfeld unterzubringen.
+
+Dionysius (gest. um 95), Martyrer und Bischof, war Mitglied des Areopags in Athen und wurde durch die Predigten, die der Apostel Paulus in der Stadt hielt, zu Jesus bekehrt (Act 17, 34). Dionysius war im Mittelalter berühmt wegen seiner Schriften, die heute jedoch nicht mehr ihm, sondern einem Pseudo-Dionysius zugeschrieben und in das 5. Jahrhundert datiert werden (LThK<sup>2</sup>, Bd 3, Sp. 402 f.). 1634 erschien in Antwerpen die zweibändige Hauptausgabe dieser Schriften- inklusive der zehn Briefe- ediert von Balthasar Corderius SJ in Griechisch und Latein ('Opera S. Dionisii Areopagitae ... mit einem von Rubens entworfenen Bildnis des Heiligen als Titel, gestochen von Cornelius Galle, 1632). Diese Ausgabe wurde 1755 in Venedig mit vermehrtem Apparat wieder abgedruckt und in dieser Form 1857 in die PG, Bd 3 und 4, aufgenommen.
+
+Der siebente Brief des Dionysius an den Bischof Polycarp von Smyrna (PG, Bd 3, Sp. 1077–1082, Epistola VII, Polycarpo Antistiti) bildet die Grundlage für den Inhalt der Szene. Darin ist die »unnatürliche seltsame« (prodigiosa) Sonnenfinsternis beschrieben, die Dionysius zusammen mit dem Philosophen Apollophanes nahe der Stadt Heliopolis in Ägypten zum Zeitpunkt der Kreuzigung Christi beobachtet hatte. Laut Kommentar des Balthasar Corderius (PG, Bd 3, Sp. 1083–1084) war Dionysius durch dieses Erlebnis so stark beeindruckt, daß er sich zu Christus bekehrte. Es heißt dort: »Viso hoc solis deliquio Dionysius, adhuc ethnicus, dixisse fertur: >Aut Auctor naturae patitur, aut mundi machina dissolvetur« (nachdem er diese Sonnenfinsternis gesehen hatte, soll Dionysius, der bis dahin Heide war, gesagt haben: Entweder leidet der Schöpfer der Natur oder die Maschinerie der Welt löst sich auf). Dies entspricht der Inschrift des Sandizeller Freskos, nur das Wort Auctor ist durch Deus ersetzt. Baldaufs Fresken in der Schloßkapelle bilden zusammen mit dem vorwiegend figürlich gestalteten Hochaltar ein christologisches Gesamtprogramm.
+<!-- citation-page-bottom: Band10 p269 -->
+
+
+[[File:Band10_chunk006_p009_img001.jpg|thumb|EU Der hl. Dionysius Areopagita als Astronom]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=10 -->
+<!-- citation-page-top: Band10 p270 -->
+
+<!-- header: SANDIZELL -->
+
+<!-- header: CHROBENHAUSEN -->
+
+
+== Quellen und Literatur ==
+
+
+AEM, Pfarrmatrikel Unsere Liebe Frau München, MM 37, Eheschließungen 1731-1735, F 5, S. 139; MM 11, Taufen 1724-1735, F 9, S. 268: Priecz.
+
+BLfD, Dischinger Ms. = Dischinger, Gabriele, Sandizell, Kath. Hofmarks-Pfarrkirche St. Petrus, Entstehungs- und Ausstattungsgeschichte nach den überlieferten Quellen: 1. Schloßarchiv Sandizell, 2. Pfarrarchiv Sandizell, Ms. 1987. - Der von Dischinger ausgewertete Akt Kirchenbau ist seit 1996 im StAM zugänglich als: Schloßarchiv Sandizell 459. Im Pfarrarchiv Sandizell (noch am Ort) wurden die dortigen Belege sowie die Aufzeichnungen von Pfarrer Ottmar Bannwolf genutzt: Sandizell, Mai 1907 bis Februar 1916, Ms.
+
+BLfD, Registratur, Akten Sandizell, Pfarrkirche St. Peters Restaurierungen 1942–1990; ebd. Archiv Abtlg. R Wandrestaurierung: Restaurierungsbericht und Photodokumentation von Stefano Cafaggi, 1992.
+
+StAM, Schloßarchiv Sandizell 459: Kirche Sandizell, Kirchenbau = Rechnungen 1730–1851. Darin: Nr. 54, Vertrag mit F. Schwerdtfiehrer vom 15. 12. 1736; -Nr. 55; Doppelblatt mit zeitgenössischer Abschrift der Verträge mit Hörmannstorfer und Priecz vom 8. 3. 1736, inliegend Originalvertrag mit Priecz vom 8.3.1736; -Ausgaben für die Schloßkapelle 8.5. bis 6. 10. 1757, Anhang Freskierung von Baldauf.
+
+StAM, Schloßarchiv Sandizell 168, Rechnungen zum Schloßbau 1732–1755, Prod. 25, Schreinerarbeit A. Wiest.
+
+StAM, Schloßarchiv Sandizell, Ökonomie 342, Schloßbaurechnungen 1755–1759, fol. 19 v und 18 v zum Altar der Schloßkapelle, fol. 6 v, 5 zur Vorbereitung der Freskierung der Kapelle.
+
+Mayr. S. 318f.
+
+Braun-Augsburg Bd 1, S. 466; Bd 2, S. 127, 281
+
+Hopp Bd 2, S. 191.
+
+Trautmann, Karl, Die Pfarrkirche in Sandizell und ihre Meister, in: Monatsschrift des Historischen Vereins von Oberbayern 3, 1894, S. 129–132, 142–148.
+
+KDB I OB (1), S. 165–167.
+
+Haug, Fl. H., Hg. der Selbstbiographie: Maximilian Emanuel Frhr. von und zu Sandizell, Stadthalter von Ingolstadt, in: Das Bayerland 22, 1911, F:24, 3/9, S. 359-362, 372-374.
+
+Reischl, Georg August, Tausendjähriges Sandizell 948-1948, München 1948/50, S. 114–122.
+
+-, und Ludwig Rauch, Die Gemeinden des Landkreises, in: Landkreis Schrobenhausen, Pörsdorf bei Aßling 1963, S. 127-209, Sandizell S. 186–189.
+
+Hofmann, Sigfrid, Das Schrobenhausener Land im Spiegel der Kunstgeschichte, in: Landkreis Schrobenhausen, Pörsdorf bei Aßling 1963, S. 78 f., 84.
+
+-, Schrobenhausener Land, S. 61 f., mit Abb.
+
+Pötzl II, S. 98
+
+Historischer Atlas Schrobenhausen, S. 87f., 121.
+
+Wörsching, Joseph, Sandizell Obb. (KKF Nr. 237), 1937; Mainburg 1987, S. 13 f.
+
+Dehio 1990, S. 1050f.
+
+Langenstein, York, Sandizell, Jahresbericht 1990 Bau = und Kunstdenkmalpflege, in: Jahrbuch der Bayerischen Denkmalpflege 44, 1990 (erschienen 1995), S. 246.
+
+Mixa, Walter, Die Asamkirche in Sandizell, in: Schrobenhausener Kulturschätze. Von der Asamkirche bis zum Zeiselmairhaus, hg. v. Karl Amereller u. a., Schrobenhausener Kunstreihe Bd 5, Dachau 1992, S. 126–136.
+
+24 ), 2 40144 - //2, 01 - 20 - 301 Dischinger, Gabriele (Hg.), Johann Michael Fischer 1692-1766. Bd 2. Tübingen-Berlin 1997. S. 330.
+
+RC
+
+{{End}}

@@ -1,0 +1,306 @@
+{{Artikel
+|Band=10
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=192
+|Originalseitenbis=207
+|Lemma=Neuburg an der Donau, ehem. Jesuitengymnasium
+|Typ=Sakral
+|Ort=Neuburg an der Donau
+|davor=Neuburg an der Donau, Studienkirche St. Ursula
+|danach=Neuburg an der Donau, ehem. Bruderschaftshaus zur Schmerzhaften Muttergottes (Provinzialbibliothek)
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<!-- citation-page-top: Band10 p192 -->
+
+<!-- header: NEUBURG -->
+
+
+== Ehemaliges Jesuitengymnasium zuletzt Amalienschule der Grundschule am Schloß Amalienstraße A 8 ==
+
+
+'''Zum Bauwerk:''' 1616 wurde den nach Neuburg berufenen Jesuiten als Kolleg das Gebäude des aufgehobenen Benediktinerinnenklosters überlassen, das sie 1618-22 durch einen Neubau ersetzten. Hier war zunächst auch ihr Gymnasium untergebracht. 1623 baute man jedoch das östlich davor gelegene alte Zeughaus zum Schulhaus um. Es wurde am 28.2. 1711 durch einen Brand teilweise zerstört, 1712 vollends abgetragen und anschließend nach Plänen des Jesuitenarchitekten Johannes Knör neu errichtet. Der Kostenvoranschlag belief sich auf 8125 fl. Der Neubau des Gymnasiums mit einer großen Aula im Obergeschoß schloß sich östlich an das Jesuitenkolleg an und war mit diesem durch ein Treppenhaus verbunden. Bald nach der Niederlassung der Jesuiten in Neuburg und der Aufnahme ihres Lehrbetriebs im Gymnasium hatte sich eine lateinische Kongregation der Studenten unter dem Schutz Mariens mit dem Titel >Beatisssimae Mariae Virginis annunciatae« gebildet. Die erste feierliche Versammlung fand am 25.3.1618 statt. Die Aula diente für Gottesdienste und Theateraufführungen und als Versammlungsraum der Kongregation.
+
+Ehemaliger Kongregationssaal (Aula), seit 1975 Konzertsaal Längsrechteckiger Saal (21,20×13,30 m; 7,60 m hoch) im dritten Obergeschoß, belichtet durch rechteckige Fenster, darüber quadratische Oberfenster mit gerundeten Ecken. An den Schmalseiten im N und S je vier Fenster, an der O-Seite ebenfalls, in der NO-Ecke gefolgt von einem größeren Wandstück wegen des hier angebauten Wasserturms. Die W-Seite mit dem Eingang in der Mitte ist durch Blindfenster und Blindtüren entsprechend gegliedert. Außen über dem Eingang zum Saal befindet sich in einer Kartusche die Inschrift: CONGREGA- TIO / LITTERATORVM / B. V. M. /ANNVNCIATAE. Der reiche vegetabilische Stuck in Weiß besteht aus Blatt- und Blütenranken, Akanthus, an Schleifen hängenden Blütenschnüren, Blumenvasen, geriefelten Palmetten und Putten, die die Bildrahmen halten. Charakteristisch sind auch die tief gekehlten, z.T. spitzwinklig zulaufenden Stuckprofilleisten, die die Bildfelder rahmen oder größere stuckierte Deckenfelder umschließen. Die Dekoration wird dem Eichstätter Stuckator Jakob Egg zugeschrieben (Hofmann 1988; s. auch den Stuck in Burgheim S. 77, Dinkelshausen S. 93 und Waidhofen S. 313). Zur Ausstattung des Saals gehörten ursprünglich dreizehn Gemälde auf Leinwand zwischen den oberen Fenstern mit ganzfigurigen Darstellungen von Heiligen vor Maria sowie einem Marienbild in der Mitte der N-Seite. 1983 waren die Inschriftkartuschen mit den Namen der Heiligen freigelegt und die Darstellungen durch neue Bilder von Karl Haberl München ersetzt worden. Von den originalen Bildern, die 1983 als verloren galten, sind inzwischen der hl. Ivo und der hl. Franz Xaver wieder aufgefunden worden (im Besitz der Stadt Neuburg). Der Altar, der 1719 in der Mitte der nördlichen Schmalseite unter dem Fresko mit der Sendung des Erzengels Gabriel (B) errichtet worden war, wohl mit einer Darstellung der Verkündigung auf dem Altarbild, hat sich nicht erhalten.
+
+[[File:Band10_chunk004_p021_img001.jpg|thumb|Der ehemalige Kongregationssaal nach Norden]]
+
+
+[[File:Band10_chunk004_p021_img002.jpg|thumb]]
+
+
+'''Auftraggeber:''' Der Wiederaufbau des Gymnasiums erfolgte durch das Neuburger Jesuitenkolleg auf Initiative seines Rektors P. Nikolaus Staudacher (1709–13). Im Namen des Kurfürsten Johann Wilhelm von der Pfalz (1690–1716) legte der Präsident des Geheimen Rats Ferdinand Graf von Wiser am 23.5. 1712 den Grundstein zum Neubau, für den der Kurfürst 8000 fl. bewilligt hatte. Die Ausschmückung des Oratoriums übernahm die Kongregation auf eigene Kosten. Diese wurden 1715 vom damaligen Rektor des Kollegs, P. Georg Spiznagel, auf 1000 fl. geschätzt.
+
+'''Autor und Entstehungszeit:''' Franz Hagen (*unbekannt, † 1734 Neuburg) 1716/1717.
+
+Die Ausmalung des Saals ist nicht signiert, kann Hagen aber aus stilistischen Gründen zugeschrieben werden. Der Künstler wurde erstmals von Ignaz Ströller in dessen nur als Manuskript vorliegenden >Historisch-Genealogischem Lexikon< (um 1814) als ihr Autor genannt (Seitz 1984, S. 19) und seitdem die Zuschreibung in der Literatur übernommen. Terminus post quem für die Entstehung ist der Regierungsantritt des Kurfürsten Carl III. Philipp am 18.6.1716, der in A bereits in dieser Würde dargestellt ist. Nach der Jesuitenchronik wurde die Ausschmückung des Saals 1717 vollendet (ebd. S. 18).
+
+Hagen heiratete 1691 in Neuburg Maria Ursula, die Tochter des pfalz-neuburgischen Hofmalers Christoph Schalck und war seit 1706 in Neuburg als Hofmaler, Hofbaumeister und seit 1712 als Burgvogt, d. h. als Schloßverwalter, tätig während der Regierungszeit der Kurfürsten Johann Wilhelm und Carl III. Philipp (1716-42), die jedoch in Düsseldorf bzw. Heidelberg und Mannheim residierten.
+
+Einen Hinweis auf die Autorschaft Hagens gibt das F. Haagen del. bezeichnete Titelblatt des Bruderschaftsbüchleins der lateinischen Kongregation mit dem >Pactum Mariano Mortuale< (erhalten in der Auflage von 1755). Es zeigt Maria in Wolken in einer Komposition, die spiegelbildlich auf die Mariendarstellung des Deckenbildes A zurückgeht. Die Deckenbilder lassen einen in der Freskotechnik ungeübten Künstler erkennen, und in der Tat sind Fresken im Werk Hagens sonst nicht bekannt. Durch einen Vergleich der beiden kürzlich aufgefundenen Heiligenbilder W1-6 mit Hagens Altarbildern und Porträts läßt sich dessen Autorschaft für die gesamte Ausmalung jedoch zweifelsfrei bestätigen. Unter seinen Altarge-
+
+
+<!-- citation-page-bottom: Band10 p193 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=22 -->
+<!-- citation-page-top: Band10 p194 -->
+
+Maler, die den Schwerpunkt seines Schaffens bilden, zeigen vor allem die Marienbilder wie das Hochaltarbild von 1713 in Hollenbach (s. S. 105) Ähnlichkeit in den Figuren- und Gesichtsstypen; ganz charakteristisch sind die breiten Gesichter der Putten. Bemerkenswert ist, wie wirkungssicher die Heiligen ins Bild gesetzt sind und wie sie auch in der Schilderung der Stofflichkeit der Gewänder, etwa bei Chorhemd und Stola des hl. Franz Xaver, überzeugen. Das unterstreicht, daß Hagen auch als Porträtmaler in Erscheinung getreten ist (Bildnis des Künstlers mit seiner Familie; Bayerisches Nationalmuseum München, Inv. Nr. R 7550; als Leihgabe im Schloßmuseum Neuburg). Die beiden wieder entdeckten Gemälde stellen eine bedeutende Bereicherung von Hagens Oeuvre dar. Sie zeigen, daß seine Fähigkeiten vor allem auf dem Gebiet der Ölmalerei lagen. Er war aber auch als Entwerfer für andere Gattungen tätig. Von ihm stammt ein Teil der Entwürfe für die Embleme in der von P. Nikolaus Staudacher, dem Bauherrn des Kongregationsgebäudes, herausgegebenen Lobrede Unsterblicher Tugendschatz«, die anläßlich des Leichenbegängnisses der Pfalzgräfinwitwe Elisabeth Amalie Magdalena (1709) verfasst und 1710 in Augsburg gedruckt wurde. Das Titelblatt (Tafel 1) zeigt den von einem Phönix bekrönten Sarkophag, umgeben von sechs allegorischen Frauengestalten mit Putten, die Wappen und Kronen halten. Den Hintergrund bildet eine exedraartige Anlage mit Blick durch einen Rundbogen auf eine Balustrade, davor eine Säulenarchitektur mit stark vorspringenden Kämpferstücken wie im Mittelbild A, und rechts und links Vorhänge. Hagen werden außerdem die Entwürfe für die von den Neuburger Ursulinen für ihre Kirche gestickten Antependien zugeschrieben, die mit den Deckenbildern in Gewandstil und bei den Architekturen des Hintergrunds besonders enge Übereinstimmung aufweisen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke über breiter, zur Wand überleitender Hohlkehle
+
+Rahmen: A Ovaler, geschwungener Stuckprofilrahmen, gerahmt von einem mit Eichblatt belegten Wulst, in den Hauptrichtungen von Akanthusagraffen übergriffen. B-G, 1-2, 5-6, 7–8, 11–12 geschweifter Stuckprofilrahmen; 3–4, 9–10 kartuschenförmiger Stuckprofilrahmen, bekrönt mit Kronreif (3), kaiserlicher Bügelkrone (4), Kurhut (9) und Mitra (10). W<sub>1-6</sub> geschweifter vergoldeter Holzrahmen
+
+Technik: A, B, D-G Fresko, teilweise secco überarbeitet; polychrom. C fette Tempera oder Ölfarbe auf geglättetem Gipsputz; polychrom. 1–12 Fresko, 1–2, 7–8 camaieu rot; 3–4, 9–10 camaieu blau-grau; 5–6, 11–12 camaieu gelb. W<sub>1-6</sub> Öl auf Leinwand
+
+Maße: A Höhe: 7,60 m; 6,30×4,00 F Höhe: 7,60 m; 2,90×4,00 G Höhe: 7,60 m; 2,90×4,00 B (Hohlkehle) 3,90×1,45 C (Hohlkehle) 5,10×1,50 D (Hohlkehle) 4,70×1,60 E (Hohlkehle) 3,55×1,40 W<sub>1-6</sub> je 1,90×1,30
+
+Erhaltungszustand und Restaurierungen: Nach der Aufhebung des Jesuitenordens 1773 bestand das Gymnasium zunächst fort; 1813 wurde es in eine Mädchenschule umgewandelt, die 1847 von den Englischen Fräulein übernommen wurde. Die Kongregation hatte den Saal im Jahr 1800 räumen müssen; dieser wurde jedoch weiterhin als Aula der Schule genutzt. 1863/64 wurde er restauriert, zwischen 1882 und 1914 durch Einziehen von Zwischenwänden zu Zimmern umgestaltet. Nach der Entfernung der Zwischenwände richtete man ihn schließlich 1975 als Konzertsaal her. Am 12.7.1975 entstand ein Dachstuhlbrand, bei dessen Löscharbeiten die Decke im Mittelteil stark durchnäßt wurde. 1982/83 erfolgte eine Sanierung des gesamten Gebäudes, die auch den Dachstuhl umfaßte. Die Behandlung der Raumschale und die Reinigung und Ergänzung des Stucks lagen bei der Fa. Pfaller, Ingolstadt. Die Malerei des Saals wurde von Eckart Gross, Olching, und Raymund Schuhwerk von der Fa. Josef Lorch, Füssen gereinigt, gefestigt, die Übermalungen wurden entfernt und die Fehlstellen eingestimmt. In ihrem Restaurierungsbericht vom Mai/Juni 1983 (BLfD, Abtlg. R) und mündlich im Mai 2002 haben sie ihre Beobachtungen über die Schäden an der Malerei und die Vorgehensweise des Malers erläutert. Demnach wiesen die stark verschmutzten Deckenbilder Vergrauungen durch Salze als Folge des Löschwassers auf, vor allem im Mittelbild A. Hier und im nördlichen Deckenbild (F) puderten stellenweise die Blautöne ab. Am meisten beschädigt war das östliche Hohlkehlenbild (D), das mit fetter Tempera oder Ölfarbe auf geglätteten Gipsputz gemalt ist. Durch starke Risse zeigten sich helle senkrechte Bahnen, in denen die Pigmente ausgeschwemmt wurden. Dieses Bild war früher schon einmal von einem Laien ausgebessert worden. Alle Hauptbilder, außer D, weisen mehr oder weniger Ritzungen bzw. Quadraturen auf. Im Mittelbild im Bereich des Himmels (Tagwerk I) sind viele Fingerabdrücke vom Anhalten des Kartons an den wohl noch zu weichen Kalkputz sichtbar. Hier sind die Ritzungen besonders tief. Der Maler war kein geübter Freskant, wie aus dem zu nassen Putz und den ungeschickt aufgeteilten Tagwerken zu schließen ist. An deren Grenzen finden sich in Secco gemalte, farblich stark veränderte Retuschen, die wohl vom Maler selbst stammen. Gute Freskoqualität weisen dagegen die zwölf Embleme auf. Dabei stellt sich die Frage, ob mehrere Hände im Saal tätig waren.
+
+Die dreizehn ehemals zwischen den oberen Fenstern angebrachten Heiligendarstellungen (W<sub>1-13</sub>. Erhalten W<sub>5</sub> und W<sub>6</sub>, nicht in situ; die übrigen verschollen) wurden im 19. Jahrhundert, auf jeden Fall vor 1908, aus dem Saal entfernt. Die Namen der Heiligen, die unterhalb an der Wand in einer Stuckkartusche angebracht gewesen waren, wurden auf die Gemälde übertragen und die Inschriftkartuschen übertüncht. Die Bilder erhielten einen schmalen Goldrahmen im Format des Bildfeldes, dabei hat man jedoch die gemalten Wappen am unteren Rand leicht überschnitten. Bei der Restaurierung des Saals von 1982/83 wurden die Inschriften entdeckt und freigelegt. Da die Heiligenbilder als verloren galten, entschloß man sich zu Neuschöpfungen durch Karl Haberl, der dafür halbfigurige Darstellungen wählte. Die ursprünglichen Bilder weisen ein starkes Krakelee auf und müßten nachgespannt werden. Sie sind auf der Rückseite mit Zeitungen mit dem Datum 15. August 1908 beklebt, waren also zu dieser Zeit bereits aus dem Saal entfernt. 1958 befanden sie sich im Kloster der Elisabethinerinnen in Neuburg (Horn/Meyer S. 142f.).
+
+
+[[File:Band10_chunk004_p022_img001.jpg|thumb|A Verehrung Mariens durch die Neuburger Fürsten]]
+<!-- citation-page-bottom: Band10 p195 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=23 -->
+<!-- citation-page-top: Band10 p196 -->
+
+== Beschreibung und Ikonographie ==
+
+Das Bildprogramm der Decke entwickelt sich in verschiedenen Themenkreisen, die sich überlagern und miteinander verknüpft sind. Das große Mittelbild A und die Darstellungen in den Hauptrichtungen der Hohlkehle (B-E) beziehen sich auf die Kongregation. Die Darstellung B gilt dem Ratschluß der Erlösung und dem damit verbundenen Gnadenerweis Gottes an Maria sowie der Aussendung des Verkündigungsengels. Damit ist auf die Verkündigung als Titel und Patrozinium der Kongregation verwiesen. Das Fresko E schildert Maria als Gnadenspenderin, speziell der Erlösung einer Seele aus dem Fegfeuer, und bezieht sich damit auf die Erfüllung der Anliegen der Sodalen. Das Bild der westlichen Hohlkehle C ist der Aufnahme in die Kongregation gewidmet, das gegenüberliegende Bild D ihrer Organisation und Zielsetzung und das große Mittelbild A ihren prominentesten Mitgliedern und Förderern.
+
+Der Begnadung Marias (B) im Norden des Saals und Maria als Gnadenspenderin (E) im Süden ist jeweils eine alttestamentliche Darstellung der Königin Esther als Antetypus Mariens zugeordnet (F, G). Jeden marianischen Themenkreis erläutert ein Zyklus von sechs Emblemen, die auf die Unbefleckte Empfängnis und die Immerwährende Jungfräulichkeit (1-6) sowie die Gottesmutter als Retterin (7–12) anspielen. Die Darstellungen A, B und F sind nach Norden zu betrachten, G und E nach Süden. An den Wänden waren zwischen den oberen Fenstern hl. Marienverehrer dargestellt als Vorbilder für die studierende Jugend.
+
+== A VEREHRUNG MARIENS DURCH MITGLIEDER DES NEUBURGER FÜRSTENHAUSES Wiedergegeben ==
+
+sind acht Söhne des Kurfürsten Philipp Wilhelm († 1690) als Sodalen bzw. Confoederati der Neuburger Marianischen Kongregation ›Mariä Verkündigung«. Vier von ihnen waren zum Zeitpunkt der Ausmalung des Saals bereits verstorben. Die Dargestellten knien auf Stufen vor einer konvex geschwungenen, durch Säulen gegliederten Architektur, die einen Kirchenraum andeutet und zum offenen Himmel hin durch ein kräftig abgetrepptes Gebälk abschließt. Darüber erscheint Maria, gekleidet in den Farben Rot und Blau, das segnende Kind auf dem Schoß, umgeben von Engeln. Unten der Gottesmutter dringt der Erzengel Michael, auf Wolken stehend, in den Kirchenraum ein. Er trägt eine goldene Rüstung und einen Helm mit großem Federbusch; seine Rechte umfaßt einen Bruderschaftsstab, die Linke einen Schild, der mit einer Darstellung der Verkündigung bemalt ist. Die Neuburger Pfalzgrafen sind teils als Kurfürsten, teils in geistlichem Ornat oder nur im Harnisch ihrem Rang entsprechend dargestellt. Sie weisen Porträtzüge auf. In der Gruppe links erkennt man von links zur Mitte hin: Ludwig Anton (1660–1694), Hoch- und Deutschmeister, Bischof von Worms / Carl III. Philipp (1661–1742), Kurfürst von der Pfalz und regierender Landesherr (seit 18.6.1716) / Wolfgang (1659–1683), Chorbischof von Köln / Johann Wilhelm (1658–1716), Kurfürst von der Pfalz (von 1690 bis zu seinem Tod am 18.6.1716). – In der Gruppe rechts sind von der Mitte nach rechts dargestellt: Alexander Sigismund (1663–1737), Bischof von Augsburg / Franz Ludwig (1664–1732), Bischof von Breslau und Worms, Hoch- und Deutschmeister, Erzbischof und seit 20.2.1716 Kurfürst von Trier und dann Mainz / Philipp Wilhelm August (1668–1693), General / Friedrich Wilhelm (1665–1689), Domherr.
+
+[[File:Band10_chunk004_p023_img001.jpg|thumb|F Esther findet Gnade vor dem König und B Sendung des Erzengels Gabriel]]
+
+[[File:Band10_chunk004_p023_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band10 p197 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=24 -->
+<!-- citation-page-top: Band10 p198 -->
+
+<!-- header: NEUBURG -->
+
+<!-- header: NEUBURG -->
+
+Die beiden regierenden Kurfürsten, Carl III. Philipp links und Franz Ludwig rechts, sind durch Schleppenträger ausgezeichnet und durch die von Pagen auf Kissen präsentierten Kurhüte. Der jüngst verstorbene Kurfürst Johann Wilhelm, der in der linken Gruppe ganz rechts zu sehen ist, den Kurhut als Attribut zu seinen Füßen, hatte sich für den Neubau der Kongregation eingesetzt. Er verweist nach hinten, wo in der Apsis der Kirche weitere Sodalen hinter einer Balustrade erscheinen. Im Vordergrund des Bildes sieht man durch einen Bogen das Neuburger Schloß von Osten, und etwas gedreht, nun von Norden betrachtet und damit topographisch nicht korrekt, das Kongregationsgebäude mit dem Wasserturm, das Jesuitenkolleg und die Hofkirche. Die Farbigkeit ist auf Gelb, Rot und Blau gestellt, in allen Abstufungen bis zu dem Hellgrau der Rüstungen und dem dunklen Rot in den Mänteln der Kurfürsten.
+
+== B-E Darstellungen in der Hohlkehle ==
+
+B SENDUNG DES ERZENGELS GABRIEL (Lc 1, 26) Gottvater in einem blau gefütterten Goldbrokatmantel thront, von Engeln umgeben, auf Wolken und weist mit seinem Zepter nach unten. Dort kniet innerhalb einer blauen Weltkugel Maria im Gebet, in rotem Kleid und blauem Mantel. Neben der Weltkugel steht der Erzengel Gabriel in grau-weißem Gewand und gelbem Umhang, die Lilie in der Rechten, und empfängt den Auftrag, Maria die Botschaft von der Empfängnis Jesu zu überbringen. Neben Gabriel halten zwei Engel eine Kartusche mit der Inschrift: MISSUS EST / ANGELUS / GABRIEL luc. c. I. (Der Engel Gabriel wurde gesandt, Lc 1.). Die Darstellung bezieht sich auf den Titel der Kongregation, die, wie die meisten Marianischen Kongregationen, Mariä Verkündigung geweiht war, und auf Marias Auserwählung im Ratschluß der Erlösung durch die Bewahrung von der Erbsünde von Anfang an.
+
+C AUFNAHME IN DIE KONGREGATION Weltliche und geistliche Sodalen in zeitgenössischer Kleidung und mit Allongeperücken, aber auch Mönche in ihrem Habit haben sich in einem gewölbten Raum versammelt. Im Vordergrund sind die weltlichen Amtsträger der Kongregation durch ihre vornehme Kleidung besonders hervorgehoben. Bei den Dargestellten, die zum Teil den Beschauer anblicken, scheint es sich um Porträts zu handeln. Die geistliche Leitung der Marianischen Kongregationen lag in den Händen des Präses meistens ein Mitglied des Jesuitenordens, die äußeren Angelegenheiten verwaltete ein Präfekt, in der Regel der Landesherr – 1716, z.Z. der Ausmalung war das Kurfürst Carl III. Philipp – oder eine hochgestellte Persönlichkeit als sein Vertreter. Ihnen stand ein gewählter Rat zur Seite. Besonderes Augenmerk beansprucht auf der Darstellung der Herr im roten Rock, vielleicht der Präfekt. Er hält ein Blatt in der Hand mit der Inschrift: NON ME DESERAS IN HORA MORTIS (Verlaß mich nicht in der Stunde des Todes). Die Bitte an Maria um Beistand in der Stunde des Todes bildet den Schluß der Weiheformel, mit der sich der Sodale bei der Aufnahme in die Kongregation der Gottesmutter als seiner Patronin ganz zu eigen gibt. Die herkömmlichen Gebete für die Verstorbenen sowie das Abhalten der Trauergottesdienste gehörten ebenfalls zu den Aufgaben der Kongregationsmitglieder.
+
+D GELÜBDE ZUR VEREHRUNG DER IMMACULATA CONCEPTIO In der Mitte steht der hl. Michael in römischer Rüstung, hinter ihm erscheint groß die Brüderschaftsfahne, auf der Maria als Immaculata mit der Lilie in der Hand dargestellt ist. Sodalen geistlichen und weltlichen Standes in zeitgenössischer Kleidung umgeben ihn. Ein links knieender Jüngling legt die Hand an den Fahnenschaft, andere haben sie zum Schwur erhoben. Weitere Mitglieder der Kongregation sind versammelt, im Hintergrund wird zum feierlichen Gottesdienst gerüstet.
+
+[[File:Band10_chunk004_p024_img001.jpg|thumb|G Esther bittet für ihr Volk und E Maria rettet eine Seele]]
+
+[[File:Band10_chunk004_p024_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band10 p199 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk004.pdf#page=25 -->
+<!-- citation-page-top: Band10 p200 -->
+
+<!-- header: NEUBURG -->
+
+<!-- header: NFIIBLIR -->
+
+
+[[File:Band10_chunk004_p025_img001.jpg|thumb]]
+
+
+lichen Anlaß mit Pauken und Trompeten musiziert. Der Inhalt verdeutlichen die Inschriften auf zwei Schilden: SUB HOC / TAM DIU und DONEC / ALITER / ECCLESIA (Darunter, d. h. unter dem Banner der Immaculata, wollen wir leben, solange die Kirche nicht anders entscheidet). Bei diesem Gelöbnis handelt es sich um eine 1674 aufgenommene Ergänzung zur Weiheformel mit der Verpflichtung, die Unbefleckte Empfängnis zu verehren.
+
+E MARIA RETTET EINE SEELE AUS DEM FEGFEUER Die Gottesmutter in rotbraunem Kleid und blauen Mantel thront auf Wolken und empfängt mit offenen Armen
+
+
+[[File:Band10_chunk004_p025_img002.jpg|thumb]]
+
+
+
+[[File:Band10_chunk004_p025_img003.jpg|thumb|12 Sonne über Garten]]
+
+
+eine in Weiß gekleidete Seele, die ihr mit ausgestreckten Armen entgegenschwebt. Zwischen beiden erscheint der hl. Michael, der Seelenführer, ebenfalls in Hellblau, Rot und dazu etwas Gelb, und präsentiert Maria ein aufgeschlagenes Buch mit der Inschrift: EX / PACTO (aufgrund des Vertrages). Rechts lodert das Fegfeuer innerhalb einer mächtigen Architektur, die an ein Gefängnis gemahnt. »Mit der Kongregation war ein Meßbündnis, Pakt genannt, verbunden; die Mitglieder der Kongregation waren verpflichtet, für jeder ihrer Verstorbenen eine hl. Messe lesen zu lassen; zugleich war mit dem Pakt der Beistand Mariens in der Sterbestunde gemeint« (Lidel 1984, S. 40).
+
+
+[[File:Band10_chunk004_p025_img004.jpg|thumb]]
+
+
+
+[[File:Band10_chunk004_p025_img005.jpg|thumb]]
+
+
+
+[[File:Band10_chunk004_p025_img006.jpg|thumb]]
+
+
+
+[[File:Band10_chunk004_p025_img007.jpg|thumb]]
+
+
+von einer Dienerin gestützt wird. Weitere Frauen ihres Gefolges beobachten mit Angst und Entsetzen das Geschehen, die Ratgeber des Königs mit Befremden. Auf einer Kartusche im Vordergrund steht die Inschrift: NON PRO TE / SED / PRO OMNIBUS / esther c. 5 (nach Esth 5, 13 [Vulgata]: Non enim pro te, sed pro omnibus haec lex constituta est; das Gesetz gilt nicht für dich, sondern für alle andern). In der typologischen Gegenüberstellung zur >Sendung des Erzengels Gabriel unterhalb in der Hohlkehle (B) bezieht sich die Begnadung der Esther darauf, daß das Gesetz der Erbsünde für alle Menschen gilt, nicht aber für Maria. Sichtbares Zeichen der Gnade ist in beiden Darstellungen das Neigen des Zepters.
+
+
+[[File:Band10_chunk004_p025_img008.jpg|thumb|Arche Noe, 10 Henne]]
+<!-- citation-page-bottom: Band10 p201 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=1 -->
+<!-- citation-page-top: Band10 p202 -->
+
+<!-- header: NEUBURG -->
+
+<!-- header: NEUBURO -->
+
+abwehrende Kräfte besitzt, seinen Jungen ins Nest legt, um sie vor der giftigen Schlange zu schützen. Der Abwehrzauber des Steins sollte auch den Frauen die Geburt erleichtern. Eine weitere Eigenschaft des Adlersteins war nach Plinius, daß er, bei völlig unbeschädigtem Äußeren, in seinem Innern einen zweiten kleineren Adlerstein einschließen konnte (»quippe in cuius sinu, absque ulla illius lasesione aut fissuras, alius lapis reperitur clausa«, s. Picinelli, Lib. XII, Nr. 44, s. v. Aetites, seu lapis Aquilinus, mit den Lemmata SINE FRACTURA FOECUNDA oder INTACTA ET GRAVIDA), was auf die jungfräuliche Schwangerschaft Mariens bezogen wurde.
+
+(Boschius, Classis III, Nr. CCLVIII, mit dem Lemma IN PUBLICA COMMODA FULGET, er leuchtet zum allgemeinen Wohl; bei Staudacher, 1710, ist der Leuchtturm bezogen auf die verstorbene Kurfürstin Elisabeth Amalie Magdalena, und zwar als Wohltäterin der Armen mit der Überschrift »Erat haec eis ad Refugium« und der Unterschrift IN PUBLICA COM- MODA FULGET).
+
+12 DIVES IN OMNES (Reich für alle). Die Sonne steht strahlend am Himmel und bescheint einen Garten mit einem Brunnen in der Mitte. Außerhalb schließen sich Felder mit reifen Ähren an, im Hintergrund ein Schloß. Das Emblem enthält Motive der Reife und Fruchtbarkeit. Der Brunnen steht als Bild für Marias Gnadenfülle; auch das reife Kornfeld deutet an, daß Maria die Liebe, die ihr die Menschen erweisen, hundertfach zurückgibt (s. Picinelli, Lib. X, Nr. 93, s. v. frumentum, granum; Boschius, Classis III, Nr. CCXXXXIX, mit gleichem Lemma, für Beneficentia).
+
+
+== Wandbilde ==
+
+
+W<sub>1-1</sub>, HEILIGE MARIENVEREHRER Ursprünglich waren zwischen den oberen Fenstern dreizehn Bilder von Heiligen mit Marienerscheinungen in Stuckrahmen eingelassen (erhalten W<sub>5+6</sub>, nicht in situ). Sie waren bezogen auf eine in der Mitte der N-Wand eingelassene Mariendarstellung, die wahrscheinlich in den ehemals dort befindlichen Altar integriert war.
+
+Die Abfolge kann rekonstruiert werden, weil unterhalb in Kartuschen die Namen der Dargestellten erhalten sind (s. Skizze). Die Bilder wiesen verschiedene Formate auf, W<sub>4-6, 8, 10-12</sub> waren rechteckig, oben mit geschwungenem Umriß und unten mit einer Einziehung, W<sub>3</sub> und W<sub>13</sub> von entsprechendem Umriß, aber aufgrund größerer Wandstücke querformatig, W<sub>1, 2, 7, 9</sub> hochrechteckig mit abgerundeten Schmalseiten. Die Anordnung war folgende:
+
+Nordseite
+
+W<sub>1</sub> Ignatius, W<sub>2</sub> Aloysius Gonzaga
+
+dazwischen Marienbild
+
+Ostseite, von N nach S
+
+W<sub>3</sub> Antonius von Padua, W<sub>4</sub> Kasimir von Polen,
+
+W<sub>5</sub> Ivo (erhalten), W<sub>6</sub> Franz Xaver (erhalten)
+
+Südseite, von O nach W
+
+W<sub>7</sub> Edmund von Canterbury, W<sub>8</sub> Stanislaus Kostka,
+
+W<sub>9</sub> Emmerich von Ungarn
+
+Westseite, von S nach N
+
+W<sub>10</sub> Hermann Joseph, W<sub>11</sub> Franz Regis, W<sub>12</sub> Joseph,
+
+W<sub>13</sub> Johannes von Nepomuk
+
+W<sub>5+6</sub> HL. IVO UND HL. FRANZ XAVER Auf diesen ehemals auf der O-Seite des Saals angebrachten Darstellungen sind die Heiligen rechts im Bild plaziert und wenden sich nach links zur Marienerscheinung und damit ursprünglich in Richtung zum Altar. In Analogie dazu waren wohl die auf der W- Seite des Saals wiedergegebenen Heiligen links angeordnet (vgl. auch das Schema im Kongregationssaal in Burghausen, CBD Bd 9, S. 50–63).
+
+W<sub>1</sub>, DER HL. IVO NIMMT EINE BITTSCHRIFT ENT- GEGEN Der hl. Ivo, Theologe und Iurist aus Tréguier in der
+
+Bretagne (1253–1303; 1347 kanonisiert), trat für die Armen Witwen und Waisen ein. Als Richter führte er den Beinamer Advokat der Armen«. – Ivo steht im schwarzen Talar des Iuristen in seinem Studierzimmer vor einer bis zur Decke reichenden Bücherwand mit Folianten. Er blickt empor zur Gottesmutter, die, von kleinen Engeln und Engelsköpfcher umgeben, auf einer Wolke ins Zimmer geschwebt ist. Sie weist nach unten auf mehrere arme Leute, die sich von links durch einen Torbogen kommend nähern. Der erste der Hilfesuchenden kniet vor Ivo nieder und überreicht ihm eine Bittschrift mit der Aufschrift GRATIS. Unten in der Mitte spätere Beschriftung in Gold: S. IVO. Unten rechts in der Ecke befindet sich das Stifterwappen des Joseph Ignaz Leistner, Hofra und Lehenprobst in Neuburg, geadelt 1740, † 26.11.1751 (Ströller Bd II, S. 173).
+
+W<sub>6</sub> DER HL. FRANZ XAVER ALS FURBITTER VOF MARIA Franz Xav(i)er SJ (1506-1552; 1619 Selig-, 1622 Heiligsprechung), Apostel Indiens und Japans, stammte auvornehmer Familie und wurde auf Schloß Javier in Navarra geboren. 1525 wandte er sich zum Studium nach Paris. Dor bekehrte ihn 1533 sein Studiengenosse Ignatius von Loyola dessen Bewegung er sich anschloß. Als päpstlicher Legat brach er 1541 nach Indien auf und begann 1542 nach seiner Landung in Goa seine Missionstätigkeit. Er starb 1552 einsam auf de Insel Sanzian. - Franz Xaver kniet als Fürbitter auf Wolker vor einer Marienerscheinung mit segnendem Christuskind Über dem schwarzen Jesuitentalar trägt er das spitzenbesetzte weiße Rochett sowie die Stola, die Linke hält den Lilienzweis als Zeichen seiner Reinheit. Kleine Engel spielen mit seinen Birett. Der Heilige blickt empor zur Gottesmutter und weis mit der Rechten zur Erde. Dort lagern links vor einer aufragenden Architektur am Ufer des Meeres mehrere Kranke, die auf Heilung hoffen. In der Ferne ist ein Segelschiff in stürmischer See gekentert und wartet auf Rettung durch Franz Xaver den Patron der Seefahrer. Am rechten Bildrand beugt sich ein Engel weit zur Erde herab und umfaßt das Missionskreuz de Heiligen, das ihm ins Wasser gefallen war und das von einen Krebs, der im Vordergrund sitzt, gerettet wurde. Unten in de Mitte spätere Beschriftung in Gold: S. XAVERI. In der linker unteren Ecke befindet sich das Stifterwappen des Johann Martin Christoph, Landschreiber und Hofrat in Neuburg † 5.9. 1731 (Ströller Bd I, S. 857).
+
+Die Komposition ist im oberen Teil inspiriert von einem Stick von Schelte van Bolswert nach Gerard Seghers (17. Jh. ), au dem der Heilige beim nächtlichen Gebet vor dem Altar knie und ihm Maria mit dem Kind erscheint (Kat. Ausstellung Heiligenporträts, bearb. von Gregor Martin Lechner, Stift Gött weig 1988, S. 68 ff, Nr. 66, mit Abb. Vgl. auch CBD Bd 9, S. 53)
+
+
+== Ikonologie ==
+
+
+1618 wurden in Neuburg durch die Jesuiten zwei Marianisch Kongregationen gegründet, als erste die hier behandelt »Mariä Verkündigung oder lateinische Kongregation für di Herren in der Stadt und die Studenten«, wenig später die Soda lität »der schmerzhaften Mutter unter dem Kreuze für di Bürger und Frauen der Stadt« oder die schmerzhafte Bruder schaft (zu dieser s. Neuburg, ehem. Bruderschaftshaus zu
+<!-- citation-page-bottom: Band10 p203 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=2 -->
+<!-- citation-page-top: Band10 p204 -->
+
+<!-- header: NEUBURG -->
+
+<!-- header: NEUBUR -->
+
+
+[[File:Band10_chunk005_p002_img001.jpg|thumb|W<sub>6</sub> Der hl. Franz Xaver als Fürbitter vor Maria]]
+
+
+
+[[File:Band10_chunk005_p002_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band10 p205 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=3 -->
+<!-- citation-page-top: Band10 p206 -->
+
+<!-- header: NEUBURG -->
+
+
+[[File:Band10_chunk005_p003_img001.jpg|thumb]]
+
+
+[[File:Band10_chunk005_p003_img002.jpg|thumb|Ausschnitte aus Fresko A, mit Fingerabdrücken vom Anhalten des Kartons]]
+
+
+Schmerzhaften Muttergottes S. 208; die Zitate nach Förch 1860). Die erste Marianische Kongregation war 1563 in Rom von dem Jesuiten Johannes Leunis am Collegium Romanum gegründet worden. Das Titularfest war Mariä Verkündigung 1584 bestätigte Papst Gregor XIII. die Gründung und erhob die römische Sodalität zur Mutterkongregation, der alle andern Kongregationen angegliedert wurden. Zweck war die besondere Förderung der Marienverehrung. In Neuburg gab sich der Sodale bei seiner Aufnahme durch eine gesprochene Weiheformel der Gottesmutter ganz zu eigen, erwählte sie als seine Herrin und Patronin und schloß mit der Bitte, sie möge ihm in der Stunde seines Todes beistehen: »Non me deseras in hora mortis« (Verlaß mich nicht in der Stunde des Todes)
+
+Diese Aufnahme in die Kongregation ist in Deckenbild C, wie aus dessen Inschrift hervorgeht, dargestellt. Seit seiner Gründung hatte sich der Jesuitenorden auf die Lehre von der Unbefleckten Empfängnis verpflichtet; das Fest war unter Papst Sixtus IV. Ende des 15. Jahrhunderts offiziell eingeführt worden, das Glaubensgeheimnis wurde jedoch erst 1854 zum Dogma erhoben und vorher vielfach kontrovers diskutiert. Auf diese Kontroversen und die Befürworter der Unbefleckten Empfängnis unter den Päpsten bezieht sich eine Ergänzung zur Weiheformel, die in Neuburg seit 1674 gesprochen wurde und womit sich der Sodale zusätzlich verpflichtete, die Immaculata Conceptio zu verehren. Diese Verpflichtung schloß mit den Worten: donec aliter a Sede Apostolica fuerit definitam (s. auch Beitelrock). Die im Deckenbild D wiedergegebene Inschrift SUB HOC (darunter, d. h. unter diesem Banner mit der Darstellung der Immaculata) TAMDIU DONEC ALITER ECCLESIA (solange die Kirche nichts anderes entscheidet) bezieht sich auf die noch nicht endgültig festgelegte kirchliche Lehrmeinung zur Unbefleckten Empfängnis.
+
+Im gleichen Jahr 1674 errichteten die Sodalen den marianischen Pakt, wonach sie sich verpflichteten, für jedes verstorbene Mitglied eine Messe lesen zu lassen (Deckenbild E). Pfalzgraf Philipp Wilhelm war der erste, der sich mit drei seiner Söhne in diesen Pakt einschrieb (Beitelrock). Im Deckenbildprogramm sind also Darstellungen, die sehr stark die Historizität der Neuburger lateinischen Sodalität mit ihren engen Beziehungen zum Fürstenhaus thematisieren, verbunden mit einem theologischen marianischen Programm. Mittler zwischen den verschiedenen Themenkreisen ist der hl. Michael als Überbringer der göttlichen Botschaften an die Menschen.
+
+Außer der Marienverehrung, die auch durch den Gemäldezyklus hl. Marienverehrer an der Wand thematisiert war, wurden Sittenreinheit und Studieneifer gefördert. Eine Statue des seligen Stanislaus Kostka (kanonisiert 1726), des Patrons der studierenden Jugend und der Novizen der Societas Jesu, kam 1717 an der Fassade des Gymnasiums zur Aufstellung. Ihn finden wir auch im Saal in der Mitte der S-Wand an zentraler Stelle, dem Altar gegenüber, dargestellt.
+
+In Inhalt und Form entspricht die Ausmalung in ihren Grundzügen der anderer Kongregationssäle der Jesuiten. So ist in Burghausen an der Decke ebenfalls Maria dargestellt, verehrt von Sodalen in zeitgenössischem Kostüm (1731). Die Wandstücke zwischen den Fenstern schmückt, wie ursprünglich in Neuburg, ein Gemäldezyklus hl. Marienverehrer. Auch für die Kongregationssäle in München und Ingolstadt sind entsprechende Heiligenzyklen überliefert (CBD Bd 9, S. 50–63). Die Programmentwerfer hatten dafür zahlreiche barocke Schriften über Marienvisionen zur Hand, aus denen eine Auswahl getroffen werden konnte. Die Gesichtspunkte und die Zuordnung der Heiligen waren jeweils unterschiedlich. Es kamen nicht nur Jesuiten zur Darstellung, doch waren die Ordensgründer, darunter der hl. Franz Xaver, unverzichtbar.
+
+In der Publikationstätigkeit der Neuburger Jesuiten spielte die Emblematik eine große Rolle. Die von ihnen herausgegebenen emblematischen Werke wurden von den Neuburger Hofmalern illustriert. 1701 erschien die sehr umfangreiche >Symbolographia« von Jacobus Boschius, mit Emblemen nach Zeichnungen des Hofmalers Johann Christoph Schalck (s. auch Ursulinenkirche, S. 182). Besonderer Einfluß muß der Lobrede >Unsterblicher Tugend = Schatz durch gute Handelschafft erworben...« zugemessen werden, die bei den Trauerfeierlichkeiten für die Kurfürstin Elisabeth Amalie Magdalena († 1709), der Witwe des Kurfürsten Philipp Wilhelm, vom Rektor des Kollegs, P. Nicolaus Staudacher, gehalten wurde. Der Pater war der Bauherr des neuen Gymnasiums, zudem Beichtvater der Kurfürstin wie auch ihrer beiden Söhne Johann Wilhelm und Carl Philipp; mit letzterem verließ er 1718 Neuburg. Er folgte ihm nach Heidelberg, später nach Mannheim. In Staudacher ist der Entwerfer des Programms zu vermuten. Seine Trauerrede erschien 1710 bei Johann Michael Labhart in Augsburg. Das Werk hat 25 Tafeln mit Emblemen, die von den beiden Neuburger Hofmalern Franz Hagen und Johann Jakob Posner zu etwa gleichen Teilen entworfen worden sind, wobei die Arbeiten Hagens etwas qualitätvoller und fortschrittlicher wirken. Die bildliche Gestaltung der Embleme ist abhängig von der ›Symbolographia‹ des Boschius mit den Icones von Hagens Schwiegervater Schalck. Staudachers Lobrede auf die verstorbene Kurfürstin gliedert sich in verschiedene Kapitel. Sie gelten ihrem Leben, ihrer Frömmigkeit, ihren Wohltaten und ihrer Stärke. Schließlich ist sie als Mater magna verherrlicht, denn sie war Mutter von siebzehn Kindern. Vor allem ihre Töchter brachten durch glanzvolle Verbindungen mit den europäischen Fürstenhäusern für das Haus Pfalz-Neuburg Ruhm und Ehre. Eine Tochter wurde Kaiserin, zwei wurden Königinnen, eine Herzogin von Parma und eine polnische Prinzessin, Verbindungen, die in der Lobschrift eine große Rolle spielen und durch die Wappen und Kronen der hohen Verwandtschaft mehrfach illustriert werden.
+
+In seinem historischen Teil bezieht sich das Programm des Kongregationssaales auf den Pfalzgrafen und späteren Kurfürsten Philipp Wilhelm und seine Familie und auf die während seiner Regierungszeit 1674 eingeführten Neuerungen in der Kongregation. Ältere historische Ereignisse, etwa die Gründung der Kongregation 1618, werden nicht thematisiert. Dargestellt sind im Mittelbild A die Söhne Philipp Wilhelms und seiner Gemahlin Elisabeth Amalie Magdalena, denn nur diese konnten Mitglieder der lateinischen Kongregation sein; Frauen waren nicht zugelassen. Mit den für Emblemkartuschen gewählten Bekrönungen – kaiserliche Bügelkrone, Kronreif, Kurhut und Mitra – kommt dasselbe Repertoire zur Anwendung wie bei der Verherrlichung der Nachkommenschaft der Kurfürstin in der genannten Lobschrift. In leicht abgewandelter Form ließ sich der dort vorgeführte Tugendkanon auf die Tugenden der Gottesmutter übertragen.
+
+Staudacher hielt auch die Lob- und Trostrede anläßlich der Trauerfeier für den Kurfürsten Johann Wilhelm vom 27.–29. August 1716 in der Jesuitenkirche in Innsbruck, veranlaßt von dessen Bruder und Nachfolger Carl Philipp, der dort kaiserlicher Statthalter war (im Druck erschienen bei Johann Mayer in Heidelberg, mit dem Stich des Trauerkatafalks, ohne Beteiligung Neuburger Künstler).
+
+BHStA, PNA, NA 1989, Nr. 3851: Gymnasiumsbau 1711–1715.
+
+BLfD, Registratur, Akten Amalienschule bzw. Grundschule am Schloß, ebd. Abtlg. R. Wandrestaurierung, Restaurierungsbericht von Groß und Schuhwerk, 1983.
+
+Neuburg, Heimatverein-Historischer Verein, Manuskript (Bibliothek Nr. 398): Ströller, Ignaz, Historisch-Genealogisches Lexikon, Bd I und II (um 1814).
+
+Pactum Mariano mortuale... ab Electorali Congregatione Neoburgensi Beatissimae Virginis Mariae ab Angelo salutatae... Neuburg 1775 (Exemplar Historischer Verein Neuburg, Bibliothek Nr. 989).
+
+Graßegger, Joseph Benedikt, Fortsetzung der Chronik über Neuburg und dessen nächste Umgebung unter dem Churfürsten und Herzoge Carl Philipp 1716–42, in: NK 20, 1854, S. 1–32, hier S. 7.
+
+Beitelrock, 6. Abschnitt, S. 64
+
+Förch, Franz Anton, Neuburg und seine Fürsten, Neuburg 1860, 5. stark veränderte Aufl., bearb. v. Josef Heider, Neuburg 1955, IV, S. 83.
+
+o.V., Franz Hagen, in: Thieme-Becker-Künstlerlexikon 15, 1922, S. 462.
+
+Fischer, Theodor, Die selbständigen Kongregationsbauten der Jesuiten innerhalb des süddeutschen Raumes im 17. und 18. Jahrhundert, ungedr. theol. Dissertation Freiburg 1942, S. 105–129.
+
+o. V., Die Deckengemälde in der Aula des Mädchenschulhauses, in: NK 94, 1929, S. 119–123.
+
+Horn/Meyer 1958, S. 107–11.
+
+Kemp, S. 25 f., Nr. 145.
+
+Der Kongregationssaal der Jesuiten in Neuburg an der Donau Weißenhorn 1984. Darin:
+
+Seitz, Reinhard H., Der Kongregationssaal der Jesuiten zu Neuburg/Donau in Geschichte und Kunstgeschichte, S. 7–26 und Abb. 1–20.
+
+Schieber, Matthias, Die Restaurierung des Kongregations saales, S. 27–30.
+
+Lidel, Albert, Das Bildprogramm der Deckenfresken des Kongregationssaales, S. 33–43.
+
+Hofmann, Siegfried, Die Stuckierung des Neuburger Kongregationssaales: ein Werk Jakob Eggs, in: Sammelblatt des Historischen Vereins Ingolstadt 97, 1988, S. 229–234.
+
+Dehio 1990, S. 857
+
+Seitz, Reinhard H., Das Familienbild des pfalz-neuburgischen Hofmalers Franz Haagen, in: Mitteilungen für die Archivpflege in Bayern, Sonderheft 9, Bewahren und Umgestalten Walter Jaroschka zum 60. Geburtstag, München 1992, S. 332–341.
+
+Paula, Georg, Marginalien zum Leben und Werk des Neuburger Hofmalers Franz Haagen, in: Ars Bavarica 69/70, 1993, S. 27–36, hier S. 35 und Abb. 4.
+
+Nising, Horst, »... in keiner Weise prächtig«. Die Jesuitenkollegien der süddeutschen Provinz des Ordens und ihre städtebauliche Lage im 16. bis 18. Jahrhundert, Petersberg 2004, S. 228. B. V.-K
+<!-- citation-page-bottom: Band10 p207 -->
+
+{{End}}

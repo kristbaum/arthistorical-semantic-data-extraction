@@ -1,0 +1,117 @@
+{{Artikel
+|Band=10
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=276
+|Originalseitenbis=279
+|Lemma=Sehensand, Firedhofskapelle St. Stephanus
+|Typ=Sakral
+|Ort=Sehensand
+|davor=Schrobenhausen, Filialkirche St. Salvator
+|danach=Sinning, Pfarrkirche St. Nikolaus
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<!-- citation-page-top: Band10 p276 -->
+
+<!-- header: SEHENSANI -->
+
+
+== SEHENSAND ==
+
+
+Friedhofskapelle, ehem. Filialkirche der Pfarrei Wagenhofen (Pfarrverband Neuburg), Stadt Neuburg, Diözese Augsburg. Gericht Neuburg
+
+
+[[File:Band10_chunk006_p013_img001.jpg|thumb|Martyrium des hl. Stephanus]]
+
+
+
+'''Patrozinium:''' St. Stephanus
+
+
+'''Zum Bauwerk:''' Die kleine gotische Chorturmkirche dient jetzt als Friedhofskapelle (Aussegnungshalle), da 1983-86 nördlich davon eine größere, moderne Kirche erbaut wurde; diese steht mit dem Altbau im Verbund. Dazu mußte dessen Sakristei abgebrochen werden, auch das ehemals vorhandene Vorzeichen wurde entfernt. Die gotische Kirche war zu Beginn des 18. Jahrhunderts nach W erweitert worden. Sie weist einfachen Rahmenstuck auf sowie sparsame Akanthusranken, Muscheln und Gitterwerk aus der Zeit um 1720. Hochaltar um 1720, Altarbild mit der Steinigung des hl. Stephanus um 1790, vielleicht von Joseph Franz Schuster.
+
+Saalkirche zu zwei Achsen ohne Gliederung, zwei rundbogige Fenster im S, die der N-Seite jetzt zugesetzt. Im W geschwungene Empore mit vorspringendem Mittelteil. Spitzbogiger Chorbogen, eingezogener AR mit glattem Schluß, links und rechts ein Fenster.
+
+'''Auftraggeber:''' Während der vermuteten Entstehungszeit war Johann Georg Bruckmayr Pfarrer in Wagenhofen (1709-29). Er war vorher Kaplan bei Hl. Geist in Neuburg gewesen.
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, um 1720. Physiognomische Besonderheiten wie die Formung der auffallend kleinen Unterlippe bei einigen Figuren erinnern an Werke von Matthias Zink, der 1725 die Hl.-Geist-Kirche in Neuburg ausmalte. Wegen der starken Überarbeitung der Sehensander Fresken ist nicht zu beurteilen, ob sie ursprünglich von Zink waren. Entstehungszeit aufgrund des Stucks um 1720.
+
+
+[[File:Band10_chunk006_p013_img002.jpg|thumb|Martyrium des hl. Laurentius]]
+
+
+
+[[File:Band10_chunk006_p013_img003.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Flachdecke; AR Kreuzgratgewölbe
+
+Rahmen: A-E ohne eigene Rahmung in die mehrfach profilierten Felder leicht vertieft eingelassen; EB, F gemalte Rahmen
+
+Technik: Fresko, polychrom
+
+Maße: A−C Höhe 4,15 m; 1,40×0,70; D-F Höhe 4,15 m; Ø 0,80; F Höhe 3,95 m; Ø 0,90; EB 0,97×0,33; ED 0,9×0,33
+
+Erhaltungszustand und Restaurierungen: Die Fresken sind in der Anlage barock, aber stark übergangen. Eine Renovierung fand 1925 statt, eine weitere 1947. Hierzu liegt ein Gutachten des BLfD vom 20. 2. 1947 vor, in dem es u. a. heißt: <blockquote>»Das Innere ist ziemlich heruntergekommen, dazu teilweise durch üble Anstriche mißhandelt, sodaß eine Restaurierung begrüßenswert ist... Die bäuerlichen Barockmalereien in den Deckenmedaillons und an der Emporenbrüstung sind bemerkenswert und relativ gut erhalten. Eine Reinigung speziell derer an der Decke ist notwendig. Am besten wird hiermit Herr Baumann betraut. Das linke Medaillon, anscheinend über der inzwischen verschwundenen Kanzel gelegen und daher waschblau überschmiert und mit Taube gekennzeichnet, birgt möglicherweise ebenfalls noch eine originale Malerei. Andernfalls wäre unter völliger Angleichung an Auffassung und handwerkliche Vortragsweise der übrigen ein neues zu malen. Der Entwurf ist uns vorher vorzulegen«</blockquote>. Die Renovierung übernahm die Fa. Josef Finkenzeller, München; aufgrund des Gutachtens dürften die Deckenbilder von dem Kunstmaler Johannes Bau-
+
+
+[[File:Band10_chunk006_p013_img004.jpg|thumb]]
+
+
+
+[[File:Band10_chunk006_p013_img005.jpg|thumb|Die Kapelle]]
+<!-- citation-page-bottom: Band10 p277 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=14 -->
+<!-- citation-page-top: Band10 p278 -->
+
+[[File:Band10_chunk006_p014_img001.jpg|thumb]]
+
+Der Mann, München, restauriert worden sein. Von ihm stammt daher wohl auch das bisher als Arbeit des 19. Jahrhunderts angesehene Medaillon mit dem hl. Ulrich (E). Die letzte Restaurierung wurde 1983 vorgenommen. Dabei sanierte man auch den Bau, erneuerte Glockenstuhl, Dach und Dachstuhl sowie den Kirchturm; die Sakristei wurde abgebrochen und das Vorzeichen entfernt. Die Fresken wurden durch die Fa. Bernd Holderried, Pfaffenhofen, einer trockenen Reinigung unterzogen, die sich als notwendig erwies aufgrund starker Durchfeuchtung vom Dach her.
+
+
+== Beschreibung und Ikonographie ==
+
+Das LHs weist in der Längsachse drei hochovale Freskenfelder mit Darstellungen von Heiligenmartyrien auf (A-C), in der Mitte der Langseite begleitet von zwei Tondi mit Heiligendarstellungen (D-E), A mit Blickrichtung nach W, B und C nach O.
+
+[[File:Band10_chunk006_p014_img002.jpg|thumb|EB<sub>9-13</sub> Apostel]]
+
+A MARTYRIUM DES HL. SEBASTIAN Der Heilige ist links an einen Baum gefesselt, zu seinen Füßen liegt seine Rüstung, die ihn als Öffizier der Garde Kaiser Diokletians ausweist. Sein entblößter Oberkörper ist von Pfeilen durchbohrt. Rechts steht in orientalischer Kleidung der Bogenschütze, neben ihm ein turbantragender Mann; im Hintergrund erkennt man einen Soldaten und zu Pferde Kaiser Diokletian, der das Martyrium anordnete.
+
+B MARTYRIUM DES HL. STEPHANUS (Act 6-7) In der Mitte kniet mit ausgebreiteten Armen der Erzmartyrer Stephanus in der Dalmatik des Diakons, umgeben von einer Horde von Peinigern, die von allen Seiten Steine auf ihn werfen. Vor einem Palast im Hintergrund sieht man zwei Mitglieder des Hohen Rats der Juden zu Pferde. Im Himmel erscheint die Dreifaltigkeit. Nach der Apostelgeschichte sah Stephanus in einer Vision den Himmel offen und darin Gott in seiner Herrlichkeit mit Christus zur Rechten.
+
+C MARTYRIUM DES HL. LAURENTIUS Laurentius war Archidiakon unter Papst Sixtus II. und starb 258 den Feuertod auf dem Rost. Der nur mit einem Lendentuch bekleidete Heilige wird von Soldaten auf den Rost niedergezwungen, unter dem Feuer brennt, das ein am Boden kniender Mann mit einem Blasebalg anfacht. Hinter Laurentius steht, ganz in Weiß gekleidet, ein heidnischer Priester und deutet auf die Statue eines sitzenden Jupiter im Hintergrund. Links erkennt man in Feldherrntracht Kaiser Valerian zu Pferde, auf dessen Befehl Laurentius gemartet wurde.
+
+Die Darstellung geht zurück auf Rubens’ Martyrium des hl. Laurentius«, München, Alte Pinakothek, und zwar spiegelbildlich, deshalb nach dem Nachstich von Lucas Vorsterman 1621 (vgl. auch das ebenfalls von dieser Komposition angeregte Fresko von Matthias Zink in Neuburg, Hl.-Geist-Kirche, Abb. S. 165).
+
+[[File:Band10_chunk006_p014_img003.jpg|thumb]]
+
+All der Emporembrustung sind in schmalen, oben abgerundeten Feldern Christus und die Apostel einzeln als Ganzfiguren wiedergegeben, am vorspringenden Mittelteil in der Mitte Christus, flankiert von Petrus und Paulus. Zählung von Süden nach Norden.
+
+== Quellen und Literatur ==
+
+BLfD, Registratur, Akten Sehensand, Kirche St. Stephanus StA Augsburg, BA Neuburg Nr. 5931: Restaurierungen.
+
+Braun-Augsburg, Bd 1, S. 480; Bd 2, S. 275. Böhaimb, Carl August, Wagenhofen, in: NK 27, 1861, S. 40-
+
+Hopp, Bd 2, S. 82
+
+Horn/Meyer, 1958, S. 687–689
+
+Sankt Stephanus in Sehensand bei Neuburg an der Donau. [Festschrift] Zur Vollendung des Kirchenneubaus 1983-1985. Stephanstag 1986, hg. von der Katholischen Kirchenverwaltung Sehensand 1986 (Texte: Paul Pettmesser, Paul Riesinger und Reinhard H. Seitz).
+
+B. V.-K.
+
+[[File:Band10_chunk006_p014_img004.jpg|thumb]]
+
+[[File:Band10_chunk006_p014_img005.jpg|thumb|EB<sub>6-8</sub> Apostel]]
+<!-- citation-page-bottom: Band10 p279 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=15 -->
+{{End}}
