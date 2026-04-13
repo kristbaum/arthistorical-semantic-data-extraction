@@ -1,0 +1,553 @@
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=133
+|Originalseitenbis=149
+|Lemma=Freising, Domkreuzgang
+|Typ=Sakral
+|Ort=Freising
+|davor=Freising, St.-Maximilian-Kapelle
+|danach=Freising, Benediktuskirche
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+== Domkreuzgang mit Allerheiligenkapelle und Sebastianskapelle ==
+
+
+'''Zum Bauwerk:''' Der Kreuzgang schließt östlich an den Dom an und verbindet diesen mit der vor 1347 errichteten Benediktuskirche, durch deren Westjoch er hindurchgeführt ist. Seine Einwölbung dürfte gleichzeitig mit der Ausstattung der Kirche im späten 14. und frühen 15. Jh. erfolgt sein. 1715/16 wurde eine Barockisierung durchgeführt, bei der die Fenster vergrößert, die Kreuzgratgewölbe im Scheitel der Joche geglättet und die Gewölbeflächen durch Johann Baptist Zimmermann stuckiert und freskiert wurden. Gleichzeitig wurden die beiden südlich angrenzenden Kapellen entsprechend verändert und ausgestattet. Der Altar der Allerheiligenkapelle ist eine Stiftung der Familie von Thann; das Altarbild von Franz Joseph Lederer ist signiert und 1717 datiert, die Weiheinschrift des Altars stammt ebenfalls von 1717. An der Wand gegenüber befindet sich ein Epitaph des 1713 verstorbenen Judas Thaddaeus von Thann. Der Altar der angrenzenden Sebastianskapelle ist nicht mehr in originaler Form erhalten; eine Weiheinschrift ist nicht vorhanden.
+
+Außer dem Dom dienten von alters her die Benediktuskirche sowie Kreuzgang und Kreuzgarten den Kanonikern und Stiftern als Begräbnisplatz. Seit 1701 ließ Fürstbischof Eckher von Kapfing alle im Boden verlegten Grabsteine erheben, um ein neues Pflaster anfertigen zu lassen. Im Zusammenhang mit der Barockisierung von 1716 wurden viele dieser Grabplatten in die Wände des Kreuzgangs eingelassen; bandartig
+
+darüber angeordnete, gemalte Inschrifttafeln teilen Name und Sterbedaten der Dargestellten mit und binden die Monu mente in die Gesamtdekoration ein.
+
+Dreiseitiger Gang aus je neun kreuzgratgewölbten Jochen im Nord-, Süd- und Osttrakt, letzterer in die Benediktuskirche einbezogen. Die beiden östlichen Joche des Südtrakts öffnen sich zu zwei kleinen quadratischen Kapellen jeweils von der Größe eines Kreuzgangjochs, der Allerheiligenkapelle im W und der Sebastianskapelle im O. Belichtung der Kapellen durch Fenster von S.
+
+'''Auftraggeber:''' Johann Franz Eckher von Kapfing und Lichtenbeck, Fürstbischof von Freising (1695–1727). Sein Wappen mit Inschrift und Datum 1716 in 12 unter der Westempore der Benediktuskirche.
+
+'''Autor und Entstehungszeit:''' Johann Baptist Zimmermann (*1685 Gaispoint †1758 München) 1716 (mit weitgehenden Ergänzungen und Restaurierungen; s. u.).
+
+In einem Brief an Abt Rupert II. Neß von Ottobeuren vom 21. Oktober 1716 (ehem. Klosterarchiv Ottobeuren, sei 1945 verschollen; Hager 1924, S. 427; Bauer 1985, S. 308) schreibt Zimmermann, daß er seine Arbeit im Freisinger Domkreuzgang beendet und nun noch einen besonderen Auftrag für den Fürstbischof auszuführen habe (s. S. 160).
+
+Die Arbeiten im Kreuzgang begannen bereits 1715. Am 21. Juli nahm Fürstbischof Eckher gegenüber dem Domkapitel zu dessen Absicht Stellung, den von Baron von der Thann ge-
+
+
+[[File:Band06_chunk003_p017_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band06 p133 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=18 -->
+<!-- citation-page-top: Band06 p134 -->
+
+<!-- header: STADT FREISING -->
+
+
+[[File:Band06_chunk003_p018_img001.jpg|thumb|T 16 Domharrayannan]]
+
+
+stifteten Altar machen zu lassen, »sobald der Plaz hierzue in rechten Stand gerichtet sein wirdt. Gleich Wür aber ein sol ches noch heuriges Iahr thuen zulassen gedenkhen, aucl<br>gehrn sehen wurden, da das Blath bey ainem gueten Mahler warzue Unseres dafürhaltens der Degler in München [Johann<br>Degler] Vor andern anständtig were, angedinget: auch aine<br>saubere Bildhauer arbeith Verferttiget werde: mithin alles mi denen ybrigen Altären im Thumb proportionaliter corre spondieren mechte, also wird es an deme sein, das auch we gen des spatii, so man zur Erweitterung dieser Capellen Von<br>nethen hat, ain ganzes gemacht: Und uns der ris vom neuer Altar communiciert werde ...« (zitiert nach Götz 1992, S. 42 und Anm. 35).
+
+Zwei Tage vor diesem Brief Eckhers, am 19. Juli 1715, hatte Zimmermann um das Freisinger Bürgerrecht nachgesucht. Er blieb bis 1720 in der Stadt wohnhaft. Außer im Domkreuzgang und den beiden anschließenden Kapellen war er als Maler und Stukkator in der Benediktuskirche (S. 149 ff.) tätig, im fürstbischöflichen Palais (S. 160 f.) und von April bis Juni 1717 in mehreren Räumen in der fürstbischöflichen Sommerresidenz Ismaning (nicht erhalten; Hubensteinen 1954, S. 128). Zwischendurch arbeitete er immer wieder in Ottobeuren.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: 1-26 Kreuzgratgewölbe, durch Putz verschliffen, B, C Kuppel
+
+Rahmen: 1–11, 13–26 im Scheitel der Wölbung vierpaßförmige Stuckrahmen; 12, dessen Bildfeld sich über zwei Joche erstreckt, querrechteckiger Stuckrahmen, an den Ecken eingeschwungen; K<sub>1-2</sub> mit Blattgewinde belegter Kuppelkranz, in den Zwickeln Kartuschen.
+
+Technik: Fresko mit Secco, polychrom
+
+
+{| class="wikitable"
+|-
+| Maße
+|-
+| 1–11, 13–26 Höhe 5,70 m; 1,80 × 1,80
+|-
+| Höhe 5,70 m; 1,80 x 2,80
+|-
+| K<sub>1-2</sub> Höhe Kuppelfuß 4,80 m,
+|-
+| Scheitel 5,90 m; 2,70 x 3,00
+|}
+
+
+Erhaltungszustand und Restaurierungen: Aus Sanierungsplänen für den Kreuzgang infolge von Gewölberissen im Jahr 1732 ist zu schließen, daß bereits damals ein Teil der Fresken erneuert werden mußte. 1902 hat Leonhard Thoma, München, die Deckenbilder teils restauriert, teils neu gemalt. Eine weitere Restaurierung erfolgte 1947 durch Christian Seibold, Freising. 1987/88, anläßlich einer Erneuerung der Inschriften über den Grabsteinen, wurden die Gewölbe auf Veranlassung des Hochbauamts [früher Landbauamt] Freising lediglich entstaubt.
+
+
+[[File:Band06_chunk003_p018_img002.jpg|thumb]]
+
+
+
+[[File:Band06_chunk003_p018_img003.jpg|thumb]]
+
+
+1730 stellte man im Südflügel des Kreuzgangs starke Gewölberisse fest. Sie betrafen etwa den Bereich vom 3. bis 6. Joch von Westen. Um seiner Forderung nach Reparatur Nachdruck zu verleihen, schrieb das Domkapitel am 27. Mai 1732 an den Fürstbischof, »wie in sonderheit der underhalb solchen Archiv und Bibliothec Pau befindliche: und uf ain sehr weittes Spatium zerspaltene Creutzgang zum öffteren nit wenig Gefahr angethroet hat« (BHStA I, HL 3, Fasz. 170, Nr. 4). Durch die Risse erlitten die Fresken in den direkt unter der Bibliothek gelegenen Jochen schwere Schäden oder gingen ganz zugrunde und mußten neu gemalt werden, in den angrenzenden Jochen waren Ergänzungen nötig. Damit deckt sich der Befund. Die Fresken 21-24 sind völlig einheitlich und stammen nicht von Zimmermann, sondern wurden demnach um 1732 neu gemalt, drei weitere Fresken stehen ihnen nahe (18–20), weisen aber noch Zimmermannsche Elemente auf, sind also damals ergänzt worden.
+
+1901 erstellte Thoma für seine Restaurierung einen Kostenvoranschlag in Höhe von 2200 Mark, auf dessen Grundlage mit ihm ein Vertrag über die Ausführung abgeschlossen wurde. Diese erfolgte 1902 (Akten im Hochbauamt Freising). Nach seinen Feststellungen war der Erhaltungszustand der Fresken sehr unterschiedlich, z. T. gut, sogar sehr gut, andere Fresken waren total verschwunden, d. h. übertüncht, andere zum größten Teil zerstört. Für letztere war laut Gutachten der Denkmalpflege vorgesehen, die erhaltenen Fragmente zu kopieren, Kartons für neue Darstellungen unter Berücksichtigung der Fragmente zu zeichnen, den Putz abzuschlagen und neu zu freskieren. Die besser erhaltenen Darstellungen sollten mit »Gerhardts Caseinfarben« restauriert werden. Insgesamt bezeichnete Thoma den Zustand auf der N-Seite infolge eingedrungener Feuchtigkeit als wesentlich schlechter als auf der S-Seite. Seine Zustandsbeschreibung in seinem Kostenvoranschlag beginnt in der NW-Ecke beim Eingang vom Dom in den N-Flügel und von hier aus umlaufend:
+
+»Die Kosten würden sich ohne den neu zu erstellenden Verputz und exkl. Gerüst berechnen wie folgt:
+1) An dem dem Eingang zunächst gelegenen Theile sind 5 Bilder zieml. gut erhalten a 20 M ... 100
+2) 5 Bilder müssen ganz neu gemalt werden a 160 M ... 800
+3) In dem an die Studienkirche der Präparandenschule (= Benediktuskirche) anschließenden Theil des Kreuzgangs 2 Neue a 160 M... 320
+4) Größeres Mittelbild zu restaurieren, gut erhalten 30 M...
+5) Auf derselben Seite anschließend 2 Bilder nur mehr zur Hälfte erhalten a 80 M... 160
+6) 10 Bilder auf der letzten Seite des Kreuzgangs, teilweise gut erhalten, durchschnittlich a 25 M... 250
+7) 2 Kuppelbilder, eines besser erhalten, das andere stark beschädigt a 150 M... 300
+8) Kopieren der noch erhaltenen Fragmente von den Bildern, die neu gemalt werden sollen, Beaufsichtigung der Tünchung und Reisekosten zu diesem Zwecke 200 M
+Summa 2200 M«
+
+Von den vorgesehenen Arbeiten kam die Neufreskierung der das Eckher-Wappen flankierenden Felder 11 und 13 unter der Empore der Benediktuskirche nicht zustande, denn 1906 bezeichnet Schlecht, der die gelungene Restaurierung des Kreuzgangs durch Thoma erwähnt, die beiden Felder als leer. Über die Restaurierung von 1947 gibt es keine Unterlagen, lediglich einen Bericht von 1951 von Josef Zanker über die Renovierung der Benediktuskirche, wo es heißt: »Die beiden dem großen Eckher-Wappen benachbarten Felder waren bisher weiß übertüncht. Durch Abkratzen konnte zunächst festgestellt werden, daß auch sie Wappen mit Putten und Schrift…
+<!-- citation-page-bottom: Band06 p135 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=19 -->
+<!-- citation-page-top: Band06 p136 -->
+
+<!-- header: STADT FREISING -->
+
+
+[[File:Band06_chunk003_p019_img001.jpg|thumb]]
+
+
+band enthielten. Da man das Wappen des nördlichen Feldes [= 11] wegen starker Beschädigung nicht mehr rekonstruieren konnte, ließ der Regens [= Michael Höck] auf diesen Schild den Löwen [irrtümlich für Adler] der Maxlrain malen zum Gedächtnis an den Erbauer der Kirche Otto von Maxlrain, dessen Grabmal bei früheren Umbauten an der Kirche zerstört wurde«. Das Maxlrain-Wappen auf dem Schild ist also eine Neuschöpfung, die nicht in das ursprüngliche Freskenkonzept gehört.
+
+Über das Feld südlich neben dem Eckher-Wappen, 13 Achdorff, werden keine Angaben gemacht. Es war offenbar noch restaurierungsfähig (s. auch Richter 1982/83, S. 63f.).
+
+Versucht man, die für 1730 bezeugten Schäden, den Zustandsbericht von 1901 und die damals vorgesehenen Restaurierungen und die Maßnahmen von 1951 am heutigen Aussehen der Fresken zu überprüfen, so ergibt sich folgendes:
+
+Fresken, eindeutig von Zimmermann
+
+Nordseite: 3 Fraunberg, 4 Schmichen, 5 Mendorf, 7 Haslang mit Ergänzungen jeweils in der linken Bildhälfte
+
+Ostseite: 12 Wappen von Fürstbischof Eckher, gut erhalten
+
+Südseite: 25 Waldeckh, 26 Kammer, gut erhalten
+
+Kapellen:
+
+K<sub>1</sub> Aufnahme Mariens in den Himmel
+
+K<sub>2</sub> Glorie des hl. Sebastian, beide im ganzen recht gut erhalten. Einzelne Puttenköpfe, vor allem auf der W-Seite von K.1, sind hinzugefügt, wohl von Thoma
+
+Fresken, bei denen der Stil Zimmermanns noch erkennbar ist:
+
+Nordseite: 6 Rorbach
+
+Ostseite: 14 Gumppenberg, 15 Eisenhofen, 16 Massenhauen, 17 Ottenhoven
+
+Fresken, um 1732 neu gemalt
+
+Südseite: 21 Egling, 22 Allerspach, 23 Truchtling, 24 Lautterbach. Diese Gruppe zeigt folgende Stilmerkmale: geschlitzte, ornamental über die Bildfläche ausgebreitete Schriftbänder in Pastellfarben gegenüber einfarbigen, kleineren Schriftbändern bei Zimmermann, große Wappen mit stärker graphisch behandelten Darstellungen mit Brokathintergründen gegenüber locker gemalten kleineren Wappen mit glatten Hintergründen bei Zimmermann, schlankere Körperproportionen der wie Luftballons aufsteigenden Putten.
+
+
+[[File:Band06_chunk003_p019_img002.jpg|thumb|5 Mendorf]]
+
+
+Auffallend ist, daß zwei der vier Darstellungen auch ikonographisch ungesichert sind. Möglicherweise waren die Fresken Zimmermanns 1730 so stark zerstört, daß nicht mehr genügend Anhaltspunkte für die Restaurierung vorhanden waren. Vielleicht aber waren an dieser Stelle unterhalb der Bibliothek auch bereits die mittelalterlichen Wappendarstellungen verdorben, auf die sich Zimmermann stützte.
+
+Fresken, um 1732 ergänzt: Südseite: 18 Knöring, 19 Preysing, 20 Weix
+
+Die übrigen Fresken wurden bei den Restaurierungen von 1902 und 1947 ganz neu gemalt und so stark restauriert und übergangen, daß ihr ursprüngliches Aussehen nicht mehr zu beurteilen ist.
+
+Beschreibung und Ikonographie
+
+Kreuzgang
+
+26 PUTTEN MIT WAPPEN
+
+Die Bemalung der vierpaßförmigen Bildfelder im Gewölbescheitel suggeriert einen Durchblick in den bewölkten Himmel. Dort sind Wappenschilde mit Schriftbändern zu sehen, die von einem oder mehreren Putten präsentiert werden. Gelegentlich sind Puttenköpfchen hinzugefügt. Die Schriftbänder verzeichnen die Namen vorwiegend bayerischer, zum größten Teil im 18. Jh. bereits ausgestorbener Adelsfamilien, von denen oft mehrere Mitglieder nacheinander Domherrn in Freising waren.
+
+Nordseite des Kreuzgangs, Blickrichtung nach O 1 Ebran
+
+Wappen: Mit Schrägzinnen von Silber und Blau geteilt
+
+Ebran von Wildenberg, bayerisches Rittergeschlecht, um 1650 erloschen (Hundt 1598, II, S. 95; Siebmacher 1971, Bd 22, VI, 1, S. 33).
+
+Mehrere Mitglieder Domherrn in Freising (Busley 1956, Nr. 130; Ebersberger 1983, S. 148).
+
+2 Freyberg
+
+Wappen: Von Silber und Blau geteilt, unten drei, zwei zu eins gestellte, goldene Pfennige
+
+Von Freyberg (Freyberger), Erbkämmerer des Hochstifts Augsburg, schwäbischer Adel (Siebmacher 1971, Bd 22, II, 1, S. 35).
+<!-- citation-page-bottom: Band06 p137 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=20 -->
+<!-- citation-page-top: Band06 p138 -->
+
+[[File:Band06_chunk003_p020_img001.jpg|thumb]]
+
+[[File:Band06_chunk003_p020_img002.jpg|thumb|Ebenhausen]]
+
+Aus dieser Familie wurde Burkhard von F. 1453 Domherr in Freising, resigniert 1477, † 1502 (Ebersberger 1983, S. 154)
+
+== 3 Fraunberg. ==
+
+Wappen: In Rot ein silbernes gezäumtes Pferd
+
+Von Fraunberg (Frauenberger) zum Haag, Wittelsbacher Ministerialen, bayerischer Adel (Hundt 1598, II, S. 70; Siebmacher 1971, Bd 22, II, 1, S. 34 f.).
+
+Mehrere Mitglieder bis ins 18. Jh. Domherrn in Freising (Busley 1956, Nr. 24; Ebersberger 1983, S. 152). Das Grabmal der Fraunberger befindet sich in der Domvorhalle.
+
+[[File:Band06_chunk003_p020_img003.jpg|thumb|6 Rorbac]]
+
+== 4 Schmichen. ==
+
+Wappen: Von Silber und Blau geteilt
+
+Von Schmichen (Schmiechen), Ministerialen der Grafen von Andechs, bayerischer Adel, erloschen 1608 (Hundt 1598, II, S. 283; Siebmacher 1971, Bd 22, VI, 1, S. 177 und Taf. 182). Mehrere Mitglieder Domherrn in Freising (Busley 1956, Nr. 102; Ebersberger 1983, S. 197 f.).
+
+== 5 Mendorf ==
+
+Wappen: In Silber ein schwarzer Hauptpfahl
+
+Von Mendorf (Mendorffer, Mennendorf), oberpfälzischer Adel, erloschen (Hundt/Lieb 1830, S. 471 f.; Siebmacher 1971, Bd 22, VI, 1, S. 49 und Taf. 48). Domherrn in Freising: Kaspar, Domherr 1408, Domkustos 1429, Domdekan 1436, † 1436; Dietrich, Vetter von Kaspar Domherr 1429, Domkapitular 1451, † nach 1468 (Familie nicht bei Busley 1956; Ebersberger 1983, S. 176).
+
+== 6 Rorbach ==
+
+Wappen: Von Schwarz und Silber mit drei Spitzen geteilt
+
+Von Rorbach (Rohrbach), Wittelsbacher Ministerialen, bayerischer Adel, erloschen (Hundt 1598, II, S. 265; Siebmacher 1971, Bd 22, VI, 1, S. 107). Mehrere Mitglieder Domherrn in Freising (Familie nicht bei Busley 1956; Ebersberger 1983, S. 190 ff.).
+
+== 7 Haslang ==
+
+Wappen: Von Gold und Rot im Eisenhutschnitt gespalten
+
+Von Hasslang, bayerischer Adel, 1804 erloschen (Hundt 1598, II, S. 121; Siebmacher 1971, Bd 22, VI, 1, S. 15). Domherr in Freising: Rudolf, Domherr 1370, † 1398 (Busley 1956, Nr. 34).
+
+== 8 Pienzenau ==
+
+Wappen: In Silber ein schwarzer Schrägrechtsbalken mit drei goldenen Kugeln belegt
+
+[[File:Band06_chunk003_p020_img004.jpg|thumb]]
+
+[[File:Band06_chunk003_p020_img005.jpg|thumb|1 Maxlrain]]
+
+Von Pienzenau (Pientzenau), Wittelsbacher Ministerialen bayerischer Adel, erloschen. Die Pienzenauer waren Erbmarschälle des Hochstifts Freising seit 1418 und hatten das Erbtruchsessamt des Passauer Domkapitels (Hundt 1598, II S. 223; Siebmacher 1971, Bd 22, VI, 1, S. 23 und Taf. 19). Mehrere Mitglieder Domherrn in Freising (Busley 1956 Nr. 77; Ebersberger 1983, S. 133 f.).
+
+== 9 Ebenhausen. ==
+
+Wappen: In Silber eine schwarze Gugel (Klaggugel)
+
+Von Ebenhausen, bayerischer Adel, im 16. Jh. erloschen
+
+[[File:Band06_chunk003_p020_img006.jpg|thumb]]
+
+[[File:Band06_chunk003_p020_img007.jpg|thumb]]
+
+(Hundt/Lieb 1830, S. 180 f.; Siebmacher 1971, Bd 22, VI, 1 S. 11 und Taf. 8).
+
+Domherrn in Freising: Nikolaus, Domherr 1359, Dompropst 1375, † 1381; Vincentius, Bruder von Nikolaus, 1370 Pfarrer der Frauenkirche in München (Busley 1956, Nr. 16).
+
+== 10 Seiboltsdorff ==
+
+Wappen: Von Silber und Rot mit drei Stufen geteilt
+
+Von und zu Seiboldsdorf (Seyboltsdorff), bayerischer Adel Erbtruchsessen des Hochstifts Freising (Hundt 1598, II S. 291; Siebmacher 1971, Bd 22, II, 1, S. 22).
+<!-- citation-page-bottom: Band06 p139 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=21 -->
+<!-- citation-page-top: Band06 p140 -->
+
+[[File:Band06_chunk003_p021_img001.jpg|thumb|14 Gumppenberg]]
+
+Domherr in Freising: Kaspar, Domherr 1409, Scholastikus 1443, † 1444 (Familie nicht bei Busley 1956; Ebersberger 1983, S. 201).
+
+Ostseite des Kreuzgangs, 11 und 12 Blickrichtung nach O, 13–16 nach S
+
+
+== II Maxlrain ==
+
+
+Wappen: In Silber ein auffliegender roter Adler über zwei schräggekreuzten roten Stäben
+
+Von Maxlrain (Mächselrain), bayerischer Adel, erloschen (Hundt 1598, II, S. 154; Siebmacher 1971, Bd 22, VI, 1 S. 20).
+
+Domherr in Freising: Otto, Domkapitular 1306, Domdekan 1311, Generalvikar 1324, † 1347 (Busley 1956, Nr. 55).
+
+5 17 1 51/ (----) -/50, 111. 55/. Das ursprüngliche Fresko an dieser Stelle ist verloren (s. o.), die Wappendarstellung nicht bekannt. Bei der Restaurierung 1947 ließ man hier das Wappen der Maxlrain malen in Erinnerung an den Erbauer der Benediktuskirche und Stifter des Hochaltars, Otto von Maxlrain. Dieses Wappen hatten die Maxlrainer jedoch erst 1524 von den Waldeckern nach deren Aussterben übernommen (s. u.). Ihr Stammwappen hatte den Schild von Silber, Schwarz, Silber, Schwarz wellenförmig schräg geteilt (Siebmacher 1971, Bd 22, VI, 1, S. 22).
+
+Fürstbischof Johann Franz Eckher von Kapfing Inschrift: IO: FRANCISCVS EPVS. FRISINGENSIS. / S:R:I. PRINCEPS ANNO 1716
+
+Wappen: Gevierter Wappenschild, Feld 1 und 4 in Gold schwarzer Mohr für Freising, Feld 2 und 3 in Schwarz drei aufrecht stehende silberne Rauten für Eckher von Kapfing bayerischer Adel, im Mannesstamm erloschen 1826 (Siebmacher 1971, Bd 22, II, 1, S. 33). Der Schild ist bekrönt von einer Helm- bzw. Adelskrone, darüber die Mitra. Auf der (heraldisch) rechten Seite ein Helm mit einem schwarzen (dunklen) Mohrenrumpf als Helmzier, dahinter der Bischofsstab mit einer sitzenden Bischofsfigur, wohl hl. Korbinian, als Verzierung der Krumme. Auf der andern Seite Helm mit Adelskrone und hellen Büffelhörnern als Helmzier, dahinter das Schwert. Die Helmdecken sind schwarz und silber. Das Wappen ist auf einem querrechteckigen geschwungenen Sockel postiert, der die Inschrift trägt. Rechts und links zwei größere Putten mit einer Blumengirlande. Rechts weiter im Hintergrund Putto mit Rosenblüte. In dem ungebrochen blauen, von weißen Wolken durchzogenen Himmel zwei Puttenköpfchen.
+
+Die Wiedergabe des Wappens ist sehr ähnlich einer Miniatur in der von Eckher zusammengestellten Genealogie seiner Familie, dem Eckherischen Stammbuch (AEM, ohne Nr.; Kar Freising 1989, VI. 48, mit Abb., [Sigmund Benker]), das aufgrund seiner Eintragungen zwischen 1708 und 1712 entstanden ist.
+
+
+[[File:Band06_chunk003_p021_img002.jpg|thumb]]
+
+
+
+[[File:Band06_chunk003_p021_img003.jpg|thumb|6 Massenhauser]]
+
+
+
+== 13 Achdorff. ==
+
+
+Wappen: In Schwarz eine silberne Angel
+
+Von Achdorf (Achdorfer) zu Helfenbrunn, bayerischer Adel, 1510 erloschen (Hundt 1598, I, S. 155; Siebmacher 1971, Bd 22, VI, 1, S. 27 und Taf. 25).
+
+Mehrere Mitglieder Domherrn in Freising (Busley 1956 Nr. 1; Ebersberger 1983, S. 124).
+
+
+[[File:Band06_chunk003_p021_img004.jpg|thumb]]
+
+
+
+[[File:Band06_chunk003_p021_img005.jpg|thumb]]
+
+
+
+== 14 Gumppenberg ==
+
+
+Wappen: In Rot ein silberner Schräglinksbalken, belegt mit drei grünen Blättern
+
+Von Gumppenberg, bayerischer Adel, Landstand seit 1374 in Oberbayern, seit 1411 Erblandmarschälle in Oberbayern (Hundt 1598, II, S. 107; Siebmacher 1971, Bd 22, II, 1, S. 38). Mehrere Mitglieder Domherrn in Freising (Busley 1956, Nr. 32; Ebersberger 1983, S. 161 f.).
+
+
+== 15 Eisenhofer ==
+
+
+Wappen: In Silber drei schräggelegte schwarze Schafscheren Von Eisenhofen (Eysenhofen), Wittelsbacher Ministerialen,
+
+
+<!-- citation-page-bottom: Band06 p141 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=22 -->
+<!-- citation-page-top: Band06 p142 -->
+
+<!-- header: STADT FREISING -->
+
+[[File:Band06_chunk003_p022_img001.jpg|thumb]]
+[[File:Band06_chunk003_p022_img002.jpg|thumb]]
+
+bayerischer Adel, im 16. Jh. erloschen (Hundt 1598, I, S. 190; Siebmacher 1971, Bd 22, VI, 1, S. 35 und Taf. 31). Mehrere Mitglieder Domherrn in Freising (Busley 1956, Nr. 20; Ebersberger 1983, S. 150).
+
+== 16 Massenhausen ==
+
+Wappen: In Blau eine goldene Parte
+
+Von Massenhausen (Mässenhausen), bayerisches Rittergeschlecht, Ministerialen der Wittelsbacher und der Bischöfe von Freising, erloschen (Hundt 1598, I, S. 271; Siebmacher 1971, Bd 22, VI, 1, S. 49 und Taf. 48). Grablege im Freisinger Dom in der Elisabethkapelle.
+
+Mehrere Mitglieder im 14. Jh. Domherrn in Freising (Busley 1956, Nr. 53).
+
+Südseite des Kreuzgangs, Blickrichtung nach O
+
+17 Ottenhoven
+
+Wappen: In Rot ein silberner Balken mit roter Rose belegt  
+Von Ottenhofen (Ottenhoven), bayerischer Adel, im 16. Jh.  
+erloschen (Hundt/Lieb 1830, S. 499; Siebmacher 1971, Bd 22, VI, 1, S. 5 und Taf. 3).  
+
+Domherr in Freising: Erhard, Domherr 1425, † 1442 (Ebersberger 1983, S. 185).
+
+== 18 Knöring ==
+
+Wappen: In Schwarz ein silberner Ring
+
+Von Knöring (Knöringen), fränkisch-schwäbischer Adel (Schöler, Eugen, Historische Familienwappen in Franken = Siebmacher 1975, Bd F, S. 64 und Taf. 131).  
+
+Domherrn in Freising: Burkhard (identisch mit Eberhard ?), Domherr 1399; Johann Eglolf, Domherr 1547 (Busley 1956, Nr. 48; Ebersberger 1983, S. 141).
+
+== 19 Preysin ==
+
+Wappen: Von Rot und Silber mit drei (eigentlich zwei) Zinken belegt
+
+Von Preysing, Wittelsbacher Ministerialen, bayerischer Adel Landstand 1313 Niederbayern, 1390 Oberbayern, Erbschenken im Herzogtum Bayern und im Hochstift Freising (Hundt 1598, II, S. 238; Siebmacher 1971, Bd 22, II, 1, S. 19). Mehrere Mitglieder Domherrn in Freising (Busley 1956, Nr. 80; Ebersberger 1983, S. 136 f.).
+
+== 20 Weis ==
+
+Wappen: In Silber eingebogene untere schwarze Spitze  
+Von Weichs (Weix), bayerisches Rittergeschlecht, Erbkämmerer des Hochstifts Freising (Hundt 1598, II, S. 356 oder 365; Siebmacher 1971, Bd 22, II, 1, S. 62 und Taf. 67). Mehrere Mitglieder Domherrn in Freising, darunter Degenhard, der 1410 zum Freisinger Bischof gewählt wurde, aber freiwillig dem von Papst Johann XXIII. aufgestellten Bischof von Gurk, Johann von Hebenstreit, wich, †1425  
+(»Sein Wappen im Gewölbe des Kreuzgangs«) (Busley 1956, Nr. 125; Ebersberger 1983, S. 211 f.).
+
+== 21 Eglins ==
+
+Wappen: Quergeteilt, oben Rot, unten von Blau und Silber in Wellenlinien fünffach gespalten
+
+Von Egling (Eglingen), bayerischer Adel, Erbschenken des Benediktinerstifts Tegernsee, erloschen 1511 (Hundt/Lieb 1830, S. 291 f.; Siebmacher 1971, Bd 22, VI, 1, S. 34 und Taf. 34).  
+
+Domherrn in Freising: Ulrich, Domherr 1307, †1329;  
+Georg, Domherr 1429, Pfarrer in Königsdorf bei Tölz 1448,  
+†1450 (Busley 1956, Nr. 17; Ebersberger 1983, S. 149).
+
+[[File:Band06_chunk003_p022_img003.jpg|thumb]]
+[[File:Band06_chunk003_p022_img004.jpg|thumb|20 Weix]]
+
+22 Allerspach
+
+Wappen: In Gold drei, zwei zu eins gestellte, sechsstrahlige rote Sterne
+
+Das Wappen begegnet ohne Namensbezeichnung auf dem Grabstein des 1477 verstorbenen Domherrn Johann von Muggenthal im Südflügel des Kreuzgangs, der sich vor seiner Versetzung durch Eckher in der Benediktuskirche befand (Schlecht 7, S. 64). In einer Handschrift aus der 2. Hälfte des 18. Jh. (AEM, Heckenstaller 486, erworben 1888), die auf Eckhers verschollenes Grabsteinbuch der Denkmäler des Freisinger Doms zurückgeht (ehem. AEM, mit derselben Signatur Heckenstaller 486) findet sich eine Federzeichnung der Muggenthal-Grabplatte mit vier farbig illuminierten Wappen in den Ecken, darunter rechts oben das genannte Wappen mit der Beischrift »Allersbach« und in den Farben mit dem Deckenfresko übereinstimmend; die übrigen Wappen sind bezeichnet als Muggenthal, Nußdorf und Kinding.
+
+Die Eltern Johann von Muggenthals waren Michael von M. zu Erlach und Margaretha von Pfalzpeunt. Das Wappen der Pfalzpeunt ist sehr ähnlich dem Wappen auf dem Deckenfresko des Kreuzgangs und in der genannten Handschrift. E zeigt ebenfalls drei, zwei zu eins gestellte, rote Sterne, allerdings nicht auf Gold, sondern auf Silber. Wahrscheinlich ist bereits Eckher bei der Blasonierung des Wappens auf dem Muggenthal-Grabstein eine Verwechslung mit »Allerspach« unterlaufen.
+
+Unter diesem Namen ist bei Siebmacher in der Ausgabe vor 1703/05 ein Wappen mit fünf, zwei zu eins zu zwei gestellten Sternen aufgeführt (Teil I, Taf. 80), das mit den Tinkturen Rot auf Silber an anderer Stelle noch einmal erscheint als Wappen des Geschlechts Alhartspeckh von Alhartspach (Teil V, Taf. 79), altbayerischer Adel, im Gericht Teisbach ansässig, erloschen 1567 (Hundt/Lieb 1830, S. 202–05, Siebmacher 1971, Bd 22, VI, 1, S. 3 und Taf. 1).  
+
+Während im Freisinger Domkapitel kein Mitglied der Familie Alhartspeckh nachweisbar ist, trat im Jahre 1400 dort Martin von Pfalzpeunt ein (Ebersberger 1983, S. 106), also ein Vorfahre, vielleicht ein Onkel des Johann von Muggenthal. Der allgemeine Brauch, einem Familienmitglied zu einer Domherrnstelle zu verhelfen, war wohl auch hier geübt worden.
+
+== 23 Truchtling ==
+
+Wappen: In Rot ein fliegender silberner Fisch
+
+Von Truchtling (Truchtlaching, Truchtlaiching), bayerisches Rittergeschlecht, erloschen 1490 (Hundt 1598, I, S. 343 ff; Siebmacher 1971, Bd 22, VI, 1, S. 6 und Taf. 4).  
+
+Domherr in Freising: Eberhard, Domkapitular 1406 (s. u.; nicht bei Busley 1956, nicht bei Ebersberger 1983).
+
+== 1 I Lauterhack ==
+
+Wappen: In Gold ein roter Schräglinksbalken  
+Geschlecht oder Ort nicht zu bestimmen. Die Dachauer zu Lauterbach und die Hundt zu Lauterbach hatten andere Wappen. Kein Domherr dieses Namens in Freising nachweisbar.
+
+== 25 Waldeckh ==
+
+In Silber ein auffliegender roter Adler über zwei schräggekreuzten roten Stäben  
+Von Waldeckh, Ministerialen und Erbkämmerer des Hochstifts Freising, bayerischer Adel, erloschen 1524. Nach ihrem Aussterben kamen Wappen und Reichslehen an die Maxlrainer (Hundt 1598, I, S. 348; Siebmacher 1971, Bd 22, VI, 1, S. 6 und Taf. 4).
+<!-- citation-page-bottom: Band06 p143 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=23 -->
+<!-- citation-page-top: Band06 p144 -->
+
+[[File:Band06_chunk003_p023_img001.jpg|thumb]]
+
+[[File:Band06_chunk003_p023_img002.jpg|thumb]]
+
+Mehrere Mitglieder Domherrn in Freising (Busley 1956 Nr. 123; Ebersberger 1983, S. 210).
+
+
+== 26 Kammer ==
+
+
+Wappen: In Silber rote Parte
+
+Von Kammer, Wittelsbacher Ministerialen, bayerischer Adel, erloschen (Hundt 1598, I, S. 238; Siebmacher 1971, Bd 22, VI, 1, S. 45 und Taf. 45).
+
+Domherrn in Freising: Degenhart, Domherr 1350, †1388 Hiltprant, Domherr 1392, Domdekan 1416, Generalvikar 1417, † 1426 (Uber ihn sagt Schlecht 6, S.14: »Sein Wapper
+
+
+[[File:Band06_chunk003_p023_img003.jpg|thumb|26 Kammer]]
+
+
+
+[[File:Band06_chunk003_p023_img004.jpg|thumb|24 Lauterbach]]
+
+
+im Kreuzgangsgewölbe«) (Busley 1956, Nr. 44; Ebersberger 1983, S. 139).
+
+
+== Kapellen K<sub>1-2</sub> Allerheiligenkapelle ==
+
+
+K<sub>1</sub> AUFNAHME MARIENS IN DEN HIMMEL Das Fresko der querovalen Kuppel ist nach O zu betrachten, wo sich an der Wand der Altar mit dem Allerheiligenbild von Lederer befindet. Die gesamte Kuppel ist bemalt mit einer Himmels- und Wolkenszenerie. In Blickrichtung ist über dem Kuppelrand ein schmaler Streifen blauen Himmels zu sehen als Folie für die geballten bräunlichen Wolken, die zur Mitte hin immer heller werden bis zu einer lichten Himmelsöffnung im Zentrum. Dort erscheint die Dreifaltigkeit, die sich der emporschwebenden Maria zuwendet. Die Jungfrau kniet auf einer Wolke und ist durch Sternenkranz und Lilie als Immaculata gekennzeichnet. Putten zu ihren Füßen halten Rosengirlanden und eine kleine Mondsichel als weitere Attribute. Christus, der ein großes Kreuz hält und Gottvater mit dem Zepter, die rechte Hand segnend erhoben, sitzen, einander zugeneigt, oberhalb von Maria und schauen ihr entgegen. Über ihnen, im Zentrum der größten Helligkeit, ist die Taube des Hl. Geistes zu sehen. Die Hauptgruppe ist umgeben von Engelsköpfchen, kleinen und großen Engeln. Die Darstellung erscheint in leichter Untersicht, die kühle, helle Farbigkeit, wie sie für die frühen Werke Zimmermanns charakteristisch ist, wird beherrscht durch Blau bei Maria und dem großen Engel und Rot bei Christus. Beide Töne kehren zarter wieder im Gewand Gottvaters. Der Himmel ist blau und braunrosa bis gelb.
+
+
+[[File:Band06_chunk003_p023_img005.jpg|thumb]]
+
+
+== Sebastianskapelle ==
+
+
+K<sub>2</sub> GLORIE DES HL. SEBASTIAN Blickrichtung nach O. Wie in der Allerheiligenkapelle ist die Kuppel bemalt mit einer Himmelsdarstellung, die im O und W einen schmalen blauen Streifen sehen läßt, vor den sich dunkle Wolkenkissen geschoben haben. Nach innen zu wird der Himmel immer heller bis zu dem Trinitätssymbol im Zentrum, von dem Strahlen ausgehen. Der hl. Sebastian schwebt auf Wolken und wird von Putten gestützt. Er hält in der erhobenen Rechten zwei Pfeile, die auf sein Martyrium verweisen, ebenso wie ein von Putten gehaltenes Pfeilbündel, ein Palmzweig und ein Kranz aus Rosenblüten, der über ihn gehalten wird. Rechts unmittelbar über dem Kuppelkranz, erscheinen zwei weitere Putten mit einem Pfahl, an dem der Heilige sein Martyrium erlitt. Die Farbigkeit entspricht der des Freskos in der andern Kapelle: Sebastian trägt ein gelbes Gewand und einen rotvioletten Mantel, der Himmel zeigt Blau-, Gelb- und Brauntöne
+
+
+[[File:Band06_chunk003_p023_img006.jpg|thumb]]
+
+
+== Ikonographie ==
+
+
+In der Literatur wird die Ansicht vertreten (seit J. Schlecht 1906, 1912), Eckher habe im Domkreuzgang diejenigen Wappen an die Decke malen lassen, die vorher die Schlußsteine des gotischen Gewölbes zierten. Mitterwieser glaubte, daß die Träger der Wappen auf den gotischen Schlußsteinen »in der Mehrzahl dem damaligen Domkapitel angehört haben« und meinte sogar, »damit ließe sich vielleicht die Entstehung des Kreuzganggewölbes bis auf ein paar Jahre feststellen« (1918, S. 75). Nach seiner Ansicht war das gotische Gewölbe 1457 fertig, als die von ihm publizierten Domkustodeirechungen einsetzen, da in ihnen der Kreuzgang kaum Erwähnung findet.
+
+Einen Hinweis darauf, daß hier Wappen gemalt sind, die bereits vorher im Gewölbe des Kreuzgangs zu sehen waren, gibt das von Eckher zusammengestellte Verzeichnis aller Freisinger Domherrn (BSB cgm 1716), für das er über Jahre alle erreichbaren Quellen zusammengetragen hat und dessen Niederschrift nicht später als 1711 entstanden ist (vgl. zur Datierung auch Ebersberger 1983, S. 1). Dort heißt es zu Truchtling (vgl. 23): »Eberhardus von Truchtling Bayrl. Adls, canonicus capitularis ao 1406, sein schilt steht im DombCreuzgang an dem gewolb« (fol. 60 v). Nun ist Eberhard von Truchtling nur aus dieser Quelle und den auf ihr fußender späteren Domherrnverzeichnissen (BSB cgm 1717 und 1718 AEM, Heckenstaller 486) bekannt und sonst nicht nachweisbar. Auf einen Mangel an Quellen deutet bereits hin, dass Eckher zur Beglaubigung seiner Mitteilung eigens das Wappen
+
+<!-- citation-page-bottom: Band06 p145 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=24 -->
+<!-- citation-page-top: Band06 p146 -->
+
+[[File:Band06_chunk003_p024_img001.jpg|thumb|Kapellen am Kreuzgang]]
+
+pen im Kreuzganggewölbe erwähnt, während er sich für die Domherrn sonst ausnahmslos auf andere Nachrichten berufen kann. In den neueren Forschungen über das Freisinger Domkapitel wurde daher entweder die Existenz Truchtlings bezweifelt und angenommen, es handle sich hier um einen Irrtum Eckhers, der durch falsche Blasonierung des Wappens entstanden sei (AEM, Kartei Bögl, Domherrn 3, 1401-1500, s. v.), oder Truchtling blieb einfach unerwähnt (so bei Busley 1956 und Ebersberger 1983).
+
+Da die Truchtlinger zu den Vorfahren Eckhers gehörten und eine Miniatur mit ihrem Wappen in den Farben Silber auf Rot wie auf dem Zimmermann-Fresko bereits in seinem schon genannten Familienstammbuch (s. o.) vorkommt, ist ein Versehen des Fürstbischofs bei der Blasonierung des Wappens wenig wahrscheinlich. Für das Konzept der Ausmalung durch Zimmermann ist die Identität der Person jedoch nicht entscheidend, sondern zunächst allein die Tatsache, daß vor 1716 im Gewölbe des Kreuzgangs Wappen angebracht waren. Diese scheinen sich nicht nur, wie in den Fresken Zimmermanns, auf Adelsfamilien bezogen zu haben, von denen Mitglieder dem Freisinger Domkapitel angehört hatten, sondern wohl auf ganz bestimmte Kanoniker, denn außer dem Familienwappen waren offenbar auch Namen und Daten beigegeben, wie aus der Nachricht über den sonst unbekannten Eberhard von Truchtling hervorgeht. Das Domherrnverzeichnis von ca. 1711 ist ohne Illustrationen. Demgegenüber enthält das auf seiner Grundlage um 1730 von Johann Michael von Prey aufgestellte und alphabetisch nach Adelsfamilien geordnete Verzeichnis cgm 1717 Zeichnungen von Grabsteinen, Epitaphien und Wappen (Kat. Freising 1989, II. 34, [Marianne Reuter]). Eberhard von Truchtling ist hier ein Wappen beigegeben (fol. 916), das in der barocken Umrahmung des Schilds und durch dessen ornamentierten Hintergrund eine große Ähnlichkeit aufweist mit jenen Wappen an der Decke des Kreuzgangs, die nicht von Zimmermann sind, sondern um 1732 neu gemalt wurden (vor allem 21-24). Möglicherweise handelt es sich um denselben Maler. In cgm 1717 wird das Wappen von einem Schriftband bekrönt, das in zwei Zeilen den Text trägt: Eberhardus de Truchtling / Can: Cap: Fris: Ao: 1406. Man kann, unabhängig von der Identität der Person, aus der Länge des Textes vielleicht schließen, daß die Wappen und zugehörigen Inschriften im Gewölbe des gotischen Kreuzgangs eher gemalt als skulpiert waren. Das möchte man auch vermuten in Analogie zu einem gemalten Schlußstein, der in einem Dreipaß die Wappenschilde der Familien Fraunberg (?), Pienzenau und Rohrbach zeigt und in der Mitte die Jahreszahl 1448. Er findet sich im Scheitel des Tonnengewölbes in dem zwischen Dom und Sakristei gelegenen Durchgang zum Kreuzgang (Schlecht 10, S. 82), ursprünglich die innere Sakristei (Mitterwieser 1918, S. 54).
+
+Zusammenfassend läßt sich sagen, daß die von Zimmermann gemalten Wappen tatsächlich, wie schon vermutet wurde, Vorgänger hatten. Diese trugen wohl, wie man allerdings nur in einem Fall wahrscheinlich machen kann, die Namen einzelner Kanoniker und möglicherweise das Datum des Kapitularanstands. Die Zimmermannschen Fresken haben offenbar von den Vorbildern nur den Wappenschild selbst und die Geschlechternamen übernommen. Dadurch, daß nur allgemein die Adelsfamilien, die oft mehrere Domherrn stellten, und keine einzelnen Personen überliefert sind, läßt sich die Entstehung des gotischen Kreuzganggewölbes lediglich auf den Zeitraum Ende 14. Jh. bis Mitte 15. Jh. eingrenzen. Ausschlaggebend für Eckhers Veränderungen im Bereich des Domkreuzgangs und der Benediktuskirche waren, abgesehen von der Erneuerung des Pflasters, sein historisches Interesse und seine Liebe zum Altertum. Durch die Erhebung der Grabsteine im ganzen Dombereich und ihre Präsentation an den Wänden des Kreuzgangs wurden diese als Zeugen der Vergangenheit gewürdigt - »Perystilium..., ubi ex marmoreis sepultorum monumentis elucit, hujus ecclesiae antiquitas« (Schmidtsche Matrikel 1, S. 91) - ihre Wappen und Inschriften sollten der Nachwelt erhalten bleiben. Es ging dem Fürstbischof darum, das Andenken an seine Amtsvorgänger und die Stifterfamilien zu bewahren. Damit untrennbar verbunden war die Erforschung der Geschichte des bayerischen Adels und dabei in besonderem Maße die seiner eigenen Familie, die diesem Adel angehörte. Der Fürstbischof verfolgte mit dem leidenschaftlichen Interesse des Historikers oft stundenlang die Erhebung der Grabsteine aus dem Fußboden. eine Arbeit, bei der auch viele Monumente zerstört wurden. Einfache, im neuen Marmorpaviment eingelassene Inschriftplatten sicherten jedoch die Standorte der Gräber.
+
+Eine große gemalte Tafel mit Wappen und Namen von Domherrn (von M–Z) vom 11. bis 18. Jh. (ehemals Diözesanmuseum Freising) war zu Beginn des 19. Jh. im Kreuzgang gegenüber dem Eingang zur Benediktuskirche aufgehängt. Sie besaß ursprünglich ein Gegenstück mit Namen der ersten Hälfte des Alphabets. Nach Heckenstaller (1824, S. 10) sind durch diese beiden Tafeln diejenigen Grabsteine dokumentiert, die bei den Umbauten Eckhers zerstört wurden.
+
+Die Umgestaltung von Benediktuskirche und Kreuzgang gehört zu den Aktivitäten des Bischofs, die bei den Zeitgenossen eine unvergleichlich viel stärkere Beachtung fand als die Barockisierung des Doms durch die Brüder Asam. In der Trauerrede, die P. Gelasius Hochenleuttner 1727 auf ihn
+<!-- citation-page-bottom: Band06 p147 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=25 -->
+<!-- citation-page-top: Band06 p148 -->
+
+hielt, blieb der Dom unerwähnt, der Kreuzgang und die Benediktuskirche mit dem wundertätigen Marienbild sowie die Maximilianskapelle dagegen wurden lobend hervorgehoben (P. F. Gelasius Hochenleuttner, Lob= und Trauerred dem Weyland Hochwürdigsten in Gott hochgebohrnen Herrn, Herrn Joanni Francisco. 7./8. März 1727, Freysing, Immel, S. 9). Meichelbeck schreibt in der deutschen Fassung seiner Chronik (1724, S. 330 f.) anerkennend über den Kreuzgang, daß Eckher ihn »auf das zierlichste hat repariren und ausmahlen: die alte schöne Grab=Stein erheben, und in die Maur in schönster Ordnung setzen, mithin die gedächtnuß der alten Bischöffen, Domb=Herren, und anderer vornehmen Personen wiederumb erwecken lassen, und zwar auf eine solche zierliche Manier, daß viele Wohlgereiste bekennen, man werde (wenigist in Teutschland) bey den hohen Dom=Stiffteren dergleichen Creutz=Gang nit finden«. Hochenleuttner spricht von dem »mit Marmorstein ausgepflasterten und Hoch=Adelichen Schildtereyen deren grossen Gutthäteren des Hochfürstlichen Dom=Stiffts zur beständigen Gedächtnuß einer Nachwelt bestens gezierten Creutzgang...« (ebd.). Die Formulierung, daß die Malereien sich auf die großen Wohltäter des Hochstifts beziehen, findet ihre Entsprechung in der Äußerung Meichelbecks, der, nach Würdigung der genealogisch-heraldischen Forschungen Eckhers, für die der Kreutzgang dem Betrachter das beste Anschauungsmaterial biete, fortfährt: »Endlich hat auch Joannes Franciscus seine Obsorg über die Verstorbene gewendet, absonderlich über diejenige, welche diesem Hochstüfft jemahlen guts gethan, oder gedienet, dero Namen Er aus denen ältesten Dokumenten und Büchern wiederumb an das Taglicht, und in gantz danckbarist frische Gedächtnuß gebracht« (S. 359). Es ist also möglich, daß die Fresken Zimmermanns sich zwar an älteren Wappendarstellungen, die im gotischen Kreuzgang angebracht waren, orientieren, daß Eckher bei der Auswahl von Familien (Namen, Personen) aber ein ganz bestimmtes Konzept zugrundegelegt hat, das wir nicht kennen.
+
+
+== Literatur ==
+
+
+Meichelbeck, Karl, Kurtze Freysingische Chronica oder Historia ..., Freising 1724, S. 330f., 337, 358f.
+
+-, Historia Frisingensis I, Augsburg-Graz 1724, S. 460. Schmidtsche Matrikel, Bd 1, S. 91.
+
+Heckenstaller, Josef, Dissertatio historica de antiquitate Cathedralis ecclesiae Frisingensis, München 1824, S. 9. KDB I OB (1), S. 354, 363 ff.
+
+Schlecht, Joseph, Monumentale Inschriften im Freisinger Dom, in: Sammelblatt des Historischen Vereins Freising, 5-10, 1900-1916, bes. 7, 1906, S. 44ff. u. 9, 1912, S. 2. Mitterwieser, Alois, Der Dom zu Freising und sein Zubehör zu Ausgang des Mittelalters, ebd. 11, 1918, S. 75.
+
+Hager, Georg, Johann Zimmermann, der Meister des Domkreuzgangs in Freising, in: Wissenschaftliche Festgabe zum zwölfhundertjährigen Jubiläum des hl. Korbinian, hg. v. Joseph Schlecht, München 1924, S. 421–28, mit Abb.
+
+Hartig, Michael, Freising, eine ehemalige altbayerisch Bischofsstadt, Augsburg 1928, S. 27.
+
+Abele/Lill 1951, S. 53-57.
+
+Zanker, Josef, Die Renovierung der Benediktuskirche, in: Frigisinga 51, Nr. 4, Mai 1951, S. 14.
+
+Dehio-Gall OB, S. 73.
+
+Hubensteiner 1954, S. 127, 141
+
+Alckens, August, Wie Johann Baptist Zimmermann nach Freising kam, in: Frigisinga Jg. 42, Nr. 6, Juni 1959, S. 2. D 1 C '. All
+
+Thon, Christina, Johann Baptist Zimmermann als Stukkator, München-Zürich 1977, S. 46f., 293, Kat. 13 und Abb. 43. Richter, Gisela, Johann Baptist Zimmermann als Freskant. Das Frühwerk, Diss. München 1982/83, S. 60-66, 194ff., Kat.7.
+
+Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann, Regensburg 1985, S. 17, 118 f., mit Abb. Kat. S. 308.
+
+Elsen, Alois, Michael Höck und Sigmund Benker, De Mariendom zu Freising (= KKF Nr. 200), München-Zürich <sup>9</sup>1986, S. 27.
+
+Ramisch, Hans, Der Freisinger Dom und seine Nebenkirchen im 14. und 15. Jahrhundert, in: Kat. Freising 1989, S. 27. Mayr, Vincent, »Die alte schöne Grab-Stein erheben«, ebd. 5. 41-45.
+
+Ebd. S. 409, Rundgang 25 [Peter Steiner]
+
+Dehio 1000 S 212 1
+
+Götz 1992, S. 42, 255f., 289f
+
+Hahn, Sylvia, Johann Baptist Zimmermann in Freising, in Beiträge Freising 1994, S. 257 ff. u. Abb. S. 280.
+
+
+== Literatur zur Ikonographie ==
+
+
+Hund, Wiguleus, Bayerisch Stammenbuch, I, II Ingolstadt Sartorius) 1598.
+
+Dr. Wiguleus Hundts bayerischen Stanmmenbuchs 3. Teil. Mit den Zusätzen des Archivars Libius, in: Sammlung historischer Schriften und Urkunden, geschöpft aus Handschriften von M. von Freyberg, 3. Bd, Tübingen-Stuttgart 1830.
+
+J. Siebmachers grosses Wappenbuch. Bd 22: Die Wappen des bayerischen Adels, bearb. von Otto Titan von Hefner und Gustav Adalbert Seyler, Neustadt a.d. Aisch 1971. Reprint d Ausgaben von II,1, Nürnberg 1856; VI,1, 1-3 Nürnberg 1884, 1906 und 1901; VII,1, Nürnberg 1859.
+
+Busley, Hermann-Joseph, Die Geschichte des Freisinger Domkapitels von den Anfängen bis zur Wende des 14./15. Jahrhunderts, ungedr. Diss. München 1956.
+
+Ebersberger, Roswitha, Die regionale und ständische Zusammensetzung des Freisinger Domkapitels von 1400-1650, Magisterarbeit München 1983.
+
+B.V.-K.
+
+
+[[File:Band06_chunk003_p025_img001.jpg|thumb|Innenansicht der Benediktuskirche nach Osten]]
+<!-- citation-page-bottom: Band06 p149 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=1 -->
+{{End}}

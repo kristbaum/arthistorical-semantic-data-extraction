@@ -1,0 +1,72 @@
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=290
+|Originalseitenbis=290
+|Lemma=Schlipps, Filialkirche St. Silvester
+|Typ=Sakral
+|Ort=Schlipps
+|davor=Pfrombach, Pfarrkirche St. Margareta
+|danach=Thalhausen, Schlosskapelle St. Anna
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<!-- citation-page-top: Band06 p290 -->
+
+<!-- header: SCHLIPPS -->
+
+<!-- header: THALHAUSEN -->
+
+Filialkirche, Pfarrei Hohenkammer, Gemeinde Hohenkammer, Erzdiözese München und Freising. Schlipps gehörte bis 1803 zur hochfürstlich Freisingischen Hofmark Massenhausen. Gericht Kranzberg
+
+'''Patrozinium:''' St. Silvester (ursprünglich St. Thomas)
+
+'''Zum Bauwerk:''' Das LHs wurde in der 1. Hälfte des 13. Jh. errichtet, Chor und nördlicher Turm mit Treppengiebel stammen vom Anfang des 16. Jh. 1744 wurde die Sakristei im S angebaut, 1839–1844 das Schiff nach W verlängert.
+
+Saalkirche mit flacher Decke zu ursprünglich drei, nach der Verlängerung fünf Achsen, eingezogener AR zu drei Achsen mit 5/8-Schluß. Die Kanzel mit Darstellung der Vier Evangelisten ist 1694 datiert, der Hochaltar mit dem Altarbild des hl. Silvester stammt vom Ende des 17. Jh., die Altäre wurden 1709 durch Fürstbischof Eckher von Kapfing konsekriert.
+
+'''Auftraggeber:''' Hochstift Freising
+
+'''Autor und Entstehungszeit:''' Der Autor ist unbekannt. Die sehr einfache und stark restaurierte Malerei stammt wohl vom Anfang des 18. Jh.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Lhs (A) Flachdecke, AR (B) Tonne mit Stichkappen
+
+Rahmen: A Profilierte Hohlkehle, B gemalter Rahmen mit Dekor, oben und unten Muschelkartusche
+
+Technik: Fresko; camaieu braun
+
+Maße: A Höhe 4,80 m; Ø 1,20 m  
+B Höhe 4,90 m; oval 1,70 x 1,50 m
+
+
+[[File:Band06_chunk006_p021_img001.jpg|thumb]]
+
+
+Erhaltungszustand und Restaurierungen: 1931 erfuhr die Kirche eine Restaurierung durch Christian Seibold, Freising. 1979 wurde Fresko A durch Bernd Holderried, Pfaffenhofen, freigelegt; vorher war hier ein Lamm Gottes gemalt, wohl von Seibold. A und B sind stark restauriert.
+
+
+[[File:Band06_chunk006_p021_img002.jpg|thumb|Innenansicht]]
+
+
+Beschreibung und Ikonographie
+
+A DER HL. SILVESTER AUF WOLKEN Der Papst mit Mitra und Stab thront auf Wolken, neben ihm ein Engelputto, und legt die rechte Hand auf einen neben ihm liegenden Stier. Im Himmel sieht man geflügelte Engelsköpfchen. - Während des Pontifikats von Papst Silvester (314-335) trat Konstantin d. Gr. zum Christentum über. Nach der Taufe durch den Papst versuchte die Mutter des Kaisers, Helena, vergeblich, ihren Sohn zum Judentum zu bekehren. Bei einem Disput mit zwölf Rabbinern, bei dem diese einen Stier töteten, um ihn mit Hilfe ihres Gottes wieder zum Leben zu erwecken, gelang es schließlich erst dem Heiligen, das Tier wieder lebendig zu machen. Der hl. Silvester wird daher als Schützer des Viehs verehrt.
+
+B MARIENKRÖNUNG Maria wird von Gottvater und Christus gekrönt, darüber erscheint die Taube des Hl. Geistes.
+
+
+== Quellen und Literatur ==
+
+
+Pfarrarchiv Hohenkammer, Akt Kirchenrestauration. AEM, Kunsttopographie, Dekanat Weihenstephan, Pfarre Hohenkammer, Filialkirche Schlipps (Sylvia Hahn).
+
+Schmidtsche Matrikel, Bd 2, S. 190. Mayer-Westermayer, Bd 1, S. 157. Goerge, Rudolf, Die Kirchen der Pfarrei Hohenkammer (= KKF Nr. 1323), München-Zürich 1981, S. 18 f. Denkmäler in Bayern. Oberbayern, München 1986, S. 279. Dehio 1990, S. 1080.
+
+Schloßkapelle, Nebenkirche der Pfarrei Wippenhausen Gemeinde Kranzberg, Erzdiözese München und Freising Das Schloß ist seit 1985 in Besitz der Erzdiözese und wird als Jugendhaus genutzt. Z.Z. der Ausmalung gehörte die Schloßkapelle zur Pfarrei Sünzhausen, die seit 1220 dem Stift St. Veit in Freising inkorporiert war. In der Kapelle befand sich eine Reliquie der hl. Anna, die als wundertätig verehrt wurde («Altare maius est dedicatum honoribus S. Annae hic beneficiis clarae, de cuius ossibus etiam hic habetur et colitur particula», Schmidt, S. 341).
+
+{{End}}

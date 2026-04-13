@@ -1,0 +1,165 @@
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=122
+|Originalseitenbis=127
+|Lemma=Freising, St. Johann Nepomuk Kapelle
+|Typ=Sakral
+|Ort=Freising
+|davor=Freising, Dom
+|danach=Freising, St.-Maximilian-Kapelle
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<!-- citation-page-top: Band06 p122 -->
+
+St.-Johannes-von-Nepomuk-Kapelle (seit 1892 Sakramentskapelle) in der südlichen Apsis des Doms
+
+'''Patrozinium:''' St. Johannes von Nepomuk; Nebenpatrone St. Johannes Evangelist und St. Johannes Baptist
+
+'''Zum Bauwerk:''' Im Mittelalter stand in der Südapsis des Doms ein Altar des Evangelisten Johannes, an dem schon früh Johannes der Täufer mitverehrt wurde. Dieser rückte im 17. Jh. als Patron an die erste Stelle; auf ihn verweist das Deckenfresko S<sub>12</sub> von Asam von 1724 im angrenzenden Joch des Seitenschiffs, das ihn darstellt. Hauptpatron der jetzigen Kapelle ist der 1729 kanonisierte Johannes von Nepomuk.
+
+Nach Meichelbeck (Historia Frisingensis II, 1, S. 428) errichtete Fürstbischof Eckher von Kapfing 1698 in der südlichen Apsis eine Kapelle zu Ehren der Enthauptung Johannes des Täufers. Sie entstand innerhalb der mittelalterlichen Umfassungsmauern als längsovaler Kuppelbau, der durch eine Laterne und ein Fenster im Scheitel belichtet war. Für die Johanneskapelle gab der Domherr Francesco Antonio Begnudelli Basso aus Trient, Generalvikar unter Eckher, 1699 einen Marmoraltar in Auftrag, den er kurz vor seinem Tod († 1713) mit einem Benefizium bestiftete. Begnudelli fand in der Gruft unter der Kapelle auch seine letzte Ruhestätte. Sein Neffe Francesco Antonio Fraporta, auf Veranlassung seines Onkels ebenfalls Domherr in Freising, ließ für ihn und für sich selbst ein Epitaphium anbringen; außerdem bewahren kleine Marmorreliefs neben dem Altar, die sie knieend im Gebet mit ihren Wappen zeigen, die Erinnerung an beide Domherren. Wegen der Errichtung des Altars und der Benefizienstiftung wird Begnudelli Basso oft fälschlich als Auftraggeber der Johann-Nepomuk-Kapelle angesehen.
+
+Die neue Kapelle entstand 1737 nach Entwurf von Egid Quirin Asam, der in Umänderung der bereits bestehenden Kapelle einen Raum gestaltete, in dem sich Architektur, figürliche Plastik und Malerei in genialer Weise zu einer künstlerischen Einheit zusammenfügen. Die Ausmalung übernahm sein Bruder Cosmas Damian Asam, Mitarbeiter vor Ort war der Freisinger Steinmetz Matthias Einsele, der für die Marmorarbeiten verantwortlich war. Der Plan, eine Kapelle zu Ehren des 1729 kanonisierten Johannes von Nepomuk zu errichten, geht bereits auf das Jahr 1733 zurück. 1736 wird Egid Quirin Asam im Zusammenhang mit der Planung zum ersten Mal genannt. Mit der Ausführung konnte aber erst 1737 begonnen werden, da Fraporta, der Neffe des Stifters des Altarbenefiziums, für die neue Anlage verschiedene Auflagen machte.
+
+Die Ausstattung durch die Brüder Asam erfolgte zwischen April und August 1737. In den beiden folgenden Jahren wurden noch fehlende Marmorarbeiten ausgeführt, die die Wandgliederung betrafen. Eine 1740 mit großer Festlichkeit begangene Oktav zu Ehren von Johannes von Nepomuk in der neuen Kapelle bezeichnet wohl deren Vollendung (Volk-Knüttel 1992, S. 34-52).
+
+Längsrechteckiger, im O halbrund geschlossener Raum mit Zugang vom südlichen Seitenschiff. Wandgliederung durch vier Pilaster aus rotem Stuckmarmor, die ein verkröpftes Gesims tragen, darüber eine längsovale Kuppel mit Laterne. Belichtung durch die Laterne und das gelb verglaste Glorienfenster hinter dem Altar. Im W, dem Altar gegenüber, schneidet ein rechteckiges Fenster in die Kuppel ein, das zu einem vor der Kapelle gelegenen Oratorium führt. Im Rund der Apsis eingefügt ist ein dreiteiliges, teils aus Marmor, teils aus Stuck gefertigtes Altarretabel mit den marmorartigen weißen Stuckfiguren der drei heiligen Johannes: links der Täufer mit Kreuzstab und Lamm, rechts der Evangelist mit zwei Büchern und dem Adler, in der Mitte Johannes von Nepomuk als verklärter Martyrer. Die von Egid Quirin Asam geschaffenen Statuen der Nebenpatrone ähneln stark den entsprechenden Figuren in der etwa gleichzeitig entstandenen Johann-Nepomuk-Kirche in München, wo sie ebenfalls eine Darstellung des Titelheiligen flankieren.
+
+'''Auftraggeber:''' Domkapitel Freising während der Regierungszeit von Fürstbischof Johann Theodor von Bayern (1727-63). Auf dem Bogen über dem Eingang Wappen Johann Theodors in einer vergoldeten, von seinen Insignien bekrönten Kartusche; in den Gewölbezwickeln in zwei Kartuschen gemalt der Freisinger Mohr als Bistumswappen (im N) und die bayerischen Rauten (im S; nicht ursprünglich, s. u.), wohl als Ersatz für das Wappen des auftraggebenden Domkapitels, die Madonna auf der Mondsichel.
+
+'''Autor und Entstehungszeit:''' Cosmas Damian Asam (* 1686 Benediktbeuern † 1739 München) 1737
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Längsovale Kuppel mit runder Laterne
+
+Rahmen: Verkröpftes Gesims aus rotem Stuckmarmor
+
+Technik: Fresko mit Secco; polychrom
+
+Maße: Höhe bis zum Kuppelkranz 9,60 m, bis zur Laterne 13,10 m; 7,20 x 5,10
+
+Laterne 2,60 m
+
+Erhaltungszustand und Restaurierungen: Die bereits im 19. Jh. fragmentierte originale Malerei ist stark ergänzt worden. Auf der südlichen Kuppelhälfte hat man sogar eine völlig neue Darstellung hinzugefügt.
+
+Schon 1876 wurde anläßlich der Planungen für eine Restaurierung der Kapelle angegeben, daß man die Fresken der Laterne und der einen Kuppelhälfte restaurieren müsse, während die andere Kuppelhälfte, »weil gar nicht mehr vorhanden«, neu zu freskieren sei (AEM, Archiv des ehem. Priesterseminars Freising, Nr. 46: Kostenvoranschlag des Freisinger Malers Adalbert Kromer vom 20. Mai 1876). Im Anschluß daran entschloß man sich jedoch offenbar, die Fresken, mit Ausnahme der Laterne, zu übertünchen.
+
+Bei den Vorbereitungen der Gesamtrenovierung des Doms (s. Dom, Erhaltungszustand) wurde neben einer baulichen Instandsetzung der Johanneskapelle erneut eine Restaurierung der Laterne gefordert, da deren Fresko mit der Darstellung Gottvaters durch Nässe beschädigt war. 1913 wurde dann der gesamte Raum durch die Fa. Kolmsperger und Pfefferle, München, renoviert und dabei unter der Tünche in der
+
+
+[[File:Band06_chunk003_p012_img001.jpg|thumb|Die Johanneskapelle in der südlichen Apsis des Doms]]
+<!-- citation-page-bottom: Band06 p123 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=13 -->
+<!-- citation-page-top: Band06 p124 -->
+
+<!-- header: STADT FREISING -->
+
+Kuppelschale die Asamsche Malerei entdeckt und freigelegt. Bei dieser Gelegenheit stellte man auch fest, daß die gemalten bayerischen Rauten in der südlichen Wappenkartusche nicht original waren. Das Gutachten der Denkmalpflege vom 21. August 1913 (Akt im BLfD) bezeichnet den Erhaltungszustand der Malerei in der Kapelle als sehr schlecht; durch frühere Bauschäden sei ca. die Hälfte verlorengegangen und das übrige zeige viele Schäden. {ZITAT|000}. Maßnahmen zur Erhaltung und Ausbesserung seien erforderlich, {ZITAT|001}
+
+Den Auftrag zur Restaurierung und Ergänzung der Fresken erhielt der Münchner Kunstmaler Anton Ranzinger, der bereits mit der Ergänzung der Malerei der Kuppellaterne beauftragt worden war. Er hat vor Arbeitsbeginn den Zustand der Malerei durch ein Photo (heute Diözesanmuseum Freising dokumentiert. Für den Zustand der Malerei vor dem Eingreifen Ranzingers liegt außerdem eine Beschreibung der Denkmalpflege vor. Darin heißt es u. a.: {ZITAT|002}} (AEM, Archiv des ehem. Priesterseminars Freising, Nr. 46: Beschreibung durch Prof. H. Haggenmiller am 19. August 1913). Demnach waren außer Fides und Ecclesia und dem Evangelisten Johannes auf Wolken die übrigen Darstellungen so stark fragmentiert, daß sie nicht mehr lesbar waren. Die Denkmalpflege empfahl daher, falls die Themen nicht anhand alter Beschreibungen zu rekonstruieren seien, von Ergänzungen abzusehen und die leeren Partien lediglich durch Wolken und Engel zu füllen. Ungeachtet dessen wurde 1914 von Ranzinger die Darstellung des Martyriums des hl. Johannes von Nepomuk völlig neu erfunden als Ersatz für eine oder mehrere verlorene Nepomukszenen, und die Reste einer Darstellung Johannes des Täufers wurden zu einer Taufe Jesu ergänzt. Hier war ursprünglich wohl allein die Bußpredigt des Johannes zu sehen, wie auch Ranzinger vermutet hat (in der undatierten Beilage zum Kostenvoranschlag, 1913/14. AEM, Archiv des ehem. Priesterseminars Freising a. a. O.), in der Komposition wahrscheinlich ähnlich wie auf Egid Quirin Asams Kanzelrelief in der Nepomukkirche in München. Die Forderung der Denkmalpflege, nur gesichert überlieferte Themen malerisch zu ergänzen, wurde nicht befolgt.
+
+1966 waren größere Wasserschäden, vor allem bei der Taufe Jesu, zu erkennen. 1971 (Abbildung) waren sie noch nicht behoben. Nach Auskunft des Hochbauamts (früher Landbauamt) Freising fand die letzte Restaurierung 1972 durch Manfred Fronske, Landshut, statt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die Malerei bedeckt die Kuppel und die Laterne. Die Aufteilung der Malfläche in der Kuppelschale wird bestimmt durch den Altar im O, dessen Auszug vorschwingt und die Fläche optisch überschneidet, durch das rechteckig einschneidende Oratoriumsfenster im W und durch die Laterne. Infolge der dadurch gebildeten O-W-Achse gliedert sich die Bemalung in eine nördliche Hälfte mit Darstellungen Johannes des Täufers und des Evangelisten, und in eine südliche Hälfte, mit heute einer, ehemals wohl mit zwei Szenen aus der Legende des Titelheiligen Johannes von Nepomuk; dazwischen im W über dem Oratoriumsfenster Personifikationen von Ecclesia und Fides. Blickrichtung nach O zum Altar hin, von wo aus sich die Fresken U-förmig nach beiden Seiten entfalten. Die Kompositionen werden über dem Altar jeweils durch große Engel eröffnet, die optisch den plastischen Altaraufbau mit seinen großen Stuckengeln auf dem Gebälk im Bereich der Malerei fortsetzen: Links wohnen zwei Engel der Taufe Christi durch Johannes bei, rechts wendet sich ein großer Engel, von dem nur der untere Teil alt ist, zur Nepomukszene
+
+
+== Nordseite der Kuppel, östlich ==
+
+
+TAUFE JESU (Mt 3, 13–17) (Stark ergänzt; ursprünglich Bußpredigt Johannes d. T. ?)
+
+In einer sich nach vorn absenkenden Landschaft steht Jesus vertieft - seine Standlinie ist hinter dem Gesimsrand - und empfängt im Jordan die Taufe durch Johannes. Dieser ist halb zu ihm herabgestiegen, hält die Taufschale über ihn und umfaßt mit der Linken den Kreuzstab mit dem Spruchband ECCE AG(NUS) DEI. Darüber erscheint, von einem großen Engel verehrt, die Taube des Hl. Geistes. Links neben Johannes sieht man das am Ufer des Jordan lagernde Volk, das der Prediger zur Buße aufruft. Zur Illustration seiner Worte, daß die unfruchtbaren Bäume abgehauen und im ewigen Feuer verbrannt werden (Mt 3, 10), ragt hinter der Taufszene ein kahler Baumstamm auf, in dessen Gabelung der Oberkörper eines Engels zu sehen ist. Die Darstellung erinnert an eine Engelherme und hat offensichtlich neben ihrer inhaltlichen Bedeutung auch eine flächengliedernde Funktion – ähnlich wie bei Asams Deckenfresko in der ehem. Schloßkapelle in Ettlingen (Kat. Asam 1986, Taf. 73). Der Engel hält das Ende eines langen Spruchbandes, das oberhalb der Köpfe der Menschen hinweggeführt ist zu Johannes dem Evangelisten. Von der ursprünglichen Beschriftung des mehrfach restaurierten Bandes ist am Schluß noch ENTIAE zu erkennen, auf einem älteren Photo (Photo Werkmeister, Freising) lautet sie
+
+
+[[File:Band06_chunk003_p013_img001.jpg|thumb|Ansicht der Kuppel mit Johannes-Darstellungen und der Laterne mit Gottvater, Zustand 1970]]
+<!-- citation-page-bottom: Band06 p125 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=14 -->
+<!-- citation-page-top: Band06 p126 -->
+
+<!-- header: STADT FREISING -->
+
+
+== STADT FREISING ==
+
+
+'''[BAPTISMUS POENITENTIAE]'''. Nach der Form der Buchstaben könnte es sich dabei um eine Ergänzung Ranzingers handeln. Wieweit originale Reste vorhanden waren, ist nicht bekannt. Die ursprüngliche Inschrift war wohl der Bibel entnommen und bezog sich auf die an mehreren Stellen überlieferte Bußpredigt Johannes des Täufers (Mc 1,4: {ZITAT|000}; vgl. auch Act 19, 3-4).
+
+Nordseite der Kuppel, westlich
+
+JOHANNES SCHREIBT DAS EVANGELIUM (Io 1,1) Johannes ist über die Menschen in die Wolken entrückt. Er hält in der erhobenen Rechten die Schreibfeder und blickt über die rechte Schulter in einer Geste der Inspiration nach oben. Die linke Hand ruht auf einem geöffneten Buch. Dieses trug (wie auf dem älteren Photo zu sehen ist) die Inschrift: IN PRIN/CIPIO [E]RAT /[V])ERBUM. Zwischen dem Evangelisten und dem Buch erscheint der Adler, um dessen Hals früher das Schriftband geschlungen war (bei der letzten Restaurierung verändert). Dieses Band faßt Johannes mit der Rechten, und von da setzt es sich fort zur Gestalt der Fides.
+
+Westseite der Kuppel, über dem Oratoriumsfenster
+
+ECCLESIA UND FIDES Über dem Oratoriumsfenster und in dessen Leibung hineingemalt, um den Einschnitt in die Kuppel zu kaschieren, sind zwei Personifikationen: Im N. Johannes dem Evangelisten zugewandt, sitzt Fides, eine Frau in blauem, über den Kopf gezogenen Mantel, die auf dem Schoß das Buch mit den Sieben Siegeln hält, darauf das Lamm (zu Fidesdarstellungen mit den gleichen Attributen s. Art. Fides II, in: RDK 8, 1987, Sp. 789 f.). Zwischen Buch und Lamm liegt das vom Evangelisten herkommende Schriftband, das Fides auch noch mit der linken Hand faßt. Zu ihrer Rechten thront Ecclesia, beide Hände zum Himmel erhoben, in goldgelber liturgischer Gewandung, auf dem Haupt die päpstliche Tiara. Auf ihrem Schoß liegt ein Buch, auf dem der Kelch mit der Hostie steht, zu ihren Füßen sieht man ein stark ergänztes Rad. Beide Personifikationen werden hinterfangen von einem gemeinsamen Glorienschein, der sich zu den Rändern hin jedoch in verschiedener Weise auflöst: bei der Johannes dem Evangelisten benachbarten Fides als Regenbogen, auf der andern Seite als Strahlennimbus. Über Ecclesia erscheint im Himmel das Jahwe-Zeichen.
+
+Südseite der Kuppel
+
+DER VERKLÄRTE LEICHNAM DES JOHANNES VON NEPOMUK AUF DER MOLDAU (Anton Ranzinger, 1914). Dargestellt ist der von der Brücke herabgestürzte Heilige, der, von Flammenzeichen umgeben, auf der Moldau treibt, den 5-Sterne-Nimbus um das Haupt. Entsprechend den beiden Johannes-Darstellungen auf der nördlichen Kuppelschale ist anzunehmen, daß auch aus der Johann-Nepomuk-Legende ursprünglich zwei Szenen wiedergegeben waren.
+
+Laterne
+
+GOTTVATER
+
+Die runde Laterne erhält Licht durch acht Fenster, die durch marmorierte Pilaster voneinander getrennt sind. Der Later¬nengrund ist ausgemalt mit der Gestalt Gottvaters auf Wolken, umgeben von Engelsköpfchen, neben sich die Weltkugel. Über das mit Lambrequins behängte Profil am Fuß der Laterne beugen sich zwei Engelsköpfchen aus Stuck, weitere schweben oben am Übergang zu dem bemalten Feld. In illusionistischer Wirkung, gesteigert durch die strahlende Helligkeit des Fensters, verwischen sich die Grenzen von der plastisch gestalteten zur bemalten Zone, ähnlich wie in der Kuppel darunter um das Glorienfenster.
+
+Ikonologie
+
+Mit dem Bildprogramm, das jedoch nur lückenhaft überliefert ist, sollten die drei Johannesheiligen zueinander in Beziehung gesetzt werden. Dies wurde sinnfällig gemacht durch das weiße Band, das ursprünglich um die gesamte Kuppel herumgeführt war und die Figuren miteinander verband. Be¬reits der Täufer und der Evangelist, die oft gemeinsam verehrt wurden (LThK Bd. 5, Sp. 1089, s. v. Johannes der Täufer), sind aufeinander bezogen. Sowohl in dem von Johannes verfaßten Evangelium als auch in seiner Apokalypse zeigt sich eine besondere Affinität zu Johannes dem Täufer, dem Vorläufer Christi. Gemeinsam sind dem Täufer und dem Evangelisten die Vorstellungen des Messias als Logos, als Bräutigam und als Opferlamm Gottes. Sind beide Heilige zusammen dargestellt, so bezeichnen die Anfangsworte des Johannesevangeliums {ZITAT|001}}, die auch im Asamschen Deckenfresko wiedergegeben waren, die Menschwerdung des Logos, während das {ZITAT|002}} des Täufers auf den Opfertod des Messias verweist. Cosmas Damian Asam hat diese Thematik auch in einem etwa gleichzeitig entstandenen Altarbild in Osterhofen gestaltet: Dort sitzt, wie in Freising, der schreibende Evangelist inspiriert auf Wolken, während der Täufer auf das Lamm weist, das von rechts naht (Helene Trottmann, Cosmas Damian Asam 1686–1739, Nürnberg 1986, Nr. 23 und Abb. 78).
+
+Im Kult des 1729 kanonisierten Johannes von Nepomuk hat man im 18. Jh. die typologischen Entsprechungen zu den beiden anderen Heiligen dieses Namens stark herausgearbeitet. Die Heiligsprechung fand in Rom in der Lateransbasilika statt, die dem Evangelisten und dem Täufer gemeinsam geweiht ist. In Letzterem vermutete man auch den Namenspatron des böhmischen Heiligen, und so sind die Analogien zu diesem besonders eng. Sie reichen von der wunderbaren Geburt von alten, unfruchtbar geglaubten Eltern bis zu {ZITAT|003}} (Kat. Nepomuk 1971, S. 51). In der von J. Th. Berghauer 1736 veröffentlichten Lebensbeschreibung Johann Nepomuks wird dieser im Titel als »Proto-Martyr Poenitentiae« bezeichnet. Die Bußpredigt Johannes des Täufers mit dem Inschriftrest POENITENTIAE in Asams Deckenfresko deutet darauf hin, daß bei der Bezugnahme auf Nepomuk dieser vornehmlich in seiner Eigenschaft als Prediger und als Martyrer der Beichte gemeint ist. Darauf weisen auch die Inschriften bei seiner Figur am Altar, {ZITAT|004}} und {ZITAT|005}}. Weitere gemeinsame Aspekte der Johannesheiligen können in der Freisinger Johann-Nepomuk-Kapelle wegen des mangelhaften Erhaltungszustandes der Malerei eher vermutet als nachgewiesen werden. Eine zur Seligsprechung 1721 erschienene Schrift nennt Nepomuk im Titel ein unschuldiges und für den wahren Glauben geschlachtetes Opferlamm, und als Lamm bezeichnet ihn auch die päpstliche Bulle zu seiner Heiligsprechung 1729 wegen seiner Verschwiegenheit und seines stillen Duldens. Auf dem zur Kanonisation errichteten Ehrengerüst vor dem Prager Veitsdom ist das als Beischrift zu seinem Bildnis gleichfalls ausgesprochen: {ZITAT|006}} (Kat. Nepomuk 1971, S. 83), ebenso im Hymnus zu seinem Festtag und bei den Inschriften auf vielen Andachtsbildern. Durch diese Bezeichnung als Lamm, d.h. die Parallelisierung seines Martyriums mit dem Erlösungsopfer Christi, ist er zusätzlich mit den beiden anderen Johannesheiligen verbunden.
+
+In den beiden Personifikationen von Ecclesia und Fides ist die Bedeutung des Opfertodes des Gottessohnes für seine Kirche veranschaulicht. Christus ist zweimal vergegenwärtigt, einmal als das Lamm auf dem apokalyptischen Buch, das Fides auf dem Schoß hält. Das Buch harrt der Öffnung seiner sieben Siegel durch Christus, wodurch das Heil vollendet und das Jüngste Gericht eingeleitet wird. Fides leitet das zwischen Lamm und Buch liegende Schriftband mit der Linken zu Johannes dem Evangelisten, der gleichzeitig der Verfasser der Apokalypse ist. (Am Altar der Johann-Nepomuk-Kapelle ist die rechts stehende Stuckfigur des Evangelisten mit zwei Büchern dargestellt, das eine, das Evangelium, hält er im Arm, auf das andere, mit einer Schließe gesicherte Buch, hat er den Fuß gestellt.)
+
+Die Personifikation des Glaubens ist vor allem auf die nördliche Kuppelhälfte bezogen mit der wohl ursprünglich dargestellten Bußpredigt des Johannes und seinem Hinweis auf den Messias. Neben Fides erscheint Ecclesia, die mit ihr ursprünglich durch das umlaufende Band verbunden war (s. o.), die Hände anbetend erhoben, auf dem Schoß das Buch, darauf Kelch und Hostie als Zeichen der Präsenz des Eucharistischen Christus. Die Kirche, würdig das Blut des geopferten Lammes zu empfangen, ist die Verwalterin des Sakraments, und ihre Darstellung ist hier wohl vor allem bezogen auf den Priester und Beichtvater Johannes von Nepomuk. Mit dem Rad zu Füßen der Ecclesia ist das Rad der Theologie gemeint (Ripa-Orlandi, Bd 2, S. 270: il proprio geroglifico nelle sagre lettere delle scienze teologice), das auf ihn als Doktor der Theologie und des kanonischen Rechts verweist. Die verschieden gestalteten Nimben um die beiden Personifikationen, die sich jedoch zu einem einheitlichen Rund zusammenschließen, zeigen bei Fides den Regenbogen der Apokalypse, über Ecclesia das Jahwe-Zeichen. Am Festgerüst, das 1729 zur Heiligsprechung Nepomuks vor der Salvatorkirche in Prag aufgestellt war, hatte an der Pyramide der Theologie {ZITAT|007}} (S. Joannes von Nepomuk, Ein in der gantzen Christenheit wunderthätiger Heiliger..., Prag, Fitzky, 1729, o. S.). Es ist möglich, daß das Jahwe-Zeichen über Ecclesia in Analogie zum Stillschweigen des Martyrers gesehen wurde.
+
+Quellen und Literatur
+
+AEM, Archiv des ehem. Priesterseminars Freising, Nr. 46: St.-Johann-Nepomuk-Kapelle
+
+Hartig, Michael, Freising. Eine ehem. altbayerische Bischofsstadt, Augsburg 1928, S. 22 und Abb. 26.
+
+Hanfstaengl, Erika, Cosmas Damian Asam, München 1939, S. 68.
+
+Abele/Lill 1951, S. 48-51 und Abb. 29.
+
+Benker, Sigmund, Alte Kunst in und um Freising, in: Bayerland 57, 1955, S. 381 f., mit Abb.
+
+Hanfstaengl, Erika, Die Brüder Cosmas Damian und Egid Quirin Asam, München-Berlin 1955, S. 48 f. und Abb. 56 und 57.
+
+Kat. Nepomuk 1971 = Johannes von Nepomuk. Ausstellungskatalog, Passau 1971.
+
+Matsche, Franz, Die Darstellungen des Johannes von Nepomuk in der barocken Kunst - Form, Inhalt und Bedeutung in: Kat. Nepomuk 1971, S. 51.
+
+Klingenberg-Helfert, Jitka, Festgerüste zur Seligsprechung und zur Heiligsprechung des Johannes von Nepomuk in Prag, in: Kat. Nepomuk 1971, S. 64, 83.
+
+Benker 1975, S. 12 f. und Abb. 48–50.
+
+Rupprecht, Bernhard, Die Brüder Asam. Sinn und Sinnlichkeit im bayerischen Barock, Regensburg 1980, S. 138 und Abb. S. 139.
+
+Elsen, Alois, Michael Höck und Sigmund Benker, Der Mariendom zu Freising (= KKF 200), München-Zürich 1986, S. 14.
+
+Kat. Asam 1986, S. 236, F XIII, 56 (Ralph Paschke)
+
+Hojer, Gerhard, Cosmas Damian und Egid Quirin Asam. Ein Führer zu ihren Kunstwerken, München 1986, S. 28 und Farbtaf. S. 82.
+
+Sauermost, Heinz Jürgen, Die Asams als Architekten, München-Zürich 1986, S. 107.
+
+Kat. Freising 1989, S. 401, mit Abb. (Peter Steiner).
+
+Volk-Knüttel, Brigitte, Die Entstehung der Johann-Nepomuk-Kapelle von Egid Quirin Asam im Freisinger Dom, in: Ars Bavarica 67/68, 1992, S. 34–52. B. V.-K
+<!-- citation-page-bottom: Band06 p127 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk003.pdf#page=15 -->
+{{End}}

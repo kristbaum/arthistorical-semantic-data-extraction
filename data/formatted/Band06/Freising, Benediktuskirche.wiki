@@ -1,0 +1,232 @@
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=150
+|Originalseitenbis=159
+|Lemma=Freising, Benediktuskirche
+|Typ=Sakral
+|Ort=Freising
+|davor=Freising, Domkreuzgang
+|danach=Freising, Ehem. Fürstbischöfliche Residenz
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+<!-- citation-page-top: Band06 p150 -->
+
+St.-Benediktuskirche auf dem Domberg an der Ostseite des Kreuzgangs (sog. Alter Dom), Nebenkirche des Doms
+
+'''Patrozinium:''' St. Maria, St. Benediktu
+
+'''Zum Bauwerk:''' Eine Benediktuskirche wird zum ersten Mal 825 erwähnt. Um die Mitte des 14. Jh. wurde der jetzige Bau auf Veranlassung des Domdekans Otto von Maxlrain aufgeführt und in seinem Testament (1347) mit reichen Schenkungen bedacht. St. Benedikt diente den Domkanonikern als Bestattungsort. 1690 ließ Fürstbischof Eckher – damals Domdekan – hier eine Gruft als Grablege für seine Familie anlegen und im Anschluß daran die Barbara- und die Johanneskapelle, die den östlichen Abschluß der Seitenschiffe der Kirche bilden, mit Altären mit Gemälden von Johann Andreas Wolff ausstatten (1694 Weihe des Barbara-Altars; Bild erhalten; die Johannes-Darstellung verloren). Die Altarbauten tragen das Wappen Eckhers. 1698 stiftete er eine Allerseelenbruderschaft auf dem Barbara-Altar. 1701 begann der Bischof mit einer Erneuerung des Pflasters in Dom, Krypta, Kreuzgang und Benediktuskirche (Meichelbeck Historia, I, 1, S. 155 u. ö.), eine Maßnahme, die vor allem auch den Zweck hatte, die vielen im Boden verlegten Grabplatten zu erheben, um sie vor weiterer Abnutzung zu schützen. Dies war der Beginn einer Umgestaltung nach historischen Prinzipien, die im Kreuzgang 1716 abgeschlossen war. Die Barockisierung des Innenraums der Benediktuskirche, für die keine Daten überliefert sind, fand wohl ebenfalls um 1716 statt.
+
+Steil proportionierte, dreischiffige Basilika mit LHs zu vier Jochen. Durch das westliche Joch ist der Ostflügel des Kreuzgangs hindurchgeführt und bildet eine mit drei Bogen zur Kirche geöffnete Vorhalle mit darüber liegender Empore. Einschiffiger Chor mit zwei Jochen und 5/8-Schluß; über dem nördlichen Seitenschiff eine Empore. Die Seitenschiffe wurden 1839 nach O durch Einbauten eines Treppenhauses (im N) und der Sakristei (im S) je um ein Joch verkürzt. Belichtung durch Fenster im Chor, in der südlichen Hochschiffwand und in den Seitenschiffen.
+
+Bei der Barockisierung der Kirche schlug man im Chor die Gewölberippen ab, wölbte das Langhaus ein, gliederte die Hochschiffwand durch kannelierte korinthische Pilaster und versah Wand und Gewölbe mit einem Stuckdekor; die Fenster wurden teilweise verändert, über dem nördlichen Seitenschiff errichtete man die Empore.
+
+Die barocke Stuckdekoration ist nicht einheitlich. Der Stuck des Mittelschiffs wird dem seit 1705 in Freising ansässigen Miesbacher Nikolaus Liechtenfurtner zugeschrieben (Thon 1977, S. 48), dem Hubensteiner erstmals eine ganze Gruppe von Dekorationen in Freising und Umgebung zugewiesen hat (1954, S. 126). Eine besonders genaue Übereinstimmung in Aufteilung, Form der Deckenfelder und Einzelmotiven besteht dabei mit dem Stuck in der Pfarrkirche in Neufahrn, einem ebenfalls gotischen Bau, dessen barocke Umgestaltung 1715 datiert ist (s. S. 272). Das Mittelschiff der Benediktuskirche zeigt demgegenüber bereits etwas flachere, bandartige, zur Abstraktion neigende Formen. Die Stuckierung der Seitenschiffe schreibt Richter (1982/83, S. 70) wohl zu Recht Johann Baptist Zimmermann zu. Die Ornamentformen sind seinen Arbeiten im Kreuzgang von 1716 eng verwandt. Thon (1977, S. 48) hält Liechtenfurtner für den Stukkator auch der Seitenschiffe und glaubt, daß hier »Hilfskräfte Zimmermanns Liechtenfurtner vorübergehend unterstützten und die ihnen geläufigen Dekorationsformen verwendeten«.
+
+'''Auftraggeber:''' Johann Franz Eckher von Kapfing und Lichteneck, Fürstbischof von Freising (1695–1727)
+
+'''Autor und Entstehungszeit:''' Entsprechend dem Stuckdekor lassen sich die Fresken, deren Beurteilung allerdings durch ihren schlechten Erhaltungszustand erschwert wird (s. u.), in zwei Gruppen teilen: die in den Seitenschiffen (S 1-6) sind Johann Baptist Zimmermann (*1685 Gaispoint †1758 München) zuzuschreiben und wohl im Anschluß an die Fresken des Kreuzgangs von 1716 entstanden, denen sie im Stil entsprechen; die Darstellungen an der Decke von Chor und Mittelschiff (A, B, a-l), von denen allein die Verkündigung A zur Beurteilung herangezogen werden kann, sollen hier versuchsweise Franz Joseph Lederer (* 1676 Altötting † 1733 Freising) zugewiesen werden. Lederer war seit 1699 Freisingischer Hofmaler, und seine Autorschaft ist schon aus historischen Gründen in Betracht zu ziehen, da Hans Georg Asam, der Freskant der Lyceumsaula (1709) und der Maximilianskapelle (1710) bereits 1711 gestorben war. Zu den Arbeiten Lederers zeigen sich stilistische Ähnlichkeiten etwa in der Bildung des Gewandes mit stark flatternden, sich wie verselbständigenden Teilen, vor allem im Vergleich mit den Deckenfresken in der Frauenkapelle bei St. Martin in Landshut. Diese sind bezeichnet FL 1706 und befassen sich ebenfalls mit einem Marienprogramm.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, B, a-k Tonne mit Stichkappen S<sub>1-6</sub> Kreuzgewölbe, im Bereich der Bildfelder verschliffen Rahmen: A vierpaßförmiger Stuckprofilrahmen, mit Blattgewinde umgeben; B geschwungener Stuckprofilrahmen, in den Hauptrichtungen abgerundet, mit Blattgewinde umgeben; a-k rollwerkartige Stuckkartuschen; 1 dreipaßförmiger Stuckprofilrahmen; S<sub>1-6</sub> querovale glatte Stuckprofilrahmen Technik: Fresko, polychrom
+
+Maße: A Höhe 13,20 m; 2,00 x 2,00 B Höhe 13,40 m; 2,60 x 2,60 S<sub>1-6</sub> Höhe 5,70 m; 1,30 x 1,50
+
+Erhaltungszustand und Restaurierungen: 1839 wurde St. Benedikt, das seit der Säkularisation unbenutzt war, als Schulkirche der Lehrerbildungsanstalt eingerichtet und renoviert. Durch die erwähnten Einbauten von Treppe und Sakristei verschwanden die Fresken der östlichen Seitenschiffkapellen. Anstelle der Treppe war wohl der vierte Kirchenvater, der hl. Gregor dargestellt, in der Sakristei, wo das Gewölbe mit einem Teil des Stucks noch erhalten ist, der hl. Johannes als vierter Evangelist. Das Bildfeld ist hier nicht queroval, sondern quadratisch mit eingezogenen Ecken. Das Fresko ist, wie man an einigen Stellen sehen kann, unter der Tünche noch vorhanden.
+
+
+[[File:Band06_chunk004_p001_img001.jpg|thumb|Decke des Langhauses]]
+<!-- citation-page-bottom: Band06 p151 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=2 -->
+<!-- citation-page-top: Band06 p152 -->
+
+STADT FREISING
+
+<!-- header: STADT FREISING -->
+
+
+[[File:Band06_chunk004_p002_img001.jpg|thumb]]
+
+
+Weitere Restaurierungen erfolgten 1893/99 durch F. Krippner, Freising, und 1947 durch Anton Frank, München, der die Arbeiten Krippners z. T. wieder beseitigte (vgl. Zanker, 1951). Die Geburt Christi (B) hatte Krippner 1899 mit einer neuen Darstellung einer Anbetung der Hirten übermalt. Bei der Restaurierung von 1947 wurden Spuren der ursprünglichen Malerei gefunden, die Darstellung von Krippner abgekratzt und die Reste des freigelegten Freskos durch Frank rekonstruierend ergänzt. Weitgehend neu sind der große Engel, das Christkind, das Körbchen und die linke Hand des hl. Josef.
+
+Auch die Verkündigung (A) wurde 1899 laut einer darauf angebrachten, 1947 jedoch wieder entfernten Inschrift von Krippner restauriert und 1947 erneut von Frank. Wie auch die Embleme (a–l) waren sie in besserem Zustand als die Anbetung. Die Unterschiede in der Schreibweise der Lemmata deuten jedoch ebenfalls auf nachträgliche Veränderungen hin. Bereits 1893 war die Restaurierung der Fresken der Seitenschiffe (S<sub>1–6</sub>) vorausgegangen. Sie waren schlecht erhalten, vor allem auf der Südseite, und wurden bei dieser Gelegenheit weitgehend neu gemalt (eine später beseitigte Signatur von Krippner befand sich in S<sub>1</sub>, Hl. Matthäus). Auf der N-Seite wurde der Hintergrund in S<sub>1</sub> freigelegt.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die Gewölbedekoration des Mittelschiffs weist in jedem Joch einen Deckenspiegel auf. Davon ist im LHs nur der etwas größere mittlere mit einer szenischen Darstellung, der Geburt Christi (B) bemalt, die beiden anderen dagegen nur mit Strahlen, Wolken und Engelsköpfchen. Bei diesen findet sich im Zentrum jeweils eine runde, von mehrfach profiliertem Rahmen umgebene, vertiefte Luftöffnung im Gewölbe. Diese Öffnungen waren ursprünglich mit Holzdeckeln geschlossen, auf die die Taube des Hl. Geistes bzw. Monogramme (ein Marienmonogramm zu sehen bei Schlecht, 10, S. 8) gemalt waren (seit der Restaurierung von 1948/49 mit durchbrochenen Stuckrosetten abgedeckt). Von den beiden Deckenspiegeln im Chor ist der östliche, vierpaßförmige mit einer Verkündigung (A) bemalt, der anschließende unbemalte zeigt um die vertiefte Öffnung einen Kranz von Engelsköpfchen, der in diesem Fall stuckiert ist. Die chronologische Abfolge der Szenen A und B erfolgt ungewöhnlicherweise von O nach W.
+
+
+[[File:Band06_chunk004_p002_img002.jpg|thumb|Decke des Altarraums]]
+<!-- citation-page-bottom: Band06 p153 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=3 -->
+<!-- citation-page-top: Band06 p154 -->
+
+[[File:Band06_chunk004_p003_img001.jpg|thumb]]
+
+[[File:Band06_chunk004_p003_img002.jpg|thumb|B Geburt Christi, g Stella maris und h Fons vitae]]
+
+A VERKUNDIGUNG Das einansichtige Fresko mit Blickrichtung nach O zeigt die Darstellung über zwei Stufen in leichter Untersicht. Rechts kniet Maria am Betpult und wendet sich dem links auf einer Wolke knienden Erzengel Gabriel zu. Von der Taube des hl. Geistes gehen Lichtstrahlen aus. Die im Verhältnis zur Malfläche großen Gestalten sind in einer schmalen Raumschicht angeordnet, rechts ist die Bildbühne durch eine schwere Draperie verhängt. Für den Malstil charakteristisch sind die heftig bewegten, flatternden Gewandteile beim Engel und die kräftige, kompakte Farbigkeit. Maria trägt ein dunkelrotes Kleid, darüber einen blauen Mantel. Die Draperie im Hintergrund ist grün und mit Goldfransen besetzt. Dieser goldbraune Ton wird in der Decke des Betpults, in den Stufen und im gesamten Hintergrund aufgenommen. In Goldgelb abgewandelt erscheint er in der aufflatternden Schärpe des Engels, die dieser über seinem weißen Kleid trägt.
+
+[[File:Band06_chunk004_p003_img003.jpg|thumb]]
+
+B GEBURT CHRISTI Die Komposition des Bildes, das nur noch wenig originale Farbsubstanz aufweist, ist bildparallel angelegt, die Basis liegt im O. In der Bildmitte sieht man Maria und einen kleinen Engel, die gemeinsam das in einem Körbchen liegende Kind anbeten. Hinter Maria steht Joseph, von rechts eilt ein überproportional großer Engel heran. Eine im Hintergrund zwischen zwei Pfeilern aufragende Säule deutet den Stall an.
+
+== a-l MARIENSYMBOLI ==
+
+In emblematischer Form sind Ehrentitel Mariens nach der Lauretanischen und anderen Marienlitaneien wiedergegeben.
+
+[[File:Band06_chunk004_p003_img004.jpg|thumb]]
+
+Die im Chor dargestellten Anrufungen (a-d) entstammen der heute noch gebräuchlichen Lauretanischen Litanei, die 1601 von Papst Clemens VIII. approbiert wurde (»Litaniae Beatissimae Dei Genetricis Mariae, in sacra aede Loretana dici solitae«). In Loreto war außerdem die sog. »Lauretanische Schriftlitanei« in Gebrauch (erstmals 1574 erschienen unter dem Titel: »Litaniae Deiparae Virginis ex Sacra Scriptura depromptae...«). Ihr sind die Sinnbilder PULCHRA UT LUNA und ELECTA UT SOL (e,f) entnommen.
+
+In der Venezianischen Litanei, die bis 1820 bei öffentlichen Bittprozessionen am Markusdom in Gebrauch war, bezeichnet das Elogion 16 Maria als Scala celi (vgl. k).
+
+Der Verkündigung (A) sind Speculum iustitiae (a) und Sedes sapientiae (b) zugeordnet, der Geburt Christi (B) FONS VITAE (h) und STELLA MARIS (g).
+
+== Seitenschiffe ==
+
+<sub>1-3</sub> KIRCHENVÄTER, <sub>4-6</sub> EVANGELISTEN (stark übermalt)
+
+Aus der Folge der ursprünglich vier Kirchenväter bzw. vier Evangelisten wurde der hl. Gregor 1839 zerstört, der hl. Johannes übertüncht. In den erhaltenen Fresken sind die Dargestellten als Einzelfiguren wiedergegeben, Blickrichtung nach O. An den Kirchenvätern <sub>1-3</sub> lassen sich die Eigenheiten von Zimmermanns Frühstil beobachten. Die großen, monumentalen Figuren mit den charakteristischen vortretenden Augen unter schweren Lidern und der bräunlichen Konturierung bei den Inkarnatteilen sind in Untersicht auf Stufen postiert. Sie werden hinterfangen von architektonischen Versatzstücken wie der verkürzt gesehenen Steinbalustrade in <sub>3</sub>, wodurch sie einen festen, unverrückbaren Platz im Bild erhalten. Die lockere, differenzierte Malweise des frühen Zimmermann ist beim hl. Hieronymus, der am besten erhalten ist, zu erkennen.
+
+== Nordseite ==
+
+<sub>1</sub> HL. HIERONYMUS Der Heilige im Kardinalsornat liest aufmerksam in einem großen Buch, das er auf dem
+<!-- citation-page-bottom: Band06 p155 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=4 -->
+<!-- citation-page-top: Band06 p156 -->
+
+<!-- header: STADT FREISING -->
+
+[[File:Band06_chunk004_p004_img001.jpg|thumb]]
+
+[[File:Band06_chunk004_p004_img002.jpg|thumb|f Flecta ut so]]
+
+[[File:Band06_chunk004_p004_img003.jpg|thumb|g Stella mar]]
+
+[[File:Band06_chunk004_p004_img004.jpg|thumb]]
+
+[[File:Band06_chunk004_p004_img005.jpg|thumb|h Fons vitae]]
+
+[[File:Band06_chunk004_p004_img006.jpg|thumb]]
+
+a-l Mariensymbole
+
+Schoß hält. Neben ihm liegt der Löwe. Rechts auf einem Altar sieht man Kruzifix und Totenkopf, davor lehnt der Kardinalshut.
+
+S<sub>2</sub> Hl. AUGUSTINUS Der Blick des hl. Augustinus ist verzückt zum Himmel gerichtet. In der Rechten hält er das Herz, aus dem große Flammen emporlodern, in der Linken eine Schreibfeder und auf dem Schoß ein aufgeschlagenes Buch. Im Hintergrund links stehen dicke Folianten, rechts sieht man die Bischofsmitra.
+
+S<sub>2</sub> HL. AMBROSIUS Der hl. Ambrosius steht zwischen einem Mäuerchen mit dem Bienenkorb und einer von einem Vorhang hinterfangenen Steinbalustrade. Er ist in einen prächtigen, mit blauen und roten Ranken verzierten Rauchmantel gehüllt und trägt die Mitra.
+
+
+== Sindseite ==
+
+
+S<sub>4</sub> HL. MATTHÄUS Der Evangelist sitzt, mit Buch und Schreibfeder in Händen, im Profil nach rechts.
+
+S<sub>5</sub> HL. LUKAS Er hält mit der Rechten ein Buch, neben ihm der Stier.
+
+S<sub>6</sub> HL. MARKUS Der Heilige sitzt neben einem Tisch, auf dem Bücher und Schreibzeug liegen, rechts der Löwe.
+
+
+== Ergänzungen zur Ikonographie ==
+
+
+In der Ausstattung der Kirche ist von jeher auf Maria Theotokos (= Gottesgebärerin) als Hauptpatronin besonders Bezug genommen worden, während das Benediktuspatrozinium kaum eine Rolle spielt. So zeigt das kostbare Glasgemälde von 1412 im Mittelfenster des Chors in drei Medaillons Maria als Tempeljungfrau sowie die Verkündigung und die Geburt Christi. Die beiden letzten Themen waren bereits in der Benediktuskirche des Hochmittelalters dargestellt. Das geht hervor aus Versen, die zu Beginn des 12. Jh. in ein kurz vorher entstandenes Sakramentar der Domkirche eingetragen worden waren (BSB Clm 6427, fol. 66 v). Mit ihnen wird daran erinnert, daß der Priester Engelschalk, Domdekan von 1103 bis 1129, die Benediktuskirche erneuern und mit Altären, sowie mit Gemälden und Inschriften (tituli) schmücken ließ (Schlecht 1910, S.88 f.). Von den vier tituli, die mit dem Ort ihrer Ambringung genannt sind, gedenkt der erste der Renovation des Engelschalk; der letzte bezieht sich auf gemalte Darstellungen und lautet: »In cunis iacet hic quem nunciat angelus istic« (Hier liegt der in der Wiege, den der Engel dort verkündet). Angebracht war diese Inschrift an der Stelle, »ubi pictura fuit nativitatis Christi« (wo sich ein Gemälde mit der Geburt Christi befand). Ob die Themen Geburt und Verkündigung hier in zwei getrennten Darstellungen behandelt waren, wie Schlecht glaubt, oder in einer, bleibt offen.
+
+Eckher besaß nachweislich Kenntnis von dieser Erneuerung des Engelschalk, denn er fand, wie er selbst mitteilt, beim Abbruch des Choraltars des 14. Jh. dort einen Pergamentzettel, auf dem dieser Erneuerung gedacht und der erste der genannten tituli wiedergegeben ist. Die übrigen tituli sind auf diesem Zettel allerdings nicht mitgeteilt, wie Schlecht irrtümlich angibt (ebd. S. 91), sondern es wird Domdekan Otto von Maxlrain lobend erwähnt, der zweite Wohltäter der Kirche, der sie im 14. Jh. neu erbaute (s. o.); beigefügt ist außerdem eine Aufzählung der Weihereliquien, die in dem von Maxlrain gestifteten Altar aufbewahrt waren (der Pergamentzettel befindet sich im BHStA I mit der Signatur: Domkapitel Freising, Urkunde 217).
+
+So wie die Nachricht von den jeweiligen Kirchenerneuerungen tradiert wurde, könnte es auch mit den überlieferten beiden Bildthemen, der Verkündigung und der Geburt Christi, geschehen sein, die allerdings durch das Theotokos-Patrozinium recht naheliegende Sujets sind. Das würde erklären, warum an der Decke, wo fünf Joche für die Ausmalung zur Verfügung standen, nur zwei szenische Darstellungen wiedergegeben sind, nämlich die im genannten Titulus angesprochene Verkündigung im Chor (A) und die Geburt Christi im Zentrum des Mittelschiffs (B), während die übrigen Joche nur von Engelsköpfchen umgebene Öffnungen im Gewölbe aufweisen, die durch bemalte Holzdeckel mit der Geisttaube und mit Monogrammen geschlossen waren.
+
+
+[[File:Band06_chunk004_p004_img007.jpg|thumb|Rose unter Dornen]]
+<!-- citation-page-bottom: Band06 p157 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=5 -->
+<!-- citation-page-top: Band06 p158 -->
+
+<!-- header: STADT FREISING -->
+
+
+== STADT FREISING ==
+
+
+
+[[File:Band06_chunk004_p005_img001.jpg|thumb|S. Markus]]
+
+
+
+[[File:Band06_chunk004_p005_img002.jpg|thumb]]
+
+
+
+[[File:Band06_chunk004_p005_img003.jpg|thumb]]
+
+
+
+[[File:Band06_chunk004_p005_img004.jpg|thumb|S. Lukas]]
+
+
+
+[[File:Band06_chunk004_p005_img005.jpg|thumb|S<sub>1-3</sub> Kirchenväter, S<sub>4-6</sub> Evangelister]]
+
+
+
+[[File:Band06_chunk004_p005_img006.jpg|thumb]]
+
+
+Im Zusammenhang mit den Darstellungen der Lauretanischen Mariensymbole ist darauf hinzuweisen, daß sich auf dem Hochaltar der Benediktuskirche in der Barockzeit die spätgotische Figur einer sitzenden Maria mit Kind befand, die mit kostbaren Seidenkleidern und echtem Haar ausgestattet war und als Gnadenbild verehrt wurde (heute ohne textile Ausstattung im Dom auf dem Mariä-Opferungs-Altar). Erstmals 1649 während der Pest und später zu anderen Anlässen wurde die Gruppe auf der großen Chortreppe des Doms zur Verehrung ausgesetzt (daher ›Unsere Liebe Frau auf der Stiege‹ genannt) oder in Prozessionen durch die Stadt getragen. Der Freisinger Weihbischof Johann Sigmund Freiherr von Zeller († 1729) hat dieses schon 1710 als wundertätig bezeichnete und vom Volk hoch verehrte Gnadenbild so sehr geschätzt, daß er es als Universalerbe einsetzte und sich in St. Benedikt begraben ließ. Er stiftete in seinem Testament (1721) u. a. für alle Samstage und Vorabende von Marienfesten Lauretanische Litaneien mit Salve Regina, die von sechs Priestern der Klerikergemeinschaft zu beten waren {ZITAT|000} (Schmidtsche Matrikel; Anton Bauer, Der Dom als Wallfahrtskirche, in: Der Freisinger Dom. Beiträge zu seiner Geschichte. Festschrift zum 1200jährigen Jubiläum der Translation des hl. Korbinian. Hrsg. v. Joseph A. Fischer, Freising 1967, S. 278-81).
+
+
+== Literatur ==
+
+
+Schmidtsche Matrikel, Bd 1, S. 86 f. Deutinger, Bd 1, S. 86. Mayer-Westermayer, Bd 1, S. 431. KDB I OB (1), S. 370–372.
+
+Schlecht, Joseph, Monumentale Inschriften im Freisinger Dom. IV. Der Alte Dom (Die Benediktuskirche), in: Sammelblatt des Historischen Vereins Freising, 8, 1910, S. 85-91, 104.
+
+Zanker, Josef, Die Renovierung der Benediktuskirche, in: Frigisinga, 51, Nr. 2-3, März 1951, S. 2-4, 5-17 und Abb. S. 10: Nr. 4. Mai 1951, S. 8–12.
+
+Abele/Lill 1951, S. 57-59.
+
+Dehio-Gall OB, S. 73.
+
+Hubensteiner 1954, S. 128.
+
+Benker, Sigmund, Alte und neue Kunst in Freising, in: Bayerland 57, 1955, S. 381.
+
+Benker 1975, S. 10 und S. 63, mit Abb.
+
+Thon, Christina, Johann Baptist Zimmermann als Stukkator, München-Zürich 1977, S. 47 f.
+
+Richter, Gisela, Johann Baptist Zimmermann als Freskant. Das Frühwerk. Diss. München 1982/83, S. 66-77, 197 f., Kat. 7a.
+
+Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann, Regensburg 1985, S. 308.
+
+Elsen, Alois, Michael Höck und Sigmund Benker, Der Mariendom zu Freising (= KKF Nr. 200), München-Zürich 1986, S. 27.
+
+Ramisch, Hans, Der Freisinger Dom und seine Nebenkirchen im 14. und 15. Jahrhundert, in: Kat. Freising 1989, S. 27. - ebd., S. 410, Rundgang 26 [Hans Ramisch].
+
+Dehio 1990, S. 314.
+
+Götz 1992, S. 290.
+
+Hahn, Sylvia, Johann Baptist Zimmermann in Freising, in: Beiträge Freising 1994, S. 276.
+
+B.V.-K
+<!-- citation-page-bottom: Band06 p159 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=6 -->
+{{End}}

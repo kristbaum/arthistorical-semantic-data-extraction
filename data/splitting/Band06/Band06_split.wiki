@@ -87,9 +87,19 @@ Die Drucklegung wurde von der Stadt Freising, dem Landkreis Freising und den Spa
 [[File:Band06_chunk001_p004_img001.jpg|thumb|Wolf-Christian von der Mülbe * 15. 10. 1941 † 1. 11. 1997. Zeichnung von Alois Harbeck]]
 
 
-
-== VORWORT DANK ==
-
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort Dank (Band 6)
+|davor=
+|danach=Aich, Filialkirche St. Georg
+|AutorIn1=Bauer, Hermann
+|AutorIn2=Rupprecht, Bernhard
+|AutorIn3=Büttner, Frank
+}}
 
 Freising, seit 739 Bischofssitz, war seit dem 13. Jahrhundert Hauptort des Hochstifts Freising, nachdem der Bischof zum weltlichen Fürsten erhoben worden war und für sein Territorium die volle Landeshoheit und Reichsunmittelbarkeit erlangt hatte. Während die Diözese einen Teil des heutigen Oberbayern mit der Hauptstadt München umfaßt, waren die weltlichen Besitzungen klein und weit verstreut. Der heutige Landkreis Freising (mit der kreisfreien Stadt Freising) umfaßt von diesem ehemaligen Hochstiftsgebiet die Stadt Freising mit ihrem Burgfrieden, den nördlichen Teil der Grafschaft Ismaning sowie neun von zwölf Freisinger Hofmarken. Das Territorium war ringsum von wittelsbachischen Gebiet umgeben. Davon gehören heute ein großer Teil der in Westen und Norden gelegenen ehemaligen Gerichte Kranzberg und Moosburg ebenfalls zu diesem Landkreis, während die ursprünglich ebenfalls auf bayerischem Gebiet gelegenen Klöster Neustift und Weihenstephan heute Teil der Stadt Freising sind.
 
@@ -117,7 +127,7 @@ Wolf-Christian von der Mülbe hatte gerade die Fachakademie für Photographie in
 
 Hermann Bauer / Frank Büttner / Bernhard Rupprecht
 <!-- citation-page-bottom: Band06 p7 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band06 p8 -->
 
@@ -808,7 +818,7 @@ der
 |Lemma=Aich, Filialkirche St. Georg
 |Typ=Sakral
 |Ort=Aich
-|davor=
+|davor=Vorwort Dank (Band 6)
 |danach=Allershausen, Pfarrkirche St. Joseph
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -4309,21 +4319,6 @@ Wagner-Langenstein, Eva, Georg Asam 1649–1711. Ein Beitrag zur Entwicklung der
 
 <!-- header: ALTSTADT -->
 
-{{End}}
-
-{{Artikel
-|Band=6
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=175
-|Originalseitenbis=187
-|Lemma=Freising, Neustift bei Freising, ehem. Klosterkirche
-|Typ=Sakral
-|Ort=Freising
-|davor=Freising, Altöttinger Kapelle
-|danach=Freising, Weihenstephan, Ehem. Benediktinerkloster, jetzt Technische Universität, Festsaal
-|AutorIn1=Bauer-Wild, Anna
-}}
 
 Altöttinger Kapelle, Brunnhausgasse 2, vor dem Münchner Tor (daher auch Münchner Kapelle genannt) an der Moosach gelegen, im Baukomplex des Vincentinums, Stadtpfarrei St. Georg; z. Z. der Ausmalung gehörte die Kapelle zum sog. Bruderhaus und war nach einer Kopie des Altöttinger Gnadenbilds benannt, die sich auf dem Altar befindet. Nach der Säkularisation war die Kapelle als Heustadl profaniert, 1845 wurde sie ihrem ursprünglichen Zweck wieder zugeführt. Seit 1854 im Besitz des Vincentiusvereins
 
@@ -4373,8 +4368,21 @@ Dehio 1990, S. 318.
 
 CD
 
+{{End}}
 
-== Neustift bei Freising ==
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=175
+|Originalseitenbis=187
+|Lemma=Freising, Neustift bei Freising, ehem. Klosterkirche
+|Typ=Sakral
+|Ort=Freising
+|davor=Freising, Altöttinger Kapelle
+|danach=Freising, Weihenstephan, Ehem. Benediktinerkloster, jetzt Technische Universität, Festsaal
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 
 Ehem. Prämonstratenser-Abtei, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei St. Georg in Freising, Klosterhofmark Neustift. Gericht Kranzberg
@@ -7179,23 +7187,6 @@ Dehio 1990, S. 969 f.
 
 <!-- header: THALHAUSEN -->
 
-{{End}}
-
-{{Artikel
-|Band=6
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=291
-|Originalseitenbis=296
-|Lemma=Thalhausen, Schlosskapelle St. Anna
-|Typ=Sakral
-|Ort=Thalhausen
-|davor=Schlipps, Filialkirche St. Silvester
-|danach=Tünzhausen, Filialkirche St. Petrus und Paulus
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-}}
-
 Filialkirche, Pfarrei Hohenkammer, Gemeinde Hohenkammer, Erzdiözese München und Freising. Schlipps gehörte bis 1803 zur hochfürstlich Freisingischen Hofmark Massenhausen. Gericht Kranzberg
 
 '''Patrozinium:''' St. Silvester (ursprünglich St. Thomas)
@@ -7246,6 +7237,23 @@ Pfarrarchiv Hohenkammer, Akt Kirchenrestauration. AEM, Kunsttopographie, Dekanat
 Schmidtsche Matrikel, Bd 2, S. 190. Mayer-Westermayer, Bd 1, S. 157. Goerge, Rudolf, Die Kirchen der Pfarrei Hohenkammer (= KKF Nr. 1323), München-Zürich 1981, S. 18 f. Denkmäler in Bayern. Oberbayern, München 1986, S. 279. Dehio 1990, S. 1080.
 
 Schloßkapelle, Nebenkirche der Pfarrei Wippenhausen Gemeinde Kranzberg, Erzdiözese München und Freising Das Schloß ist seit 1985 in Besitz der Erzdiözese und wird als Jugendhaus genutzt. Z.Z. der Ausmalung gehörte die Schloßkapelle zur Pfarrei Sünzhausen, die seit 1220 dem Stift St. Veit in Freising inkorporiert war. In der Kapelle befand sich eine Reliquie der hl. Anna, die als wundertätig verehrt wurde («Altare maius est dedicatum honoribus S. Annae hic beneficiis clarae, de cuius ossibus etiam hic habetur et colitur particula», Schmidt, S. 341).
+
+{{End}}
+
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=291
+|Originalseitenbis=296
+|Lemma=Thalhausen, Schlosskapelle St. Anna
+|Typ=Sakral
+|Ort=Thalhausen
+|davor=Schlipps, Filialkirche St. Silvester
+|danach=Tünzhausen, Filialkirche St. Petrus und Paulus
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+}}
 
 Thalhausen war Hofmark, ab 1701/05 im Besitz von Anton Benno Höger von Anzing, ab 1735 in dem der Grafen Hörwarth von Hohenburg. 1749 kam die Hofmark an die Freiherren von Burgau, 1774 an die Reichsgrafen von und zu Leonrod; ab 1786 im Besitz der Grafen Holnstein. Gericht Kranzberg
 
@@ -7420,7 +7428,7 @@ A.B./C.B.
 |Typ=Sakral
 |Ort=Tünzhausen
 |davor=Thalhausen, Schlosskapelle St. Anna
-|danach=
+|danach=Ortsregister (Band 6)
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Volk-Knüttel, Brigitte
@@ -7586,11 +7594,18 @@ A.B./C.B./B
 <!-- citation-page-top: Band06 p304 -->
 
 
-== REGISTER ==
+{{End}}
 
-
-
-== Ortsregister ==
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=305
+|Originalseitenbis=306
+|Lemma=Ortsregister (Band 6)
+|davor=Tünzhausen, Filialkirche St. Petrus und Paulus
+|danach=Personenregister (Band 6)
+}}
 
 
 Kursivschrift und Kursivzahlen weisen auf die in diesem Band behandelten Objekte
@@ -7789,8 +7804,18 @@ Walchensee 272 Walterskirchen 30 Wartenberg/Lkr. Erding 20, 280 Weihenstephan �
 Zolling 200, 202 f., 231 f., 234, 238 f.
 
 
-== Personenregister ==
+{{End}}
 
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=307
+|Originalseitenbis=309
+|Lemma=Personenregister (Band 6)
+|davor=Ortsregister (Band 6)
+|danach=Ikonographisches Register (Band 6)
+}}
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Maler bzw. auf die behandelten Objekte
 
@@ -8308,8 +8333,18 @@ Zödl, Gregor OSB, Konventuale in Benediktbeuern 172
 
 <!-- header: IKONOGRAPHISCHES REGISTER -->
 
+{{End}}
 
-== Ikonographisches Register ==
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=310
+|Originalseitenbis=318
+|Lemma=Ikonographisches Register (Band 6)
+|davor=Personenregister (Band 6)
+|danach=Embleme-Register (Band 6)
+}}
 
 
 Abiathar, Hoherpriester 248 Abraham 64 mit Isaak und Jakob als Präfiguration der Dreifaltigkeit 114, 118 als Allusion auf Fides 114, 118 Adalbert, Räuber 58, 88 wird am Hof Pippins präsentiert 88 nimmt die Mönchskutte 88 Adel, bayrischer Verherrlichung durch Wappen 119 Adler → Zuwendung zu Gott 218 → Prudentia/Anna und Maria 292, 295 → Johannes Evangelist 75, 122, 126, 185, 282 Adlerflügel → Apokalyptisches Weib 284 Abtissinnenstab → Walburga von Eichstätt 45 Aegeas, Statthalter von Patras 41 f. Aegidius von St. Gilles, hl. 100, 102, 189 Alteste, Vierundzwanzig 75 Apfel der Hesperiden → Herkules 84 Agatha von Catania, hl. 108 Alexander I., hl., Papst 70 Allegorie, Allegorien des Bistums Freising 74 der Tugenden Korbinians 78, 79 zur Anbetung des Lammes 78, 83 f. Divina Sapientia 78 Divinitas 78 bezogen auf Korbinian 78-84, 120 Allerheiligenbild 144 Alt und Neu, Anfang und Ende 118 Altar, alttestamentlicher 102 Altarpatrone des Freisinger Doms 98-103, 106, 108 Altarssakrament, Eucharistie → Norbert von Magdeburg 187 Alto, hl., Gründer von Altomünster Glorie 188 Alttestamentliche Szenen David und Goliath (modern) 281 Jakob und Esau (modern) 281 Kundschafter mit der Traube (modern) 262 Mannaregen (modern) 262 Ambrosius von Mailand, hl., Kirchenvater 36, 157 f., 237, 239, 262, 264 Amor ovium (Hirtenliebe) 67, 69 Amor carnalis 168 Amor divinus 83 f., 116 Ampel, gläserne → Nonnosus Anbetung des Lammes 75, 77 Allegorien, der Anbetung des Lammes zugeordnet 78, 83 f. Andachtsbildchen 236 Andreas, hl., Apostel 41, 251 Zyklus 41–43 Berufung 41, 43 Disput mit Aegeas 41–43 Martyrium 42 Glorie 42 f. Andreaskreuz in X-Form → Andreas 43 Anker → Spes 70, 186, 240, 256 Anna, hl. Verkündigung an Anna 293–95 Begegnung an der Goldenen Pforte 284, 295 Anna und Joachim halten das Kind Maria 83 f. Tempelgang Mariens 293–95 Vermählung Mariens 293–95 Glorie 293, 295 Stammbaum Jesu 296 als Ahnfrau Jesu 296 als Patronin 293–95 Tugenden Annas und Mariens 292, 295 Namen Anna 293, 295 Anrufung Gottes (Invocatio) 82, 84 Anselm von Canterbury, hl., Kirchenlehrer 302 f. Anserich, Knecht Korbinians 88 fängt einen großen Fisch 89 Baum, grün → Spes 186 Bauplan von Prémontré 184 f. Benedikt von Nursia, hl., Gründer des Benediktinerordens in der Dornenhecke 189, 190, 192 Glorie/Verherrlichung 188 f., 190-92, 199 aus seinem Körper wachsen Rosen/Vision der Gertrud von Helfta 192, 198 Benediktiner als Lehrer am Lyzeum Freising 168 auf dem Weg zu Gott 192–98 Spiritualität des Benediktinerordens 192–98 Benediktuskreuz 303 Bernhard von Clairvaux, hl., Gründer des Zisterzienserordens 302 f. Weihnachtsvision 189 Lactatio 189 Glorie 118 Besessener, Besessene Heilung der Besessenen von Gerasa 206, 208 Korbinian heilt Besessene 98 Bienenkorb, Bienenstock 190, 192 als Sinnbild des Klosterlebens 194 → Ambrosius 36, 157, 262 Bischof von Freising Uberführung des Wilgefortis-Kreuzes 278 Bittflehende 37 f., 45, 110, 204, 236, 278, 295 Bittschrift der Gürtelbruderschaft 236 Blick zum Himmel → Oratio 78 Blindenheilung 208 Blitz, die Laster stürzend → Zelus in puniendo 67 Blumenbett, mystisch, der Seele 192 Blumenkranz im Haar → Musik 84 Bogen → Amor carnalis 168 Bonifatius, hl. 128 Brandopfer Noah 168 Opfer der Eckherschen Rauten 168 Bräutigam, Sponsa/Sponsus Christus als Bräutigam 126 Gleichsetzung Ecclesia/Braut des Hohenliedes 84 Dom von Freising als Braut 112, 118 Fürstbischof Eckher als Sponsus des Freisinger Doms 118 f.
@@ -8627,7 +8662,18 @@ Cäcilia erscheint dem Friedrich von Hallum Holzner von Schönbichl 291 f., 294 
 mit Sternen besetzt → Felicitas aeterna 84 Wiege Johannes des Täufers 102, 106 Wies bei Freising als Gnadenort 204–07 Volto Santo/Wilgefortis/St. Kümmernis 271–79 Aufnahme der hl. Wilgefortis in den Himmel 275 f., 278 Auffindung des Gnadenbildes 274, 276 Erhebung des Gnadenbildes 275, 276 f. Ankunft des Gnadenbildes in Neufahrn 276-78 Heilung der Blinden und des Krummen 276 Die Erblindung des Malers 276, 278 Die Heilung des Malers 276, 278 Wissenschaft Huldigung an Wissenschaft und Tugend 167-69, 171 Weg zu Wissenschaft und Tugend 169, 172 Glaube und Wissenschaft führen zum Ziel 169, 189 bekämpft das Böse 172 in Gestalt Minervas 172 Wolfgang von Regensburg, hl. 100 Würde (Dignitas) 78, 81 Würfel → Arma Christi 228 Wurzel Jesse 286 Zacharias schreibt den Namen Johannes 102 Zange → Apollonia 108 → Arma Christi 204 Zauberbuch 94 Zauberei, Zauberkunst, Magie 67 Zauberin, Zauberer 84, 93 f. Zaumzeug → Schweigen im Gehorsam gegen Gott 78 → Korbinian zähmt den Bären 88 Zebedäus 251 Zeder, Blatt und Frucht → Misericordia 78 Zelle des hl. Korbinian im Bau 91 Zelus 81, 84 Zelus in puniendo 67
 
 
-== Embleme-Register ==
+{{End}}
+
+{{Artikel
+|Band=6
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=319
+|Originalseitenbis=319
+|Lemma=Embleme-Register (Band 6)
+|davor=Ikonographisches Register (Band 6)
+|danach=
+}}
 
 
 Stat firma tamen – Fides auf einem Fels im Meer 2 Oculi eius semper ad Dominum – Adler fliegt zur Sonne 2 Inclinate resurgo – Palme, deren Zweige beschwert sind 2 Infima spernit - Paradiesvogel 2
