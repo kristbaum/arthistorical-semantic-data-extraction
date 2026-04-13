@@ -101,6 +101,18 @@ Die Drucklegung wurde vom Ernst von Siemens Kunstfonds unterstützt
 
 == VORWORT DANK ==
 
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort Dank (Band 5)
+|davor=
+|danach=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis
+|AutorIn1=Bauer, Hermann
+|AutorIn2=Rupprecht, Bernhard
+}}
 
 Der vorliegende Band 5 behandelt die barocken Deckenmalereien des Landkreises Dachau. Der heutige Landkreis setzt sich zusammen aus der nördlichen Hälfte des alten Gerichts Dachau, aus dem ehemaligen Gericht Kranzberg und aus einem kleinen Teil des Gerichts Pfaffenhofen (Kollbach). Bei der Landkreisreform von 1972 kam ein Teil des ehemaligen Landkreises Aichach (mit Altomünster und Kleinberghofen) und ein Teil des ehemaligen Landkreises Friedberg/Schwaben (mit Sittenbach, Unterumbach, Egenburg und Pfaffenhofen) zum Landkreis Dachau, dessen westliche Grenze jetzt an den Regierungsbezirk Schwaben stößt. Diese Teile gehörten im 18. Jahrhundert zum Gericht Aichach bzw. zum Gericht Friedberg.
 
@@ -126,6 +138,7 @@ Wir freuen uns über die gute Zusammenarbeit mit dem Hirmer Verlag und danken de
 
 Hermann Bauer/Bernhard Rupprecht
 <!-- citation-page-bottom: Band05 p7 -->
+{{End}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band05 p8 -->
@@ -739,7 +752,7 @@ historia lombardica dicta ..., hg. von
 |Lemma=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis
 |Typ=Sakral
 |Ort=Ainhofen
-|davor=
+|davor=Vorwort Dank (Band 5)
 |danach=Altomünster, Pfarr- und Klosterkirche St. Alto
 |AutorIn1=Bauer-Wild, Anna
 }}
@@ -856,12 +869,12 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=24
-|Originalseitenbis=50
+|Originalseitenbis=46
 |Lemma=Altomünster, Pfarr- und Klosterkirche St. Alto
 |Typ=Sakral
 |Ort=Altomünster
 |davor=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis
-|danach=Egenburg, Pfarrkirche St. Stephanus
+|danach=Altomünster, Pfarr- und Klosterkirche St. Alto, Frauenchor
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -1235,6 +1248,21 @@ Es kann nicht übersehen werden, daß dieses Programm zwar mit seiner Fülle und
 
 Literatur s. S. 49 Literatur zu Birgitta von Schweden s. S. 50
 
+{{End}}
+
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=47
+|Originalseitenbis=50
+|Lemma=Altomünster, Pfarr- und Klosterkirche St. Alto, Frauenchor
+|Typ=Sakral
+|Ort=Altomünster
+|davor=Altomünster, Pfarr- und Klosterkirche St. Alto
+|danach=Egenburg, Pfarrkirche St. Stephanus
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 [[File:Band05_chunk001_p024_img001.jpg|thumb|A Mystische Vermählung der hl. Birgitta, Kuppelfresko im Frauenchor]]
 
@@ -1434,7 +1462,7 @@ A R
 |Lemma=Egenburg, Pfarrkirche St. Stephanus
 |Typ=Sakral
 |Ort=Egenburg
-|davor=Altomünster, Pfarr- und Klosterkirche St. Alto
+|davor=Altomünster, Pfarr- und Klosterkirche St. Alto, Frauenchor
 |danach=Eisenhofen, Filialkirche St. Alban
 |AutorIn1=Sauerländer, Brigitte
 }}
@@ -1864,29 +1892,13 @@ Schmidtsche Matrikel, Bd 2, S. 340. Mayer-Westermayer, Bd 3, S. 155. Gruber, Max
 |Typ=Sakral
 |Ort=Günding
 |davor=Grossberghofen, Kuratiekirche St. Georg
-|danach=Haimhausen, Schloss 
+|danach=Haimhausen, Schloß, Schloßkapelle
 |AutorIn1=Bauer-Wild, Anna
 }}
 
 <!-- citation-page-top: Band05 p66 -->
 
 <!-- header: GUNDING -->
-
-{{End}}
-
-{{Artikel
-|Band=5
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=67
-|Originalseitenbis=82
-|Lemma=Haimhausen, Schloss 
-|Typ=Profan
-|Ort=Haimhausen
-|davor=Günding, Filialkirche St. Vitus
-|danach=Haimhausen, Klausenkapelle Maria von Loreto
-|AutorIn1=Volk-Knüttel, Brigitte
-}}
 
 Filialkirche, Pfarrei Mitterndorf, Gemeinde Bergkirchen. Erzdiözese München und Freising; z. Z. der Ausmalung war Mitterndorf Monatspfarrei. Gericht Dachau, Amt Schwabnausen
 
@@ -1924,9 +1936,21 @@ Schmidtsche Matrikel, Bd 2, S. 171. Mayer-Westermayer, Bd 1, S. 176. Kunst- und 
 
 A.B.
 
+{{End}}
 
-== HAIMHAUSEN ==
-
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=67
+|Originalseitenbis=74
+|Lemma=Haimhausen, Schloß, Schloßkapelle
+|Typ=Profan
+|Ort=Haimhausen
+|davor=Günding, Filialkirche St. Vitus
+|danach=Haimhausen, Schloss, Festsaal im zweiten Obergeschoß
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
 
 Schloß, Privatbesitz Gemeinde Haimhausen, Hauptstr. 1 Ehem. Hofmarkssitz der Grafen von Haimhausen Gericht Dachau
 
@@ -2048,6 +2072,22 @@ Parallele in der Wiedergabe des Hl. Geistes in Jünglingsgestalt, wie er der sel
 
 Literatur s. S. 82
 
+{{End}}
+
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=75
+|Originalseitenbis=79
+|Lemma=Haimhausen, Schloss, Festsaal im zweiten Obergeschoß
+|Typ=Profan
+|Ort=Haimhausen
+|davor=Haimhausen, Schloß, Schloßkapelle
+|danach=Haimhausen, Schloss, Drei Adaptierte Deckenbilder
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
 Johann Georg Bergmüller, Vier Jahreszeiten, Radierungen nach dem Fresko im Festsaal
 
 
@@ -2154,10 +2194,26 @@ Literatur s. S. 82
 <!-- header: HAIMHAUSEN -->
 
 
-[[File:Band05_chunk002_p016_img001.jpg|thumb|B Fünf Putten mit Birnen und Trauben, Deckenbild im Vorraum zum Speisesaal]]
+{{End}}
 
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=80
+|Originalseitenbis=82
+|Lemma=Haimhausen, Schloss, Drei Adaptierte Deckenbilder
+|Typ=Profan
+|Ort=Haimhausen
+|davor=Haimhausen, Schloss, Festsaal im zweiten Obergeschoß
+|danach=Haimhausen, Schloß, Klausenkapelle Maria von Loreto
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
 
 Drei Deckenbilder aus anderem Zusammenhang, für Haim hausen adaptiert
+
+[[File:Band05_chunk002_p016_img001.jpg|thumb|B Fünf Putten mit Birnen und Trauben, Deckenbild im Vorraum zum Speisesaal]]
+
 
 '''Zum Bauwerk:''' Nach der Erwerbung durch C. E. James Haniel 1892 wurde das Schloß durch den Regensburger Architekten Max Schultze (* 1845 † 1926) umgestaltet, im Innern die Raumanordnung zum Teil geändert und eine neue Stuckierung der Decken in Rokoko-Formen durchgeführt, vor allem im nördlichen Teil des ersten Obergeschosses (Kretzschmar 1986, S. 61 ff.). Diese Veränderungen betreffen besonders jene Räume, in denen die aus dem 18. Jh. stammenden Gemälde A, B und C angebracht sind, die wohl zu diesem Zeitpunkt hier eingelassen wurden; A in dem durch die Zusammenlegung von drei Räumen entstandenen Speisesaal in der NW-Ecke des ersten Obergeschosses, B im südlich angrenzenden Vorraum und C, das Pendant zu B, an der Decke des Oratoriums neben der Kapelle. Es ist daher ungewiß, ob diese Gemälde aus der ursprünglichen Ausstattung des Schlosses stammen oder ob sie durch Haniel, der auch Antiquitäten erwarb (Frankenburger 1931, S. 52 f.), zur Dekoration der Räume angekauft wurden.
 
@@ -2205,29 +2261,14 @@ A MANNALESE (2 Mos 16) Die Israeliten sammeln in Körben das Manna, das Gott vom
 |Chunkseite=
 |Originalseitenvon=82
 |Originalseitenbis=82
-|Lemma=Haimhausen, Klausenkapelle Maria von Loreto
+|Lemma=Haimhausen, Schloß, Klausenkapelle Maria von Loreto
 |Typ=Sakral
 |Ort=Haimhausen
-|davor=Haimhausen, Schloss 
+|davor=Haimhausen, Schloss, Drei Adaptierte Deckenbilder
 |danach=Hirtlbach, Pfarrkirche St. Valentin
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-{{End}}
-
-{{Artikel
-|Band=5
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=83
-|Originalseitenbis=85
-|Lemma=Hirtlbach, Pfarrkirche St. Valentin
-|Typ=Sakral
-|Ort=Hirtlbach
-|davor=Haimhausen, Klausenkapelle Maria von Loreto
-|danach=Inhausen, Filialkirche Maria Himmelfahrt
-|AutorIn1=Bauer-Wild, Anna
-}}
 
 Klausenkapelle, sog. »Butzküah« (= Tannenzapfen)-Kapelle, an die ehem. Einsiedlerklause (heute Schloßwirtschaft) angebaut, in der NO-Ecke des Schloßparks rechts von der Einfahrt gelegen
 
@@ -2305,7 +2346,21 @@ B. V.-K.
 
 
 == HIRTLBACH ==
+{{End}}
 
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=83
+|Originalseitenbis=85
+|Lemma=Hirtlbach, Pfarrkirche St. Valentin
+|Typ=Sakral
+|Ort=Hirtlbach
+|davor=Haimhausen, Schloß, Klausenkapelle Maria von Loreto
+|danach=Inhausen, Filialkirche Maria Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 Pfarrkirche, Pfarrverband Erdweg, Gemeinde Markt Indersdorf, Erzdiözese München und Freising; z. Z. der Ausmalung gehörte Hirtlbach zur Fürstbischöflich Freisingischen Hofmark Eisenhofen, die mit den Hofmarken Kleinberghofen und Asbach das Pflegamt Eisenhofen bildete. Der Fürstbischof hatte als Hofmarksherr das Besetzungsrecht der Pfarrei. Gericht Kranzberg
 
@@ -2580,7 +2635,7 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 |Typ=Sakral
 |Ort=Kleinberghofen
 |davor=Inhausen, Filialkirche Maria Himmelfahrt
-|danach=Indersdorf, ehem. Stiftskirche Mariä Himmelfahrt
+|danach=Indersdorf, Kloster, ehem. Stiftskirche Mariä Himmelfahrt
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -2728,12 +2783,12 @@ Ulrich, Josef, Pfarrkirche St. Martin in Kleinberghofen (Faltblatt als Kirchenf�
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=98
-|Originalseitenbis=139
-|Lemma=Indersdorf, ehem. Stiftskirche Mariä Himmelfahrt
+|Originalseitenbis=131
+|Lemma=Indersdorf, Kloster, ehem. Stiftskirche Mariä Himmelfahrt
 |Typ=Sakral
 |Ort=Indersdorf
 |davor=Kleinberghofen, Pfarrkirche St. Martin
-|danach=Indersdorf, Klostergebäude
+|danach=Indersdorf, Kloster, Sakristei
 }}
 
 <!-- citation-page-top: Band05 p98 -->
@@ -3216,6 +3271,20 @@ Literatur s. S. 150
 
 <!-- header: KLOSTER INDERSDORF -->
 
+{{End}}
+
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=132
+|Originalseitenbis=134
+|Lemma=Indersdorf, Kloster, Sakristei
+|Typ=Sakral
+|Ort=Indersdorf
+|davor=Indersdorf, Kloster, ehem. Stiftskirche Mariä Himmelfahrt
+|danach=Indersdorf, Kloster, Rosenkranzkapelle
+}}
 
 [[File:Band05_chunk003_p017_img001.jpg|thumb]]
 
@@ -3267,6 +3336,20 @@ Bei der Auswahl und der Ausarbeitung des Programms wurden für die Lebensgeschic
 
 Von den beiden von Günther selbst gemalten Fresken an der Hochschiffwand wurde dem Thema von W<sub>14</sub>, Tod des Augustinus, in Rottenbuch das zentrale, große Deckenfeld des Mittelschiffes eingeräumt und es dabei über eine reine Darstellung des faktischen Geschehens hinaus zur Glorie des Heiligen gesteigert. Die Themen Augustinus als Kirchenlehrer und Verteidiger des Glaubens (A) und Augustinus als Patron seiner Ordensfamilie (B) wurden von Günther in Neustift wie in Indersdorf in zwei Darstellungen gestaltet, in Rottenbuch hingegen zu einem Deckenbild vereinigt. Das Motiv der huldigenden Erdteile, das in Indersdorf auf die Ecclesia bezogen ist, verbindet Günther sonst meist mit der Gottesmutter, so auch in Rottenbuch im Deckenfresko des Chors (CBD Bd 1, S. 484, 496). Die in Indersdorf über dem Presbyterium dargestellte Vision des Heiligen (C) findet sich in Rottenbuch in einem kleineren Deckenfeld des Langhauses (ebd., S. 478 f., 492).
 
+{{End}}
+
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=135
+|Originalseitenbis=139
+|Lemma=Indersdorf, Kloster, Rosenkranzkapelle
+|Typ=Sakral
+|Ort=Indersdorf
+|davor=Indersdorf, Kloster, Sakristei
+|danach=Indersdorf, Kloster, Klostergebäude
+}}
 
 == Rosenkranzkapelle ==
 
@@ -3361,12 +3444,12 @@ Den Armen Seelen aus dem Fegfeuer.
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=140
-|Originalseitenbis=153
-|Lemma=Indersdorf, Klostergebäude
+|Originalseitenbis=144
+|Lemma=Indersdorf, Kloster, Klostergebäude
 |Typ=Sakral
 |Ort=Indersdorf
-|davor=Indersdorf, ehem. Stiftskirche Mariä Himmelfahrt
-|danach=Kollbach, Pfarrkirche St. Martin
+|davor=Indersdorf, Kloster, Rosenkranzkapelle
+|danach=Indersdorf, Kloster, ehem. Winterrefektorium
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
@@ -3513,6 +3596,24 @@ AFRA BRUNNER: Goldener Brunnen mit Schöpfvorrichtung auf grünem Berg vor blaue
 (Zu den Grabsteinen und ihrer Abfolge s. KDB, S. 297-300. - Die Reihenfolge auf dem Stich in der Morhart-Chronik Taf. 11, entspricht der tatsächlichen Aufstellung nur teilweise.)
 
 Literatur s. S. 150 f.
+
+{{End}}
+
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=145
+|Originalseitenbis=153
+|Lemma=Indersdorf, Kloster, ehem. Winterrefektorium
+|Typ=Sakral
+|Ort=Indersdorf
+|davor=Indersdorf, Kloster, Klostergebäude
+|danach=Kollbach, Pfarrkirche St. Martin
+|AutorIn1=Volk-Knüttel, Brigitte
+}}
+
+Ehemaliges Winterrefektorium im Erdgeschoß
 
 [[File:Band05_chunk003_p023_img001.jpg|thumb|Ehemaliges Winterrefektorium im Erdgeschoß]]
 
@@ -3710,7 +3811,7 @@ Berghammer, Josef, Markt Indersdorf, ehem. Augustinerchorherren-Stiftskirche, je
 |Lemma=Kollbach, Pfarrkirche St. Martin
 |Typ=Sakral
 |Ort=Kollbach
-|davor=Indersdorf, Klostergebäude
+|davor=Indersdorf, Kloster, ehem. Winterrefektorium
 |danach=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung
 |AutorIn1=Bauer-Wild, Anna
 }}
@@ -3721,21 +3822,7 @@ Berghammer, Josef, Markt Indersdorf, ehem. Augustinerchorherren-Stiftskirche, je
 
 <!-- header: KREUZHOLZHAUSEN -->
 
-{{End}}
 
-{{Artikel
-|Band=5
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=155
-|Originalseitenbis=161
-|Lemma=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung
-|Typ=Sakral
-|Ort=Kreuzholzhausen
-|davor=Kollbach, Pfarrkirche St. Martin
-|danach=Lauterbach, Filialkirche St. Alban
-|AutorIn1=Bauer-Wild, Anna
-}}
 
 Pfarrkirche, Gemeinde Petershausen, Erzdiözese München und Freising; z. Z. der Ausmalung Monatspfarrei. Kollbach war Hofmark, die dem Kollegiatstift U.L.F. in München gehörte. Gericht Pfaffenhofen (bis 1758, später Kranzberg)
 
@@ -3783,6 +3870,22 @@ StAM, LRA 3445
 AEM, Pfarrakten Kollbach: Pfarrbeschreibung: Rauten II
 
 Schmidtsche Matrikel, Bd 2, S. 197 f. Mayer-Westermayer, Bd 1, S. 166–71. KDB I OB (1), S. 304. Kunst- und Kulturdenkmäler 1977, S. 29 Dehio 1990, S. 559.
+
+{{End}}
+
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=155
+|Originalseitenbis=161
+|Lemma=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung
+|Typ=Sakral
+|Ort=Kreuzholzhausen
+|davor=Kollbach, Pfarrkirche St. Martin
+|danach=Lauterbach, Filialkirche St. Alban
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 Pfarrkirche, Pfarrverband Bergkirchen, Gemeinde Bergkirchen, Erzdiözese München und Freising; z. Z. der Ausmalung war die Pfarrei Kreuzholzhausen Monatspfarrei. 1642 wurde die »Bruderschaft vom Hl. Kreuz um ein seliges Ende« errichtet. In Kreuzholzhausen bestand eine im 17./18. Jh. lebhafte Wallfahrt zum Hl. Kreuz. Gericht Dachau
 
@@ -6665,22 +6768,6 @@ St.-Gabinus-Kirche Unterweikertshofen (Faltblatt) 1984. 1 D /11
 
 <!-- header: VIERKIRCHEN -->
 
-{{End}}
-
-{{Artikel
-|Band=5
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=275
-|Originalseitenbis=283
-|Lemma=Vierkirchen, Pfarrkirche St. Jakobus der Ältere
-|Typ=Sakral
-|Ort=Vierkirchen
-|davor=Unterweilbach, Schloßkapelle St. Martin
-|danach=Walkertshofen, Pfarrkirche Mariä Himmelfahrt
-|AutorIn1=Bauer-Wild, Anna
-}}
-
 Schloßkapelle, Pfarrei Ampermoching, Gemeinde Hebertshausen, Erzdiözese München und Freising; z. Z. der Ausmalung war Unterweilbach Hofmark, 1679-1701 im Besitz der Freiherren Mändl auf Deutenhofen; seit 1729 ist das Schloß (mit Unterbrechung 1751-58) im Besitz der Grafen Spreti (heute Trebra-Spreti). Gericht Dachau
 
 
@@ -6719,6 +6806,21 @@ An der O-Wand zwischen den Fenstern in einer Stuckkartusche ein Doppelwappen: li
 
 Weiling, Bd 1, 5. 30. Schmidtsche Matrikel, Bd 2, S. 202. Mayer-Westermayer, Bd 1, S. 129. Historischer Atlas I, Bd 11/12 (Pankraz Fried), München 1958, S. 104 f. Angerpointner, Alois, Die Schlösser und Hofmarken Unterweilbach und Deutenhofen, in: Amperland 21, 1985, S. 118-22. Kunst- und Kulturdenkmäler 1977, S. 369. Dehio 1990, S. 1218
 
+{{End}}
+
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=275
+|Originalseitenbis=283
+|Lemma=Vierkirchen, Pfarrkirche St. Jakobus der Ältere
+|Typ=Sakral
+|Ort=Vierkirchen
+|davor=Unterweilbach, Schloßkapelle St. Martin
+|danach=Walkertshofen, Pfarrkirche Mariä Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 [[File:Band05_chunk006_p013_img002.jpg|thumb]]
 
@@ -7403,7 +7505,7 @@ Dehio 1990, S. 1255 f.
 |Typ=Sakral
 |Ort=Westerholzhausen
 |davor=Weichs, Pfarrkirche St. Martin
-|danach=
+|danach=Ortsregister (Band 5)
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -7489,13 +7591,22 @@ Dehio 1990, S. 1276
 
 Berghammer, Josef, Die Sanierung der Pfarrkirche St. Korbinian in Westerholzhausen, in: Amperland 32, 1996, S. 252–56. A. B.
 <!-- citation-page-bottom: Band05 p303 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=3 -->
 <!-- citation-page-top: Band05 p304 -->
 
 == REGISTER ==
 
-== Ortsregister ==
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=305
+|Originalseitenbis=306
+|Lemma=Ortsregister (Band 5)
+|davor=Westerholzhausen, Pfarrkirche St. Korbinian
+|danach=Personenregister (Band 5)
+}}
 
 Kursivschrift und Kursivzahlen weisen auf die in diesem Band behandelten Objekte
 
@@ -7696,8 +7807,17 @@ Wagenried, Hofmark Pipinsried 202 Walkertshofen 65, 284-89 Wasserburg 146 Weichs
 
 Zipplingen, Bad-Württ, Ostalbkreis 86, 302
 
-
-== Personenregister ==
+{{End}}
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=307
+|Originalseitenbis=309
+|Lemma=Personenregister (Band 5)
+|davor=Ortsregister (Band 5)
+|danach=Ikonographisches Register (Band 5)
+}}
 
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band vertretenen Maler bzw. auf die behandelten Objekte
@@ -7949,8 +8069,17 @@ Zürn, Brüder, Bildhauer 146
 
 <!-- header: IKONOGRAPHISCHES REGISTER -->
 
-
-== Ikonographisches Register ==
+{{End}}
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=310
+|Originalseitenbis=317
+|Lemma=Ikonographisches Register (Band 5)
+|davor=Personenregister (Band 5)
+|danach=Embleme-Register (Band 5)
+}}
 
 
 Aaron 82, 174 f.  
@@ -8829,28 +8958,43 @@ Speculum iustitiae → Lauretanische Anrufun-
 |}
 <!-- citation-page-bottom: Band05 p317 -->
 
+{{End}}
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=318
+|Originalseitenbis=318
+|Lemma=Embleme-Register (Band 5)
+|davor=Ikonographisches Register (Band 5)
+|danach=
+}}
+
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=10 -->
 <!-- citation-page-top: Band05 p318 -->
-
-
-== Embleme-Register ==
 
 
 Embleme 150, 229 f., 258, 260, 270 f., 280-83, 296, 298, 300
 
 Emblemähnliche Darstellungen 23, 36, 40 f.
 
-BILDMOTIVE UND LEMMATA Nicht aufgenommen sind die aus der Emblemliteratur zum Vergleich herangezogenen Bildmotive und Lemmata
+== Bildmotive ==
 
-BILDMOTIVE Adler 281, 283, 296 Bienenkorb 281, 283 Bienenkorb, darüber Geisttaube 258, 260 Birgittenkreuz 36 Brennender Dornbusch 229 Brunnen mit drei Schalen 23 Felsen am Meer (Muschel) 271 Fruchttragender Baum 280, 282 Gans 296 Garbe 281, 283 Geflügelte Perlmuschel 271 Gold, im Feuer geläutert 230 Granatapfel 296 Herrschaftsinsignien, mit Füßen getreten 36 Hirsch am Brunnen 280, 282 Hügel mit Bach und Schafen 36 Kelch mit Jesuskind 36 Krone, nach der zwei Hände greifen 36, 41 Krone, Zepter und Mitra, von Füßen getreten Leuchtturm 280, 282 Loreto, Übertragung des Hauses 36, 40 Maria mit Kind und Mond 36, 41 Maria mit Kind und Sonne 36, 41
+ 
+Adler 281, 283, 296 Bienenkorb 281, 283 Bienenkorb, darüber Geisttaube 258, 260 Birgittenkreuz 36 Brennender Dornbusch 229 Brunnen mit drei Schalen 23 Felsen am Meer (Muschel) 271 Fruchttragender Baum 280, 282 Gans 296 Garbe 281, 283 Geflügelte Perlmuschel 271 Gold, im Feuer geläutert 230 Granatapfel 296 Herrschaftsinsignien, mit Füßen getreten 36 Hirsch am Brunnen 280, 282 Hügel mit Bach und Schafen 36 Kelch mit Jesuskind 36 Krone, nach der zwei Hände greifen 36, 41 Krone, Zepter und Mitra, von Füßen getreten Leuchtturm 280, 282 Loreto, Übertragung des Hauses 36, 40 Maria mit Kind und Mond 36, 41 Maria mit Kind und Sonne 36, 41
 
 Obelisk mit Pilger- und Birgittenstab 36, 41 Pelikan 280, 282, 296 Perlmuschel im Garten 271 Phönix 229, 280, 282 Putten mit Kranz 258, 260 Putten mit Weinglas und Apothekergefäß 150 Putto gießt Blumen 150 Regenbogen 198 Rose (Muschel) am Meer 271 Schwalbe und das Kraut Chelidonia 296, 298 Sonne, aufgehend 23, 258 Sonne, untergehend 258 Sonnenblume 281 f. Taube mit Ölzweig 281–83 Vogel/Distelvogel 298 Vulkan 296 Vulkan Abanus 230 Wälder, zwei 36
 
-LEMMATA, LATEINISCHE Ad sobrietatem vel ad nauseam unum est nec rium 150 Ad vos quia plena opibus venio 23 Alta petit 299 Ave 36, 40 En spes domibus Maria ora pro nobis 23 Caelesti implenda nectare 258 Coronata caeli empyreo 271 Coronata virtutum floribus 271 Crescite 36, 40 Dum crematur, renovatur 282 Ecce pharus, per quem salus 282 Electa 36, 41
+
+== Lateinische Lemmata ==
+
+Ad sobrietatem vel ad nauseam unum est nec rium 150 Ad vos quia plena opibus venio 23 Alta petit 299 Ave 36, 40 En spes domibus Maria ora pro nobis 23 Caelesti implenda nectare 258 Coronata caeli empyreo 271 Coronata virtutum floribus 271 Crescite 36, 40 Dum crematur, renovatur 282 Ecce pharus, per quem salus 282 Electa 36, 41
 
 Favum tegit, quando legit 283 Flos amorum, gemma florum 282 Fructus bonos, profert multos 282 Hanc, non ista 36, 41 Hic dum regit, suos tegit 282 Hic non pavet, solem avet 283 Me sine cessat opus 23 Mea gloria spargi est 23 Nata in valle lacrimorum 271 Occasus splendore coruscans 258 Ornata maris stella 271 Ortus sine lumine tristis 258 Pax per vivam, hanc olivam 282 f. Per amorem, dat cruorem 282 Peregrinando 36, 41 Profert lumen caecis 298 Pulchra 36, 41 Pulchra et canora 298 Quod habeo largior 298 Semper vigilans 299 Spe non vana, florent grana 283 Specie exhilarat 298 Suaviter dispendit 299 Veni coronaberis 260 Vires reficiantur non opprimantur 150
 
-LEMMATA, DEUTSCHE Ein gantz neues Leben in Feur ihm wirdt geben. 229 Er brinet zwar in der Glueth, doch ihn nit verzöhren thuet. 229 Es wird im Feur nit verzehrt, sein Schein und Glantz würdt vermehrt 230 Von unten schen blüehet und oben doch glüehet.
+== Deutsche Lemmata ==
+
+Ein gantz neues Leben in Feur ihm wirdt geben. 229 Er brinet zwar in der Glueth, doch ihn nit verzöhren thuet. 229 Es wird im Feur nit verzehrt, sein Schein und Glantz würdt vermehrt 230 Von unten schen blüehet und oben doch glüehet.
 <!-- citation-page-bottom: Band05 p319 -->
 
 {{End}}

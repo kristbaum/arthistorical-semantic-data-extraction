@@ -1,0 +1,100 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=135
+|Originalseitenbis=139
+|Lemma=Indersdorf, Kloster, Rosenkranzkapelle
+|Typ=Sakral
+|Ort=Indersdorf
+|davor=Indersdorf, Kloster, Sakristei
+|danach=Indersdorf, Kloster, Klostergebäude
+}}
+
+== Rosenkranzkapelle ==
+
+
+'''Zum Bauwerk:''' Ursprünglich gotische Kapelle, mehrfach, zuletzt 1758, renoviert und neu ausgestattet (vgl. Morhart-Chronik 1762, S. 22, Taf. 10). Sie ist die Kapelle der am 11. August 1630 gegründeten und am 24. September 1899 erneuerten Rosenkranzbruderschaft an der Indersdorfer Kirche (Die Rosenkranzbruderschaft in der Pfarrkirche zu Indersdorf, o.V., o. O. 1900, S. 41 f.).
+
+An der S-Seite der Kirche gelegen, Zugang vom ersten westlichen Joch des südlichen Seitenschiffs; querrechteckiger Raum, geostet; Belichtung von W durch drei Fenster im Untergeschoß und drei Fenster im Obergeschoß auf der Rückseite einer Empore; Rocaillestuck, in den Gewölbezwickeln in Kartuschen Stuckreliefs mit vergoldeten Putten mit verschiedenen Attributen.
+
+'''Auftraggeber:''' Propst Gelasius Morhart von Indersdorf (1748-68)
+
+'''Autor und Entstehungszeit:''' Matthäus Günther (* 1705 Unterpeißenberg † 1788 Haid bei Wessobrunn). Signatur in A auf dem Kragen des im Vordergrund knienden Adoranten (wohl ein Selbstbildnis Günthers) M: G 1758.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachtonne mit Stichkappen Rahmen: A Queroblonges Bildfeld von geschwungenem Umriß, Stuckprofil mit Rocailleornamenten; W hochrechteckiges Bildfeld, Stuckrahmen mit Rocailleornamenten Technik: Fresko; polychrom
+
+Maße: A Höhe 7,60 m; 4,50 × 8,10 W/ A1 . 1 D 1
+
+W Abstand vom Boden 2,70 m; 4,40 × 2,35
+
+Literatur zu Augustinus
+
+Hieber, Gelasius, Das Leben des Kirchenlehrers Aurelii Augustini. München 1720.
+
+Inhalt Augustinianischer Heiligkeit Oder Kurtze Lebens=beschreibung deren Heiligen, Aus dem Hochlöblichen und Weltberühmten Orden deren Regulirten Chor=Herrn Des Heiligen Vatters Augustin, o.V., Linz 1727.
+
+Possidius, Sancti Augustini Vita scripta a Possidio Episcopo hrsg. von Herbert T. Weiskotten, Princeton 1919.
+
+Possidius, Augustins Leben, eingeleitet und übersetzt von Adolf von Harnack, in: Abhandlungen der Preußischen Akademie der Wissenschaften, philosophisch-historische Klasse 1930, Nr. 1, S. 1–48.
+
+Aurenhammer, Hans, Lexikon der christlichen Ikonographie Bd 1, Wien 1959-67, S. 260-70.
+
+Augustinus, Aurelius, Confessiones - Bekenntnisse, lateinisch und deutsch, eingeleitet, übersetzt und erläutert von Joseph Bernhart, München <sup>2</sup>1960.
+
+Courcelle, Jeanne und Pierre, Iconographie de Saint Augustin, Bd 3, Paris 1972, S. 24, Taf. 10.
+
+Literatur s. S. 150 f
+
+Erhaltungszustand und Restaurierungen: Restaurierung 1960/61 (Berghammer/Schnell 1982, S. 13). Ein Rohrbruch im Klostertrakt über der Kapelle durchnäßte 1996 die gesamte Decke. Restaurierung durch Fa. Wiegerling, Bad Tölz
+
+
+== Beschreibung und Ikonographie ==
+
+
+A ROSENKRANZSPENDE Ansicht nach O. – In der Mitte thront auf Wolken Maria mit dem Kind, das auf der Weltkugel steht. Sie werden flankiert von den Heiligen Dominikus und Katharina von Siena, denen sie Gebetsrosenkränze reichen. Die Darstellung veranschaulicht die Wirksamkeit des Rosenkranzgebets und das Anliegen der in dieser Kapelle zusammentretenden Rosenkranzbruderschaft. Nach der Legende erschien die Gottesmutter dem hl. Dominikus und gab ihm das Gebet als Waffe gegen die Irrlehrer während der Albigenser-Kriege. Daher ist der Kampf gegen die Ketzer, besonders die Türken, ein besonderes Anliegen des Rosenkranzgebets. Das veranschaulicht die im Bildhintergrund dargestellte Seeschlacht von Lepanto (1571), einer der glänzendsten Siege des Christentums über die Heiden, während der Papst Pius V. Rosenkranz betete. Ein weiteres Anliegen des Gebets bzw. der zu seiner Verbreitung gegründeten Rosenkranzbruderschaften waren die Bitten um eine gute Sterbestunde und um die Errettung der Armen Seelen aus dem Fegfeuer. Links sieht man die Vertreter der einzelnen Stände, die der Bruderschaft angehören. Sie haben sich um einen Altar versammelt, auf dem sie zum Zeichen ihrer Verehrung ihre brennenden Herzen der Gottesmutter darbringen. Es sind ein Ritter, ein Chorherr (gelegentlich ohne Begründung als Bildnis von Propst Gelasius Morhart angesprochen) und ein Bürger, alle mit Bruderschaftsstäben und ohne individuelle Merkmale. Zu Füßen des Altars, mit Pilgerstab, in der Rechten den Hut haltend, kniet anbetend ein
+<!-- citation-page-bottom: Band05 p135 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk003.pdf#page=19 -->
+<!-- citation-page-top: Band05 p136 -->
+
+[[File:Band05_chunk003_p019_img001.jpg|thumb]]
+
+Mann, bei dem es sich angesichts der Signatur am Kragen und der physiognomischen Übereinstimmung mit dem Porträt Matthäus Günthers im Bayerischen Nationalmuseum München (Gundersheimer 1930, Abb. 128) wohl um ein Selbstbildnis des Künstlers handelt.
+
+Die rechte Hälfte des Freskos wird im unteren Teil durch die Armen Seelen im Fegefeuer eingenommen, die in einer Art Höhle schmachten, von wo aus sie um Errettung nach oben flehen. Darüber sitzen auf Wolken zwei Dominikanerheilige mit Flügeln und niedergelegten Posaunen, die als Mahnung an das Jüngste Gericht zu verstehen sind. Der Bußprediger Vinzenz Ferrer hält die Patene mit dem Eucharistischen Brot. Der Doctor Angelicus Thomas von Aquin, die Sonnenscheibe vor der Brust, den Kelch, von dem das Blut herabfließt ins Fegfeuer (Isnard Frank und Martin Lechner, in: LCI, Bd 8, 1976, Sp. 563 f.). Als weiteres Mittel der Erlösung spendet rechts am Rand ein Engel aus einem Füllhorn den Armen Seelen weiße, rote und goldfarbene Rosenkränze, als Zeichen des vollständigen Rosenkranzes, dem Freudenreichen, Schmerzhaften und Glorreichen, den jedes Bruderschaftsmitglied einmal in der Woche beten mußte.
+
+W VORBEREITUNG AUF EINEN SELIGEN TOD (N-Wand) Der Sterbende auf seinem Lager wird bedroht durch den Tod, der zu seinen Häupten einen Pfeil zückt und eine große Uhr hochhält, deren Zeiger auf zwölf stehen, und den Teufel am Fußende des Bettes. In den Wolken erscheint, Hilfe spendend, die Madonna mit dem Christuskind, das einen Rosenkranz hält. Weiteren Beistand erfährt der Sterbende, der die Sterbekerze umfaßt, durch seinen Schutzengel, der zur Gottesmutter emporweist, den Priester, der ihm die Absolution erteilt, und den vorne sitzenden Chorherrn, der die Sterbegebete liest. Im Hintergrund betet ein Mitglied der Bruderschaft mit dem Rosenkranz in der Hand, vor einem Altar kniend und den Blick zum Kruzifix erhoben.
+
+Neben dem Rosenkranzgebet hatten die Bruderschaftsmitglieder in Indersdorf die Aufgabe, sich in jedem Jahr eine Stunde auszuwählen für Gebete um eine glückselige Sterbestunde für sich und ihre Mitbrüder und -schwestern. Diese Stunde wurde auf dem Bruderschaftszettel verzeichnet. So trat allmählich an die Stelle der Übungen der Rosenkranzbruderschaft die der Stundenbruderschaft, die 1656 von Papst Alexander VII. privilegiert worden ist (o. V., Die Rosenkranzbruderschaft in der Pfarrkirche zu Indersdorf. 1900, S. 4 f.). Auf diese Gebetsverpflichtung als Aufgabe der Bruderschaft bezieht sich die Darstellung des Wandfreskos. Sie steht in der Tradition der Augsburger Malerei und Druckgraphik, vgl. etwa das Altarblatt von Isaak Fischer d. Ä., 1681, wohl aus der Rosenkranzkapelle der Augsburger Dominikanerkirche, als Leihgabe der BSGS in der Barockgalerie Augsburg (Augsburger Barock, Ausstellungskatalog Augsburg 1968, Nr. 100 und Abb. 78) oder kleinformatige Stiche des 17./18. Jh. (Die letzte Reise, Ausstellungskatalog, hg. von Sigrid Metken, München 1984, S. 49, mit Abb.).
+
+[[File:Band05_chunk003_p019_img002.jpg|thumb|W Vorbereitung auf einen seligen Tod, Wandfresko in der Rosenkranzkapelle]]
+
+Die Ausstattung der Kapelle wird ergänzt durch zwei Leinwandbilder, an der S-Wand in Stuckrocaillerahmen eingelassen, mit Darstellungen der beiden Büßer Maria Magdalena und Petrus.
+
+Literatur s. S. 150 f
+<!-- citation-page-bottom: Band05 p137 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk003.pdf#page=20 -->
+<!-- citation-page-top: Band05 p138 -->
+
+<!-- header: KLOSTER INDERSDORF -->
+
+<!-- header: KLOSTER INDERSDORF -->
+
+
+[[File:Band05_chunk003_p020_img001.jpg|thumb|Die hll. Vinzenz Ferrer und Thomas von Aquin mit Hostien und Kelch und ein Engel mit Rosenkränzen helfen den Armen Seelen aus dem Fegfeuer, Ausschnitte aus dem Deckenbild in der Rosenkranzkapelle]]
+
+
+[[File:Band05_chunk003_p020_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band05 p139 -->
+
+
+Den Armen Seelen aus dem Fegfeuer.
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk003.pdf#page=21 -->
+{{End}}

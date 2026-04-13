@@ -1,0 +1,70 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=154
+|Originalseitenbis=154
+|Lemma=Kollbach, Pfarrkirche St. Martin
+|Typ=Sakral
+|Ort=Kollbach
+|davor=Indersdorf, Kloster, ehem. Winterrefektorium
+|danach=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band05 p154 -->
+
+<!-- header: KOLLBACH -->
+
+<!-- header: KREUZHOLZHAUSEN -->
+
+
+
+Pfarrkirche, Gemeinde Petershausen, Erzdiözese München und Freising; z. Z. der Ausmalung Monatspfarrei. Kollbach war Hofmark, die dem Kollegiatstift U.L.F. in München gehörte. Gericht Pfaffenhofen (bis 1758, später Kranzberg)
+
+
+'''Patrozinium:''' St. Martin
+
+
+'''Zum Bauwerk:''' Zerstörung der mittelalterlichen Kirche im Dreißigjährigen Krieg. Wiederaufbau unter Verwendung des gotischen Chors und der LHs-Mauern 1650; Baureparaturen 1839; Verlängerung des LHs nach W um 10 m im späten 19. Jh.
+
+Einfacher Saal, eingezogener AR zu zwei Jochen mit dreiseitigem Schluß, Gliederung durch Rippen, die auf Konsolen ruhen. Das Deckenbild befindet sich im AR.
+
+'''Auftraggeber:''' Pfarrer waren in der vermutlichen Ausmalungszeit (s. u.) Johann Franz Kästl (1737-64) und Marcus Anton Weidmann (1764-72). Ein privater Spender ist anzunehmen.
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, 2. Hälfte des 18. Jh.
+
+Es handelt sich um einfache bäuerliche Malerei von der Qualität eines durchschnittlichen Votivbildes. Das Bild ist wohl in die zweite Hälfte des 18. Jh. zu datieren. In dieser Zeit war Lorenz Kärpf, Sohn des Kranzberger Malers Thaddäus Kärpf, als Maler in Kranzberg ansässig.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Verschliffenes Rippengewölbe (von dem die Rippen abgeschlagen sind)
+
+Rahmen: Gemalte Rahmung Technik: Fresko; polychrom
+
+Maße: Höhe 6,40 m; 4,00 × 2,40
+
+Erhaltungszustand und Restaurierungen: Bei der letzten Restaurierung des Innenraums 1973 durch Albin Huber, Dachau, wurde auch das Deckenbild restauriert.
+
+
+== Beschreibung und Ikonographie ==
+
+
+MANTELSPENDE DES HL. MARTIN Ansicht nach O. - Der Heilige ist in Ritterrüstung auf einem braunen Pferd dargestellt. Sein Haupt ist von Strahlen umgeben. Das Pferd scheint in Wolken zu schweben, obwohl vermutlich gemeint ist, daß es auf dem grasbewachsenen Boden im Bildvordergrund einhertrabt. Rechts ist ein Bettler zu sehen, halbnackt und mit Krücke; er greift nach dem roten Mantel des Heiligen, der mit seinem Säbel ein Stück davon für den Bettler abtrennt.
+
+
+[[File:Band05_chunk004_p003_img001.jpg|thumb|Mantelspende des hl. Martin]]
+
+
+== Quellen und Literatur ==
+
+
+StAM, LRA 3445
+
+AEM, Pfarrakten Kollbach: Pfarrbeschreibung: Rauten II
+
+Schmidtsche Matrikel, Bd 2, S. 197 f. Mayer-Westermayer, Bd 1, S. 166–71. KDB I OB (1), S. 304. Kunst- und Kulturdenkmäler 1977, S. 29 Dehio 1990, S. 559.
+
+{{End}}

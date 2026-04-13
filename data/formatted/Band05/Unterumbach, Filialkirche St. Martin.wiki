@@ -1,0 +1,109 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=262
+|Originalseitenbis=265
+|Lemma=Unterumbach, Filialkirche St. Martin
+|Typ=Sakral
+|Ort=Unterumbach
+|davor=Strassbach, Filialkriche St. Ottilia von Hohenburg
+|danach=Unterweikertshofen, Filialkirche St. Gabinus
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band05 p262 -->
+
+<!-- header: UNTERUMBACH -->
+
+
+== UNTERUMBACH ==
+
+
+Filialkirche, Pfarrverband Odelzhausen, Gemeinde Pfaffenhofen an der Glonn, Erzdiözese München und Freising; z. Z. der Ausmalung Filiale der Pfarrei Pfaffenhofen, auf die die reichsfreie Benediktinerabtei St. Ulrich und Afra in Augsburg das Präsentationsrecht hatte. Gericht Friedberg
+
+
+'''Patrozinium:''' St. Marti
+
+
+'''Zum Bauwerk:''' Die alte Kirche wurde im Spanischen Erbfolgekrieg geplündert und durch Brand zerstört. Wiederaufbau unter Verwendung der Mauerreste des LHs in etwas veränderter Form vor 1716 unter Pfarrer Dionysius von Lampfrizham (1706–27). 1927 Erweiterung nach W. Einfacher Saal mit Empore im W. Belichtung durch drei Fenster von N und fünf Fenster von S. Eingezogener Chorbogen, AR etwas breiter als das LHs, mit halbrundem Schluß; Belichtung durch zwei Fenster im S und N.
+
+
+'''Auftraggeber:''' Pfarrer zur Ausmalungszeit war Johann Baptist Sieß von Pfaffenhofen an der Glonn (1753–89); er ist im Hauptbild A dargestellt (s.u.).
+
+
+'''Autor und Entstehungszeit:''' Signatur in A Johann Leibrecht / 1777
+
+
+Biographische Daten von Johann Leibrecht sind nicht bekannt. Mit Sicherheit ist er kein Dachauer Maler. Stilistische Übereinstimmungen zeigen die Deckenbilder mit der Ausmalung von Fröttmaning (LKr. München, CBD Bd 3/I, S. 81), den LHs-Fresken von Poigern (LKr. Fürstenfeldbruck, CBD, Bd 4, S. 218–20) und den Fresken der Schloßkapelle in Brucksberg (NB LKr. Landshut)
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Flachdecke, AR flache Kalotte mit angedeuteten Stichkappen
+
+
+Rahmen: Gemalte Rahmung; A imitiertes Stuckprofil, von einer dünnen Girlande umwunden; A<sub>1–4</sub> gemalte Rocaille-Ornamentkartuschen; B gemalter Blattkranz
+
+
+Technik: Fresko; A und B polychrom, A<sub>1–4</sub> Grisaillen auf Goldgrund
+
+
+Maße: A Höhe 5,50 m; 5,50 × 5,30 B Höhe 5,00 m; Ø 2,00
+
+
+Erhaltungszustand und Restaurierungen: Signatur eines Restaurators in A: H. Metzger/1905 München. Letzte Innenrestaurierung 1981/82 durch Fa. Hans Hausch, Fürstenfeldbruck. Die Deckenbilder restaurierte Manfred Leitenmeier, Augsburg: Reinigung und Ausbessern der Risse.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A TOD DES HL. MARTIN Einsichtige Szene, Beobachterstandpunkt unter dem westlichen Bildrand. – Der Bildschauplatz bildet eine hochaufragende, säulenbesetzte Palastarchitektur, ein Innenraum, durch dessen rechte Bogenöffnung sowie durch ein Fenster links der Blick ins Freie auf den bewölkten Himmel geht. Substruktionen mit Treppen, Podest und offenem Bogen führen ins Bild ein. Vor der mittleren Bogenöffnung der Schauwand ist wie auf einer kleinen Bühne die Szene aufgebaut: der Heilige liegt in einem Bett, sein Haupt ist von Strahlen umgeben. Er hält die Sterbekerze. Um sein Bett sind fünf Männer versammelt: links, an einem Zierpodest mit Vase sieht man einen Priester, zu Füßen des Bettes auf einem niedrigen Hocker einen Mönch, rechts drängen sich zwei bärtige Männer nahe zum Sterbelager. Ein Herr in zeitgenössischer Tracht steht an einem Tisch mit Kreuz und Kerze.
+
+
+Der Priester und dieser Herr haben deutlich porträthafte Züge. Beim ersteren handelt es sich wohl um den Pfarrer von Pfaffenhofen an der Glonn, Johann Baptist Sieß, zu dessen Pfarrei Unterumbach gehörte. Der andere Herr ist nicht zu 
+
+
+
+[[File:Band05_chunk006_p007_img001.jpg|thumb|A Tod des hl. Martin]]
+
+
+
+[[File:Band05_chunk006_p007_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band05 p263 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=8 -->
+<!-- citation-page-top: Band05 p264 -->
+
+[[File:Band05_chunk006_p008_img001.jpg|thumb]]
+
+identifizieren. Seine vornehme Kleidung zeigt, daß es sich sicher um keinen der Unterumbacher Bauern handelt. Seine Darstellung im Hauptbild läßt vermuten, daß wir in ihm den Stifter der Ausmalung vor uns haben. Die beiden Zeitgenossen von 1777 präsentieren sich hier in ungewöhnlich naher Gemeinschaft mit dem Ortspatron innerhalb einer historischen Szene. - Unten auf den Stufen sieht man einen Ministranten und in einer Kelleröffnung einen Drachen
+
+[[File:Band05_chunk006_p008_img002.jpg|thumb]]
+
+[[File:Band05_chunk006_p008_img003.jpg|thumb|B Der hl. Martin als Patron von Unterumbach]]
+
+[[File:Band05_chunk006_p008_img004.jpg|thumb|A. Devotio]]
+
+[[File:Band05_chunk006_p008_img005.jpg|thumb|A. Innocentia]]
+
+Uber der Szene bilden Wolken und eine leuchtendblaue Draperie, die sich um eine Säule schlingt und fast bis zum Boden reicht, einen himmlischen Schauplatz, auf dem zwei Engel den Bischofstab und die Gans, Attribute des hl. Martin, vorweisen. Die kräftig ockerfarbenen Wolken bilden eine Kreisöffnung hellen Lichts über der Engelgruppe.
+
+Die Bildfläche ist durch den großen architektonischen Aufbau bewältigt; die Figurenkomposition ist dagegen klein und unbedeutend. Der ganze Schauplatz wie auch das Bett sind in hellen und dunklen Ockertönen gehalten, kontrastiert nur durch die violetten Säulen und eine Ziervase. In den Gewändern der Personen erscheinen außer den Schauplatzfarben Ocker und Violett nur Grau und ein blasses Grün. Der einzige kräftige Farbakzent ist das Blau der Draperie.
+
+Vom Tod des hl. Martin, Bischof von Tours, auf einer Seelsorgereise am 8. November 397 in Candes berichtet Sulpicius Severus in der Vita des hl. Martin: der Heilige, um dessen Sterbebett seine Mitbrüder versammelt waren, habe eine Teufelserscheinung zurückgewiesen. Darauf spielt im Bild der Drachen unter dem Substruktionsbogen an.
+
+A<sub>1-4</sub> TUGENDEN Das Hauptbild ist von vier Kartuschen begleitet, in denen monochrom in Grau auf Goldgrund Allegorien der Tugenden des hl. Martin dargestellt sind.
+
+B DER HL. MARTIN ALS PATRON VON UNTERUMBACH Dicke, graubraune Wolken bilden einen Kreis mit heller Mitte, so daß die Gestalt des Heiligen, der auf Wolken kniet, von Licht umgeben erscheint. Martin trägt Bischofskleidung; neben ihm sieht man den Bischofstab und sein persönliches Attribut, die Gans. Unten im Bild ist um die von Süden gesehene Kirche das Dörfchen Unterumbach dargestellt, das sich in den Schutz des Kirchenpatrons stellt. Die Darstellung des hl. Martin an der Kamelbrüstung ist vom gleichen Maler
+
+== Quellen und Literatur ==
+
+AEM, Pfarrakten Pfaffenhofen an der Glonn: Pfarrbeschreibung; Bauten II; Filiale Unterumbach 1653–1885.
+
+Schmidtsche Matrikel, Bd 2, S. 296–98. Mayer-Westermayer, Bd 1, S. 320–22. KDB I OB (1), S. 260. Kunst- und Kulturdenkmäler 1977, S. 368
+<!-- citation-page-bottom: Band05 p265 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=9 -->
+{{End}}

@@ -1,0 +1,178 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=244
+|Originalseitenbis=252
+|Lemma=Sittenbach, Pfarrkirche St. Laurentius
+|Typ=Sakral
+|Ort=Sittenbach
+|davor=Sigmertshausen, Filialkirche St. Vitalis
+|danach=Strassbach, Filialkriche St. Ottilia von Hohenburg
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band05 p244 -->
+
+<!-- header: SITTENBACH -->
+
+
+== SITTENBACH ==
+
+
+Pfarrkirche, Pfarrverband Odelzhausen, Gemeinde Odelzhausen, Erzdiözese München und Freising; z. Z. der Ausmalung war Sittenbach Monatspfarrei. Die Sebastiansbruderschaft wurde 1670 errichtet. Gericht Friedberg
+
+
+'''Patrozinium:''' St. Laurentius
+
+
+'''Zum Bauwerk:''' Der Kirchenbau von 1464 wurde 1664 von einem Unwetter betroffen und in der Folgezeit wiederhergestellt. 1680 wurde die Kirche durchgreifend renoviert: »... der Chor ausgebössert (das Gewölbe wurde dabei verändert), das Langhauß umb 12 Schuech lenger gemacht ... nit weniger in ersagtem Langhauß 6 neue Fenster und ein neue Tüllen (Holzdecke) aufgerichtet ... « (AEM). Damals entstand eine tiefe Empore. Das LHs wurde mit einer Holzkassettendecke gedeckt (Schreinerarbeit Johann Kopfeder aus Friedberg, Fassung und Vergoldung der in den Kassetten angebrachten Rosen durch Johann Jakob Specher aus Altomünster; s. Gruber, Maler S. 369). 1760 wurde die Kirche unter Beibehaltung des alten Chors durchgreifend umgestaltet und das LHs gewölbt. Stuckierung durch Johann Jakob Rauch (Zuschreibung Karl Kosel, Festschrift Altomünster 1973, S. 307). Weitere Verlängerung des LHs und Einbau einer neuen, noch tieferen Empore 1932.
+
+LHs zu fünf Fensterachsen, Belichtung durch je fünf Fenster im N und S, Westempore in der Tiefe von zwei Fensterachsen. Zwischenjoch zum AR mit zwei im N und S anschließenden rechteckigen Kapellenräumen; diese sind durch je zwei kleine Fenster belichtet. Eingezogener AR zu zwei Jochen mit dreiseitigem Schluß, Pilastergliederung, Belichtung von O und S.
+
+'''Auftraggeber:''' Anton Rottmanner, Pfarrer von Sittenbach (1744-67) und Dekan des Dekanats Hirtlbach. Er schreibt 1764 (AEM): »Es zeigt sich mitls gothischen Buchstaben und Züffern an der Chor-Maur von aussen, das ein mir gnädigs anvertrauthes Pfarr-Gottshaus ao: 1464 angelegt, und er pauet worden; gleichwie auch ich schon ao: 1760 eben das selbe mit einem Gwölb, item durch Stoccedour- Fresco- und Faßarbeith wol schön, und ansehlich zu machen gesuecht dan auf den Fronbogen selbst geschriben habe: Ita SaLV DoMVI faCta est In SIttenbaCh« (= 1764; diese Inschrift ist nicht erhalten; s. S. 248). Im gleichen Brief bat er um die Erlaubnis, die Dreihundertjahrfeier in einem achttägigen Fest begehen zu dürfen »... bis gleichwol das Post Triduum, sag post Trecentos annos, ein Saeculum, oder achttägige Solem nitet gehalten ... « (das Fest fand vom 2.–10.9. statt). Aus dem Brief geht hervor, dass Rottmanner offenbar aufgrund eines Gelübdes handelte. Bei den Nachlaßverhandlungen des hochverschuldeten Rottmanner schreibt sein Nachfolger Resch (StAM), Rottmanner habe »zur Zierd sothanner Gottshauses meines Erachtens wenigstens zwey: oder 3000 f ex propriis beygetragen«. Bei der Finanzierung des Baus handelte er nicht immer korrekt (ebd.).
+
+Eine entscheidende Rolle bei der Genehmigung des aufwendigen Umbaus (und seiner Finanzierung?) spielte offenbar Franz Ignaz Albert Freiherr von Werdenstein auf Dalmassing, seit 1719 Kanonikus in Freising, 1744-61 Generalvikar
+
+
+[[File:Band05_chunk005_p023_img001.jpg|thumb|Der Kirchenraum]]
+
+
+
+[[File:Band05_chunk005_p023_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band05 p245 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=24 -->
+<!-- citation-page-top: Band05 p246 -->
+
+<!-- header: SITTENBACH -->
+
+<!-- header: SITTENBACH -->
+
+ab 1744 Präsident des Geistlichen Rats in Freising, seit 1756 Weihbischof, dessen Wappen sich mit der Unterschrift SUB DUCE am O-Rand des Hauptfreskos A befindet. Das Puttenköpfchen darüber mit der kleinen Mitra (ohne Stab) weist auf die Weihbischofswürde hin.
+
+'''Autor und Entstehungszeit:''' Johann Georg Dieffenbrunner (* 1718 Mittenwald † 1785 Augsburg) 1760/61
+
+Leopold Staudacher, Pfarrer von Sittenbach, schreibt 1817 in einer Pfarrbeschreibung: »Die Kirche ist geräumig ansehnlich und schön vom hiesigen Dekan und Pfarrer Rottmanner 1760 erbauet worden. Die Kupel und das Gewölbe sind von einem Augsburger Künstler Georg Tiefenbrunner mit der Leidensgeschichte des hl. Laurentius schön ausgemahlen, und die ganze Kirche mit feiner Stukhadurrarbeit geziert« (AEM, Pfarrbeschreibung). Pfarrer Rottmanner schreibt (s. o.), er habe Gewölbe, Stuck und Fresken 1760 machen lassen. Das ehem. Chronogramm am Chorbogen gab das Jahr 1764 an. Rottmanner schreibt, er habe die Inschrift »selbst geschrieben«. Dieffenbrunner war also zu dieser Zeit in Sittenbach nicht mehr tätig. Die Inschrift zielte primär auf das 300jährige Jubiläum, nicht auf die Vollendung des Umbaus. Man kann also annehmen, daß die Dekoration des Kirchenraums sich an die Neuwölbung unmittelbar anschloß.
+
+Bei der Darstellung des Martyriums des hl. Laurentius in Fresko A lehnt sich Dieffenbrunner offensichtlich an einen Entwurf Matthäus Günthers an, der auf Tizians Altarblatt in der Gesuiti-Kirche in Venedig zurückgeht und in einer Werkstatt-Kopie erhalten ist (Philadelphia Museum of Art, publiziert von Georg Paula 1991, S. 265, Abb. 66).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A längsovale Kuppel, an den Längsseiten im Stichkappenbereich einer flachen Korbbogentonne ansetzend; B flache Korbbogentonne; C verschliffenes Kreuzgratgewölbe, im O abgemuldet; K<sub>1</sub> und K<sub>2</sub> Stichkappentonne
+
+Rahmen: A ornamentierter und teilweise vergoldeter Stuckprofilrahmen, von Rocaille-Ornamenten überspielt; B Stuckprofilrahmen mit einer Ornamentapplik an der O-Seite und Rocaille-Ornamenten an den Gelenkstellen der C-Bogen-Ansätze; C reich ornamentierter und teilweise vergoldeter Stuckprofilrahmen mit eingreifenden Rocaille-Ornamenten; K<sub>1</sub> und K<sub>2</sub> einfache Rocaille-Ornament-Rahmen
+
+Technik: Fresko; sämtliche Deckenbilder sind polychrom
+
+Maße: A Höhe 8,60 m (Stich 2,00); 10,60 × 5,85  
+B Höhe 6,90 m; 2,50 × 5,00  
+C Höhe 6,30 m; 5,60 × 4,00  
+K<sub>1</sub>-K<sub>2</sub> Höhe 5,00; 1,60 × 1,60  
+
+Erhaltungszustand und Restaurierungen: Restaurierung 1860. Das Datum MCMXXXVIII in einer Kartusche an der Innenseite des Chorbogens (heute übertüncht) wies auf die Restaurierung des Innenraums 1938 – infolge der LHs-Erweiterung 1930 – hin. Vor der letzten Restaurierung hatten alle Fresken starken Grauschleier, vermutlich durch eine falsche Fixierung der Restaurierung 1938; im Chor zeigten sich Wasserschäden durch eindringenden Regen. In der nördlichen Seitenkapelle war das Fresko K<sub>1</sub> von Wasserschäden stark beschädigt: etwa die Hälfte der Gesamtsubstanz war verloren und schon bei einer früheren Restaurierung ergänzt worden. Viele größere und kleine Risse; mäßiger mikrobieller Befall; viele kleine Retuschen früherer Restaurierungen in den Rißbereichen.
+
+Letzte Restaurierung der Raumschale 1992 durch Fa. Otto Wimmer, München; Restaurierung der Deckenbilder durch Franz Debold, München. Die Fresken wurden gereinigt, der mikrobielle Befall entfernt, ebenso die Übermalungen. Der Grauschleier konnte abgenommen werden, so daß die Fresken weitgehend die originale Farbigkeit zeigen. Die Risse wurden geschlossen, die Fehlstellen retuschiert. Obwohl im Hauptfresko A in der Sockelzone die dunklen Erdfarben abgebaut hatten, was nicht reversibel ist, ist im Ganzen der Zustand der Deckenbilder jetzt sehr gut.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A SZENEN AUS DEM LEBEN DES HL. LAURENTIUS  
+Umlaufendes terrestrisches Panorama mit Darstellungsschwerpunkten an den beiden Schmalseiten; Hauptansicht nach O. Zentrale Himmelsglorie. Aufnahmestandpunkt unter der Bildmitte. Die Höhenlinien der Darstellungen der umlaufenden Szenerie fluchten nicht konsequent in der Bildmitte, sondern sind durch die beiden Ansichten nach O und W modifiziert.
+
+Der vorderste Bildgrund ist in Form einer felsigen und grasbewachsenen Rampe gestaltet, die an der W-Seite tiefer ist und an der O-Seite in den Mittelgrund zurücktritt: hier bildet sie die Bühne für die Martyriumsszene. In diesen Schauplatz führen Stufen und Podeste im Vordergrund ein. Hinter der umlaufenden Rampe fällt der Boden jäh ab, so daß die Hintergrundsfiguren sämtlich von der Rampe überschnitten werden und nur ihre Oberkörper oder Köpfe sichtbar sind. Der umlaufende Vordergrund und seine Figuren sind verschattet und eher dunkelfarbig. Durch den tiefliegenden Horizont wirken die Figuren und Bäume als Repoussoir und distanzieren den hellen Himmelsgrund. In der Randzone erscheinen, eingebettet in eine sowohl die Licht- als auch die Schattenpartien beherrschende Ockertonigkeit, als Buntfarben vor allem Grün und ein kräftiges und stumpfes Braun.
+
+Die Ansicht nach W zeigt die Gefangennahme des hl. Papstes Sixtus. Er trägt rote päpstliche Kleidung, Stola und Kappe. An den Händen gefesselt, wird er von zwei Schergen fortgeführt. Sixtus wendet sich zurück zu seinem Diakon Laurentius, der, schon an der S-Seite des Deckenbildes, in weißgoldener Diakonstracht kniend dargestellt ist. Laurentius weist mit der Linken auf sich selbst, mit der Rechten auf Männer im Hintergrund, die mit Gesten des Entsetzens die Gefangennahme des Papstes verfolgen.
+
+Im N leitet eine kleine Baumgruppe mit Palme zur Längsseite des Deckenbildes. Hier ist, dicht am Bildrahmen gelagert, eine kranke Frau zu sehen. Ein einfach gekleideter Mann stützt sie und präsentiert sie dem hl. Laurentius, der zu ihren Füßen kniet und sie segnet. Im Hintergrund sind Arme und Kranke dargestellt, die sich in die Nähe des Heiligen drängen.
+
+
+[[File:Band05_chunk005_p024_img001.jpg|thumb|A Szenen aus dem Leben des hl. Laurentius]]
+<!-- citation-page-bottom: Band05 p247 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=25 -->
+<!-- citation-page-top: Band05 p248 -->
+
+<!-- header: SITTENBACH -->
+
+<!-- header: SITTENBACE -->
+
+
+[[File:Band05_chunk005_p025_img001.jpg|thumb]]
+
+
+- Eine kleine Palme trennt diese Szene von der Martyriumszene an der O-Seite.
+
+Eine Schar Bewaffneter kommt hier aus dem Hintergrund nach vorn und leitet über zur Hauptansicht, in deren Mitte Laurentius über dem Rost das Martyrium erleidet. Schergen schüren das Feuer, heidnische Priester, Krieger, Greise sowie eine junge Frau mit einem Kohlenkorb auf dem Kopf bilden eine bewegte und figurenreiche Szene. Im Vordergrund weist ein alter Mann auf die abgelegten Gewänder des Heiligen, die auf den Stufen liegen. Die Hauptszene wird nach der Seite hin und zum Hintergrund durch aufragende Podeste und Architekturteile abgeschlossen. Auf einem dieser Sockel ist eine Apollostatue zu sehen.
+
+Bei allem Gestenreichtum der Figuren sind die Einzelbewegungen nicht einander zugeordnet und voneinander abhängig, sondern bleiben auf die jeweils einzelne Figur beschränkt. Die Figuren wirken deshalb wie Bestandteile aus einem Vorlagenbuch und stehen zum Teil vom Geschehen völlig unberührt als Staffage da, wie etwa die Frau mit dem Kohlenkorb oder der große Krieger rechts mit der Fahne. Im Zentrum des Deckenbildes umgeben zartfarbige, im Kreis geführte Wolken eine lichte Himmelsöffnung, in der ein Engel und Putten Palmzweige und Siegerkränze als Lohn für das Martyrium halten.
+
+Als der hl. Papst Sixtus II. († 258) nach der Legende von den Häschern des Kaisers Decius gefangengenommen und zum Martyrium geführt wurde, flehte ihn sein Schüler und Diakon Laurentius an, er möge ihn nicht verlassen und ihn lieber mit in den Tod nehmen. Papst Sixtus weissagte ihm das Martyrium binnen drei Tagen (Inschrift POST TRIDUUM in der Kartusche am W-Rand des Deckenbildes) und vertraute ihm die Kirchenschätze an, damit er sie an die Armen und Kranken verteile. Laurentius tat, wie ihm geheißen war. »Er kam auch zu einer Witwe ... die litt an schweren Schmerzen ihres Hauptes, aber er legte die Hände auf sie, und heilte sie von dem Leiden« (LA-Benz, S. 566; diese Szene ist in der Krankenheilung an der N-Seite dargestellt). Bei der Enthauptung des hl. Sixtus rief Laurentius wiederum, er solle ihn nicht zurücklassen. Daraufhin wurde er ergriffen und erlitt nach langen Martern den Tod, indem er auf einem Rost über dem Feuer verbrannt wurde (LA-Benz, S. 567–69).
+
+Inschrift über dem Chorbogen SANCTE LAURENTI/ORA PRO NOBIS. Diese Inschrift ist nicht original (s. Auftraggeber). Die Inschrift POST TRIDUUM bezieht sich nicht nur auf die Laurentiusvita, sondern auch auf die Dreihundertjahrfeier der Pfarrkirche Sittenbach (ebda).
+
+B ENGELSKONZERT Wolkenszenerie um die Hl.-Geist-Öffnung in der Mitte des Bildes. Diese ist heute von einem Holzdeckel geschlossen, auf dem das Dreifaltigkeits- symbol in einem geschnitzten und vergoldeten Strahlenkranz angebracht ist. Nur am Rand des Bildes ist der blaue Himmel
+
+
+[[File:Band05_chunk005_p025_img002.jpg|thumb|Glorie des hl. Laurentius]]
+<!-- citation-page-bottom: Band05 p249 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=1 -->
+<!-- citation-page-top: Band05 p250 -->
+
+[[File:Band05_chunk006_p001_img001.jpg|thumb]]
+
+melsgrund zu sehen. Davor ballen sich dunkle Wolkenkissen, auf denen große Engelsfiguren mit Kniegeige, Geige und Querflöte dargestellt sind. Zwei andere Engel halten ein Notenblatt. Zwei Putten mit Weihrauchfaß und Schiffchen verehren das zentrale Dreifaltigkeitssymbol. Die Wolken der Bildmitte sind im Kreis geführt und mit Puttenköpfchen besetzt. Diese Himmelsglorie wird nach innen immer lichter und zeigt - wie in weiter Ferne - noch einen zweiten Kreis von Puttenköpfchen
+
+Von der zentralen Glorie abgesehen sind die Engels- und Puttenfiguren alle auf die Ansicht nach O hin komponiert. Vor der ockerfarbenen Wolkenlandschaft treten als Buntfarben nur Grün und ein stumpfes Rot auf.
+
+C GLORIE DES HL. LAURENTIUS Einansichtige Wolkenszenerie. Vor blauem Himmelsgrund, der nur am unteren Bildrand zu sehen ist, ballen sich ockerfarbene Wolken, die nur am Bildrand verschattet und sonst fast bis zur Farblosigkeit aufgehellt sind. Die untersten dunklen Wolken werden von großen Engelsgestalten getragen; auf ihnen schwebt der hl. Laurentius, kniend und in Diakonstracht, zum Himmel empor. Er hat sein Marterwerkzeug und Attribut, den Rost, bei sich; Putten halten Palme und Kranz. Oben in den Wolken ist die Dreifaltigkeit dargestellt: Gottvater breitet die Arme aus, Christus hält eine Krone über das Haupt des Heiligen als himmlischen Lohn für das Martyrium. Ein großer Engel trägt das Kreuz Christi
+
+
+[[File:Band05_chunk006_p001_img002.jpg|thumb|K<sub>2</sub> Engel weist auf den Taufstein in der südlichen Kapelle]]
+
+Außer der für Dieffenbrunner typischen Farbstellung Grün- Rot zeigt dieses Bild auch zartere Farben, die an Dieffenbrunners Lehrer Matthäus Günther erinnern: vor den lichten Wolken das zarte Gelb und Violett des Gewandes von Gottvater und helles Rot und Graublau in den Kleidern von Christus und dem begleitenden Engel.
+
+K<sub>1-2</sub> ENGEL UND PUTTEN In den beiden an das Zwischenjoch vor dem Chorbogen im N und S anschließenden Kapellen zeigen die Deckenbilder Engel und Putten in Wolken.
+
+K<sub>1</sub> (nördliche Kapelle) Ein Putto trägt eine Fruchtgirlande, ein zweiter eine Garbe. - 1747 ließ Pfarrer Rottmanner in einer der Kapellen einen Altar aufstellen, der den Wetterheiligen Johannes und Paulus geweiht war. Früchte und Garbe verweisen in diesem Zusammenhang wohl auf die Fruchtbarkeit, die man dem Wirken der Wetterheiligen verdankt.
+
+K<sub>2</sub> (südliche Kapelle) Engel auf einer Wolke, der nach unten weist. Die Kapelle diente früher als Taufkapelle; dort steht auch der Beichtstuhl.
+
+
+== <b>Quellen und Literatur</b> ==
+
+
+BHStA I, Kurbayern Geistlicher Rat, Geistlicher-Rats-Protokolle Tom. 57.
+<!-- citation-page-bottom: Band05 p251 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=2 -->
+<!-- citation-page-top: Band05 p252 -->
+
+<!-- header: SITTENBACH -->
+<!-- header: STRASSBACH -->
+
+
+[[File:Band05_chunk006_p002_img001.jpg|thumb]]
+
+
+bista I, GL 1079, Nr. 17. StAM, Pfleggericht Aichach A 24. AEM, Pfarrakten Sittenbach: Pfarrbeschreibung; Pfarrkirchenbauten 1680-1781; Bauten II; Kirchenrechnung
+
+AEM, Pfarrakten Sittenbach: Pfarrbeschreibung; Pfarrkirchenbauten 1680-1781; Bauten II; Kirchenrechnungsextrakte 1672-1760; Pastoral- und Kultusgegenstände 1672-1760.
+
+Schmidtsche Matrikel, Bd 2, S. 399 f. Mayer-Westermayer, Bd 3, S. 173 f. KDB I OB (1), S. 240, 255 f. Dehio Ostschwaben, S. 27. Kosel, Karl, Kunstepochen und Kunstdenkmäler, in: Der Landkreis Friedberg (o.V.), Friedberg 1967, S. 302.
+
+Gruber, Max, Johann Georg Dieffenbrunner, in: Amperland 5, 1969, S. 90.
+
+Kunst- und Kulturdenkmäler 1977, S. 352 f.
+
+Paula, Georg, Johann Georg Dieffenbrunner. Leben und Werk (= tuduv-Studien, Reihe Kunstgeschichte, Bd 8), München 1983, S. 34–36, 209–14.
+
+Dehio 1990, S. 1113 f.
+
+Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Landes Bd 7, hg. im Auftrag des Museumsvereins Dachau e.V.), Dachau 1991, S. 204 f.
+
+{{End}}

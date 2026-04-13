@@ -1,0 +1,39 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=318
+|Originalseitenbis=318
+|Lemma=Embleme-Register (Band 5)
+|davor=Ikonographisches Register (Band 5)
+|danach=
+}}
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=10 -->
+<!-- citation-page-top: Band05 p318 -->
+
+
+Embleme 150, 229 f., 258, 260, 270 f., 280-83, 296, 298, 300
+
+Emblemähnliche Darstellungen 23, 36, 40 f.
+
+== Bildmotive ==
+
+ 
+Adler 281, 283, 296 Bienenkorb 281, 283 Bienenkorb, darüber Geisttaube 258, 260 Birgittenkreuz 36 Brennender Dornbusch 229 Brunnen mit drei Schalen 23 Felsen am Meer (Muschel) 271 Fruchttragender Baum 280, 282 Gans 296 Garbe 281, 283 Geflügelte Perlmuschel 271 Gold, im Feuer geläutert 230 Granatapfel 296 Herrschaftsinsignien, mit Füßen getreten 36 Hirsch am Brunnen 280, 282 Hügel mit Bach und Schafen 36 Kelch mit Jesuskind 36 Krone, nach der zwei Hände greifen 36, 41 Krone, Zepter und Mitra, von Füßen getreten Leuchtturm 280, 282 Loreto, Übertragung des Hauses 36, 40 Maria mit Kind und Mond 36, 41 Maria mit Kind und Sonne 36, 41
+
+Obelisk mit Pilger- und Birgittenstab 36, 41 Pelikan 280, 282, 296 Perlmuschel im Garten 271 Phönix 229, 280, 282 Putten mit Kranz 258, 260 Putten mit Weinglas und Apothekergefäß 150 Putto gießt Blumen 150 Regenbogen 198 Rose (Muschel) am Meer 271 Schwalbe und das Kraut Chelidonia 296, 298 Sonne, aufgehend 23, 258 Sonne, untergehend 258 Sonnenblume 281 f. Taube mit Ölzweig 281–83 Vogel/Distelvogel 298 Vulkan 296 Vulkan Abanus 230 Wälder, zwei 36
+
+
+== Lateinische Lemmata ==
+
+Ad sobrietatem vel ad nauseam unum est nec rium 150 Ad vos quia plena opibus venio 23 Alta petit 299 Ave 36, 40 En spes domibus Maria ora pro nobis 23 Caelesti implenda nectare 258 Coronata caeli empyreo 271 Coronata virtutum floribus 271 Crescite 36, 40 Dum crematur, renovatur 282 Ecce pharus, per quem salus 282 Electa 36, 41
+
+Favum tegit, quando legit 283 Flos amorum, gemma florum 282 Fructus bonos, profert multos 282 Hanc, non ista 36, 41 Hic dum regit, suos tegit 282 Hic non pavet, solem avet 283 Me sine cessat opus 23 Mea gloria spargi est 23 Nata in valle lacrimorum 271 Occasus splendore coruscans 258 Ornata maris stella 271 Ortus sine lumine tristis 258 Pax per vivam, hanc olivam 282 f. Per amorem, dat cruorem 282 Peregrinando 36, 41 Profert lumen caecis 298 Pulchra 36, 41 Pulchra et canora 298 Quod habeo largior 298 Semper vigilans 299 Spe non vana, florent grana 283 Specie exhilarat 298 Suaviter dispendit 299 Veni coronaberis 260 Vires reficiantur non opprimantur 150
+
+== Deutsche Lemmata ==
+
+Ein gantz neues Leben in Feur ihm wirdt geben. 229 Er brinet zwar in der Glueth, doch ihn nit verzöhren thuet. 229 Es wird im Feur nit verzehrt, sein Schein und Glantz würdt vermehrt 230 Von unten schen blüehet und oben doch glüehet.
+<!-- citation-page-bottom: Band05 p319 -->
+
+{{End}}

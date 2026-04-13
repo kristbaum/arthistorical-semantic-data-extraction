@@ -1,0 +1,207 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=168
+|Originalseitenbis=177
+|Lemma=Markt Indersdorf, Marktkirche St. Bartholomäus
+|Typ=Sakral
+|Ort=Markt Indersdorf
+|davor=Lauterbach, Filialkirche St. Alban
+|danach=Odelzhausen, Pfarrkirche St. Benedikt
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band05 p168 -->
+
+<!-- header: MARKT INDERSDOR -->
+
+
+== MARKT INDERSDORF ==
+
+
+Marktkirche, Filiale der Pfarrei Kloster Indersdorf, Gemeinde Markt Indersdorf, Erzdiözese München und Freising; z. Z. der Ausmalung war die Pfarrei Indersdorf dem Augustiner- Chorherrenstift Indersdorf inkorporiert. Der Ort Indersdorf bildete zusammen mit Wöhr und Albersbach die dem Stift gehörige Hofmark Indersdorf und war Sitz des Indersdorfer Klosterrichters. Gericht Kranzberg (nördlich der Glonn, die zwischen Kloster und Markt fließt und die Grenze zwischen den Gerichten Dachau und Kranzberg bildete; das südlich der Glonn gelegene Kloster gehörte zum Gericht Dachau)
+
+'''Patrozinium:''' St. Bartholomäus, bis ins 15. Jh. St. Laurentius
+
+'''Zum Bauwerk:''' Um 1200 wurde eine einfache Saalkirche mit eingezogenem Rechteckchor erbaut. Von dieser Kirche sind die Seitenwände des LHs noch erhalten. Neubau des Chors und Verlängerung der Kirche nach W unter dem Indersdorfer Propst Johann Rothut (1442–70). Barockisierung 1711/16. Der Stuck ist Johann Benedikt Heiß zuzuschreiben. Hochaltar 1734 (Altarblatt signiert P(?) Reismiller 1734; frdl. Mitt. Erwin Wiegerling, Bad Tölz), Fassung von Altar und Kanzel 1739 von Benedikt Dersch, Maler in Freising.
+
+Einfacher Saal mit Empore im W, Belichtung durch drei Fenster von N und zwei von S; AR in gleicher Breite zu zwei Jochen mit dreiseitigem Schluß, Belichtung durch je ein Fenster von N und S sowie zwei im Chorschluß.
+
+'''Auftraggeber:''' Inschrift auf dem Gedenkstein zwischen Sakristeitür und Kanzel: Denk o Mensch, wer ich gewesen / Du, der du dies thuest hier lesen / Was geschribn auf diser stein / Den Kranken, wie auch Betroffenen / Gab ich was von mir verlangten / Jeden ein Stützen wolte sein / Dies Gottshauß auch wird beyfallen / So aufgricht zu Jedes Gfallen / Bsuech hierdurch nur Gottes Ehr / Dieses wirst ja nit vergessen / Mismit gleicher Hilf Einmessen / All mein Leid in Freud verkehren / Wolfgangus Josephus Gerstlacher / alters 66. Jahr gestorben den 21. Jänner anno 1743. – Mit großer Wahrscheinlichkeit war Gerstlacher der Stifter der Barockisierung, denn der Begriff {ZITAT|000} bezieht sich zumindest auf eine bedeutende Verbesserung bzw. Verschönerung.
+
+Bei den Grabungen anläßlich der letzten Restaurierung wurde das Grab Gerstlachers unmittelbar vor dem Hochaltar aufgefunden, das seiner Frau im LHs (frdl. Mitt. Tilma Mittelstraß). Wolfgang Joseph Gerstlacher wurde als Sohn des Indersdorfer Bierbrauers Johann Jakob Gerstlacher und seiner Ehefrau Eva Ursula Arlett am 2. 9. 1677 geboren; er heiratete am 26. 4. 1696 Maria Wallner aus Vierkirchen († 1740), mit der er zehn Kinder hatte. Er war Bierbrauer in Indersdorf und gehörte zu den wohlhabendsten Einwohnern (sein Epitaph befindet sich in der Eingangshalle). Am 21. 2. 1743 starb er, {ZITAT|001} (Sterbeeintrag im Totenbuch).
+
+'''Autor und Entstehungszeit:''' Zuweisung an Johann Reismiller (* unbekannt, spätestens seit 1703 in Friedberg ansässig, † 14. 4. 1752 Friedberg, frdl. Mitt. Hubert Raab, Friedberg), 1716
+
+Am Chorbogen befindet sich die Inschrift Anno 1711 & Anno 1716. Eine Erklärung der beiden Daten, die sich sicher auf die Barockisierung beziehen, kann vielleicht die Tatsache geben, daß durch Franz Debold unter einem der Bilder eine Tüncheschicht nachgewiesen wurde; möglicherweise wurde also die Decke 1711 stuckiert, getüncht und erst 1716 in Seccotechnik ausgemalt.
+
+In Indersdorf war in der fraglichen Zeit kein Maler ansässig. Das Hochaltarblatt ist signiert <i>P.(?) Reismiller 1734</i>. Der Maler Johann Reismiller war Maler und Ratsherr in Friedberg, dessen erste nachgewiesene Arbeit 1718 für Ebertshausen war (Gruber 1982, S. 368). Er malte 1730 die Fresken in der Pfarrkirche St. Peter und Paul in Sielenbach (Schw LKr. Aichach-Friedberg), Medaillons an der Langhausdecke mit kleinfigurigen Szenen. Die Sielenbacher Deckenbilder zeigen in Architektur- und Figurendarstellung so viele Ähnlichkeiten mit den Deckenbildern in Markt Indersdorf, daß man diese Reismiller zuweisen kann, soweit eine feste Zuweisung bei dem schlechten Zustand der Bilder in Markt Indersdorf möglich ist. (Zu dem Maler Reismiller s. Georg Paula, Die Malerei des 17.-19. Jahrhunderts in Friedberg, in: Stadtbuch Friedberg, Bd 2, Kunst- und Kulturgeschichte Friedberg 1991, S. 617 f.).
+
+Der Dachauer Maler Johann Georg Hörmann (* 1672/73 Dachau † 1749 Dachau) war 1717/18 mit zahlreichen Arbeiten für Kloster Indersdorf beschäftigt, u.a. freskierte er den Chor von Straßbach (s. S. 254-61). Aus historischen Gründen kommt er als Autor auch in Betracht, doch spricht der stilistische Befund für Reismiller
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Flachdecke. Rahmen: A<sub>1-4</sub> Stuckprofilleiste; A<sub>a-b</sub> Stuckornament-Kartuschen; B, B<sub>1-4</sub> Stuckprofil
+
+Technik: Secco (Temperatechnik mit ölhaltigen Bindemitteln, frdl. Mitt. Franz Debold); sämtliche Deckenbilder sind polychrom
+
+Maße: A<sub>1-4</sub> Höhe 6,10 m; Ø 0,85; B Höhe 5,60 m; 2,70 × 2,00
+
+Erhaltungszustand und Restaurierungen: Innenrestaurierung 1846: Der Stuck wurde ausgebessert, die bis dahin weiße Raumschale wurde steingrau gestrichen, nur die Stuckornamente blieben weiß. Auf eine weitere Restaurierung weist das Datum 1897 (1807?) auf der Vase in B hin. 1937 reinigte Christian Seibold, Freising, die Deckenbilder und tupfte Fehlstellen aus. Bis zur nächsten Restaurierung 1972/73 durch Fa. Otto Wimmer, München, war der Zustand der Bilder schon wieder schlecht: Sie zeigten Risse, Wasserschäden und Abblätterungen, die ausgebessert wurden. Ihre Anfälligkeit erklärt sich aus der Temperatechnik mit ölhaltigem Bindemittel, in der sie gemalt sind. Letzte Restaurierung 1995 durch Franz Debold, München. Nach seinem Befund sind die Bilder durch die vorangegangenen Restaurierungen stark beeinträchtigt: »Starker Brillanzverlust des Originals, Nachdunklung. Überarbeitungen weit-<!-- citation-page-bottom: Band05 p169 -->
+
+
+[[File:Band05_chunk004_p010_img001.jpg|thumb|Der Kirchenraum]]
+
+
+
+[[File:Band05_chunk004_p010_img002.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=11 -->
+<!-- citation-page-top: Band05 p170 -->
+
+<!-- header: MARKT INDERSDORF -->
+
+[[File:Band05_chunk004_p011_img001.jpg|thumb]]
+
+gehend irreversibel.« Die Übermalungen früherer Restaurierungen konnten aus technischen Gründen nicht abgenommen werden. Die Bilder wurden trocken und feucht gereinigt, die Malschicht gesichert, die Risse und Ausbrüche gekittet und die Fehlstellen retuschiert (die Abbildungen von A<sub>1-4</sub> und A<sub>a-b</sub> sowie B zeigen den Zustand vor, von B<sub>1-4</sub> den Zustand nach der letzten Restaurierung).
+
+== Beschreibung und Ikonographie ==
+
+O F Die Decke von LHs und AR ist durch Profilleisten und Stuckfelder geometrisch gegliedert; die Bildfelder A<sub>1-4</sub>, A<sub>a-b</sub> schließen ein rechteckiges leeres Mittelfeld ein, das eine Heilig-Geist-Öffnung im Zentrum zeigt (keine
+
+A<sub>1-4</sub>, A<sub>a-b</sub> SZENEN AUS DEM NEUEN TESTAMENT Jeweils an der Seitenmitte des an der LHs-Decke rechteckig
+
+
+[[File:Band05_chunk004_p011_img002.jpg|thumb|A. Heilung des Lahmen A. Der Verlorene Sohn]]
+
+
+umlaufenden Stuckbandes sind Medaillons angebracht. A<sub>1</sub> und A<sub>3</sub> sind an der Deckeninnenseite von Bildfeldern in Kartuschen begleitet. Ansicht aller Bilder nach O.
+
+A<sub>1</sub> TEMPELREINIGUNG (Joh 2,13–17 u. Par.) Der Tempel von Jerusalem ist durch seitliche Säulen und die Bundeslade im Hintergrund angedeutet. Jesus schwingt die
+
+Geißel über die Händler, die nach allen Seiten zu fliehen versuchen. - Nach der Austreibung der Händler aus dem Tempel »erinnerten sich seine Jünger, daß geschrieben steht Der Eifer für dein Haus wird mich verzehren «. 
+
+<blockquote>»erinnerten sich seine Jünger, daß geschrieben steht: Der Eifer für dein Haus wird mich verzehren.«</blockquote>
+
+A<sub>2</sub> JESUS UND DIE EHEBRECHERIN (Joh 8,1-11) Die Szene spielt vor einer Säulenarchitektur. Rechts steht die
+<!-- citation-page-bottom: Band05 p171 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=12 -->
+<!-- citation-page-top: Band05 p172 -->
+
+[[File:Band05_chunk004_p012_img001.jpg|thumb]]
+
+Ehebrecherin, vor ihr bückt sich Jesus und schreibt schweigend in den Sand. Ringsum stehen Hohepriester und Volk. - Mit der Säulenarchitektur ist wieder der Tempel von Jerusalem gemeint. Während Jesus vor dem Tempel lehrte, brachten die Pharisäer die Ehebrecherin zu ihm und fragten ihn, ob man sie, dem Gesetz folgend, steinigen solle. »Jesus aber<br>bückte sich nieder und schrieb mit dem Finger auf die Erde.<br>Als sie jedoch hartnäckig weiterfragten, richtete er sich auf und sprach zu ihnen: Wer von euch ohne Sünde ist, werfe als erster einen Stein auf sie.«
+
+A<sub>3</sub> DIE HEILUNG DES LAHMEN (Act 3,3-8) Auf den Stufen einer Säulenarchitektur, die das schöne Tor« des Tempels von Jerusalem darstellt, liegt ein Lahmer mit zerschundenen Beinen und Krücken. Er streckt bettelnd die Hände nach Petrus aus, der mit Johannes eben zum Tempel emporgeht. Mit Gesten des Mitleids wendet sich Petrus dem Lahmen zu. »Petrus aber sprach: Silber und Gold besitze ich nicht; was ich aber habe, das gebe ich dir: im Namen Jesu<br>Christi des Nazaräers, wandle! Und er faßte ihn bei der rechten Hand und richtete ihn auf. Sogleich wurden seine Füße und Gelenke fest. Er sprang auf und konnte stehen, und er ging umher; er ging an ihrer Seite in den Tempel, lief und sprang umher und lobte Gott.«
+
+A<sub>4</sub> DER ZWÖLFJÄHRIGE JESUS IM TEMPEL (Lc 2, 41–50) Im Innern des Tempels sitzt Jesus an einer Säule, hält ein geöffnetes Buch auf den Knien und hat die Rechte lehrend erhoben. Ihn umringen die Schriftgelehrten. Im Hintergrund sieht man Maria und Joseph auf der Suche nach ihrem Sohn den Tempel betreten. 
+
+A<sub>a</sub> PHARISÄER UND ZÖLLNER (Lc 18, 10–14) Das Innere des Tempels ist als weite Säulenhalle dargestellt. Der Pharisäer kniet mit ausgebreiteten Armen vor dem Altar, im Hintergrund sieht man in Demutshaltung den Zöllner. – In diesem Gleichnis Jesu geht es um den Wert der Demut vor Gott. »Der Zöllner aber stand weit entfernt und wollte nich einmal die Augen zum Himmel erheben, sondern schlug an<br>seine Brust und sprach: Gott, sei mir Sünder gnädig. Ich sage<br>Euch: Dieser ging gerechtfertigt nach Hause, anders als jener Denn jeder, der sich selbst erhöht, wird erniedrigt werden wer sich selbst aber erniedrigt, wird erhöht werden.«
+
+A<sub>b</sub> DER VERLORENE SOHN (Lc 15, 11-32) Der verlorene und wieder heimgekehrte Sohn kniet links im Bild vor seinem Vater, der ihm entgegengeeilt ist und ihn umarmt. Vor dem Tor des Hauses rechts steht der ältere Sohn und ringt die Hände. – Dieses Gleichnis Jesu von der Freude des Vaters über den wiedergefundenen Sohn sollte Gnade und Erbarmen Gottes illustrieren; die Reaktion des älteren Sohnes, das Pochen auf Recht und Gerechtigkeit, wird in den Bibelkommentaren als Verhalten der Pharisäer gedeutet. Damit sind die gegenüberliegenden Kartuschenbilder A<sub>a</sub> und A<sub>b</sub> nicht nur formal als Pendants zu verstehen.
+
+[[File:Band05_chunk004_p012_img002.jpg|thumb]]
+
+B ABENDMAHL (Mt 26, 26–29) Stufen führen ins Bild ein. Vor einer Säulenarchitektur, um deren Gebälke sich Draperien schlingen, ist der Abendmahlstisch bildparallel aufgebaut. Jesus sitzt in der Mitte, ausgezeichnet durch eine hinter ihm in der Rückwand befindliche Exedra. Er segnet das Brot. Unter den Aposteln, die je sechs an jeder Seite sich um den Tisch scharen, sind am Typus Petrus und Johannes zu Seiten Christi zu erkennen, außerdem Judas rechts vorn. Auf den Stufen im Vordergrund stehen kostbare Gefäße; ein kleiner Hund bellt eine Katze an, die unter dem Mantel des Judas Schutz sucht. – Das Bild, das ohne jede Untersichten oder Verkürzungen rein tafelbildmäßig komponiert ist, wurde offenbar nach einer graphischen Vorlage gemalt.
+
+Die vorherrschende Farbe ist Karminrosa in Säulen, Draperien und Gewändern. Dazu kommen Blau und Gelb als Kontraste.
+
+[[File:Band05_chunk004_p012_img003.jpg|thumb|B Abendmahl]]
+<!-- citation-page-bottom: Band05 p173 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=13 -->
+<!-- citation-page-top: Band05 p174 -->
+
+<!-- header: MARKT INDERSDORF -->
+
+<!-- header: MARKT INDERSDOR -->
+
+
+[[File:Band05_chunk004_p013_img001.jpg|thumb]]
+
+
+
+[[File:Band05_chunk004_p013_img002.jpg|thumb|B, Hoherpriester Aaron]]
+
+
+
+[[File:Band05_chunk004_p013_img003.jpg|thumb]]
+
+
+
+[[File:Band05_chunk004_p013_img004.jpg|thumb|B<sub>4</sub> Joseph und seine Brüder]]
+
+
+B<sub>1-4</sub> Alttestamentliche Szenen (Photographische Aufnahmen nach der Restaurierung von 1995)
+
+B<sub>1-4</sub>, EB<sub>1-4</sub> ALTTESTAMENTLICHE SZENEN Vier Medaillons in den Diagonalen des Hauptbildes im AR und vier querformatige Bildfelder an der Emporenbrüstung zei-<br>gen Szenen aus dem Alten Testament.
+
+B<sub>1</sub> DAVID König David, mit Krone und Mantel, sitzt vor einer Balustrade und spielt Harfe.
+
+B<sub>2</sub> AARON Das Bild zeigt einen Hohenpriester, nach der Vorschrift gekleidet, die Gott dem Moses für die Kleidung des ersten Hohenpriesters Aaron gab (Ex 28, 2-39): er trägt das Ephod mit dem Glöckchensaum, den Brustschild mit den zwölf Edelsteinen und das Diadem. In Händen hält er ein Weihrauchfaß.
+
+B<sub>3</sub> JEHU UND JONADAB (4 Reg 10, 15–18) Bildschauplatz ist eine Stadt mit Mauern und Palästen. Im Vordergrund, auf einem grünen Wiesenplan, ziehen zwei Rinder einen Karren. Im Karren sitzen zwei ältere, bärtige Männer. Zwei weitere Soldaten agieren auf den Wagen zu. Im Vordergrund liegt ein gefallener Krieger. Bei den Rindern (als ihr Führer?) und am linken Bildrand sind zwei weitere Soldaten zu sehen, dazu links noch ein weißgekleideter junger Mann und ein junger Diener (?) am Wagen. – Diese Darstellung ist nicht mit Sicherheit zu identifizieren, es muß sich aber im Zusammenhang der AR-Bilder um eine Szene aus dem Alten Testament handeln. Da die beiden Männer im Wagen originaler Bildbestand sind und nicht Zutat einer Restaurierung (frdl. Mitt. Franz Debold), kann es sich nicht um die Rückführung der Bundeslade durch die Philister handeln (1 Sam 6, 1-12), worauf die Kühe als Gespann und die Krieger an sich hinweisen würden. - Vielleicht stellt das Bild die völlig ungewöhnliche Szene von der Fahrt Jehu und Jonadabs dar (frdl. Mitt. P. Gregor Lechner). Jehu, von Jahwe zum König Israels gesalbt mit dem Befehl, die Nachkommen Achabs zu erschlagen, bestieg einen Wagen (von Rindern ist im AT keine Rede) und machte sich auf, von Kriegern begleitet, um den Befehl Jahwes auszuführen. Auf dem Wege traf er Jonadab und hieß ihn den Wagen besteigen: »Zieh mit mir, und du wirst dich weiden an meinem Eifer für Jahwe!« So wurde Jonadab Zeuge der Hinmetzelung von Achabs Nachkommen in Samaria. In der Geschichte von Jehu geht es in erster Linie um die Zerstörung des Baalstempels und die Vernichtung der Anhänger Baals; Jehu wie Jonadab waren Anhänger Jahwes.
+
+An sich würde sich die Szene in das Hauptthema von Schuld und Strafe einfügen, wie es in der Geschichte von Joseph und seinen Brüdern angeschlagen ist und in den Bildern der Emporenbrüstung fortgeführt wird. Doch spricht gegen die Deutung Jehu/Jonadab, daß Jehu als Krieger und König in einem schnellen Wagen fuhr, was einmal ausdrücklich gesagt ist (4 Reg 9,20), und nicht in einem Rinderkarren.
+
+B<sub>4</sub> JOSEPH UND SEINE BRÜDER (Gen 43, 24–29) Links sieht man unter einem Baldachin einen orientalischen König mit Turban und Schmuck thronen. Auf einem Tischchen neben ihm stehen kostbare Gefäße. Ein Torbogen in der Bildmitte gibt den Blick frei auf ein Feld, auf dem sich elf Garben vor einer zwölften verneigen, die in ihrer Mitte steht. Rechts am Bildrand drängt unter Säulen eine kleine Schar heran, an deren Spitze ein weißgekleideter Knabe von einem Mann mit Stab an der Hand gehalten wird. - Das Bild, an sich kaum deutbar, läßt sich nur durch die Darstellung der zwölf Garben im Hintergrund identifizieren. Sie erinnern an den Traum Josephs als Knabe (Gen 37, 6-8), in dem sich beim Garbenbinden auf dem Felde die elf Garben der Brüder vor Josephs Garbe neigten. Der Augenblick der Erfüllung dieses Traums muß im Bild gezeigt sein: Josephs Herrlichkeit als Statthalter von Ägypten und die Brüder, die mit Benjamin kommen, um sich vor ihm bis zur Erde zu verneigen und ihn um Getreide zu bitten.
+
+EB<sub>1</sub> BESTRAFUNG DER ROTTE KORAH (Num 16, 25-32) Das Bild zeigt ein Zeltlager; Moses und Aaron stehen links. Vor ihnen versinkt eine Rotte Bewaffneter in der Erde. Die Zelte wanken. - Korah und seine Anhänger hatten sich gegen Moses erhoben, denn sie beanspruchten das Priesteramt wie Aaron. Zur Strafe und um die Sendung von Moses und Aaron zu bekräftigen, spaltete Gott die Erde, und sie verschlang die Rotte Korah.
+
+EB<sub>2</sub> DIE PEST ÜBER ISRAEL (2 Sam 24, 10–16) Vor einer Substruktion mit Sockel und Bogenöffnung sind Kranke und Sterbende dargestellt. Links kniet ein König und hat die Hände flehend zum Himmel erhoben, wo man einen Engel mit gezogenem Schwert sieht. - David bat Gott um eine Strafe für seine Sünden: Gott ließ ihm die Wahl zwischen Hungersnot, Verfolgung durch Feinde und dreitägiger Pest. »Da sagte David zu Gad: Mir ist sehr bange. Wir wollen lieber in die Hände Jahwes fallen; denn groß ist sein Erbarmen. In die Hände von Menschen dagegen möchte ich nicht fallen« (2 Sam 24,14), und er wählte die Pest. Ein Engel brachte das Unheil über das Volk. Da flehte David zu Gott, und dieser ließ sich durch ein Opfer versöhnen. Links am Bildrand ist der Seher Gad dargestellt, der dem David die Botschaft Gottes gebracht hatte.
+
+EB<sub>3</sub> DIE SINTFLUT (Gen 7, 17–24) Das Bild zeigt eine weite, von Wasser überschwemmte Landschaft. Berge und eine Stadt im Hintergrund ragen über die Wasserfläche empor. Im Vordergrund sieht man verzweifelte Menschen und Tiere, die versuchen, der Flut zu entkommen. Auf dem Wasser schwimmt die Arche Noah. - Jahwe ließ alle Menschen wegen ihrer Bosheit durch die Flut zugrundegehen, nur Noah, der ein gerechter Mann und gottesfürchtig war, wurde mit seiner Familie gerettet.
+
+EB<sub>4</sub> DIE ZERSTORUNG SODOMS / LOT UND SEINE TÖCHTER (Gen 19) Das Bild gibt links einen Ausblick auf eine Meeresküste mit der Stadt Sodom im Hintergrund, die vom Feuer verzehrt wird. Davor, am Wege, ist das zur Salzsäule erstarrte Weib Lots dargestellt, rechts im Bild vor einer von Felsen gebildeten Höhle Lot mit seinen Töchtern. – Die Sodomiter wollten die zwei von Jahwe gesandten Engel schänden, Lot schützte sie, daraufhin wurden er und seine Töchter gerettet, die Stadt Sodom zerstört.
+
+
+== Ikonologie ==
+
+
+In der Auswahl der LHs-Szenen A<sub>1-4</sub> und A<sub>a-b</sub> ist eine gemeinsame Thematik zu erkennen: Dem alten Bund, der Welt der Schriftgelehrten und Pharisäer, dem alten Gesetz wird der neue Bund gegenübergestellt, Gottes Erbarmen und Gnade. Gleichzeitig ist Schwerpunkt des Programms das Haus Gottes, der Tempel von Jerusalem. Der zwölfjährige Jesus setzt im Tempel die Schriftgelehrten in Erstaunen mit seiner Kenntnis der Schriften. Zu seinen Eltern sagt er: »Wußtet ihr nicht, daß ich in dem sein muß, was meines Vaters ist?« Bei der Austreibung der Händler ist Jesus von Zorn erfaßt – ganz im Gegensatz zu seiner sonstigen Haltung von Gnade und Verzeihen; die Verletzung der Würde des Gotteshauses ist ein großes Verbrechen. Die beiden Darstellungen von der Ehebrecherin und von Pharisäer und Zöllner, die beide vor dem bzw. im Tempel spielen, drücken das Grundthema des Gegensatzes von Altem und Neuem Testament, dort Gesetz und starres Recht, hier Gnade und Verzeihung, am klarsten aus. Auch das Bild von der Heilung des Lahmen kann in diesen Sinnzusammenhang eingeordnet werden, wenn man den weiteren Verlauf der Szene verfolgt:
+<!-- citation-page-bottom: Band05 p175 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=14 -->
+<!-- citation-page-top: Band05 p176 -->
+
+[[File:Band05_chunk004_p014_img001.jpg|thumb]]  
+[[File:Band05_chunk004_p014_img002.jpg|thumb|EB<sub>4</sub> Die Zerstörung Sodoms / Lot und seine Töchter]]  
+
+Wieder spielt die Szene vor dem Tempel; nach der Heilung strömte das Volk zu Petrus, und Petrus macht ihm Vorwürfe, daß es Jesus habe kreuzigen lassen: »Aber ich weiß, Brüder, ihr habt aus Unwissenheit gehandelt, wie auch eure Führer ... Tut also Buße und bekehret euch, damit eure Sünden getilgt werden ... « (Act 3,17–19). Der verlorene Sohn, der reumütig zu seinem Vater zurückkehrt, wird dem selbstgerechten älteren Sohn gegenübergestellt.  
+
+Dieses Gegensatzpaar entspricht dem von Pharisäer und Zöllner in Fresko A.  
+
+Die beiden Themen waren offenbar für den Entwerfer des Bildprogramms gleichwertig: die Darstellung vom zwölfjährigen Jesus bedeutet den Übergang vom Alten zum Neuen Bund, d. h. die neue Auslegung der heiligen Schrift. Selbstgerechtigkeit und Rache werden gewandelt in Demut und Vergebung. Das Gleichnis vom verlorenen Sohn ist ein archetypisches Bild für die Auffassung von Reue und Barmherzigkeit im Neuen Testament.  
+
+Die alttestamentlichen Darstellungen B3-4, EB1-4 beschäftigen sich alle mit Schuld und Strafe, aber auch mit der Rettung der Gerechten (Noah, Lot) und mit dem Erlassen der Schuld bei entsprechender Reue (Josephs Brüder, David). Das Bindeglied zwischen Altem und Neuem Bund bildet das Abendmahl in B.  
+
+[[File:Band05_chunk004_p014_img003.jpg|thumb|EB1-4 Alttestamentliche Szenen]]  
+[[File:Band05_chunk004_p014_img004.jpg|thumb|EB2 Die Pest über Israel]]  
+
+== Quellen und Literatur ==  
+
+BHStA I, KL Indersdorf 11: Beschreibung der Pfarr- und Filialkirchen des Klosters Indersdorf 1666; KL Indersdorf 151: Verzeichnis der zum Kloster Indersdorf gehörigen Kirchen, 1480 (zum ehem. Patrozinium); KL Indersdorf 220: Rechnungen des Klosters Indersdorf 1717–21; 358, 359: Kirchenrechnungen von St. Bartholomäus 1740–59.  
+
+StAM, LRA 34402 (Restaurierung 1846).  
+
+AEM, Pfarrakten Indersdorf: Pfarrbeschreibung; Bauten II; Filiale Markt Indersdorf 1738–1898.  
+AEM, Matrikeln der Pfarrei Indersdorf.  
+AEM, Kunsttopographie der Erzdiözese, Dekanat 27/Indersdorf (Stefan Nadler), Indersdorf I und IV.  
+
+Schmidtsche Matrikel, Bd 2, S. 386. Mayer-Westermayer, Bd 3, S. 149.  
+KDB I OB (1), S. 302 f.  
+Historischer Atlas I, Bd 11/12, S. 221.  
+Heimatbuch Landkreis und Stadt Dachau, Aßling/München 1971, S. 105.  
+Kunst- und Kulturdenkmäler 1977, S. 304.  
+Dehio 1990, S. 621.  
+
+Debold, Franz, Indersdorf, Landkreis Dachau. Kath. Filialkirche St. Bartholomäus. Restaurierungsarbeiten an den Deckenbildern. Restaurierungsbericht 1995 (Ms.).  
+Mittelstraß, Tilman, Markt Indersdorf, St. Bartholomäus. Archäologische Grabung 1995. Grabungsbericht 1996 (Ms.).
+<!-- citation-page-bottom: Band05 p177 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=15 -->
+{{End}}

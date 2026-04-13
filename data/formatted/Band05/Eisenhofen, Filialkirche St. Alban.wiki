@@ -1,0 +1,140 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=60
+|Originalseitenbis=63
+|Lemma=Eisenhofen, Filialkirche St. Alban
+|Typ=Sakral
+|Ort=Eisenhofen
+|davor=Egenburg, Pfarrkirche St. Stephanus
+|danach=Grossberghofen, Kuratiekirche St. Georg
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band05 p60 -->
+
+<!-- header: EISENHOFEN -->
+
+
+== EISENHOFEN ==
+
+
+Filialkirche der Pfarrei Hirtlbach, Pfarrverband Erdweg, Gemeinde Erdweg, Erzdiözese München und Freising; z. Z. der Ausmalung war Eisenhofen Fürstbischöflich-Freisingische Hofmark und Sitz des Pflegrichters des Fürstbischöflich-Freisingischen Pflegamts Eisenhofen, zu dem auch die Hofmarken Kleinberghofen, Asbach und Lampertshausen gehörten. Gericht Kranzberg
+
+
+'''Patrozinium:''' St. Alban
+
+
+'''Zum Bauwerk:''' Anstelle einer schon 1101 existierenden Kirche Neubau in der Zeit der Spätgotik, wovon der Chor noch steht. Schwere Beschädigungen des LHs 1632 durch die Schweden, Neubau 1680. 1885 Erweiterung nach W. Saal zu fünf Jochen mit Pilastergliederung, Empore im W gleichmäßige Belichtung von N und S; eingezogener AR zu zwei Jochen mit dreiseitigem Schluß, Belichtung von N. O. S.
+
+'''Auftraggeber:''' Pfarrer Joseph Resch von Hirtlbach (1752-67); dies geht aus einem Brief des Pfarrers Wolfgang Widemann von Kleinberghofen an den Fürstbischof in Freising vom 22.9.1773 hervor: »Also mahlte Er (= J. G Dieffenbrunner) das Gotteshaus zu Eisenhofen der Pfart Hirtlbach, er accordierte mit dem dortmahligen H: Pfarren und dermaligen Titl. Herrn Dechant zu Sittenbach Joseph<br>Resch, der accord ware 150 fl., darzu mußte er ihm seiner Wein selbst beschaffen und mußte der Contract auf 200 fl aussagen« (AEM, publiziert bei Paula, S. 332). Dieffenbrunner pflegte offenbar mündlich niedriger zu akkordieren als schriftlich, damit der schriftliche - höhere - Akkord ihm die Verhandlungen mit künftigen Auftraggebern erleichtere. Pfleger des Freisingischen Pflegamts Eisenhofen war in der Ausmalungszeit Mathias Lorenz Pschemele, Freisingischer Hof- und Kammerrat, dessen Epitaph sich im AR der Kirche Eisenhofen befindet.
+
+'''Autor und Entstehungszeit:''' Johann Georg Dieffenbrunner (* 1718 Mittenwald † 1785 Augsburg) 1761. Signatur in A J: Georg: Dieffenbrunner, Pinxit: Ao 1761.
+
+Dieffenbrunner (s. S. 86) malte die Hofmarkskirche vor Eisenhofen im gleichen Jahr wie die Hofmarkskirche von Inhausen. Paula (S. 32) vermutet, daß die Ausmalung von Inhausen der von Eisenhofen vorangegangen sei, weil Dieffenbrunner das Dekorationsschema des Chors von Inhauser (S. 90) in Eisenhofen auf das Gewölbe des ganzen Kirchenraums ausdehnte und vervollkommnete (er sollte es bis in die siebziger Jahre beibehalten), das Dekorationsschema des LHs in Inhausen dagegen, das eine Weiterentwicklung der Nikolauskapelle in Indersdorf (1759) ist, in Eisenhofen und in der Folgezeit nicht mehr weiterführte. »Der primäre Grund dafür, daß Dieffenbrunner nun die gesamte Decke mit seiner Ornamenten und Pflanzenformen schmückte, könnte be einer größtmöglichen Reduzierung der Kosten zu sucher sein. Durch die Arbeit des Mittenwalders blieben den nicht allzu vermögenden Landgeistlichen ... die zusätzlichen Aufwendungen für einen Stukkateur erspart« (Paula, S. 32).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Flachtonne mit Stichkappen AR verschliffenes Kreuzgratgewölbe
+
+Rahmen: Sämtliche Rahmen sind gemalt und Teil der gemalten Gewölbedekoration. A gebogter Rahmen, von Rocailleornamenten übergriffen; A<sub>1-4</sub> gemalte Ornamentkartuschen; B vierpaßförmiger Rahmen, in den Achsen von Rocailleornamenten übergriffen; B<sub>1-2</sub> gemalte Ornamentkartuschen Technik: Fresko; A und B polychrom, A<sub>1-4</sub> und B<sub>1-2</sub> Grisaille auf Goldbrokatgrund
+
+Maße: A Höhe 6,00 m; 6,30 × 3,85
+
+B Höhe 5,55 m; 4,60 × 3,40
+
+Erhaltungszustand und Restaurierungen: 1842 Ausbessern des Innenverputzes und Ausweißen. 1847/48 Renovierung
+
+
+[[File:Band05_chunk002_p006_img001.jpg|thumb|A Enthauptung des hl. Alban]]
+
+
+
+[[File:Band05_chunk002_p006_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band05 p61 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk002.pdf#page=7 -->
+<!-- citation-page-top: Band05 p62 -->
+
+<!-- header: EISENHOFEN -->
+
+
+[[File:Band05_chunk002_p007_img001.jpg|thumb]]
+
+
+
+[[File:Band05_chunk002_p007_img002.jpg|thumb]]
+
+
+
+[[File:Band05_chunk002_p007_img003.jpg|thumb]]
+
+
+
+[[File:Band05_chunk002_p007_img004.jpg|thumb|B Grabwunder des hl. Alban, B<sub>1-2</sub>, Putten]]
+
+
+der Altarausstattung, Erneuern der Fenster, Ausweißen im Innern. 1865 wurden die Gewölbe übertüncht, 1934 wurden die Fresken und die Dekorationsmalerei durch den Kirchenmaler Christian Seibold aus Freising wieder aufgedeckt. Die Deckenbilder wurden damals von Michael Gottschalk, Taufkirchen an der Vils, restauriert. Letzte Restaurierung der Gewölbemalereien 1975/76 durch Fa. Hans Mayrhofer München: Die Deckenbilder wurden gereinigt, Übermalungen abgenommen, Risse und Putzschäden ausgebessert und Fehlstellen eingestimmt. Von der Dekorationsmalerei wurden die Stichkappen im LHs, die vorher nur mit Leisten bemalt waren, zur übrigen Dekoration passend neu gemalt; ebenfalls neu bemalt wurden die Emporenbrüstungen (Photographische Aufnahmen von 1970).
+
+
+== Beschreibung und Ikonographie ==
+
+
+Dieffenbrunner malte im LHs-Gewölbe nur die damals existierenden drei Joche aus; die Stichkappen wurden mit Leisten verziert, die übrige Gewölbefläche um das Hauptbild A mit graubraunen, weiß gehöhten Rocaillen und Blütengehängen. Die vier Kartuschen A<sub>1-4</sub>, die offenbar bei der Aufdeckung nicht mehr zu retten waren und 1976 neu gemalt wurden, zeigen heute die vier Kardinaltugenden.
+
+Der Hintergrund - Goldbrokatmuster - entspricht dem der Kartuschen B<sub>1-2</sub> im AR, die den ursprünglichen Zustand zeigen.
+
+A ENTHAUPTUNG DES HL. ALBAN Einansichtige Szene; Aufnahmestandpunkt unter dem westlichen Bilddrittel; Ansicht nach O. - In der Darstellung von Architekturen und Architekturteilen arbeitet Dieffenbrunner mit starken Untersichten und Verkürzungen, wobei er auch die Stimmigkeit der Fluchtlinien beachtet, die hier auf einen Punkt der Himmelsdarstellung am unteren Ende der Figur Christi ausgerichtet sind. Mit einer Rampe, die aus dem Sarkophag und grasbewachsenen Felsen im Vordergrund besteht, versucht er Bildtiefe zu gewinnen und ordnet den Schauplatz der Bildszene, eine Wiese vor den Toren der Stadt, in Form einer seichten Bühne im Mittelgrund an. Dahinter fällt der Boden der Szene jäh ab und überschneidet damit zur Hälfte die Hintergrundsfiguren. Die Himmelslandschaft aus hellen und abgeschatteten Wolkenbänken zieht sich nach unten bis zum Horizont und überspielt damit Unstimmigkeiten in der Konstruktion des Bildraums.
+
+Im Zentrum der irdischen Szenerie kniet der hl. Alban mit zum Himmel gerichtetem Blick und erwartet den Streich des Henkers, der mit erhobenem Schwert neben ihm steht. Bärtige Krieger und Zuschauer sind um die Szene geschart. Im Vordergrund ist ein Sarkophag mit geöffnetem Deckel zu sehen, daneben eine trauernde Frau mit dem Grabtuch. Vom Himmel kommen auf hellen Wolkenbänken Engel und Putten; sie halten Lorbeerkranz und Palmzweig als Lohn für das Martyrium. Oben im Himmel erscheint Christus mit dem Kreuz, von Engeln umgeben. Sein Blick und seine Geste sind auf den hl. Alban gerichtet, bereit, ihn im Himmel zu empfangen.
+
+Wolken, Gebäude, auch die Landschaftsrampe zeigen den grau-braunen hellen Grundton, der Dieffenbrunners Bildschauplätzen eigentümlich ist. Es gibt kaum reine Buntfarben: ein blasses Rot, wenig Blau, ein kühles Grün mit geringer Gelbbeimischung treten in den Gewändern auf.
+
+A<sub>1-4</sub> KARDINALTUGENDEN Putten auf Wolken vor Brokatgrund halten Attribute der Vier Kardinaltugenden.
+
+A<sub>1</sub> Helm und Säulenstumpf für Fortitudo
+
+A<sub>2</sub> Trinkglas für Temperantia
+
+A<sub>3</sub> Waage für Iustitia
+
+A<sub>4</sub> Schlange für Prudentia
+
+B GRABWUNDER DES HL. ALBAN Einansichtige Szene, Ansicht nach O. – Ein konvex geschwungener Sockel aus Haustein führt in das Bild ein. Seine Oberseite, nach hinten in die Bildtiefe abfallend, bildet die Handlungsbühne. Zwei große Engelsgestalten heben links einen schweren Sarkophagdeckel hoch. Von rechts naht der bereits enthauptete hl. Alban und trägt sein Haupt in Händen. Nach hinten ist der Bildschauplatz durch eine unbestimmte Architektur abgeschlossen, deren Einzelheiten sich hinter der Fülle eindringender Wolken verlieren. Im Himmel ist die helle Glorienöffnung (ohne himmlische Personen) von Engeln und Putten umgeben.
+
+
+[[File:Band05_chunk002_p007_img005.jpg|thumb|A<sub>2</sub>, Temperantia]]
+
+
+Der hl. Alban von Mainz (21.6.), nach der Legende Glaubensbote (Priester oder Bischof), wurde 406 in Mainz enthauptet. Er trug seinen abgeschlagenen Kopf selbst zu seinem Begräbnisplatz südlich der Stadt (LCI, Bd 5, s. v. Alban von Mainz). Der Heilige ist hier in Eisenhofen nur als Priester dargestellt, es fehlen alle bischöflichen Attribute.
+
+B<sub>1-2</sub> PUTTEN Das Fresko im AR ist von zwei gemalten Rocaillekartuschen flankiert, die, in Grisaillemalerei auf Goldbrokatgrund, je einen Putto zeigen, der mit dem Finger auf die Szene im Hauptbild weist.
+
+
+== Quellen und Literatur ==
+
+
+BHStA I, HL 3, Rep. 1, Verz. 2, Fasz. 15 A und 15 B StAM, LRA 34569; 34583.
+
+AEM, Pfarrakten Kleinberghofen: Pfarrkirchenbauten 1654-1774, Brief des Pfarrers Widemann vom 22. 9. 1773. Schmidtsche Matrikel Bd 2 S 260 f.
+
+Mayer-Westermayer, Bd 3, S. 146 f.
+
+Historischer Atlas, Bd 11/12 (Pankraz Fried), München 1958, S. 203-07.
+
+Gruber, Max, Johann Georg Dieffenbrunner, in: Amperland 5, 1969, S. 90.
+
+Heimatbuch Landkreis und Stadt Dachau, Aßling/München 1971, S. 81, 171.
+
+Kunst- und Kulturdenkmäler 1977, S. 228.
+
+Paula, Georg, Johann Georg Dieffenbrunner. Leben und Werk (= tuduv-Studien, Reihe Kunstgeschichte, Bd 8), München 1983, S. 32 f., 106-08.
+
+ehio 1990, S. 242.
+<!-- citation-page-bottom: Band05 p63 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk002.pdf#page=8 -->
+{{End}}

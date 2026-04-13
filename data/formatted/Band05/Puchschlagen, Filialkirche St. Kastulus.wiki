@@ -1,0 +1,315 @@
+{{Artikel
+|Band=5
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=212
+|Originalseitenbis=223
+|Lemma=Puchschlagen, Filialkirche St. Kastulus
+|Typ=Sakral
+|Ort=Puchschlagen
+|davor=Pipinsried, Wallfahrtskapelle St. Wolfgang
+|danach=Rumeltshausen, Filialkirche St. Laurentius
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band05 p212 -->
+
+<!-- header: PUCHSCHLAGEN -->
+
+
+== PUCHSCHLAGEN ==
+
+
+Filialkirche, Pfarrei und Gemeinde Schwabhausen, Erzdiözese München und Freising; z.Z. der Ausmalung war Puchschlagen Filiale der Pfarrei Kreuzholzhausen. Gericht Dachau
+
+
+'''Patrozinium:''' St. Kastulus
+
+
+'''Zum Bauwerk:''' Das Mauerwerk der Kirche und der untere Teil des Turmes stammen aus spätgotischer Zeit. Im dreißigjährigen Krieg wurde die Kirche beim Durchmarsch der Feinde als Stall verwendet und verwüstet. Notdürftige Reparaturen 1647. 1663 Vergrößerung der Fenster (schon 1647 beantragt: es sei nötig, »die Khirchenfenster mit dem Liech zu erweittern«) und Renovierung der Holzdecke im LHs. Die oberen Geschosse des Turms wurden 1695 erbaut. Großer Bauschaden infolge eines Sturms 1727. Umgestaltung des Kirchenbaus 1729: Wölbung im LHs, Änderung der Fensterform (Baukosten 750 fl.), Innendekoration und Seitenaltäre. Der Hochaltar (1690) wurde 1740 aus der Pfarrkirche Kreuzholzhausen hierher gebracht.
+
+Einfacher Saal mit Doppelempore im W, Belichtung durch zwei Fenster im S und eines im N; eingezogener AR zu zwei Fensterachsen mit gerundetem Schluß (außen dreiseitig), Belichtung durch zwei Fenster im S (im N an den AR anschließend Sakristei im Turmuntergeschoß).
+
+'''Auftraggeber:''' An der W-Seite von A befindet sich an der Decke ein gemaltes Wappen mit Datum und Initialen 17 M. S. P. ae C. 29 (= Matthäus Schwarz Parochiae Creutzholzhausen 1729).
+
+Matthäus Schwarz war 1715-47 Pfarrer von Kreuzholzhausen und seit 1729 Dekan des Dekanats Dachau. Das
+
+
+[[File:Band05_chunk005_p007_img001.jpg|thumb|A Die hll. Maria und Kastulus als Patrone von Puchschlagen]]
+
+
+Wappenbild ist ein stehender Mohr. Es dürfte das Wappen des Pfarrers sein (Schwarz = Mohr), der 200 fl. aus eigenem Vermögen zum Kirchenbau geliehen (StAM, 1730) und obendrein vermutlich die Ausmalung gestiftet hat.
+
+Auf einen privaten Spender könnten die Initialen o.Z (D. Z.?) hinweisen, die auf eine Weiheinschrift an den hl. Kastulus in EB<sub>2</sub> folgen.
+
+'''Autor und Entstehungszeit:''' Zuweisung an Joseph Krenauer († 1738) 1729. Datum am Wappen des Auftraggebers (s. o.) 1729.
+
+Die Ausmalung von Puchschlagen zeigt Übereinstimmungen mit der Ausmalung von Aich (LKr. Fürstenfeldbruck, CBD. Bd 4, S. 21–23), die das gleiche Ornamentsystem aufweist. Bei den figürlichen Darstellungen herrschen starke Qualitätsschwankungen, von recht gekonnten Kompositionen (z. B. EB<sub>1</sub> und EB<sub>2</sub>) bis zu weitgehender Unbeholfenheit in der Bewältigung eines großen Bildfeldes (B). Stilistisch lassen sie sich einer Gruppe von Arbeiten zuordnen, die ganz offenbar von einer Hand stammen, von denen Maisach (LKr. Fürstenfeldbruck, CBD, Bd 4, S. 190-92) für Joseph Krenauer gesichert ist.
+
+Die für 1729 längst altertümliche Dekorationsmalerei an Gewölben und Emporenbrüstungen zeigt das Gumppsche Ornament-Repertoire und stellenweise noch rudimentär sein Dekorationsschema. Es ist anzunehmen, daß Krenauer, bevor er 1703 in Bruck ansässig wurde, in der Werkstatt Johann Anton Gumpps tätig war.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs Stichkappentonne; AR Flachtonne mit Stichkappen
+
+Rahmen: Sämtliche Rahmungen sind gemalt und Teil der Gewölbedekoration. A imitierter Stuckrahmen mit Blattwerk und Früchten; B C-Bogen, von Muschel- und Akanthmusmotiven unterbrochen, die im mittleren Bereich Brokatmusterfelder einfassen; B<sub>1-6</sub> annähernd runde Medaillons, gebildet aus dünnem Akanthus und Putten mit doppelt gedrehten Fischschwänzen, bekrönt von je einer Muschel; B<sub>a-f</sub> annähernd querovale Medaillons, gebildet aus schmalen Leisten, dünnem Akanthus und Brokatmusterfelderung, bekrönt von je einem aus dem Ornament wachsenden Putto mit Früchtekorb auf dem Kopf; CB<sub>1-3</sub> (in der Leibung des Chorbogens) Rundmedaillons in einfacher Leistenrahmung; C imitierter Stuckrahmen mit Blattwerk und Früchten; C<sub>1-2</sub> Medaillons in Blattkranz, vom Akanthus der Gewölbedekoration teilweise überspielt, bekrönt von aus dem Akanthus wachsenden Putten-Halbfiguren; C<sub>a-f</sub> Medaillons, gebildet aus schmaler Leiste, dünnen Akanthus- und Volutenmotiven, von Muscheln bekrönt; EB<sub>1-2</sub> ornamentierte Profilrahmen
+
+Technik: Fresko; sämtliche Bildfelder sind polychrom, die Dekorationsmalerei ist steingrau und ocker
+
+Maße: A Höhe 7,30 m; 1,40 × 1,70
+
+B Höhe 7,30 m; 4,55 × 2,60
+
+C Höhe 7,10 m; 2,60 × 1,70
+
+Erhaltungszustand und Restaurierungen: Ausbesserungen an der Raumschale 1833 und 1857. Innenrestaurierung 1870/71 durch Architekt Marggraf, München und den Maler und Vergolder Jakob Angermaier, Bruck. Die Inschriften an den Deckenbildern wurden wohl bei dieser Gelegenheit erneuert. Restaurierung des Innenraums mit Reinigung der Fresken und Abnahme späterer Übermalungen 1951 durch Karl Eixenberger, München, und Kunstmaler Funk. Vor der letzten Restaurierung waren die Fresken in schlechtem Zustand. Vor allem die Hauptfresken hatten durch spätere Übermalungen und deren Wiederabnahme gelitten. Die oberste Malschicht war durchgehend abgerieben, die originale Farbsubstanz bei den beiden Emporenbrüstungsbildern E<sub>1-2</sub> noch am besten erhalten, hier klafften aber die größten Risse und Löcher. – Außenrestaurierung 1985/87. Bei der Innen-
+
+
+[[File:Band05_chunk005_p007_img003.jpg|thumb]]
+
+
+restaurierung 1988 durch Fa. Bernd Holderried, Pfaffenhofen, wurden die zahlreichen Risse und Löcher geschlossen, die Fresken gereinigt und an den Fehlstellen retuschiert. In dieser Hinsicht sind die Bilder heute in gutem Zustand. Der Abrieb der obersten Malschicht ist allerdings irreversibel.
+
+
+[[File:Band05_chunk005_p007_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band05 p213 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=8 -->
+<!-- citation-page-top: Band05 p214 -->
+
+<!-- header: PUCHSCHLAGEN -->
+
+
+[[File:Band05_chunk005_p008_img001.jpg|thumb]]
+
+
+[[File:Band05_chunk005_p008_img002.jpg|thumb|C Glorie des hl. Kastulus, C<sub>1-2</sub> Martyrium und Tod des hl. Kastulus, C<sub>a-d</sub> Der hl. Kastulus als Wundertäter CB<sub>1-3</sub> Im Chorbogen die Drei Göttlichen Tugenden]]
+<!-- citation-page-bottom: Band05 p215 -->
+
+
+<!-- header: PUCHSCHLAGEN -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=9 -->
+<!-- citation-page-top: Band05 p216 -->
+
+<!-- header: PUCHSCHLAGEN -->
+
+<!-- header: B1 Regina Patriarcharum -->
+
+
+[[File:Band05_chunk005_p009_img001.jpg|thumb]]
+
+
+Im LHs werden die seitlichen Gewölbeflächen durch die Hervorhebung der Abwechslung von Stichkappen und Gewölbezwickel organisiert. Die Gewölbegrate sind von schweren Blattgewinden begleitet und von Putten, Muscheln und Voluten bekrönt. In sämtlichen Stichkappen und Zwickeln sind Bildfelder in ornamentalen Kartuschen angebracht. Die Ornamentmotive – große Muscheln, Akanthus, Voluten, Mischwesen mit Fischschwänzen, dicke Blattgewinde – stammen aus dem Ornamentrepertoire der Zeit vor und um 1700. Modern ist die Anordnung der Bildfelder A und B im Gewölbesscheitel: B übergreift zwei Joche (zum Vergleich: erst ein Jahr später, 1730, bringt Johann Baptist Zimmermann sein erstes jochübergreifendes Bildfeld in Beyharting, LKr. Rosenheim). In der Rahmenzone von B erinnern auch Brokatmuster und C-Bogen an gleichzeitige, moderne Dekorationen. Während im LHs die Dekorationsmalerei die freie Fläche gliedert und akzentuiert, überzieht sie sie im AR völlig. Hier treten neben den altertümlichen Ornamentmotiven auch modernere auf, dünne Akanthusranken der Zeit um 1710 und Rudimente von Bandwerk
+
+
+A DIE HLL. MARIA UND KASTULUS ALS PATRONI VON PUCHSCHLAGEN Ansicht nach W. – In Wolker erscheint Christus mit dem Kreuz, in kühner, wenn auch unbeholfener Verkürzung gegeben. Er schleudert mit der Rechten ein Blitzbündel mit Pestpfeilen. Links unter ihm ist
+
+
+[[File:Band05_chunk005_p009_img002.jpg|thumb]]
+
+
+auf Wolken Maria zu sehen, die die Rechte bittend auf ihre Brust legt und mit der Linken auf die Erde weist. Rechts kniet der hl. Kastulus auf Wolken, in Ritterkleidung, eine Fahne in Händen, und hält seinen Schild abwehrend gegen die Blitze. Darunter, auf der Erde, sind links Bittflehende und rechts die Kirche von Puchschlagen dargestellt.
+
+Die Inschrift auf einem Schriftband am oberen Bildrand AVXILIVM/CRISTIANORVM bezieht sich auf die Heiligen Maria und Kastulus, durch deren Bitten die Menschen von Puchschlagen von göttlichen Strafen und Heimsuchungen bewahrt bleiben sollen. Darüber hinaus ist sie im Zusammenhang der Lauretanischen Anrufungen (B<sub>1-6</sub>) zu verstehen.
+
+B KRÖNUNG MARIÄ Nur der mittlere Teil des langgestreckten Bildfeldes wird von der figuralen Komposition eingenommen, während die westliche Ausbuchtung eine kreisförmige Lichtglorie zeigt, mit der Taube des Hl. Geistes und winzigen Puttenköpfchen, die sie umgeben. Die östliche Ausbuchtung dagegen, ähnlich muschelförmig gestaltet, aber durch einen gemalten Ornamentbogen vom Mittelfeld mit der figürlichen Darstellung abgesondert, umschließt die große Hl.-Geist-Öffnung, die zur Glorie an der gegenübergesetzten Bildseite in formale Beziehung gebracht ist.
+
+Im mittleren Bildteil ist Maria dargestellt, wie sie auf Wolken, von Engeln getragen, nach oben schwebt; im Himmel wird sie von Gottvater und Christus erwartet, die zusammen eine
+
+
+[[File:Band05_chunk005_p009_img003.jpg|thumb]]
+
+
+
+[[File:Band05_chunk005_p009_img004.jpg|thumb|B<sub>6</sub> Regina Virginum]]
+
+
+Krone über sie halten. Das restliche Bildfeld ist mit Wolkenkissen gefüllt, an denen Puttenköpfchen zu sehen sind.
+
+B<sub>1-6</sub> LAURETANISCHE ANRUFUNGEN/MARIA ALS HIMMELSKÖNIGIN Die sechs begleitenden Medaillons an den Gewölbezwickeln beziehen sich auf Maria als Königin nach den Anrufungen der Lauretanischen Litanei. Diese sind als Überschriften an den rahmenden Ornamentkartuschen angebracht. Die Anrufung Regina Angelorum fehlt. Sie könnte durch die Darstellung B abgedeckt sein.
+
+Im Scheitel des Bildes ist jeweils eine große Krone dargestellt, darunter ein Visionsbild der Apokalypse (nicht mehr vorhanden in B<sub>4</sub>, nicht mehr kenntlich in B<sub>5</sub>). Unterschriften am Rahmen bringen Anspielungen auf Stellen aus der Apokalypse, die – zusammen mit den apokalyptischen Symbolen – der offensichtlichen Bedeutung von Maria als Himmelskönigin die Bedeutung von Maria als apokalyptischem Weib hinterlegen.
+
+B<sub>1</sub> REGINA/PATRIARCHARVM Das Bild zeigt unter der Krone als apokalyptische Vision den Regenbogen (Apoc 4,3 und 10,1). In bergiger Landschaft steht ein brennender Opferaltar. Rechts davon kann man in der Figur mit dem geschwungenen Messer Abraham erkennen. Der bärtige Mann neben ihm läßt sich wegen des begleitenden Widders wohl als Isaak deuten, der wie sein Vater Abraham zu den Stammvätern Israels und zu den Patriarchen im engeren Sinn gehört; zu ihnen gehört auch Jakob, der in einer Darstellung der Patriarchen nicht fehlen darf und deshalb wohl in dem Mann rechts mit dem Hirtenstab (Anspielung auf seinen Dienst bei Laban) gesehen werden muß. – Der Regenbogen über der Landschaft und die Unterschrift lassen vermuten, daß die kniende Gestalt links Noah ist, der nicht eigentlich zu den Patriarchen gezählt wird.
+
+Unterschrift Und am siebenten Tage / kam die Taube. APO. C. 15. V. 9. Die Textstelle ist eine Anspielung auf Gen 8,8-12, wo Noah Tauben ausschickt, um zu erkunden, ob die Erde wieder bewohnbar sei, und die erste Taube nach sieben Tagen wiederkehrt, einen Ölzweig im Schnabel, der zusammen mit dem Regenbogen Symbol für den Friedensbund Gottes mit den Menschen wird (in Apoc 4,3 wird ein Regenbogen um den Thron Gottes erwähnt, um den die Vierundzwanzig Altesten sitzen, in Apoc 10,1 ein Regenbogen über dem Haupt des Engels mit den Beinen wie Feuersäulen. Die in der Unterschrift angegebene Textstelle Apoc 15,9 gibt es nicht).
+
+B<sub>2</sub> REGINA/PROPHETARUM Bei diesem Bild fehlt die Visionsdarstellung, vermutlich ist sie zerstört. Am Himmel sieht man nur die Krone der Himmelskönigin. In der Mitte des Bildes ist König David mit der Harfe dargestellt, links von ihm die Bundeslade auf ihrem Wagen. Im Hintergrund rechts ist Moses an den Hörnern, den Gesetzestafeln und dem Stab zu erkennen (David und Moses zählen nicht zu den Propheten). Vier Männer am rechten Bildrand, bei denen
+<!-- citation-page-bottom: Band05 p217 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=10 -->
+<!-- citation-page-top: Band05 p218 -->
+
+<!-- header: PUCHSCHLAGEN -->
+
+<!-- header: PUCHSCHLAGE -->
+
+von dreien nur die Köpfe zu sehen sind, müssen wohl als die vier großen Propheten gedeutet werden, Isaias, Jeremias, Ezechiel und Daniel, obwohl sie nicht individuell gekennzeichnet sind. Die Unterschrift Sie priesen Gott/durch ihre Stime. APO. C. 14. V. 2. ist kein wörtliches Zitat, sondern erinnert an den Lobgesang der 144 000 (Apoc 14,2-3).
+
+B. REGINA/APOSTOLORVM Im Himmel sieht man unter der Krone die vier apokalyptischen Wesen Löwe, Adler, Mensch und Stier (Apoc 4,6-8) um eine Kugel. Darunter scharen sich die Apostel um den in der Mitte stehenden Petrus mit den Schlüsseln: links der jugendliche Johannes mit dem Buch, davor, kniend und in Pilgertracht, Jakobus d. Ä.; Jakobus d. J. ist an der Walkerstange, Philippus am Kreuzstab, Simon an der Säge zu erkennen; rechts von Petrus sieht man Andreas mit dem Balkenkreuz, Bartholomäus mit Haut und Messer, Matthäus mit der Hellebarde und Thomas mit der Lanze. Die beiden nicht gekennzeichneten Figuren am rechten und linken Bildrand sind Paulus und Iudas Thaddaus. Unterschrift Ihr Schall ist aufgangen/in alle Land / Apo C. 7. V. 6. (Die Angabe Apoc 7,6 ist falsch.)
+
+B<sub>4</sub> REGINA/MARTIRUM Im Hintergrund ein sehr steiler Berg, zu dessen Spitze ein Weg führt. Oben erscheint in Wolken eine weißgekleidete Gestalt - dieses Visionsbild ist nicht mehr zu erkennen - darüber wieder die große Krone der Himmelskönigin. - Aus der Schar der Martyrer im Bild ist in der Mitte der hl. Kastulus, der Patron von Puchschlagen, mit Rüstung und Fahne kenntlich gemacht. Auf dem Schild trägt er - wie auch in A, C und E<sub>2</sub> - das Wappen von Moosburg. Vor ihm liegen auf der Erde seine Marterwerkzeuge, Schaufel und Hacke. Links von Kastulus ist am Wasserschaff der hl. Florian zu erkennen, an den Pfeilen der hl. Sebastian und am Dornengesträuch der hl. Achatius; rechts von Kastulus stehen Laurentius mit dem Rost und Georg mit der Lanze. Unterschrift Und ihnen ward gegeben/ein weiß Ehrenkleid/APO C.5.V.3. Die Textstelle spielt auf Apoc 6,9-11 an: »Und als es das fünfte Siegel öffnete, sah ich unter dem Altar die Seelen derer, die hinge-
+
+
+[[File:Band05_chunk005_p010_img001.jpg|thumb]]
+
+
+schlachtet worden waren um des Wortes Gottes und des Zeugnisses willen, das sie festhielten. Und sie schrien mit lauter Stimme: Wie lange, Herr, du Heiliger und Wahrhaftiger, soll es noch dauern, bis du Gericht hältst und unser Blut rächst an den Bewohnern der Erde? Da wurde einem jeden von ihnen ein weißes Gewand gegeben ...«
+
+B<sub>5</sub> REGINA/CONFESSORVM Am Himmel ist, von der Sonnenglorie umgeben, Maria als apokalyptisches Weib zu sehen, darüber die große Krone. Darunter ist die Schar der Bekenner vor zwei Kirchen dargestellt. Sie sind als Bischöfe. Weltgeistliche, Mönche und Nonnen charakterisiert. Kenntlich gemacht ist nur Maria Magdalena mit dem Totenkopf und Kreuz als Büßerin. Die Unterschrift bezieht sich auf die Himmelserscheinung Es erschien ein groß/Zeichen im Himel. / APO. C. 12. V. 1. (Apoc 12,1: »Und es erschien am Himmel ein großes Zeichen: eine Frau, umkleidet mit der Sonne, der Mond unter ihren Füßen und auf ihrem Haupt ein Kranz von zwölf Sternen«).
+
+B<sub>6</sub> REGINA/VIRGINVM Im Hintergrund ein Hügel, auf dem, von Strahlen umgeben, das apokalyptische Lamm erscheint, darüber wieder die große Krone. Von der Schar der Jungfrauen unten im Bild ist keine kenntlich gemacht. Die Unterschrift lautet Den sie sein Jungfrauen und folgen. APO. C. 14. V. 3. (nach Apoc 14,1-5: »... ein Lamm stand auf dem Berge Zion, und mit ihm hundertvierundvierzigtausend, die seinen Namen und den Namen seines Vaters auf den Stirnen geschrieben trugen ... das sind die, die sich mit Weibern nicht befleckten; denn sie sind jungfräuliche Menschen. Das sind die, die dem Lamme folgen, wohin immer es geht.«)
+
+B<sub>a-f</sub> LAURETANISCHE MARIENSYMBOLE Die Medaillons in den Stichkappen zeigen Putten auf Wolken, die Mariensymbole aus der Lauretanischen Litanei halten.
+
+B<sub>a</sub> STELLA MATUTINA (Morgenstern) Mit der Rechten drückt ein Putto die Mondsichel nach unten, mit der Linken hält er den Morgenstern hoch.
+
+
+[[File:Band05_chunk005_p010_img002.jpg|thumb|B<sub>e</sub> Vas insigne devotionis]]
+
+
+
+[[File:Band05_chunk005_p010_img003.jpg|thumb]]
+
+
+
+[[File:Band05_chunk005_p010_img004.jpg|thumb|B<sub>b</sub> Speculum iustitia]]
+
+
+
+[[File:Band05_chunk005_p010_img005.jpg|thumb|B<sub>f</sub> Domus aurea]]
+
+
+
+[[File:Band05_chunk005_p010_img006.jpg|thumb]]
+
+
+CB<sub>1</sub> CARITAS (Mitte) Die Liebe überwindt alles Flammendes Herz vor Kreuz; im Herz stecken Pfeil und Schwert. dabei ist eine Geißel zu sehen. Blasender Wind in Gestalt eines Puttenköpfchens. Die Symbole weisen auf die Liebe Christi zu den Menschen hin, die in seinem Leiden offenbar wurde.
+
+CB<sub>2</sub> FIDES (N) Dem der glaubt ist alles möglich Kreuz darüber Kelch und Hostie.
+
+CB<sub>3</sub> SPES (S) Die Hoffnung bringt Trost Schiff in Welen, Symbol sowohl des einzelnen Menschen in den Gefährdungen des Lebens sowohl als auch der gesamten Kirche.
+
+C GLORIE DES HL. KASTULUS In Wolken thront der Heilige, barhäuptig, mit Rüstung und kurzem Soldatenmantel. Er hält in der Linken eine Fahne, auf der das Kreuz zu sehen ist; mit der Rechten weist er auf seinen Schild hin, den ein Putto hält. Der Schild zeigt das Wappen von Moosburg (geteilt, oben zwei weiße Rosen auf schwarzem Feld, unten eine schwarze Rose auf weißem Feld).
+<!-- citation-page-bottom: Band05 p219 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=11 -->
+<!-- citation-page-top: Band05 p220 -->
+
+<!-- header: PUCHSCHLAGEN -->
+
+
+[[File:Band05_chunk005_p011_img001.jpg|thumb|EB, Die hll. Maria und Kastulus als Retter in Todesnot und als Befreier der Gefangenen]]
+
+
+Der Leichnam des Martyrers Kastulus wurde im Jahr 826 von Rom nach Moosburg gebracht. Seine Reliquien genossen wegen mancher Wunder große Verehrung. An seiner neuen Grabstätte entstand das Kollegiatstift St. Kastulus. Obschon der Leichnam 1604 nach Landshut transferiert wurde und nur einige Reliquien in Moosburg verblieben, wird er hier in Puchschlagen durch das mehrfach mit ihm dargestellte Wappen ausdrücklich als Moosburger bezeichnet.
+
+Weitere Attribute, Helm, Schwert und Martyrerpalme halten Putten links. Ein Putto bekränzt den Heiligen
+
+Auf den Wolken rechts von Kastulus halten sieben Putter verschiedene Gegenstände, bei denen es sich um Symbole von Tugenden bzw. um Attribute von Tugendallegorien handelt. Von oben nach unten: Dreieck; Kugel, Zirkel und Fernrohr; Spiegel mit Schlangengriff; Krüglein und Trinkgefäß; Säulenstumpf; Zepter mit Auge Gottes an der Spitze; Stabbündel, um das ein Band mit den Buchstaben SPQ geschlungen ist. Sie beziehen sich auf Tugenden, die dem Heiligen zugeschrieben wurden. Fünf dieser Tugenden ergeben sich aus seiner Vita. Das Stabbündel zeigt Concordia an: Kastulus beförderte durch sein Wirken Eintracht und Zusammenhalt in der verfolgten Christengemeinde Roms während der Diokletianischen Verfolgung. Das Zepter mit dem Auge Gottes an der Spitze ist Attribut der Divina Sapientia, der von Gott stammenden Weisheit, mit der Kastulus die Christengemeinde lenkte. Fortitudo oder Constantia (Säulenstumpf) bewies der Heilige im Martyrium, Temperantia (Krüglein und Trinkgefäß) in der Lebenshaltung. Der Spiegel mit Schlangengriff ist Attribut der Prudentia: als Berater des Kaisers Diokletian zeigte Kastulus Klugheit. Unklar bleibt in diesem Zusammenhang die Bedeutung der beiden letzten Putten mit den Attributen Dreieck, Zirkel, Kugel und Fernrohr.
+
+C<sub>1-2</sub> MARTYRIUM UND TOD DES HL. KASTULUS Die beiden großen, das Hauptbild begleitenden Medaillons zeigen Szenen aus dem Martyrium des Heiligen (mit Unterschriften).
+
+C<sub>1</sub> MARTER Der hl. Kastulus hängt entkleidet an einem rahmenförmigen Holzgerüst und wird von drei Henkersknechten geschlagen. Im Vordergrund sieht man einen Knaben mit den Kleidern des Heiligen, rechts eine Jupiterstatue. O Gott dieß ist der herrlich Tag/Den ich allzeit begehrt.
+
+Während der diokletianischen Verfolgung war Kastulus, ein vornehmer und reicher Römer, Kämmerer und Berater des Kaisers. Er diente Diokletian treu, war aber heimlicher Christ und nahm sich der verfolgten Christengemeinde an. Als der Kaiser ihm befahl, Jupiter zu opfern, verweigerte er das Opfer, bekannte sich als Christ und nahm das Martyrium auf
+
+
+[[File:Band05_chunk005_p011_img002.jpg|thumb]]
+
+
+sich. Im Gefängnis litt er Hunger und Durst, wurde schließlich an einem Rahmen aufgehängt und mit Bleikolben und Ruten geschlagen.
+
+C<sub>2</sub> TOD Vor einem Palast stoßen drei Henkersknechte den Heiligen mit Lanzen und Stangen in eine Grube. Ich sag dir dank; o Herr Jesu Christ / daß du mich würdig gemacht. Nachdem Kastulus dreimal am Holzrahmen gemartert worden war, wurde er zum Tode verurteilt, in eine Grube geworfen, mit Sand bedeckt und so erstickt. Als Todestag gilt der 26. März 287.
+
+C<sub>3-4</sub> TRANSLATION UND GRABWUNDER In der Wölbung des Chorschlusses befinden sich zwei weitere Medaillons zur Kastulus-Legende. Jedes Bild trägt eine Unterschrift.
+
+C<sub>3</sub> PAPST EUGEN SCHENKT ALBINUS UND REINPERTUS DEN LEICHNAM DES HL. KASTULUS Der Papst sitzt unter einem roten Baldachin in einem Palast. Zwei Pilger knien vor ihm. Albinus u. Reinpert brachten die heil. Gebein / In das Bayerland herein.
+
+C<sub>4</sub> WUNDER AM GRAB DES HL. KASTULUS Das Bild zeigt einen Sarkophag unter einem Baldachin, daneben Bittflehende. Am Sarkophag befindet sich das Moosburger Rosenwappen. Nach dem Tod bei dem Grab / S. Castl: / Gott vielen die Gesundheit gab.
+
+C<sub>a-d</sub> DER HL. KASTULUS ALS WUNDERTÄTER Vier kleinere Medaillons begleiten das Hauptbild in den Diagonalen. Erklärende Unterschriften befinden sich jeweils unter dem Bild auf der Kartusche.
+
+C<sub>a</sub> KASTULUS ALS ERRETTER VOR DER PEST Vor einem Haus steht eine Frau mit flehend erhobenen Händen und zum Himmel gerichtetem Blick. In ihrer Nähe im Hintergrund sieht man Leichen liegen. – Kreitmann (S. 29) berichtet, daß im Jahr 1403 in Schwaben eine schreckliche »Pestilentz« gewütet habe. In ihrer Angst verlobte sich Barbara Kolerin aus Entrang bei Kaufbeuren zum hl. Kastulus und wurde daraufhin von der Krankheit verschont. Dem bösen Lufft / und Pestilentz / wehret Castl: den Sentenz.
+
+C<sub>b</sub> KASTULUS LÖSCHT EINEN BRAND Ein Bauernpaar steht vor einem brennenden Haus und hat Hände und Blick flehend zum Himmel gerichtet. Kreitmann (1584, S. 30) führt zahlreiche Fälle an, in denen der hl. Kastulus den Menschen, die sich zu ihm verlobten, in Feuersnöten half. Das feur nit mehr / weitter brint / wo S. Castl: fürbitt findt.
+<!-- citation-page-bottom: Band05 p221 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=12 -->
+<!-- citation-page-top: Band05 p222 -->
+
+<!-- header: DUCHSCHIAGEN -->
+
+<!-- header: PUCHSCHLAGEN -->
+
+
+[[File:Band05_chunk005_p012_img001.jpg|thumb]]
+
+
+C<sub>c</sub> KASTULUS HILFT SEEFAHRERN IM STURM Ein Schiff mit der bayerischen Rautenfahne befindet sich in aufgewühltem Meer. Zwei Männer an Deck flehen zum Himmel um Hilfe. Kreitmann (S. 29) berichtet von einem bayerischen Herzog, der sich auf dem Meer in Todesgefahr befand. Einer seiner Diener, der aus Schrobenhausen stammte, wies ihn auf den hl. Kastulus von Moosburg als Helfer in allen Nöten hin: der Herzog flehte daraufhin den Heiligen um Hilfe an, wurde errettet und brachte später im Kastulus-Münster in Moosburg ein Opfer dar. Im Meer und grosser / Wasser Gefahr / hilft Castl: auch fürwar.
+
+C<sub>d</sub> BROTWUNDER DES HL. KASTULUS Zwei Pilger rasten links unter einem Baum vor einem Dorf. Ein Mädcher tritt zu ihnen; es führt ein Brot zum Mund. - Im Jahr 826 erbaten zwei bayerische Pilger, Albinus und Reinpertus, vor Papst Eugen den Leib eines Heiligen, erhielten den des Martyrers Kastulus und zogen zurück nach Bayern. Im Dori Schiltarn bei Haag (heute Schiltern) rasteten sie in der Nähe einer Mühle. Die Müllerin ließ ihnen durch ihre Tochter Brot bringen; das Mädchen jedoch versuchte, einen Teil des Brotes selbst zu essen, worauf das Brot zu Stein wurde (Kreitmann, S. 17 f.). Die Erdt das brodt / gibt allgemein / Durch Castl: wird es / zu Stein.
+
+EB<sub>1-2</sub> DIE HLL. MARIA UND KASTULUS ALS PATRONE UND WUNDERTÄTER An der unteren Emporenbrüstung ist in zwei querformatigen Bildfeldern die<br>Hilfe geschildert, die die Gläubigen durch die Patrone Puchschlagens erfahren.
+
+EB<sub>1</sub> HELFER DER KRANKEN In einem weiten Raun mit abschließender Säule rechts und einem steinernen Tisch der durch Stroh am Boden und Kissen als Spital gekennzeich<br>net ist, sind Kranke versammelt. Links flehen ein altes Paar und eine Mutter mit Kind den Himmel um Hilfe an. Dort erscheint Maria und reicht ihnen auf einem Teller Medizin, während sie - als wundertätiges Heilmittel - Milch aus ihrer Brust drückt. Rechts liegen drei kranke Männer auf Stroh
+
+
+[[File:Band05_chunk005_p012_img002.jpg|thumb|C<sub>3-4</sub> Kastulus-Szenen]]
+
+
+Bei ihnen steht der hl. Kastulus mit Fürstenhut und Fahne hält in der Linken ein Salbengefäß und mit der Rechten de Arm eines Kranken und blickt auf Maria.
+
+EB<sub>2</sub> RETTER IN TODESNOT UND BEFREIER VON GEFANGENEN Links steht der hl. Kastulus in Rüstung und Helm, hält seinen Schild mit dem Moosburger Rosenwappen und in der Rechten das gezogene Schwert. Zwei Männer mit Ketten um den Hals knien am Boden. Einer wird von einem Teufel an der Kette weggezogen. Er hält ein Schriftband mit einer Weiheformel in der Hand Ich wil sein mit / leib und Seel O. Z. (D.Z.?). Im Hintergrund ein weiterer Teufel. Rechts sieht man einen gemauerten Brunnen, dahinter einen Galgen und ein Rad. - Beide Gefangenen haben den Blick zum Himmel gerichtet, wo Maria in Wolken erscheint, von Puttenköpfchen umgeben, und ihren Mantelsaum schützend über die Szene hält.
+
+Bei dem linken Gefangenen in der Hand des Teufels handelt es sich um einen Zöllner von Geisenhausen, von dem Kreitmann berichtet (S. 20 f.), er sei der Trunkenheit und alle Lastern ergeben gewesen, habe sich gleichwohl aber immer dem Schutz des hl. Kastulus empfohlen und sich als Wohltäter des Kastulus-Stiftes in Moosburg erwiesen. In seine Todesstunde wartete eine größere Anzahl von Teufeln au ihn, da aber erschien Kastulus in Gestalt eines Kriegsmanne und verjagte die Teufel. - Der Gefangene rechts ist mit keine bestimmten Wunderszene in Verbindung zu bringen, er weis<br>wohl allgemein auf die Macht des Heiligen hin, Gefangene z<br>befreien.
+
+Wie auch in A wird in EB<sub>1-2</sub> die himmlische Hilfe als Ergeb<br>nis des Zusammenwirkens vom Kirchenpatron Kastulus mi Maria dargestellt, der einer der Seitenaltäre geweiht war (Schmidt, S. 169).
+
+Ergänzungen zur Ikonographie: Der hl. Kastulus, hoher Beamter am Hof des Kaisers Diokletian, der seinen Palast neben dem kaiserlichen hatte, war heimlicher Christ und wegen seiner hohen Stellung Stütze und Hilfe der Christengemeinde Roms. Während der diokletianischen Verfolgung
+
+wurde sein Glaube entdeckt und er nach langen Martern in einer Sandgrube erstickt. Darauf beziehen sich seine persönlichen Attribute Schaufel oder Spaten und Hacke. Da er aus vornehmer Familie war, wird er meist als Ritter, oft mit einem Fürstenhut oder einer ähnlichen Auszeichnung dargestellt. Eugen II. schenkte den Leichnam des Martyrers im Jahr 826 den beiden bayerischen Pilgern Albinus und Reinpertus, die ihn nach Bayern brachten. Bei der Wahl der künftigen letzten Ruhestätte des Heiligen ereignete sich ein Wunder: der Esel, der den Wagen zog, ging nicht mehr von der Stelle, bis man ihm schließlich den Willen ließ. Daraufhin zog das Tier die Reliquien freiwillig in die Gegend des späteren Moosburg, wo damals nach Kreitmann nur »Dornhecken und Gestreusel« waren, sich tatsächlich aber ein bereits im Jahr 755 urkundlich erwähntes Benediktinerstift befand, das im 10. Jh. während der Ungarneinfälle schwer heimgesucht und 1039/40 schließlich in ein Chorherrenstift umgewandelt wurde. Als Weihedatum des Kastulus-Münsters ist der 21. Oktober 1212 überliefert. 1599 wurde das Chorherrenstift nach Landshut verlegt, 1604 der Leichnam des hl. Kastulus unter Zurücklassung einiger Reliquien in Moosburg ebenfalls nach Landshut verbracht. Die Verehrung des Heiligen blieb aber an Moosburg und sein Kastulus-Münster gebunden.
+
+Nach Kreitmann war Kastulus Helfer in vielen Nöten: in Krankheit, Blindheit und anderen Gebrechen; in Feuers- und Wassersnot; als Befreier von Gefangenen; auch Totenerweckungen auf die Fürsprache des Heiligen hin werder erwähnt.
+
+Ouellen und Literatu
+
+StAM, Geistlicher Rat, Kirchen- und Stiftungsrechnungen Kirchenrechnungen Gericht Dachau, 1730.
+
+StAM, Pfleggericht Dachau A 199.
+
+StAM, LRA 34430; 34577; 34598.
+
+36.21.21 2.44.73, 74.77, 74.77 AEM, Pfarrakten Kreuzholzhausen: Pfarrbeschreibung; Bauten II, Die Restauration der Filialkirche Puchschlagen betr. 1870; Filiale Puchschlagen 1656–1876.
+
+Schmidtsche Matrikel, Bd 2, S. 169. Mayer-Westermayer, Bd 1, S. 172–74. KDB I OB (1), S. 316.
+
+Kunst- und Kulturdenkmäler 1977, S. 340
+
+Dehio 1990, S. 990 f.
+
+Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Landes Bd 7, hg. im Auftrag des Museumsvereins Dachau e.V.), Dachau 1991, S. 188–92.
+
+Literatur zu St. Kastulus
+
+Kreitmann, Martin, Histori von dem fürtrefflichen Ritter und ansehnlichen Martyr S. Castl, München 1584.
+
+AASS, Martii Tom. VIII, S. 612–14.
+
+Sanctus Castulus in suis clientibus gloriosus, Landshut 1712. Schauspiel, aufgeführt von dem Landshuter Jesuitengymnasium am 5. und 6. September 1712.
+
+LCI, Bd 5, Sp. 480, s. v. Castulus. Réau, Bd III/I, S. 261 f.
+
+BiblSS, Bd III, Sp. 948 f., s. v. Castulo, martire ICIDIC
+
+A. F
+
+
+[[File:Band05_chunk005_p012_img003.jpg|thumb|Fresko an der Mitte der unteren Emporenbrüstung]]
+<!-- citation-page-bottom: Band05 p223 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=13 -->
+{{End}}
