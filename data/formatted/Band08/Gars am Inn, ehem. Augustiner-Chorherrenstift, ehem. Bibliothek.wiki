@@ -1,0 +1,56 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=116
+|Originalseitenbis=116
+|Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|Typ=Sakral
+|Ort=Gars am Inn
+|davor=Gars am Inn, ehem. Augustiner-Chorherrenstift, Felixkapelle
+|danach=Gars am Inn, ehem. Augustiner-Chorherrenstift, Verlorene Deckenmalereien
+|AutorIn1=Böhm, Cordula
+}}
+
+
+Der Raum liegt im Obergeschoß des Klosters am Nordende des Osttrakts. Er ist jetzt unterteilt und wird als Gästespeisesaal bzw. als Lehrsaal der Lehrerfortbildungsstätte genutzt
+
+'''Zum Bauwerk:''' 1657–59 Neubau des Klosters durch Gaspar und Domenico Cristoforo Zuccalli.
+
+Der ursprüngliche Raum (ca. 18,00×5,50 m) erstreckte sich über 8 Fensterachsen des östlichen Konventtrakts mit Fenstern nach O und einem Fenster nach N und mit Türen zum Gang. Durch den modernen Neubau eines Speisesaaltrakts im O des Klosters wurde das vierte Joch von N als Durchgang zweckentfremdet und der Saal in zwei Räume geteilt, in den nördlichen, dreiachsigen (11,10×5,50m), jetzt Gästespeisesaal, und den südlichen, vierachsigen (13,20×5,50m), jetzt Lehrsaal
+
+'''Auftraggeber:''' Propst Gelasius Ludwig (1698–1742)
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, vor 1710 Die 1968 ergänzten Deckenbilder sind Neuschöpfungen über noch vorhandenen Spuren alter Fresken; sie sind als Restaurationsmalerei einzustufen. Die Dekoration um die Bildfelder ist der Stilstufe um 1700 zuzuordnen. Bei Wening, der seine topographischen Aufnahmen 1700/10 machte, ist die Bibliothek schon erwähnt: »Die vorhandene Bibliothec hat neben Kostbarkeit der Büchern seine anständige Zierlichkeit« (S. 56). Als Maler waren zu dieser Zeit für Gars hauptsächlich Wasserburger tätig: Matthias Wilhelm Strovogel, Gregor Sulzböck († 1698) und Sebastian Hintermayr.
+
+Seit 1712 gab es in Gars einen ansässigen Maler, Johann Franz Huber, der für das Kloster einige Arbeiten ausführte. Sein einziges signiertes und 1719 datiertes Gemälde, das ehem. Altarbild des hl. Thomas, hängt heute an der Wand gegenüber des Eingangs zum Lehrsaal. Ein Passionszyklus ist ihm zuzuschreiben.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Gedrücktes Kreuzgratgewölbe Rahmen: Gemalte Rahmung Technik: Fresko; monochrom
+
+Maße: Raumhöhe 4,10 m; 1 11,10×1,10 2 2,40 × 1,30 3 2,30 × 1,30 4 2,30 × 1,70 5 1,00 × 1,20
+
+Erhaltungszustand und Restaurierungen: Die drei jetzigen Raumteile der ehemaligen Bibliothek zeigen dreierlei Zustände: Das Gewölbe des Gästespeisesaals ist weiß getüncht. Das Durchgangsjoch zeigt den Zustand der Freilegung: Reste schlichter Dekorationsmalerei, die ockergerahmte Scheitelfelder einschließen, welche anstelle von Darstellungen die Namen MARTIN NAVARRV und HVGO DE SV tragen. Daneben eine Signatur mit Bleistift Sebastian Schuesmüller 1850. Der südliche Raumteil, der jetzige Lehrsaal, zeigt die von Gotthard Bauer 1968 signierten und datierten (Bild 5, Bild 3 mit den Initialen GB) Scheitelbilder gelehrter Theologen. Diese Auswahl geht auf vorgefundene Spuren zurück.
+
+
+== Bildabfolge ==
+
+
+I Eine Waage ist in einem Fensterrahmen aufgehängt, ein Beutel (ein Buch?) in der rechten Schale zieht nach unten, eine Handschelle in der linken nach oben. Inschrift HABET AMPLIVS SAPIENS / Eccl. 7 (Eccl 6,8: Quid habet amplius sapiens a stulto? Was hat der Weise dem Toren voraus?). Der Bildgegenstand ist nicht mehr klar zu benennen, lautet aber sinngemäß: Der Tor ist in sich selbst gefangen (Handschellen); der Weise öffnet sich den Erkenntnissen anderer (Buch?), um seine Persönlichkeit zu erweitern (keine Abbildung).
+
+2 S. AUGUSTINVS Der Heilige als Bischof mit Pedum und Buch, auf dem ein flammendes Herz liegt: UNRUHIG / IST UNSER / HERZ. BIS ES / RVHET IN / DIR
+
+3 PETRVS LOMBARDVS (Name umgekehrt zur Bildrichtung) Theologe, lebte im 12. Jh. in der Lombardei, Professor in Paris, seine »Sententiarum libri quatuor« waren das theologische Handbuch des Mittelalters.
+
+4 RICHARDVS DE S. V. Richard von St. Viktor in Paris †1173, Augustinerchorherr. Schüler von Hugo von St. Viktor Philosoph, Dogmatiker und Mystiker mit dem Hauptwerk Libri sex de trinitate«.
+
+Keine Darstellung, Inschrift HUGO DE S. V. / MARTIN. NAVARR. (Die Namen sind von dem Gangjoch übernommen, vgl. Erhaltungszustand, keine Abbildung)
+
+Hugo von St. Viktor in Paris, * 1096 † 1141, Augustiner-Chorherr, scholastischer Theologe und Mystiker, Lehrer des Richardus (4), und Martin de Azpilcueta, gen. Doctor Navarrus, * 1493 † 1586, Kanonist und Moralist aus dem Geschlecht des Franz Xaver, Professor in Toulouse.
+
+Die dargestellten Personen bzw. die überlieferten Namen bezeichnen gelehrte Theologen des Mittelalters. Es handelt sich nur bei Richard und bei Hugo von St. Viktor um Augustinerchorherren und mit Ausnahme von Augustinus nicht um Heilige.
+
+{{End}}

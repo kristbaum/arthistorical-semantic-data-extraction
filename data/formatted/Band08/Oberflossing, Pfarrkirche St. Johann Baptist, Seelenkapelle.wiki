@@ -1,0 +1,62 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=203
+|Originalseitenbis=203
+|Lemma=Oberflossing, Pfarrkirche St. Johann Baptist, Seelenkapelle
+|Typ=Sakral
+|Ort=Oberflossing
+|davor=Oberflossing, Pfarrkirche St. Johann Baptist
+|danach=Oberneukirchen, Pfarrkirche St. Margareta
+|AutorIn1=Böhm, Cordula
+}}
+
+
+[[File:Band08_chunk005_p002_img001.jpg|thumb]]
+
+
+'''Zum Bauwerk:''' Die Seelenkapelle wurde 1749 durch den Kraiburger Maurermeister Marx Weidinger im S an die westliche Vorhalle angebaut.
+
+Kleiner quadratischer Raum (3,70×3,70 m), Chor mit dreiseitigem Schluß (2,70×3,10 m), der durch zwei Fenster im O und W belichtet ist. Das Fresko befindet sich im Chor.
+
+'''Auftraggeber:''' Die Ausstattung wurde zu einem Teil aus einem Legat von Maria Klara Schwankler bezahlt, Schwester des verstorbenen Pfarrers Wolfgang Joseph Schmid (1720-36) aus Mühldorf und Nachfahrin des Stifters der Annabrunner Kirche (s. S. 27); zum andern Teil von Pfarrvikar Ignaz Erber. {ZITAT|000} (Merkbuch von Pfarrer Erber).
+
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, 1749
+
+
+In den Kirchenrechnungen des Gerichts Mörmoosen tritt im Zeitraum 1750/66 als einziger Maler Johann Michael Lechner auf, bürgerlicher Maler in Neuötting (Antependien und Faßarbeiten in Flossing, Oberneukirchen und Grünbach, 1766 Fassung der Taufkuppel). Möglicherweise ist er der Autor der Ausmalung. Bis jetzt sind von ihm keine Gemälde bekannt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Tonne mit Stichkappen Rahmen: Gemalte Rahmung Technik: Fresko, polychrom Maße: K Höhe 4,15 m; 2,70 × 3,10 Erhaltungszustand und Restaurierungen: Die Male
+
+Erhaltungszustand und Restaurierungen: Die Malereien in der Kapelle wurden während der Restaurierung 1910/16 durch die Firma Vitzthum und Schlee, Altötting, ausgebessert.
+
+
+== Beschreibung und Ikonographie ==
+
+
+K JOHANNES DER TÄUFER ALS PATRON IN DER STERBESTUNDE Die Darstellung bezieht sich auf die am 28. Februar 1746 konfirmierte St.-Johannes-Baptist-Bruderschaft, deren Anliegen u.a. eine gute Sterbestunde ist. Johannes der Täufer, Beschützer der Armen Seelen, ist Patron für einen gnädigen Tod.
+
+Das Medaillon mit der Darstellung ist von einem perspektivisch verkürzten Rahmen umgeben, dessen Bemalung mit
+
+Ornamenten kaum original ist. Das Bild zeigt einen kranken Menschen auf dem Sterbebett. Das Gericht, das ihm droht, ist dargestellt durch einen überdimensionalen Höllenrachen, aus dessen feuerspeiendem Schlund Teufelchen mit Spießen heraussklettern, und durch die Figur Christi in Wolken, der den Stab über den Kranken bricht. Der Sterbende hält in der Rechten Sterbekerze und Rosenkranz und klammert sich mit der Linken an den hl. Johannes den Täufer, der als Fürbitter über groß in Schurz und rotem Tuch neben dem Bett steht. Zu seinen Füßen ruht das Lamm; im Hintergrund ist eine Landschaft zu erkennen
+
+a-d ARME SEELEN In den vier Gewölbezwickeln sind in den Flammen des Fegfeuers vier Arme Seelen dargestellt: zwei Männer und zwei Frauen. Die beiden Darstellungen zuseiten des Altars zeigen sie mit Handschellen an Steinklötze gefesselt. Tränen quellen aus ihren Augen. Den beiden Seelen auf den gegenüberliegenden Zwickeln reicht jeweils eine Hand aus den Wolken links den Kreuzstab des Johannes, rechts einen Bruderschaftsstab mit der Taufe Jesu auf dem Schild, an den sie sich klammern: die Fesseln sind verschwunden
+
+C. B.
+
+
+[[File:Band08_chunk005_p002_img002.jpg|thumb|K Johannes der Täufer als Patron in der Sterbestunde]]
+<!-- citation-page-bottom: Band08 p203 -->
+
+
+<!-- ZITAT 000 -->
+<blockquote>»Ao 1749 ist der Armen Seelen Kerker oder Vorkapellen mit Kosten 160 fl. erbauet und geziehret worden, woezue die Viel Edele Frau Maria Clara Schwanckhlerin, derzeit hochfstl. Salzburg. OberJägerin, gewesten Pfarrherren zu Flossing Wolfgang Joseph Schmid Schwester, 100 fl., das übrige ich Pfarrer beygetragen ...«</blockquote>
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk005.pdf#page=3 -->
+{{End}}

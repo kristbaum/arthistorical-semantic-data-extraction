@@ -1,0 +1,196 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=350
+|Originalseitenbis=351
+|Lemma=Ortsregister (Band 8)
+|davor=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
+|danach=Personenregister (Band 8)
+}}
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=1 -->
+<!-- citation-page-top: Band08 p350 -->
+
+
+Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
+
+
+{| class="wikitable"
+|-
+| Adlstein 157, 232, 326 f., 329, 345, 348 f. Donaustauf, Gericht 33 Herrenchiemsee 54, 102, 345
+|-
+| Altenerding 98 Dorfen 65, 257, 299, 347 Stiftskirche 45, 48
+|-
+| Altenhohenau 240 Dornberg 296 Kaisersaal 33 f., 124, 319
+|-
+| Altmühldorf 19–22, 160, 347 Fürstenzimmer 34
+|-
+| Altötting 38, 70, 155, 186, 257, 294, 316, 349 Ebing 348 Hölsbrunn/NB 346
+|-
+| Amberg 126 Ecksberg 29 Hörbering 190
+|-
+| Ampfing 23–26, 146, 150, 155, 222, 248, 259, Ehrenhaus in Kärnten 305, 326, 329 Hohenaschau 342, 345, 347
+|-
+| 294 f., 305, 315 f., 348 Eichstätt 72 Hofgiebing 126–28, 210, 222, 248, 349
+|-
+| Ampfing Seelenkapelle 7, 36 Elsenbach 190 Hofstetten bei Landsberg 158
+|-
+| Amsterdam 347 Ensdorf 66, 89, 122, 129, 299 Hofwies bei Guttenburg 90, 122, 129–32, 349
+|-
+| Andechs 176 Erding 66 f., 345, 348 Husum 308
+|-
+| Annabrunn 27–30, 119, 203, 347 Erharting 65, 160
+|-
+| Anzenberg 93, 346 Eschlbach 348 Indersdorf 45, 105
+|-
+| Arnstorf 124 Ingolstadt 307, 336
+|-
+| Aschau bei Kraiburg 7, 81, 234, 296, 346 Feichten an der Alz 79 f., 190, 346, 349 Universität 328 f., 331–33, 335
+|-
+| Attel 31 Felizenzell 72, 74 Innsbruck 348
+|-
+| Au am Inn 7, 23 f., 26, 31–63, 81, 100, 102, 114, Flossing 27, 119, 160, 195 f., 200, 203 f., 208, Jerusalem 57, 213
+|-
+| 16, 128, 209, 221 f., 248, 254, 261, 267, 273, Flossing 27, 119, 160, 195 f., 200, 203 f., 208, Jerusalem 57, 213
+|-
+| Stiftskirche 31–54, 103 f., 145, 345, 348 Fraham 67, 81–88, 155, 221, 261, 347 f. Kallham 34, 43
+|-
+| Sakristei 34, 54–58 Frauendorf 67, 82, 89–92, 129, 262, 267, 348 f. Kärnten 307, 320, 327 f., 337, 340, 342
+|-
+| Krankenkapelle 58 Frauenornau 93–98, 185, 267, 292, 346, 348 Kent 138
+|-
+| Ehem. Bibliothek 59–62 Freising 7, 31, 113, 133, 145 f., 195, 305, 320, 308, Kirchbrunn 346
+|-
+| Aufhausen bei Regensburg 349 328, 330, 348 Kirchdorf bei Haag 133–39, 155, 346, 349
+|-
+| Augsburg 287, 335, 346f., 349 Friedburg im Innviertel 23, 308 Kirchisen 347f.
+|-
+| Dominikanerkirche 130 Friesach 324, 329 Kirchthambach 93, 267
+|-
+| Aurolzmünster 34, 102, 124, 305, 342, 345 Fürstenfeld 274–77, 348 Kirchweidach 185
+|-
+| Fürstenfeldbruck 51
+
+Bad Aibling 176
+
+Bamberg Residenz 124
+
+Baumburg 54, 347
+
+Fürstenfeldbruck 51
+
+Kissingen 126, 349
+
+Klagenfurt 320, 329
+
+Kling, Gericht 7, 273, 284
+
+Köln 335
+|-
+| Gargano, Monte 146, 151
+
+Fingolstadt Herzogtum 312
+
+Fingolstadt-Amberg Herzogtum 312
+
+Fingolstadt-Amberg Herzogtum 312
+
+Minchen Herzogtum 312
+
+Felixkapelle 100, 112–16
+
+Gergam Laim 145, 151, 155, 348
+
+Gargano, Monte 146, 1
+|-
+| Grafing 347
+
+Brixen, Bistum 320
+
+Grafing 347
+
+Gran 316
+
+Greifenfels in Kärnten 305
+
+Buchbach 7, 64–78, 82, 89, 210, 274, 279, 299,
+
+Markt 64, 210, 232, 248
+
+Buda 316
+
+Gruphausen 129, 183, 195, 222, 248, 264, 308,
+
+Grafing
+|-
+| Gumattenkirchen 7, 162, 346
+
+Kirche der Englischen Fräulein 36, 348
+
+Filialgalerie 295, 315
+
+Gurk 320, 328
+
+Guttenburg 122–25, 129, 299, 249
+
+Györ (Raab) 222
+
+Loter 65
+
+Litzelkirchen 75
+
+Lobositz 94, 98
+
+Lochen/OÖ 264
+
+Lof
+|-
+| Cambridge 138
+
+Haag 7, 102, 106, 112, 133, 136, 346
+
+Chiemsee, Bistum 320
+
+Hallein 324
+
+Hampersberg am Inn 196, 114
+
+Hampersberg am Inn 196, 114
+
+Diessen, St. Georgen 136
+
+Haunertsholzen 348
+
+Haunzenbergersöll 79, 329, 346
+|}
+<!-- citation-page-bottom: Band08 p351 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=2 -->
+<!-- citation-page-top: Band08 p352 -->
+
+Maria Thalheim 176, 200 Mariahilf bei Freystadt 319 Marienberg 349 Massing 93 f., 346 Mettenheim 7, 31, 145-56, 157, 185, 346-48 Michhausen 93 Mittergars 99, 155, 222, 284, 347 Mörmoosen, Gericht 7, 27, 119, 122, 195, 203, 204 Schloßkapelle 82, 89 Mössling 157–59, 292, 349 Mohacz 316 Moldau 20, 148 Mühldorf 119, 145, 157, 172, 176, 179, 183, 204, 218, 222, 257, 296, 345–47 Salzburgisches Vogtgericht 7, 19, 64, 74, 145, 157, 160, 185, 222, 248, 254, 286 Salzburgisches Propstgericht 7, 19, 23, 160 Kollegiatstift St. Nikolaus 19, 27, 119, 160 f., 179, 183 f., 195, 204, 218, 346 Stiftskirche St. Nikolaus 160–78, 185, 195 f., 200, 208 St. Katharina 19f., 27, 160, 179–83, 204, 208, 347 Maria Eich Kapelle 183 f. Heimatmuseum 102 f., 161 f., 257, 295 Kapuzinerkloster 116 Magdalenenkapelle 208 Mülln bei Salzburg 322, 324 München 7, 102, 117, 136, 186, 195, 296, 305, 332, 346, 349 St. Jakob am Anger 349 St. Michael 150 Jesuitenkolleg 150 Residenz, Herkulessaal 295 Residenz, Antiquarium 313 Residenz, Sommerzimmer 340 Residenz, Theatinergang 311 Palais Neuhaus 102, 308, 317, 345, 349 Palais Preysing, Prannerstr. 11 317
+
+Neudau, Schloß 261, 264 Neufahrn 27, 185–89, 346 Neuhaus bei Salzburg 321-24, 328 Neuhaus bei Gurk 328 Neuhäusel 316 Neumarkt 24, 33, 60, 79, 93 f., 117, 145 f., 157, 185, 190 f., 232 f., 248, 254, 257, 267, 286, 294, 340, 345 f., 348 f. Gericht 7, 23, 31, 64, 79, 93, 96, 99, 126, 145, 157, 185, 190, 209, 232, 248, 254, 257, 267, 274, 286, 294, 305, 329 f., 331, 346 Neumarkt-St. Veit 190–94, 286, 329, 346 Gruftkapelle an der Josephskapelle 190–92 Seelenkapelle 193 f. Neuötting 157, 203 f., 296, 302, 347 Neustift 348 Nicäa 169f. Niederaschau 66–68, 347 Niederbayern, Herzogtum 312 Niederbergkirchen 7, 162, 232, 294, 346, 348 Niederham 347 Noblac 121 Nöham 346 Nürnberg 296, 308
+
+Oberalteich 61 Oberammergau 349 Oberbayern, Herzogtum 312 Oberbergkirchen 155, 193 Oberflossing 7, 27, 146, 162, 185, 195-203, 346 Seelenkapelle 27, 203 Oberneuching 348 Oberneukirchen 27, 119, 195, 203, 204-08, 209, 218, 347 f. Oberornau 126, 209–17, 222, 248, 267, 302, 346 Obertaufkirchen 66, 93 f., 97 f., 346 Ochsenhausen 347
+
+Peterskirchen 348 Pettau 324 Pfaffenkirchen 34 Pfaffing 31 Pfalz 312 Pilsen 148 Pisek 148 Piettenberg 7 Pöttmes 330 Polling 27, 119, 204, 209, 218–20, 347 Pomuk in Böhmen 20 Prag 20, 148 Prien 347 Puch 228 Dirton 100 Tra 227 27 26 26- 20
+
+Ramering 209, 248, 254 Raitenhaslach 349 Ranoldsberg 7, 34, 100, 346 Rastatt 332 Rattenkirchen 66, 210, 221, 232-47, 248, 346-48 Regensburg 279, 305, 308, 328, 332 f., 335 Regensburg Bistum 320 Reichersberg 34, 102, 345 Festsaal 124, 319 Reichertsheim 66, 126, 209 f., 222, 226, 248-254, 267, 346f. Reichertshofen 127, 349 Rettenbach 336 Ried 331 Riedbach 126, 155, 222, 248, 254-56, 267, 345-47 Rohrbach 126, 349 Rom 20, 58, 328 Priscilla-Katakomben 116 Rottenbuch 45 Roveredo 99
+
+Ruhpolding 347 Salmanskirchen 67, 82, 257–60, 346 f. Salzburg 23, 65, 160f., 183, 186, 279, 295, 320-25, 346, 349 Erzabtei St. Peter 99, 106, 190 Sandizell 348 St. Cloud 332 St. Erasmus 67, 90, 112, 129, 257, 261–66, 267, 349 St. Maximilian 348 St. Wolfgang am Burgholz 70, 133, 279 St. Wolfgang bei Griesbach 346 Schedling 349
+
+Schlehdorf 61, 349 Schleißheim, Schloß 308 Galerie 309, 349 Schloß Lustheim 122 Schönau 346 Schönberg 155, 193, 329, 346 Schwindegg 93, 97 f., 185 Seckau 320 Seeon 228 Seiboltsdorf 330 Stadtamhof 23 Stampfschlössl bei Au 38 Stadl bei Wang 284 Steeg 75, 302 Stefanskirchen 7 Steyr 329 Straubing 65, 330, 333, 349
+
+Taufkirchen 140 Thal 81, 100 Thambach 90, 126, 222, 248, 267–72, 304, 349 Toulouse 117 Traunstein 103, 308, 331 f., 349 Trostberg 7, 31, 33, 119, 160, 185, 218, 284, 349 Tüssling 347 f.
+
+Unterammergau 317 Unterholzhausen 33 Unterzarnham 222, 273:
+
+Vatersham 337 Vilsbiburg 190, 221, 248, 346
+
+Waal 126 Waging 31 Wald 247, 292 Wald an der Alz 349 Waldeck/OPf 308, 332 Walkersaich 64, 70, 75, 119, 274-83, 348 Wang 99, 254, 284 f., 347 Walpertskirchen 348 Wartenberg 345 Wasserburg 33, 58, 99 f., 116, 294, 305, 329, 336, 345, 347 t. Frauenkirche 20, 179, 182, 204, 347 Schloßkapelle 31 Weilkirchen 23, 79, 145, 155, 286-93, 294, 304, 346 Weißer Berg bei Prag 146, 148, 150 Welden 240, 336 Wellenburg 336 Wessobrunn 23 Weyarn 45 f. Wien 222, 296, 316, 333, 348 Wimpasing bei Ampfing 146, 150, 155, 191, 294–98, 315, 346 Wimpasing bei Malseneck 299–301, 347 Winhöring 36, 126, 348 Wörth 64, 70, 72, 75, 248, 302-04, 347 Wurmsham 337
+
+Zangberg 7, 31, 60, 195, 257, 286, 294, 305-42, 345, 349 Ahnensaal 316–42 Fürstensaal 306–16 Schloßkapelle 332
+
+{{End}}

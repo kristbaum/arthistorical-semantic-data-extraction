@@ -1,0 +1,174 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=261
+|Originalseitenbis=266
+|Lemma=Sankt Erasmus, Filialkirche St. Erasmus
+|Typ=Sakral
+|Ort=Sankt Erasmus
+|davor=Salmanskirchen, Filialkirche St. Johannes Evangelist und St. Johannes Baptist
+|danach=Thambach, Filialkirche St. Georg
+|AutorIn1=Böhm, Cordula
+}}
+
+Filialkirche, Pfarrei Pürten (Pfarrverband Waldkraiburg) Stadt Waldkraiburg, Erzdiözese München und Freising; z. Z. der Ausmalung gehörte St. Erasmus zur Pfarrei Fraham, die dem Augustiner-Chorherrenstift Au inkorporiert war, Erzbistum Salzburg, Archidiakonat Gars. In Sankt Erasmus lag der Herrensitz Neubau, der ab 1747 im Besitz der Grafen Töring zu Jettenbach war, die Kirche unterstand aber dem Gericht Kraiburg
+
+
+'''Patrozinium:''' St. Erasmus
+
+
+'''Zum Bauwerk:''' Spätgotischer Bau mit Westturm, 1686 neuer Hochaltar (Joseph Huber), 1720 erste Barockisierung mit Ausbrechen von fünf Fenstern durch den Gerichtsmaurermeister Simon Lindacher. Neubau des Seelenhäusls 1752. Barockisierung 1769/72 durch den Kraiburger Maurermeister Johann Michael Millinger: er hat »... von dem Gewölb die Senklen herabgenommen, einen neuen Anwurf hinaufgemacht, die Lisenen und Hauptgesimser verfertigt, bei dem Hochaltar linker Hand ein neues Fenster ausgebrochen und das alte Fenster hinter dem Hochaltar vermauert, das ganze Gottshaus nebst der Sakristei und Totenkapellen sauber verputzt, item auf dem Langhaus neue MauerBenken eingezogen und mit 8 Pfeillern untermauert, 4 Schleudern eingezogen ...«. 1784 zwei neue Seitenaltäre von Johann Philipp Wagner und Martin Anton Seltenhorn. 1913 Verlegung der Eingangstüre und der Emporenstiege, die Empore wurde um 75 cm vorgezogen (AEM).
+
+Gedrungener Saalbau zu drei Jochen. Empore im W; um eine Stufe erhöhter, kaum eingezogener AR zu zwei Jochen, dreiseitig geschlossen. Gliederung in LHs und AR durch marmorierte Pilaster mit konvexen Vorlagen und geschwungenen Gebälkstücken. Belichtung durch hohe Rechteckfenster im LHs nur von S im zweiten und dritten Joch, im AR im zweiten Joch von N und S; über dem Eingangsjoch im LHs Rundfenster. Sakristei an der S-Seite des AR mit darüberliegendem Oratorium.
+
+'''Auftraggeber:''' Die Gemeinde stiftete die Ausmalung (s. Autor) bis auf 14 fl., die aus den Kirchengeldern bestritten werden durften. Pfarrvikar von Fraham war P. Martial Josch von Au.
+
+Das Wandfresko W mit der Leidensgeschichte des hl. Erasmus geht auf mehrere Stiftungen und Erneuerungen zurück, wie die seitlichen Stiftungsinschriften (ergänzt nach Inninger) berichten; zuerst auf Bernhard von Trenbeck, den Erbauer von Sitz Neubau:
+
+»Anno 1515 hat zur größeren Ehre Gottes, dann des Heiligen Eraßmi das Leyden diess Heiligen von Neuen mahlen lassen der Wohledl und gestrenge Herr Libhard von Trennbach, ao
+
+
+[[File:Band08_chunk006_p006_img003.jpg|thumb|Der Kirchenraum]]
+
+
+1631 Der Wohledl und gestrenge Herr Christoph von Trenbach (StAM, Toerring-Jettenbach H 73). 1728 haben der »Wohlehrngeacht und bescheidene Joseph Reichthallhamer bürgerlicher Bierbräu, und Anna Maria dessen Ehewürthin« und 1771 »der Wohlweise Herr Joseph Reichthallhamer, gewest des äußern Raths, und bürgerl. Bierbräu zu Krayburg nunmehro seel., und mit ihme dessen hinterlassene Ehefrau Maria Anna, auch ihr dermaliger Eheconsort Anton Stellner bürgerlicher Bierbräu, alle drey als sonderbare Liebhaber und Verehrer des heiligen Erasmi solches Leyden wiederum neu mahlen lassen«. Über den Inschriften sind die Wappen der Trenbeck (links, Garben und Vogel mit Zweig im Schnabel) und Reichthallhammer (rechts, Mann mit Hammer) gemalt.
+
+
+[[File:Band08_chunk006_p006_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band08 p261 -->
+
+
+<!-- ZITAT-TEXT -->
+<blockquote>»... von dem Gewölb die Senklen herabgenommen, einen neuen Anwurf hinaufgemacht, die Lisenen und Hauptgesimser verfertigt, bei dem Hochaltar linker Hand ein neues Fenster ausgebrochen und das alte Fenster hinter dem Hochaltar vermauert, das ganze Gottshaus nebst der Sakristei und Totenkapellen sauber verputzt, item auf dem Langhaus neue MauerBenken eingezogen und mit 8 Pfeillern untermauert, 4 Schleudern eingezogen...«</blockquote>
+
+<blockquote>»Wohlehrngeacht und bescheidene Joseph Reichthallhamer, bürgerlicher Bierbräu, und Anna Maria dessen Ehewürthin«</blockquote>
+
+<blockquote>»der Wohlweise Herr Joseph Reichthallhamer, gewest des äußern Raths, und bürgerl. Bierbräu zu Krayburg, nunmehro seel., und mit ihm dessen hinterlassene Ehefrau Maria Anna, auch ihr dermaliger Eheconsort Anton Stellnen, bürgerlicher Bierbräu, alle drey als sonderbare Liebhaber und Verehrer des heiligen Erasmi solches Leyden wiederum neu mahlen lassen«</blockquote>
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=7 -->
+<!-- citation-page-top: Band08 p262 -->
+
+<!-- header: SANKT ERASMUS -->
+
+<!-- header: SANKT ERASMUS -->
+
+'''Autor und Entstehungszeit:''' Martin Anton Seltenhorn (* 1741 Kraiburg, † 1809 ebda) 1770. Chronogramm am Chorbogen DEVS / MIRABILIS HIC IN SANCT(O) / SERVO SVO (= 1770).
+
+Das Datum 1770 bezieht sich auf Langhaus- und Chorfresko. Bei den 1773 abgerechneten 14 fl. für die Gewölbe-Ausmalung handelte es sich um einen später bezahlte Restsumme: »Consentiert am 2. Juli 1773, daß wegen Ausmahlung des Gottshauses über die von der Gemein bestrittene Unkosten die noch übrige 14 fl. in Aufrechnung gebracht werden dürfen, welche Bezahlung dann auch Martin Anton Seltenhorn, bürgerl. Maller zu Crayburg ... erhalten ...«
+
+1771 wurde das große Wandgemälde mit der Legende des hl. Erasmus teilrekonstruiert (StAM, Kirchenrechnungen Gericht Kraiburg: »Balthasar Schmid, MaurerPalier zu Kraiburg, hat bei Abmahlung der Martern und des Leydens des heyl. Erasmi in diesem Gottshaus den alten Anwurf herabgerissen und mit Neuen angeworfen und Ihm Maller das Grist von 22. Juli bis 7. Sept. täglich aufgericht und wieder abgebrochen, deswegen aber ab hiermit zugebrachten 6 Tagen à 22 x. erhalten 2 fl. 12x., und Michael Schmid Maurergesöll ab 6<sup>1</sup>/<sub>2</sub> Tag à 22 x. = 2 fl. 10 x.«).
+
+Martin Anton Seltenhorn, geboren am 11.11.1741 als ältester Sohn des 1740 in Kraiburg verbürgerten Malers Johann Anton Seltenhorn aus Schwaben, arbeitete mit seinem Vater zusammen und übernahm 1770 dessen Malerwerkstatt. Die Fresken in St. Erasmus 1770 sind das erste für ihn archivalisch gesicherte Werk. Hier zeigt er auch erstmals seinen bereits ausgereiften, sinnlich-derben und originellen Stil, der ihn unverwechselbar macht. Noch 1766 in Frauendorf (siehe S. 89), wo ihm bereits ein entscheidender Anteil an der Ausmalung zugeschrieben werden kann, zeigt der damals 25jährige einen zurückhaltenden Figurenstil. In den Fresken von St. Erasmus herrscht ein lebhaftes Durcheinander von Personen mit ausfahrender Gebärdensprache, drastischer Mimik und phantastischen Ungeheuern, die als Attribute bedrohliche Ausmaße annehmen. Die Farben sind leuchtend bunt und gefällig.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR verschliffenes gotisches Kreuzgewölbe
+
+Rahmen: A, B, D gemalte goldene Stuckrahmen mit Rocaille Agraffen in den Achsen, 1–4 ohne Rahmung
+
+Maße: A Höhe (von der Empore) 4,80 m; 1,80 x 2,40  
+B Höhe 8,00 m; 5,60 x 3,50  
+C Höhe 7,80 m; 4,70 x 3,10  
+W Unterer Rand in Höhe von 1,05 m; 6,90 x 3,60  
+
+Erhaltungszustand und Restaurierungen: 1860 wurde der Zustand der Kirche als bedauerlich bezeichnet, man sah die Gefahr des Einsturzes von Dach und Chorgewölbe (AEM). Mayer-Westermayer nennt eine Restaurierung im Jahr 1867. 1882 wurde die Kirche regotisiert (Malerarbeiten von Heinrich Dagn aus Kraiburg). Dabei wurden auch die beiden Deckenbilder und ein kleines Bild über der Orgel, die Malerei in den Gewölbezwickeln sowie Wandmalerei und Apostelkreuze übermalt (Pfarrarchiv Pürten, Gutachten von Williroider 1953). 1911 wurden an der Nordwand des LHs Spuren des Wandgemäldes entdeckt. Der Maler Karl Auer aus Dorfen restaurierte 1921 die Raumfassung von 1882 nach Entwurf des Kunstmalers Anton Frank. Nächste Innenrestaurierung 1933. Freilegung des Wandbildes und der acht Zwickelfresken in LHs (1-4) und AR (a-d) sowie der Apostelkreuze an den Wänden 1952/53 durch Hugo Williroider, Hochstätt. Abnehmen von Übermalungen an den Deckenbildern. 1984/87 umfassende Restaurierung der Freskomalereien durch Karl Holzner, Ampfing; außer mechanischen Maßnahmen wie dem Verpressen der Decke, dem Schließen der Risse, dem Reinigen von Pilzbefall wurden die durch Williroider unvollständig freigelegten Zwickelfresken mit ihrem Wolkenhintergrund, die umgebende Dekorationsmalerei und die Freskorahmen, die Chorbogenkartusche, die Marmorierungen der Pfeiler freigelegt, restauriert und eingestimmt. Am besten erhalten waren die Rocailleornamente der Stichkappen im ersten AR-Joch und in den mittleren Stichkappen des LHs.
+
+Trotz der vielen Restaurierungen machen die Hauptfresken besonders das im Altarraum, einen frischen und originaler Eindruck; die Zwickelfresken sind durch die Freilegung abgerieben und teilweise eingestimmt.
+
+Das mehrfach übermalte und zuletzt wieder freigelegte Wandbild ist von einem durchgehenden verkitteten Längsriß durchzogen, zum Teil farblich sehr abgerieben und inhaltlich nicht mehr zweifelsfrei lesbar. Restaurierung 2001 durch Helmut Zernickel, München.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die üppig-breiten gemalten Rahmen sind goldfarben und in den Achsen mit Büscheln von Rocaillen besetzt, die den Rahmen überspinnen, eine Eigenart Martin Anton Seltenhorns. Mit Blumengirlanden durchflochtene Rocaillen überziehen spielerisch die Stichkappen, während in den Gewölbezwickeln Evangelisten und Kirchenväter ohne Rahmung dargestellt sind.
+
+A ST. ERASMUS HEILT EINEN BESESSENEN Rechts erscheint der Heilige auf den Stufen eines Kirchenportals in langem schleppendem Bischofsgewand. Vor ihm liegt unter einem abgebrochenen Laubbaum, in Fetzen gekleidet, ein Besessener. St. Erasmus gebietet mit segnender Hand den Teufeln, den Leib des Kranken zu verlassen, und dessen Mund entflieht ein Schwarm kleiner geflügelter Drachen.
+
+B VIERZEHN NOTHELFER Die Darstellung bezieht sich auf Erasmus in seiner Eigenschaft als einer der Vierzehn Nothelfer. Er erscheint an zentraler Stelle in einem prächtigen Bischofsmantel aus geblümtem Brokatstoff, mit ebensolcher Mitra und Stola und hält sein Attribut, die mit Darm umwickelte Winde. Maria und die übrigen Nothelfer sind um ihn dargestellt. Am westlichen Bildrand quellen Wolkenballen und Feuer über den Bildrahmen hinaus und vermengen sich mit den Rocailleornamenten.
+
+Zuoberst thront in Wolken Maria mit dem Kind, das Katharina von Alexandrien links die Hand reicht; diese hat als Attribut das Schwert bei sich. Neben ihr ist Margareta von Antiochia zu sehen, mit Kreuz und Drachen, gegenüber Barbara mit dem Kelch, alle drei mit Krönchen; es ist die Gruppe der heiligen drei Madln«. Rechts folgen die Heiligen Christophorus mit Baumstamm und Jesuskind auf den Schultern, Blasius mit den gekreuzten Kerzen und Cyriacus von Rom. Dieser ist als Diakon gekleidet und begleitet von einem Drachen – Anspielung auf den bösen Geist, den er Artemia, der besessenen Tochter des Diokletian, austrieb. Die linke Gruppe führt an Vitus als königlicher Jüngling in Hermelin und Samtbarett, den Kessel als Attribut bei sich, gefolgt von Eustachius von Rom (dem früheren Feldherrn Placidus des Kaisers Trajan, der sich bekehrte, als er bei der Verfolgung eines Hirsches zwischen dessen Geweihstangen einen Kruzifixus sah, und in der Taufe den Namen Eustachius annahm). Der Hirschkopf mit dem Geweih ist neben ihm zu sehen. Die aufragende Figur am linken Bildrand mit den Insignien eines Benediktinerabtes ist Agidius mit der bei ihm Schutz suchenden Hindin als Attribut. Neben ihm ist breit angelegt mit der weißroten öster
+
+
+[[File:Band08_chunk006_p007_img001.jpg|thumb|Langhausfresken: A St. Erasmus heilt einen Besessenen; B Vierzehn Nothelfer; 1-4 Kirchenväter]]
+
+
+igen drei Madln«. Rechts folgen die Heiligen Christophorus mit Baumstamm und Jesuskind auf den Schultern, Blasius mit den gekreuzten Kerzen und Cyriacus von Rom. Dieser ist als Diakon gekleidet und begleitet von einem Drachen – Anspielung auf den bösen Geist, den er Artemia, der besessenen Tochter des Diokletian, austrieb. Die linke Gruppe führt an Vitus als königlicher Jüngling in Hermelin und Samtbarett, den Kessel als Attribut bei sich, gefolgt von Eustachius von Rom (dem früheren Feldherrn Placidus des Kaisers Trajan, der sich bekehrte, als er bei der Verfolgung eines Hirsches zwischen dessen Geweihstangen einen Kruzifixus sah, und in der Taufe den Namen Eustachius annahm). Der Hirschkopf mit dem Geweih ist neben ihm zu sehen. Die aufragende Figur am linken Bildrand mit den Insignien eines Benediktinerabtes ist Agidius mit der bei ihm Schutz suchenden Hindin als Attribut. Neben ihm ist breit angelegt mit der weißroten öster
+<!-- citation-page-bottom: Band08 p263 -->
+
+
+{{ZITAT|000|»Consentiert am 2. Juli 1773, daß wegen Ausmahlung des Gottshauses über die von der Gemein bestrittene Unkosten die noch übrige 14 fl. in Aufrechnung gebracht werden dürfen, welche Bezahlung dann auch Martin Anton Seltenhorn, bürgerl. Maller zu Crayburg... erhalten...«}}
+
+{{ZITAT|001|»Balthasar Schmid, MaurerPalier zu Kraiburg, hat bei Abmahlung der Martern und des Leydens des heyl. Erasmi in diesem Gottshaus den alten Anwurf herabgerissen und mit Neuen angeworfen und Ihm Maller das Gris von 22. Juli bis 7. Sept. täglich aufgericht und wieder abgebrochen, deswegen aber ab hiermit zugebrachten 6 Tagen à 22 x. erhalten 2 fl. 12x., und Michael Schmid Maurergesöll ab 672 Tag à 22 x. = 2 fl. 10x.«}}
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=8 -->
+<!-- citation-page-top: Band08 p264 -->
+
+<!-- header: SANKT ERASMUS -->
+
+== SANKT ERASMUS ==
+
+In der I. Vier Kirchenväter Nach dem Vorbild von reichischen Fahne und im Begriff, einen Brand zu löschen, der hl. Florian im Soldatenkleid mit Wasserschaff; schräg darüber Dionysius von Paris, der sein abgeschlagenes Haupt auf einem Buch hält, und der Jüngling Pantaleon, dem die Hände auf das Haupt genagelt sind. Auf einer großen weißen Wolke schließlich sitzt breit hingelagert der Ritter Georg am Westrand, den Speer auf den Drachen gerichtet; dieser, ein Lieblingsmotiv Martin Anton Seltenhorns, ist phantastisch ausgeschmückt. Eine weitere Nothelfer-Darstellung auf dem rechten Seitenaltar ist sicher von Martin Anton Seltenhorn renoviert, aber um 1716 entstanden: eine Wiederholung dieser Szene, datiert 1716, befindet sich in Grünthal. Ein Altarbild mit der Darstellung der Vierzehn Nothelfer in Lochen/OÖ, gemalt von Johann Martin Seltenhorn 1764, könnte der Komposition nach Vorbild für das Fresko in St. Erasmus gewesen sein, demonstriert aber auch deutlich die stilistischen Unterschiede zwischen dem Burghausener Onkel und seinem Kraiburger.
+
+C DIE ERDTEILE VEREHREN DAS ALTARSAKRAMENT  
+Einansichtige Darstellung mit flacher Erdrampe als Handlungsbühne, hinten begrenzt von einer Palme; den größten Teil des Bildes nimmt die Wolkenszenerie ein. Auf den blaugrün gefärbten Erdwall haben sich die Vertreter der Vier Erdteile versammelt. Sie richten ihre Andacht in verehrender Gebärden auf die Hostie in der großen, strahlenumgebener Monstranz, die in der Bildmitte von Engeln getragen und gezeigt wird. Europa ist repräsentiert durch einen jungen Ritter, der auf der Erde kniet, sein rechtes langes Bein seitwärts abgestützt, in einen Harnisch gekleidet, mit langem rotem Mantel und weißer Allongeperücke. Hinter dem Umhang ist der Oberkörper eines vornehmen Zeitgenossen zu sehen – vielleicht des Hofmarksherrn Maximilian Emanuel Graf von Törring-Gronsfeld zu Jettenbach (1763–73, der 1773 das baufällige Schloß Neubau wieder herrichten ließ). Darüber schwebt der Adler als Symbol des Kaisertums. Dem Ritter gegenüber erscheint als Vertreter Asiens ein prunkvoll gekleideter Asiate mit rasiertem Kopf, Haarschwänzchen und Schnauzbart, in rot und türkisen Seidenkleidern, mit goldenem, hermelinbesetzten, purpurgefütterten Herrschermantel, den ein turbangeschmückter Inder rafft. Zu seinen Füßen sieht man ein Fabelwesen, eine phantastische Mischung aus Hund, Drache und Löwe. Beide Vertreter haben ihre Herrscherinsignien am Boden niedergelegt: Kaiserkrone und Zepter einerseits, Turban und Degen andererseits. Africa erscheint als ein mit Federn bekrönter Mohr mit Köcher und Bogen hinter Asia; von seinem Begleittier, einem Elefanten, sind nur Kopf und Rüssel zu sehen. America ist ein junger Indio, rothäutig, federngeschmückt und mit einem Krokodil.
+
+Die Engelsgruppe mit der Monstranz wird ergänzt durch weitere Engel, die mit weitausholenden Gesten Weihrauchgefäß und Schiffchen tragen.
+
+Prächtig bunt sind die Farben vor den leuchtend hellen Wolkengrund gesetzt; der Charakterisierung der Figuren und Tiere widmet sich Seltenhorn mit naiver Phantasie und großer Freude am drastischen Detail. Das gleiche Thema hat Seltenhorn fünf Jahre später in Gars gemalt, ebenfalls als Chorfresko, aber mit größerem Pathos und Ernst (siehe S. I11).
+
+[[File:Band08_chunk006_p008_img001.jpg|thumb|Altarraumfresken: C Die Erdteile verehren das Altarssakrament; a-d Evangelisten]]
+
+In der unteren Reihe links und rechts Stifterwappen und -inschriften (s. Auftraggeber), in der Mitte die Kirche St. Erasmus mit einem Brustbild des Heiligen in Wolken.
+
+Wir haben in St. Erasmus einen Marterzyklus des hl. Erasmus vor uns, wie er uns ähnlich ausführlich aus der Barockzeit im oberbayerischen Raum nicht bekannt ist. Der Zyklus geht auf die Zeit der Spätgotik zurück und wurde 1771 mindestens zum drittenmal neu gemalt. Das Erasmus-Patrozinium der Kirche am Inn rührt von seinem Patronat über die Schiffer und Seeleute her. Der Legende nach gehört der hl. Erasmus (2.6.) zu den Martyrern Petrus und Marcellinus (1.6.), die unter Kaiser Diokletian verfolgt wurden. Er war Bischof in Antiochien und wurde zuerst gegeißelt, mit Bleikolben und Knütteln geprügelt und schließlich in einem Kessel mit siedendem Harz, Pech, Schwefel und Wachs gesotten. Er entstieg dieser Marter unverletzt, worauf eine Welle von Bekehrungen einsetzte. Nun fesselte man Erasmus und kerkerte ihn ein, um ihn auszuhungern, er wurde aber vom Erzengel Michael nach Lucinium in Apulien entführt, wo er weitere sieben Jahre wirkte. Unter Kaiser Maximinian erlitt er neue Martern, Schläge ins Gesicht, erhielt einen glühenden Panzer umgelegt, wurde wie-
+
+<!-- citation-page-bottom: Band08 p265 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=9 -->
+<!-- citation-page-top: Band08 p266 -->
+
+<!-- header: SANKT ERASMUS -->
+
+<!-- header: ГНАМВАСН -->
+
+
+[[File:Band08_chunk006_p009_img001.jpg|thumb|W Die Martern des hl. Erasmus]]
+
+
+der in einem Kessel mit Blei, Pech, Harz und Öl gesotten und wiederum in den Kerker geworfen. Ein Engel entführte ihn nach Formia (auch Nola) in Campania, wo er während einer Vision starb. Seine Gebeine wurden nach Cajetan (= Gaeta) übertragen (AASS Junii Tom. I, S. 211–19 mit Aufzählung des neunzehnteiligen Erasmus-Zyklus in Gaeta; Ribadeneira-Hornig, Bd 1, 1750, S. 790 f.; Legenda aurea Graesse, S. 890–94: unter: Legendae a quibusdam aliis superadditae; Reclams Lexikon der Heiligen und biblischen Gestalten, Stuttgart 1968, S. 180 f.; LCI Bd 6, 1974, Sp. 156–58)
+
+Viten kommen das Abhacken von Händen und Füßen, das Ausstechen der Augen und die Enthauptung nicht vor; diese sind vielmehr bekannt unter den Leiden des hl. Emmeram. In Einzeldarstellungen wird Erasmus als Bischof dargestellt, meist mit einer Winde, mit der ihm die Gedärme aus dem Leib gewickelt wurden - ursprünglich bezog sich die Winde auf ein Schiffstau –; weitere Marterattribute sind Nägel oder Pfriemen, die ihm unter die Fingernägel getrieben wurden, und ein Kessel, in dem er gesotten wurde. Das Hochaltargemälde, das Sebastian Junker zugeschrieben wird, stellt das bekannteste Erasmus-Martyrium dar, das Herauswinden der Gedärme. Am geläufigsten ist der hl. Erasmus als einer der Vierzehn Nothelfer; in dieser Gruppe ist er im LHs-Fresko dargestellt. Eine weitere Nothelfer-Darstellung auf dem rechten Seitenaltar ist sicher von Martin Anton Seltenhorn überarbeitet, aber um 1716 entstanden – eine Wiederholung dieser Szene, datiert 1716, befindet sich in Grünthal.
+
+
+== Quellen und Literatur ==
+
+
+StAM, Gericht Kraiburg, Kirchenrechnungen 1700–1800; Pfarrei Fraham.
+
+StAM, Törring-Archiv.
+
+StAM, LRA 51927: Restauration der Filialkirche St. Erasmus 1883 (Seitenaltäre und Kanzel).
+
+AEM, Pfarrakten Pürten, Filiale Sankt Erasmus. DI ID V' 1 C 1 F
+
+BLfD, Kirche Sankt Erasmus.
+
+Wening, Rentamt Burghausen, München 1721, S. 11, B 18. Mayer-Westermayer, Bd 2, S. 163.
+
+KDB I OB (3), S. 2259
+
+Historischer Atlas Bd 36, Mühldorf (Helmuth Stahleder), München 1976, S. 330, 344.
+
+Inninger, Siegfried, Das Geschlecht der Trenbeck und ihr Sitz Neubau in Sankt Erasmus, in: Das Mühlrad 29, 1987, S. 125–55, S. 142 f
+
+Großmann, Dieter, Wallfahrts- und Pfarrkirche Pürten (KKF Nr. 1233), München 1981, S. 20–22.
+
+Dehio 1990, S. 1054.
+
+Schroll, Meinrad, Die Filialkirche St. Erasmus, in: Waldkraiburg erzählt. Geschichte einer jungen Stadt (Hg. Stadt Wald-kraiburg), Waldkraiburg 1999, S. 45–52.
+
+{{End}}

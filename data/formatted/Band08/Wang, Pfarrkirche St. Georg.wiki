@@ -1,0 +1,102 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=284
+|Originalseitenbis=285
+|Lemma=Wang, Pfarrkirche St. Georg
+|Typ=Sakral
+|Ort=Wang
+|davor=Walkersaich, Kuratiekirche Mriä Himmelfahrt
+|danach=Weilkirchen, Filialkirche St. Georg
+|AutorIn1=Böhm, Cordula
+}}
+
+<!-- citation-page-top: Band08 p284 -->
+
+<!-- header: WANC -->
+
+<!-- header: WANG -->
+
+Pfarrkirche (Pfarrverband Gars), Gemeinde Gars, Erzdiözese München und Freising; z. Z. der Ausmalung Erzdiözese Salzburg, Archidiakonat Gars. Die Kirche war dem Augustiner-Chorherrenstift Gars am Inn inkorporiert, das in Stadl bei Wang einen Sommersitz hatte. Salzburgische Hofmark Mittergars. Gericht Kling
+
+
+[[File:Band08_chunk006_p018_img001.jpg|thumb|C Abendmahl; C<sub>1-2</sub> Bistumspatrone (1921]]
+
+
+
+[[File:Band08_chunk006_p018_img002.jpg|thumb|A Dreifaltigkeit]]
+
+
+'''Patrozinium:''' St. Georg
+
+'''Zum Bauwerk:''' Die spätgotische Kirche ließ Hanns Fraunberg zu Haag wahrscheinlich 1472 erbauen; von ihr ist der AR noch erhalten. Turmneubau und Barockisierung des LHs mit geschweiften Fenstern 1729/30 durch den Trostberger Maurermeister Martin Pöllner. Erweiterung der Kirche 1939 durch einen modernen Neubau (gesüdet) von Friedrich Haindl, der an den bestehenden Bau auf der S-Seite anschließt und diesen zu einem Vorraum umwandelt.
+
+Die alte Kirche ist ein Saalbau (11,35 × 6,40 m) zu drei Jochen mit gleich breitem und gleich hohem zweijochigen AR (9,40×6,60 m), dreiseitig geschlossen. Pilastergliederung Belichtung durch zwei Fenster auf der N-Seite des LHs und der S-Seite des AR. Empore im W. An der S-Seite sind die LHs-Joche zur neuen Kirche hin in Form von Arkaden aufgebrochen.
+
+'''Auftraggeber:''' Abt Gelasius Ludwig von Gars (1698–1742) Pfarrvikare in der fraglichen Zeit waren Prosper Texto aus Wasserburg (1697–1731) und Maximilian von Stängl (1731–40).
+
+'''Autor und Entstehungszeit:''' Zuweisung an Johann Franz Huber (* um 1685 unbekannt † 1749 Gars) um 1730.
+
+Die Fresken sind weder signiert noch datiert. Durch Übermalung und Freilegung sind sie so verdorben, daß eine stilistische Untersuchung sich erübrigt. Die handwerklich-schlichten Kompositionen lassen auf einen lokalen Maler schließen, wobei für den Garser Maler Huber die historische Wahrscheinlichkeit spricht.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Stichkappentonne Rahmen: Verkröpftes, breites Stuckprofil Technik: Fresko; polychrom Maße: A Höhe 7,85 m; 3,30 × 2,40 B Höhe 7,85 m; 3,30 × 2,70 C Höhe 7,85 m; 2,50 × 2,80 D Höhe 7,85 m; Ø 1,30
+
+
+[[File:Band08_chunk006_p018_img003.jpg|thumb|28]]
+
+
+
+[[File:Band08_chunk006_p018_img004.jpg|thumb]]
+
+
+Erhaltungszustand und Restaurierungen: 1921 waren die Deckenbilder übermalt; man plante eine Ausmalung durch den Kunstmaler P. Hohmann, als unter den Ölbildern des 19. Jh. die barocke Ausmalung entdeckt und freigelegt wurde. Die Bilder sind bis auf die unterste Malschicht abgerieben, die Binnenzeichnung ist erneuert, die Farbigkeit blaß. Die Zwickelbilder der Evangelisten (1-4) und die Bilder der hll. Benno und Korbinian (C<sub>1-2</sub>) sind neu.
+
+
+== Bildabfolge ==
+
+
+A DREIFALTIGKEIT In Wolken thronen Gottvater mit Zepter und Christus mit dem Kreuz, sie setzen je einen Fuß auf die Weltkugel. Darüber die Geisttaube.
+
+B MARIA AUF WOLKEN Wolkenszenerie. Maria schwebt nach oben, von Engeln getragen. Zusammen mit Fresko A ergibt dies eine Darstellung der Aufnahme Mariens in den Himmel.
+
+Das Bildfeld im westlichen Joch ist leer.
+
+C ABENDMAHL Innenraum mit Stufen im Vordergrund. An einer langen Tafel sitzen Jesus und die zwölf Apostel. Judas mit dem Geldbeutel entfernt sich nach rechts.
+
+D ENGELSGLORIE (keine Abbildung)
+
+1–4 EVANGELISTEN (1921) 1 Markus, 2 Johannes, 3 Matthäus, 4 Lukas
+
+C<sub>1-2</sub>, BENNO und KORBINIAN (1921)
+
+
+== Quellen und Literatur ==
+
+
+BHStA, Landshuter Abgabe 1993, Nr. 337. StAM Gericht Kling, Kirchenrechnungen 1729/30. AEM, KB 37/5-6 (B 1376-77), Diaria Garsensia, in specie Wangensia 1788/1805 (P. Patritius Ettmiller, Pfarrvikar 1788-95 und 1799–1805). AEM, Pfarrei Gars, Pfarrmatrikeln Wang (am Anfang mehrerer Seiten Notata zur Ausstattung der Pfarrkirche und ihrer Filialen Reith und Elsbet). BLfD, Akt Wang, Pfarrkirche St. Georg
+
+
+== KDB I OB (2), S. 2065 ==
+
+
+Historischer Atlas Bd 15, Wasserburg und Kling (Tertulina Burkard), München 1965, S. 286.
+
+
+[[File:Band08_chunk006_p018_img005.jpg|thumb]]
+
+
+
+[[File:Band08_chunk006_p018_img006.jpg|thumb]]
+
+
+
+[[File:Band08_chunk006_p018_img007.jpg|thumb]]
+<!-- citation-page-bottom: Band08 p285 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=19 -->
+{{End}}

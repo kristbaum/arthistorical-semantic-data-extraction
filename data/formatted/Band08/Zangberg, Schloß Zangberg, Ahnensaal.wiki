@@ -1,0 +1,702 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=316
+|Originalseitenbis=343
+|Lemma=Zangberg, Schloß Zangberg, Ahnensaal
+|Typ=Sakral
+|Ort=Zangberg
+|davor=Zangberg, Schloß Zangberg, Fürstensaal
+|danach=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== Ahnensaal, jetzt Fest- und Musiksaal ==
+
+
+1693 Vertrag mit Riva über den neu zu erbauenden Saal; im gleichen Jahr wurden die Außenmauern aufgezogen und der Saal von außen verputzt. Erst 1702 wurde unter Dominikus Glasl der Innenraum in Angriff genommen, das Gewölbe eingezogen und für die Stuckierung vorbereitet.
+
+Rechteckiger Raum (24,40×9,25 m), der sich mit 8,50 m Höhe über zwei Geschosse erstreckt. Bedingt durch die steile Hanglage liegen W- und S-Seite im ersten Geschoß, während die NO-Seite zu ebener Erde am Obstgarten liegt (vgl. den Stich von Wening). Gleichmäßige Belichtung durch je sechs Fensterachsen auf der Längsseite mit hochrechteckigen und darüberliegenden etwa quadratischen Oberlichtern (8- bzw. 6teilig); die südliche Achse ist im W durch eine Tür zum Gang genutzt. Zwei große Türen in der Mittelachse der Schmalseiten führen südlich zu den Fürstenzimmern und nördlich über den Gang zur Galerie bzw. zum Ausgang.
+
+'''Auftraggeber:''' Ferdinand Maria Franz von Neuhaus (1680-1716)
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Johann Jakob Würmseer (auch Wirmseer, Wirimseer, *1677 † unbekannt). Das Datum der Fertigstellung 1708 in Fresko A am linken unteren Rand.
+
+Über die für das Zangberger Schloß tätigen Maler geben die im übrigen so ausführlichen Baurechnungen leider keine Auskunft. Sie lassen nur erkennen, daß 1698, also im gleichen Jahr, wo Dominikus Glasl die Bauleitung übernahm, ein Maler angestellt wurde, der aber über die nicht erhaltene Amtsrechnung geführt wird und dessen Name nirgends genannt wird. 1698/1701 werden Rahmen für gut 200 Gemälde gemacht, die in den Fürsten- und den herrschaftlichen Zimmern und auf den Gängen angebracht werden. 1702 wurde der Saal gewölbt.
+
+Zu diesem Zeitpunkt können die Ahnenporträts zumindest teilweise schon fertig gewesen sein (s.u.). Es folgten die Jahre des Exils von Kurfürst Max Emanuel. In dieser Zeit richtete sich Baron Neuhaus sein neues Palais in München ein. 1703 hatte er von Graf Rheinstein-Tattenbach das Anwesen in der heutigen Prannerstraße 11 (jetzt sog. Palais Preysing im Besitz der Hypovereinsbank) erworben, das er bis 1706 von Dominikus Glasl und Münchner Künstlern umbauen und ausstatten ließ.
+
+Unter den Zangberger Rechnungsbänden hat sich zufällig der Band über den Ausbau des Münchner Stadtpalais erhalten. Zusammen mit dem Zangberger Schloßmaurermeister Dominikus Glasl waren 1705/06 2 Maurer, 2 Stuckatoren und bis 24 Tagwerker mit der Innenausstattung beschäftigt. »Die oberen drei Hauptzimmer« wurden von Benedikt Albrecht, Johann Kendlbacher und Jakob Würmseer ausgemalt. Abgerechnet wurde hauptsächlich mit Benedikt Albrecht über 103 fl., Kendlbacher mußte »zuehelfen« für 27 fl., und Jakob Würmseer hatte die Hohlkehlen, vermutlich mit dekorativer Malerei, zu schmücken. Dieser erscheint zunächst noch im Dienste Gumpps, wurde dann aber, um in den Genuß der Kost zu kommen, angestellt und nach 64 Wochen mit 129 fl. abgegolten, was auf eine umfangreiche Tätigkeit hinweist. – »Mit Verfertigung unterschiedlicher Arbeit, Formung verschiedener Figuren und anders« war vom 29.3. bis 12.6.1706, also 56 Werktage à 30x. der Stuckator Appiani beschäftigt.
+
+Wenn man von der Zuverlässigkeit des Datums 1708 ausgeht, wären in unmittelbarem zeitlichen Anschluß daran, also 1706/08, die Fresken des Ahnensaals in Zangberg entstanden. Es liegt nahe, die Künstler für die Ausstattung des Ahnensaals in dieser Gruppe zu suchen.
+
+Der stilistische Befund der Ahnensaal-Fresken spricht auf den ersten Blick für Johann Jakob Würmseer als Autor. Wir kennen von ihm zwar bis jetzt nur die 1710 entstandene Ausmalung der Pfarrkirche von Unterammergau (CBD Bd 2, S. 433-441), aber der Vergleich mit diesen Fresken läßt keinen Zweifel daran, daß derselbe Maler auch in Zangberg tätig war. Die Behandlung der gestaffelten Raumteile und einzelner Architekturformen ist ebenso ähnlich wie die Typisierung von Personen und die Gestaltung von Gruppen. Die Figuren mit kubisch geformten ovalen Köpfen sind nur wenig variiert und haben oft die Steifheit von Puppen. Die Farben sind kleinteilig.
+
+[[File:Band08_chunk007_p009_img001.jpg|thumb|Der Ahnensaal]]
+
+<!-- citation-page-bottom: Band08 p317 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=10 -->
+<!-- citation-page-top: Band08 p318 -->
+
+<!-- header: ZANGBERG -->
+
+
+[[File:Band08_chunk007_p010_img001.jpg|thumb]]
+
+
+[[File:Band08_chunk007_p010_img002.jpg|thumb]]
+
+
+und objektgebunden aufgetragen. Wohl läßt sich ein enger Zusammenhang zum Stil der gemeinschaftlich arbeitenden Benedikt Albrecht und Johann Kendlbacher nicht übersehen, was Bildanlage und Personentypus betrifft. Doch deren Gemeinschaftswerke sind eine Klasse besser: sie komponieren mit lockerer Hand; sie verfügen über die Freskotechnik mit gutem technischen Können. Ein Vergleich mit den bis zum Boden ausgemalten Festsälen in Herrenchiemsee (LKreis Rosenheim) und Reichersberg (OÖ) läßt die Kompositionen in Zangberg handwerklich-fleißig ausgearbeitet und sauber gemalt erscheinen. Die Zangberger Gemälde haben eher den Liebreiz der szenischen Darstellungen Johann Anton Gumpps als seiner kühn angelegten Deckendekorationen, an die ihrerseits Kendlbacher und Albrecht in Reichersberg und in Herrenchiemsee anknüpfen.
+
+Die Anstellung Jakob Würmseers durch den Freiherrn von Neuhaus kann als günstige Gelegenheit für Auftraggeber und Angestellten gesehen werden, die Ausmalung des Ahnensaals gleich im Anschluß an das Stadtpalais vorzunehmen.
+
+Die reiche und stark plastische Stuckierung wird Peter Franz Appiani zugeschrieben (frdl. Mitt. Eva-Christina Vollmer und Laurentius Koch, vgl. dazu deren Publikation: Die Stuckausstattung von Peter Franz Appiani in der Wallfahrtskirche Mariahilf bei Freystadt, in: Jahrbuch des Vereins für christliche Kunst in München e.V., Bd 25, 1985, S. 94-114, und Saur, Neues Künstlerlexikon Bd 4, 1992, Sp. 562). Appiani war zuletzt 1703 in Schloß Nymphenburg beschäftigt und dann wieder 1708/09 mit der Stuckierung der Wallfahrtskirche Mariahilf in Freystadt/OPf. Seine erzwungene Pause am Hof durch den Spanischen Erbfolgekrieg konnte Freiherr von Neuhaus für sich nutzen. Die stilistische Datierung der Stuckierung 1702 oder 1707 steht noch aus.
+
+Die Ahnenporträts und Stammbäume können teilweise schon um 1700 entstanden sein, wie einige Daten zeigen. Zu der Schwester Maria Anna Franziska (O<sub>2</sub>) ist als Pendant der erste 1694 verstorbene, Ehemann Anton Graf Fugger im Porträt dargestellt (W<sub>2</sub>), während der zweite, 1702 geehelichte Ferdinand Albrecht, Graf von der Wahl nur im Stammbaum (dort aber ohne das Sterbedatum 1703) verzeichnet ist. Im Stammbaum kommen als jüngste aktuelle Daten das Geburtsdatum des Sohnes Nikolaus 1698, die Ernennung zur Hofdame der Tochter 1701 und bei Ferdinand Maria unter der Aufzählung seiner Titel die Daten 1702, 1703, 1705 vor; das letztere fehlt bei seinem Porträt (W<sub>IV</sub>), wohingegen das Todesdatum 1716 im Porträt nachgetragen sein dürfte.
+
+[[File:Band08_chunk007_p010_img003.jpg|thumb|Stuckkartuschen in den Hohlkehlen beider Langseiten mit dem Familienwappen der Neuhaus (doppelt)]]
+
+Der Maler der Ahnenporträts ist nicht bekannt. Vermutet werden kann sowohl Johann Jakob Würmseer als auch einer der in München beschäftigten Maler. Im Zusammenhang mit dem Porträt Kurfürst Max Emanuels im Münchner Palais (siehe Autor des Fürstensaals) wird Johann Kendlbacher genannt. Von den um 1750 hinzugekommenen bzw. ausgetauschten Porträts sind die beiden über dem Kamin M<sub>VI</sub> und F<sub>VI</sub> von Martin Speer 1756 (W<sub>VI</sub> signiert und datiert), W<sub>V</sub> und O<sub>V</sub> und W<sub>5-6</sub> werden Georges Desmarées zugeschrieben (Laurentius Koch) und 1735/40 datiert (Norbert Haberger, Der Ahnensaal in Schloß Zangberg, Textband S. 58).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle
+
+Rahmen: Stuckrahmung
+
+Technik: Fresko; A, B, C, A<sub>a-b</sub> polychrom; B<sub>a-b</sub>, C<sub>a-b</sub>, E<sub>1-8</sub> paarweise monochrom rot, gelb, karmin, grün, graublau, grau
+
+Maße: Raummaße 24,40×9,25 m; Höhe 8,50 m;
+
+A 6,00×7,30 B 4,40×4,10 C 4,40×4,10 A<sub>a-b</sub> 0,60 × 1,70 B<sub>a-b</sub>, C<sub>a-b</sub> Durchmesser 1,80 E<sub>1-8</sub> 0,76×0,62 S<sub>I</sub>, N<sub>I</sub> 2,86 × 1,40 W<sub>I-V</sub>, O<sub>I-V</sub> 2,26 × 1,42 W<sub>1-6</sub>, O<sub>1-6</sub> 1,17×1,05
+
+Erhaltungszustand und Restaurierungen: Bei Übernahme des Schlosses durch die Salesianerinnen wurden die Säle renoviert. Den Annalen nach befanden sie sich in äußerst schlechtem Zustand. Der Stuck war teilweise abgefallen und die Malereien durchfeuchtet. Die Embleme an den Wänden waren teilweise
+
+<!-- citation-page-bottom: Band08 p319 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=11 -->
+<!-- citation-page-top: Band08 p320 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: ZANGBER -->
+
+»verwischt« und ihr Bildinhalt unkenntlich. In den Annalen 1862-70 sind die Befunde der einzelnen Darstellungen mit den Inschriften notiert. Eine Restaurierung 1946 behob die Schäden der Belegschaften während des Krieges, als der Saal u.a. dem Arbeitsdienst, einer NS-Lehrerbildung, einem Zirkus (mit Pferden), einem Rüstungswerk und zuletzt als Durchgangslager für Flüchtlinge und für Amerikaner gedient hatte. Ludwig Keilhacker, Taufkirchen, reinigte und renovierte Wände und Fresken, entfernte Übermalungen und legte Kartuschen frei. 1954 wurden technische Mängel behoben: Infolge von Kriegsdetonationen hatte sich die Decke von der Aufhängung am Dachstuhl gelöst und hing ca. 20cm durch. 1977 wurde eine umfassende Restaurierung unter Leitung von Sigmund Benker eingeleitet mit Baugutachten von Erwin Schleich, weil die Wände zahlreiche vertikale Risse aufwiesen. Ein späterer hofseitiger Anbau, eine Totenkapelle, wurde abgebrochen, weil sie eine Fensterachse des Saals vermauert hatte. Die Originaltönungen von Wand und Stuck (Goldocker und Weiß) wurden freigelegt und die Fresken restauriert. Die szenischen Deckenbilder waren bis auf kleine Fehlstellen, Risse und Wasserflecken in relativ gutem Zustand und bedurften der Reinigung, während die emblematischen Fresken an den Wänden stark übergangen und mit Ölfarbe übermalt und die Inschriften in den 36 Kartuschen zum Teil entstellt waren. Vier Schriftkartuschen wurden zusätzlich freigelegt. Das Porträt über der westlichen Saaltüre (W,) war zu etwa einem Viertel zerstört. Ausführende Firma war Karl Holzner, Ampfing. Der Ahnensaal ist jetzt in gutem Zustand; die Malereien sind bis auf geringfügige Überarbeitungen relativ original erhalten
+
+
+== Beschreibung und Ikonographie ==
+
+
+Der sehr helle Raum, etwa zweieinhalb mal so lang wie breit ist etwa bis in Aughöhe hinab mit Bildern und Stuck vollständig bedeckt. Das 226 m² große Spiegelgewölbe ruht auf 7,50 m hohen Wänden, von denen die zwei längsseitigen Außenmauern durch doppelte, bis zum Gewölbeansatz hinaufreichende Fensterreihen durchlichtet sind. Das Verhältnis der Fenster Hochrechteck zu einem fast quadratischen Hochformat, wie wiederholt sich auch in den Proportionen der Deckenfresken und der Ahnenbilder. Die wunderbare Harmonie des Raumes liegt wohl auch in dieser Gesetzmäßigkeit. Der rhythmisch wechselnde Gegensatz zwischen lichtflutenden Fenstern und prunkvoll leuchtenden Ölgemälden wird eingebunden vor der Grundfarbe des Raumes, einem weichen cremefarbigen Gelb, dem sog. Neuhauser Gelb. Eine sanfte schwingende Bewegung der Wand bewirken die ganz in Weiß gehaltenen Akanthusranken, die wie eine Begleitmelodie in gleichmäßigen großen Schwüngen die leeren Felder zwischen den Bildern überziehen und Kartuschen einfassen, die als Wappen an der Decke, über den Porträts als Schrift- und an der Wand als Emblemmedaillons Erläuterungen zu den Gemälden bringen.
+
+
+A EBERHARD VON NEUHAUS BEIM PROVINZIALKONZIL IN SALZBURG 1421. Inschrift am oberen Bildrand: EBERHARDUS III: / EX PERILLVSTRI ET ANTIQUISSIMA FA=/MILIA DE NEUHAUS EX CARINTIA ELECTVS IN ARCHIEPISCOPVM SALIS-BVRG= 1404 MORTVVS 1427; am unteren Bildrand: E CONCILIO CONSTANTIENSI REDVX A 1420 / CONCILIVM PROVINICIALEM SVAE METROPOLIS PRO: FIDEI ET MORVM. REFORMATIONE / INSTI-TVIT (Eberhard III. aus der hochberühmten und sehr alten Familie von Neuhaus aus Kärnten, zum Erzbischof von Salzburg erwählt 1404. Gestorben 1427. Zurückgekehrt vom Konzil zu Konstanz, berief er im Jahre 1420 ein Provincialkonzil seines Kirchensprengels für die Wiederherstellung des Glaubens und der Sitten ein).
+
+Schauplatz dieses festlichen Hauptfreskos ist ein Innenraum, der seitlich durch hohe Arkaden den Durchblick in einen noch geräumigeren Saal gewährt. Die Aufstellung der Mitglieder der Provinzialsynode beschränkt sich auf engsten Raum und erinnert an ein gestelltes Gruppenporträt. Der Rahmen dafür baut sich, sehr eng dem Bildrahmen folgend, äußerst symmetrisch auf: tafelbildmäßige Anlage in geringer Untersicht, rote Marmortreppen mit seitlichen Sockelaufbauten mit gedrehten Säulen. Dabei werden die Wächter in ihrer rostroten Brokatgewandung optisch in den bühnenartigen Repoussoir aus Untersberger Marmor ebenso eingebunden wie die Goldbrokatdraperien. Am ›oberen‹ Bildrand Begrenzung durch Arkaden und einen Thronaufbau. Unter seinem erzbischöflichen Wappen thront Eberhard III. Um seinen Thron stehen paarweise Kammerdiener und Hofkapläne. Rechts und links von ihm sitzen auf einer mit Stoff ausgeschlagenen Bank die berufenen Teilnehmer der Synode, die Bischöfe. Durch Wappen, die auf der hohen Lehne angebracht sind, sind sie zu identifizieren als (linke Seite von innen nach außen): die Bischöfe von Freising, Regensburg, Passau und Brixen und (rechte Seite von innen nach außen) die Bischöfe von Gurk, Chiemsee, Seckau und Lavant. Die Bischöfe der linken Reihe sind die bedeutenderen, sie wurden vom Domkapitel gewählt und verwalteten große Bistümer. Die Bischofsämter der rechten Seite beruhen auf Stiftungen des Salzburger Erzbischofs, sie wurden von ihm frei ernannt und waren von seiner Gunst abhängig. Sie waren zugleich Kanoniker in Salzburg. Der Bischof von Chiemsee war in Salzburg residenzpflichtig. Unter Kaiser Joseph II. wurden drei der vier Bistümer erweitert und gingen in den drei Diözesen Graz-Seckau, Gurk (in Klagenfurt) und Maribor (= Marburg) auf. Eberhard III. trägt als Erzbischof die Farbe Kardinalsrot, sie bezieht sich auf seine Eigenschaft als >Legatus natus<. Die Gewänder der Bischöfe sind im gleichen Rot gegeben, obwohl sie liturgisch violett sein müßten, es fehlt auch das Pektorale. In einer zweiten Reihung stehen erhöht hinter ihnen Kleriker aus dem Domkapitel in schwarzblauen Kleidern. Am Fuß der Treppe, die zum erzbischöflichen Thron führt, kniet ein Protokollant, ein zweiter an seiner Seite verliest ein Schriftstück. Nur als Halbfiguren hinter den Marmorstufen erscheinen die Köpfe und Oberkörper der Zuschauer und Zuhörer, die sich aus Klerikern und Laien zusammensetzen – darunter offensichtlich angesehene Bürger – und auch nach rückwärts, zum angrenzenden Saal hin und ragen in monochromer Malerei Köpfe und Hellebarden hervor. Nicht benannt werden können der erste sitzende Bischof links vom Thron ohne Wappen und der porträthaft wiedergegebene, schöne barhäuptige Geistliche am rechten Bildrand beim Wächter. (Für Hilfe bei der Deutung danke ich Prälat Dr. Sigmund Benker, Freising).
+
+
+[[File:Band08_chunk007_p011_img001.jpg|thumb|A Eberhard III. von Neuhaus beim Provinzialkonzil in Salzburg 1421; A Taghimmel, A Nachthimmel]]
+
+
+WAPPEN Vier Wappenkartuschen in der Hohlkehle über den Achsen der Stirnseiten und der Langseiten spielen ebenfalls auf Erzbischof Eberhard an. Die auf den Stirnseiten zeigen das Wappen von Salzburg mit dem Neuhaus-Wappen, die auf den Langseiten das Neuhausische Familienwappen. Hier tragen Putten einen roten Bischofshut, zwei Putten spielen mit zwölf roten Quasten. (Die Farbe Purpur war dem Kardinalsrang vorbehalten, in dem Eberhard III. nicht stand.)
+
+
+A<sub>a-b</sub> EMBLEME AUF BISCHOF EBERHARD Quergestellte Fresken seitlich von A (Basis jeweils am gegenüberliegenden Rand nach N bzw. S).
+
+A<sub>a</sub> VT PRAESIT ET PROSIT (Auf daß er vorstehe und nütze). Die Sonne bescheint eine Landschaft. Bischof Eberhard III. wird mit der Sonne verglichen. Unter seiner Regierung gedeiht das Bistum.
+
+A<sub>b</sub> LVMINE REGVNT: NVMINE REGVNTVR (Mit ihrem Licht lenken sie, vom göttlichen Walten werden sie gelenkt). Nächtlicher Sternenhimmel über einer Landschaft mit Kirchturm. Bischof Eberhard wird verglichen mit einem hell leuchtenden Stern, der für seine Untertanen Wegweiser in dunkler Nacht ist. Er selbst wiederum wird wie die Sterne vor der göttlichen Vorsehung gelenkt.
+
+
+B GRÜNDUNG DER FESTE NEUHAUS DURCH EBERHARD VON NEUHAUS Inschrift: ARCEM NEVHVSIANAM; PRAESIDIO ET PRAEFECTVRAE DITIONE INSIGNEM EXTRVIT / EBERHARDVS III: OPVS COGNOMINI AFFINE EXTRA VRBEM MONTI CAPRARVM / VICINVM. CIRCA ANNVM 1412. (Die Burg Neuhaus, durch Befestigung und Vogteigewalt berühmt, erbaute Eberhard III., das Werk seinem Namen verwandt, außerhalb der Stadt, dem Gaisberg benachbart, ums Jahr 1412).
+
+Die Darstellung wird beherrscht von der Ansicht des Schlosses Neuhaus bei Salzburg, das an einem hochaufragenden Hang, hinterfangen vom noch höheren Gaisberg, gelegen und mit Türmen und Mauern bewehrt ist. Von der Ebene schreitet ein Trupp Männer, mit Helmen und Hüten, mit Hellebarden und Säbeln bestückt, zur Burg heran, wohl die Soldaten des Erzbischofs, um die neue Burg in ihre Obhut zu nehmen. Die
+<!-- citation-page-bottom: Band08 p321 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=12 -->
+<!-- citation-page-top: Band08 p322 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: ZANGBERG -->
+
+den Hang besteigende Gruppe ist perspektivisch verkleinert und in Rückenansicht, die vordere in Profilansicht wiedergegeben. Diese ist in Physiognomie und Kleidung genau geschildert. Der Anführer und ein trommelnder Knabe vollziehen die Kehrtwende landeinwärts.
+
+Als Erzbischof hatte Eberhard III. das festungsartige Schloß, das schon seit dem 13. Jahrhundert als >in nova domo« bezeugt ist, erworben und erneuert. Im 16. Jahrhundert wurde es Sitz eines Pfleggerichts, verfiel dabei, und als 1697 ein neues Pfleghaus in Gnigl erbaut wurde, vermietete man das Schloß an bedürftige Familien. Das war die Situation zu der Zeit, als Schloß Zangberg mit einem Neubau seinen Höhepunkt erreichte. Schloß Neuhaus hat sich im Außenbau ziemlich unverändert erhalten und ist heute in Privatbesitz. Es gehört heute zur Stadt Salzburg (Dehio, Salzburg 1986, S. 666f.).
+
+B<sub>a-b</sub> EMBLEME AUF BISCHOF EBERHARD UND SCHLOSS NEUHAUS Die Medaillons in den Hohlkehlen zeigen ebenfalls Schloß Neuhaus bei Salzburg.
+
+B<sub>a</sub> DECOR OMNIS AB IPSO (Alle Pracht kommt von ihm selbst). Schloß Neuhaus wird von der Sonne beschienen. Schloß Neuhaus erscheint hier in ähnlicher Perspektive wie im Deckenfresko. Die Sonne, die das Schloß bescheint, steht wohl sinnbildlich für die Herrschaft Eberhards, der das Schloß zu seiner höchsten Blüte brachte.
+
+B<sub>b</sub> VIGILANTIA ET CONSILIO (Mit Wachsamkeit und Rat). Feste Neuhaus bei Salzburg bei Nacht. Kraniche sitzen auf den Dächern. Einer hält in seinen Klauen einen Stein. Der Kranich gilt allgemein als Symbol der Wachsamkeit. »Ob er fliegt oder ruht, überall trägt der Kranich, der Vogel des Pala-<br>medes, einen aufgegriffenen Stein in den Krallen: Zeichen der immer wachen Achtsamkeit und eines scharfen Geistes«
+
+(Henkel-Schöne, Sp. 820). Auf Bischof Eberhard bezogen, deutet das Emblem und sein Lemma auf dessen Herrschaft, unter der seine Burg, seine Stadt und sein Bistum in guter Obhut war.
+
+C VERTREIBUNG DER JUDEN AUS SALZBURG UNTER EBERHARD VON NEUHAUS Inschrift PRIMO REGNANTIS EBERHARDI III: ANNO IVDAEI DVM S: HOSTIAM EX MILLHENSI B:M:V: ECCLESIA FRAVDE / ET PRETIO COMPARATAM VARIIS INI- VRIIS SACRILEGE LACERARVNT PARTIM ROGO IMPOSIIT PARTIM / VRBE ET PROVINCIA SVNT EX- PVLSI (Im ersten Jahre der Regierung Eberhards III. sind die Juden, weil sie sich eine heilige Hostie aus der Müllner Liebfrauenkirche durch Trug und Geld beschafft und diese unter verschiedenen Lästerungen gottesschänderisch zerstückelt haben, teils auf dem Scheiterhaufen verbrannt, teils aus Stadt und Land vertrieben worden). Die Kulisse einer Stadt mit einem Palast, einem Turm, Stadtmauer und Toren. Durch den Torbogen links schreiten Musikanten und Soldaten, einer in Rückenansicht zu Pferd. Sie stoßen die Juden mit Stangen und mit Dolchen vor sich her. Die Juden sind gekleidet in Kniehosen, Leibchen mit Arm- und Halskrausen und mit einem schwarzen breitkrempigen Hut. Einige stürzen zu Boden, andere ringen die Hände und flehen um Einhalt. Eine weitere Gruppe ganz rechts, in der Größenrelation kleiner und daher bereits entfernter dargestellt, wird durch das zweite Tor vor der Stadt getrieben, auf den in Rauchschwaden gehüllten Galgen über einem großen Scheiterhaufen zu.
+
+C<sub>a-b</sub> Embleme auf Bischof Eberhard und die Juden. Die entsprechenden Embleme in den Hohlkehlen beziehen sich auf die Juden in Salzburg.
+
+[[File:Band08_chunk007_p012_img001.jpg|thumb]]
+
+[[File:Band08_chunk007_p012_img002.jpg|thumb|B Gründung der Feste Neuhaus bei Salzburg]]
+
+[[File:Band08_chunk007_p012_img003.jpg|thumb]]
+
+<!-- citation-page-bottom: Band08 p323 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=13 -->
+<!-- citation-page-top: Band08 p324 -->
+
+C<sub>a</sub> MORIMVR SI MORAMVR (Wir sterben, wenn wir bleiben). Die Tiere der Nacht, Bär, Fuchs, Igel, Eule, Fledermaus, fliehen vor der aufgehenden Sonne.
+
+Die Nachttiere werden hier gleichgesetzt mit den Juden, die aufgrund einer Anordnung unter Androhung der Todesstrafe von Erzbischof Eberhard III. aus Salzburg vertrieben wurden. In der Emblemliteratur wird hauptsächlich die Fledermaus als Sinnbild für frevelhafte Menschen mit schlechtem Gewissen gebraucht. Die Zusammenstellung verschiedener nachtaktiver Lebewesen scheint eine Idee des Zangberger Emblemerfinders gewesen zu sein.
+
+C<sub>b</sub> NE TORQVEAT ORA (damit sie nicht das Land schädigt). Ein Adler beißt einer Schlange die Kehle durch. Am Boden liegen zerstückelte Schlangen. Die zerstückelten Schlangen müssen wieder stellvertretend für die Juden interpretiert werden, die umgebracht wurden, weil ihnen ein Hostienfrevel unterstellt wurde. Der Adler ist Sinnbild des Retters, des Christen, also Eberhards, der das Christentum in Salzburg sicherte.
+
+Das Bildprogramm der Decke ist auf den berühmtesten Ver- Eberhard III. von Salzburg, der dieses Amt von 1403–1427 innehatte. In Fresko A wurde der Augenblick dargestellt, als Eberhard, gerade vom Konzil in Konstanz zurückgekehrt, in Salzburg eine Provinzsynode einberief. Diese richtete sich gegen die sittliche Verwahrlosung des Klerus. Fresko B zeigt die Gründung der Feste Neuhaus. Eberhard erwarb das festungsartige Schloß in der Nähe von Salzburg, welches bereits seit dem 13. Jahrhundert als «nova domus» bezeugt ist und ließ es zu einem Amtssitz ausbauen. Das Schloß bei Salzburg ist auch in den beiden Freskenmedaillons B,7) abgebildet. In Fresko C wird auf eine der ersten Amtshandlungen Eberhards nach seinem Regierungsantritt, die Vertreibung der Juden, Bezug genommen.
+
+[[File:Band08_chunk007_p013_img001.jpg|thumb]]
+[[File:Band08_chunk007_p013_img002.jpg|thumb|Vertreibung der Juden aus Salzburg]]
+[[File:Band08_chunk007_p013_img003.jpg|thumb]]
+
+<!-- citation-page-bottom: Band08 p325 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=14 -->
+<!-- citation-page-top: Band08 p326 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: ZANICRERO -->
+
+
+[[File:Band08_chunk007_p014_img001.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p014_img002.jpg|thumb]]
+
+
+Zuvor gabe es viele handschriftliche Chroniken. Über Eberhard III. ist an erzählenden Quellen außer dem Registrum Eberhardi nichts bekannt (Haberger, S. 72). Daß eine Familienchronik existierte, ist – auch angesichts der
+
+
+Als Entwerfer des Programms kann der Bauherr selbst vermutet werden. In ihm dürfte auch der Erfinder der Embleme A<sub>1-b</sub>, B<sub>1-b</sub>, C<sub>1-b</sub> gesehen werden, die die ruhmreiche und wachsame Herrschaft Eberhards als Erzbischof verherrlichen. Es handelt sich um relativ einfach zu entschlüsselnde Kompositionen, die sich auf den Werdegang der Familie beziehen und auch als
+
+
+Appell an seine Erben verstanden werden können. Weder für die einzelnen Darstellungen noch für die Inschriften wurden direkte Vorlagen benutzt, wobei dem akademisch geschulten Erfinder das reichhaltige Bild- und Schriftmaterial
+
+
+== Gemälde an den Wänden ==
+
+
+Die Gemälde an den vier Wänden beziehen sich auf die Familie Neuhaus, jeweils unter Betonung der Achsen durch Wappenkartuschen. Weit in die Geschichte zurück gehen die vier
+
+
+[[File:Band08_chunk007_p014_img005.jpg|thumb|Neues Schloß Zangberg]]
+
+
+
+[[File:Band08_chunk007_p014_img006.jpg|thumb]]
+
+
+Stammbäume und Ahnentafeln an den Stirnseiten, die der Neuhaus in Kärnten, Neuhaus in Bayern, der mütterlichen Linie Maxlrain und der Linie Muggenthal, der Ehefrau des Bauherrn. Die Ahnentafeln der Neuhaus aus Kärnten und der Familie Muggenthal verlaufen von oben nach unten und enden mit der Person des Bauherrn und seiner Gemahlin, während die gegenüberliegenden Stammbäume auf der Nordseite am Fuß mit den legendären Ahnen beginnen und mit den Kindern von Ferdinand Maria enden; bei letzteren sind sogar teilweise Geburts- und Todestag angegeben. Über den Stammbäumen sind Ansichten der Neuhausischen Schlösser angebracht.
+
+
+[[File:Band08_chunk007_p014_img007.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p014_img008.jpg|thumb|N, Freiherrlich Neuhausischer Stammbaum]]
+
+
+
+== Südliche Stirnseite ==
+<!-- citation-page-bottom: Band08 p327 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=15 -->
+<!-- citation-page-top: Band08 p328 -->
+
+Nördliche Stirnseite
+
+N<sub>a</sub> Altes Schloß Zangberg
+
+N<sub>1</sub> Graf Maxlrainischer Stammbaum. Stammbaum der Mutter von Ferdinand Maria.
+
+N<sub>b</sub> Neues Schloß Zangberg.
+
+N<sub>2</sub> Freyherrl. Neuhausischer Stammbaum; unten seitlich die Linien Kärnten mit Greifenfels und Ehrenhaus und die Linien Bayrn, Adlstein und Zangberg.
+
+Ahnenporträts an den Stirnseiten
+
+Zwischen den Stammbäumen hängen in der Mitte über den Türen die zwei bedeutendsten Mitglieder der Ahnenreihe, beide Geistliche hohen Ranges, Begründer der Schlösser Neuhaus bei Salzburg und Zangberg, über ihnen das Neuhauser Wappen mit dem Salzburger Bischofswappen mit Inful, Kreuz und Bischofsstab.
+
+S<sub>I</sub> Eberhard von Neuhaus EBERHARDUS III von Neuhauß. Aus Cärndten. Erwelter Erzbischof zu Salzburg. A. 1404. Mort. A 1427.
+
+Eberhard entstammte einem Rittergeschlecht, das in den Diensten der Grafen von Cilli stand und sich nach der Gurker Lehensherrschaft Neuhaus (Doberna nördlich Cilli) nannte. Der Salzburger Dompropst Eberhard von Neuhaus wurde am 22.5.1403 zum Erzbischof von Salzburg gewählt. Seine Wahl stand im Zusammenhang mit dem sog. Igelbund, einem Zusammenschluß von Bürgern, Rittern und Ministerialen, der sich gegen die Unterdrückung durch die Erzbischöfe zur Wehr setzen wollte. Eberhard versprach, den Igelbund zu unterstützen und die Mißstände zu bekämpfen, z. B. die hohen Steuern, die nach Rom entrichtet wurden, die willkürliche Verfügung über Lehen, die willkürliche Gefangennahme von Lehenseigenen, die willkürliche Verheiratung von Witwen und Waisen sowie die Anerkennung der erzbischöflichen Schuldbriefe. Die Habsburger aber setzten aus andersgerichteten politischen Interessen beim Papst einen Gegenbischof, Berthold von Freising, durch. Der Prozeß dauerte Jahre, wurde zwar schließlich zugunsten Eberhards entschieden, aber auf Kosten des Unterhalts und der Schulden seines Gegners (nach Dopsch, Geschichte Salzburgs, Band I,1, S. 492–501, I,2, S. 747–756). Eberhard III. starb am 18. 1. 1427. (s. Fresken A–C, S. 320–325).
+
+N<sub>I</sub> Domdekan Johann Sigismund von Neuhaus, der 1662 Schloß Zangberg erwarb. IO SIGISM. F.v.N. auf Zangberg, der fürstl. Hoch Stüffter Regenspurg und Freißing RESP: CANONICUS und Dom Dechant, Sr. Hochfr. Dr. ALB: SIG: HofRath und Cammerpräsident. Mort A 1683. († 3. 12. 1683)
+
+Johann Sigismund von Neuhaus war der dritte Sohn Hilpolts von Neuhaus (W<sub>I</sub>) und damit ein Großonkel des Bauherrn. Er wurde 1616 an der Universität Ingolstadt immatrikuliert. 1623 wurde er Domherr und 1645 Scholasticus in Freising, 1625 Domherr in Regensburg. Am 6. Oktober 1663 kaufte er die Hofmark Zangberg mit dem dazugehörigen alten Schloß, welches nach seinem Tod in die Hände seines Großneffen Ferdinand Maria kam. 1665 wurde Sigismund in Freising Domdekan und Kammerpräsident von Fürstbischof Albert Sigismund. Er resignierte 1675 auf die Domherrnpfründe in Regensburg zugunsten seines Großneffen Johann Franz Joseph. 1680 traf er eine fideikommissarische Disposition, wonach er seinen Neffen Franz Ferdinand von Neuhaus zum Universalerben einsetzte. – Auf dem Porträt steht Johann Sigismund im Domherrenornat an einem Tisch, auf dem zwei Papiere liegen. Einen Brief hält er in der Hand. Dabei könnte sich um den Fideikommißvertrag handeln.
+
+Ahnenporträts an den Langseiten (siehe Stammbaum S. 341) Westseite W<sub>I-VI</sub>, W<sub>1-6</sub> Männer, Ostseite O<sub>I-VI</sub>, O<sub>1-6</sub> Frauen. Die Ahnenporträts und Familienmitglieder der Langseiten sind in einer Männer- (Westseite) und in einer Frauenreihe (Ostseite zum Garten) aufgeführt. Ehepaare, und soweit möglich, auch Geschwister stehen sich gegenüber. Die hochformatigen Porträts W<sub>I-V</sub> und O<sub>I-V</sub> stellen in einer Reihe von S nach N den Urgroßvater, Großvater, Vater, den Bauherrn selbst und seinen erstgeborenen Sohn, jeweils mit den Ehefrauen, dar. In den Achsen dazwischen sind kleinere Porträts W<sub>1-6</sub> und O<sub>1-6</sub> etwa quadratisch, zwischen Fenster und Obergaden angebracht. Die ersten vier rechter Hand vom Bauherrn zeigen seine Brüder und Schwestern bzw. Schwäger, die zwei linker Hand seine Söhne und Töchter und als letzten, eine spätere Ergänzung, seinen Enkel. Als erstes Paar ist – abweichend von der männlichen und weiblichen Reihe – ein Brüderpaar, beide Geistliche, untergebracht (W<sub>1</sub>, O<sub>1</sub>). Alle Dargestellten finden sich auf dem Neuhausischen Stammbaum an der Nordwand mit näheren Angaben wieder. Nicht bzw. nicht mehr in der Ahnenreihe abgebildet sind die frühverstorbenen Geschwister und Kinder des Bauherrn (Geschwister: Henrikus Hilepoldus, Franziskus Joseph, Guidobald, Maximilian Leopold, Domherr zu Regensburg, Maria Adelheid, Josepha Adelheid, alle mit dem Vermerk: ›in der Jugend gestorben‹. Kinder: Johann Ferdinand, 1689, und Maria Franziska Maximiliana, 1697 geboren und gestorben, beide in Regensburg). Mit Ausnahme des Bauherrn und zwei seiner Schwestern waren alle Personen, die in den ältereren Bildnissen dargestellt sind, zur Entstehungszeit bereits verstorben. Daß der Maler die physiognomischen Eigenheiten der Neuhausischen Ahnen anhand von älteren Vorlagen studieren konnte, kann vorausgesetzt werden. Die Reihe wurde gezielt mit einem vorgegebenen Format für den Raum in Auftrag gegeben. Es handelt sich so gesehen um eine »künstliche Ahnenreihe« (Haberger, Textband S. 59). Sechs der Porträts sind spätere Ergänzungen bzw. zeitgenössische Porträts lebender Schloßherrn wohl im Tausch gegen deren Kinderporträts. In der Mittelachse über dem Kamin erscheinen als Zutat von 1756 das damalige Familienoberhaupt Joseph Nikolaus mit seiner Frau (W<sub>y</sub>, O<sub>y</sub>; signiert von Martin Speer 1756). Linkerhand vom Bauherrn ist er nochmals dargestellt in einem ausgezeichneten Rokokoporträt (M). Es folgt eine zeitgenössische Darstellung von seinem älteren Bruder Johann Franz Maria († 1752) und dessen Gemahlin (W<sub>y</sub> und O<sub>y</sub>) und als letztes das Kinderbild von Maximilian, dem Sohn von Joseph Nikolaus, der seinen Vater nicht überlebte. Diese vier Porträts werden um 1736/40 datiert (Haberger, Textband S. 58) und Georges Desmarées bzw. seiner Werkstatt zugeschrieben (frdl. Mitt. Laurentius Koch).
+
+S<sub>1</sub> Erzbischof Eberhard III. von Salzburg
+
+W<sub>I-VI</sub>, O<sub>I-VI</sub>, W<sub>1-6</sub>, O<sub>1-6</sub> Porträts aus dem Geschlecht der Neuhaus
+
+W<sub>I-VI</sub>, O<sub>I-VI</sub> Ahnherren und ihre Frauen, Ganzporträts (Reihenfolge von S nach N)
+
+W<sub>I</sub> HILEPOLD der Erste in Bayern Freyherr von Neuh. Herzogs Wilhelm von Bayern Rath A: 1587 Pfleger in Neumarkt, 1616 Kammer. Mort A 1634
+
+Hilpolt war der Urgroßvater Ferdinand Marias (* um 1550 † 6.8.1634, begraben in Kloster St. Veit). Er war in den 80er Jahren des 16. Jh. aus Kärnten nach Bayern eingewandert, wo er Kämmerer bei Herzog Wilhelm wurde. Von 1581 bis 1586 betreute er die Pflege in Wasserburg, zwischen 1585 und 1633 die in Neumarkt, etwa 15 km nördlich von Zangberg, welches damals noch nicht in der Hand der Neuhaus war. Durch seine Heirat mit Anna von Schönberg 1591 kamen die nahe Neumarkt gelegenen Hofmarken Schönberg und Hauzenbergersöll in die Familie. Von Herzog Maximilian erwarb er 1608/09 das Pfleghaus Neumarkt um 4000 fl., das zum Edelmannsitz Adlstein erhoben und großzügig ausgebaut wurde. Ebenfalls 1608 erbte er nach dem Tod seines Bruders Georg Sigmund von Neuhaus, der seit 1560 Vizedom von Kärnten in Friesach war, dessen Amt. Nachdem eine Expektanz beim Salzburger Erzbischof auf die Pflege in Kärnten für seinen Sohn abgelehnt wurde, verkaufte er die Familiengüter in Kärnten und Steyr, darunter auch Schloß Ehrenhaus bei Klagenfurt, welches im Zangberger Ahnensaal an der Südseite dargestellt ist. Seit 1608 hatte sein ältester Sohn Wolfgang Expektanz auf die Pflege Neumarkt, seit 1619 auch sein zweiter Sohn Veit Hans. Der dritte Sohn Johann Sigismund war Domherr und erwarb Schloß Zangberg. 1633 resignierte er an seinen Sohn Johann Wolfgang von Neuhaus.
+
+<math>\mathrm{O_{I}}~~ANNA</math> Freifrau von Schönburg, Herrn Johann und Sidonia von Hauzenbergs Tochter
+
+Anna war die Gemahlin Hilpolts und somit die Urgroßmutter des Bauherrn. Durch ihre Heirat am 17.11.1591 kamen die Hofmarken Haunzenbergersöll und Schönburg in die Familie Neuhaus. Ihre Mutter Sidonia, geb. Hauzenberg von Söll, war auch Gattin des Wolf Christoph von Elreching zu Mämbling und Hueb. Anna starb am 23.12.1633. Begraben wurde sie in Kloster St. Veit.
+
+Dargestellt ist Anna in Schwarz, mit Halskrause und weißer Stoffhaube. Sie hält in ihrer Linken Handschuhe. Links über dem Tisch das Wappen der Schönberg.
+
+W<sub>II</sub> JOHANN WOLFGANG Freyherr von Neuhaus Ihro Chur. Dr. in Bayrn MAXIMILIAN Cammerer und Pfleger zu Neumarkt Anno 1634. Mort 1651
+
+Johann Wolfgang war der Großvater des Bauherrn und Bruder Johann Sigismunds (* 25.7. 1593 † 24.4. 1651, begraben in Kloster St. Veit). 1614 immatrikulierte er sich an der Universität Ingolstadt. Am 9.5.1618 heiratete er Anna Maria Freiin von
+
+<!-- citation-page-bottom: Band08 p329 -->
+
+[[File:Band08_chunk007_p015_img001.jpg|thumb|N<sub>I</sub> Domdekan Sigismund von Neuhaus]]
+
+[[File:Band08_chunk007_p015_img002.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=16 -->
+<!-- citation-page-top: Band08 p330 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: ZANGBERG -->
+
+
+[[File:Band08_chunk007_p016_img001.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p016_img002.jpg|thumb|W<sub>III</sub> Franz Ferdinand von Neuhaus]]
+
+
+
+[[File:Band08_chunk007_p016_img003.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p016_img004.jpg|thumb|W<sub>v</sub> Johann Franz von Neuhaus]]
+
+
+
+[[File:Band08_chunk007_p016_img005.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p016_img006.jpg|thumb]]
+
+
+Gumppenberg, verwitwete von Thurn. 1633–51 war er Pfleger in Neumarkt, seit 1618 Regimentsrat und seit 1646 Oberrichter zu Landshut. 1650 erhielt er die Aussicht einer Expektanz zum Hofdienst und auf die Pflege für seinen Sohn, starb aber zuvor. Seine Brüder wurden am 6.12.1636 in den Freiherren-, am 10.6.1643 in den Reichsfreiherrenstand erhoben. Veit Johann war Landrichter in Straubing, Johann Sigismund Domherr in Freising (= N<sub>I</sub>). – Wolfgang trägt einen Samtrock und eine ziselierte Jacke mit Spitzenkragen; auf dem Tisch liegt eine aufgeklappte Taschenuhr, rückwärts ein Schmuckstück ähnlich einem flammenden Herzen. 
+
+O<sub>II</sub> ANNA MARIA FreyFrau von Baynberg. Herrn Heinrichs und Frauen MARIAE SABINAE von Seiberstorff Tochter. Mort 16.. 
+
+Anna Maria von Gumppenberg war die Großmutter des Bauherrn, die Wolfgang von Neuhaus am 9.5.1621 heiratete. Es war ihre zweite Ehe, nachdem ihr erster Mann Jakob Freiherr von Thurn gestorben war. Wie aus der Schriftkartusche hervorgeht, war ihre Mutter eine geborene Freiin von Seiboltsdorf. Das ebenfalls erwähnte Beinberg liegt in der Nähe von Pöttmes und Seiboltsdorf. Ihr Vater war Heinrich von Gumppenberg zu Pöttmes. Sie starb am 31.5.1643, begraben wurde sie in St. Veit. 
+
+Anna Maria trägt ein reich besticktes und mit Bordüren besetztes schwarzes Kleid mit breitem Spitzenkragen. Die Brust schmückt eine kunstvoll gearbeitete Kette. In der Linken hält sie eine aus Metall gearbeitete Blume, in der rechten ein Schmuckstück ähnlich einer Spange. Auf dem Tisch steht ein Hündchen, darüber das Wappen der Gumppenberg. 
+
+[[File:Band08_chunk007_p016_img007.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p016_img008.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p016_img009.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p016_img010.jpg|thumb|O<sub>V</sub> Benigna Constantia von Saalthurn]]
+
+
+W<sub>III</sub> FRANC FVN, Ibro Cbur. Dr. FERD MARIAE Cammerpfleger zu Neymarckh A: 1654 Vicedumb zu Burghaus: 1666, Geheim R. Vicedom zu Landtshued und anwesent Verordnet. UnderLandts. Mort 1682
+
+Franz Ferdinand von Neuhaus (* 1627 † 24.10.1682 in Landshut, begraben in der Franziskanerkirche), war der Vater Ferdinand Marias und dessen im Fideikommissvertrag bestimmter nächster Erbe auf Schloß Zangberg. Da er früher starb als sein Onkel, erbte sein Sohn Ferdinand Maria. 1643 immatrikulierte er sich an der Universität in Ingolstadt. Nach seinem Studienabschluß machte er offensichtlich eine Kavalierstour, denn beim Tod seines Vaters 1651 war er auf Reisen in fremden Ländern. Nach einer interimistischen Geschäftsführung der Pflege Neumarkt übernahm diese mittelfristig 1651–55 Wilhelm IV. von Maxlrain, Graf zu Hohenwaldegg, ein Verwandter seiner Frau. 1655–70 übernahm Franz die Pflege selbst. Er war der letzte Neuhaus, der dieses Amt in Neumarkt ausübte. 1674 bewarb er sich noch einmal vergeblich darum. Inzwischen hatte er 1671 die Pflege in Ried übernommen, die er bis 1674 innehatte. Ab 1674 bis 1682 war er Pfleger in Traunstein, zwischen 1666 und 1677 Vizedom in Burghausen und ab 1677 in Landshut. Seit 1662 war er in Hofdiensten als Kämmerer und Hofrat. – Der Vater des Bauherrn ist als ein gestrenger Herr, mit Schnauzbart und brauner Allongeperücke dargestellt. Er trägt schwarze Kleidung mit Nerzbesatz und ein weißes Spitzenjabot. In der Hand hält er ein Schreiben, vielleicht den Fideicommissvertrag über Schloß Zangberg. Sein Onkel, der ihn und seine Kinder in diesem Schreiben zum Erben einsetzte, hält ein ähnliches Schriftstück in der Hand (vgl. N<sub>1</sub>).
+<!-- citation-page-bottom: Band08 p331 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=17 -->
+<!-- citation-page-top: Band08 p332 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: 7 A NICERTRO -->
+
+O<sub>III</sub> JOANNA FRANCISCA G. von Mechslrain, Herrn Heinrich und Frauen MARIA ELISABETH Gräfin von Preysing in Moß Tochter. Mort A: 1698
+
+Mutter des Ferdinand Maria (Krick: † 1701). Nach dem Maxlrainischen Stammbaum (N2) war Johanna Franziska Hofdame der Kurfürstin Maria Anna gewesen. Ihr Vater war Heinrich Georg Graf von Hochenwaldeck und Maxlrain, ihre Mutter war Maria Elisabeth, Gräfin von Preysing in Moos. Die Eltern von Maria Elisabeth waren Anna Ursula, Freiin von Gumppenberg und Johann Warmund, Graf von Preysing in Moos. Johanna Franziska erscheint als strenge stattliche Dame in einem schwarzen Oberkleid über einer gestickten Bluse und einem gold und weiß bestickten Rock. Sie hält einen Fächer. Neben ihr auf dem Tisch steht ein Blumenstrauß, in der rechten Hand hält sie Blumen. Darüber das Maxlrainische Wappen
+
+W<sub>IV</sub> FERD M: F.v. N. Iro Churf: Dr. MAX EM: Cammerer A: 1680, Gesandt Nach Regensh A: 1688, Wirckl: Geheimer Rath Ao 1696, Iyro Ch: Dt THERES: CUN: Obrist Hofmeister A 1702, ObrCamer A 1703 und Verordneter Underlandts. Mort A 1716
+
+Ferdinand Maria von Neuhaus (* 5.2.1655 † 7.12.1716, begraben in Regensburg) ist der Bauherr des barocken Schlosses. Er immatrikulierte sich 1675 an der Universität in Ingolstadt. Noch während seiner Studienzeit erhielt er 1677 den Titel eines Domherrn von Regensburg, den er am 16.6. 1682 zugunsten seines Bruders Johann Wolfgang resignierte. 1699 eintauschte er die Pflege in Traunstein gegen das lukrativere Landrichteramt in Waldeck/Oberpfalz. 1714 wurde er Pfleger in Friedburg im Innviertel.
+
+Seine Hofkarriere begann 1680 mit der Ernennung zum Kämmerer. 1685 hatte er den ehrenvollen Auftrag, dem französischen Hof die Anzeige von der Vermählung seines Landesherrn zu überbringen. 1688–1696 weilte er als Bayrisch Gesandter beim Reichstag in Regensburg, was im Gegensatz zu den Pflegämtern eine konkrete Tätigkeit mit sich brachte. 1689 wurde er zum Geheimen Rat, 1696 zum Wirklichen Geheimen Rat ernannt. 1702 trug man ihm das mit 2000 fl. Jahresgehalt dotierte Amt des Obristhofmeisters der Kurfürstin und wenige Monate später das des Obristkämmerers an. Damit war er der zweithöchste Beamte am bayrischen Hof. Außerdem war er als Generalbaudirektor zwischen ca. 1702 und 1715 für das kurfürstliche Bauwesen verantwortlich, das aber in dieser Zeit ruhte. Aus dem Jahr 1714, als sich nach dem Rastatter Frieden die Rückkehr Max Emanuels andeutete, sind vier Schreiben von Neuhaus an den Kurfürsten in St. Cloud erhalten, die auf die geplante Weiterführung der Bauten in Nymphenburg und Schleißheim Bezug nehmen.
+
+Am 7. 12. 1716 ist Ferdinand von Neuhaus in München verstorben, sein Leichnam wurde in die Schloßkapelle St. Erasmus nach Zangberg überführt. Er hinterließ seinen Nachkommen einen Berg Schulden in Höhe von 95 000 fl. Dies lag nicht nur an seinen aufwendigen Bauunternehmungen, deren Ausgaben er – wie die Bemerkungen zur Rechnungsführung belegen – penibel überwachte. Vielmehr standen noch Gehaltszahlungen und sogar Schulden des Kurfürsten aus, die seine Erben nie erfolgreich einklagen konnten.
+
+In seinem Porträt tritt Ferdinand Maria in herrscherlicher Pose und in höfischer Kleidung dem Betrachter gegenüber. In der rechten Hand hält er einen vergoldeten Schlüssel, wohl einen Kämmererschlüssel, ein zweiter liegt neben einem Eisenschlüssel auf dem Tisch. Die auffällige Präsentation dieser Schlüssel dürfte auf die 1702 erfolgte Ernennung zum Obristkämmerer hindeuten. (Das Gemälde wurde 1976 auf der Max Emanuel Ausstellung gezeigt, s. Kat. Bd 2, S. 381.)
+
+O<sub>IV</sub> ANNA DOROTEA Freyin von Mugenthall, zu Hexenackher, Herrn Albrecht Ulrichs und MARIA SUSAN Freyin von Frauenhofen Tochter. Mort 1684 (Fehler, muß >Marit.< = verheiratet heißen, vgl. Stammbaum, denn zwischen 1686 und 1698 hat sie Kinder geboren)
+
+Anna Dorothea Freifrau von Muggenthal, seit 1684 Gemahlin des Ferdinand Maria. Aus dem Stammbaum geht hervor, dass sie Hofdame Maria Anna Christinas war, der 1660 geborenen älteren Schwester Kurfürst Max Emanuels, die mit dem Dauphin, dem Sohn Ludwigs XIV. verheiratet und somit Großmutter Ludwigs XV. war (von daher kommt der Titel Ferdinand Marias Gesandter auf Frankreich).
+
+Die Ehefrau des Bauherrn tritt als vornehme höfische Dame in Erscheinung. Sie hat die Haare hochgesteckt und trägt ein sehr feines, changierend blaurotes Kleid, das an den Ärmeln mit reichen Spitzen eingefaßt ist. In der linken Hand hält sie einen Fächer, mit der rechten füttert sie einen Papagei mit einer Kirsche, der über dem Tisch auf einem kleinen Holzgestänge sitzt. Darüber erkennt man das Muggenthal-Wappen mit einem braunen springenden Hund.
+
+W<sub>V</sub> JOH: FRANZ Freyherr v. Neuhaus des Hochadelicher Ritter Ordens S. GEORG Ritter, Ihr. Churf: Durchlt in Bayr MAXIM: EMAN Camerer, Hofraht und Pfleger zu Fryburg (= Friedburg) und Eberspoint, H. Ferd. F. von Neuhauß Sohn Mort: 1752
+
+Johann Franz Maria von Neuhaus, Sohn Ferdinand Marias (* 2.7.1687 Zangberg † 17.12.1752) war Stammhalter und Nachfolger auf Schloß Zangberg. Ab 1705 war er an der Universität in Ingolstadt eingeschrieben. 1716 erbte Franz von Neuhaus die Pflege von Friedburg, schon in diesen Jahren gehörte er dem Hofrat an, dem Rechtswesen, Polizei, soziale Angelegenheiten unterstanden. 1745 wurde er Präsident des Hofrats. 1741 war er Gesandter am Kurkölnischen Hof. Bereits seit 1740 war er oberster Direktor der Kammer- und Hofmusik, in seinem Münchner Stadtpalais organisierte er bisweilen Konzerte. Er gehörte sehr früh bereits zur engeren Umgebung Kurfürst Karl Albrechts, den er schon auf seiner Kavalierstour begleitete.
+
+Johann Franz Maria vermählte sich in erster Ehe 1716 mit Josepha Maria Katharina Gräfin von Lerchenfeld auf Köfering und Schönberg. Sie war Hofdame der Kurfürstin Therese Kunigunde. Da sie 1734 kinderlos starb, vermachte sie ihr Erbe ihren Neuhausischen Schwägerinnen und deren Kindern. Ein Jahr nach ihrem Tod heiratete Johann Franz Benigna von Saalthurn, deren Porträt als Pendant dem seinen gegenüber im Ahnensaal angebracht ist.
+
+Das Gemälde gehört zu den vier in den späten 30er Jahren des 18. Jh. hinzugekommenen Porträts. Es zeigt den ältesten Sohn
+
+[[File:Band08_chunk007_p017_img001.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p017_img002.jpg|thumb|O<sub>VI</sub> Maria Rosa v. Lamberg]]
+
+
+des Bauherrn in der Grande Tenue, wie sie für die französisch geprägte Höfischkeit der Karl-Albrecht-Zeit kennzeichnend ist. Er trägt wie sein Bruder Joseph Maria Nikolaus den Brustharnisch und das Kreuz des St.-Georg-Ritterordens. Mit der linken Hand hält er ein ovales Porträt, das auf dem Tisch steht. Es zeigt ein Brustbild seiner 1734 verstorbenen ersten Frau, Josepha Maria Katharina von Lerchenfeld, und in einer Rahmenkartusche die Inschrift Josepha von Neuhaus, Herrn Franz Adams Grafen von Lerchenfeld auf Köfering und Marie Elisabethae Gräfin von Schellenberg Tochter, Mort. 1734.
+
+O<sub>V</sub> BENIGNA CONSTANTIA Freyfr. von Neuhaus, Herrn Johann Georg Grafen von Saalthurn und ANNA SUSANNA von Fragstein Tochter
+
+Benigna Constantia war die Schwiegertochter des Bauherrn und zweite Gemahlin des Johann Franz, den sie 1735 heiratete. Offensichtlich blieb diese Verbindung, wie auch die erste Ehe von Johann Franz kinderlos. (In den Annalen wird ihr Mädchenname als >Mattyrn<, bei L. Koch als >Malzan< wiedergegeben).
+
+Auch dieses Porträt gehört zu den vier Ergänzungen aus den späten 30er Jahren des 18. Jh. Im Gegensatz zu den drei anderen Bildnissen aus dieser Zeit zeigt sich bei diesem nicht dieselbe Sorgfalt in der stofflichen Wiedergabe der Kleidung. Der wallende rote Stoff des Kleids, welches Benigna Constantia trägt, und der dunkelgrüne Umhang, der sich über einen Tisch bauscht, sind in ihrer Struktur kaum erkennbar. Die schöne Gräfin tritt dem Betrachter selbstbewußt entgegen. Sie wurde offenbar im gleichen rotweißgepflasterten Raum wie ihr Ehemann porträtiert.
+
+W<sub>VI</sub> JOSEF MARIA FREYHERR VON NEUHAUSS DES HOCHADEL. RITTER=O S. GEORGI COMENDEUR, PEY S. KEYSER. MAJESTÄT CAROLI VII DAN S. CHUR DLT IN BAYERN CAMERER UND WIRKLICHER GEHEIMER RAHT GESANDTER ZU REGENSPURG
+
+Joseph Maria Nikolaus Ignatius Carl war der zweite Sohn von Ferdinand Maria und der Erbe seines Bruders Johann Franz auf Schloß Zangberg (* 21.11.1698 † Ende 1758). Er studierte ab 1717 an der Universität Ingolstadt. Die Aufzählung seiner Amter lassen auf eine erstaunliche Karriere schließen. Er war bevollmächtigter Gesandter des Bischofs von Freising, Regensburg und Lüttich beim Reichstag zu Regensburg, Pfleger zu Donaustauf, Landesverordneter sowie Rittersteuerer des Rentamts Straubing. Zwischen 1742 und 1746 war er kaiserlicher Botschafter am russischen Hof und zwischen 1750 und 1752 Gesandter in Wien. Wie die Schriftkartusche glauben macht, gehörte er dem Georgsritterorden an. Am 10. August 1758 reichte er sein Ruhestandsgesuch ein mit der Begründung, in Zangberg leben zu wollen, wo er geboren war. Er starb bald darauf.
+
+Das Gemälde in Rokokorahmung über dem Kamin wurde später hinzugefügt. Es ist signiert M. Speer Pinxit Ao 1756
+<!-- citation-page-bottom: Band08 p333 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=18 -->
+<!-- citation-page-top: Band08 p334 -->
+
+<!-- header: ZANGBERG -->
+
+
+[[File:Band08_chunk007_p018_img001.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img002.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img003.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img004.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img005.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img006.jpg|thumb]]
+
+
+Joseph Maria ist in dem Saal zwei Mal dargestellt (s. W<sub>5</sub>). Hier ist der letzte männliche Schloßbesitzer in gereiftem Mannesalter gegeben. Er trägt eine reiche Rokokogewandung, an der Brust das Kreuz als Abzeichen des St.-Georg-Ritterordens. Mit der Rechten zeigt er auf ein Medaillonbild seiner verstorbenen Frau mit der Inschrift Maria Josepha Freyfrau von Neuhaus, geborn. Gräfin von Lamberg. Mort 1729. Sein Gesicht unter der flachgedrückten weißen Perücke ist hochrot. Im Gegensatz zu seinem früheren Porträt aus der Desmarées-Werkstatt wirkt dies eher steif und unlebendig.
+
+O<sub>VI</sub> MARIA ROSA Gräfin von Lamberg Herrn Firsten<br>Franz Antoni von Lamberg und ALIJSIA Gräfin von Harrach<br>Tochter
+
+Maria Rosa war die Schwiegertochter des Bauherrn und die<br>zweite Gemahlin von Josef Maria Nikolaus. Dessen erste<br>Gemahlin war ihre verstorbene Schwester (s. M<sub>I</sub>). Sie überlebte ihren Mann.
+
+Auch dieses Porträt ist, wie sein Pendant auf der Westseite, erst später hinzugekommen. Obgleich es nicht signiert und datiert ist, darf es ohne Zweifel auch Martin Speer für das Jahr 1756 zugeschrieben werden. Maria Rosa ist als junge lebhafte Frau mit wachen Augen in wallender Rokokokleidung dargestellt. Mit der Rechten streichelt sie ein Hündchen, das auf dem Tisch kauert. Am linken Bildrand ist auf dem Tisch der Rahmen eines Spiegels oder Gemäldes von hinten zu erkennen.
+
+W<sub>1-6</sub>, O<sub>1-6</sub> Geschwister, Schwäger, Kinder und Enkel des<br>Bauherrn, Knieporträts
+
+W<sub>I</sub> WOLF EGON IGN Fr v N., beider Fürstl. Hochstüffter<br>Regensp. und Augsp. RESP. Domdechant und Domherr, Iro<br>Chrf.Drl. zu Cölln IOS CLEM: Gehei Rath ADMINIST IN
+
+
+[[File:Band08_chunk007_p018_img007.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img008.jpg|thumb|V<sub>6</sub> Maximilian von Neuhaus]]
+
+
+
+[[File:Band08_chunk007_p018_img009.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img010.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p018_img011.jpg|thumb|O<sub>6</sub> Maria Antonia von Neuhaus]]
+
+
+
+[[File:Band08_chunk007_p018_img012.jpg|thumb]]
+
+
+TEMPOR. Hofraht und Cammer PRESIDENT. Herrn Fran Fr. v. N. Sohn
+
+Johann Wolfgang Egon Ignaz war ein Bruder Ferdinand Marias von Neuhaus. Er war 1682 bereits zum Domherrn in Regensburg ernannt worden, als er sich 1689 an der Universität Ingolstadt immatrikulierte. In Regensburg wurde er 1694 Kustos, 1703 Domdekan, außerdem zwischen 1693 und 1719 Domherr in Augsburg. Daneben bekleidete er das Amt des Kammerpräsidenten und das eines Geheimen Rats bei Kurfürst und Fürstbischof Joseph Clemens in Köln, dem Bruder Max Emanuels. Er starb am 22.12.1728.
+
+Wolf Egon ist dargestellt mit beiger Allongeperücke, in Chorhemd und rotem Schultertuch, die rechte Hand einladend ausgebreitet. Den linken Arm stützt er auf einen hohen Tisch. Den Gesichtszügen nach erscheint Wolf Egon als ca. 40-50jähriger Herr.
+
+O<sub>1</sub> MAXIMILIAN EMANUEL Freyherr von Neuhaus des Hochfürstl. Hochstüffts Freysing Tomo CAPITULARIS Herrn Franzen Freyh. von Neuh: Sohn
+
+Maximilian Emanuel war ein Bruder Ferdinand Marias und wie aus der Schriftkartusche hervorgeht, Domherr in Freising. Weitere Daten zu seinem Leben sind nicht bekannt. Das Todesjahr 1717 geht aus dem Neuhausischen Stammbaum hervor.
+
+Er ist dargestellt als stattlicher Geistlicher mit schwarzer Perücke in Chorrock und beigem Pelzcape vor einer dunklen Vorhangdraperie. Er hält mit der Rechten ein Gebetbuch an die Brust, das er mit dem Zeigefinger einmerkt. Mit der Linken stützt er sich auf einen mit einem samtroten Tuch bedeckten Tisch. Er ist wohlgenährt und hat ein Doppelkinn.
+
+Als einziges männliches Familienmitglied ist sein Porträt auf der Ostseite des Saals angebracht.
+<!-- citation-page-bottom: Band08 p335 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=19 -->
+<!-- citation-page-top: Band08 p336 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: ZANGBERO -->
+
+W. Anthoni des Heyl. Röm. Reichs Graf Fugger zu Kirchberg und Weißenhorn Ihr. Ch. Drl. in Bayrn MAX EM: Cammerer
+
+Anton Joseph Graf Fugger zu Kirchberg und Weißenhorn (* 26.6.1656 † 26.1.1694, begraben in Biberbach) war ein Schwager Ferdinand Marias, der Gatte von dessen Schwester Maria Anna Franziska. Er war Herr zu Wasserburg und Biberbach, Wellenburg, Welden und Rettenbach, wo er auch geboren wurde, sowie herzoglich bayrischer Kämmerer. Das Porträt entstand sicher nach seinem Tod 1694 und dürfte nach einer älteren Vorlage gearbeitet sein.
+
+Anton Graf von Fugger steht vor einem schmalen Landschaftsausblick mit Bergen. Er trägt eine lange braune Perücke und einen roten weitärmeligen Rock. Mit der rechten Hand streichelt er den Kopf eines Jagdhunds, der ein Halsband mit den eingravierten Initialen A. F. trägt.
+
+O<sub>2</sub> MARIA ANNA FRANCISCA Freyin von Neuhaus Herrn Frantzen Freyh von Neuhaus Tochter, UXOR Herrn Grafens ANthoni Fugger
+
+Maria Anna Franziska von Neuhaus († 10. 10. 1714 in München) war eine Schwester des Bauherrn. Sie heiratete in erster Ehe am 19.5.1681 in München Anton Graf Fugger und in zweiter Ehe 1702 Ferdinand Franz Albrecht Graf von der Wahl. Letzerer war für Ferdinand Maria von Neuhaus eine bedeutender Begleiter in seiner Karriere: Er war sein Vorgänger in verschiedenen hohen Chargen bei Hof gewesen (seit 1689 Obristhofmeister der Kurfürstin und seit 1689 Direktor über die kurfürstlichen Bauten). Geboren um 1640 in Ingolstadt, war er in erster Ehe 1666 mit Maria Magdalena von Schad zu Mittelbiberach verheiratet gewesen. Er starb am 23.4.1703, ein Jahr nach seiner zweiten Heirat. Der ältere Sohn aus seiner ersten Ehe, Ferdinand Franz Xaver von der Wahl (* 24.11.1671, † 12.3.1732), wurde beim Rücktritt Ferdinand Marias von Neuhaus 1714 wiederum dessen Nachfolger als Generalbaudirektor. (Maria Annas Enkel Joseph Carl, Graf von Welsperg, der Sohn ihrer Tochter Maria Violanta, Gräfin zu Welsperg, * 1683 verh. 1702 † 1704, erbte einen Teil des großmütterlichen Vermögens; StAM, Hofmark Zangberg Nr. 12, 1716: Vormundschaftsrechnungen.)
+
+Maria Anna Franziska trägt ein braunes Kleid mit weißen bauschigen Ärmeln aus feingewirktem Stoff mit Spitzen.
+
+W<sub>3</sub> Georg Carl Freyherr v. Etztdorf auf Weihenstephan, Ir. Churf. dr. MAX EM: Geh. Rath, VICE Statthalter zu Amberg, Pfleger zu Kirchberg u. Anweß-Verordneter Underlands
+
+Georg Karl Freiherr von Etzdorf war ebenfalls ein Schwager des Bauherrn, Gatte von dessen Schwester Christina Margareta. Seine Lebensdaten sind unbekannt. Vom 12. bis 18. August 1685 kam Etzdorf zu Besuch nach Zangberg und mit ihm die »Gd. Frau von Neuhaus zu Landshut« (Rechnungsband 1685 unter Sonderbare Ausgaben). 1710 war er Stellvertreter der Kurf. Regierung bei der Propstwahl in Gars und wird als »Vicedom, Vicekanzler auch anderer Anwäld und Rähte dero Regierung Landshut« bezeichnet.
+
+Etzdorfs Porträt ist im Gegensatz zu den vorhergehenden von unmittelbarer Lebendigkeit. Dies kommt vor allem durch die viel stofflicher wiedergegebene Kleidung und durch den auffallend lebhaften Gesichtsausdruck. Etzdorf trägt eine reich bestickte bläuliche Weste und eine rote Jacke mit goldfarbenen Stickerein. Seinen linken Arm hat er in die Hüfte gestützt, seine rechte Hand weist leicht geöffnet nach unten.
+
+O, Christina Margaretha UXOR GEORG CARL Freyh v Etzdorf, Freyherrn Franz von Neuhaus Tochter
+
+Eine Schwester Ferdinand Marias, die mit Georg Carl Freiherr von Etzdorf verheiratet war
+
+Christina Margareta trägt ein rotes, brokatbesticktes Kleid, das an den Rändern mit blauem Samt eingefaßt ist. Im Hintergrund ist eine Parklandschaft mit einer Gartenmauer und einem Wandbrunnen zu erkennen.
+
+W<sub>4</sub> FRANCISCUS BENNO Freyh. von Neuhaus ledig verstorben A: 16.. Herrn Franzen Freyherr von Neuhaus Sohn Johann Franz Joseph Benno war der jüngste Bruder des Bauherrn (* 22.3.1661 † 14.2.1677). Auch er studierte in Ingolstadt. Wie die Schriftkartusche vermittelt, blieb er ledig. Als Zeichen seiner Unvermähltheit liegen einzelne Rosen neben einem Lilienstock auf dem Tisch. Franz Benno ist als Jüngling mit langen offenen braunen Haaren vor einer Landschaft dargestellt. Mit der Rechten deutet er nach rechts, vermutlich um auf das neben ihm angebrachte Porträt seines älteren Bruders Ferdinand Maria hinzuweisen.
+
+O<sub>4</sub> MARIA ELISABETA Freyin von Neuhaus, Herrn Franz Freyherr von Neuhaus Tochter Iro Chr. Dt MARIA ANTON. HofDAME ist ledig verstorben
+
+Maria Elisabeth war ebenfalls eine Schwester des Bauherrn. Wie Franz Benno, ihr Gegenüber an der Westseite, blieb sie ledig. Sie war Hofdame der Kurfürstin Maria Antonia von Bayern, der Tochter Kaiser Leopolds I., welche 1685 Gemahlin Max Emanuels geworden war. Zur Zeit der Entstehung des Ahnensaals lebte Maria Elisabeth nicht mehr. Im Stammbaum steht das lückenhafte Datum gest. 1. Okt. 16... In den Annalen des Klosters Zangberg ist vermerkt: {ZITAT|001}.
+
+Wie ihre Schwestern ist auch sie vor einer Gartenlandschaft dargestellt. Mit ihrer linken Hand umgreift sie einen Kranz aus Rosen, als Zeichen ihrer Unvermähltheit. Sie trägt ein hellblaues Kleid mit braunroten Samteinfassungen, welches sanft zur Seite ausschwingt.
+
+W, JOSEPHUS Freyherr von Neuhaus Ritter des Hochadel. Ritterordens S: Georg Ihr Churf. durch: bayr. MAXIM EMAN Camm. und Hofrh. dan Sr. Herz dur. HERZ: THEOD. gehe: Rhat Obrist Kuchl=Maist. und Pfleg. zu Danistauf, Hern Joseph Maria Nikolaus Ignaz, Sohn Ferdinand Marias (* 21.11.1698 München †Dezember 1758) kommt in der Ahnenreihe zwei Mal vor (auch W<sub>VI</sub>). Zum Zeitpunkt der Ausstattung war er ein kleines Kind. Das Gemälde ist um 1735/40 vermutlich gegen ein Kinderporträt ausgetauscht worden, als Joseph ein junger Mann, aber schon Träger des St.-Georg-Ritterordens war. Die dazugehörige Inschrift bezieht sich noch auf die Regierungszeit Max Emanuels
+
+Das Bild ist von auffallend guter Qualität und zusammen mit W6 das beste in der Ahnenreihe. Der Gesichtsausdruck von dem hier etwa 35jährigen Joseph Maria Nikolaus ist von unmittelbarer Lebhaftigkeit. Auch die graue Allongeperücke und die Kleidung, ein reich besetzter grauer Mantel und ein blanker Harnisch sind in ihrer Stofflichkeit spürbar. Denselben Brustpanzer trägt Joseph Maria Nikolaus auch in dem späteren Porträt. Auch die Körperhaltung scheint bei diesem Kniestück natürlich und ausgewogen, was von keinem der bisher betrachteten Bildnisse behauptet werden könnte. Die rechte Hand ruht locker auf einem Spazierstock, die rechte, an der er noch einen Handschuh trägt, stützt er in die Hüfte. Mit einem selbstsicheren verhaltenen Lächeln blickt er den Betrachter an. (Zuschreibung an G. Desmarées durch Laurentius Koch.)
+
+O, MARIA ANNA FRANCISCA TERESIA CLARA. Freyin von Neuhaus, Herrn Ferd. Freyh von Neuhaus Tochter, Iro Ch: Du TER CVN Hofdame
+
+Maria Anna Francisca (* 1688 † 1761) war eine Tochter des Bauherrn. Sie wurde 1701 Hofdame der Kurfürstin Therese Kunigunde aus Polen, der zweiten Gemahlin von Kurfürst Max Emanuel seit 1695. Maria Anna heiratete 1716 Maximilian Joseph Freiherrn von Perfall zu Greifenberg (* 1686 †1752). 1760, nach dem Tod des letzten Stammherrn Joseph Maria Nikolaus, kaufte sie das Palais Neuhaus an der Prannerstraße in München, das heutige Palais Preysing (II), von Maria Josepha Gräfin von der Wahl, der einzig lebenden Tochter des Verstorbenen, das damit für drei Generationen in die Familie Perfall kam. Ihr Sohn war Emanuel Maximilian von Perfall (* 1717 † 1790).
+
+Im Gegensatz zu seinem Pendant an der Westseite gehört dieses Bildnis zur ursprünglichen Saalausstattung und ist auch von der malerischen Qualität der Reihe der älteren Porträts zuzordnen. Maria Anna Franziska trägt ein aufwendig gerafftes graublau und braunes Kleid. An ihrer rechten Schulter ist ein roter Umhang befestigt, der sich über die linke Schulter nach vorn zieht, wo sie ihn mit der rechten Hand festhält. Auch in diesem, wie bei allen Kniestücken der Gartenseite im Saal ist im Hintergrund eine Parklandschaft zu erkennen. Rechts lauert ein langhaariges braunweiß geflecktes Hündchen auf einem blauen Kissen.
+
+W<sub>6</sub> Maximilianus von Neuhaus Herin Josephine (= Herri Josephi) Freyherrn von Neuhaus Sohn
+
+Maximilian (Lebensdaten unbekannt) war ein Enkel des Bauherrn und der einzige Sohn des Joseph Nikolaus und seiner ersten Frau Maria Josepha von Lamberg. Er wäre eigentlich Erbe von Zangberg gewesen, jedoch muß er früh verstorben sein, da er sein Erbe nicht angetreten hat. Der Besitz kam deshalb nach dem Tod des Vaters im Jahr 1759 an seine Tochter, die einzige überlebende Schwester des Knaben, Maria Josepha von Neuhaus, verwitwete Gräfin von der Wahl.
+
+Das Gemälde gehört zu den vier Ergänzungen vermutlich aus der Desmarées-Werkstatt. Es zeigt den etwa 8jährigen Maximilian in weißer Perücke, wie er auf einen Globus weist. Das Motiv des Globus im Porträt eines Adeligen kann als Indiz für seine spätere Herrschaft gedeutet werden. (Der Globus findet sich insbesondere bei den Kinderbildnissen des Kurprinzen Joseph Ferdinand, dem Sohn Max Emanuels, der zum König über die Weltmacht Spanien bestimmt war, aber 1699 unverhofft starb (Kat. Max Emanuel 1976, Bd 1, S. 134, Bd 2, Tafel XV).
+
+O<sub>6</sub> MARIA ANTONIA DOROTEA SUSANNA Freyin von Neuhaus, Herrn Ferdinand Freyherr von Neuhaus Tochter
+
+Sie war eine Tochter Ferdinand Marias, 1686 in Landshut geboren, weitere Lebensdaten sind nicht bekannt.
+
+Der Blumenstrauß mit weißen Rosen, aus dem Maria Antonia eine rote Blüte herauspflückt, läßt darauf schließen, daß sie ledig war. Sie ist dargestellt als junges Mädchen in grüngrauem Kleid. Wieder ist durch ein gemaltes Fenster eine Parklandschaft zu sehen. Das Porträt zählt zur Reihe der älteren Ahnenbildnisse im Saal, ist unter diesen aber eine der qualitätvollsten Arbeiten.
+
+Die Ahnenreihe der Freiherren von Neuhaus reicht über 5 Generationen; mit den zum Zeitpunkt der Ausstattung als Kindern dargestellten Söhnen starb sie aus. Die Enkelin des Bauherren war die letzte Schloßherrin; sie besaß das Schloß über 50 Jahre und vermehrte den Besitz um die Hofmarken Salmanskirchen, Wurmsham und Vatersham. Ihr Ehemann war Ferdinand Joseph Maria von der Wahl auf Aurolzmünster (* 10.8.1697 † 24.1.1757). Maria Josepha von der Wahl starb am 25.11.1801 und überlebte ihre Kinder. Zur gleichen Zeit starb auch die Familie von der Wahl aus. Ihr Sohn Franz Xaver Leogard (* 2.10.1750 † 23.1.1778) hinterließ eine Tochter Josepha (* 23.5.1777 †?), die mit Matthias Albert Graf von Taufkirchen verheiratet war. (Angeblich hat ein Joseph Graf von Taufkirchen 1811 Schloß Zangberg übernommen, bevor es 1818 verkauft wurde.)
+
+Eigenartigerweise findet sich von der so lange Zeit wirkenden letzten Schloßherrin Maria Josepha von der Wahl im Ahnensaal keine Spur.
+
+E<sub>1-8</sub> EMBLEME AUF DAS GESCHLECHT DER NEUHAUS Einfarbige Freskomedaillons auf den Wandflächen zwischen den Fenstern, eingefaßt in eine großflächige Akanthusrahmung. Sie befinden sich – mit Ausnahme der mittleren Achse – unterhalb der hochformatigen Porträts der Zangberger Schloßherrn und ihrer Gemahlinnen (M<sub>I-V</sub>) und F<sub>I-V</sub>) und beziehen sich auf Schicksal und Eigenschaften der Familie bzw. der betreffenden im Porträt dargestellten Person. Sie werden paarweise vorgestellt.
+
+E<sub>1-2</sub> EMBLEME AUF DEN STAMMVATER HILPOLT E, GENERI LAVDEMQVE FIDEMQVE (Dem Geschlechte Lob und Treue). Ein Vogel macht sich mit seinen sechs Jungen auf und überfliegt eine weite Landschaft mit Bergen. – Hilpolt (W<sub>I</sub>) kam als erster von Kärnten nach Bayern. Er hatte fünf Kinder. Allerdings wurden seine Kinder bereits in Bayern geboren, weshalb die sechs kleinen Vögel nur als indirekte Anspielung auf seine Nachkommen verstanden werden können. Die Komposition mit den Zugvögeln wurde für den Zangberger Ahnensaal geschaffen.
+<!-- citation-page-bottom: Band08 p337 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=20 -->
+<!-- citation-page-top: Band08 p338 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: ZANGBER -->
+
+
+[[File:Band08_chunk007_p020_img001.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p020_img002.jpg|thumb|E_ Säule]]
+
+
+
+[[File:Band08_chunk007_p020_img003.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p020_img004.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p020_img005.jpg|thumb|E. Bienenkörbe]]
+
+
+
+[[File:Band08_chunk007_p020_img006.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p020_img007.jpg|thumb]]
+
+
+
+[[File:Band08_chunk007_p020_img008.jpg|thumb|E<sub>8</sub> Weinstock rankt um Ulm]]
+<!-- citation-page-bottom: Band08 p339 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=21 -->
+<!-- citation-page-top: Band08 p340 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: ZANGBER -->
+
+E<sub>2</sub> VINCIVNTVR UT VINCANTVR (Sie werden gebunden, damit sie den Vorrang behaupten). Ein Pferdchen wird in der freien Landschaft an einem Pflock gezähmt. Das Bild der Zähmung bezieht sich auf die Erziehung der jungen Fürsten. Konkret kann es sich hier auf den ersten in Bayern seßhaft gewordenen Neuhaus beziehen, mit dem der Aufstieg der Familie begann. Durch die Heirat mit der Anna von Schönberg und Haunzenbergersöll wurde die Familie in der Gegend von Neumarkt seßhaft.
+
+E<sub>3-4</sub> EMBLEME AUF DIE EINWANDERUNG DER NEUHAUS NACH BAYERN Das zweite Emblempaar bezieht sich auf das Aufblühen des Geschlechts im 16./ 17. Jahrhundert in Bayern.
+
+E, EMIGRAT EX PATERNA VT IN DOMO NOVA CRESCAT GENERIS ANTIQVITAS (Aus dem Vaterhaus wandert man aus, damit des Geschlechtes Alter wachse in den neuen Haus). Alter Bienenkorb mit Wappen von Kärntenneuer Bienenkorb mit dem Kurbayrischen Wappen. Das Wortspiel »Domo Nova« bezieht sich neben der neuen Heimat auch auf das Geschlecht der »Neuhaus«. Bienen gelten in der Emblematik als Sinnbild für Eifer, der Gerechtigkeit in Staat, für Uneigennützigkeit und segensreiche Eintracht. Sie als Symbol für Emigration einzusetzen scheint eine Innovation der Neuhaus gewesen zu sein.
+
+E<sub>4</sub> IN PROLE SVPERSTES (In der Nachkommenschaft lebst du fort). Der Vogel Phönix breitet über dem brennenden Nest die Flügel aus und schickt sich an, der Sonne entgegenzufliegen. Der legendäre Vogel Phönix kommt in der Emblematik häufig vor. Er wird aus sich selbst geboren und stellt sich aus sich selbst wieder her. Auf die Nachkommen bezogen könnte das Bild sich auf die Ahnen beziehen, deren Werk von den Nachkommen weitergeführt wird.
+
+E<sub>5-6</sub> EMBLEME AUF DEN BAUHERREN UND SEINE FRAU Das dritte Emblempaar bezieht sich auf Ferdinand von Neuhaus (W<sub>IV</sub>) und seine Gemahlin (O<sub>IV</sub>), die ihm den Zuwachs des Hauses Muggental brachte.
+
+E, QVACQNQVE VERTICE MVTABITVR (Durch jedwede Wende wird verändert). Über einer Sonne, die eine Landschaft mit zwei Schlössern und einem Dorf bescheint, steht ein Löwe am Firmament.
+
+Grundsätzlich bezieht sich das Bild auf die Sommersonnwende. Mit Ferdinand Maria hatte die Familie der Neuhaus einen Höhepunkt erreicht, der nicht zu überbieten war. Wohin die Geschicke sich von jetzt an neigen werden, konnte damals nicht bekannt sein. Nach Picinelli (Lib. 1. Cap. 6, Sol in Zo diaco, Nr. 193) ist auch eine andere Deutung möglich: Sol ac Leonem divertenti: Geminat incendia – der Brand verdoppelt sich. Vielleicht deuten die beiden Burgen auf die Verdoppelung des Neuhausischen Vermögens durch die Heirat mit Anna Dorothea von Muggenthal. Durch die Verbindung mit den finanzkräftigen Muggenthalern wurden die Bauunternehmungen ermöglicht. Die Veränderung bezieht sich auf den Zuwachs durch die Heirat des Bauherrn, ohne die der Neubau des Schlosses in diesem Ausmaß nicht möglich gewesen wäre.
+
+E<sub>6</sub> AVGENT CONIVNCTA DECOREM (Vereint mehren sie den Ruhm). Auf einem Podest in der Landschaft liegen ein Schwert und ein Palmzweig überkreuzt. Darüber erscheinen zwei ineinander verknüpfte Ringe und eine Krone auf einer Wolke.
+
+Dieses Bild ist ein deutlicher Hinweis auf die Heirat des Bauherrn mit Anna Dorothea von Muggenthal. Das männliche Symbol des Schwertes und das weibliche des Palmzweigs, die Eheringe und der Begriff »conjuncta« im Motto lassen keine andere Deutung zu.
+
+E<sub>7-8</sub> EMBLEME AUF SOHN UND SCHWIEGERTOCHTER DES BAUHERRN Im vierten Emblempaar vermittelt Ferdinand Maria von Neuhaus ein Bild von sich. E. MEA ME RECTITUDO SVSTENAT (Meine Geradheit ist mein Halt). Eine Säule steht auf einem Sockel vor einer Berglandschaft. Die Säule als Symbol der Beständigkeit ist ein geläufiges Sinnbild. Die Geradheit der Säule wird als Exempe für den Charakter des jungen Johann Franz Maria herausgestellt.
+
+E, NON DESERIT VNQVAM (Da mangelt es nirgends). Baum, um den sich ein Weinstock rankt. Dieses Symbol war seit dem ersten, 1531 gedruckten »Emblematum liber« von Andrea Alciati bekannt. Dort rankt sich der Weinstock um eine Ulme und wird als Sinnbild für die eheliche Treue aufgeführt. Die Ulme mit dem Weinstock fand sich auch in einem Emblem des ersten Sommerzimmers in der Münchner Residenz, wo ein Rebzweig auf einem Ulmenast emporwächst mit dem Motto: INNIXA UBERIOR (Angelehnt fruchtbarer), »warmit ein nit gar mächtiger Fürst erinnert wird, sich mit Gewaltigern zu vereinigen umb dardurch sich auch stärcker und größer zu machen«, schreibt Schmid in seiner Beschreibung der Münchner Residenz von 1685 (CBD Bd 3/II, S. 293). Das Emblembild liest sich wie eine gutgemeinte Ermahnung an die Schwiegertochter des Bauherrn, sich wie der Weinstock am festen Stamm des Baumes festzuhalten, damit es ihr an nichts mangele.
+
+Ergänzungen zur Ikonographie
+
+Der Ahnensaal ist ausschließlich den Vorfahren, den Verwandten und angeheirateten Verwandten der Familie Neuhaus gewidmet. Den angestammten Adelssitzen und den Stammbäumen sind die Schmalseiten zugedacht, dem Zweig, der sich in Bayern niedergelassen hat, die langen Fensterseiten. Die Gemälde an der Decke würdigen die bedeutendste Persönlichkeit der Familie Neuhaus, Erzbischof Eberhard III. von Salzburg, der in die Geschichte eingegangen ist. Sein Wirken liegt zwar schon 300 Jahre zurück, aus ihm leitet sich aber die Bedeutung ab, auf die der Bauherr Ferdinand Maria mit der Widmung des prächtigen Saals an seine Familie anspielt. In Grunde betrachtet er sich als Eberhard III. ebenbürtig, denn seit ihm hat ein Familienmitglied nie wieder den Rang erreicht, den der Bauherr zum Zeitpunkt der Ausstattung des Ahnensaals einnimmt: Er gehört zu den höchsten Chargen bei Hof und verwaltet sozusagen Schlüsselämter. Die Art, wie er auf seinem Porträt in selbstherrlicher Pose einen der drei Schlüsse ergriffen hat, nimmt deutlich Bezug auf die Porträts dieser Epoche, etwa auf Ludwig XIV. oder Kurfürst Max Emanuel.
+
+== STAMMBAUM DER NEUHAUS ==
+
+S<sub>I</sub> Eberhard, Erzbischof v. Salzburg + 1427
+
+[[File:Band08_chunk007_p021_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band08 p341 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=22 -->
+<!-- citation-page-top: Band08 p342 -->
+
+<!-- header: ZANGBERG -->
+
+<!-- header: KOLUMNENTITE -->
+
+Wurde im Fürstensaal Bayern als Mehrer des Ruhms des Kaisers gefeiert, so war es zwanzig Jahre später, zur Zeit der Ausstattung des Ahnensaals, ein in seinen Hoffnungen enttäuschtes Land, von Österreich besiegt und besetzt. Während der Zeit des Exils des Kurfürsten 1704/14 sah Ferdinand Maria von Neuhaus, ein bayrischer Hofbeamter aus einem österreichischen Adelsgeschlecht, seine Rolle darin, sich zwischen Bayern und Österreich zu arrangieren. Im Gegensatz zum Obersthofmeister, Graf Preysing-Hohenaschau, schwor er 1705, als die kaiserliche Besatzung in München einzog, den Treueeid auf den Kaiser und betrachtete es als seine Aufgabe, die Stellung zu halten. Ihm oblag die Sorge für die Prinzen während der Abwesenheit des Kurfürsten, die zur Erziehung nach Kärnten, die Heimat seiner Vorfahren, verbracht wurden. Er diente den Österreichern als indirektes Sprachrohr an Max Emanuel, dem er in ihrem Sinne wiederholt schrieb (zitiert nach Laurentius Koch, S. 97).
+
+Der Ahnensaal ist als ein privater Festsaal in seiner Art und für diese Zeit einzigartig (zur Typologie s. Haberger, S. 34). Im Kurfürstentum Bayern war Reichsgraf Max II. von Preysing offensichtlich der erste Adelige, der sich zwischen 1682 und 1684 in seinem Schloß Hohenaschau einen Saal mit überlebensgroßen Stuckfiguren der berühmtesten Vertreter seiner eigenen Familie ausstatten ließ. Die Ahnensäle in den Schlössern Hohenaschau und Zangberg sind die frühesten Saalbeispiele, in denen von bayrischen Adelsfamilien in monumentaler Form Bezug auf das eigene Geschlecht genommen wurde. Bemerkenswert ist, daß es zu diesem Zeitpunkt weder in der Residenz noch in einem anderen Schloß eine dem Haus Wittelsbach gewidmete Bildnisfolge höheren Anspruchs in architektonischem Rahmen gab (Seelig 1980, S. 168 und Fußnote 145). Der Bauherr, Max II., (seit 1664) Reichsgraf von Preysing und einer der bedeutendsten Männer am Hof, stand als Obersthofmeister im Rang noch über Ferdinand Maria von Neuhaus. Um 1699 wurde in Schloß Aurolzmünster ein Saal im zweiten Obergeschoß ausgemalt, der im Deckenbild Christian von der Wahl, den durch seine Verdienste im Dreißigjährigen Krieg in den Reichsgrafenstand erhobenen Großvater des Bauherrn Ferdinand Franz Albrecht von der Wahl, verherrlicht, allerdings nur allusorisch als ein von Genien gehaltenes Bildnis in einem allegorischen Himmel mit olympischen Göttern und Herrschertugenden. Daß der Saal außerdem mit Ahnen geschmückt war, läßt sich nur noch vermuten. Mit den Agnatentafeln und den Stammbäumen stellte Ferdinand Maria von Neuhaus die hohe Herkunft seines Geschlechtes regelrecht unter Beweis, mit der Ahnenporträtreihe dokumentierte er die lückenlose Karriere, die seine Familie durchlaufen hatte, und mit den Deckenfresken überzeugte er seine Besucher davon, daß ein Neuhaus zu einer hohen Führungsposition befähigt war. Das gesamte Bildprogramm, welches in Zangberg hauptsächlich dokumentarischen Wert besitzt, wurde in einem Repräsentationsraum zusammengefügt, der vor allem durch die Stuckierung als geschlossenes gesellschaftlichen Status zu repräsentieren versuchte.
+
+Die Idee zum Ahnensaal kann schon im Anschluß an den Fürstensaal entstanden sein, obwohl er in den Quellen zunächst noch als >Gartensaal | bezeichnet wird. Die Ausstattung in dieser Pracht und in diesem Ausmaß war aber sicher erst ab 1702 geplant, als Freiherr von Neuhaus mit dem Amt des Obristmeisters der Kurfürstin den Höhepunkt seiner Laufbahn erreichte. So ist auch der gleichzeitige Neubau eines ebenbürtigen Stadtpalais in der Nähe derjenigen der Grafen Preysing und von der Wahl zu verstehen.
+
+(Ich danke Norbert Haberger für die Überlassung seiner Magisterarbeit über den Ahnensaal, der mein Manuskript zugrundelag. Was die Ahnenbilder und die Emblembilder betraf, habe ich seine Forschungen, wo sie über meine hinausgingen, hier teilweise wörtlich übernommen.)
+
+
+== Literatur zur Ahnenforschung ==
+
+
+Seifert, Johann, Wahrhaffte historische und genealogische Beschreibung des vortrefflichen Geschlechts derer Freyhern von Neuhaus in Greiffenfels und Ehrenhauß, denen noch andere Freiherren von Neuhaus angefügt sind. Samt einer Register ihrer Taufnahmen und auch derjenigen, so durch Vermählungen sich mit ihnen befreundet haben. Denen hohen Nachkommen zu unterthänigen Ehren und unsterblicher Gedächtniß mit Fleiß zusammengetragen, Bd 7, o.O. 1708 (Kreisbibliothek Regensburg).
+
+-, Beschreibung von 25 anietzo florierender hoher Familien. Kurze historische und genealogische Beschreibung nach alphabetischer Ordnung (u.a. Freiherren von Wolzogen und Neuhaus), Regensburg 1707.
+
+Kneschke, Ernst Heinrich, Neues allgemeines Deutsche Adels-Lexikon, Leipzig 1865, Bd 6, S. 485 f.
+
+Krick, Ludwig Heinrich, 212 Stammtafeln adeliger Familien denen geistliche Würdenträger des Bistums Passau entsprossen sind, Passau/Vilshofen 1924, S. 249.
+
+Schrenck, Niklas Freiherr von, Register zur Bayerischer Adelsgenealogie, Genealogia Boica Bd 4, München 1974.
+
+in: OA 53, München 1908–12.
+
+Geiß, Ernest, Die Reihenfolgen der Gerichts- und Verwaltungs-Beamten Altbayerns, in Oberbayerisches Archiv 26 1865/66, S. 26ff. (Gericht Neumarkt S. 99–101).
+
+Koch, Laurentius OSB, Das Palais Preysing, Bauherren und Bewohner. In: Zwei Münchner Adelspalais – Palais Portia – Palais Preysing, Bayerische Vereinsbank, München 1984, S. 95–109.
+
+
+== Literatur zu barocken Festsälen: ==
+
+
+Wagner, Helga, Barocke Festsäle in bayerischen Schlössern und Klöstern, München 1974.
+
+Herbst, Arnulf, Zur Ikonologie des barocken Kaisersaals. in: Berichte des Historischen Vereins Bamberg 106, 1970, S. 207–344.
+
+Nadler, Stefan, Aurolzmünster, Schloß der Grafen Wahl Barocker Baugedanke von Reichsruhm und Landleben, ungedr. Diss. Salzburg 1987.
+
+Seelig, Lorenz, Die Ahnengalerie der Münchner Residenz, in: Quellen und Studien zur Kunstpolitik der Wittelsbacher vom 16. bis zum 18. Jahrhundert, Katalog der Ausstellung Wittelsbach in Bayern, München 1980, S. 253–327, Zangberg: S. 270. Aspekte des Herrscherlobs - Max Emanuel in Bildnis und Allegorie, in: Kat. Max Emanuel 1976, Bd 1, S. 1–29. Walls Dates Die hildende Kungt am Hefe May Emanuels in:
+
+Volk, Peter, Die bildende Kunst am Hofe Max Emanuels, in: Kat. Max Emanuel 1976, Bd 1, S. 134.
+
+
+== Quellen und Literatur ==
+
+
+StAM, Hofmark Zangberg, Nr. 1-120, Amtsrechnungen, Amts- und Kastenrechnungen, Inventare; Nr. 60: Baurechnungen 1684–1706.
+
+0 1 / Klosterarchiv Zangberg: Abschrift der Stammbäume, Adelsnotizen, Pläne; Jakob Weichselgartner, Schloß und Hofmark Zangberg (Ms.); Annalen des Klosters der Salesianerinnen in Zangberg, Bd 2, 1862–70 (Ms.).
+
+Wening, Rentamt Landshut, München 1723, S. 115. Sighart Joachim Zangberg in: Kalender für katholische Cl
+
+Sighart, Joachim, Zangberg, in: Kalender für katholische Christen 1869, S. 43–45.
+
+Zangberg, in: Bayerland 1900. Illustrierte Wochenschrift für Bayerns Volk und Land, S. 499–500, 510–11, 524–25.
+
+Weichselgartner, Jakob, Zangberg, in: Der Inn-Isengau, Blätter für Geschichte und Heimatkunde 4, 1926, Heft 14, S. 9–22. Derselbe Aufsatz in: Heimatbilder, Gesammelte Aufsätze aus der Zeitschrift Der Inn-Isengan Heft 4, 1926.
+
+Mayer-Westermayer, Bd 2, S. 569–71
+
+viay ci - w cotci illay ci, Da 2, 0. ) ZDD I OD (a) C and I
+
+Hubensteiner, Benno, Ein vergessener Barockmeister. Dominic Glasl von Zangberg (1664–1731), in: Das Mühlrad 4, 1954 S. 92–96. Ebenso in: Die geistliche Stadt – Welt und Leben des Fürstbischofs Eckher von Freising, München 1954.
+
+Haenlein, Alfred, Barocke Baumeister, in: Das Mühlrad 5 1055. S. 12–15.
+
+Historischer Atlas Bd 36, Mühldorfn (Helmuth Stahleder) München 1976, S. 185–88, 264 f.
+
+Zangberg (o.V., o. J.), Führer im Kloster Zangberg
+
+Kupferschmied, Thomas Johannes, Der Fürstensaal in Zangberg, in: Das Mühlrad 28, 1986, S. 157–68.
+
+Dehio 1990, S. 13001
+
+Haberger, Norbert, Der Ahnensaal im Schloß Zangberg, ungedr. Magisterarbeit, München 1997. C. B./A. B
+<!-- citation-page-bottom: Band08 p343 -->
+
+{{End}}

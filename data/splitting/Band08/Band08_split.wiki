@@ -51,6 +51,20 @@ Das Corpus der Barocken Deckenmalerei in Deutschland ist mit der Unterstützung 
 Die Drucklegung wurde von der Kreissparkasse Mühldorf am Inn dem Sparkassenverband Bayern dem Genossenschaftsverband Bayern – Kreisverband Mühldorf und vom Landkreis Mühldorf am Inn unterstützt.
 <!-- citation-page-bottom: Band08 p5 -->
 
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 8)
+|davor=
+|danach=Altmühldorf, Pfarrkirche St. Laurentius
+|AutorIn1=Büttner, Frank
+|AutorIn2=Rupprecht, Bernhard
+}}
+
+
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=4 -->
 <!-- citation-page-top: Band08 p6 -->
 
@@ -80,7 +94,7 @@ Das Zustandekommen dieses Bandes war nur möglich durch das großzügige Entgege
 
 Frank Büttner und Bernhard Rupprecht
 <!-- citation-page-bottom: Band08 p7 -->
-
+{{End}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band08 p8 -->
 
@@ -695,7 +709,7 @@ Werner Tschink, Berlin S. 59
 |Lemma=Altmühldorf, Pfarrkirche St. Laurentius
 |Typ=Sakral
 |Ort=Altmühldorf
-|davor=
+|davor=Vorwort (Band 8)
 |danach=Ampfing, Friedhofskapelle Schmerzhafte Mutter Gottes
 |AutorIn1=Böhm, Cordula
 }}
@@ -1040,9 +1054,22 @@ Kreilinger, Kilian, Der bayerische Rokokobaumeister Franz Alois Mayr (= Jahrbuch
 
 C. B.
 
+{{End}}
 
-== AU AM INN ==
-
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=31
+|Originalseitenbis=53
+|Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift
+|Typ=Sakral
+|Ort=Au am Inn
+|davor=Annabrunn, Wallfahrtskapelle St. Anna
+|danach=Au am Inn, ehem. Augustiner-Chorherrenstift, Sakristei
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+}}
 
 Ehem. Augustiner-Chorherrnstift heute Generalat der Franziskanerinnen von Au am Inn mit Internat und Sonderschule Pfarrverband und Gemeinde Gars, Erzbistum München und Freising Ehem. Erzbistum Salzburg, Archidiakonat Gars Gericht Neumarkt
 
@@ -1055,22 +1082,7 @@ Säkularisierung 1803. Kauf eines Teils der Klostergebäude 1853 durch die Dilli
 Die zeitgenössische Klosteranlage ist auf dem Gemälde des hl. Isidor an der Rückwand der 3. südlichen Seitenkapelle, auf einer Ansicht im Kloster und auf dem Stich Wenings zu sehen. Sie wurde aber nicht in vollem Umfang ausgeführt.
 
 
-{{End}}
 
-{{Artikel
-|Band=8
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=31
-|Originalseitenbis=63
-|Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift
-|Typ=Sakral
-|Ort=Au am Inn
-|davor=Annabrunn, Wallfahrtskapelle St. Anna
-|danach=Buchbach, Pfarrkirche St. Jakobus Maior
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-}}
 
 == Ehem. Stiftskirche, jetzt Pfarrkirche ==
 
@@ -1624,6 +1636,23 @@ Courcelle, Jeanne et Pierre, Iconographie de Saint Augustin. Les Cycles du XVI<s
 Quellen und Literatur s. S. 63.
 
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=54
+|Originalseitenbis=57
+|Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, Sakristei
+|Typ=Sakral
+|Ort=Au am Inn
+|davor=Au am Inn, ehem. Augustiner-Chorherrenstift
+|danach=Au am Inn, ehem. Augustiner-Chorherrenstift, Krankenkapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+}}
+
 == Sakristei an der ehemaligen Stiftskirche ==
 
 
@@ -1703,6 +1732,22 @@ teidigt diesen Ort« (2 Mach 3,39). Dem Kapitel geht ein Vorwort voraus, das auf
 
 Quellen und Literatur s. S. 63
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=58
+|Originalseitenbis=58
+|Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, Krankenkapelle
+|Typ=Sakral
+|Ort=Au am Inn
+|davor=Au am Inn, ehem. Augustiner-Chorherrenstift, Sakristei
+|danach=Au am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+}}
 
 == Krankenkapelle, heute Schwesternkapelle ==
 
@@ -1747,9 +1792,24 @@ GLORIE DER HLL. SEBASTIAN UND ROCHUS Das Deckenbild nimmt zwei Joche ein; Blickr
 
 Die Pest während und nach dem Dreißigjährigen Krieg war zum Zeitpunkt des Klosterbaus noch nicht gebannt.
 
+{{End}}
 
-== Ehemalige Bibliothek, jetzt Malzspeicher im Brauereitrakt ==
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=59
+|Originalseitenbis=63
+|Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|Typ=Sakral
+|Ort=Au am Inn
+|davor=Au am Inn, ehem. Augustiner-Chorherrenstift, Krankenkapelle
+|danach=Buchbach, Pfarrkirche St. Jakobus Maior
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+}}
 
+Ehemalige Bibliothek, jetzt Malzspeicher im Brauereitrakt
 
 
 [[File:Band08_chunk002_p005_img002.jpg|thumb]]
@@ -1926,7 +1986,7 @@ A.B./C.
 |Lemma=Buchbach, Pfarrkirche St. Jakobus Maior
 |Typ=Sakral
 |Ort=Buchbach
-|davor=Au am Inn, ehem. Augustiner-Chorherrenstift
+|davor=Au am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
 |danach=Feichten, Filialkirche St. Martin
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -2682,7 +2742,7 @@ Mayer-Westermayer, Bd 2, S. 95 KDB I, OB (3), S. 2166. Historischer Atlas, Bd 36
 |Typ=Sakral
 |Ort=Frauenornau
 |davor=Frauendorf, Kuratiekirche St. Michael
-|danach=Gars am Inn, ehem. Augustiner-Chorherrenstift
+|danach=Gars am Inn, ehem. Augustiner-Chorherrenstift, Pfarrkirche
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -2818,9 +2878,24 @@ Nebel, Elga, Pfarrverband Obertaufkirchen, Schwindegg, Oberornau. iP Kunstführe
 
 C. B.
 
+{{End}}
+
 
 == GARS am Inn ==
 
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=99
+|Originalseitenbis=111
+|Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Pfarrkirche
+|Typ=Sakral
+|Ort=Gars am Inn
+|davor=Frauenornau, Filial- und Wallfahrtskirche Maria vom Trost
+|danach=Gars am Inn, ehem. Augustiner-Chorherrenstift, Felixkapelle
+|AutorIn1=Böhm, Cordula
+}}
 
 Ehem. Augustiner-Chorherrenstift Jetzt Kloster der Redemptoristen und Lehrerfortbildungsstätte Erzdiözese München und Freising. Bis 1817 Erzdiözese Salzburg, Archidiakonat Gars, Gericht Neumarkt
 
@@ -2829,21 +2904,6 @@ Ehemalige Stiftskirche, jetzt Pfarrkirche Felixkapelle S. 112 Ehemalige Biblioth
 Zur Geschichte: Im Jahr 764 gab Herzog Tassilo einem Salzburger Kleriker namens Boso die Erlaubnis, beim Ort Garoz eine Zelle zu erbauen. Vier Jahre später unterstellte Boso diese Zelle mit Kirche, aus der sich bald ein Monasterium entwickeln sollte, dem Benediktinerkloster St. Peter in Salzburg. Zahlreiche Schenkungen und Rodungsarbeit ließen die Gründung aufblühen; sie blieb auch während der Ungarneinfälle weitgehend verschont. Unter Erzbischof Konrad von Salzburg (1107-47) wurde Gars in ein Augustiner-Chorherrenstift umgewandelt. In dieser Zeit wurde die romanische Klosterkirche mit dem Patrozinium der Himmelfahrt Mariens und St. Radegundis erbaut, mit Unterstützung der Schutzvögte von Gars, der Grafen von Megling. Großen Einfluß und große Wirkungsmöglichkeiten erlangte Gars 1130 durch die Erhebung zum Salzburger Archidiakonat. Zerstörung von Markt Kirche und Kloster 1648 durch die Schweden. Neubau von Kirche und Kloster unter Propst Athanasius Peitlhauser (1648-98). 1672 erhielt Gars den Leib des hl. Märtyrers Felix, zu dem sich bald eine blühende Wallfahrt entwickelte. Der Stift war die Pfarrei Wang inkorporiert. Säkularisation 1803 Wiederbesiedlung durch Redemptoristen 1858, die heute ein Institut für Lehrerfortbildung und ein Internat unterhalten.
 
 
-{{End}}
-
-{{Artikel
-|Band=8
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=99
-|Originalseitenbis=118
-|Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift
-|Typ=Sakral
-|Ort=Gars am Inn
-|davor=Frauenornau, Filial- und Wallfahrtskirche Maria vom Trost
-|danach=Grünbach, Filialkirche St. Leonhard
-|AutorIn1=Böhm, Cordula
-}}
 
 == Pfarrkirche, ehem. Augustiner-Chorherren-Stiftskirche ==
 
@@ -3146,6 +3206,21 @@ F<sub>4</sub> ANDREAS mit X-förmigem Andreaskreuz, Buch und Fischernetz.
 
 Quellen und Literatur siehe S. 118
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=112
+|Originalseitenbis=115
+|Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Felixkapelle
+|Typ=Sakral
+|Ort=Gars am Inn
+|davor=Gars am Inn, ehem. Augustiner-Chorherrenstift, Pfarrkirche
+|danach=Gars am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|AutorIn1=Böhm, Cordula
+}}
 
 == Felixkapelle ==
 
@@ -3235,8 +3310,21 @@ Gars entwickelte sich eine blühende Wallfahrt, zahlreiche Votivbilder - von den
 
 Thieme-Becker Bd 23, 1929, S. 203 (s.v. Liechtenfurter). Ebermann, P. Bernhard, 300 Jahre St. Felix in Gars, in: Das Mühlrad 1975, S. 69–81.
 
+{{End}}
 
-== Ehemalige Bibliothel ==
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=116
+|Originalseitenbis=116
+|Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|Typ=Sakral
+|Ort=Gars am Inn
+|davor=Gars am Inn, ehem. Augustiner-Chorherrenstift, Felixkapelle
+|danach=Gars am Inn, ehem. Augustiner-Chorherrenstift, Verlorene Deckenmalereien
+|AutorIn1=Böhm, Cordula
+}}
 
 
 Der Raum liegt im Obergeschoß des Klosters am Nordende des Osttrakts. Er ist jetzt unterteilt und wird als Gästespeisesaal bzw. als Lehrsaal der Lehrerfortbildungsstätte genutzt
@@ -3279,6 +3367,21 @@ Hugo von St. Viktor in Paris, * 1096 † 1141, Augustiner-Chorherr, scholastisch
 
 Die dargestellten Personen bzw. die überlieferten Namen bezeichnen gelehrte Theologen des Mittelalters. Es handelt sich nur bei Richard und bei Hugo von St. Viktor um Augustinerchorherren und mit Ausnahme von Augustinus nicht um Heilige.
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=117
+|Originalseitenbis=118
+|Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Verlorene Deckenmalereien
+|Typ=Sakral
+|Ort=Gars am Inn
+|davor=Gars am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|danach=Grünbach, Filialkirche St. Leonhard
+|AutorIn1=Böhm, Cordula
+}}
 
 == Verlorene Deckenmalereien Ehemaliges Refektorium ==
 
@@ -3387,7 +3490,7 @@ Ebermann, P. Bernhard und P. Josef Stemmer, Gars am Inn (KKF Nr. 940), München 
 |Lemma=Grünbach, Filialkirche St. Leonhard
 |Typ=Sakral
 |Ort=Grünbach
-|davor=Gars am Inn, ehem. Augustiner-Chorherrenstift
+|davor=Gars am Inn, ehem. Augustiner-Chorherrenstift, Verlorene Deckenmalereien
 |danach=Guttenburg, Schloss
 |AutorIn1=Böhm, Cordula
 }}
@@ -4035,21 +4138,6 @@ Böhm, Cordula, Der Barockmaler Franz Joseph Zitter, in: Amperland 36, 2000, S. 
 
 Aukapelle Ehemalige Deckenbilder aus der Bruckmühle S. 141
 
-{{End}}
-
-{{Artikel
-|Band=8
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=141
-|Originalseitenbis=144
-|Lemma=Markt Kraiburg, Ehenalige Deckenbilder aus der Bruckmühle
-|Typ=Profan
-|Ort=Markt Kraiburg
-|davor=Markt Kraiburg, Aukapelle
-|danach=Mettenheim, Pfarrkirche St. Michael
-|AutorIn1=Böhm, Cordula
-}}
 
 Aukapelle, Bahnhofstr. 18, Pfarrei St. Bartholomäus in Kraiburg, Erzdiözese München und Freising; z.Z. der Ausmalung Pfarrei Taufkirchen, Expositur Kraiburg. An der Kirche bestand ein Benefizium, auf das der Magistrat von Kraiburg das Präsentationsrecht hatte. Gericht Kraiburg
 
@@ -4096,6 +4184,22 @@ AEM, Pfarrei Kraiburg, Pfarrmatrikeln.
 Wening, Michael, Rentamt Burghausen, München 1721, S. 10. Riedl, Karl, Geschichte des Marktes und der Grafschaft Kraiburg, München 1867, S. 106. Mayer-Westermayer, Bd 2, S. 126.
 
 Mayer-Westermayer, Bd 2, S. 126. KDB IOB (3), S. 2178 f. Dehio 1990, S. 561 f.
+
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=141
+|Originalseitenbis=144
+|Lemma=Markt Kraiburg, Ehenalige Deckenbilder aus der Bruckmühle
+|Typ=Profan
+|Ort=Markt Kraiburg
+|davor=Markt Kraiburg, Aukapelle
+|danach=Mettenheim, Pfarrkirche St. Michael
+|AutorIn1=Böhm, Cordula
+}}
 
 Ehemalige Deckenbilder aus der Bruckmühle; jetzt im Heimatmuseum Kraiburg
 
@@ -5282,7 +5386,7 @@ Reindl-Witt, Irmengard, Biographische Notizen zum Mühldorfer Barockmaler Paul K
 |Typ=Sakral
 |Ort=Neufahrn
 |davor=Mühldorf, Votivkapelle Maria Eich
-|danach=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit
+|danach=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Gruftkapelle
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -5413,12 +5517,12 @@ Goerge, Dieter, Johann Nepomuk della Croce 1736–1819. Leben und Werk (= Burgha
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=190
-|Originalseitenbis=194
-|Lemma=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit
+|Originalseitenbis=192
+|Lemma=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Gruftkapelle
 |Typ=Sakral
 |Ort=Neumarkt St. Veit
 |davor=Neufahrn, Filialkirche St. Rupert
-|danach=Oberflossing, Pfarrkirche St. Johann Baptist
+|danach=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Seelenkapelle
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -5532,6 +5636,22 @@ A, KREUZANNAGELUNG Jesus liegt auf dem Kreuz am Boden, drei Henkersknechte nagel
 
 Über dem Eingang zur Gruftkapelle bereitet eine Stuckkartusche auf den Passionszyklus vor: Putten halten Passionswerkzeuge, in der Bekrönung Herz Jesu mit IHS (ligiert) und Herz Mariens MARIA (ligiert).
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=193
+|Originalseitenbis=194
+|Lemma=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Seelenkapelle
+|Typ=Sakral
+|Ort=Neumarkt St. Veit
+|davor=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Gruftkapelle
+|danach=Oberflossing, Pfarrkirche St. Johann Baptist
+|AutorIn1=Böhm, Cordula
+}}
+
 '''Zum Bauwerk:''' An die Gruftkapelle schließt nach N die Seelenkapelle an, die heute nur noch vom Friedhof aus zugänglich ist. Sie entstand 1715 gemeinsam mit der Gruftkapelle. Heute ist sie als Kriegergedächtniskapelle eingerichtet.
 
 Etwa quadratischer kreuzgewölbter Raum (3,40×3,26 m). Beleuchtung durch ein breites Fenster von N, Zugang von W geostet.
@@ -5622,7 +5742,6 @@ Dehio 1990, S. 873.
 
 CB
 
-
 == OBERFLOSSING ==
 
 
@@ -5639,8 +5758,8 @@ Pfarrkirche Seelenkapelle S. 203
 |Lemma=Oberflossing, Pfarrkirche St. Johann Baptist
 |Typ=Sakral
 |Ort=Oberflossing
-|davor=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit
-|danach=Oberneukirchen, Pfarrkirche St. Margareta
+|davor=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Seelenkapelle
+|danach=Oberflossing, Pfarrkirche St. Johann Baptist, Seelenkapelle
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -5797,9 +5916,21 @@ Kupferschmied, Thomas Johannes, Der Freskant J. Martin Heigl. Arbeiten für Joha
 
 <!-- header: OBERFLOSSING -->
 
+{{End}}
 
-== Seelenkapelle ==
-
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=203
+|Originalseitenbis=203
+|Lemma=Oberflossing, Pfarrkirche St. Johann Baptist, Seelenkapelle
+|Typ=Sakral
+|Ort=Oberflossing
+|davor=Oberflossing, Pfarrkirche St. Johann Baptist
+|danach=Oberneukirchen, Pfarrkirche St. Margareta
+|AutorIn1=Böhm, Cordula
+}}
 
 
 [[File:Band08_chunk005_p002_img001.jpg|thumb]]
@@ -5859,7 +5990,7 @@ C. B.
 |Lemma=Oberneukirchen, Pfarrkirche St. Margareta
 |Typ=Sakral
 |Ort=Oberneukirchen
-|davor=Oberflossing, Pfarrkirche St. Johann Baptist
+|davor=Oberflossing, Pfarrkirche St. Johann Baptist, Seelenkapelle
 |danach=Oberornau, Pfarrkirche St. Andreas
 |AutorIn1=Böhm, Cordula
 }}
@@ -8526,7 +8657,7 @@ AEM, Pfarrei Dorfen, Tauf-, Heirats- und Sterbebücher. Spagl, Hans Rudolf, Balt
 |Typ=Sakral
 |Ort=Wörth
 |davor=Wimpasing bei Malseneck, Feldkapelle
-|danach=
+|danach=Zangberg, Schloß Zangberg, Fürstensaal
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -8632,6 +8763,22 @@ C.B.
 
 <!-- header: ZANGBERG -->
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=305
+|Originalseitenbis=315
+|Lemma=Zangberg, Schloß Zangberg, Fürstensaal
+|Typ=Sakral
+|Ort=Zangberg
+|davor=Wörth, Filialkirche St. Georg
+|danach=Zangberg, Schloß Zangberg, Ahnensaal
+|AutorIn1=Bauer-Wild, Anna
+}}
+
 Kloster St. Joseph der Salesianerinnen Gemeinde Zangberg Ehem. Schloß der Freiherren von Neuhaus Hofmark Zangberg, Gericht Neumarkt
 
 Fürstensaal Ahnensaal S. 316
@@ -8658,32 +8805,7 @@ In dem Verbindungsbau zwischen Kirche und Schloß ist heute die Klausurkapelle u
 
 '''Zum Bauwerk:''' Der Saal nimmt den ganzen südwestlichen Eckrisalit des Schlosses ein und übergreift Hauptgeschoß und Obergeschoß. Drei Fensterachsen nach W, wo am steilabfallenden Hang die Brauerei und andere gewerbliche Gebäude lagen, vier nach S, eine nach N und eine nach O mit Blick auf die ehemalige Gartenanlage und das Isental. Von den drei Türen führt eine zum Gang, eine zweite zur Zimmerflucht im Westflügel und eine dritte zur Fürstenzimmer-Enfilade im Südflügel, über die der Saal auch mit dem Ahnensaal verbunden ist.
 
-Der Saal wurde gleich im ersten Jahr der Bautätigkeit, 1684, von Antonio Riva erbaut. Für die Stuckierung des Saals und der nach O anschließenden Fürstenzimmer wurde mit Giovanni Battista Brenni (Preni) am 22.2.1684 »wegen Verferttigung der deme per 119 fl. in das Schloß Zangberg angedingten Stuckatorarbeith« paktiert. Beginn der Stuckierung in sieben Fürstenzimmern im Dezember 1684, Fertigstellung 1685. Brenni erhielt für »in dem anno 1684 erbauten Stock verfertigte Stuckatorarbeit, als ab jedem Zimmer 17 fl.«. Der Saal wurde gewölbt und gedeckt, über ihm der Boden gelegt. 1686 stuckierte Brenni die Saaldecke und den Kamin. Die Saaltüren wurden eingesetzt. Im Januar 1687 wurde das große Deckengemälde geliefert und angebracht. Am 21./22.1. und am 18./20.2. »hat Andre Winckhl dem Peter Mahler Farban
-
-Aufdatz
-
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Aufdatz|
-| Au
-
-reiben, das groß zur Saaldöckhen verferttigte Stuckh besser aufspannen, naglen, aufziehen, und ein so anderes auß dem Zimmer bringen, und aufheben müssen«. 1687 vollendete Brenni den Stuck des Fürstensaals und bekam für »zu den Statuen gemachte 9 Muschlen (Muschelnischen der Kaiserbüsten) à 1 fl. 30x. = 13 fl. 30x.«. Der Saal wurde ausgeweißt. Damit war er fertig und wird in den Rechnungen nicht mehr erwähnt. Die Saalwände waren also offensichtlich nie stuckiert, von den Muschelnischen abgesehen.
+Der Saal wurde gleich im ersten Jahr der Bautätigkeit, 1684, von Antonio Riva erbaut. Für die Stuckierung des Saals und der nach O anschließenden Fürstenzimmer wurde mit Giovanni Battista Brenni (Preni) am 22.2.1684 »wegen Verferttigung der deme per 119 fl. in das Schloß Zangberg angedingten Stuckatorarbeith« paktiert. Beginn der Stuckierung in sieben Fürstenzimmern im Dezember 1684, Fertigstellung 1685. Brenni erhielt für »in dem anno 1684 erbauten Stock verfertigte Stuckatorarbeit, als ab jedem Zimmer 17 fl.«. Der Saal wurde gewölbt und gedeckt, über ihm der Boden gelegt. 1686 stuckierte Brenni die Saaldecke und den Kamin. Die Saaltüren wurden eingesetzt. Im Januar 1687 wurde das große Deckengemälde geliefert und angebracht. Am 21./22.1. und am 18./20.2. »hat Andre Winckhl dem Peter Mahler Farban Aufdatz reiben, das groß zur Saaldöckhen verferttigte Stuckh besser aufspannen, naglen, aufziehen, und ein so anderes auß dem Zimmer bringen, und aufheben müssen«. 1687 vollendete Brenni den Stuck des Fürstensaals und bekam für »zu den Statuen gemachte 9 Muschlen (Muschelnischen der Kaiserbüsten) à 1 fl. 30x. = 13 fl. 30x.«. Der Saal wurde ausgeweißt. Damit war er fertig und wird in den Rechnungen nicht mehr erwähnt. Die Saalwände waren also offensichtlich nie stuckiert, von den Muschelnischen abgesehen.
 
 Rechteckiger Raum (10,70×14,00m; 8,50m hoch) in Höhe von zwei Geschossen. Gliederung durch hohe 12teilige Fenster und darüberliegende 6teilige (im Außenbau durch Blindfenster als 8teilig erscheinende) im Obergaden. Zwischen Fenster und Obergaden halbkugelförmige Nischen, in die Muscheln mit neun römischen Kaiserbüsten stuckiert sind. Umlaufendes profiliertes Stuckgesims mit Blattstab, über dem eine Hohlkehle ansetzt und in den stuckierten Deckenspiegel übergeht. Die Wände sind glatt und ungegliedert. An den Wandabschnitten zwischen den Fenstern hängen Ölgemälde mit den Porträts der Wittelsbacher, jeweils ein fast quadratisches über einem hochrechteckigen. Die mittlere Achse der Südseite zeigt einen geschnitzten Kaminaufsatz und darüber ein - später hinzugekommenes - nazarenisches Madonnenbild; zeitweise führte auch eine neugotische Treppe vom Saal aus in die Schlafsäle im 2. Obergeschoß.
 
@@ -8905,6 +9027,21 @@ Zangberg lag auf dem Weg nach Altötting, der Wallfahrt des kurfürstlichen Haus
 
 A. B.
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=316
+|Originalseitenbis=343
+|Lemma=Zangberg, Schloß Zangberg, Ahnensaal
+|Typ=Sakral
+|Ort=Zangberg
+|davor=Zangberg, Schloß Zangberg, Fürstensaal
+|danach=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 == Ahnensaal, jetzt Fest- und Musiksaal ==
 
@@ -9593,6 +9730,19 @@ Dehio 1990, S. 13001
 Haberger, Norbert, Der Ahnensaal im Schloß Zangberg, ungedr. Magisterarbeit, München 1997. C. B./A. B
 <!-- citation-page-bottom: Band08 p343 -->
 
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=344
+|Originalseitenbis=349
+|Lemma=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
+|davor=Zangberg, Schloß Zangberg, Ahnensaal
+|danach=Ortsregister (Band 8)
+}}
+
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=23 -->
 <!-- citation-page-top: Band08 p344 -->
 
@@ -9831,16 +9981,21 @@ ZELCKER (Zelcher, Zölcker), Anton, Maler in Neumarkt 1763/74 nachweisbar. * Hof
 
 ZITTER, Joseph, Maler in München, * 1712 Bruchsal. † begraben 10.7. 1777 München. Joseph Zitter kam um 1730 nach Augsburg und München. Er war u.a. bei Cosmas Damian Asam, bei Adam Miller, bei Johann Georg Bergmüller und bei Johann Baptist Zimmermann tätig. 1739 heiratete er in München und erhielt den Hofschutz. Auf die Jahre 1736 bis 1750 konzentrieren sich seine uns bekannten Werke: 1736 St. Jakob am Anger (nicht erhalten), 1739 Aufhausen bei Regensburg, 1747 Kirchdorf bei Haag, 1750 St. Georgen bei Diessen; als spätes Werk kommt 1773/77 Schlehdorf hinzu. 1765 bewarb sich Zitter vergeblich um die Malerei-Inspektoren-Stelle der kurfürstlichen Gemäldegalerie in Schleißheim. (Cordula Böhm, Der Barockmaler Franz Joseph Zitter, in: Amperland 36, 2000, S. 276–85.)
 <!-- citation-page-bottom: Band08 p349 -->
+{{End}}
+
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=350
+|Originalseitenbis=351
+|Lemma=Ortsregister (Band 8)
+|davor=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
+|danach=Personenregister (Band 8)
+}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=1 -->
 <!-- citation-page-top: Band08 p350 -->
-
-
-== REGISTER ==
-
-
-
-== Ortsregister ==
 
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
@@ -10023,8 +10178,18 @@ Waal 126 Waging 31 Wald 247, 292 Wald an der Alz 349 Waldeck/OPf 308, 332 Walker
 
 Zangberg 7, 31, 60, 195, 257, 286, 294, 305-42, 345, 349 Ahnensaal 316–42 Fürstensaal 306–16 Schloßkapelle 332
 
+{{End}}
 
-== Personenregister ==
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=353
+|Originalseitenbis=357
+|Lemma=Personenregister (Band 8)
+|davor=Ortsregister (Band 8)
+|danach=Ikonographisches Register (Band 8)
+}}
 
 
 Kursivschrift und Kursivzahlen verweisen auf in diesem Band behandelten Male
@@ -10520,7 +10685,18 @@ Zenetina, 1, 000 ao tao taon, 2 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 Zeil und T
 
 23, 33, 54 uccalli, Domenico Cristoforo, Baumeister 7, 31, 58, 99 t., 112, 183 t., 190 uccalli, Gaspare, Baumeister 7, 99 f., 112, 116 uccalli, Henrico, Baumeister in München 100 unhamer, Martin, Restaurator in Altötting 20, 36, 120, 163, 196, 205, 220 wick, Patritius, Propst von Au am Inn 23, 33, 36, 46, 82, 222, 273
 <!-- citation-page-bottom: Band08 p357 -->
+{{End}}
 
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=358
+|Originalseitenbis=367
+|Lemma=Ikonographisches Register (Band 8)
+|davor=Personenregister (Band 8)
+|danach=Embleme-Register (Band 8)
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=5 -->
 <!-- citation-page-top: Band08 p358 -->
 
@@ -10594,7 +10770,18 @@ Mühldorf, Stadtwappen 161, 175 f. Muggenthal, Freiherren von 332 Neuhaus, Freih
 
 Tortiat 1. Midel to tille Zweig, grünend → Joseph 53 → Spes 188 Zufluchten, Sieben 66 f., 70, 81 f., 146, 155, 254, 347 Zunge, unverwest → Johann Nepomuk 20, 7
 <!-- citation-page-bottom: Band08 p367 -->
+{{End}}
 
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=368
+|Originalseitenbis=369
+|Lemma=Embleme-Register (Band 8)
+|davor=Ikonographisches Register (Band 8)
+|danach=
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=10 -->
 <!-- citation-page-top: Band08 p368 -->
 

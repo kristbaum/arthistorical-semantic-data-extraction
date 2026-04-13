@@ -1,0 +1,95 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=54
+|Originalseitenbis=57
+|Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, Sakristei
+|Typ=Sakral
+|Ort=Au am Inn
+|davor=Au am Inn, ehem. Augustiner-Chorherrenstift
+|danach=Au am Inn, ehem. Augustiner-Chorherrenstift, Krankenkapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+}}
+
+== Sakristei an der ehemaligen Stiftskirche ==
+
+
+'''Zum Bauwerk:''' Die Sakristei wurde zusammen mit dem Konventbau errichtet und bis 1691 eingerichtet (Datum an einem Schrank). Der Raum grenzt an die beiden südöstlichen Langhausjoche der Klosterkirche und ist von der Kirche, vom Gang und vom Kloster aus zugänglich.
+
+Rechteckiger Raum (12,50×6,20 m) zu drei Jochen, drei Fenster nach Osten, drei Türen nach N, W und S.
+
+Die Raumdekoration entstand erst um 1715. Der Stuck kann wie der der Klosterkirche Nikolaus Liechtenfurtner zugeschrieben werden.
+
+'''Auftraggeber:''' Propst Joachim Böheim (1715–1748); Kloster- und Abtswappen im S und N mit den Initialen I. P. E. A.L.
+
+[[File:Band08_chunk002_p003_img003.jpg|thumb|Die Sakristei]]
+
+[[File:Band08_chunk002_p003_img004.jpg|thumb]]
+
+[[File:Band08_chunk002_p003_img005.jpg|thumb|Musikinstrumente an der Emporenbrüstung]]
+
+(= Joachim Propst et Abbas Lateranensis; seit 1714 war Au der Lateranensischen Kongregation angeschlossen).
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Benedikt Albrecht (* um 1655 Berg am Starnberger See † 1730 München), 1716
+
+Der stilistische Befund stimmt mit den Mittelschiff-Fresken in der Klosterkirche überein. Es ist vorstellbar, daß die Sakristei-Fresken vor denen der Klosterkirche, sozusagen als Probearbeit, entstanden sind, wie dies bei größeren Aufträgen üblich war. Dafür sprechen die hervorragende Qualität der Fresken und auch die reichen Stuckaturen, die beide ein großes Formenrepertoire der Künstler zeigen. Architekturdetails wie Kapitelle und Ornamentstäbe kommen genauso in Gars vor, ebenso das Motiv der Balustrade mit kleinen Figuren. Die Figuren sind kantiger und gedrungener als in den Fresken der Klosterkirche. Vermutlich hat Benedikt Albrecht die Fresken allein, ohne Mitarbeit Kendlbachers, gemalt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flache Tonne mit Stichkappen  
+Rahmen: Gekehlte Stuckrahmen, Achtpässe  
+
+Maße: Höhe 4,30 m; A und B 3,50 x 3,00  
+
+Erhaltungszustand und Restaurierungen: Die Fresken sind leicht verschmutzt, aber sehr gut erhalten. Die Sakristei ist lange nicht restauriert worden; die Fassung der Stuckaturen in Gelb und Violett deutet auf eine Restaurierung des frühen 20. Jh. hin, wahrscheinlich im Zusammenhang mit der, die Josef Elsner und Anton Ranzinger 1909/13 in der Klosterkirche durchgeführt haben.
+
+
+[[File:Band08_chunk002_p003_img006.jpg|thumb|Kloster- und Abtswappen an der Nord- und Südseite der Sakristeidecke]]
+<!-- citation-page-bottom: Band08 p55 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=4 -->
+<!-- citation-page-top: Band08 p56 -->
+
+[[File:Band08_chunk002_p004_img001.jpg|thumb]]
+
+Beschreibung und Ikonographie
+
+Die beiden Sakristeifresken (Ansicht nach O) gehören in Bezug auf die Komposition zu den besten Fresken in Au; diese kommt aber, ebenso wie die konsequent untersichtige Konstruktion, wegen der geringen Raumhöhe nicht bestmöglich zur Wirkung. Die Farbigkeit ist relativ zurückhaltend und ordnet sich der Raumfassung und der Stuckdekoration unter: blaugelblicher Himmel, graue Architekturen mit Goldfassungen; auch die Soldaten tragen graue Rüstungen mit goldenen Verbrämungen. Als Buntfarben sind Karminrot in zwei Soldatenröcken und einem Engelsgewand und – als Auszeichnung der Hauptperson - leuchtendes Blau in Harnisch und Stiefeln des Heliodor verwendet.
+
+A HELIODOR RAUBT DEN TEMPELSCHATZ Sechs geharnischte Krieger dringen in einen Tempel ein und plündern den Tempelschatz. Zwei machen sich an den Wandschränken zu schaffen und entnehmen ihnen goldene und silberne Kannen und Platten. Ein dritter trägt eine Platte und auf der Schulter eine Schatztruhe in die Mitte des Raums, wo weitere Soldaten Perlenketten und Geschmeide sowie einen Geldsack in eine große Truhe legen. Rechts senkt Heliodor gebieterisch den Feldherrnstab. Der gewölbte, pilastergegliederte Raum mit zwei Fensterreihen zeigt barocke Formen; er hat eine gewisse Ähnlichkeit mit dem Kirchenraum von Au, besonders durch den angeschlossenen Rundbau, der sich über einer Balustrade mit freistehenden Figuren der offenen Himmelskuppel öffnet.
+
+Das Geschehen wird wie bei Fresko B in zwei Inschriftkartuschen mit den entsprechenden Textstellen aus dem 2. Buch Makkabäer kommentiert:
+
+A<sub>1</sub> HELIO/DORUS / PERFICIE: /RA7
+
+A<sub>2</sub> CUM / SATELITI:/BUS / PRAESENS: (2 Mach 3,23-24)
+
+[[File:Band08_chunk002_p004_img002.jpg|thumb|B Heliodor wird bestraft]]
+
+B HELIODOR WIRD BESTRAFT Die Szene spielt vor dem Tempel, einem prachtvoll dekorierten Bau mit Säulen- und Pilastervorlagen; auf dem Gesims stehen Figuren und Vasen. Ein Reiter auf weißem Roß sprengt daher und hebt seinen Stab, woraufhin zwei Engel mit Riemen auf den am Boden liegenden Heliodor eindringen. Der sucht sich mit erhobenem Arm vor den Schlägen zu schützen. Hinter ihm ergreifen zwei Soldaten die Flucht. Rechts im Torbogen erscheint der Hohepriester Onias mit gefalteten Händen.
+
+B<sub>1</sub> A / DEO / FLAGEL:/LATUS B<sub>2</sub> NUNTIA / MAGNALIA/DEI. / 2 Machab. C.3. V.34 (= 2 Mach 3,34)
+
+In einer Zeit, als Jerusalem dank der Frömmigkeit des Hohenpriesters Onias in Frieden lag, ließ der mißgünstige Tempelvorsteher Simon aus dem Stamm Benjamin das Gerücht zu dem König gelangen, daß die Schatzkammer in Jerusalem von unvorstellbaren Schätzen strotze, die in seinen Besitz gelangen könnten. Der König befahl seinem Reichsverweser Heliodor, die Auslieferung der Schätze zu bewerkstelligen. In einer Unterredung mit dem Hohenpriester Onias stellte dieser klar, daß es sich bei dem Schatz hauptsächlich um hinterlegte Gelder von Witwen und Waisen handle. Heliodor bestand aber auf dem königlichen Auftrag und wollte den Schatz besichtigen. Da versammelte sich das ganze Volk und flehte zu Gott um Erhaltung des ihm anvertrauten Guts. Als Heliodor daran ging, sein Vorhaben auszuführen, verursachte der Herr eine gewaltige Erscheinung und stürzte die Bewaffneten im Tempel in Ohnmacht und Angst. <blockquote>»Es erschien ihnen ein Roß mit einem furchterregenden Reiter und mit herrlichem Geschirr geschmückt. Im Galopp stürmend drang es mit den Vorderhufen auf Heliodor ein. Der Reiter, der oben saß, erglänzte in einer goldenen Rüstung. Es erschienen vor ihm auch noch«</blockquote>
+<!-- citation-page-bottom: Band08 p57 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=5 -->
+<!-- citation-page-top: Band08 p58 -->
+
+<!-- header: AU AM IN -->
+
+<!-- header: AU AM INN -->
+
+zwei andere Jünglinge von ungewöhnlicher Stärke und herrlicher Schönheit, prachtvoll gekleidet. Sie stellten sich zu beiden Seiten des Heliodor, geißelten ihn ohne Unterbrechung und versetzten ihm viele Hiebe.«
+
+Au besaß kostbare Kirchengeräte, die in der Sakristei aufbewahrt waren. Mit der Darstellung der Geschichte Heliodor wird der göttliche Schutz für diese Schätze beschworen: »E selbst, der seine Wohnung im Himmel hat, bewacht und ver
+
+teidigt diesen Ort« (2 Mach 3,39). Dem Kapitel geht ein Vorwort voraus, das auf das Bauvorhaben der neuen Kirche beziehen werden kann: »Dem Baumeister eines neuen Hause kommt es zu, sich um den gesamten Bau zu kümmern, wäh rend dem Anstreicher und Maler die notwendige Aus schmückung obliegt« (2 Mach 2,29).
+
+Quellen und Literatur s. S. 63
+
+{{End}}

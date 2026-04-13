@@ -1,0 +1,113 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=179
+|Originalseitenbis=183
+|Lemma=Mühldorf, Filialkirche St. Katharina
+|Typ=Sakral
+|Ort=Mühldorf
+|davor=Mühldorf, Stadtpfarrkirche und ehem. Kollegiatskirche St. Nikolaus
+|danach=Mühldorf, Votivkapelle Maria Eich
+|AutorIn1=Böhm, Cordula
+}}
+
+Filialkirche der Stadtpfarrei St. Nikolaus, Erzdiözese München und Freising; die Kirche ist jetzt in staatlichem Besitz; z. Z. der Ausmalung Erzbistum Salzburg. Die Pfarrei Mühldorf war dem Kollegiatstift St. Nikolaus inkorporiert, nach dessen Gründung die pfarrlichen Funktionen und der Pfarrsitz von St. Nikolaus auf St. Katharina in der Vorstadt übertragen worden waren.
+
+
+'''Patrozinium:''' St. Katharina
+
+
+'''Zum Bauwerk:''' Hochaufragender spätgotischer Bau, erbaut in der 2. Hälfte 15. Jh. über romanischen Langhausmauern. 1755 wurde das baufällige Gotteshaus durch den Maurermeister Sebastian Stöttner gesichert. Innendekoration 1756.
+
+Saalbau (12,80×8,00 m) zu drei Jochen, gleichbreiter AR (8,50×8,00 m) zu zwei Jochen mit dreiseitigem Schluß. Gliederung durch Wandpfeiler, Belichtung durch Spitzbogenfenster, im LHs im östlichen Joch von N und S und im mittleren von S, im AR durch je zwei gotische Maßwerkfenster mit eingeschriebenem Dreipaß von N und S. Im westlichen, etwas breiteren AR-Joch stehen längs die Seitenaltäre. Empore im W
+
+
+'''Auftraggeber:''' Dekan Wolfgang Summerer vom Kollegiatstift Mühldorf (1739–77)
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Johann Paul Kurz (* 1721 Mühldorf † 1772 Mühldorf) 1756
+
+Inschrift am Chorbogen Renoviert / Anno 1756. Die Fresken zeigen überzeugende Übereinstimmungen mit denen der Frauenkirche in Wasserburg (LKr. Rosenheim), die von Johann Paul Kurz signiert und 1750 datiert sind. Zu nennen ist der Madonnentypus (Mühldorf, Fresko B, Wasserburg, Fresko C), der überlängte Frauentypus mit geschnürten engen Mieder (Fresko C, Wasserburg, Abigail in Fresko 3). Für Kurz typische Merkmale sind die Bildung des Mundes durch Strich und Punkt als Ober- und Unterlippe, die Grübchen im Knie des Jesuskindes und der Putten. Eine ausgeprägte Eigenart ist die rötliche Silhouettierung der Figuren und der Gewänder. Sie erweckt z.B. beim Kopfschleier der Fides-Ecclesia den Eindruck, als ob er vom Kopf etwas abgesetzt sei. Große Ähnlichkeit zeigt die Ornamentierung in St. Katharina mit der in Wasserburg: imitierte Stuckkartuschen mit brokatierter Füllung.
+
+
+[[File:Band08_chunk004_p015_img003.jpg|thumb|Der Kirchenraum]]
+
+
+[[File:Band08_chunk004_p015_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band08 p179 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=16 -->
+<!-- citation-page-top: Band08 p180 -->
+
+<!-- header: MUHLDORF -->
+
+<!-- header: MUHLDOR -->
+
+
+[[File:Band08_chunk004_p016_img001.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR verschliffenes gotisches Rippengewölbe
+
+Rahmen: einfaches verkröpftes Stuckprofil mit ockerfarbener Innenleiste
+
+Technik: Fresko; polychrom
+
+Masse: A Höhe 9,80 m; 2,50 x 2,30
+
+B Höhe 9,80 m; 3,80 x 2,50
+
+C Höhe 9,80 m; 2,50 x 2,30
+
+D Höhe 9,40 m; 2,10 x 1,90
+
+E Höhe 9,40 m; Ø 1,90
+
+Erhaltungszustand und Restaurierungen: 1913 Innenrestaurierung geplant, 1928 Freilegung romanischer Fresken im AR. Das Gewölbe der Kirche wurde bei einem Fliegerangriff 1945 beschädigt; zu beiden Seiten der Deckenfresken zogen sich breite Risse, sodaß die Kirche 1952 wegen Einsturzgefahr geschlossen werden mußte. Nach der baulichen Sanierung Restaurierung der Fresken 1956 durch Fa. Alois Schlee, Altötting. Die Schäden wurden behoben, Deckenbilder und Dekorationsmalerei gereinigt; eine Fehlstelle wurde mit Farbe eingestimmt. (Gedenktafel beim Kircheneingang 1756 ... Renovierung 1955/56 durch den Kirchenmaler Alois Schlee, Altötting i. A. Stadtpfr. Josef Klapfenberger, wiedereröffnet 23.11.1956 durch Prälat M. Hartig.) Die Fresken sind in gutem und originalen Zustand, ihre Farbigkeit hat sich frisch und leuchtend erhalten. Verdorben ist ein für Konturierung und Schattierung verwendetes rotes Farbpigment, das jetzt Schwarz erscheint.
+
+
+[[File:Band08_chunk004_p016_img002.jpg|thumb|B Mystische Vermählung der hl. Katharina]]
+<!-- citation-page-bottom: Band08 p181 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=17 -->
+<!-- citation-page-top: Band08 p182 -->
+
+<!-- header: MÜHLDOR -->
+
+<!-- header: MUHLDORF -->
+
+
+[[File:Band08_chunk004_p017_img001.jpg|thumb]]
+
+
+Beschreibung und Ikonographie
+
+Stuckprofile zeichnen die ehemalige Rippenführung nach und rahmen die fünf Deckenbilder. In den sich ergebenden Feldern sind Stuckkartuschen mit Brokatmusterung in Ocker, Blau, Grün und Karmin gemalt, deren Stil unmittelbar an Wasserburg erinnert, wenn auch hier nicht so flächenfüllend verwendet wie in der dortigen Marienkirche. Die vier Farben bilden auch den farblichen Grundakkord in den Fresken, so daß der Gesamteindruck der Decke farblich ein sehr einheitlicher ist. Die Deckenbilder zeigen Leben und Glorie der Kirchenpatronin Katharina von Alexandrien.
+
+A BEKEHRUNG ZUM CHRISTENTUM Blickrichtung nach W. Katharina, in feinem Kleid mit hermelinbesetztem Mantel und mit Perlen geschmückt, kniet auf einer Wiese. Ein Engel ist bei ihr und weist auf die Erscheinung eines strahlenumgebenen Kruzifixus. Katharina blickt zu ihm auf, die Rechte auf die Brust gelegt, mit der Linken eine abwehrende Gebärde nach hinten vollführend, wo in einem offenen Tempelraum heidnische Götterbilder von ihren Sockeln stürzen. Im Hintergrund sieht man einen mauerumgebenen Palast. Das Bild ist nicht leicht zu deuten. Da die chronologische Abfolge von W nach O geht, liegt die Szene vor der mystischen Vermählung (B). Nach der Legende war Katharina eine heidnische Königstochter, in den freien Künsten wohl unterrichtet. Zu den Jugendszenen gehören der Sturz der Götzenbilder vom Kruzifix und das Gebet Katharinas vor dem Kruzifix. Wir haben hier wohl eine Kompilation dieser beiden Szenen vor uns, die nahelegt, sie als Bekehrungsszene zu sehen, wenn auch als eigentliche Bekehrungsszene eine Erscheinung Mariens mit dem Kind gilt (s. Fresko B).
+
+B MYSTISCHE VERMAHLUNG DER HL. KATHARINA Schauplatz ist ein imaginärer Raum im Freien. Auf einer steinernen Bank über Treppenstufen sitzt Maria mit dem Jesuskind, der Raum ist rechts flankiert von einer Säule und nach hinten begrenzt von einer Steinwand. Die linke Bildhälfte führt in eine weite verblauende Landschaft mit der Stadt Alexandria, die von Schneebergen bekrönt ist. Katharina, königlich gekleidet und in einen Hermelinumhang gehüllt, die Haare mit Perlen durchflochten und mit einer Krone geschmückt, kniet vor der Madonna, die ihr den Arm auf die Schulter legt. Das Jesuskind steckt ihr einen Ring an den Finger. Aus dem Himmel fallen Strahlen. Ein Putto hält über Katharina einen Kranz aus weißen und roten Rosen, Symbol der Bräutlichkeit mit den Farben der Reinheit und Liebe.
+
+Die häufig dargestellte Szene hat eine Vorgeschichte, die mit der Bekehrung Katharinas zusammenhängt: In einem Traum sah sie die Madonna mit dem Kind, das von der Mutter gefragt wurde, »wie ihm gegenwärtig die Jungfrau gefalle? ob sie ihm nit zur Braut beliebe?«, worauf das Kind sich abwandte und sagte: sie sei nicht schön, weil sie nicht getauft sei. Die Schönheit und Holdseligkeit des Kindleins und der Kummer über ihre Verschmähung bewirkte, daß sie sich im christlichen Glauben unterweisen und taufen ließ. Der Traum wiederholte sich, und nun, im Beisein vieler Engel, neigte sich das Kind von selbst ihr zu und steckte ihr einen Ring an den Finger, zum Zeichen, daß sie nun seine Braut sein solle (Ribadeneira-Hornig, Bd 2, 25. II., S. 861 f.).
+
+C DISPUTATION DER HL. KATHARINA In einem Arkadenraum, der den Ausblick auf einen orientalisierenden Rundbau und Bäume zeigt, sitzt der Kaiser auf dem Thron, umringt von Gelehrten, die mit Schriften, Folianten, Himmelsglobus und Brillengläsern bewaffnet sind. Katharina im grünen Kleid mit goldenem Mieder, den Hermelinmantel umgehängt, steht dem ältesten und berühmtesten der Gelehrten, der neben dem Thron Platz genommen hat, Rede und Antwort. – Während heidnischer Opferhandlungen trat Katharina mutig vor den Kaiser Maxentius (oder Maximinus) und warf ihm vor, ganze Völkerschaften zur Gottlosigkeit anzuhalten. Der Kaiser, der sich weder ihrer Schönheit noch ihrer Beredsamkeit gewachsen fühlte, berief fünfzig Weise zu einer Disputation mit der 18jährigen Königstochter, die in einem herrlichen Saal stattfand. Im Verlauf der Disputation bekehrte sie alle fünfzig zum Christentum, was diese unverzüglich durch den Flammentod büßen mußten (Ribadeneira-Hornig, Bd 2, S. 864).
+
+D ENGEL TRAGEN DEN LEICHNAM KATHARINAS AUF DEN BERG SINAI Ein Felsengebirge türmt sich auf, hinter dem die weite Landschaft zu sehen ist. Der Leichnam der Heiligen wird von Engeln durch die Lüfte getragen und in ein Grab gesenkt: ein Putto hält den Kopf, zwei große Engel halten den Rumpf an Armen und Beinen und ein Putto zuunterst stützt ihn mit beiden Armen empor. Charakteristisch für Kurz ist das unruhige kontrastreiche Geflatter der Gewänder. – Als Katharina, die noch die Kaiserin und den engsten Berater des Kaisers, Porphyrius, bekehrt und überlebt hatte, selbst nach vielen Martern enthauptet wurde, floß aus ihrem Hals Milch statt Blut, und Engel entführten den Leichnam durch die Lüfte und senkten ihn auf dem Berg Sinai in ein Grab (Ribadeneira-Hornig, Bd 2, S. 867).
+
+[[File:Band08_chunk004_p017_img002.jpg|thumb|E Glorie der hl. Katharina]]
+
+E GLORIE DER HL. KATHARINA Katharina schwebt auf Wolken, sie hat ihre Attribute, Rad, Buch und Schwert zu ihren Füßen liegen und hält in der Linken die Lilie der Reinheit und die Martyrerpalme. Ein Putto hält ihr den Kranz mit weißen und roten Rosen. Über ihr schwebt im blauen Gewand Fides-Ecclesia, gekennzeichnet durch die Attribute Kreuz, Hostienkelch und Kirchenmodell. Sie trägt ein aufgeschlagenes Buch mit der Inschrift BEA/TI QUI / NON / VIDE/RUNT / ET CRE/DIDE=/RUNT / JOANN:/ 20 (Selig, die nicht sehen und doch glauben. Jo 20,29).
+
+[[File:Band08_chunk004_p017_img003.jpg|thumb]]
+
+Literatur KDB I OB (3), S. 2200–03. Mayer-Westermayer, Bd 2, S. 137 f. Dehio 1990, S. 655 f. Kupferschmied, Thomas Johannes, Das barocke Mühldorf, in Mühldorf, Stadt am Inn, Mühldorf 1995, S. 240. Reindl-Witt, Irmengard, Biographische Notizen zum Mühldorfer Barockmaler Paul Kurz, in: Das Mühlrad 39, 1997, S. 175–185.
+
+
+== Maria Eich Kapelle ==
+
+
+{{End}}

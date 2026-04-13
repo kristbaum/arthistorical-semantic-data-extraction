@@ -1,0 +1,67 @@
+{{Artikel
+|Band=8
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=183
+|Originalseitenbis=184
+|Lemma=Mühldorf, Votivkapelle Maria Eich
+|Typ=Sakral
+|Ort=Mühldorf
+|davor=Mühldorf, Filialkirche St. Katharina
+|danach=Neufahrn, Filialkirche St. Rupert
+|AutorIn1=Böhm, Cordula
+}}
+
+Votivkapelle, Stadt Mühldorf, Eichkapellenstraße, Pfarre St. Peter und Paul, Erzdiözese München und Freising. Die Kapelle ist in staatlichem Besitz. Z. Z. der Ausmalung dem Kollegiatstift St. Nikolaus in Mühldorf inkorporiert; Erzbistum Salzburg.
+
+'''Patrozinium:''' Schmerzhafte Muttergottes
+
+'''Zum Bauwerk:''' Etwa an der Stelle einer hölzernen Kapelle bei einer Eiche wurde 1698/99 ein Neubau errichtet. Baumeister war Domenico Cristoforo Zuccalli, der 1693/97 in Mühldorf, danach in Burghausen ansässig war. Am 22.3. 1698 wurde von Salzburg die Baugenehmigung erteilt, am 20.6. 1698 wurde mit Zuccalli der Vertrag geschlossen, am 1.8.1699 war der Bau vollendet. Weihe am 4. 10. 1700.
+<!-- citation-page-bottom: Band08 p183 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=18 -->
+<!-- citation-page-top: Band08 p184 -->
+
+<!-- header: MUHLDORF -->
+
+
+[[File:Band08_chunk004_p018_img001.jpg|thumb]]
+
+
+
+[[File:Band08_chunk004_p018_img002.jpg|thumb|Maria-Eich-Kapelle]]
+
+
+Annähernd ovaler Zentralraum (6,40×6,00 m), an den an den Stirnseiten der eingezogene, einjochige halbrund geschlossene Chor und im W ein Vorraum anschließen. Gliederung durch Pilaster. Belichtung durch je ein Fenster von N und S.
+
+'''Auftraggeber:''' Achaz Cajetan Hellsperger, 1680/84 Benefiziat in Ecksberg, 1684/99 Kanoniker und Kurat am Kollegiatstift. Hellsperger hatte 1683/84 schon den Neubau der Kirche in Ecksberg mit D. Zuccalli durchgeführt. Seit 1693 beschäftigte er sich mit dem Neubau der Eichkapelle; in einer erzbischöflichen Urkunde wurde er als Stifter und Alleinverantwortlicher des Bauvorhabens bestätigt. Er erwarb auch den Grund. Nach seinem Tod am 29.3.1699 wurde die Kapelle mit dem Grund dem Kollegiatstift Mühldorf inkorporiert.
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, um 1700. Angesichts der sehr einfachen, aber auch stark überarbeiteter Darstellung erübrigt sich die Frage nach einem Autor. In Mühldorf gab es um 1691/1701 keinen Maler. Wolfgang Spag war 1691 gestorben, bis 1701, als der Schwiegersohn Karl Fechtl die Werkstatt übernahm, führte die Witwe Anna Spag die Werkstatt.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: sechsteiliges Kuppelgewölbe mit unregelmäßiger Gurtanordnung und mit vier seitlichen Stichkappen
+
+Rahmen: Gemalte Rahmung Technik: Fresko; polychrom Maße: Höhe 6,50 m; ø 1,30
+
+Erhaltungszustand und Restaurierungen: Restaurierungen fanden 1899, 1955/57, 1976/79 statt. Das Deckenbild ist überarbeitet und kann nur noch als Restaurationsmalerei gelten.
+
+
+== Darstellung ==
+
+
+HIMMELFAHRT MARIENS Den Scheitelpunkt des 6teiligen Kuppelgewölbes schmückt ein kreisrundes Medaillon mit einem breiten gemalten Rahmen aus Rosengirlanden. In einer Lichtglorie schwebt Maria im roten Kleid mit gelbem, blauunterfüttertem Mantel. Drei Putten zu ihren Füßen tragen sie empor.
+
+
+== Literatur ==
+
+
+Kupferschmied, Thomas Johannes, Das barocke Mühldorf, in: Mühldorf, Stadt am Inn, Mühldorf 1995, S. 239 f.
+
+Reindl-Witt, Irmengard, Biographische Notizen zum Mühldorfer Barockmaler Paul Kurz, in: Das Mühlrad 39, 1997, S. 175 f.
+
+-, Die Eichkapelle Mater Dolorosa in Mühldorf, in: Das Mühlrad 42, 2000, S. 3–22 (mit Quellen). C. B.
+
+{{End}}
