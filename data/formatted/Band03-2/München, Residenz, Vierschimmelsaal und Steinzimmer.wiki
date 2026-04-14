@@ -26,7 +26,7 @@ Die Steinzimmer, 1944 zerstört, wurden bis 1973 rekonstruiert.
 == I Vierschimmelsaal ==
 
 Ursprüngliche Raumform  
-Saal zu ca. 17,50 × 14,70 m, drei Fenster nach N zum Hofgarten, eines nach S zum Kaiserhof. Die Fenster hatten die gleiche Form wie die des Kaisersaals: doppelt, mit darüberliegenden doppelten Rundfenstern. Zwei Portale führten in den im O anschließenden Kaisersaal, eines nach S als Eingang in die Steinzimmer-Flucht und eines nach W auf den Vorplatz der Steiningertreppe. – Gesims und Fries aus weißem, teils vergoldetem Stuck mit figürlichem Relief. Marmorpflaster. Großer, bunter Majolikaofen mit figürlichen Aufsätzen an der O-Wand, Kamin mit Stuckmarmoraufbau an der W-Wand. Über dem Kamin befand sich eine große Stuckmarmoreinlegearbeit (Scagliola), die in perspektivischer Verkürzung eine komplizierte architektonische Anlage zeigte und besonders hoch geschätzt wurde {ZITAT|009}} (Pistorini, fol 34; vgl. Tagebuch Meazza, S. 48f. und Beauveau, S. 430).
+Saal zu ca. 17,50 × 14,70 m, drei Fenster nach N zum Hofgarten, eines nach S zum Kaiserhof. Die Fenster hatten die gleiche Form wie die des Kaisersaals: doppelt, mit darüberliegenden doppelten Rundfenstern. Zwei Portale führten in den im O anschließenden Kaisersaal, eines nach S als Eingang in die Steinzimmer-Flucht und eines nach W auf den Vorplatz der Steiningertreppe. – Gesims und Fries aus weißem, teils vergoldetem Stuck mit figürlichem Relief. Marmorpflaster. Großer, bunter Majolikaofen mit figürlichen Aufsätzen an der O-Wand, Kamin mit Stuckmarmoraufbau an der W-Wand. Über dem Kamin befand sich eine große Stuckmarmoreinlegearbeit (Scagliola), die in perspektivischer Verkürzung eine komplizierte architektonische Anlage zeigte und besonders hoch geschätzt wurde »una stupendissima Prospettiva di Palagio, dentro al quale si vedono sale, et altre stanze soffittate, e Balchionate dentro le quali si mirano stanze, Tavole, Tavolini, Sedilli ... et Loggie, Archi, Colonne; e fuori da le fenestre mirans verdure, e diverse Architetture d'altri Palagi e Tempii ...« (Pistorini, fol 34; vgl. Tagebuch Meazza, S. 48f. und Beauveau, S. 430).
 
 == Heutige Raumform ==
 
@@ -592,7 +592,7 @@ Die Erweiterung des maximilianischen Programms um die Embleme (II<sub>a-d</sub>)
 
 III Zweites Steinzimmer, sogenanntes Zimmer der Welt (Johann Anton Gumpp)
 
-Die Form des Mittelbildes im ersten Zustand könnte ähnlich wie die des zweiten gewesen sein: ein Hochrechteck mit seitlich angeschobenen Halbkreisen. {ZITAT|000} berichtet Pistorini (fol. 36 v). In den übrigen
+Die Form des Mittelbildes im ersten Zustand könnte ähnlich wie die des zweiten gewesen sein: ein Hochrechteck mit seitlich angeschobenen Halbkreisen. »Nel mezzo di questo soffitto stà disposto, e compartito Circolo quadro, ma che tira al lungo« berichtet Pistorini (fol. 36 v). In den übrigen
 
 
 [[File:Band03-2_chunk007_p009_img002.jpg|thumb|III Der Mensch als Beherrscher der Welt (verschollen)]]
@@ -1014,7 +1014,7 @@ Johannes Kepler, der die Gesetze der Planetenbewegungen um die Sonne erforschte,
 
 Die Planeten im Vierschimmelsaal waren, der Bildtradition folgend, als die antiken Götter dargestellt, durch die sie verkörpert werden: Luna durch Diana mit Hirsch, Pfeil und Bogen, Merkur mit dem Caduceus und dem Hahn, Venus, die Amor Pfeil und Bogen nimmt, Mars mit Waffen, Jupiter mit Adler, Zepter und Krone sowie Saturn mit Sichel und Sanduhr.
 
-Die Zuordnung der Tageszeiten (I<sub>1-4</sub>) zu der Sonne ist bei Ripa erläutert (s. v. giorno naturale): {ZITAT|000}.
+Die Zuordnung der Tageszeiten (I<sub>1-4</sub>) zu der Sonne ist bei Ripa erläutert (s. v. giorno naturale): »tutti quattro giunti insieme fanno il giorno naturale, che è tutto quel tempo, che consuma il Sole il girare una volta sola tutto 'l cielo ...«.
 
 Die vier Tondi in den Ecken mit den vier Triaden der Grazien (I<sub>c</sub>), Horen (I<sub>d</sub>), Gesetz, Gerechtigkeit und Friede (Ia) und den Wachstumsgöttern Ceres, Bacchus und Pomona (I<sub>b</sub>) sind eine Bilderfindung, die auf dem Werk des Neuplatonikers Proclus Diadochus († 485 Athen) basiert.
 
@@ -1032,11 +1032,11 @@ Es ist zu vermuten, daß in der Anordnung der Bilder im Vierschimmelsaal die Sym
 
 Die Erde selbst ist, obwohl längst als Planet erkannt, in der Planetenreihe des Vierschimmelsaals nicht vertreten. Ihre besondere Stellung im Heilsplan Gottes bedingt, daß sie aus der naturwissenschaftlichen Ordnung herausgenommen und in die heilsgeschichtliche Ordnung gestellt ist; dieser heilsgeschichtlichen Ordnung sind die Decken der sechs Steinzimmer gewidmet, die sich mit der Erde befassen, sie aber in Rückgriffen immer wieder als in die kosmische Ordnung eingebunden zeigen.
 
-Im Ersten Steinzimmer wird die sublunare Sphäre abgehandelt, der Elemente und Winde angehören, ebenso wie die Erde, die als noch von Menschen unbewohnt dargestellt ist. Bei der Hauptfigur des trauernden Pan (II) dürfte das Motiv der Trauer des Naturgottes für die Deutung wichtig sein. Während ewige Gesetze die Gestirne lenken, ist das nicht erlöste Leben auf der Erde dem Fatum unterworfen: {ZITAT|001} (Forstner, S. 106). Vom Fatum bestimmt ist die Trauer der Götter {ZITAT|002} (Walter Rehm, Götterstille und Göttertrauer, München 1951, S. 144 f.).
+Im Ersten Steinzimmer wird die sublunare Sphäre abgehandelt, der Elemente und Winde angehören, ebenso wie die Erde, die als noch von Menschen unbewohnt dargestellt ist. Bei der Hauptfigur des trauernden Pan (II) dürfte das Motiv der Trauer des Naturgottes für die Deutung wichtig sein. Während ewige Gesetze die Gestirne lenken, ist das nicht erlöste Leben auf der Erde dem Fatum unterworfen: »Die Sphäre der Luna ist die Grenzscheide zwischen der Himmelssphäre und der dunklen, vom Fatum bestimmten Erdenregion« (Forstner, S. 106). Vom Fatum bestimmt ist die Trauer der Götter »über den Tod und die Vergänglichkeit des Schönen, dem sie nicht Einhalt gebieten konnten« (Walter Rehm, Götterstille und Göttertrauer, München 1951, S. 144 f.).
 
-Pan selbst tritt als Verkörperung der gesamten Natur auf und wurde auch wegen seines Namens (πὰν = Alles) immer so begriffen: {ZITAT|003} (Valeriano, Lib. 49, s.v. Pan u. Par.).
+Pan selbst tritt als Verkörperung der gesamten Natur auf und wurde auch wegen seines Namens (πὰν = Alles) immer so begriffen: »Pan omne, universum quippe ... naturam significet« (Valeriano, Lib. 49, s.v. Pan u. Par.).
 
-Im Zweiten Steinzimmer tritt der Mensch als Herr der Welt auf. Die besondere Stellung der Erde im Universum basiert darauf, daß Gott sie als Aufenthaltsort für sein Ebenbild, den Menschen, erwählt hat. Der Psalmentext, aus dem die Bildinschrift stammt und auf den sie damit hinweist, liegt dem Programm dieses Zimmers zugrunde: {ZITAT|004} (Ps 8, 4–9).
+Im Zweiten Steinzimmer tritt der Mensch als Herr der Welt auf. Die besondere Stellung der Erde im Universum basiert darauf, daß Gott sie als Aufenthaltsort für sein Ebenbild, den Menschen, erwählt hat. Der Psalmentext, aus dem die Bildinschrift stammt und auf den sie damit hinweist, liegt dem Programm dieses Zimmers zugrunde: »Ich schaue den Himmel, das Werk deiner Finger, den Mond und die Sterne, die du geschaffen: Was ist der Mensch, daß du seiner gedenkest! Des Menschen Sohn, daß du Sorge tragest um ihn! Du hast ihn fast zu einem Gotteswesen gemacht, und hast ihn gekrönt mit Glorie und Glanz. Du hast ihm Macht gegeben über das Werk deiner Hände, alles hast du ihm zu Füßen gelegt: All die Schafe und Rinder und die Tiere des Feldes, Die Vögel des Himmels und die Fische im Meer und alles, was dahinzieht die Pfade der Meere« (Ps 8, 4–9).
 
 Der Bildinhalt des zweiten Steinzimmers impliziert damit die Darstellungen der beiden vorhergehenden Räume: Gott wird als der Schöpfer des Himmels (Vierschimmelsaal) und der Erde (Erstes Steinzimmer) apostrophiert ebenso wie als Schöpfer und Herr des Menschen (Zweites Steinzimmer). Ohne daß Gott im Bild selbst erschien, bahnte sich damit im Gesamtprogramm die eschatologische Zentralaussage an.
 <!-- citation-page-bottom: Band03-2 p331 -->
