@@ -1,0 +1,943 @@
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=49
+|Originalseitenbis=104
+|Lemma=Ingolstadt, Kongregationssaal Maria de Victoria
+|Typ=Sakral
+|Ort=Ingolstadt
+|davor=Ingolstadt, Franziskanerklosterkirche, Naskapelle
+|danach=Ingolstadt, Alte Anatomie
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Langenstein, Eva
+}}
+
+== KONGREGATIONSSAAL MARIA DE VICTORIA ==
+
+Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt Neubaustraße 3
+
+
+Ehemaliges Oratorium und Kongregationssaal der Marianischen oder Großen Lateinischen Kongregation (Congregatio Maior Latina); seit 1804 Bruderschaftskirche der Bürgerkongregation > Maria vom Siege (Maria de Victoria).
+
+'''Patrozinium:''' Maria de Victoria, bis 1804 Maria Verkündigung (Annuntiatio Beatae Mariae Virginis)
+
+Zur Geschichte: In der Chronologie der Kongregationsgründungen im deutschsprachigen Raum steht Ingolstadt an dritter Stelle, nach Köln und Dillingen. »Der Einfluss dieser Kongregationen und ihre die Lebenshaltung insgesamt formende Kraft wird kaum hoch genug veranschlagt werden können. Bei regelmäßigen Zusammenkünften fanden Kolloquien, Andachten, die wohl oft durch musikalische Darbietungen umrahmt oder begleitet sein konnten, Vorträge und die so genannten Meditationes, d. s. geistliche Schauspiele und geistliche Übungen statt. Dazu kam im 18. Jahrhundert noch die jährliche Verteilung der »Xenien«, nämlich belehrender und erbauender Literatur. Die Sodalen übernahmen karitative Tätigkeiten, und für die Ferien gab es externe Beschäftigungen, die man heute als >Sozialarbeit bezeichnen würde« (Rupprecht 1974, S. 248).
+
+Auf Anregung von Petrus Canisius war in Ingolstadt Ende 1577 eine Akademische Marianische Kongregation mit dem Patrozinium Mariä Opferung gegründet worden. Stark angestiegene Mitgliederzahlen führten bereits 1578 zur Aufteilung in die Congregatio Maior Latina für die Studenten und die Congregatio Minor Latina für die Gymnasiasten. Die durch die Bulle von 1584 erforderliche Neugründung der Großen Lateinischen Kongregation unter dem Patrozinium Mariä Verkündigung erfolgte 1586. Der Versammlungsraum befand sich vor dem Neubau im so genannten Albertinum, einem 1582-85 unter Herzog Wilhelm V. für Konvikt und Gymnasium errichteten Bau, der mehrfach verändert im Komplex der ehemaligen Jesuitenbauten heute noch erhalten ist. 1612 wurde die Bürgerkongregation > Maria vom Siege« gegründet. Nach der Aufhebung des Jesuitenordens 1773 bestand die Kongregation zunächst noch weiter. Erst die fortschreitende Verstaatlichung der Universität und schließlich ihr Umzug nach Landshut brachte die Auflösung. Am 10. 1. 1803 überließ Kurfürst Max IV. Joseph den Bau der Stadt als Eigentum, die ihn am 8.6.1804 der Bürgerkongregation zur Benützung übergab. Vermögen und Inventar der Kongregation erhielt das Georgianum in München.
+
+'''Zum Bauwerk:''' Der Kongregationssaal wurde – ähnlich wie in anderen Städten - als eigenständiges Bauwerk in unmittelbarer Nähe des Jesuitenkollegs errichtet. Er diente als festlicher Versammlungsraum, in dem auch gelehrt und Theater gespielt wurde, und war gleichzeitig Hauskirche der Kongregation mit einem geweihten Altar, an dem an bestimmten Tagen die Heilige Messe gefeiert wurde.
+
+
+[[File:Band14_chunk001_p025_img001.jpg|thumb|W<sub>1-12</sub> Heilige in Marienvisionen (G.B. Göz, Christoph Thomas Scheffler, Johann Georg Wolcker, Melchior Puchner 1749/5]]
+<!-- citation-page-bottom: Band14 p49 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=1 -->
+<!-- citation-page-top: Band14 p50 -->
+
+== INGOLSTADT KONGREGATIONSSAAL ==
+
+Einige Baudaten überliefern die ›Litterae annuae‹: Am 30.4. 1732 erfolgte die feierliche Grundsteinlegung, ungewöhnlicherweise durch vier Ecksteine. Nach einer feierlichen Prozession von der Jesuitenkirche zum Bauplatz legte Maximilian Ferdinand Ignaz von Plank, Pfarrer der Pfarrei ›Unserer schönen lieben Frau‹ (Beata Virgo Speciosa), als damaliger Rektor der Universität und Vertreter der theologischen Fakultät den ersten Eckstein. Anschließend legten die Dekane der drei übrigen Fakultäten die anderen drei Ecksteine und schließlich stimmte der Pfarrer von St. Moritz, der Theologieprofessor und mehrmalige Rektor Johann Joseph Anton Hertel, das ›Te Deum‹ an.
+
+»... Oratorio denique e fundamentis erecto... huius lapis primus angularis maiori ut solennitate poneretur, pridie Calendas Maias in templo nostro solenne celebravit officium... Dominus Parochus ad B. V. Speciosae... Praecedente Gymnasio cum Congregatione maiore academica, et sequentibus Dominis Dominis Academicis facile quingentis ... post officium per urbem ad novi aedificii aream cantatas inter Litanias Laurethanas processimus. Ab eodem, qui officium celebravit, tunc tempori Rectore Magnifico positus est lapis angularis, D. D. Illustribus cum toto Senato academico praesentibus. Reliqui tres Lapides angulares positi a totidem facultatum Decanis... A Domino ad S. Mauritii parocho Hymnus Ambrosianus denique subiunctus est . . . « (s. dazu eine Chronik Ingolstadts, BSB Cgm 2001, fol. 40: »1732 legten die 4. Universitäts-Facultäten den ersten Stein zu einem neuen prächtigen Oratorium der grösseren Congregation unter dem Titel Maria Verkündigung. Dieser Marianische Saal ist wohl sehenswürdig, behauptet seine Stelle zwischen der Jesuiten Kirch, und dem Kosthaus S. Franc. Xaverij«).
+
+Anfang Mai begannen die Arbeiten am Bau, am 6.8. 1732 waren die Außenmauern aufgemauert, der Dachstuhl wurde aufgesetzt und das Dach gedeckt: »Tota fabrica ad initium Maii excitari coepta ad tectum perducta est 6. Augusti, ad perfectum decorem perducendam, ubi piam Sodalium libertalitatem magis excitaverit« (Litterae Annuae 1732, S. 1–7).
+
+1733 muss die Flachdecke über der hohen Hohlkehle eingezogen worden sein; der Außenbau wurde verputzt und mit farbigem Stuck versehen: »Novum huius Oratorium anno priori excitatum, faciem modo externam a gypso mixtisque coloribus induit sane pulcherrimam, cui et interior respondeat cum tempore pretiosas Artificium, et Liberales Sodalium manus exspectat«: Bald werde auch das Innere dem schönen Außenbau entsprechen, man erwarte prächtige Leistungen von Künstlern und zähle auf freigebige Spenden aus den Reihen der Sodalen (Litterae Annuae 1733, S. 8).
+
+Im Jahr 1734 begann die Innenausstattung mit Stuck und Fresken: »Aedem suam novam, quam exstruxit... artificioso gypso pretiosisque picturis exornare coepit, spemque gerit plurimam, autumno proximo molimen universum a glorioso fine haud procul abfuturum«: Das neue Gebäude werde bereits mit kunstvollem Stuck und kostbaren Bildern ausgeziert; man hoffe bestimmt, dass im nächsten Herbst das ganze Unternehmen von der Vollendung nicht weit entfernt sein werde (Litterae Annuae 1734, S. 2). 1735 wurde in der Tat die Innendekoration verfertigt und das große Fresko in den Litterae Annuae beschrieben (s. S. 60). Den prachtvollen blausilbernen Altarbaldachin schuf Egid Quirin Asam im gleichen Jahr (s. den Besuch der kurfürstlichen Familie am 21. 8. 1735, S. 54). Für das Jahr 1736 berichten die Litterae Annuae (S. 1–5) von der baulichen Fertigstellung des Saals durch einen Fußboden in marmorner Einlegearbeit. Das im Vergleich zur Kolossalordnung der Fassade eher zierliche Portal mit den flankierenden Marmorsäulen wurde errichtet. Im Saal selbst begann die Schreinerarbeit mit dem Innenportal und den Bänken: »... Haec porro fabrica, ut exteriori etiam facie interiorem Majestatem angustius loqueretur, erecta hoc anno est porta amplior sane pretiosa. Despicit illa supercilio amoene superbo prostantes utrinque marmoreas columnas, invitatque istam in aedem frequentem hospitem, quo primam ianuam ingresso, altera<br>se aperit opere scriniario ad insignem artis commendationem recens elaborata. Confecta denique Scamna, et instratum lapide variegato pavimentum totam fabricam perfecerunt.«.
+<blockquote>Als der Bau soweit fertig gestellt war, erfolgte der feierliche Einzug der Kongregation in den neuen Saal am ersten Juli 1736: Nachmittags um vier Uhr zog man in einer Prozession, an der neben den Sodalen höchste Würdenträger teilnahmen, aus der Aula des Gymnasiums, wo die Kongregation bis dahin zu Gast war, zum Oratorium; die Feierlichkeiten dauerten bis zum 3. Juli, an dem aller Wohltäter gedacht wurde. »Itaque in aedem novam hoc modo immigravimus. Prima Julii e Gymnasii Aula, quam tot annis incoluimus, quarta hora pomeridiana ad Oratorium processimus. Praeibat frequens sodalium numerus, non ordine quam pietate majore. Sequebatur hos ipsum magnificum caput, ambiente utrumque latus nobilitate illustre. Proximi ibant Amplissimi Academiae Patres; Senatum hunc civicus excepit, agmen claudente Venerabile utriusque Parochiae Clero, tubis, et tympanis interea devotionem pie animantibus. Decantatis sub in precibus Lytaneuticis dies finitus. Altera, visitantis Virginis luce distributa est Sodalibus Sacra Synaxis, cantato circa decimam Officio. A prandio dictam a Praeside primam hac sacra in aede exhortationem Hymnus Ambrosianus excepit. Die denique tertia, pro iis qui nostrae fabricae molem vel opera promoverunt vel consilio, aut munifica etiam liberalitate sustentarunt, oblatum a Praeside est solenne Officium, quo simul finito toti festvitati finis imposi-«</blockquote>
+
+Eine feierliche Weihe des Oratoriums ist nicht überliefert. Kongregationssäle wurden »im Regelfall nicht wie große Kirchen feierlich vom Bischof geweiht (konsekriert), sondern lediglich durch einen bevollmächtigten Priester benediziert« (Hofmann 1986, S. 41). Als Datum der Benedizierung wird wohl mit Recht der erste Tag der oben beschriebenen dreitägigen feierlichen Inbesitznahme durch die Kongregation angenommen, der erste Juli 1736. Der Altar war zwar noch nicht vollendet, aber der Gottesdienst des folgenden Tages konnte auch auf einem ›altare portatile‹ gefeiert werden.
+
+Als Baumeister des Kongregationssaales gilt der Ingolstädter »Statt- und Collegi Maurermeister« Michael Anton Prunnthaler, der selbst der Bürgerkongregation angehörte. Der etwas dünne und kleinteilige Stuck am Außenbau stammt von Wolfgang Zächenberger, der aus Straßwalchen in Oberösterreich stammte, 1722 in Ingolstadt als Stuckator ansässig wurde und später als Bildhauer tätig war (Hofmann 1986, S. 43). Als Stuckator des Innenraums ist Egid Quirin Asam zwar quellenmäßig belegt, doch konkrete Ausführungen seines Werks sind nur in Fragmenten überliefert.
+
+[[File:Band14_chunk002_p001_img001.jpg|thumb|Der Kongregationssaal nach Westen]]
+<!-- citation-page-bottom: Band14 p51 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=2 -->
+<!-- citation-page-top: Band14 p52 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+
+[[File:Band14_chunk002_p001_img001.jpg|thumb]]
+
+
+mäßig nicht belegt, aber mit Sicherheit anzunehmen; von ihm stammt auch der viel bewunderte Baldachinaltar.
+
+Die Ausstattung des Saals zog sich noch weitere Jahre hin. 1737 entstanden die geschnitzten und reich intarsierten Wandschränke seitlich des Altars (datiert und signiert Uhrbann vom Ingolstädter Kistler Ferdinand Urban), 1740 die Sakristeitüren, 1749 und 1752/53 die Wandbilder und 1755 die Wandbzw. Professorenstühle an den Seitenwänden (Litterae annuae 1753, 1754, 1755, zitiert bei Hofmann 1986, S. 166f.; Schreinerarbeit Michael Vogl, Gürtlerarbeit Anton Hofkofler. Zu den Wandbildern s. S. 69–104). Der neue Hochaltar wurde am 23. Juli 1759 geweiht (Datierung auf dem Altarstein); als Altarblatt wurde das des alten Altars verwendet, eine Darstellung der Verkündigung an Maria von dem Landshuter Maler Franz Geiger (signiert und datiert 1675). Die Altarskulpturen, Werke des Dillinger Bildhauers Johann Michael Fischer, wurden 1760 aufgestellt. Die Wangen des heutigen, im übrigen erneuerten Gestühls dürften aus dem Saal der Bürgerkongregation stammen und damit Werke des Ingolstädter Schreiners Bernhard Karg von 1728 sein.
+
+Freistehender, gewesteter Rechteckbau mit Satteldach, das im Westen abgewalmt ist. Ostfassade mit Volutengiebel. Im Innern ist dem Saal der durch ein kleines liegendes Ovalfenster spärlich belichtete Eingangsraum vorgelagert (7,95 × 5,80 m), der zu etwa zwei Dritteln seiner Grundfläche von einer dreiseitig ansteigenden Treppenanlage eingenommen wird, die in gerader Richtung über acht Stufen nach oben zum Eingang des Saales führt. In den über nur zwei Stufen erreichbaren seitlichen Anräumen sind Sakristei und Paramentenkammer (heute Museum) untergebracht.
+
+Der Saal selbst ist ein lang gestreckter einfacher Rechteckraum (32,30 × 15,35 m), in den im Erdgeschoss der Eingangsseite zwei Räume einschneiden, die Sakristei (SO) und die Paramentenkammer (NO); darüber befinden sich im Obergeschoss Oratorien mit geschnitzten Brüstungsgittern und zwischen ihnen die zum Saal offene Orgelempore. Der Saal hat sechs Fensterachsen auf der Nord- und Südseite, die als hohe Nischen mit zwei übereinander liegenden Fenstern ausgebildet sind. Breite Leibungen dienen als Reflektoren der Durchlichtung des Raumes. Die Wand ist ohne horizontale Unterbrechung in eine reich ornamentierte Hohlkehle überführt, die zum Fresko hin mit einem weißen Stuckprofil abschließt. In den Ecken befinden sich reich ausgestaltete, inhaltlich auf die Erdteile in den Ecken des Deckenbildes bezogene Stuckkartuschen. Der Stuckaltar in Weiß und Gold wird von einem Stuckbaldachin hinterfangen, der eine blausilberne gemusterte Stoffdraperie imitiert.
+
+'''Auftraggeber:''' Auftraggeber war die Kongregation, vertreten durch ihren Präses, der dem Jesuitenkolleg Ingolstadt angehörte. 1728/29–32 war der Theologieprofessor Franciscus Fegely von Seedorf SJ (* 1691 † 1758 Schwetzingen) Präses. Er wurde ein knappes halbes Jahr nach Baubeginn als Erzieher des späteren Kurfürsten Karl Theodor (* 1724) nach Drogenbusch bei Brüssel abberufen. Er scheint den Neubau maßgeblich betrieben zu haben, denn die Beischrift zu seinem Porträt im Collège Saint-Michel in Fribourg nennt ihn Erbauer des Saals in Ingolstadt: »Ingolst., ubi Odeon Marianum construxit«. In den Kollegjahren 1733/34 und 1734/35, also zur Zeit der Ausmalung des Saals, war P. Franciscus Halden SJ (* 1689 Innsbruck † 1740 Regensburg) Präses der Kongregation. Er war Professor für Dogmatik in Ingolstadt. Haldens Nachfolger als Präses der Bruderschaft wurde 1735/36 Georg Hermann SJ (* 1693 Schwandorf † 1766 Regensburg), seit 1732 Professor für Theologie in Ingolstadt. Als Hermann 1740 von Ingolstadt als Leiter des Noviziats nach Landsberg abberufen wurde, stiftete er die beiden Sakristeitüren (Inschrift MDCCXXXX und Sy Pr Pa Ge/HeRMAn; vielleicht: Societatis Praeses Pater Georg Hermann).
+
+Georg Hermann kehrte 1747 nach Ingolstadt zurück; er war ab 1751 Rektor des Kollegs und zunächst Socius des Provinzials der Oberdeutschen Ordensprovinz, von 1754 bis 1759 selbst Provinzial. Nach einem Zwischenaufenthalt in München als Rektor des dortigen Kollegs war er 1762–65 wieder Rektor des Kollegs in Ingolstadt und schließlich bis zu seinem Tod 1766 erneut Provinzial. Unter seinem Rektorat entstanden im Kongregationssaal die 12 großen Ölgemälde, die Wandstühle und der Altar.
+
+Da Hermann sich mit grundsätzlichen Fragen zur Menschwerdung Christi beschäftigte, ist seine Mitwirkung am Entwurf des Bildprogramms im Saal anzunehmen (s. S. 193).
+
+'''Autor und Entstehungszeit:''' Cosmas Damian Asam (* 1686 Benediktbeuern † 1739 München) 1735
+
+Andreas Felix von Oefele (* 1706 † 1780) überliefert: »Asam pinxit Congregationem Majorem ingolstadij: tholus quadratus, architectura templi et in eo D: Virg: est opus Asami duobus mensibus confecta. sol sein meister Stuck sein« (BSB Oefeleana 5/VI, fol. 36r). Auf dem Verso der Seite notiert Oefele: »Asam pinxit laqueare maximum quod videtur latè et longè in Bav: in congregatione Latina Ingolstadij repraesentat gloriam D:V: cum innumeris parergis. Petivit decem millia florenorum, accipit quinque millia ea conditione/: pro more suo :/ut tanquam benefactor remisisse reliqua inscriberetur« (Asam malte die größere Congregation in Ingolstadt: Das rechteckige Gewölbe, die Architekturmalerei des Tempels und in ihm die Jungfrau ist das Werk Asams, das er in zwei Monaten fertig stellte. ... Asam freskierte das Größte, was weit und breit in Bayern zu sehen ist. In der Lateinischen Kongregation in Ingolstadt stellt er die Glorie der Jungfrau dar mit zahllosen Einzelheiten [Parergon = Beiwerk]; er verlangte zehntausend Gulden, gab sich dann mit 5000 zufrieden unter der Bedingung [wie es seine Art ist], dass er als Wohltäter eingeschrieben werde, da er auf den Rest verzichtet habe). Die zunächst kaum glaubhafte Nachricht, Asam habe das Riesenwerk in zwei Monaten geschaffen, wurde durch die Untersuchungen und
+
+
+[[File:Band14_chunk002_p002_img002.jpg|thumb|Das etwa 400 Quadratmeter große Deckenbild des Kongregationssaals]]
+<!-- citation-page-bottom: Band14 p53 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=3 -->
+<!-- citation-page-top: Band14 p54 -->
+
+Zählung der Tagewerke bei der letzten Restaurierung bestätigt. Interessant ist, dass Oefele als übliches Vorgehen Asams (mos suus) seinen Verzicht auf einen Teil der zuerst geforderten – und vermutlich auch akkordierten – Summe nennt: Seine Bedingung war, dass dies als Spende gesehen und gewürdigt werde. Auf dieses Bestreben Asams, als Wohltäter aufzutreten, bezieht sich auch das Motto, das Oefele über das Kapitel >Cosmas Damian Asam« setzte: {ZITAT|000} (ebda).
+
+Zu dieser Frage äußert sich Rupprecht: {ZITAT|001} (Rupprecht 1986, S. 16).
+
+Die genauere Entstehungszeit des Deckenbildes geht aus den >Litterae annuae« von 1734 hervor: {ZITAT|002} (Sein neues Gebäude, das er [= der Rektor] gebaut hat, begann er innen mit kunstvoller Stuckarbeit und kostbaren Bildern zu schmücken und hegt die Hoffnung, dass bis zum nächsten Herbst die ganze Anstrengung von ihrem glorreichen Ende nicht mehr weit entfernt sein wird). Die Arbeit an der Innendekoration war also noch 1734 begonnen worden und sollte bis zum Herbst 1735 fertig sein. Da die Stuckierung der Rahmenzone der Ausmalung in der Rege vorausging, dürfte das Frühjahr 1735 als wahrscheinliches Datum der Freskierung anzunehmen sein. 1734 hatte Asam den Landhaussaal in Innsbruck, außerdem St. Anna im Lehe in München freskiert. Im Herbst 1735 arbeitete Asam bereits an der Freskierung von St. Niklas in der Altstadt in Prag (Vilimková in Asam 1986, S.79).
+
+Am 21.8.1735 besuchte die kurfürstlich bayerische Familie anlässlich eines längeren Aufenthalts in Ingolstadt das Jesuitenkolleg und besichtigte den Saal, wo allerdings der blausilberne Altarbaldachin die größte Bewunderung fand. Im Jahresbericht 1735 wird in den ›Litterae annuae« dann das ausgeführte Deckenfresko beschrieben (s. u.).
+
+{ZITAT|003} (Rupprecht 1974, S. 286).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A und B (Vorhalle und Saal) Flachdecke (verputzte Bretterdecke) über Hohlkehle
+
+Rahmen: A Vergoldeter Bündelstab, von weißen Bändern und Blütenranken umwunden, durch begleitende weiße Rahmenornamente vom brokatierten Grund abgehoben. B Den inneren Rahmen bildet ein gemaltes einfaches weißes Stuckprofil, darauf folgt die Stuckrahmung durch einen vergoldeten, von einem Band und einer Blumengirlande umwundenen Bündelstab. Darunter setzt die reich ornamentierte Hohlkehle an. Die Ecken sind durch vergoldete Stuckmotive akzentuiert, die thematisch von dem jeweils in dieser Ecke dargestellten Erdteil bestimmt sind (s. S. 79).
+
+Technik: Fresko; A zweifarbig in Grauviolett- und Ockertönen; B polychrom
+
+Maße: A Höhe 5,70 m; Ø 4,60
+
+B Höhe 10,65 m; 29,70 × 12,70; östliche Ausbuchtung über der Empore mit der darunter liegenden Eingangshalle 8,30 × 3,35 m
+
+Erhaltungszustand und Restaurierungen: Ab 1859 plante man die erste bekannte Restaurierung des Saals, wozu der Ingolstädter Bürger Anton Leis 2000 fl. stiftete; der Münchner Kunstmaler Eggart war zunächst für die Restaurierung der 13 Ölgemälde vorgesehen, starb aber während der langwierigen Verhandlungen. Diese Restaurierung wurde ab 1866 durchgeführt. Die Ölgemälde restaurierte der Konservator der königlichen Gemäldesammlungen A. Frey, die Fassung der Raumschale besorgte der Ingolstädter Maler Leonhard Mangold; der Saal wurde getüncht, die originalen Vergoldungen wurden bis auf Reste entfernt und durch Ölgold ersetzt (Hauptmann 1977, S. 56f.). Das Deckenbild wurde damals nicht in die Restaurierungsarbeiten einbezogen (Haas 1949 S. 6).
+
+Im Zweiten Weltkrieg erlitt der Kongregationssaal nur verhältnismäßig leichte Schäden am Dach und an den Fensterverblechungen, aber die Fenster und Fensterrahmen waren fast vollständig zerstört. Nach den Notreparaturen nahm die Stadt Ingolstadt schon 1947 eine gründliche Wiederherstellung des Kongregationssaales in Angriff. Die ersten Arbeiten ab 1947, an denen Kirchenmaler Georg Löhnert aus Ingolstadt entscheidend beteiligt war, galten dem Innenraum, der von den Restaurierungseingriffen des 19. Jh. befreit werden musste. Die Deckenbilder selbst befanden sich in recht gutem Zustand und hatten außer teilweise bereits gekitteten und retuschierter Haarrisse keine Schäden. Georg Löhnert reinigte die Bilder mit Brot, besserte die Risse aus, brachte aber keine Übermalungen an. In Saal, Vorhalle und Sakristei wurde der Stuck neu gefasst. Die Ölvergoldungen von 1866 wurden 1947/51 mit Mordantgold übergangen.
+
+Vor der nächsten Restaurierung 1976 waren Schäden an Putz und Stuck des Innenraums aufgetreten, verursacht durch aufsteigende Feuchtigkeit. Auch der Außenputz und -Stuck waren schadhaft. Keller und Fundamente wurden entfeuchtet. Bei den Dachreparaturen stellte sich heraus, dass der Dachstuhl selbst zwar in Ordnung war, der Dachfuß aber ernste Schäden zeigte. Die Balkenköpfe waren an den Auflagern verfault, was stellenweise schon Schäden im Gesimsbereich des Innern verursacht hatte. Die modernen Balkenfüße wurden durch seitlich angebrachte Bretter verfestigt und die Dachkonstruktion damit vorläufig repariert.
+
+Nach Voruntersuchungen im Herbst 1975 begann im Februar 1976 die Restaurierung des großen Deckenbildes durch Richard Harzenetter aus Sontheim unter Leitung des BLfD. Das Fresko zeigte zahlreiche Risse, die wohl auf die Instabilität der Decke durch die Dachschäden zurückzuführen waren. Die größeren Risse wurden mit Kalkmörtel gefüllt und die Fehlstellen vorsichtig retuschiert. Die Malschicht selbst war aber {ZITAT|004} (Hauptmann 1977, S. 55). Eine Festigung der Malschicht war fast nur bei dicken Ockerstellen nötig, die sich flockig lösten. Die Malweise Asams wurde durch Harzenetter und Helmut F. Reichwald vom BLfD genauer untersucht. Es wurden sehr große Tagwerke festgestellt; an den Tagwerksgrenzen fanden sich aber nur manchmal Secco-Übermalungen, die abpuderten. Es wurden mehrere Kohlevorzeichnungen aufgefunden, kaum Pauspunkte und Vorspritzungen nur im Bereich der Architektur. Die Untersuchung der Farbgebung Asams ergab Neues: Die leuchtenden Blautöne, etwa das Mariengewand und den Mantel des Knaben an der Quelle – hatte Asam zunächst in Blau angelegt und dann mit Azurit bzw. Smalte übermalt; das Grün hatte er stellenweise, wenn das Fresko schon getrocknet war, mit wahrscheinlich kaseingebundenem Malachit überdeckt. Von Ausnahmen abgesehen – so ist das Zinnober stellenweise oxydiert und vergraut – sind die Fresken in der Farbsubstanz sehr gut erhalten. Bei der Restaurierung der Raumfassung durch die Augsburger Kirchenmalerfirma Binapfl ging man teils durch Freilegung teils durch Rekonstruktion auf die Originalfassung zurück. Das Mordantgold am Stuck wurde wieder entfernt und die Vergoldungen erneuert. Der Stuck wurde von der Arge Lang Fischer/Mahler/Weiß aus Buching bei Füssen restauriert. 1996 musste die Deckenkonstruktion vollständig saniert werden. {ZITAT|005} (Kunstdenkmäler Ingolstadt 2, S. 344).
+
+
+== Beschreibung und Ikonographie ==
+
+
+Vorraum
+
+A DIE GÖTTLICHE WEISHEIT Inschrift auf einem Schriftband unten im Bild SAPIENTIA AEDIFICAVIT SIBI DOMUM. Prov. IX. Vers I. (Die Weisheit hat sich ein Haus gebaut.) Das kreisrunde Deckengemälde füllt den Deckenspiegel nahezu in seiner gesamten Breite und ist mit vier damaszierten Zwickelfeldern in feinteiligen Stuckrahmen dem Rechteck der Decke eingepasst.
+
+Das Fresko ist fast monochrom, vor dem zart ockerfarbenen Hintergrund erscheinen Architektur und Bäume in hellem Violett und davor die figürlichen Darstellungen im Vordergrund wiederum in Ocker; im Inschriftband davor wird das Violett des Mittelgrundes noch einmal aufgenommen.
+
+Ein großer überkuppelter Rundtempel bildet den Hintergrund. Er ist von einem Kreuz bekrönt; breite Strahlen gehen radial von ihm aus. Rechts und links von diesem Rundbau sind zwei Bäume zu sehen, eine Zypresse links und eine Palme rechts. Eine bildparallel verlaufende Mauer mit Balustrade schließt den Hintergrund mit Kuppelbau und Bäumen nach vorne ab.
+
+In der Mitte des Vordergrundes ragt der Thron der Weisheit auf. Er erhebt sich über halbrund ausgreifenden Stufen. Er ist breit, mit geschwungenen Wangen und einer hohen Rücklehne. Unten seitlich an den Wangen sind Füllhörner angebracht, aus denen links Früchte, rechts Blüten quellen. Auf dem Thron sitzt die zum Himmel blickende Gestalt der Divina Sapientia. Sie hält in der Linken das schlangenumwundene Zepter, ein Attribut der Weisheit. Worauf die Rechte ruht, ist nicht ganz eindeutig zu erkennen: es wird bisweilen als Kommandostab gesehen, doch lässt die zarte Geste der Hand eher an eine von der Seite gesehene Schreibtafel denken. Einen Fuß setzt die Allegorie der Göttlichen Weisheit auf ein besticktes Fußkissen.
+
+Als Bekrönung der Thronlehne ist eine kleine Pyramide dargestellt, und auf dieser das Auge Gottes; vor dieser Pyramide erscheint die Taube des Heiligen Geistes. Das Auge Gottes und die Taube spiegeln sich in einem rechteckigen gerahmten Spiegel, den zwei Putten halten, die oben neben dem Thron schweben. Nicht von der Taube selbst, sondern von der gespiegelten Taube geht ein Strahl aus, der auf die Brust der Divina Sapientia fällt.
+
+Die Füllhörner am Thron werden gleichsam bewacht von je einem Löwen, von denen der linke einen Palm- und einen Ölzweig hält, der rechte das Flammenschwert (gewellte Schwert) des Gerichts, während er Feuer speit. Weitere Löwen sind vor dem Thron dargestellt. Ein Löwe links im Vordergrund schläft. Ein Löwe an den Stufen hält den Reichsapfel, ein anderer neben ihm auf einem Kissen Zepter und Zackenkrone, während der Löwe rechts im Vordergrund eine Zackenkrone mit Füßen tritt.
+
+Die Darstellung des Thrones der Divina Sapientia nimmt Bezug auf den Thron Salomons, wie er in der Bibel beschrieben ist (1Kg 10,18–20): »Dann ließ der König einen großer Thron aus Elfenbein anfertigen und mit Feingold überziehen
+<!-- citation-page-bottom: Band14 p55 -->
+
+
+{ZITAT|000} »Domine Dilexi decorem domus tuae Ps. XXIII/weil er so viel ohne entgelt zu Ehren Gottes gemahlt«
+
+{ZITAT|001} »... die von Oefele tradierte Schenkung der Hälfte der Bezahlung verdient etwas näher betrachtet zu werden. Das angeblich vereinbarte Honorar von 10000 Gulden erscheint auch angesichts der Berühmtheit Asams 1734 exorbitant hoch. Für Weingarten, das ein Vielfaches an Arbeit erforderte, erhielt Asam 6000 Gulden; für die Schlosskapelle in Bruchsal, wo die Aufgabenstellung wesentlich komplexer als in Ingolstadt war, wurden 5000 Gulden bewilligt; die 1732 erfolgte Ausmalung der Schlosskapelle in Ettlingen wurde mit 4000 Gulden honoriert; und in Wahlstatt ... billigt ihm der Kontrakt vom 5. Juli 1733 nur 3000 Gulden zu... Vergleicht man diese Zahlen mit den in Ingolstadt schließlich ausbezahlten 5000 Gulden, so war damit das dortige Fresko gut, wenn nicht überdurchschnittlich honorier. Von einer besonders frommen Opfergesinnung zugunsten kirchlicher Institutionen wird man kaum sprechen können, wenn Asam die gleiche Summe verlässt, um als Wohltäter der Kongregation zu figurieren; womöglich ist diese Verfahren von vorneherein vereinbart gewesen«
+
+{ZITAT|002} »Aedem suam novam, quam exstruxit, magnificam interius artificioso gypso pretiosisque picturis exornare coepit spemque gerit plurimam autumno proximo molimen universum a glorioso fine haud procul abfuturum«
+
+{ZITAT|003} »Das für Asam typische Instrument ist eine Farbskala, die von Weiß über Gelb, Ocker, Gold, Braun, Braunviolett, Grau bis hin zu den dunkelsten braunen und grauen Tinten reicht. Entscheidend ist, dass Rot, vor allem in warmen Tönungen, als mit dieser Skala verwandt behandelt wird und nahezu auf jeder Stufe in Beziehung zu ihr gesetzt werden kann. Es ist ganz vornehmlich diese auf das Licht bezogene Farbskala, die die Einheit der Asamschen Bildwelt leistet, von den hellsten Stellen der zentralen Glorie bis zu den braunschwarzen Wolken bei den Gefallenen Engeln, von der von himmlischem Licht umflossenen Gestalt Mariens bis zu der Mohrin auf dem Elefanten. Blau, auch in großen Flächen, tritt als Kontrast zu dieser Grundskala auf; Grün ist so gut wie immer auf kleine Partien beschränkt«
+
+{ZITAT|004} »zu 95° solides Fresko in bestem Erhaltungszustand«
+
+{ZITAT|005} »Um jedes Risiko für das Fresko zu vermeiden, konnter die Balkenköpfe erst saniert werden, nachdem die Auflager durch eine zusätzliche, im Dach verbleibende Ersatzkonstruktion entlastet waren: Diese besteht nun aus Zwillingsbindern, die beidseits der Originalbinder in den Sparrenfeldern eingestellt wurden, zwei Druckstreben in den Sparrenebenen und dem Ankerbalken in der Deckenbalkenebene sowie zwei vom Firstpunkt herabgeführten Hängestangen, welche den Ankerbalken fassen und die Last der bestehenden Überzugbalken vom alten Hängewerk übernehmen. Neue Randüberzüge an den Außenwänden, die sich auf die Ersatzbinder stützen, ersetzen das Wandauflager der Dachbalken«
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=4 -->
+<!-- citation-page-top: Band14 p56 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+<!-- header: INCOLSTADT KONGREGATIONSSAAL -->
+
+Sechs Stufen waren an dem Thron, Stierköpfe hatte der Thron oben rückwärts, auf beiden Seiten waren an dem Thron Armlehnen, und neben den Armlehnen standen zwei Löwen. Auf den sechs Stufen standen an beiden Seiten zwölf Löwen. So etwas ist noch nie für irgendein Königreich angefertigt worden ».
+
+Die beiden Löwen an den Armlehnen folgen der Beschreibung, doch weisen sie durch die Attribute Palm- und Ölzweig einerseits sowie Schwert andererseits auf Frieden (links) und Gerechtigkeit (rechts) hin und erinnern damit an die Psalmstelle: »Frieden und Gerechtigkeit küssen sich« (Ps 85,11) ein Gedanke, der im Saal selbst an wichtiger Stelle noch einmal aufgegriffen wird (S. 64). Die beiden Füllhörner sind dem Gedanken von Pax und Iustitia zuzuordnen: durch ihr Zusammenspiel gewährt das Land die Fülle seiner Gaben: »Ja, Jahwe verleiht seinen Segen, und unsere Erde gibt ihre Frucht« (Ps 85,12).
+
+0),2), Das Spiel der Löwen im Vordergrund mit den weltlichen Würdezeichen ist ein Ausdruck der Verachtung für weltliche Würden; ein Löwe schläft, was das gleiche ausdrückt wie das Spielen mit den Würdezeichen, nämlich Gleichgültigkeit ihnen gegenüber. Die Löwen beziehen sich auf die Worte Salomos: »Daher betete ich, und es wurde mir Einsicht verliehen; ich flehte, und der Geist der Weisheit kam über mich. Ich stellte sie höher als Zepter und Throne, und Reichtum achtete ich für nichts im Vergleich mit ihr« (Sap 7,7-8). Ripa sagt in seiner Beschreibung der Weisheit (s. v. Sapienza): »calca questa figura lo Scettro, per segno di dispreggio de gli honori del mondo«. Wenige Jahre später wird Asam noch einmal den Thron Salomons darstellen, in der Bibliothek von St. Emmeram 1737 (Abb. bei Rupprecht 1980, S. 173). Dort ist das Motiv der Verachtung und Vergänglichkeit des Irdischen durch einen Putto bei den Löwen gezeigt, der Seifenblasen bläst - ein altes Vanitas-Motiv.
+
+Der große Kuppelbau im Hintergrund, der wie eine Präfiguration auf den Kuppelbau von St. Peter anspielt, ist das Haus der Weisheit, die Domus Sapientiae. Er wird flankiert von einer Zypresse und einer Palme. Die Weisheit sagt von sich selbst: »Wie eine Zeder des Libanon wuchs ich empor und wie eine Zypresse auf dem Hermongebirge. Wie eine Palme zu Engedi wuchs ich empor und wie eine Rosenpflanzung in Jericho« (Eccli 24,13–14).
+
+So könnte man das Bild einerseits einfach als Darstellung der Göttlichen Weisheit auf dem Thron Salomos deuten und den Kuppelbau dahinter, das Haus, das sich die Göttliche Weisheit erbaut hat, als eine Präfiguration der Ingolstädter Universität, der die Mitglieder der Kongregation ja angehörten. Andererseits fällt eine motivische Entsprechung zwischen dem Fresko der Vorhalle und dem des Saales auf: Ein Gnadenstrahl geht von Gottvater bzw. dem Heiligen Geist aus; Christus fehlt; der Gnadenstrahl fällt auf eine weibliche Gestalt.
+
+Cornelius a Lapide drückt diesen Zusammenhang bei seiner Interpretation der Textstelle »Sapientia sibi aedificavit domum« aus (Bd III, S. 200): »Sapientia, id est Filius Dei, aedificavit sibi, et in proprium suum usum, domum se dignam, scilicet uterum Virginis Deiparae, cum illum sibi in habitaculum elegit.« (Sapientia, das ist der Sohn Gottes, hat sich zu seinem ausschließlichen Gebrauch ein Haus gebaut, das seiner würdig ist, nämlich den Leib der Jungfrau und Gottesgebärerin, als er jenen sich zur Wohnung erwählte.)
+
+Damit ist der Sinn der Vorhallen-Darstellung im Zusammenhang mit dem Hauptfresko klar: Die Göttliche Weisheit auf dem Thron ist in zweiter Sinnschicht eine Präfiguration Mariens als Haus der Weisheit und Christus in zweiter Sinnschicht die Göttliche Weisheit selbst. Er hat sich, um die Menschen erlösen zu können, ein Haus gebaut, in dem er Mensch werden konnte und das seiner würdig war: Maria. Auf dem Bild im Vorraum ist der Moment gezeigt, wo er in Gestalt des Gnadenstrahls in dieses Haus kommt - genau der Moment, den auch das Hauptfresko zeigt.
+
+Das Vorhallenfresko ist damit Auftakt zum großen Fresko des Saales nicht nur in künstlerischer Hinsicht, sondern zugleich thematischer Auftakt: es präfiguriert das große Thema der Menschwerdung Christi im Hauptfresko.
+
+B DIE MENSCHWERDUNG CHRISTI ALS HEIL DER MENSCHHEIT Das Bildfeld ist mit seinen ca. 400 Quadratmetern das größte, das Cosmas Damian Asam je freskiert hat. Es füllt die gesamte Deckenfläche des langen und schmalen und - in Anbetracht der Freskogröße - verhältnismäßig niedrigen Saales. Die Darstellung ist stark untersichtig angelegt, mit kühnen perspektivischen Konstruktionen. Einen Blickpunkt, von dem aus die ganze Anlage >richtig« gesehen werden könnte, gibt es nicht. »Die Schwierigkeit, die Vielzahl der auf der niedrigen Decke darzustellenden Gegenstände dem Betrachter >einsichtig« zu machen, hat Asam durch ein geniales Kunstmittel gelöst: Er hat die Not dadurch zur Tugend gemacht, dass er das Deckenbild durch verschiedene perspektivische Konstruktionen inhaltlich geordnet hat. Das Fresko erscheint, wenn es >Sinn < haben soll, nicht als Totalität, sondern erschließt sich erst nacheinander im Wechsel der Standpunkte« (Rupprecht 1974, S. 278).
+
+Asam malte das Bild in der fast unglaublichen Zeit von gut zwei Monaten, trotzdem findet man kaum irgendwo Flüchtigkeiten oder nachlässiger gemalte Partien, wie dies bei seinen großen Werken wie dem Freisinger Dom oder der Klosterkirche Fürstenfeld durchaus der Fall sein kann. Das Fresko von Maria de Victoria ist mit großer Subtilität gemalt: Eine himmlische Nebengruppe ohne große inhaltliche Bedeutung wie die kleine Schar der vier Engel über der Figur der göttlichen Liebe und dem Verkündigungsengel zum Beispiel ist von geradezu hinreißender Schönheit.
+
+Im Fresko ist die Menschwerdung Christi dargestellt und das Heil, das durch sie der ganzen Welt geschenkt wurde. Maria kniet im Zentrum des Bildes vor einem weiten Tempelbau, über ihr erscheint der Verkündigungsengel. Gottvater ist als machtvolle Gestalt dargestellt, umgeben von einer Engelsglorie. Von ihm geht ein breiter Strahl aus und fällt nach unten zunächst auf eine lichtstrahlende Figur, die die göttliche Liebe (Amor Divinus) verkörpert. Auf der Brust dieser Figur bricht sich der Strahl und fällt auf Maria, an der er sich in vier Strahlen teilt, die in vier Himmelsrichtungen gehen und auf die Allegorien der Vier Erdteile fallen. Maria ist von Engeln umgeben, die mit verschiedenen Symbolen auf das Geheimnis der Menschwerdung hinweisen. Auch der Tempelbau ist voll von Verweisen darauf. Vier biblische Szenen bzw. Figuren – Adam
+
+
+[[File:Band14_chunk002_p004_img001.jpg|thumb|A Die Göttliche Weisheit, Fresko in der Vorhalle]]
+
+
+56
+<!-- citation-page-bottom: Band14 p57 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=5 -->
+<!-- citation-page-top: Band14 p58 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+
+[[File:Band14_chunk002_p005_img001.jpg|thumb|B Die Menschwerdung Christi als Heil der Menschheit, Westhälfte (C.D. Asam 1735)]]
+
+
+
+[[File:Band14_chunk002_p005_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band14 p59 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=6 -->
+<!-- citation-page-top: Band14 p60 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+== INGOLSTADT KONGREGATIONSSAAL ==
+
+Abraham, die Juden in der ägyptischen Gefangenschaft sowie Moses - am linken und rechten Bildrand sind thematisch ebenfalls darauf bezogen. Unterhalb des aufragenden weißen Sockelbaus, auf dem Maria kniet, entspringt eine Quelle, die einen hohen Springbrunnen speist, der als rauschender Bach in den Bildvordergrund fließt. Das Wasser aus dieser Quelle ist in allen Vier Erdteilen präsent: diese sind in vielfigurigen Szenen in den vier Ecken des Freskos dargestellt, als Empfänger der Gnade der Erlösung, die aus der Menschwerdung Christi erwächst und die durch die vier Strahlen symbolisiert ist. Die Szene, die Europa darstellt, ist voll von zeitgenössischen Anspielungen. An der Ostseite, in der Ausbuchtung des Deckenbildes zwischen den beiden seitlichen Anräumen, ist durch eine dunkle Wolke von der lichten Glorie abgegrenzt die Szene des Engelsturzes durch Michael dargestellt.
+
+0 Es gibt wenige barocke Bildprogramme, die in ihrer Komplexität an das von Maria de Victoria heranreichen. Aber nicht nur als ikonologische Leistung, auch als Gemälde des führenden Künstlers des bayerischen Spätbarock stellt das Deckenbild mit seiner den ganzen Raum überspannenden, perspektivisch virtuosen Bildkomposition, den großartigen Bildkulissen und den phantasievollen Szenerien einen Höhepunkt barocker Deckenmalerei in Europa dar.
+
+Die erste Beschreibung des Bildes gaben die Ingolstädter Jesuiten selbst, in den >Litterae annuae<, in denen sie alljährlich vor den Ordensoberen über die Arbeiten, Geschehnisse und Erfolge des Jahres Rechenschaft ablegten (BHStA, Jesuitica 126, S. 3-4). Hier erwähnen sie ein kleines Buch als Geschenk für die Sodalen der Kongregation und fahren fort mit dem neuen Marianischen Odeum: »Allusit nempe ad fabricam illam odei sui Mariani, quae hoc anno iam eo deducta est, ut praeter manum ultimam desideretur nihil, quam et imponendam speramus ad Virginis Visitantis Festum. Maxima admiratione dignus est tholus, quem illustravit artifex sane penicillus, continuato per tholum integrem artifice opere. Pictura Mysterium exhibet incarnationis dominicae. In medio igitur ingens assurgit fornix grato oculorum ludibrio, quo planes alias tholus arcuato velut in sinum recessu cogitur. Fornici incumbit nubes supremi numinis bajula, in qua divinus Amor exceptos a patre coelesti divinitatis Radios in matrem sub fornice nixam genibus, mater vero in genus humanem et quatuor orbis partes per quatuor tholi plagas dispersas diffundit. Europam viciniorum virgini Parnassus refert, ad cujus pedem prostratus in genua Apollo cum novem sororibus aut Plektra sua sanctiori Palladi dedicat aut locum cedat sacratiori Apollini, Davidi nimirum regi psalti, qui verticem montis occupaverat, venturi Messiae et Magna Matris encomiastes. In extremum rejecti sunt angulum rebelles angeli Deo-homini negantes homagium. Reliquum in tholum divisi sunt tum progenitores virginis Adam, Abraham tum mysterii huius vetere instrumento typi, Moyses rubi ardentis adorator atque alia ex parte capti Babylone Iudaei suspirantes libertatem venturumque Messiam.« (Es [das kleine Buch] spielt auf jenen Bau ihres Marianischen Odeons an, der in diesem Jahr schon so weit vollendet ist, dass nur noch die letzte Hand angelegt werden muss, wovon wir hoffen, dass es zum Fest Mariä Heimsuchung geschehen sein wird. Der größten Bewunderung ist das Gewölbe würdig, das ein wahrhaft kunstvoller Pinsel bemalte, in einem die ganze Decke umfassenden Werk. Die Malerei stellt das Mysterium der Menschwerdung des Herrn dar. So erhebt sich in der Mitte ein gewaltiger Architekturbogen in gefälliger Augentäuschung, durch den man die flache Decke für gewölbt hält. Auf dem Bogen liegt die Wolke, die das allerhöchste Wesen trägt. Die vom himmlischen Vater ausgehenden Strahlen der göttlichen Gnade werden von der göttlichen Liebe auf die Mutter, die auf dem Boden kniet, ausgegossen: Die Mutter aber verteilt diese auf das menschliche Geschlecht und die vier in den Ecken dargestellten Erdteile. Der Parnass stellt Europa dar, das der Jungfrau am nächsten ist, zu dessen Fuß kniet Apoll mit den neun Schwestern, der zugleich seine Lieder der heiligeren Pallas widmet und seinen Ort [den Parnass] dem heiligeren Apoll überlässt, nämlich dem König des Psalters, David, der die Spitze des Berges eingenommen hat und der Lobsänger des kommenden Messias und der großen Mutter ist. In die äußerste Ecke zurückgetrieben sind die rebellischen Engel, die dem Gott-Menschen die Huldigung verweigern. Auf das Gewölbe verteilen sich einmal die Voreltern der Jungfrau - Adam, Abraham - zum anderen die Bilder für dieses Geheimnis im Alten Testament [instrumentum], nämlich Moses als Anbeter des brennenden Dornbuschs und auf der anderen Seite die gefangenen Juden in Babylon, die die Freiheit und den kommenden Messias ersehnen.)
+
+Die Ikonographie des Deckenbildes von Maria de Victoria hat eine lange Rezeptionsgeschichte, die Hofmann 1977 berichtet (S. 65). Nach einem verhältnismäßig unprofessionellen Versuch 1897 und Deutungen von Erika Hanfstaengl 1939 und Carl Max Haas 1949 war Koislmeiers Interpretation 1953 bahnbrechend, weil er erstmals von der Beschreibung in den >Litterae annuae« ausging; allerdings interpretierte er die >Incarnatia dominica« als die Unbefleckte Empfängnis Mariens. Kunsthistorisch und theologisch fundiert ist die überzeugende Interpretation Lore Kautes in ihrer Magisterarbeit 1966; sie ging auch auf die vielen Allusionen ein. Auf Lore Kautes Arbeit basiert die erste Interpretation Hofmanns 1973, die versuchte, sich auf das Hauptthema zu konzentrieren und die grundlegende Aussage des Freskos klarer hervortreten zu lassen; sowie die von Bernhard Rupprecht 1974, die die ikonologische Deutung durch die Beschreibung profaner Bezüge ergänzte, indem er das Augenmerk auch auf die Benützer des Saales richtete und auf ihre Verbindung zu Universität und Wissenschaft. Weitere, immer eingehendere Deutungen von Hofmann folgten 1977 und 1986, der erstmals auf die Rolle der Schriften Thomas von Aquins zur Incarnatio einging, archivalische Forschungen einbrachte und sich auch an rätselhaften Details versuchte, etwa an den Zahlen auf der Steintafel in der Szene der gefangenen Juden. Auch die hier folgende Interpretation versteht sich nicht als Endpunkt dieser Rezeptionsgeschichte, sondern als ein Schritt auf dem Weg zu einer endgültigen Deutung.
+
+DIE INKARNATION CHRISTI Zentrum der Darstellung ist der Augenblick der Menschwerdung Christi. »Die Menschwerdung der zweiten göttlichen Person im Schoße der allerseligsten Jungfrau bildet den Angelpunkt der ganzen Mensch-
+
+
+[[File:Band14_chunk002_p006_img001.jpg|thumb|Gottvater zeugt seinen Sohn]]
+<!-- citation-page-bottom: Band14 p61 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=7 -->
+<!-- citation-page-top: Band14 p62 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+
+[[File:Band14_chunk002_p007_img001.jpg|thumb|Die unbefleckte Gottesmutter, von Engeln umgeben]]
+
+
+
+[[File:Band14_chunk002_p007_img002.jpg|thumb]]
+
+
+heitsgeschichte: die Fülle der Zeit ist da. Was einst Adam durch stolze Selbstüberhebung gefrevelt, im Wunsche, Gott gleich zu sein, wird jetzt wieder gut gemacht, indem der ewige Gottessohn als neuer Adam den Menschen gleich wird. Die Menschen, durch den Ungehorsam Evas dem Tode verfallen, erhalten durch die demütige Hingabe Mariens an Gottes Willen eine neue Mutter des Lebens« (Schott, S. 836).
+
+Die Menschwerdung Christi ist Basis des christlichen Glaubens und im großen Credo (dem Glaubensbekenntnis der Katholiken) folgendermaßen formuliert: »...et (credo) in filium suum unigenitum Jesum Christum, genitum non factum, consubstantialem Patris... propter nos homines, et propter nostram salutem descendit de caelis. Et incarnatus est de Spirito sancto, ex Maria virgine, et homo factus est.« (Und [ich glaube] an seinen eingeborenen Sohn Jesus Christus, gezeugt, nicht geschaffen, eines Wesens mit dem Vater... Für uns Menschen, und um unseres Heiles willen ist er vom Himmel herabgestiegen. Er hat Fleisch angenommen durch den Heiligen Geist, aus der Jungfrau Maria, und ist Mensch geworden.) Der Glaube an die Menschwerdung Christi beruht auf zwei Evangelienstellen: Nach Matthäus sagte der Engel zu Joseph
+
+über Maria: »... was in ihr gezeugt ist, ist vom Heiligen Geist« (Mt 1,20), und Lukas berichtet: »Der Heilige Geist wird über dich kommen und die Kraft des Höchsten wird dich überschatten« (Lc 1,35).
+
+Die Inkarnation, die Zeugung Christi als Mensch durch Gottvater in Maria über die Vermittlung des Heiligen Geistes, wird in der abendländischen Bildtradition durch die Szene der Verkündigung des Engels an Maria dargestellt. Der Heilige Geist - in Form der weißen Taube - ist dabei unabdingbarer Teil der Verkündigung: Maria wird als demutsvoll Empfangende dargestellt, während die Inkarnation durch einen Lichtstrahl vom Himmel symbolisiert wird, in dem oder über dem die Taube des Geistes schwebt.
+
+GEZEUGT, NICHT GESCHAFFEN Asams Imagination von der Menschwerdung Christi geht weit über diese Bildtradition hinaus, sie ist ganz anders, kühn und neu. Asam sieht das Unerhörte und Gewaltige an der Vorstellung des zeugenden Gottes und wagt es, ihn ins Bild zu bringen. Gottvater tritt im Fresko von Maria de Victoria als der auf, der er nach der Schrift und nach dem katholischen Credo ist: als Zeugender.
+<!-- citation-page-bottom: Band14 p63 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=8 -->
+<!-- citation-page-top: Band14 p64 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+<!-- header: INCOLSTADT KONGREGATIONSSAAL -->
+
+Er thront in der Mitte einer riesigen Lichtglorie, die von Kreisen von Engelsköpfchen umgeben ist, in mehreren Reihen angeordnet. Eine große Schar ekstatisch anbetender Engel ist bei ihm. Er hat den Dreiecksnimbus um sein Haupt, die Linke hat er erhoben, mit der Rechten stützt er sich mit dem Zepter auf seinen nackten rechten Oberschenkel, das ebenfalls nackte linke Bein – ein kräftiges Männerbein – hat er seitlich vom Körper abgewinkelt und hält so seine Körperfront offen. Von seinem Körper geht ein gewaltiger Feuerstrahl aus: die Zeugung Christi findet statt, das große Gnadengeschehen für die ganze Menschheit wird in Gang gesetzt. Der göttliche Zeugungsstrahl ist zu gewaltig für einen Menschen. Er trifft also auf eine vermittelnde Figur, an deren Brust er sich bricht, bevor er auf Maria fällt. Diese Figur wird von den Jesuiten selbst in der Beschreibung des Deckenbildes >Amor Divinus« genannt, Göttliche Liebes; in der Bildhandlung nimmt sie eindeutig die Stelle des Heiligen Geistes ein, durch dessen Vermittlung sich nach den Evangelien und dem Glauben der Kirche die Menschwerdung des Gottessohnes vollzog.
+
+Amor Divinus ist eine Jünglingsfigur mit langen blonden Locken, in weißem Kleid und rosenfarbenem Mantel. Sie erscheint auf hellen, von goldenem Gnadenlicht erfüllten Wolken, ihre Gestalt ist von Feuerflammen wie von einem großen Nimbus umgeben; auf ihrem Haupt lodert eine große, von weißlichem Licht umgebene Feuerzunge. Himmlisches Licht geht von ihr aus. Sie breitet ihre Arme weit aus, um den göttlichen Feuerstrahl auf ihrer Brust zu empfangen. Dort bricht sich der Strahl und wandelt sich in einen lichten Gnadenstrahl, wie wenn er in menschliche Maße, ins menschlich Erträgliche umgewandelt werden müsse, bevor er auf Maria trifft.
+
+Die Zeugung Jesu auf diese Weise darzustellen, ist außergewöhnlich, eine kühne Bilderfindung Asams. An die alte Bildtradition erinnert im Fresko ein zweites, schwächeres Gnadenlicht, das direkt von der Glorie um Gottvater ohne Vermittlung auf Maria fällt und in dem vor stillem blauer Himmel eine weiße Taube schwebt - in auffallendem Gegensatz zu der gewaltigen Szene der Zeugung.
+
+Die Personifikation der göttlichen Liebe, die im Deckenbild von Maria de Victoria statt des Heiligen Geistes als Vermittler bei der Zeugung des Gottessohnes eingesetzt wird, geht eindeutig auf Darstellungen des Heiligen Geistes in der Gestalt eines schönen blondlockigen Jünglings zurück, wie sie die selige Kreszentia Höss von Kaufbeuren in Visionen sah (vgl. z. B. Matthäus Günthers Heiligen Geist als Bräutigam Mariens von 1748 in Schongau, s. CBD Bd 1, S. 518, 520). Das ist insofern sinnvoll, als der Heilige Geist das Prinzip der göttlichen Liebe ist und die schöne, flammenglühende Gestalt Asams in der Tat den anschaulichen Charakter von Liebe« hat. (Die Darstellung des Heiligen Geistes als Jüngling war umstritten und wurde 1745 von Benedikt XIV. offiziell verboten, sobald der Heilige Geist nicht als Teil der Dreifaltigkeit, sondern allein handelnd dargestellt wurde.)
+
+DIE UNBEFLECKTE GOTTESMUTTER Maria erscheint vor dem hellen Portal eines Tempels. Sie hat die Worte des Verkündigungsengels gehört: {ZITAT|000}. Der Engel fliegt über ihr, schon im Begriff, sich wieder abzuwenden. Sein Kopf ist aber noch im Bereich des Gnadenstrahls, der von Amor Divinus auf Maria fällt, und sein ganzer Körper im Bereich von dessen Gnadenlicht; so ist er in den Inkarnationsvorgang mit einbezogen.
+
+Maria hat ihr Ja gesprochen, die Arme weit ausgebreitet und mit dem Zeugungsstrahl den Sohn Gottes in ihrem Leib empfangen. Damit ist das Mysterium der Menschwerdung Christi erfolgt. Alles, was zu der zentralen Bildhandlung gehört, geschieht gleichzeitig, im gleichen Moment; es ist kein Geschehen, das abläuft, sondern der Augenblick der Gnade. Was aber so gewaltig und lichtstrahlend geschieht, findet in der Figur Marias Ruhe und Verklärung.
+
+Maria erscheint auf einer kleinen Estrade vor der Mitte der hoch aufragenden Tempelarchitektur, vor einem goldenen Thron kniend. Sie trägt ein hell purpurfarbenes Kleid, ihr Haar ist in einen gleichfarbenen Schleier gebunden; der ausgebreitete blaue Mantel, der von ihrer Schulter geglitten ist, wird von Engeln gehalten. Marias Haupt ist von weißem Licht umstrahlt und vom Sternenkranz der Immaculata umgeben.
+
+Elf Engel umgeben Maria. Von links an gesehen, sind das zuerst zwei kleinere, die ihren Mantel halten. Es folgen zwei Engel in inniger Umarmung, die Gesichter einander liebend zugewandt. Der Linke hat ein grünes Gewand und einen Ölzweig als Attribut der Pax bei sich; der rechte trägt unter einem roten Mantel eine Art Rüstung und hält eine Waage als Attribut der Iustitia. Es folgen nach hinten zwei Engel, von denen einer ein Zepter hält, das von einer Schlange umwunden ist, der zweite einen Spiegel. Zwei Engel ganz im Hintergrund sind in Gesten und Haltung der Anbetung gezeigt. Rechts vor Maria erscheint im Hintergrund ein Engel mit einem weißer Kranz auf dem Haupt; er hält eine Lilie. Die Schar der Engel um Maria wird abgeschlossen von zwei großen anbetender Engel, die rechts vor den Säulen des Torbogens erscheinen (der an dieser Stelle nach unten folgende Engel ist bereits der Szene von Abraham und Isaak zugehörig).
+
+Der Sinn der vier anbetenden Engel ist klar: da nur Gott angebetet werden darf, sind sie eine Affirmation der bereits vollzogenen Inkarnation: Jesus hat in Maria menschliche Substanz angenommen und ist als Gottessohn anwesend. {ZITAT|001} (Thomas von Aquin, Summa theologica 3, quaestio 2, Artikel 11: Wir nehmen an, dass vom Beginn seiner Empfängnis jener Mensch Gottes Sohn gewesen ist).
+
+Von den übrigen sieben Engeln sind die beiden manteltragenden Engel durch ihre Funktion erklärt. Die sich liebend zugewandten Engel mit der Bedeutung ›Pax‹ und ›Iustitia‹ beziehen sich auf einen Psalm: {ZITAT|002} (Ps 85,11). Mit dieser Darstellung der liebenden Vereinigung von Gerechtigkeit und Frieden im Fresko wird bezug genommen auf den ganzen Psalm, der den messianischen Frieden verheißt: {ZITAT|003} Mit der Menschwerdung Jesu ist das Erlösungswerk begonnen; in der damit angebrochenen neuen Zeit ist der messianische Friede bereits in Gang gesetzt.
+
+[[File:Band14_chunk002_p008_img001.jpg|thumb|Taube des Heiligen Geistes und anbetende Engel]]
+
+64
+<!-- citation-page-bottom: Band14 p65 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=9 -->
+<!-- citation-page-top: Band14 p66 -->
+
+[[File:Band14_chunk002_p009_img001.jpg|thumb]]
+
+chenen Gnadenzeit werden Gerechtigkeit und Frieden herrschen.
+
+MYSTERIUM MYSTICE Die beiden Engel mit Spiegel und Schlangenstab gehören einer anderen Form der Bildargumentation an, der emblematischen: In vielen Gegenständen um Maria wird das Mysterium der Menschwerdung in geheimnisvoll verschlüsselten Bildern weiter umschrieben, wie in einer Parallele zu der Forderung, das Heilige heilig zu behandeln – »Sanctum sancte« – so das »Mysterium mystice«, das Geheimnisvolle geheimnisvoll.
+
+Einer der Engel bei Maria – links ist hinter dem Thron nur sein Kopf zu sehen – hält einen Stab hoch, um den sich eine Schlange windet, das Symbol der Weisheit. Der große Engel dahinter, in der Lichtfülle des Hintergrundes schon fast verschwimmend, hält einen Spiegel. {ZITAT|000} ist eine der Anrufungen Mariens aus der Lauretanischen Litanei. Je klarer und reiner der Spiegel ist, desto klarer ist das Spiegelbild. Je reiner der Mensch, desto besser kann sich Gott darin spiegeln. {ZITAT|001} Der Spiegel ist hier Bild der Reinheit Mariens: von jedem Makel, auch dem der Erbsünde, und damit Bild der Immaculata Conceptio, die Vorbedingung für die Incarnation ist. {ZITAT|002} (Picinelli, Lib. XV, Nr. 194, s. v. speculum). Zeichen der Immaculata Conceptio ist auch der Sternenkranz um das Haupt Mariens, und in das gleiche Bedeutungsfeld gehört die Lilie in der Hand des Engels hinter Maria.
+
+Maria selbst ist geradezu umgeben von antetypischen Bildern, die zum Teil auf das {ZITAT|003} zurückgehen, eine Bilderhandschrift, die, um 1324 verfasst, schnelle Verbreitung fand und eine wesentliche Quelle der abendländischen Bildwelt wurde. Sie beschäftigt sich mit dem Sündenfall und der Heilsgeschichte und bringt für jede Szene der Heilsgeschichte Antetypen aus dem Alten Testament.
+
+Maria sitzt auf einem goldenen Thron. Der Sitz ist mit einem roten Kissen belegt, das Ornament an der Wange läuft in einem Löwenkopf aus, auf der Lehne ist eine Krone zu sehen. Rechts neben Maria ist eine Art Truhe dargestellt, auf der sie zu knien scheint. Die beiden Seraphim über den Ecken kennzeichnen diese Truhe als Bundeslade. Hinter Maria erhebt sich der Salomonische Tempel; neben ihm ragt der Turm Davids auf: All dies, Thron Salomons, Bundeslade, Tempel Salomons, Turm Davids werden schon im »Speculum humanae salvationis« als Antetypen Mariens genannt, als alttestamentliche Verweise auf Maria, die im Laufe der Zeit ikonologisches Gemeingut geworden waren und die in den emblematischen Handbüchern spezifisch gedeutet wurden. So beschäftigen sich viele von den Bildern, die sich auf Maria beziehen, ganz konkret auf ihren Schoß (Uterus), in dem Christus Menschengestalt annahm.
+
+Picinelli bringt den Thron Salomos als Bild von Maria gravida (Lib. XXV, Nr. 114-17, s. v. thronus): {ZITAT|004} Wie auf dem Thron Salomos nur dieser selbst sitzen durfte, so war der Leib Mariens dem Friedensfürsten, dem göttlichen Wort vorbehalten.
+
+Die Bundeslade neben Maria ist ebenfalls als Bild der Maria gravida zu sehen: Wie in der Lade des Alten Bundes die höchsten Heiligtümer verschlossen waren, so barg nach dem Speculum humanae salvationis Mariens Schoß den Sohn Gottes (RDK Bd 2, Sp. 116, s. v. Bundeslade [Wilhelm Neuß]); die Bundeslade ist hier weiterer Verweis auf die Anwesenheit des Höchsten in Maria durch die Inkarnation.
+
+Auf der Bundeslade liegt ein großes, geöffnetes Buch. Auch hier kann ein emblematischer Bezug auf Maria gravida gesehen werden; sie sei wie ein Buch, in das durch den Finger Gottvaters das Wort (Verbum = Christus) eingeschrieben worden sei: {ZITAT|005} (Picinelli, Lib. XIX, Nr. 37, s. v. liber).
+
+Die Tempelarchitektur, die den Rahmen für Maria bildet, sie hinterfängt und zugleich auszeichnet, ist völlig achsensymmetrisch aufgebaut. Ihre Vorderfront ist ein prachtvoller Portikus, der von zwölf roten Marmorsäulen getragen ist; diese haben weiße Kapitelle, die mit goldenen Sternen und am Ansatz mit goldenen Ornamenten besetzt sind. Die beiden vordersten Säulenpaare tragen einen runden Sprenggiebel mit
+
+[[File:Band14_chunk002_p009_img002.jpg|thumb|Der Tempel als salomonischer Tempel – dem Berg Sion entspringt die Tempelquelle – Abraham und David, Stammväter Christi]]
+<!-- citation-page-bottom: Band14 p67 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=10 -->
+<!-- citation-page-top: Band14 p68 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+== INGOLSTADT KONGREGATIONSSAAL ==
+
+weit vorkragendem Gesims. Darunter öffnet sich ein gewaltiger Torbogen, der Einblick gibt in eine gewölbte Vorhalle. Durch die Vorhalle blickt man in einen unbestimmten, hell erleuchteten Raum, wo wiederum ein in hellem Licht strahlender Giebelbau mit seitlich anschließenden Balustraden den Abschluss nach hinten bildet. An dem Gewölbe über der Vorhalle ist, in Licht verschwimmend, ein Deckenbild angedeutet: es zeigt das Trinitätssymbol, von Strahlen umgeben, und zu Seiten zwei anbetende Engel mit Weihrauchfässern. Über dem Scheitel des Torbogens ist eine Stuckdekoration gemalt: eine Kartusche, auf der AMOR DEI zu lesen ist, flankiert von zwei nach unten gewendeten Füllhörnern und bekrönt von einem Adler mit ausgebreiteten Flügeln. Daneben ist ein Putto mit Palmzweig zu sehen, der auf eine goldene Sonne weist. Der Adler reckt seinen Kopf zu der Sonne.
+
+Auf der mittleren Bildachse erscheinen weiter nach oben die Geisttaube und endlich Gottvater im Zentrum der Glorie.
+
+Dieser ganze Bau ist voll von geheimnisvollen Verweisen auf die Inkarnation: Nach Picinelli kann der Tempel Bild der Maria gravida sein, deren Schoß das Unermessliche birgt (Lib XVI, Nr. 203, s. v. templum): {ZITAT|000} mit dem Lemma CONTINET IMMENSUM.
+
+Der Giebel des nach hinten abschließenden Baus hat ein Fenster, durch das man die Mondsichel sieht. Obwohl die Mondsichel räumlich weit hinter der Gestalt Mariens ist, ist sie doch bildkompositorisch dadurch ihr ganz eng zugeordnet, dass der Sternenkranz um Mariens Haupt optisch die Mondsichel im Fenster umgreift; der Regenbogen, der auf Mariens Händer ruht, umspannt das ganze Giebelgebäude. Giebelbau, Mond und Sternenkranz sind also durch den umfassenden Regenbogen ausschließlich auf die Person Maria bezogen.
+
+Der Mond, der heller als alle übrigen nächtlichen Himmelskörper leuchtet, wird in der Emblematik als Bild der Verdienste Mariens gesehen, die an Bedeutung alle Heiligen und Engel überstrahlen: {ZITAT|001} (Picinelli Lib. I, Nr. 215, s. v. luna). Die Sterne haben neben der Bedeutung >Maria immaculata« wohl auch noch, wie der Mond, die Bedeutung einer größtmöglichen Auszeichnung Mariens, die, schwanger mit dem Wort Gottes, die Erde mit dem Himmel in wunderbarer Eintracht vereinte: {ZITAT|002} (ebd. Nr. 228. s. v. stellae).
+
+Vom Regenbogen wird auch das Fenster umfasst, das, vom Sonnenlicht durchdrungen wird und von ihm doch nicht verletzt, wieder ein Bild der jungfräulichen Mutterschaft Mariens ist, dessen verschlossenen und unverletzten Leib Christus durchdrang - sowohl bei der Inkarnation als auch bei der Geburt: {ZITAT|003}. Maria sei das {ZITAT|004}, nämlich das Fenster des Himmels, durch das Gott das wahre Lich auf die Welt ergoss.
+
+Der Regenbogen, der auf den ausgestreckten Händen Mariens ruht, umfasst und rahmt alle diese auf das Mysterium der Inkarnation und auf Mariens unvergleichliche Stellung bezogenen Bilder nicht nur, sondern ist selbst ein schönes und bedeutungsvolles Bildmotiv dafür. Er ist Zeichen des Friedens und der Versöhnung Gottes mit den Menschen, wird mit dem göttlichen Wort verglichen, das Menschengestalt angenommen, den Zorn Gottvaters beschwichtigt hat und zum Künder des Friedens wurde: {ZITAT|005} bezeichnet wird. Amor Divinus ist die Liebe Gottes, Amor Dei ist beides, die Liebe der Menschen zu Gott wie auch die Liebe Gottes zu den Menschen. Amor Dei ist sowohl der Grund für die Menschwerdung Christi, die geschehen ist {ZITAT|006}, als auch die Liebe Mariens zu Gott, die der Grund war für ihre Einwilligung, Werkzeug der Erlösung zu sein. Diese gegenseitige Liebe wird im Bild des Adlers mit der Sonne symbolisiert: Die Sonne an dieser Stelle des Deckenbildes ist Bild Christi; Bild Mariens hingegen ist der Adler: {ZITAT|007} (Picinelli Lib. IV, Nr. 210, s. v. aquila). Maria hat nicht nur Christus in ihrem Schoß umfasst, sondern auch Gott im Himmel in einer erhabenen Vision geschaut. Picinelli setzt den Vers hinzu: Par Aquila Virgo est coelesti lumine gaudent:/Illa capax magni Solis, et illa Dei« (Dem Adler gleich ist die Jungfrau, beide freuen sich am himmlischen Licht. Jener kann die große Sonne fassen, diese Gott.)
+
+Der Tempelbau ist flankiert von zwei hochragenden Architekturen, die Anrufungen Mariens aus der Lauretanischen Litanei sind. Links ist der elfenbeinerne Turm zu sehen, ein überreich ausgestalteter und gezierter weißer Turm, rechts der >Turm Davids, ein wehrhafter Rundbau, an dem Schilde und Fahnen angebracht sind.
+
+Der Turm Davids ist ein Bild aus dem Hohenlied (Cant. 4,4: {ZITAT|008}). Nach dem Speculum humanae salvationis ist er Antetypus Mariens. Picinelli bringt ihn als Bild des Schutzes, den Maria gewährt: (Lib. XVI, Nr. 232, s.v. turris): {ZITAT|009}: ut adeo minime mirum sit, clientes Marianos sub tanto asylo adversus omnem hostium incursum securos vivere« (ähnlich Nr 222).
+
+Der elfenbeinerne Turm findet sich bei Abraham a Santa Clara (S. 82) als Bild Mariens mit dem Lemma: CANDIDA CANDIDIS. Das Elfenbein ist rein und weiß wie Maria, deren Reinheit Voraussetzung war dafür, dass sie als Mutter Christi auserwählt wurde: Picinelli schreibt über das Elfenbein, dessen Weiße noch übertroffen wird von der Reinheit des Schoßes Mariens, den der König der Herrlichkeit einnahm: »Familiare hoc Mariae Virginis Symbolum est: cuius purissimum sinum ceu thronum prae ebure candidissimum, Rex gloriae occupavit (Lib. V. Nr. 301, s. v. ebur).
+
+DER TEMPEL ALS SALOMONISCHER TEMPEL Die Tempelarchitektur im Fresko wurde von Hofmann überzeugend als der Salomonische Tempel gedeutet. Einige Motive, die darauf hindeuten, wurden bereits als emblematische Hinweise auf die Inkarnation gezeigt: Die Bundeslade und die zwei Türme, die den Tempel flankieren. Sie sind zugleich Motive, die den Schauplatz als Tempel Salomos präzisieren: Der Tempel war auf dem Berg Sion errichtet, von dem gesagt wird: »Sein heiliger Berg, die herrliche Höhe, er ist die Wonne der ganzen Welt; der Zionsberg... (Ps 48,3). Türme bewehrten den Berg: {ZITAT|010}} (Ps 48,13).
+
+Die Tempelarchitektur im Fresko erinnert im Aufbau an den Salomonischen Tempel mit der Abfolge von Vorhalle, Kulthalle und Allerheiligstem. Auch im Fresko folgt auf die Portalarchitektur mit der gewölbten Halle ein unbestimmter Raum, der wegen der hellen Durchlichtung als Innenhof interpretiert werden könnte, worauf außer der Helligkeit aber nichts hinweist. Dann folgt erst die Giebelarchitektur mit den seitlichen Balustraden, die wohl dem Allerheiligsten des Salomonischen Tempels entsprechen soll.
+
+Die Szenerie um Maria ist kompositorisch hervorgehoben durch eine halbrunde, kuppelförmig nach oben gewölbte und vor die Tempelfront ragende blendendweiße Substruktion, die allerdings weder gemauert noch aus Felsgestein ist, sondern aus weißeste Marmorsubstanz denken lässt. Dieses rätselhafte Bildmotiv könnte auf die Prophezeiung des Isaias zurückgehen, nach der Jahwe spricht: »Sehet, ich lege in Zion einen Grundstein, einen bewährten Stein, einen kostbaren Eckstein- (Is 28,16). In dem weißen Sockel ist wohl dieser von Gott gelegte Stein zu sehen, auf dem Salomo seinen Tempel errichtete.
+
+Der weiße Sockel ruht auf Felsgestein, das vor den Stufen fast senkrecht abfällt; rechts und links davon sind Felsformationen zu sehen, die Hügel bilden. Dieser ganze Bergkomplex ist mit dem Tempelberg, dem Sionsberg zu identifizieren. Von dem felsigen Plateau des Sionsberges führen auf dem Fresko zum Niveau des Tempelvorplatzes sieben konvexe Stufen und darauf folgend zwei seitlich emporführende Treppen.
+
+Ein weiteres Motiv, das auf den Salomonischen Tempel deutet, ist der Tempelquell. Auf halber Höhe in der Mitte der Felsen des Sionsbergs im Fresko entspringt Wasser und fließt in ein halbkreisförmiges Becken, in dem das Wasser als hohe Fontäne aufspringt. Dann ergießt es sich über den Beckenrand nach unten, um in Form eines rauschenden Gießbachs den Erdteildarstellungen zuzufließen. Diese Brunnenanlage ist kompositorisch wie inhaltlich ein wichtiges Motiv. Zunächst erinnert sie an Psalm 42,1-4: {ZITAT|011}}: Es sind die Klagen der unerlösten Gestalten Adam, Abraham, Moses, der gefangenen Israeliten, die alle im Fresko auftauchen als Vertreter des Alten Bundes {ZITAT|012}}, die auf Erlösung durch den Messias hoffen. Aber die an dieser besonderen Stelle entspringende Wasserflut spielt im ikonologischen Zusammenhang noch eine wesentlichere Rolle: Das Wasser fließt auf die Erdteile Europa und Asien zu, es ist in Afrika als wild dahin schießender Fluss gezeigt und ist auch in der Szene vorhanden, die in Amerika spielt, als Meer, auf dem das Schiff der Missionare kam.
+
+Unübersehbar aber ist, dass die Quelle unter dem Tempel entspringt, aus dem Berg, der mit dem Berg Sion gleichzusetzen ist. Hofmann erinnert an eine Stelle bei Ezechiel: {ZITAT|013}}. Das Wasser rieselte außen von den Wänden, und es schwoll an, und wurde zum Fluss. {ZITAT|014}} (Ez 47,1-12). Diese Stelle der Bibel deutet Cornelius a Lapide (Kommentar zu Ezechiel, Bd VI, S. 1234): {ZITAT|015}} Die Quelle, die unter dem Tempel entspringt, ist damit als die christliche Lehre zu deuten, die nach kleinem Anfang in Jerusalem über den ganzen Erdkreis verbreitet werden muss, bis zum Meer und zu den Grenzen der Welt; und alle Völker, zu denen diese Lehre kommt, sollen durch sie von Irrtum und Schlechtigkeit geheilt werden. Die Quelle ist damit auch Bild der Inkarnation als Anfang des Heilsgeschehens. Mit der Ausweitung der Gnade auf die ganze Welt ist in ihr bereits das wichtige Bildmotiv der Mission vorbereitet.
+
+Der Tempel Salomos spielt also im Bildkonzept eine große Rolle; er ist hier Schauplatz der Inkarnation, er steht für die Zeit ›sub lege‹, für den mosaischen Glauben und dessen Erwartung des Messias. Gleichzeitig bedeutet das, was im Bild geschieht, nämlich die Inkarnation, das Ende des mosaischen Glaubens und mit der Erlösung den Beginn des christlichen Glaubens. Die Menschwerdung geschieht an der Schwelle zwischen der Zeit ›sub lege‹ und der Zeit ›sub gratia‹. Dem höchsten bedeutungsvollen Moment, in dem das Neue das Alte ablöst, entspricht der bedeutungsvollste Bau, das Symbol geradezu der Inbegriff des jüdischen Glaubens. Hier im Tempel, im Deckenbild der Vorhalle, erscheint aber bereits das Dreieck als christliches Symbol, als Zeichen der Dreifaltigkeit
+<!-- citation-page-bottom: Band14 p69 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=11 -->
+<!-- citation-page-top: Band14 p70 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+[[File:Band14_chunk002_p011_img001.jpg|thumb|Opfer Abrahams]]
+
+Es ist vom Gnadenstrahl der Zeugung berührt und selbst von Strahlen umgeben. Die Engel mit den Weihrauchfässern rechts und links beten es an: »Novum Pascha novae legis/Phase vetus terminat« (Thomas von Aquin, aus der Sequenz des Fronleichnamsfestes).
+
+So kann man den Salomonischen Tempel nicht nur in der Reihe der vielen (»innumeris«) Bilder und Zeichen in diesem Fresko sehen, als Symbol oder als Antetypus. Er ist hier vor allem auch ein >historischer< Schauplatz für einen >historischen< Moment.
+
+== DIE PROGENITORES VIRGINIS ==
+Von Maria, in deren Schoß der Erlöser eben menschliche Substanz angenommen hat, gehen vier Gnadenstrahlen aus, die auf die in den vier Bildrichtungen dargestellten Erdteile fallen. Diese Gnadenstrahlen haben etwa den gleichen Sinn wie das Wasser der Tempelquelle: Durch die Inkarnation Christi wird das Erlösungswerk in Gang gesetzt. Die Gnade geht von Gott aus, der seinen Sohn im Schoß Mariens Mensch werden ließ, zur Erlösung der Menschheit: Maria leitet sie weiter auf alle Menschen der Erde. Maria ist die Vermittlerin der Gnade, weil sie das Werkzeug der Erlösung ist.
+
+»Wie diese Erlösung nach dem Sündenfall ersehnt, vorbereitet, verheißen wird, im Vorbild zu ahnen ist, und wie sie Wirklichkeit wird, will dieses Buch zeigen« (Neumüller 1997, Kommentar zum >Speculum humane salvationis<, S. 6). Ersetzt man das Wort Buch durch das Wort Bild, so hat man in wenigen Worten das Thema des Deckenbildes von Maria de Victoria. In den Figuren, die in der Bildbeschreibung der >Litterae Annuae< als >Progenitores Virginis< bezeichnet werden, wird gezeigt, wie die Erlösung »ersehnt, vorbereitet, verheißen« wird.
+
+In den ›Litterae Annuae‹ werden als ›Progenitores‹ bezeichnet Adam sowie die Antetypen des Inkarnationsgeheimnisses aus dem alten Testament, Abraham, der Isaak zu opfern bereit war, Moses als Anbeter des brennenden Dornbuschs und die gefangenen Juden, die die Freiheit und den kommenden Erlöser ersehnen. In diesen Zusammenhang gehört auch noch die Darstellung Davids, obwohl dieser in den ›Litterae annuae‹ als >Progenitor< nicht genannt ist.
+
+== DER ALTE ADAM ==
+An der südlichen Schmalseite des Deckenbildes ragt der Baum der Erkenntnis aus dem Paradies auf, reich mit roten Äpfeln behangen. Darunter, auf einer am Bildrand steil abstürzenden Hangkante, ist der greise, weißbärtige Adam im Fellkleid zu sehen, der sich mit der linken Hand auf seine Schaufel stützt. Es ist der einst aus dem Paradies verbannte Adam, Adam als Greis, der sich auf der Erde im Schweiße seines Angesichts abgemüht hat. Er hebt die geöffnete Rechte zum Himmel: auf sie fällt ein Lichtstrahl, der von Amor Divinus ausgeht. Um die Schaufel windet sich nach unten die Schlange, die Adam und Eva einst zum Sündenfall verführte. Am Bildrand ist der Kopf von einem Hirsch mit seinem Geweih zu sehen. Der Hirsch hat sein Maul weit geöffnet, und sein Blick ist nach oben gerichtet.
+
+Uber dem Baum der Erkenntnis, zum Teil von seinem Wipfel überschnitten, schweben zwei Engel nahe an der feuerumstrahlten Gestalt der ›Göttlichen Liebe<: der vordere Engel hält Amor Divinus mit beiden Händen einen angebissenen Apfel entgegen, den Apfel aus dem Paradies, von dem Adam und Eva gegessen haben: als Hinweis auf die Schuld des ersten Menschenpaares und damit auf die Erbschuld des Menschengeschlechtes. Der hintere Engel hält einen Palmzweig als Symbol des Lebens.
+
+Mit der Inkarnation setzte die Erlösung der Menschheit von der Erbschuld ein, der Sünde Adams und Evas. Ob diese Erbsünde eigentlich die Voraussetzung für die Inkarnation war, war eine umstrittene Frage. Thomas von Aquin zitiert Augustinus: Si homo non pecasset, Filius hominis non venisset (Quaestio 1, Articulus 3, S. 6), und äußert dazu, Gott hätte auch ohne Schuld der Menschen die Möglichkeit gehabt, Mensch zu werden (incarnari). »Quanquam Deus peccato non existente potuerit incarnari, convenientius tamen dicitur, quod si homo non pecasset, Deus incarnatus non fuisset« (S. 6). Aus der Schuld Adams sind alle Sünden der Menschen erwachsen. Und so hat Adam, auch weil er Stammvater aller Menschen ist und also Christus in der Inkarnation die menschliche Substanz Adams annahm, einen wichtigen Platz in dem großen Denk- und Bildgebäude des Kongregationssaales. Ein Engel bringt den Apfel, das Zeichen von Adams Schuld, hinauf zu Amor Divinus, und von diesem fällt wie als Antwort ein Strahl vom göttlichen Gnadenlicht durch das Geäst des Baumes auf Adams flehend ausgestreckte Hand, die einst den Apfel nahm. Dieses Motiv sagt aus, dass durch die Menschwerdung Christi, mit der das Heilsgeschehen einsetzt, auch die Erlösung des >alten Adam< bevorsteht. Aus seinem Geschlecht wächst nun in Christus der >neue Adam<, der den Menschen das Heil bringen wird. Der typologische Bezug Adam - Christus wurde schon sehr früh gesehen. Er geht auf den im 2. Jh. lebenden Kirchenvater Irenäus zurück: nach ihm »hat Christus als besserer neuer Adam das Menschenleben nach allen Seiten erfüllt und in sich zusammengefasst« (LThK Bd V, Sp. 589; s. zu Adam auch Hofmann 1986, S. 97–99).
+
+Ein Hirsch am Bildrand in unmittelbarer Nahe Adams, von dem nur der Kopf mit dem weit geöffneten Maul, Geweih und Hals zu sehen sind, hat seinen Blick auf den Gnadenstrahl gerichtet, der von Amor Divinus auf Adam fällt. Er ist wohl im Zusammenhang mit der Sehnsucht der unerlösten Menschheit nach dem Heil zu deuten. Der Hirsch spielte in der Symbolik und Emblematik eine große Rolle, weil er nach einer antiken Überlieferung giftige Schlangen fraß und wegen des Giftes in seinem Magen gezwungen war, oft und viel zu trinken; dadurch wird seine ständige Sehnsucht nach der Wasserquelle mit der Sehnsucht des Menschen nach Gott verglichen (Ps 41,2). Er steht hier im Bild symbolisch für die Sehnsucht Adams – und der Menschheit – nach Erlösung.
+
+Die Schlange – deren grässlich geöffnetes Maul die Vorstellung von Entsetzen und Todeskampf weckt – hat den Baum verlassen, windet sich am Schaufelstiel nach unten und sucht sichtlich das Weite. Sie ist überwunden. Maria und Christus werden sie zertreten (LCI Bd 4, Sp. 77–79, s. v. Schlange).
+
+== OPFER ABRAHAMS ==
+Über der Asia-Gruppe an der nördlichen Längsseite des Deckenbildes ragt eine Felsenformation auf, die oben mit Gras bewachsen ist. Hier steht hoch aufgerichtet Abraham, das Opfermesser in der Hand; vor ihm liegt auf einem Holzstoß der junge Isaak, bis auf einen weißen Len-
+
+<!-- citation-page-bottom: Band14 p71 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=12 -->
+<!-- citation-page-top: Band14 p72 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+denschurz entkleidet, mit gefesselten Händen. Er hat den Kopf gesenkt und wartet auf den Todesstoß. Die brennende Öllampe, um den Holzstoß für das anschließende Opfer zu entzünden, steht bereit. Doch kommt ein Engel in jähem Flug zu Abraham und hindert ihn daran, den Sohn zu töten. Ein Widder erscheint im Gebüsch links, der an Stelle Isaaks geopfert werden wird.
+
+Der felsige Hügel, der Schauplatz der Szene, ist im Bild als Teil des Sionsberges gezeigt, auf dem der Tempel errichtet ist. Der Berg Sion wird in der jüdischen Überlieferung mit dem Berg Moria gleichgesetzt, auf dem Abraham einst auf Gottes Geheiß seinen einzigen Sohn Isaak opfern sollte. Der Engel bei Abraham ist kompositionell eng mit den Engeln um Maria verbunden, und die ganze Abraham-Szene durch die kompositionelle Nähe zu Maria eng mit der Inkarnationsszene; sie ist auch bedeutungsmäßig als Antetypus dem Thema der Inkarnation eng zugeordnet. Die antetypische Entsprechung > Abraham opfert Isaak - Gottvater opfert Christus war geläufig
+
+Irenäus vergleicht Abraham, der den Sohn opfern will, mit Gott Vater, der Christus zur Erlösung der Menschheit aussendet“ (LCI Bd 1, Sp. 28, s. v. Abraham). Wie Abraham seiner einzigen Sohn zu opfern bereit war, so hat Gott »seinen einzigen Sohn nicht verschont, sondern ihn für uns alle dahingegeben« (Röm 8,32).
+
+KÖNIG DAVID PSALLENS (Abb. auf S. 67) Gegenüber von Abraham, ähnlich wie dieser auf einem Felsengipfel postiert, der dem Tempelberg, dem Berg Sion zugehört, erscheint König David als ein noch jugendlicher Mann mit lockigem Haar und Bart. Auf dem Haupt trägt er eine Krone, und seine Gestalt ist umwallt von einem hermelingefütterten roten Königsmantel. Er blickt zu Maria auf, während er in die Saiten seiner Harfe greift. Im Programm der ›Litterae Annuae‹ wird der Felsen, auf dem er kniet, als Parnass bezeichnet. Danach tritt David tritt hier an Stelle des leierschlagenden Apoll auf, denn Apoll hat seinen Platz dem heiligeren Apoll überlassen,
+
+[[File:Band14_chunk002_p012_img001.jpg|thumb|Die Juden in ägyptischer Gefangenschaft]]
+
+David, dem König des Saitenspiels und Künder des kommenden Messias und seiner Mutter: »locum cedit sacratiori Apollini, Davidi nimirum regi psalti... venturi Messiae et Magna Matris encomiastes«.
+
+Auch wenn in den >Litterae Annuae der Ort, auf dem David kniet, ›Parnass‹ genannt wird, ist er doch ein ›heiligerer Parnass, nämlich ebenfalls der Berg Sion, den David nach der Eroberung Jerusalems im Jahr 1004 v. C. befestigen und wohin er die Bundeslade bringen ließ: er ist Jahwes »heiliger Berg, die herrliche Höhe, er ist die Wonne der ganzen Welt« (Ps 48,3). So erscheint auf dem Fresko David in einer gewissen Parallelsetzung mit Abraham. Beide sind Stammväter (Progenitores) Christi, beide auf dem Sionsberg dargestellt, beide in unmittelbarer Nähe zu Maria, in der sich die Menschwerdung Christi vollzieht. Wie Abraham in antetypischem Bezug zu Gottvater gesehen wird, so David als gesalbter König als Antetypus des Messias.
+
+Wichtig im Zusammenhang des Bildgeschehens ist aber Davids Eigenschaft als >Enkomiastes des Messias, »desser ewiges König- und Priestertum er in den schönsten seiner Psalmen vorhergesehen und verkündet hat« (LThK Bd III Sp. 164), wobei wohl im thematischen Zusammenhang unseres Freskos am schwersten wiegen die Worte: »Den Beschluss
+
+Jahwes will ich künden: Er sprach zu mir: >Mein Sohn bist du, heute habe ich dich gezeugt« (Ps 2, 2-6; Introitus der ersten Messe in der Weihnachtsnacht).
+
+MOSES VOR DEM BRENNENDEN DORNBUSCH (Ex 3,1-12) An der nördlichen Längsseite des Bildes entspricht eine ansteigende, spärlich bewachsene Landschaft der Szenerie um Adam an der Südseite. Hier ist Moses an einem Felsen niedergesunken. Er ist als einfacher junger Hirt dargestellt, in kurzem blauen Gewand, das von einem Gürtel und Schultergurt gehalten ist. Seine Haare und sein Bart sind braun, kurz und kraus. Seine Schuhe stehen weit hinter ihm, bei seiner Schafherde. Der brennende Dornbusch erscheint auf einem kleinen, sanft ansteigenden Hügel vor ihm. Vom Lichtschein des Feuers geblendet, mehr aber noch von der Anwesenheit Jahwes erschreckt, hält Moses seine Hand vor die Augen, deren Finger wie die der rechten, ausgestreckten Hand gespreizt sind. Sein spähender Blick zwischen den Fingern hindurch ist über den Dornbusch hinweg zum Himmel gerichtet. Moses war von der Tochter des Pharao aufgezogen worden (Ex 21-10), zu Zeiten, in denen die Juden in der ägyptischen Gefangenschaft schmachteten: »In jener Zeit, als Moses herangewachsen war, ging er einmal hinaus zu seinen Brüdern und sah die Lasten ihrer Dienstbarkeit«
+
+[[File:Band14_chunk002_p012_img002.jpg|thumb|Moses vor dem brennenden Dornbusch]]
+
+[[File:Band14_chunk002_p012_img003.jpg|thumb]]
+
+<!-- citation-page-bottom: Band14 p73 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=13 -->
+<!-- citation-page-top: Band14 p74 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+sah ihre Fronarbeiten an. Und da sah er, wie ein Agypter einen Hebräer, einen von seinen Brüdern, schlug« (Ex 2,11f.). Moses erschlug den Agypter, dies kam dem Pharao zu Ohren und Moses musste flüchten. Er kam nach Midian zu dem Priester Jethro, der ihm seine Tochter zur Frau gab; und diese gebar ihm einen Sohn (Ex 2,21f.).
+
+»Die Israeliten aber seufzten unter ihrer Fron und schrien, und aus der Fron stieg ihr Hilferufen auf zu Gott. Gott hörte ihre Klage und gedachte seines Bundes mit Abraham, Isaak und Jakob. Gott sah auf die Israeliten, und erkannte sie« (Ex 2,23-25).
+
+Moses hütete die Schafe und Ziegen seines Schwiegervaters in Midian. Da kam er einst zum Berg Horeb (Sinai) und sah dort einen Dornbusch, der brannte, aber nicht verbrannte. Als er näher kam, rief ihn Gott und sagte: »Zieh deine Schuhe aus. Der Ort, auf dem du stehst, ist heiliger Boden... Ich bin der Gott deines Vaters, der Gott Abrahams, der Gott Isaaks und der Gott Jakobs. Da verhüllte Moses sein Gesicht; denn er fürchtete sich, Gott anzuschauen« (Ex 3, 4-6). Aus dem brennenden Dornbusch sprach Jahwe zu Moses, er habe das Flehen des Volkes in der ägyptischen Gefangenschaft gehört. Er, Moses, solle zu Pharao gehen und das Volk aus Ägypten führen.
+
+Die Szene, wo Moses vor dem brennenden Dornbusch kniet und Gott zu ihm spricht, wird seit dem Mittelalter als Präfiguration der Verkündigung an Maria gesehen, in der Gott ebenfalls einen Menschen, nämlich Maria erwählte, um dem Leiden seines Volkes ein Ende zu machen. Der brennende Dornbusch wurde aber auch in verschiedenen Varianten als Bild Mariens gesehen, die Jesus empfangen hatte: die Flamme im Dornbusch steht für das Göttliche im Menschlichen, wie es auch im >Speculum humanae salvationis« zu finden ist: »Flamma in rubo est divinitas in humanitate«. Diese Deutung ist im Sinnzusammenhang unseres Bildes die wohl entscheidende, wenn auch eine weitere Deutung mitgespielt haben mag, der Gedanke von der Bewahrung der Jungfräulichkeit Mariens bei der Inkarnation: »Wie der Dornbusch auf dem Horeb Gott in der Flamme getragen hat, so trug Maria Christus in der Jungfräulichkeit« (Marienlexikon Bd 2, S. 224, s. v. Dornbusch). In diesem Sinn erklärt auch der >Speculum humanae salvationis< die Szene »Rubus sustinuit ignem et non perdidit viriditatem, Maria concepit Filium et non amisit virginitatem«, eine Deutung, die sich unmittelbar wieder auf die Inkarnation bezieht. »Rubus ardens, inter flammas innocuus, Epigraphen tenet: FLAGRAT NON CONFLAGRAT. Mariam Virginem haec imago significat quae inter obloquentium haeresum flammas non tantum nihil detrimenti sed contra plurimum splendoris accipit. Item quae Verbum Divinum, ceu lumen aeternum, illaesa virginitate peperit (Picinelli Lib. IX, Nr. 438, s. v. rubus ardens).
+
+DIE JUDEN IN ÄGYPTISCHER GEFANGENSCHAFT (Im Text der >Litterae Annuae< wird Babylon als Ort der Gefangenschaft der Juden genannt, doch weist schon allein die Pyramide auf den Ort hin, der im Bild gemeint ist, nämlich Agypten.) Vor einer riesigen Pyramide, die als Kulisse die Szenerien der Nordseite zusammenschließt, ist ein rundgemauerter Brennofen zu sehen, aus dem oben hohe Flammen schlagen. An seiner Wandung führt eine vierstufige schmale Holztreppe nach oben, was für den Brennofen eine erhebliche Größe suggeriert, die dennoch von der dahinter sich erhebenden Pyramide um ein vielfaches überragt wird. Vor dem Brennofen sieht man Arbeiter mit Tragekörben auf dem Rücken. Die Dargestellten kann man identifizieren mit der jüdischen Arbeitern am Ziegelbrennofen in Ägypten, denen vom Pharao immer höhere Leistungen abverlangt wurden (Exod 5,7). Einer der Arbeiter hebt seine mit einer Kette gefesselten Arme zum Himmel empor, einer, auf der rechten Seite der Szene, wird von zwei Agyptern mit Stöcken geschlagen. Auf einem Steinsockel vor der Pyramide steht hoch aufgerichtet ein großer dunkelhaariger Mann. Er trägt Kettenhemd und Brustharnisch, dazu blaue Strümpfe und einen langen rosafarbenen Mantel. Er blickt finster. Die Linke hat er in herrischer Pose in die Hüfte gestützt, in der Rechten hält er einen hölzernen Stock mit Metallspitze und weist damit gebieterisch streng auf eine Steintafel in den Händen eines ihm untergebenen Mannes - dieser ist weit einfacher gekleidet und barfuß -, der zu seinen Füßen auf dem Sockel sitzt.
+
+Der martialische Herr, der auf die Tafel weist, kann kaum der Pharao selbst darstellen, wie Hofmann vermutet, sondern der, der über die Arbeit an der Pyramide gesetzt ist – den Fronvogt. Der Mann mit der Tafel ist sein Schreiber bzw. Aufseher. Auf der Steintafel ist zu lesen Zoo und 46.
+
+Als Moses den Pharao zum ersten Mal um einige freie Tage für sein Volk gebeten hatte, steigerte der Pharao die Leistungen, die die gefangenen Israeliten erbringen mussten, und als sie das nicht konnten, ließ er die Aufseher der Israeliten schlagen.
+
+Die von den Agyptern versklavten Juden, »die die Freiheit und den kommenden Messias erwarten« (>Litterae annuae<), stehen im Bildzusammenhang für die Menschheit, die nach der Erlösung durch den Messias schmachtet. Jahwe zeigt sich – durch Moses, der sein Werkzeug ist - als Retter und Befreier des israelitischen Volkes. Die von ihm geplante, durch die Berufung des Moses begonnene und von Jahwe persönlich begleitete Befreiung führte zum Alten Bund.
+
+Das schwere Schicksal der Gefangenen und die Berufung des Moses zu ihrer Befreiung sind hier im Deckenbild so ausführlich dargestellt, weil die Erlösung der Israeliten aus der ägyptischen Gefangenschaft Präfiguration der Erlösung der Menschen im Neuen Bund ist. Moses, der von Gott wegen der Befreiung der Israeliten zu Pharao gesandt wird und in der Folge den Befreiungszug leitet, ist Präfiguration Christi, der von Gott zur Erlösung der Menschen gesandt ist. Hofmann macht in diesem Zusammenhang auf eine Stelle bei Jeremias aufmerksam: »Siehe, es kommen Tage - spricht Jahwe -, da werde ich mit dem Hause Israel einen neuen Bund schließen. Nicht wie der Bund, den ich mit ihren Vätern geschlossen habe, damals, als ich sie bei der Hand nahm und aus dem Lande Agypten ausführte... Sondern das ist der Bund, den ich mit dem Hause Israel nach jenen Tagen schließen werde... Ich werde mein Gesetz in ihr Inneres legen und ihnen ins Herz hineinschreiben, und ich werde ihr Gott sein, und sie werden mein Volk sein« (Jeremia 31,31–33; Hofmann 1986, S. 101). So sind alle Figuren und Szenen des Alten Testaments direkt und konzis auf das Thema des Deckenbildes bezogen: Die Inkarnation Christi und die daraus folgende Erlösung der Menschen wird in ihnen vorgebildet. Während im Zentrum des Bildes der Moment der Gnade dargestellt ist, der Moment, der alles veränderte, zeigen die alttestamentlichen Szenen die Bedingung, die Präfigurationen und die Prophezeiung dieses Mysteriums.
+
+WIVSCIIUIIIS. Die beiden Zahlen auf der Tafel zu deuten – Zoo und 46 – ist noch nicht überzeugend gelungen. Die Möglichkeit, dass es einfach irgendwelche Zahlen sind, die andeuten sollen, dass die Arbeit der Israeliten scharf kontrolliert wurde, wie die Bibel berichtet, ist eher unwahrscheinlich. Alle Details dieses Deckenbildes sind so mit Bedeutung beladen, dass es sicher auch diese Zahlen sind. Hofmann liest die Zahl Zoo (die auch 200 bedeuten kann) als 200000 (Z = die römische Zahl für 2000) und identifiziert sie mit der Zahl der Amalekiter, die von den Isrealiten auf ihrem Zug besiegt wurden. Die Zahl 46 deutet Hofmann als symbolische Schlüsselzahl: »Sie verweist auf den Tempel des alten Bundes und den Tempel des Leibes des menschgewordenen Sohnes Gottes gemäß jenem Streitgespräch zwischen den Juden und Christus bei der Tempelreinigung« als die Juden sagten: »Sechsundvierzig Jahre ist an diesem Tempel gebaut worden, und du willst ihn in drei Tagen wieder aufrichten? Er aber redete von dem Tempel seines Lei-
+
+bes... Die Zahl 46 auf der Steintafel... wird damit zu einem typologischen Vorausbild auf den Tempel aus Stein und schließlich den neuen Tempel des Leibs des menschgewordenen Gottessohns« (Hofmann 1986, S. 100).
+
+FÜR UNS MENSCHEN, UND UM UNSERES HEILES WILLEN – DIE VIER ERDTEILE Die vier Szenen, die in den Ecken des Bildes in ausführlichen und figurenreichen Szenerien die vier Erdteile darstellen, spielen wiederum in einer anderen Zeit: in der Zeit der Gnade. Die Gnadenstrahlen, die von Maria bzw. vom bereits Mensch gewordenen Christus ausgehen, symbolisieren das Fortwirken der Gnade der Erlösung für die Menschen bis in die äußersten Teile der Welt und durch die Zeiten bis in die Gegenwart von 1735.
+
+Die Erdteile sind in theatralischen Inszenierungen vorgestellt: Asam zeigt sich hier von seiner erfindungsreichsten und phantasievollsten Seite. Sein Fundus an exotischen, prachtvollen Kostümierungen, an reichem Beiwerk ist unerschöpflich, seine Vorstellungskraft beim Ersinnen abenteuerlicher und malerischer Schauplätze ebenso. Nebenbei legt er einzelnen Figuren, Handlungen oder Gegenständen oft noch einen geheimen
+<!-- citation-page-bottom: Band14 p75 -->
+
+
+[[File:Band14_chunk002_p013_img001.jpg|thumb|Der Fronvogt schreibt die Zahlen Z0o/46]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=14 -->
+<!-- citation-page-top: Band14 p76 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAA -->
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+
+[[File:Band14_chunk002_p014_img001.jpg|thumb|Erdteil Asien. Allusion auf den Zug der Königin von Saba]]
+
+
+
+[[File:Band14_chunk002_p014_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band14 p77 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=15 -->
+<!-- citation-page-top: Band14 p78 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+
+[[File:Band14_chunk002_p015_img001.jpg|thumb|Kurfürst Karl Albrecht als Apoll, sein Sohn Max Joseph und sein Bruder Johann Theodor. Minerva weist ihnen die Kaiserkrone. Pegasus und Personifikationen der Künste sowie Vertreter der Universität Ingolstadt]]
+
+
+Sinn unter, der wieder das Hauptthema des Bildes aufgreift, symbolisiert oder deutet.
+
+Die vier prachtvollen Stuckkartuschen Egid Quirin Asams in den Ecken der Hohlkehle beziehen sich inhaltlich auf den jeweils darüber dargestellten Erdteil und stellen eine weitere Beziehung zwischen Maria und diesem Erdteil her. Nach den Inschriften huldigt Europa der ›Erhabensten‹ (AUGUSTISSIMA), Asia der Mächtigsten (POTENTISSIMAE), America der Glorreichsten (GLORIOSISSIMAE) und Africa der »Unbesiegbarsten« (INVICTISSIMAE). Engelsköpfe mit Flügeln sind jeweils mit Attributen des Erdteils versehen. Europa sind die päpstliche Tiara und die Schlüssel zugeordnet, dazu der Kurfürstenhut, das Goldene Vlies, Krone und Pferd (Pegasus). Asia ist durch Turban, zwei Zepter und Kamel gekennzeichnet, America durch Federn, Bogen und Pfeil sowie das Einhorn und Africa durch Turban, Bogen und Köcher mit Pfeilen und den Löwen.
+
+EUROPA/PARNASS (Südwestecke) Der Erdteil Europa erscheint im Deckenbild als die figurenreichste, vielgestaltigste und am meisten mit Sinn und Themen befrachtete Szenerie der Erdteil-Darstellungen. Bei allem tiefen Ernst des Programms wird vor allem in dieser Szene auf sehr theatralische Weise mit den Realitäten und Deutungsmöglichkeiten gespielt. Im Programm wird gesagt, der Parnass stelle Europa dar, das der Jungfrau am nächsten sei: »Europam viciniorem virgini Parnassus refert«. Die Darstellung gipfelt in einem Berg, dem gleichen Berg, auf dem auch der Tempel steht, dem Sionsberg. Hier kniet David als der Prophet des Inkarnationsgeschehens (s. o.).
+
+Apoll, dem der Platz auf dem Parnass eigentlich zusteht, hat laut Programm in den ›Litterae annuae« diesen Platz David überlassen, dem >heiligeren Apoll« - womit der Berggipfel auch zu einem >heiligeren Parnass< wird - und er weiht seine Leier laut Programm der >heiligeren Pallas<, nämlich Maria: »Plektra sua sanctiori Palladi dedicat«.
+
+Die eigentliche Pallas, Minerva, steht etwas seitlich in der Europa-Gruppe, mehr im Vordergrund. Sie ist nicht nur durch ihre beherrschende Gestalt, sondern auch durch den Erdball, den sie bei sich hat, hervorgehoben und ausgezeichnet. Es ist eine aufgerichtete weibliche Gestalt in goldener Rüstung. Ihr Helm ist lorbeerbekränzt und mit einem ausladenden roten Federbusch geziert; sie trägt einen goldenen Brustpanzer und einen weiten rotvioletten Mantel. Am Schulteransatz ihrer Rüstung ist in goldener Fassung ein großer blauer Schmuckstein angebracht. Lore Kaute hat diese Figur überzeugend als Personifikation Europas gedeutet: sie hält in der Hand die Kaiserkrone. Der Gnadenstrahl, der für Europa bestimmt ist, fällt auf sie, und zwar trifft er genau auf den blauen Stein an ihrer Rüstung: ein bemerkenswertes Motiv. Der blaue Stein stellt einen Saphir bzw. einen Lapislazuli dar. Der leuchtendblaue Lapislazuli mit den goldenen Pünktchen, ein Bild des Himmels, war in der Antike und in der Bibel gewöhnlich gemeint, wenn man von einem Saphir sprach. Auch noch im 18. Jh. war der Lapislazuli »der eigentliche Träger der an den Saphir geknüpften Symbolik. Doch da diese sich hauptsächlich auf die blaue Farbe beider Edelsteine bezieht, bleibt sie trotz des Irrtums auch für den Saphir bestehen« (Forster, S. 148). Der blaue Stein war ein heiliger Stein, Zeichen der Heiligkeit für seine Träger und Versicherung des himmlischen Schutzes. »Veteres Philosophi docuerunt, Sapphirum regibus et pontificibus plurimum convenire« (Die alten Philosophen lehrten, dass der Saphir den Königen und höchsten geistlichen Würdenträgern zukomme. Picinelli Lib. XII, Nr. 265, s. v. sapphirus). »Sapphi¬ rus, qui caelo sereno similis est, coelestium bonorum signat spem. Itaque bonus Christianus ... oculos ac mentem in coelestem hunc sapphirum defigat« (Der Saphir, der dem klaren Himmel ähnlich ist, bezeichnet die Hoffnung auf die himmlischen Güter. Deshalb soll der gute Christ die Augen und den Sinn fest auf diesen himmlischen Saphir richten. Ebd. Nr. 268). »Die christliche Symbolik sieht im Saphir ein Bild jener, deren Sinn auf das Himmlische gerichtet, deren ›Wandel im Himmel‹, deren Festigkeit ungebrochen ist, deren Liebe wie Gold leuchtet. Alle diese Eigenschaften sollen in hervorragender Weise die Prälaten und Fürsten zieren, darum tragen sie Saphire in ihren Ringen« (Forster ebd.). Hofmann hat sicher Recht mit dem Hinweis, dass der Saphir als Symbol der priesterlichen Rolle der Europa-Personifikation zu sehen ist, als Hinweis auf das »summum sacerdotium«, das Papsttum und die Kirche, wie ja Europa oft mit päpstlichen Attributen dargestellt ist. Die Gestalt der Europa ist damit sozusagen als christianisierte Minerva zu verstehen, in der die Errungenschaften der Antike, ihre Kunst und Wissenschaften, mit dem Christentum vereint Europa charakterisieren: auf dieses Europa fällt der Gnadenstrahl.
+
+In der Linken hält Europa eine brennende Fackel, mit der sie das Flammenzeichen IHS, den Namen Jesu, auf den Erdball schreibt, der neben ihr liegt. Das Entzünden bezieht sich auf die Worte Jesu im Lukasevangelium: »Ich bin gekommen, Feuer auf die Erde zu werfen, und wie wünschte ich, dass es schon entfacht wäre« (Lc 12,49). Dieses Handlungsmotiv ist eine weitere Affirmation des priesterlichen Charakters der Figur; zugleich ist das IHS Hinweis auf das Wirken des Jesuitenordens auf der Welt, denn der Orden bezog die Worte Christi auf sich.
+
+Neben der Kirche ist es das Kaisertum, über das Europa definiert wird, das Heilige Römische Reich Deutscher Nation, dessen Idee zu den Grundlagen jeder Europa-Vorstellung gehört. Mit der Rechten hält die Figur der Europa die Kaiserkrone hoch; zu ihren Füßen erscheint links ein Adler, wie die Krone Symbol des Kaisertums. Das Präsentieren der Kaiserkrone hat hier außer dem symbolischen einen engen politischen Bezug: die Krone wird in Richtung einer Gruppe von Fürstlichkeiten gehalten, die zeitgenössische historische Personen darstellen.
+
+In dieser Gruppe dreier weltlicher Fürstenpersonen ist die beherrschende Gestalt ein erwachsener Mann mit weiß gepuderter Lockenperücke, gewandet in ein antikes Imperatorenkostüm in den Farben Weiß und Gold, der auf einem roten Kissen kniet. Auf seinem Kürass sind zwei goldene gegenüberstehende Löwen zu sehen, die mit gezückten Schwertern kämpfen, und zwischen ihnen ein Turm mit Zwiebelhaube. Um seinen Hals liegt die Ordenskette des Goldenen Vlieses; der leuchtendblaue Mantel, den er trägt, ist der Ordensmantel des bayrischen Georgi-Ritterordens. Mit der rechten Hand stützt sich der Fürst auf einen Feldherrnstab. Neben ihm ist
+<!-- citation-page-bottom: Band14 p79 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=16 -->
+<!-- citation-page-top: Band14 p80 -->
+
+INGOLSTADT KONGREGATIONSSAAL
+
+
+[[File:Band14_chunk002_p016_img001.jpg|thumb]]
+
+
+eine goldene Leier zu sehen. In dieser Figur ist der damals regierende bayerische Kurfürst Karl Albrecht dargestellt, der 1697 in Brüssel geboren worden war, ab 1726 regierte und 1745 in München starb. Er blickt auf zu Maria und weist mit der Rechten in empfehlender Geste zurück auf die Personen hinter ihm.
+
+Neben Kurfürst Karl Albrecht kniet sein damals achtjähriger Sohn Max Joseph, 1727 in München geboren, der als Max III. Joseph ab 1745 regierte und 1777 in München starb. Er trägt einen römischen Harnisch und einen weiten roten Mantel. Mit dem rechten Händchen weist das Kind auf den Stern des Hausritterordens vom Heiligen Georg auf seiner Brust, der aber nicht an der Ordenskette, sondern an einem breiten blauen Band befestigt ist, das, für den Knaben viel zu weit, auf seinen Schultern liegt. Der Georgi-Ritterorden wurde von seinem Vater am 24.4.1729 neu gegründet aufgrund einer Überlieferung von einer bayerischen Rittergesellschaft schon zu Zeiten der Kreuzzüge. Das auffallende Weisen des Kindes auf das Ordenskreuz hängt mit dem Thema des Deckenbildes zusammen: Die Mitglieder des Ordens hatten »zu geloben, ›für die Verteidigung des Glaubens an die Unbefleckte Empfängnis Mariens zu leben und zu sterben« (Hofmann 1986, S. 106).
+
+Hinter dem Kurprinzen Max Joseph steht ein junger Mann in purpurfarbenem Talar, mit Priesterkragen und Hermelinkragen, also ein geistlicher Fürst. Er fasst mit der Linken an den Knauf seines Schwertes. Bei dieser Figur handelt es sich wohl um Johann Theodor, den Bruder Karl Albrechts, der damals Fürstbischof von Freising und von Regensburg war.
+
+Die drei fürstlichen Personen stehen für das bayerische Herrscherhaus der Wittelsbacher. Diesem Herrscherhaus präsentiert Europa die Kaiserkrone, die Karl Albrecht 1742 auch erhalten sollte. Im Jahr 1735, zur Zeit der Entstehung des Deckenbildes, lag das noch in der Ferne, die Kaiserkrone war aber erklärtes Ziel der bayerischen Politik. Seit 1732 wurde in München für den Fall des Todes von Kaiser Karl VI., mit dem das Haus Habsburg im Mannesstamm aussterben würde, die juristische Beweisführung für den bayerischen Erbanspruch vorbereitet (Hofmann ebd.). Karl VI. starb 1740, mit ihm starb das Haus Habsburg im Mannesstamm aus. Der Wittelsbacher Karl Albrecht wurde 1742 zum Kaiser gewählt und am 12.2. 1742 in Frankfurt als Kaiser Karl VII. gekrönt.
+
+Ein weiterer Hinweis auf das Erwarten der Kaiserwürde für das Kurhaus findet sich bei dem kleinen Max Joseph: Er zeigt auf den Bruststern des Georgi-Ritterordens, den er trägt. Dieser Stern hat zwar die Form des Sterns vom Georgi-Ritterordens, jedoch nicht die Farben von dessen Vorderseite. »Das goldene Kreuz hat die Formen des Malteserkreuzes und ist auf der Vorderseite dunkelblau, auf der Rückseite rot emailliert, beiderseits weiß gerandet; zwischen den vier Armen dunkelblaue, weiß gerandete Rautenschildchen, deren jedes auf der Vorderseite einen der Buchstaben V. I. B. I. Virgini immacula
+
+
+[[File:Band14_chunk002_p016_img002.jpg|thumb|Europa-Minerva entzündet den Namen Jesu auf dem Erdball]]
+
+
+80
+<!-- citation-page-bottom: Band14 p81 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=17 -->
+<!-- citation-page-top: Band14 p82 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+== INGOLSTADT KONGREGATIONSSAAL ==
+
+tae Bavaria immaculata, in Gold und auf der Rückseite die Buchstaben I. U. P. F. Justus ut palma florebit enthält« (Schreiber, Die bayerischen Orden S. 42). Der kleine Prinz weist also auf die Rückseite des Ordens, und die Aussage »Der Gerechte wird blühen wie eine Palme« kann als ein glückliches Omen für seine Zukunft gedeutet werden, auf die Zukunft mit der Kaiserwürde, die vom Vater auf ihn übergehen wird – dies alles aber wird im Fresko nur angedeutet, mit der zu dieser Zeit noch angebrachten großen Zurückhaltung. In der linken Hand hält der Prinz einen Zweig mit Beeren. Es kann ein Lorbeerzweig sein als Hinweis auf den von ihm zu erwartenden Ruhm, es kann aber ebenso ein Ölzweig sein, der ein Zeichen für den Frieden wäre. - Max III. Joseph wurde nie Kaiser. Er sollte zehn Jahre später als achtzehnjähriger Kurfürst nach dem Tod seines Vaters 1745 Frieden mit Österreich schließen und für Bayern den Frieden bewahren, solange er lebte.
+
+Ein wichtiger Aspekt bei der Figur des Kurfürsten ist, dass er Züge Apolls hat. Wie Europa auch Minerva darstellt, so stellt in einer zweiten Sinnschicht Karl Albrecht auch Apoll dar, darauf weist die große goldene Leier neben ihm hin, außerdem die Stelle in den >Litterae annuae<, nach der Apoll seinen Platz dem >heiligeren Apoll<, dem König David überlassen habe. Als Apoll steht Karl Albrecht für Schutz und Förderung der Wissenschaften und Künste, deren Stätte die Universität von Ingolstadt ist.
+
+Zwischen der Figur des David oben auf dem Parnass und der des Karl Albrecht/Apoll finden sich Motive, in denen das Thema >Parnass< aufgegriffen wird. Direkt unter David ist das weiße Flügelpferd Pegasus zu sehen. Es bäumt sich auf und unter seinen Vorderhufen entspringt die Quelle Hippokrene, die Quelle der dichterischen Inspiration, die als kleine Fontäne aufsprudelt und ein Rinnsal bildet, das in Windungen den Berg hinabfließt, um nahe am Altarbaldachin hinter dem Stuckgesims zu verschwinden.
+
+Zum Parnass gehören auch die jungen Mädchen, die schräg vor und hinter Pegasus dargestellt sind. Laut Beschreibung in der >Litterae annuae« sind mit ihnen »die neun Schwesterr Apolls« gemeint: eine Identifizierung mit den neun Musen liegt damit nahe, weil die Musen nach mehreren Überlieferungen als Kinder Jupiters gelten, wenn auch nicht von Latona, die dem Jupiter Apoll und Diana gebar. Die Darstellung der neun Musen könnte ursprünglich auch vorgesehen gewesen sein - darauf weist die Neunzahl der Figuren hin und ihre Zuordnung zu Pegasus - sie kam aber nicht zur Ausführung. Vier der neun Figuren sind nur im Hintergrund angedeutet. Fünf haben Attribute, die zwar teilweise auch für einzelne Musen in Frage kommen, aber im Gesamtzusammenhang eher auf eine Darstellung der Künste verweisen, was auch durchaus im Sinne des Bildprogramms ist; Personifikationen der Künste treten oft als Begleiterinnen Apolls auf. Die Allegorien dieser Gruppe sind wohl als allgemeiner Hinweis auf die Übung der schönen Künste an der Universität Ingolstadt zu sehen, in Entsprechung der im Bild weiter unten ausführlich gezeigten Wissenschaften.
+
+Von rechts beginnend ist als erste eine junge Frau in blauem Gewand dargestellt, die einen Lorbeerkranz hochhält: sie könnte man am ehesten als Muse ansprechen, und zwar als Klio, die Muse der Geschichtsschreibung, die nach Ripa (s. v. Muse/Clio) einen Lorbeerkranz trägt und in Händen eine Posaune und ein Buch hält. Ebenso gut kann die Figur aber auch Poesia darstellen, die einen Lorbeerkranz und ein blaues Gewand als Kennzeichen hat. (Ripa, s. v. poesia 1-3). Neben ihr sitzt eine schöne junge Frau in rosafarbenem Gewand, die Perlen im Haar trägt und Laute spielt. Vor ihr liegt ein Notenblatt. Auch die Allegorie der Musica bei Ripa (s. v. musica) hat ein Musikinstrument und ein Notenblatt bei sich. So kann man die beiden schönen jungen Frauen wohl als die Poesie und die Musik deuten, die ja beide zur Ausbildung der Studenten gehörten. Zwei weitere Figuren links neben Musica sind fast völlig verdeckt – nur ihre Gesichtszüge sind sichtbar.
+
+Links, vor dem Hinterteil des Pegasus, folgen weitere drei junge Frauen: Die vorderste ist eine junge schöne Frau in zartfarbigen Gewändern, mit aufgebundenem blonden Haar, die en face dargestellt ist und auf den Betrachter blickt. Sie hält in der rechten Hand eine Maske und in der linken Pinsel und Palette. Die Maske können von den Musen sowohl Melpomene als Muse der Tragödie als auch Thalia als Muse der Komödie als Kennzeichen haben; zusammen mit Pinsel und Palette aber ist die junge Frau mit Sicherheit auf Pictura zu deuten, die Kunst der Malerei, die ebenfalls eine Maske als Attribut haben kann. Ähnlich mehrdeutig ist die Figur neben ihr dargestellt, eine schöne junge Frau in lockigem dunklen Haar, die einen Zirkel hält – im Musenzusammenhang ein Attribut der Urania - und mit dem Zirkel eine Spachtel; Zirkel zusammen mit Spachtel aber weisen eindeutig - auch im engen Zusammenhang mit der Malerei auf eine Allegorie der Sculptura hin, der Bildhauerkunst. Malerei und Bildhauerei bzw. Stuckatur sind die Künste, die Cosmas Asam und sein Bruder Egid Quirin Asam ausübten und von denen sie gerade in Maria de Victoria ein glänzendes Zeugnis ablegten.
+
+Hinter Malerei und Bildhauerkunst ist eine tanzende junge Frau mit einem Tambourin dargestellt, bei der man im Musenzusammenhang an Terpsichore, die Muse für Chorlyrik und Tanz, denken würde. Im Zusammenhang der Artes dürfte sie wohl den Tanz bedeuten, der ja bei den häufigen Theateraufführungen an den Jesuitenkollegien auch eine Rolle spielte. Neben dieser Figur sind, zum großen Teil verdeckt, noch zwei Gesichter zu sehen.
+
+Am linken Bildrand, in der Höhe von Albrecht/Apoll und den Musen, hält ein junger Mann in weiß-blauer Pagentracht mehrere Fahnen: die weißblaue Rautenfahne der Wittelsbacher, die Fahne der Kongregation mit der Verkündigungsmadonna und vorne, in Stuck übergehend, die kaiserliche Fahne mit dem schwarzen Doppeladler auf goldenem Grund.
+
+Von den drei jungen Männern, die im Hintergrund rechts neben Europa-Minerva dargestellt sind, ist jeweils nur der Kopf und der Schulteransatz zu sehen. Der linke Herr mit schulterlangen gepuderten Locken trägt einen weißen Mantel mit schwarzem Kreuz, der ihn als Deutschordensritter kenntlich macht. Er legt, zum Schweigen mahnend, den Finger auf die Lippen. Der mittlere trägt den roten Maltesermantel mit weißem Kreuz. Er hat kurze dunkle Locken und den Blick seitlich nach oben gewendet. Diese beiden Ordensritter sind als Angehörige weltlicher Orden sowohl dem Kaisertum zuzuordnen als auch - in ihrer Aufgabe, die heiligen Stätten der 
+
+[[File:Band14_chunk002_p017_img001.jpg|thumb|Der Rektor der Universität Ingolstadt, Johann Joseph Anton Hertel, an der Gnadenquelle]]
+<!-- citation-page-bottom: Band14 p83 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=18 -->
+<!-- citation-page-top: Band14 p84 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+
+[[File:Band14_chunk002_p018_img001.jpg|thumb|»Der Atomist«]]
+
+
+Christenheit aus den Händen der Nichtchristen zu befreiender Kirche. Rechts bei ihnen steht ein Mann in reich besticktem Gewand in Blau, Weiß und Gold mit großem goldbetressten Ärmelaufschlägen; er trägt dazu eine schwarze Kappe mit goldenem Aufputz und einem Federgesteck in goldener Agraffe. Er weist, sich zu den zwei anderen umwendend, auf das Geschehen an der Tempelquelle. Diese Figur gilt als Selbstbildnis Cosmas Damian Asams, eine Meinung, der sich Hofmann wohl zu Recht anschließt (Hofmann 1986, S. 107). Asam zeigte sich gern in ausgefallenen Kostümierungen. Diese als Cosmas Damian Asam gedeutete Figur scheint den jungen Ordensritter mit den weißgepuderten Haaren anzublicken, der eine gewisse Ähnlichkeit mit Porträts von Egid Quirin Asam hat. Dieser legt einen Finger auf die Lippen, um zum Schweigen zu mahnen. Die Gruppe dieser drei Figuren im Hintergrund, ihre Kostüme und die Handlungsmotive sind noch nicht schlüssig gedeutet.
+
+Bei dem Erdball, auf dem Europa-Minerva den Namen Jesu IHS entzündet, liegt ein großes Füllhorn und entleert seine Schätze nach unten: weltliche Würdezeichen und Blumen. Ein Füllhorn, gefüllt mit Blumen und Früchten, ordnet Ripa der Personifikation Europas zu. Hier liegen zu Füßen Europas Kronen, Zepter und die Tiara. Die Kronen und die Tiara sind ihr zugeordnet, weil »nell’ Europa vi sonno i maggiori, e più potenti Principi del Mondo; come la Maestà Cesarea, e il sommo Pontefice Romano« (Ripa, s. v. mondo/Europa). Zuoberst im Füllhorn sind zwei Kronen zu sehen, die sich auf damals in Europa bestehende Königreiche beziehen, sowie drei Kurhüte, die für die sieben Kurfürsten stehen (die Kaiserkrone wird von Europa-Minerva dem Kurhaus Bayern präsentiert, s. o.). Im Übrigen fallen aus dem Füllhorn nur Blumen, unter ihnen Rosen, Sonnenblumen, Lilien, Tulpen, Malven und ein Zweig blauer Winden.
+
+== DIE UNIVERSITÄT VON INGOLSTADT ==
+
+Direkt neben dem Füllhorn erscheint ein Putto. Er ist nackt bis auf eine kleine blaue Draperie über einer Schulter; auf dem Kopf trägt er einen Lorbeerkranz. Mit dem linken Arm hält er die Zepter der Universität, die 1642 von dem Goldschmied Michael Freytag angefertigt wurden und sich heute noch im Besitz der Universität München befinden (Hofmann 1986, S. 107); außerdem die Ruhmeszeichen Palmzweig und Fama-Posaune. Er verkündet den Ruhm der Universität Ingolstadt. Dieser Universität und den Wissenschaften ist die untere Hälfte der großen Europa-Inszenierung gewidmet.
+
+Rechts von Europa, auf einer kleinen Erderhebung über ihr, steht dem Wasserfall - dem ›aqua viva‹ der Tempelquelle - zugewandt und auf diese weisend der Rektor der Universität Ingolstadt mit der doppelten goldenen Ehrenkette. Er ist durch seine violette Soutane, das blaue Barett und die Beffchen als Theologe gekennzeichnet. Über der Soutane trägt er seinen Professorentalar aus grauschwarzem ziseliertem Samt, eine rote, pelzbesetzte Mozetta und eine breite Stola mit drei goldenen Streifen. Rektor zur Zeit, als das Deckenbild entstand, war der Theologe Johann Joseph Anton Hertel (Oktober 1734 bis Oktober 1735), von dem im Stadtmuseum Ingolstadt ein Porträt erhalten ist, das dem Dargestellten im Fresko ähnelt. Der Rektor ist von einem Mann in ebenfalls violetter Soutane begleitet, in dem Hofmann den Dekan der theologischen Fakultät sieht, der aber möglicherweise auch den Präses der Kongregation darstellt: zur Zeit der Ausmalung war das der Dogmatiker P. Franciscus Halden; er führt mit der Hand Quellwasser an seine Lippen. Vor den beiden Männern kniet an der Quelle ein Knabe in vornehmem Gewand mit blauem Mantel und greift in das Wasser, dessen Berührung ›lebendig macht« und das Sinnbild ist für die heilspendende Lehre Christi (s. o.).
+
+Zu Füßen des Knaben liegen am Ufer des Wassers mehrere Muscheln, darunter eine geöffnete Perlmuschel. Die Perle in der Muschel ist normalerweise ein häufiges Mariensymbol, speziell ein Symbol für Christus im Leib Mariens, denn man glaubte, die Perle sei von himmlischem Tau gezeugt. Hier tritt die Perlmuschel allerdings in anderer, noch nicht gedeuteter Form auf: in ihr liegen zwei Perlen.
+
+Weitere Vertreter der Universität sind an der linken Bildseite dargestellt, links unter Kurfürst Karl Albrecht. Einer kniet am Bildrand unter dem weißblau gekleideten Pagen mit den Fahnen, ein zweiter schräg unterhalb davon. Beide tragen den Professorentalar aus schwarzem ziselierten Samt, einen Pelzkragen und darüber eine goldene Kette. Breite Ärmelstulpen aus Goldbrokat lassen jeweils feine weiße Spitzenmanschetten sehen. Die roten Baretts, die die Gelehrten in Händen halten, kennzeichnen sie nach den Universitätsstatuten als weltliche Professoren (Kaute S. 84). Der links außen kniende ist der Vertreter bzw. Dekan der juristischen Fakultät. Er hat lange dunkelbraune Locken, wendet den Blick zu Maria und hat die linke Hand in einer Geste der Devotion auf die Brust gelegt. Der zweite, unter ihm kniend dargestellte, ist der Vertreter der medizinischen Fakultät. Er trägt eine gepuderte Lockenperücke und hält in der linken Hand eine Heilpflanze. Bei dieser Figur handelt es sich wahrscheinlich um Johann Jakob Treyling, dem damaligen Dekan der medizinischen Fakultät (* 1680 Eichstätt † 1758 Geisenfeld), der seit 1711 Professor für Medizin in Ingolstadt war und nach dem Tod von Johann Adam Morasch 1734 diesem als Primarius bzw. Dekan nachgefolgt war (s. Alte Anatomie, S. 105–107).
+
+Am unteren Bildrand, der Sphäre der Universität bzw. der Wissenschaft zugeordnet, ist eine Anhäufung von naturwissenschaftlichen Gegenständen dargestellt und bei ihnen eine schwer zu deutende Gestalt in phantastischer Kostümierung. Es ist ein eher junger, überschlanker Mann mit langen Gliedern und einem schmalen Gesicht mit auffallender Hakennase, offenem Mund und weit aufgerissenen Augen. Er trägt grüne Strümpfe – eins seiner überlangen Beine ist bis über das Knie zu sehen, samt dem weißen Strumpfband mit einer Rosette daran – dazu ganz flache leichte Schuhe wie ein Seiltänzer. Gekleidet ist er in ein weißes Hemd mit weiten, gefältelten Ärmeln, die unten mit einer violetten Seidenschleife gebunden sind. Darüber trägt er ein dunkelviolettes Gewand und einen sehr weiten und langen roten Mantel. Über den Kopf hat er eine dunkelviolette Jacke mit grünem Ausputz gelegt.
+
+Nicht nur in der Gewandung, sondern auch in der Gestik unterscheidet sich diese Figur vollkommen von den würdig gekleideten und sich gemessen bewegenden Vertretern der Wissenschaften. Mit heftig ausfahrenden Bewegungen seiner langen Gliedmaßen, in grotesk verrenkter Körperhaltung hand- 
+
+<!-- citation-page-bottom: Band14 p85 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=19 -->
+<!-- citation-page-top: Band14 p86 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAA -->
+
+tiert er an den wissenschaftlichen Geräten: Er blickt durch ein Fernrohr, dessen Stativ mit Winkel und Kompass er in der Linken hält. Mit der Rechten hält er ein geschlossenes Buch.
+
+Rein vom Anschaulichen her ist die Gestalt eine närrische Figur, Gegenfigur zu den würdigen Professoren, dabei müsste er in dieser Umgebung und in diesem Zusammenhang als Vertreter der Philosophie erscheinen, der vierten Fakultät in Ingolstadt, ein Professor, ebenso würdig wie seine Kollegen. Hofmann deutet ihn als Astronomen (1986, S.7).
+
+Die Gegenstände, die bei ihm dargestellt sind, sind das er wahrte Fernrohr, montiert auf einen Sextanten; der große Himmelsglobus mit dem Zodiakus, wo sich rote Linien über dem Sternbild der Jungfrau kreuzen, wobei die Jungfrau einen Flügel hat, aber durch die folgende Waage eindeutig als Jungfrau zu sehen ist; eine Messlatte, ein Winkel und ein Zirkel; ein aufgeschlagenes Buch mit sehr einfachen geometrischen Zeichnungen, die zum Teil falsch, zum Teil einfältig sind; eine Taschen-Sonnenuhr auf dem unebenen Boden, die von mehreren Steinen unterstützt wird, damit sie gerade steht und die richtige Zeit anzeigen kann; ein Luftdruck-Rezipient, wo in der Glasglocke, aus der die Luft abgesaugt werden kann, der Vogel zu sehen ist, der durch sein Sterben die Abwesenheit der Luft beweisen wird.
+
+Der oben beschriebene Putto mit den Ruhmeszeichen der Universität scheint sich von diesen Gerätschaften wie von der Astronomen-Figur abzuwenden. Auch in der Geste seiner rechten Hand liegt etwas Abwertendes, ein weiterer Hinweis, dass in dem Bereich um den ›Astronomen‹ eine Gegenwelt zur Welt der würdigen Wissenschaft dargestellt ist. Vielleicht hat der Bildkomplex des »närrischen« Gelehrten mit seinen teils doch fragwürdigen Gerätschaften mit dem Atomistenstreit zu tun.
+
+DER ATOMISTENSTREIT »In Ingolstadt schwelte in der ersten Hälfte des 18. Jahrhunderts ein Gelehrtenstreit zwischen den Anhängern der althergebrachten und an Aristoteles orientierten so genannten peripatetischen Lehre - vorwiegend traditionell eingestellten Mitgliedern der Gesellschaft Jesuund den so genannten Neoterici, Universitätsprofessoren, unter ihnen zunächst auch einige Jesuiten, die eine Etablierung von Naturwissenschaften im modernen Sinn anstrebten und durch eine stärkere Einbeziehung von Forschung und Experiment die Unterrichtsmethoden an der Universität zu reformieren suchten.
+
+Das Weltbild der Peripatetiker orientierte sich an einem durch Thomas von Aquin bereinigten Aristotelismus und verband die Vorstellung von Gott als dem unbewegten Beweger, als der endgültigen einen Substanz, mit der von ihm geschaffener Welt zu einer untrennbaren Einheit. In diesem ganzheitlicher Weltbild kommt dem Menschen und seiner Intelligenz mit der Fähigkeit zur Erkenntnis irdischer Zusammenhänge nur eine untergeordnete Rolle zu, weil alles Diesseitige dem großer und allzeit wirksamen Göttlichen zugeordnet ist, auf das es sich vor allem auszurichten hat.
+
+Unter den Neoterici dagegen etablierte sich eine atomistische Anschauung, die von einer autonomen Materie ausging, die<br>alle Kräfte, also auch die geistigen und die der Fortzeugung<br>und Entwicklung an sich band und dementsprechend ein deis-
+
+tisches Gottesbild beinhaltete, die Vorstellung von einem Gott, der sich nach der Erschaffung der Welt zur Ruhe gesetzt hat und nicht mehr aktiv in die Geschehnisse auf Erden eingreift. Entsprechend war aktuelle Aktivität an die Welt gebunden, an Materie und Geist, an den Menschen. Er hatte mit seinen Kräften und seinem Verstand für irdische Erkenntnis und Entwicklung zu sorgen.
+
+Während es den frühen Vertretern atomistischer Vorstellung gen in Ingolstadt, etwa dem Jesuiten Joseph Anton Kleinbrock (* 1668 † 1714) und dem Mediziner Johann Michael Herte (* 1650 † 1711) noch gelang, ihre neuen Anschauungen so voi sichtig zu formulieren, dass die peripatetische Lehre durch si nicht hinterfragt oder angegriffen wurde, traten die Meinungs unterschiede später stärker hervor und eskalierten zum offe nen Streit. Johann Adam Morasch (* 1682 † 1734), Schüler vo Kleinbrodt und Hertel und seit 1710 Ordinarius für Medizin bezog in seinem in zwei Teilen erscheinenden Werk >Philoso phia atomistica (1727 und 1731) für eine atomistische Lehr Stellung, die in Anlehnung an Descartes zwei Substanze akklamierte, die Materie und das Denken, und den Mensche als höchststehendes Wesen verpflichtete, die Welt zu erfor schen. Ein Beispiel mag verdeutlichen, dass seine naturwissen schaftlichen Definitionen, vielleicht auch in dem Wunsch, da Wesentliche einfach und verständlich zu machen, dabei rech mechanistisch ausgefallen sind: für Morasch bestand etwa ei warmer Stein aus der Materie des Steins und aus Wärme trans portierenden Atomen, die in die Poren des Steins eingedrun gen sing
+
+Auf die atomistischen Schriften Moraschs – 1733 kam noch sein anonym erschienenes Werk Atomismus ab iniustis Peri pateticorum censuris et imposturis vindicatus« dazu – wurd von peripatetischer Seite vor allem von Georg Hermann (* 1693 † 1766) geantwortet, der 1725 Philosophie- und 1733 Theologieprofessor geworden war: 1730 erschien sein >Lapis Offensionis Atomisticae a peripatetico motus sive dialogi inter Peripateticum et Atomistam veritatis«, die Wiedergabe eines Streitgesprächs zwischen einem Peripatetiker und einem Atomisten, in dessen Verlauf der Atomist sich geschlagen gibt. Sein 1737 erschienenes Werk De Deo sciente handelt nicht nur vom »allumfassenden göttlichen Wissen, sondern ebei auch von der grundsätzlichen Beschränktheit irdischer Er kenntnis« (Ms. Eva Langenstein).
+
+Im Ganzen gesehen sind bei der Darstellung Europas drei Themenbereiche wesentlich: Zum einen das Heilige Römische Reich, mit Adler, Fahne, Kaiserkrone, den Kronen und Kurhüten aus dem Füllhorn und dem Auftreten Kurfürst Karl Albrechts in Begleitung von Sohn und Bruder, der aus damaliger bayrischer Sicht Erbe der Kaiserwürde war. Innerhalb des Reichsgedankens wird die Aufmerksamkeit mit der Fahne und den Wittelsbachern auf Bayern gelenkt, in deren Hoheitsgebiet die Universität war. Das zweite Thema ist die Universität, mit dem Rektor an der Quelle der heilbringenden christlichen Lehre, den Vertretern der Fakultäten, dem Genius mit den Zeptern, der Kongregationsfahne und auch mit der närrischen Gegenfigur. Der dritte wichtige Bedeutungsbereich ist der Parnass bzw. die Antike: mit dem Minervakleid der Europa, Pegasus, Hippokrene, den ›Musen‹ genannten Allegorien der
+
+[[File:Band14_chunk002_p019_img001.jpg|thumb|Asia als Königin von Saba]]
+<!-- citation-page-bottom: Band14 p87 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=20 -->
+<!-- citation-page-top: Band14 p88 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+
+[[File:Band14_chunk002_p020_img001.jpg|thumb|America, Indianer und jesuitische Missionare vor einer spanischen Galeone]]
+
+
+Artes und mit der Apollodeutung des Kurfürsten – hier wird an die Basis der europäischen Bildung und auch der europäischen Künste in der Antike erinnert, aber auch – mit der Figur Davids – an die Basis des Christentums im Alten Testament.
+
+ASIA In der Europa gegenüberliegenden Nordwestecke des Bildfeldes ist der Erdteil Asien dargestellt. Der Gnadenstrahl, der von Maria ausgeht, fällt auf die Brust der Personifikation Asia, und zwar auf den hellen Stein in Goldfassung, den sie als Schmuck am Busen trägt. Sie ist als eine königlich geschmückte Frau kniend dargestellt, mit zum Himmel gerichteten Blick, die rechte Hand in einer Geste der Anbetung ausgestreckt. Mit der Linken hält sie ein Zepter auf einem goldbestickten Kissen, das von zwei kleinen, weiß und goldgekleideten schwarzen Dienern präsentiert wird. Ihr Kleid ist golden, mit Perlen verziert, mit einem edelsteinbesetzten Gürtel und dem oben erwähnten hellen Stein in Goldfassung auf der Brust geschmückt. Statt einer Krone trägt Asia einen reich mit Perlen umwundenen, steinbesetzten Turban. Dieser läuft nach oben in einer Spitze aus, an der ein feiner weißer Schleier befestigt ist. Ihr Mantel ist mit Hermelin gefüttert. Zur Rechten Asias sieht man ein großes Weihrauchfass, dem weißer Rauch entströmt und nach oben steigt. Am rechten Bildrand ist ein Kamel gezeigt, von dem ein Mann eine eisenbeschlagene Kiste ablädt. Die königlich geschmückte weibliche Figur mit dem Turban und den Attributen Weihrauchfass und Kame ist in erster Sinnschicht Personifikation der Asia. Wie aber Europa in Gestalt Minervas auftritt, so hat auch Asia eine tiefere Bedeutung. Während Kaute 1966 eine Deutung als Königin von Saba ablehnt, bleibt Hofmann 1977 dabei; Hofmann 1986 (S. 107f.) führt in diesem Zusammenhang seinen Hinweis auf den Zug der Drei Weisen aus dem Morgenland weiter und sieht im Zug der Asia/Königin von Saba eine Präfiguration der Anbetung Jesu durch die Drei Könige.
+
+In zweiter Sinnschicht in der Figur der Asia die Königin von Saba zu sehen, darin ist Hofmann zuzustimmen. Es leuchtet schon vom Anschaulichen her ein, aber auch als Parallele zur Europa, die als Minerva ebenfalls eine zweite Identität hat. Die Königin von Saba zog zu Salomon, weil sie von seiner großen Weisheit gehört hatte, sich davon überzeugen und ihm Fragen stellen wollte. Sie »kam nach Jerusalem mit sehr großem Gefolge, mit Kamelen, die Spezereien und eine große Menge Gold und Edelgestein trugen« (1 Kön 1–3). »Dann schenkte sie dem König hundertzwanzig Talente Gold, sehr viel Balsam und Edelsteine« (2 Chron 9, 8-9).
+
+Der Strahl, der von Maria ausgeht, fällt auf den weißen Stein auf der Brust der Asia/Königin von Saba. Dieses Motiv korrespondiert mit dem des Strahls von Maria auf den blauen Stein an der Brust der Europa/Minerva. Ein weißer Stein kann als Diamant oder als Kristall gesehen werden. Der Diamant kann auf die unbefleckte Empfängnis Mariens weisen und damit in den Zusammenhang der emblematischen Hinweise auf die Reinheit Mariens passen. Auch der Kristall kann auf Maria, ihre Reinheit und unbefleckte Empfängnis bezogen werden (Picinelli Lib. XII, Nr. 8, s. v. adamas; Nr. 93, 94, 99, s. v. crystallus). Doch diese Deutung kann hier als zu allgemein ausgeschlossen werden.
+
+Präziser trifft den Punkt die Deutung des Diamanten als Hinweis auf Divina Sapientia (Picinelli Lib. XI, Nr. 20, s. v. adamas) mit dem Lemma DURAT, ET LUCET: »Salomone teste, has ipsas praerogativas Sapientia Divina sibi proprias vendicat, quae clarissimum splendorem, nullo unquam aevo intermori turum demonstrat« (Nach dem Zeugnis Salomons hat die Göttliche Weisheit diese besonderen Vorrechte, weil sie den klarsten Glanz zeigt, der nie in den Zeiten verlöscht.) Picinelli bezieht sich hier auf die Worte Salomons: »Strahlend und unvergänglich ist die Weisheit« (Buch der Weisheit 6, 12-13). Mit ihrem Zug zu Salomon zeigte die Königin von Saba sich auf der Suche nach der wahren Weisheit und damit auf der Suche nach Christus, der im Vorhallenfresko als neuer Salomo gedeutet wird. Christus, dessen Menschwerdung Thema des Deckenbildes ist, ist der neue Salomo, Asia in ihrer Suche nach der Göttlichen Weisheit, nach Christus und seiner Lehre die neue Königin von Saba. Der Gnadenstrahl, der auf den Diamant an ihrer Brust fällt, besagt: Asien wird an der Gnade teilhaben, die mit der Menschwerdung Christi in die Welt kommt. Dem großen Weihrauchfass zur Rechten von Asia/Königin von Saba entströmt weißer Rauch und steigt nach oben. Neben diesem Weihrauchfass kniet ein bärtiger Mann mittleren Alters in einer blauen Soutane und einem schwarzen Mantel, der
+<!-- citation-page-bottom: Band14 p89 -->
+
+
+[[File:Band14_chunk002_p020_img002.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=21 -->
+<!-- citation-page-top: Band14 p90 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+einen breitrandigen roten Hut trägt. Sein asketisches Gesicht ist verehrend zu Maria erhoben. Seine Rechte hat er auf die Brust gelegt, mit der Linken öffnet er den Deckel des Weihrauchgefäßes. Der Weihrauch gehört zu den großen Kostbarkeiten, die aus Asien kommen. Er ist Attribut der Asia und außerdem Symbol des Gebetes, das zum Himmel steigt. In diesem Mann wird wohl auf die missionarischen Bemühungen der Jesuiten in Asien angespielt. (Die Identifizierung dieser Figur mit einem Missionar wird von Kaute abgelehnt, von Hofmann aber bejaht, der an Franz Xaver erinnert; s. Hofmann 1986, S. 108.)
+
+Im Vordergrund sind Reichtümer Asiens aufgehäuft: Früchte und Muscheln, kostbare Geräte und Waffen, ein Teppich Korallen, Perlen und Goldschmiedearbeiten. Auf einem Perlenhaufen liegen zwei große Steine, ein weißer und ein blauer. Bei diesen Schätzen kniet ein schnauzbärtiger Orientale in rosafarbenem Turban und dunkelrotem Gewand mit einem Schwert an der Seite. Er hat beide Hände verehrend erhoben oder staunend im Anblick der die Gnade symbolisierenden Wasserfülle. Ebenfalls auf die Knie gefallen ist ein Kamel. Es wird von einem halbnackten jungen Mann geritten, der seinerseits eine große, Metall beschlagene Truhe trägt und nun im Begriffe ist, abzusteigen. Der beleibte Herr neben ihm mit weißem Turban, weißem Gewand mit goldener Schärpe und einem rosafarbenen Rock sowie ein auf diesen folgender Herr in golden ornamentiertem Gewand mit goldenem Turban könnten diesem Schatztransport zuzuordnen sein. Hinter dieser Gruppe ragt am Bildrand eine weiße, rot gesäumte Fahne auf, deren Schaft als Spitze einen Halbmond auf einem Kreuz hat - vielleicht eine Anspielung darauf, dass Asien, einst christlich, später islamisiert wurde.
+
+Die reichen, malerischen und vornehmen Männergestalten, die der Figur der Asia folgen, stellen orientalische Potentaten und Herrscher dar, begleitet von Dienern, alle Figuren aufs phantasievollste ausgestattet. Die hohe Gestalt direkt hinter Asia ist ein dunkelhäutiger Mann mit langem schwarzen Bart, auf dem Kopf einen hohen schwarzen Turban mit zwei Federgestecken. Über dem goldenen Gewand trägt er einen blauen Mantel. Er hält die rechte Hand wie geblendet vor die Augen; mit der anderen Hand reicht er ein goldenes Räucherbecken nach hinten zu seinen dunkelhäutigen Dienern. Zwei - von denen einer einen Bogen hält - haben roten Federschmuck auf dem Kopf; einer trägt einen roten Federhut und einen weißen Federkragen, eine schöne junge Schwarze, die mit Perlen geschmückt ist, hält einen Sonnenschirm.
+
+Auf diese Gruppe folgt ein dunkelbärtiger Herr mit einem hohen orientalischen Hut, auf dem ein goldgefasstes Pfauenfederngesteck prangt. Sein Gewand ist mit zahlreichen goldenen Ketten geschmückt, ein Krummsäbel hängt in goldener Scheide. Nach rückwärts folgt noch ein Turbanträger mit Krummsäbel und einer mit weißer persischer Mütze und hohem roten Federgesteck, der einen Morgenstern hält. Es fällt auf, dass alle Figuren, die auf der Seite zu Maria und der Inkarnation Christi hin dargestellt sind, in Scheu und Verehrung dorthin blicken. Die Gestalten näher am Bildrand aber blicken eher finster und ablehnend.
+
+Die verschiedene Ausstaffierung und Charakterisierung der Fürsten sowie die Fülle der dargebrachten Gaben ist auffallend und führte dazu, dass der Zug als Präfiguration des Zuges der Drei Könige gesehen wurde; das überzeugt nicht.
+
+In der Darstellung der Reichtümer des Meeres und des Landes, der überreichen Kostbarkeiten und Geschenke, der vielen Fürsten verschiedensten Aussehens und verschiedenster Tracht, die der Asia folgen, wird noch einmal das Saba-Thema angespielt und mit dem zentralen Bildthema vom Anbrechen des Heils verbunden. In der Prophezeiung des Isaias für diesen Tag der Gnade und des Heils am Ende der Zeit, am Tag der Herrlichkeit Zions heißt es: »Der Reichtum des Meeres strömt dir zu, die Schätze der Völker kommen zu dir ... Alle kommen von Saba, bringen Weihrauch und Gold ... Könige führt man herbei... Gebückt kommen die Söhne deiner Unterdrücker zu dir, alle, die dich verachtet haben, werfen sich dir zu Füßen« (Is 60, 5-14).
+
+AMERICA In der Nordostecke sieht man den Erdteil Amerika. Eine Gruppe von mehreren buntgewandeten, perlen- und federgeschmückten Indianern sind auf einer kleinen Erderhebung dargestellt, zusammen mit wilden Tieren dieses Erdteils. Hinter ihnen, genau in der Nordostecke des Deckenbildes ragt der Aufbau einer spanischen Galeone auf, mit Masten, eingeholten Segeln, Tauen und Strickleitern. Von den Mastspitzen wehen Fahnen, eine grüne, eine gelbe und eine rote. Vor dem Schiff auf der Erde liegt ein großer Anker und eine Ankerwinde mit Seil. Aus dem Kajütenaufbau des Schiffs ist ein Jesuit hervorgetreten und blickt auf das Land, das nun zum ersten Mal von Missionaren betreten wird. Er trägt einen schwarzen Mantel über der Soutane, hält in der Rechten ein Kreuz und auf der geöffneten Linken ein großes strahlendes IHS. Hinter ihm werden zwei weitere Jesuiten sichtbar. Eingeborene strecken flehend die Hände nach dem Kreuz aus. Die Darstellung nimmt Bezug auf die Missionsarbeit der Jesuiten, die dem Heil und der göttlichen Gnade in Amerika den Weg bereitet haben. (Die Jesuiten missionierten in Brasilien seit 1549, in Peru seit 1568, in Mexiko seit 1578, in Paraguay seit 1586, in Chile seit 1591 und in Kanada seit 1611.)
+
+Das Amerika, das die Jesuiten im Bild betreten, ist bereits von den Spaniern erobert. Daran erinnert die Rückenfigur eines spanischen Soldaten in Rüstung und mit umgeschnallten Degen. Breitbeinig steht er da, in Erobererhaltung, den linken Arm in die Seite gestützt, mit dem rechten Arm sich auf einen Stock stützend. Dicht bei ihm, auf die Eingeborenen zu agierend, kniet ein Missionar in blaugrauer Soutane mit Birett: er hat vor sich eine große rote Decke ausgebreitet, in der Schätze liegen, die er den Eingeborenen anbietet: vor allem bringt er ihnen den christlichen Glauben, symbolisiert durch einen Kruzifixus, eine weiße Statue von Maria und dem Kind, einen Rosenkranz und kleine Holzkreuze. Die kostbaren, runden, goldfarbenen Gefäße sind wohl Transportkoffer für Kelche. Das Überraschendste, was der Missionar bringt, sind runde längliche Büchschen, aus denen Nadeln fallen. Eine der Nadeln wird von ihm in preziöser Gebärde präsentiert (s. dazu u.).
+
+Sechs dunkelhäutige Eingeborene, angeordnet auf einem kleinen Hügelchen, stellen - zusätzlich zu den beiden, die die Missionare begrüßen - die Bewohner Amerikas dar. Der vorderste junge Indianer trägt ein weißes Federkleid und eine mit Gold und Perlen verzierte Federkrone. Er ist sichtlich ein Indianerfürst; er hat aus der Decke ein Holzkreuz genommen und hält es mit ehrfurchtsvoll gekreuzten Armen andächtig an seine Lippen. Eine junge Indianerprinzessin an seiner Seite in einem weiten, golddurchwirkten Gewand, das schöne Haupt mit Perlen geziert, sitzt vor einer wunderbar farbigen Thronlehne aus Federn. Sie hat die Hände gefaltet und neigt sich den Symbolen des Glaubens zu. Mit ihr ist wohl die eigentliche Personifikation America gemeint. In ihre Richtung fällt auch der Gnadenstrahl, der von Maria ausgeht. Neben ihr sind zwei junge Eingeborene zu sehen, geschmückt mit Gold und Perlen, die mit zwei Papageien beschäftigt sind. Im Hintergrund ist ein Indianer in rotem Gewand und mit roter Federkrone dargestellt, der einen Bogen bei sich hat.
+
+Während bei der Darstellung von Asia und Africa keine emblematischen Bezüge verwendet wurden, treten sie hier bei der Darstellung Americas gehäuft auf. Der Blick fällt auf einen deutlich hervorgehobenen Stein, der direkt in der Bildecke auf dem Boden liegt: Er ist zerbrochen, und in seinem Innern zeigt sich ein drusenähnlicher Hohlraum, in dem ein kleinerer Stein liegt. Es handelt sich um Aetites, den Adlerstein, ein Symbol für die jungfräuliche Mutterschaft Mariens. Picinelli berichtet, dass Plinius behauptet, »Aetitem esse gravidum; quippe in
+
+cuius sinu, absque ulla ipsius laesione aut fissura, alius lapis reperitur clausus... Ita omnino intemerata Dei Parens filium suum sine ullo Virginitatis purissimae detrimento parturiit« (der Adlerstein sei schwanger, weil sich in seiner Höhlung ohne jede Verletzung oder Spalte ein anderer Stein eingeschlossen findet... so hat die unbefleckte Gottesgebärerin ohne jede Schädigung der reinsten Jungfräulichkeit geboren Lib. XII, Nr. 44, s.v. aetites, seu lapis aquilinus).
+
+[[File:Band14_chunk002_p021_img001.jpg|thumb|Eingeborene Afrikas im Kampf gegen wilde Tiere]]
+
+Auf dem Schiffsaufbau leuchtet Licht in einer Laterne. Dieses Bild hat eine ähnliche Bedeutung wie der Adlerstein, sie ist Symbol für Christus im Schoße Mariens. Das tertium comparationis ist das Leuchten von Innen nach Außen. Picinelli erinnert, dass Jesus im Leib seiner Mutter bei der Heimsuchung von dem noch ungeborenen Johannes erkannt worden sei: »Christum, etiamnum in Mariae Virginis utero delitescentem, S. Joannes Baptista habuit penitissime exploratum; haud secus atque lumen splendore suam laternam penetrans, omnium oculos incurrit« (Christus, noch im Leib der Jungfrau Maria verborgen, hat Johannes der Täufer genau erkannt; nicht anders durchdringt das Licht durch den Glanz die Laterne und fällt allen in die Augen; Lib. XV, Nr. 103, s. v. laterna).
+
+Auffallend ist der große Anker im Vordergrund, mit dem Ankerseil und der Seilrolle. Der Anker, der dem Schiff in den
+<!-- citation-page-bottom: Band14 p91 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=22 -->
+<!-- citation-page-top: Band14 p92 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAA -->
+
+
+[[File:Band14_chunk002_p022_img001.jpg|thumb]]
+
+
+Wogen sicheren Halt gibt, ist das Attribut der Spes, der Hoffnung der Christen. (Dass er nicht am Meeresgrund dargestellt sein kann, leuchtet ein.) Er ist auch hier Symbol der Spes, der Hoffnung auf das Heil, das die Jesuiten bringen.
+
+Auf der Seilrolle steht ein hundeähnliches Tier und stützt die Pfoten auf den Anker. Es ist zoologisch nicht sicher bestimmbar, und doch wäre seine Darstellung in dieser symbolbeladenen Umgebung sinnlos, wenn sie nicht als Symbol diente. Die enge Verbindung zum Anker lässt vermuten, dass es sich um ein Symbol aus dem Spes-Bereich handeln könnte. Bei den Vierbeinern (Picinelli, Lib. V, quadrupedia) können als Symbol für Hoffnung dienen das Rind (Nr. 64, s. v. bos), der Hund (Nr. 145, s. v. canis), der Hirsch (Nr. 212, s. v. cervus), der Hase (Nr. 511, s. v. lepus), die Gemse (Nr. 630, s. v. rubicapra) und der Bär (Nr. 670, s. v. ursus). Von der Gestalt her kommt nur der Hund infrage: »Aeternae quietis contingendae spem ad cumulatas huius mundi calamitates superandas plurimum conferre, canibus haud obscure conjicere licet; qui, dum turbido flumini innatant, Virgilii Epigraphen sustinen RIORIS AMORE« <blockquote>»Aeternae quietis contingendae spem ac cumulatas huius mundi calamitates superandas plurimum conferre, canibus haud obscure conjicere licet; qui, dum turbido flumini innatant, Virgilii Epigraphen sustinent. RIPAE ULTERIORIS AMORE« (Die Hoffnung, die Ewige Ruhe zu erlangen, indem man die Schwierigkeiten der Welt überwindet, kann klar durch Hunde dargestellt werden, die in einem reißenden Fluss schwimmen und denen die Worte Vergils beigefügt werden: Aus Liebe zum jenseitigen Ufer).</blockquote>
+
+Aus einer Luke im Heck wird eine Kanone abgeschossen Feuer und Rauch sind zu sehen. Nun erinnert zwar die martialischer Rückenfigur im Vordergrund an die spanische Eroberung von Amerika, doch ist die Ankunft der beiden Jesuiten friedlich und das Motiv des Schiffs mit der Laterne positiv zu sehen. Der Kanonenschuss kann also nicht als feindliche Handlung gesehen werden; er hat mit Sicherheit symbolische Bedeutung. Picinelli sieht das tertium comparationis im Feuer das die Kanonenkugel nach oben trägt: »Ignis succensum glo-<br>bum pyrium in Ära sublevat. Lemma: Sursum rapit ignis« (Lib. XXII, Nr. 87, s. v. pyrobolus). Er vergleicht dieses Bild mit Ignatius von Loyola, der von der göttlichen Liebe entzündet war und »universum orbem contra inveteratam scelerum phalangem concitavit« (»universum orbem contra inveteratam scelerum phalangem concitavit« (... die ganze Welt zu den Waffen gegen die alte Front der Frevel rief; Lib II, Nr. 25, s. v. ignis)). Das Bild der Kanonenkugel und des Feuers, das sie treibt, dürfte sich also auf die Missionsarbeit der Jesuiten beziehen, die das Heil auch nach Amerika bringen. Rupprecht hat darauf aufmerksam gemacht, dass die Kanone noch einen Nebensinn haben könnte, der dem Symbolsinn nicht widerspräche: »Recht drastisch ist die Unterstützung des nahen Engelskampfes durch<br>den Schuss aus der Heckkanone.«
+
+Es bleiben die Nadeln in den Nadelbüchschen, die sich bei den Gaben der Missionare befinden. Da die Deutung ausgeschlossen ist, müssen sie als weitere Symbole der Spes gedeutet werden.
+
+
+[[File:Band14_chunk002_p022_img002.jpg|thumb|Engelstur]]
+<!-- citation-page-bottom: Band14 p93 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=23 -->
+<!-- citation-page-top: Band14 p94 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+sen werden kann, die Jesuiten hätten neben dem Christentum auch die Schneiderkunst nach Amerika gebracht, müssen sie symbolische Bedeutung haben. Die eigentliche Bestimmung der Nadel ist nach Picinelli, etwas zusammenzuheften. »Ita Dei Filius, ruptam nostram humanitatem, instar acus, resarcit, effrenem carnem spiritui subjugavit et ... Angelos cum hominibus amico nexu composuit. Quare de Christo affirmat S. Ambrosius: {ZITAT|000}. Christus est acus: qua spiritui consuit carnem... Haec est acus, qua diruptam amicitiam Angelorum et hominum copulavit. (So hat der Sohn Gottes, gleich wie eine Nadel, unsere zerbrochene Menschlichkeit wiederhergestellt, das zügellose Fleisch dem Geist unterworfen. In dieser Sache sagt S. Ambrosius über Christus: »durch Leiden und Tod des eigenen Körpers hat er den Weg betreten, wie eine Nadel hat er unsere wie Kleidung zerrissene Natur erneuert«. »Christus ist die Nadel, die das Fleisch mit dem Geist zusammengenäht hat«. Das ist die Nadel, die die zerstörte Freundschaft der Engel und der Menschen [wieder] zusammengefügt hat«; Picinelli Lib. XVII, Nr. 1, s. v. acus.). Mit dem Bild der Nadeln könnte also gemeint sein, dass Christus zu den Eingeborenen Amerikas kommt, um ihre zügellose Natur mit dem Geist Gottes zu erfüllen.
+
+AFRICA Die Szene in der Südostecke ist zweigeteilt durch den Ausblick auf einen breiten, von Felsen umgebenen Fluss – vielleicht ist damit der Nil gemeint – der aus dem Hintergrund kommt und in einem mächtigen Wasserfall in die Tiefe stürzt; über dem Fluss öffnet sich der Blick auf hohe Berge. Der linke Teil der Szenerie besteht aus der Personifikation der Africa selbst und aus ihrem Gefolge. Africa ist eine dunkelhäutige Gestalt, die auf einem prächtig aufgezäumten Elefanten reitet. Auf dem Kopf hat sie einen weißen Federschmuck, sie ist über und über mit Perlen geziert und trägt eine goldgelbe Draperie mit perlenbesticktem Saum um die Hüften. Einer ihrer Begleiter sitzt auf dem Kopf des Elefanten. Er hat einen pfeilgefüllten Köcher bei sich und hält ein goldenes Feuerbecken zu Africa hoch, aus dem Flammen und weißer Rauch bis zum Himmel aufsteigen. Von den Begleitern zu Fuß ist der vorderste reich gekleidet, sein weißer Turban ist mit einer Feder geschmückt; er hält einen Bogen. Ihm folgt eine Frau, von der man nur den perlen- und federgeschmückten Kopf sieht; sie hält offenbar den Sonnenschirm über Africa. Der Gnadenstrahl von Maria fällt an den Palmen vorbei auf die Figur der Africa.
+
+Vor dem Elefanten, in der Nähe des Wasserfalls, stehen zwei Palmen. Um eine davon schlingt sich eine große Schlange. Weitere Schlangen sind an dem felsigen Hügel zu sehen, der sich hinter den Palmen erhebt. Hier lauern Eingeborene mit Pfeil, Bogen und Speer, während sich ein Löwe am Fuß des Hügels duckt. Dann senkt sich die Szenerie nach rechts bis zum Flussufer, aus dem ein Krokodil kriecht und eine Gruppe von Eingeborenen bedroht.
+
+Die Eingeborenen befinden sich im Kampf mit wilden Tieren: einer schlägt mit einem Ruder auf das Krokodil ein, ein kleines Kind kämpft mit einer Schlange, während seine Mutter angstvoll abwehrend die Hände hebt. In einer zweiten Dreiergruppe rechts ist ein Schwarzer mit Federschurz und Kopfschmuck aus Federn dargestellt, der mit Pfeil und Bogen bewaffnet ist und den Himmel um Hilfe anruft. Eine Mutter mit Kind blickt ebenfalls zum Himmel; der Säugling faltet die Hände.
+
+Africa ist im Zusammenhang des Deckenbildes dem Heil am fernsten. Zwar fällt der Gnadenstrahl auch auf sie, aus der Feuerschale ihres Begleiters steigt weißer Rauch auf als Zeichen der Devotion, und sie reitet auf einem Elefanten, der in der christlichen Symbolik eine fast eindeutig positive Bedeutung hat. Aber um eine der beiden Palmen schlingt sich eine große Schlange mit furchterregend geöffnetem großem Maul, die große Ähnlichkeit hat mit der Paradiesessschlange bei Adam und vielleicht daran erinnern soll, dass der Teufel immer noch bedrohlich ist. Auch die anderen Szenen vom Kampf gegen die wilden Tiere sprechen davon, dass der Kampf gegen das Böse andauert, die Menschen aber den Himmel um Rettung anflehen.
+
+DER ENGELSTURZ {ZITAT|001} schreibt der Chronist über diese Stelle in den »Litterae annuae«. (In der äußersten Winkel [des Bildes] verbannt sind die aufständischen Engel, die dem Gott-Menschen die Verehrung verweigern.)
+
+Die Szene des Engelsturzes befindet sich über dem kleineren rechteckigen Annex des Deckenbildes zwischen den beider Anräumen zuseiten des Eingangs. Sie ist durch dunkle Wolken abgeschieden sowohl von der himmlischen Glorie als auch seitlich von den Erdteil-Szenerien Africa und America. Über dem Engelsturz ist der Himmel aufgelichtet und zeigt klares Himmelsblau mit einigen hellen Wölkchen. Davor erscheint der Erzengel Michael in Rüstung und Helm, die mächtigen Flügel ausgebreitet, mit auffliegendem roten Mantel. In der Rechten hält er ein großes Blitzbündel, in der Linken einen runden Schild. Vom Blitzbündel geht ein mehrfach gezackter Blitz aus und fällt auf eine Schar von Engeln, die mit Gesten des Entsetzens und der Verzweiflung in den feurigen Höllenschlund stürzen.
+
+Auf dem Schild Michaels ist nicht das übliche »Wer ist wie Gott«, sondern das von einem Strahlenkranz umgebene Gesicht des Gottmenschen zu sehen. Es ist ein jugendliches Lockenhaupt, Hinweis auf Jesus Christus, aber ohne physiognomische Ähnlichkeit mit dem traditionellen Christus-Typ. Diese Schildzier weist darauf hin, dass hier nicht der eigentliche Engelsturz dargestellt ist, in dem wie Gott« die gegen Gottvater aufrührerischen Engel stürzt, sondern laut Text der »Litterae annuae« die Engel, die die Wirklichkeit der Menschwerdung Christi nicht anerkennen wollten. Hofmann verweist in diesem Zusammenhang auf einen bedeutenden Theologen aus dem Jesuitenorden, Francisco de Suárez (* 1548 † 1617): »Nun gibt es in der Tat eine theologische Richtung, die in Suarez ihren Kronzeugen hat (De ang. VII 13,12) und im Neid der Engel auf den Menschen angesichts der Offenbarung der Menschwerdung und in weigerung der Anbetung dieses Gottmenschen die Sünde der Engel konkretisiert sieht. Diese Sicht des Jesuiten Suarez kann sich auf Kirchenväter wie Irenäus und Cyprian berufen.
+
+[[File:Band14_chunk002_p023_img001.jpg|thumb]]
+
+[[File:Band14_chunk002_p023_img002.jpg|thumb|Nord- und Südwand des Kongregationssaals mit Wandgemälden weltlicher und geistlicher Marienverehrer]]
+<!-- citation-page-bottom: Band14 p95 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk002.pdf#page=24 -->
+<!-- citation-page-top: Band14 p96 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAA -->
+
+
+[[File:Band14_chunk002_p024_img001.jpg|thumb]]
+
+
+Augustinus (De Gen. ad lit. XI c. 14n. 18): »Durch den Neid des Teufels ist der Tod in die Welt gekommen«, der Neid also als die Ursünde der Engel. Doch dieser Neid auf die Menschen kann wohl nur eine Folge der ersten Sünde, der Superbia des Stolzes und der damit gegebenen Verdammung, sein. So schreibt schon Augustinus dazu: ›Einige nämlich sagen, das habe dem Satan zum Fall gereicht, dass er auf den Menschen, der nach dem Bild Gottes geschaffen wurde, Neid hatte. Jedoch der Neid folgt dem Stolz, geht ihm nicht voraus. Ursache des Stolzes ist nicht der Neid, Ursache des Neides aber ist der Stolz.« Mit der Interpretation der Sünde der Engel als Verweigerung angesichts der Menschwerdung Gottes fügt sich dieses Freskendetail nahtlos in das umgreifende Konzept der Inkarnationstheologie« (Hofmann 1986, S. 111).
+
+Bezeichnenderweise ist ein wichtiger Gegenstand in dem Knäuel der stürzenden Engel der Pfau, Symbol und Attribut der Superbia, des Stolzes bzw. des Hochmuts. Die Fledermausflügel und die Schlange sind Attribute des Neides. Diese Motive stützen die Interpretation Hofmanns.
+
+
+== DIE AUSSTATTUNG ==
+
+
+ALTAR UND ALTARBLATT Das Hochaltarblatt von Franz Geiger aus dem Jahr 1675 zeigt die Verkündigung Mariens, also das Patrozinium der Kongregation und damit die Menschwerdung Christi. Es stammt noch aus dem alten Kon-
+
+gregationsraum. Im Auszug darüber erscheint die Figur Gottvaters, der sich über die Verkündigungsszene des Altarblatts neigt. Auf dem Altar stehen vier Statuen des Dillinger Bildhauers Johann Michael Fischer: die Heiligen Thomas von Aquin, Ivo, Katharina und Kosmas; es sind die Patrone der Theologie, Jurisprudenz, Philosophie und Medizin. Über dem Altar, einem leichten und eleganten Aufbau in Weiß und Gold mit vier schlanken Säulen und einem zierlichen Auszug, wölbt sich der große Baldachin Egid Quirin Asams: »Caeterum maiorem adhuc intrantibus miraque amoenitate temperatam majestatem objicit conopeum ingens super aram suspensum e gypso item caerulei coloris argento liberaliter illusum distinctumque Opus profecto aspectabile« (Litterae annuae 1735).
+
+W<sub>1-12</sub> HEILIGE IN MARIENVISIONEN An der Süd-, West- und Nordwand des Saals befinden sich zwölf große Leinwandbilder. Sie zeigen Heilige, die besondere – meist jungfräuliche – Marienverehrer waren und in Visionen in mystischen Kontakt zur Gottesmutter getreten sind: »Hunc ille splendorem conciliant decem illae praegrandes Imagines, quibus eximii quique Beatissimae Virginis cultores omnium ordinum referuntur«. (Zu diesem Glanz tragen zehn sehr große Bilder bei, in denen bedeutende Marienverehrer aller Stände gezeigt werden). Ähnliche Heiligenreihen waren in Kongregationssälen nicht selten zu finden, als Vorbilder für die dort versammelten Sodalen. Alle Bilder haben reich geschnitzte und vergoldete Rahmen, die jeweils an den Ecken und Seitenmitten ornamental akzentuiert sind.
+
+Zwei Wandbilder, W<sub>1</sub> und W<sub>2</sub>, an der Westwand, die den Altar flankieren, wurden 1749 von Gottfried Bernhard Göz als erste der Reihe geschaffen. Ihre Rahmenornamentik unterscheidet sich deutlich von der der übrigen Wandbilder; möglicherweise haben sie schon 1749 ihre Rahmen bekommen, nicht erst 1754/55 wie W<sub>3-12</sub>. Sie haben auch weder Inschriften noch Blumenembleme. Durch die Platzierung beim Altar sind sie vor den übrigen zehn Bildern ausgezeichnet; die dargestellten Heiligen sind die einzigen Heiligen der Reihe, die Maria in ihrem Leben innig verbunden waren.
+
+Die übrigen zehn Bilder W<sub>3-12</sub> sind über den reich intarsierten und geschnitzten ›Professorenstühlen‹ an den Seitenwänden angebracht, auf gleicher Höhe wie W<sub>1-2</sub>. Sie wurden wohl anschließend an W<sub>1-2</sub> in Auftrag gegeben; 1752/53 waren sie fertig. Die ausführenden Künstler waren Christoph Thomas Scheffler, Johann Georg Wolcker und Melchior Puchner (Zählung paarweise von vorn nach rückwärts.)
+
+Nach den ›Litterae annuae‹ wurden die Bilder 1753 vorläufig im Saal aufgehängt, erhielten 1754 ihre reichen Rahmen und wurden nach der Aufstellung des Wandgestühls 1755 an ihrem endgültigen Platz angebracht (Zitate bei Hofmann 1986, S. 167).
+
+Alle Bilder der Längsseiten haben Inschrifttafeln mit dem Namen des dargestellten Heiligen und werden außerdem von stuckierten Blumenemblemen begleitet.
+
+Die an der Südseite dargestellten Heiligen gehören dem geistlichen, die an der Nordseite dem weltlichen Stand an. Diese Aufteilung spiegelt vielleicht die Sitzordnung der Sodalen wider: für den Augsburger Kongregationssaal ist überliefert,
+
+
+[[File:Band14_chunk002_p024_img002.jpg|thumb|W<sub>2</sub>: Johannes Evangelist auf Patmos (G.B. Göz 1749)]]
+
+
+dass »auf der einen Seite die Laien, auf der anderen die Kleriker« Platz zu nehmen hatten. Die Wandstühle waren »der gewählten Vertretern der Kongregation vorbehalten, dem Präfekten, seinen Assistenten und den Konsultoren, die bei Feierlichkeiten erst einzogen, wenn die übrigen Sodalen Platz genommen hatten. Der Präses hatte sein Pult auf dem Podium« (Theodor Rolle, Heiligkeitsstreben und Apostolat. Geschichte der Marianischen Kongregation am Jesuitenkolleg St. Salvator und am Gymnasium der Benediktiner bei St. Stephan in Augsburg 1589–1989, Augsburg 1989, S. 66).
+
+Die Wandbilder wurden erstmals ab 1866 durch den Konservator der königlichen Gemäldesammlungen Frey restauriert. 1977 erfolgte eine gründliche Restaurierung durch Peter Pracher, Würzburg, unter der Oberleitung Richard Harzenetters. Die meisten Bilder waren gut erhalten, die Restaurierung konnte sich auf die Reinigung und Aufbringung eines neuen Firnisses beschränken; gelegentlich war die Festigung abgeplatzter Partien nötig. Das Mittelbild der Nordseite (Wenzeslaus) hatte durch den Kanzeleinbau gelitten und brauchte eine gründliche Restaurierung (s. dazu Hauptmann 1977).
+
+W<sub>1</sub> AUSERWÄHLUNG JOSEPHS – DER GRÜNENDE STAB (S-Seite; Gottfried Bernhard Göz, 1749. Signatur G. B. Göz, fecit 1749.) Joseph kniet im Tempel von Jerusalem vor dem Hohenpriester. Er ist ein noch junger Mann mit dunkel-
+
+
+[[File:Band14_chunk002_p024_img003.jpg|thumb]]
+
+
+lockigen Haaren und Bart, bekleidet mit einem weißem Gewand und gelbem Mantel. Der Hohepriester reicht ihm den Stab, der auf wunderbare Weise erblüht war. Er weist zum Himmel zu einem Bildnis Mariens, das von einem Engel und einem Putto auf einer hellen Wolke gehalten wird. Den Rahmen des Bildnisses bildet unten eine schmale Mondsichel und oben eine Sternenleiste. Zwischen Maria auf dem Bild und Joseph erscheint ein Gnadenstrahl mit der Geisttaube. Im Hintergrund ist der Altar des Salomonischen Tempels mit der Bundeslade zu sehen, über der ein roter Feuerschein aufleuchtet. Vier Putten begleiten die Szene: von den beiden am Marienbild hält einer den Ring bereit, ein zweiter Fackel und Lilie. Damit weist er auf die Hochzeit einerseits und auf die Reinheit dieser bevorstehenden Ehe andererseits hin. Von den beiden Putten im Vordergrund bereitet einer den Brautkranz, indem er mit Nadel und Faden Blüten an einem Reif befestigt. Joseph hatte sich mit anderen Männern aus dem Stamm Davids um Maria beworben. Der Hohepriester forderte die Bewerber auf, eine Rute zum Altar zu bringen: derjenige, dessen Rute ausschlage und blühe, sollte Mariens Gemahl werden. So wurde Joseph auserwählt.
+
+W<sub>2</sub> JOHANNES EVANGELIST - MARIENVISION AUF PATMOS (N-Seite; Gottfried Bernhard Göz, 1749. Signatur G. B. Göz.) Der Evangelist Johannes ist auf Patmos in
+<!-- citation-page-bottom: Band14 p97 -->
+
+<!-- citation-page-top: Band14 p98 -->
+
+[[File:Band14_chunk002_p025_img001.jpg|thumb]]
+
+Johannes von Nepomuk kniet wie in einer Kirche vor einem Altar, doch bricht die Altararchitektur links ab und gibt einen weiten Ausblick auf das Land und ein Gebirge im Hintergrund. Auf dem Altar steht ein goldgerahmtes Gemälde der Gottesmutter mit der Rahmeninschrift Regina Martirum. Maria und das Kind tragen Kronen. Johann Nepomuk ist in Chorkleidung; am Boden erkennt man Birett und Buch und auf der Altarstufe ein Glöckchen. Ein Putto zu Füßen des Heiligen hält Lilien. Johann Nepomuk weist auf die Landschaft mit der Stadt Prag und dem Fluss Moldau als dem Ort seines zukünftigen Todes. Ein Putto bringt einen Martyrerkranz herbei, über dem fünf Sterne schweben. Ein großer Engel weist mit der einen Hand auf das Mariengemälde, mit der anderen zum Himmel, wobei er den Finger auf den Mund legt.
+
+Johann Nepomuk wurde um 1350 in Nepomuk in Böhmen geboren. Er wurde 1389 Generalvikar der Erzdiözese Prag und Kanoniker bei St. Veit. Er war Beichtvater der Königin und wurde auf Befehl des Königs Wenzel, dem er die Beichtgeheimnisse seiner Gemahlin nicht verraten wollte, in der Nacht vom 20./21. 3. 1393 in der Moldau ertränkt. Sein Leichnam wurde später in der Moldau schwimmend aufgefunden: über seinem Haupt zeigten sich fünf Sterne, worauf der Martyrerkranz mit den fünf Sternen in der Hand des Putto verweist. Der Schweigegestus des großen Engels erinnert an die Wahrung des Beichtgeheimnisses.
+
+[[File:Band14_chunk002_p025_img002.jpg|thumb]]
+
+Das Bild zeigt Johann Nepomuk in Altbunzlau, wohin er kurz vor seinem Tod eine Wallfahrt machte. Altbunzlau mit dem Gnadenbild Maria Stern war die wichtigste Marienwallfahrt Böhmens. Sein Verweilen vor dem Gnadenbild wurde {ZITAT|001} (Marienlexikon Bd 3, S. 410).
+
+W<sub>4</sub> KAISER HEINRICH II. (Johann Georg Wolcker, 1752. Signatur J. G. Wolcker fecit Aug. Vindel. 1752.) Inschrift am Wandstuhl S. HENRIC. IMP. Das Blumenemblem ist eine Kaiserkrone mit Lemma submisso vertice (Mit gesenktem Haupt). Es deutet auf die Demut des Kaisers.
+
+In einer weiten Ebene, in deren Hintergrund eine Stadt und ein Burgberg zu sehen sind, hat der Zug Heinrichs II. haltgemacht. Die Pferde tummeln sich auf einer Wiese, die Begleiter des Kaisers nähern sich in einem lockeren Zug. In der Mitte steht als beherrschende Figur Heinrich II. in Rüstung und Mantel, den Orden des Goldenen Vlieses trägt er auf der Brust. Sein Begleiter hält kniend auf einem blauseidenen Kissen die Kaiserkrone des Heiligen Römischen Reichs, den Reichsapfel und ein Zepter. Der Kaiser tritt in ehrfurchtsvoller Haltung auf die Stufen eines kleinen Rundtempels. Aus dem Portal des Rundbaus treten zwei Geistliche, der vordere besprengt Heinrich mit dem Weihwasser, das sein Begleiter in einem Weihwasserkessel trägt. Über dem Portal ist eine Marienerscheinung dargestellt, steingrau wie ein Standbild: Maria mit Krone und Zepter thront mit dem Kind, das die Weltkugel hält, aus einer Wolke, wobei die Insignien nicht grau, sondern golden sind.
+
+Kaiser Heinrich II. (* 973 † 1024), der Heilige und auch der Lahme genannt, war seit 995 Herzog von Bayern, wurde am 7. 6. 1002 in Mainz zum deutschen König gewählt, am 14. 2. 1014 in Rom von Papst Benedikt VIII. zum Kaiser gekrönt und erhielt die Kaiserkrone. Auf dem Bild befindet sich Heinrich mit seinem Gefolge offenbar auf der Rückreise von Rom. Er hatte nach der Legende auf dem Monte Gargano eine Marienerscheinung. Seine kinderlose Ehe mit Kunigunde wurde als »jungfräulich« angesehen.
+
+W<sub>5</sub> PETRUS FORERIUS (Melchior Puchner 1753. Signatur M. Puechner pinxit 1753.) Inschrift auf dem Wandstuhl B. PETRUS FOR. Das Blumenemblem ist ein Weideröschen mit dem Lemma congregat ut placeat (Sie vereinigt um zu gefallen), das sich auf die Vereinigung der Augustiner-Chorfrauen bezieht.
+
+Der selige Petrus Forerius (Pierre Fourier, Petrus Forer) kniet vor einem Bild der Madonna mit Kind. Er hält eine Schreibfeder in der Hand und präsentiert ihr die von ihm verfasste Ordensregel für die regulierten Chorfrauen des hl. Augustinus, in Form von einem Stapel Blätter mit der Aufschrift
+
+[[File:Band14_chunk002_p025_img003.jpg|thumb|W<sub>6</sub> König Stephan von Ungarn (Melchior Puchner 1753)]]
+
+[[File:Band14_chunk002_p025_img004.jpg|thumb]]
+
+<!-- citation-page-bottom: Band14 p99 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=1 -->
+<!-- citation-page-top: Band14 p100 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+[[File:Band14_chunk003_p001_img001.jpg|thumb]]
+
+Ein Putto hält Lilie und Kreuz, ein anderer reicht ihm einen Folianten und ein Tintenfass. Im Himmel erscheint auf einer Wolke die Himmelskönigin. Ein Engel schwebt herab und bringt ein Buch mit der Aufschrift INSTI- TUTUM Congregationis D(ominae) N(ostrae). Links gibt es einen Landschaftsausblick in einen Garten mit Springbrunnen, dahinter sieht man Gebäude und darüber einen fliegenden Engel mit einem großen Marienmonogramm an einem Band. Pierre Fourier (* 1565 Mirecourt in Lothringen † 1640 Gray) war Augustiner-Chorherr in Chaumousey. Zusammen mit Alix le Clerc (* 1576 † 1622) gründete er 1597/99 in der Diözese Toul die Kongregation der Regulierten Chorfrauen von Notre Dame nach der Regel des hl. Augustinus unter dem Patronat > Maria Immaculata<, deren Aufgabe Unterricht und Erziehung der weiblichen Jugend war (1603 approbiert). Petrus Forerius war ein leidenschaftlicher Verehrer Mariens. Das Bild erzählt, dass er seine Regel für die Kongregation von Unsere Lieben Frau einem Marienbild quasi zur Begutachtung vorgelegt, Maria im Himmel diese Schrift gelesen und durch einen Engel an Petrus Forerius zurückgesandt habe. Nach der Legende soll Petrus Forerius einmal bei der Arbeit eingeschlafen sein, wonach die unbeaufsichtigte Kerze die Papiere auf seinem Schreibtisch in Brand gesetzt habe. Dabei sollen die von ihm verfassten Konstitutionen auf wunderbare Weise verschont geblieben sein.
+
+[[File:Band14_chunk003_p001_img002.jpg|thumb]]
+
+W<sub>6</sub> KÖNIG STEPHAN VON UNGARN (Melchior Puchner 1753. Signatur M. Puechner pinxit 1753.) Inschrift auf dem Wandstuhl S. STEPHAN REX. Das Blumenemblem ist eine Narzisse (Bernhard: Sonnenblume) mit dem Lemma GAUDET PARTAM OFFERRE CORONAM (Es macht Freude, die erworbene Krone anzubieten). Es vergleicht Stephan mit der Narzisse, die den Kranz ihrer Blütengefäße der Sonne öffnet. König Stephan kniet im weiten, roten, mit Hermelin verbrämten Krönungsmantel vor einer Mariensäule. Er blickt zu Maria auf. Putten bringen von oben das ungarische Doppelkreuz. Hinter dem König ragt eine wohl sakrale Architektur auf – vermutlich die Krönungskirche in Pest. Er selbst ist von einer Schar von Begleitern umgeben; im Vordergrund, zu Füßen sowohl des Königs als auch der Mariensäule kniet ein jugendlicher Adeliger und präsentiert auf einem roten Kissen die ungarische Krone und ein Zepter. Im Vordergrund des Bildes liegt eine Landkarte von Ungarn. Hinter der Mariensäule weitet sich der Blick auf eine hügelige Landschaft, durch die die Donau fließt; am jenseitigen Ufer liegt die Schwesterstadt. Stephan (* um 969/75 † 1038) war der erste christliche König Ungarns. Er wurde in der Kirche in Pest an Weihnachten des Jahres 1000 zum König gekrönt. Die heute noch existierende Stephanskrone und das apostolische Doppelkreuz aus Eisen hatte Papst Silvester aus Rom zu seiner Krönung gesandt. Das Kreuz ist Symbol für das Patronat des Königs über die Kirche seines Landes. Stephan gilt als der Apostel Ungarns, er vollendete die Christianisierung seines Landes. Er war ein großer Verehrer Mariens, erhob Maria zur Patronin Ungarns, und viele der von ihm gegründeten Kirchen erhielten ein Marienpatrozinium. Nach der Legende kniete Stephan kurz nach der Krönung vor der Mariensäule in Pest nieder und bot Land und Herrschaft der Gottesmutter an (daher das Lemma gaudet partam offerre coronam). Die Annahme des Geschenks durch Maria symbolisiert im Bild der Putto, der den Stab mit dem Doppelkreuz bringt, das als Zeichen der Christianisierung des Landes durch Stephan in das ungarische Wappen einging.
+
+[[File:Band14_chunk003_p001_img003.jpg|thumb|W<sub>10</sub> Elzear von Sabran (Johann Georg Wolcker 1752/53)]]
+
+W<sub>7</sub> HERMANN JOSEPH VON STEINFELD (Zuschreibung an Gottfried Bernhard Göz. Unsigniert und undatiert, nach Hauptmann schemenhaft zu sehen GBG.) Inschrift auf dem Wandstuhl S. HERMANN IOS. Die Blume des Emblems ist nicht zu identifizieren. Das Lemma lautet ANULUS ORNA (Der Ring schmückt) und bezieht sich auf die Verlobung Hermann Josephs mit Maria. Die Szene der mystischen Vermählung des Hermann Joseph von Steinfeld mit Maria spielt im Innern einer Kirche. Im Hintergrund sieht man einen Altar mit Kruzifix, darüber vor einer Lichtglorie die Geisttaube, umgeben von Feuerzungen. Der junge Hermann kniet im Vordergrund auf einer Stufe. Er trägt den weißen Habit der Prämonstratenser. Ihm ist Maria erschienen, auf einer kleinen Wolke stehend, in rotem Gewand und blauem Mantel, das Haupt von Sternen umgeben. Sie neigt sich zu dem Knienden, der ihr seine Rechte entgegenhält und steckt ihm einen Ring an den Finger. Mit der Linken weist sie nach oben, wo Putten ein Bild des hl. Joseph tragen. Hermann von Steinfeld, geboren in der zweiten Hälfte des 12. Jh. in Köln, war von großer mystischer Begabung und vor allem ein glühender Marienverehrer. Bereits als Kind hatte er mystische Erlebnisse in S. Maria im Kapitol in Köln, wo er mit Jesus und dem Johannesknaben spielte. Zwölfjährig trat er in das Prämonstratenserkloster Steinfeld in der Eifel ein, noch unter seinem Namen Hermann. Dort hatte er die Marienvision, in der ihm Maria den Ring ansteckte und ihn zu ihrem Bräutigam erkor. Nach der Legende gab ihm Maria selbst den zweiten Namen Joseph. Darauf weist auch das Bildnis des hl. Joseph hin, der eine Lilie als Zeichen der Reinheit bei sich hat, ebenso wie dem jungen Mönch eine Lilie beigegeben ist. Hermann Joseph von Steinfeld starb am 7. 4. 1241 (oder 1252?) in Hoven in der Eifel. Bei der letzten Restaurierung 1977 wurden die Standorte von Gemälde und Wandstuhl von Hermann Joseph und Majolus versehentlich vertauscht. Ursprünglich hing das Bild von Hermann Joseph an erster Stelle vom Eingang aus.
+
+[[File:Band14_chunk003_p001_img004.jpg|thumb]]
+<!-- citation-page-bottom: Band14 p101 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=2 -->
+<!-- citation-page-top: Band14 p102 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+[[File:Band14_chunk003_p002_img001.jpg|thumb]]
+
+W<sub>8</sub> HERZOG WENZESLAUS VON BÖHMEN (Christoph Thomas Scheffler 1752. Signatur C. T. Scheffler invenit et pinxit 1752.) Inschrift auf dem Wandstuhl S. WENCESLAUS DUX. Das Blumenemblem zeigt jetzt eine Tulpe mit dem Lemma praelucentem sequitur (Folgt der Vorausleuchtenden). Nach Haas war die stuckierte Pflanze 1949 »wegen des Einbaus der Kanzel nicht mehr vorhanden«.
+
+In einem angedeuteten Kirchenraum kniet Herzog Wenceslaus vor einem Altaraufbau mit drei halbrunden Nischen, in deren linker eine Darstellung der Verkündigung angebracht ist, die mittlere Nische ist leer, in der rechten ist die Vermählung Mariens mit Joseph dargestellt. Über dieser Nischenwand schweben in Wolken Putten. Seitlich am Altar kniet Herzog Wenceslaus im weiten purpurroten Mantel mit Hermelinkragen. Er blickt mit gefalteten Händen zu Maria mit dem Kind auf, die aus der mittleren Nische hervorgetreten zu sein scheint. Auf einem roten Kissen zu seinen Füßen liegen Krone bzw. Herzogshut und Zepter, hinter ihm ist ein Buch mit der Inschrift OMNI DIE (an jedem Tag) zu sehen. Über der Erscheinung Mariens wölbt sich ein Baldachin.
+
+Wenzeslaus (Václav, *um 903/08 †ebd. 929 bzw. 935) war Enkel der hl. Ludmilla. Er förderte als Herzog von Böhmen die Christianisierung des Landes und dessen Anschluss an das Reich. 929 (oder 935) wurde er infolge einer heidnisch-nationalen Reaktion von seinem Bruder Boleslav I. in Althunzlau ermordet, kurz danach aber rehabilitiert. Sein Grab befindet sich in der Wenzelskapelle des Prager Veitsdoms.
+
+Die Darstellung beruht auf der Bemühung Wenzels, sein Land für das Christentum zu gewinnen, sowie auf der Überlieferung, nach der Wenzel im Gebet des öfteren verzückt wurde. Er bietet seine Herrscherinsignien – als Symbol für Herrschaft und Land – Maria und dem Kind dar.
+
+[[File:Band14_chunk003_p002_img002.jpg|thumb|W<sub>12</sub> Andochius von Saulieu (Johann Georg Wolcker 1753)]]
+
+W<sub>9</sub> BERNHARD VON CLAIRVAUX (Johann Georg Wolcker 1753. Signatur auf dem Brüstungssockel rechts <i>JG</i> Wolcker pinx. Nach Harzenetter/Hauptmann pinx. Aug. Vindel. 1753.) Inschrift auf dem Wandstuhl S. Bernard. ABB. Das Blumenemblem zeigt den Honigklee mit dem Lemma HUMILIS SED DULCIOR OMNI (demütig, aber süßer als alles). Es erinnert daran, dass Bernhard wegen der Schönheit seiner Rede Doctor mellifluus genannt wurde.
+
+Hoher, nach oben offener Innenraum, aus gegeneinander konkav geschwungenen hohen Bücherregalen gebildet. Die Regale sind auf Kartuschen betitelt: ASCETAE, HISTORICA SACRI, SANCTI PAT... und BIBLI... Der Arbeitsplatz des Heiligen mit seinem Tisch ist über zwei Stufen erhöht, die mit einem roten Teppich belegt sind. Bernhard steht aufrecht am Tisch, bekleidet mit dem weißen Zisterzienserhabit, und weist mit der Rechten auf ein geöffnetes Buch mit der Titel-Inschrift Serm. De Assumpt. Virg., das ein Putto neben ihm hält zusammen mit Feder und Tintenfass. Rechts lehnt am Regal sein Abtstab, auf einer Balustrade sind Bücher und ein Himmelsglobus zu sehen.
+
+Wo sich der Raum zum Himmel öffnet, erscheint Maria, von Engeln umgeben, wie bei den übrigen Visionen mit rotem Gewand und blauem Mantel, das Haupt von Sternen umgeben. Sie breitet die Arme aus. Zwei Putten begleiten sie, von ihnen hält einer einen Wanderstab, der andere einen Kranz von Rosen.
+
+Bernhard von Clairvaux, * 1090, trat 1112 mit vier Brüdern und 26 Gefährten in das Reformkloster Citeaux ein, wurde 1115 mit zwölf Mönchen nach Clairvaux gesandt, wo er das Kloster gründete. Er verfasste 1118 die Statuten des Zisterzienserordens. Er war ein bedeutender Kirchenlehrer und Kirchenpolitiker, Mystiker und Marienverehrer und starb 1153 in Clairvaux.
+
+Das Bild zeigt ihn als Kirchenlehrer, während er eine Vision der Gottesmutter hat, die ihn inspiriert. Es handelt sich bei dieser Darstellung um den neben der ›Lactatio‹ wichtigsten Bildtyp der Marienvisionen Bernhards, um die sog. Doctrina, wo Maria dem Kirchenlehrer Bernhard mit belehrender Geste erscheint. Darstellungen der Doctrina, der Inspiration Bernhards durch Maria, gibt es seit dem 14. Jh. – die bekannteste Darstellung ist wohl das Bild Peruginos in der Alten Pinakothek in München.
+
+Die Schrift, an der Bernhard im Bild arbeitet und auf die er hinweist, gehört zu seinen >Sermones< und ist eine Predigt über die Himmelfahrt Mariens (Sermo de Assumptione Virginis).
+
+W<sub>10</sub> ELZEAR VON SABRAN (Johann Georg Wolcker. Signatur JG Wolcker, undatiert) Inschrift auf dem Wandstuhl S. ELZEARIUS. Das Blumenemblem zeigt eine Lilie mit dem Lemma procul a terra candoris amore (Fern von der Erde aus Liebe zur Reinheit), ein Hinweis auf das jungfräuliche Leben Elzears.
+
+In einem barocken Garten, wo im Vordergrund ein kleiner Springbrunnen in einem kreisrunden Becken aus einem Delphin-Wasserspeier springt, markieren vier regelmäßig aufgestellte Gartenstatuen einen kleinen Platz, auf dem der Heilige steht, in Rüstung und Mantel, aber in höfisch verehrender Haltung. Seine Waffen hat er im Vordergrund rechts abgelegt: Schild, Speer und Helm. Seine Devotion gilt einer Erscheinung der Gottesmutter. Die vier Gartenstatuen stellen vier Tugenden dar, die durch Elzear verkörpert werden: links die Gottesliebe, die ein brennendes Herz an die Brust drückt, dann Fides mit Flügeln, Buch, Fackel und Flamme auf dem Kopf. Aus der anderen Seite steht Fortitudo mit Helm und Säule und hinten Castitas mit dem Einhorn.
+
+Elzear ist als junger und schöner Mann dargestellt. Er breitet die Arme aus und blickt nach oben, wo in Wolken Maria auf einem Thron erscheint. Sie neigt sich dem jungen Mann zu, während ein Engel bei ihr eine Lilie hält.
+
+Elzearius aus dem Hause Sabran, Graf von Ariane (* 1285 † 1323 Paris) entstammte einer reichen Adelsfamilie und war Gesandter Roberts von Neapel am Hof von Frankreich, Erzieher des Herzogs Karl von Kalabrien und Pate des späteren Papstes Urban V., der ihn 1369 heilig gesprochen hat. Er lebte in jungfräulicher Ehe mit der seligen Delphina, Gräfin von Gladeves, die er auf Wunsch des Königs von Neapel zur Frau genommen hatte. Er trat als Laienbruder in den Dritten Orden ein und lebte der Wohltätigkeit und Nächstenliebe. Häufig zog er sich nach der Überlieferung zurück, um zu meditieren und hatte auch Visionen, durch die er sich ins Paradies versetzt sah. Nach seinem Tod auf einer Reise nach Paris wurde sein Leib 1324 nach Apt in der Provence überführt.
+
+Auf seine jungfräuliche Ehe weisen die Statue der Castitas sowie die Lilie in der Hand des Engels hin. Nach der Legende halfen ihm Visionen, das gegebene Keuschheitsgelübde einzuhalten.
+
+W<sub>11</sub> MAJOLUS VON CLUNY (Zuschreibung an Gottfried Bernhard Göz. Nicht signiert und datiert) Inschrift auf dem Wandstuhl S. MAIOLUS ABB. Das Blumenemblem zeigt eine nicht sicher zu identifizierende krautige Pflanze mit dem Lemma Lux Alma reclusit (Das gütige Licht schließ auf). Das Lemma bezieht sich wohl auf die Befreiung des Majolus.
+
+Schauplatz des Bildes ist eine dunkle Felsenhöhlung im Hochgebirge. Majolus im Benediktinerhabit kniet, den Blick flehend zum Himmel erhoben, die linke Hand auf die Brust gelegt. Über ihm ist eine Kette zu sehen, von der ihn ein großer Engel hinter ihm sichtlich befreit hat. Maria erscheint über der Grotte als Vision, in rotem Gewand und blauem Mantel, das Haupt von Sternen umgeben. Sie wendet sich liebevoll dem Heiligen zu. Ein Putto neben ihr hält den Abtstab mit dem Velum.
+
+Majolus (Mayeul) wurde um 906 geboren. Er war der vierte Abt von Cluny (948-994). Er reiste oft nach Italien, um die Klöster für die cluniazensische Reform zu gewinnen. Auf einer dieser Reisen wurde er unterhalb der Passhöhe des Großen St. Bernhard von Sarazenen gefangen genommen und nur nach Zahlung eines sehr hohen Lösegeldes durch sein Kloster freigelassen. Seine Befreiung und den Erhalt seines Lebens schrieb Majolus dem besonderen Schutz Mariens zu. Majolus starb am 11. 5. 994 im Alter von 88 Jahren.
+
+Im Bild wird die Befreiung durch das persönliche Eingreifen Marias dargestellt, die offensichtlich einen Engel zu den Gefangenen gesandt hat, der seine Kette löst, während rechts ein bewaffneter Sarazene mit Gesten des Schreckens in den Hintergrund flieht.
+
+Die Gefangennahme des Abtes von Cluny löste damals in der christlichen Welt große Empörung aus, die zur Folge hatte, dass die Sarazenen aus ihren Gebieten in Südfrankreich, der Schweiz und Norditalien vertrieben wurden; sie bewirkte die Rückeroberung großer Gebiete für das Christentum.
+
+W<sub>12</sub> ANDOCHIUS VON SAULIEU (?) (Johann Georg Wolcker 1753. Signatur D Wolcker pinx. Aug. Vindel. 1753) Inschrift auf dem Wandstuhl B. ANDR. CHIUS. Das Blumenemblem zeigt eine Passionsblume mit dem Lemma DELECTANT SAEVA (Grausamkeiten erfreuen). Es besagt, dass die Leiden des Martyriums mit himmlischen Freuden vergolten werden.
+
+Ein jugendlicher Heiliger in einfachem weißen Gewand kniet am Boden, von himmlischem Licht beleuchtet. Er hat die Arme ausgebreitet und blickt auf zu Maria, die ihm auf einer
+
+<!-- citation-page-bottom: Band14 p103 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=3 -->
+<!-- citation-page-top: Band14 p104 -->
+
+<!-- header: INGOLSTADT KONGREGATIONSSAAL -->
+
+Wolke erscheint, vor einer Lichtglorie, das Haupt vom Sternekranz der Immaculata umgeben, den Fuß auf der Mondsichel. Sie wird begleitet von Engeln, die eine Lilie, eine Lilienkrone und ein Schriftband halten, auf dem Virgo Maria Iuva me zu lesen ist.
+
+Der Jüngling wird von bärtigen Türken bedrängt. Einer hinter ihm zieht das Schwert aus der Scheide, um ihn zu töten. Rechts stehen zwei Würdenträger in vornehmen Gewand, jeder mit einem federgeschmückten Turban auf dem Haupt; wohl Richter oder hohe Beamte. Im Vordergrund packt ein orientalischer Knabe die Habseligkeiten des todgeweihten Jünglings in eine Kiste. Im Vordergrund liegt eine Geißel, die auf eine vorangegangene Geißelung deutet.
+
+Die Identität des Heiligen ist nicht gesichert. Nach dem (veränderten) Namensschild müsste es sich um Andochius von Saulieu handeln, Priester und Martyrer in Gallien, der im späteren 2. Jh. in Autun zusammen mit den Gefährten Tyrsus und Felix das Martyrium erlitt. Dagegen spricht, dass die drei Martyrer von Autun mit den Händen an Galgen aufgehängt wurden, unter denen Feuer angezündet wurde.
+
+Deshalb kann man auch an Antiochus von Sebaste († um 300) denken: Dieser wurde von einem Schergen von hinten mit dem Schwert erschlagen. Weil Sebaste in Palästina später in die Hände der Türken gelangte, wären die Henker als Türken dargestellt.
+
+== Quellen und Literatur ==
+
+BHStA Jesuitica, Litterae annuae
+
+BSB Oefeleana 5/VI: Anton Felix Oefele (1706–80), Adversarium Boicorum - Tomus VI, Complexus artifices, maxime pictores (begonnen am 1. 8. 1735), fol. 36r und v. BSB Cgm 2001, Chronik Ingolstadts, fol. 40. 
+
+Halm, Philipp Maria, Die Künstlerfamilie der Asam. Ein Beitrag zur Kunstgeschichte Süddeutschlands im 17. Und 18. Jahrhundert, Diss. München 1896, S. 47f.
+
+o.V., Geschichte der Bruderschaftskirche Maria vom Sieg und der hiesigen Bürger-Congregation, Ingolstadt 1897.
+
+Lamb, Carl, Zur Entwicklung der malerischen Architektur in Südbayern in der ersten Hälfte des achtzehnten Jahrhunderts, Diss. I, München 1935), Würzburg 1937, S. 44-47.
+
+Hanfstaengl, Erika, Cosmas Damian Asam, (Dissertation) München 1939, S. 136–40.
+
+Haas, Carl Max, Die Asamkirche Maria de Victoria in Ingolstadt. Ein Kleinod bayerischen Spätbarocks, Historischer Verein Ingolstadt 1949.
+
+Koislmeier, Franz, Maria de Victoria/Ingolstadt (= KKF Nr. 582), München und Zürich 1953, 31961.
+
+Kaute, Lore, Cosmas Damian Asams Fresko im Kongregationssaal von Ingolstadt, (ungedr. Mag.) München 1966.
+
+Hofmann, Siegfried, Verherrlichung der göttlichen Liebe. Versuch einer Alternative zur gängigen Interpretation des Deckenfreskos in der Kirche Maria de Victoria, in: IH 36, 1973, S. 1-4, 6-8, 11-15.
+
+Rupprecht 1974, S. 248-87
+
+Hauptmann, Hans, Zur Restaurierung der Kirche »Maria de Victoria«, in: SHVI 86, 1977, S. 50–60.
+
+Hofmann, Siegfried, Zur Ikonographie des Deckenfreskos von Maria de Victoria. Bild gewordene Theologie der Inkarnation, in: SHVI 86, 1977, S. 65–83.
+
+Hofmann, Siegfried, Maria de Victoria Ingolstadt (= KK) Nr. 582), München-Zürich 51977.
+
+Rupprecht, Bernhard, Die Brüder Asam. Sinn und Sinnlichkeit im bayerischen Barock, Regensburg 1980, S. 224-31.
+
+Cosmas Damian Asam 1686-1739. Leben und Werk (Ausstellung zum 300. Geburtstag, Kloster Aldersbach 1986. Hg. Bruno Bushart und Bernhard Rupprecht), München 1986, S. 106–09: darin:
+
+Hofmann, Siegfried, »Maria de Victoria« - Oratorium des Akademischen Marianischen Kongregation, in: Cosmas Damian Asam. Maria de Victoria Ingolstadt (Hg. Siegfried Hofmann und Gerd Treffer), Ingolstadt 1986, S. 23–168. Kaute, Lore, Maria de Victoria Ingolstadt, Ingolstadt 2002.
+
+Literatur zur Ikonographie
+
+»Fabrica Mariana, triplicem in Contignationem divisa, pro triplici statu suorum sodalium sanguine, religione, litteratura illustrium«, Ingolstadt 1732-34. Nicht in der Stabi Auskunft gefunden.
+
+Thomas von Aquin, »Tertia Pars Summae Sacrae Theologiae Sancti Thomae Aquinatis, Lugduni 1562, Cap. 1: De convenientia incarnationis Christi« (BSB 2 P. lat. 1555).
+
+Mayr, Joseph SJ, »In tertiam partem Divi Thomae Aquinatis. Tractatus primus de Incarnatione Verbi Divini«. Handschrift Nr. 410 in der Staatsbibliothek Eichstädt.
+
+Speculum humanae salvationis, verfasst um 1324 wahrscheinlich in Strassburg von dem Dominikaner Ludolf von Sachsen († 1378); s. dazu Appuhn, Horst, Heilsspiegel. Die Bilder des mittelalterlichen Erbauungsbuches Speculum humanae salvationis, Dortmund 1981.
+
+Speculum humane salvationis. Codex Cremifanensis 2 des Benediktinerstiftes Kremsmünster. Kommentar von Willibrord Neumüller OSB (= Glanzlichter der Buchkunst Bd X), Graz 1997.
+
+LCI Bd 4, Sp. 182–85, s.v. Speculum humanae salvationis. Schott, Anselm, Das vollständige römische Meßbuch, Beuron 1934, Einführung zum Fest Mariä Verkündigung, S. 836.
+
+Die Matrikel der Ludwigs-Maximilians-Universität Ingolstadt-Landshut-München 1750, München 1941.
+
+Das Matrikelbuch der Universität Ingolstadt-Landshut-München. Rectoren Professoren Doctoren 1472–1872 (Hg. Franz Xaver Freninger), München 1872. A.B./E.L.
+
+== ALTE ANATOMIE ==
+
+seit 1973 Deutsches Medizinhistorisches Museum Anatomiestraße 18–20
+
+Das Gebäude der Alten Anatomie gehörte zur Medizinischen Fakultät der Landesuniversität Ingolstadt. Die Niedergerichtsbarkeit über die akademischen Bürger hatte der Rektor inne, die höhere Gerichtsbarkeit der Bischof von Eichstätt in seiner Funktion als Universitätskanzler; später der Landesner.
+
+{{End}}

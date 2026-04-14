@@ -83,7 +83,18 @@ Das Corpus der barocken Deckenmalerei in Deutschland ist mit der Unterstützung 
 
 Wir danken der Bauerschen Barockstiftung, die mit einer großzügigen Spende zur Finanzierung der Drucklegung beigetragen hat.
 <!-- citation-page-bottom: Band14 p5 -->
-
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 14)
+|davor=
+|danach=Ingolstadt, Spitalkirche Heilig Geist
+|AutorIn1=Büttner, Frank
+|AutorIn2=Rupprecht, Bernhard
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=4 -->
 <!-- citation-page-top: Band14 p6 -->
 
@@ -133,7 +144,7 @@ Der Deutschen Forschungsgemeinschaft danken wir, dass sie die Publikation auch d
 
 Frank Büttner und Bernhard Rupprecht
 <!-- citation-page-bottom: Band14 p7 -->
-
+{{End}}
 <!-- citation-page-top: Band14 p8 -->
 [[File:Band14_chunk001_p005_img001.jpg|thumb]]
 
@@ -1162,8 +1173,8 @@ Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt Spitalstr
 |Lemma=Ingolstadt, Spitalkirche Heilig Geist
 |Typ=Sakral
 |Ort=Ingolstadt
-|davor=
-|danach=Ingolstadt, Franziskanerklosterkirche
+|davor=Vorwort (Band 14)
+|danach=Ingolstadt, Franziskanerklosterkirche, Antoniuskapelle
 |AutorIn1=Langenstein, Eva
 |AutorIn2=Sauerländer, Brigitte
 }}
@@ -1561,12 +1572,12 @@ Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt, Harderst
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=37
-|Originalseitenbis=48
-|Lemma=Ingolstadt, Franziskanerklosterkirche
+|Originalseitenbis=42
+|Lemma=Ingolstadt, Franziskanerklosterkirche, Antoniuskapelle
 |Typ=Sakral
 |Ort=Ingolstadt
 |davor=Ingolstadt, Spitalkirche Heilig Geist
-|danach=Ingolstadt, Kongregationssaal Maria de Victoria
+|danach=Ingolstadt, Franziskanerklosterkirche, Naskapelle
 |AutorIn1=Langenstein, Eva
 }}
 
@@ -1672,6 +1683,21 @@ B ERRETTUNG DES VERURTEILTEN VATERS Eine Art Stadttor teilt das Bild in zwei Hä
 
 Am linken Bildrand steht eine gelb gekleidete sehr kleine Figur; auch der hl. Antonius schwebt als kleine Gestalt auf Wolken auf sie zu und fasst an das Bett.
 <!-- citation-page-bottom: Band14 p41 -->
+{{End}}
+
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=42
+|Originalseitenbis=48
+|Lemma=Ingolstadt, Franziskanerklosterkirche, Naskapelle
+|Typ=Sakral
+|Ort=Ingolstadt
+|davor=Ingolstadt, Franziskanerklosterkirche, Antoniuskapelle
+|danach=Ingolstadt, Kongregationssaal Maria de Victoria
+|AutorIn1=Langenstein, Eva
+}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=22 -->
 <!-- citation-page-top: Band14 p42 -->
@@ -1679,12 +1705,7 @@ Am linken Bildrand steht eine gelb gekleidete sehr kleine Figur; auch der hl. An
 <!-- header: INGOLSTADT FRANZISKANERKIRCHI -->
 
 
-== Ehemalige obere Chorkapelle sog. Naskapelle ==
-
-
-
-== Ehemalige obere Chorkapelle sog. Naskapel ==
-
+Ehemalige obere Chorkapelle sog. Naskapelle
 
 
 '''Patrozinium:''' ehem. St. Maria
@@ -1901,12 +1922,6 @@ Denkmaltopographie Ingolstadt, Bd 1, München 2002, S. 145-153, bes. 152 f.
 
 Dehio OB 2006, S. 522-525.
 
-
-== KONGREGATIONSSAAL MARIA DE VICTORIA ==
-
-
-Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt Neubaustraße 3
-
 {{End}}
 
 {{Artikel
@@ -1918,11 +1933,16 @@ Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt Neubaustr
 |Lemma=Ingolstadt, Kongregationssaal Maria de Victoria
 |Typ=Sakral
 |Ort=Ingolstadt
-|davor=Ingolstadt, Franziskanerklosterkirche
+|davor=Ingolstadt, Franziskanerklosterkirche, Naskapelle
 |danach=Ingolstadt, Alte Anatomie
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Langenstein, Eva
 }}
+
+== KONGREGATIONSSAAL MARIA DE VICTORIA ==
+
+Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt Neubaustraße 3
+
 
 Ehemaliges Oratorium und Kongregationssaal der Marianischen oder Großen Lateinischen Kongregation (Congregatio Maior Latina); seit 1804 Bruderschaftskirche der Bürgerkongregation > Maria vom Siege (Maria de Victoria).
 
@@ -5816,6 +5836,21 @@ Krahn, Gerhard, Chronik von Reichertshofen, Ingolstadt 1963.
 
 Hofmann, Siegfried, Zum Werk Ingolstädter Freskenmaler des 18. Jahrhunderts, in: SHVI 82, 1973, W. 179-81, 184. Historischer Atlas Ingolstadt, S. 311, 330f., 389. Pötzl, Kultgeographie des Bistums Augsburg, S. 56. Denkmaltopographie Pfaffenhofen, S. 220f. mit Abb. Dehio 2006, S. 1102. Kratzsch 2006, S.70f.
 
+{{End}}
+
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=241
+|Originalseitenbis=250
+|Lemma=Scheyern, Benediktinerabtei
+|Typ=Sakral
+|Ort=Scheyern
+|davor=Reichertshofen, Pfarrkirche St. Margareta
+|danach=Scheyern, Benediktinerabtei, Hl.-Kreuz-Kapelle
+|AutorIn1=Sauerländer, Brigitte
+}}
 
 == SCHEYERN ==
 
@@ -5832,26 +5867,7 @@ Aufhebung des Klosters 1803; Wiedereinrichtung, zunächst als Propstei von Mette
 
 Von der ehemals prachtvollen barocken Ausmalung sind nur kümmerliche Reste auf uns gekommen, das Kuppelgemälde in der Hl.-Kreuz-Kapelle und drei schwache Medaillons im Klostertrakt. Drei Entwürfe geben Auskunft über die zerstörten Fresken der Kirche. Die Emporenbrüstungsbilder der Hl.-Kreuz-Kapelle und der Johanneskirche und deren freskierte Portale werden in diesem Zusammenhang ausführlich behandelt, weil die Geschichte des Hauses Scheyern-Wittelsbach zentrales Thema aller Gemäldezyklen ist (und war).
 
-
-{{End}}
-
-{{Artikel
-|Band=14
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=241
-|Originalseitenbis=263
-|Lemma=Scheyern, Benediktinerabtei
-|Typ=Sakral
-|Ort=Scheyern
-|davor=Reichertshofen, Pfarrkirche St. Margareta
-|danach=Waal, Filialkirche Mariä Himmelfahrt
-|AutorIn1=Sauerländer, Brigitte
-}}
-
 == Abtei- und Pfarrkirche 1980 zur Basilica minor erhoben ==
-
-
 
 '''Patrozinium:''' Mariä Himmelfahrt
 
@@ -6029,6 +6045,21 @@ Wie es häufig bei Dieffenbrunner-Fresken der Fall ist, sind auch hier verschied
 
 F, F<sub>a-d</sub> (Frauenschiff) Darstellung aus dem Marienleben und Marienembleme? Die Fresken im zweiten nördlichen Seitenschiff von Otto Hämmerle 1923/24 dürften in der Anlage noch auf J. G. Dieffenbrunner zurückgehen (Paula, 1992, S. 224, Anm. 115). Der reich ornamentierte Stuckrahmen von F mit der Darstellung der Verkündigung, besetzt mit den für Ignaz Finsterwalder charakteristischen Spiegelscheibchen, wird in den Haupt- und Schrägachsen von je zwei flachen Stuckkartuschen übergriffen. Sie enthalten auf Maria bezogene Blumendarstellungen (von NW im Uhrzeigersinn: Veilchen, Sonnenblume, Lilie, Rose) mit einem Spruchband über dem Bild.
 
+{{End}}
+
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=251
+|Originalseitenbis=257
+|Lemma=Scheyern, Benediktinerabtei, Hl.-Kreuz-Kapelle
+|Typ=Sakral
+|Ort=Scheyern
+|davor=Scheyern, Benediktinerabtei
+|danach=Scheyern, Benediktinerabtei, Kapitel- oder Johanneskirche, auch Gruftkirche
+|AutorIn1=Sauerländer, Brigitte
+}}
 
 == Heilig-Kreuz-Kapelle ==
 
@@ -6174,8 +6205,21 @@ EB, Das Heilige Kreuz als Zuflucht bei Unwetter Bildbühne ist eine Landschaft m
 
 Das Portal der Hl.-Kreuz-Kapelle wird von einer Stuckrahmung eingefasst, die sich dem spitzbogigen Feld der Kreuzgangwand anpasst. Eine Kartusche, die das umstrahlte Scheyerer Kreuz zeigt, bekrönt das Portal. Spruchband CLAVIS MORTIS/ET INFERNI, Schlüssel des Todes und der Unterwelt. Hier muss Apoc 1,18 gemeint sein, wo der Menschensohn sagt: »et habeo claves mortis et inferni«. Das Zitat nimmt Bezug auf EB2 Sieg des Heiligen Kreuzes über den Drachen. An den Portalseiten bilden Voluten zwischen Sockel und Kapitell die Einfassung. Auf dem linken Kapitell kniet frontal ein Putto, der in der linken Hand ein Schlüsselpaar hält und zwar so, dass er mit dem einen Schlüssel hinauf weist zu der Kartusche. Von dieser fällt beidseitig ein schwerer Stuckvorhang herab, der das ganze Portal umrahmt und linkerseits vom rechten Arm des Putto gerafft wird, rechterseits gebunden ist. Die leicht asymmetrisch ausgeformte Stuckeinfassung ist eine einfallsreiche, sehr qualitätvolle Arbeit und in dezenten Farben gehalten: die Innenseiten des Vorhangs sind hellrot getönt, die Außenseiten hellblau, der Randbesatz mit Stickerei ist ockerfarben.
 
+{{End}}
 
-== Kapitel- oder Johanneskirche, auch Gruftkirche ==
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=258
+|Originalseitenbis=261
+|Lemma=Scheyern, Benediktinerabtei, Kapitel- oder Johanneskirche, auch Gruftkirche
+|Typ=Sakral
+|Ort=Scheyern
+|davor=Scheyern, Benediktinerabtei, Hl.-Kreuz-Kapelle
+|danach=Scheyern, Benediktinerabtei, Ehemalige Krankenabteilung
+|AutorIn1=Sauerländer, Brigitte
+}}
 
 
 Im rechten Winkel an den Ostflügel des Kreuzgangs anschließend – Grablege der Wittelsbacher bis 1253, barocke Fresken an der Empore
@@ -6252,6 +6296,21 @@ Das Portal der Kapitelkirche, am östlichen Kreuzgang gelegen, verdeutlicht eine
 
 Den Haupteingang der Gruftkirche rahmt eine asymmetrische Stuckeinfassung, die sich dem Bogen des Kreuzganggewölbes anpasst. Die linke Seite ist schmaler, die rechte breiter ausgestaltet. Die Stuckkartusche über dem Portal zeigt das Scheyerer Kreuz mit der Beischrift SCEPTRUM/DOMUS, das Zepter des Hauses. Das Spruchband darüber sagt CAPELLA, PRINCIPUM, Fürstenkapelle. Über je einem asymmetrischen Sockel am Fuß des Portals steigen linkerseits Rocaillemotive auf, rechterseits eine Engelherme. Eine Ranke, die aus der Kartusche hervor- bzw. herabwächst, füllt das Bogenfeld über der linken Portalwölbung. Die Ranke ist mit drei Kronen besetzt; in aufsteigender Richtung folgen aufeinander Grafenhut, Fürstenhut mit Feldherrnstab und als nicht heraldische Krone eine Zackenkrone mit Zepter, die für regnum, Herrschaft steht. Dieses Zeichen für weltliche Herrschaft ist nahe dem Scheyerer Kreuz, doch deutlich unterhalb von ihm angeordnet. Das Bogenfeld über der rechten Portalrundung ist besetzt mit der Dreiviertelfigur des Engels, die von einem prachtvollen Hermelinvorhang hinterfangen wird. Dieser weit gespannte Vorhang oder Umhang nimmt seinen Anfang an der Kartusche, wird nach außen von einem Putto gerafft und hinterlegt die ganze Engelsherme bis zum Boden hinab. Der Engel blickt in Richtung des eintretenden Besuchers. Er hält in der linken Hand die österreichische, d.h. die rudolfinische Herrscherkrone und weist mit der Rechten auf die Inschrift in der Kartusche. Stilistisch ist die Stuckrahmung schon nahe der Jahrhundertmitte anzusetzen und somit darf man annehmen, dass mit der rudolfinischen Krone die von Karl Albrecht 1742 erlangte Kaiserwürde gemeint ist. Die Beischrift SCEPTRUM/DOMUS neben dem Scheyerer Kreuz hat in diesem Kontext und im Zusammenhang mit der Szene EB, sicher die Bedeutung, dass das Haus Wittelsbach nacheinander verschiedene Kronen und Herrscherwürden errungen hat. Zugleich hat die Gesamtinschrift SCEPTRUM/DOMUS - CAPELLA/PRINCIPUM die Bedeutung, dass das Zepter dieses Hauses, nämlich der Gruftkapelle, das heilige Kreuz ist (Abb. S. 257).
 
+{{End}}
+
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=261
+|Originalseitenbis=263
+|Lemma=Scheyern, Benediktinerabtei, Ehemalige Krankenabteilung
+|Typ=Sakral
+|Ort=Scheyern
+|davor=Scheyern, Benediktinerabtei, Kapitel- oder Johanneskirche, auch Gruftkirche
+|danach=Waal, Filialkirche Mariä Himmelfahrt
+|AutorIn1=Sauerländer, Brigitte
+}}
 
 == Klostergebäude ==
 
@@ -6420,8 +6479,8 @@ Bauer, Hermann und Robert Stalla, Die Deckenbilder Matthäus Günthers in Rott a
 |Lemma=Waal, Filialkirche Mariä Himmelfahrt
 |Typ=Sakral
 |Ort=Waal
-|davor=Scheyern, Benediktinerabtei
-|danach=
+|davor=Scheyern, Benediktinerabtei, Ehemalige Krankenabteilung
+|danach=Im 18. Jh. im Raum Ingolstadt und Pfaffenhofen tätige Maler
 |AutorIn1=Sauerländer, Brigitte
 }}
 
@@ -6522,7 +6581,18 @@ Dehio OB 2006, S. 1339.
 
 Kratzsch, Klaus, Kunst im Landkreis Pfaffenhofen, Pfaffenhofen 2006, S. 79. B.S.
 <!-- citation-page-bottom: Band14 p267 -->
+{{End}}
 
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=268
+|Originalseitenbis=271
+|Lemma=Im 18. Jh. im Raum Ingolstadt und Pfaffenhofen tätige Maler
+|davor=Waal, Filialkirche Mariä Himmelfahrt
+|danach=Ortsregister (Band 14)
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk006.pdf#page=10 -->
 <!-- citation-page-top: Band14 p268 -->
 
@@ -6644,12 +6714,20 @@ Lit.: CBD Bd 1–12; Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimme
 
 Lit.: Weissenberger, Paulus, Die Malerfamilie Matthias und Johann Michael Zink. Ihre Lebensgeschichte und ihr Lebenswerk, in: Ellwanger Jahrbuch 22, 1967/68, S. 37–71; CBD Bd 13, S. 456.
 
+{{End}}
 
-== EGISTER ==
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=271
+|Originalseitenbis=272
+|Lemma=Ortsregister (Band 14)
+|davor=Im 18. Jh. im Raum Ingolstadt und Pfaffenhofen tätige Maler
+|danach=Personenregister (Band 14)
+}}
 
-
-
-== Ortsregister Ingolstadt und Pfaffenhofen ==
+== Ingolstadt und Pfaffenhofen ==
 
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
@@ -6706,8 +6784,18 @@ Waal 264 Wahlstatt 54 Waidhofen 226 Waldsassen, Zisterzienserstift, Bibliothek 1
 
 Zuchering 164–17
 
+{{End}}
 
-== Personenregister ==
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=272
+|Originalseitenbis=275
+|Lemma=Personenregister (Band 14)
+|davor=Ortsregister (Band 14)
+|danach=Ikonographisches Register (Band 14)
+}}
 
 
 Kursivschrift und Kursivzahlen verweisen auf in diesem Band behandelten Male
@@ -6892,8 +6980,18 @@ Zächenberger, Wolfgang, Bildhauer und Stuckator in Ingolstadt 18, 36, 38, 50, 1
 
 12/, 2/0 Zimmermann, Johann Baptist, Maler und Stuckator in München 117–19, 127–34, 205 f., 268, 270 Zimmerman, Johann Joseph, Maler 127, 270 Zink, Matthias, Maler in Eichstätt 179–87, 270 Zitter, Joseph, Maler 127
 
+{{End}}
 
-== Ikonographisches Register ==
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=275
+|Originalseitenbis=283
+|Lemma=Ikonographisches Register (Band 14)
+|davor=Personenregister (Band 14)
+|danach=Embleme-Register (Band 14)
+}}
 
 
 TROTTOST apriliseries register Bienenwunder am Kind Ambrosius 216 singt mit Augustinus das Te Deum 200 f. tauft Augustinus 201 America/Amerika 69, 89 f., 92, 141, 214 f., 244 246 Verehrung der Eucharistie 246 Jesuiten betreten das Land 90 von Spaniern erobert 90 America/Indianerprinzessin 91 Amor Dei 68, 103 Amor carnalis – irdische Liebe 197 Amor Divinus – Göttliche Liebe 56, 60, 68, 7 als Vermittler der Zeugung Christi 62, 64 Andreas, Apostel, Martyrer, hl. 176, 202 Andochius von Saulieu 103 f. Martyrium durch die Türken 104 Animalia → Natur, drei Reiche 112 Anker mit Ankerwinde 90 f. Anna, Mutter Mariens, hl. 152 Verkündigung der Geburt Mariens 201, 20 210, 214 Begegnung an der Goldenen Pforte 210 Vision vom Kind Maria 210 Geburt Mariens 202, 210 Anna lehrt Maria 202 mit Joachim und dem Kind Maria 125 Mariä Tempelgang 214, 225 f. als Helferin in allen Nöten 196f. Anna Selbdritt 189, 196 Gnadenbild in Geisenfeld 189 als Patronin der werdenden Mütter 196 als Patronin der kinderlosen Frauen 196 als Patronin der Witwen 196 als Patronin von Geisenfeld 202 f. Antiochus von Sebaste, Martyrer, hl. 104 Tod durch das Schwert 104 Antonius Abbas, Eremit, hl. als Vater des christlichen Mönchtums 253 als Altarpatron im Heiliggeistspital 18 Antonius von Padua, hl. 37–42, 46f., 125 Zyklus 37–42 Vision des Jesuskindes 40 Hostienwunder 40 Fischpredigt 40 wird vom Teufel gewürgt 47
@@ -7219,8 +7317,18 @@ als Symbol des Gebets 90 als Zeichen der Anbetung 71 Weisheit → Sapientia Weis
 
 Zacharias, Mann der Elisabeth 161, 208, 210 Mariä Tempelgang 214 Zahlen Zoo/46 auf der Steintafel 60, 74 f. Zeltlager – Terribilis ut castrorum acies 221 Zeno von Verona, Bischof, hl. 189 als Patron von Geisenfeld 198 Zepter → Astronomie 141 → Asia 215 → Gottvater → Jupiter 150 der Himmelskönigin 227 mit Schlange umwunden → Weisheit 55, 64, 66 mit Auge Gottes im Dreieck → Divina Providentia 109, 141 mit Buch → Philosophia 141 Zirkel → Urania 82 → Bildhauerei 82 Zisterzienser als Zweigorden der Benediktiner im Benediktinerhimmel 246 Zodiakus 42 Zodiakus mit Jungfrau und Waage 86 Zwillinge → Tierkreiszeichen 140 Zupresse neben dem Haus der Weisheit 55 f. Marieneymbol 186
 
+{{End}}
 
-== Embleme-Register ==
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=284
+|Originalseitenbis=285
+|Lemma=Embleme-Register (Band 14)
+|davor=Ikonographisches Register (Band 14)
+|danach=
+}}
 
 
 Der Übergang zwischen Emblemen und häufig auftretenden emblemähnlichen Darstellungen ist fließend. Die Aufnahme ins Register erfolgte nach Ermessen.

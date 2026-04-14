@@ -1,0 +1,270 @@
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=105
+|Originalseitenbis=116
+|Lemma=Ingolstadt, Alte Anatomie
+|Typ=Profan
+|Ort=Ingolstadt
+|davor=Ingolstadt, Kongregationssaal Maria de Victoria
+|danach=Ingolstadt, Stadtpfarrkirche St. Moritz
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Langenstein, Eva
+|AutorIn3=Sauerländer, Brigitte
+}}
+
+Heute ist das Gebäude im Besitz der Stadt.
+
+'''Zum Bauwerk:''' Eine nicht mehr vorhandene Gedenktafel, die ursprünglich am Eingang zum Demonstrationssaal im ersten Stock des Gebäudes angebracht war, hatte eine lateinische Inschrift, die übersetzt lautet: »Mit Gottes Hilfe wurde dies Gebäude samt dem Garten dank der Gebefreudigkeit des durchlauchtigsten und mächtigsten Herrn Herrn Maximilian Emanuel Kurfürst beider Bayern und der Pfalz und dank der Freigebigkeit der berühmten Bayrischen Landschaft und anderer Gönner errichtet von der Medizinischen Fakultät, als diese zierten die wohledlen, rühmlichen, angesehensten und berühmtesten Männer Herr Johann Adam Morasch, Doktor der Philosophie und Medizin, kurfürstlich bayrischer Leibarzt, ordentlicher Professor der Anatomie und dermalen Dekan der medizinischen Fakultät, der Landschaft in Oberbayern Arzt, Dr. Johann Jakob Treyling, Doktor der Philosophie und Medizin, kurfürstlicher Hofrat und ordentlicher Professor der Astronomie, Herr Johann Baptist Neeff, Professor der Philosophie und Medizin, kurfürstlicher Rat«. Das in den lateinischen Worten AEDIFICIVM/HORTVSQVE ERECTVS/A FACVLTATE ACADEMICO/MEDICA enthaltene Chronogramm nennt als Baubeginn 1723.
+
+Schon seit 1685 bemühte sich die Universität Ingolstadt um einen Neubau, der für die Mediziner mehrere Räume und dazu ein »Theatrum Anatomicum« beherbergen sollte. Henrico Zuccalli machte dafür 1694/95 Planzeichnungen, doch kam der Bau nicht zur Ausführung. Erst 1719 konkretisierten sich die Pläne der medizinischen Fakultät, für ein »ordentlich formiertes Theatrum anatomicum, Laboratorium chymicum, Demonstrationes experimentales etc.« einen Bau zu errichten und dazu einen botanischen Garten anzulegen (Hofmann 1986, S. 340).
+
+1722 und 1723 erwarb die Fakultät die Grundstücke und gab die Bauplanung in Auftrag. Grundsteinlegung war am 27.4. 1723. Nach Aufführung des Rohbaus gerieten die Arbeiten wegen Geldmangels ins Stocken, so dass das Gebäude 1725 noch unverputzt und ohne Fenster und Türen war. 1726 war der Bau wohl etwas weiter fortgeschritten, denn der Primarius der medizinischen Fakultät, Johann Adam Morasch, erklärte am 22. 8. 1726, dass an der »vollständigen Perfektion« des Gebäudes »so gar vill nit mehr ermanglet« (BHStA GL 1483 III/24, f. 852-54). Einer Bittschrift vom 25. 12. 1726 ist allerdings zu entnehmen, dass wegen »des Abgangs der Mitlen das
+
+Gebau zu destinierten Exercitien in unbrauchbarem Standt sei, von außen noch nit verbuzet, die Zimer nit gänzlich zugericht und das ganze Werckh wider frühzeitige Baufähligkheiten nicht gesichert« sei (ebd. GL 1481 III/1, f. 840-43). Am 22. 1. 1727 gab der Kurfürst 600 fl. für die Fortsetzung des Baus. Vollständig fertig gestellt war das ›Exercitien-Gebäu‹ wohl erst zum Jahreswechsel 1735/36, so dass Johann Jakob Treyling am 26. 1. 1736 berichten konnte, dass »man nicht nur den Medicinischen Hortum Botanicum auf ein neues angerichtet vndt mit zahlreichen, von fernen Orthen mühsam herbeigeschafften Kreuter- und Gewächsen, so vill in Kürze dieser Zeit beschehen können, versehen, sondern auch das Exercitien- Gebäu völlig ausbauen und in solchen Standt sezen lassen dass bereits die Exercitia darinnen können vorgenommen werden« (GL 1481 III/2, f. 727, zitiert nach Hofmann). Allerdings scheinen einzelne Räume schon in den Vorjahren genutzt worden zu sein, denn Franz Joseph Grienwaldt berichtet in seinem Nachruf auf Morasch († 1735), dieser habe im anatomischen Zimmer des neuen Gebäudes häufig anatomische Sektionen und chirurgische Eingriffe vorgeführt. In der ›Camera Anatomica et Chirurgica« seien Skelette und Präparate verwahrt gewesen, im Raum für die physikalischen Experimente die physikalischen Gerätschaften, etwa Luftpumpe, Barometer, Thermometer, Magdeburger Halbkugeln und Sprachrohr (Crionwold 1725 S 15)
+
+1755 erfolgte ein durch Professor Leonhard Obermayer eigenmächtig und gegen den erklärten Willen Treylings durchgeführter Umbau des Saals. Die Zwischendecke wurde herausgenommen, so dass unter Einbeziehung des darunter liegenden ...
+
+
+
+[[File:Band14_chunk003_p003_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band14 p105 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=4 -->
+<!-- citation-page-top: Band14 p106 -->
+
+<!-- header: INGOLSTADT ALTE ANATOMIE -->
+
+
+[[File:Band14_chunk003_p001.jpg|thumb|Die ehemalige Aula]]
+
+
+Raumes ein hoher Saal mit Emporen entstand, ein anatomisches Theater, das einer größeren Zahl von Zuschauern einen guten Blick auf die anatomischen Vorführungen ermöglichen sollte.
+
+Nach dem Weggang der Universität aus Ingolstadt im Jahr 1800 wurde das Gebäude zweckentfremdet. Prantl berichtet 1872: »Der schöne Saal ist nun ein Heustadel, die Nebenzimmer sind Taglöhnerswohnungen« (S. 273 f.). Ab 1881 wurde das Gebäude lange als Dampfwaschanstalt genutzt, von 193 bis Kriegsende nochmals als Wäscherei vermietet (Stadtarchiv Ingolstadt). Nach einer vollständigen Restaurierung 1971/72 wurde am 23.6.1973 das Deutsche Medizinhistorische Museum Ingolstadt in diesem Gebäude eröffnet.
+
+Kleine, einem Gartenpalais oder einem Orangeriebau vergleichbare Anlage mit einem nach Nordosten in voller Breite des Gebäudes anschließenden Garten. Als Entwerfer gilt Gabriel de Gabrieli, der von 1716-47 im Dienst des Fürstbischofs von Eichstätt tätig war. Gabrieli hatte in Wien gelernt und Ideen Johann Bernhard Fischer von Erlachs aufgegriffen, auch im Hinblick auf die Gartenarchitektur (Rupprecht 1974, S. 234–37; Hofmann 1974, S. 27–31).
+
+Der zweigeschossige Bau besteht aus einem hohen, querrechteckigen, dreiachsigen Mittelbau mit Exedra zum Garten hin und anschließenden, ebenso zweigeschossigen aber etwas niedrigeren Seitenflügeln, die mit Eckbauten rechtwinklig in den Garten vorspringen. Eine der Gartenfront im Erdgeschoss vorgelagerte Säulengalerie mit Balustrade und begehbarer Deckfläche überspannt den Saalbau und zwei Achsen der beiden Seitenflügel. Nach dem Entwurf Zuccallis sollte ursprünglich der Mittelbau flach gedeckt sein, eine Dachterrasse mit Balustrade und ein Beobachtungstürmchen für astronomische Beobachtungen erhalten (s. dazu Hofmann 1974, S. 29). Bei den Eckvorbauten der Seitenflügel waren von Gabrieli Flachdächer geplant, auf die man schließlich verzichtete; sowohl der Mittelbau als auch die Seitenflügel wurden mit normalen hohen Ziegeldächern versehen.
+
+Im Jahr der Grundsteinlegung 1723 gab die medizinische Fakultät eine Beschreibung des geplanten Gebäudes heraus, der ein Stich nach Melchior Puchner beigegeben war. In dieser Schrift wird das Gesamtkonzept des Gebäudes – das für das Verständnis des Deckenbildes wichtig ist – überliefert, sowie im Detail die Nutzung der einzelnen Räume (Rupprecht 1974, S. 235 f., Hofmann 1974, S. 26, 37, Abb. 7).
+
+Der große und hohe Raum im ersten Stock des Mittelbaus war als Aula bestimmt, wurde aber auch für die öffentlichen Demonstrationen der Anatomie und der Experimentalphysik bestimmt. Darunter lag das »Hybernaculum«, in dem während des Winters die frostempfindlichen Pflanzen untergebracht wurden, im ersten Stock rechts die »Camera Anatomica et Chirurgica«, darunter die Gärtnerwohnung (s. auch Mederer, S. 275). Das als Standort für ein kleines Observatorium geplante Flachdach des Mittelbaus sowie die Deckfläche auf der Säulengalerie sind in der Beschreibung beide als »altana« und »solarium« bezeichnet und sollten die besonders sonnenbedürftigen, in Kübeln gehaltenen Pflanzen aufnehmen. Dem Stich zufolge sollten diese »Scherbengewächse« (Scherben = einfache tönerne Gefäße) auf den beiden Balustraden aufgestellt werden.
+
+Das Deckenbild befindet sich im Saal. Drei hohe Fenster geben dem Raum Licht von der Straßenseite und zwei Fenster sowie eine mittlere Glastür zur Terrasse Licht von der Gartenseite. Eine stuckierte Hohlkehle umfasst die Deckenfläche. Als Stuckator wurde von Siegfried Hofmann überzeugend der Ingolstädter Wolfgang Zächenberger vorgeschlagen, der 1733 den Fassadenstuck von Maria de Victoria und wohl 1730 die Stuckierung der Spitalkirche ausgeführt hat.
+
+'''Auftraggeber:''' Auftraggeber des Baus war die medizinische Fakultät der Universität Ingolstadt. Auftraggeber des Deckengemäldes war ihr Dekan Johann Jakob Treyling (s. u.); er kommt auch als Stifter in Betracht. 1682 geboren, war er seit 1711 Professor der Medizin, Anatomie und Botanik in Ingolstadt. Zusammen mit dem damaligen Primarius Johann Adam Morasch war er Initiator des »Exercitien Gepäus« und hatte wie dieser auch aus eigenen Mitteln dazu beigetragen (Hofmann 1974, S. 33-51). Morasch starb am 19. 12. 1734; im Jahr 1735, in dem wahrscheinlich das Deckenbild entstand, wurde Treyling Moraschs Nachfolger als Primarius (Dekan) der medizinischen Fakultät.
+
+Neben Treyling waren an der medizinischen Fakultät im Jahr 1735 noch zwei weitere Professoren tätig: Johann Baptist Neeff (* 1690 † 1737), der zwischenzeitlich als Leibarzt nach Mannheim abberufen war, unterrichtete von 1735 bis zu seinem Tod 1737 wieder in Ingolstadt. 1734 war Franz Anton Stebler (* 1705 † 1789) als dritter Professor berufen worden. Beim Entwurf des Deckenbild-Programms war Johann Jakob Treyling der bestimmende Geist. Es geht bis ins Detail auf seine grundsätzlichen Überlegungen zum Wesen der Heilkunst zurück, die er schon 1719 als Dissertation in Ingolstadt verfasst hatte: »Punctum centrale omnium linearum medicarum, id est tractatus medico-theoreticus de Medici Praestantia et Officio Generali seu METHODO MEDENDI – Una cum triplici fonte Pharmaceutico Diaetetico et Chirurgico . . . « (Der zentrale Punkt aller medizinischen Bemühungen. Das ist: Medizinisch-theoretischer Traktat über die Leistung des Arztes und seine besondere Pflicht, oder über die Methode des Heilens – zusammen mit der dreifachen Quelle der Pharmazie, Diätetik und Chirurgie). Das Deckenbild im Saal des Neubaus ist als Illustrierung einer seiner Hauptthesen zu verstehen, und eine einleuchtende Interpretation ist nur möglich durch diese Dissertation. Treyling gab sie in Ingolstadt 1735 erneut heraus, vermehrt um weitere Einzelschriften, die er in der Zwischenzeit geschrieben hatte und die sich mit der Medizin nicht mehr grundsätzlich, sondern jeweils mit einem speziellen medizinischen Thema befassten.
+
+'''Autor und Entstehungszeit:''' Zuweisung an Melchior Puchner (* 1695 Schongau † 1758 Ingolstadt)
+
+Erste Zuweisung durch Bernhard Rupprecht 1974 (S. 237f.) aufgrund stilistischer und motivischer Übereinstimmungen mit Puchners signierter und 1737/38 zu datierender Ausmalung der Pfarrkirche in Fischbachau (CBD Bd 2, S. 470-96). Charakteristisch für Puchner ist der massive Körperbau seiner Figuren, der Aufbau der Figurengruppen in dichter, wenig Luft lassender Ballung, seine Vorliebe für kräftige Rot-Blau- Kontraste und für eine Skala von Rottönen, die zu Rostrot, Braunrot, Orange und Ocker hin reicht. Typisch für Puchner sind auch die in Untersicht angelegten Scheinarchitekturen, die die Kenntnis von Pozzos Traktat »Perspectiva pictorum et architectorum« verraten. Offensichtlich war Puchner in der Alten Anatomie auch beeinflusst von Asams Ausmalung in Maria de Victoria, die 1735 beendet war; Rupprecht datiert die Freskierung in der Alten Anatomie deshalb nach der Fertigstellung des Asamfreskos. Am wahrscheinlichsten ist eine Ausführung des Puchner-Freskos noch im Jahr 1735, nach Beendigung der Bauarbeiten an der Alten Anatomie und vor der Anschaffung des »Amphitheatrum mobile« 1736.
+
+Melchior Puchner (auch Puechner, Buchner) wurde am 6. 1. 1695 in Schongau geboren, als Sohn des Bierbrauers Blasius Puchner und seiner Ehefrau Katharina geb. Krenauer. Oefele beschreibt ihn als empfindliche Natur, als fleißigen, aber langsamen Maler, dessen Bilder immer dann besser gelangen, wenn er gezwungen war, schneller und damit schwungvoller zu malen. Er sei in München bei Johann Andreas Wolff und bei Kaspar Gottfried Stuber Schüler gewesen, sei von Stuber auch in Geometrie und Perspektive unterrichtet worden, weshalb er auch die Architekturmalerei gut beherrsche. 1721 zog er nach Ingolstadt, wo er am 9. 12. 1721 als »akademischer Maler« in die Universitätsmatrikel eingetragen wurde (Hofmann 1973 S. 156). Als akademischer Bürger heiratete er am 6. 10. 1722 in Ingolstadt Maria Barbara Vogel, Tochter des Hofzimmermeisters von Neuburg an der Donau. Im Ingolstädter Bereich freskierte Puchner in Geisenfeld 1728, in der Spitalkirche 1730/40 in der Kreuzkapelle von Scheyern 1739 und in Gosseltshauser 1752. Außerdem schuf er zahlreiche Altarbilder (u. a. in der ehem. Augustinerkirche, S. 125) und war auch als Fassmaler tätig. Er starb in Ingolstadt am 9. 12. 1758.
+
+Dass Puchner als akademischer Maler in Ingolstadt den Auftrag erhielt, den Saal in der Alten Anatomie, einem Universitätsgebäude, auszumalen, lag nahe. Außerdem bestand zwischen dem Auftraggeber, Johann Jakob Treyling, und Puchners Frau Maria Barbara verwandtschaftliche Beziehungen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A Flachdecke; 1–4 Hohlkehle Rahmen: A auf einem Stuckprofilrahmen ansetzende gemalte Rahmung, die ein umlaufendes, kassettiertes Konsolgesims illusioniert: 1–4 Bandwerk-Stuckrahmen
+
+Technik: A ursprünglich Fresko, polychrom; heute Seccomalerei von 1972. 1–3 Fresko, monochrom dunkelrosa; 4 Darstellung nicht erhalten.
+
+Maße: Höhe 4,90 m; 7,60 × 9,10
+<!-- citation-page-bottom: Band14 p107 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=5 -->
+<!-- citation-page-top: Band14 p108 -->
+
+<!-- header: INGOLSTADT ALTE ANATOMIE -->
+
+<!-- header: INGOLSTADT ALTE ANATOMI -->
+
+Erhaltungszustand und Restaurierungen: Vor der letzten Restaurierung im Jahr 1972 erstellte Restaurator Toni Mayer, Mindelheim, eine Farbphoto-Dokumentation der Saaldecke. Diese belegt zusammen mit einer Serie von Schwarz-Weiß-Aufnahmen, die 1971 vom Corpus der barocken Deckenmalerei angefertigt worden sind, den damaligen Zustand, vor der so genannten > Wiederherstellung < im Jahr 1972, die eine eingreifende Überarbeitung bedeutete. Das Gemälde befand sich damals in desolatem Zustand. Die lange Feuchtigkeitseinwirkung durch die Nutzung des Saals als Wäscherei, wohl aber auch vom Dach eindringende Feuchtigkeit hatten irreparable Schäden hinterlassen. Im Randbereich sind große Ausbrüche zu erkennen, vor allem in der Nordecke bis in den roten Vorhang hinein und in der Westecke bis in das gemalte Konsolgesims hinein. Das Gemälde hatte zahlreiche Risse und die Farben waren stark ausgeblichen - vor allem die Blautöne waren verloren. Allein an zwei durch Bretter geschützten Stellen hatten sich der blaue Himmel und ein blaues Kleid in ihrer früheren Farbigkeit erhalten.
+
+Einige großenteils grobe Retuschen in Weiß (auch die Übermalung der Tafel der Grammatica) und zahlreiche verunklärende Nachkonturierungen und Übermalungen in einem Goldton sind zu bemerken. Ein auffällig großer Kopf in der linken Gruppe scheint nachträglich von Melchior Puchner eingefügt worden zu sein. Später ist dieser eingefügte Kopf wieder getilgt worden, sodass auf den Photos über dem wieder erkennbar gewordenen Gesicht die Linien der Torarchitektur durchlaufen. Auffällig sind auch nachträgliche Veränderungen im Bereich der Arkadenbögen, die wohl ursprünglich keine Durchblicke zeigten, sondern geschlossen waren, so dass ein massives Gebäude dargestellt war. Im mittleren Tordurchblick zeichnen sich Linien ab, die von einer ehemals hier dargestellten Türe herrühren dürften, so dass man noch den Verlauf der Schlagleiste und von Teilen der Kassettierungen erkennen kann.
+
+Neben zahlreichen Veränderungen und Schäden lassen sich aber auf den Photos von vor 1972 auch große Partien erkennen, die - wenn auch merklich verblasst - noch die authentische Malerei des 18. Jh. zeigen. Ein Gutachten von Landeskonservator Walter Bertram kurz vor der Restaurierung 1972 (BLfD) beschreibt manche Partien des Deckengemäldes als relativ gut erhalten, sagt aber auch, dass größere Teile des Bildes zu einem nicht mehr datierbaren Zeitpunkt geschickter, unkünstlerischer Hand übermalt worden waren. Dass Arme und Gesichter grob zeichnerisch ausgebessert worden sind und dass unter diesen Übermalungen nur noch geringe Reste des Originals erhalten waren.
+
+Bei der Bearbeitung des Jahres 1972 durch den Kunstmaler und Restaurator Manfred Fronske, Landshut, ging es vor allem darum, dem Gemälde wieder einen geschlossenen, einigermaßen prägnanten und harmonischen Gesamtaspekt zu verleihen, was dadurch erkauft wurde, dass die verblasste und teilweise undeutliche originale Malerei durch weiteren Farbauftrag überdeckt und teilweise interpretierend präzisiert wurde, so dass das Gemälde in seinem heutigen Zustand von dem ursprünglichen barocken Malduktus kaum noch etwas erkennen lässt und auch in manchen Details inhaltlich verändert ist. Bei den in den Akten beschriebenen Maßnahmen, nämlich einer Oberflächenreinigung mit weichem Pinsel, einer Festigung der Farbschicht »mit verdünntem synthetischen Kasein«, der Schließung der großen Löcher und der Ausbesserung und Einstimmung der Fehlstellen, ist es damals wohl aus den oben angeführten Erwägungen nicht geblieben.
+
+Der Ingolstädter Kirchenmaler Georg Löhnert restaurierte und ergänzte die stuckierte Hohlkehle und erneuerte die ursprüngliche Farbigkeit nach Befund: Grund hell türkisfarben, Bandwerkstuck weiß, kleine eingeschlossene Zierfelde gelbgrundig, monochrome Kartuschenbilder 1-4 in dunklen Rosa. 4 ist nicht erhalten, die Bilder in 1-3 sind sehr schlecht erhalten, die noch vorhandenen Reste blieben aber 1972 unberührt (Stadtarchiv Ingolstadt).
+
+== Beschreibung und Ikonographie ==
+
+Die Bildfläche über dem Saal folgt dem leicht querrechteckigen Raumgrundriss mit seiner exedraartigen Erweiterung zum Garten hin.
+
+Die relativ hohe und tiefe Hohlkehle, die zur Wand hin von einem einfachen Profilstab, zum Bild hin mit einer reich profilierten Stuckkante begrenzt ist, ist wichtig als stützendes Element für das weit gespannte, als einheitliche Szenerie konzipierte Fresko. Die Fläche der Hohlkehle ist stuckiert: Locker verteilter Bandwerkstuck, durchsetzt mit Akanthusranken, Rautengitter-Feldern und Ziervasen füllen sie.
+
+A ALLEGORIEN DER HEILKUNST Das Bildprogramm beschäftigt sich mit dem Wesen und der Aufgabe der Heilkunst aus der Sicht eines Ingolstädter Medizinprofessors des 18. Jh. und ist damit ein außergewöhnliches historisches Zeugnis. Die vorliegende Bildbeschreibung folgt den erhaltenen alten Photos aus der Zeit vor der Übermalung 1972. Unsicherheiten bestehen vor allem bei den schon damals stark beschädigten Partien des Gemäldes.
+
+DER BILDAUFBAU Das einansichtige, in steiler Untersicht zentralperspektivisch angelegte Deckenbild ist nach SW (Straßenseite) gerichtet; nur das gemalte, umlaufende Konsolgesims ist zweiansichtig. Der Betrachterstandort liegt auf der Mittelachse des Raumes, in Höhe der Ansatzlinie der Exedra, unter dem Fluchtpunkt der Architekturkulisse. Blickt der Betrachter von hier nach Südwesten, so sieht er das gemalte Gesims in perspektivischer Übereinstimmung mit der darüber folgenden Scheinarchitektur.
+
+Das gemalte, mit Kassetten durchsetzte umlaufende Konsolgesims, das auf der Stuckprofilkante der Hohlkehle ansetzt, bildet den Rahmen des Freskos. Auf einem schmalen Erdstreifen über der südwestlichen Längswand entfaltet sich bildparallel die breite irdische Figurenszenerie, hinterfangen von einem mächtigen, durch Arkadenbögen gegliederten Bauwerk, das wie das reale Anatomiegebäude in seiner Gartenansicht mit seinen im rechten Winkel anschließenden Seitenflügeln eine Art > Cour d'honneur < ausbildet. In der Mitte tritt aus der Flucht der Arkaden ein hohes, säulenbesetztes Portal vor, mit stark verkröpftem Gebälk und weitem Torbogen, zu dem Stufen hinaufführen. Vor dem Scheitel des Torbogens schweben zwei Putten und tragen ein Wappen, wie um es über dem Tor anzubringen.
+
+[[File:Band14_chunk003_p001.jpg|thumb|Der Ruhm der medizinischen Fakultät – Heilung der Kranken durch die Kräfte der Natur und die Kunst des Arztes (Melchior Puchner 1735)]]
+
+Die Figurenkomposition ist achsensymmetrisch aufgebaut und in eine irdische und zwei übergeordnete himmlische Zonen gegliedert. Im irdischen Bereich stehen sich zwei Gruppen von jeweils neun Personifikationen gegenüber, die beide nach der Mitte hin agieren. Zwischen ihnen wird die weite Toröffnung sichtbar. Auf der linken Seite werden wie in einer Prozession die Gaben der Natur herbeigebracht, die zur Ernährung und zu Heilzwecken dienen. Auf der rechten Seite haben sich Personifikationen versammelt, die Teilaspekte der ärztlichen Kunst verkörpern.
+
+Jeder dieser beiden Gruppen ist eine Personifikation zugeordnet, die hoch darüber auf einem Wolkenkissen lagert und die unter ihr dargestellten Allegorien in einem Begriff zusammenfasst. Über den Gaben der Natur links ist > Natura < dargestellt; dem rechten Zug zugeordnet ist die Personifikation der medizinischen Kunst, Medicina« oder besser Ars medendi«, die alle Fähigkeiten und Künste in sich begreift, die dazu dienen, Heilung zu bewirken bzw. Gesundheit zu bewahren, wie sie an der medizinischen Fakultät in Ingolstadt gelehrt wurden.
+
+In den Wolken ist Divina Providentia dargestellt, vor einer hellen Lichtglorie, weiß und golden gewandet, in der Hand das Zepter mit dem Auge Gottes im strahlenumgebenen Dreifaltigkeitssymbol.
+
+Diese drei Allegorien – Natura, Medicina und Divina Providentia - bilden ein Dreieck, in dessen Zentrum auf Wolken über dem Torbogen eine junge, blühende Frau erscheint. Sie hat lange goldblonde Locken und Blumen im Haar; gekleidet ist sie in ein weißes Gewand mit roter Manteldraperie, einen goldenen Gürtel und ein goldenes Armband am linken Oberarm. Ihr Blick ist zum Himmel gerichtet. In der Linken hält sie einen Strauß mit verschiedenen Blumen. Sie ist auf einer Wolke wie kräftig ausschreitend dargestellt, in einer Pose von anmutiger Kraft. Der Eindruck von schneller und lebhafter Bewegung wird durch ihre langen flatternden Locken unterstützt. Von rechts fliegt Fama herbei, die Allegorie des Ruhms. Sie ist größer dargestellt als die anderen Bildfiguren; einer ihrer Flügel überschneidet den gemalten Konsolfries, so dass sich die Illusion ergibt, sie würde im realen Raum dem Betrachter greifbar nahe schweben. Durch sie sind Realraum und Bildraum illusionistisch zu einer Einheit verbunden. Den oberen Bildrand beschließt in der Mitte und im nördlichen Teil ein hochgeraffter, roter, von Putten gehaltener Vorhang. Er gibt
+<!-- citation-page-bottom: Band14 p109 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=6 -->
+<!-- citation-page-top: Band14 p110 -->
+
+INGOLSTADT ALTE ANATOMIE
+
+[[File:Band14_chunk003_p006_img001.jpg|thumb|Die Künste und Wissenschaften des Arztes, darüber Ars medendi (Photographische Aufnahmen 1971)]]
+
+der Szenerie den Anschein einer Theaterbühne, deren Architekturkulisse eine Art von Innenhof hinterfängt, in dem sich die dargestellten Figuren unter freiem Himmel versammelt haben.
+
+DIE ZENTRALE BILDAUSSAGE Alle Bildgestalten dieses Freskos müssen in ihren Einzelheiten besprochen werden, auch wenn sie - oder gerade weil sie zur Zeit der alten photographischen Aufnahmen vor der rekonstruierenden Übermalung 1972 großenteils sehr schlecht erhalten waren. Aber zunächst soll die Quintessenz der Bildaussage deutlich sein, damit das Wesentliche in der Fülle der einzelnen Detailerklärungen nicht untergeht.
+
+Ausgesagt wird im Bild, dass im Zentrum aller ärztlichen Bemühungen die Heilung des Kranken und damit seine Gesundheit steht. Diese Heilung und damit die Gesundheit wird bewirkt durch die Mittel, die die Natur zur Verfügung stellt sowie durch die verschiedenen Fähigkeiten und Wissenschaften, die zusammen die ärztliche Kunst ausmachen. Letzten Endes aber kann die Heilung nur durch den Willen Gottes erfolgen und die Gesundheit ist im Grunde ein Geschenk Gottes.
+
+[[File:Band14_chunk003_p006_img002.jpg|thumb]]
+
+Optischer und gedanklicher Mittelpunkt der Bildkomposition ist die junge Frau mit den Blumen und den blonden Locken. Von jeder der drei umgebenden Figuren – Natura, Ars medendi und Divina Providentia – ist ein Schriftstrahl auf sie gerichtet. Auf dem, der von der Natur auf sie fällt, ist zu lesen duce. Im Strahl, der von Medicina zu ihr führt, ist zu lesen ministra. Und im Schriftstrahl, der von Divina Providentia aus zu ihr führt, steht auctore (diese Inschrift ist schwer, aber mit Sicherheit zu entziffern). Die Worte sind folgendermaßen zu ergänzen: {ZITAT|000}, was bedeutet: Was diese Frau verkörpert, wurde erzielt unter der Führung der Natur und durch den Dienst des Arztes auf Veranlassung der göttlichen Vorsehung. Dazu lesen wir bei Treyling: »Deus sanitatis auctor, huius instrumentum Natura, Minister Medicus« (S. 21: Gott ist der Veranlasser der Gesundheit, dessen Instrument die Natur ist, und dessen Helfer der Arzt). Treyling bezieht sich dabei auf einen antiken Schriftsteller: {ZITAT|001} (Wir lesen bei Colio Rhodigion, dass Gott der Veranlasser der Gesundheit ist, das Werkzeug Gottes die Natur, und beider Diener wird
+<!-- citation-page-bottom: Band14 p111 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=7 -->
+<!-- citation-page-top: Band14 p112 -->
+
+<!-- header: INGOLSTADT ALTE ANATOMIE -->
+
+<!-- header: INGOLSTADT ALTE ANATOMI -->
+
+der Arzt genannt). Bei der Hauptfigur des Bildes handelt es sich also um die Personifikation der Gesundheit, um Sanitas. Sie wird bewahrt bzw. wiederhergestellt im Kraftfeld von Gott, Natur und Arzt.
+
+DIE GABEN DER NATUR Die linke Figurengruppe stellt die Herbeibringung der menschlichen Nahrung sowie der Stoffe aus den drei Reichen der Natur dar, die als Heilmittel dienen können: aus dem Reich der Mineralia, der Animalia und der Vegetabilia. Die Gruppe bewegt sich wie ein Zug von links zur Mitte hin, angeführt von zwei Putten, die einen Elefanten und ein zweites großes Tier – wahrscheinlich ein Kamel – halten; ein Putto hat einen Vogel auf der Hand sitzen. Die Tiere sind Vertreter des Regnum animale, des Tierreiches. Weiter nach links sitzt ein Putto am Boden und weist eine Perlenkette vor. Vor ihm liegt ein langer, gedrehter Narwalzahn sowie ein Fisch (?). Perlen und Narwalzahn wies man dem Regnum minerale zu.
+
+Den Putten mit den Tieren folgen sechs schreitende Frauengestalten, paarweise angeordnet, und bringen Gaben aus dem Reich der Vegetabilia. Eine Frau in rosafarbenem, goldverzierten und golden gegürteten Kleid mit blauem Umhang, die auf dem Haupt eine Blütenkrone trägt, geht voran. Schräg hinter ihr folgt eine weibliche Figur in Rot (stark zerstört) mit einer turbanartigen Kopfbedeckung, um die ein Blütenkranz gelegt ist.
+
+Das zweite Paar besteht aus einer grün gekleideten Frau, die eine Zackenkrone über Blüten auf dem Haupt trägt und mit dem rechten Arm nach vorne weist. Sie wendet sich zur Seite, der weiblichen Figur neben ihr zu. Diese hat aufgesteckte und dann über den Nacken fallende Haare, ein weißes Hemd und ein gelbliches Mieder. Sie hält eine Garbe im Arm und dazu eine Sichel.
+
+Die nächste Figur, mehr im Hintergrund, hat eine dunklere Hautfarbe und hält mit der Rechten eine mit Früchten gefüllte Schale hoch. Ihr in der Position zugeordnet ist eine weibliche Figur im Vordergrund, die wieder eine Zackenkrone trägt sowie ein rosafarbenes Kleid mit einer reichen gold-ockerfarbenen Manteldraperie. Sie hält in der Linken einen Spaten und ein zweites Werkzeug, bei dem nicht sicher zu erkennen ist, ob es sich um eine Sense oder eine Spitzhacke handelt. Sie wendet sich nach hinten, wo in halb hockender bzw. kniender Haltung zwei Männer den Zug beschließen. Einer von ihnen hält eine Schubkarre, der zweite trägt einen großen flachen Korb auf seinem Kopf. Wo der gemalte Eckbau im Fresko (NO-Seite) zum Garten vorspringt, sind zwei Putten dargestellt, von denen einer einen Blumenstrauß hält, der andere sich über einen Korb mit Blüten und Früchten beugt.
+
+Auf den alten Photos vor der Übermalung des Bildes ist an Attributen und Details nur wenig mehr mit Sicherheit zu erkennen. Mit absoluter Sicherheit können nur zwei Figuren identifiziert werden: die mit Garbe und Sichel bezieht sich auf den Sommer, die mit den Früchten auf den Herbst. Der Kopfputz der vordersten ist nur schwer erkennbar, er ähnelt aber doch so stark einer Blütenkrone, dass man das annehmen kann, auch wegen der Abfolge der Figuren: die Blütenkrone wiese auf den Frühling hin, der ja dem Sommer und Herbst vorausgeht. Damit wäre der Grundgedanke dieser Gruppe von sechs sich paarweise zugeordneten Frauen die Abfolge der drei schönen Jahreszeiten, in denen die Natur uns ihre Gaben schenkt.
+
+Der Gedanke liegt nahe, dass die beiden Männer am Ende des Zuges den Winter verkörpern, mit der winterlichen Gartenarbeit (Schubkarren) und dem Ausgraben von Wurzeln (Korb), die wiederum als Heilmittel dienen können, aber auch als Nahrung. Die Wurzeln wurden im späten Herbst und im beginnenden Frühjahr ausgegraben. Doch kann das aus den alten Photos nicht sicher geschlossen werden. Auch die Bedeutung der Zackenkronen bei den zwei Figuren, die Sommer und Herbst begleiten, konnte nicht geklärt werden.
+
+Sicher ist die Bedeutung der Perlen, des Narwalzahns und der Elefanten-Stoßzähne. Es sind Gegenstände aus dem Regnum minerale, die als Material zur Herstellung von Medikamenten dienten. Von den Perlen wurden vor allem die kleineren zu feinem Pulver zermahlen und in herzstärkenden Präparaten verwendet, auch vermischt mit pflanzlichen Bestandteilen gegen Magenblähungen und bei Nervenkrankheiten eingesetzt (Teil 2, S. 285). Der Narwal, der in den eisigen Gewässern vor Grönland und Island lebt, lieferte mit der Substanz seines langen Stoßzahnes einen wichtigen Heilstoff, der gegen jede Art von Vergiftung zum Einsatz kam. Seine Wirkung wird als besänftigend, säurebindend, krampflindernd und schweißtreibend beschrieben. Für die Verwendung als Medikament wurde durch Schaben mit einer Feile die Zahnsubstanz pulverisiert (Teil 2, S. 350). In ähnlicher Bedeutung wurde das Elfenbein des Elefanten genutzt. Weiße und rote Korallen wurden zu feinstem Pulver zermahlen und in Präparaten gegen die Epilepsie eingesetzt.
+
+Neben diesen Substanzen zur Herstellung von Medikamenten werden aber auch einfache Lebensmittel herbeigebracht, Getreide und Früchte, wozu wohl auch noch der Vogel und der Fisch gehören. Dazu schreibt Treyling, ebenso wie die Kenntnis der Medikamente für den Arzt wichtig sei, so auch die Kenntnis der Lebensmittel, ob sie nun aus der Erde, dem Wasser oder der Luft kommen; und der Arzt müsse wissen, wie man diese Lebensmittel zum Nutzen der Kranken und Gesunden zubereitet (S. 38). Er nennt denn auch die Diätetik, also die Kenntnis der richtigen Ernährung, neben der Pharmazie und der Chirurgie als »Fons triplex« der Heilkunst.
+
+KÜNSTE UND WISSENSCHAFTEN DES ARZTES In der Gruppe von Personifikationen rechts im Bild sind die Künste und Wissenschaften dargestellt, die ein Arzt erlernen und beherrschen soll und die die Basis für die Gesamtheit der Heilkunst bilden. An der Spitze der Gruppe ist >Grammatica< dargestellt, die Personifikation der Grammatik. Sie trägt ein weißes, unter der Brust gegürtetes Gewand, hat über Kopf und Arme ein schwarzes Manteltuch gebreitet und kniet am Fuß der Treppenstufen, die zum Torbogen hinaufführen. Sie blickt zu Sanitas hoch, die über dem Torbau schwebt und weist mit ihrer Rechten auf die neben ihr stehende Schrifttafel, die sie mit der Linken stützt. Diese Schrifttafel wurde bei einer früheren Restaurierung überweißt. Bei Ripa ist sie Attribut der Grammatik, und zwar mit der Aufschrift {ZITAT|001}} (die gebildete und geordnete Rede, in angemessener Weise vorgetragen). Sie beschreibt Grammatica als die Fähigkeit, einen Sachverhalt kundig und verständig vorzutragen: Voraussetzung für jede Wissenschaft. Der Putto bei der Tafel hält eine Feile; dieses Attribut ist bei Ripa der Grammatica zugeordnet, weil {ZITAT|002}} (weil die Feile darauf hinweist, dass die Grammatik den Verstand weckt und schärft).
+
+Auf die Grammatik folgen in einer geschlossenen Gruppe zunächst Allegorien aus dem Bereich der ›Philosophia naturalis‹, Personifikationen der wichtigsten im Rahmen des Medizinstudiums an der Universität gelehrten Fächer: der Chirurgie, Chemie, Physik und Pharmazie. Die zentrale Figur dieser Gruppe ist die Personifikation der Physik. Über einen helllila Rock und ein hellblaues Mieder mit großem Ausschnitt hat sie in der Art einer kurzen Tunika einen weißen Mantel geschlungen. Im linken Arm hält sie eine zylindrische Luftpumpe, aus deren oberem Ende die Schubstange herausragt und an deren unterem Ende vier kleine Windmühlenflügel zu sehen sind. Die halb verdeckte, neben der Physik stehende Figur mit jungem Gesicht und roter Kleidung ist die Personifikation der Chemie. Sie hält mit der linken Hand ein Glas mit einer gelblichen Flüssigkeit hoch, auf das sie aufmerksam blickt. Mit der Linken scheint sie nach der Hand der Physik zu greifen. Die beiden Wissenschaften Physik und Chemie sind in enger Zuordnung zueinander dargestellt.
+
+Rechts vor der Figur der Physik ist eine hochaufgerichtete Dame in einem vornehmen braunroten Kleid dargestellt, mit aufgesteckten hellen Haaren, die im Nacken lose herabfallen. In der linken Hand hält sie unverkennbar eine Säge; ein zweiter Gegenstand in ihrer Rechten kann nicht mehr identifiziert werden. Doch kann man die Säge als Knochensäge benennen und damit die Figur als die Personifikation der Chirurgie.
+
+Neben der Allegorie der Chirurgie kniet eine junge Frau in rosa- bis ockertonigen Gewändern. Sie beugt sich über einen Mörser, an dem ein Putto zu ihren Füßen hantiert, und hält ein blaues medizinisches Vierkantglas und einen Löffel. Sie dürfte als Personifikation der Pharmazie zu identifizieren sein. Damit sind in dieser Gruppe vier der für ein Studium der Medizin wichtigen Wissenschaften dargestellt.
+
+Neben der Pharmazie, aber im Hintergrund der Gruppe, sieht man eine weibliche Figur in einem auffallenden weißen Gewand (in der Fassung seit 1972 ist das Kleid zartbläulich), die – auf dem alten Photo – am Kopf kleine weiße Flügelchen zu haben scheint. Sie hat einen länglichen Gegenstand fest in der linken Hand, hält ihn in die Höhe und blickt auf ihn. Dieser Gegenstand ist nicht mehr zu identifizieren; es könnte ...
+
+
+
+[[File:Band14_chunk003_p007_img001.jpg|thumb|Die Gaben der Natur: Frühling mit Blütenkrone, Sommer mit Garbe und Sichel, Herbst mit Früchten, Winter mit Schubkarren]]
+
+
+<!-- citation-page-bottom: Band14 p113 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=8 -->
+<!-- citation-page-top: Band14 p114 -->
+
+<!-- header: INGOLSTADT ALTE ANATOMIE -->
+
+<!-- header: INGOLSTADT ALTE ANATOMI -->
+
+sich um eine Kerze oder eine kleine Fackel handeln. Bei der Erneuerung des Deckenbildes 1972 wurde dieser Gegenstand durch ein Fernrohr ersetzt, indem man ihn nach unten verlängerte, sodass die Figur heute durch das Fernrohr zu schauen scheint und damit als Astronomia bzw. Astrologia zu deuten wäre. Vielleicht ist deshalb das auf den alten Photos strahlend weiße Kleid 1972 durch ein zartblaues ersetzt worden, denn Astrologia hat bei Ripa ein himmelfarbenes Kleid (»vestita di color celeste«). Diese Rekonstruktion als Astronomia ist zwar sehr unsicher, aber im inhaltlichen Zusammenhang immerhin möglich. Die Beobachtung des Mondes und die Sternenkunde waren in der alten Heilkunde von einiger Bedeutung, und die Astronomie wurde an der medizinischen Fakultät gelehrt (auf dem Mittelpavillon des Anatomiegebäudes war ursprünglich eine Sternwarte geplant).
+
+01 / Allerdings scheint eine Deutung der Figur auf ›Oratio‹ auch nicht unmöglich: Ripa erklärt, das weiße Kleid »mostra l medesima purità del mente, che si deve portare nel cospetto d esso Signore nostro« (s. v. Oratione 2), außerdem ist das weiße Kleid Zeichen des Gebets, weil »l’oratione deve esser pura, semplice, lucida, & manifesta« (s. v. Oratione 3). Die Flügel am Kopf erklärt Ripa als die Hinwendung nach oben, eine Erhebung des Geistes (s.v. Scienza, nicht unter Oratio). Die Figur hat - wie ›Oratio‹ bei Ripa – das Gesicht nach oben gewandt, weil »l’oratione è una elevatione di mente, e eccitatione d’affetto, col quale parlando l’huomo porge prieghi à Dio... L’in censiere fumicante è il simbolo dell’oratione...« Vielleicht kann man die Kerze in diesem Sinn deuten. Die Deutung auf ›Oratio‹ würde auch in den Zusammenhang der Figurengruppe passen, denn nach Treyling ist die Heilung eines Patienten ein vom Arzt gefördertes und begleitetes göttliches Wirken. Als Diener Gottes hat der Arzt vor jeder medizinischen Handlung Gottes Beistand zu erflehen und dafür zu sorgen, dass der Patient beichte. »Pius sit oportet, qui Medicus est, sancteque tractet artem, quae quia Dei munus et manus est, sancta est ... Nihil publicum, aut privatum ageret, nisi prius ac Deum confugeret« (S. 28f. Der Arzt muss fromm sein, heilig muss er seine Kunst ausüben, die heilig ist, weil sie Gottes Geschenk und Werk ist).
+
+Auf festerem Boden steht man mit der Deutung der Personifikation, die im Vordergrund vor der weißen Figur auf einem Steinsockel sitzt. Sie hat ein tiefrotes Obergewand an und als Untergewand nur ein zartgelbes Hemd um die Schultern: die beiden vollen Brüste sind frei. Die Arme der Figur sind nicht sichtbar. Am Fuß des Sockels, auf dem sie sitzt, liegt ein offenes Notenbuch. Daneben sieht man zwei Putten, von denen der vordere eine Gambe streicht; der hintere scheint Flöte zu spielen. Ein weiteres Blasinstrument kann man hinter der Gambe vage erkennen. Die Putten mit den Instrumenten weisen darauf hin, dass es sich bei der Figur um die Personifikation der Musik handelt. Von dem Motiv des Sitzens abgesehen, das bei Ripa zu Musica gehört, weil »il sedere dimostra esser la musica un singular riposo del’animo travaglio«, hat die Figur an sich als Kennzeichen nur die vollen Brüste; dieses Merkmal ist bei Ripa unter ›Poesia‹ beschrieben: »Le mammelle piene di latte, mostrano la fecondità de concetti, & dell’inventioni che sono l’anima della Poesia« - was ja auch auf die Musik zutrifft. Das Fach Musik wurde an der Medizinischen Fakultät unterrichtet, weil man sich von harmonischer Musik eine positive und beruhigende Wirkung auf den Organismus versprach. Treyling nennt sie als Heilmittel gegen Schlafstörungen (S. 518f.).
+
+Direkt in der Bildecke steht hochaufgereckt eine weibliche Figur in weißem Hemd und braunroten Oberkleid und Schürze; ihr Haar ist geordnet; sie streckt ihren linken Arm weit nach vorne. Da sie über nicht das geringste Kennzeichen oder auch nur Merkmal verfügt – von ihrem kraftvollen Habitus und der energischen Bewegung abgesehen – ist eine sichere Bestimmung nicht möglich, doch muss sie ebenso wie die anderen Personifikationen ein Können verkörpern, das den Arzt zur erfolgreichen Arbeit befähigt. Das Gewicht, das Treyling der Diätetik zuweist, lässt vermuten, dass in dieser Figur die Ernährungslehre dargestellt ist, die er neben der Chirurgie und der Pharmazie zur »dreifachen Quelle der Heilkunst« zählt.
+
+Dort, wo die rechte Hälfte der Scheinarchitektur im Fresko zum Garten hin abbiegt (W-Ecke) steht im grünen Kleid die Personifikation der Botanik. Sie hält im Arm ein aufgeschlagenes Buch mit Pflanzenzeichnungen und schaut hinab zu dem Putto an ihrer Seite, der eine große Topfpflanze heranträgt, die mit ihrem hohen Stengel und ihren glockenförmigen Blüten wohl ein Liliengewächs darstellt. Das Buch ist ein so genanntes Kräuterbuch, ein pflanzen- und drogenkundliches Kompendium (frdl. Mitt. Christa Habrich), das die Heilpflanzen und Arzneidrogen detailliert beschreibt und ihre medizinischen Anwendungsgebiete nennt. Neben den pflanzlichen Arzneimitteln werden in den Kräuterbüchern - in Übereinstimmung mit den auf der anderen Bildseite dargestellten Gaben der Natur – auch als Arznei verwendete Tiere, Tierprodukte und Materialien behandelt. Die ärztliche Kunst ist für die Auswahl, Aufbereitung und Anwendung der Mittel zuständig.
+
+NATURA, ARS MEDENDI UND DIVINA PROVIDENTIA Über der Gruppe links, die die Gaben der Natur bringt, ist die Personifikation der Natur dargestellt, »Natura«. Sie lagert auf einer Wolke als weibliche Gestalt mit langen dunkelblonden Haaren, gekleidet in ein rosatoniges Gewand und weißes Unterkleid. Dieses ist über dem Oberkörper geöffnet und gibt fünf einzelne Brüste frei. Im rechten Arm hält die Figur ein großes Füllhorn mit Blumen, dessen Spitze ein Putto stützt. Das Motiv der vielen Brüste kommt von der antiken Figur der Artemis von Ephesus, die als Verbildlichung der Natur galt (s. Andrea Gösch, Diana Ephesia. Ikonographische Studien zur Allegorie der Natur in der Kunst vom 16.-19. Jahrhundert, Frankfurt am Main 1996). Damit bezeichnet es auch unsere Figur als Natura; ihr ist auch das Füllhorn als Sinnbild für ihren überquellenden Reichtum zuzuordnen. Im Schriftstrahl (s.o.) steht <i>Duce</i>.
+
+In Treylings Schriften ist mehrfach die Natur als Führerin und die >Kunst des Arztes als Dienerin« apostrophiert. Treyling sieht die Natur selbst als Heilerin (S. 15f.). Der Arzt solle deshalb die Werke und den Gang der Natur beobachten, um von ihr zu lernen, und solle im Krankheitsfall versuchen, die natürlichen Heilungskräfte zu stimulieren, um so den Heilungsprozess zu fördern: »Ita plane est, ministros actionum omnium, quas Sapientissima Dominatrix Natura sive in sano sive valetudinario statu producit, observatores nos esse oportet« (S. 17: So ist es klar, dass wir Helfer Beobachter aller wechselnden Zustände sein müssen, die die weiseste Herrin Natur sei es im gesunden, sei es im kranken Zustand verursacht) »Natura enim Duce, errare non possumus« (S. 20, nach Cicero, De legibus: Wenn die Natur uns leitet, können wir nicht irren) »Medici plures curarent, si sese naturae ministro esse agnoscerent« (S. 29: Die Ärzte könnten mehr (Patienten) heilen, wenn sie sich als Gehilfen der Natur begreifen würden).
+
+Über der rechten Gruppe lagert eine Figur, die in vergleichbarem Verhältnis zur Gruppe darunter steht wie die Gestalt der Natura zu den Allegorien der linken Bildseite. Die Figur hat ein weißes, unter der Brust gegürtetes Gewand und einen rosafarbenen Mantel, der wie eine Draperie auffliegt. In der Rechten hält sie einen Stab, um den sich eine Schlange windet - den Äskulapstab. Äskulap, der Sohn von Apoll und Coronis, war der Erfinder und Gott der Heilkunst, und der Stab mit der Schlange, der Äskulapstab, ist sein Kennzeichen: »Il serpe è segno di sanità per esser sanissimo, & molto più de gli altri animali, che vanno per terra; & posti insieme il bastone, & il serpe che lo circonda, significano la sanità del corpo mantenuta per vigor dell' animo, & de gli spiriti«.
+
+Hinter der Figur steht auf der Wolke ein Hahn. Hahn und Äskulapstab sind die beiden Attribute der Medicina bei Ripa: »Medicina è scientia per la quale l'affetti vitali, & nutritivi del corpo, per mettere, & cavare si conoscono.« Weil der Hahn dem Äskulap heilig war, ist er auch Hinweis auf Äskulap: »Il Gallo è consecrato ad Esculapio, inventore della Medicina, per la vigilanza, che deve haver continuamente il buon Medico« (Ripa, s.v. Sanità). Die Figur ist damit zweifellos als >Medicina< oder >Ars medendi< zu deuten, als Personifikation der Heilkunst. Im Schriftstrahl steht Magistra.
+
+Über der ganzen Szenerie thront in Wolken Divina Providentia, die Göttliche Vorsehung, neben der Weltkugel, in strahlend hellem Licht. Auch sie agiert - wie Natura und Ars medendi - auf Sanitas zu, und auch von ihr geht ein Schriftstrahl zu ihr: Auctore.
+
+SANITAS Die beiden Allegorien Natura und Ars medendi sind ebenso wie Divina Providentia auf die weibliche Gestalt hin bezogen, die zwischen ihnen dargestellt und als Personifikation der Gesundheit, also Sanitas, zu identifizieren ist, basierend auf der Schrift Treylings: »Punctum centrale et Scopus ille unicus, in quem omnes omnium vastissimae Medicinae circulorum lineae et labores collineant et ultimo desinunt est Therapeia seu methodus medicinalis; si enim omne illud, quodcunque agit, propter finem agit, tunc certe Medicus, cuius principalis finis sanitas est, omnes quos in reliquis Medicinae partibus... labores subit et studia, ad unicam sanitatis vel restaurandae vel conservandae rationem... dirigere debet«. (»Der zentrale Punkt und jenes einzige Ziel, zu dem Bestreben und Mühen der Medizin sich vereinigen und enden, ist die Therapie oder die medizinische Methode; wenn nämlich alles was auch immer handelt, auf ein Endziel ausgerichtet ist, dann muss der Arzt, dessen Hauptziel Gesundheit ist, alles an grundsätzlichen, instrumentalen und dienenden Arbeiten aus den übrigen Teilen der Medizin auf sich nehmen, und seine Studien auf die Wiederherstellung oder das Bewahren der Gesundheit ausrichten). Der Schutz der Gesundheit ist ebenso wichtig für den Arzt wie das Heilen der Krankheit, die vorbeugende Medizin so wichtig wie die heilende Medizin.
+
+Da bei Ripa Sanitas die gleichen Attribute wie Medicina hat - Askulapstab und Hahn – musste für die Figur der Sanitas eine
+<!-- citation-page-bottom: Band14 p115 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=9 -->
+<!-- citation-page-top: Band14 p116 -->
+
+<!-- header: INGOLSTADT ALTE ANATOMIE -->
+
+andere Bildgestalt gefunden werden. Die Figur der jungen Frau wurde offensichtlich für dieses Fresko entworfen, um die These Treylings über das Wesen und Ziel der Medizin anschaulich zu machen. Als junge Frau mit langen blonden Locken, mit Blumen im Haar und in der Hand, mit weißem Kleid und goldenem Schmuck sowie mit ihrem freien und kräftig bewegtem Auftreten ist sie eine vollkommen positive Gestalt, und als >Sanitas« eine geglückte Bilderfindung, geeignet, die Gesundheit darzustellen.
+
+DER RUHM DER MEDIZINISCHEN FAKULTAT Die Bildarchitektur trägt und gliedert die Komposition, teilt sie in einen himmlischen und irdischen Bereich; sie trägt durch die Ordnung, die sie in das Bild bringt, auch die Bildaussage. Ganz auffallend ist das dominierende Portal, das von figuralen Darstellungen fast demonstrativ freigehalten ist. Zwei Putten fliegen über dem weiten Torbogen, und tragen ein Wappen, wie um es am Bogenscheitel anzubringen: Das Wappenschild hat einen hellen, ornamentierten Rahmen. Es zeigt das Wappen der medizinischen Fakultät von Ingolstadt. Wie auf deren Siegel sieht man in der Mitte Maria als Patrona Bavariae und Patronin der bayerischen Landesuniversität; in den beiden seitlichen Feldern sind die beiden heiligen Ärzte Kosmas und Damian dargestellt. Damit wird die Architektur auch zum Teil der Bildaussage: Sie bedeutet die medizinische Fakultät der Universität Ingolstadt. Von rechts oben fliegt die Figur der Fama herbei, die Allegorie des Ruhmes, die Flügel weit ausgebreitet, die Beine wie in eiligem Laufschritt bewegt. Das locker gegürtete, nach hinten flatternde Gewand lässt die Brust frei und ist über einem Bein hochgerafft. Haare und weiße Schärpe flattern im Wind. »Donna vestita d'un velo sottile succincto a traverso, raccolta a mezza gamba, che mostri di correre leggermente, havera due grand' ali . . . « (Ripa, s.v. fama). Sie hält zwei Posaunen und bläst in die, die den guten Ruf bedeutet, die andere, die den schlechten Ruf verbreitet, hält sie mit der linken Hand nach unten. Fama verkündet den Ruhm der Ingolstädter medizinischen Fakultät, deren Wappen über dem Torbogen prangt.
+
+
+== 1–4 Die Vier Elemente ==
+
+
+In der Hohlkehle liegen Kartuschen, und zwar 1–2 in den Ecken der Südseite, 3 an der Nordseite über dem Ausgang zu Terrasse hin und 4 in der Mitte der Südseite. Die erhaltener Bilder zeigen je einen Putto mit einem Attribut, das auf eine der Vier Elemente hindeutet.
+
+
+== Quellen und Literatur ==
+
+
+BHStA, Ingolstadt, Alte Anatomie: GL 1481/III Nr. 1, GL 1487, Nr. 36, BHStA, Plansammlung Nr. 19462. BHStA Jesuitica Nr 1766
+
+BHStA, Jesuitica Nr. 1766
+
+Stadtarchiv Ingolstadt, Abteilung Anatomie, A 6945: Renovierung und Umbau der Alten Anatomie 1962-72; A 6946: Restaurierung 1972; Archiv-/Fotoakt: Anatomie bis zur Restau¬
+rierung 1970, zu A 6945 gehörig; Photo-Dokumentation Toni Mayer 1972, zu A 6946 ((Nummern der Akten mal auch mit 9645 und 9646 angegeben!))
+
+BLfD, Akt Ingolstadt, Alte Anatomie
+
+Historia Horti Botanici et Exercitiorum publicorum Philosophico-Medicorum, quae in Alma, Perantiqua, Catholica & Electorali Universitate Ingolstadiensi recens erecta sunt Facultate Academico-Medica Anno MDCCXXIII (1723) Ingolstadii, fol. 3 v, 5 r, 7 v (Exemplar BSB 4° Diss 963/9).
+
+O. N. (Grienwaldt, Franz Joseph), Biographia D. Joannis Adami Morasch, 1735 (Exemplar UB München 4° H.lit. 259). Mederer, Johann Nepomuk, Geschichte des uralten königlichen Maierhofes Ingolstadt, von ... 806 bis ... 1806, nach der Zeiten geordnet und aus ächten Quellen zusammengetragen Ingolstadt 1807, § 105: 1723, S. 274-76.
+
+Prantl, Carl, Geschichte der Ludwigs-Maximilians-Universität in Ingolstadt, Landhut, München (2 Bde), München 1872, Bd 1, S. 513-46.
+
+Kuhn, Hans, Botanischer Garten und Anatomie, in: Ingol städter Heimatgeschichte, Jahrgang 2, Nr. 20 vom 20. 12. 1930 Rupprecht 1974, S. 234–37.
+
+Hofmann, Siegfried, Die Alte Anatomie in Ingolstadt - Ihr Schicksal als Institution und Gebäude, in: Neue Münchner Beiträge zur Geschichte der Medizin und Naturwissenschaften, Medizinhistorische Reihe Bd 5, München 1974, S. 26-31, 33-51, 53-55.
+
+Historischer Atlas Ingolstadt, S. 69
+
+Dehio, Bayern I: Franken, München 1979, S. 497.
+
+Hofmann, Siegfried, Vom Barock zur Aufklärung. Anatomie und Botanischer Garten, in: Ingolstadt an der Donau (Hg. Siegfried Hofmann und Wilhelm Reissmüller), Ingolstadt 1986, Anhang S. 340–42, Abb. S. 255f.
+
+Deutsches Medizinhistorisches Museum (o. V.), Führer in der Reihe > Museum < in Zusammenarbeit mit Westermanns Monatsheften, 1986.
+
+Ludwig-Maximilians-Universität Munchen, Hg. Ludwig- Maximilians-Universität München, München 1995, S. 23. Biographisches Lexikon der Ludwig-Maximilians-Universität München. Teil I: Ingolstadt-Landshut 1472–1826 (Hgg. Laetitia Böhm, Winfried Müller, Wolfgang J. Schmolka, Helmut Zedelmaier = Münchner Universitätsschriften: Universitätarchiv/Ludovico Maximilianea. Universität Ingolstadt-Landshut-München, Forschungen und Quellen. Forschungen Bd 18), Berlin 1998, s. v. Treyling (Christa Habrich) Dehio OB 2006, S. 536.
+
+Denkmaltopographie Ingolstadt, Bd I, München 2002, S. 40- 42.
+
+A. B./E. L./B.S.
+
+
+== VERLORENE DECKENMALEREIEN ==
+
+
+Stadtpfarrkirche St. Moritz, Diözese Eichstätt Moritzstraße 4 Ausmalung 1888/89 abgeschlagen
+
+{{End}}

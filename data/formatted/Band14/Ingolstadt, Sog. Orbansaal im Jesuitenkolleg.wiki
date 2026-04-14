@@ -1,0 +1,196 @@
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=137
+|Originalseitenbis=144
+|Lemma=Ingolstadt, Sog. Orbansaal im Jesuitenkolleg
+|Typ=Sakral
+|Ort=Ingolstadt
+|davor=Ingolstadt, Augustinereremitenkirche
+|danach=Ingolstadt, Decke des sog. Illuminatensaals
+|AutorIn1=Grimminger, Christina
+}}
+
+Die Decke des Orbansaals weist eine Stuckdekoration mit leeren Bildfeldern auf. Die womöglich über die Planung nicht hinausgekommene Ausmalung ist anhand von vier erhaltenen Eckkartuschenbildern und zwei Entwurfszeichnungen zu rekonstruieren.
+
+'''Zum Bauwerk:''' Der Trakt mit dem Orbansaal im oberen Geschoss entstand 1725-27 durch Aufstockung eines Arkadengangs. Diese Verbindung zwischen dem Nord- und Südtrakt des Jesuitenkollegs wurde im frühen 17. Jh. errichtet, möglicherweise aus dem Wunsch nach einer
+
+direkten und überdachten Verbindung nicht nur von Trakt zu Trakt, sondern hauptsächlich vom Kolleg zur Pfarr- und Universitätskirche Unserer Lieben Frau (heute Liebfrauenmünster). Den Bauzustand überliefert ein Kupferstich (Abb. 145 bei Horst Nising, »... in keiner Weise prächtig«. Die Jesuitenkollegien der süddeutschen Provinz des Ordens und ihre städtebauliche Lage im 16.–18. Jahrhundert, Petersberg 2004). Der ursprüngliche bauliche Kontext des Trakts wurde 1833/34 durch Brände zerstört; ihnen fielen ein Flügel, der zum Ostflügel des Kollegs verlief und die Verbindungsbauten im Norden und Süden zum Opfer.
+
+Im Gebäudeinneren war der ursprüngliche Zustand seit 1800 zerstört. Damals war der Saal leergeräumt und die Sammlung im Zuge der Verlegung der Universität nach Landshut abtransportiert worden. Zu dem Zeitpunkt bereits könnten die Ölgemälde von den Decken abgehängt worden sein. Bauliche Veränderungen sind erst wieder für 1947 bezeugt Man baute in den Saal eine Theaterbühne ein, die an dieser Stelle die Stuckdekoration zerstörte (Krempel, Abb. 14). Der Bau zerfiel zusehends, so dass der 1947 neu gefasste Stuck der Außenfassade 1965 gesichert.
+
+
+[[File:Band14_chunk003_p019_img002.jpg|thumb|Der Orbansaal heut]]
+<!-- citation-page-bottom: Band14 p137 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=20 -->
+<!-- citation-page-top: Band14 p138 -->
+
+<!-- header: INGOLSTADT VERLORENE DECKENMALEREIEN -->
+
+<!-- header: INGOLSTADT VERLORENE DECKENMALEREIEN -->
+
+<!-- Scanfragmente wie Seitenzahlen, Kopf-/Fußzeilen und Zeichensalat entfernt -->
+
+chert werden musste. 1993/94 erfolgte die Generalsanierung des Baus einschließlich eines neuen Nutzungskonzepts. Die Fassadengliederung und die Stuckrahmung der Obergeschossfenster wurden rekonstruiert und der Orbansaal im Obergeschoss wiederhergestellt, einschließlich der Rekonstruktion des zerstörten Stucks. Seitdem erfolgt die Erschließung des Orbansaals über ein neugebautes freistehendes Treppenhaus. Das Obergeschoss wurde im Süden neu strukturiert; hier fand sich einst ein Vorraum zu zwei Fensterachsen, von wo aus der Zugang zum Orbansaal erfolgte.
+
+Der schmale, langgestreckte Walmdachbau besteht aus zwei Geschossen; das Erdgeschoss gliedern 16 Arkadenbögen an den Langseiten, das Hauptgeschoss verfügt über acht stuckgerahmte Fensterachsen.
+
+Langgestreckter Saal (40×7,2m), Belichtung durch sieben hochrechteckige Fenster im Osten und sechs im Westen mit sparsamer Stuckbekrönung. Der Deckenstuck wird, wie auch der Stuck der Außenfassade, dem Werk des Ingolstädter Stuckators Wolfgang Zächenberger zugeschrieben. Laut dem Entwurf Schefflers, der in zwei Teilen erhalten geblieben ist, waren die insgesamt elf Spiegelfelder als Bilder geplant. Ausgeführt bzw. erhalten haben sich davon die Bilder in den vier bassgeigenförmigen Eckfeldern (a-d). Der Saal, der dem in der Barockzeit weitverbreiteten Raumtypus der Galerie folgt, beherbergte die Sammlung des Jesuiten Ferdinand Orban, die in zwölf Kästen präsentiert wurde. Nach der Auflösung des Jesuitenordens wurde der Saal 1784 seiner Bestimmung entzogen. Die endgültige Teilung der Sammlung nach Einzelsammlungsgebieten erfolgte 1881, nachdem sie 1800 zusammen mit der Universität nach Landshut transferiert worden war.
+
+'''Auftraggeber:''' Pater Ferdinand Orban SJ (* 1655 Kammer bei Landshut † 1732 Ingolstadt).
+
+Der 1672 in den Jesuitenorden eingetretene Orban war zeit seines Lebens ein leidenschaftlicher Sammler. Diesem Umstand verdankt der Orbansaal seine Entstehung, doch brachte er ihn mehrfach in Konfliktsituationen mit seinen Vorgesetzten, die seine nach und nach immer kostbarer werdende Sammlung als nicht vereinbar mit seinem Armutsgelübde ansahen (ausführlich hierzu Krempel). Ab 1688 lehrte Orban Mathematik in Innsbruck, wo er 1689–92 zudem als Hofprediger wirkte, danach war er 1695–1702 in Landshut als Prediger in St. Martin tätig und schließlich 1703–16 in Düsseldorf als Beichtvater des Kurfürsten Johann Wilhelm. Als er 1722 von Landshut nach Ingolstadt versetzt wurde, wurde ihm 1724 seine Sammlung nachgeschickt. Die Forschung ist sich über die Auftraggeberschaft des Orbansaals nicht ganz einig; fest steht wohl, dass Orban eine stattliche Geldsumme von Johann Wilhelm geschenkt bekommen hatte, die u.a. für den Bau des Orbansaals verwendet wurde. Das Kolleg in Ingolstadt scheint sich jedoch als Eigentümer sowohl der Sammlung als auch des Orbansaals gefühlt zu haben; so jedenfalls dürfte die Situation einzuschätzen sein, nachdem es bereits 1708 zu ernsten Auseinandersetzungen gekommen war. Der Ordensgeneral hatte Orban zu verstehen gegeben, dass er lediglich der {ZITAT|000} der Sammlung sei und nicht der Eigentümer. In Ingolstadt schließlich wurde Orban {ZITAT|001} (Krempel). Nach außen hin ist wohl also eher das Ingolstädter Kolleg als Auftraggeber des Museumsbaus aufgetreten. Hofmann charakterisiert die Orban'sche Sammlung als Mischung aus Raritätenkammer, Kunstkammer, Naturalienkabinett und Museum, der Saal diente jedoch auch als Studiensaal ({ZITAT|002}). Die Sammlung sollte wohl ein Bild der ganzen Welt und der Natur vermitteln, ein bedeutender Schwerpunkt waren jedoch auch die mathematischen und physikalischen Gerätschaften, die das astronomische Wirken der Jesuiten rühmten.
+
+Rektor des Jesuitenkollegs war 1726 Pater Josephus Preiss (frdl. Mitt. Doris Wittmann, Stadtarchiv Ingolstadt, Quelle: Briefprotokolle).
+
+'''Autor und Entstehungszeit:''' Zuschreibung des erhaltenen Deckenentwurfs und der Kartuschenbilder an Christoph Thomas Scheffler (* 1699 Mainburg † 1756 Augsburg) 1725/27
+
+Siegfried Hofmann wies 1995 den Deckenentwurf, dessen zwei Teile 1950 bzw. 1962 dem Orbansaal zugeordnet werden konnten, dem Werk Schefflers zu, nachdem zuvor andere Autoren erörtert worden waren (s. unter Entwurf). Hofmann zog als Vergleichsbeispiel die Fresken Schefflers im Schloss Ellwangen heran; diese sind zwar unsigniert, doch es gilt als sicher, dass Scheffler 1725 die Deckengemälde im Fürstensaal und im Treppenhaus fertigte, bevor er 1727 in der Ellwanger Jesuitenkirche freskierte, wo er auch erstmals signierte. Die Zuschreibung Hofmanns bestätigen weitere Funde in der Gattung der Graphik, so etwa die Entwürfe für die quellenmäßig für Scheffler gesicherten Fresken in der Alten Kapelle in Regensburg. Diese sind zwar viel später in den 1750er-Jahren entstanden, doch zeigen sie ebenso wie der Orbansaal-Entwurf die charakteristische Zeichenkunst Schefflers auf (vgl. Georg Paula, Die Ausstattung mit Fresken, in: Werner Schiedermair [Hg.], Die Alte Kapelle in Regensburg Regensburg 2002, S. 159–71).
+
+Die Entstehungszeit des Deckenentwurfs setzte Hofmann 1992 mit Hilfe der Litterae annuae und 1995 auf der Basis der Zuschreibung an Scheffler auf den Zeitraum 1725 bis 1727 fest. Rupprecht hatte noch auf die Datierung {ZITAT|003} gesetzt. Als Begründung führte er an, dass einige Motive des Orbansaal-Entwurfs eindeutig vom Asam'schen Fresko in Oratorium der Kongregation Mariä Verkündigung (heute Maria de Victoria, s. S. 49) beeinflusst seien. Eine Voraussetzung des Asam'schen Freskos ist jedoch nicht zwingend; Scheffler kannte als Schüler bzw. Mitarbeiter Asams dessen Formen- und Motivschatz.
+
+Der Jahresbericht des Ingolstädter Kollegs berichtet 1725 vom Bau des Orbansaals: {ZITAT|004} (zitiert nach Hofmann 1992, S. 301, Anm. 97; {ZITAT|005}). Nach Hofmann ist dann erst wieder 1727 vom Orbansaal zu lesen. Details über die Ausführung der Malerei sowie über die Errichtung der Stuckdecke fehlen jedoch.
+
+Die Ausführung der Stuckdecke erfolgte also nach 1727, wann jedoch genau, ist nach wie vor unklar; jüngst wurde die Datierung mit {ZITAT|006}} angegeben (Dehio). Da die Stuckdecke im Wesentlichen nach dem Entwurf ausgeführt wurde (lediglich die Stuckreliefs sind Ergänzungen), darf wohl davon ausgegangen werden, dass eine Bemalung der Fläche vorgesehen war.
+
+Terminus ante quem des Deckenentwurfs Schefflers ist das Jahr 1725. Es spricht vieles dafür, dass der Entwurf bereits bei Baubeginn des Orbansaals vorgelegen hat. Da die vier erhaltenen, bassgeigenförmigen Leinwandbilder ziemlich sicher für die vier Eckkartuschen vorgesehen waren und A-C in den beiden Teilen des Deckenentwurfs über eine Quadrierung verfügen, ist davon auszugehen, dass der Entwurf bzw. die als Bilder angelegten Deckenflächen ausgeführt werden sollten. Ob nun die drei großen Bilder in Öl oder Fresko ausgeführt wurden, entzieht sich unserer Kenntnis. Erhalten haben sich nur die vier Bassgeigenbilder. In dem Zeitraum 1725/27 war Scheffler in Ellwangen beschäftigt, so dass die komplette Ausführung vielleicht deshalb nicht zustande kam bzw. auch nur in veränderter Form. Hofmann jedenfalls war 1995 der Meinung, dass die Bilder nicht realisiert wurden (S. 229): {ZITAT|007}. Ob Jenckels Museumslehre von 1727 (s. Krempel, Anm. 1) eine Planänderung bewirkte, wäre zu diskutieren. Immerhin belegte Krempel, dass die Sammlungsgegenstände wie auch die Aufstellung der Kästen den Richtlinien Jenckels entsprachen. Hinsichtlich der Ausstattung des Saals forderte Jenckel: {ZITAT|008}.
+
+Deckenentwurf von Christoph Thomas Scheffler
+
+Teil 1, Feder in schwarz, rotbräunlich und blaugrau laviert, 109,1 × 30,7 cm. München, Staatliche Graphische Sammlung, Inv. Nr. 1948/19 (Nachlass Adolf Feulner). Lit.: Peter Halm, Das Reich der Wissenschaften, in: BASF 6, 1956, S. 187–93; Karl Arndt, 200 Jahre Staatl. Graphische Sammlung München, in: Kunstchronik 12, 1959, S. 127–31, hier: S. 129 mit Abb. schreibt den Entwurf Melchior Puchner zu; Rupprecht 1974, S. 247 datiert {ZITAT|009} und plädiert für {ZITAT|010}; Bärbel Hamacher, Entwurf und Ausführung in der süddeutschen Freskomalerei des 18. Jahrhunderts (= tuduv-Studien Reihe Kunstgeschichte 25), München 1987, S. 43, Kat. Nr. 60), bespricht den Entwurf erstmals als Werk Schefflers; Hofmann vertritt 1992 noch die Zuschreibung an Puchner, 1995 untermauert er die Zuweisung an Christoph Thomas Scheffler durch stilistische Vergleiche.
+
+Teil 2, Feder in schwarz, rotbräunlich und blaugrau laviert, 37,6×30,7 cm. Berlin, Staatliche Museen zu Berlin, Kunstbibliothek, Inv. Nr. 6392. Lit.: Eckart Berckenhagen, Zeichnungen von Augustin Terwesten, Joh. Frdr. Wentzel und Joh. Gg. Wolfgang in der Kunstbibliothek, in: Berliner Museen, Berichte aus den ehem. Preußischen Kunstsammlungen N. F. 12, 1962, H. 1, S. 14–22 sieht in dem Entwurf noch eine Gemeinschaftsarbeit von Augustin Terwesten und Paul Decker (verworfen von Barbara Kutscher, Paul Deckers Fürstlicher Baumeister, Frankfurt 1995, S. 320); Rupprecht 1974, S. 247 publiziert ihn erstmals im Zusammenhang mit dem Orbansaal, datiert {ZITAT|011} und plädiert für {ZITAT|012}; ab dann s. o.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke mit Hohlkehle  
+Rahmen: profilierte Stuckrahmen  
+Technik: unbekannt, a–c Öl auf Leinwand  
+Maße: A,C Höhe 5,00 m; 6,50 × 4,20  
+B Höhe 5,00 m; 7,00 × 4,50  
+a–d 1,91×1,82  
+
+Erhaltungszustand und Restaurierungen: Im Zuge der Restaurierung des Orbansaals 1993/94 wurden unter der Tünchschicht der Bildfelder keine...
+
+
+[[File:Band14_chunk003_p020_img001.jpg|thumb|Ausschnitt aus der Stuckdecke (Wolfgang Zächenberger zugeschrieben), in der Mitte Stuckrelief der Diana-Luna, seitlich waren Personifikationen der Erdteile als Gemälde vorgesehen]]
+<!-- citation-page-bottom: Band14 p139 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=21 -->
+<!-- citation-page-top: Band14 p140 -->
+
+INGOLSTADT VERLORENE DECKENMALEREIEN
+
+[[File:Band14_chunk003_p021_img001.jpg|thumb|Schutz der Divina Providentia, seitlich Vier Erdteile, links d Athanasius Kircher?; München, SGS]]
+
+Ferner sind keine Hinweise auf Fresken gefunden. Heute sind alle Bildfelder weiß getüncht.
+
+Die vier Ölgemälde a-d befinden sich im Stadtmuseum Ingolstadt (Inv. Nr. 4048, 4053; zwei sind Leihgaben der Süddeutschen Jesuitenprovinz) und sind in gutem Zustand.
+
+
+== Rekonstruierende Beschreibung und Ikonographie ==
+
+
+Das vor Ort überkommene Dekorationssystem der Decke besteht aus drei großen Bildfeldern, wobei zwischen dem ovalförmigen Bildfeld in der Mitte und den beiden hochrechteckigen Feldern an den Seiten je ein rundes und zwei begleitende, vierpassförmige Felder eingefügt sind. Die Ecken schmücken dreipassförmige Felder. Die Bildfelder umgibt ein stuckiertes Gitternetz auf lichtblauem Grund, das mit den Symbolen Sonne, Mond und Sterne besetzt ist. In das Netz greifen die symmetrisch angeordneten, in sich gewundenen Figurationen des Laub- und Bandwerks ein, das von Masken und Blütengirlanden sowie pflanzentragenden Putten und posauneblasenden Engeln begleitet wird. Zusätzlich schmücken die Decke die zwölf Tierkreiszeichen (Abfolge Widder bis Jungfrau auf der W-Seite von N nach S, Waage bis Fische auf der O-Seite von S nach N). Die Stuckreliefs in den Medaillons zwischen den Hauptbildern stellen den Sonnengott Sol auf seinem Sonnenwagen (N) und die Mondgöttin Luna (S) dar, die als Personifikationen von Tag und Nacht zu deuten sind; Blickrichtung nach Süden. Alle anderen Bildfelder der Stuckdecke sind leer, d.h. für sie waren Gemälde geplant.
+
+Die folgende Beschreibung des Bildprogramms orientiert sich an dem Entwurf Schefflers. Die drei Hauptbilder sind in gleicher Blickrichtung vermutlich nach Süden – angeordnet, die Kartuschen in Richtung Wand. Die beiden äußeren Bilder sind als Pendants inhaltlich auf die mittlere Darstellung bezogen.
+
+A DAS REICH DER NATUR: Einansichtige Landschaftsszenerie mit Darstellung der Vier Elemente. Das Bildviertel links unten nimmt Vulkan, der Gott des Feuers, ein. Er sitzt in einer Höhle, die alle Anzeichen einer Schmiede aufzeigt: Feuer und verschiedene Kriegsgerätschaften. Über ihm entfaltet Kybele, die Mauerkrone auf ihrem Haupt, ihr Wesen: Die Erde erblüht, bringt Früchte und Getreide hervor. In der Bildmitte bricht ein Vulkan aus; dieses Naturereignis vertritt die Elemente Erde und Feuer. Die rechte Bildseite nehmen unten das Wasser und oben die Luft ein. Das Wasser versinnbildlichen eine Nymphe und ein Triton, die Luft dagegen wiederum eine Göttin, Juno mit dem Pfau. Ihre erhobene Hand verweist auf einen Paradiesvogel, der immer in der Luft verbleiben musste, weil ihm Füße fehlten. Die Darstellung Junos umrahmt ein Regenbogen, bei dem die Elemente Luft und Wasser zusammenwirken. Am seitlichen Rand ist ein Schiff angeschnitten, das ebenso beide Elemente benötigt. Am oberen Bildrand schweben sieben Putten. Sie tragen je einen Stern bzw. eine Mondsichel auf dem Haupt und führen Attribute mit sich; somit vertreten sie die sieben Planeten. Diese sind von links: Merkur mit Flügelhelm und Caduceus, Venus, Sonne in Gestalt Apolls mit Leier, Mond in Gestalt Dianas mit Mondsichel, Mars mit Schwert und Schild, Saturn mit Sense und Jupiter mit Blitzbündel (?). Sie repräsentieren zum einen den gesamten Kosmos, verdeutlichen aber auch das Interesse der Jesuiten an Astronomie.
+
+B DAS REICH DER WISSENSCHAFTEN: Die einansichtige Bildkomposition zeigt einen Himmelsausschnitt. Dieser zeigt den Blick in einen Tempel; die Szenerie wird von einem kolonnadenähnlichen Architekturprospekt mit korinthischen Säulen hintergrundet, den ein kassettengeschmückter Bogenaufbau bekrönt. Vor bzw. halb unterhalb der Architekturkulisse sitzen bzw. stehen mehrere Personifikationen auf einer Wolkenformation. An zentraler Stelle findet sich auf einer von einem Engel gehaltenen Erdkugel stehend die Astronomie mit dem Stern auf ihrem Haupt. Sie weist mit dem Zepter in ihrer rechten Hand auf die Darstellung einer Mondfinsternis, die von ihr und einem Engel gehalten wird. Ganz nah bei der Astronomie sitzt links die Mathematik, die auf einer Tafel rechnet und somit auch der Astronomie gute Dienste erweist. Über der Mathematik platzierte der Zeichner die Architektur, die ein Lot in die Höhe hält, und die Malerei mit Pinseln und Palette. Architektur und Malerei halten eine Planrolle mit dem Aufriss des Orbansaals, der sich somit als ein Werk beider Wissenschaften bzw. Künste erweist, darüber hinaus aber auch ein Beispiel für einen Tempel der Wissenschaften ist. Unterhalb der Mathematik sitzt, als Rückenfigur angelegt, die Philosophia naturalis inmitten ihrer Gerätschaften, darunter deutlich erkennbar der Himmelsglobus. Mit Hilfe eines Fernrohrs betrachtet sie den Stern auf dem Haupt der Astronomie. Auf der rechten Seite sitzt oben auf einer Wolke elegant die Musik, auf einer Laute spielend. Unterhalb von ihr weist die Medizin Heilkräuter und die um einen Stab sich windende Schlange vor. Im unteren Eck sitzt als Halbrückenfigur die Philosophie; ihre Attribute sind Buch und Zepter. Am oberen Bildfeld halten Putten eine Vorhangdraperie; mit Kronen und Lorbeerkränzen offerieren sie den Lohn der Wissenschaften.
+
+C ASTRONOMIE UND KUNST UNTER DEM SCHUTZ DER DIVINA PROVIDENTIA: Einansichtig konzipierte Himmelsszenerie. In der Bildmitte stehen zwei Personifikationen auf Wolken und geben sich die Hand. Die linke setzt ihren rechten Fuß auf eine Armillarsphäre, in deren Mittelpunkt eine Erdkugel erkennbar ist. Während Rupprecht die Figur als Astronomie deutete, sah Hofmann in ihr die Personifikation der Theologie. Der Deutung als Astronomie ist wohl der Vorzug zu geben, da die Figur einen Stern auf dem Kopf trägt. Zur rechts stehenden Personifikation gehört als Attribut der Stock mit einer Pflanze (Ripa 1669, S. 80 s. v. Die Kunst: »... Pfahl, an welchem ein junges frisch gewachsenes Sprösslein angebunden«). Über den beiden Personifikationen sitzt auf Wolken und unter einem Baldachinhimmel die Divina providentia, die Göttliche Vorsehung, in der Rechten das Zepter mit dem Auge Gottes vor dem Dreieck, über ihr die Sonne. Zahlreiche Engel und Putten bevölkern die Szenerie; sie halten den Vorhang des Baldachins bzw. verkünden mit Posaunen den Ruhm von Astronomie und Kunst.
+
+1–4 VIER ERDTEILE: Vierpassförmige Kartuschen mit lagernden Frauengestalten, eingebettet in Landschaften und mit Attributen:
+
+I EUROPA: mit Krone und Zepter und Füllhorn, mit Pferd, Kronen, Büchern und wissenschaftlichen Geräten, im Hintergrund Schloss  
+II AMERICA: mit Pfeil und Bogen, als Tier ein Krokodil  
+III ASIA: mit Halbmond am Kopf, als Tier ein Dromedar  
+IV AFRICA: mit Löwe und Schlange  
+
+a-d GELEHRTE AUS DER GESELLSCHAFT JESU: Vier Ölgemälde, heute im Stadtmuseum Ingolstadt, im Entwurf sind nur drei Felder ausgefüllt – a Johann Baptist Cysat fehlt; sie zeigen Porträts von Jesuiten mit Attributen, die ihre wissenschaftlichen Leistungen beschreiben  
+
+a JOHANN BAPTIST CYSAT sitzt an einem Tisch und ist mit astronomischen Gerätschaften ausgestattet: Einen Himmelsglobus, einen Jakobsstab in der Hand, Pendelquadrant am Boden, Buch und Meßlatte auf dem Tisch. - Cysat (* 1587 † 1657) war Schüler von Scheiner, dessen Nachfolger er an der Universität wurde. 1611 hatte er Scheiner bei der Entdeckung der Sonnenflecken assistiert.
+
+140
+<!-- citation-page-bottom: Band14 p141 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=22 -->
+<!-- citation-page-top: Band14 p142 -->
+
+<!-- header: INGOLSTADT VERLORENE DECKENMALEREIEN -->
+
+
+[[File:Band14_chunk003_p022_img001.jpg|thumb|Christoph Clavius]]
+
+
+[[File:Band14_chunk003_p022_img002.jpg|thumb]]
+
+
+[[File:Band14_chunk003_p022_img003.jpg|thumb]]
+
+
+[[File:Band14_chunk003_p022_img004.jpg|thumb|Athanasius Kircher]]
+
+
+c CHRISTOPH SCHEINER sitzend, hinter ihm ein Fernrohr, durch das ein Bild der Sonne auf ein Blatt projiziert wird, weitere Gerätschaften: Zirkel, Himmelsglobus. Auf den Büchern sind die Titel von Scheiners Werken vermerkt: »ROSA VRSINA/DE MACULIS SOLARIBUS«, »OCULUS GNOMONICA« und »SOL ELLIPTI«. – Scheiner (* 1575 † 1650) ist der bedeutendste unter den Ingolstädter Jesuiten, die als Astronomen gewirkt haben. An der Universität lehrte er Mathematik. Er entdeckte 1611 die Sonnenflecken.
+
+d ATHANASIUS KIRCHER Er sitzt an einem Tisch; zahlreiche Bücher mit Inschriften verweisen auf ihn als bedeutenden Universalgelehrten, Naturwissenschaftler, Musiktheoretiker, Astronom und Museumsgründer: »MUSEUM«, »ARS LUCIS ET VMBRAE«, »MUNDUS SVBTERAN«, »MUSURGIA«, »TYPUS MONTIS VESUVII« und »TYPUS MONTIS AETNAE«. – Kircher (* 1602 † 1680) begründete das Museum Kircherianum in Rom, mit dem der Verfasser der Jahreschronik des Ingolstädter Kollegs das Orbanmuseum in Ingolstadt verglich.
+<!-- citation-page-bottom: Band14 p143 -->
+
+
+[[File:Band14_chunk003_p022_img005.jpg|thumb]]
+
+
+[[File:Band14_chunk003_p022_img006.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=23 -->
+<!-- citation-page-top: Band14 p144 -->
+
+== INGOLSTADT VERLORENE DECKENMALEREIEN ==
+
+[[File:Band14_chunk003_p023_img001.jpg|thumb|Stuckdetails aus der Decke, links Wappenkartusche, rechts Sternkreiszeichen Krebs]]
+
+[[File:Band14_chunk003_p023_img002.jpg|thumb]]
+
+== Quellen und Literatur ==
+
+Diözesanbauamt Eichstätt, Restaurierungsakten Ingolstadt/Orbansaal
+
+Braun, Wilhelm, Christoph Thomas Scheffler. Ein Asamschüler. Beiträge zu seinem malerischen Werk, Stuttgart 1939.
+
+Koislmeier, F. und M. Wellnhofer, »Ebenso könnte Rom Ingolstadt beneiden . . . «, in: IH 14, 1951, S. 13f.
+
+Krempel, Ulla, Die Orbansche Sammlung, eine Raritätenkammer des 18. Jahrhunderts, in: Münchner Jahrbuch der bildenden Kunst, 3. F., 19, 1968, S. 169–84
+
+Rupprecht, Bernhard, Akzente im Bau- und Kunstwesen Ingolstadts von der Ankunft der Jesuiten bis zum hohen 18. Jahrhundert, in: Ingolstadt 1974. Bd II. S. 217–98. hier: S. 238–47.
+
+Div., Festschrift anläßlich der Generalsanierung des Canisiuskonvikte Ingolstadt, Ingolstadt 1990.
+
+Hofmann, Siegfried, Das Orban-Museum, in: Stadtarchiv Ingolstadt (Hg.), Die Jesuiten in Ingolstadt 1549–1773 (= Ausstellungskatalog des Stadtarchivs, der Wissenschaftlichen Stadtbibliothek und des Stadtmuseums Ingolstadt), Ingolstadt 1992, S. 300f.
+
+-, Die Entwürfe für den Orbansaal in Ingolstadt: Werke Melchior Puchners oder Christoph Thomas Schefflers, in: SHVI 104, 1995, S. 209–28. -, Zur Frage der Autorschaft der vier für den Orbansaal in Ingolstadt bestimmten Porträts der Jesuiten Christoph Clavius, Johann Bapt. Cysat, Athanasius Kircher und Christoph Scheiner: Werke Christoph Thomas Schefflers? in: Ebd., S. 229–34.
+
+-, Das Orban'sche Museum in Ingolstadt, in: Andreas Grote (Hg.), Macrocosmos in microcosmo: die Welt in der Stube. Zur Geschichte des Sammelns 1450 bis 1800, Opladen 1994, S. 661–77.
+
+Div., Festschrift zum 75jährigen Bestehen des Canisiuskonvikts Ingolstadt 1995 und zur Generalsanierung des Orbansaals 1996, Ingolstadt 1996.
+
+Balk, Thomas, Der Augsburger Historienmaler Christoph Thomas Scheffler (1699–1756). Ein Kunstreiseführer zu Scheffler-Fresken in süddeutschen Kirchen (= DKV-Kunstführer Nr. 537/9), München 1999. Denkmaltopographie Ingolstadt Bd 1, S. 67f.
+
+Paula, Georg, Christoph Thomas Scheffler, in: Neue Deutsche Biographie, Berlin 2005, Bd 22, S. 613f.
+
+Dehio OB 2006, S. 531.
+
+== Decke des sogenannten Illuminatensaals ==
+
+ehemals Theresienstraße 25 heute in der Hohen Schule, Goldknopfgasse 7 Ausmalung übertüncht
+
+Zur Geschichte: Der ursprüngliche Standort der Stuckdecke ist ein repräsentatives Anwesen auf der Nordseite einer der Hauptstraßen Ingolstadts. Als Besitzer sind Bürgermeister, Räte der Stadt und Universitätsprofessoren überliefert, ab 1873 erstmals ein Handwerker und zu Beginn des 20. Jh. jüdische Familien. Die Bebauung besteht im Süden aus einem 1873 aufgestockten, im Kern jedoch mittelalterlichen, dreigeschossigen Wohnhaus mit 1909 barockisierend überformter Straßenfassade. Die rückseitige Bebauung des Anwesens endete im Norden mit einem nach Osten sich ausdehnenden Gebäude, über dessen Errichtung keine Angaben gemacht werden können. Dieses Gebäude soll Johann Adam Morasch, nachdem er 1719 das Anwesen erwarb, als »Privathörsaal« gedient haben, wie Friedmann 1925 – leider ohne Quellenangabe – berichtete. Unter Morasch wurde in das Gebäude eine barocke Stuckdecke eingebaut. 1783-85 hat der 1776 von dem Ingolstädter Universitätsprofessor Adam Weishaupt gegründete Illuminatenorden den Saal angemietet. Die Nutzung und das Aussehen des Saals im 19. Jh. sind unerforscht. Für das Jahr 1873 sind Umbaupläne überkommen, die den Einzug von Zwischenmauern in den Saal vorsahen. Vermutlich wurden diese Pläne nicht umgesetzt, da 1890 das Anwesen wie folgt beschrieben wurde: »... im Rückgebäude befindet sich der sog. Illuminatensaal, dessen Decke mit hübschen Stuckaturarbeiten versehen ist«. Zudem wurde der Saal 1903 renoviert und Oskar Rothe fertigte eine Zeichnung an, was keinen Sinn machen würde, wenn hier Zwischenmauern vorhanden gewesen wären.
+
+1907 wurde das Rückgebäude zu einer Synagoge mit einem zweigeschossigen Betsaal umgebaut; die Stuckdecke befand sich wohl im östlichen Bereich des satteldachgedeckten Gebäudes, der Bereich im Westen wurde zum Zweck des Einbaus einer Empore komplett überformt. Auf die Zerstörung der Synagoge in der Pogromnacht vom 9. 11. 1938 folgte 1942 die Transferierung der unversehrt gebliebenen, jedoch in 12 Teile zersägten Stuckdecke in die Hohe Schule. Der neue Besitzer der Synagoge hatte diese der Stadt geschenkt, nachdem seine Umbaupläne des Saals zu Wohnzwecken den Widerspruch der Denkmalpfleger hervorgerufen hatten. Nach Kriegsende veranlasste die Stadt die Restaurierung der Synagoge, worauf die Stuckdecke wieder zurückgebracht wurde. Der mit der Neueinrichtung involvierte Rabbiner forderte jedoch die Entfernung der Stuckdecke, weshalb sie abermals in die Hohe Schule übertragen wurde; die Synagoge erhielt dafür eine Kassettendecke. Der Betsaal wurde kaum genutzt; ab 1952 diente das Gebäude als Handwerkslager und Werkstatt und wurde 1992 durch Umbaumaßnahmen weitestgehend zerstört.
+
+{{End}}

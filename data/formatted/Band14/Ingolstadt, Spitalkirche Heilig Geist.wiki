@@ -1,0 +1,402 @@
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=17
+|Originalseitenbis=36
+|Lemma=Ingolstadt, Spitalkirche Heilig Geist
+|Typ=Sakral
+|Ort=Ingolstadt
+|davor=Vorwort (Band 14)
+|danach=Ingolstadt, Franziskanerklosterkirche, Antoniuskapelle
+|AutorIn1=Langenstein, Eva
+|AutorIn2=Sauerländer, Brigitte
+}}
+
+1319 hatte Ludwig der Bayer das Spital gestiftet und reich dotiert. Zustiftungen folgten. Aus einer Stiftungsbestätigung von 1449 geht hervor, dass es sich bei der Spitalkirche um ein Kuratbenefizium mit Beerdigungsrecht handelte. Von 1694-1813 - also auch z. Z. der Ausmalung - durfte der Benefiziat, der neben den Hilfsdiensten an der Liebfrauenkirche die Gottesdienste an der Spitalkirche sowie die pastoralen Aufgaben am Spital mit seinen Pfründnern, Armen und Kranken zu versehen hatte, den Titel Spitalpfarrer für sich beanspruchen (DAE, Ingolstadt Pfarrakten XI 2b). Das Präsentationsrecht auf das Benefizium lag in Händen des Bürgermeisters und des Rats der Stadt, konnte jedoch nur in Übereinstimmung mit dem zuständigen Pfarrer wahrgenommen werden. Der Magistrat stellte auch die Spitalpfleger, die die weltliche Verwaltung der Institution besorgten und die zum Spital gehörende Niedergerichtsbarkeit ausübten. Nach 1500 amtierten jeweils zwei Pfleger, von denen der eine dem Inneren und der andere dem Äußeren Rat angehörte (Buchner, S. 643-647; Rieder, S. 12-25, 29, 36, 38).
+
+
+'''Patrozinium:''' Heilig Geist
+
+
+Kaiser Ludwig der Bayer hatte 1319 das Spital zu Ehren der Jungfrau Maria und des hl. Nikolaus gestiftet. In Ablassbriefen des 14. Jh. werden für Spital und Kirche mehrere Schutzpatrone angeführt, darunter auch der Hl. Geist und Maria (Buchner, S. 601; Hofmann 1985, S. 2f). Ab dem 15. Jh. ist der Hl. Geist eindeutig als Hauptpatron anzusehen. Hofmann verweist auf eine Urkunde von 1404, worin er als Patron der Kirche genannt ist und auf eine weitere Urkunde von 1422, worin Maria und der Hl. Geist als Patrone des Spitals, bzw. der Kirche figurieren.
+
+
+'''Zum Bauwerk:''' Der jetzige Kirchenbau, der einen Vorgängerbau hatte, geht auf das 14. Jh. zurück; Verlängerung nach Westen um zwei Joche und Neueinwölbung im 3. Viertel des 15. Jh. - Spätgotische dreischiffige Hallenkirche zu sechs Jochen, ohne ausgesonderten Chor. Die östliche Stirnseite ist im Giebelfeld durch eine Lisenengliederung hervorgehoben. Die Westwand bildet zugleich die Trennwand zum unmittelbar anschließenden Spitalgebäude (dieses wurde im Zweiten Weltkrieg zerstört und durch einen Neubau ersetzt). Empore über der Erdgeschosseinwölbung der drei westlichen Joche. Zweibahnige Spitzbogenfenster an der Ost- und Nordwand sowie jüngere dreibahnige Spitzbogenfenster an der Südwand lassen gleichmäßig sich verteilendes Licht herein.
+
+Am Ende des 16. Jh. wurde die gesamte Wandfläche der Spitalkirche, inklusive der Emporenbrüstung, mit heilsgeschichtlichen Darstellungen bemalt: Szenen aus dem Leben Jesu, Marienszenen, an der Emporenbrüstung die Passion Jesu. An der Westwand, auf der Höhe der Empore, erscheint im südlichen Drittel Jesus als Salvator Mundi, im nördlichen Drittel Maria als Schutzmantelmadonna. An die zehn freistehenden Rundpfeiler der Hallenkirche und, als Ergänzung, an das mittlere Wandstück auf der Empore wurden die Einzelfiguren der zwölf Apostel gemalt (Spiegel, S. 22-37). Als ausführender Meister, der aber nicht allein arbeitete, wird der Ingolstädter Maler Caspar Freisinger († 1599) in näheren Betracht gezogen (H. Kuhn, S. 38; Hofmann 1985, S. 11). Bereits 1663 verschwand diese Ausmalung unter einer Übertünchung (Spiegel S. 22) und wurde erst 1904 entdeckt und anschließend freigelegt.
+
+Die drei östlichen Joche der Spitalkirche beherbergen den Hochaltar (ausgehendes 17. Jh.) und die beiden Seitenaltäre (Mitte 17. Jh.). Der Hochaltar, dem Hl. Geist geweiht, enthält ein Altarblatt mit der Darstellung des Pfingstwunders, signiert.
+<!-- citation-page-bottom: Band14 p17 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=10 -->
+<!-- citation-page-top: Band14 p18 -->
+
+<!-- header: INGOLSTADT HL. GEIST -->
+
+[[File:Band14_chunk001_p010_img001.jpg|thumb|Die Spitalkirche nach Westen]]
+
+
+mit J. C. Sing inv. et pinx. 1697. Der nördliche Seitenaltar, Maria geweiht, birgt im Zentrum eine Marienstatue von 1649. Der südliche Seitenaltar ist dem hl. Antonius Abbas, dem Eremiten und besonderen Schutzpatron der Armen und Kranken, gewidmet. Das Altarbild mit einer Darstellung des hl. Antonius und weiterer Heiliger stammt aus dem Jahr 1749 und ist gemalt von Carl Prauneck (Spiegel, S. 41-45; Hofmann 1985, S. 14f).
+
+Die Barockisierung der Raumschale, worin Emblemkartuschen und gespinstartig auf Gewölbefelder, Kapitellbereich, Emporenbrüstung und Fensterlaibungen verteilter Bandwerkstuck zusammenwirken, ist um 1730 zu datieren. Für diesen etwas spröden Bandwerkdekor, der nur wenige pflanzliche Ausläufer vorweist, sind mehrfach geknickte Linien in Verbindung mit C-Schwüngen charakteristisch, ebenso die flächig ausgebreiteten und zerdehnten Palmetten- und Muschelmotive als Bekrönungen. Hinzu kommen lebhaft agierende Putten, die als fast vollplastische Stuckfiguren aus der Wand hervortreten wie hier in der Mitte der Emporenbrüstung. Hofmann nennt zu Recht als mutmaßlichen Stuckator den 1721 aus dem Salzburgischen zugezogenen Bildhauer Wolfgang Zächenberger (* 1696 Straßwalchen bei Salzburg, † 1742 Ingolstadt), der zunächst nur als Stuckator arbeiten durfte (1985, S. 11). 1728 hatte er zusammen mit seinem älteren Bruder, dem schon etwas früher nach Ingolstadt zugewanderten Freskanten Johann Anton Zächenberger die Pfarrkirche in Großmehring bei Ingolstadt, LKr. Eichstätt, ausgestaltet. Die stilistische und motivische Übereinstimmung des dortigen Stuckdekors mit dem der Spitalkirche ist beträchtlich (Hofmann 1976, S. 158–160; 1985, S. 11). Der gleichen Hand zuzuweisen ist der 1733 ausgeführte Fassadenstuck des Kongregationssaales Maria de Victoria in Ingolstadt (Rupprecht 1974 S. 256; Hofmann 1990, S. 2). Auch der Stuckdekor der 1730 fertig gestellten Hofmarks- und Pfarrkirche Tandern, LKr Dachau, sowie die nur imitierte, gemalte Ausstuckierung der von Tandern abhängigen Filialkirche Alberzell, LKr. Pfaffenhofen, zeigen die unverkennbaren Merkmale der Arbeiten Wolfgang Zächenbergers. Auch in Alberzell hat er sichtlich mit seinem Bruder zusammengearbeitet (s. S. 175).
+
+'''Auftraggeber:''' Der Auftraggeber ist nicht feststellbar. Pfarrer der Stadtpfarrkirche Zur Schönen Unserer Lieben Frau war der Professor der Theologie Dr. Max Ferdinand Ignaz von Planckh (1714-44), der auch 1732 an der Grundsteinlegung
+
+
+[[File:Band14_chunk001_p010_img002.jpg|thumb]]
+
+
+des Kongregationssaales Maria de Victoria beteiligt war (Litterae annuae, siehe S. 50). Spitalbenefiziat war Ambros Echerer (1720–1742). Als Geldgeber kommt sein Vorgänger Johann Jakob Pürkert (1717-† 1719), auch Birkert geschrieben, in Betracht; er war zuvor Pfarrer in Gerolfing gewesen. In seinem am 1. Mai 1718 in Ingolstadt ausgefertigten Testament vermachte er der Spitalkirche 100 Gulden. Unter Punkt 13 heißt es: {ZITAT|000}} Die Bestätigung dieses Legats erfolgte am 19. Januar 1720 und war unterzeichnet von: {ZITAT|001}} (DAEI, Archivinventar 11 387, 1719 Joh. Jak. Birkhert). Der Benefiziat J. J. Pürkert war offenbar sehr vermögend. Aus einer von ihm selbst am 24. Mai 1716 in Gerolfing zusammengestellten Liste geht hervor, dass er sich mehrfach am Bau und der Ausstattung von Kirchen beteiligt hatte (DAEI, ebd.).
+
+'''Autor und Entstehungszeit:''' Melchior Puchner (* 6. 1. 1695 Schongau, † 9. 12. 1758 Ingolstadt) um 1730 Zuschreibung auf Grund von Stil- und Motivvergleichen
+
+der Spitalkirche her gesehen, ihrer Ausmalung mit 32 Emblemkartuschen und vier auf Kartuschenformat reduzierten Evangelistenbildern bietet sich als bestes Vergleichsbeispiel die für Melchior Puchner gesicherte und 1732/33 erfolgte Ausmalung des LHs der Pfarrkirche Hilpoltstein an (Lkr. Roth/MFr. Diözese Eichstätt; Roland Kudernatsch, Hilpoltstein. Stadtpfarrkirche St. Johannes der Täufer, KKF Nr. 770, 1972, S. 3. 20f.), die auch S. Hofmann als Grundlage diente. Hier begleiten zehn Emblemkartuschen paraphrasierend Szenen aus dem Leben der beiden Kirchenpatrone, Johannes des Täufers und der Jungfrau Maria. S. Hofmann hat drei dieser Emblemkartuschen in Bezug auf Bildanlage und formale Einzelheiten wie z.B. eine Sockelform zu drei Entsprechungen in der Ingolstädter Spitalkirche in überzeugende Nachbarschaft gerückt: {ZITAT|002}} zu 11 Oratio, {ZITAT|003}} zum Leuchtturm in 34 Consilium und {ZITAT|004}} zu 2 Fides. Die Hilpoltsteiner Deckenfresken sind relativ kleine, mit kleinfigurigen Szenen gefüllte Einzelbilder, die in den reichen Stuckdekor eingelassen sind. Obwohl mehrfach restauriert, lassen die Köpfe der vier Evangelisten bestimmte für die Gesichts- und Haarbildung der Figuren M. Puchners charakteristische Merkmale erkennen, die sich z.B. auch it
+<!-- citation-page-bottom: Band14 p19 -->
+
+
+**Zitate:**
+- {ZITAT|000}}: »13.–° Zum Heyl. Geist Spitall in Ingollstatt Zur aplicierung der Kürche legiere auch 100 gulden, 100 fl.«
+- {ZITAT|001}}: »Jo: Caspar Reisser Bürgermaister Vnd der Zeit spitt-hall pflöger«
+- {ZITAT|002}}: »CELSA PETIT«
+- {ZITAT|003}}: »NEC FRANGITUR, NEC IRRIGATUR«
+- {ZITAT|004}}: »PRODIT VESTIGIA LUCIS«
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=11 -->
+<!-- citation-page-top: Band14 p20 -->
+
+[[File:Band14_chunk001_p011_img001.jpg|thumb]]
+
+Fischbachau in Szenen der Martinsvita feststellen lassen (CBD, Bd 2, LKr. Miesbach, S. 470-77). Gemeint ist die klare Durchmodellierung der männlichen Köpfe, die öfters verschattete Augenhöhlen und deutlich markierte Augäpfel zeigen sowie einen unruhig verlaufenden Haarkontur, aus dem flockige kleine Löckchen hervorstehen.
+
+Der von S. Hofmann durchgesehene umfassende Bestand an Rechnungsbüchern des Hl.-Geist-Spitals im Stadtarchiv von Ingolstadt erbrachte keinen wirklichen Anhaltspunkt für die Datierung der Emblemkartuschen und des zugehörigen Stuckdekors. Hofmann (1971, S. 45-49) hat vorgeschlagen, eines der drei Jahre zwischen 1700-1750, die erhöhte, aber unspezifizierte Maurerrechnungen aufweisen, mit der »Barockisierung« in Verbindung zu bringen: 1734, 1737 oder 1740. Die beiden letzteren Jahre scheiden aus, da selbst ein provinziell verspäteter Bandwerkstuck dann kaum mehr vorstellbar ist; außerdem arbeitete M. Puchner in jenen Jahren in Fischbachau und in Scheyern. Das Jahr 1734 kann in Frage kommen, bedenkt man, dass der mit der Auszierung der Spitalkirche weitgehend identische Fassadenstuck von Maria de Victoria 1733 ausgeführt wurde.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: 1-36 Spätgotische Kreuzrippengewölbe
+
+Rahmen: Flache, schmale Stuckbandrahmen, hellgrau getönt und mit dem anschließenden Bandwerk verknüpft
+
+Technik: Fresko; polychrom, mit späterer Secco-Übermalung. Maße: 1-36 Höhe: 10,45 m; 1,20 × 1,20
+
+Kreuzrippengewölbe Höhe: 10,45 m; 4,50 x 4,50
+
+Erhaltungszustand und Restaurierungen: 1821 fand eine Restaurierung der Kirche durch Heideloff statt (KDB, S. 58). 1847 wurden Kirche und Altäre restauriert (Spiegel, S. 52). Von Bedeutung war die Wiederherstellung der Kreuzrippengewölbe, der Emblemkartuschen und des Stuckdekors 1905. Hierbei wurde die Ausmalung der Kirche von 1597/98 entdeckt: die Wandgemälde, die Apostelbilder auf den Rundpfeilern sowie die Szenenfolge an der Emporenbrüstung; diese Malereien wurden in den Folgejahren von Kunstmaler Bonifaz Locher, München, restauriert.
+
+Auf damaligen Photos (Photobestand zur Spitalkirche im Stadtarchiv Ingolstadt) ist zu erkennen, dass die Gewölbe Risse hatten, der Putz teilweise abgefallen und der Stuck beschädigt war, dass die Bildmotive der Emblemkartuscher teilweise eine etwas andere Gestalt hatten als heute.
+
+Eine Folge unsignierter, vor der Restaurierung angefertigter Zeichnungen der Emblemkartuschen (Stadtarchiv Ingolstadt Akten zur Spitalkirche, Abt. A IX, Nr.77) veranschaulicht noch stärker, dass die unvermeidlicherweise bei der Gewölbesanierung verletzten Emblembilder z.T. in einer etwas >moderneren« Form erneuert wurden. Sie zeigen im Gegensatz zu den vorher fast schmucklos dargestellten Bildgegenständer füllende Details und Verzierungen und ebenso leichte Veränderungen im unteren Schriftband.
+
+1904/05 wurden in den Gewölben Ziegelsteine erneuert, Steine neu verkeilt, Risse mit Zement ausgegossen, lockere Gewölberippen mit Kupferdraht befestigt und die Stuckornamente weitgehend erneuert. Die Stuckatoren-Arbeit unterstand dem Bildhauer Georg Widmann, Ingolstadt (Stadtarchiv Ingolstadt, Abt. Hochbauamt, Nr. A 625); die Ausbesserung
+
+
+[[File:Band14_chunk001_p011_img002.jpg|thumb|Das Kirchengewölbe]]
+
+
+der beschädigten Emblemkartuschen übernahm der Maler Wilhelm Geromiller, München, die neue, verschiedenfarbige Tönung der Stuckatur – nach Angabe aus München – der Ingolstädter Maler Müller (DAEI, Ingolstadt Pfarrakten, B Stadtpfarrei zur Schönen U. L. F., Nebenkirchen, XI 2a, Bericht des Spitalbenefiziaten J. Spiegel vom 14. 9. 1905). Die nach dieser Restaurierung angefertigten Photos lassen erkennen, dass die Gewölbefelder und die Rundpfeiler helltonig grundiert waren und der Stuckdekor in verschiedenen Farben gehalten war. J. Spiegel spricht in seinem Aufsatz (1915, S.15) von einer Farbtönung der Stuckornamente »in Mattrosa, Mattviolett oder Hellbraun, letzteres noch mit einer schwachen Goldauflage.« Diese Fassung blieb zumindest bis in die dreißiger Jahre bestehen. 1947/48 wurden Kriegsschäden beseitigt und die Deckenfelder und Säulen von Kirchenmaler Georg Löhnert, Ingolstadt, restauriert. Nach seiner Auffassung waren im Barock Gewölbe und Säulen rötlich getönt (BLfD, Ingolstadt, Restaurierungsakten Heiliggeist- Spital-Kirche, 1. Teil, 1903–1980). Die Photos vor der Instandsetzung von 1981/82 zeigen eine dunkeltonige Grundierung der Gewölbefelder und der Rundpfeiler und eine durchgehend helle Tönung des Stuckdekors. Bei der Restaurierung der Raumschale 1981/82, die nicht die Wandbilder betraf, übernahm Kirchenmaler Rudolf Pfaller, damals Ingolstadt, auch die Instandsetzung der Emblembilder. Diese wurden durch eine Trockenreinigung mit Brot von Schmutzablagerungen befreit; anschließend wurden Setzrisse geschlossen und reversibel mit Tempera retuschiert. Nach Befunderstellung wurde
+
+versucht, der Fassung der Raumschale von 1735 möglichst nahe zu kommen (frdl. Mitt. Rudolf Pfaller, Puch bei Reichertshofen). Alle Bauglieder erscheinen jetzt in einem leicht grautonigen, dunkleren Rosa; die Gewölbefelder und Fensterlaibungen sind in einem sehr lichten, leicht gelbtonigen grauweiß gehalten. Das dortige Bandwerk erscheint in einem kräftigen Hellgrau. Seine pflanzlichen Ausläufer, Palmettenbekrönungen und Lambrequins sind in zartem Rosa gehalten und teilweise durch Goldhöhungen hervorgehoben. Die Stuckverzierungen im Kapitellbereich der Rundpfeiler und der Wandvorlagen mit ihren flachen Akanthusblättern und Lambrequins sind hellrosa getönt und durch Goldhöhungen und partielle Goldumrandung hervorgehoben. Der Stuckdekor an der Emporenbrüstung zeigt sich in einem nach Hellgrau gebrochenen Weiß.
+
+Technisch sind die Deckenbilder in verhältnismäßig guten Zustand; einzelne kleinere Risse erscheinen im mittleren östlichen Joch, kleinere Feuchtigkeitsschäden im nördlichen östlichen Joch. Die originale barocke Substanz ist jedoch weitgehend zerstört.
+
+
+== Beschreibung und Ikonographie ==
+
+
+A-D VIER EVANGELISTEN und 1-32 EMBLEME AUF TUGENDEN Die Kreuzrippengewölbe der 3 × 6 Joche der dreischiffigen Hallenkirche sind dergestalt ausgeziert, dass jede Gewölbekappe von einem symmetrisch angelegten, feingliedrigen Bandwerkstuck überzogen ist und dass in der ersten, der dritten und der fünften Querachse von O jeweils zwölf Bildkartuschen in diesen Stuck eingelassen und mit ihm verknüpft sind. In der dritten Querachse von O, also der zentralen Bilderachse, sind die Kartuschen in jedem der drei Kreuzrippengewölbe konzentrisch angelegt, in der ›östlichen‹ und in der ›westlichen< Bilderachse sind die querliegenden Kartuschen jeweils konzentrisch ausgerichtet, die in Längsrichtung liegenden Kartuschen in der ›östlichen‹ Bilderachse geostet, in der ›westlichen‹ gewestet. Die Rahmenform der Bildkartuschen wechselt zwischen einem dem Kreisrund angenäherten Vierpass- oder Baßgeigenumriss, die die Kartuschen fast als Medaillons erscheinen lässt.
+
+Das Zentrum dieser Neunergruppe didaktisch ausgemalter Kreuzrippengewölbe bilden die vier Evangelisten. Die zweiunddreißig um sie herum angeordneten Kartuschenbilder sind Embleme mit der Benennung in einem kurzen Schriftband am oberen Bildrand und dem Lemma in einem längeren Schriftband, das sich am unteren Bildabschluss einschmiegt. Spitalbenefiziat Joseph Spiegel hat in seinem Aufsatz: Die Spital-Kirche in Ingolstadt, ihre Geschichte und Ausstattung (SVHI 35, 1916, S. 1–77) die Embleme ausführlich interpretiert und seelsorgerisch ausgelegt (S. 15–22). S. Hofmann hat in seinem Kirchenführer von 1985 in verknappter Form J. Spiegels deutsche Fassung der Titel und Lemmata übernommen (S. 11–14).
+
+Die hier folgende Beschreibung und Auslegung erweitert J. Spiegels Interpretationen durch Verweise auf Vergleichsbeispiele zu den Emblem-Bildern und befindet sich weitgehend in Ubereinstimmung mit J. Spiegels Darlegungen.
+
+Die das mittlere Joch (A-D) umgebenden acht Joche werden hier vom östlichen mittleren Joch über dem Altar aus, das
+<!-- citation-page-bottom: Band14 p21 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=12 -->
+<!-- citation-page-top: Band14 p22 -->
+
+<!-- header: INGOLSTADT HL. GEIST -->
+
+[[File:Band14_chunk001_p012_img001.jpg|thumb|A-D Evangelisten (Melchior Puchner um 1730), Photographische Aufnahme um 1980; A Johannes, B Markus, C Lukas, D Matthäus (Zustand um 1905)]]
+
+[[File:Band14_chunk001_p012_img002.jpg|thumb]]
+
+[[File:Band14_chunk001_p012_img003.jpg|thumb]]
+
+bedeutungstungsmäßig über die anderen herausgehoben ist, im Uhrzeigersinn abgehandelt. Auf den Abbildungen von 1905 ist die originale Freskomalerei noch gut zu sehen.
+
+A-D VIER EVANGELISTEN (Mittelschiff, mittleres Joch) Die lebhaft bewegten Evangelisten sind ganzfigurig dargestellt. Sie thronen auf engstem Raum auf Wolkenbänken, die über den unteren Bildrand hinabquellen. Auch Gliedmaßen und Attribute ragen z. T. über die Rahmung hinaus. Die Evangelisten bilden zwar das optische Zentrum des Deckenprogramms, sind jedoch dem Schema völlig untergeordnet.
+
+[[File:Band14_chunk001_p012_img004.jpg|thumb]]
+
+[[File:Band14_chunk001_p012_img005.jpg|thumb]]
+
+ein lang gestrecktes Richtscheit, das zugleich auch Winkelmaß ist. Das Richtscheit gehört zu den Attributen des guten Richters bzw. der Rechtsprechung (vgl. München, Residenz, sogen. Saal der Entscheidung in der Folge der Trier-Zimmer aus der Zeit Kurfürst Maximilians I. das Deckenbild V, eine Darstellung verwandten Inhalts mit dem Untertitel: DIVIDICATIO – Entscheidung. Hier geht es um Entscheidung nach Beurteilung. Sie wird personifiziert durch eine thronende männliche Figur, die in der Linken eine ausbalancierte Waage hält, in der Rechten Richtscheit, kurzes Winkelmaß, Bleilot und Zirkel; CBD, Bd 3/2, S. 155, 160f., Abb. S. 156. Vgl. auch Picinelli, Lib. XVII, s. v. regula [Richtscheit], Nr. 131, Lemma: UT SINE ERRORE. Damit kein Irrtum sei).
+
+S. Hofmann (1985, S. 11) hat bereits festgestellt, dass hier »die drei theologischen Tugenden um der Vierzahl der Gewölbe-felder willen durch die Justitia ergänzt werden«. Dass gerade Justitia in die östliche Gewölbekappe unmittelbar über dem Hochaltar und dem Auszugsbild mit dem auferstandenen Christus platziert ist, hat jedoch eine weitergehende Bedeutung und ist als Hinweis auf das Jüngste Gericht anzusehen. Im Halbkreis der theologischen Tugenden ist Fides die wichtigste und deshalb wie Justitia auf der Längsachse dieses Joches angeordnet. Zudem ist ihre Kartusche die einzige Emblemkartusche.
+
+<!-- citation-page-bottom: Band14 p23 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=13 -->
+<!-- citation-page-top: Band14 p24 -->
+
+<!-- header: INGOLSTADT HL. GEIST -->
+
+
+[[File:Band14_chunk001_p013_img001.jpg|thumb|5 Constantia, 6 Commiseratio, 7 Conformitas cum voluntate Dei, 8 Tranquillitas mentis]]
+
+
+tusche, deren beidseitig anschließender Stuckdekor ein Gitterwerk in Rautenmuster aufweist.
+
+2 CARITAS/Tendo sursum labore deorsum (Liebe/Ich strebe nach oben, zugleich durch Arbeit nach unten). - Auf einem Tisch steht vor einer Nische eine brennende Kerze mit sehr hellem Schein. Mit dem Bild der Kerze, die sich verzehrt 
+
+indem sie brennt, ist zunächst derjenige gemeint, der sich im Dienst anderer aufzehrt (vgl. Henkel-Schöne, Kap. V, Sp. 1363, s. v. brennende Kerze, Lemma: Aliis in serviendo consu- MOR.) Die oben angesprochene doppelte Richtung dieses sich Verzehrens in der Sehnsucht nach Gott und im irdischen karitativen Dienst am Menschen kommt in einem anderen Beispiel der brennenden Kerze deutlich zum Ausdruck (siehe Picinelli 
+
+Lib. XV, s. v. candela, Nr. 37, Lemma: Geminus me conspicit ARDOR. Ein zweifaches Feuer erfasst mich. Hier verweist Picinelli auf die berühmten Paulusverse im Brief an die Philipper, 1,23-24: »Es zieht mich nach beiden Seiten hin. Ich habe das Verlangen, aufzubrechen und mit Christus zu sein; denn das wäre weitaus das Bessere; das Verweilen im Fleisch aber ist notwendiger um euretwillen«).
+
+3 FIDES/Coelestia monstrat in umbris (Glaube/Das Himmlische zeigt sie im Schattenbild). – Im Vordergrund rechts in Untersicht eine hohe Mauer mit einer Sonnenuhr; linkerseits ein Ausblick in eine ferne Parklandschaft mit Zypressen und anderen Bäumen; darüber ein wolkiger Himmel, an dessen oberem linken Rand wohl ehemals die Sonne zu erkennen war. Der Stab der Sonnenuhr wirft seinen Schatten nach rechts. Das 
+
+24
+<!-- citation-page-bottom: Band14 p25 -->
+
+
+[[File:Band14_chunk001_p013_img002.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=14 -->
+<!-- citation-page-top: Band14 p26 -->
+
+
+[[File:Band14_chunk001_p014_img001.jpg|thumb|13 Innocentia, 14 Aequitas, 15 Consilium in ambiguis, 16 Dilectio Inimici]]
+
+
+Emblem scheint sagen zu wollen, dass, so wie die Sonnenuhr das Sonnenlicht nur als Schattenbild wiedergibt, der Glaube den Glanz des Himmels nur schattenhaft vermittelt. Die Sonnenuhr ist ein für Fides nicht sehr gebräuchliches Sinnbild (vgl. jedoch Boschius, Classis I, s. v. Fides, Nr. 197, horologium sciathericum [Sonnenuhr], Lemma: Non nisi caelest RADIO. Nur durch den himmlischen [= göttlichen] Lichtstrahl, Abb. Classis I Tab. XI)
+
+
+4 SPES/Sperandarum substantia rerum (Hoffnung/Die Hoffnung auf Gott ist das Wesentliche der zu erhoffenden Dinge). - Vor einer Meereslandschaft mit aufgepeitschten Wellen und einer steilen Felsenküste am rechten Bildrand schwebt ein großer Anker (vgl. Picinelli, Lib. XX, s. v. anchora, Nr. 9: Anker als Attribut der »Sanctae spei«, Lemma: Instabilem FIRMAT. Er gibt dem Schwankenden Halt).
+
+
+[[File:Band14_chunk001_p014_img002.jpg|thumb]]
+
+
+5–8 Südliches Seitenschiff, östliches Joch
+
+5 CONSTANTIA/Moveor, non mutor ab ullo (Beständigkeit/Ich werde bewegt, jedoch von niemandem verändert). - Ein Himmelsglobus im Ständer auf einem Tisch (vgl. Picinelli, Lib. I, s. v. Coelum, Nr. 3, Lemma: Immota revolvor. Unverändert kehre ich im Kreislauf immer wieder – Der ewig gleiche Lauf der Sterne ist Bild der Constantia).
+
+6 COMMISERATIO/Flere cum flentibus, ridere cum ridentibus (Mitgefühl/Weinen mit Weinenden, lachen mit Lachenden). – Ein hoher rechteckiger Spiegel an der Wand. Im Spiegel kann man sich lachend oder weinend sehen. Das Emblem steht für die Nächstenliebe (Picinelli, Lib. XV, Nr. 203, s.v. speculum: »Charitas proximi« – liebe deinen Nächsten wie dich selbst. Lemma: Quisque proximus. Jeder, wer er auch sei, ist der Nächste).
+<!-- citation-page-bottom: Band14 p27 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=15 -->
+<!-- citation-page-top: Band14 p28 -->
+
+<!-- header: INGOLSTADT HL. GEIST -->
+
+[[File:Band14_chunk001_p015_img001.jpg|thumb|7 Fortitudo, 18 Oratio, 19 Prudentia, 20 Temperantia]]
+<!-- citation-page-bottom: Band14 p29 -->
+
+== 7 CONFORMITAS CUM VOLUNTATE DEI ==
+In te feror, quocunque feror (Übereinstimmung mit dem Willen Gottes/Auf dich hin werde ich bewegt, wohin ich mich auch immer bewege). – Auf einem Tisch steht ein kleiner hölzerner Kasten mit aufgeschlagenem Deckel; darin liegt ein Kompass. Das Ganze ist ein Seekompass, eine Pyxis nautica, die außer dem Kompass noch eine kreisrunde Pappe, die Windrose, enthält sowie ein Gerät, mit dem der Kompass jederzeit waagerecht gehalten werden kann (siehe Zedler, Bd 6, 1733, s. v. Compaß, Pyxis nautica, Sp. 862-866; vgl. Picinelli, Lib. XX, s. v. tabula hydrographica cum pyxide nautica [Seekarten], Nr 167, Lemma: JUGITER PRAE OCULIS. Beständig vor Augen. Das Beispiel steht hier für Contemplatio Dei).
+
+== 8 TRANQUILITAS MENTIS ==
+Nubes transcendit Olympus (Seelenfrieden/Der Olymp überragt die Wolken). — Im unteren Teil begrüntes, oben schneebedecktes Bergmassiv, das auf halber Höhe einen Wolkenring durchbrochen hat (vgl. Boschius, Clas. III, Symb. Ethica, s. v. Magnanimitas [Hochherzigkeit], Nr. 727, »Olympus Mons« mit dem Lemma: PACEM SUMMA TENENT. Die Gipfel haben den Frieden. Abb. Classis III, Tab. XXXVIII).
+
+== 9-12 Südliches Seitenschiff, mittleres Joch ==
+
+=== 9 CONCORDIA ===
+Est sensus varius, verum omnis in unum (Eintracht, Harmonie/Die Töne sind verschieden; das Richtige ist, wenn jeder sich einem Ganzen einfügt). – Große barocke Orgel mit zahlreichen Pfeifen (vgl. Picinelli, Lib. XXI, s. v. organum, Nr. 47, Lemma: ALIIS JUNCTA. Den anderen verbunden).
+
+=== 10 PAUPERTAS CHRISTIANA ===
+Deme superflua, crescet (Christliche Armut/Entferne das Überflüssige, dann wächst es). — Vor offener Landschaft ein Weidenstamm, der seiner Äste beraubt ist, aber neue Triebe ansetzt (vgl. Picinelli, Lib. IX, s. v. arbor, ramis putata, Nr. 60, Lemma: IMMINUTA GRANDESCET. Zurückgeschnitten wird er groß. Das Beispiel steht hier für »religiosus«, gottesfürchtig, fromm).
+
+=== 11 IN AFFLICTIONIBUS SOLATIUM ===
+Spissis lux aucta tenebris (Trost in Bedrängnissen/Vermehrt erscheint das Licht in dichter Finsternis). – Vor einem mit dichten Wolken besetzten Himmel erscheint eine Gruppe aus einzelnen, hell leuchtenden Feuerwerksraketen. Hier ist offensichtlich auf das Zusammenwirken einzelner angespielt (vgl. München, Residenz, Ehemalige Sommerzimmer, Umbau ab 1726, I. Raum: An der Decke die Allegorien von Fidelitas und Concordia; unter den Fenstern zwei auf Concordia bezogene Embleme, das eine der beiden mit einem Feuerwerk als ›pictura‹. Lemma: EX UNIONE DECOR. Aus der Einheit die Zier — Feuerwerk. Wie erst durch das Zusammenspiel der Raketen die Schönheit des Feuerwerks entsteht, so die Wohlfahrt des Landes durch das Zusammenwirken aller Kräfte. CBD 3/2, S. 294). 
+
+J. Spiegel hat in seiner Auslegung dieses Emblems nur darauf verwiesen, dass in dunkler Nacht der eine des anderen Licht und Trost sein soll (S. 21).
+
+=== 12 POENITENTIA ===
+Est quaedam flere voluptas (Reue/Weinen ist sozusagen ein Genuss). – Ein von unten befeuerter Destillierofen mit seiner oben herausführenden, gebogenen Abflussröhre, die in einen Glasbehälter mündet. Man sieht die Tropfen hineinfallen. Der Destillierofen, der die eingefüllte Materie umwandelt in etwas Höheres, erscheint hier in sehr vereinfachter Gestalt (vgl. Picinelli, Lib. XVII, s. v. furnus campanus cum syphunculis [Destillierofen mit Röhrlein], Nr. 63, hier auf Maria Magdalena bezogen; Lemma: CALOR ELICIT IMBRES. Die Glut bringt Tränen hervor. Beispiel Nr. 67 hat das Lemma: MELIORA REFUNDIT. Er gießt das Bessere zurück).
+
+== 13-16 Südliches Seitenschiff, westliches Joch ==
+
+=== 13 INNOCENTIA ===
+Sibi conscia recti (Unschuld, Rechtschaffenheit/Sie ist sich des Rechten bewusst). – Landschaft mit Flusslauf. Am Ufer ist ein Pfahl ins Wasser gestellt, dessen unter Wasser befindlicher Teil dem Auge abgeknickt erscheint. Dieses Sinnbild steht für wirkliche Unschuld oder Reinheit, die nur dem trügerischen Schein nach verletzt ist. Boschius bringt zwei verwandte Beispiele unter Mariae Reinigung (Classis I, s. v. Maria ... lustrata in templo, Nr. 556 und 557. Eine Säule erscheint in einem Hohlspiegel gekrümmt, Lemma: SIBI CONSCIA RECTI. Ein Ruder erscheint im Wasser gebrochen, Lemma: NON IDEO INCURVOR. Deswegen bin ich doch nicht geknickt).
+
+=== 14 AEQUITAS ===
+Audiatur et altera pars (Billigkeit, Rechts gleichheit/Auch die andere Seite möge gehört werden). – Dem heutigen Augenschein nach liegen auf einem stattlichen Tisch, in einem Raum mit einem großen Butzenscheibenfenster, zwei dicht nebeneinander befindliche Hölzer, die am Kopfende durch einen Griff mit Bommel verbunden sind. Quer über die Hölzer hinweg sind unterschiedliche Einkerbungen geführt. In der Serie der unsignierten, 1904 angefertigten Zeichnungen der Emblemkartuschen im Stadtarchiv Ingolstadt (siehe oben Abschnitt: Befund) gibt das entsprechende Blatt Nr. 35, betitelt Kerbholz, den Gegenstand fast gleich lautend wieder. J. Spiegel (S. 21 f.) war sich nicht klar, ob es sich bei dem Kartuschenbild um Maßstäbe oder Kerbhölzer handele. Gemeint ist jedoch sicher das bei Vertragsabschlüssen bis weit ins 18. Jh. hinein gebräuchliche, aus zwei Hälften bestehende und zusammensetzbare Kerbholz, in das zum Schutz vor gegenseitigem Betrug quer über beide Hälften gelegte Kerben eingeschnitten wurden (vgl. Picinelli, Lib. XVII, s. v. talea [Kerbholz], Nr. 171, »Geminus taleae bacillus, crenis incisus«. Der Zwillingstab des Kerbholzes mit eingeschnittenen Kerben. Lemma: SIMUL JUNCTAE. Gleichzeitig verbunden. Das Sinnbild steht für »Concordia proficiens«, die nützliche Eintracht. Vgl. auch J. und W. Grimm, Deutsches Wörterbuch, Bd 5, Leipzig 1873, s. v. Kerbholz, Sp. 562-565, bes. 564).
+
+=== 15 CONSILIUM IN AMBIGUIS ===
+Hac duce certa salus (Rat in Zweifeln/Unter dieser Leitung ist das Heil gewiss). — Hafenmole mit einem Leuchtturm, aus dem eine Laterne heraushängt. Vom offenen Meer herkommend, nähert sich ein Schiff mit gerefften Segeln der Hafeneinfahrt (vgl. Picinelli, Lib. XV, s. v. laterna, Nr. 110: »laterna, supra Pharum collum...«).
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=16 -->
+<!-- citation-page-top: Band14 p30 -->
+
+<!-- header: INGOLSTADT HL. GEIS' -->
+<!-- header: INGOLSTADT HL. GEIST -->
+
+cata«, Lemma: In TUTUM ALLICIT. Sie lockt an den sicheren Ort. Der Leuchtturm mit Laterne steht hier für Gratia Dei. Mit diesem Sinnbild kann auch Maria gemeint sein als Wegweiserin zum Hafen des Ewigen Lebens [H. Marraccius, Polyanthea Mariana, Lib. XIV, s. v. pharos, S. 110, »Pharos alta luminis«; Pharos, Höhe, Erhabenheit des Lichts].
+
+Wäre eine dieser beiden Auslegungen zutreffend, dann stünde man vor der Frage, warum ein einziges unter all den anderen Emblemen, die auf die Ausübung von Tugenden abzielen, nur auf eine Hilfe vom Himmel her verwiese. An einer dem Hl. Geist dedizierten Kirche ist es jedoch wahrscheinlich, dass mit Consilium eine der Sieben Gaben des Hl. Geistes gemeint ist und damit auch ihre Anwendung auf Erden. Durch diesen gedanklichen Brückenschlag befindet sich Emblem 15 doch in Übereinstimmung mit den übrigen Emblemen.
+
+16 DILECTIO INIMICI/Qui ferit, intimus ille mihi (Feindesliebe/Wer mich schlägt, der ist mein engster Freund). - An einer schräg aufgerichteten Stange, vor wolkigem Himmelsraum, hängt eine Glocke mit deutlich sichtbarem Klöppel. In diesem Emblem wird der Satz veranschaulicht: Wen Gott liebt. den züchtigt er (vgl. Boschius, Classis III, s. v. Adversae res [Widrigkeiten], Nr. CX: »Campana pendente intus malleo« mit dem fast gleich lautenden Lemma: Qui me ferit intimus ILLE EST. Abb. Classis III, Tab VII. Die pictura zeigt eine Glocke, die zwischen vier schräg gestellten, oben zusammengebundenen Stangen aufgehängt ist. Vermutlich hat dieses Emblembild die Vorlage abgegeben für die auf nur eine Stange reduzierte Halterung der Glocke in dem vereinfachten Kartuschenbild in der Spitalkirche).
+
+17-20 KARDINALTUGENDEN (Mittelschiff, westliche Joch)
+
+17 FORTITUDO/Frangor, non flector ab ullo (Stärke Tapferkeit/Ich werde gebrochen, jedoch von niemandem gebeugt). – Eine hohe Säule vor Palastgebäuden (vgl. Picinelli Lib. XVI, s. v. columna, Nr. 39. Hier steht die Säule für »imperterritus«, den Unerschrockenen. Lemma: Frangor, non FLECTOR).
+
+18 ORATIO/Sacros consumor in usus (Gebet/Zu heiligem Nutzen verzehre ich mich). – Auf einem mit Voluten verzierten Sockel steht ein rauchendes Weihrauchgefäß; im Hintergrund Architekturversatzstücke (vgl. Boschius, Classis I, s. v. Pietas et Religio, Nr. 670: »thuribulum fumans«, rauchendes Räuchergefäß auf einem Altar mit Lemma: Dum flagrat FRAGRAT. Indem es brennt, duftet es. Abb. Classis I. Tab. XXIX. Das Gebet soll wie Weihrauch zum Himmel aufsteigen).
+
+19 PRUDENTIA/Partes conspectu in omnes (Klugheit/ Durch Umsicht die Teile als Ganzes erfassen). – Janusköpfige Herme im Freien, mit ungehindertem Blick über eine Arkadenfolge hinwegschauend (vgl. Picinelli, Lib. III, s. v. Janus, Nr. 69, Sinnbild des »vir prudens«, der das Zukünftige und das Vergangene im Blick hat. Lemmata: ANTE RETROQUE. Vorwärts und rückwärts. HINC INDE, Von hier aus, von dort aus).
+
+20 TEMPERANTIA/Moderatus pondere motus (Mäßigung) Durch das Gewicht wird die Bewegung geregelt). - An einer Wand hängt eine ovale Wanduhr mit zwei Gewichten (vgl Picinelli, Lib. XXI, s. v. horologium rotatum [Räderuhr] Nr. 124. Hier steht das Beispiel in Zusammenhang mit der Hinleitung zur Tugend. Lemma: Dant pondera legem. Die Gewichte liefern das Gesetz, die Vorschrift).
+
+In diesem Joch sind drei der vier Kardinaltugenden versammelt. Gerechtigkeit, die fehlende vierte, ist in das erste Joch vorgerückt und durch das Gebet ersetzt.
+
+21-24 (Nördliches Seitenschiff, westliches Joch)
+
+21 DEVOTIO MENTIS/Per vim ascendere (vor 1905 conscendere) coelum (Frömmigkeit/Mit Kraft zum Himme aufsteigen). - Ein soeben von einem Bogen abgeschnellter Pfei fliegt über einer weiten Landschaft geradewegs zum Himme empor (vgl. Picinelli, Lib. XXII, s. v. arcus [Bogen], Nr. 5. De kraftvoll vom Bogen abgeschnellte Pfeil wird gleichgesetzt mi dem demütigen Gebet, das gerade durch Demut den Himme erreicht. Als Erläuterung ist ein Satz aus dem Buch Jesus Sirach angefügt (Eccli, 35, 21): »Oratio humiliantis se, nubes penetra bit«. Das Gebet dessen, der sich erniedrigt, wird die Wolker durchdringen).
+
+22 CONTEMPTUS MUNDI/Cum fumo exploditur orbis (Weltverachtung/Begleitet von Rauch wird die Welt in die Luft gejagt). - Eine Artilleriekanone auf zwei Rädern beschießt eine Stadtmauer, Rauch entsteht. Die Zusammenstellung dieses Sinnbildes ist ungewöhnlich für Weltverachtung. G. Rollenhagen (Nucleus Emblematum, I. Buch, Nr. 73) bringt unter dem Aspekt der Vergeblichkeit irdischen Tuns ein Emblem, dessen »pictura« eine unter Rauchentwicklung explodierende Erdkugel zeigt, hinterlegt von verschiedenen menschlichen Tätigkeiten. Bildumschrift: Fvmvs hvmana. Beginn des zugehörigen Epigramms: Pulvis et vmbra sumus. Staub und Trugbild sind wir.
+
+23 PATIENTIA/Ut potior, patior (Geduld/Um stärker zu werden, dulde ich). – (Vor 1905: Ut potiar...) Eine hölzerne Weinkelter, im Hintergrund Rebstöcke (vgl. Picinelli, Lib XVII, s.v. torcular vinarium [Weinkelter], Nr. 182, Lemma Dum comprimit, exprimit. Während sie zusammendrückt presst sie aus. Dieses Sinnbild steht für »calamitas utilis«, die nützliche Widrigkeit. Vgl. auch Boschius, Classis I, s. v S. Franc Borgia . . ., Nr. 213, uva in labro [Traube in der Kelter] Lemma: In Melius Calcata fluit. Zertreten ergibt sie bessere Qualität).
+
+24 MORTIFICATIO CARNIS/Pellis percussa triumphat (Abtötung des Fleisches/Die geschlagene Haut triumphiert). – Eine rot-weiß geflammte Trommel, auf der zwei Schlegel liegen (vgl. Picinelli, Lib. XXII, s. v. tympanum [Trommel], Nr. 196, Lemma: Incaesa et vacua quam bene pelle SONAT. Wie schön ertönt sie durch ihre geschlagene und ledige Haut).
+
+25–28 (Nördliches Seitenschiff, mittleres Joch)
+
+25 PAX/Pax una triumphis millenis potior (Friede/Ein ein
+
+[[File:Band14_chunk001_p016_img001.jpg|thumb|21 Devotio Mentis, 22 Contemptus Mundi, 23 Patientia, 24 Mortificatio Carnis (Zustand um 1905)]]
+<!-- citation-page-bottom: Band14 p31 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=17 -->
+<!-- citation-page-top: Band14 p32 -->
+
+<!-- header: INGOLSTADT HL. GEIS -->
+
+
+[[File:Band14_chunk001_p017_img001.jpg|thumb|29 Jejunium, 30 Oboedientia, 31 Eleemosina, 32 Castimonia]]
+
+
+
+[[File:Band14_chunk001_p017_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band14 p33 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=18 -->
+<!-- citation-page-top: Band14 p34 -->
+
+<!-- header: INGOLSTADT HL. GEIST -->
+
+ziger Friede ist mehr wert als tausend Triumphe). - Auf einem altarähnlichen Sockel mit einem roten Kissen liegt ein Ölbaumzweig (vgl. Picinelli, Lib. IX, s. v. olea, oliva, Nr. 325. Der Ölbaumzweig steht für den wünschenswerten Frieden, Lemma: Hunc praefero. Diesen Zweig bevorzuge ich).
+
+
+[[File:Band14_chunk001_p018_img001.jpg|thumb]]
+
+
+die Jesuiten bereits seit 1560 Predigtrecht besaßen; s. F. C. Buchner, S. 645).
+
+
+[[File:Band14_chunk001_p018_img002.jpg|thumb]]
+
+
+
+[[File:Band14_chunk001_p018_img003.jpg|thumb]]
+
+
+Die Bewohner des Hl.-Geist-Spitals, die in einer Art klösterlicher Gemeinschaft lebten, bestanden aus drei Gruppen; den wohlhabenden Pfründnern, den ärmeren Pfründnern und den umsonst aufgenommenen Armen (F. Rieder, S. 45). Diejenigen, die als Pfründner eintraten, unterstellten »sich mit Leib und Gut dem Spital« und wurden mit der Aufgabe ihres Eigentums zu »Armen Christi« (S. Hofmann 1993/94, S. 344). Es gab von Anfang an eine Haus- und Gebetsordnung für die Spitalbewohner; erhalten sind die Fassung von 1580 und die neu erstellte Fassung von 1724. S. Hofmann (ebd., S. 344–353) hat überzeugend dargelegt, dass die Tugend-Forderungen der Emblemkartuschen in engem Zusammenhang zu sehen sind mit den Forderungen, wie sie in der Regel von 1724 bezüglich des Funktionierens dieser Gemeinschaft nochmals formuliert
+
+
+[[File:Band14_chunk001_p018_img004.jpg|thumb]]
+
+
+
+[[File:Band14_chunk001_p018_img005.jpg|thumb|23 Patientia (Zustand um 1905)]]
+
+
+worden waren. Außer der Grundbedingung, ein tugendhaftes Leben zu führen – d. h. den Mönchstugenden Armut, Keuschheit und Gehorsam weitgehend zu genügen – und die Gottesdienst- und Gebetsvorschriften einzuhalten, waren besonders Eigenschaften gefordert wie Nächstenliebe, Gemeinschaftssinn, Friedfertigkeit und die Fähigkeit, sich einem Ganzen einzuordnen. Hier ist anzumerken, dass mehrere Embleme darauf abzielen, Schmerzerfahrung positiv zu nehmen und an ihr im christlichen Sinn zu erstarken. Dazu gehören die drei »akustischen« Sinnbilder, wo mit »Wohllaut« reagiert wird: die von Klöppel geschlagene Glocke (16), die Trommel (24) und die Laute (28). Läuterung und Spiritualisierung bedeuten der Destillierofen (12) mit ihren Umwandlungsprozessen. Die Emblemkartuschen sind in dezenten Farbtönen gehaltene, erzähl-
+<!-- citation-page-bottom: Band14 p35 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=19 -->
+<!-- citation-page-top: Band14 p36 -->
+
+<!-- header: INGOLSTADT HL. GEIST -->
+
+und detailfreudige kleine Szenerien, in Untersicht gesehen und oft durch einen beinahe stimmungsvollen Wolkenhimmel hinterlegt. Sie boten der Predigt-Interpretation vermutlich reichen Stoff.
+
+Bereits J. Spiegel (S. 22) vermutete den Autor des Emblemprogramms in den Reihen der Ingolstädter Jesuiten. Dafür spricht, dass die Jesuiten seit 1560 Predigtrecht in der Spitalkirche besaßen. Dafür spricht auch, dass sich zu drei Emblemen der Spitalkirche - Oboedientia (30), Mansuetudo (28) und Patientia (23) - sehr nahe Vergleichsbeispiele finden in der Symbolographia von J. Boschius unter der Rubrik: S. Franc. Borgia, eius vita et virtutes.
+
+
+== Quellen und Literatur ==
+
+
+DAEI, Ingolstadt Pfarrakten, B Stadtpfarrei zur Schönen U. L. F., Nebenkirchen, Spitalkirche, Abt. XI, Fasz. 2a und 2b; Archivinventar 11 387: 1719 N. d. Joh. Jak. Birkhert, Spitalpfr. in Ing.
+
+StAI, Ingolstadt, Akten Spitalkirche, Abt. A IX, Nr. 77, Restaurierung der Spitalkirche 1904-26; Abt. Hochbauamt/Spitalgebäude, Nr. A 625, Baulicher Unterhalt... Heilig Geist Spital 1897–1924; Photobestand zur Spitalkirche von 1904 bis heute.
+
+BLfD, Ingolstadt, Restaurierungsakten Heiliggeist-Spitalkirche
+
+
+== KDB I OB (1), S. 58 ==
+
+
+Spiegel, Joseph, Die Spitalkirche in Ingolstadt, ihre Geschichte und Ausstattung, in: SHVI 35, 1914/15, erschienen 1916, 15-22, 22-37, 41–45, 52.
+
+Buchner Bistum Eichstätt 1937, S. 601, 643-647
+
+Kuhn, Hanns, Die Alt-Ingolstädter Maler (vom 15.-18. Jahrhundert) I Teil in: SHVI 56 1028 S 28
+
+Rieder, Frieda, Geschichte des Hl.-Geist-Spitals in Ingolstadt bis zum Dreißigjährigen Krieg, in: SHVI 57, 1939, S. 12-25, 20. 36. 38. 45.
+
+Die Stadt Ingolstadt an der Donau. Ein Heimatbuch, München 1963, S. 29–31.
+
+Ingolstadt – Die Herzogsstadt – Die Universitätsstadt – Die Festung, Hg. Theodor Müller und Wilhelm Reissmüller, 2 Bde, Ingolstadt 1974, darin:
+
+- Rupprecht, Bernhard, Akzente im Bau- und Kunstwesen Ingolstadts von der Ankunft der Jesuiten bis zum hohen 18. Jahrhundert, Bd 2, S. 256.
+
+- Sauermost, Heinz Jürgen, Die frühen Kirchengebäude, Bd 1 C - ( -
+
+Hofmann, Siegfried, Notizen zur Geschichte der Ausstattung der Ingolstädter Spitalkirche, 1605-1760, in: SHVI 80, 1971, S 45-49 Abb. S. 62 f.
+
+-, Zum Werk Ingolstädter Freskenmaler des 18. Jahrhunderts in: SHVI 82 1072 S 161-64.
+
+-, Die Hochaltäre in Böhmfeld, Kleinmehring, Demling und Zuchering sowie die Altäre in Großmehring, in: SHVI 85, 1976, S. 158–60.
+
+Historischer Atlas Ingolstadt, S. 56.
+
+Hofmann, Siegfried, Kirche des Hl.-Geist-Spitals Ingolstadt, KKF Nr 1500, 1085, S. 2f. 11-14f.
+
+-, Die ältesten Kirchen, in: Ingolstadt an der Donau, Hg. Siegfried Hofmann und Wilhelm Reissmüller, Ingolstadt 1986, 5. 50-52.
+
+- Maria de Victoria Ingolstadt, KKF Nr. 582, 81990, S. 2.
+
+-, Die Regeln des Hl.-Geist-Spitals in Ingolstadt von 1580 und 1724/30 – Zeugnisse gegenreformatorischen und barocker Denkens, in: SHVI 102/103, 1993/94, S. 344-53.
+
+Denkmaltopographie Ingolstadt, Bd 2, S. 438-43.
+
+Dehio 1990, S. 486; 2006, S. 525 f.
+
+Literatur zu den Emblemen:
+
+Rollenhagen, Gabriel, Nucleus Emblematum Selectissimorum. Bd I. Arnheim 1611, Nr. 73.
+
+Marraccius, Hippolytus, Polyanthea Mariana, Köln 1684, Lib XIV S. I.I.O.
+
+Ketten, von der, Johann Michael, Apelles Symbolicus, Amsterdam 1699, Teil II, Lib. XX, Nr. CXCIII.
+
+Hohberg, Wolfgang Helmhard, Emblematische Psalmen-Lust, das ist 150 Lehrreiche Sinnbilder ... II. Theil, Nürnberg 1725. Nr. 6.
+
+Zedler, Johann Heinrich, Großes vollständiges Universal-Lexikon, Bd 6, Halle und Leipzig 1733, Nachdruck Graz 1961, Sp. 862–866.
+
+Grimm, Jakob und Wilhelm, Deutsches Wörterbuch, Bd 5, Leipzig 1873, Sp. 562-565.
+
+Kemp, Ingolstadt Spitalkirche, S. 218–220.
+
+3. S./E. L.
+
+
+== FRANZISKANERKLOSTERKIRCHE ==
+
+
+Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt, Harderstraße 2
+
+{{End}}

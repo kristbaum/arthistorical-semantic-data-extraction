@@ -1,0 +1,121 @@
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=237
+|Originalseitenbis=240
+|Lemma=Reichertshofen, Pfarrkirche St. Margareta
+|Typ=Sakral
+|Ort=Reichertshofen
+|davor=Puch, Exposizurkirche St. Martin
+|danach=Scheyern, Benediktinerabtei
+|AutorIn1=Sauerländer, Brigitte
+}}
+
+Pfarrkirche, Markt Reichertshofen, Diözese Augsburg; z. Z. der Ausmalung Kapitel Neuburg. Bis 1690 waren Baar und Reichertshofen in einer Pfarrei vereinigt und kämpften immer wieder um ihre jeweilige Eigenständigkeit; beide wollten die ursprüngliche Mutterpfarrei sein. Von 1505–1803 gehörte Reichertshofen, seit 1449 Markt, zum wittelsbachischen Fürstentum Pfalz-Neuburg und war Sitz eines Pflegamts und eines Landgerichts. Das Präsentationsrecht hatte der Landesherr inne, z.Z. der Ausmalung Herzog Karl Theodor von Neuburg-Sulzbach (1742–99, ab 1777 zugleich Kurfürst von Bayern). 1817 kam Reichertshofen zum Kreis Schwaben und Neuburg, 1879 zum Bezirk Ingolstadt, 1972 zum Landkreis Pfaffenhofen
+
+'''Patrozinium:''' Das alte Marienpatrozinium wurde um 1725 durch das Patrozinium St. Margareta abgelöst. 1721 schenkte die Äbtissin des nahe gelegenen Benediktinerinnenklosters Hohenwart, Sabina Richildis von Wampl, der Reichertshofener Kirche eine Partikel der hl. Margareta. Anschließend gründete Pfarrer Johann Bartholomäus Lexius (1700–30) die St.-Margareta-Bruderschaft, die am 8. 6. 1724 von Papst Benedikt XIII. mit Ablässen ausgestattet wurde.
+
+'''Zum Bauwerk:''' Von der Kirche des 18. Jh. ist nur der geostete, im Kern spätgotische AR erhalten. 1930/31 wurde das LHs abgerissen und durch einen genordeten Neubau von Architekt Thomas Wechs ersetzt, der an seiner Ostseite den ehemaligen Chor als Seitenkapelle mit einbezieht. Baudatum 1472 auf einer Steintafel an der Nordwand des Turms (heute Innenwand der Sakristei) für die Grundsteinlegung der gotischen Kirche. Renovierungen 1655 und 1683, anschließend barocke Ausstattung und eine weitere Umgestaltung um die Mitte des 18. Jh. (Krahn 1963, S. 55f.). 1733 lieferte Johannes Buchtler, Hofmaurermeister in Neuburg, die Zeichnung für den Umbau der Kirche, der auch die Vergrößerung der Fenster betraf. Die Bauarbeiten verzögerten sich. AR, Empore und Sakristei waren 1751 fertig gestellt; der Umbau des (nicht mehr erhaltenen) LHs erfolgte 1765 (S. Hofmann, S. 179–81).
+
+Der heute als Seitenkapelle genutzte ehemalige AR (13 × 8,10m) öffnet sich in einem hohen Bogen zum modernen Kirchenschiff. Der dreijochige, dreiseitig geschlossene Raum hat als Wandgliederung Doppelpilaster mit flachen Kapitellen aus stuckierten Rocaillemotiven und darüber eine hohe umlaufende Gebälkzone. Helle Belichtung durch barocke Rundbogenfenster. Drei der insgesamt acht Fenster sind als Blindfenster gestaltet, zwei an der Nordwand, eines an der Südwand, nahe zum Anschluss an das Hauptschiff. Das Okulusfenster hinter dem Hochaltar ist vermauert. An der Stichkappentonne und über den Fenstern qualitätvoller, locker verteilter Stuckdekor mit asymmetrisch gesetzten, lang ausgezogenen Rocailleformen und eingestreuten Rosenblüten; gleichzeitig mit der Ausmalung zu datieren. Der Stuckator ist bisher unbekannt. In der Kirchenrechnung von 1751 ist die Stuckarbeit nicht aufgeführt. Ein Ingolstädter Bildhauer namens Anton Westermair erhielt dagegen für Bildhauerarbeit 22 fl. 30×. Nach Auffassung von Hofmann (S. 180f.) könnte Westermair auch als Stuckator in Frage kommen, wie das bei Bildhauern in Ingolstadt im 18. Jh. mehrfach der Fall war.
+
+1729 wurde das damalige Hochaltarbild, das die Himmelfahrt Mariens darstellte, durch ein Gemälde mit der Glorie der hl. Margareta von dem Neuburger Hofmaler Franz Anton Hagn ersetzt, für das er 45 fl. erhielt (Krahn, 1963, S. 43). Das Gemälde ist in einen Rokokoaltar aus der Zeit um 1750 eingelassen; Begleitfiguren sind die hll. Katharina und Barbara, die mit Margareta als ›Die drei heiligen Madln‹ zu den Vierzehn Nothelfern gehören.
+
+'''Auftraggeber:''' Pfarrer Johann Karl Banreder (1731–66) war zuständig für die Innenausstattung des Chors (1750) und des nicht mehr bestehenden Langhauses (1765). In seiner Amtszeit
+
+
+[[File:Band14_chunk005_p019_img001.jpg|thumb|Der frühere Chor der Kirche, jetzt Seitenkapelle]]
+<!-- citation-page-bottom: Band14 p237 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk005.pdf#page=20 -->
+<!-- citation-page-top: Band14 p238 -->
+
+<!-- header: REICHERTSHOFEN -->
+
+erhielt das Kircheninnere eine weitgehend neue Gestalt (Krahn 1963, S. 45, Hofmann, S. 181). Die St.-Margareta-Bruderschaft beteiligte sich nur einmal, im Jahr 1765, mit 200 fl. {ZITAT|000} (Bruderschafts-Rechnungen).
+
+'''Autor und Entstehungszeit:''' Franz Ignaz Frank (* unbekannt, 1737 Bürger in Ingolstadt, † gegen 1770 ebda?) 1750 Der schon bei Krahn und Hofmann genannte Maler ist aufgrund der Kirchenrechnung von 1751 gesichert: {ZITAT|001} (Hofmann, S. 180f.). Bildaufbau und Bildzusammenhang des sehr überarbeiteten Freskos lassen noch erkennen, dass der sonst nicht bekannte Freskant sein Handwerk verstand.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: flache Stichkappentonne, nach O abgemuldet
+
+Rahmen: ondulierter, verkröpfter Stuckprofilrahmen in Grautönen mit Goldinnenleiste, in den Hauptachsen von Stuck-Agraffen überlappt; 1-4 aus gedehnten Rocaillemotiven und C-Schwüngen zusammengefügte Kartuschen
+
+Technik: Fresko; polychrom, mit späteren Übermalungen Maße: Höhe 9,25 m; 7,20 × 4,05
+
+Erhaltungszustand und Restaurierungen: Auch das 1930 abgebrochene Langhaus war mit Stuck und Fresken geschmückt. Zwischen 1840 und 1850 wurde die Kirche mehrfach als ruinös, wurden die Deckenbilder als durch eindringenden Regen gefährdet bzw. verdorben bezeichnet. Man empfahl ihre Übertünchung (LRA 107559). 1851 fand eine Bausanierung statt (LRA 107560). 1856 wurde die Kirche geweißt, Stuckaturen ausgebessert und ein Teil der Fresken übertüncht, Werkführer war Michael Schwarzmair, Reichertshofen (LRA 107561). 1907/08 Restaurierung des AR durch Kirchenmaler Konrad Barth & Co., München. Gewölbe und Wände wurden von Leimfarben- bzw. Ölanstrich befreit und geweißt, der Stuckdekor ausgebessert und {ZITAT|002} gehalten (BLfD, Anweisung Haggenmiller), die Stuckblüten vervollständigt und wieder vergoldet. Im Fresko {ZITAT|003}; sie wurden durch Kunstmaler Marxer, München, erneuert. Eine Figur (Frau mit Kind links) malte er vollkommen neu. Die aus dem 19. Jh. stammenden Bilder der Vier Kirchenväter in den Stichkappen, die die emblematischen, auf Margareta bezogenen Bilder ersetzten, wurden neu gemalt (LRA 107558). Eine Erweiterung der Kirche war seit 1918 in Planung; das BLfD sprach sich gegen den Abbruch des Langhauses aus im Hinblick auf die besondere Raumwirkung, die er wie folgt beschreibt: {ZITAT|004} (Gutachten Pfister vom 14. 1. 1930).
+
+1958 Restaurierung durch Jakob Holderried, Pfaffenhofen Das Deckenbild wurde durch Michael Lutz, Eichenau bei München, gereinigt, von Übermalungen befreit und verschiedene Partien eingestimmt. Die ursprüngliche Tönung des Stucks wurde freigelegt, die Kartuschen der Stichkappen übertüncht. Letzte Restaurierung 1980 durch Bernd Holderried, Pfaffenhofen. Die sechs gelb getünchten, schmalen Zwickelkartuschen am Gewölbe enthielten keinerlei Darstellungsreste (BLfD, Mitt. Bernd Holderried)
+
+Der heutige Zustand bietet eine Bildoberfläche, die kaum noch barocke Struktur besitzt, da sie größtenteils aus neuzeitlichen Ausbesserungen besteht. Die Malerei ist etwas schmierig, ungewisse Partien sind großflächig eingestimmt, die Faltenbildung der Gewänder ist weitgehend verwischt, Körper und Gesichter sind z. T. nur noch geringfügig artikuliert.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Der stark ondulierte längsovale Stuckrahmen von Fresko A erstreckt sich über die drei Achsen des AR und ist umrundet von zartgliedrigem Stuckdekor in abgestuften Grautönen mit Rücklageflächen in hellem Gelb, Rosa und Kupfergrün, der Zwickel und Stichkappen füllt. Die Bekrönungen der beiden mittleren Stichkappen und der flankierenden Bildkartuschen übergreifen leicht den Hauptrahmen, der zur weiteren Stützung durch eine größere Stuckagraffe mit der westlich anschließenden Hl.-Geist-Öffnung verbunden ist.
+
+DIE HL. MARGARETA ALS PATRONIN Einansichtige, geostete Darstellung. Das zentralperspektivisch angelegte Bild ist in zwei Hälften geteilt, in irdische und himmlische Zone, deren jede ihren eigenen Augpunkt hat. Der Schnittpunkt der Vertikalen der irdischen Zone liegt innerhalb der darüber befindlichen Figur der hl. Margareta, derjenige der himmlischen Zone etwas außerhalb des westlichen Bildrandes. Im irdischen Bereich ist die Gruppe der Bittflehenden über einem knappen Bodenstreifen als Halbkreis angeordnet. Ausgehend von den nahen Vordergrundfiguren sind die weiteren, am nördlichen und südlichen Bildrand aufsteigenden Figuren hintereinander, sowie bildeinwärts hin gestaffelt. Den Übergang zum himmlischen Bereich bildet eine dreieckige, mit der Spitze nach unten gerichtete Wolkenformation, auf deren oberer Breitseite die hl. Margareta steht. Ihr ausgebreiteter Schutzmantel bildet ein gegengerichtetes Dreieck. Die Gestalt der Heiligen wird von einem Zug von Engeln und Putten umfangen. Ein heller Glorienschein umgibt Margaretas Oberkörper, ihre hochgehaltenen Attribute, Handkreuz und Palmzweig, heben sich silhouettenhaft gegen die Lichtscheibe ab. Aus dem von zwei Engeln weit ausgebreiteten Schutzmantel kriecht der am Hals angekettete Drachen.
+
+Das Zentrum der Bittstellergruppe bilden drei Vordergrundfiguren: in der Mitte eine kniende junge Frau in Rückansicht, die Arme flehend erhoben; links von ihr, als verkürzte
+
+
+[[File:Band14_chunk005_p020_img001.jpg|thumb|Hl. Margareta als Patronin (Franz Ignaz Frank? 1750)]]
+<!-- citation-page-bottom: Band14 p239 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk005.pdf#page=21 -->
+<!-- citation-page-top: Band14 p240 -->
+
+
+== REICHERTSHOFEN ==
+
+
+Rückenfigur, ein kranker, nur halb bedeckter Mann auf einer abgestellten Trage; rechts von ihr ein älterer, als Profilfigur am Boden gelagerter Kranker, dessen Körper auch nur teilweise mit einem Laken bedeckt ist. Seine Rechte stützt sich auf einem Stock. Vor ihm lagert, als kleine Repoussoirfigur, ein gehbehinderter Knabe mit einem Krückstock. Hinter dem bärtigen Kranken steht ein weiterer alter Mann in einem weißem Hemd, der ein Pestglöckchen schwingt. Zu beiden Seiten folgen Frauengestalten. Links erkennt man eine Frau mit Haube, die ein flammendes Herz emporhält, hinter ihr steht eine junge Mutter mit einem Säugling auf dem Arm. Rechts kniet eine bildeinwärts gewandte Rückenfigur, die gefalteten Hände im Gebet erhoben. Am Bildrand über ihr ist der Umriss eines brennenden Hauses zu erkennen.
+
+Die hl. Margareta war eine Jungfrau aus vornehmem Geschlecht, geboren in Antiochien. Nach der legendären Vita wurde sie Anfang des 4. Jh. unter Diokletian enthauptet, nachdem sie mehrfache Martern durchlitten hatte. Sie ist hier dargestellt als vornehme Jungfrau mit Krone und Perlenkranz im offenen Haar (margarita = Perle). Der Drache (= Teufel) zu ihren Füßen erschien ihr nach der einen Version im Gefängnis und sie bannte ihn mit dem Zeichen des Kreuzes, nach der anderen verschlang sie der Drache im Gefängnis und auf das Zeichen des Kreuzes hin barst sein Körper und gab sie unversehrt wieder frei (LCI, Bd 7, Sp. 494-500, LA-Benz, S. 464). Vergleichbar dem Schutzmantel Mariens ist hier Margaretas Mantel weit ausgespannt wie ein schutzbringendes Zelt, deutlicher Hinweis auf ihre Funktion als Patronin der ihr geweihten Bruderschaft. Auch im Hochaltargemälde ist Margareta als Nothelferin dargestellt. Rechts im Bild sitzt eine Mutter mit einem gewickelten Säugling im Arm, zu ihren Füßen steht eine Wiege. Ein Putto mit einer Fanfare, an welcher eine Fahne mit der Inschrift PATRONA/PARTURIEN/TIUM hängt, bezeichnet Margareta als Schutzpatronin der Gebärenden.
+
+
+== Ehemalige Kartuschenbilder ==
+
+
+Die in der Grundform ovalen, relativ breiten und stark ondulierten Bildkartuschen sind in den flankierenden Deckenzwickeln angeordnet. Von den heute ockerfarben zugetünchten ursprünglich auf Margareta bezogenen Darstellungen sind nur noch die gemalten Schriftbänder am oberen Rand vorhanden, Anrufungen auf die hl. Margareta (von NW im Uhrzeigersinn):
+
+VIRGINI (der Jungfrau) VICTRICI (der Siegerin) AUXILIATRICI (der Helferin) MARTURI (= Martyri; der Märtyrerin)
+
+
+== Quellen und Literatur ==
+
+
+Pfarrarchiv Reichertshofen: Fasc. 6, Alte Bruderschafts-Rechnungen v.J. 1731-53, 1755-66, 1805, 1806 (hier zitiert: 35. Rechnung vom Jahre 1765).
+
+StAM, LRA 107559: Acta Die Baufälle bey der Pfarrkirche zu Reichertshofen betreffs, 1840–50; LRA 107560: Acta Die Bau fälle bey der Pfarrkirche zu Reicherzhofen betreffs, 1850-53; LRA 107561: Acta Baufälle an der Pfarrkirche zu Reichertshofen betreffs, 1856–60; LRA 107558: Akten des kgl. Bezirksamtes Ingolstadt. Betreff: Innenrestauration der Pfarrkirche Reichertshofen 1907.
+
+Mayr, Johann Leonhard, Moderna Ecclesia Augustensis, sive Dioecesis Augustana in suis Locis, Ecclesiis... Breviter Descripta, Augsburg 1762, S. 253.
+
+Braun-Augsburg Bd 1, S. 457, Bd 2, S. 133, 274.
+
+(o.V.), Das ehemalige Gericht Reichartshofen, in: = Collectaneenblatt für die Geschichte Bayerns, insbesondere für die Geschichte der Stadt Neuburg a.d. Donau 7, 1841, S. 48, 5○ I.
+
+(o.V.), Monographien der im ehemaligen Gericht Reichertshofen gelegenen Orte, in: ebda. 8, 1842, S. 16–25.
+
+Steichele-Schröder Bd 4, S. 834.
+
+Hopp, Pfründe-Statistik Bd 1, S. 218, Bd 2, S. 65–67, 79.
+
+Reischl, Georg August, Markt Reichertshofen an der Paar Kulturgeschichtliche Beiträge aus Bruchstücken einer alter Chronik, in: Ingolstädter Heimatgeschichte (= Beilage zum Donaukurier) 3, 1931, Nr. 1, S. 6–8.
+
+Kuhn, Hanns, Die Alt-Ingolstädter Maler (vom 15. –18. Jh.) in: SHVI 57, 1939, S. 108f., 140.
+
+Krahn, Gerhard, Kunstdenkmale im Markt Reichertshofen in: Ingolstädter Heimatblätter (= Beilage zum Donaukurier 19, 1956, Nr. 10/11, S. 41f.
+
+Heider, Josef, Landvogtamt und Landgericht Neuburg an der Donau... Amt Reichertshofen... (verfasst als Vorarbeit zum Historischen Atlas des Landvogtamts Neuburg an der Donau und des Pflegamts Reichertshofen), in: Neuburger Kollektaneenblatt (Jahresschrift des Heimatvereins Neuburg/Donau) 113, 1960, S. 30–33.
+
+Krahn, Gerhard, Chronik von Reichertshofen, Ingolstadt 1963.
+
+Hofmann, Siegfried, Zum Werk Ingolstädter Freskenmaler des 18. Jahrhunderts, in: SHVI 82, 1973, W. 179-81, 184. Historischer Atlas Ingolstadt, S. 311, 330f., 389. Pötzl, Kultgeographie des Bistums Augsburg, S. 56. Denkmaltopographie Pfaffenhofen, S. 220f. mit Abb. Dehio 2006, S. 1102. Kratzsch 2006, S.70f.
+
+{{End}}

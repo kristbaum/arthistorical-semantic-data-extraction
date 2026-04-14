@@ -1,0 +1,158 @@
+{{Artikel
+|Band=14
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=145
+|Originalseitenbis=150
+|Lemma=Ingolstadt, Decke des sog. Illuminatensaals
+|Typ=Profan
+|Ort=Ingolstadt
+|davor=Ingolstadt, Sog. Orbansaal im Jesuitenkolleg
+|danach=Etting, Pfarr- und Wallfahrtskirche St. Michael
+|AutorIn1=Grimminger, Christina
+}}
+
+Ursprünglich rechteckiger (7,5 × 6,4 m), hoher (7,2 m) Saal (Maße nach Umbauplan von 1945) im rückwärtigen Teil des Anwesens Theresienstraße 23. In der Hohen Schule findet sich die Stuckdecke im mittleren Zimmer der südlichen Raumfolge des ersten Obergeschosses; hier rechteckiger Saal (7,5 × 5,8 m).
+
+'''Auftraggeber:''' Johann Adam Morasch (* 1682 Pöttmes † 1734 Ingolstadt). Nach Schulausbildungen in Ingolstadt, Neuburg a. d. D. und Freising studierte Morasch zunächst in Wien, wo er in Abraham a Sancta Clara, einem der bedeutendsten Prediger der Barockzeit, einen Förderer fand, danach in Dillingen und Ingolstadt. Nach ersten beruflichen Tätigkeiten (1705 Stadtphysikus in Herrieden, 1707 fürstbischöflicher Leibarzt in Eichstätt) wurde er 1708 als außerordentlicher Professor und 1710 zum Ordinarius für Anatomie und praktische Medizin an der Universität Ingolstadt ernannt. Morasch gilt als durchsetzungsfähiger und unermüdlicher Reformer der medizinischen Fakultät, deren Ruf durch ihn stieg. Er setzte sich für die Verbesserung der Lehr- und Studienbedingungen ein (Aufbau einer eigenen medizinischen Bibliothek, Errichtung einer Anatomie und eines botanischen Gartens für Unterrichtszwecke). Allerdings beschwor er durch sein Eintreten für neue Strömungen die Kritik der Jesuiten herauf, weshalb es zum >Bellum atomisticum an der Universität Ingolstadt kam. 1727/28 veröffentlichte er die Vorlesungen und Manuskripte seines akademischen Lehrers, des Jesuiten Joseph Anton Kleinbrodt, in zwei Bänden mit dem Titel »Philosophia atomistica«. Der dadurch ausgelöste Streit kulminierte 1732 mit der Verweigerung der Dissertation seines Schülers Franz Josef Grienwaldt, die von Moraschs Medizinkollegen und zeitweiligem Erzfeind Johann Jakob Treyling betrieben wurde. Als einer der ersten sezierte Morasch Leichen in Ingolstadt, weshalb er seit 1710 die Errichtung einer Anatomie initiierte, zu deren Grundsteinlegung es schließlich 1723 kam (s. S. 105).
+
+'''Autor und Entstehungszeit:''' Unbekannt, 1722/34
+
+Bislang wurde die Entstehung der Stuckdecke der Zeit »um 1780« zugeordnet. Man nahm an, dass der Illuminatenorden, der den Raum in dem Rückgebäude 1783-85 angemietet hatte, den Versammlungsraum neu eingerichtet hatte. Der Saal samt Stuckdecke bestand damals jedoch schon und geht auf Initiative des früheren Besitzers des Anwesens, den Ingolstädter Medizinprofessor Johann Adam Morasch, zurück, wie Eva Langenstein erstmals erkannte.
+
+Der Terminus post quem 1722 orientiert sich am Autor der Stuckdecke, die stilistisch dem Werk des Ingolstädter Stuckators Wolfgang Zächenberger zugeschrieben werden kann. Sie kann erst 1722, im Jahr der Aufnahme Zächenbergers als Bürger und Stuckator in Ingolstadt (Hofmann 1976) hergestellt worden sein. Der Terminus post quem ergibt sich durch das Todesjahr Moraschs.
+
+== Befund ==
+
+Träger der Deckenmalerei: Flachdecke über Hohlkehle
+
+Rahmen: mehrfach profilierter Stuckrahmen
+
+Technik: unbekannt
+
+Maße: Höhe 3,20 m; 4,10 × 2,00
+
+Erhaltungszustand und Restaurierungen: Das Bildfeld ist weiß übertüncht; lediglich an zwei Stellen sind kleinformatige Freilegungen zu konstatieren. Wann das Deckengemälde übertüncht wurde, ist unklar. Frühere Zustände dokumentieren eine Zeichnung aus der Zeit vor bzw. von 1903 und ein Foto, das vor der Übertragung in die Hohe Schule aufgenommen wurde. Man darf wohl von einer Bemalung des Bildfeldes zur Zeit der Entstehung ausgehen. 1903 kaufte laut rückseitiger Beschriftung der Historische Verein Ingolstadt eine großformatige Tuschzeichnung, die der Dresdner Maler Oskar Rothe von der Stuckdecke – damals noch im Anwesen Theresienstraße 23 – angefertigt hatte (Stadtmuseum Ingolstadt, Graphische Sammlung II/36a, 55 × 39,5 cm, bez. gez. v. O. Rothe). Eine Dresdner Vereinigung hatte sich für die Restaurierung eingesetzt
+<!-- citation-page-bottom: Band14 p145 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=24 -->
+<!-- citation-page-top: Band14 p146 -->
+
+<!-- header: INGOLSTADT -->
+
+
+[[File:Band14_chunk003_p024_img001.jpg|thumb]]
+
+
+die wohl 1903 stattgefunden hat. Ob Rothe den Zustand vor oder nach der Restaurierung dokumentierte, ist unklar. Ebenso unklar ist, ob 1907 als das Gebäude zu einer Synagoge umgebaut worden war, Maßnahmen an dem Deckenbild vorgenommen wurden. Für das Jahr 1925 – die Decke befand sich immer noch in der Theresienstrasse – ist eine Restaurierung des Deckenbildes überliefert. Das auf dem Foto dokumentierte Deckengemälde zeigt den Akademischen Kunststil um 1925. Die Decke überdauerte die Pogromnacht vom 9. 11. 1938, bei der das Innere der Synagoge zerstört wurde. 1942 wurde die Stuckdecke in 12 Teile zersägt und erstmals in die Hohe Schule transferiert, 1945 wieder in die Theresienstrasse 23 überführt und in der wiederhergestellten Synagoge eingebaut, kurze Zeit später jedoch erneut in die Hohe Schule gebracht, wo sie bis heute verblieb. Der bei der Neuausstattung beratende Rabbine befand das Bildprogramm der Decke als mit dem jüdischen Kultus nicht vereinbar, insbesondere die Nasenschleifer-Szene. In der Hohen Schule fand in den 1990er-Jahren eine umfassende Sanierung statt. Das Deckenbild dürfte zuvor übertüncht worden sein.
+
+
+== Beschreibung und Ikonographie der Stuckdecke ==
+
+
+Die Stuckdecke gliedert sich in ein großes längsrechteckiges Deckenfeld und umgebende Stuckdekoration. Letztere besteht aus Laub- und Bandwerkformationen mit Lambrequins, Schabracken sowie groteskenähnlichen Mischwesen und Phantasiegebilden. In den Achsen des Plafonds sind insgesamt acht ovale Felder mit szenischen Darstellungen eingeschoben. Dabei bilden die Darstellungen in den Mittelachsen je ein Paar, diejenigen in den Querachsen ein Quartett.
+
+Die beiden hochovalen Felder in der Mittelachse der Schmalseite zeigen Sinnbilder auf und werden von je einer Vogeldarstellung bekrönt.
+
+Auf der einen Seite (auf der Rothe-Zeichnung am Kopfende des Deckenbildes) sind im Medaillon ein Professor im Talar mit drei Tieren und darüber ein Adler mit ausgebreiteten Flügeln dargestellt. Der sitzende Professor umfängt mit der einen Hand eine Katze auf seinem Schoß; von den beiden Hunden am Boden füttert er einen, während der andere sein Maul in einen Hundetrog steckt. Die Darstellung lehnt sich stark an eine Illustration der 1669 in Mainz von Jakob Bornitz veröffentlichten »Emblemata ethico politica« (Nr. 15 der Sylloge II) an und weist den Weg für die Deutung des Stuckbilds. Als Pictura zeigt das Emblem einen am brennenden Kamin sitzenden Greis, der eine Katze, die auf seinem Schoß sitzt, streichelt. Am Boden sitzt daneben ein Hund, der das Geschehen eifersüchtig beobachtet. Als Motto wählte Bornitz das lateinische Sprichwort »Amare liceat si potiri non licet« (»Wenn man es schon nicht haben darf, soll man es doch lieben dürfen«), das aus der Apologia des antiken Schriftstellers und Philosophen Lucius Apuleius überliefert ist; dessen Eingang in die Anthologia Latina (Nr. 712,1) des Philologen Adam Riese 1868 dokumentiert seine Beliebtheit durch die Jahrhunderte. Die Subscriptio des Emblems bei Bornitz lautet auf deutsch »Lieb haben steht eim jeden frey/Ob gleich kein Gniß und Gwin darbey«. Der Kommentan erklärt die Zweckfreiheit der Liebe. Ein gravierender Unterschied in den beiden Vergleichsbildern erklärt, was der Auftraggeber mit dem Stuckbild aussagen wollte. Die Emblemillustration zeigt einen alten Mann, der allgemein die Summe aller Lebenserfahrungen versinnbildlicht. Der Kommentar »Amor à naturâ homini est insitus« (»Die Liebe ist eine dem Menschen angeborene Natur«) macht deutlich, worum es hier geht, nämlich um die Liebe, die der greise Mann, da er eben weise geworden ist ohne jegliche Gedanken an eine Gegenleistung, eben völlig in Freiheit vergibt. Die Darstellung in Stuck jedoch stellt einen Professor vor und somit ist hier nicht die Freiheit der Liebe, sondern die Freiheit der Lehre gemeint.
+
+Den oberen Rand des Stuckmedaillons umkrallt ein Adler. Als König der Vögel versinnbildlicht er als höchstes Gut die Freiheit des Menschen (vgl Henkel/Schöne Sp.754 s. v. Vogel), daneben aber auch alle herausragenden und wichtigen Tugenden wie Kühnheit, Tapferkeit, Stolz, Kraft, Ausdauer, Schnelligkeit und Scharfsichtigkeit (Henkel/Schöne Sp. 757-780 s. v. Adler).
+
+2 Auf der gegenüberliegenden Seite steht das Thema »Nase« im Mittelpunkt. Während die szenische Darstellung das »Nasenschleifen« illustriert, handelt es sich bei der Darstellung des Schwanes, dessen Brust als Menschenkopf gestaltet ist und der sich mit dem Schnabel an die Nase fasst, um den »Vogel Selbsterkenntnis«. Beide Motive beruhen auf sprichwörtlichen Redensarten, deren Verbildlichung sich der »populären Druckgraphik« verdankt. Vorlage des »Nasenschleifers« in Ingolstadt dürfte ein Blatt aus der Werkstatt des Briefmalers Abraham Bach d. Ä. sein (Abb. in: Dorothy Alexander und Walter L. Strauss, The German Single-Leaf Woodcut 1600–1700, Bd 1, New York 1977, S. 64, Nr. 29). Wie die Inschrift besagt, behandelt der Nasenschleifer Leute mit einer großen Nase, was sprichwörtlich so zu verstehen ist, dass diese Leute in alles ihre Nase stecken. Unmissverständlich umschreibt es der Titel eines Blattes aus der berühmten Druckerei Remondini in Bassano gleichen Inhalts, das im 18. Jh. gedruckt wurde: »Noi Macrobio culaccione« (Wir, Macrobio Riesenarsch). Hinsichtlich des fäkalen Vorgangs ist anzumerken, dass die Redewendung »auf etwas scheißen« die größtmögliche Verachtung einer Sache ausdrückt. Die Tierallegorie darüber taucht in Augsburger Bilderbogen im letzten Drittel des 17. Jh.s auf und erlebte im 18. Jh. eine Blütezeit, bekannt sind Erzeugnissen der Volkskunde, sie fand
+
+
+[[File:Band14_chunk003_p024_img002.jpg|thumb|Die Decke des Illuminatensaals, Photographische Aufnahme um 1925, Ingolstadt, Stadtmuseum]]
+<!-- citation-page-bottom: Band14 p147 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=25 -->
+<!-- citation-page-top: Band14 p148 -->
+
+<!-- header: INCOLSTADT -->
+
+
+[[File:Band14_chunk003_p025_img001.jpg|thumb]]
+
+
+
+[[File:Band14_chunk003_p025_img002.jpg|thumb]]
+
+
+
+[[File:Band14_chunk003_p025_img003.jpg|thumb]]
+
+
+
+[[File:Band14_chunk003_p025_img004.jpg|thumb]]
+
+
+aber auch Eingang in Barockkirchen. Ein der Ingolstädter Stuckdecke zeitlich nahe stehendes Beispiel aus dem Bereich der Bildhauerei ist der fast lebensgroße Atlant in der 1726 fertiggestellten Bibliothek des Zisterzienserstiftes Waldsassen, wo der Kopf der Personifikation der Heuchelei als »Vogel Selbsterkenntnis« gebildet ist. Der »Vogel Selbsterkenntnis« setzt eine Redensart um: »Nimm dich selbst bei der eigenen Nase« (vgl. Lutz Röhrich, Das große Lexikon der sprichwörtlichen Redensarten Freiburg 1992, Bd 2, S. 1078-84 s. v. Nase mit Abb.; Bd 3, S. 1312f. s.v. scheißen, S. 1362 ff. s. v. schleifen mit Abb. Macrobio Riesenarsch). Interessant ist, dass das Nasenschleifen heute noch ein Fastnachtsbrauch in Meßkirch ist und dass Abraham a Sancta Clara, der Lehrer Moraschs in Wien, 1644 als Johann Ulrich Megerle in Kreenheimstetten bei Meßkirch geboren wurde. Da einer der Ingolstädter Nasenschleifer eine Narrenkappe in Stuck trägt, ist es nicht abwegig, Megerle als Übermittler des Nasenschleifer-Motivs zu sehen.
+
+In dem Sinnbilder-Paar des Nasenschleifers samt dem »Vogel Selbsterkenntnis« und dem Professor mit dem Adler in den Längsachsen des Deckenbildes steckt die Hauptaussage der Stuckdecke. Auf der einer Seite die Aufforderung, sich auf sich selbst zu konzentrieren, auf der anderen Seite der Wunsch nach Freiheit.
+
+3-6 Vier Kardinaltugenden Die runden Felder der Ecken stellen je eine weibliche sitzende Figur mit einem Attribut vor und sind demnach als Personifikationen aufzufassen. Eindeutig benennbar sind die Darstellungen, die das Medaillon mit dem Professor rahmen. Links von ihm ist die Tapferkeit (Fortitudo) mit einer Säule und rechts die Gerechtigkeit (Iustitia) mit Waagschale und einem Putto mit Rutenbündel zu erkennen. Dies lässt darauf schließen, dass in den Medaillons die Vier Kardinaltugenden dargestellt sind und somit dürfte es sich bei den beiden anderen Personifikationen um Prudentia/Klugheit und Temperantia/Mäßigung handeln.
+
+7–8 Die querovalen Felder in den Mittelachsen sind mit Puttenszener geschmückt. Sie zeigen zwei Putten beim Vogelfang bzw. einen Putto bei der Fruchternte. Puttendarstellungen solcher Art dienten häufig als Ausschmückung von Laub- und Bandlwerkdekorationen ohne sinnbildliche Erklärung (vgl. Rudolf Berliner und Gerhart Egger [Hg.], Ornamentale Vorlageblätter des 15. bis 19. Jh.s, 3 Bde, München 1981, Bd 3, Nr. 1225). Jedenfalls greift keine Deutung als Vier Jahreszeiten oder Vier Elemente.
+
+
+== Rekonstruierende Beschreibung des verlorenen Deckenbildes ==
+
+
+GÖTTERVERSAMMLUNG (nach der Zeichnung von Oskar Rothe und dem Photo vor der Transferierung) Himmelsszenerie über Landschafts- bzw. Meeresdarstellung in einansichtiger Bildkonzeption. Den einleitenden schmalen Bildstreifen nimmt eine ebene Meeresfläche ein, in der vier Zwittergeschöpfe stehen und auf Muschelhörnern blasen. Diese Tritonen und Nereiden sind das Gefolge des Meeresgottes Neptun. Am linken Bildrand formiert sich ein Felsengrund mit einem Baum. Auf der über dem Meer sich erhebenden Wolkenbank sitzen mehrere bekleidete bzw. halbnackte Personen. Es handelt sich um eine Götterversammlung, denn an den Attributen Lanze, Dreizack und Sense sind Mars, Neptun und Saturn identifizierbar. Das obere Drittel des Bildfeldes nimmt eine
+
+14
+<!-- citation-page-bottom: Band14 p149 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=1 -->
+<!-- citation-page-top: Band14 p150 -->
+
+<!-- header: INGOLSTAD -->
+
+ETTING
+
+weitere Wolkenformation ein, in der der bekrönte Jupiter mit Zepter in der linken und Blitzbündel in der rechten Hand thront. Ihm zur Seite sitzt ein Schwan
+
+Die Zeichnung Oskar Rothes von 1903 dokumentiert gegenüber dem Foto einige Veränderungen, die möglicherweise ein authentischeres Bild des barocken Zustands geben. Im Meer stehen nur ein Triton und eine Nereide, der Baum links ist nicht belaubt, rechts ist im Hintergrund eine Felsenküste zu erkennen. Die Götterversammlung zeigt lediglich neun Personen auf, die Mitte ist frei. Ungewöhnlich ist die Kombination des Schwanes bei Jupiter, der allerdings zweifelsfrei mit Blitzbündel, Krone und Zepter wiedergegeben ist.
+
+
+== Ikonologie ==
+
+
+Das Bildprogramm formuliert die Position des Auftraggebers Johann Adam Morasch zur Zeit des Bellum Atomisticum an der Universität Ingolstadt. Morasch war der massiven Kritik durch die Jesuiten ausgesetzt, zudem herrschten Kompetenzstreitereien innerhalb der medizinischen Fakultät. All dies fand seinen Höhepunkt in der zeitweiligen Amtsenthebung Moraschs und der Dissertationsverweigerung seines Schülers. Mit den beiden Haupt-Sinnbildern mahnt Morasch seine Gegner zur Selbstkritik, während er für sich selbst die Freiheit für die Lehre fordert. Eine Narretei könnte sich Morasch nicht nur mit dem Nasenschleifer-Motiv erlaubt haben. Merkwürdig ist, dass neben Jupiter in der Götterversammlung ein Schwan sitzt, gebührt doch dem König der Götter als begleitendes Tier der König der Vögel, eben der Adler. Falls Jupiter auch im barocken Zustand des Deckengemäldes ein Schwan beigegeben war wäre dies tatsächlich eine Narretei. Ob Morasch hier bewusst eine Verwechslung inszeniert hat? Der Schwan kommt in der Stuckdecke ein zweites Mal vor und zwar über der Nasenschleifer-Szene, wo er sich selbst an der Nase zupft. Und der Adler, eigentlich das Attribut von Jupiter, breitet über dem Professor und damit über Morasch seine Flügel aus Ob Morasch mit der Verwechslung andeuten will, dass das Sagen – also die Rolle Jupiters - im Prinzip die Narren innehaben? Möglich wäre es durchaus. Angesichts der Tatsache, dass Morasch auch die Disputationstradition wiederbelebt hat und hierbei neben fachspezifischen Themen auch einige sehr haarsträubende Themen diskutiert wurden, etwa ob Adam und Eva als erstes Menschenpaar mit einem Nabel gemalt werden dürfen oder nicht, scheint eine derart versteckte und ungewöhnliche Verbildlichung zeitgenössischer Querelen durchaus möglich.
+
+
+== Quellen und Literatur ==
+
+
+BLfD, Ortsakt Ingolstadt, Hohe Schule
+
+Ostermair, Franz Xaver, in: SHVI 15, 1890, 2, Pag., S. 9
+
+Friedmann, A., Das Deckengemälde im Illuminaten-Saale, jetzt israelitisch Betsaal zu Ingolstadt, in: Unterhaltungsblatt zur Ingolstädter Zeitung vom 13.12.1925.
+
+Pölnitz, Götz von, Denkmale und Dokumente zur Geschichte der Ludwig-Maximilians-Universität Ingolstadt, Landshut, München, Müncher 1942, Abb. 13 und S. 58.
+
+Schwäbl, Franz, Die kuriosen Umzüge der Stuckdecke des Illuminatensaales, in: IH 12, 1040, S. 17f.
+
+Obermeier, Rudolf, Die Universität Ingolstadt. Köpfe – Begebenheiten Ingolstadt 1959, S. 131–34 mit Abb. zwischen S. 120 und 121.
+
+Müller, Rainer A., Studium und Studenten an der Medizinischen Fakultät der Universität Ingolstadt im 18. Jh., in: SHVI 83, 1974, S. 187-240
+
+Hofmann, Siegfried, Die Hochaltäre in Böhmfeld, Kleinmehring, Demling und Zuchering sowie die Altäre in Großmehring, in: SHVI 85, 1976. S. 149–166, hier: S. 158ff, (Wolfgang Zächenberger).
+
+Hofmann, Siegfried, Ingolstadt an der Donau, Ingolstadt 1986, S. 191f. Habrich, Christa, Morasch, Johann Adam und Treyling, Johann Jakob in: Laetitia Boehm, Winfried Müller, Wolfgang J. Smolka und Helmut Zedelmaier (Hg.), Biographisches Lexikon der Ludwig-Maximilians Universität München. Teil I: Ingolstadt-Landshut 1472–1826, Berlin 1998, S. 284ff., 441f.
+
+Reinhardt, Kay, Die Universität Ingolstadt, in: Ingolstadt – vom Werden einer Stadt. Geschichten und Gesichter (= Bildband zur Ausstellung 5. 5.- 3. 9. 2000 im Klenzepark in Ingolstadt), S. 68–119, hier: S. 116f.
+
+Denkmaltopographie Ingolstadt Bd 1, S.110–15 mit Abb. S.115 (Goldknopfgasse 7), Bd 2, S. 470f. mit Abb. und Umbauplänen 1873, 1907 (Theresienstrasse 23).
+
+Schreyögg, Walter, Die Illuminaten des Adam Weishaupt – ein Missverständnis?, in: Globulus 9, 2001, S. 96–101 und rückw. Umschlagblatt. Langenstein, Eva, Die sogenannte »Illuminaten-Decke« in der Hoher Schule. Zu ihrer Herkunft und Entstehungsgeschichte, in: IH 67, 2004. Dehio OB, 2006, S. 535f.
+
+Hager, Angela und Hans-Christof Haas, Ingolstadt, in: Wolfgang Kraus, Berndt Hamm und Meier Schwarz (Hg.), Mehr als Steine ... Synagogen- Gedenkband Bayern, Bd I, Lindenberg 2007, S. 351-359 (mit Abb. von Umbauplänen 1907, 1945; Außenansicht 1988).
+
+Grimminger, Christina, Illuminaten und Narren. Eine kuriose Geschichte um Nasenschleifer und einen Geheimbund, in: Der Sonntag, Wochenendbeilage des Donaukurier vom 21./22. Februar 2009.
+
+-, Der Medizinprofessor Johann Adam Morasch und die Bilderwelt der »Illuminatendecke« in der Hohen Schule zu Ingolstadt. Barocke Sinnbildsprache statt aufgeklärte Geheimzeichen, in: SHVI 118, 2009 (Druck in Vorbereitung).
+
+Pfarr- und ehemalige Wallfahrtskirche, Stadt Ingolstadt, Diözese Eichstätt. Zur Zeit der Ausmalung Gericht Etting-Stammham bzw. 1692–1700 Pfleggericht Vohburg.
+
+{{End}}
