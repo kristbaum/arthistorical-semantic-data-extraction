@@ -1,0 +1,28 @@
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=468
+|Originalseitenbis=469
+|Lemma=Embleme-Register (Band 13)
+|davor=Ikonographisches Register (Band 13)
+|danach=
+}}
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk010.pdf#page=10 -->
+<!-- citation-page-top: Band13 p468 -->
+
+== Embleme-Register ==
+
+
+Der Übergang zwischen Emblemen und häufig auftretenden emblemähnlichen Darstellungen ist fließend. Die Aufnahme ins Register erfolgte nach Ermessen.
+
+BILDMOTIVE Adler 300f., 406 Ampel 406 Arche Noe 22, 428, 434 Arzneigefäße 407 Auge Gottes in Wolkenkranz 310, 432, 434 Augustiner-Regelbuch 407 Basilisk 417f. Baum 304, 442 Bienen, Lamm und Vögel 418 Bienenkorb 406 Birnbaum mit Früchten 442 Blasebalg 424 Buchstabe B 284, 358 Dankopfer Noes 428, 434 Dornenkrone und Kranz 432, 434 Engel 405-08 Fernrohr 408 Flamme zwischen Wolken 302 Gartenparterre 310 Gefällter Baum 310 Hand löscht Zahlen auf einer Tafel 311 Hand öffnet mit einem Schlüssel 310 Herz Jesu 167f., 432, 434 Herz mit Sonne 424 Huhn auf einem Baum, darunter fünf Küken 304 Hund 420f. Jahwe 406 Januskopf 418 Kamel 420f. Kirchenplan 407 Kreuz mit dem Herzen Jesu auf dem Weg des Lebens 168 Lamm 408 Leuchtturm 168, 312, 406 Lilie unter Dornen 22 Luna im Gespann 405 Magnetstein 303 Maria inmitten eines Gartens 22 Maria inmitten von Engeln 22 Marienmonogramm 418 Mond empfängt Licht von Sonne 300 Mond mit Sternen 302, 368 Monstranz 306 Münzen und Prüfstein 309 Orgel 407 Palme 358 Pegasus 408 Pelikan und Storch 409 Phönix aus der Asche 358 Putten mit Kreuz 420 Putto mit Herz Jesu, Kandare und Zügel 168 Regenbogen über Gebirgslandschaft mit Burg 3031. Ruhm und Armut 420 Schießscheibe 416, 418 Schiff 301, 419, 442 Schreibender Mann 408
+
+Sense 309 Sonne 284, 300, 304, 309, 350, 358, 368 Sonnenuhr 418 Spiegel 417f. Stadtmauer um Stadt 356 Taube des Heiligen Geistes 424 Thron über Leidensweg 432, 434 Totenkopf im Spiegel 312 Turmmonstranz 306 Uhr 309 Waage 407 Weihrauchfass 419f. Weinstock um Bäumchen 406 Zeder in Gartenanlage 22 Zelte 424 Zirkel über Stein 358 LATEINISCHE LEMMATA A sacro corde 418 Accipe hereditatem 300 Ad notam 408 Aemula solis 302 Angelis admirabilis 306 Animam meam 300 Animantur ab uno 406 Aut occidit aut occidit 417 Caeli terraeque decus 303 Candita sember 350 Cedo omnia soli 406 Cedrus castitatis 22, 350 Clarior inde 286, 350 Conduxit ad portum 168 Conveni uni 358 Creator cordis 424 Defunctis optabile 306 Devia nunquam 358 Digna Deo facies 304 Domus omnibus una 406 Donec attingam 167, 170 Est in amaritie dulcis amor 407 Et memor ab alto 304 Et monet et munit 406 Ex pluribus unus 406 Facies tua sicut sol 300 Froenum posuit in os meum 168 Gaudium Angelorum 22 Generosi exempla sequuntur 238 Hac itur ad astra 168 Hortus voluptatis 22 Hunc cavet unde dolet 420 In parte dei mei hereditas 300 In partem respicit omnem 419 Inflamma corda nostra 424 Justis amabile 306 Hauriar non exhauriar 167, 170
+
+Modico contenta redundant 408 Mors malis vita bonis 409 Non alia est, sed pulchrior Ales 238 Non arbiter unius unus 417 Non sibi, sed aliis 421 Nova haec esse proximae primae 238 Nunquam absque corona 420 Omnis gloria ab intus 407 Ora! Urget id hora 406 Ostendere sufficit 408 Perficit umbra 418 Plusque minusque nocet 407 Protegi urbem 356 Proxima prima 284, 358 Quam bene conveniunt 420 Quae mergitur eminet undis 419 Quia mirabilia fecit 407 Regit quia fixa polo 301 Secum accepta refundit 420 Sensumque consonantes 407 Sequor aemula fratrem 405 Servantur Servanti 407 Sic nocuisse iuvat 406 Sic itur ad astra 408 Sic vos non vobis 418f. Simplicis terribile 306 Sola capax solis 301 Soliciti servare unitatem 168 Summa petit 302 Sursum aut non sum 408 Tantum caelum querit 301 Tollit amor sursum 303 Trahe me post te 167 Unica viva 358 Uta tua sint, mea sunt 405 Vis moderamine maior 416 Vitam illustrans 424
+
+DEUTSCHE LEMMATA Allß erlanget der Herr 310 Dem Baum ohn Fricht dass billich geschicht 310 Dem Spiegl trau./Und dich beschau/diß ist dein Gsalt – seist jung seist alt 312 Der Frichten Schatz hat da nur Blatz 310 Die Lebens Frist/ein Schiffarth ist/Ains frihe ain spath/gelangt zum Gstadt 312 Eine ins gmein wird dleste sein 309 Is dSchuld auch kleyn – zalet mueß seyn 311 Nach zahlter Schuldt – der Freyheit Huldt 311 Schneidt als zu sam ohne aus nam 309 Was auch haar klein, zeigt dißer schein 309 Was falsch/was guet. Entscheided Godt 309
+<!-- citation-page-bottom: Band13 p469 -->
+
+{{End}}

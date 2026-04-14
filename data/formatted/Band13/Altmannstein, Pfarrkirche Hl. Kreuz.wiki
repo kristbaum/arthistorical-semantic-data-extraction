@@ -1,0 +1,97 @@
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=24
+|Originalseitenbis=26
+|Lemma=Altmannstein, Pfarrkirche Hl. Kreuz
+|Typ=Sakral
+|Ort=Altmannstein
+|davor=Altendorf, Filial- und Wallfahrtskirche Mariä Himmelfahrt
+|danach=Appertshofen, Pfarrkirche Mariä Heimsuchung
+|AutorIn1=Böhm, Cordula
+}}
+
+<!-- citation-page-top: Band13 p24 -->
+
+<!-- header: ALTMANNSTEIN -->
+
+
+== ALTMANNSTEIN ==
+
+
+Pfarrkirche, Markt Altmannstein, Bistum Regensburg; z. Z. der Ausmalung (bis 1959) Filialkirche der Pfarrei Sollern, Pfleggericht Abensberg, Rentamt München, ab 1779 Rentamt Straubing, 1803–1908 LKr. Riedenburg, bis 1972 LKr. Beilngries/OPf.
+
+
+'''Patrozinium:''' Hl. Kreuz
+
+
+'''Zum Bauwerk:''' Umbau und Vergrößerung der alten baufälligen Kirche 1760-64 unter Maurermeister M. Prädl, 1761 stürzte der neue Turm über dem Chor zusammen und musste nochmals aufgebaut werden. 1858 wurde das Langhaus durch Anbau verlängert und erweitert. 1959 moderner Neubau des Langhauses durch Friedrich Haindl, München, Erneuerung der Innenausstattung. Nur der Turm und der Chor blieben erhalten. – Eingezogener Chor (10x5,90 m) mit zwei Jochen und halbrundem Schluss. Pilasterordnung. Belichtung durch zwei hohe rundbogige Fenster in der Rundung und ein kleineres auf der Nordseite. Das ungegliederte Langhaus hat vier Joche und eine ornamental bemalte Holzkassettendecke. Das barocke Deckengemälde befindet sich im Chor, der anstelle eines Altars von dem 1764 seinem Heimatort geschenkten Kruzifix Ignaz Günthers beherrscht wird.
+
+'''Auftraggeber:''' Kein Hinweis in der Kirche. Wahrscheinlicher Auftraggeber war die Marktgemeinde oder das Pfleggericht Abensberg. Amtierender Pfarrer in Sollern war Andreas Marchner (1742-† 1787).
+
+'''Autor und Entstehungszeit:''' Der Maler ist unbekannt, das Fresko ist vermutlich mit dem Neubau um 1764 entstanden; stilistisch passt es in diese Zeit. Von demselben Maler muss auch das Deckenbild in der benachbarten Filialkirche Berghausen (S. 42-44) sein. Dazu passen stilistisch auch die drei Emporenbilder in der ehem. Augustinerklosterkirche Schamhaupten, die einzigen, die sich von der barocken Ausmalung erhalten haben.
+
+Die bescheidene Qualität des Freskos lässt auf einen ortsansässigen Maler schließen. In Altmannstein, dem Geburtsort des berühmten Bildhauers Ignaz Günther (* 1725 † 1775, Büste an der Chorwand), war im fraglichen Zeitraum dessen Vater Johann Georg Günther d. Ä. (* 1704 † 1783) ansässig, der als Bildhauer, aber auch als Fassmaler und Maler tätig und zeitweise auch Bürgermeister war. Von ihm ist ein Kreuzweg signiert und 1759 datiert, der ehemals in der Kirche in Sollern war, jetzt in St. Pius in Kelheim. 1770 erhielt Johann Georg Günther für Fertigen und Fassen der Kanzel für die Kirche in Altmannstein 40 fl; vier Kanzelreliefs sind erhalten.
+
+Als Freskomaler kommt auch Franz Xaver Anton Günther (*1707† nach 1775) in Frage, der jüngere Bruder von Johann Georg Günther d. Ä. und Onkel Ignaz Günthers. Von ihm gibt es Ölbilder und Fresken in der Stadtpfarrkirche Seßlach bei Coburg/Fr. (um 1760). Die 1751 entstandenen Fresken in der Augustinerkirche St. Michael in Neunkirchen sind nicht erhalten, dagegen ein Altarbild, ›Pfingstwunder‹, von 1751 in Gößweinstein und Seitenaltarblätter in Pettstadt (LKr. Bamberg). Seit den 40er Jahren war Franz Xaver Anton Günther in Bamberg, später in München und Augsburg ansässig. Er schuf Andachtsbilder als Radierungen und Stiche. Die Fresken in Seßlach zeigen zwar Ähnlichkeiten mit denen in Altmannstein und Berghausen, aber im Gegensatz zu diesen auch mehr Schwung und Routine.
+
+Johann Georg Günther d. J. (* 1766 † 1832), Halbbruder Ignaz Günthers aus der zweiten Ehe seines Vaters, war ebenfalls Maler, kommt zeitlich aber nicht in Betracht (Gerhard P. Woeckel, Ignaz Günther, Die Handzeichnungen... Weißenhorn 1975, S. 12f. - Richard Vollmann, Der Stammbaum des Münchner Barockbildhauers Ignaz Günther, in: Das Münster 18, 1965, S. 194–97).
+
+
+[[File:Band13_chunk001_p013_img001.jpg|thumb]]
+
+
+[[File:Band13_chunk001_p013_img002.jpg|thumb|Kreuzauffindung (um 1764)]]
+<!-- citation-page-bottom: Band13 p25 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=14 -->
+<!-- citation-page-top: Band13 p26 -->
+
+<!-- header: ALTMANNSTEIN -->
+
+
+== APPERTSHOFEN ==
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Stichkappengewölbe, im O abgerundet
+
+Rahmen: Stuckprofil, gelb gefasst Technik: Fresko; polychrom Maße: Höhe 8,10 m; 3,60 x 2,60
+
+Erhaltungszustand und Entstehungszeit: Ob das Deckenbild am sonst schmucklosen Gewölbe dem barocken Zustand entspricht, ist nicht bekannt. 1890 neuromanische Ausstattung und Ausmalung durch Kunstmaler und Architekt Michael Hafner, Straubing, und Malerfirma Halter und Cosenitzka, die im Sulzbacher Kalender 1893 beschrieben wird: »Im Jahre 1890 wurde die Kirche vollständig renoviert. Pfarrer Monifelder in Sollern sorgte mit unverdrossenem Eifer für eine würdige Ausschmückung des Gotteshauses, welche durch Maler Hafner in Straubing in gelungenster Weise getätigt wurde. Sein Plafondgemälde Des Heiligen Kreuzes Auffindung und Verehrung« ist in farbenprächtiger Ausstattung dem Style der Kirche angemessen und edel durchgeführt. Außerdem erhielt die Kirche drei neue Altäre großenteils aus Privatmitteln des Pfarrers.« 1909 versuchte man, die neoromanische Ausstattung barock zu verändern. Das Deckenbild im Langhaus, das wie das Chorfresko die Kreuzauffindung darstellte, wurde in ornamentale Malerei von Karl Glaubacker, Regensburg, eingebunden. Eine Restaurierung des barocken Freskos ist für 1961 im Zusammenhang mit dem Neubau des Langhauses anzunehmen.
+
+Eine Photographie (BLfD) zeigt den Zustand vor 1961. 1982 Innenrestaurierung der Fa. Preis, Parsberg. Das Deckenbild ist überarbeitet, die obere Malschicht abgerieben.
+
+Beschreibung und Ikonographie
+
+KREUZAUFFINDUNG Das annähernd vierpassförmige Bildfeld zeigt eine ziemlich dichte Komposition, die sich auf die vier Ausbuchtungen konzentriert. In der Bildmitte ist räumliche Weite mit einem Blick in die Ferne illusioniert, wo schwach - fast Ton in Ton gemalt - eine Landschaft mit der Stadt Jerusalem zu erkennen ist. Der Schauplatz ist im übrigen uneinheitlich und unwirklich. Dargestellt ist das Wunder, durch welches das wahre Kreuz erkannt wurde. Rechts tritt unter einem Baldachin, der mit goldbrokatenen Lambrequins gesäumt ist, Kaiserin Helena mit Gefolge herzu. Sie ist nach der Mode des Rokoko gekleidet, mit einem engen, goldenen
+
+Mieder, Rock und Bluse. Sie trägt das Haar hochgesteckt und mit einem Krönchen geschmückt. Hinter ihr schauen die Köpfe von zwei jungen Frauen hervor. Zu ihrer Rechten geht Bischof Makarios von Jerusalem, beide weisen mit ausgestrecktem Arm auf das Wunder, das sich vor ihren Augen ereignet. Von links schleppen drei Männer, einer in kindlichem, der andere in mittlerem und der dritte in hohem Alter, drei Kreuze heran. Das vorderste wird auf eine in Laken gebettete Frau gelegt, die darauf mit Lebenszeichen und mit einer Heilung reagiert. Als Beweis für seine Echtheit liegt bei dem Kreuz eine Tafel mit der Aufschrift IN/RI. Im Himmelsbereich fliegen Putten, zwischen ihnen fallen Strahlen auf das Kreuz. Die Darstellung ist auch farblich völlig gleichgewichtig in hellen Werten von Gelb und Rot angelegt.
+
+Kaiserin Helena, die Mutter Kaiser Konstantins, wie dieser zum Christentum bekehrt, unternahm im Jahr 326 eine Reise nach Jerusalem. Auf der Suche nach dem Kreuz Christi ließ sie den Götzentempel, unter dem man die Grabeshöhle Jesu vermutete, abreißen und die Erde aufgraben, wo sich drei Kreuze und die INRI-Tafel fanden. Bischof Makarios von Jerusalem, der zu Rat gezogen wurde, ordnete ein Fasten an und ließ die drei Kreuze zu einer kranken, dem Tode nahen Frau bringen. Im Vertrauen auf die Wunderwirkung des wahren Kreuzes wurden ihr die Kreuze nacheinander aufgelegt. Bei der Berührung mit dem wahren Kreuz wurde die Kranke geheilt. An der Stelle ließ Kaiserin Helena die Grabeskirche errichten und zur Erinnerung wurde das Fest Kreuzauffindung am 3. Mai einge- gesetzt
+
+
+== Quellen und Literatur ==
+
+
+BZAR, Pfarrakten Altmannstein 16 (Auswertung Xaver Luderböck).
+
+BLfD, Akt Altmannstein, Pfarrkirche Heiligkreuz.
+
+Kunstinventar Bistum Regensburg, Altmannstein, bearbeitet von Friedrich Fuchs, 1995.
+
+(o.V.), Die Burgruine und Heiligkreuzkirche im Markte Altmannstein, in: KKC 1893, S. 89.
+
+KDB II OP (13), S.14.
+
+Kernl, Hubert, Altmannstein, Katholische Pfarrkirche Heilig Kreuz (= KKF Nr. 1275), München-Zürich 1981.
+
+Dehio OB 1990, S. 20; 2006, S. 21f. (Deckenbild nicht erwähnt).
+
+Pfarrkirche, Pfarreiengemeinschaft Stammham-Appertshofen, Gemeinde Stammham, Diözese Regensburg; ursprünglich Filialkirche von Kösching, später von Stammham, ab 1696 Provisur, seit 31.1.1710 selbständige Pfarrei, auf die das Reichsstift Niedermünster in Regensburg das Präsentationsrecht hatte. Pfleggericht Kösching, 1756 mit dem Kastenamt Ingolstadt konsolidiert; 1803–1972 Landkreis Ingolstadt, Rentamt München.
+
+{{End}}

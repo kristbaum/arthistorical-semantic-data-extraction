@@ -1,0 +1,116 @@
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=376
+|Originalseitenbis=379
+|Lemma=Pfahldorf, Pfarrkirche St. Johannes Baptist
+|Typ=Sakral
+|Ort=Pfahldorf
+|davor=Ochsenfeld, Pfarrkirche St. Nikolaus
+|danach=Pfalzpaint, Filialkirche St. Andreas
+|AutorIn1=Böhm, Cordula
+}}
+
+<!-- citation-page-top: Band13 p376 -->
+
+<!-- header: DEAHI DORI -->
+
+<!-- header: PEAHLDORI -->
+
+Pfarrkirche, Markt Kipfenberg, Diözese Eichstätt, bis 1752<br>Filialkirche der Pfarrei Gungolding; z.Z. der Ausmalung<br>Hochstift Eichstätt. Bis 1972 Reg.Bez. Mittelfranken.
+
+
+'''Patrozinium:''' St. Johannes Baptist
+
+
+'''Zum Bauwerk:''' Die aus dem Mittelalter stammende Chorturmanlage wurde 1760/61 neu erbaut, unter Beibehaltung des Turms. Plan des Eichstätter Baumeisters Giovanni Domenico Barbieri, Kosten 989 fl. Wohl im Zusammenhang mit der Erhebung zur Pfarrkirche war bereits ab 1754 ein Neubau geplant, aus diesem Jahr datieren Entwürfe und Spezifikationen von Maurermeister Michl Aur und Zimmermeister Mathias Fürthalber, beide Bürger in Kipfenberg. Weitere Überschläge 1758. Der von Barbieri vorgelegte Riss und Über schlag kam zur Ausführung und wurde 1761 abgerechnet »Bau-Rechnung über alle Einnamb= und Ausgaab der Nei e Thurms zu Pfalldorff Ambts Küpfenberg so durch mich<br>Dominicum Barbieri Domcapitulischer Paumeistern besche<br>hen in den Jahren 1760 et 61« (DAEI, Pfarrakten Pfahldor I,1). Die Baumeisterwitwe Agnes Barbieri erhob noch 1762 einen Ausstand von 20 fl. Weihe am 14. 10. 1792. 1832 Turm teilweise neu erbaut und um 26 Fuß verkürzt, 1927 Bau der Vorhalle.
+
+Flachgedeckter Saalbau (12,10×8,30m) zu drei Jochen, Empore im Westen. Belichtung durch drei Fensterpaare im Langhaus. Kleiner Altarraum (5,10×3,40m) im Turm mit einem Fenster nach Norden.
+
+'''Auftraggeber:''' Im erhaltenen Schriftwechsel wird die Ausmalung nicht erwähnt; eine Inschrift in Fresko A bezeichnet die Pfarrgemeinde von Pfahldorf als Stifterin der Deckenbilder: »Dises bild und das im Chor hat ein löbliche Gemaeindt zu Pfabldorff mallen lassen. 1760.« Die Gemeinde stiftete 1761 aus eigenen Mitteln auch Hochaltar, Nebenaltäre und Kirchenstühle. Amtierender Pfarrer war Sebastian Schlupf (1758–81); den Quellen nach begann die Planung des Neubaus schon unter Pfarrer Willibald Stocker (1740–1757).
+
+'''Autor und Entstehungszeit:''' Anton Köll 1760
+
+Signatur in B beim Fuß des Johannes AKöll pinx. Datum in Fresko A im vorderen Bildteil: 1760.
+
+In der 1762 von Anton Köll ausgemalten Pfarrkirche in Dörndorf sind die vier Heiligen Maria Immaculata, Joseph, Willibald und Walburga ebenfalls in Medaillons dargestellt und mit denen in Pfahldorf (1–4) nahezu identisch. Die Art und Weise, die Figuren als kindliche Gestalten wiederzugeben, die Landschaften mit Burgruinen und Alpenhintergrund und weitere Details bezeugen Anton Köll als Autor.
+
+Um welchen der beiden in Kipfenberg ansässigen Maler namens Anton Köll es sich allerdings handelt, ist ungewiss; zeitlich sind sowohl Anton Conrad Köll (* 1688 † 1771) als auch sein Sohn Anton Köll (* um 1732, Geburtsort nicht bekannt † 1767 Kipfenberg) möglich, vgl. die Ausführungen S. 453.
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, 1–4 Flachdecke mit angedeuteter Hohlkehle, B Flachdecke
+
+Rahmen: alle Fresken haben verkröpfte weiße Stuckprofilrahmen mit vergoldeter Innenleiste auf sonst leerer Fläche Technik: Fresko; polychrom
+
+Maße: A Höhe 7,25 m; 4,20 × 3,40
+
+B Höhe 6,20 m; 2,10 × 1,60
+
+Erhaltungszustand und Restaurierungen: Die Kirche hat jahrzehntelang unter Feuchtigkeit gelitten, entsprechend viele Restaurierungen fanden statt: 1891 durch Johann Baptist Betz, Berching, mit Raumtönung, Dekorationsmalerei
+
+
+[[File:Band13_chunk008_p014_img003.jpg|thumb|Der Kirchenraum]]
+<!-- citation-page-bottom: Band13 p377 -->
+
+
+[[File:Band13_chunk008_p014_img001.jpg|thumb|A Enthauptung Johannes des Täufers (Anton Köll 1760)]]
+
+
+
+[[File:Band13_chunk008_p014_img002.jpg|thumb|Joseph (Anton Köll 1760)]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk008.pdf#page=15 -->
+<!-- citation-page-top: Band13 p378 -->
+
+<!-- header: PFAHLDORF -->
+
+[[File:Band13_chunk008_p015_img001.jpg|thumb]]
+
+fassung des Stucks, 1914 und 1927 durch Hans Schellinger und Konrad Schmer, München, mit dekorativer Bemalung von Chorbogen und Emporenbrüstung, 1952 wieder durch Konrad Schmer, Eichstätt, 1967 durch Franz Fürsich, Eichstätt, 1980/81 durch Rudolf Pfaller, Ingolstadt, und 1989 durch Kirchenmaler Aicher. 1980/81 wurden die Medaillons 1 und 2 stark retuschiert, 1989 wurde die Raumfassung von 1927 ersetzt: Wände und Hohlkehle altweiß anstelle von schmutzigem Grau, Deckenspiegel in Chor und LHs rosa mit einem stärkeren Englischrot-Anteil lasierend gestrichen, Gesimse im Ockerton abgesetzt, jedoch heller und lasierender. 2004 wurde ein umfangreiches Restaurierungs- und Sanierungskonzept entworfen, das die Feuchtigkeit und den Pilzbefall (Schwärzepilz, weißlicher Pilzflaum) bekämpfen sollte. Die Restaurierung der Deckenbilder führte 2005 Johann Geitner aus Prönsdorf bei Velberg aus. Bei der Dampfreinigung lösten sich die Übermalungen, Fehlstellen und Risse wurden hinterspritzt, gekittet und retuschiert. Fragmente einer Inschrift in Medaillon 2 wurden nicht konserviert. Die Fresken zeigen sich wieder in frischen hellen Farben und in hervorragendem Zustand.
+
+[[File:Band13_chunk008_p015_img002.jpg|thumb|B Taufe Jesu]]
+
+[[File:Band13_chunk008_p015_img003.jpg|thumb]]
+
+== Beschreibung und Ikonographie ==
+
+Die Deckenbilder im Langhaus liegen in der rosa gefärbten Flachdecke ohne weitere Dekoration.
+
+A ENTHAUPTUNG DES HL. JOHANNES DES TÄUFERS Einansichtige Bildanlage mit geringer Untersicht. In einem Kerkerraum liegt am Boden der geköpfte Körper des Johannes, aus dessen Hals ein Blutstrahl sich ergießt. Der Henker mit dem Schwert in der Hand stellt seinen Fuß auf den Rücken des Toten. Er hält das Johanneshaupt am Haar und legt es in eine Schale, die Salome bereithält. Salome, gekleidet in ein goldenes Gewand und ein weißes Unterkleid, das hochgesteckte Haar mit Perlen geschmückt, wird begleitet von einem Pagen, der ihren Mantelsaum hält, und zwei Damen. An der Kerkertreppe die Stifterinschrift.
+
+1–4 HEILIGE in Ganzfigur, Maria und Joseph schweben auf Wolken und sind umgeben von Puttenköpfchen, Willibald und Walburga stehen in einer Landschaft.
+
+1 Maria Immaculata Sie legt die Rechte an die Brust und hält in der Linken eine Lilie, das Haupt ist geschmückt mit weißen, roten und goldenen Rosen und einer Sternengloriole. Sie steht auf der Weltkugel. Als Überwinderin der Erbsünde tritt sie auf den Kopf der Schlange.
+
+2 Joseph Er hält auf dem Arm das Jesuskind und in der Hand eine Lilie. Reste einer Inschrift wurden nicht ergänzt.
+
+3 Willibald Der Bistumspatron steht im Bischofsornat in einer Landschaft mit Bergen und einer Burgruine am Horizont. Er fasst sich an die Brust, wo er das Rationale, sein individuelles Attribut, trägt, auf das die Inschrift FIDES SPES CHARITAS gestickt ist.
+
+4 Walburga Die zweite Bistumspatronin nach Willibald präsentiert sich als Benediktineräbtissin, das Krönchen auf dem Haupt zeugt von königlicher Abstammung, das Ölfläschchen auf ihrer Hand von dem heilkräftigen Walburgisöl, das aus ihrem Sarg in St. Walburg in Eichstätt tropft.
+
+B TAUFE JESU (Mt 3,13-17) Vor einem bergigen Hintergrund mit Burgenlandschaft findet im Jordanfluss die Taufe durch Johannes statt. Nur ein Engel assistiert der Szene, er steht hinter Johannes, trägt seinen Kreuzstab (Inschrift ECCE AGNUS DEI) und hält ein Handtuch bereit. In Wolken schweben Gottvater und die Geisttaube.
+
+[[File:Band13_chunk008_p015_img004.jpg|thumb]]
+
+[[File:Band13_chunk008_p015_img005.jpg|thumb|4 Walburga]]
+
+== Quellen und Literatur ==
+
+DAEI, Pfarrakten Pfahldorf I,1: Baulichkeit an der Pfarrkirche; Buchner Eichstätter Bistumsgeistliche. BLfD, Akt Pfahldorf, Pfarrkirche.
+
+Kunstinventar Diözese Eichstätt, Pfahldorf, bearbeitet von Christina Grimminger und Claudia Grund, 1996.
+
+== KDB V MF (2), S. 254f ==
+
+Buchner Bistum Eichstätt 1938, S. 359-65
+
+Mardagant, Silvio und Emanuel Braun (Hg.), Giovanni Domenico Barbieri (1704–1764). Ein Graubündner als Hofmaurermeister des Fürstbischofs von Eichstätt. Autobiographie und Ausgabenjournal, Regensburg 2004, S. 139. Dehio OB 1990, S. 967; 2006, S. 1053.
+
+C. B.
+<!-- citation-page-bottom: Band13 p379 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk008.pdf#page=16 -->
+{{End}}

@@ -1,0 +1,182 @@
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=245
+|Originalseitenbis=250
+|Lemma=Enkering, Pfarrkirche St. Otmar
+|Typ=Sakral
+|Ort=Enkering
+|davor=Eichstätt, ehem. Domherrenhof Schönborn
+|danach=Grösdorf, Salvatorkapelle
+|AutorIn1=Böhm, Cordula
+}}
+
+Pfarrkirche, Pfarreiengemeinschaft Enkering-Kinding, Markt Kinding, Diözese Eichstätt; z. Z. der Ausmalung Hochstift Eichstätt. Bis 1972 Reg.Bez. Mittelfranken.
+
+
+'''Patrozinium:''' St. Otmar
+
+
+'''Zum Bauwerk:''' Die aus dem Mittelalter stammende Chorturmanlage wurde 1617 durch einen Neubau ersetzt. An der Westfassade Steinwappen des Fürstbischofs Johann Christoph von Westerstetten (1612–37) mit der Jahreszahl 1617. Um 1700 Altarausstattung, Seitenaltäre 1717. 1738 Barockisierung durch Eichstätter Künstler. Die schadhafte Holzkassettendecke wurde durch eine Stuckdecke von Franz Xaver Horneis und mit Fresken von Joseph Dietrich ersetzt. Dabei mussten auch Reparaturen an Dachstuhl, Turm und Sakristeianbau durchgeführt werden. 1873 Verlängerung nach Westen.
+
+In einem Antrag des General-Heiling-Verwalters Thomas Baumgartner an den Geistlichen Rat Eichstätt vom 20. Februar 1739 ging es um die Maurer Rechnung, die von der Gemeinde nicht mehr bezahlt werden konnte, nachdem Pfarrer und Pfarrkinder für Stuck und Fresken aufgekommen waren: »Nachdermahlen H. Lct. Pfaller, Pfarrer zu Enckhering von einem Hochwürdigen General Vicariat gnädig erlaubt worden, von einig verschaft und andere und seine Pfarr Künder zusame gebrachten Collecten geldern die notwendige Ippsdeckh (indeme das alte Tabulat sehr schadhaft gewesen) neu herstellen zulassen, so dan auch von Stuccador Franz Horneyß nach dem vorgezeigten Riss mit Laubwerckh und von Mahler Josef Dietrich mit hibscher Fresco-Mahlerei versehen im fertigen Jahr würcklich geschehen, welches aber zusammen, benebst denen Mahlereien uf 250 fl zustehen gekommen ist; als hat auch die ruinose Kürchen Tachstuell nothwendig umbgeschlagen und verglädet, wie auch der Thurm im Tach ausgebessert, wenigst nicht die vom Kürchen Gemäuer sich ganz weggegebene, auch sonst im Tachwerckh sehr pueswürdige
+
+Sacristey wider notdürftig repariert werden müssen, wessen dem gedach ten H. Pfarrer, umb willen die colligirte gelder uf ein weitheres nit gelan get, folgente Zetel zur Zahlung anhero verwiesen, und zwar weger<br>Michael Häberles Maurers von Kipfenberg, die uf ihn und seine Geseller dem Taglohn nach ergangene 62 fl. 2 kr....« - Die Summe wurde am 23. Februar 1739 bewilligt (DAEI, Pfarrakten Enkering, I, 1).
+
+Flachgedeckter Saalbau (18,30 [alt 12, m] × 6,50 m) zu fünf (ursprünglich vier) Jochen, Empore im Westen. Belichtung durch fünf Fensterpaare im Langhaus (mit Ausnahme des nördlichen Fensters im zweiten Joch, wo die Kanzel steht). Kleiner quadratischer Altarraum (4,00 × 3,90 m) mit einem Fenster von Süden.
+
+'''Auftraggeber:''' In einer Stuckkartusche am Chorbogen befindet sich das Wappen des Fürstbischofs Johann Anton II. Freiherr von Freyberg-Hopferau (1736–57; drei goldene Kugeln auf schwarzem Grund)
+
+Pfarrer war Johann L. Alois Pfaller (1735–† 1748), in Eichstätt geboren und dort 1732 ordiniert. (Seine Brüder waren Johann Jakob Pfaller, Frühmesser in Beilngries 1736–54, und Willibald Pfaller, Franziskaner in Heiligenblut bei Spalt.)
+
+Laut überliefertem Schriftverkehr kamen der Pfarrer und die Gemeinde für die neue Stuckdecke mit Fresken auf. Einem Eintrag in den Generalheilingrechnungen von 1749 zufolge stiftete Pfaller 1739 den Stuck: »... die auf die Ippsdeckh nach Enckhering verrechnete und doch von H: Pfarrer Ltl: Pfaller seel: dem Stuccador Franz Horneys selbst bezahlte... 86f.« (DAEI, R2, 1749 et 1750, fol. 31).
+
+'''Autor und Entstehungszeit:''' Joseph Dietrich (* 1696 Wernfels bei Spalt † 1745 Eichstätt) 1738. Signatur (neu?) in Fresko B im vorderen Bildteil: fecit/J. Dieterich 1738.
+
+
+[[File:Band13_chunk005_p023_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band13 p245 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=24 -->
+<!-- citation-page-top: Band13 p246 -->
+
+<!-- header: ENKERING -->
+
+
+[[File:Band13_chunk005_p024_img001.jpg|thumb]]
+
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: A, 1-4 Flachdecke mit angedeuteter Hohlkehle, B Kreuzgewölbe
+
+Rahmen: Alle Fresken haben verkröpfte, grau gefasste Stuckprofilrahmen
+
+Technik: Fresko; polychrom
+
+Maße: A Höhe 6,50 m; 3,80 x 2,70
+
+B Höhe 5,40 m; 2,10 × 1,58
+
+1-4 Höhe 6,50 m; 1,85 x 1,50
+
+Erhaltungszustand und Restaurierungen: 1873, anlässlich der Verlängerung der Kirche nach Westen, übermalte der damalige Pfarrer Sebastian Mutzl, der auch als nazarenischer Maler hervortrat, die Deckengemälde mit Darstellungen über einer neuen Putzschicht (Entwurf in UBEI, s. Kat. Sebastian Mutzl 2002).
+
+Aus der Pfarrchronik (Pfarrarchiv Enkering, fol. 132): »Aera Mutzliana... 1873... Im Juni begann endlich H. H. Pfarrer mit einem Werke das schon etwa seit 50 Jahren von allen seinen Vorgängern als schreiendes Bedürfnis erkannt u. angeregt worden, aber stets an den verschiedenster Hindernissen scheiterte, nemlich mit dem Kirchenbau, resp. Verlängerung derselben über das bisherige Portal hinaus. Vom Monate Juni bis
+
+Oktober wurde frisch bei sehr günstigem Wetter unter der Leitung des HH. Pfarrers gearbeitet bis zum Kirchweihfest war alles fertig, auch die Orgel u. Emporkirche sowie die Kirchenstühle, wobei HH. Pfarrer selbst edelmüthig die größten Opfer brachte. Durch die herrlichen Gemälde aus dem Leben des hl. Ottmar unter der Decke ebenso wie durch das Frontgemälde über dem Eingange.«
+
+1929 erfolgte eine Trockenreinigung der Gemälde und Restaurierung des Stucks durch Kirchenmaler Hans Vogt, Beilngries. 1953 wurde die nazarenische Fassung des Innenraums entfernt, die barocken Altäre wieder aufgestellt und die barocken Deckenbilder durch Georg Löhnert, Ingolstadt, freigelegt. 1968, 1980 (Rudolf Pfaller, Ingolstadt) und 1990 Innenrenovierungen, 2002 Weißen des Innern.
+
+Die Deckengemälde waren bei der Freilegung stark beschädigt (Abb. in der Pfarrchronik Enkering, Pfarrarchiv Enkering, und BLfD). Sie wurden ergänzt und überarbeitet. Allenfalls weisen die Kompositionen noch auf Joseph Dietrich als Autor hin. Das Stuckfeld in der westlichen Verlängerung des Kirchenbaus ist leer.
+
+Beschreibung und Ikonographie
+
+Die Deckenbilder im Langhaus liegen in der hellgrün grundierten, grau gefassten Flachdecke; graue Ranken aus Bandwerk in der typischen Art des Franz Xaver Horneis, stilistisch im Übergang von Bandwerk zu Rocaille, rahmen rosa und gelb gefüllte Stuckfelder.
+
+A ST. OTMAR ALS PATRON Auf einem von einer Balustrade begrenzten Treppenpodest haben sich Frauen, Männer und Kinder versammelt. Sie sind bedürftig und halten Gefäße in Händen zum Zeichen von Hunger und Not. Eine Frau kauert vor dem Bettchen ihres Kindes. An der Balustrade lehnt ein Mann in grünem Mantel, auf dem Kopf eine Kappe, der auf den Betrachter blickt und wie ein Selbstbildnis des Malers (von 1738 oder von 1953?) anmutet. Im himmlischen Bereich schwebt der hl. Otmar auf einer Wolke und weist fürbittend auf die Gruppe von Notleidenden und Bittflehenden. Engel halten seine Abtsinsignien; sein Attribut, das Weinfäßchen, liegt zu seinen Füßen.
+
+1-4 OTMAR-ZYKLUS Das Hauptbild wird begleitet von vier Medaillons in den Ecken der Decke, die Szenen aus dem Leben des hl. Otmar zeigen.
+
+1 Otmar in der Einöde In einer felsigen Gegend mit Bach kniet im Mönchsgewand der jugendliche Heilige im Gebet. Auf einem flachen Felsen hat er ein Kreuz aufgestellt und ein Buch aufgeschlagen. Im Hintergrund sieht man die zweitürmige Kirche des Klosters St. Gallen.
+
+2 Otmar beschenkt die Armen Vor dem Hintergrund einer (eintürmigen) Kirche steht der Mönch Otmar. Einem halbnackten Krüppel reicht er ein Kleid, einem Bettler ein Geldstück, daneben blickt eine Frau mit Korb erwartungsvoll auf den Gebenden.
+
+3 Gefangennahme des hl. Otmar In einem Kirchenraum ist der hl. Otmar im Begriff, am Altar die Heilige Messe zu lesen, als durch die offene Tür zwei Männer, Warin und Ruadhard, eindringen und ihn ergreifen. Sie sind in der Art von Ketzern gekleidet, mit schwarzen Hüten, Jacken mit Lutherkrägen und Pluderhosen. In der Hand hält der eine einen Stock, der andere eine Kette. In der Türöffnung drängen sich zwei Spießgesellen. Ein Putto an einer kleinen runden Wolke (?) weist nach oben und verheißt himmlischen Lohn
+
+4 Tod des hl. Otmar In Ketten liegt der Heilige auf einem Lager in einem vergitterten Kerkerraum. Das Kreuz in Händen haucht er sein Leben aus, während der auferstandene Christus auf Wolken in Begleitung von zwei psallierender Engeln, dem rechten mit einer Laute, ihn in Empfang nimmt.
+
+Die Vita S. Otmari, 70 Jahre nach seinem Tod von dem St. Gallener Mönch Gozbert aufgezeichnet und von dem Reichenauer Mönch und Dichter Walafried Strabo überarbeitet, der auch die Vita Sancti Galli neu fasste, hat im wesentlichen unverändert Gültigkeit behalten. St. Otmar lebte im 8. Jh., war alemannischer Herkunft und erhielt in Chur in Diensten des Grafen Viktor hohe literarische Bildung, wo er sich für das Priestertum entschied. Waltram, Besitzer der Einöde, in welcher im 7. Jh. der hl. Gallus gelebt und gewirkt hatte, vertraute Otmar diese Zelle an, und erwirkte bei König Pippin, dass er hier als Vorsteher und Abt eines Klosters eingesetzt werde (Fresko 1). Das Kloster erblühte und erstarkte schnell unter seinen Händen. Die Armen und Aussätzigen waren ihm ein besonderes Anliegen; oft bedeckte er mit dem eigenen Kleid den Leib eines Armseligen. Einst erhielt er von König Pippin siebzig Pfund Silber zur Linderung der Bedürfnisse seiner Klosterbrüder. Noch vor den Toren des Palastes spendete er den größten Teil des Geldes den Armen (Fresko 2). Er errichtete in der Nähe des Klosters ein Spital, in dem er selbst Dienst tat. Es ist das älteste Leprosorium auf schweizerischem Boden (Der Name St.-Otmars-Spital erhielt sich bis ins 16. Jh.) Dann aber traten seine Widersacher auf den Plan: Warin und Ruadhard, zwei Verwalter des Herzogtums Alemannien, zogen den Besitz der Kirchen gewaltsam in ihr persönliches Eigentum. Von diesem Unrecht berichtete Otmar dem König Pippin, der die beiden unter Androhung der Entlassung zur Gutmachung verpflichtete. Warin und Ruadhard mißachteten den Befehl
+
+
+[[File:Band13_chunk005_p024_img002.jpg|thumb|A, 1–4 Otmar-Zyklus (Joseph Dietrich 1738)]]
+
+
+<!-- citation-page-bottom: Band13 p247 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=25 -->
+<!-- citation-page-top: Band13 p248 -->
+
+ENKERING
+
+<!-- header: ENKERING -->
+
+
+[[File:Band13_chunk005_p025_img001.jpg|thumb]]
+
+
+
+[[File:Band13_chunk005_p025_img002.jpg|thumb]]
+
+
+im Gegenteil, sie nahmen Otmar gefangen und hängten ihm die Klage eines Sittlichkeitsdelikts an (Fresko 3). Um ihn zu verurteilen, beriefen sie eine Ratsversammlung ein, in der
+
+
+[[File:Band13_chunk005_p025_img003.jpg|thumb]]
+
+
+
+[[File:Band13_chunk005_p025_img004.jpg|thumb|A St. Otmar als Patron (Joseph Dietrich 1738)]]
+
+
+Lantpert, ein von den Übeltätern bestochener Klosterbruder Otmars, aussagte, er kenne eine Frau, die von Otmar zur Notzucht missbraucht worden sei. Otmars Aussage zu diesem
+
+
+[[File:Band13_chunk005_p025_img005.jpg|thumb|2 Otmar beschenkt die Armen]]
+
+
+<!-- citation-page-bottom: Band13 p249 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=1 -->
+<!-- citation-page-top: Band13 p250 -->
+
+<!-- header: ENKERING -->
+
+
+[[File:Band13_chunk006_p001_img001.jpg|thumb]]
+
+
+Vorwurf bestand in dem Ausspruch: »Ich gestehe, zwar in vielem übermäßig gesündigt zu haben; doch zum Vorwurf dieses Verbrechens rufe ich Gott, der mein Geheimstes sieht, als Zeugen an«. In der Folge ergriff die göttliche Rache den Lantpert. Er begann zu erlahmen, alle Glieder seiner Statur verloren die Geradheit und Form, sein Kopf wurde nach Art der Vierfüßer zur Erde gebeugt, und schließlich gestand er, daß er gegen den Heiligen Mann Gottes gesündigt hatte. Ungeachtet dessen verurteilte die Gerichtsversammlung Otmar und er wurde bei Bodman eingekerkert. Er wäre dem Hungertod erlegen, hätte nicht ein gewisser Gozbert, ein einflußreicher Mann, von den ungerichteten Fürsten erwirkt, dass Otmar ihm anvertraut wurde; er brachte ihn auf der Insel Wörth bei Stein neben seinem Landgut in Gewahrsam. Dort starb er nach kurzer Zeit am 16. November 759 (Fresko 4).
+
+Weil Otmar bittere Verfolgung zu erleiden hatte, wurde er der Fürsprecher der Verleumdeten. Er ist auch Fürbitter bei Fußleiden, für kranke Kinder und schwangere Mütter. Otmars Attribut, das Fässchen, leitet sich von einem posthumen Wunder ab: Zehn Jahre nach seinem Tod machten sich elf seiner Klosterbrüder auf, seinen Leichnam nach St. Gallen zu holen; sie fanden ihn unverwest und brachten ihn auf ein Schiff. Auf der stürmischen Überfahrt über den Bodensee vertrieb das Schiff, wohin immer es kam, die Winde und glättete die heranbrausenden Fluten. Als sich die vom Rudern ermüdeten Brüder zum Mahl zusammensetzten und sich herausstellte, dass nur ein kleines Gefäß an Wein vorhanden war, begann das Getränk im Gefäß so zuzunehmen, dass alle genug hatten (Lit.: Die Lebensgeschichten der Heiligen Gallus und Otmar, Bd 9 der Bibliotheka SanGallensis, hg. von Johannes Duft, Sigmaringen 1988).
+
+B KRÖNUNG MARIENS Das kleine, gerundete Bildfeld zeigt in einer Wolkenszenerie Gottvater und Christus, die die aufschwebende Maria mit der Himmelskrone empfangen. Zwei Putten halten ihren blauen Mantel. (Die Geisttaube ist nicht mehr zu erkennen.)
+
+W Hl. Nikolaus an der nördlichen AR-Wand, ein Putto trägt eine Schale mit drei goldenen Äpfeln, ein zweiter das Pedum.
+
+Im Hochaltar ist eine barocke Figur des hl. Otmar, flankiert von den hll. Nikolaus und Wolfgang.
+
+
+== Quellen und Literatur ==
+
+
+DAEI, Pfarrakten Enkering I,1: Baulichkeit an der Pfarrkirche; R2: Generalheilungsrechnungen; Buchner Eichstätter Bistumsgeistliche.
+
+Pfarrarchiv Enkering, Pfarrchronik Enkering.
+
+BLfD, Akt Enkering, Pfarrkirche St. Otmar.
+
+Kunstinventar Diözese Eichstätt, Enkering, bearbeitet von Emanuel Braun, 1992.
+
+KDB V MF (2), S. 97 (Deckenbilder nicht erwähnt, da übermalt).
+
+Buchner Bistum Eichstätt 1937, S. 304–07.
+
+Neuhofer, Theodor, Beiträge zur Kunstgeschichte des Landkreises Eichstätt, in: SVHE 1961/62, S. 59.
+
+Grimminger, Christina, Der Eichstätter Maler Joseph Dietrich (1696-1745). Leben und Werk, ungedr. Magisterarbeit der Katholischen Universität Eichstätt-Ingolstadt 1991, S. 91–95. Kat. Sebastian Mutzl (1831–1917). Priester, Künstler und Sammler in der Diözese Eichstätt. Die Sammlung der Bischöflichen Seminarbibliothek, bearb. von Claudia Grund, Regensburg 2002, S. 115 f.
+
+Dehio OB 1990, S. 251; 2006, S. 269f.
+
+C.B.
+
+
+[[File:Band13_chunk006_p001_img002.jpg|thumb]]
+
+
+<!-- header: GRÖSDORF -->
+
+{{End}}

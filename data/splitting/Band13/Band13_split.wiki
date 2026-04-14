@@ -105,7 +105,18 @@ Das Corpus der Barocken Deckenmalerei in Deutschland ist mit der Unterstützung 
 
 Wir danken dem Bischöflichen Ordinariat Eichstätt, dem Rotary Club Eichstätt-Altmühltal, der Kulturstiftung Volksbank – Eichstätter Kurier und allen Personen und Institutionen, die mit großzügigen Spenden zur Finanzierung der Drucklegung beigetragen haben.
 <!-- citation-page-bottom: Band13 p5 -->
-
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=6
+|Originalseitenbis=7
+|Lemma=Vorwort (Band 13)
+|davor=
+|danach=Altendorf, Filial- und Wallfahrtskirche Mariä Himmelfahrt
+|AutorIn1=Büttner, Frank
+|AutorIn2=Rupprecht, Bernhard
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=4 -->
 <!-- citation-page-top: Band13 p6 -->
 
@@ -145,8 +156,9 @@ Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir m�
 
 Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für die verlegerische Betreuung verpflichtet. Frau Katja Durchholz betrieb wieder mit fachlichem Können, künstlerischem Geschick und großem persönlichen Einsatz die Herstellung dieses Bandes. Die Zusammenarbeit mit ihr ist ein reines Vergnügen.
 
-RANK BÜTTNER und BERNHARD RUPPRECHT
+FRANK BÜTTNER und BERNHARD RUPPRECHT
 <!-- citation-page-bottom: Band13 p7 -->
+{{End}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=5 -->
 <!-- citation-page-top: Band13 p8 -->
@@ -649,7 +661,7 @@ taille Landshut, Widnester 1/23. Eduard Zimmermann, Bayerische Klosterheraldik. 
 |Lemma=Altendorf, Filial- und Wallfahrtskirche Mariä Himmelfahrt
 |Typ=Sakral
 |Ort=Altendorf
-|davor=
+|davor=Vorwort (Band 13)
 |danach=Altmannstein, Pfarrkirche Hl. Kreuz
 |AutorIn1=Grimminger, Christina
 |AutorIn2=Langenstein, Eva
@@ -2126,12 +2138,12 @@ C. B.
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=76
-|Originalseitenbis=110
+|Originalseitenbis=77
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Dörndorf, Pfarrkirche St. Sixtus
-|danach=Eichstätt, Ehem. Dominikanerkloster
+|danach=Eichstätt, Benediktinerabtei St. Walburg, Abteikirche
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -2209,6 +2221,21 @@ des alten Konvents waren 1835 noch am Leben, als St. Walburg durch König Ludwig
 
 wieder auf, viele junge Frauen traten ein. Dem neuen Konvent wurde der Mädchenunterricht in Eichstätt übertragen. 1912 erhielt das Kloster St. Walburg wieder seinen Rang als Abtei.
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=77
+|Originalseitenbis=98
+|Lemma=Eichstätt, Benediktinerabtei St. Walburg, Abteikirche
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Benediktinerabtei St. Walburg
+|danach=Eichstätt, Benediktinerabtei St. Walburg, Obere Gruftkapelle
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 == Abteikirche, Pfarr- und Wallfahrtskirche ==
 
@@ -2649,6 +2676,21 @@ Im Langhaus befinden sich fünf große Ölgemälde von Judas Thaddäus Sauter, i
 
 Literatur siehe S. 108-10
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=99
+|Originalseitenbis=100
+|Lemma=Eichstätt, Benediktinerabtei St. Walburg, Obere Gruftkapelle
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Benediktinerabtei St. Walburg, Abteikirche
+|danach=Eichstätt, Benediktinerabtei St. Walburg, Untere Gruftkapelle
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 == Obere Gruftkapelle ==
 
@@ -2742,7 +2784,22 @@ stent rubst/40 sowie andere, nicht mehr lesbare Inschriften. Darunter, am linken
 
 Unten in der Bildmitte ist im Hintergrund die Willibaldsburg dargestellt. Darunter befindet sich eine Inschriftkartusche Asculta O: filii/ (praecepta) magistri S. Benedicti / selig gesprochene oder / canonisierte Heilige (mit den Worten »Ausculta o fili praecepta magistri« beginnt die Regel des hl. Benedikt). Rechts am Bildrand ist die Gruppe der höchsten weltlichen Würdenträger aus dem Benediktinerorden dargestellt. Auch hier sind die einzelnen Heiligen nicht individuell gekennzeichnet. Die Reihe beginnt mit einem Paar, die Frau trägt ein blaues Gewand, der Mann eine Rüstung. Beide halten ein Zepter, haben auf dem Kopf einen goldenen, turbanähnlichen Kopfbund und tragen weite Mäntel mit Hermelinkragen bzw. -futter. Ein Page bringt ihnen auf einem Kissen Zepter und Krone dar. Das wichtigste, mittlere Paar mit Kronen, Zepter und Hermelin dürfte wohl ein Kaiserpaar sein. Dahinter sind zwei Fürsten mit Hermelinkragen und Fürstenhüten zu sehen.
 
-Untere Gruftkapelle
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=101
+|Originalseitenbis=110
+|Lemma=Eichstätt, Benediktinerabtei St. Walburg, Untere Gruftkapelle
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Benediktinerabtei St. Walburg, Obere Gruftkapelle
+|danach=Eichstätt, Ehem. Dominikanerkloster
+|AutorIn1=Bauer-Wild, Anna
+}}
+
 
 Grabkapelle der hl. Walburga, unmittelbar unter der oberen Gruftkapelle im östlichen Chorbereich der Klosterkirche gelegen
 
@@ -3133,15 +3190,14 @@ Nach der Säkularisation durch das Königreich Bayern 1806 wurde die Kirche gesc
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=111
-|Originalseitenbis=122
+|Originalseitenbis=117
 |Lemma=Eichstätt, Ehem. Dominikanerkloster
 |Typ=Sakral
 |Ort=Eichstätt
-|davor=Eichstätt, Benediktinerabtei St. Walburg
-|danach=Eichstätt, ehem. Klosterkirche des ehem. Augustiner-Chorfrauen Klosters, Notre Dame de Sacre Coeur
+|davor=Eichstätt, Benediktinerabtei St. Walburg, Untere Gruftkapelle
+|danach=Eichstätt, Ehem. Dominikanerkloster, Treppenhaus
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Grimminger, Christina
-|AutorIn3=Langenstein, Eva
 }}
 
 z.Z. der Ausmalung Klosterkirche, heute Kapelle und Aula des Gabrieli-Gymnasiums. An der Kirche bestand seit Anfang des 16. Jh.s eine Rosenkranzbruderschaft, die 1918 in die Domkirche transferiert wurde.
@@ -3312,6 +3368,24 @@ A. B./C. G.
 
 <!-- header: EICHSTÄTT DOMINIKANERKLOSTEI -->
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=118
+|Originalseitenbis=122
+|Lemma=Eichstätt, Ehem. Dominikanerkloster, Treppenhaus
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Ehem. Dominikanerkloster
+|danach=Eichstätt, ehem. Jesuitenkolleg, Schutzengelkirche
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Grimminger, Christina
+|AutorIn3=Langenstein, Eva
+}}
+
 
 == Ehem. Klostergebäude, Treppenhaus ==
 
@@ -3413,7 +3487,23 @@ Dehio OB 1990, S. 227; 2006, S. 244.
 
 A.B./C.G./E.L.
 
-== Ehemaliges Jesuitenkolleg<br>heute bischöfliches Priesterseminar ==
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=123
+|Originalseitenbis=153
+|Lemma=Eichstätt, ehem. Jesuitenkolleg, Schutzengelkirche
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Ehem. Dominikanerkloster, Treppenhaus
+|danach=Eichstätt, ehem. Klosterkirche des ehem. Augustiner-Chorfrauen Klosters, Notre Dame de Sacre Coeur
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Ehemaliges Jesuitenkolleg, heute bischöfliches Priesterseminar
 
 Leonrodplatz
 
@@ -4064,7 +4154,7 @@ A.B.
 |Lemma=Eichstätt, ehem. Klosterkirche des ehem. Augustiner-Chorfrauen Klosters, Notre Dame de Sacre Coeur
 |Typ=Sakral
 |Ort=Eichstätt
-|davor=Eichstätt, Ehem. Dominikanerkloster
+|davor=Eichstätt, ehem. Jesuitenkolleg, Schutzengelkirche
 |danach=Eichstätt, Maria-Hilf-Kapelle
 |AutorIn1=Böhm, Cordula
 }}
@@ -5571,12 +5661,6 @@ Dehio OB 1990, S. 233f.; 2006, S. 251.
 
 Grund, Claudia, Sommerresidenz, in: Rupprecht Wimmer (Hg.), Tradition und Zukunft. Die Architektur der Katholischen Universität Eichstätt-Ingolstadt, Lindenberg 2008, S. 10–16, hier: S. 14f.
 
-
-== Hofgartenpavillons ==
-
-
-Zur Gartenanlage: Das ursprünglich zur Altmühl hin abfallende Gelände wurde bei Errichtung der Sommerresidenz durch Gabriel de Gabrieli 1735-37 zu einem terrassierten Parterre aufgeschüttet und als Barockgarten gestaltet. Die drei Hofgartenpavillons entstanden an der Südseite des Gartens in Verbindung mit der Parkmauer als Abschluss und Endpunkt dreier Wegeachsen. 1779/81 Veränderung der Gartenanlage durch Mauritio Pedetti. Umgestaltung des großen Mittelpavillons zu einem Belvedere, dem eine Brunnenanlage integriert wurde. Anstelle eines Portals legte Pedetti dem Gartensaal auf der Nordseite einen Halbkuppelraum mit Springbrunnen vor. Mittel- und Eckpavillons erhielten eine Ausstattung mit Stuck von Johann Jacob Berg und Fresken von Johann Michael Franz. Je drei mit Eisengittern versehene Durchsichten in der Parkmauer zwischen Haupt- und Nebenpavillons entstanden um 1780. Nach Zeichnungen Pedettis und seines Mitarbeiters Joseph Effner im Codex Aureatinus (Architektursammlung der TU, München) war von ihm auf dem gegenüberliegenden Altmühlabhang ein weiterer Garten mit einem Tempietto als Point de vue vorgesehen.
-
 {{End}}
 
 {{Artikel
@@ -5589,10 +5673,16 @@ Zur Gartenanlage: Das ursprünglich zur Altmühl hin abfallende Gelände wurde b
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Festsaal, sog. Holzsaal
-|danach=Eichstätt, ehem. Domherrenhof Schönborn
+|danach=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
 |AutorIn1=E.L.
 |AutorIn2=Böhm, Cordula
 }}
+
+== Hofgartenpavillons ==
+
+
+Zur Gartenanlage: Das ursprünglich zur Altmühl hin abfallende Gelände wurde bei Errichtung der Sommerresidenz durch Gabriel de Gabrieli 1735-37 zu einem terrassierten Parterre aufgeschüttet und als Barockgarten gestaltet. Die drei Hofgartenpavillons entstanden an der Südseite des Gartens in Verbindung mit der Parkmauer als Abschluss und Endpunkt dreier Wegeachsen. 1779/81 Veränderung der Gartenanlage durch Mauritio Pedetti. Umgestaltung des großen Mittelpavillons zu einem Belvedere, dem eine Brunnenanlage integriert wurde. Anstelle eines Portals legte Pedetti dem Gartensaal auf der Nordseite einen Halbkuppelraum mit Springbrunnen vor. Mittel- und Eckpavillons erhielten eine Ausstattung mit Stuck von Johann Jacob Berg und Fresken von Johann Michael Franz. Je drei mit Eisengittern versehene Durchsichten in der Parkmauer zwischen Haupt- und Nebenpavillons entstanden um 1780. Nach Zeichnungen Pedettis und seines Mitarbeiters Joseph Effner im Codex Aureatinus (Architektursammlung der TU, München) war von ihm auf dem gegenüberliegenden Altmühlabhang ein weiterer Garten mit einem Tempietto als Point de vue vorgesehen.
+
 
 Der langgestreckte und nur wenig tiefe Bau der Sommerresidenz im Norden und die drei Pavillons im Süden begrenzen mit der im Süden und im Osten erhaltenen Parkmauer das etwa 50 m breite und 90 m tiefe Grundstück. Während der kleinere Nordteil heute als Barockgarten gestaltet ist, zeigt der Garten im Süden den Aspekt eines Landschaftsgartens mit hohen Bäumen. Vier Brunnenanlagen, vier 1765 von Johann Jacob Berg z.T. signierte überlebensgroße Steinfiguren, eine Aeneas-Anchises-Gruppe in der Nordostecke und Steinvasen im hinteren Parterre bilden heute noch den plastischen Schmuck des Barockgartens.
 
@@ -5805,6 +5895,23 @@ Dehio OB 1990, S. 233f., 2006, S. 251f.
 
 E. L./C. B.
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=233
+|Originalseitenbis=234
+|Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
+|danach=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Winterstube
+|AutorIn1=E.L.
+|AutorIn2=Böhm, Cordula
+}}
+
 
 == Dom Obergeschoss des Mortuariums ==
 
@@ -5831,6 +5938,22 @@ Die Innenstruktur ist zweiteilig gegliedert. Die östliche Hälfte besteht in Fo
 Im Zuge der Säkularisation wurde das Mortuarium 1808 an die Dompfarrei überwiesen, die die Halle als Requisitenraum benutzte, die Renovierung erfolgte ab 1866. Die Räume über dem Mortuarium dienten unterschiedlichen Zwecken, gegen Mitte des 20. Jh.s war ihr baulicher Zustand bedenklich, bevor 1977-82 eine Modernisierung und Umnutzung als Teil des Domschatz- und Diözesanmuseums stattfand. Bei der Instandsetzung erfolgte eine Änderung der Erschließung. Der ursprüngliche Zugang wurde zugunsten eines neuen, an der entgegengesetzten Ecke des Mortuariums liegenden Treppenhauses aufgegeben. Dieses befindet sich in dem 1755/56 durch den Domkapitelsbaumeister Giovanni Domenico Barbieri errichteten Getreidekasten des Eichstätter Domkapitels, der im 19. Jh. für das Rentamt Kipfenberg war und daher »Kipfenberger Stadel« genannt wird. Heute erschließt man über einen barockzeitlichen, tonnengewölbten Durchgang vom neueingerichteten Museum im Obergeschoss des Speichers die barockzeitliche Enfilade der ehem. Amts- und Repräsentationsräume von der Seite aus, so dass die einstige Raumabfolge nicht mehr nachvollzogen wird.
 
 Seit Freilegung der Deckenmalereien 1977-82 galten die beiden Räume als »Kapitelsaal« (Tagungs- und Wahlort des Domkapitels) und »Neben- und... Vorberatungszimmer für den Sitzungssaal« (vgl. Bauch; im Museumsrundgang als »Kapitelsaal« und »Schatzkammer« bezeichnet). Peter Zürcher deckte die tatsächliche Bestimmung der beiden Räume anhand der Quellen auf. Die Wahlvorbereitung fand in dem bislang als Kapitelsaal bezeichneten Raum statt, in den Quellen Winterstube oder Vordere Kapitelstube genannt, die Wahl selbst in der ordentlichen Kapitelstube, Sommerstube bzw. Hintere Stube genannt (heute Schatzkammer). Dieser Raum, in den Quellen als »zum Alten Hof hin liegend« bezeichnet, konnte nur über die Vordere Kapitelstube erschlossen werden. Diese Tür ist heute zugemauert, dafür gibt es einen Eingang im Norden. Zürcher weist darauf hin, dass 1725 im Rahmen der Possessnahme durch den gewählten Franz Ludwig Freiherr Schenk zu Castell als Fürstbischof von Eichstätt die sog. Sommerstube, also die Hintere Kapitelstube, als »Ort höchster domkapitelscher Repräsentation bezeugt« ist. Die Ansichtsrichtung des Deckengemäldes in der ordentlichen Kapitelstube dokumentiert heute noch die ursprüngliche Ausrichtung der beiden Räume.
+
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=234
+|Originalseitenbis=236
+|Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Winterstube
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
+|danach=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Sommerstube
+|AutorIn1=Grimminger, Christina
+}}
 
 == Vordere Kapitelstube, sog. Winterstube ==
 
@@ -5911,6 +6034,21 @@ Die Wappenkartusche wird flankiert von zwei Personifikationen. Links steht Iusti
 
 236
 <!-- citation-page-bottom: Band13 p237 -->
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=237
+|Originalseitenbis=240
+|Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Sommerstube
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Winterstube
+|danach=Eichstätt, ehem. Domherrenhof Schönborn
+|AutorIn1=Grimminger, Christina
+}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=20 -->
 <!-- citation-page-top: Band13 p238 -->
@@ -5999,7 +6137,7 @@ Pater-Philipp-Jeningen-Platz 5
 |Lemma=Eichstätt, ehem. Domherrenhof Schönborn
 |Typ=Sakral
 |Ort=Eichstätt
-|davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
+|davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Sommerstube
 |danach=Enkering, Pfarrkirche St. Otmar
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Grimminger, Christina
@@ -9286,21 +9424,6 @@ K<sub>3</sub> Lukas mit dem Stier. Er hält ein Marienbild in der Hand und hat n
 <!-- citation-page-bottom: Band13 p371 -->
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk008.pdf#page=12 -->
-{{End}}
-
-{{Artikel
-|Band=13
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=372
-|Originalseitenbis=375
-|Lemma=Ochsenfeld, Pfarrkirche St. Nikolaus
-|Typ=Sakral
-|Ort=Ochsenfeld
-|davor=Nassenfels, Pfarrkirche St. Nikolaus
-|danach=Pfahldorf, Pfarrkirche St. Johannes Baptist
-|AutorIn1=Böhm, Cordula
-}}
 
 <!-- citation-page-top: Band13 p372 -->
 
@@ -9333,6 +9456,21 @@ Beatillo da Baris, Vita des hl. Nikolaus von 1620; Kurzfassung davon von Frances
 
 A. B./C. G.
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=372
+|Originalseitenbis=375
+|Lemma=Ochsenfeld, Pfarrkirche St. Nikolaus
+|Typ=Sakral
+|Ort=Ochsenfeld
+|davor=Nassenfels, Pfarrkirche St. Nikolaus
+|danach=Pfahldorf, Pfarrkirche St. Johannes Baptist
+|AutorIn1=Böhm, Cordula
+}}
 
 == OCHSENFELD ==
 
@@ -9659,7 +9797,7 @@ C. G
 |Typ=Sakral
 |Ort=Pförring
 |davor=Pfalzpaint, Filialkirche St. Andreas
-|danach=Schambach, Pfarr- und Wallfahrtskirche Hl. Kreuz
+|danach=Rebdorf, Ehem. Augustiner-Chorherrenstift, Stiftskirche
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -9842,6 +9980,21 @@ Die Beschreibung des Bistums Regensburg von 1723/24, hg. Von Manfred Heim (= BGB
 Dehio OB 1990, S. 968; 2006, S. 1055  
 C. B
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=391
+|Originalseitenbis=421
+|Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Stiftskirche 
+|Typ=Sakral
+|Ort=Rebdorf
+|davor=Pförring, Pfarrkirche St. Leoonhard
+|danach=Rebdorf, Ehem. Augustiner-Chorherrenstift, Festsaal
+|AutorIn1=Böhm, Cordula
+}}
 
 == REBDORF ==
 
@@ -10601,6 +10754,22 @@ Grimminger, Christina, Kloster- und Pfarrkirche St. Johannes der Täufer Rebdorf
 Dehio OB 1990, S. 1007f.; 2006, S. 1097
 <!-- citation-page-bottom: Band13 p421 -->
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=422
+|Originalseitenbis=424
+|Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Festsaal 
+|Typ=Sakral
+|Ort=Rebdorf
+|davor=Rebdorf, Ehem. Augustiner-Chorherrenstift, Stiftskirche
+|danach=Schambach, Pfarr- und Wallfahrtskirche Hl. Kreuz
+|AutorIn1=Böhm, Cordula
+}}
+
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk009.pdf#page=12 -->
 <!-- citation-page-top: Band13 p422 -->
 
@@ -10692,7 +10861,7 @@ Pfarr- und Wallfahrtskirche, Markt Kipfenberg, Diözese Eichstätt; z. Z. der Au
 |Lemma=Schambach, Pfarr- und Wallfahrtskirche Hl. Kreuz
 |Typ=Sakral
 |Ort=Schambach
-|davor=Pförring, Pfarrkirche St. Leoonhard
+|davor=Rebdorf, Ehem. Augustiner-Chorherrenstift, Festsaal
 |danach=Tauberfeld, Filialkirche St. Martin
 |AutorIn1=Grimminger, Christina
 }}
@@ -11213,7 +11382,7 @@ KDB V MF (2), S. 342. Buchner Bistum Eichstätt 1938, S. 721–26.
 |Typ=Sakral
 |Ort=Weigersdorf
 |davor=Walting, Leonhardskapelle
-|danach=
+|danach=Im 18. Jh. im Bereich des Landkreises Eichstätt tätige Deckenmaler
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Grimminger, Christina
 }}
@@ -11345,6 +11514,19 @@ DAEI, Pfarrakten Pollenfeld I,4: Baulichkeit an der Filialkirche Weigersdorf; R2
 Buchner Bistum Eichstätt 1938, S. 404–10 (Pfarrei Pollenfeld). Neuhofer, Theodor, Beiträge zur Kunstgeschichte des Hochstifts Eichstätt, in: SHVE 61, 1965/66, S. 9–92, hier: S. 40f. Margadant, Silvio und Emanuel Braun (Hg.), maurermeister des Fürstbischofs von Eichstätt. Autobiographie und Ausgabenjournal, Regensburg 2004, S. 111. Dehio OB 2006, S. 1363.
 
 A. B./C. G.
+
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=451
+|Originalseitenbis=455
+|Lemma=Im 18. Jh. im Bereich des Landkreises Eichstätt tätige Deckenmaler
+|davor=Weigersdorf, Filialkirche St. Andreas
+|danach=Ortsregister (Band 13)
+}}
 
 <!-- header: IM 18. IH. IM BEREICH DES LANDKREISES EICHSTÄTT TÄTIGE DECKENMALEI -->
 
@@ -11546,8 +11728,19 @@ Allgemeines Lexikon der bildenden Künstler von der Antike bis zur Gegenwart, Hg
 Bleicher, Joseph, Eichstätts Künstler, Eichstätt 1930, S. 27ff.  
 Neuhofer, Theodor und Brun Appel, Künstlerverzeichnis, in: Eichstätt (= GKF Nr. 15), München-Zürich 1984, S. 46–52, hier: S. 50ff. (Maler).
 
+{{End}}
 
-== REGISTER ==
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=456
+|Originalseitenbis=458
+|Lemma=Ortsregister (Band 13)
+|davor=Im 18. Jh. im Bereich des Landkreises Eichstätt tätige Deckenmaler
+|danach=Personenregister (Band 13)
+}}
+
 
 
 == Ortsregister ==
@@ -11716,8 +11909,18 @@ Waidhofen 18 Walting, Gemeinde 256, 380, 444, 454 Kapelle 444f. Warching 84, 453
 
 Zandt 70, 453 Zuchering 299, 309
 
+{{End}}
 
-== Personenregister ==
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=458
+|Originalseitenbis=461
+|Lemma=Personenregister (Band 13)
+|davor=Ortsregister (Band 13)
+|danach=Ikonographisches Register (Band 13)
+}}
 
 
 Kursivschrift und Kursivzahlen verweisen auf in diesem Band behandelten Maler
@@ -12139,6 +12342,19 @@ Wink, Christian Thomas, Hofmaler in München 46, 48–64, 455 Wink, Johann Chrys
 
 Zächenberger, Johann Anton, Maler in Ingolstadt 27, 254, 296, 308f., 327, 456 Zehmen, Johann Anton Ernst Freiherr von, Domherr in Eichstätt 238 Ziegelmayr, Andreas, Bauer in Berghausen 42 Zink, Matthäus 102, 113, 128, 258, 280, 282f., 313f., 348f., 353f., 425, 438, 452, 455 Zink, Michael 313f., 348f., 425, 438, 452, 455 Zwicklein, Martin Lukas, Maler in Eichstätt 293
 
+{{End}}
+
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=462
+|Originalseitenbis=467
+|Lemma=Ikonographisches Register (Band 13)
+|davor=Personenregister (Band 13)
+|danach=Embleme-Register (Band 13)
+}}
+
 Abondanza/Überfluss 244 Abraham 130f., 140f., 150, 430f., 434 Achilles → Iphigenie 265, 268 Adam und Eva 434ff. Adler → Johannes 63, 161, 372, 404, 436 → Jupiter 194, 244 Aeneas 225 Apfel, drei goldene → Nikolaus 250, 364, 370, 371 Agatha, hl. 41, 386, 388 Albinus, hl. 412, 416 Alice le Clerc, sel. 156 Alipius, hl. 409f., 413 Allegrezza/Heiterkeit 244 Aloysius von Gonzaga, hl. 126, 137, 151f., 281, 306, 342 Altmühl → Personifikation 236 Ambrosius, Kirchenvater, hl. 96, 292 America → Vier Erdteile 159f., 364 Anchises 225 Andreas, Apostel, hl. 44, 381 → Martyrium 447, 449 → Zwölf Apostel 292, 314, 316 Anianus, hl. 409, 411, 413 Anker → Quiete 237 → Spes 57 → Weisheit 179 Anna, Mutter Mariens, hl. 70, 299, 305, 314f. → mit Maria 86, 90, 342 → mit Maria und Joachim 33 → Anna Selbdritt 73f. → Heilige Sippe 404 → Marienleben 93, 182, 255, 258, 287, 294 Antonius von Padua, hl. 34, 70, 73, 75, 252 Apollo 194, 199, 220, 222 tötet Python 203f., 208f. betrauert den Tod von Coronis 204f., 209 und die sieben Musen 195 Tod des Orpheus 206 Apollonia, hl. 188f.
 
 Artes/Kunste → Attribute 198, 206 Asia 363f. → Vier Erdteile 159f. Astronomie → Künste und Wissenschaften 198 Atalante → Hippomenes und Atalante 221f. Atlas → Sturz des Phaethon 187, 189, 194 Auge Gottes 88, 287, 308, 438 Augen → Ottilia 40, 389 Augustinus, Kirchenvater, hl. 96, 156, 162f., 170, <sup>291</sup>, <sup>292</sup>, <sup>396</sup>, <sup>402</sup>, <sup>409</sup>f. Aurora 195, 197ff., 202f., 206, 209, 220, 223f., 226, 230, 232 Auxilium Christianorum 117 Bacchus → Zug 203, 206, 210, 212 Barbara, hl. 69, 70, 73, 75 Barmherzigkeit, Sieben Werke der 438 Barnabas, Apostel 306 Bartholomäus, Apostel, hl. 381 → Zwölf Apostel 292, 316, 383 Baum der Erkenntnis 434 → Sapientia 179 Beil → Matthias 292, 383 Benedikt, hl. 86, 90f., 99, 389f. Bileam 143f. Bildhauerei → Künste und Wissenschaften 198 Blitzbündel → Jupiter 194, 244 Bonifatius, hl. 86ff., 89, 92, 95, 100, 237 als Patron Böhmfelds 426 Bischofsweihe Willibalds 86 Bundeslade 57 → Lauretanische Symbole 33, 117 Burchard, Bischof von Würzburg 87 Bruderschaftsbilder Namen-Jesu-Bruderschaft in Nassenfels 363, Brunnen → Gnaden-/Marienbrunnen 176
@@ -12253,7 +12469,18 @@ Thyrsusstab 206 Timotheus 131 Tithonus 198, 200, 206 Tobias 129, 134, 137, 142 T
 
 Wappen, Personen Baumgartner, Andreas 257f. Beatrix, Kaiserin 391 Friedrich Barbarossa, Kaiser 391, 422 Gonzaga, Herzöge von Mantua 281 Hemm, Johann Baptist 384 Hirschberg, Grafen von 117 Johann III. von Eych 393, 422 Johann Anton I. Knebel von Katzenelnbogen 19, 126, 180, 182 Johann Anton II. Freiherr zu Freyberg- Hopferau 126, 180, 182, 245, 360f. Johann Christoph von Westerstetten 126 Joseph Graf von Stubenberg 293 Konrad von Morsbach 393, 422 Marquard II. Schenk von Castell 126, 173 o Mayr, Johann Baptist, Propst von Rebdorf 393 Mayr, Joseph Leonhard, Pfarrer 257f. Pettenkofer, Maria Anna Adelgundis I. von 79, 82 Räm, Erhard, Prior von Rebdorf 422 Raymund Anton Graf von Strasoldo 318, 326 Schenk von Castell, Marguard Willibald Anton 360 Waldbott von Bassenheim 180, 182 Welden, Maria Aloysia Freiin von 360 → der Mitglieder des Eichstätter Domkapitels 236–40 (vgl. Personenregister) Wappen, Institutionen Augustiner-Chorherrenstift Rebdorf 393 Domkapitel von Eichstätt 236, 239 Haus Anjou-Plantagenet 236 Hochstift Eichstätt 362 Reichsstift St. Emmeram in Regensburg 384 Wasser 228, 230 → Vier Elemente 167 Wasserschaff → Florian 347, 389 Weihrauchfass → Engelchöre 135 Wendelin, hl. 40, 44, 342, 344, 346, 353, 354, 373ff., 448, 450 Wenzel, König 73 Widder → Abraham opfert Isaak 434 Willibald, hl. 73f., 85, 87–92, 95, 97, 100, 123, 360, 363f., 366, 375f., 378f., 426, 438, 448, 450 → Bischofsweihe 88 → als Schutzpatron des Eichstätter Domkapitels 235ff. , Willibrord, Bischof von Utrecht 87 Wind → Notus/Südwind 221 Vier Winde → Aurora 220 Winde → Erasmus 34 Winter 228, 231 → Vier Jahreszeiten 231 Wolfgang, hl. 44, 250, 389 Wuna, Königin 87, 89, 91 Wunibald, hl. 84f., 87, 89f., 91f., 95, 100, 364, 366 Wurzel Jesse hat geblüht 21 Zacharias 299, 305 → Engel verkündet die Geburt des Johannes 145, 147 → Zacharias schreibt den Namen Iohannes 400 → Heilige Sippe 404 → Heimsuchung 93, 286 → Kind Johannes geht in die Wüste 286 Zange → Apollonia 389 Zeder → Marienemblem 22, 350 Zephyr 202f., 219, 221, 223 Zepter 237 ff. → Auge Gottes 88 → Willibald 88
 <!-- citation-page-bottom: Band13 p467 -->
+{{End}}
 
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=468
+|Originalseitenbis=469
+|Lemma=Embleme-Register (Band 13)
+|davor=Ikonographisches Register (Band 13)
+|danach=
+}}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk010.pdf#page=10 -->
 <!-- citation-page-top: Band13 p468 -->
 

@@ -1,0 +1,138 @@
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=187
+|Originalseitenbis=195
+|Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Treppenhaus
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz
+|danach=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Festsaal, sog. Spiegelsaal
+|AutorIn1=Grimminger, Christina
+}}
+
+== Treppenhaus ==
+
+
+'''Zum Bauwerk:''' Das Treppenhaus Pedettis, 1767-69 gebaut, wird über das Eingangsportal von 1702 in der Mittelachse des Westflügels erschlossen. Nahezu quadratischer, korbbogentonnengewölbter Eingangsraum, übergehend in ein breites Vestibül, seitlich je zwei das eigentliche Stiegenhaus vorbereitende Treppenpodeste. Beide Raumeinheiten befinden sich noch im Altbau Engels; den Übergang zum Pedetti-Anbau (13,50×5,50m) markieren die Pfeiler-/Säulenstellungen, die von Geschoss zu Geschoss variieren. Der Treppenverlauf ist pro Geschoss zweiarmig mit je zwei Läufen über Eckpodesten, gemeinsamer Austritt auf Podest, übergehend in gerade, einläufige Treppe. Reiche architektonische Wandgliederung aus Pilastern und Felderungen, die Säulenstellungen des von den Treppenläufen umgebenden Vierecks aufnehmend. Bauzeitliche Raumausstattung, Stuck in Form zarter, vereinzelter Rocaillen samt Tropfsteingehängen und Blütenwerk, stuckierte Vasen mit symbolischen Darstellungen der Vier Jahreszeiten sowie Puttenfiguren der Vier Elemente von Johann Jakob Berg. Das schmiedeeiserne Stiegengeländer, einst vergoldet, ist ein Werk des Eichstätter Hofschmieds Sebastian Barthlme.
+
+'''Auftraggeber:''' Fürstbischof Raymund Anton Graf von Strasoldo (1757–81). Der am 29.4.1718 in Graz geborene Strasoldo wurde 1734 auf Vermittlung seines Onkels, des Eichstätter Domherrn Sigmund Graf von Schrattenbach, Domizellar in Eichstätt, studierte 1738-43 in Rom und wurde 1750 in Eichstätt Domkapitular und Domdechant. Am 5.7. 1757 wurde er als erster Österreicher zum Eichstätter Fürstbischof gewählt; die Konsekration erfolgte am 30.4.1758. Strasoldo leitete zwar Reformen zur Verbesserung klerikaler Zustände ein, doch stand er der Aufklärung kritisch gegenüber und unterstützte die Eichstätter Jesuiten nach der Aufhebung des Ordens. Als absolutistischer Fürst beauftragte er die repräsentativen Umbauten der Eichstätter Stadtresidenz (Treppenhaus und Spiegelsaal) und von Schloss Hirschberg (Kaiser- und Rittersaal; s. S. 262), deren Ausstattungen die Höhepunkte des Eichstätter Rokoko bilden. Von seiner Marienverehrung zeug die Umgestaltung des Eichstätter Residenzplatzes mit der Errichtung der Mariensäule 1777, von seiner Armenfürsorge der Bau und die Stiftung eines Waisenhauses in Eichstätt gegenüber der Sommerresidenz; er ließ öffentliche Straßen bauen und trat in der Hungersnot von 1770/71 als verantwortungsbewusster Regent in Erscheinung. Strasoldo starb am 3. 1. 1781 in Eichstätt.
+
+'''Autor und Entstehungszeit:''' Johann Michael Franz (*1715 Dirlewang bei Mindelheim † 1793 Eichstätt) 1768. Signatur am unteren Bildrand, rechts, auf einem Stein JM. [ligiert] Franz inv. et Pinx: / 1768.
+
+Kurze Zeit nach den bedeutenden Arbeiten in Schloss Hirschberg (S. 262-79) beauftragte Strasoldo den Hofmaler Franz mit Deckenmalereien in der Eichstätter Stadtresidenz. Im Treppenhaus füllte Franz gekonnt das Format eines extrem querrechteckigen Bildfeldes mit einer Himmels- und Landschaftsdarstellung. Während die seitlichen Nebenszenen des Erdstreifens konsequent einansichtig dargestellt sind, ist die mittige Himmelsszenerie, die Hauptszene, mit Hilfe perspektivischer Stilmittel wie kreisförmige Anordnung der Komposition und stärkere Untersicht, dies unterstützt durch das Auskragen des Bildrahmens an dieser Stelle, umgesetzt. Franz kannte die Ovid-Illustration eines anonymen Künstlers nach Hendrik Goltzius von 1589, die auch Johann Jakob Berg als Vorlage für drei Supraporten-Reliefs im Spiegelsaal (S. 208f.) diente. Die Figuren des Atlas, der Gaia und die Quellnymphen sind aus der dortigen Phaethon-Szene inspiriert. Doch hat Franz die Stichvorlage nicht akribisch kopiert, sondern es ist ihm eine eigenständige Invention gelungen. Farblich blieb Franz den in Hirschberg erprobten Pigmenten treu, den auf gehellten, duftigen Pastelltönen, die im Gleichklang mit der großflächigen Malweise, den changierenden Gewändern und der sinnlich-weichen Modellierung der Körper seinen Malstil charakterisieren. Die Wurzeln des Franz'schen Stils liegen in der Augsburger Freskomalerei von Johann Georg Bergmüller und Johann Evangelist Holzer, wenngleich eine direkte Einflussnahme durch ein Lehrer-Schüler-Verhältnis bislang nicht nachgewiesen wurde. Ein Zitat aus dem Formenschatz Holzers stellt der von Franz im Bildfeld links dargestellte Fluss 
+
+<!-- citation-page-bottom: Band13 p187 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=20 -->
+<!-- citation-page-top: Band13 p188 -->
+
+[[File:Band13_chunk004_p020_img001.jpg|thumb|Das Treppenhaus der Stadtresidenz]]
+
+Gott dar (vgl. Festsaalfresko der Eichstätter Sommerresidenz von 1737 S. 214). Franz kannte sicher auch die von dem Bergmüller-Schüler Johann Wolfgang Baumgartner 1756–58 entstandenen Fresken in der nahe gelegenen Wallfahrtskirche Hl. Kreuz in Bergen (CBD Bd 10, S. 45-60).
+
+== Entwurf von Johann Michael Franz ==
+
+Sturz des Phaethon, Öl auf Leinwand, doubliert, 30,2 × 79 cm (mit Rahmen 37,5 × 86 cm). Nürnberg, Germanisches Nationalmuseum, Inv. Nr. Gm1301; publiziert in: Adolf Feulner, Bayerisches Rokoko, München 1923, Abb. 124 (fälschlich »Johann Holzer« zugeschrieben); Ernst Heinrich Zimmermann, Neuerwerbungen deutscher Malerei des 18. Jahrhunderts im Germanischen Nationalmuseum, in: Pantheon 13, 1934, S. 180–83, hier: S. 183 mit Abb. S. 181; Germanisches Nationalmuseum Nürnberg, Katalog der Gemälde des 17. und 18. Jahrhunderts im Germanischen Nationalmuseum zu Nürnberg, Nürnberg 1934, S. 18; Bilderbücher des Germanischen Nationalmuseums, Heft 2, 1934, Abb. 86; Eberhard Lutze, Malerei des deutschen Barock und Rokoko, Nürnberg 1934, S. 10, Abb. 86; Rococo Art from Bavaria (Kat. Victoria and Albert Museum London November-Dezember 1954), London 1956, S. 16 (Kat. Nr. 70 mit Abb.); Georg Schörner, Griechische Sagenmotive in der fürstbischöflichen Stadtresidenz, in: Historische Blätter für Stadt und Landkreis Eichstätt 26, 1977, S. 19f. mit Abb.; Bärbel Hamacher, Entwurf und Ausführung in der süddeutschen Freskomalerei des 18. Jahrhunderts, München 1987, S. 56f. (Kat. Nr. 78: mit »1767« falsche Datierung); Angela Müller, Die Ölgemälde des Johann Michael Franz. Hofmaler zu Eichstätt (1715-1793), ungedr. Magisterarbeit an der Katholischen Universität Eichstätt 1988, S. 126-28 (Kat. Nr. 55). - Franz führte das Deckenfresko im Wesentlichen nach der Ölskizze aus, widmete jedoch den Details der Landschaftsdarstellungen mehr Aufmerksamkeit. Die Ölskizze dokumentiert demnach ein spätes Entwurfsstadium, zumal der gezeichnete Rahmen dem Stuckrahmen entspricht.
+
+== Befund ==
+
+Träger der Deckenmalerei: Flachdecke
+
+Rahmen: im Gegensatz zum zarten Rocaillestuck plastisch hervortretender, profilierter Stuckrahmen, in der Mittelachse überlappende Rocaillen
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 6,00 m (ab mittiger Absatz, OG); 4,00 × 11,00 
+
+Erhaltungszustand und Restaurierungen: 1916 Reinigung durch Kunstmaler Pfleiderer, München. Im Vorfeld der Generalsanierung der Residenz von 1975-77 wurden große Schäden, hauptsächlich des Putzgrundes, festgestellt. Große abblätternde und hohlliegende Partien drohten abzufallen. Die Festigung führte Alban Wolf aus München durch. Zeitgleich Neufertigung der einheitlichen, mittels der Beigabe von Holzkohle einen silbergrauen Ton vorweisenden Kalklasur im Treppenhaus nach Befund.
+
+== Beschreibung und Ikonographie ==
+
+STURZ DES PHAETHON (Ovid, Met. II,150-400) Das breitformatige Fresko erstreckt sich fast über die gesamte Deckenfläche der Treppenanlage; Ansicht vom obersten Podest bzw. vom letzten Treppenlauf nach Osten. Das Bildfeld zeigt in einer weiten Landschafts- und Himmelsszenerie, der Beschreibung in Ovids Metamorphosen folgend, Phaethons Sturz mit dem Sonnenwagen seines Vaters Sol. Dieser hatte ihm den Wagen für einen Tag überlassen, nachdem Phaethon sich als väterlichen Vertrauensbeweis einen Wunsch erbeten hatte. Trotz der Ermahnungen Sols beharrte Phaethon auf der Durchführung. So bestieg er den Wagen, »Golden die Achse, golden die Deichsel, golden der Räder / Außerer Kranz...« (ebd. 107f.), wie im Fresko dargestellt. Doch Phaethon konnte die Rosse nicht auf die richtige Spur lenken, so dass der Sonnenwagen der Erde gefährlich nahe kam und diese sich entzündete.
+
+Die weite, entlang des unteren Bildstreifens sich ausbreitende Weltlandschaft mit einem Meeresarm in der Mitte, Bergen in der Ferne und felsigen Szenarien links und rechts zeigt bereits die Folgen von Phaethons Unvermögen. Während auf den Bergen das Feuer lodert, sind im Tal die Folgen der Hitze zu erkennen: Wiesen und Hänge sind dürr und die ausgetrocknete Erde von tiefen Rissen und Spalten durchfurcht, Flüsse und Quellen sind am versiegen. In den seitlichen Bildbereichen lagern links ein Flussgott mit zwei Nymphen, rechts eine weitere Nymphe, von einem kleinen Genius begleitet. Die beigegebenen Wasserurnen sind bereits ausgetrocknet bzw. aus ihnen fließt nur noch ein dünnes Rinnsal. »... damals beweint ihre Quellen und Seen mit gelösten / Haaren der Nymphen Schar...« (ebd. 238f.). Auf der rechten Seite des Freskos ist zu sehen, wie sich aus einem Erdspalt eine weibliche Gestalt emporarbeitet. Sie trägt eine Mauerkrone auf ihrem Haupt und hält mit Entsetzen die Hand an die Stirn. Es ist Gaia, die Mutter Erde. Die Hitze ist bis zu ihr hinunter gedrungen, vor allem aber haben sich Flüsse und Quellen in ihrem Schoß gesammelt. »Aller Boden klafft, bis zum Tartarus dringt durch die Spalten / Licht und erschreckt mit der Gattin zugleich den König der Tiefe.« (ebd. 260f.). »Mutter Erde jedoch... Auf ihr gesenktes Haupt, bis zum Hals hin trocken; zur Stirne / Führt sie die Hand... und ließ ihre heilige Stimme vernehmen« (ebd. 272ff.): sie bittet Jupiter, mit seinem Blitz das Schrecken zu beenden. Hinter Gaia erscheint im Fresko die Figur des Atlas. »Und sieh«, ruft sie, »wie Atlas sich quält und / Kaum auf der Schulter mehr erträgt die glühende Achse« (ebd. 296f.). Atlas, ein alter, jedoch muskulöser, bärtiger Mann, dessen Beine mit einem in die Höhe ragenden Felsen verwachsen sind, trägt tief gebeugt, mit beiden Armen stützend, auf den Schultern das Himmelsgewölbe in Form eines Globus. Auf dem Himmelsglobus sind ein Stück des Zodiakus und einzelne Sternbilder zu sehen. Eindeutig identifizierbar ist das Sternbild des Skorpion, womit der Maler auf eine entscheidende Sequenz in der von Ovid geschilderten Fahrt Phaethons mit dem Sonnenwagen anspielt: »Jetzt erschaut er [Phaethon] am Himmel zerstreut vor Schrecken die vielen / Grausigen Wundergebilde von ungeheueren Tieren. / Da ist ein Ort, an dem zu doppeltem Bogen die Zangen / Wölbt der Skorpion und mit Schwanz und nach beiden Seiten gereckten / Armen den zwiefachen Raum der anderen Sternbilder einnimmt. / Als der Knabe ihn sieht, wie er triefend von giftigem, schwarzem / Schweiß den gekrümmten Stachel erhebt und Wunden ihm droht, da / Läßt
+
+<!-- citation-page-bottom: Band13 p189 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=21 -->
+<!-- citation-page-top: Band13 p190 -->
+
+EICHSTÄTT STADTRESIDENZ
+
+<!-- header: EICHSTÄTT STADTRESIDENZ -->
+
+
+[[File:Band13_chunk004_p021_img001.jpg|thumb]]
+
+
+er in sinnloser Angst und kaltem Grausen die Zügel« (ebd. 193-200).
+
+Nachdem Gaia Jupiters Einschreiten gefordert hat, wendet sich dieser an die Götter: »Doch der allmächtige Vater beschwor die Götter, besonders / den, der den Wagen gegeben« (ebd. 304f.). Und so sind über der Hauptszene, dem Sturz des Phaethon, die auf Wolken thronenden Götter zu sehen. Angeführt wird die Reihe durch die Gestalt des jugendlichen Merkur mit dem Flügelhelm auf dem lockigen Haupt und den Flügelschuhen an den Füßen. Mit der Rechten weist Merkur auf den stürzenden Phaethon, in der Linken hält er den Caduceus etwas gesenkt auf den Sturz gerichtet. Hinter ihm ist Diana, die Tochter von Latona und Jupiter, mit der Mondsichel auf ihrem Haupt zu erkennen; sie deutet zu Jupiter. Wieder mehr im Vordergrund erscheint die helle Gestalt von Sol, Phaethons Vater, der in klagender Anteilnahme seinen rechten Arm ausstreckt, während er mit der Linken auf den stürzenden Sohn
+
+weist. Hinter Sol folgt Mars, der Kriegsgott, mit dem Helm auf dem Haupt. Ihm neigt sich, auf einer Wolke halb liegend, die schöne Gestalt der Venus zu, nackt bis auf eine zartfarbige Draperie um die Hüften, einen gelben Schleier um das Haupt wehend. Der letzte der Götter ist Saturn mit seinen mächtigen Flügeln, sinnend sein Haupt in die Hand stützend. Der Sohn von Uranos und Gaia hält in der Hand die Sichel, mit der er seinen Vater entmannt hatte.
+
+Der helle, friedvolle Himmelsausschnitt mit der Götterversammlung ist in Kontrast zu dem gewaltvollen Geschehen darunter gesetzt. Dieses, den Hauptteil der Himmelsszene einnehmend, ist mit dramatischer Bewegung inszeniert und zeigt das unausweichliche Handeln Jupiters und die Folgen. »Und er donnert und wirft mit Wucht aus der Rechten des Blitzes / Strahl vom Ohr auf den Lenker, er stößt aus Wagen zugleich und / Leben ihn aus und dämpft mit wütender Flamme die Flammen.« (ebd. 311ff.). Links sitzt auf einer
+
+
+[[File:Band13_chunk004_p021_img002.jpg|thumb|Jupiter, Ausschnitt aus dem Treppenhausfresko]]
+
+
+
+[[File:Band13_chunk004_p021_img003.jpg|thumb|Sturz des Phaethon (Johann Michael Franz 1768)]]
+
+
+190
+<!-- citation-page-bottom: Band13 p191 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=22 -->
+<!-- citation-page-top: Band13 p192 -->
+
+EICHSTÄTT STADTRESIDENZ
+
+
+== EICHSTÄTT STADTRESIDENZ ==
+
+
+
+[[File:Band13_chunk004_p022_img001.jpg|thumb|Phaethon, Ausschnitt aus dem Treppenhausfresko]]
+
+
+
+[[File:Band13_chunk004_p022_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band13 p193 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=23 -->
+<!-- citation-page-top: Band13 p194 -->
+
+<!-- header: EICHSTÄTT STADTRESIDENZ -->
+
+
+[[File:Band13_chunk004_p023_img001.jpg|thumb|Gaia, Atlas und Nymphe, Ausschnitt aus dem Treppenhausfresko]]
+
+
+Wolke Jupiter als bärtige, kraftvolle Gestalt, auf dem Haupt eine Krone, in Rosa und Grün drapiert, den Adler zu seinen Füßen. Er agiert heftig, seine Linke ist wie im Zorn zur Faust geballt, mit der hocherhobenen Rechten hält er das Blitzbündel, aus dem Blitze hervorschnellen. Phaethon ist bereits aus dem Sonnenwagen gestürzt. Er schwebt, die Arme ausbreitend, mitten in den Wolken, fällt rückwärts nach unten, wobei ein Bein noch im Wagen hängt. Der Sonnenwagen ist dabei zu zerbrechen, eines der goldenen Räder hat sich schon gelöst. Die vier weißen, {ZITAT|000}} (ebd. 119f.) haben sich vom Wagen losgerissen, das Zaumzeug hängt lose an ihnen: {ZITAT|001}} (ebd. 314f.). Zwei der Rosse bäumen sich in hilflosem Entsetzen auf, zwei stürzen in die Tiefe.
+
+
+== Ikonologi ==
+
+
+Das Fresko wurde 1976 von Georg Schörner (S. 84) nach dem moralisierenden Bildsinn gedeutet. Strasoldo ermahne sich selbst und andere, im Zentrum stehe vor allem die Warnung vor Überheblichkeit, die eben zum Sturz führe. Als Anspielung auf die Bürde des Amtes im Gegensatz zu den Früchten des Amtes, die im Spiegelsaal zur Darstellung kommen, interpretieren Peter Grau und Helmut Zagermann das Thema, und zwar basierend auf der Inscriptio zu einem Phaethon-Emblem in der Emblemsammlung von Nicolaus Reusner: {ZITAT|002}}.
+
+Der Auftraggeber dürfte jedoch mehr den Aspekt des Scheiterns im Auge gehabt haben. So wird der Sturz des Phaethon oft in der Gegenüberstellung zur guten Herrschaft als Bild der schlechten Herrschaft gesehen, als Bild des Fürsten, der versagt, {ZITAT|003}} (wenn er nicht von den Maßstäben der Klugheit beherrscht ist und rechtschaffen die Kunst des Regierens erlernt hat (Picinelli Lib. III, Nr. 121, s.v. Phaethon). Dies sah 1990 bereits Bruno Lengenfelder (S. 50) in seiner Biographie Strasoldos: {ZITAT|004}}.
+
+
+== Ouellen und Literatur s. S. 210-1. ==
+
+
+Schörner, Georg, Das Treppenhaus in der ehemaligen Fürstbischöflichen Residenz, in: Historische Blätter für Stadt und Landkreis Eichstätt 1, 1952, Nr. 1, S. 4 mit Abb.
+
+Zagermann, Helmut, Studien zur Ikonologie des barocken Treppenhauses in Deutschland und Österreich, Diss. Tübingen 1976, S. 214–19.
+
+Mielke, Friedrich, Treppen in Eichstätt (= Scalalogia Bd II) Eichstätt 1989, S. 64–71.
+
+Grau, Peter, Text und Bild. Bilder zur Interpretation der Metamorphosen Ovids, in: Peter Grau und Hans-Ludwig Oertel, Carmina Illustrata. Zur Veranschaulichung von Odyssee, Aeneis und Metamorphosen (= Auxilia, Bamberg 2004) S. 59–76, hier: S. 69f.
+
+
+{{End}}

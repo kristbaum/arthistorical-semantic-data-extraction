@@ -1,0 +1,38 @@
+{{Artikel
+|Band=13
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=186
+|Originalseitenbis=187
+|Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz
+|Typ=Sakral
+|Ort=Eichstätt
+|davor=Eichstätt, Frauenbergkapelle
+|danach=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Treppenhaus
+|AutorIn1=Grimminger, Christina
+}}
+
+<!-- citation-page-top: Band13 p186 -->
+
+<!-- header: EICHSTÄTT STADTRESIDENZ -->
+
+
+== STADTRESIDENZ ==
+
+
+Ehem. Fürstbischöfliche Stadtresidenz, ietzt Landratsamt Eichstätt Residenzplatz 1
+
+Treppenhaus S. 187 Festsaal, sog. Spiegelsaal S. 195
+
+z.Z. der Ausmalung Stadtresidenz des Eichstätter Fürstbischofs. Das Residenzgebäude wurde nach der Säkularisation von 1802 teilweise von dem Eichstätter Bischof Joseph von Stubenberg (1790-1824) weiter bewohnt, ab 1818 war sie Residenz des neuen Fürsten von Eichstätt, Eugen Herzog von Leuchtenberg, Stiefsohn Napoleons und Schwiegersohn von König Max I. Joseph von Bayern. 1855 wieder in bayerischem Besitz, war sie von 1857-1973 Sitz mehrerer mittlerer und unterer Justizbehörden der Regierung von Mittelfranken 1975 kam sie an den neugeschaffenen Landkreis Eichstätt und wurde bis 1977 im Zuge der Umnutzung zum Landratsam generalsaniert.
+
+Baugeschichte: Die Lage der äußerlich weitgehend frühbarockzeitlich geprägten Stadtresidenz südlich des Eichstätter Domes gründet in einem Vorvorgängerbau, dem Bischofskloster des hl. Willibald. An die Stelle dieses seit dem 8. Jh. bestehenden Klosters trat der Bau einer bischöflichen Residenz
+
+durch Bischof Heribert (1022-42). Dieser Bau, der während der Zeit der Residenz der Eichstätter Fürstbischöfe auf der seit Mitte des 14. Jh. neu errichteten Willibaldsburg als »Alter Hof« zu Repräsentations- und Verwaltungszwecken genutzt wurde, blieb in einer umfassenden Erweiterung unter Fürstbischof Wilhelm von Reichenau (1464-96) weitgehend erhalten. Nach starken Beschädigungen im Dreißigjährigen Krieg 1633/34 durch zweimalige Brandlegung entstand die heute noch bestehende dreiflügelige Anlage unter den Fürstbischöfen Johann Martin von Eyb (1697–1704) und – nachdem die fürstliche Hofhaltung wieder in die Stadt verlegt worden war - Franz Ludwig Freiherr Schenk von Castell (1725-36), und zwar 1700-07 der West- und Ostflügel nach Plänen des Hofbaumeisters Jakob Engel und 1725-27 der Südflügel unter dem neuen Hofbaudirektor Gabriel de Gabrieli, der bis 1737 auch den Innenausbau des Gebäudes und die Umbauung des Residenzplatzes leitete. Eine das innere Erscheinungsbild prägende Veränderung nahm Fürstbischof Raymund Anton Graf 
+
+von Strasoldo (1757–81) vor. Er ließ durch seinen Hofbaudirektor Mauritio Pedetti den Westflügel durch ein repräsentatives Treppenhaus erweitern und im Obergeschoss einen Festsaal einbauen. Beide Räumlichkeiten schmückten der Hofmaler Johann Michael Franz mit Deckengemälden, der Hofstuckator und -bildhauer Johann Jakob Berg mit Stuckaturen. Pedetti bereicherte zudem die Südfassade durch einen Mittelrisalit in klassizistischem Stil. Ansonsten haben spätere Innenraumausstattungen in klassizistischem bzw. spätklassizistischem Empirestil das rokokozeitliche Treppenhaus samt Festsaal nicht beeinträchtigt.
+
+Dreiflügelige Anlage, bestehend aus dreigeschossigen Flügeln unterschiedlicher Breite in rechteckiger Aneinanderreihung um einen Innenhof, der sich an die Südseite des Eichstätter Domes anschließt. West- und Südflügel freistehend, die Außenfassaden trotz zweier Bauzeiten einheitlich gestaltet in frühbarocker Stilprägung: aufgemalte Bändergliederung im Erdgeschoss, aufgeputzte Bänder und Fensterumrahmungen in den darüber liegenden Geschossen, wobei die Fenster in der mittleren Zone abwechselnd durch Dreiecks- und Segmentbogengiebel ausgezeichnet und die Obergeschosse zusätzlich durch Erker in den Ecken betont sind. In der Mitte des Westflügels 1702 datierte, eingeschossige Portalanlage, im Inneren des Gebäudes die Mittelachse des Treppenhauses, die Südfassade 1791 mit Balkon und auf Pilastern ruhendem Dreiecksgiebel aufgewertet, die Schilderhäuschen der beiden Hauptfronten ebenso klassizistisch.
+
+
+{{End}}
