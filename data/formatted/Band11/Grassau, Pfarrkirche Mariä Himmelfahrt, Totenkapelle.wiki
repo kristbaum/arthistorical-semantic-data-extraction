@@ -1,0 +1,102 @@
+{{Artikel
+|Band=11
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=79
+|Originalseitenbis=82
+|Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt, Totenkapelle
+|Typ=Sakral
+|Ort=Grassau
+|davor=Grassau, Pfarrkirche Mariä Himmelfahrt, Sieben-Zufluchten-Kapelle
+|danach=Kay, Pfarrkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== Totenkapelle ==
+
+
+Ehem. Seelenkapelle bzw. Beinhaus, nördlich vom Untergeschoß des Turms an der Westseite der Kirche
+
+'''Zum Bauwerk:''' Die Kapelle liegt im Erdgeschoß des nördlichen der beiden doppelgeschossigen Anbauten zuseiten des Westturms, die mit den spätgotischen Veränderungen des Kirchenbaus entstanden sind. Damals wurden die Wände der
+<!-- citation-page-bottom: Band11 p79 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk002.pdf#page=16 -->
+<!-- citation-page-top: Band11 p80 -->
+
+<!-- header: LANDKREIS TRAUNSTEIN - GRASSAU -->
+
+[[File:Band11_chunk002_p016_img001.jpg|thumb|Totenköpfe mit Standesabzeichen, 4 männliche Standesperson als Skelett]]
+
+
+Kapelle bemalt; Reste dieser spätgotischen Fresken befinder sich noch unter der Tünche. 1639 berichtet die Kirchenrechnung von einer Reparatur des Gewölbes der Seelenkapelle. Daß dieser Raum mit der heutigen barocken Seelenkapelle identisch ist, geht aus dem Bericht über einen Blitzschlag hervor, der 1694 in den Turm »bis zum Totenkerker« schlug. Eine anschließende Baureparatur ist als sicher anzunehmen, doch fehlt die Kirchenrechnung von 1695. Über der Kapelle ist ein spätgotischer tonnengewölbter Raum, die sog. Schatzkammer. Annähernd quadratischer Raum (3,80×4,50), Zugang nur von Westen, also von außen her, nicht vom Kircheninnern. Fenster nach W und N.
+
+'''Auftraggeber:''' Matthias Winkler, Pfarrer von Grassau (1691-1715). Von ihm stammt wohl auch die für Seelenkerker häufige, hier verhältnismäßig früh ausformulierte Vanitas-Pro grammatik.
+
+'''Autor und Entstehungszeit:''' Zuweisung an Jacob Carnutsch (* um 1650 † 1716 Prien) nach 1694.
+
+Hausladen 1966 nennt als Autor den Priener Maler Jacob Carnutsch und als Datum 1701, gestützt wohl auf eine Mitteilung Peter von Bomhards, dem in den fünfziger Jahren schon aufgefallen war, daß das Deckenbild der Seelenkapelle vom gleichen Autor ist wie das Bild an der Unterseite der Empore in der Kirche (EU, s. S.73 ff.) und der für beide Bilder Jacob Carnutsch als Autor nannte (AEM, Nachlaß Bomhard Nr. 190). Zeitlich ist die Ausmalung wohl im Zusammenhang mit der Reparatur nach dem Blitzschlag 1694 anzusetzen. Für 1683 (Heiliges Grab), 1696 (Sieben-Zufluchten-Kapelle), 1699 (Fahne), 1707 (Kirche) und 1711 (Fassung des Taufbecken deckels) sind Arbeiten Carnutschs für Grassau überliefer oder in den Kirchenrechnungen verzeichnet, doch geben diese Daten insofern keine Anhaltspunkte zur Datierung, weil der Maler bei der geringen Entfernung ja jederzeit von Prien nach Grassau kommen konnte. Stilistisch möchte man die Ausmalung der Seelenkapelle eher früh ansetzen. Ikonographisch ist eine Entstehung nach 1700, also nach Einsetzung der Skapulier-Bruderschaft unwahrscheinlich, weil Winkler sonst bei der Sterbeszene mit Sicherheit auch das Skapulier ins Spiel gebracht hätte.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Verschliffenes ehemaliges Sternrippengewölbe
+
+Rahmen: T Vierpaßförmiges kräftiges Stuckprofil. 1-8 Darstellungen in gemalten Bilderrahmen innerhalb der Ornamentmalerei
+
+Technik: Tempera auf trockenem Putz; polychrom Maße: Höhe 3,80 m; 2,10×2,10
+
+Erhaltungszustand und Restaurierungen: Restaurierung 1948 im Zusammenhang mit der Einrichtung einer Kriegergedächtnisstätte; damals wurden die Reste gotischer Malereien unter der Tünche entdeckt, aber wieder übertüncht. Bei der Gesamtrestaurierung der Pfarrkirche 1970/74 wurde von Willibald und Alois Stein, Inzell, auch die Totenkapelle gereinigt und ausgebessert. Die Fresken sind weitgehend original erhalten und in verhältnismäßig gutem Zustand.
+
+
+[[File:Band11_chunk002_p016_img002.jpg|thumb]]
+
+
+
+[[File:Band11_chunk002_p016_img003.jpg|thumb|7 Totenkopf mit Vanitassymbolen, 8 Skelett mit Wiege]]
+
+
+
+== Beschreibung und Ikonologie ==
+
+
+T STERBESZENE In einem hohen Innenraum steht ein schweres Holzbett mit rundbogigem Kopfteil. Hier liegt ein sterbender Mann fortgeschrittenen Alters mit Nachthemd und Nachtmütze, gebettet in Kissen und eine gemusterte Decke. Zu Füßen des Bettes steht der Tod in Form eines Skeletts und zielt mit dem Pfeil auf den Sterbenden. Dieser ist vom höllischen Verderben bedroht: zwei große schwarze geflügelte Drachen sind im Vordergrund dargestellt, die die Zähne nach ihm fletschen. Am Sterbebett steht der Priester, ein jugendlicher Mann mit gelocktem Haar, hält die Sterbekerze und segnet den Sterbenden. Ein Ministrant bei ihm hält den Weihwasserwedel.
+
+
+[[File:Band11_chunk002_p016_img004.jpg|thumb]]
+
+
+
+[[File:Band11_chunk002_p016_img005.jpg|thumb|T Sterbeszene (Jacob Carnutsch nach 1694]]
+
+
+Der Sterbende haucht eben seine Seele aus, in Form einer angedeuteten hellen nackten Gestalt. Ein Engel, der über der Szene schwebt, nimmt sie mit der Hand entgegen und weist nach oben, wo Wolken und Lichtstrahlen mit Puttenköpfchen in den Raum eindringen, als Bestätigung, daß die Seele in den Himmel aufgenommen werden wird. Zu Füßen des Bettes sieht man ein trauerndes Paar, rechts hinter einem Tisch, auf dem Arzneidosen stehen, sitzt eine weinende Frau mittleren Alters in vornehmem schwarzen Trauergewand; hinter ihr ist ein jüngeres Paar dargestellt.
+
+1-8 VOR DEM TOD SIND ALLE GLEICH In den seitlichen Gewölbezwickeln sind innerhalb von Akanthusblättern 1 Skelett mit Standesabzeichen, 2 Totenkopf mit Schnabel, 3 Weibliche Standesperson als Skelett, 4 Jäger als Skelett, 5 Weibliche Standesperson als Skelett, 6 Jäger als Skelett, 7 Totenkopf mit Vanitassymbolen, 8 Skelett mit Wiege dargestellt. Die Darstellungen symbolisieren die Vergänglichkeit aller Stande und Lebenslagen.
+
+<!-- citation-page-bottom: Band11 p81 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk002.pdf#page=17 -->
+<!-- citation-page-top: Band11 p82 -->
+
+<!-- header: LANDKREIS TRAUNSTEIN · GRASSAU -->
+
+KAY
+
+Ornamentmalerei hochrechteckige Bilder in (imitierten) Barockrahmen dargestellt, die alle darauf hinweisen, daß der Tod jedem Menschen gewiß sei und daß mit dem Tod jede menschliche Auszeichnung wie Schönheit, Jugend, Reichtum oder Stand nichtig werde. In ebenfalls gemalten Kartuschen darunter erklärende Inschriften.
+
+An der Westwand der Kapelle hängt ein halbrundes Gemälde das Totenschädel auf einer Bahre vor einem Beinhaus darstellt Alle Schädel sind mit Initialen bezeichnet, der Schädel in der Mitte M. W. (Matthias Winkler). Das Bild dürfte im Zusammenhang mit der Ausmalung entstanden sein, und Pfarren Winkler verweist in ihm auf seine eigene Sterblichkeit. Der kleine Barockaltar stammt wohl aus der Ausmalungszeit. Das Altarblatt hat das Blut Christi als Heilsmittel zum Thema. Es ist Jakob Carnutsch zuzuweisen.
+
+
+== Quellen und Literatur ==
+
+
+AEM, Nachlaß Peter von Bomhard Nr. 190: Vorläufiger Text zu Grassau, Totenkapelle.
+
+Hausladen 1966, S. 10f.
+
+Bomhard, Peter von, Grassau Chiemgau (= KKF Nr. 37 1934), Neubearbeitung <sup>4</sup>1994, S. 16.
+
+A. B.
+
+{{End}}

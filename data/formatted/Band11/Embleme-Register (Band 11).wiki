@@ -1,0 +1,38 @@
+{{Artikel
+|Band=11
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=400
+|Originalseitenbis=401
+|Lemma=Embleme-Register (Band 11)
+|davor=Ikonographisches Register (Band 11)
+|danach=
+}}
+
+== Embleme-Register ==
+
+
+Der Übergang zwischen Emblemen und häufig auftretenden emblemähnlichen Darstellungen ist fließend. Die Aufnahme ins Register erfolgte nach Ermessen.
+
+
+== BILDMOTIVE ==
+
+
+Ährenbündel 298 Amboss 298 Baum des Lebens im Paradies 152 f. Brennende Kerze 298 Bundeslade 156 Dornbusch 297 Eule vor ihrer Höhle 155 Heerlager 156 Lilie mit Schwert 298 Lilie unter Dornen 155 Meerschwalbe 298 Mondsichel, von Sternen umgeben 155 Palme 377 Pelikan 298 Phiole 297 Phönix 294 Regenbogen über Landschaft 155 Rosenstrauch mit drei Blüten 155
+
+Schwan 298 Sonne 155 Springbrunnen in Garten 152 f. Taube mit Jungen unter den Flügeln 152 Tor, geöffnet 156 Traube 298 Turm Davids 156 Weinstock 377
+
+
+== LATEINISCHE LEMMATA ==
+
+
+A se ipsa liquorem 298 De parvis grandis acervus 2 Ferit, et delectat 297 Post fata superstes 298 Transfixum suavius 298 Tundor, non frangor 298 Unius coloris 298 Ut luceat omnibus 298 Vires diversae latent 297
+
+
+== DEUTSCHE LEMMATA ==
+
+
+Auserlesen wie die Sonne 155 Der Gerechte wird blühen wie die Palme 377 Der Sperling findet sein Haus, die Taube ihr Nest 152 Die Lade der Heiligung des Herrn 156 Eine Blume wird aufgehen aus seiner Wurzel 155 Furchtbar wie ein geordnetes Heerlager 156 Ich bin wie die Eule in ihrer Wohnung 155 Ihr sollt essen vom Baum des Lebens 152 Schön wie der Mond 155 Sieh Jesu Leidt 297 Siehe die Pforte des Herrn 156 Wer trinket, wird nicht mehr dürsten 152 Wie der Regenbogen glänzet zwischen herrlichen Wolken 155 Wie der Turm Davids 156 Wie eine Lilie unter Dörnern 155
+<!-- citation-page-bottom: Band11 p401 -->
+
+{{End}}

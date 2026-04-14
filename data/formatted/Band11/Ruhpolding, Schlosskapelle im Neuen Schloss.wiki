@@ -1,0 +1,128 @@
+{{Artikel
+|Band=11
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=123
+|Originalseitenbis=128
+|Lemma=Ruhpolding, Schlosskapelle im Neuen Schloss
+|Typ=Sakral
+|Ort=Ruhpolding
+|davor=Ruhpolding, Pfarrkirche
+|danach=Schedling, ehem. Schlosskapelle St. Joseph
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Im ehem. Neuen Schloß. Das Marienbild auf dem Hochaltar wurde in der zweiten Hälfte des 17. Jh. fast als Gnadenbild verehrt.
+
+
+'''Patrozinium:''' Mariä Himmelfahrt
+
+
+'''Zum Bauwerk:''' Das neue Herrenhaus mit der Kapelle ließ Herzog Wilhelm V. von Bayern 1585/87 durch den Maurermeister Martin Raffler und den Zimmermeister Michael Waller erbauen und mit drei Altären ausstatten. Für eine Erhöhung des Chors 1656, die Dehio erwähnt, spricht nach Quellenlage und Befund nichts. 1655 wurden gleichzeitig mit Baureparaturen in den Herrenhäusern auch Arbeiten an der Kapelle ausgeführt (»2 hoche Khirchenfenster im Chor jedeß 20 Schuech hoch neu glast« und andere Arbeiten). Eine ältere Putzschicht unter dem Deckengemälde im Chor stammt wohl aus dem Baujahr 1587 (BLfD). Das LHs hatte ursprünglich eine hölzerne Decke, gefertigt von Christoph Mock, Bürger und Tischler in Wasserburg (Bomhard). Nach Beendigung der Baureparaturen 1655 erhielt Heinrich Pacher, Ratsherr und Weinwirt in Traunstein, auf seine Bitte am 10.5.1656 vom Salzburger Consistorium die Erlaubnis, auf eigene Kosten alles beizubringen zu dürfen, was zum regelmäßigen Lesen der Messe auf einem altare portatile nötig war, als
+<!-- citation-page-bottom: Band11 p123 -->
+
+
+[[File:Band11_chunk003_p012_img005.jpg|thumb|EB<sub>3</sub> Lasset die Kinder zu mir kommen]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk003.pdf#page=13 -->
+<!-- citation-page-top: Band11 p124 -->
+
+<!-- header: LANDKREIS TRAUNSTEIN · RUHPOLDING -->
+
+<!-- header: I ANDKREIS TRAUNSTEIN · RUHPOLDING -->
+
+die Paramente, wovon in der Kapelle nichts mehr vorhanden war.
+
+1724/25 fanden Reparaturen statt: mit diesen Arbeiten (s. Auftraggeber) darf man wohl die Einwölbung des LHs mit einer sehr flachen Tonne statt der Holzdecke und die Deckendekoration in Zusammenhang bringen. Die Weihe am 23.7.1754 steht mit eventuellen Ausstattungsarbeiten wohl kaum in Verbindung; da die Kapelle nie geweiht worden war, geschah dies während der Bischof von Chiemsee, Franz III. Karl Eusebius Graf von Friedberg und Trauchburg, zur Weihe der neuen Pfarrkirche am 21.7.1754 ohnehin in Ruhpolding war (am 22.7.1754 Weihe der zu Ruhpolding gehörigen Kapelle Urschlau). Weitere bauliche Änderungen wie die Erhöhung des Bodens, Umgestaltung der Fenster und des Portals und eine Ausmalung des Innern fanden 1847 statt.
+
+Die Schloßkapelle ist ein eigener Bautrakt, dem Herrenhaus an der nördlichen Hälfte der Ostseite vorgebaut, in gleicher Höhe wie das dreigeschossige Schloß. Das Dach ist schindelgedeckt und hat einen kleinen Dachreiter. Der Kapellenraum ist ein im Verhältnis zur Grundfläche sehr hoher Saal, ungegliedert, mit zwei Fenstern und dem Portal in der Südwand. Er hat zwei seichte hölzerne Emporen an der Westseite: Der Zugang zur unteren Empore ist von der Kirche aus, zur oberen Empore aus dem Obergeschoß des Schlosses. Stark eingezogener Chor zu einem Joch mit halbrunder Apsis, sehr hoch und schmal, jedoch deutlich niedriger als das LHs, mit je einem Fenster nach N und S.
+
+'''Auftraggeber:''' Die Herrenhäuser mit der Kapelle standen unter der Jurisdiktion des Traunsteiner Salzmaieramtes. Die Beamten der diesem Amt zugehörigen Waldmeisterei, die mit der Aufsicht auf die Forsten und die Holzbeschaffung befaßt waren, kamen zweimal jährlich nach Ruhpolding und wohnten während ihrer Amtsgeschäfte im Neuen Herrenhaus. 1725 wird berichtet, »die Waldmeisterei und einige Holzmeister« haben bei »der verhanndtnen Capellen aus aignen zusammen geschossenen Mittlen, underschidliche – auf ville Gulden sich hinan beloffene Reparationes erst kürzlich vornemmen lassen« (BHStA, GL Fasz. 4135). Da die Deckendekoration in diese Zeit zu datieren ist (s. u.), sind die Beamten des Salzmaieramts als Auftraggeber der Deckenbilder anzunehmen.
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, um 1725. Die Form der Stuckleisten muß ins 18. Jh. datiert werden, die Form der Leistenfelderung dürfte kaum vor 1720, aber spätestens bis zur Jahrhundertmitte zu datieren sein. Die sehr flache Tonne des LHs ist vor dem 18. Jh. schwer vorstellbar (Bomhard datiert im Nachlaß die Deckendekoration in die Jahrhundertmitte, in zeitlichem Zusammenhang mit der Weihe 1754). Leider sind die Deckenbilder durch Übermalen und Wiederaufdecken in ihrem originalen Bestand sehr beeinträchtigt. Bei den Engeln im Chor (a-h) handelt es sich eigentlich um Arbeiten Georg Gschwendtners; bei der Dreifaltigkeit im Mittelbild des Chors (B) kann dagegen eher von einem Bild des 18. Jh. gesprochen werden. Die Marienszenen im LHs (1–10) sind vermutlich nach noch erkennbaren alten Kompositionen gemalt; ganz neu gemalt ist offensichtlich 10 (Glorie Mariens). Das Hauptbild (A) zeigt mehr originale Substanz, aber gleichzeitig die Unfähigkeit des Autors, eine untersichtige Komposition zu bewältigen. Das kleine Schutzmantelbild am Chorbogen (W) scheint verhältnismäßig original.
+
+Der Autor muß einer der Traunsteiner Maler sein, da die Traunsteiner Beamten schwerlich einen Maler von außerhalb gerufen hätten. Die Traunsteiner Maler waren (von Wolf Jakob Schroff abgesehen) künstlerisch unbedeutend. Um 1725 waren zwei Maler ansässig, Johann Anton Frank (* unbekannt † 1731 Traunstein) und Timotheus Carl Baumgartner (* 1690 Traunstein † 1762 Traunstein). Von beiden ist neben Fassarbeiten in den Kirchenrechnungen je eine Tätigkeit als Freskant überliefert: 1719 renovierte Frank das freskierte Chorgewölbe in Heilig Geist in Traunstein (nicht erhalten): »Auf Anordnung geistlicher und weltlicher Obrigkeit ist durch Johann Antoni Franckh Mallern, das Chorgewölb (von Hl. Geist) in fresco allenthalben renovirt worden um 16 fl.«; und 1755 malte Baumgartner in Siegsdorf: »Er thette auch in dem Gewölb bei der Auffahrt Christi ein Glori mit Englsköpfen und Strahlen, die Mauer beim heyligen Haubt Altar von oben herab mit plauer Farb, item die 12 Apostel Creuz in der Kirchen an der Mauer, und leztlich die 12 Leuchter dabey roth ybermahlen 4 fl. 54 x.«
+
+[[File:Band11_chunk003_p013_img001.jpg|thumb|A Immaculata, 1–10 Szenen aus dem Marienleben (um 1725)]]
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs Flachtonne, AR verschliffenes Kreuzgratgewölbe
+
+Rahmen: Einfache Stuckprofile
+
+Technik: Seccomalerei in Kaseintechnik; A, B und W polychrom, 1–10 und a-h monochrom ocker
+
+Maße: A Höhe 10,85 m; 5,15 × 2,50. B Höhe 9,15 m; 1,20 × 1,20. I,40 × 1,40
+
+Erhaltungszustand und Restaurierungen: Restaurierung 1847 mit Neuausmalung durch Joseph Weinberger aus Traunstein nach Entwürfen von Joseph Führich. »Damals wurden Decke und Wände ausgebessert und die Wände mit einem hellgrünen Tone übertüncht. Im Gewölbe des Presbyteriums wurde ein Fresko, die hl. Dreifaltigkeit darstellend, angebracht, im Schiff ein solches von Mariä Himmelfahrt« (Bergmaier, S. 201; s. auch BLfD). Austünchung 1891. 1902 plante man eine »Ausmalung mit bunten Farben in modern gothischer Art«, die vom General-Konservatorium nicht genehmigt wurde. 1903 wurde ein Vorschlag des Traunsteiner Malers Franz Ehelechner zu einer Ausmalung »grau in grau Stuckaturen nachahmend« genehmigt. Dabei ersetzte »der Kunstmaler Max Fürst von Traunstein ... das Hauptgemälde durch ein Mariä-Himmelfahrt-Motiv in Anlehnung an das Vorbild von Reni. 500 Mark wurden dafür bezahlt« (ebda, S. 203). Bei der Innenrestaurierung 1952 durch Johann Eder, Vaterstetten, wurde der barocke Marienzyklus aufgefunden, freigelegt und durch Georg Gschwendtner, Karlstein, sehr freizügig restauriert.
+
+Letzte Innenrestaurierung 1986 zur 400-Jahrfeier durch Willibald und Alois Stein, Inzell. Die Befunduntersuchung ergab vier Raumtönungen. Das Innere wurde auf die zweite Raumfassung zurückgeführt. »Die 1952 ... freigelegten Deckengemälde wurden nur trocken gereinigt. Nachbesserungen wurden nicht durchgeführt.«
+<!-- citation-page-bottom: Band11 p125 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk003.pdf#page=14 -->
+<!-- citation-page-top: Band11 p126 -->
+
+<!-- header: LANDKREIS TRAUNSTEIN · RUHPOLDING -->
+
+== Beschreibung und Ikonographie ==
+
+Die LHs-Decke hat eine einfache Stuckfelderung mit einem mittleren Hauptbildfeld und zehn begleitenden Nebenfeldern. Das Hauptbild im Chor ist von acht Feldern umgeben, die Engel mit Musikinstrumenten zeigen. Trotz des sehr fragwürdigen Zustands der Deckenbilder im Einzelnen ist der Gesamteindruck der Deckenmalerei im Raum nicht schlecht.
+
+A IMMACULATA Große Engel auf dunklen Wolken tragen eine große blaue Erdkugel, auf der die Immaculata mit gefalteten Händen in einer Lichtglorie erscheint, den linken Fuß auf der Mondsichel. Sie trägt ein helles Kleid und einen blauen Mantel, im Haar einen Rosenkranz und um das Haupt den Sternenkranz. Mit dem rechten Fuß tritt sie auf die Schlange, die sich um die Weltkugel windet und die infolge des Tritts den Apfel der Versuchung aus dem Maul verliert. Überall in den Wolken, die nach oben aufgelichtet sind, sieht man Putten und Puttenköpfchen. Zwei Putten, zu Seiten der Immaculata fliegend, halten Lilien sowie das Zepter (links) und die Krone (rechts) der Himmelskönigin.
+
+[[File:Band11_chunk003_p014_img001.jpg|thumb]]
+
+Dort kniet Balthasar, der Krone und Zepter nebst einem Schatzkästchen dem Kind zu Füßen gelegt hat. Kaspar ist als junger Mohr mit Turban gegeben, der ein Zepter und als Geschenk an das Kind ein Weihrauchgefäß hält. Ihm folgen ein Mohr mit Federkrone und ein Kamel. Melchior ist stehend zwischen Maria und Balthasar dargestellt, mit Turban und einem Deckelgefäß.
+
+[[File:Band11_chunk003_p014_img002.jpg|thumb|B Hl. Dreifaltigkeit, a-h Engelskonzert]]
+
+W SCHUTZMANTELMADONNA Über dem Chorbogen befindet sich ein kleines Fresko, das Maria mit der Krone der Himmelskönigin darstellt, die auf Stufen erhöht steht und ihren weiten blauen Mantel über geistliche und weltliche Würdenträger und Volk breitet. Links führt ein Papst die Schar der Geistlichen an. Neben ihm kniet ein Bischof, es folgen ein Mönch, ein Weltgeistlicher und andere. Vor dem Papst liegen ein Bischofstab und ein roter Kardinalshut. Rechts werden die weltlichen Schutzbefohlenen Mariens von einem knienden jugendlichen Fürsten im Hermelinmantel angeführt. Vor ihm liegen als Zeichen weltlicher Macht ein Zackenkrone, ein Fürstenhut und ein Kurhut.
+
+Der Hochaltar stammt aus der Erbauungszeit 1585/87, nach Bomhard ist er ein Werk des Wasserburger Tischlers Christoph Mock. Es ist ein hoher, schmaler eleganter Aufbau, die Gliederung schwarz gebeizt, die Flächen marmoriert. Aus dem späten 16. Jh. ist auch das qualitätvolle Altarblatt, Werk
+<!-- citation-page-bottom: Band11 p127 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk003.pdf#page=15 -->
+<!-- citation-page-top: Band11 p128 -->
+
+<!-- header: I ANDKREIS TRAUNSTEIN · RUHPOLDING -->
+
+eines unbekannten (Wasserburger?) Meisters. Es zeigt die stehende Madonna mit dem Kind in einem durch Pfeiler angedeuteten Kirchenraum. Maria hält eine Rose, das Kind auf ihrem linken Arm einen Stieglitz. Rechts und links vom Haupt der Madonna erscheinen Engel in Wolken und halten eine große Krone über sie. Der weite Mantel Mariens wurde vermutlich im 18. Jh. mit vergoldeten Ornamenten versehen (Nadler). Dieses Marienbild wurde im späteren 17. Jh. von der Bevölkerung verehrt und gern besucht, galt aber nie als eigentliches Gnadenbild.
+
+
+== Ouellen und Literatur ==
+
+
+BHStA, GL Fasz. 4114, Nr. 17: Baureparaturen an den fürstl. Jagdhäusern zu Ruhpolding 1650–1708; Fasz. 4135, Nr. 76: Pläne zum Abriß der Herrenhäuser und Abriß des älteren 1729.
+
+AEM, Pfarrakten Ruhpolding, Pfarrbeschreibung: Schloßkapelle 1816; Bauten II: Restaurierung 1903; Die sogenannte Herrn-Hauscapelle in Ruhpolting 1656–1780 (im Akt Kapellen): Stiftung Heinrich Pachers 1656.
+
+AEM, Nachlaß Peter von Bomhard Nr. 192: Manuskript zu einer Publikation über die Kunstdenkmale des Landkreises Traunstein, Teil II, Von Traunstein nach Süden: Ruhpolding, Schloßkapelle.
+
+AEM, Kunsttopographie des Erzbistums, Dekanat 44/Traunstein, Pfarrei Ruhpolding (Stefan Nadler), Schloßkapelle. BLfD, Akt Ruhpolding, Schloßkapelle.
+
+
+== KDB I OB (2), S. 1819 f. ==
+
+
+Wagner, Johann Joseph, Geschichte des Landgerichts Traunstein. III. Geschichte der industriellen Anstalten, in: OAVO 27, 1866/67, S. 218–70. Das Salinenwesen auf der Au zu Traunstein, S. 258–64.
+
+Mayer-Westermayer, Bd. 1, S. 559f.
+
+Bergmaier, Peter, Ruhpolding. Heimatbuch aus dem Miesenbach (stark erweiterte Auflage des Buches Traunstein 1927), Ruhpolding <sup>2</sup>1953, S. 200–02.
+
+Sieghardt, August, Burgen und Schlösser im Landkreis Traunstein, in: Heimatbuch des Landkreises Traunstein, Bd II. Trostberg 1970, S. 17–45. Das fürstliche Jagdschloß in Ruhpolding S. 23.
+
+Historischer Atlas I, Bd 26, Traunstein (Richard van Dülmen) München 1970, S. 149.
+
+Gall, Alf, Ruhpolding. Chronik auf Grundlage des Heimatbuches von Peter Bergmaier, Ruhpolding 1983, S. 243–46. Dehio 1990, S. 1043.
+
+Mühlbacher, Josef, Ruhpolding (= KKF Nr. 28), München und Zürich <sup>2</sup>1995, S. 16f.
+
+A.B.
+
+
+== SCHEDLING ==
+
+
+{{End}}

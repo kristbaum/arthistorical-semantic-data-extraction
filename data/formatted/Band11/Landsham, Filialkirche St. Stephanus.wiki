@@ -1,0 +1,148 @@
+{{Artikel
+|Band=11
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=364
+|Originalseitenbis=370
+|Lemma=Landsham, Filialkirche St. Stephanus
+|Typ=Sakral
+|Ort=Landsham
+|davor=Grafing, Marktkirche Heiligste Dreifaltigkeit
+|danach=Oberndorf, Pfarrkuratiekirche St. Georg
+|AutorIn1=Sauerländer, Brigitte
+}}
+
+<!-- citation-page-top: Band11 p364 -->
+
+Filialkirche, Pfarrei Kirchheim (seit 1881, vorher Expositur-<br>kirche), Gemeinde Pliening, Erzdiözese München und Frei-<br>sing. Ursprünglich war Landsham (früher auch Nansheim) Pfarrei, dem Domkapitel Freising inkorporiert, und Markt Schwaben war Filiale von Landsham. Zu Anfang des 17. Jh. aber wurde St. Margareta in Schwaben zur Pfarrkirche erhoben und Landsham ihre Filiale, die von einem eigenen Kooperat betreut wurde, der in Landsham wohnte. Gericht Schwaben
+
+
+'''Patrozinium:''' St. Stephanus
+
+
+'''Zum Bauwerk:''' Einheitlicher Bau des Erdinger Stadtbaumei-<br>sters Johann Baptist Lethner von 1757/58. Der Vorgängerba-<br>uist in der Schmidtschen Matrikel als »nunc admodum ru-<br>inosa... et reaedificatione indiga« bezeichnet. Ende des<br>Jahres 1757 war der Bau bereits so weit gediehen, daß Pfarre-<br>rer Kressierer am 17.11. in Freising um die Erlaubnis zur Benedizierung bitten konnte. Für das Jahr 1758 kann man also die<br>Fertigstellung des Baus annehmen. Im Kirchenrechnungsex-<br>trakt für das Jahr 1762 ist die Bausumme mit 3689 fl. genannt.<br>1766 wurde ein neuer Choraltar von Matthias Fackler über 290<br>fl. ratifiziert: »Mathias bürgerl. Kistler zu Dorfen, der diesen<br>Choraltar und Kanzel gefertigt incl. 10 fl. für zwei Seitenaltäre,<br>was Herr Beneficiat aus seinem Säckl bezahlt«. Die Fassung<br>besorgte Johann Michael Singer, Maler in München, um 425 fl.<br>Martin Haider, Maurermeister zu Schwaben, besserte das Kir-<br>chendach aus (Kirchenrechnungen 1769).<br>Vierachsiger Saalbau (13,00×7,80 m), im W Doppelempore,<br>die Ecken sind gemuldet verschliffen. Eingezogener Chor<br>(8,50×6,50 m) zu einem Joch mit Schluß in Form eines gestelz-<br>ten Halbkreises; an der Südseite Sakristei mit darüberliegende-<br>Empore. Gleichmäßige Belichtung in LHs und AR durch<br>hohe Rundbogenfenster; das Fenster im Chorhaupt ist ver-<br>mauert. LHs und AR sind durch Pilaster auf flachen Wand-<br>vorlagen gegliedert; die insgesamt sechs Eckpilaster sind ein-<br>gemuldet. Der Meister des Decken- und Wandstucks in<br>zierlichen, etwas zerdehnten Rocailleformen ist unbekannt,<br>jedoch dem Stuckator in Lengdorf und Niederding (beide<br>LKr. Erding, Fresken von Unterleutner, s. CBD Bd 7, s. 201—<br>207 und 225-29) verwandt. Altarausstattung aus der Erbau-<br>ungszeit. Hochaltarblatt mit Darstellung der Steinigung des<br>hl. Stephanus, im Auszug der hl. Laurentius. Auf den beiden<br>Seitenaltären qualitätvolle Schnitzfiguren der Heiligen Katha-<br>rina, Barbara, Florian und Johann Nepomuk, dem Bildhauer<br>Christian Jorhan d. A. zugeschrieben (Schlüter, S. 272).
+
+
+[[File:Band11_chunk008_p008_img001.jpg|thumb]]
+
+
+[[File:Band11_chunk008_p008_img002.jpg|thumb|Der Kirchenraum]]
+
+
+[[File:Band11_chunk008_p008_img003.jpg|thumb|D. Inschriftkartusche im Chor]]
+<!-- citation-page-bottom: Band11 p365 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk008.pdf#page=9 -->
+<!-- citation-page-top: Band11 p366 -->
+
+'''Auftraggeber:''' Johann Caspar Kressierer, Pfarrer von Mark Schwaben (1733–1783), Doktor der Theologie und Dekan fünfzig Jahre lang im Amt. Er war offenbar vermögend. Das Pfarrhaus in Markt Schwaben hatte er {ZITAT|000} erbauen lassen. In seiner Bitte um die Erlaubnis zur Benediz weist er auf die Beteiligung seiner Gemeinde hin: {ZITAT|001} (AEM). Bei der Freskierung ist eine private Stiftung anzunehmen.
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Joseph Unterleutner (* 1708 Kiefersfelden † 1772 Freising) 1758. Das Datum 1758 ist über dem östlichen Bildrand von B. Chronogramm in der Inschriftkartusche D<sub>1</sub> im Chor: qVID saCrae stephanl Coronae Deest? LapIDes (= 1758; Was fehlt der heiligen Krone Stephans? Die Steine).
+
+Die Zuschreibung an Unterleutner erfolgt aufgrund stilistischer und motivlicher Kriterien. Zum Vergleich wurden drei signierte Kirchenausmalungen Unterleutners herangezogen, die der Pfarrkirche St. Martin in Niederding von 1760 (CBD Bd 7, S. 225–30), der Pfarrkirche St. Peter in Lengdorf vor 1761 (CBD Bd 7, S. 201–08) und der Pfarrkirche St. Margaretha in Pfrombach von 1763 (CBD, Bd 6, S. 280–89). Trotz des unterschiedlichen Erhaltungszustands lassen sich doch viele Gemeinsamkeiten feststellen.
+
+Bei den Fresken mit hoch ansteigender Figurenbühne fällt eine starke Neigung zu achsensymmetrischen Kompositionen auf. Die Hauptfigur ordnet Unterleutner gern in der Mittelachse der Szene an und die Nebenfiguren ihr möglichst symmetrisch zu. Er zeigt gern weitere Szenen der jeweils dargestellten Geschichte rechts und links der Hauptgruppe mit stark verkleinerten Figuren im höher liegenden Bildhintergrund. Die Figurenbildung ist etwas massig und gedrungen; Körperhaltung und -bewegung sind häufig ungelenk. Gut vergleichbar sind in allen vier Kirchen die Körper der dicklichen, in der Körperlänge gestreckten Putten, die in den Wolken eher zu hängen als zu schweben scheinen. Die Binnenzeichnung der Figuren ist rötlich, in den Gesichtern und Haaren feinteiliger als bei den Körpern. Die Gesichtsbildung ist bei allen Ausmalungen sehr ähnlich. Häufig kommen junge, runde Gesichter vor mit runden Backen, kleiner Nase und kleinem, geschwungenen Mund, wobei die Mundwinkel jeweils durch einen kleinen, senkrechten Strich gekennzeichnet sind. Die Gewandbildung zeigt wenig Anmut. Die schwerfälligen, etwas dickflüssigen Gewanddraperien verlaufen in mehrfach geknickten, oft wulstigen Bahnen. Belichtete Partien sind weißgehöht, Faltentäler durch Schraffuren gekennzeichnet.
+
+Bei der Farbigkeit Unterleutners fällt auf, daß verschiedene zarte Gelbtöne, ausgebleichte Rosa- und Rottöne, die zum Teil nach Braun oder blassem Violett hin tendieren, die bestimmenden Farben sind. Verwaschene Blau- und Grüntöne, die im Bild verteilt, ein gewisses Farbgleichgewicht herstellen, sind dem Rot-Gelb-Akkord meist untergeordnet. Auch der Himmelsbereich ist stärker von gelblichen und rosatonigen Wolken bestimmt als vom Himmelsblau. Am besten läßt sich in Pfrombach der Farbstil Joseph Unterleutners erkennen: bei vorherrschendem Rot-Gelb-Akkord eine zarte Buntfarbigkeit, deren an sich schon gebrochene Töne durch Aufhellung und Weißhöhung weiter aufgelichtet werden.
+
+Auch motivlich läßt sich belegen, daß Landsham von der gleichen Hand ist wie Niederding, Lengdorf und Pfrombach. Die Hintergrund-Architekturen, wie aus Bauklötzchen zusammengestellt und mit gerahmten Fenster- und Okulusöffnungen versehen, lassen sich gut vergleichen, sehr ähnlich gebildet sind auch die Schafe mit ihren dicken Schwänzen; bei den Kriegern finden sich verwandte Helme und Schilde, bei den zeitgenössisch gewandeten Figuren ähnliche, breitkrempige Kappen mit geschlitztem Rand. Die stacheligen, dornigen Vordergrundpflanzen mit geknickten, dürren Zweigen haben jeweils die gleiche Struktur.
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs (A,B,C) und AR (D, D<sub>1</sub>) flache Stichkappentonne, im AR nach O abgemuldet. Rahmen: Stark ondulierte, auch spitz ausschwingende Stuckprofilrahmen, von Rocaillemotiven überlappt. Technik: Fresko; A–D polychrom, D<sub>1</sub> rosafarben monochrom. Maße: A Höhe 8,25 m; 2,25 × 3,40. B Höhe 8,25 m; 3,75 × 6,30. C Höhe 8,25 m; 2,25 × 3,40. D Höhe 7,80 m; 3,55 × 3,10.
+
+Erhaltungszustand und Restaurierungen: In den Jahren 1856–1873 war die Kirche wegen fehlerhafter Dachung immer wieder von Feuchtigkeit bedroht (StAM, LRA 75661 und 75679). In einem Protokoll der Landshamer Kirchenverwaltung vom s. 10. 1888 »wird die gründliche und vollkommene Renovierung des Innern der Kirche« angemahnt. Den Kostenvorantrag für Altäre und Beichtstühle erstellte der Münchner Maler und Vergolder Franz Pollinger; die Fresken sind nicht erwähnt, müssen aber wegen der Feuchtigkeitsschäden in die Restaurierung miteinbezogen gewesen sein. Ein Bericht des Kgl. Landbauamtes München vom 19.2. 1890 besagt, daß die Kirche innen getüncht und der Stuck, ohne gereinigt worden zu sein, mit falschen, zu dunklen und zu grellen Farben übermalt wurde (StAM, LRA 75707). 1897 war das Dach wiederum defekt und die Decke zeigte große Wasserflecken. Dachreparatur 1899. 1957/58 Instandsetzung des Innenraums unter Beteiligung von Kirchenmaler Karl Eixenberger, München. 1976 Trockenlegung und Außenrestaurierung. Letzte Innenrestaurierung 1982 durch Kirchenmaler Johann Eder, Vaterstetten: Neufassung des gesamten Gewölbes auf vorher weiß getünchtem Grund in dem bisherigen farbigen Charakter; Reinigung und Ausbesserung der Deckenfresken. Der heutige Zustand läßt die vermutlich nicht geringen Wasserschäden des ausgehenden 19. Jh. noch erkennen, vor allem in der fehlenden Faltenmodellierung und der Neubildung einzelner Gesichter. A wirkt stark überarbeitet. In B sind am besten erhalten, auch in der Durchbildung der Gesichter, die Figuren von Stephanus, Gottvater und Christus, die durchaus malerische Qualität erkennen lassen. Reinigung und Renovierung der Altäre 2000. – Die Renovierungsdaten 1957 und 1982 sind im AR über dem Chorbogen angegeben.
+
+[[File:Band11_chunk008_p009_img001.jpg|thumb|Das Langhausgewölbe mit den Fresken A Beisetzung des hl. Stephanus in Rom, B Steinigung des hl. Stephanus, C Engel (Joseph Unterleutner 1758)]]
+<!-- citation-page-bottom: Band11 p367 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk008.pdf#page=10 -->
+<!-- citation-page-top: Band11 p368 -->
+
+<!-- header: LANDKREIS EBERSBERG · LANDSHAM -->
+
+
+[[File:Band11_chunk008_p010_img001.jpg|thumb]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+Die lebhaft ein- und ausschwingenden, ocker- bis rosatonigen<br>Stuckprofilrahmen A–D greifen in die Stichkappenzwickel<br>hinüber und korrespondieren in ihrer Silhouette mit dem obe ren Abschluß der nach unten spitz zulaufenden Zwickelkartuschen. Feingliedrige, ausfransende Stuckkartuschen aus Rocaille- und Zweigmotiven verklammern in der Längsachse die Bildabfolge. Diese Funktion hat auch die Kartusc muster besetzt, die Stichkappen in einem sehr blassen, weißto-<br>nigen Rosa gehalten, die Deckenflächen in einem ebenso blassen Grün. Die ockerfarbenen Verbindungskartuschen sind rosa grundiert.
+
+Am Chorbogen befindet sich eine Stuckkartusche aus Rocail-<br>lemotiven Deo 6 /S. Stephano / aedificatum./ Sub. Auf den<br>seitlich anschließenden gemalten Schriftbändern (erneuert)<br>steht: Hl. Stephanus / – bitte für uns!
+
+A BEISETZUNG DES HL. STEPHANUS IN ROM Queroblonge Szene über der Orgel, Ansicht nach W. Die stark untersichtige Bildanlage hat wenig Tiefe. Die Handlung entfaltet sich auf einem hochgezogenen Vordergrundstreifen und einer
+
+Im Vordergrund sieht man das geöffnete Grab und zwei Leichenträger, die den offenen Sarg des hl. Stephanus neben dem ebenfalls offenen Sarg des hl. Laurentius hinablassen. Beide Märtyrer tragen das Diakonsgewand. Laurentiu
+
+Die Szene zeigt den Schluß der Stephanuslegende nach de<br>Legenda aurea, die Endbestattung des Heiligen in Rom (LA<br>Benz, S. 535/36; LA-Graesse, S. 464 f.; BiblSS, Bd 11, s.v. Ste tano, protomartire, Sp. 1384). Die erste Beisetzung des hl. Ste<br>phanus erfolgte auf dem Gut des Gamaliel in der Nähe vo Jerusalem. 415 wurden die Gebeine erhoben und in der Sion Kirche zu Jerusalem bestattet (Ribadeneira-Hornig, Bd 2<br>S. 146f.). Im Laufe des 5. und 6. Jh. gelangten die Stephanus<br>Gebeine nach Konstantinopel – einer Legende zufolge durch<br>eine Verwechslung zweier Särge – und wurden do geplagt wurde, wünschte ihr Vater, daß sie nach Konstantinopel heimkehre, um am Grab des hl. Stephanus geheilt zu werden. Der Geist in ihr rief jedoch, daß er nur ausfahren wolle wenn der hl. Stephanus nach Rom käme. Theod
+
+
+== B STEINIGUNG DES HL. STEPHANUS (Act 7, bes. 55- ==
+
+
+
+[[File:Band11_chunk008_p010_img002.jpg|thumb]]
+
+
+
+[[File:Band11_chunk008_p010_img003.jpg|thumb|D Stephanus als Patron (Joseph Unterleutner 1758)]]
+
+
+
+[[File:Band11_chunk008_p010_img004.jpg|thumb|A Beisetzung des hl. Stephanus in Rom]]
+<!-- citation-page-bottom: Band11 p369 -->
+
+
+[[File:Band11_chunk008_p010_img005.jpg|thumb]]
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk008.pdf#page=11 -->
+<!-- citation-page-top: Band11 p370 -->
+
+<!-- header: LANDKREIS EBERSBERG · LANDSHAM -->
+
+Zeugen auch bekleidete Männer, deren einer ein neuzeitliches Gewand trägt mit Halskrause und geschlitzter Kappe. Wegen der seitlich ansteigenden Ränder der Erdmulde scheinen die massigen, zur Bildmitte hin geneigten Figuren mit ihren hocherhobenen Steinen fast über dem Märtyrer zu stehen. Am nördlichen Bildhorizont erscheinen zwei Frauen, die erschrocken das Geschehen betrachten, am südlichen sind mit Architektur-Versatzstücken Stadtmauer und Stadttor von Jerusalem angedeutet. Im Torbogen erscheint, gefolgt von einer Frau, ein Mitglied des Hohen Rats der Juden, das sich die Ohren zuhält. Hier wird in Kurzform auf das Ende des Verhörs verwiesen, worin Stephanus den Hohen Rat schwer getadelt hatte (Act 7, 57/58): »Da schrien sie laut auf, hielten sich<br>die Ohren zu und stürmten alle miteinander auf ihn los,<br>stießen ihn zur Stadt hinaus und steinigt
+
+Über Stephanus öffnet sich der Himmel. Im Zentrum der himmlischen Szene thront Gottvater auf einer Wolkenbank die linke Hand auf die Weltkugel gestützt. Zu seiner Rechten erscheint Christus, dem Märtyrer zugeneigt. Darüber
+
+Himmlische und irdische Zone sind durch die gemeinsame farbliche Grundstimmung verbunden: Ockertöne, bis zu Braun hin abgeschattet an den Bildrändern, aufgehellt zur Bildmitte hin, wo sie den blaß blaugrauen Himmel durchsc
+
+C ANBETUNG DES HEILIGEN GEISTES Queroblonges Bildfeld. Ein in hellem Blaugrau modellierter Wolkengrund umgibt die Hl.-Geist-Öffnung, auf deren Deckel die Geisttaube dargestellt ist. Die Öffnung ist von einem Ring in gelbli
+
+D STEPHANUS ALS SCHUTZPATRON Einansichtige Szene. In einem leicht eingemuldeten Wiesengrund knien zwei Bittstellergruppen, in der linken Bildhälfte die Männer, in der rechten die Frauen. Zwischen ihnen bleibt der Blick in
+
+flehenden kniet auf einer Wolkenbank der hl. Stephanus, im<br>gleichen rot und goldfarben gemusterten Gewand wie bei der Steinigung. Ein Putto verweist auf die Attribute am Rand der Wolkenbank; ein zweiter Putto, auf der anderen Seite des Heiligen, hält eine Blumengirlande.
+
+Die dargestellten Tiere machen deutlich, daß der hl. Stephanus auch noch um die Mitte des 18. Jh. als Pferde- und Viehpatron verehrt wurde (LThK2, Bd 9, s.v. Stephanus, Erzmartyrer, Sp. 1052, Klaus Beitl). Außerdem war in Landsham sicher noch das große Viehsterben von 1712 in Erinnerung, wovon<br>das damals gemalte, im LHs aufgehängte Votivbild breit er-<br>zählt. Die ganze Gegend war betroffen und die Pfarrei Markt Schwaben hatte sich mit all ihren Filialen nach St. Stephanus in Landsham verlobt.
+
+D<sub>I</sub> INSCHRIFTKARTUSCHE Queroblonge, aus zier-<br>lichen Rocaillemotiven gebildete Kartusche mit Blickrichtung<br>nach W. Über dem doppelten Schriftband ist eine Metallkrone mit zwei durchgesteckten Lorbeerzweigen dargestellt, Krone<br>und Lorbeer als übliche Märtyrerzeichen, die Krone aber auch Hinweis auf den Namen Stephanus, der >Krone« bedeutet. Unter den beiden Schriftbändern ein bedeckter Tisch mit schweren, durch Blut gefärbten Steinen darauf. Die obere, größer geschriebene Zeile (mit Chronogramm 1758) lautet: QUID saCrae stephanI Coronae Deest? LapIDes. Die un
+
+== Quellen und Literatur ==
+
+AEM, Pfarrakten Kirchheim bei München, Filiale Landsham, Umpfarrung.
+
+AEM, Pfarrakten Markt Schwaben, Kirchenrechnungsextrakte 1670–1762; Filiale Landsham 1705–1871: Neubau 1757/58.
+
+StAM, Kurbayern Geistl. Rat Kirchenrechnungen Gericht Schwaben, 1769.
+
+StAM, LRA 75661: Baufälle in Neufahrn und Landsham 1856–1862; LRA 75679: Reparaturen 1867; LRA 75707: Innenrestaurierung 1889; LRA 75720: Landsham 1898–1901. BLfD, Akt Landsham, St. Stephan.
+
+Schmidtsche Matrikel, Bd 2, S. 468, 517f., 521f.
+
+Mayer-Westermayer, Bd 3, S. 127f., 130-133.
+
+KDB I, OB (2), S. 1206f. (zu J. B. Lethner); S. 1375f.
+
+Kastner, Heinrich, Landsham, in: Der Landkreis Ebersberg in Geschichte und Gegenwart. Ein Heimatbuch, München 1960, S. 124.
+
+Sponholz, Hans, Schöne Heimat Ebersberg. Der Landkreis in Bildern, München-Aßling 1967, S. 155 (Abb. Votivtafel).
+
+Brenninger, Georg, Joseph Unterleutner, ein Freisinger Maler in der Rokokozeit, in: Amperland 17, 1981, S. 151-155 (ohne Landsham).
+
+Schlüter, Helmut, Die Kunstdenkmäler, in: Der Landkreis Ebersberg, Raum und Geschichte, Stuttgart 1982, S. 272. Historischer Atlas I, Bd 48, Gericht Schwaben (Gottfried Mayr), München 1989, S. 54, 57, 253f., 383. Dehio 1990, S. 582.
+
+OBERNDORF
+
+{{End}}

@@ -1,0 +1,135 @@
+{{Artikel
+|Band=11
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=383
+|Originalseitenbis=383
+|Lemma=Ortsregister (Band 11)
+|davor=Im 18. Jh in den Landkreisen Traunstein, Berchtesgadener Land und Ebersberg tätige Maler
+|danach=Personenregister (Band 11)
+}}
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk008.pdf#page=18 -->
+<!-- citation-page-top: Band11 p384 -->
+
+
+Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
+
+
+{| class="wikitable"
+|-
+| Achental 53 Berg, ehem. Filialkirche 45–48 Domkreuzgang 372
+|-
+| Aheim 323 Berg am Laim 333, 357 Diözesanmuseum 22
+|-
+| Aibling 268 Berghofen bei Moosach 343 Fridolfing, Pfarrei 51, 243
+|-
+| Akkon 185 Beuerberg 336 Fridolfing, Rathaus 51 f.
+|-
+| Albertaich 91 Bräuhausen 98 Friedburg 218
+|-
+| Alicante 193 Brandenburg 260 Friedingen an der Donau 46
+|-
+| Allersdorf 279 Brannenburg, Herrschaft 62 Fulda 272
+|-
+| Almau 19 f. Braunau 46
+|-
+| Altenburg, Wallfahrtskirche 267–87 Breitbrunn 78
+|-
+| Altenerding 338
+
+Bruck 268
+
+Brüssel 272
+
+Brunn 91
+
+Gaispoint bei Wessobrunn 331
+
+Gars, Augustiner-Chorherrenstift 133, 217, 23
+
+Archidiakonat 22
+|-
+| Hofmark 22, 42, 161, 163, 188
+
+Burg 22
+
+Gelting, Pfarrkirche 347–53
+
+Burghausen 19, 56, 129, 133, 196, 207 f., 258
+
+Glonn 343
+|-
+| Jesuitenkolleg 24, 208, 312
+
+Gosseltshausen 372
+
+Jesuitenkolleg 24
+
+Englische Fräulein 208
+
+Grabenstätt 146
+|-
+| St.-Kajetanskapelle 208
+
+Grafing, Marktkirche 343, 354–63
+
+Emiens 86, 318
+
+Buxheim 372
+
+Granada 320f.
+|-
+| ndechs 302, 305, 325 f. Cambridge 63 Grasbrunn 343
+|-
+| Candes bei Tours 88
+
+Chartres 88
+
+Chieming 79
+
+Schloß und Hofmark 288f.
+
+Ffarrei 22
+
+Heilige Stiege 288f., 298
+
+Gruft der Familie Höger 288
+
+Dürrnberg 260
+
+Heilig Blut am Wasen 344
+
+Heilig Blut bei Erding 267
+
+Heilig Kreuz bei Feichten 49
+|-
+| Fürstpropstei 201, 207 f., 210, 212, 214, 245, 257
+
+Stiftskirche 201
+
+Sakristeibau der Stiftskirche 201–06, 246
+
+Obere Sakristei 201 f., 204–06
+
+Untere Sakristei 201–04, 233
+
+Friedhofskapelle 201
+
+Schloß, ehem. Stiftsgebäu
+|}
+
+
+
+{| class="wikitable"
+|-
+
+|}
+38.
+<!-- citation-page-bottom: Band11 p385 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk008.pdf#page=19 -->
+<!-- citation-page-top: Band11 p386 -->
+
+Schedling/Trostberg, Schloßkapelle 129–32, 168 Schliersee 372 Schnaitsee <i>Pfarrkirche</i> 46, 133–43 Marienkapelle 142 f. Andreaskapelle 142 Sebastianskapelle 142 Pfarrei 45 Schönau 372 f. Schönenberg bei Ellwangen 268, 270, 272 Schwaben, Gericht 267, 288, 300, 331, 343 f., 347, 354, 364, 371 f. Seekirchen 218, 265 Seeon 160 Pfarrei 91 Hofmark 91 Benediktinerabtei 24, 91–106 Alte Nikolauskirche 95 Seeon s. Klosterseeon Seeon-Seebruck, Gemeinde 91 Sieghartskirchen 22 Siegsdorf, Pfarrkirche 144–59 Siena 218 Siezendorf, Pfarrei 22 Sighartstein bei Neumarkt am Wallersee 88, 198 Staudach bei Grassau 54, 77, 190 Staufeneck, Salzburgisches Pfleggericht 217 Stein an der Traun Schloß mit Hofmark 160, 162 f. Schloßkapelle 160 Johann-Nepomuk-Kapelle 162–65 Schloßbrauerei 160 Steinhöring 371 Stockreith 114 Stöttham, Filiale von Chieming 22 Straß 106 Straßburg 62 Straubing 312, 326 Straußdorf 343 Stuppach 155 Suben, Augustiner-Chorherrenstift 217 Sulzbach 22, 38 Tacherting, Pfarrkirche 166–74 Friedhofskapelle St. Anna 150, 166, 168, 174-77 Tachinger 338 Aglaching 268 Arsurus 321 Eisbach 135 Eisendorf 217 Annakapelle im Dechantshof 26 Engling, Hofmark 51 Ettelham 22 Tetteman 22 Tettenweis 56 Tiengen 106 Tittmoning 51, 83 f., 178, 180, 182, 196 Salzburgisches Stadtgericht 178, 180 Salzburgisches Pfleggericht 51, 83, 88 Kollegiatstift 88, 178, 180, 182 Stiftskirche St. Laurentius 178 Kreuzkapelle 179 Kreuzabnahmekapelle 178f. Wallfahrtskirche Maria Ponlach 52, 84, 178, 180–87 Törring 85 Traunreut 160, 162, 188 Traunstein 79, 111 f., 114, 116, 123 f., 144, 146, 148, 150 f., 168, 190 Gericht 56, 111 Pfarrkirche St. Oswald 148 Traunwalchen 22, 188 Wallfahrtskapelle Frauenbrünndl 188 Trens bei Sterzing 207, 258 Iresido 217 Triebenbach, Schloßkapelle 263–65 Trostberg 22, 24, 46, 49, 106, 112, 129, 168 Gericht 97, 106, 129, 160, 166, 168 Pfarrei 49, 129 Stadtmuseum 129, 136, 150, 175 Gasthof zum Pfau 129 Trostberg/Schedling s. Schedling Truchtlaching, Hofmark 22 Ubersee 19 Unterpeissenberg 22 Unterwössen, Pfarrkirche 56, 190–95 Urschlau 124 Vachendorf 111 f., 114, 144, 146, 150 Vachenlueg, Hofmark 218 Vagen 331 Venedig 243 Villingen im Schwarzwald 305 Vordergern 245 Vornhach am Inn 200 Waging, Pfarrkirche 196–200 Salzburgisches Pfleggericht 196 Wald an der Alz 168 Wartburg 318 Wartenberg 268 Wasserburg 46, 123, 127 f., 143, 324 Weilham 85 Weißwasser in Böhmen 51 Wessobrunn 24 Weyarn, Augustiner-Chorherrenstift 30, 217 Wien 208, 263, 332, 335 Wiesen bei Eisenärzt 112, 114 Wildenwart, Herrschaft 56 Zell 116 Zellhof, Kapelle St. Georg 263
+
+{{End}}

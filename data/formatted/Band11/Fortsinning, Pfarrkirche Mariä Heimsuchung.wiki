@@ -1,0 +1,128 @@
+{{Artikel
+|Band=11
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=337
+|Originalseitenbis=342
+|Lemma=Fortsinning, Pfarrkirche Mariä Heimsuchung
+|Typ=Sakral
+|Ort=Fortsinning
+|davor=Emmering, Pfarrkirche St. Pankratius
+|danach=Frauenreuth, Filial- und Wallfahrtskirche Mariä Himmelfahrt
+|AutorIn1=Sauerländer, Brigitte
+}}
+
+Pfarrkirche, Gemeinde Forstinning, Erzdiözese München und Freising; z. Z. der Ausmalung gehörte der Ort Forstinning zu der 1687 gebildeten Neuen Hofmark Ebersberg des Jesuitensuperiorats Ebersberg. Die Kirche selbst war aber landgerichtlich. An ihr bestand eine St.-Silvester-Bruderschaft (schon 1479 bezeugt). Gericht Schwaben
+
+'''Patrozinium:''' Mariä Heimsuchung, Nebenpatron St. Silvester
+
+'''Zum Bauwerk:''' Den Vorgängerbau nennt Schmidt 1740 »inter rurales vilioris structurae et ruinosae«. In einem Brief vom 11.7.1763 bat der Forstinninger Pfarrer Johann Michael Graf, »daß mann den gnädigen Consent, sein gänzlich ruinohs Pfarrgottshauß neu erbauen zu därfen, ertheilen möchte« (AEM). Beim Neubau 1765/66 durch den Münchner Maurermeister Balthasar Trischberger wurde nur das Langhaus errichtet, um ein Joch länger als das alte, der gotische Chor blieb erhalten; die Rippen des AR-Gewölbes wurden abgeschlagen und das Gewölbe zu einer Spitztonne verschliffen. Der Hochaltar und die beiden Seitenaltäre stammen aus der Zeit nach dem Kirchenumbau, der wohl auch die monumentale, thronende Schnitzfigur der Muttergottes im Hochaltar angehört. Gestreckter, barocker Saalbau (19×9,30 m) zu fünf Achsen, Doppelempore im W, Gliederung durch stark vorspringende, mit kräftig profilierten Deckplatten versehene Wandpfeiler; Belichtung durch hohe Rundbogenfenster. Deutlich eingezogener AR (12,70×7,70 m) zu drei Achsen mit dreiseitigem Schluß, im Kern spätgotisch, Sakristei im S anschließend; Gliederung durch barocke Wandpfeiler, die wohl die gotischen Wandpfeiler ummanteln; helle, gleichmäßige Belichtung durch Rundbogenfenster.
+
+'''Auftraggeber:''' Anton Placidus Wurzer, Pfarrer von Forstinning (1768-90). An der Finanzierung war wohl die seit 1479 bestehende St.-Silvester-Bruderschaft beteiligt, die schon unter Pfarrer Johann Michael Graf (1759-68) Geld zum Kirchenbau geliehen hatte. Bruderschaftsaltar war der südliche Seitenaltar, der dem hl. Papst Silvester geweiht war. Pfarrer Graf hinterließ der Kirche 200 fl. zum neuen Hochaltar.
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Martin Heigl (*um 1730 Ort unbekannt † 1774 Ort unbekannt) um 1770/72. Zuschreibung erstmals durch Heinrich Kastner (Schlüter 1982, S. 246; bei Kastner 1960 noch ohne Zuschreibung), doch wurden schon 1969 die Fresken in den Restaurierungsakten des BLfD als von Heigl geschaffen bezeichnet. Man kann jedoch nicht übersehen, daß die Fresken in Forstinning verhältnismäßig schwache Werke Heigls sind.
+
+Johann Martin Heigl, der Schüler und Mitarbeiter Johann Baptist Zimmermanns bis zu dessen Tod 1758, arbeitete zunächst weiter in der Art Zimmermanns, veränderte seinen Stil jedoch im Lauf seiner selbständigen Schaffensjahre 1758-74 und entwickelte innerhalb des Übernommenen eine eigene, persönliche Handschrift. Der Zimmermannschen Formgebung entstammen die idyllischen, zum Teil durch architektonische Versatzstücke bereicherten Landschaftsbühnen, die Figurentypen, die Bewegungsführung ihrer kurvig ausgreifenden Gliedmaßen und ihrer knittrigen, kantigen, furchenreichen Gewanddraperien, die fast bildhauerische Art der Faltenmodellierung, die Kennzeichnung beleuchteter Gewandpartien durch starke Auflichtung der jeweiligen Farbe. Heigls eigene Handschrift zeigt sich besonders darin, daß er die Zimmermannschen Figurentypen sehr stark in die Länge zieht, daß er die Faltenkonturen etwas weicher gestaltet, die Faltenstege durch Weißhöhungen entschärft und im Lauf der Zeit eine Farbgebung entwickelt, die im Vergleich zu Zimmermann mit einer Skala stärker gebrochener, kühlerer, passiverer Farbtöne arbeitet. Rot tritt fast nur in Farbschattierungen zwischen lichtem Rosa über Purpurrot bis zu grautonigem Rosa und Rosaviolett in Erscheinung. Besonders facettenreich ist auch die Grünskala, die in den Landschaftsbereichen von zartem Hellgrün über gelbgrüne Töne bis zu Schilfgrün reicht und bei den Gewändern vielfache Abstufungen von Türkis miteinbegreift (s. auch Kupferschmied, S. 124–30).
+
+[[File:Band11_chunk007_p019_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band11 p337 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk007.pdf#page=20 -->
+<!-- citation-page-top: Band11 p338 -->
+
+[[File:Band11_chunk007_p020_img001.jpg|thumb|Der Kirchenraum]]
+
+Ein Vergleich der Forstinninger Fresken mit drei nahe gelegenen Arbeiten Heigls aus den sechziger Jahren (Tading 1765; Langengeisling 1766/67; Altenerding 1767; alle Lkr. Erding, CBD, Bd 7) untermauert die Zuschreibung an Heigl sowohl in kompositioneller Hinsicht als auch in Details. Um den kompositionalen Zusammenhalt dieser stark in die Länge gezogenen Bilder zu stützen und sie zugleich vom frommen Betrachter her gesehen zu entrücken, verwendet Heigl in steter Wiederkehr, aber vielfach abgewandelt, ein hilfreiches Kulissenmotiv, das am Fuß des Gesamtbildes, das in starker Untersicht gegeben ist, einsetzt. Es besteht aus einer felsigen, verschatteten Vordergrundsrampe mit einem kleinen Einschnitt nach N hin, der einen Felsbach freigibt. Nach S hin wird die schräg ansteigende, schnell schmal werdende Rampe weit am südlichen Bildrand hochgezogen und mit ein bis zwei Bäumen bestückt, deren Wipfel in die Wolkenformation hineinragen. 
+
+An der Kante der unbeleuchteten Rampe sind eine oder mehrere Figuren angeordnet, deren scharf umrandete, ebenfalls verschattete Silhouetten in starkem Kontrast stehen zu der unmittelbar jenseits des Kulissenmotivs anhebenden, im Licht liegenden Rasenfläche des Mittelgrundes, auf der sich die eigentliche, irdische Szene entfaltet. Obwohl die verschatteten Figuren inhaltlich zur terrestrischen Handlung gehören, haben sie weniger eine verbindende Funktion als die Funktion, das irdisch-himmlische Geschehen insgesamt zu entrücken.
+
+Ein stilistischer Vergleich zwischen Forstinning und den 1772 entstandenen Fresken in Oberflossing (LKr. Mühldorf, CBD Bd 8) rückt beide Werke zeitlich näher zusammen. In beider Fälle ist gegenüber den etwas älteren Werken ein Hauch von Klassizismus spürbar, erfährt die Komposition eine Beruhigung, ist die Isolierung der Figurengruppen etwas ausgeprägter. Dem entspricht die Art der Verwendung von vorgestäuschtem Stuckdekor. Während in Tading, Langengeisling und Altenerding das imitierte Rahmenwerk der Deckenbilder und Kartuschen von opulenten, üppig wuchernden Rocaille-Motiven bestimmt wird, haben die Fresken in Forstinning und Oberflossing schlichte, leicht ondulierte, echte Stuckprofilrahmen. In Forstinning beschränkt sich die Stuckimitation auf je eine mit Blütenzweiglein besetzte, gemalte Kartusche innerhalb der Fresken, in den müden, etwas teigigen Formen der ausgehenden sechziger Jahre. Sehr ähnlich gebildet ist der zurückhaltende, imitierte Stuckdekor in Oberflossing, der die Stichkappen ziert, die Gewölbezwickel aber fast völlig freiläßt. Als Bekrönung der Gurtbögen berührt er den Stuckrahmen, ohne ihn zu überlappen.
+
+Auf den freundschaftlichen Zusammenhang zwischen Heigl und dem Maurermeister Balthasar Trischberger hat schon Lieb aufmerksam gemacht (1941, S. 138f.): Trischberger war Taufpate von zwei Söhnen Heigls, seine Ehefrau Patin einer Tochter Heigls.
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs (A) Halbkreistonne mit Stichkappen; AR (B) Spitztonne mit Stichkappen, nach O abgemuldet  
+Rahmen: A und B ovale, ein- und ausbuchtende Stuckprofilrahmen; 1–12 gemalte Rocaillekartuschen  
+Technik: Fresko, polychrom; 1–12 monochrom grüngrau  
+Maße: A Höhe 8,95 m; 12,80 × 5,60  
+B Höhe 8,95 m; 8,00 × 3,75  
+
+Erhaltungszustand und Restaurierungen: Schon 1781, 17 Jahre nach dem Kirchenneubau, wurde ein Schaden am Gewölbe und eindringende Nässe beanstandet. 1894 Beschädigung der Kirche durch einen Wirbelsturm. 1897 Ausbesserung der Fresken inklusive Übermalung der Sprüche durch Karl Gebhardt, München; Maler- und Vergolderarbeiten am Gewölbe durch Anton Vitzthum, Markt Schwaben. 1931 Restaurierung der Fresken durch Jakob Huwyler, Buch am Ammersee, sowie Neutünchung und Tönung der Wände (AEM). 1958 Außenrestaurierung und Trockenlegung der Mauern mit anschließender Erneuerung der Fenster. 1970 Restaurierung der stark verschmutzten und fleckigen Deckenbilder durch Hans Heinrich Müller-Werther, Ebersberg. Die Fresken wurden gereinigt, Schimmel- und Stockflecken sowie verunklärende Übermalungen entfernt, lockere Farbpartien befestigt, Risse geschlossen und eingestimmt, Fehlstellen und unklare Bildpartien ebenfalls vorsichtig eingestimmt. Der Versuch einer Freilegung der Kartuschen wurde aufgegeben, weil man zufällig an das am schlechtesten erhaltene Sinnbild geraten war. Die gleichzeitigen Kirchenmalerarbeiten besorgte die Fa. Hans Mayrhofer, München. 1984 Sanierung des Dachstuhls und der nördlichen Umfassungswände. 2004 Restaurierung der Raumschale und der Deckenbilder durch Pawel Michalowsky, Königsdorf. Dabei wurden acht gemalte Kartuschen im Langhaus und vier im Chor mit symbolischen Darstellungen freigelegt (1–12). Der Zustand der Bilder war unterschiedlich, der Bildgegenstand aber in allen Fällen eindeutig. Etwa ein Drittel der Malerei mußte rekonstruiert werden. Die beiden Deckenbilder A und B wurden gereinigt.
+
+Der heutige Zustand der Deckenbilder läßt eine Beeinträchtigung der originalen Substanz erkennen. Ihnen ist die Restaurierung von 1897 aufgeprägt. Im Vergleich mit anderen Arbeiten Heigls sind die Farben matt und stumpf, ist die Binnenzeichnung der Gewänder weniger artikuliert. Die Figur Mariens mit dem Kind in Fresko A, hinter deren Gesicht ein alter Querriß zu erkennen ist, wirkt stark modernisiert. Diese Beeinträchtigungen mögen auf die schon im 19. Jh. einsetzenden Schäden zurückzuführen sein oder mit der Restaurierung von 1931 durch J. Huwyler zusammenhängen.
+
+== Beschreibung und Ikonographie ==
+
+A DER HL. PAPST SILVESTER ALS FÜRBITTER VOR MARIA  
+Der längsovale, kurvige, ockerfarbene Rahmen übergreift dreieinhalb Joche und schmiegt sich mit seinen Ausbuchtungen in die Gewölbezwickel ein. Die Komposition des Freskos zeigt eine relativ starke Höhenentwicklung. Die zentralperspektivisch und in starker Untersicht angelegte Bildkomposition besteht aus einer irdischen Handlungsbühne im Mittelgrund, einem Himmelsraum darüber, der zwei Drittel der Bildfläche einnimmt, und dem Kulissenmotiv, das an der Grundlinie der Darstellung einsetzt und, am südöstlichen Bildrand aufsteigend, den irdischen und himmlischen Bereich miteinander verklammert und beide für das Auge des Betrachters in die Ferne rückt. Große weite Flächen sind nur ausgefüllt mit Wolken- oder Wiesengrund. Ungelenke Figuren in steifen Posen sind vereinzelt in diesem Schauplatz verteilt. Ein sanft zum Hintergrund ansteigender, beleuchteter Wiesenhang, der am Horizont mit Büschen und Bäumen besetzt und am nordöstlichen Bildrand scheinbar noch mit der felsigen Vordergrundsrampe verbunden ist, bildet die ländliche Szenerie für eine Gruppe von Bittflehenden. In der Mitte lehnt sich eine Hirtin in weißem Gewand mit goldgelbem Mieder (ähnlich das Gewand der Europa in Altenerding) an eine Rindergruppe, während links ein kranker, nur in ein Laken gehüllter Mann gezeigt ist, gehalten von einem ebenfalls halbnackten Mann in einem roten Umhang. Die figürliche Ergänzung rechts bildet eine Dreiergruppe von Bittflehenden, die als Rücken- und Profilfiguren an der Kante der am südlichen Bildrand hochsteigenden Rampe so angeordnet sind, daß ihre verschatteten Oberkörper in den lichten Mittelgrund hinüberrragen. Diese drei Figuren, ein kniender Lahmer, ein Knabe im Krankenhemd mit dem Pestglöckchen in der Hand und eine Frau, sind ein wichtiger Angelpunkt für die Komposition. Die jäh sich verjüngende Rampe führt das Auge des Betrachters rasch zu ihnen hin; ihre Körperneigung und die Armbewegung des Knaben leiten zur Mittelgrundsgruppe hinüber, während die steil hinter der Frau aufstrebenden Bäume mit ihren obersten Wipfeln den Flügel jenes Engels als Folie hinterlegen, der zur Figur des hl. Silvester, dem gedanklichen Mittelpunkt und zweiten Angelpunkt der Komposition, hinleitet. Dieser Engel, in gelbem Gewand, hält das Papstkreuz und umgreift mit der anderen Hand die rückwärtige Saumpartie des goldgelben Pluviale des Papstes dergestalt, daß sich für das Auge des Betrachters diese beiden gelbfarbenen Flächen zusammenschließen. Ein Putto zur Rechten des Papstes hält die Tiara.
+
+Papst Silvester kniet auf einer Wolkenbank und ist sowohl mit der schräg über ihm thronenden Gottesmutter als auch mit der schräg unter ihm befindlichen Gruppe der Bittflehenden kompositorisch in Verbindung gebracht. Die Linke aufs Herz gelegt, die Rechte den Menschen zugewandt, erbittet der hl. Silvester Mariens Beistand. Maria, das Jesuskind auf dem Schoß haltend, das Zepter in der linken Hand, ist als Himmelskönigin dargestellt und von einer großen Strahlenglorie hinterfangen. Ein Engel hält ihren Mantelsaum. Putten und Puttenköpfchen begleiten das Wolkenrund, das die Gloriole einfaßt und das Fresko nach W beschließt.
+
+Daß Papst Silvester als Pest- und Viehpatron angerufen wurde, geht auf eine legendäre Begebenheit seiner Vita zurück. Sein Pontifikat (314–35) fiel in die Regierungszeit Kaiser Konstantins, den er zum Christentum bekehrte. Nach der Legende wollte Kaiser Konstantin sich vom Aussatz durch ein Bad im Blut von Kindern befreien. Papst Silvester hielt ihn davon ab. 
+
+<!-- citation-page-bottom: Band11 p339 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk007.pdf#page=21 -->
+<!-- citation-page-top: Band11 p340 -->
+
+LANDKREIS EBERSBERG · FORSTINNING
+
+
+[[File:Band11_chunk007_p021_img001.jpg|thumb]]
+
+
+
+[[File:Band11_chunk007_p021_img002.jpg|thumb|Chorgewölbe: B Heimsuchung Mariens, in den Stichkappen Symbole]]
+<!-- citation-page-bottom: Band11 p341 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk007.pdf#page=22 -->
+<!-- citation-page-top: Band11 p342 -->
+
+<!-- header: LANDKREIS EBERSBERG · FORSTINNING -->
+
+FRAUENREUTH
+
+ab und heilte ihn an Leib und Seele durch das Bad der hl. Taufe. - In einem Streitgespräch zwischen Rabbinern und Papst Silvester, welcher Gott der wahre sei, tötete der Rabbiner einen wilden Stier, indem er den Namen seines Gottes in dessen Ohr sprach. Papst Silvester hingegen gelang es, den Stier wieder lebendig zu machen, indem er den Namen Jesu in das Ohr des Stiers sprach (LCI, Bd 8, S. 353, s.v. Silvester I. Papst; LA Graesse, S. 78).
+
+Rosagraue Wolken umschließen den zentralen Himmelsbereich und bilden dann, bereits heller werdend, die Wolkenbank unter dem hl. Silvester, bevor sie, am Horizont des Mittelgrundes, in ein helles, >natürliches« Himmelsgrau übergehen, das seinerseits einen vermittelnden Farbübergang zu dem zarten Landschaftsgrün des Mittelgrundes bildet. Mit diesem Vorgehen und der Verwendung sehr ähnlicher Rotund Weißtöne bei der Figur des hl. Silvester und den Bittflehenden versucht Heigl, himmlische und irdische Szene farblich zusammenzubinden.
+
+Die imitierte Stuckkartusche um die HL.-Geist-Öffnung am östlichen Bildrand mag erneuert sein, hat aber wohl auch zu Anfang bestanden.
+
+B HEIMSUCHUNG MARIENS Der längsovale, kurvige, ockerfarbene Rahmen, der sich zum Chorbogen hin erweitert, übergreift die drei AR-Joche. Das Fresko ist stark untersichtig angelegt und hat eine beträchtliche Höhenillusion, jedoch kaum Tiefenräumlichkeit. Ein ansteigender Rasenstreifen, der am östlichen Bildrand von einer gemalten imitierten Stuckkartusche überdeckt ist, bildet den Unterbau für die eigentliche Figurenbühne, die aus einem flachen, bildparallelen Stufensockel und drei willkürlich aneinandergereihten Architekturkulissen besteht: einem von links eingeschobenen Mauerzug, einem Stück hoher Terrassenmauer besetzt mit einer Vase und Balustern, in der Mitte, und rechterseits einem sehr hohen Säulenvorbau, der etwas zusammenhanglos den Eingang zum Haus des Zacharias markiert. Der Mittelgrund schließt am Horizont mit einer Folie von Parkbäumen. Der Himmelsbereich darüber, der fast die Hälfte der Bildfläche einnimmt, wird links von zwei Engeln bevölkert, rechts von dem hochragenden Säulenvorbau überschnitten. Die vier agierenden Personen, Joseph, Maria, Elisabeth und Zacharias bewegen sich auf der schmalen, nicht in die Tiefe führenden Bühne in sehr gemessener Haltung, Maria und Elisabeth bilden nebeneinanderstehend und fast in
+
+Die Strukturierung der Gewandfalten scheint hier besser erhalten zu sein als in Fresko A. Beleuchtete Gewandpartien wie bei Kleid und Mantel Mariens und beim Mantelüberwurf des Zacharias sind durch intensive Auflichtung ge Abstufungen von Rot. Zu diesen gesellt sich die rosa Einfärbung der Wolken und der Architekturkulissen.
+
+Die am Fußpunkt der Darstellung gemalte Stuckkartusche in den etwas lappigen Rocailleformen der späten sechziger Jahre zeigt einen Busch mit stachligen Blättern, einen Dornbusch. Er ist wohl eine Anspielung auf die Anrufung >Lilium inter spinas, denn direkt über den Dornen erscheint im Fresko selbst Maria.
+
+1-12 SYMBOLE Die 2004 freigelegten symbolischen Darstellungen in gemalten karminroten Rocaillekartuschen beziehen sich teilweise auf die Lauretanische Litanei (sie wurden be der Restaurierung frei ergänzt).
+
+== Quellen und Literatur ==
+
+BHStA, Landshuter Abgabe 1993 Nr. 1105-1108.
+
+BHStA I, Schwaben, Pfleggericht, Pfarreyen und Benefizien, Fasc. 3678, Nr. 105, Pfarrei Forstinning, darin Konvolut: Geistlicher Rat.
+
+StAM, Kurbayern Geistlicher Rat Kirchenrechnungen Gericht Schwaben 1769-72, Amt Purfing.
+
+AEM, Pfarrakten Forstinning, 1866001 01: St.-Silvester Bruderschaft 1479–1791; 186 0001 01: Pfarrbeschreibunger 186 3002 01: Pfarrkirchenbau 1763; 186 2002 11: Nachlaß de Pfarrers Johann Michael Graf 1768; 186 3002 02: Pfarrkirche Baufälle und Restaurierungen 1886–1931. DICTO A1 TO 1 - C
+
+DLID, Akt Forstinning, Pfarrkirche Mariae Heimsuchung
+
+Schmidtsche Matrikel, Bd 3, S. 63 f
+
+Mayer-Westermayer, Bd 3, S. 90 f., 103 f., 106.
+
+KDB I OB (2), S. 1360.
+
+Kastner, Heinrich, Forstinning, in: Der Landkreis Ebersberg in Geschichte und Gegenwart. Ein Heimatbuch, München 1960, S. 81 f.
+
+Sponholz, Hans, Schöne Heimat Ebersberg. Der Landkreis in Bildern, München-Aßling 1967, S. 81.
+
+Schluter, Helmut, Die Kunstdenkmäler, in: Der Landkrei Ebersberg. Raum und Geschichte, Stuttgart 1982, S. 264.
+
+Heigl. Arbeiten für Johann Baptist Zimmermann und selbständige Werke (= Schriften des Instituts für Kunstgeschichte der Universität München Bd 41), München 1989 (erwähnt Forstinning nicht).
+
+Historischer Atlas I, Bd 48, Gericht Schwaben (Gottfried Mayr), München 1989, S. 57, 304f., 309f., 373.
+
+{{End}}

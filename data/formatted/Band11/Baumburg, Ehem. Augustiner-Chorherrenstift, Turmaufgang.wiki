@@ -1,0 +1,56 @@
+{{Artikel
+|Band=11
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=44
+|Originalseitenbis=44
+|Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Turmaufgang
+|Typ=Sakral
+|Ort=Almau
+|davor=Baumburg, Ehem. Augustiner-Chorherrenstift, Sakristei
+|danach=Berg, ehem. Filialkirche St. Nikolaus
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk001.pdf#page=23 -->
+<!-- citation-page-top: Band11 p44 -->
+
+<!-- header: LANDKREIS TRAUNSTEIN · BAUMBURG -->
+
+<!-- header: BERG -->
+
+
+[[File:Band11_chunk001_p023_img001.jpg|thumb]]
+
+
+
+== Turmaufgang ==
+
+
+'''Zum Bauwerk:''' Im südlichen Turm der Pfarrkirche befindet sich bis zur Höhe der oberen Empore ein etwa quadratischer Schacht, in den eine einfache hölzerne Treppe eingebaut ist, die zu den beiden Emporen führt. Belichtung oben im Deckenbereich durch ein großes Fenster von W.
+
+'''Auftraggeber:''' Joachim Fischer, Propst von Baumburg (1748-61).
+
+'''Autor und Entstehungszeit:''' Zuweisung an Felix Anton Scheffler (* 1701 München † 1760 Prag) 1756/57
+
+Das Deckenbild entstand in Zusammenhang mit der Freskierung der Kirche. Die fein und sorgfältig ausgeführte Malerei an dieser wenig prominenten Stelle läßt die Überlegung zu, ob es sich bei dem Bild um ein Probefresko Felix Anton Schefflers vor dem eigentlichen Auftrag zur Freskierung handeln könne.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke  
+Rahmen: Kreisrundes kräftiges Stuckprofil, in den Ecken des quadratischen Deckenrahmens Rocaillemotive, die den Rahmen übergreifen  
+Technik: Fresko; polychrom  
+Maße: Durchmesser 2,10  
+
+Erhaltungszustand und Restaurierungen: Eine Restaurierung anläßlich der Innenrestaurierung der Kirche durch Sepp Hilz 1955–58 ist anzunehmen. 1988 Restaurierung des Deckenbildes und des Stucks durch Manfred Lauber, Bad Endorf: Reparatur eines großen Risses und der Feuchtigkeitsschäden. Der Zustand ist gut.
+
+Beschreibung und Ikonographie
+
+ENGEL Ansicht nach N. Das Bild zeigt vor einem Streifen blauen Himmels rosig bis bräunlich abgeschattete Wolken. Davor erscheint ein großer Engel mit bauschig auffliegendem grüngelben Gewand und weitgebreiteten Schwingen. Gesicht und Locken sind sehr fein ausgeführt. Der Engel hält ein Schriftband in Händen: VENITE EXSULTEMUS DOMINI. NO. Am oberen Bildrand zwei Engelsköpfchen.
+
+Quellen und Literatur  
+Keine Erwähnung.
+
+{{End}}
