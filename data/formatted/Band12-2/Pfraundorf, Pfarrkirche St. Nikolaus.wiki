@@ -1,0 +1,141 @@
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=394
+|Originalseitenbis=399
+|Lemma=Pfraundorf, Pfarrkirche St. Nikolaus
+|Typ=Sakral
+|Ort=Pfraundorf
+|davor=Nußdorf am Inn, Filial- und Wallfahrtskirche St. Leonhard
+|danach=Prien am Chiemsee, Pfarrkirche Mariä Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+<!-- citation-page-top: Band12 p394 -->
+
+<!-- header: PFRAIINDOR -->
+
+
+== PFRAUNDORF ==
+
+
+Pfarrkirche (von der Pfarrei Raubling betreut), Gemeinde Raubling, Erzdiözese München und Freising; z. Z. der Ausmalung Filiale der Pfarrei Pang, die dem Kollegiatstift U.L. F in München inkorporiert war. Ab 1739 war Pfraundorf mit Reischenhart der neuerrichteten Panger Expositur Kirchdorf am Wasen zugeteilt, 1922 wurde es Expositur der Pfarrei Pang. Gericht Aibling
+
+
+'''Patrozinium:''' St. Nikolaus
+
+
+'''Zum Bauwerk:''' Umbau und Erweiterung der spätromanischen Kirche vor und um 1500: Anbau eines größeren Chors, Erhöhung und Einwölbung des Langhauses sowie Erweiterung nach Westen. Ab 1693 schrittweise Erneuerung des Kirchenbaus: neuer Turm, neuer Dachstuhl, Umgestaltung der LHs-Pfeiler und Abschlagen der Gewölberippen bis 1703 durch Hanns Mayr von der Hausstatt bei Feilnbach. 1757/60 Renovierung des Kircheninnern mit teilweiser Neueinrichtung. 1786/88 größere Bauarbeiten: Mauerwerk, Kirchenpflaster und Friedhofsmauer wurden repariert, ein neuer Dachstuhl aufgesetzt (Bauausgaben im Jahr 1786 118 fl., in Jahr 1787 355 fl., im Jahr 1788 120 fl.). 1891 Regotisierung in bescheidenem Rahmen. 1928 Einbau der oberen Empore, Vermauerung der Seitenportale und Ausbrechen eines Westportals. Hochaltar 1758/59 mit spätgotischer Marienfigur sowie den Figuren Nikolaus und Rupert, wohl von dem Aiblinger Bildhauer Ignaz Stumbeck. Die Kirche hat nur einen Seitenaltar, an der Nordseite. Er war ursprünglich von Götsch 1790, ist aber völlig verändert.
+
+Kleiner Saal zu fünf Jochen, Gliederung durch flache Wandpfeiler, tiefe Doppelempore im W, Belichtung durch vier Fenster im N und drei im S. Kaum eingezogener AR zu zwei Jochen mit Gliederung durch Runddienste, dreiseitiger Schluß, Belichtung durch ein Fenster von S und zwei in der Schlußschrägen.
+
+[[File:Band12-2_chunk002_p023_img001.jpg|thumb|Der Kirchenraum]]
+
+
+'''Auftraggeber:''' Die Kirchenrechnungen ab 1771 sind im Expositurarchiv erhalten, dort ist aber die Ausmalung nicht abgerechnet (abgerechnet ist die Fassung des Hochaltars durch Böham 1792); die Freskierung wurde also von privater Seite gestiftet. »Auf äussern Glanz des Gottesdienstes und auf Kir chenzierde hält und thut die Gemeinde sehr viel ...« (AEM
+
+
+[[File:Band12-2_chunk002_p023_img002.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk002_p023_img003.jpg|thumb]]
+
+
+Pfarrbeschreibung). Pfarrer von Pang war zur Ausmalungszeit Johann Georg Habermayr (1787–1804).
+
+'''Autor und Entstehungszeit:''' Johann Baptist Böham (* 1752 Westerndorf bei Zinneberg/Glonn † 1838 Aibling) 1788. Signatur in B joh. Boeham / Pinxit in Aybling 1788.
+
+--------------------------------------- Johann Baptist Böham war seit 1785 Bürger und Maler in Aibling. Im Bereich des alten Gerichts Aibling sind sechs Freskierungen von seiner Hand ganz oder teilweise erhalten, von denen außer Pfraundorf nur Ellmosen (S. 124) signiert und 1790 datiert ist. Obwohl die Zeiten für Freskanten damals anderswo fast hoffnungslos waren, gelang es Böham, nicht nur in der Fassaden- und Möbelmalerei, in der es es zu großem Ansehen brachte, sondern auch noch in der Freskomalerei erfolgreich zu sein, vermutlich wegen seiner bunten und volkstümlich erzählenden Malweise. Böham war bis etwa 1825 in Aibling tätig und starb 1838 im Alter von 86 Jahren. Böham ist auch das Wandbild mit den Vierzehn Nothelfern zuzuweisen. 1792 arbeitete er noch einmal für Pfraundorf: Er faßte um 60 fl. den neuen, von der Pfraundorfer Kirchtracht gestifteten Hochaltar, mit Marmorierung und Vergoldung.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs (A und B) und AR (C) ehem. gotisches Rippengewölbe
+
+Rahmen: A, B, C einfache gemalte Profilleisten; 1-6 Ovalmedaillons mit gemalter Rahmung
+
+Technik: Fresko; die Deckenbilder sind polychrom
+
+Maße: A Höhe 7,50 m; 4,40 × 3,40
+
+B Höhe 7,50 m; 4,10 × 2,90
+
+C Höhe 7,50 m; 3,10 × 3,65
+
+Erhaltungszustand und Restaurierungen: Renovierung 1890/ 91 mit Ausmalung des Raums nach Plänen des Architekten Elsner; dabei wurde bei den Hauptbildern der Rahmenverlauf geändert, die Medaillons wurden völlig übertüncht (Signatur in B renov. 1891 CR). Tieferlegen des Kirchenbodens 1928, anschließend Innenrestaurierung mit teilweiser Entfernung der Ausmalung von 1891 und der neogotischen Einrichtungsstücke. 1939 Restaurierung durch Max Faltner, Rosenheim: Tünchen der Wände in Kalkweiß, Reinigung der Deckenbilder, Beheben der Schäden, restaurierende Übermalungen.
+
+Nächste Restaurierung des Raums 1956/57 durch Fa. Kurt Sandner, Rosenheim, der Deckenbilder durch August Kröninger. Die Medaillons im LHs wurden wieder aufgedeckt (im Chor waren laut BLfD und Bomhard zwei Medaillons, die nicht wieder herzustellen waren, deren Themen aber erkennbar waren, nämlich die Beichte der Königin bei Johann Nepomuk und dessen Brückensturz). Der originale Rahmenverlauf der Hauptfresken wurde freigelegt.
+
+Letzte Restaurierung 1995 durch Alois Stein, Inzell. Die klassizistische Fassung von 1788 wurde aufgefunden, nach Herstellen einer Musterachse gefiel sie aber nicht und man behielt die Fassung von 1956 bei. Die Deckenbilder wurden gereinigt und ausgebessert.
+<!-- citation-page-bottom: Band12 p395 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=24 -->
+<!-- citation-page-top: Band12 p396 -->
+
+[[File:Band12-2_chunk002_p024_img001.jpg|thumb]]
+
+== Beschreibung und Ikonographie ==
+
+
+A ST. NIKOLAUS RETTET DIE VERURTEILTEN Rote Stufen links und graue Stufen rechts führen zu zwei verschiedenen Bildschauplätzen, die durch eine Säule abgeteilt sind: Links sitzt auf einem Thron, der mit blauer Draperie ausgezeichnet ist, ein orientalischer Herrscher. Vor ihm steht in einer großen Strahlenglorie der hl. Nikolaus in bischöflichem Gewand und weist bittend nach rechts, wo sich hinter der Säule ein Kerkerraum mit Quadermauerwerk und vergittertem Fenster auftut. Hier werden drei junge Gefangene von zwei Soldaten bewacht.
+
+Das Bild stellt eine der seltener dargestellten Szenen aus der Nikolaus-Legende dar. Drei Fürsten (die Dreizahl ist ein Grundmotiv der Nikolauslegenden) wurden ungerecht angeschuldigt und vom Kaiser in den Kerker geworfen mit dem Befehl, man solle sie noch in der gleichen Nacht ohne Verhör töten. Da erinnerte sich einer von ihnen eines früheren Nikolaus-Wunders, der Errettung der drei Ritter aus Henkershand und er rief mit den andern den Schutz des Heiligen an. In der gleichen Nacht erschien Nikolaus dem Kaiser und seinem obersten Ratgeber im Traum und bewog sie, die drei Fürsten freizulassen (LA-Benz, S. 30f.); zur Dreizahl vgl. die drei Jungfrauen und die drei Knaben im Pökelfaß).
+
+B NIKOLAUS ALS PATRON VON PFRAUNDORF In einer weiten Wiesenlandschaft, wo im Zentrum die Kirche von Pfraundorf zu sehen ist, knien links die Männer und rechts die Frauen von Pfraundorf in zeitgenössischer Tracht; die meisten halten einen Rosenkranz in Händen. Dahinter spannt sich ein heller, blauer Himmel. Darüber erscheint auf dicken Wolkenkissen mit kleinen Engeln und Engelsköpfchen Nikolaus in Bischofstracht, das Haupt von einer Strahlenglorie umfangen. Er breitet segnend die Hände über Pfraundorf und seine Bewohner aus. Ein Engel hält den Bischofsstab, ein zweiter auf einem Buch die drei Äpfel.
+
+C MARIÄ TEMPELGANG Rote Säulen tragen einen gewölbten Bogen, durch den man in den überkuppelten Tempelraum sieht. Stufen führen zum Altar empor, auf dem die Gesetzestafeln unter einem Baldachin stehen. Joachim und Anna knien im Vordergrund und beobachten, wie das Mädchen Maria auf den Stufen vom Hohenpriester empfangen wird. Zwei Priester stehen zu Seiten des Altars. Rechts und links schließen Nebenräume an, in denen weitere Figuren sichtbar werden. Hier bemüht sich Böham, einen Innenraum perspektivisch zu konstruieren, aber er hat Schwierigkeiten, die Figuren überzeugend in den Raum zu setzen.
+
+
+[[File:Band12-2_chunk002_p024_img002.jpg|thumb|B St. Nikolaus als Patron von Pfraundorf (Johann Baptist Böham 1788)]]
+<!-- citation-page-bottom: Band12 p397 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=25 -->
+<!-- citation-page-top: Band12 p398 -->
+
+<!-- header: PFRAUNDORF -->
+
+<!-- header: PFRAUNDOR -->
+
+
+[[File:Band12-2_chunk002_p025_img001.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk002_p025_img002.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk002_p025_img003.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk002_p025_img004.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk002_p025_img005.jpg|thumb|Vierzehn Nothelfer]]
+
+
+
+[[File:Band12-2_chunk002_p025_img006.jpg|thumb|1 Ursula]]
+
+
+Hostienkelch, der Arzt Pantaleon von Nikomedien mit den am Kopf festgenagelten Händen, der Diakon Cyriacus, Katharina von Alexandrien mit der Palme und dem Rad, Margareta von Antiochien mit dem Kreuz, Vitus, eine Krone auf dem Haupt und in Hermelin gekleidet, mit dem Ölkessel und Georg in römischer Soldatentracht mit dem Drachen; es folgen rechts die drei Bischöfe: Dionysius von Paris, der sein Haupt trägt, Blasius von Sebaste mit der Kerze und Erasmus mit der Winde, auf die seine Gedärme gewickelt sind; dann Christophorus mit dem Jesuskind auf der Schulter, der Abt Agidius von Saint Gilles mit der Hirschkuh, Achatius mit dem Kreuz und zuletzt wohl Eustachius.
+
+
+== Quellen und Literatur ==
+
+
+AEM Pfarrakten Pang, Pfarrbeschreibung; Filiale Pfraundorf; Bauten II: Bauarbeiten 1928. BLfD, Akt Pfraundorf, Pfarrkirche St. Nikolaus
+
+Schmidtsche Matrikel, Bd 2, S. 80. Mayer-Westermayer, Bd 1, S. 77. KDB I OB (2), S. 1647. Bomhard, Bd 1, S. 124–27. Anm. S. 401 f. Dehio 1990, S. 969.
+
+
+[[File:Band12-2_chunk002_p025_img007.jpg|thumb|3 Katharina]]
+<!-- citation-page-bottom: Band12 p399 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk003.pdf#page=1 -->
+{{End}}

@@ -1,0 +1,218 @@
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=570
+|Originalseitenbis=573
+|Lemma=Ortsregister (Band 12-II)
+|davor=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler
+|danach=Personenregister (Band 12-II)
+}}
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=11 -->
+<!-- citation-page-top: Band12 p570 -->
+
+
+== REGISTER ==
+
+
+
+== Ortsregister ==
+
+
+Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
+
+
+{| class="wikitable"
+|-
+| Abbach 62
+|-
+| Abensburg 113
+|-
+| Aibling 17, 32, 66, 71 f., 82, 91, 113, 122, 147
+|-
+| 162 f., 175 f., 184, 186, 263, 305, 308, 317, 325,
+|-
+| 332, 343, 346, 395, 400, 427, 434, 481, 522, 549
+|-
+| Gericht 17, 65, 71 f., 90, 102, 124, 162, 183 f.,
+|-
+| 263, 308, 325, 333, 346, 356, 394f., 520f., 542,
+|-
+| 554, 564, 566, 568 t.
+|-
+| Aichen 113
+|-
+| Aichthal 400
+|-
+| Aising 17f.
+|-
+| Akkon 42
+|-
+| Alb 308, 442, 456, 542
+|-
+| Albaching 19–30, 569
+|-
+| Altbunzlau (Stará Boleslav) 364 f.
+|-
+| Altenbeuern 565
+|-
+| Altenerding 308
+|-
+| Altenhohenau, Dominikanerinnenkloster 61, 172
+|-
+| Klosterkirche 31–39, 566
+|-
+| Nonnenchor 39-51, 193, 273 f., 292, 565
+|-
+| Anna-Kapelle 51–55, 567
+|-
+| Hofmark 172
+|-
+| Altenmarkt bei Trostberg 142, 147, 298
+|-
+| Altenmarkt bei Neubeuern 176, 270, 333
+|-
+| Altmühldorf 505, 567
+|-
+| Altötting 433
+|-
+| Amerang 32, 313, 479
+|-
+| Pfarrverband 131
+|-
+| Gemeinde 131
+|-
+| Andechs, Prälatenkapelle 72, 80
+|-
+| Angath, Pfarrei 154
+|-
+| Angelberg/Mindelheim 91
+|-
+| Antwerpen 205, 352
+|-
+| Antwort 56–60, 360, 498, 567
+|-
+| Grafmüllergut 56
+|-
+| Arget 369
+|-
+| Arnstein in Franken 33
+|-
+| Aschau 188
+|-
+| Aschau im Chiemgau 292 (s. unter Niederascha
+|-
+| und Hohenaschau)
+|-
+| Gemeinde 268, 367, 519
+|-
+| Pfarrei 268, 272, 367, 519
+|-
+| Attel 368, 380, 400, 434
+|-
+| Ehem. Benediktinerabtei 39, 61–64, 172, 417.
+|-
+| 503, 567
+|-
+| Pfarrei 61, 417
+|-
+| Gemeinde 61
+|-
+| Klosterhofmark 61
+|-
+| Au bei Bad Aibling 65 f., 68, 162, 334, 347, 349
+|-
+| Pfarrei 65, 332, 346
+|-
+| Pfarrverband 308
+|-
+| Taxakapelle 65–70, 114, 119, 132, 157, 565
+|-
+| Au am Inn 212, 226, 314, 564, 566
+|-
+| Au bei München 422
+|-
+| Audorf, Kuratie 488
+|-
+| Auerburg, Gericht 139, 488, 561
+|-
+| Aufhausen 91
+|-
+| Augsburg 274, 287, 374, 437
+|-
+| Chorherrenstift Heilig Kreuz 118f., 188
+|-
+| Aurolzmünster 212, 226
+|-
+| Babensham 259, 313, 315, 343
+|-
+| Bach, Bezirk Reutte/Tirol 338, 568
+|-
+| Bad Aibling 71, 90, 124, 308, 542, 554
+|-
+| Pfarrei Maria Himmelfahrt 71, 124
+|}
+
+
+Stadtpfarrkirche 71-81, 82, 90, 92 f., 263, 569 Marktkirche St. Sebastian 81–85, 90, 542 St. Georg, Pfarrei und Pfarrverband 90, 542 Bad Endorf, Markt 56, 259, 411 Bad Feilnbach Pfarrei 346 Gemeinde 65, 308, 346 Baierbach 86–89, 566 Barcelona 44 Baumburg 456, 568 Archidiakonat 31, 131, 172, 188, 313 Sakristei 298 Behamgrub 561 Benediktbeuern, Benediktinerabtei 110 Berbling 90–101, 263, 566, 569 Pfarrei 90, 162 Hofmark 90, 92 Berg bei Altenhohenau 172 Berg bei Prien 368, 400, 467 Berg bei Schnaitsee 313 Berg am Starnberger See 212 Bergkirchen bei Dachau 422 Bernau 367, 374, 501 Beyharting 102 Augustiner-Chorherrenstift 102-19, 253, 304, 472, 522 Klosterkirche 92, 102-12, 441, 567, 569 Sakristei 66, 113–19, 157, 565 Kapitelsaal 66, 113, 119–21, 157 Refektorium 102 Pfarrei 102, 106 Hofmark 102, 157, 565 Birkenstein 422 Borgberge/Paderborn 42 Bosco/Alessandria 34, 44 Brannenburg 142, 176, 333, 481 f., 487, 567 Pfarrei 481 Gemeinde 481 Hofmark 139, 175, 270, 481 Braunau 314 Breitbrunn 567 Pfarrei 190f., 200 Breitenloh 200 Mühln 157 Wolfsberg 154 Breitenau 561 Brixen in Tirol, Pfarrei 188 Bruchsal 422 Bruckdorf 33, 61 Bruckmühl, Markt 162, 263, 520 Buch am Erlbach, Pfarrei 154 Buchbach 369 f., 567 Hofmark 370 Burghausen, Rentamt 189, 244, 270 Calaruega/Kastilien 42 Chiemsee, Bistum 56, 86, 147, 149, 170, 188
+
+andelten Objekte Dettendorf 122 f., 564 Dettendorf, St. Korbinian 308 Dietramszell, Augustiner-Chorherrenstift 106 Pfarrkirche 106 Dillingen 567 Jesuitenkolleg 104 Bibliothek 104 Treppenhäuser 104 Dorfen 370 Düsseldorf, Akademie 337, 568 Durrhausen 315 Ebbs/Tirol 332, 368 Ebersberg 163, 184 Benediktinerabtei 535-37 Jesuitenkirche 104, 567 Eggenfelden, Gericht 313 Eggstätt, Pfarrei 56, 188 Eichstätt 19 Kloster St. Walburg 154 Eiselfing, Pfarrei 61, 172 Elbach 176, 178, 347, 568 Ellmosen 17, 122, 124-30, 263, 305, 395 Emmering, Pfarrei 122, 337, 433 Endorf 188 Pfarrei 56 Erding 19 Erl/Tirol 312, 317, 386, 388, 565 Pfarrei 386 Esbaum 360 Ettenhausen bei Schleching 190 Evenhausen 131–38, 157, 260 Pfarrei 154, 479, 565 Falkenstein, Herrschaft 139, 175, 270, 481 Farnach, Sitz 270 Feldkirchen, Wallfahrtskirche, Filiale von Rott 433, 513 Feldkirchen-Westerham, Gemeine 325 Fieberbrunn/Tirol 434, 436 Pfarrhof 436 Fischbachau, Hofmark 92 Flintsbach 132, 139–46, 482, 567 f. Gemeinde 139 Pfarrei 139, 310, 488 f. Florenz 36, 44 Frasdorf 147–53, 298, 367, 388, 500f., 565f., 568 Pfarrei 467, 497 Gemeinde 147, 497, 549 Frauenchiemsee 66, 132, 154–56, 192, 272, 274, 479, 565, 568 Benediktinerinnenabtei 131, 154–61, 188, 421, 479 Chorhaupt-oder Irmengardkapelle 154–56, 274 Maria-Mitleid-Kapelle 66, 114, 132, 155, 156–61, 479 Hofmark 154 Kuratie 154, 188, 200 Pfarrei 188 Priorat 154 Frauenreuth 184 Frauenried 308, 542
+
+Fürstb Domka Domsc St. And Wieska Friedberg Fürstenfe Furstenze Fussen Gaispoin Gars am 1 August Archid Geratsrie Gerstland Gerz/Vils Ginnertin Glonn 4 Götting Pfarrei Golgotha Gotzing Grafenwi Grafing Grassau Pfarrei Pfarrki Totenk Graubünd Greimhar Grenoble Griesstätt Gemeir Hofma Großer St Großhöhe Großholz Pfarrei Großkaro Pfarrei Gemeir Grub, Ho Gstadt, Pf Gstatt 5 Haag, Gra Häselgehr Haid bei V Hall 436 Hart bei C Haus in T Hausstatt 211, 30 Heilig Blu Herrenchi Ehem. I Archidi 244, 259 411, 462 Augusti 157, 170 462, 467 Ehem. S
+
+ese 448, 512, 514 Konventstock 188 f., 234 bischöfliche Residenz 358 Kuchelstock/Fürstenstock 189, 211 f., 2 kapitel 139, 142 Bräuhausstock 211 scholasterei 71 Prälatur 190 ndrä 74 Seminargebäude/Schloßhotel 190, 236 tapelle 74, 569 Hofmark 188 rg 66, 82, 542 Pfarrei 188, 200 feldbruck 33 Herreninsel 189, 212, 244f., 246 zell 91 <i>Hilperting</i> 122 f., 253–58, 305, 564 343, 492 Hinterschweinsteig 142, 482, 567 Hirnsberg 131, 170, 259–62, 313, 381, 411 f nt bei Wessobrunn 92, 356, 402 Pfarrkuratie 411 Inn Hittenkirchen 408, 470, 568 stiner-Chorherrenstift 212, 226 Hochfilzen/Tirol 434 diakonat 188 Hochstätt 408 ed bei Immenstadt 347 Pfarrei 494 id bei Nußdorf 386 Höchstädt 433, 456 lstal 72 <i>Högling</i> 124, 263–67, 520 f., 542, 544, 565 ing 147 Pfarrei 263, 521 Höhenmoos 388, 566 162-69, 318, 332 Höhenrain, Schloß und Hofmark 325, 327 i 162 Höslwang 462 a 98 Hofolding 96 263, 544, 565 Hohenaschau 147, 236, 268–303, 272, 380, viesen, Hofmark 434 Herrschaft 39, 147, 157, 268, 270, 274, 30 410, 433 381, 385, 462, 497, 519, 568 f. 367t. Majorat 272 i 188, 190, 462, 565 Schloßkapelle 155, 193, 269 f., 271–81, 36 sirche 274, 465, 551 501, 564 f. kapelle 551 Schloß 157, 270, 272, 368 nden 56 Festsaalbau und Festsaal 270, 282 arting 170f., 381, 408, 470, 568 Zimmer des Grafen oder Gastzimmer 28 e 444 Zimmer der Gräfin 282, 287–91 Eckzimmer 282, 287, 298–301 inde 31, 172 Langes Zimmer 282, 287, 298 ark 31, 172 Nordtrakt 282, 287, 291 St. Bernhard, Hospiz 540 Tafelstube bzw. ›Lauberstube< 282, 291– nenrain, Pfarrei 325, 327 Treppenhaus im Turm 302 zhausen 168, 175–82, 270, 333, 482 Vestibül 301 Hohenwaldeck, Reichsgrafschaft 356, 522 rolinenfeld Holzen bei Breitbrunn 200 Holzhausen, Hofmark 175, 332 inde 253, 494 Holzhausen bei Altenhohenau 172 otmark 434 Holzkirchen 124 Pfarrei 154 Hub 470 554 Iglau in Mähren 317 rafschaft 19 Immenstadt 350 nr, Bezirk Reutte/Tirol 338, 568 Ingolstadt 113 Wessobrunn 33, 437 Innerthann, Sitz 102 Innsbruck 39, 193, 459, 487
+Chieming, Pfarrei 188
+Irschenberg 178, 308, 456, 458, 542
+Isen 172, 569 t bei Feilnbach 65, 71, 90, 139, 175, 183, 95, 332, 394, 421, 482, 488, 554 Jakobsberg 253, 305–07, 564 ut am Wasen 183–87 Benediktinerabtei 188 Katzbach, Hofmark 434
+Kellerbach bei Breitbrunn 200 liakonat 56, 86, 147, 154, 170, 188, 190, Kemathen 308 f. 50 268 272 217 242 260 267 206 422 V .... 1 D ... 1 f Df ...
+
+Kemathen 308 f. Kemathen-Dettendorf, Pfarrei 308 Kiefersfelden 139, 310–12 Kinfarafaldan - (-
+
+Kiefersfelden (61 Pfarrei 310, 561 Kiew 34, 44
+
+Airchdichi in Tirol, Pfarrei 188 Kirchdorf am Haunpold, Pfarrei 32 Kirchdorf am Wasen 394 Kirchdorf in Tirol, Pfarrei 188
+
+Kirchloibersdorf 313–16, 567 Kirchwald 162, 317-24, 388, 52 Kitzbühel 435
+
+Pfarrei 188 Kleinhelfendorf 50
+
+Kleinhöhenkirchen 388 2 Kleinhöhenrain 91, 325–31, 569 Kleinholzhausen 142, 162, 176, 270, 332–36, 347 482, 567 t. Kleinpienzenau 263, 544, 547, 565 Kling, Gericht 31, 131 f., 154, 172, 188, 190, 259, 3131., 343, 479, 492 Klosterneuburg 188 Köln 42, 44 Kötzting, Priorat von Rott 434 Pfarrei 434 Hofmark 434 Konstanz 422 St. Nikolaus 42 Krakau 34, 44 Kufstein 139, 146, 310, 360, 565 Pfarrei 188 Kundl/Tirol 386 Kurbayern 509, 522 Lachen/Ottobeuren 422 Laiming/Altenhohenau, Hofmark 31 Lam, Pfarrei 434 Lampferding 337–42, 568 Kuratie 122 Landl 312, 565 Landsberg 412 4, Jesuitenkirche 96 Landshut 72, 569 Seligenthal 410 Langengeisling 308 Laufen 380, 420 Lauterbach 386, 388, 427, 566 Leitmeritz, Bistum 364 Lend/Pinzgau 436 Leonhardspfunzen 313f., 343-45, 566 Kapelle beim Leonhardsbrünndl 345 Lepanto 34, 44, 342, 408, 515 f. Lickov in Böhmen 226 Lima 42 Lippertskirchen 132, 142, 162, 346–55, 566 Leonhardskapelle 346
+
+Mailand 194, 250, 541 Mallersdorf, Gericht 434 Maria Eck 99, 479 Maria Thalheim 308 Mariastein 270 Maxlrain 102, 522 Schloß 356–59, 569 Hofmark 356 Meissen 539 Melk 61 Miesbach 102, 104, 325, 327, 356, 402 Mietraching 184 Mitterdarching 565 Mühldorf am Inn 504–08, 567 St. Katharina 505, 567 Mühln bei Breitbrunn 200 München 19, 31, 33 f., 51, 61, 71 f., 82, 91 f., 103 f 113, 123, 172, 183, 212, 226, 259, 270, 284, 337, 346, 349, 380, 402, 417, 421, 434, 464, 472, 520 522, 524 Asamkirche 172 Bürgersaal 62, 337, 567 Mariahilfkirche in der Au 422, 568 f. Unsere Liebe Frau 465 Augustinerkloster, Bibliothek 422 T----1 1 11
+<!-- citation-page-bottom: Band12 p571 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=12 -->
+<!-- citation-page-top: Band12 p572 -->
+
+Harlaching, Schloß 566 Palais Holnstein 358 Palais Preysing 212, 270 Palais Törring, Hauskapelle 91 Residenz 71, 301 Hofkapelle 208-11 Grottenhof 104 Halle der Vier Schäfte 142 Schwarzer Saal 104 Theatinergang 142 Vierschimmelsaal 212 Nymphenburg 91, 566, 569 Badenburg 91 Magdalenenklause 104 Schloßkapelle 56, 91, 104 Steinerner Saal 72, 91, 104, 358 München und Freising, Erzdiözese 17, 19, 31, 56, 61, 65, 71, 86, 90, 102, 122, 124, 131, 139, 147, 154, 162, 170, 172, 175, 183, 188, 253, 272, 305, 308, 310, 313, 317, 325, 332, 337, 343, 346, 360, 367, 386, 394, 400, 411, 417, 433, 462, 467, 470, 472, 479, 481, 488, 492, 494, 497, 503, 519, 520, 542, 549, 554, 561 Tünsterschwarzach 442, 444, 448–50, 454, 458
+
+Nagenstadt/Württemberg 567 Nancy 251 Neapel 44 Neresheim 51 Neubeuern 39, 142, 154f., 176, 188, 193, 262 318, 333, 462, 482, 564 f., 568 Herrschaft 270, 481 Neufahrn, Hofmark 434 Neukirchen am Simssee 58, 360-66, 374, 498 Neukirchen bei Weyarn 263, 544, 565 Niederaschau 142, 147-49, 268, 272, 183, 36 465, 501, 505, 567 Eisenschmelzwerk am Hammerbach 268 Pfarrei 147f., 188, 272, 400, 462, 497f., 56 Pfarrkirche 274, 367–79, 380f., 565 Kreuzkapelle 369, 380–85, 479, 568 Olbergkapelle 381 Hoftaferne 368, 380 Niederaudorf 139 Niederroth 433 Nürnberg, St. Katharina 31 Nußdorf am Inn 142, 270, 317 f. Pfarrkirche St. Vitus 386 Wallfahrtskirche St. Leonhard 386–93 Pfarrei 317, 386 Vikariat 317 Gemeinde 286f
+
+Oberaudorf 139, 488 f., 568 Pfarrei 561 Oberflintsbach 176 Oberndorf 472 f. Oberneukirchen 505, 567 Ochsenhausen 136 Olmütz 44 Ortenburg 270 Ostermünchen, Pfarrei 122, 337 Osterwarngau 62, 172, 567 Ottendichl 524, 569 Ottobeuren 422, 508, 569
+
+1 4115 103 Pfarrei 17, 183, 394 Paris 42, 44, 454 Passau 274 St. Nikola 188 Perlach 524 Petersberg, Propstei 175 f., 481
+
+Pfaffenhofen an der Ilm 31 Pfaffenhofen bei Rosenheim, Pfarrei 154 Pfaffing 19 Pfraundorf 17, 122 f., 305, 394-99, 564 Piesenkam 568 Pietzenkirchen 412 Pillersee/Tirol, Priorat von Rott 434 Pfarrei 188, 434, 436, Johann-Nepomukkapelle 436 Eisenwerk 368, 380, 434 Hofmark 434 Plötzing bei Breitbrunn 200 Pocáply/Leitmeritz 90 Polling 505, 567 Prag 44 Erzbistum 364 St. Veit 364 Steinerne Brücke 364 Prato 36 Prien am Chiemsee 39, 155, 170, 192, 259, 292, 369, 412, 471, 479, 551, 568 Pfarrkirche 234f., 400–10, 565, 569 Pfarrei 147, 170, 188, 367, 462, 467, 470, 497, 549 Pfarrhof 400 Berg 368, 400, 467 Trautersdorf 157, 170, 259, 369, 412, 467, 470, 568 Prüfening 436 Prutting 314, 492 Pfarrei 86, 188, 343, 492, 566 Puch 524 Rain/Thalkirchen 259, 411–16, 568 D: 111 / //
+
+Pfarrei 86, 188, 343, 492, 566 Puch 524 Rain/Thalkirchen 259, 411–16, 568 Raitenhaslach 236, 422, 566, 569 Ramerberg 62, 172, 417-20, 567 Rattenberg, Pfarrei 188 Raubling Pfarrei 394 Gemeinde 175, 332, 394 Redenfelden, Hofmark 270 Reichersbeuern 270, 565 Reichersdorf am Inn, Augustiner-Chorher 212, 226 Reichersdorf bei Wevarn 263 Reims 257 Reisach/Oberaudorf, Pfarrei 488 Reischenhart 142, 394 Rettenberg/Allgäu 347 Reutte/Tirol 337, 568 Riedenburg an der Altmühl 356 Riedering Pfarrei 86, 188, 366, 566 Gemeinde 360 Riekofen, Pfarrei 33, 61 Rimsting 408 Gemeinde 170, 470
+
+Sac Sal .12, 467, Sar Sar Sar Sar Sar Sar Sar Sar orherrenstift Sar Sar Sar Sas Sch Sch Sch Sch Sch Sch Sch Sch Sch Sch Sch 39 Sch 3, 259, 270, Sch Sch o, 386, 388, Sch Sch Sch Sch Seb See Sel 516
+
+Roßackerkapelle 236, 421–25, 569 Schmettererbräu 421 Stockhammerbräu 421 Roßacker, Gemeinde 421 Roßholzen 388 Rott am Inn 31, 33, 39, 56, 110, 234, 420, 513 Benediktinerabtei 325 Stiftskirche 433–61, 566 Pfarrei St. Marinus und Anianus in Rott, Pfarrverband 31, 417 Pfarrei St. Peter und Paul in Rott 433 f. Alte Pfarrkirche St. Peter 435, 458–60 Johanneskapelle 434, 458 Marien- bzw. Rosenkranzkapelle 434, 458 Quirinskapelle 433 Gemeinde 433 Hofmark 433 Ehem. Festsaal 434 Rottenburg/Neckar 567 Rottweil/Württemberg 61, 417 Ruhpolding 333
+
+Abtei St. Peter 433 Kloster Nonnberg 154 Samerberg 149, 188 San Apollinare in Classe 251 San José, Kalifornien 32 Sankt Florian 408, 412, 467–69, 470, 568 Sankt Christoph 19 Sankt Johann in Tirol, Pfarrei 188 Sankt Leonhard am Buchat 386 Pfarrei 313, 315 Sankt Salvator 412, 470 f., 568 Sankt Wolfgang bei Isen 569 Santiago de Compostela 555 Saragossa 539, 555 Sassau bei Breitbrunn 200 Schäftlarn, Klosterkirche 90, 168, 566 Schevern 65 Benediktinerabtei 90, 92, 332, 346 Schindlberg/Niederaschau 561 Schleching 188 Schlechtenberg bei Aschau 244, 272, 367, 462 Schleißheim, Schloß 142, 569 Schliersee, Kollegiatstift 183 Schnaitsee, Pfarrei 315 Pfarrverband 313 Schöffau/Oberaudorf 561 Schönau 102, 472–77 Hofmark 102, 472 Pfarrei 102, 472 Pfarrverband 102 Schonstett 478f., 565 Hofmark 479 Schwaben, Gericht 122, 184, 337, 472 f., 568 Schwabering 492, 566 Schwabhausen 96 Schwarzlack 142, 318, 333, 480–87, 567 Schwaz/Tirol 148, 426 Schweinsteig 488–91, 568
+
+Siena 42 Siggenham 471 Sillian/Osttirol 163 Söchtenau 188, 566 Söll, Pfarrei 188 Söllhuben Pfarrkirche 412, 462 Hofmark 270 Pfarrei 188, 259, 262, 411 Soriano 38 Stadl bei Breitbrunn 200 Stein/Oppeln 44 Steingaden, Prämonstratenserabtei 99 Steinhausen 410 Stephanskirchen 188, 315 Gemeinde 86, 343 Stephanskirchen-Haidholzen, Pfarrei 86 Stockach, Bezirk Reutte/Tirol 337 Straßkirchen 131, 260, 313, 343, 492 f. Straßwalchen/Salzburg 522 Straubing 567 Tattenhausen 494–98 Taufkirchen 92, 104 Tegernsee 104 262
+
+Taufkirchen 92, 104 Tegernsee 104, 262 St. Quirin 98 Teigscheid bei Reischenhart 176, 333 Teisbach 313 Thalkirchen s. Rain/Thalkirchen Thiersee 312, 565 Tölz 91 Tötzham 315 Traunstein, Landgericht 190 Trautersdorf/Prien 39, 381 Irient 524 irier 539 lunis 42 Toulouse 536 Tuntenhausen - 114, 116, 157, 236, 272, 274 Wallfahrtskirche 102 Pfarrei 102, 253, 305
+
+Hofmark 102, 114 Tuy/Galizien 44 Uberfilzen bei Nußdorf 318 Ubersee 188 Ulm 42 Umrathshausen 58, 149, 360, 367, 374, 381 497–502, 565, 567 Unering 104 Unterachthal 170, 411 Unterflintsbach 139, 567 Untergerstenbrand 347 Unterpeißenberg 33, 437 Unterwössen 188 Urfahrn am Chiemsee 188, 200, 244 Urschalling 408 Vachendorf 568 Vagen, Hofmark 72, 91, 98, 325, 327, 569 Valencia 42, 44 Vannes 44 Venedig 284
+
+Vagen, Hotmark 72, 91, 98, 32 Valencia 42, 44 Vannes 44 Venedig 284 Verona 42 Veszprém 37 Villafranca/Barcelona 44 Villingen 92 Virgen/Tirol 310 Vogtareuth 39, 188 Pfarrei 492 Gemeinde 492 Vorderschweinsteig 488 f.
+
+4001. Wagrain bei Ebbs 292, 565 Walchsee bei Kufstein 58, 360, 497, 567 Wald, Herrschaft 19 Wall 124, 126, 564 Warnbach 172 Wasserburg 33, 50, 56, 86, 200, 314, 386, 433, 457, 472, 479, 503–19, 566 Pfarrei St, Jakob 503 Frauenkirche 503–19 Gericht 61, 417, 433, 566 f.
+
+Weihenlinden 65, 520-43, 569 Wallfahrtskirche 520–34 Gnadenkapelle 71 Ehem. Chorraum 534–37 Zwei Räume über der Sakristei 359–41 Weihenlinden-Högling, Pfarrei 263, 520 Weihenstephan 436 Weilheim 470, 568 Weingarten bei Breitbrunn 200 Weinsberg 290 Weißenhorn 104 Werdenfelser Land 123 Wessobrunn 33, 106, 148, 150, 234, 346 Westerham 308, 542–48, 554, 565 Westerndorf bei Zinneberg/Glonn 17, 305, 395 Weyarn, Augustiner-Chorherrenstift 106, 263, 520t., 524, 534, 565 Klosterkirche 104, 108 Wiechs 162, 347 Wien 51, 56, 360, 497, 524, 567 f. Wies/Steingaden 99 Wildenwart 155, 246, 402, 408, 549-53 Herrschaft 39, 56, 170, 259 f., 270, 274, 369, 381, 400, 402, 411, 467, 470, 549, 551, 564, 568 Schloß 272, 564 Ehem. Schloßkapelle 274, 549 f. Festsaal 274 Pfarrkuratie 549 Willing 308, 554–60, 569 Wilparting 163, 308, 442, 456–58, 542, 569 Windhag 489, 561–63, 568 Windisch-Matrei 312, 565 Windschnur 139 Wolfratshausen 163, 270 Wolfsberg bei Breitbrunn 200 Würzburg 422, 535 Wyschehrad 364
+
+{{End}}

@@ -1,0 +1,85 @@
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=344
+|Originalseitenbis=345
+|Lemma=Leonhardspfunzen, Kapelle
+|Typ=Sakral
+|Ort=Leonhardspfunzen
+|davor=Leonhardspfunzen, Wallfahrtskirche St. Leonhard
+|danach=Lippertskirchen, Filialkirche Maria Morgenstern
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Kapelle beim Leonhardsbrünndl, zur Kirche Leonhardspfunzen gehörig
+
+'''Zum Bauwerk:''' Nach der Überlieferung wurde die Heilquelle 1737 entdeckt und bei ihr eine hölzerne Kapelle errichtet. Wie alte Votivbilder zeigen, war der Giebel dieser Kapelle geschwungen. An ihrer Stelle wurde die jetzige gemauerte Kapelle 1801 erbaut. Über der Dachbodenluke befindet sich eine nur noch teilweise lesbare Inschrift: »... Operis factor 1801«. Die Kapelle liegt am Fuß des östlichen Inn-Steilufers. Sie hat einen einfachen Dreiecksgiebel, ist geschlossen, das Portal ist an der Ostseite. Der einfache rechteckige Innenraum mit den beiden seitlichen Fenstern hat einen Schluß in Form eines Halbrunds.
+
+Unmittelbar südlich ist die alte Leonhardsquelle in einem kleinen Brunnen gefaßt. Diese sowie andere ergiebige Quellen des Uferbereichs gelten als heilkräftig.
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, wohl 1801
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Tonne, im halbrunden Schluß abgemuldet.
+
+Rahmen: Gemalte Profilrahmen
+
+Technik: Fresko; polychrom
+
+Maße: Höhe 2,85 m; A und B 1,00 x 1,00
+
+Erhaltungszustand und Restaurierungen: Die Deckenbilder waren übermalt und wurden anläßlich der Restaurierung und der Fassung des Raums nach Originalbefunden 1974/75 durch die Fa. Gebrüder Lauber aus Bad Endorf freigelegt und ausgebessert.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Zwei Bildfelder, eines zeigt St. Leonhard, das zweite die Dreifaltigkeit.
+
+
+[[File:Band12-2_chunk001_p023_img002.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk001_p023_img003.jpg|thumb|A Hl. Leonhard (1801]]
+
+
+
+== Quellen und Literatur ==
+
+
+AEM, Pfarrakten Prutting, Bauten II; Filiale Leonhardspfunzen.
+
+AEM, Kunsttopographie des Erzbistums, Dekanat 41/Rosenheim, Pfarrei Zaisering, Filialkirche St. Leonhard (Dieter Gerhard Morsch).
+
+BLfD, Akt Leonhardspfunzen, Filialkirche St. Leonhard
+
+Mayer-Westermayer, Bd 2, S. 779–83. 
+
+KDB IOB (2), S. 1626.
+
+Kriß, Volkskundliches aus altbayerischen Gnadenstätten, Augsburg 1930, S. 138f.
+
+o.V., Die Kapelle in Leonhardspfunzen, in: Der Sonntag, Rosenheim 1935, Nr. 18.
+
+Bechert, Heinz, Aus der Geschichte Leonhardspfunzens, in: Inn-Oberland 24, 1953, S. 91–106. III. Die Kirche zu Pfunzen S. 102–06.
+
+Bomhard, Bd 1, S. 349–53, Archivalien S. 462.
+
+Rosenegger, Josef und Nikolai Molodovsky, Meister im Innal (= Kleine Pannonia-Reihe Nr. 41), Freilassing 1974, S. 18.
+
+Aigner, Helmut, Wallfahrtskirche Leonhardspfunzen erstrahlt in neuem Glanz, in: Oberbayrisches Volksblatt 130, 1984, Nr. 184 vom 10. 8. 1984. Auch OVB vom 13. 8. und vom 20. 8. 
+
+Dehio 1990, S. 596f.
+
+[o.V., o.J.] Kirchenführer Leonhardspfunzen.
+
+A. E
+<!-- citation-page-bottom: Band12 p345 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=24 -->
+{{End}}

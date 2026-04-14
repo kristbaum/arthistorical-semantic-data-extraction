@@ -1,0 +1,143 @@
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=535
+|Originalseitenbis=539
+|Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Chorraum
+|Typ=Sakral
+|Ort=Weihenlinden
+|davor=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf
+|danach=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Räume über der Sakristei
+|AutorIn1=kein Autorenvermerk (wahrscheinlich Bauer-Wild, Anna)
+}}
+
+== Ehem. Chorraum ==
+
+
+Raum über der Gnadenkapelle in der Wallfahrtskirche
+
+'''Zum Bauwerk:''' Beim Kirchenneubau von 1653/57 wurde die alte Gnadenkapelle in das östliche Mittelschiffjoch integriert. Da sie bedeutend niedriger war als der neue Kirchenbau, entstand über ihr ein Raum, der zu einem Chor für die in Weihenlinden exponierten Weyarner Konventualen ausgebaut wurde. Er liegt hinter dem Obergeschoß des Hochaltars, und
+
+I<sub>a-f</sub> Verteidigung der unverletzten Jungfräulichkeit Mariens
+I<sub>a</sub> Vogel sagt Ave
+I<sub>b</sub> Straußeneier von Sonne ausgebrütet
+I<sub>c</sub> Fluß verwandelt sich in Blut
+I<sub>d</sub> Handschuh wird zu Stein
+I<sub>e</sub> Turm, der nicht verbrennt
+I<sub>f</sub> Phönix im Feuer verjüngt
+
+zwar so, daß die Rückseite des 1660 entstandenen Altars in den Chorraum ragt. Von der Gnadenkapelle aus sieht man durch eine große runde Öffnung in der Decke (ca. 2,00 m im Durchmesser) von unten in diesen Raum. Auch diese Öffnung ist von der Altarrückseite angeschnitten.
+
+Querrechteckiger Raum von der Breite des Mittelschiffs, je ein guerovales Fenster nach S und N
+
+'''Auftraggeber:''' Propst Valentin Steyrer von Weyarn (1626–59)
+
+'''Autor und Entstehungszeit:''' Autor unbekannt, um 1655/57 Wahrscheinlich waren die im Chorraum erhaltenen Medaillonbilder nicht die einzigen in Weihenlinden, denn 1973/72 wurden über der Orgel »Medaillonbilderreste« aufgefunden »Reste der Bemalung vor der Stuckierung« (BLfD, Befundbericht 1973/74).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Gratgewölbe mit durch Stuckleisten betonten Graten. In der Mitte befindet sich eine Heilig-Geist-Öffnung, ein hölzerner Deckel mit einer geschnitzten Taube und einem ausgesägten Wolkenkranz
+
+Rahmen: I–VI gemalte Rahmung in Medaillonform: innerhalb der Rahmen stehen umlaufend die Inschriften T 1 1 C 1 · · · · · · · · · · · · · · · ·
+
+Technik: Seccomalerei; ocker mit schwarzer Zeichnung Maße: Ansatz der Wölbung 4,20, Scheitelhöhe 7,20
+
+a und I<sub>e</sub> Ø 1,00 ØI
+
+b, c, d, 1 Erhaltungszustand und Restaurierungen: Zu Restaurierungen dieses Raums und der Deckenbilder gibt es keine Nachrichten
+
+
+[[File:Band12-2_chunk005_p018_img001.jpg|thumb|I. Fluß verwandelt sich in Blut]]
+
+
+
+[[File:Band12-2_chunk005_p018_img002.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk005_p018_img003.jpg|thumb|I<sub>f</sub> Phönix im Feuer verjüngt]]
+
+
+
+[[File:Band12-2_chunk005_p018_img004.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk005_p018_img005.jpg|thumb]]
+
+
+Beschreibung und Ikonographie
+
+I<sub>a-f</sub> DEFENSORIUM INVIOLATAE VIRGINITATIS BEATAE MARIAE Die sechs Medaillons an der Decke bringen je ein Argument aus dem Defensorium des Dominikaners Franz von Retz, das um 1400 entstanden ist.
+
+Im Defensorium inviolatae virginitatis Beatae Mariae werden außergewöhnliche Ereignisse oder Sachverhalte, in denen Naturgesetze außer Kraft gesetzt sind – die aber von antiken oder nachantiken Autoren verbürgt sind -, als Argumente dafür gebraucht, daß auch die durch die Geburt Christi unverletzte Jungfräulichkeit Mariens möglich sei. Wenn dies oder jenes möglich ist, argumentiert das Defensorium, warum sollte dann nicht auch Maria als Jungfrau gebären? »Cur Virgo non generaret?« ist der immer gleichbleibende Schluß der Zweizeiler, die als Beischriften den einzelnen Beispielen zugeordnet sind. (Zu den erhaltenen Handschriften und Drucken des Defensorium s. RDK Bd 3, Sp. 1208–11, s.v. Defensorium; LCI Bd 1, Sp. 499–503, s.v. Defensorium; s. auch Schlosser 1902, S. 279–313. Schlosser zitiert teilweise Erklärungen aus dem Wiegendruck des Defensorium von Georg Reyser, Würzburg 1475/80 [s. RDK]).
+
+Die Darstellungen in Weihenlinden zeigen große Verwandtschaft mit den entsprechenden Bildern in einem Münchener Codex (BSB Clm 706, geschrieben 1475 von einem Bruder Maurus in Kloster Ebersberg; Blatt 51–56, 46 Rundbilder mit Unterschriften in schwarzer Tinte, Quellenangaben in roter Tinte). Diese Handschrift – oder eine heute verlorene Handschrift des Defensorium, die eng mit der Ebersberger Handschrift zusammenhängt – dürfte das unmittelbare Vorbild für die Deckenbilder in Weihenlinden gewesen sein. Auch in BSB Clm 706 sind, wie in Weihenlinden, die Bilder rund (zu den Übereinstimmungen im Detail s.u.). Die Inschriften in Weihenlinden sind zum größten Teil zerstört. Die Reste lassen erkennen, daß sie den Ebersberger Varianten des Defensorium folgten (die Verse des »Defensorium« variieren je nach Handschrift bzw. Ausgabe geringfügig).
+
+Zählung vom östlichen Bild im Uhrzeigersinn. Ansicht jeweils von der Mitte aus.
+
+I<sub>a</sub> VOGEL, DER AVE SAGT Ein Mann in spätmittelalterlicher Kleidung steht vor einem Baum, in dem ein Nest mit drei Vögeln zu sehen ist. Die Inschrift ist völlig zerstört. Dieses Bild ist als einziges der Reihe nicht mit völliger Sicherheit zu identifizieren. Wahrscheinlich handelt es sich um den Papagei, der von sich aus »Ave« sagt. In der Ebersberger Handschrift ist ein Mann mit ähnlicher Haltung und Kleidung gezeigt, der vor einem kleinen Baum und einem Vogel darauf steht. »Psiticus natura si ave dicere claret. Quare virgo pura per ave non generaret.« Die Quellenangabe lautet »In naturis rerum« (Schlosser, S. 307).
+
+I<sub>b</sub> STRAUSS, DESSEN EIER DIE SONNE AUSBRÜTET Vogel Strauß, der vor drei Eiern steht, auf die die Sonne scheint. Von der Inschrift ist noch zu lesen SI OVA S... Der entsprechende Vers in der Ebersberger Handschrift (fol. 54 v.)
+<!-- citation-page-bottom: Band12 p535 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=19 -->
+<!-- citation-page-top: Band12 p536 -->
+
+<!-- header: WEIHENLINDEN -->
+
+[[File:Band12-2_chunk005_p019_img001.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk005_p019_img002.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk005_p019_img003.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk005_p019_img004.jpg|thumb|Bildvorlagen für I<sub>4</sub> aus »Defensorium inviolatae virginitatis Beatae Mariae«, Ebersberg 1475, BSB clm 70]]
+
+
+
+[[File:Band12-2_chunk005_p019_img005.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk005_p019_img006.jpg|thumb]]
+
+
+lautet: »Si ova strutionis sol excubare valet. / Cur opere vi solis virgo non generaret.« Die Quellenangabe ist »Ysidorus XII ethimologiarum« (Isidor, Etymologiae XII, 7/20; s. dazu Schlosser, S. 305).
+
+Interessant ist bei dieser Darstellung, daß Stellung und Anordnung von Strauß, Eiern und Sonne der Ebersberger Handschrift folgt, daß aber der Strauß »richtiger«, der besseren Kenntnis des 17. Jh. folgend, gezeichnet ist.
+
+Ebersberger Handschrift (fol. 56r), wo in gleicher Anordnung ein alter bärtiger Mann mit ähnlichem Hut zwischen zwei jungen, langhaarigen (weiblichen?) Gestalten steht und einen Handschuh in ein Brunnenbecken hält. Inschrift SI MERSUS FONTI... Beischrift in der Ebersberger Handschrift: »Si mersum fonti gocie lapis mox apparet / Cur petram Christum celice Virgo non generaret.« Als Quelle ist genannt »Albertus I<sup>e</sup> mineralium« (s. auch Schlosser, S. 308).
+
+I<sub>2</sub> TURM, DER NICHT VERBRENNT Zwei Bewaffnete unterhalten mit Stangen ein großes Feuer in einem Holzstoß, der zu Füßen eines Turmes aufgeschichtet ist. Inschrift (sie ist nur lesbar mit der Kenntnis des gleichlautenden Textes der Ebersberger Handschrift): TURRIS SI LAURICEA Ignis ardore caret / CUR RUBUS FLAMAE nescia virgo non generaret.
+
+In der Ebersberger Handschrift (fol. 54 r) ist als Quelle »Viturbius de architectura« angegeben. »Turris lauricea quia in altore vulcani insula sit sita, perpetuum sentit ignem, quemadmodum mons Ethne incendia non consumitur« (Reyser, S. 15). »Das Ganze ist die willkürliche und missverständliche Zurechtlegung einer Vitruvstelle (II,9), wo indessen von Lärchenholz (larix) und von einem Turm aus diesem Material die Rede ist der bei der Belagerung des Alpencastells Larignum durch Caesar unversehrt blieb« (Schlosser, S. 310).
+
+I<sub>4</sub> HANDSCHUH, DER ZU STEIN WIRD Auf dem Bild sind nur die Köpfe von drei Personen zu erkennen. Es handelt sich um die Reste einer Darstellung aus der Ebersberger Handschrift (fol. 56r), wo in gleicher Anordnung ein alter bärtiger Mann mit ähnlichem Hut zwischen zwei jungen, langhaarigen (weiblichen?) Gestalten steht und einen Handschuh in ein Brunnenbecken hält. Inschrift SI MERSUS FONTI... Beischrift in der Ebersberger Handschrift: »Si mersum fonti gocie lapis mox apparet / Cur petram Christum celice Virgo non generaret.« Als Quelle ist genannt »Albertus I<sup>e</sup> mineralium« (s. auch Schlosser, S. 308).
+
+I<sub>4</sub> PHÖNIX Phönix auf einem Feuer. Der Vogel Phönix wird im Feuer nicht verbrannt, sondern verjüngt. Die Inschrift ist hier völlig zerstört. Der Vers in der Ebersberger Handschrift (fol. 55 r) lautet: »Fenix si in igne se renovare valet. Cur mater Dei digne virgo non generaret.« Die Quellenangabe ist: »Ysidorus XII<sup>e</sup> ethimologiarum« (Schlosser, S. 305).
+
+
+== Ouellen und Literatur ==
+
+
+BSB, Clm 706: Retz, P. Franz von O. P. (* um 1343 † 1427), Defensorium inviolatae virginitatis beatae Mariae (entstanden um 1400).
+
+Schlosser, Julius, Zur Kenntnis der künstlerischen Überlieferung im späten Mittelalter, in: Jahrbuch der Kunsthistorischen Sammlungen des Allerhöchsten Kaiserhauses 23, 1902, S. 279–338. Defensorium inviolatae virginitatis b. Mariae 5. 279-313.
+
+RDK Bd 3, Sp. 1206–18
+
+LCI Bd 1, Sp. 499–503, mit Abb. des Blockbuchs von Eyser hut (s. RDK).
+
+Kemp, S. 314.
+
+{{End}}

@@ -1,0 +1,107 @@
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=305
+|Originalseitenbis=307
+|Lemma=Jakobsberg, Filialkirche St. Jakobus der Ältere
+|Typ=Sakral
+|Ort=Jakobsberg
+|davor=
+|danach=Kemathen, Pfarrkirche St. Martin
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Filialkirche, Pfarrei Tuntenhausen, Gemeinde Tuntenhausen, Erzdiözese München und Freising; bis zur Säkularisation war die Pfarrei Tuntenhausen dem Augustiner-Chorherrenstift Beyharting inkorporiert (seit 1221). Gericht Aibling
+
+'''Patrozinium:''' St. Jakobus der Ältere
+
+'''Zum Bauwerk:''' Neubau unter Verwendung spätgotischen Mauerwerks 1678-80 unter Propst Christian Scheuchenstuel von Beyharting (1645–86) durch Hanns Mayr (1643–1718), Maurermeister von der Hausstatt bei Feilnbach (Zimmer, S. 17). Der Chor wurde vom Vorgängerbau übernommen, ebenso das Turmuntergeschoß. Weihe 1680. Dekoration im frühen 19. Jh. 1875/76 wurde die geräumige Vorhalle in das Langhaus einbezogen und die Empore dort angebracht. Einfacher Saal (15,40×7,45 m) zu ursprünglich drei Jochen mit einem Vorjoch auf trapezförmigen Grundriß (die frühere Vorhalle); dort Empore. Pilastergliederung. Belichtung durch je drei Rundbogenfenster im Norden und Süden. Eingezogener Chor (7,80×5,20m) zu zwei Jochen mit dreiseitigem Schluß, Belichtung durch zwei Fenster von Süden.
+
+'''Auftraggeber:''' Die Ausmalung ist möglicherweise erst nach der Säkularisierung 1803 entstanden. In der Pfarrei Tuntenhausen, wo bisher Konventualen von Beyharting Pfarrvikare waren, waren jetzt ehemalige Konventualen Pfarrer. Pfarrer Anton Gregor Gsellhofer (1807–26) schrieb in einer Pfarrbeschreibung aus dem Jahr 1817: »Das Fresco Gemälde im Plafond die Lebensgeschichte des Hl. Jakobs ist erst vor einigen Jahren durch einen Maler in Aibling recht hübsch verfertiget worden« (AEM); man kann es also wohl kaum vor 1800 datieren. Die Freskierung entstand also eher in Gsellhofers Amts-
+
+zeit als in der seiner Vorgängers Joachim Scheiterer (1803–05). Private Spender sind anzunehmen.
+
+'''Autor und Entstehungszeit:''' Zuschreibung an Johann Baptist Böham (* 24. 10. 1752 Westerndorf bei Zinneberg/Glonn † 1838 Aibling) nach 1800
+
+Pfarrer Gsellhofer (s. o.) schreibt 1817, die Deckenbilder habe der »Maler von Aibling« vor einigen Jahren gemalt. Von den beiden Malern in Aibling kommt in der fraglichen Zeit nur Johann Böham (seit 1785 Maler in Aibling) in Betracht. Die Bilder in Jakobsberg stimmen in vielen Details mit den bekannten und für Böham gesicherten Fresken überein (vgl. Pfraundorf 1788 und Ellmosen 1790), aber auch mit den Deckenbildern in Hilperting, die Böham zuzuweisen sind. Für die Datierung kann man die Ornamentmalerei nicht heranziehen, da sie im wesentlichen von 1908 stammt (s. u.).
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: LHs und AR Tonne mit Stichkappen; 1–6 liegen an den Gewölbezwickeln
+
+Rahmen: gemalte, hochovale Medaillonrahmen
+
+Technik: Fresko; die Deckenbilder sind polychrom
+
+Maße: 1–6 Höhe Unterkante 5,70; je 1,00 × 0,80
+
+Erhaltungszustand und Restaurierungen: 1835 war das Dach nach einem Bericht des Pfarrers so schadhaft, daß das Gewölbe »mehrere große Sprünge bekommen hat, das Gemälde ruiniert, desgleichen von Eindringen des Wassers besonders auf der Thurmseite« (StAM, LRA); diese Schäden wurden noch im gleichen Jahr behoben. 1905 plante Ludwig Osendorfer, Bad Aibling, eine dekorative Ausmalung der Kirche: »im Innern der Kirche die Gewölbe des Presbyteriums und des Schiffes in Kalkfarbe tünchen ... sowie Dekoration in Grau«. 
+
+[[File:Band12-2_chunk001_p003_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band12 p305 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=4 -->
+<!-- citation-page-top: Band12 p306 -->
+
+<!-- header: IAKOBSBERG -->
+
+
+[[File:Band12-2_chunk001_p004_img001.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk001_p004_img002.jpg|thumb|3 Christus vor dem Samariterdorf]]
+
+
+
+[[File:Band12-2_chunk001_p004_img003.jpg|thumb]]
+
+
+malerei (Stuckimitation) nach Skizze ... die Wände weiß, die Pilaster leicht grau getönt, die Apostelkreuze ... echt vergoldet«. Gleichzeitig schlug Kunstmaler Leonhard Thoma eine neue Ausmalung vor, mit Übermalung der großen Deckenbilder (»wertlose alte Arbeiten«) und Überarbeitung der kleineren. Osendorfer restaurierte 1908 die drei Altäre und die Kanzel. Im gleichen Jahr kam der Vorschlag Thomas zur Ausführung: 1908 wurden die großen Deckenbilder durch moderne Bilder von seiner Hand ersetzt, die kleinen Medaillonbilder wurden durch den Dekorationsmaler Franz Xaver Zimmermann aus Augsburg »überarbeitet«, der außerdem 1908 die Bezahlung der »Ausführung der Dekorationsmalerei nach genehmigte Skizze« quittierte. Die ornamentale Ausmalung der Raumschale ist also in der heutigen Form erst 1908 entstanden – vielleicht auf Resten alter Bemalung. 1971 wurden die Darstellungen in den Medaillons durch Josef Dürmer (Fa. Paul Schneider, Glonn) gereinigt und restauriert. Eine Aufdeckung der alten Hauptbilder, die zunächst in Erwägung gezogen wurde, fand nicht statt.
+
+
+[[File:Band12-2_chunk001_p004_img004.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk001_p004_img005.jpg|thumb]]
+
+
+
+== Beschreibung und Ikonographie ==
+
+
+Nach dem Bericht des Pfarrers von 1817 beschäftigten sich die ehemaligen Hauptbilder (wie auch die Nebenbilder) mit dem Leben des Kirchenpatrons, des hl. Jakobus. Man kann wohl annehmen, daß in ihnen die Berufung des hl. Jakobus, sein Tod und seine Glorie dargestellt waren.
+
+
+[[File:Band12-2_chunk001_p004_img006.jpg|thumb]]
+
+
+
+[[File:Band12-2_chunk001_p004_img007.jpg|thumb|4 Die Bitte der Mutter der Zebedäussöhne]]
+
+
+Hier ist Jakobus wachend gezeigt, wohl um dem Kirchenpatron Ehre zu erweisen.
+
+Himmel sind Putten zu sehen, die Blitze aus einem Füllhorn schütten. Das Bild illustriert die Begebenheit auf dem Weg Jesu nach Jerusalem, als ihn ein Dorf der Samariter nicht aufnahm und Jakobus und Johannes ihn fragten: Herr, willst Du, daß wir sagen, Feuer soll vom Himmel fallen und sie verzehren? Worauf Christus ihnen diese Rede verwies.
+
+
+== Quellen und Literatur ==
+
+
+StAM, LRA 119049: Restaurierung 1908; LRA 119051: Schäden am Dach 1835; Neuausmalung 1906/08.
+
+AEM, Pfarrakten Tuntenhausen, Pfarrbeschreibung; Bauten II: Restaurierung 1906/08.
+
+Pfarrarchiv Tuntenhausen, Filiale Jakobsberg 1871–75, Umbau (mit Plänen); Kirchenrechnung 1908. 
+
+BLfD, Akt Jakobsberg, Kirche St. Jakobus d.Ä.
+
+Schmidtsche Matrikel, Bd 2, S. 43. Mayer-Westermayer, Bd 1, S. 74. KDB I OB (2), S. 1616 f. Engel, Rudolf, Land zwischen Isar und Inn, München-Zürich 1975, S. 277 f. Zimmer, Hans, Die Hausstätter, Bad Aibling o. J., S. 17.
+<!-- citation-page-bottom: Band12 p307 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=5 -->
+{{End}}

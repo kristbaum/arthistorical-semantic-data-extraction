@@ -55,7 +55,7 @@ Hirmer Verlag München 2006
 
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=305
@@ -163,7 +163,7 @@ Schmidtsche Matrikel, Bd 2, S. 43. Mayer-Westermayer, Bd 1, S. 74. KDB I OB (2),
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=308
@@ -250,7 +250,7 @@ A. B./K.
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=310
@@ -348,7 +348,7 @@ Biasi, Franz, Kufsteiner Buch. Beiträge zur Heimatkunde von Kufstein und Umgebu
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=313
@@ -493,7 +493,7 @@ Historischer Atlas I, Bd 15, Die Landgerichte Wasserburg und Kling (Tertulina Bu
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=317
@@ -737,7 +737,7 @@ Brugger, Walter, Kirchwald, in: Marienwallfahrten im Erzbistum München und Frei
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=325
@@ -902,16 +902,16 @@ A. B.
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=332
-|Originalseitenbis=334
+|Originalseitenbis=335
 |Lemma=Kleinholzhausen, Filialkirche St. Johannes der Täufer
 |Typ=Sakral
 |Ort=Kleinholzhausen
 |davor=Kleinhöhenrain, Filialkirche St. Bartholomäus
-|danach=Leonhardspfunzen, Kapelle
+|danach=Lampferding, Kuratiekirche Mariä Himmelfahrt
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -1074,6 +1074,21 @@ Schmitter, E., St. Johannes der Täufer Kleinholzhausen. Filialkirche der Pfarre
 
 Dehio 1990, S. 544.
 
+{{End}}
+
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=336
+|Originalseitenbis=342
+|Lemma=Lampferding, Kuratiekirche Mariä Himmelfahrt
+|Typ=Sakral
+|Ort=Kleinholzhausen
+|davor=Kleinholzhausen, Filialkirche St. Johannes der Täufer
+|danach=Leonhardspfunzen, Wallfahrtskirche St. Leonhard
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 == LAMPFERDING ==
 
@@ -1212,16 +1227,16 @@ Sponholz, Hans, Schöne Heimat Ebersberg. Der Landkreis in Bildern, München-Aß
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=343
-|Originalseitenbis=345
-|Lemma=Leonhardspfunzen, Kapelle
+|Originalseitenbis=344
+|Lemma=Leonhardspfunzen, Wallfahrtskirche St. Leonhard
 |Typ=Sakral
 |Ort=Leonhardspfunzen
-|davor=Kleinholzhausen, Filialkirche St. Johannes der Täufer
-|danach=Lippertskirchen, Filialkirche Maria Morgenstern
+|davor=Lampferding, Kuratiekirche Mariä Himmelfahrt
+|danach=Leonhardspfunzen, Kapelle
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -1311,6 +1326,22 @@ EB, H. Egiedius, bitt für uns
 
 Die Bilder der oberen Emporenbrüstung stammen von 1823.
 
+{{End}}
+
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=344
+|Originalseitenbis=345
+|Lemma=Leonhardspfunzen, Kapelle
+|Typ=Sakral
+|Ort=Leonhardspfunzen
+|davor=Leonhardspfunzen, Wallfahrtskirche St. Leonhard
+|danach=Lippertskirchen, Filialkirche Maria Morgenstern
+|AutorIn1=Bauer-Wild, Anna
+}}
+
 Kapelle beim Leonhardsbrünndl, zur Kirche Leonhardspfunzen gehörig
 
 '''Zum Bauwerk:''' Nach der Überlieferung wurde die Heilquelle 1737 entdeckt und bei ihr eine hölzerne Kapelle errichtet. Wie alte Votivbilder zeigen, war der Giebel dieser Kapelle geschwungen. An ihrer Stelle wurde die jetzige gemauerte Kapelle 1801 erbaut. Über der Dachbodenluke befindet sich eine nur noch teilweise lesbare Inschrift: »... Operis factor 1801«. Die Kapelle liegt am Fuß des östlichen Inn-Steilufers. Sie hat einen einfachen Dreiecksgiebel, ist geschlossen, das Portal ist an der Ostseite. Der einfache rechteckige Innenraum mit den beiden seitlichen Fenstern hat einen Schluß in Form eines Halbrunds.
@@ -1384,7 +1415,7 @@ A. E
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=346
@@ -1600,7 +1631,7 @@ Hösch, Karin, Lippertskirchen Maria Morgenstern (= Peda Kunstführer Nr. 201), 
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=356
@@ -1715,7 +1746,7 @@ Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann. Entstehung und
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=360
@@ -1851,7 +1882,7 @@ Pfarrkirche Kreuzkapelle S. 380
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=367
@@ -2146,7 +2177,7 @@ s. auch Literatur S. 38
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=380
@@ -2314,7 +2345,7 @@ A. I
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=386
@@ -2584,7 +2615,7 @@ A.B
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=394
@@ -2726,7 +2757,7 @@ Schmidtsche Matrikel, Bd 2, S. 80. Mayer-Westermayer, Bd 1, S. 77. KDB I OB (2),
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=400
@@ -2954,7 +2985,7 @@ AEM, Pfarrakten Prien, Pfarrbeschreibung; Bauten II: Innenrestaurierung 1934. Pf
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=411
@@ -3073,7 +3104,7 @@ Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit (= Quellen und Darstellungen z
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=417
@@ -3190,7 +3221,7 @@ Kreisfreie Stadt Erzdiözese München und Freising Ehem. Markt und Sitz des Geri
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=421
@@ -3325,7 +3356,7 @@ Weinberger, Ludwig, Moderne und Barock: Christkönigkirche und Roßackerkapelle 
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=426
@@ -3334,7 +3365,7 @@ Weinberger, Ludwig, Moderne und Barock: Christkönigkirche und Roßackerkapelle 
 |Typ=Sakral
 |Ort=Rosenheim
 |davor=Rosenheim, Roßackerkapelle
-|danach=Sachrang, Pfarrkirche St. Michael
+|danach=Rott am Inn, Ehem. Benediktinerabtei
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Sinkel, Kristin
 }}
@@ -3500,6 +3531,21 @@ Bauer, Anton, Die Wallfahrten und Gnadenbilder im Gebiet des alten Dekanats Aibl
 
 Rosenegger, Josef und Nikolai Molodovsky, Meister im Inntal (= Kleine Pannonia-Reihe Nr. 41), Freilassing 1974, S. 28. Dehio 1990, S. 1030 f. A. B./K. S
 
+{{End}}
+
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=432
+|Originalseitenbis=434
+|Lemma=Rott am Inn, Ehem. Benediktinerabtei
+|Typ=Sakral
+|Ort=Rosenheim
+|davor=Rosenheim, Loretokapelle
+|danach=Rott am Inn, Ehem. Benediktinerabtei, Abteikirche
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 == ROTT AM INN ==
 
@@ -3539,8 +3585,21 @@ Nach der Säkularisation Rotts 1803 wurden die Klostergebäude teils abgebrochen
 Zu den zerstörten Gebäuden gehörte der nördlich an die Kirchenfassade anschließende Trakt. Dort lagen Gästewohnungen und ein großer Speise- bzw. Festsaal (Abbildung des Refektoriums im 2. Stock mit Stuck und Fresken in: Rott 1983, Nr. 122). Dieser wurde, soweit man nach den Stuckaturen auf der alten Photographie urteilen kann, um 1725 stuckiert und damals auch wohl freskiert. Georg Kaiser, Besitzer der Klostergebäude und der dort befindlichen Brauerei, hatte zu Beginn des 20. Jh. einen »großen Corridor mit reicher Barockstuccatur« demolieren lassen und den Saal zu Brauereizwecken benutzt (BLfD, Brief vom 7.11.1902). Im Bericht vom Brand 1937 wird der Saal als »schon lange verwahrlost und unzugänglich« beschrieben (Münchner Neueste Nachrichten 1937, Nr. 236, S. 7).
 
 
-== Ehem. Benediktiner-Abteikirche und Pfarrkirche ==
+{{End}}
 
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=434
+|Originalseitenbis=461
+|Lemma=Rott am Inn, Ehem. Benediktinerabtei, Abteikirche
+|Typ=Sakral
+|Ort=Rosenheim
+|davor=Rott am Inn, Ehem. Benediktinerabtei
+|danach=Sachrang, Pfarrkirche St. Michael
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 Heute Pfarrkirche der Pfarrei Rott. Die Pfarrei Rott war ehemals der Benediktiner-Abtei inkorporiert. An der Kirche bestand eine bedeutende Rosenkranz-Bruderschaft. Unter den reichen Reliquienschätzen befand sich die hochverehrte Hirnschale des hl. Marinus: {ZITAT|002}} (Schmidt, S. 195).
 
@@ -4027,7 +4086,7 @@ Heisig, Alexander, Rott am Inn (Kirchenführer, Hg. Pfarramt Rott am Inn), Rott 
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=462
@@ -4035,7 +4094,7 @@ Heisig, Alexander, Rott am Inn (Kirchenführer, Hg. Pfarramt Rott am Inn), Rott 
 |Lemma=Sachrang, Pfarrkirche St. Michael
 |Typ=Sakral
 |Ort=Sachrang
-|davor=Rosenheim, Loretokapelle
+|davor=Rott am Inn, Ehem. Benediktinerabtei, Abteikirche
 |danach=Sankt Florian, Wallfahrtskirche St. Florian
 |AutorIn1=Bauer-Wild, Anna
 }}
@@ -4192,7 +4251,7 @@ Pfister, Max, Baumeister aus Graubünden - Wegbereiter des Barock. Die auswärti
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=467
@@ -4302,7 +4361,7 @@ Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit (= Quellen und Darstellungen z
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=470
@@ -4422,7 +4481,7 @@ Dehio 1990, S. 1063 f.
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=472
@@ -4587,7 +4646,7 @@ AR
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=478
@@ -4662,7 +4721,7 @@ Mayer-Westermayer, Bd 1, S. 89–91. KDB I OB (2), S. 2057–58. Dehio 1990, S. 
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=480
@@ -4841,7 +4900,7 @@ A. B./K. S.
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=488
@@ -4944,7 +5003,7 @@ A. B./K. S.
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=492
@@ -5032,7 +5091,7 @@ A. E
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=494
@@ -5150,7 +5209,7 @@ UMRATHSHAUSEN
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=497
@@ -5291,7 +5350,7 @@ Wörndl, Rupert, Kirchengeschichtliches aus dem Priental. Die Pfarreien Aschau u
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=503
@@ -5640,7 +5699,7 @@ Feulner, Franziska, Frauenkirche in Wasserburg a. Inn. Die Kirche im Herzen der 
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=519
@@ -5692,16 +5751,16 @@ Bomhard, Bd 2, S. 354. John, Maud, Handwerkskunst in der ehemaligen Herrschaft H
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=520
-|Originalseitenbis=541
+|Originalseitenbis=534
 |Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf
 |Typ=Sakral
 |Ort=Weihenlinden
 |davor=Weidachwies, Kapelle Heilige Sieben Zufluchten
-|danach=Westerham, Filialkirche St. Johannes der Täufer
+|danach=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Chorraum
 |AutorIn1=kein Autorenvermerk (wahrscheinlich Bauer-Wild, Anna)
 }}
 
@@ -6043,6 +6102,21 @@ Unger, Adelheid, Joseph Götsch. Ein bayerischer Bildhauer des Rokoko aus Tirol,
 
 Klemenz, Birgitta, Marienwallfahrten im Erzbistum München und Freising, Regensburg 1989. Weihenlinden S. 146–54. Benker, Sigmund und Peter von Bomhard, Weihenlinden (= KKF Nr. 782), <sup>5</sup>1995.
 
+{{End}}
+
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=535
+|Originalseitenbis=539
+|Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Chorraum
+|Typ=Sakral
+|Ort=Weihenlinden
+|davor=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf
+|danach=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Räume über der Sakristei
+|AutorIn1=kein Autorenvermerk (wahrscheinlich Bauer-Wild, Anna)
+}}
 
 == Ehem. Chorraum ==
 
@@ -6172,6 +6246,21 @@ LCI Bd 1, Sp. 499–503, mit Abb. des Blockbuchs von Eyser hut (s. RDK).
 
 Kemp, S. 314.
 
+{{End}}
+
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=539
+|Originalseitenbis=541
+|Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Räume über der Sakristei
+|Typ=Sakral
+|Ort=Weihenlinden
+|davor=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Chorraum
+|danach=Westerham, Filialkirche St. Johannes der Täufer
+|AutorIn1=kein Autorenvermerk (wahrscheinlich Bauer-Wild, Anna)
+}}
 
 == Zwei Räume ==
 
@@ -6303,7 +6392,7 @@ Ein ähnliches Wunder wird vom hl. Aredius berichtet: Er wurde vom Regen ausgesp
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=542
@@ -6311,8 +6400,8 @@ Ein ähnliches Wunder wird vom hl. Aredius berichtet: Er wurde vom Regen ausgesp
 |Lemma=Westerham, Filialkirche St. Johannes der Täufer
 |Typ=Sakral
 |Ort=Westerham
-|davor=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf
-|danach=Wildenwart, Schloss
+|davor=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Räume über der Sakristei
+|danach=Wildenwart, Schloss, Kapelle
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -6492,8 +6581,21 @@ Mayr, Gottfried, Pfarrkirche St. Jakob Willing/Filialkirche St. Johannes Westerh
 
 Mayr, Gottfried, Die politische Geschichte ... von der ersten urkundlichen Erwähnung bis zum Ende des 18. Jh., in: Bad Aibling. Geschichte einer Stadt, Bd 1 (Hg. Gottfried Mayr im Auftrag der Stadt Bad Aibling), Bad Aibling 2006, S. 75–217. Westerham S. 87.
 
+{{End}}
 
-== WILDENWART ==
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=549
+|Originalseitenbis=553
+|Lemma=Wildenwart, Schloss, Kapelle
+|Typ=Profan
+|Ort=Wildenwart
+|davor=Westerham, Filialkirche St. Johannes der Täufer
+|danach=Wildenwart, Schloss, Festsaal
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 
 Schloß in Privatbesitz Gemeinde Frasdorf, Pfarrkuratie Wildenwart, Erzdiözese München und Freising. Ehem. Pfarrei Prien, Erzdiözese Salzburg, Archidiakonat und Bistum Chiemsee Herrschaftsgericht Wildenwart
@@ -6507,22 +6609,6 @@ Zur Geschichte: Schloß Wildenwart war bis ins 16. Jh. Verwaltungsmittelpunkt de
 
 == Ehem. Kapelle ==
 
-
-{{End}}
-
-{{Artikel
-|Band=12
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=549
-|Originalseitenbis=553
-|Lemma=Wildenwart, Schloss
-|Typ=Profan
-|Ort=Wildenwart
-|davor=Westerham, Filialkirche St. Johannes der Täufer
-|danach=Willing, Pfarrkirche St. Jakobus der Ältere
-|AutorIn1=Bauer-Wild, Anna
-}}
 
 Heute Privatraum
 
@@ -6592,7 +6678,21 @@ A MARIÄ HIMMELFAHRT Auf einer Wolke schwebt Maria nach oben, von zahlreichen Pu
 
 
 [[File:Band12-2_chunk006_p001_img005.jpg|thumb|Dekorationsmalerei in vier von acht Feldern der Hohlkehle]]
+{{End}}
 
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=553
+|Originalseitenbis=554
+|Lemma=Wildenwart, Schloss, Festsaal
+|Typ=Profan
+|Ort=Wildenwart
+|davor=Wildenwart, Schloss, Kapelle
+|danach=Willing, Pfarrkirche St. Jakobus der Ältere
+|AutorIn1=Bauer-Wild, Anna
+}}
 
 Im zweiten Geschoß des NO-Flügels gelegen
 
@@ -6680,7 +6780,7 @@ Wening, S. 55. Mayer-Westermayer, Bd 3, S. 210, 215 f. KDB I OB (2), S. 1693 f. 
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=554
@@ -6688,7 +6788,7 @@ Wening, S. 55. Mayer-Westermayer, Bd 3, S. 210, 215 f. KDB I OB (2), S. 1693 f. 
 |Lemma=Willing, Pfarrkirche St. Jakobus der Ältere
 |Typ=Sakral
 |Ort=Willing
-|davor=Wildenwart, Schloss
+|davor=Wildenwart, Schloss, Festsaal
 |danach=Windhag, Kapelle Mariä Vermählung
 |AutorIn1=Bauer-Wild, Anna
 }}
@@ -6863,7 +6963,7 @@ Mayr, Gottfried, Die politische Geschichte ... von der ersten urkundlichen Erwä
 {{End}}
 
 {{Artikel
-|Band=12
+|Band=122
 |Chunk=
 |Chunkseite=
 |Originalseitenvon=561
@@ -6872,7 +6972,7 @@ Mayr, Gottfried, Die politische Geschichte ... von der ersten urkundlichen Erwä
 |Typ=Sakral
 |Ort=Windhag
 |davor=Willing, Pfarrkirche St. Jakobus der Ältere
-|danach=
+|danach=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Sinkel, Kristin
 }}
@@ -6957,9 +7057,18 @@ A. B./K. S
 
 <!-- header: MALER -->
 
+{{End}}
 
-== IM 18. JH. IN STADT UND LANDKREIS ROSENHEIM TÄTIGE MALER ==
-
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=564
+|Originalseitenbis=569
+|Lemma=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler
+|davor=Windhag, Kapelle Mariä Vermählung
+|danach=Ortsregister (Band 12-II)
+}}
 
 
 == Malerwerkstätten in den Gerichten, Städten und Hofmarken des heutigen Landkreises Rosenheim ==
@@ -7231,6 +7340,18 @@ Quellen und Lit.: AEM, Matrikeln Au bei München; BSB Oefeleana 5/V; Barbara Str
 
 ZIMMERMANN, Johann Baptist, * 3.1. 1680 Gaispoint bei Wessobrunn als Sohn des Stuckators Elias Zimmermann († 1695) und der Justina Rohrmoser, † 2.3. 1758 in München. Zimmermann ist als Stuckator erstmals faßbar 1696 in Maria Thalkirchen bei München, sowie in den Jahren 1697–1701 bei der Stuckierung der Kollegiatstiftskirche in Isen (CBD Bd 7, S. 169) und 1700 in St. Wolfgang (ebd., S. 275 f.) als Mitarbeiter im Trupp seines Stiefvaters Christoph Scheffler. Die Dekoration von zwei Räumen in Schloß Maxlrain fand in der frühen Zeit seiner Heirat mit Elisabeth Ostermayr und der Geburt seiner fünf Kinder statt, als er zuerst in Maxlrain wohnte, dann in Miesbach ansässig war (1707–15). Nach seiner Übersiedlung nach Freising 1715 war er auf viele Jahre hinaus mit Aufträgen überhäuft. Trotz der intensiven Arbeit an der Stuckierung in Schloß Schleißheim, in der Residenz und in Nymphenburg arbeitete Zimmermann auch immer für Klöster: 1730 entstand die Dekoration der Augustiner-Chorherrnkirche Beyharting (S. 102). Ein weiteres Hauptwerk Zimmermanns im Landkreis Rosenheim ist die Innenausstattung der Pfarrkirche Prien mit dem großen Fresko der Schlacht von Lepanto. Im zeitlichen Umfeld waren er und seine Mitarbeiter auch in Herrenchiemsee und Schloß Hohenaschau beschäftigt. Einen Einblick in seine späteste Schaffenszeit vermitteln die Ausstattungen der Stadtpfarrkirche Bad Aibling (S. 71) und der Pfarrkirche Berbling (S. 90), wo noch einmal die Rolle der Zimmermann-Werkstatt deutlich wird.
 <!-- citation-page-bottom: Band12 p569 -->
+{{End}}
+
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=570
+|Originalseitenbis=573
+|Lemma=Ortsregister (Band 12-II)
+|davor=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler
+|danach=Personenregister (Band 12-II)
+}}
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=11 -->
 <!-- citation-page-top: Band12 p570 -->
@@ -7438,9 +7559,18 @@ Vagen, Hotmark 72, 91, 98, 32 Valencia 42, 44 Vannes 44 Venedig 284 Verona 42 Ve
 
 Weihenlinden 65, 520-43, 569 Wallfahrtskirche 520–34 Gnadenkapelle 71 Ehem. Chorraum 534–37 Zwei Räume über der Sakristei 359–41 Weihenlinden-Högling, Pfarrei 263, 520 Weihenstephan 436 Weilheim 470, 568 Weingarten bei Breitbrunn 200 Weinsberg 290 Weißenhorn 104 Werdenfelser Land 123 Wessobrunn 33, 106, 148, 150, 234, 346 Westerham 308, 542–48, 554, 565 Westerndorf bei Zinneberg/Glonn 17, 305, 395 Weyarn, Augustiner-Chorherrenstift 106, 263, 520t., 524, 534, 565 Klosterkirche 104, 108 Wiechs 162, 347 Wien 51, 56, 360, 497, 524, 567 f. Wies/Steingaden 99 Wildenwart 155, 246, 402, 408, 549-53 Herrschaft 39, 56, 170, 259 f., 270, 274, 369, 381, 400, 402, 411, 467, 470, 549, 551, 564, 568 Schloß 272, 564 Ehem. Schloßkapelle 274, 549 f. Festsaal 274 Pfarrkuratie 549 Willing 308, 554–60, 569 Wilparting 163, 308, 442, 456–58, 542, 569 Windhag 489, 561–63, 568 Windisch-Matrei 312, 565 Windschnur 139 Wolfratshausen 163, 270 Wolfsberg bei Breitbrunn 200 Würzburg 422, 535 Wyschehrad 364
 
+{{End}}
 
-== Personenregister ==
-
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=573
+|Originalseitenbis=579
+|Lemma=Personenregister (Band 12-II)
+|davor=Ortsregister (Band 12-II)
+|danach=Ikonographisches Register (Band 12-II)
+}}
 
 
 == Kursivschrift und Kursivzahlen verweisen auf in diesem Band behandelte Maler ==
@@ -7671,8 +7801,18 @@ Zick, Johann, Maler in München 236–41, 422–24, 569 Zick, Anna Maria geb. Sa
 
 Zuccalli, Henrico, Baumeister 270 Zuccalli, Giovanni Gaspare, Baumeister 191, 462 Zuccalli, Pietro Stuckator 462 Zwick, P. Patritius, Propst von Weyarn 522, 533
 
+{{End}}
 
-== Ikonographisches Register ==
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=579
+|Originalseitenbis=592
+|Lemma=Ikonographisches Register (Band 12-II)
+|davor=Personenregister (Band 12-II)
+|danach=Embleme-Register (Band 12-II)
+}}
 
 
 Ahnen Christi → Maria in der Glorie Ahren → Joseph 524 Albertus Magnus OP, hl. 42 Allegrezza/Heiterkeit → Tugenden Aloysius von Gonzaga SJ, hl. 365 f. als Vertreter der Theologie 239 Altar 134, 158, 198, 258 Altarsakrament → Sieben Zufluchten Altes Testament, durch das Neue über 134, 137 Alypius 194 Amadeus OMin, sel. 251 Amalar Fortunatus 449 Amatus oder Amator (Amadeus) 247 Amatus von Remiremont, hl. 251 Amatus von Sitten, hl. 251 Ambrosius Sansedoni von Siena OP, sel. Ambrosius von Cahors, hl. 248 f. Ambrosius von Mailand, Kirchenvater 155, 239, 391, 414, 459, 471, 550, 562 → Taufe des Augustinus 194 America/Amerika 34, 181, 220 f., 458, 506 Amor/Amorknabe auf einem Triumphwagen 291 mit Bogen und Pfeil 181 mit Pfeil → Mars und Venus 552 schießt Pfeil ab → Versuchung Benedikts 294 Triumph Amors 287, 291 Amphitrite 286 Andreas, Apostel, hl. 46, 130, 137, 170, 412 f., 495 f., 556 Berufung 414 Martyrium 414 Glorie AIS
@@ -8082,6 +8222,18 @@ mit brennender Fackel — Dominikus 406
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=22 -->
 <!-- citation-page-top: Band12 p592 -->
 
+{{End}}
+
+{{Artikel
+|Band=122
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=592
+|Originalseitenbis=593
+|Lemma=Embleme-Register (Band 12-II)
+|davor=Ikonographisches Register (Band 12-II)
+|danach=
+}}
 
 == Embleme-Register ==
 
