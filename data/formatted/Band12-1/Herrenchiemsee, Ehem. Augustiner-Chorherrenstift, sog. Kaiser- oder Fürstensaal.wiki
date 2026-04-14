@@ -1,0 +1,307 @@
+{{Artikel
+|Band=121
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=211
+|Originalseitenbis=225
+|Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, sog. Kaiser- oder Fürstensaal
+|Typ=Sakral
+|Ort=Herrenchiemsee
+|davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Marienkirche
+|danach=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Garten- oder Fürstenzimmer
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Sinkel, Kristin
+}}
+
+sog. Kaiser- oder Fürstensaal
+
+Ehemaliger Fest- oder Speisesaal im zweiten Obergeschoß des Südflügels. Der Saal befindet sich im Nutzungsbereich des Wittelsbacher Ausgleichsfonds. Er ist zur Zeit zwar nicht öffentlich zugänglich, aber es ist ins Auge gefaßt, den Saal nach der laufenden Bausanierung dem Publikum zu öffnen.
+
+'''Zum Bauwerk:''' Ab 1700 Bau des Südflügels der barocker Vierflügelanlage als »Kuchelstock« (später »Fürstenstock«). Er sollte den Konventstock im Osten, erbaut 1645/48 unter Propst Arsenius Ulrich, mit dem Bräuhausstock im Westen verbinden, der 1661/65 unter Propst Rupert Kögl erbaut worden war. Konsens des Bischofs von Chiemsee zum Bau am 16.4.1700, Konsens des Kurfürstlichen Geistlichen Rats in München am 4.6.1700. Baumeister war der Münchner Hofmaurermeister Antonio Riva. Palier war Hanns Mayr von der Hausstatt. Hauptbaujahr war 1701, ab 1704 gab es wegen des Spanischen Erbfolgekriegs eine mehrjährige Baueinstellung. Damals war der Trakt im Rohbau schon fertig. 1705 waren einige Räume schon benutzt, wie die Bibliothek und die Krankenzimmer mit der Kapelle. Ausbau des zweiten Oberstocks mit Repräsentations- und Wohnräumen für fürstliche Gäste des Klosters ab 1710/11; Dekoration der Raumflucht in den folgenden Jahren.
+
+Der längsrechteckige Kaiser- oder Fürstensaal nimmt die gesamte Breite des Traktes ein. Er wird an beiden Längsseiten von Nord und Süd durch je fünf große hochrechteckige Fenster belichtet; Zugang durch je zwei Türen an den Schmalseiten in Ost und West. Die Höhe des Raumes ist im Verhältnis zu seinen Längen- und Breitenmaßen gering. Zu den Repräsentationsräumen gehört auch das Gartenzimmer (S. 226–34)
+<!-- citation-page-bottom: Band12 p211 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk005.pdf#page=7 -->
+<!-- citation-page-top: Band12 p212 -->
+
+<!-- header: HERRENCHIEMSEE -->
+
+<!-- header: HERRENCHIEMSER -->
+
+
+[[File:Band12-1_chunk005_p007_img001.jpg|thumb]]
+
+
+'''Auftraggeber:''' Propst Jacob Mayr von Herrenchiemsee (1691–1717), dessen Wappen mit den drei Sternen im Schrägbalken vor Wasser (unten) und Himmel (oben) sich an der freskierten Westwand befindet, von Putten getragen, über dem Tor zu einer säulenbesetzten Gartenhalle. Die Sterne finden sich auch an den Türen aus der Erbauungszeit.
+
+Im Jahr 1700, als der Bau des »Kuchelstocks« begonnen wurde, kam es wegen einer Synode, die der Bischof von Chiemsee, Sigmund II. Carl Graf von Castel-Barco (1697–1708) auf Herrenchiemsee halten wollte, zu einem erbitterten Streit zwischen Propst und Bischof. Der Propst wehrte sich gegen die Synode mit der Argumentation, das Stift habe nicht genug Geld für einen längeren Aufenthalt des Bischofs und seines Gefolges auf der Insel, worauf der Bischof von Chiemsee antwortete, wenn die Finanzlage des Stifts so schlecht sei, ziehe er seinen – am 16.4.1700 schon gegebenen – Konsens zum Bau des neuen Traktes wieder zurück, und verbot, ohne neuerlichen Konsens den Bau fortzuführen. Im Gegenzug verbot der Geistliche Rat in München - der Herrenchiemsee als landständisches Kloster, den Bischof aber als auswärtigen Souveran betrachtete - die Einstellung des Baus. Da der Propst sich mit dieser Rückendeckung zum Weiterbau entschloß, folgten heftige Auseinandersetzungen zwischen Bischof, Propst und Geistlichem Rat um den Bau, die erst im September 1701 mühsam wieder beigelegt werden konnten (s. dazu Bomhard Bd 3, S. 82 f.). Man fuhr fort mit Bau und Ausbau, bis die kaiserlichen Truppen 1704 die Herreninsel besetzten. Die hohen Summen, die damals als Brandschatzung erpreßt wurden, erzwangen die Einstellung des Baus. Doch gelang es Propst Mayr, innerhalb von wenigen Jahren diese Schulden abzubezahlen und 1710/11 den Innenausbau des »Kuchelstocks« wieder aufzunehmen.
+
+'''Autor und Entstehungszeit:''' Benedikt Albrecht (* 1662 Berg am Starnberger See † 1730 München) 1713/15
+
+Die Autorschaft Benedikt Albrechts geht aus dem Herrenchiemseer Archivrepertorium des späten 18. Jh. hervor (BHStA), das offensichtlich nach – dem Archivar vorliegenden – Originalrechnungen verfaßt wurde: »Der Baumeister war Anton Riva, den hiesigen großen Saal hat Benedict Albrecht Burger, und Mahler von München, das Fürstenzimmer aber
+
+sein Gesell (Johann Eustach Kendlbacher) ausgemahlen circa annum 1715«.
+
+Benedikt Albrecht, Sohn des Zimmer-, Brunn- und Wassermeisters Caspar Albrecht in Schloß Berg, erlangte 1684 durch die Heirat mit Maria Mayr, der Tochter des bereits verstorbenen Bürgers und Malers Hans Mayr, dessen Malergerechtigkeit. Benedikt Albrecht war lange fast vergessen; das wenige, was man von ihm weiß, entspricht nicht seinem doch beträchtlichen Wirken als Dekorationsmaler und Freskant. Von Arbeiten in München ist wenig bekannt. Man weiß von Vergolderarbeit im Vierschimmelsaal der Residenz 1692 und Freskierungen im Palais Preysing 1705/06. Über Land jedoch, in Schlössern und Stiften, ist Albrecht mehrfach als Freskant überliefert, und zwar meist in enger Zusammenarbeit mit Johann Eustach Kendlbacher, wie auch hier in Herrenchiemsee.
+
+Kendlbachers und Albrechts erste gemeinsame Arbeiten waren Fresken im Augustiner-Chorherrenstift Reichersberg am Inn 1694–96. Bei den umfangreichen Arbeiten in Aurolzmünster 1695–1705/06 ist nur Kendlbacher nachgewiesen (Nadler 1987), doch dürfte der zweite dort tätige Maler, dessen Fresko im Mittelsaal Kendlbachers Treppenhausfresko stilistisch sehr nahesteht, aber etwas qualitätvoller ist, Benedikt Albrecht gewesen sein. 1712/13 freskierten die beiden Maler die Augustiner-Chorherren-Stiftskirche Gars am Inn (übermalt, nur Reste erhalten, s. CBD Bd 8, S. 100–02) und 1722 die Augustiner-Chorherren-Stiftskirche Au am Inn (CBD Bd 8, S. 33 f.). Die Freskierung des Kaisersaals von Herrenchiemsee lag also zwischen Gars und Au – mit Reichersberg sind es vier Augustiner-Chorherrenstifte, in denen die beiden Maler zusammen tätig waren.
+
+Das Verhältnis zwischen Kendlbacher und Albrecht ist noch nicht geklärt. Der Herrenchiemseer Vermerk, die Abrechnung der Arbeiten im Palais Preysing und die Quellen für Gars lassen vermuten, daß Albrecht der etwas Geschätztere und Bedeutendere des Gespanns gewesen sei. Kendlbacher und Albrecht malen so ähnlich, daß eine Händescheidung sehr schwer ist. Sie haben ganz offensichtlich ihre Prägung als Maler beim gleichen Meister erhalten. Dafür kommt nur der Münchner Hofmaler Johann Anton Gumpp in Frage, der seit 1678 alle Theaterdekorationen für den Münchner Hof malte und damit stark in Anspruch genommen war. Er beschäftigte viele Mitarbeiter, bis zu zwanzig, sodaß die Münchner Malermeister sich einmal beklagten, weil sie keine Gesellen mehr fanden. Die große stilistische Verwandtschaft einer ganzen Gruppe von Malern wie Melchior Steidl, Albrecht, Kendlbacher, Gregor Sulzbeck und Johann Jakob Würmseer, ihre Gewandtheit in der architektonisch-ornamentalen Malerei und ihre eindeutige Abhängigkeit von Gumpp ließe sich damit erklären, daß sie alle für längere Zeit gemeinsam an Theaterdekorationen gearbeitet und sich in dieser Arbeit große Routine und Schnelligkeit angeeignet haben sowie einen gemeinsamen Stil, der die Münchner Malerei von 1700 prägte und der von Gumpp vorgegeben war.
+
+Doch kann man – mit Vorsicht – sagen, daß Kendlbachers Malweise etwas ornamentaler war, sowohl in Details als auch in der Komposition, seine Figuren etwas lieblicher; Albrecht dagegen komponierte etwas strenger und verzichtete eher auf Details. In der Architekturmalerei war Albrecht offenbar dem Mitarbeiter überlegen, er konstruierte kühner und hatte ein größeres Repertoire an Architekturmotiven; doch ist auch hierin bei beiden Malern die Prägung durch Gumpp grundlegend.
+
+
+[[File:Band12-1_chunk005_p007_img002.jpg|thumb|Der Kaiser- oder Fürstensaal nach Südosten]]
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Spiegelgewölbe über tief herabgezogener Hohlkehle mit umlaufendem Stuckgesims  
+Rahmen: Gemalte Rahmen in Quadratura  
+
+Technik: Fresko; polychrom  
+
+Maße: Raummaße 18,70×12,50 m; Höhe 5,50 m  
+A Höhe 5,50 m; 8,70×3,50  
+1–4 1,60×2,8  
+<math>V_{1-2}</math> 3,00×3,0  
+
+Erhaltungszustand und Restaurierungen: Die Ausmalung ist ausnehmend gut erhalten, es gibt kaum Übermalungen und keine wirklich starken Verschmutzungen, da der Saal seit der Säkularisation kaum genutzt wurde. Es gibt nur Schäden mechanischer Art wegen des instabilen Gewölbes. Bei der letzten bekannten Restaurierung 1911 hat offensichtlich nur eine Reinigung und Sicherung stattgefunden; auch Risse, vor allem in der Kehlung, wurden damals repariert. 1988 fiel eine Verputzpartie von etwa 80 cm Durchmesser in der SO-Ecke des Freskos herunter; Abbröckelungen finden sich auch an der S-Seite. Hier hat sich die Putzschicht teilweise von der Decke gelöst und hängt bis zu 20 cm tief durch. Die Wandmalerei weist Haarrisse auf. Voruntersuchungen zu einer Restaurierung machte im Oktober 1989 die Fa. Helmut Knorr, Grafing. Seither ist an der Malerei nichts geschehen. 2006 begann eine Bausanierung im Bereich des Saals, um das Gewölbe zu stabilisieren. Anschließend an die Bauarbeiten ist eine Innenrestaurierung vorgesehen, wobei man plant, in Anbetracht des guten Erhaltungszustands die Arbeiten auf die Sicherung der Malschicht zu beschränken.
+
+
+== Beschreibung und Ikonographie ==
+
+
+Bis auf ein umlaufendes plastisches Kranzgebälk ist der Saal allein durch Freskomalerei gegliedert. Der umlaufende Sockel ist von einem bemalten Holzpaneel bekleidet. Die Wände, an den Längsseiten durch je fünf Fenster, an den Schmalseiten durch je zwei Portale durchbrochen, boten keine größere zusammenhängende Malfläche; sie sind durch eine marmorierte Pilasterordnung geschmückt, zwischen die Muschelnischen für überlebensgroße Statuen gemalt sind. An den Schmalseiten der Wände befinden sich zusätzlich je ein illusionistisch angelegter Ausblick in eine Gartenlandschaft.
+<!-- citation-page-bottom: Band12 p213 -->
+
+[[File:Band12-1_chunk005_p008_img001.jpg|thumb|Die Decke des Kaisersaals (Benedikt Albrecht 1713/15), A, 1-4 Mahl-Szenen (Bildmontage aus 15 Aufnahmen BS)]]
+<!-- citation-page-top: Band12 p214 -->
+<!-- citation-page-bottom: Band12 p215 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk005.pdf#page=9 -->
+<!-- citation-page-top: Band12 p216 -->
+
+<!-- header: HERRENCHIEMSEE -->
+
+<!-- header: HERRENCHIEMSEE -->
+
+
+[[File:Band12-1_chunk005_p001.jpg|thumb|A Gastmahl im Hause des Pharisäers]]
+
+
+Die ausgedehnte Flachdecke setzt mit einer tief herabgezogenen Hohlkehle über dem Stuckgesims an. Eine pompöse Scheinarchitektur, die wohl auf Raumachsen und Diagonalen ausgerichtet ist, aber in keinem Verhältnis zu der klassizistisch strengen Wandgliederung steht, umzieht die Decke in einem breiten Streifen, indem sie ein großes, gerahmtes Mittelfeld und vier kleinere Durchblicke für Figurenszenen freiläßt.
+
+Die Quadratura ist in zwei illusionistisch konstruierten Schichten stark untersichtig aufgebaut. Die Rückwand ist mit ionischen Pilastern auf einem hohen Sockel gegliedert, die am Ansatz eines kassettierten Gebälks enden. In den Achsen des Saales sind je ein rundbogiges ›Fenster‹ bis auf das reale Stuckgesims herab aus der Wand ausgeschnitten, von gebogenen Gebälkstücken oder Gurtformen gerahmt, die mit Putten bekrönt sind. An den reicher ausgestatteten Langseiten begleiten diese Fensteröffnungen noch je zwei rundbogige Muschelnischen mit eingestellten Bronzefiguren. Vor diese geschmückte Voute sind »freiplastisch« auf auskragenden Sockeln, die auf dem realen Stuckgesims fußen, zwölf Paare von kompositen marmorierten Säulen gestellt. Die Sockel sind mit Vorlagen besetzt, die mit Putten und Fruchtgehängen geschmückt sind, in den Saalecken und an den Schmalseiten ist ein reich verkröpftes System von Konsolen, Kartuschen und Atlanten eingeführt, das übereck zwei Sockel für Säulenpaare bietet, dazwischen einen Aufbau mit ovaler Muschelnische für eine Kaiserbüste bildet, bekrönt von gebogenen Gebälkstücken mit Putten. Die Deckplatten der zwölf Säulenpaare setzen auf gleicher Höhe der ionischen Pilaster unter dem kassettierten Gebälk an und verkröpfen dieses noch einmal, ehe eine querrechteckige große Mittelöffnung für ein profilgerahmtes Bild freigegeben wird.
+
+A GASTMAHL IM HAUSE DES PHARISÄERS (Lc 7,36-50) Querformat mit Betrachterstandpunkt gegen S unterhalb des nördlichen Bilddrittels. Schauplatz ist eine Ebene über Stufen, die von einer halbkreisförmigen offenen Kolonnade mit Doppelsäulen hinterfangen wird, durch die überall der Himmel, an den Seiten auch Versatzstücke von Gebäuden zu sehen sind. An den Außenkanten des Bildes wird das Sockelgeschoß sichtbar, die halben Säulenschäfte und das Gebälk dagegen werden von gebauschten Draperien verdeckt, die Putten wie einen Theatervorhang beiseiteziehen. Auf der untersichtig gegebenen Plattform sind auf je einer Stufe zwei Speisetafeln in Winkelform so angeordnet, daß im Zentrum eine Lücke bleibt, in der die Hauptszene der Fußwaschung stattfindet.
+
+An den Tischen sind die Jünger und weitere Gäste beim Mahl dargestellt, der Gastgeber, der Pharisäer Simon, auf einem Stuhl in halber Rückenansicht; eine junge Frau bietet Speisen an, die ein Knabe heranträgt. Ein Mann hat sich von seinem Stuhl erhoben und weist auf die Fußwaschung. Über der gemalten Rahmung führen an der Bildbasis zwei Stufen in die Szene ein, auf denen an den Seiten Knaben sitzen, links ein zerlumpter Bettelknabe, rechts ein höfisch Gekleideter, der einem Hund von einem Teller zu essen gibt. Im halbmondförmigen Himmelsausschnitt schweben zwei Putten mit einem Inschriftband, das die Worte IPSI OBSERVABANT EV [M]. Luc: 14, C:V. I. trägt. Diese Textstelle stammt nicht aus dem Evangelientext der hier dargestellten Szene mit der Büßerin im Hause des Simon, sondern bezieht sich auf die in Feld 3 gemalte Heilung des Wassersüchtigen, ebenfalls bei einem Mahl eines Pharisäers (s. dort).
+
+Die Fußwaschung Jesu mit den Tränen der büßenden Magdalena und die Salbung ist im Fresko durch eine weitere Szene – die der Salbung von Bethanien (Io 12, 1-8) – erweitert: Während eines Gastmahls bei den Geschwistern Maria, Martha und Lazarus, bei dem Martha bediente, nahm Maria ein kostbares Nardenöl, salbte die Füße Jesu damit und trocknete sie mit ihren Haaren. Der anwesende Judas Iskariot wandte ein, man hätte das teure Öl besser für dreihundert Denare verkaufen und sie den Armen gegeben. Diese Details fanden Eingang in die Szene des Deckenfreskos, rechts steht Judas, am Gürte den Geldbeutel, links bedient eine junge Frau die Gäste. Am rechten Ende der Tafel beschließen die Pharisäer den Tod Jesu (und des Lazarus).
+
+Die Komposition ist sehr locker aufgebaut: Die vielfigurige Gesellschaft nimmt nur einen schmalen Streifen im Bild ein und ist durch die Untersicht darüberhinaus stark verkürzt und zusammengedrängt. Die hinterfangende Kolonnade scheint dagegen mit den blassen Säulenschäften, die wegen der zentralen Hauptszene zusätzlich auseinandergeschoben werden, fast schwerelos und ohne Basis über der Mahlszene zu schweben. Die großen Himmelspartien sind von zartem Blau und feinem rosigen Gewölk.
+
+Die Vielfalt der Farben ist auf die Figurenszene konzentriert; dort treten sie mit sehr viel Weißtönungen gemischt ohne kräftige Buntwerte auf. Reines Weiß steht immer wieder zwischen zartem Karmin, Lila und Gelbgrün und verleiht der Darstellung große Helligkeit. Preziös sind Goldgelb und Rosa zu hellsten Tönen in der Gestalt der Büßerin geführt. An den Außenseiten des Bildes verdichten sich die Farbwerte etwas und schließen dadurch die Komposition zusammen.
+
+1–4 MAHL-SZENEN AUS DEM NEUEN TESTAMENT In den Achsen des Saales befinden sich vier Rundbogenfelder mit Mahl-Szenen, die in die Voute der Quadratura gesetzt und jeweils gegen die entsprechende Himmelsrichtung zu betrachten sind. Die Bildfelder sind als Durchbrüche in der Quadraturmalerei zu sehen und werden von dieser gerahmt. Außer bei Feld 4 (Landschaft), bilden leicht untersichtig angelegte, architektonisch gestaltete Innenräume den Schauplatz, die ihrerseits Ausblicke in Himmelszonen zeigen.
+
+I EMMAUS (Lc 24,28–31) Ansicht nach O. Eine schmale Rampe bildet den Boden des Innenraums, der mit Säulen und Arkaden angedeutet ist, die vom Bildausschnitt oben und an den Seiten überschnitten werden. Die zum Quadratur-Bogen über Eck gestellten Arkaden nehmen dessen Rosetten-Dekor auf, sind aber durch eigene Konstruktion und einen zarten Lilaton grundsätzlich von der Quadratura abgetrennt. Ein Tisch ist bildparallel ins Zentrum gestellt, vor dem Christus auf einem Schemel sitzt und in beiden ausgestreckten Händen das Brot hält, das er zum Mahl gebrochen hat. Rechts neben dem Tisch auf einer Art Kline mit Kissen lagert ein Jünger, ein weiterer steht hinter ihm, ein Diener trägt Teller mit Speisen heran. Die Jünger sind im Augenblick des Erkennens dargestellt, ehe der Wiedererstandene vor ihnen entschwindet, worauf die helle Himmelspartie mit Paaren von Puttenköpfchen über dem Haupt Christi anspielt. Auf den Gesimsen sind Tiere zu sehen, links ein Eichhörnchen mit Rose, rechts ein Papagei mit einer Nuß im Schnabel.
+
+2 HOCHZEIT ZU KANA (Io 2,1-11) Ansicht nach S. Ein Tisch nimmt die gesamte Breite eines Innenraums ein, der im Hintergrund durch zwei Arkaden abgeschlossen wird, durch die man vor dem hellen Himmel einen Kuppelbau sieht. Die handelnden Figuren sind eng gedrängt, bedingt durch die inhaltlichen Vorgaben. Eine große Stoffdraperie ist rechts hochgezogen und bildet eine Art Baldachin für Jesus, der von der Hochzeitstafel sitzt und einem Diener Anweisung gibt, Wasser in die leeren Weinkrüge zu gießen. Dieser ist in einer repoussoirartigen Ebene auf einer Stufe am vordersten Bildrand tätig und gießt in dort aufgereihte Krüge. Rechts naht ein weiterer Diener mit einer gebratenen Ente auf einem Teller, begleitet von einem animierten Hund. Vor der Tafel ist in Rückenansicht der Hausherr gegeben, der sich an einen Gast wendet, im Zentrum sitzt das Brautpaar, rechts im Hintergrund weitere Gäste, einer erhebt sein leeres Glas, das ihm ein Diener abnimmt.
+
+3 HEILUNG DES WASSERSÜCHTIGEN (Lc 14,1-6) Ansicht nach W. Der Bildraum ist ähnlich angelegt wie in I, nur schneidet hier die Quadratura die Komposition erst über einer großen Mittelarkade ab und gibt dem Bild mehr Geschlossenheit. Auf einer kleinen Stufenanlage ist im Zentrum ein runder Tisch gedeckt, an dem der Pharisäer mit Jesus Platz genommen hat; zwei weitere Gäste sind in Halbfigur hinter den Tisch gesetzt. Von links tritt ein Diener mit Speisen heran, rechts auf den Stufen lagert ein Kranker, der von einer jungen Frau gestützt wird. Rechts auf dem Gebälk sitzt ein bunter Vogel.
+
+Inhalt der Darstellung ist die Heilung des Wassersüchtigen (nicht die Szene des armen Lazarus, wie wiederholt behauptet), die beim Gastmahl eines Pharisäers am Sabbat stattfand.
+<!-- citation-page-bottom: Band12 p217 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk005.pdf#page=10 -->
+<!-- citation-page-top: Band12 p218 -->
+
+HERRENCHIEMSEE
+
+
+[[File:Band12-1_chunk005_p010_img001.jpg|thumb|3 Heilung des Wassersüchtigen]]
+
+
+
+[[File:Band12-1_chunk005_p010_img002.jpg|thumb|2 Hochzeit zu Kana]]
+
+
+
+[[File:Band12-1_chunk005_p010_img003.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p010_img004.jpg|thumb|4 Wunderbare Brotvermehrung]]
+
+
+217
+<!-- citation-page-bottom: Band12 p219 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk005.pdf#page=11 -->
+<!-- citation-page-top: Band12 p220 -->
+
+<!-- header: HERRENCHIEMSEE -->
+
+
+== HERRENCHIEMSEE ==
+
+
+
+[[File:Band12-1_chunk005_p011_img001.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p011_img002.jpg|thumb|Illusionistische Scheinarchitektur in den Saalecken mit Kaiserbüsten]]
+
+
+4 WUNDERBARE BROTVERMEHRUNG (Mt 14,15-21) Ansicht nach N. Über der Bildkante steigt unmittelbar ein Hügel auf. Die rechte Bildhälfte ist gefüllt mit großen Figuren, die von Felsgestein und einem Laubbaum umrahmt werden. Im Zentrum sitzt Jesus, zu dem die ratlosen Jünger herantreten. Vorne kniend überreicht ein kleiner Knabe (fünf) Brote und zwei Fische, die man gesammelt hatte und mit denen die Jesus gefolgten Scharen gespeist werden sollen. Links führt als eine Art Repoussoir die Gruppe mit einem Mann in Rückenansicht zu der entfernt und tief gelegenen blaß angedeuteten Szene der lagernden Fünftausend. Links von der Szene blickt man in die Ferne, in eine hügelige Landschaft mit Palme.
+
+
+[[File:Band12-1_chunk005_p011_img003.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p011_img004.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p011_img005.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p011_img006.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p011_img007.jpg|thumb]]
+
+
+W<sub>I-II</sub> GARTENARCHITEKTUREN An den Mitten der Schmalseiten des Saales öffnet sich zwischen der gemalten Pilasterordnung je ein Landschaftsausblick. Die rahmende Architektur besteht aus flachen Engelshermen, die über Konsolen gerollte Gebälkstücke tragen, die im Scheitel mit je einem Wappenschild besetzt sind (im O dem von Herrenchiemsee, im W dem von Propst Jacob Mayr). Putten tragen einerseits die Wappenschilder dieser Architektur, die der Saaldekoration zugerechnet werden muß, andrerseits raffen sie Stoffdraperien beiseite, die bereits in den illusionierten Freiraum schwingen und am Boden von Putten-Tischchen aufgenommen werden. Dahinter setzt eine zentralperspektivische Anlage im nahezu quadratischen Bildfeld an. Zwei hintereinandergestellte Arkaden, die von Doppelsäulen getragen werden, fußen auf einem Bodenstreifen aus roten und weißen Fliesen, der fast unmittelbar über dem realen Parkett des Saales ansetzt (das Holzpaneel der Sockelzone wird hier unterbrochen). Der Fluchtpunkt ist verhältnismäßig tief gelegt und illusioniert den Blick tief in Gartenanlagen, die im französischen Stil achsensymmetrisch angelegt und bepflanzt sind.
+
+W<sub>I</sub> Geometrisch gestaltete Blumenbeete zwischen recht eckig geschnittenen Bosketts, in der Mittelachse ein Springbrunnen. Wappen von Herrenchiemsee.
+
+W<sub>II</sub> Minerva-Statue auf einem Sockel in einem umzäunten Rondell, doppelte Baumreihen hinter Zäunen verlaufen parallel in einer Achse, die in der Ferne von einer Bergkulisse abgeschlossen wird. Wappen des Propstes Jacob Mayr.
+
+W<sub>1-11</sub> RÖMISCHE KAISER In gemalten Wandnischen zwischen den Türen und Fenstern sind imitierte Bronzebüsten römischer Imperatoren mit ihren Namen und Ordnungszahlen als Inschriften an den Fußleisten zu sehen, der Kaiserreihe bei Sueton folgend, von Caesar bis Domitian (De vita Caesarum, vgl. Pauly-Wissowa, Bd 5, Sp. 411 ff.).
+
+
+[[File:Band12-1_chunk005_p011_img008.jpg|thumb|d America]]
+
+
+
+[[File:Band12-1_chunk005_p011_img009.jpg|thumb]]
+
+
+<!-- citation-page-bottom: Band12 p221 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk005.pdf#page=12 -->
+<!-- citation-page-top: Band12 p222 -->
+
+<!-- header: HEDDENICHIEMSEE -->
+
+<!-- header: HERRENCHIEMSEE -->
+
+
+[[File:Band12-1_chunk005_p012_img001.jpg|thumb|W<sub>11</sub> Gartenlandschaft mit Brunnen, Wandgemälde auf der Westwand mit Wappen des Stifts Herrenchiemsee, W<sub>11</sub> Domitian, W<sub>11</sub> Titus Vespasianu]]
+
+
+W<sub>1-2</sub> (O-Seite) IVLIVS CAESAR.1. AVGVSTVS.2. W<sub>3, 5, 7, 9</sub> (N-Seite) TIBERIVS. 3. CLAVDIVS. 5. SERGIVS GALBA.7. VITELLIVS. 9.
+
+W<sub>4, 6, 8, 10</sub> (S-Seite) CALIGVLA.4. NERO.6. OTHO.8. und VESPASIANVS. 10.
+
+W<sub>11,12</sub> (W-Seite) TITVS VESPASIANVS. 11. und DOMITI- ANVS. 12.
+
+
+== Zur Ikonologie ==
+
+
+Beim Programm des Kaisersaals von Herrenchiemsee handelt es sich nicht um ein eigentliches Festsaalprogramm. Zur traditionellen Festsaal-Thematik gehört die Reihe der zwölf römischen Kaiser nach Sueton, die ein häufiges Motiv in Sälen von Klöstern oder Schlössern ist, wo sich ein Fürst oder eine klösterliche Gemeinschaft in der Zuordnung zum Heiligen Römischen Reich interpretiert. Übliche Festsaal-Themen sind auch die Erdteil-Darstellungen. Nicht üblich sind aber die Themen der Decke. Auf den ersten Blick als Mahl-Themen erscheinend, gehören sie mehr der Ikonologie von Refektorien an. Kaisersäle sind aber ihrem Charakter nach weniger Speisesäle als Repräsentationsräume. Hauptthema der Festsäle in Klöstern ist die Stellung des Klosters in Zeit und Welt.
+
+In Herrenchiemsee sind fünf Gastmahl-Szenen gezeigt, deren gemeinsamer Sinn das Thema der Eucharistie ist. Die Hochzeit von Kana (2) ist als Präfiguration der Eucharistie geläufig. In der Emmaus-Darstellung (1) ist die Wiederholung der vor dem Leiden Christi eingesetzten Eucharistie nach der Auferstehung gezeigt. Hier wie bei der Szene der Wunderbaren Brotvermehrung (4) ist im Evangelientext die Parallele zu den Wandlungsworten unübersehbar: »Accepit panem, et benedixit, ac fregit, et porrigebat illis« (Emmaus; Lc 24,30); »Aspiciens in caelum benedixit, et fregit, et dedit discipulis« (Wunderbare Brotvermehrung; Mt 14,19). Bei der Hochzeit von Kana sagt Maria zu den Jüngern: »Quodcumque dixeris vobis, facite« (Io 2,5). Daran schließt sich die Inschrift im Hauptbild an: »Ipsi observabant eum«, was hier wohl bedeutet »Sie gehorchten ihm« und sich auf das Befolgen des Beispiels Christi bezieht, auf die Vergebung der Sünden (A), die Voraussetzung des Empfangs der Eucharistie ist und auf die Eucharistie selbst, bei deren Einsetzung Christus sagte: »Hoc facite in meam commemorationem«, »Tut dies zu meinem Gedächtnis« (Lc 22,19).
+
+Der eigentliche Sinn des Deckenprogramms ist wohl die Nachfolge Christi im Priesteramt, in der Seelsorge, die in Her-
+
+
+[[File:Band12-1_chunk005_p012_img002.jpg|thumb]]
+
+
+renchiemsee eine größere Rolle als in anderen Stiften spielte. Dem Kloster waren große Pfarreien inkorporiert. Mehr als die Hälfte der Konventualen war dauernd zur Seelsorge in zum Teil weit entfernten Pfarreien exponiert. Das eigentliche gemeinsame Klosterleben trat dieser Hauptaufgabe gegenüber zurück, zu der auch die Würde und Last des Archidiakonats gehörte. So mag das Deckenprogramm im Saal auch Rechtfertigung bedeuten: »Ipsi observabant eum«: Sie beobachteten Christus genau, und folgten seinem Beispiel.
+
+Quellen und Literatur s. auch S. 234
+
+BHStA, KL Herrenchiemsee 106/III, Lit. B II, Archivreper- torium.
+
+AEM, Nachlaß Peter von Bomhard Nr. 121, Auszüge aus dem Konsistorialarchiv Salzburg, Akten Kloster Herrenchiemsee I d 42: Bau des Kuchelstücks 1700/01.
+
+KDB I OB (2), S. 1794. Bomhard, Peter von, Der Chiemgau (GKF Nr. 18), 1955, S. 69.
+
+Bomhard, Bd 3, S. 83 f., 102-05.
+
+Herbst, Arnulf, Zur Ikonologie des barocken Kaisersaales, in Bericht des Historischen Vereins für die Pflege der Geschichte des ehemaligen Fürstbistums Bamberg 106, 1970, S. 252.
+
+Meinecke-Berg, Viktoria, Die Fresken Melchior Steidls, München 1971, S. 100, Anm. 63.
+
+Wagner, Helga, und Ursula Pfistermeister, Barocke Festsäle, München 1974, S. 80–83.
+
+Nadler, Stefan, Aurolzmünster, Schloß der Grafen von der Wahl. Barocker Baugedanke von Reichsruhm und Landleben, ungedr. Diss. Salzburg 1987 (Ms. in der Universitätsbibliothek Salzburg).
+
+Seidl, Bärbel, Studien zu Johann Eustachius Kendlbacher und Benedikt Albrecht (= Schriften aus dem Institut für Kunstgeschichte der Universität München Bd 48), München 1990. Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit (= Quellen und Darstellungen zur Geschichte der Stadt und des Landkreises Rosenheim Bd XI), Rosenheim 1990. Zum Streit Mayr/Castel-Barco S. 30–34. A. B./K. S.
+<!-- citation-page-bottom: Band12 p223 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk005.pdf#page=13 -->
+<!-- citation-page-top: Band12 p224 -->
+
+HERRENCHIEMSEE
+
+
+== HERRENCHIEMSEE ==
+
+
+
+[[File:Band12-1_chunk005_p013_img001.jpg|thumb|W<sub>10</sub> Vespasian]]
+
+
+
+[[File:Band12-1_chunk005_p013_img002.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p013_img003.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p013_img004.jpg|thumb|V. Vitellius]]
+
+
+
+[[File:Band12-1_chunk005_p013_img005.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p013_img006.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p013_img007.jpg|thumb]]
+
+
+
+[[File:Band12-1_chunk005_p013_img008.jpg|thumb]]
+
+
+W<sub>1</sub> Caligula  
+W<sub>3</sub> Otho  
+W<sub>1</sub> Sergius Galba
+
+
+<!-- citation-page-bottom: Band12 p225 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk005.pdf#page=14 -->
+<!-- citation-page-top: Band12 p226 -->
+
+<!-- header: HERRENCHIEMSEE -->
+{{End}}

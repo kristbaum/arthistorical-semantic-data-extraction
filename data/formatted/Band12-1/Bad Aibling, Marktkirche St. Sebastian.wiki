@@ -1,0 +1,123 @@
+{{Artikel
+|Band=121
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=81
+|Originalseitenbis=85
+|Lemma=Bad Aibling, Marktkirche St. Sebastian
+|Typ=Sakral
+|Ort=Bad Aibling
+|davor=Bad Aibling, Pfarrkirche Mariä Himmelfahrt
+|danach=Baierbach, Filialkirche St. Magdalena
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+Filialkirche der Pfarrei Bad Aibling. Das Kirchenvermögen der Marktkirche wurde vom Pfarrer und dem Magistrat von Aibling verwaltet. An der Kirche bestand eine 1640 konfirmierte Sebastiansbruderschaft. Für die Seelsorge in der Marktkirche war der Inhaber des Dollschen Benefiziums zuständig, auf das nach Aussterben der Familie Doll der Magistrat von Aibling das Präsentationsrecht hatte. Die Kirche besaß ein örtlich verehrtes Marienbild.
+
+
+'''Patrozinium:''' St. Sebastian
+
+
+'''Zum Bauwerk:''' Seit der Pest 1564 bestand in Aibling eine Kapelle St. Sebastian, die nach der Pest im Dreißigjährigen Krieg durch eine Kirche ersetzt wurde, die 1637–41 zum größten Teil mit Geldern aus dem Legat des Aiblinger Bürgers Veit Katz und aus Spenden der Bürgerschaft erbaut wurde. Benedizierung 1639, feierliche Weihe 1640; im gleichen Jahr Einführung der Sebastiansbruderschaft. Beim Aiblinger Stadtbrand 1765 wurde auch die Sebastianskirche bis auf die Grundmauern zerstört. Wiederaufbau 1766–68, der Baumeister ist unbekannt. Altäre vom Aiblinger Bildhauer Joseph Götsch. Feierliche
+
+
+[[File:Band12-1_chunk002_p016_img001.jpg|thumb]]
+<!-- citation-page-bottom: Band12 p81 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=17 -->
+<!-- citation-page-top: Band12 p82 -->
+
+<!-- header: BAD AIBLING -->
+
+Weihe erst am 6.10.1789 durch den Freisinger Weihbischof Johann Nepomuk von Wolf.
+
+Längsrechteckiger Saal mit gerundeten Ecken; gleichmäßige Belichtung durch je drei Fenster im N und S, die durch große Schildbögen übergriffen sind. Doppelempore im W. Eingezogener AR zu zwei Jochen mit segmentförmigem Schluß; Gliederung durch seichte Wandpfeiler; gleichmäßige Belichtung durch je zwei Fenster im N und S.
+
+'''Auftraggeber:''' Aus dem erhaltenen Teil des Briefwechsels (AEM) um Finanzierung und Modalitäten des Wiederaufbaus geht hervor, daß die Aiblinger Sebastiansbruderschaft nicht nur an der Ausstattung beteiligt (Bruderschaftsbild B), sondern auch beim Neubau der eigentliche Auftraggeber war. Pfarrer von Aibling war zur Ausmalungszeit Franz Joseph Isinger (1766–94).
+
+'''Autor und Entstehungszeit:''' Johann Georg Gaill (* 1721 Friedberg † 1793 Aibling) 1769; Signatur in B am linken unteren Rand J. G. Gaill 1769. Chronogramm am Chorbogen Was VbeL Ist an Seel VnD Leib DVrCh DeIne HL. Krafft vertreib (= 1768).
+
+Johann Georg Gaill, geboren am 23.4.1721 in Friedberg als Sohn des Friedberger Bürgers und Malers Johann Baptist Gaill, war seit 1746 Bürger und Maler in Aibling als Werkstattnachfolger des Aiblinger Malers Joseph Trinkl († 1745), dessen Witwe Maria Apollonia er in Aibling am 16.8.1746 heiratete. Gaill ist vor allem bekannt durch seine vielen Freskierungen im Bereich des alten Gerichts Aibling, wobei es bezeichnend ist, daß er zur Freskierung der Aiblinger Pfarrkirche 1756 (Zimmermann/Heigl) nicht herangezogen wurde, er sich aber an dieser Freskierung in der Folge sichtlich orientierte. Leider sind in den Fresken der Sebastianskirche wegen ihrer schlechten Erhaltung die Stärken Gaills, seine frische Farbigkeit und unbefangene Naivität in der Erzählung kaum mehr spürbar. Johann Georg Gaill starb in Aibling am 8.9. 1793, nachdem er schon 1785 seine Werkstatt an seinen Schwiegersohn Johann Baptist Böham übergeben hatte.
+
+Sein ältester Sohn aus zweiter Ehe, Franz de Paula Gaill (* 1754), wurde ebenfalls Maler und später Galerieinspektor in München. Von ihm stammen die beiden Seitenaltarbilder in der Marktkirche, von denen das linke, eine Darstellung der Immaculata, Franz Gaill 1793 bezeichnet ist.
+
+[[File:Band12-1_chunk002_p017_img001.jpg|thumb|Der Kirchenraum mit den Zwickelfresken 2 Lazarus, 3 Stephanus]]
+
+== Befund ==
+
+Träger der Deckenmalerei: LHs (A, 1–4) und AR (B, a–b) böhmische Gewölbe mit Stichkappen
+
+Rahmen: A und B gekurvtes Stuckprofil; 1–4 Stuckrahmung mit begleitender Rocaille-Dekorationsmalerei; a–b gemalte Rocaillekartuschen
+
+Technik: Fresko; A und B polychrom; 1–4 und a–b monochrom graugrün
+
+Maße: A Höhe 10,70 m; 5,00 × 4,20  
+B Höhe 9,50 m; 4,30 × 4,80
+
+Erhaltungszustand und Restaurierungen: Schon 1788 war das Gewölbe schadhaft und mußte verkeilt werden. Nach Baureparationen fand 1926/27 eine Innenrestaurierung statt: Vor dieser Restaurierung war das Deckenbild B im AR laut Gutachten des BLfD von 1923 durch Übermalungen des 19. Jh. entstellt, die Kartuschen a–b waren zugetüncht, die Langhausfresken (A, 1–4) waren völlig übertüncht. Es war zunächst eine Neuausmalung geplant, für die Georg Hilz Skizzen vorlegte. Dann wurden aber die barocken Deckenbilder aufgefunden und von Kunstmaler Hans Kohle aus Starnberg restauriert. A wurde freigelegt, bei den Kartuschenfeldern 1–4 gab es Schwierigkeiten: »Eines der Gemälde konnte von mir noch herausgeholt werden bis auf eine beizufügende Monstranz (4). Die Gemälde sind in graugrünem Ton gehalten und konnte der landschaftliche Teil noch ziemlich leicht herauslasiert werden. Das Figürliche konnte leider nicht mehr erkannt werden ... außer dem Figürlichen dieser drei Skizzen ist alles wieder am ganzen Gewölbe wie ehemals« (Bericht von Kohle 1926, BLfD). Drei Szenen von den Kartuschenbildern sind demnach nicht mehr original. Bild 4 wurde ergänzt, die übrigen neu gemalt. Auch a–b dürften 1926 weitgehend neu gemalt worden sein. Kohle machte dafür Skizzen, die vom BLfD genehmigt wurden. Die Übermalungen des 19. Jh. im Chorfresko B wurden so gut wie möglich abgenommen. Neue weiße Raumfassung statt eines Olanstrichs des 19. Jh. sowie Restaurierung der Altäre durch Georg Hilz, Aibling.
+
+Letzte Restaurierung 1975, bei der die Fresken nur sorgfältig gereinigt wurden. A ist stark verblaßt; große Risse in B, das in der Farbsubstanz etwas besser erhalten ist. Verschmutzungen
+
+== Beschreibung und Ikonographie ==
+
+A BEGEGNUNG DES HL. SEBASTIAN MIT DEM KAISER UND TOD DES HEILIGEN In einer dürftigen Graslandschaft erhebt sich links ein Palast über die ganze Höhe des Bildes, in ungeschickter Untersicht und Perspektive dargestellt, sodaß er zu wanken scheint. Unter dem säulengeschmückten Portal erscheint der Kaiser – seine sehr einfache Soldatenkleidung (sie unterscheidet sich kaum von der des Heiligen) mag auf Zerstörungen durch Übermalung und Freilegung zurückgehen. Sebastian tritt auf ihn zu, der Kaiser weicht erschreckt zurück; zwei Soldaten mit Waffen flankieren die Szene.
+
+Sebastian, nach der schweren Verwundung durch das Pfeilmartyrium wieder genesen, trat dem Kaiser auf der Treppe seines Palastes entgegen.
+
+[[File:Band12-1_chunk002_p017_img002.jpg|thumb]]
+<!-- citation-page-bottom: Band12 p83 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=18 -->
+<!-- citation-page-top: Band12 p84 -->
+
+<!-- header: BAD AIBLING -->
+
+
+[[File:Band12-1_chunk002_p018_img001.jpg|thumb|B Verehrung der Gottesmutter durch die Aiblinger Sebastiansbruderschaft, a-b emblemähnliche Darstellungen]]
+
+
+nes Palastes entgegen und machte ihm wegen der Christenverfolgungen die heftigsten Vorwürfe (LA-Benz, Bd 1, S. 131; dort zwei Kaiser, Diocletian und Maximian). Daraufhin ließ ihn der Kaiser erschlagen. Sebastians Tod ist im Hintergrund dargestellt: Zwei Henkersknechte schlagen auf den liegenden Heiligen ein, Soldaten beobachten das Geschehen. Darüber erscheint auf Wolken Christus, von Engeln und Putten begleitet, über ihm die Taube des Hl. Geistes. Ein Engel hält für Sebastian die Siegespalme als Lohn für den Martertod bereit. Mit der Komposition dieser Szenenfolge war Gaill offenbar überfordert. Davon abgesehen ist das Bild durch Übertünchung und Freilegung kaum mehr als eine Ruine. Die Physiognomien sind verfälscht und die Farben, sonst bei Gaill frisch und lebendig, sind blaß und reizlos.
+
+1-4 KARTUSCHENBILDER (bis auf 4 völlig neu) Das Hauptbild wird in den Ecken von vier Medaillons begleitet, über denen Inschriftbänder gemalt sind; die Inschriften sind möglicherweise noch original.
+
+B VEREHRUNG DER GOTTESMUTTER DURCH DIE AIBLINGER SEBASTIANSBRUDERSCHAFT Auf einem Grashügel, der rampenartig ins Bild geschoben ist, knien Mitglieder der Bruderschaft. Vor ihnen ist ein großer Engel dargestellt, der eine Schale mit brennenden Herzen als Zeichen ihrer Devotion dem hl. Sebastian präsentiert, der rechts im Bild auf einer Wolke kniet. Der Heilige, von Engeln begleitet, Pfeile und Palmzweig in Händen, vermittelt zwischen der Bruderschaftsangehörigen und der Gottesmutter, die in Form eines Gnadenbildes oben in der Bildmitte erscheint. Engel in Wolken umgeben sie. Ihr Haupt ist von einem Sternenkranz umstrahlt. Rechts unten im Bild, vom Rahmen überschnitten, wird der Turm der Pfarrkirche von Aibling sichtbar. Der Erhaltungszustand von B ist besser als der von A; die Farben sind hier wärmer und lebhafter.
+
+Bei den im Bild dargestellten Bruderschaftsmitgliedern (es sind ganz offenbar Porträts, wenn auch Gaill kaum über physiognomische Varianten verfügt) kann man annehmen, daß zunächst der Pfarrer von Aibling, Franz Joseph Isinger, dargestellt ist, dann der Dollsche Benefiziat und Frühmesser der Marktkirche, Jakob Stephan Zollner. Ferner darf man wohl rechts vom Pfarrer in dem vornehmer gekleideten Herrn den Pfleger von Aibling annehmen, Franz Xaver Jakob von Schmid, kurfürstlichen Kämmerer (die Pflege in Aibling war in der Familie der Freiherren von Schmid erblich). Der Herr links vom Pfarrer ist wohl der Bürgermeister des Marktes Aibling, die zwei weiteren Männer dürften Bürger sein, die sich um die Innendekoration der Kirche verdient gemacht haben. Hinter den Männern sind drei Frauen dargestellt, zwei vor ihnen in reicher Bürgertracht.
+
+Bei dem Gnadenbild handelt es sich um die Madonnenfigur in der Aiblinger Pfarrkirche, die große Verehrung genoß.
+
+
+== Quellen und Literatur ==
+
+
+StAM, LRA 118877: Restaurierung 1926/27
+
+AEM, Pfarrakten Aibling, 103 8132 01 und 103 8132 02: Bau der Sebastianskirche; 103 8161 01: Sebastianibruderschaft in der Marktkirche.
+
+Pfarrarchiv Bad Aibling, 5/51–1,3,4: Restaurierung 1926/27 BLfD, Akt Bad Aibling, Marktkirche St. Sebastian.
+
+Schmidtsche Matrikel, Bd 2, S. 8 f. Mayer-Westermayer, Bd 1, S. 36.
+
+KDB I OB (2), S. 1567 f.
+
+Grassinger, Joseph, Geschichte der Pfarrei und des Marktes Aibling, in: OAVG 18, 1857, S. 84–86.
+
+Bomhard, Peter von, Kunstdenkmale im Landkreis Aibling, in: Bayerland 57, 1955, Heft 5, S. 168 f.
+
+Albrecht, Jakob, Bad Aibling in der Geschichte und seinen Kirchen, Erolzheim 1958, S. 20f.
+
+--- ---------- ---------- ---------------- -, Bad Aibling in Geschichte und Gegenwart, Stuttgart 1963, S. 16f
+
+Schramm, Hermann, Die Sebastianskirche in Aibling, in: Der Mangfallgau 10, 1965, S. 123–30.
+
+Unger, Adelheid, Joseph Götsch, Weißenhorn 1972, S. 58f. Lechner, Erika und Karin Fries, Bad Aibling (= Kleine Pannonia-Reihe Nr. 85), Freilassing 1980, 1988, S. 8.
+
+Tomanek, Hermann, Bad Aibling. Mariä Himmelfahrt, Ottobeuren 1981, unpaginiert.
+
+Dehio 1990, S. 74.
+
+A.B.
+<!-- citation-page-bottom: Band12 p85 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=19 -->
+{{End}}

@@ -1,0 +1,46 @@
+{{Artikel
+|Band=121
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=294
+|Originalseitenbis=295
+|Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Vestibül
+|Typ=Profan
+|Ort=Hohenaschau
+|davor=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Eckzimmer
+|danach=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Lauberstube
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== Vestibül ==
+
+
+Durchgangsraum an der O-Seite des Hofes
+
+'''Zum Bauwerk:''' Der Vorraum an der O-Seite des Schloßhofes, vom dem sowohl eine Treppe als auch ein Gang abzweigt, stammt wie Treppe und Gang vom Umbau 1905/08. Die Decke trägt neubarocken Stuck.
+
+Das barocke Deckenbild wurde aus anderem Zusammenhang an diese Decke versetzt.
+
+'''Autor und Entstehungszeit:''' Das Bild wurde zur Zeit des Schloßumbaus 1905/08 erworben; die Provenienz ist nicht bekannt. Es dürfte aus der 2. Hälfte des 17. Jh. stammen (Bomhard, S. 384); es hat Ähnlichkeit mit den Bildern Stefano Catanis für den Münchner Hof (CBD, Bd 3/II, S. 267-69). Die untersichtige Darstellung läßt als sicher erscheinen, daß das Bild ursprünglich ebenfalls an einer Decke angebracht war.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flachdecke, Stuck 1905/08  
+Rahmen: Stuckprofil  
+Technik: Öl auf Leinwand  
+Maße: 2,60 × 1,85 m  
+Erhaltungszustand und Restaurierungen: Das Bild wurde um 1970 von Walter Ball restauriert.
+
+
+== Beschreibung und Ikonographie ==
+
+
+VERSUCHUNG DES HL. BENEDIKT  
+Im Vordergrund einer öden Landschaft wälzt sich der junge Benedikt fast nackt in Dornen: der Teufel hält ihm, um ihn in Liebesglut zu versetzen, das Porträt einer schönen Frau vor. Vor unruhig aufgehellten Wolken fliegt ein kleiner Amor und schießt seinen Pfeil auf Benedikt ab, der die Versuchung überwindet, indem er seinen Körper kasteit.
+
+
+[[File:Band12-1_chunk006_p023_img001.jpg|thumb|Die Nordwand]]
+
+{{End}}

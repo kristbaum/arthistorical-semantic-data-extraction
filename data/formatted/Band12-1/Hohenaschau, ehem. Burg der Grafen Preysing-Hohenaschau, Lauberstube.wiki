@@ -1,0 +1,173 @@
+{{Artikel
+|Band=121
+|Chunk=
+|Chunkseite=
+|Originalseitenvon=295
+|Originalseitenbis=301
+|Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Lauberstube
+|Typ=Profan
+|Ort=Hohenaschau
+|davor=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Vestibül
+|danach=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Treppenhaus
+|AutorIn1=Bauer-Wild, Anna
+}}
+
+== Lauberstube ==
+
+
+== Kleiner Gartensaal im N-Trakt des Schlosses ==
+
+
+'''Zum Bauwerk:''' Der um 1540 erbaute Nordtrakt des Schlosses wurde ab 1675 um- und ausgebaut, wobei der Saal in seiner heutigen Form entstand. Ausstattung des Saals um 1685. Er wurde in der Folgezeit als Tafelstube, also als Speisesaal, benutzt.  
+
+Kleiner Saal (8,80 × 7,80 m), der die gesamte Tiefe des N-Trakts einnimmt, in der Höhe des Schloßhofs, unter Raum 3 gelegen. Zugang über einen kleinen Vorplatz (Flötz) mit Treppenhaus vom Hof her. Türen an der O-Seite und W-Seite (dort Türöffnung neu, Tür und Türrahmung nach der östlichen rekonstruiert); drei Fenster nach S zum Hof, zwei Fenster nach N.
+
+'''Auftraggeber:''' Graf Maximilian Johann Franz (Max II.) von Preysing Hohenaschau (1668–1718).
+
+'''Autor und Entstehungszeit:''' Zuweisung an Joseph Eder (*um 1650 Innsbruck †1712 Neubeuern) und Jacob Carnutsch (*um 1650/55 Ort unbekannt †1715 Prien) 1686/87. Bomhard (S. 365 und 385 f.) nennt die beiden Maler als Autoren der Ausmalung der ›Lauberstube‹, ohne seine Quelle anzugeben. Eine Quelle, die ausdrücklich Eder und Carnutsch als Autoren der Ausmalung nennt, konnte bisher nicht gefunden werden. Bomhard bezog sich wahrscheinlich auf einen Bericht des Gerichtsverwalters Purkweger an Max II. von Preysing-Hohenaschau vom 28.12.1686, in dem dieser
+
+
+[[File:Band12-1_chunk006_p023_img002.jpg|thumb|]]
+
+
+[[File:Band12-1_chunk006_p023_img003.jpg|thumb]]
+<!-- citation-page-bottom: Band12 p295 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=24 -->
+<!-- citation-page-top: Band12 p296 -->
+
+<!-- header: HOHENASCHAU -->
+
+
+[[File:Band12-1_chunk006_p024_img001.jpg|thumb|Die Südwand]]
+
+
+schreibt: »Die Maller sind, vor Zurückkhommung des Pothen alberaith nach Hauß gangen, die Feyrtag aldort einzubringen<br>denen, auf ihr, nach dem neuen Jarstag, angedeite Anrükhkhonfft, genedig überschribner massen, die vleissige Außrichtung beschechen solle: Sie vermeinen auf H. Liechtmessen förtig zewerden, so aber ungwiß ist.« Vermerk des Grafen auf dem Bericht: »Man mueß halt den Mallern wohl einbilden daß Sye etwaß rechts machen, das es kheiner Bildlmallerey gleichsiehet« (StAM, HAA A 896).
+
+Es handelte sich also bei der in Frage stehenden Malerei um figürliche Malerei, bei der es auf Qualität ankam (es sollte keine Bildmalerei werden); um Malerei, die baufest war, also nicht zuhause in der Werkstatt hergestellt werden konnte. Aus der gleichzeitigen Anfertigung von 12 Stühlen aus Nußbaumholz (im Bericht Purkwegers erwähnt), die in der Folge Inventar der Tafelstube sind, schließt Bomhard, daß es sich um die Ausmalung der Tafelstube gehandelt habe. Es waren zwei Maler, die zusammen malten; diese Maler wohnten nicht in Aschau, aber doch nicht so weit weg, daß sich nicht ein Feiertagsbesuch zuhause angeboten hätte (es waren also keine ziehenden Gesellen). Die Vermutung, daß es sich um Eder und Carnutsch gehandelt habe, die in Prien (Carnutsch) bzw. damals in Wagrain bei Ebbs (Eder) zuhause waren, liegt nahe.
+
+Dieser historisch-pragmatischen Argumentation entspricht der stilistische Befund. Sowohl Flora als auch die Putten zeigen auffallende Ähnlichkeit mit gleichzeitigen Deckenbildern im Nonnenchor von Altenhohenau (I-V, a-d und 1–4: Engel und Putten, um 1685, s. S. 31). Sie stammen sicher von der gleichen Hand. Mit den Deckenbildern der von Eder 1700 signierten Seekapelle in Herrenchiemsee besteht bei dieser Gruppe von Werken eine so nahe Verwandtschaft, daß man sie mit Sicherheit Joseph Eder zuweisen darf. Auch das Laubwerk, die Blumen und Kränze in Hohenaschau gleichen denen von Altenhohenau ebenso wie denen der Seekapelle.
+
+Stimmt die Voraussetzung, daß nicht Eder allein, sondern beide Maler an der Ausmalung der ›Lauberstube‹ beteiligt waren, dann muß man Carnutsch als den Autor der Landschaftsmalerei in den Wandfeldern ansehen.
+
+
+== Befund ==
+
+
+Träger der Deckenmalerei: Flache Holzdecke durch profilierte Leisten gefeldert
+
+Rahmen: Die Malerei erstreckt sich über die gesamte Decke und die Wände, ursprünglich war auch der Holzboden bemalt. Technik: Öl auf Holz (Decke und Fußboden) und Öl auf Putz (Wände)
+
+
+[[File:Band12-1_chunk006_p024_img002.jpg|thumb]]
+
+
+Maße: Raummaße Höhe 3,15 m; 8,80×7,80 Felder 1,75 × 1,30
+
+Erhaltungszustand und Restaurierungen: Beim Umbau 1905/08 wurde der Raum durch Stofftapeten ausgekleidet und eine leichte Zwischendecke eingezogen. Als während der Zeit nach 1945 der Raum als Notquartier benötigt wurde, ließ man die Stofftapeten von den Wänden abreißen und die Wände zuweißen; bei dieser Gelegenheit wurde die Bemalung des Fußbodens bis auf wenige Reste zerstört (geputzt). Die Bemalung der Wände wurde 1970 durch den Restaurator Walter Bal wieder aufgedeckt, die Decke restauriert. Die Bemalung der Decke ist verhältnismäßig gut erhalten; eine der Farben, die sowohl in den Schatten des Inkarnats wie auch an Blättern und Blumen auftritt, ist verdorben (schwarz, geschrumpft); stellenweise ist die Farbe durch frühere Reinigungen bis zur roten Grundierung abgerieben. An den Wänden haben große Partien das Zuweißen und Freilegung gut überstanden und zeigen die originale Malerei bis in kleinste Details, große Teile aber sind abgeblättert oder abgeschlagen und wurden bei der Wiederaufdeckung in der Art der Originalbemalung wieder bemalt, allerdings ohne feinere Zeichnung, sodaß die ergänzten Stellen gut zu erkennen sind. An den unteren Partien der Wandbemalung, im Bereich der Balustrade, sind frische Feuchtigkeitsschäden zu sehen. In der Westwand des Raums wurde eine neue Tür durchgebrochen; diese und die Türkleidung sowie gemalte Türumrahmung wurden nach dem Vorbild der östlichen Tür gestaltet, wobei zwei originale, bemalte Türfüllungen von der Außenseite der östlichen Tür genommen und in die westliche Tür eingesetzt wurden.
+
+
+== Beschreibung und Ikonographie ==
+
+
+0 0 1 Vom Flötz her führt eine bemalte Tür mit ebenfalls bemalter Türkleidung und Türrahmung in den Raum, der ehemals ganz ausgemalt war. Von der Bemalung des Fußbodens mit Gras und Blumen, die eine Wiese imitierte, sind nur mehr wenige Reste zu finden. Die Ausmalung zeigte den kleinen Saal als balustradenumgebene Weinlaube, von der aus man rings den Blick auf prachtvolle Gärten und auf bergige Landschaft im Hintergrund hat. Den Raum umläuft in der Sockelzone eine gemalte ockerfarbene Balustrade, auf der goldgehöhte Ziervasen stehen, in denen kleine Bäumchen gepflanzt sind. In den Ecken und an den Fenstern wachsen hinter der Balustrade dicke Stämme von Weinstöcken auf; an ihnen stehen auf der Balustrade – lebensgroße Putten, die Blumen, Girlanden, einen Blumenkorb oder Ähnliches halten.
+<!-- citation-page-bottom: Band12 p297 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=25 -->
+<!-- citation-page-top: Band12 p298 -->
+
+[[File:Band12-1_chunk006_p025_img001.jpg|thumb]]
+
+[[File:Band12-1_chunk006_p025_img002.jpg|thumb|A., Putten mit Blumengirlande]]
+
+Zwischen den Weinstöcken finden sich – als imitierte Ausblicke – Landschaftsmalereien, die Gärten darstellen mit prachtvollen Lusthäusern, Treppen, Brunnen, Orangerien, Parterres und Bäumen. In dieser Gartenszenerie sind – in den erhaltenen Teilen – Figuren und Figurengruppen zu sehen, Genreszenen von großem, nicht nur kulturhistorischen Reiz. Man sieht höfisch gekleidete Spaziergänger, Wagen, Sänften mit Sänftenträgern, Reiter, Gärtner bei der Arbeit, Kinder und Erwachsene, die alle möglichen Spiele treiben. Hinter der Gartenlandschaft setzt zum Horizont hin das freie Land mit Bergen in der Ferne an.
+
+Die Decke ist durch Leisten in sechs mal fünf Felder eingeteilt, von denen die beiden mittleren in eines zusammengefasst sind. Die Weinstöcke wachsen über die Kehlung der Wände und entfalten auf die Decke vor dem zartblauen Himmelsgrund ihre Äste und Zweige zu einer dichten Laube aus Weinreben und Trauben. Die Leisten der Deckenfelderung sind mit Blüten und rosafarbenen Bändern als Girlanden gestaltet, die unter der Laube gespannt sind.
+
+A FLORA Ansicht nach W. Die beiden mittleren Felder sind zu einem zusammengezogen. Hier erscheint auf Wolken thronend, von hellen Strahlen hinterfangen, die sich in den umgebenden Feldern zu einer großen Strahlenglorie fortsetzen, Flora, die Göttin der Blumen, eine Blütenkrone auf dem Haupt, umgeben von Putten, die Blumen, Blumenkorb und Blütengirlande tragen. Die Göttin trägt ein weißes Kleid mit goldener Stickerei und einen aufflatternden roten Mantel.
+
+A<sub>1-14</sub> PUTTEN Die übrigen Felder der Decke zeigen meist Putten, die unter der Laube zu fliegen scheinen oder sich im Gezweig tummeln. Diese figürlichen Darstellungen sind in den Kassettenfeldern regelmäßig verteilt: sie finden sich in den vier Eckfeldern; den sechs mittleren Seitenfeldern (die Querseiten haben je zwei Mittelfelder) und den vier Feldern, die das Mittelfeld in den Diagonalen umgeben, wobei in diesen letzteren Feldern je ein Puttenpaar dargestellt ist. In den übrigen Feldern sieht man Vögel in den Weinranken sitzen oder fliegen.
+
+[[File:Band12-1_chunk006_p025_img003.jpg|thumb]]
+
+== A<sub>1-4</sub> PUTTEN in den vier Eckfeldern ==
+
+A<sub>1</sub> (SW) Putto mit hellgelber Draperie, auf einem Zweig sitzend, eine weiße Tulpe und einen Strauß haltend.
+
+A<sub>2</sub> (NW) Putto mit weißer Draperie, in den Händen Blüten, darunter eine große gelbe Blume.
+
+A<sub>3</sub> (NO) Putto mit ausgebreiteten Armen und gelber Draperie.
+
+[[File:Band12-1_chunk006_p025_img004.jpg|thumb|A., Putten mit roter Draperie]]
+<!-- citation-page-bottom: Band12 p299 -->
+
+<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk007.pdf#page=1 -->
+<!-- citation-page-top: Band12 p300 -->
+
+<!-- header: HOHENASCHAU -->
+
+
+[[File:Band12-1_chunk007_p001_img001.jpg|thumb|W. Wandgemälde auf der Westwand recht]]
+
+
+A<sub>4</sub> (SO) Putto, sich über die als Girlande gestaltete Deckenleiste lehnend, eine Girlande in der Hand.
+
+A<sub>5-10</sub> PUTTEN in den sechs mittleren Seitenfeldern A<sub>5</sub> (W) Putto auf Zweigen schaukelnd mit rötlicher Draperie, mit Kranz und Blüten
+
+A<sub>6</sub> (W) Putto mit heller graublauer Draperie, Blumen streuend.
+
+A<sub>7</sub> (N) Putto mit ausgebreiteten Armen und Blumensträußen, blaugraue Draperie.
+
+A<sub>8</sub> (O) Putto fliegend mit Blumenstrauß, blaugrüne Draperie.
+
+A<sub>9</sub> (O) Putto mit blaugrauer Draperie, ausgebreiteten Armen, hält einen Strauß und einen Kranz von Rosen.
+
+A<sub>10</sub> (S) Putto mit weißblau-gestreifter Draperie, in den geschlossenen Händen gelbe und weiße Blüten.
+
+A<sub>11-14</sub> PUTTENPAARE in den diagonal an das Hauptbild angrenzenden Bilddfeldern
+
+A<sub>11</sub> (SW) Putten, braunrosa und weiß drapiert, mit rosa Blumensträußen.
+
+A<sub>12</sub> (NW) Putten in hellfarbigen Draperien, einer hält Blumen in einem dunklen Tuch.
+
+A<sub>13</sub> (NO) Putten, rotbraun drapiert, mit großer Blumengirlande.
+
+A<sub>14</sub> (SO) Putten mit roter Draperie, zwei Blumensträußen und einem Kranz von Rosen.
+
+W<sub>1-8</sub> SCHLOSSGARTEN-PROSPEKTE Die Landschaften an den Wänden werden auch an den Fensterpfeilern fortgesetzt. Zählung von der östlichen Eingangstür ausgehend im Uhrzeigersinn.
+
+W<sub>1</sub> (O) Rechts vierstöckiges Schloß mit Renaissance-Gliederungen und abschließender Balustrade. Davor mauerumschlossene Gartenanlagen, Reihen von Kübelpflanzen und Ziergärtchen, von kleinen Figuren belebt.
+
+W<sub>2</sub> (S) Das schmale Feld ist von einem auf der Balustrade stehenden Putto fast verdeckt; im Hintergrund ist ein Turnier zu Pferde zu sehen.
+
+W<sub>3</sub> (S) Schmales Feld wie W<sub>2</sub>; der auf der Balustrade stehende Putto verdeckt zur Hälfte eine prachtvolle Brunnenarchitektur.
+
+
+[[File:Band12-1_chunk007_p001_img002.jpg|thumb]]
+
+
+W<sub>4</sub> (W) Links Lustschloß mit zwei orientalischen Kuppeln und eine Brunnenanlage mit Aussichtsterrassen. Wandelgänge auf unterschiedlichen Ebenen führen zu entlegeneren Schlössern.
+
+W<sub>5</sub> (W) Rechts Schloß, durch einen ummauerten Garten mit einem Lusthaus in der Tiefe verbunden. Davor regelmäßig angelegte Bosketts mit spielenden, promenierenden oder arbeitenden Figuren.
+
+W<sub>6</sub> (N) Blick in einen weiten Renaissancegarten mit rechteckig angelegten Beeten und breitem, baumbestandenen Mittelweg, der zwischen flankierenden Galeriegebäuden zu einem kleinen Lusthaus in der Landschaftstiefe führt.
+
+W<sub>7</sub> (N) Regelmäßig angelegter Garten mit Brunnenhaus im Hintergrund.
+
+W<sub>8</sub> (S) Links ein Schloßgebäude mit Terrassen an einen weitläufigen Schloßplatz mit einem Springbrunnen in der Mitte. Der Platz ist belebt mit zahlreichen Spaziergängern, unter ihnen Geistliche, Orientalen, Kinder. Rückwärts ein Schlößchen in einem französischen Garten; im Hintergrund eine Hügellandschaft.
+
+
+== Quellen und Literatur ==
+
+
+StAM, HAA A 896 (Amtsberichte 1682–1704) AEM, Nachlaß Peter von Bomhard Nr. 172.
+
+Bomhard, Bd 2, S. 365, S. 385 f.
+
+Schricker, Elisabeth, Joseph Eder und Jacob Carnutsch. Ein Beitrag zur Barockmalerei im Chiemgau (Mag. Masch. München 1988), S. 48–51.
+
+Chronik von Aschau Bd XII, Ksoll-Marcon S. 141, Abb 205
+
+Chronik von Aschau Bd IX, Maud Jahn S. 137f.
+<!-- citation-page-bottom: Band12 p301 -->
+{{End}}
