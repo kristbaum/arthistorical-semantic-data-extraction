@@ -14981,7 +14981,7 @@ A.B.
 |Typ=Profan
 |Ort=München
 |davor=München, Amalienburg
-|danach=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
+|danach=München, Klosterkirche der Chorfrauen von Notre Dame
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -15048,8 +15048,8 @@ Darstellung: Groteskenmalerei
 |Lemma=München, Klosterkirche der Chorfrauen von Notre Dame
 |Typ=Sakral
 |Ort=München
-|davor=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
-|danach=Oberschleißheim, Altes Schloss Schleißheim
+|davor=München, Schloss Nymphenburg, Drei ehemalige Kabinette im Hauptschloß
+|danach=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -15093,8 +15093,8 @@ Heigel 1891, S. 65. Hager (1955), S. 63.
 |Lemma=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
 |Typ=Profan
 |Ort=München
-|davor=München, Schloss Nymphenburg, Drei ehemalige Kabinette im Hauptschloß
-|danach=München, Klosterkirche der Chorfrauen von Notre Dame
+|davor=München, Klosterkirche der Chorfrauen von Notre Dame
+|danach=Oberschleißheim, Altes Schloss Schleißheim
 |AutorIn1=Bauer-Wild, Anna
 }}
 
@@ -15291,7 +15291,7 @@ Quellen und Literatur S. 557
 |Lemma=Oberschleißheim, Altes Schloss Schleißheim
 |Typ=Profan
 |Ort=Oberschleißheim
-|davor=München, Klosterkirche der Chorfrauen von Notre Dame
+|davor=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
 |danach=Oberschleißheim, Altes Schloss Schleißheim, Saal und Wohnräume
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Sinkel, Kristin

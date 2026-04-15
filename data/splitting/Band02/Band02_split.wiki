@@ -66,7 +66,7 @@ Das Corpus der barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 |Originalseitenbis=7
 |Lemma=Danksagung (Band 2)
 |davor=
-|danach=Bad Heilbrunn, Pfarrkirche St. Kilian
+|danach=Aufhofen, Filialkirche St. Valentin
 |AutorIn1=Bauer, Hermann
 |AutorIn2=Rupprecht, Bernhard
 }}
@@ -626,7 +626,7 @@ LANDKREIS BAD TÖLZ – WOLFRATSHAUSEN
 |Lemma=Aufhofen, Filialkirche St. Valentin
 |Typ=Sakral
 |Ort=Aufhofen
-|davor=
+|davor=Danksagung (Band 2)
 |danach=Bad Heilbrunn, Pfarrkirche St. Kilian
 |AutorIn1=Bachter, Falk
 |AutorIn2=Bauer-Wild, Anna
@@ -731,7 +731,7 @@ Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.)
 |Lemma=Bad Heilbrunn, Pfarrkirche St. Kilian
 |Typ=Sakral
 |Ort=Bad Heilbrunn
-|davor=Danksagung (Band 2)
+|davor=Aufhofen, Filialkirche St. Valentin
 |danach=Bad Tölz, Wallfahrtskirche Maria Hilf
 |AutorIn1=Bachter, Falk
 |AutorIn2=Bauer-Wild, Anna
