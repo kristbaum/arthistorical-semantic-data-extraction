@@ -85,8 +85,8 @@ Wir danken der Bauerschen Barockstiftung, die mit einer großzügigen Spende zur
 <!-- citation-page-bottom: Band14 p5 -->
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 14)
@@ -1166,8 +1166,8 @@ Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt Spitalstr
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=10
 |Originalseitenvon=17
 |Originalseitenbis=36
 |Lemma=Ingolstadt, Spitalkirche Heilig Geist
@@ -1569,8 +1569,8 @@ Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt, Harderst
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=37
 |Originalseitenbis=42
 |Lemma=Ingolstadt, Franziskanerklosterkirche, Antoniuskapelle
@@ -1687,8 +1687,8 @@ Am linken Bildrand steht eine gelb gekleidete sehr kleine Figur; auch der hl. An
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=22
 |Originalseitenvon=42
 |Originalseitenbis=48
 |Lemma=Ingolstadt, Franziskanerklosterkirche, Naskapelle
@@ -1926,8 +1926,8 @@ Dehio OB 2006, S. 522-525.
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=1
 |Originalseitenvon=49
 |Originalseitenbis=104
 |Lemma=Ingolstadt, Kongregationssaal Maria de Victoria
@@ -2886,8 +2886,8 @@ Das Gebäude der Alten Anatomie gehörte zur Medizinischen Fakultät der Landesu
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=4
 |Originalseitenvon=105
 |Originalseitenbis=116
 |Lemma=Ingolstadt, Alte Anatomie
@@ -3157,8 +3157,8 @@ Stadtpfarrkirche St. Moritz, Diözese Eichstätt Moritzstraße 4 Ausmalung 1888/
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=10
 |Originalseitenvon=117
 |Originalseitenbis=121
 |Lemma=Ingolstadt, Stadtpfarrkirche St. Moritz
@@ -3319,8 +3319,8 @@ Dehio OB 2006, S. 527–30
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=122
 |Originalseitenbis=136
 |Lemma=Ingolstadt, Augustinereremitenkirche
@@ -3590,8 +3590,8 @@ Der Orbansaal ist Teil des ehemaligen Jesuitenkollegs, das ab 1582/83 zu einer g
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=20
 |Originalseitenvon=137
 |Originalseitenbis=144
 |Lemma=Ingolstadt, Sog. Orbansaal im Jesuitenkolleg
@@ -3787,8 +3787,8 @@ Zur Geschichte: Der ursprüngliche Standort der Stuckdecke ist ein repräsentati
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=145
 |Originalseitenbis=150
 |Lemma=Ingolstadt, Decke des sog. Illuminatensaals
@@ -3946,8 +3946,8 @@ Pfarr- und ehemalige Wallfahrtskirche, Stadt Ingolstadt, Diözese Eichstätt. Zu
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=3
 |Originalseitenvon=151
 |Originalseitenbis=158
 |Lemma=Etting, Pfarr- und Wallfahrtskirche St. Michael
@@ -4152,8 +4152,8 @@ gericht bzw. LKr. Ingolstadt. Der Wallfahrtsverband der Kirchen Appertshofen, Hi
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=6
 |Originalseitenvon=159
 |Originalseitenbis=163
 |Lemma=Pettenhofen, Pfarr- und Wallfahrtskirche Mariä Geburt
@@ -4264,8 +4264,8 @@ Dehio OB 2006, S. 1047.
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=9
 |Originalseitenvon=164
 |Originalseitenbis=174
 |Lemma=Zuchering, Pfarrkirche St. Blasius
@@ -4472,8 +4472,8 @@ LANDKREIS PFAFFENHOFEN
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=175
 |Originalseitenbis=178
 |Lemma=Alberzell, Filialkirche Heilig Kreuz
@@ -4586,8 +4586,8 @@ Braun-Augsburg Bd 1, S. 437. Steichele-Schröder Bd 2, S. 264, 266–68. Geiß, 
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=179
 |Originalseitenbis=188
 |Lemma=Baar, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
@@ -4811,8 +4811,8 @@ C.B./B.9
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=189
 |Originalseitenbis=204
 |Lemma=Geisenfeld, Pfarrkirche Mariä Himmelfahrt und St. Zeno
@@ -5103,8 +5103,8 @@ Kratzsch 2006, S. 12, 18–21.
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=205
 |Originalseitenbis=222
 |Lemma=Gosseltshausen, Pfarrkirche Mariä Heimsuchung
@@ -5418,8 +5418,8 @@ Marktkirche, Markt Hohenwart, Filialkirche der Pfarre St. Georg; Pfarrsitz von a
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=223
 |Originalseitenbis=229
 |Lemma=Hohenwart, Marktkirche Mariä Verkündigung
@@ -5608,8 +5608,8 @@ Berg, Karin, Zur Rekonstruktion der Deckengemälde in der Marienkapelle des Augs
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=230
 |Originalseitenbis=236
 |Lemma=Puch, Exposizurkirche St. Martin
@@ -5734,8 +5734,8 @@ Mayer, Johann Leonhard, Moderna Ecclesia Augustensis, sive Dioecesis Augustana i
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=237
 |Originalseitenbis=240
 |Lemma=Reichertshofen, Pfarrkirche St. Margareta
@@ -5858,8 +5858,8 @@ Hofmann, Siegfried, Zum Werk Ingolstädter Freskenmaler des 18. Jahrhunderts, in
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=22
 |Originalseitenvon=241
 |Originalseitenbis=250
 |Lemma=Scheyern, Benediktinerabtei
@@ -6067,8 +6067,8 @@ F, F<sub>a-d</sub> (Frauenschiff) Darstellung aus dem Marienleben und Marienembl
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=2
 |Originalseitenvon=251
 |Originalseitenbis=257
 |Lemma=Scheyern, Benediktinerabtei, Hl.-Kreuz-Kapelle
@@ -6227,8 +6227,8 @@ Das Portal der Hl.-Kreuz-Kapelle wird von einer Stuckrahmung eingefasst, die sic
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=6
 |Originalseitenvon=258
 |Originalseitenbis=261
 |Lemma=Scheyern, Benediktinerabtei, Kapitel- oder Johanneskirche, auch Gruftkirche
@@ -6318,8 +6318,8 @@ Den Haupteingang der Gruftkirche rahmt eine asymmetrische Stuckeinfassung, die s
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=261
 |Originalseitenbis=263
 |Lemma=Scheyern, Benediktinerabtei, Ehemalige Krankenabteilung
@@ -6490,8 +6490,8 @@ Bauer, Hermann und Robert Stalla, Die Deckenbilder Matthäus Günthers in Rott a
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=264
 |Originalseitenbis=268
 |Lemma=Waal, Filialkirche Mariä Himmelfahrt
@@ -6603,8 +6603,8 @@ Kratzsch, Klaus, Kunst im Landkreis Pfaffenhofen, Pfaffenhofen 2006, S. 79. B.S.
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=268
 |Originalseitenbis=271
 |Lemma=Im 18. Jh. im Raum Ingolstadt und Pfaffenhofen tätige Maler
@@ -6736,8 +6736,8 @@ Lit.: Weissenberger, Paulus, Die Malerfamilie Matthias und Johann Michael Zink. 
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=12
 |Originalseitenvon=271
 |Originalseitenbis=272
 |Lemma=Ortsregister (Band 14)
@@ -6806,8 +6806,8 @@ Zuchering 164–17
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=272
 |Originalseitenbis=275
 |Lemma=Personenregister (Band 14)
@@ -7002,8 +7002,8 @@ Zächenberger, Wolfgang, Bildhauer und Stuckator in Ingolstadt 18, 36, 38, 50, 1
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=275
 |Originalseitenbis=283
 |Lemma=Ikonographisches Register (Band 14)
@@ -7339,8 +7339,8 @@ Zacharias, Mann der Elisabeth 161, 208, 210 Mariä Tempelgang 214 Zahlen Zoo/46 
 
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=284
 |Originalseitenbis=285
 |Lemma=Embleme-Register (Band 14)

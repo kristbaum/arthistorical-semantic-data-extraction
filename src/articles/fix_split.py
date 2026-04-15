@@ -27,6 +27,7 @@ SPLITTING_DIR = REPO_ROOT / "data" / "splitting"
 
 _ARTIKEL_RE = re.compile(r"^\{\{Artikel\b")
 _END_RE = re.compile(r"^\{\{End\}\}")
+_DROPBOX_RE = re.compile(r"<!-- dropbox: .+?_chunk(\d+)\.pdf#page=(\d+)")
 
 
 # ---------------------------------------------------------------------------
@@ -69,56 +70,90 @@ def _safe_int(s: str) -> int | None:
 # ---------------------------------------------------------------------------
 
 
+def _extract_dropbox(
+    lines: list[str], start: int, end: int
+) -> tuple[str | None, str | None]:
+    """Return (chunk, chunkseite) strings from the first dropbox comment in
+    lines[start:end+1], or (None, None) if not found."""
+    for i in range(start, min(end + 1, len(lines))):
+        m = _DROPBOX_RE.search(lines[i])
+        if m:
+            return str(int(m.group(1))), m.group(2)
+    return None, None
+
+
 def _parse_blocks(lines: list[str]) -> list[dict]:
-    """Return one dict per {{Artikel}}…{{End}} block found in lines.
+    """Return one dict per {{Artikel}} block found in lines.
 
     Each dict contains:
       template_start  – line index of ``{{Artikel``
       template_end    – line index of the closing ``}}``
-      end_line        – line index of ``{{End}}``
-      lemma, von, bis, davor, danach
+      end_line        – line index of ``{{End}}`` (or last line before next article)
+      missing_end     – True if no {{End}} was found before the next {{Artikel}}
+      lemma, von, bis, davor, danach, chunk, chunkseite
+      chunk_new, chunkseite_new  – values resolved from dropbox comment (or None)
     """
+    # Collect all {{Artikel}} positions up front so we can bound each block.
+    artikel_positions = [
+        i for i, l in enumerate(lines) if _ARTIKEL_RE.match(l.strip())
+    ]
+    end_positions = {i for i, l in enumerate(lines) if _END_RE.match(l.strip())}
+
     blocks: list[dict] = []
-    i = 0
-    while i < len(lines):
-        if not _ARTIKEL_RE.match(lines[i].strip()):
-            i += 1
-            continue
-
-        template_start = i
-
-        # Find the closing '}}'  of the template (first standalone '}}' line).
-        j = i + 1
+    for idx, art_start in enumerate(artikel_positions):
+        # Find the closing '}}' of the template (first standalone '}}' line).
+        j = art_start + 1
         while j < len(lines) and lines[j].strip() != "}}":
             j += 1
         if j >= len(lines):
-            i += 1
-            continue
+            continue  # malformed template
         template_end = j
 
-        # Find the matching {{End}}.
-        k = template_end + 1
-        while k < len(lines) and not _END_RE.match(lines[k].strip()):
-            k += 1
-        if k >= len(lines):
-            i += 1
-            continue
-        end_line = k
+        # Boundary: start of the next {{Artikel}}, or EOF.
+        next_art = (
+            artikel_positions[idx + 1]
+            if idx + 1 < len(artikel_positions)
+            else len(lines)
+        )
 
-        tpl = lines[template_start : template_end + 1]
+        # Look for {{End}} strictly between template_end and next_art.
+        end_candidates = [e for e in end_positions if template_end < e < next_art]
+        if end_candidates:
+            end_line = min(end_candidates)
+            missing_end = False
+        else:
+            end_line = next_art - 1
+            missing_end = True
+
+        tpl = lines[art_start : template_end + 1]
+
+        # Resolve chunk/page from dropbox comment:
+        # 1. first dropbox inside the block (after template closing `}}`)
+        chunk_new, chunkseite_new = _extract_dropbox(lines, template_end + 1, end_line)
+        # 2. fallback: up to 50 lines above {{Artikel}}
+        if chunk_new is None:
+            scan_start = max(0, art_start - 200)
+            chunk_new, chunkseite_new = _extract_dropbox(
+                lines, scan_start, art_start - 1
+            )
+
         blocks.append(
             {
-                "template_start": template_start,
+                "template_start": art_start,
                 "template_end": template_end,
                 "end_line": end_line,
+                "missing_end": missing_end,
                 "lemma": _get_field(tpl, "Lemma"),
                 "von": _safe_int(_get_field(tpl, "Originalseitenvon")),
                 "bis": _safe_int(_get_field(tpl, "Originalseitenbis")),
                 "davor": _get_field(tpl, "davor"),
                 "danach": _get_field(tpl, "danach"),
+                "chunk": _get_field(tpl, "Chunk"),
+                "chunkseite": _get_field(tpl, "Chunkseite"),
+                "chunk_new": chunk_new,
+                "chunkseite_new": chunkseite_new,
             }
         )
-        i = end_line + 1
 
     return blocks
 
@@ -157,6 +192,13 @@ def fix_band(
     fixes: list[tuple[int, str, str, str]] = []
 
     for idx, block in enumerate(blocks):
+        # --- Missing {{End}} ---
+        if block["missing_end"]:
+            print(
+                f"  [MISSING END] {band_prefix} / {block['lemma']!r}: "
+                f"no {{{{End}}}} before next {{{{Artikel}}}}"
+            )
+
         von, bis = block["von"], block["bis"]
 
         # --- Invalid template: bis before von ---
@@ -181,6 +223,19 @@ def fix_band(
                 print(
                     f"  [GAP] {band_prefix} / {prev['lemma']!r} (ends p{prev_bis})"
                     f" → {block['lemma']!r} (starts p{von})"
+                )
+
+        # --- Chunk / Chunkseite ---
+        if not block["chunk"] or not block["chunkseite"]:
+            if block["chunk_new"] is not None:
+                if not block["chunk"]:
+                    fixes.append((idx, "Chunk", block["chunk"], block["chunk_new"]))
+                if not block["chunkseite"]:
+                    fixes.append((idx, "Chunkseite", block["chunkseite"], block["chunkseite_new"]))
+            else:
+                print(
+                    f"  [ERROR] {band_prefix} / {block['lemma']!r}: "
+                    f"could not determine Chunk/Chunkseite from dropbox comment"
                 )
 
         # --- davor ---

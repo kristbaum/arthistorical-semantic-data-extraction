@@ -56,8 +56,8 @@ Hirmer Verlag München 2006
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=305
 |Originalseitenbis=307
 |Lemma=Jakobsberg, Filialkirche St. Jakobus der Ältere
@@ -164,8 +164,8 @@ Schmidtsche Matrikel, Bd 2, S. 43. Mayer-Westermayer, Bd 1, S. 74. KDB I OB (2),
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=6
 |Originalseitenvon=308
 |Originalseitenbis=309
 |Lemma=Kemathen, Pfarrkirche St. Martin
@@ -251,8 +251,8 @@ A. B./K.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=7
 |Originalseitenvon=310
 |Originalseitenbis=312
 |Lemma=Kiefersfelden, sog. Johann-Nepomuk-Kapelle
@@ -349,8 +349,8 @@ Biasi, Franz, Kufsteiner Buch. Beiträge zur Heimatkunde von Kufstein und Umgebu
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=8
 |Originalseitenvon=313
 |Originalseitenbis=316
 |Lemma=Kirchloibersdorf, Filialkirche St. Petrus
@@ -494,8 +494,8 @@ Historischer Atlas I, Bd 15, Die Landgerichte Wasserburg und Kling (Tertulina Bu
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=10
 |Originalseitenvon=317
 |Originalseitenbis=324
 |Lemma=Kirchwald, Filial- und Wallfahrtskirche Mariä Heimsuchung
@@ -738,8 +738,8 @@ Brugger, Walter, Kirchwald, in: Marienwallfahrten im Erzbistum München und Frei
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=325
 |Originalseitenbis=331
 |Lemma=Kleinhöhenrain, Filialkirche St. Bartholomäus
@@ -903,8 +903,8 @@ A. B.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=18
 |Originalseitenvon=332
 |Originalseitenbis=335
 |Lemma=Kleinholzhausen, Filialkirche St. Johannes der Täufer
@@ -1078,8 +1078,8 @@ Dehio 1990, S. 544.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=336
 |Originalseitenbis=342
 |Lemma=Lampferding, Kuratiekirche Mariä Himmelfahrt
@@ -1228,8 +1228,8 @@ Sponholz, Hans, Schöne Heimat Ebersberg. Der Landkreis in Bildern, München-Aß
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=343
 |Originalseitenbis=344
 |Lemma=Leonhardspfunzen, Wallfahrtskirche St. Leonhard
@@ -1330,8 +1330,8 @@ Die Bilder der oberen Emporenbrüstung stammen von 1823.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=24
 |Originalseitenvon=344
 |Originalseitenbis=345
 |Lemma=Leonhardspfunzen, Kapelle
@@ -1416,8 +1416,8 @@ A. E
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=25
 |Originalseitenvon=346
 |Originalseitenbis=355
 |Lemma=Lippertskirchen, Filialkirche Maria Morgenstern
@@ -1632,8 +1632,8 @@ Hösch, Karin, Lippertskirchen Maria Morgenstern (= Peda Kunstführer Nr. 201), 
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=5
 |Originalseitenvon=356
 |Originalseitenbis=359
 |Lemma=Maxlrain, Schloss
@@ -1747,8 +1747,8 @@ Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann. Entstehung und
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=7
 |Originalseitenvon=360
 |Originalseitenbis=366
 |Lemma=Neukirchen am Simssee, Filial- und Wallfahrtskirche Johannes der Täufer
@@ -1883,8 +1883,8 @@ Pfarrkirche Kreuzkapelle S. 380
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=10
 |Originalseitenvon=367
 |Originalseitenbis=379
 |Lemma=Niederaschau, Pfarrkirche Mariä Reinigung
@@ -2178,8 +2178,8 @@ s. auch Literatur S. 38
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=380
 |Originalseitenbis=385
 |Lemma=Niederaschau, Kreuzkapell
@@ -2346,8 +2346,8 @@ A. I
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=386
 |Originalseitenbis=393
 |Lemma=Nußdorf am Inn, Filial- und Wallfahrtskirche St. Leonhard
@@ -2616,8 +2616,8 @@ A.B
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=394
 |Originalseitenbis=399
 |Lemma=Pfraundorf, Pfarrkirche St. Nikolaus
@@ -2758,8 +2758,8 @@ Schmidtsche Matrikel, Bd 2, S. 80. Mayer-Westermayer, Bd 1, S. 77. KDB I OB (2),
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=2
 |Originalseitenvon=400
 |Originalseitenbis=410
 |Lemma=Prien am Chiemsee, Pfarrkirche Mariä Himmelfahrt
@@ -2986,8 +2986,8 @@ AEM, Pfarrakten Prien, Pfarrbeschreibung; Bauten II: Innenrestaurierung 1934. Pf
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=7
 |Originalseitenvon=411
 |Originalseitenbis=416
 |Lemma=Rain/Thalkirchen, Filialkirche St. Andreas
@@ -3105,8 +3105,8 @@ Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit (= Quellen und Darstellungen z
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=10
 |Originalseitenvon=417
 |Originalseitenbis=420
 |Lemma=Ramerberg, Pfarrkirche St. Leonhard
@@ -3222,8 +3222,8 @@ Kreisfreie Stadt Erzdiözese München und Freising Ehem. Markt und Sitz des Geri
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=12
 |Originalseitenvon=421
 |Originalseitenbis=425
 |Lemma=Rosenheim, Roßackerkapelle
@@ -3357,8 +3357,8 @@ Weinberger, Ludwig, Moderne und Barock: Christkönigkirche und Roßackerkapelle 
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=15
 |Originalseitenvon=426
 |Originalseitenbis=432
 |Lemma=Rosenheim, Loretokapelle
@@ -3535,8 +3535,8 @@ Rosenegger, Josef und Nikolai Molodovsky, Meister im Inntal (= Kleine Pannonia-R
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=432
 |Originalseitenbis=434
 |Lemma=Rott am Inn, Ehem. Benediktinerabtei
@@ -3589,8 +3589,8 @@ Zu den zerstörten Gebäuden gehörte der nördlich an die Kirchenfassade anschl
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=434
 |Originalseitenbis=461
 |Lemma=Rott am Inn, Ehem. Benediktinerabtei, Abteikirche
@@ -4091,8 +4091,8 @@ Heisig, Alexander, Rott am Inn (Kirchenführer, Hg. Pfarramt Rott am Inn), Rott 
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=462
 |Originalseitenbis=466
 |Lemma=Sachrang, Pfarrkirche St. Michael
@@ -4256,8 +4256,8 @@ Pfister, Max, Baumeister aus Graubünden - Wegbereiter des Barock. Die auswärti
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=10
 |Originalseitenvon=467
 |Originalseitenbis=469
 |Lemma=Sankt Florian, Wallfahrtskirche St. Florian
@@ -4366,8 +4366,8 @@ Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit (= Quellen und Darstellungen z
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=12
 |Originalseitenvon=470
 |Originalseitenbis=471
 |Lemma=Sankt Salvator, Wallfahrtskirche St. Salvator
@@ -4486,8 +4486,8 @@ Dehio 1990, S. 1063 f.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=472
 |Originalseitenbis=477
 |Lemma=Schönau, Pfarrkirche Mariä Himmelfahrt
@@ -4651,8 +4651,8 @@ AR
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=478
 |Originalseitenbis=479
 |Lemma=Schonstett, Pfarrkirche St. Johannes der Täufer
@@ -4726,8 +4726,8 @@ Mayer-Westermayer, Bd 1, S. 89–91. KDB I OB (2), S. 2057–58. Dehio 1990, S. 
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=480
 |Originalseitenbis=487
 |Lemma=Schwarzlack, Filial- und Wallfahrtskirche Unsere Liebe Frau von der Immerwährenden Hilfe und St. Johann Nepomuk
@@ -4905,8 +4905,8 @@ A. B./K. S.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=488
 |Originalseitenbis=491
 |Lemma=Schweinsteig, Kapelle
@@ -5008,8 +5008,8 @@ A. B./K. S.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=23
 |Originalseitenvon=492
 |Originalseitenbis=493
 |Lemma=Strasskirchen, Filialkirche St. Georg
@@ -5096,8 +5096,8 @@ A. E
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=24
 |Originalseitenvon=494
 |Originalseitenbis=496
 |Lemma=Tattenhausen, Pfarrkuratiekirche Inventio Crucis
@@ -5214,8 +5214,8 @@ UMRATHSHAUSEN
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=497
 |Originalseitenbis=502
 |Lemma=Umrathshausen, Filialkirche Heilig Blut
@@ -5355,8 +5355,8 @@ Wörndl, Rupert, Kirchengeschichtliches aus dem Priental. Die Pfarreien Aschau u
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=3
 |Originalseitenvon=503
 |Originalseitenbis=518
 |Lemma=Wasserburg am Inn, Frauenkirche
@@ -5704,8 +5704,8 @@ Feulner, Franziska, Frauenkirche in Wasserburg a. Inn. Die Kirche im Herzen der 
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=11
 |Originalseitenvon=519
 |Originalseitenbis=519
 |Lemma=Weidachwies, Kapelle Heilige Sieben Zufluchten
@@ -5756,8 +5756,8 @@ Bomhard, Bd 2, S. 354. John, Maud, Handwerkskunst in der ehemaligen Herrschaft H
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=12
 |Originalseitenvon=520
 |Originalseitenbis=534
 |Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf
@@ -6110,8 +6110,8 @@ Klemenz, Birgitta, Marienwallfahrten im Erzbistum München und Freising, Regensb
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=535
 |Originalseitenbis=539
 |Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Chorraum
@@ -6254,8 +6254,8 @@ Kemp, S. 314.
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=539
 |Originalseitenbis=541
 |Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Räume über der Sakristei
@@ -6397,8 +6397,8 @@ Ein ähnliches Wunder wird vom hl. Aredius berichtet: Er wurde vom Regen ausgesp
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=23
 |Originalseitenvon=542
 |Originalseitenbis=548
 |Lemma=Westerham, Filialkirche St. Johannes der Täufer
@@ -6589,8 +6589,8 @@ Mayr, Gottfried, Die politische Geschichte ... von der ersten urkundlichen Erwä
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=549
 |Originalseitenbis=553
 |Lemma=Wildenwart, Schloss, Kapelle
@@ -6686,8 +6686,8 @@ A MARIÄ HIMMELFAHRT Auf einer Wolke schwebt Maria nach oben, von zahlreichen Pu
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=553
 |Originalseitenbis=554
 |Lemma=Wildenwart, Schloss, Festsaal
@@ -6785,8 +6785,8 @@ Wening, S. 55. Mayer-Westermayer, Bd 3, S. 210, 215 f. KDB I OB (2), S. 1693 f. 
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=554
 |Originalseitenbis=560
 |Lemma=Willing, Pfarrkirche St. Jakobus der Ältere
@@ -6968,8 +6968,8 @@ Mayr, Gottfried, Die politische Geschichte ... von der ersten urkundlichen Erwä
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=561
 |Originalseitenbis=563
 |Lemma=Windhag, Kapelle Mariä Vermählung
@@ -7065,8 +7065,8 @@ A. B./K. S
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=564
 |Originalseitenbis=569
 |Lemma=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler
@@ -7348,8 +7348,8 @@ ZIMMERMANN, Johann Baptist, * 3.1. 1680 Gaispoint bei Wessobrunn als Sohn des St
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=11
 |Originalseitenvon=570
 |Originalseitenbis=573
 |Lemma=Ortsregister (Band 12-II)
@@ -7567,8 +7567,8 @@ Weihenlinden 65, 520-43, 569 Wallfahrtskirche 520–34 Gnadenkapelle 71 Ehem. Ch
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=573
 |Originalseitenbis=579
 |Lemma=Personenregister (Band 12-II)
@@ -7809,8 +7809,8 @@ Zuccalli, Henrico, Baumeister 270 Zuccalli, Giovanni Gaspare, Baumeister 191, 46
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=16
 |Originalseitenvon=579
 |Originalseitenbis=592
 |Lemma=Ikonographisches Register (Band 12-II)
@@ -8230,8 +8230,8 @@ mit brennender Fackel — Dominikus 406
 
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=22
 |Originalseitenvon=592
 |Originalseitenbis=593
 |Lemma=Embleme-Register (Band 12-II)

@@ -145,8 +145,8 @@ und ungenannten Spendern
 <!-- citation-page-bottom: Band10 p5 -->
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 10)
@@ -587,8 +587,8 @@ Tintelnot Hans Tintelnot, Die Barocke Freskomalerei in Deutschland, München 195
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=9
 |Originalseitenvon=17
 |Originalseitenbis=18
 |Lemma=Ambach, Pfarrkirche St. Martin
@@ -683,8 +683,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=10
 |Originalseitenvon=19
 |Originalseitenbis=33
 |Lemma=Ammerfeld, Pfarrkirche St. Quirinus von Tegernsee
@@ -1057,8 +1057,8 @@ B. V.-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=19
 |Originalseitenvon=34
 |Originalseitenbis=44
 |Lemma=Antoniberg, Wallfahrtskirche St. Antonius von Padua und St. Anna
@@ -1314,8 +1314,8 @@ Zur Geschichte: Biletrud (Wiltrud), die Witwe des Herzogs Berthold von Bayern gr
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=45
 |Originalseitenbis=60
 |Lemma=Bergen, Pfarr- und Wallfahrtskirche Hl. Kreuz
@@ -1672,8 +1672,8 @@ Pfarrkirche Kapelle S. 66
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=6
 |Originalseitenvon=61
 |Originalseitenbis=65
 |Lemma=Bergheim, Pfarrkirche St. Mauritius
@@ -1819,8 +1819,8 @@ B. V-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=66
 |Originalseitenbis=73
 |Lemma=Bergheim, Kapelle Mariä Himmelfahrt
@@ -2032,8 +2032,8 @@ B. V.-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=13
 |Originalseitenvon=74
 |Originalseitenbis=76
 |Lemma=Bertoldsheim, Pfarrkirche St. Michael
@@ -2190,8 +2190,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=14
 |Originalseitenvon=77
 |Originalseitenbis=84
 |Lemma=Burgheim, Pfarrkirche St. Kosmas und Damian
@@ -2418,8 +2418,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=85
 |Originalseitenbis=92
 |Lemma=Dezenacker, Pfarrkirche St. Elisabeth von Thüringen
@@ -2629,8 +2629,8 @@ Parisi, Jeanette, Studien zum Leben und Werk des Augsburger Barockmalers Joseph 
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=93
 |Originalseitenbis=97
 |Lemma=Dinkelshausen, Nebenkirche St. Gertrud von Helfta
@@ -2784,8 +2784,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=98
 |Originalseitenbis=98
 |Lemma=Ellenbrunn, Filialkirche St. Martin
@@ -2867,8 +2867,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=25
 |Originalseitenvon=99
 |Originalseitenbis=104
 |Lemma=Haselbach, Pfarrkirche St. Michael
@@ -2981,8 +2981,8 @@ B. V.-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=3
 |Originalseitenvon=105
 |Originalseitenbis=109
 |Lemma=Hollenbach, Pfarrkirche St. Quirinus von Siscia
@@ -3140,8 +3140,8 @@ B. V.-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=6
 |Originalseitenvon=110
 |Originalseitenbis=114
 |Lemma=Illdorf, Pfarrkirche Johannes der Täufer
@@ -3293,8 +3293,8 @@ LÄNGLOH
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=8
 |Originalseitenvon=115
 |Originalseitenbis=119
 |Lemma=Längloh, Filialkirche Mariä Geburt
@@ -3421,8 +3421,8 @@ B. V.-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=120
 |Originalseitenbis=129
 |Lemma=Langenmosen, Pfarrkirche St. Andreas
@@ -3622,8 +3622,8 @@ Altmann, Lothar, Zwei Inchenhofener Künstler: Friedrich Schwerdtfiehrer und Ign
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=16
 |Originalseitenvon=130
 |Originalseitenbis=141
 |Lemma=Maria Beinberg, Wallfahrtskirche Mariä Geburt
@@ -3875,8 +3875,8 @@ Mayer, Franz J., Der Maler Ignaz Baldauf und die Deckenfresken der St. Salvator-
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=22
 |Originalseitenvon=142
 |Originalseitenbis=154
 |Lemma=Mauern, Pfarrkirche Mariä Himmelfahrt
@@ -4187,8 +4187,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=3
 |Originalseitenvon=155
 |Originalseitenbis=160
 |Lemma=Neuburg an der Donau, Stadtpfarrkirche St. Peter
@@ -4340,8 +4340,8 @@ B. V.-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=6
 |Originalseitenvon=161
 |Originalseitenbis=181
 |Lemma=Neuburg an der Donau, Stadtpfarrkirche Hl. Geist
@@ -4780,8 +4780,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=182
 |Originalseitenbis=191
 |Lemma=Neuburg an der Donau, Studienkirche St. Ursula
@@ -5027,8 +5027,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=192
 |Originalseitenbis=207
 |Lemma=Neuburg an der Donau, ehem. Jesuitengymnasium
@@ -5334,8 +5334,8 @@ Nising, Horst, »... in keiner Weise prächtig«. Die Jesuitenkollegien der süd
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=208
 |Originalseitenbis=218
 |Lemma=Neuburg an der Donau, ehem. Bruderschaftshaus zur Schmerzhaften Muttergottes (Provinzialbibliothek)
@@ -5568,8 +5568,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=10
 |Originalseitenvon=219
 |Originalseitenbis=220
 |Lemma=Neuburg an der Donau, Schloß
@@ -5684,8 +5684,8 @@ Schloßmuseum Neuburg an der Donau. Amtlicher Führer, bearb. von Horst H. Stier
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=12
 |Originalseitenvon=220
 |Originalseitenbis=222
 |Lemma=Neuburg an der Donau, Schloß, Saal im Nordturm
@@ -5766,8 +5766,8 @@ Schloßmuseum Neuburg an der Donau. Amtlicher Führer, bearb. von Horst H. Stier
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=223
 |Originalseitenbis=227
 |Lemma=Neuburg an der Donau, Schloß, Diana-Zimmer
@@ -5843,8 +5843,8 @@ Schloßmuseum Neuburg an der Donau. Amtlicher Führer bearb. von Horst H. Stierh
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=15
 |Originalseitenvon=228
 |Originalseitenbis=229
 |Lemma=Neuburg an der Donau, Schloß, Wendeltreppe
@@ -5926,8 +5926,8 @@ BHStA, PNA, Nr. 1583: Erwähnung des »Gärtleins« 1687. Schloßmuseum Neuburg 
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=230
 |Originalseitenbis=232
 |Lemma=Neuburg an der Donau, ehem. Hofapotheke
@@ -6033,8 +6033,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=233
 |Originalseitenbis=237
 |Lemma=Oberhausen, Pfarrkirche St. Clemens
@@ -6152,8 +6152,8 @@ ABA, Pfarrarchiv Oberhausen: Restaurierung 1857; Umbau 1909-13; Restaurierung de
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=238
 |Originalseitenbis=243
 |Lemma=Ortlfing, Pfarrkirche St. Stephanus
@@ -6287,8 +6287,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=23
 |Originalseitenvon=244
 |Originalseitenbis=254
 |Lemma=Rennertshofen, Pfarrkirche Johannes der Täufer
@@ -6465,8 +6465,8 @@ Prauneck realisierte für die Pfarrkirche von Rennertshofen, wo er viele Jahre a
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=255
 |Originalseitenbis=256
 |Lemma=Rennertshofen, Friedhofskapelle St. Leonhard
@@ -6569,8 +6569,8 @@ Pfarrkirche Sakristei S. 264 Schloßkapelle (Privatbesitz) S. 266
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=257
 |Originalseitenbis=263
 |Lemma=Sandizell, Pfarrkirche St. Petrus
@@ -6702,8 +6702,8 @@ Ursprünglich dürften die Farben des Deckenbildes mehr Leuchtkraft besessen hab
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=264
 |Originalseitenbis=265
 |Lemma=Sandizell, Pfarrkirche St. Petrus, Sakristei
@@ -6770,8 +6770,8 @@ Literatur siehe S. 27
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=266
 |Originalseitenbis=270
 |Lemma=Sandizell, Schlosskapelle Zum gekreuzigten Heiland
@@ -6919,8 +6919,8 @@ RC
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=11
 |Originalseitenvon=271
 |Originalseitenbis=275
 |Lemma=Schrobenhausen, Filialkirche St. Salvator
@@ -7099,8 +7099,8 @@ B. 5.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=276
 |Originalseitenbis=279
 |Lemma=Sehensand, Firedhofskapelle St. Stephanus
@@ -7217,8 +7217,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=16
 |Originalseitenvon=280
 |Originalseitenbis=298
 |Lemma=Sinning, Pfarrkirche St. Nikolaus
@@ -7639,8 +7639,8 @@ B. V.-K
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=25
 |Originalseitenvon=299
 |Originalseitenbis=305
 |Lemma=Strass, Pfarrkirche Mariä Himmelfahrt
@@ -7807,8 +7807,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=4
 |Originalseitenvon=306
 |Originalseitenbis=307
 |Lemma=Treidelheim, Filialkirche St. Veit
@@ -7893,8 +7893,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=308
 |Originalseitenbis=312
 |Lemma=Unterhausen, Pfarrkirche St. Pankratius
@@ -8049,8 +8049,8 @@ Drobner, Hubertus R., Der heilige Pankratius. Leben, Legende und Verehrung, Pade
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=7
 |Originalseitenvon=313
 |Originalseitenbis=327
 |Lemma=Waidhofen, Pfarrkirche Mariä Reinigung
@@ -8371,8 +8371,8 @@ Selzer, Alois, St. Wendelin. Leben und Verehrung eines alemannisch-fränkischen 
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=15
 |Originalseitenvon=328
 |Originalseitenbis=336
 |Lemma=Zell, Pfarrkirche St. Lucia
@@ -8598,8 +8598,8 @@ B. V.-K.
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=20
 |Originalseitenvon=337
 |Originalseitenbis=341
 |Lemma=Im 18. Jh. im Bereich des Landkreises Neuburg-Schrobenhausen tätige Maler
@@ -8757,8 +8757,8 @@ Lit.: Weissenberger, Paulus, Die Malerfamilie Matthias und Johann Michael Zink. 
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=21
 |Originalseitenvon=342
 |Originalseitenbis=343
 |Lemma=Ortsregister (Band 10)
@@ -9405,8 +9405,8 @@ Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Obje
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=22
 |Originalseitenvon=343
 |Originalseitenbis=347
 |Lemma=Personenregister (Band 10)
@@ -9817,8 +9817,8 @@ Zeiller, Franz Anton, Maler in Reutte 99, 337 Zeiller, Johann Jakob, Maler in Re
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=24
 |Originalseitenvon=348
 |Originalseitenbis=357
 |Lemma=Ikonographisches Register (Band 10)
@@ -9966,8 +9966,8 @@ Zirkel → Divina Providentia 225 Zither 294
 
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=5
 |Originalseitenvon=358
 |Originalseitenbis=360
 |Lemma=Embleme-Register (Band 10)

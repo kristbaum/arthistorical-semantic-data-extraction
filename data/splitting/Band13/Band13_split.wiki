@@ -107,8 +107,8 @@ Wir danken dem Bischöflichen Ordinariat Eichstätt, dem Rotary Club Eichstätt-
 <!-- citation-page-bottom: Band13 p5 -->
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 13)
@@ -654,8 +654,8 @@ taille Landshut, Widnester 1/23. Eduard Zimmermann, Bayerische Klosterheraldik. 
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=10
 |Originalseitenvon=17
 |Originalseitenbis=23
 |Lemma=Altendorf, Filial- und Wallfahrtskirche Mariä Himmelfahrt
@@ -856,8 +856,8 @@ C.G./E.L
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=24
 |Originalseitenbis=26
 |Lemma=Altmannstein, Pfarrkirche Hl. Kreuz
@@ -954,8 +954,8 @@ Pfarrkirche, Pfarreiengemeinschaft Stammham-Appertshofen, Gemeinde Stammham, Di�
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=15
 |Originalseitenvon=27
 |Originalseitenbis=35
 |Lemma=Appertshofen, Pfarrkirche Mariä Heimsuchung
@@ -1231,8 +1231,8 @@ C.B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=36
 |Originalseitenbis=41
 |Lemma=Beilngries, Friedhofskirche St. Lucia, sog. Bühlkirche
@@ -1403,8 +1403,8 @@ C.B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=42
 |Originalseitenbis=44
 |Lemma=Berghausen, Filialkirche St. Nikolaus
@@ -1499,8 +1499,8 @@ Die Beschreibung des Bistums Regensburg von 1723/24, hg. Von Manfred Heim (= BGB
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=24
 |Originalseitenvon=45
 |Originalseitenbis=66
 |Lemma=Bettbrunn, Pfarr- und Wallfahrtskirche St. Salvator
@@ -1925,8 +1925,8 @@ Kath. Pfarramt Bettbrunn, Pfarr- und Wallfahrtskirche St. Salvator Bettbrunn (= 
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=10
 |Originalseitenvon=67
 |Originalseitenbis=68
 |Lemma=Biberbach, Filialkirche St. Michael
@@ -2014,8 +2014,8 @@ Dehio OB 1990, S. 137f.; 2006, S. 148f. C. I
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=11
 |Originalseitenvon=69
 |Originalseitenbis=75
 |Lemma=Dörndorf, Pfarrkirche St. Sixtus
@@ -2151,8 +2151,8 @@ C. B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=15
 |Originalseitenvon=76
 |Originalseitenbis=77
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg
@@ -2241,8 +2241,8 @@ wieder auf, viele junge Frauen traten ein. Dem neuen Konvent wurde der Mädchenu
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=16
 |Originalseitenvon=77
 |Originalseitenbis=98
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg, Abteikirche
@@ -2696,8 +2696,8 @@ Literatur siehe S. 108-10
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=1
 |Originalseitenvon=99
 |Originalseitenbis=100
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg, Obere Gruftkapelle
@@ -2804,8 +2804,8 @@ Unten in der Bildmitte ist im Hintergrund die Willibaldsburg dargestellt. Darunt
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=2
 |Originalseitenvon=101
 |Originalseitenbis=110
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg, Untere Gruftkapelle
@@ -3203,8 +3203,8 @@ Nach der Säkularisation durch das Königreich Bayern 1806 wurde die Kirche gesc
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=7
 |Originalseitenvon=111
 |Originalseitenbis=117
 |Lemma=Eichstätt, Ehem. Dominikanerkloster
@@ -3388,8 +3388,8 @@ A. B./C. G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=118
 |Originalseitenbis=122
 |Lemma=Eichstätt, Ehem. Dominikanerkloster, Treppenhaus
@@ -3507,8 +3507,8 @@ A.B./C.G./E.L.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=123
 |Originalseitenbis=153
 |Lemma=Eichstätt, ehem. Jesuitenkolleg, Schutzengelkirche
@@ -4163,8 +4163,8 @@ A.B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=154
 |Originalseitenbis=171
 |Lemma=Eichstätt, ehem. Klosterkirche des ehem. Augustiner-Chorfrauen Klosters, Notre Dame de Sacre Coeur
@@ -4556,8 +4556,8 @@ Der Text ist eine gekürzte Fassung des 1988/89 publizierten Beitrags von Lore L
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=172
 |Originalseitenbis=179
 |Lemma=Eichstätt, Maria-Hilf-Kapelle
@@ -4775,8 +4775,8 @@ C. G./E. L./C. B
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=180
 |Originalseitenbis=185
 |Lemma=Eichstätt, Frauenbergkapelle
@@ -4923,8 +4923,8 @@ CG
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=186
 |Originalseitenbis=187
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz
@@ -4962,8 +4962,8 @@ Dreiflügelige Anlage, bestehend aus dreigeschossigen Flügeln unterschiedlicher
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=20
 |Originalseitenvon=187
 |Originalseitenbis=195
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Treppenhaus
@@ -5103,8 +5103,8 @@ Grau, Peter, Text und Bild. Bilder zur Interpretation der Metamorphosen Ovids, i
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=195
 |Originalseitenbis=213
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Festsaal, sog. Spiegelsaal
@@ -5431,8 +5431,8 @@ Dehio OB 1990, S. 232f.; 2006, S. 250. C. G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=224
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Festsaal, sog. Holzsaal
@@ -5683,8 +5683,8 @@ Grund, Claudia, Sommerresidenz, in: Rupprecht Wimmer (Hg.), Tradition und Zukunf
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=224
 |Originalseitenbis=232
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
@@ -5917,8 +5917,8 @@ E. L./C. B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=233
 |Originalseitenbis=234
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
@@ -5961,8 +5961,8 @@ Seit Freilegung der Deckenmalereien 1977-82 galten die beiden Räume als »Kapit
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=234
 |Originalseitenbis=236
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Winterstube
@@ -6056,8 +6056,8 @@ Die Wappenkartusche wird flankiert von zwei Personifikationen. Links steht Iusti
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=237
 |Originalseitenbis=240
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Sommerstube
@@ -6148,8 +6148,8 @@ Pater-Philipp-Jeningen-Platz 5
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=22
 |Originalseitenvon=241
 |Originalseitenbis=244
 |Lemma=Eichstätt, ehem. Domherrenhof Schönborn
@@ -6269,8 +6269,8 @@ A. B./C. G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=245
 |Originalseitenbis=250
 |Lemma=Enkering, Pfarrkirche St. Otmar
@@ -6452,8 +6452,8 @@ C.B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=2
 |Originalseitenvon=251
 |Originalseitenbis=253
 |Lemma=Grösdorf, Salvatorkapelle
@@ -6565,8 +6565,8 @@ C.B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=254
 |Originalseitenbis=255
 |Lemma=Großmehring, Alte Pfarrkirche Mariä Geburt
@@ -6665,8 +6665,8 @@ C.B
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=5
 |Originalseitenvon=256
 |Originalseitenbis=261
 |Lemma=Gungolding, Pfarrkirche Mariä Himmelfahrt
@@ -6809,8 +6809,8 @@ C. G
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=262
 |Originalseitenbis=279
 |Lemma=Hirschberg, ehem. Fürstbischöfliches Sommerschloss
@@ -7131,8 +7131,8 @@ C. (
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=17
 |Originalseitenvon=280
 |Originalseitenbis=287
 |Lemma=Hitzhofen, Alte Pfarrkirche Mariä Heimsuchung
@@ -7330,8 +7330,8 @@ A. B./C. G
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=288
 |Originalseitenbis=292
 |Lemma=Kevenhüll, Pfarrkirche St. Ulrich
@@ -7482,8 +7482,8 @@ C. B
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=23
 |Originalseitenvon=293
 |Originalseitenbis=295
 |Lemma=Kinding, Pfarrkirche Mariä Geburt
@@ -7572,8 +7572,8 @@ KDB VMF (2), S. 156–59. Buchner Bistum Eichstätt 1938, S. 26–29. Neuhofer, 
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=25
 |Originalseitenvon=296
 |Originalseitenbis=306
 |Lemma=Kösching, Pfarrkirche Mariä Himmelfahrt und St. Martin
@@ -7879,8 +7879,8 @@ C. B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=306
 |Originalseitenbis=312
 |Lemma=Kösching, Seelenkapelle
@@ -8074,8 +8074,8 @@ A. B./E. L.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=8
 |Originalseitenvon=313
 |Originalseitenbis=316
 |Lemma=Konstein, sog. Apostelkirche St. Ägidius
@@ -8209,8 +8209,8 @@ Pfarrkirche, Stadt Beilngries, Diözese Eichstätt; z. Z. der Ausmalung Hochstif
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=317
 |Originalseitenbis=326
 |Lemma=Kottingwörth, Pfarrkirche St. Vitus
@@ -8376,8 +8376,8 @@ C.G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=15
 |Originalseitenvon=327
 |Originalseitenbis=342
 |Lemma=Lenting, Pfarrkirche St. Nikolaus
@@ -8749,8 +8749,8 @@ CB
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=343
 |Originalseitenbis=347
 |Lemma=Lippertshofen, Filialkirche St. Georg und St. Leonhard
@@ -8892,8 +8892,8 @@ C. G
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=1
 |Originalseitenvon=348
 |Originalseitenbis=350
 |Lemma=Marienstein, Priorat des Augustinerinnenklosters Marienstein
@@ -8978,8 +8978,8 @@ C.G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=3
 |Originalseitenvon=351
 |Originalseitenbis=359
 |Lemma=Möckenlohe, Pfarrkirche Mariä Himmelfahrt
@@ -9169,8 +9169,8 @@ Grimminger, Christina, Der Eichstätter Maler Joseph Dietrich (1696–1745). Leb
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=7
 |Originalseitenvon=360
 |Originalseitenbis=371
 |Lemma=Nassenfels, Pfarrkirche St. Nikolaus
@@ -9478,8 +9478,8 @@ A. B./C. G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=13
 |Originalseitenvon=372
 |Originalseitenbis=375
 |Lemma=Ochsenfeld, Pfarrkirche St. Nikolaus
@@ -9558,8 +9558,8 @@ KDB V MF (2), S. 251–54. Buchner Bistum Eichstätt 1938, S. 313–16. Dehio 19
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=15
 |Originalseitenvon=376
 |Originalseitenbis=379
 |Lemma=Pfahldorf, Pfarrkirche St. Johannes Baptist
@@ -9675,8 +9675,8 @@ C. B.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=17
 |Originalseitenvon=380
 |Originalseitenbis=383
 |Lemma=Pfalzpaint, Filialkirche St. Andreas
@@ -9807,8 +9807,8 @@ C. G
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=19
 |Originalseitenvon=384
 |Originalseitenbis=390
 |Lemma=Pförring, Pfarrkirche St. Leoonhard
@@ -10002,8 +10002,8 @@ C. B
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=22
 |Originalseitenvon=391
 |Originalseitenbis=421
 |Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Stiftskirche 
@@ -10776,8 +10776,8 @@ Dehio OB 1990, S. 1007f.; 2006, S. 1097
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=12
 |Originalseitenvon=422
 |Originalseitenbis=424
 |Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Festsaal 
@@ -10872,8 +10872,8 @@ Pfarr- und Wallfahrtskirche, Markt Kipfenberg, Diözese Eichstätt; z. Z. der Au
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=14
 |Originalseitenvon=425
 |Originalseitenbis=436
 |Lemma=Schambach, Pfarr- und Wallfahrtskirche Hl. Kreuz
@@ -11109,8 +11109,8 @@ C. G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=20
 |Originalseitenvon=437
 |Originalseitenbis=440
 |Lemma=Tauberfeld, Filialkirche St. Martin
@@ -11214,8 +11214,8 @@ KDB V MF (2), S. 329 f. Buchner Bistum Eichstätt 1937, S. 131-35 (Pfarrei Buxhe
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=22
 |Originalseitenvon=441
 |Originalseitenbis=443
 |Lemma=Untermemmendorf, Filialkirche St. Nikolaus
@@ -11315,8 +11315,8 @@ Neuhofer, Theodor, Beiträge zur Kunstgeschichte des Hochstifts Eichstätt, in: 
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=24
 |Originalseitenvon=444
 |Originalseitenbis=445
 |Lemma=Walting, Leonhardskapelle
@@ -11392,8 +11392,8 @@ KDB V MF (2), S. 342. Buchner Bistum Eichstätt 1938, S. 721–26.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=25
 |Originalseitenvon=446
 |Originalseitenbis=450
 |Lemma=Weigersdorf, Filialkirche St. Andreas
@@ -11537,8 +11537,8 @@ A. B./C. G.
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=2
 |Originalseitenvon=451
 |Originalseitenbis=455
 |Lemma=Im 18. Jh. im Bereich des Landkreises Eichstätt tätige Deckenmaler
@@ -11750,8 +11750,8 @@ Neuhofer, Theodor und Brun Appel, Künstlerverzeichnis, in: Eichstätt (= GKF Nr
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=5
 |Originalseitenvon=456
 |Originalseitenbis=458
 |Lemma=Ortsregister (Band 13)
@@ -11931,8 +11931,8 @@ Zandt 70, 453 Zuchering 299, 309
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=6
 |Originalseitenvon=458
 |Originalseitenbis=461
 |Lemma=Personenregister (Band 13)
@@ -12364,8 +12364,8 @@ Zächenberger, Johann Anton, Maler in Ingolstadt 27, 254, 296, 308f., 327, 456 Z
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=8
 |Originalseitenvon=462
 |Originalseitenbis=467
 |Lemma=Ikonographisches Register (Band 13)
@@ -12491,8 +12491,8 @@ Wappen, Personen Baumgartner, Andreas 257f. Beatrix, Kaiserin 391 Friedrich Barb
 
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=10
 |Originalseitenvon=468
 |Originalseitenbis=469
 |Lemma=Embleme-Register (Band 13)

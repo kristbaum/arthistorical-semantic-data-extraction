@@ -89,8 +89,8 @@ Die Drucklegung wurde von der Stadt Freising, dem Landkreis Freising und den Spa
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort Dank (Band 6)
@@ -811,8 +811,8 @@ der
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=29
 |Lemma=Aich, Filialkirche St. Georg
@@ -1160,8 +1160,8 @@ Halm, Philipp Maria, Altbayerische Totendarstellungen, in: Münchner Jahrbuch de
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=17
 |Originalseitenvon=30
 |Originalseitenbis=39
 |Lemma=Allershausen, Pfarrkirche St. Joseph
@@ -1361,8 +1361,8 @@ I.T./B.V.-K
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=22
 |Originalseitenvon=40
 |Originalseitenbis=43
 |Lemma=Eching, Alte Pfarrkirche St. Andreas
@@ -1501,8 +1501,8 @@ Dehio 1990, S. 207.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=24
 |Originalseitenvon=44
 |Originalseitenbis=48
 |Lemma=Erching, Schlosskapelle St. Walburga
@@ -1673,8 +1673,8 @@ Zur Geschichte: Die Geschichte des Bistums Freising lässt sich bis in den Begin
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=1
 |Originalseitenvon=49
 |Originalseitenbis=121
 |Lemma=Freising, Dom
@@ -2876,8 +2876,8 @@ B. V.-K.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=122
 |Originalseitenbis=127
 |Lemma=Freising, St. Johann Nepomuk Kapelle
@@ -3042,8 +3042,8 @@ Volk-Knüttel, Brigitte, Die Entstehung der Johann-Nepomuk-Kapelle von Egid Quir
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=16
 |Originalseitenvon=128
 |Originalseitenbis=132
 |Lemma=Freising, St.-Maximilian-Kapelle
@@ -3189,8 +3189,8 @@ B.V.-K.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=133
 |Originalseitenbis=149
 |Lemma=Freising, Domkreuzgang
@@ -3743,8 +3743,8 @@ B.V.-K.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=2
 |Originalseitenvon=150
 |Originalseitenbis=159
 |Lemma=Freising, Benediktuskirche
@@ -3976,8 +3976,8 @@ B.V.-K
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=7
 |Originalseitenvon=160
 |Originalseitenbis=162
 |Lemma=Freising, Ehem. Fürstbischöfliche Residenz
@@ -4066,8 +4066,8 @@ Ehem. Domdechantei, Domberg 18-24, heute Amtsgericht und Vermessungsamt
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=163
 |Originalseitenbis=164
 |Lemma=Freising, Kapelle in der ehem. Domdechantei
@@ -4128,8 +4128,8 @@ Ehem. bischöfliches Lyzeum, Marienplatz 7, jetzt Ämtergebäude, das auch das M
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=9
 |Originalseitenvon=165
 |Originalseitenbis=173
 |Lemma=Freising, sog. Asamsaal im ehem. Bischöflichen Lyzeum
@@ -4303,8 +4303,8 @@ Wagner-Langenstein, Eva, Georg Asam 1649–1711. Ein Beitrag zur Entwicklung der
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=174
 |Originalseitenbis=174
 |Lemma=Freising, Altöttinger Kapelle
@@ -4372,8 +4372,8 @@ CD
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=175
 |Originalseitenbis=187
 |Lemma=Freising, Neustift bei Freising, ehem. Klosterkirche
@@ -4664,8 +4664,8 @@ Lehrmann, Günther-Franz, Neustift in Freising. Chronik einer Vorstadtpfarrei, M
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=188
 |Originalseitenbis=199
 |Lemma=Freising, Weihenstephan, Ehem. Benediktinerkloster, jetzt Technische Universität, Festsaal
@@ -4910,8 +4910,8 @@ B.V.-K.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=2
 |Originalseitenvon=200
 |Originalseitenbis=213
 |Lemma=Freising, Wies bei Freising, Wallfahrtskirche
@@ -5225,8 +5225,8 @@ A.B.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=221
 |Lemma=Fürholzen, Pfarrkirche St. Stephanus
@@ -5421,8 +5421,8 @@ Dehio 1990, S. 329.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=222
 |Originalseitenbis=224
 |Lemma=Giggenhausen, Filialkirche St. Stephan
@@ -5526,8 +5526,8 @@ Dehio 1990, S. 359 f.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=225
 |Originalseitenbis=228
 |Lemma=Großeisenbach, Filialkirche St. Leonhard
@@ -5671,8 +5671,8 @@ Dehio 1990, S.376 (mit fehlerhaften Angaben)
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=229
 |Originalseitenbis=230
 |Lemma=Günzenhausen, Filialkirche St. Laurentius
@@ -5770,8 +5770,8 @@ Dehio 1990, S.386. J.T./J
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=231
 |Originalseitenbis=241
 |Lemma=Haag an der Amper, Pfarrkirche St. Laurentius
@@ -6025,8 +6025,8 @@ A.B./C.E
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=23
 |Originalseitenvon=242
 |Originalseitenbis=260
 |Lemma=Hörgertshausen, Pfarrkirche St. Jakobus der Ältere
@@ -6430,8 +6430,8 @@ A.B./C.B
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=261
 |Originalseitenbis=265
 |Lemma=Hohenkammer, Pfarrkirche St. Johannes Evangelist
@@ -6570,8 +6570,8 @@ Denkmäler in Bayern, Oberbayern, München 1986, S. 278. Dehio 1990, S. 449 f.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=266
 |Originalseitenbis=270
 |Lemma=Johanneck, Filialkirche Mariä Himmelfahrt
@@ -6729,8 +6729,8 @@ Schmidtsche Matrikel, Bd 4, S. 407, 289. Mayer-Westermayer, Bd 3, S. 65–67. KD
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=12
 |Originalseitenvon=271
 |Originalseitenbis=279
 |Lemma=Neufahrn bei Freising, Alte Pfarrkirche Hl. Geist
@@ -6933,8 +6933,8 @@ Schroubeck, Georg R., Sankt Kümmernis und ihre Legende, in: Amperland 24, 1988,
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=17
 |Originalseitenvon=280
 |Originalseitenbis=289
 |Lemma=Pfrombach, Pfarrkirche St. Margareta
@@ -7169,8 +7169,8 @@ Dehio 1990, S. 969 f.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=290
 |Originalseitenbis=290
 |Lemma=Schlipps, Filialkirche St. Silvester
@@ -7242,8 +7242,8 @@ Schloßkapelle, Nebenkirche der Pfarrei Wippenhausen Gemeinde Kranzberg, Erzdiö
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=22
 |Originalseitenvon=291
 |Originalseitenbis=296
 |Lemma=Thalhausen, Schlosskapelle St. Anna
@@ -7420,8 +7420,8 @@ A.B./C.B.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=25
 |Originalseitenvon=297
 |Originalseitenbis=303
 |Lemma=Tünzhausen, Filialkirche St. Petrus und Paulus
@@ -7598,8 +7598,8 @@ A.B./C.B./B
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=4
 |Originalseitenvon=305
 |Originalseitenbis=306
 |Lemma=Ortsregister (Band 6)
@@ -7808,8 +7808,8 @@ Zolling 200, 202 f., 231 f., 234, 238 f.
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=307
 |Originalseitenbis=309
 |Lemma=Personenregister (Band 6)
@@ -8337,8 +8337,8 @@ Zödl, Gregor OSB, Konventuale in Benediktbeuern 172
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=7
 |Originalseitenvon=310
 |Originalseitenbis=318
 |Lemma=Ikonographisches Register (Band 6)
@@ -8666,8 +8666,8 @@ mit Sternen besetzt → Felicitas aeterna 84 Wiege Johannes des Täufers 102, 10
 
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=319
 |Originalseitenbis=319
 |Lemma=Embleme-Register (Band 6)

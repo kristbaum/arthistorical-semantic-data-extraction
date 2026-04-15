@@ -53,8 +53,8 @@ Die Drucklegung wurde von der Kreissparkasse Mühldorf am Inn dem Sparkassenverb
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 8)
@@ -702,8 +702,8 @@ Werner Tschink, Berlin S. 59
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=22
 |Lemma=Altmühldorf, Pfarrkirche St. Laurentius
@@ -818,8 +818,8 @@ Mayer-Westermayer, Bd 2, S. 79–83. KDB I OB (3), S. 2144–46. Aumüller, Hans
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=13
 |Originalseitenvon=23
 |Originalseitenbis=26
 |Lemma=Ampfing, Friedhofskapelle Schmerzhafte Mutter Gottes
@@ -938,8 +938,8 @@ Brenninger, Georg, Die Kirchen der Pfarrei Ampfing. Ampfing 1994.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=15
 |Originalseitenvon=27
 |Originalseitenbis=30
 |Lemma=Annabrunn, Wallfahrtskapelle St. Anna
@@ -1058,8 +1058,8 @@ C. B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=17
 |Originalseitenvon=31
 |Originalseitenbis=53
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift
@@ -1640,8 +1640,8 @@ Quellen und Literatur s. S. 63.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=4
 |Originalseitenvon=54
 |Originalseitenbis=57
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, Sakristei
@@ -1736,8 +1736,8 @@ Quellen und Literatur s. S. 63
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=4
 |Originalseitenvon=58
 |Originalseitenbis=58
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, Krankenkapelle
@@ -1796,8 +1796,8 @@ Die Pest während und nach dem Dreißigjährigen Krieg war zum Zeitpunkt des Klo
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=6
 |Originalseitenvon=59
 |Originalseitenbis=63
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
@@ -1979,8 +1979,8 @@ A.B./C.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=78
 |Lemma=Buchbach, Pfarrkirche St. Jakobus Maior
@@ -2351,8 +2351,8 @@ A.B./C.B
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=16
 |Originalseitenvon=79
 |Originalseitenbis=80
 |Lemma=Feichten, Filialkirche St. Martin
@@ -2429,8 +2429,8 @@ Dehio 1990, S. 280.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=81
 |Originalseitenbis=88
 |Lemma=Fraham, Pfarrkirche St. Marin
@@ -2626,8 +2626,8 @@ Mayer-Westermayer, Bd 2, S. 107–10. KDB I OB (3), S. 2166. Historischer Atlas,
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=21
 |Originalseitenvon=89
 |Originalseitenbis=92
 |Lemma=Frauendorf, Kuratiekirche St. Michael
@@ -2734,8 +2734,8 @@ Mayer-Westermayer, Bd 2, S. 95 KDB I, OB (3), S. 2166. Historischer Atlas, Bd 36
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=23
 |Originalseitenvon=92
 |Originalseitenbis=98
 |Lemma=Frauenornau, Filial- und Wallfahrtskirche Maria vom Trost
@@ -2885,8 +2885,8 @@ C. B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=1
 |Originalseitenvon=99
 |Originalseitenbis=111
 |Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Pfarrkirche
@@ -3210,8 +3210,8 @@ Quellen und Literatur siehe S. 118
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=8
 |Originalseitenvon=112
 |Originalseitenbis=115
 |Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Felixkapelle
@@ -3314,8 +3314,8 @@ Thieme-Becker Bd 23, 1929, S. 203 (s.v. Liechtenfurter). Ebermann, P. Bernhard, 
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=9
 |Originalseitenvon=116
 |Originalseitenbis=116
 |Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
@@ -3371,8 +3371,8 @@ Die dargestellten Personen bzw. die überlieferten Namen bezeichnen gelehrte The
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=10
 |Originalseitenvon=117
 |Originalseitenbis=118
 |Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Verlorene Deckenmalereien
@@ -3483,8 +3483,8 @@ Ebermann, P. Bernhard und P. Josef Stemmer, Gars am Inn (KKF Nr. 940), München 
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=119
 |Originalseitenbis=121
 |Lemma=Grünbach, Filialkirche St. Leonhard
@@ -3596,8 +3596,8 @@ C. B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=122
 |Originalseitenbis=125
 |Lemma=Guttenburg, Schloss
@@ -3709,8 +3709,8 @@ Dehio 1990, S. 388–90. C. B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=15
 |Originalseitenvon=126
 |Originalseitenbis=128
 |Lemma=Hofgiebing, Filialkirche St. Johannes der Täufer
@@ -3813,8 +3813,8 @@ Mayer-Westermayer Bd 2, S. 171. KDB I OB (2), S. 1972. Historischer Atlas Bd 36,
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=16
 |Originalseitenvon=129
 |Originalseitenbis=132
 |Lemma=Hofwies, Filial- und Wallfahrtskirche Mariä Geburt
@@ -3953,8 +3953,8 @@ Goerge, Dieter, Johann Nepomuk della Croce 1736–1819 Leben und Werk (= Burghau
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=133
 |Originalseitenbis=139
 |Lemma=Kirchdorf, Pfarrkirche Mariä Himmelfahrt
@@ -4116,8 +4116,8 @@ Böhm, Cordula, Der Barockmaler Franz Joseph Zitter, in: Amperland 36, 2000, S. 
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=21
 |Originalseitenvon=140
 |Originalseitenbis=141
 |Lemma=Markt Kraiburg, Aukapelle
@@ -4189,8 +4189,8 @@ Mayer-Westermayer, Bd 2, S. 126. KDB IOB (3), S. 2178 f. Dehio 1990, S. 561 f.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=22
 |Originalseitenvon=141
 |Originalseitenbis=144
 |Lemma=Markt Kraiburg, Ehenalige Deckenbilder aus der Bruckmühle
@@ -4300,8 +4300,8 @@ Denkmäler in Bayern, Oberbayern, München 1986, S. 423
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=145
 |Originalseitenbis=156
 |Lemma=Mettenheim, Pfarrkirche St. Michael
@@ -4633,8 +4633,8 @@ V<sub>4</sub> Kreuzabnahme – Putten mit Kreuz, Leiter, Zange Nun ist alles vol
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=5
 |Originalseitenvon=157
 |Originalseitenbis=159
 |Lemma=Mössling, Pfarrkirche Mariä Himmelfahrt
@@ -4748,8 +4748,8 @@ Mettenheim, Zur 1250-Jahrfeier des Orts (Hg. Reinhard Wanka), Mettenheim 1993.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=7
 |Originalseitenvon=160
 |Originalseitenbis=178
 |Lemma=Mühldorf, Stadtpfarrkirche und ehem. Kollegiatskirche St. Nikolaus
@@ -5200,8 +5200,8 @@ A. B./C.B./J. T.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=179
 |Originalseitenbis=183
 |Lemma=Mühldorf, Filialkirche St. Katharina
@@ -5314,8 +5314,8 @@ Literatur KDB I OB (3), S. 2200–03. Mayer-Westermayer, Bd 2, S. 137 f. Dehio 1
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=183
 |Originalseitenbis=184
 |Lemma=Mühldorf, Votivkapelle Maria Eich
@@ -5382,8 +5382,8 @@ Reindl-Witt, Irmengard, Biographische Notizen zum Mühldorfer Barockmaler Paul K
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=185
 |Originalseitenbis=189
 |Lemma=Neufahrn, Filialkirche St. Rupert
@@ -5518,8 +5518,8 @@ Goerge, Dieter, Johann Nepomuk della Croce 1736–1819. Leben und Werk (= Burgha
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=190
 |Originalseitenbis=192
 |Lemma=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Gruftkapelle
@@ -5644,8 +5644,8 @@ A, KREUZANNAGELUNG Jesus liegt auf dem Kreuz am Boden, drei Henkersknechte nagel
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=23
 |Originalseitenvon=193
 |Originalseitenbis=194
 |Lemma=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Seelenkapelle
@@ -5755,8 +5755,8 @@ Pfarrkirche Seelenkapelle S. 203
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=24
 |Originalseitenvon=195
 |Originalseitenbis=203
 |Lemma=Oberflossing, Pfarrkirche St. Johann Baptist
@@ -5924,8 +5924,8 @@ Kupferschmied, Thomas Johannes, Der Freskant J. Martin Heigl. Arbeiten für Joha
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=3
 |Originalseitenvon=203
 |Originalseitenbis=203
 |Lemma=Oberflossing, Pfarrkirche St. Johann Baptist, Seelenkapelle
@@ -5987,8 +5987,8 @@ C. B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=204
 |Originalseitenbis=208
 |Lemma=Oberneukirchen, Pfarrkirche St. Margareta
@@ -6109,8 +6109,8 @@ Heimatbuch Polling-Oberneukirchen, Haag 1990, S. 595-611. C B
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=6
 |Originalseitenvon=209
 |Originalseitenbis=217
 |Lemma=Oberornau, Pfarrkirche St. Andreas
@@ -6303,8 +6303,8 @@ Nebel, Elga, Pfarrverband Obertaufkirchen. Schwindegg, Oberornau. iP Kunstführe
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=11
 |Originalseitenvon=218
 |Originalseitenbis=220
 |Lemma=Polling, Kuratiekirche Mariä Heimsuchung
@@ -6411,8 +6411,8 @@ Dehio 1990, S. 980 (Umbau und Ausmalung 1735 datiert). Heimatbuch Polling-Oberne
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=12
 |Originalseitenvon=221
 |Originalseitenbis=231
 |Lemma=Pürten, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
@@ -6679,8 +6679,8 @@ Schroll, Meinrad, Pfarr- und Wallfahrtskirche Pürten, in Waldkraiburg erzählt.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=232
 |Originalseitenbis=247
 |Lemma=Rattenkirchen, Pfarrkirche Mariä Himmelfahrt
@@ -7135,8 +7135,8 @@ Bauer, Christian, Karl Holzner, Alexander Heisig, Mariä Himmelfahrt in Rattenki
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=248
 |Originalseitenbis=253
 |Lemma=Reichertsheim, Pfarrkirche Mariä Himmelfahrt
@@ -7297,8 +7297,8 @@ C. B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=254
 |Originalseitenbis=256
 |Lemma=Riedbach, Filialkirche St. Rupert
@@ -7393,8 +7393,8 @@ StAL, Pfleggericht Neumarkt, K 1-K 83 Kirchenrechnungen 1700-1800. BLfD, Akt Rie
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=5
 |Originalseitenvon=257
 |Originalseitenbis=260
 |Lemma=Salmanskirchen, Filialkirche St. Johannes Evangelist und St. Johannes Baptist
@@ -7511,8 +7511,8 @@ Dehio 1990 S 1947f
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=261
 |Originalseitenbis=266
 |Lemma=Sankt Erasmus, Filialkirche St. Erasmus
@@ -7686,8 +7686,8 @@ Schroll, Meinrad, Die Filialkirche St. Erasmus, in: Waldkraiburg erzählt. Gesch
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=267
 |Originalseitenbis=272
 |Lemma=Thambach, Filialkirche St. Georg
@@ -7810,8 +7810,8 @@ With then 1976, S. 244, 283, 291. Denkmäler in Bayern, Oberbayern, München 198
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=273
 |Originalseitenbis=273
 |Lemma=Unterzarnham, Filialkirche St. Viktor und St. Corona
@@ -7869,8 +7869,8 @@ C. B
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=274
 |Originalseitenbis=283
 |Lemma=Walkersaich, Kuratiekirche Mriä Himmelfahrt
@@ -8134,8 +8134,8 @@ A.B
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=284
 |Originalseitenbis=285
 |Lemma=Wang, Pfarrkirche St. Georg
@@ -8237,8 +8237,8 @@ Historischer Atlas Bd 15, Wasserburg und Kling (Tertulina Burkard), München 196
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=286
 |Originalseitenbis=293
 |Lemma=Weilkirchen, Filialkirche St. Georg
@@ -8406,8 +8406,8 @@ Goerge, Dieter, Johann Nepomuk della Croce 1736–1819. Leben und Werk (= Burgha
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=24
 |Originalseitenvon=294
 |Originalseitenbis=298
 |Lemma=Wimpasing bei Ampfing, Sog. Schweppermannkapelle
@@ -8561,8 +8561,8 @@ Kupferschmied, Thomas Johannes, Die «Schweppermann-Kapelle» in Wimpasing und d
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=1
 |Originalseitenvon=299
 |Originalseitenbis=301
 |Lemma=Wimpasing bei Malseneck, Feldkapelle
@@ -8653,8 +8653,8 @@ AEM, Pfarrei Dorfen, Tauf-, Heirats- und Sterbebücher. Spagl, Hans Rudolf, Balt
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=3
 |Originalseitenvon=302
 |Originalseitenbis=304
 |Lemma=Wörth, Filialkirche St. Georg
@@ -8771,8 +8771,8 @@ C.B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=4
 |Originalseitenvon=305
 |Originalseitenbis=315
 |Lemma=Zangberg, Schloß Zangberg, Fürstensaal
@@ -9035,8 +9035,8 @@ A. B.
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=316
 |Originalseitenbis=343
 |Lemma=Zangberg, Schloß Zangberg, Ahnensaal
@@ -9738,8 +9738,8 @@ Haberger, Norbert, Der Ahnensaal im Schloß Zangberg, ungedr. Magisterarbeit, M�
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=344
 |Originalseitenbis=349
 |Lemma=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
@@ -9989,8 +9989,8 @@ ZITTER, Joseph, Maler in München, * 1712 Bruchsal. † begraben 10.7. 1777 Mün
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=1
 |Originalseitenvon=350
 |Originalseitenbis=351
 |Lemma=Ortsregister (Band 8)
@@ -10186,8 +10186,8 @@ Zangberg 7, 31, 60, 195, 257, 286, 294, 305-42, 345, 349 Ahnensaal 316–42 Für
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=3
 |Originalseitenvon=353
 |Originalseitenbis=357
 |Lemma=Personenregister (Band 8)
@@ -10693,8 +10693,8 @@ Zenetina, 1, 000 ao tao taon, 2 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 Zeil und T
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=5
 |Originalseitenvon=358
 |Originalseitenbis=367
 |Lemma=Ikonographisches Register (Band 8)
@@ -10778,8 +10778,8 @@ Tortiat 1. Midel to tille Zweig, grünend → Joseph 53 → Spes 188 Zufluchten,
 
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=10
 |Originalseitenvon=368
 |Originalseitenbis=369
 |Lemma=Embleme-Register (Band 8)

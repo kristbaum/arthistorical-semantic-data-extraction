@@ -103,8 +103,8 @@ Die Drucklegung wurde vom Ernst von Siemens Kunstfonds unterstützt
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort Dank (Band 5)
@@ -745,8 +745,8 @@ historia lombardica dicta ..., hg. von
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=23
 |Lemma=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis
@@ -866,8 +866,8 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=24
 |Originalseitenbis=46
 |Lemma=Altomünster, Pfarr- und Klosterkirche St. Alto
@@ -1252,8 +1252,8 @@ Literatur s. S. 49 Literatur zu Birgitta von Schweden s. S. 50
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=25
 |Originalseitenvon=47
 |Originalseitenbis=50
 |Lemma=Altomünster, Pfarr- und Klosterkirche St. Alto, Frauenchor
@@ -1455,8 +1455,8 @@ A R
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=2
 |Originalseitenvon=51
 |Originalseitenbis=59
 |Lemma=Egenburg, Pfarrkirche St. Stephanus
@@ -1675,8 +1675,8 @@ Altmann, Lothar, Neue Forschungsergebnisse zur Malerfamilie Schöpf, in: Amperla
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=7
 |Originalseitenvon=60
 |Originalseitenbis=63
 |Lemma=Eisenhofen, Filialkirche St. Alban
@@ -1816,8 +1816,8 @@ ehio 1990, S. 242.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=65
 |Lemma=Grossberghofen, Kuratiekirche St. Georg
@@ -1890,8 +1890,8 @@ Schmidtsche Matrikel, Bd 2, S. 340. Mayer-Westermayer, Bd 3, S. 155. Gruber, Max
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=66
 |Originalseitenbis=66
 |Lemma=Günding, Filialkirche St. Vitus
@@ -1946,8 +1946,8 @@ A.B.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=10
 |Originalseitenvon=67
 |Originalseitenbis=74
 |Lemma=Haimhausen, Schloß, Schloßkapelle
@@ -2082,8 +2082,8 @@ Literatur s. S. 82
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=14
 |Originalseitenvon=75
 |Originalseitenbis=79
 |Lemma=Haimhausen, Schloss, Festsaal im zweiten Obergeschoß
@@ -2204,8 +2204,8 @@ Literatur s. S. 82
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=80
 |Originalseitenbis=82
 |Lemma=Haimhausen, Schloss, Drei Adaptierte Deckenbilder
@@ -2263,8 +2263,8 @@ A MANNALESE (2 Mos 16) Die Israeliten sammeln in Körben das Manna, das Gott vom
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=82
 |Originalseitenbis=82
 |Lemma=Haimhausen, Schloß, Klausenkapelle Maria von Loreto
@@ -2356,8 +2356,8 @@ B. V.-K.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=83
 |Originalseitenbis=85
 |Lemma=Hirtlbach, Pfarrkirche St. Valentin
@@ -2457,8 +2457,8 @@ Dehio 1990, S. 433 f.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=86
 |Originalseitenbis=90
 |Lemma=Inhausen, Filialkirche Maria Himmelfahrt
@@ -2633,8 +2633,8 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=91
 |Originalseitenbis=97
 |Lemma=Kleinberghofen, Pfarrkirche St. Martin
@@ -2786,8 +2786,8 @@ Ulrich, Josef, Pfarrkirche St. Martin in Kleinberghofen (Faltblatt als Kirchenf�
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=1
 |Originalseitenvon=98
 |Originalseitenbis=131
 |Lemma=Indersdorf, Kloster, ehem. Stiftskirche Mariä Himmelfahrt
@@ -3281,8 +3281,8 @@ Literatur s. S. 150
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=132
 |Originalseitenbis=134
 |Lemma=Indersdorf, Kloster, Sakristei
@@ -3346,8 +3346,8 @@ Von den beiden von Günther selbst gemalten Fresken an der Hochschiffwand wurde 
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=135
 |Originalseitenbis=139
 |Lemma=Indersdorf, Kloster, Rosenkranzkapelle
@@ -3447,8 +3447,8 @@ Den Armen Seelen aus dem Fegfeuer.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=22
 |Originalseitenvon=140
 |Originalseitenbis=144
 |Lemma=Indersdorf, Kloster, Klostergebäude
@@ -3607,8 +3607,8 @@ Literatur s. S. 150 f.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=145
 |Originalseitenbis=153
 |Lemma=Indersdorf, Kloster, ehem. Winterrefektorium
@@ -3810,8 +3810,8 @@ Berghammer, Josef, Markt Indersdorf, ehem. Augustinerchorherren-Stiftskirche, je
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=3
 |Originalseitenvon=154
 |Originalseitenbis=154
 |Lemma=Kollbach, Pfarrkirche St. Martin
@@ -3881,8 +3881,8 @@ Schmidtsche Matrikel, Bd 2, S. 197 f. Mayer-Westermayer, Bd 1, S. 166–71. KDB 
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=155
 |Originalseitenbis=161
 |Lemma=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung
@@ -4058,8 +4058,8 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=167
 |Lemma=Lauterbach, Filialkirche St. Alban
@@ -4202,8 +4202,8 @@ AB
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=168
 |Originalseitenbis=177
 |Lemma=Markt Indersdorf, Marktkirche St. Bartholomäus
@@ -4410,8 +4410,8 @@ Mittelstraß, Tilman, Markt Indersdorf, St. Bartholomäus. Archäologische Grabu
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=178
 |Originalseitenbis=188
 |Lemma=Odelzhausen, Pfarrkirche St. Benedikt
@@ -4658,8 +4658,8 @@ Dehio 1990, S. 931.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=189
 |Originalseitenbis=191
 |Lemma=Orthofen, Filialkirche Hl. Kreuzauffindung
@@ -4742,8 +4742,8 @@ Schmidtsche Matrikel, Bd 2, S. 401. Mayer-Westermayer, Bd 3, S. 174. Kunst- und 
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=23
 |Originalseitenvon=192
 |Originalseitenbis=201
 |Lemma=Pfaffenhofen an der Glonn, Pfarrkirche St. Michael
@@ -4957,8 +4957,8 @@ Altmann, Lothar, Neue Forschungsergebnisse zur Malerfamilie Schöpf, in: Amperla
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=3
 |Originalseitenvon=202
 |Originalseitenbis=211
 |Lemma=Pipinsried, Wallfahrtskapelle St. Wolfgang
@@ -5209,8 +5209,8 @@ Zinnhobler, Rudolf, Der heilige Wolfgang. Leben, Legende, Kult, Linz 1975: dort 
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=8
 |Originalseitenvon=212
 |Originalseitenbis=223
 |Lemma=Puchschlagen, Filialkirche St. Kastulus
@@ -5525,8 +5525,8 @@ A. F
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=224
 |Originalseitenbis=230
 |Lemma=Rumeltshausen, Filialkirche St. Laurentius
@@ -5686,8 +5686,8 @@ A. B.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=231
 |Originalseitenbis=234
 |Lemma=Schönbrunn, Filialkirche Hl. Kreuzauffindung
@@ -5816,8 +5816,8 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=235
 |Originalseitenbis=243
 |Lemma=Sigmertshausen, Filialkirche St. Vitalis
@@ -6009,8 +6009,8 @@ Johann Michael Fischer 1692–1766, Katalog der Ausstellung 1995 (Herausgeber Ga
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=244
 |Originalseitenbis=252
 |Lemma=Sittenbach, Pfarrkirche St. Laurentius
@@ -6188,8 +6188,8 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=252
 |Originalseitenbis=261
 |Lemma=Strassbach, Filialkriche St. Ottilia von Hohenburg
@@ -6429,8 +6429,8 @@ BiblSS, Bd IX, Sp. 1113–16, s. v. Odilia de Hohenbourg. ICI Bd 8 Sp. 76-79, s.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=262
 |Originalseitenbis=265
 |Lemma=Unterumbach, Filialkirche St. Martin
@@ -6539,8 +6539,8 @@ Schmidtsche Matrikel, Bd 2, S. 296–98. Mayer-Westermayer, Bd 1, S. 320–22. K
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=266
 |Originalseitenbis=273
 |Lemma=Unterweikertshofen, Filialkirche St. Gabinus
@@ -6756,8 +6756,8 @@ St.-Gabinus-Kirche Unterweikertshofen (Faltblatt) 1984. 1 D /11
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=274
 |Originalseitenbis=274
 |Lemma=Unterweilbach, Schloßkapelle St. Martin
@@ -6816,8 +6816,8 @@ Weiling, Bd 1, 5. 30. Schmidtsche Matrikel, Bd 2, S. 202. Mayer-Westermayer, Bd 
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=275
 |Originalseitenbis=283
 |Lemma=Vierkirchen, Pfarrkirche St. Jakobus der Ältere
@@ -7075,8 +7075,8 @@ Paula, Georg, Nachträge zum Leben und Werk des Malers Johann Georg Dieffenbrunn
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=284
 |Originalseitenbis=289
 |Lemma=Walkertshofen, Pfarrkirche Mariä Himmelfahrt
@@ -7214,8 +7214,8 @@ Kunst- und Kulturdenkmäler 1977, S. 370. Angerpointner, Alois, Walkertshofen. B
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=22
 |Originalseitenvon=290
 |Originalseitenbis=300
 |Lemma=Weichs, Pfarrkirche St. Martin
@@ -7503,8 +7503,8 @@ Dehio 1990, S. 1255 f.
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=2
 |Originalseitenvon=301
 |Originalseitenbis=303
 |Lemma=Westerholzhausen, Pfarrkirche St. Korbinian
@@ -7605,8 +7605,8 @@ Berghammer, Josef, Die Sanierung der Pfarrkirche St. Korbinian in Westerholzhaus
 
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=4
 |Originalseitenvon=305
 |Originalseitenbis=306
 |Lemma=Ortsregister (Band 5)
@@ -7816,8 +7816,8 @@ Zipplingen, Bad-Württ, Ostalbkreis 86, 302
 {{End}}
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=307
 |Originalseitenbis=309
 |Lemma=Personenregister (Band 5)
@@ -8078,8 +8078,8 @@ Zürn, Brüder, Bildhauer 146
 {{End}}
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=7
 |Originalseitenvon=310
 |Originalseitenbis=317
 |Lemma=Ikonographisches Register (Band 5)
@@ -8967,8 +8967,8 @@ Speculum iustitiae → Lauretanische Anrufun-
 {{End}}
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=318
 |Originalseitenbis=318
 |Lemma=Embleme-Register (Band 5)

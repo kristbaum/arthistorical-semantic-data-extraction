@@ -61,8 +61,8 @@ Das Corpus der Barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=3
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 3-I)
@@ -515,8 +515,8 @@ STADT MÜNCHEN INNENSTADT
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=36
 |Lemma=München, Dreifaltigkeitskirche
@@ -945,8 +945,8 @@ K. S./A. B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=37
 |Originalseitenbis=52
 |Lemma=München, St. Johann Nepomuk, sog. Asamkirche
@@ -1351,8 +1351,8 @@ Cosmas Damian Asam 1686–1739, Leben und Werk, hgg. von Bruno Bushart und Bernh
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=3
 |Originalseitenvon=53
 |Originalseitenbis=56
 |Lemma=München, ehem. Karmeliterkloster
@@ -1497,8 +1497,8 @@ C. B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=5
 |Originalseitenvon=57
 |Originalseitenbis=59
 |Lemma=München, Theatinerkirche St. Kajetan
@@ -1583,8 +1583,8 @@ EINGEMEINDETE VORORTE
 
 {{Artikel
 |Band=311
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=7
 |Originalseitenvon=61
 |Originalseitenbis=61
 |Lemma=München-Aubing, Pfarrkirche St. Quirin
@@ -1653,8 +1653,8 @@ Schmidtsche Matrikel, Bd 1, S. 396–98. Mayer-Westermayer, Bd 2, S. 486. KDB I 
 
 {{Artikel
 |Band=311
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=8
 |Originalseitenvon=62
 |Originalseitenbis=63
 |Lemma=München-Baumkirchen, Pfarrkirche St. Stephan
@@ -1768,8 +1768,8 @@ C. B
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=72
 |Lemma=München (Berg am Laim), Stadtpfarrkirche St. Michael
@@ -1973,8 +1973,8 @@ A. B
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=13
 |Originalseitenvon=73
 |Originalseitenbis=78
 |Lemma=München-Bogenhausen, Filialkirche St. Georg
@@ -2188,8 +2188,8 @@ FRÖTTMANING Hl. Kreuz
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=16
 |Originalseitenvon=79
 |Originalseitenbis=81
 |Lemma=München-Fröttmaning, Filialkirche Hl. Kreuz
@@ -2279,8 +2279,8 @@ C. B
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=82
 |Originalseitenbis=85
 |Lemma=München-Harlaching, Filial- und Wallfahrtskirche St. Anna
@@ -2411,8 +2411,8 @@ Thon, Christina, Johann Baptist Zimmermann als Stukkator, München 1977, S. 173 
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=86
 |Originalseitenbis=88
 |Lemma=München-Lochhausen, Pfarrkirche St. Michael
@@ -2513,8 +2513,8 @@ Schmidtsche Matrikel, Bd 1, S. 394 f. Westenrieder, Beiträge, Bd 4, S. 390. May
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=21
 |Originalseitenvon=89
 |Originalseitenbis=92
 |Lemma=München-Moosach, Alte Pfarrkirche St. Martin
@@ -2618,8 +2618,8 @@ Laturell, Volker, D. und Georg Mooseder, Moosach, Bd 1, Von den Anfängen bis 18
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=23
 |Originalseitenvon=93
 |Originalseitenbis=96
 |Lemma=München-Perlach, Pfarrkirche St. Michael
@@ -2764,8 +2764,8 @@ Lieb/Sauermost, S. 29, 290.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=25
 |Originalseitenvon=97
 |Originalseitenbis=101
 |Lemma=München-Sendling, Alte Pfarrkirche St. Margareta
@@ -2901,8 +2901,8 @@ C. B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=3
 |Originalseitenvon=102
 |Originalseitenbis=106
 |Lemma=München-Thalkirchen, Pfarr- und Wallfahrtskirche St. Maria
@@ -3051,8 +3051,8 @@ LANDKREIS MÜNCHEN
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=6
 |Originalseitenvon=109
 |Originalseitenbis=111
 |Lemma=Arget, Kath. Pfarrkirche St. Michael
@@ -3144,8 +3144,8 @@ E[ismann], J[oseph], St. Cosmas und Damian zu Arget, in Holzkirchner Merkur 28./
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=8
 |Originalseitenvon=112
 |Originalseitenbis=116
 |Lemma=Garching bei München, Alte Pfarrkirche St. Katharina
@@ -3341,8 +3341,8 @@ C.B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=117
 |Originalseitenbis=119
 |Lemma=Großhesselohe, Dreifaltigkeitskapelle
@@ -3444,8 +3444,8 @@ KS
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=12
 |Originalseitenvon=120
 |Originalseitenbis=121
 |Lemma=Höhenkirchen, Pfarrkirche Mariä Geburt
@@ -3550,8 +3550,8 @@ C. B
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=122
 |Originalseitenbis=126
 |Lemma=Hofolding, Kuratiekirche Heilig Kreuz
@@ -3706,8 +3706,8 @@ Schmidtsche Matrikel, Bd 2, S. 510f. Mayer-Westermayer, Bd 2, S. 627, 630. E[ism
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=15
 |Originalseitenvon=127
 |Originalseitenbis=130
 |Lemma=Hohenbrunn, Pfarrkirche St. Stephan
@@ -3809,8 +3809,8 @@ C. B./L. L.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=17
 |Originalseitenvon=131
 |Originalseitenbis=133
 |Lemma=Hohenschäftlarn, Pfarrkirche St. Georg
@@ -3905,8 +3905,8 @@ Schmidtsche Matrikel, Bd 2, S. 593 f. Hinterloner, Joannes, Der gerechte und vol
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=134
 |Originalseitenbis=136
 |Lemma=Kleinhelfendorf, Marterkapelle St. Emmeram
@@ -4031,8 +4031,8 @@ Böhm, Cordula, Kleinkarierte Denkart hemmt große Meister, Intrigenspiel um die
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=20
 |Originalseitenvon=137
 |Originalseitenbis=141
 |Lemma=Kreuzpullach, Filial- und Wallfahrtskirche Heilig Kreuz
@@ -4220,8 +4220,8 @@ C.B/L.L
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=23
 |Originalseitenvon=142
 |Originalseitenbis=143
 |Lemma=Lanzenhaar, Filialkirche St. Ulrich
@@ -4320,8 +4320,8 @@ C.B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=144
 |Originalseitenbis=148
 |Lemma=Ottendichl, Pfarrkirche St. Martin
@@ -4474,8 +4474,8 @@ Schmidtsche Matrikel, Bd 2, S. 484 f. Mayer-Westermayer, Bd 3, S. 647 f. KDB I O
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=1
 |Originalseitenvon=149
 |Originalseitenbis=159
 |Lemma=Schäftlarn, Ehem. Prämonstratenserabteikirche St. Dionysius und Juliana
@@ -4742,8 +4742,8 @@ Bauer, Hermann und Anna, Die Brüder Zimmermann, Regensburg 1985, S. 270–75.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=7
 |Originalseitenvon=160
 |Originalseitenbis=162
 |Lemma=Siegertsbrunn, Pfarrkirche St. Peter
@@ -4869,8 +4869,8 @@ Literatur s. S. 168
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=163
 |Originalseitenbis=168
 |Lemma=Siegertsbrunn, Filial- und Wallfahrtskirche St. Leonhard
@@ -5062,8 +5062,8 @@ Skrabal, Gerhard, St. Leonhard zu Siegertsbrunn, in: Münchner Stadtanzeiger, Di
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=169
 |Originalseitenbis=173
 |Lemma=Taufkirchen (Kr. München), Pfarrkirche St. Johannes der Täufer
@@ -5243,8 +5243,8 @@ Soldaten führen Johannes gefesselt zu dem Ölkessel, unter dem das Feuer gesch�
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=174
 |Originalseitenbis=179
 |Lemma=Unterföhring, Pfarrkirche St. Valentin
@@ -5495,8 +5495,8 @@ Schmidtsche Matrikel, Bd 2, S. 482. Mayer-Westermayer, Bd 2, S. 636. Dehio-Gall 
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=180
 |Originalseitenbis=181
 |Lemma=Zell (Schäftlarn), Filialkirche St. Michael
@@ -5611,8 +5611,8 @@ Kirche in Zell wird restauriert (o. V.), in: Isar-Loisach-Bote 84, 23. Juli 1952
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=185
 |Originalseitenbis=190
 |Lemma=München, ehem. Klosterkirche St. Anna Damenstift
@@ -5811,8 +5811,8 @@ Lieb/Sauermost, S. 151–56 (Friedrich Naab)
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=195
 |Lemma=München-Lehel, ehem. Klosterkirche St. Anna
@@ -5976,8 +5976,8 @@ K.S./A.B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=196
 |Originalseitenbis=208
 |Lemma=München, Bürgersaal
@@ -6377,8 +6377,8 @@ EHEM. KLOSTER DER ELISABETHINERINNEN
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=6
 |Originalseitenvon=209
 |Originalseitenbis=213
 |Lemma=München, ehem. Kloster der Elisabethinerinnen
@@ -6533,8 +6533,8 @@ A.B./C.B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=10
 |Originalseitenvon=214
 |Originalseitenbis=219
 |Lemma=München, Kapelle des ehem. Instituts der Englischen Fräulein
@@ -6686,8 +6686,8 @@ Langenstein-Wagner, Eva, Georg Asam, 1649–1711, Ein Beitrag zur Entwicklung de
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=12
 |Originalseitenvon=220
 |Originalseitenbis=223
 |Lemma=München, Stadtpfarrkirche zu Unserer Lieben Frau, sog. Frauenkirche
@@ -6820,8 +6820,8 @@ B.V.-K.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=224
 |Originalseitenbis=230
 |Lemma=München, Ehem. Spitalkirche Hl. Geist
@@ -7073,8 +7073,8 @@ K. S.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=231
 |Originalseitenbis=234
 |Lemma=München, Ehem. Klosterkirche St. Jakob am Anger
@@ -7260,8 +7260,8 @@ Thon, Christina, Johann Baptist Zimmermann als Stukkator, München und Zürich 1
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=235
 |Originalseitenbis=235
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael
@@ -7327,8 +7327,8 @@ m. Saal der Großen Lateinischen Kongregation S. 235 Ehem. Bibliothek Saal I –
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=235
 |Originalseitenbis=240
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael, sog. Schöner Studentensaal
@@ -7520,8 +7520,8 @@ Ehem. Bibliothek der Jesuiten, zwei ineinander übergehende Bibliotheksräume; W
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=22
 |Originalseitenvon=241
 |Originalseitenbis=244
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael, Saal
@@ -7667,8 +7667,8 @@ Saal I: Teilansicht der Decke mit
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=244
 |Originalseitenbis=247
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael, Saal II
@@ -7809,8 +7809,8 @@ Wagner, Karl S. J. und Albert Keller S. J. (Hg.), St. Michael in München Festsc
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=248
 |Originalseitenbis=255
 |Lemma=München, Stadtpfarrkirche St. Peter
@@ -8155,8 +8155,8 @@ C.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=5
 |Originalseitenvon=257
 |Originalseitenbis=258
 |Lemma=Neuried (Kr. München), Kuratiekirche St. Nikolaus
@@ -8232,8 +8232,8 @@ C B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=6
 |Originalseitenvon=259
 |Originalseitenbis=260
 |Lemma=München-Mittersendling, Pfarrkirche St. Achaz
@@ -8333,8 +8333,8 @@ Böhm, Cordula, Die Münchner Maler J. A. Wolff, C. G. und N. G. Stuber sowie C.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=6
 |Originalseitenvon=263
 |Originalseitenbis=263
 |Lemma=München, Bibliothek des Klosters der Augustiner-Eremiten
@@ -8385,8 +8385,8 @@ A. B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=263
 |Originalseitenbis=263
 |Lemma=München, Ehem. Spital- und Klosterkirche der Barmherzigen Brüder
@@ -8435,8 +8435,8 @@ C. B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=264
 |Originalseitenbis=264
 |Lemma=München, Kapelle im ehem. Stadthaus des Klosters Ettal
@@ -8513,8 +8513,8 @@ E.-G. B
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=265
 |Originalseitenbis=265
 |Lemma=München, ehem. Obere Gruftkirche
@@ -8599,8 +8599,8 @@ Lipowsky-Künstlerlexikon 1810, Bd 1, S. 158.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=266
 |Originalseitenbis=266
 |Lemma=München, Peterskapelle, sog. Wieskapelle
@@ -8673,8 +8673,8 @@ C. B
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=266
 |Originalseitenbis=267
 |Lemma=München, Kirche und Kloster des ehem. Pütrich-Regel-Hauses
@@ -8734,8 +8734,8 @@ Hufnagl, Max Joseph, Franziskanerinnenkloster der Pütrich-Schwestern z. Hl. Chr
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=267
 |Originalseitenbis=267
 |Lemma=München, Kapelle im ehem. Kloster am Lilienberg
@@ -8789,8 +8789,8 @@ Lippert, Karl-Ludwig, Giovanni Antonio Viscardi 1645–1713, München 1969, S. 1
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=268
 |Originalseitenbis=268
 |Lemma=München, Alte Mariahilfkirche
@@ -8866,8 +8866,8 @@ Marquart, Eva-Maria, die Gemälde der Bayerischen Staatsgemäldesammlungen Münc
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=11
 |Originalseitenvon=269
 |Originalseitenbis=275
 |Lemma=München, Kirche und Kloster der ehem. Paulaner
@@ -9231,8 +9231,8 @@ E.-G. B.
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=15
 |Originalseitenvon=276
 |Originalseitenbis=278
 |Lemma=Ortsregister (Band 3-I)
@@ -9476,8 +9476,8 @@ Zell 131, 180–81
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=16
 |Originalseitenvon=279
 |Originalseitenbis=282
 |Lemma=Personenregister (Band 3-I)
@@ -9946,8 +9946,8 @@ Zwinck, Franz Seraph, Maler 61
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=17
 |Originalseitenvon=283
 |Originalseitenbis=288
 |Lemma=Ikonographisches Register (Band 3-I)
@@ -10138,8 +10138,8 @@ Zacharias 172, 195, 206 Zodiakus 151, 157 Zug der Jungfrauen zum Lamm auf den Be
 
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=289
 |Originalseitenbis=291
 |Lemma=Embleme-Register (Band 3-I)
@@ -10265,8 +10265,8 @@ Wie der Sonnen glantz/scheint und hitzet gantz 130
 {{End}}
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=292
 |Originalseitenbis=292
 |Lemma=Bildnachweis (Band 3-I)

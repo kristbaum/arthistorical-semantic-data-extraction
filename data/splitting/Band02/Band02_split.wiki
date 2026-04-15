@@ -60,8 +60,8 @@ Das Corpus der barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=5
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Danksagung (Band 2)
@@ -619,8 +619,8 @@ LANDKREIS BAD TÖLZ – WOLFRATSHAUSEN
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=20
 |Lemma=Aufhofen, Filialkirche St. Valentin
@@ -724,8 +724,8 @@ Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.)
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=12
 |Originalseitenvon=21
 |Originalseitenbis=24
 |Lemma=Bad Heilbrunn, Pfarrkirche St. Kilian
@@ -881,8 +881,8 @@ der Kunst auf dem Boden der Grundherrschaft Benediktbeuern, München 1939, S. 53
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=25
 |Originalseitenbis=27
 |Lemma=Bad Tölz, Wallfahrtskirche Maria Hilf
@@ -992,8 +992,8 @@ Das Freskobild an der Chorwölbung der Mühlfeldkirche in Bad Tölz (o. V.; nach
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=16
 |Originalseitenvon=28
 |Originalseitenbis=33
 |Lemma=Bad Tölz, Kreuzkirche auf dem Kalvarienberg
@@ -1177,8 +1177,8 @@ Literatur siehe S. 35
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=18
 |Originalseitenvon=33
 |Originalseitenbis=35
 |Lemma=Bad Tölz, Stiegenkirche auf dem Kalvarienberg
@@ -1285,8 +1285,8 @@ Schnell, Hugo, Bad Tölz (= KKF, Nr. 103/04), München 1935, S. 12–16.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=36
 |Originalseitenbis=37
 |Lemma=Bairawies, Kapelle
@@ -1342,8 +1342,8 @@ Mayer-Westermayer, Bd 3, S. 424. KDB I OB (1), S. 655. Dehio-Gall OB, S. 163.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=21
 |Originalseitenvon=38
 |Originalseitenbis=63
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Benediktinerabteikirche
@@ -2100,8 +2100,8 @@ Mindera, Karl und Leo Weber, Basilica Benedictoburana, Festschrift Benediktbeuer
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=69
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Anastasiakapelle
@@ -2233,8 +2233,8 @@ Fischer, Pius OSB, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, M
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=11
 |Originalseitenvon=69
 |Originalseitenbis=72
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Kapitelsaal
@@ -2335,8 +2335,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=11
 |Originalseitenvon=73
 |Originalseitenbis=73
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt
@@ -2385,8 +2385,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=13
 |Originalseitenvon=73
 |Originalseitenbis=93
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal
@@ -2884,8 +2884,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=94
 |Originalseitenbis=95
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer
@@ -2957,8 +2957,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=96
 |Originalseitenbis=96
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Zelle
@@ -3029,8 +3029,8 @@ Die Darstellung der Fünf Wunden Jesu wird außerhalb der Bildfelder begleitet v
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=25
 |Originalseitenvon=96
 |Originalseitenbis=100
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Verbindungsgang
@@ -3182,8 +3182,8 @@ Literatur siehe S 139
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=2
 |Originalseitenvon=100
 |Originalseitenbis=102
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Treppenhaus des Südtrakts
@@ -3268,8 +3268,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=3
 |Originalseitenvon=103
 |Originalseitenbis=111
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Neuer Festsaal
@@ -3510,8 +3510,8 @@ Literatur siehe S. 122 und S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=7
 |Originalseitenvon=111
 |Originalseitenbis=115
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gästezimmer
@@ -3663,8 +3663,8 @@ Literatur siehe S. 122 und 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=10
 |Originalseitenvon=116
 |Originalseitenbis=118
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Speisesaal
@@ -3783,8 +3783,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=119
 |Originalseitenbis=122
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Sommerprälatur
@@ -3902,8 +3902,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=123
 |Originalseitenbis=124
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gastzimmer
@@ -3985,8 +3985,8 @@ Literatur siehe S. 139
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=14
 |Originalseitenvon=124
 |Originalseitenbis=131
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Bibliothek
@@ -4157,8 +4157,8 @@ Literatur siehe S. 133
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=132
 |Originalseitenbis=133
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Ökonomiehof
@@ -4263,8 +4263,8 @@ Weber, Leo, St. Benedikt zu Benediktbeuern, Benediktbeuern 1980.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=134
 |Originalseitenbis=136
 |Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Bruderschaftskapelle
@@ -4347,8 +4347,8 @@ Literatur siehe S. 142
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=136
 |Originalseitenbis=137
 |Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Festsaal
@@ -4409,8 +4409,8 @@ Literatur siehe S. 142
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=20
 |Originalseitenvon=137
 |Originalseitenbis=137
 |Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Prälatenkapelle
@@ -4464,8 +4464,8 @@ Literatur siehe S. 142
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=21
 |Originalseitenvon=138
 |Originalseitenbis=142
 |Lemma=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus
@@ -4613,8 +4613,8 @@ Els, Georg, Beuerberg (= KKF, Nr. 784), München<sup>3</sup> 1976.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=23
 |Originalseitenvon=143
 |Originalseitenbis=147
 |Lemma=Bichl, Filialkirche St. Georg
@@ -4749,8 +4749,8 @@ Matsche, Franz, Der Freskomaler Johann Jakob Zeiller (1708–1783), Marburg an d
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=1
 |Originalseitenvon=148
 |Originalseitenbis=156
 |Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, Pfarrkirche
@@ -4995,8 +4995,8 @@ Ehem. Psallierchor, jetzt Kapelle »Maria Einsiedel« des Salesianerinnenkloster
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=5
 |Originalseitenvon=157
 |Originalseitenbis=157
 |Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, Psallierkirche
@@ -5035,8 +5035,8 @@ Die Stuckkartuschen enthalten als Inschrift Zitate aus den Psalmen, als deren Au
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=6
 |Originalseitenvon=158
 |Originalseitenbis=164
 |Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, ehem. Pfarrkirche
@@ -5263,8 +5263,8 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=9
 |Originalseitenvon=165
 |Originalseitenbis=165
 |Lemma=Einöd, Kapelle Schmerzhafter Heiland und Schmerzensmutter Maria
@@ -5325,8 +5325,8 @@ Mayer-Westermayer, Bd 3, S. 421 u. 424. Der Landkreis Wolfratshausen in Geschich
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=10
 |Originalseitenvon=166
 |Originalseitenbis=175
 |Lemma=Eurasburg, Schloss
@@ -5564,8 +5564,8 @@ Rambaldi, Karl von, Geschichte des Schlosses Eurasburg und seiner Besitzer, in: 
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=15
 |Originalseitenvon=176
 |Originalseitenbis=180
 |Lemma=Gaissach, Pfarrkirche St. Michael
@@ -5705,8 +5705,8 @@ KDB OB I (1), S. 665. Mayer-Westermayer, Bd 3, S. 431–34. Dehio-Gall OB, S. 21
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=181
 |Originalseitenbis=182
 |Lemma=Gelting, Filialkirche St. Benedikt
@@ -5796,8 +5796,8 @@ Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.)
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=183
 |Originalseitenbis=184
 |Lemma=Grafing, Kapelle St. Ulrich
@@ -5879,8 +5879,8 @@ KDB I OB (1), S. 873. Dehio-Gall OB, S. 57.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=185
 |Originalseitenbis=186
 |Lemma=Greiling, Filialkirche St. Nikolaus
@@ -5949,8 +5949,8 @@ Mayer-Westermayer, Bd 3, S. 321 f. Seidl, Oskar, Die Kirchen und Kapellen des De
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=20
 |Originalseitenvon=187
 |Originalseitenbis=190
 |Lemma=Harmating, Schloss
@@ -6074,8 +6074,8 @@ Korth, Thomas, Stift St. Florian, Nürnberg 1975, S. 52 f. und S. 339, Qu. 198.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=194
 |Lemma=Jachenau, Pfarrkirche St. Nikolaus
@@ -6208,8 +6208,8 @@ Lieb, Norbert, Jachenau, Wangen 1974.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=24
 |Originalseitenvon=195
 |Originalseitenbis=198
 |Lemma=Klösterl am Walchensee, Hauskapelle St. Anna, Maria und Joseph
@@ -6330,8 +6330,8 @@ Emerich, Karl, Die Gründung des Klösterls am Walchensee, in: Bayerland 19, 190
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=1
 |Originalseitenvon=199
 |Originalseitenbis=202
 |Lemma=Kochel, Pfarrkirche St. Michael
@@ -6468,8 +6468,8 @@ Schlor, Walter, Kochel am See, Wangen 1973.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=3
 |Originalseitenvon=203
 |Originalseitenbis=208
 |Lemma=Königsdorf, Pfarrkirche St. Laurentius
@@ -6619,8 +6619,8 @@ Pfarrkirche St. Jakob Kapelle Maria Hilf S. 214
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=6
 |Originalseitenvon=209
 |Originalseitenbis=213
 |Lemma=Lenggries, Pfarrkirche St. Jakobus Major
@@ -6788,8 +6788,8 @@ Dehio-Gall OB, S. 218
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=215
 |Lemma=Lenggries, Kapelle Maria Hilf
@@ -6855,8 +6855,8 @@ Literatur siehe S. 213
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=10
 |Originalseitenvon=216
 |Originalseitenbis=218
 |Lemma=Maria Elend, Wallfahrtskirche Zum Leidenden Erlöser und zur schmerzhaften Muttergottes
@@ -6967,8 +6967,8 @@ RDK, Bd 4 [1958], s. v. Elend, Sp. 1291–93.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=11
 |Originalseitenvon=219
 |Originalseitenbis=222
 |Lemma=Reichersbeuern, Pfarrkirche St. Korbinian
@@ -7122,8 +7122,8 @@ Bauer, Anton, Allgaukapelle und Allgauklause bei Piesenkam, in: Beiträge zur al
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=223
 |Originalseitenbis=228
 |Lemma=Reutberg, Klosterkirche Mariä Verkündigung
@@ -7319,8 +7319,8 @@ Dilger, M. Petra, M. Angela Mayer, Josef Zimmermann, Kloster Reutberg (= KKF, Nr
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=229
 |Originalseitenbis=233
 |Lemma=Sachsenkam, Pfarrkirche St. Andreas
@@ -7461,8 +7461,8 @@ Dehio-Gall OB, S. 244.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=234
 |Originalseitenbis=238
 |Lemma=St. Leonhard, Wallfahrtskirche St. Leonhard
@@ -7623,8 +7623,8 @@ Friedhofskirche S. 253
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=239
 |Originalseitenbis=245
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Stiftskirche
@@ -7808,8 +7808,8 @@ Biron von Curland, Kristin, Ignaz Baldauf, ein schwäbisch-bayerischer Maler des
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=25
 |Originalseitenvon=246
 |Originalseitenbis=247
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Psallierchor
@@ -7905,8 +7905,8 @@ Literatur siehe S. 245
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=248
 |Originalseitenbis=251
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Bibliothek
@@ -8054,8 +8054,8 @@ Literatur siehe S. 245
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=2
 |Originalseitenvon=252
 |Originalseitenbis=253
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, ehem. Refektorium
@@ -8112,8 +8112,8 @@ Literatur siehe S. 24.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=253
 |Originalseitenbis=254
 |Lemma=Schlehdorf, Friedhofskirche Schmerzhafte Mutter Maria
@@ -8193,8 +8193,8 @@ Hartig, Michael, Die Oberbayerischen Stifte, München 1935, Bd 1, S. 233.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=255
 |Originalseitenbis=255
 |Lemma=Siegertshofen, Kapelle St. Elisabeth
@@ -8273,8 +8273,8 @@ KDB I OB (1), S. 903
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=5
 |Originalseitenvon=256
 |Originalseitenbis=260
 |Lemma=Thankirchen, Pfarrkirche St. Katharina
@@ -8410,8 +8410,8 @@ Deutsche Barockgalerie (Städtische Kunstsammlungen Augsburg – Bayerische Staa
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=261
 |Originalseitenbis=264
 |Lemma=Walchensee, Alte Pfarrkirche St. Jakobus Major
@@ -8568,8 +8568,8 @@ Mindera, Karl, Benediktbeuern (= GKF, Nr. 23), München <sup>3</sup>1970, S. 28,
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=265
 |Originalseitenbis=265
 |Lemma=Wegscheid, Pestkapelle St. Anton
@@ -8639,8 +8639,8 @@ LANDKREIS GARMISCH-PARTENKIRCHEN
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=12
 |Originalseitenvon=269
 |Originalseitenbis=272
 |Lemma=Bad Kohlgrub, Votivkapelle St. Rochus
@@ -8813,8 +8813,8 @@ Dehio-Gall OB, S. 201.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=273
 |Originalseitenbis=274
 |Lemma=Bayersoien, Pfarrkirche St. Georg
@@ -8905,8 +8905,8 @@ Mayer-Westermayer, Bd 3, S. 5–7. KDB I OB (1), S. 577. Hofmann, Sigfrid, Der L
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=275
 |Originalseitenbis=276
 |Lemma=Dickelschwaig, Kapelle St. Gertrud
@@ -8990,8 +8990,8 @@ Matsche, Franz, Der Freskomaler Johann Jakob Zeiller, Marburg 1970, S. 280–282
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=15
 |Originalseitenvon=277
 |Originalseitenbis=277
 |Lemma=Elmau, Kapelle
@@ -9038,8 +9038,8 @@ Zur Ausmalung des Kapellenraumes gehört die Altarwand, an die um eine kleine ge
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=16
 |Originalseitenvon=278
 |Originalseitenbis=283
 |Lemma=Eschenlohe, Pfarrkirche St. Clemens
@@ -9203,8 +9203,8 @@ Matsche, Franz, Der Freskomaler Johann Jakob Zeiller Marburg 1970, S. 396 ff.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=284
 |Originalseitenbis=316
 |Lemma=Ettal, Benediktinerabtei, Kloster-, Pfarr- u. Wallfahrtskirche
@@ -9810,8 +9810,8 @@ Einbezogen in die Darstellung der Heiligen ist das Thema vom Stammbaum Jesu; sei
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=316
 |Originalseitenbis=323
 |Lemma=Ettal, Benediktinerabtei, Sakristei
@@ -10007,8 +10007,8 @@ Literatur siehe S 320
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=13
 |Originalseitenvon=323
 |Originalseitenbis=329
 |Lemma=Ettal, Benediktinerabtei, Kapitel- u. Chorsaal
@@ -10265,8 +10265,8 @@ Zimmermann, Alfons O.S.B., Kalendarium Benedictinum. Bd 1–4, Metten 1933–38.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=17
 |Originalseitenvon=331
 |Originalseitenbis=334
 |Lemma=Froschhausen, Filial- u. Wallfahrtskirche St. Leonhard
@@ -10408,8 +10408,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim <sup>3</sup>1962, S. 37. Dehio-Gall O
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=19
 |Originalseitenvon=335
 |Originalseitenbis=347
 |Lemma=Garmisch, Pfarrkirche St. Martin
@@ -10741,8 +10741,8 @@ Reclam Kunstführer, Bd 1, Bayern, Stuttgart <sup>7</sup>1970, S. 337–38.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=1
 |Originalseitenvon=348
 |Originalseitenbis=349
 |Lemma=Grainau, Pfarrkirche Johann Baptist
@@ -10833,8 +10833,8 @@ Mayer-Westermayer, Bd 3, S. 579, 583. Pfarrkirche Grainau (o. V.), Kirchenführe
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=2
 |Originalseitenvon=350
 |Originalseitenbis=354
 |Lemma=Kappel, Filial- u. Wallfahrtskirche Hl. Blut u. hl. Magdalena
@@ -11006,8 +11006,8 @@ dürften gleichzeitig mit der Erbauung der Kirche 1760/63 entstanden sein, da di
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=4
 |Originalseitenvon=355
 |Originalseitenbis=357
 |Lemma=Krün, Kuratiekirche St. Sebastian
@@ -11130,8 +11130,8 @@ Brenner, Mathias und Hugo Schnell, Pfarrkirche Mittenwald (= KKF, Nr. 17), Mitte
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=6
 |Originalseitenvon=358
 |Originalseitenbis=370
 |Lemma=Mittenwald, Pfarrkirche St. Peter u. Paul
@@ -11483,8 +11483,8 @@ Dehio-Gall OB, S. 213.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=12
 |Originalseitenvon=371
 |Originalseitenbis=374
 |Lemma=Mittenwald, Pilgerhaus Hl. Geist
@@ -11593,8 +11593,8 @@ Böhm, Cordula, Der verlorene Sohn von Mittenwald, in Charivari 1980, Heft 3, S.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=14
 |Originalseitenvon=375
 |Originalseitenbis=393
 |Lemma=Oberammergau, Pfarrkirche St. Peter u. Paul
@@ -12041,8 +12041,8 @@ Städtische Kunstsammlungen Augsburg, Bd 2, Deutsche Barockgalerie, bearb. v. Ec
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=24
 |Originalseitenvon=394
 |Originalseitenbis=396
 |Lemma=Oberau, Filialkirche St, Georg
@@ -12157,8 +12157,8 @@ Mayer-Westermayer, Bd 3, S. 579, 583. Dehio-Gall OB, S. 205.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=25
 |Originalseitenvon=397
 |Originalseitenbis=400
 |Lemma=Ramsach, Filialkirche St. Georg
@@ -12294,8 +12294,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 2 1962, S. 45
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=2
 |Originalseitenvon=401
 |Originalseitenbis=404
 |Lemma=Riegsee, Filialkirche St. Stephan
@@ -12447,8 +12447,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim <sup>2</sup>1962, S. 45 Dehio-Gall, O
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=4
 |Originalseitenvon=405
 |Originalseitenbis=421
 |Lemma=Partenkirchen, Wallfahrts- u. Votivkirche St. Antonius
@@ -12856,8 +12856,8 @@ Facchinetti, Vittorino, Antonio di Padova, Mailand 1925. Kleinschmidt, Beda, Ant
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=13
 |Originalseitenvon=422
 |Originalseitenbis=429
 |Lemma=Seehausen, Pfarrkirche St. Michael
@@ -13129,8 +13129,8 @@ Sakrale Kunst in Bayern, Bd 2: Die Diözese Augsburg, Marzoll bei Bad Reichenhal
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=17
 |Originalseitenvon=430
 |Originalseitenbis=432
 |Lemma=Uffing, Pfarrkirche St. Agatha
@@ -13238,8 +13238,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 46
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=18
 |Originalseitenvon=433
 |Originalseitenbis=441
 |Lemma=Unterammergau, Pfarrkirche St. Nikolaus
@@ -13481,8 +13481,8 @@ Mois, Jakob, Unterammergau, Ottobeuren 1969.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=23
 |Originalseitenvon=442
 |Originalseitenbis=443
 |Lemma=Weindorf, Filialkirche St. Martin
@@ -13567,8 +13567,8 @@ Lohr, Martin, Murnau (= KKF, Nr. 476), München<sup>3</sup> 1961, S. 22 f.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=24
 |Originalseitenvon=444
 |Originalseitenbis=444
 |Lemma=Wurmannsau, Kapelle St. Joseph
@@ -13634,8 +13634,8 @@ LANDKREIS MIESBACH
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=25
 |Originalseitenvon=447
 |Originalseitenbis=450
 |Lemma=Alb, Kapelle St. Anianus
@@ -13741,8 +13741,8 @@ Literatur siehe Wilparting, S. 634
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=2
 |Originalseitenvon=451
 |Originalseitenbis=453
 |Lemma=Allgau bei Piesenkam, Kapelle St. Gregor der Große
@@ -13846,8 +13846,8 @@ Bauer, Anton, Neue Quellenfunde zur Entstehung der Allgaukapelle bei Piesenkam, 
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=2
 |Originalseitenvon=454
 |Originalseitenbis=454
 |Lemma=Aurach, Kapelle
@@ -13914,8 +13914,8 @@ Pfarrkirche Seelen- und Wallfahrtskapelle S. 460
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=4
 |Originalseitenvon=455
 |Originalseitenbis=459
 |Lemma=Bayrischzell, Pfarrkirche St. Margareta
@@ -14078,8 +14078,8 @@ Literatur siehe S. 462
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=7
 |Originalseitenvon=460
 |Originalseitenbis=462
 |Lemma=Bayrischzell, Seelen- u. Wallfahrtskapelle Sieben Schmerzen Mariä
@@ -14176,8 +14176,8 @@ Meindl, Michael, Bayrischzell, Bayrischzell 1963. -, Bayrischzell (= KKF, Nr. 23
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=8
 |Originalseitenvon=463
 |Originalseitenbis=464
 |Lemma=Birkenstein, Wallfahrtskirche Mariä Himmelfahrt 
@@ -14265,8 +14265,8 @@ Dehio-Gall OB, S. 233.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=9
 |Originalseitenvon=465
 |Originalseitenbis=469
 |Lemma=Elbach, Pfarrkirche St. Andreas
@@ -14430,8 +14430,8 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=12
 |Originalseitenvon=470
 |Originalseitenbis=496
 |Lemma=Fischbachau, Pfarrkirche St. Martin
@@ -15179,8 +15179,8 @@ Ertl, Anton, Fischbachau (= KKF, Nr. 166), Müncher 1970.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=25
 |Originalseitenvon=497
 |Originalseitenbis=502
 |Lemma=Frauenried, Filialkirche Mariä Geburt
@@ -15348,8 +15348,8 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=3
 |Originalseitenvon=503
 |Originalseitenbis=508
 |Lemma=Gotzing, Filialkirche St. Jakobus Major
@@ -15525,8 +15525,8 @@ Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nac
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=6
 |Originalseitenvon=509
 |Originalseitenbis=510
 |Lemma=Grund, Kapelle zum Grundnerhof gehörig
@@ -15612,8 +15612,8 @@ B<sub>2</sub> MARIA HIMMELFAHRT (fast völlig zerstört) In der oberen Bildhälf
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=7
 |Originalseitenvon=511
 |Originalseitenbis=512
 |Lemma=Hagnberg, Kapelle
@@ -15741,8 +15741,8 @@ Mayer-Westermayer, Bd 2, S. 7, 9, 11. Brunhuber, Josef, Chronik des oberen Leitz
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=8
 |Originalseitenvon=513
 |Originalseitenbis=516
 |Lemma=Holzkirchen, Pfarrkirche St. Laurentius
@@ -15902,8 +15902,8 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=10
 |Originalseitenvon=517
 |Originalseitenbis=522
 |Lemma=Kleinhöhenkirchen, Marienwallfahrt Mariä Heimsuchung
@@ -16073,8 +16073,8 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=13
 |Originalseitenvon=523
 |Originalseitenbis=528
 |Lemma=Kleinpienzenau, Filialkirche St. Georg
@@ -16277,8 +16277,8 @@ Mayer-Westermayer, Bd 2, S. 45. KDB I OB (2), S. 1468 f. Thieme-Becker, Bd 13, S
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=16
 |Originalseitenvon=529
 |Originalseitenbis=534
 |Lemma=Neukirchen, Pfarrkirche St. Dionysius
@@ -16444,8 +16444,8 @@ Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nac
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=19
 |Originalseitenvon=535
 |Originalseitenbis=536
 |Lemma=Osterhofen, Kapelle
@@ -16523,8 +16523,8 @@ Frauenkirche Manhartskapelle S. 541
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=20
 |Originalseitenvon=537
 |Originalseitenbis=540
 |Lemma=Osterwarngau, Frauenkirche Mariä Opferung
@@ -16675,8 +16675,8 @@ Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nac
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=22
 |Originalseitenvon=541
 |Originalseitenbis=541
 |Lemma=Osterwarngau, Manhartskapelle
@@ -16737,8 +16737,8 @@ Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, München 1913, S
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=23
 |Originalseitenvon=542
 |Originalseitenbis=545
 |Lemma=Parsberg, Pfarrkirche St. Laurentius
@@ -16920,8 +16920,8 @@ Lemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=25
 |Originalseitenvon=546
 |Originalseitenbis=548
 |Lemma=Piesenkam, Filialkirche St. Jakobus Major
@@ -17047,8 +17047,8 @@ Bauer, Anton, Allgaukapelle und Allgauklause bei Piesenkam, in: Beiträge zur al
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=1
 |Originalseitenvon=549
 |Originalseitenbis=554
 |Lemma=Reichersdorf, Filialkirche St. Leonhard
@@ -17260,8 +17260,8 @@ Pfarrkirche Kapelle St. Nikolaus S. 560
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=4
 |Originalseitenvon=555
 |Originalseitenbis=559
 |Lemma=Schliersee, Pfarrkirche St. Sixtus
@@ -17394,8 +17394,8 @@ Literatur siehe S. 56
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=7
 |Originalseitenvon=560
 |Originalseitenbis=561
 |Lemma=Schliersee, Kapelle St. Nikolaus
@@ -17535,8 +17535,8 @@ Lampl, Sixtus, Joh. Bapt. Zimmermanns Schlierseer Anfänge, Schliersee 1979.
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=8
 |Originalseitenvon=562
 |Originalseitenbis=563
 |Lemma=Schmidham, Filialkirche St. Sebastian u. St. Rochus
@@ -17625,8 +17625,8 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=9
 |Originalseitenvon=564
 |Originalseitenbis=593
 |Lemma=Tegernsee, ehem. Benediktinerabtei, Klosterkirche
@@ -18250,8 +18250,8 @@ Literatur siehe S. 59
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=24
 |Originalseitenvon=594
 |Originalseitenbis=596
 |Lemma=Tegernsee, ehem. Benediktinerabtei, Psallierchor
@@ -18341,8 +18341,8 @@ Literatur siehe S. 597
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=25
 |Originalseitenvon=596
 |Originalseitenbis=597
 |Lemma=Tegernsee, ehem. Benediktinerabtei, Sakristei
@@ -18431,8 +18431,8 @@ Lampl, Sixtus, Die Klosterkirche Tegernsee, in: OAVG 100, 1975, S. 5–141 (mit 
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=1
 |Originalseitenvon=598
 |Originalseitenbis=601
 |Lemma=Tegernsee, ehem. Benediktinerabtei, ehem. Rekreationssaal
@@ -18542,8 +18542,8 @@ Literatur siehe S. 59
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=3
 |Originalseitenvon=602
 |Originalseitenbis=603
 |Lemma=Thalham, Kapelle St. Florian
@@ -18614,8 +18614,8 @@ Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nac
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=5
 |Originalseitenvon=604
 |Originalseitenbis=610
 |Lemma=Wall, Pfarrkirche St. Margareta
@@ -18841,8 +18841,8 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=7
 |Originalseitenvon=611
 |Originalseitenbis=612
 |Lemma=Westenhofen, Filialkirche St. Martin
@@ -18935,8 +18935,8 @@ Ehem. Stiftskirche, jetzt Pfarrkirche Sakristei S. 624 Ehem. Stiftsgebäude, jet
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=8
 |Originalseitenvon=613
 |Originalseitenbis=623
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche
@@ -19209,8 +19209,8 @@ Literatur siehe S. 626
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=13
 |Originalseitenvon=624
 |Originalseitenbis=625
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei
@@ -19285,8 +19285,8 @@ Literatur siehe S 626
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=14
 |Originalseitenvon=625
 |Originalseitenbis=625
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sitzungssaal
@@ -19340,8 +19340,8 @@ Literatur siehe S. 620
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=15
 |Originalseitenvon=626
 |Originalseitenbis=627
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Bürgermeisterzimmer
@@ -19424,8 +19424,8 @@ Thon, Christina, J. B. Zimmermann als Stukkator, München 1977, S. 165–67, 313
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=16
 |Originalseitenvon=628
 |Originalseitenbis=633
 |Lemma=Wilparting, Wallfahrtskirche St. Marinus u. Anianus
@@ -19622,8 +19622,8 @@ Literatur siehe S. 634
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=18
 |Originalseitenvon=633
 |Originalseitenbis=634
 |Lemma=Wilparting, Kapelle St. Vitus
@@ -19722,8 +19722,8 @@ Mass, Josef, Zeugen des Glaubens, München 1974, S. 74–76
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=19
 |Originalseitenvon=635
 |Originalseitenbis=638
 |Lemma=Ortsregister (Band 2)
@@ -20006,8 +20006,8 @@ Zell 455
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=20
 |Originalseitenvon=639
 |Originalseitenbis=642
 |Lemma=Personenregister (Band 2)
@@ -20534,8 +20534,8 @@ Zwinck, Johann Joseph, Maler 246–253, 350, 376–93, 394–96, 440
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=23
 |Originalseitenvon=643
 |Originalseitenbis=654
 |Lemma=Ikonographisches Register (Band 2)
@@ -21787,8 +21787,8 @@ Zacharias 32, 316, 390, 518 Ahnen und Sippe Christi 196, 589 Zambri 52 Zebedäus
 
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=14
+|Chunkseite=3
 |Originalseitenvon=655
 |Originalseitenbis=658
 |Lemma=Embleme-Register (Band 2)

@@ -86,8 +86,8 @@ Wir danken allen Personen und Institutionen, die mit großzügigen Spenden zur F
 <!-- citation-page-bottom: Band11 p5 -->
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 11)
@@ -925,8 +925,8 @@ Zitiert sind die jeweils benutzten Ausgaben und Auflagen
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=20
 |Lemma=Almau, Filialkirche St. Leonhard
@@ -1020,8 +1020,8 @@ Metz, Joseph, Übersee am Chiemsee. Dorfgeschichte im Bild, Übersee 1990, S. 19
 {{End}}
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=12
 |Originalseitenvon=20
 |Originalseitenbis=40
 |Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Ehem. Stiftskirche
@@ -1438,8 +1438,8 @@ Walko, Martin Johann, Die Traditionen des Augustiner-Chorherrenstifts Baumburg a
 {{End}}
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=22
 |Originalseitenvon=41
 |Originalseitenbis=43
 |Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Sakristei
@@ -1512,8 +1512,8 @@ Dehio 1990, S. 94.
 {{End}}
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=44
 |Originalseitenbis=44
 |Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Turmaufgang
@@ -1569,8 +1569,8 @@ Keine Erwähnung.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=24
 |Originalseitenvon=45
 |Originalseitenbis=48
 |Lemma=Berg, ehem. Filialkirche St. Nikolaus
@@ -1718,8 +1718,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=1
 |Originalseitenvon=49
 |Originalseitenbis=50
 |Lemma=Deinting, Filialkirche St. Sixtus und St. Sebastian
@@ -1830,8 +1830,8 @@ Weichslgartner, Alois J., Trostberger Rokoko. Ein regionales Kunstzentrum im Chi
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=2
 |Originalseitenvon=51
 |Originalseitenbis=52
 |Lemma=Fridolfing, Alter Pfarrhof
@@ -1928,8 +1928,8 @@ Pfarrkirche Mariä Himmelfahrt Sieben-Zufluchten-Kapelle S. 77 Totenkapelle S. 7
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=3
 |Originalseitenvon=53
 |Originalseitenbis=76
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt
@@ -2516,8 +2516,8 @@ Goerge, Dieter, Johann Nepomuk della Croce 1736–1819. Leben und Werk (= Burgha
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=15
 |Originalseitenvon=77
 |Originalseitenbis=78
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt, Sieben-Zufluchten-Kapelle
@@ -2605,8 +2605,8 @@ KDB I OB (2), S. 1780. Hausladen 1966, S. 10. Bomhard 1974, S. 16. Schricker 198
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=16
 |Originalseitenvon=79
 |Originalseitenbis=82
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt, Totenkapelle
@@ -2708,8 +2708,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=83
 |Originalseitenbis=90
 |Lemma=Kay, Pfarrkirche St. Martin
@@ -2923,8 +2923,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=91
 |Originalseitenbis=94
 |Lemma=Seeon-Seebruck, Klosterseeon
@@ -3006,8 +3006,8 @@ Die Themen der Schildwände sind im ersten Joch die Versuchung Jesu in der Wüst
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=95
 |Originalseitenbis=105
 |Lemma=Seeon-Seebruck, Klosterseeon, Nikolaikapelle
@@ -3221,8 +3221,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=5
 |Originalseitenvon=106
 |Originalseitenbis=110
 |Lemma=Mögling, Nebenkirche Mariä Himmelfahrt
@@ -3337,8 +3337,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=7
 |Originalseitenvon=111
 |Originalseitenbis=122
 |Lemma=Ruhpolding, Pfarrkirche
@@ -3656,8 +3656,8 @@ Mühlbacher, Josef, Ruhpolding (= KKF Nr. 28), München und Zürich <sup>9</sup>
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=123
 |Originalseitenbis=128
 |Lemma=Ruhpolding, Schlosskapelle im Neuen Schloss
@@ -3785,8 +3785,8 @@ A.B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=17
 |Originalseitenvon=129
 |Originalseitenbis=132
 |Lemma=Schedling, ehem. Schlosskapelle St. Joseph
@@ -3895,8 +3895,8 @@ Weichslgartner, Alois J., Trostberger Rokoko. Ein regionales Kunstzentrum im Chi
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=133
 |Originalseitenbis=141
 |Lemma=Schnaitsee, Pfarrkirche Mariä Himmelfahrt
@@ -4128,8 +4128,8 @@ Dehio 1990, S. 1081 f.:
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=23
 |Originalseitenvon=142
 |Originalseitenbis=143
 |Lemma=Schnaitsee, Marienkapelle
@@ -4198,8 +4198,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=144
 |Originalseitenbis=159
 |Lemma=Siegsdorf, Pfarrkirche Mariä Unbefleckte Empfängnis
@@ -4493,8 +4493,8 @@ A. B
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=7
 |Originalseitenvon=160
 |Originalseitenbis=162
 |Lemma=Stein a. d. Traun, Schlosskapelle St. Georg und Heilige Drei Könige
@@ -4577,8 +4577,8 @@ Quellen und Literatur s. S. 16
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=165
 |Lemma=Stein a. d. Traun, Feldkapelle sog. Johann-Nepomuk-Kapelle
@@ -4722,8 +4722,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=10
 |Originalseitenvon=166
 |Originalseitenbis=174
 |Lemma=Tacherting, Pfarrkirche Mariä Himmelfahrt
@@ -4905,8 +4905,8 @@ Goerge, Dieter, Johann Nepomuk della Croce 1736–1819. Leben und Werk, Burghaus
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=174
 |Originalseitenbis=177
 |Lemma=Tacherting, Friedhofskapelle St. Anna
@@ -4986,8 +4986,8 @@ Quellen und Literatur s. S. 174
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=178
 |Originalseitenbis=179
 |Lemma=Tittmoning, Kreuzabnahme-Kapelle an der Stadtpfarrkirche
@@ -5071,8 +5071,8 @@ Goerge, Dieter, Geschichte in Erz und Stein. Tittmoninger Inschriften und Steind
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=180
 |Originalseitenbis=187
 |Lemma=Tittmoning, Wallfahrtskirche Maria Ponlach
@@ -5298,8 +5298,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=188
 |Originalseitenbis=189
 |Lemma=Traunwalchen, Wallfahrtskapelle Frauenbrunn
@@ -5395,8 +5395,8 @@ Danner, Johannes, Pfarrkirche Mariä Geburt – Frauenbrunn – Kirche Kirchstä
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=190
 |Originalseitenbis=195
 |Lemma=Unterwössen, Pfarrkirche St. Martin
@@ -5560,8 +5560,8 @@ Niegel, Franz, Pfarrkirche zum hl. Martin Unterwössen (Kirchenführer), Salzbur
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=196
 |Originalseitenbis=200
 |Lemma=Waging, Pfarrkirche St. Martin
@@ -5725,8 +5725,8 @@ Der sehr hohe und lange Chor der ehem. Stiftskirche mit dem dreiseitigen AR stam
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=2
 |Originalseitenvon=201
 |Originalseitenbis=206
 |Lemma=Berchtesgaden, ehem. Augustiner-Chorherrenstift
@@ -5926,8 +5926,8 @@ Albrecht, Dieter, Die Fürstpropstei Berchtesgaden, in: Handbuch der bayerischen
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=5
 |Originalseitenvon=207
 |Originalseitenbis=213
 |Lemma=Ettenberg, Wallfahrtskirche Maria Ettenberg
@@ -6100,8 +6100,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=216
 |Lemma=Hintersee, Kapelle St. Antonius von Padua
@@ -6189,8 +6189,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=10
 |Originalseitenvon=216
 |Originalseitenbis=231
 |Lemma=Höglwörth, ehem. Augustiner-Chorherrenstifts, ehem. Stiftskirche
@@ -6511,8 +6511,8 @@ LANDKREIS BERCHTESGADEN · HÖGLWÖRTH
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=232
 |Originalseitenbis=237
 |Lemma=Höglwörth, ehem. Winterchor des ehem. Augustiner-Chorherrenstifts
@@ -6715,8 +6715,8 @@ Hunklinger, Georg und Josef Wegner, Höglwörth (= Kleine Pannonia-Reihe Nr. 68)
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=237
 |Originalseitenbis=240
 |Lemma=Höglwörth, ehem. Prälatur des ehem. Augustiner-Chorherrenstifts
@@ -6835,8 +6835,8 @@ LAUFEN
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=22
 |Originalseitenvon=241
 |Originalseitenbis=244
 |Lemma=Laufen, Michaelskapelle
@@ -6959,8 +6959,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=245
 |Originalseitenbis=256
 |Lemma=Maria Gern, Wallfahrtskirche Maria Gern
@@ -7221,8 +7221,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=5
 |Originalseitenvon=257
 |Originalseitenbis=262
 |Lemma=Ramsau bei Berchtesgaden, Wallfahrtskirche Mariä Himmelfahrt
@@ -7391,8 +7391,8 @@ A. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=263
 |Originalseitenbis=265
 |Lemma=Triebenbach, Schlosskapelle Maria Schnee
@@ -7490,8 +7490,8 @@ Langwider 1756
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=267
 |Originalseitenbis=287
 |Lemma=Altenburg, Wallfahrtskirche Maria vom Siege
@@ -7998,8 +7998,8 @@ DC
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=288
 |Originalseitenbis=299
 |Lemma=Anzing, ehem. Schlosskapelle Heilig Kreuz
@@ -8356,8 +8356,8 @@ hio 1990, S. 52.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=2
 |Originalseitenvon=300
 |Originalseitenbis=328
 |Lemma=Ebersberg, ehem. Augustiner-Chorherrenstift
@@ -9011,8 +9011,8 @@ Götz, Roland, Pfarrkirche St. Sebastian, Ebersberg, www.erzvistum-muenchen-und-
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=16
 |Originalseitenvon=329
 |Originalseitenbis=330
 |Lemma=Ebersberg, ehem. Augustiner-Chorherrenstift, Sebastianskapelle
@@ -9085,8 +9085,8 @@ B. S./C. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=17
 |Originalseitenvon=331
 |Originalseitenbis=336
 |Lemma=Emmering, Pfarrkirche St. Pankratius
@@ -9243,8 +9243,8 @@ FORSTINNING
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=20
 |Originalseitenvon=337
 |Originalseitenbis=342
 |Lemma=Fortsinning, Pfarrkirche Mariä Heimsuchung
@@ -9372,8 +9372,8 @@ Historischer Atlas I, Bd 48, Gericht Schwaben (Gottfried Mayr), München 1989, S
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=343
 |Originalseitenbis=346
 |Lemma=Frauenreuth, Filial- und Wallfahrtskirche Mariä Himmelfahrt
@@ -9533,8 +9533,8 @@ GELTING
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=25
 |Originalseitenvon=347
 |Originalseitenbis=353
 |Lemma=Gelting, Pfarrkirche Mariä Himmelfahrt
@@ -9707,8 +9707,8 @@ Dehio 1990, S. 357.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=4
 |Originalseitenvon=354
 |Originalseitenbis=363
 |Lemma=Grafing, Marktkirche Heiligste Dreifaltigkeit
@@ -9926,8 +9926,8 @@ Jocher, Norbert (Hg.), Alexander Heisig, Grafing, Markt-kirche zur Heiligsten Dr
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=9
 |Originalseitenvon=364
 |Originalseitenbis=370
 |Lemma=Landsham, Filialkirche St. Stephanus
@@ -10075,8 +10075,8 @@ OBERNDORF
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=12
 |Originalseitenvon=371
 |Originalseitenbis=378
 |Lemma=Oberndorf, Pfarrkuratiekirche St. Georg
@@ -10289,8 +10289,8 @@ B. S./C. B.
 
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=16
 |Originalseitenvon=379
 |Originalseitenbis=382
 |Lemma=Im 18. Jh. in den Landkreisen Traunstein, Berchtesgadener Land und Ebersberg tätige Maler
@@ -10479,8 +10479,8 @@ Vier Ausstattungen von Johann Baptist Zimmermann bzw. seiner Werkstatt sind im v
 {{End}}
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=18
 |Originalseitenvon=383
 |Originalseitenbis=383
 |Lemma=Ortsregister (Band 11)
@@ -10614,8 +10614,8 @@ Schedling/Trostberg, Schloßkapelle 129–32, 168 Schliersee 372 Schnaitsee <i>P
 {{End}}
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=20
 |Originalseitenvon=383
 |Originalseitenbis=390
 |Lemma=Personenregister (Band 11)
@@ -10747,8 +10747,8 @@ Stein, Georg, Kistler in Höslwang 133 Stein, Michael, Restaurator in Inzell 85,
 {{End}}
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=22
 |Originalseitenvon=391
 |Originalseitenbis=399
 |Lemma=Ikonographisches Register (Band 11)
@@ -11562,8 +11562,8 @@ Zacharias 42, 126, 177, 250, 342, 350, 359 Zackenkrone 61 → Benedikt 97 → Ma
 {{End}}
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=1
 |Originalseitenvon=400
 |Originalseitenbis=401
 |Lemma=Embleme-Register (Band 11)

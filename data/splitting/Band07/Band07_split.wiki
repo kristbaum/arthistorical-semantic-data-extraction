@@ -58,8 +58,8 @@ Die Drucklegung wurde von der Kreis- und Stadtsparkasse Erding und vom Landkreis
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=3
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Erinnerung an Hermann Bauer (Band 7)
@@ -94,8 +94,8 @@ BERNHARD RUPPRECHT
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=8
 |Originalseitenbis=9
 |Lemma=Vorwort Dank (Band 7)
@@ -626,8 +626,8 @@ Dehio 1990 Georg Dehio, Handbuch der Deutschen Kunstdenkmäler, Bayern IV: Münc
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=31
 |Lemma=Altenerding, Pfarrkirche  Mariä Verkündigung
@@ -874,8 +874,8 @@ Marienlexikon, Bd 3, S. 94f., s. v. Heigl (Gerhard Koschade). Historischer Atlas
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=18
 |Originalseitenvon=32
 |Originalseitenbis=39
 |Lemma=Amelgering, Filialkirche St. Lambert
@@ -1069,8 +1069,8 @@ Schmidtsche Matrikel, Bd 2, S. 150f. Mayer-Westermayer, Bd 3, S. 473. KDB I OB (
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=22
 |Originalseitenvon=40
 |Originalseitenbis=53
 |Lemma=Berglern, Pfarrkirche St. Peter und Paul
@@ -1489,8 +1489,8 @@ Brenninger, Georg, Die Kirchen der Pfarrei Berglern (Kirchenführer), Berglern 1
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=4
 |Originalseitenvon=54
 |Originalseitenbis=58
 |Lemma=Blainthal, Filialkirche St. Ulrich
@@ -1666,8 +1666,8 @@ Koschade, Gerhard, Kirchenausstattungen von Matthias Fackler (1721–1792) im Er
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=6
 |Originalseitenvon=59
 |Originalseitenbis=60
 |Lemma=Bockhorn, Sakristei der Pfarrkirche Mariä Heimsuchung
@@ -1734,8 +1734,8 @@ AEM, Pfarrakten Bockhorn, 144 0001 01: Pfarrbeschreibung mit Beschreibung des Pf
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=7
 |Originalseitenvon=61
 |Originalseitenbis=69
 |Lemma=Buch am Buchrain, Pfarrkirche St. Martin
@@ -1959,8 +1959,8 @@ Dehio 1990, S. 146
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=12
 |Originalseitenvon=70
 |Originalseitenbis=79
 |Lemma=Burgharting, Pfarrkirche St. Vitus
@@ -2259,8 +2259,8 @@ Schmidtsche Matrikel, Bd 2, S. 110. Mayer-Westermayer, Bd 3, S. 505-07. KDB I OB
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=80
 |Originalseitenbis=84
 |Lemma=Burgrain, Schlosskapelle St. Georg
@@ -2420,8 +2420,8 @@ Stadtpfarrkirche und Wallfahrtskirche Maria Dorfen, Stadt Dorfen, Erzdiözese M�
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=19
 |Originalseitenvon=85
 |Originalseitenbis=95
 |Lemma=Dorfen, Stadtpfarrkirche und Wallfahrtskirche Maria Dorfen
@@ -2680,8 +2680,8 @@ Koschade, Gerhard, Dorfener Gnadenbild vor einem Vierteljahrtausend in den Asama
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=25
 |Originalseitenvon=96
 |Originalseitenbis=98
 |Lemma=Dorfen, Marktkirche St. Vitus
@@ -2789,8 +2789,8 @@ Brenninger, Georg, Maria Dorfen (Neubearbeitung von KKF Nr. 65, <sup>1</sup>1934
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=1
 |Originalseitenvon=99
 |Originalseitenbis=103
 |Lemma=Eitting, Pfarrkirche St. Georg
@@ -2947,8 +2947,8 @@ Niedermayr, Hans, Eitting. Geschichte einer Landgemeinde, Eitting 1998, Die neue
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=4
 |Originalseitenvon=104
 |Originalseitenbis=106
 |Lemma=Eschlbach, Pfarrkirche Mariä Geburt
@@ -3055,8 +3055,8 @@ Bekh, Johannes, Dapsul von Rosenobel – und seine Kirchen. Nachforschungen im E
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=5
 |Originalseitenvon=107
 |Originalseitenbis=108
 |Lemma=Geislbach, Filialkirche St. Nikolaus
@@ -3135,8 +3135,8 @@ Landkreis Erding 1963, S. 326. Brenninger 1980, S. 133–35. Brenninger 1982, S.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=6
 |Originalseitenvon=109
 |Originalseitenbis=118
 |Lemma=Großköchlham, Filialkirche St. Valentin
@@ -3414,8 +3414,8 @@ StAM, LRA 147716: Restaurierung 1905. AEM, Pfarrakten Hofkirchen, Filiale Großk
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=119
 |Originalseitenbis=127
 |Lemma=Großwimpaßing, Filialkirche St. Jakobus der Ältere
@@ -3603,8 +3603,8 @@ A.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=16
 |Originalseitenvon=128
 |Originalseitenbis=129
 |Lemma=Grünbach, Filialkirche St. Andreas
@@ -3679,8 +3679,8 @@ Wening Bd 2, S. 12 mit Abbildung. Schmidtsche Matrikel, Bd 1, S. 520. Mayer-West
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=17
 |Originalseitenvon=130
 |Originalseitenbis=133
 |Lemma=Hecken, Filialkirche St. Margareta
@@ -3796,8 +3796,8 @@ Brenninger 1980, S. 135. Brenninger 1982, S. 112 f. Landkreis Erding 1985, S. 32
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=134
 |Originalseitenbis=145
 |Lemma=Heilig Blut bei Erding, Wallfahrtskirche
@@ -4142,8 +4142,8 @@ Karin Hösch, Erding. Die Kirchen der Pfarrei St. Johann (= Peda-Kunstführer, 4
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=25
 |Originalseitenvon=146
 |Originalseitenbis=153
 |Lemma=Hinterholzhausen, Filialkirche Hl. Kreuzauffindung
@@ -4371,8 +4371,8 @@ Dehio 1990, S. 430
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=154
 |Originalseitenbis=166
 |Lemma=Hohenpolding, Pfarrkirche Mariä Heimsuchung
@@ -4824,8 +4824,8 @@ A.B
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=10
 |Originalseitenvon=167
 |Originalseitenbis=168
 |Lemma=Hohenpolding, ehem. Friedhofskapelle
@@ -4944,8 +4944,8 @@ Brenninger 1982, S. 111.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=169
 |Originalseitenbis=177
 |Lemma=Isen, Pfarrkirche St. Zeno
@@ -5247,8 +5247,8 @@ Benker, Sigmund, Kloster, Stift und Pfarrei Isen in der Geschichte, in: Beiträg
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=178
 |Originalseitenbis=180
 |Lemma=Itzling, Filialkirche St. Vitus
@@ -5386,8 +5386,8 @@ Herzog, Elisabeth, Der Münchner Hofmaler Johann Degler (1667–1729), München 
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=181
 |Originalseitenbis=182
 |Lemma=Jaibing, Filialkirche Johannes der Täufer
@@ -5470,8 +5470,8 @@ Mayer-Westermayer, Bd 1, S. 214. Brenninger 1980, S. 135. Brenninger 1982, S. 11
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=183
 |Originalseitenbis=186
 |Lemma=Kirchberg, Filialkirche St. Peter und Paul
@@ -5602,8 +5602,8 @@ Schmidtsche Matrikel, Bd 2, S. 149. Mayer-Westermayer, Bd 3, S. 485. Landkreis E
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=20
 |Originalseitenvon=187
 |Originalseitenbis=187
 |Lemma=Landersdorf, Filialkirche St. Martin
@@ -5680,8 +5680,8 @@ Landkreis Erding 1985, S. 302.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=188
 |Originalseitenbis=194
 |Lemma=Langengeisling, Pfarrkirche St. Martin
@@ -5858,8 +5858,8 @@ LANGENGEISLING
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=24
 |Originalseitenvon=194
 |Originalseitenbis=200
 |Lemma=Langengeisling, Friedhofskapelle
@@ -6052,8 +6052,8 @@ Dehio 1990, S. 583. A. H
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=2
 |Originalseitenvon=201
 |Originalseitenbis=208
 |Lemma=Lengdorf, Pfarrkirche St. Petrus
@@ -6279,8 +6279,8 @@ Greimel, Angela, Bruderschaften in Lengdorf, in: Lengdorf 1090-1990. S. 295-302.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=6
 |Originalseitenvon=209
 |Originalseitenbis=224
 |Lemma=Maria Thalheim, Pfarrkuratie- und Wallfahrtskirche Mariä Himmelfahrt
@@ -6704,8 +6704,8 @@ A.B.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=15
 |Originalseitenvon=225
 |Originalseitenbis=230
 |Lemma=Niederding, Pfarrkirche St. Martin
@@ -6863,8 +6863,8 @@ Historischer Atlas I, Bd 58, Erding, (Susanne Margarethe Herleth-Krentz) 1997, S
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=231
 |Originalseitenbis=235
 |Lemma=Niederstraubing, Filialkirche St. Martin
@@ -7055,8 +7055,8 @@ C.]
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=236
 |Originalseitenbis=237
 |Lemma=Notzing, Filialkirche St. Nikolaus
@@ -7130,8 +7130,8 @@ Historischer Atlas I, Bd 58, Erding (Susanne Margarethe Herleth-Krentz), 1997, S
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=238
 |Originalseitenbis=244
 |Lemma=Oberbierbach, Filialkirche St. Martin
@@ -7352,8 +7352,8 @@ Pfarrkirche, Gemeinde Neuching, Erzdiözese München und Freising; z.Z. der Ausm
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=245
 |Originalseitenbis=253
 |Lemma=Oberneuching, Pfarrkirche St. Martin
@@ -7580,8 +7580,8 @@ A. F
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=254
 |Originalseitenbis=261
 |Lemma=Reichenkirchen, Pfarrkirche St. Michael
@@ -7794,8 +7794,8 @@ BLfD, Akt Reichenkirchen, St. Michael
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=262
 |Originalseitenbis=270
 |Lemma=Riding, Pfarrkirche St. Georg
@@ -8058,8 +8058,8 @@ Historischer Atlas I, Bd 58, Erding (Susanne Margarethe Herleth-Krentz) 1997, S.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=12
 |Originalseitenvon=271
 |Originalseitenbis=274
 |Lemma=Salmannskirchen, Filialkirche St. Oswald
@@ -8200,8 +8200,8 @@ AR
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=275
 |Originalseitenbis=280
 |Lemma=St. Wolfgang, Pfarr- und Wallfahrtskirche St. Wolfgang
@@ -8404,8 +8404,8 @@ A.B.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=17
 |Originalseitenvon=281
 |Originalseitenbis=283
 |Lemma=Schröding, Pfarrkirche St. Nikolaus
@@ -8478,8 +8478,8 @@ Schmidtsche Matrikel, Bd 2, S. 149f. Mayer-Westermayer, Bd 3, S. 486. Brenninger
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=284
 |Originalseitenbis=295
 |Lemma=Schwindkirchen, Pfarrkirche Mariä Himmelfahrt
@@ -8754,8 +8754,8 @@ Dehio 1990, S. 1103 f.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=25
 |Originalseitenvon=296
 |Originalseitenbis=301
 |Lemma=Tading, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
@@ -8939,8 +8939,8 @@ A. B.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=3
 |Originalseitenvon=302
 |Originalseitenbis=311
 |Lemma=Tegernbach, Filialkirche St. Petrus
@@ -9250,8 +9250,8 @@ Schmidtsche Matrikel, Bd 2, S. 154f. Mayer-Westermayer, Bd 1, S. 234. Landkreis 
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=8
 |Originalseitenvon=312
 |Originalseitenbis=315
 |Lemma=Walpertskirchen, Pfarrkirche St. Erhard
@@ -9364,8 +9364,8 @@ Gemeindechronik von Walpertskirchen (mit Beitrag von Anton Gandl), 1999.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=316
 |Originalseitenbis=327
 |Lemma=Wörth, Pfarrkirche St. Petrus
@@ -9640,8 +9640,8 @@ Dehio 1990, S. 1294.
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=15
 |Originalseitenvon=328
 |Originalseitenbis=328
 |Lemma=Bildnachweis (Band 7)
@@ -9664,8 +9664,8 @@ Gregor Peda, Passau (S. 257) Konrad Rainer, Salzburg (S. 298) Dieter Reichler, M
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=16
 |Originalseitenvon=329
 |Originalseitenbis=329
 |Lemma=Ortsregister (Band 7)
@@ -9733,8 +9733,8 @@ Zell 178
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=17
 |Originalseitenvon=330
 |Originalseitenbis=332
 |Lemma=Personenregister (Band 7)
@@ -10072,8 +10072,8 @@ Zwingli, Ulrich, Reformator 304
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=18
 |Originalseitenvon=333
 |Originalseitenbis=341
 |Lemma=Ikonographisches Register (Band 7)
@@ -12124,8 +12124,8 @@ Erweckung des Sohns eines mildtätigen Mannes 173f. verschafft einem Toten Zeit 
 
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=342
 |Originalseitenbis=344
 |Lemma=Embleme-Register (Band 7)

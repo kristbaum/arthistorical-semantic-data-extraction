@@ -57,8 +57,8 @@ Das Corpus der barocken Deckenmalerei in Deutschland ist mit Unterstützung der 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Danksagung (Band 1)
@@ -684,8 +684,8 @@ Zitiert sind die jeweils benutzten Ausgaben und Auflagen
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=21
 |Lemma=Adelshausen (Weil), Kapelle St. Martin
@@ -796,8 +796,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=12
 |Originalseitenvon=22
 |Originalseitenbis=22
 |Lemma=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist
@@ -890,8 +890,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=13
 |Originalseitenvon=23
 |Originalseitenbis=24
 |Lemma=Beuerbach (Weil), Kapelle im Holz Maria Eich
@@ -959,8 +959,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=25
 |Originalseitenbis=27
 |Lemma=Beuern, Pfarrkirche St. Michael
@@ -1068,8 +1068,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=16
 |Originalseitenvon=28
 |Originalseitenbis=29
 |Lemma=Bischofsried, Maria-Schnee-Kapelle
@@ -1141,8 +1141,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=17
 |Originalseitenvon=30
 |Originalseitenbis=36
 |Lemma=Denklingen, Pfarrkirche St. Michael
@@ -1322,8 +1322,8 @@ In ikonographischer Hinsicht ist die Michaelsfigur höchst ungewöhnlich. Da sie
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=37
 |Originalseitenbis=37
 |Lemma=Dienhausen, Kapelle St. Magnus
@@ -1391,8 +1391,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=21
 |Originalseitenvon=38
 |Originalseitenbis=47
 |Lemma=Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt
@@ -1625,8 +1625,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=1
 |Originalseitenvon=48
 |Originalseitenbis=53
 |Lemma=Eching a. Ammersee, Pfarrkirche St. Peter und Paul
@@ -1816,8 +1816,8 @@ Clementschitsch, Heide, Christian Wink 1738–97, ungedr. Diss. Wien 1968, Bd 1,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=4
 |Originalseitenvon=54
 |Originalseitenbis=62
 |Lemma=Egling a. d. Paar, Pfarrkirche St. Vitus
@@ -1986,8 +1986,8 @@ Clementschitsch, Heide, Christian Wink 1738–97, ungedr Diss. Wien 1968. S. 71.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=8
 |Originalseitenvon=62
 |Originalseitenbis=63
 |Lemma=Egling a. d. Paar, Kapelle St. Ulrich
@@ -2062,8 +2062,8 @@ Müller-Hahl, Bernhard, (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=65
 |Lemma=Ellighofen, Filialkirche St. Stephan
@@ -2177,8 +2177,8 @@ Ab
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=10
 |Originalseitenvon=66
 |Originalseitenbis=73
 |Lemma=Eresing, Pfarrkirche St. Ulrich
@@ -2349,8 +2349,8 @@ Neu, Wilhelm, Die Rechnungen der Pfarrkirche St. Ulrich in Eresing (1646–1804)
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=14
 |Originalseitenvon=74
 |Originalseitenbis=76
 |Lemma=Erpfting, Kapelle Maria-Eich
@@ -2451,8 +2451,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader ungedr. Diss. München 19
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=15
 |Originalseitenvon=76
 |Originalseitenbis=77
 |Lemma=Erpfting, Pfarrhof im ehem. kath. Pfarrhaus
@@ -2520,8 +2520,8 @@ Steichele-Schröder, Bd 8 (1932), S. 177, 184.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=16
 |Originalseitenvon=78
 |Originalseitenbis=81
 |Lemma=Geltendorf, Pfarrkirche St. Stephan
@@ -2625,8 +2625,8 @@ Hotmann, Sigfrid, Ein bisher unbekanntes Fresko von Matthäus Günther in der Pf
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=82
 |Originalseitenbis=85
 |Lemma=Greifenberg, Schlosskapelle St. Georg
@@ -2728,8 +2728,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=86
 |Originalseitenbis=86
 |Lemma=Hagenheim, Filialkirche Unsere Liebe Frau
@@ -2836,8 +2836,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=87
 |Originalseitenbis=90
 |Lemma=Hausen bei Geltendorf, Pfarrkirche St. Nikolaus
@@ -2958,8 +2958,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=91
 |Originalseitenbis=94
 |Lemma=Hechenwang, Filialkirche St. Martin
@@ -3112,8 +3112,8 @@ HEINRICHSHOFEN
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=95
 |Originalseitenbis=100
 |Lemma=Heinrichshofen, Filialkirche St. Andreas
@@ -3346,8 +3346,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und<br>Landkreis Landsberg am Le
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=2
 |Originalseitenvon=101
 |Originalseitenbis=101
 |Lemma=Holzhausen (a. Ammersee), Filialkirche St. Ulrich
@@ -3413,8 +3413,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=3
 |Originalseitenvon=102
 |Originalseitenbis=104
 |Lemma=Holzhausen bei Buchloe, Pfarrkirche St. Johann Baptist und Johann Evangelist
@@ -3557,8 +3557,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=4
 |Originalseitenvon=105
 |Originalseitenbis=108
 |Lemma=Hurlach, Pfarrkirche St. Laurentius
@@ -3697,8 +3697,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=6
 |Originalseitenvon=109
 |Originalseitenbis=113
 |Lemma=Issing, Pfarrkirche St. Margareta
@@ -3878,8 +3878,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=9
 |Originalseitenvon=114
 |Originalseitenbis=117
 |Lemma=Jedelstetten, Kapelle St. Nikolaus
@@ -3987,8 +3987,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=118
 |Originalseitenbis=120
 |Lemma=Kaufering, Pfarrkirche St. Johannes Baptist
@@ -4085,8 +4085,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=12
 |Originalseitenvon=120
 |Originalseitenbis=125
 |Lemma=Kaufering, Kapelle St. Leonhard
@@ -4231,8 +4231,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=15
 |Originalseitenvon=126
 |Originalseitenbis=132
 |Lemma=Landsberg am Lech, Stadtpfarrkirche Mariä Himmelfahrt
@@ -4436,8 +4436,8 @@ Schmidt, Hermann und Hugo Schnell, Stadtpfarrkirche Landsberg am Lech (= KKF 88)
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=132
 |Originalseitenbis=140
 |Lemma=Landsberg am Lech, Heilig-Kreuz-Kirche
@@ -4636,8 +4636,8 @@ Literatur siehe S. 142
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=22
 |Originalseitenvon=140
 |Originalseitenbis=141
 |Lemma=Landsberg am Lech, Sakristei der ehem. Jesuitenkollegienkirche
@@ -4692,8 +4692,8 @@ Literatur siehe S. 14
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=23
 |Originalseitenvon=142
 |Originalseitenbis=143
 |Lemma=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche
@@ -4767,8 +4767,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=144
 |Originalseitenbis=155
 |Lemma=Landsberg am Lech, ehem. Ursulinenkloster
@@ -5039,8 +5039,8 @@ ANGELA MERICI Im Oratorium der Ursulinen wird die Ordensgründerin Angela Merici
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=155
 |Originalseitenbis=156
 |Lemma=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus
@@ -5112,8 +5112,8 @@ Schnell, Hugo, Die Landsberger Dominikanerinnenkirche. Das letzte Werk Dominikus
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=5
 |Originalseitenvon=157
 |Originalseitenbis=158
 |Lemma=Landsberg am Lech, ehem. St. Leonhardskapelle
@@ -5187,8 +5187,8 @@ Das Bildprogramm der ehem. Kapelle ist dem Patron St. Leonhard gewidmet, neben d
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=6
 |Originalseitenvon=158
 |Originalseitenbis=161
 |Lemma=Landsberg am Lech, Filialkirche St. Johannes
@@ -5283,8 +5283,8 @@ Hitchcock, Henry-Russel, German Rococo: The Zimmermann Brothers, London 1968, S.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=163
 |Lemma=Leeder, Pfarrkirche Mariä Verkündigung
@@ -5378,8 +5378,8 @@ Breuer, Tilman, Stadt und Landkreis Kaufbeuren (= Kurz inventar der Bayerischen 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=9
 |Originalseitenvon=164
 |Originalseitenbis=166
 |Lemma=Lengenfeld, Filialkirche St. Nikolaus
@@ -5511,8 +5511,8 @@ Neu, Wilhelm, Beiträge zum Werk Münchener Hofmaurermeister in der 2. Hälfte d
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=10
 |Originalseitenvon=167
 |Originalseitenbis=168
 |Lemma=Oberdießen, Pfarrkirche St. Rupert
@@ -5590,8 +5590,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=169
 |Originalseitenbis=171
 |Lemma=Oberigling, Pfarrkirche St. Peter und Paul
@@ -5687,8 +5687,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=172
 |Originalseitenbis=177
 |Lemma=Obermeitingen, Pfarrkirche St. Mauritius
@@ -5870,8 +5870,8 @@ Müller-Hahl, Bernhard, Ortsgeschichte von Obermeitingen (= Unsere Heimat am Lec
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=15
 |Originalseitenvon=178
 |Originalseitenbis=178
 |Lemma=Obermühlhausen, Filialkirche St. Peter und Paul
@@ -5932,8 +5932,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=179
 |Originalseitenbis=179
 |Lemma=Penzing, Pfarrkirche St. Matrin
@@ -5988,8 +5988,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg, Aßling
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=180
 |Originalseitenbis=183
 |Lemma=Petzenhausen, Pfarrkirche St. Peter und Paul
@@ -6111,8 +6111,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=184
 |Originalseitenbis=188
 |Lemma=Pflugdorf, Filialkirche St. Laurentius
@@ -6252,8 +6252,8 @@ Literatur s. S. 188
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=20
 |Originalseitenvon=188
 |Originalseitenbis=188
 |Lemma=Pflugdorf, Filialkirche St. Laurentius, Sakristei
@@ -6319,8 +6319,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=189
 |Originalseitenbis=190
 |Lemma=Pöring, Schlosskirche St. Maria von der Versöhnung
@@ -6433,8 +6433,8 @@ Hitchcock, Henry-Russel, German Rococo: The Zimmermann Brothers, London 1968, S.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=198
 |Lemma=Prittriching, Pfarrkirche St. Peter und Paul
@@ -6678,8 +6678,8 @@ Merk, Anton, Johann Anwander (1715-70), ein schwäbischer Maler des Rokoko, unge
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=1
 |Originalseitenvon=199
 |Originalseitenbis=201
 |Lemma=Reichling, Pfarrkirche St. Nikolaus
@@ -6775,8 +6775,8 @@ Neu, Wilhelm, Beiträge zum Werk Münchener Hofmalermeister der 2. Hälfte des 1
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=1
 |Originalseitenvon=202
 |Originalseitenbis=204
 |Lemma=Reisch, Filialkirche Mariä Himmelfahrt
@@ -6868,8 +6868,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=205
 |Originalseitenbis=207
 |Lemma=Romenthal, Kapelle St. Anna
@@ -6992,8 +6992,8 @@ Kraut, Alfred, Aus der Geschichte der Schwaige Romenthal, in: Lechisarland 1960,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=6
 |Originalseitenvon=208
 |Originalseitenbis=211
 |Lemma=Rott, Pfarrkirche St. Johannes Baptist
@@ -7093,8 +7093,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=212
 |Originalseitenbis=215
 |Lemma=St. Georgen, Filialkirche St. Georg
@@ -7221,8 +7221,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=216
 |Originalseitenbis=216
 |Lemma=St. Georgen, ehem. Prälatenwohnhaus des Augustinerchorherrenstiftes Dießen
@@ -7270,8 +7270,8 @@ Die Darstellung der Divina Providentia hatte ihren ikonologisch sinnvollen Darst
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=10
 |Originalseitenvon=217
 |Originalseitenbis=219
 |Lemma=St. Ottilien bei Rott, Kapelle St. Ottilie
@@ -7373,8 +7373,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=12
 |Originalseitenvon=220
 |Originalseitenbis=223
 |Lemma=Scheuring, Pfarrkirche St. Martin
@@ -7503,8 +7503,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=224
 |Originalseitenbis=228
 |Lemma=Schwabhausen, Pfarrkirche Heilig Kreuz
@@ -7663,8 +7663,8 @@ Die Pfarreien und ihre Vorstände – Schwabhausen (o. V.), in: Landsberger Gesc
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=229
 |Originalseitenbis=229
 |Lemma=Schwabhausen, Kapelle St. Leonhard
@@ -7735,8 +7735,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=230
 |Originalseitenbis=230
 |Lemma=Schwabstadl, Kapelle St. Johannes
@@ -7786,8 +7786,8 @@ Steichele-Schröder, Bd 8 (1932), S. 455. Müller-Hahl, Bernhard (Hg.), Heimatbu
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=231
 |Originalseitenbis=231
 |Lemma=Stadl, Pfarrkirche St. Johann Baptist
@@ -7853,8 +7853,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=232
 |Originalseitenbis=233
 |Lemma=Stoffen, Pfarrkirche Mariä Heimsuchung
@@ -7950,8 +7950,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=234
 |Originalseitenbis=239
 |Lemma=Thaining, Pfarrkirche St. Martin
@@ -8147,8 +8147,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=240
 |Originalseitenbis=240
 |Lemma=Unterbeuern, Kapelle St. Magnus
@@ -8208,8 +8208,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=22
 |Originalseitenvon=241
 |Originalseitenbis=246
 |Lemma=Unterdießen, Pfarrkirche St. Nikolaus
@@ -8422,8 +8422,8 @@ Fried, Pankraz und Sebastian Hiereth, Landgerichte<br>Landsberg und Schongau (= 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=25
 |Originalseitenvon=247
 |Originalseitenbis=247
 |Lemma=Unterfinning, Pfarrkirche Zur Schmerzhaften Muttergottes
@@ -8485,8 +8485,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=248
 |Originalseitenbis=251
 |Lemma=Unterigling, Pfarrkirche St. Johann Baptist
@@ -8594,8 +8594,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=252
 |Originalseitenbis=253
 |Lemma=Untermühlhausen, Pfarrkirche St. Benedikt
@@ -8672,8 +8672,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=254
 |Originalseitenbis=254
 |Lemma=Utting, Filial- und Wallfahrtskirche St. Leonhard
@@ -8746,8 +8746,8 @@ Wallfahrtskirche Wirtshaus S. 263
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=255
 |Originalseitenbis=263
 |Lemma=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes
@@ -9067,8 +9067,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=263
 |Originalseitenbis=265
 |Lemma=Vilgertshofen, Wirtshaus
@@ -9142,8 +9142,8 @@ Weitere Literatur siehe S 269
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=266
 |Originalseitenbis=273
 |Lemma=Walleshausen, Pfarrkirche Mariä Himmelfahrt
@@ -9396,8 +9396,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=274
 |Originalseitenbis=274
 |Lemma=Walleshausen, Pfarrkirche Mariä Himmelfahrt
@@ -9463,8 +9463,8 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=275
 |Originalseitenbis=279
 |Lemma=Weil, Pfarrkirche St. Mauritius
@@ -9617,8 +9617,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=17
 |Originalseitenvon=280
 |Originalseitenbis=281
 |Lemma=Welden, Filialkirche St. Stephan
@@ -9705,8 +9705,8 @@ Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=18
 |Originalseitenvon=282
 |Originalseitenbis=287
 |Lemma=Winkl, Pfarrkirche St. Peter und Paul
@@ -9854,8 +9854,8 @@ LANDKREIS STARNBERG
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=289
 |Originalseitenbis=289
 |Lemma=Andechs, Ehem. Benediktinerabtei
@@ -9883,8 +9883,8 @@ Literatur S. 316
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=289
 |Originalseitenbis=299
 |Lemma=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche
@@ -10188,8 +10188,8 @@ Literatur siehe S. 316
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=2
 |Originalseitenvon=300
 |Originalseitenbis=302
 |Lemma=Andechs, Ehem. Benediktinerabtei, Törringkapelle
@@ -10276,8 +10276,8 @@ Deutsche Barockgalerie (Städtische Kunstsammlungen Augsburg – Bayerische Staa
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=3
 |Originalseitenvon=303
 |Originalseitenbis=303
 |Lemma=Andechs, Ehem. Benediktinerabtei, Josephskapelle
@@ -10341,8 +10341,8 @@ Literatur siehe S. 316
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=3
 |Originalseitenvon=304
 |Originalseitenbis=304
 |Lemma=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
@@ -10407,15 +10407,15 @@ Literatur siehe S. 310
 {{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=4
 |Originalseitenvon=305
 |Originalseitenbis=305
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
-|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
+|danach=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10463,18 +10463,18 @@ Literatur siehe S. 316
 <!-- header: ANDECHS -->
 
 <!-- header: ANDECH -->
-
+{{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=306
 |Originalseitenbis=307
 |Lemma=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -10568,14 +10568,14 @@ W<sub>1</sub>
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=308
 |Originalseitenbis=309
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|davor=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
 |danach=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
@@ -10630,8 +10630,8 @@ Literatur siehe S. 311 und 316
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=6
 |Originalseitenvon=309
 |Originalseitenbis=311
 |Lemma=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
@@ -10725,8 +10725,8 @@ Leonore Berghoff, Emanuele Tesauro und seine Concetti. Unter besonderer Berücks
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=8
 |Originalseitenvon=312
 |Originalseitenbis=316
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
@@ -10927,8 +10927,8 @@ Ausstellungskatalog, Der Schatz vom heiligen Berg Andechs. Bayerisches Nationalm
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=317
 |Originalseitenbis=318
 |Lemma=Aschering, Filialkirche St. Sebastian
@@ -11020,8 +11020,8 @@ druckte Diss. München 1972.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=11
 |Originalseitenvon=319
 |Originalseitenbis=321
 |Lemma=Diemendorf, Filialkirche St. Margareta
@@ -11188,8 +11188,8 @@ Gailler, Franz, Vindeliciae Sacrae Tomi 3 . . . Capitului Weilheimense, Augsburg
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=13
 |Originalseitenvon=322
 |Originalseitenbis=325
 |Lemma=Grünsink, Filial- und Wallfahrtskirche Mariahilf
@@ -11304,8 +11304,8 @@ Warncke, Fritz, Maria in der »Grünen Senke«, in: Bayerische Heimat, Sonntagsb
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=13
 |Originalseitenvon=326
 |Originalseitenbis=326
 |Lemma=Hadorf, Filialkirche St. Johann Baptist
@@ -11364,8 +11364,8 @@ Thieme-Becker, Bd 13, S. 133 (s. v. Galrapp).
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=15
 |Originalseitenvon=327
 |Originalseitenbis=331
 |Lemma=Inning a. Ammersee, Pfarrkirche St. Johann Baptist
@@ -11491,8 +11491,8 @@ Clementschitsch, Heide, Christian Wink, ungedruckte Diss. Wien 1968, S. 29–36,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=18
 |Originalseitenvon=332
 |Originalseitenbis=334
 |Lemma=Kempfenhausen, Schlosskapelle St. Anna
@@ -11586,8 +11586,8 @@ Feulner, Adolf, Christian Wink, München 1912, S. 28 f. Clementschitsch, Heide, 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=19
 |Originalseitenvon=335
 |Originalseitenbis=336
 |Lemma=Landstetten, Filialkirche St. Jakobus d. Ä.
@@ -11687,8 +11687,8 @@ Fuchs, Adolf, Johann Baptist Baader, der Lechhansl Kaufbeuren 1959, S. 32.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=20
 |Originalseitenvon=337
 |Originalseitenbis=337
 |Lemma=Leutstetten, Filialkirche St. Alto
@@ -11738,8 +11738,8 @@ Albrecht, Dieter, Das Landgericht Starnberg (Historische Atlas, Teil 1, Heft 3),
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=21
 |Originalseitenvon=338
 |Originalseitenbis=340
 |Lemma=Perchting, Pfarrkirche Mariä Heimsuchung
@@ -11836,8 +11836,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=22
 |Originalseitenvon=341
 |Originalseitenbis=341
 |Lemma=Perchting, Kalvarienberg
@@ -11885,8 +11885,8 @@ Literatur siehe S. 340
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=342
 |Originalseitenbis=343
 |Lemma=Schlagenhofen, Filialkirche St. Michael
@@ -11994,8 +11994,8 @@ Braun-Augsburg, Bd 1, S. 364
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=24
 |Originalseitenvon=344
 |Originalseitenbis=346
 |Lemma=Seefeld, Schlosskapelle St. Johann Baptist
@@ -12094,8 +12094,8 @@ Thieme-Becker, Bd 26, S. 86, s. v. Ott, Josef Mathias. Albrecht, Dieter, Das Lan
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=25
 |Originalseitenvon=347
 |Originalseitenbis=351
 |Lemma=Starnberg, Alte Pfarrkirche St. Joseph
@@ -12281,8 +12281,8 @@ Clementschitsch, Heide, Christian Wink, ungedruckte Diss. Wien 1968, S. 19 ff.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=3
 |Originalseitenvon=352
 |Originalseitenbis=354
 |Lemma=Steinebach, Filialkirche St. Martin
@@ -12408,8 +12408,8 @@ Graf, Matthias, Geschichte der Pfarrei Oberalting, München 1902, S. 88 ff.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=4
 |Originalseitenvon=355
 |Originalseitenbis=357
 |Lemma=Unering, Filialkirche St. Martin
@@ -12529,8 +12529,8 @@ Eismann, Josef, Unerings Kirche - ein Werk Johann Michael Fischers, in: 80 Jahre
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=6
 |Originalseitenvon=358
 |Originalseitenbis=359
 |Lemma=Unterbrunn, Pfarrkirche St. Laurentius
@@ -12598,8 +12598,8 @@ Braun-Augsburg, Bd 1, S. 369. KDB I OB (1), S. 909. Thieme-Becker, Bd 16, S. 269
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=7
 |Originalseitenvon=360
 |Originalseitenbis=361
 |Lemma=Wangen, Expositurkirche St. Ulrich
@@ -12679,8 +12679,8 @@ Mayer-Westermayer, Bd 3, S. 615, 618. Albrecht, Dieter, Das Landgericht Starnber
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=8
 |Originalseitenvon=362
 |Originalseitenbis=363
 |Lemma=Widdersberg, Filialkirche St. Michael
@@ -12778,8 +12778,8 @@ LANDKREIS WEILHEIM-SCHONGAU
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=10
 |Originalseitenvon=367
 |Originalseitenbis=372
 |Lemma=Aich, Wallfahrtskirche Maria Aich
@@ -12936,8 +12936,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=13
 |Originalseitenvon=373
 |Originalseitenbis=375
 |Lemma=Antdorf, Kirnbergkapelle
@@ -13045,8 +13045,8 @@ Gailler, Franciscus Salesius, Vindeliciae Sacrae Tomi 3... Capitulum Weilheimens
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=15
 |Originalseitenvon=376
 |Originalseitenbis=377
 |Lemma=Arnried, Filialkirche St. Hilaria und Afra
@@ -13158,8 +13158,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1962, S. 34.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=16
 |Originalseitenvon=378
 |Originalseitenbis=380
 |Lemma=Bauerbach, Filialkirche St. Leonhard
@@ -13291,8 +13291,8 @@ BERNBEUREN
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=17
 |Originalseitenvon=381
 |Originalseitenbis=387
 |Lemma=Bernbeuren, Pfarrkirche St. Nikolaus
@@ -13429,8 +13429,8 @@ Literatur siehe S. 392
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=20
 |Originalseitenvon=387
 |Originalseitenbis=392
 |Lemma=Bernbeuren, Kapelle Mariä Heimsuchung
@@ -13607,8 +13607,8 @@ Pfarrkirche Kapelle St. Anna S. 397
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=23
 |Originalseitenvon=393
 |Originalseitenbis=396
 |Lemma=Burggen, Pfarrkiche St. Stephan
@@ -13732,8 +13732,8 @@ Literatur siehe S. 402
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=25
 |Originalseitenvon=397
 |Originalseitenbis=402
 |Lemma=Burggen, Kapelle St. Anna
@@ -13874,8 +13874,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=3
 |Originalseitenvon=403
 |Originalseitenbis=403
 |Lemma=Deutenhausen, Filialkirche St. Johann Baptist
@@ -13929,8 +13929,8 @@ Gailler, Franciscus Salesius, Vindeliciae Sacrae Tomi 3 . . . Capitulum Weilheim
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=3
 |Originalseitenvon=404
 |Originalseitenbis=406
 |Lemma=Haunshofen, Pfarrkirche St. Gallus
@@ -14025,8 +14025,8 @@ Auf Geheiß des Heiligen trug er Feuerholz herbei. Der Bär wurde zum Attribut d
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=5
 |Originalseitenvon=407
 |Originalseitenbis=409
 |Lemma=Hohenfurch, Pfarrkirche Mariä Himmelfahrt
@@ -14146,8 +14146,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=7
 |Originalseitenvon=410
 |Originalseitenbis=414
 |Lemma=Hohenpeißenberg, Gnadenkapelle der Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
@@ -14296,8 +14296,8 @@ Pfarrkirche Heuwinklkapelle S. 419
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=9
 |Originalseitenvon=415
 |Originalseitenbis=418
 |Lemma=Iffeldorf, Pfarrkirche Hll. Vitus und Margareta
@@ -14408,8 +14408,8 @@ Literatur siehe S. 421
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=11
 |Originalseitenvon=419
 |Originalseitenbis=421
 |Lemma=Iffeldorf, Heuwinklkapelle
@@ -14565,8 +14565,8 @@ Photographische Aufnahmen von A. Scheler, Bad Oberdorf, Allgäu
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=13
 |Originalseitenvon=422
 |Originalseitenbis=425
 |Lemma=Kirchberg, Pfarrkirche St. Jakobus Major
@@ -14673,8 +14673,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=15
 |Originalseitenvon=426
 |Originalseitenbis=427
 |Lemma=Kienberg, Kapelle St. Michael
@@ -14755,8 +14755,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=16
 |Originalseitenvon=428
 |Originalseitenbis=432
 |Lemma=Kreuzberg, Kapelle Hl. Kreuz
@@ -14891,8 +14891,8 @@ Pfarrkirche, Gemeinde und Pfarrei Eglfing, Diözese Augsburg; z. Z. der Ausmalun
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=18
 |Originalseitenvon=433
 |Originalseitenbis=436
 |Lemma=Obereglfing, Pfarrkirche St. Mauritius
@@ -15057,8 +15057,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 34
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=20
 |Originalseitenvon=437
 |Originalseitenbis=438
 |Lemma=Oberhausen, Filialkirche St. Mauritius
@@ -15153,8 +15153,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 21964, S. 40.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=21
 |Originalseitenvon=439
 |Originalseitenbis=441
 |Lemma=Obersöchering, Pfarrkirche St. Peter und Paul
@@ -15247,8 +15247,8 @@ Literatur siehe S. 443
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=23
 |Originalseitenvon=442
 |Originalseitenbis=443
 |Lemma=Obersöchering, Pfarrkirche St. Maria
@@ -15336,8 +15336,8 @@ Mauthe, Willi, Pfaffenwinkel, Weilheim 1964, S. 41
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=24
 |Originalseitenvon=444
 |Originalseitenbis=445
 |Lemma=Oderding, Filialkirche St. Martin
@@ -15432,8 +15432,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1962, S. 43.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=25
 |Originalseitenvon=446
 |Originalseitenbis=449
 |Lemma=Pähl, Pfarrkirche St. Laurentius
@@ -15559,8 +15559,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=25
 |Originalseitenvon=450
 |Originalseitenbis=450
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Stiftkirche
@@ -15624,8 +15624,8 @@ Nach oben erscheint der Raum durch die helle Glorie geöffnet; dadurch und durch
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=3
 |Originalseitenvon=451
 |Originalseitenbis=455
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Reliquienkapelle
@@ -15737,8 +15737,8 @@ D<sub>2</sub> RECIPIT ET TUETUR. – Ein Adler kreist über einer Henne, welche 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=5
 |Originalseitenvon=456
 |Originalseitenbis=458
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Prälatenkapelle
@@ -15825,8 +15825,8 @@ Literatur siehe S. 469
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=6
 |Originalseitenvon=459
 |Originalseitenbis=467
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Bibliothek
@@ -16056,8 +16056,8 @@ Weitere Literatur siehe S. 469
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=11
 |Originalseitenvon=468
 |Originalseitenbis=469
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Saal
@@ -16181,8 +16181,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=12
 |Originalseitenvon=470
 |Originalseitenbis=471
 |Lemma=Prem, Pfarrkirche St. Michael
@@ -16257,8 +16257,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (H
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=13
 |Originalseitenvon=472
 |Originalseitenbis=474
 |Lemma=Raisting, Pfarrkirche St. Remigius
@@ -16361,8 +16361,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 21964, S. 42. Clementschitsch, Heide,
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=14
 |Originalseitenvon=475
 |Originalseitenbis=475
 |Lemma=Reisgang, Kapelle Mariä Heimsuchung
@@ -16426,8 +16426,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=15
 |Originalseitenvon=476
 |Originalseitenbis=501
 |Lemma=Rottenbuch, Pfarrkirche Mariä Geburt
@@ -16991,8 +16991,8 @@ Augustinus, Aurelius, Confessiones — Bekenntnisse, lateinisch und deutsch, ein
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=3
 |Originalseitenvon=502
 |Originalseitenbis=505
 |Lemma=Sachsenried, Pfarrkirche St. Martin
@@ -17111,8 +17111,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=5
 |Originalseitenvon=506
 |Originalseitenbis=507
 |Lemma=St. Johannisrain, Filialkirche St. Johannes Baptist und Evangelist
@@ -17221,8 +17221,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 42. Mindera, Karl, Benediktb
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=6
 |Originalseitenvon=508
 |Originalseitenbis=512
 |Lemma=St. Leonhard i. Forst, Pfarr- und Wallfahrtskirche St. Leonhard
@@ -17374,8 +17374,8 @@ Neu, Wilhelm, Unbekannte Frühwerke des Baumeisters Joseph Schmuzer, in: Lechisa
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=8
 |Originalseitenvon=513
 |Originalseitenbis=516
 |Lemma=St. Nikolaus, Kapelle St. Nikolaus
@@ -17515,8 +17515,8 @@ Stadtpfarrkirche Kreuzkapelle S. 521
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=10
 |Originalseitenvon=517
 |Originalseitenbis=522
 |Lemma=Schongau, Stadtpfarrkirche Mariä Himmelfahrt
@@ -17640,8 +17640,8 @@ Literatur siehe S. 524
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=13
 |Originalseitenvon=523
 |Originalseitenbis=524
 |Lemma=Schongau, Kapelle Hl. Kreuz
@@ -17726,8 +17726,8 @@ Neu, Wilhelm, Beiträge zum Werk Münchener Hofmaurermeister der 2. Hälfte des 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=14
 |Originalseitenvon=525
 |Originalseitenbis=529
 |Lemma=Schwabbruck, Pfarrkirche St. Salvator
@@ -17879,8 +17879,8 @@ Braun-Augsburg, Bd 1, 5, 102. KDB I OB (1), S. 604. Thieme-Becker, Bd 18 (1925),
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=17
 |Originalseitenvon=530
 |Originalseitenbis=531
 |Lemma=Sindelsdorf, Pfarrkirche St. Georg
@@ -17971,8 +17971,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 45.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=18
 |Originalseitenvon=532
 |Originalseitenbis=542
 |Lemma=Steingaden, ehem. Prämonstratenserabteikirche Johannes der Täufer
@@ -18297,8 +18297,8 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=23
 |Originalseitenvon=543
 |Originalseitenbis=544
 |Lemma=Tannenberg, Pfarrkirche St. Oswald
@@ -18388,8 +18388,8 @@ Neu, Wilhelm, Der Schongauer Stadtmaurermeister Matthias Left, ein Vertreter des
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=24
 |Originalseitenvon=545
 |Originalseitenbis=547
 |Lemma=Tannenberg, Kapelle St. Joseph
@@ -18506,8 +18506,8 @@ Literatur siehe S. 547
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=25
 |Originalseitenvon=548
 |Originalseitenbis=548
 |Lemma=Untereglfing, Filialkirche Mariä Himmelfahrt
@@ -18568,8 +18568,8 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 34.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=1
 |Originalseitenvon=
 |Originalseitenbis=
 |Lemma=Unterhausen, Pfarr- und Wallfahrtskirche Unsere Liebe Frau
@@ -18719,8 +18719,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=3
 |Originalseitenvon=553
 |Originalseitenbis=560
 |Lemma=Weilheim, Stadtpfarrkirche Mariä Himmelfahrt
@@ -18923,8 +18923,8 @@ Mauthe, Willi, Kirchen und Kapellen in Weilheim, Weilheim 1953, S. 3.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=7
 |Originalseitenvon=560
 |Originalseitenbis=562
 |Lemma=Weilheim, Leichenhaus
@@ -19015,8 +19015,8 @@ Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Kata
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=8
 |Originalseitenvon=563
 |Originalseitenbis=566
 |Lemma=Weilheim, Pfarrkirche St. Pölten
@@ -19177,8 +19177,8 @@ Literatur S. 599
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=10
 |Originalseitenvon=567
 |Originalseitenbis=569
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Benediktussaal im Gästetrakt
@@ -19271,8 +19271,8 @@ Literatur siehe S. 599
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=12
 |Originalseitenvon=570
 |Originalseitenbis=572
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Zimmer im Gästetrakt
@@ -19378,8 +19378,8 @@ Literatur siehe S. 599
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=13
 |Originalseitenvon=573
 |Originalseitenbis=573
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Magdalenenzimmer
@@ -19429,8 +19429,8 @@ Literatur siehe S. 599
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=13
 |Originalseitenvon=574
 |Originalseitenbis=574
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Stiegenhaus
@@ -19487,8 +19487,8 @@ Literatur siehe S 599
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=14
 |Originalseitenvon=
 |Originalseitenbis=
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang
@@ -19914,8 +19914,8 @@ Kemp, Cornelia, Die Embleme des Klosters Wessobrunn und ihre Vorlage. Ein Beitra
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=22
 |Originalseitenvon=590
 |Originalseitenbis=594
 |Lemma=Wessobrunn, Pfarrkirche St. Johann Baptist
@@ -20065,8 +20065,8 @@ Literatur siehe S. 599
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=24
 |Originalseitenvon=595
 |Originalseitenbis=597
 |Lemma=Wessobrunn, Kreuzbergkapelle Hl. Kreuz
@@ -20147,8 +20147,8 @@ Literatur siehe S 599
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=25
 |Originalseitenvon=597
 |Originalseitenbis=599
 |Lemma=Wessobrunn, Gasthaus zur Post
@@ -20260,8 +20260,8 @@ Kemp, Cornelia, Die Embleme des Klosters Wessobrunn und ihre Vorlage. Ein Beitra
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=2
 |Originalseitenvon=600
 |Originalseitenbis=601
 |Lemma=Wies bei Steingaden, Wieskapelle
@@ -20339,8 +20339,8 @@ Literatur siehe S. 623
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=3
 |Originalseitenvon=602
 |Originalseitenbis=623
 |Lemma=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
@@ -20838,13 +20838,13 @@ Lieb, Norbert, Barockkirchen zwischen Donau und Alpen München (1953) 31969, S. 
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=14
 |Originalseitenvon=625
 |Originalseitenbis=626
 |Lemma=Ortsregister (Band 1)
 |davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
-|danach=Ikonographisches Register (Band 1)
+|danach=Personenregister (Band 1)
 }}
 
 == Ortsregister ==
@@ -21085,15 +21085,15 @@ Wörth, Hofmark 342
 Wörthsee → Steinebach  
 Würzburg 78, 560  
 
-
+{{End}}
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=15
 |Originalseitenvon=627
 |Originalseitenbis=629
 |Lemma=Personenregister (Band 1)
-|davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|davor=Ortsregister (Band 1)
 |danach=Ikonographisches Register (Band 1)
 }}
 
@@ -21483,12 +21483,12 @@ Zwinck, Johann Joseph, Maler 513-16
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=17
 |Originalseitenvon=630
 |Originalseitenbis=641
 |Lemma=Ikonographisches Register (Band 1)
-|davor=Ortsregister (Band 1)
+|davor=Personenregister (Band 1)
 |danach=Embleme-Register (Band 1)
 }}
 
@@ -21831,8 +21831,8 @@ Patronatsdarstellung 127 f.
 
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=23
 |Originalseitenvon=642
 |Originalseitenbis=645
 |Lemma=Embleme-Register (Band 1)

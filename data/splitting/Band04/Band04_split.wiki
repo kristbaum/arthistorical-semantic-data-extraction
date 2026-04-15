@@ -95,8 +95,8 @@ Die Drucklegung wurde vom Ernst von Siemens-Kunstfonds unterstutzt
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=5
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 4)
@@ -883,8 +883,8 @@ Notizen über bayerische Künstler, beso
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=20
 |Lemma=Adelshofen, Kuratiekirche St. Michael
@@ -953,8 +953,8 @@ C.B.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=12
 |Originalseitenvon=21
 |Originalseitenbis=23
 |Lemma=Aich, Kuratiekirche St. Peter und Paul
@@ -1068,8 +1068,8 @@ Heimatbuch Fürstenfeldbruck 1992, S. 584. C. B
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=24
 |Originalseitenbis=25
 |Lemma=Aufkirchen, Pfarrkirche St. Georg
@@ -1134,8 +1134,8 @@ Mayer-Westermayer, Bd 1, S. 253–56. KDB I (OB) Bd 1, S. 448. Heimatbuch Fürst
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=15
 |Originalseitenvon=26
 |Originalseitenbis=28
 |Lemma=Biburg, Filialkirche Mariä Geburt
@@ -1229,8 +1229,8 @@ Schmidtsche Matrikel, Bd 2, S. 301. Mayer-Westermayer, Bd 1, S. 259. Heimatbuch 
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=16
 |Originalseitenvon=29
 |Originalseitenbis=32
 |Lemma=Dünzelbach, Pfarrkirche St. Nikolaus
@@ -1347,8 +1347,8 @@ Dehio 1990, S. 198.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=18
 |Originalseitenvon=33
 |Originalseitenbis=38
 |Lemma=Eismerszell, Filialkirche St. Georg
@@ -1510,8 +1510,8 @@ Dehio 1990, S. 242 f.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=21
 |Originalseitenvon=39
 |Originalseitenbis=41
 |Lemma=Esting, Ehem. Benefiziatenhaus
@@ -1612,8 +1612,8 @@ AR
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=42
 |Originalseitenbis=57
 |Lemma=Fürstenfeldbruck, Stadtpfarrkirche St. Magdalena
@@ -1953,8 +1953,8 @@ Klemenz, Birgitta, Ausstattung und frühere Restaurierungen der Pfarrkirche St. 
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=6
 |Originalseitenvon=58
 |Originalseitenbis=103
 |Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
@@ -2741,8 +2741,8 @@ Emporen über den Kapellen im Langhaus (Jacopo Appiani) ED<sub>1-10</sub> ZEHN G
 {{End}}
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=4
 |Originalseitenvon=104
 |Originalseitenbis=112
 |Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Sommersakristei
@@ -3026,8 +3026,8 @@ A. B./B. H./H.W.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=8
 |Originalseitenvon=113
 |Originalseitenbis=133
 |Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Klostergebäude
@@ -3472,8 +3472,8 @@ Wollenberg, Klaus, Zum Ruhme von Kloster und Kurfürst Max Emanuel. Die Asamfres
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=134
 |Originalseitenbis=139
 |Lemma=Geiselbullach, Kapelle St. Johannes
@@ -3633,8 +3633,8 @@ Altmann, Lothar, Neue Forschungsergebnisse zur Malerfamilie Schöpf, in: Amperla
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=22
 |Originalseitenvon=140
 |Originalseitenbis=148
 |Lemma=Grafrath, Wallfahrts- und Klosterkirche St. Rasso
@@ -3844,8 +3844,8 @@ Kat. Johann Michael Fischer (1692-1766), hg. von Gabriele Dischinger und Franz P
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=1
 |Originalseitenvon=149
 |Originalseitenbis=161
 |Lemma=Grunertshofen, Pfarrkirche St. Laurentius
@@ -4161,8 +4161,8 @@ B. 3
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=165
 |Lemma=Günzlhofen, Pfarrkirche St. Margareta
@@ -4290,8 +4290,8 @@ B. S.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=10
 |Originalseitenvon=166
 |Originalseitenbis=167
 |Lemma=Hanshofen, Filialkirche St. Katharina
@@ -4399,8 +4399,8 @@ Schmidtsche Matrikel, Bd 2, S. 257. Mayer-Westermayer, Bd 1, S. 297. Heimatbuch 
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=168
 |Originalseitenbis=169
 |Lemma=Hohenzell, Filialkirche Mariä Heimsuchung
@@ -4471,8 +4471,8 @@ C. B
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=12
 |Originalseitenvon=170
 |Originalseitenbis=171
 |Lemma=Holzhausen, Filialkirche Inventio Crucis
@@ -4548,8 +4548,8 @@ C. B
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=172
 |Originalseitenbis=174
 |Lemma=Jesenwang, Pestkapelle Maria Trost
@@ -4643,8 +4643,8 @@ Dehio 1990, S. 511.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=175
 |Originalseitenbis=184
 |Lemma=Kottgeisering, Pfarrkirche Hl. Valentin von Terni
@@ -4841,8 +4841,8 @@ Machilek, Franz, Der Niederkirchenbesitz des Zisterzienserklosters Fürstenfeld,
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=185
 |Originalseitenbis=189
 |Lemma=Luttenwang, Filialkirche Mariä Himmelfahrt
@@ -4989,8 +4989,8 @@ Dehio 1990, S. 607 f. B. S.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=190
 |Originalseitenbis=192
 |Lemma=Maisach, Pfarrkirche St. Vitus
@@ -5127,8 +5127,8 @@ B.S.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=23
 |Originalseitenvon=193
 |Originalseitenbis=198
 |Lemma=Mammendorf, Pfarrkirche St. Jakobus Maior
@@ -5308,8 +5308,8 @@ Dehio 1990, S. 613.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=1
 |Originalseitenvon=199
 |Originalseitenbis=213
 |Lemma=Moorenweis, Pfarrkirche St. Sixtus
@@ -5618,8 +5618,8 @@ Festschrift zum Weihejubiläum der Pfarrkirche St. Sixtus Moorenweis. Hg. Kath. 
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=217
 |Lemma=Oberweikertshofen, Pfarrkirche St. Johannes der Täufer
@@ -5745,8 +5745,8 @@ Dehio 1990, S. 929. B. S
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=11
 |Originalseitenvon=218
 |Originalseitenbis=222
 |Lemma=Poigern, Filialkirche St. Nikolaus
@@ -5869,8 +5869,8 @@ Paula, Georg, Nachträge zum Leben und Werk des Malers Johann Georg Dieffenbrunn
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=223
 |Originalseitenbis=238
 |Lemma=Puch, Wallfahrtskirche St. Sebastian
@@ -6241,8 +6241,8 @@ Wirth, Karl-August, Religiöse Herzemblematik, in: Das Herz, Bd 2, Biberach an d
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=239
 |Originalseitenbis=242
 |Lemma=Rammertshofen, Filialkirche Inventio Crucis
@@ -6353,8 +6353,8 @@ Schmidtsche Matrikel, Bd 2, S. 269 f. Mayer-Westermayer, Bd 1, S. 255. KDB I (OB
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=242
 |Originalseitenbis=246
 |Lemma=Tegernbach, Filialkirche St. Stephan
@@ -6456,8 +6456,8 @@ B. S.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=25
 |Originalseitenvon=247
 |Originalseitenbis=258
 |Lemma=Türkenfeld, Pfarrkirche Mariä Himmelfahrt
@@ -6742,8 +6742,8 @@ Müller, Mechthild, ›In hoc vince‹. Schlachtendarstellungen an süddeutschen
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=6
 |Originalseitenvon=259
 |Originalseitenbis=263
 |Lemma=Unterschweinbach, Filialkirche Mariä Himmelfahrt
@@ -6871,8 +6871,8 @@ Literatur zu Johann Nepomuk von Schöpf s. S. 139.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=264
 |Originalseitenbis=265
 |Lemma=Vogach, Filialkirche St. Johann Baptist
@@ -6934,8 +6934,8 @@ C. B
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=266
 |Originalseitenbis=267
 |Lemma=Windach, Filialkirche St. Johannes der Täufer
@@ -7036,8 +7036,8 @@ Dehio, 1990, S. 1290.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=11
 |Originalseitenvon=268
 |Originalseitenbis=273
 |Lemma=Zankenhausen, Pfarrkirche St. Johannes der Täufer
@@ -7160,8 +7160,8 @@ Dehio 1990, S. 1301 f.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=274
 |Originalseitenbis=279
 |Lemma=Zell, Kapelle St. Sebastian
@@ -7362,8 +7362,8 @@ DC
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=17
 |Originalseitenvon=280
 |Originalseitenbis=281
 |Lemma=Zellhof, Kapelle St. Vitus
@@ -7477,8 +7477,8 @@ AR
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=18
 |Originalseitenvon=282
 |Originalseitenbis=284
 |Lemma=Ortsregister (Band 4)
@@ -7586,8 +7586,8 @@ Zellhof 128, 280-81
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=284
 |Originalseitenbis=286
 |Lemma=Personenregister (Band 4)
@@ -7898,8 +7898,8 @@ Zöpf, Thassilo, Stukkator 33, 42, 44, 199 f.
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=20
 |Originalseitenvon=287
 |Originalseitenbis=290
 |Lemma=Ikonographisches Register (Band 4)
@@ -8212,8 +8212,8 @@ Zodiakus 229 im Zeichen der Zwillinge 78, 80, 82
 
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=290
 |Originalseitenbis=291
 |Lemma=Embleme-Register (Band 4)

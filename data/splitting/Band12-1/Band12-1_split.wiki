@@ -126,8 +126,8 @@ Wir danken der Umwelt-, Kultur- und Sozialstiftung im Landkreis Rosenheim und de
 <!-- citation-page-bottom: Band12 p5 -->
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 12-I)
@@ -802,8 +802,8 @@ Eduard Zimmermann, Bayerische Klosterheraldik. Die Wappen der Äbte und Pröpste
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=10
 |Originalseitenvon=17
 |Originalseitenbis=18
 |Lemma=Aising, Filialkirche St. Stephanus
@@ -873,8 +873,8 @@ AEM, Pfarrakten Pang, Pfarrbeschreibung; Bauten II: Restaurierung 1933; Filiale 
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=30
 |Lemma=Albaching, Pfarrkirche St. Nikolaus
@@ -1141,8 +1141,8 @@ Wiegerling, Erwin und Alexander Heisig, St. Nikolaus in Albaching, in: RENOVAVIT
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=17
 |Originalseitenvon=31
 |Originalseitenbis=38
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Klosterkirche
@@ -1348,8 +1348,8 @@ Stauffert, Thomas K., Das Kloster Altenhohenau zwischen Säkularisation und Wied
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=21
 |Originalseitenvon=39
 |Originalseitenbis=50
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Nonnenchor
@@ -1605,8 +1605,8 @@ Schricker, Elisabeth, Joseph Eder und Jacob Carnutsch. Ein Beitrag zur Barockmal
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=2
 |Originalseitenvon=51
 |Originalseitenbis=55
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Anna- oder Kolumbakapelle
@@ -1723,8 +1723,8 @@ Quellen und Literatur s.S. 39
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=5
 |Originalseitenvon=56
 |Originalseitenbis=60
 |Lemma=Antwort, Filial- und Wallfahrtskirche Mariä Himmelfahrt
@@ -1861,8 +1861,8 @@ Zur Geschichte: Gründung des Benediktinerklosters 1038 durch Graf Arnold von An
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=7
 |Originalseitenvon=61
 |Originalseitenbis=64
 |Lemma=Attel am Inn, ehem. Benediktinerabtei
@@ -1985,8 +1985,8 @@ Schnell, Hugo, Attel am Inn (= KKF Nr. 13, 1934), Regensburg ›2005, S. 4 und 6
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=65
 |Originalseitenbis=70
 |Lemma=Au bei Bad Aibling, Wallfahrtskapelle sog. Taxakapelle
@@ -2158,8 +2158,8 @@ Stadtpfarrkirche Mariä Himmelfahrt Sebastians- oder Marktkirche S. 8
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=12
 |Originalseitenvon=71
 |Originalseitenbis=81
 |Lemma=Bad Aibling, Pfarrkirche Mariä Himmelfahrt
@@ -2387,8 +2387,8 @@ Johann Michael Fischer 1692–1766, Bd II (Hg. Gabriele Dischinger), Tübingen-B
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=81
 |Originalseitenbis=85
 |Lemma=Bad Aibling, Marktkirche St. Sebastian
@@ -2511,8 +2511,8 @@ A.B.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=86
 |Originalseitenbis=89
 |Lemma=Baierbach, Filialkirche St. Magdalena
@@ -2660,8 +2660,8 @@ Mayer-Westermayer, Bd II, S. 787. KDB I OB (2), S. 1773 f. Bomhard, Bd 1, S. 236
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=90
 |Originalseitenbis=101
 |Lemma=Berbling, Pfarrkirche Inventio Crucis
@@ -2926,8 +2926,8 @@ Mayr, Gottfried, Die politische Geschichte ... von der ersten urkundlichen Erwä
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=3
 |Originalseitenvon=102
 |Originalseitenbis=112
 |Lemma=Beyharting, ehem. Augustiner-Chorherrenstift
@@ -3206,8 +3206,8 @@ Heisig, Alexander und Norbert Jocher, Beyharting – Frühling des Rokoko. Ein w
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=8
 |Originalseitenvon=113
 |Originalseitenbis=118
 |Lemma=Beyharting, ehem. Augustiner-Chorherrenstift, Sakristei
@@ -3367,8 +3367,8 @@ Quellen und Literatur s. S. 112. Abb. in: Beyharting 2005, S. 108 Nr. 25.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=119
 |Originalseitenbis=121
 |Lemma=Beyharting, ehem. Augustiner-Chorherrenstift, ehem. Kapitelsaal
@@ -3443,8 +3443,8 @@ Weppelmann, Franz Josef, Im Kloster: Kreuzgang, Taverne, Kapitelsaal, in: Beyhar
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=122
 |Originalseitenbis=123
 |Lemma=Dettendorf, Filialkirche St. Nikolaus
@@ -3525,8 +3525,8 @@ Schmidtsche Matrikel Bd 2, S. 232 f. Mayer-Westermayer Bd 3, S. 226, 246–49. K
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=14
 |Originalseitenvon=124
 |Originalseitenbis=130
 |Lemma=Ellmosen, Filialkirche St. Margareta
@@ -3742,8 +3742,8 @@ o.V., St. Margareta Ellmosen, Kirchenführer, Bad Aibling A. B.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=17
 |Originalseitenvon=131
 |Originalseitenbis=138
 |Lemma=Evenhausen, Pfarrkirche St. Petrus
@@ -3967,8 +3967,8 @@ A. B.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=21
 |Originalseitenvon=139
 |Originalseitenbis=146
 |Lemma=Flintsbach am Inn, Pfarrkirche St. Martin
@@ -4145,8 +4145,8 @@ A. B./K. S
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=25
 |Originalseitenvon=147
 |Originalseitenbis=153
 |Lemma=Frasdorf, Pfarrkirche St. Margareta
@@ -4323,8 +4323,8 @@ Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit, S. 56. Wörndl, Rupert, Kirch
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=154
 |Originalseitenbis=155
 |Lemma=Frauenchiemsee, Benediktinerinnenabtei
@@ -4441,8 +4441,8 @@ W. S: HIERONI/MVS. Man sieht im obersten Bildteil (der Rest ist von Grabplatten 
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=5
 |Originalseitenvon=156
 |Originalseitenbis=161
 |Lemma=Frauenchiemsee, Benediktinerinnenabtei, Maria-Mitleid-Kapelle
@@ -4615,8 +4615,8 @@ Kaiser, Alfred, DEI PARARAE AETERNI REGIS FILIAE. Zur Ikonologie der Benediktine
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=169
 |Lemma=Götting, Pfarrkirche St. Michael
@@ -4857,8 +4857,8 @@ o.V. (Thomas Gruber), Ein Haus voll Glorie. Pfarrkirche St. Michael in Götting 
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=12
 |Originalseitenvon=170
 |Originalseitenbis=171
 |Lemma=Greimharting, Filialkirche St. Peter und Paul
@@ -4949,8 +4949,8 @@ Dehio 1990, S. 373.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=172
 |Originalseitenbis=174
 |Lemma=Griesstädt, Pfarrkirche St. Johannes der Täufer
@@ -5046,8 +5046,8 @@ Knorr, Helmut, Ingeborg Mende und Alexander Heisig, St. Johann Baptist in Griess
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=175
 |Originalseitenbis=182
 |Lemma=Großholzhausen, Pfarrkirche St. Georg
@@ -5295,8 +5295,8 @@ Rochow, Evelin von, Großholzhausen St. Georg (Kirchenführer), Lindenberg <sup>
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=183
 |Originalseitenbis=186
 |Lemma=Heilig Blut am Wasen, Pfarrkirche Heiligste Dreifaltigkeit
@@ -5409,8 +5409,8 @@ O. V. (Benno Biehler, Hg. Pfarramt Heilig Blut), Die Kirchen der Pfarrei Rosenhe
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=20
 |Originalseitenvon=187
 |Originalseitenbis=190
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift
@@ -5495,8 +5495,8 @@ Aufhebung des Stifts 1803. Die Insel mit allen **Gebäuden** wurde versteigert u
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=199
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche
@@ -5804,8 +5804,8 @@ Zeitenwende – Säkularisation Herrenchiemsee 1802/03, Ausstellungskatalag, Pri
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=2
 |Originalseitenvon=200
 |Originalseitenbis=210
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Marienkirche
@@ -6048,8 +6048,8 @@ Weichslgartner, Alois J. und Elisabeth Ettelt, Herrenchiemsee (= Kleine Pannonia
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=7
 |Originalseitenvon=211
 |Originalseitenbis=225
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, sog. Kaiser- oder Fürstensaal
@@ -6356,8 +6356,8 @@ W<sub>1</sub> Sergius Galba
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=15
 |Originalseitenvon=226
 |Originalseitenbis=233
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Garten- oder Fürstenzimmer
@@ -6541,8 +6541,8 @@ A. B./K. S.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=234
 |Originalseitenbis=241
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
@@ -6724,8 +6724,8 @@ Weichslgartner, Alois J. und Elisabeth Ettelt, Herrenchiemsee (= Kleine Pannonia
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=23
 |Originalseitenvon=242
 |Originalseitenbis=243
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Sommerrefektorium
@@ -6794,8 +6794,8 @@ Bomhard, Bd 3, S. 87, 99–101 und Anm. 431 und 447. A. B.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=244
 |Originalseitenbis=252
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Seekapelle
@@ -7034,8 +7034,8 @@ Weichslgartner, Alois J. und Elisabeth Ettelt, Herrenchiemsee (= Kleine Pannonia
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=253
 |Originalseitenbis=258
 |Lemma=Hilperting, Filialkirche St. Leonhard
@@ -7217,8 +7217,8 @@ HIRNSBERG
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=6
 |Originalseitenvon=259
 |Originalseitenbis=262
 |Lemma=Hirnsberg, Pfarrkuratiekirche Mariä Himmelfahrt
@@ -7330,8 +7330,8 @@ Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit (= Quellen und Darstellungen z
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=263
 |Originalseitenbis=267
 |Lemma=Högling, Filialkirche St. Martin
@@ -7465,8 +7465,8 @@ A. B.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=11
 |Originalseitenvon=268
 |Originalseitenbis=271
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau
@@ -7528,8 +7528,8 @@ Nach zweimaligem Besitzerwechsel kam Schloß Hohenaschau 1875 in den Besitz der 
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=12
 |Originalseitenvon=272
 |Originalseitenbis=281
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Schloßkapelle
@@ -7816,8 +7816,8 @@ Wörndl, Rupert, Kirchengeschichtliches aus dem Priental. Die Pfarreien Aschau u
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=18
 |Originalseitenvon=282
 |Originalseitenbis=286
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Ehemalige Zimmer des Grafen oder Gastzimmer
@@ -7964,8 +7964,8 @@ Bomhard, Bd 2, S. 363 f., 389 f. Chronik von Aschau Bd XII, Ksoll-Marcon S. 142.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=20
 |Originalseitenvon=287
 |Originalseitenbis=290
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Zimmer der Gräfin
@@ -8114,8 +8114,8 @@ Bomhard, Bd 2, S. 390 f.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=22
 |Originalseitenvon=291
 |Originalseitenbis=293
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Eckzimmer
@@ -8222,8 +8222,8 @@ Eine Frau in rotem Gewand mit antikischen Stiefeln, eine Perlenkette um den Hals
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=23
 |Originalseitenvon=294
 |Originalseitenbis=295
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Vestibül
@@ -8269,8 +8269,8 @@ Im Vordergrund einer öden Landschaft wälzt sich der junge Benedikt fast nackt 
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=24
 |Originalseitenvon=295
 |Originalseitenbis=301
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Lauberstube
@@ -8443,8 +8443,8 @@ Chronik von Aschau Bd IX, Maud Jahn S. 137f.
 
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=2
 |Originalseitenvon=302
 |Originalseitenbis=303
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Treppenhaus
