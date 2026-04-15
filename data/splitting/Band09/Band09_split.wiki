@@ -6681,7 +6681,7 @@ C.B.
 |Typ=Sakral
 |Ort=Wald an der Alz
 |davor=Tüssling, Schloss
-|danach=Im 18. JH. im Berich des Landkreises Altötting tätige Maler
+|danach=Im 18. Jh. im Bereich des Landkreises Altötting tätige Maler
 |AutorIn1=Böhm, Cordula
 }}
 
@@ -6861,7 +6861,7 @@ C. B
 |Chunkseite=
 |Originalseitenvon=242
 |Originalseitenbis=245
-|Lemma=Im 18. JH. im Berich des Landkreises Altötting tätige Maler
+|Lemma=Im 18. Jh. im Bereich des Landkreises Altötting tätige Maler
 |davor=Wald an der Alz, Pfarrkirche St. Erasmus
 |danach=Ortsregister (Band 9)
 }}
@@ -7014,7 +7014,7 @@ In Margarethenberg (1752/53) rühmt die Abtschronik die Fresken Zimmermanns. Auc
 |Originalseitenvon=246
 |Originalseitenbis=248
 |Lemma=Ortsregister (Band 9)
-|davor=Im 18. JH. im Berich des Landkreises Altötting tätige Maler
+|davor=Im 18. Jh. im Bereich des Landkreises Altötting tätige Maler
 |danach=Personenregister (Band 9)
 }}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=24 -->

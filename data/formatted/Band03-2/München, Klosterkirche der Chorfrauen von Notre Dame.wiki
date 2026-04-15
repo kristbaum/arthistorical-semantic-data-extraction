@@ -7,8 +7,8 @@
 |Lemma=München, Klosterkirche der Chorfrauen von Notre Dame
 |Typ=Sakral
 |Ort=München
-|davor=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
-|danach=Oberschleißheim, Altes Schloss Schleißheim
+|davor=München, Schloss Nymphenburg, Drei ehemalige Kabinette im Hauptschloß
+|danach=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
 |AutorIn1=Bauer-Wild, Anna
 }}
 

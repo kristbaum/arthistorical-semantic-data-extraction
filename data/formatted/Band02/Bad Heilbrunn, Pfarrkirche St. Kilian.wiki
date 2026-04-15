@@ -7,7 +7,7 @@
 |Lemma=Bad Heilbrunn, Pfarrkirche St. Kilian
 |Typ=Sakral
 |Ort=Bad Heilbrunn
-|davor=Danksagung (Band 2)
+|davor=Aufhofen, Filialkirche St. Valentin
 |danach=Bad Tölz, Wallfahrtskirche Maria Hilf
 |AutorIn1=Bachter, Falk
 |AutorIn2=Bauer-Wild, Anna

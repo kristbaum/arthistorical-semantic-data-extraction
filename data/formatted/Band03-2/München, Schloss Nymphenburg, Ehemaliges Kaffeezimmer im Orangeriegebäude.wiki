@@ -7,8 +7,8 @@
 |Lemma=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
 |Typ=Profan
 |Ort=München
-|davor=München, Schloss Nymphenburg, Drei ehemalige Kabinette im Hauptschloß
-|danach=München, Klosterkirche der Chorfrauen von Notre Dame
+|davor=München, Klosterkirche der Chorfrauen von Notre Dame
+|danach=Oberschleißheim, Altes Schloss Schleißheim
 |AutorIn1=Bauer-Wild, Anna
 }}
 

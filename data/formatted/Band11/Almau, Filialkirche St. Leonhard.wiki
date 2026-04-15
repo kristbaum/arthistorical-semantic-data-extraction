@@ -7,7 +7,7 @@
 |Lemma=Almau, Filialkirche St. Leonhard
 |Typ=Sakral
 |Ort=Almau
-|davor=Vorwort (Band 10)
+|davor=Vorwort (Band 11)
 |danach=Baumburg, Ehem. Augustiner-Chorherrenstift, Ehem. Stiftskirche
 |AutorIn1=Bauer-Wild, Anna
 }}

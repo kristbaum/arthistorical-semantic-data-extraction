@@ -7,7 +7,7 @@
 |Lemma=Aufhofen, Filialkirche St. Valentin
 |Typ=Sakral
 |Ort=Aufhofen
-|davor=
+|davor=Danksagung (Band 2)
 |danach=Bad Heilbrunn, Pfarrkirche St. Kilian
 |AutorIn1=Bachter, Falk
 |AutorIn2=Bauer-Wild, Anna

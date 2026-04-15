@@ -5,7 +5,7 @@
 |Originalseitenvon=246
 |Originalseitenbis=248
 |Lemma=Ortsregister (Band 9)
-|davor=Im 18. JH. im Berich des Landkreises Altötting tätige Maler
+|davor=Im 18. Jh. im Bereich des Landkreises Altötting tätige Maler
 |danach=Personenregister (Band 9)
 }}
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=24 -->
