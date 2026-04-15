@@ -5,6 +5,7 @@
 |Originalseitenvon=313
 |Originalseitenbis=327
 |Lemma=Waidhofen, Pfarrkirche Mariä Reinigung
+|Meta=
 |Typ=Sakral
 |Ort=Waidhofen
 |davor=Unterhausen, Pfarrkirche St. Pankratius

@@ -5,6 +5,7 @@
 |Originalseitenvon=306
 |Originalseitenbis=307
 |Lemma=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum

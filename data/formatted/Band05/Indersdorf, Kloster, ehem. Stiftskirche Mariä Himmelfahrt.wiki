@@ -5,6 +5,7 @@
 |Originalseitenvon=98
 |Originalseitenbis=131
 |Lemma=Indersdorf, Kloster, ehem. Stiftskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Indersdorf
 |davor=Kleinberghofen, Pfarrkirche St. Martin

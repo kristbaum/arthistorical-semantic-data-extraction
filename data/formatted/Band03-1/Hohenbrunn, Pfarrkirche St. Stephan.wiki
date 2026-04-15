@@ -5,6 +5,7 @@
 |Originalseitenvon=127
 |Originalseitenbis=130
 |Lemma=Hohenbrunn, Pfarrkirche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=Hohenbrunn
 |davor=Hofolding, Kuratiekirche Heilig Kreuz

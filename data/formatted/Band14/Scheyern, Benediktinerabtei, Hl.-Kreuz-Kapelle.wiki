@@ -5,6 +5,7 @@
 |Originalseitenvon=251
 |Originalseitenbis=257
 |Lemma=Scheyern, Benediktinerabtei, Hl.-Kreuz-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Scheyern
 |davor=Scheyern, Benediktinerabtei

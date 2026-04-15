@@ -5,6 +5,7 @@
 |Originalseitenvon=205
 |Originalseitenbis=222
 |Lemma=Gosseltshausen, Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Gosseltshausen
 |davor=Geisenfeld, Pfarrkirche Mariä Himmelfahrt und St. Zeno

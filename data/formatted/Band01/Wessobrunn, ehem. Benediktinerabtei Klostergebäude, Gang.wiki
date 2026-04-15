@@ -5,6 +5,7 @@
 |Originalseitenvon=
 |Originalseitenbis=
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang
+|Meta=
 |Typ=Sakral
 |Ort=Wessobrunn
 |davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Stiegenhaus

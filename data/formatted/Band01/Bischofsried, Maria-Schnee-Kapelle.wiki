@@ -5,6 +5,7 @@
 |Originalseitenvon=28
 |Originalseitenbis=29
 |Lemma=Bischofsried, Maria-Schnee-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Bischofsried
 |davor=Beuern, Pfarrkirche St. Michael

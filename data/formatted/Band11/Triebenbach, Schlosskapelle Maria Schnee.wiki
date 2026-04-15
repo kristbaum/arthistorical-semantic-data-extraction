@@ -5,6 +5,7 @@
 |Originalseitenvon=263
 |Originalseitenbis=265
 |Lemma=Triebenbach, Schlosskapelle Maria Schnee
+|Meta=
 |Typ=Sakral
 |Ort=Triebenbach
 |davor=Ramsau bei Berchtesgaden, Wallfahrtskirche Mariä Himmelfahrt

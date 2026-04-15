@@ -5,6 +5,7 @@
 |Originalseitenvon=209
 |Originalseitenbis=213
 |Lemma=München, ehem. Kloster der Elisabethinerinnen
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Bürgersaal

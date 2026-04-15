@@ -5,6 +5,7 @@
 |Originalseitenvon=267
 |Originalseitenbis=267
 |Lemma=München, Kapelle im ehem. Kloster am Lilienberg
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Kirche und Kloster des ehem. Pütrich-Regel-Hauses

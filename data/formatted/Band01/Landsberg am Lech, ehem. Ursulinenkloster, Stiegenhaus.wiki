@@ -5,6 +5,7 @@
 |Originalseitenvon=155
 |Originalseitenbis=156
 |Lemma=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus
+|Meta=
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, ehem. Ursulinenkloster

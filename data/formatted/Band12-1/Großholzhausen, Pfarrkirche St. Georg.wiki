@@ -5,6 +5,7 @@
 |Originalseitenvon=175
 |Originalseitenbis=182
 |Lemma=Großholzhausen, Pfarrkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Großholzhausen
 |davor=Griesstädt, Pfarrkirche St. Johannes der Täufer

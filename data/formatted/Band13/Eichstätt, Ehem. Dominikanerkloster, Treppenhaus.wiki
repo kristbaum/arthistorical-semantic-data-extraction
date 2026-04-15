@@ -5,6 +5,7 @@
 |Originalseitenvon=118
 |Originalseitenbis=122
 |Lemma=Eichstätt, Ehem. Dominikanerkloster, Treppenhaus
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Dominikanerkloster

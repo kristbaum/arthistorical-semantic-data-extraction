@@ -5,6 +5,7 @@
 |Originalseitenvon=492
 |Originalseitenbis=493
 |Lemma=Strasskirchen, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Strasskirchen
 |davor=Schweinsteig, Kapelle

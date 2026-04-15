@@ -5,6 +5,7 @@
 |Originalseitenvon=148
 |Originalseitenbis=150
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Niedergottsau, Expositurkirche Mariä Himmelfahrt

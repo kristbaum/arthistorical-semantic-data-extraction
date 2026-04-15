@@ -5,6 +5,7 @@
 |Originalseitenvon=172
 |Originalseitenbis=174
 |Lemma=Griesstädt, Pfarrkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Griesstädt
 |davor=Greimharting, Filialkirche St. Peter und Paul

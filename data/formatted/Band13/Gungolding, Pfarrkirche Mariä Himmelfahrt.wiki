@@ -5,6 +5,7 @@
 |Originalseitenvon=256
 |Originalseitenbis=261
 |Lemma=Gungolding, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Gungolding
 |davor=Großmehring, Alte Pfarrkirche Mariä Geburt

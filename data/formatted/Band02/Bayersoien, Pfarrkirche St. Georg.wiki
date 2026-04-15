@@ -5,6 +5,7 @@
 |Originalseitenvon=273
 |Originalseitenbis=274
 |Lemma=Bayersoien, Pfarrkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Bayersoien
 |davor=Bad Kohlgrub, Votivkapelle St. Rochus

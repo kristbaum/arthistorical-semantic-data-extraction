@@ -5,6 +5,7 @@
 |Originalseitenvon=94
 |Originalseitenbis=95
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal

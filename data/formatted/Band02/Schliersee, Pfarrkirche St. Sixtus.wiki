@@ -5,6 +5,7 @@
 |Originalseitenvon=555
 |Originalseitenbis=559
 |Lemma=Schliersee, Pfarrkirche St. Sixtus
+|Meta=
 |Typ=Sakral
 |Ort=Schliersee
 |davor=Reichersdorf, Filialkirche St. Leonhard

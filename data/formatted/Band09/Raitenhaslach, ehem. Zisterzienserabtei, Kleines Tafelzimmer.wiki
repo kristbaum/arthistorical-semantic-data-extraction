@@ -5,6 +5,7 @@
 |Originalseitenvon=185
 |Originalseitenbis=190
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Gästewohnung Treppenhaus

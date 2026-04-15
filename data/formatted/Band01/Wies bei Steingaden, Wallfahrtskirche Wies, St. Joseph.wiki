@@ -5,6 +5,7 @@
 |Originalseitenvon=602
 |Originalseitenbis=623
 |Lemma=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|Meta=
 |Typ=Sakral
 |Ort=Wies bei Steingaden
 |davor=Wies bei Steingaden, Wieskapelle

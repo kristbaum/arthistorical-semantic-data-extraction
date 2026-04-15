@@ -5,6 +5,7 @@
 |Originalseitenvon=219
 |Originalseitenbis=222
 |Lemma=Reichersbeuern, Pfarrkirche St. Korbinian
+|Meta=
 |Typ=Sakral
 |Ort=Reichersbeuern
 |davor=Maria Elend, Wallfahrtskirche Zum Leidenden Erlöser und zur schmerzhaften Muttergottes

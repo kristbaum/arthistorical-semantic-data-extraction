@@ -5,6 +5,7 @@
 |Originalseitenvon=77
 |Originalseitenbis=78
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt, Sieben-Zufluchten-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Grassau
 |davor=Grassau, Pfarrkirche Mariä Himmelfahrt

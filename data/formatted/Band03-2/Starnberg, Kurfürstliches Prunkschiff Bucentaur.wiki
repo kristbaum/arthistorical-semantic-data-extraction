@@ -5,6 +5,7 @@
 |Originalseitenvon=560
 |Originalseitenbis=563
 |Lemma=Starnberg, Kurfürstliches Prunkschiff "Bucentaur"
+|Meta=
 |Typ=Profan
 |Ort=Starnberg
 |davor=München, Salvatortheater

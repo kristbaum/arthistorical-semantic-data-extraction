@@ -5,6 +5,7 @@
 |Originalseitenvon=105
 |Originalseitenbis=108
 |Lemma=Hurlach, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Hurlach
 |davor=Holzhausen bei Buchloe, Pfarrkirche St. Johann Baptist und Johann Evangelist

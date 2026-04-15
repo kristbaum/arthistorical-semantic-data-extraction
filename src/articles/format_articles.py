@@ -1,8 +1,22 @@
-"""Format articles in data/formatted/BandXX/ directories.
+"""Format and validate articles in data/formatted/BandXX/ directories.
 
 For every article:
   1. Remove all <!-- ... --> comments.
   2. Remove {{End}} template lines.
+  3. Replace <br> tags context-sensitively.
+  4. Infer and set |Meta= in the {{Artikel}} template based on the Lemma:
+       Vorwort               – lemma contains "Vorwort", "Dank", or "Erinnerung"
+       Ortsregister          – lemma contains "Ortsregister"
+       Personenregister      – lemma contains "Personenregister"
+       Ikonographisches Register – lemma starts with "Ikonographisches Register"
+       Embleme-Register      – lemma contains "Embleme-Register"
+       Bildnachweis          – lemma contains "Bildnachweis"
+       Malerliste            – lemma starts with "Im 18. Jh"
+       (empty)               – all other articles
+  5. Validate required template fields and print [ERROR] for any missing:
+       All articles:         Band, Chunk, Chunkseite, Originalseitenvon,
+                             Originalseitenbis, Lemma, davor, danach
+       Non-Meta articles:    Typ, Ort, and at least one AutorIn field
 
 Usage:
     python -m src.articles.format_articles [--band Band01] [--apply] [--verbose]
@@ -14,13 +28,11 @@ import re
 from .helpers import OUTPUT_DIR
 
 # ---------------------------------------------------------------------------
-# Compiled patterns
+# Compiled patterns – formatting
 # ---------------------------------------------------------------------------
 
 _COMMENT_LINE_RE = re.compile(r"^\s*<!--.*-->\s*$")
 _END_LINE_RE = re.compile(r"^\s*\{\{End\}\}\s*$")
-
-# Normalise all <br> variants to a common token first
 _BR_NORM_RE = re.compile(r"<br\s*/?", re.IGNORECASE)
 
 
@@ -32,39 +44,153 @@ def _fix_br(text: str) -> str:
       2. ``.<br>``          → ``.\n``        (sentence end: real line break)
       3. ``<br>``           → single space  (inline line-break)
     """
-    # Normalise variants (<br />, <BR>, <br/> …) → <br>
-    text = _BR_NORM_RE.sub("<br", text)  # strips trailing attrs/slash
-    text = re.sub(r"<br[^>]*>", "<br>", text)  # close the tag cleanly
-
-    # 1. Hyphenated word split across lines
+    text = _BR_NORM_RE.sub("<br", text)
+    text = re.sub(r"<br[^>]*>", "<br>", text)
     text = re.sub(r"-\s*<br>\s*", "", text)
-    # 2. Sentence-ending punctuation before <br> → real line break (consume all consecutive)
     text = re.sub(r"([.!?])\s*(?:<br>\s*)+", r"\1\n", text)
-    # 3. Remaining <br> → space
     text = re.sub(r"\s*<br>\s*", " ", text)
     return text
 
 
 # ---------------------------------------------------------------------------
-# Per-article transform
+# Meta inference
+# ---------------------------------------------------------------------------
+
+_META_RULES: list[tuple[re.Pattern, str]] = [
+    (re.compile(r"\bVorwort\b|\bDank|\bErinnerung\b", re.IGNORECASE), "Vorwort"),
+    (re.compile(r"^Ikonographisches Register\b", re.IGNORECASE), "Ikonographisches Register"),
+    (re.compile(r"\bOrtsregister\b", re.IGNORECASE), "Ortsregister"),
+    (re.compile(r"\bPersonenregister\b", re.IGNORECASE), "Personenregister"),
+    (re.compile(r"\bEmleme-Register\b|\bEmbleme-Register\b", re.IGNORECASE), "Embleme-Register"),
+    (re.compile(r"\bBildnachweis\b", re.IGNORECASE), "Bildnachweis"),
+    (re.compile(r"^Im 18\. Jh", re.IGNORECASE), "Malerliste"),
+]
+
+
+def _infer_meta(lemma: str) -> str:
+    for pattern, value in _META_RULES:
+        if pattern.search(lemma):
+            return value
+    return ""
+
+
+# ---------------------------------------------------------------------------
+# Template read/write helpers
+# ---------------------------------------------------------------------------
+
+_FIELD_RE = re.compile(r"^\s*\|(\w+)=(.*)$")
+
+
+def _read_template(lines: list[str]) -> dict[str, str]:
+    """Return all |field=value pairs from the {{Artikel}} template."""
+    fields: dict[str, str] = {}
+    in_tpl = False
+    for line in lines:
+        s = line.strip()
+        if s.startswith("{{Artikel"):
+            in_tpl = True
+        elif s == "}}" and in_tpl:
+            break
+        elif in_tpl:
+            m = _FIELD_RE.match(line)
+            if m:
+                fields[m.group(1)] = m.group(2).strip()
+    return fields
+
+
+def _set_meta(lines: list[str], meta_value: str) -> list[str]:
+    """Update |Meta= in the template, or insert it after |Lemma=."""
+    pat_meta = re.compile(r"^(\s*\|Meta=).*$")
+    pat_lemma = re.compile(r"^(\s*\|Lemma=).*$")
+    in_tpl = False
+    result: list[str] = []
+    replaced = False
+
+    for line in lines:
+        s = line.strip()
+        if s.startswith("{{Artikel"):
+            in_tpl = True
+        elif s == "}}" and in_tpl:
+            in_tpl = False
+
+        if in_tpl and not replaced:
+            m = pat_meta.match(line)
+            if m:
+                result.append(m.group(1) + meta_value)
+                replaced = True
+                continue
+
+        result.append(line)
+
+        if in_tpl and not replaced:
+            m = pat_lemma.match(line)
+            if m:
+                indent = re.match(r"^(\s*)", line).group(1)
+                result.append(f"{indent}|Meta={meta_value}")
+                replaced = True
+
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Validation
+# ---------------------------------------------------------------------------
+
+_ALWAYS_REQUIRED = ["Band", "Chunk", "Chunkseite", "Originalseitenvon", "Originalseitenbis", "Lemma"]
+_CONTENT_REQUIRED = ["Typ", "Ort"]
+
+
+def _validate(fields: dict[str, str]) -> list[str]:
+    """Return a list of error strings for this article's template."""
+    errors: list[str] = []
+    meta = fields.get("Meta", "")
+
+    for f in _ALWAYS_REQUIRED:
+        if not fields.get(f, "").strip():
+            errors.append(f"missing |{f}=")
+
+    for f in ("davor", "danach"):
+        if f not in fields:
+            errors.append(f"field |{f}= not present in template")
+
+    if not meta:
+        for f in _CONTENT_REQUIRED:
+            if not fields.get(f, "").strip():
+                errors.append(f"missing |{f}=")
+        has_autor = any(k.startswith("AutorIn") and v.strip() for k, v in fields.items())
+        if not has_autor:
+            errors.append("no |AutorIn1= (or higher) set")
+
+    return errors
+
+
+# ---------------------------------------------------------------------------
+# Per-article processor
 # ---------------------------------------------------------------------------
 
 
-def format_article(text: str) -> str:
-    """Remove all HTML comment lines, {{End}} lines, and fix <br> tags."""
+def process_article(text: str, *, apply: bool) -> tuple[str, list[str]]:
+    """Format, set Meta, and validate. Returns (new_text, errors)."""
+    # Step 1: formatting transforms
     text = _fix_br(text)
     lines = text.splitlines()
+    lines = [l for l in lines if not _COMMENT_LINE_RE.match(l) and not _END_LINE_RE.match(l)]
+    while lines and not lines[-1].strip():
+        lines.pop()
 
-    cleaned = [
-        line
-        for line in lines
-        if not _COMMENT_LINE_RE.match(line) and not _END_LINE_RE.match(line)
-    ]
+    # Step 2: infer and set Meta
+    fields = _read_template(lines)
+    lemma = fields.get("Lemma", "")
+    meta = _infer_meta(lemma)
+    if fields.get("Meta") != meta:
+        lines = _set_meta(lines, meta)
+        fields = _read_template(lines)
 
-    while cleaned and not cleaned[-1].strip():
-        cleaned.pop()
+    # Step 3: validate
+    errors = _validate(fields)
 
-    return "\n".join(cleaned) + "\n"
+    new_text = "\n".join(lines) + "\n" if apply else text
+    return new_text, errors
 
 
 # ---------------------------------------------------------------------------
@@ -78,7 +204,6 @@ def format_band(
     apply: bool = False,
     verbose: bool = False,
 ) -> int:
-    """Format all articles in data/formatted/{band_prefix}/. Returns change count."""
     band_dir = OUTPUT_DIR / band_prefix
     if not band_dir.is_dir():
         if verbose:
@@ -88,7 +213,7 @@ def format_band(
     changes = 0
     for path in sorted(band_dir.glob("*.wiki")):
         original = path.read_text(encoding="utf-8")
-        new_text = format_article(original)
+        new_text, errors = process_article(original, apply=apply)
 
         if new_text != original:
             changes += 1
@@ -98,6 +223,9 @@ def format_band(
                     print(f"  [WROTE] {band_prefix}/{path.name}")
             else:
                 print(f"  [WOULD CHANGE] {band_prefix}/{path.name}")
+
+        for err in errors:
+            print(f"  [ERROR] {band_prefix}/{path.name}: {err}")
 
     if verbose and changes == 0:
         print(f"  OK {band_prefix}: no changes")
@@ -111,12 +239,8 @@ def format_band(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument(
-        "--band", metavar="BAND", help="Process only this band, e.g. Band01"
-    )
-    parser.add_argument(
-        "--apply", action="store_true", help="Write changes to disk (default: dry-run)"
-    )
+    parser.add_argument("--band", metavar="BAND", help="Process only this band, e.g. Band01")
+    parser.add_argument("--apply", action="store_true", help="Write changes to disk (default: dry-run)")
     parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args()
 
@@ -127,8 +251,7 @@ def main() -> None:
 
     total = 0
     for bp in band_prefixes:
-        n = format_band(bp, apply=args.apply, verbose=args.verbose)
-        total += n
+        total += format_band(bp, apply=args.apply, verbose=args.verbose)
 
     mode = "Applied to" if args.apply else "Would change"
     print(f"\n{mode} {total} article(s) across {len(band_prefixes)} band(s).")

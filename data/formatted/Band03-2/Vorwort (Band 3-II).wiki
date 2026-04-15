@@ -5,6 +5,7 @@
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 3-II)
+|Meta=Vorwort
 |davor=
 |danach=München, Residenz
 |AutorIn1=Bauer, Hermann

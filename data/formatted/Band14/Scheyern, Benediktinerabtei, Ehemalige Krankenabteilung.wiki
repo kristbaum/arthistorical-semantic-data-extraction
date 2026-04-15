@@ -5,6 +5,7 @@
 |Originalseitenvon=261
 |Originalseitenbis=263
 |Lemma=Scheyern, Benediktinerabtei, Ehemalige Krankenabteilung
+|Meta=
 |Typ=Sakral
 |Ort=Scheyern
 |davor=Scheyern, Benediktinerabtei, Kapitel- oder Johanneskirche, auch Gruftkirche

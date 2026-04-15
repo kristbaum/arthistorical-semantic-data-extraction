@@ -5,6 +5,7 @@
 |Originalseitenvon=284
 |Originalseitenbis=295
 |Lemma=Schwindkirchen, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Schwindkirchen
 |davor=Schröding, Pfarrkirche St. Nikolaus

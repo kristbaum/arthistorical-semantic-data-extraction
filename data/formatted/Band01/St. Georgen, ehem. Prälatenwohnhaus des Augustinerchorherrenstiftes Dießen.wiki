@@ -5,6 +5,7 @@
 |Originalseitenvon=216
 |Originalseitenbis=216
 |Lemma=St. Georgen, ehem. Prälatenwohnhaus des Augustinerchorherrenstiftes Dießen
+|Meta=
 |Typ=Sakral
 |Ort=St. Georgen
 |davor=St. Georgen, Filialkirche St. Georg

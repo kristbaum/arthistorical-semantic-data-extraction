@@ -5,6 +5,7 @@
 |Originalseitenvon=433
 |Originalseitenbis=436
 |Lemma=Obereglfing, Pfarrkirche St. Mauritius
+|Meta=
 |Typ=Sakral
 |Ort=Obereglfing
 |davor=Kreuzberg, Kapelle Hl. Kreuz

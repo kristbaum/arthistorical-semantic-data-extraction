@@ -5,6 +5,7 @@
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Erinnerung an Hermann Bauer (Band 7)
+|Meta=Vorwort
 |davor=
 |danach=Vorwort Dank (Band 7)
 |AutorIn1=Rupprecht, Bernhard

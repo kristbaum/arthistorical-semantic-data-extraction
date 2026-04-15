@@ -5,6 +5,7 @@
 |Originalseitenvon=378
 |Originalseitenbis=380
 |Lemma=Bauerbach, Filialkirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Bauerbach
 |davor=Arnried, Filialkirche St. Hilaria und Afra

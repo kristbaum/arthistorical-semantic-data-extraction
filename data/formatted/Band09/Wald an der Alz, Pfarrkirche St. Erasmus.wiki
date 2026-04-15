@@ -5,6 +5,7 @@
 |Originalseitenvon=235
 |Originalseitenbis=241
 |Lemma=Wald an der Alz, Pfarrkirche St. Erasmus
+|Meta=
 |Typ=Sakral
 |Ort=Wald an der Alz
 |davor=Tüssling, Schloss

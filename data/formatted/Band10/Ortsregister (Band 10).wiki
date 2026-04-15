@@ -5,6 +5,7 @@
 |Originalseitenvon=342
 |Originalseitenbis=343
 |Lemma=Ortsregister (Band 10)
+|Meta=Ortsregister
 |davor=Im 18. Jh. im Bereich des Landkreises Neuburg-Schrobenhausen tätige Maler
 |danach=Personenregister (Band 10)
 }}

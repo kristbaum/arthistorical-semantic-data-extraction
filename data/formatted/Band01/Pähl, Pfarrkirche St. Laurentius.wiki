@@ -5,6 +5,7 @@
 |Originalseitenvon=446
 |Originalseitenbis=449
 |Lemma=Pähl, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Pähl
 |davor=Oderding, Filialkirche St. Martin

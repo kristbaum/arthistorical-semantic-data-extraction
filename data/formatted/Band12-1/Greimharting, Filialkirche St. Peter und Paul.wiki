@@ -5,6 +5,7 @@
 |Originalseitenvon=170
 |Originalseitenbis=171
 |Lemma=Greimharting, Filialkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Greimharting
 |davor=Götting, Pfarrkirche St. Michael

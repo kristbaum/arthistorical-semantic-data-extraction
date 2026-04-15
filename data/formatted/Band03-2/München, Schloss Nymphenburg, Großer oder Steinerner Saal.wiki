@@ -5,6 +5,7 @@
 |Originalseitenvon=355
 |Originalseitenbis=379
 |Lemma=München, Schloss Nymphenburg, Großer oder Steinerner Saal
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Schlosanlage Nymphenburg

@@ -5,6 +5,7 @@
 |Originalseitenvon=229
 |Originalseitenbis=230
 |Lemma=Günzenhausen, Filialkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Günzenhausen
 |davor=Großeisenbach, Filialkirche St. Leonhard

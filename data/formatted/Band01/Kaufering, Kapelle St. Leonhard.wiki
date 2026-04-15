@@ -5,6 +5,7 @@
 |Originalseitenvon=120
 |Originalseitenbis=125
 |Lemma=Kaufering, Kapelle St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Kaufering
 |davor=Kaufering, Pfarrkirche St. Johannes Baptist

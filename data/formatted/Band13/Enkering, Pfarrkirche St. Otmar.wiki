@@ -5,6 +5,7 @@
 |Originalseitenvon=245
 |Originalseitenbis=250
 |Lemma=Enkering, Pfarrkirche St. Otmar
+|Meta=
 |Typ=Sakral
 |Ort=Enkering
 |davor=Eichstätt, ehem. Domherrenhof Schönborn

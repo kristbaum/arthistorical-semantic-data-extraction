@@ -5,6 +5,7 @@
 |Originalseitenvon=79
 |Originalseitenbis=81
 |Lemma=München-Fröttmaning, Filialkirche Hl. Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=München-Fröttmaning
 |davor=München-Bogenhausen, Filialkirche St. Georg

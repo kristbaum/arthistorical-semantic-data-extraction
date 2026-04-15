@@ -5,6 +5,7 @@
 |Originalseitenvon=468
 |Originalseitenbis=469
 |Lemma=Embleme-Register (Band 13)
+|Meta=Embleme-Register
 |davor=Ikonographisches Register (Band 13)
 |danach=
 }}

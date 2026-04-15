@@ -5,6 +5,7 @@
 |Originalseitenvon=300
 |Originalseitenbis=302
 |Lemma=Andechs, Ehem. Benediktinerabtei, Törringkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche

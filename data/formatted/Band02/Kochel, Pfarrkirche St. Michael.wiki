@@ -5,6 +5,7 @@
 |Originalseitenvon=199
 |Originalseitenbis=202
 |Lemma=Kochel, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Kochel
 |davor=Klösterl am Walchensee, Hauskapelle St. Anna, Maria und Joseph

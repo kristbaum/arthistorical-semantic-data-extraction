@@ -5,6 +5,7 @@
 |Originalseitenvon=335
 |Originalseitenbis=336
 |Lemma=Landstetten, Filialkirche St. Jakobus d. Ä.
+|Meta=
 |Typ=Sakral
 |Ort=Landstetten
 |davor=Kempfenhausen, Schlosskapelle St. Anna

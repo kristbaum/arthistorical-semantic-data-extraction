@@ -5,6 +5,7 @@
 |Originalseitenvon=624
 |Originalseitenbis=625
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Weyarn
 |davor=Weyarn, ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche

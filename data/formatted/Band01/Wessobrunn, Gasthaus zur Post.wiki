@@ -5,6 +5,7 @@
 |Originalseitenvon=597
 |Originalseitenbis=599
 |Lemma=Wessobrunn, Gasthaus zur Post
+|Meta=
 |Typ=Profan
 |Ort=Wessobrunn
 |davor=Wessobrunn, Kreuzbergkapelle Hl. Kreuz

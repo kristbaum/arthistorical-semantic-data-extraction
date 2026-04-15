@@ -5,6 +5,7 @@
 |Originalseitenvon=379
 |Originalseitenbis=396
 |Lemma=München, Schloss Nymphenburg, die kurfürstlichen Appartements
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Schloss Nymphenburg, Großer oder Steinerner Saal

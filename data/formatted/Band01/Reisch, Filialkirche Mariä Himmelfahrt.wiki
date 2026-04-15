@@ -5,6 +5,7 @@
 |Originalseitenvon=202
 |Originalseitenbis=204
 |Lemma=Reisch, Filialkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Reisch
 |davor=Reichling, Pfarrkirche St. Nikolaus

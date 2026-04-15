@@ -5,6 +5,7 @@
 |Originalseitenvon=178
 |Originalseitenbis=180
 |Lemma=Itzling, Filialkirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Itzling
 |davor=Isen, Pfarrkirche St. Zeno

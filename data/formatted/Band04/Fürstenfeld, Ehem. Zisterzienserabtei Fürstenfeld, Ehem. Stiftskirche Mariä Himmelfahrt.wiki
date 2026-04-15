@@ -5,6 +5,7 @@
 |Originalseitenvon=58
 |Originalseitenbis=103
 |Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Fürstenfeld
 |davor=Fürstenfeldbruck, Stadtpfarrkirche St. Magdalena

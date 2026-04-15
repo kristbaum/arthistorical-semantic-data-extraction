@@ -5,6 +5,7 @@
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 4)
+|Meta=Vorwort
 |davor=
 |danach=Adelshofen, Kuratiekirche St. Michael
 |AutorIn1=Bauer, Hermann

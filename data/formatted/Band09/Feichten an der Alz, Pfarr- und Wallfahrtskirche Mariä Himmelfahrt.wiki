@@ -5,6 +5,7 @@
 |Originalseitenvon=81
 |Originalseitenbis=94
 |Lemma=Feichten an der Alz, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Feichten an der Alz
 |davor=Burgkirchen an der Alz, Alte Pfarrkirche Johannes der Täufer

@@ -5,6 +5,7 @@
 |Originalseitenvon=513
 |Originalseitenbis=516
 |Lemma=St. Nikolaus, Kapelle St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=St. Nikolaus
 |davor=St. Leonhard i. Forst, Pfarr- und Wallfahrtskirche St. Leonhard

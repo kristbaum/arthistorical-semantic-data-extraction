@@ -5,6 +5,7 @@
 |Originalseitenvon=125
 |Originalseitenbis=143
 |Lemma=Marienberg, Wallfahrtskirche Maria Königin des Rosenkranzes
+|Meta=
 |Typ=Sakral
 |Ort=Marienberg
 |davor=Margarethenberg, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

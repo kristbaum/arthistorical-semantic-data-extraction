@@ -5,6 +5,7 @@
 |Originalseitenvon=39
 |Originalseitenbis=41
 |Lemma=Esting, Ehem. Benefiziatenhaus
+|Meta=
 |Typ=Sakral
 |Ort=Esting
 |davor=Eismerszell, Filialkirche St. Georg

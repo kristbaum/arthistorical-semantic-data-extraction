@@ -5,6 +5,7 @@
 |Originalseitenvon=179
 |Originalseitenbis=188
 |Lemma=Baar, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Baar
 |davor=Alberzell, Filialkirche Heilig Kreuz

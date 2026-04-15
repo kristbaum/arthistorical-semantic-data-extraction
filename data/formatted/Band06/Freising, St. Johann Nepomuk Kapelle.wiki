@@ -5,6 +5,7 @@
 |Originalseitenvon=122
 |Originalseitenbis=127
 |Lemma=Freising, St. Johann Nepomuk Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Dom

@@ -5,6 +5,7 @@
 |Originalseitenvon=216
 |Originalseitenbis=218
 |Lemma=Maria Elend, Wallfahrtskirche Zum Leidenden Erlöser und zur schmerzhaften Muttergottes
+|Meta=
 |Typ=Sakral
 |Ort=Maria Elend
 |davor=Lenggries, Kapelle Maria Hilf

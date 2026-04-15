@@ -5,6 +5,7 @@
 |Originalseitenvon=66
 |Originalseitenbis=66
 |Lemma=Günding, Filialkirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Günding
 |davor=Grossberghofen, Kuratiekirche St. Georg

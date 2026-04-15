@@ -5,6 +5,7 @@
 |Originalseitenvon=308
 |Originalseitenbis=309
 |Lemma=Kemathen, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Kemathen
 |davor=Jakobsberg, Filialkirche St. Jakobus der Ältere

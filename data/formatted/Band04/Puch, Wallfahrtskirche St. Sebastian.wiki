@@ -5,6 +5,7 @@
 |Originalseitenvon=223
 |Originalseitenbis=238
 |Lemma=Puch, Wallfahrtskirche St. Sebastian
+|Meta=
 |Typ=Sakral
 |Ort=Puch
 |davor=Poigern, Filialkirche St. Nikolaus

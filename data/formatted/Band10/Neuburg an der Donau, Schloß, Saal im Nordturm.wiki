@@ -5,6 +5,7 @@
 |Originalseitenvon=220
 |Originalseitenbis=222
 |Lemma=Neuburg an der Donau, Schloß, Saal im Nordturm
+|Meta=
 |Typ=Profan
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, Schloß

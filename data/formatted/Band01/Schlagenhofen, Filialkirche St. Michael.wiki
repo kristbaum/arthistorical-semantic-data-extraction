@@ -5,6 +5,7 @@
 |Originalseitenvon=342
 |Originalseitenbis=343
 |Lemma=Schlagenhofen, Filialkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Schlagenhofen
 |davor=Perchting, Kalvarienberg

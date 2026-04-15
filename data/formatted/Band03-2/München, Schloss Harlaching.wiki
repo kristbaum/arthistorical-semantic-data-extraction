@@ -5,6 +5,7 @@
 |Originalseitenvon=579
 |Originalseitenbis=580
 |Lemma=München, Schloss Harlaching
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Gasthof zum Schwarzen Adler

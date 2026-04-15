@@ -5,6 +5,7 @@
 |Originalseitenvon=129
 |Originalseitenbis=132
 |Lemma=Hofwies, Filial- und Wallfahrtskirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Hofwies
 |davor=Hofgiebing, Filialkirche St. Johannes der Täufer

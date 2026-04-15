@@ -5,6 +5,7 @@
 |Originalseitenvon=284
 |Originalseitenbis=289
 |Lemma=Walkertshofen, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Walkertshofen
 |davor=Vierkirchen, Pfarrkirche St. Jakobus der Ältere

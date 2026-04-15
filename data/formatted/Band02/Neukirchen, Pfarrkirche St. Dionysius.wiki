@@ -5,6 +5,7 @@
 |Originalseitenvon=529
 |Originalseitenbis=534
 |Lemma=Neukirchen, Pfarrkirche St. Dionysius
+|Meta=
 |Typ=Sakral
 |Ort=Neukirchen
 |davor=Kleinpienzenau, Filialkirche St. Georg

@@ -5,6 +5,7 @@
 |Originalseitenvon=132
 |Originalseitenbis=140
 |Lemma=Landsberg am Lech, Heilig-Kreuz-Kirche
+|Meta=
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, Stadtpfarrkirche Mariä Himmelfahrt

@@ -5,6 +5,7 @@
 |Originalseitenvon=97
 |Originalseitenbis=101
 |Lemma=München-Sendling, Alte Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=München-Sendling
 |davor=München-Perlach, Pfarrkirche St. Michael

@@ -5,6 +5,7 @@
 |Originalseitenvon=274
 |Originalseitenbis=274
 |Lemma=Unterweilbach, Schloßkapelle St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Unterweilbach
 |davor=Unterweikertshofen, Filialkirche St. Gabinus

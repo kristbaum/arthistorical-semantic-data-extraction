@@ -5,6 +5,7 @@
 |Originalseitenvon=456
 |Originalseitenbis=458
 |Lemma=Ortsregister (Band 13)
+|Meta=Ortsregister
 |davor=Im 18. Jh. im Bereich des Landkreises Eichstätt tätige Deckenmaler
 |danach=Personenregister (Band 13)
 }}

@@ -5,6 +5,7 @@
 |Originalseitenvon=272
 |Originalseitenbis=275
 |Lemma=Personenregister (Band 14)
+|Meta=Personenregister
 |davor=Ortsregister (Band 14)
 |danach=Ikonographisches Register (Band 14)
 }}

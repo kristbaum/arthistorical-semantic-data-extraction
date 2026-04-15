@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=21
 |Lemma=Adelshausen (Weil), Kapelle St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Adelshausen (Weil)
 |davor=Danksagung (Band 1)

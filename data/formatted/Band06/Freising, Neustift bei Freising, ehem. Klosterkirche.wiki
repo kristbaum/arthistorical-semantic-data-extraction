@@ -5,6 +5,7 @@
 |Originalseitenvon=175
 |Originalseitenbis=187
 |Lemma=Freising, Neustift bei Freising, ehem. Klosterkirche
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Altöttinger Kapelle

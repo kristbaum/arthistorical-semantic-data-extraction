@@ -5,6 +5,7 @@
 |Originalseitenvon=488
 |Originalseitenbis=488
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Schloss Lustheim, Sog. Schöner Stall

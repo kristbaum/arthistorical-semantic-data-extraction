@@ -5,6 +5,7 @@
 |Originalseitenvon=444
 |Originalseitenbis=445
 |Lemma=Oderding, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Oderding
 |davor=Obersöchering, Pfarrkirche St. Maria

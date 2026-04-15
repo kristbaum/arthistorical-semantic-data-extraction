@@ -5,6 +5,7 @@
 |Originalseitenvon=394
 |Originalseitenbis=399
 |Lemma=Pfraundorf, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Pfraundorf
 |davor=Nußdorf am Inn, Filial- und Wallfahrtskirche St. Leonhard

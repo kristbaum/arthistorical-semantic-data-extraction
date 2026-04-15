@@ -5,6 +5,7 @@
 |Originalseitenvon=160
 |Originalseitenbis=162
 |Lemma=Stein a. d. Traun, Schlosskapelle St. Georg und Heilige Drei Könige
+|Meta=
 |Typ=Sakral
 |Ort=Stein a. d. Traun
 |davor=Siegsdorf, Pfarrkirche Mariä Unbefleckte Empfängnis

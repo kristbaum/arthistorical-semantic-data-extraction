@@ -5,6 +5,7 @@
 |Originalseitenvon=266
 |Originalseitenbis=270
 |Lemma=Sandizell, Schlosskapelle Zum gekreuzigten Heiland
+|Meta=
 |Typ=Sakral
 |Ort=Sandizell
 |davor=Sandizell, Pfarrkirche St. Petrus, Sakristei

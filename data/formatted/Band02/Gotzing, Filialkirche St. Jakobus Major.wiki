@@ -5,6 +5,7 @@
 |Originalseitenvon=503
 |Originalseitenbis=508
 |Lemma=Gotzing, Filialkirche St. Jakobus Major
+|Meta=
 |Typ=Sakral
 |Ort=Gotzing
 |davor=Frauenried, Filialkirche Mariä Geburt

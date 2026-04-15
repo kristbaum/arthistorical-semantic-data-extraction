@@ -5,6 +5,7 @@
 |Originalseitenvon=290
 |Originalseitenbis=300
 |Lemma=Weichs, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Weichs
 |davor=Walkertshofen, Pfarrkirche Mariä Himmelfahrt

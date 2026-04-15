@@ -5,6 +5,7 @@
 |Originalseitenvon=133
 |Originalseitenbis=149
 |Lemma=Freising, Domkreuzgang
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, St.-Maximilian-Kapelle

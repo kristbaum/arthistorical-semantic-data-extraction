@@ -5,6 +5,7 @@
 |Originalseitenvon=180
 |Originalseitenbis=181
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Raum in der Abtswohnung
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Ehem. Abtskapelle

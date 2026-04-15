@@ -5,6 +5,7 @@
 |Originalseitenvon=263
 |Originalseitenbis=263
 |Lemma=München, Ehem. Spital- und Klosterkirche der Barmherzigen Brüder
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Bibliothek des Klosters der Augustiner-Eremiten

@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=23
 |Lemma=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis
+|Meta=
 |Typ=Sakral
 |Ort=Ainhofen
 |davor=Vorwort Dank (Band 5)

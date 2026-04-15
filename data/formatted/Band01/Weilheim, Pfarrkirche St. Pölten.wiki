@@ -5,6 +5,7 @@
 |Originalseitenvon=563
 |Originalseitenbis=566
 |Lemma=Weilheim, Pfarrkirche St. Pölten
+|Meta=
 |Typ=Sakral
 |Ort=Weilheim
 |davor=Weilheim, Leichenhaus

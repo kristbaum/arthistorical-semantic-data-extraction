@@ -5,6 +5,7 @@
 |Originalseitenvon=109
 |Originalseitenbis=113
 |Lemma=Issing, Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Issing
 |davor=Hurlach, Pfarrkirche St. Laurentius

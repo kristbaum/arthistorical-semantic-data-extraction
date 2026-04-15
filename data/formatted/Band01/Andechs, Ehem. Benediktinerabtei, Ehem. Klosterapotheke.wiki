@@ -5,6 +5,7 @@
 |Originalseitenvon=312
 |Originalseitenbis=316
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer

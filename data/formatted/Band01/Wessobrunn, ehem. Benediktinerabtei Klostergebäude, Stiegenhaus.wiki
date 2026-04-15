@@ -5,6 +5,7 @@
 |Originalseitenvon=574
 |Originalseitenbis=574
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Stiegenhaus
+|Meta=
 |Typ=Sakral
 |Ort=Wessobrunn
 |davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Magdalenenzimmer

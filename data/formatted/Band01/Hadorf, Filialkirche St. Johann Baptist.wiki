@@ -5,6 +5,7 @@
 |Originalseitenvon=326
 |Originalseitenbis=326
 |Lemma=Hadorf, Filialkirche St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Hadorf
 |davor=Grünsink, Filial- und Wallfahrtskirche Mariahilf

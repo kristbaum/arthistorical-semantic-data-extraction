@@ -5,6 +5,7 @@
 |Originalseitenvon=181
 |Originalseitenbis=182
 |Lemma=Gelting, Filialkirche St. Benedikt
+|Meta=
 |Typ=Sakral
 |Ort=Gelting
 |davor=Gaissach, Pfarrkirche St. Michael

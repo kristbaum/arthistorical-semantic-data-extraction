@@ -5,6 +5,7 @@
 |Originalseitenvon=574
 |Originalseitenbis=576
 |Lemma=München, Palais Tattenbach
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Palais Holnstein

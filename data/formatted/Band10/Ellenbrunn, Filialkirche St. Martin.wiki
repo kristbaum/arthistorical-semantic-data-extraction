@@ -5,6 +5,7 @@
 |Originalseitenvon=98
 |Originalseitenbis=98
 |Lemma=Ellenbrunn, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Ellenbrunn
 |davor=Dinkelshausen, Nebenkirche St. Gertrud von Helfta

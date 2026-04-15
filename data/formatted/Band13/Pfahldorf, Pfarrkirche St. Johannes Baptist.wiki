@@ -5,6 +5,7 @@
 |Originalseitenvon=376
 |Originalseitenbis=379
 |Lemma=Pfahldorf, Pfarrkirche St. Johannes Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Pfahldorf
 |davor=Ochsenfeld, Pfarrkirche St. Nikolaus

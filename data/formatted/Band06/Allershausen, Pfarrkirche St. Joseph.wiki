@@ -5,6 +5,7 @@
 |Originalseitenvon=30
 |Originalseitenbis=39
 |Lemma=Allershausen, Pfarrkirche St. Joseph
+|Meta=
 |Typ=Sakral
 |Ort=Allershausen
 |davor=Aich, Filialkirche St. Georg

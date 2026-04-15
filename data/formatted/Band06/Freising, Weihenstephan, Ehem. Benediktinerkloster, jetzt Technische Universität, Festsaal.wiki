@@ -5,6 +5,7 @@
 |Originalseitenvon=188
 |Originalseitenbis=199
 |Lemma=Freising, Weihenstephan, Ehem. Benediktinerkloster, jetzt Technische Universität, Festsaal
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Neustift bei Freising, ehem. Klosterkirche

@@ -5,6 +5,7 @@
 |Originalseitenvon=172
 |Originalseitenbis=179
 |Lemma=Eichstätt, Maria-Hilf-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, ehem. Klosterkirche des ehem. Augustiner-Chorfrauen Klosters, Notre Dame de Sacre Coeur

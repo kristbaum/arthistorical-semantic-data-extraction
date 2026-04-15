@@ -5,6 +5,7 @@
 |Originalseitenvon=89
 |Originalseitenbis=92
 |Lemma=Frauendorf, Kuratiekirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Frauendorf
 |davor=Fraham, Pfarrkirche St. Marin

@@ -5,6 +5,7 @@
 |Originalseitenvon=397
 |Originalseitenbis=400
 |Lemma=München, Schloss Nymphenburg, Schloßkapelle
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Schloss Nymphenburg, die kurfürstlichen Appartements

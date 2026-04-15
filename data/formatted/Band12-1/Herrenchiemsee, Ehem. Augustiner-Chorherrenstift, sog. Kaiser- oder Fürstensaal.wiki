@@ -5,6 +5,7 @@
 |Originalseitenvon=211
 |Originalseitenbis=225
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, sog. Kaiser- oder Fürstensaal
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Marienkirche

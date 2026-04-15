@@ -5,6 +5,7 @@
 |Originalseitenvon=430
 |Originalseitenbis=447
 |Lemma=Oberschleißheim, Altes Schloss Schleißheim, Saal und Wohnräume
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Altes Schloss Schleißheim

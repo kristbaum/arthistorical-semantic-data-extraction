@@ -5,6 +5,7 @@
 |Originalseitenvon=434
 |Originalseitenbis=461
 |Lemma=Rott am Inn, Ehem. Benediktinerabtei, Abteikirche
+|Meta=
 |Typ=Sakral
 |Ort=Rosenheim
 |davor=Rott am Inn, Ehem. Benediktinerabtei

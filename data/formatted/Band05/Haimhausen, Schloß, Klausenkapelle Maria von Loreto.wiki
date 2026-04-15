@@ -5,6 +5,7 @@
 |Originalseitenvon=82
 |Originalseitenbis=82
 |Lemma=Haimhausen, Schloß, Klausenkapelle Maria von Loreto
+|Meta=
 |Typ=Sakral
 |Ort=Haimhausen
 |davor=Haimhausen, Schloss, Drei Adaptierte Deckenbilder

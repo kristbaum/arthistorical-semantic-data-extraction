@@ -5,6 +5,7 @@
 |Originalseitenvon=299
 |Originalseitenbis=301
 |Lemma=Wimpasing bei Malseneck, Feldkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Wimpasing bei Malseneck
 |davor=Wimpasing bei Ampfing, Sog. Schweppermannkapelle

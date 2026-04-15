@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=20
 |Lemma=Almau, Filialkirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Almau
 |davor=Vorwort (Band 11)

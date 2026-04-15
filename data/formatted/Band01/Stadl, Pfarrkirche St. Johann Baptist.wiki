@@ -5,6 +5,7 @@
 |Originalseitenvon=231
 |Originalseitenbis=231
 |Lemma=Stadl, Pfarrkirche St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Stadl
 |davor=Schwabstadl, Kapelle St. Johannes

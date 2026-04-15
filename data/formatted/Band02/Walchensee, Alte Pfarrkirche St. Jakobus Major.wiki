@@ -5,6 +5,7 @@
 |Originalseitenvon=261
 |Originalseitenbis=264
 |Lemma=Walchensee, Alte Pfarrkirche St. Jakobus Major
+|Meta=
 |Typ=Sakral
 |Ort=Walchensee
 |davor=Thankirchen, Pfarrkirche St. Katharina

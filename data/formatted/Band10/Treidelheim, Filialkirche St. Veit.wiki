@@ -5,6 +5,7 @@
 |Originalseitenvon=306
 |Originalseitenbis=307
 |Lemma=Treidelheim, Filialkirche St. Veit
+|Meta=
 |Typ=Sakral
 |Ort=Treidelheim
 |davor=Strass, Pfarrkirche Mariä Himmelfahrt

@@ -5,6 +5,7 @@
 |Originalseitenvon=202
 |Originalseitenbis=211
 |Lemma=Pipinsried, Wallfahrtskapelle St. Wolfgang
+|Meta=
 |Typ=Sakral
 |Ort=Pipinsried
 |davor=Pfaffenhofen an der Glonn, Pfarrkirche St. Michael

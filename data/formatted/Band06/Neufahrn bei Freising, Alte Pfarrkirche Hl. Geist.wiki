@@ -5,6 +5,7 @@
 |Originalseitenvon=271
 |Originalseitenbis=279
 |Lemma=Neufahrn bei Freising, Alte Pfarrkirche Hl. Geist
+|Meta=
 |Typ=Sakral
 |Ort=Neufahrn bei Freising
 |davor=Johanneck, Filialkirche Mariä Himmelfahrt

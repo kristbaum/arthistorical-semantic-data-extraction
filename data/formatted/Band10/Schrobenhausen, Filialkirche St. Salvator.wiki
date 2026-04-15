@@ -5,6 +5,7 @@
 |Originalseitenvon=271
 |Originalseitenbis=275
 |Lemma=Schrobenhausen, Filialkirche St. Salvator
+|Meta=
 |Typ=Sakral
 |Ort=Schrobenhausen
 |davor=Sandizell, Schlosskapelle Zum gekreuzigten Heiland

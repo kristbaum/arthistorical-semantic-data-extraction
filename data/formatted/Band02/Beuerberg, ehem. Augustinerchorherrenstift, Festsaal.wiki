@@ -5,6 +5,7 @@
 |Originalseitenvon=136
 |Originalseitenbis=137
 |Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Festsaal
+|Meta=
 |Typ=Sakral
 |Ort=Beuerberg
 |davor=Beuerberg, ehem. Augustinerchorherrenstift, Bruderschaftskapelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=268
 |Originalseitenbis=273
 |Lemma=Zankenhausen, Pfarrkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Zankenhausen
 |davor=Windach, Filialkirche St. Johannes der Täufer

@@ -5,6 +5,7 @@
 |Originalseitenvon=478
 |Originalseitenbis=479
 |Lemma=Schonstett, Pfarrkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Schonstett
 |davor=Schönau, Pfarrkirche Mariä Himmelfahrt

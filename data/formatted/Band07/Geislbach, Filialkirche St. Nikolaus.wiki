@@ -5,6 +5,7 @@
 |Originalseitenvon=107
 |Originalseitenbis=108
 |Lemma=Geislbach, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Geislbach
 |davor=Eschlbach, Pfarrkirche Mariä Geburt

@@ -5,6 +5,7 @@
 |Originalseitenvon=128
 |Originalseitenbis=129
 |Lemma=Grünbach, Filialkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Grünbach
 |davor=Großwimpaßing, Filialkirche St. Jakobus der Ältere

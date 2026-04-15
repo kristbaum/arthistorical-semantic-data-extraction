@@ -5,6 +5,7 @@
 |Originalseitenvon=508
 |Originalseitenbis=512
 |Lemma=St. Leonhard i. Forst, Pfarr- und Wallfahrtskirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=St. Leonhard i. Forst
 |davor=St. Johannisrain, Filialkirche St. Johannes Baptist und Evangelist

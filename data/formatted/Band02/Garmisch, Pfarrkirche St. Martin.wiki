@@ -5,6 +5,7 @@
 |Originalseitenvon=335
 |Originalseitenbis=347
 |Lemma=Garmisch, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Garmisch
 |davor=Froschhausen, Filial- u. Wallfahrtskirche St. Leonhard

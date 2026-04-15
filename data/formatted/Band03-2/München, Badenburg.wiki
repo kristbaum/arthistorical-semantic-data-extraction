@@ -5,6 +5,7 @@
 |Originalseitenvon=410
 |Originalseitenbis=416
 |Lemma=München, Badenburg
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Pagodenburg

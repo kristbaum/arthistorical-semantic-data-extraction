@@ -5,6 +5,7 @@
 |Originalseitenvon=441
 |Originalseitenbis=443
 |Lemma=Untermemmendorf, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Untermemmendorf
 |davor=Tauberfeld, Filialkirche St. Martin

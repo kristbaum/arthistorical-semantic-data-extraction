@@ -5,6 +5,7 @@
 |Originalseitenvon=188
 |Originalseitenbis=194
 |Lemma=Langengeisling, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Langengeisling
 |davor=Landersdorf, Filialkirche St. Martin

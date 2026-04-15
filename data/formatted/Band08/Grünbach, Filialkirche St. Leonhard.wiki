@@ -5,6 +5,7 @@
 |Originalseitenvon=119
 |Originalseitenbis=121
 |Lemma=Grünbach, Filialkirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Grünbach
 |davor=Gars am Inn, ehem. Augustiner-Chorherrenstift, Verlorene Deckenmalereien

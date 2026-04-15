@@ -5,6 +5,7 @@
 |Originalseitenvon=543
 |Originalseitenbis=544
 |Lemma=Tannenberg, Pfarrkirche St. Oswald
+|Meta=
 |Typ=Sakral
 |Ort=Tannenberg
 |davor=Steingaden, ehem. Prämonstratenserabteikirche Johannes der Täufer

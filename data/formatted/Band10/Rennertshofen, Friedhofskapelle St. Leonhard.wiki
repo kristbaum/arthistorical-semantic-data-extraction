@@ -5,6 +5,7 @@
 |Originalseitenvon=255
 |Originalseitenbis=256
 |Lemma=Rennertshofen, Friedhofskapelle St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Rennertshofen
 |davor=Rennertshofen, Pfarrkirche Johannes der Täufer

@@ -5,6 +5,7 @@
 |Originalseitenvon=463
 |Originalseitenbis=464
 |Lemma=Birkenstein, Wallfahrtskirche Mariä Himmelfahrt 
+|Meta=
 |Typ=Sakral
 |Ort=Birkenstein
 |davor=Bayrischzell, Seelen- u. Wallfahrtskapelle Sieben Schmerzen Mariä

@@ -5,6 +5,7 @@
 |Originalseitenvon=82
 |Originalseitenbis=85
 |Lemma=Greifenberg, Schlosskapelle St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Greifenberg
 |davor=Geltendorf, Pfarrkirche St. Stephan

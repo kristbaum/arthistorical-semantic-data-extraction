@@ -5,6 +5,7 @@
 |Originalseitenvon=511
 |Originalseitenbis=512
 |Lemma=Hagnberg, Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Hagnberg
 |davor=Grund, Kapelle zum Grundnerhof gehörig

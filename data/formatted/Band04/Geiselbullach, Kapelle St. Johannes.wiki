@@ -5,6 +5,7 @@
 |Originalseitenvon=134
 |Originalseitenbis=139
 |Lemma=Geiselbullach, Kapelle St. Johannes
+|Meta=
 |Typ=Sakral
 |Ort=Geiselbullach
 |davor=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Klostergebäude

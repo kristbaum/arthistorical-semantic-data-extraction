@@ -5,6 +5,7 @@
 |Originalseitenvon=95
 |Originalseitenbis=96
 |Lemma=Haiming, Pfarrkirche St. Stephan, Vorhalle
+|Meta=
 |Typ=Sakral
 |Ort=Haiming
 |davor=Feichten an der Alz, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

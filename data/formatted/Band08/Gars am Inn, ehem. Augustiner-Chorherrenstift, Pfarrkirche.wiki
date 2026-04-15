@@ -5,6 +5,7 @@
 |Originalseitenvon=99
 |Originalseitenbis=111
 |Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Pfarrkirche
+|Meta=
 |Typ=Sakral
 |Ort=Gars am Inn
 |davor=Frauenornau, Filial- und Wallfahrtskirche Maria vom Trost

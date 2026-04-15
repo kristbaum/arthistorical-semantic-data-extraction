@@ -5,6 +5,7 @@
 |Originalseitenvon=573
 |Originalseitenbis=573
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Magdalenenzimmer
+|Meta=
 |Typ=Sakral
 |Ort=Wessobrunn
 |davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Zimmer im Gästetrakt

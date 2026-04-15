@@ -5,6 +5,7 @@
 |Originalseitenvon=71
 |Originalseitenbis=81
 |Lemma=Bad Aibling, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Bad Aibling
 |davor=Au bei Bad Aibling, Wallfahrtskapelle sog. Taxakapelle

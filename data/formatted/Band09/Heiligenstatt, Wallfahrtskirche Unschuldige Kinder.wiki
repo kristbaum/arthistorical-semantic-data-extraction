@@ -5,6 +5,7 @@
 |Originalseitenvon=98
 |Originalseitenbis=104
 |Lemma=Heiligenstatt, Wallfahrtskirche Unschuldige Kinder
+|Meta=
 |Typ=Sakral
 |Ort=Heiligenstatt
 |davor=Haiming, Pfarrkirche St. Stephan, ehem. Beinhaus

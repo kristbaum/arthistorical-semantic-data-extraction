@@ -5,6 +5,7 @@
 |Originalseitenvon=462
 |Originalseitenbis=466
 |Lemma=Sachrang, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Sachrang
 |davor=Rott am Inn, Ehem. Benediktinerabtei, Abteikirche

@@ -5,6 +5,7 @@
 |Originalseitenvon=89
 |Originalseitenbis=92
 |Lemma=München-Moosach, Alte Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=München-Moosach
 |davor=München-Lochhausen, Pfarrkirche St. Michael

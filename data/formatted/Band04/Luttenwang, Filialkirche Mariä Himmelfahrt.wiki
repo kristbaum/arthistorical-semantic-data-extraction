@@ -5,6 +5,7 @@
 |Originalseitenvon=185
 |Originalseitenbis=189
 |Lemma=Luttenwang, Filialkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Luttenwang
 |davor=Kottgeisering, Pfarrkirche Hl. Valentin von Terni

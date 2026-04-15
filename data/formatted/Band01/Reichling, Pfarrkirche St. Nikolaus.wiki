@@ -5,6 +5,7 @@
 |Originalseitenvon=199
 |Originalseitenbis=201
 |Lemma=Reichling, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Reichling
 |davor=Prittriching, Pfarrkirche St. Peter und Paul

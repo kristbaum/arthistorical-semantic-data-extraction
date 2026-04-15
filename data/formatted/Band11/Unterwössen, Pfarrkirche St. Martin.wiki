@@ -5,6 +5,7 @@
 |Originalseitenvon=190
 |Originalseitenbis=195
 |Lemma=Unterwössen, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Unterwössen
 |davor=Traunwalchen, Wallfahrtskapelle Frauenbrunn

@@ -5,6 +5,7 @@
 |Originalseitenvon=150
 |Originalseitenbis=159
 |Lemma=Freising, Benediktuskirche
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Domkreuzgang

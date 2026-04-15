@@ -5,6 +5,7 @@
 |Originalseitenvon=343
 |Originalseitenbis=346
 |Lemma=Frauenreuth, Filial- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Frauenreuth
 |davor=Fortsinning, Pfarrkirche Mariä Heimsuchung

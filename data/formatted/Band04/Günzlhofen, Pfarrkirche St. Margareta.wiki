@@ -5,6 +5,7 @@
 |Originalseitenvon=162
 |Originalseitenbis=165
 |Lemma=Günzlhofen, Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Günzlhofen
 |davor=Grunertshofen, Pfarrkirche St. Laurentius

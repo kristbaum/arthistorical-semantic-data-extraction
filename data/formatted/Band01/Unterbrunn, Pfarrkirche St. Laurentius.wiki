@@ -5,6 +5,7 @@
 |Originalseitenvon=358
 |Originalseitenbis=359
 |Lemma=Unterbrunn, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Unterbrunn
 |davor=Unering, Filialkirche St. Martin

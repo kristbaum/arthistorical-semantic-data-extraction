@@ -5,6 +5,7 @@
 |Originalseitenvon=36
 |Originalseitenbis=37
 |Lemma=Bairawies, Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Bairawies
 |davor=Bad Tölz, Stiegenkirche auf dem Kalvarienberg

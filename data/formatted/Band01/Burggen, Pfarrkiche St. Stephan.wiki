@@ -5,6 +5,7 @@
 |Originalseitenvon=393
 |Originalseitenbis=396
 |Lemma=Burggen, Pfarrkiche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=Burggen
 |davor=Bernbeuren, Kapelle Mariä Heimsuchung

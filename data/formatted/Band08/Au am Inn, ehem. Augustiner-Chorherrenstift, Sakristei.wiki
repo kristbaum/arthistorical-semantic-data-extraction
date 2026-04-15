@@ -5,6 +5,7 @@
 |Originalseitenvon=54
 |Originalseitenbis=57
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Au am Inn
 |davor=Au am Inn, ehem. Augustiner-Chorherrenstift

@@ -5,6 +5,7 @@
 |Originalseitenvon=480
 |Originalseitenbis=487
 |Lemma=Schwarzlack, Filial- und Wallfahrtskirche Unsere Liebe Frau von der Immerwährenden Hilfe und St. Johann Nepomuk
+|Meta=
 |Typ=Sakral
 |Ort=Schwarzlack
 |davor=Schonstett, Pfarrkirche St. Johannes der Täufer

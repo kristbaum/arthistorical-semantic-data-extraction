@@ -5,6 +5,7 @@
 |Originalseitenvon=235
 |Originalseitenbis=235
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Ehem. Klosterkirche St. Jakob am Anger

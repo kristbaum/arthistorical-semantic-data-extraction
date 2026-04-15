@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=221
 |Lemma=Fürholzen, Pfarrkirche St. Stephanus
+|Meta=
 |Typ=Sakral
 |Ort=Fürholzen
 |davor=Freising, Wies bei Freising, Wallfahrtskirche

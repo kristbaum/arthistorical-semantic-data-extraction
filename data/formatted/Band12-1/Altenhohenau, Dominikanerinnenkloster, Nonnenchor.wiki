@@ -5,6 +5,7 @@
 |Originalseitenvon=39
 |Originalseitenbis=50
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Nonnenchor
+|Meta=
 |Typ=Sakral
 |Ort=Altenhohenau
 |davor=Altenhohenau, Dominikanerinnenkloster, Klosterkirche

@@ -5,6 +5,7 @@
 |Originalseitenvon=181
 |Originalseitenbis=182
 |Lemma=Jaibing, Filialkirche Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Jaibing
 |davor=Itzling, Filialkirche St. Vitus

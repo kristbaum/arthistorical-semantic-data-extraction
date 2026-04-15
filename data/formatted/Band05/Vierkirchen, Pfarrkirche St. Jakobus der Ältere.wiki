@@ -5,6 +5,7 @@
 |Originalseitenvon=275
 |Originalseitenbis=283
 |Lemma=Vierkirchen, Pfarrkirche St. Jakobus der Ältere
+|Meta=
 |Typ=Sakral
 |Ort=Vierkirchen
 |davor=Unterweilbach, Schloßkapelle St. Martin

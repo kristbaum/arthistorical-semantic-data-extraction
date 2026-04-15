@@ -5,6 +5,7 @@
 |Originalseitenvon=252
 |Originalseitenbis=253
 |Lemma=Untermühlhausen, Pfarrkirche St. Benedikt
+|Meta=
 |Typ=Sakral
 |Ort=Untermühlhausen
 |davor=Unterigling, Pfarrkirche St. Johann Baptist

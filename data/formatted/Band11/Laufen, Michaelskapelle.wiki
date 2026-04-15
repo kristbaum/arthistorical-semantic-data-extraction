@@ -5,6 +5,7 @@
 |Originalseitenvon=241
 |Originalseitenbis=244
 |Lemma=Laufen, Michaelskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Laufen
 |davor=Höglwörth, ehem. Prälatur des ehem. Augustiner-Chorherrenstifts

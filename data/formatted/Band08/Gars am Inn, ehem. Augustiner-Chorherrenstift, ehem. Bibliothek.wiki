@@ -5,6 +5,7 @@
 |Originalseitenvon=116
 |Originalseitenbis=116
 |Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|Meta=
 |Typ=Sakral
 |Ort=Gars am Inn
 |davor=Gars am Inn, ehem. Augustiner-Chorherrenstift, Felixkapelle

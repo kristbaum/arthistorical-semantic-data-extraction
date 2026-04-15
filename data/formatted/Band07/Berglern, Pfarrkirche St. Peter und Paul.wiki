@@ -5,6 +5,7 @@
 |Originalseitenvon=40
 |Originalseitenbis=53
 |Lemma=Berglern, Pfarrkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Berglern
 |davor=Amelgering, Filialkirche St. Lambert

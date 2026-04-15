@@ -5,6 +5,7 @@
 |Originalseitenvon=282
 |Originalseitenbis=287
 |Lemma=Winkl, Pfarrkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Winkl
 |davor=Welden, Filialkirche St. Stephan

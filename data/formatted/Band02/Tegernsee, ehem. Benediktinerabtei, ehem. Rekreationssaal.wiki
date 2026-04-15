@@ -5,6 +5,7 @@
 |Originalseitenvon=598
 |Originalseitenbis=601
 |Lemma=Tegernsee, ehem. Benediktinerabtei, ehem. Rekreationssaal
+|Meta=
 |Typ=Sakral
 |Ort=Tegernsee
 |davor=Tegernsee, ehem. Benediktinerabtei, Sakristei

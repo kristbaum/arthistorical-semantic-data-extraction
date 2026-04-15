@@ -5,6 +5,7 @@
 |Originalseitenvon=147
 |Originalseitenbis=153
 |Lemma=Frasdorf, Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Frasdorf
 |davor=Flintsbach am Inn, Pfarrkirche St. Martin

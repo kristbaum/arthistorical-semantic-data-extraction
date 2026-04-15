@@ -5,6 +5,7 @@
 |Originalseitenvon=424
 |Originalseitenbis=424
 |Lemma=München, Schloss Nymphenburg, Drei ehemalige Kabinette im Hauptschloß
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Amalienburg

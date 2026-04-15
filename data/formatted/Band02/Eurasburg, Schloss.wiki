@@ -5,6 +5,7 @@
 |Originalseitenvon=166
 |Originalseitenbis=175
 |Lemma=Eurasburg, Schloss
+|Meta=
 |Typ=Profan
 |Ort=Eurasburg
 |davor=Einöd, Kapelle Schmerzhafter Heiland und Schmerzensmutter Maria

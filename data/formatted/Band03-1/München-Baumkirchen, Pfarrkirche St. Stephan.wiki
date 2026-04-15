@@ -5,6 +5,7 @@
 |Originalseitenvon=62
 |Originalseitenbis=63
 |Lemma=München-Baumkirchen, Pfarrkirche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=München-Baumkirchen
 |davor=München-Aubing, Pfarrkirche St. Quirin

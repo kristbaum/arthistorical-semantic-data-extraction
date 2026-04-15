@@ -5,6 +5,7 @@
 |Originalseitenvon=189
 |Originalseitenbis=191
 |Lemma=Orthofen, Filialkirche Hl. Kreuzauffindung
+|Meta=
 |Typ=Sakral
 |Ort=Orthofen
 |davor=Odelzhausen, Pfarrkirche St. Benedikt

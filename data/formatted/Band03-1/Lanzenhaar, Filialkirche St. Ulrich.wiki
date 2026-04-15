@@ -5,6 +5,7 @@
 |Originalseitenvon=142
 |Originalseitenbis=143
 |Lemma=Lanzenhaar, Filialkirche St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Lanzenhaar
 |davor=Kreuzpullach, Filial- und Wallfahrtskirche Heilig Kreuz

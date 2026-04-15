@@ -5,6 +5,7 @@
 |Originalseitenvon=316
 |Originalseitenbis=323
 |Lemma=Ettal, Benediktinerabtei, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Ettal
 |davor=Ettal, Benediktinerabtei, Kloster-, Pfarr- u. Wallfahrtskirche

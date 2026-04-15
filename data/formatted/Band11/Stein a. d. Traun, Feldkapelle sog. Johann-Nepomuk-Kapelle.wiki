@@ -5,6 +5,7 @@
 |Originalseitenvon=162
 |Originalseitenbis=165
 |Lemma=Stein a. d. Traun, Feldkapelle sog. Johann-Nepomuk-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Stein a. d. Traun
 |davor=Stein a. d. Traun, Schlosskapelle St. Georg und Heilige Drei Könige

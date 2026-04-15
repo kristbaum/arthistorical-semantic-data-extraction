@@ -5,6 +5,7 @@
 |Originalseitenvon=316
 |Originalseitenbis=343
 |Lemma=Zangberg, Schloß Zangberg, Ahnensaal
+|Meta=
 |Typ=Sakral
 |Ort=Zangberg
 |davor=Zangberg, Schloß Zangberg, Fürstensaal

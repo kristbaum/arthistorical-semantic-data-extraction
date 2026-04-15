@@ -5,6 +5,7 @@
 |Originalseitenvon=217
 |Originalseitenbis=222
 |Lemma=St. Johann bei Obereschlbach, Kapelle St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=St. Johann bei Obereschlbach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Lusthäuschen im Abtsgarten

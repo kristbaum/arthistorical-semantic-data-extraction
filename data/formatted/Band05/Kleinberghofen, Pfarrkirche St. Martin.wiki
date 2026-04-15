@@ -5,6 +5,7 @@
 |Originalseitenvon=91
 |Originalseitenbis=97
 |Lemma=Kleinberghofen, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Kleinberghofen
 |davor=Inhausen, Filialkirche Maria Himmelfahrt

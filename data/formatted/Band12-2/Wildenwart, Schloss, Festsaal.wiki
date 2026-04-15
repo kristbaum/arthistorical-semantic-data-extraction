@@ -5,6 +5,7 @@
 |Originalseitenvon=553
 |Originalseitenbis=554
 |Lemma=Wildenwart, Schloss, Festsaal
+|Meta=
 |Typ=Profan
 |Ort=Wildenwart
 |davor=Wildenwart, Schloss, Kapelle

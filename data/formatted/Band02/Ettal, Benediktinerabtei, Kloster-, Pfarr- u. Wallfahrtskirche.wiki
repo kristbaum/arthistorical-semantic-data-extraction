@@ -5,6 +5,7 @@
 |Originalseitenvon=284
 |Originalseitenbis=316
 |Lemma=Ettal, Benediktinerabtei, Kloster-, Pfarr- u. Wallfahrtskirche
+|Meta=
 |Typ=Sakral
 |Ort=Ettal
 |davor=Eschenlohe, Pfarrkirche St. Clemens

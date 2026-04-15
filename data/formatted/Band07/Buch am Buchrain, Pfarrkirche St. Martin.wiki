@@ -5,6 +5,7 @@
 |Originalseitenvon=61
 |Originalseitenbis=69
 |Lemma=Buch am Buchrain, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Buch am Buchrain
 |davor=Bockhorn, Sakristei der Pfarrkirche Mariä Heimsuchung

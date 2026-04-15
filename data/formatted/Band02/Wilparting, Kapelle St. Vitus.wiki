@@ -5,6 +5,7 @@
 |Originalseitenvon=633
 |Originalseitenbis=634
 |Lemma=Wilparting, Kapelle St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Wilparting
 |davor=Wilparting, Wallfahrtskirche St. Marinus u. Anianus

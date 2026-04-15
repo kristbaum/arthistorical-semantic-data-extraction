@@ -5,6 +5,7 @@
 |Originalseitenvon=290
 |Originalseitenbis=291
 |Lemma=Embleme-Register (Band 4)
+|Meta=Embleme-Register
 |davor=Ikonographisches Register (Band 4)
 |danach=
 }}

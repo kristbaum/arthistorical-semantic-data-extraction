@@ -5,6 +5,7 @@
 |Originalseitenvon=212
 |Originalseitenbis=212
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Refektorium
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Konventbau, Dreikönigskapelle am Kreuzgang

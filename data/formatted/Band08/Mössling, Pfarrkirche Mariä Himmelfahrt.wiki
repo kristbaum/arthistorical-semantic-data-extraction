@@ -5,6 +5,7 @@
 |Originalseitenvon=157
 |Originalseitenbis=159
 |Lemma=Mössling, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Mössling
 |davor=Mettenheim, Pfarrkirche St. Michael

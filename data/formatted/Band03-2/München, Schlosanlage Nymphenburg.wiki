@@ -5,6 +5,7 @@
 |Originalseitenvon=354
 |Originalseitenbis=354
 |Lemma=München, Schlosanlage Nymphenburg
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, ehem. Hofgartengalerie

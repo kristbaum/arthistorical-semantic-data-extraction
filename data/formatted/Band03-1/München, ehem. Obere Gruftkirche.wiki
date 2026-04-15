@@ -5,6 +5,7 @@
 |Originalseitenvon=265
 |Originalseitenbis=265
 |Lemma=München, ehem. Obere Gruftkirche
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Kapelle im ehem. Stadthaus des Klosters Ettal

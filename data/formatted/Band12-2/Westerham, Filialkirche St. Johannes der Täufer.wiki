@@ -5,6 +5,7 @@
 |Originalseitenvon=542
 |Originalseitenbis=548
 |Lemma=Westerham, Filialkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Westerham
 |davor=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Räume über der Sakristei

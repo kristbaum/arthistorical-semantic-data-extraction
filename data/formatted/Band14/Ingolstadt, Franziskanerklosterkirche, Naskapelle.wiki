@@ -5,6 +5,7 @@
 |Originalseitenvon=42
 |Originalseitenbis=48
 |Lemma=Ingolstadt, Franziskanerklosterkirche, Naskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Ingolstadt
 |davor=Ingolstadt, Franziskanerklosterkirche, Antoniuskapelle

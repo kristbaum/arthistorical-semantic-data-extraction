@@ -5,6 +5,7 @@
 |Originalseitenvon=458
 |Originalseitenbis=461
 |Lemma=Personenregister (Band 13)
+|Meta=Personenregister
 |davor=Ortsregister (Band 13)
 |danach=Ikonographisches Register (Band 13)
 }}

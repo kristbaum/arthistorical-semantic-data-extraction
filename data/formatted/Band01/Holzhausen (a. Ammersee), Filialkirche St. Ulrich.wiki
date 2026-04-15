@@ -5,6 +5,7 @@
 |Originalseitenvon=101
 |Originalseitenbis=101
 |Lemma=Holzhausen (a. Ammersee), Filialkirche St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Holzhausen (a. Ammersee)
 |davor=Heinrichshofen, Filialkirche St. Andreas

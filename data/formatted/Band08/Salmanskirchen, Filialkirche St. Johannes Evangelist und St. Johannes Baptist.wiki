@@ -5,6 +5,7 @@
 |Originalseitenvon=257
 |Originalseitenbis=260
 |Lemma=Salmanskirchen, Filialkirche St. Johannes Evangelist und St. Johannes Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Salmanskirchen
 |davor=Riedbach, Filialkirche St. Rupert

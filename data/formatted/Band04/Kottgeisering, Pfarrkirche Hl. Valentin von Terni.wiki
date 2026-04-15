@@ -5,6 +5,7 @@
 |Originalseitenvon=175
 |Originalseitenbis=184
 |Lemma=Kottgeisering, Pfarrkirche Hl. Valentin von Terni
+|Meta=
 |Typ=Sakral
 |Ort=Kottgeisering
 |davor=Jesenwang, Pestkapelle Maria Trost

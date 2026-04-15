@@ -5,6 +5,7 @@
 |Originalseitenvon=96
 |Originalseitenbis=96
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Zelle
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer

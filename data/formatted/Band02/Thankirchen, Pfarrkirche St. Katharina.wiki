@@ -5,6 +5,7 @@
 |Originalseitenvon=256
 |Originalseitenbis=260
 |Lemma=Thankirchen, Pfarrkirche St. Katharina
+|Meta=
 |Typ=Sakral
 |Ort=Thankirchen
 |davor=Siegertshofen, Kapelle St. Elisabeth

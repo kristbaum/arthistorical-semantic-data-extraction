@@ -5,6 +5,7 @@
 |Originalseitenvon=346
 |Originalseitenbis=355
 |Lemma=Lippertskirchen, Filialkirche Maria Morgenstern
+|Meta=
 |Typ=Sakral
 |Ort=Lippertskirchen
 |davor=Leonhardspfunzen, Kapelle

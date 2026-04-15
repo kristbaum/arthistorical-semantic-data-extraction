@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=29
 |Lemma=Aich, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Aich
 |davor=Vorwort Dank (Band 6)

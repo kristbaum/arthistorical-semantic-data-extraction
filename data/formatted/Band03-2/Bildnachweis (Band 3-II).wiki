@@ -5,6 +5,7 @@
 |Originalseitenvon=620
 |Originalseitenbis=621
 |Lemma=Bildnachweis (Band 3-II)
+|Meta=Bildnachweis
 |davor=Embleme-Register (Band 3-II)
 |danach=
 }}

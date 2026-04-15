@@ -5,6 +5,7 @@
 |Originalseitenvon=145
 |Originalseitenbis=150
 |Lemma=Ingolstadt, Decke des sog. Illuminatensaals
+|Meta=
 |Typ=Profan
 |Ort=Ingolstadt
 |davor=Ingolstadt, Sog. Orbansaal im Jesuitenkolleg

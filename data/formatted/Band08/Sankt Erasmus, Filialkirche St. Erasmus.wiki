@@ -5,6 +5,7 @@
 |Originalseitenvon=261
 |Originalseitenbis=266
 |Lemma=Sankt Erasmus, Filialkirche St. Erasmus
+|Meta=
 |Typ=Sakral
 |Ort=Sankt Erasmus
 |davor=Salmanskirchen, Filialkirche St. Johannes Evangelist und St. Johannes Baptist

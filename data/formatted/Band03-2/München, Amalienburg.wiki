@@ -5,6 +5,7 @@
 |Originalseitenvon=421
 |Originalseitenbis=423
 |Lemma=München, Amalienburg
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Magdalenenklause

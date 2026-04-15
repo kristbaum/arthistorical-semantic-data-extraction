@@ -5,6 +5,7 @@
 |Originalseitenvon=221
 |Originalseitenbis=231
 |Lemma=Pürten, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Pürten
 |davor=Polling, Kuratiekirche Mariä Heimsuchung

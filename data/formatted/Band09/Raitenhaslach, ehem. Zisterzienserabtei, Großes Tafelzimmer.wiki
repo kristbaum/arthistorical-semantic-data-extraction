@@ -5,6 +5,7 @@
 |Originalseitenvon=210
 |Originalseitenbis=210
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Großes Tafelzimmer
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Loggia im Gartenstöckl

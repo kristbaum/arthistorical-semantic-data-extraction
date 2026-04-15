@@ -5,6 +5,7 @@
 |Originalseitenvon=289
 |Originalseitenbis=289
 |Lemma=Andechs, Ehem. Benediktinerabtei
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Winkl, Pfarrkirche St. Peter und Paul

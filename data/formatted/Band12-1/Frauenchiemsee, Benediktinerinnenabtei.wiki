@@ -5,6 +5,7 @@
 |Originalseitenvon=154
 |Originalseitenbis=155
 |Lemma=Frauenchiemsee, Benediktinerinnenabtei
+|Meta=
 |Typ=Sakral
 |Ort=Frauenchiemsee
 |davor=Frasdorf, Pfarrkirche St. Margareta

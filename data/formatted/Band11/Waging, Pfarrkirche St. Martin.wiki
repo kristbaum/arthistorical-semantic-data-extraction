@@ -5,6 +5,7 @@
 |Originalseitenvon=196
 |Originalseitenbis=200
 |Lemma=Waging, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Waging
 |davor=Unterwössen, Pfarrkirche St. Martin

@@ -5,6 +5,7 @@
 |Originalseitenvon=104
 |Originalseitenbis=106
 |Lemma=Eschlbach, Pfarrkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Eschlbach
 |davor=Eitting, Pfarrkirche St. Georg

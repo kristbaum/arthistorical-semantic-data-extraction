@@ -5,6 +5,7 @@
 |Originalseitenvon=289
 |Originalseitenbis=299
 |Lemma=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei

@@ -5,6 +5,7 @@
 |Originalseitenvon=348
 |Originalseitenbis=350
 |Lemma=Marienstein, Priorat des Augustinerinnenklosters Marienstein
+|Meta=
 |Typ=Sakral
 |Ort=Marienstein
 |davor=Lippertshofen, Filialkirche St. Georg und St. Leonhard

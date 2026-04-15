@@ -5,6 +5,7 @@
 |Originalseitenvon=295
 |Originalseitenbis=301
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Lauberstube
+|Meta=
 |Typ=Profan
 |Ort=Hohenaschau
 |davor=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Vestibül

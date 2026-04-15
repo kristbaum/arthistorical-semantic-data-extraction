@@ -5,6 +5,7 @@
 |Originalseitenvon=241
 |Originalseitenbis=244
 |Lemma=Eichstätt, ehem. Domherrenhof Schönborn
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Sommerstube

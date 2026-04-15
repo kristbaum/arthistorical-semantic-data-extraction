@@ -5,6 +5,7 @@
 |Originalseitenvon=45
 |Originalseitenbis=48
 |Lemma=Berg, ehem. Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Berg
 |davor=Baumburg, Ehem. Augustiner-Chorherrenstift, Turmaufgang

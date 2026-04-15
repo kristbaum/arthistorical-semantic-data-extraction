@@ -5,6 +5,7 @@
 |Originalseitenvon=91
 |Originalseitenbis=94
 |Lemma=Seeon-Seebruck, Klosterseeon
+|Meta=
 |Typ=Sakral
 |Ort=Seeon-Seebruck
 |davor=Kay, Pfarrkirche St. Martin

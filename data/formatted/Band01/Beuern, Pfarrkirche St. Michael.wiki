@@ -5,6 +5,7 @@
 |Originalseitenvon=25
 |Originalseitenbis=27
 |Lemma=Beuern, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Beuern
 |davor=Beuerbach (Weil), Kapelle im Holz Maria Eich

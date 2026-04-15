@@ -5,6 +5,7 @@
 |Originalseitenvon=78
 |Originalseitenbis=81
 |Lemma=Geltendorf, Pfarrkirche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=Geltendorf
 |davor=Erpfting, Pfarrhof im ehem. kath. Pfarrhaus

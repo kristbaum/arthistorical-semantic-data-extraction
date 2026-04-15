@@ -5,6 +5,7 @@
 |Originalseitenvon=426
 |Originalseitenbis=427
 |Lemma=Kienberg, Kapelle St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Kienberg
 |davor=Kirchberg, Pfarrkirche St. Jakobus Major

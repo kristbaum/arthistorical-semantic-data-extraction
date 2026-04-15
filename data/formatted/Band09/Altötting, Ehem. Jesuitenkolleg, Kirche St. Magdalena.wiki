@@ -5,6 +5,7 @@
 |Originalseitenvon=18
 |Originalseitenbis=22
 |Lemma=Altötting, Ehem. Jesuitenkolleg, Kirche St. Magdalena
+|Meta=
 |Typ=Sakral
 |Ort=Altötting
 |davor=Vorwort (Band 9)

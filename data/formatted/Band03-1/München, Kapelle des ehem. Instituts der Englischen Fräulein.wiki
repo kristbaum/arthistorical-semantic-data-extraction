@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=219
 |Lemma=München, Kapelle des ehem. Instituts der Englischen Fräulein
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, ehem. Kloster der Elisabethinerinnen

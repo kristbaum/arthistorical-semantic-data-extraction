@@ -5,6 +5,7 @@
 |Originalseitenvon=223
 |Originalseitenbis=227
 |Lemma=Neuburg an der Donau, Schloß, Diana-Zimmer
+|Meta=
 |Typ=Profan
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, Schloß, Saal im Nordturm

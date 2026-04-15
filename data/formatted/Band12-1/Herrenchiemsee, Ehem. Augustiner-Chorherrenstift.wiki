@@ -5,6 +5,7 @@
 |Originalseitenvon=187
 |Originalseitenbis=190
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Heilig Blut am Wasen, Pfarrkirche Heiligste Dreifaltigkeit

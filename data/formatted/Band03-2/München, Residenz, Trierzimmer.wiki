@@ -5,6 +5,7 @@
 |Originalseitenvon=137
 |Originalseitenbis=168
 |Lemma=München, Residenz, Trierzimmer
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt

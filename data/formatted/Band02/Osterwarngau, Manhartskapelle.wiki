@@ -5,6 +5,7 @@
 |Originalseitenvon=541
 |Originalseitenbis=541
 |Lemma=Osterwarngau, Manhartskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Osterwarngau
 |davor=Osterwarngau, Frauenkirche Mariä Opferung

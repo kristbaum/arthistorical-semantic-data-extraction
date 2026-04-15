@@ -5,6 +5,7 @@
 |Originalseitenvon=140
 |Originalseitenbis=148
 |Lemma=Grafrath, Wallfahrts- und Klosterkirche St. Rasso
+|Meta=
 |Typ=Sakral
 |Ort=Grafrath
 |davor=Geiselbullach, Kapelle St. Johannes

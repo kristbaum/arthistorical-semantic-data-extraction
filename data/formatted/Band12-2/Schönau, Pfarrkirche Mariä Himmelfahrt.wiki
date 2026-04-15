@@ -5,6 +5,7 @@
 |Originalseitenvon=472
 |Originalseitenbis=477
 |Lemma=Schönau, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Schönau
 |davor=Sankt Salvator, Wallfahrtskirche St. Salvator

@@ -5,6 +5,7 @@
 |Originalseitenvon=532
 |Originalseitenbis=542
 |Lemma=Steingaden, ehem. Prämonstratenserabteikirche Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Steingaden
 |davor=Sindelsdorf, Pfarrkirche St. Georg

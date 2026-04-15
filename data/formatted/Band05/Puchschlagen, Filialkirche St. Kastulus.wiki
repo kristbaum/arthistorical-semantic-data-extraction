@@ -5,6 +5,7 @@
 |Originalseitenvon=212
 |Originalseitenbis=223
 |Lemma=Puchschlagen, Filialkirche St. Kastulus
+|Meta=
 |Typ=Sakral
 |Ort=Puchschlagen
 |davor=Pipinsried, Wallfahrtskapelle St. Wolfgang

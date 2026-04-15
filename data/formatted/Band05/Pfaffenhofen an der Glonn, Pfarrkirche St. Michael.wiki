@@ -5,6 +5,7 @@
 |Originalseitenvon=192
 |Originalseitenbis=201
 |Lemma=Pfaffenhofen an der Glonn, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Pfaffenhofen an der Glonn
 |davor=Orthofen, Filialkirche Hl. Kreuzauffindung

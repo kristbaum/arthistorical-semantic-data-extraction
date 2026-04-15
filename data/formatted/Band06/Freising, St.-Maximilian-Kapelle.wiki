@@ -5,6 +5,7 @@
 |Originalseitenvon=128
 |Originalseitenbis=132
 |Lemma=Freising, St.-Maximilian-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, St. Johann Nepomuk Kapelle

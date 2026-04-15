@@ -5,6 +5,7 @@
 |Originalseitenvon=73
 |Originalseitenbis=78
 |Lemma=München-Bogenhausen, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=München-Bogenhausen
 |davor=München (Berg am Laim), Stadtpfarrkirche St. Michael

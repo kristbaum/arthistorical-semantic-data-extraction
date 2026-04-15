@@ -5,6 +5,7 @@
 |Originalseitenvon=117
 |Originalseitenbis=119
 |Lemma=Großhesselohe, Dreifaltigkeitskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Großhesselohe
 |davor=Garching bei München, Alte Pfarrkirche St. Katharina

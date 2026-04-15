@@ -5,6 +5,7 @@
 |Originalseitenvon=124
 |Originalseitenbis=131
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Bibliothek
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gastzimmer

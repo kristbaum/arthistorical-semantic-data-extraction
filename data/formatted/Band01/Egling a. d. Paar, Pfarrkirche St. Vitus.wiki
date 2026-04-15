@@ -5,6 +5,7 @@
 |Originalseitenvon=54
 |Originalseitenbis=62
 |Lemma=Egling a. d. Paar, Pfarrkirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Egling a. d. Paar
 |davor=Eching a. Ammersee, Pfarrkirche St. Peter und Paul

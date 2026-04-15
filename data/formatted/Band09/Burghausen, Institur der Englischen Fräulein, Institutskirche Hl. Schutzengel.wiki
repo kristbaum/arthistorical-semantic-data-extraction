@@ -5,6 +5,7 @@
 |Originalseitenvon=70
 |Originalseitenbis=74
 |Lemma=Burghausen, Institur der Englischen Fräulein, Institutskirche Hl. Schutzengel
+|Meta=
 |Typ=Sakral
 |Ort=Burghausen
 |davor=Burghausen, ehem. Jesuitenkolleg, Kleine Aula

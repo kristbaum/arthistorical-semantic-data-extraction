@@ -5,6 +5,7 @@
 |Originalseitenvon=93
 |Originalseitenbis=97
 |Lemma=Dinkelshausen, Nebenkirche St. Gertrud von Helfta
+|Meta=
 |Typ=Sakral
 |Ort=Dinkelshausen
 |davor=Dezenacker, Pfarrkirche St. Elisabeth von Thüringen

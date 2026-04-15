@@ -5,6 +5,7 @@
 |Originalseitenvon=284
 |Originalseitenbis=286
 |Lemma=Personenregister (Band 4)
+|Meta=Personenregister
 |davor=Ortsregister (Band 4)
 |danach=Ikonographisches Register (Band 4)
 }}

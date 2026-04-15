@@ -5,6 +5,7 @@
 |Originalseitenvon=470
 |Originalseitenbis=471
 |Lemma=Prem, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Prem
 |davor=Polling, ehem. Augustiner-Chorherrenstift, Saal

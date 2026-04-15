@@ -5,6 +5,7 @@
 |Originalseitenvon=61
 |Originalseitenbis=61
 |Lemma=München-Aubing, Pfarrkirche St. Quirin
+|Meta=
 |Typ=Sakral
 |Ort=München-Aubing
 |davor=München, Theatinerkirche St. Kajetan

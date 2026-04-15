@@ -5,6 +5,7 @@
 |Originalseitenvon=305
 |Originalseitenbis=307
 |Lemma=Jakobsberg, Filialkirche St. Jakobus der Ältere
+|Meta=
 |Typ=Sakral
 |Ort=Jakobsberg
 |davor=

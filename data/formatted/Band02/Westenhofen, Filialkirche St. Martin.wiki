@@ -5,6 +5,7 @@
 |Originalseitenvon=611
 |Originalseitenbis=612
 |Lemma=Westenhofen, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Westenhofen
 |davor=Wall, Pfarrkirche St. Margareta

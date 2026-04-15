@@ -5,6 +5,7 @@
 |Originalseitenvon=140
 |Originalseitenbis=144
 |Lemma=Indersdorf, Kloster, Klostergebäude
+|Meta=
 |Typ=Sakral
 |Ort=Indersdorf
 |davor=Indersdorf, Kloster, Rosenkranzkapelle

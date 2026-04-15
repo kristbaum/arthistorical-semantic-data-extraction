@@ -5,6 +5,7 @@
 |Originalseitenvon=41
 |Originalseitenbis=43
 |Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Almau
 |davor=Baumburg, Ehem. Augustiner-Chorherrenstift, Ehem. Stiftskirche

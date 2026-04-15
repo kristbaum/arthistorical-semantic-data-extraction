@@ -5,6 +5,7 @@
 |Originalseitenvon=80
 |Originalseitenbis=84
 |Lemma=Burgrain, Schlosskapelle St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Burgrain
 |davor=Burgharting, Pfarrkirche St. Vitus

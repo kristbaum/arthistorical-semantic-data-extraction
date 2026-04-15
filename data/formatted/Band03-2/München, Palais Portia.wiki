@@ -5,6 +5,7 @@
 |Originalseitenvon=576
 |Originalseitenbis=576
 |Lemma=München, Palais Portia
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Palais Tattenbach

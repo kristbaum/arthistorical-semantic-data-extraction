@@ -5,6 +5,7 @@
 |Originalseitenvon=297
 |Originalseitenbis=303
 |Lemma=Tünzhausen, Filialkirche St. Petrus und Paulus
+|Meta=
 |Typ=Sakral
 |Ort=Tünzhausen
 |davor=Thalhausen, Schlosskapelle St. Anna

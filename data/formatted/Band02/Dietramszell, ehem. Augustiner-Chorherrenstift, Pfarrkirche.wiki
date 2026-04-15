@@ -5,6 +5,7 @@
 |Originalseitenvon=148
 |Originalseitenbis=156
 |Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, Pfarrkirche
+|Meta=
 |Typ=Sakral
 |Ort=Dietramszell
 |davor=Bichl, Filialkirche St. Georg

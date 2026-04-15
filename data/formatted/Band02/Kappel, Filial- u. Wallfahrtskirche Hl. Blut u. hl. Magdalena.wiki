@@ -5,6 +5,7 @@
 |Originalseitenvon=350
 |Originalseitenbis=354
 |Lemma=Kappel, Filial- u. Wallfahrtskirche Hl. Blut u. hl. Magdalena
+|Meta=
 |Typ=Sakral
 |Ort=Kappel
 |davor=Grainau, Pfarrkirche Johann Baptist

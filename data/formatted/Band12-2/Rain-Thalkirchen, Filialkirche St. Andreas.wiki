@@ -5,6 +5,7 @@
 |Originalseitenvon=411
 |Originalseitenbis=416
 |Lemma=Rain/Thalkirchen, Filialkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Rain/Thalkirchen
 |davor=Prien am Chiemsee, Pfarrkirche Mariä Himmelfahrt

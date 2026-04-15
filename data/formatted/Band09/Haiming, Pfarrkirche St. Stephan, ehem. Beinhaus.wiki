@@ -5,6 +5,7 @@
 |Originalseitenvon=96
 |Originalseitenbis=97
 |Lemma=Haiming, Pfarrkirche St. Stephan, ehem. Beinhaus
+|Meta=
 |Typ=Sakral
 |Ort=Haiming
 |davor=Haiming, Pfarrkirche St. Stephan, Vorhalle

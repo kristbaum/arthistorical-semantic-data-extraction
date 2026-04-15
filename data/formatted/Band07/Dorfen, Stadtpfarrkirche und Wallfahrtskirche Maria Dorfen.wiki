@@ -5,6 +5,7 @@
 |Originalseitenvon=85
 |Originalseitenbis=95
 |Lemma=Dorfen, Stadtpfarrkirche und Wallfahrtskirche Maria Dorfen
+|Meta=
 |Typ=Sakral
 |Ort=Dorfen
 |davor=Burgrain, Schlosskapelle St. Georg

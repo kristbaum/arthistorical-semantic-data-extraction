@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=217
 |Lemma=Oberweikertshofen, Pfarrkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Oberweikertshofen
 |davor=Moorenweis, Pfarrkirche St. Sixtus

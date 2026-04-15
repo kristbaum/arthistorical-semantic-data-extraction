@@ -5,6 +5,7 @@
 |Originalseitenvon=24
 |Originalseitenbis=25
 |Lemma=Aufkirchen, Pfarrkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Aufkirchen
 |davor=Aich, Kuratiekirche St. Peter und Paul

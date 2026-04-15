@@ -5,6 +5,7 @@
 |Originalseitenvon=216
 |Originalseitenbis=231
 |Lemma=Höglwörth, ehem. Augustiner-Chorherrenstifts, ehem. Stiftskirche
+|Meta=
 |Typ=Sakral
 |Ort=Höglwörth
 |davor=Hintersee, Kapelle St. Antonius von Padua

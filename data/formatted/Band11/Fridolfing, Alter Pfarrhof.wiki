@@ -5,6 +5,7 @@
 |Originalseitenvon=51
 |Originalseitenbis=52
 |Lemma=Fridolfing, Alter Pfarrhof
+|Meta=
 |Typ=Sakral
 |Ort=Fridolfing
 |davor=Deinting, Filialkirche St. Sixtus und St. Sebastian

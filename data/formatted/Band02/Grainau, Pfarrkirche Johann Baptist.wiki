@@ -5,6 +5,7 @@
 |Originalseitenvon=348
 |Originalseitenbis=349
 |Lemma=Grainau, Pfarrkirche Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Grainau
 |davor=Garmisch, Pfarrkirche St. Martin

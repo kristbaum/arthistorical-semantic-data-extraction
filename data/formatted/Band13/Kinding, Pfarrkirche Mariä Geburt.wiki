@@ -5,6 +5,7 @@
 |Originalseitenvon=293
 |Originalseitenbis=295
 |Lemma=Kinding, Pfarrkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Kinding
 |davor=Kevenhüll, Pfarrkirche St. Ulrich

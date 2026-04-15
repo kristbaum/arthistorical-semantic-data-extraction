@@ -5,6 +5,7 @@
 |Originalseitenvon=239
 |Originalseitenbis=245
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Stiftskirche
+|Meta=
 |Typ=Sakral
 |Ort=Schlehdorf
 |davor=St. Leonhard, Wallfahrtskirche St. Leonhard

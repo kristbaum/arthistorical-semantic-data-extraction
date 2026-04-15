@@ -5,6 +5,7 @@
 |Originalseitenvon=372
 |Originalseitenbis=375
 |Lemma=Ochsenfeld, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Ochsenfeld
 |davor=Nassenfels, Pfarrkirche St. Nikolaus

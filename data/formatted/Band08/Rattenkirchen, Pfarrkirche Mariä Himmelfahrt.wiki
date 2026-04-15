@@ -5,6 +5,7 @@
 |Originalseitenvon=232
 |Originalseitenbis=247
 |Lemma=Rattenkirchen, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Rattenkirchen
 |davor=Pürten, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

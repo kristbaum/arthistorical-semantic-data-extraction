@@ -5,6 +5,7 @@
 |Originalseitenvon=163
 |Originalseitenbis=168
 |Lemma=Siegertsbrunn, Filial- und Wallfahrtskirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Siegertsbrunn
 |davor=Siegertsbrunn, Pfarrkirche St. Peter

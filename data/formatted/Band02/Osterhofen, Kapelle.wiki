@@ -5,6 +5,7 @@
 |Originalseitenvon=535
 |Originalseitenbis=536
 |Lemma=Osterhofen, Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Osterhofen
 |davor=Neukirchen, Pfarrkirche St. Dionysius

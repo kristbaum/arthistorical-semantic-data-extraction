@@ -5,6 +5,7 @@
 |Originalseitenvon=233
 |Originalseitenbis=234
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons

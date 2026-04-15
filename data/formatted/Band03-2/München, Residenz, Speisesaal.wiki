@@ -5,6 +5,7 @@
 |Originalseitenvon=344
 |Originalseitenbis=345
 |Lemma=München, Residenz, Speisesaal
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Prunktreppenhaus

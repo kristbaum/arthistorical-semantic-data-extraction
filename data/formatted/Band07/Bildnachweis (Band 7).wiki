@@ -5,6 +5,7 @@
 |Originalseitenvon=328
 |Originalseitenbis=328
 |Lemma=Bildnachweis (Band 7)
+|Meta=Bildnachweis
 |davor=Wörth, Pfarrkirche St. Petrus
 |danach=Ortsregister (Band 7)
 }}

@@ -5,6 +5,7 @@
 |Originalseitenvon=134
 |Originalseitenbis=145
 |Lemma=Heilig Blut bei Erding, Wallfahrtskirche
+|Meta=
 |Typ=Sakral
 |Ort=Heilig Blut bei Erding
 |davor=Hecken, Filialkirche St. Margareta

@@ -5,6 +5,7 @@
 |Originalseitenvon=51
 |Originalseitenbis=55
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Anna- oder Kolumbakapelle
+|Meta=
 |Typ=Sakral
 |Ort=Altenhohenau
 |davor=Altenhohenau, Dominikanerinnenkloster, Nonnenchor

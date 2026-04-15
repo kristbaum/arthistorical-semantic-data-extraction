@@ -5,6 +5,7 @@
 |Originalseitenvon=130
 |Originalseitenbis=141
 |Lemma=Maria Beinberg, Wallfahrtskirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Maria Beinberg
 |davor=Langenmosen, Pfarrkirche St. Andreas

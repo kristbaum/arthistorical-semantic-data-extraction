@@ -5,6 +5,7 @@
 |Originalseitenvon=178
 |Originalseitenbis=178
 |Lemma=Obermühlhausen, Filialkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Obermühlhausen
 |davor=Obermeitingen, Pfarrkirche St. Mauritius

@@ -5,6 +5,7 @@
 |Originalseitenvon=339
 |Originalseitenbis=343
 |Lemma=München, Residenz, Grüne Galerie
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Ahnengalerie

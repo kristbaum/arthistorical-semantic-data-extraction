@@ -5,6 +5,7 @@
 |Originalseitenvon=177
 |Originalseitenbis=196
 |Lemma=München, Residenz, Kaisersaal
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe

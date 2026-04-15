@@ -5,6 +5,7 @@
 |Originalseitenvon=404
 |Originalseitenbis=406
 |Lemma=Haunshofen, Pfarrkirche St. Gallus
+|Meta=
 |Typ=Sakral
 |Ort=Haunshofen
 |davor=Deutenhausen, Filialkirche St. Johann Baptist

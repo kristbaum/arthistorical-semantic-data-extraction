@@ -5,6 +5,7 @@
 |Originalseitenvon=263
 |Originalseitenbis=265
 |Lemma=Vilgertshofen, Wirtshaus
+|Meta=
 |Typ=Profan
 |Ort=Vilgertshofen
 |davor=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes

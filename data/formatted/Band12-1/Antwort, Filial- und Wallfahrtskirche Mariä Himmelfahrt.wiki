@@ -5,6 +5,7 @@
 |Originalseitenvon=56
 |Originalseitenbis=60
 |Lemma=Antwort, Filial- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Antwort
 |davor=Altenhohenau, Dominikanerinnenkloster, Anna- oder Kolumbakapelle

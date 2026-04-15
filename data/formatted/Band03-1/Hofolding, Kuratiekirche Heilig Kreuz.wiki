@@ -5,6 +5,7 @@
 |Originalseitenvon=122
 |Originalseitenbis=126
 |Lemma=Hofolding, Kuratiekirche Heilig Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Hofolding
 |davor=Höhenkirchen, Pfarrkirche Mariä Geburt

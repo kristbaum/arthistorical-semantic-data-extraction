@@ -5,6 +5,7 @@
 |Originalseitenvon=172
 |Originalseitenbis=177
 |Lemma=Obermeitingen, Pfarrkirche St. Mauritius
+|Meta=
 |Typ=Sakral
 |Ort=Obermeitingen
 |davor=Oberigling, Pfarrkirche St. Peter und Paul

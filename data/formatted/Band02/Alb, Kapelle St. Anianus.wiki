@@ -5,6 +5,7 @@
 |Originalseitenvon=447
 |Originalseitenbis=450
 |Lemma=Alb, Kapelle St. Anianus
+|Meta=
 |Typ=Sakral
 |Ort=Alb
 |davor=Wurmannsau, Kapelle St. Joseph

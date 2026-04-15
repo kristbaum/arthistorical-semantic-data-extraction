@@ -5,6 +5,7 @@
 |Originalseitenvon=548
 |Originalseitenbis=552
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Maximilianskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Vor-, Audienz-, Schlaf- und Wohnzimmer des Kurfürsten

@@ -5,6 +5,7 @@
 |Originalseitenvon=581
 |Originalseitenbis=581
 |Lemma=München, Schloss Neuberghausen
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Schloss Harlaching

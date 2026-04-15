@@ -5,6 +5,7 @@
 |Originalseitenvon=37
 |Originalseitenbis=52
 |Lemma=München, St. Johann Nepomuk, sog. Asamkirche
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Dreifaltigkeitskirche

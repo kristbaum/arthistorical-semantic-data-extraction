@@ -5,6 +5,7 @@
 |Originalseitenvon=241
 |Originalseitenbis=246
 |Lemma=Unterdießen, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Unterdießen
 |davor=Unterbeuern, Kapelle St. Magnus

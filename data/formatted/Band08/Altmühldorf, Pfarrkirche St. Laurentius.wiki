@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=22
 |Lemma=Altmühldorf, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Altmühldorf
 |davor=Vorwort (Band 8)

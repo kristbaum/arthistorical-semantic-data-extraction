@@ -5,6 +5,7 @@
 |Originalseitenvon=238
 |Originalseitenbis=244
 |Lemma=Oberbierbach, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Oberbierbach
 |davor=Notzing, Filialkirche St. Nikolaus

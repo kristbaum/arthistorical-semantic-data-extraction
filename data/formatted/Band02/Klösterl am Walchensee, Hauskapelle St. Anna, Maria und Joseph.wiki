@@ -5,6 +5,7 @@
 |Originalseitenvon=195
 |Originalseitenbis=198
 |Lemma=Klösterl am Walchensee, Hauskapelle St. Anna, Maria und Joseph
+|Meta=
 |Typ=Sakral
 |Ort=Klösterl am Walchensee
 |davor=Jachenau, Pfarrkirche St. Nikolaus

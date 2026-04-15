@@ -5,6 +5,7 @@
 |Originalseitenvon=553
 |Originalseitenbis=560
 |Lemma=Weilheim, Stadtpfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Weilheim
 |davor=Unterhausen, Pfarr- und Wallfahrtskirche Unsere Liebe Frau

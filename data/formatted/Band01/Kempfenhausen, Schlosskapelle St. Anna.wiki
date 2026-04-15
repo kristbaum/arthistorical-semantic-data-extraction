@@ -5,6 +5,7 @@
 |Originalseitenvon=332
 |Originalseitenbis=334
 |Lemma=Kempfenhausen, Schlosskapelle St. Anna
+|Meta=
 |Typ=Sakral
 |Ort=Kempfenhausen
 |davor=Inning a. Ammersee, Pfarrkirche St. Johann Baptist

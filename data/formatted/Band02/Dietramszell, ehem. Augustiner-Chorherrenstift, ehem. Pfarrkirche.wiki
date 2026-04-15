@@ -5,6 +5,7 @@
 |Originalseitenvon=158
 |Originalseitenbis=164
 |Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, ehem. Pfarrkirche
+|Meta=
 |Typ=Sakral
 |Ort=Dietramszell
 |davor=Dietramszell, ehem. Augustiner-Chorherrenstift, Psallierkirche

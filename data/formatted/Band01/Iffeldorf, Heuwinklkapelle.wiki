@@ -5,6 +5,7 @@
 |Originalseitenvon=419
 |Originalseitenbis=421
 |Lemma=Iffeldorf, Heuwinklkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Iffeldorf
 |davor=Iffeldorf, Pfarrkirche Hll. Vitus und Margareta

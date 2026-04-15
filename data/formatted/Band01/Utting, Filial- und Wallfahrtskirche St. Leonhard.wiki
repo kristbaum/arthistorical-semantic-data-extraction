@@ -5,6 +5,7 @@
 |Originalseitenvon=254
 |Originalseitenbis=254
 |Lemma=Utting, Filial- und Wallfahrtskirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Utting
 |davor=Untermühlhausen, Pfarrkirche St. Benedikt

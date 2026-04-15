@@ -5,6 +5,7 @@
 |Originalseitenvon=470
 |Originalseitenbis=496
 |Lemma=Fischbachau, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Fischbachau
 |davor=Elbach, Pfarrkirche St. Andreas

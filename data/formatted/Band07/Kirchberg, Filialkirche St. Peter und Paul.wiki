@@ -5,6 +5,7 @@
 |Originalseitenvon=183
 |Originalseitenbis=186
 |Lemma=Kirchberg, Filialkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Kirchberg
 |davor=Jaibing, Filialkirche Johannes der Täufer

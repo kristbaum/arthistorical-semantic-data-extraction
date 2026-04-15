@@ -5,6 +5,7 @@
 |Originalseitenvon=183
 |Originalseitenbis=184
 |Lemma=Mühldorf, Votivkapelle Maria Eich
+|Meta=
 |Typ=Sakral
 |Ort=Mühldorf
 |davor=Mühldorf, Filialkirche St. Katharina

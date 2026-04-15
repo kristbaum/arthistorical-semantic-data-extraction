@@ -5,6 +5,7 @@
 |Originalseitenvon=234
 |Originalseitenbis=241
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Bibliothek
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Garten- oder Fürstenzimmer

@@ -5,6 +5,7 @@
 |Originalseitenvon=204
 |Originalseitenbis=208
 |Lemma=Oberneukirchen, Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Oberneukirchen
 |davor=Oberflossing, Pfarrkirche St. Johann Baptist, Seelenkapelle

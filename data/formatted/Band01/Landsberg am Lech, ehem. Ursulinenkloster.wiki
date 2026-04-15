@@ -5,6 +5,7 @@
 |Originalseitenvon=144
 |Originalseitenbis=155
 |Lemma=Landsberg am Lech, ehem. Ursulinenkloster
+|Meta=
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche

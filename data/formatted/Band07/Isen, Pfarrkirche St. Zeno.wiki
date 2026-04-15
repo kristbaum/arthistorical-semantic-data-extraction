@@ -5,6 +5,7 @@
 |Originalseitenvon=169
 |Originalseitenbis=177
 |Lemma=Isen, Pfarrkirche St. Zeno
+|Meta=
 |Typ=Sakral
 |Ort=Isen
 |davor=Hohenpolding, ehem. Friedhofskapelle

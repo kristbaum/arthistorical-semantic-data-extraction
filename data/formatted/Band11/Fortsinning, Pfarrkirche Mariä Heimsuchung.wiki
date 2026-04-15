@@ -5,6 +5,7 @@
 |Originalseitenvon=337
 |Originalseitenbis=342
 |Lemma=Fortsinning, Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Fortsinning
 |davor=Emmering, Pfarrkirche St. Pankratius

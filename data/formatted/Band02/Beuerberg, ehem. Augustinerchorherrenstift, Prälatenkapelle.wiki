@@ -5,6 +5,7 @@
 |Originalseitenvon=137
 |Originalseitenbis=137
 |Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Prälatenkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Beuerberg
 |davor=Beuerberg, ehem. Augustinerchorherrenstift, Festsaal

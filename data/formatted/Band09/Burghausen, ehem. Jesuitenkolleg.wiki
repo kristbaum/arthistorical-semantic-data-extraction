@@ -5,6 +5,7 @@
 |Originalseitenvon=43
 |Originalseitenbis=43
 |Lemma=Burghausen, ehem. Jesuitenkolleg
+|Meta=
 |Typ=Sakral
 |Ort=Burghausen
 |davor=Alzgern, ehem. Beinhaus

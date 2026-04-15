@@ -5,6 +5,7 @@
 |Originalseitenvon=305
 |Originalseitenbis=305
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)

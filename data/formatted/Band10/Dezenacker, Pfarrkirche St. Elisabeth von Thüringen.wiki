@@ -5,6 +5,7 @@
 |Originalseitenvon=85
 |Originalseitenbis=92
 |Lemma=Dezenacker, Pfarrkirche St. Elisabeth von Thüringen
+|Meta=
 |Typ=Sakral
 |Ort=Dezenacker
 |davor=Burgheim, Pfarrkirche St. Kosmas und Damian

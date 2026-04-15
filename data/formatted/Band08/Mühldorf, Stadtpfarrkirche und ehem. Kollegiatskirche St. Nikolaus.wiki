@@ -5,6 +5,7 @@
 |Originalseitenvon=160
 |Originalseitenbis=178
 |Lemma=Mühldorf, Stadtpfarrkirche und ehem. Kollegiatskirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Mühldorf
 |davor=Mössling, Pfarrkirche Mariä Himmelfahrt

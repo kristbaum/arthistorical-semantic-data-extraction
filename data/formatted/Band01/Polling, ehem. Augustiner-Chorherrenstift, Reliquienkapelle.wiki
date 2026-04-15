@@ -5,6 +5,7 @@
 |Originalseitenvon=451
 |Originalseitenbis=455
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Reliquienkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Polling
 |davor=Polling, ehem. Augustiner-Chorherrenstift, Stiftkirche

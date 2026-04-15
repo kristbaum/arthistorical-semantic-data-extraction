@@ -5,6 +5,7 @@
 |Originalseitenvon=192
 |Originalseitenbis=207
 |Lemma=Neuburg an der Donau, ehem. Jesuitengymnasium
+|Meta=
 |Typ=Sakral
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, Studienkirche St. Ursula

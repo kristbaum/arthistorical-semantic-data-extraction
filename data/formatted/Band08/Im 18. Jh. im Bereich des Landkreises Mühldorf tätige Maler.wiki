@@ -5,6 +5,7 @@
 |Originalseitenvon=344
 |Originalseitenbis=349
 |Lemma=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
+|Meta=Malerliste
 |davor=Zangberg, Schloß Zangberg, Ahnensaal
 |danach=Ortsregister (Band 8)
 }}

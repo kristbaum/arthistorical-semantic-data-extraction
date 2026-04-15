@@ -5,6 +5,7 @@
 |Originalseitenvon=234
 |Originalseitenbis=239
 |Lemma=Thaining, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Thaining
 |davor=Stoffen, Pfarrkirche Mariä Heimsuchung

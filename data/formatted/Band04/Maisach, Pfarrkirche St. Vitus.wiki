@@ -5,6 +5,7 @@
 |Originalseitenvon=190
 |Originalseitenbis=192
 |Lemma=Maisach, Pfarrkirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Maisach
 |davor=Luttenwang, Filialkirche Mariä Himmelfahrt

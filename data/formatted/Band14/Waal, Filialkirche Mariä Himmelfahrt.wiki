@@ -5,6 +5,7 @@
 |Originalseitenvon=264
 |Originalseitenbis=268
 |Lemma=Waal, Filialkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Waal
 |davor=Scheyern, Benediktinerabtei, Ehemalige Krankenabteilung

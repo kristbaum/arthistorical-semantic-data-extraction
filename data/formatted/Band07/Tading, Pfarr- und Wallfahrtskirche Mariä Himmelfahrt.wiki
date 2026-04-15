@@ -5,6 +5,7 @@
 |Originalseitenvon=296
 |Originalseitenbis=301
 |Lemma=Tading, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Tading
 |davor=Schwindkirchen, Pfarrkirche Mariä Himmelfahrt

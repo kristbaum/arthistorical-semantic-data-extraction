@@ -5,6 +5,7 @@
 |Originalseitenvon=286
 |Originalseitenbis=293
 |Lemma=Weilkirchen, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Weilkirchen
 |davor=Wang, Pfarrkirche St. Georg

@@ -5,6 +5,7 @@
 |Originalseitenvon=313
 |Originalseitenbis=316
 |Lemma=Konstein, sog. Apostelkirche St. Ägidius
+|Meta=
 |Typ=Sakral
 |Ort=Konstein
 |davor=Kösching, Seelenkapelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=166
 |Originalseitenbis=167
 |Lemma=Hanshofen, Filialkirche St. Katharina
+|Meta=
 |Typ=Sakral
 |Ort=Hanshofen
 |davor=Günzlhofen, Pfarrkirche St. Margareta

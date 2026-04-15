@@ -5,6 +5,7 @@
 |Originalseitenvon=103
 |Originalseitenbis=111
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Neuer Festsaal
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Treppenhaus des Südtrakts

@@ -5,6 +5,7 @@
 |Originalseitenvon=66
 |Originalseitenbis=73
 |Lemma=Bergheim, Kapelle Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Bergheim
 |davor=Bergheim, Pfarrkirche St. Mauritius

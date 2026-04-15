@@ -5,6 +5,7 @@
 |Originalseitenvon=122
 |Originalseitenbis=125
 |Lemma=Guttenburg, Schloss
+|Meta=
 |Typ=Profan
 |Ort=Guttenburg
 |davor=Grünbach, Filialkirche St. Leonhard

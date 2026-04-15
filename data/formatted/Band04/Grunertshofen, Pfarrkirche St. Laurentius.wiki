@@ -5,6 +5,7 @@
 |Originalseitenvon=149
 |Originalseitenbis=161
 |Lemma=Grunertshofen, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Grunertshofen
 |davor=Grafrath, Wallfahrts- und Klosterkirche St. Rasso

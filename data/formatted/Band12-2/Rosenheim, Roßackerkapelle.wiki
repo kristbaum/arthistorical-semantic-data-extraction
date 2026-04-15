@@ -5,6 +5,7 @@
 |Originalseitenvon=421
 |Originalseitenbis=425
 |Lemma=Rosenheim, Roßackerkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Rosenheim
 |davor=Ramerberg, Pfarrkirche St. Leonhard

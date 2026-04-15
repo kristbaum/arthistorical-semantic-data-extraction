@@ -5,6 +5,7 @@
 |Originalseitenvon=120
 |Originalseitenbis=121
 |Lemma=Höhenkirchen, Pfarrkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Höhenkirchen
 |davor=Großhesselohe, Dreifaltigkeitskapelle

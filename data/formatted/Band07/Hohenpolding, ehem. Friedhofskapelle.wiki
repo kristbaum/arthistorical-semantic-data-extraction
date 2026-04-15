@@ -5,6 +5,7 @@
 |Originalseitenvon=167
 |Originalseitenbis=168
 |Lemma=Hohenpolding, ehem. Friedhofskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Hohenpolding
 |davor=Hohenpolding, Pfarrkirche Mariä Heimsuchung

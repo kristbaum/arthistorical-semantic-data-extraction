@@ -5,6 +5,7 @@
 |Originalseitenvon=265
 |Originalseitenbis=265
 |Lemma=Wegscheid, Pestkapelle St. Anton
+|Meta=
 |Typ=Sakral
 |Ort=Wegscheid
 |davor=Walchensee, Alte Pfarrkirche St. Jakobus Major

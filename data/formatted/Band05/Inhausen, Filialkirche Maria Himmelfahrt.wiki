@@ -5,6 +5,7 @@
 |Originalseitenvon=86
 |Originalseitenbis=90
 |Lemma=Inhausen, Filialkirche Maria Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Inhausen
 |davor=Hirtlbach, Pfarrkirche St. Valentin

@@ -5,6 +5,7 @@
 |Originalseitenvon=17
 |Originalseitenbis=18
 |Lemma=Aising, Filialkirche St. Stephanus
+|Meta=
 |Typ=Sakral
 |Ort=Aising
 |davor=Vorwort (Band 12-I)

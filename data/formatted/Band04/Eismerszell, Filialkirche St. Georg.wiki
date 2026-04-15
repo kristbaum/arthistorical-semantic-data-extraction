@@ -5,6 +5,7 @@
 |Originalseitenvon=33
 |Originalseitenbis=38
 |Lemma=Eismerszell, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Eismerszell
 |davor=Dünzelbach, Pfarrkirche St. Nikolaus

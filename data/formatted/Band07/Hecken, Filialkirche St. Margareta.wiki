@@ -5,6 +5,7 @@
 |Originalseitenvon=130
 |Originalseitenbis=133
 |Lemma=Hecken, Filialkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Hecken
 |davor=Grünbach, Filialkirche St. Andreas

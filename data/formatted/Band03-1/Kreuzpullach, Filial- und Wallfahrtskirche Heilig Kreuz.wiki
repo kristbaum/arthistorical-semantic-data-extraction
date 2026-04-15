@@ -5,6 +5,7 @@
 |Originalseitenvon=137
 |Originalseitenbis=141
 |Lemma=Kreuzpullach, Filial- und Wallfahrtskirche Heilig Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Kreuzpullach
 |davor=Kleinhelfendorf, Marterkapelle St. Emmeram

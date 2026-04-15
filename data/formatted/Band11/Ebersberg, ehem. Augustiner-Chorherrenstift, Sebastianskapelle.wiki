@@ -5,6 +5,7 @@
 |Originalseitenvon=329
 |Originalseitenbis=330
 |Lemma=Ebersberg, ehem. Augustiner-Chorherrenstift, Sebastianskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Ebersberg
 |davor=Ebersberg, ehem. Augustiner-Chorherrenstift

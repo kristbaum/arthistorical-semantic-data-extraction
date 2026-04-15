@@ -5,6 +5,7 @@
 |Originalseitenvon=66
 |Originalseitenbis=73
 |Lemma=Eresing, Pfarrkirche St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Eresing
 |davor=Ellighofen, Filialkirche St. Stephan

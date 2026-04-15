@@ -5,6 +5,7 @@
 |Originalseitenvon=266
 |Originalseitenbis=267
 |Lemma=München, Kirche und Kloster des ehem. Pütrich-Regel-Hauses
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Peterskapelle, sog. Wieskapelle

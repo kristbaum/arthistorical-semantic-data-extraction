@@ -5,6 +5,7 @@
 |Originalseitenvon=29
 |Originalseitenbis=32
 |Lemma=Dünzelbach, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Dünzelbach
 |davor=Biburg, Filialkirche Mariä Geburt

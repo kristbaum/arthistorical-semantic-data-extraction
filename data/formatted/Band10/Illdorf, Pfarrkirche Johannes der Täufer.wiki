@@ -5,6 +5,7 @@
 |Originalseitenvon=110
 |Originalseitenbis=114
 |Lemma=Illdorf, Pfarrkirche Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Illdorf
 |davor=Hollenbach, Pfarrkirche St. Quirinus von Siscia

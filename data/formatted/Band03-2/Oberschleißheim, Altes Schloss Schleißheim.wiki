@@ -5,6 +5,7 @@
 |Originalseitenvon=428
 |Originalseitenbis=430
 |Lemma=Oberschleißheim, Altes Schloss Schleißheim
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude

@@ -5,6 +5,7 @@
 |Originalseitenvon=37
 |Originalseitenbis=42
 |Lemma=Ingolstadt, Franziskanerklosterkirche, Antoniuskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Ingolstadt
 |davor=Ingolstadt, Spitalkirche Heilig Geist

@@ -5,6 +5,7 @@
 |Originalseitenvon=246
 |Originalseitenbis=247
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Psallierchor
+|Meta=
 |Typ=Sakral
 |Ort=Schlehdorf
 |davor=Schlehdorf, ehem. Augustinerchorherrenstift, Stiftskirche

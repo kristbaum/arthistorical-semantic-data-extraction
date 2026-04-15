@@ -5,6 +5,7 @@
 |Originalseitenvon=268
 |Originalseitenbis=271
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau
+|Meta=
 |Typ=Profan
 |Ort=Hohenaschau
 |davor=Högling, Filialkirche St. Martin

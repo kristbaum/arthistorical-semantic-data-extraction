@@ -5,6 +5,7 @@
 |Originalseitenvon=317
 |Originalseitenbis=326
 |Lemma=Kottingwörth, Pfarrkirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Kottingwörth
 |davor=Konstein, sog. Apostelkirche St. Ägidius

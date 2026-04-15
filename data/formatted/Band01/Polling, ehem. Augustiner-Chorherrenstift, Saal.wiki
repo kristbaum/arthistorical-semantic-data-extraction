@@ -5,6 +5,7 @@
 |Originalseitenvon=468
 |Originalseitenbis=469
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Saal
+|Meta=
 |Typ=Sakral
 |Ort=Polling
 |davor=Polling, ehem. Augustiner-Chorherrenstift, Bibliothek

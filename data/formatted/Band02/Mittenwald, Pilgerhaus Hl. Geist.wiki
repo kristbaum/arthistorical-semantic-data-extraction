@@ -5,6 +5,7 @@
 |Originalseitenvon=371
 |Originalseitenbis=374
 |Lemma=Mittenwald, Pilgerhaus Hl. Geist
+|Meta=
 |Typ=Sakral
 |Ort=Mittenwald
 |davor=Mittenwald, Pfarrkirche St. Peter u. Paul

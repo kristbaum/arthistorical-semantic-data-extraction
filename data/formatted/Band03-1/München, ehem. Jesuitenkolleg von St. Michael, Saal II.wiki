@@ -5,6 +5,7 @@
 |Originalseitenvon=244
 |Originalseitenbis=247
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael, Saal II
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, ehem. Jesuitenkolleg von St. Michael, Saal

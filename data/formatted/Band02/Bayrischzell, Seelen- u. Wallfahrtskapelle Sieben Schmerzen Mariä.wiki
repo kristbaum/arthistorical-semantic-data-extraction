@@ -5,6 +5,7 @@
 |Originalseitenvon=460
 |Originalseitenbis=462
 |Lemma=Bayrischzell, Seelen- u. Wallfahrtskapelle Sieben Schmerzen Mariä
+|Meta=
 |Typ=Sakral
 |Ort=Bayrischzell
 |davor=Bayrischzell, Pfarrkirche St. Margareta

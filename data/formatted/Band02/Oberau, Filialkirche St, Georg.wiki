@@ -5,6 +5,7 @@
 |Originalseitenvon=394
 |Originalseitenbis=396
 |Lemma=Oberau, Filialkirche St, Georg
+|Meta=
 |Typ=Sakral
 |Ort=Oberau
 |davor=Oberammergau, Pfarrkirche St. Peter u. Paul

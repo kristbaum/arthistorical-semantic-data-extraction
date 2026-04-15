@@ -5,6 +5,7 @@
 |Originalseitenvon=305
 |Originalseitenbis=306
 |Lemma=Ortsregister (Band 6)
+|Meta=Ortsregister
 |davor=Tünzhausen, Filialkirche St. Petrus und Paulus
 |danach=Personenregister (Band 6)
 }}

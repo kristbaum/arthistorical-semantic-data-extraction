@@ -5,6 +5,7 @@
 |Originalseitenvon=64
 |Originalseitenbis=69
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Anastasiakapelle
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Benediktinerabteikirche

@@ -5,6 +5,7 @@
 |Originalseitenvon=87
 |Originalseitenbis=90
 |Lemma=Hausen bei Geltendorf, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Hausen bei Geltendorf
 |davor=Hagenheim, Filialkirche Unsere Liebe Frau

@@ -5,6 +5,7 @@
 |Originalseitenvon=23
 |Originalseitenbis=28
 |Lemma=Altötting, Institut der Englischen Fräulein, Institutskirche Mariä Vermählung
+|Meta=
 |Typ=Sakral
 |Ort=Altötting
 |davor=Altötting, Ehem. Jesuitenkolleg, Kongregationssaal

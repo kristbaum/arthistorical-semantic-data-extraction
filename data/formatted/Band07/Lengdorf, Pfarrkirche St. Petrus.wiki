@@ -5,6 +5,7 @@
 |Originalseitenvon=201
 |Originalseitenbis=208
 |Lemma=Lengdorf, Pfarrkirche St. Petrus
+|Meta=
 |Typ=Sakral
 |Ort=Lengdorf
 |davor=Langengeisling, Friedhofskapelle

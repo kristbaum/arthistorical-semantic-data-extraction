@@ -5,6 +5,7 @@
 |Originalseitenvon=517
 |Originalseitenbis=522
 |Lemma=Kleinhöhenkirchen, Marienwallfahrt Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Kleinhöhenkirchen
 |davor=Holzkirchen, Pfarrkirche St. Laurentius

@@ -5,6 +5,7 @@
 |Originalseitenvon=549
 |Originalseitenbis=553
 |Lemma=Wildenwart, Schloss, Kapelle
+|Meta=
 |Typ=Profan
 |Ort=Wildenwart
 |davor=Westerham, Filialkirche St. Johannes der Täufer

@@ -5,6 +5,7 @@
 |Originalseitenvon=545
 |Originalseitenbis=547
 |Lemma=Tannenberg, Kapelle St. Joseph
+|Meta=
 |Typ=Sakral
 |Ort=Tannenberg
 |davor=Tannenberg, Pfarrkirche St. Oswald

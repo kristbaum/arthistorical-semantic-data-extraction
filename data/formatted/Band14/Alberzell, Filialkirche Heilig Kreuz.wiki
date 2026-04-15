@@ -5,6 +5,7 @@
 |Originalseitenvon=175
 |Originalseitenbis=178
 |Lemma=Alberzell, Filialkirche Heilig Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Alberzell
 |davor=Zuchering, Pfarrkirche St. Blasius

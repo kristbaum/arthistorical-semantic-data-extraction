@@ -5,6 +5,7 @@
 |Originalseitenvon=425
 |Originalseitenbis=436
 |Lemma=Schambach, Pfarr- und Wallfahrtskirche Hl. Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Schambach
 |davor=Rebdorf, Ehem. Augustiner-Chorherrenstift, Festsaal

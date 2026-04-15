@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=20
 |Lemma=Adelshofen, Kuratiekirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Adelshofen
 |davor=Vorwort (Band 4)

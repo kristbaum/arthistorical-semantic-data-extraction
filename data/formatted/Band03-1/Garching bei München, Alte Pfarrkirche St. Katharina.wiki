@@ -5,6 +5,7 @@
 |Originalseitenvon=112
 |Originalseitenbis=116
 |Lemma=Garching bei München, Alte Pfarrkirche St. Katharina
+|Meta=
 |Typ=Sakral
 |Ort=Garching bei München
 |davor=Arget, Kath. Pfarrkirche St. Michael

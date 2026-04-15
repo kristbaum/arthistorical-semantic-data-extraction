@@ -5,6 +5,7 @@
 |Originalseitenvon=275
 |Originalseitenbis=280
 |Lemma=St. Wolfgang, Pfarr- und Wallfahrtskirche St. Wolfgang
+|Meta=
 |Typ=Sakral
 |Ort=St. Wolfgang
 |davor=Salmannskirchen, Filialkirche St. Oswald

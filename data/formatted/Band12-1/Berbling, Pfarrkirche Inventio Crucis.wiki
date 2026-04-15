@@ -5,6 +5,7 @@
 |Originalseitenvon=90
 |Originalseitenbis=101
 |Lemma=Berbling, Pfarrkirche Inventio Crucis
+|Meta=
 |Typ=Sakral
 |Ort=Berbling
 |davor=Baierbach, Filialkirche St. Magdalena

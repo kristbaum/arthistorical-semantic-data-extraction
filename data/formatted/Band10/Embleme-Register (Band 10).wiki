@@ -5,6 +5,7 @@
 |Originalseitenvon=358
 |Originalseitenbis=360
 |Lemma=Embleme-Register (Band 10)
+|Meta=Embleme-Register
 |davor=Ikonographisches Register (Band 10)
 |danach=
 }}

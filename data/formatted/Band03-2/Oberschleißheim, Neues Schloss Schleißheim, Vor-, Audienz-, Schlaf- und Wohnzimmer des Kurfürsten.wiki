@@ -5,6 +5,7 @@
 |Originalseitenvon=525
 |Originalseitenbis=534
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Vor-, Audienz-, Schlaf- und Wohnzimmer des Kurfürsten
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Große Galerie

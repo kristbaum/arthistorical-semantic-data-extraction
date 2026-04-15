@@ -5,6 +5,7 @@
 |Originalseitenvon=323
 |Originalseitenbis=329
 |Lemma=Ettal, Benediktinerabtei, Kapitel- u. Chorsaal
+|Meta=
 |Typ=Sakral
 |Ort=Ettal
 |davor=Ettal, Benediktinerabtei, Sakristei

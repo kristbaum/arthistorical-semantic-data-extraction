@@ -5,6 +5,7 @@
 |Originalseitenvon=75
 |Originalseitenbis=80
 |Lemma=Burgkirchen an der Alz, Alte Pfarrkirche Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Burgkirchen an der Alz
 |davor=Burghausen, Institur der Englischen Fräulein, Institutskirche Hl. Schutzengel

@@ -5,6 +5,7 @@
 |Originalseitenvon=336
 |Originalseitenbis=342
 |Lemma=Lampferding, Kuratiekirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Kleinholzhausen
 |davor=Kleinholzhausen, Filialkirche St. Johannes der Täufer

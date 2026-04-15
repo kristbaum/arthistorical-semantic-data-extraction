@@ -5,6 +5,7 @@
 |Originalseitenvon=360
 |Originalseitenbis=361
 |Lemma=Wangen, Expositurkirche St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Wangen
 |davor=Unterbrunn, Pfarrkirche St. Laurentius

@@ -5,6 +5,7 @@
 |Originalseitenvon=166
 |Originalseitenbis=174
 |Lemma=Tacherting, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Tacherting
 |davor=Stein a. d. Traun, Feldkapelle sog. Johann-Nepomuk-Kapelle

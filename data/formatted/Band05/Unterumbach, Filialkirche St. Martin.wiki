@@ -5,6 +5,7 @@
 |Originalseitenvon=262
 |Originalseitenbis=265
 |Lemma=Unterumbach, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Unterumbach
 |davor=Strassbach, Filialkriche St. Ottilia von Hohenburg

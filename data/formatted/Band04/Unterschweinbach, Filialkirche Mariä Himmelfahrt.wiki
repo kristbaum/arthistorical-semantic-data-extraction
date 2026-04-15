@@ -5,6 +5,7 @@
 |Originalseitenvon=259
 |Originalseitenbis=263
 |Lemma=Unterschweinbach, Filialkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Unterschweinbach
 |davor=Türkenfeld, Pfarrkirche Mariä Himmelfahrt

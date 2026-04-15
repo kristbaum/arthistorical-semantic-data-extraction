@@ -5,6 +5,7 @@
 |Originalseitenvon=266
 |Originalseitenbis=266
 |Lemma=München, Peterskapelle, sog. Wieskapelle
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, ehem. Obere Gruftkirche

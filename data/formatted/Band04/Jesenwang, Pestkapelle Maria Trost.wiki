@@ -5,6 +5,7 @@
 |Originalseitenvon=172
 |Originalseitenbis=174
 |Lemma=Jesenwang, Pestkapelle Maria Trost
+|Meta=
 |Typ=Sakral
 |Ort=Jesenwang
 |davor=Holzhausen, Filialkirche Inventio Crucis

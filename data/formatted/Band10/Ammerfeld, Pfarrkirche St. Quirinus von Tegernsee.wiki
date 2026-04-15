@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=33
 |Lemma=Ammerfeld, Pfarrkirche St. Quirinus von Tegernsee
+|Meta=
 |Typ=Sakral
 |Ort=Ammerfeld
 |davor=Ambach, Pfarrkirche St. Martin

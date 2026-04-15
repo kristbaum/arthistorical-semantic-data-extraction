@@ -5,6 +5,7 @@
 |Originalseitenvon=8
 |Originalseitenbis=9
 |Lemma=Vorwort Dank (Band 7)
+|Meta=Vorwort
 |davor=Erinnerung an Hermann Bauer (Band 7)
 |danach=Altenerding, Pfarrkirche  Mariä Verkündigung
 |AutorIn1=Büttner, Frank

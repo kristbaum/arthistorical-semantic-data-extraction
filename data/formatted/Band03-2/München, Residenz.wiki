@@ -5,6 +5,7 @@
 |Originalseitenvon=18
 |Originalseitenbis=32
 |Lemma=München, Residenz
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=Vorwort (Band 3-II)

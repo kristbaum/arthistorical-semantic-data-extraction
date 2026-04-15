@@ -5,6 +5,7 @@
 |Originalseitenvon=33
 |Originalseitenbis=48
 |Lemma=München, Residenz, Lusthaus im nachmaligen Hofgarten
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz

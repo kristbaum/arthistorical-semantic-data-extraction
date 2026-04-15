@@ -5,6 +5,7 @@
 |Originalseitenvon=564
 |Originalseitenbis=569
 |Lemma=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler
+|Meta=Malerliste
 |davor=Windhag, Kapelle Mariä Vermählung
 |danach=Ortsregister (Band 12-II)
 }}

@@ -5,6 +5,7 @@
 |Originalseitenvon=257
 |Originalseitenbis=258
 |Lemma=Neuried (Kr. München), Kuratiekirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Neuried (Kr. München)
 |davor=München, Stadtpfarrkirche St. Peter

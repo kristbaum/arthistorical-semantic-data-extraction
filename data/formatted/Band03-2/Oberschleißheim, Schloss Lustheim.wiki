@@ -5,6 +5,7 @@
 |Originalseitenvon=449
 |Originalseitenbis=481
 |Lemma=Oberschleißheim, Schloss Lustheim
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Altes Schloss Schleißheim, Wilhelmskapelle

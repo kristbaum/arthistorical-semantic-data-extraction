@@ -5,6 +5,7 @@
 |Originalseitenvon=467
 |Originalseitenbis=469
 |Lemma=Sankt Florian, Wallfahrtskirche St. Florian
+|Meta=
 |Typ=Sakral
 |Ort=Sankt Florian
 |davor=Sachrang, Pfarrkirche St. Michael

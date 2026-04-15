@@ -5,6 +5,7 @@
 |Originalseitenvon=209
 |Originalseitenbis=213
 |Lemma=Lenggries, Pfarrkirche St. Jakobus Major
+|Meta=
 |Typ=Sakral
 |Ort=Lenggries
 |davor=Königsdorf, Pfarrkirche St. Laurentius

@@ -5,6 +5,7 @@
 |Originalseitenvon=209
 |Originalseitenbis=224
 |Lemma=Maria Thalheim, Pfarrkuratie- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Maria Thalheim
 |davor=Lengdorf, Pfarrkirche St. Petrus

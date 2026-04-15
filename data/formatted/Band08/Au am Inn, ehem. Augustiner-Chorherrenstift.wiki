@@ -5,6 +5,7 @@
 |Originalseitenvon=31
 |Originalseitenbis=53
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift
+|Meta=
 |Typ=Sakral
 |Ort=Au am Inn
 |davor=Annabrunn, Wallfahrtskapelle St. Anna

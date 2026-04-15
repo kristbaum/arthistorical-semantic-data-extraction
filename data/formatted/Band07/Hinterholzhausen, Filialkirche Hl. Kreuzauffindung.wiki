@@ -5,6 +5,7 @@
 |Originalseitenvon=146
 |Originalseitenbis=153
 |Lemma=Hinterholzhausen, Filialkirche Hl. Kreuzauffindung
+|Meta=
 |Typ=Sakral
 |Ort=Hinterholzhausen
 |davor=Heilig Blut bei Erding, Wallfahrtskirche

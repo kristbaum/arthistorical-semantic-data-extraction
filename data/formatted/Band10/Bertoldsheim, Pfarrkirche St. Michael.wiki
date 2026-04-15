@@ -5,6 +5,7 @@
 |Originalseitenvon=74
 |Originalseitenbis=76
 |Lemma=Bertoldsheim, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Bertoldsheim
 |davor=Bergheim, Kapelle Mariä Himmelfahrt

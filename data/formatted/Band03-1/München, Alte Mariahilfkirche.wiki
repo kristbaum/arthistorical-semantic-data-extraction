@@ -5,6 +5,7 @@
 |Originalseitenvon=268
 |Originalseitenbis=268
 |Lemma=München, Alte Mariahilfkirche
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Kapelle im ehem. Kloster am Lilienberg

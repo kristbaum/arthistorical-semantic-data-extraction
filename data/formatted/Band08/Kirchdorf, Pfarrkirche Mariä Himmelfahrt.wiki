@@ -5,6 +5,7 @@
 |Originalseitenvon=133
 |Originalseitenbis=139
 |Lemma=Kirchdorf, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Kirchdorf
 |davor=Hofwies, Filial- und Wallfahrtskirche Mariä Geburt

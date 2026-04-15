@@ -5,6 +5,7 @@
 |Originalseitenvon=281
 |Originalseitenbis=283
 |Lemma=Schröding, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Schröding
 |davor=St. Wolfgang, Pfarr- und Wallfahrtskirche St. Wolfgang

@@ -5,6 +5,7 @@
 |Originalseitenvon=254
 |Originalseitenbis=261
 |Lemma=Reichenkirchen, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Reichenkirchen
 |davor=Oberneuching, Pfarrkirche St. Martin

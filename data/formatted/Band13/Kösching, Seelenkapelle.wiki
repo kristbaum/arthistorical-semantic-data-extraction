@@ -5,6 +5,7 @@
 |Originalseitenvon=306
 |Originalseitenbis=312
 |Lemma=Kösching, Seelenkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Kösching
 |davor=Kösching, Pfarrkirche Mariä Himmelfahrt und St. Martin

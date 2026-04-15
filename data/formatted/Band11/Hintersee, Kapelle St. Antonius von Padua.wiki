@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=216
 |Lemma=Hintersee, Kapelle St. Antonius von Padua
+|Meta=
 |Typ=Sakral
 |Ort=Hintersee
 |davor=Ettenberg, Wallfahrtskirche Maria Ettenberg

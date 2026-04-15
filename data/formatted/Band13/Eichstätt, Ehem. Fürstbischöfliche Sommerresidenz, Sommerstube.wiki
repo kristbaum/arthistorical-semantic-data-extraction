@@ -5,6 +5,7 @@
 |Originalseitenvon=237
 |Originalseitenbis=240
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Sommerstube
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Winterstube

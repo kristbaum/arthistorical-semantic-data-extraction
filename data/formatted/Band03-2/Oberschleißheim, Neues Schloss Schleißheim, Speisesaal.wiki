@@ -5,6 +5,7 @@
 |Originalseitenvon=502
 |Originalseitenbis=506
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Speisesaal
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Nördliche Antecamera

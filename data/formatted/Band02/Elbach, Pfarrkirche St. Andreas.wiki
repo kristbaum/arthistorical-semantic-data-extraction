@@ -5,6 +5,7 @@
 |Originalseitenvon=465
 |Originalseitenbis=469
 |Lemma=Elbach, Pfarrkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Elbach
 |davor=Birkenstein, Wallfahrtskirche Mariä Himmelfahrt 

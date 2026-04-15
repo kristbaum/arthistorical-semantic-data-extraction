@@ -5,6 +5,7 @@
 |Originalseitenvon=143
 |Originalseitenbis=147
 |Lemma=Bichl, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Bichl
 |davor=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus

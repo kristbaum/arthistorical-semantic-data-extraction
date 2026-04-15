@@ -5,6 +5,7 @@
 |Originalseitenvon=22
 |Originalseitenbis=22
 |Lemma=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Asch (Landsberg am Lech)
 |davor=Adelshausen (Weil), Kapelle St. Martin

@@ -5,6 +5,7 @@
 |Originalseitenvon=109
 |Originalseitenbis=111
 |Lemma=Arget, Kath. Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Arget
 |davor=München-Thalkirchen, Pfarr- und Wallfahrtskirche St. Maria

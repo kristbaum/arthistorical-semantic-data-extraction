@@ -5,6 +5,7 @@
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort Dank (Band 5)
+|Meta=Vorwort
 |davor=
 |danach=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis
 |AutorIn1=Bauer, Hermann

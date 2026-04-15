@@ -5,6 +5,7 @@
 |Originalseitenvon=338
 |Originalseitenbis=340
 |Lemma=Perchting, Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Perchting
 |davor=Leutstetten, Filialkirche St. Alto

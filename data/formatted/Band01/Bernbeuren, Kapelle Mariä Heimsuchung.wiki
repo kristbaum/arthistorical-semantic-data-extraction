@@ -5,6 +5,7 @@
 |Originalseitenvon=387
 |Originalseitenbis=392
 |Lemma=Bernbeuren, Kapelle Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Bernbeuren
 |davor=Bernbeuren, Pfarrkirche St. Nikolaus

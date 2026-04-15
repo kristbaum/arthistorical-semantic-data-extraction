@@ -5,6 +5,7 @@
 |Originalseitenvon=191
 |Originalseitenbis=199
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift

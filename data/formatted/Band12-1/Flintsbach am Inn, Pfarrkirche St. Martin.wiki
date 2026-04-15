@@ -5,6 +5,7 @@
 |Originalseitenvon=139
 |Originalseitenbis=146
 |Lemma=Flintsbach am Inn, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Flintsbach am Inn
 |davor=Evenhausen, Pfarrkirche St. Petrus

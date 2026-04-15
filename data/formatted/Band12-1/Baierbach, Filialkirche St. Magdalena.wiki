@@ -5,6 +5,7 @@
 |Originalseitenvon=86
 |Originalseitenbis=89
 |Lemma=Baierbach, Filialkirche St. Magdalena
+|Meta=
 |Typ=Sakral
 |Ort=Baierbach
 |davor=Bad Aibling, Marktkirche St. Sebastian

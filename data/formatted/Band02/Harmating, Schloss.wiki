@@ -5,6 +5,7 @@
 |Originalseitenvon=187
 |Originalseitenbis=190
 |Lemma=Harmating, Schloss
+|Meta=
 |Typ=Profan
 |Ort=Harmating
 |davor=Greiling, Filialkirche St. Nikolaus

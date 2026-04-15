@@ -5,6 +5,7 @@
 |Originalseitenvon=308
 |Originalseitenbis=309
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle

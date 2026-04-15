@@ -5,6 +5,7 @@
 |Originalseitenvon=331
 |Originalseitenbis=336
 |Lemma=Emmering, Pfarrkirche St. Pankratius
+|Meta=
 |Typ=Sakral
 |Ort=Emmering
 |davor=Ebersberg, ehem. Augustiner-Chorherrenstift, Sebastianskapelle

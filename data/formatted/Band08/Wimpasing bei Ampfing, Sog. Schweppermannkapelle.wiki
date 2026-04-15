@@ -5,6 +5,7 @@
 |Originalseitenvon=294
 |Originalseitenbis=298
 |Lemma=Wimpasing bei Ampfing, Sog. Schweppermannkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Wimpasing bei Ampfing
 |davor=Weilkirchen, Filialkirche St. Georg

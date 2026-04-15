@@ -5,6 +5,7 @@
 |Originalseitenvon=187
 |Originalseitenbis=187
 |Lemma=Landersdorf, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Landersdorf
 |davor=Kirchberg, Filialkirche St. Peter und Paul

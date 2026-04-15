@@ -5,6 +5,7 @@
 |Originalseitenvon=312
 |Originalseitenbis=315
 |Lemma=Walpertskirchen, Pfarrkirche St. Erhard
+|Meta=
 |Typ=Sakral
 |Ort=Walpertskirchen
 |davor=Tegernbach, Filialkirche St. Petrus

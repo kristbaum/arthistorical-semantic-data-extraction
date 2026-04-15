@@ -5,6 +5,7 @@
 |Originalseitenvon=187
 |Originalseitenbis=195
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Treppenhaus
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz

@@ -5,6 +5,7 @@
 |Originalseitenvon=111
 |Originalseitenbis=117
 |Lemma=Eichstätt, Ehem. Dominikanerkloster
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Benediktinerabtei St. Walburg, Untere Gruftkapelle

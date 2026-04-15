@@ -5,6 +5,7 @@
 |Originalseitenvon=277
 |Originalseitenbis=277
 |Lemma=Elmau, Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Elmau
 |davor=Dickelschwaig, Kapelle St. Gertrud

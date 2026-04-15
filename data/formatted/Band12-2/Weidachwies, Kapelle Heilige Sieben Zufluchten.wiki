@@ -5,6 +5,7 @@
 |Originalseitenvon=519
 |Originalseitenbis=519
 |Lemma=Weidachwies, Kapelle Heilige Sieben Zufluchten
+|Meta=
 |Typ=Sakral
 |Ort=Weidachwies
 |davor=Wasserburg am Inn, Frauenkirche

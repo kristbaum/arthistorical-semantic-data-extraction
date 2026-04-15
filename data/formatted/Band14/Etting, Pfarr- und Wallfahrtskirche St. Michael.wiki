@@ -5,6 +5,7 @@
 |Originalseitenvon=151
 |Originalseitenbis=158
 |Lemma=Etting, Pfarr- und Wallfahrtskirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Etting
 |davor=Ingolstadt, Decke des sog. Illuminatensaals

@@ -5,6 +5,7 @@
 |Originalseitenvon=241
 |Originalseitenbis=250
 |Lemma=Scheyern, Benediktinerabtei
+|Meta=
 |Typ=Sakral
 |Ort=Scheyern
 |davor=Reichertshofen, Pfarrkirche St. Margareta

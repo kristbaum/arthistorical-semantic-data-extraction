@@ -5,6 +5,7 @@
 |Originalseitenvon=503
 |Originalseitenbis=518
 |Lemma=Wasserburg am Inn, Frauenkirche
+|Meta=
 |Typ=Sakral
 |Ort=Wasserburg am Inn
 |davor=Umrathshausen, Filialkirche Heilig Blut

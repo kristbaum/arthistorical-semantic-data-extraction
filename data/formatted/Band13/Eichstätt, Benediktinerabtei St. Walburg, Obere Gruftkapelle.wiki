@@ -5,6 +5,7 @@
 |Originalseitenvon=99
 |Originalseitenbis=100
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg, Obere Gruftkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Benediktinerabtei St. Walburg, Abteikirche

@@ -5,6 +5,7 @@
 |Originalseitenvon=276
 |Originalseitenbis=279
 |Lemma=Sehensand, Firedhofskapelle St. Stephanus
+|Meta=
 |Typ=Sakral
 |Ort=Sehensand
 |davor=Schrobenhausen, Filialkirche St. Salvator

@@ -5,6 +5,7 @@
 |Originalseitenvon=210
 |Originalseitenbis=210
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau, Altes Refektorium und alte Bibliothek
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Großes Tafelzimmer

@@ -5,6 +5,7 @@
 |Originalseitenvon=264
 |Originalseitenbis=264
 |Lemma=München, Kapelle im ehem. Stadthaus des Klosters Ettal
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Ehem. Spital- und Klosterkirche der Barmherzigen Brüder

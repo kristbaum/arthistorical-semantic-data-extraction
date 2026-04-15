@@ -5,6 +5,7 @@
 |Originalseitenvon=496
 |Originalseitenbis=499
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Südliche Antecamera
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Sala Terrena

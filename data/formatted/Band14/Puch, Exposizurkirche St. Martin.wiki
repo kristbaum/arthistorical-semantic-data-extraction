@@ -5,6 +5,7 @@
 |Originalseitenvon=230
 |Originalseitenbis=236
 |Lemma=Puch, Exposizurkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Puch
 |davor=Hohenwart, Marktkirche Mariä Verkündigung

@@ -5,6 +5,7 @@
 |Originalseitenvon=21
 |Originalseitenbis=24
 |Lemma=Bad Heilbrunn, Pfarrkirche St. Kilian
+|Meta=
 |Typ=Sakral
 |Ort=Bad Heilbrunn
 |davor=Aufhofen, Filialkirche St. Valentin

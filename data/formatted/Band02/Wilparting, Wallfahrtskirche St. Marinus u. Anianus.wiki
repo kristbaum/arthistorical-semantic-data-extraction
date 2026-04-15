@@ -5,6 +5,7 @@
 |Originalseitenvon=628
 |Originalseitenbis=633
 |Lemma=Wilparting, Wallfahrtskirche St. Marinus u. Anianus
+|Meta=
 |Typ=Sakral
 |Ort=Wilparting
 |davor=Weyarn, ehem. Augustiner-Chorherrenstift, Bürgermeisterzimmer

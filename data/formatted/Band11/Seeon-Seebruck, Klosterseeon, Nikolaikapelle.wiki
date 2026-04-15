@@ -5,6 +5,7 @@
 |Originalseitenvon=95
 |Originalseitenbis=105
 |Lemma=Seeon-Seebruck, Klosterseeon, Nikolaikapelle
+|Meta=
 |Typ=Sakral
 |Ort=Seeon-Seebruck
 |davor=Seeon-Seebruck, Klosterseeon

@@ -5,6 +5,7 @@
 |Originalseitenvon=356
 |Originalseitenbis=359
 |Lemma=Maxlrain, Schloss
+|Meta=
 |Typ=Profan
 |Ort=Maxlrain
 |davor=Lippertskirchen, Filialkirche Maria Morgenstern

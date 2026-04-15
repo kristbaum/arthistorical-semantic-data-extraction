@@ -5,6 +5,7 @@
 |Originalseitenvon=189
 |Originalseitenbis=204
 |Lemma=Geisenfeld, Pfarrkirche Mariä Himmelfahrt und St. Zeno
+|Meta=
 |Typ=Sakral
 |Ort=Geisenfeld
 |davor=Baar, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

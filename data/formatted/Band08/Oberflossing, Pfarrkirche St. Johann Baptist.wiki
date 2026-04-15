@@ -5,6 +5,7 @@
 |Originalseitenvon=195
 |Originalseitenbis=203
 |Lemma=Oberflossing, Pfarrkirche St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Oberflossing
 |davor=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Seelenkapelle

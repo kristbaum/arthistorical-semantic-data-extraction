@@ -5,6 +5,7 @@
 |Originalseitenvon=37
 |Originalseitenbis=37
 |Lemma=Dienhausen, Kapelle St. Magnus
+|Meta=
 |Typ=Sakral
 |Ort=Dienhausen
 |davor=Denklingen, Pfarrkirche St. Michael

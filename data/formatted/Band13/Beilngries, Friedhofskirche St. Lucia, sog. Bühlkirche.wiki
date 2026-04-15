@@ -5,6 +5,7 @@
 |Originalseitenvon=36
 |Originalseitenbis=41
 |Lemma=Beilngries, Friedhofskirche St. Lucia, sog. Bühlkirche
+|Meta=
 |Typ=Sakral
 |Ort=Beilngries
 |davor=Appertshofen, Pfarrkirche Mariä Heimsuchung

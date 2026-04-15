@@ -5,6 +5,7 @@
 |Originalseitenvon=334
 |Originalseitenbis=338
 |Lemma=München, Residenz, Ahnengalerie
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Vierschimmelsaal und Steinzimmer

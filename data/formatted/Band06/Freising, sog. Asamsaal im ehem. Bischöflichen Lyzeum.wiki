@@ -5,6 +5,7 @@
 |Originalseitenvon=165
 |Originalseitenbis=173
 |Lemma=Freising, sog. Asamsaal im ehem. Bischöflichen Lyzeum
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Kapelle in der ehem. Domdechantei

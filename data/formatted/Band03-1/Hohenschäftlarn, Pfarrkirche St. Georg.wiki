@@ -5,6 +5,7 @@
 |Originalseitenvon=131
 |Originalseitenbis=133
 |Lemma=Hohenschäftlarn, Pfarrkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Hohenschäftlarn
 |davor=Hohenbrunn, Pfarrkirche St. Stephan

@@ -5,6 +5,7 @@
 |Originalseitenvon=80
 |Originalseitenbis=82
 |Lemma=Haimhausen, Schloss, Drei Adaptierte Deckenbilder
+|Meta=
 |Typ=Profan
 |Ort=Haimhausen
 |davor=Haimhausen, Schloss, Festsaal im zweiten Obergeschoß

@@ -5,6 +5,7 @@
 |Originalseitenvon=23
 |Originalseitenbis=24
 |Lemma=Beuerbach (Weil), Kapelle im Holz Maria Eich
+|Meta=
 |Typ=Sakral
 |Ort=Beuerbach (Weil)
 |davor=Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist

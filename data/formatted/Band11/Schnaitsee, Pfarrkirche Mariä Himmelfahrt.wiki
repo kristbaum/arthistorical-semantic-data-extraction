@@ -5,6 +5,7 @@
 |Originalseitenvon=133
 |Originalseitenbis=141
 |Lemma=Schnaitsee, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Schnaitsee
 |davor=Schedling, ehem. Schlosskapelle St. Joseph

@@ -5,6 +5,7 @@
 |Originalseitenvon=254
 |Originalseitenbis=256
 |Lemma=Riedbach, Filialkirche St. Rupert
+|Meta=
 |Typ=Sakral
 |Ort=Riedbach
 |davor=Reichertsheim, Pfarrkirche Mariä Himmelfahrt

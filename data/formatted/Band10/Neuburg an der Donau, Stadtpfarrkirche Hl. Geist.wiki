@@ -5,6 +5,7 @@
 |Originalseitenvon=161
 |Originalseitenbis=181
 |Lemma=Neuburg an der Donau, Stadtpfarrkirche Hl. Geist
+|Meta=
 |Typ=Sakral
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, Stadtpfarrkirche St. Peter

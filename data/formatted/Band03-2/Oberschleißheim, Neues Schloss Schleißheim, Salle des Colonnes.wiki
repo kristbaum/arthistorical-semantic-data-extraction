@@ -5,6 +5,7 @@
 |Originalseitenvon=488
 |Originalseitenbis=493
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Salle des Colonnes
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim

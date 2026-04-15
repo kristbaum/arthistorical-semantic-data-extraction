@@ -5,6 +5,7 @@
 |Originalseitenvon=61
 |Originalseitenbis=64
 |Lemma=Attel am Inn, ehem. Benediktinerabtei
+|Meta=
 |Typ=Sakral
 |Ort=Attel am Inn
 |davor=Antwort, Filial- und Wallfahrtskirche Mariä Himmelfahrt

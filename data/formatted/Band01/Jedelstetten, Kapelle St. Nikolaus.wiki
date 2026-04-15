@@ -5,6 +5,7 @@
 |Originalseitenvon=114
 |Originalseitenbis=117
 |Lemma=Jedelstetten, Kapelle St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Jedelstetten
 |davor=Issing, Pfarrkirche St. Margareta

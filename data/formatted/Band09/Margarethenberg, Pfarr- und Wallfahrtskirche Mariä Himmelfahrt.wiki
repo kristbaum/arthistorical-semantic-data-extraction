@@ -5,6 +5,7 @@
 |Originalseitenvon=119
 |Originalseitenbis=124
 |Lemma=Margarethenberg, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Margarethenberg
 |davor=Kirchweidach, Pfarr- und Wallfahrtskirche St. Vitus

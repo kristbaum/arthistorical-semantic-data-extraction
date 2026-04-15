@@ -5,6 +5,7 @@
 |Originalseitenvon=280
 |Originalseitenbis=281
 |Lemma=Welden, Filialkirche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=Welden
 |davor=Weil, Pfarrkirche St. Mauritius

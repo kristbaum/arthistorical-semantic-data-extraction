@@ -5,6 +5,7 @@
 |Originalseitenvon=450
 |Originalseitenbis=450
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Stiftkirche
+|Meta=
 |Typ=Sakral
 |Ort=Polling
 |davor=Pähl, Pfarrkirche St. Laurentius

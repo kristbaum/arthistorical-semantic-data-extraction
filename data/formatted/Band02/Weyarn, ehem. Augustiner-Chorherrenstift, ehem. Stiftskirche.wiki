@@ -5,6 +5,7 @@
 |Originalseitenvon=613
 |Originalseitenbis=623
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche
+|Meta=
 |Typ=Sakral
 |Ort=Weyarn
 |davor=Westenhofen, Filialkirche St. Martin

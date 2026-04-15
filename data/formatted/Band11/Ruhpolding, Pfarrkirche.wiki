@@ -5,6 +5,7 @@
 |Originalseitenvon=111
 |Originalseitenbis=122
 |Lemma=Ruhpolding, Pfarrkirche
+|Meta=
 |Typ=Sakral
 |Ort=Ruhpolding
 |davor=Mögling, Nebenkirche Mariä Himmelfahrt

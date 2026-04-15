@@ -5,6 +5,7 @@
 |Originalseitenvon=179
 |Originalseitenbis=183
 |Lemma=Mühldorf, Filialkirche St. Katharina
+|Meta=
 |Typ=Sakral
 |Ort=Mühldorf
 |davor=Mühldorf, Stadtpfarrkirche und ehem. Kollegiatskirche St. Nikolaus

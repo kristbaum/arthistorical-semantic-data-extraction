@@ -5,6 +5,7 @@
 |Originalseitenvon=191
 |Originalseitenbis=195
 |Lemma=München-Lehel, ehem. Klosterkirche St. Anna
+|Meta=
 |Typ=Sakral
 |Ort=München-Lehel
 |davor=München, ehem. Klosterkirche St. Anna Damenstift

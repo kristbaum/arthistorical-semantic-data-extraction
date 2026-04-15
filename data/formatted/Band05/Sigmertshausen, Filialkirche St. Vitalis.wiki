@@ -5,6 +5,7 @@
 |Originalseitenvon=235
 |Originalseitenbis=243
 |Lemma=Sigmertshausen, Filialkirche St. Vitalis
+|Meta=
 |Typ=Sakral
 |Ort=Sigmertshausen
 |davor=Schönbrunn, Filialkirche Hl. Kreuzauffindung

@@ -5,6 +5,7 @@
 |Originalseitenvon=444
 |Originalseitenbis=445
 |Lemma=Walting, Leonhardskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Walting
 |davor=Untermemmendorf, Filialkirche St. Nikolaus

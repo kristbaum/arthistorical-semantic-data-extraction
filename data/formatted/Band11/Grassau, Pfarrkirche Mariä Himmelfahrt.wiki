@@ -5,6 +5,7 @@
 |Originalseitenvon=53
 |Originalseitenbis=76
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Grassau
 |davor=Fridolfing, Alter Pfarrhof

@@ -5,6 +5,7 @@
 |Originalseitenvon=119
 |Originalseitenbis=127
 |Lemma=Großwimpaßing, Filialkirche St. Jakobus der Ältere
+|Meta=
 |Typ=Sakral
 |Ort=Großwimpaßing
 |davor=Großköchlham, Filialkirche St. Valentin

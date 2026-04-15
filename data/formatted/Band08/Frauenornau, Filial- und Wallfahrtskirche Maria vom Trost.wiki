@@ -5,6 +5,7 @@
 |Originalseitenvon=92
 |Originalseitenbis=98
 |Lemma=Frauenornau, Filial- und Wallfahrtskirche Maria vom Trost
+|Meta=
 |Typ=Sakral
 |Ort=Frauenornau
 |davor=Frauendorf, Kuratiekirche St. Michael

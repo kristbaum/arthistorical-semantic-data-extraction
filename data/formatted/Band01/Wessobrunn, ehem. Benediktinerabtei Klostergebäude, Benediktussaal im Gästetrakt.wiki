@@ -5,6 +5,7 @@
 |Originalseitenvon=567
 |Originalseitenbis=569
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Benediktussaal im Gästetrakt
+|Meta=
 |Typ=Sakral
 |Ort=Wessobrunn
 |davor=Weilheim, Pfarrkirche St. Pölten

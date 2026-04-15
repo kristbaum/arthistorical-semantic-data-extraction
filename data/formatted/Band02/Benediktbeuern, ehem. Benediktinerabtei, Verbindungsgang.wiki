@@ -5,6 +5,7 @@
 |Originalseitenvon=96
 |Originalseitenbis=100
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Verbindungsgang
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Zelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=268
 |Originalseitenbis=271
 |Lemma=Im 18. Jh. im Raum Ingolstadt und Pfaffenhofen tätige Maler
+|Meta=Malerliste
 |davor=Waal, Filialkirche Mariä Himmelfahrt
 |danach=Ortsregister (Band 14)
 }}

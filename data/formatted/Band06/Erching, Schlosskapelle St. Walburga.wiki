@@ -5,6 +5,7 @@
 |Originalseitenvon=44
 |Originalseitenbis=48
 |Lemma=Erching, Schlosskapelle St. Walburga
+|Meta=
 |Typ=Sakral
 |Ort=Erching
 |davor=Eching, Alte Pfarrkirche St. Andreas

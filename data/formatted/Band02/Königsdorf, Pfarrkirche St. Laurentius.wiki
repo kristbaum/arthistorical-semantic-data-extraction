@@ -5,6 +5,7 @@
 |Originalseitenvon=203
 |Originalseitenbis=208
 |Lemma=Königsdorf, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Königsdorf
 |davor=Kochel, Pfarrkirche St. Michael

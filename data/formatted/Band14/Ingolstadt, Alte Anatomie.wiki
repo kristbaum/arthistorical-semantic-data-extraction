@@ -5,6 +5,7 @@
 |Originalseitenvon=105
 |Originalseitenbis=116
 |Lemma=Ingolstadt, Alte Anatomie
+|Meta=
 |Typ=Profan
 |Ort=Ingolstadt
 |davor=Ingolstadt, Kongregationssaal Maria de Victoria

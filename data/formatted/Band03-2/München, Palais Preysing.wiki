@@ -5,6 +5,7 @@
 |Originalseitenvon=577
 |Originalseitenbis=578
 |Lemma=München, Palais Preysing
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Palais Portia

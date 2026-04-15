@@ -5,6 +5,7 @@
 |Originalseitenvon=193
 |Originalseitenbis=198
 |Lemma=Mammendorf, Pfarrkirche St. Jakobus Maior
+|Meta=
 |Typ=Sakral
 |Ort=Mammendorf
 |davor=Maisach, Pfarrkirche St. Vitus

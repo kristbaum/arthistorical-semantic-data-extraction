@@ -5,6 +5,7 @@
 |Originalseitenvon=48
 |Originalseitenbis=53
 |Lemma=Eching a. Ammersee, Pfarrkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Eching a. Ammersee
 |davor=Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt

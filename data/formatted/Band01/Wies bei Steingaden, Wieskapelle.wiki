@@ -5,6 +5,7 @@
 |Originalseitenvon=600
 |Originalseitenbis=601
 |Lemma=Wies bei Steingaden, Wieskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Wies bei Steingaden
 |davor=Wessobrunn, Gasthaus zur Post

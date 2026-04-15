@@ -5,6 +5,7 @@
 |Originalseitenvon=132
 |Originalseitenbis=137
 |Lemma=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Pavillon, Loggia mit Seitenkabinetten und »Rundzimmer«

@@ -5,6 +5,7 @@
 |Originalseitenvon=27
 |Originalseitenbis=30
 |Lemma=Annabrunn, Wallfahrtskapelle St. Anna
+|Meta=
 |Typ=Sakral
 |Ort=Annabrunn
 |davor=Ampfing, Friedhofskapelle Schmerzhafte Mutter Gottes

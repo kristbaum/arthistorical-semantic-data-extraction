@@ -5,6 +5,7 @@
 |Originalseitenvon=102
 |Originalseitenbis=106
 |Lemma=München-Thalkirchen, Pfarr- und Wallfahrtskirche St. Maria
+|Meta=
 |Typ=Sakral
 |Ort=München-Thalkirchen
 |davor=München-Sendling, Alte Pfarrkirche St. Margareta

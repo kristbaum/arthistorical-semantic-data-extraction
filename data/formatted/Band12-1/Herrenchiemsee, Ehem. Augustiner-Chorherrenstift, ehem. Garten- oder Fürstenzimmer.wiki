@@ -5,6 +5,7 @@
 |Originalseitenvon=226
 |Originalseitenbis=233
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Garten- oder Fürstenzimmer
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, sog. Kaiser- oder Fürstensaal

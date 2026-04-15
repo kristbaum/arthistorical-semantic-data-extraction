@@ -5,6 +5,7 @@
 |Originalseitenvon=180
 |Originalseitenbis=185
 |Lemma=Eichstätt, Frauenbergkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Maria-Hilf-Kapelle

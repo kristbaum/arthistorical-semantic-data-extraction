@@ -5,6 +5,7 @@
 |Originalseitenvon=258
 |Originalseitenbis=261
 |Lemma=Scheyern, Benediktinerabtei, Kapitel- oder Johanneskirche, auch Gruftkirche
+|Meta=
 |Typ=Sakral
 |Ort=Scheyern
 |davor=Scheyern, Benediktinerabtei, Hl.-Kreuz-Kapelle

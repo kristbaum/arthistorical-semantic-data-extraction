@@ -5,6 +5,7 @@
 |Originalseitenvon=240
 |Originalseitenbis=240
 |Lemma=Unterbeuern, Kapelle St. Magnus
+|Meta=
 |Typ=Sakral
 |Ort=Unterbeuern
 |davor=Thaining, Pfarrkirche St. Martin

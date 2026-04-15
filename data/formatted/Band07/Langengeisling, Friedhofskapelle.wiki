@@ -5,6 +5,7 @@
 |Originalseitenvon=194
 |Originalseitenbis=200
 |Lemma=Langengeisling, Friedhofskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Langengeisling
 |davor=Langengeisling, Pfarrkirche St. Martin

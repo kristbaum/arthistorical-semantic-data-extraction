@@ -5,6 +5,7 @@
 |Originalseitenvon=123
 |Originalseitenbis=124
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gastzimmer
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Sommerprälatur

@@ -5,6 +5,7 @@
 |Originalseitenvon=137
 |Originalseitenbis=144
 |Lemma=Ingolstadt, Sog. Orbansaal im Jesuitenkolleg
+|Meta=
 |Typ=Sakral
 |Ort=Ingolstadt
 |davor=Ingolstadt, Augustinereremitenkirche

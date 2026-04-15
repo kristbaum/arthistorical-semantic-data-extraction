@@ -5,6 +5,7 @@
 |Originalseitenvon=234
 |Originalseitenbis=238
 |Lemma=St. Leonhard, Wallfahrtskirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=St. Leonhard
 |davor=Sachsenkam, Pfarrkirche St. Andreas

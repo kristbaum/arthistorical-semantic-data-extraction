@@ -5,6 +5,7 @@
 |Originalseitenvon=230
 |Originalseitenbis=234
 |Lemma=Tüssling, Schloss
+|Meta=
 |Typ=Profan
 |Ort=Tüssling
 |davor=Tüssling, Marktkirche St. Georg

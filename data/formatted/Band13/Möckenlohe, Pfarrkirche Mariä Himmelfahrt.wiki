@@ -5,6 +5,7 @@
 |Originalseitenvon=351
 |Originalseitenbis=359
 |Lemma=Möckenlohe, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Möckenlohe
 |davor=Marienstein, Priorat des Augustinerinnenklosters Marienstein

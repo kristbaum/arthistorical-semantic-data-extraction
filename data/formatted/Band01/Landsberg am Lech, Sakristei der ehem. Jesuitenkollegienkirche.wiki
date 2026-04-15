@@ -5,6 +5,7 @@
 |Originalseitenvon=140
 |Originalseitenbis=141
 |Lemma=Landsberg am Lech, Sakristei der ehem. Jesuitenkollegienkirche
+|Meta=
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, Heilig-Kreuz-Kirche

@@ -5,6 +5,7 @@
 |Originalseitenvon=124
 |Originalseitenbis=130
 |Lemma=Ellmosen, Filialkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Ellmosen
 |davor=Dettendorf, Filialkirche St. Nikolaus

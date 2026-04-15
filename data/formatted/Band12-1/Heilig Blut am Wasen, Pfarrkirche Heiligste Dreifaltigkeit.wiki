@@ -5,6 +5,7 @@
 |Originalseitenvon=183
 |Originalseitenbis=186
 |Lemma=Heilig Blut am Wasen, Pfarrkirche Heiligste Dreifaltigkeit
+|Meta=
 |Typ=Sakral
 |Ort=Heilig Blut am Wasen
 |davor=Großholzhausen, Pfarrkirche St. Georg

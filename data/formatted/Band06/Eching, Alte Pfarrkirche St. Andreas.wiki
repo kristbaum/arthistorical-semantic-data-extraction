@@ -5,6 +5,7 @@
 |Originalseitenvon=40
 |Originalseitenbis=43
 |Lemma=Eching, Alte Pfarrkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Eching
 |davor=Allershausen, Pfarrkirche St. Joseph

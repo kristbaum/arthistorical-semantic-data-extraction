@@ -5,6 +5,7 @@
 |Originalseitenvon=42
 |Originalseitenbis=44
 |Lemma=Berghausen, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Berghausen
 |davor=Beilngries, Friedhofskirche St. Lucia, sog. Bühlkirche

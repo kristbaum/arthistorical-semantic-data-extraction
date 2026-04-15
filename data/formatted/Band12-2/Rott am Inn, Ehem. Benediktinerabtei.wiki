@@ -5,6 +5,7 @@
 |Originalseitenvon=432
 |Originalseitenbis=434
 |Lemma=Rott am Inn, Ehem. Benediktinerabtei
+|Meta=
 |Typ=Sakral
 |Ort=Rosenheim
 |davor=Rosenheim, Loretokapelle

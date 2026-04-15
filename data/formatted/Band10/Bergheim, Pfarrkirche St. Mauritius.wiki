@@ -5,6 +5,7 @@
 |Originalseitenvon=61
 |Originalseitenbis=65
 |Lemma=Bergheim, Pfarrkirche St. Mauritius
+|Meta=
 |Typ=Sakral
 |Ort=Bergheim
 |davor=Bergen, Pfarr- und Wallfahrtskirche Hl. Kreuz

@@ -5,6 +5,7 @@
 |Originalseitenvon=142
 |Originalseitenbis=143
 |Lemma=Schnaitsee, Marienkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Schnaitsee
 |davor=Schnaitsee, Pfarrkirche Mariä Himmelfahrt

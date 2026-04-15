@@ -5,6 +5,7 @@
 |Originalseitenvon=475
 |Originalseitenbis=475
 |Lemma=Reisgang, Kapelle Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Reisgang
 |davor=Raisting, Pfarrkirche St. Remigius

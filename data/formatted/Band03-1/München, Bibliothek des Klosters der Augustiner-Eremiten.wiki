@@ -5,6 +5,7 @@
 |Originalseitenvon=263
 |Originalseitenbis=263
 |Lemma=München, Bibliothek des Klosters der Augustiner-Eremiten
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München-Mittersendling, Pfarrkirche St. Achaz

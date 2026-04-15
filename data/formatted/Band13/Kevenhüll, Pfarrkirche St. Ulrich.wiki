@@ -5,6 +5,7 @@
 |Originalseitenvon=288
 |Originalseitenbis=292
 |Lemma=Kevenhüll, Pfarrkirche St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Kevenhüll
 |davor=Hitzhofen, Alte Pfarrkirche Mariä Heimsuchung

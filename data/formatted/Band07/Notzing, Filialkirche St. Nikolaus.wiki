@@ -5,6 +5,7 @@
 |Originalseitenvon=236
 |Originalseitenbis=237
 |Lemma=Notzing, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Notzing
 |davor=Niederstraubing, Filialkirche St. Martin

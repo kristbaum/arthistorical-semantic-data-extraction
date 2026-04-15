@@ -5,6 +5,7 @@
 |Originalseitenvon=47
 |Originalseitenbis=50
 |Lemma=Altomünster, Pfarr- und Klosterkirche St. Alto, Frauenchor
+|Meta=
 |Typ=Sakral
 |Ort=Altomünster
 |davor=Altomünster, Pfarr- und Klosterkirche St. Alto

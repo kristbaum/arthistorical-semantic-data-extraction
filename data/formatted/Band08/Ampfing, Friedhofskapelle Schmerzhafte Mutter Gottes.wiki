@@ -5,6 +5,7 @@
 |Originalseitenvon=23
 |Originalseitenbis=26
 |Lemma=Ampfing, Friedhofskapelle Schmerzhafte Mutter Gottes
+|Meta=
 |Typ=Sakral
 |Ort=Ampfing
 |davor=Altmühldorf, Pfarrkirche St. Laurentius

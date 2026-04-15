@@ -5,6 +5,7 @@
 |Originalseitenvon=322
 |Originalseitenbis=325
 |Lemma=Grünsink, Filial- und Wallfahrtskirche Mariahilf
+|Meta=
 |Typ=Sakral
 |Ort=Grünsink
 |davor=Diemendorf, Filialkirche St. Margareta

@@ -5,6 +5,7 @@
 |Originalseitenvon=570
 |Originalseitenbis=573
 |Lemma=Ortsregister (Band 12-II)
+|Meta=Ortsregister
 |davor=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler
 |danach=Personenregister (Band 12-II)
 }}

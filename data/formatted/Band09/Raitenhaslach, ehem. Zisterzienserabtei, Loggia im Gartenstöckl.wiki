@@ -5,6 +5,7 @@
 |Originalseitenvon=207
 |Originalseitenbis=209
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Loggia im Gartenstöckl
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus

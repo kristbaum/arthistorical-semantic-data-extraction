@@ -5,6 +5,7 @@
 |Originalseitenvon=190
 |Originalseitenbis=192
 |Lemma=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Gruftkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Neumarkt St. Veit
 |davor=Neufahrn, Filialkirche St. Rupert

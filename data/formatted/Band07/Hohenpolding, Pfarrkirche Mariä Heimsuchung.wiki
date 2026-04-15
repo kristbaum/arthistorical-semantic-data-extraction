@@ -5,6 +5,7 @@
 |Originalseitenvon=154
 |Originalseitenbis=166
 |Lemma=Hohenpolding, Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Hohenpolding
 |davor=Hinterholzhausen, Filialkirche Hl. Kreuzauffindung

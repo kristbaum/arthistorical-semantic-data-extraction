@@ -5,6 +5,7 @@
 |Originalseitenvon=102
 |Originalseitenbis=104
 |Lemma=Holzhausen bei Buchloe, Pfarrkirche St. Johann Baptist und Johann Evangelist
+|Meta=
 |Typ=Sakral
 |Ort=Holzhausen bei Buchloe
 |davor=Holzhausen (a. Ammersee), Filialkirche St. Ulrich

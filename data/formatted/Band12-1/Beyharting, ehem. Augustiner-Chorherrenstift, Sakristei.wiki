@@ -5,6 +5,7 @@
 |Originalseitenvon=113
 |Originalseitenbis=118
 |Lemma=Beyharting, ehem. Augustiner-Chorherrenstift, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Beyharting
 |davor=Beyharting, ehem. Augustiner-Chorherrenstift

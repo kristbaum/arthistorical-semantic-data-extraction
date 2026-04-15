@@ -5,6 +5,7 @@
 |Originalseitenvon=233
 |Originalseitenbis=237
 |Lemma=Oberhausen, Pfarrkirche St. Clemens
+|Meta=
 |Typ=Sakral
 |Ort=Oberhausen
 |davor=Neuburg an der Donau, ehem. Hofapotheke

@@ -5,6 +5,7 @@
 |Originalseitenvon=509
 |Originalseitenbis=510
 |Lemma=Grund, Kapelle zum Grundnerhof gehörig
+|Meta=
 |Typ=Sakral
 |Ort=Grund
 |davor=Gotzing, Filialkirche St. Jakobus Major

@@ -5,6 +5,7 @@
 |Originalseitenvon=54
 |Originalseitenbis=58
 |Lemma=Blainthal, Filialkirche St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Blainthal
 |davor=Berglern, Pfarrkirche St. Peter und Paul

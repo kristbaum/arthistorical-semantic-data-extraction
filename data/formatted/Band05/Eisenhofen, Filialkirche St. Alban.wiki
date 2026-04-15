@@ -5,6 +5,7 @@
 |Originalseitenvon=60
 |Originalseitenbis=63
 |Lemma=Eisenhofen, Filialkirche St. Alban
+|Meta=
 |Typ=Sakral
 |Ort=Eisenhofen
 |davor=Egenburg, Pfarrkirche St. Stephanus

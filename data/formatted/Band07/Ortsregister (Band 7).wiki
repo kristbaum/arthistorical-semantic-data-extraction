@@ -5,6 +5,7 @@
 |Originalseitenvon=329
 |Originalseitenbis=329
 |Lemma=Ortsregister (Band 7)
+|Meta=Ortsregister
 |davor=Bildnachweis (Band 7)
 |danach=Personenregister (Band 7)
 }}

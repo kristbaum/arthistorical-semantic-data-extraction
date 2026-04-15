@@ -5,6 +5,7 @@
 |Originalseitenvon=207
 |Originalseitenbis=213
 |Lemma=Ettenberg, Wallfahrtskirche Maria Ettenberg
+|Meta=
 |Typ=Sakral
 |Ort=Ettenberg
 |davor=Berchtesgaden, ehem. Augustiner-Chorherrenstift

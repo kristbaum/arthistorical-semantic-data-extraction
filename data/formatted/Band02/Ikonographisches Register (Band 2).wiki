@@ -5,6 +5,7 @@
 |Originalseitenvon=643
 |Originalseitenbis=654
 |Lemma=Ikonographisches Register (Band 2)
+|Meta=Ikonographisches Register
 |davor=Personenregister (Band 2)
 |danach=Embleme-Register (Band 2)
 }}

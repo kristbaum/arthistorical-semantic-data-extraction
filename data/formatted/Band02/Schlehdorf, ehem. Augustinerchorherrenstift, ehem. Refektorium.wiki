@@ -5,6 +5,7 @@
 |Originalseitenvon=252
 |Originalseitenbis=253
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, ehem. Refektorium
+|Meta=
 |Typ=Sakral
 |Ort=Schlehdorf
 |davor=Schlehdorf, ehem. Augustinerchorherrenstift, Bibliothek

@@ -5,6 +5,7 @@
 |Originalseitenvon=170
 |Originalseitenbis=171
 |Lemma=Holzhausen, Filialkirche Inventio Crucis
+|Meta=
 |Typ=Sakral
 |Ort=Holzhausen
 |davor=Hohenzell, Filialkirche Mariä Heimsuchung

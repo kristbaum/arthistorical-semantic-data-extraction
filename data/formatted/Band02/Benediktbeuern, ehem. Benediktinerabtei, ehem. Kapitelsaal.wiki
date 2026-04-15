@@ -5,6 +5,7 @@
 |Originalseitenvon=69
 |Originalseitenbis=72
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Kapitelsaal
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Anastasiakapelle

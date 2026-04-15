@@ -5,6 +5,7 @@
 |Originalseitenvon=384
 |Originalseitenbis=390
 |Lemma=Pförring, Pfarrkirche St. Leoonhard
+|Meta=
 |Typ=Sakral
 |Ort=Pförring
 |davor=Pfalzpaint, Filialkirche St. Andreas

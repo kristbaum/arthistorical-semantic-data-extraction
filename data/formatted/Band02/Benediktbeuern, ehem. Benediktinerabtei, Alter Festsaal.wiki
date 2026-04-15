@@ -5,6 +5,7 @@
 |Originalseitenvon=73
 |Originalseitenbis=93
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt

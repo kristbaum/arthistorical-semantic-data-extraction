@@ -5,6 +5,7 @@
 |Originalseitenvon=132
 |Originalseitenbis=134
 |Lemma=Indersdorf, Kloster, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Indersdorf
 |davor=Indersdorf, Kloster, ehem. Stiftskirche Mariä Himmelfahrt

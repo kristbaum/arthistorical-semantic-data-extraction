@@ -5,6 +5,7 @@
 |Originalseitenvon=582
 |Originalseitenbis=585
 |Lemma=Ortsregister (Band 3-II)
+|Meta=Ortsregister
 |davor=München, Schloss Neuberghausen
 |danach=Personenregister (Band 3-II)
 }}

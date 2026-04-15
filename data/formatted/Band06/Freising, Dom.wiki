@@ -5,6 +5,7 @@
 |Originalseitenvon=49
 |Originalseitenbis=121
 |Lemma=Freising, Dom
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Erching, Schlosskapelle St. Walburga

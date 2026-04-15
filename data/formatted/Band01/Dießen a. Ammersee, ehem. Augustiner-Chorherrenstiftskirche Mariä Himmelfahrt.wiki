@@ -5,6 +5,7 @@
 |Originalseitenvon=38
 |Originalseitenbis=47
 |Lemma=Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Dießen a. Ammersee
 |davor=Dienhausen, Kapelle St. Magnus

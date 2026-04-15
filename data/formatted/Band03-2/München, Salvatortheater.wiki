@@ -5,6 +5,7 @@
 |Originalseitenvon=559
 |Originalseitenbis=559
 |Lemma=München, Salvatortheater
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Maximilianskapelle

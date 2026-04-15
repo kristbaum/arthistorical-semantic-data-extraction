@@ -5,6 +5,7 @@
 |Originalseitenvon=116
 |Originalseitenbis=118
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Speisesaal
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gästezimmer

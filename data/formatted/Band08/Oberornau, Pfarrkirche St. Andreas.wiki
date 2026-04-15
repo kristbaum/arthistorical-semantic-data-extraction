@@ -5,6 +5,7 @@
 |Originalseitenvon=209
 |Originalseitenbis=217
 |Lemma=Oberornau, Pfarrkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Oberornau
 |davor=Oberneukirchen, Pfarrkirche St. Margareta

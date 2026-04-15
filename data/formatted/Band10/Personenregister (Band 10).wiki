@@ -5,6 +5,7 @@
 |Originalseitenvon=343
 |Originalseitenbis=347
 |Lemma=Personenregister (Band 10)
+|Meta=Personenregister
 |davor=Ortsregister (Band 10)
 |danach=Ikonographisches Register (Band 10)
 }}

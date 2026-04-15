@@ -5,6 +5,7 @@
 |Originalseitenvon=182
 |Originalseitenbis=184
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Gästewohnung Treppenhaus
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Raum in der Abtswohnung

@@ -5,6 +5,7 @@
 |Originalseitenvon=220
 |Originalseitenbis=223
 |Lemma=München, Stadtpfarrkirche zu Unserer Lieben Frau, sog. Frauenkirche
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Kapelle des ehem. Instituts der Englischen Fräulein

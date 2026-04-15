@@ -5,6 +5,7 @@
 |Originalseitenvon=118
 |Originalseitenbis=120
 |Lemma=Kaufering, Pfarrkirche St. Johannes Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Kaufering
 |davor=Jedelstetten, Kapelle St. Nikolaus

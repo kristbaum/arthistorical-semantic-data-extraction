@@ -5,6 +5,7 @@
 |Originalseitenvon=203
 |Originalseitenbis=203
 |Lemma=Oberflossing, Pfarrkirche St. Johann Baptist, Seelenkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Oberflossing
 |davor=Oberflossing, Pfarrkirche St. Johann Baptist

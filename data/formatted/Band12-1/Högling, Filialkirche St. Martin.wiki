@@ -5,6 +5,7 @@
 |Originalseitenvon=263
 |Originalseitenbis=267
 |Lemma=Högling, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Högling
 |davor=Hirnsberg, Pfarrkuratiekirche Mariä Himmelfahrt

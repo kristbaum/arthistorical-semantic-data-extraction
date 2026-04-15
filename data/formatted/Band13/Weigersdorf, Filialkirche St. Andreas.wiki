@@ -5,6 +5,7 @@
 |Originalseitenvon=446
 |Originalseitenbis=450
 |Lemma=Weigersdorf, Filialkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Weigersdorf
 |davor=Walting, Leonhardskapelle

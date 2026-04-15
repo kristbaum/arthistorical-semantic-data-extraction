@@ -5,6 +5,7 @@
 |Originalseitenvon=169
 |Originalseitenbis=173
 |Lemma=Taufkirchen (Kr. München), Pfarrkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Taufkirchen (Kr. München)
 |davor=Siegertsbrunn, Filial- und Wallfahrtskirche St. Leonhard

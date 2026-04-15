@@ -5,6 +5,7 @@
 |Originalseitenvon=437
 |Originalseitenbis=440
 |Lemma=Tauberfeld, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Tauberfeld
 |davor=Schambach, Pfarr- und Wallfahrtskirche Hl. Kreuz

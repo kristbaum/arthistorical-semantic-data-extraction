@@ -5,6 +5,7 @@
 |Originalseitenvon=513
 |Originalseitenbis=516
 |Lemma=Holzkirchen, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Holzkirchen
 |davor=Hagnberg, Kapelle

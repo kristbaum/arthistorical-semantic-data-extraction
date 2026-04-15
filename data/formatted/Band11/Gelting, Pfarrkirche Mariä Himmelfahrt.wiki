@@ -5,6 +5,7 @@
 |Originalseitenvon=347
 |Originalseitenbis=353
 |Lemma=Gelting, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Gelting
 |davor=Frauenreuth, Filial- und Wallfahrtskirche Mariä Himmelfahrt

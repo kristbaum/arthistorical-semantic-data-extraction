@@ -5,6 +5,7 @@
 |Originalseitenvon=302
 |Originalseitenbis=304
 |Lemma=Wörth, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Wörth
 |davor=Wimpasing bei Malseneck, Feldkapelle

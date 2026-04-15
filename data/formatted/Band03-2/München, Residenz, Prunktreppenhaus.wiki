@@ -5,6 +5,7 @@
 |Originalseitenvon=343
 |Originalseitenbis=343
 |Lemma=München, Residenz, Prunktreppenhaus
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Grüne Galerie

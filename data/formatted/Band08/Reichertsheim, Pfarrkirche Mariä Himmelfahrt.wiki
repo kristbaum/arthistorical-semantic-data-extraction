@@ -5,6 +5,7 @@
 |Originalseitenvon=248
 |Originalseitenbis=253
 |Lemma=Reichertsheim, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Reichertsheim
 |davor=Rattenkirchen, Pfarrkirche Mariä Himmelfahrt

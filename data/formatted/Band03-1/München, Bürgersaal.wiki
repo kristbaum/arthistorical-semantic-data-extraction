@@ -5,6 +5,7 @@
 |Originalseitenvon=196
 |Originalseitenbis=208
 |Lemma=München, Bürgersaal
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München-Lehel, ehem. Klosterkirche St. Anna

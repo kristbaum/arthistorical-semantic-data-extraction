@@ -5,6 +5,7 @@
 |Originalseitenvon=93
 |Originalseitenbis=96
 |Lemma=München-Perlach, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=München-Perlach
 |davor=München-Moosach, Alte Pfarrkirche St. Martin

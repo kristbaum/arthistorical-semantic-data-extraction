@@ -5,6 +5,7 @@
 |Originalseitenvon=159
 |Originalseitenbis=163
 |Lemma=Pettenhofen, Pfarr- und Wallfahrtskirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Pettenhofen
 |davor=Etting, Pfarr- und Wallfahrtskirche St. Michael

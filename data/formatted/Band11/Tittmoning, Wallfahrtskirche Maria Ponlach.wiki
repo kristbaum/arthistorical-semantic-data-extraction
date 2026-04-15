@@ -5,6 +5,7 @@
 |Originalseitenvon=180
 |Originalseitenbis=187
 |Lemma=Tittmoning, Wallfahrtskirche Maria Ponlach
+|Meta=
 |Typ=Sakral
 |Ort=Tittmoning
 |davor=Tittmoning, Kreuzabnahme-Kapelle an der Stadtpfarrkirche

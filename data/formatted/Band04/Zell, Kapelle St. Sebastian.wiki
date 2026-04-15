@@ -5,6 +5,7 @@
 |Originalseitenvon=274
 |Originalseitenbis=279
 |Lemma=Zell, Kapelle St. Sebastian
+|Meta=
 |Typ=Sakral
 |Ort=Zell
 |davor=Zankenhausen, Pfarrkirche St. Johannes der Täufer

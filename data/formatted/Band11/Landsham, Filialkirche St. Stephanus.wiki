@@ -5,6 +5,7 @@
 |Originalseitenvon=364
 |Originalseitenbis=370
 |Lemma=Landsham, Filialkirche St. Stephanus
+|Meta=
 |Typ=Sakral
 |Ort=Landsham
 |davor=Grafing, Marktkirche Heiligste Dreifaltigkeit

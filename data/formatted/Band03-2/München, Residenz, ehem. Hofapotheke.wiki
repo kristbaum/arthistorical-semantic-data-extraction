@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=214
 |Lemma=München, Residenz, ehem. Hofapotheke
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Gartentempel im Hofgarten

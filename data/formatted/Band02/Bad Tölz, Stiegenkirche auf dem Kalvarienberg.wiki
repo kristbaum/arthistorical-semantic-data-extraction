@@ -5,6 +5,7 @@
 |Originalseitenvon=33
 |Originalseitenbis=35
 |Lemma=Bad Tölz, Stiegenkirche auf dem Kalvarienberg
+|Meta=
 |Typ=Sakral
 |Ort=Bad Tölz
 |davor=Bad Tölz, Kreuzkirche auf dem Kalvarienberg

@@ -5,6 +5,7 @@
 |Originalseitenvon=232
 |Originalseitenbis=237
 |Lemma=Höglwörth, ehem. Winterchor des ehem. Augustiner-Chorherrenstifts
+|Meta=
 |Typ=Sakral
 |Ort=Höglwörth
 |davor=Höglwörth, ehem. Augustiner-Chorherrenstifts, ehem. Stiftskirche

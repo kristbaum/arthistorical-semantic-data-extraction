@@ -5,6 +5,7 @@
 |Originalseitenvon=17
 |Originalseitenbis=36
 |Lemma=Ingolstadt, Spitalkirche Heilig Geist
+|Meta=
 |Typ=Sakral
 |Ort=Ingolstadt
 |davor=Vorwort (Band 14)

@@ -5,6 +5,7 @@
 |Originalseitenvon=341
 |Originalseitenbis=341
 |Lemma=Perchting, Kalvarienberg
+|Meta=
 |Typ=Sakral
 |Ort=Perchting
 |davor=Perchting, Pfarrkirche Mariä Heimsuchung

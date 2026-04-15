@@ -5,6 +5,7 @@
 |Originalseitenvon=353
 |Originalseitenbis=357
 |Lemma=Personenregister (Band 8)
+|Meta=Personenregister
 |davor=Ortsregister (Band 8)
 |danach=Ikonographisches Register (Band 8)
 }}

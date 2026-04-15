@@ -5,6 +5,7 @@
 |Originalseitenvon=261
 |Originalseitenbis=265
 |Lemma=Hohenkammer, Pfarrkirche St. Johannes Evangelist
+|Meta=
 |Typ=Sakral
 |Ort=Hohenkammer
 |davor=Hörgertshausen, Pfarrkirche St. Jakobus der Ältere

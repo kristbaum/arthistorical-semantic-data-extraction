@@ -5,6 +5,7 @@
 |Originalseitenvon=27
 |Originalseitenbis=35
 |Lemma=Appertshofen, Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Appertshofen
 |davor=Altmannstein, Pfarrkirche Hl. Kreuz

@@ -5,6 +5,7 @@
 |Originalseitenvon=426
 |Originalseitenbis=432
 |Lemma=Rosenheim, Loretokapelle
+|Meta=
 |Typ=Sakral
 |Ort=Rosenheim
 |davor=Rosenheim, Roßackerkapelle

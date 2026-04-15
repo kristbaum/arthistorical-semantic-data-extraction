@@ -5,6 +5,7 @@
 |Originalseitenvon=218
 |Originalseitenbis=220
 |Lemma=Polling, Kuratiekirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Polling
 |davor=Oberornau, Pfarrkirche St. Andreas

@@ -5,6 +5,7 @@
 |Originalseitenvon=354
 |Originalseitenbis=363
 |Lemma=Grafing, Marktkirche Heiligste Dreifaltigkeit
+|Meta=
 |Typ=Sakral
 |Ort=Grafing
 |davor=Gelting, Pfarrkirche Mariä Himmelfahrt

@@ -5,6 +5,7 @@
 |Originalseitenvon=305
 |Originalseitenbis=306
 |Lemma=Ortsregister (Band 5)
+|Meta=Ortsregister
 |davor=Westerholzhausen, Pfarrkirche St. Korbinian
 |danach=Personenregister (Band 5)
 }}

@@ -5,6 +5,7 @@
 |Originalseitenvon=523
 |Originalseitenbis=524
 |Lemma=Schongau, Kapelle Hl. Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Schongau
 |davor=Schongau, Stadtpfarrkirche Mariä Himmelfahrt

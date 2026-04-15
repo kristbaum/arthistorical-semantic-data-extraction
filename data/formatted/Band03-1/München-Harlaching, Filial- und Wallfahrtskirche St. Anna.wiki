@@ -5,6 +5,7 @@
 |Originalseitenvon=82
 |Originalseitenbis=85
 |Lemma=München-Harlaching, Filial- und Wallfahrtskirche St. Anna
+|Meta=
 |Typ=Sakral
 |Ort=München-Harlaching
 |davor=München-Fröttmaning, Filialkirche Hl. Kreuz

@@ -5,6 +5,7 @@
 |Originalseitenvon=596
 |Originalseitenbis=597
 |Lemma=Tegernsee, ehem. Benediktinerabtei, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Tegernsee
 |davor=Tegernsee, ehem. Benediktinerabtei, Psallierchor

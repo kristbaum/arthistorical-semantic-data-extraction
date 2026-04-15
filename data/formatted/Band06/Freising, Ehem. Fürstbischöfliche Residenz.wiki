@@ -5,6 +5,7 @@
 |Originalseitenvon=160
 |Originalseitenbis=162
 |Lemma=Freising, Ehem. Fürstbischöfliche Residenz
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Benediktuskirche

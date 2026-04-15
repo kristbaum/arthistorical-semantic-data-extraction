@@ -5,6 +5,7 @@
 |Originalseitenvon=433
 |Originalseitenbis=441
 |Lemma=Unterammergau, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Unterammergau
 |davor=Uffing, Pfarrkirche St. Agatha

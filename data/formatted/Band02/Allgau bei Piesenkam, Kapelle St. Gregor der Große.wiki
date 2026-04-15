@@ -5,6 +5,7 @@
 |Originalseitenvon=451
 |Originalseitenbis=453
 |Lemma=Allgau bei Piesenkam, Kapelle St. Gregor der Große
+|Meta=
 |Typ=Sakral
 |Ort=Allgau bei Piesenkam
 |davor=Alb, Kapelle St. Anianus

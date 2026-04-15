@@ -5,6 +5,7 @@
 |Originalseitenvon=24
 |Originalseitenbis=26
 |Lemma=Altmannstein, Pfarrkirche Hl. Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Altmannstein
 |davor=Altendorf, Filial- und Wallfahrtskirche Mariä Himmelfahrt

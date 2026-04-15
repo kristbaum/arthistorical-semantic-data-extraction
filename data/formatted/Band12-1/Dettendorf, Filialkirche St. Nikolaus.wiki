@@ -5,6 +5,7 @@
 |Originalseitenvon=122
 |Originalseitenbis=123
 |Lemma=Dettendorf, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Dettendorf
 |davor=Beyharting, ehem. Augustiner-Chorherrenstift, ehem. Kapitelsaal

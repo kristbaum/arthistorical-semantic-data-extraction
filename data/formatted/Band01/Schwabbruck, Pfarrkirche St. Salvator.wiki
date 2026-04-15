@@ -5,6 +5,7 @@
 |Originalseitenvon=525
 |Originalseitenbis=529
 |Lemma=Schwabbruck, Pfarrkirche St. Salvator
+|Meta=
 |Typ=Sakral
 |Ort=Schwabbruck
 |davor=Schongau, Kapelle Hl. Kreuz

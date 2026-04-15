@@ -5,6 +5,7 @@
 |Originalseitenvon=86
 |Originalseitenbis=88
 |Lemma=München-Lochhausen, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=München-Lochhausen
 |davor=München-Harlaching, Filial- und Wallfahrtskirche St. Anna

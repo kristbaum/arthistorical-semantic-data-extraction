@@ -5,6 +5,7 @@
 |Originalseitenvon=119
 |Originalseitenbis=122
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Sommerprälatur
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Speisesaal

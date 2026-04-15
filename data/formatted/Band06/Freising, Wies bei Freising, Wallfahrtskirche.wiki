@@ -5,6 +5,7 @@
 |Originalseitenvon=200
 |Originalseitenbis=213
 |Lemma=Freising, Wies bei Freising, Wallfahrtskirche
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Weihenstephan, Ehem. Benediktinerkloster, jetzt Technische Universität, Festsaal

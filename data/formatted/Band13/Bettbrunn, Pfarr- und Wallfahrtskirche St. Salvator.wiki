@@ -5,6 +5,7 @@
 |Originalseitenvon=45
 |Originalseitenbis=66
 |Lemma=Bettbrunn, Pfarr- und Wallfahrtskirche St. Salvator
+|Meta=
 |Typ=Sakral
 |Ort=Bettbrunn
 |davor=Berghausen, Filialkirche St. Nikolaus

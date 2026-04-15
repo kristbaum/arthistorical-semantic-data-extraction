@@ -5,6 +5,7 @@
 |Originalseitenvon=178
 |Originalseitenbis=188
 |Lemma=Odelzhausen, Pfarrkirche St. Benedikt
+|Meta=
 |Typ=Sakral
 |Ort=Odelzhausen
 |davor=Markt Indersdorf, Marktkirche St. Bartholomäus

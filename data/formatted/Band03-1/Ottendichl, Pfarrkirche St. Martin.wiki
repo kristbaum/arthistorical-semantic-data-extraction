@@ -5,6 +5,7 @@
 |Originalseitenvon=144
 |Originalseitenbis=148
 |Lemma=Ottendichl, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Ottendichl
 |davor=Lanzenhaar, Filialkirche St. Ulrich

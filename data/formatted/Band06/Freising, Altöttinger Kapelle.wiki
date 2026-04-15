@@ -5,6 +5,7 @@
 |Originalseitenvon=174
 |Originalseitenbis=174
 |Lemma=Freising, Altöttinger Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, sog. Asamsaal im ehem. Bischöflichen Lyzeum

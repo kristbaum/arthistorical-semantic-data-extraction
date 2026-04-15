@@ -5,6 +5,7 @@
 |Originalseitenvon=454
 |Originalseitenbis=454
 |Lemma=Aurach, Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Aurach
 |davor=Allgau bei Piesenkam, Kapelle St. Gregor der Große

@@ -5,6 +5,7 @@
 |Originalseitenvon=350
 |Originalseitenbis=351
 |Lemma=Ortsregister (Band 8)
+|Meta=Ortsregister
 |davor=Im 18. Jh. im Bereich des Landkreises Mühldorf tätige Maler
 |danach=Personenregister (Band 8)
 }}

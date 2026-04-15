@@ -5,6 +5,7 @@
 |Originalseitenvon=332
 |Originalseitenbis=335
 |Lemma=Kleinholzhausen, Filialkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Kleinholzhausen
 |davor=Kleinhöhenrain, Filialkirche St. Bartholomäus

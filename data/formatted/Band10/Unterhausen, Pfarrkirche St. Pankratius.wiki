@@ -5,6 +5,7 @@
 |Originalseitenvon=308
 |Originalseitenbis=312
 |Lemma=Unterhausen, Pfarrkirche St. Pankratius
+|Meta=
 |Typ=Sakral
 |Ort=Unterhausen
 |davor=Treidelheim, Filialkirche St. Veit

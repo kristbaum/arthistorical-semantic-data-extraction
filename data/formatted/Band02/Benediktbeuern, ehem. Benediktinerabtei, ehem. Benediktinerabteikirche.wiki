@@ -5,6 +5,7 @@
 |Originalseitenvon=38
 |Originalseitenbis=63
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Benediktinerabteikirche
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Bairawies, Kapelle

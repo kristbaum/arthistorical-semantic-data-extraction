@@ -5,6 +5,7 @@
 |Originalseitenvon=592
 |Originalseitenbis=593
 |Lemma=Embleme-Register (Band 12-II)
+|Meta=Embleme-Register
 |davor=Ikonographisches Register (Band 12-II)
 |danach=
 }}

@@ -5,6 +5,7 @@
 |Originalseitenvon=184
 |Originalseitenbis=188
 |Lemma=Pflugdorf, Filialkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Pflugdorf
 |davor=Petzenhausen, Pfarrkirche St. Peter und Paul

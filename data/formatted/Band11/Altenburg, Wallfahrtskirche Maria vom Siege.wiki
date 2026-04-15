@@ -5,6 +5,7 @@
 |Originalseitenvon=267
 |Originalseitenbis=287
 |Lemma=Altenburg, Wallfahrtskirche Maria vom Siege
+|Meta=
 |Typ=Sakral
 |Ort=Altenburg
 |davor=Triebenbach, Schlosskapelle Maria Schnee

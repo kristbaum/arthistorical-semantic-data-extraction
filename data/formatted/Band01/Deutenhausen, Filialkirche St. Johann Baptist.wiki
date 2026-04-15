@@ -5,6 +5,7 @@
 |Originalseitenvon=403
 |Originalseitenbis=403
 |Lemma=Deutenhausen, Filialkirche St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Deutenhausen
 |davor=Burggen, Kapelle St. Anna

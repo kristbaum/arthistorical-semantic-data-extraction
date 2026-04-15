@@ -5,6 +5,7 @@
 |Originalseitenvon=212
 |Originalseitenbis=215
 |Lemma=St. Georgen, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=St. Georgen
 |davor=Rott, Pfarrkirche St. Johannes Baptist

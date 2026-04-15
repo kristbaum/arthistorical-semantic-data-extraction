@@ -5,6 +5,7 @@
 |Originalseitenvon=280
 |Originalseitenbis=287
 |Lemma=Hitzhofen, Alte Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Hitzhofen
 |davor=Hirschberg, ehem. Fürstbischöfliches Sommerschloss

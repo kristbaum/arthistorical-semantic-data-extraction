@@ -5,6 +5,7 @@
 |Originalseitenvon=174
 |Originalseitenbis=177
 |Lemma=Tacherting, Friedhofskapelle St. Anna
+|Meta=
 |Typ=Sakral
 |Ort=Tacherting
 |davor=Tacherting, Pfarrkirche Mariä Himmelfahrt

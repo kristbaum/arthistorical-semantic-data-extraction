@@ -5,6 +5,7 @@
 |Originalseitenvon=430
 |Originalseitenbis=432
 |Lemma=Uffing, Pfarrkirche St. Agatha
+|Meta=
 |Typ=Sakral
 |Ort=Uffing
 |davor=Seehausen, Pfarrkirche St. Michael

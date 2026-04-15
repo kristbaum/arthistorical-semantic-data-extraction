@@ -5,6 +5,7 @@
 |Originalseitenvon=425
 |Originalseitenbis=425
 |Lemma=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Klosterkirche der Chorfrauen von Notre Dame

@@ -5,6 +5,7 @@
 |Originalseitenvon=142
 |Originalseitenbis=143
 |Lemma=Landsberg am Lech, Ignatiuskapelle der ehem. Jesuitenkollegienkirche
+|Meta=
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, Sakristei der ehem. Jesuitenkollegienkirche

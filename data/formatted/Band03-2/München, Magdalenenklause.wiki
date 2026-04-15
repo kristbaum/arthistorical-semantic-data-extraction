@@ -5,6 +5,7 @@
 |Originalseitenvon=417
 |Originalseitenbis=420
 |Lemma=München, Magdalenenklause
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Badenburg

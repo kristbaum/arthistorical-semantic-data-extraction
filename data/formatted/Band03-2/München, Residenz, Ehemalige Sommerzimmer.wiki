@@ -5,6 +5,7 @@
 |Originalseitenvon=292
 |Originalseitenbis=298
 |Lemma=München, Residenz, Ehemalige Sommerzimmer
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Ehemalige Alexanderzimmer

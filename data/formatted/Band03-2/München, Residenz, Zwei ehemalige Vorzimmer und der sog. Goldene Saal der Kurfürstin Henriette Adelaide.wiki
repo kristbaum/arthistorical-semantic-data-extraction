@@ -5,6 +5,7 @@
 |Originalseitenvon=220
 |Originalseitenbis=233
 |Lemma=München, Residenz, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667

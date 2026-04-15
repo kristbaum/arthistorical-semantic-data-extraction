@@ -5,6 +5,7 @@
 |Originalseitenvon=278
 |Originalseitenbis=283
 |Lemma=Eschenlohe, Pfarrkirche St. Clemens
+|Meta=
 |Typ=Sakral
 |Ort=Eschenlohe
 |davor=Elmau, Kapelle

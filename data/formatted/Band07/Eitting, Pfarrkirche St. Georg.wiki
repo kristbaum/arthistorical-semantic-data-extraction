@@ -5,6 +5,7 @@
 |Originalseitenvon=99
 |Originalseitenbis=103
 |Lemma=Eitting, Pfarrkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Eitting
 |davor=Dorfen, Marktkirche St. Vitus

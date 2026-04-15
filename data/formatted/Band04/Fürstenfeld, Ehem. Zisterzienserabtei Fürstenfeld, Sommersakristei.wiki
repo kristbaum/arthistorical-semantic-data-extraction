@@ -5,6 +5,7 @@
 |Originalseitenvon=104
 |Originalseitenbis=112
 |Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Sommersakristei
+|Meta=
 |Typ=Sakral
 |Ort=Fürstenfeld
 |davor=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt

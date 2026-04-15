@@ -5,6 +5,7 @@
 |Originalseitenvon=168
 |Originalseitenbis=177
 |Lemma=Markt Indersdorf, Marktkirche St. Bartholomäus
+|Meta=
 |Typ=Sakral
 |Ort=Markt Indersdorf
 |davor=Lauterbach, Filialkirche St. Alban

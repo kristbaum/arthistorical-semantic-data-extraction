@@ -5,6 +5,7 @@
 |Originalseitenvon=158
 |Originalseitenbis=161
 |Lemma=Landsberg am Lech, Filialkirche St. Johannes
+|Meta=
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Landsberg am Lech, ehem. St. Leonhardskapelle

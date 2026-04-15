@@ -5,6 +5,7 @@
 |Originalseitenvon=331
 |Originalseitenbis=334
 |Lemma=Froschhausen, Filial- u. Wallfahrtskirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Froschhausen
 |davor=Ettal, Benediktinerabtei, Kapitel- u. Chorsaal

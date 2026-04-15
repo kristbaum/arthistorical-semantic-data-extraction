@@ -5,6 +5,7 @@
 |Originalseitenvon=180
 |Originalseitenbis=183
 |Lemma=Petzenhausen, Pfarrkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Petzenhausen
 |davor=Penzing, Pfarrkirche St. Matrin

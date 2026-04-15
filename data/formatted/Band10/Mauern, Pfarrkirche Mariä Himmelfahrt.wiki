@@ -5,6 +5,7 @@
 |Originalseitenvon=142
 |Originalseitenbis=154
 |Lemma=Mauern, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Mauern
 |davor=Maria Beinberg, Wallfahrtskirche Mariä Geburt

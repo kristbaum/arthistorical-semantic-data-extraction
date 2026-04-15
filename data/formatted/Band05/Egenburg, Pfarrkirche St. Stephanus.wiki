@@ -5,6 +5,7 @@
 |Originalseitenvon=51
 |Originalseitenbis=59
 |Lemma=Egenburg, Pfarrkirche St. Stephanus
+|Meta=
 |Typ=Sakral
 |Ort=Egenburg
 |davor=Altomünster, Pfarr- und Klosterkirche St. Alto, Frauenchor

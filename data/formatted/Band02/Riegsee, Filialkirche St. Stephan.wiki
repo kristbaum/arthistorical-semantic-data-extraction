@@ -5,6 +5,7 @@
 |Originalseitenvon=401
 |Originalseitenbis=404
 |Lemma=Riegsee, Filialkirche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=Riegsee
 |davor=Ramsach, Filialkirche St. Georg

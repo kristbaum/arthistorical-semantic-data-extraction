@@ -5,6 +5,7 @@
 |Originalseitenvon=235
 |Originalseitenbis=240
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael, sog. Schöner Studentensaal
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, ehem. Jesuitenkolleg von St. Michael

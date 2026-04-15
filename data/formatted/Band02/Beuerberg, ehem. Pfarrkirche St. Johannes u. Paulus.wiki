@@ -5,6 +5,7 @@
 |Originalseitenvon=138
 |Originalseitenbis=142
 |Lemma=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus
+|Meta=
 |Typ=Sakral
 |Ort=Beuerberg
 |davor=Beuerberg, ehem. Augustinerchorherrenstift, Prälatenkapelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=266
 |Originalseitenbis=267
 |Lemma=Windach, Filialkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Windach
 |davor=Vogach, Filialkirche St. Johann Baptist

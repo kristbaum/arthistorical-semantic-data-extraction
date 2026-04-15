@@ -5,6 +5,7 @@
 |Originalseitenvon=602
 |Originalseitenbis=603
 |Lemma=Thalham, Kapelle St. Florian
+|Meta=
 |Typ=Sakral
 |Ort=Thalham
 |davor=Tegernsee, ehem. Benediktinerabtei, ehem. Rekreationssaal

@@ -5,6 +5,7 @@
 |Originalseitenvon=17
 |Originalseitenbis=18
 |Lemma=Ambach, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Ambach
 |davor=Vorwort (Band 10)

@@ -5,6 +5,7 @@
 |Originalseitenvon=169
 |Originalseitenbis=171
 |Lemma=Oberigling, Pfarrkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Oberigling
 |davor=Oberdießen, Pfarrkirche St. Rupert

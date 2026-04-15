@@ -5,6 +5,7 @@
 |Originalseitenvon=275
 |Originalseitenbis=276
 |Lemma=Dickelschwaig, Kapelle St. Gertrud
+|Meta=
 |Typ=Sakral
 |Ort=Dickelschwaig
 |davor=Bayersoien, Pfarrkirche St. Georg

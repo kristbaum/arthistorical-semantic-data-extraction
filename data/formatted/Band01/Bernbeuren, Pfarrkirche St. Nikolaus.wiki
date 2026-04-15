@@ -5,6 +5,7 @@
 |Originalseitenvon=381
 |Originalseitenbis=387
 |Lemma=Bernbeuren, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Bernbeuren
 |davor=Bauerbach, Filialkirche St. Leonhard

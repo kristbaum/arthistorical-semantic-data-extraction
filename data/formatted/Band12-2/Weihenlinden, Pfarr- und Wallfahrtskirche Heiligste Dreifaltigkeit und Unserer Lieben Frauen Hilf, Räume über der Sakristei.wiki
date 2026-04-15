@@ -5,6 +5,7 @@
 |Originalseitenvon=539
 |Originalseitenbis=541
 |Lemma=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Räume über der Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Weihenlinden
 |davor=Weihenlinden, Pfarr- und Wallfahrtskirche Heiligste Dreifaltigkeit und Unserer Lieben Frauen Hilf, Chorraum

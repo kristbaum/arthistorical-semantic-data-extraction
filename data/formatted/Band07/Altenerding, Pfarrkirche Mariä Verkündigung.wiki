@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=31
 |Lemma=Altenerding, Pfarrkirche  Mariä Verkündigung
+|Meta=
 |Typ=Sakral
 |Ort=Altenerding
 |davor=Vorwort Dank (Band 7)

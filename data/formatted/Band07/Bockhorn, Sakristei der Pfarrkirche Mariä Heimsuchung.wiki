@@ -5,6 +5,7 @@
 |Originalseitenvon=59
 |Originalseitenbis=60
 |Lemma=Bockhorn, Sakristei der Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Bockhorn
 |davor=Blainthal, Filialkirche St. Ulrich

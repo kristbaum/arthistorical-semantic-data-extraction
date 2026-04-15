@@ -5,6 +5,7 @@
 |Originalseitenvon=275
 |Originalseitenbis=279
 |Lemma=Weil, Pfarrkirche St. Mauritius
+|Meta=
 |Typ=Sakral
 |Ort=Weil
 |davor=Walleshausen, Pfarrkirche Mariä Himmelfahrt

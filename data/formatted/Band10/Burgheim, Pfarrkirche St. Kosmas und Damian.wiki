@@ -5,6 +5,7 @@
 |Originalseitenvon=77
 |Originalseitenbis=84
 |Lemma=Burgheim, Pfarrkirche St. Kosmas und Damian
+|Meta=
 |Typ=Sakral
 |Ort=Burgheim
 |davor=Bertoldsheim, Pfarrkirche St. Michael

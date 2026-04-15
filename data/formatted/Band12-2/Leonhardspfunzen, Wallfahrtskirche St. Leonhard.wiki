@@ -5,6 +5,7 @@
 |Originalseitenvon=343
 |Originalseitenbis=344
 |Lemma=Leonhardspfunzen, Wallfahrtskirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Leonhardspfunzen
 |davor=Lampferding, Kuratiekirche Mariä Himmelfahrt

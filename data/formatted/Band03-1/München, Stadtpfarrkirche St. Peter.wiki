@@ -5,6 +5,7 @@
 |Originalseitenvon=248
 |Originalseitenbis=255
 |Lemma=München, Stadtpfarrkirche St. Peter
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, ehem. Jesuitenkolleg von St. Michael, Saal II

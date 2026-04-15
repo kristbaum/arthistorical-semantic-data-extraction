@@ -5,6 +5,7 @@
 |Originalseitenvon=219
 |Originalseitenbis=220
 |Lemma=Neuburg an der Donau, Schloß
+|Meta=
 |Typ=Profan
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, ehem. Bruderschaftshaus zur Schmerzhaften Muttergottes (Provinzialbibliothek)

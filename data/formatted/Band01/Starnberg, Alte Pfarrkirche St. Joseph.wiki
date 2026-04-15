@@ -5,6 +5,7 @@
 |Originalseitenvon=347
 |Originalseitenbis=351
 |Lemma=Starnberg, Alte Pfarrkirche St. Joseph
+|Meta=
 |Typ=Sakral
 |Ort=Starnberg
 |davor=Seefeld, Schlosskapelle St. Johann Baptist

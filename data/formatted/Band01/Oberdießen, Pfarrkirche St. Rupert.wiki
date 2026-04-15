@@ -5,6 +5,7 @@
 |Originalseitenvon=167
 |Originalseitenbis=168
 |Lemma=Oberdießen, Pfarrkirche St. Rupert
+|Meta=
 |Typ=Sakral
 |Ort=Oberdießen
 |davor=Lengenfeld, Filialkirche St. Nikolaus

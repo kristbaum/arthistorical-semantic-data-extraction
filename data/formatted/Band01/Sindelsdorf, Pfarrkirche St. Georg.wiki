@@ -5,6 +5,7 @@
 |Originalseitenvon=530
 |Originalseitenbis=531
 |Lemma=Sindelsdorf, Pfarrkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Sindelsdorf
 |davor=Schwabbruck, Pfarrkirche St. Salvator

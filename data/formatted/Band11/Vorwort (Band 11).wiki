@@ -5,6 +5,7 @@
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 11)
+|Meta=Vorwort
 |davor=
 |danach=Almau, Filialkirche St. Leonhard
 |AutorIn1=Büttner, Frank

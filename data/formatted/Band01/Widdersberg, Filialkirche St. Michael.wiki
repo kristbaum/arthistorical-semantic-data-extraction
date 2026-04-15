@@ -5,6 +5,7 @@
 |Originalseitenvon=362
 |Originalseitenbis=363
 |Lemma=Widdersberg, Filialkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Widdersberg
 |davor=Wangen, Expositurkirche St. Ulrich

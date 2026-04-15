@@ -5,6 +5,7 @@
 |Originalseitenvon=358
 |Originalseitenbis=370
 |Lemma=Mittenwald, Pfarrkirche St. Peter u. Paul
+|Meta=
 |Typ=Sakral
 |Ort=Mittenwald
 |davor=Krün, Kuratiekirche St. Sebastian

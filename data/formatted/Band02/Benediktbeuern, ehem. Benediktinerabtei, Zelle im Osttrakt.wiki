@@ -5,6 +5,7 @@
 |Originalseitenvon=73
 |Originalseitenbis=73
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Kapitelsaal

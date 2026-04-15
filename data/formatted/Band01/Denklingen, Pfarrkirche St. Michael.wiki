@@ -5,6 +5,7 @@
 |Originalseitenvon=30
 |Originalseitenbis=36
 |Lemma=Denklingen, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Denklingen
 |davor=Bischofsried, Maria-Schnee-Kapelle

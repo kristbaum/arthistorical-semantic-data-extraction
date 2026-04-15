@@ -5,6 +5,7 @@
 |Originalseitenvon=67
 |Originalseitenbis=68
 |Lemma=Biberbach, Filialkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Biberbach
 |davor=Bettbrunn, Pfarr- und Wallfahrtskirche St. Salvator

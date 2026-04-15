@@ -5,6 +5,7 @@
 |Originalseitenvon=428
 |Originalseitenbis=432
 |Lemma=Kreuzberg, Kapelle Hl. Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Kreuzberg
 |davor=Kienberg, Kapelle St. Michael

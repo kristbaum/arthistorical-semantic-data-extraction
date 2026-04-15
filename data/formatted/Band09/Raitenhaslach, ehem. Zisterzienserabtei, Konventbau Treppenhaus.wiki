@@ -5,6 +5,7 @@
 |Originalseitenvon=206
 |Originalseitenbis=207
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal

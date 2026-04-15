@@ -5,6 +5,7 @@
 |Originalseitenvon=422
 |Originalseitenbis=424
 |Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Festsaal 
+|Meta=
 |Typ=Sakral
 |Ort=Rebdorf
 |davor=Rebdorf, Ehem. Augustiner-Chorherrenstift, Stiftskirche

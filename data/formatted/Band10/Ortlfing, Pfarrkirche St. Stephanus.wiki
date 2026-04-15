@@ -5,6 +5,7 @@
 |Originalseitenvon=238
 |Originalseitenbis=243
 |Lemma=Ortlfing, Pfarrkirche St. Stephanus
+|Meta=
 |Typ=Sakral
 |Ort=Ortlfing
 |davor=Oberhausen, Pfarrkirche St. Clemens

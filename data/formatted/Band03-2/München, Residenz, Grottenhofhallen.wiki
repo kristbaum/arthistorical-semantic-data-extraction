@@ -5,6 +5,7 @@
 |Originalseitenvon=49
 |Originalseitenbis=66
 |Lemma=München, Residenz, Grottenhofhallen
+|Meta=
 |Ort=München
 |davor=München, Residenz, Lusthaus im nachmaligen Hofgarten
 |danach=München, Residenz, Antiquarium

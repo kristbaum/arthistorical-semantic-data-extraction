@@ -5,6 +5,7 @@
 |Originalseitenvon=459
 |Originalseitenbis=467
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Bibliothek
+|Meta=
 |Typ=Sakral
 |Ort=Polling
 |davor=Polling, ehem. Augustiner-Chorherrenstift, Prälatenkapelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=564
 |Originalseitenbis=593
 |Lemma=Tegernsee, ehem. Benediktinerabtei, Klosterkirche
+|Meta=
 |Typ=Sakral
 |Ort=Tegernsee
 |davor=Schmidham, Filialkirche St. Sebastian u. St. Rochus

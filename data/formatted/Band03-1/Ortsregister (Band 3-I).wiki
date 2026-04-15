@@ -5,6 +5,7 @@
 |Originalseitenvon=276
 |Originalseitenbis=278
 |Lemma=Ortsregister (Band 3-I)
+|Meta=Ortsregister
 |davor=München, Kirche und Kloster der ehem. Paulaner
 |danach=Personenregister (Band 3-I)
 }}

@@ -5,6 +5,7 @@
 |Originalseitenvon=155
 |Originalseitenbis=160
 |Lemma=Neuburg an der Donau, Stadtpfarrkirche St. Peter
+|Meta=
 |Typ=Sakral
 |Ort=Neuburg an der Donau
 |davor=Mauern, Pfarrkirche Mariä Himmelfahrt

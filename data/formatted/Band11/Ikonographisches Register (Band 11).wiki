@@ -5,6 +5,7 @@
 |Originalseitenvon=391
 |Originalseitenbis=399
 |Lemma=Ikonographisches Register (Band 11)
+|Meta=Ikonographisches Register
 |davor=Personenregister (Band 11)
 |danach=Embleme-Register (Band 11)
 }}

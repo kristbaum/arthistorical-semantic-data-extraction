@@ -5,6 +5,7 @@
 |Originalseitenvon=24
 |Originalseitenbis=46
 |Lemma=Altomünster, Pfarr- und Klosterkirche St. Alto
+|Meta=
 |Typ=Sakral
 |Ort=Altomünster
 |davor=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis

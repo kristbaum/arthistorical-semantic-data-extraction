@@ -5,6 +5,7 @@
 |Originalseitenvon=302
 |Originalseitenbis=311
 |Lemma=Tegernbach, Filialkirche St. Petrus
+|Meta=
 |Typ=Sakral
 |Ort=Tegernbach
 |davor=Tading, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

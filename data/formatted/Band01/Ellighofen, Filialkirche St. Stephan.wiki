@@ -5,6 +5,7 @@
 |Originalseitenvon=64
 |Originalseitenbis=65
 |Lemma=Ellighofen, Filialkirche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=Ellighofen
 |davor=Egling a. d. Paar, Kapelle St. Ulrich

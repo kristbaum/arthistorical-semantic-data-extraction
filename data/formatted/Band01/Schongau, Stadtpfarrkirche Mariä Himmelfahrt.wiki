@@ -5,6 +5,7 @@
 |Originalseitenvon=517
 |Originalseitenbis=522
 |Lemma=Schongau, Stadtpfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Schongau
 |davor=St. Nikolaus, Kapelle St. Nikolaus

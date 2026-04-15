@@ -5,6 +5,7 @@
 |Originalseitenvon=266
 |Originalseitenbis=273
 |Lemma=Unterweikertshofen, Filialkirche St. Gabinus
+|Meta=
 |Typ=Sakral
 |Ort=Unterweikertshofen
 |davor=Unterumbach, Filialkirche St. Martin

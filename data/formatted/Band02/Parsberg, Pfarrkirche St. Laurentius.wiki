@@ -5,6 +5,7 @@
 |Originalseitenvon=542
 |Originalseitenbis=545
 |Lemma=Parsberg, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Parsberg
 |davor=Osterwarngau, Manhartskapelle

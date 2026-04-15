@@ -5,6 +5,7 @@
 |Originalseitenvon=231
 |Originalseitenbis=234
 |Lemma=Schönbrunn, Filialkirche Hl. Kreuzauffindung
+|Meta=
 |Typ=Sakral
 |Ort=Schönbrunn
 |davor=Rumeltshausen, Filialkirche St. Laurentius

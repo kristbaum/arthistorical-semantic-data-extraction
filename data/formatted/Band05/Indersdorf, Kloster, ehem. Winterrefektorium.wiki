@@ -5,6 +5,7 @@
 |Originalseitenvon=145
 |Originalseitenbis=153
 |Lemma=Indersdorf, Kloster, ehem. Winterrefektorium
+|Meta=
 |Typ=Sakral
 |Ort=Indersdorf
 |davor=Indersdorf, Kloster, Klostergebäude

@@ -5,6 +5,7 @@
 |Originalseitenvon=76
 |Originalseitenbis=77
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Dörndorf, Pfarrkirche St. Sixtus

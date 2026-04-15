@@ -5,6 +5,7 @@
 |Originalseitenvon=115
 |Originalseitenbis=119
 |Lemma=Längloh, Filialkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Längloh
 |davor=Illdorf, Pfarrkirche Johannes der Täufer

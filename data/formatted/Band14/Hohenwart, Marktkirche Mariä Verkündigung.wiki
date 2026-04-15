@@ -5,6 +5,7 @@
 |Originalseitenvon=223
 |Originalseitenbis=229
 |Lemma=Hohenwart, Marktkirche Mariä Verkündigung
+|Meta=
 |Typ=Sakral
 |Ort=Hohenwart
 |davor=Gosseltshausen, Pfarrkirche Mariä Heimsuchung

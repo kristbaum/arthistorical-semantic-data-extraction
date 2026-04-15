@@ -5,6 +5,7 @@
 |Originalseitenvon=64
 |Originalseitenbis=65
 |Lemma=Grossberghofen, Kuratiekirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Grossberghofen
 |davor=Eisenhofen, Filialkirche St. Alban

@@ -5,6 +5,7 @@
 |Originalseitenvon=302
 |Originalseitenbis=303
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Treppenhaus
+|Meta=
 |Typ=Profan
 |Ort=Hohenaschau
 |davor=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Lauberstube

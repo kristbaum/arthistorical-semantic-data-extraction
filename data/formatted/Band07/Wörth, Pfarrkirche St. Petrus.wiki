@@ -5,6 +5,7 @@
 |Originalseitenvon=316
 |Originalseitenbis=327
 |Lemma=Wörth, Pfarrkirche St. Petrus
+|Meta=
 |Typ=Sakral
 |Ort=Wörth
 |davor=Walpertskirchen, Pfarrkirche St. Erhard

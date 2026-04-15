@@ -5,6 +5,7 @@
 |Originalseitenvon=345
 |Originalseitenbis=346
 |Lemma=München, Residenz, Ehemalige Cäcilienkapelle
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Speisesaal

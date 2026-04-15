@@ -5,6 +5,7 @@
 |Originalseitenvon=65
 |Originalseitenbis=70
 |Lemma=Au bei Bad Aibling, Wallfahrtskapelle sog. Taxakapelle
+|Meta=
 |Typ=Sakral
 |Ort=Au bei Bad Aibling
 |davor=Attel am Inn, ehem. Benediktinerabtei

@@ -5,6 +5,7 @@
 |Originalseitenvon=310
 |Originalseitenbis=312
 |Lemma=Kiefersfelden, sog. Johann-Nepomuk-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Kiefersfelden
 |davor=Kemathen, Pfarrkirche St. Martin

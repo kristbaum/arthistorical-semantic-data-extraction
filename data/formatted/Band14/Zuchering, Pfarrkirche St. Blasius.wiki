@@ -5,6 +5,7 @@
 |Originalseitenvon=164
 |Originalseitenbis=174
 |Lemma=Zuchering, Pfarrkirche St. Blasius
+|Meta=
 |Typ=Sakral
 |Ort=Zuchering
 |davor=Pettenhofen, Pfarr- und Wallfahrtskirche Mariä Geburt

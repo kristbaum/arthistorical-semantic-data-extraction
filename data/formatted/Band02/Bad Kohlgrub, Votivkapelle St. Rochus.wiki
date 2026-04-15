@@ -5,6 +5,7 @@
 |Originalseitenvon=269
 |Originalseitenbis=272
 |Lemma=Bad Kohlgrub, Votivkapelle St. Rochus
+|Meta=
 |Typ=Sakral
 |Ort=Bad Kohlgrub
 |davor=Wegscheid, Pestkapelle St. Anton

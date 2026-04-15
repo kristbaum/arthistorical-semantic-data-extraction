@@ -5,6 +5,7 @@
 |Originalseitenvon=337
 |Originalseitenbis=341
 |Lemma=Im 18. Jh. im Bereich des Landkreises Neuburg-Schrobenhausen tätige Maler
+|Meta=Malerliste
 |davor=Zell, Pfarrkirche St. Lucia
 |danach=Ortsregister (Band 10)
 }}

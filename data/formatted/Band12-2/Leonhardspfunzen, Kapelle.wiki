@@ -5,6 +5,7 @@
 |Originalseitenvon=344
 |Originalseitenbis=345
 |Lemma=Leonhardspfunzen, Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Leonhardspfunzen
 |davor=Leonhardspfunzen, Wallfahrtskirche St. Leonhard

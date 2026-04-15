@@ -5,6 +5,7 @@
 |Originalseitenvon=117
 |Originalseitenbis=121
 |Lemma=Ingolstadt, Stadtpfarrkirche St. Moritz
+|Meta=
 |Typ=Sakral
 |Ort=Ingolstadt
 |davor=Ingolstadt, Alte Anatomie

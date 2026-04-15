@@ -5,6 +5,7 @@
 |Originalseitenvon=245
 |Originalseitenbis=256
 |Lemma=Maria Gern, Wallfahrtskirche Maria Gern
+|Meta=
 |Typ=Sakral
 |Ort=Maria Gern
 |davor=Laufen, Michaelskapelle

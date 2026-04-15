@@ -5,6 +5,7 @@
 |Originalseitenvon=17
 |Originalseitenbis=23
 |Lemma=Altendorf, Filial- und Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Altendorf
 |davor=Vorwort (Band 13)

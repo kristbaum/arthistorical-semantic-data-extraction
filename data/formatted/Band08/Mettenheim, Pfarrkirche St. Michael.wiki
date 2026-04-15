@@ -5,6 +5,7 @@
 |Originalseitenvon=145
 |Originalseitenbis=156
 |Lemma=Mettenheim, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Mettenheim
 |davor=Markt Kraiburg, Ehenalige Deckenbilder aus der Bruckmühle

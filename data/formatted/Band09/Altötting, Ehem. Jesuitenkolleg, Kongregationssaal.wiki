@@ -5,6 +5,7 @@
 |Originalseitenvon=22
 |Originalseitenbis=23
 |Lemma=Altötting, Ehem. Jesuitenkolleg, Kongregationssaal
+|Meta=
 |Typ=Sakral
 |Ort=Altötting
 |davor=Altötting, Ehem. Jesuitenkolleg, Kirche St. Magdalena

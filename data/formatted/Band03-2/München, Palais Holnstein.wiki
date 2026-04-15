@@ -5,6 +5,7 @@
 |Originalseitenvon=571
 |Originalseitenbis=574
 |Lemma=München, Palais Holnstein
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Vier nicht lokalisierbare Deckenbilder aus dem Hofbereich

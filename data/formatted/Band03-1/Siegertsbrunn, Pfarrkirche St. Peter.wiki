@@ -5,6 +5,7 @@
 |Originalseitenvon=160
 |Originalseitenbis=162
 |Lemma=Siegertsbrunn, Pfarrkirche St. Peter
+|Meta=
 |Typ=Sakral
 |Ort=Siegertsbrunn
 |davor=Schäftlarn, Ehem. Prämonstratenserabteikirche St. Dionysius und Juliana

@@ -5,6 +5,7 @@
 |Originalseitenvon=223
 |Originalseitenbis=229
 |Lemma=Tüssling, Marktkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Tüssling
 |davor=St. Johann bei Obereschlbach, Kapelle St. Johann Baptist

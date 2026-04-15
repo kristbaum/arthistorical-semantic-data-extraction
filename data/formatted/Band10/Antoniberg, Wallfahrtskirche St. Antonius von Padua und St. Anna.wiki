@@ -5,6 +5,7 @@
 |Originalseitenvon=34
 |Originalseitenbis=44
 |Lemma=Antoniberg, Wallfahrtskirche St. Antonius von Padua und St. Anna
+|Meta=
 |Typ=Sakral
 |Ort=Antoniberg
 |davor=Ammerfeld, Pfarrkirche St. Quirinus von Tegernsee

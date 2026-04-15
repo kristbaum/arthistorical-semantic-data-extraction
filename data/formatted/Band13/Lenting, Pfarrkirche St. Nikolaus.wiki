@@ -5,6 +5,7 @@
 |Originalseitenvon=327
 |Originalseitenbis=342
 |Lemma=Lenting, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Lenting
 |davor=Kottingwörth, Pfarrkirche St. Vitus

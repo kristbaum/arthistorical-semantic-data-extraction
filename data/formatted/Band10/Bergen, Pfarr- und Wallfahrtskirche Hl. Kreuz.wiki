@@ -5,6 +5,7 @@
 |Originalseitenvon=45
 |Originalseitenbis=60
 |Lemma=Bergen, Pfarr- und Wallfahrtskirche Hl. Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Bergen
 |davor=Antoniberg, Wallfahrtskirche St. Antonius von Padua und St. Anna

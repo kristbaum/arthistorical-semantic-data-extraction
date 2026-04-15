@@ -5,6 +5,7 @@
 |Originalseitenvon=267
 |Originalseitenbis=272
 |Lemma=Thambach, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Thambach
 |davor=Sankt Erasmus, Filialkirche St. Erasmus

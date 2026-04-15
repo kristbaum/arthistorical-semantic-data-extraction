@@ -5,6 +5,7 @@
 |Originalseitenvon=191
 |Originalseitenbis=205
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Kleines Tafelzimmer

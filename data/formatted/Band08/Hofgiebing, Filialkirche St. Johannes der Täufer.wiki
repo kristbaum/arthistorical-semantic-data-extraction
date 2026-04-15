@@ -5,6 +5,7 @@
 |Originalseitenvon=126
 |Originalseitenbis=128
 |Lemma=Hofgiebing, Filialkirche St. Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Hofgiebing
 |davor=Guttenburg, Schloss

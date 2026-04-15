@@ -5,6 +5,7 @@
 |Originalseitenvon=565
 |Originalseitenbis=566
 |Lemma=München, Fünf, nicht lokalisierbare Deckenbilder aus dem Hofbereich
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=Starnberg, Kurfürstliches Prunkschiff "Bucentaur"

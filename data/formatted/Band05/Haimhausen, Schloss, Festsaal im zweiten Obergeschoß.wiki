@@ -5,6 +5,7 @@
 |Originalseitenvon=75
 |Originalseitenbis=79
 |Lemma=Haimhausen, Schloss, Festsaal im zweiten Obergeschoß
+|Meta=
 |Typ=Profan
 |Ort=Haimhausen
 |davor=Haimhausen, Schloß, Schloßkapelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=291
 |Originalseitenbis=293
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Eckzimmer
+|Meta=
 |Typ=Profan
 |Ort=Hohenaschau
 |davor=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Zimmer der Gräfin

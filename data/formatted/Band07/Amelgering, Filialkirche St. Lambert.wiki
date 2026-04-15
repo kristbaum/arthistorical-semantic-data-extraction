@@ -5,6 +5,7 @@
 |Originalseitenvon=32
 |Originalseitenbis=39
 |Lemma=Amelgering, Filialkirche St. Lambert
+|Meta=
 |Typ=Sakral
 |Ort=Amelgering
 |davor=Altenerding, Pfarrkirche  Mariä Verkündigung

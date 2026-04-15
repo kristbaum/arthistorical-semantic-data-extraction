@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=215
 |Lemma=Lenggries, Kapelle Maria Hilf
+|Meta=
 |Typ=Sakral
 |Ort=Lenggries
 |davor=Lenggries, Pfarrkirche St. Jakobus Major

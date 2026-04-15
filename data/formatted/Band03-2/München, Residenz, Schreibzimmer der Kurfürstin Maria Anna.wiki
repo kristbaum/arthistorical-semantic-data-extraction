@@ -5,6 +5,7 @@
 |Originalseitenvon=215
 |Originalseitenbis=215
 |Lemma=München, Residenz, Schreibzimmer der Kurfürstin Maria Anna
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, ehem. Hofapotheke

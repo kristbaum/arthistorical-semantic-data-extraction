@@ -5,6 +5,7 @@
 |Originalseitenvon=31
 |Originalseitenbis=38
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Klosterkirche
+|Meta=
 |Typ=Sakral
 |Ort=Altenhohenau
 |davor=Albaching, Pfarrkirche St. Nikolaus

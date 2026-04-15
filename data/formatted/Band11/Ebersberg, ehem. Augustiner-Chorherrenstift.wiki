@@ -5,6 +5,7 @@
 |Originalseitenvon=300
 |Originalseitenbis=328
 |Lemma=Ebersberg, ehem. Augustiner-Chorherrenstift
+|Meta=
 |Typ=Sakral
 |Ort=Ebersberg
 |davor=Anzing, ehem. Schlosskapelle Heilig Kreuz

@@ -5,6 +5,7 @@
 |Originalseitenvon=64
 |Originalseitenbis=78
 |Lemma=Buchbach, Pfarrkirche St. Jakobus Maior
+|Meta=
 |Typ=Sakral
 |Ort=Buchbach
 |davor=Au am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek

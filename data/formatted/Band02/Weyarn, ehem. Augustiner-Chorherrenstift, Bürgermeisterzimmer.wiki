@@ -5,6 +5,7 @@
 |Originalseitenvon=626
 |Originalseitenbis=627
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Bürgermeisterzimmer
+|Meta=
 |Typ=Sakral
 |Ort=Weyarn
 |davor=Weyarn, ehem. Augustiner-Chorherrenstift, Sitzungssaal

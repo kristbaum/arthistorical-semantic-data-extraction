@@ -5,6 +5,7 @@
 |Originalseitenvon=163
 |Originalseitenbis=164
 |Lemma=Freising, Kapelle in der ehem. Domdechantei
+|Meta=
 |Typ=Sakral
 |Ort=Freising
 |davor=Freising, Ehem. Fürstbischöfliche Residenz

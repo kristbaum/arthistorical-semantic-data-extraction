@@ -5,6 +5,7 @@
 |Originalseitenvon=234
 |Originalseitenbis=236
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Winterstube
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons

@@ -5,6 +5,7 @@
 |Originalseitenvon=400
 |Originalseitenbis=410
 |Lemma=Prien am Chiemsee, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Prien am Chiemsee
 |davor=Pfraundorf, Pfarrkirche St. Nikolaus

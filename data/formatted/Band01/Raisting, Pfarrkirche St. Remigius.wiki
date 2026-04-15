@@ -5,6 +5,7 @@
 |Originalseitenvon=472
 |Originalseitenbis=474
 |Lemma=Raisting, Pfarrkirche St. Remigius
+|Meta=
 |Typ=Sakral
 |Ort=Raisting
 |davor=Prem, Pfarrkirche St. Michael

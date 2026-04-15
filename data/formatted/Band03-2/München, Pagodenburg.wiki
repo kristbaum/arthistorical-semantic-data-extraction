@@ -5,6 +5,7 @@
 |Originalseitenvon=401
 |Originalseitenbis=409
 |Lemma=München, Pagodenburg
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Schloss Nymphenburg, Schloßkapelle

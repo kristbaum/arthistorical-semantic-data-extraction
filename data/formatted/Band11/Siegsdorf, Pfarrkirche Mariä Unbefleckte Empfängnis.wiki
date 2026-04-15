@@ -5,6 +5,7 @@
 |Originalseitenvon=144
 |Originalseitenbis=159
 |Lemma=Siegsdorf, Pfarrkirche Mariä Unbefleckte Empfängnis
+|Meta=
 |Typ=Sakral
 |Ort=Siegsdorf
 |davor=Schnaitsee, Marienkapelle

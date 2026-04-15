@@ -5,6 +5,7 @@
 |Originalseitenvon=95
 |Originalseitenbis=100
 |Lemma=Heinrichshofen, Filialkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Heinrichshofen
 |davor=Hechenwang, Filialkirche St. Martin

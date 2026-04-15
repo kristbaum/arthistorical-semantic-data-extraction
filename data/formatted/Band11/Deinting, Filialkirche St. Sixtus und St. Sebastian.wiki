@@ -5,6 +5,7 @@
 |Originalseitenvon=49
 |Originalseitenbis=50
 |Lemma=Deinting, Filialkirche St. Sixtus und St. Sebastian
+|Meta=
 |Typ=Sakral
 |Ort=Deinting
 |davor=Berg, ehem. Filialkirche St. Nikolaus

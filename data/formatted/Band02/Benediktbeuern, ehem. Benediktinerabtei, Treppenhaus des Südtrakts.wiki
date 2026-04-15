@@ -5,6 +5,7 @@
 |Originalseitenvon=100
 |Originalseitenbis=102
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Treppenhaus des Südtrakts
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Verbindungsgang

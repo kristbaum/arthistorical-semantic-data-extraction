@@ -5,6 +5,7 @@
 |Originalseitenvon=291
 |Originalseitenbis=296
 |Lemma=Thalhausen, Schlosskapelle St. Anna
+|Meta=
 |Typ=Sakral
 |Ort=Thalhausen
 |davor=Schlipps, Filialkirche St. Silvester

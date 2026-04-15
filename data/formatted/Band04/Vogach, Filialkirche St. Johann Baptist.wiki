@@ -5,6 +5,7 @@
 |Originalseitenvon=264
 |Originalseitenbis=265
 |Lemma=Vogach, Filialkirche St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Vogach
 |davor=Unterschweinbach, Filialkirche Mariä Himmelfahrt

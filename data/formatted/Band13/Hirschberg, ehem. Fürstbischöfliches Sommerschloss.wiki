@@ -5,6 +5,7 @@
 |Originalseitenvon=262
 |Originalseitenbis=279
 |Lemma=Hirschberg, ehem. Fürstbischöfliches Sommerschloss
+|Meta=
 |Typ=Sakral
 |Ort=Hirschberg
 |davor=Gungolding, Pfarrkirche Mariä Himmelfahrt

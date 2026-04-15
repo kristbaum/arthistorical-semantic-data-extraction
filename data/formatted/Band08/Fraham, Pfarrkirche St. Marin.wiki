@@ -5,6 +5,7 @@
 |Originalseitenvon=81
 |Originalseitenbis=88
 |Lemma=Fraham, Pfarrkirche St. Marin
+|Meta=
 |Typ=Sakral
 |Ort=Fraham
 |davor=Feichten, Filialkirche St. Martin

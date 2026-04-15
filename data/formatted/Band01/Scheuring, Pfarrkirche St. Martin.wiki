@@ -5,6 +5,7 @@
 |Originalseitenvon=220
 |Originalseitenbis=223
 |Lemma=Scheuring, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Scheuring
 |davor=St. Ottilien bei Rott, Kapelle St. Ottilie

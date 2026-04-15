@@ -5,6 +5,7 @@
 |Originalseitenvon=367
 |Originalseitenbis=379
 |Lemma=Niederaschau, Pfarrkirche Mariä Reinigung
+|Meta=
 |Typ=Sakral
 |Ort=Niederaschau
 |davor=Neukirchen am Simssee, Filial- und Wallfahrtskirche Johannes der Täufer

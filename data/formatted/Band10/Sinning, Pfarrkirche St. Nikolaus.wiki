@@ -5,6 +5,7 @@
 |Originalseitenvon=280
 |Originalseitenbis=298
 |Lemma=Sinning, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Sinning
 |davor=Sehensand, Firedhofskapelle St. Stephanus

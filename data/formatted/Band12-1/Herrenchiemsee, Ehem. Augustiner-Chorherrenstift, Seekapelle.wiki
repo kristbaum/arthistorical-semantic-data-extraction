@@ -5,6 +5,7 @@
 |Originalseitenvon=244
 |Originalseitenbis=252
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Seekapelle
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Sommerrefektorium

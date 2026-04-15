@@ -5,6 +5,7 @@
 |Originalseitenvon=405
 |Originalseitenbis=421
 |Lemma=Partenkirchen, Wallfahrts- u. Votivkirche St. Antonius
+|Meta=
 |Typ=Sakral
 |Ort=Partenkirchen
 |davor=Riegsee, Filialkirche St. Stephan

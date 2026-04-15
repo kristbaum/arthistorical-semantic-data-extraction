@@ -5,6 +5,7 @@
 |Originalseitenvon=83
 |Originalseitenbis=85
 |Lemma=Hirtlbach, Pfarrkirche St. Valentin
+|Meta=
 |Typ=Sakral
 |Ort=Hirtlbach
 |davor=Haimhausen, Schloß, Klausenkapelle Maria von Loreto

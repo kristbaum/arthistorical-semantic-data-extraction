@@ -5,6 +5,7 @@
 |Originalseitenvon=25
 |Originalseitenbis=27
 |Lemma=Bad Tölz, Wallfahrtskirche Maria Hilf
+|Meta=
 |Typ=Sakral
 |Ort=Bad Tölz
 |davor=Bad Heilbrunn, Pfarrkirche St. Kilian

@@ -5,6 +5,7 @@
 |Originalseitenvon=208
 |Originalseitenbis=211
 |Lemma=Rott, Pfarrkirche St. Johannes Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Rott
 |davor=Romenthal, Kapelle St. Anna

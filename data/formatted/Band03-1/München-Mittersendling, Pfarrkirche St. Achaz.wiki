@@ -5,6 +5,7 @@
 |Originalseitenvon=259
 |Originalseitenbis=260
 |Lemma=München-Mittersendling, Pfarrkirche St. Achaz
+|Meta=
 |Typ=Sakral
 |Ort=München-Mittersendling
 |davor=Neuried (Kr. München), Kuratiekirche St. Nikolaus

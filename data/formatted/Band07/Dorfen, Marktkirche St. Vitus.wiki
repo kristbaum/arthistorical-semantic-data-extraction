@@ -5,6 +5,7 @@
 |Originalseitenvon=96
 |Originalseitenbis=98
 |Lemma=Dorfen, Marktkirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Dorfen
 |davor=Dorfen, Stadtpfarrkirche und Wallfahrtskirche Maria Dorfen

@@ -5,6 +5,7 @@
 |Originalseitenvon=144
 |Originalseitenbis=147
 |Lemma=Niedergottsau, Expositurkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Niedergottsau
 |davor=Marienberg, Wallfahrtskirche Maria Königin des Rosenkranzes

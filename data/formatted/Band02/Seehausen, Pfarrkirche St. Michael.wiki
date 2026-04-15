@@ -5,6 +5,7 @@
 |Originalseitenvon=422
 |Originalseitenbis=429
 |Lemma=Seehausen, Pfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Seehausen
 |davor=Partenkirchen, Wallfahrts- u. Votivkirche St. Antonius

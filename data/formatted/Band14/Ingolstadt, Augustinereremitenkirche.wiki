@@ -5,6 +5,7 @@
 |Originalseitenvon=122
 |Originalseitenbis=136
 |Lemma=Ingolstadt, Augustinereremitenkirche
+|Meta=
 |Typ=Sakral
 |Ort=Ingolstadt
 |davor=Ingolstadt, Stadtpfarrkirche St. Moritz

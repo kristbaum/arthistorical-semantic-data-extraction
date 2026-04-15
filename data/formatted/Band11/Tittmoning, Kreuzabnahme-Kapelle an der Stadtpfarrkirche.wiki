@@ -5,6 +5,7 @@
 |Originalseitenvon=178
 |Originalseitenbis=179
 |Lemma=Tittmoning, Kreuzabnahme-Kapelle an der Stadtpfarrkirche
+|Meta=
 |Typ=Sakral
 |Ort=Tittmoning
 |davor=Tacherting, Friedhofskapelle St. Anna

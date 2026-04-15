@@ -5,6 +5,7 @@
 |Originalseitenvon=355
 |Originalseitenbis=357
 |Lemma=Unering, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Unering
 |davor=Steinebach, Filialkirche St. Martin

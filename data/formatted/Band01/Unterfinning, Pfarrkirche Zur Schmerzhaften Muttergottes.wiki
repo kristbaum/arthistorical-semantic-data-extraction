@@ -5,6 +5,7 @@
 |Originalseitenvon=247
 |Originalseitenbis=247
 |Lemma=Unterfinning, Pfarrkirche Zur Schmerzhaften Muttergottes
+|Meta=
 |Typ=Sakral
 |Ort=Unterfinning
 |davor=Unterdießen, Pfarrkirche St. Nikolaus

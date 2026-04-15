@@ -5,6 +5,7 @@
 |Originalseitenvon=497
 |Originalseitenbis=502
 |Lemma=Frauenried, Filialkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Frauenried
 |davor=Fischbachau, Pfarrkirche St. Martin

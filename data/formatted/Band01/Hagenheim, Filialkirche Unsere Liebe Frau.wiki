@@ -5,6 +5,7 @@
 |Originalseitenvon=86
 |Originalseitenbis=86
 |Lemma=Hagenheim, Filialkirche Unsere Liebe Frau
+|Meta=
 |Typ=Sakral
 |Ort=Hagenheim
 |davor=Greifenberg, Schlosskapelle St. Georg

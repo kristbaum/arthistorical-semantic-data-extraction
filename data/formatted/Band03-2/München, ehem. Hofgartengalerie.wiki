@@ -5,6 +5,7 @@
 |Originalseitenvon=348
 |Originalseitenbis=351
 |Lemma=München, ehem. Hofgartengalerie
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Altes Residenztheater

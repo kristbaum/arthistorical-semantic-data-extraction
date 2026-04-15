@@ -5,6 +5,7 @@
 |Originalseitenvon=560
 |Originalseitenbis=561
 |Lemma=Schliersee, Kapelle St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Schliersee
 |davor=Schliersee, Pfarrkirche St. Sixtus

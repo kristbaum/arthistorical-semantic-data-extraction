@@ -5,6 +5,7 @@
 |Originalseitenvon=134
 |Originalseitenbis=136
 |Lemma=Kleinhelfendorf, Marterkapelle St. Emmeram
+|Meta=
 |Typ=Sakral
 |Ort=Kleinhelfendorf
 |davor=Hohenschäftlarn, Pfarrkirche St. Georg

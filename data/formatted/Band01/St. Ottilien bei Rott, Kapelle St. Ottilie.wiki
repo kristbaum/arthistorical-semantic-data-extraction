@@ -5,6 +5,7 @@
 |Originalseitenvon=217
 |Originalseitenbis=219
 |Lemma=St. Ottilien bei Rott, Kapelle St. Ottilie
+|Meta=
 |Typ=Sakral
 |Ort=St. Ottilien bei Rott
 |davor=St. Georgen, ehem. Prälatenwohnhaus des Augustinerchorherrenstiftes Dießen

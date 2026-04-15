@@ -5,6 +5,7 @@
 |Originalseitenvon=183
 |Originalseitenbis=184
 |Lemma=Grafing, Kapelle St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Grafing
 |davor=Gelting, Filialkirche St. Benedikt

@@ -5,6 +5,7 @@
 |Originalseitenvon=470
 |Originalseitenbis=471
 |Lemma=Sankt Salvator, Wallfahrtskirche St. Salvator
+|Meta=
 |Typ=Sakral
 |Ort=Sankt Salvator
 |davor=Sankt Florian, Wallfahrtskirche St. Florian

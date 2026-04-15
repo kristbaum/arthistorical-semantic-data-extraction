@@ -5,6 +5,7 @@
 |Originalseitenvon=67
 |Originalseitenbis=74
 |Lemma=Haimhausen, Schloß, Schloßkapelle
+|Meta=
 |Typ=Profan
 |Ort=Haimhausen
 |davor=Günding, Filialkirche St. Vitus

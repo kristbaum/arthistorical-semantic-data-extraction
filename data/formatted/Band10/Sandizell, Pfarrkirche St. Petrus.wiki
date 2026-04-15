@@ -5,6 +5,7 @@
 |Originalseitenvon=257
 |Originalseitenbis=263
 |Lemma=Sandizell, Pfarrkirche St. Petrus
+|Meta=
 |Typ=Sakral
 |Ort=Sandizell
 |davor=Rennertshofen, Friedhofskapelle St. Leonhard

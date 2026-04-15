@@ -5,6 +5,7 @@
 |Originalseitenvon=549
 |Originalseitenbis=554
 |Lemma=Reichersdorf, Filialkirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Reichersdorf
 |davor=Piesenkam, Filialkirche St. Jakobus Major

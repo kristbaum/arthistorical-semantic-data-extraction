@@ -5,6 +5,7 @@
 |Originalseitenvon=64
 |Originalseitenbis=72
 |Lemma=München (Berg am Laim), Stadtpfarrkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=München (Berg am Laim)
 |davor=München-Baumkirchen, Pfarrkirche St. Stephan

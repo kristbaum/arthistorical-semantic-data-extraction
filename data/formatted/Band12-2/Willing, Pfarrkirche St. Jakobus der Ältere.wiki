@@ -5,6 +5,7 @@
 |Originalseitenvon=554
 |Originalseitenbis=560
 |Lemma=Willing, Pfarrkirche St. Jakobus der Ältere
+|Meta=
 |Typ=Sakral
 |Ort=Willing
 |davor=Wildenwart, Schloss, Festsaal

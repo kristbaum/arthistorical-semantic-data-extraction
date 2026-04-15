@@ -5,6 +5,7 @@
 |Originalseitenvon=494
 |Originalseitenbis=496
 |Lemma=Tattenhausen, Pfarrkuratiekirche Inventio Crucis
+|Meta=
 |Typ=Sakral
 |Ort=Tattenhausen
 |davor=Strasskirchen, Filialkirche St. Georg

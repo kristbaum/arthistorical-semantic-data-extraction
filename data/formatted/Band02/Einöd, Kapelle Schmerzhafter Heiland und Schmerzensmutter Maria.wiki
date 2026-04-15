@@ -5,6 +5,7 @@
 |Originalseitenvon=165
 |Originalseitenbis=165
 |Lemma=Einöd, Kapelle Schmerzhafter Heiland und Schmerzensmutter Maria
+|Meta=
 |Typ=Sakral
 |Ort=Einöd
 |davor=Dietramszell, ehem. Augustiner-Chorherrenstift, ehem. Pfarrkirche

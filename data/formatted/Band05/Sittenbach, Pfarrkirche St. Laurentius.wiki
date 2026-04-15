@@ -5,6 +5,7 @@
 |Originalseitenvon=244
 |Originalseitenbis=252
 |Lemma=Sittenbach, Pfarrkirche St. Laurentius
+|Meta=
 |Typ=Sakral
 |Ort=Sittenbach
 |davor=Sigmertshausen, Filialkirche St. Vitalis

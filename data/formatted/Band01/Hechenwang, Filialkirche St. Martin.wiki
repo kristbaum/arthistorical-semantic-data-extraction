@@ -5,6 +5,7 @@
 |Originalseitenvon=91
 |Originalseitenbis=94
 |Lemma=Hechenwang, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Hechenwang
 |davor=Hausen bei Geltendorf, Pfarrkirche St. Nikolaus

@@ -5,6 +5,7 @@
 |Originalseitenvon=317
 |Originalseitenbis=318
 |Lemma=Aschering, Filialkirche St. Sebastian
+|Meta=
 |Typ=Sakral
 |Ort=Aschering
 |davor=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke

@@ -5,6 +5,7 @@
 |Originalseitenvon=274
 |Originalseitenbis=274
 |Lemma=Walleshausen, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Walleshausen
 |davor=Walleshausen, Pfarrkirche Mariä Himmelfahrt

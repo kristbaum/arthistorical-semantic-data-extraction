@@ -5,6 +5,7 @@
 |Originalseitenvon=595
 |Originalseitenbis=597
 |Lemma=Wessobrunn, Kreuzbergkapelle Hl. Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Wessobrunn
 |davor=Wessobrunn, Pfarrkirche St. Johann Baptist

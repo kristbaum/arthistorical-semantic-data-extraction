@@ -5,6 +5,7 @@
 |Originalseitenvon=375
 |Originalseitenbis=393
 |Lemma=Oberammergau, Pfarrkirche St. Peter u. Paul
+|Meta=
 |Typ=Sakral
 |Ort=Oberammergau
 |davor=Mittenwald, Pilgerhaus Hl. Geist

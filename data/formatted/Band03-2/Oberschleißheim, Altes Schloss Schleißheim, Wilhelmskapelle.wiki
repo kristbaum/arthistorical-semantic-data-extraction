@@ -5,6 +5,7 @@
 |Originalseitenvon=448
 |Originalseitenbis=448
 |Lemma=Oberschleißheim, Altes Schloss Schleißheim, Wilhelmskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Altes Schloss Schleißheim, Saal und Wohnräume

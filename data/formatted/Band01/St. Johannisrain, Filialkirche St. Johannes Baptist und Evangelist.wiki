@@ -5,6 +5,7 @@
 |Originalseitenvon=506
 |Originalseitenbis=507
 |Lemma=St. Johannisrain, Filialkirche St. Johannes Baptist und Evangelist
+|Meta=
 |Typ=Sakral
 |Ort=St. Johannisrain
 |davor=Sachsenried, Pfarrkirche St. Martin

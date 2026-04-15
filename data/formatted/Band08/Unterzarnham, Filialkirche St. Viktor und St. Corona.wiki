@@ -5,6 +5,7 @@
 |Originalseitenvon=273
 |Originalseitenbis=273
 |Lemma=Unterzarnham, Filialkirche St. Viktor und St. Corona
+|Meta=
 |Typ=Sakral
 |Ort=Unterzarnham
 |davor=Thambach, Filialkirche St. Georg

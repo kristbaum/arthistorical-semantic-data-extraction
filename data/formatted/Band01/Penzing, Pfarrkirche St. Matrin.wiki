@@ -5,6 +5,7 @@
 |Originalseitenvon=179
 |Originalseitenbis=179
 |Lemma=Penzing, Pfarrkirche St. Matrin
+|Meta=
 |Typ=Sakral
 |Ort=Penzing
 |davor=Obermühlhausen, Filialkirche St. Peter und Paul

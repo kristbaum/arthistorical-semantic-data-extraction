@@ -5,6 +5,7 @@
 |Originalseitenvon=237
 |Originalseitenbis=240
 |Lemma=Höglwörth, ehem. Prälatur des ehem. Augustiner-Chorherrenstifts
+|Meta=
 |Typ=Sakral
 |Ort=Höglwörth
 |davor=Höglwörth, ehem. Winterchor des ehem. Augustiner-Chorherrenstifts

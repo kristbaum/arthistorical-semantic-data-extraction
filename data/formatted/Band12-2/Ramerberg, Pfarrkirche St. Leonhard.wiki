@@ -5,6 +5,7 @@
 |Originalseitenvon=417
 |Originalseitenbis=420
 |Lemma=Ramerberg, Pfarrkirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Ramerberg
 |davor=Rain/Thalkirchen, Filialkirche St. Andreas

@@ -5,6 +5,7 @@
 |Originalseitenvon=69
 |Originalseitenbis=75
 |Lemma=Dörndorf, Pfarrkirche St. Sixtus
+|Meta=
 |Typ=Sakral
 |Ort=Dörndorf
 |davor=Biberbach, Filialkirche St. Michael

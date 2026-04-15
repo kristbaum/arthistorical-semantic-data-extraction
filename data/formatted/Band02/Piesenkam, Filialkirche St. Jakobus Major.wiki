@@ -5,6 +5,7 @@
 |Originalseitenvon=546
 |Originalseitenbis=548
 |Lemma=Piesenkam, Filialkirche St. Jakobus Major
+|Meta=
 |Typ=Sakral
 |Ort=Piesenkam
 |davor=Parsberg, Pfarrkirche St. Laurentius

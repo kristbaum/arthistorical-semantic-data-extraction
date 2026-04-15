@@ -5,6 +5,7 @@
 |Originalseitenvon=305
 |Originalseitenbis=315
 |Lemma=Zangberg, Schloß Zangberg, Fürstensaal
+|Meta=
 |Typ=Sakral
 |Ort=Zangberg
 |davor=Wörth, Filialkirche St. Georg

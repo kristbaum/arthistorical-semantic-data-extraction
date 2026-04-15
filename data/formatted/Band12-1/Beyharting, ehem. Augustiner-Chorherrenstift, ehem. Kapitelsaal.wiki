@@ -5,6 +5,7 @@
 |Originalseitenvon=119
 |Originalseitenbis=121
 |Lemma=Beyharting, ehem. Augustiner-Chorherrenstift, ehem. Kapitelsaal
+|Meta=
 |Typ=Sakral
 |Ort=Beyharting
 |davor=Beyharting, ehem. Augustiner-Chorherrenstift, Sakristei

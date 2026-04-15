@@ -5,6 +5,7 @@
 |Originalseitenvon=244
 |Originalseitenbis=254
 |Lemma=Rennertshofen, Pfarrkirche Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Rennertshofen
 |davor=Ortlfing, Pfarrkirche St. Stephanus

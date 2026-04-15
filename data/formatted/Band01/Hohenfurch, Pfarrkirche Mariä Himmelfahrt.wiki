@@ -5,6 +5,7 @@
 |Originalseitenvon=407
 |Originalseitenbis=409
 |Lemma=Hohenfurch, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Hohenfurch
 |davor=Haunshofen, Pfarrkirche St. Gallus

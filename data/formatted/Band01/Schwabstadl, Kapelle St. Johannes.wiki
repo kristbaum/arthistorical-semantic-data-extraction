@@ -5,6 +5,7 @@
 |Originalseitenvon=230
 |Originalseitenbis=230
 |Lemma=Schwabstadl, Kapelle St. Johannes
+|Meta=
 |Typ=Sakral
 |Ort=Schwabstadl
 |davor=Schwabhausen, Kapelle St. Leonhard

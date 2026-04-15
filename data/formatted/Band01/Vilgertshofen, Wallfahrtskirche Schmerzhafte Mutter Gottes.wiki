@@ -5,6 +5,7 @@
 |Originalseitenvon=255
 |Originalseitenbis=263
 |Lemma=Vilgertshofen, Wallfahrtskirche Schmerzhafte Mutter Gottes
+|Meta=
 |Typ=Sakral
 |Ort=Vilgertshofen
 |davor=Utting, Filial- und Wallfahrtskirche St. Leonhard

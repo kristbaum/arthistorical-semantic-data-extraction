@@ -5,6 +5,7 @@
 |Originalseitenvon=58
 |Originalseitenbis=58
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, Krankenkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Au am Inn
 |davor=Au am Inn, ehem. Augustiner-Chorherrenstift, Sakristei

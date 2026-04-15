@@ -5,6 +5,7 @@
 |Originalseitenvon=106
 |Originalseitenbis=110
 |Lemma=Mögling, Nebenkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Mögling
 |davor=Seeon-Seebruck, Klosterseeon, Nikolaikapelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=296
 |Originalseitenbis=306
 |Lemma=Kösching, Pfarrkirche Mariä Himmelfahrt und St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Kösching
 |davor=Kinding, Pfarrkirche Mariä Geburt

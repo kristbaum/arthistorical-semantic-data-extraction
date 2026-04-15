@@ -5,6 +5,7 @@
 |Originalseitenvon=570
 |Originalseitenbis=572
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Zimmer im Gästetrakt
+|Meta=
 |Typ=Sakral
 |Ort=Wessobrunn
 |davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Benediktussaal im Gästetrakt

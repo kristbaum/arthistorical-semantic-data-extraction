@@ -5,6 +5,7 @@
 |Originalseitenvon=242
 |Originalseitenbis=243
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Sommerrefektorium
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Bibliothek

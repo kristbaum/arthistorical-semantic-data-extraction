@@ -5,6 +5,7 @@
 |Originalseitenvon=38
 |Originalseitenbis=42
 |Lemma=Alzgern, ehem. Beinhaus
+|Meta=
 |Typ=Sakral
 |Ort=Alzgern
 |davor=Alzgern, Pfarrkirche Mariä Himmelfahrt

@@ -5,6 +5,7 @@
 |Originalseitenvon=44
 |Originalseitenbis=44
 |Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Turmaufgang
+|Meta=
 |Typ=Sakral
 |Ort=Almau
 |davor=Baumburg, Ehem. Augustiner-Chorherrenstift, Sakristei

@@ -5,6 +5,7 @@
 |Originalseitenvon=586
 |Originalseitenbis=592
 |Lemma=Personenregister (Band 3-II)
+|Meta=Personenregister
 |davor=Ortsregister (Band 3-II)
 |danach=Ikonographisches Register (Band 3-II)
 }}

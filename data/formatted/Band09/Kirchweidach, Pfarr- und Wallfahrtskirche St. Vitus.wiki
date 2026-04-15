@@ -5,6 +5,7 @@
 |Originalseitenvon=105
 |Originalseitenbis=118
 |Lemma=Kirchweidach, Pfarr- und Wallfahrtskirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Kirchweidach
 |davor=Heiligenstatt, Wallfahrtskirche Unschuldige Kinder

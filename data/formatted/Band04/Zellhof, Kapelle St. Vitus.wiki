@@ -5,6 +5,7 @@
 |Originalseitenvon=280
 |Originalseitenbis=281
 |Lemma=Zellhof, Kapelle St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Zellhof
 |davor=Zell, Kapelle St. Sebastian

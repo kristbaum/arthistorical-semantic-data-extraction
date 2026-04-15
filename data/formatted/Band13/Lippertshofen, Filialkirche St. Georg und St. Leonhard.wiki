@@ -5,6 +5,7 @@
 |Originalseitenvon=343
 |Originalseitenbis=347
 |Lemma=Lippertshofen, Filialkirche St. Georg und St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Lippertshofen
 |davor=Lenting, Pfarrkirche St. Nikolaus

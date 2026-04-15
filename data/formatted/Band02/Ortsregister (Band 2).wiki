@@ -5,6 +5,7 @@
 |Originalseitenvon=635
 |Originalseitenbis=638
 |Lemma=Ortsregister (Band 2)
+|Meta=Ortsregister
 |davor=Wilparting, Kapelle St. Vitus
 |danach=Personenregister (Band 2)
 }}

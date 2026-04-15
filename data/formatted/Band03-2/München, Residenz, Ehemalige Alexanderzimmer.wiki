@@ -5,6 +5,7 @@
 |Originalseitenvon=275
 |Originalseitenbis=291
 |Lemma=München, Residenz, Ehemalige Alexanderzimmer
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Galerie und angrenzende Kabinette der Kurfürstin Henriette Adelaide

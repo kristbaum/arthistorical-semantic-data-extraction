@@ -5,6 +5,7 @@
 |Originalseitenvon=53
 |Originalseitenbis=56
 |Lemma=München, ehem. Karmeliterkloster
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, St. Johann Nepomuk, sog. Asamkirche

@@ -5,6 +5,7 @@
 |Originalseitenvon=415
 |Originalseitenbis=418
 |Lemma=Iffeldorf, Pfarrkirche Hll. Vitus und Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Iffeldorf
 |davor=Hohenpeißenberg, Gnadenkapelle der Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

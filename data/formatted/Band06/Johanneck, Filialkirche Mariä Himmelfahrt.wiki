@@ -5,6 +5,7 @@
 |Originalseitenvon=266
 |Originalseitenbis=270
 |Lemma=Johanneck, Filialkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Johanneck
 |davor=Hohenkammer, Pfarrkirche St. Johannes Evangelist

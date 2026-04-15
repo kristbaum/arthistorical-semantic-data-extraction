@@ -5,6 +5,7 @@
 |Originalseitenvon=255
 |Originalseitenbis=255
 |Lemma=Siegertshofen, Kapelle St. Elisabeth
+|Meta=
 |Typ=Sakral
 |Ort=Siegertshofen
 |davor=Schlehdorf, Friedhofskirche Schmerzhafte Mutter Maria

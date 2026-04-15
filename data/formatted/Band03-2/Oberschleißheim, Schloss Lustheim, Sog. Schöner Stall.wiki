@@ -5,6 +5,7 @@
 |Originalseitenvon=484
 |Originalseitenbis=487
 |Lemma=Oberschleißheim, Schloss Lustheim, Sog. Schöner Stall
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Schloss Lustheim, Renatuskapelle

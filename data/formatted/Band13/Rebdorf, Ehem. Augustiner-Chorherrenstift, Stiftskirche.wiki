@@ -5,6 +5,7 @@
 |Originalseitenvon=391
 |Originalseitenbis=421
 |Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Stiftskirche 
+|Meta=
 |Typ=Sakral
 |Ort=Rebdorf
 |davor=Pförring, Pfarrkirche St. Leoonhard

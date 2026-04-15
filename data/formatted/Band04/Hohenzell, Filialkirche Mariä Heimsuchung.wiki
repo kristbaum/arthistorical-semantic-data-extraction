@@ -5,6 +5,7 @@
 |Originalseitenvon=168
 |Originalseitenbis=169
 |Lemma=Hohenzell, Filialkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Hohenzell
 |davor=Hanshofen, Filialkirche St. Katharina

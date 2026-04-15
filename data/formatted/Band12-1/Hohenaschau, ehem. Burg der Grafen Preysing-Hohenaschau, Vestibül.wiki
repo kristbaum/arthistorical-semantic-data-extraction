@@ -5,6 +5,7 @@
 |Originalseitenvon=294
 |Originalseitenbis=295
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Vestibül
+|Meta=
 |Typ=Profan
 |Ort=Hohenaschau
 |davor=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Eckzimmer

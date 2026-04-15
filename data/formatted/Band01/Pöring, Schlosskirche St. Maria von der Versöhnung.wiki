@@ -5,6 +5,7 @@
 |Originalseitenvon=189
 |Originalseitenbis=190
 |Lemma=Pöring, Schlosskirche St. Maria von der Versöhnung
+|Meta=
 |Typ=Sakral
 |Ort=Pöring
 |davor=Pflugdorf, Filialkirche St. Laurentius, Sakristei

@@ -5,6 +5,7 @@
 |Originalseitenvon=76
 |Originalseitenbis=77
 |Lemma=Erpfting, Pfarrhof im ehem. kath. Pfarrhaus
+|Meta=
 |Typ=Sakral
 |Ort=Erpfting
 |davor=Erpfting, Kapelle Maria-Eich

@@ -5,6 +5,7 @@
 |Originalseitenvon=242
 |Originalseitenbis=260
 |Lemma=Hörgertshausen, Pfarrkirche St. Jakobus der Ältere
+|Meta=
 |Typ=Sakral
 |Ort=Hörgertshausen
 |davor=Haag an der Amper, Pfarrkirche St. Laurentius

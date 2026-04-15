@@ -5,6 +5,7 @@
 |Originalseitenvon=79
 |Originalseitenbis=82
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt, Totenkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Grassau
 |davor=Grassau, Pfarrkirche Mariä Himmelfahrt, Sieben-Zufluchten-Kapelle

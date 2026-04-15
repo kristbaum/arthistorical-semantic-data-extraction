@@ -5,6 +5,7 @@
 |Originalseitenvon=548
 |Originalseitenbis=548
 |Lemma=Untereglfing, Filialkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Untereglfing
 |davor=Tannenberg, Kapelle St. Joseph

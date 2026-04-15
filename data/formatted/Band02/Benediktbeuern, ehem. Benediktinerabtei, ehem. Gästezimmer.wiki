@@ -5,6 +5,7 @@
 |Originalseitenvon=111
 |Originalseitenbis=115
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gästezimmer
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Neuer Festsaal

@@ -5,6 +5,7 @@
 |Originalseitenvon=29
 |Originalseitenbis=37
 |Lemma=Alzgern, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Alzgern
 |davor=Altötting, Institut der Englischen Fräulein, Institutskirche Mariä Vermählung

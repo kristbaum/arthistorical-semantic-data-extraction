@@ -5,6 +5,7 @@
 |Originalseitenvon=109
 |Originalseitenbis=118
 |Lemma=Großköchlham, Filialkirche St. Valentin
+|Meta=
 |Typ=Sakral
 |Ort=Großköchlham
 |davor=Geislbach, Filialkirche St. Nikolaus

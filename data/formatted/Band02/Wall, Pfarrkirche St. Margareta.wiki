@@ -5,6 +5,7 @@
 |Originalseitenvon=604
 |Originalseitenbis=610
 |Lemma=Wall, Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Wall
 |davor=Thalham, Kapelle St. Florian

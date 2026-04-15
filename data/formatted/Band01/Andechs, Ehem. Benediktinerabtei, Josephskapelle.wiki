@@ -5,6 +5,7 @@
 |Originalseitenvon=303
 |Originalseitenbis=303
 |Lemma=Andechs, Ehem. Benediktinerabtei, Josephskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle

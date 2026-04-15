@@ -5,6 +5,7 @@
 |Originalseitenvon=253
 |Originalseitenbis=254
 |Lemma=Schlehdorf, Friedhofskirche Schmerzhafte Mutter Maria
+|Meta=
 |Typ=Sakral
 |Ort=Schlehdorf
 |davor=Schlehdorf, ehem. Augustinerchorherrenstift, ehem. Refektorium

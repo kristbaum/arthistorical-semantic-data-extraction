@@ -5,6 +5,7 @@
 |Originalseitenvon=185
 |Originalseitenbis=186
 |Lemma=Greiling, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Greiling
 |davor=Grafing, Kapelle St. Ulrich

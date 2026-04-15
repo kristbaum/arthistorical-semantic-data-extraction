@@ -5,6 +5,7 @@
 |Originalseitenvon=383
 |Originalseitenbis=383
 |Lemma=Ortsregister (Band 11)
+|Meta=Ortsregister
 |davor=Im 18. Jh. in den Landkreisen Traunstein, Berchtesgadener Land und Ebersberg tätige Maler
 |danach=Personenregister (Band 11)
 }}

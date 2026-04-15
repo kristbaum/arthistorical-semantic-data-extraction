@@ -5,6 +5,7 @@
 |Originalseitenvon=200
 |Originalseitenbis=210
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Marienkirche
+|Meta=
 |Typ=Sakral
 |Ort=Herrenchiemsee
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche

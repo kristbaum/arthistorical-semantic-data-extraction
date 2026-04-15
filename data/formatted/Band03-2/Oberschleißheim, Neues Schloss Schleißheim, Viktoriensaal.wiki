@@ -5,6 +5,7 @@
 |Originalseitenvon=515
 |Originalseitenbis=518
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Viktoriensaal
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Großer oder Weißer Saal

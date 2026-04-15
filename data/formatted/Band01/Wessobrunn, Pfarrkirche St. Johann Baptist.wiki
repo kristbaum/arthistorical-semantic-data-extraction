@@ -5,6 +5,7 @@
 |Originalseitenvon=590
 |Originalseitenbis=594
 |Lemma=Wessobrunn, Pfarrkirche St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Wessobrunn
 |davor=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang

@@ -5,6 +5,7 @@
 |Originalseitenvon=199
 |Originalseitenbis=213
 |Lemma=Moorenweis, Pfarrkirche St. Sixtus
+|Meta=
 |Typ=Sakral
 |Ort=Moorenweis
 |davor=Mammendorf, Pfarrkirche St. Jakobus Maior

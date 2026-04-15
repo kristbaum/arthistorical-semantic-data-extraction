@@ -5,6 +5,7 @@
 |Originalseitenvon=376
 |Originalseitenbis=377
 |Lemma=Arnried, Filialkirche St. Hilaria und Afra
+|Meta=
 |Typ=Sakral
 |Ort=Arnried
 |davor=Antdorf, Kirnbergkapelle

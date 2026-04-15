@@ -5,6 +5,7 @@
 |Originalseitenvon=327
 |Originalseitenbis=331
 |Lemma=Inning a. Ammersee, Pfarrkirche St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Inning a. Ammersee
 |davor=Hadorf, Filialkirche St. Johann Baptist

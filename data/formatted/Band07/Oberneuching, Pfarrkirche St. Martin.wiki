@@ -5,6 +5,7 @@
 |Originalseitenvon=245
 |Originalseitenbis=253
 |Lemma=Oberneuching, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Oberneuching
 |davor=Oberbierbach, Filialkirche St. Martin

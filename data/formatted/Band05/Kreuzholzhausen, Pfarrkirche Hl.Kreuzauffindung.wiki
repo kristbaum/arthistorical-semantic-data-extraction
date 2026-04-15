@@ -5,6 +5,7 @@
 |Originalseitenvon=155
 |Originalseitenbis=161
 |Lemma=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung
+|Meta=
 |Typ=Sakral
 |Ort=Kreuzholzhausen
 |davor=Kollbach, Pfarrkirche St. Martin

@@ -5,6 +5,7 @@
 |Originalseitenvon=26
 |Originalseitenbis=28
 |Lemma=Biburg, Filialkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Biburg
 |davor=Aufkirchen, Pfarrkirche St. Georg

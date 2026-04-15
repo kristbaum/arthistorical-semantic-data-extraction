@@ -5,6 +5,7 @@
 |Originalseitenvon=313
 |Originalseitenbis=316
 |Lemma=Kirchloibersdorf, Filialkirche St. Petrus
+|Meta=
 |Typ=Sakral
 |Ort=Kirchloibersdorf
 |davor=Kiefersfelden, sog. Johann-Nepomuk-Kapelle

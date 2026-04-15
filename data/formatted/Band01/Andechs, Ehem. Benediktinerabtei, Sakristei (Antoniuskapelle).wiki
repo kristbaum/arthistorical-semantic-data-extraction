@@ -5,6 +5,7 @@
 |Originalseitenvon=304
 |Originalseitenbis=304
 |Lemma=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
+|Meta=
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Josephskapelle

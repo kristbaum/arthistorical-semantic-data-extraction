@@ -5,6 +5,7 @@
 |Originalseitenvon=271
 |Originalseitenbis=274
 |Lemma=Salmannskirchen, Filialkirche St. Oswald
+|Meta=
 |Typ=Sakral
 |Ort=Salmannskirchen
 |davor=Riding, Pfarrkirche St. Georg

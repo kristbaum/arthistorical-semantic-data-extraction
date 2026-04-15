@@ -5,6 +5,7 @@
 |Originalseitenvon=497
 |Originalseitenbis=502
 |Lemma=Umrathshausen, Filialkirche Heilig Blut
+|Meta=
 |Typ=Sakral
 |Ort=Umrathshausen
 |davor=Tattenhausen, Pfarrkuratiekirche Inventio Crucis

@@ -5,6 +5,7 @@
 |Originalseitenvon=178
 |Originalseitenbis=179
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Ehem. Abtskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Pfarrkirche St. Georg

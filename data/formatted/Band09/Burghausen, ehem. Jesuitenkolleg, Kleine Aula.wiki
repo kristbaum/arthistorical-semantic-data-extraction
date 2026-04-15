@@ -5,6 +5,7 @@
 |Originalseitenvon=62
 |Originalseitenbis=69
 |Lemma=Burghausen, ehem. Jesuitenkolleg, Kleine Aula
+|Meta=
 |Typ=Sakral
 |Ort=Burghausen
 |davor=Burghausen, ehem. Jesuitenkolleg, Große Aula

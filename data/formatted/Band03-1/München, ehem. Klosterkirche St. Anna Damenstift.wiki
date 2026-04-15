@@ -5,6 +5,7 @@
 |Originalseitenvon=185
 |Originalseitenbis=190
 |Lemma=München, ehem. Klosterkirche St. Anna Damenstift
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=Zell (Schäftlarn), Filialkirche St. Michael

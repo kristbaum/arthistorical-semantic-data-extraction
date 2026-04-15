@@ -5,6 +5,7 @@
 |Originalseitenvon=231
 |Originalseitenbis=234
 |Lemma=München, Ehem. Klosterkirche St. Jakob am Anger
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Ehem. Spitalkirche Hl. Geist

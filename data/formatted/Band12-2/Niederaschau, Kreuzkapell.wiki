@@ -5,6 +5,7 @@
 |Originalseitenvon=380
 |Originalseitenbis=385
 |Lemma=Niederaschau, Kreuzkapell
+|Meta=
 |Typ=Sakral
 |Ort=Niederaschau
 |davor=Niederaschau, Pfarrkirche Mariä Reinigung

@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=30
 |Lemma=Albaching, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Albaching
 |davor=Aising, Filialkirche St. Stephanus

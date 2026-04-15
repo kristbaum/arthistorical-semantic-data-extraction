@@ -5,6 +5,7 @@
 |Originalseitenvon=182
 |Originalseitenbis=191
 |Lemma=Neuburg an der Donau, Studienkirche St. Ursula
+|Meta=
 |Typ=Sakral
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, Stadtpfarrkirche Hl. Geist

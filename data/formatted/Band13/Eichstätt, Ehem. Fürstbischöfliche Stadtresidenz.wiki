@@ -5,6 +5,7 @@
 |Originalseitenvon=186
 |Originalseitenbis=187
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Frauenbergkapelle

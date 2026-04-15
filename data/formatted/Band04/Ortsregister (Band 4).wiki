@@ -5,6 +5,7 @@
 |Originalseitenvon=282
 |Originalseitenbis=284
 |Lemma=Ortsregister (Band 4)
+|Meta=Ortsregister
 |davor=Zellhof, Kapelle St. Vitus
 |danach=Personenregister (Band 4)
 }}

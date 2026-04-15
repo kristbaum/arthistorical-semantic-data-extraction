@@ -5,6 +5,7 @@
 |Originalseitenvon=70
 |Originalseitenbis=79
 |Lemma=Burgharting, Pfarrkirche St. Vitus
+|Meta=
 |Typ=Sakral
 |Ort=Burgharting
 |davor=Buch am Buchrain, Pfarrkirche St. Martin

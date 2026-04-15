@@ -5,6 +5,7 @@
 |Originalseitenvon=625
 |Originalseitenbis=625
 |Lemma=Weyarn, ehem. Augustiner-Chorherrenstift, Sitzungssaal
+|Meta=
 |Typ=Sakral
 |Ort=Weyarn
 |davor=Weyarn, ehem. Augustiner-Chorherrenstift, Sakristei

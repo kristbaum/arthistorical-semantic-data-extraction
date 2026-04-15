@@ -5,6 +5,7 @@
 |Originalseitenvon=444
 |Originalseitenbis=444
 |Lemma=Wurmannsau, Kapelle St. Joseph
+|Meta=
 |Typ=Sakral
 |Ort=Wurmannsau
 |davor=Weindorf, Filialkirche St. Martin

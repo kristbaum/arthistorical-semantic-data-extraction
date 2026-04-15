@@ -5,6 +5,7 @@
 |Originalseitenvon=360
 |Originalseitenbis=366
 |Lemma=Neukirchen am Simssee, Filial- und Wallfahrtskirche Johannes der Täufer
+|Meta=
 |Typ=Sakral
 |Ort=Neukirchen am Simssee
 |davor=Maxlrain, Schloss

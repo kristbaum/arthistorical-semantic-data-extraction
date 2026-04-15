@@ -5,6 +5,7 @@
 |Originalseitenvon=579
 |Originalseitenbis=579
 |Lemma=München, Gasthof zum Schwarzen Adler
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Palais Preysing

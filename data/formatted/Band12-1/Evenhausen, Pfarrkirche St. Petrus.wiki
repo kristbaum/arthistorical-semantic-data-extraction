@@ -5,6 +5,7 @@
 |Originalseitenvon=131
 |Originalseitenbis=138
 |Lemma=Evenhausen, Pfarrkirche St. Petrus
+|Meta=
 |Typ=Sakral
 |Ort=Evenhausen
 |davor=Ellmosen, Filialkirche St. Margareta

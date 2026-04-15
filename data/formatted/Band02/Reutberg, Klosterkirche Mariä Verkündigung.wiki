@@ -5,6 +5,7 @@
 |Originalseitenvon=223
 |Originalseitenbis=228
 |Lemma=Reutberg, Klosterkirche Mariä Verkündigung
+|Meta=
 |Typ=Sakral
 |Ort=Reutberg
 |davor=Reichersbeuern, Pfarrkirche St. Korbinian

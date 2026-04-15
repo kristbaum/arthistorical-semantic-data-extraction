@@ -5,6 +5,7 @@
 |Originalseitenvon=319
 |Originalseitenbis=321
 |Lemma=Diemendorf, Filialkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Diemendorf
 |davor=Aschering, Filialkirche St. Sebastian

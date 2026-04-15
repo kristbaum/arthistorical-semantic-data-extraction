@@ -5,6 +5,7 @@
 |Originalseitenvon=168
 |Originalseitenbis=176
 |Lemma=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Trierzimmer

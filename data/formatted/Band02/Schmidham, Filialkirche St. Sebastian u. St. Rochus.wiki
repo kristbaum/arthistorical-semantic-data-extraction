@@ -5,6 +5,7 @@
 |Originalseitenvon=562
 |Originalseitenbis=563
 |Lemma=Schmidham, Filialkirche St. Sebastian u. St. Rochus
+|Meta=
 |Typ=Sakral
 |Ort=Schmidham
 |davor=Schliersee, Kapelle St. Nikolaus

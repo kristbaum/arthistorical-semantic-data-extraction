@@ -5,6 +5,7 @@
 |Originalseitenvon=386
 |Originalseitenbis=393
 |Lemma=Nußdorf am Inn, Filial- und Wallfahrtskirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Nußdorf am Inn
 |davor=Niederaschau, Kreuzkapell

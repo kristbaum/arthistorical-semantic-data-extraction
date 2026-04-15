@@ -5,6 +5,7 @@
 |Originalseitenvon=164
 |Originalseitenbis=166
 |Lemma=Lengenfeld, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Lengenfeld
 |davor=Leeder, Pfarrkirche Mariä Verkündigung

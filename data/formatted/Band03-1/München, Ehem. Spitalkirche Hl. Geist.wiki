@@ -5,6 +5,7 @@
 |Originalseitenvon=224
 |Originalseitenbis=230
 |Lemma=München, Ehem. Spitalkirche Hl. Geist
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Stadtpfarrkirche zu Unserer Lieben Frau, sog. Frauenkirche

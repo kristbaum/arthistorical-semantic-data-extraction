@@ -5,6 +5,7 @@
 |Originalseitenvon=253
 |Originalseitenbis=258
 |Lemma=Hilperting, Filialkirche St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Hilperting
 |davor=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Seekapelle

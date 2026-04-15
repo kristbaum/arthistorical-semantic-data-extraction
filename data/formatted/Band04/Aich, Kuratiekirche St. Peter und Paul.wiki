@@ -5,6 +5,7 @@
 |Originalseitenvon=21
 |Originalseitenbis=23
 |Lemma=Aich, Kuratiekirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Aich
 |davor=Adelshofen, Kuratiekirche St. Michael

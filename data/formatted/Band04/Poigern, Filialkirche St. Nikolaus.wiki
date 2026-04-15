@@ -5,6 +5,7 @@
 |Originalseitenvon=218
 |Originalseitenbis=222
 |Lemma=Poigern, Filialkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Poigern
 |davor=Oberweikertshofen, Pfarrkirche St. Johannes der Täufer

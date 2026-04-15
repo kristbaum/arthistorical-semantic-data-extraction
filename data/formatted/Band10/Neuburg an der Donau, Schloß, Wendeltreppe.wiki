@@ -5,6 +5,7 @@
 |Originalseitenvon=228
 |Originalseitenbis=229
 |Lemma=Neuburg an der Donau, Schloß, Wendeltreppe
+|Meta=
 |Typ=Profan
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, Schloß, Diana-Zimmer

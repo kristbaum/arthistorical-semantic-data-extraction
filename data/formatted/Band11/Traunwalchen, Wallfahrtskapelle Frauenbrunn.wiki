@@ -5,6 +5,7 @@
 |Originalseitenvon=188
 |Originalseitenbis=189
 |Lemma=Traunwalchen, Wallfahrtskapelle Frauenbrunn
+|Meta=
 |Typ=Sakral
 |Ort=Traunwalchen
 |davor=Tittmoning, Wallfahrtskirche Maria Ponlach

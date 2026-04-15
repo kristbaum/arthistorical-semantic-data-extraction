@@ -5,6 +5,7 @@
 |Originalseitenvon=120
 |Originalseitenbis=129
 |Lemma=München, Residenz, Erdgeschoßzimmer
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Schwarzer Saal

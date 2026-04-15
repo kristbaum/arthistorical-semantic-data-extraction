@@ -5,6 +5,7 @@
 |Originalseitenvon=208
 |Originalseitenbis=218
 |Lemma=Neuburg an der Donau, ehem. Bruderschaftshaus zur Schmerzhaften Muttergottes (Provinzialbibliothek)
+|Meta=
 |Typ=Sakral
 |Ort=Neuburg an der Donau
 |davor=Neuburg an der Donau, ehem. Jesuitengymnasium

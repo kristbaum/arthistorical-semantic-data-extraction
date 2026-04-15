@@ -5,6 +5,7 @@
 |Originalseitenvon=360
 |Originalseitenbis=371
 |Lemma=Nassenfels, Pfarrkirche St. Nikolaus
+|Meta=
 |Typ=Sakral
 |Ort=Nassenfels
 |davor=Möckenlohe, Pfarrkirche Mariä Himmelfahrt

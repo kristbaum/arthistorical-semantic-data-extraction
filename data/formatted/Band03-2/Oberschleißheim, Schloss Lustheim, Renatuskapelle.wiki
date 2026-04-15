@@ -5,6 +5,7 @@
 |Originalseitenvon=482
 |Originalseitenbis=483
 |Lemma=Oberschleißheim, Schloss Lustheim, Renatuskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Schloss Lustheim

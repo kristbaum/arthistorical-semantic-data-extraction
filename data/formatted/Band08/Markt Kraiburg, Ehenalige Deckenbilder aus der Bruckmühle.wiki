@@ -5,6 +5,7 @@
 |Originalseitenvon=141
 |Originalseitenbis=144
 |Lemma=Markt Kraiburg, Ehenalige Deckenbilder aus der Bruckmühle
+|Meta=
 |Typ=Profan
 |Ort=Markt Kraiburg
 |davor=Markt Kraiburg, Aukapelle

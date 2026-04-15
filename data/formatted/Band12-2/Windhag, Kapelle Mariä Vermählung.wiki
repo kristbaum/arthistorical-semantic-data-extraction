@@ -5,6 +5,7 @@
 |Originalseitenvon=561
 |Originalseitenbis=563
 |Lemma=Windhag, Kapelle Mariä Vermählung
+|Meta=
 |Typ=Sakral
 |Ort=Windhag
 |davor=Willing, Pfarrkirche St. Jakobus der Ältere

@@ -5,6 +5,7 @@
 |Originalseitenvon=476
 |Originalseitenbis=501
 |Lemma=Rottenbuch, Pfarrkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Rottenbuch
 |davor=Reisgang, Kapelle Mariä Heimsuchung

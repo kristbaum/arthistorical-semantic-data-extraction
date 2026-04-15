@@ -5,6 +5,7 @@
 |Originalseitenvon=156
 |Originalseitenbis=161
 |Lemma=Frauenchiemsee, Benediktinerinnenabtei, Maria-Mitleid-Kapelle
+|Meta=
 |Typ=Sakral
 |Ort=Frauenchiemsee
 |davor=Frauenchiemsee, Benediktinerinnenabtei

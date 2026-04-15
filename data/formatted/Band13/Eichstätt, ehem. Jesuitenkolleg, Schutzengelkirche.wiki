@@ -5,6 +5,7 @@
 |Originalseitenvon=123
 |Originalseitenbis=153
 |Lemma=Eichstätt, ehem. Jesuitenkolleg, Schutzengelkirche
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Dominikanerkloster, Treppenhaus

@@ -5,6 +5,7 @@
 |Originalseitenvon=195
 |Originalseitenbis=213
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Festsaal, sog. Spiegelsaal
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Treppenhaus

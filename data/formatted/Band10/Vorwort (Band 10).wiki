@@ -5,6 +5,7 @@
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort (Band 10)
+|Meta=Vorwort
 |davor=
 |danach=Ambach, Pfarrkirche St. Martin
 |AutorIn1=Büttner, Frank

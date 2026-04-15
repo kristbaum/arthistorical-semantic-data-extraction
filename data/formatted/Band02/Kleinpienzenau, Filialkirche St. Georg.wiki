@@ -5,6 +5,7 @@
 |Originalseitenvon=523
 |Originalseitenbis=528
 |Lemma=Kleinpienzenau, Filialkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Kleinpienzenau
 |davor=Kleinhöhenkirchen, Marienwallfahrt Mariä Heimsuchung

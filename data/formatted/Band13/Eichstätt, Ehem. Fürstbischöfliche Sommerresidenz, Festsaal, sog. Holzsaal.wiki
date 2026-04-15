@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=224
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Festsaal, sog. Holzsaal
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Festsaal, sog. Spiegelsaal

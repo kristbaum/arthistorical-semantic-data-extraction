@@ -5,6 +5,7 @@
 |Originalseitenvon=272
 |Originalseitenbis=281
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Schloßkapelle
+|Meta=
 |Typ=Profan
 |Ort=Hohenaschau
 |davor=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau

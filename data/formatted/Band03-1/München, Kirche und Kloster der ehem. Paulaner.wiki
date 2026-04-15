@@ -5,6 +5,7 @@
 |Originalseitenvon=269
 |Originalseitenbis=275
 |Lemma=München, Kirche und Kloster der ehem. Paulaner
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=München, Alte Mariahilfkirche

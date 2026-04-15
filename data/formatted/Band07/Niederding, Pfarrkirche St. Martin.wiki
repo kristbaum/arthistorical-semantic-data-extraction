@@ -5,6 +5,7 @@
 |Originalseitenvon=225
 |Originalseitenbis=230
 |Lemma=Niederding, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Niederding
 |davor=Maria Thalheim, Pfarrkuratie- und Wallfahrtskirche Mariä Himmelfahrt

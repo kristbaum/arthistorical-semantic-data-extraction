@@ -5,6 +5,7 @@
 |Originalseitenvon=211
 |Originalseitenbis=211
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Konventbau, Dreikönigskapelle am Kreuzgang
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau, Altes Refektorium und alte Bibliothek

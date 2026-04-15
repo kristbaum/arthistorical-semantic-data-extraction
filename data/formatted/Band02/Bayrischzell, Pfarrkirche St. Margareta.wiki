@@ -5,6 +5,7 @@
 |Originalseitenvon=455
 |Originalseitenbis=459
 |Lemma=Bayrischzell, Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Bayrischzell
 |davor=Aurach, Kapelle

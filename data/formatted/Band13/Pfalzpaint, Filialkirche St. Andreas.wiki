@@ -5,6 +5,7 @@
 |Originalseitenvon=380
 |Originalseitenbis=383
 |Lemma=Pfalzpaint, Filialkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Pfalzpaint
 |davor=Pfahldorf, Pfarrkirche St. Johannes Baptist

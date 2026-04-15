@@ -5,6 +5,7 @@
 |Originalseitenvon=439
 |Originalseitenbis=441
 |Lemma=Obersöchering, Pfarrkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Obersöchering
 |davor=Oberhausen, Filialkirche St. Mauritius

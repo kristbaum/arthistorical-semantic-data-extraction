@@ -5,6 +5,7 @@
 |Originalseitenvon=191
 |Originalseitenbis=198
 |Lemma=Prittriching, Pfarrkirche St. Peter und Paul
+|Meta=
 |Typ=Sakral
 |Ort=Prittriching
 |davor=Pöring, Schlosskirche St. Maria von der Versöhnung

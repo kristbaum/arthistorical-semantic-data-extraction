@@ -5,6 +5,7 @@
 |Originalseitenvon=451
 |Originalseitenbis=455
 |Lemma=Im 18. Jh. im Bereich des Landkreises Eichstätt tätige Deckenmaler
+|Meta=Malerliste
 |davor=Weigersdorf, Filialkirche St. Andreas
 |danach=Ortsregister (Band 13)
 }}

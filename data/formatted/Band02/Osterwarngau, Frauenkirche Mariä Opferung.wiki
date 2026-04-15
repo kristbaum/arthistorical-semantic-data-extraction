@@ -5,6 +5,7 @@
 |Originalseitenvon=537
 |Originalseitenbis=540
 |Lemma=Osterwarngau, Frauenkirche Mariä Opferung
+|Meta=
 |Typ=Sakral
 |Ort=Osterwarngau
 |davor=Osterhofen, Kapelle

@@ -5,6 +5,7 @@
 |Originalseitenvon=328
 |Originalseitenbis=336
 |Lemma=Zell, Pfarrkirche St. Lucia
+|Meta=
 |Typ=Sakral
 |Ort=Zell
 |davor=Waidhofen, Pfarrkirche Mariä Reinigung

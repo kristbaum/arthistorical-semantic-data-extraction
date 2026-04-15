@@ -5,6 +5,7 @@
 |Originalseitenvon=367
 |Originalseitenbis=372
 |Lemma=Aich, Wallfahrtskirche Maria Aich
+|Meta=
 |Typ=Sakral
 |Ort=Aich
 |davor=Widdersberg, Filialkirche St. Michael

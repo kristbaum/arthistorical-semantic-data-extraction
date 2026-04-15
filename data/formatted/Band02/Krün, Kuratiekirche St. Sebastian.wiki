@@ -5,6 +5,7 @@
 |Originalseitenvon=355
 |Originalseitenbis=357
 |Lemma=Krün, Kuratiekirche St. Sebastian
+|Meta=
 |Typ=Sakral
 |Ort=Krün
 |davor=Kappel, Filial- u. Wallfahrtskirche Hl. Blut u. hl. Magdalena

@@ -5,6 +5,7 @@
 |Originalseitenvon=371
 |Originalseitenbis=378
 |Lemma=Oberndorf, Pfarrkuratiekirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Oberndorf
 |davor=Landsham, Filialkirche St. Stephanus

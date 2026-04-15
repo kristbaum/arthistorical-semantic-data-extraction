@@ -5,6 +5,7 @@
 |Originalseitenvon=123
 |Originalseitenbis=128
 |Lemma=Ruhpolding, Schlosskapelle im Neuen Schloss
+|Meta=
 |Typ=Sakral
 |Ort=Ruhpolding
 |davor=Ruhpolding, Pfarrkirche

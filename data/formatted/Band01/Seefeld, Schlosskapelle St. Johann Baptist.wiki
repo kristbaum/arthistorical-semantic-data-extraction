@@ -5,6 +5,7 @@
 |Originalseitenvon=344
 |Originalseitenbis=346
 |Lemma=Seefeld, Schlosskapelle St. Johann Baptist
+|Meta=
 |Typ=Sakral
 |Ort=Seefeld
 |davor=Schlagenhofen, Filialkirche St. Michael

@@ -5,6 +5,7 @@
 |Originalseitenvon=625
 |Originalseitenbis=626
 |Lemma=Ortsregister (Band 1)
+|Meta=Ortsregister
 |davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
 |danach=Personenregister (Band 1)
 }}

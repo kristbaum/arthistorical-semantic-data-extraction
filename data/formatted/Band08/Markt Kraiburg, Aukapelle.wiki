@@ -5,6 +5,7 @@
 |Originalseitenvon=140
 |Originalseitenbis=141
 |Lemma=Markt Kraiburg, Aukapelle
+|Meta=
 |Typ=Sakral
 |Ort=Markt Kraiburg
 |davor=Kirchdorf, Pfarrkirche Mariä Himmelfahrt

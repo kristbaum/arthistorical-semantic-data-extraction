@@ -5,6 +5,7 @@
 |Originalseitenvon=251
 |Originalseitenbis=253
 |Lemma=Grösdorf, Salvatorkapelle
+|Meta=
 |Typ=Sakral
 |Ort=Grösdorf
 |davor=Enkering, Pfarrkirche St. Otmar

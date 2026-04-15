@@ -5,6 +5,7 @@
 |Originalseitenvon=126
 |Originalseitenbis=132
 |Lemma=Landsberg am Lech, Stadtpfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Landsberg am Lech
 |davor=Kaufering, Kapelle St. Leonhard

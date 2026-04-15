@@ -5,6 +5,7 @@
 |Originalseitenvon=134
 |Originalseitenbis=136
 |Lemma=Beuerberg, ehem. Augustinerchorherrenstift, Bruderschaftskapelle
+|Meta=
 |Typ=Sakral
 |Ort=Beuerberg
 |davor=Benediktbeuern, ehem. Benediktinerabtei, Ökonomiehof

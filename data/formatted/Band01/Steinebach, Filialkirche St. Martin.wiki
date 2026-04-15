@@ -5,6 +5,7 @@
 |Originalseitenvon=352
 |Originalseitenbis=354
 |Lemma=Steinebach, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Steinebach
 |davor=Starnberg, Alte Pfarrkirche St. Joseph

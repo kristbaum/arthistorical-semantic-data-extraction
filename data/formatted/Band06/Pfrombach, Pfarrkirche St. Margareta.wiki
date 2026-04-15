@@ -5,6 +5,7 @@
 |Originalseitenvon=280
 |Originalseitenbis=289
 |Lemma=Pfrombach, Pfarrkirche St. Margareta
+|Meta=
 |Typ=Sakral
 |Ort=Pfrombach
 |davor=Neufahrn bei Freising, Alte Pfarrkirche Hl. Geist

@@ -5,6 +5,7 @@
 |Originalseitenvon=299
 |Originalseitenbis=305
 |Lemma=Strass, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Strass
 |davor=Sinning, Pfarrkirche St. Nikolaus

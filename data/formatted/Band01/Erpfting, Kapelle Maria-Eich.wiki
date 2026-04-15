@@ -5,6 +5,7 @@
 |Originalseitenvon=74
 |Originalseitenbis=76
 |Lemma=Erpfting, Kapelle Maria-Eich
+|Meta=
 |Typ=Sakral
 |Ort=Erpfting
 |davor=Eresing, Pfarrkirche St. Ulrich

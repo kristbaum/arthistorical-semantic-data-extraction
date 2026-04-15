@@ -5,6 +5,7 @@
 |Originalseitenvon=288
 |Originalseitenbis=299
 |Lemma=Anzing, ehem. Schlosskapelle Heilig Kreuz
+|Meta=
 |Typ=Sakral
 |Ort=Anzing
 |davor=Altenburg, Wallfahrtskirche Maria vom Siege

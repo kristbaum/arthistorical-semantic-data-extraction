@@ -5,6 +5,7 @@
 |Originalseitenvon=271
 |Originalseitenbis=272
 |Lemma=Ortsregister (Band 14)
+|Meta=Ortsregister
 |davor=Im 18. Jh. im Raum Ingolstadt und Pfaffenhofen tätige Maler
 |danach=Personenregister (Band 14)
 }}

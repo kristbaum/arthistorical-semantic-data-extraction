@@ -5,6 +5,7 @@
 |Originalseitenvon=
 |Originalseitenbis=
 |Lemma=Unterhausen, Pfarr- und Wallfahrtskirche Unsere Liebe Frau
+|Meta=
 |Typ=Sakral
 |Ort=Unterhausen
 |davor=Untereglfing, Filialkirche Mariä Himmelfahrt

@@ -5,6 +5,7 @@
 |Originalseitenvon=162
 |Originalseitenbis=167
 |Lemma=Lauterbach, Filialkirche St. Alban
+|Meta=
 |Typ=Sakral
 |Ort=Lauterbach
 |davor=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung

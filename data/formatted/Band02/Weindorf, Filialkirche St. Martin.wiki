@@ -5,6 +5,7 @@
 |Originalseitenvon=442
 |Originalseitenbis=443
 |Lemma=Weindorf, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Weindorf
 |davor=Unterammergau, Pfarrkirche St. Nikolaus

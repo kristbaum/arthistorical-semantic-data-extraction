@@ -5,6 +5,7 @@
 |Originalseitenvon=510
 |Originalseitenbis=514
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Großer oder Weißer Saal
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Prunktreppenhaus

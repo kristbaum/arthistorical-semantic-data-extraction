@@ -5,6 +5,7 @@
 |Originalseitenvon=252
 |Originalseitenbis=262
 |Lemma=Ikonographisches Register (Band 9)
+|Meta=Ikonographisches Register
 |davor=Personenregister (Band 9)
 |danach=Embleme-Register (Band 9)
 }}

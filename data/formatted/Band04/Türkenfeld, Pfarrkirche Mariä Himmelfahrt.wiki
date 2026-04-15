@@ -5,6 +5,7 @@
 |Originalseitenvon=247
 |Originalseitenbis=258
 |Lemma=Türkenfeld, Pfarrkirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Türkenfeld
 |davor=Tegernbach, Filialkirche St. Stephan

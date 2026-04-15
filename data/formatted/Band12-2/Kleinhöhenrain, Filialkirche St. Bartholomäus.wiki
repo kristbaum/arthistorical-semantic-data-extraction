@@ -5,6 +5,7 @@
 |Originalseitenvon=325
 |Originalseitenbis=331
 |Lemma=Kleinhöhenrain, Filialkirche St. Bartholomäus
+|Meta=
 |Typ=Sakral
 |Ort=Kleinhöhenrain
 |davor=Kirchwald, Filial- und Wallfahrtskirche Mariä Heimsuchung

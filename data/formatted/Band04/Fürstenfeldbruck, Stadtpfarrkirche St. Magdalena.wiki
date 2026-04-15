@@ -5,6 +5,7 @@
 |Originalseitenvon=42
 |Originalseitenbis=57
 |Lemma=Fürstenfeldbruck, Stadtpfarrkirche St. Magdalena
+|Meta=
 |Typ=Sakral
 |Ort=Fürstenfeldbruck
 |davor=Esting, Ehem. Benefiziatenhaus

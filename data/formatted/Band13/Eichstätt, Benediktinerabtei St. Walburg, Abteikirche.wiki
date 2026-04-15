@@ -5,6 +5,7 @@
 |Originalseitenvon=77
 |Originalseitenbis=98
 |Lemma=Eichstätt, Benediktinerabtei St. Walburg, Abteikirche
+|Meta=
 |Typ=Sakral
 |Ort=Eichstätt
 |davor=Eichstätt, Benediktinerabtei St. Walburg

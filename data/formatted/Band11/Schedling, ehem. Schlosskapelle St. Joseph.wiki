@@ -5,6 +5,7 @@
 |Originalseitenvon=129
 |Originalseitenbis=132
 |Lemma=Schedling, ehem. Schlosskapelle St. Joseph
+|Meta=
 |Typ=Sakral
 |Ort=Schedling
 |davor=Ruhpolding, Schlosskapelle im Neuen Schloss

@@ -5,6 +5,7 @@
 |Originalseitenvon=248
 |Originalseitenbis=251
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Bibliothek
+|Meta=
 |Typ=Sakral
 |Ort=Schlehdorf
 |davor=Schlehdorf, ehem. Augustinerchorherrenstift, Psallierchor

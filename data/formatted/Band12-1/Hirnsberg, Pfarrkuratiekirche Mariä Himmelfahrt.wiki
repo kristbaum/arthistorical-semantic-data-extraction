@@ -5,6 +5,7 @@
 |Originalseitenvon=259
 |Originalseitenbis=262
 |Lemma=Hirnsberg, Pfarrkuratiekirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Hirnsberg
 |davor=Hilperting, Filialkirche St. Leonhard

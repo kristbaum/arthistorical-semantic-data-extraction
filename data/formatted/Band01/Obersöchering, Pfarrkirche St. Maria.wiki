@@ -5,6 +5,7 @@
 |Originalseitenvon=442
 |Originalseitenbis=443
 |Lemma=Obersöchering, Pfarrkirche St. Maria
+|Meta=
 |Typ=Sakral
 |Ort=Obersöchering
 |davor=Obersöchering, Pfarrkirche St. Peter und Paul

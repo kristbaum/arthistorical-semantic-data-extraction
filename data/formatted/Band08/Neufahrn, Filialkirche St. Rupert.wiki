@@ -5,6 +5,7 @@
 |Originalseitenvon=185
 |Originalseitenbis=189
 |Lemma=Neufahrn, Filialkirche St. Rupert
+|Meta=
 |Typ=Sakral
 |Ort=Neufahrn
 |davor=Mühldorf, Votivkapelle Maria Eich

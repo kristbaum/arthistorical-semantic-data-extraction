@@ -5,6 +5,7 @@
 |Originalseitenvon=284
 |Originalseitenbis=285
 |Lemma=Wang, Pfarrkirche St. Georg
+|Meta=
 |Typ=Sakral
 |Ort=Wang
 |davor=Walkersaich, Kuratiekirche Mriä Himmelfahrt

@@ -5,6 +5,7 @@
 |Originalseitenvon=337
 |Originalseitenbis=337
 |Lemma=Leutstetten, Filialkirche St. Alto
+|Meta=
 |Typ=Sakral
 |Ort=Leutstetten
 |davor=Landstetten, Filialkirche St. Jakobus d. Ä.

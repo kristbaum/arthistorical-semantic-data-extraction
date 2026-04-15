@@ -5,6 +5,7 @@
 |Originalseitenvon=214
 |Originalseitenbis=216
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Lusthäuschen im Abtsgarten
+|Meta=
 |Typ=Sakral
 |Ort=Raitenhaslach
 |davor=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Bibliothekstrakt mit Bibliothek

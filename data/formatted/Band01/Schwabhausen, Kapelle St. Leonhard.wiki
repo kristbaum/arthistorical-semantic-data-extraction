@@ -5,6 +5,7 @@
 |Originalseitenvon=229
 |Originalseitenbis=229
 |Lemma=Schwabhausen, Kapelle St. Leonhard
+|Meta=
 |Typ=Sakral
 |Ort=Schwabhausen
 |davor=Schwabhausen, Pfarrkirche Heilig Kreuz

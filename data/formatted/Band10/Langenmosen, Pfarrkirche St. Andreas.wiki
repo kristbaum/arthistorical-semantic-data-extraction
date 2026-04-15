@@ -5,6 +5,7 @@
 |Originalseitenvon=120
 |Originalseitenbis=129
 |Lemma=Langenmosen, Pfarrkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Langenmosen
 |davor=Längloh, Filialkirche Mariä Geburt

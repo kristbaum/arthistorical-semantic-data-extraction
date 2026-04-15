@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=36
 |Lemma=München, Dreifaltigkeitskirche
+|Meta=
 |Typ=Sakral
 |Ort=München
 |davor=Vorwort (Band 3-I)

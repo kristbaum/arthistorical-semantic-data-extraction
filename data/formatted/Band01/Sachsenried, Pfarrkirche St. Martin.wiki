@@ -5,6 +5,7 @@
 |Originalseitenvon=502
 |Originalseitenbis=505
 |Lemma=Sachsenried, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Sachsenried
 |davor=Rottenbuch, Pfarrkirche Mariä Geburt

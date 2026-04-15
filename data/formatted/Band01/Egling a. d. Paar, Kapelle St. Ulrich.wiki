@@ -5,6 +5,7 @@
 |Originalseitenvon=62
 |Originalseitenbis=63
 |Lemma=Egling a. d. Paar, Kapelle St. Ulrich
+|Meta=
 |Typ=Sakral
 |Ort=Egling a. d. Paar
 |davor=Egling a. d. Paar, Pfarrkirche St. Vitus

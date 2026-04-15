@@ -5,6 +5,7 @@
 |Originalseitenvon=188
 |Originalseitenbis=188
 |Lemma=Pflugdorf, Filialkirche St. Laurentius, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Pflugdorf
 |davor=Pflugdorf, Filialkirche St. Laurentius

@@ -5,6 +5,7 @@
 |Originalseitenvon=506
 |Originalseitenbis=510
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Prunktreppenhaus
+|Meta=
 |Typ=Profan
 |Ort=Oberschleißheim
 |davor=Oberschleißheim, Neues Schloss Schleißheim, Speisesaal

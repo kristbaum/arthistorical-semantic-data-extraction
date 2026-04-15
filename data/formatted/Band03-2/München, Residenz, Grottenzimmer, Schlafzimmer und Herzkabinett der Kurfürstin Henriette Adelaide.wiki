@@ -5,6 +5,7 @@
 |Originalseitenvon=233
 |Originalseitenbis=249
 |Lemma=München, Residenz, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Residenz, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide

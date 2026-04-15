@@ -5,6 +5,7 @@
 |Originalseitenvon=264
 |Originalseitenbis=265
 |Lemma=Sandizell, Pfarrkirche St. Petrus, Sakristei
+|Meta=
 |Typ=Sakral
 |Ort=Sandizell
 |davor=Sandizell, Pfarrkirche St. Petrus

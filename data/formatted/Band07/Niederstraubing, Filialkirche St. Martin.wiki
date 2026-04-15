@@ -5,6 +5,7 @@
 |Originalseitenvon=231
 |Originalseitenbis=235
 |Lemma=Niederstraubing, Filialkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Niederstraubing
 |davor=Niederding, Pfarrkirche St. Martin

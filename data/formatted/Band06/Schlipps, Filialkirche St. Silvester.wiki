@@ -5,6 +5,7 @@
 |Originalseitenvon=290
 |Originalseitenbis=290
 |Lemma=Schlipps, Filialkirche St. Silvester
+|Meta=
 |Typ=Sakral
 |Ort=Schlipps
 |davor=Pfrombach, Pfarrkirche St. Margareta

@@ -5,6 +5,7 @@
 |Originalseitenvon=232
 |Originalseitenbis=233
 |Lemma=Stoffen, Pfarrkirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Stoffen
 |davor=Stadl, Pfarrkirche St. Johann Baptist

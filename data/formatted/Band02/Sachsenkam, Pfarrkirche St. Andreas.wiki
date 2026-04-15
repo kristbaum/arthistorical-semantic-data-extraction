@@ -5,6 +5,7 @@
 |Originalseitenvon=229
 |Originalseitenbis=233
 |Lemma=Sachsenkam, Pfarrkirche St. Andreas
+|Meta=
 |Typ=Sakral
 |Ort=Sachsenkam
 |davor=Reutberg, Klosterkirche Mariä Verkündigung

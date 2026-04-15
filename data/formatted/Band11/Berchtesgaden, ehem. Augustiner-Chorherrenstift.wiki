@@ -5,6 +5,7 @@
 |Originalseitenvon=201
 |Originalseitenbis=206
 |Lemma=Berchtesgaden, ehem. Augustiner-Chorherrenstift
+|Meta=
 |Typ=Sakral
 |Ort=Berchtesgaden
 |davor=Waging, Pfarrkirche St. Martin

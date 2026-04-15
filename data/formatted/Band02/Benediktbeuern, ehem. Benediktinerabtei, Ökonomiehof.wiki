@@ -5,6 +5,7 @@
 |Originalseitenvon=132
 |Originalseitenbis=133
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Ökonomiehof
+|Meta=
 |Typ=Sakral
 |Ort=Benediktbeuern
 |davor=Benediktbeuern, ehem. Benediktinerabtei, ehem. Bibliothek

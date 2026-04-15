@@ -5,6 +5,7 @@
 |Originalseitenvon=274
 |Originalseitenbis=283
 |Lemma=Walkersaich, Kuratiekirche Mriä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Walkersaich
 |davor=Unterzarnham, Filialkirche St. Viktor und St. Corona

@@ -5,6 +5,7 @@
 |Originalseitenvon=180
 |Originalseitenbis=181
 |Lemma=Zell (Schäftlarn), Filialkirche St. Michael
+|Meta=
 |Typ=Sakral
 |Ort=Zell (Schäftlarn)
 |davor=Unterföhring, Pfarrkirche St. Valentin

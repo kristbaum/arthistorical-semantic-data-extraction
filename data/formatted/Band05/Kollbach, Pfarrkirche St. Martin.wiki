@@ -5,6 +5,7 @@
 |Originalseitenvon=154
 |Originalseitenbis=154
 |Lemma=Kollbach, Pfarrkirche St. Martin
+|Meta=
 |Typ=Sakral
 |Ort=Kollbach
 |davor=Indersdorf, Kloster, ehem. Winterrefektorium

@@ -5,6 +5,7 @@
 |Originalseitenvon=105
 |Originalseitenbis=109
 |Lemma=Hollenbach, Pfarrkirche St. Quirinus von Siscia
+|Meta=
 |Typ=Sakral
 |Ort=Hollenbach
 |davor=Haselbach, Pfarrkirche St. Michael

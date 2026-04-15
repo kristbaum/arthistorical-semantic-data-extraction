@@ -5,6 +5,7 @@
 |Originalseitenvon=566
 |Originalseitenbis=567
 |Lemma=München, Vier nicht lokalisierbare Deckenbilder aus dem Hofbereich
+|Meta=
 |Typ=Profan
 |Ort=München
 |davor=München, Fünf, nicht lokalisierbare Deckenbilder aus dem Hofbereich

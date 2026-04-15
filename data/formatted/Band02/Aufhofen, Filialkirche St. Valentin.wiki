@@ -5,6 +5,7 @@
 |Originalseitenvon=19
 |Originalseitenbis=20
 |Lemma=Aufhofen, Filialkirche St. Valentin
+|Meta=
 |Typ=Sakral
 |Ort=Aufhofen
 |davor=Danksagung (Band 2)

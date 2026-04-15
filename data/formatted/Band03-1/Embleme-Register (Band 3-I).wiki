@@ -5,6 +5,7 @@
 |Originalseitenvon=289
 |Originalseitenbis=291
 |Lemma=Embleme-Register (Band 3-I)
+|Meta=Embleme-Register
 |davor=Ikonographisches Register (Band 3-I)
 |danach=Bildnachweis (Band 3-I)
 }}

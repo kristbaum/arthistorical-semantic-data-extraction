@@ -5,6 +5,7 @@
 |Originalseitenvon=301
 |Originalseitenbis=303
 |Lemma=Westerholzhausen, Pfarrkirche St. Korbinian
+|Meta=
 |Typ=Sakral
 |Ort=Westerholzhausen
 |davor=Weichs, Pfarrkirche St. Martin

@@ -5,6 +5,7 @@
 |Originalseitenvon=257
 |Originalseitenbis=262
 |Lemma=Ramsau bei Berchtesgaden, Wallfahrtskirche Mariä Himmelfahrt
+|Meta=
 |Typ=Sakral
 |Ort=Ramsau bei Berchtesgaden
 |davor=Maria Gern, Wallfahrtskirche Maria Gern

@@ -5,6 +5,7 @@
 |Originalseitenvon=242
 |Originalseitenbis=246
 |Lemma=Tegernbach, Filialkirche St. Stephan
+|Meta=
 |Typ=Sakral
 |Ort=Tegernbach
 |davor=Rammertshofen, Filialkirche Inventio Crucis

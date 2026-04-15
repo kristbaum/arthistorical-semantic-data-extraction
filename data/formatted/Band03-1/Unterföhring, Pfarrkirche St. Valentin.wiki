@@ -5,6 +5,7 @@
 |Originalseitenvon=174
 |Originalseitenbis=179
 |Lemma=Unterföhring, Pfarrkirche St. Valentin
+|Meta=
 |Typ=Sakral
 |Ort=Unterföhring
 |davor=Taufkirchen (Kr. München), Pfarrkirche St. Johannes der Täufer

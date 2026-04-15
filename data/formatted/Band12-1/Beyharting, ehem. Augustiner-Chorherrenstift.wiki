@@ -5,6 +5,7 @@
 |Originalseitenvon=102
 |Originalseitenbis=112
 |Lemma=Beyharting, ehem. Augustiner-Chorherrenstift
+|Meta=
 |Typ=Sakral
 |Ort=Beyharting
 |davor=Berbling, Pfarrkirche Inventio Crucis

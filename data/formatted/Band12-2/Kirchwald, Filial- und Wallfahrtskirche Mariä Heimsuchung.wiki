@@ -5,6 +5,7 @@
 |Originalseitenvon=317
 |Originalseitenbis=324
 |Lemma=Kirchwald, Filial- und Wallfahrtskirche Mariä Heimsuchung
+|Meta=
 |Typ=Sakral
 |Ort=Kirchwald
 |davor=Kirchloibersdorf, Filialkirche St. Petrus

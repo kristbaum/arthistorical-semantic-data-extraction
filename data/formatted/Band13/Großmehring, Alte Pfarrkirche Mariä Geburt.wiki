@@ -5,6 +5,7 @@
 |Originalseitenvon=254
 |Originalseitenbis=255
 |Lemma=Großmehring, Alte Pfarrkirche Mariä Geburt
+|Meta=
 |Typ=Sakral
 |Ort=Großmehring
 |davor=Grösdorf, Salvatorkapelle
