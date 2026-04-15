@@ -2,8 +2,8 @@
 |Band=1
 |Chunk=12
 |Chunkseite=1
-|Originalseitenvon=
-|Originalseitenbis=
+|Originalseitenvon=549
+|Originalseitenbis=550
 |Lemma=Unterhausen, Pfarr- und Wallfahrtskirche Unsere Liebe Frau
 |Meta=
 |Typ=Sakral

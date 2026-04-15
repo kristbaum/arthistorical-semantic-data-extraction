@@ -2,8 +2,8 @@
 |Band=1
 |Chunk=12
 |Chunkseite=14
-|Originalseitenvon=
-|Originalseitenbis=
+|Originalseitenvon=575
+|Originalseitenbis=577
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang
 |Meta=
 |Typ=Sakral
