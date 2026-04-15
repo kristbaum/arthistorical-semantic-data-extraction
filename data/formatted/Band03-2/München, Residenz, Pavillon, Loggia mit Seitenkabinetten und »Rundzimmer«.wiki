@@ -12,11 +12,8 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band03-2 p130 -->
 
-<!-- header: PAVILLON, LOGGIA MIT SEITENKABINETTEN LIND RUNDZIMMER -->
 
-<!-- header: PAVILLON, LOGGIA, RUNDZIMMI -->
 
 Gartengebäude, im und am ehem. Südlichen Residenzgarten im Bereich des heutigen Königsbauhofs, im 18. und 19. Jh. abgebrochen, Deckenbilder nicht erhalten
 
@@ -112,6 +109,3 @@ Rée 1885, S. 144.
 Kat. Candid-Zeichnungen 1978, Nr. 28 und Abb. 102.
 
 3.V.-K.
-<!-- citation-page-bottom: Band03-2 p131 -->
-
-{{End}}

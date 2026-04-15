@@ -22,14 +22,9 @@ Das obere Geschoß folgt an den Längsseiten der Gliederung des unteren mit je f
 
 
 [[File:Band03-2_chunk011_p006_img002.jpg|thumb|Weißer Saal, Ansicht nach N]]
-<!-- citation-page-bottom: Band03-2 p511 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk011.pdf#page=7 -->
-<!-- citation-page-top: Band03-2 p512 -->
 
-<!-- header: SCHLEISSHEIM, NEUES SCHLOSS -->
 
-<!-- header: WEISSER SAAL -->
 
 Mälde von Franz Joachim Beich, 1702/04, angebracht: >die Entsatzschlacht von Wien 1683< und die >Schlacht am Berg Hársan bei Mohács 1687 (; Rahmen 1723 von Adam Pichler.
 
@@ -84,10 +79,7 @@ Mit dem mythologischen Thema hatte Amigoni die Unterbringung einer großen Zahl 
 In der Bildmitte thront auf einer Wolkenbank Jupiter mit dem Adler, in der Rechten eine Waage. Mit dem linken Arm umfaßt er Ganymed, den Mundschenk der Götter. Rechts lagern die Drei Parzen: Clotho, die am Spinnrocker den Lebensfaden spinnt, Lachesis, die den Faden durch ihre Finger führt und Atropos, die ihn zerschneidet. Putten spulen den Faden auf eine Spindel.
 
 Zur Rechten Jupiters kniet mit verschränkten Armen und bunten Flügeln Saturn, vor ihm Neptun mit dem Dreizack.
-<!-- citation-page-bottom: Band03-2 p513 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk011.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p514 -->
 
 Dahinter ein Flußgott und eine nicht näher bezeichnete Gestalt. Ebenso ist die weibliche Gestalt unter Neptun nicht eindeutig zu benennen; Faßmann (1761, fol. 2v) identifiziert die als »Diphtera mit ihrem Glückstopf«. Bei dem Gegenstand hinter der Figur, den er »Glückstopf« nennt, kann es sich jedoch auch um die Rückenansicht des Muschelwagens der Venus handeln; der Pfeilköcher in der Hand eines begleitenden Puttos ist ein weiterer Verweis auf die Liebesgöttin.
 
@@ -112,5 +104,3 @@ Der Vergleich des Weißen Saals in Schleißheim mit dem Steinernen Saal in Nymph
 
 
 Bretagne 1722, S. 17. Thon 1977, S. 65–70, 303 f. Schmid 1980, S. 105 f. Hojer/Schmid 1984, S. 36 f. Holler 1986, S. 28–39, 204 f.
-
-{{End}}

@@ -50,12 +50,8 @@ Die Scheinarchitektur bildet eigentlich nur ein Gerüst um die schematisch angeo
 Die zentrale Scheinkuppel besteht aus einem Tambour mit vorgelegten Säulen, Nischen und verkröpftem Gebälk; statt in eine Kuppelwölbung blickt man in eine Himmelsöffnung, durch die Wolken in den Bildraum eindringen. Dort ziehen zwei Putti einen hochrädrigen antikischen Wagen – einem Streitwagen ähnelnd –, auf dem Maria mit Krone und Zepter thront, den stehenden Jesusknaben neben sich haltend. In den Nischen des Tambours sind – goldfarben – die Statuen der vier Kardinaltugenden dargestellt. Nach den vier Himmelsrichtungen fliegen vier kraftvolle Engelsgestalten jeweils vor dem Übergang der zentralen Deckenöffnung zu den vier seitlichen Öffnungen. Sie stürzen die allegorischen Personifikationen von Häresie, Sünde und Plage in die Tiefe. Die vier äußersten Arkadenöffnungen lassen einen leeren Himmel sichtbar werden. Die strenge und schematische Komposition der Illusionsarchitektur hat eine Entsprechung in der figuralen Komposition, die ebenso streng und gleichmäßig, fast doppelt achsensymmetrisch ist, ohne Schwerpunkte, auch in der Farbgebung.
 
 Den Farbcharakter des Bildes bestimmen aufeinander bezogene helle, silbrig wirkende Mischtöne von Grau, Grün und Violett beim ornamental-architektonischen Bildgerüst und Grau, Violett und Blau in den Himmelsausschnitten. Lichte Goldockertöne bilden darin die Akzente. Davon sind die Figuren durch plastische Modellierung und kompaktere Farbgebung – jedoch in den gleichen, etwas intensiver getönten Farben – deutlich abgehoben. Kapitelle und
-<!-- citation-page-bottom: Band01 p367 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=10 -->
-<!-- citation-page-top: Band01 p368 -->
 
-<!-- header: AICH -->
 
 
 [[File:Band01_chunk008_p010_img001.jpg|thumb|A Ausschnitt Westseite: Sturz der Häretiker]]
@@ -87,9 +83,7 @@ In der Hauptansicht erscheinen in der Tambourzone die Personifikationen der Erdt
 
 
 [[File:Band01_chunk008_p010_img005.jpg|thumb|14 Markus]]
-<!-- citation-page-bottom: Band01 p369 -->
 
-<!-- citation-page-top: Band01 p370 -->
 
 Frauengestalten. Darüber öffnet sich die Kuppel, Wolken dringen ein. Dort schwebt, in einer bewegten Himmelsszenerie, Maria, von zahlreichen Engeln begleitet, nach oben, wo sie Christus und Gottvater, auf Wolken thronend, erwarten. Christus hält eine sternengeschmückte Krone über ihr Haupt. Darüber schwebt die Taube des Hl. Geistes.
 
@@ -126,14 +120,9 @@ Der Triumphgedanke wird in einer für die Deckenmalerei besonders bezeichnenden 
 Nachweise s. LCI, Bd 1, s. v. Esel, Sp. 682); auch Ripa führt den Esel oder Eselsohren als Attribut der Accedia (s. v. accidia) und der »Ignoranza di tutte le Cose« an. Die Masken – eine Augen- und eine Gesichtsmaske – bezeichnen sinnbildlich das Laster im allgemeinen und insbesondere Falschheit und Verstellung (vgl. bei Ripa bugia, fraude, simulatione). In Verbindung mit Accedia sind Masken ein ungewöhnliches Attribut. Die Figur ist daher ohne das ikonologische Konzept oder Vorbild der Darstellung nicht eindeutig zu benennen.
 
 Unterhalb dieses Trios sind vier einzelne männliche, halb entblößte Figuren in einem Bogen angeordnet. Von diesen lassen sich die Laster Invidia und Gula sicher benennen. Die ihr Herz fressende Figur ist ein Bild der Invidia (vgl. Andreas Alciatus, Emblemata, Ausgabe Antwerpen 1577, S. 271, und Ripa, s. v. invidia). Die Figur Gula hält ein Stück Braten und einen Krug Rotwein – reale Gegenstände zur Bezeichnung dieses Lasters. Die Gestalt mit den Schlangenhaaren der Medusa und einer Fackel ist wahrscheinlich als Discordia anzusprechen, Ripa gibt der als Höllenfurie charakterisierten »discordia« Schlangen in die zerzausten Haare und eine Fackel bzw. einen Feuerstein als wesentliche Attribute. Günthers männliche Figur stimmt in diesen Zügen mit Ripas Entwurf überein. Die letzte Figur – zwischen Invidia und Gula – hält in der Rechten einen Dolch, um den linken Arm windet sich eine Schlange. Der gezückte Dolch weist auf ein Laster der Gewalttätigkeit hin, z. B. Ira bei Ripa. Die Schlange ist das traditionelle Sinnbild der Sünde (Paradiesesschlange). Die Schlange kann auch Perfidia, die Heimtücke, bezeichnen.
-<!-- citation-page-bottom: Band01 p371 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=12 -->
-<!-- citation-page-top: Band01 p372 -->
 
-<!-- header: AICH -->
 
-<!-- header: ANTDORF -->
 
 nen (Ripa, s. v. perfidia); in dieser Sinngebung passen Schlange und Dolch als Attribute zusammen, doch ist auch diese Figur nicht sicher zu benennen.
 
@@ -153,5 +142,3 @@ Die Wallfahrtskirche Maria Aich, Pfarrei Unterpeißenberg in Oberbayern (o. V.),
 Gundersheimer, Hermann, Matthäus Günther, Augsburg 1930, S. 16 f.
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 210.
-
-{{End}}

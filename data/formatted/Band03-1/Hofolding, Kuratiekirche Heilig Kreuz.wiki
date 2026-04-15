@@ -12,7 +12,6 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p122 -->
 
 
 == HOFOLDING ==
@@ -74,10 +73,7 @@ Die Deckenbilder sind in ein gemaltes Dekorationssystem
 
 
 [[File:Band03-1_chunk003_p012_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p123 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=13 -->
-<!-- citation-page-top: Band03-1 p124 -->
 
 [[File:Band03-1_chunk003_p013_img001.jpg|thumb]]
 
@@ -104,14 +100,9 @@ Die drei Szenen sind der Kreuzlegende entnommen, chronologisch von O her – C, 
 D '''CHRISTUS MIT DEN ZEICHEN DES SIEGES''' Illusionistische Himmelsöffnung über einem perspektivisch angelegten Kuppelring; Betrachterstandpunkt unter dem westlichen Bildrand. Verkürzungen und Untersichten sind kühner gehandhabt als in den LHs-Fresken, wenngleich die Figur des Christus in dieser Absicht verzeichnet ist. Der Auferstandene schwebt, von Engeln gestützt, auf Wolken. Er zeigt die Wundmale und Fahne und Palmzweig, die Zeichen des Sieges über den Tod. Engel tragen das Kreuz Christi empor, es ist Zeichen des Heiles, des Sieges und der Wiederkunft Christi.
 
 Zur Farbigkeit siehe Erhaltungszustand
-<!-- citation-page-bottom: Band03-1 p125 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=14 -->
-<!-- citation-page-top: Band03-1 p126 -->
 
-<!-- header: HOFOLDING -->
 
-<!-- header: HOHENBRUNN -->
 
 
 [[File:Band03-1_chunk003_p014_img001.jpg|thumb]]
@@ -150,6 +141,3 @@ Schmidtsche Matrikel, Bd 2, S. 510f. Mayer-Westermayer, Bd 2, S. 627, 630. E[ism
 
 
 [[File:Band03-1_chunk003_p014_img006.jpg|thumb|4 Moses schlägt Wasser aus dem Felsen]]
-
-
-{{End}}

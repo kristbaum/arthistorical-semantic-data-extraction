@@ -155,10 +155,7 @@ München und Freising, Erzdiözese 19, 24, 51, 60, 66, 86, 91, 98, 154, 155, 168
 
 Münster/Westfalen, Clemenskirche 193  
 
-<!-- citation-page-bottom: Band05 p305 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=4 -->
-<!-- citation-page-top: Band05 p306 -->
 
 
 == ORTSREGISTER ==
@@ -207,5 +204,3 @@ Vadstena 48 Venedig 235 - Chiesa dei Gesuiti 246 Vierkirchen 86, 168, 275–83 V
 Wagenried, Hofmark Pipinsried 202 Walkertshofen 65, 284-89 Wasserburg 146 Weichs 290–300 Welshofen, Pfarrei 266 Wemding, Schw, LKr. Donau-Ries 46 Werdenfels, Grafschaft 92 Westerholzhausen 86, 301 Wöhr, Hofmark Indersdorf 168 Wies, LKr. Weilheim-Schongau 72, 167 Willprechtszell, Schw, LKr. Aichach-Friedberg 162 Wolfratshausen 20 Würzburg 86, 88, 208
 
 Zipplingen, Bad-Württ, Ostalbkreis 86, 302
-
-{{End}}

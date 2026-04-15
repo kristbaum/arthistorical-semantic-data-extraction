@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p178 -->
 
-<!-- header: LANDEREIS TRAUNSTEIN · TITTMONING -->
 
 
 == TITTMONING ==
@@ -60,7 +58,7 @@ Der Wolkenhimmel in der Lunette hinter dem Kruzifixus ist sicher nicht mehr orig
 [[File:Band11_chunk004_p015_img001.jpg|thumb|Gottvater mit Engeln (Adam Panhammer vor 1722)]]
 
 
-In der Stiftskirche befindet sich an der Nordseite die Kreuzkapelle, 1697/98 ausgebaut. Für sie schuf der Tittmoninger Maler Anton Hammer (S. 379) ein Deckenbild, das 1698 in den Kirchenrechungen abgerechnet ist: »Anthonien Hamer, Bürger und Maler alhier, um daß er in der neuen Capelen in der<br>Heche des Gewölbs ein Bladt gemalen ... (u. a.) 16 fl.« (Stiftsarchiv Tittmoning, Kirchenrechnungen 1698, s. Hofmann 1969). Es ist heute durch ein neubarockes Deckenbild ersetzt.
+In der Stiftskirche befindet sich an der Nordseite die Kreuzkapelle, 1697/98 ausgebaut. Für sie schuf der Tittmoninger Maler Anton Hammer (S. 379) ein Deckenbild, das 1698 in den Kirchenrechungen abgerechnet ist: »Anthonien Hamer, Bürger und Maler alhier, um daß er in der neuen Capelen in der Heche des Gewölbs ein Bladt gemalen ... (u. a.) 16 fl.« (Stiftsarchiv Tittmoning, Kirchenrechnungen 1698, s. Hofmann 1969). Es ist heute durch ein neubarockes Deckenbild ersetzt.
 
 
 == Quellen und Literatur ==
@@ -79,6 +77,3 @@ Schmidt, Yvonne, Die Ausstattung der Kirchen, in: Heimatbuch des Landkreises Tra
 Goerge, Dieter, Die Tittmoninger Schiffmeisterfamilie Wilhelmseder und ihr Nasenschild am Gasthaus »Zur Post«, in: Das Salzfass 33, 1999, S. 37–48.
 
 Goerge, Dieter, Geschichte in Erz und Stein. Tittmoninger Inschriften und Steindenkmale aus fünf Jahrhunderten, Tittmoning 2003, S. 69–72. A. B.
-<!-- citation-page-bottom: Band11 p179 -->
-
-{{End}}

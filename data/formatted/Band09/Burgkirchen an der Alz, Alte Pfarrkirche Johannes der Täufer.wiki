@@ -24,12 +24,8 @@ Alte Pfarrkirche, Gemeinde Burgkirchen, Diözese Passau; z.Z. der Ausmalung Erzd
 
 
 [[File:Band09_chunk002_p013_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p75 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=14 -->
-<!-- citation-page-top: Band09 p76 -->
 
-<!-- header: BURGKIRCHEN -->
 
 
 [[File:Band09_chunk002_p014_img001.jpg|thumb]]
@@ -54,15 +50,11 @@ Erhaltungszustand und Restaurierungen: Die Deckengemälde wurden schon 1911 als 
 
 
 [[File:Band09_chunk002_p014_img002.jpg|thumb|A Taufe Jesu (Martin Heigl 1763)]]
-<!-- citation-page-bottom: Band09 p77 -->
 
 
 B Enthauptung des Johannes, B31 Embleme
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=15 -->
-<!-- citation-page-top: Band09 p78 -->
 
-<!-- header: BURGKIRCHEN -->
 
 
 [[File:Band09_chunk002_p015_img001.jpg|thumb|A. Augustinus]]
@@ -89,12 +81,8 @@ A TAUFE JESU. Schauplatz der irdischen Handlung ist eine Flußlandschaft am Jord
 [[File:Band09_chunk002_p015_img007.jpg|thumb]]
 
 [[File:Band09_chunk002_p015_img008.jpg|thumb|Schwan]]
-<!-- citation-page-bottom: Band09 p79 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=16 -->
-<!-- citation-page-top: Band09 p80 -->
 
-<!-- header: BURGKIRCHEN -->
 
 Dieser ist mein geliebter Sohn, an dem ich Wohlgefallen habe« (Mt 3,16 f.).
 
@@ -155,5 +143,3 @@ Demmel, Fritz und Wolfgang Hopfgartner, Die Kirchen der Raitenhaslacher Klostera
 Dehio 1990, S. 167 f.
 
 FEICHTEN AN DER ALZ
-
-{{End}}

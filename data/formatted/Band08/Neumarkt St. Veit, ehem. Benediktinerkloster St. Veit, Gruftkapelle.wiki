@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p190 -->
 
-<!-- header: NEUMARKT-ST. VEI -->
 
 
 == NEUMARKT-ST. VEIT ==
@@ -89,16 +87,10 @@ A1 GEISSELUNG Innenraum. Jesus steht an die Geißelsäule gebunden, zwei Scherge
 A1 DORNENKRÖNUNG Jesus kniet am Boden, blutüberströmt, die Dornenkrone auf dem Haupt, den Mantel um die Schultern gelegt und das Schilfrohr in der Hand. Er ist umringt von Soldaten, Henkersknechten und einem Schriftgelehrten (?), die ihn verhöhnen.
 
 A1 KREUZWEG Jesus ist unter dem Kreuz zusammengebrochen, ein Henkersknecht schlägt auf ihn ein. Veronika (?)
-<!-- citation-page-bottom: Band08 p191 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=22 -->
-<!-- citation-page-top: Band08 p192 -->
 
-<!-- header: NEUMARKT-ST. VEIT -->
 
-<!-- header: NEUMARKT-ST. VEIT -->
 
-<!-- header: Seelenkapelle -->
 
 
 [[File:Band08_chunk004_p022_img001.jpg|thumb]]
@@ -121,5 +113,3 @@ A, KREUZANNAGELUNG Jesus liegt auf dem Kreuz am Boden, drei Henkersknechte nagel
 
 
 Über dem Eingang zur Gruftkapelle bereitet eine Stuckkartusche auf den Passionszyklus vor: Putten halten Passionswerkzeuge, in der Bekrönung Herz Jesu mit IHS (ligiert) und Herz Mariens MARIA (ligiert).
-
-{{End}}

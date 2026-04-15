@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p456 -->
 
-<!-- header: POLLING -->
 
 Ehem. Prälatenkapelle im oberen Geschoß des Prälaturstockes, jetzige Hauskapelle der Dominikanerinnen
 
@@ -65,14 +63,9 @@ Das Zentralthema ist die Auferstehung Christi, doch spielt bei der Darstellung d
 
 
 [[File:Band01_chunk010_p004_img001.jpg|thumb|Der Auferstandene als Überwinder des Todes]]
-<!-- citation-page-bottom: Band01 p457 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=5 -->
-<!-- citation-page-top: Band01 p458 -->
 
-<!-- header: POLLING -->
 
-<!-- header: POLLIN -->
 
 steht für die menschliche Sünde, die durch Christus gesühnt ist. Der Tod ist als Gerippe wiedergegeben, um seinen Arm schlingt sich die Paradiesesschlange mit dem Apfel: Die Ursünde hat den Tod in die Welt gebracht. Der Teufel ist zum Zeichen seiner Überwindung mit kettengefesselten Händen dargestellt.
 
@@ -83,5 +76,3 @@ Gegenüber, in der Vorhölle, erkennen wir, von rechts beginnend, Abel, ganz am 
 Der alle Einzelszenen verbindende gemeinsame Gedanke ist der der Überwindung des Todes durch den Kreuzestod und die Auferstehung Christi. Altes und Neues Testament gehören der einen Heilsgeschichte Gottes an.
 
 Literatur siehe S. 469
-
-{{End}}

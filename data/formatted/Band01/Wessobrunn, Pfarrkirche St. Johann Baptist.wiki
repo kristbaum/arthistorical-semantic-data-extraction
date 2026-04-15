@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p590 -->
 
-<!-- header: WESSOBRUNN -->
 
 Pfarrkirche, Diözese Augsburg; zur Zeit der Ausmalung Klosterpfarrei
 
@@ -49,7 +47,7 @@ Erhaltungszustand und Restaurierungen: 1849, 1901 und 1953 Restaurierungen. Die 
 == Beschreibung ==
 
 
-A LEBEN DES HL. JOHANNES DES TÄUFERS<br>Der Bildaufbau des langgestreckten Deckengemäldes ist panoramaartig, in annähernd zentraler Untersichtsperspektive konzipiert. Der Standort des Betrachters befindet sich unterhalb der Mitte des Freskofeldes, ein wenig gegen W hin versetzt. Das Panorama ist im W von einer Architekturkulisse, im O von einer Landschaftsszenerie gebildet. Die Architekturkulisse ist in der Art Pozzos durch mächtige, säulenbesetzte Pfeiler gebildet, zwischen denen sich drei nischenartige Räume öffnen. Diese Räume sind in starker Untersicht gegeben: ihr Boden ist entweder gar nicht oder als Rampe, scheinbar über den Bildrand ragend, von unten sichtbar. Den oberen Abschluß der schweren, wuchtigen Architektur bildet eine Balustrade mit Ziervasen. Darüber öffnet sich in lichten Wolken der Himmel, in dem musizierende Engel erscheinen.
+A LEBEN DES HL. JOHANNES DES TÄUFERS Der Bildaufbau des langgestreckten Deckengemäldes ist panoramaartig, in annähernd zentraler Untersichtsperspektive konzipiert. Der Standort des Betrachters befindet sich unterhalb der Mitte des Freskofeldes, ein wenig gegen W hin versetzt. Das Panorama ist im W von einer Architekturkulisse, im O von einer Landschaftsszenerie gebildet. Die Architekturkulisse ist in der Art Pozzos durch mächtige, säulenbesetzte Pfeiler gebildet, zwischen denen sich drei nischenartige Räume öffnen. Diese Räume sind in starker Untersicht gegeben: ihr Boden ist entweder gar nicht oder als Rampe, scheinbar über den Bildrand ragend, von unten sichtbar. Den oberen Abschluß der schweren, wuchtigen Architektur bildet eine Balustrade mit Ziervasen. Darüber öffnet sich in lichten Wolken der Himmel, in dem musizierende Engel erscheinen.
 
 In den Nischenräumen spielen sich Szenen aus der Johannesgeschichte ab. Man blickt durch die westliche Bogenöffnung in einen großartigen Kuppelraum, in dem Herodes auf einem über Stufen erhöhten Thron sitzt. Vor ihm tritt der Täufer, während Soldaten und, am Thron stehend, Herodias und Salome die Szene beobachten. Die beiden anderen Nischenräume, ähnlich aufgebaut, sind in ihrem Charakter anders. Durch Rustizierung der Säulen und Vergitterung der Kuppellaterne sind sie als Gefängnisräume bezeichnet. Im NW sieht man Johannes im Kerker durch ein seitliches, vergittertes Fenster spricht er mit zwei Jüngern und weist dabei auf seinen Kreuzstab. Im SW sieht man – ganz im Bildvordergrund wiedergegeben – den Leichnam des Heiligen. Salome nimmt das Haupt des Johannes vom Henker in Empfang.
 
@@ -62,12 +60,8 @@ Christus kniet im Zentrum auf einer steilen Erhebung; Johannes, neben ihm unter 
 
 
 [[File:Band01_chunk012_p021_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p591 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=22 -->
-<!-- citation-page-top: Band01 p592 -->
 
-<!-- header: WESSOBRUNN -->
 
 
 [[File:Band01_chunk012_p022_img001.jpg|thumb]]
@@ -126,12 +120,8 @@ A<sub>3</sub> Agnoscit Praesentem. — In einer weiten, stimmungsvollen Ruinenla
 
 
 A<sub>6</sub>
-<!-- citation-page-bottom: Band01 p593 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=23 -->
-<!-- citation-page-top: Band01 p594 -->
 
-<!-- header: WESSOBRUNN -->
 
 num nostrum Jesum Christum, quem alii in longa tempora futurum praescierunt, propriis oculis videre meruit.« Dieses Bild bezieht sich auf Johannes in seiner Eigenschaft als Vorläufer und Verkünder Jesu.
 
@@ -139,12 +129,10 @@ A4 Quantus erit cognoscitur. — Drei kleinere Pyramiden-Obeliske um einen grö�
 
 Ein ähnliches Emblem ist bei Boschius beschrieben (Classis 1, Nr. 28): drei Pyramiden mit dem gleichen Lemma und der Erklärung »Mensura Nili in Pyramidibus, e cuius altitudine fertilitatem anni metiuntur Aegyptij«. Es bezieht sich auf die Taufe Christi durch Johannes, bei der die Größe Christi sichtbar wurde.
 
-As Non manducans neque bibens (Mt 11,18). — Über einer öden Landschaft fliegt ein seltsam gebildeter Vogel. Es handelt sich um den Paradiesvogel, den Picinelli (Lib. 4 Nr. 483, s. v. monocodiata beschreibt: »Haec volucris... alis destituta, volat; et pedibus orba, graditur. Carnem pene nullam habet, totoque corpore oblonga cauda plumea tegi-<br>tur. Natales quidem suos e terra trahit; verum eam, quas designata, nunquam contingit. Denique, quod maxime mireris, crescit, vivit et generat, nec tamen comedit vel bibit unquam. Unde D. Aresius Monocodiatae Emblemate S Joannem Baptistam, Eremi incolam, depinxit; subjuncto D. Matthaei lemmate. NON MANDUCANS NEQUE BIBENS.« – Das gleiche Emblem bei Boschius, Classis 1, Nr. 769, bezieht sich ebenfalls auf Johannes den Täufer in der Wüste.
+As Non manducans neque bibens (Mt 11,18). — Über einer öden Landschaft fliegt ein seltsam gebildeter Vogel. Es handelt sich um den Paradiesvogel, den Picinelli (Lib. 4 Nr. 483, s. v. monocodiata beschreibt: »Haec volucris... alis destituta, volat; et pedibus orba, graditur. Carnem pene nullam habet, totoque corpore oblonga cauda plumea tegitur. Natales quidem suos e terra trahit; verum eam, quas designata, nunquam contingit. Denique, quod maxime mireris, crescit, vivit et generat, nec tamen comedit vel bibit unquam. Unde D. Aresius Monocodiatae Emblemate S Joannem Baptistam, Eremi incolam, depinxit; subjuncto D. Matthaei lemmate. NON MANDUCANS NEQUE BIBENS.« – Das gleiche Emblem bei Boschius, Classis 1, Nr. 769, bezieht sich ebenfalls auf Johannes den Täufer in der Wüste.
 
 As Praecedet (anknüpfend an Lc 1,17). - Die Sonne geht über einer lieblichen Landschaft auf; am Himmel steht der Morgenstern. - Picinelli (Lib. 1, Nr. 50, s. v. aurora) bezieht das Bild der Morgenröte auf die Geburt Johannes des Täufers, des Vorläufers Jesu: »PRAEVIA SOLIS«. Ähnlich bei Boschius (Classis 1, Nr. 765): Morgenstern und aufgehende Sonne »PRAESENTUM NUNTIAT«.
 
 B DIE APOKALYPTISCHE VISION DES HL. JOHANNES Die Vision des Evangelisten (Apoc 12,1–18) ist der späteren Tradition gemäß auf die Insel Patmos verlegt. Dem biblischen Text folgend ist das apokalyptische Weib geflügelt, mit den Gestirnen des Himmels wiedergegeben. Der Engel trägt den Knaben zu Gott empor. Das apokalyptische Weib ist im Typus der Immaculata gezeigt, als solche zertritt es der Schlange des Paradieses den Kopf (Gen 3,15). Michael stürzt den siebenköpfigen, gekrönten Drachen Satan. Anstelle des siebenten Tierkopfes und Schlangenhalses ist hier ein menschlichen Oberkörpers wiedergegeben. Von diesem gehen Schlangen und Fledermäuse aus. Es ist eine Vermischung der traditionellen Bildtypen Satans. Vielleicht soll aber der Menschenkörper mit Schlangen und Fledermäusen speziell auf die Häresie, auf die gegen die katholische Mariologie gerichteten häretischen Angriffe hinweisen.
 
 Literatur siehe S. 599
-
-{{End}}

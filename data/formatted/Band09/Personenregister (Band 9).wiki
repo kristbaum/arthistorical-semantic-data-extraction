@@ -86,10 +86,7 @@ Georg der Reiche, Herzog von Niederbayern 50, 173
 Gerardus, Bruder Bernhards von Clairvaux 159  
 Gero, Abt von Raitenhaslach 149, 166  
 
-<!-- citation-page-bottom: Band09 p249 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk006.pdf#page=1 -->
-<!-- citation-page-top: Band09 p250 -->
 
 Giggenbach, Maria Franziska, Oberin in Altötting 24, 28 Gisela, Königin von Ungarn 54, 57 Glonner, Franz Anton (sen.), Maurermeister in Burghausen 63, 185, 191, 212–16 Glonner, (Franz) Anton (jun.), Maurer in Burghausen 191, 216 Glonner, Franz Joseph, Maurermeister in Burgnausen 235 Godefried von Auxerre, Abt von Clairvaux 156 Godeschalk, Abt von Morimond 166 Goerge, Dieter, Heimatpfleger von Tittmoning 7 Gottschalk, Abt von Heiligenkreuz 168 Grans, Familie 150, 211 Gregor VII., Papst 115 Gröz/Kröz, Brigitta 243 Gröz/Kröz, Johann Christoph, Maler in Burgnausen 45, 243 Gröz/Kröz, Johann Wolfgang Xaver, Maler in Burghausen 243 Gröz/Kröz, Joseph Franz Xaver, Maler in Burgnausen 243 Gschwendtner, Georg, Restaurator 95
 
@@ -115,10 +112,7 @@ Sprengeisen, Lorenz, Pfarrer von Sankt Johann 217 Ständlmayr, Stadtschreiber in
 Tattenbach, Grafen von 193 Tempesta, Antonio, Kupferstecher 157 Tescelin, Vater Bernhards von Clairvaux 158f. Theobald Weissenbach, Abt von Raitenhaslach 151, 214 Theodo II., Herzog von Bayern 19, 114 Theophilus von Kilikien 55f., 62f. Therese Kunigunde, Gemahlin Max Emanuels 233 Thomas von Aquin 89, 135 Törring, Grafen von, Herren von Tüßling 98, 230 Törring, Johann Veit I. Freiherr von 230f. Törring, Johann Veit II. Freiherr von 231 Troger, Paul, Maler 245 Troyer, Thomas SJ, Baumeister 19f.
 
 Verona (Bern), Herren von 240 Vierthaler, Michael, Maurermeister und Stuckator in Mauerkirchen 7, 44 Viktor IV., Gegenpapst 162 Vilzkotter, Joseph, Maurermeister in Steckenbach/OÖ 151 Vilzkotter, Thomas, Maurermeister in Braunau
-<!-- citation-page-bottom: Band09 p251 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk006.pdf#page=2 -->
-<!-- citation-page-top: Band09 p252 -->
 
 Virgil, Bischof von Salzburg 94 Vitzthum, Fa. 20, Vitzthum, Maler 232 Vitzthum und Schlee, Fa. 23, 26 Vitzthum, Valentin, Restaurator 30 Vogl, Jakob, Maler in Obernberg 245 Vogl, Johann Anton, Maler in Landshut 7, 223-29 245 Vogl. Johann Paul, Maler in Kößlarn, 245
 
@@ -127,6 +121,3 @@ Vogl, Johann Paul, Maler in Kößlarn 249 Vogl, Maria Margareta geb. Lederer 245
 Wald, Edle von 241 Warathi, Elias, Maler in Stilfes 245 Warathi, Maria Elisabeth 243, 245 Warathi, Innozenz Anton, Maler in Burghausen 7,44-50,63-65,70-74,245 Warathi, Maria Franziska 245 Warathi, Maria Theresia Cäcilia geb. Mähninger 245 Ward, Maria, Gründerin der Englischen Fräulein 70 Wartenberg, Grafen von 7, 98, 232, 241 Wartenberg, Maria Johanna Baptista Gräfin von, geb. Melun d'Epinois 98f., 223f., 233, 244 Wartenberg, Max Emanuel Graf von 99 Wartenberg, Ferdinand Marquard Joseph Antonius Graf von 89, 98f., 224, 230, 233 Wartenberg, Franz Wilhelm Graf von, Propst von Altötting 217 Wechselberger, Hans, Baumeister in Burghausen 95 Weidinger, Matthias, Maurermeister in Neuötting 24, 223 Weinast, Heinrich, Maler in Tüßling 100 Werner, Abt von Heiligenkreuz 166 Widmann, Augustin, Sekretär in Tüßling 23 Widmann, Emmeram, Stuckator 152 Wieleitner, Oskar, Restaurator 76 Wieser, Regierungsregistrator in Burghausen 30 Wilhelm von Aquitanien 154, 164 Wilhelm von Maleval, Gründer der Wilhelmiten 60-63, 164 Wilhelm V. der Fromme, Herzog von Bayern 19, 22, 115 Wilhelm IX., Herzog von Poitou 162, 164 Will, Matthias, Kistler in Burghausen 81 Wink, Thomas Christian 7, 20, 192f., 245 Wolfer von Wasentegernbach, Stifter in Raitenhaslach 149, 166, 173, 188, 201, 205 Wolfer von Wasentegernbach d.J. 166 Wolff, Johann Andreas, Maler in München 24, 245
 
 Zahler, Johann von, Pflegsverwalter von Wald 89 Zanussi 245 Zattler, Franz Xaver, Maler in Wurmannsquick 144, 225 Zeiller, Johann Jakob, Maler 7 Zerle, Hans, Stuckator 26 Zernickel, Helmut, Restaurator 7, 128 Zettl, P. Paul, Rektor des Kollegs Burghausen 45 Zick, Januarius, Maler 214, 245 Zick, Johann, Maler in München 7, 128, 152, 154–76, 185f., 188, 213, 245 Zick, Ulrich, Schmied in Lachen 245 Ziegler, Johann Georg, Maler in Tüßling 224 Zimmer, Franz Xaver, Maler in Wurmannsquick Zimmermann, Franz Michael, Maler in München 120, 245 Zimmermann, Johann Baptist, Maler und Stuckator in München 7, 82, 106, 119–24, 126, 128, 151, 154, 178, 182, 194, 232, 243–45 Zimmermann, Johann Joseph 245 Zimmermann-Werkstatt 119, 182, 243, 245 Zimmermann, Joseph Anton, Kupferstecher 126 Zöpf, Joseph Clemens von 45, 48 Zuccalli, Enrico, Architekt 19f. Zunhamer, Martin, Restaurator 7, 46, 65, 106, 156,
-
-
-{{End}}

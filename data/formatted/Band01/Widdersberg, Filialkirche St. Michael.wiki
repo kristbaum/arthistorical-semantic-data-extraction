@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p362 -->
 
-<!-- header: WIDDERSBERG -->
 
 
 == WIDDERSBERG ==
@@ -84,15 +82,6 @@ Die beiden Freskodarstellungen sind thematisch eng aufeinander bezogen: Der himm
 
 
 Braun-Augsburg, Bd 1, S. 362 f. (s. v. Erling). Dehio-Gall OB (1964), S. 153.
-<!-- citation-page-bottom: Band01 p363 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=8 -->
-<!-- citation-page-top: Band01 p364 -->
 
 LANDKREIS WEILHEIM-SCHONGAU
-
-<!-- citation-page-bottom: Band01 p365 -->
-
-<!-- citation-page-top: Band01 p366 -->
-
-{{End}}

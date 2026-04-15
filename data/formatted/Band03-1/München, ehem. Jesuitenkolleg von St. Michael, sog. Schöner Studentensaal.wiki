@@ -19,12 +19,8 @@ EHEM. SAAL DER GROSSEN LATEINISCHEN KONGREGATION, sog. Schöner Studentensaal; S
 Am 23. Mai 1698 Bericht über die Bauarbeiten; Veränderung von Vorraum und Treppenaufgang, neue Einwölbung unter Einbeziehung des darübergelegenen Mezzaningeschosses, wo bis dahin die Congregatio Minor ihren Sitz gehabt hatte (Beschreibung 1750, S. 54: »Congreg. Mino war vorhero oberhalb der Alt: grossen Congr: nachdem aber selbige i ezige form aufgericht, Ist diese auch in der vorherigen Rhetorii Schu eingeführt«; Randnotiz »Minor in ablong Rundell fenstern«).
 
 1698 mehrere Gesamtentwürfe zur Innenraumgestaltung von Johann Andreas Wolff und einem nicht genannten Stukkator (Hoermann, Delinationes, Bl. 11, 12, 13, 14). Stuckierung der Decke durch Johann Georg Bader (869 fl.); fertiggestellt am 27. September 1698. Am 21. November 1698 fand in dem neugestalteten Kongregationssaal der erste Konvent statt (Continuatio, BSB, Cod. lat. 1552). Die einzige bekannte Bildquelle zur Gestalt des Kongregationssaales sind zwei aquarellierte Prospekte von unbekannter Hand, bis 1935 in der Sakristei der Dreifaltigkeitskirche nachweisbar (z. Z. verschollen, Abb. aus Steinbart, Greiff, Berlin 1935 Tafel 28). Das Datum MDCCLII, das in einem der Prospektzeichnungen im Hauptdeckenbild eingetragen war, ist vielleicht als Entstehungsdatum
-<!-- citation-page-bottom: Band03-1 p235 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band03-1 p236 -->
 
-<!-- header: EHEM. JESUITENKOLLEG -->
 
 der Skizze zu interpretieren. Dem Datum entspricht stilistisch die dargestellte Stuckdekoration, die in der Deckenaufteilung andererseits jedoch exakt mit dem Entwurf Hörmanns (Bl. 14) übereinstimmt: Ohne photographisches Bildmaterial läßt sich nicht feststellen, ob dieser Stilbefund auf eine Neustuckierung der Decke um die Mitte des 18. Jhs. oder auf eine zeitgemäße Interpretation des Prospektzeichners zu beziehen ist.
 
@@ -104,12 +100,8 @@ Johann Andreas Wolff, Entwürfe zur Wand- und Deckengestaltung der 🗅 Großen 
 
 
 [[File:Band03-1_chunk005_p019_img005.jpg|thumb|Johann Andreas Wolff, Entwürfe zur Deckengestaltung der Großen Lateinischen Kongregation 1698, in: Johannes Hoermann, Delineationes...Blatt 13 und 14, München Bayerische Staatsbibliothek]]
-<!-- citation-page-bottom: Band03-1 p237 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band03-1 p238 -->
 
-<!-- header: EHEM. JESUITENKOLLEC -->
 
 
 == Rekonstruierende Beschreibung und Ikonographie ==
@@ -137,14 +129,9 @@ Unten: Ansicht nach S, zur Orgelempore, erkennbar die Deckenbilder A, 7, 8, 1 un
 
 
 [[File:Band03-1_chunk005_p020_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p239 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=21 -->
-<!-- citation-page-top: Band03-1 p240 -->
 
-<!-- header: EHEM. IESUITENKOLLEG -->
 
-<!-- header: W<sub>6</sub> HL. FILIPPO NERI von Johann Adam Müller »Philippus Nerius mit brünstiger Andacht vor einem Marienbild betend: sein Schutzengel hinter ihm« (Rittershausen, S. 108). – Filippo Neri begründete den Oratorianerorden. -->
 
 W<sub>7</sub> HL. FRANZISKUS VON ASSISI von Johann Georg Winter »Franciscus von Assisi erhält von der göttlichen Mutter das Kind Jesus in seinen Arm; aus der Glorie schwebt der himmlische Vater herab« (Rittershausen, S. 108/109). – Franziskus ist Gründer des Franziskanerordens.
 
@@ -182,11 +169,8 @@ Uber dem Muttergottesaltar an der S-Seite soll sich ein Bild (=Rundel) von Johan
 
 Das gesamte Programm umkreiste wahrscheinlich die barmherzige und tugendreiche Unbefleckte Maria, die in dem Mittelbild der Decke gezeigt wurde. Gleichzeitig ist aus den Wandbildern (W<sub>1-10</sub> und W<sub>a-f</sub>) ein historischer Anspruch herauszulesen, mit dem sich die Jesuiten in die Reihe großer Vorgänger bzw. Orden eingliedern.
 
-<!-- header: EHEM. JESUITENKOLLEG -->
 
 Ehem. Bibliothek der Jesuiten, zwei ineinander übergehende Bibliotheksräume; Wening spricht von einer »dopplete(n) mit Büchern wol eingerichte(ten) und schönen Gemählen gezierte(n) Bibliothec«, die er im Zusammenhang mit den Höfen, nicht mit dem vorderen zur Straße gerichteten Schul- und Kongregationstrakt erwähnt. Nach Plänen des 19. Jh. (BHStAI, PLS 12053) können die beiden Räume in dem an die Kirche in Höhe des westlichen Querarms rechtwinklig angrenzenden Kollegtrakt lokalisiert werden, und zwar im zweiten Obergeschoß. Mit dieser Ortung deckt sich auch Burgholzers Beschreibung der Raumabfolge in diesem Geschoß (Bd 1, 1795, S. 234–248). Die Bibliothek ist nicht zu verwechseln mit der 1783/84 ausgestatteten ehem. Hofbibliothek, vor der Säkularisation sog. Studentenbibliothek, die im gleichen Schultrakt im Geschoß an der Straßenfront lag (s. Volk).
 
 
 == Saal ==
-
-{{End}}

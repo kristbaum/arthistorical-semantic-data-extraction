@@ -12,9 +12,7 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band10 p110 -->
 
-<!-- header: ILLDOR -->
 
 
 == ILLDORF ==
@@ -58,14 +56,9 @@ Erhaltungszustand und Restaurierungen: 1856 wurde die damals vorhandene Ausmalun
 
 
 [[File:Band10_chunk003_p005_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p111 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=6 -->
-<!-- citation-page-top: Band10 p112 -->
 
-<!-- header: ILLDORE -->
 
-<!-- header: ILLDORF -->
 
 rechts Johannes im Gefängnis und links den Hohenpriester Zacharias« (ABA, Pfarrarchiv Illdorf, Geschichtliche Mitteilung von 1856). 1860 wurde die Kirche instandgesetzt, Kirchenstühle und Pflaster repariert, Dachrinnen angebracht, das Innere gestrichen und getönt, die Maler- und Vergolderarbeiten durch Kaspar Nerlinger, Neuburg, ausgeführt. Von den Fresken ist dabei nicht die Rede. Bei einer erneuten Innenrenovierung von 1878 wurde die Kirche getüncht und dabei an der Decke das Fresko mit der Taufe Christi überstrichen (Schreiben des Pfarrers von Illdorf an das BLfD vom 12.11.1913 anläßlich einer geplanten Neutünchung), wahrscheinlich auch alle andern Fresken in der Kirche. 1903 wurde der Chor neu ausgemalt. Dafür reichte Adolf Mock, Maler und Bildhauer in Neuburg, am 23. 3. 1903 einen Kostenvoranschlag ein, der vorsah, den Plafond und die Wände in Leimfarbe nach beigelegten Zeichnungen zu malen sowie in die Felder ornamentale Verzierungen, unten dagegen einen Sockel von 1,50 Meter Höhe in Ölfarbe. Dieser Zustand, mit einem IHS-Zeichen in rundem Feld in der Mitte der Decke, ist auf einer alten Postkarte zu sehen (StA Augsburg, BA Neuburg, Nr. 4673 f, Foto Nr. 65677).
 
@@ -114,12 +107,8 @@ Nach der Beschreibung von 1856 befanden sich keine Gemälde in den Stichkappen, 
 
 
 a-d WEISSAGUNGEN DES ISAIAS ZU JOHANNES DEM TÄUFER Die kleinen Nebenbilder beziehen sich auf die ehemals im Chorscheitel gemalte Darstellung Johannes des Täufers als Bußprediger und Vorläufer Christi. Die gewählten Schriftstellen enstammen alle den Weissagungen des Propheten Isaia. Nach Mt 3, 3 ist Johannes der Täufer derjenige, von dem Isaia gesagt hat: »Eine Stimme ruft in der Wüste: Bereitet den Weg des Herrn. Macht seine Straßen eben«. Durch seinen Ruf zu Buße und Umkehr wird das Wirken Johannes des Täufers in Parallele gesetzt zur Sendung des Isaia, gleichzeitig weist es auf den Messias voraus. Die Bilder sind keine eigentlichen Embleme, sondern Illustrationen zu den Textstellen in Emblemform.
-<!-- citation-page-bottom: Band10 p113 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=7 -->
-<!-- citation-page-top: Band10 p114 -->
 
-<!-- header: ILLDORF -->
 
 
 [[File:Band10_chunk003_p007_img001.jpg|thumb]]
@@ -147,6 +136,3 @@ ABA, Pfarrarchiv Illdorf: Geschichtliche Mitteilung von 1856; 2 Aquarelle von Ka
 
 
 LÄNGLOH
-
-
-{{End}}

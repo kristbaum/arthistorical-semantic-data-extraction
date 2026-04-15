@@ -12,11 +12,8 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p232 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · HOGLWORTH -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · HÖGLWÖRTH -->
 
 
 == Winterchor ==
@@ -78,12 +75,8 @@ F Höhe 3,55 m; 0,80×1,20
 G Höhe 3,55 m; 1,50×1,20
 
 Erhaltungszustand und Restaurierungen: Schon 1975 waren Wand- und Deckenbilder durch einen Wassereinfall stark beschädigt, einige waren weitgehend zerstört (A und G). In der Südostecke war der Stuck durch die Feuchtigkeit verdorben. Nach einem Gutachten Sigmund Benkers 1976 war »seit der
-<!-- citation-page-bottom: Band11 p233 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=18 -->
-<!-- citation-page-top: Band11 p234 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · HÖGLWÖRTH -->
 
 
 [[File:Band11_chunk005_p018_img001.jpg|thumb]]
@@ -141,14 +134,9 @@ Vier Schriftkartuschen befinden sich an den Gewölbezwickeln bei C und D. An der
 
 
 [[File:Band11_chunk005_p018_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band11 p235 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band11 p236 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · HOGLWORTH -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · HÖGLWÖRTI -->
 
 
 [[File:Band11_chunk005_p019_img001.jpg|thumb]]
@@ -198,6 +186,3 @@ Hunklinger, Georg und Josef Wegner, Höglwörth (= Kleine Pannonia-Reihe Nr. 68)
 
 
 == Fürstensaal ==
-
-
-{{End}}

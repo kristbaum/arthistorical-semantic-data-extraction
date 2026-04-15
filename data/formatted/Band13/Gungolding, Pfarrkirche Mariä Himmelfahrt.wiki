@@ -12,7 +12,6 @@
 |AutorIn1=Grimminger, Christina
 }}
 
-<!-- citation-page-top: Band13 p256 -->
 
 == GUNGOLDING ==
 
@@ -37,10 +36,7 @@ LHs (17,40 × 9,20 m) zu vier Fensterachsen, eingezogener und ausgeschiedener, g
 
 
 [[File:Band13_chunk006_p004_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p257 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=5 -->
-<!-- citation-page-top: Band13 p258 -->
 
 der Werkstatt des Eichstätter Malers Matthias Zink greifbar. So zeigen einige der Gewänder im Hauptbild A die Vorliebe Dietrichs für changierende Farbzusammenstellungen, die ebenso im Werk Zinks nachweisbar ist. Ferner sind die Dietrich'schen Evangelisten der Kanzel in Gungolding Kopien der Zink'schen Kanzel-Evangelisten in Hitzhofen von 1722 (siehe S. 281 und 286).
 
@@ -88,14 +84,9 @@ SZENEN AUS DER KINDHEIT JESU Die beiden mittleren Bilder (Zwölfjähriger Jesus 
 
 
 [[File:Band13_chunk006_p005_img001.jpg|thumb|Die Langhausdecke mit A Himmelfahrt Mariens, 1-4 Szenen aus dem Leben Mariens (Joseph Dietrich 1740)]]
-<!-- citation-page-bottom: Band13 p259 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=6 -->
-<!-- citation-page-top: Band13 p260 -->
 
-<!-- header: GUNGOI DING -->
 
-<!-- header: GUNGOLDING -->
 
 
 [[File:Band13_chunk006_p006_img001.jpg|thumb|B Krönung Mariens]]
@@ -137,7 +128,3 @@ C. G
 
 
 [[File:Band13_chunk006_p006_img003.jpg|thumb|EB 1-4 Szenen aus der Kindheit Jesu]]
-<!-- citation-page-bottom: Band13 p261 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=7 -->
-{{End}}

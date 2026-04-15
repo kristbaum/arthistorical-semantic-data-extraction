@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p386 -->
 
 == NUSSDORF AM INN ==
 
@@ -50,12 +49,8 @@ Die Kirche steht am Rande des Dorfes frei. Sie ist, wie bei Leonhardskirchen öf
 Unter der Inschriftkartusche in B, die 1898 neu gemalt wurde, las Bomhard noch das durchscheinende Datum Ao. 1760. Als Autoren schlägt er Joseph Höttinger oder Simon Zaglacher vor (S. 334).
 
 Eine eigentliche Zuweisung der Fresken ist wegen der im Detail völlig verändernden Übermalung von 1898 nicht möglich. Für Höttinger oder Zaglacher spricht die historische
-<!-- citation-page-bottom: Band12 p387 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=20 -->
-<!-- citation-page-top: Band12 p388 -->
 
-<!-- header: NUSSDORF -->
 
 Wahrscheinlichkeit. Der Rosenheimer Maler Joseph Höttinger freskierte viel im Gericht Rosenheim und arbeitete mit Andreas Vordermayr auch anderwärts zusammen (Lauterbach 1750/55, Höhenmoos um 1750, beide Freskierungen nicht erhalten). Gegen Höttinger sprechen aber die Kompositionen, die mit denen seiner für ihn gesicherten und gut erhaltenen Freskierungen (Frasdorf 1761 und Kleinhöhenkirchen 1773, CBD, Bd 2, S. 517-22) nichts zu tun haben, sowie das Fehlen für Höttinger typischer Figuren. Wenn Hitzinger bei der Übermalung 1898 die Bild- und Figurenkompositionen nicht verändert hat, dann kommt Höttinger als Autor nicht in Frage. Freskant in Nußdorf war wohl Simon Zaglacher, weil er als Maler in Erl ansässig und Erl der Pfarrsitz von Nußdorf war. Er renovierte 1768 die Deckenbilder in Sachrang. In Roßholzen sind Altarbilder von seiner Hand erhalten
 
@@ -95,14 +90,9 @@ a Salvant haec signa Salutis (Diese Zeichen des Heils retten). Auf dem aufgewüh
 
 
 [[File:Band12-2_chunk002_p020_img001.jpg|thumb|Das Kirchengewölbe, in der Mitte B Bruderschaftsbild und die Zwickelbilder b-g, I-II (Simon Zaglacher 1760)]]
-<!-- citation-page-bottom: Band12 p389 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=21 -->
-<!-- citation-page-top: Band12 p390 -->
 
-<!-- header: NUSSDORF -->
 
-<!-- header: NUSSDOR -->
 
 
 [[File:Band12-2_chunk002_p021_img001.jpg|thumb]]
@@ -163,14 +153,10 @@ C<sub>a-d</sub> EMBLEMÄHNLICHE DARSTELLUNGEN Vier Bilder mit Inschriften in den
 
 
 [[File:Band12-2_chunk002_p021_img006.jpg|thumb|Ambrosius]]
-<!-- citation-page-bottom: Band12 p391 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=22 -->
-<!-- citation-page-top: Band12 p392 -->
 
 NUSSDORF
 
-<!-- header: NUSSDORF -->
 
 
 [[File:Band12-2_chunk002_p022_img001.jpg|thumb]]
@@ -263,7 +249,3 @@ Historischer Atlas I, Bd 38 Rosenheim. Die Landgerichte Rosenheim und Auerburg u
 Dehio 1990, S. 890 f.
 
 A.B
-<!-- citation-page-bottom: Band12 p393 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=23 -->
-{{End}}

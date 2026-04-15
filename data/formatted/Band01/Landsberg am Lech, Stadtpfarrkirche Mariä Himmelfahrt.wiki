@@ -15,7 +15,6 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p126 -->
 
 == LANDSBERG AM LECH ==
 
@@ -74,10 +73,7 @@ A ST. VEIT ALS PATRON DER PFARREI Einansichtige Bildanlage, Basis im Westen. —
 Die Hauptfiguren des Bildes, Maria mit dem Jesusknaben und der hl. Veit, sind auf horizontalen Wolkenbänken untereinander wiedergegeben — im Sinne einer mittelalterlichen Heiligenverehrung, bei welcher die Muttergottes als Patronin der Stadt und der hl. Veit als Nebenpatron dargestellt werden. 
 
 [[File:Band01_chunk003_p014_img001.jpg|thumb|A St. Veit Patron der Pfarre]]
-<!-- citation-page-bottom: Band01 p127 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=15 -->
-<!-- citation-page-top: Band01 p128 -->
 
 [[File:Band01_chunk003_p015_img001.jpg|thumb|C St. Sebastian Patron der Stad]]
 
@@ -110,14 +106,9 @@ Dem ursprünglichen Patron der Landsberger Stadtpfarrkirche St. Veit ist im W de
 
 Während in EU — direkt über dem Altar — St. Veit sinngemäß in einer Gloriendarstellung wiedergegeben ist, zeigt das Gewölbefresko A den Heiligen als Patron, der die Strafe Christi von der Pfarrgemeinde abwendet. Dieser Darstellung der Pestheilige, seine Pfeile weisen nicht nur auf sein Martyrium hin, sondern sind zugleich Symbol der Pest, so wie auch der Pfeil Gottes auf das Übel der Pest hinweisen kann. Veit, Patron der Epileptiker und anderer Geisteskranker, ist seit dem 15. Jh. einer der Vierzehn Nothelfer. Beide Heilige haben während des Barocks große Bedeutung im Kult und daher auch in den bildlichen Darstellungen der Pestbilder. Der zürnende Gott ist hier durch Christus in zwei verschiedenen Bildmotiven dargestellt. Während der blitzeschleudernde Christus - der auferstandene Salvator (Purpurmantel, Seitenwunde) — als Bildform üblich ist (vgl. LCI, Bd 1, s. v. Christus, Christusbild, Sp. 442) ist der pfeileschleudernde Jesusknabe auf dem Schoß seiner Mutter als weiteres Motiv übernommen.
 
-<!-- citation-page-bottom: Band01 p129 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=16 -->
-<!-- citation-page-top: Band01 p130 -->
 
-<!-- header: LANDSBERG AM LECH -->
 
-<!-- header: LANDSBERG AM LECH -->
 
 
 [[File:Band01_chunk003_p016_img001.jpg|thumb|EU St. Veit in der Glorie]]
@@ -170,14 +161,9 @@ EU<sub>3</sub> SEMEN CHRISTIANVM (=christianum) - Lilien, Rosen und Tulpen in ku
 EU<sub>4</sub> EO FECUNDIOR (= fecundior) — Eine Hand aus dem Himmel beschneidet mit einer Hippe die Triebe dreier Weinstöcke. Picinelli, Liber 9, s. v. vitis, gibt einige sinngemäße Embleme; Nr. 517: Für die »Calamitas utilis« steht der beschnittene Weinstock mit dem Lemma »RECISA FOECUNDIOR«. Durch das Leiden wird der Heilige groß. Diese vier Embleme haben das Motiv der aus dem Himmel handelnden Hand gemeinsam, und zwar als typisch emblematisches Handlungsmotiv, nicht wie die Sonne in den vier Langhausemblemen als sinntragender Bezugspunkt. Die Embleme verdeutlichen den Sinn des christlichen Martyriums, hier speziell bezogen auf St. Veit.
 
 Maria ist seit dem 15. Jh. die Hauptpatronin der Stadtpfarrkirche. Der Hochaltar zeigt die Huldigung der Erd-
-<!-- citation-page-bottom: Band01 p131 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=17 -->
-<!-- citation-page-top: Band01 p132 -->
 
-<!-- header: LANDSRERG AM LECH -->
 
-<!-- header: LANDSBERG AM LECH -->
 
 
 [[File:Band01_chunk003_p017_img001.jpg|thumb]]
@@ -200,5 +186,3 @@ Schmidt, Hermann, Landsberg am Lech (= Deutsche Kunstführer Rd 41), Augsburg 19
 Hofmann, Sigfrid, Beiträge zur Kunstgeschichte der Stadtpfarrkirche zu Unserer Lieben Frau in Landsberg am Lech (Wissenschaftliche Veröffentlichungen des Heimatpflegers von Oberbayern, Heft 6), Schongau 1955.
 
 Schmidt, Hermann und Hugo Schnell, Stadtpfarrkirche Landsberg am Lech (= KKF 88), München <sup>2</sup>1961.
-
-{{End}}

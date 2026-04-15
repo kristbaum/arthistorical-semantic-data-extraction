@@ -41,12 +41,8 @@ Am 10. Oktober 1664 wurde an der Franziskaner-/Minoritenkirche eine Bruderschaft
 '''Zum Bauwerk:''' Das »Archivium Novum…« überliefert der Baubeginn der Kapelle: »ao. 1700... ist von... Grafen vor Montfort die hl. Antonj Capellen erbauet und der 1. Stain der 21. April gelegt worden«. Bernhardin Lins, der dieses Repertorium benützt hat, ergänzt weitere Daten der Baugeschichte (S. 97): »Die Antonius-Kapelle wurde im Jahr 1700 durch Gra Montfort erbaut. Am 21. April war die Grundsteinlegung und
 
 im selben Jahr wurde sie noch fertig gestellt. Die Gruft in der selben, die als Familiengrab der gräflichen Familie diene sollte, wurde am 15. April 1701, die Kapelle selbst am 1. Ma durch den Guardian Illuminat Stromer benediziert. Ar 27. Juli 1708 wurde dann die Kapelle durch den Weihbische Johann Adam Nieberlein konsekriert; das jährliche Kirch weihfest derselben wurde am Sonntag vor Portiunkul (2. August; 1701 am 31. Juli) in der Art gehalten, dass einer de Patres während der Oktav das Officium Dedicationis bete musste.« Ebenso zitiert Lins eine frühere Inschrift an der west lichen Seitenwand, die Anton von Montfort als den Erbaue und das Datum der Einsegnung überlieferte: »D. T. O. M. S. Antonio de Padua Illust(rissi)mus et Excell(entissi)mu Dominus... Antonius de Montfort... Sacellum hoc cui Sepultura Sui, Suorumque exstrui et ornari fecit Ann MDCCI« (nach Monumenta S. 118). Das damalige Altarbil schuf Jakob Loets (Lins, 1918, S. 93, Anm. 4); wohl identisc mit dem bei Thieme-Becker verzeichneten gleichnamige
-<!-- citation-page-bottom: Band14 p37 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=20 -->
-<!-- citation-page-top: Band14 p38 -->
 
-<!-- header: INGOLSTADT FRANZISKANERKIRCHE -->
 
 [[File:Band14_chunk001_p020_img001.jpg|thumb]]
 
@@ -89,10 +85,7 @@ Guardiane des Klosters waren P. Illuminat Stromer (1699- 1701) zur Erbauungszeit
 
 
 Träger der Deckenmalerei: Tonnengewölbe mit Stichkappen Rahmen: Stuckrahmungen mit Voluten, teilweise asymmetrisch und mit Anklängen an Knorpelwerk
-<!-- citation-page-bottom: Band14 p39 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=21 -->
-<!-- citation-page-top: Band14 p40 -->
 
 [[File:Band14_chunk001_p021_img001.jpg|thumb|B Errettung des verurteilten Vaters]]
 
@@ -113,5 +106,3 @@ B ERRETTUNG DES VERURTEILTEN VATERS Eine Art Stadttor teilt das Bild in zwei Hä
 [[File:Band14_chunk001_p021_img003.jpg|thumb]]
 
 Am linken Bildrand steht eine gelb gekleidete sehr kleine Figur; auch der hl. Antonius schwebt als kleine Gestalt auf Wolken auf sie zu und fasst an das Bett.
-<!-- citation-page-bottom: Band14 p41 -->
-{{End}}

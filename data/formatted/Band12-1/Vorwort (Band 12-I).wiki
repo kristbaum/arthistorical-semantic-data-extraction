@@ -10,10 +10,7 @@
 |AutorIn1=Büttner, Frank
 |AutorIn2=Rupprecht, Bernhard
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk001.pdf#page=4 -->
-<!-- citation-page-top: Band12 p6 -->
 
-<!-- header: VORWORT -->
 
 Der heutige Landkreis Rosenheim wurde bei der Gebietsreform 1972 bedeutend vergrößert, indem ihm weite Teile der ehemaligen Landkreise Aibling und Wasserburg zugeschlagen wurden. Wegen seines Umfangs muß der vorliegende Band in zwei Teilen ediert werden, und zwar in alphabetischer Aufteilung: Teil I Aising bis Hohenaschau, Teil II Jakobsberg bis Windhag.
 
@@ -50,5 +47,3 @@ Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für d
 Das Zustandekommen dieses Bandes war nur möglich durch das großzügige Entgegenkommen von Herrn Landrat Dr. Max Gimple und die finanzielle Unterstützung der Umwelt-, Kultur- und Sozialstiftung im Landkreis Rosenheim sowie der Sparkasse Rosenheim-Bad Aibling, die spontan mit ihren großzügigen Spende die Drucklegung ermöglichten. Herrn Ludwig Weinberger, Rosenheim, danken wir sehr herzlich für die Betreuung des Projekts mit Rat und Tat und für seine hilfreiche Vermittlung.
 
 Frank Büttner und Bernhard Rupprecht
-<!-- citation-page-bottom: Band12 p7 -->
-{{End}}

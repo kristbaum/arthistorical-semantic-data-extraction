@@ -12,11 +12,8 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band03-2 p560 -->
 
-<!-- header: →BUCENTAUR -->
 
-<!-- header: >BUCENTAUR -->
 
 Kurfürstliches Prunkschiff auf dem Starnberger See, 1758 abgewrackt; zwei Deckenbilder erhalten
 
@@ -107,14 +104,9 @@ III–IV Zwei nebeneinander liegende Kabinette (je ca. 4 m × ca. 2,75 m; zu den
 I Der Saal scheint keine Holzfelderdecke gehabt zu haben wie die Kabinette und das Vorzimmer. Für diese werden in den sehr detaillierten Rechnungen entsprechende Kistlerarbeiten aufgeführt, für den Saal jedoch nicht. Möglicherweise war, wie beim venezianischen »Bucintoro«, der allgemein als Vorbild diente, der Saal durch eine gewölbte Holzkonstruktion nach oben abgeschlossen. Eine leichte Wölbung wird von Bretagne für das obere Deck des bayerischen Schiffs bezeugt (Schober, S. 39). In Venedig war das Innere mit rotem Samt ausgeschlagen, für das hiesige Schiff gibt Westenrieder (S. 30) an, die Decke des Saals sei auf rotem Grund mit Früchten und Blumen bemalt gewesen. Diese Malerei stammte wohl von Caspar Amort (s.o.). Von ihr ist weder beim Abbruch des Schiffes die Rede, noch ist sie im Inventar aufgeführt. Es war wohl eine Dekorationsmalerei auf starker Leinwand (Federitt), wie sie auch für die Wände des Schiffs (Inventar, Nr. 75-83) und für die Außenbemalung des Schiffs rumpfes bezeugt ist. In allen Fällen diente Federitt als Bildträger. Man kann vermuten, daß Amort, der sehr viele Bühnen- und Festdekorationen ausführte, die gesamte Malerei dieses Genres für das Schiff in Händen hatte, während die zum Einlassen in die vergoldeten Holzdecken bestimmten Gemälde von feinerer, mehr vertriebener Malweise von Spillenberger ausgeführt wurden.
 
 II Vorzimmer An den Saal schloß sich das Vorzimmer an. Seine Holzfelderdecke bestand aus einem »verteilten« Stern im Zentrum, der in einem Stück gearbeitet und in den das bayerische und savoyische Wappen
-<!-- citation-page-bottom: Band03-2 p561 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=7 -->
-<!-- citation-page-top: Band03-2 p562 -->
 
-<!-- header: RUCENTAUR -->
 
-<!-- header: →BUCENTAU -->
 
 gemalt waren (Inventar, nach Nr. 95), das Westenrieder zufolge von Genien gehalten wurde. Er war umgeben von 80 gleich großen, rautenförmigen Feldern, die in der Form, vielleicht auch in ihrer Farbigkeit auf das bayerische Wappen anspielten. In jedem Feld war ein Putto dargestellt mit einem auf den Starnberger See bezogenen Attribut in Händen: mit einem Fisch wie Renke, Berschling, Waller, mit Fanggerät und mit weiteren Wassertieren und -pflanzen (s. das Verzeichnis). Heute nachweisbar ist nur noch die Nummer 41 des Inventars:
 
@@ -205,10 +197,7 @@ Fleischer, Julius, Der Barockmaler Johann von Spillenberger, in: Wiene Jahrb. f.
 Schober, Gerhard, Prunkschiffe auf dem Starnberger See. Eine Geschichte der Lustflotten bayerischer Herrscher. München 1982, S. 23 ff. und Abb. 8 (seitenverkehrt) und 9.
 
 B.V.-K
-<!-- citation-page-bottom: Band03-2 p563 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p564 -->
 
 
 == ANHANG: ==
@@ -223,5 +212,3 @@ B.V.-K
 
 
 Wiederverwendung im Bayerischen Nationalmuseum, dort im Zweiten Weltkrieg zerstört
-
-{{End}}

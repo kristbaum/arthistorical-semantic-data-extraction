@@ -14,9 +14,7 @@
 |AutorIn3=Tezmen-Siegel, Jutta
 }}
 
-<!-- citation-page-top: Band08 p160 -->
 
-<!-- header: MUHLDOR -->
 
 
 == STADT MÜHLDORF ==
@@ -51,10 +49,7 @@ Bis 1775 betrugen die Gesamtkosten 43 548 fl. (Kupferschmied, S. 102). Die Ausst
 Saal (34×20m) zu drei Jochen, das mittlere quadratisch (zwei Joche des gotischen Baus zusammenfassend) als Zentralraum konzipiert. Empore im W. Turm mit Vorhalle und nördlichem Kapellenanbau und Eingang im W. Stark eingezogener AR (14×9,60 m), zweijochig mit dreiseitigem Schluß, Anbauten im S (Sakristei) und N (Paramentenkammer) jeweils mit darüberliegendem Oratorium. Gliederung im LHs durch pilasterbesetzte Wandpfeiler mit geradem Stufengebälk, im AR durch Pilaster mit vorkragendem Stufengebälk. Belichtung durch hohe Rundbogenfenster von N und S, je 4 im LHs und je eines seitlich des Hochaltars. In beiden Jochen des AR 4 gemalte Gitterfenster mit Wolken.
 
 '''Auftraggeber:''' Sigismund III. Christoph Graf von Schrattenbach, Fürstbischof von Salzburg (1753-71). Chronogramm am Chorbogen SIGISMVNDO / RESTAVRATORI COL- LEGIATAE / AETERNA GLORIA (= 1765; Jahr des Kircheneinsturzes). Das Wappen des Fürstbischofs und das Wappen der Stadt Mühldorf befinden sich in Fresko D. Dekan des Kollegiatstifts und treibende Kraft bei Bau und Ausstattung war Wolfgang Summerer (1739-77; Epitaph im LHs am südli-
-<!-- citation-page-bottom: Band08 p161 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=7 -->
-<!-- citation-page-top: Band08 p162 -->
 
 Die Ausmalung wurde mit Beiträgen verschiedener Institutionen finanziell unterstützt, »der geistlichen und weltlicher Obrigkeit, der Katharina-Zunft, der Corporis-Christi-Bru derschaft, dem Bruderhaus, der Jungfrau Aussteuerungsfun dation« (Kupferschmied, 1988, S. 102).
 
@@ -113,7 +108,6 @@ Ob dises nit etwan der unvorgreiflichen Gedanken sich zum rechtmässigen Ziehl g
 6to das selber bey dem einmahl beschlossenen Accord wie bey der angetangenen Arweith verblibe, unaußsezlich continuire, verfertige.«
 
 Quelle für das Programm war Beatillo da Baris Vita des hl. Nikolaus von 1620, die zu seiner Zeit als die authentischste
-<!-- citation-page-bottom: Band08 p163 -->
 
 <blockquote>
 »Unvorgreiffliche Gedanken zur Ausmalung in Fresco des neu erbauten St. Nicolai Gotteshauses in Mühldorf aus dessen heiligen Erzbischofen zu Myra gezogen.  
@@ -128,10 +122,7 @@ Ob dieses nicht etwan der unvorgreiflichen Gedanken sich zum rechtmäßigen Ziel
 6. das selber bey dem einmahl beschlossenen Accord wie bey der angefangenen Arweith verbleibe, unaußsezlich continuire, verfertige.«
 </blockquote>
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band08 p164 -->
 
-<!-- header: MUHLDORF -->
 
 Nikolaus-Vita galt (vgl. Kupferschmied, S. 106f.). Die Ausgabe, die der Entwerfer benutzte, war die deutsche Übersetzung einer Kurzfassung von Francesco Buti »Das Leben und Wunderwerck des Heiligen Nicolai Ertz-Bischoffen Myren. Aus der Italiänischen in die Teutsche Sprach übersetzt durch einen Priester der Gesellschafft Jesu. Freiburg im Achtland bei Johann Jacob Quentz 1699«. In der Vorrede des Übersetzers heißt es, aus dem großen Werk des P. Antonius Beatillus habe Signor Abbate Francesco Buti einen Auszug gemacht, »in welchem er St. Nicolai Leben ganz kurz beschreibet«. Hier finden sich genauere Ausführungen für die im Programmentwurf nur stichwortartig vorgeschlagenen Szenen. Das heißt, auch dem Maler lag die Ausgabe Francesco Butis vor.
 
@@ -143,7 +134,7 @@ Das querformatige Fresko über der Orgelempore ist bildparallel über der Basis 
 == VERHEISSUNG DER GEBURT ==
 In der Nebenszene am rechten Bildrand, durch einen Pfeiler und ein Postament mit Ziervase von der Hauptszene abgetrennt, bildet eine hohe Gartenmauer und der Ansatz einer ausschwingenden Exedra einen offenen Raum. An einem Altartisch knien ein Mann und eine Frau, in reicher Kleidung mit Turban und Federgesteck, die Augen und Hände zum Himmel erhoben. Die Glorie über der Hauptszene mit dem Auge Gottes ist durch die Wolken, die den trennenden Pfeiler übergreifen, auch auf die Nebenszene bezogen, zu der der Engel im roten Gewand gehört, der ein Schriftband hält: Nicolaus est nomen eius. Es ist die vereinfachte Darstellung des Gebets der Eheleute Epiphanius und Johanna um ein Kind, die im Programm so vorgesehen ist:
 
-»In dem 2<sup>ten</sup> Zwerchfeld oder Kürchen Eingang. Entworffen von weitter solle werden die Stadt Patara in (Ci)licien. NB: Kan bey einen so anders distinquirten Haus /:ober deme ein Stern waß duncl schimert:/ gleich<br>ober der Thür in einer Schildt angemerckht werden das Iahr der Gebur 280 Nicolai mit folgenden Zifren CCXXC. Dessen adeliche unfruchtbare, asiatisch gekleidete Eltern in einen Gemach, oder Cabinet ein Capellen gleich zu Gott umb einen Leibserben seufzend /:solle ober ihnen das Aug Gottes gemahlen werden:/ sehen einen Engl aus den Wol-<br>ken kommen, so ihnen ein Sohn verheisset einen Zetl in beiden Händer haltend mit der Inschrift Nicolaus est nomen eius.«
+»In dem 2<sup>ten</sup> Zwerchfeld oder Kürchen Eingang. Entworffen von weitter solle werden die Stadt Patara in (Ci)licien. NB: Kan bey einen so anders distinquirten Haus /:ober deme ein Stern waß duncl schimert:/ gleich ober der Thür in einer Schildt angemerckht werden das Iahr der Gebur 280 Nicolai mit folgenden Zifren CCXXC. Dessen adeliche unfruchtbare, asiatisch gekleidete Eltern in einen Gemach, oder Cabinet ein Capellen gleich zu Gott umb einen Leibserben seufzend /:solle ober ihnen das Aug Gottes gemahlen werden:/ sehen einen Engl aus den Wolken kommen, so ihnen ein Sohn verheisset einen Zetl in beiden Händer haltend mit der Inschrift Nicolaus est nomen eius.«
 
 == TAUFWUNDER DES KINDES NIKOLAUS ==
 Im Zentrum des Bildes steht ein Altar, auf dem das Kind Nikolaus in weißem, mit Goldborten besetzten Hemdchen als Täufling auf einem roten Kissen steht, Augen und Händchen zur himmlischen Glorie erhoben. Er ist von einer Sonnenkugel hinterfangen und goldene Strahlen gehen von ihm aus. Ein Priester kniet am Altar bei dem Kind, seitlich davon die Eltern. Assistenzfiguren verschiedenen Alters scharen sich um die Szene. Links ein großes Taufbecken, bei dem ein Alter, ein orientalisch gekleidetes Paar und ein Meßdiener stehen.
@@ -161,20 +152,15 @@ Da das fortgeschrittene 18. Jh. vor offensichtlichen historischen Fehlern zurüc
 Beatillo berichtet nur die – öfters dargestellte – Szene von Nikolaus im Bade: »Als man dieses Kind nach der Geburt wie gebräuchlich reinigte, hat es sich selbst auf seine Füßlein gestellt, und als hett es schon einige Erkantnus Gottes und Gott schuldiger Verehrung die Händlein, als wollte es betten, zusammengeschlagen und ein geraume Zeit die Auglein gegen dem Himmel erhebt, welches dann als ein Vorbedeutung sei-«
 
 [[File:Band08_chunk004_p008_img001.jpg|thumb|B Szenen aus dem Leben des hl. Nikolaus]]
-<!-- citation-page-bottom: Band08 p165 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=9 -->
-<!-- citation-page-top: Band08 p166 -->
 
-<!-- header: MÜHLDOR -->
 
-<!-- header: MUHLDORF -->
 
 ner künftigen Wunder großen Heiligkeit meniglich mit Verwunderung und Freud angefüllet« (»Leben und Wunderwerck«, 1. Buch, Kap. 1). Im Mühldorfer Programm wurde das Motiv des stehenden Kindes auf die Taufe übertragen.
 
 Wie auf die Visionen des Erzbischofs und des Einsiedlers wurde auch auf eine weitere Szene verzichtet, die den jungen Nikolaus bei der Verachtung der weltlichen Güter und der Entscheidung für ein Büßerleben in der Einöde sowie erste Krankenheilungen zeigt:
 
-»NB. 2. Nicolaus asiatisch als ein Jüngling gekleidet, trachtet nach einer Einöde. Kan ein Klostergebäu, und Kürchen auf einen Berg von ferne<br>entworffen werden, anbey wie er die Weltgütter, als Gold:truchen mit Geschmuck etc. gleichsam mit Füssen tredtend dahin eille. Auf anderer<br>Seithe könen die dem jungen Nicolao schon übliche Bußzeig als harine (härene) Kleidung, Geisl, Cilicium, vorgemahlen werden. – Welcher wie<br>gesagt nach einen Kloster eillend mit aufgereckter Hand als das H: X. Zei-<br>chen (Kreuzzeichen) machend eine auf der Strassen ligende presthafte Weibspersohn gesund machet: so sich zum Aufstehen richtet mit weck geworfenen Krucken.«
+»NB. 2. Nicolaus asiatisch als ein Jüngling gekleidet, trachtet nach einer Einöde. Kan ein Klostergebäu, und Kürchen auf einen Berg von ferne entworffen werden, anbey wie er die Weltgütter, als Gold:truchen mit Geschmuck etc. gleichsam mit Füssen tredtend dahin eille. Auf anderer Seithe könen die dem jungen Nicolao schon übliche Bußzeig als harine (härene) Kleidung, Geisl, Cilicium, vorgemahlen werden. – Welcher wie gesagt nach einen Kloster eillend mit aufgereckter Hand als das H: X. Zeichen (Kreuzzeichen) machend eine auf der Strassen ligende presthafte Weibspersohn gesund machet: so sich zum Aufstehen richtet mit weck geworfenen Krucken.«
 
 Die vielfigurige Szene zeigt trotz mancher Überschneidungen eher isoliert agierende Figuren in vornehmen Posen. Die Farbgebung weist einen das Grau der Architekturen aufgreifenden Gesamtton auf, indem Blau, Rot und Gelb mit Grau changierend verwendet werden. Das für Heigl charakteristische Baum-Grün, das über der Mauer auftaucht, ist ebenfalls ins Gran abschattiert.
 
@@ -198,12 +184,8 @@ Die nächste Szene, das Seewunder, findet sich am westlichen Kuppelrand.
 
 
 [[File:Band08_chunk004_p001.jpg|thumb|Nikolaus erhält von Kaiser Konstantin die Bischofswürde zurück, Ausschnitt aus Fresko B, Ostseite]]
-<!-- citation-page-bottom: Band08 p167 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=10 -->
-<!-- citation-page-top: Band08 p168 -->
 
-<!-- header: MÜHLDORF -->
 
 
 [[File:Band08_chunk004_p010_img001.jpg|thumb|Nikolaus überwindet Arius, Ausschnitt aus Fresko B, Nordseite]]
@@ -238,18 +220,14 @@ Das nächste im Westen selten dargestellte Ereignis ist die Verteidigung der Leh
 == NIKOLAUS ÜBERWINDET ARIUS (N-Seite) ==
 Die Szene gegenüber wird nach links abgeschlossen durch eine mächtige Pfeilerbasis, an der zwei römische Soldaten stehen. Nach rechts öffnet sich eine weite Halle, die dem Kuppelrund folgend konkav in die Tiefe geschwungen ist. An einem langen grüngedeckten Tisch sitzen viele Bischöfe. Links ist vor einer leuchtenden gelben Draperie der Thron des Kaisers Konstantin zu sehen. Konstantin ist durch Zepter, Hermelinkragen und Kaiserkrone ausgezeichnet. Ihm zu Seiten steht ein Kardinal. An den Stufen des Throns steht Bischof Nikolaus, einen
 
-<!-- citation-page-bottom: Band08 p169 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=11 -->
-<!-- citation-page-top: Band08 p170 -->
 
-<!-- header: MÜHLDOR -->
 
 
 == MÜHLDORF ==
 
 
-Ziegelstein in Händen. Vor ihm, in heftiger Bewegung, ist der<br>schwarz gekleidete Arius zu sehen, mit flatterndem Haar und verzerrtem Gesicht. Auf den Stufen verbrennt ein halbnackter Mann in einem Feuergefäß Schriften. Darüber schwebt blitzeschleudernd der Erzengel Michael mit dem Dreifaltigkeitssymbol auf dem Schild.
+Ziegelstein in Händen. Vor ihm, in heftiger Bewegung, ist der schwarz gekleidete Arius zu sehen, mit flatterndem Haar und verzerrtem Gesicht. Auf den Stufen verbrennt ein halbnackter Mann in einem Feuergefäß Schriften. Darüber schwebt blitzeschleudernd der Erzengel Michael mit dem Dreifaltigkeitssymbol auf dem Schild.
 
 Programm: »In einen Saal auf der Mitternachtseithen sind viell Bischöff in ihren Kleidern sizend versamlet, Keyser Constantinus mit seinen Gefolg obenan sizend auf einen erhöchten Thron, doch St. Nicolaus fast neben ihm in einer Hand einen Zieglstein haltend, auf welchen /:zur Bestättigung der allerheiligiste Dreyfaltigkeit:/ so oben in Wolckhen mit disen Zeichen (Dreieck) anzudeuthen:/ Feur sprizet, Wasser fliesset, die Helffte dess rothen Steins sich in Erdenfarb verendert. Bestreitet den Erzketzer mit verzweifleten Gesicht sich einfindenden Arius, zu oder nit unweith dessen közerische Schrifften untereinander geworffen, bösen Feund in einen Topf Feur, und Schwerd, auf anderer Seithen ein Engel mit dem †Zeichen, und fligenden Fahnen, oder das † auf selben gemahlen.«
 
@@ -292,12 +270,8 @@ NB. Oben Nr. 5. das sich die bese Geister in die Hölle oder auch das Meer stür
 RETTUNG IN FEUERSNOT DURCH NIKOLAUS' BROT (NW-Seite) Bei Szene 5, d.h. zwischen Seewunder und Konzil von Nicäa, findet sich als letztes eine Feuersbrunst: Ein Gebäudekomplex am Ende einer römisch geprägten Stadtansicht mit Brücken, Turm und Rundbau – ähnlich der Engelsburg in Rom – steht nächtlich in Flammen, schwarze Rauchwolken steigen zum Himmel. Zwei Engel schweben über der Szene: der eine wirft zwei Kugeln (braun-weiß wie Kastanien) in die Flammen, der andere hält eine dritte auf einer goldenen Schale bereit.
 
 Im Programmentwurf wird diese Szene als letzte für das Hauptfresko beschrieben:
-<!-- citation-page-bottom: Band08 p171 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=12 -->
-<!-- citation-page-top: Band08 p172 -->
 
-<!-- header: MÜHLDOF -->
 
 
 == MUHLDORF ==
@@ -344,12 +318,8 @@ In »Leben und Wunderwerck«, 4. Buch, Kap. 8 wird »Nicolai seliges End« gesch
 ühren. Umb des sterbenden Bett stunden drey aus seinen allerliebsten Freunden und Mitbrüderen, Arteria, Hermes und Nicolaus, alle drey Priester, und zwar der lester ein Erzdiakonus. Diese psallirten unaufhörlich, underdessen welches man auch merckte, daß es von den heiligen Engeln geschahe. Da hat sich Nicolaus erhebt, das Creutz-Zeichen gemacht und die Engel gebetten, so wollten Chor-weis mit ihm psalliren. Darauf wartete er mit großer Demuth und mit Zähren übergossen bis der Englische Chor den dreißigsten Psalmen anstimmete So fiengen dann die himmlische Musicanten an: In Te Domine speravi: non confundor in eternum: Nicolaus sprach der andern Versickel, und also forth, bis ihn die Ordnung getroffen, daß er sprach: In manus tuas Domine commendo spiritun meum in welchen Worten er sein seligen Geist aufgeben «
 
 GRABWUNDER DES HEILIGEN NIKOLAUS Die linke Szene ist, über mehrere Stufen erhöht, räumlich so gut wie nicht von der rechten getrennt, doch ist sie in ein anderes weicheres und goldeneres Licht getaucht und erscheint deshalb visionär. Der Sarkophag steht auf Stufen. Er ist nicht geschlossen, der steinerne Deckel liegt noch auf den Stufen. Über dem Sarkophag ist der Heilige aufgebahrt, das strahlen-
-<!-- citation-page-bottom: Band08 p173 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band08 p174 -->
 
-<!-- header: MÜHLDOF -->
 
 umgebene Haupt auf ein Kissen gebettet, in voller bischöflicher Kleidung mit Mitra und dem Bischofstab. Der Deckel des Sarkophags trägt die goldene Inschrift Omnibus / Omnia / Factus. Rings um den Leichnam sickert über den Rand des Sarkophags eine Flüssigkeit, beim Haupt eine gelbliche, bei den Füßen eine klare: Öl und Wasser, die von einem Kleriker mit einer Muschel aufgefangen werden. Über dem Leichnam ein Engel, der einen Palmzweig in Händen hält. Um diesen ist ein Schriftband gewunden <i>Justus ut / Palma</i>.
 
@@ -361,7 +331,7 @@ Programm: »NB. Unten oder auf der Seithen ist in einen kostbahr marmorsteinerne
 
 Weitgehend genau folgte Heigl den Vorgaben, doch sind es Details, an denen sich der geübte Freskant und Kompositeur zeigt. Er ordnet nicht parallel, sondern er schafft Spannung durch Über- und Unterordnung, wie z.B. bei den Requisiter für die Letzte Ölung, die der Entwerfer nur aufzählt, wo Heigl aber aus dem »Altärl« einen großen Altar macht, vom Kruzifix überragt, auf dem die heiligen Gefäße stehen. Auf den Engel der die Tiara tragen sollte und in der Hand den Papststab, verzichtet Heigl. Ein Engel als Allegorie der Ecclesia war nicht üblich, er konnte in dieser Form nur einem heiligen Papst oder Ecclesia selbst zugeordnet werden (s. Fresko D)
 
-»So es das Spatium leidet könen angebracht werden verschidene gehailte<br>Presthafte, gedämpfte Feuersbrunsten, vermehrtes Brodt, Öel, Wein. zum Leben erweckte Alte, Junge, Große, Kleine. NB. in der Kleidung nit unsere teu(t)sche, sondern mehr asiatische; NB. nit zu vergessen eine Danck: Saul von Marmor auf dessen Spüze ein N. eingehauen. An dessen Basi(s) oder Fueß die Inschrift omnibus omnia factus.«
+»So es das Spatium leidet könen angebracht werden verschidene gehailte Presthafte, gedämpfte Feuersbrunsten, vermehrtes Brodt, Öel, Wein. zum Leben erweckte Alte, Junge, Große, Kleine. NB. in der Kleidung nit unsere teu(t)sche, sondern mehr asiatische; NB. nit zu vergessen eine Danck: Saul von Marmor auf dessen Spüze ein N. eingehauen. An dessen Basi(s) oder Fueß die Inschrift omnibus omnia factus.«
 
 Die Worte »Omnibus omnia factus«, im Programm für die Inschrift an der Pyramide vorgeschlagen, bringt Heigl quasi als Grabinschrift auf der Sarkophagplatte und vermeidet damit die Gedenksäule mit dem N auf der Spitze. Wie es auch sicher dem Bild nicht schadet, daß er die zum Leben Erweckten und die gedämpften Feuersbrünste nicht darstellte.
 
@@ -379,15 +349,12 @@ Die irdische Zone folgt rechts und links dem Bildrand, rechts in Form von aufrag
 
 6. Haubtsächlich aber solle Nicolaus so gestellet werden, als ob er bitte für die ihn Anflehende, und auf das zu entwerffende Salzburgische Erzbischöfliche Wappen, neben welchen ein Edlknab, oder in rohmischen Kleid /:assistens H: Graff in Mildorf stehend. nit ferne darvon das Mil-
 
-<!-- citation-page-bottom: Band08 p175 -->
 
-<!-- citation-page-top: Band08 p176 -->
 
-<!-- header: MÜHLDORF -->
 
-dorffische Stadtwappen, darneben ein Engl oder Genius auf einer golde-<br>nen Tatze ville in piramidalische Art gehauffte Herzen haltend mit der Auffschrift auf dem Randt Sub tuum praesidium.«
+dorffische Stadtwappen, darneben ein Engl oder Genius auf einer goldenen Tatze ville in piramidalische Art gehauffte Herzen haltend mit der Auffschrift auf dem Randt Sub tuum praesidium.«
 
-Nikolaus in den Wolken zeigt den vom Programm geforderten nach unten gerichteten Fürbittgestus mit ausgebreiteten offenen Händen, der mit dem Blick nach oben die Fürbitte anschaulich macht. Die Stadt Mühldorf, für die er bittet, ist durch zwei allegorische Figuren dargestellt. Ein Edelknabe hält das Wappen des Landesherrn, des Fürstbischofs von Salzburg, von Mitra, Pedum und Schwert gekrönt. Fast in der<br>Form eines Allianzwappens ist diesem das Mühldorfer Stadtwappen beigesellt. Der Genius, in römischer Kleidung – Har-<br>nisch, Mantel und Helm – lehnt an einem grauen Erdball, auf dem durch Lichteinfall eine Ansicht von Mühldorf (in Grisaille) sichtbar gemacht ist. Mit den Armen umfaßt er eine goldene Muschelschale mit den brennenden Herzen der Mühldorfer Bürger, die er dem Schutz des Patrons anheimstellt. Soweit folgt das Fresko dem Entwurf. Der Pfleger von Mühldorf, Graf Überacker, ist nicht dargestellt.
+Nikolaus in den Wolken zeigt den vom Programm geforderten nach unten gerichteten Fürbittgestus mit ausgebreiteten offenen Händen, der mit dem Blick nach oben die Fürbitte anschaulich macht. Die Stadt Mühldorf, für die er bittet, ist durch zwei allegorische Figuren dargestellt. Ein Edelknabe hält das Wappen des Landesherrn, des Fürstbischofs von Salzburg, von Mitra, Pedum und Schwert gekrönt. Fast in der Form eines Allianzwappens ist diesem das Mühldorfer Stadtwappen beigesellt. Der Genius, in römischer Kleidung – Harnisch, Mantel und Helm – lehnt an einem grauen Erdball, auf dem durch Lichteinfall eine Ansicht von Mühldorf (in Grisaille) sichtbar gemacht ist. Mit den Armen umfaßt er eine goldene Muschelschale mit den brennenden Herzen der Mühldorfer Bürger, die er dem Schutz des Patrons anheimstellt. Soweit folgt das Fresko dem Entwurf. Der Pfleger von Mühldorf, Graf Überacker, ist nicht dargestellt.
 
 Zutat Heigls sind die Darstellungen der Vier Erdteile. Sie fügen sich ohne Schwierigkeiten in das ikonographische Konzept, indem Nikolaus nun nicht mehr nur als Fürbitter für Mühldorf, sondern als Patron in umfassenderem Sinn und verehrt von der ganzen Welt erscheint. Außerdem hat Heigl die Erdteile oft und gut gemalt, seitdem er sie von seinem Lehrer Zimmermann in Andechs (Kreuzkapelle) übernommen und in seinem Frühwerk, der Pfarrkirche Mariä Himmelfahrt in Bad Aibling 1758 kopiert hat. Längst hatte er für sie eigene Darstellungsformen gefunden. In Mühldorf wird Europa durch die Darstellung der Ecclesia, den Rundtempel wie durch die Wappen und den Genius verkörpert. Asia, begleitet von zwei Männern im Turban, ist als Heimat des hl. Nikolaus in besonderer Weise hervorgehoben: Es ist eine junge Frau in Turban, weißem Gewand und blauem Mantel, die mit gesenktem Haupt in der Mitte der irdischen Szene kniet, ihr goldenes Zepter gesenkt, bei sich ein rotes Kissen mit Kaiserkrone (sie erinnert an das byzantinische Reich) und zweites Zepter. Am rechten Bildrand knien die beiden Vertreter Americas mit Federkrone, Pfeilen und spärlichem Gewand, dahinter die perlengeschmückten schwarzen Gestalten Africas mit Turbanen und wallenden Gewändern. Von einem Räucheraltar steigt Rauch auf und veranschaulicht ihre Devotion.
 
@@ -395,14 +362,9 @@ Das bevölkerte Schiff in den Wogen des Hintergrunds, von Entwerfer des Programm
 
 
 [[File:Band08_chunk004_p014_img001.jpg|thumb|Die Stadt Mühldorf vor ihrem Patron, ein Genius bringt die brennenden Herzen der Bürger von Mühldorf dem hl. Nikolaus dar, Ausschnitt aus Fresko I]]
-<!-- citation-page-bottom: Band08 p177 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=15 -->
-<!-- citation-page-top: Band08 p178 -->
 
-<!-- header: MUHLDOR -->
 
-<!-- header: MUHLDORF -->
 
 
 [[File:Band08_chunk004_p015_img001.jpg|thumb]]
@@ -446,6 +408,3 @@ A. B./C.B./J. T.
 
 
 == Filialkirche St. Katharina ==
-
-
-{{End}}

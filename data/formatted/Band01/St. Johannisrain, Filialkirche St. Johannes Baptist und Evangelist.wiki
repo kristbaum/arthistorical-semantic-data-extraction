@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p506 -->
 
-<!-- header: ST. JOHANNISRAIN -->
 
 
 == ST. JOHANNISRAIN ==
@@ -103,7 +101,3 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 42. Mindera, Karl, Benediktb
 
 
 [[File:Band01_chunk011_p004_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p507 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=5 -->
-{{End}}

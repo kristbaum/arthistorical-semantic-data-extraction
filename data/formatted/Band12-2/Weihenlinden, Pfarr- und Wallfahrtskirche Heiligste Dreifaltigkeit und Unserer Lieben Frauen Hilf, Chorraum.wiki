@@ -82,12 +82,8 @@ Zählung vom östlichen Bild im Uhrzeigersinn. Ansicht jeweils von der Mitte aus
 I<sub>a</sub> VOGEL, DER AVE SAGT Ein Mann in spätmittelalterlicher Kleidung steht vor einem Baum, in dem ein Nest mit drei Vögeln zu sehen ist. Die Inschrift ist völlig zerstört. Dieses Bild ist als einziges der Reihe nicht mit völliger Sicherheit zu identifizieren. Wahrscheinlich handelt es sich um den Papagei, der von sich aus »Ave« sagt. In der Ebersberger Handschrift ist ein Mann mit ähnlicher Haltung und Kleidung gezeigt, der vor einem kleinen Baum und einem Vogel darauf steht. »Psiticus natura si ave dicere claret. Quare virgo pura per ave non generaret.« Die Quellenangabe lautet »In naturis rerum« (Schlosser, S. 307).
 
 I<sub>b</sub> STRAUSS, DESSEN EIER DIE SONNE AUSBRÜTET Vogel Strauß, der vor drei Eiern steht, auf die die Sonne scheint. Von der Inschrift ist noch zu lesen SI OVA S... Der entsprechende Vers in der Ebersberger Handschrift (fol. 54 v.)
-<!-- citation-page-bottom: Band12 p535 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band12 p536 -->
 
-<!-- header: WEIHENLINDEN -->
 
 [[File:Band12-2_chunk005_p019_img001.jpg|thumb]]
 
@@ -139,5 +135,3 @@ RDK Bd 3, Sp. 1206–18
 LCI Bd 1, Sp. 499–503, mit Abb. des Blockbuchs von Eyser hut (s. RDK).
 
 Kemp, S. 314.
-
-{{End}}

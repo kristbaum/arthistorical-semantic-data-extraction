@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p78 -->
 
-<!-- header: GELTENDORE -->
 
-<!-- header: GELTENDORF -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatte die Stadt Friedberg das Präsentationsrecht auf die Pfarrei Gericht Landsberg
 
@@ -53,10 +50,7 @@ Erhaltungszustand und Restaurierungen: 1889, 1936 Reinigung von B, B<sub>1-2</su
 
 
 [[File:Band01_chunk002_p015_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p79 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=16 -->
-<!-- citation-page-top: Band01 p80 -->
 
 modernen Emporenbilder stammen von Kutruff. A zeigt starke Risse, vor allem Längsrisse im Scheitel und in der unteren Partie rechts, Querrisse in der Mitte des Freskos und über der Empore im W; von hier ausgehend mehrere Diagonalrisse. B zeigt einen Längsriß im Scheitel und leichte Bereibungen in der Westpartie, hier auch teilweise Übermalungen. Die Wolken über der Trinität, die rechte Hand Christi und der Engel an seiner Seite scheinen anläßlich der Behebung der Wasserschäden erneuert worden zu sein.
 
@@ -98,7 +92,3 @@ Heimatbuch Fürstenfeldbruck (o. V.), Fürstenfeldbruck 1952, S. 255 f.
 Landkreis Fürstenfeldbruck, Heimatbuch, Pörsdorf 1963, S. 144.  
 Gruber, Max, Johann Georg Dieffenbrunner, in: Amperland, Heimatkundliche Vierteljahresschrift für die Kreise Dachau, Freising, Fürstenfeldbruck, H. 4, 1969, S. 90.  
 Hotmann, Sigfrid, Ein bisher unbekanntes Fresko von Matthäus Günther in der Pfarrkirche Geltendorf, in: Das Münster 23, 1970, S. 131 ff.
-<!-- citation-page-bottom: Band01 p81 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=17 -->
-{{End}}

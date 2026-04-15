@@ -13,11 +13,8 @@
 |AutorIn2=Holler, Wolfgang
 }}
 
-<!-- citation-page-top: Band03-2 p410 -->
 
-<!-- header: BADENBURG -->
 
-<!-- header: BADENBUR -->
 
 '''Zum Bauwerk:''' Erbaut 1718-21 von Joseph Effner, Stuckarbeiten von Charles Dubut, Stuckmarmorverkleidung im Bad von Johann Georg Baader; Schnitzarbeiten von Johann Adam Pichler, Brunnenfiguren im Saal von Guillielmus de Grof
 
@@ -78,14 +75,9 @@ Bad Höhe 3,70 m; 5,60 × 8,20
 Kabinett Höhe 3,70 m; 2,00 × 2,00
 
 Erhaltungszustand und Restaurierungen: Beim Luftangriff vom 9./10. März 1943 brannte, von Stabbrandbomber verursacht, der Dachstuhl beider Gebäudeteile mit der Dachkonstruktion über dem Saal aus, wodurch das Fresko im Saal einstürzte. Erhalten blieb nur ein ca. 1 m breiter Streifen am Rand, der, zusammen mit den Eckstukkaturen
-<!-- citation-page-bottom: Band03-2 p411 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk009.pdf#page=7 -->
-<!-- citation-page-top: Band03-2 p412 -->
 
-<!-- header: NYMPHENBURG, PARKBURGEN -->
 
-<!-- header: BADENBURG -->
 
 kurz darauf durch Rundeisen und Aufziehen von Gipsplatten gefestigt und verankert wurde. Nach einer Notreparatur 1946 erfolgte 1952/53 die erste Restaurierung, wobei das Saalgewölbe wieder eingezogen wurde und das Fresko anhand von Vorkriegsaufnahmen (BSV; BLfD; Farbabb. in Kreisl, Nymphenburg 1944) durch Karl Körner, München, summarisch rekonstruiert wurde. Neue Rekonstruktion durch Karl Manninger 1986 abgeschlossen.
 
@@ -139,14 +131,9 @@ Auch in den Stuckdarstellungen sind (im NO) Frühling und Wasser einander zugeor
 
 
 [[File:Band03-2_chunk009_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p413 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk009.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p414 -->
 
-<!-- header: NYMPHENBURG, PARKBURGEN -->
 
-<!-- header: BADENBURG -->
 
 
 [[File:Band03-2_chunk009_p008_img001.jpg|thumb]]
@@ -166,10 +153,7 @@ ACIS UND GALATEA (S-Seite; Ovid, Metamorphosen XIII, 738 ff.) Nymphen und Jüngl
 
 
 [[File:Band03-2_chunk009_p008_img002.jpg|thumb|Bad, Decke mit mythologischen Szenen]]
-<!-- citation-page-bottom: Band03-2 p415 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk009.pdf#page=9 -->
-<!-- citation-page-top: Band03-2 p416 -->
 
 
 == NYMPHENBURG, PARKBURGEN ==
@@ -249,6 +233,3 @@ Holler, Wolfgang, Jacopo Amigonis Frühwerk in Süddeutschland, Hildesheim-Züri
 
 
 == MAGDALENENKLAUSE ==
-
-
-{{End}}

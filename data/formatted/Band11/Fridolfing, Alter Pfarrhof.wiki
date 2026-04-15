@@ -43,12 +43,8 @@ Rahmen: Die Malerei füllt die gesamte Deckenfläche Technik: Secco polychrom
 Maße: Höhe 3,30m; 6,80×4,90
 
 Erhaltungszustand und Restaurierungen: 1848 war die Deckenbemalung laut Inventar bereits übertüncht. In den ersten Jahrzehnten des 20. Jh. wurde aber die Darstellung im Bereich des Mittelfeldes freigelegt und mit einem glänzenden Überzug versehen, um die Farbigkeit aufzufrischen. Während der Gesamtsanierung des Gebäudes restaurierte Alois Stein, Inzell 1997/98 die Deckenbemalung: der Mittelbereich wurde von der glänzenden Schicht und von Übermalungen befreit, die übrige Decke freigelegt und die Fehlstellen wurden retuschiert, wobei die Retuschierung der figürlichen Malerei nicht ohne Schwierigkeit war. Die Rocaillekartuschen an den Seitenmitten mußten großenteils erneuert werden (links vom Ein
-<!-- citation-page-bottom: Band11 p51 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk002.pdf#page=2 -->
-<!-- citation-page-top: Band11 p52 -->
 
-<!-- header: I ANDKREIS TRAIINSTEIN - FRIDOLFING -->
 
 
 [[File:Band11_chunk002_p002_img001.jpg|thumb|Illusionsmalerei im Zimmer des Bürgermeister]]
@@ -93,5 +89,3 @@ A. B.
 Markt Grassau, Pfarrei Grassau Erzdiözese München und Freising. Ehem. Erzdiözese Salzburg, Archidiakonat und Bistum Chiemsee. Gericht Marquartstein
 
 Pfarrkirche Mariä Himmelfahrt Sieben-Zufluchten-Kapelle S. 77 Totenkapelle S. 79
-
-{{End}}

@@ -12,11 +12,8 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band10 p66 -->
 
-<!-- header: BERGHEIM -->
 
-<!-- header: BERGHEIM -->
 
 
 == Kapelle ==
@@ -42,10 +39,7 @@ Der originelle, qualitätvolle Stuck in Weiß und Gelb auf grünem und rosa Grun
 
 
 [[File:Band10_chunk002_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p67 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=9 -->
-<!-- citation-page-top: Band10 p68 -->
 
 
 [[File:Band10_chunk002_p009_img001.jpg|thumb]]
@@ -82,14 +76,9 @@ Erhaltungszustand und Restaurierungen: Die Fresken sind in ihrer Bildanlage baro
 
 
 [[File:Band10_chunk002_p009_img003.jpg|thumb|A Himmelfahrt Mariä]]
-<!-- citation-page-bottom: Band10 p69 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band10 p70 -->
 
-<!-- header: BEDCHEIM -->
 
-<!-- header: BERGHEIN -->
 
 
 [[File:Band10_chunk002_p010_img001.jpg|thumb]]
@@ -135,12 +124,8 @@ A<sub>a-h</sub>, W<sub>1-5</sub> ANRUFUNGEN DER LAURETANISCHEN LITANEI Kleine Bi
 
 
 [[File:Band10_chunk002_p010_img008.jpg|thumb|Ld Spiegel der Gerechtigkeit]]
-<!-- citation-page-bottom: Band10 p71 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=11 -->
-<!-- citation-page-top: Band10 p72 -->
 
-<!-- header: BERGHEIM -->
 
 
 == BERGHEIM ==
@@ -206,7 +191,3 @@ B. V.-K
 
 
 [[File:Band10_chunk002_p011_img011.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p73 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=12 -->
-{{End}}

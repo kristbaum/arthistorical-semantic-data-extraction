@@ -40,14 +40,9 @@ Die Fresken der unteren Emporenbrüstung sind von Franz Seraph Zwinck (* 1748 Ob
 
 
 [[File:Band02_chunk009_p017_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p433 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=18 -->
-<!-- citation-page-top: Band02 p434 -->
 
-<!-- header: UNTERAMMERGAU -->
 
-<!-- header: UNTERAMMERGAL -->
 
 
 [[File:Band02_chunk009_p018_img001.jpg|thumb]]
@@ -102,14 +97,9 @@ A WARNUNG VOR DEM STURM Auf einer Terrasse über dem Meeresufer stehen orientali
 Die Szene schildert eines der Wunder aus der Jugendgeschichte des hl. Nikolaus, der als Pilger ins Heilige Land reiste und den Schiffsleuten einen drohenden Schiffbruch vorhersagte. In der hier wiedergegebenen Szene sagt Nikolaus den Sturm vor der Abreise voraus, in der Legende erblickt er während der Reise ein Ungeheuer, das ins Schiff springt und den Sturm verursacht, der dann von Nikolaus besänftigt wird (Ribadeneira-Hornig, Bd 2, S. 940).
 
 B BERUFUNG ZUM BISCHOF VON MYRA Schauplatz ist das Innere einer hochbarocken Basilika – in
-<!-- citation-page-bottom: Band02 p435 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=19 -->
-<!-- citation-page-top: Band02 p436 -->
 
-<!-- header: UNTERAMMERGAL -->
 
-<!-- header: UNTERAMMERGAU -->
 
 
 [[File:Band02_chunk009_p019_img001.jpg|thumb|E Engelsglorie]]
@@ -136,12 +126,8 @@ D TOD DES NIKOLAUS Auf einem Stufenpodest – in ganzer Bildbreite – steht die
 Der Bericht von Nikolaus' Tod mit der Erscheinung der Engel und dem Beten des Psalms »In te Domine speravi« findet sich nur in der Legenda aurea (LA-Graesse, S. 26), danach verschied Nikolaus bei der Psalmstelle: Herr, in deine Hände empfehle ich meinen Geist – eine Allusion auf das Sterben Iesu.
 
 E ENGELSGLORIE Zentrale Untersicht, aber nicht konsequent durchgeführte Verkürzungen. In einem dichten Wolkenkranz schweben große und kleine Engel und
-<!-- citation-page-bottom: Band02 p437 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=20 -->
-<!-- citation-page-top: Band02 p438 -->
 
-<!-- header: UNTERAMMERGAU -->
 
 
 [[File:Band02_chunk009_p020_img001.jpg|thumb]]
@@ -176,7 +162,6 @@ VERTEILEN DES ERBES Vor einem säulengeschmückten Portal verteilt der junge Nik
 Nach dem Tod der Eltern verteilte Nikolaus deren Hinterlassenschaft an die Armen (loc. cit., S. 938).
 
 Ein sizilianischer Kaufmann hatte eine Ladung Korn eingekauft, die er in Spanien zu verkaufen gedachte. Im Traum erscheint ihm der Bischof und rät ihm, die Ladung mit Gewinn in Myra zu verkaufen, das von einer Hungersnot bedroht wird, und legt ihm zum Beweis, daß der Traum auf Wahrheit beruht, drei Golddukaten in die Hand. Der Kaufmann faßt dies als ein Zeichen Gottes auf und segelt nach Myra, wo er das Land aus einer schweren Hungersnot erretten kann (loc. cit., S. 943).
-<!-- citation-page-bottom: Band02 p439 -->
 
 
 [[File:Band02_chunk009_p020_img005.jpg|thumb|F Grab des hl. Nikolaus]]
@@ -193,9 +178,6 @@ Ein sizilianischer Kaufmann hatte eine Ladung Korn eingekauft, die er in Spanien
 
 [[File:Band02_chunk009_p020_img008.jpg|thumb|4 Hungersnot in Myra]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=21 -->
-<!-- citation-page-top: Band02 p440 -->
-<!-- citation-page-bottom: Band02 p441 -->
 
 [[File:Band02_chunk009_p021_img001.jpg|thumb]]
 [[File:Band02_chunk009_p021_img002.jpg|thumb|5 und 6 Das Ölfläschchen der Diana]]
@@ -237,6 +219,3 @@ Hofmann, Sigfrid, Beiträge zur Bau- und Kunstgeschichte der Kirchen und Kapelle
 Bührlen, Johann Richard, Pfarrkirche Unterammergau (= KKF, Nr. 45), 1960.  
 Dehio-Gall OB, S. 211  
 Mois, Jakob, Unterammergau, Ottobeuren 1969.
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=22 -->
-{{End}}

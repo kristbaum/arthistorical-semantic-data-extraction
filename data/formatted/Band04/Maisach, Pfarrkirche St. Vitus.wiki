@@ -12,7 +12,6 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band04 p190 -->
 
 == MAISACH ==
 
@@ -55,12 +54,8 @@ Charakteristisch für ihn sind gestalterische und kompositorische Schwächen bei
 
 
 [[File:Band04_chunk004_p021_img002.jpg|thumb|Das Chorgewölbe mit B Die hll. Vitus und Modestus im Kerker des Diokletian, C Ein Engel besucht den eingesperrten Knaben Modestus, D Flucht der hll. Vitus und Modestus übers Meer (Photos D. Reichler]]
-<!-- citation-page-bottom: Band04 p191 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=22 -->
-<!-- citation-page-top: Band04 p192 -->
 
-<!-- header: MAISACH -->
 
 
 == Befund ==
@@ -131,7 +126,3 @@ Kölbl, Gertraud, St. Vitus, Maisach. Festschrift zur 75-Jahr-Feier der Erweiter
 Dehio 1990, S. 611.
 
 B.S.
-
-<!-- header: MAMMENDORF -->
-
-{{End}}

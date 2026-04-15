@@ -33,12 +33,8 @@ Das Mittelbild A der Sakristei stammt mit Sicherheit von dem gleichen Maler, der
 
 
 [[File:Band12-1_chunk003_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p113 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=8 -->
-<!-- citation-page-top: Band12 p114 -->
 
-<!-- header: BEYHARTING -->
 
 
 [[File:Band12-1_chunk003_p008_img001.jpg|thumb]]
@@ -60,18 +56,13 @@ Technik: Secco mit ölhaltiger Bindung und roter Untermalung auf Putz; polychrom
 
 Maße: A Höhe 4,00 m; 4,50 x 3,00
 
-Erhaltungszustand und Restaurierungen: 1899 Restaurierung durch den Aiblinger Maler Ludwig Osendorfer: »den Plafond der Sakristei lose Stellen abkratzen, vergypsen, fehlende ... Ornamente ergänzen ... ferner die Deckengemälde und Ge-<br>mälde der Wand reinigen und reparieren«. Im Lauf des letzten Jh. zeigten sich bald wieder Schäden, 1931 wird von starker Schimmelbildung am Hauptbild infolge von Kondenswasser berichtet (Nadler/Hildebrandt S. 43 f., S. 64). 1946 heißt es »Die an der Decke befindlichen Frescobilder, die mit Ölfarbe übermalt bzw. geölt sind, (müsse man) sorgfältig abbeizen und<br>schonend mit Kaseinfarben restaurieren« (BLfD). Restaurierung der Deckenbilder durch Georg Hilz aus Aibling 1947, des Stucks durch Christian Riedl (Nadler/Hildebrandt S. 70).
+Erhaltungszustand und Restaurierungen: 1899 Restaurierung durch den Aiblinger Maler Ludwig Osendorfer: »den Plafond der Sakristei lose Stellen abkratzen, vergypsen, fehlende ... Ornamente ergänzen ... ferner die Deckengemälde und Gemälde der Wand reinigen und reparieren«. Im Lauf des letzten Jh. zeigten sich bald wieder Schäden, 1931 wird von starker Schimmelbildung am Hauptbild infolge von Kondenswasser berichtet (Nadler/Hildebrandt S. 43 f., S. 64). 1946 heißt es »Die an der Decke befindlichen Frescobilder, die mit Ölfarbe übermalt bzw. geölt sind, (müsse man) sorgfältig abbeizen und schonend mit Kaseinfarben restaurieren« (BLfD). Restaurierung der Deckenbilder durch Georg Hilz aus Aibling 1947, des Stucks durch Christian Riedl (Nadler/Hildebrandt S. 70).
 
 
 [[File:Band12-1_chunk003_p008_img002.jpg|thumb|A Propst Johannes und Propst Ildefons empfehlen ihr Kloster der Gnadenmutter von Tuntenhausen (Balthasar Furtner, 1746/47)]]
-<!-- citation-page-bottom: Band12 p115 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=9 -->
-<!-- citation-page-top: Band12 p116 -->
 
-<!-- header: REVHARTING -->
 
-<!-- header: BEYHARTING -->
 
 
 [[File:Band12-1_chunk003_p009_img001.jpg|thumb]]
@@ -125,13 +116,8 @@ II MOSES VOR DEM BRENNENDEN DORNBUSCH (Ex 3,2) SANCTA SANCTE (Heilig soll man de
 
 
 [[File:Band12-1_chunk003_p009_img008.jpg|thumb|d Pelikan nährt seine Jungen mit seinem Herzblut]]
-<!-- citation-page-bottom: Band12 p117 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=10 -->
-<!-- citation-page-top: Band12 p118 -->
 
-<!-- header: BEYHARTING -->
-<!-- header: REYHARTING -->
 
 [[File:Band12-1_chunk003_p010_img001.jpg|thumb]]
 
@@ -156,5 +142,3 @@ Der Altar an der S-Wand der Sakristei, auf dem ein Kruzifixus steht, ist von zwe
 Die Inschrift COR PRIUS über dem Wandbrunnen weist darauf hin, daß der Priester vor den Händen sein Herz zu reinigen habe.
 
 Quellen und Literatur s. S. 112. Abb. in: Beyharting 2005, S. 108 Nr. 25.
-
-{{End}}

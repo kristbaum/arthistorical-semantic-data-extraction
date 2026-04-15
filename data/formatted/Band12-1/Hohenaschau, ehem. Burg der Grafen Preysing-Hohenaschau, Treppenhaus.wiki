@@ -11,10 +11,7 @@
 |danach=
 |AutorIn1=Bauer-Wild, Anna
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk007.pdf#page=2 -->
-<!-- citation-page-top: Band12 p302 -->
 
-<!-- header: HOHENASCHAU -->
 
 
 == Treppenhaus im Turm ==
@@ -55,6 +52,3 @@ JUPITER Das runde Bildfeld gibt Einblick in einen blaugrauen Wolkenhimmel. Auf e
 AEM, Nachlaß Peter von Bomhard Nr. 172.
 
 Bomhard, Bd 2, S. 360, 363, 371. Jahn, Maud, in: Chronik Aschau im Chiemgau 2000, S. 137f.
-<!-- citation-page-bottom: Band12 p303 -->
-
-{{End}}

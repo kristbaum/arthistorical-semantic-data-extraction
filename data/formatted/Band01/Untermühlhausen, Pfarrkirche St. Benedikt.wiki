@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p252 -->
 
-<!-- header: UNTERMÜHLHAUSEN -->
 
 
 == UNTERMÜHLHAUSEN ==
@@ -71,7 +69,3 @@ Die Pfarrherren im Bezirke Untermühlhausen (o. V.), in: Landsberger Geschichtsb
 Dehio-Gall OB (1964), S. 278
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 641–43.
-<!-- citation-page-bottom: Band01 p253 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=3 -->
-{{End}}

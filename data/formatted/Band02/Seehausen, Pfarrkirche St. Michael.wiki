@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p422 -->
 
-<!-- header: SEEHAUSEN -->
 
 
 == SEEHAUSEN ==
@@ -54,14 +52,9 @@ Träger der Deckenmalerei: LHs (A, 1-4, a-d) Tonne mit Stichkappen, über der NO
 
 
 [[File:Band02_chunk009_p012_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p423 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=13 -->
-<!-- citation-page-top: Band02 p424 -->
 
-<!-- header: SEEHALISEN -->
 
-<!-- header: SEEHAUSEN -->
 
 
 [[File:Band02_chunk009_p013_img001.jpg|thumb|Ambrosius]]
@@ -135,12 +128,8 @@ Die drei Kreuze sind frei gegen den düsteren Himmel gesetzt, nur wenig gegen di
 
 
 [[File:Band02_chunk009_p013_img012.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p425 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=14 -->
-<!-- citation-page-top: Band02 p426 -->
 
-<!-- header: SEEHAUSEN -->
 
 
 [[File:Band02_chunk009_p014_img001.jpg|thumb]]
@@ -199,12 +188,8 @@ B<sub>4</sub> DIE HEILIGE FAMILIE BEIM TISCHGEBET Erzählmotiv, basierend auf de
 A KREUZIGUNG CHRISTI Die Darstellung folgt im wesentlichen den Evangelien des Johannes und des Lukas. So ist die Charakterisierung der gekreuzigten Schächer nach Lc 23, 39 zu verstehen. Maria und Johannes sowie Maria Magdalena als Klagende unter dem Kreuz vgl. Io 19, 25–27. Der heranreitende Longinus mit der Lanze, zu Christus aufschauend vgl. Io 19, 34. Das Kreuz ist mit einem dreisprachigen Kreuztitulus versehen, hebräisch, griechisch INBI und lateinisch INR[I]. Die imitiert griechische Inschrift auf dem hohen Steinsockel rechts weist wohl auf das Grab des Joseph von Arimathia hin, in welches Jesus gelegt wurde (Mt 27, 59–60).
 
 Auf den Bildrahmen ist über dem Chorbogen eine Inschrifttafel gesetzt OBLATUS / EST. (= Io 19, 30, üblicher Wortlaut: Consummatum est). Im Fresko ist der Tod Jesu mit der Verfinsterung der Gestirne als Vollendung des Opfers Christi dargestellt.
-<!-- citation-page-bottom: Band02 p427 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=15 -->
-<!-- citation-page-top: Band02 p428 -->
 
-<!-- header: SEEHAUSEN -->
 
 
 [[File:Band02_chunk009_p015_img001.jpg|thumb|W<sub>I</sub> Die wunderbare Brotvermehrung]]
@@ -266,7 +251,3 @@ Gebhart, Hansjakob, Staffelseechronik, Murnau [1931], S. 126 f.
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim <sup>2</sup> 1962, S. 47 f. Tausend-Jahrfeier der Pfarrei St. Michael Seehausen-Staffelsee (o. V.), Seehausen 1960.
 
 Sakrale Kunst in Bayern, Bd 2: Die Diözese Augsburg, Marzoll bei Bad Reichenhall (o. V. und o. J.), S. 76.
-<!-- citation-page-bottom: Band02 p429 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=16 -->
-{{End}}

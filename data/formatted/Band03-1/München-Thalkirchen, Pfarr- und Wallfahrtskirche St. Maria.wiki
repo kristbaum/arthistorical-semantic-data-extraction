@@ -12,7 +12,6 @@
 |AutorIn1=Lüdicke, Lore
 }}
 
-<!-- citation-page-top: Band03-1 p102 -->
 
 == THALKIRCHEN St. Maria ==
 
@@ -76,10 +75,7 @@ Das Flachkuppelfresko A ist sehr schlecht erhalten. Umrisse und Binnenzeichnung 
 Auch die Kartuschbilder a-f zeigen eine auffrischende Nachzeichnung (photographische Aufnahme vor der Restaurierung von 1981).
 
 Das Deckengemälde im neubarocken Anbau von Gabriel von Seidl, die Anbetung der Könige sowie drei Ovalmedaillons in den Schildbögen der südlichen Chorwand, von W:
-<!-- citation-page-bottom: Band03-1 p103 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=3 -->
-<!-- citation-page-top: Band03-1 p104 -->
 
 [[File:Band03-1_chunk003_p003_img001.jpg|thumb]]
 
@@ -96,12 +92,9 @@ Christus und Maria sind von vielen Engeln und Putti in den Wolken begleitet: sie
 Die Mariendarstellung ist von sechs Kartuschen mit Elogen aus der Lauretanischen Litanei begleitet, diese befinden sich über den je drei Fenstern. Anknüpfend an das Bildthema und die Bildinschrift REGINA CAELI sind dabei vier Regina-Anrufungen ausgewählt. Die Inschriften an der N-Seite lauten: REG. / PROPHET/ORVM - ROSA MYSTICA - REG. VIRGIN. An der N-Seite: REG. MART. - MATER ADMIRAB. - REG. / CONFESS/ORVM
 
 a-f MARIEN-SINNBILDER Im AR sind nur die reich stuckierten Kartuschen in den tiefen Stichkappen des Gewölbes ausgemalt. Alle sechs Bilder enthalten den
-<!-- citation-page-bottom: Band03-1 p105 -->
 
 [[File:Band03-1_chunk003_p003_img003.jpg|thumb|a-f Marien-Sinnbilder in den Stichkappen des Altarraums]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=4 -->
-<!-- citation-page-top: Band03-1 p106 -->
 
 == THALKIRCHEN ==
 
@@ -139,11 +132,3 @@ Kemp, S. 254f
 Böhm, Cordula, Die Münchner Maler J. A. Wolff, C. G. und N. G. Stuber sowie C. D. Asam als Freskanten in drei Kirchen der ehem. Pfarrei Sendling, in: Jahrbuch des Vereins für christliche Kunst in München e.V., Bd 16, 1987, S. 170–75. L.L.
 
 LANDKREIS MÜNCHEN
-<!-- citation-page-bottom: Band03-1 p107 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=5 -->
-<!-- citation-page-top: Band03-1 p108 -->
-
-<!-- header: ARGET -->
-
-{{End}}

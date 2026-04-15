@@ -31,14 +31,9 @@ Das AR-Fresko D ist wesentlich später entstanden, wie Größe und Form des Fres
 
 
 [[File:Band01_chunk002_p021_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p91 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=22 -->
-<!-- citation-page-top: Band01 p92 -->
 
-<!-- header: HECHENWANG -->
 
-<!-- header: HECHENWANG -->
 
 Fresko zu beziehen (vgl. Hausen 1795). (Archivalische Studien für Hechenwang bei W. Neu, Lechisarland 1963; zu Schäffler siehe Lechisarland 1962)
 
@@ -104,12 +99,8 @@ Bis auf die eine Mariendarstellung (die Kirche besaß ehemals auch einen im 18. 
 Die Embleme ergänzen die Szenen der Vita; sie haben ein allgemein auf das Bild bezogenes Lemma (b–g) und dazu direkt auf den hl. Martin bezogene deutsche (a–h) und zwei ebensolche lateinische (a, h) Erklärungen.
 
 a Iras deponite manes. — Verlacht den Teifell. Heranfliegende Pfeile zerbrechen an einem wehrhaften Turm. Picinelli, s. v. sagitta, Lib. 22, Nr. 88, gibt das Bild von den am harten Stein zerbrechenden Pfeilen u. a. für die den Heiden und Häretikern widerstehenden Kirchenlehrer. In ähnlichem Sinn paßt es auch auf den hl. Martin. Die latei
-<!-- citation-page-bottom: Band01 p93 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=23 -->
-<!-- citation-page-top: Band01 p94 -->
 
-<!-- header: HECHENWANG -->
 
 
 [[File:Band01_chunk002_p023_img001.jpg|thumb]]
@@ -148,6 +139,3 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 ----
 HEINRICHSHOFEN
-
-
-{{End}}

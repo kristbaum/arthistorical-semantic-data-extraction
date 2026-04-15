@@ -52,20 +52,17 @@ Der illusionistische Effekt ist bereits in der vorgebeugten Figur der Justitia v
 
 Die Figur des Lasters ist ikonographisch nicht genau zu bestimmen. Sie ist durch Krallen und Drachenschwanz, allgemeine Teufels- und Lasterattribute, gekennzeichnet. Die Maske weist auf Falschheit und Verstellung (fraus, simulatio) und die Schlangenhaare auf Zwietracht (discordia) hin (Ripa). Eine Zusammenfassung verschiedener negativer Attribute und damit Charakterzüge in einer Lastergestalt ist ikonographisch nicht ungewöhnlich (vgl. Aich, CBD, Bd 1, S. 370-72). Der Putto schräg unter Justitia trägt mit Schild und Faszes weitere Kennzeichen der Gerechtigkeit. Der kleine Putto neben Misericordia hält ein Buch und weist auf die Inschrift Miserj/cordi/am,/ et Ju/ dicium/ can/tabo ps:/io (= Ps 100, 1). Der Ölzweig ist Symbol der Barmherzigkeit (vgl. Ps 51, 10 und danach Ripa, s. v. misericordia). Das Deckenbild ist an dieser Stelle
 
-<!-- citation-page-bottom: Band02 p119 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=11 -->
-<!-- citation-page-top: Band02 p120 -->
 
 [[File:Band02_chunk003_p011_img001.jpg|thumb]]
 
-- vor den Privaträumen des Abtes - eine Anspielung auf die<br>Haupttugenden eines Abtes, Barmherzigkeit und Gerechtigkeit.
+- vor den Privaträumen des Abtes - eine Anspielung auf die Haupttugenden eines Abtes, Barmherzigkeit und Gerechtigkeit.
 
-B SPES (Vorzimmer) Einansichtige Darstellung; Aufnahmestandpunkt unter dem westlichen Bildrand; Blickrichtung nach O. - Die Figur der Spes ist in Wolken in mäßiger Untersicht und Verkürzung gegeben. Sie wird<br>durch eine junge Frau mit langem Haar und reich gefalte-<br>tem, auffliegenden Gewand dargestellt, die einen großen<br>Anker hält und ihre Füße auf die Weltkugel setzt. Am<br>unteren Rechten greift sie an die Weltkugel. Diese Figur ist vom Bildrand überschnitten.
+B SPES (Vorzimmer) Einansichtige Darstellung; Aufnahmestandpunkt unter dem westlichen Bildrand; Blickrichtung nach O. - Die Figur der Spes ist in Wolken in mäßiger Untersicht und Verkürzung gegeben. Sie wird durch eine junge Frau mit langem Haar und reich gefaltetem, auffliegenden Gewand dargestellt, die einen großen Anker hält und ihre Füße auf die Weltkugel setzt. Am unteren Rechten greift sie an die Weltkugel. Diese Figur ist vom Bildrand überschnitten.
 
-Die Farbigkeit des Bildes ist auf der fast ausschließlicher Verwendung von Rosa und Olivgrün aufgebaut. Diese<br>Farben treten – fein abgestuft – in Gewand und Mantel der Spes auf und werden vom Hintergrundshimmel mit seiner rosagefärbten Wolken aufgenommen.
+Die Farbigkeit des Bildes ist auf der fast ausschließlicher Verwendung von Rosa und Olivgrün aufgebaut. Diese Farben treten – fein abgestuft – in Gewand und Mantel der Spes auf und werden vom Hintergrundshimmel mit seiner rosagefärbten Wolken aufgenommen.
 
-Bei der stürzenden Figur fehlen Attribute. Sie ist wohl als antithetische Gestalt zu Spes aufzufassen, als Desperatio<br>Damit wäre das Thema hier an der Decke des Wartezimmers zur Audienz der Sieg der Hoffnung über die Verzweiflung.
+Bei der stürzenden Figur fehlen Attribute. Sie ist wohl als antithetische Gestalt zu Spes aufzufassen, als Desperatio Damit wäre das Thema hier an der Decke des Wartezimmers zur Audienz der Sieg der Hoffnung über die Verzweiflung.
 
 In der Stuckdekoration der Decke sind in den vier Ecken je zwei Putti dargestellt, die die Vier Jahreszeiten verkörpern
 
@@ -81,10 +78,7 @@ Die Farbigkeit ist zurückhaltend und differenziert; die verschiedenen Grauwerte
 [[File:Band02_chunk003_p011_img002.jpg|thumb|D Anbetung der Eucharistie D1-4 Evangelistensymbole]]
 
 [[File:Band02_chunk003_p011_img003.jpg|thumb|B Spes]]
-<!-- citation-page-bottom: Band02 p121 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=12 -->
-<!-- citation-page-top: Band02 p122 -->
 
 [[File:Band02_chunk003_p012_img001.jpg|thumb]]
 [[File:Band02_chunk003_p012_img002.jpg|thumb]]
@@ -114,5 +108,3 @@ Röhlig, Ursula, Die Deckenfresken Johann Baptist Zimmermans, ungedr. Diss. Mün
 Mindera, Karl, J. B. Zimmermanns Arbeiten für die ehemalige Benediktinerabtei Benediktbeuern, in: Das Münster 8, 1955, S. 15–19.  
 Thon, Christina, J. B. Zimmermann als Stukkator, München 1977, S. 117–122.  
 Literatur siehe S. 133
-
-{{End}}

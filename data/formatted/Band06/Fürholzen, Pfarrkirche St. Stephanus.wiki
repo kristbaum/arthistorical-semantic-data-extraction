@@ -12,7 +12,6 @@
 |AutorIn1=Tezmen-Siegel, Jutta
 }}
 
-<!-- citation-page-top: Band06 p214 -->
 
 
 == FURHOLZEN ==
@@ -28,21 +27,16 @@ Pfarrkirche, Gemeinde Neufahrn bei Freising, Erzdiözese München und Freising; 
 '''Patrozinium:''' St. Stephanus
 
 
-'''Zum Bauwerk:''' Die alte Pfarrkirche lag auf einem bewaldeten Hügel außerhalb des Dorfes. Wegen Baufälligkeit und ständiger Einsturzgefahr wurde sie 1722 abgerissen und 1723 im Dorf wieder aufgebaut: »Ecclesia parochialis antiquissima er e monte nemoroso novissime anno 1723 in ipsum pagum<br>translata et eleganter aedificata fuit« (Schmidt, S. 309). Errichtet wurde sie von dem Freisingischen Hofbaumeister Dominikus Gläsl (* 1660 Weyarn † 1731 Freising), Palier war Dominikus Hueter. Weihe am 31. 10. 1723 durch Fürstbischof Johann Franz Eckher von Kapfing und Liechteneck. Die Pfarrkirche Fürholzen ist im Werk Dominikus Gläsls der
+'''Zum Bauwerk:''' Die alte Pfarrkirche lag auf einem bewaldeten Hügel außerhalb des Dorfes. Wegen Baufälligkeit und ständiger Einsturzgefahr wurde sie 1722 abgerissen und 1723 im Dorf wieder aufgebaut: »Ecclesia parochialis antiquissima er e monte nemoroso novissime anno 1723 in ipsum pagum translata et eleganter aedificata fuit« (Schmidt, S. 309). Errichtet wurde sie von dem Freisingischen Hofbaumeister Dominikus Gläsl (* 1660 Weyarn † 1731 Freising), Palier war Dominikus Hueter. Weihe am 31. 10. 1723 durch Fürstbischof Johann Franz Eckher von Kapfing und Liechteneck. Die Pfarrkirche Fürholzen ist im Werk Dominikus Gläsls der
 
 
 [[File:Band06_chunk005_p008_img002.jpg|thumb|A Martyrium des hl. Stephanus, in den Zwickeln Vier Evangelisten]]
 
 
 [[File:Band06_chunk005_p008_img003.jpg|thumb|Innenansicht]]
-<!-- citation-page-bottom: Band06 p215 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk005.pdf#page=9 -->
-<!-- citation-page-top: Band06 p216 -->
 
-<!-- header: FÜRHOLZEN -->
 
-<!-- header: FURHOUZEN -->
 
 einzige Zentralbau. Der reiche, qualitätvolle Stuck kann seinem Sohn, dem Stukkator Thomas Gläsl zugewiesen werden (vgl. Flintsbach, Lkr. Rosenheim).
 
@@ -115,19 +109,13 @@ A<sub>2</sub> Johannes
 A. Lukas
 
 A Markus
-<!-- citation-page-bottom: Band06 p217 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk005.pdf#page=10 -->
-<!-- citation-page-top: Band06 p218 -->
 
-<!-- header: FÜRHOLZEN -->
 
 [[File:Band06_chunk005_p010_img001.jpg|thumb]]
 
 [[File:Band06_chunk005_p010_img002.jpg|thumb|Steinigung des hl. Stephanus, Ausschnitt aus Fresko A]]
-<!-- citation-page-bottom: Band06 p219 -->
 
-<!-- header: FÜRHOLZEN -->
 
 A '''Soldaten und Zuschauer''', Ausschnitt aus Fresko A  
 I–2 '''EMBLEME an der Decke der Kreuzarme im N und S.'''  
@@ -143,12 +131,8 @@ Ea-b '''EMBLEME an der Emporenbrüstung'''. Wie bei den Emblemen an der Decke de
 
 Steinigung des hl. Stephanus, Ausschnitt aus Fresko A
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk005.pdf#page=11 -->
-<!-- citation-page-top: Band06 p220 -->
 
-<!-- header: FURHOUZEN -->
 
-<!-- header: FÜRHOLZEN -->
 
 
 [[File:Band06_chunk005_p011_img001.jpg|thumb|2 Oculi eius semper ad Dominum – seine Augen immer zum Herrn]]
@@ -187,9 +171,3 @@ Kranz, Josef, Zwölfhundert-Jahr-Feier der Pfarrei Fürholzen o. O. 1973, S. 18.
 Kemp, S. 119, 193.
 
 Dehio 1990, S. 329.
-
-
-<!-- citation-page-bottom: Band06 p221 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk005.pdf#page=12 -->
-{{End}}

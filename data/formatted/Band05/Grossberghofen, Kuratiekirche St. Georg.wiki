@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p64 -->
 
-<!-- header: GROSSBERGHOFEN -->
 
 
 == GROSSBERGHOFEN ==
@@ -67,7 +65,3 @@ StAM, Geistlicher Rat, Kirchen- und Stiftungsrechnungen, Kirchenrechnungen Geric
 AEM, Pfarrakten Sittenbach: Pfarrbeschreibung; Bauten II; Expositur Großberghofen, Pastoral- und Kultusgegenstände 1595-1866.
 
 Schmidtsche Matrikel, Bd 2, S. 340. Mayer-Westermayer, Bd 3, S. 155. Gruber, Max, Die Maurerfamilie Glonner, in: Amperland 2, 1966, S. 11-14.
-<!-- citation-page-bottom: Band05 p65 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk002.pdf#page=9 -->
-{{End}}

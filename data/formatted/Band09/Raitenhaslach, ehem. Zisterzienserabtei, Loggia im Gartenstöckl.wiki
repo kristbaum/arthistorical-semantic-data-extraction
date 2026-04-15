@@ -18,12 +18,8 @@
 
 Zweistöckiger Bau zu sechs Achsen, Tordurchfahrt unter der nördlichen. Verlängerung nach S durch einen niedrigeren Bau aus späterer Zeit. Im Erdgeschoß liegt, zum Garten hin offen,
 
-<!-- citation-page-bottom: Band09 p207 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=5 -->
-<!-- citation-page-top: Band09 p208 -->
 
-<!-- header: RAITENHASLACH -->
 
 
 [[File:Band09_chunk005_p005_img001.jpg|thumb|Dekorationsmalerei an der Westwand der Loggia (Martin Heigl um 1765)]]
@@ -59,6 +55,3 @@ ROCAILLEDEKORATION Der Raum ist mit einer hellgrüngrundigen Rocailledekoration 
 
 
 [[File:Band09_chunk005_p005_img003.jpg|thumb|Die Loggia im sogenannten Gartenstöckl, Ansicht nach Weste]]
-<!-- citation-page-bottom: Band09 p209 -->
-
-{{End}}

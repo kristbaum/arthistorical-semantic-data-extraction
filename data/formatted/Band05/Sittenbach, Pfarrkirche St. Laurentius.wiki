@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p244 -->
 
-<!-- header: SITTENBACH -->
 
 
 == SITTENBACH ==
@@ -40,14 +38,9 @@ Eine entscheidende Rolle bei der Genehmigung des aufwendigen Umbaus (und seiner 
 
 
 [[File:Band05_chunk005_p023_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p245 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=24 -->
-<!-- citation-page-top: Band05 p246 -->
 
-<!-- header: SITTENBACH -->
 
-<!-- header: SITTENBACH -->
 
 ab 1744 Präsident des Geistlichen Rats in Freising, seit 1756 Weihbischof, dessen Wappen sich mit der Unterschrift SUB DUCE am O-Rand des Hauptfreskos A befindet. Das Puttenköpfchen darüber mit der kleinen Mitra (ohne Stab) weist auf die Weihbischofswürde hin.
 
@@ -91,14 +84,9 @@ Im N leitet eine kleine Baumgruppe mit Palme zur Längsseite des Deckenbildes. H
 
 
 [[File:Band05_chunk005_p024_img001.jpg|thumb|A Szenen aus dem Leben des hl. Laurentius]]
-<!-- citation-page-bottom: Band05 p247 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=25 -->
-<!-- citation-page-top: Band05 p248 -->
 
-<!-- header: SITTENBACH -->
 
-<!-- header: SITTENBACE -->
 
 
 [[File:Band05_chunk005_p025_img001.jpg|thumb]]
@@ -118,10 +106,7 @@ B ENGELSKONZERT Wolkenszenerie um die Hl.-Geist-Öffnung in der Mitte des Bildes
 
 
 [[File:Band05_chunk005_p025_img002.jpg|thumb|Glorie des hl. Laurentius]]
-<!-- citation-page-bottom: Band05 p249 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=1 -->
-<!-- citation-page-top: Band05 p250 -->
 
 [[File:Band05_chunk006_p001_img001.jpg|thumb]]
 
@@ -147,13 +132,8 @@ K<sub>2</sub> (südliche Kapelle) Engel auf einer Wolke, der nach unten weist. D
 
 
 BHStA I, Kurbayern Geistlicher Rat, Geistlicher-Rats-Protokolle Tom. 57.
-<!-- citation-page-bottom: Band05 p251 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=2 -->
-<!-- citation-page-top: Band05 p252 -->
 
-<!-- header: SITTENBACH -->
-<!-- header: STRASSBACH -->
 
 
 [[File:Band05_chunk006_p002_img001.jpg|thumb]]
@@ -174,5 +154,3 @@ Paula, Georg, Johann Georg Dieffenbrunner. Leben und Werk (= tuduv-Studien, Reih
 Dehio 1990, S. 1113 f.
 
 Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Landes Bd 7, hg. im Auftrag des Museumsvereins Dachau e.V.), Dachau 1991, S. 204 f.
-
-{{End}}

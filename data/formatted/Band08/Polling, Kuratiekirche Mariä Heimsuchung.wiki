@@ -12,11 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p218 -->
 
-<!-- header: POLLING -->
 
-<!-- header: POLLING -->
 
 Kuratiekirche, Pfarrverband Flossing, Verwaltungsgemeinschaft Polling, Erzdiözese München und Freising; z. Z. der Ausmalung Erzdiözese Salzburg, Archidiakonat Gars. Polling war Filiale der Pfarrei Flossing, die dem Kollegiatstift Mühldorf inkorporiert war. An der Kirche bestand ein Benefizium. Der Benefiziat Riesner (1707-49) gründete 1737 zwei geistliche Bündnisse (»Maria Immaculata« für die Ledigen und »Jesus, Maria, Joseph« für die Verheirateten, s. AEM). Gericht Mörmoosen
 
@@ -51,12 +48,8 @@ Technik: Fresko mit erheblichem Seccoanteil; polychrom Maße: A Höhe 9,00 m; 6,
 AR-Fresko (jetzt neubarock) Höhe 7,20 m; 3,70 × 4,40 Erhaltungszustand und Restaurierungen: Renovierung und Ausmalung der Kirche 1891 durch August Schluttenhofer, München. Die Kirche war »ganz ausgemalt und mit einem Deckenbild, welches von Leimfarbe und vollständig ruiniert war, versehen« (AEM). Als Ersatz malte Basilio Coletti, München, für 700 Mark die Immaculata, von einem Bauernmädchen und einem Jüngling verehrt, »als Bild zum Jünglings- und Jungfrauenbund« (Signatur 1891. Basilio Coletti). 1931 erfolgte eine »Tünchung, Tönung der Stuckornamente, Reinigung und Ausbesserung der Deckenbilder in Chor und Langhaus« durch Christian Seibold, Freising, und den Kunstmaler Michael Gottschalk, Freising. Bei dieser Renovierung wurde das Fresko am Chorbogen freigelegt. Original sind die Figuren Marias und Johannes, der Kruzifixus wurde ergänzt. In diesem Zusammenhang wurden auch noch zwei Gemälde an der Nordwand des LHs entdeckt, eins dem Eingang gegenüber, ca. 1,5 × 2 m, das zweite größere, nimmt einen großen Teil der NW-Wand ein: der Bildgegenstand war nicht zu erkennen; sie wurden älter eingestuft als die Barockfresken und wieder zugetüncht. Am Deckenbild A wurde nach Abschluß der Restaurierung vom BLfD (Akten Polling) zu wenig »Zurück-  
 
 [[File:Band08_chunk005_p010_img002.jpg|thumb]]  
-<!-- citation-page-bottom: Band08 p219 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk005.pdf#page=11 -->
-<!-- citation-page-top: Band08 p220 -->
 
-<!-- header: POLLING -->
 
 
 [[File:Band08_chunk005_p011_img001.jpg|thumb|Fresko im Altarraum: Maria Immaculata (Basilio Coletti 1801)]]
@@ -103,5 +96,3 @@ Historischer Atlas Bd 36, Mühldorf (Helmuth Stahleder), München 1976, S. 352.
 Kreilinger, Kilian, Der bayerische Rokokobaumeister Franz Alois Mayr (= Jahrbuch des Vereins für christliche Kunst 9), München 1976, S. 117.
 
 Dehio 1990, S. 980 (Umbau und Ausmalung 1735 datiert). Heimatbuch Polling-Oberneukirchen, Haag 1990, S. 222-25.
-
-{{End}}

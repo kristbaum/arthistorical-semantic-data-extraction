@@ -62,8 +62,3 @@ AEM, Pfarrakten Schnaitsee, Pfarrbeschreibung, Versetzen des Gnadenbildes 1768; 
 AEM, Stiftungsadministration Wasserburg, Kirchenrechnungen Kling 1768–72.
 
 A. B.
-
-<!-- citation-page-bottom: Band11 p143 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk003.pdf#page=23 -->
-{{End}}

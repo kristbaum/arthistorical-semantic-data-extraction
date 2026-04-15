@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p428 -->
 
-<!-- header: KREUZBERG -->
 
 Kapelle, Gemeinde und Pfarrei Steingaden, Diözese Augsburg; z. Z. der Ausmalung der Klosterpfarrei und Herrschaft Steingaden zugehörig
 
@@ -49,12 +47,8 @@ A SCHLACHT AUF DEM LECHFELD Einansichtige Szene; geringe Untersicht. Das längso
 
 
 [[File:Band01_chunk009_p015_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p429 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=16 -->
-<!-- citation-page-top: Band01 p430 -->
 
-<!-- header: KREUZBERG -->
 
 gegen die Ungarn, die durch Zipfelmützen und Stoffkittel in leuchtenden Farben und durch ihre Waffen – Säbel, Pfeil und Bogen – charakterisiert sind. Im darüberliegenden Streifen reitet in der Mitte einer die Ungarn vor sich hertreibenden Truppe Kaiser Otto und wendet sich dem dicht hinter ihm reitenden Bischof Ulrich zu. In dem nachfolgenden Zug wird die römische Standarte mit den Initialen SPQR getragen, begleitet von einem Posaunenbläser, an dessen Instrument ein Wimpel mit dem Namen OTTO befestigt ist; im Gefolge Musikanten, Trommler und Bannerträger. Im Hintergrund wird in einem dritten Streifen vor der Silhouette der vieltürmigen Stadt Augsburg nochmals das Aufeinanderprallen der feindlichen Heere geschildert.
 
@@ -118,10 +112,7 @@ B<sub>b</sub> ADRIAN mit abgehauenen Füßen und rechter Hand, mit dem Beil als 
 [[File:Band01_chunk009_p016_img022.jpg|thumb]]  
 [[File:Band01_chunk009_p016_img023.jpg|thumb]]  
 [[File:Band01_chunk009_p016_img024.jpg|thumb]]  
-<!-- citation-page-bottom: Band01 p431 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=17 -->
-<!-- citation-page-top: Band01 p432 -->
 
 Ergänzungen zur Ikonographie: Die Bildthematik bezieht sich auf das Patrozinium der Kirche, das heilige Kreuz. In B wird eine Szene aus der zuerst von Ambrosius aufgezeichneten Geschichte der Kreuzauffindung geschildert, nach der die hl. Helena unter den drei in Jerusalem aufgefundenen Kreuzen das Kreuz Christi durch die Wunderheilung eines Kranken identifizierte (Ribadeneira-Hornig Bd 1, 3.5., S. 678 f.; LCI Bd 2, Sp. 642-48). Das Hochaltarbild darunter zeigt die Verehrung des Hl. Kreuzes durch die vier Erdteile. In A ist die historische Schlacht auf dem Lechfeld dargestellt, in der Kaiser Otto I. 955 über die ungläubigen Ungarn siegte. In dieser Schlacht soll Bischof Ulrich das Kreuz und die Siegesvoraussage zuteil geworden sein. Das Siegeskreuz des Engels hat die Form des in Augsburg als Reliquie verehrten sog. Ulrichskreuzes. Der Name OTTO auf dem Posaunenwimpel sowie die topographisch detaillierte Silhouette der Stadt Augsburg kennzeichnen den historischen Schauplatz. Gleichzeitig deuten die römische Standarte und die Bildinschrift IN HOC / SIGNO / VINCES auf die Schlacht an der Milvischen Brücke im Jahre 312 hin, die im heilsgeschichtlichen Sinn als Vorbild und Legitimation der Ungarnschlacht angesehen wird. Die historisierende Darstellung der Ungarn, welche in den Schlachtberichten des 18. Jh. meist als Hunnen bezeichnet werden, weist türkische Motive, Halbmond in Fahne und Säbel, auf (vgl. Romano Kistler, Basilica ... St. Ulrich und Afra in Augsburg ..., Augsburg 1712, S. 15, Kupferstich und Schlachtbericht).
 
@@ -131,5 +122,3 @@ Feulner, Adolf, Die Zick, in: Jahrbuch des Vereins für Christliche Kunst 5, 192
 Mayer-Pfannholz, Anton, Kreuzberg bei Steingaden, in: Weilheimer Sonntagsblatt 9, 1932, Nr. 6.  
 Hofmann, Sigfrid, Stift Steingaden 1147-1803, Steingaden 1947, S. 27, 33, 74.  
 Pfarrkirche, Gemeinde und Pfarrei Eglfing, Diözese Augsburg; z. Z. der Ausmalung (seit 1616) hatte das Augustinerchorherrenstift Bernried das Ernennungsrecht mit Vorbehalt des Präsentationsrechtes vom Kurfürsten, Gericht Weilheim  
-
-{{End}}

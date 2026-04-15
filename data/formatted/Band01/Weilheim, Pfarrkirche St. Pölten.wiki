@@ -49,14 +49,9 @@ Die Farben entsprechen in der Wahl der Buntwerte ungefähr der Skizze. Von der o
 
 
 [[File:Band01_chunk012_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p563 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=8 -->
-<!-- citation-page-top: Band01 p564 -->
 
-<!-- header: MEHLIEIM -->
 
-<!-- header: WEILHEIM -->
 
 
 [[File:Band01_chunk012_p008_img001.jpg|thumb]]
@@ -103,12 +98,8 @@ D GLORIE DES HL. HIPPOLYT Am O-Rand des Bildes ist eine Landschaft angedeutet (i
 
 
 Hippolyt (Pölt) ist ein legendärer römischer Martyrer. Er war Befehlshaber der Soldaten, die im Gefängnis über den hl. Laurentius wachten und wurde von diesem bekehrt und getauft (A). Nach dem Tod des hl. Laurentius begrub er dessen Leichnam, weshalb er von Kriegsknechten ergriffen und vor Kaiser Decius geschleppt wurde. Er bekannte seinen Glauben und wurde zum Martyrium geführt (B Ostansicht). Erst wurde er mit Knüppeln geschlagen (B Südansicht) und endlich von wilden Pferden durch Disteln und Dornen zu Tode geschleift (B Nordansicht). - Die Darstellung der Fides-Ecclesia auf Wolken, mit Kelch, Geset-
-<!-- citation-page-bottom: Band01 p565 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=9 -->
-<!-- citation-page-top: Band01 p566 -->
 
-<!-- header: WEILHEIM -->
 
 
 [[File:Band01_chunk012_p009_img001.jpg|thumb]]
@@ -157,5 +148,3 @@ Pfarrkirche St. Johannes Baptist S. 590
 Kreuzbergkapelle S. 595  
 Gasthaus zur Post S. 597  
 Literatur S. 599  
-
-{{End}}

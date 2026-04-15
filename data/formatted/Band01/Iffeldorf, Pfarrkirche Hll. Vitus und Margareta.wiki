@@ -52,10 +52,7 @@ Die rechte Bildseite nimmt eine imposante Torarchitektur ein. Davor steht der Th
 Im Himmel, der nahezu die ganze westliche Bildhälfte einnimmt, ist eine weiterführende ikonografische Komponente angedeutet, die jedoch aufgrund des Scanfragments nicht vollständig rekonstruierbar ist.
 
 [[File:Band01_chunk009_p008_img001.jpg|thumb|B2 Rebekka]]
-<!-- citation-page-bottom: Band01 p415 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=9 -->
-<!-- citation-page-top: Band01 p416 -->
 
 [[File:Band01_chunk009_p009_img001.jpg|thumb]]
 [[File:Band01_chunk009_p009_img002.jpg|thumb]]
@@ -85,12 +82,8 @@ Dieses Emblemprogramm, das die Tugendhaftigkeit des hl. Vitus preist, hat eine w
 B1 Auxit plaga amorem. — Hirsch, von einem Pfeil verwundet. Der vom Pfeil getroffene Hirsch ist in der Emblematik das Bild des Liebenden (Picinelli, s. v. cervus, Lib. 5, Nr. 192), der dem Schmerz (der Liebe) nirgends entrinnt.
 
 [[File:Band01_chunk009_p009_img005.jpg|thumb|A Martyrium des hl. Vitus]]
-<!-- citation-page-bottom: Band01 p417 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=10 -->
-<!-- citation-page-top: Band01 p418 -->
 
-<!-- header: IFFELDORF -->
 
 
 [[File:Band01_chunk009_p010_img001.jpg|thumb]]
@@ -100,12 +93,10 @@ Hier ist das Bild übertragen auf die Liebe des verwunde ten Herzens Jesu zu den
 
 B<sub>2</sub> Patulum cor testis amoris – Pelikan, der seinen Jungen sein Herzblut zu trinken gibt. Der Pelikan, der sich selbst die Brust öffnet, um mit seinem Blut seine Jungen zu heilen und zu wärmen, ist ein altes christliches Liebessymbol, hier angewandt auf das durch die Lanze des geöffnete Herz Jesu (sinngemäß bei Picinelli, s.v. pelicanus, Lib. 4, Nr. 547 u. a.).
 
-B<sub>3</sub> Intus pretiosa recondit — Muschel auf einer Wasser- fläche mit einer Perle. Das häufig dargestellte Emblem (Picinelli, s. v. margaritha, Lib. 12, Nr. 243, »PRETIOSA<br>LATENT« für »humilitas«) ist hier ein Bild für das liebeerfüllte Herz Jesu.
+B<sub>3</sub> Intus pretiosa recondit — Muschel auf einer Wasser- fläche mit einer Perle. Das häufig dargestellte Emblem (Picinelli, s. v. margaritha, Lib. 12, Nr. 243, »PRETIOSA LATENT« für »humilitas«) ist hier ein Bild für das liebeerfüllte Herz Jesu.
 
 B4 Ardet ut erumpat. – Vulkan, der Feuer speit. Dieses Bild, auf das Herz Jesu bezogen, ist etwa zu deuten: Es brennt vor Liebe, um (vor Liebe) überzuströmen. Der Vulkan hat in der Emblematik oft die Bedeutung — in verschiedenen Aspekten — der vor Liebe brennenden Menschen (Picinelli, s. v. mons Aetna, Lib. 2, Nr. 594, 595, 596, 606, 608, 613).
 
 Dieses Programm, in dem geläufige Embleme, auf das Herz Jesu angewandt, die Liebe Jesu bildlich verdeutlichen ist interessant durch die Präzision der Anspielungen und die Verwendung auch ungewöhnlicherer Bilder (Vulkan). Auch bei diesen Emblemen ist eine zweite Bedeutungsschicht vorhanden, sie alludieren die vier Elemente: Hirsch — Erde, Pelikan — Luft, Muschel — Wasser, Vulkan - Feuer.
 
 Literatur siehe S. 421
-
-{{End}}

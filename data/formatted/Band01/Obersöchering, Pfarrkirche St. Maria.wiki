@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p442 -->
 
-<!-- header: OBERSÖCHERING -->
 
 Pfarrkirche St. Maria, sog. Frauenkirche, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Benediktbeuern das Präsentationsrecht, Gericht Weilheim
 
@@ -81,8 +79,3 @@ Damrich, Johann, Johann Sebastian Troger und seine Sippe, in: Weilheimer Sonntag
 Rückert, Georg, Kirchliche Kunst im alten Landgericht Weilheim, in: Lechisarland 11, 1935, S. 117.
 
 Mauthe, Willi, Pfaffenwinkel, Weilheim 1964, S. 41
-
-<!-- citation-page-bottom: Band01 p443 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=23 -->
-{{End}}

@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p562 -->
 
 == SCHMIDHAM ==
 
@@ -83,7 +82,3 @@ KDB I OB (2), S. 1493
 Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, (München) 1913, S. 64.
 
 Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.
-<!-- citation-page-bottom: Band02 p563 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=8 -->
-{{End}}

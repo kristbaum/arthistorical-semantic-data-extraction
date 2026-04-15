@@ -26,12 +26,8 @@ Der heute als Seitenkapelle genutzte ehemalige AR (13 × 8,10m) öffnet sich in 
 
 
 [[File:Band14_chunk005_p019_img001.jpg|thumb|Der frühere Chor der Kirche, jetzt Seitenkapelle]]
-<!-- citation-page-bottom: Band14 p237 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band14 p238 -->
 
-<!-- header: REICHERTSHOFEN -->
 
 erhielt das Kircheninnere eine weitgehend neue Gestalt (Krahn 1963, S. 45, Hofmann, S. 181). Die St.-Margareta-Bruderschaft beteiligte sich nur einmal, im Jahr 1765, mit 200 fl. »zur Kirchen Reparation« (Bruderschafts-Rechnungen).
 
@@ -67,10 +63,7 @@ Das Zentrum der Bittstellergruppe bilden drei Vordergrundfiguren: in der Mitte e
 
 
 [[File:Band14_chunk005_p020_img001.jpg|thumb|Hl. Margareta als Patronin (Franz Ignaz Frank? 1750)]]
-<!-- citation-page-bottom: Band14 p239 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk005.pdf#page=21 -->
-<!-- citation-page-top: Band14 p240 -->
 
 
 == REICHERTSHOFEN ==
@@ -119,5 +112,3 @@ Heider, Josef, Landvogtamt und Landgericht Neuburg an der Donau... Amt Reicherts
 Krahn, Gerhard, Chronik von Reichertshofen, Ingolstadt 1963.
 
 Hofmann, Siegfried, Zum Werk Ingolstädter Freskenmaler des 18. Jahrhunderts, in: SHVI 82, 1973, W. 179-81, 184. Historischer Atlas Ingolstadt, S. 311, 330f., 389. Pötzl, Kultgeographie des Bistums Augsburg, S. 56. Denkmaltopographie Pfaffenhofen, S. 220f. mit Abb. Dehio 2006, S. 1102. Kratzsch 2006, S.70f.
-
-{{End}}

@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p548 -->
 
-<!-- header: UNTERHAUSEN -->
 
 
 == UNTEREGLFING ==
@@ -57,5 +55,3 @@ Gailler, Franciscus Salesius, Vindeliciae Sacrae Tomi 3.. Capitulum Weilheimense
 Braun-Augsburg, Bd 1, S. 340 f. (Eglfing).
 
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 34.
-
-{{End}}

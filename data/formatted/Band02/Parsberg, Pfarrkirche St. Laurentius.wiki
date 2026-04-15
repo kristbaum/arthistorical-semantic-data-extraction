@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p542 -->
 
-<!-- header: PARSBERG -->
 
 
 == PARSBERG ==
@@ -111,12 +109,8 @@ der Blumenkranz im Haar deutet auf den Typus des Wessobrunner Gnadenbildes »Mut
 1 ohn Feller sein gibt solchen Schein. - Ein Engel in langem weißen Gewand steht in einer Landschaft. Mit seiner Rechten weist er auf eine Stadt am linken Bildrand. – Der Engel soll, wie auch das Lemma deutlich macht, die tugendhafte Reinheit des hl. Laurentius versinnbildlichen. Während Engel in der Emblematik im allgemeinen nur als Verweisende oder Handelnde auftreten, ist hier ein Wesensmerkmal der Engel, ihre Reinheit, Thema des Emblems.
 
 2 Vor Deinen Lohn Bereit die Kron. – Eine Krone schwebt von Strahlen umgeben in der Bildmitte. - Picinelli, s.v. corona, Liber 25, Nr. 36, bestimmt die Krone mit dem Lemma cursu completo als ein Sinnbild des Lohnes für ein tugendhaftes Leben. Das Emblem paraphrasiert und illustriert die Paulusstelle 2 Tim 4, 7–8: »Bonum certamen
-<!-- citation-page-bottom: Band02 p543 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=23 -->
-<!-- citation-page-top: Band02 p544 -->
 
-<!-- header: PARSBERG -->
 
 
 [[File:Band02_chunk011_p023_img001.jpg|thumb]]
@@ -176,7 +170,3 @@ Ein Kupferstich des Hieronymus Wierix, ca 1610, zeigt den »Miles christianus«,
 Mayer-Westermayer, Bd 2, S. 37
 
 Lemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.
-<!-- citation-page-bottom: Band02 p545 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=24 -->
-{{End}}

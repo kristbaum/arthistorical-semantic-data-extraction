@@ -46,10 +46,7 @@ Erhaltungszustand und Restaurierungen: Feuchtigkeitsschäden und Risse, darunter
 
 
 [[File:Band10_chunk002_p024_img002.jpg|thumb|Krönung Mariens]]
-<!-- citation-page-bottom: Band10 p99 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=25 -->
-<!-- citation-page-top: Band10 p100 -->
 
 [[File:Band10_chunk002_p025_img001.jpg|thumb]]
 
@@ -64,14 +61,9 @@ Vom Himmel senken sich vor die Architektur Wolkenbänke herab. Hier kniet links 
 [[File:Band10_chunk002_p025_img002.jpg|thumb]]
 
 [[File:Band10_chunk002_p025_img003.jpg|thumb|Die Heilige Familie als Gnadenmittlerin; A Engelsszenen]]
-<!-- citation-page-bottom: Band10 p101 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=1 -->
-<!-- citation-page-top: Band10 p102 -->
 
-<!-- header: HASFIBACH -->
 
-<!-- header: HASELBACI -->
 
 
 [[File:Band10_chunk003_p001_img001.jpg|thumb]]
@@ -89,12 +81,8 @@ A<sub>2</sub> BEFREIUNG PETRI AUS DEM GEFÄNGNIS (Act 12, 11) Ein Engel geleitet
 
 
 [[File:Band10_chunk003_p001_img002.jpg|thumb|Die Pfarrgemeinde von Haselbach mit Pfarrer Franz Joseph Kramer, Ausschnitt aus Fresko A]]
-<!-- citation-page-bottom: Band10 p103 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=2 -->
-<!-- citation-page-top: Band10 p104 -->
 
-<!-- header: HASELBACH -->
 
 
 == Quellen und Literatur ==
@@ -108,6 +96,3 @@ B. V.-K
 
 
 == HOLLENBACH ==
-
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band13 p76 -->
 
-<!-- header: EICHSTÄTT ST. WALBURG -->
 
 
 == GROSSE KREISSTADT EICHSTÄTT ==
@@ -67,12 +65,8 @@ Die Abtei St. Walburg hatte in 92 Orten grundherrschaftliche Rechte (zum Besitz 
 Nach der langsamen Erholung des Klosters in der zweiten Hälfte des 17. Jh. kam es im 18. Jh. noch zu einer neuen Blüte von Kloster und Wallfahrt. Trotz der großen Ausgaben für die Kirchenzier hatte das Kloster beim Tod der Äbtissin Adelgundis I. Pettenkofer nur 11600 fl. Schulden; bis 1777 häuften sich 48000 fl. Schulden an, die bis zum Ende des 18. Jh. durch kluge Wirtschaftsführung des Klosters, vor allem der Äbtissin Michaela Morasch, getilgt werden konnten (vgl. Zunker 2008 S. 160, 164, 173f.).
 
 Durch den Friedensvertrag von Preßburg am 26. 12. 1805 fiel das ehemalige Fürstbistum an Bayern. Das Kloster St. Walburg wurde am 11. 7. 1806 aufgehoben, doch erhielten die Konventualinnen die Erlaubnis, bis zu ihrem Tod im Kloster zu bleiben. Sie behielten das klösterliche Leben bei, durften aber keine Novizinnen mehr aufnehmen. Dreizehn Mitglieder
-<!-- citation-page-bottom: Band13 p77 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk002.pdf#page=15 -->
-<!-- citation-page-top: Band13 p78 -->
 
-<!-- header: EICHSTÄTT ST. WALBURG -->
 
 
 == EICHSTÄTT ST. WALBURG ==
@@ -85,5 +79,3 @@ Durch den Friedensvertrag von Preßburg am 26. 12. 1805 fiel das ehemalige Fürs
 des alten Konvents waren 1835 noch am Leben, als St. Walburg durch König Ludwig I. von Bayern als Kloster wiederhergestellt wurde (Zunker 2008, Morasch S. 177f.). Es blühte rasch
 
 wieder auf, viele junge Frauen traten ein. Dem neuen Konvent wurde der Mädchenunterricht in Eichstätt übertragen. 1912 erhielt das Kloster St. Walburg wieder seinen Rang als Abtei.
-
-{{End}}

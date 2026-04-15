@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band06 p280 -->
 
 == PFROMBACH ==
 
@@ -59,14 +58,9 @@ C Höhe 6,50 m; 1,50 x 1,50
 D Höhe 6,70 m; 5,10 x 3,30  
 
 Erhaltungszustand und Restaurierungen: 1845 wurde das Innere renoviert. Nach dem Bericht vom Brand 1866 (AEM Bauten II) wurden das Gewölbe und damit die Deckenbilder durch das Feuer bzw. Löschwasser nicht beschädigt («das Innere der Kirche selbst blieb vollkommen unverletzt und unbeschädigt»), doch war während des Feuers das gesamte bewegliche Inventar aus der Kirche entfernt worden. Im Anschluß an den Brand wurde deshalb das Kircheninnere gereinigt. Damals oder schon 1845 wurden die Nebenbilder übermalt, und die Raumschale wurde dunkel gefaßt. Diesen Zustand fand man 1913 vor, als man mit der Kirchenerweiterung auch eine Restaurierung des Innenraums plante. Im Anschluß an die Langhauserweiterung 1914 wurden Wände und Deckenflächen kalkweiß gestrichen, die großen Deckenbilder gereinigt und ausgebessert. Die kleinen Nebenbilder an Zwickeln und Stichkappen waren unter der Tünche noch sichtbar und wurden aufgedeckt; sechs Stichkappenbilder im LHs wurden neu gemalt (als Restaurator war vom BLfD Bonifaz Locher, München, empfohlen worden). Bei der Entfeuchtung des Baus und der Innenrestaurierung 1957 reinigte Ludwig Keilhacker, Taufkirchen an der Vils, die Deckengemälde. Letzte Restaurierung 1976/81 durch Ludwig Keilhacker: Die Fresken wurden gereinigt, vom Schimmel befreit, Risse geschlossen, die Übermalungen der Restaurierung von 1914 abgenommen und kleinere Fehlstellen ergänzt. An den Nebenbildern wurden die lockeren Putzschichten gefestigt, die Ausbrüche geschlossen, die Bilder gereinigt und fixiert und die vielen Fehlstellen retuschiert. Zwei der nachbarocken Fresken in den Zwickeln zwischen erstem und zweiten LHs-Joch, im Bereich des Anbaus von 1914, Jakob segnet Esau (nördlich) sowie David und Goliath (südlich) wurden wieder entfernt; vier Nebenbilder von 1914 blieben in situ.
-<!-- citation-page-bottom: Band06 p281 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=17 -->
-<!-- citation-page-top: Band06 p282 -->
 
-<!-- header: PFROMBACH -->
 
-<!-- header: PFROMBACE -->
 
 
 [[File:Band06_chunk006_p017_img001.jpg|thumb]]
@@ -84,14 +78,9 @@ Auf Wolken erscheint Maria, das Kind auf den Armen, mit den Abzeichen des Apokal
 
 
 [[File:Band06_chunk006_p017_img002.jpg|thumb|B Die hll. Joachim und Anna mit ihrer Tochter Maria]]
-<!-- citation-page-bottom: Band06 p283 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=18 -->
-<!-- citation-page-top: Band06 p284 -->
 
-<!-- header: PFROMBACH -->
 
-<!-- header: PFROMBAC -->
 
 
 [[File:Band06_chunk006_p018_img001.jpg|thumb]]
@@ -101,7 +90,8 @@ kranz und den Mond unter ihren Füßen. Sie tritt auf die Schlange, die einen Ap
 
 Neben ihr stürzt der siebenköpfige Drache nach unten in das Feuer am Ufer; mit einigen seiner Köpfe bedroht er zähnefletschend Maria. Am Bildrand sind unter dem Schwanz des Drachens zahlreiche Sterne zu sehen.
 
-Das Bild illustriert die Hauptmotive aus dem zwölften Kapitel der Apokalypse des Johannes: »Und es erschien am Him mel ein großes Zeichen: eine Frau, umkleidet mit der Sonne der Mond unter ihren Füßen und auf ihrem Haupt ein Kranz von zwölf Sternen; und sie ist schwanger und schreit in Wehen und Geburtsqualen. Und ein anderes Zeichen erschien am Himmel und siehe: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern und auf seinen Köpfen sieben Kronen; und sein Schwanz fegte ein Drittel der Sterne des Himmels hinweg und warf sie auf die Erde. Und der Drache steht vor der Frau, die gebären soll, um gleich nach der<br>Geburt ihr Kind zu verschlingen ... Und gestürzt wurde der<br>große Drache, die alte Schlange, ... gestürzt wurde er auf die Erde ... Und als der Drache sah, daß er auf die Erde geworfen<br>war, verfolgte er die Frau, die den Knaben geboren hatte.<br>Da wurden der Frau die zwei Flügel des großen Adlers gegeben ...«
+Das Bild illustriert die Hauptmotive aus dem zwölften Kapitel der Apokalypse des Johannes: »Und es erschien am Him mel ein großes Zeichen: eine Frau, umkleidet mit der Sonne der Mond unter ihren Füßen und auf ihrem Haupt ein Kranz von zwölf Sternen; und sie ist schwanger und schreit in Wehen und Geburtsqualen. Und ein anderes Zeichen erschien am Himmel und siehe: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern und auf seinen Köpfen sieben Kronen; und sein Schwanz fegte ein Drittel der Sterne des Himmels hinweg und warf sie auf die Erde. Und der Drache steht vor der Frau, die gebären soll, um gleich nach der Geburt ihr Kind zu verschlingen ... Und gestürzt wurde der große Drache, die alte Schlange, ... gestürzt wurde er auf die Erde ... Und als der Drache sah, daß er auf die Erde geworfen war, verfolgte er die Frau, die den Knaben geboren hatte.
+Da wurden der Frau die zwei Flügel des großen Adlers gegeben ...«
 
 <blockquote>»Und es erschien am Himmel ein großes Zeichen: eine Frau, umkleidet mit der Sonne, der Mond unter ihren Füßen und auf ihrem Haupt ein Kranz von zwölf Sternen; und sie ist schwanger und schreit in Wehen und Geburtsqualen. Und ein anderes Zeichen erschien am Himmel und siehe: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern und auf seinen Köpfen sieben Kronen; und sein Schwanz fegte ein Drittel der Sterne des Himmels hinweg und warf sie auf die Erde. Und der Drache steht vor der Frau, die gebären soll, um gleich nach der Geburt ihr Kind zu verschlingen ... Und gestürzt wurde der große Drache, die alte Schlange, ... gestürzt wurde er auf die Erde ... Und als der Drache sah, daß er auf die Erde geworfen war, verfolgte er die Frau, die den Knaben geboren hatte. Da wurden der Frau die zwei Flügel des großen Adlers gegeben.«</blockquote>
 
@@ -130,14 +120,9 @@ Auch und vor allem das Apokalyptische Weib in der Vision des Johannes (A) bedeut
 
 
 4 TOD JOSEPHS In einem Innenraum liegt Joseph stehend in einem einfachen hölzernen Bett. Schreinerwerkzeug ist im Vordergrund zu sehen, an der Wand hängt eine Säge. Maria und Jesus stehen bei dem Sterbenden. Jesus hat seine rechte Hand ergriffen und hält ein kleines Kreuz hoch. Über dem Bett erscheint von Wolken umgeben das verschlossene Tor des Paradieses (die Erlösungstat Christi ist zum [legendären] Zeitpunkt des Josephs-Todes noch nicht vollendet).
-<!-- citation-page-bottom: Band06 p285 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=19 -->
-<!-- citation-page-top: Band06 p286 -->
 
-<!-- header: PFROMBACH -->
 
-<!-- header: PEROMBACE -->
 
 
 [[File:Band06_chunk006_p019_img001.jpg|thumb]]
@@ -163,10 +148,7 @@ Die Stichkappenbilder a-d von 1763 beziehen sich mit den jeweils danebenliegende
 
 
 [[File:Band06_chunk006_p019_img005.jpg|thumb]]
-<!-- citation-page-bottom: Band06 p287 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=20 -->
-<!-- citation-page-top: Band06 p288 -->
 
 
 [[File:Band06_chunk006_p020_img001.jpg|thumb]]
@@ -229,7 +211,3 @@ Brenninger, Georg, Die Pfarrkirche in Pfrombach, in: Amperland 14, 1978, S. 321�
 -, Joseph Unterleutner, ein Freisinger Maler der Rokokozeit, in: Amperland 17, 1981, S. 151–55.
 
 Dehio 1990, S. 969 f.
-<!-- citation-page-bottom: Band06 p289 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=21 -->
-{{End}}

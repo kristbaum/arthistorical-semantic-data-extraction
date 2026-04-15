@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p378 -->
 
-<!-- header: BAUERBACH -->
 
 Filialkirche, Gemeinde und Pfarrei Haunshofen (von Pähl vikariert), Diözese Augsburg; z. Z. der Ausmalung war die Pfarrei dem Kloster Bernried inkorporiert, Gericht Weilheim
 
@@ -25,7 +23,7 @@ Filialkirche, Gemeinde und Pfarrei Haunshofen (von Pähl vikariert), Diözese Au
 '''Patrozinium:''' St. Leonhard
 
 
-'''Zum Bauwerk:''' Die 1548 (Inschrift über dem Eingang) erbaute Kirche wurde 1709 (Inschrift an der W-Wand) umgestaltet und ausgeschmückt. Dabei handelt es sich um das LHs; Gesamtanlage und Einzelheiten der Dekoration stimmen mit diesem Datum überein. Gailler sagt in seiner Dekanatsbeschreibung von 1756: »Caeterum Ecclesia primum ante tria lustra funditus iterum aedificata...« Wir erhalten ein Datum um 1740; auf das Langhaus kann es sich nicht beziehen, es muß also der AR gemeint sein. »Die Kirchenrechnung von 1739 berichtet . . von einem neuen Turmbau. Neben dem Zimmermeiste ist . . . auch der Pollinger Maurermeister Resch genann<br>und mit ihm an Materialien 6000 Ziegelsteine, 440 Pflasterplatten, 5500 Dachplatten, 900 Metzen Kalk, 170 Fuder Sand und 8 Fässer Gips« (frdl. Mitt. Willi Mauthe, Weilheim). Pflasterplatten und Gips (Stuck) sprechen dafür, daß zu dieser Zeit auch der AR entstanden ist; damit stimmt der Stil der Stuckdekoration überein. Da die Kirchenrechnungen im Pfarramt Haunshofen von 1721 bis 1764 lückenlos sind (frdl. Mitt. Willi Mauthe), kommt also für den AR als Baudatum nur das Jahr 1739 in Betracht. — Einfacher Saal zu drei Jochen; eingezogener Vorchor und AR in Form eines angeschnittenen Kreises; im WEmpore
+'''Zum Bauwerk:''' Die 1548 (Inschrift über dem Eingang) erbaute Kirche wurde 1709 (Inschrift an der W-Wand) umgestaltet und ausgeschmückt. Dabei handelt es sich um das LHs; Gesamtanlage und Einzelheiten der Dekoration stimmen mit diesem Datum überein. Gailler sagt in seiner Dekanatsbeschreibung von 1756: »Caeterum Ecclesia primum ante tria lustra funditus iterum aedificata...« Wir erhalten ein Datum um 1740; auf das Langhaus kann es sich nicht beziehen, es muß also der AR gemeint sein. »Die Kirchenrechnung von 1739 berichtet . . von einem neuen Turmbau. Neben dem Zimmermeiste ist . . . auch der Pollinger Maurermeister Resch genann und mit ihm an Materialien 6000 Ziegelsteine, 440 Pflasterplatten, 5500 Dachplatten, 900 Metzen Kalk, 170 Fuder Sand und 8 Fässer Gips« (frdl. Mitt. Willi Mauthe, Weilheim). Pflasterplatten und Gips (Stuck) sprechen dafür, daß zu dieser Zeit auch der AR entstanden ist; damit stimmt der Stil der Stuckdekoration überein. Da die Kirchenrechnungen im Pfarramt Haunshofen von 1721 bis 1764 lückenlos sind (frdl. Mitt. Willi Mauthe), kommt also für den AR als Baudatum nur das Jahr 1739 in Betracht. — Einfacher Saal zu drei Jochen; eingezogener Vorchor und AR in Form eines angeschnittenen Kreises; im WEmpore
 
 
 '''Autor und Entstehungszeit:''' Die Entstehungszeit für A, B, C ist mit 1709 gegeben. Der Autor der schlichten, bäuerlich-naiven Malerei ist unbekannt, aber zweifellos identisch mit dem Maler des Deckenbildes im benachbarten Deutennausen.
@@ -83,12 +81,8 @@ B ST. LEONHARD PATRON VON BAUERBACH In dem vierpaßförmigen Fresko thront groß
 
 
 C ST. LEONHARD PATRON DER GEFANGENEN Mit sehr primitiven perspektivischen Mitteln ist ein dreiteiliger Schauplatz aufgebaut. Die linke Bildhälfte füllt ein Kircheninnenraum, in dem vor dem Altar des hl. Leonhard ein Mann mit Ketten kniet. Daneben geht der Blick in eine Landschaftsweite mit Burgberg und Burg im Hintergrund. Auf der rechten Seite ist ein Kastell dargestellt mit einem Turm, an den außen ein Mann angekettet hängt, und einem offenen Verlies, in dem zwei Männer im Block liegen. In Wolken erscheint eine Hand und weist auf den Angeketteten; ein himmlischer Strahl fällt auf ihn.
-<!-- citation-page-bottom: Band01 p379 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=16 -->
-<!-- citation-page-top: Band01 p380 -->
 
-<!-- header: BAUERBACE -->
 
 Farblich sind die Bilder im jetzigen Erhaltungszustand sehr beeinträchtigt. Die Erdfarben Ocker und Grün, sowie das Schwarz der Mönchskutte dominieren in den Bildern.
 
@@ -127,6 +121,3 @@ BERNBEUREN
 
 
 == Pfarrkirche Kapelle Mariä Heimsuchung S. 387 ==
-
-
-{{End}}

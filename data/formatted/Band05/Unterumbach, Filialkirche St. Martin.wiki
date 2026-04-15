@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p262 -->
 
-<!-- header: UNTERUMBACH -->
 
 
 == UNTERUMBACH ==
@@ -71,10 +69,7 @@ Der Priester und dieser Herr haben deutlich porträthafte Züge. Beim ersteren h
 
 
 [[File:Band05_chunk006_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p263 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=8 -->
-<!-- citation-page-top: Band05 p264 -->
 
 [[File:Band05_chunk006_p008_img001.jpg|thumb]]
 
@@ -103,7 +98,3 @@ B DER HL. MARTIN ALS PATRON VON UNTERUMBACH Dicke, graubraune Wolken bilden eine
 AEM, Pfarrakten Pfaffenhofen an der Glonn: Pfarrbeschreibung; Bauten II; Filiale Unterumbach 1653–1885.
 
 Schmidtsche Matrikel, Bd 2, S. 296–98. Mayer-Westermayer, Bd 1, S. 320–22. KDB I OB (1), S. 260. Kunst- und Kulturdenkmäler 1977, S. 368
-<!-- citation-page-bottom: Band05 p265 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=9 -->
-{{End}}

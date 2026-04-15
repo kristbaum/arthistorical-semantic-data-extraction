@@ -23,14 +23,9 @@ Im Langhaus wurde 1760 anstelle der ursprünglichen Holzdecke eine verputzte Fla
 
 
 [[File:Band12-1_chunk004_p017_img001.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band12 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band12 p184 -->
 
-<!-- header: HEILIG BLUT AM WASEN -->
 
-<!-- header: HEILIG BLUT AM WASEI -->
 
 zwei Seitenaltären (1764/65) durch den Aiblinger Kistler Sebastian Laufhüber. Die Deckenbilder befinden sich im AR. AR zu vier Jochen mit dreiseitigem Schluß, Pilastergliederung, gleichmäßige helle Belichtung durch vier hohe Krummer-Fenster im N, eins im S und durch zwei in den Schlußschrägen.
 
@@ -61,14 +56,10 @@ B ABENDMAHL Durch geraffte Vorhänge wird der Blick in einen apsidialen Innenrau
 Die Kirche besitzt vier Altäre. Der Hochaltar aus der Zeit um 1690 hat als Hauptbild die geschnitzte Gruppe des Gnadenstuhls, die dem Meister von Rabenden zugeschrieben wird und aus dem gotischen Altar stammt. Dem Gnadenstuhl ikonologisch zugeordnet sind die beiden Seitenfiguren der trauernden Maria und Johannes, Arbeiten des Rosenheimer Bildhauers Blasius Maß von 1690 (Zuschreibung Bomhard).
 
 [[File:Band12-1_chunk004_p018_img001.jpg|thumb|Das Chorgewölbe mit A Krönung Mariens, B Abendmahl (Anton Vicelli 1686/87, Stuck von Giulio Zuccalli gen. Christofori)]]
-<!-- citation-page-bottom: Band12 p185 -->
 
 <blockquote>»Gemeinsam sind ihnen die Figurentypen mit ihrer oft gedrehten Körperhaltung, die lebhafte Gestik, die gebauschten Gewänder, die Freude am Variieren der häufig im Profil dargestellten Physiognomien, die sehr fein gemalten Haar- und Barttrachten, wobei die Bärte im Profil oft abstehen, wie auch die Hände und Finger extrem lang gemalt sind und mit deutlich abgesetzten Fingergliedern«</blockquote>
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band12 p186 -->
 
-<!-- header: HEILIG BLUT AM WASEN -->
 
 
 [[File:Band12-1_chunk004_p019_img001.jpg|thumb|B Abendmahl]]
@@ -109,5 +100,3 @@ Pfister, Max, Baumeister aus Graubünden - Wegbereiter des Barock. Die auswärti
 Heuser, Hendrik, Der Holzwurm wohnt weiter im Altar, in: Oberbayrisches Volksblatt vom 19.7. 1997.
 
 O. V. (Benno Biehler, Hg. Pfarramt Heilig Blut), Die Kirchen der Pfarrei Rosenheim-Heilig Blut (= Christliche Kunst in Bayern Nr. 7), Salzburg 2000. A. B./K. S.
-
-{{End}}

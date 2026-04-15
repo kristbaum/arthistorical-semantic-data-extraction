@@ -33,12 +33,8 @@ Technik: unbekannt
 Maße: Höhe 3,20 m; 4,10 × 2,00
 
 Erhaltungszustand und Restaurierungen: Das Bildfeld ist weiß übertüncht; lediglich an zwei Stellen sind kleinformatige Freilegungen zu konstatieren. Wann das Deckengemälde übertüncht wurde, ist unklar. Frühere Zustände dokumentieren eine Zeichnung aus der Zeit vor bzw. von 1903 und ein Foto, das vor der Übertragung in die Hohe Schule aufgenommen wurde. Man darf wohl von einer Bemalung des Bildfeldes zur Zeit der Entstehung ausgehen. 1903 kaufte laut rückseitiger Beschriftung der Historische Verein Ingolstadt eine großformatige Tuschzeichnung, die der Dresdner Maler Oskar Rothe von der Stuckdecke – damals noch im Anwesen Theresienstraße 23 – angefertigt hatte (Stadtmuseum Ingolstadt, Graphische Sammlung II/36a, 55 × 39,5 cm, bez. gez. v. O. Rothe). Eine Dresdner Vereinigung hatte sich für die Restaurierung eingesetzt
-<!-- citation-page-bottom: Band14 p145 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=24 -->
-<!-- citation-page-top: Band14 p146 -->
 
-<!-- header: INGOLSTADT -->
 
 
 [[File:Band14_chunk003_p024_img001.jpg|thumb]]
@@ -62,12 +58,8 @@ Den oberen Rand des Stuckmedaillons umkrallt ein Adler. Als König der Vögel ve
 
 
 [[File:Band14_chunk003_p024_img002.jpg|thumb|Die Decke des Illuminatensaals, Photographische Aufnahme um 1925, Ingolstadt, Stadtmuseum]]
-<!-- citation-page-bottom: Band14 p147 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk003.pdf#page=25 -->
-<!-- citation-page-top: Band14 p148 -->
 
-<!-- header: INCOLSTADT -->
 
 
 [[File:Band14_chunk003_p025_img001.jpg|thumb]]
@@ -100,12 +92,8 @@ In dem Sinnbilder-Paar des Nasenschleifers samt dem »Vogel Selbsterkenntnis« u
 GÖTTERVERSAMMLUNG (nach der Zeichnung von Oskar Rothe und dem Photo vor der Transferierung) Himmelsszenerie über Landschafts- bzw. Meeresdarstellung in einansichtiger Bildkonzeption. Den einleitenden schmalen Bildstreifen nimmt eine ebene Meeresfläche ein, in der vier Zwittergeschöpfe stehen und auf Muschelhörnern blasen. Diese Tritonen und Nereiden sind das Gefolge des Meeresgottes Neptun. Am linken Bildrand formiert sich ein Felsengrund mit einem Baum. Auf der über dem Meer sich erhebenden Wolkenbank sitzen mehrere bekleidete bzw. halbnackte Personen. Es handelt sich um eine Götterversammlung, denn an den Attributen Lanze, Dreizack und Sense sind Mars, Neptun und Saturn identifizierbar. Das obere Drittel des Bildfeldes nimmt eine
 
 14
-<!-- citation-page-bottom: Band14 p149 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=1 -->
-<!-- citation-page-top: Band14 p150 -->
 
-<!-- header: INGOLSTAD -->
 
 ETTING
 
@@ -154,5 +142,3 @@ Grimminger, Christina, Illuminaten und Narren. Eine kuriose Geschichte um Nasens
 -, Der Medizinprofessor Johann Adam Morasch und die Bilderwelt der »Illuminatendecke« in der Hohen Schule zu Ingolstadt. Barocke Sinnbildsprache statt aufgeklärte Geheimzeichen, in: SHVI 118, 2009 (Druck in Vorbereitung).
 
 Pfarr- und ehemalige Wallfahrtskirche, Stadt Ingolstadt, Diözese Eichstätt. Zur Zeit der Ausmalung Gericht Etting-Stammham bzw. 1692–1700 Pfleggericht Vohburg.
-
-{{End}}

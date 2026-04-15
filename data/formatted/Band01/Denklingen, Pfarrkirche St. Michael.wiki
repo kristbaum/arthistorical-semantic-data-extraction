@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p30 -->
 
-<!-- header: DENKLINGEN -->
 
-<!-- header: DENKLINGEN -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung im Besitz des Hochstifts Augsburg, von dem auch das Präsentationsrecht ausgeübt wurde
 
@@ -61,12 +58,8 @@ Die Landschaft, bei deren Darstellung auf die Schrägansicht von unten keine Rü
 
 
 [[File:Band01_chunk001_p016_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p31 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=17 -->
-<!-- citation-page-top: Band01 p32 -->
 
-<!-- header: DENKLINGEN -->
 
 
 [[File:Band01_chunk001_p017_img001.jpg|thumb|A Wunder am Monte Gargano]]
@@ -84,10 +77,7 @@ Die düstere gewaltsame Handlung des Engelsturzes kommt in dem anschaulichen Cha
 
 
 [[File:Band01_chunk001_p017_img002.jpg|thumb|C Zug der Israeliten durch die Wüste und C1-4 Kirchenväter]]
-<!-- citation-page-bottom: Band01 p33 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=18 -->
-<!-- citation-page-top: Band01 p34 -->
 
 zitiert. Was in Denklingen an klassizistischer Tendenz im Ansatz vorhanden ist, zeigt in geradezu perfektionierter Form Huebers dreißig Jahre später entstandene Ausmalung der Kirche des nahegelegenen Schwabbruck (s. LKr. Weilheim-Schongau).
 
@@ -161,12 +151,8 @@ Michael (B) ist der Antagonist Satans und Anführer der himmlischen Heerscharen 
 Der Monte Gargano (A) ist benannt nach einem reichen Viehbesitzer namens Garganus, welcher der Legende nach im 4. Jh. in Sipont lebte und der seinen entkommenen Stier auf jenem Berge in einer Höhle wiederfand. Als er auf den Stier schoß, wendete der Pfeil und traf ihn selbst. Die erschrockenen und verwirrten Bürger beteten mit ihrem Bischof um ein Zeichen, und am dritten Tage tat ihnen der Erzengel Michael kund, dass dieser Ort sein Heiligtum sei, worauf Bischof und Bürger in einer Prozession zu der Höhle zogen. Im Bild sind die drei Ereignisse in einer Szene zusammengefasst (AASS, Sept. Tom. 8, S. 61–63).
 
 Die Darstellung des Erzengels Michael über dem Zug der Israeliten durch die Wüste (C) entspricht nicht der Schrift.
-<!-- citation-page-bottom: Band01 p35 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=19 -->
-<!-- citation-page-top: Band01 p36 -->
 
-<!-- header: DENKLINGEN -->
 
 DIENHAUSEN
 
@@ -176,5 +162,3 @@ In ikonographischer Hinsicht ist die Michaelsfigur höchst ungewöhnlich. Da sie
 
 
 == Quellen und Literatur ==
-
-{{End}}

@@ -81,12 +81,8 @@ A2 FEUER Die Allegorie des Feuers ist rechts im Bildvordergrund dargestellt; es 
 
 
 [[File:Band02_chunk002_p024_img005.jpg|thumb|A2 Feuer]]
-<!-- citation-page-bottom: Band02 p97 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=25 -->
-<!-- citation-page-top: Band02 p98 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
 [[File:Band02_chunk002_p025_img001.jpg|thumb]]
 
@@ -127,10 +123,7 @@ M<sub>3</sub> NOVEMBER (?) Die Hauptfigur zeigt einen Holzhacker (? das Bild ist
 [[File:Band02_chunk002_p025_img009.jpg|thumb]]
 
 [[File:Band02_chunk002_p025_img010.jpg|thumb|16 Dezember]]
-<!-- citation-page-bottom: Band02 p99 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=1 -->
-<!-- citation-page-top: Band02 p100 -->
 
 [[File:Band02_chunk003_p001_img001.jpg|thumb]]
 
@@ -147,6 +140,3 @@ M7 JULI Eine junge Frau, barfuß, in ländlicher Tracht, trägt über der Schult
 M8 FEBRUAR Ein rotgekleideter, dicker Koch mit weißer Schürze hält eine Platte mit gebratenem Geflügel. Kahle Bäume ragen in den winterlichen Himmel. Vor Häusern am linken Bildrand sieht man Masken beim Karnevalstreiben.
 
 Literatur siehe S 139
-
-
-{{End}}

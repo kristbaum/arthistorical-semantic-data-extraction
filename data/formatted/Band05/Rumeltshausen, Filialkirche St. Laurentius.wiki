@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p224 -->
 
-<!-- header: RUMELTSHAUSEN -->
 
 
 == RUMELTSHAUSEN ==
@@ -46,12 +44,8 @@ Franz Mayr, am 7. September 1707 als Sohn des Maurermeisters Balthasar Mayr und 
 
 
 [[File:Band05_chunk005_p013_img003.jpg|thumb|Lucas Vorsterman, Martyrium des hl. Laurentius, Stich nach einem Gemälde von Peter Paul Rubens, Amsterdam, Rijksprentenkabinet Inv. Nr. 383]]
-<!-- citation-page-bottom: Band05 p225 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=14 -->
-<!-- citation-page-top: Band05 p226 -->
 
-<!-- header: RUMELTSHAUSEN -->
 
 [[File:Band05_chunk005_p014_img001.jpg|thumb]]
 
@@ -92,10 +86,7 @@ A<sub>4</sub> S. Laurentius / Heillet die / Kranche. Palastartige Architekturen 
 
 Als Papst Sixtus II., dessen Schüler und Vertrauter der Diakon Laurentius war, zum Tode geführt wurde, vertraute er diesem die Kirchenschätze an, damit er sie an die Armen austeile. Laurentius suchte die Bedürftigen auf und gab ihnen Geld (A<sub>2</sub>). So kam er auch in das Haus der Witwe Cyriaca, die an vielen Leiden, vor allem an Kopfschmerzen, litt. Der Heilige heilte sie durch das Bezeichnen ihrer Stirne mit dem Kreuz (A<sub>4</sub>). Auf seinen weiteren Wegen zu den Christen, die sich vor Verfolgungen versteckt hielten, traf er einen Blinden namens Crescentius, den er durch das Kreuzzeichen heilte. Im Kerker machte er den Blinden Lucillus, indem er ihn taufte, wieder sehend, und als dieses Wunder bekannt wurde, strömten viele Blinde herbei, die er sämtlich mit dem Kreuzzeichen heilte (A<sub>3</sub>). Die Spendung des Altarssakraments an die in ihren Häusern versteckten Christen (A<sub>1</sub>) ist in den Legenden (LA-Benz, S. 564-78; Surius, Bd 4/2, S. 94-98; Ribadeneira-Hornig, Bd 2, S. 187-93) nicht ausdrücklich
 
-<!-- citation-page-bottom: Band05 p227 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=15 -->
-<!-- citation-page-top: Band05 p228 -->
 
 [[File:Band05_chunk005_p015_img001.jpg|thumb]]
 
@@ -118,12 +109,8 @@ Ein gantz/neues Leben, in Feur ihm wirdt geben Phönix. - Das Bild des Phönix k
 
 == B<sub>2</sub> ==
 Ehr brinet/zwar in der glueth, doch ihn nit verzöhren / thuet Brennender Dornbusch. – Dieses Sinnbild, meist für die Jungfräulichkeit Mariens gebraucht (Picinelli, Lib. IX, Nr. 438, s. v. rubus) steht hier für den Gedanken, daß das Feuer den Körper des Heiligen zwar vernichten kann, nicht aber seine unsterbliche Seele.
-<!-- citation-page-bottom: Band05 p229 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=16 -->
-<!-- citation-page-top: Band05 p230 -->
 
-<!-- header: RUMELTSHAUSEN -->
 
 B<sub>3</sub> Von / unten schen blüht und oben doch glüht Vulkan. - Das Bild des Berges Abanus, der am Fuße blüht und oben Feuer speit, soll hier an die Standhaftigkeit des Heiligen während seines Martyriums erinnern: »S. Laurentii Martyris virtus ac vitae sanctimonia etiam intra fatalis incendii flammas nihil e nativo suo virore deperdidit. Unde in eius encomium Carolus Rancatus Montem Abanum, non procul Patavio dissitum, depinxit: qui, tametsi Aetnae persimilis, copiosas undique flammas evomat, simul tamen non sine amaeno oculorum aspectu semper viret« (Picinelli, Lib. II, Nr. 618, s. v. abanus).
 
@@ -155,6 +142,3 @@ A. B.
 
 
 == SCHÖNBRUNN ==
-
-
-{{End}}

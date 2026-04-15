@@ -70,8 +70,3 @@ Gammel, Josef, Die Heimat und ihre Geschichte: Landersdorf, in: Das Mühlrad 5, 
 Landkreis Erding 1963, S. 339. Brenninger 1982, S. 114.
 
 Landkreis Erding 1985, S. 302.
-
-<!-- citation-page-bottom: Band07 p187 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=20 -->
-{{End}}

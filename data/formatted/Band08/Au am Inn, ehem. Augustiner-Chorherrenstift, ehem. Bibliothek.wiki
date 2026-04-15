@@ -28,15 +28,11 @@ Die ehemalige Bibliothek war bedeutend größer. Durch die Trennung des Klosters
 '''Auftraggeber:''' Propst Franz Millauer (1690-1710), dessen stuckiertes Wappen (springender Hirsch mit Ähren im Maul auf Dreiberg) sich an der S-Seite von A befindet. An der N-Seite das Stiftswappen (drei Wellenbänder, Silber auf Rot).
 
 '''Autor und Entstehungszeit:''' Zuweisung an Franz Mareis (* 1664 † 1732 ) nach 1690; Übermalungen von 1792
-<!-- citation-page-bottom: Band08 p59 -->
 
 
 [[File:Band08_chunk002_p005_img003.jpg|thumb|Glorie der hll. Sebastian und Rochus]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=6 -->
-<!-- citation-page-top: Band08 p60 -->
 
-<!-- header: AU AM INN -->
 
 
 [[File:Band08_chunk002_p006_img001.jpg|thumb|B Tag des Gerichts – Verfolgung der Verdammten]]
@@ -99,10 +95,7 @@ SW Früchtekorb. Der Früchtekorb ist als Attribut von Hieronymus nicht nachgewi
 a-b Zwei runde Medaillons in Stuckkartuschen an der Längssachse von Fresko A. Die Darstellung in a ist zerstört, die in b, ein heiliger Mönch mit einem Haus links und zwei Gestalten rechts am Boden, ist in den Sinnzusammenhang des ohnehin zerstörten Programms nicht einzuordnen.
 
 B TAG DES GERICHTS – VERFOLGUNG DER VERDAMMTEN Wolkenhimmel, nach oben aufgelichtet, nach unten mit schwarzen Wolkenmassen, aus denen Blitze zucken. Ein großer Engel fährt in dramatischer Pose aus dem Himmel
-<!-- citation-page-bottom: Band08 p61 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=7 -->
-<!-- citation-page-top: Band08 p62 -->
 
 [[File:Band08_chunk002_p007_img001.jpg|thumb]]
 
@@ -176,7 +169,3 @@ Schuster, Josef, Pfarr- und Klosterkirche Au am Inn, Ottobeuren 1983.
 Dehio 1990, S. 62-64.
 
 A.B./C.
-<!-- citation-page-bottom: Band08 p63 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=8 -->
-{{End}}

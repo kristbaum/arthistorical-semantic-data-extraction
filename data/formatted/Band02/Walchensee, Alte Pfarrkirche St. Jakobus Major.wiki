@@ -63,14 +63,9 @@ Erhaltungszustand und Restaurierungen: A und B und besonders 1–6 stark überma
 
 
 A ERSCHEINUNG DES HL. JAKOBUS IN DER SCHLACHT BEI CLAVIGO Das einansichtige Fresko verlangt einen Betrachterstandort am Kircheneingang unterhalb der südlichen Bildhälfte; dort verdeckt aber die
-<!-- citation-page-bottom: Band02 p261 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=7 -->
-<!-- citation-page-top: Band02 p262 -->
 
-<!-- header: WALCHENSE -->
 
-<!-- header: WALCHENSEE -->
 
 
 [[File:Band02_chunk006_p007_img001.jpg|thumb|B Glorie des hl. Jakobu]]
@@ -102,7 +97,6 @@ B GLORIE DES HL. JAKOBUS Einansichtiges Queroval mit Betrachterstandpunkt unter 
 
 
 [[File:Band02_chunk006_p007_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p263 -->
 
 
 1-6 JAKOBUS-SZENEN Monochrome, jeweils farblich paarweise zugeordnete Ovalmedaillons (1, 6 und 2, 5) sowie Kartuschen (3, 4) mit vielfigurigen Szenen in tafelbildmäßigem Aufbau.
@@ -119,10 +113,7 @@ JÄKOBUS IM STREITGESPRÄCH MIT DEN IRRLEHRERN Der Heilige steht mit dem Evangel
 
 TAUFE DES JOSIAS Vor einer Menschenansammlung empfängt der kniende Josias durch Jakobus die Taufe. Der Hohepriester Abiathar beauftragte einen Schriftgelehrten, Josias, den Heiligen gefangenzunehmen, um ihn Herodes Agrippa auszuliefern. Auf dem Weg zur Hinrichtung bekehrte und taufte Jakobus den Josias (LA-Benz, Sp. 637).
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=8 -->
-<!-- citation-page-top: Band02 p264 -->
 
-<!-- header: WALCHENSEE -->
 
 
 [[File:Band02_chunk006_p008_img001.jpg|thumb|4 Enthauptun]]
@@ -152,6 +143,3 @@ Mindera, Karl, Benediktbeuern (= GKF, Nr. 23), München <sup>3</sup>1970, S. 28,
 
 
 == WEGSCHEID ==
-
-
-{{End}}

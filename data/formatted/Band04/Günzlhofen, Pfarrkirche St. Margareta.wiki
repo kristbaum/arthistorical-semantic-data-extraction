@@ -12,9 +12,7 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band04 p162 -->
 
-<!-- header: GUNZLHOFEN -->
 
 
 == GUNZLHOFEN ==
@@ -58,12 +56,8 @@ Das stuckierte Deckenfeld ist leicht längsrechteckig. Um ein zentrales Medaillo
 
 
 [[File:Band04_chunk004_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p163 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band04 p164 -->
 
-<!-- header: GUNZLHOFEN -->
 
 
 [[File:Band04_chunk004_p008_img001.jpg|thumb]]
@@ -122,7 +116,3 @@ Landkreis Fürstenfeldbruck (o.V.), Heimatbuch, Pörsdorf 1963, S. 157 f.
 Kunst- und Kulturdenkmäler, 1977, S. 266 Dehio 1990 S 286 f
 
 B. S.
-<!-- citation-page-bottom: Band04 p165 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=9 -->
-{{End}}

@@ -11,7 +11,6 @@
 |AutorIn2=Rupprecht, Bernhard
 }}
 
-<!-- header: VORWORT -->
 
 Der vorliegende Band behandelt die barocken Deckenmalereien des Landkreises Fürstenfeldbruck. Abweichend von der bisherigen Editionsweise wird die Reihe von jetzt an jeweils einen Landkreis in einem Einzelband herausbringen, da sich mehrere Landkreise in einem Band zu vereinen als unhandlich erwiesen hat.
 
@@ -28,8 +27,3 @@ Die Zusammenarbeit mit einschlägigen Institutionen war ebenso ergiebig wie dank
 Das Zustandekommen des Buches war nur möglich mit der Unterstützung des Ernst von Siemens-Kunstfonds. Ihm sei herzlich gedankt.
 
 Hermann Bauer / Bernhard Rupprecht
-<!-- citation-page-bottom: Band04 p7 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=5 -->
-
-{{End}}

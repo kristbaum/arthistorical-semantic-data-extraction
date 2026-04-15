@@ -63,10 +63,7 @@ Trong egationen Akademische Marianische Kongregation Ingolstadt 49 Bürgerkongre
 Congregatio Maior Latina Ingolstadt 49 Congregatio Minor Latina Ingolstadt 49 Kongregation der Regulierten Chorfrauen von Notre Dame 100 Konrad III., König 253
 
 2101111111111111111111111111111111
-<!-- citation-page-bottom: Band14 p273 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk006.pdf#page=13 -->
-<!-- citation-page-top: Band14 p274 -->
 
 Müller, Maler in Ingolstadt 21 Müller, Johann Adam, Schüler Asams 127, 270 Mur, Jakob, Maurerpalier in Ingolstadt 164 Mutzl, Rupert II. OSB, Abt von Scheyern 243 Mutzl, Sebastian, Pfarrer von Enkering 243
 
@@ -191,5 +188,3 @@ Zächenberger, Wolfgang, Bildhauer und Stuckator in Ingolstadt 18, 36, 38, 50, 1
 117, 164 Zeiler, Bernd, Kirchenmaler in Pfaffenhofen 261 Zeiller, Johann Jakob, Maler in Reutte 248 Zimmermann, Franz Michael, Maler in München
 
 12/, 2/0 Zimmermann, Johann Baptist, Maler und Stuckator in München 117–19, 127–34, 205 f., 268, 270 Zimmerman, Johann Joseph, Maler 127, 270 Zink, Matthias, Maler in Eichstätt 179–87, 270 Zitter, Joseph, Maler 127
-
-{{End}}

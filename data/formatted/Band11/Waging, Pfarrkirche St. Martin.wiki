@@ -12,11 +12,8 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p196 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · WAGING -->
 
-<!-- header: WAGING -->
 
 Pfarrkirche, Markt Waging, Erzdiözese München und Freising; z.Z. der Ausmalung Erzdiözese Salzburg. Das freie Besetzungsrecht auf die Pfarrei hatte der Fürsterzbischof von Salzburg. An der Kirche bestand eine Allerseelen-Bruderschaft, errichtet 1676, und eine Rosenkranz-Bruderschaft, konfirmiert 1710. Der Markt Waging war Hauptort des Fürstbischöflich Salzburgischen Pfleggerichts Waging.
 
@@ -44,14 +41,9 @@ Das ursprüngliche LHs war ein dreijochiger Wandpfeilerraum mit Emporen. Zwische
 
 
 [[File:Band11_chunk004_p024_img003.jpg|thumb|A Enthauptung des hl. Maximilian von Lorch (1699)]]
-<!-- citation-page-bottom: Band11 p197 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk004.pdf#page=25 -->
-<!-- citation-page-top: Band11 p198 -->
 
-<!-- header: DEPER TRAINSTEIN . WACIN -->
 
-<!-- header: I ANDKREIS TRAUNSTEIN · WAGING -->
 
 
 [[File:Band11_chunk004_p025_img001.jpg|thumb]]
@@ -102,10 +94,7 @@ Kein Attribut weist auf die Identität des Märtyrers hin. Es handelt sich aber 
 B ENGEL UM DIE HL.-GEIST-ÖFFNUNG. Die kreisrunde Öffnung ist mit einem hölzernen Gitter verschlossen. In dem Bildfeld, das sie einschließt, bilden Putten einen Reiger und halten Rosen wie eine Girlande um die Öffnung (weitgehend erneuert, keine Abb.).
 
 C MARTIN VON TOURS TEILT SEINEN MANTEL MIT DEM BETTLER. Das hochovale Bildfeld zeigt in seiner unteren Hälfte einen freundlichen Wiesenplan mit Bäumen und in der Bildmitte Martin auf dem Pferd, mit Helm und Rüstung als römischer Soldat. Er hat das Schwert erhoben, um seinen Mantel zu teilen und die Hälfte davon einem dürftig
-<!-- citation-page-bottom: Band11 p199 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=1 -->
-<!-- citation-page-top: Band11 p200 -->
 
 
 == LANDKREIS TRAUNSTEIN · WAGING ==
@@ -160,5 +149,3 @@ In der Folgezeit gelang es dem Stift, das Rodungsgebiet um Berchtesgaden zu eine
 Im Frieden von Preßburg 1805 fiel das Land Berchtesgaden zusammen mit Salzburg an Österreich, durch den Schönbrunner Frieden 1809 an Bayern. Das Augustiner-Chorherrenstift wurde 1803 säkularisiert, dauerte aber als Vikariat bis 1807 fort. Der geistlichen Administration gehörten die ehemaligen Chorherren an. Dann wurde Berchtesgaden dem Erzbistum Salzburg und 1817 dem Erzbistum München und Freising einverleibt.
 
 Der sehr hohe und lange Chor der ehem. Stiftskirche mit dem dreiseitigen AR stammt aus der Zeit um 1300. Das Langhaus in Form einer gotischen Hallenkirche auf Rundpfeilern mit der Doppelturmfassade im W und der tiefen Vorhalle wurde um 1450 erbaut, unter Verwendung von Mauerwerk des romanischen Vorgängerbaus.
-
-{{End}}

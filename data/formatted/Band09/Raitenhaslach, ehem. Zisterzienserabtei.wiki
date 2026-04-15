@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band09 p148 -->
 
-<!-- header: RAITENHASLACH -->
 
 
 == RAITENHASLACH ==
@@ -60,14 +58,9 @@ Unter Abt Johann II. Stempfer (1385–1409) wurden die Pfarrkirchen von Halsbach
 
 
 [[File:Band09_chunk003_p025_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p149 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=1 -->
-<!-- citation-page-top: Band09 p150 -->
 
-<!-- header: RAITENHASLACH -->
 
-<!-- header: RAITENHASLACH -->
 
 Im Kloster Raitenhaslach wurde 1406 die Krankenkapelle St. Petrus, St. Paulus und St. Magdalena geweiht. 1408 wurde die Dreikönigskapelle am Kreuzgang zur Begräbnisstätte der Familie Grans geweiht. Unter Abt Johann V. Holzner (1474-83) wurde eine eigene Abtskapelle erbaut, die den Heiligen Jakobus, Johannes und Anna geweiht wurde.
 
@@ -77,7 +70,7 @@ Mit der Regierungszeit des Abts Candidus Wenzl (1688–1700) setzte eine neue Bl
 
 Unter Abt Robert Pendtner (1734–56) erhielt die Stiftskirche ihre Innenausstattung, rechtzeitig zur 600Jahrfeier des Stifts Raitenhaslach, die im Oktober 1743 mit einem dreitägigen Fest begangen wurde. Neue Kirchenfassade 1751.
 
-Am 26.9.1752 legte Abt Robert den Grundstein zu einem neuen Abteigebäude mit der Wohnung des Abtes, der Abtskapelle sowie Repräsentations- und Gästewohnungen. Es war der Auftakt zur Erneuerung der ganzen Klosteranlage. Baumeister war Franz Alois Mayr aus Trostberg, der bis zu seinem Tod 1771 die Bauausführung innehatte (s. dazu Stadtarchiv Burghausen, Pläne P 436a-d). Im Jahr 1753 wurden das alte Krankenhaus und die Krankenkapelle abgetragen (Reste sind im heutigen Pfarrgarten erhalten) und die Krankenabteilung in die Verlängerung des westlichen Kreuzgangflügels über den Südflügel hinaus verlegt. Abt Robert griff selbst in die Planung ein: »Das letzte endlich, an welches Robertus die Hand angelegt, ware der neue Closter-Bau: Cogitavi, ut aedificarem Domum, vor welchen er die Ris, und Modell nit allein muehsambist ausgedenckt, und selbst fleißigist aufgezeichnet, sonderen schon würklich daran arbeithen lassen, seinen hochwürdigisten Herren Successoribus, wie auch seinen lieben geistlichen Herren Söhnen... eine bequemere Wohnung zu<br>verschaffen, in der Intention und Meynung, gegenwärtig löb-<br>liches Kloster theils zu reparieren, theils mit neuen Gebäuden zu vergrößeren und resp. ein neues Closter herzustellen; hatte auch die von Grund auf neu aufgeführte Abbtey schon allbereits zum End gebracht, willens folgende Jahr hindurch alles in vollkommenen Stand zubringen. Aber leyder! Herr Prälat hat zwar den ClosterBau angefangen, denselben aber nit vollenden können...« Der Abt zeigte sich »demütig in seiner Bau- Art: Indeme er die Modell seiner Gebäuen nit nach dem Maß
+Am 26.9.1752 legte Abt Robert den Grundstein zu einem neuen Abteigebäude mit der Wohnung des Abtes, der Abtskapelle sowie Repräsentations- und Gästewohnungen. Es war der Auftakt zur Erneuerung der ganzen Klosteranlage. Baumeister war Franz Alois Mayr aus Trostberg, der bis zu seinem Tod 1771 die Bauausführung innehatte (s. dazu Stadtarchiv Burghausen, Pläne P 436a-d). Im Jahr 1753 wurden das alte Krankenhaus und die Krankenkapelle abgetragen (Reste sind im heutigen Pfarrgarten erhalten) und die Krankenabteilung in die Verlängerung des westlichen Kreuzgangflügels über den Südflügel hinaus verlegt. Abt Robert griff selbst in die Planung ein: »Das letzte endlich, an welches Robertus die Hand angelegt, ware der neue Closter-Bau: Cogitavi, ut aedificarem Domum, vor welchen er die Ris, und Modell nit allein muehsambist ausgedenckt, und selbst fleißigist aufgezeichnet, sonderen schon würklich daran arbeithen lassen, seinen hochwürdigisten Herren Successoribus, wie auch seinen lieben geistlichen Herren Söhnen... eine bequemere Wohnung zu verschaffen, in der Intention und Meynung, gegenwärtig löbliches Kloster theils zu reparieren, theils mit neuen Gebäuden zu vergrößeren und resp. ein neues Closter herzustellen; hatte auch die von Grund auf neu aufgeführte Abbtey schon allbereits zum End gebracht, willens folgende Jahr hindurch alles in vollkommenen Stand zubringen. Aber leyder! Herr Prälat hat zwar den ClosterBau angefangen, denselben aber nit vollenden können...« Der Abt zeigte sich »demütig in seiner Bau- Art: Indeme er die Modell seiner Gebäuen nit nach dem Maß
 
 stab großer Welt-Fabriquen, sonderen nach dem Schuch der Demuth abzeichnete, und da man in seinen neuen Closter-Bau secundum longum, latum & profundum etwas auszusetzen wuste, sich anderst nit excusierte, als das er ein Closter, nit einen Pallast zu bauen gedencke« (Trauerrede auf Abt Robert Pendtner S. 14, 16).
 
@@ -89,9 +82,9 @@ Während der Bauarbeiten am Nordflügel wurde schon der Südflügel mit altem Re
 
 Mit dem Ostflügel wurde das Geviert geschlossen. Abbruch im September 1779, mit dem alten Dormitorium und dem Museum sowie der darübergelegenen Krankenabteilung, Neubau in Abt Emanuels Todesjahr 1780. – Heute befinden sich im Ostflügel der Pfarrhof und im Südflügel die Schule.
 
-Emanuel II. Mayr hatte auch mit großem Aufwand die Wirtschaftsgebäude erneuert. In seiner Amtszeit verging kein Jahr, in dem er nicht eine Verschönerung im Kloster durchführte (BSB, Clm 12536, fol. 16). Um seine Verdienste zu ermessen, mußte man »sich des alten sowohl ungesunden als gefährlichen Gebäudes erinneren, und hinwieder das gegenwärtige nach allem Baugeschmacke vom Grunde aufgeführte, und fast zu Ende gebrachte Kloster in Augenschein ziehen; denn wer immer von Auswärtigen das vormals alte Stift betreten, mußte zwar im selben das Alterthum bewundern, aber auch zugleich<br>bekennen, daß er nicht entscheiden möge, ob er mehr Mitleiden mit den daselbst wohnenden Ordensmännern, oder aber für sich selbst mehr besorgt sein sollte, der Gefahr zu entweichen, welche die auseinander gespalteten, und nur mit Holz unterstützten Mauern beyden ganz nahe androheten.« Nachdem der Abt die Wirtschaftsgebäude erneuert hatte, die Mühle, die Bäckerei, das Bräuhaus, die Werkstätten, die Stallungen der Pferde, wankte er »nicht bei Ansehung eines aus-
+Emanuel II. Mayr hatte auch mit großem Aufwand die Wirtschaftsgebäude erneuert. In seiner Amtszeit verging kein Jahr, in dem er nicht eine Verschönerung im Kloster durchführte (BSB, Clm 12536, fol. 16). Um seine Verdienste zu ermessen, mußte man »sich des alten sowohl ungesunden als gefährlichen Gebäudes erinneren, und hinwieder das gegenwärtige nach allem Baugeschmacke vom Grunde aufgeführte, und fast zu Ende gebrachte Kloster in Augenschein ziehen; denn wer immer von Auswärtigen das vormals alte Stift betreten, mußte zwar im selben das Alterthum bewundern, aber auch zugleich bekennen, daß er nicht entscheiden möge, ob er mehr Mitleiden mit den daselbst wohnenden Ordensmännern, oder aber für sich selbst mehr besorgt sein sollte, der Gefahr zu entweichen, welche die auseinander gespalteten, und nur mit Holz unterstützten Mauern beyden ganz nahe androheten.« Nachdem der Abt die Wirtschaftsgebäude erneuert hatte, die Mühle, die Bäckerei, das Bräuhaus, die Werkstätten, die Stallungen der Pferde, wankte er »nicht bei Ansehung eines aus-
 
-geleerten Säckels. Er reißt demnach in vollem Vertrauen das<br>alte Kloster ein, und fängt das neue mit solchem Eifer an, daß man in Zeit von vier Jahren schier das ganze neue Kloster vom Grunde aufgebauet sehen und bewundern könnte« (Trauerrede auf Abt Emanuel II. Mayr S. 10).
+geleerten Säckels. Er reißt demnach in vollem Vertrauen das alte Kloster ein, und fängt das neue mit solchem Eifer an, daß man in Zeit von vier Jahren schier das ganze neue Kloster vom Grunde aufgebauet sehen und bewundern könnte« (Trauerrede auf Abt Emanuel II. Mayr S. 10).
 
 Das 18. Jh. war auch eine Zeit der großen Anstrengungen für die dem Kloster inkorporierten Kirchen. 1742 wurde Halsbach, 1749 St. Radegund/OÖ ausgestattet, 1751 Niederbergkirchen stuckiert und freskiert, ebenso Gumattenkirchen und Kirchisen. 1752-54 wurde Margarethenberg barockisiert, am 27.9.1760 legte Abt Emanuel den Grundstein zu dem prachtvollen Neubau von Marienberg (Weihe am 29.9.1764). Burgkirchen wurde 1762 umgebaut und freskiert.
 
@@ -100,5 +93,3 @@ Durch die Abtretung des Innviertels an Österreich im Frieden von Teschen 1779 g
 Nach dem Verbot des Jesuitenordens übernahmen die Zisterzienser von Raitenhaslach 1781 das Gymnasium in Burghausen. Abt Theobald Weißenbach (1780–92) baute 1780/85 einen neuen Bibliotheksbau auf der nördlichen Seite der Kirche; es war die letzte Baumaßnahme des Stifts Raitenhaslach. Aufhebung des Stifts am 18.3.1803. Damit begann der Abbruch der Klostergebäude, von dem wegen des neuen Baumaterials die zuletzt erbauten Trakte zuerst betroffen waren: der westliche Konvent- und der Refektoriumstrakt und der neue Bibliotheksbau. Erhalten sind Prälaten-, Festsaal- und Gartenstock; hier befinden sich noch Deckenbilder. Weil die zerstörten Bauten nach den Quellen mehr oder weniger zu rekonstruieren sind, werden sie hier mit behandelt.
 
 Die Kloster- und Wirtschaftsgebäude, die von 1804 bis 2003 in Besitz der Familie Baumgartner waren, werden derzeit ein zweites Mal versteigert. Uns war es leider nicht möglich, alle Räumlichkeiten zu sehen; daher bleibt manche Frage offen.
-
-{{End}}

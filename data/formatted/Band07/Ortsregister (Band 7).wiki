@@ -58,11 +58,3 @@ Verona 174, 176 Vilsbiburg 263
 Walkersaich 246 Walpertskirchen 104, 169, 246, 248, 312-15 Wambach 70, 119, 136 Wartenberg 41, 72, 146, 238 Weihenlinden 209 Weihenstephan 82 Weingarten 80 Wessobrunn 169, 262 Wilparting 209 Wörth 316-27
 
 Zell 178
-<!-- citation-page-bottom: Band07 p329 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=16 -->
-<!-- citation-page-top: Band07 p330 -->
-
-<!-- header: PERSONENREGISTER -->
-
-{{End}}

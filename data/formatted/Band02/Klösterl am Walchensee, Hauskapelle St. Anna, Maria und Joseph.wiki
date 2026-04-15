@@ -59,14 +59,9 @@ Als Basis der Figurenkomposition dient ein Stufenpodest von dem nur die Kanten d
 Unbuntes blasses Rosa-Violett, Hellblau und Graugrün sind im ganzen Bild gleichmäßig eingesetzt, kleinteilig gegliedert und in gebrochenen Tönen aufgehellt. Dadurch wirkt das Fresko optisch in die ornamentale Stuckdekoration einbezogen.
 
 Zwei Figuren an der Bildbasis, der Engel des Matthäus links und der Stier des Lukas rechts, führen in das Bild ein. Die dazugehörigen Inschriften bieten den Schlüssel für die Bildikonographie: Die Evangelistensymbole verweisen auf die Genealogie Christi nach Matthäus und Lukas, ebenso die Buchinschrift beim Stier LIBER / GENE=/RATI=/
-<!-- citation-page-bottom: Band02 p195 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=24 -->
-<!-- citation-page-top: Band02 p196 -->
 
-<!-- header: KLOSTERL -->
 
-<!-- header: KLOSTERI -->
 
 ONIS / IESV / CHRISTJ / Secundum / LVCAM (Text nach Mt 1, 1; Verweis auf die Genealogie Lc 3, 23–38). In der Stammtafel des Engels ist ein Geschlechterbaum zu sehen, um verzweigte Blattranken winden sich Inschriftbänder mit den Namen der Ahnen und der Sippe der Anna, von unten zu lesen, in der Mitte an der Wurzel ABRAHAM. Pater Multarum / Gentium - direkt darüber - ISAAC. - am linken Zweig folgen – DAVID – und darüber – IACOB (die drei Stammväter, vgl. Mt 1, 1-2 u. 1, 6; Lc 3, 31 u. 34; Jakob ist vielleicht auch als Vater Josephs, des Nährvaters Jesu - Mt 1, 16 - zu verstehen). Am rechten Zweig - AARON (Bruder des Moses und erster Hoherpriester)darüber – MATHATHIAS (ein Vorfahre in der Liste Lc 3, 26 »Qui fuit Mathathiae« und der Priester zu Modin, der Vater des Helden Judas Makkabäus – 1 Mach 2) – darüber - MEPHIBOS. (Mephiboseth, Sohn des Jonathan und Enkel Sauls – 2 Sam 21, 7).
 
@@ -99,12 +94,8 @@ Der Ikonographie von Hl.-Sippe-Darstellungen folgende könnte man in den beiden 
 
 
 [[File:Band02_chunk004_p024_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p197 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=25 -->
-<!-- citation-page-top: Band02 p198 -->
 
-<!-- header: KLÖSTERL -->
 
 
 == Quellen und Literatur ==
@@ -116,6 +107,3 @@ Emerich, Karl, Die Gründung des Klösterls am Walchensee, in: Bayerland 19, 190
 
 
 == KOCHEI ==
-
-
-{{End}}

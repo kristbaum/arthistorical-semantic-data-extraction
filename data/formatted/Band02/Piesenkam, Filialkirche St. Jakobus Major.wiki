@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p546 -->
 
-<!-- header: PIESENKAM -->
 
 
 == PIESENKAM ==
@@ -84,14 +82,9 @@ C ENTHAUPTUNG DES HL. JAKOBUS Hinter einem dunklen Repoussoirstreifen mit Jupite
 
 In der Mitte des Richtplatzes kniet Jakobus mit gefalteten Händen. Vor ihm ist eine Räucherpfanne aufgestellt, und ein Knabe hält eine Jupiterstatue. Ein heidnischer Priester versucht Jakobus zum Götzendienst zu bewegen; dieser
 
-<!-- citation-page-bottom: Band02 p547 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=25 -->
-<!-- citation-page-top: Band02 p548 -->
 
-<!-- header: PIESENKAM -->
 
-<!-- header: REICHERSDORF -->
 
 
 [[File:Band02_chunk011_p025_img001.jpg|thumb|D Glorie des hl. Iakobus]]
@@ -122,5 +115,3 @@ Seidl, Oskar, Die Kirchen und Kapellen des Dekanats Tegernsee, München 1913, S.
 Dehio-Gall OB, S. 244.
 
 Bauer, Anton, Allgaukapelle und Allgauklause bei Piesenkam, in: Beiträge zur altbayerischen Kirchengeschichte, Bd 25, 1967, S. 119–44.
-
-{{End}}

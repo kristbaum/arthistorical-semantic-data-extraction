@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p162 -->
 
 == GOTTING ==
 
@@ -56,14 +55,9 @@ Vom gleichen Maler wie die Deckenbilder stammen auch die Hochaltarbilder.
 Träger der Deckenmalerei: LHs (A-D) und AR (E) Tonne mit Stichkappen und Gurtteilung; die sehr kleinen Bildfelder a-m liegen in den Stichkappen
 
 Rahmen: A, C und E Vierpässe mit Stuckprofilrahmung; B und D Rundbilder mit Stuckprofilrahmung; a-m Ovalmedaillons in Stuckprofil, umgeben von Blattmotiven
-<!-- citation-page-bottom: Band12 p163 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band12 p164 -->
 
-<!-- header: GOTTING -->
 
-<!-- header: GOTTING -->
 
 
 [[File:Band12-1_chunk004_p008_img001.jpg|thumb]]
@@ -104,14 +98,9 @@ B DIE ERRETTUNG DES LOT (Gen 19,1–26) Das runde Bildfeld zeigt eine weite baum
 Zwei Engel kamen zu Lot, dem einzigen Gerechten in der Stadt Sodom, um ihn vor dem bevorstehenden Untergang zu retten. Sie führten ihn mit seiner Frau und seinen beiden Töchtern fort. Sodom und Gomorrha wurden vom Feuer Gottes verzehrt und Lots Weib, das sich trotz des Verbotes umblickte um die brennende Stadt zu sehen, erstarrte zur Salzsäule.
 
 C DANIEL IN DER LOWENGRUBE (Dan 6,17–24) Die Löwengrube ist als weitläufige gewölbte Substruktion gegeben, durch deren Bögen man rechts nach oben ins Freie blickt. Pflanzen hängen von oben und verleihen dem Schauplatz einen grottenartigen, unterirdischen Charakter. In der Bildmitte kniet Daniel, von Löwen umringt, deren einer zu-
-<!-- citation-page-bottom: Band12 p165 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=9 -->
-<!-- citation-page-top: Band12 p166 -->
 
-<!-- header: GÖTTING -->
 
-<!-- header: COTTING -->
 
 
 [[File:Band12-1_chunk004_p009_img001.jpg|thumb|F Speisung des Eliz]]
@@ -147,10 +136,7 @@ h LEUCHTTURM Auf einem Leuchtturm am Meeresufer steht eine Monstranz. Auf dem Me
 
 
 [[File:Band12-1_chunk004_p009_img002.jpg|thumb|C Daniel in der Löwengrube]]
-<!-- citation-page-bottom: Band12 p167 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=10 -->
-<!-- citation-page-top: Band12 p168 -->
 
 
 [[File:Band12-1_chunk004_p010_img001.jpg|thumb|Aufgehende Sonn]]
@@ -235,7 +221,3 @@ Historischer Atlas I, Bd 17, Gericht Aibling und Reichsgraf schaft Hohenwaldeck 
 Dehio 1990, S. 363 f.
 
 o.V. (Thomas Gruber), Ein Haus voll Glorie. Pfarrkirche St. Michael in Götting (Festschrift zum Abschluß der Renovierung), Götting 2002. A. B.
-<!-- citation-page-bottom: Band12 p169 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=11 -->
-{{End}}

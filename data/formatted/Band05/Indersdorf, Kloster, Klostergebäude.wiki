@@ -12,9 +12,7 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band05 p140 -->
 
-<!-- header: KLOSTER INDERSDORF -->
 
 Kapelle, zeitweise Kapitelsaal
 
@@ -55,12 +53,8 @@ Langgestrecktes, die ganze Decke überspannendes Fresko, einansichtig, Blickrich
 [[File:Band05_chunk003_p021_img002.jpg|thumb|A Der hl. Nikolaus empfiehlt die Neugründung Indersdorf der Dreifaltigkeit, Deckenfresko in der Nikolauskapelle]]  
 
 [[File:Band05_chunk003_p021_img003.jpg|thumb|Doppelwappen von Kloster Indersdorf über der Altarwand]]  
-<!-- citation-page-bottom: Band05 p141 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk003.pdf#page=22 -->
-<!-- citation-page-top: Band05 p142 -->
 
-<!-- header: KLOSTER INDERSDORF -->
 
 
 [[File:Band05_chunk003_p022_img001.jpg|thumb]]
@@ -103,10 +97,7 @@ Otto V. (IV.) siedelte das Sühnekloster (s. o.) bei der 1096 von seinem Vater e
 == 4 Genealogie ==
 
 Über das Patrozinium der Kapelle berichtet der Churbayerisch-Geistliche Kalender von 1754 (s. u.), der Erbauer, Otto III. von Wittelsbach, habe von einem Besuch am Grabe in Myra, in einer goldenen Büchse verwahrt, einen Finger des hl. Nikolaus mitgebracht, ihn zu Hause jedoch nicht mehr vorgefunden, da er sich inzwischen in wohlriechendes Öl verwandelt gehabt habe. Dieses Wunder veranlaßte den frommen Fürsten zur Gründung zahlreicher Nikolausheiligtümer. Die Wahl des Bildthemas ist für die Nikolauskapelle, die Urzelle des Konvents und Grablege der Wittelsbacher, naheliegend, vor allem entspricht sie den ausgeprägten historischen Interessen des Auftraggebers Gelasius Morhart. Er befaßte sich mit der Geschichte des Stifts ausführlich bereits um 1734 in einer lateinischen Chronik (AEM, Deutingeriana B 1391), der er 1762 die immer wieder zitierte, kürzere Version in deutscher Sprache im Druck folgen ließ. Er beschäftigte sich darin mit der Gründung des Klosters, der Familie des Stifters und mit den im Stift begrabenen Adeligen. Anläßlich der Barockisierung der Kapelle ließ er, nach dem Vorbild des Freisinger Domkreuzgangs (s. CBD, Bd 6) fünfzehn Grabsteine dorthin transferieren und an den Wänden aufstellen, an jeder Längsseite 7, den Grabstein des Stifters rechts vom Eingang an die W-Wand. In den 6 Stichkappen des Gewölbes (a<sub>1-4</sub>, b<sub>1-2</sub>) wurden in Rocaillekartuschen die Wappen der hier begrabenen Geschlechter gemalt, darunter hingen jeweils die entsprechenden, auf Holz gemalten, ovalen Porträts (heute im Schiff der Kirche). Bildnisse und Wappen beziehen sich jeweils auf die darunter in der Wand eingelassenen Grabsteine, unter den mittleren Stichkappen jeweils drei, unter den äußeren je zwei Grabsteine. Die Holzpilaster zwischen den Grabsteinen schmückte Dieffenbrunner 1761 mit weiteren Wappen hier begrabener Familien. Sie beginnen
-<!-- citation-page-bottom: Band05 p143 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk003.pdf#page=23 -->
-<!-- citation-page-top: Band05 p144 -->
 
 in der W-Ecke der N-Wand und laufen in alphabetischer Folge um den ganzen Raum; auf dem vorletzten Pilaster leere Wappenschilde; der letzte Pilaster blieb ganz leer. Das Stiftergrabmal wurde mit einem hölzernen Kasten umkleidet, auf den Dieffenbrunner eine Darstellung des Pfalzgrafen malte, die dem Relief der heute stark verwitterten Tumba entspricht.
 
@@ -155,5 +146,3 @@ AFRA BRUNNER: Goldener Brunnen mit Schöpfvorrichtung auf grünem Berg vor blaue
 (Zu den Grabsteinen und ihrer Abfolge s. KDB, S. 297-300. - Die Reihenfolge auf dem Stich in der Morhart-Chronik Taf. 11, entspricht der tatsächlichen Aufstellung nur teilweise.)
 
 Literatur s. S. 150 f.
-
-{{End}}

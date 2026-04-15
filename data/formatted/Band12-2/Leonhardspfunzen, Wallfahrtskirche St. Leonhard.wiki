@@ -32,22 +32,16 @@ Schluß, Pilastergliederung; Belichtung durch zwei Fenster im N, eins im S und z
 
 
 [[File:Band12-2_chunk001_p022_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p343 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=23 -->
-<!-- citation-page-top: Band12 p344 -->
 
-<!-- header: LEONHARDSPFUNZEN -->
 
-<!-- header: LEONHARDSPFUNZEI -->
 
-<!-- header: Kapelle -->
 
 
 [[File:Band12-2_chunk001_p023_img001.jpg|thumb]]
 
 
-also kein gesichertes Vergleichsbeispiel gibt, kann man die Deckenbilder in Leonhardspfunzen Krenzner nicht eigent-<br>lich zuweisen, wenn seine Autorschaft auch höchst wahrscheinlich ist.
+also kein gesichertes Vergleichsbeispiel gibt, kann man die Deckenbilder in Leonhardspfunzen Krenzner nicht eigentlich zuweisen, wenn seine Autorschaft auch höchst wahrscheinlich ist.
 
 
 == Befund ==
@@ -97,5 +91,3 @@ EB<sub>6</sub> Der h. Leonhart, baut zu Ehren Mariens eine Kirche
 EB, H. Egiedius, bitt für uns  
 
 Die Bilder der oberen Emporenbrüstung stammen von 1823.
-
-{{End}}

@@ -12,19 +12,16 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band13 p376 -->
 
-<!-- header: DEAHI DORI -->
 
-<!-- header: PEAHLDORI -->
 
-Pfarrkirche, Markt Kipfenberg, Diözese Eichstätt, bis 1752<br>Filialkirche der Pfarrei Gungolding; z.Z. der Ausmalung<br>Hochstift Eichstätt. Bis 1972 Reg.Bez. Mittelfranken.
+Pfarrkirche, Markt Kipfenberg, Diözese Eichstätt, bis 1752 Filialkirche der Pfarrei Gungolding; z.Z. der Ausmalung Hochstift Eichstätt. Bis 1972 Reg.Bez. Mittelfranken.
 
 
 '''Patrozinium:''' St. Johannes Baptist
 
 
-'''Zum Bauwerk:''' Die aus dem Mittelalter stammende Chorturmanlage wurde 1760/61 neu erbaut, unter Beibehaltung des Turms. Plan des Eichstätter Baumeisters Giovanni Domenico Barbieri, Kosten 989 fl. Wohl im Zusammenhang mit der Erhebung zur Pfarrkirche war bereits ab 1754 ein Neubau geplant, aus diesem Jahr datieren Entwürfe und Spezifikationen von Maurermeister Michl Aur und Zimmermeister Mathias Fürthalber, beide Bürger in Kipfenberg. Weitere Überschläge 1758. Der von Barbieri vorgelegte Riss und Über schlag kam zur Ausführung und wurde 1761 abgerechnet »Bau-Rechnung über alle Einnamb= und Ausgaab der Nei e Thurms zu Pfalldorff Ambts Küpfenberg so durch mich<br>Dominicum Barbieri Domcapitulischer Paumeistern besche<br>hen in den Jahren 1760 et 61« (DAEI, Pfarrakten Pfahldor I,1). Die Baumeisterwitwe Agnes Barbieri erhob noch 1762 einen Ausstand von 20 fl. Weihe am 14. 10. 1792. 1832 Turm teilweise neu erbaut und um 26 Fuß verkürzt, 1927 Bau der Vorhalle.
+'''Zum Bauwerk:''' Die aus dem Mittelalter stammende Chorturmanlage wurde 1760/61 neu erbaut, unter Beibehaltung des Turms. Plan des Eichstätter Baumeisters Giovanni Domenico Barbieri, Kosten 989 fl. Wohl im Zusammenhang mit der Erhebung zur Pfarrkirche war bereits ab 1754 ein Neubau geplant, aus diesem Jahr datieren Entwürfe und Spezifikationen von Maurermeister Michl Aur und Zimmermeister Mathias Fürthalber, beide Bürger in Kipfenberg. Weitere Überschläge 1758. Der von Barbieri vorgelegte Riss und Über schlag kam zur Ausführung und wurde 1761 abgerechnet »Bau-Rechnung über alle Einnamb= und Ausgaab der Nei e Thurms zu Pfalldorff Ambts Küpfenberg so durch mich Dominicum Barbieri Domcapitulischer Paumeistern besche hen in den Jahren 1760 et 61« (DAEI, Pfarrakten Pfahldor I,1). Die Baumeisterwitwe Agnes Barbieri erhob noch 1762 einen Ausstand von 20 fl. Weihe am 14. 10. 1792. 1832 Turm teilweise neu erbaut und um 26 Fuß verkürzt, 1927 Bau der Vorhalle.
 
 Flachgedeckter Saalbau (12,10×8,30m) zu drei Jochen, Empore im Westen. Belichtung durch drei Fensterpaare im Langhaus. Kleiner Altarraum (5,10×3,40m) im Turm mit einem Fenster nach Norden.
 
@@ -53,7 +50,6 @@ Erhaltungszustand und Restaurierungen: Die Kirche hat jahrzehntelang unter Feuch
 
 
 [[File:Band13_chunk008_p014_img003.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band13 p377 -->
 
 
 [[File:Band13_chunk008_p014_img001.jpg|thumb|A Enthauptung Johannes des Täufers (Anton Köll 1760)]]
@@ -62,10 +58,7 @@ Erhaltungszustand und Restaurierungen: Die Kirche hat jahrzehntelang unter Feuch
 
 [[File:Band13_chunk008_p014_img002.jpg|thumb|Joseph (Anton Köll 1760)]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk008.pdf#page=15 -->
-<!-- citation-page-top: Band13 p378 -->
 
-<!-- header: PFAHLDORF -->
 
 [[File:Band13_chunk008_p015_img001.jpg|thumb]]
 
@@ -110,7 +103,3 @@ Buchner Bistum Eichstätt 1938, S. 359-65
 Mardagant, Silvio und Emanuel Braun (Hg.), Giovanni Domenico Barbieri (1704–1764). Ein Graubündner als Hofmaurermeister des Fürstbischofs von Eichstätt. Autobiographie und Ausgabenjournal, Regensburg 2004, S. 139. Dehio OB 1990, S. 967; 2006, S. 1053.
 
 C. B.
-<!-- citation-page-bottom: Band13 p379 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk008.pdf#page=16 -->
-{{End}}

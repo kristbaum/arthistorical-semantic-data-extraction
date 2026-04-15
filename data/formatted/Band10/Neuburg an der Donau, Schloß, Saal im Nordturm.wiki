@@ -41,14 +41,9 @@ AUFBRUCH DER DIANA ZUR JAGD (Blickrichtung nach W) In einer waldreichen, hügeli
 
 
 [[File:Band10_chunk005_p011_img001.jpg|thumb|Diana-Zimmer]]
-<!-- citation-page-bottom: Band10 p223 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=12 -->
-<!-- citation-page-top: Band10 p224 -->
 
-<!-- header: NICITOTIDA -->
 
-<!-- header: NEUBURG -->
 
 
 == Ehemaliges Malereikabinet ==
@@ -77,5 +72,3 @@ Zollner, Christiana, Der Philipp-Wilhelm-Bau in Neuburg an der Donau – Archite
 Dehio 1990, S. 864
 
 Schloßmuseum Neuburg an der Donau. Amtlicher Führer, bearb. von Horst H. Stierhof und Petra Haller, München 1998, S. 64.
-
-{{End}}

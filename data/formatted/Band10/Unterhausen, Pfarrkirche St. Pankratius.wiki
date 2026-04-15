@@ -12,9 +12,7 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band10 p308 -->
 
-<!-- header: UNTERHAUSEN -->
 
 
 == UNTERHAUSEN ==
@@ -40,14 +38,9 @@ Nach dessen Aufhebung 1773 kam die Hofmark 1781 an die Malteserordenskommende Ne
 
 
 [[File:Band10_chunk007_p004_img003.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band10 p309 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=5 -->
-<!-- citation-page-top: Band10 p310 -->
 
-<!-- header: UNTERHAUSEN -->
 
-<!-- header: UNTERHAUSEN -->
 
 kierung (s.u.). In dieser Ausstattungsphase entstand das Hochaltarbild mit der Darstellung des hl. Pankratius von Johann Nepomuk della Croce, 1801. Die Seitenaltarbilder wurden ebenfalls von ihm ausgeführt, zusammen mit seinem Sohn Clemens Johann Evangelist della Croce, 1805. Den im Stil des 18. Jh. gehaltenen Turm erbaute man 1820 als Ersatz für einen hölzernen Dachreiter.
 
@@ -101,12 +94,8 @@ A MARTYRIUM DES HL. PANKRATIUS Die einansichtige, nach O gerichtete Darstellung 
 
 
 [[File:Band10_chunk007_p005_img004.jpg|thumb|Pankratius wird abgeführt]]
-<!-- citation-page-bottom: Band10 p311 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk007.pdf#page=6 -->
-<!-- citation-page-top: Band10 p312 -->
 
-<!-- header: UNTERHAUSEN -->
 
 
 [[File:Band10_chunk007_p006_img001.jpg|thumb|B Glorie dec hl Pankratin]]
@@ -149,7 +138,3 @@ Pötzl, III, S. 43, 58
 Großmann, Lore, Geschichte der Stadt Donauwörth, 2: 1618 bis zur Gegenwart, Donauwörth 1978, S. 362 (Lebensdaten Leitkraths).
 
 Drobner, Hubertus R., Der heilige Pankratius. Leben, Legende und Verehrung, Paderborn 1988, S. 9 passim, S. 47, 51.
-
-<!-- header: WAIDHOFEN -->
-
-{{End}}

@@ -20,12 +20,8 @@ Pfarrkirche, Gemeinde Vierkirchen, Erzdiözese München und Freising; z. Z. der 
 '''Patrozinium:''' St. Jakobus der Ältere
 
 '''Zum Bauwerk:''' Erster Plan mit Kostenvoranschlag (2250 fl.) für einen Neubau anstelle der baufälligen mittelalterlichen Kirche 1753 durch den Dachauer Schloßmaurermeister Anton Glonner. Es folgten lange, ergebnislose Verhandlungen des Pfarrers von Vierkirchen um die Finanzierung des Neubaus mit dem Fürstbischof von Freising, Johann Theodor von Bayern, und dem Pfleger von Dachau, Joseph Graf Piosasque de Non. Im Frühjahr 1759 stürzte ein Teil des Gewölbes der alten Kirche ein, und diese war nicht mehr benutzbar; die Reliquien der Altäre wurden nach Freising gebracht. Im gleichen Jahr brachte Pfarrer Gröbmeier
-<!-- citation-page-bottom: Band05 p275 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=14 -->
-<!-- citation-page-top: Band05 p276 -->
 
-<!-- header: VIERKIRCHEN -->
 
 
 [[File:Band05_chunk006_p014_img001.jpg|thumb]]
@@ -39,20 +35,14 @@ Pfarrkirche, Gemeinde Vierkirchen, Erzdiözese München und Freising; z. Z. der 
 
 
 [[File:Band05_chunk006_p014_img003.jpg|thumb|A Salome, die Mutter des Jakobus und Johannes, vor Jesus]]
-<!-- citation-page-bottom: Band05 p277 -->
 
 
-<!-- header: VIERKIRCHEN -->
 
 
 3
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=15 -->
-<!-- citation-page-top: Band05 p278 -->
 
-<!-- header: VIERKIRCHEN -->
 
-<!-- header: VIERKIRCHE -->
 
 saeculis exstructam vetustate penitus collabentem Plur. Rever: Doct: D. Joan. Geo. Gröbmaier Consil: Eccles: Frising: ac Parochus dignissimus huiatis Ecclesiae impenso largo aere a fundamentis excitavit ao Dni 1763 (angebracht von Gröbmeiers Nachfolger, Pfarrer Johann Baptist von Edling). - Gröbmeiers Epitaphinschrift (rechts vom Eingang) lautet: Hoc monumentum sibi et matri suae Mariae p.m. Anno 1746... defunctae... posuit Joannes Georgius Gröbmayr Rector et Erector huius Ecclesiae, caepit erigere Anno 1763, Rexit per 40 Annos, 10. Oct. obiit Anno 1779 aetatis suae 76. Die Bekrönung des Epitaphs schmückt ein Putto, der den Bauplan von Vierkirchen hält.
 
@@ -96,12 +86,8 @@ B MARTYRIUM DES HL. JAKOBUS D. Ä. Aufnahmestandpunkt unter dem westlichen Bildr
 
 
 [[File:Band05_chunk006_p015_img001.jpg|thumb|Martyrium des hl. Jakobus und C Verklärung Christi]]
-<!-- citation-page-bottom: Band05 p279 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=16 -->
-<!-- citation-page-top: Band05 p280 -->
 
-<!-- header: VIERKIRCHEN -->
 
 
 [[File:Band05_chunk006_p016_img001.jpg|thumb]]
@@ -166,14 +152,9 @@ EB<sub>7</sub> Johannes mit dem Kelch
 EB<sub>8</sub> Philippus mit dem Kreuz
 EB<sub>9</sub> Bartholomäus mit dem Messer
 EB<sub>10</sub> Jakobus Minor mit Stange und Buch
-<!-- citation-page-bottom: Band05 p281 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=17 -->
-<!-- citation-page-top: Band05 p282 -->
 
-<!-- header: VIERKIRCHEN -->
 
-<!-- header: VIERKIRCHEN -->
 
 der oberen, EB<sub>6-10</sub> an der unteren Brüstung (Zählung jeweils von links nach rechts). Die jeweils mittleren Bildfelder (EB<sub>3</sub> und EB<sub>8</sub>) sind hochoval, die übrigen querformatig. Die Lemmata befinden sich oben im Bild. Die Embleme sind weitgehend erneuert, basieren aber auf Darstellungen der Erbauungszeit. Vorbild für sechs der zehn Embleme war ein Emblembuch von August Casimir Redel (Apophthegmata Symbolica, per Moralia & Ethica Dogmata, Rhythmice constructa ..., Pars prima, Augsburg o. J., 1697). Vier Embleme kommen bei Redel nicht vor, davon unterscheiden sich EB<sub>3</sub> und EB<sub>4</sub> auch in der Reimform (Redel reimt spätestens ab dem Vokal der vorletzten Silbe). Offenbar hat sich hier Pfarrer Gröbmeier selbst versucht. Redel bringt allein im ersten Teil seines Werks, den Gröbmeier benutzte, 392 Embleme (ähnlich in Teil 2 und 3); es wären also genügend Vorbilder vorhanden gewesen, wenn der Zyklus sich allgemein auf Christentugenden bezogen hätte (naheliegend wäre auch ein Jakobus-Zyklus, doch der scheidet wegen der Themen der Embleme aus). Pfarrer Gröbmeier lag sichtlich daran, die Aussage der Emblem-Reihe durch eigene Schöpfungen zu erweitern bzw. zu präzisieren.
 
@@ -185,7 +166,7 @@ Nach den sechs Bildern zu urteilen, für die es bei Redel Vorbilder gibt, wurden
 == Obere Emporenbrüstung ==
 
 
-EB<sub>1</sub> DUM CREMATOR [CREMATUR], RENOVATUR (Wenn er verbrannt wird, wird er erneuert). Vogel über einem Nest mit Jungen, ursprünglich ein Phönix über einem Feuer (Redel, S. 35). - Der Phönix, ein häufig gebrauchtes emblematisches Bild, läßt sich mit zwei seiner möglichen Bedeutungen diesem Zyklus einreihen: Er ist als Gegenstück zu EB<sub>5</sub> Bild der christlichen Liebe (»Illorum etiam haec imago est, qui charitatis Divinae incendio ardere cupiunt«; Picinelli, Lib. IV, Nr. 585, s. v. Phoenix), aber auch Bild der eifrigen und verschwiegenen Seelenführung (ebd., Nr. 574: »Porro qui ardentem ac discretum proximi corrigendi zelum<br>habent, solis vitiis extirpandis sunt intenti, caetera vero ipsius omnia penitus intacta relinquunt«; NON EXURIT, UT PERDAT).
+EB<sub>1</sub> DUM CREMATOR [CREMATUR], RENOVATUR (Wenn er verbrannt wird, wird er erneuert). Vogel über einem Nest mit Jungen, ursprünglich ein Phönix über einem Feuer (Redel, S. 35). - Der Phönix, ein häufig gebrauchtes emblematisches Bild, läßt sich mit zwei seiner möglichen Bedeutungen diesem Zyklus einreihen: Er ist als Gegenstück zu EB<sub>5</sub> Bild der christlichen Liebe (»Illorum etiam haec imago est, qui charitatis Divinae incendio ardere cupiunt«; Picinelli, Lib. IV, Nr. 585, s. v. Phoenix), aber auch Bild der eifrigen und verschwiegenen Seelenführung (ebd., Nr. 574: »Porro qui ardentem ac discretum proximi corrigendi zelum habent, solis vitiis extirpandis sunt intenti, caetera vero ipsius omnia penitus intacta relinquunt«; NON EXURIT, UT PERDAT).
 
 EB<sub>2</sub> HIC DUM REGIT, SUOS TEGIT (Solange er führt bewahrt er die Seinen). Hirsch eilt zum Springbrunnen, im
 
@@ -252,7 +233,3 @@ Paula, Georg, Johann Georg Dieffenbrunner. Leben und Werk (= tuduv-Studien, Reih
 Dehio 1990, S. 1227
 
 Paula, Georg, Nachträge zum Leben und Werk des Malers Johann Georg Dieffenbrunner (1718–1785), in: Jahrbuch des Vereins für Augsburger Bistumsgeschichte e.V. 25, 1991, S. 249–296. A. B.
-<!-- citation-page-bottom: Band05 p283 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=18 -->
-{{End}}

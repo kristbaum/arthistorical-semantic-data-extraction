@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p82 -->
 
-<!-- header: GREIFENBERG -->
 
 
 == GREIFENBERG ==
@@ -56,14 +54,9 @@ A ST. GEORGS DRACHENKAMPF Das einansichtige Deckenfresko wird von der Gestalt de
 
 
 [[File:Band01_chunk002_p017_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p83 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=18 -->
-<!-- citation-page-top: Band01 p84 -->
 
-<!-- header: GREIFENBERG -->
 
-<!-- header: GREIFENBER -->
 
 Georg beherrscht. Dieser sprengt auf einem Schimmel heran und sticht seine Lanze in den Schlund des vor ihm sich windenden Drachens. Die Reitergestalt hebt sich, einer Ausschneidefigur vergleichbar, groß und farbig von dem lichten Horizont ab, das Drachenungeheuer unter dem Reiter ist durch stark herausgezeichnete Konturen von der monoton braunen, ungestalten Erdzone abgehoben. Am Horizont werden zu den Seiten die Prinzessin mit einem Lamm – rechts – und das Schloß Greifenberg – links – sichtbar, menschliche Figur und Architektur - auf Hügel gesetzt - kippen nach hinten weg. Auch die Berglandschaft in der Mitte versinkt. Über der irdischen Szene thront auf Wolken Divina Providentia mit Weltkugel und dreieckbekröntem Zepter. Zu ihren Seiten schütten zwei Engel reiche Gaben aus zwei Füllhörnern: Kronen, Zepter, Ketten, Orden und Blumen.
 
@@ -96,7 +89,3 @@ Perfall, Max Freiherr von, Urkundliche Mittheilungen über das Schloß Greifenbe
 [Emerich, Karl], Beiträge zur Ortsgeschichte. Zur Geschichte der Pfarrei Beuern, in: Landsberger Geschichtsblätter 26, 1929, Nr. 8, S. 59. 
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S. 108, 484, 745.
-<!-- citation-page-bottom: Band01 p85 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=19 -->
-{{End}}

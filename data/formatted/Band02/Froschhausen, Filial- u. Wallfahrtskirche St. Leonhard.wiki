@@ -61,12 +61,8 @@ Schauplatz ist eine Rodungslandschaft mit Baumstümpfen im Vordergrund, im Hinte
 Im Mittelgrund des Bildes, auf einer Wiese, steht St. Leonhard in Benediktinertracht; zu seinen Füßen eine Schar bittender und dankender Gefangener und Pilger. Die Figuren umschreiben eine Dreiecksfigur, an der Spitze Leonhard. Die Gestalt des Heiligen bezeichnet die Mittelachse des Bildes, in die alle Kompositionslinien münden. In der Farbigkeit fallen zwei unterschiedliche Arten der Abtönung auf: Der irdische Schauplatz ist zum größten Teil in Braunmischwerten mit scharf voneinander abgegrenzten lichten und dunkleren Streifen gegeben (eine eigentliche Schattenführung fehlt). Beim rechten Teil der Szene, bei Hintergrund und Himmel dagegen wechselt die Farbigkeit übergangslos zu milchig trüben, ineinander übergehenden, durchwegs hellen auf Blaugrau gestimmten Werten. Bei dem hohen Laubbaum sind beide Malweisen zum Ausgleich gebracht, zeichnerisch klar nuanciertes Grün bezeichnet Schatten im Laub, milchiges grünhaltiges Weiß steht für Licht.
 
 B PATRON ST. LEONHARD Das querformatige Bildfeld hat an der Basis (der Hochaltarbekrönung ausweichend) eine tiefe, breite Einbuchtung. Dem entspricht die Komposition durch eine Teilung der figürlichen Szene in zwei Hälften. Seitlich ist der terrestrische Schauplatz weit herumgezogen. Links sind im Vordergrund zahlreiche Bittflehende vor einem Turm auf abschüssigem Gelände versammelt. Aus einem der vergitterten Turmfenster schaut eine Gefangene heraus. Ein verbundenes Bein und
-<!-- citation-page-bottom: Band02 p331 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=17 -->
-<!-- citation-page-top: Band02 p332 -->
 
-<!-- header: FROSCHHAUSEN -->
 
 
 [[File:Band02_chunk007_p017_img001.jpg|thumb]]
@@ -98,12 +94,8 @@ St. Leonhard wird umringt von Gefangenen, die ihre Ketten zu seinen Füßen nied
 
 
 [[File:Band02_chunk007_p017_img002.jpg|thumb|A St. Leonhard in der Einöde von Noblac]]
-<!-- citation-page-bottom: Band02 p333 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=18 -->
-<!-- citation-page-top: Band02 p334 -->
 
-<!-- header: FROSCHHAUSEN -->
 
 
 [[File:Band02_chunk007_p018_img001.jpg|thumb]]
@@ -137,6 +129,3 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim <sup>3</sup>1962, S. 37. Dehio-Gall O
 
 
 == GARMISCH ==
-
-
-{{End}}

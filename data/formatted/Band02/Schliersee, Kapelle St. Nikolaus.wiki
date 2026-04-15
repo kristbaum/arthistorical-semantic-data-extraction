@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p560 -->
 
-<!-- header: SCHLIERSEE -->
 
 Kapelle auf dem Friedhof, Pfarrei Schliersee, Erzdiözese München und Freising; z. Z. der Ausmalung Schulkapelle in baulichem Konnex mit der nördlich angrenzenden ehem. Schule, die zum Münchener Kollegiatstift gehörte.
 
@@ -134,7 +132,3 @@ Lampl, Sixtus, Joh. Bapt. Zimmermanns Schlierseer Anfänge, Schliersee 1979.
 
 
 [[File:Band02_chunk012_p006_img009.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p561 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=7 -->
-{{End}}

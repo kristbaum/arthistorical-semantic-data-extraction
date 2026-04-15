@@ -15,7 +15,6 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p410 -->
 
 Gnadenkapelle der Pfarr- und Wallfahrtskirche, Diözese München-Freising; z. Z. der Ausmalung zur Klosterpfarrei und Herrschaft Rottenbuch gehörig
 
@@ -54,14 +53,9 @@ A GESCHICHTE UND WUNDER DER GNADENKAPELLE Die Szenen sind in einem dem Kuppelova
 [[File:Band01_chunk009_p006_img001.jpg|thumb|A Geschichte und Wunder der Gnadenkapelle]]
 
 [[File:Band01_chunk009_p006_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p411 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=7 -->
-<!-- citation-page-top: Band01 p412 -->
 
-<!-- header: HOHENPEISSENBERG -->
 
-<!-- header: HOHENPEISSENBERO -->
 
 eingeschriebenen Panorama so angeordnet, daß der Betrachter seinen Standpunkt in der Mitte des Raumes einnehmen und sich dann drehen muß. Durch dieses Kompositionsschema wird die zentralisierende Tendenz des Gemeinderaumes noch verstärkt. In der umlaufenden terrestrischen Zone unterscheidet man drei Szenen, die jedoch durch die West-Ost-Bewegung der Figuren und der Landschaftsdarstellung entlang des Ovals zusammengeschlossen werden. Im westlichen Bildfeld werden durch das Gnadenbild bewirkte Mirakel geschildert, im nördlichen die Überführung des Gnadenbildes nach Peißenberg (1514). Die Hauptansicht im Osten zeigt die Einverleibung der Gnadenstätte in das Stift Rottenbuch (22. Oktober 1608).
 
@@ -109,12 +103,8 @@ Das Fresko im AR ist farblich besser erhalten. Zwei spannungsvoll aufeinander be
 '''B<sub>2</sub> REBEKKA AM BRUNNEN (Gen 24,22 ff.)''' empfängt aus den Händen des vor ihr knienden Knechtes Abrahams Geschmeide.
 
 Die Altarraumfresken B, B1-2 beziehen sich typologisch auf die im Gnadenbild verehrte Maria. In den drei alttestamentarischen Szenen werden hilfsbereite und vermittelnde Vorbilder Mariens vorgeführt: die Königin Esther, die für die von Aman verfolgten Juden eintritt, die Fürbitterin Abigail bei David, der Laban und seine Leute wegen ihrer Bosheit erschlagen wollte, und Rebekka, die dem Knecht und den Tieren Abrahams am Brunnen Wasser reichte und zur Braut Isaaks erwählt wurde. Wie diese
-<!-- citation-page-bottom: Band01 p413 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=8 -->
-<!-- citation-page-top: Band01 p414 -->
 
-<!-- header: HOHENPEISSENBERG -->
 
 soll Maria beim Herrn für die Unterdrückten und Verfolgten Hilfe erflehen und mildtätig Gnade gewähren.
 
@@ -145,5 +135,3 @@ Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (=
 
 
 Pfarrkirche Heuwinklkapelle S. 419
-
-{{End}}

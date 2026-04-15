@@ -68,14 +68,9 @@ Braun-Augsburg, Bd 1, S. 360 f. (Böcking)
 Emerich, Karl, Johann Baptist Baader. Von des Lech malers Wirken und Sterben, in: Landsberger Geschichts blätter 29, 1932, Sp. 66–68, 73–77, 84–88.
 
 Fuchs, Adolf, Johann Baptist Baader, der Lechhansl Kaufbeuren 1959, S. 32.
-<!-- citation-page-bottom: Band01 p335 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=19 -->
-<!-- citation-page-top: Band01 p336 -->
 
-<!-- header: LANDSTETTEN -->
 
-<!-- header: LEUTSTETTEN -->
 
 
 [[File:Band01_chunk007_p019_img001.jpg|thumb|St. Alto in der Glor]]
@@ -95,6 +90,3 @@ Fuchs, Adolf, Johann Baptist Baader, der Lechhansl Kaufbeuren 1959, S. 32.
 
 
 [[File:Band01_chunk007_p019_img005.jpg|thumb|1 Lukas]]
-
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p112 -->
 
-<!-- header: GARCHING -->
 
 Alte Pfarrkirche, von der Pfarrei St. Severin in Garching vikariert, Erzdiözese München und Freising; z.Z. der Ausmalung hatte Kloster Weihenstephan das Präsentationsrecht auf die Pfarrei, Kurfürstliche Hofmark Garching, Landgericht Kranzberg
 
@@ -63,12 +61,8 @@ C ENTHAUPTUNG KATHARINAS Das Deckenbild erstreckt sich über zwei Joche. Einansi
 
 
 
-<!-- citation-page-bottom: Band03-1 p113 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=8 -->
-<!-- citation-page-top: Band03-1 p114 -->
 
-<!-- header: GARCHING -->
 
 
 [[File:Band03-1_chunk003_p008_img001.jpg|thumb]]
@@ -126,14 +120,9 @@ Die hl. Katharina von Alexandrien soll im Jahr 307 das Martyrium unter Maximinus
 
 
 [[File:Band03-1_chunk003_p008_img012.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p115 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=9 -->
-<!-- citation-page-top: Band03-1 p116 -->
 
-<!-- header: GARCHING -->
 
-<!-- header: GROSSHESSELOHE -->
 
 
 [[File:Band03-1_chunk003_p009_img001.jpg|thumb]]
@@ -192,5 +181,3 @@ KDB I OB (1), S. 777
 Fried, Pankraz, Die Landgerichte Dachau und Kranzberg, (= Historischer Atlas von Bayern, Teil Altbayern, H. 11/ 12), München 1958, S. 246. Dehio-Gall OB, S. 45.
 
 C.B.
-
-{{End}}

@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p184 -->
 
-<!-- header: PFLUGDORF -->
 
 
 == PFLUGDORF ==
@@ -43,12 +41,8 @@ Das auf der Axt des knienden Bauern in A befindliche Monogramm HB (ligiert) konn
 
 
 [[File:Band01_chunk004_p018_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p185 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band01 p186 -->
 
-<!-- header: PFLUGDORF -->
 
 hin, der sich kaum als Bauer – mit einer Axt! – porträtiert hätte
 
@@ -132,10 +126,3 @@ Literatur s. S. 188
 
 
 [[File:Band01_chunk004_p019_img004.jpg|thumb|EB3 Martyrium des Laurentius]]
-<!-- citation-page-bottom: Band01 p187 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=20 -->
-<!-- citation-page-top: Band01 p188 -->
-
-<!-- header: PFLUGDORF -->
-{{End}}

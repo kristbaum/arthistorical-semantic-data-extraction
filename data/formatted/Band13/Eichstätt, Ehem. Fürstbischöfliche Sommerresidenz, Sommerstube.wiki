@@ -12,10 +12,7 @@
 |AutorIn1=Grimminger, Christina
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band13 p238 -->
 
-<!-- header: EICHSTÄTT DOMKAPITELSTUBEN -->
 
 
 == Hintere oder Ordentliche Kapitelstube, sog. Sommerstube ==
@@ -44,15 +41,11 @@ Beschreibung und Ikonographie
 
 A, 1–15 WAPPEN DES DOMKAPITELS VON EICH-  
 STÄTT UND SEINER MITGLIEDER Hauptansicht nach West, die Achse der ehem. Verbindungstür zur Vorderen Kapitelstube aufnehmend. In der Mitte findet sich das Wappen des Eichstätter Domkapitels, bestehend aus drei schreitenden Löwen in Gold auf rotem Grund (vgl. S. 235), darunter eine Krone und eine Muschel, umrahmt von den 15 Wappen der Mitglieder des Eichstätter Domkapitels. Auch hier berücksichtigt die Platzierung der Wappen die Rangfolge der Domherrn. Der Dompropst steht an der Spitze, genau gegenüber dem Wappen des Domkapitels, zu seiner Rechten findet sich der Domdechant. Dann springt die Rangfolge nach links und nach rechts und so fort; sie orientiert sich an den Daten der Aufschwörung. Die Nummern in eckigen Klammern der Beschreibung beziehen sich auf die Biographien der Domherren bei Hugo A. Braun, berücksichtigt sind neben Geburts- und Todesjahr die Daten der Aufschwörung und der Ernennung zum Kapitular sowie die Jahreszahlen der in den Inschriften genannten Ämtern z. Z. der Ausmalung.
-<!-- citation-page-bottom: Band13 p239 -->
 
 
 [[File:Band13_chunk005_p020_img001.jpg|thumb|A, 1–15 Wappen des Domkapitels von Eichstätt und seiner Mitglieder]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=21 -->
-<!-- citation-page-top: Band13 p240 -->
 
-<!-- header: EICHSTATT DOMKAPITELSTUBEN -->
 
 
 == Quellen und Literatur ==
@@ -87,5 +80,3 @@ CG
 
 ehem. Domherrnhof Schönborn  
 Pater-Philipp-Jeningen-Platz 5
-
-{{End}}

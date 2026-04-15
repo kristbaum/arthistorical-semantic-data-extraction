@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p426 -->
 
-<!-- header: KIRNBERC -->
 
 
 == KIRNBERG ==
@@ -75,7 +73,3 @@ Ad Arche auf Wolken, »Du Arche des Bundes« (2 Par 5,7) Die Übersetzung der Vu
 
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 260.
-<!-- citation-page-bottom: Band01 p427 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=15 -->
-{{End}}

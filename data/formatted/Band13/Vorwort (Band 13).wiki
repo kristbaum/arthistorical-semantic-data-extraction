@@ -10,12 +10,8 @@
 |AutorIn1=Büttner, Frank
 |AutorIn2=Rupprecht, Bernhard
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=4 -->
-<!-- citation-page-top: Band13 p6 -->
 
-<!-- header: DANI -->
 
-<!-- header: VORWORT -->
 
 Der Landkreis Eichstätt im Norden des Regierungsbezirks Oberbayern wird begrenzt von den Bezirken Schwaben, Mittelfranken, Oberpfalz und Niederbayern. Er entstand in heutiger Form bei der bayerischen Gebietsreform von 1972. Bis dahin gehörte er zum Regierungsbezirk Mittelfranken. Dem neu geschaffenen oberbayerischen Landkreis Eichstätt wurden Randgebiete des mittelfränkischen Landkreises Hilpoltstein und der oberpfälzischen Landkreise Beilngries und Riedenburg zugeschlagen sowie der aufgelöste oberbayerische Landkreis Ingolstadt (ausgenommen die Stadt Ingolstadt).
 
@@ -50,5 +46,3 @@ Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir m�
 Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für die verlegerische Betreuung verpflichtet. Frau Katja Durchholz betrieb wieder mit fachlichem Können, künstlerischem Geschick und großem persönlichen Einsatz die Herstellung dieses Bandes. Die Zusammenarbeit mit ihr ist ein reines Vergnügen.
 
 FRANK BÜTTNER und BERNHARD RUPPRECHT
-<!-- citation-page-bottom: Band13 p7 -->
-{{End}}

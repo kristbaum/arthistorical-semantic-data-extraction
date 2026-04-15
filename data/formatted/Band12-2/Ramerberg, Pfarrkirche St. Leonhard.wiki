@@ -46,14 +46,9 @@ Technik: Fresko; beide Deckenbilder sind polychrom
 
 
 [[File:Band12-2_chunk003_p009_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p417 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk003.pdf#page=10 -->
-<!-- citation-page-top: Band12 p418 -->
 
-<!-- header: RAMERBERG -->
 
-<!-- header: RAMERBERG -->
 
 
 [[File:Band12-2_chunk003_p010_img001.jpg|thumb]]
@@ -61,15 +56,11 @@ Technik: Fresko; beide Deckenbilder sind polychrom
 
 
 [[File:Band12-2_chunk003_p010_img002.jpg|thumb|B St. Leonhard als Patron von Ramerberg (Franz Xaver Lamp 1777)]]
-<!-- citation-page-bottom: Band12 p419 -->
 
 
 A St. Leonhard als Patron der Besessenen, Kranken und Gefangenen
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk003.pdf#page=11 -->
-<!-- citation-page-top: Band12 p420 -->
 
-<!-- header: RAMERBERG -->
 
 Maße: A Höhe 7,15 m; 5,50 × 3,45 B Höhe 6,70 m; 5,70 × 2,75
 
@@ -112,5 +103,3 @@ Birkmaier, Willi, »Dem hl. Leonard hechsten Danckh...«. Das Mirakelbuch von Ra
 
 
 Kreisfreie Stadt Erzdiözese München und Freising Ehem. Markt und Sitz des Gerichts Rosenheim Roßackerkapelle Loretokapelle S. 426
-
-{{End}}

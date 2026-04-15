@@ -71,14 +71,9 @@ Auch die perspektivische Bildanlage scheidet Vorder- und Mittelgrund voneinander
 [[File:Band01_chunk007_p007_img003.jpg|thumb|D Der Teich Bethesda D1-4]]
 
 E DER BARMHERZIGE SAMARITER Ein lichtes, weites Tal zwischen steilen, bewaldeten Bergen bildet den Schauplatz. Die unmittelbar oberhalb der Inschriftkartusche Appropians alligavit / Vulnera eius. / Luc: 10. U
-<!-- citation-page-bottom: Band01 p313 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=8 -->
-<!-- citation-page-top: Band01 p314 -->
 
-<!-- header: ANDECHS -->
 
-<!-- header: ANDECH -->
 
 34. wiedergegebene Samariterszene ist wie auf einer Bühne in den Vordergrund gerückt. Der Verwundete liegt auf der Erde, neben ihm kniet der Samariter, in orientalischer Tracht wiedergegeben, und entnimmt einem Arzneikasten ein Fläschchen. Sein Reittier ist am Baum festgebunden. Durch das Tal entfernen sich zwei Männer in Amtstracht, ein Priester und ein Levit.
 
@@ -131,12 +126,8 @@ F<sub>2</sub> Legunt non Laedunt Bienenstock in einem Blumengarten. Ein Bienenem
 F<sub>3</sub> Provida sic Providet Vogel fliegt zum Nest. Die Darstellung ist nicht mehr genau zu erkennen, doch muß es sich um das Emblem handeln, das Picinelli (s. v. aquila, Lib. 4, Nr. 116) beschreibt: »Illorum, quos natura a secretis habet; cumprimis vero Aeliani testimonio firmatum est, lapidem Aetitem ab Aquila intra nidum reponi, ut illius frigore nativos ac immodicos suos calores temperare ... Unde Rossus Aquilae, dum Aetidem nido imponit epigraphen addit. provida sic providet.« Im Andechser Emblem spielt der Adler auf den klugen Apotheker, der Adlerstein (»lapis Aetites«) auf die Fieberbekämpfung an. F<sub>4</sub> Extrahit ad Minimum Destillierofen. F<sub>3</sub> ist kein Emblem im eigentlichen Sinn, da kein symbolischer Verweis
 
 
-<!-- citation-page-bottom: Band01 p315 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=9 -->
-<!-- citation-page-top: Band01 p316 -->
 
-<!-- header: ANDECHS -->
 
 ASCHERING
 
@@ -148,7 +139,7 @@ G2 Viscera Fesse Carent Tobias schneidet den Bauch des großen Fisches auf und g
 
 G3 Labor Omnia Vincit Mann mit Mörser. Vordergründige Anspielung auf die mühevolle Arbeit des Apothekers
 
-G4 Redivivus ab Urna Eine sitzende Frau hält einen Askulapstab, auf sie geht Merkur mit dem Botenstab zu. In verkürzter Form ist wahrscheinlich eine Szene aus der Askulapsage dargestellt. »Es wird aber solcher für de Apollo Sohn gehalten, welchen er mit der Koronis, de Phlegyas, Königes in Thessalien, Tochter, erzeuget, nach<br>dem aber diese hernach sich auch mit dem Ischys, des Elo tas Sohne, zu genau eingelassen, so soll sie Apollo au Eifersucht getödtet, und, da sie bereits auf dem brennen den Scheiterhaufen gelegen, Mercurius erst noch der Aesculapius von ihr genommen haben.« (Benjamin Hederich, Gründliches Mythologisches Lexikon, Leipzig 1770, Kap. Aesculapius, Sp. 114 f.)
+G4 Redivivus ab Urna Eine sitzende Frau hält einen Askulapstab, auf sie geht Merkur mit dem Botenstab zu. In verkürzter Form ist wahrscheinlich eine Szene aus der Askulapsage dargestellt. »Es wird aber solcher für de Apollo Sohn gehalten, welchen er mit der Koronis, de Phlegyas, Königes in Thessalien, Tochter, erzeuget, nach dem aber diese hernach sich auch mit dem Ischys, des Elo tas Sohne, zu genau eingelassen, so soll sie Apollo au Eifersucht getödtet, und, da sie bereits auf dem brennen den Scheiterhaufen gelegen, Mercurius erst noch der Aesculapius von ihr genommen haben.« (Benjamin Hederich, Gründliches Mythologisches Lexikon, Leipzig 1770, Kap. Aesculapius, Sp. 114 f.)
 
 In der sitzenden Frau ist wohl Koronis wiedergegeben; der vom Thema her geforderte Scheiterhaufen ist in dem schadhaften Gemälde gegenständlich nicht genau zu identifizieren. – Eine weitere historische Szene, die sich thematisch mit den mythologischen Motiven der Embleme E1-4 verbindet. Das Lemma spielt auf Heilerfolge der Medizin aus der Retorte (= urna) an.
 
@@ -197,5 +188,3 @@ Bauerreiß, Romuald und Hugo Schnell, Der Heilige Berg Andechs (= GKF 19), Münc
 Lieb, Norbert, Andechs als Stätte der Kunst, in: Der Zwiebelturm 22, 1967, S. 77.
 
 Ausstellungskatalog, Der Schatz vom heiligen Berg Andechs. Bayerisches Nationalmuseum München, hg. v. Kloster Andechs, bearbeitet v. Rainer Rückert, München — Kloster Andechs 1967 (mit Verzeichnis der Chroniken, Heiltumsinventare und -bücher und Literaturangaben). [Baur, Willy], Kloster Andechs, Andechs [1970].
-
-{{End}}

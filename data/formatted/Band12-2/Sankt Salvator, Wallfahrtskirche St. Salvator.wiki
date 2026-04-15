@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p470 -->
 
-<!-- header: SANKT SALVATOR -->
 
 
 == SANKT SALVATOR ==
@@ -46,7 +44,7 @@ P. Johann Nepomuk Mosmayr ließ in den zehn Jahren seine Tätigkeit als Pfarrvik
 
 '''Autor und Entstehungszeit:''' Franz Xaver Tiefenbrunner d. J. (* 1736 Trautersdorf bei Prien † 1777/79 ebd.) 1765
 
-»Der Mahler Franz Xaveri Tieffenbrunner welcher das ganze Gottshaus ausgemahlt, item die Altär neu gefaßt und das übrige hierbei renoviert hat auch crafft der Beylag bescheint<br>das ihmo accordirter massen paar sein Verdienst guettgethar worden mit 330f.-« (Pfarrarchiv Prien). Neben Franz Xaver Tiefenbrunner war mit kleinen Arbeiten auch dessen Vater Joseph Tiefenbrunner beschäftigt, der in den Rechnungen <br>»alter Mahler« genannt wird.
+»Der Mahler Franz Xaveri Tieffenbrunner welcher das ganze Gottshaus ausgemahlt, item die Altär neu gefaßt und das übrige hierbei renoviert hat auch crafft der Beylag bescheint das ihmo accordirter massen paar sein Verdienst guettgethar worden mit 330f.-« (Pfarrarchiv Prien). Neben Franz Xaver Tiefenbrunner war mit kleinen Arbeiten auch dessen Vater Joseph Tiefenbrunner beschäftigt, der in den Rechnungen »alter Mahler« genannt wird.
 
 
 == Befund ==
@@ -111,9 +109,3 @@ Huber, Konrad, und Peter von Bomhard, Die Kirchen der Pfarrei Prien (= KKF Nr. 4
 Katalog der Ausstellung 1250 Jahre Truthersreute-Trautersdorf 740–1990 im Heimatmuseum Prien, Prien 1990, S. 36. Aß, Karl Josef, Die Fresken der Tiefenbrunner. Kunstwerke aus einer Dorfwerkstatt, in: Oberbayerisches Volksblatt vom 7./8.7.1990.
 
 Dehio 1990, S. 1063 f.
-
-
-<!-- citation-page-bottom: Band12 p471 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=12 -->
-{{End}}

@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p376 -->
 
-<!-- header: ARNRIED -->
 
 Filialkirche, Gemeinde und Pfarrei Eberfing, Diözese Augsburg; z. Z. der Ausmalung Pfarrei Deutenhausen, die dem Augustinerchorherrenstift Polling inkorporiert war, Gericht Weilheim
 
@@ -106,7 +104,3 @@ Thieme-Becker, Bd 1, S. 188, s.v. Albert, Wenzeslaus. Gernhardt, Ludwig, Arnried
 Rückert, Georg, Kirchliche Kunst im alten Landgericht Weilheim, in: Lechisarland 11, 1935, S. 112.
 
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1962, S. 34.
-<!-- citation-page-bottom: Band01 p377 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=15 -->
-{{End}}

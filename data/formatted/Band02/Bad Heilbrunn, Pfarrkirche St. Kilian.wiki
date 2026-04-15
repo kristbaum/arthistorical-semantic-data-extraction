@@ -48,10 +48,7 @@ Erhaltungszustand und Restaurierungen: In C findet sich
 
 
 [[File:Band02_chunk001_p011_img007.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p21 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=12 -->
-<!-- citation-page-top: Band02 p22 -->
 
 [[File:Band02_chunk001_p012_img001.jpg|thumb]]
 
@@ -98,14 +95,9 @@ Grundlage sind die biblischen Worte Jesu am Jakobsbrunnen, Io 4, 13-14: »Omnis 
 6 FONS / ELISAEI / II. Reg. 2. 21 (= 4 Reg 2, 21: ».. egressus ad fontem aquarum misit in illum sal, et ait: Haec dicit Dominus: Sanavi aquas has, et non erit ultra in eis mort, neque sterilitas.«) — FRVCTIFICAT – Elisäus reinigt und macht das Wasser eines Brunnens in Jericho gesund. Neben dem Propheten eine Mutter mit zwei Kindern, dahinter Haustiere.  
 7 FONS / AQUAE / PERENNIS (Die Überschrift entspricht inhaltlich Is 58, 11: »Et eris quasi hortus irriguus, et sicut fons aquarum cuius non deficient aquae.«) — PERENNAT. – In der Mitte erhebt sich ein turmartiger Tempelbau, umschlossen von einer Mauer mit Zinnen. Im Hintergrund links ein Springbrunnen, dessen Wasser den Tempelhof durchquert und sich durch eine Maueröffnung in einen Graben im Vordergrund ergießt.  
 8 FONS / IVDICII / Gen. 14. (= Gen 14, 7: »Reversique sunt, et venerunt ad fontem Misphat, ipsa est Cades...«] — RECREAT. — Vor dem Zeltlager eines Heeres zwei Könige und ein Feldherr an einem Brunnen. Die Darstellung illustriert vom Bericht des Feldzugs der »vier großen Könige« in Genesis 14 den Aufenthalt bei der »Gerichtsquelle« (Übersetzung der Jerusalemer Bibel).
-<!-- citation-page-bottom: Band02 p23 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=13 -->
-<!-- citation-page-top: Band02 p24 -->
 
-<!-- header: BAD HEILBRUNN -->
 
-<!-- header: BAD TOLZ -->
 
 
 [[File:Band02_chunk001_p013_img001.jpg|thumb]]
@@ -152,5 +144,3 @@ Hartig, Michael, Die Oberbayerischen Stifte, Bd 1, München 1935, S. 17.
 Mindera, Karl, Benediktbeuern. Das Handwerk im Dienst
 
 der Kunst auf dem Boden der Grundherrschaft Benediktbeuern, München 1939, S. 53 f.
-
-{{End}}

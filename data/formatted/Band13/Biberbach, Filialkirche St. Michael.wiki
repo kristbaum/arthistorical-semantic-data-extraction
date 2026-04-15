@@ -48,10 +48,7 @@ Erhaltungszustand und Restaurierungen: Die Deckenbilder von 1781 wurden mehrfach
 
 
 [[File:Band13_chunk002_p009_img004.jpg|thumb|Krönung Marien]]
-<!-- citation-page-bottom: Band13 p67 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band13 p68 -->
 
 
 == Bildabfolge ==
@@ -83,6 +80,3 @@ Dehio OB 1990, S. 137f.; 2006, S. 148f. C. I
 
 
 == DÖRNDORF ==
-
-
-{{End}}

@@ -21,14 +21,9 @@ Untere Sakristei: Rechteckiger Raum (11,35×7,35 m), Zugang von außen im W, von
 Obere Sakristei: Der Raum im ersten Obergeschoß (11,80×7,65 m) ist über eine Wendeltreppe zu erreichen und wird von drei Seiten durch je zwei Fenster gleichmäßig belichtet.
 
 '''Auftraggeber:''' Die Barockisierung der beiden Sakristeiräume fand im zeitlichen Zusammenhang mit der Dekoration von Maria Gern 1710 statt, während der Abwesenheit des Fürst-
-<!-- citation-page-bottom: Band11 p201 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=2 -->
-<!-- citation-page-top: Band11 p202 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · BERCHTESGADEN -->
 
-<!-- header: I ANDKREIS BERCHTESGADEN · BERCHTESGADEN -->
 
 
 [[File:Band11_chunk005_p002_img001.jpg|thumb]]
@@ -78,12 +73,8 @@ kurz vor der von Maria Gern anzusetzen.
 
 
 [[File:Band11_chunk005_p002_img007.jpg|thumb|5 Sakrament der Priesterweih]]
-<!-- citation-page-bottom: Band11 p203 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=3 -->
-<!-- citation-page-top: Band11 p204 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · BERCHTESGADEN -->
 
 
 == LANDKREIS BERCHTESGADEN · BERCHTESGADEN ==
@@ -109,7 +100,7 @@ DIE SIEBEN SAKRAMENTE Die Stuckierung der rechteckigen Decke bildet ein Oval aus
 == Obere Sakriste ==
 
 
-'''Autor und Entstehungszeit:''' Autor unbekannt, um 1709. Der Stuck der oberen Sakristei, ebenfalls vom Salzburger Stuckator Joseph Schmidt, ist etwa gleichzeitig mit der Stuckierung von Maria Gern 1709/10 entstanden. Auch wenn die Bilder der oberen Sakristei durch Restaurierungen stark verändert sind, so ist doch zu sehen, daß sie ursprünglich nicht von Frater Christoph Lehrl aus Höglwörth<br>stammen können. Die historische Wahrscheinlichkeit spricht<br>dafür, daß mit dieser Ausmalung der Berchtesgadener Maler<br>Franz Thomas Schmidt beauftragt wurde, der mit Maria Gern zusammen arbeitete.
+'''Autor und Entstehungszeit:''' Autor unbekannt, um 1709. Der Stuck der oberen Sakristei, ebenfalls vom Salzburger Stuckator Joseph Schmidt, ist etwa gleichzeitig mit der Stuckierung von Maria Gern 1709/10 entstanden. Auch wenn die Bilder der oberen Sakristei durch Restaurierungen stark verändert sind, so ist doch zu sehen, daß sie ursprünglich nicht von Frater Christoph Lehrl aus Höglwörth stammen können. Die historische Wahrscheinlichkeit spricht dafür, daß mit dieser Ausmalung der Berchtesgadener Maler Franz Thomas Schmidt beauftragt wurde, der mit Maria Gern zusammen arbeitete.
 
 
 == Befund ==
@@ -117,7 +108,7 @@ DIE SIEBEN SAKRAMENTE Die Stuckierung der rechteckigen Decke bildet ein Oval aus
 
 Träger der Deckenmalerei: Flachdecke
 
-Rahmen: B, a-d Stuckprofile, die Felder zwischen Mittelbild<br>und den Oval-Medaillons in den Ecken sind mit weißen Akan-<br>thusranken auf grau getöntem Grund gefüllt
+Rahmen: B, a-d Stuckprofile, die Felder zwischen Mittelbild und den Oval-Medaillons in den Ecken sind mit weißen Akanthusranken auf grau getöntem Grund gefüllt
 
 Technik: Fresko; polychrom
 
@@ -138,14 +129,9 @@ Im Rahmen der großen Kirchenrestaurierung reinigte und restaurierte Manfred Lau
 
 
 B AUGUSTINUS ALS PATRON BERCHTESGADENS An der Stuckrahmung setzt rings um das Bild eine Balustrade an, in Untersicht und Verkürzung in der Art von Scheinarchitekturen gemalt. Die Szene aber, die von diesem Rahmen eingefaßt wird, ist einansichtig und ohne illusionistische Effekte. Am unteren Bildrand ist in einer weiten Landschaftszenerie, die hinter der Balustrade fortgeführt ist, das Berchtesgadener Land zu sehen, mit hohen Bergen – links ist der Watzmann zu erkennen – und Wäldern. In der Mitte ist das Stift Berchtesgaden dargestellt, mit Stiftskirche und Stiftsgebäuden, rechts der Turm von St. Andreas. Darüber thront in Wolken der hl. Augustinus, nach dessen Regel die Augustiner-Chorherrer lebten und der deshalb als Ordensgründer galt. Er trägt einen reich verzierten Rauchmantel über der Albe; ein Putto über ihm hält die Mitra, ein anderer das Pedum. Weitere kleine Putten und Puttenköpfchen sind in den Wolken um ihn verteilt. Augustinus hat den Blick nach oben gerichtet und hält sein Attribut, das flammende Herz als Zeichen seiner Gottesliebe.
-<!-- citation-page-bottom: Band11 p205 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=4 -->
-<!-- citation-page-top: Band11 p206 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · BERCHTESGADEN -->
 
-<!-- header: ETENBERG -->
 
 
 [[File:Band11_chunk005_p004_img001.jpg|thumb]]
@@ -196,5 +182,3 @@ Weinfurter, Stefan, Zur Gründung des Augustiner-Chorherrenstiftes, in: Brugger/
 Wagner, Franz, Malerei, Plastik und Kunsthandwerk, in: Brugger/Dopsch/Kramml, Bd II/2, Berchtesgaden 1995, S. 1281–1330. Sakristei S. 1296 f. mit Abb.
 
 Albrecht, Dieter, Die Fürstpropstei Berchtesgaden, in: Handbuch der bayerischen Geschichte III, 3, 1995, S. 286–301. Joachim Wild, Geschichte der Fürstpropstei Berchtesgaden im Überblick, S. 30–71.
-
-{{End}}

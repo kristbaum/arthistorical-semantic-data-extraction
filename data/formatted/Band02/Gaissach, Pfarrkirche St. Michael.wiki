@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p176 -->
 
-<!-- header: GAISSACH -->
 
 Pfarrkirche, Erzdiözese München und Freising, z. Z. der Ausmalung Filialkirche der Pfarrei Mariä Himmelfahrt, Tölz, Landgericht Tölz
 
@@ -56,12 +54,8 @@ A MARIA, DIE KÖNIGIN DER ENGEL Einansichtiges hochovales Bildfeld mit geschwung
 
 
 [[File:Band02_chunk004_p014_p014_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p177 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=15 -->
-<!-- citation-page-top: Band02 p178 -->
 
-<!-- header: GAISSACH -->
 
 
 [[File:Band02_chunk004_p015_img001.jpg|thumb]]
@@ -102,14 +96,9 @@ A5 DER STREIT UM DEN LEICHNAM DES MOSES Der geharnischte Erzengel vertreibt den 
 A6 DANIEL IN DER LÖWENGRUBE In einem gewölbten Raum sitzt Daniel zwischen vier Löwen, der Erzengel schwebt zu ihm herab. Dan: 6 V:22 »Deus meus misit Angelum suum, et conclusit ora leonum« (Dan 6, 22). Wie bei A<sub>1-2</sub> ist hier die biblische Engelserscheinung auf Michael bezogen worden.
 
 A7 DAS WUNDER AM MONTE GARGANO Der Erzengel schwebt vor einer Höhle und erhebt schützend seinen Schild über einen Stier im Höhleneingang, während er seine Rechte gegen einen vom Pfeil getroffenen Mann ausstreckt. (vgl. A8)
-<!-- citation-page-bottom: Band02 p179 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=16 -->
-<!-- citation-page-top: Band02 p180 -->
 
-<!-- header: GAISSACH -->
 
-<!-- header: GELTING -->
 
 
 [[File:Band02_chunk004_p016_img001.jpg|thumb]]
@@ -136,5 +125,3 @@ Die Legende vom Monte Gargano berichtet vom wunderbaren Eingreifen Michaels, der
 
 
 KDB OB I (1), S. 665. Mayer-Westermayer, Bd 3, S. 431–34. Dehio-Gall OB, S. 218.
-
-{{End}}

@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p36 -->
 
-<!-- header: BAIRAWIES -->
 
-<!-- header: BAIRAWIES -->
 
 Kapelle, Gemeinde und Pfarrei Dietramszell, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei Than kirchen, Gericht Tölz
 
@@ -32,7 +29,7 @@ Kapelle, Gemeinde und Pfarrei Dietramszell, Erzdiözese München und Freising; z
 == Befund ==
 
 
-Träger der Deckenmalerei: Flachkuppel<br>Rahmen: gemalte Rocaille-Ornamentrahmung<br>Technik: Fresko; polychrom Maße: Höhe 4,80 m, Stich 1,00; 3,90 × 2,70 Erhaltungszustand und Restaurierungen: Das Deckenbild hat durch Feuchtigkeitseinwirkung sehr gelitten; die Farbe ist in weiten Partien verblaßt, die Substanz teilweise, hauptsächlich im Bildzentrum, zerstört. Deutlich sichtbare Ubermalungen an den Figuren im Himmel (Dreifaltigkeit, Rochus, Sebastian, Engel). Letzte Restaurierung 1970/71 (s. Bauinschrift)
+Träger der Deckenmalerei: Flachkuppel Rahmen: gemalte Rocaille-Ornamentrahmung Technik: Fresko; polychrom Maße: Höhe 4,80 m, Stich 1,00; 3,90 × 2,70 Erhaltungszustand und Restaurierungen: Das Deckenbild hat durch Feuchtigkeitseinwirkung sehr gelitten; die Farbe ist in weiten Partien verblaßt, die Substanz teilweise, hauptsächlich im Bildzentrum, zerstört. Deutlich sichtbare Ubermalungen an den Figuren im Himmel (Dreifaltigkeit, Rochus, Sebastian, Engel). Letzte Restaurierung 1970/71 (s. Bauinschrift)
 
 
 == Beschreibung und Ikonographie ==
@@ -50,7 +47,3 @@ Mayer-Westermayer, Bd 3, S. 424. KDB I OB (1), S. 655. Dehio-Gall OB, S. 163.
 
 
 [[File:Band02_chunk001_p019_img001.jpg|thumb|ie hll. Sebastian und Rochus als Pestpatrone]]
-<!-- citation-page-bottom: Band02 p37 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=20 -->
-{{End}}

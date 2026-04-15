@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p104 -->
 
-<!-- header: ESCHLBACH -->
 
 
 == <b>ESCHLBACH</b> ==
@@ -71,12 +69,8 @@ Erhaltungszustand und Restaurierungen: Innenrenovierung 1859. Innenrestaurierung
 
 
 MARIA ALS FÜRBITTERIN Über einer großen grauen Weltkugel, die von unten ins Bild ragt, fliegen Putten zu Maria auf, die auf einer Wolke rechts kniet. Über ihr erscheint, auf Wolken thronend, die Gestalt Christi, von Engeln umgeben, deren einer das Kreuz hält. Am oberen Bildrand zieht sich ein
-<!-- citation-page-bottom: Band07 p105 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk003.pdf#page=4 -->
-<!-- citation-page-top: Band07 p106 -->
 
-<!-- header: ESCHLBACH -->
 
 GEISLBACH
 
@@ -103,5 +97,3 @@ Schmidtsche Matrikel, Bd 1, S. 550–53. Mayer-Westermayer, Bd 1, S. 371–74. K
 Bekh, Johannes, Dapsul von Rosenobel – und seine Kirchen. Nachforschungen im Erdinger Holzland, in: Erdinger Neueste Nachrichten, 27. 8.-10. 9. 1979.
 
 -, Dapsul von Rosenobel, in: Tassilonisches Land. Bilder aus Bayern und Österreich, Pfaffenhofen <sup>2</sup>1988, S. 59–88. Landkreis Erding 1985, S. 323 f.
-
-{{End}}

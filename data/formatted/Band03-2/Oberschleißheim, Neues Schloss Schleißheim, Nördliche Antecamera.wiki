@@ -21,20 +21,15 @@ Rechteckiger Saal (7,50 × 14,50 m) zu drei Jochen, durch zwei Türen mit der Sa
 '''Auftraggeber:''' Die Umgestaltung und Ausmalung des Raumes erfolgte unter Kurfürst Max III. Joseph von Bayern (1745-77) im Auftrag des Kammerrats und Schwaigverwalters Adrian La Fabrique (1762–77), der sie von seinem regulären Etat finanzierte (s.S. 502; laut Rechenschaftsbericht von 1771 hat er »das Pilliard-Zimmer mit Stuckatorund fresco-Arbeit ausgezieret«.)
 
 '''Autor und Entstehungszeit:''' Philipp Helterhof, 1764. Vermutlich war gleichzeitig mit der Stuckierung Johann Baptist Zimmermanns 1723/24 und mit der Ausmalung der Sala Terrena durch Stuber und der südlichen Antecamera durch Asam auch die Ausmalung der nördlichen durch Nikolaus Gottfried Stuber geplant: »Asam finira son plafon
-<!-- citation-page-bottom: Band03-2 p499 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk011.pdf#page=1 -->
-<!-- citation-page-top: Band03-2 p500 -->
 
-<!-- header: SCHLEISSHEIM, NEUES SCHLOSS -->
 
-<!-- header: NÖRDLICHE ANTECAMERA -->
 
 
 [[File:Band03-2_chunk011_p001_img001.jpg|thumb]]
 
 
-et Stuber le sien, dans les deux pießes sur le jardin«. Zur Ausmalung kam es jedoch offenbar erst 1764: Im Gemäldeinventar von Schleißheim 1770 sind die Deckenbilder erstmals beschrieben (BHStA I, HR I, 211, Nr. 21): »In dem Pilliard-Zimmer – die Oberdecke ist grau in grau gemahlet,<br>und hat die Fortuna zu seinem Gegenstand. Ob dem Hauptgesims ist an einer Seite die Pandora, und gegenüber der Apollo mit dem Drachen Python zu sehen. Philippus Helderhof ao 1764«.
+et Stuber le sien, dans les deux pießes sur le jardin«. Zur Ausmalung kam es jedoch offenbar erst 1764: Im Gemäldeinventar von Schleißheim 1770 sind die Deckenbilder erstmals beschrieben (BHStA I, HR I, 211, Nr. 21): »In dem Pilliard-Zimmer – die Oberdecke ist grau in grau gemahlet, und hat die Fortuna zu seinem Gegenstand. Ob dem Hauptgesims ist an einer Seite die Pandora, und gegenüber der Apollo mit dem Drachen Python zu sehen. Philippus Helderhof ao 1764«.
 
 Philipp Helterhof (*um 1725 Cham † 1807 München) war Mitarbeiter J. B. Zimmermanns in St. Peter, München (CBD Bd 3/1, S. 249) und in Andechs (Thieme-Becker). An selbständigen Arbeiten sind von ihm die Ausmalung von St Georg Bogenhausen (CBD Bd 3/1, S. 73 ff.) sowie zwei Fresken in der Moritzkirche in Ingolstadt bekannt.
 
@@ -71,14 +66,9 @@ namenten der Stuckdekoration Johann Baptist Zimmermanns und an der gemalten Deko
 A ALLEGORIE DES GLÜCKSSPIELS Darstellung in Wolken, ein spiralförmiger repussoirartiger Wolkenzug lässt in der Bildmitte den Himmel frei.
 
 Die im Inventar als Fortuna bezeichnete Hauptfigur ist eine halbnackte weibliche Gestalt mit auffliegender Draperie, die als Attribut ein Glücksrad bei sich hat. Sie sitzt auf Wolken an einem Tisch, von dem sie Geld in einen Beutel streicht. Der Beutel ist unten offen, und das Geld fällt in die Tiefe. Davor liegt ein umgekehrter Anker. Zusammen mit Rad und Geldbeutel kennzeichnet er das Spielerglück als
-<!-- citation-page-bottom: Band03-2 p501 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk011.pdf#page=2 -->
-<!-- citation-page-top: Band03-2 p502 -->
 
-<!-- header: SCHLEISSHEIM, NEUES SCHLOSS -->
 
-<!-- header: SPEISESAAI -->
 
 unbeständig, den Gewinn als eitel und schnell zerronnen und die Hoffnung auf Dauer des Glücks im Spiel als trügerisch.
 
@@ -100,6 +90,3 @@ KDB I OB (1), S. 815. Thieme-Becker, Bd 16 (1923), S. 361 (s. v. Helterhof). Tho
 
 
 == SPEISESAAL ==
-
-
-{{End}}

@@ -8,8 +8,6 @@
 |davor=Ikonographisches Register (Band 3-II)
 |danach=Bildnachweis (Band 3-II)
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk013.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p614 -->
 
 == Embleme-Register ==
 
@@ -45,14 +43,9 @@ Nec ausibus impar 283 Nec de occupatione causari 232 Nec in arido deficit 296 Ne
 Occulta ex arte triumphus 282, 391 Omnes devorat una meas 287 Omnes in unum 294 Omnibus affluenter 296 Omnibus idem 232 Optima quaeque latent 289 Orbem implebit utrumque 287 Orbis non sufficit unus 287
 
 Pace bidens vomerque vigent 284 Parta tenens non farta sequens 359 Paveat quos pavit 359 Pax omnes promovet una 284 Peperit discordia foedus 266 Per aures, per nares, quem effundit, spiritu recipit 231 Per desìo di beltà m'è specchio un fonte 268 Pereant ne peream 266 Plena sibi et aliis 296 Plures cantu 295 Plus vident oculi, quam oculus 231 Polleat auditu, qui pollet imperio 232 Pondere et mensura regit 289 Potior pax mille triumphis 285 Potius mori quam foedari 266 Praeceps quia praepes 289 Praesidium castitatis 284 Praesidium et decus 295 Premit non opprimit 264
-<!-- citation-page-bottom: Band03-2 p615 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk013.pdf#page=9 -->
-<!-- citation-page-top: Band03-2 p616 -->
 
-<!-- header: EMBLEME-REGISTER -->
 
-<!-- header: EMBLEME-REGISTI -->
 
 Pria della fronde il fiore 268 Primitiae Deo 288 Pro lege et grege 285 Procul a strepitu 290 Prope quae procul 290 Purgat, non consumit 266
 
@@ -115,10 +108,7 @@ Occasio 285 Odysseus und Polyphem 283 Ölzweig und Honigwabe 440 Öhr des Stiere
 Pallas Athene mit Schild 223 Palme 266 grünende in trockener Erde 296 von Stein belastet 243 Palmzweig um Waffen und Fahnen gewunden 295 und Degen über Schmuck 295 Palmzweige 294 Papagei, hält Wache 287 Paradiesvogel 296 Pelikan 258, 285 Penelope 284 Perle 395, 456 Perlmuscheln, geschlossen 289 von Hummern verdorben 281 Perseus und Andromeda 284 Pfau, sein Rad leuchtet in der Sonne 296 seine Stimme verjagt Schlangen 286 Pfeil, mit Schlange umwunden 285 Pfeile auf Schild 264 auf das Ziel abgeschossen 284 in Harnisch 295 Pferd, stürzend, ohne Zaum 289 trojanisches 282 Pferde Hippolyts 293 Phönix 243, 323 f. Polarstern 243 Polyphem und Odysseus 283 Portal, an dem ein Werkstück fehlt 294 Porträt einer schönen Frau 225 im Herz 244 Posaune 286 Probierstein, darauf Münze 285
 
 Rad des Pfaus 296 Raubvogel, von Hunden verfolgt 358 Rebhuhn, von Sperber gejagt 359 Rebzweig auf Ulmenast 293 Regenbogen 284, 314 Regenwolke tränkt Land 296 Reiher, von Falken gejagt 359 von Falken geschlagen 289 Reis, frisches, an Baumstrunk 282 Rennpferd 294
-<!-- citation-page-bottom: Band03-2 p617 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk013.pdf#page=10 -->
-<!-- citation-page-top: Band03-2 p618 -->
 
 
 == EMBLEME-REGISTER ==
@@ -128,9 +118,3 @@ Reuse, darin Herz 247 Richtblei 232 Richter inmitten einer Volksmenge 232 Ring, 
 
 
 [[File:Band03-2_chunk013_p010_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p619 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk013.pdf#page=11 -->
-<!-- citation-page-top: Band03-2 p620 -->
-
-{{End}}

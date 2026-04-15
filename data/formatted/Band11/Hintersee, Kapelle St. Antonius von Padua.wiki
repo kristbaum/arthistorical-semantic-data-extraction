@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p214 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · HINTERSEE -->
 
 
 == HINTERSEE ==
@@ -52,7 +50,7 @@ Technik: Fresko; polychrom
 
 Maße: Höhe 3,60 m; 3,40×2,60 (Deckenmaß)
 
-Erhaltungszustand und Restaurierungen: Restaurierung der Fresken 1968 durch den Maler Franz Xaver Marchner mit starken Übermalungen. Nach der Außeninstandsetzung 1999 folgte 2002/03 die Innenrestaurierung durch Alois und Michael Stein, Inzell. Ihre Voruntersuchungen 2001 ergaben, »daß eine Rückführung auf einen älteren baulichen und ästhetischen Zustand aus verschiedenen Gründen ausscheidet« »daß eine Rückführung auf einen älteren baulichen und ästhetischen Zustand aus verschiedenen Gründen ausscheidet« (BLfD, 16.5.2002). Die mehrfach überarbeitete Raumfassung wurde nur erneuert. Die Malereien (wurden) »in der vorgefundenen Art« beibehalten und restauratorisch behandelt »in der vorge-<br>fundenen Art« (BLfD, 4.10.2001). Die Deckenmalereien wurden gefestigt, gereinigt und ausgebessert. Risse wurden geschlossen und Fehlstellen eingestimmt. An den Schriften waren größere Ausbesserungen nötig.
+Erhaltungszustand und Restaurierungen: Restaurierung der Fresken 1968 durch den Maler Franz Xaver Marchner mit starken Übermalungen. Nach der Außeninstandsetzung 1999 folgte 2002/03 die Innenrestaurierung durch Alois und Michael Stein, Inzell. Ihre Voruntersuchungen 2001 ergaben, »daß eine Rückführung auf einen älteren baulichen und ästhetischen Zustand aus verschiedenen Gründen ausscheidet« »daß eine Rückführung auf einen älteren baulichen und ästhetischen Zustand aus verschiedenen Gründen ausscheidet« (BLfD, 16.5.2002). Die mehrfach überarbeitete Raumfassung wurde nur erneuert. Die Malereien (wurden) »in der vorgefundenen Art« beibehalten und restauratorisch behandelt »in der vorgefundenen Art« (BLfD, 4.10.2001). Die Deckenmalereien wurden gefestigt, gereinigt und ausgebessert. Risse wurden geschlossen und Fehlstellen eingestimmt. An den Schriften waren größere Ausbesserungen nötig.
 
 
 == Beschreibung und Ikonographie ==
@@ -64,10 +62,7 @@ A IMMACULATA Maria in weißem Gewand und blauem Mantel, das Haupt von einem Ster
 
 
 [[File:Band11_chunk005_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band11 p215 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=9 -->
-<!-- citation-page-top: Band11 p216 -->
 
 == LANDKREIS BERCHTESGADEN · HINTERSEE ==
 
@@ -85,5 +80,3 @@ Bei vier der sieben Szenen (2, 3, W<sub>1-2</sub>) handelt es sich um bekannte W
 Mayer-Westermayer, Bd 1, S. 116. KDB I OB (3), S. 2984. Dehio 1990, S. 430.
 
 A. B.
-
-{{End}}

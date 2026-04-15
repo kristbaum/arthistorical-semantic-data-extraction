@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p234 -->
 
-<!-- header: THAINING -->
 
 
 == THAINING ==
@@ -71,10 +69,7 @@ A MANTELSPENDE DES HL. MARTIN Das Fresko, über dem westlichen Langhausjoch gele
 
 
 [[File:Band01_chunk005_p018_img003.jpg|thumb|A Mantelspende Martins]]
-<!-- citation-page-bottom: Band01 p235 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band01 p236 -->
 
 stück, von Büschen und Bäumen, rechts im Hintergrund durch ein prachtvoll antikisches, ruinöses Tor – das Stadttor von Amiens - begrenzt. Der hl. Martin reitet auf einem sich aufbäumenden Pferd die Straße herauf, an der im Vordergrund auf einem dunklen Grashügel der halbentblößte Bettler liegt und die Rechte flehend ausstreckt. Der Heilige wendet sich ihm zu, im Begriffe, seinen Mantel mit dem Schwert zu teilen und die Hälfte dem Armen zu reichen.
 
@@ -114,14 +109,9 @@ Als moralisch-ethischer Leitgedanke des Gesamtprogramms können die Inschriften 
 
 A MANTELSPENDE Der hl. Martin von Tours, der im römischen Heer als Soldat diente, begegnete zur Winterszeit vor den Toren der Stadt Amiens einem halbnackten Bettler. Obgleich noch Katechumene, teilte er seinen Mantel mit dem Schwert zu teilen und die Hälfte dem Armen zu reichen.
 
-<!-- citation-page-bottom: Band01 p237 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band01 p238 -->
 
-<!-- header: THAINING -->
 
-<!-- header: THAINING -->
 
 tel mit dem Schwert und reichte die eine Hälfte dem Bettler. In der darauffolgenden Nacht erschien ihm im Traum Christus mit der Mantelhälfte und sprach zu ihm die Worte, die die Inschrift wiedergibt: MARTINUS ad huc Catechumenus, / hac me veste Contexit (Vita 3.4; S. 113).
 
@@ -190,7 +180,3 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 
 [[File:Band01_chunk005_p020_img007.jpg|thumb|Gregor und Ambrosius]]
-<!-- citation-page-bottom: Band01 p239 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=21 -->
-{{End}}

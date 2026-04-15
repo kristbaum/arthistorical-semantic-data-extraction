@@ -44,12 +44,8 @@ Technik: Fresko; A und B polychrom, A1-4 monochrom ocker
 
 
 [[File:Band02_chunk001_p010_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p19 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=11 -->
-<!-- citation-page-top: Band02 p20 -->
 
-<!-- header: AUFHOFEN -->
 
 Maße: A Höhe 4,20 m; 2,80 × 1,70 B Höhe 4,90 m; Ø 1,30
 
@@ -99,6 +95,3 @@ Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.)
 
 
 == BAD HEILBRUNN ==
-
-
-{{End}}

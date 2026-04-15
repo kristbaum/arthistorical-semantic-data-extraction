@@ -34,14 +34,9 @@ Zur Zeit der Ausmalung 1793 durch Sebastian Rechenauer d. Ä. war entweder Johan
 
 
 [[File:Band12-1_chunk004_p013_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p175 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=14 -->
-<!-- citation-page-top: Band12 p176 -->
 
-<!-- header: GROSSHOLZHAUSEN -->
 
-<!-- header: GROSSHOLZHAUSEN -->
 
 Für eine Beteiligung an den Kosten einer der Ausstattungen durch die Propstei auf dem Petersberg, der die Pfarrei Großholzhausen inkorporiert war, gibt es keinen Hinweis.
 
@@ -93,12 +88,8 @@ Erhaltungszustand und Restaurierungen: Renovierung 1846 mit Austünchen der Kirc
 
 
 [[File:Band12-1_chunk004_p014_img001.jpg|thumb|Der Kirchenraum mit C Martyrium (1690), D Kreuzesprobe (Thomas Urscher 1731)]]
-<!-- citation-page-bottom: Band12 p177 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=15 -->
-<!-- citation-page-top: Band12 p178 -->
 
-<!-- header: GROSSHOLZHAUSEN -->
 
 
 [[File:Band12-1_chunk004_p015_img001.jpg|thumb]]
@@ -141,15 +132,11 @@ B SCHLACHT AN DER MILVISCHEN BRÜCKE Konstantin siegt im Zeichen des Kreuzes im 
 
 C MARTYRIUM (nicht gedeutet) Weiter Platz, umgeben von palastähnlichen Gebäuden, im Hintergrund schließt die Doppelturmfassade einer Kirche den Platz ab. Links erhebt sich über die Bauten ein Hügel, gekrönt von einer Burg. Im Vordergrund des Platzes ist eine Holzbühne aufgerichtet. Ein Henkersknecht in historisierender Tracht mit Federhut, Pumphosen, Wams und Schärpe hält in einer Hand das Schwert, mit der andern hält er das blutende, strahlenumgebene Haupt eines Martyrers hoch, dessen entseelter Leichnam zu Füßen des Henkers liegt. Im Himmel erscheint, in einer Wolkenglorie thronend, Christus mit dem Kreuz und empfängt einen kleinen nackten Körper, der zu ihm emporschwebt, nur mit einer roten Draperie bedeckt und rings von Strahlen umgeben:
 
-<!-- citation-page-bottom: Band12 p179 -->
 
 
 [[File:Band12-1_chunk004_p015_img006.jpg|thumb|C Martyrium (1690)]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=16 -->
-<!-- citation-page-top: Band12 p180 -->
 
-<!-- header: GROSSHOLZHAUSEN -->
 
 [[File:Band12-1_chunk004_p016_img001.jpg|thumb]]
 
@@ -188,10 +175,7 @@ Links steht ein dunkel gekleideter bärtiger Herr in altertümlicher Tracht mit 
 Es handelt sich hier um eine Verzeihungs- und Versöhnungsszene. Offenbar waren die beiden dargestellten Männer früher Feinde, der jüngere hatte den Älteren mit dem Schwert angegriffen, hatte aber durch die Macht des Kreuzes von seiner Tat abgelassen; der Angegriffene wurde durch das Kreuz zur Verzeihung bewegt.
 
 Rechts steht auf einem hohen Sockel eine farbig gefaßte Statue, eine Allegorie, durch die Inschrift als Victoria sui bezeichnet, als Sieg über sich selbst oder Selbstüberwindung. Sie hält einen Lorbeerkranz in die Höhe, den sie laut Inschrift Vincenti dabo dem Siegenden geben wird, also dem, der sich selbst überwindet.
-<!-- citation-page-bottom: Band12 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band12 p182 -->
 
 == GROSSHOLZHAUSEN ==
 
@@ -243,6 +227,3 @@ Rochow, Evelin von, Großholzhausen St. Georg (Kirchenführer), Lindenberg <sup>
 
 
 == HEILIG BLUT AM WASEN ==
-
-
-{{End}}

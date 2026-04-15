@@ -31,10 +31,7 @@ Im Vergleich mit anderen Klöstern in Oberbayern hatte Herrenchiemsee nur mittel
 Das 16. Jh. war auch in Herrenchiemsee – wie in vielen anderen Klöstern - eine Zeit des Niedergangs. Die Reformation fand Anhänger, und gleichzeitig kam das Kloster mehr und mehr in wirtschaftliche Schwierigkeiten, zu denen 1583 noch ein Klosterbrand kam. Die Pröpste waren nicht fähig, dem Verfall zu steuern. 1626 wurde Propst Augustin Taschner zur Resignation gezwungen.
 
 Arsenius Ulrich, ein Chorherr aus Heilig Kreuz in Augsburg wurde 1627 als Propst postuliert, »ein Mann von tiefer, asketisch geprägter Frömmigkeit und ebenso klarem Blick für die weltlichen Geschäfte ... dazu von zielstrebiger, ausdauernder Willenskraft« (Bomhard Bd 3, S. 13). Während seiner 26jährigen Regierungszeit von 1627 bis 1653 wurde das Kloster innerlich erneuert und wirtschaftlich saniert. Umbau und Neuausstattung der Pfarrkirche Herrenchiemsee in den erster Jahren seiner Regierung waren bei der finanziell bedrängter Lage des Stifts eine erstaunliche Leistung. Trotz der Belastungen durch den 30jährigen Krieg wurde 1645/49 der Konvent
-<!-- citation-page-bottom: Band12 p187 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=20 -->
-<!-- citation-page-top: Band12 p188 -->
 
 == HERRENCHIEMSE ==
 
@@ -50,21 +47,16 @@ Unbeirrbarkeit, mit welcher er seine Ansprüche und Ziel auch gegen größte Wid
 Doch es gelang Propst Mayr, innerhalb von wenigen Jahren alle diese Schulden wieder abzuzahlen und 1710/11 den Innen-
 
 
-[[File:Band12-1_chunk004_p020_img001.jpg|thumb|Ansicht der Klosteranlage Herrenchiemsee im späten 18. Jh. von Osten aus. Im Vordergrund das Seminargebäude und der Konventgarten, dahinter links Dom und rechts Marienkirche, im östlichen Konventtrakt die Bibliothek, im südlichen der Kaisersaal und das Fürstenzimmer (2. Obergeschoß), darunter das ehemalige Sommerrefektorium. Die Seekapelle (nicht sichtbar) liegt weiter rechts.<br>Wandgemälde am Eingang zur Prälatur im 1. Stock von Joseph Tiefenbrunner]]
+[[File:Band12-1_chunk004_p020_img001.jpg|thumb|Ansicht der Klosteranlage Herrenchiemsee im späten 18. Jh. von Osten aus. Im Vordergrund das Seminargebäude und der Konventgarten, dahinter links Dom und rechts Marienkirche, im östlichen Konventtrakt die Bibliothek, im südlichen der Kaisersaal und das Fürstenzimmer (2. Obergeschoß), darunter das ehemalige Sommerrefektorium. Die Seekapelle (nicht sichtbar) liegt weiter rechts.
+Wandgemälde am Eingang zur Prälatur im 1. Stock von Joseph Tiefenbrunner]]
 
 
 
 [[File:Band12-1_chunk004_p020_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p189 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=21 -->
-<!-- citation-page-top: Band12 p190 -->
 
-<!-- header: HERRENCHIEMSEE -->
 
-<!-- header: HERRENCHIEMSEE -->
 
-<!-- header: Ehem. Stiftskirche -->
 
 
 [[File:Band12-1_chunk004_p021_img001.jpg|thumb|Die Gewölbezone der ehemaligen Stiftskirche (Ausmalung Joseph Eder 1695)]]
@@ -81,5 +73,3 @@ Es folgte Propst Floridus Rappel (1736-59), der das neue Seminargebäude (heutig
 Aufhebung des Stifts 1803. Die Insel mit allen **Gebäuden** wurde versteigert und ging zunächst an den Kaufmann Carl von Lüneschloß. 1804, nach der Auflösung des Pfleggerichts Kling 1802, kamen die Chiemseeinseln an das Landgericht Traunstein. Mit der Pfarrorganisation 1806 wurde der Pfarrsitz der alten Klosterpfarrei Herrenchiemsee nach Breitbrunn verlegt. 1808 wurde das Bistum Chiemsee aufgelöst, 1811/12 das Archidiakonat Chiemsee aufgehoben.
 
 1818 erwarb der Kaufmann Aloys von Fleckinger die Insel, 1840 Paul Graf von Hunoltstein, 1871/72 ein Konsortium württembergischer Holzhändler und endlich 1873 König Ludwig II. von Bayern. Seit dem Bau des Neuen Schlosses in Herrenchiemsee haben die ehemaligen Klostergebäude den Namen **Altes Schloß**. Heute untersteht die Insel der Bayerischen Verwaltung der staatlichen Schlösser, Gärten und Seen.
-
-{{End}}

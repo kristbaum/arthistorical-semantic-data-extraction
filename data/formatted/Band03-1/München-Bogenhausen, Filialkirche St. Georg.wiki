@@ -44,10 +44,7 @@ Maße: A Höhe 9,00 m (von der Orgelempore 5,10); 9,00 × 5,00
 
 
 [[File:Band03-1_chunk002_p012_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p73 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=13 -->
-<!-- citation-page-top: Band03-1 p74 -->
 
 
 [[File:Band03-1_chunk002_p013_img001.jpg|thumb|B, Verurteilung Georgs]]
@@ -73,12 +70,8 @@ B MARTYRIUM DES HL. GEORG Schauplatz eine umlaufende landschaftliche Szenerie mi
 [[File:Band03-1_chunk002_p013_img004.jpg|thumb|Gemeinderaumkuppel: B Martyrium des hl. Georg]]
 
 
-<!-- citation-page-bottom: Band03-1 p75 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=14 -->
-<!-- citation-page-top: Band03-1 p76 -->
 
-<!-- header: BOGENHAUSEN -->
 
 
 [[File:Band03-1_chunk002_p014_img001.jpg|thumb|EU. Caritas]]
@@ -130,12 +123,8 @@ Zur Georgs-Vita s. LA-Benz, S. 328-31, Surius-Vita, Bd 2
 23.4., S. 510–14; vgl. die Georg-Zyklen in Ramsach, CBD Bd 2, S. 397-400 und Kleinpienzenau, CBD, Bd 2, S. 523-28.
 
 EU<sub>1-3</sub> GÖTTLICHE TUGENDEN an der Unterseite der Empore
-<!-- citation-page-bottom: Band03-1 p77 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=15 -->
-<!-- citation-page-top: Band03-1 p78 -->
 
-<!-- header: BOGENHAUSEN -->
 
 
 [[File:Band03-1_chunk002_p015_img001.jpg|thumb|Taufkapelle: K Geisttaube]]
@@ -210,5 +199,3 @@ Walch, Erich, St. Georg Bogenhausen, in: Münchner Merkur vom 3. 1. 1951.
 Lieb/Sauermost, S. 185–90 (Veit Loers).
 
 FRÖTTMANING Hl. Kreuz
-
-{{End}}

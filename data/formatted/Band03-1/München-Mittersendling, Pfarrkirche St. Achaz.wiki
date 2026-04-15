@@ -58,10 +58,7 @@ Verbleib: Die Deckenbilder existieren seit dem Abbruch der Kirche 1927 nicht meh
 
 
 A BESTATTUNG DES HL. ACHATIUS UND SEINER GEFÄHRTEN DURCH ENGEL (ehem. LHs-Fresko) Hochovales Bildfeld, einzige, in einem sehr seichten Bildraum gedrängte Figuralkomposition in betonter Höhenillusion. Die Szene ist beherrscht von den zahlreichen nebeneinander und hintereinander aufgestellten, grobgefügten Marterkreuzen, von denen die Leiber des hl. Achatius und seiner Gefährten herabgenommen und bestattet werden. An dem Kreuz im Bildzentrum hängt mit
-<!-- citation-page-bottom: Band03-1 p259 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=6 -->
-<!-- citation-page-top: Band03-1 p260 -->
 
 
 == SENDLING ==
@@ -92,9 +89,3 @@ StadtA Mü Kultusstiftungen 504/70, 1733 Schmidtsche Matrikel, Bd 1, S. 432. May
 Böhm, Cordula, Die Münchner Maler J. A. Wolff, C. G. und N. G. Stuber sowie C.D. Asam als Freskanten in drei Kirchen der ehem. Pfarrei Sendling, in: Jahrbuch des Vereins für christliche Kunst in München e.V., Bd 16, 1987, S. 170–75.
 
 2. Durch Quellen und Literatur überlieferte Deckenbilder nicht erhaltener Kirchen und Klöster
-<!-- citation-page-bottom: Band03-1 p261 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=7 -->
-<!-- citation-page-top: Band03-1 p262 -->
-
-{{End}}

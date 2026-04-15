@@ -31,18 +31,14 @@ Kleiner Saal (8,80 × 7,80 m), der die gesamte Tiefe des N-Trakts einnimmt, in d
 
 
 [[File:Band12-1_chunk006_p023_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p295 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=24 -->
-<!-- citation-page-top: Band12 p296 -->
 
-<!-- header: HOHENASCHAU -->
 
 
 [[File:Band12-1_chunk006_p024_img001.jpg|thumb|Die Südwand]]
 
 
-schreibt: »Die Maller sind, vor Zurückkhommung des Pothen alberaith nach Hauß gangen, die Feyrtag aldort einzubringen<br>denen, auf ihr, nach dem neuen Jarstag, angedeite Anrükhkhonfft, genedig überschribner massen, die vleissige Außrichtung beschechen solle: Sie vermeinen auf H. Liechtmessen förtig zewerden, so aber ungwiß ist.« Vermerk des Grafen auf dem Bericht: »Man mueß halt den Mallern wohl einbilden daß Sye etwaß rechts machen, das es kheiner Bildlmallerey gleichsiehet« (StAM, HAA A 896).
+schreibt: »Die Maller sind, vor Zurückkhommung des Pothen alberaith nach Hauß gangen, die Feyrtag aldort einzubringen denen, auf ihr, nach dem neuen Jarstag, angedeite Anrükhkhonfft, genedig überschribner massen, die vleissige Außrichtung beschechen solle: Sie vermeinen auf H. Liechtmessen förtig zewerden, so aber ungwiß ist.« Vermerk des Grafen auf dem Bericht: »Man mueß halt den Mallern wohl einbilden daß Sye etwaß rechts machen, das es kheiner Bildlmallerey gleichsiehet« (StAM, HAA A 896).
 
 Es handelte sich also bei der in Frage stehenden Malerei um figürliche Malerei, bei der es auf Qualität ankam (es sollte keine Bildmalerei werden); um Malerei, die baufest war, also nicht zuhause in der Werkstatt hergestellt werden konnte. Aus der gleichzeitigen Anfertigung von 12 Stühlen aus Nußbaumholz (im Bericht Purkwegers erwähnt), die in der Folge Inventar der Tafelstube sind, schließt Bomhard, daß es sich um die Ausmalung der Tafelstube gehandelt habe. Es waren zwei Maler, die zusammen malten; diese Maler wohnten nicht in Aschau, aber doch nicht so weit weg, daß sich nicht ein Feiertagsbesuch zuhause angeboten hätte (es waren also keine ziehenden Gesellen). Die Vermutung, daß es sich um Eder und Carnutsch gehandelt habe, die in Prien (Carnutsch) bzw. damals in Wagrain bei Ebbs (Eder) zuhause waren, liegt nahe.
 
@@ -71,10 +67,7 @@ Erhaltungszustand und Restaurierungen: Beim Umbau 1905/08 wurde der Raum durch S
 
 
 0 0 1 Vom Flötz her führt eine bemalte Tür mit ebenfalls bemalter Türkleidung und Türrahmung in den Raum, der ehemals ganz ausgemalt war. Von der Bemalung des Fußbodens mit Gras und Blumen, die eine Wiese imitierte, sind nur mehr wenige Reste zu finden. Die Ausmalung zeigte den kleinen Saal als balustradenumgebene Weinlaube, von der aus man rings den Blick auf prachtvolle Gärten und auf bergige Landschaft im Hintergrund hat. Den Raum umläuft in der Sockelzone eine gemalte ockerfarbene Balustrade, auf der goldgehöhte Ziervasen stehen, in denen kleine Bäumchen gepflanzt sind. In den Ecken und an den Fenstern wachsen hinter der Balustrade dicke Stämme von Weinstöcken auf; an ihnen stehen auf der Balustrade – lebensgroße Putten, die Blumen, Girlanden, einen Blumenkorb oder Ähnliches halten.
-<!-- citation-page-bottom: Band12 p297 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=25 -->
-<!-- citation-page-top: Band12 p298 -->
 
 [[File:Band12-1_chunk006_p025_img001.jpg|thumb]]
 
@@ -99,12 +92,8 @@ A<sub>2</sub> (NW) Putto mit weißer Draperie, in den Händen Blüten, darunter 
 A<sub>3</sub> (NO) Putto mit ausgebreiteten Armen und gelber Draperie.
 
 [[File:Band12-1_chunk006_p025_img004.jpg|thumb|A., Putten mit roter Draperie]]
-<!-- citation-page-bottom: Band12 p299 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk007.pdf#page=1 -->
-<!-- citation-page-top: Band12 p300 -->
 
-<!-- header: HOHENASCHAU -->
 
 
 [[File:Band12-1_chunk007_p001_img001.jpg|thumb|W. Wandgemälde auf der Westwand recht]]
@@ -169,5 +158,3 @@ Schricker, Elisabeth, Joseph Eder und Jacob Carnutsch. Ein Beitrag zur Barockmal
 Chronik von Aschau Bd XII, Ksoll-Marcon S. 141, Abb 205
 
 Chronik von Aschau Bd IX, Maud Jahn S. 137f.
-<!-- citation-page-bottom: Band12 p301 -->
-{{End}}

@@ -12,10 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band03-1 p268 -->
 
-<!-- header: ALTE MARIAHILFKIRCHI -->
-<!-- header: KLOSTER DER PAULANER -->
 
 Ehem. Wallfahrtskirche, die von den Konventualen des nahegelegenen Paulanerklosters versehen wurde, Pfarrei St. Carl Borromäus. Abbruch 1839, durch einen Neubau gleichen Patroziniums ersetzt
 
@@ -72,5 +69,3 @@ Freudenberger, Josef, Aus der Geschichte der Au, München 1913, S. 94. Aus der C
 Feulner, Adolf, Die Zick, München 1920, S. 2–4.
 
 Marquart, Eva-Maria, die Gemälde der Bayerischen Staatsgemäldesammlungen München, in: Katalog Johann und Januarius Zick, Koblenz 1984 S. 16.
-
-{{End}}

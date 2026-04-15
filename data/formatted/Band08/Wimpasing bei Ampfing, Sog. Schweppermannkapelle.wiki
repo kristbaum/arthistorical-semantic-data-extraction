@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p294 -->
 
-<!-- header: WIMPASING BELAMPFING -->
 
 
 == WIMPASING bei Ampfing ==
@@ -52,14 +50,9 @@ Ein Maler Joseph Franz Högler ist bisher nicht bekannt geworden. Ein bürgerlic
 Träger der Deckenmalerei: Kuppel über Kranzgesims mit Gurtbogengliederung
 
 Rahmen: A Stuckprofil, 1–8 abwechselnd tropfen- und dreipaßförmige Stuckkartuschen mit Akanthus bzw. Palmetten.
-<!-- citation-page-bottom: Band08 p295 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=24 -->
-<!-- citation-page-top: Band08 p296 -->
 
-<!-- header: WIMPASING BEI AMPFING -->
 
-<!-- header: WIMPASING BEI AMPFIN -->
 
 Technik: Fresko; A polychrom, 1, 4, 5, 8 monochrom blaugrau, 2 und 3 monochrom ocker, 6 und 7 monochrom karmin Maße: A Höhe 9,50m (Stich 3,50); Ø 2,80
 
@@ -108,10 +101,7 @@ Historischer Atlas Bd 36, Mühldorf (Helmuth Stahleder) München 1976, S. 260.
 T- Gerhard Schmolze, Zwei Eier für Seyfried Schweppermann, in: Unser Bayern, Heimatbeilage der Bayerischen Staatszeitung 36, 1987, S. 17–19.
 
 Kupferschmied, Thomas Johannes, Die «Schweppermann-Kapelle» in Wimpasing und die Kaiserschlacht des Jahres 1322, in: Das Mühlrad 43, 2001, S. 99–154. Dehio 1990, S. 1289.
-<!-- citation-page-bottom: Band08 p297 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=25 -->
-<!-- citation-page-top: Band08 p298 -->
 
 
 == WIMPASING BEI AMPFING ==
@@ -147,8 +137,3 @@ Kupferschmied, Thomas Johannes, Die «Schweppermann-Kapelle» in Wimpasing und d
 
 
 [[File:Band08_chunk006_p025_img008.jpg|thumb]]
-
-
-<!-- header: WIMPASING bei Malseneck -->
-
-{{End}}

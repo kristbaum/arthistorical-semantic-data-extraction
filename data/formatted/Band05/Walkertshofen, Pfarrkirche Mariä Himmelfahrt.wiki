@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p284 -->
 
 == WALKERTSHOFEN ==
 
@@ -59,14 +58,9 @@ Maße: A Höhe 5,70 m; 5,50 × 4,90
 B Höhe 5,50 m; 5,00 × 1,90
 
 Erhaltungszustand und Restaurierungen: Die Ausmalung
-<!-- citation-page-bottom: Band05 p285 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=19 -->
-<!-- citation-page-top: Band05 p286 -->
 
-<!-- header: WALKERTSHOFEN -->
 
-<!-- header: WALKERTSHOFE -->
 
 
 [[File:Band05_chunk006_p019_img001.jpg|thumb]]
@@ -86,10 +80,7 @@ Ein geschwungenes Podest und Stufen führen ins Bild ein. Links ragt auf hohem r
 
 
 [[File:Band05_chunk006_p019_img002.jpg|thumb|B Die wunderbare Brotvermehrung]]
-<!-- citation-page-bottom: Band05 p287 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=20 -->
-<!-- citation-page-top: Band05 p288 -->
 
 Hintergrund schließt eine halbkreisförmig geführte Mauer den Schauplatz ab.
 
@@ -132,7 +123,3 @@ AEM, Pfarrakten Walkertshofen: Pfarrbeschreibung; Bauten II; Pastoral- und Kultu
 Schmidtsche Matrikel, Bd 2, S. 309–11. Mayer-Westermayer, Bd 3, S. 178–81. KDB I OB (1), S. 323.
 
 Kunst- und Kulturdenkmäler 1977, S. 370. Angerpointner, Alois, Walkertshofen. Beitrag zur Ortsgeschichte zum 1200jährigen Jubiläum 1984 (vervielfältigtes MS), S. 14–26. A. B.
-<!-- citation-page-bottom: Band05 p289 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=21 -->
-{{End}}

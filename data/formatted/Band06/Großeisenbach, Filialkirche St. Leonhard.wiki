@@ -32,12 +32,8 @@ Kleiner Saal zu zwei Fensterachsen, Pilastergliederung, Empore im W, Belichtung 
 
 
 [[File:Band06_chunk005_p013_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band06 p225 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk005.pdf#page=14 -->
-<!-- citation-page-top: Band06 p226 -->
 
-<!-- header: GROSSEISENBACH -->
 
 
 [[File:Band06_chunk005_p014_img001.jpg|thumb]]
@@ -82,10 +78,7 @@ Beschreibung und Ikonographie
 O A ST. LEONHARD ALS PATRON DER TIERE UND DER GEFANGENEN Ansicht nach O. Die Darstellung ist gerahmt durch versatzstückhafte Architekturen, die eine starke Untersicht suggerieren sollen und daher zur Mitte hin gekippt erscheinen: links die Andeutung einer pfeilergetragenen Halle, die sich über Stufen erhebt, und rechts die Ruine eines antikischen, säulenbesetzten Baus, an der eine Inschriftkartusche befestigt ist mit an das Hebräische erinnernden Schriftzeichen. Im Vordergrund stehen Pferde und Kühe an einem kleinen Flußlauf. Eine Ziege reckt sich und frißt Blätter von einem Baum neben der Tempelruine. Die Pfeilerhalle links ist als Gefängnis gedeutet. Hier ist ein Gefangener an die Wand gekettet; vor ihm steht der hl. Leonhard und segnet ihn. Über der Landschaft mit Gehöften erscheint auf einer von zwei Engeln getragenen Wolke der hl. Leonhard. Er blickt auf die Erde und weist nach oben, wo in einer lichten Wolkengloriole die Dreifaltigkeit dargestellt ist. Die göttlichen Personen sind von Putten und Puttenköpfchen umgeben. Auf einem stuckierten Schriftband am unteren Rahmen befindet sich die Inschrift [c]omples omne animal benedictione. | Psal: 144 n. (Ps: 144,16: imples).
 
 In der Farbigkeit überwiegen warme und helle Töne. Im dunklen Terrain setzen Dunkelbraun, Weiß und Rotbraun bei den Tieren Akzente, die Landschaft ist grünocker, die obere Bildhälfte in Ocker und Rot gemalt. Ein kräftig grüner Farbton links unten vor dem Haus, auf der Wolkenbank und auf der Weltkugel korrespondiert mit dem Türkis der Gewölbezwickeluntermalung (unter braun und ocker gemaltem Brokat) und scheint der Secco-Übermalung der letzten Restaurierung zu entstammen.
-<!-- citation-page-bottom: Band06 p227 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk005.pdf#page=15 -->
-<!-- citation-page-top: Band06 p228 -->
 
 
 == GROSSEISENBACH ==
@@ -139,6 +132,3 @@ Dehio 1990, S.376 (mit fehlerhaften Angaben)
 
 
 [[File:Band06_chunk005_p015_img001.jpg|thumb|Der hl. Laurentius als Patron der Armen Seelen, Zustand vor der Restaurierung von 1991/92]]
-
-
-{{End}}

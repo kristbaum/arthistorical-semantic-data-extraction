@@ -47,12 +47,8 @@ Aiglstorffer übernahm die beiden Engelsgestalten bis ins Detail aus dem LHs-Fre
 Die Farbigkeit des Deckenbildes wird von kräftigen Ocken bis Rotbraun-Tönen bestimmt, die auch die Konturen abgeben. Wenige Weiß- und Blaugrau-Akzente stehen dazu in Kontrast: Die Gewänder Gottvaters sowie Moses' und Aarons, die Flügel der Engel, die Zelte im Hintergrund und einzeln Gewandpartien beim Volk.
 
 Die (wahrscheinlich ursprüngliche) Inschrift in den sechs Kar
-<!-- citation-page-bottom: Band07 p59 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=6 -->
-<!-- citation-page-top: Band07 p60 -->
 
-<!-- header: BOCKHORN -->
 
 tuschen in den vier Raumecken sowie östlich und westlich vom Deckenbild ist dem Hymnus »Lauda Sion« des Thomas von Aquin entnommen, der Sequenz vom Fronleichnamsfest ECCE (SW) PANIS (W) ANGELO/RUM (NW) FACTUS (NO) CIBUS (O) VIATORUM (SO). In zwei Kartuschen an der N- und S-Seite weitere Inschriften: PROBET AUTEM SEIPSUM HOMO (S) ET SIC DE PANE / ILLO EDAT (N I Cor 11,28: »Probet autem seipsum homo: et sic de pane illo edat, et de calice bibat«). Alle diese Inschriften sind heute in Gold auf blauem Grund ausgeführt
 
@@ -63,5 +59,3 @@ tuschen in den vier Raumecken sowie östlich und westlich vom Deckenbild ist dem
 BHStA, Landshuter Abgabe 1993, 150: Neubau 1710/14; 150 Kirchturmreparatur 1778.
 
 AEM, Pfarrakten Bockhorn, 144 0001 01: Pfarrbeschreibung mit Beschreibung des Pfarrers Lethner 1817; 144 3002 01: Pfarrkirchenbauten; 144 3002 02: Baufälle 1862–1931. AEM, Kunsttopographie der Erzdiözese, Dekanat 23/Erding, Pfarrei Bockhorn, Pfarrkirche Mariä Heimsuchung (Georg Brenninger). BLfD, Akt Bockhorn, Pfarrkirche Mariä Heimsuchung. Schmidtsche Matrikel, Bd 1, S. 518 f. Mayer-Westermayer, Bd 1, S. 362 f. KDB I (OB) 2, 1214 f. Landkreis Erding 1985, S. 320. Dehio 1990, S. 141. A. B.
-
-{{End}}

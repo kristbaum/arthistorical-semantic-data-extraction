@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p102 -->
 
-<!-- header: HOLZHAUSEN BEI BUCHLOE -->
 
 
 == HOLZHAUSEN bei Buchloe ==
@@ -107,12 +105,8 @@ A<sub>1</sub> ABT GILBERT VON NEUFFONTAINES Der hl. Abt – ein Putto hält sein
 
 
 [[File:Band01_chunk003_p002_img008.jpg|thumb|A4 Abt Friedrich von Meißen]]
-<!-- citation-page-bottom: Band01 p103 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=3 -->
-<!-- citation-page-top: Band01 p104 -->
 
-<!-- header: HOLZHAUSEN BEI BUCHLOE -->
 
 A2 GOTTFRIED VON KAPPENBERG Dem im Gebet knienden hl. Prämonstratenser erscheint ein Engel mit einem Kreuz und einer Krone. Gottfried hat der weltlichen Herrschaft (Krone, Zepter und Reichsapfel auf einem Kissen am Boden) entsagt, durch Christus (Kreuz) wird ihm die Krone des Himmels zuteil (Graf Gottfried wandelte die Schlösser Kappenberg, Ilbenstadt und Valar in Prämonstratenserklöster um).
 
@@ -138,6 +132,3 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 
 == HURLACH ==
-
-
-{{End}}

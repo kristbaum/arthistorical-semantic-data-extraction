@@ -131,10 +131,7 @@ Valles abundabunt frumento. 206 Vas admirabile. 353 Vestigia solis adorant. 130 
 »Ganz und gar hell und klar.« 577 »G'en Sturm sich setzen, heißt sich selbst verletzen« 586 »Glanzt von fern wie ein Stern.« 584
 
 »Ich leuchte bedeckt, kein Wind mich erschreckt.« 580 »Ihr nichts vermögt, ich bleibe unbewegt.« 588
-<!-- citation-page-bottom: Band01 p643 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=23 -->
-<!-- citation-page-top: Band01 p644 -->
 
 Im Koth zwar schein, verbleib doch rein. 581 In ganzer Revier kein Schatten ist hier
 
@@ -183,6 +180,3 @@ S. 451, Planskizze, C1 und C2 sind zu tauschen
 S. 520, rechte Spalte, 31. Zeile von oben: anstatt Altheim: Altdorf
 
 80 Ba
-<!-- citation-page-bottom: Band01 p645 -->
-
-{{End}}

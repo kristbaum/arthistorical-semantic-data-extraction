@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p444 -->
 
 
 == WURMANNSAU ==
@@ -56,11 +55,3 @@ Im Kontrast zu Himmelblau (Mantel Mariens) und hellem Grau (Architektur, Hoherpr
 Heislainger, Georg und Jakob Ambos, Chronik der Pfarrei Unterammergau, Garmisch 1903, S. 36 f. Bührlen, J. Richard, Lüftelmaler Franz Seraph Zwink von Oberammergau, Oberammergau 1921, S. 13 f.
 
 LANDKREIS MIESBACH
-<!-- citation-page-bottom: Band02 p445 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=24 -->
-<!-- citation-page-top: Band02 p446 -->
-
-<!-- header: ALF -->
-
-{{End}}

@@ -12,7 +12,6 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band09 p210 -->
 
 == Nicht erhaltene Ausmalungen ==
 
@@ -29,5 +28,3 @@ Großes Tafelzimmer - »Stuba aulica maior« im ersten Obergeschoß des Prälate
 == Nachrichten in den Quellen ==
 
 Die Annalen berichten von der prächtigen Einrichtung der »Stuba aulica minor« und der »Stuba aulica maior«, von Spiegeln, Bildern und Möbeln. Die »Stuba aulica minor« zeige den ägyptischen Joseph, das Treppenhaus Abraham, die »Stuba aulica maior« aber Martha, und alle drei Ausmalungen seien von dem Trostberger Soll. Da das gemeinsame Thema der drei Räume die Gastfreundschaft ist, war in dem Großen Tafelzimmer die Bewirtung Jesu in Bethanien durch Martha gezeigt. »Revertenti Stuba major, minorque, quod aiunt, aulica occurrit, nitidissimis speculis, picturis, cistisque novo artificio elaboratis et muro cohaerescentibus distincta, atque ad omnem elegantiam exornanta. Utrique eodem tractu bina decens admodum hospitum habitatio vicina est, his sex elegantiores e tertia contignatione insident: omnibus palmam praesipit, quam merito principum dicunt, insigni ex integro penicillo Joseph Aegyptiacis historiam recensente delibuta, speculis praeterea maioribus, picturis pretiosissimis, atque omnis commoditate Spectabilis. Pictura aquaria muro cohaerens eundem collaudat auctorem D. Josephum Soll pictorem Trosbergensem, quem illa Stubae aulico maioris et fornicis scalae maiori incumbentis: haec hospitalitatem Abrahae, illa Marthae haut invenuste praesentat« (BSB, Clm 12536, fol. 57).
-
-{{End}}

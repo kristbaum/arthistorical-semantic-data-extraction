@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p234 -->
 
-<!-- header: ST. LEONHARD -->
 
 
 == ST. LEONHARD ==
@@ -58,12 +56,8 @@ A ST. ISIDOR UND ST. WENDELIN Betrachterstandpunkt gegen W unterhalb des Hauptfr
 
 
 [[File:Band02_chunk005_p018_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p235 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band02 p236 -->
 
-<!-- header: ST. LEONHARD -->
 
 == ST. LEONHARD ==
 Ein Engel hält sein Attribut, den Pflug. Wendelin trägt ebenfalls einfache Kleidung; er hat die Hände gefaltet und blickt zum Himmel. Seine Attribute, Hirtentasche und Hirtenstab, werden von einem Engel rechts neben ihm vorgewiesen.
@@ -87,12 +81,8 @@ Das Fresko, aus Winks frühester Schaffensperiode, kann als eines seiner Hauptwe
 
 
 [[File:Band02_chunk005_p019_img002.jpg|thumb|Patron St. Leonhard]]
-<!-- citation-page-bottom: Band02 p237 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band02 p238 -->
 
-<!-- header: ST. LEONHARD -->
 
 
 [[File:Band02_chunk005_p020_img001.jpg|thumb]]
@@ -157,5 +147,3 @@ Ehem. Augustinerchorherrenstift, ietzt Kloster der Missionsdominikanerinnen, Erz
 Stiftskirche, jetzt Pfarrkirche Psallierchor S. 246 Klosterbibliothek S. 248 ehem. Refektorium S. 252
 
 Friedhofskirche S. 253
-
-{{End}}

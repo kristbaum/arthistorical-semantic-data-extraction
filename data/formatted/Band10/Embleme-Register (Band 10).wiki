@@ -85,10 +85,7 @@ Obumbrabit altissimus 116, 118 Oleum medicina salutis 292, 297 Omnia componit 21
 Quam denotat hora 292, 294 Quia peris cum tempore contemno te 95f. Quod me impellit vis repellit 96 Quod nequeunt tot sidera praestat 201f.
 
 Pacem feret 116, 118
-<!-- citation-page-bottom: Band10 p359 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk008.pdf#page=5 -->
-<!-- citation-page-top: Band10 p360 -->
 
 Panis vitae 291f. Plena sibi ac aliis 21
 
@@ -119,6 +116,3 @@ Meine Augen sind allezeit auf den Herrn gerichtet 91
 Sihe: Ich sende eich wie Schaaf mitten unter die Wölff 126f.
 
 Wie schön ist ein keusches Geschlecht
-<!-- citation-page-bottom: Band10 p361 -->
-
-{{End}}

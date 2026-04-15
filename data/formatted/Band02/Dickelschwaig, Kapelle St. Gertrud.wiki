@@ -54,12 +54,8 @@ GLORIE DER HL. GERTRUD Einansichtige Himmelsdarstellung mit der Dreifaltigkeit u
 
 
 [[File:Band02_chunk006_p013_img003.jpg|thumb|Glorie der hl. Gertrud]]
-<!-- citation-page-bottom: Band02 p275 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=14 -->
-<!-- citation-page-top: Band02 p276 -->
 
-<!-- header: DICKELSCHWAIG -->
 
 ELMAU
 
@@ -80,5 +76,3 @@ Thieme-Becker, Bd 36 (1947), S. 435 f.
 Lutterotti, Otto, Die Barockmaler-Familie Zeiller aus Reutte, in: Außerferner Buch, Schlern-Schriften 111, Innsbruck 1955, S. 312.  
 Fischer, Pius, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, München 1964, S. 50, 115.  
 Matsche, Franz, Der Freskomaler Johann Jakob Zeiller, Marburg 1970, S. 280–282.  
-
-{{End}}

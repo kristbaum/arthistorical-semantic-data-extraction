@@ -21,7 +21,7 @@
 == Befund ==
 
 
-Träger der Deckenmalerei: langgezogenes Kreuzgewölbe<br>Rahmen: Gemalte Rahmung Technik: Fresko; polychrom Maße: Höhe 3,00 m; 4,00 (ursprünglich 5,20) × 2,75
+Träger der Deckenmalerei: langgezogenes Kreuzgewölbe Rahmen: Gemalte Rahmung Technik: Fresko; polychrom Maße: Höhe 3,00 m; 4,00 (ursprünglich 5,20) × 2,75
 
 Erhaltungszustand und Restaurierungen: Einbau einer Lourdesgrotte im frühen 20. Jh. Die Deckenbilder waren überstrichen und wurden nur an dem sichtbaren Teil des Gewölbes freigelegt, aber nicht renoviert. Das Wandbild ist stark übermalt (keine Abbildung).
 
@@ -57,7 +57,7 @@ GERICHT (S) Eine Seele in Leichentüchern lauscht der Posaune des Jüngsten Geri
 
 HOLLE (W) Eine von einer Schlange umschlungene Seele in der Verdammnis; in der Bekrönung ein roter Teufel. HIMMEL (N) Die erlöste Seele trägt einen Rauchmantel und hat die Hände über der Brust gefaltet. Darüber ein Totenkopf.
 
-ERLÖSUNG UND VERDAMMNIS (N-Wand) Das Lunettenbild zeigt eine große Schar von Seelen. Auf der linken Seiten werden sie von zwei großen Engeln an der Hand genommen und der himmlischen Seligkeit zugeführt. Von oben strahlt goldenes Licht, zwei Putten fliegen den Seelen entgegen. Inschrift im Bogen: Die ewig Freidt / wehrt allezeit<br>Und selig der Welchr khombt daber. Auf der rechten Seite sieht man in einer Höhle, aus der Feuer lodert, die Seelen in den Qualen der Hölle. Fragmente eines Verses: ... Zeidt ich hie schon leidt / ... auf euch mit Schmerzen ... ich einmal aus dieser Qual / ... betet ihr frommen Herzen (keine Abbildung)
+ERLÖSUNG UND VERDAMMNIS (N-Wand) Das Lunettenbild zeigt eine große Schar von Seelen. Auf der linken Seiten werden sie von zwei großen Engeln an der Hand genommen und der himmlischen Seligkeit zugeführt. Von oben strahlt goldenes Licht, zwei Putten fliegen den Seelen entgegen. Inschrift im Bogen: Die ewig Freidt / wehrt allezeit Und selig der Welchr khombt daber. Auf der rechten Seite sieht man in einer Höhle, aus der Feuer lodert, die Seelen in den Qualen der Hölle. Fragmente eines Verses: ... Zeidt ich hie schon leidt / ... auf euch mit Schmerzen ... ich einmal aus dieser Qual / ... betet ihr frommen Herzen (keine Abbildung)
 
 Die Gebeinhäuser und Seelenkammern waren entstanden wegen der Enge der Friedhöfe; dorthin brachte man die Gebeine, um Raum für neue Gräber zu schaffen. Im Volks glauben galten sie auch als Aufenthaltsort der noch nicht erlösten Armen Seelen. Im östlichen Bayern sind noch eine große Anzahl dieser Gebeinhäuser erhalten, in denen häufig die Vier Letzten Dinge dargestellt wurden.
 
@@ -82,7 +82,3 @@ Dehio 1990, S. 399
 Gruber, Franz Xaver, Beinhäuser – Karner – Seelenkammer und das Armenseelenkammerl von Unterneukirchen, in: Oettinger Land 14, 1994, S. 202–06.
 
 C.B.
-<!-- citation-page-bottom: Band09 p97 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=25 -->
-{{End}}

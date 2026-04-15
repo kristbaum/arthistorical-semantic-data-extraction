@@ -12,9 +12,7 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band12 p122 -->
 
-<!-- header: DETTENDORE -->
 
 
 == DETTENDORE ==
@@ -75,7 +73,3 @@ Wie auch die vergleichbaren Bilder in Pfraundorf und Hilperting hat das Chorfres
 AEM, Pfarrakten Emmering, 1700001 01: Pfarrbeschreibung 1708/3201: Baureparatur 1908.
 
 Schmidtsche Matrikel Bd 2, S. 232 f. Mayer-Westermayer Bd 3, S. 226, 246–49. KDB I Ob (2), S. 1340f. Hüttl, Sebastian, Lampferding mit Dettendorf, in: Der Landkreis Ebersberg in Geschichte und Gegenwart. Ein Heimatbuch, München 1960, S. 107 f. -, Geschichte der Pfarrei Emmering, in: OAVG Bd 100, München 1975, S. 214–50. Dettendorf S. 240f.
-<!-- citation-page-bottom: Band12 p123 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=13 -->
-{{End}}

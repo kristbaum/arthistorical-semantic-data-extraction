@@ -51,14 +51,9 @@ ED<sub>1</sub> ERSTES GEBOT »Ich bin der Herr, dein Gott. D sollst keine fremde
 ED<sub>2</sub> ZWEITES GEBOT »Du sollst den Namen Gottes nicht verunehren«. Steinigung des Sabbathändlers vor Moses und Aaron (Num 15,32–37).
 
 
-<!-- citation-page-bottom: Band04 p105 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=4 -->
-<!-- citation-page-top: Band04 p106 -->
 
-<!-- header: FÜRSTENFELD -->
 
-<!-- header: FURSTENEELD -->
 
 
 [[File:Band04_chunk003_p004_img001.jpg|thumb]]
@@ -83,12 +78,8 @@ ED<sub>4</sub> VIERTES GEBOT »Du sollst Vater und Mutter ehren, auf daß es dir
 ED<sub>5</sub> FÜNFTES GEBOT »Du sollst nicht töten«. Kain tötet Abel (Gen 4). Links der Altar Abels mit dem Lamm, von dem der Rauch aufsteigt, links der Altar Kains mit den Feldfrüchten, dessen Rauch schwer am Boden liegt.
 
 ED<sub>6</sub> SECHSTES GEBOT »Du sollst nicht Unkeuschheit treiben«. Potiphars Weib versucht Joseph zu verführen (Gen 39,7–13).
-<!-- citation-page-bottom: Band04 p107 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=5 -->
-<!-- citation-page-top: Band04 p108 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=5 -->
 
 
 
@@ -110,14 +101,9 @@ ED<sub>6</sub> SECHSTES GEBOT »Du sollst nicht Unkeuschheit treiben«. Potiphar
 ED<sub>9</sub> NEUNTES GEBOT »Du sollst nicht begehren deine Nächsten Weib«. »Du sollst nicht begehren deines Nächsten Weib«. David begehrt die Frau des Urias, die er im Bad erblickt (2 Sam 11,2–5).
 
 ED<sub>10</sub> ZEHNTES GEBOT »Du sollst nicht begehren deines Nächsten Hab und Gut«. »Du sollst nicht begehren deines Nächsten Hab und Gut«. Achab begehrt den Weingarten Nabots, den er sich unrechtmäßig aneignet (3 Reg 21).
-<!-- citation-page-bottom: Band04 p109 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=6 -->
-<!-- citation-page-top: Band04 p110 -->
 
-<!-- header: FURSTENEEL -->
 
-<!-- header: FURSTENFELD -->
 
 
 [[File:Band04_chunk003_p006_img001.jpg|thumb|Sommersakristei: S Die Liebe zu Gott befreit die Seele aus dem Fegfeuer, Fresko über dem Zugang zum Chor]]
@@ -192,14 +178,9 @@ Kraft, Klaus und Florian Hufnagel, Landkreis Fürstenfeldbruck (= Baudenkmäler 
 Pörnbacher, Karl, Das Wittelsbachische Sühnekloster zu Fürstenfeld. Zur Geschichte der Zisterzienserabtei, München 1978.
 
 Rupprecht, Bernhard, Die Brüder Asam. Sinn und Sinnlichkeit im bayerischen Barock, Regensburg 1980, S. 116–23.
-<!-- citation-page-bottom: Band04 p111 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=7 -->
-<!-- citation-page-top: Band04 p112 -->
 
-<!-- header: FURSTENFELD -->
 
-<!-- header: Klostergebäude -->
 
 Lampl, Lorenz und Wolf-Christian von der Mülbe, Die Klosterkirche Fürstenfeld. Ein Juwel des bayerischen Barock, München 1981
 
@@ -280,5 +261,3 @@ Liturgia Horarum Ordinis Cisterciensis, hg. Abtei Heiligenkreuz, Mödling 1978.
 Die Zisterzienser. Ordensleben zwischen Ideal und Wirklichkeit, Katalog der Ausstellung in Aachen, Berlin 1980.
 
 A. B./B. H./H.W.
-
-{{End}}

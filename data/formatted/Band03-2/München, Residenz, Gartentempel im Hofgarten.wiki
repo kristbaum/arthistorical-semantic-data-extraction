@@ -61,10 +61,7 @@ Maße: Höhe 7,60; Bildmaße liegen nicht vor. In trapezförmigen Rahmen saßen 
 [[File:Band03-2_chunk005_p007_img005.jpg|thumb|Deckenfelder im Hofgartentempel (zerstört)]]
 
 
-<!-- citation-page-bottom: Band03-2 p213 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk005.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p214 -->
 
 
 == RESIDENZ ==
@@ -104,6 +101,3 @@ R W_K
 
 
 == HOFAPOTHEKE ==
-
-
-{{End}}

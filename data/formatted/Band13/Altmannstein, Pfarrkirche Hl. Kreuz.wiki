@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band13 p24 -->
 
-<!-- header: ALTMANNSTEIN -->
 
 
 == ALTMANNSTEIN ==
@@ -43,12 +41,8 @@ Johann Georg Günther d. J. (* 1766 † 1832), Halbbruder Ignaz Günthers aus de
 
 
 [[File:Band13_chunk001_p013_img002.jpg|thumb|Kreuzauffindung (um 1764)]]
-<!-- citation-page-bottom: Band13 p25 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=14 -->
-<!-- citation-page-top: Band13 p26 -->
 
-<!-- header: ALTMANNSTEIN -->
 
 
 == APPERTSHOFEN ==
@@ -93,5 +87,3 @@ Kernl, Hubert, Altmannstein, Katholische Pfarrkirche Heilig Kreuz (= KKF Nr. 127
 Dehio OB 1990, S. 20; 2006, S. 21f. (Deckenbild nicht erwähnt).
 
 Pfarrkirche, Pfarreiengemeinschaft Stammham-Appertshofen, Gemeinde Stammham, Diözese Regensburg; ursprünglich Filialkirche von Kösching, später von Stammham, ab 1696 Provisur, seit 31.1.1710 selbständige Pfarrei, auf die das Reichsstift Niedermünster in Regensburg das Präsentationsrecht hatte. Pfleggericht Kösching, 1756 mit dem Kastenamt Ingolstadt konsolidiert; 1803–1972 Landkreis Ingolstadt, Rentamt München.
-
-{{End}}

@@ -22,7 +22,7 @@ Pfarrkirche, Pfarreiengemeinschaft Enkering-Kinding, Markt Kinding, Diözese Eic
 
 In einem Antrag des General-Heiling-Verwalters Thomas Baumgartner an den Geistlichen Rat Eichstätt vom 20. Februar 1739 ging es um die Maurer Rechnung, die von der Gemeinde nicht mehr bezahlt werden konnte, nachdem Pfarrer und Pfarrkinder für Stuck und Fresken aufgekommen waren: »Nachdermahlen H. Lct. Pfaller, Pfarrer zu Enckhering von einem Hochwürdigen General Vicariat gnädig erlaubt worden, von einig verschaft und andere und seine Pfarr Künder zusame gebrachten Collecten geldern die notwendige Ippsdeckh (indeme das alte Tabulat sehr schadhaft gewesen) neu herstellen zulassen, so dan auch von Stuccador Franz Horneyß nach dem vorgezeigten Riss mit Laubwerckh und von Mahler Josef Dietrich mit hibscher Fresco-Mahlerei versehen im fertigen Jahr würcklich geschehen, welches aber zusammen, benebst denen Mahlereien uf 250 fl zustehen gekommen ist; als hat auch die ruinose Kürchen Tachstuell nothwendig umbgeschlagen und verglädet, wie auch der Thurm im Tach ausgebessert, wenigst nicht die vom Kürchen Gemäuer sich ganz weggegebene, auch sonst im Tachwerckh sehr pueswürdige
 
-Sacristey wider notdürftig repariert werden müssen, wessen dem gedach ten H. Pfarrer, umb willen die colligirte gelder uf ein weitheres nit gelan get, folgente Zetel zur Zahlung anhero verwiesen, und zwar weger<br>Michael Häberles Maurers von Kipfenberg, die uf ihn und seine Geseller dem Taglohn nach ergangene 62 fl. 2 kr....« - Die Summe wurde am 23. Februar 1739 bewilligt (DAEI, Pfarrakten Enkering, I, 1).
+Sacristey wider notdürftig repariert werden müssen, wessen dem gedach ten H. Pfarrer, umb willen die colligirte gelder uf ein weitheres nit gelan get, folgente Zetel zur Zahlung anhero verwiesen, und zwar weger Michael Häberles Maurers von Kipfenberg, die uf ihn und seine Geseller dem Taglohn nach ergangene 62 fl. 2 kr....« - Die Summe wurde am 23. Februar 1739 bewilligt (DAEI, Pfarrakten Enkering, I, 1).
 
 Flachgedeckter Saalbau (18,30 [alt 12, m] × 6,50 m) zu fünf (ursprünglich vier) Jochen, Empore im Westen. Belichtung durch fünf Fensterpaare im Langhaus (mit Ausnahme des nördlichen Fensters im zweiten Joch, wo die Kanzel steht). Kleiner quadratischer Altarraum (4,00 × 3,90 m) mit einem Fenster von Süden.
 
@@ -36,12 +36,8 @@ Laut überliefertem Schriftverkehr kamen der Pfarrer und die Gemeinde für die n
 
 
 [[File:Band13_chunk005_p023_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p245 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=24 -->
-<!-- citation-page-top: Band13 p246 -->
 
-<!-- header: ENKERING -->
 
 
 [[File:Band13_chunk005_p024_img001.jpg|thumb]]
@@ -95,14 +91,10 @@ Die Vita S. Otmari, 70 Jahre nach seinem Tod von dem St. Gallener Mönch Gozbert
 [[File:Band13_chunk005_p024_img002.jpg|thumb|A, 1–4 Otmar-Zyklus (Joseph Dietrich 1738)]]
 
 
-<!-- citation-page-bottom: Band13 p247 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=25 -->
-<!-- citation-page-top: Band13 p248 -->
 
 ENKERING
 
-<!-- header: ENKERING -->
 
 
 [[File:Band13_chunk005_p025_img001.jpg|thumb]]
@@ -128,12 +120,8 @@ Lantpert, ein von den Übeltätern bestochener Klosterbruder Otmars, aussagte, e
 [[File:Band13_chunk005_p025_img005.jpg|thumb|2 Otmar beschenkt die Armen]]
 
 
-<!-- citation-page-bottom: Band13 p249 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=1 -->
-<!-- citation-page-top: Band13 p250 -->
 
-<!-- header: ENKERING -->
 
 
 [[File:Band13_chunk006_p001_img001.jpg|thumb]]
@@ -175,8 +163,3 @@ C.B.
 
 
 [[File:Band13_chunk006_p001_img002.jpg|thumb]]
-
-
-<!-- header: GRÖSDORF -->
-
-{{End}}

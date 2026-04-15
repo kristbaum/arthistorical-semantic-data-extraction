@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p160 -->
 
-<!-- header: SIEGERTSBRUNN -->
 
 
 == SIEGERTSBRUNN ==
@@ -82,12 +80,8 @@ A GLORIE DES HL. PETRUS Reine Himmelsszenerie: geringe Untersicht; Betrachtersta
 
 
 [[File:Band03-1_chunk004_p006_img001.jpg|thumb|A Glorie des hl. Petrus]]
-<!-- citation-page-bottom: Band03-1 p161 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=7 -->
-<!-- citation-page-top: Band03-1 p162 -->
 
-<!-- header: SIEGERTSBRUNN -->
 
 
 [[File:Band03-1_chunk004_p007_img001.jpg|thumb]]
@@ -122,5 +116,3 @@ W<sub>4</sub> Befreiung aus dem Kerker durch den Engel (Act 12,11)
 Die gotische Figur des thronenden Petrus im Papstornat, jetzt über der Sakristeitür angebracht, nahm früher den ikonologisch wichtigen Platz auf dem Hochaltar ein und bildete sinngemäß die Ergänzung zum Freskenzyklus.
 
 Literatur s. S. 168
-
-{{End}}

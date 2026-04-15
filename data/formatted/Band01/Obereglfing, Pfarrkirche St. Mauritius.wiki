@@ -39,12 +39,8 @@ Die irdische Szenerie wird nur von einer schmalen und seichten Rampe gebildet, z
 Vor dem farbig bewegten Hintergrund aus zartblauem Himmel, rosa- und ockerfarbenen und braunen Wolken erscheinen die Farben der Gewänder – im wesentlichen  
 
 [[File:Band01_chunk009_p017_img001.jpg|thumb]]  
-<!-- citation-page-bottom: Band01 p433 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=18 -->
-<!-- citation-page-top: Band01 p434 -->
 
-<!-- header: OBEREGLFING -->
 
 
 [[File:Band01_chunk009_p018_img001.jpg|thumb|B Anbetung der Heiligen Drei Könige]]
@@ -127,14 +123,9 @@ d VAS INSIGNE DEVOTIONIS – Räuchergefäß
 
 
 434
-<!-- citation-page-bottom: Band01 p435 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=19 -->
-<!-- citation-page-top: Band01 p436 -->
 
-<!-- header: OBEREGLFING -->
 
-<!-- header: OBERHAUSEN -->
 
 [[File:Band01_chunk009_p019_img001.jpg|thumb]]
 [[File:Band01_chunk009_p019_img002.jpg|thumb]]
@@ -161,5 +152,3 @@ Gebhart, Hansjakob, Staffelsee-Chronik. Ein Heimatbuch bearbeitet nach Quellen v
 Gernhardt, Ludwig, Eglfing, in: Weilheimer Sonntagsblatt 9, 1932, S. 7.
 
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 34
-
-{{End}}

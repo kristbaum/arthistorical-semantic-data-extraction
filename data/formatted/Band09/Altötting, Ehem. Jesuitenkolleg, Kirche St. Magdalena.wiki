@@ -11,7 +11,6 @@
 |danach=Altötting, Ehem. Jesuitenkolleg, Kongregationssaal
 |AutorIn1=Böhm, Cordula
 }}
-<!-- citation-page-top: Band09 p18 -->
 
 
 == ALTOTTING ==
@@ -39,12 +38,8 @@ Zur Jahrhundertfeier der Kirchweihe war 1696 ein größerer Bau fällig, da die 
 
 
 [[File:Band09_chunk001_p010_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p19 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=11 -->
-<!-- citation-page-top: Band09 p20 -->
 
-<!-- header: ALTOTTING -->
 
 [[File:Band09_chunk001_p011_img001.jpg|thumb]]
 
@@ -71,14 +66,9 @@ Maße: Höhe 12,00 m; 5,50×4,00
 Erhaltungszustand und Restaurierungen: Restaurierungen fanden 1795/96 und 1892 statt (KDB). 1892 war das Deckenbild mit einem Christusmonogramm übermalt. 1911/12 Innenrenovierung durch die Fa. Vitzthum und den Kunstmaler Alois Schlee, Altötting. Im Gutachten Haggenmillers vom 23.7.1911 (BLfD) wurde festgestellt, daß unter der »dicken fleckiggrauen Übertünchung« der Stuck wie in der Theatinerkirche ursprünglich naturfarben war. Das Monogramm Christi im Strahlenkranz im Mittelfeld wurde damals mit Gold in
 
 [[File:Band09_chunk001_p011_img002.jpg|thumb|A Glorie der hl. Magdalena (Franz Joseph Lederer 1698), photographische Aufnahme vor der Restaurierung 2002/03]]  
-<!-- citation-page-bottom: Band09 p21 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=12 -->
-<!-- citation-page-top: Band09 p22 -->
 
-<!-- header: ALTOTTING -->
 
-<!-- header: ALTOTTIN -->
 
 der gleichen Form wiederaufgemalt, ebenso die spätere Vergoldung an der großen Muschel über dem Hochaltar wiederholt sowie die Goldschriften in den Kartuschen, letztere aber mehr »im Stilcharakter«. Die Wand- und Pfeilersockel hatten einen grauen Olanstrich.
 
@@ -95,4 +85,3 @@ Das Fresko wirkt in dieser üppigen plastischen Umrahmung flach und leicht. Vor 
 In der Figur der Maria Magdalena vereinigen sich drei Frauen aus dem Neuen Testament, die von Christus geheilte Maria Magdalena (Lc 8,2 und Mc 16,3), die Sünderin, die Jesus die Füße salbt (Lc 7,37-50), und Maria von Bethanien, die Schwester des Lazarus (Jo 12,1-8). Im Mittelalter wurde ihre Legende auch noch mit der der Eremitin Maria Ägyptiaca vermischt. Daraus erklären sich die vielen Attribute der Heiligen: Salbgefäß und Weihrauchfaß weisen auf die Salbung Jesu und den Gang zum Grab hin, Büßergewand und Strick auf das asketische Leben, Buch und Totenkopf auf die Überwindung der Vanitas und die Vita contemplativa, Ölzweig auf den himmlischen Lohn (LCI Bd 7, Sp. 516–524). Schließlich gehört auch die himmlische Vision zu ihrer Legende. Die brennenden Herzen dagegen bedeuten Andacht und Hingabe der Gläubigen, die aus dem Füllhorn mit himmlischen Gnaden belohnt werden.
 
 Das Kirchenpatrozinium St. Maria Magdalena geht nach Stadler auf einen besonderen Wunsch Herzog Wilhelms V. zurück, der nicht nur zwei Töchter dieses Namens hatte (Eleonora Magdalena *7.10.1578 in München †18.4.1579 in Landshut, und Magdalene *4.7.1587 in München, 1613 Ehe mit Wolfgang Wilhelm von Pfalz-Neuburg † 25.9. 1628 in Neuburg a.d. Donau), sondern auch eine Nichte, die er laut Stadler (S. 12) besonders liebte (Marie Magdalena * 1589 als Tochter Erzherzog Karls II. von Innerösterreich und Marias von Bayern, der Schwester Wilhelms, spätere Gemahlin Großherzog Cosimos III. von Toskana). Die Verehrung der hl. Magdalena durch Herzog Wilhelm (ihr war ein Seitenaltar in der Michaelskirche geweiht) hing mit zwei Reliquien der Heiligen zusammen, die ihm sein Bruder, der Kölner Erzbischof Ernst von Bayern, 1585/86 schenkte. Die Verehrung der heiligen Sünderin und Büßerin entsprach den frommen und asketischen Neigungen Wilhelms, der 1597 abdankte, um bis zu seinem Tod 1628 wie ein Eremit in Schleißheim zu leben. Auch die Jesuiten förderten ihre Verehrung als »advocata omnium peccatorum et peccatricum« (Rom in Bayern. Kunst und Spiritualität der ersten Jesuiten. Kat. München 1997, S. 469 f.).
-{{End}}

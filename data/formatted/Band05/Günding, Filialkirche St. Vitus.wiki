@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p66 -->
 
-<!-- header: GUNDING -->
 
 Filialkirche, Pfarrei Mitterndorf, Gemeinde Bergkirchen. Erzdiözese München und Freising; z. Z. der Ausmalung war Mitterndorf Monatspfarrei. Gericht Dachau, Amt Schwabnausen
 
@@ -51,5 +49,3 @@ StAM, Geistlicher Rat, Kirchen- und Stiftungsrechnungen, Kirchenrechnungen Geric
 Schmidtsche Matrikel, Bd 2, S. 171. Mayer-Westermayer, Bd 1, S. 176. Kunst- und Kulturdenkmäler 1977, S. 264 f.
 
 A.B.
-
-{{End}}

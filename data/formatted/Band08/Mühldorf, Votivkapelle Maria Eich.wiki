@@ -17,12 +17,8 @@ Votivkapelle, Stadt Mühldorf, Eichkapellenstraße, Pfarre St. Peter und Paul, E
 '''Patrozinium:''' Schmerzhafte Muttergottes
 
 '''Zum Bauwerk:''' Etwa an der Stelle einer hölzernen Kapelle bei einer Eiche wurde 1698/99 ein Neubau errichtet. Baumeister war Domenico Cristoforo Zuccalli, der 1693/97 in Mühldorf, danach in Burghausen ansässig war. Am 22.3. 1698 wurde von Salzburg die Baugenehmigung erteilt, am 20.6. 1698 wurde mit Zuccalli der Vertrag geschlossen, am 1.8.1699 war der Bau vollendet. Weihe am 4. 10. 1700.
-<!-- citation-page-bottom: Band08 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band08 p184 -->
 
-<!-- header: MUHLDORF -->
 
 
 [[File:Band08_chunk004_p018_img001.jpg|thumb]]
@@ -63,5 +59,3 @@ Kupferschmied, Thomas Johannes, Das barocke Mühldorf, in: Mühldorf, Stadt am I
 Reindl-Witt, Irmengard, Biographische Notizen zum Mühldorfer Barockmaler Paul Kurz, in: Das Mühlrad 39, 1997, S. 175 f.
 
 -, Die Eichkapelle Mater Dolorosa in Mühldorf, in: Das Mühlrad 42, 2000, S. 3–22 (mit Quellen). C. B.
-
-{{End}}

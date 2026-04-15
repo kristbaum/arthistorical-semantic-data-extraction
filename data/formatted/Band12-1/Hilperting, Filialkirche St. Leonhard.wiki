@@ -42,14 +42,9 @@ Technik: Fresko; sämtliche Deckenbilder sind polychrom
 
 
 [[File:Band12-1_chunk006_p002_img001.jpg|thumb|A–C, 1–8 Leonhard-Zyklus (Johann Baptist Böham 1785/90)]]
-<!-- citation-page-bottom: Band12 p253 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=3 -->
-<!-- citation-page-top: Band12 p254 -->
 
-<!-- header: LIII DERTING -->
 
-<!-- header: HILPERTING -->
 
 
 [[File:Band12-1_chunk006_p003_img001.jpg|thumb]]
@@ -73,14 +68,9 @@ A HILFE DES HL. LEONHARD BEI DER NIEDERKUNFT DER KÖNIGIN CLOTILDE Ansicht nach 
 
 
 [[File:Band12-1_chunk006_p003_img003.jpg|thumb|Der Kirchenraum (Ausmalung von Johann Baptist Böham 1785/90)]]
-<!-- citation-page-bottom: Band12 p255 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=4 -->
-<!-- citation-page-top: Band12 p256 -->
 
-<!-- header: HILPERTING -->
 
-<!-- header: HILPERTING -->
 
 
 [[File:Band12-1_chunk006_p004_img001.jpg|thumb]]
@@ -125,15 +115,11 @@ In acht Ovalmedaillons an den Gewölbezwickeln sind Szenen aus der Legende des h
 
 == I TAUFE LEONHARDS ==
 Kircheninneres; ein vornehmer Herr hält sein Kind über ein Taufbecken, ein Priester tauft es; in der Kirchenbank kniet eine Dame. Leonhard war der Sohn von fränkischen Edelleuten am Hofe des Merowingerkönigs Chlodwig; er wurde von Remigius, dem Bischof von Reims, getauft und erzogen (LA-Benz, S. 854).
-<!-- citation-page-bottom: Band12 p257 -->
 
 
 [[File:Band12-1_chunk006_p004_img007.jpg|thumb|Kapellenbau]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=5 -->
-<!-- citation-page-top: Band12 p258 -->
 
-<!-- header: HILPERTING -->
 
 HIRNSBERG
 
@@ -178,5 +164,3 @@ Historischer Atlas I, Bd 38 Rosenheim. Die Landgerichte Rosenheim und Auerburg u
 Dehio 1990, S. 429.
 
 HIRNSBERG
-
-{{End}}

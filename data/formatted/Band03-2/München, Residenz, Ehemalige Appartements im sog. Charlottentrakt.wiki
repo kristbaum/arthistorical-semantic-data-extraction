@@ -12,7 +12,6 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band03-2 p132 -->
 
 == EHEMALIGE APPARTEMENTS IM SOG. CHARLOTTENTRAKT ==
 
@@ -65,14 +64,9 @@ VI (BSV Inv. Nr. ResMüG 1271) 2,21 × 1,45 (ursprüngliches Maß wohl wie I)
 [[File:Band03-2_chunk003_p017_img002.jpg|thumb|Aucupium – Vogelfang, BNM]]
 
 [[File:Band03-2_chunk003_p017_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p133 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=18 -->
-<!-- citation-page-top: Band03-2 p134 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: APPARTEMENTS IM CHARLOTTENTRAK -->
 
 Erhaltungszustand, Verbleib und Restaurierungen: Die sechs Gemälde befinden sich nicht mehr an ihrem ursprünglichen Platz. Die drei Darstellungen aus dem nach SO gerichteten Appartement I-III werden im Faßmann-Inventar von 1770 als Werke Candids aufgeführt: Nr. 429 Der Vogelfang, Nr. 430 Die Jagd, Nr. 431 Der Fischfang, und die Maße mit 7 Fuß 3 Zoll auf 4 Fuß 7 Zoll angegeben. Die Bilder waren damals jedoch bereits nicht mehr in situ, sondern hingen im Schwarzen Saal (Raum 13). Die Räume, aus denen sie stammen, müssen also zu diesem Zeitpunkt schon umgestaltet gewesen sein.
 
@@ -110,14 +104,9 @@ VI GETREIDEERNTE Zu dem über der Hüfte gebauschten Gewand trägt die Personifi
 
 [[File:Band03-2_chunk003_p018_img003.jpg|thumb|III Piscatus - Fischfang BNM]]
 
-<!-- citation-page-bottom: Band03-2 p135 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=19 -->
-<!-- citation-page-top: Band03-2 p136 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: TRIERZIMME -->
 
 
 [[File:Band03-2_chunk003_p019_img001.jpg|thumb]]
@@ -175,6 +164,3 @@ B V-K
 
 
 == TRIERZIMMER ==
-
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p296 -->
 
-<!-- header: TADIN -->
 
 
 == TADING ==
@@ -73,14 +71,9 @@ der Anbetung der Hirten ersetzt. Erneute Innenrestaurierung 1969. 1997 wurde die
 Thema der LHs-Ausmalung ist das Kirchenpatrozinium. Im Chor befand sich laut Heigls Überschlag ein kleineres Hauptfresko (ca. 7,80×3,20 m) mit einer »Glori«, also wohl der Darstellung der Dreifaltigkeit. Von den Themen der sechs Nebenbilder in gemalten Kartuschen, die Heigl nennt, haben wir keine Nachricht.
 
 A MARIÄ HIMMELFAHRT UND KRÖNUNG Das große LHs-Fresko überspannt die vier LHs-Joche, wobei der
-<!-- citation-page-bottom: Band07 p297 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=25 -->
-<!-- citation-page-top: Band07 p298 -->
 
-<!-- header: TADING -->
 
-<!-- header: TADING -->
 
 
 [[File:Band07_chunk006_p025_img001.jpg|thumb|Krönung Mariens, Ausschnitt aus Fresko A]]
@@ -94,14 +87,9 @@ Dunkelfarbige terrestrische Versatzstücke im Vordergrund Felsen, stürzendes Wa
 
 
 [[File:Band07_chunk006_p025_img002.jpg|thumb|A Mariä Himmelfahrt und Krönung]]
-<!-- citation-page-bottom: Band07 p299 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=1 -->
-<!-- citation-page-top: Band07 p300 -->
 
-<!-- header: TADING -->
 
-<!-- header: TADIN -->
 
 
 [[File:Band07_chunk007_p001_img001.jpg|thumb]]
@@ -178,7 +166,3 @@ Dehio 1990, S. 1146
 Marienlexikon, s. v. Heigl, s. v. Tading (Gerhard Koschade)
 
 A. B.
-<!-- citation-page-bottom: Band07 p301 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=2 -->
-{{End}}

@@ -56,14 +56,9 @@ Die gesamte Tonnenwölbung ist von imitierter Stuckdekoration in Grisaille-Techn
 [[File:Band03-2_chunk010_p024_img002.jpg|thumb]]
 
 Die Bandwerk-Ornamentik entspricht dem Stuck der frühen zwanziger Jahre des 18. Jh.
-<!-- citation-page-bottom: Band03-2 p497 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=25 -->
-<!-- citation-page-top: Band03-2 p498 -->
 
-<!-- header: SCHLEISSHEIM. NEUES SCHLOSS -->
 
-<!-- header: NÖRDLICHE ANTECAMERA -->
 
 
 [[File:Band03-2_chunk010_p025_img001.jpg|thumb]]
@@ -87,6 +82,3 @@ Literatur siehe S. 502
 
 
 == NORDLICHE ANTECAMERA ==
-
-
-{{End}}

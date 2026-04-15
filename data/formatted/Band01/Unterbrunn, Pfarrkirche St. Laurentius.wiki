@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p358 -->
 
-<!-- header: UNTERBRUNN -->
 
-<!-- header: UNTERBRUNN -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Dießen das Präsentationsrecht, Gericht Starnberg
 
@@ -62,7 +59,3 @@ Braun-Augsburg, Bd 1, S. 369. KDB I OB (1), S. 909. Thieme-Becker, Bd 16, S. 269
 
 
 [[File:Band01_chunk008_p005_img001.jpg|thumb|Maria gewährt hilfreich Schutz in einer Schlacht]]
-<!-- citation-page-bottom: Band01 p359 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=6 -->
-{{End}}

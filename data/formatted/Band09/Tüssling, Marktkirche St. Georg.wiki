@@ -26,14 +26,9 @@ Joseph Estner, *ca. 1669 in ›Zell in der Fischbachau‹, war 1703/29 Bürger u
 
 
 [[File:Band09_chunk005_p012_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p223 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=13 -->
-<!-- citation-page-top: Band09 p224 -->
 
-<!-- header: TUSSLING -->
 
-<!-- header: THISSLING -->
 
 Kirchenbaus, am 17.12.1729 in Neuötting, seine Witwe am 3.6.1732.
 
@@ -81,10 +76,7 @@ Erhaltungszustand und Restaurierungen: 1773/75 war die Kirche in einem »buswür
 [[File:Band09_chunk005_p013_img001.jpg|thumb|Die Marktkirche]]
 
 
-<!-- citation-page-bottom: Band09 p225 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=14 -->
-<!-- citation-page-top: Band09 p226 -->
 
 [[File:Band09_chunk005_p014_img001.jpg|thumb|B Martyrium des hl. Georg, 5-6 Martern (links), 7-8 Wundertaten Georgs (rechts)]]
 
@@ -132,12 +124,8 @@ Legende. Die Szenen in den Medaillons sind jeweils mit architektonischen Versatz
 Die Georgsvita, die im wesentlichen auf die 496 durch Papst Gelasius festgelegte Fassung zurückgeht, erfuhr als nicht historisch beweisbare Vita im Lauf der Neuzeit unterschiedliche Bearbeitungen und Kürzungen. Nur in der auf das Spätmittelalter zurückgehenden Legenda aurea ist noch Georgs Drachenkampf (A) Mittelpunkt der Vita, während Ribadeneira-Hornig 1755 eine kritische, sehr gekürzte Lebensbeschreibung bringt. Die Fassung bei Surius-Via (deutsche Ausgabe München 1574-80, Bd 2, S. 515-20) stimmt weitgehend mit dem Zyklus in Tüßling überein (B, 2-8).
 
 Nach der Überlieferung war Georg ein Ritter aus Kappadokien und kam einst in die Stadt Silena in Libyen. Dort tobte ein giftiger Drache, der mit seinem Gifthauch alles verpestete. Sein
-<!-- citation-page-bottom: Band09 p227 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=15 -->
-<!-- citation-page-top: Band09 p228 -->
 
-<!-- header: TUSSLING -->
 
 
 [[File:Band09_chunk005_p015_img001.jpg|thumb]]
@@ -164,7 +152,7 @@ Während der Christenverfolgungen unter den Kaisern Diokletian und Maximinian be
 [[File:Band09_chunk005_p015_img006.jpg|thumb|B., Himmelfahrt Christi]]
 
 
-dann in eine Kalkgrube werfen (5). Aber alle Foltern überstand Georg unverletzt: »Der Kalk wird abgearbeit und der<br>heylig Georg frisch und gesund, an keinem Glied seines Leibs verletzt funden«. Nun ließ man ihm eiserne Schuhe glühend machen; auch diese Marter überstand er, getröstet von einer Stimme vom Himmel (6). Diokletian und Maximian wußten sich nicht mehr zu helfen und forderten von Georg ein Zeichen seines Gottes: Er solle einen Toten erwecken. »Da erhebt sich gehelich ein Erdbidmen am selben Ort, der Deckel vom Grabe fellt abe auff die Erden, und einer aus den Todten, die darinnen gelegen, ist hinaus gangen«. Der Erweckte bekehrte sich sofort zu Christus (7). Jetzt versprach der Kaiser Georg viele Reichtümer und ein kaiserliches Amt, wenn er den Göttern im Tempel opfere. Georg sagte zu, der Tempel füllte sich mit Volk, und Georg sprach das Bildnis des Apoll an und fragte, ob es wirklich ein Gott sei. Die Statue verneinte und fiel in sich zusammen, und so erging es auch den anderen Götzen
+dann in eine Kalkgrube werfen (5). Aber alle Foltern überstand Georg unverletzt: »Der Kalk wird abgearbeit und der heylig Georg frisch und gesund, an keinem Glied seines Leibs verletzt funden«. Nun ließ man ihm eiserne Schuhe glühend machen; auch diese Marter überstand er, getröstet von einer Stimme vom Himmel (6). Diokletian und Maximian wußten sich nicht mehr zu helfen und forderten von Georg ein Zeichen seines Gottes: Er solle einen Toten erwecken. »Da erhebt sich gehelich ein Erdbidmen am selben Ort, der Deckel vom Grabe fellt abe auff die Erden, und einer aus den Todten, die darinnen gelegen, ist hinaus gangen«. Der Erweckte bekehrte sich sofort zu Christus (7). Jetzt versprach der Kaiser Georg viele Reichtümer und ein kaiserliches Amt, wenn er den Göttern im Tempel opfere. Georg sagte zu, der Tempel füllte sich mit Volk, und Georg sprach das Bildnis des Apoll an und fragte, ob es wirklich ein Gott sei. Die Statue verneinte und fiel in sich zusammen, und so erging es auch den anderen Götzen
 
 
 [[File:Band09_chunk005_p015_img007.jpg|thumb]]
@@ -239,7 +227,3 @@ EB<sub>13</sub> Pfingsten – Der uns den Heiligen Geist gesandt hat.
 EB<sub>15</sub> Krönung Mariens – Der dich, o Jungfrau, im Himmel gekrönt hat.
 
 Quellen und Literatur siehe S. 233f
-<!-- citation-page-bottom: Band09 p229 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=16 -->
-{{End}}

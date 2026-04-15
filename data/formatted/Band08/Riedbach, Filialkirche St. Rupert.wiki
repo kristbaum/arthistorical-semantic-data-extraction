@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p254 -->
 
-<!-- header: RIEDBACE -->
 
 
 == RIEDBACH ==
@@ -69,12 +67,8 @@ Beide Fresken wirken stark überarbeitet, wobei Fresko B sicher schon bei Entste
 
 
 A PATRON ST. RUPERT Ansicht nach O. Auf einer Wolke kniet der hl. Rupert in Pontifikalkleidung, begleitet von drei Putten, die seine Attribute, die Bischofsinsignien und das Salzfaß, halten. Der Kirchenpatron weist auf die Kirche von Riedbach, die zu seinen Füßen auf einer Anhöhe steht, und empfiehlt sie Christus, der über ihm in den Wolken erscheint, das Kreuz in der Linken und mit der Rechten nach oben zum Himmel weisend.
-<!-- citation-page-bottom: Band08 p255 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=4 -->
-<!-- citation-page-top: Band08 p256 -->
 
-<!-- header: RIEDBACH -->
 
 
 [[File:Band08_chunk006_p004_img001.jpg|thumb|B Engel verehren das Allerheiligste (J. F. Huber 1725)]]
@@ -90,6 +84,3 @@ StAL, Pfleggericht Neumarkt, K 1-K 83 Kirchenrechnungen 1700-1800. BLfD, Akt Rie
 
 
 == SALMANSKIRCHEN ==
-
-
-{{End}}

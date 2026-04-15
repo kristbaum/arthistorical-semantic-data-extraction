@@ -27,14 +27,9 @@ Schon Anfang des Jahres 1723 erhielt Stuber den Auftrag zur Ausmalung (BHStA I, 
 
 
 [[File:Band03-2_chunk010_p022_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p493 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=23 -->
-<!-- citation-page-top: Band03-2 p494 -->
 
-<!-- header: SCHLEISSHEIM NEUES SCHLOSS -->
 
-<!-- header: SALA TERREN -->
 
 
 [[File:Band03-2_chunk010_p023_img001.jpg|thumb]]
@@ -69,13 +64,8 @@ Mittelmedaillons A–E Ø 1,20 Ornamentfeld pro Joch 4,00 × 6,70
 Erhaltungszustand und Restaurierungen: Die Malereien der Sala Terrena wurden 1975/76 durch Johann Peskoller, Bruneck/Tirol, restauriert. Im Deckenbereich wurde die Malerei gefestigt und aufgefrischt, im Sockelbereich die Dekoration in der Mittelachse nach dem Vorbild der anderen Joche neu gemalt.
 
 Die Deckenmalerei ist in gutem Zustand und weitgehend original.
-<!-- citation-page-bottom: Band03-2 p495 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=24 -->
-<!-- citation-page-top: Band03-2 p496 -->
 
-<!-- header: SCHLEISSHEIM. NEUES SCHLOSS -->
-<!-- header: SÜDLICHE ANTECAMERA -->
 
 
 == Beschreibung und Ikonographie ==
@@ -107,6 +97,3 @@ Hojer/Schmid 1984, S. 35.
 
 
 == SÜDLICHE ANTECAMERA ==
-
-
-{{End}}

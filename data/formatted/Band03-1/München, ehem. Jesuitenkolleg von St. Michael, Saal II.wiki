@@ -39,12 +39,8 @@ Verbleib: Die Deckenbilder sind nicht erhalten, sie wurden zusammen mit dem Klos
 
 
 Die Decke läßt sich anhand der photographischen Aufnahmen weitgehend rekonstruieren, die Inschriften sind nur teilweise zu erkennen. Die Stuckdekoration gliederte wie bei Saal I die Decke in einen mittleren Bereich mit drei gleichgroßen hintereinanderliegenden runden Bildfeldern (A-C) und in einen Randbereich mit insgesamt zehn Ovalbildern (1-4, a-d, I-II). a und d bzw. b und c sind durch ein quer zur Raumrichtung verlaufendes Bandelement voneinander getrennt.
-<!-- citation-page-bottom: Band03-1 p245 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=24 -->
-<!-- citation-page-top: Band03-1 p246 -->
 
-<!-- header: EHEM. JESUITENKOLLE -->
 
 
 == EHEM. JESUITENKOLLEG ==
@@ -135,7 +131,3 @@ Lippert, Karl Ludwig, Giovanni Antonio Viscardi 1645–1714. Studien zur Entwick
 Volk, Peter, Der ehemalige Hofbibliotheksaal von 1783/84 in München Ein Beitrag zur Geschichte der Bayerischen Akademie der Wissenschaften, phil.-hist. Klasse, Sitzungsberichte Jg. 1974, Heft 9, München 1974.
 
 Wagner, Karl S. J. und Albert Keller S. J. (Hg.), St. Michael in München Festschrift zum 400. Jahrestag der Grundsteinlegung und zum Abschluß des Wiederaufbaus, München/Zürich 1983. E.-G. B
-<!-- citation-page-bottom: Band03-1 p247 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=25 -->
-{{End}}

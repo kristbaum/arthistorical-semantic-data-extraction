@@ -32,14 +32,9 @@ Antonio Ponzano, Geburtsdatum unbekannt, † 1602 München; in Augsburg, Landshu
 
 Hans Donauer (Thonauer) d. Ä. *1521 (?) München, †1596 München; malte um 1567 den Fries im großen Saal in Schloß Dachau, wurde in diesem Jahr Meister. Später unter Sustris in Landshut und München tätig, neben Christoph Schwarz der bedeutendste einheimische Künstler am Münchner Hof.
 
-<!-- citation-page-bottom: Band03-2 p67 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band03-2 p68 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIQUARIU -->
 
 Die wichtigste Quelle für die Ausführung der Gewölbemalerei ist das sog. Pronnersche Malbuch (s. S. 50; BHStA I, HR I, Fasc. 279, Nr. 4; vgl. auch die bei Frosien-Leinz 1987 abgedr. Dokumente). Es weist in den Jahren 1586 sowie 1588/89 die Lieferung von Farben an Hans Donauer d.Ä. für Ortsansichten (O<sub>1-34</sub>, O<sub>1a-b</sub> – O<sub>34 a-b</sub>) sowie Stadtwappen und Antonio Ponzano für Groteskenmalereien im Antiquarium aus, das bei Pronner als »Kaysergewelb« bezeichnet wird. 1588 erhält Hans Tegler Farben für die Umrahmungen von sechs Stadtansichten.
 
@@ -75,14 +70,9 @@ Wann die Zweitfassung entstanden ist, wissen wir nicht. Der
 
 
 [[File:Band03-2_chunk002_p010_img001.jpg|thumb|Antiquarium, Ansicht nach SO]]
-<!-- citation-page-bottom: Band03-2 p69 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=11 -->
-<!-- citation-page-top: Band03-2 p70 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 früheren Vermutung einer Entstehung kurz vor 1600 (Kat. Candid-Zeichnungen Nr. 26) im Zusammenhang mit der Tieferlegung des Fußbodens und der architektonischen Gliederung der Stirnwände steht entgegen, daß Candid vor dem Tod des »Kunstintendanten« Sustris († 1599), der alle »disegna und austeilung« am Hof zu machen hatte, wohl nicht als Entwerfer im Antiquarium tätig werden konnte; er ist mit Entwürfen für die Residenz erst 1600/01 faßbar (s. S. 122). Vor allem aber möchte man sich die Bilder aufgrund ihres Figurenstils lieber um 1615/20 entstanden denken, in der Zeit der von Candid geleiteten malerischen Ausstattung der um- und neugestalteten Residenz, der größeren Beteiligung von anderen Malern bei seinen Arbeiten und der allgemeinen Ausbreitung seines Einflusses. Sie entsprechen der Stilstufe der Allegorien der Trierzimmer (s. S. 139-67) und der Putten des Kaisersaals (s. S. 183-85).
 
@@ -119,14 +109,9 @@ Im März dieses Jahres erließ Wilhelm V. eine Anordnung an seine Beamten auf de
 [[File:Band03-2_chunk002_p011_img001.jpg|thumb]]
 
 [[File:Band03-2_chunk002_p011_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p71 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=12 -->
-<!-- citation-page-top: Band03-2 p72 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUN -->
 
 (Anrede) »Wir schickhen dir hiebei ainen abris oder form ainer Statt und Lanndschaft, welches allein ain Visier unnd größ nachermellts unnsers willens ist, und gar nichts sonst zubedeuten hat. Und nachdem wir unserer Stätt Conterfeth zu ainem unserm vorhabenden werch bedürfftig sein, so befelchen wir dir hiemit, das berürte Stat, in disem form und größ des gezirckhs sambt der gegent oder Lanndschaft darumb wie das muster andeuttet, aufs vleissigist, ordenlichist und besst, doch nur mit der feder abmaln oder reissen, allein die Dächer der Dürn mit Iren gewondlichen farben aufs schlechtest anstreichen lassest, du sollest auch die sach dahin fürdern, damit wir solchen abriß aufs lenngst inner 14 tagen vonn dato an bey unnsern aignen hannden alhie haben mögen« Schlußformel P.S. »Placet weil aber ettlich stet vorhanden so wir schon haben, darff denselben nit geschriben werden«. Auf dem Brief außen: »Befelch an Pfleger zu Wasserburg wegen abconterfehung Statt Wasserburg 1583«. Kanzleivermerk »No. 3 in 27«. (BHStA, GR 990, Nr. 9. Enthalten sind in diesem Aktenkonvolut außerdem: 23 Antwortschreiben der zuständigen herzoglichen Beamten; 1 Liste mit den Städten der vier Rentämter in Bayern; ein Briefkonzept Wilhelms V. ohne Angabe des Empfängers, undatiert, vor dem 10./12. März 1583; ein Briefkonzept Wilhelms V. vom 16. April 1583 an den Statthalter zu Ingolstadt. – Der Inhalt dieser aus der Hofkammer stammenden Akten wurde mit einigen Ungenauigkeiten zuerst von Lipowsky mitgeteilt und auf diesem fußend von Nagler und Schreiber; s. u. Sie bezogen den Vorgang jedoch nicht auf das Antiquarium. Erst Hartig hat 1933 unter B Recht einen Zusammenhang mit dem Antiquarium vermutet).
 
@@ -150,7 +135,7 @@ Die Schwierigkeiten bei dieser Aktion haben vielleicht den Ausschlag gegeben, da
 
 Maler der einzelnen Stadtansichten, nach den Antwortschreiben der Pfleger:
 
-Friedberg(vgl. O<sub>1</sub>): Unbekannter Maler; eine Ansicht der Stadt, »wie mar<br>sy pflegt von dem Zollhaus gegen deroselben (= Wilhelms) Lanndt zue senen«.
+Friedberg(vgl. O<sub>1</sub>): Unbekannter Maler; eine Ansicht der Stadt, »wie mar sy pflegt von dem Zollhaus gegen deroselben (= Wilhelms) Lanndt zue senen«.
 
 Schongau(vgl. O<sub>2</sub>): Unbekannter Maler; mit der Vermittlung des Auftrags war Herzog Ferdinand befaßt
 
@@ -215,14 +200,9 @@ Zu XII Humilitas (Erstfassung) Gesamtkomposition, Entwürfe des Sustris-Kreises.
 Zu XIV Patientia (Erstfassung), Gesamtkomposition, Entwurf des Sustris-Kreises, Feder, laviert, 22,3 × 15,7 cm. Danzig, Muzeum Pomorskii, Klr 8697, als Candid, eher Werl nahestehend (Kat. Candid-Zeichnungen, zu Nr. 26 Anm.
 
 Zu XVI Oboedientia (Erstfassung) Gesamtkomposition, in den der Figur beigegebenen Attributen von der Ausführung abweichend, Sustris-Kreis, Feder, laviert, Maße nicht angegeben, 1914 im Besitz des Malers Franz Wolter, München 1914, Taf. I, Abb. 1. – Kat. Candid-Zeichnungen, zu Nr. 26 Anm. 1/5).
-<!-- citation-page-bottom: Band03-2 p73 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=13 -->
-<!-- citation-page-top: Band03-2 p74 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIU -->
 
 Zu W Wappenhaltende Putten, Entwurf von Sustris (eigenhändig?), mit Varianten gegenüber der Ausführung, Wappenschilde leer, Feder in Schwarz, 7,8 × 17,3 cm. SGS Mü, Inv. Nr. 29836 (Bassermann-Jordan S. 93 und Abb. 66. – Steinbart S. 120. – Feuchtmayr S. 311. – Hock, S. 96, alle als Sustris).
 
@@ -257,7 +237,6 @@ Erhaltungszustand und Restaurierungen: Eine offenbar umfassende Restaurierung wu
 1944 stürzte durch einen Bombentreffer der mittlere Teil des Tonnengewölbes ein, dabei wurden fünf Joche mit ihrer Malerei vernichtet. Durch jahrelange Durchfeuchtung gingen nach und nach im Gewölbescheitel auch die restlichen elf Tugenddarstellungen des Sustris-Kreises zugrunde, erhalten waren nur noch Fragmente. Die Opferszenen 1-17 sind teils zerstört, teils schemenhaft erhalten, auf ihre Rekonstruktion wurde verzichtet. Die Puttendarstellungen I<sub>1-2</sub> - XVI<sub>1-2</sub>, die stark beschädigt waren, wurden konserviert und partiell ergänzt. Von der Groteskenmalerei überstand etwa zwei Drittel die Zerstörung, wurde aber durch die Feuchtigkeit schwer in Mitleidenschaft gezogen. Die Ortsansichten in den Fensterlaibungen der unzerstörten Joche blieben meist erhalten, von den 34 Stadtansichten O<sub>1-34</sub> waren dagegen nur noch wenige in gutem Zustand.
 
 1956 entschloß man sich, als Ersatz für die zerstörten Bilder des Sustris-Kreises die 1924 abgenommenen Holzbilder von Candid und seiner Werkstatt mit den originalen Rahmen wieder anzubringen. Sie wurden 1957 in den Werk-
-<!-- citation-page-bottom: Band03-2 p75 -->
 
 
 [[File:Band03-2_chunk002_p013_img001.jpg|thumb]]
@@ -291,17 +270,12 @@ und Mallerey-Ausgaben Nr. 1551; Häeutle S. 80f., ohne Quellenangabe). Um was es
 [[File:Band03-2_chunk002_p013_img007.jpg|thumb|Nach Sustris, Zeichnung zu I2 Putten, München]]
 
 
-des Tonnengewölbes ein, dabei wurden fünf Joche mit ihrer Malerei vernichtet. Durch jahrelange Durchfeuchtung gingen nach und nach im Gewölbescheitel auch die restlichen elf Tugenddarstellungen des Sustris-Kreises zugrunde, erhalten waren nur noch Fragmente. Die Opferszenen 1-17 sind teils zerstört, teils schemenhaft erhalten, auf ihre Rekonstruktion wurde verzichtet. Die Puttendarstellungen I<sub>1-2</sub> - XVI<sub>1-2</sub>, die stark beschädigt waren, wurden konserviert und partiell ergänzt. Von der Groteskenmalerei überstand etwa zwei Drittel die Zerstörung, wurde aber durch die Feuchtigkeit schwer in Mitlei-<br>denschaft gezogen. Die Ortsansichten in den Fensterlaibungen der unzerstörten Joche blieben meist erhalten, von den 34 Stadtansichten O<sub>1-34</sub> waren dagegen nur noch wenige in gutem Zustand.
+des Tonnengewölbes ein, dabei wurden fünf Joche mit ihrer Malerei vernichtet. Durch jahrelange Durchfeuchtung gingen nach und nach im Gewölbescheitel auch die restlichen elf Tugenddarstellungen des Sustris-Kreises zugrunde, erhalten waren nur noch Fragmente. Die Opferszenen 1-17 sind teils zerstört, teils schemenhaft erhalten, auf ihre Rekonstruktion wurde verzichtet. Die Puttendarstellungen I<sub>1-2</sub> - XVI<sub>1-2</sub>, die stark beschädigt waren, wurden konserviert und partiell ergänzt. Von der Groteskenmalerei überstand etwa zwei Drittel die Zerstörung, wurde aber durch die Feuchtigkeit schwer in Mitleidenschaft gezogen. Die Ortsansichten in den Fensterlaibungen der unzerstörten Joche blieben meist erhalten, von den 34 Stadtansichten O<sub>1-34</sub> waren dagegen nur noch wenige in gutem Zustand.
 
 1956 entschloß man sich, als Ersatz für die zerstörten Bilder des Sustris-Kreises die 1924 abgenommenen Holzbilder von Candid und seiner Werkstatt mit den originalen Rahmen wieder anzubringen. Sie wurden 1957 in den Werk-
-<!-- citation-page-bottom: Band03-2 p75 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=14 -->
-<!-- citation-page-top: Band03-2 p76 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 stätten der Residenz restauriert. Die Rekonstruktion der gesamten Gewölbemalerei, die unter der Leitung von Fritz Haeberlein stand, wurde 1958 abgeschlossen (Dokumentation des Wiederaufbaus der Residenz München, in: Festschrift zur Wiedereröffnung des Residenzmuseums München, Juli 1958, S. 36 f.). »Die malerischen Ergänzungen im Antiquarium sind bewußt keine bis ins Detail genauer Kopien. Sie wurden nur so weit durchgebildet, als dies für den Gesamteindruck notwendig war« (Otto Meitinger ebda. S. 37).
 
@@ -311,25 +285,25 @@ Jetziger Zustand: In den Holztafeln I-XVI Risse und Abblätterungen. Die Deckenm
 == Rekonstruierende Beschreibung und Ikonographie ==
 
 
-Die Ausmalung des Antiquariums zeigt zwei verschiedenen<br>Dekorationsweisen; die eine bezieht sich auf die Wölbung, die andere auf Stichkappen und Fensterlaibungen. Die<br>Darstellungen im Gewölbescheitel beginnen an der<br>ursprünglichen Eingangsseite im SO mit dem teilweise durch die Wandgliederung überschnittenen, querrechteckigen Wappenfeld (W). Daran schließen sich, der Längsrichtung folgend, abwechselnd in querovalen und hochrechteckigen Feldern die Tugenddarstellungen an (I-XVI, nur die Zweitfassung von Candid und Mitarbeitern erhal ten). Zwischen ihnen befinden sich kleine queroblonge Felder mit kleinfigurigen Opferszenen in blauer Camaieu Malerei (1–17, teilweise zerstört, teilweise noch schwach sichtbar). Für die Gewölbezwickel sind im oberen Teil je zwei blumenstreuende oder musizierende Putten auf Wolken vorgesehen (I<sub>2</sub>–XVI<sub>1-2</sub>, mit Ausnahme von I<sub>1</sub>), in schmal zulaufenden Teil darunter gemalte Tafeln mit Inschriften, die die jeweilige Tugend im Gewölbescheitel erläutern. Tugenden, Putten und Opferszenen sind mit einander verbunden durch ein teils plastisches, teils gemaltes Rahmenwerk. Dieses in seiner ursprünglichen Intention sehr geistreiche Dekorationssystem (vgl. die Zeichnung von Sustris zu III,) arbeitet mit illusionistischen Effekten. Ursprünglich stärker als heute hatte der Betrachter den Eindruck, als öffne sich hinter dem Rahmenwerk das Gewölbe gegen den Himmel zu den auf Wolken sitzenden Tugenden und den Putten der Gewölbezwickel, während die Opferszenen in Camaieu einer anderen Sphäre angehören. Diese Absicht wurde bei den Tugenden der Erstfassung verdeutlicht durch eine gemalte, sichelförmig sich ausweitende schmale Brüstung am unteren Rand, die perspektivisch in das Bild hineinführte. Die Bildfelder wirkten dadurch niedriger als die der Zweitfassung, waren jedoch in Wirklichkeit genau so groß. Diese illusionistische Perspektive ist bei den Zweitfassungen, die weniger stark auf Untersicht und in der Komposition viel flächiger angelegt sind, zurückgenommen. Dazu kommt noch die gegenüber ihrer Umgebung viel dunklere und kompaktere Farbigkeit. Die Rahmung der Erstfassung dürfte diese illusionistische Tendenz ebenfalls unterstützt haben. In Analogie zu den flachen Stuckrahmen der Stadtansichten (O1-34) und den sonstigen Dekorationsgepflogenheiten von Sustris (z. B. im Fuggerhaus in Ausburg, 1572) denkt man auch hier an Stuckrahmen, die gegenüber den Holzrahmen weniger stark vorsprangen. Die heute aufgesetzten, zu kleinen und in ihrem Stil mit dem übrigen plastischen Dekor nicht übereinstimmenden Frauenköpfe sind wohl erst im Zusammenhang mit diesen Holzrahmen der Zweitfassung entstanden. Auf der genannten Vorzeichnung von Sustris sind stattdessen zwischen Voluten eingezwängte Fratzen vorgesehen, ähnlich den Fratzen in den Rahmen der Städtebilder, im Scheitel der Stichkappen oder am Übergang von den Stichkappen in die Fensterlaibungen.
+Die Ausmalung des Antiquariums zeigt zwei verschiedenen Dekorationsweisen; die eine bezieht sich auf die Wölbung, die andere auf Stichkappen und Fensterlaibungen. Die Darstellungen im Gewölbescheitel beginnen an der ursprünglichen Eingangsseite im SO mit dem teilweise durch die Wandgliederung überschnittenen, querrechteckigen Wappenfeld (W). Daran schließen sich, der Längsrichtung folgend, abwechselnd in querovalen und hochrechteckigen Feldern die Tugenddarstellungen an (I-XVI, nur die Zweitfassung von Candid und Mitarbeitern erhal ten). Zwischen ihnen befinden sich kleine queroblonge Felder mit kleinfigurigen Opferszenen in blauer Camaieu Malerei (1–17, teilweise zerstört, teilweise noch schwach sichtbar). Für die Gewölbezwickel sind im oberen Teil je zwei blumenstreuende oder musizierende Putten auf Wolken vorgesehen (I<sub>2</sub>–XVI<sub>1-2</sub>, mit Ausnahme von I<sub>1</sub>), in schmal zulaufenden Teil darunter gemalte Tafeln mit Inschriften, die die jeweilige Tugend im Gewölbescheitel erläutern. Tugenden, Putten und Opferszenen sind mit einander verbunden durch ein teils plastisches, teils gemaltes Rahmenwerk. Dieses in seiner ursprünglichen Intention sehr geistreiche Dekorationssystem (vgl. die Zeichnung von Sustris zu III,) arbeitet mit illusionistischen Effekten. Ursprünglich stärker als heute hatte der Betrachter den Eindruck, als öffne sich hinter dem Rahmenwerk das Gewölbe gegen den Himmel zu den auf Wolken sitzenden Tugenden und den Putten der Gewölbezwickel, während die Opferszenen in Camaieu einer anderen Sphäre angehören. Diese Absicht wurde bei den Tugenden der Erstfassung verdeutlicht durch eine gemalte, sichelförmig sich ausweitende schmale Brüstung am unteren Rand, die perspektivisch in das Bild hineinführte. Die Bildfelder wirkten dadurch niedriger als die der Zweitfassung, waren jedoch in Wirklichkeit genau so groß. Diese illusionistische Perspektive ist bei den Zweitfassungen, die weniger stark auf Untersicht und in der Komposition viel flächiger angelegt sind, zurückgenommen. Dazu kommt noch die gegenüber ihrer Umgebung viel dunklere und kompaktere Farbigkeit. Die Rahmung der Erstfassung dürfte diese illusionistische Tendenz ebenfalls unterstützt haben. In Analogie zu den flachen Stuckrahmen der Stadtansichten (O1-34) und den sonstigen Dekorationsgepflogenheiten von Sustris (z. B. im Fuggerhaus in Ausburg, 1572) denkt man auch hier an Stuckrahmen, die gegenüber den Holzrahmen weniger stark vorsprangen. Die heute aufgesetzten, zu kleinen und in ihrem Stil mit dem übrigen plastischen Dekor nicht übereinstimmenden Frauenköpfe sind wohl erst im Zusammenhang mit diesen Holzrahmen der Zweitfassung entstanden. Auf der genannten Vorzeichnung von Sustris sind stattdessen zwischen Voluten eingezwängte Fratzen vorgesehen, ähnlich den Fratzen in den Rahmen der Städtebilder, im Scheitel der Stichkappen oder am Übergang von den Stichkappen in die Fensterlaibungen.
 
-Im Gegensatz zu der Gewölbedekoration, vor allem zu den monumentalen Bildern, die in der Mittelachse angebracht<br>sind und die Längsrichtung betonen, wirkt die Grotesken dekoration der Stichkappen und Fensterlaibungen mit der<br>eingefügten Ortsansichten leicht und spielerisch. Im Scheitel der Stichkappen finden sich querovale Ansichten der bayerischen Städte in flachen Stuckkartuschenrahmen; ihre Namen sind jeweils innerhalb des Bildfeldes auf einem gemalten Täfelchen angegeben (O<sub>1-34</sub>). Der Stuckrahmer ist hinterlegt von einem breiten farbigen Streifen, der der bewegten Umriß wiederholt und überleitet zu den Grotesken. Diese sind nach einem phantasievoll variierten Grundmuster konzipiert und enthalten geometrische, vegetabile und figürliche Elemente, darunter Putten, die Füllhörner bzw. Schilde mit den Wappen von Bayern und Lothringen tragen. Die Fensterlaibungen sind analog zu den Stichkappen dekoriert. Im Scheitel steht in einer gemalten Kartusche ein Engel und hält das Wappen der Stadt, die in der darüber liegenden Stichkappe dargestellt ist. Rechts und links vom Fenster sieht man in hochovalem Feld jeweils eine Ansicht von Marktflecken, Burgen oder Schlössern (Ola-b-O34a-b), unterhalb davon die gemalte Tafel mit dem betreffenden Namensschildchen. Wie in den Stichkappen ist auch hier der Rest der Fläche mit Grotesken bemalt. Bei den Ortsansichten und Wappen sind ebenfalls durch eine entsprechende gemalte Rahmung wie bei den Tugenden der Erstfassung Lichteinfall und Perspektive berücksichtigt.
+Im Gegensatz zu der Gewölbedekoration, vor allem zu den monumentalen Bildern, die in der Mittelachse angebracht sind und die Längsrichtung betonen, wirkt die Grotesken dekoration der Stichkappen und Fensterlaibungen mit der eingefügten Ortsansichten leicht und spielerisch. Im Scheitel der Stichkappen finden sich querovale Ansichten der bayerischen Städte in flachen Stuckkartuschenrahmen; ihre Namen sind jeweils innerhalb des Bildfeldes auf einem gemalten Täfelchen angegeben (O<sub>1-34</sub>). Der Stuckrahmer ist hinterlegt von einem breiten farbigen Streifen, der der bewegten Umriß wiederholt und überleitet zu den Grotesken. Diese sind nach einem phantasievoll variierten Grundmuster konzipiert und enthalten geometrische, vegetabile und figürliche Elemente, darunter Putten, die Füllhörner bzw. Schilde mit den Wappen von Bayern und Lothringen tragen. Die Fensterlaibungen sind analog zu den Stichkappen dekoriert. Im Scheitel steht in einer gemalten Kartusche ein Engel und hält das Wappen der Stadt, die in der darüber liegenden Stichkappe dargestellt ist. Rechts und links vom Fenster sieht man in hochovalem Feld jeweils eine Ansicht von Marktflecken, Burgen oder Schlössern (Ola-b-O34a-b), unterhalb davon die gemalte Tafel mit dem betreffenden Namensschildchen. Wie in den Stichkappen ist auch hier der Rest der Fläche mit Grotesken bemalt. Bei den Ortsansichten und Wappen sind ebenfalls durch eine entsprechende gemalte Rahmung wie bei den Tugenden der Erstfassung Lichteinfall und Perspektive berücksichtigt.
 
 W WAPPENFELD Im querrechteckigen Bildfeld an der ursprünglichen Eingangsseite im SO, unmittelbar über dem 1600 vollendeten Portalaufbau, präsentieren stehende
 
 
-[[File:Band03-2_chunk002_p014_img001.jpg|thumb|W Wappen von Bayern und Lothringen<br>(Sustris-Kreis, Vorkriegszustand)]]
+[[File:Band03-2_chunk002_p014_img001.jpg|thumb|W Wappen von Bayern und Lothringen (Sustris-Kreis, Vorkriegszustand)]]
 
 
 
 [[File:Band03-2_chunk002_p014_img002.jpg|thumb]]
 
 
-und sitzende Putten die Wappen von Bayern und Lothringen, während andere Fürstenhut bzw. Krone darüber halten (Wilhelm V. war seit 1568 vermählt mit Renata von Lothringen). Von den Schmalseiten her werden weitere Wappenschilde hereingehalten, links mit dem Reichsapfel, rechts mit den französischen Lilien. In dieser Darstellung in Fresko-Secco-Technik ist die illusionistische Deckenmalerei des Antiquariums am deutlichsten ausgeprägt. Die Gestalten sind gegen den Himmel auf ein Mäuerchen gestellt, das durch seine Profilierung den Bilderrahmen nach innen in die Darstellung fortsetzt. Von den Seiten her tauchen weitere Putten aus dem Hintergrund auf und lassen die Beine über den Rand hängen. Eine Zeichnung mit den noch leeren Wappenschilden (Abb. S. 75) zeigt im Vordergrund die Köpfe weiterer, nach unten herabschauender Putten (nicht in die Ausführung übernommen), also eine noch stärkere Betonung dieser illusionistischen Tendenz. Die Wappen von Bayern und Lothringen beziehen<br>sich auf das Auftraggeberpaar, welche Bedeutung den<br>übrigen Wappenbildern hier zukommt, ist unklar.
+und sitzende Putten die Wappen von Bayern und Lothringen, während andere Fürstenhut bzw. Krone darüber halten (Wilhelm V. war seit 1568 vermählt mit Renata von Lothringen). Von den Schmalseiten her werden weitere Wappenschilde hereingehalten, links mit dem Reichsapfel, rechts mit den französischen Lilien. In dieser Darstellung in Fresko-Secco-Technik ist die illusionistische Deckenmalerei des Antiquariums am deutlichsten ausgeprägt. Die Gestalten sind gegen den Himmel auf ein Mäuerchen gestellt, das durch seine Profilierung den Bilderrahmen nach innen in die Darstellung fortsetzt. Von den Seiten her tauchen weitere Putten aus dem Hintergrund auf und lassen die Beine über den Rand hängen. Eine Zeichnung mit den noch leeren Wappenschilden (Abb. S. 75) zeigt im Vordergrund die Köpfe weiterer, nach unten herabschauender Putten (nicht in die Ausführung übernommen), also eine noch stärkere Betonung dieser illusionistischen Tendenz. Die Wappen von Bayern und Lothringen beziehen sich auf das Auftraggeberpaar, welche Bedeutung den übrigen Wappenbildern hier zukommt, ist unklar.
 
-Ein entsprechendes Feld auf der NW-Seite ist bei der Umgestaltung der Schmalwände um 1600 fast völlig vom Kaminaufbau verdeckt worden. Man sieht noch einen schmalen Streifen, von der ehem. Bemalung sind noch zwei<br>Puttenköpfe zu erkennen.
+Ein entsprechendes Feld auf der NW-Seite ist bei der Umgestaltung der Schmalwände um 1600 fast völlig vom Kaminaufbau verdeckt worden. Man sieht noch einen schmalen Streifen, von der ehem. Bemalung sind noch zwei Puttenköpfe zu erkennen.
 
-I-XVI FAMA UND TUGENDEN (Zweitfassung) Der<br>Blickrichtung nach NW folgend sind von der ursprünglichen<br>Eingangsseite im SO her die Bilder I-VII (Basis an<br>der NW-Seite) und von der NW-Seite die Bilder XVI-IX (Basis an der SO-Seite) jeweils zur Raummitte hin fortschreitend zu betrachten (Standpunkt jeweils unter dem<br>oberen Bilddrittel). Das Mittelbild VIII, Fama, hat als einziger Fensterwand nach NO), heftige Bewegung und extreme Untersichtsperspektive zeichnen dieses Mittelstück der Bilddekoration aus. Die Tugenddarstellungen zeigen je eine weibliche Gestalt, die in Ganzfigur auf Wolken sitzt
+I-XVI FAMA UND TUGENDEN (Zweitfassung) Der Blickrichtung nach NW folgend sind von der ursprünglichen Eingangsseite im SO her die Bilder I-VII (Basis an der NW-Seite) und von der NW-Seite die Bilder XVI-IX (Basis an der SO-Seite) jeweils zur Raummitte hin fortschreitend zu betrachten (Standpunkt jeweils unter dem oberen Bilddrittel). Das Mittelbild VIII, Fama, hat als einziger Fensterwand nach NO), heftige Bewegung und extreme Untersichtsperspektive zeichnen dieses Mittelstück der Bilddekoration aus. Die Tugenddarstellungen zeigen je eine weibliche Gestalt, die in Ganzfigur auf Wolken sitzt
 
 
 [[File:Band03-2_chunk002_p014_img003.jpg|thumb|I Fides (Zweitfassung, Candid-Werkstatt)]]
@@ -343,7 +317,7 @@ nen außer Fides (I) sind mit Lorbeer bekränzt, das Haupt hinterfängt eine gro
 
 FIDES CERTIOR RATIONE (Glaube ist sicherer als Vernunft)
 
-FIDEI PROPRIVM NVNQVAM OMNINO TVRBARI (Es ist das Wesen des Glaubens, sich niemals verwirren zu lassen) Fides hält in der Rechten einen Kelch mit einer Hostie, in der Linken ein Kreuz. Sie trägt einen altrosa Rock, über weißem Untergewand ein hellrotes Mieder und einen grau-grünen, gelb gefütterten Umhang. Die Erstfassung hielt sich enger an Ripas »fede cattolica«. Die Gestalt der Fides trug hier in der Linken ein Kruzifix und deutete zugleich<br>mit zwei Fingern auf die Brust als Zeichen dafür, daß der wahre Glaube im Herzen wohnt.
+FIDEI PROPRIVM NVNQVAM OMNINO TVRBARI (Es ist das Wesen des Glaubens, sich niemals verwirren zu lassen) Fides hält in der Rechten einen Kelch mit einer Hostie, in der Linken ein Kreuz. Sie trägt einen altrosa Rock, über weißem Untergewand ein hellrotes Mieder und einen grau-grünen, gelb gefütterten Umhang. Die Erstfassung hielt sich enger an Ripas »fede cattolica«. Die Gestalt der Fides trug hier in der Linken ein Kruzifix und deutete zugleich mit zwei Fingern auf die Brust als Zeichen dafür, daß der wahre Glaube im Herzen wohnt.
 
 
 == II SPES ==
@@ -353,11 +327,8 @@ VOLVNTATEM SPES FACIT (Die Hoffnung erweckt den Willen)
 
 SPES COMES AMORIS (Die Hoffnung ist die Gefährtin der Liebe)
 
-Die Personifikation der Hoffnung hat die linke Hand auf die Brust gelegt, mit der rechten weist sie gen Himmel; auch der Blick ist nach oben gerichtet (Ripa, s.v. speranza divina). Für das Gewand sind Farben gewählt, – orangerot zu gelb changierendes Kleid, ockerfarbenes Oberge erscheint. Die begleitenden Putten halten Palmzweige, ein<br>im Vordergrund sitzender Putto eine ungefüllte Pfingst-
-<!-- citation-page-bottom: Band03-2 p77 -->
+Die Personifikation der Hoffnung hat die linke Hand auf die Brust gelegt, mit der rechten weist sie gen Himmel; auch der Blick ist nach oben gerichtet (Ripa, s.v. speranza divina). Für das Gewand sind Farben gewählt, – orangerot zu gelb changierendes Kleid, ockerfarbenes Oberge erscheint. Die begleitenden Putten halten Palmzweige, ein im Vordergrund sitzender Putto eine ungefüllte Pfingst-
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=15 -->
-<!-- citation-page-top: Band03-2 p78 -->
 
 
 [[File:Band03-2_chunk002_p015_img001.jpg|thumb|III Caritas (Zweitfassung)]]
@@ -428,14 +399,9 @@ Iustitia mit dem Schwert in der gestreckten Rechten und der Waage in der erhoben
 VERA FORTITVDO NEC TEMERE AVDET NEC INCONSVLTE TIMET (Wahre Stärke wagt weder voreilig, noch fürchtet sie unüberlegt)
 
 FORTITVDINIS EST NEC SVPPLICIIS MOVERI VT FORTITER FECISSE PAENITEAT (Es gehört zur Stärke, sich
-<!-- citation-page-bottom: Band03-2 p79 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=16 -->
-<!-- citation-page-top: Band03-2 p80 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUN -->
 
 
 [[File:Band03-2_chunk002_p016_img001.jpg|thumb]]
@@ -496,13 +462,8 @@ NVLLA REPARABILIS ARTE LAPSA CASTITAS (Durch keine Kunst kann verlorene Keuschhe
 CASTITAS COMES VERECVNDIAE (Keuschheit ist die Gefährtin des Anstandes; vgl. Ambrosius, De officiis ministrorum, Kap. 18, Nr. 69)
 
 Die Personifikation der Keuschheit trägt ein weißes Kleid, darüber einen leuchtend ockergelben Umhang mit blaugrün changierendem Futter. Das weiße Kleid und die weiße Lilie in ihrer Hand versinnbildlichen die unbefleckte Rein-
-<!-- citation-page-bottom: Band03-2 p81 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=17 -->
-<!-- citation-page-top: Band03-2 p82 -->
 
-<!-- header: RESIDENZ -->
-<!-- header: ANTIOUARIUM -->
 
 [[File:Band03-2_chunk002_p017_img001.jpg|thumb|X Constantia (Erstfassung, zerstört)]]
 
@@ -548,10 +509,7 @@ OBOEDIENTIA CIVIVM FELICITAS EST ET VRBIS (Gehorsam ist das Glück der Bürger u
 VTILIVS PARERE DICTO QVAM ADFERRE CONSILIVM (Es ist nützlicher, dem Gesagten zu gehorchen, als Rat zu erteilen)  
 
 Die Personifikation des Gehorsams ist gekleidet in ein grünblaues Kleid und einen karminroten Umhang, der den einzigen starken Farbakzent bildet. Sie trägt auf dem Haupt eine Dornenkrone, die gefesselten Hände halten ein Kreuz. Damit wird auf den leidenden Christus der Passion als Prototyp des Gehorsams hingewiesen. Die begleitenden Putten halten verschiedene Blumen: links unten, als auffälligstes Symbol eine Kaiserkrone als Zeichen für die Unterordnung in der Jugend, dann eine Blume aus der Familie der Malvaceen, vielleicht ein bläßlichfarbener Hibiskus und einen gemischten Strauß, bei dem nur die Schwertlilie und die beiden Tulpen mit Sicherheit zu benennen sind.
-<!-- citation-page-bottom: Band03-2 p83 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=18 -->
-<!-- citation-page-top: Band03-2 p84 -->
 
 [[File:Band03-2_chunk002_p018_img001.jpg|thumb]]
 
@@ -581,14 +539,9 @@ VI Iustitia Die betont hoheitsvolle Wiedergabe der Iustitia in goldfarbenem Ober
 
 [[File:Band03-2_chunk002_p018_img009.jpg|thumb|III Clementia (Zweitfassung)]]
 
-<!-- citation-page-bottom: Band03-2 p85 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=19 -->
-<!-- citation-page-top: Band03-2 p86 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 
 [[File:Band03-2_chunk002_p019_img001.jpg|thumb]]
@@ -633,10 +586,7 @@ Sambucus, Joan., Emblemata, et ... operis, Joan. Sambuci Tirnaviensis Pannonii, 
 Alciatus, Andreas, Emblemata Andreae Alciati, Lugduni, Apud Mathiam Bonhomme, 1548 (s. v. abstinentia).
 
 Hohberg, W. H., Frh. v., Lust- und Arzeney-Garten des königlichen Propheten Davids, Regensburg, 1675, Nachdruck Graz, 1969. Beispiel 30 (Der Autor ist Protestant, baut aber auf älteren Emblembüchern auf). Ripa, Cesare, Iconologia overo. Descrittione di diverse Imagine ... Trovate dichirate de Cesare Ripa ... Roma M. DC. III.
-<!-- citation-page-bottom: Band03-2 p87 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=20 -->
-<!-- citation-page-top: Band03-2 p88 -->
 
 [[File:Band03-2_chunk002_p020_img001.jpg|thumb]]
 
@@ -702,14 +652,9 @@ Von den 32 Zwickelbildern sind die 10 in der Mitte des Raums infolge des Gewölb
 
 Die trapezförmigen Felder in den Zwickeln weisen alternierend zwei verschiedene Rahmenformen auf: Den rechteckigen Tugendbildern im Gewölbescheitel antwortet eine gemalte, nach oben bogenförmig ausgeweitete architekto-
 
-<!-- citation-page-bottom: Band03-2 p89 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=21 -->
-<!-- citation-page-top: Band03-2 p90 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUN -->
 
 
 [[File:Band03-2_chunk002_p021_img001.jpg|thumb]]
@@ -757,10 +702,7 @@ Im Osten und Westen sieht man noch je einen durch die späteren Einbauten angesc
 
 
 [[File:Band03-2_chunk002_p021_img008.jpg|thumb|V<sub>1-2</sub> Puttenpaare bei Temperantia (Vorkriegszustand]]
-<!-- citation-page-bottom: Band03-2 p91 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk002/Band03-2_chunk002.pdf#page=22 -->  
-<!-- citation-page-top: Band03-2 p92 -->  
 
 [[File:Band03-2_chunk002_p022_img001.jpg|thumb]]  
 
@@ -777,17 +719,10 @@ Im Osten und Westen sieht man noch je einen durch die späteren Einbauten angesc
 VIII<sub>1</sub> Puttenpaar bei Fama (Vorkriegszustand)  
 
 [[File:Band03-2_chunk002_p022_img007.jpg|thumb|VII<sub>1</sub> und IX<sub>1</sub> Puttenpaare bei Fortitudo und Constantia (Vorkriegszustand)]]  
-<!-- citation-page-bottom: Band03-2 p93 -->  
 
-<!-- header: RESIDENZ -->  
-<!-- header: ANTIQUARIUN -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=23 -->
-<!-- citation-page-top: Band03-2 p94 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUN -->
 
 
 [[File:Band03-2_chunk002_p023_img001.jpg|thumb]]
@@ -817,10 +752,7 @@ O<sub>1-34</sub> STÄDTE In den Stichkappen sind im Scheitel die querovalen Ansi
 
 
 [[File:Band03-2_chunk002_p023_img003.jpg|thumb|XI<sub>1</sub> Puttenpaar bei Castitas (Vorkriegszustand)]]
-<!-- citation-page-bottom: Band03-2 p95 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=24 -->
-<!-- citation-page-top: Band03-2 p96 -->
 
 [[File:Band03-2_chunk002_p024_img001.jpg|thumb]]  
 [[File:Band03-2_chunk002_p024_img002.jpg|thumb]]  
@@ -886,14 +818,9 @@ Diessenstein, Weiler, Gem. Saldenburg, LK Freyung-Grafenau, NB Bei Entstehung: H
 [[File:Band03-2_chunk002_p024_img012.jpg|thumb|Diessenstein]]  
 [[File:Band03-2_chunk002_p024_img013.jpg|thumb]]  
 [[File:Band03-2_chunk002_p024_img014.jpg|thumb]]  
-<!-- citation-page-bottom: Band03-2 p97 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk002.pdf#page=25 -->
-<!-- citation-page-top: Band03-2 p98 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 
 [[File:Band03-2_chunk002_p025_img001.jpg|thumb]]
@@ -1073,11 +1000,7 @@ Bei Entstehung: Stadt mit Burg, Stadtgerichts- und Rentamtssitz, 1255 Unterland 
 
 
 [[File:Band03-2_chunk002_p025_img014.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p99 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=1 -->
-<!-- citation-page-top: Band03-2 p100 -->
-<!-- citation-page-bottom: Band03-2 p101 -->
 
 [[File:Band03-2_chunk003_p001_img001.jpg|thumb]]
 [[File:Band03-2_chunk003_p001_img002.jpg|thumb]]
@@ -1191,12 +1114,8 @@ Bei Entstehung: Vorübergehend (1470–1494) landständisch
 [[File:Band03-2_chunk003_p001_img014.jpg|thumb]]
 [[File:Band03-2_chunk003_p001_img015.jpg|thumb]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=2 -->
-<!-- citation-page-top: Band03-2 p102 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 
 [[File:Band03-2_chunk003_p002_img001.jpg|thumb|O<sub>15b</sub> Koscnin]]
@@ -1356,14 +1275,9 @@ Bei Entstehung: Landständischer Markt, Landgericht Dingolfing, Rentamt Landshut
 
 
 [[File:Band03-2_chunk003_p002_img011.jpg|thumb|<sub>17b</sub> Fürstenfeldbruc]]
-<!-- citation-page-bottom: Band03-2 p103 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=3 -->
-<!-- citation-page-top: Band03-2 p104 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIQUARIUM -->
 
 
 [[File:Band03-2_chunk003_p003_img001.jpg|thumb]]
@@ -1530,13 +1444,8 @@ Landau an der Isar, Stadt, LK Dingolfing-Landau. NI
 
 
 [[File:Band03-2_chunk003_p003_img014.jpg|thumb|21b Leonsberg]]
-<!-- citation-page-bottom: Band03-2 p105 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=4 -->
-<!-- citation-page-top: Band03-2 p106 -->
 
-<!-- header: RESIDEN -->
-<!-- header: ANTIOUARIUM -->
 
 Bei Entstehung: Stadt, Landgerichtssitz, Rentamt Landshut, 1255 Unterland (Morenz 1970, S. 12)
 
@@ -1634,14 +1543,9 @@ Die in den Inschriften gegebenen Begriffsbestimmungen gehen auf Definitionen der
 [[File:Band03-2_chunk003_p004_img004.jpg|thumb]]
 
 
-<!-- citation-page-bottom: Band03-2 p107 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=5 -->
-<!-- citation-page-top: Band03-2 p108 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 
 [[File:Band03-2_chunk003_p005_img001.jpg|thumb]]
@@ -1655,7 +1559,7 @@ Die in den Inschriften gegebenen Begriffsbestimmungen gehen auf Definitionen der
 [[File:Band03-2_chunk003_p005_img003.jpg|thumb]]
 
 
-dieses? Die Eröffnung des Zyklus durch Fides, Spes, Caritas bezieht sich auf die bereits in der Antike vertretene Auffassung, daß die Regierungsgewalt zuallererst auf »pietas erga<br>Deos« gegründet sein müsse. Selbstverständlich sind in der christlichen Fürstenethik persönliche Frömmigkeit und Gottesfurcht Grundlage des Regiments; der Herrscher folgt dabei dem Leitbild Christi.
+dieses? Die Eröffnung des Zyklus durch Fides, Spes, Caritas bezieht sich auf die bereits in der Antike vertretene Auffassung, daß die Regierungsgewalt zuallererst auf »pietas erga Deos« gegründet sein müsse. Selbstverständlich sind in der christlichen Fürstenethik persönliche Frömmigkeit und Gottesfurcht Grundlage des Regiments; der Herrscher folgt dabei dem Leitbild Christi.
 
 Die »virtutes cardinales« bilden nach stoischer Vorstellung eine Einheit und entfalten ihre volle Wirkung erst in Zusammenspiel. An ihrer Spitze steht die Klugheit. »Prudentia dux est et gubernatrix actionum honestarum ac virtutum omnium« (Hippolyt von Colli, Princeps, Hanno ver 1595, fol. 28f.). Sie schafft erst die Voraussetzung für sittliche Lebensführung, denn sie ermöglicht das Erkennen von Gut und Böse, gibt Unterscheidungsvermögen für das was man tun und lassen soll. »Prudentia rerum expetendarum fugiendarumque scientia«, diese Definition Ciceros (De officiis 1, 153) ist in der Prudentia-Inschrift (IV) des Antiquariums abgewandelt und beschränkt auf die zu erstrebenden Dinge, während die zu meidenden hier außer Betracht bleiben. Die übrigen drei Kardinaltugenden sind nicht auf intellektuelle Durchdringung, sondern allein auf praktisches Handeln ausgerichtet. Unter ihnen gilt Iustitia als die vornehmste, weil sie für das politische Leben die größte Bedeutung hat. Für Aristoteles ist sie die Tugend in der Gemeinschaft, der alle andern folgen müssen, die vollkommene, weil der, der sie besitzt, auch den Mitmenschen gegenüber richtig handeln kann (Aristoteles, Politik 1283 a 38; Nikomachische Ethik 1129 b 25). Nach Ansicht Ciceros steht sie als Herrin und Königin allen anderen Eigenschaften vor, in ihr versammelt sich der größte Glanz (De officiis 3, 28; 1, 20). Dieser hohen Bewertung ist man auch im Antiquarium gefolgt, wie die Inschrift PRAECLARISSIMA VIRTVTVM IVSTITIA (VI) zeigt.
 
@@ -1679,14 +1583,9 @@ Bei den anschließend präsentierten Tugenden sind verschiedene Formen des Maßh
 
 
 [[File:Band03-2_chunk003_p005_img014.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p109 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=6 -->
-<!-- citation-page-top: Band03-2 p110 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 
 [[File:Band03-2_chunk003_p006_img001.jpg|thumb]]
@@ -1728,14 +1627,9 @@ Die antiken Autoren kennen Abstinentia im Sinne von Uneigennützigkeit und Unbes
 
 
 [[File:Band03-2_chunk003_p006_img011.jpg|thumb|O<sub>33b</sub> Haa]]
-<!-- citation-page-bottom: Band03-2 p111 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=7 -->
-<!-- citation-page-top: Band03-2 p112 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: ANTIOUARIUM -->
 
 abstinentia et continentia«, De officiis 2,77). Diesen gegen Bestechlichkeit und Amtermißbrauch gerichteten Aspekt erläutern auf dem Deckenbild Becher und Kette mit Bildnismedaillon. Es sind die typischen fürstlichen Ehrengeschenke für den Staatsdiener (vgl. auch Trierzimmer S. 160f.), die hier mit Füßen getreten, also zurückgewiesen werden, während es in der gegen Superbia gerichteten Humilitas-Darstellung die Krone des Herrschers ist, die diese Behandlung erfährt. Im Antiquarium vertritt also Humilitas eine Form der Moderatio, die für den Herrscher relevant ist, Abstinentia das Maßhalten seiner Diener. Wenngleich Uneigennützigkeit von der gesamten Staatsleitung erwartet wird, so ist schon aus sozialen Gründen Abstinentia die klassische Beamtentugend (Michael Stolleis, Grundzüge der Beamtenethik, 1550–1650, in: Die Verwaltung Bd 13, H. 4, S. 447-75).
 
@@ -1743,9 +1637,9 @@ Mit der Oboedientia-Darstellung (XVI), die sich in verschiedenen Sinnschichten a
 
 Auf den Ratgeber weist unter den botanischen Attributen auch die Kaiserkrone, Corona imperialis (allerdings nur in der zweiten Fassung vorhanden). Sie bedeutet Unterordnung und Bescheidenheit in der Jugend und Weisheit des Alters (vgl. Exkurs S. 87) und bezieht sich damit auf den Grundsatz, daß die Consiliarii alt zu sein haben, d.h. erfahren, weise, abgeklärt und daher beim Volk angesehen (viele Beispiele bei Stolleis).
 
-Mit dem Gehorsam der Bürger findet das Deckenprogramm des Antiquariums seinen sinnvollen Abschluß. Die Inschrift OBOEDIENTIA CIVIVM FELICITAS EST ET VRBIS stellt das Ziel des Staates vor Augen, das Wohl der Gesamtheit, das »summum bonum«, die Glückseligkeit. Sie paraphrasiert das Adagium LIX von Erasmus »Oboedien tia Felicitatis Mater«, wo es im Kommentar heißt: »Principis est consulere saluti civium, id conatur bonis et aequis legi-<br>bus. Populi est his obtemperare, si velit esse felix« (Desiderii Erasmi Adagiorum Chil. IV. Centur. V. Prov. LIX, in Desiderii Erasmi Roterodami Opera Omnia, II, Nachdr. der Ausgabe Leiden 1703, Hildesheim 1961).
+Mit dem Gehorsam der Bürger findet das Deckenprogramm des Antiquariums seinen sinnvollen Abschluß. Die Inschrift OBOEDIENTIA CIVIVM FELICITAS EST ET VRBIS stellt das Ziel des Staates vor Augen, das Wohl der Gesamtheit, das »summum bonum«, die Glückseligkeit. Sie paraphrasiert das Adagium LIX von Erasmus »Oboedien tia Felicitatis Mater«, wo es im Kommentar heißt: »Principis est consulere saluti civium, id conatur bonis et aequis legibus. Populi est his obtemperare, si velit esse felix« (Desiderii Erasmi Adagiorum Chil. IV. Centur. V. Prov. LIX, in Desiderii Erasmi Roterodami Opera Omnia, II, Nachdr. der Ausgabe Leiden 1703, Hildesheim 1961).
 
-eine in dieser Art geordnete Gemeinschaft aussieht, dal jedem einzelnen sein Platz zugewiesen ist und daß der Gehorsam nicht so sehr durch die Gesetze angeregt wird wie durch das gute Beispiel dessen, der den Staat lenkt Dessen Pflicht und Aufgabe sei es, »daß er nie abläßt, sich selbst zu unterrichten und zu betrachten, daß er die anderr aufruft zur Nachahmung seiner selbst, daß er sich durch den Glanz seiner Seele und seines Lebens seinen Mitbürgern wie einen Spiegel hinhalte. Wie nämlich beim Saitenspiel oder der Flöte und im Gesang selbst und den Stimmen eine bestimmte Harmonie aus verschiedenen Tönen zu halten ist, die gebildete Ohren nicht ertragen können, wenn<br>sie sich ändert oder disharmonisch wird, und diese Harmonie infolge der Abstimmung der verschiedensten Töne doch einträchtig und zusammenstimmend gemacht wird,<br>so stimmt der Staat aus den höchsten und niedersten und den dazwischen liegenden Ständen wie aus Tönen durch maßvolle Vernunft im Zusammenklang der allerverschiedensten zusammen; und was von den Musikern beim Gesang Harmonie geheißen wird, das ist im Staate die Eintracht, das engste und beste Band der Unversehrtheit in jedem Gemeinwesen, und die kann ohne Gerechtigkeit<br>nicht sein« (De re publica 2,69; Übersetzung und Kommentar von Karl Büchner, zweispr. Ausg. Stuttgart 1979; der Inhalt dieses Passus ist überliefert durch Augustin, De Civitate Dei 2,21.)
+eine in dieser Art geordnete Gemeinschaft aussieht, dal jedem einzelnen sein Platz zugewiesen ist und daß der Gehorsam nicht so sehr durch die Gesetze angeregt wird wie durch das gute Beispiel dessen, der den Staat lenkt Dessen Pflicht und Aufgabe sei es, »daß er nie abläßt, sich selbst zu unterrichten und zu betrachten, daß er die anderr aufruft zur Nachahmung seiner selbst, daß er sich durch den Glanz seiner Seele und seines Lebens seinen Mitbürgern wie einen Spiegel hinhalte. Wie nämlich beim Saitenspiel oder der Flöte und im Gesang selbst und den Stimmen eine bestimmte Harmonie aus verschiedenen Tönen zu halten ist, die gebildete Ohren nicht ertragen können, wenn sie sich ändert oder disharmonisch wird, und diese Harmonie infolge der Abstimmung der verschiedensten Töne doch einträchtig und zusammenstimmend gemacht wird, so stimmt der Staat aus den höchsten und niedersten und den dazwischen liegenden Ständen wie aus Tönen durch maßvolle Vernunft im Zusammenklang der allerverschiedensten zusammen; und was von den Musikern beim Gesang Harmonie geheißen wird, das ist im Staate die Eintracht, das engste und beste Band der Unversehrtheit in jedem Gemeinwesen, und die kann ohne Gerechtigkeit nicht sein« (De re publica 2,69; Übersetzung und Kommentar von Karl Büchner, zweispr. Ausg. Stuttgart 1979; der Inhalt dieses Passus ist überliefert durch Augustin, De Civitate Dei 2,21.)
 
 Erasmus hat in seiner »Institutio« (loc. cit., S. 204, Z. 178 ff.) ein Modell vom Gemeinwesen gegeben, mit dem er auf diesen Gedanken Ciceros zurückgreift. Er bringt ebenfalls das Gleichnis von politischer Concordia und mu
 
@@ -1761,17 +1655,12 @@ Für das Antiquarium bleibt zu prüfen, wie die Idee der Harmonie bildlich umges
 
 Die Glückseligkeit der Bürger ist das Ziel des Staates, sein Sinn besteht in der Verwirklichung der recta ratio, der Gerechtigkeit. Das ist nicht nur die Idee vom Miteinander. vom Ausgleich der Interessen, das betrifft auch die Rechtsausübung, wie die einzelnen Carmina zu Iustitia und Clementia direkt erläutern und in anderen Darstellungen implizit enthalten ist. In dem Fürstenspiegel des Johann von Indersdorf, der 1437/40 für Herzog Albrecht III. von Bayern geschrieben wurde, steht unter dem Stichwort
 
-<!-- citation-page-bottom: Band03-2 p113 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p114 -->
 
-<!-- header: RESIDENZ -->
-<!-- header: ANTIOUARIUM -->
 
 Iustitia: »in stetten, marchten und in allen gerichten« müsse gerechte Ordnung sein (zitiert nach Singer S. 62). In diesem Kontext ist klar, daß die Ansichten der bayerischen Städte, Märkte und Burgen, bei denen es sich in der überwiegenden Mehrzahl um herzogliche Gerichts- und Verwaltungssitze handelt, nicht allein den Besitz und die Ausdehnung des Territoriums veranschaulichen, sondern die durch das Recht garantierte Aufrechterhaltung der staatlichen Ordnung. Die Hoheitsausübung wird nicht allein durch die Landesherrschaft wahrgenommen, sondern auch durch die Städte und die ihnen rechtlich gleichgestellten Märkte, die die niedere Gerichtsbarkeit selbst ausübten. Durch dieses Recht erwarben die Kommunen wie die mit entsprechender Jurisdiktion ausgestatteten Güter und Klöster die Landstandschaft, was ihnen in gewissem Umfang Mitwirkung bei der Politik ermöglichte, vor allem durch die Steuerbewilligung.
 
-Die anderen Stände, Adel und Geistlichkeit, sind im Antiquarium nicht repräsentiert, möglicherweise bestand jedoch bei der Planung die Absicht, in den Bögen über die Fenster die Wappen der ausgestorbenen Grafschaften und Herrschaften in Bayern malen zu lassen. Eine undatierte Aufstellung lautet: »Ordnung der allten Grave und Herrschaften wappen so vor lengest undergegangen. deren sitz und anwesen auch maist thails ni mehr verhanden seind. Ob den Fenstern in die Pögen zemachen. Scheyrn Andechs, Sulzbach, Valley, Hochenwart, Ebersperg, Pürgl, Amberthal, Frontenhausen, Rottal, Rhor, Bronberg, Castel, Lechsgemündt Witlspach, Graispach, Pogen, Schala und Burckhausen, Hiesperg, Diessen, Farmbach, Dornsperg, E was etwan für andere ansehliche geschlechter under den abgestorbenen zufinden die an ettlichen abgesetzter statt möchten verordnet werden.« In anderer Schrift von Friedrich Sustris in italienisch kurze Inhaltsangabe: »Arme di Contadi e signorie che sono destruite e anulate gia tempo fa in<br>baviera« (BHStA, Fürstensachen 364 c; Wasserzeichen: Salzfaß; im Repertorium des Archivs wird diese Aufstellung als zum Antiquarium gehörig bezeichnet, die italienische Aufschrift als von Sustris). Die Thematik sowie die Angabe, die Wappen seien in die Bögen über den Fenstern zu malen und die Handschrift von Sustris lassen einen Zusammenhang mit dem Antiquarium möglich erscheinen. Die Anzahl der genannten Geschlechter - 28 - stimmt mit der Fensterzahl im Antiquarium allerdings nicht überein.
+Die anderen Stände, Adel und Geistlichkeit, sind im Antiquarium nicht repräsentiert, möglicherweise bestand jedoch bei der Planung die Absicht, in den Bögen über die Fenster die Wappen der ausgestorbenen Grafschaften und Herrschaften in Bayern malen zu lassen. Eine undatierte Aufstellung lautet: »Ordnung der allten Grave und Herrschaften wappen so vor lengest undergegangen. deren sitz und anwesen auch maist thails ni mehr verhanden seind. Ob den Fenstern in die Pögen zemachen. Scheyrn Andechs, Sulzbach, Valley, Hochenwart, Ebersperg, Pürgl, Amberthal, Frontenhausen, Rottal, Rhor, Bronberg, Castel, Lechsgemündt Witlspach, Graispach, Pogen, Schala und Burckhausen, Hiesperg, Diessen, Farmbach, Dornsperg, E was etwan für andere ansehliche geschlechter under den abgestorbenen zufinden die an ettlichen abgesetzter statt möchten verordnet werden.« In anderer Schrift von Friedrich Sustris in italienisch kurze Inhaltsangabe: »Arme di Contadi e signorie che sono destruite e anulate gia tempo fa in baviera« (BHStA, Fürstensachen 364 c; Wasserzeichen: Salzfaß; im Repertorium des Archivs wird diese Aufstellung als zum Antiquarium gehörig bezeichnet, die italienische Aufschrift als von Sustris). Die Thematik sowie die Angabe, die Wappen seien in die Bögen über den Fenstern zu malen und die Handschrift von Sustris lassen einen Zusammenhang mit dem Antiquarium möglich erscheinen. Die Anzahl der genannten Geschlechter - 28 - stimmt mit der Fensterzahl im Antiquarium allerdings nicht überein.
 
 Weitere Elemente in der Ausstattung des Antiquariums lassen sich dem Bild eines wohlgeordneten, auf der Grundlage moralischer Werte aufgebauten Staates einfügen. An der Decke saßen ursprünglich zwischen den Tugenden kleine, in Camaieu gemalte Szenen (1–17, weitgehend zerstört) mit Darstellungen verschiedener Kult- und Opferhandlungen als Symbole der Pietas. Neben einer christlichen Eremitendarstellung und einigen nicht sicher deutbaren Szenen, war vor allem die Frömmigkeit gegenüber altrömischen Gottheiten thematisiert.
 
@@ -1791,14 +1680,9 @@ Von diesem Aufstellungsprinzip ist nun in den ersten drei, dem Eingang benachbar
 
 Das Verschwinden der Statuen im Antiquarium deutet darauf hin, daß sie in das Aufstellungskonzept nicht mehr paßten, und daß man also spätestens zu diesem Zeitpunkt an eine Neuordnung dachte. Dieses Datum paßt zusammen mit den ersten Nachrichten über eine malerische Ausstattung, den Vorbereitungen für die bayerischen Veduten. Bei den genealogischen Interessen, die sich in der Aufstellung der Figuren an der Kirchenfassade und zunehmend bei den Planungen für das Grabmal Wilhelms in St. Michael erkennen lassen, ist es erstaunlich, daß das Thema der Landesherrschaft im Antiquarium in keiner Weise personalisiert ist. Man kann zwar beobachten, daß die Ikonographie der unter Wilhelm V. und Maximilian I. geschaffenen Raumausstattungen in der Residenz auf eine direkte Vergegenwärtigung oder gar Verherrlichung des fürstlichen Auftraggebers verzichtet, doch würde man persönliche Bezüge im Antiquarium am ehesten erwarten. Im ehemaligen Lusthaus in Stuttgart, einem unter dem Aspekt der Landesherrschaft dem Antiquarium thematisch besonders nahestehenden Gebäude, das auch genau gleichzeitig, seit 1583, erbaut und ausgestattet wurde, standen an den Schmalseiten die lebensgroßen Statuen des Landesherrn und seiner Gemahlinnen in Wachs, während an den Wänden außer den kartographischen Ansichten des Landes die Bildnisse der vornehmsten Räte des Herzogs hingen (Wer-).
 
-<!-- citation-page-bottom: Band03-2 p115 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk003.pdf#page=9 -->
-<!-- citation-page-top: Band03-2 p116 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: SCHWARZER SAA -->
 
 ner Fleischhauer, Renaissance im Herzogtum Württemberg. Stuttgart o. J., S. 54ff.). Darstellungen der am Regiment Beteiligten oder Hinweise auf sie, etwa in Form von Wappen, könnte man, von der Thematik der Tugenden an der Decke ausgehend, im Antiquarium ebenfalls erwarten, am ehesten an den Schmalseiten des Raums. Deren Aussehen vor der architektonischen Umgestaltung durch Maximilian I. (vollendet 1600) ist jedoch nicht bekannt. Nahe dem ursprünglichen Eingang im ersten Gewölbezwickel im Süden (I<sub>1</sub>) finden sich die Putten, die durch ihre Attribute aus der Reihe der übrigen herausgehoben sind. Sie tragen Zepter, Trompete, eine Zackenkrone und eine Kugel (Reichsapfel?), die sich wohl nur allgemein auf die Herrschaft beziehen, nicht auf eine bestimmte Person.
 
@@ -1888,6 +1772,3 @@ B V-K
 
 
 == SCHWARZER SAAL ==
-
-
-{{End}}

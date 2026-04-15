@@ -9,10 +9,7 @@
 |danach=Ortsregister (Band 8)
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=23 -->
-<!-- citation-page-top: Band08 p344 -->
 
-<!-- header: M 18. JH. IM BEREICH DES LANDKREISES MÜHLDORF TÄTIGE MALER -->
 
 Malerwerkstätten in den Gerichten und Märkten des heutigen Landkreises Mühldorf
 
@@ -129,14 +126,9 @@ AYERSCH... (Ayerschmalz, Ayerschöttel), P. (Peter) Signatur mit Datum 1687 im D
 BERNHARD, Nikolaus, Maler in Mühldorf, später in Wasserburg. Sohn des Wagenmeisters Augustin Bernhard aus Hohenaschau. Bei seiner Heirat in Mühldorf am 25.5. 1751 mit Maria Barbara Kurz, der Witwe von Paul Kurz, wird er als »juvenis und futurus Pictor« bezeichnet. Am 9.9. 1752 tauschte Nikolaus Bernhard mit Johann Paul Kurz d.J. die Malergerechtigkeit in Wasserburg. Gemälde sind von ihm nicht bekannt.
 
 DAGN, Heinrich, Maler in Buchbach, * 1808 Ruhpolding † 1890 Kraiburg. Heiratete 1840 Josepha Mang, die Enkelin Balthasar Mangs, und wurde Nachfolger von Balthasar Mang in Buchbach. 1863 ließ er sich in Kraiburg nieder. (Lorenz Strobl, Der Kirchenmaler Heinrich Dagn von Buchbach, in Der Heimgarten Nr. 30, 5.9. 1925.)
-<!-- citation-page-bottom: Band08 p345 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=24 -->
-<!-- citation-page-top: Band08 p346 -->
 
-<!-- header: MALE -->
 
-<!-- header: MALER -->
 
 == EDER, Joseph ==
 Maler in Buchbach, tätig um 1737. Über die Heirat mit seiner Tochter Therese wurden Dominikus Mazole und Balthasar Mang seine Nachfolger.
@@ -194,12 +186,8 @@ Johann Evangelist, der erstgeborene Sohn Balthasar Mangs, * 25. 12. 1757, † 25
 Balthasar (II), der jüngere Sohn Balthasar Mangs, * 11. 3. 1764, wurde 1803 Werkstattnachfolger in Buchbach. Dessen Tochter Josefa heiratete 1841 den Maler Heinrich Dagn aus Ruhpolding und wurde der nächste Werkstattnachfolger.
 
 Balthasar (III), Sohn Balthasar Mangs (II), übernahm 1832 (Heirat mit Maria Katharina Kagerhuber, Müllerstochter aus Dingolfing) in Dorfen die Werkstatt seines Onkels. Vielleicht ist er identisch mit dem in Tüßling, LKr. Altötting, niederge
-<!-- citation-page-bottom: Band08 p347 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=25 -->
-<!-- citation-page-top: Band08 p348 -->
 
-<!-- header: MAIFR -->
 
 MALER
 
@@ -246,5 +234,3 @@ Vermutlich hat Jakob seine Ausbildung in der Werkstatt des Vaters in Oberammerga
 ZELCKER (Zelcher, Zölcker), Anton, Maler in Neumarkt 1763/74 nachweisbar. * Hofstetten bei Landsberg. 1763 Heirat in Neumarkt mit der Malerwitwe Johanna Susanna Fürstenbräu und wohnhaft in der Hofmark Adlstein. 1764/1772 Geburt und Tod von sieben Kindern. 1765/1769 mit Fassarbeiten nachweisbar. Gemälde sind von ihm nicht bekannt. Hypothetisch kommt er für die Fresken in Mößling in Betracht.
 
 ZITTER, Joseph, Maler in München, * 1712 Bruchsal. † begraben 10.7. 1777 München. Joseph Zitter kam um 1730 nach Augsburg und München. Er war u.a. bei Cosmas Damian Asam, bei Adam Miller, bei Johann Georg Bergmüller und bei Johann Baptist Zimmermann tätig. 1739 heiratete er in München und erhielt den Hofschutz. Auf die Jahre 1736 bis 1750 konzentrieren sich seine uns bekannten Werke: 1736 St. Jakob am Anger (nicht erhalten), 1739 Aufhausen bei Regensburg, 1747 Kirchdorf bei Haag, 1750 St. Georgen bei Diessen; als spätes Werk kommt 1773/77 Schlehdorf hinzu. 1765 bewarb sich Zitter vergeblich um die Malerei-Inspektoren-Stelle der kurfürstlichen Gemäldegalerie in Schleißheim. (Cordula Böhm, Der Barockmaler Franz Joseph Zitter, in: Amperland 36, 2000, S. 276–85.)
-<!-- citation-page-bottom: Band08 p349 -->
-{{End}}

@@ -53,12 +53,8 @@ III<sub>1-5</sub> TUGENDEN (Wohn- und Vorzimmer) Die fünf gleich großen Bilder
 III<sub>1</sub> EINTRACHT (Concordia; Baur Teil I, Blatt 27) Die junge Frau steht frontal mit zur Seite gewandtem Kopf. Ihr Haar ist lockig, mit einem Blattkranz, Perlen und einem roten Band geschmückt. Ihr Kleid ist antikisierend, aber einfach, in den Farben karminrosa und gold, mit kurzem grünem Schultermantel. In der Rechten hält sie einen aufgeplatzten Granatapfel, in der Linken eine Schale mit Früchten. Mit dem linken Fuß steht sie auf einem Stabbündel. Links im Hintergrund ist ein offenes, balustradenbesetztes Gartengebäude zu sehen, in dem ein Baldachinbett zu erkennen ist, in dem ein alter Mann liegt. Zwei Männer am Fußende des Bettes zerbrechen mit lebhaften Bewegungen Stäbe. Rechts zeigt die Landschaft Bauern bei der Feldarbeit.
 
 Baurs Darstellung geht offenbar von dem Holzschnitt bei Ripa aus. Obwohl die Figur keinem der vielen Darstellungsvorschläge bei Ripa genau folgt, ist sie doch durch den Granatapfel und das Stabbündel unmißverständlich definiert. Beim Kranz um das Haupt der Figur könnte es sich um einen Kranz aus Olzweigen handeln: »si corona d'Olivo, per segno di pace, effetto della Concordia« (Ripa, s.v. concordia 6). Bei Baur hält Concordia eine Schale mit – allerdings schwer
-<!-- citation-page-bottom: Band12 p287 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=20 -->
-<!-- citation-page-top: Band12 p288 -->
 
-<!-- header: HOHENASCHAU -->
 
 
 [[File:Band12-1_chunk006_p020_img001.jpg|thumb]]
@@ -105,10 +101,7 @@ fiori significano per se stessi Allegrezza, e si suol dire, che prati ridono, qu
 
 
 ... il ramo di Mirto essendo che appresso gl'Antichi era segno di Allegrezza« (Ripa, s.v. allegrezza 7). Die Szenen mit den spielenden Menschen im Garten, bei denen sich der Maler eng an die Vorlage von Baur gehalten hat, führen das Thema von der Heiterkeit weiter aus.
-<!-- citation-page-bottom: Band12 p289 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=21 -->
-<!-- citation-page-top: Band12 p290 -->
 
 [[File:Band12-1_chunk006_p021_img001.jpg|thumb]]
 
@@ -124,7 +117,7 @@ III HOFFNUNG (Speranza; Baur Teil I, Blatt 26) Eine junge Frau mit bekränztem H
 
 Die Darstellung bei Baur bringt den Anker als traditionelles Attribut der Spes. Er wird hier in Beziehung gesetzt zur Szene der Seenot. Der Falke als Attribut ist eher ungewöhnlich (RDK, Bd VI, s.v. Falke, Sp. 1315).
 
-Unterschrift bei Baur: »Wanns ohn die Hoffnung wär, man<br>könte nicht ertragen / Manch Noth und Ungemach, man<br>müste offt verzagen / Allein die heisset uns getrost und muthig<br>sein / Und lehret uns recht fest den Ancker sencke ist die Schiffart doch? Ein Hoffnung guter Winde / Und deß erwüntschten Ports wann Aeoli Gesinde / Gleich tobt, so hofft man doch am Land zu langen an / Kurtz: unser hoffen wehrt, so lang man Athmen kan «
+Unterschrift bei Baur: »Wanns ohn die Hoffnung wär, man könte nicht ertragen / Manch Noth und Ungemach, man müste offt verzagen / Allein die heisset uns getrost und muthig sein / Und lehret uns recht fest den Ancker sencke ist die Schiffart doch? Ein Hoffnung guter Winde / Und deß erwüntschten Ports wann Aeoli Gesinde / Gleich tobt, so hofft man doch am Land zu langen an / Kurtz: unser hoffen wehrt, so lang man Athmen kan «
 
 III. DIE KÜNSTE (Arte; Baur Teil I, Blatt 36) Ein eleganter Mann mit langen Locken, von einem Lorbeerkranz gekrönt, steht an einem Platz, der von prächtigen Gebäuden gesäumt ist. Rechts ist eine hohe Säule zu sehen, im Hintergrund das Meer. Die Allegorie der Künste trägt ein goldenes Kleid und einen roten Mantel, hält in der Linken Pinsel und Grabstichel und in der Rechten einen Stab, um den sich eine Rebe schlingt. Zu ihren Füßen liegen Caduceus, Winkel, Palette mit Pinseln, Schriftrolle, Bücher und eine Büste.
 
@@ -145,5 +138,3 @@ Unterschrift bei Baur: »Hier Triumphiert die Liebe, und führt nach sich gefang
 AEM, Nachlaß Peter von Bomhard Nr. 172
 
 Bomhard, Bd 2, S. 390 f.
-
-{{End}}

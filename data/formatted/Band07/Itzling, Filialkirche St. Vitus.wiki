@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p178 -->
 
-<!-- header: ITZLIN -->
 
 
 == ITZLING ==
@@ -72,12 +70,8 @@ Erhaltungszustand und Restaurierungen: Gründliche Erneuerung vor allem des Dach
 
 
 Schäden ausgebessert werden dürfen« (AEM). Nach Baureparaturen und Entfeuchtung 1962 Neufassung der Raumschale 1966 durch Johann Eder, Vaterstetten. Vor der letzten Gesamtrestaurierung 1990/94 war der Bau in schlechtem Zustand: Aufsteigende Nässe im Mauerwerk, Zerfall des Fundaments, Schäden am Dachstuhl. Befunduntersuchungen im Innenraum durch Manfred Fronske, Tiefenbach. Neufassung der Raumschale in der ursprünglichen Farbgebung durch Heinrich Götz, München. Die Deckenbilder, deren Farbsubstanz recht gut erhalten ist, wurden 1993 durch Wilhelm Böck, Langen-
-<!-- citation-page-bottom: Band07 p179 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=16 -->
-<!-- citation-page-top: Band07 p180 -->
 
-<!-- header: ITZLING -->
 
 
 [[File:Band07_chunk004_p016_img001.jpg|thumb|B Die Herzen Iesu und Maria]]
@@ -134,5 +128,3 @@ Dehio 1990, S. 507.
 Historischer Atlas I, Bd 58, Erding (Susanne Margarethe Herleth-Krentz) 1007 S 108.
 
 Herzog, Elisabeth, Der Münchner Hofmaler Johann Degler (1667–1729), München 1998, S. 127. A.B.
-
-{{End}}

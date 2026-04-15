@@ -31,10 +31,7 @@ Durch freundliche Vermittlung von Gerhard Koschade, Erding, wurden uns von Claud
 
 
 [[File:Band07_chunk004_p023_img004.jpg|thumb|B<sub>3</sub> Schafherde unter himmlischem Schutz]]
-<!-- citation-page-bottom: Band07 p195 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=24 -->
-<!-- citation-page-top: Band07 p196 -->
 
 [[File:Band07_chunk004_p024_img001.jpg|thumb|L. Gott ruft Adam]]
 
@@ -71,14 +68,9 @@ Erhaltungszustand und Restaurierungen: Nach Johann Baptist Kerer, der Pfarrer vo
 1820 um 50 fl. gearbeitet worden (S. 17). Es kann sich um eine Auffrischung gehandelt haben. 1883 wurde die Ausmalung durch den Erdinger Maler Balthasar Renauer restauriert. Damals waren die Wände vor Feuchtigkeit »ganz grün überzogen«. Bei der nächsten Restaurierung 1911 durch Hans Kögl, Pasing handelte es sich um eine »sachgemäße Wiederherstellung« (BLfD). 1982 war die Ausmalung durch aufsteigende Feuchtigkeit, unachtsame Behandlung und Bauschäden schwer bedroht. Ihre kunst- und kulturhistorische Bedeutung wurde erst jetzt bewußt. 1986 Notsicherungen der Fresken durch Fa. Keilhacker: Schließen der Risse im bemalten
 
 Bereich, Hinterfüllen der Putzhohlstellen. Von den Fresken war A am besten erhalten (gekittete Risse), schlechter die Lünettenbilder L<sub>1-3</sub> (Abreibungen, gekittete Risse) und am schlechtesten die Wandbilder W<sub>1-4</sub> (gekittete Risse, Fehlstellen, Abblätterungen; W<sub>2</sub> in der unteren Hälfte fast völlig zerstört, Figur des Michael nur noch in Umrissen sichtbar; in der unteren Hälfte von W<sub>1</sub> starke Zerstörungen). Sanierung des kleinen Baus und Restaurierung 1989 durch Manfred Fronske, Tiefenbach. Dabei ergab sich, »daß die unteren Felder der beiden Obelisken, die links und rechts vom Altar aufgestellt sind, ursprünglich fragmentarische Reste einer Darstellung Armei
-<!-- citation-page-bottom: Band07 p197 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=25 -->
-<!-- citation-page-top: Band07 p198 -->
 
-<!-- header: LANGENGEISLING -->
 
-<!-- header: I ANGENGEISLING -->
 
 
 [[File:Band07_chunk004_p025_img001.jpg|thumb|W. Hölle]]
@@ -135,12 +127,8 @@ W<sub>2</sub> GERICHT (O-Wand, vorne) Oben in den Wolken ist Christus über dem 
 Oben über dem Rahmen Flammenschwert und Posaune des Jüngsten Gerichts.
 
 W, HÖLLE (W-Seite, vorne) Die untere Hälfte des Bildfeldes ist ausgefüllt von dem gewaltigen Höllenschlund einer
-<!-- citation-page-bottom: Band07 p199 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=1 -->
-<!-- citation-page-top: Band07 p200 -->
 
-<!-- header: LANGENGEISLING -->
 
 
 [[File:Band07_chunk005_p001_img001.jpg|thumb|W<sub>I</sub> Gebet für den Toten und W<sub>c-d</sub> Arme Seeler]]
@@ -187,7 +175,3 @@ AEM, Pfarrakten Langengeisling: Bauten II; Pastoral- und Kultusgegenstände; Res
 Kerer, Franz Xaver, Von der Steinzeit bis zur Gegenwart. Die Geschichte eines Bauerndorfes (Langengeisling) im Erdinger Gau, München 1907.
 
 Dehio 1990, S. 583. A. H
-
-<!-- header: LENGDORF -->
-
-{{End}}

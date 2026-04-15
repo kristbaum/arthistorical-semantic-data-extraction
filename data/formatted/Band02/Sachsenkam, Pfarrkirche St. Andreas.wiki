@@ -46,10 +46,7 @@ C Höhe 6,70 m; 4,60 × 2,70
 
 
 [[File:Band02_chunk005_p015_img004.jpg|thumb|W2 Die klugen und die törichten Jungfrauen]]
-<!-- citation-page-bottom: Band02 p229 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=16 -->
-<!-- citation-page-top: Band02 p230 -->
 
 
 [[File:Band02_chunk005_p016_img001.jpg|thumb]]
@@ -79,11 +76,7 @@ Wie die Bildanlage so erzielt auch die Farbigkeit des
 
 
 [[File:Band02_chunk005_p016_img003.jpg|thumb|A Berufung des Andreas]]
-<!-- citation-page-bottom: Band02 p231 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=17 -->
-<!-- citation-page-top: Band02 p232 -->
-<!-- header: SACHSENKAM -->
 
 [[File:Band02_chunk005_p017_img001.jpg|thumb]]
 [[File:Band02_chunk005_p017_img002.jpg|thumb]]
@@ -135,7 +128,3 @@ KDB I OB (1), S. 672.
 Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, Dießen 1913, S. 88–90.  
 Ein dreihundertjähriges Jubiläum Sachsenkams (o. V.), in: Altheimatland 1926, Nr. 8, S. 30 f.  
 Dehio-Gall OB, S. 244.  
-<!-- citation-page-bottom: Band02 p233 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=18 -->
-{{End}}

@@ -61,14 +61,9 @@ JOHANNES DER TÄUFER Auf einem spärlich bewachsenen Grashügel rechts sitzt die
 
 
 StAM, LRA 147576: Restaurierung 1930. StAL, Regierung Landshut 4087: Baureparaturen 1761. AEM, Pfarrakten Dorfen, 155 0001 01: Pfarrbeschreibung; 155 8532 01: Filiale Jaibing 1888–1930.
-<!-- citation-page-bottom: Band07 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band07 p182 -->
 
-<!-- header: IAIBING -->
 
-<!-- header: KIRCHBERG -->
 
 
 [[File:Band07_chunk004_p017_img001.jpg|thumb]]
@@ -79,5 +74,3 @@ AEM, Kunsttopographie der Erzdiözese, Dekanat 21/Dorfen, Pfarrei Oberdorfen, St
 Mayer-Westermayer, Bd 1, S. 214. Brenninger 1980, S. 135. Brenninger 1982, S. 114. Dehio 1990, S. 506.
 
 Mayer-Westermayer, Bd 1, S. 214. Brenninger 1980, S. 135. Brenninger 1982, S. 114. Dehio 1990, S. 506.
-
-{{End}}

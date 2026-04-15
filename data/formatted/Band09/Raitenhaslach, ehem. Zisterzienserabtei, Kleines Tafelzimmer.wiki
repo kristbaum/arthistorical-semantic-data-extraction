@@ -23,12 +23,8 @@ Kleines Tafelzimmer - »Stuba aulica minor«, Zimmer 6 in der Flucht der ehemali
 Anläßlich der Weihe der Prälatenkapelle am 26.9.1762 bewohnte der Salzburger Fürsterzbischof Sigismund von Schrattenbach die Gästewohnung. Man kann annehmen, daß die Zimmer damals fertig ausgestattet waren. Soll wird in der Annalen zwar für das Treppenhaus im Gästetrakt und für die »Stuba aulica maior« als Autor der Deckengemälde genannt, aber nicht ausdrücklich auch für die Stuba minor. Es ist aber an seiner Autorschaft aus stilistischen Gründen kein Zweifel.
 
 Wegen der niedrigen Decke kann man Solls stilistische Eigenarten gut beobachten. Die Malerei wirkt relativ grob und flüchtig. Die Binnenzeichnung ist mit dickem Pinsel aufgetragen – Augen, Nase, Mund als dicke Tupfer. Die Körper der Putten sind recht plump, die Beinchen dick und formlos. Übermalungen in Secco sind bei Soll häufig. Wo sich die Farben im Laufe der Zeit in ihrer Konsistenz verändert haben, wirken sie schmutzig; sonst sind sie sehr bunt und mit Vorliebe gegen duftige weißgrundige Partien abgesetzt. Soll zeigt sich im Fresko des Gästezimmers deutlich beeinflußt von Zicks Fresken in der Klosterkirche, z.B. in der Verwendung des kräftigen Blau, gerade auch in der häufigen Kombination mit Goldocker. Im Aufbau des Schauplatzes ist die Ähnlichkeit mit der Triumphbogenarchitektur in der Hauptansicht von
-<!-- citation-page-bottom: Band09 p185 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band09 p186 -->
 
-<!-- header: RAITENHASLACH -->
 
 
 [[File:Band09_chunk004_p019_img001.jpg|thumb|V. Winter – Feuer]]
@@ -91,17 +87,12 @@ JOSEPH WIRD VON SEINEN BRÜDERN VERKAUFT (O-Seite) [...] (Fortsetzung im nächst
 
 
 [[File:Band09_chunk004_p019_img008.jpg|thumb|Wappen der Stifterin Hemm]]
-<!-- citation-page-bottom: Band09 p187 -->
 
 
 D1 Wappen der Stifterin
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=20 -->
-<!-- citation-page-top: Band09 p188 -->
 
-<!-- header: RAITENHASLACH -->
 
-<!-- header: RAITENHASLACH -->
 
 ein Kind bei sich hat, nimmt sich des Knaben Joseph an. Weitere reich gekleidete Kaufleute warten mit dem Träger und einem Kamel bei dem Zelt. Auf der Seite der Brüder steht ein Bruder neben Juda. Die Köpfe der übrigen Brüder erscheinen zusammen mit ihren Hirtenschippen hinter einer Mauer.
 
@@ -144,12 +135,8 @@ W<sub>a-b</sub> NIL STABILE TERRIS Zwei Wandbilder an der O-Seite beschäftigen 
 [[File:Band09_chunk004_p020_img005.jpg|thumb|F<sub>6</sub> Vogel Strauß mit Hufeisen]]
 
 [[File:Band09_chunk004_p020_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p189 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=21 -->
-<!-- citation-page-top: Band09 p190 -->
 
-<!-- header: RAITENHASLACH -->
 
 Quinctius handeln, der Cincinnatus (Lockenkopf) genannt wurde (458 v. Chr.). In Kriegsgefahr wurde er vom Pflug weg zum Diktator berufen und gab nach sechzehn Tagen, nach erfolgtem Sieg über die Aequier, seine Herrschaft wieder ab (Livius 3,26, 8–11, 27,1–29).
 
@@ -182,6 +169,3 @@ Die Inschrift Nil stabile terris gibt den Schlüssel zur Deutung. Sie paßt nich
 Dem Motto Nil stabile terris läßt sich auch die Jahreszeitenfolge (W<sub>1-4</sub>) mit dem Hinweis auf stetigen Wechsel zuordnen. In mancher Hinsicht bereitet das Programm des Tafelzimmers das des Festsaals (s. S. 191–205) vor. Dessen zentrale Aussage lautet <i>Stant cuncta labore</i> (Alles ist Ergebnis der Arbeit).
 
 Quellen und Literatur BSB, Clm 12536, fol. 57. KDB OB (8), S. 2620.
-
-<!-- header: Festsaalstock -->
-{{End}}

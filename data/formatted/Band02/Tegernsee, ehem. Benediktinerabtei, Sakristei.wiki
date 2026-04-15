@@ -83,7 +83,3 @@ Geiger, Simon, Tegernsee (= KKF, Nr. 38), München 1960.
 Hemmerle, Josef, Die Benediktinerklöster in Bayern (= Germania Benedictina, Bd 2), Augsburg 1970, S. 297–304 (mit Literaturangaben).
 
 Lampl, Sixtus, Die Klosterkirche Tegernsee, in: OAVG 100, 1975, S. 5–141 (mit Literaturangaben).
-<!-- citation-page-bottom: Band02 p597 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=25 -->
-{{End}}

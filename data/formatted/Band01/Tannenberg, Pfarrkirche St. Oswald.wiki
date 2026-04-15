@@ -48,7 +48,6 @@ Erhaltungszustand und Restaurierungen: Innenrestaurierungen 1869, 1914/15 und 19
 A DER PATRON ST. OSWALD Das ovale Bild liegt in der Mitte eines rechteckigen, weiß getünchten Deckenfeldes, das durch klassizistische, vergoldete Ornamente verziert und durch geradlinige Stuckprofile begrenzt ist. Das Bild ist einansichtig angelegt; der Standort des Betrachters liegt unterhalb des westlichen Bildviertels.
 
 In der Mitte der aus groß geformten Wolkenbögen gebildeten Himmelsszenerie ist der hl. Oswald dargestellt. Er wendet sich fürbittend zur Himmelsglorie empor. Letztere ist durch Lichtstrahlen, die aus einer Wolkenöffnung aus
-<!-- citation-page-bottom: Band01 p543 -->
 
 
 [[File:Band01_chunk011_p022_img001.jpg|thumb|A Der Patron St. Oswald]]
@@ -57,8 +56,6 @@ In der Mitte der aus groß geformten Wolkenbögen gebildeten Himmelsszenerie ist
 
 [[File:Band01_chunk011_p022_img002.jpg|thumb]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=23 -->
-<!-- citation-page-top: Band01 p544 -->
 
 den Heiligen hinabfallen, und durch anbetende Engel angedeutet. Die irdische Szenerie ist auf einen schmalen Streifen längs des östlichen Bildrandes beschränkt: Auf und hinter einem dreistufigen Podest sind Bittflehende in dicht gedrängten Gruppen wiedergegeben. Kranke, Mütter mit ihren Kindern und Pilger sowie Soldaten, die von einem Reiter angeführt werden, wenden sich an den hl. Patron. Ganz im Vordergrund ist eine Gruppe hervorgehoben: ein vornehm gekleideter Mann kniet auf den Stufen, begleitet von einem Geistlichen, der als Rückenfigur in Chorhemd und Almutie wiedergegeben ist.
 
@@ -86,5 +83,3 @@ Hofmann, Sigfrid, Der Landkreis Schongau, München 1959, S. 118.
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 236, 260.
 
 Neu, Wilhelm, Der Schongauer Stadtmaurermeister Matthias Left, ein Vertreter des ländlichen Spätklassizismus im alten Landgericht Schongau, in: Lechisarland 1974, S. 75, 79 u. 83 (zu Nikolaus Augner).
-
-{{End}}

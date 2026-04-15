@@ -50,14 +50,9 @@ Erhaltungszustand und Restaurierungen: Vor der 2003 abgeschlossenen Gesamtsanier
 
 
 [[File:Band13_chunk006_p001_img004.jpg|thumb|W Hl. Nikolaus]]
-<!-- citation-page-bottom: Band13 p251 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=2 -->
-<!-- citation-page-top: Band13 p252 -->
 
-<!-- header: GROSDORF -->
 
-<!-- header: GROSDOR -->
 
 
 [[File:Band13_chunk006_p002_img001.jpg|thumb|B Olbers]]
@@ -106,7 +101,3 @@ C.B.
 
 
 [[File:Band13_chunk006_p002_img002.jpg|thumb|A Christus Salvator, 1–4, B Passionsszenen (Hugo Ernst Murmann 1741)]]
-<!-- citation-page-bottom: Band13 p253 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=3 -->
-{{End}}

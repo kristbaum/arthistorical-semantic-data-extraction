@@ -66,10 +66,7 @@ Hirschbeck, Alfons, Kirchenmaler 182 Hirschberg, Grafen von 117, 262 Hirschberg,
 Hofmann, Anna Maria 82, 456 Hofmann, Georg, Wagner in Eichstätt 82, 456 Hoffmann, Richard, BLfD 70 Hoheneck, Lothar Philipp Joseph Freiherr von, Domherr in Eichstätt 239f. Holderried, Bernhard, Restaurator 447 Holzer, Johann Evangelist, Hofmaler in Eichstätt 119, 126, 128f., 187, 189, 202, 214, 216ff., 220, 396, 453 Holzer, Maurus, Pater in Kloster Marienberg 433 Holzhauser, Bartholomäus, Priester 299 Honeck, Johann, Prior des Dominikanerkonvents in Eichstätt 113 Honorius III., Papst 111 Horapöckh, Daniel, Maler in München 456 Horneis, Franz Xaver, Stuckator in Eichstätt 38, 180, 214, 242, 245, 247, 251, 256, 288, 353, 360, 393, 422, 444, 446 Hueber, Maria Josepha 452
 
 Hueber, Maria Josepha 452 Hundbiß, Stefan, Kirchenmalerfirma
-<!-- citation-page-bottom: Band13 p459 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk010.pdf#page=6 -->
-<!-- citation-page-top: Band13 p460 -->
 
 Hundtsdoffer, Anna Maria 428  
 Huwyler, Jakob, Kunstmaler in Valley 114, 156, 227, 232, 278  
@@ -418,15 +415,10 @@ Vogt, Max, Kunstmaler in München 86
 Wagner, Stuckfirma in Ansbach 363  
 Waldbott von Bassenheim, Karl Franz Anton, Landvogt in Eichstätt 180  
 Walderdorf, Friedrich Christoph Wilderich Graf von 241  
-<!-- citation-page-bottom: Band13 p461 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk010.pdf#page=7 -->
-<!-- citation-page-top: Band13 p462 -->
 
 Waller, Johann Georg, Bildhauer in Parsberg 288 Weckerle, Anna Maria 73 Weckerle, Anton, Schmied in Dörndorf 73 Weber, Gallus, Bildhauer 46 Weinmann, Mathias, Pfarrer in Pförring 384 Welden, Johann Ludwig Joseph Freiherr von, Domherr in Eichstätt 239 Welden, Maria Aloysia Freiin von, Gattin des Pflegers in Nassenfels 360 Wernberger, Johann Christof, Pfarrer 282 Wezl, Michael, Pfarrer von Appertshofen 27 Wiedel, Helmut, Malerfirma 114 Wiedemann, Konrad, Restaurator in Ebenhausen 373, 381, 386 Wiedl, Franz, Kirchenmalerfirma 19, 156 Wiedl, Hermann, Kirchenmalerfirma 266 Wiedmann, Georg, Bildhauer 84 Wiegerling, Erwin, Kirchenmaler 129, 396 Wilhelm von Reichenau, Bischof von Eichstätt 186 Wille, Johann Georg, Zeichner und Graphiker in Paris 451 Wink, Amandus, Maler in München 48, 455
 
 Wink, Christian Thomas, Hofmaler in München 46, 48–64, 455 Wink, Johann Chrysostomus, Maler in Eichstätt 455 Wirsching, Sebastian, Historienmaler in München 282, 293f., 320 Wirsching, Johann Jakob, Maler in München 32 Wishofer, Stephan, Prior des Augustinereremitenklosters in Ingolstadt 46 Wittmann, Johann, Maler in Hilpoltstein 373 Wittmann, Joseph, Restaurator in München 28 Wittmann, Thomas, Tagwerker 38 Wolf, Alban, Restaurator in München 119, 189, 196, 219 Wolf, Josef Anton Wilhelm von, Pfarrer 251 Wolf, Michael, Bauer in Gungolding 257f. Wolff, Johann Andreas, Maler in München 308f.
 
 Zächenberger, Johann Anton, Maler in Ingolstadt 27, 254, 296, 308f., 327, 456 Zehmen, Johann Anton Ernst Freiherr von, Domherr in Eichstätt 238 Ziegelmayr, Andreas, Bauer in Berghausen 42 Zink, Matthäus 102, 113, 128, 258, 280, 282f., 313f., 348f., 353f., 425, 438, 452, 455 Zink, Michael 313f., 348f., 425, 438, 452, 455 Zwicklein, Martin Lukas, Maler in Eichstätt 293
-
-{{End}}

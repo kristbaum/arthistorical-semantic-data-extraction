@@ -12,7 +12,6 @@
 |AutorIn1=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p86 -->
 
 == BAIERBACH ==
 
@@ -62,14 +61,9 @@ B BÜSSENDE MAGDALENA Magdalena ist in einer Höhle in der Wüste dargestellt, v
 C ERHEBUNG DER HL. MAGDALENA Die Heilige schwebt in der Bildmitte, umgeben von Engeln auf Wolken; zwei davon fassen sie an den Armen und erheben sie. Zu Füßen Magdalenas sieht man Totenschädel und Salbgefäß, in der Mitte einen Engel mit Speisen. In einer Glorie erscheinen Gottvater und Christus, von Engeln und Putten begleitet.
 
 1–8 MAGDALENA-SZENEN Je vier Ovalmedaillons in den Gewölbezwickeln des LHs und des AR zeigen Szenen aus der Legende der hl. Magdalena, die in fast allen Szenen durch das Salbgefäß gekennzeichnet ist.
-<!-- citation-page-bottom: Band12 p87 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=20 -->
-<!-- citation-page-top: Band12 p88 -->
 
-<!-- header: BAIFRBACI -->
 
-<!-- header: BAIERBACH -->
 
 
 [[File:Band12-1_chunk002_p020_img001.jpg|thumb]]
@@ -142,7 +136,3 @@ AEM, Pfarrakten Riedering, Pfarrbeschreibung; Filiale Baierbach 1614–1853.
 AEM, Kunsttopographie des Erzbistums Dekanat 34/Rosenheim, Pfarrei Stephanskirchen, Filiale Baierbach 41.15.2. (Peter von Bomhard und Georg Brenninger). BLfD, Akt Baierbach, Filialkirche St. Magdalena.
 
 Mayer-Westermayer, Bd II, S. 787. KDB I OB (2), S. 1773 f. Bomhard, Bd 1, S. 236–39, 415 f., 456. Detterbeck, Karl und Konrad Breitrainer, Riederinger Heimatbuch, Riedering 1988, S. 326. Dehio 1990, S. 90.
-<!-- citation-page-bottom: Band12 p89 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=21 -->
-{{End}}

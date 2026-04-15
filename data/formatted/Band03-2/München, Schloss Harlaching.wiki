@@ -31,12 +31,8 @@ Verbleib: Die Ausmalung des Schlosses ging bei dem Brand 1795 zugrunde.
 
 
 Das Thema der drei Deckenbilder wird angegeben: »die 3 Gratien, so sich mit denen 3 jahrszeiten, in welchen man die gärten und välder genießer kan.« (fol. 23r, zitiert nach Andersen wie alles Folgende, s.S. 236–37) Die drei Bilder zeigen jeweils eine Grazie mit einer Jahreszeit in einem Himmelschauplatz. Putti halten ein Inschriftband – der Text dazu ist jeweils in der Beschreibung angegeben. Die Unterschiede zwischen Beschreibung
-<!-- citation-page-bottom: Band03-2 p579 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=16 -->
-<!-- citation-page-top: Band03-2 p580 -->
 
-<!-- header: SCHLOSS HARLACHING -->
 
 
 [[File:Band03-2_chunk012_p016_img001.jpg|thumb]]
@@ -74,6 +70,3 @@ Lessing, Waldemar, Johann Georg von Dillis, München 1951, Abb. 6. Andersen, Lis
 
 
 == SCHLOSS NEUBERGHAUSEN ==
-
-
-{{End}}

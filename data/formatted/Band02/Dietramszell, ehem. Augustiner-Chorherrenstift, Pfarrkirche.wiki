@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p148 -->
 
-<!-- header: DIETRAMSZELL -->
 
 
 == DIETRAMSZELL ==
@@ -80,14 +78,9 @@ B GRÜNDUNG DES KLOSTERS DIETRAMSZELL In Fresko B sind die beiden Grundtypen der
 
 
 [[File:Band02_chunk003_p025_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p149 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=1 -->
-<!-- citation-page-top: Band02 p150 -->
 
-<!-- header: DIETRAMSZELL -->
 
-<!-- header: DIETRAMSZELL -->
 
 bildet. Terrestrische Szenerie wie Himmelsraum haben je ihre eigene Räumlichkeit: unten, in der Landschaft, wird der Blick über ein Bachbett zwischen Hügeln weit in die Ferne zu bläulichen Bergen unter aufgerissenen Wolken geführt. Der zentrale Wolkenhimmel aber illusioniert Ausdehnung in der Vertikalen. Höhen- und Tiefenillusion bestehen hier nebeneinander, durch die Komposition der Figurengruppen verbunden. Die entscheidende Stellung nimmt dabei eine Gruppe von Edelleuten ein, die durch den deutlichen inhaltlichen wie kompositionellen Bezug auf die Heiligen im Himmel, wie auch auf die Mönche im Hintergrund, sowohl auf die Raumhöhe als auch auf die Raumtiefe bezogen ist.
 
@@ -114,14 +107,9 @@ Der Heilige erscheint in diesem Bild nicht so sehr als Angehöriger der himmlisc
 Das Bild bezieht sich auf das Altarblatt, auf dem die Himmelfahrt Mariens dargestellt ist. Die drei göttlichen Personen erwarten Maria im Himmel: Christus hält die Krone mit zwölf Sternen für sie bereit. Die Dreifaltigkeit ist von Engeln und Putti umgeben, die Kreuz und Weltkugel halten. Am oberen Bildrand...
 
 [[File:Band02_chunk004_p001_img001.jpg|thumb|B Gründung des Klosters Dietramszell]]
-<!-- citation-page-bottom: Band02 p151 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=2 -->
-<!-- citation-page-top: Band02 p152 -->
 
-<!-- header: DIETRAMSZELI -->
 
-<!-- header: DIETRAMSZELI -->
 
 
 [[File:Band02_chunk004_p002_img001.jpg|thumb|D Hl. Dreifaltigkeit]]
@@ -161,12 +149,8 @@ der Brust. Engel halten ihm den Bischofsstab und das Regelbuch, in dem zu lesen 
 
 
 [[File:Band02_chunk004_p002_img006.jpg|thumb|Markus]]
-<!-- citation-page-bottom: Band02 p153 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=3 -->
-<!-- citation-page-top: Band02 p154 -->
 
-<!-- header: DIETRAMSZELL -->
 
 [[File:Band02_chunk004_p003_img001.jpg|thumb]]
 
@@ -190,7 +174,6 @@ Das Fresko ist damit auch eine Untermauerung der Dietramszeller Version der Grü
 
 Der eigentliche Sinn des Hauptfreskos ist die Legitimation des Klosters Dietramszell in zweierlei Hinsicht: zum ersten in historischer, durch die Darstellung des Gründerwunders, zum zweiten in geistlicher, durch die Darstellung des
 
-<!-- citation-page-bottom: Band02 p155 -->
 
 [[File:Band02_chunk004_p003_img003.jpg|thumb|Ks Mariä Tempelgang]]
 
@@ -202,8 +185,6 @@ Der eigentliche Sinn des Hauptfreskos ist die Legitimation des Klosters Dietrams
 
 [[File:Band02_chunk004_p003_img007.jpg|thumb|K<sub>8</sub> Mariä Tod]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=4 -->
-<!-- citation-page-top: Band02 p156 -->
 
 [[File:Band02_chunk004_p004_img001.jpg|thumb]]
 [[File:Band02_chunk004_p004_img002.jpg|thumb]]
@@ -241,5 +222,3 @@ D HL. DREIFALTIGKEIT-Himmelfahrt und Krönung Mariens (zusammen mit dem Altarbla
 [[File:Band02_chunk004_p004_img006.jpg|thumb]]
 
 Ehem. Psallierchor, jetzt Kapelle »Maria Einsiedel« des Salesianerinnenklosters
-
-{{End}}

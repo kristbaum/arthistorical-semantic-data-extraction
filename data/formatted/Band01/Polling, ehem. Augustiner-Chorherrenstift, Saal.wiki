@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p468 -->
 
-<!-- header: POLLING -->
 
-<!-- header: POLLING -->
 
 Ehem. Saal des Studienseminars, jetzt Schulzimmer der Volksschule
 
@@ -118,7 +115,3 @@ Fuchs, Adolf, Johann Baptist Baader, der Lechhansl, Kaufbeuren 1959.
 Dülmen, Richard van, Propst Franziskus Töpsl, Kallmünz.
 
 Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Katalog des Gesamtwerkes, ungedruckte Diss., München 1972.
-<!-- citation-page-bottom: Band01 p469 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=11 -->
-{{End}}

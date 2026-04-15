@@ -46,12 +46,8 @@ Raum VI (Zimmer der Religion) 6,80 × 9,10 m
 Raum VII (Zimmer der Kirche) 12,00 × 8,20 m  
 
 '''Auftraggeber:''' Für die erste Ausmalung ab 1614 Herzog Maximilian I. von Bayern (1598–1651, Kurfürst ab 1623); für die zweite Ausmalung nach dem Brand von 1674, bei der die zerstörte Ausmalung rekonstruiert wurde, Kurfürst Max Emanuel von Bayern (1680–1726).  
-<!-- citation-page-bottom: Band03-2 p299 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=1 -->
-<!-- citation-page-top: Band03-2 p300 -->
 
-<!-- header: RESIDENZ -->
 
 
 == VIERSCHIMMELSAAL UND STEINZIMMER ==
@@ -144,14 +140,9 @@ Rosa wurde bezeichnenderweise nicht aus den Mitteln des Hofbauamts für die Resi
 Für die siebzehn Bildfelder verlangte Giovanni Trubillio zunächst 1800 fl., für die Dekorationsmalereien 500 fl.; Riß und Programm lagen vor (das kann auch für die übrigen Bilder in diesem Stadium der Planung angenommen werden).
 
 »In diser teckhen seind 17 Felderungen zu mallen deren gresse bey nebenligenden Ris zu ersehen ist. Wie auch die erzellung oder nachricht nach ieden stukh wie der R. P. Verani Theatiner ausgeführt. Von welchen 17 felderungen mit mein besten fleiss und Studio zu mallen ist mein Verdienst auf wenigst ... 1800 f. Vor die Ziraten und laubwerkh in obgemelter tekkhen auch Unden und oben die 2 fenster und auf die 2 thürn und was zu mallen ist ausser die 17 stuckh per 500 fl. – Giovanni Trubiglio Pittore e sotto Architetto di S.A.E.« (BHStA I, HR I, 101/33/2). Der Vertrag wurde am 26. 11. 1695 über 1600 fl. geschlossen: »Daß mit mir Underschribnen wegen Mallung der Döckhen von 17 Feldungen in das Erste abgeprente Zimer bei Hof alhir gegen dem Kayser Saal, nach dem verferttigten Riß unnd wie es der P. Verani Theatiner angeben, mit guetem Vleiß, unnd
-<!-- citation-page-bottom: Band03-2 p301 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=2 -->
-<!-- citation-page-top: Band03-2 p302 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: Studio zuverferttigen ... auf Ain Taußent Sechshundert Gulden ordtent lich pactirt worden ist, bescheint diss ... Giovanni Trubiglio ... « (ebd.). Trubillio bekam als Abschlagszahlung 500 fl. (1696; loc. cit., HR II, 14 109) 1697 für die dekorative Malerei und die Vergoldung 769 fl. (loc. cit. -->
 
 Trubillio bekam als Abschlagszahlung 500 fl. (1696; loc. cit., HR II, 14/109) 1697 für die dekorative Malerei und die Vergoldung 769 fl. (loc. cit., HR II, 14/110 Nr. 6) und erst 1701, nach einer Schätzung seiner Deckenbilder, die restlichen 1500 fl. ausbezahlt: »Ingleichen hat der Hofunderpaumeister unnd Maller, Johann Trubilly, in die Deckhen deß ersten abgepronnenen Kayl: Zimers, negst der Ritterstuben, 17 Stuckh gemallen, und deshalb empfangen, wie es die unpartheyischen Schäzmänner ausgesprochen f. 1500,-« (loc. cit., HR II, 14/113, Nr. 3).
 
@@ -169,7 +160,7 @@ Die Deckenbilder des Zweiten Zimmers waren zwar 1697 fertiggestellt worden (loc.
 == IV Drittes Steinzimmer, sog. Zimmer der Zeit: Giovanni Trubillio ==
 
 
-In diesem Raum waren bis 1944 noch einige Bilder der Erstausstattung in maximilianischer Zeit erhalten (IV, IVa, IVc). In Zuccallis Überschlag für die zweite Ausstattung ist für diesen Raum noch kein Autor genannt: »Drittes Zimer. Hierinn sindt noch 8 cleine Feldungen zu Mallen, hierfür mit einrechnung der farben 150,- Daß ienige waß bereit vergoldt, außzubessern, unnd daß ybrige von neuem zuvergolden, Verdienst ohne daß Gold 120,- fl. « (BHStA I, HR I, 101/33/2). Das Zimmer wurde bis 1698 von Trubillio ausgemalt: »Dem Churfürstl. Hofpaumeister Herrn Johann<br>Trubilly, welcher im 3<sup>ten</sup> Kayl: Zimer die Fillungen, Camin, Thieren, Fenster, unnd gesimbswerkh, mit bildern, Wappen unnd in anderweg gemallen, unnd vergoldet, lauth von Herrn Zuccaly underschribnen Zetl guetgethan f. 354,-« (loc. cit., HR II, 14/111, Nr. 3). Anhand der Vorkriegsphotos kann man Trubillio die beiden Felder IV<sub>b</sub> und IV<sub>d</sub> (Sommer und Winter) und die Monatsbilder IV<sub>1-8</sub> zuweisen.
+In diesem Raum waren bis 1944 noch einige Bilder der Erstausstattung in maximilianischer Zeit erhalten (IV, IVa, IVc). In Zuccallis Überschlag für die zweite Ausstattung ist für diesen Raum noch kein Autor genannt: »Drittes Zimer. Hierinn sindt noch 8 cleine Feldungen zu Mallen, hierfür mit einrechnung der farben 150,- Daß ienige waß bereit vergoldt, außzubessern, unnd daß ybrige von neuem zuvergolden, Verdienst ohne daß Gold 120,- fl. « (BHStA I, HR I, 101/33/2). Das Zimmer wurde bis 1698 von Trubillio ausgemalt: »Dem Churfürstl. Hofpaumeister Herrn Johann Trubilly, welcher im 3<sup>ten</sup> Kayl: Zimer die Fillungen, Camin, Thieren, Fenster, unnd gesimbswerkh, mit bildern, Wappen unnd in anderweg gemallen, unnd vergoldet, lauth von Herrn Zuccaly underschribnen Zetl guetgethan f. 354,-« (loc. cit., HR II, 14/111, Nr. 3). Anhand der Vorkriegsphotos kann man Trubillio die beiden Felder IV<sub>b</sub> und IV<sub>d</sub> (Sommer und Winter) und die Monatsbilder IV<sub>1-8</sub> zuweisen.
 
 
 == V Viertes Steinzimmer, sog. Zimmer der Ewigkeit: Martin Moser, Dekorationsmalerei Giovanni Trubillio ==
@@ -187,11 +178,10 @@ Nach der Vollendung und Bezahlung der Deckenbilder im Vierten Zimmer bemühte er
 == VI Fünftes Steinzimmer, sog. Zimmer der Religion: Francesco Rosa, Dekorationsmalerei Giovanni Trubillio ==
 
 
-In Zuccallis Überschlag war für die Ausmalung zunächst der Maler Johann Andreas Wolff (»Jonnaß«) vorgesehen: »Fünfftes Zimmer. Die hierin enthaltene 9 Feldungen der mallerey zuverferttigen, mit einrechnung der Farben 1100,- fl. Item das Laubwerckh, unnd Ziraten gleichfalls zum Mallen 226,- fl. Unnd zu vergolden, ausser des Golds 151 f. 12 x.« Eine weitere Notiz des Hofbauamts lautet: »Auf Mallung der Döckhen mit 9<br>Feldungen in das 5<sup>te</sup> abprennte Zimer bei Hof alhir so dem Maller Jonnaß vermaint: mit deme aber, weill er nicht zu haben gewest, nicht accortiert worden ... « Auf der Rückseite des Blattes findet sich die Notiz: »NB: hats der Maller Rosa verferttigt« (BHStA I, HR I, 101/33/2; ausführlich dazu s. oben S. 301).
+In Zuccallis Überschlag war für die Ausmalung zunächst der Maler Johann Andreas Wolff (»Jonnaß«) vorgesehen: »Fünfftes Zimmer. Die hierin enthaltene 9 Feldungen der mallerey zuverferttigen, mit einrechnung der Farben 1100,- fl. Item das Laubwerckh, unnd Ziraten gleichfalls zum Mallen 226,- fl. Unnd zu vergolden, ausser des Golds 151 f. 12 x.« Eine weitere Notiz des Hofbauamts lautet: »Auf Mallung der Döckhen mit 9 Feldungen in das 5<sup>te</sup> abprennte Zimer bei Hof alhir so dem Maller Jonnaß vermaint: mit deme aber, weill er nicht zu haben gewest, nicht accortiert worden ... « Auf der Rückseite des Blattes findet sich die Notiz: »NB: hats der Maller Rosa verferttigt« (BHStA I, HR I, 101/33/2; ausführlich dazu s. oben S. 301).
 
 Die dekorativen Malereien und Vergoldungen wurden schon 1697 mit Giovanni Trubillio abgerechnet (396 fl.; loc. cit., HR II, 14/110, Nr. 8).
 
-<!-- header: IERSCHIMMELSAAL UND STEINZIMMEI -->
 
 VII Sechstes Steinzimmer, sog. Zimmer der Katholischen Kirche: Francesco Rosa, Dekorationsmalerei Johann Anton Gumpp
 
@@ -303,14 +293,9 @@ Die Gemälde waren im 18. Jh. bereits in schlechtem Zustand. Ab 1764 wurden die 
 
 Anläßlich des Neubaues der Hofgartenzimmer wurde 1799 die Deckenbilder des Vierschimmelsaals zusammen mit denen des Kaisersaals (ebd.) in das Gemäldemagazin in Hofgarten gebracht, wo sie 1804 aufgelistet wurden (BHStA I, HR I, 280/24/8). Die Bilder kamen später in die Bayerischen Staatsgemäldesammlungen. Das Hauptbild mit der Darstellung Apollos auf seinem Wagen (BSGS, Inv Nr. 3525) kam 1905 als Leihgabe an das Bayerische Nationalmuseum und war dort - im Katalog als Kopie nach Andreas Wolff geführt – in Saal 82 als Deckenbild angebracht; es wurde 1944 zerstört. Nach dem Zweiten Weltkrieg wurde der Vierschimmelsaal wieder eingerichtet (Eröffnung 1985). Da der Saal jetzt um ein Joch verkürzt ist, wurden von den ursprünglich sechs Planeten-Bildern I<sub>A</sub> nur vier angebracht: IA Diana (BSGS, Inv. Nr. 3468
 
-<!-- citation-page-bottom: Band03-2 p303 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=3 -->
-<!-- citation-page-top: Band03-2 p304 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: VIERSCHIMMELSAA -->
 
 I<sub>B</sub> Merkur (BSGS, Inv. Nr. 3467), I<sub>C</sub> Venus (BSGS, Inv. Nr. 3470) und I<sub>D</sub> Jupiter (BSGS, Inv. Nr. 3471). Die beiden Gemälde Mars (I<sub>E</sub> BSGS, Inv. Nr. 3469) und Saturn (I<sub>F</sub> BSGS, Inv. Nr. 3472) befinden sich noch im Depot der BSGS.
 
@@ -365,10 +350,7 @@ Der Bildraum hat wenig Tiefe; Räumlichkeit ist nur den Körpern immanent. Licht
 
 
 I<sub>C</sub> VENUS (Johann Andreas Wolff) Auf Wolken thront Venus, zu ihrer Seite der Bogen und der leere Köcher; daneben ein Schwan, der, wie die schnäbelnden Tauben links, ihr Attribut ist. Venus hält mit der Linken einen Pfeil hoch, nach dem sich der Amorknabe, um den sie ihren Arm gelegt hat, reckt. Ein Putto bei dem blumengeschmückten Wagen links und zwei fliegende Putti mit einer Fackel sowie die Gruppe der Drei Grazien sind weitere Motive der dichtgedrängten Komposition. Die Farbigkeit ist weitgehend unbunt, sie wird von dem sehr hellen Inkarnat, dem Weiß der Wolken und dem duftig-zarten Grünlichblau des Himmels bestimmt; sie wirkt eigentümlich kühl, äußerst differenziert und preziös. Das Gemälde ist als das qualitätvollste der Serie anzusehen.
-<!-- citation-page-bottom: Band03-2 p305 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=4 -->
-<!-- citation-page-top: Band03-2 p306 -->
 
 == RESIDENZ ==
 
@@ -384,14 +366,9 @@ I<sub>C</sub> VENUS (Johann Andreas Wolff) Auf Wolken thront Venus, zu ihrer Sei
 
 
 [[File:Band03-2_chunk007_p004_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p307 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=5 -->
-<!-- citation-page-top: Band03-2 p308 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: VIERSCHIMMELSAAL -->
 
 
 [[File:Band03-2_chunk007_p005_img001.jpg|thumb|Ib Bacchus, Ceres und Pomona]]
@@ -420,14 +397,9 @@ I<sub>E</sub> MARS (Johann Anton Gumpp) Der Kriegsgott thront auf Wolken, einen 
 
 
 [[File:Band03-2_chunk007_p005_img006.jpg|thumb|I<sub>d</sub> Saturn]]
-<!-- citation-page-bottom: Band03-2 p309 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=6 -->
-<!-- citation-page-top: Band03-2 p310 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 I<sub>F</sub> SATURN (Francesco Rosa) Der Gott thront rittlings auf einem Wolkenkissen, nur mit einer roten Draperie bekleidet, in der Hand eine Sense und den Schlangenring. Die Figurenkomposition innerhalb des Bildfeldes ist ohne jede Monumentalität, das Bewegungsmotiv ungeschickt ausgeführt. Das Bildfeld füllen blaugraue, dunkle Wolken, in denen verstreut Putti dargestellt sind, die Sanduhr, an Ketten eine große Schale (?) und einen Stab halten.
 
@@ -472,10 +444,7 @@ II<sub>A-D</sub> VIER ELEMENTE Die vier großen Bildfelder in den Seitenmitten, 
 II<sub>A</sub> ERDE – CYBELE Eine Draperie, um Säulen geschlungen und von Putti getragen, bildet eine Art Baldachin, unter dem Cybele lagert. Sie ist in einen grünen Überwurf gehüllt und trägt die Mauerkrone auf dem Haupt. Mit der Linken weist sie auf Blüten und Früchte. Gaben der Erde.
 
 II<sub>B</sub> WASSER – NEPTUN Neptun wird von zwei Seepferden über das Wasser gezogen: er erscheint wie hingelagert auf den Fischschwänzen der Tiere. Der Meeresgott trägt Krone und blaues Gewand und hält den Dreizack. Zwei Putti lenken die Meerpferde.
-<!-- citation-page-bottom: Band03-2 p311 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=7 -->
-<!-- citation-page-top: Band03-2 p312 -->
 
 [[File:Band03-2_chunk007_p007_img001.jpg|thumb]]
 
@@ -491,14 +460,9 @@ II<sub>1</sub> ZEPHYR Ein junger Windgott mit Genienflügeln und gelbem Überwur
 
 II<sub>2</sub> AUSTER Ein junger Windgott mit gefleckten Genienflügeln ist auf einer Wolke vor stark bewegtem, gewittrigem Himmel dargestellt. Der Windgott hält mit 
 
-<!-- citation-page-bottom: Band03-2 p313 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p314 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 
 [[File:Band03-2_chunk007_p008_img001.jpg|thumb|II. Auster – Südwind]]
@@ -577,14 +541,9 @@ den natürlichen Bedingungen zu sehen, denen das Leben auf der Erde unterworfen 
 
 
 Die Erweiterung des maximilianischen Programms um die Embleme (II<sub>a-d</sub>) und die Jahreszeitenbilder (II<sub>α-δ</sub>) stellt eher eine Abschwächung als eine Bereicherung des ursprünglichen Gedankens dar, der die Erde wild und unbewohnt zeigte, in ihrer elementaren Zusammensetzung und äußeren Kräften – den Winden – ausgesetzt. Die Embleme mit ihren Bildern von Garten, bewohntem Flußufer und zerstörtem Turm mißverstehen den ursprünglichen Sinn, während die Jahreszeiten-Thematik einen Vorgriff auf das Zimmer der Zeit (IV) bedeutet.
-<!-- citation-page-bottom: Band03-2 p315 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=9 -->
-<!-- citation-page-top: Band03-2 p316 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 
 [[File:Band03-2_chunk007_p009_img001.jpg|thumb|III<sub>d</sub> Putti mit Adler]]
@@ -628,14 +587,9 @@ III<sub>1-10</sub> DIE TIERE DER ERDE In den zehn Nebenbildern sind die Tiere de
 
 
 [[File:Band03-2_chunk007_p009_img007.jpg|thumb|Zweites Steinzimmer, sog. Zimmer der Welt, Ansicht nach SW (Vorkriegszustand)]]
-<!-- citation-page-bottom: Band03-2 p317 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=10 -->
-<!-- citation-page-top: Band03-2 p318 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMEI -->
 
 
 [[File:Band03-2_chunk007_p010_img001.jpg|thumb]]
@@ -721,22 +675,16 @@ IV<sub>b</sub> Sommer – Jungfrau (24. August – 23. September; zweite Ausstat
 
 
 [[File:Band03-2_chunk007_p010_img011.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p319 -->
 
 
-<!-- ZITAT-Inhalte aus Transkribus übernommen -->
 »Dentro vi si scorge Figura di Giovane adulto sedente sopra chiare nubbi; Amantato di ricco Manto, Cinte, e coronate le timpie d' aurea Corona Regale; Dal volto escono splendori. Tiene nè la sinistra un Hasta, e con la destra stà in atto di mostrare le cose sotto di sè poste, e soggettate; Posa li piedi sopra un grande Globo Mondiale, sotto al quale stà un
 
 striscio di bianca carta con L'Inscrizione.«»Dentro vi si scorge Figura di Giovane adulto sedente sopra chiare nubbi; Amantato di ricco Manto, Cinte, e coronate le timpie d’aurea Corona Regale; Dal volto escono splendori. Tiene nè la sinistra un Hasta, e con la destra stà in atto di mostrare le cose sotto di sè poste, e soggettate; Posa li piedi sopra un grande Globo Mondiale, sotto al quale stà un striscio di bianca carta con L’Inscrizione.«
 
 »In altri spazzij intorno di questi compartiti, stanno altre Figure con diversi scherzi alludenti à queste Quattro Stagioni, et Età soprascritte.«»In altri spazzij intorno di questi compartiti, stanno altre Figure con diversi scherzi alludenti à queste Quattro Stagioni, et Età soprascritte.«
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=11 -->
-<!-- citation-page-top: Band03-2 p320 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 
 [[File:Band03-2_chunk007_p011_img001.jpg|thumb|Teilansicht der Decke (O-Seite) mit IV<sub>2-b</sub> Frühling und Sommer, IV. Krebs, IV. Schütze, IV. Steinbock, IV. Wassermann, IV. Wassermann (Vorkriegszustand)]]
@@ -779,14 +727,9 @@ Die Vier Jahreszeiten waren in der Erstfassung sämtlich mit
 
 
 [[File:Band03-2_chunk007_p011_img003.jpg|thumb|Teilansicht der Decke (W-Seite) mit IV<sub>c-d</sub> Herbst und Winter, IV<sub>4</sub> Fische, IV<sub>5</sub> Skorpion, IV<sub>6</sub> Stier, IV<sub>7</sub> Zwillinge (Vorkriegszustand)]
-<!-- citation-page-bottom: Band03-2 p321 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=12 -->
-<!-- citation-page-top: Band03-2 p322 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 
 [[File:Band03-2_chunk007_p012_img001.jpg|thumb]]
@@ -826,10 +769,7 @@ V<sub>2</sub> VICI MEA FATA SVPERSTES (Überlebend habe ich mein Geschick besieg
 
 
 [[File:Band03-2_chunk007_p012_img006.jpg|thumb|322]]
-<!-- citation-page-bottom: Band03-2 p323 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=13 -->
-<!-- citation-page-top: Band03-2 p324 -->
 
 [[File:Band03-2_chunk007_p013_img001.jpg|thumb|V, Armillarsphär]]
 
@@ -848,7 +788,7 @@ V<sub>a-d</sub> ILLUSIONSMALEREI (Giovanni Trubillio) Vier Tondi in den vier Eck
 
 Pistorini beschreibt nur ein zentrales, annähernd ovales Bildfeld, in dem als einzige monumentale Figur die Personifikation der Ewigkeit dargestellt war: »Nel giusto mezze di questo soffitto in grande spazzio che tende à l'Ovato V campeggia bellissima, e modesta Figura di Donna giovane Vestita di sottilissimi bianchi Veli, e svolazzanti, che percio luogo, à luogo con honesto modo si vede la nudità d'alcune membra. Questa con ambe le piedi posa sopra gran Globo turchino tutto riccamato di stelle; Nè la mano Destra solleva e tiene un aureo Circolo orbicolare perfetto, e nella sinistra stringe un ramo di verde Cipresso; A torno di questi splendono brillanti raggi di Luce, eccetto, che nè la parte occupata dal Capo; Poiche intorno di quello stà gran gire tonda di colore celeste« (Pistorini, fol. 40vf.) Die Inschrift lautete AETERNITAS (s. S. 332).
 
-VI Fünftes Steinzimmer, sogenanntes Zimmer der Religion<br>(Francesco Rosa)
+VI Fünftes Steinzimmer, sogenanntes Zimmer der Religion (Francesco Rosa)
 
 Die Holzkassettendecke des Fünften Steinzimmers hatte in der Erstfassung von 1615/16 mehrere Bildfelder, ein Hauptbildfeld »di forma Ottangolare, e che più tosto tende al lungo«, also ein Längsrechteck mit abgeschrägten Ecken und vier Seitenfelder, von denen die beiden flankierenden längsrechteckig waren, die an den Schmalseiten der Decke ein »Ovato quadrangolare«, also wohl die häufig auftretende Schnittform zwischen Oval und Rechteck. Die Form des Hauptbildes VI und der beiden Seitenbilder VI<sub>2</sub> und VI<sub>4</sub> sind ähnlich in der Zweitfassung von 1695 beibehalten worden. Die beiden Nebenbilder VI<sub>1</sub> und VI<sub>3</sub> sind als Querrechtecke gestaltet worden, während die Eckbilder VI<sub>a-d</sub> als Hinzufügungen der zweiten Ausstattung gelten können, da sie bei Pistorini und Pallavicino nicht erwähnt werden.
 
@@ -875,14 +815,9 @@ VI<sub>4</sub> VIGILANTIA [HAERETICOS] Die Wachsamkeit, durch die die Kirche üb
 
 
 [[File:Band03-2_chunk007_p013_img005.jpg|thumb|VI. Auctorita]]
-<!-- citation-page-bottom: Band03-2 p325 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=14 -->
-<!-- citation-page-top: Band03-2 p326 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 
 [[File:Band03-2_chunk007_p014_img001.jpg|thumb]]
@@ -924,14 +859,9 @@ VII<sub>A-D</sub> VIER ERDTEILE Die Erdteile waren in beiden Fassungen dargestel
 
 
 [[File:Band03-2_chunk007_p014_img005.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p327 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=15 -->
-<!-- citation-page-top: Band03-2 p328 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 
 [[File:Band03-2_chunk007_p015_img001.jpg|thumb]]
@@ -997,14 +927,9 @@ Die Deckenbilder des Vierschimmelsaals und der sechs Steinzimmer sind durch ein 
 
 
 [[File:Band03-2_chunk007_p015_img008.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p329 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=16 -->
-<!-- citation-page-top: Band03-2 p330 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 und zum Kosmos gezeigt, in seinem Verhältnis zum Schöpfer und in der Möglichkeit, seine Vergänglichkeit in der Erlösung zu überwinden. Zugleich wird die Erde als Wohnort des Menschen in ihrer Stellung im Kosmos und im göttlichen Heilsplan definiert. Nicht nur das Gesamtprogramm kann als neuartig gelten – entsprechende Vorgänger sind nicht bekannt – auch im Einzelnen wurden neue Bilderfindungen notwendig, um die Bildgedanken präzise ausdrücken zu können.
 
@@ -1039,17 +964,12 @@ Pan selbst tritt als Verkörperung der gesamten Natur auf und wurde auch wegen s
 Im Zweiten Steinzimmer tritt der Mensch als Herr der Welt auf. Die besondere Stellung der Erde im Universum basiert darauf, daß Gott sie als Aufenthaltsort für sein Ebenbild, den Menschen, erwählt hat. Der Psalmentext, aus dem die Bildinschrift stammt und auf den sie damit hinweist, liegt dem Programm dieses Zimmers zugrunde: »Ich schaue den Himmel, das Werk deiner Finger, den Mond und die Sterne, die du geschaffen: Was ist der Mensch, daß du seiner gedenkest! Des Menschen Sohn, daß du Sorge tragest um ihn! Du hast ihn fast zu einem Gotteswesen gemacht, und hast ihn gekrönt mit Glorie und Glanz. Du hast ihm Macht gegeben über das Werk deiner Hände, alles hast du ihm zu Füßen gelegt: All die Schafe und Rinder und die Tiere des Feldes, Die Vögel des Himmels und die Fische im Meer und alles, was dahinzieht die Pfade der Meere« (Ps 8, 4–9).
 
 Der Bildinhalt des zweiten Steinzimmers impliziert damit die Darstellungen der beiden vorhergehenden Räume: Gott wird als der Schöpfer des Himmels (Vierschimmelsaal) und der Erde (Erstes Steinzimmer) apostrophiert ebenso wie als Schöpfer und Herr des Menschen (Zweites Steinzimmer). Ohne daß Gott im Bild selbst erschien, bahnte sich damit im Gesamtprogramm die eschatologische Zentralaussage an.
-<!-- citation-page-bottom: Band03-2 p331 -->
 
 
 [[File:Band03-2_chunk007_p016_img001.jpg|thumb|Zweites Steinzimmer, sog. Zimmer der Welt. W. Rehlen, Aquarell 1891 aus dem Wittelsbacher Album, Wittelsbacher Ausgleichsfond]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk007.pdf#page=17 -->
-<!-- citation-page-top: Band03-2 p332 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: STEINZIMMER -->
 
 Im Zimmer der Zeit wurde in den Jahreszeitenbildern (IV<sub>a-d</sub>), die zugleich die Vier Lebensalter darstellen, das Leben des Menschen als zeitlich begrenzt gezeigt, als der Vergänglichkeit unterworfen. Der Verweis auf die Vergänglichkeit ist zugleich Verweis auf den notwendigen irdischen Tod des Menschen. Im Hauptbild (IV) wird das Jahr durch den Schlangenring als sich ständig erneuernde Zeit definiert (einer der Aspekte der Ewigkeitsdarstellungen wird damit schon vorweggenommen).
 
@@ -1078,12 +998,8 @@ Im Sechsten Steinzimmer, dem letzten Raum, ist im Hauptbild (VII) Ecclesia trium
 possessio tua termini terrae«. Der weitere Psalmtext ist der Darstellung immanent: »Et nunc, reges, intelligite; Erudi mini, qui iudicatis terram. Servite Domino in timore, e exsultate ei cum tremore« (Ps 2, 10 f.).
 
 Maximilian unternahm es in dieser Raumfolge, den wichtigsten Repräsentationsräumen nach dem Kaisersaal, sein eigenes Bild von der Welt und vom Menschen zu entwerfen: er hob die Erde unter der Reihe der Planeten hervor als von Gott ausgewählten Ort der Erlösung. Er zeigte den Menschen in seiner Bedingtheit durch Raum und Zeit. Er zeigte die Kirche als Instrument der Erlösung und endlich als Reich Gottes auf Erden. Seine religionspolitischen Absichten, seine gegenreformatorischen Bestrebungen und seine Hoffnung auf den endgültigen Sieg der Kirche und damit auf eine vom katholischen Glauben bestimmte Weltordnung wurden deutlich ausgedrückt. - In seiner Weltsicht brachte er die Naturwissenschaft in eine Ordnung, die in den Decken des Kaiserappartements nicht zuletzt auch von den Bedingungen der Bildanordnung bestimmt war, ja, die Bildanordnung scheint manchmal Abbild einer höheren Ordnung zu sein (Vierschimmelsaal). Wie bei den anderen Programmen der maximilianischen Residenzausstattung waren auch hier mit Sicherheit Gelehrte am Hof und Münchner Jesuiten beteiligt, wobei namentlich auf Matthäus Rader (s.S. 209) hinzuweisen ist; doch drückte das Programm letztlich Maximilians eigene Anschauungen aus.
-<!-- citation-page-bottom: Band03-2 p333 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=18 -->
-<!-- citation-page-top: Band03-2 p334 -->
 
-<!-- header: RESIDENZ -->
 
 
 == AHNENGALERIE ==
@@ -1119,6 +1035,3 @@ AB
 
 
 == AHNENGALERIE ==
-
-
-{{End}}

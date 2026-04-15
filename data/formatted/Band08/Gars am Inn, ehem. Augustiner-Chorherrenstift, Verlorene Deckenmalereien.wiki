@@ -39,12 +39,8 @@ Bei den acht Bildern kann es sich um Darstellungen in den Gewölben gehandelt ha
 
 
 [[File:Band08_chunk003_p009_img003.jpg|thumb|2 Augustinus, 3 Petrus Lombardus, 4 Richard von St. Viktor]]
-<!-- citation-page-bottom: Band08 p117 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk003.pdf#page=10 -->
-<!-- citation-page-top: Band08 p118 -->
 
-<!-- header: GARS AM INN -->
 
 St. Thomas befindet sich heute am nördlichen mittleren Seitenaltar in der Kirche
 
@@ -105,7 +101,3 @@ Hamacher, Bärbel, Entwurf und Ausführung in der süddeutschen Freskomalerei de
 Paula, Georg, Entwurf für ein Deckenfresko bei Ruef, München, in: Antiquitäten-Zeitung Nr. 22, 1995, S. 730.
 
 Ebermann, P. Bernhard und P. Josef Stemmer, Gars am Inn (KKF Nr. 940), München und Zürich <sup>4</sup>2000. C.B.
-
-<!-- header: GRUNBACI -->
-
-{{End}}

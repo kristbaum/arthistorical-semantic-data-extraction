@@ -40,10 +40,7 @@ Die Kreuzwegbilder sind signiert: Antoni Koll, pinxit in Kipfenberg 1759.
 
 
 [[File:Band14_chunk004_p005_img001.jpg|thumb|Der Kirchenraum nach Weste.]]
-<!-- citation-page-bottom: Band14 p159 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=6 -->
-<!-- citation-page-top: Band14 p160 -->
 
 [[File:Band14_chunk004_p006_img001.jpg|thumb|A Mariä Heimsuchung (Johann Michael Franz 1778)]]
 
@@ -75,12 +72,8 @@ Sandtöne, die stellenweise zu Grün oder Blau hinüberspielen, beherrschen farb
 B MARIÄ HIMMELFAHRT Breitformatige Darstellung, dicht mit Figuren gefüllt. In einer Landschaft umstehen die zwölf Apostel den auf einem Stufenpodest stehenden Steinsar-
 
 
-<!-- citation-page-bottom: Band14 p161 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=7 -->
-<!-- citation-page-top: Band14 p162 -->
 
-<!-- header: PETTENHOFEN -->
 
 
 [[File:Band14_chunk004_p007_img001.jpg|thumb]]
@@ -105,7 +98,3 @@ Dehio OB 2006, S. 1047.
 
 
 [[File:Band14_chunk004_p007_img002.jpg|thumb|Der Apostel Johannes, Selbstbildnis Johann Michael Franz?]]
-<!-- citation-page-bottom: Band14 p163 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=8 -->
-{{End}}

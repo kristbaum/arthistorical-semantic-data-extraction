@@ -144,10 +144,7 @@ Mattaincourt 154
 Medlingen 113, 118  
 Mindelheim 171  
 
-<!-- citation-page-bottom: Band13 p457 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk010.pdf#page=5 -->
-<!-- citation-page-top: Band13 p458 -->
 
 Mitteleschenbach 280 Möckenlohe 181, 282, 284, 351-59, 451 Mörnsheim 17, 19 Monheim 77, 97, 103 Montecassino 88 Mühlhausen 172, 452 München 24, 48, 84, 113, 254, 265, 455f. Schloss Schleißheim 455 Rentamt 24, 27, 42, 45, 384 St. Nepomuk 51 Palais Törring 84 Münsterschwarzach 218, 453
 
@@ -176,5 +173,3 @@ Vohburg, Pfleggericht 327, 384, 386
 Waidhofen 18 Walting, Gemeinde 256, 380, 444, 454 Kapelle 444f. Warching 84, 453 Wasserzell 77 Weigersdorf 446–50, 454 Weißenburg 214 Wellheim 82, 180, 254, 313 Wettstetten 453 Wien 151, 456 Windberg 42 Wolferstadt 452 Worms 126, 454 Würzburg 113
 
 Zandt 70, 453 Zuchering 299, 309
-
-{{End}}

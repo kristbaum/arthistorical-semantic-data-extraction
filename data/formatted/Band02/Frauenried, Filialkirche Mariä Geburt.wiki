@@ -54,14 +54,9 @@ Die Bildfelder sind ohne verbindende Dekoration auf das Gewölbe gesetzt, nur ei
 
 
 [[File:Band02_chunk010_p024_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p497 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk010.pdf#page=25 -->
-<!-- citation-page-top: Band02 p498 -->
 
-<!-- header: FRAUENRIED -->
 
-<!-- header: FRAUENRIEI -->
 
 
 [[File:Band02_chunk010_p025_img001.jpg|thumb]]
@@ -85,14 +80,9 @@ Die Hauptpersonen dieser Szene sind in einer achsensymmetrischen Komposition ang
 
 
 [[File:Band02_chunk010_p025_img003.jpg|thumb|3 Geburt Mariens]]
-<!-- citation-page-bottom: Band02 p499 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=1 -->
-<!-- citation-page-top: Band02 p500 -->
 
-<!-- header: FRAUENRIED -->
 
-<!-- header: FRAUENRIED -->
 
 
 [[File:Band02_chunk011_p001_img001.jpg|thumb]]
@@ -136,12 +126,8 @@ Darstellung der vier Paradiesesflüsse verbunden. Eines der begleitenden Embleme
 
 
 [[File:Band02_chunk011_p001_img013.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p501 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=2 -->
-<!-- citation-page-top: Band02 p502 -->
 
-<!-- header: FRAUENRIED -->
 
 c Mein Ankunft in die Welt, Aufs beste alles bestellt. – Über den Bergen und einem waldigen Tal geht die Sonne auf, Hunde und Wild erscheinen in dieser Landschaft.
 
@@ -162,7 +148,3 @@ KDB I OB (2), S. 1452
 Dehio-Gall OB, S. 240
 
 Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.
-
-<!-- header: GOTZING -->
-
-{{End}}

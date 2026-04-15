@@ -34,13 +34,8 @@ In den beiden westlichen Zimmern dieser Raumfolge sind die alten Decken und Deck
 [[File:Band12-1_chunk006_p017_img005.jpg|thumb]]
 
 Zwei Räume im O-Flügel des N-Traktes, im ersten Geschoß (vom Schloßhof aus) gelegen. Die Zimmer sind seit der Einrichtung als Ferienheim nicht mehr miteinander verbunden. Zugang zu Raum I über den Flötz in der Mitte des N-Traktes und die dort befindliche Treppe; Zugang zu Raum II über:
-<!-- citation-page-bottom: Band12 p283 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=18 -->
-<!-- citation-page-top: Band12 p284 -->
 
-<!-- header: HOHENASCHAL -->
-<!-- header: HOHENASCHAU -->
 
 
 [[File:Band12-1_chunk006_p018_img001.jpg|thumb|Bewaffneter Reiter auf Fuchs]]
@@ -93,10 +88,8 @@ Raum I (ehem. Nebenzimmer oder Kabinett des Grafen): Für die Decke des unregelm
 
 
 [[File:Band12-1_chunk006_p018_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p285 -->
 
 
-<!-- header: HOHENASCHAU -->
 
 
 II, Herkules und Pegasus
@@ -107,12 +100,8 @@ I, HERBST: Der Putto trägt eine weitausschwingende grüne Draperie und mit beid
 
 WINTER: Der Putto trägt eine weiße Pelzdraperie aus Hermelin und eine Pelzmütze, über den Körper ein feines rotes Band. Er hält in der Linken ein Kohlebecken hoch, in der Rechten einige glimmende und rauchende Zweige.
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=19 -->
-<!-- citation-page-top: Band12 p286 -->
 
-<!-- header: HOHENASCHA -->
 
-<!-- header: HOHENASCHAU -->
 
 
 [[File:Band12-1_chunk006_p019_img001.jpg|thumb|II. Neptun und Amphitrit]]
@@ -143,5 +132,3 @@ II. HERKULES UND PEGASUS Herkules steht hochaufgerichtet, seine nackte Gestalt u
 StAM, HAA B 30: Inventar 1682; B 31: Inventar 1718; R 2640: Belege 1–182 zur Schloßrechnung Hohenaschau 1675. AEM, Nachlaß Peter von Bomhard Nr. 172: Beschreibung der Schloßräume, Vorarbeiten zu den Kunstdenkmalen.
 
 Bomhard, Bd 2, S. 363 f., 389 f. Chronik von Aschau Bd XII, Ksoll-Marcon S. 142.
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p124 -->
 
-<!-- header: ELLMOSEN -->
 
 
 == ELLMOSEN ==
@@ -42,12 +40,8 @@ Johann Baptist Böham war seit 1785 Bürger und Maler in Aibling. 1784 hatte er 
 
 
 [[File:Band12-1_chunk003_p013_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p125 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=14 -->
-<!-- citation-page-top: Band12 p126 -->
 
-<!-- header: FLLMOSEN -->
 
 
 [[File:Band12-1_chunk003_p014_img001.jpg|thumb]]
@@ -102,14 +96,9 @@ b Hirte inmitten einer Schafherde. Überschrift: Meine Schaf hören meine Stimm 
 B MARGARETA IM KERKER Bildschauplatz ist ein gewaltiges Quadergewölbe mit Pfeilen und Bögen, in perspektivischer Verkürzung mit stürzenden Linien. Margareta ist mit Ketten an einen Pfeiler gefesselt; zu ihren Füßen liegt ebenfalls an einer Kette eine gewaltig große Steinkugel. Von rechts naht sich ein riesiger feuerspeiender Drache, dem die Heilige ein Kreuz entgegenhält. Aus der Höhe des Gewölbes fällt ein Lichtstrahl auf sie.
 
 Nach Margaretas Weigerung, den Präfekten Olibrius zu heiraten, ließ dieser sie ins Gefängnis werfen: »... das ward alsbald von einem wunderbaren Glanz erleuchtet. Als sie nun daselbs war, bat sie den Herrn, daß er ihr den Feind sichtbarlich zeige der wider sie streite. Und siehe, es erschien ein ungeheure Drache; als der sich auf sie stürzte und sie wollte verschlingen machte sie das Kreuzeszeichen, und er verschwand« (LA-Benz, S. 464).
-<!-- citation-page-bottom: Band12 p127 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=15 -->
-<!-- citation-page-top: Band12 p128 -->
 
-<!-- header: ELLMOSEN -->
 
-<!-- header: ELLMOSEN -->
 
 
 [[File:Band12-1_chunk003_p015_img001.jpg|thumb]]
@@ -146,12 +135,8 @@ Nach Margaretas Weigerung, den Präfekten Olibrius zu heiraten, ließ dieser sie
 Nach vielen Martern wurde Margareta endlich enthauptet In ihrer Todesstunde versprach sie, »... welche Frau ihrer Namen in Kindsnöten anrufe, die sollte eines gesunden Kinde genesen« (LA-Benz, S. 466). Die Mutter mit Kind im Vordergrund könnte an dieses Patronat erinnern.
 
 c-d EMBLEME Die zwei Kartuschen, die D flankieren, zeigen Emblembilder mit je einer Bibelstelle als Unterschrift, und einer als Überschrift in einem Band, das über die Kartuschen verläuft. 
-<!-- citation-page-bottom: Band12 p129 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=16 -->
-<!-- citation-page-top: Band12 p130 -->
 
-<!-- header: FLIMOSEN -->
 
 
 [[File:Band12-1_chunk003_p016_img001.jpg|thumb]]
@@ -212,5 +197,3 @@ Engel, Rudolf, Land zwischen Isar und Inn, München-Zürich 1975, S. 188.
 Dehio 1990, S. 244 f.
 
 o.V., St. Margareta Ellmosen, Kirchenführer, Bad Aibling A. B.
-
-{{End}}

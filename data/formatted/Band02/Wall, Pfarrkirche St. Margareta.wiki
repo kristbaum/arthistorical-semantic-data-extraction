@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p604 -->
 
-<!-- header: WAL -->
 
-<!-- header: WALI -->
 
 Pfarrkirche Gemeinde Warngau, Erzdiözese München und Freising; z. Z. der Ausmalung der Benediktinerabtei Tegernsee inkorporiert, Klostergericht Tegernsee
 
@@ -81,9 +78,7 @@ der menschlichen Figuren wie auch in dem unvermittelten Zusammenstoßen der beid
 A OLIBRIUS WIRBT UM MARGARETA Einansichtige Darstellung, Basis im W; teilweise von der Orgel verdeckt. Vor einer italianisierenden Landschaft mit kahlen Bergen und kubusförmigen Häusern kniet Margareta auf einem seichten, rampenartigen Bodenstreifen im Vordergrund des Bildes. Der Präfekt Olibrius zu Pferde, begleitet von Soldaten, streckt werbend und fordernd zugleich seinen Befehlsstab nach ihr aus. Sein Begleiter zu Pferd zeigt dagegen in die Ferne auf das Reiseziel. Als Erwiderung auf die Werbung weist Margareta zum Himmel empor. Ein Lichtstrahl fällt aus den Wolken auf die Heilige.
 
 B MARGARETA WIRD OLIBRIUS VORGEFÜHRT Einansichtige Darstellung in extremer Untersicht, Basis im O. Schauplatz ist die Thronnische eines palastartigen Innenraumes, beherrscht von steilen Treppenaufbauten. Auf dem baldachingeschmückten Thron sitzt Olibrius, Margareta wird ihm gefesselt vorgeführt. Auf den Stufen kniet ein heidnischer Priester neben einem Räucherbecken und hält Margareta eine Jupiterstatue für den Götzendienst entgegen. Ein zweiter zeigt ihr als Alternative die offenstehende Kerkertür. – Die beiden Rückenfiguren der Priester sind farblich als dunkle Repoussoirs behandelt.
-<!-- citation-page-bottom: Band02 p605 -->
 
-<!-- citation-page-top: Band02 p606 -->
 
 [[File:Band02_chunk013_p004_img001.jpg|thumb]]
 
@@ -120,14 +115,9 @@ B MARGARETA WIRD OLIBRIUS VORGEFÜHRT Auf ihre Weigerung hin läßt Olibrius sie
 
 
 [[File:Band02_chunk013_p004_img003.jpg|thumb|E Enthauptung Margaretas]]
-<!-- citation-page-bottom: Band02 p607 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=5 -->
-<!-- citation-page-top: Band02 p608 -->
 
-<!-- header: WALL -->
 
-<!-- header: WALI -->
 
 
 [[File:Band02_chunk013_p005_img001.jpg|thumb]]
@@ -188,10 +178,7 @@ Der Turm auf dem Felsen im Wasser ist ein bekanntes Constantia-Motiv. Damit wird
 
 
 [[File:Band02_chunk013_p005_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p609 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=6 -->
-<!-- citation-page-top: Band02 p610 -->
 
 [[File:Band02_chunk013_p006_img001.jpg|thumb]]
 [[File:Band02_chunk013_p006_img002.jpg|thumb]]
@@ -222,5 +209,3 @@ KDB I OB (2), S. 1519
 Gernhardt, Ludwig, Wall bei Miesbach, in: Altheimatland. Zeitschrift für Heimatkunde, Heimat- und Naturschutz 7, 1930, Nr. 6, S. 43 f.  
 Gasteiger, Michael, Der Landkreis Miesbach, Miesbach 1953, S. 48.  
 Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.  
-
-{{End}}

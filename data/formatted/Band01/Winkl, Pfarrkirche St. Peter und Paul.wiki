@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p282 -->
 
-<!-- header: WINKL -->
 
 Pfarrkirche, Gemeinde Prittriching, Diözese Augsburg; von 1621 bis zur Aufhebung des Ordens besaßen die Jesuiten von Landsberg am Lech das Patronatsrecht, sie waren auch die Inhaber der Hofmarksrechte von Winkl
 
@@ -65,14 +63,9 @@ Ein bühnenmäßiger Architekturaufbau schließt die Szene nach hinten ab. Hinte
 
 C RÜCKKEHR DER HL. FAMILIE AUS ÄGYPTEN (vgl. Mt 2,19-23) In eine bergige Landschaft - Palmen deuten den Schauplatz Ägypten an - ist bühnenartig ein Stufenpodest mit einer Brüstung und einer Statue gesetzt. Am Rande des Podestes schreitet die hl. Familie entlang. Joseph, bepackt mit den Geräten seines Zimmermannhandwerkes, faßt die Hand des Jesusknaben, Maria – in wehendem Mantel und nimbusähnlichem Reisehut – folgt, den
 
-<!-- citation-page-bottom: Band01 p283 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=18 -->
-<!-- citation-page-top: Band01 p284 -->
 
-<!-- header: WINKL -->
 
-<!-- header: WINK -->
 
 
 [[File:Band01_chunk006_p018_img001.jpg|thumb]]
@@ -111,12 +104,8 @@ f STEINIGUNG PAULI ZU LYSTRA (Act 14,18) Männer umkreisen mit erhobenen Steinen
 g Das Kartuschenfeld über der Kanzel gehört nicht zum Pauluszyklus, es zeigt eine schlecht erhaltene malerische Landschaft mit Sonne (die neuere Inschriftkartusche davor gehört zum Schalldeckel der Kanzel). Vielleicht ist die Sonne emblematisch auf das Wort Gottes – das Licht Gottes (vgl. Jo 1,1), das von der Kanzel verkündet wird – zu beziehen.
 
 h SCHIFFBRUCH VOR MALTA (Act 27,39–44) Paulus, auf einem Brett von dem sturmgepeitschten Meer an Land getragen, wendet sich dankbar zum Himmel empor, zu seinen Seiten einige der mit ihm geretteten Männer vom Schiff. Das gestrandete Schiff wird hinter ihnen in den Wellen sichtbar.
-<!-- citation-page-bottom: Band01 p285 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=19 -->
-<!-- citation-page-top: Band01 p286 -->
 
-<!-- header: WINKI -->
 
 i DAS SCHLANGENWUNDER AUF MALTA (Act 28,3-6) Beim Einlegen von Reisern ins Feuer ist Paulus eine Otter an die Hand gefahren. Ein Einwohner der Insel fällt vor Paulus auf die Knie und weist in lebhafter Gebarde auf die anderen Reisigsammler. (Die Schlange vermochte nach dem biblischen Bericht Paulus nichts anzutun.)
 
@@ -139,5 +128,3 @@ Auf die 1686 eingeführte Bruderschaft vom hl. Wandel Jesu, Maria und Joseph mit
 
 
 Braun-Augsburg, Bd 1, S. 403. Steichele-Schröder, Bd 2, S. 556–60. KDB I OB (1), S. 559 f. Kunstdenkmale in Stadt und Bezirk (o.V.), in: Landsberger Geschichtsblätter 10, 1911, S. 27. Dehio-Gall, OB (1964), S. 280. Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 671 f. Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 112, 191.
-
-{{End}}

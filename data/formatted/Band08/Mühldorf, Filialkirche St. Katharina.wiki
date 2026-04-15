@@ -34,14 +34,9 @@ Inschrift am Chorbogen Renoviert / Anno 1756. Die Fresken zeigen überzeugende �
 
 
 [[File:Band08_chunk004_p015_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band08 p179 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=16 -->
-<!-- citation-page-top: Band08 p180 -->
 
-<!-- header: MUHLDORF -->
 
-<!-- header: MUHLDOR -->
 
 
 [[File:Band08_chunk004_p016_img001.jpg|thumb]]
@@ -71,14 +66,9 @@ Erhaltungszustand und Restaurierungen: 1913 Innenrestaurierung geplant, 1928 Fre
 
 
 [[File:Band08_chunk004_p016_img002.jpg|thumb|B Mystische Vermählung der hl. Katharina]]
-<!-- citation-page-bottom: Band08 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band08 p182 -->
 
-<!-- header: MÜHLDOR -->
 
-<!-- header: MUHLDORF -->
 
 
 [[File:Band08_chunk004_p017_img001.jpg|thumb]]
@@ -108,6 +98,3 @@ Literatur KDB I OB (3), S. 2200–03. Mayer-Westermayer, Bd 2, S. 137 f. Dehio 1
 
 
 == Maria Eich Kapelle ==
-
-
-{{End}}

@@ -55,10 +55,7 @@ Verbleib: Die Ausmalung ging offenbar im Zusammenhang mit der Säkularisierung d
 == Rekonstruierte Bildabfolge (nach einer Kupferstichserie) ==
 
 Der gesamte Freskenzyklus ist in einer Kupferstichfolge von Michael Wening (1707) überliefert. Das Titelkupfer lautet: »Geburt, Leben, und über grosse Wunderwerch deß Heiligen Vatters Francisci de Paula Ordens=Stiffter der Mindesten Brüder. Wie solches in dem Hochlöbl Closter R. R. P. P. Paulaner zu Neudeck ob der Au, nechst München kunstreich gemahlet zu sehen ist. Verlegt, in Kupfer gestochen und z finden, in München, bey Michael Wening, Portier und Kupferstecher, A 1707.« Obgleich in den literarischen Quellen (s. Autor) nicht ausdrücklich
-<!-- citation-page-bottom: Band03-1 p269 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=11 -->
-<!-- citation-page-top: Band03-1 p270 -->
 
 [[File:Band03-1_chunk006_p011_img001.jpg|thumb]]
 [[File:Band03-1_chunk006_p011_img002.jpg|thumb|1 Teufelsaustreibung]]
@@ -100,14 +97,9 @@ imponitur et a celebri oppido cosentinensis diaece sis de Paula nunc patur.«
 [[File:Band03-1_chunk006_p011_img017.jpg|thumb]]
 [[File:Band03-1_chunk006_p011_img018.jpg|thumb|Wunderbare Baumteilung]]
 
-<!-- citation-page-bottom: Band03-1 p271 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=12 -->
-<!-- citation-page-top: Band03-1 p272 -->
 
-<!-- header: PAULANERKLOSTER AM NEUDECK -->
 
-<!-- header: PAULANERKLOSTER AM NEUDECK -->
 
 [[File:Band03-1_chunk006_p012_img001.jpg|thumb]]
 
@@ -132,7 +124,6 @@ imponitur et a celebri oppido cosentinensis diaece sis de Paula nunc patur.«
 [[File:Band03-1_chunk006_p012_img011.jpg|thumb]]
 
 [[File:Band03-1_chunk006_p012_img012.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p273 -->
 
 
 == PAULANERKLOSTER AM NEUDECK ==
@@ -298,10 +289,7 @@ de Paula hatte Giulio della Rovere, Kardinal von S. Pietro a vinculo,
 omnes peste infectos.«  
 24 WIEDERBELEBUNG EINES ERFRORENEN Vor dem Kloster
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=13 -->
-<!-- citation-page-top: Band03-1 p274 -->
 
-<!-- header: PAULANERKLOSTER AM NEUDECK -->
 
 
 [[File:Band03-1_chunk006_p013_img001.jpg|thumb|32 Engelserscheinung]]
@@ -352,10 +340,3 @@ Mayer-Westermayer, Bd 2, S. 461–63.
 Backmund, Norbert, Die kleineren Orden in Bayern und ihre Klöster bis zur Säkularisation, Kloster Windberg 1974, S. 81/82.
 
 E.-G. B.
-<!-- citation-page-bottom: Band03-1 p275 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=14 -->
-<!-- citation-page-top: Band03-1 p276 -->
-
-<!-- header: REGISTER -->
-{{End}}

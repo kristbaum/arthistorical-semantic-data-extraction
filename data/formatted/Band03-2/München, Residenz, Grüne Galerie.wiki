@@ -41,10 +41,7 @@ Rahmen: Stuckornamentrahmen (Johann Baptist Zimmermann)
 Technik: Originale Ausstattung Fresko (?); polychrom, jetziges Deckenbild Öl auf Leinwand, polychrom
 
 Maße: Raumhöhe 7,40 m; A (zerstört) 4,50 × 6,70; B und C (zerstört) 4,60 × 3,10; jetziges Deckenbild 3,00 × 3,4
-<!-- citation-page-bottom: Band03-2 p339 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=21 -->
-<!-- citation-page-top: Band03-2 p340 -->
 
 == A Allegorie der Malerei, Ausschnitt O-Seite (vor der Zerstörung) ==
 
@@ -72,14 +69,9 @@ B ALLEGORIE DER BILDHAUEREI (zerstört, Vorkriegsphoto) Ein Genius meißelt am S
 »In den driten Theil befindet sich der Genius von Baiern, welcher gleichsam zur Unsterblichkeit des durchleüchtigsten Churhauses Baiern dessen Wappen in einen Marmor Stein schildert« (Faßmann, fol. 9f.).
 
 C ALLEGORIE DER ARCHITEKTUR (zerstört, keine Abb.) »Albrecht: In den zweyten Theil beeyfert sich die Pallas, dem durchleichtigsten Chur Prinzen in der Kriegs Bau-Kunst zu unterrichten« (Faßmann, fol. 9).
-<!-- citation-page-bottom: Band03-2 p341 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=22 -->
-<!-- citation-page-top: Band03-2 p342 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: PRUNKTREPPENHAUS -->
 
 Ergänzungen zur Ikonographie: Die ›Grüne Galerie‹ war zur Aufnahme der Kurfürstlichen Gemäldesammlung bestimmt; der Malerei wird im Programm deshalb in der Hierarchie der Künste der bevorzugte Platz eingeräumt. Die verschiedenen Phasen der Entstehung eines Gemäldes werden dabei in die allegorische Handlung einbezogen: Farbenreiben, Zeichnen, Entwurf und Vollendung eines Bildes.
 
@@ -128,5 +120,3 @@ Bachter, Falk, Balthasar Augustin Albrecht, München 1981, S. 84 f.
 Brunner/Hojer/Seelig 1986, S. 80-85, und Abb. 21. F.B.
 
 PRUNKTREPPENHAUS
-
-{{End}}

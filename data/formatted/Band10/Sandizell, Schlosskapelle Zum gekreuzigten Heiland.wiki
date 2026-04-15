@@ -12,7 +12,6 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band10 p266 -->
 
 == Schloßkapelle Filialkirche der Pfarr- und Hofmarkskirche St. Peter ==
 
@@ -39,14 +38,9 @@ Die Arbeiten sind weder signiert noch datiert. Bisher wurden die Fresken Baldauf
 
 
 [[File:Band10_chunk006_p008_img001.jpg|thumb|A Himmelfahrt Christi]]
-<!-- citation-page-bottom: Band10 p267 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=9 -->
-<!-- citation-page-top: Band10 p268 -->
 
-<!-- header: SANDIZEL -->
 
-<!-- header: SANDIZELL -->
 
 für 4 Maurer Tag 1 fl. 12 kr.« (StAM, Schloßarchiv Sandizell, Okonomie 342, fol. 6 v, 5). Das bedeutet, daß nach Aufbringen des Putzes durch die Maurer bereits ab Juni 1756 freskiert werden konnte. Baldauf malte für die Kapelle zwei Fresken und die Darstellungen am Hochaltar.
 
@@ -81,17 +75,12 @@ Sitzend und ähnlich gewandet wie bei Baldauf in Sandizell ist Dionysius zu sehe
 Dionysius (gest. um 95), Martyrer und Bischof, war Mitglied des Areopags in Athen und wurde durch die Predigten, die der Apostel Paulus in der Stadt hielt, zu Jesus bekehrt (Act 17, 34). Dionysius war im Mittelalter berühmt wegen seiner Schriften, die heute jedoch nicht mehr ihm, sondern einem Pseudo-Dionysius zugeschrieben und in das 5. Jahrhundert datiert werden (LThK<sup>2</sup>, Bd 3, Sp. 402 f.). 1634 erschien in Antwerpen die zweibändige Hauptausgabe dieser Schriften- inklusive der zehn Briefe- ediert von Balthasar Corderius SJ in Griechisch und Latein ('Opera S. Dionisii Areopagitae ... mit einem von Rubens entworfenen Bildnis des Heiligen als Titel, gestochen von Cornelius Galle, 1632). Diese Ausgabe wurde 1755 in Venedig mit vermehrtem Apparat wieder abgedruckt und in dieser Form 1857 in die PG, Bd 3 und 4, aufgenommen.
 
 Der siebente Brief des Dionysius an den Bischof Polycarp von Smyrna (PG, Bd 3, Sp. 1077–1082, Epistola VII, Polycarpo Antistiti) bildet die Grundlage für den Inhalt der Szene. Darin ist die »unnatürliche seltsame« (prodigiosa) Sonnenfinsternis beschrieben, die Dionysius zusammen mit dem Philosophen Apollophanes nahe der Stadt Heliopolis in Ägypten zum Zeitpunkt der Kreuzigung Christi beobachtet hatte. Laut Kommentar des Balthasar Corderius (PG, Bd 3, Sp. 1083–1084) war Dionysius durch dieses Erlebnis so stark beeindruckt, daß er sich zu Christus bekehrte. Es heißt dort: »Viso hoc solis deliquio Dionysius, adhuc ethnicus, dixisse fertur: >Aut Auctor naturae patitur, aut mundi machina dissolvetur« (nachdem er diese Sonnenfinsternis gesehen hatte, soll Dionysius, der bis dahin Heide war, gesagt haben: Entweder leidet der Schöpfer der Natur oder die Maschinerie der Welt löst sich auf). Dies entspricht der Inschrift des Sandizeller Freskos, nur das Wort Auctor ist durch Deus ersetzt. Baldaufs Fresken in der Schloßkapelle bilden zusammen mit dem vorwiegend figürlich gestalteten Hochaltar ein christologisches Gesamtprogramm.
-<!-- citation-page-bottom: Band10 p269 -->
 
 
 [[File:Band10_chunk006_p009_img001.jpg|thumb|EU Der hl. Dionysius Areopagita als Astronom]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=10 -->
-<!-- citation-page-top: Band10 p270 -->
 
-<!-- header: SANDIZELL -->
 
-<!-- header: CHROBENHAUSEN -->
 
 
 == Quellen und Literatur ==
@@ -144,5 +133,3 @@ Mixa, Walter, Die Asamkirche in Sandizell, in: Schrobenhausener Kulturschätze. 
 24 ), 2 40144 - //2, 01 - 20 - 301 Dischinger, Gabriele (Hg.), Johann Michael Fischer 1692-1766. Bd 2. Tübingen-Berlin 1997. S. 330.
 
 RC
-
-{{End}}

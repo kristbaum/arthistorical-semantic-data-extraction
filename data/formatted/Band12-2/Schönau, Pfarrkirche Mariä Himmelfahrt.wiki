@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p472 -->
 
-<!-- header: SCHONAL -->
 
 
 == <b>SCHONAU</b> ==
@@ -72,9 +70,7 @@ A<sub>b</sub> Lilienähnliche Blüte auf Postament. Inschrift fehlt. Auch die Li
 B VERKUNDIGUNG In einem Innenraum mit hochgeraffter Draperie links und Balustrade rechts kniet Maria, über Stufen erhöht, an ihrem Betpult. Zwei Putten im Vordergrund bringen ihr eine Blumengirlande dar. Maria blickt zum Engel auf, der auf Wolken von rechts in den Raum schwebt und zum Himmel weist. In der Linken hält er die Lilie. Zuoberst erscheint die Taube des Heiligen Geistes und sendet einen Strahl auf Maria.
 
 B<sub>a</sub> Foecunda ex Alto (Vom Himmel fruchtbar gemacht) Perle in der geöffneten Muschel am Meeresufer. Dieses häufig verwendete Emblem bezieht sich auf die Mutterschaft Mariens: »Opportuno hoc Emblemate Virginis sanctissimae uterum significare licet, in quo, superna Spiritus S. virtute Verbum Divinum cum humana natura hypostatice fuit unitum« (Picinelli, Lib. XII, Nr. 237, s.v. margaritha; s. auch
-<!-- citation-page-bottom: Band12 p473 -->
 
-<!-- citation-page-top: Band12 p474 -->
 
 [[File:Band12-2_chunk004_p013_img001.jpg|thumb|Ostliche Langhausjoche mit D Geburt Christi, D. Spiegel, D. Morgenröte, E Namen Mariä von Engeln verehrt, E. Himmelspforte, E. Dornbusch]]
 
@@ -88,7 +84,7 @@ C<sub>a</sub> Fruchtbeladener Baum (Lemma zerstört). Dieses Symbol wird in der 
 
 (Schön wie der Mond, schrecklich wie eine geordnete Schlachtreihe). Vollmond zwischen Sternen am nächtlichen Himmel. In einer weiten Landschaft eine Burg. Die Inschrift ist ein Teil eines Verses aus dem Hohenlied (cant 6,9): »Quae est ista, quae progreditur quasi aurora consurgens, pulchra ur luna, electa ut sol, terribilis ut cas
 
-D GEBURT CHRISTI In der Mitte des Bildes steht die<br>Krippe mit dem Jesusknaben. Maria beugt sich von links über<br>das Kind, die Arme anbetend über der Brust gekreuzt. Joseph<br>ist hinter ihr zu sehen. Zwei große Engel knien anb
+D GEBURT CHRISTI In der Mitte des Bildes steht die Krippe mit dem Jesusknaben. Maria beugt sich von links über das Kind, die Arme anbetend über der Brust gekreuzt. Joseph ist hinter ihr zu sehen. Zwei große Engel knien anb
 
 
 [[File:Band12-2_chunk004_p013_img002.jpg|thumb]]
@@ -110,12 +106,8 @@ E<sub>b</sub> Rubum, quem viderat Moyses incombustum! (Dornbusch, den Moses unve
 
 F HIMMELFAHRT UND KRÖNUNG MARIÄ Das Hauptbild füllt mit der üppigen ornamentalen Rahmenzone die gesamte Gewölbefläche des AR. Um das eigentliche Bild verläuft ein Stuckprofilrahmen. Außerhalb dieses Rahmens ziehen sich an der N- und S-Seite gemalte Balustraden, unterbrochen jeweils in den Seitenmitten durch ornamental gerahmte Bildkartuschen (F<sub>a-b</sub>), deren Fuß auf dem Gebäll aufsitzt. Der Rest der Gewölbefläche wird von Akanthusrah-
 
-<!-- citation-page-bottom: Band12 p475 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=14 -->
-<!-- citation-page-top: Band12 p476 -->
 
-<!-- header: SCHÖNAU -->
 
 
 [[File:Band12-2_chunk004_p014_img001.jpg|thumb|F Himmelfahrt und Krönung Mariä, F. Patrona Bavariae, F. Rosenkranz als Schutz.]]
@@ -158,7 +150,3 @@ Engel, Rudolf, Land zwischen Isar und Inn, München-Zürich 1975, S. 394.
 Historischer Atlas I, Bd 48 Gericht Schwaben-Ebersberg (Gottfried Mayr), München 1989, S. 339. Dehio 1990, S. 1083 f.
 
 AR
-<!-- citation-page-bottom: Band12 p477 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=15 -->
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band10 p120 -->
 
-<!-- header: LANGENMOSEN -->
 
 
 == LANGENMOSEN ==
@@ -42,14 +40,9 @@ Wie in Maria Beinberg (S. 130) bezeichnet sich Baldauf auch hier als Hofmaler de
 
 
 [[File:Band10_chunk003_p010_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p121 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=11 -->
-<!-- citation-page-top: Band10 p122 -->
 
-<!-- header: IANGENMOSEN -->
 
-<!-- header: LANGENMOSEN -->
 
 Chronogramm ebenfalls die Jahreszahl 1780: Ihr Christliche SeeLen / RVhMet EVCh Iezt In NIChts / aLs Im CreVtz IesV ChristI / Paul: ad Galat / C: V (bezieht sich auf Gal 6,14).
 
@@ -85,12 +78,8 @@ Ein Wiesenstreifen mit verstreut herumliegenden Muscheln, Krebsen und Schneckenh
 
 
 [[File:Band10_chunk003_p011_img001.jpg|thumb|Berufung des Andreas]]
-<!-- citation-page-bottom: Band10 p123 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=12 -->
-<!-- citation-page-top: Band10 p124 -->
 
-<!-- header: LANGENMOSEN -->
 
 
 [[File:Band10_chunk003_p012_img001.jpg|thumb]]
@@ -111,10 +100,7 @@ A AUGUSTINUS hält mit der Rechten ein flammendes Herz vor seiner Brust; Mitra u
 
 
 [[File:Band10_chunk003_p012_img005.jpg|thumb|A, Gregor]]
-<!-- citation-page-bottom: Band10 p125 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=13 -->
-<!-- citation-page-top: Band10 p126 -->
 
 == GLORIE DES APOSTELS ANDREAS ==
 
@@ -153,10 +139,7 @@ Taubenschlag
 [[File:Band10_chunk003_p013_img011.jpg|thumb|10 Adler]]
 
 9 Waag
-<!-- citation-page-bottom: Band10 p127 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=14 -->
-<!-- citation-page-top: Band10 p128 -->
 
 [[File:Band10_chunk003_p014_img001.jpg|thumb]]
 [[File:Band10_chunk003_p014_img002.jpg|thumb]]
@@ -193,8 +176,3 @@ Reischl, Georg August, Tausendjähriges Sandizell. München 1950, S. 69, 87f, 12
 Historischer Atlas Schrobenhausen, S. 40, 65, 113. Biron von Curland, S. 29–32, 49, 84–86, 192, Anm. 38 und 41. Pötzl II, S. 92. Dehio 1990, S. 584.
 
 Altmann, Lothar, Zwei Inchenhofener Künstler: Friedrich Schwerdtfiehrer und Ignaz Baldauf, in: Inchenhofen. Wallfahrt, Zisterzienser und Markt, hg. von Wilhelm Liebhart, Sigmaringen 1992, S. 447, 451. Saur Bd 6, 1992, s.v. Baldauf, dt. Maler-Familie, 3. Ignaz, S. 406f. (Jürgen Tiede)
-
-<!-- citation-page-bottom: Band10 p129 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk003.pdf#page=15 -->
-{{End}}

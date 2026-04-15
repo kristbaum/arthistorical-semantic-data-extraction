@@ -20,14 +20,9 @@
 '''Zum Bauwerk:''' 1721 Gründung einer Niederlassung der Englischen Fräulein von München aus, gefördert von Kurfürst Max Emanuel. Zunächst bestand nur eine Hauskapelle. Am 16. 3. 1734 beantragte die Oberin in München und in Salzburg den Bau einer Kirche mit der Begründung, alle anderen Marianischen Institute haben bereits eine, und sie haben die Gelegenheit, ein an das Institut angrenzendes Anwesen käuflich zu erwerben. »Als gereicht an Euer H. G. mein fußfällig demiettigistes Bitten, mir zu gestatten, ein dem Heil. Nährvater Joseph widtmendes Kürchlein aufzurichten, selbes mit dreien Altären auszurichten wie nitweniger darunder eine sogenante Sepultice zu Beerdigung deren abgeleibten Intitutsmitglieder verförtigen zulassen.« Zum Consens des Salzburger Konsistoriums am 28.6. 1734 kam am 9.7. 1734 die Genehmigung Kurfürst Karl Albrechts mit der Bedingung, daß die Heilige Kapelle in keiner Weise gottesdienstlich oder finanziell benachteiligt werde (BHStA, GL 3108 Nr. 48). Grundsteinlegung am 4.8. 1735 durch Propst Gelasius Ludwig von Gars, Vollendung des Baus und Benedizierung im Oktober 1737; feierliche Weihe 3.5. 1765 durch Sigismund Graf von Schrat tenbach, Fürsterzbischof von Salzburg (Weihetafel an der linken Wand der Vorhalle).
 
 Eintrag am Tag der Grundsteinlegung in der Institutschronik: »Paudirector in disen Kürch Pau ist der wohledle Herr Augu stin Widtmann, Maurermaister Joseph Leprer Pallier« (frdl. Mitteilung M. Winefried Leeb IBMV). Ein Maurermeister Augustin Widtmann ist unbekannt. Mit Bauangelegenheiten befaßt war der Sekretär Augustin Widmann in Tüßling, der au
-<!-- citation-page-bottom: Band09 p23 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=13 -->
-<!-- citation-page-top: Band09 p24 -->
 
-<!-- header: ALTOTTING -->
 
-<!-- header: ALTOTTIN -->
 
 
 [[File:Band09_chunk001_p013_img001.jpg|thumb]]
@@ -59,12 +54,8 @@ Erhaltungszustand und Restaurierungen: In den KDB steht über die Deckenmalereie
 
 
 [[File:Band09_chunk001_p013_img003.jpg|thumb|Die Institutskirche]]
-<!-- citation-page-bottom: Band09 p25 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=14 -->
-<!-- citation-page-top: Band09 p26 -->
 
-<!-- header: ALTOTTING -->
 
 technik erneuert; an den Deckengemälden wurde die alte Freskomalerei mit Saxoniabeize freigelegt und ausgebessert. Über dem Hauptaltar wurde anstelle eines Herz-Jesu-Symbols die Inschrift »Confitemini domino quoniam bonus, quoniam in aeternum misericordia eius« angebracht (nicht erhalten). Die Leitung der Restaurierung hatte Architekt Kurz, Augsburg, die Malerarbeiten besorgte die Fa. Vitzthum und Schlee, Altötting. 1963 und 1986/87 Innenrestaurierungen durch Fa. Schlee, Altötting. Die Deckenmalereien wurden trocken mit »Wishab« gereinigt, einige Risse mit Kalkmörtel geschlossen und die Schäden auf Kalk mit Aquarellfarben eingestimmt. Unter sechs Stuckfassungen wurde die originale Tönung gesucht. Der ungefaßte Stuck war ziemlich verstaubt, woraus man folgern kann, daß die erste Farbfassung nicht zur Entstehungszeit, sondern einige Zeit später aufgetragen wurde. Sie war in leuchtendem Ocker, warmem Rosa und vermutlich drei Grautönen. Die Stuckaturen wurden entsprechend der Erstfassung von Stuckator Hans Zerle, Bad Reichenhall, restauriert. Die Deckengemälde wirken unverhältnismäßig dunkel und teilweise deutlich übermalt. Der persönliche Stil des barocken Malers ist am ehesten im Hauptfresko A zu erkennen.
 
@@ -114,10 +105,7 @@ Thematisch gehört das Altarbild mit der Heiligen Familie zum Bildprogramm. Mari
 
 
 [[File:Band09_chunk001_p014_img006.jpg|thumb|Tod Josephs]]
-<!-- citation-page-bottom: Band09 p27 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=15 -->
-<!-- citation-page-top: Band09 p28 -->
 
 
 == ALTOTTING ==
@@ -162,5 +150,3 @@ C.B.
 
 
 Pfarrkirche Mariä Himmelfahrt. Ehemaliges Beinhaus S. 38
-
-{{End}}

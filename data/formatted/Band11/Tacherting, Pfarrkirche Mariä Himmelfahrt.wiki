@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p166 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · TACHERTING -->
 
 
 == TACHERTING ==
@@ -46,14 +44,9 @@ Das LHs zeigt sich heute als überkuppelter Quadratraum, folgend auf ein dreisch
 
 
 [[File:Band11_chunk004_p009_img003.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band11 p167 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk004.pdf#page=10 -->
-<!-- citation-page-top: Band11 p168 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · TACHERTING -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · TACHERTIN -->
 
 weil Johann Andreas Pracher (1764–99) hinausgezögert; erst 1772 fand ein Umbau mit geringfügiger Erweiterung durch eine Veränderung der Empore statt. (Emertsham wurde wie Peterskirchen und Deinting im 19. Ih. regotisiert.)
 
@@ -91,10 +84,7 @@ KÖNIGIN DER BEKENNER In der Hauptansicht sind unter dem Engel mit der Krone zwe
 
 
 [[File:Band11_chunk004_p010_img001.jpg|thumb|Maria, Königin der Engel, der Propheten und der Bekenner, Ostseite des Kuppelfreskos]]
-<!-- citation-page-bottom: Band11 p169 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk004.pdf#page=11 -->
-<!-- citation-page-top: Band11 p170 -->
 
 LANDKREIS TRAUNSTEIN – TACHERTING
 
@@ -103,15 +93,11 @@ LANDKREIS TRAUNSTEIN – TACHERTING
 
 
 [[File:Band11_chunk004_p011_img002.jpg|thumb|Maria, Königin der Märtyrer, der Apostel und der Jungfrauen, Südseite des Kuppelfreskos]]
-<!-- citation-page-bottom: Band11 p171 -->
 
 
 LANDKREIS TRAUNSTEIN : TACHERTING
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk004.pdf#page=12 -->
-<!-- citation-page-top: Band11 p172 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · TACHERTING -->
 
 [[File:Band11_chunk004_p012_img001.jpg|thumb|Maria als Himmelskönigin und die Heiligen Ursula von Köln, Margareta und Johann Nepomuk, Westseite des Kuppelfresko]]
 
@@ -137,14 +123,9 @@ Am nördlichen Bildrand folgt auf die Gruppe von Ambrosius und Rupert nun eine S
 
 In der Ansicht nach Westen beherrschen drei große Figuren den Kuppelrand: Es ist zunächst Johann Nepomuk, Chorherr von St. Veit in Prag, auch er Märtyrer. Er trägt über dem violetten Talar das weiße spitzenbesetzte Chorhemd und um die Schultern das Almutium aus Pelz; in der Linken hält er das violette Birett. Sein Haupt ist von Sternen umgeben, er blickt auf einen Kruzifixus in seiner Rechten. Im Hintergrund ist eine jugendliche weibliche Heilige dargestellt, die eine Märtyrerpalme in Händen hält.
 
-<!-- citation-page-bottom: Band11 p173 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band11 p174 -->
 
-<!-- header: I ANDKREIS TRAUNSTEIN · TACHERTING -->
 
-<!-- header: LANDKREIS TRAUNSTEIN . TACHERTING -->
 
 Die hl. Margareta von Antiochien, reizvolle Figur in goldfarbenem Kleid mit hellblauer Draperie, hält die Drachenhalskette in der Hand. In der Mitte steht Margareta mit hocherhobenem Kreuz, das blonde Haar mit einem rosa Schleier hochgesteckt. Links von ihr ist Ursula von Köln zu sehen, die nach oben blickt und den Pfeil, ihr Attribut, hocherhoben hält. Sie trägt eine Krone und eine große Fahne in der Linken. Beide sind Jungfrauen und Märtyrinnen.
 
@@ -178,5 +159,3 @@ Dehio 1990, S. 1145
 Goerge, Dieter, Johann Nepomuk della Croce 1736–1819. Leben und Werk, Burghausen 1998. Franz Joseph Soll S. 312 f. Weichslgartner, Alois J., Trostberger Rokoko. Ein regionales Kunstzentrum im Chiemgau, Trostberg 1998. Franz Joseph Soll S. 35–66, Tacherting S. 58, Abb. S. 49.
 
 == Friedhofskapelle ==
-
-{{End}}

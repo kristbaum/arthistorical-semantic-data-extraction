@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p262 -->
 
 == RIDING ==
 
@@ -48,12 +47,8 @@ Wer Stuckierung und Freskierung bezahlte, ist nicht mehr zu klären; der Hofmark
 Pletzger (auch Plazger, Plätzger usw.) wurde am 26.7.1665 in Berchtesgaden als Sohn des Gärtners Johann Balthasar Pletzger und der Justina Schilling geboren (AEM, Matrikeln Berchtesgaden). 1685 wird er als Malergeselle in Berchtesgaden genannt (Franz Martin, Berchtesgaden, Augsburg 1923, S. 36 Plazger). Damals war er zwanzigjährig. Von seiner Ausbildung ist nichts bekannt. Er heiratete spätestens 1696 Christina Walch und bekam das Bürgerrecht in Landshut am 7.6.1698 Nach seinem Tod am 13.7.1722 in Landshut führte zunächst die Witwe die Werkstatt weiter, 1724 heiratete die Tochter Maria Franziska den Maler Joseph Anton Abfalter.
 
 Pletzgers Hauptwerk war die Ausmalung der Wallfahrtskirche Maria-Hilf und der Stationskapellen in Vilsbiburg 1701/04 (nicht erhalten). Sechs Altarblätter von seiner Hand befanden sich laut Meidinger in Landshut (davon ist keines mehr vorhanden, s. Markmiller, S. 254). Erhalten sind zwei Altarblätter in Rohr, Glorie des hl. Joseph, bez. 1721, und Schutzengel, bez. 1722, außerdem das Hochaltarblatt in Högldorf, St. Martin, bez. 1720 (zu Pletzger s. Markmiller, S. 254; Liedke, S. 28f. und S. 80; Lambert Grasmann, Die Kirchenrechnungen von Maria-Hilf in Vilsbiburg, in: Der Storchenturm 40, 1985, S. 111 f.).
-<!-- citation-page-bottom: Band07 p263 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=8 -->
-<!-- citation-page-top: Band07 p264 -->
 
-<!-- header: RIDING -->
 
 
 == Befund ==
@@ -91,12 +86,8 @@ C GLORIE DES HL. JOSEPH In einer lichten Himmelsszene sitzt der hl. Joseph auf t
 
 
 [[File:Band07_chunk006_p008_img001.jpg|thumb|Das Langhausgewölbe mit A Tod Josephs, B Joseph mit Maria und den Kirchenpatronen als Fürbitter, und den Begleitfresken 3–4, 11–12]]
-<!-- citation-page-bottom: Band07 p265 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=9 -->
-<!-- citation-page-top: Band07 p266 -->
 
-<!-- header: RIDING -->
 
 
 [[File:Band07_chunk006_p009_img001.jpg|thumb]]
@@ -167,10 +158,7 @@ Joseph wird hier in seiner Stellung zur himmlischen Trinität gezeigt, als Besch
 7 DARBRINGUNG IM TEMPEL (Lc 2,22-28) Tempelraum. Von links kommen vier Personen. Maria geht voran und trägt zwei weiße Tauben in einem Ställchen. Joseph trägt das Kind Jesus. Dahinter kommen ein bärtiger Mann und eine Frau, in denen man den greisen Simeon und die Prophetin Hannah vermuten kann. »Und als die Tage ihrer (Marias) Reinigung nach dem Gesetz des Moses vollendet waren, brachten sie ihn (Jesus) hinauf nach Jerusalem, um ihn dem Herrn darzustellen... und um ein Opfer zu bringen, nach der Vorschrift
 
 
-<!-- citation-page-bottom: Band07 p267 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=10 -->
-<!-- citation-page-top: Band07 p268 -->
 
 == RIDING ==
 
@@ -189,12 +177,8 @@ Der vereinfachte Bildtyp des Heiligen Wandels ohne Gottvater und Hl. Geist tritt
 Das ausführliche Josephsprogramm in Riding ist bei einer Landkirche dieser Zeit ungewöhnlich. Der Josephskult war in Altbayern erst in der zweiten Hälfte des 17. Jh. aufgeblüht. Sowohl der Orden der Jesuiten als auch der der Karmeliten förderten den neuen Kult nach Kräften, die Jesuiten propagierten die Bruderschaft des hl. Wandels Jesus, Maria und Joseph (Isen 1660, Weihenlinden 1664, München Josephspital 1676), die Karmeliten die Josephsbruderschaft (1663 München, Karmeliterkirche, 1664 Abensberg, 1681 Altötting, 1724 Riding, s. Josef Krettner, Erster Katalog von Bruderschaften in Bayern, München-Würzburg 1980). Kurfürst Ferdinand Maria ernannte 1664 den hl. Joseph feierlich zum Schutzherrn des Kurhauses und Patron Bayerns. Zunächst blieb der neue Kult eher eine Devotion des Adels und der Gebildeten als des einfachen Volkes, wurde jedoch im Laufe des 18. Jh. populärer, bis er im 19. Jh. eine Blütezeit erlebte. Wichtig für die Popularität des Josephskults war das Buch des Jesuiten P. Michael Frie, »Vita S. Josephi Jesu Nutritii et Deiparae Sponsi ...«.
 
 [[File:Band07_chunk006_p010_img001.jpg|thumb|Glorie des hl. Joseph, 1 Vermählung (oben)]]
-<!-- citation-page-bottom: Band07 p269 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=11 -->
-<!-- citation-page-top: Band07 p270 -->
 
-<!-- header: RIDING -->
 
 (München 1678), in dem eindringlicher als vorher das Glück vergegenwärtigt wurde, das trotz Mühen und Entsagung dem hl. Joseph durch die enge Gemeinsamkeit mit dem Gotteskind beschert war.
 
@@ -258,6 +242,3 @@ Historischer Atlas I, Bd 58, Erding (Susanne Margarethe Herleth-Krentz) 1997, S.
 
 
 == SALMANNSKIRCHEN ==
-
-
-{{End}}

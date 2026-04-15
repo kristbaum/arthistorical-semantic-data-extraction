@@ -27,12 +27,8 @@ Zentralisierende Anlage; quadratischer Hauptraum mit flachbogig gerundeten Ecken
 '''Autor und Entstehungszeit:''' Franz Joseph Degle (* 1724 Augsburg † 1812 Augsburg) 1755. Signatur in A F. J. Degle inv: & Pinx: Ano 1755
 
 Franz Joseph Degle war um 1742 Schüler von Christoph Thomas Scheffler und erwarb 1747 das Meisterrecht in Augsburg. 1751 arbeitete er mit Scheffler an der Ausmalung der Jesuitenkirche in Dillingen. Neben Wandmalereien in Mauerstetten (Schw, LKr. Kaufbeuren, 1749) und in der Augustinerkirche Mindelheim (Schw, o.D.) sind neben den Deckenbildern von Sigmertshausen die in Niederostendorf (Schw, LKr. Kaufbeuren, 1753) zu nennen. Ab 1758 hielt sich Degle in Italien auf (Stationen in Innsbruck, Ancona, Venedig), vor allem in Rom, wo er 1765 den zweiten Preis der Accademia di San Luca gewann. 1772 Rückkehr nach Deutschland, 1777 Zunftbefreiung. 1777 wurde Degle Hofmaler des Fürstbischofs von Kempten, 1788 Mitglied der Akademie in Augsburg. Er war außerdem Mitglied der Akademien in Paris und Kopenhagen. Degle starb 1812 in Augsburg.
-<!-- citation-page-bottom: Band05 p235 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=19 -->
-<!-- citation-page-top: Band05 p236 -->
 
-<!-- header: SIGMERTSHAUSEN -->
 
 
 [[File:Band05_chunk005_p019_img001.jpg|thumb]]
@@ -46,7 +42,7 @@ Die Berufung eines Augsburger Malers zur Freskierung in Sigmertshausen ging wohl
 
 Träger der Deckenmalerei: LHs Flachkuppel mit in den Achsen einschneidenden Stichkappen; AR böhmische Kappe Rahmen: Die Rahmung ist gemalt. A imitierter goldfarbener Stuckprofilrahmen, in den Achsen und Diagonalen von gema
 
-Technik: Fresko; A und B polychrom, A<sub>1-4</sub> und B<sub>1-4</sub> Grisaillen<br>vor Goldbrokatgrund, A<sub>a-c</sub> gelbgrau vor goldgrünem Grund
+Technik: Fresko; A und B polychrom, A<sub>1-4</sub> und B<sub>1-4</sub> Grisaillen vor Goldbrokatgrund, A<sub>a-c</sub> gelbgrau vor goldgrünem Grund
 
 Maße: A Höhe 9,10 m; 6,70 × 6,10 B Höhe 8,00 m; 3,75 × 3,75
 
@@ -56,16 +52,12 @@ Erhaltungszustand und Restaurierungen: 1943/44 Restaurierung der ornamentalen Ma
 == Beschreibung und Ikonographie ==
 
 
-A VEREHRUNG DES GNADENBILDES VON SIGMERTSHAUSEN Umlaufende terrestrische Szenerie mit<br>Glorie in der Bildmitte. Aufnahmestandpunkt unter der Bild-<br>mitte. Sämtliche Höhenlinien fluchten zur Bildmitte: Figuren
+A VEREHRUNG DES GNADENBILDES VON SIGMERTSHAUSEN Umlaufende terrestrische Szenerie mit Glorie in der Bildmitte. Aufnahmestandpunkt unter der Bildmitte. Sämtliche Höhenlinien fluchten zur Bildmitte: Figuren
 
 
 [[File:Band05_chunk005_p019_img002.jpg|thumb|A Verehrung des Gnadenbildes von Sigmertshausen]]
-<!-- citation-page-bottom: Band05 p237 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=20 -->
-<!-- citation-page-top: Band05 p238 -->
 
-<!-- header: SIGMERTSHAUSEN -->
 
 und Gegenstände sind, dieser Höhenperspektive folgend, in Untersicht und Verkürzung dargestellt. - Die Bildkomposition wird durch die Vierpaßform des Bildfeldes bestimmt, deren Einbuchtungen durch die einschneidenden Stichkappen bedingt sind. Die umlaufende Szenerie ist in zwei 
 
@@ -94,14 +86,9 @@ In vier Gruppen an den vier Bildseiten sind im Bildvordergrund, teilweise mit du
 [[File:Band05_chunk005_p020_img006.jpg|thumb|A<sub>a-c</sub> Die Drei Göttlichen Tugender]]
 
 [[File:Band05_chunk005_p020_img007.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p239 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=21 -->
-<!-- citation-page-top: Band05 p240 -->
 
-<!-- header: SIGMERTSHAUSEN -->
 
-<!-- header: SIGMERTSHAUSE -->
 
 
 [[File:Band05_chunk005_p021_img001.jpg|thumb]]
@@ -124,12 +111,8 @@ Nach der Überlieferung hatte Thomas Hoffwirth im Jahr 1719 am nahen Sandberg da
 
 [[File:Band05_chunk005_p021_img003.jpg|thumb|Das Gnadenbild von Sigmertshausen wird in einer Prozession auf den Wallfahrtsaltar überführt, Ostansicht von Fresko A, darunter zeitgenössische Porträts des Pfarrers Franz Xaver Ponschab, des Hofmarksherrn Franz Xaver von Ruffini, am Chorbogen zwei Porträts der Familie Ruffini]]
 
-<!-- citation-page-bottom: Band05 p241 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=22 -->
-<!-- citation-page-top: Band05 p242 -->
 
-<!-- header: SIGMERTSHAUSEN -->
 
 [[File:Band05_chunk005_p022_img001.jpg|thumb|B Verehrung der Dreifaltigkeit]]
 
@@ -186,7 +169,3 @@ Kirchenführer 1988 unter Verwendung eines Manuskripts (1959) von Ludwig Endres,
 Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Landes Bd 7, herausgegeben im Auftrag des Museumsvereins Dachau e.V.), Dachau 1991, S. 199–204.
 
 Johann Michael Fischer 1692–1766, Katalog der Ausstellung 1995 (Herausgeber Gabriele Dischinger und Franz Peter), Tübingen 1995/96, Bd 2, Werkverzeichnis (Franz Peter), in Druck. A. B
-<!-- citation-page-bottom: Band05 p243 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=23 -->
-{{End}}

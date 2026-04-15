@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p312 -->
 
-<!-- header: WALPERTSKIRCHEN -->
 
 
 == WALPERTSKIRCHEN ==
@@ -60,12 +58,8 @@ A HIMMELFAHRT MARIENS Schauplatz der bühnenartig engen Szenerie ist ein kleiner
 
 
 [[File:Band07_chunk007_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band07 p313 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=8 -->
-<!-- citation-page-top: Band07 p314 -->
 
-<!-- header: WALPERTSKIRCHEN -->
 
 aufgelichtet und glorienähnlich im Kreis geführt. Rechts thront Gottvater, links kommt Christus seiner Mutter entgegen. Über dem Haupt Mariens schwebt die Geisttaube. Die Farbigkeit im Ganzen ist ziemlich stumpf. Vor dem Ocker und Grau der irdischen Zone und der Wolken erscheinen als Buntfarben Gelb, das dem Ocker sehr nahekommt, fahles Karminrot und Blaugrau.
 
@@ -106,8 +100,3 @@ Hösch, Karin, Die Kirchen der Pfarrei Walpertskirchen (= Peda-Kunstführer 419)
 Gemeindechronik von Walpertskirchen (mit Beitrag von Anton Gandl), 1999.
 
 [[File:Band07_chunk007_p008_img002.jpg|thumb]]
-
-<!-- citation-page-bottom: Band07 p315 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=9 -->
-{{End}}

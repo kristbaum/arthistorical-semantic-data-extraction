@@ -12,11 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p248 -->
 
-<!-- header: ST. PETER -->
 
-<!-- header: ST PETER -->
 
 Stadtpfarrkirche, Petersplatz 1, Erzdiözese München und Freising; Deckenbilder 1945 zerstört
 
@@ -99,12 +96,8 @@ Lipowsky nennt als Mitarbeiter den Maler Philip Helterhof (*um 1720 Cham † 180
 
 
 [[File:Band03-1_chunk005_p025_img003.jpg|thumb|Nikolaus Gottfried Stuber, Entwurf zu Fresko E Sturz des Magiers Simon, 1729, Köln, Wallraf-Richartz-Museum]]
-<!-- citation-page-bottom: Band03-1 p249 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=1 -->
-<!-- citation-page-top: Band03-1 p250 -->
 
-<!-- header: ST. PETER -->
 
 [[File:Band03-1_chunk006_p001_img001.jpg|thumb|zu W<sub>6</sub> Schlüsselgewalt des Petrus]]
 
@@ -211,14 +204,9 @@ Johann Baptist Zimmermann, Entwurfsskizze zum Langhausfresko B Kreuzigung Petri,
 
 
 [[File:Band03-1_chunk006_p001_img008.jpg|thumb|Johann Baptist Zimmermann, Entwurfszeichnungen zu den Wandfresken im Mittelschiff, 1753-56, München, Staatl. Graph. Sammlung]]
-<!-- citation-page-bottom: Band03-1 p251 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=2 -->
-<!-- citation-page-top: Band03-1 p252 -->
 
-<!-- header: ST. PETER -->
 
-<!-- header: ST. PETER -->
 
 
 [[File:Band03-1_chunk006_p002_img001.jpg|thumb|D Nikolaus Gottfried Stuber 1730/Johann Baptist Zimmermann 1753, Chorfresko D St. Petrus Patron der Stadt und des Weltkreises (vor der Zerstörung)]]
@@ -249,12 +237,8 @@ W<sub>16</sub> Befreiung aus dem Kerker – NUNC / SCIO / VERE / APG. 12,1
 D ST. PETRUS PATRON DER STADT UND DES WELTKREISES
 
 (Kriegsverlust, rekonstruiert; Photographie und Entwurfszeichnung) Die sphärische Kuppel weist als Bildanlage ein umlaufendes Landschaftspanorama auf, das im Scheitel in eine Himmelsglorie mündet. Beachtliche Verkürzungen; Betrachterstandpunkt unter dem westlichen Bilddrittel. In der Hauptansicht kniet der hl. Petrus als Fürbitter vor der Hl. Dreifaltigkeit. In der mit Bäumen, architektonischen Requisiten und Draperien ausgestalteten terrestrischen Szenerie sind – in den vier Buchten der sphärischen Kuppel – die Personifikationen der Vier Erdteile wiedergegeben, südöstlich Asia, südwestlich Africa, nordwestlich America und, hervorgehoben durch die Hauptansichtsseite, nordöstlich Europa, gekrönt mit der Kaiserkrone, Reichsapfel und Reichsadler als Attribute auf den Stufen. In ihrer Begleitung die allegorische Gestalt der Fides-Ecclesia, mit Kirchenmodell und Kelch, und eine heraldische Figur, gelehnt an eine Weltkugel mit der Ansicht der Stadt München, eine Wappenkartusche vor
-<!-- citation-page-bottom: Band03-1 p253 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=3 -->
-<!-- citation-page-top: Band03-1 p254 -->
 
-<!-- header: ST. PETER -->
 
 [[File:Band03-1_chunk006_p003_img001.jpg|thumb]]  
 [[File:Band03-1_chunk006_p003_img002.jpg|thumb]]  
@@ -329,10 +313,7 @@ Hartig, Michael, Peterskirche München, (= KKF, Nr. 604), 31976.
 Thon, Christina, Johann Baptist Zimmermann als Stukkator, München und Zürich 1977, S. 182 f., 274 f., 317 f., 341 f.  
 
 C.  
-<!-- citation-page-bottom: Band03-1 p255 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=4 -->
-<!-- citation-page-top: Band03-1 p256 -->
 
 
 == EINGEMEINDETE VORORTE ==
@@ -340,6 +321,3 @@ C.
 
 
 == NEURIED ==
-
-
-{{End}}

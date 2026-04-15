@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p64 -->
 
-<!-- header: ELLIGHOFEN -->
 
 
 == ELLIGHOFEN ==
@@ -108,7 +106,3 @@ Breuer, Tilmann, Stadt- und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen
 
 
 Ab
-<!-- citation-page-bottom: Band01 p65 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=9 -->
-{{End}}

@@ -10,7 +10,6 @@
 |AutorIn1=Rupprecht, Bernhard
 }}
 
-<!-- header: HERMANN BAUER † -->
 
 
 [[File:Band07_chunk001_p004_img001.jpg|thumb|Hermann Bauer *12. 12. 1929 † 22. 1. 2000 Photo von Kai-Uwe Nielser]]
@@ -27,5 +26,3 @@ Besonders aber sind diese menschlichen Eigenschaften dem »Binnenraum« des Betr
 Hermann Bauer hat dem größten Corpusunternehmen der deutschen Kunstgeschichte über Jahrzehnte Inhalt und Form gegeben. Diese Prägung wird über seinen Tod hinaus Bestand haben, er hat mit diesem Werk bei vielen Personen und in der Wissenschaft sein bleibendes Andenken gestiftet.
 
 BERNHARD RUPPRECHT
-
-{{End}}

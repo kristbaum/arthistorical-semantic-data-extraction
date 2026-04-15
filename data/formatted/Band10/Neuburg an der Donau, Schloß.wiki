@@ -27,16 +27,10 @@ Die Raumaufteilung des Philipp-Wilhelm-Baus ist nicht in originaler Form erhalte
 
 
 [[File:Band10_chunk005_p009_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p219 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=10 -->
-<!-- citation-page-top: Band10 p220 -->
 
-<!-- header: NEUBURG -->
 
-<!-- header: NEUBURG -->
 
-<!-- header: Saal, im Nordturm gelegen -->
 
 '''Zum Bauwerk:''' Der Saal umfaßt das zweite und dritte Obergeschoß, seine Fläche beträgt über unregelmäßigem Grundriß 114,5 Quadratmeter. Im O schwingt der Turm halbrund vor; hier weist der Saal in jedem Stockwerk vier Fenster auf. Im N ist der Turm wegen des Anbaus einer Altane abgeflacht; auf dieser Seite öffnen sich jeweils drei Fenster. Mit Ausnahme der vorschwingenden O-Wand verlaufen alle anderen Wände des Saals gerade, stoßen aber nur in der NW-Ecke im rechten Winkel aufeinander. In der SO-Ecke verbirgt sich hinter einer konvexen Mauerwölbung eine Wendeltreppe, die sowohl Zugang zu einem anschließenden Kabinett als zu den andern Geschossen gewährte. Über diese Treppe war eine Galerie zu erreichen, die ursprünglich in Höhe des Wandgesimses auf dem Niveau der dritten Etage vorsprang. Aufgrund einer Beschreibung von 1888/89 (BHStA, Kriegsarchiv Mkr 10326) war der Saal damals in der Waagrechten unterteilt. »Er bildete früher... einen durch zwei Stockwerke gehenden Concertsaal. Die jetzige Zwischendecke entspricht der Höhe der früheren Gallerien. In den Fensternischen sind noch die amphitheatralisch um die Galerie führenden Sitzreihen zu sehen«. 1835 bezeichnet Graßegger den Saal irrtümlich als Speisesaal. Dieser lag jedoch im Südturm in der Nähe des heute nicht mehr vorhandenen Küchengebäudes.
 
@@ -57,16 +51,10 @@ Die Architekturmalerei nimmt die ganze Decke ein. Sie steht, wie schon Zollner b
 Anläßlich des Einzugs des Kurfürsten Carl Philipp in Neuburg 1717 ist Prauneck zum ersten Mal nachweisbar. Damals malte er im Auftrag des Neuburger Kollegiatsstifts St. Peter zusammen mit einem Gesellen eine Triumphpforte (s. die Vita Praunecks S. 338f.). Zum gleichen Anlaß wurde auf dem Marktplatz vor der Rathaustreppe ein Ehrentheater errichtet, das eine Säulenhalle darstellte, »die durch ihre Architektur«
 
 [[File:Band10_chunk005_p010_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p221 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=11 -->
-<!-- citation-page-top: Band10 p222 -->
 
-<!-- header: NEUBURG -->
 
-<!-- header: NEUBURG -->
 
-<!-- header: Diana-Zimmer -->
 
 und schönen Verzierungen jedes Auge ergötzte« (Beitelrock). Möglicherweise war auch diese Dekoration von Prauneck.
 
@@ -111,5 +99,3 @@ Zollner, Christiana, Der Philipp-Wilhelm-Bau in Neuburg an der Donau-Architektur
 Dehio 1990, S. 864.
 
 Schloßmuseum Neuburg an der Donau. Amtlicher Führer, bearb. von Horst H. Stierhof und Petra Haller. München 1998, S. 62–64 und Abb. S. 36.
-
-{{End}}

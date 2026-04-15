@@ -12,11 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band09 p230 -->
 
-<!-- header: TUSSLING -->
 
-<!-- header: TUSSLIN -->
 
 
 == Schloß Tüßling ==
@@ -30,7 +27,7 @@ Schloßkapelle im Erdgeschoß des Ostflügels nördlich des Haupttors. Das Beset
 '''Patrozinium:''' St. Vitus
 
 
-'''Zum Bauwerk:''' Weihe der Kapelle am 8.9.1611. Im Jahr 1707 brachte ein Brand die Kapellendecke teilweise zum Einsturz »Nach der Brunst aber ist diese Capella erst vor ainem Jah<br>wiederumben abgeputzt und mit einem Altar versehen word ten« (Schreiben des Grafen von Wartenberg am 10.1.1713 an Propst Gelasius von Gars). Dieser Altar ist vermutlich der noch bestehende (Altarblätter 19. Jh., das ursprüngliche Altarbild zeigte die Anbetung der Könige). Im Zusammenhang mit der Neuverputzung wird auch das barocke Gewölbe eingezogen und mit Stuck und Gemälden geschmückt worden sein. Etwa quadratischer Raum (8,00×7,50 m; Höhe der Empore 3,76 m), nach O gerichtet. Die glatte Nord- und Südwand sind fensterlos bis auf 2 Oratorienfenster im Obergaden. Belichtung durch je 2 übereinanderliegende Ostfenster seitlich des Altars und auf der Westseite durch Fenster seitlich des Eingangs. Empore im Westen.
+'''Zum Bauwerk:''' Weihe der Kapelle am 8.9.1611. Im Jahr 1707 brachte ein Brand die Kapellendecke teilweise zum Einsturz »Nach der Brunst aber ist diese Capella erst vor ainem Jah wiederumben abgeputzt und mit einem Altar versehen word ten« (Schreiben des Grafen von Wartenberg am 10.1.1713 an Propst Gelasius von Gars). Dieser Altar ist vermutlich der noch bestehende (Altarblätter 19. Jh., das ursprüngliche Altarbild zeigte die Anbetung der Könige). Im Zusammenhang mit der Neuverputzung wird auch das barocke Gewölbe eingezogen und mit Stuck und Gemälden geschmückt worden sein. Etwa quadratischer Raum (8,00×7,50 m; Höhe der Empore 3,76 m), nach O gerichtet. Die glatte Nord- und Südwand sind fensterlos bis auf 2 Oratorienfenster im Obergaden. Belichtung durch je 2 übereinanderliegende Ostfenster seitlich des Altars und auf der Westseite durch Fenster seitlich des Eingangs. Empore im Westen.
 
 Stuckierung an Decke, Empore, Wänden (Apostelleuchter) und am Hochaltar um 1712. Der Stuck zeigt Verbindungen zum Wessobrunner Stuck der Stilstufe um 1710, aber auch Experimentierfreude im ornamentalen Detail. Dem gleichen Meister kann der Stuck in der Zimmerflucht an der Südseite des zweiten Obergeschosses zugeschrieben werden. Hier werden die im Deckenspiegel meist regelmäßig ausgeführten Akanthusranken in den Hohlkehlen durch verschiedene pflanzliche Motive erweitert, sie erinnern an den Stuck der Sakristei von Bockhorn, der mit J. B. Zimmermann in Verbindung gebracht wird (LKr. Erding, CBD Bd 7, S. 59).
 
@@ -75,10 +72,7 @@ Die Komposition ist symmetrisch angelegt. Licht- und Schatteneffekte treten eben
 Das Patrozinium St. Veit hängt vermutlich mit den Erbauern von Tüßling, Johann Veit I. († 1582) und Johann Veit II. von Törring, zusammen, die Herren von Tüßling, Jettenbach und Winhöring waren. Der hl. Veit, der aus vornehmer Familie war und in der Regel im Hermelinmäntelchen und mit Hermelinbarett dargestellt wird, wurde ursprünglich hauptsächlich vor Adeligen verehrt.
 
 Vitus war der Sohn eines heidnischen Fürsten in Sizilien, seine Mutter starb bei seiner Geburt. Seine Amme Crescentia und sein Lehrer Modestus erzogen ihn im christlichen Glauben. Mit zwölf Jahren ließ sich der junge Vitus gegen den Willen seines Vaters taufen. Der Vater ließ ihn mit Ruten schlagen, um
-<!-- citation-page-bottom: Band09 p231 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=17 -->
-<!-- citation-page-top: Band09 p232 -->
 
 [[File:Band09_chunk005_p017_img001.jpg|thumb]]
 
@@ -128,12 +122,8 @@ Der Bauherr führt mit den Porträts seine enge Verwandtschaft zum Haus Wittelsb
 
 BHStA, GL 3058 Nr. 84: Tüßling Schlossbenefizium. BHStA, Fürstensachen 391 und 396: zu den Wartenbergern. BHStA, Landshuter Abgabe – ehem. Rep. 7b Nr. 154: Tätigkeit des Alexius Bader für den Festsaal.  
 StAM, Hofmarken 964, Hofmark Tüßling K 2, Kirchenbaurechnungen 1680 und 1725/29.
-<!-- citation-page-bottom: Band09 p233 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=18 -->
-<!-- citation-page-top: Band09 p234 -->
 
-<!-- header: TUSSLING -->
 
 StAM, Briefprotokolle 1317–1322: Hofmark Tüßling 1720–42.  
 StAM, LRA 63740: Restaurierung der Marktkirche Tüßling 1883.  
@@ -149,7 +139,3 @@ Roßgotterer, Rudolf, Zur topographischen Geschichte von Tüßling, in: Oettinge
 Dehio 1990, S. 1192 f.  
 Roßgotterer, Rudolf, Münchner Grablegen der Tüßlinger Schloßherren, in: Oettinger Land 14, 1994, S. 215–30.  
 C.B.
-
-<!-- header: WALD AN DER ALZ -->
-
-{{End}}

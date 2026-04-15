@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p502 -->
 
-<!-- header: SACHSENRIED -->
 
-<!-- header: SACHSENRIED -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung dem Kloster Füssen inkorporiert, Niedergericht Kloster Füssen
 
@@ -27,9 +24,9 @@ Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung dem Kloster Füssen inkorpor
 
 '''Zum Bauwerk:''' Gotischer Bau, um die Mitte des 18. Jh. umgestaltet und barockisiert; 1753 Stuckierung durch Joseph Fischer und Sohn. — Einfacher dreiachsiger Saalbau, leicht eingezogener zweiachsiger AR mit Pilasterglie derung und apsidialem Schluß; im W Doppelempore
 
-'''Auftraggeber:''' Abt Gallus Zeiler von Füssen (1750–55);<br>Kloster und Abtswappen am Chorbogen. Amtierender<br>Pfarrvikar war Andreas Atterer (1748–71).
+'''Auftraggeber:''' Abt Gallus Zeiler von Füssen (1750–55); Kloster und Abtswappen am Chorbogen. Amtierender Pfarrvikar war Andreas Atterer (1748–71).
 
-'''Autor und Entstehungszeit:''' Nach den Rechnungen im<br>Pfarrarchiv Sachsenried erhielt 1753/54 »Herr Zeiller fü zwei Stuck in Fresko über sich samt 12 Apostel und für da Altarblatt 260 fl.« (zitiert nach Hofmann, 1957). Signatur in A über dem O-Rand: F. (schwach lesbar, aber noch original!) A. Zeiller/1759. Die Signatur ist offensichtlich bei einer Restaurierung nachgemalt und dabei verändert worden; statt 1759 muß es 1753 heißen. Die Deckenbilder in<br>Sachsenried sind das erste bekannte Freskowerk Franz Anton Zeillers (*1716 Reutte in Tirol †1793 ebd.), eines Vetters des Johann Jakob Zeiller. Die Gemälde zeigen unverkennbar venezianischen Einfluß. Von F. A. Zeiller stammen auch die Fresken der unteren Emporenbrüstung.
+'''Autor und Entstehungszeit:''' Nach den Rechnungen im Pfarrarchiv Sachsenried erhielt 1753/54 »Herr Zeiller fü zwei Stuck in Fresko über sich samt 12 Apostel und für da Altarblatt 260 fl.« (zitiert nach Hofmann, 1957). Signatur in A über dem O-Rand: F. (schwach lesbar, aber noch original!) A. Zeiller/1759. Die Signatur ist offensichtlich bei einer Restaurierung nachgemalt und dabei verändert worden; statt 1759 muß es 1753 heißen. Die Deckenbilder in Sachsenried sind das erste bekannte Freskowerk Franz Anton Zeillers (*1716 Reutte in Tirol †1793 ebd.), eines Vetters des Johann Jakob Zeiller. Die Gemälde zeigen unverkennbar venezianischen Einfluß. Von F. A. Zeiller stammen auch die Fresken der unteren Emporenbrüstung.
 
 
 == Befund ==
@@ -59,14 +56,9 @@ Im Vordergrund des Bildes sind Gruppen von Figuren in theatralisch aufwendigen �
 
 
 [[File:Band01_chunk011_p002_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p503 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=3 -->
-<!-- citation-page-top: Band01 p504 -->
 
-<!-- header: SACHSENRIED -->
 
-<!-- header: SACHSENRIEL -->
 
 
 [[File:Band01_chunk011_p003_img001.jpg|thumb|8 Matthäu]]
@@ -113,7 +105,3 @@ Hofmann, Sigfrid, Neue Beiträge zur Geschichte der Pfarrkirche St. Martin in Sa
 -, Der Landkreis Schongau, München 1959, S. 87  
 Dehio-Gall OB (1952), S. 267  
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 240, 257.
-<!-- citation-page-bottom: Band01 p505 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=4 -->
-{{End}}

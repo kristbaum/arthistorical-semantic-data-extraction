@@ -28,9 +28,7 @@ Nach einer Renovierung war die Kirche 1602 »wieder schön erneuert und ausgemal
 
 
 [[File:Band14_chunk004_p001_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band14 p151 -->
 
-<!-- citation-page-top: Band14 p152 -->
 
 des 17. Jh.s zu erkennen ist – das Kirchenschiff (30 Schuh breit) um 21 auf 80 Schuh (ca. 10 × 27 m) verlängert. Dabei wurden die sechs bestehenden Fenster vergrößert und zusätzlich drei hohe Fenster und zwei Rundfenster über den Türen eingebaut. Die Außenansicht überliefert eine Zeichnung des damaligen Pflegers Johann Jakob Wurm im Diözesanarchiv Eichstätt (Pfarrakten Etting I). 1677, im Jahr der 50-Jahrfeier der Erhebung der Gebeine der Drei Elenden Heiligen, wurde zum Abschluss der Baumaßnahmen »ain neue Paarkhürchen vnd Deckhen« eingebaut. Der Ingolstädter Maler Johann Höss erhielt im gleichen Jahr 102 fl. 52. kr. für Malerarbeiten - vielleicht für die Bemalung der genannten neuen Empore und der hölzernen Flachdecke. (Siegfried Hofmann, 1973, S. 176, bringt die beiden Altarbilder der drei Heiligen und der Flucht nach Agypten mit dieser Ausgabe in Verbindung). 1680 erfolgte der Anbau der nördlichen Seitenkapelle. Dorthin wurde der bestehende Seitenaltar der drei »Elenden Heiligen« transferiert, um an seinem vorherigen Standort einen neuen St.-Anna-Altar zu errichten. Etwa gleichzeitig entstand die Kapelle auf der Südseite, in die der Altar mit der Flucht nach Ägypten transferiert wurde, der von nun an Josephsaltar hieß. An seine ursprüngliche Stelle kam ein neuer Marienaltar. Das Erscheinungsbild dieser beiden durch den damaligen Pfleger Johann Jakob Wurm 1681 gestifteten Altäre - die Patrozinien Maria und Anna entsprechen den ersten Vornamen seiner Ehefrau Maria Anna Gaudentia, geb. Giel von Gielsberg – überliefert eine Zeichnung von Julius Gustav Schröpler aus dem Jahr 1872 (StAM, Pl 3106. Brenninger S. 25).
 
@@ -61,14 +59,9 @@ gedruckte Wallfahrtsbuch heraus, das er Kurfürst Ferdinand Maria widmete (Glüc
 sind sie zunächst auch Besitzer des Schlösschens geblieben. 1710 ließ jedenfalls Johann Franz Benno von Wurm seinen Sohn Johann Anton Adam und zwei Jahre später seine Frau Maria Anna Gaudentia in der Ettinger Kirche bestatten.
 
 Die Pflege von Etting fiel 1701 an Heinrich von Ponten (ebenfalls Mautner bzw. Mautamtskommissar in Ingolstadt) und wurde mit Stammham unter einem Gericht vereinigt. Ab 1706 folgen Mitglieder der Familie vor Chlingensperg als Pfleger von Etting, vielleicht erst später, sicher ab 1718 (zwei Wappensteine mit dieser Jahreszahl am Außenbau) auch als Eigentümer des Schlösschens Drachenfels, das sie weiter ausbauen ließen Christoph von Chlingensperg (* 7.6. 1651 zu Frontenhausen in Niederbayern, † 28. 8. 1720 in Ingolstadt) war seit 1677 Professor der Rechte in Ingolstadt, acht Mal Rektor der Universität und Direktor des Ingolstäd
-<!-- citation-page-bottom: Band14 p153 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=3 -->
-<!-- citation-page-top: Band14 p154 -->
 
-<!-- header: ETTIN -->
 
-<!-- header: FTTING -->
 
 ter Ratskollegiums. 1693 durch Kaiser Leopold geadelt, war er Kurbayerischer wirklicher Hofrat und Pfleger zu Stammham, Etting und Hirschberg. Die Bildnisse von ihm, seiner Frau und seinen Kindern wohl auch mit Ehepartnern finden sich als Darstellung der Armen Seelen auf dem vermutlich ehemaligen Altarbild der Seelenkapelle, das sich in schlechtem Zustand in der Ostenbrunnen-Kapelle am Ortsrand von Etting erhalten hat. Das Bild trägt das Allianzwappen von Christoph von Chlingensperg und seiner Frau Florentia Freinhueber auf Dornwang (* 1661 † 1733).
 
@@ -115,10 +108,7 @@ keit angenähert. Sie erfolgte nach Festlegung der ersten aufgefundenen barocken
 konserviert, Fehlstellen zurückhaltend retuschiert. An den Stichkappenmedaillons waren aufwendige Malschichtsicherungen erforderlich. Risse im Deckenbereich wurden gefüllt und eingestimmt. 2006/07 wurden technische Instandsetzungsarbeiten an der Gewölbekuppel durchgeführt (BLfD, Akten Etting, Pfarrkirche St. Michael).
 
 Die Deckenbilder sind sehr stark übermalt; der persönliche Stil des Freskanten ist nur noch an Bildanlage und Figurenbil
-<!-- citation-page-bottom: Band14 p155 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=4 -->
-<!-- citation-page-top: Band14 p156 -->
 
 ETTING
 
@@ -127,12 +117,8 @@ ETTING
 
 
 [[File:Band14_chunk004_p004_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band14 p157 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=5 -->
-<!-- citation-page-top: Band14 p158 -->
 
-<!-- header: ETTING -->
 
 ETTENHOFEN
 
@@ -201,5 +187,3 @@ Denkmaltopographie Stadt Ingolstadt, S. 513-518.
 Dehio OB 2006, S. 292 f.
 
 gericht bzw. LKr. Ingolstadt. Der Wallfahrtsverband der Kirchen Appertshofen, Hitzhofen und Pettenhofen bestand wohl seit 1338. 1350 wurde den drei Kirchen ein Ablass gewährt, welcher 1777 erneuert wurde. Ein
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p162 -->
 
-<!-- header: LAUTERBACH -->
 
 
 == LAUTERBACH ==
@@ -60,14 +58,10 @@ W 2,20 × 1,30
 
 
 [[File:Band05_chunk004_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p163 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band05 p164 -->
 
 LAUTERBACH
 
-<!-- header: LAUTERBACH -->
 
 
 [[File:Band05_chunk004_p008_img001.jpg|thumb]]
@@ -75,12 +69,8 @@ LAUTERBACH
 
 
 [[File:Band05_chunk004_p008_img002.jpg|thumb|B Abigail vor David]]
-<!-- citation-page-bottom: Band05 p165 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=9 -->
-<!-- citation-page-top: Band05 p166 -->
 
-<!-- header: LAUTERBACH -->
 
 Erhaltungszustand und Restaurierungen: Keine Restaurierung seit 1908. In A Längsriß, Wasserschäden im SO und NO, Wasserschaden mit Fehlstelle an der Frauengruppe im N. Loch über der Frau mit der Inschrift Brod. In B Längsriß an der S-Seite, geringfügige Wasserschäden. Pilzbefall in A und B. Im übrigen ist die originale Farbsubstanz erstaunlich gut erhalten. 1996 Beginn einer Restaurierung durch Franz Debold, München.
 
@@ -102,7 +92,7 @@ Der Engel, der über der Hauptszene schwebt, hält ein Medizinfläschchen mit de
 
 B ABIGAIL VOR DAVID (1 Sam 25,18-35) Aufnahmestandpunkt unter dem westlichen Bildrand. Einansichtige Szene, doch ist die irdische Szenerie an beiden Seiten dem Rahmen folgend nach oben gezogen. Ein Erdabbruch vorne und drei Kriegsknechte rechts bilden ein dunkles Repoussoir, das die Darstellung im Mittelgrund räumlich distanziert. Das Bild zeigt in einer bergigen Landschaft die Begegnung Abigails und Davids. Beide sind je an der Spitze eines Zuges von Begleitern dargestellt, so daß die Begegnungsszene die Bildmitte einnimmt. Abigail, reich gekleidet, kniet vor David und weist auf Ballen und Krüge, die ihre Knechte von Pferd und Kamelen abgeladen haben und David zum Geschenk darbringen. David, in kriegerischer Tracht, neigt sich zu Abigail mit Gesten der Achtung und Verehrung.
 
-Die Farbigkeit Baldaufs ist lebhaft und frisch. Die Farben des Schauplatzes in A, das Graugelb, Rosa und Gold der Architektur, das Gelbrosa und zarte Blau der Himmelslandschaft sind so fein differenziert, daß neben den eigentlichen Buntwerten auch zurückhaltende Farbtöne in den Gewändern Leuchtkraft entfalten. In B setzt sich die Farbigkeit des Schauplatzes aus dem Ocker und Grün der Landschaft und dem Weiß und zarten Blau des Himmels zusammen. In Gewändern erscheinen Blau, Grün und Rot als Buntfarben. David und sein Heer hatten einen Sommer lang die Herden des reichen Nabal in der Wüste Maon beschützt. Zur Zeit der Schafschur schickte er Knechte nach Karmel zu Nabal, um Lohn für seinen Schutz zu erbitten. Nabal schickte die Gesandten Davids ohne Geschenke nach Hause. David, erzürnt, machte sich mit einem kleinen Heer auf, um Nabal zu strafen und dachte: »Dies und jenes soll Gott dem David antun, wenn ich von allem, was ihm gehört, bis zum Morgen-<br>grauen auch nur einen übriglasse, der an die Wand pißt« (I Sam 25,22). Da kam ihm Nabals Frau Abigail entgegen, die von allem gehört hatte und David mit Bitten und
+Die Farbigkeit Baldaufs ist lebhaft und frisch. Die Farben des Schauplatzes in A, das Graugelb, Rosa und Gold der Architektur, das Gelbrosa und zarte Blau der Himmelslandschaft sind so fein differenziert, daß neben den eigentlichen Buntwerten auch zurückhaltende Farbtöne in den Gewändern Leuchtkraft entfalten. In B setzt sich die Farbigkeit des Schauplatzes aus dem Ocker und Grün der Landschaft und dem Weiß und zarten Blau des Himmels zusammen. In Gewändern erscheinen Blau, Grün und Rot als Buntfarben. David und sein Heer hatten einen Sommer lang die Herden des reichen Nabal in der Wüste Maon beschützt. Zur Zeit der Schafschur schickte er Knechte nach Karmel zu Nabal, um Lohn für seinen Schutz zu erbitten. Nabal schickte die Gesandten Davids ohne Geschenke nach Hause. David, erzürnt, machte sich mit einem kleinen Heer auf, um Nabal zu strafen und dachte: »Dies und jenes soll Gott dem David antun, wenn ich von allem, was ihm gehört, bis zum Morgengrauen auch nur einen übriglasse, der an die Wand pißt« (I Sam 25,22). Da kam ihm Nabals Frau Abigail entgegen, die von allem gehört hatte und David mit Bitten und
 
 
 [[File:Band05_chunk004_p009_img001.jpg|thumb|W Erlösung der Armen Seelen aus dem Fegefeuer]]
@@ -137,7 +127,3 @@ Kunst- und Kulturdenkmäler 1977, S. 297 f.
 Dehio 1990, S. 590
 
 AB
-<!-- citation-page-bottom: Band05 p167 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=10 -->
-{{End}}

@@ -9,8 +9,6 @@
 |danach=Personenregister (Band 12-II)
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=11 -->
-<!-- citation-page-top: Band12 p570 -->
 
 
 == REGISTER ==
@@ -180,10 +178,7 @@ Pfarrei 188 Kleinhelfendorf 50
 Kleinhöhenkirchen 388 2 Kleinhöhenrain 91, 325–31, 569 Kleinholzhausen 142, 162, 176, 270, 332–36, 347 482, 567 t. Kleinpienzenau 263, 544, 547, 565 Kling, Gericht 31, 131 f., 154, 172, 188, 190, 259, 3131., 343, 479, 492 Klosterneuburg 188 Köln 42, 44 Kötzting, Priorat von Rott 434 Pfarrei 434 Hofmark 434 Konstanz 422 St. Nikolaus 42 Krakau 34, 44 Kufstein 139, 146, 310, 360, 565 Pfarrei 188 Kundl/Tirol 386 Kurbayern 509, 522 Lachen/Ottobeuren 422 Laiming/Altenhohenau, Hofmark 31 Lam, Pfarrei 434 Lampferding 337–42, 568 Kuratie 122 Landl 312, 565 Landsberg 412 4, Jesuitenkirche 96 Landshut 72, 569 Seligenthal 410 Langengeisling 308 Laufen 380, 420 Lauterbach 386, 388, 427, 566 Leitmeritz, Bistum 364 Lend/Pinzgau 436 Leonhardspfunzen 313f., 343-45, 566 Kapelle beim Leonhardsbrünndl 345 Lepanto 34, 44, 342, 408, 515 f. Lickov in Böhmen 226 Lima 42 Lippertskirchen 132, 142, 162, 346–55, 566 Leonhardskapelle 346
 
 Mailand 194, 250, 541 Mallersdorf, Gericht 434 Maria Eck 99, 479 Maria Thalheim 308 Mariastein 270 Maxlrain 102, 522 Schloß 356–59, 569 Hofmark 356 Meissen 539 Melk 61 Miesbach 102, 104, 325, 327, 356, 402 Mietraching 184 Mitterdarching 565 Mühldorf am Inn 504–08, 567 St. Katharina 505, 567 Mühln bei Breitbrunn 200 München 19, 31, 33 f., 51, 61, 71 f., 82, 91 f., 103 f 113, 123, 172, 183, 212, 226, 259, 270, 284, 337, 346, 349, 380, 402, 417, 421, 434, 464, 472, 520 522, 524 Asamkirche 172 Bürgersaal 62, 337, 567 Mariahilfkirche in der Au 422, 568 f. Unsere Liebe Frau 465 Augustinerkloster, Bibliothek 422 T----1 1 11
-<!-- citation-page-bottom: Band12 p571 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=12 -->
-<!-- citation-page-top: Band12 p572 -->
 
 Harlaching, Schloß 566 Palais Holnstein 358 Palais Preysing 212, 270 Palais Törring, Hauskapelle 91 Residenz 71, 301 Hofkapelle 208-11 Grottenhof 104 Halle der Vier Schäfte 142 Schwarzer Saal 104 Theatinergang 142 Vierschimmelsaal 212 Nymphenburg 91, 566, 569 Badenburg 91 Magdalenenklause 104 Schloßkapelle 56, 91, 104 Steinerner Saal 72, 91, 104, 358 München und Freising, Erzdiözese 17, 19, 31, 56, 61, 65, 71, 86, 90, 102, 122, 124, 131, 139, 147, 154, 162, 170, 172, 175, 183, 188, 253, 272, 305, 308, 310, 313, 317, 325, 332, 337, 343, 346, 360, 367, 386, 394, 400, 411, 417, 433, 462, 467, 470, 472, 479, 481, 488, 492, 494, 497, 503, 519, 520, 542, 549, 554, 561 Tünsterschwarzach 442, 444, 448–50, 454, 458
 
@@ -214,5 +209,3 @@ Vagen, Hotmark 72, 91, 98, 32 Valencia 42, 44 Vannes 44 Venedig 284 Verona 42 Ve
 4001. Wagrain bei Ebbs 292, 565 Walchsee bei Kufstein 58, 360, 497, 567 Wald, Herrschaft 19 Wall 124, 126, 564 Warnbach 172 Wasserburg 33, 50, 56, 86, 200, 314, 386, 433, 457, 472, 479, 503–19, 566 Pfarrei St, Jakob 503 Frauenkirche 503–19 Gericht 61, 417, 433, 566 f.
 
 Weihenlinden 65, 520-43, 569 Wallfahrtskirche 520–34 Gnadenkapelle 71 Ehem. Chorraum 534–37 Zwei Räume über der Sakristei 359–41 Weihenlinden-Högling, Pfarrei 263, 520 Weihenstephan 436 Weilheim 470, 568 Weingarten bei Breitbrunn 200 Weinsberg 290 Weißenhorn 104 Werdenfelser Land 123 Wessobrunn 33, 106, 148, 150, 234, 346 Westerham 308, 542–48, 554, 565 Westerndorf bei Zinneberg/Glonn 17, 305, 395 Weyarn, Augustiner-Chorherrenstift 106, 263, 520t., 524, 534, 565 Klosterkirche 104, 108 Wiechs 162, 347 Wien 51, 56, 360, 497, 524, 567 f. Wies/Steingaden 99 Wildenwart 155, 246, 402, 408, 549-53 Herrschaft 39, 56, 170, 259 f., 270, 274, 369, 381, 400, 402, 411, 467, 470, 549, 551, 564, 568 Schloß 272, 564 Ehem. Schloßkapelle 274, 549 f. Festsaal 274 Pfarrkuratie 549 Willing 308, 554–60, 569 Wilparting 163, 308, 442, 456–58, 542, 569 Windhag 489, 561–63, 568 Windisch-Matrei 312, 565 Windschnur 139 Wolfratshausen 163, 270 Wolfsberg bei Breitbrunn 200 Würzburg 422, 535 Wyschehrad 364
-
-{{End}}

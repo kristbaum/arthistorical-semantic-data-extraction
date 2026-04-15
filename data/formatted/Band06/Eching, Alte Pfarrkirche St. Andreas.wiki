@@ -12,9 +12,7 @@
 |AutorIn1=Tezmen-Siegel, Jutta
 }}
 
-<!-- citation-page-top: Band06 p40 -->
 
-<!-- header: ECHINO -->
 
 
 == <b>ECHING</b> ==
@@ -77,14 +75,9 @@ Der Schluß der z. T. unleserlichen Inschrift an der Chorbogen-Innenseite REN...
 Die aus wenigen Requisiten gebildete Szene zeigt im Vordergrund das Seeufer mit Pflanzen, im Hintergrund links am Horizont des Sees einen Felsen mit einer Kirche und Häusergruppe, wohl als Hinweis auf Petrus, den Fels. Zwei Drittel des Freskos nimmt der Himmel in den Farben Ocker und Grau ein, in welchem seitlich zwei auf Wolken sitzende Putten, mit Draperien in Grün und Blau, ein Schriftband halten: RELICTIS RETIBUS SECUT[I] SVNT EVM mathae 4 (Mt 4.20).
 
 B DISPUT MIT AEGEAS Ansicht nach O. – Das Fresko zeigt Andreas im Disput mit Aegeas, dem Statthalter von Patras, der die Verhaftung und das Martyrium des Heiligen veranlaßte (Ribadeneira-Hornig, Bd 2, S. 896 f.). Aegeas sitzt
-<!-- citation-page-bottom: Band06 p41 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk001.pdf#page=22 -->
-<!-- citation-page-top: Band06 p42 -->
 
-<!-- header: ECHIN -->
 
-<!-- header: ECHINO -->
 
 
 [[File:Band06_chunk001_p022_img001.jpg|thumb|B Disput mit Aegeas, Zustand vor der Restaurierung von 1981/84]]
@@ -131,9 +124,3 @@ Brenninger, Georg, Zur Barockausstattung der Pfarrkirche St. Andreas in Eching, 
 Kollmannsberger, Georg, Geschichte der Gemeinde Eching, Eching 2 1990, S. 140 f.
 
 Dehio 1990, S. 207.
-
-
-<!-- citation-page-bottom: Band06 p43 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk001.pdf#page=23 -->
-{{End}}

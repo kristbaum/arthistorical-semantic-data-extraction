@@ -13,9 +13,7 @@
 |AutorIn2=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p360 -->
 
-<!-- header: NEUKIRCHEN -->
 
 
 == NEUKIRCHEN AM SIMSSEE ==
@@ -46,14 +44,9 @@ Träger der Deckenmalerei: LHs (A, 1-2 und 7-8) Flachtonne mit Stichkappen, AR (
 
 
 [[File:Band12-2_chunk002_p006_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p361 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=7 -->
-<!-- citation-page-top: Band12 p362 -->
 
-<!-- header: NEUKIRCHEI -->
 
-<!-- header: NEUKIRCHEN -->
 
 Technik: Fresko; polychrom Maße: A Höhe 6,50m; 12,50×5,90
 
@@ -75,9 +68,7 @@ A JOHANN-NEPOMUK-SZENEN Das Deckenbild zieht sich über den größten Teil des G
 
 
 [[File:Band12-2_chunk002_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p363 -->
 
-<!-- citation-page-top: Band12 p364 -->
 
 [[File:Band12-2_chunk002_p008_img001.jpg|thumb]]
 
@@ -101,12 +92,9 @@ An der Südseite ist Johann Nepomuk vor dem König dargestellt. An die Portalarc
 
 An der Westseite ist der Brückensturz zu sehen. Über dem Wasser der Moldau, das sich dem Rahmen folgend um die Westhälfte des Bildes zieht, erhebt sich eine Brückenarchitektur aus schweren Quadern mit zwei Brückenbogen und seit-
 
-<!-- citation-page-bottom: Band12 p365 -->
 
 [[File:Band12-2_chunk002_p008_img007.jpg|thumb|1 Petrus]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=9 -->
-<!-- citation-page-top: Band12 p366 -->
 
 == NEUKIRCHEN ==
 
@@ -131,5 +119,3 @@ Mayer-Westermayer, Bd 2, S. 784–87. KDB I OB (2), S. 1634. Bomhard Bd 1, S. 24
 Gemeinde Aschau im Chiemgau, Pfarrei Aschau Erzdiözese München und Freising. Ehem. Erzdiözese Salzburg, Archidiakonat und Bistum Chiemsee. Herrschaftsgericht Hohenaschau
 
 Pfarrkirche Kreuzkapelle S. 380
-
-{{End}}

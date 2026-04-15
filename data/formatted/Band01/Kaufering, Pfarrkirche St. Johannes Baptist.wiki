@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p118 -->
 
-<!-- header: KAUFERING -->
 
 
 == KAUFERING ==
@@ -65,12 +63,8 @@ Erhaltungszustand und Restaurierungen: Laut Inschrift am Hochaltar fanden 1774, 
 
 
 [[File:Band01_chunk003_p010_img003.jpg|thumb|B Johannes in der Wüste]]
-<!-- citation-page-bottom: Band01 p119 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=11 -->
-<!-- citation-page-top: Band01 p120 -->
 
-<!-- header: KAUFERING -->
 
 rungen statt. Alle drei Bilder sind stark verschmutzt. A zeigt einige kleine schadhafte Stellen; in B ist die figürliche Zeichnung teilweise schwer zu erkennen; C weist entlang einem rahmenförmigen Bogen stärkeres Krakelée auf. 1973, nach der fotografischen Aufnahme, Restaurierung durch N. Fischer.
 
@@ -93,5 +87,3 @@ KDB I OB (1), S. 532 f.
 Neu, Wilhelm, Michael Natter, Ein Vorarlberger Baumeister im Dienste des Klosters Dießen und der Stadt Landsberg, in: Lechisarland 1964, S. 76 f.
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 518.
-
-{{End}}

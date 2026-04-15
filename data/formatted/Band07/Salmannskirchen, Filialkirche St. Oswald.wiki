@@ -28,12 +28,8 @@ LHs zu drei Achsen mit eingerundeten Eckpilastern, Empore im W. AR zu zwei Joche
 
 
 [[File:Band07_chunk006_p011_img001.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band07 p271 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=12 -->
-<!-- citation-page-top: Band07 p272 -->
 
-<!-- header: SALMANNSKIRCHEN -->
 
 
 [[File:Band07_chunk006_p012_img001.jpg|thumb]]
@@ -77,14 +73,9 @@ A<sub>b</sub> In hoc signo! (In diesem Zeichen). Kreuz, hinter dem eine Gnadenso
 A<sub>c</sub> Elargiendo Ditior (Durch Austeilen reicher). Tisch, auf dem vier Teller und ein großes Gefäß stehen. Strahlen über Wolken. Das Bild bezieht sich auf die Mildtätigkeit Oswalds. Einst hatte Oswald ein großes kostbares Gefäß von seinem Tisch in Stücke gebrochen, um diese an die Armen auszuteilen (BiblSS, Sp. 1295). Diese Szene wurde hier in ein Emblem umgesetzt, das die Vorstellung vertritt, Almosengeben bereichere den Spender, die sonst meist durch Quelle und Brunnen ausgedrückt wird.
 
 A<sub>d</sub> Iustitia et Aequitate (Mit Gerechtigkeit und Billigkeit). Waage, auf deren linker Schale eine Krone liegt, auf der rechten Schwert und Zepter. Darüber Wolken und Strahlen. Das Bild bezieht sich auf die Fürstentugend der Gerechtigkeit, die modifiziert sein muß durch die Tugend der Aequitas, die nicht
-<!-- citation-page-bottom: Band07 p273 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk006.pdf#page=13 -->
-<!-- citation-page-top: Band07 p274 -->
 
-<!-- header: SALMANNSKIRCHEN -->
 
-<!-- header: ANKT WOLFGANG -->
 
 
 [[File:Band07_chunk006_p013_img001.jpg|thumb]]
@@ -137,5 +128,3 @@ Baureferat des Erzbischöflichen Ordinariats, Dokumentation Stefan Nadler/Maria 
 Schmidtsche Matrikel, Bd 1, S. 519f. Mayer-Westermayer, Bd 1, S. 365. KDB I OB (2), S. 1288. Landkreis Erding 1963, S. 308. Kemp, S. 287f. Brenninger 1982, S. 111. Landkreis Erding 1985, S. 322 f. Dehio 1990, S. 1047.
 
 AR
-
-{{End}}

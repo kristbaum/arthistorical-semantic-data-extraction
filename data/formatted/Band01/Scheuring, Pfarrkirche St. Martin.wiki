@@ -15,7 +15,6 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p220 -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung Kloster Schäftlarn inkorporiert, Kurfürstl. Hofmark Lichtenberg
 
@@ -67,14 +66,9 @@ Die Kirchenszene der Austeilung des schwarzledernen Gürtels ist in eine flach a
 B<sub>1</sub> TAUBE DES HL. GEISTES Innerhalb der stuckierten Rocaillen zwischen den beiden Fresken A und B ist ein kleines Freskofeld, das als eine Art Ausschnitt die Fortsetzung des Bildes in B darstellt: Aus der wolkenumkreisten Himmelsglorie fliegt die Taube des Hl. Geistes herab – in Richtung auf die Himmelsszene der Darbietung des Tabernakelschlüssels.
 
 C HL. NORBERT Das längsformatige, einansichtig steil komponierte Freskobild im Chorgewölbe wird ganz von der Wiedergabe eines hohen Kuppelraumes als Schauplatz einer himmlischen Szene eingenommen. Eine kassettengeschmückte, prächtige Kuppel, getragen von pilasterbesetzten Pfeilern, wölbt sich über einer Heiligenszene: Auf einem hohen, runden Treppenpodest kniet der hl. Norbert in weißem Habit, ein Engel legt ihm das weiße Ordensgewand an, ein zweiter trägt eine Stola heran, während ein Putto eine geflochtene Kordel über dem Heiligen ausgebreitet hält. Darüber, dem Heiligen huldvoll zugewandt, thront die Mutter Gottes, Maria mit dem Kind; zu ihrer Seite steht der hl. Bischof Augustinus, sein Regelbuch aufgeschlagen vorweisend. – Vor den Stufen des Podestes stürzen zwei Engel auf Wolken mit dem Altarssakrament zwei ketzerische Feinde der eucharistischen Lehre hinab. Eine geschweifte, rocaillegeschmückte Brüstung erhebt sich über dem Bildrahmen, den Ansatz des Treppenpodestes verdeckend.
-<!-- citation-page-bottom: Band01 p221 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=12 -->
-<!-- citation-page-top: Band01 p222 -->
 
-<!-- header: SCHEURING -->
 
-<!-- header: SCHEURING -->
 
 
 [[File:Band01_chunk005_p012_img001.jpg|thumb|C Hl. Norbert]]
@@ -123,7 +117,3 @@ Kraetzer, Edgar Werner, Franz Martin Kuen. Ein schwäbischer Rokokomaler des 18.
 Dehio-Gall, OB (1964), S. 280  
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 604–06.  
-<!-- citation-page-bottom: Band01 p223 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=13 -->
-{{End}}

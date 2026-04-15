@@ -51,12 +51,8 @@ Innozenz VIII., Papst 46
 Jehl, Gerhard, Restaurator 68, 77, 189 Jehle, Bartholomäus, Pfarrer von Sittenbach 266 Johann Theodor von Bayern, Fürstbischof von Freising 275 Joseph, Bischof von Freising 41
 
 Kaltner, Joseph, Kupferstecher 67 Kammer, Familie 142, 144 Kammerberg, Familie 142, 144 Kammerloher, Pfarrer von Sulzemoos 178
-<!-- citation-page-bottom: Band05 p307 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=5 -->
-<!-- citation-page-top: Band05 p308 -->
 
-<!-- header: PERSONENREGISTE -->
 
 
 == PERSONENREGISTER ==
@@ -252,11 +248,3 @@ Zimmermann, Johann Baptist, Maler, Stukkator 83, 216 – Joseph, Restaurator 34
 Zumbusch, Kaspar von, Bildhauer 65  
 Zunhammer, Anton, Konventuale in Indersdorf, Pfarrvikar von Pipinsried 202 f., 206 f., 209 – Martin, Restaurator 94  
 Zürn, Brüder, Bildhauer 146  
-<!-- citation-page-bottom: Band05 p309 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=6 -->
-<!-- citation-page-top: Band05 p310 -->
-
-<!-- header: IKONOGRAPHISCHES REGISTER -->
-
-{{End}}

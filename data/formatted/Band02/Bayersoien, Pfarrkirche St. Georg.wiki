@@ -59,10 +59,7 @@ A CARITAS Die Liebe zu Gott und zum Nächsten, ist durch die geläufigen Symbola
 B SPES hat den üblichen Anker, dazu ist im Hintergrund ein Segelschiff in Seenot als »fatto« dargestellt.
 
 C FIDES-ECCLESIA präsentiert Kreuz und Eucharistiekelch. Sie sitzt vor einem kleinen Rundbau, der wie die Hostie einen Strahlennimbus hat. Putti halten Papsttiara und -stab.
-<!-- citation-page-bottom: Band02 p273 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=13 -->
-<!-- citation-page-top: Band02 p274 -->
 
 
 == BAYERSOIEN ==
@@ -86,6 +83,3 @@ Mayer-Westermayer, Bd 3, S. 5–7. KDB I OB (1), S. 577. Hofmann, Sigfrid, Der L
 
 
 == DICKELSCHWAIG ==
-
-
-{{End}}

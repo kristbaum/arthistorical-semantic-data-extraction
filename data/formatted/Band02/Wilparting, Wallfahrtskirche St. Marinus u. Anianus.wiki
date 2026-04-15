@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p628 -->
 
-<!-- header: WILPARTING -->
 
 
 == WILPARTING ==
@@ -72,7 +70,6 @@ In der Dekoration der LHs-Decke bringt Heigl das gleiche Schema wie in der drei 
 
 
 [[File:Band02_chunk013_p015_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p629 -->
 
 
 D1-2 AT-Szenen
@@ -81,8 +78,6 @@ D1 Berufung Abrahams
 
 D2 Namensgebung Jesu
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=16 -->
-<!-- citation-page-top: Band02 p630 -->
 
 überschnitten werden. Dadurch bildet die Stuckdekoration eine ganz auf das Bildfeld bezogene Rahmenzone.
 
@@ -129,12 +124,8 @@ D<sub>1-2</sub> AT-SZENEN Das Hauptbild ist an den Gewölbezwickeln von zwei mon
 
 
 B MARTYRIUM DES HL. MARINUS UND TOD DES HL. ANIANUS Die erste Nachricht vom Leben und Sterben der beiden Heiligen Marinus und Anianus gibt eine Tegernseer Handschrift aus dem 12. Jh., die das Geschehen in die Regierungszeit Pippins und Karlmanns verlegt. Alexander Joseph Streiter, Pfarrer von Irschenberg in der Ausstattungszeit der Kirche von Wilparting, faßte die Legende neu und nennt als Quelle die Vita des Johannes a Via aus dem späten 16. Jh. – Danach lebte der Bischof Marinus, ein iroschottischer Wandermissionar, im 7. Jh. als Priester und Einsiedler am Ort des heutigen Wilparting. Sein Gefährte und Neffe, der Diakon Anianus, lebte und wirkte in einer Zelle in der Gegend des heutigen Alb, von Wilparting durch eine Schlucht getrennt. Am 15. November des Jahres 697 (Streiter, S. 8–10) kam eine Schar räuberischer Wenden und »Sclaven« (Slawen), fand Marinus im Gebet und verlangte von ihm Geld, das Gläubige bei ihm hinterlegt hatten. Außerdem wollten sie ihn zwingen, dem christlichen Glauben zu entsagen. Als
-<!-- citation-page-bottom: Band02 p631 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=17 -->
-<!-- citation-page-top: Band02 p632 -->
 
-<!-- header: WILPARTING -->
 
 [[File:Band02_chunk013_p017_img001.jpg|thumb]]
 
@@ -144,7 +135,7 @@ B MARTYRIUM DES HL. MARINUS UND TOD DES HL. ANIANUS Die erste Nachricht vom Lebe
 
 [[File:Band02_chunk013_p017_img004.jpg|thumb|D<sub>2</sub> Berufung des Moses]]
 
-Im Hintergrund des Bildes sieht man in einer kleinen Holzhütte, die von Bäumen umgeben ist, den Diakon Anianus: er kniet am Boden, von Strahlen umgeben, und eine weiße Taube fliegt von ihm aus zum Himmel. Streiter berichtet in seiner Vita (S. 10 f.): »In der Zeit, als die Marter mit dem hl. Bischof Marinus vorbey gieng, lag<br>Anianus der heilige Diacon in seiner Hütte schwerlich krank, und da er innerlich erleuchtet erkante, was mit seinem heiligen Bischof vorbey gieng ... nahm er das heilige Sakrament des Altars, als die letzte Wegzehrung zu<br>sich, da er dann unter anmuthigen Liebsseufzern und inbrünstiger Begierd bey Gott und seinem heiligen Bischof zu seyn, ganz freudenvoll an diesem Tag ... seinem nächsten und liebsten Verwandten im Himmel nachgefolget ist . . . « Nach der Legende soll dabei die Seele des Heiligen in Gestalt einer Taube zum Himmel geflogen sein; diese Taube wurde in den bildlichen Darstellungen zum Attribut des Heiligen.
+Im Hintergrund des Bildes sieht man in einer kleinen Holzhütte, die von Bäumen umgeben ist, den Diakon Anianus: er kniet am Boden, von Strahlen umgeben, und eine weiße Taube fliegt von ihm aus zum Himmel. Streiter berichtet in seiner Vita (S. 10 f.): »In der Zeit, als die Marter mit dem hl. Bischof Marinus vorbey gieng, lag Anianus der heilige Diacon in seiner Hütte schwerlich krank, und da er innerlich erleuchtet erkante, was mit seinem heiligen Bischof vorbey gieng ... nahm er das heilige Sakrament des Altars, als die letzte Wegzehrung zu sich, da er dann unter anmuthigen Liebsseufzern und inbrünstiger Begierd bey Gott und seinem heiligen Bischof zu seyn, ganz freudenvoll an diesem Tag ... seinem nächsten und liebsten Verwandten im Himmel nachgefolget ist . . . « Nach der Legende soll dabei die Seele des Heiligen in Gestalt einer Taube zum Himmel geflogen sein; diese Taube wurde in den bildlichen Darstellungen zum Attribut des Heiligen.
 
 B<sub>1-4</sub> EMBLEME Die vier Embleme haben kein Lemma. Die Icones enthalten sehr geläufige Motive. Paarweise stehen sich zwei Vogel- und zwei Blumenbilder gegenüber.
 
@@ -193,5 +184,3 @@ Der Zyklus wird an der Nordwand von W nach O zu Ende geführt:
 12 »Der heil. Marin stirbt unter Gebeth als Martyrer Anian als Beichtiger am nämlichen Tag im Jahre 697 der 15. November.«
 
 Literatur siehe S. 634
-
-{{End}}

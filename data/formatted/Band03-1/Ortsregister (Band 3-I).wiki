@@ -131,10 +131,7 @@ St. Anna Damenstift 38, 40, 185–90
 St. Anna im Lehel 38, 40, 191–95  
 St. Carl Borromäus 268  
 St. Kajetan sog. Theatinerkirche 57 f.  
-<!-- citation-page-bottom: Band03-1 p277 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=15 -->
-<!-- citation-page-top: Band03-1 p278 -->
 
 St. Johann Nepomuk sog. Asamkirche 37–52  
 St. Maximilian → Spital der Barmherzigen Brüder  
@@ -240,5 +237,3 @@ Wies bei Steingaden 149, 151 f.
 Wilparting 89  
 Wolfratshausen, Landgericht 62, 73, 82, 93, 102, 109, 117, 137, 142, 144, 169  
 Zell 131, 180–81 
-
-{{End}}

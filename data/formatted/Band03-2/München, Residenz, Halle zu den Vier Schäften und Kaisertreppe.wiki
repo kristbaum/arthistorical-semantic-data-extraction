@@ -39,14 +39,9 @@ Für die Ausmalung der Treppe gibt es keine Belege, da die erhaltenen Rechnungen
 
 Fünf Zeichnungen in der SGS Mü, alle Feder in Grauschwarz, hellbraun laviert, sind Nachzeichnungen nach den Grotesken der Kaisertreppe von 1622/23. Inv. Nr. 29882, 14,5 × 11,5 cm, nach einem Zwickel; Inv. Nr. 29886, 11,5 × 23,3, nach dem südlichen Zwickel von Feld 3; Inv. Nr.  
 
-<!-- citation-page-bottom: Band03-2 p169 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=11 -->
-<!-- citation-page-top: Band03-2 p170 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: KAISERTREPP -->
 
 
 [[File:Band03-2_chunk004_p011_img001.jpg|thumb]]
@@ -130,14 +125,9 @@ Nach einem quadratischen Joch (1) steigt der tonnenüberwölbte Treppenlauf (2) 
 
 
 [[File:Band03-2_chunk004_p011_img008.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p171 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=12 -->
-<!-- citation-page-top: Band03-2 p172 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: KAISERTREPPE -->
 
 
 [[File:Band03-2_chunk004_p012_img001.jpg|thumb|3 (Vorkriegszustand)]]
@@ -157,14 +147,9 @@ Die offene zweischiffige Treppenhalle besteht aus sechs kreuzgratgewölbten quad
 
 
 [[File:Band03-2_chunk004_p012_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p173 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band03-2 p174 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: KAISERTREPPI -->
 
 
 [[File:Band03-2_chunk004_p013_img001.jpg|thumb]]
@@ -213,7 +198,6 @@ In der Halle zu den Vier Schäften hingen an den Wänden Bildnisse der zwölf r�
 
 
 Ähnlich wie im fünfzehn Jahre zuvor entwickelten Programm der Erdgeschoßräume der Residenz treten die antiken Kaiser zusammen mit den berühmtesten Vertretern aus der Dynastie des Auftraggebers als Exempla auf, die zur Tugend anspornen sollen. Mit den Kaisern nach Sueton dürften vor allem die Laster und ihre Folgen als Warnung vor Augen gestellt, bei den übrigen Herrschern ihre Tugenden zur Nachahmung empfohlen sein. Diesen Gedanken nehmen die Deckenbilder über dem ersten und dem dritten Treppenlauf auf, wobei Thematik und Gestaltung mit der Aufwärtsbewegung des Treppenanstiegs in Einklang stehen. Herkules, der Prototyp des Tugendhelden, fährt gen Himmel, der Belohnung seiner vorbildlichen Taten entgegen, Ikarus stürzt dem Untergang entgegen, da er, entgegen der Empfehlung seines Vaters, den mittleren Kurs zu wählen, sich zu sehr der Sonne genähert hat. Die Fabel weist auf eine der wichtigsten Forderungen der Epoche mit ihrer neu-stoischen Ausrichtung, die Wahl des »Goldenen Mittelwegs«, das Maßhalten und das Vermeiden von Extremen (Otto van Veen, Emblemata Horatiana, »In medio consistit virtus« und »Medio tutissimus ibis«; Natalis Comes, Mythologica, s.v. Icarus).
-<!-- citation-page-bottom: Band03-2 p175 -->
 
 
 [[File:Band03-2_chunk004_p013_img008.jpg|thumb]]
@@ -222,12 +206,7 @@ In der Halle zu den Vier Schäften hingen an den Wänden Bildnisse der zwölf r�
 
 [[File:Band03-2_chunk004_p013_img009.jpg|thumb]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk004.pdf#page=14 -->
-<!-- citation-page-top: Band03-2 p176 -->
 
-<!-- header: RESIDENZ -->
-<!-- header: KAISERSAAI -->
-<!-- header: RESIDENZ -->
 
 
 [[File:Band03-2_chunk004_p014_img001.jpg|thumb]]
@@ -270,6 +249,3 @@ Brunner/Hojer/Seelig 1986, S. 126-144 und Abb. 10
 
 
 == Kaisersaal ==
-
-
-{{End}}

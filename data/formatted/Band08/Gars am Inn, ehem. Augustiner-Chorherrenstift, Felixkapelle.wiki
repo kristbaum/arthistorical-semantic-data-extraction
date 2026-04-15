@@ -46,10 +46,7 @@ Träger der Deckenmalerei: Flaches Kreuzgratgewölbe Rahmen: Gemalte Rahmung Tec
 Maße: A, B, C Höhe 3,65 m; 2,50 × 3,65
 
 Erhaltungszustand und Restaurierungen: 1864/65 wurde anläßlich einer Neufassung der Gebeine des hl. Felix der ganze Raum renoviert und das feuchte Gewölbe trockengelegt. An die Stelle der drei Bretterwände, durch welche die Kapelle seit 1674 von dem ihr nebenlaufenden Gewölberaum abgetrennt war, wurden Ziegelmauern aufgeführt. Um es trocken zu machen, wurde das Gewölbe frisch beschüttet und z.T. mit neuen Ziegeln, zum andern Teil mit aus dem Fußboden der Felixkapelle erübrigten Quadern belegt. Es wurde geweißt und alle schadhaften Stellen ausgebessert. Eine Photographie (BLfD) zeigt den Raum mit einer gemalten Gewölbedekoration: Die drei Felix-Fresken sind eingebunden in eine ähnliche aber jüngere Bandwerkornamentik wie die Klosterkirche; die
-<!-- citation-page-bottom: Band08 p113 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk003.pdf#page=8 -->
-<!-- citation-page-top: Band08 p114 -->
 
 
 [[File:Band08_chunk003_p008_img001.jpg|thumb|B Felix als Patron in Unwette]]
@@ -79,12 +76,8 @@ Der Kult des hl. Felix ist auf Gars beschränkt: 1671 erbat sich Propst Athanasi
 
 
 [[File:Band08_chunk003_p008_img003.jpg|thumb|C Felix als Patron in Feuersnot]]
-<!-- citation-page-bottom: Band08 p115 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk003.pdf#page=9 -->
-<!-- citation-page-top: Band08 p116 -->
 
-<!-- header: GARS AM INI -->
 
 
 == GARSAMINN ==
@@ -99,5 +92,3 @@ Gars entwickelte sich eine blühende Wallfahrt, zahlreiche Votivbilder - von den
 
 
 Thieme-Becker Bd 23, 1929, S. 203 (s.v. Liechtenfurter). Ebermann, P. Bernhard, 300 Jahre St. Felix in Gars, in: Das Mühlrad 1975, S. 69–81.
-
-{{End}}

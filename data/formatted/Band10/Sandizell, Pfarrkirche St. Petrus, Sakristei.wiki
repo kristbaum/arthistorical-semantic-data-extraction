@@ -11,12 +11,8 @@
 |danach=Sandizell, Schlosskapelle Zum gekreuzigten Heiland
 |AutorIn1=Sauerländer, Brigitte
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=7 -->
-<!-- citation-page-top: Band10 p264 -->
 
-<!-- header: SANDIZELL -->
 
-<!-- header: SANDIZEI -->
 
 
 == Sakristei der Pfarrkirche ==
@@ -61,7 +57,3 @@ In seiner Gestaltung geht das Sandizeller Deckenbild auf Rubens zurück, vor all
 Das Bildthema wurde gerne für die Ausmalung von Sakristeien verwendet, denn die geweihten Schaubrote sind ein typologisches Vorbild für die konsekrierten Hostien. In der Schrift des Jesuiten Louis Richéome zur Eucharistie (Paris 1601; deutsch Augsburg 1621) wird außer auf die Schaubrote auch auf die Begegnung Achimelechs mit David unter dem Aspekt der rituellen Reinheit Davids und seiner imaginären Begleiter verwiesen. Der Kommentar betont, daß derjenige, der sich den Schaubroten nähert, nicht nur eine reine Seele, sondern auch einen reinen Leib haben muß. Verstärkt gilt dies für den Christen vor Empfang der hl. Kommunion.
 
 Literatur siehe S. 27
-<!-- citation-page-bottom: Band10 p265 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=8 -->
-{{End}}

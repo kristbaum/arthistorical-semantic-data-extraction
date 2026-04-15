@@ -28,10 +28,7 @@ Dreiachsiger Saalraum mit stark eingezogenem, einjochigen AR, der innen dreiseit
 
 
 [[File:Band04_chunk001_p017_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p33 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=18 -->
-<!-- citation-page-top: Band04 p34 -->
 
 [[File:Band04_chunk001_p018_img001.jpg|thumb|B Die hll. Sixtus und Ulrich als Patrone B. Moorenweis oder Eismerszell? B. Albertshofen B. Moorenweis St. Ulrich? B. Hohenzell]]
 
@@ -63,14 +60,9 @@ AR überzieht ein dichteres Stucknetz aus demselben Formenrepertoire das Gewölb
 Die Schriftkartusche über dem Chorbogen enthält die vermutlich nicht ursprüngliche Inschrift »Benedictus qui venit in nomine Domini«.  
 
 A GLORIE DES HL. GEORG Einansichtige, geostete Bildanlage mit zwei übereinandergestellten Szenen; Betrachterstandpunkt zwischen dem ersten und zweiten Joch von W her. Die östliche Bildhälfte zeigt über einer gewellten Bodenzone das von Bäumen umstandene Dorf Eismerszell, die neuerbaute Georgskirche in der Mitte – von N gesehen – wirklichkeitsgetreu wiedergegeben (vier LHs-Fenster, hochgezogen-
-<!-- citation-page-bottom: Band04 p35 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=19 -->
-<!-- citation-page-top: Band04 p36 -->
 
-<!-- header: EISMERSZEL -->
 
-<!-- header: FISMFRSZFII -->
 
 
 [[File:Band04_chunk001_p019_img001.jpg|thumb]]
@@ -102,12 +94,8 @@ A<sub>3</sub> ANDECHS (?) Dargestellt ist die Nordansicht einer Kirche mit Südt
 A<sub>4</sub> GELTENDORF Die Dorfansicht zeigt eine durch Bauernhäuser halbverdeckte Kirche, deren Turm eine doppelte Zwiebelhaube ziert; das trifft auch für den heutigen Geltendorfer Kirchturm zu.
 
 B<sub>1-4</sub> ORTSDARSTELLUNGEN Zur Zeit der Ausmalung von Eismerszell gehörten zur Pfarrei St. Sixtus in Moorenweis Eismerszell, Albertshofen und Hohenzell (s. StAM, Geistlicher Rat, Kirchen- und Stiftungsrechnungen, Kirchenrechnungen Gericht Landsberg, 1740, Bd 2) sowie die Gemeinde der abgebrochenen Schmiechener Filialkirche St. Ulrich in Moorenweis. Es ist anzunehmen, daß die Bilder im AR sich auf Kirchen der Pfarrei beziehen.
-<!-- citation-page-bottom: Band04 p37 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=20 -->
-<!-- citation-page-top: Band04 p38 -->
 
-<!-- header: EISMERSZELL -->
 
 B<sub>1</sub> und B<sub>2</sub> ABGEBROCHENE KIRCHENBAUTEN Die Kirche in B<sub>1</sub> ist nicht mit Sicherheit zu benennen. Es könnte sich um den abgebrochenen Vorgängerbau der Pfarrkirche St. Sixtus in Moorenweis, aber auch (weniger wahrscheinlich) um den Vorgängerbau von St. Georg von Eismerszell handeln.
 
@@ -157,6 +145,3 @@ Dehio 1990, S. 242 f.
 
 
 == ESTING ==
-
-
-{{End}}

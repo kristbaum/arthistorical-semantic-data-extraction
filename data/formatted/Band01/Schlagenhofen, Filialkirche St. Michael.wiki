@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p342 -->
 
-<!-- header: SCHLAGENHOFEN -->
 
 
 == SCHLAGENHOFEN ==
@@ -102,7 +100,3 @@ A4 Hieronymus in Kardinalstracht mit dem Löwen
 
 
 Braun-Augsburg, Bd 1, S. 364
-<!-- citation-page-bottom: Band01 p343 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=23 -->
-{{End}}

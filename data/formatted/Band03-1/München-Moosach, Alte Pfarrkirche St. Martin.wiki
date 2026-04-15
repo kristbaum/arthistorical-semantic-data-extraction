@@ -39,12 +39,8 @@ Fresko B im AR ist weder signiert noch datiert. Nach Fertigstellung der Ausstatt
 Träger der Deckenmalerei: A (LHs) Flachdecke, B (AR) verschliffenes Kreuzrippengewölbe
 
 Rahmen: A glatte Stuckleiste, im O und W von je einer Stuck-Kartusche besetzt; B mehrfach gekurvte Stuck-Leiste, an vier Seiten von reichen Rocaille-Kartuschen überspielt, an denen Stuckgirlanden frei plastisch hängen
-<!-- citation-page-bottom: Band03-1 p89 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=21 -->
-<!-- citation-page-top: Band03-1 p90 -->
 
-<!-- header: MOOSACH -->
 
 Technik: Fresko; polychrom
 
@@ -82,10 +78,7 @@ Im Thema des Hauptfreskos wurde hier sehr originell auf
 
 
 [[File:Band03-1_chunk002_p021_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p91 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=22 -->
-<!-- citation-page-top: Band03-1 p92 -->
 
 »Herr, ich bin nicht würdig, daß Du unter mein Dach trittst Aber sprich nur ein Wort, so wird mein Knecht geheil werden« (Mt 8, 8). Das Thema des Freskos über dem Hochaltar ist hier als Hinweis auf die Eucharistie zu sehen, die oben im Bild von den Engeln verehrt wird. Die Worte des Hauptmanns werden in kaum abgewandelter Form in der Meßliturgie unmittelbar vor der Kommunion gesprochen.
 
@@ -98,7 +91,3 @@ KDB I OB (1), S. 791.
 Bauer, Anton, Beiträge zur Geschichte der Stadtpfarrei St Martin in München-Moosach, München 1933. Dehio-Gall OB, S. 43.
 
 Laturell, Volker, D. und Georg Mooseder, Moosach, Bd 1, Von den Anfängen bis 1800, München 1980, S. 281–85. Altmann, Lothar/Georg Mooseder, Zur Baugeschichte der alten Martinskirche in München-Moosach, in: Jahrbuch des Vereins für christl. Kunst XV, 1985, S. 62–70. K. S.
-
-<!-- header: PERLACH St. Michael -->
-
-{{End}}

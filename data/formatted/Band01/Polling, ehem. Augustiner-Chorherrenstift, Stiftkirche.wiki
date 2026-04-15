@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p450 -->
 
-<!-- header: POLLING -->
 
 
 == POLLING ==
@@ -60,5 +58,3 @@ Direkt hinter dem Bildrahmen fällt der Boden steil nach hinten ab. Die Raumtief
 Nach oben erscheint der Raum durch die helle Glorie geöffnet; dadurch und durch die Verkürzung und Untersicht in den Figuren entsteht eine deutliche Illusionswirkung. Der Farbdreiklang in Rot-Gold-Blau, verbunden mit reichlich gebrochenem Weiß, ergibt vor dem Goldbrokat-Hintergrund eine festliche Wirkung. 
 
 [[File:Band01_chunk010_p001_img001.jpg|thumb]]
-
-{{End}}

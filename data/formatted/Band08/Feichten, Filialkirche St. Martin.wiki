@@ -43,14 +43,9 @@ Terminus post quem ist die Heirat Hornöcks in Neumarkt im Jahr 1777. Ein Jahr z
 
 
 Träger der Deckenmalerei: Stichkappentonne (verschliffenes Kreuzgratgewölbe), im O abgemuldet Rahmen: In den Diagonalen verkröpfter Stuckprofilrahmen Technik: Fresko; polychrom
-<!-- citation-page-bottom: Band08 p79 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=16 -->
-<!-- citation-page-top: Band08 p80 -->
 
-<!-- header: FEICHTEN -->
 
-<!-- header: FRAHAM -->
 
 Maße: Höhe 7,00 m; 3,40 × 2,50
 
@@ -73,5 +68,3 @@ Historischer Atlas Bd 36, Mühldorf (Helmuth Stahleder), München 1976, S. 230.
 Lechner, Martin, Die Kirchen der Stadtpfarrei Neumarkt St. Veit und ihre kunstgeschichtliche Bedeutung, in: Heimat an Rott und Inn 1974, S. 80–82.  
 -, Neumarkt St. Veit (KKF Nr. 948), München 1989, Filialkirche St. Martin in Feichten, S. 28–30.  
 Dehio 1990, S. 280.
-
-{{End}}

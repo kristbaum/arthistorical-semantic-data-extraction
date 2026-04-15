@@ -84,10 +84,7 @@ Quasi absconditus vultus eius 20 Quasi aurora consurgens 179 Quis scrutabitur vi
 Rubus incombustus 55
 
 Satiabor cum appuerit 128 Sicut oliva fructifera in domo dei 178 Signum foederis 54 Simul unus et semper trinus 36 Splendescit et urit 136 Superbis resistit 96
-<!-- citation-page-bottom: Band03-1 p289 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=21 -->
-<!-- citation-page-top: Band03-1 p290 -->
 
 Tenet una trinum 32 Terras diffusus in omnes 136 Tres huic conficiunt 33 Tres vidit et unum adoravit 33 Tribus his propellitur una 32 Trino trinus unum 32 Trinum tenet una thesaurum 32
 
@@ -119,9 +116,3 @@ Wie der Sonnen glantz/scheint und hitzet gantz 130
 
 
 [[File:Band03-1_chunk006_p021_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p291 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=22 -->
-<!-- citation-page-top: Band03-1 p292 -->
-
-{{End}}

@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p626 -->
 
-<!-- header: WEYAR -->
 
-<!-- header: WEVARN -->
 
 Bürgermeisterzimmer im Rathaus der Gemeinde Weyarn, ehem. Stiftsgebäude
 
@@ -77,7 +74,3 @@ Thon, Christina, J. B. Zimmermann als Stukkator, München 1977, S. 165–67, 313
 
 
 [[File:Band02_chunk013_p014_img001.jpg|thumb|Hl. Augustinus]]
-<!-- citation-page-bottom: Band02 p627 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=15 -->
-{{End}}

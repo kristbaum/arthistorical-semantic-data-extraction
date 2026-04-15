@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p240 -->
 
-<!-- header: UNTERBEUERN -->
 
-<!-- header: UNTERDIESSEN -->
 
 Kapelle, Gemeinde Dießen, Pfarrei Thaining (z. Z. von Stadl vikariert), Diözese Augsburg; z. Z. der Ausmalung Pfarrei und Hofmark St. Georgen (Inhaber Kloster Die- (Sen)
 
@@ -57,4 +54,3 @@ Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech,
 
 
 [[File:Band01_chunk005_p021_img001.jpg|thumb]]
-{{End}}

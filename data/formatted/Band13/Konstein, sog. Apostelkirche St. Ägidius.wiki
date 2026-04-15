@@ -47,12 +47,8 @@ Erhaltungszustand und Restaurierungen: Die Deckengemälde wurden nachweislich im
 
 
 [[File:Band13_chunk007_p007_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p313 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=8 -->
-<!-- citation-page-top: Band13 p314 -->
 
-<!-- header: KONSTEIN -->
 
 [[File:Band13_chunk007_p008_img001.jpg|thumb]]
 
@@ -76,12 +72,8 @@ B GOTTVATER Rundes Deckenbild über dem ehem. Altar. Es zeigt die Halbfigur Gott
 
 
 [[File:Band13_chunk007_p008_img002.jpg|thumb|Die Kapellendecke heute: Auferstandener Christus (Günter Danco 1962), B. Gottvater, 1. Anna, 2. Joachim, 3. Joseph]]
-<!-- citation-page-bottom: Band13 p315 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=9 -->
-<!-- citation-page-top: Band13 p316 -->
 
-<!-- header: KONSTFIN -->
 
 
 [[File:Band13_chunk007_p009_img001.jpg|thumb|Orgelempore mit EB<sub>1-13</sub> Christus und Zwölf Apostel.]]
@@ -130,5 +122,3 @@ C.G.
 
 
 Pfarrkirche, Stadt Beilngries, Diözese Eichstätt; z. Z. der Ausmalung Hochstift Eichstätt. 1806–1972 Landgericht bzw. Bezirksamt bzw. Landkreis Beilngries/OPf.
-
-{{End}}

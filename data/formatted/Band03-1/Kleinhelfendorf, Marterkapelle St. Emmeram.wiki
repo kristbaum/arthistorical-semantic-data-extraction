@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p134 -->
 
-<!-- header: KLEINHELFENDORF -->
 
 Marterkapelle am westlichen Ortsrand, Gemeinde Aying, Pfarrei Helfendorf, Erzdiözese München und Freising; z. Z. der Ausmalung Benefizium, Pfarrei Aying, Landgericht Aibling
 
@@ -48,7 +46,7 @@ Im Januar 1752 reichte das Landgericht die Überschläge des Schlossers des Kist
 
 Am 10. März 1752 gab der Geistliche Rat zu dem revidierten Überschlag Gaills seine Zustimmung, schränkte jedoch die Arbeit des Stukkators Johann Schwarzenberger von Aibling auf »eine simple Leisten« ein. Noch vor dem offiziellen Arbeitsbeginn ging am 19. April ein Brief der »gesambten Gmain zu Helfendorf« beim Geistlichen Rat ein, in dem für die Ausmalung der »Fresco Mahler Zimmermann« gefordert und Beschwerde geführt wurde: »Als will hingegen der Gerichtsschreiber zu Aybling den dasigen Mahler mit aller Gewalt eindringen, der doch alleinig auf Leinwaht und nicht in Fresco zu mahlen kundig, folgsamb Ihre Churf. Durchlaucht ... nicht verlangen werden, daß bemelte Capellen mit derley Mahlereyen verpfuscht und in die Länge keine Daur hat...«
 
-Am 25. April 1752 wurde der Tod des Stukkators Schwarzenbergers gemeldet. Der Geistliche Rat versuchte nun – erstmals offen –, für die Ausmalung und Stuckierung Johann Baptist Zimmermann durchzusetzen, aber nur mit geringem Erfolg: Zimmermann wurden »vor die aus Stockatorung die Helfte [= 200 fl.] gnedig zugesagt, ...weilen ein Maler<br>aus Aybling die Ausmahlung an sich gezogen«. Bis zur Antwort des Pflegrichters am 13. Juni hatte Gaill nämlich sein Fresko in der mittleren Hängekuppel schon zur Hälfte fertiggestellt, und am 20. Juli wurde vom Pfarrer die »nit ganz ausgetrocknete Malerei« erwähnt.
+Am 25. April 1752 wurde der Tod des Stukkators Schwarzenbergers gemeldet. Der Geistliche Rat versuchte nun – erstmals offen –, für die Ausmalung und Stuckierung Johann Baptist Zimmermann durchzusetzen, aber nur mit geringem Erfolg: Zimmermann wurden »vor die aus Stockatorung die Helfte [= 200 fl.] gnedig zugesagt, ...weilen ein Maler aus Aybling die Ausmahlung an sich gezogen«. Bis zur Antwort des Pflegrichters am 13. Juni hatte Gaill nämlich sein Fresko in der mittleren Hängekuppel schon zur Hälfte fertiggestellt, und am 20. Juli wurde vom Pfarrer die »nit ganz ausgetrocknete Malerei« erwähnt.
 
 Nach Ausweis der Akten war die Stuckierung bereits 1749 begonnen worden; Entwurfszeichnungen für Kleinhelfendorf belegen, daß der
 
@@ -77,14 +75,9 @@ Offenbar ist hiermit die Anordnung des Geistlichen Rats hinsichtlich »simpler L
 A GLORIE DES HL. EMMERAM Reine Himmelsszenerie, zentralperspektivisch angelegt, aber ohne konsequente Untersichten und Verkürzungen, Betrachterstandpunkt westlich von der Bildmitte, etwa unter der Geist-Taube.
 
 Die Himmelskuppel ist gefüllt mit Wolkenpolstern, die sich zur Höhe hin zu einem puttogesäumten Ring verdichten; dieser umschließt die Lichtglorie mit der Hl. Dreifaltigkeit. Ihr zu Füßen kniet der hl. Emmeram, in der Mittelachse der Hauptansichtsseite. Begleitengel tragen seine Bischofsinsignien, und Christus hält ihm die Martyrerkrone entge
-<!-- citation-page-bottom: Band03-1 p135 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=19 -->
-<!-- citation-page-top: Band03-1 p136 -->
 
-<!-- header: KLEINHELFENDORF -->
 
-<!-- header: KREUZPULLACH -->
 
 
 [[File:Band03-1_chunk003_p019_img001.jpg|thumb|Ausschnitt aus dem Kuppelfresko, O-Seite und Kartusche mit Bauinschrift]]
@@ -121,5 +114,3 @@ Der Landkreis München (o. V.), München 1979, S. 31, 53–55.
 St. Emmeram Helfendorf 1680–1980, Festschrift hg. v. Erich Lang, Pfarrer, Kleinhelfendorf 1980.
 
 Böhm, Cordula, Kleinkarierte Denkart hemmt große Meister, Intrigenspiel um die Gestaltung der Marterkapelle Kleinhelfendorf, in: Charivari 2, 1981, S. 42-51. C. B.
-
-{{End}}

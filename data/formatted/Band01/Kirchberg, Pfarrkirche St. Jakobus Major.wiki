@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p422 -->
 
-<!-- header: KIRCHBERG -->
 
-<!-- header: KIRCHBERG -->
 
 Pfarrkirche, Gemeinde und Pfarrei Wildsteig, Diözese München-Freising; z. Z. der Ausmalung Filialkirche, Klosterpfarrei und Herrschaft Rottenbuch
 
@@ -67,12 +64,8 @@ B MARTYRIUM DES HL. SEBASTIAN Die einansichtige Szene hat ihre Basis im O. Darst
 
 
 [[File:Band01_chunk009_p012_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p423 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=13 -->
-<!-- citation-page-top: Band01 p424 -->
 
-<!-- header: KIRCHBERG -->
 
 
 [[File:Band01_chunk009_p013_img001.jpg|thumb|D Gang des Apostels Jakob zur Richtstätt]]
@@ -101,7 +94,3 @@ KDB OB I (1), S. 585
 Hofmann, Sigfrid, Zur Geschichte der Pfarrei und Gemeinde Wildsteig, in: Lech- und Ammerrain 8, 1957, S. 25  
 -, Der Landkreis Schongau, München 1959, S. 117  
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23), München 1971, S. 179.
-<!-- citation-page-bottom: Band01 p425 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=14 -->
-{{End}}

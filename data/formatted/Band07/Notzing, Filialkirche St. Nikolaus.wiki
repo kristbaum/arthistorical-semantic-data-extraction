@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p236 -->
 
-<!-- header: NOTZINO -->
 
 
 == NOTZING ==
@@ -68,7 +66,3 @@ Historischer Atlas I, Bd 58, Erding (Susanne Margarethe Herleth-Krentz), 1997, S
 
 
 [[File:Band07_chunk005_p019_img001.jpg|thumb|Die hll. Bischöfe Nikolaus, Wolfgang, Ulrich und Korbinian]]
-<!-- citation-page-bottom: Band07 p237 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=20 -->
-{{End}}

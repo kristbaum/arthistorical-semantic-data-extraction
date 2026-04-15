@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p326 -->
 
-<!-- header: HADORF -->
 
-<!-- header: INNING -->
 
 
 Filialkirche, Pfarrei Steinebach, Diözese Augsburg; z. Z. der Ausmalung zur Pfarrei Erling gehörig, die dem Kloster Andechs inkorporiert war, Gericht Weilheim
@@ -55,5 +52,3 @@ Die bestimmende Farbe der Architekturen ist Gelbgrau. In den Gewändern sind sch
 
 Braun-Augsburg, Bd 1, S. 362 f.  
 Thieme-Becker, Bd 13, S. 133 (s. v. Galrapp).
-
-{{End}}

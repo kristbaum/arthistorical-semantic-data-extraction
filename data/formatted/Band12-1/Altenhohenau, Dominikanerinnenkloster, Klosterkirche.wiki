@@ -31,12 +31,8 @@ Die Kloster- und Wirtschaftsgebäude einschließlich des Grundbesitzes wechselte
 
 [[File:Band12-1_chunk001_p016_img001.jpg|thumb]]  
 [[File:Band12-1_chunk001_p016_img002.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band12 p31 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk001.pdf#page=17 -->
-<!-- citation-page-top: Band12 p32 -->
 
-<!-- header: ALTENHOHENAU -->
 
 
 [[File:Band12-1_chunk001_p017_img001.jpg|thumb|Der Kirchenraum nach Westen mit Blick auf den Nonnenchor]]
@@ -81,14 +77,9 @@ Für die spätere Datierung von Fresko B könnte allerdings die Turmform der unt
 Träger der Deckenmalerei: LHs Korbbogentonne mit Stichkappen; AR Flachkuppel
 
 Rahmen: Rahmen und gesamte Gewölbedekoration gemalt Technik: Fresko; A und B polychrom, a-b, 1-6 monochrom grau vor ockerfarbenem Brokatgrund
-<!-- citation-page-bottom: Band12 p33 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk001.pdf#page=18 -->
-<!-- citation-page-top: Band12 p34 -->
 
-<!-- header: AITENHOHENAII -->
 
-<!-- header: ALTENHOHENA -->
 
 Maße: A Höhe 8,00 m; 7,30 × 4,25  
 B Höhe 7,90 m: 3,50 × 5,05  
@@ -115,14 +106,9 @@ An der Spitze der Dominikanerinnen rechts kniet die hl. Katharina von Siena, ein
 
 
 [[File:Band12-1_chunk001_p018_img001.jpg|thumb|A Maria als Rosenkranzkönigin mit Dominikanerheiligen, a Attribute des hl. Dominikus, b Symbole des klösterlichen Lebens (Johann Michael Hartwagner 1774)]]
-<!-- citation-page-bottom: Band12 p35 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk001.pdf#page=19 -->
-<!-- citation-page-top: Band12 p36 -->
 
-<!-- header: ALTENHOHENA -->
 
-<!-- header: ALTENHOHENAU -->
 
 
 [[File:Band12-1_chunk001_p019_img001.jpg|thumb]]
@@ -141,13 +127,10 @@ brennenden Fackel im Maul, dazu eine weitere Fackel und eine
 B DIE DREIFALTIGKEIT MIT DEN PATRONEN VON ALTENHOHENAU Das querformatige Bildfeld, das von zwei gemalten Kartuschen mit Putten in Grisaillemalerei flankiert ist, zeigt eine weitgebreitete Wolkenszenerie, unter der am rechten unteren Bildrand umgeben von Wiesen das Kloster Altenhohenau zu sehen ist (zum Turm s. unter Autor). Ein großes verschnürtes Paket ist wohl als Hinweis auf den Kaufmann und Auftraggeber Hepp am unteren Bildrand dargestellt.
 
 Darüber entfaltet sich, vor dem stellenweise durchschimmernden blauen Himmelsgrund, eine lichte Wolkenlandschaft mit graurosa Farbverdichtungen in den Schatten. Vor einer überhellen, weißlichen Auflichtung erscheint die Gestalt Gottvaters über der Weltkugel, der sich zu Christus beugt, der segnend die Rechte hebt. Diese Gruppe ist nicht nur
-<!-- citation-page-bottom: Band12 p37 -->
 
 
 [[File:Band12-1_chunk001_p019_img003.jpg|thumb|1–6 Symbole der Rosenkranzbruderschaft. Zwickelgrisaillen um Fresko A]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk001.pdf#page=20 -->
-<!-- citation-page-top: Band12 p38 -->
 
 [[File:Band12-1_chunk001_p020_img001.jpg|thumb|Attribute des hl. Dominikus]]
 
@@ -202,5 +185,3 @@ Volk, Peter, Ignaz Günther. Vollendung des Rokoko, Regensburg 1991, S. 112–17
 Kaiser, Alfred, Sub Tuum Praesidium - Ein Beitrag zur Ikonologie der Dominikanerinnen-Klosterkirche St. Peter und Paul in Altenhohenau, in: Heimat am Inn 14/15 (1994/95), Wasserburg 1996, S. 149–94
 
 Stauffert, Thomas K., Das Kloster Altenhohenau zwischen Säkularisation und Wiederbesiedlung, in: Heimat am Inn 18/19, Wasserburg 2000, S. 175–244.
-
-{{End}}

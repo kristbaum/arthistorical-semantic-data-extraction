@@ -116,10 +116,7 @@ Heigl, Joseph Martin, Maler 358–59, 508–12
 Herz, Johann, Pfarrer 387 f.  
 Hirsauer, Magdalena 252  
 
-<!-- citation-page-bottom: Band01 p627 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk013.pdf#page=15 -->
-<!-- citation-page-top: Band01 p628 -->
 
 Hotter, Restaurator 64, 352  
 Hueber, Johann Joseph Anton, Maler 30-36, 241-46, 525-29  
@@ -386,4 +383,3 @@ Zwinck, Franz Joseph, Pfarrer 66, 70, 72
 Zwinck, Malerfamilie  
 Zwinck, Franz Seraph, Maler 54, 59, 422-25  
 Zwinck, Johann Joseph, Maler 513-16  
-{{End}}

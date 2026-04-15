@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p266 -->
 
-<!-- header: UNTERWEIKERTSHOFEN -->
 
 
 == UNTERWEIKERTSHOFFN ==
@@ -72,13 +70,8 @@ Erhaltungszustand und Restaurierungen: 1911 Restaurierung des Innern nach der Er
 A MARIA ALS FÜRBITTERIN Ansicht nach W. Inschrift (nicht aus der Entstehungszeit) auf einem Schriftband oben im Bild Unter Euern Schutz fliehen wir. Darunter sieht man Maria mit dem Kind in Wolken. Strahlen und ein Sternenkranz umgeben ihr Haupt. Links darunter kniet der Kirchenpatron Gabinus, der eine Dalmatik trägt, rechts der hl. Laurentius in Diakonstracht mit dem Rost. Laurentius, der Patron der Pfarrei Sittenbach, weist auf das Wappen der Hofmarksherren.
 
 A<sub>1-4</sub> KIRCHENVÄTER (nur A<sub>2</sub> abgebildet) Das Hauptbild ist in den Ecken der Decke von Medaillons umgeben, in denen die Kirchenväter in Ganzfigur, in draperiegeschmückten Säulenräumen (A<sub>1-3</sub>) bzw. in einer Landschaft (A<sub>4</sub>) dargestellt sind. Über den vier Medaillons stehen die vier Teile einer Inschrift (1978) TRANSEAMVS VSQVE
-<!-- citation-page-bottom: Band05 p267 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=10 -->
-<!-- citation-page-top: Band05 p268 -->
 
-<!-- header: UNTERWEIKERTSHOFEN -->
-<!-- header: UNTERWEIKERTSHOFEN -->
 
 
 [[File:Band05_chunk006_p010_img001.jpg|thumb]]
@@ -96,14 +89,9 @@ A<sub>4</sub> HIERONYMUS sitzt in felsiger Einöde vor einem Bach, über den ein
 
 
 [[File:Band05_chunk006_p010_img002.jpg|thumb|B Ausgießung des Hl. Geistes]]
-<!-- citation-page-bottom: Band05 p269 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=11 -->
-<!-- citation-page-top: Band05 p270 -->
 
-<!-- header: UNTERWEIKERTSHOFEN -->
 
-<!-- header: <b>LINTER WEIKERTSHOFEN</b> -->
 
 
 [[File:Band05_chunk006_p011_img001.jpg|thumb]]
@@ -153,12 +141,8 @@ glorie, in der das Jahwe-Zeichen erscheint. Engel sind auch auf der Leiter, die 
 
 
 [[File:Band05_chunk006_p011_img012.jpg|thumb|D<sub>b</sub> ORNATA/MARIS/STELLA (geschmückt mit dem Stern des Meeres) Eine Rose, die direkt von Sonnenstrahlen getroffen wird, liegt auf einem schmalen Landstreifen, der links von einem Felsen und rechts vom Meer eingegrenzt ist (die Rose offenbar fälschlich statt einer Muschel ergänzt).]]
-<!-- citation-page-bottom: Band05 p271 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=12 -->
-<!-- citation-page-top: Band05 p272 -->
 
-<!-- header: UNTERWEIKERTSHOFEN -->
 
 
 [[File:Band05_chunk006_p012_img001.jpg|thumb|D Krönung Mariens]]
@@ -210,7 +194,3 @@ Dehio 1990, S. 1217 f
 Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Landes Bd 7, hg. im Auftrag des Museumsvereins Dachau e.V.), Dachau 1991, 5. 221–23.
 
 St.-Gabinus-Kirche Unterweikertshofen (Faltblatt) 1984. 1 D /11
-<!-- citation-page-bottom: Band05 p273 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk006.pdf#page=13 -->
-{{End}}

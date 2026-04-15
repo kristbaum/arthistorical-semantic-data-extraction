@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p60 -->
 
-<!-- header: EISENHOFEN -->
 
 
 == EISENHOFEN ==
@@ -28,7 +26,7 @@ Filialkirche der Pfarrei Hirtlbach, Pfarrverband Erdweg, Gemeinde Erdweg, Erzdi�
 
 '''Zum Bauwerk:''' Anstelle einer schon 1101 existierenden Kirche Neubau in der Zeit der Spätgotik, wovon der Chor noch steht. Schwere Beschädigungen des LHs 1632 durch die Schweden, Neubau 1680. 1885 Erweiterung nach W. Saal zu fünf Jochen mit Pilastergliederung, Empore im W gleichmäßige Belichtung von N und S; eingezogener AR zu zwei Jochen mit dreiseitigem Schluß, Belichtung von N. O. S.
 
-'''Auftraggeber:''' Pfarrer Joseph Resch von Hirtlbach (1752-67); dies geht aus einem Brief des Pfarrers Wolfgang Widemann von Kleinberghofen an den Fürstbischof in Freising vom 22.9.1773 hervor: »Also mahlte Er (= J. G Dieffenbrunner) das Gotteshaus zu Eisenhofen der Pfart Hirtlbach, er accordierte mit dem dortmahligen H: Pfarren und dermaligen Titl. Herrn Dechant zu Sittenbach Joseph<br>Resch, der accord ware 150 fl., darzu mußte er ihm seiner Wein selbst beschaffen und mußte der Contract auf 200 fl aussagen« (AEM, publiziert bei Paula, S. 332). Dieffenbrunner pflegte offenbar mündlich niedriger zu akkordieren als schriftlich, damit der schriftliche - höhere - Akkord ihm die Verhandlungen mit künftigen Auftraggebern erleichtere. Pfleger des Freisingischen Pflegamts Eisenhofen war in der Ausmalungszeit Mathias Lorenz Pschemele, Freisingischer Hof- und Kammerrat, dessen Epitaph sich im AR der Kirche Eisenhofen befindet.
+'''Auftraggeber:''' Pfarrer Joseph Resch von Hirtlbach (1752-67); dies geht aus einem Brief des Pfarrers Wolfgang Widemann von Kleinberghofen an den Fürstbischof in Freising vom 22.9.1773 hervor: »Also mahlte Er (= J. G Dieffenbrunner) das Gotteshaus zu Eisenhofen der Pfart Hirtlbach, er accordierte mit dem dortmahligen H: Pfarren und dermaligen Titl. Herrn Dechant zu Sittenbach Joseph Resch, der accord ware 150 fl., darzu mußte er ihm seiner Wein selbst beschaffen und mußte der Contract auf 200 fl aussagen« (AEM, publiziert bei Paula, S. 332). Dieffenbrunner pflegte offenbar mündlich niedriger zu akkordieren als schriftlich, damit der schriftliche - höhere - Akkord ihm die Verhandlungen mit künftigen Auftraggebern erleichtere. Pfleger des Freisingischen Pflegamts Eisenhofen war in der Ausmalungszeit Mathias Lorenz Pschemele, Freisingischer Hof- und Kammerrat, dessen Epitaph sich im AR der Kirche Eisenhofen befindet.
 
 '''Autor und Entstehungszeit:''' Johann Georg Dieffenbrunner (* 1718 Mittenwald † 1785 Augsburg) 1761. Signatur in A J: Georg: Dieffenbrunner, Pinxit: Ao 1761.
 
@@ -54,12 +52,8 @@ Erhaltungszustand und Restaurierungen: 1842 Ausbessern des Innenverputzes und Au
 
 
 [[File:Band05_chunk002_p006_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p61 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk002.pdf#page=7 -->
-<!-- citation-page-top: Band05 p62 -->
 
-<!-- header: EISENHOFEN -->
 
 
 [[File:Band05_chunk002_p007_img001.jpg|thumb]]
@@ -134,7 +128,3 @@ Kunst- und Kulturdenkmäler 1977, S. 228.
 Paula, Georg, Johann Georg Dieffenbrunner. Leben und Werk (= tuduv-Studien, Reihe Kunstgeschichte, Bd 8), München 1983, S. 32 f., 106-08.
 
 ehio 1990, S. 242.
-<!-- citation-page-bottom: Band05 p63 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk002.pdf#page=8 -->
-{{End}}

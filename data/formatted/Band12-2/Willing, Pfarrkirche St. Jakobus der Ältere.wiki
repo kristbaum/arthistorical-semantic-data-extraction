@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p554 -->
 
 Pfarrkirche (seit 1956), Stadt Bad Aibling, Erzdiözese München und Freising; z. Z. der Ausmalung Filiale der Pfarrei Aibling; Willing war zusammen mit Westerham zweite Kooperatur der Pfarrei und führte mit Westerham gemeinsam Rechnung. An der Kirche bestand eine Allerseelen-Bruderschaft, konfirmiert 1689. Der hl. Leonhard, Patron des rechten Seitenaltars, genoß örtliche Verehrung. Gericht Aibling
 
@@ -63,14 +62,9 @@ B PREDIGT DES APOSTELS JAKOBUS Schauplatz ist ein weiter Wiesengrund mit Felsen 
 Das Bild zeigt keine bestimmte Szene, sondern bezieht sich auf die Zeit, als Jakobus, aus Spanien zurückgekehrt, in Judäa predigte und dort später auch enthauptet wurde (LA-Benz Bd 1 Sp. 637, 639). Der Apostel ist als Compostela-Pilger dargestellt, mit den Muscheln an Mantel und Hut, dem Pilgerstab und der Gurde (dem ausgehöhlten Kürbis als Wasserflasche am Gürtel). – Die Farben sind sehr hell, blaß und verschwommen. Kräftige Buntfarben fehlen ganz.
 
 C MARIA DEL PILAR In einer weiten, flachen Landschaft, die links von zwei Bergen im Hintergrund und an beiden Seiten von Palmen und Strauchwerk begrenzt ist, sieht man links den Apostel in Pilgertracht stehen. Er blickt zu Maria auf, die ihm auf einer Säule erscheint. Im Mittelgrund des Bildes errichten fünf Männer aus Quadern eine Kirche mit Turm. – Nach der Legende erschien während seines Aufenthalts in Spanien dem Apostel die Jungfrau Maria bei Saragossa auf einer Säule, und zeigte ihm, wo er eine Kirche zu ihren Ehren bauen solle (Ribadeneira-Hornig, Bd 2, S. 94 f.).
-<!-- citation-page-bottom: Band12 p555 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=4 -->
-<!-- citation-page-top: Band12 p556 -->
 
-<!-- header: WILLING -->
 
-<!-- header: WILLING -->
 
 
 [[File:Band12-2_chunk006_p004_img001.jpg|thumb]]
@@ -104,10 +98,7 @@ I GLOCKENTURM Quaderbau, auf dem unter einem von Streben gehaltenen Dächlein ei
 
 
 [[File:Band12-2_chunk006_p004_img007.jpg|thumb|Schuldturn]]
-<!-- citation-page-bottom: Band12 p557 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=5 -->
-<!-- citation-page-top: Band12 p558 -->
 
 [[File:Band12-2_chunk006_p005_img001.jpg|thumb|D Berufung des hl. Jakobus, 4. Zyklus auf die Allerseelenbruderschaft]]
 
@@ -128,14 +119,9 @@ Salubris est cogitatio pro Defunctis orare. / 2. Machab. V:46:/ Beim Sterben. be
 [[File:Band12-2_chunk006_p005_img006.jpg|thumb]]
 
 Das Programm dieser zehn Kartuschenbilder läuft zweigleisig; in den lateinischen Inschriften wird eine theologische Untermauerung des Sinns und des Wirkens einer Allerseelenbruderschaft vorgenommen: zum Teil abgelegene Textstellen werden
-<!-- citation-page-bottom: Band12 p559 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=6 -->
-<!-- citation-page-top: Band12 p560 -->
 
-<!-- header: WILLING -->
 
-<!-- header: WINDHAG -->
 
 
 [[File:Band12-2_chunk006_p001.jpg|thumb|Die Orgelempore mit einem Antonius-Zyklus (oben) und einem Leonhard-Zyklus (unten)]
@@ -178,5 +164,3 @@ Dehio 1990, S. 1287 f
 Mayr, Gottfried, Pfarrkirche St. Jakob Willing/Filialkirche St. Johannes Westerham (Kirchenführer, Hg. Pfarramt Willing), Saarbrücken 1997, S. 1–15.
 
 Mayr, Gottfried, Die politische Geschichte ... von der ersten urkundlichen Erwähnung bis zum Ende des 18. Jh., in: Bad Aibling. Geschichte einer Stadt, Bd 1 (Hg. Gottfried Mayr im Auftrag der Stadt Bad Aibling), Bad Aibling 2006, S. 75–217. Willing S. 98f.
-
-{{End}}

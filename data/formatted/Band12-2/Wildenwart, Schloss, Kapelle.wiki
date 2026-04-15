@@ -54,10 +54,7 @@ Maße: A Höhe 3,85 m; Ø 1,70
 1–4 Höhe 3,85 m; Ø 0,95
 
 Erhaltungszustand und Restaurierungen: 1862 wurden die Fresken zugeweißt, in den 50er Jahren wieder freigelegt und, soweit nötig, erneuert. Bei der Restaurierung und Neueinrichtung des Schlosses 1980/84 wurde im Einverständnis mit dem BLfD unter der barocken Decke eine neue Decke eingezogen.
-<!-- citation-page-bottom: Band12 p549 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk006.pdf#page=1 -->
-<!-- citation-page-top: Band12 p550 -->
 
 [[File:Band12-2_chunk006_p001_img001.jpg|thumb|A Mariä Himmelfahrt (Jacob Carnutsch 1690)]]
 
@@ -93,4 +90,3 @@ A MARIÄ HIMMELFAHRT Auf einer Wolke schwebt Maria nach oben, von zahlreichen Pu
 
 
 [[File:Band12-2_chunk006_p001_img005.jpg|thumb|Dekorationsmalerei in vier von acht Feldern der Hohlkehle]]
-{{End}}

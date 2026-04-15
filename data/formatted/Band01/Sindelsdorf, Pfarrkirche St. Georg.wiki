@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p530 -->
 
-<!-- header: SINDELSDORE -->
 
 
 == SINDELSDORF ==
@@ -39,7 +37,7 @@ Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung dem Kollegiatstift Habach in
 
 Träger der Deckenmalerei: A und B Flachtonne mit Stichkappen
 
-Rahmen: gemalte Rahmung<br>Technik: Fresko; polychrom
+Rahmen: gemalte Rahmung Technik: Fresko; polychrom
 
 Maße: A Höhe 8,10 m; 8,00 × 5,10 B Höhe 7,70 m; 4,75 × 2,90
 
@@ -85,7 +83,3 @@ Damrich, Johann, Johann Sebastian Troger und seine Sippe, in: Weilheimer Sonntag
 Mindera, Karl, Benediktbeuern – Kulturland und Kirchen (= GKF Nr. 23), 31970, S. 44.
 
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 45.
-<!-- citation-page-bottom: Band01 p531 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=17 -->
-{{End}}

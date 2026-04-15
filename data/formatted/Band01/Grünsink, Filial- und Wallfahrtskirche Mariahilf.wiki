@@ -15,7 +15,6 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p322 -->
 
 Filial- und Wallfahrtskirche, Pfarrei und Gemeinde Weßling, Diözese Augsburg; z. Z. der Ausmalung Herrschaft Seefeld
 
@@ -70,10 +69,7 @@ B<sub>1-4</sub> und C<sub>1-4</sub> Szenen aus dem Marienleben
 Die Thematik der Kirche ist marianisch: Grünsink ist eine Marienwallfahrt. Die Szene der Himmelfahrt kommt zweimal vor: in B2 und A; die große Darstellung in A kam erst durch die Ausmalung des späteren Anbaus hinzu.
 
 Die kleinen Marienszenen in den Kartuschen sind um die Fresken B und C ohne chronologisches System angeordnet.
-<!-- citation-page-bottom: Band01 p323 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=13 -->
-<!-- citation-page-top: Band01 p324 -->
 
 [[File:Band01_chunk007_p013_img001.jpg|thumb]]
 [[File:Band01_chunk007_p013_img002.jpg|thumb]]
@@ -109,7 +105,3 @@ KDB I OB (1), S. 874
 Gernhardt, Ludwig, Grünsink, in: Heimatgeschichtliche Beilage zum Land- und Seeboten, (Starnberg) 23. 12. 1933. Thieme-Becker, Bd 26, S. 86 (s. v. Ott).
 
 Warncke, Fritz, Maria in der »Grünen Senke«, in: Bayerische Heimat, Sonntagsbeilage des Münchner Merkur 22./23.7.1950.
-<!-- citation-page-bottom: Band01 p325 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=14 -->
-{{End}}

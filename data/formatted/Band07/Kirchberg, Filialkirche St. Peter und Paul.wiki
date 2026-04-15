@@ -49,14 +49,9 @@ A KREUZIGUNG PETRI Die ornamental-dekorative Malerei der Rahmenzone am LHs-Gewö
 Die eigentliche szenische Handlung ist nur schwer zu erkennen: Die spitzkantig und bizarr gemalten Felsen mit den dunklen Abschattungen unterscheiden sich in der Art der Darstellung kaum von den Figuren. So sind Schauplatz und Handlung anschaulich eins, zumal die Figuren auch farblich nicht hervorgehoben sind - ein Prinzip, das an Zellners Marmorierungen erinnert. Die Farbigkeit ist - wie auch bei Fresko B - ungewöhnlich, fast monochrom, in grauen und ockerfarbenen Tönen; Buntfarben gibt es nicht. Blau erscheint als Graublau, Rot als dunkles Braunrot.
 
 Der Chorbogen ist an Stirn- und Rückwand mit Rocaillen und Blumengebinden dekoriert (Hans Kögl, 1919), die Leibung ist von Zellner in Marmor-Art ausgemalt.
-<!-- citation-page-bottom: Band07 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band07 p184 -->
 
-<!-- header: KIRCHBERG -->
 
-<!-- header: KIRCHBERG -->
 
 
 [[File:Band07_chunk004_p018_img001.jpg|thumb|A Kreuzigung Per]]
@@ -66,15 +61,11 @@ Der Chorbogen ist an Stirn- und Rückwand mit Rocaillen und Blumengebinden dekor
 [[File:Band07_chunk004_p018_img002.jpg|thumb]]
 
 
-<!-- citation-page-bottom: Band07 p185 -->
 
 
 Bereinigter Text:
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band07 p186 -->
 
-<!-- header: KIRCHBERG -->
 
 
 == LANDERSDORF ==
@@ -127,5 +118,3 @@ In den gemalten Kartuschen der LHs-Stichkappen stammen acht Petrus-Symbole von H
 BHStA, Landshuter Abgabe 1993, 187: Neubau 1728/30. StAM, LRA 147945: Restaurierung 1921. StAL, Kirchenrechnungen Gericht Erding 1730, fol. 1631 ff. AEM, Pfarrakten Steinkirchen: Filiale Kirchberg. BLfD, Akt Kirchberg, St. Peter und Paul.
 
 Schmidtsche Matrikel, Bd 2, S. 149. Mayer-Westermayer, Bd 3, S. 485. Landkreis Erding 1963, S. 273. Brenninger 1780, S. 133. Brenninger, Georg, Die Kirchen der Pfarreien Schröding und Burgharting (Kirchenführer), Selbstverlag<sup>2</sup> 1983. Landkreis Erding 1985, S. 356. Dehio 1990, S. 529. Brenninger, Georg, Kirchberg, Filialkirche St. Peter und Paul (Kirchenführer), Kirchberg 1990.
-
-{{End}}

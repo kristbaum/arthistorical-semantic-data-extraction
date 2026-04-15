@@ -16,15 +16,13 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p278 -->
 
-<!-- header: ESCHENLOHI -->
 
 
 == ESCHENLOHE ==
 
 
-Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung der<br>Benediktinerabtei Ettal inkorporiert, Kloster-Ettalisches- Gericht Murnau
+Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung der Benediktinerabtei Ettal inkorporiert, Kloster-Ettalisches- Gericht Murnau
 
 
 '''Patrozinium:''' St. Clemens
@@ -72,12 +70,8 @@ A GLORIE DES HL. CLEMENS – DIE SIEBEN NOTARE DES CLEMENS – FRÜHCHRISTLICHE 
 
 
 [[File:Band02_chunk006_p015_img001.jpg|thumb|A Glorie des hl. Clemens – Die sieben Notare des Clemens – frühchristliche Martyrien]]
-<!-- citation-page-bottom: Band02 p279 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=16 -->
-<!-- citation-page-top: Band02 p280 -->
 
-<!-- header: ESCHENLOHE -->
 
 Zeugen; in der Himmelsszenerie Verklärung des Heiligen mit Christus, Petrus und Paulus in der Hauptansicht gegen N. Betrachterstandort unter dem südlichen Bilddrittel. 
 
@@ -100,14 +94,9 @@ Die Schlüssel des Himmels, Symbol der von Christus verliehenen Löse- und Binde
 [[File:Band02_chunk006_p016_img001.jpg|thumb|B Quellwunder des hl. Clemens]] 
 
 280
-<!-- citation-page-bottom: Band02 p281 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=17 -->
-<!-- citation-page-top: Band02 p282 -->
 
-<!-- header: ESCHENLOHE -->
 
-<!-- header: ESCHENLOHI -->
 
 
 [[File:Band02_chunk006_p017_img001.jpg|thumb|a Dekorationsmalerei über dem Hochaltar]]
@@ -158,7 +147,3 @@ Fischer, Pius, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, Münc
 Dehio-Gall OB, S. 205–06
 
 Matsche, Franz, Der Freskomaler Johann Jakob Zeiller Marburg 1970, S. 396 ff.
-<!-- citation-page-bottom: Band02 p283 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=18 -->
-{{End}}

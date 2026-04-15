@@ -50,12 +50,8 @@ Erhaltungszustand und Restaurierungen: Der ursprüngliche Zustand ist durch Übe
 
 
 [[File:Band02_chunk004_p019_img003.jpg|thumb|Gesamtansicht der Deck]]
-<!-- citation-page-bottom: Band02 p187 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=20 -->
-<!-- citation-page-top: Band02 p188 -->
 
-<!-- header: HARMATING -->
 
 [[File:Band02_chunk004_p020_img001.jpg|thumb]]
 
@@ -90,14 +86,9 @@ An der S-Seite ist dem Sonnengott in allegorischen Figuren die Nacht gegenüberg
 == Ergänzungen zur Ikonographie ==
 
 Die Darstellung des Tierkreises in Verbindung mit Helios-Apoll und dem Sonnenwagen ist in repräsentativen Räumen des 17. und 18. Jh. öfter anzutreffen, so z. B. im Kaisersaal von Kremsmünster/OO, ebenfalls von M. Steidl 1696, in Schloß Haimhausen LKr. Dachau, von J.G. Bergmüller, 1750, in Reichersberg a. Inn/OO, Bayerischer Saal, von Johann Nepomuk Schöpf 1771. Die Wahl des Themas mit Apoll und dem Löwen des Zodiakus ist auf den Auftraggeber Ferdinand Barth von Harmating zu beziehen und wurde aus der Fürstenikonographie entlehnt. Der Löwe, das Wappentier der bayerischen Kurfürsten, symbolisiert Macht, Mut und Stärke. 1662 erschienen anläßlich der Geburt Max Emanuels drei mit Kupferstichen illustrierte Werke, die den Kurprinzen von Bayern mit der aufgehenden Sonne identifizieren (s. Lorenz Seelig,
-<!-- citation-page-bottom: Band02 p189 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=21 -->
-<!-- citation-page-top: Band02 p190 -->
 
-<!-- header: HARMATING -->
 
-<!-- header: IACHENAU -->
 
 
 [[File:Band02_chunk004_p021_img001.jpg|thumb|Ausschnitt S-Seite: Nacht]]
@@ -120,5 +111,3 @@ Meinecke-Berg, Viktoria, Die Fresken des Melchior Steidl, Diss. München 1971, S
 Sayn-Wittgenstein, Franz zu, Schlösser in Bayern, München 1972, S. 102.
 
 Korth, Thomas, Stift St. Florian, Nürnberg 1975, S. 52 f. und S. 339, Qu. 198.
-
-{{End}}

@@ -13,9 +13,7 @@
 |AutorIn2=Holler, Wolfgang
 }}
 
-<!-- citation-page-top: Band03-2 p488 -->
 
-<!-- header: SALLE DES COLONNES -->
 
 
 == NEUES SCHLOSS ==
@@ -29,7 +27,3 @@ erhöhten, elfachsigen Mittelbau betont ist, fügen sich seitlich Galerietrakte 
 
 
 == SALLE DES COLONNES ==
-
-
-
-{{End}}

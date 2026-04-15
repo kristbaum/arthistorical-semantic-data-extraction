@@ -10,10 +10,7 @@
 |AutorIn1=Büttner, Frank
 |AutorIn2=Rupprecht, Bernhard
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=4 -->
-<!-- citation-page-top: Band14 p6 -->
 
-<!-- header: VORWORT -->
 
 Mit dem vorliegenden Band wird die Bearbeitung und Dokumentation der Denkmäler der barocken Deckenmalerei im Regierungsbezirk Oberbayern abgeschlossen. Er umfasst die beiden an bzw. südlich der Donau gelegenen Kreise Ingolstadt und Pfaffenhofen. Ingolstadt ist heute eine kreisfreie Stadt. Der ehemalige Landkreis Ingolstadt ist bei der Landkreisreform 1972 großenteils im Landkreis Eichstätt aufgegangen und in Band 13 behandelt worden.
 
@@ -35,7 +32,7 @@ Bei der Bearbeitung der vierzehn Bände haben wir im Verlauf vieler Jahre von vi
 
 Freundliche Hilfe wurde uns in der Handschriftenabteilung der Bayerischen Staatsbibliothek München zuteil. Auskünfte und Druckerlaubnis für abgebildete Zeichnungen gewährten uns die Damen und Herren von verschiedenen Museen und Graphischen Sammlungen, Dr. Michael Semff und Dr. Kurt Zeitler von der Staatlichen Graphischen Sammlung in München, Dr. Hermann Maué und Dr. Dagmar Hirschfelder vom Germanischen Nationalmuseum Nürnberg, Dr. Christoph Nicht von der Barockgalerie Augsburg und Dr. Hans-Martin Kaulbach von der Staatsgalerie Stuttgart.
 
-Der Photothek des Zentralinstituts für Kunstgeschichte und ihrem Leiter Dr. Stephan Klingen danken wir für die Überlassung von Photographien insbesondere aus dem »Farbdiaar-<br>chiv zur Wand- und Deckenmalerei«, ebenso gilt unser Dank dem Bildarchiv Foto Marburg und seinem Direktor Prof. Dr. Hubert Locher. Dankbar haben wir auch den Fotonachlass von Carl Lamb im Landesamt für Denkmalpflege benutzt.
+Der Photothek des Zentralinstituts für Kunstgeschichte und ihrem Leiter Dr. Stephan Klingen danken wir für die Überlassung von Photographien insbesondere aus dem »Farbdiaarchiv zur Wand- und Deckenmalerei«, ebenso gilt unser Dank dem Bildarchiv Foto Marburg und seinem Direktor Prof. Dr. Hubert Locher. Dankbar haben wir auch den Fotonachlass von Carl Lamb im Landesamt für Denkmalpflege benutzt.
 
 Dem Bayerischen Landesamt für Denkmalpflege, dem Generalkonservator Dr. Egon Johannes Greipl und seinem Vorgänger Dr. Michael Petzet sind wir für die großzügige Gewährung der Akteneinsicht sehr verbunden. Zu danken haben wir Dr. Florian Koch, dem Referenten für Ingolstadt und den Landkreis Pfaffenhofen für seine Hilfe und Dr. Markus Hundemer für die großzügige Bereitstellung von Bild- und Planmaterial. Dr. Johannes Hallinger verdanken wir die sachgerechte Aufbewahrung des Bildmaterials des Corpus im Bildarchiv des Landesamts. Frau Angelika Reichenberger und Frau Christine Koslowski danken wir für die Bereitstellung der Akten, Frau Renate Heckler für Rat und Hilfe in der Bibliothek.
 
@@ -58,5 +55,3 @@ Dem Hirmer Verlag und Herrn Albert Hirmer sind wir zu großem Dank für die verl
 Der Deutschen Forschungsgemeinschaft danken wir, dass sie die Publikation auch dieses Bandes und des Gesamtregisters mit einem hohen Druckkostenzuschuss unterstützt hat. Für einen großzügigen Zuschuss danken wir der Bauer'schen Barockstiftung, München, und ihrem Kuratoriumsvorsitzenden, Herrn Rüdiger von Michaelis. Zu danken haben wir auch der Stadt Ingolstadt und Herrn Oberbürgermeister Dr. Alfred Lehmann, die uns mit einem hohen Subskriptionsbeitrag sehr geholfen haben.
 
 Frank Büttner und Bernhard Rupprecht
-<!-- citation-page-bottom: Band14 p7 -->
-{{End}}

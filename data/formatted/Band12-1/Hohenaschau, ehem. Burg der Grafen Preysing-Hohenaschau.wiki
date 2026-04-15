@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p268 -->
 
-<!-- header: HOHENASCHAU -->
 
 
 == HOHENASCHAU ==
@@ -40,10 +38,7 @@ Das änderte sich unter seinem Sohn und Nachfolger Maximilian II. Johann Franz (
 
 
 [[File:Band12-1_chunk006_p010_img001.jpg|thumb|Die Schloßkapelle (Ausmalung Joseph Eder und Jacob Carnutsch um 1681), an der Altarwand oben W<sub>a-b</sub> Verkündigung, unten W<sub>6</sub> St. Erasmus, W<sub>7</sub> St. Dionysius, W<sub>8</sub> St. Blasius, W<sub>9</sub> St. Georgius]]
-<!-- citation-page-bottom: Band12 p269 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=11 -->
-<!-- citation-page-top: Band12 p270 -->
 
 räume einrichten. Außerdem ließ er die Schloßkapelle ausstatten. Max II. hielt sich als Obersthofmeister meist am Hof in München auf. Am 25.7.1704, im Spanischen Erbfolgekrieg, wurde Schloß Hohenaschau als bayrische Grenzfestung von den kaiserlichen Truppen nach achttägiger Belagerung eingenommen und geplündert. Während der kaiserlichen Administration 1704-14, als Max Emanuel im Exil war, blieb Graf Max II. im Land und vertrat die Interessen des Kurfürsten der Besatzung gegenüber. Er stand Max Emanuel auch persönlich nahe. Er erweiterte den Besitz der Grafen Preysing-Hohenaschau um die Hofmarken Alt- und Neubeuern mit Rohrdorf und Nußdorf sowie den Sitz Farnach bei Söllhuben. Mit ihm starb die Hauptlinie auf Hohenaschau aus.
 
@@ -58,5 +53,3 @@ Sein Sohn Johann Maximilian (Max VI.) starb unvermählt 1841, sein Sohn Johann C
 Nach zweimaligem Besitzerwechsel kam Schloß Hohenaschau 1875 in den Besitz der Familie von Cramer-Klett. 1905-08 wurde es unter Freiherr Theodor von Cramer-Klett nach Plänen des Münchner Architekten Max Ostenrieder umgebaut, modernisiert und erweitert.
 
 1942 Verkauf des Schlosses an die Reichsmarine; das gesamte Mobiliar blieb im Besitz der Cramer-Kletts, so daß das Schloß nach dem Verkauf ausgeräumt wurde. Nach 1945 diente der Gebäudekomplex als Unterkunft für Aussiedler und Flüchtlinge, stand dann jahrelang leer und ist heute im Besitz des Sozialwerks der Bundesfinanzverwaltung.
-
-{{End}}

@@ -30,12 +30,8 @@ Freistehender Zentralbau mit Vorhalle im W an höchster Stelle einer Anhöhe nor
 
 
 [[File:Band06_chunk006_p021_img004.jpg|thumb|B Marienkrönung]]
-<!-- citation-page-bottom: Band06 p291 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=22 -->
-<!-- citation-page-top: Band06 p292 -->
 
-<!-- header: THALHAUSEN -->
 
 [[File:Band06_chunk006_p022_img001.jpg|thumb]]
 
@@ -66,10 +62,7 @@ Träger der Deckenmalerei: LHs (A, 1–4) Kuppel, Holzlattengewölbe; AR (B) Ton
 Rahmen: A, B breites vielteiliges Stuckprofil in Vierpaßform; 1–4 Stuckkartuschen; a–d Akanthus-Ornamentkartuschen in Dreipaßform mit Eierstab; W<sub>a–d</sub> von Akanthusranken gebildete Felder in den Lünetten über den Fenstern (bzw. der Kanzel).
 
 [[File:Band06_chunk006_p022_img006.jpg|thumb|Decke des Gemeinderaums mit Anna-Programm, Ansicht nach Westen: A Glorie der hl. Anna, 1 Verkündigung an Anna, 2 Tempelgang Mariens, 3 Vermählung Mariens, 4 St. Anna als Patronin, a–d Namen Anna]]
-<!-- citation-page-bottom: Band06 p293 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=23 -->
-<!-- citation-page-top: Band06 p294 -->
 
 [[File:Band06_chunk006_p023_img001.jpg|thumb]]
 
@@ -105,12 +98,8 @@ W1–4 SYMBOLE DER TUGENDEN ANNAS UND MARIENS Auf den Schildbögen der Fensterni
 
 B VEREHRUNG DER DREIFALTIGKEIT Das vierpaßförmige Bildfeld zeigt in einer Wolkenszenerie das strahlenumgebene Dreifaltigkeitssymbol. Ringsum in Wolken Engel und Putten. Ein Engel hält eine Posaune (krummer Zink), vor der das Wort GLORIA erscheint, ein zweiter ein Schriftband ALELUJA.
 
-<!-- citation-page-bottom: Band06 p295 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk006.pdf#page=24 -->
-<!-- citation-page-top: Band06 p296 -->
 
-<!-- header: THALHAUSEN -->
 
 
 [[File:Band06_chunk006_p024_img001.jpg|thumb]]
@@ -172,6 +161,3 @@ A.B./C.B.
 
 
 == TÜNZHAUSEN ==
-
-
-{{End}}

@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p472 -->
 
-<!-- header: RAISTING -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatte das Augustiner-Chorherrenstift Dießen das Präsentationsrecht, Klosterhofmark Dießen
 
@@ -65,14 +63,9 @@ baptizari. Procedit novus Constantinus (!) ad lavacrum deleturus leprae veteris 
 
 S. 80). Die Bildszene deutet durch die pathetische Geste des Bischofs Remigius die Worte desselben an, zugleich zeigt sie die Erfüllung seiner Aufforderung: Der König ist anbetend unter dem Kruzifix niedergekniet und die Soldaten tragen die Götzenbilder zum Scheiterhaufen. Chrodegilde, die Gemahlin Chlodwigs, blickt ergriffen zum Kruzifixus auf.
 
-<!-- citation-page-bottom: Band01 p473 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=13 -->
-<!-- citation-page-top: Band01 p474 -->
 
-<!-- header: RAISTING -->
 
-<!-- header: REISGANG -->
 
 
 [[File:Band01_chunk010_p013_img001.jpg|thumb]]
@@ -99,5 +92,3 @@ KDB I OB (1), S. 719
 Feulner, Adolf, Christian Wink, München 1912, S. 19. Schmidtner, Andreas, Die Pfarrkirche und die Filialkirchen von Raisting, in: Weilheimer Sonntagsblatt 8, 1931, Nr. 8, 9.
 
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim 21964, S. 42. Clementschitsch, Heide, Christian Wink, ungedruckte Diss. Wien 1968, S. 27 ff., 43 ff. und Anhang A, unter Raisting.
-
-{{End}}

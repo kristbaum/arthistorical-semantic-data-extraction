@@ -28,14 +28,9 @@ LHs zu fünf (ursprünglich drei) Jochen, Gliederung an der N-Seite durch Wandvo
 
 
 [[File:Band07_chunk005_p001_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band07 p201 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=2 -->
-<!-- citation-page-top: Band07 p202 -->
 
-<!-- header: LENGDORI -->
 
-<!-- header: IFNGDORF -->
 
 LENGDORF  
 sensymmetrische Kompositionen, oder der Aufbau der Himmelspartien durch parallel verlaufende zarte Wolkenstreifen im Hintergrund, auf denen kissenartige Wolkenringe als Glorienbildungen platziert sind. Bei den besser erhaltenen Figuren in Lengdorf lassen sich auch große Ähnlichkeiten mit den Pfrombacher Figuren feststellen, in den Gesichtstypen, in der rotbraunen bis ockerfarbenen Binnenzeichnung des Inkarnats und in den sorgfältig gezeichneten Gewandfalten.  
@@ -63,14 +58,9 @@ Innenrestaurierung nach dem Umbau 1919/20. Die barocken Deckenbilder wurden aufg
 [[File:Band07_chunk005_p002_img002.jpg|thumb]]  
 [[File:Band07_chunk005_p002_img003.jpg|thumb]]  
 
-<!-- citation-page-bottom: Band07 p203 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=3 -->
-<!-- citation-page-top: Band07 p204 -->
 
-<!-- header: IFNGDORI -->
 
-<!-- header: LENGDORF -->
 
 
 [[File:Band07_chunk005_p003_img001.jpg|thumb]]
@@ -146,12 +136,8 @@ A<sub>d</sub> Lapsi gravi periant (sic; wohl pereunt. Durch schweren Fehler gehe
 [[File:Band07_chunk005_p003_img012.jpg|thumb]]
 
 
-<!-- citation-page-bottom: Band07 p205 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=4 -->
-<!-- citation-page-top: Band07 p206 -->
 
-<!-- header: LENGDORF -->
 
 tus, supino, ruptoque corpore in imam terram recidit« (loc. cit., Nr. 74). Das Bild bezieht sich auf den Sturz des Simon Magus in A, 
 
@@ -182,14 +168,9 @@ Zwei Fresken sind am Gewölbe der südlich an das Seitenschiff angebauten Bruder
 [[File:Band07_chunk005_p004_img001.jpg|thumb|Einsetzung Petri zum Oberhaupt der Kirche]]
 
 [[File:Band07_chunk005_p004_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band07 p207 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=5 -->
-<!-- citation-page-top: Band07 p208 -->
 
-<!-- header: LENGDORF -->
 
-<!-- header: MARIA THALHEIM -->
 
 
 [[File:Band07_chunk005_p001.jpg|thumb|Fresko in der Bruderschaftskapelle K. Skapulierübergabe an den hl. Simon Stock]]
@@ -222,5 +203,3 @@ J.S., Zur Kirchweihe in Lengdorf, in: Dorfener Zeitung vom 10.7.1921 (Ausschnitt
 Gandl, Anton, Lengdorf und die Filialen, in: Lengdorf 1090–1990. Bilder, Dokumente, Erinnerungen aus einer Landgemeinde im Isental, Lengdorf 1990, S. 249-94.
 
 Greimel, Angela, Bruderschaften in Lengdorf, in: Lengdorf 1090-1990. S. 295-302.
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p462 -->
 
-<!-- header: SACHRANG -->
 
 
 == SACHRANG ==
@@ -34,11 +32,11 @@ Die Kirche ist genordet. Saal zu drei Jochen mit Doppelem pore im S, je drei Fen
 
 Die drei prachtvollen Barockaltäre, Arbeiten des Aschauer Kistlers Michael Furtner d.J. 1688/89 sind Stiftungen. Der Hochaltar stiftete der Herrschaftsinhaber Max II. von Preysing-Hohenaschau; im Auszug ist als sein Namenspatron der hl. Maximilian von Lorch dargestellt. Den linken Seitenaltar, den ehemaligen Anna-Altar, stiftete Maria Anna Adelheid Gräfin von Preysing-Hohenaschau, die Gemahlin des Herrschaftsinhabers. Den rechten Seitenaltar stiftete der Hohenaschauer Gerichtsverwalter Caspar Purkweger und seine Ehefrau Sophia Schmid: Das Altarblatt zeigt die Anbetung der Könige (Kaspar war der Namenspatron Purkwegers), das Auszugbild die hl. Sophia mit Fides, Spes und Caritas. Die Altargemälde schufen Joseph Eder und Jacob Carnutsch, die Altarfiguren sind Werke des Neubeurer Bildhauers Carl Antretter.
 
-Die Kosten der Renovierung der Deckenbilder 1768 wurde von privaten Geldgebern getragen: »Die ganze Kirche ist ausgeweisset, die Gwölbmahlerei, samt denen 12 Apostlleichter und Kränzen renovirt, auch das grosse von oben herabhängende Crucifix neugefasset worden. Die Uncösten ... haber sich auf 61 f. 30x. beloffen, und sind gutthätigerweise von der<br>Gemeinde Sachrang, dann Nachbarschafft Tyrol bestritter worden« (StAM, HAA, R 2906).
+Die Kosten der Renovierung der Deckenbilder 1768 wurde von privaten Geldgebern getragen: »Die ganze Kirche ist ausgeweisset, die Gwölbmahlerei, samt denen 12 Apostlleichter und Kränzen renovirt, auch das grosse von oben herabhängende Crucifix neugefasset worden. Die Uncösten ... haber sich auf 61 f. 30x. beloffen, und sind gutthätigerweise von der Gemeinde Sachrang, dann Nachbarschafft Tyrol bestritter worden« (StAM, HAA, R 2906).
 
 '''Autor und Entstehungszeit:''' Erste Ausmalung: Joseph Eder (* unbekannt † 1712 Neubeuern) und Jacob Carnutsch (* unbekannt † 1716 Prien) Frühsommer 1688, gleichzeitig mit der Stuckierung.
 
-»Verzaichnus was wür Endtsunderschribne in dem neuerpauten lobwürdigen St. Michaelis Gottshaus Sachrang für Malle-<br>reyarbeit, auf die Mauer verferttiget haben, wie volgt. Erstli-
+»Verzaichnus was wür Endtsunderschribne in dem neuerpauten lobwürdigen St. Michaelis Gottshaus Sachrang für Mallereyarbeit, auf die Mauer verferttiget haben, wie volgt. Erstli-
 
 
 [[File:Band12-2_chunk004_p007_img001.jpg|thumb|Der Kirchenraun]]
@@ -65,10 +63,7 @@ B Höhe 9,80m; 3,85 × 2,05
 Erhaltungszustand und Restaurierungen: Nach der »Renovierung« der Deckengemälde 1768 weitere Renovierung der Kirche 1852/54. Pläne zu neuen Ausmalungen 1884 und 1894 scheiterten. Bei der Gesamtrestaurierung 1931/33 sollte der Raum auf die ursprüngliche Fassung zurückgeführt werden. Die Deckenbilder, in einer Öl-auf-Putz-Technik gemalt, waren in sehr schlechtem Zustand. Neufassung des Kircheninnern durch die Fa. Max Zierer, Rosenheim, Restaurierung der Deckenbilder durch Max Faltner. Bei der Vorbereitung der letzten Restaurierung ab 1987 wurde festgestellt, daß die Fa. Zierer 1932 die Raumfassung recht farbig und keineswegs nach dem ursprünglichen Zustand gemacht hatte. Restaurierung 1991 durch Fa. Reiner Neubauer, Bad Endorf, mit Reinigen der Raumschale, Ausbessern der Risse, Ergänzen des Stucks; die Farbigkeit des Stucks von 1932 wurde beibehalten. Die Restaurierung der Deckenbilder war schwierig. »Schäden in der Malschicht des Deckenbildes von Eder und Carnutsch dürften die Ursache für die neuerliche Bearbeitung durch Zag-
 
 
-<!-- citation-page-bottom: Band12 p463 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band12 p464 -->
 
 [[File:Band12-2_chunk004_p008_img001.jpg|thumb|EB, Abschied Jesu von Maria]]
 
@@ -128,10 +123,7 @@ EB, Pfingsten.
 
 
 StAM, HAA, Kirchenrechnungen der in der Herrschaft Hohenaschau und Hofmark Söllhuben gelegenen Kirchen; R 2800: 1688; R 2801: 1689; R 2803: 1690; R 2805: 1691. R 2906: Verficationes zur Niederaschauischen Pfarrgottshaus Rechnung pro anno 1768. A 1888: Akten, den Kirchenbau
-<!-- citation-page-bottom: Band12 p465 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=9 -->
-<!-- citation-page-top: Band12 p466 -->
 
 
 == SACHRANG ==
@@ -159,6 +151,3 @@ Pfister, Max, Baumeister aus Graubünden - Wegbereiter des Barock. Die auswärti
 
 
 == SANKT FLORIAN ==
-
-
-{{End}}

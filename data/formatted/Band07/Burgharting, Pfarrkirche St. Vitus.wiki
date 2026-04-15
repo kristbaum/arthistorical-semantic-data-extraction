@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p70 -->
 
-<!-- header: BURGHARTING -->
 
 
 == BURGHARTING ==
@@ -42,10 +40,7 @@ Die Verschiedenheit in der Denk- und Ausdrucksweise und die stark variierende Ge
 
 
 [[File:Band07_chunk002_p011_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band07 p71 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=12 -->
-<!-- citation-page-top: Band07 p72 -->
 
 [[File:Band07_chunk002_p012_img001.jpg|thumb|Taufe des hl. Viti]]
 
@@ -103,10 +98,7 @@ A VITUS, MODESTUS UND CRESCENTIA IM KERKER Lumen in Tenebris (Licht in der Finst
 [[File:Band07_chunk002_p012_img007.jpg|thumb]]
 
 
-<!-- citation-page-bottom: Band07 p73 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=13 -->
-<!-- citation-page-top: Band07 p74 -->
 
 BURGHARTING
 
@@ -154,7 +146,6 @@ steht. Der Priester gießt Wasser über das Haupt des Kindes, ein Ministrant hä
 
 
 [[File:Band07_chunk002_p013_img011.jpg|thumb]]
-<!-- citation-page-bottom: Band07 p75 -->
 
 
 VITUS ALS KIND VOR DEM RICHTER  
@@ -186,17 +177,13 @@ ligrt S
 
 BURGHARTING
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=14 -->
-<!-- citation-page-top: Band07 p76 -->
 
-<!-- header: BURGHARTING -->
 
 
 [[File:Band07_chunk002_p014_img001.jpg|thumb]]
 
 
 [[File:Band07_chunk002_p014_img002.jpg|thumb|D Glorie des hl. Vitus]]
-<!-- citation-page-bottom: Band07 p77 -->
 
 
 == BURGHARTING ==
@@ -230,10 +217,7 @@ e) Ecce Ad Sum (Sieh, hier bin ich). Stadt in Landschaft; aus den Wolken hält e
 
 '''Dc''' Terena Sordent (Die irdischen Dinge werden gering geschätzt). Adler, der über einer Landschaft mit Häusern fliegt. In die Höhe alzeit Trachtet / Auf der Erdten alls verachtet. Der Adler, der weit auffliegt und die Erde hinter sich läßt...
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=15 -->
-<!-- citation-page-top: Band07 p78 -->
 
-<!-- header: BURGHARTING -->
 
 
 [[File:Band07_chunk002_p015_img001.jpg|thumb]]
@@ -293,7 +277,3 @@ Schmidtsche Matrikel, Bd 2, S. 110. Mayer-Westermayer, Bd 3, S. 505-07. KDB I OB
 
 
 [[File:Band07_chunk002_p015_img011.jpg|thumb]]
-<!-- citation-page-bottom: Band07 p79 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=16 -->
-{{End}}

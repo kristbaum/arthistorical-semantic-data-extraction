@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p352 -->
 
-<!-- header: STEINEBACH -->
 
 
 == STEINEBACH ==
@@ -86,14 +84,9 @@ A2 Gema Sacer Dotum – Tisch mit fünf Ringen darauf, darüber erscheint eine H
 A3 Vir Singularis. Adler steht allein auf einer Bergspitze (vereinfachtes Adleremblembild, vgl. Picinelli, s. v. aquila: Lib. 4, Nr. 104).
 
 A4 Vas admirabile. Auf einem Tisch steht ein Gefäß mit sieben Flammen (= sieben Gaben des Hl. Geistes), darüber schwebt die Taube des Geistes. (Das Bild zeigt biblische Symbole.)
-<!-- citation-page-bottom: Band01 p353 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=3 -->
-<!-- citation-page-top: Band01 p354 -->
 
-<!-- header: STEINEBACH -->
 
-<!-- header: UNERING -->
 
 B TOD DES HL. MARTIN Dieses Ereignis wird von Sulpicius Severus in einem Brief an seine Schwiegermutter Bassula geschildert (Sulpicii Severi Opera, CSEL, Bd 1, S. 147). St. Martin starb auf einer Seelsorgereise unter den Klagen seiner Mitbrüder. Er betete zu Gott: »Domine, si adhuc populo tuo sum necessarius, non recuso laborem: fiat voluntas tua« (Epistula 3,11; vgl. B3 und B1). Zu seinen Mitbrüdern sagte der Heilige: »Sinite, inquit, sinite me fratres, caelum potius respicere quam terram, ut suo iam itinere iturus ad Dominum spiritus dirigatur« (Epistula 3,15; vgl. B2). Da erblickte er neben sich den Teufel und vertrieb ihn mit den Worten: »Quid hic, inquit, adstas, cruente bestia? nihil in me, funeste, reperies: Abrahae me sinus recipit« (Epistula 3,16; vgl. B4). — Die Inschrift in B gibt die bewundernden Worte des Sulpicius »O Beatum Virum qui nec mori timuit, nec amore populi. Vivere recusavit« (Epistula 3,14).
 
@@ -122,5 +115,3 @@ Sanctus Martinus episcopus / hymnis coelestibus honoratus, / Vivit in Christo, /
 
 
 Graf, Matthias, Geschichte der Pfarrei Oberalting, München 1902, S. 88 ff.
-
-{{End}}

@@ -40,10 +40,7 @@ Die 1760 entstandenen Chorfresken sind das erste Werk des Aiblinger Malers Johan
 
 
 [[File:Band02_chunk011_p025_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p549 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=1 -->
-<!-- citation-page-top: Band02 p550 -->
 
 == Befund ==
 
@@ -77,12 +74,8 @@ Die Bittflehenden wenden sich an den hl. Leonhard, der über ihnen in Wolken ers
 Im Bild finden sich kaum reine Buntfarben. Rot, Blau und Gelb sind zu Braun, Grau und Ocker hin gebrochen und haben kaum mehr Farbintensität als die Farben des Schauplatzes, Ocker, Braun und Grün. Durch das Gelb um das Haupt der Madonna wird das Glorienlicht mehr 
 
 [[File:Band02_chunk012_p001_img001.jpg|thumb|A St. Barbara und Eligius als Patrone der Sterbenden A2-3, A6-7 Barbara-Szenen]]
-<!-- citation-page-bottom: Band02 p551 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=2 -->
-<!-- citation-page-top: Band02 p552 -->
 
-<!-- header: REICHERSDORF -->
 
 
 [[File:Band02_chunk012_p002_img001.jpg|thumb]]
@@ -140,12 +133,8 @@ In der Passio wird berichtet, daß der Vater selbst das Amt des Scharfrichters �
 [[File:Band02_chunk012_p002_img006.jpg|thumb|A7 B. wird zur Richtstatt geschleift]]
 
 
-<!-- citation-page-bottom: Band02 p553 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=3 -->
-<!-- citation-page-top: Band02 p554 -->
 
-<!-- header: REICHERSDORF -->
 
 
 [[File:Band02_chunk012_p003_img001.jpg|thumb]]
@@ -208,5 +197,3 @@ Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jahrhun
 
 
 Pfarrkirche Kapelle St. Nikolaus S. 560
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band08 p274 -->
 
-<!-- header: WALKERSAICH -->
 
 
 == WALKERSAICH ==
@@ -56,12 +54,8 @@ E Höhe 7,30 m; 2,50×2,45
 1–8 1,20×1,20  
 a–s 1,00×1,00  
 K Höhe 5,00 m; 4,00×3,20  
-<!-- citation-page-bottom: Band08 p275 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=14 -->
-<!-- citation-page-top: Band08 p276 -->
 
-<!-- header: WALKERSAICH -->
 
 
 [[File:Band08_chunk006_p014_img001.jpg|thumb|D Musizierende Eng]]
@@ -85,12 +79,8 @@ D MUSIZIERENDE ENGEL An der Rückseite des Chorbogens, schon im AR, befindet sic
 
 
 [[File:Band08_chunk006_p014_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band08 p277 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=15 -->
-<!-- citation-page-top: Band08 p278 -->
 
-<!-- header: WALKERSAICH -->
 
 [[File:Band08_chunk006_p015_img001.jpg|thumb]]
 
@@ -104,7 +94,6 @@ D MUSIZIERENDE ENGEL An der Rückseite des Chorbogens, schon im AR, befindet sic
 
 [[File:Band08_chunk006_p015_img006.jpg|thumb]]
 
-<!-- citation-page-bottom: Band08 p279 -->
 
 == WALKERSAICH ==
 
@@ -139,10 +128,7 @@ Es sind zum Teil ungewöhnliche Embleme. Ein übergreifender Sinn in diesem Zykl
 
 '''b NIHIL SIBI''' (Nichts für sich). Landschaft mit Baum und Getreidefeld im Regen. Das Getreide, das von schwerem Regen niedergedrückt wird, ist ein Bild des Menschen, dem allzuviel Glück und Ehre keinen Segen bringen (Picinelli Lib. II, Nr. 185, s. v. pluvia: NE QUID NIMIS). Da der Regen in der Emblematik sonst eher positiv gesehen wird, mit der Grundbedeutung Liberalitas, und wegen des Lemmas meint das Emblem wohl die Selbstlosigkeit und das Dasein für andere (des Heiligen bzw. des Mönchs).
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=16 -->
-<!-- citation-page-top: Band08 p280 -->
 
-<!-- header: WALKERSAICH -->
 
 [[File:Band08_chunk006_p016_img001.jpg|thumb]]  
 [[File:Band08_chunk006_p016_img002.jpg|thumb]]  
@@ -156,7 +142,6 @@ Es sind zum Teil ungewöhnliche Embleme. Ein übergreifender Sinn in diesem Zykl
 [[File:Band08_chunk006_p016_img010.jpg|thumb]]  
 [[File:Band08_chunk006_p016_img011.jpg|thumb]]  
 
-<!-- citation-page-bottom: Band08 p281 -->
 
 == 1 Sonne im Zenit ==  
 '''s''' Bienenschwärme  
@@ -182,12 +167,8 @@ Es sind zum Teil ungewöhnliche Embleme. Ein übergreifender Sinn in diesem Zykl
 == 1 Sonne unter Mond ==  
 '''1''' NON EXTINGUITUR INDE (Davon wird sie nicht ausgelöscht). Sonne über Mond, der einen Schatten wirft. Das Bild der Sonnenfinsternis ist selten, ebenso wie das Bild der Sonne, die den Zodiakus nicht überschreitet (h). Es kann nach Picinelli (Lib. I, Nr. 199-203, s.v. eclipsis solis) Undankbarkeit bedeuten, auch die von Verleumdung nicht verletzte Tugend oder die verborgene Tugend, oder den Marientod. Im Zusammenhang des Walkersaicher Zyklus bedeutet das Bild wohl den Mönch, dessen Leben wegen seiner harten Bedingungen und seiner Abgeschiedenheit der Welt traurig erscheint, der aber im unverdunkelten Licht der Tugend in Wirklichkeit aller Bewunderung und Verehrung wert ist. »Religiosum hac imagine repraesentaverim, qui, tametsi in vitae suae secessu ac claustri angustiis coram hebescente mundi oculo moestam eclipsin contraxisse videri queat; in virtutis tamen luce, quae occultari aut cancellis constringi nescit, penitus incolumis,«
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=17 -->
-<!-- citation-page-top: Band08 p282 -->
 
-<!-- header: WALKERSAICH -->
 
-<!-- header: WALKERSAICE -->
 
 
 [[File:Band08_chunk006_p017_img001.jpg|thumb]]
@@ -258,7 +239,3 @@ Hübner, Hans, Die Grundherrschaft Walkersaich, in: 1200 Jahre Buchbach, S. 165�
 Dehio 1990, S. 1239.
 
 A.B
-<!-- citation-page-bottom: Band08 p283 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=18 -->
-{{End}}

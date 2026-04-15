@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p122 -->
 
-<!-- header: GUTTENBURG -->
 
 
 == GUTTENBURG ==
@@ -38,10 +36,7 @@ Unter der Regierung Wolf Joseph II. erlebte das Geschlecht seinen Aufstieg und H
 
 
 [[File:Band08_chunk003_p012_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band08 p123 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk003.pdf#page=13 -->
-<!-- citation-page-top: Band08 p124 -->
 
 [[File:Band08_chunk003_p013_img001.jpg|thumb]]
 [[File:Band08_chunk003_p013_img002.jpg|thumb|Afrika, Stuckmalerei bei Amerika, Europa]]
@@ -106,7 +101,3 @@ Historischer Atlas Bd 36, Mühldorf (Helmuth Stahleder) München 1976, S. 205 f.
 Dehio 1990, S. 388–90. C. B.
 
 12
-<!-- citation-page-bottom: Band08 p125 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk003.pdf#page=14 -->
-{{End}}

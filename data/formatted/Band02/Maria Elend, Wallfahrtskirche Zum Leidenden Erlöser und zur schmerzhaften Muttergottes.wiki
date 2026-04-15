@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p216 -->
 
-<!-- header: MARIA ELEND -->
 
 
 == MARIA ELEND ==
@@ -71,12 +69,8 @@ Die Hauptansicht gegen W ist kompositionell durch die Anordnung der Figuren in d
 
 
 216
-<!-- citation-page-bottom: Band02 p217 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=10 -->
-<!-- citation-page-top: Band02 p218 -->
 
-<!-- header: MARIA ELEND -->
 
 hoben. Im Bildzentrum erscheinen auf Wolken die Andachtsbilder von Christus im Elend, hinter dem Engel das Kreuz halten, und der Schmerzhaften Muttergottes. Darüber thront Gottvater auf Wolken. Das Stufenpodest darunter zeigt die figurenreichste Gruppe von Pilgern, Kranken und Bittenden. Im südlichen Teil des Deckenbildes sind Bauern mit ihren Arbeitsgeräten versammelt, auf der gegenüberliegenden nördlichen Seite wird eine Prozession von einem Geistlichen und einem Kreuzträger angeführt. Im O sind Pilger hinter einer hohen Brüstung dargestellt, auf deren Mitte ein Weihrauchgefäß steht.
 
@@ -106,6 +100,3 @@ RDK, Bd 4 [1958], s. v. Elend, Sp. 1291–93.
 
 
 == REICHERSBEUERN ==
-
-
-{{End}}

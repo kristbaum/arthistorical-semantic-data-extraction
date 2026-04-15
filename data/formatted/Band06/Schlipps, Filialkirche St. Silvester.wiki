@@ -12,11 +12,8 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band06 p290 -->
 
-<!-- header: SCHLIPPS -->
 
-<!-- header: THALHAUSEN -->
 
 Filialkirche, Pfarrei Hohenkammer, Gemeinde Hohenkammer, Erzdiözese München und Freising. Schlipps gehörte bis 1803 zur hochfürstlich Freisingischen Hofmark Massenhausen. Gericht Kranzberg
 
@@ -68,5 +65,3 @@ Pfarrarchiv Hohenkammer, Akt Kirchenrestauration. AEM, Kunsttopographie, Dekanat
 Schmidtsche Matrikel, Bd 2, S. 190. Mayer-Westermayer, Bd 1, S. 157. Goerge, Rudolf, Die Kirchen der Pfarrei Hohenkammer (= KKF Nr. 1323), München-Zürich 1981, S. 18 f. Denkmäler in Bayern. Oberbayern, München 1986, S. 279. Dehio 1990, S. 1080.
 
 Schloßkapelle, Nebenkirche der Pfarrei Wippenhausen Gemeinde Kranzberg, Erzdiözese München und Freising Das Schloß ist seit 1985 in Besitz der Erzdiözese und wird als Jugendhaus genutzt. Z.Z. der Ausmalung gehörte die Schloßkapelle zur Pfarrei Sünzhausen, die seit 1220 dem Stift St. Veit in Freising inkorporiert war. In der Kapelle befand sich eine Reliquie der hl. Anna, die als wundertätig verehrt wurde («Altare maius est dedicatum honoribus S. Annae hic beneficiis clarae, de cuius ossibus etiam hic habetur et colitur particula», Schmidt, S. 341).
-
-{{End}}

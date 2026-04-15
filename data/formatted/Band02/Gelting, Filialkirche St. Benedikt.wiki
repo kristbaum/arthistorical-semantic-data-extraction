@@ -50,14 +50,9 @@ originaler Farbbestand übergangen: deckende Übermalungen in Ocker, Schwarz und
 
 
 [[File:Band02_chunk004_p016_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band02 p182 -->
 
-<!-- header: GELTING -->
 
-<!-- header: GRAFING -->
 
 
 == Beschreibung und Ikonographie ==
@@ -86,5 +81,3 @@ KDB I OB (1), S. 872 f.
 Riss, Franz, Gelting, in: Bayerische Heimat 7, 1925/26, S. 356 f.
 
 Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.), München 1965, S. 163.
-
-{{End}}

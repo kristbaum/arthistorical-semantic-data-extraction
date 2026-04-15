@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p394 -->
 
-<!-- header: PFRAIINDOR -->
 
 
 == PFRAUNDORF ==
@@ -70,10 +68,7 @@ Erhaltungszustand und Restaurierungen: Renovierung 1890/ 91 mit Ausmalung des Ra
 Nächste Restaurierung des Raums 1956/57 durch Fa. Kurt Sandner, Rosenheim, der Deckenbilder durch August Kröninger. Die Medaillons im LHs wurden wieder aufgedeckt (im Chor waren laut BLfD und Bomhard zwei Medaillons, die nicht wieder herzustellen waren, deren Themen aber erkennbar waren, nämlich die Beichte der Königin bei Johann Nepomuk und dessen Brückensturz). Der originale Rahmenverlauf der Hauptfresken wurde freigelegt.
 
 Letzte Restaurierung 1995 durch Alois Stein, Inzell. Die klassizistische Fassung von 1788 wurde aufgefunden, nach Herstellen einer Musterachse gefiel sie aber nicht und man behielt die Fassung von 1956 bei. Die Deckenbilder wurden gereinigt und ausgebessert.
-<!-- citation-page-bottom: Band12 p395 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=24 -->
-<!-- citation-page-top: Band12 p396 -->
 
 [[File:Band12-2_chunk002_p024_img001.jpg|thumb]]
 
@@ -90,14 +85,9 @@ C MARIÄ TEMPELGANG Rote Säulen tragen einen gewölbten Bogen, durch den man in
 
 
 [[File:Band12-2_chunk002_p024_img002.jpg|thumb|B St. Nikolaus als Patron von Pfraundorf (Johann Baptist Böham 1788)]]
-<!-- citation-page-bottom: Band12 p397 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk002.pdf#page=25 -->
-<!-- citation-page-top: Band12 p398 -->
 
-<!-- header: PFRAUNDORF -->
 
-<!-- header: PFRAUNDOR -->
 
 
 [[File:Band12-2_chunk002_p025_img001.jpg|thumb]]
@@ -135,7 +125,3 @@ Schmidtsche Matrikel, Bd 2, S. 80. Mayer-Westermayer, Bd 1, S. 77. KDB I OB (2),
 
 
 [[File:Band12-2_chunk002_p025_img007.jpg|thumb|3 Katharina]]
-<!-- citation-page-bottom: Band12 p399 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk003.pdf#page=1 -->
-{{End}}

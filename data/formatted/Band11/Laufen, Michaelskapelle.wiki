@@ -30,10 +30,7 @@ Malerin in Laufen war zu dieser Zeit die Mutter Johann Michel Rottmayrs, Margare
 
 
 [[File:Band11_chunk005_p021_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band11 p241 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=22 -->
-<!-- citation-page-top: Band11 p242 -->
 
 [[File:Band11_chunk005_p022_img001.jpg|thumb|C St. Katharin]]
 [[File:Band11_chunk005_p022_img002.jpg|thumb]]
@@ -53,12 +50,8 @@ Maße: Höhe 7,30 m; A–D 60×1,20
 E–F 1,80×90  
 
 Erhaltungszustand und Restaurierungen: Erneuerung des Dachs 1902 und »vollständige Restaurierung« der Kapelle 1902 (KDB). Das Dach war 1944 wieder sehr schadhaft, der Regen drang durch die Holzdecke, doch konnten die Schäden erst nach dem Krieg behoben werden. In einem Gutachten von 1951 wird geklagt, eine Restaurierung des 19. Jh. (1902?) habe den Innenraum verdorben, die farbigen Fenster müssten entfernt, der farbig gefaßte Raum wieder weiß getüncht werden. Zur Innenrestaurierung kam es erst 1966/67. Die Decke wurde abgelaugt, der Raum weiß getüncht, die Deckenbilder wurden von Übermalungen befreit und restauriert. Es arbeiteten Georg Gschwendtner aus Karlstein und sein Schwiegersohn  
-<!-- citation-page-bottom: Band11 p243 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk005.pdf#page=23 -->
-<!-- citation-page-top: Band11 p244 -->
 
-<!-- header: LANDKREIS BERCHTESGADEN · LAUFEN -->
 
 Franz Nefzger aus Freilassing. A-D sind verhältnismäßig gut erhalten, E-F sind stark übermalt und zeigen Sprünge. Das Hauptbild ist neu (wohl von Georg Gschwendtner).
 
@@ -118,6 +111,3 @@ A. B.
 
 
 == MARIA GERN ==
-
-
-{{End}}

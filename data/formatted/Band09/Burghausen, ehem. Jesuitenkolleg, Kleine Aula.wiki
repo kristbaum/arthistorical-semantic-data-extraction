@@ -25,14 +25,11 @@ Ehemalige Bauinschrift über der Tür mit den Daten 1630 und 1797: »Congregatio
 Der Saal liegt im Erdgeschoß des ehem. Kolleggebäudes (13,50×8,40m), des heutigen Gymnasiums, auf der Salzachseite. Er umfaßt die Fensterachsen 3-6, von S gezählt. Belichtung auf der Ostseite durch vier Fenster. Zwei Türen (1 Schranktür) auf der Westseite. Der Raum war vor 1911 höher, weil der Fußboden tiefer lag.
 
 [[File:Band09_chunk002_p007_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p63 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=8 -->
-<!-- citation-page-top: Band09 p64 -->
 
 [[File:Band09_chunk002_p008_img001.jpg|thumb|A Namen Maria (Innozenz Warathi 1733/35]]
 
-'''Auftraggeber:''' Die Kosten für die Neuausstattung 1733/36 trug die große Kongregation. P. Rektor Anton Crantsperger schreibt 1763 in der Marianischen Chronik (fol. 49 r und 65 v), daß bei der 1733 durch Unachtsamkeit ihrer Sakristanen entstandenen Feuersbrunst die große Kongregation der kleinen allen Schaden habe ersetzen müssen: »Es wird auch in sothanen Jahrs Schrüften ohnmitlbahr zu lesen gewesen seyn,<br>welchergestalten unsere größere Congregation, da einstens am<br>Charfreytag bey dem Einhaizohrt an der Rhetori durch die Nachlässigkeit der Sacristanen, villmehr aber wegen daselbst<br>ruiniert gewesten ZieglPflaster das Feur in die kleinere Congregation und Grammatic durchgetrungen, und einigen Schaden verursachet hat, ohne Beyhilf des Löbl. Collegii mehr: dan zu viel alles indemnisieren müssen.«
+'''Auftraggeber:''' Die Kosten für die Neuausstattung 1733/36 trug die große Kongregation. P. Rektor Anton Crantsperger schreibt 1763 in der Marianischen Chronik (fol. 49 r und 65 v), daß bei der 1733 durch Unachtsamkeit ihrer Sakristanen entstandenen Feuersbrunst die große Kongregation der kleinen allen Schaden habe ersetzen müssen: »Es wird auch in sothanen Jahrs Schrüften ohnmitlbahr zu lesen gewesen seyn, welchergestalten unsere größere Congregation, da einstens am Charfreytag bey dem Einhaizohrt an der Rhetori durch die Nachlässigkeit der Sacristanen, villmehr aber wegen daselbst ruiniert gewesten ZieglPflaster das Feur in die kleinere Congregation und Grammatic durchgetrungen, und einigen Schaden verursachet hat, ohne Beyhilf des Löbl. Collegii mehr: dan zu viel alles indemnisieren müssen.«
 
 '''Autor und Entstehungszeit:''' Deckenbilder 1733/35: Zuschreibung an Innozenz Anton Warathi (* 1694 Trens bei Sterzing † 1758 Burghausen)
 
@@ -91,12 +88,8 @@ W<sub>1-7</sub> JUGENDLICHE HEILIGE Sieben Heilige in jugendlichem Alter, darges
 [[File:Band09_chunk002_p008_img003.jpg|thumb|W<sub>1</sub> Jugendlicher Martyre]]
 
 
-<!-- citation-page-bottom: Band09 p65 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=9 -->
-<!-- citation-page-top: Band09 p66 -->
 
-<!-- header: BURGHAUSEN -->
 
 [[File:Band09_chunk002_p009_img001.jpg|thumb]]
 
@@ -150,14 +143,9 @@ W<sub>a</sub> ARS - KÜNSTE Eine Frau zeigt auf den Grundrißplan eines Palasts.
 
 
 [[File:Band09_chunk002_p009_img008.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p67 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band09 p68 -->
 
-<!-- header: BURGHAUSEN -->
 
-<!-- header: BURGHAUSEN -->
 
 
 [[File:Band09_chunk002_p010_img001.jpg|thumb]]
@@ -254,7 +242,3 @@ Schneider, Josef, Die Bildprogramme der Großen und der Kleinen Aula, in: Kurfü
 Schmidt, Michael, Die Baugeschichte des Burghauser Kollegs und der Studienkirche St. Josef, in: Kurfürst-Maximilian-Gymnasium Burghausen 1997, S. 214–58.
 
 Goerge, Dieter, Johann Nepomuk della Croce (= Burghauser Geschichtsblätter 50), Burghausen 1998. C.B.
-<!-- citation-page-bottom: Band09 p69 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=11 -->
-{{End}}

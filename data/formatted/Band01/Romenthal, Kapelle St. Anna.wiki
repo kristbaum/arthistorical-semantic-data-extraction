@@ -54,14 +54,9 @@ Die Gesamtfarbigkeit bestimmen die weiten Partien blaugrauen Himmels und beige-w
 W<sub>1–4</sub> Embleme An den Schildwänden unter den Stichkappen der SO-, SW-, NW- und NO-Seite sind emblemähnliche Darstellungen angebracht, annähernd halbrunde Bildfelder mit Schriftbändern, die Bibelstellen anstelle von Lemmata enthalten.
 
 W1 O quam pulchra est casta generatio! Sap 4 v 1. – Sonne scheint auf eine Muschel. Die Muschel ist in der
-<!-- citation-page-bottom: Band01 p205 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=4 -->
-<!-- citation-page-top: Band01 p206 -->
 
-<!-- header: ROMENTHAL -->
 
-<!-- header: ROMENTHA -->
 
 
 [[File:Band01_chunk005_p004_img001.jpg|thumb]]
@@ -95,7 +90,7 @@ Gnadenstrahlen. Mit verehrend über der Brust gekreuzten Armen und geneigtem Hau
 
 Ergänzungen zur Ikonographie: Die hl. Anna, Mutter Mariens, wurde in dieser Kapelle durch ein Gnadenbild besonders verehrt und nicht nur als Schutzherrin der Eheleute, der Mütter und der Armen, sondern auch in anderen Nöten (Pest, Besessenheit) angerufen (A, W-Seite). Sie ist auch Patronin gegen Gewitter (Gewitterhimmel) und der Schiffer (Schiff und Schiffbrüchiger auf stürmischem See durch die Berge im Hintergrund als der nahe Ammersee gekennzeichnet). Das brennende Haus spielt vielleicht auf eine tatsächliche Begebenheit an (Brand der Schwaige im Spanischen Erbfolgekrieg 1704).
 
-Die Huldigung, welche die vier Erdteile der Mutter Anna und ihrer Tochter Maria darbringen, ist eine Allusion auf die Stelle im Protoevangelium des Jakobus (4,1), wo ein Engel zu Anna spricht: »Du wirst empfangen und gebä ren, und deine Nachkommenschaft wird in der ganzer<br>Welt genannt werden« (Edgar Hennecke und Wilhelm Schneemelcher, Neutestamentliche Apokryphen in deutscher Übersetzung, Bd 1, Tübingen 1959, S. 281). Zur Geburt der Maria vgl. ebenda (5,2). Auf die Anna gravida sind auch die vier emblemähnlichen Darstellungen (A1-4) bezogen. Die umlaufende Inschrift am Kuppelrand gibt Stellen aus dem AT, die sich auf Anna als Mutter und als Fürbitterin beziehen, wieder: OBVIABIT ILLI QUASI MATER HONORIFICATA Eccli 15 v 2. ORA PRO NOBIS QUONIAM MULIER SANCTA ES Judith 8 v 29.
+Die Huldigung, welche die vier Erdteile der Mutter Anna und ihrer Tochter Maria darbringen, ist eine Allusion auf die Stelle im Protoevangelium des Jakobus (4,1), wo ein Engel zu Anna spricht: »Du wirst empfangen und gebä ren, und deine Nachkommenschaft wird in der ganzer Welt genannt werden« (Edgar Hennecke und Wilhelm Schneemelcher, Neutestamentliche Apokryphen in deutscher Übersetzung, Bd 1, Tübingen 1959, S. 281). Zur Geburt der Maria vgl. ebenda (5,2). Auf die Anna gravida sind auch die vier emblemähnlichen Darstellungen (A1-4) bezogen. Die umlaufende Inschrift am Kuppelrand gibt Stellen aus dem AT, die sich auf Anna als Mutter und als Fürbitterin beziehen, wieder: OBVIABIT ILLI QUASI MATER HONORIFICATA Eccli 15 v 2. ORA PRO NOBIS QUONIAM MULIER SANCTA ES Judith 8 v 29.
 
 
 == Quellen und Literatur ==
@@ -117,7 +112,3 @@ Kraut, Alfred, Aus der Geschichte der Schwaige Romenthal, in: Lechisarland 1960,
 
 
 [[File:Band01_chunk005_p004_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p207 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=5 -->
-{{End}}

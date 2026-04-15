@@ -12,7 +12,6 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band06 p150 -->
 
 St.-Benediktuskirche auf dem Domberg an der Ostseite des Kreuzgangs (sog. Alter Dom), Nebenkirche des Doms
 
@@ -42,14 +41,10 @@ Erhaltungszustand und Restaurierungen: 1839 wurde St. Benedikt, das seit der Sä
 
 
 [[File:Band06_chunk004_p001_img001.jpg|thumb|Decke des Langhauses]]
-<!-- citation-page-bottom: Band06 p151 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=2 -->
-<!-- citation-page-top: Band06 p152 -->
 
 STADT FREISING
 
-<!-- header: STADT FREISING -->
 
 
 [[File:Band06_chunk004_p002_img001.jpg|thumb]]
@@ -67,10 +62,7 @@ Die Gewölbedekoration des Mittelschiffs weist in jedem Joch einen Deckenspiegel
 
 
 [[File:Band06_chunk004_p002_img002.jpg|thumb|Decke des Altarraums]]
-<!-- citation-page-bottom: Band06 p153 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=3 -->
-<!-- citation-page-top: Band06 p154 -->
 
 [[File:Band06_chunk004_p003_img001.jpg|thumb]]
 
@@ -103,12 +95,8 @@ Aus der Folge der ursprünglich vier Kirchenväter bzw. vier Evangelisten wurde 
 == Nordseite ==
 
 <sub>1</sub> HL. HIERONYMUS Der Heilige im Kardinalsornat liest aufmerksam in einem großen Buch, das er auf dem
-<!-- citation-page-bottom: Band06 p155 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=4 -->
-<!-- citation-page-top: Band06 p156 -->
 
-<!-- header: STADT FREISING -->
 
 [[File:Band06_chunk004_p004_img001.jpg|thumb]]
 
@@ -152,12 +140,8 @@ So wie die Nachricht von den jeweiligen Kirchenerneuerungen tradiert wurde, kön
 
 
 [[File:Band06_chunk004_p004_img007.jpg|thumb|Rose unter Dornen]]
-<!-- citation-page-bottom: Band06 p157 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=5 -->
-<!-- citation-page-top: Band06 p158 -->
 
-<!-- header: STADT FREISING -->
 
 
 == STADT FREISING ==
@@ -226,7 +210,3 @@ Götz 1992, S. 290.
 Hahn, Sylvia, Johann Baptist Zimmermann in Freising, in: Beiträge Freising 1994, S. 276.
 
 B.V.-K
-<!-- citation-page-bottom: Band06 p159 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=6 -->
-{{End}}

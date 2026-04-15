@@ -33,10 +33,7 @@ Stilistische Abgrenzung Martin Antons von Johann Anton Seltenhorn:
 Die stilistischen Gemeinsamkeiten dieser Werke ergeben folgende Kennzeichnung: eine äußerst bewegte, geradezu fetzige Art der Komposition und der Gruppierung von Figuren, die über die sehr bescheidenen, gegenstandsbezogenen und additiven Bildanlagen in Fraham hinausgehen. Markant sind in Frauendorf die Figuren. Sie sind kindlich klein und körperlos, oft in gewagten Verrenkungen wiedergegeben. Eine Eigentümlichkeit sind die nach rückwärts gereckten Oberkörper. Mehrere Personen werden in der Regel stereotyp aufgereiht. Auffallend ist auch eine Vorliebe für phantastische Bildmotive
 
 [[File:Band08_chunk002_p020_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band08 p89 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=21 -->
-<!-- citation-page-top: Band08 p90 -->
 
 [[File:Band08_chunk002_p021_img001.jpg|thumb]]
 
@@ -57,14 +54,9 @@ Die Auszugsbilder an den Seitenaltären und der Kreuzweg sind Martin Anton Selte
 Zur Malerfamilie Seltenhorn siehe S. 348 f
 
 [[File:Band08_chunk002_p021_img003.jpg|thumb|B St. Michael als Weltenretter]]
-<!-- citation-page-bottom: Band08 p91 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk002.pdf#page=22 -->
-<!-- citation-page-top: Band08 p92 -->
 
-<!-- header: FRAUENDORF -->
 
-<!-- header: FRAUENORNAU -->
 
 
 == Befund ==
@@ -88,7 +80,7 @@ Die Farbigkeit des Freskos ist insgesamt hell, alle Farben - Grünbraun der Land
 
 B ST. MICHAEL ALS WELTENRETTER Der Schauplatz zeigt eine Meeresbucht, am jenseitigen Ufer Häuser und eine brennende Burg auf einem Hügel. Das Wasser tost in hohen Wellen und brandet an das diesseitige Ufer, wo ein großer Engel eben ein Gebäude zum Einstürzen bringt. Ein zweiter Engel rührt das Wasser auf. Ein Schiff in Ufernähe ist am Kentern, weil ein Engel vom Himmel aus Blitze schleudert, während ein Putto neben ihm einen mächtigen Windstrahl auf das Schiff bläst. Menschen klammern sich am Mast fest. Oben erscheint vor einer hellen Glorie der Erzengel Michael in Feldherrntracht; bei ihm sind Putten, die ihm Waage und Flammenschwert halten. Michael hält einen Schild über die Erde. Von seinem Mund geht ein Schriftstrahl mit goldenen Lettern aus NOLITE NOCERE TERRAE [Apoc 7] V.3. Die Szene wirkt hochdramatisch: das stürzende Gemäuer, die aufgewühlten Wogen, das versinkende Schiff mit Masten und Segeln, der flammende Hintergrund.
 
-Die Darstellung illustriert eine Vision aus der Offenbarung des Johannes (Apoc 7,1–3): »Danach sah ich vier Engel an den vier Ecken der Erde stehen: sie hielten die vier Winde der Erde fest, auf daß kein Wind wehe über das Land noch über das Meer noch über irgendeinen Baum. Und ich sah einen andern Engel vom Sonnenaufgang heraufkommen; der hatte das Siegel des lebendigen Gottes und rief mit mächtiger Stimme den<br>vier Engeln zu, denen gegeben war, das Land und das Meer zu schädigen. Er rief: Schädigt nicht das Land noch das Meer noch die Bäume, bis wir den Knechten unseres Gottes das Siegel auf ihre Stirn gedrückt haben.« Dieser Engel wird in der Exegese mit Michael gleichgesetzt. Das Bild zeigt also den Kirchenpatron als Schützer der gläubigen Christen in der letzten Erdenzeit. Damit ist auch wieder auf die rettende Macht Michaels hingewiesen, die er, der Patron der Sterbestunde, in der letzten Erdenzeit des einzelnen Menschen hat.
+Die Darstellung illustriert eine Vision aus der Offenbarung des Johannes (Apoc 7,1–3): »Danach sah ich vier Engel an den vier Ecken der Erde stehen: sie hielten die vier Winde der Erde fest, auf daß kein Wind wehe über das Land noch über das Meer noch über irgendeinen Baum. Und ich sah einen andern Engel vom Sonnenaufgang heraufkommen; der hatte das Siegel des lebendigen Gottes und rief mit mächtiger Stimme den vier Engeln zu, denen gegeben war, das Land und das Meer zu schädigen. Er rief: Schädigt nicht das Land noch das Meer noch die Bäume, bis wir den Knechten unseres Gottes das Siegel auf ihre Stirn gedrückt haben.« Dieser Engel wird in der Exegese mit Michael gleichgesetzt. Das Bild zeigt also den Kirchenpatron als Schützer der gläubigen Christen in der letzten Erdenzeit. Damit ist auch wieder auf die rettende Macht Michaels hingewiesen, die er, der Patron der Sterbestunde, in der letzten Erdenzeit des einzelnen Menschen hat.
 
 In Fresko A wird Michael gezeigt, wie er als der Seelenführer die Seelen vor den dunklen Mächten bewahrt und ins Paradies geleitet.
 
@@ -103,5 +95,3 @@ StAM, Gericht Kraiburg, Kirchenrechnungen 1700-1800.
 AEM, Pfarrakten Ensdorf, 174 820002: Filiale Frauendorf BLfD, Akt Frauendorf, Kirche St. Michael
 
 Mayer-Westermayer, Bd 2, S. 95 KDB I, OB (3), S. 2166. Historischer Atlas, Bd 36, Mühldorf (Helmuth Stahleder) München 1976, S. 328. Dehio 1990, S. 300.
-
-{{End}}

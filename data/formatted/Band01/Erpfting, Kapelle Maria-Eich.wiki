@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p74 -->
 
-<!-- header: ERPFTING -->
 
 
 == ERPETING ==
@@ -65,14 +63,9 @@ Gegenüber den dunkeltonigen Fresken von 1758–59 in der Johanneskirche zu Wess
 
 
 [[File:Band01_chunk002_p013_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p75 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=14 -->
-<!-- citation-page-top: Band01 p76 -->
 
-<!-- header: ERPFTING -->
 
-<!-- header: ERPFTING -->
 
 durch die veränderte Farbigkeit sowie eine weniger gedrängte Zusammenstellung der Formen leichter; er ist zugleich perspektivisch kühner in Szene gesetzt. Hier wie in der Angerkapelle in Weilheim (1761) und in Türkenfeld (1765, OB LKr. Fürstenfeldbruck), die dasselbe Thema in sehr ähnlicher Form behandeln, verwendet Baader das Fresko Luca Giordanos in der Certosa di San Martino, Neapel, als Vorlage (Simon). Figurale Einzelheiten entsprechen ganz den früheren Fresken: Judith zeigt den Typus der Salome in der Enthauptungsszene in Wessobrunn, dort findet sich auch völlig gleichartig der volutenbesetzte Sockel mit einem Pflanzentopf. – Etwas unbeholfen in dieser sonst sicher komponierten Szene sind die Figuren der Bewohner und Soldaten Bethulias zu seiten des Hauptmannes gruppiert. Auch die himmlische Gruppe ist nicht so überzeugend: Sie weist der Judithgruppe gegenüber weniger strahlende Lichtfarben auf. Besonders die Figuren der Engel sind im Verhältnis zu der starken Untersicht der irdischen Szene zu wenig verkürzt und wirken in der Zeichnung der Gewänder und der Flügel etwas pedantisch.
 
@@ -97,5 +90,3 @@ Dehio-Gall OB (1964), S. 299
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S. 476.
 
 Simon, Adelheid, Die Fresken des Johann Baptist Baader ungedr. Diss. München 1972.
-
-{{End}}

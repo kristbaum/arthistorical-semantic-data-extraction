@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p252 -->
 
-<!-- header: SCHLEHDORF -->
 
 Ehem. Refektorium im Stiftsgebäude, z. Z. Büroraum der Missionsdominikanerinnen
 
@@ -53,5 +51,3 @@ Das Lemma, das wie in den übrigen Emblemen in einer gleichsam antithetischen Wo
 Die Tränen des Weinstocks verweisen auf die Trauer Mariens über den Tod ihres Sohnes, die Wunde des Baumes auf das Leiden und Sterben Christi.
 
 Literatur siehe S. 24.
-
-{{End}}

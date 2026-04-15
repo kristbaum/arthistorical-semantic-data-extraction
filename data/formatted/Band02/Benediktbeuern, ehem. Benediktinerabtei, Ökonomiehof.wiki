@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p132 -->
 
 == Okonomiehof. Hofeinfahrt ==
 
@@ -99,7 +98,3 @@ Hemmerle, Josef, Die Benediktinerklöster in Bayern, Germania Benedictina, Bd 2,
 Wagner, Helga, Barocke Festsäle, München 1974, S. 44–48, S. 131–33.
 
 Weber, Leo, St. Benedikt zu Benediktbeuern, Benediktbeuern 1980.
-<!-- citation-page-bottom: Band02 p133 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=18 -->
-{{End}}

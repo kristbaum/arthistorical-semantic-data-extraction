@@ -32,10 +32,7 @@ Das Datum der Dekoration in Evenhausen ist nicht bekannt. Am inneren Chorbogen b
 
 
 [[File:Band12-1_chunk003_p016_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p131 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=17 -->
-<!-- citation-page-top: Band12 p132 -->
 
 == EVENHAUSEN ==
 
@@ -66,12 +63,8 @@ Die Stuckierung des Gewölbes beschränkt sich auf die Rahmung der Kartuschen un
 
 [[File:Band12-1_chunk003_p017_img002.jpg|thumb|Der Kirchenraum]]
 
-<!-- citation-page-bottom: Band12 p133 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=18 -->
-<!-- citation-page-top: Band12 p134 -->
 
-<!-- header: EVENHAUSEN -->
 
 
 [[File:Band12-1_chunk003_p018_img001.jpg|thumb]]
@@ -96,14 +89,9 @@ B DAS ALTE UND DAS NEUE TESTAMENT / DIE KATHOLISCHE KIRCHE Das Bild zeigt das In
 
 
 [[File:Band12-1_chunk003_p018_img004.jpg|thumb|C Marienkrönung]]
-<!-- citation-page-bottom: Band12 p135 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=19 -->
-<!-- citation-page-top: Band12 p136 -->
 
-<!-- header: EVENHAUSEN -->
 
-<!-- header: FVFNHALISFN -->
 
 
 [[File:Band12-1_chunk003_p019_img001.jpg|thumb]]
@@ -154,12 +142,8 @@ Christus thront auf Wolken, zwischen ihnen erscheint der Heilige Geist in Gestal
 D SCHLÜSSELÜBERGABE AN PETRUS (Matth 16,18) Auf einer Wiese, wo links Schafe weiden, steht Christus; rechts sind die Apostel dargestellt, an ihrer Spitze Petrus, der vor Christus niedergekniet ist und aus seiner Hand die Schlüssel entgegennimmt. Links ragt auf einem kleinen, jäh abbrechenden Hügelchen der Rundtempel als Symbol der Kirche auf. Zwei Putten schweben in Wolken über der Szene: sie halten Bandstücke.
 
 Auf alle Worte Christi zu Petrus, mit denen er ihn als Oberhaupt der Kirche bestimmte, ist hier in Symbolen hingewiesen:
-<!-- citation-page-bottom: Band12 p137 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=20 -->
-<!-- citation-page-top: Band12 p138 -->
 
-<!-- header: EVENHAUSEN -->
 
 »Du bist Petrus, der Fels, und auf diesen Felsen will ich meine Kirche bauen« (Mt 16,18; Rundtempel auf steilem Hügel); »Ich will Dir die Schlüssel des Himmelsreichs geben: Was Du auf Erden binden wirst, das soll auch im Himmel gebunden sein« (Mt 16,19 und 18,18; Schlüsselübergabe, Bänder in der Hand der Putten); »Weide meine Schafe« (Joh 21,17; die Schafe auf der rechten Bildseite weisen auf Übertragung des Hirtenamts hin).
 
@@ -219,6 +203,3 @@ A. B.
 
 
 == FLINTSBACH AM INN ==
-
-
-{{End}}

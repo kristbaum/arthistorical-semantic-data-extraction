@@ -55,14 +55,9 @@ B ST. MARTIN IN DER GLORIE Der Heilige thront auf Wolken, die Rechte zum Segensg
 
 
 [[File:Band01_chunk001_p010_img002.jpg|thumb|B St. Martin in der Glorie]]
-<!-- citation-page-bottom: Band01 p19 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=11 -->
-<!-- citation-page-top: Band01 p20 -->
 
-<!-- header: ADELSHAUSEN -->
 
-<!-- header: ADELSHAUSEI -->
 
 A<sub>1-4</sub> ALLEGORISCHE DARSTELLUNGEN Die fragmentarisch erhaltenen Zwickelbilder im Langhaus lassen Bildfiguren erkennen, die vermutlich als die Vier Letzten Dinge zu deuten sind:
 
@@ -105,7 +100,3 @@ W<sub>2</sub> S./ANNA Vor seiner Mutter Anna kniet lesend das Mädchen Maria.
 
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 402 f.
-<!-- citation-page-bottom: Band01 p21 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk001.pdf#page=12 -->
-{{End}}

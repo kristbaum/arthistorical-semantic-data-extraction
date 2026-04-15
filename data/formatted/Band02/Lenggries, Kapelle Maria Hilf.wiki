@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p214 -->
 
 Kapelle Maria Hilf im Friedhof, jetzt Kriegergedächtniskapelle, Pfarrei St. Jakob Lenggries, Erzdiözese München und Freising; z. Z. der Ausmalung Hofmark Hohenburg
 
@@ -60,7 +59,3 @@ Literatur siehe S. 213
 
 
 [[File:Band02_chunk005_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p215 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=9 -->
-{{End}}

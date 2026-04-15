@@ -14,11 +14,8 @@
 |AutorIn3=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band13 p172 -->
 
-<!-- header: FICHSTATT MARIA-HILF-KAPELLE -->
 
-<!-- header: EICHSTÄTT MARIA-HILF-KAPELLI -->
 
 
 == Maria-Hilf-Kapelle ==
@@ -65,14 +62,9 @@ Den Maler Johann Flieger bezahlte man für ein Fresko am Chorgewölbe und für e
 Ausmalung 1744: Johann Michael Franz (* 1715 Dirlewang † 1793 Eichstätt) 1744. Signatur in B auf der rechten Armlehne Ioh. Mich. Franz.
 
 Weitere Hinweise fanden sich in den Quellen. Felix Mader überliefert in den KDB: »Die Gemälde schuf. Joh. Michael Franz, wie die Kirchenrechnung (i. Pfarrarchiv St. Walburg) ausweist. Er bekam dafür 42 fl.«; diese Rechnungsnotiz konnte im DAEI, wo das Pfarrarchiv St. Walburg verwahrt wird, nicht nachgewiesen werden. Erhalten hat sich ein »Zuverlässiger Überschlag vor wenigen hernach benanter Maurer unnd Stocador arbeith, welche über inwendtige Verneuerung Unser Lieben Frauen Maria Hilff Capellen in der Westen alhir zur Eichstätt vorzunemen erforderlich« des »Hofbildhauers« – es handelt sich um Matthias Seybold – vom 20.4.1744 (DAEI, Pfarrarchiv Eichstätt-St. Walburg, VII1a). Nach dieser Aufstellung »ist erforderlich, nach dem gemachten Riss, eine weisse Deckhen von Maurer und etwas Stocador Arbeith, sambt dem Chor, und dessen Pogen mit gleicher Arbeith zuverferttigen und saubr herzustellen. Vor all und ides nun, dass sowohl vor Arbeith und alle hiezue geherige Materialien, ausgenommen allienige des Christ, ist berichts mit deme Stocadore über haubt pactiert worden, 46 fl.« Der Stuckator, mit dem paktiert wird und der nach dem Entwurf Seybolds arbeiten soll, ist namentlich nicht genannt; in Frage kommt der
-<!-- citation-page-bottom: Band13 p173 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band13 p174 -->
 
-<!-- header: EICHSTÄTT MARIA-HILF-KAPELLE -->
 
-<!-- header: EICHSTATT MARIA-HILF-KAPELLE -->
 
 Eichstätter Bildhauer Caspar Aicher, der laut Heilingrechnung die Antependien der Seitenaltäre schnitzte (DAEI, R10, 1745-47, fol. 32 v.). Diese und weitere Baumaßnahmen - Ausbrechen der »zwey Haubt Fenster« und des »alten ungeformbten Chorbogen... stattdessen einen regularn Zwerckhpogen darin zu gwelben« sowie »zwey Endtungen, in welche die beede Altär zu stellen kommen« einzurichten und ein neues Chorpflaster zu legen – sichern das Datum 1744 für die Innenausstattung. In den Rechnungen der Maria-Hilf-Kapelle für die Jahre 1745-47 (DAEI, R10) ist keine dieser Arbeiten mehr verrechnet. Dafür belegen Rechnungsnotiz und Schein von Johann Michael Franz eine nicht mehr erhaltene Arbeit. Am 21.9. 1745 bescheinigte Franz, dass er »an der dasselbstigen Kirchenpahr eine Gallerie gemahlen« und dafür 6 Gulden erhalten habe (DAEI, Pfarrarchiv Eichstätt-St. Walburg, Rechnungsbelege Maria-Hilf-Kapelle). Die Rechnungsnotiz lautet: »Es hat Johann Michael Franz Maller in der Maria Hilf Capellen an dem Musicalischen Chor eisserlich eine Gallerie gemahlen, welche dem Lieben Gotteshaus eine besondere Zierte gibt« (ebd., Rechnung über Alles Einnemmen und Ausgeben an gelt bey Unser Lieben Frauen Capellen in äußeren Vösten alhier zu Aichstätt von... 1745, 1746, 1747 = DAEI, R10, 1745-47, fol. 31r). Den Angaben nach handelte es sich um eine Malerei an der Brüstung der Orgelempore.
 
@@ -104,14 +96,9 @@ Auf der links sich erhebenden Estrade hat sich vor der Kulisse eines kolonnaden�
 
 
 [[File:Band13_chunk004_p013_img001.jpg|thumb|Die Decke des Langhauses: A Maria als Gnadenbrunnen, 1-4 Maria als Helferin in Nöten und Gefahren (Johann Michael Franz 1744)]]
-<!-- citation-page-bottom: Band13 p175 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=14 -->
-<!-- citation-page-top: Band13 p176 -->
 
-<!-- header: EICHSTÄTT MARIA-HILF-KAPELLE -->
 
-<!-- header: FICHSTÄTT MARIA-HILF-KAPELLE -->
 
 
 [[File:Band13_chunk004_p014_img001.jpg|thumb]]
@@ -140,14 +127,9 @@ Paar - ist er ein Ort des Gebets. Die Mariendarstellung entspricht dem geschnitz
 
 
 176
-<!-- citation-page-bottom: Band13 p177 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=15 -->
-<!-- citation-page-top: Band13 p178 -->
 
-<!-- header: EICHSTÄTT MARIA-HILF-KAPELLE -->
 
-<!-- header: EICHSTÄTT MARIA-HILF-KAPELLI -->
 
 
 [[File:Band13_chunk004_p015_img001.jpg|thumb|B Sapientia als Mater Pulchrae Dilectionis]]
@@ -212,7 +194,3 @@ Braun, Emanuel, Karl Frey und Claudia Grund, Die Restaurierung der Mariahilf-Kap
 Dehio OB 1990, S. 228; 2006, S. 246  
 
 C. G./E. L./C. B  
-<!-- citation-page-bottom: Band13 p179 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=16 -->
-{{End}}

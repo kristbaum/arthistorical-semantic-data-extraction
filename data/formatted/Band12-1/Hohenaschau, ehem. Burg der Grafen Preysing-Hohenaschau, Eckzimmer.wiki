@@ -19,14 +19,9 @@
 '''Zum Bauwerk:''' Das Eckzimmer bestand schon vor dem barocken Umbau, war zunächst Bibliothek, später Apotheke. Beim Umbau 1672/75 wurde es mit einer neuen Decke versehen und diente in der Folgezeit als Gastzimmer (zur Einrichtung gehörte ein großes Himmelbett). An das Eckzimmer schloß nach Westen, im östlichen Flügel des Südtraktes gelegen, das sog. »Lange Zimmer« an (1905/08 in einem neuen Treppenhaus verbaut), das gleichzeitig mit dem Eckzimmer beim Umbau ab 1672 umgestaltet wurde. Beim Schloßumbau
 
 [[File:Band12-1_chunk006_p021_img003.jpg|thumb|1–9 Musizierende Frauen: 1 an der Orgel]]
-<!-- citation-page-bottom: Band12 p291 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=22 -->
-<!-- citation-page-top: Band12 p292 -->
 
-<!-- header: HOHENASCHAL -->
 
-<!-- header: HOHENASCHAU -->
 
 
 [[File:Band12-1_chunk006_p022_img001.jpg|thumb]]
@@ -40,7 +35,7 @@
 
 Das Eckzimmer bildet das Gelenk zwischen dem im Bogen an die Nordseite verlaufenden Nordtrakt und dem Südtrakt. Unregelmäßiger, ursprünglich rechteckiger Raum, ein Fenster nach Ost und eines nach Süd.
 
-'''Auftraggeber:''' Graf Maximilian Johann Franz (Max II.) von<br>Preysing-Hohenaschau.
+'''Auftraggeber:''' Graf Maximilian Johann Franz (Max II.) von Preysing-Hohenaschau.
 
 '''Autor und Entstehungszeit:''' Der Autor ist unbekannt. Die Bilder entstanden um 1677.
 
@@ -91,17 +86,11 @@ Erhaltungszustand und Restaurierungen: Restaurierungen sind nicht bekannt. Die B
 Um ein übereckgestelltes quadratisches Bildfeld sind in den Ecken vier runde, an den Seitenmitten vier quadratische angeordnet, sodaß die Bilder zusammen einen quadratischen Deckenspiegel ergeben. Alle Darstellungen sind sowohl von der Größe her als auch kompositionell und ikonographisch gleichgewichtig. Alle Darstellungen haben die Musik zum Thema und zeigen jeweils eine weibliche Figur mit einem Putto als Assistenzfigur an einem Instrument. Ansicht sämtlicher Bilder nach W.
 
 I Frau in brauner Draperie an der Orgel. Ein Putto hält ihr ein Notenblatt und schlägt mit einem Stab den Takt.
-<!-- citation-page-bottom: Band12 p293 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=23 -->
-<!-- citation-page-top: Band12 p294 -->
 
-<!-- header: HOHENASCHA -->
 
 
 == HOHENASCHAU ==
 
 
 Eine Frau in rotem Gewand mit antikischen Stiefeln, eine Perlenkette um den Hals, spielt die Posaune. Sie befindet sich in einem Zimmer mit Kamin und darüberhängendem Landschaftsbild. Ein Putto hält ihr die Noten. Am Boden liegen ein Blasinstrument und eine Trommel. In einem Raum mit Säulensockel, an den eine Laute gelehnt ist, sitzt an einem Tisch mit geöffnetem Notenbuch eine junge Frau in antikisierender grünroter Gewandung und spielt auf einem gebogenen Blasinstrument. Ein großer Putto bei ihr hält eine Kniegeige. Eine große Bogenöffnung, von einer Balustrade abgeschlossen, auf der ein Orangenessender Affe sitzt, führt ins Freie, wo bizarre Gebäude zu sehen sind. Rechts lehnt an einem Sockel eine Kniegeige. An einer Fensteröffnung, durch die eine Landschaft mit Tempeln zu sehen ist, sitzt unter einer dunkelgrünen Draperie eine singende Frau in braunrotem Gewand mit roten Perlen um den Hals und im Haar. Ein Putto mit kleiner, kräftig roter Draperie hält ihr die Noten. In einem Zimmer mit Landschaftsausblick sitzt eine dunkelgrün gewandete Dame mit blondem Lockenhaar an einem Vorspiel. An einer Balustrade, unter einer grünen Draperie, sitzt eine dunkelgrün gewandete Frau und spielt die Knickhalslaute. Zu ihren Füßen sieht man weitere Saiteninstrumente. Ein Putto hinter der Balustrade, die den Raum gegen einen gewölbten Gang hin abschließt, spielt Violine. Auf einem braunrot gedeckten Tisch mit aufgeschlagenen Buch spielt die Geige. Der Putto vor ihr hält ein altertümliches Saiteninstrument. Auf dem Boden liegt ein weiteres Instrument.
-
-{{End}}

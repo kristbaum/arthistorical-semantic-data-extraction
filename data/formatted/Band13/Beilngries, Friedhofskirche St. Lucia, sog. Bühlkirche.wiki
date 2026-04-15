@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band13 p36 -->
 
-<!-- header: BEILNGRIE -->
 
 
 == BEILNGRIES ==
@@ -42,12 +40,8 @@ Die Jahreszahl 1740 im Stuck über der Orgelempore bezieht sich auf die Barockis
 
 
 [[File:Band13_chunk001_p019_img003.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band13 p37 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=20 -->
-<!-- citation-page-top: Band13 p38 -->
 
-<!-- header: BEILNGRIES -->
 
 
 == BEILNGRIES ==
@@ -95,12 +89,8 @@ A KRONUNG MARIENS Das in seiner Farbigkeit sehr intensive Ölgemälde zeigt eine
 
 
 [[File:Band13_chunk001_p020_img001.jpg|thumb|Krönung Mariens (gegen 1700)]]
-<!-- citation-page-bottom: Band13 p39 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=21 -->
-<!-- citation-page-top: Band13 p40 -->
 
-<!-- header: BEILNGRIES -->
 
 Die Auswahl der Heiligen ist - wie mehrfach bei Heiligenzyklen im Landkreis Eichstätt – nur teilweise erklärbar; wie
 
@@ -165,7 +155,3 @@ Krempl, Armin, Kirchen der Pfarrei Beilngries (= Ped Kunstführer Nr. 180), Pass
 Dehio OB 1990, S. 991.; 2006, S. 10
 
 C.B.
-<!-- citation-page-bottom: Band13 p41 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk001.pdf#page=22 -->
-{{End}}

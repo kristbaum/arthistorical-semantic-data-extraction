@@ -12,9 +12,7 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band04 p218 -->
 
-<!-- header: POIGERN -->
 
 
 == POIGERN ==
@@ -51,14 +49,9 @@ Das AR-Fresko B kann mit Sicherheit Dieffenbrunner zugeordnet werden: Charakteri
 
 
 [[File:Band04_chunk005_p010_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p219 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk005.pdf#page=11 -->
-<!-- citation-page-top: Band04 p220 -->
 
-<!-- header: POIGER -->
 
-<!-- header: POIGERN -->
 
 
 [[File:Band04_chunk005_p011_img001.jpg|thumb|B Glorie des hl. Nikolaus]]
@@ -99,14 +92,9 @@ B GLORIE DES HL. NIKOLAUS Einansichtiges, nach O gerichtetes Bild, Betrachtersta
 Zur ursprünglichen Fassung gehören das Abbild der Nikolauskirche, das südlich vom Altargiebel zu sehen ist, und de Knabe mit ausgebreiteten Armen – zum Teil von dem Pfarrer porträt verdeckt -, der mit der Linken zur Kirche hinweis und mit der Rechten wohl zum Himmel zeigte. Weiter Figurenreste sind hinter den Bauern zu erkennen.
 
 Die Bittsteller sind zu seiten der Kirche angeordnet, im NO zwei Bauern, vom Pfarrer angeführt, der auf die Kirche weist und die Gläubigen anblickt, im SO eine Mutter mit drei kleinen Töchtern. Sie sind Halbfigurenporträts in Dachauer Tracht, wobei die Männerköpfe mit langem Nackenhaar sehr detailliert ausgeführt sind, besonders das Gesicht des Pfarrers. Die Bauern tragen eine rostrote Weste und einen blauer bzw. blaugrauen Festtagsrock mit reichem Knopfbesatz. Im weißen Hemdkragen erscheint der um den Hals geschlungene schwarze Bauernflor. Die Witwe trägt ein schwarzes Trauergewand mit grauschwarzem Schulterumhang, um den Hals den obligaten Flor, von der silbernen Florschnalle gehalten Ihr Haar steckt in einem Netz, das zu seiten des Kopfes sicht bar wird. Darüber trägt sie die schwarze Florhaube der verheirateten Frau mit krönender Stirnschleife. Sie blickt zu den Gläubigen hernieder und weist mit der Hand zu Nikolaus hinauf. Die eigentlichen Bittsteller sind die kleinen Mädcher mit den weißen Florhauben der Jungfrauen (Brückner, Barbara, Bäuerliche Aufwendigkeit, aber auch Sparsamkeit in der alten Dachauer Frauentracht, in: Amperland 1969 S. 60 ff.). Das älteste unter ihnen trägt eine weiße, spitzen besetzte Bluse, Schnürleibchen und den Flor mit Florschnalle
-<!-- citation-page-bottom: Band04 p221 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk005.pdf#page=12 -->
-<!-- citation-page-top: Band04 p222 -->
 
-<!-- header: POIGERN -->
 
-<!-- header: PUCE -->
 
 Quellen und Literatur AEM. PfB Egenhofen.
 
@@ -119,5 +107,3 @@ Paula, Georg, Johann Georg Dieffenbrunner, Leben und Werk (= tuduv-Studien, Reih
 Dehio 1990, S. 979.
 
 Paula, Georg, Nachträge zum Leben und Werk des Malers Johann Georg Dieffenbrunner (1718-85), in: Jahrbuch des Vereins für Augsburger Bistumsgeschichte e.V. 25, 1991, S. 249–296, Poigern S. 282 f. B. S.
-
-{{End}}

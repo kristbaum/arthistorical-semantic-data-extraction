@@ -39,12 +39,8 @@ Erhaltungszustand und Restaurierungen: Die Restaurierung des zum großen Teil ze
 == Beschreibung und Ikonographie ==
 
 DIE HLL. MARINUS UND ANIANUS Die Darstellung ist tafelbildmäßig – ohne Untersicht – in das ovale Bildfeld komponiert, das eine Himmelsszenerie zeigt. Auf Wolken knien links der hl. Bischof Marinus, rechts der hl. Diakon Anianus, von Putti mit Palmzweigen begleitet. Marinus ist in Bischofskleidung, Anianus in Diakonstracht. Über den Heiligen thront die Dreifaltigkeit, Christus mit dem Kreuz, Gottvater mit der Weltkugel und die Taube des Hl. Geistes am oberen, westlichen Bildrand. (Keine Abbildung)
-<!-- citation-page-bottom: Band02 p633 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=18 -->
-<!-- citation-page-top: Band02 p634 -->
 
-<!-- header: WILPARTING -->
 
 
 == Quellen und Literatur ==
@@ -93,5 +89,3 @@ Maier, Marinus, Die »Vita SS. Marini et Anniani« in ihrer kürzeren Fassung, i
 Hausberger, Karl, Die heiligen Marinus und Anianus, in Georg Schwaiger, Bavaria Sancta, Bd 3, Regensburg 1973, S. 21–32.
 
 Mass, Josef, Zeugen des Glaubens, München 1974, S. 74–76
-
-{{End}}

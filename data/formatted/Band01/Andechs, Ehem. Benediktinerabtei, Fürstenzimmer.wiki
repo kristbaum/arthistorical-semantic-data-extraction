@@ -42,12 +42,8 @@ A PHÖBUS APOLL Zentrale Untersicht; Betrachterstandort unterhalb der Mitte des 
 
 
 [[File:Band01_chunk007_p005_img002.jpg|thumb|A Phöbus Apoll]]
-<!-- citation-page-bottom: Band01 p309 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=6 -->
-<!-- citation-page-top: Band01 p310 -->
 
-<!-- header: ANDECHS -->
 
 dessen Haupt von dem Strahlenkranz der Sonne umgeben ist, lenkt seinen vierspännigen Wagen über die Himmelswolken. Die Pferdeleiber sind im vorwärts stürmenden Sprung gleich den Sehnen eines Bogens gestreckt. Mit den Pferden entfliehen die düsteren Wolken und geben den klaren Himmel für den Sonnengott frei. Die Gestalt Apolls ist in einer dynamischen Bewegung gezeigt. Apoll ist stark verkürzt wiedergegeben und in seinem Wagen ganz an den Bildrand plaziert. Die Bildkomposition macht auf diese Weise Apoll als den Kommenden, Licht-Bringenden anschaulich.
 
@@ -82,13 +78,3 @@ Ebenfalls ungeklärt sind die historischen Umstände dieses Orts- und Bestimmung
 == Spezialliteratur zu Fürstensaal und -zimmer ==
 
 Leonore Berghoff, Emanuele Tesauro und seine Concetti. Unter besonderer Berücksichtigung von Schloß Nymphenburg, ungedruckte Diss. München 1970/71, S. 52–56. Weitere Literatur siehe S. 316
-<!-- citation-page-bottom: Band01 p311 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=7 -->
-<!-- citation-page-top: Band01 p312 -->
-
-<!-- header: ANDECHS -->
-
-<!-- header: ANDECH -->
-
-{{End}}

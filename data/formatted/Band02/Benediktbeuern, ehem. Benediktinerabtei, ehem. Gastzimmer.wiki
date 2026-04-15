@@ -43,14 +43,9 @@ Erhaltungszustand und Restaurierungen: 1968 wurden die Bilder unter Tapeten frei
 == Beschreibung und Ikonographie ==
 
 A SCHUTZENGEL Rechteckfeld: Ansicht nach S: Aufnahmestandpunkt unter der Bildmitte. Das Bild zeigt in  
-<!-- citation-page-bottom: Band02 p123 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=13 -->
-<!-- citation-page-top: Band02 p124 -->
 
-<!-- header: RENEDIKTREHERN -->
 
-<!-- header: RENEDIKTBEUER -->
 
 
 [[File:Band02_chunk003_p013_img001.jpg|thumb]]
@@ -77,6 +72,3 @@ einem nicht mehr erkennbaren Schauplatz die großfigurige bewegte Gruppe von Sch
 4 Fides — Putto mit Hostienkelch  
 
 Literatur siehe S. 139
-
-
-{{End}}

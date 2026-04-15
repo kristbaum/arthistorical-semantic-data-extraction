@@ -26,12 +26,8 @@ Am Antependium des Altars Holzrelief, die Geburt der Maria darstellend im Aufsat
 '''Autor und Entstehungszeit:''' Das Deckenbild wurde vermutlich anläßlich der Neuausstattung unter Max III. Joseph aus einem anderen Zusammenhang übernommen. Datierung: 17. Jh.?
 
 Verbleib: Kriegsverlust
-<!-- citation-page-bottom: Band03-2 p345 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=24 -->
-<!-- citation-page-top: Band03-2 p346 -->
 
-<!-- header: RESIDENZ -->
 
 
 == ALTES RESIDENZTHEATER ==
@@ -63,6 +59,3 @@ Hojer, Gerhard, Die Münchner Residenzen des Kurfürsten Max Emanuel in: Kat. Ma
 
 
 == ALTES RESIDENZTHEATER ==
-
-
-{{End}}

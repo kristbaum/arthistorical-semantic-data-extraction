@@ -61,14 +61,9 @@ Jesus, in frontal dargestellter Figur, und die ihm zugeordneten Apostel sind kom
 Außere oder Sommersakristei
 
 B–E und B<sub>1-2</sub>–E<sub>1-2</sub> Die in Tempera ausgeführten Bilder an den von der Mittelstütze ausgehenden Gewölbefeldern der Sommersakristei heben sich dunkelfarbig von dem hellen Stuck ab. Technik und Bildanlage lassen darauf schließen, daß Zeiller wohl den Eindruck von Ölbildern
-<!-- citation-page-bottom: Band02 p317 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=10 -->
-<!-- citation-page-top: Band02 p318 -->
 
-<!-- header: ETTAL -->
 
-<!-- header: ETTAI -->
 
 
 [[File:Band02_chunk007_p010_img001.jpg|thumb|Sommersakristei: C Abraham und Isaak]]
@@ -93,14 +88,9 @@ Vor dem tonig verschwimmenden Hintergrund von Grün und Braun heben sich die Bun
 D MANNALESE (Ex 16, 15–17) Gezeigt ist das Wüstenlager der Israeliten in einer weiten, von Bergen umgebenen Ebene. Links sind aus ihrem Zelt unter Bäumen Moses, Aaron und einige Begleiter getreten. Moses weist mit seinem Stab pathetisch auf das Manna, das vor ihm in einem prächtigen Gefäß am Boden steht; Aaron hat die Hand segnend darüber erhoben. Gegenüber auf der rechten Bildseite hat sich das jüdische Volk gelagert und blickt teils mit dankbaren Gesten zum Himmel, teils prüft es das in Körben und Gewandfalten gesammelte Manna. Auf beide Gruppen fällt gleichmäßig Licht. Der mittlere Vordergrund des Bildes ist leer und öffnet sich auf die Ebene im Hintergrund, auf der, kaum erkennbar, Mannasammler dargestellt sind. Hinter dunklen Wolken ist der Himmel in der Ferne gelichtet; Manna fällt in kleinen weißen Flocken herab.
 
 Die Farben sind weniger nuanciert als in den übrigen Bildern; die Gewänder sind im Stofflichen kaum charakterisiert – im Gegensatz etwa zu den Gewändern des Abraham oder des Moses in C und E. Vor dem tonigen braun-grünen Hintergrund erscheinen die Buntfarben: Blau, Rot und Gelb, dazu ein helles Violettrosa. (Abbildung S. 322)
-<!-- citation-page-bottom: Band02 p319 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=11 -->
-<!-- citation-page-top: Band02 p320 -->
 
-<!-- header: ETTAL -->
 
-<!-- header: ETTA -->
 
 
 [[File:Band02_chunk007_p011_img001.jpg|thumb]]
@@ -156,12 +146,8 @@ D<sub>2</sub> KOMMUNION DES JUDAS (Io 13, 26–30 und Mt 26, 23) Jesus in hellem
 
 
 [[File:Band02_chunk007_p011_img009.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p321 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk007.pdf#page=12 -->
-<!-- citation-page-top: Band02 p322 -->
 
-<!-- header: ETTAL -->
 
 
 [[File:Band02_chunk007_p012_img001.jpg|thumb|Sommersakristei: D Mannalese]]
@@ -192,5 +178,3 @@ Innerhalb der eucharistischen Ikonologie ist auffallend das Bildzitat der Kommun
 Koch, Laurentius, OSB, Die Sakristei der Klosterkirche Ettal, in: Jahrbuch des Vereins für Christliche Kunst Bd 10. München 1978, S. 71–82.
 
 Literatur siehe S 320
-
-{{End}}

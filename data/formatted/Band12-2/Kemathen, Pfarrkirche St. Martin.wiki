@@ -13,9 +13,7 @@
 |AutorIn2=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p308 -->
 
-<!-- header: KEMATHEN -->
 
 
 == KEMATHEN ==
@@ -80,7 +78,3 @@ Kupferschmied, Thomas Johannes, Der Freskant J. Martin Heigl. Arbeiten für Joha
 Dehio 1990, S. 521f.
 
 A. B./K.
-<!-- citation-page-bottom: Band12 p309 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=6 -->
-{{End}}

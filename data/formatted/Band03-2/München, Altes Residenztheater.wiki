@@ -135,7 +135,3 @@ Brunner, Herbert, Das Alte Residenztheater, in: Bayerland, Sonderausgabe Residen
 Brunner, Herbert, Altes Residenztheater in München, München 1979.
 
 Braunfels 1986, S. 129–36.
-<!-- citation-page-bottom: Band03-2 p347 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=25 -->
-{{End}}

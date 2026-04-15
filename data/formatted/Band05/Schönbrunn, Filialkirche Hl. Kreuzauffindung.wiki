@@ -49,12 +49,8 @@ B Höhe 11,00 m; 2,10 × 4,3
 Erhaltungszustand und Restaurierungen: 1837 Ausbessern und Weißen des Innenraums. »Dem Maller für Reparierung des Blavon 11 f. « (StAM, LRA 34620). Baureparatur 1845: »... am Gewölbe, wo die Schlaudern hervorkommen« wurde der Verputz erneuert (ebd., 34459).
 
 Bei einem Brand 1898 wurde der Dachstuhl beschädigt; das in der Folgezeit eindringende Wasser verursachte erhebliche Schäden, vor allem in der SW-Ecke des Deckenbildes A Restaurierung 1907 (Inschrift am Chorbogen) mit Ausbesserung der Wasserschäden und vielen, teilweise entstellender Ubermalungen im Hauptbild A. Risse, Verschmutzungen Das AR-Fresko B ist gut erhalten.
-<!-- citation-page-bottom: Band05 p231 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=17 -->
-<!-- citation-page-top: Band05 p232 -->
 
-<!-- header: SCHONBRUNN -->
 
 [[File:Band05_chunk005_p017_img001.jpg|thumb]]
 
@@ -75,14 +71,9 @@ Die Wolkenlandschaft selbst zeigt hinter dem ersten Wolkenring in sehr hellen bi
 Wichtigster Darstellungsgegenstand ist das Kreuz in der Hauptansicht des Deckenbildes, sowohl Bestandteil der Arma Christi als auch Hinweis auf das Patrozinium der Kirche. Es schließen sich, im Uhrzeigersinn gelesen, folgende Arma Christi an: Lanze und Schwamm auf der Stange sowie die Geißelsäule, von zwei großen Engeln gehalten. Ein Engel über dem östlichen Querarm weist Nägel und den Kreuztitulus INRI vor, einer über dem südlichen Kreuzarm die Dornenkrone. Über der Engelsgruppe im W hält ein Putto das Schweißtuch. Es folgt ein Engel mit dem Kelch des Leidens.  
 
 [[File:Band05_chunk005_p017_img002.jpg|thumb|Verehrung des Kreuzes – Arma Christi]]  
-<!-- citation-page-bottom: Band05 p233 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=18 -->
-<!-- citation-page-top: Band05 p234 -->
 
-<!-- header: SCHONBRUNN -->
 
-<!-- header: SIGMERTSHAUSEN -->
 
 
 [[File:Band05_chunk005_p018_img001.jpg|thumb|B Putten verehren das Dreifaltigkeitssymbol]]
@@ -125,5 +116,3 @@ Bachter, Falk, Balthasar Augustin Albrecht 1687–1765. Ein bayerischer Hofmaler
 Dehio 1990, S. 1085 f.
 
 Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Landes Bd 7, hg. im Auftrag des Museumsvereins Dachau e.V.), Dachau 1991, S. 197-99. A.B.
-
-{{End}}

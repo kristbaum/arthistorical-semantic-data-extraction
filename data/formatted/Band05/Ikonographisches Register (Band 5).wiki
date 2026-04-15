@@ -348,12 +348,8 @@ geflügelter D. im Höllenschlund 198
 Laster 30  
 Teufel 264 f.  
 
-<!-- citation-page-bottom: Band05 p311 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=7 -->
-<!-- citation-page-top: Band05 p312 -->
 
-<!-- header: IKONOGRAPHISCHES REGISTE -->
 
 
 == IKONOGRAPHISCHES REGISTE ==
@@ -494,12 +490,8 @@ des Bischofs 94, 110, 130, 132-34, 206, 208, 265, 268, 298, 303 der Herrschaft 1
 der Pilger 130 Pontifikalien 132-34 Intonoccio
 
 1111111111111111111111111111111
-<!-- citation-page-bottom: Band05 p313 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=8 -->
-<!-- citation-page-top: Band05 p314 -->
 
-<!-- header: IKONOGRAPHISCHES REGISTER -->
 
 IKONOGRAPHISCHES REGISTER Kreuz Christi → Ecclesia 110 → Fides 49, 56, 97, 198, 242 → Franziskus von Assisi 84 → Hieronymus 268 → Maria Magdalena 218 Kreuzesvisionen des Kaisers Konstantin 156 Kreuzeswunder Blindenheilung durch Valentin 190f. Feuerlöschen durch Ivo Helory 190f. Totenerweckung durch Korbinian 190f. Totenerweckung durch Ulrich 190f. Kreuztitulus INRI → Arma Christi 56, 232 Kreuzlegende 156f. Kreuzpartikel 232 Kreuzstab → Philippus 218, 281, 294 dreifach → Papst 28, 87, 104, 268 mit Inschrift Agnus Dei → Johannes der Täufer 30, 84, 200 Krokodil → America 90 Krone der Himmelskönigin 217 f. und Zepter als Insignien Christi 70, 72 als Märtyrersymbol 54 als Zeichen weltlicher Macht 87, 110 über dem Wappen der Ruffini 242 → Agnes 32 → Birgitta von Schweden 42 f., 48 → König David 36 → Katharina von Alexandrien 288 → Katharina Tatara 49 Katharina von Schweden 43 → Ursula 32 Kronenthematik 36, 43 Kugel, Kugeln → Tugenden des hl. Kastulus 220 drei goldene → Nikolaus 143 Laban 217, 234 Lamm Apokalyptisches 53 Eucharistisches 113 Gottes in der Vision der hl. Birgitta 34 → Agnes 32, 48 → Innocentia 265 Längen, heilige 234 Lanze → Arma Christi 56, 232 → Erzengel Michael 161 → Georg 218 → Thomas 218, 234 Laster 184 Sturz durch Erzengel Michael 30, 43 Sturz durch Apoll 196 Laurentius, hl. 218, 267 Zyklus 224-29, 246-52 als Patron gegen Feuersbrunst 229 f. als Patron gegen Unwetter 229 f. Almosenspende 226 f. Blindenheilung 227 Krankenheilung 227, 246, 248 Speisung der Christen 226 f. Gefangennahme des Papstes Sixtus 246 Verteilung der Kirchenschätze 227, 248 Martyrium 224-27, 246, 248 Glorie 229, 249-51 Lauretanische Litanei, Anrufungen 214-19 Speculum iustitiae 219
 
@@ -516,10 +508,7 @@ atoria → Liturgisches Gerät 134 Priester zweig bei der Wandlung 34, 38 f., 16
 288 Rationale → Liturgische Gewänder 134 Ratschluß der Erlösung 72 Refugium peccatorum → Lauretanische Anrufungen 240 Reichenau 207, 209 Reinpertus → Kastulus 221 f., 223 Reliefplatte → Skulptur 144 Ricco, Vertrauter Totilas → Benedikt 187 Ring als Zeichen der Vermählung von Maria und Joseph 182 Ritterorden 112 Rocaillekartusche → Stukkatur 144 Rodungsmesser → Alto 32, 41 Rom 156 Romanus → Benedikt 184 Rosa mystica → Lauretanische Anrufungen 219 Rosenkranz 135 als Hilfe in der Sterbestunde 161 Rosenkranzbruderschaft 46, 135 Rosenkranzspende 135 f. Rost → Laurentius 218, 226, 250, 267 Roswinda → Ottilia von Hohenburg 260 Rotte Korah, Bestrafung 175 f. Rundtempel → Ecclesia 28, 43, 49, 87, 97, 110 Rüstung → Kastulus 216, 218 f., 222 Rutenbündel 56 Säge → Simon 218 281 204
 
 Säge → Simon 218, 281, 294 Salbengefäß → Kastulus 222 Salome, Mutter Jakobus d. Ä. 276, 278 Salomo 56, 234 Salus infirmorum → Lauretanische Anrufunger 166, 240 Samariterin 149 f. Sandizell, Eva von 28, 46 Sandizell, Wolfang von 28, 46
-<!-- citation-page-bottom: Band05 p315 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=9 -->
-<!-- citation-page-top: Band05 p316 -->
 
 {| class="wikitable"
 |-
@@ -884,6 +873,3 @@ Speculum iustitiae → Lauretanische Anrufun-
 |-
 | Zwölf Apostel 46, 281
 |}
-<!-- citation-page-bottom: Band05 p317 -->
-
-{{End}}

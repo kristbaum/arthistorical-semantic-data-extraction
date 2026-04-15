@@ -53,10 +53,7 @@ Quelle wird zum Fluß 132
 Rakete 323 f. Raubvogel bedroht Henne mit Küken 64, 116, 118, 127 Rebe, aufgebunden 123 Rebstock mit Trauben 66 Rosenkranz und Lorbeerkranz 234 Rosenstrauch 222
 
 Salbtöpfe 28 Säule im wildbewegten Meer 132 Schafherde, von Wolf angegriffen 193 Schäferstab 64 Schiff im Meer 28, 218, 326 Schiff mit Anker 124f. Schiff mit Halbmond 28 Schiff mit Kreuz 28 Schiff mit Leuchtturm 274 Schiff, dessen Mast ein Pilgerstab 125 Schiff, vom Polarstern gelenkt 125, 152 Schild schützt vor Pfeilen 64, 193 Schilde wehren Ungewitter ab 37 Schild mit Kreuz über einer Stadt 76 Schirm 76 Schlange 28 Schlangen am Fuß des Ecclesia-Felsens 49 Schlüssel über Landschaft 37 Schlüssel, gold und silbern 308 Schwert mit Lorbeer umwunden 124 f. Schwert mit Ohr des Malchus 306f. Sichel im Kornfeld 28, 214 Sonne, aufgehend 205, 222 Sonne über der Erde 324, 326 Sonne über Weltkugel 115, 242, 244 Sonne bescheint Blumen 192
-<!-- citation-page-bottom: Band07 p343 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=23 -->
-<!-- citation-page-top: Band07 p344 -->
 
 == EMBLEME-REGISTER ==
 
@@ -112,6 +109,3 @@ Tegit et protegit 234 Terrae commercia nescit Terrena sordent 77, 242 Tibi soli 
 Una salutis 310 Unica spes 307 Unum aspicit astram 124 
 
 Victorum Genus optimum 37 Vincta feracior 123 Vis ipsa torturae fidem facit animosam 70 Voce excudit umbras 244
-<!-- citation-page-bottom: Band07 p345 -->
-
-{{End}}

@@ -12,7 +12,6 @@
 |AutorIn1=Baur, Eva-Gesine
 }}
 
-<!-- citation-page-top: Band03-2 p484 -->
 
 Stallungen im nördlichen Pavillon von Schloß Lustheim, z.Z. nicht genutzt
 
@@ -79,13 +78,8 @@ Sinnzusammenhang mit den seitlichen Deckenbildern (B und C; Aurora und Luna) ist
 B AURORA – DER MORGEN Blickrichtung gegen S; rechts neben der Darstellung Apolls, im Blickwinkel um 90° gedreht. In hellblauem Himmelsfeld mit wenigen zartgrauen Wölkchen im Randbereich schwebt Aurora als halbnackte geflügelte Gestalt. Um Schulter und Hüfte trägt sie eine Draperie in Rosa und Gelb, in ihrer Rechten hält sie Blüten empor, in der Linken ihr Attribut, die Fackel, mit der sie das Licht des Tages entzündet. Sie wird von Putti umgaukelt: Einer schiebt die Wolken zur Seite, ein zweiter entgießt den Morgentau, ein dritter streut Blumen, der vierte hält eine blumengefüllte Schale auf seinem Kopf. Aurora steht hier als Allegorie des Morgens.
 
 C DIANA-LUNA – DER ABEND Blickrichtung gegen N; links neben dem Mittelbild, analog zu B, in Gegenrichtung zu diesem Blickwinkel um 90° gegen das Mittelbild gedreht. Das Bildfeld ist diagonal geteilt in eine hellblaue Himmelszone und eine graue Wolkenpartie, inmitten derer Luna thront, nur von einem transparenten Hüftschleier verhüllt, einen Speer in der Hand, die Mondsichel im umflochtenen goldenen Haar. Ein Putto zu ihren Häupten bemüht sich, die Wolken wie einen Vorhang über dem blauen Himmelsfeld zuzuziehen, ein anderer schwebt, Pfeile in der einen, eine Fledermaus auf der anderen Hand. Das Gesamtkolorit ist extrem kühl gehalten; mit der Bedeu-
-<!-- citation-page-bottom: Band03-2 p485 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=19 -->
-<!-- citation-page-top: Band03-2 p486 -->
 
-<!-- header: SCHLEISSHEIM, SCHLOSS LUSTHEIM -->
-<!-- header: SOG SCHONER STALL -->
 
 [[File:Band03-2_chunk010_p019_img001.jpg|thumb]]
 [[File:Band03-2_chunk010_p019_img002.jpg|thumb]]
@@ -119,7 +113,3 @@ Heym, Sabine, Schloß Lustheim. Jagd- und Festbau des Kurfürsten Maximilian II.
 s. auch Quellen und Literatur S. 557 f.
 
 G B
-<!-- citation-page-bottom: Band03-2 p487 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk010.pdf#page=20 -->
-{{End}}

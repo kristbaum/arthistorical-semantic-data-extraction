@@ -10,10 +10,7 @@
 |AutorIn1=Büttner, Frank
 |AutorIn2=Rupprecht, Bernhard
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk001.pdf#page=4 -->
-<!-- citation-page-top: Band10 p6 -->
 
-<!-- header: VORWORT -->
 
 Der heutige Landkreis Neuburg-Schrobenhausen entstand bei der bayerischen Gebietsreform von 1972 durch Zusammenlegung von zwei bis dahin eigenständigen Landkreisen. Er umfaßt im Wesentlichen das an der Donau gelegene Kernland des 1505 gegründeten reichsunmittelbaren Fürstentums Pfalz-Neuburg mit den Gerichten Neuburg und Graisbach/Monheim sowie die Märkte Burgheim und Rennertshofen, die selbständige Pflegämter waren. Dazu kommen im Süden vor allem die kurbayerischen Gerichte Rain und Schrobenhausen. Kirchlich gehört das Gebiet zum Bistum Augsburg, mit Ausnahme der Pfarreien Ammerfeld, Bergheim und der Wallfahrtskirche Bergen, die der Diözese Eichstätt unterstehen.
 
@@ -44,5 +41,3 @@ Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir da
 Dem Hirmer Verlag und auch Herrn Albert Hirmer selbst sind wir zu großem Dank für die verlegerische Betreuung verpflichtet. Frau Katja Durchholz betrieb mit fachlichem Können, künstlerischem Geschick und großem persönlichen Einsatz die Herstellung des Bandes.
 
 Frank Büttner und Bernhard Rupprecht
-<!-- citation-page-bottom: Band10 p7 -->
-{{End}}

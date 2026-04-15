@@ -27,10 +27,7 @@ Egling 19, 187, 236, 255, 330, 424, 426 Eichstätt 203, 234, 256, 406 Einöd 165
 Farchant 371 Feldheim 422 Feldkirchen 517 Fernpaß 277 Fischbachau 181, 454 ff., 459, 460, 463, 465, <i>470–96</i>, 511, 535, 598 Frauenried 19, 214, 462, 497–502 Freising 166, 249, 261, 335, 483, 497, 578, 589, 598 Freising → München und Freising, Erzdiözese → Werdenfels, Fürstbischöflich- Freisingische Grafschaft Friedberg 503, 523, 529, 549 Froschhausen 138, 191, 331–34, 402
 
 Gaispoint bei Wessobrunn 148, 555, 613 Gaissach 26 f., 176–80, 201 Garmisch 33, 296, 335, 348, 358 Garmisch, Alte Pfarrkirche 343
-<!-- citation-page-bottom: Band02 p635 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=19 -->
-<!-- citation-page-top: Band02 p636 -->
 
 Garmisch, Pfarrkirche 335-47, 348, 350, 355, 359, 370, 371, 376, 394, 405 f., 433, 441  
 Gars 622  
@@ -279,5 +276,3 @@ Würzburg 104, 245
 Wurmannsau 348, 350, 444  
 
 Zell 455  
-<!-- citation-page-bottom: Band02 p637 -->
-{{End}}

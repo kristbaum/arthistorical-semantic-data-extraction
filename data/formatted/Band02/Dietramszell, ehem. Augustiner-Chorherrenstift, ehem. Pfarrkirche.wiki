@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p158 -->
 
 [[File:Band02_chunk004_p005_img001.jpg|thumb]]
 
@@ -53,12 +52,8 @@ Erhaltungszustand und Restaurierungen: Bei der letzten Kirchenrestaurierung 1966
 Das Dekorationssystem von St. Martin ist insofern bemerkenswert, als die Anbringung der Bildfelder nicht der Jocheinteilung entspricht; sie liegen jeweils um einen halben Takt verschoben zwischen den Jochmitten; in konsequenter Verfolgung dieses Systems bleiben halbierte Bildfelder im ersten und letzten LHs-Joch übrig, jeweils mit den entsprechenden halbierten Kartuschen (A, D, 1–4). Die Gurtteilung entfällt. Bedingt wird diese Anordnung, die außer in Dietramszell noch in Maria Mödingen (Schw, Fresken von J. B. Zimmermann 1719–22, Stuck von Dominikus Zimmermann) auftritt, wohl beidemale durch die tiefeinschneidenden Stichkappen, die in der Jochmitte kein großes Bildfeld erlauben.
 
 Bei den Fresken handelt es sich um einansichtige Darstellungen; A hat seine Basis im S, bei allen anderen liegt der Aufnahmestandpunkt unter dem südlichen Bildrand.
-<!-- citation-page-bottom: Band02 p159 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=6 -->
-<!-- citation-page-top: Band02 p160 -->
 
-<!-- header: DIETRAMSZELL -->
 
 == A ENGELSKONZERT ==
 Auf Wolken sind Engel mit ihren Instrumenten dargestellt. Das Bild ist von der Orgel fast völlig verdeckt (keine Abbildung).
@@ -84,12 +79,8 @@ In den vier halbierten Medaillons der Ecken des LHs-Gewölbes wird auf einem Sch
 
 == 1 PRVDENTIA. – PERDIT, UT / SERVET ==
 Das Bild zeigt eine Schlange, die aus der Spalte eines Felsens herausschlüpft. In der Spalte bleibt ihre Haut zurück. –
-<!-- citation-page-bottom: Band02 p161 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=7 -->
-<!-- citation-page-top: Band02 p162 -->
 
-<!-- header: DIETRAMSZELL -->
 
 
 [[File:Band02_chunk004_p007_img001.jpg|thumb|A. Inetiti]]
@@ -135,7 +126,6 @@ springen drei Hunde zu. Auch hier wurde Veranis Emblembuch als Vorlage verwendet
 
 
 [[File:Band02_chunk004_p007_img010.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p163 -->
 
 
 == 3 Temperantia ==
@@ -173,10 +163,7 @@ e TVO DE LVMINE SPLENDEO - Von Deinem Glantz Erleicht bin gantz. Das Bild zeigt 
 
 f ESVRIENTIBVS ESCAM. – Das Hegst Gebott / Hilf in der Noth. Das Bild stellt ein Nest auf einem Baum dar. Vier junge Vögel sitzen darin und recken sich dem herbeifliegenden Vogel entgegen, der einen Wurm im Schnabel trägt. Der Text des lateinischen Lemmas stammt aus Ps 145, 7, der die Hilfe rühmt, die den Menschen durch Gott zuteil wird. Eine Deutung dieses Emblems ist durch keine Quelle belegt. Sinngemäß ließe sich ein Bezug auf Pfingsten herstellen, indem man als tertium comparationis das Warten auf die Gaben nennt, die von oben kommen. Damit stimmen die Lemmata nicht überein. Sie führen vom Thema des Mittelbildes weg, um eine allgemein christliche Aufgabe, nämlich den Notleidenden zu helfen, zu verkünden.
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band02 p164 -->
 
-<!-- header: DIETRAMSZELL -->
 
 
 == EINÖD ==
@@ -223,5 +210,3 @@ Reclams Kunstführer, Bayern, Stuttgart 1970, S. 228–30. Huber, Erhard, Dietra
 Thon, Christina, Johann Baptist Zimmermann als Stukkator, München 1977, S. 165, 204, 337.
 
 Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981. Reclams Kunstführer, Bayern, Stuttgart 1970, S. 228–30.
-
-{{End}}

@@ -25,10 +25,7 @@ Pfarrkirche, Gemeinde Forstinning, Erzdiözese München und Freising; z. Z. der 
 Johann Martin Heigl, der Schüler und Mitarbeiter Johann Baptist Zimmermanns bis zu dessen Tod 1758, arbeitete zunächst weiter in der Art Zimmermanns, veränderte seinen Stil jedoch im Lauf seiner selbständigen Schaffensjahre 1758-74 und entwickelte innerhalb des Übernommenen eine eigene, persönliche Handschrift. Der Zimmermannschen Formgebung entstammen die idyllischen, zum Teil durch architektonische Versatzstücke bereicherten Landschaftsbühnen, die Figurentypen, die Bewegungsführung ihrer kurvig ausgreifenden Gliedmaßen und ihrer knittrigen, kantigen, furchenreichen Gewanddraperien, die fast bildhauerische Art der Faltenmodellierung, die Kennzeichnung beleuchteter Gewandpartien durch starke Auflichtung der jeweiligen Farbe. Heigls eigene Handschrift zeigt sich besonders darin, daß er die Zimmermannschen Figurentypen sehr stark in die Länge zieht, daß er die Faltenkonturen etwas weicher gestaltet, die Faltenstege durch Weißhöhungen entschärft und im Lauf der Zeit eine Farbgebung entwickelt, die im Vergleich zu Zimmermann mit einer Skala stärker gebrochener, kühlerer, passiverer Farbtöne arbeitet. Rot tritt fast nur in Farbschattierungen zwischen lichtem Rosa über Purpurrot bis zu grautonigem Rosa und Rosaviolett in Erscheinung. Besonders facettenreich ist auch die Grünskala, die in den Landschaftsbereichen von zartem Hellgrün über gelbgrüne Töne bis zu Schilfgrün reicht und bei den Gewändern vielfache Abstufungen von Türkis miteinbegreift (s. auch Kupferschmied, S. 124–30).
 
 [[File:Band11_chunk007_p019_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band11 p337 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk007.pdf#page=20 -->
-<!-- citation-page-top: Band11 p338 -->
 
 [[File:Band11_chunk007_p020_img001.jpg|thumb|Der Kirchenraum]]
 
@@ -61,10 +58,7 @@ Papst Silvester kniet auf einer Wolkenbank und ist sowohl mit der schräg über 
 
 Daß Papst Silvester als Pest- und Viehpatron angerufen wurde, geht auf eine legendäre Begebenheit seiner Vita zurück. Sein Pontifikat (314–35) fiel in die Regierungszeit Kaiser Konstantins, den er zum Christentum bekehrte. Nach der Legende wollte Kaiser Konstantin sich vom Aussatz durch ein Bad im Blut von Kindern befreien. Papst Silvester hielt ihn davon ab. 
 
-<!-- citation-page-bottom: Band11 p339 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk007.pdf#page=21 -->
-<!-- citation-page-top: Band11 p340 -->
 
 LANDKREIS EBERSBERG · FORSTINNING
 
@@ -74,12 +68,8 @@ LANDKREIS EBERSBERG · FORSTINNING
 
 
 [[File:Band11_chunk007_p021_img002.jpg|thumb|Chorgewölbe: B Heimsuchung Mariens, in den Stichkappen Symbole]]
-<!-- citation-page-bottom: Band11 p341 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk007.pdf#page=22 -->
-<!-- citation-page-top: Band11 p342 -->
 
-<!-- header: LANDKREIS EBERSBERG · FORSTINNING -->
 
 FRAUENREUTH
 
@@ -124,5 +114,3 @@ Schluter, Helmut, Die Kunstdenkmäler, in: Der Landkrei Ebersberg. Raum und Gesc
 Heigl. Arbeiten für Johann Baptist Zimmermann und selbständige Werke (= Schriften des Instituts für Kunstgeschichte der Universität München Bd 41), München 1989 (erwähnt Forstinning nicht).
 
 Historischer Atlas I, Bd 48, Gericht Schwaben (Gottfried Mayr), München 1989, S. 57, 304f., 309f., 373.
-
-{{End}}

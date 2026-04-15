@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p446 -->
 
-<!-- header: PÄHL -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung Präsentationsrecht beim Augsburger Domkapitel, Gericht Weilheim
 
@@ -76,10 +74,7 @@ Am oberen Bildrand formen sich Wolken zu einer lichten Glorie, in der die Geist-
 Der Schauplatz, Architekturen und Wolken, ist in hellen, farbig nuancierten Grau- und Ockertönen gehalten. Die Buntflächen sind ziemlich kleinteilig infolge der Vielfigurigkeit des Bildes. Es treten im wesentlichen Karmin in allen möglichen Nuancen, gebrochene Braunrottöne, wenig Blau, Gelb und Grün auf.
 
 B<sub>1</sub> DANIEL IN DER LÖWENGRUBE (Dan 6, 16–23) In einem runden Verlies, in das zwei Bogengänge münden, sitzt Daniel zwischen vier Löwen; der eine wird soeben durch einen Engel gebändigt. Durch eine Öffnung zur Erdoberfläche blickt mit einer Gebärde der freudigen Überraschung, Daniel lebend zu finden, König Darius herein
-<!-- citation-page-bottom: Band01 p447 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=25 -->
-<!-- citation-page-top: Band01 p448 -->
 
 [[File:Band01_chunk009_p025_img001.jpg|thumb|C Glorie des hl. Laurentius]]
 
@@ -120,7 +115,3 @@ Fuchs, Adolf, Johann Baptist Baader, der Lechhansl, Kaufbeuren 1959, S. 35.
 Mauthe Willi, Der Pfaffenwinkel, Weilheim 1964, S. 41.
 
 Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Katalog des Gesamtwerkes, ungedruckte Diss. München 1972, S. 166 ff.
-<!-- citation-page-bottom: Band01 p449 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=1 -->
-{{End}}

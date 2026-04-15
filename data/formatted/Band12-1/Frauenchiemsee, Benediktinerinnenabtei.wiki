@@ -13,9 +13,7 @@
 |AutorIn2=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p154 -->
 
-<!-- header: FRAUENCHIEMSEE -->
 
 
 == FRAUENCHIEMSEE ==
@@ -83,12 +81,8 @@ Erhaltungszustand und Restaurierungen: Letzte Restaurierung des Münsters 1976, 
 
 
 [[File:Band12-1_chunk004_p003_img004.jpg|thumb|W. Ambrosius und W. Gregorius, zwei von vier Kirchenvätern in den Schildwänden (Balthasar Furtner um 1750). W. Immaculata, Wandbild auf der Südseite]]
-<!-- citation-page-bottom: Band12 p155 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=4 -->
-<!-- citation-page-top: Band12 p156 -->
 
-<!-- header: FRAUENCHIEMSE: -->
 
 
 == FRAUENCHIEMSEE ==
@@ -113,5 +107,3 @@ W. S: AMBROSI/VS. Ambrosius steht in Bischofstracht in einer grün drapierten Bi
 W. S: GREGORI/VS. Papst Gregor der Große sitzt an einer Gartenmauer, bei der rechts eine große rote Draperie angebracht ist. Er hält ein Buch, an seinem Ohr ist die Taube der göttlichen Inspiration.
 
 W. S: HIERONI/MVS. Man sieht im obersten Bildteil (der Rest ist von Grabplatten verdeckt) einen Gartenausblick, an einem Pfeiler hängt der rote Kardinalshut (keine Abb.).
-
-{{End}}

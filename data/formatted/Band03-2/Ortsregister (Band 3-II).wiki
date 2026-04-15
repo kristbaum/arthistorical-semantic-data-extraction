@@ -9,7 +9,6 @@
 |danach=Personenregister (Band 3-II)
 }}
 
-<!-- header: REGISTER -->
 
 
 == Ortsregister ==
@@ -169,12 +168,8 @@ Burg Trausnitz 51, 63, 118, 277
 Kloster Seligenthal 362  
 Leipzig, Museum der bildenden Künste 73  
 
-<!-- citation-page-bottom: Band03-2 p583 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=18 -->
-<!-- citation-page-top: Band03-2 p584 -->
 
-<!-- header: ORTSREGISTE -->
 
 
 == ORTSREGISTER ==
@@ -224,12 +219,8 @@ Schleißheim, Schloßanlage 48, 335, 348, 427-558 Barockgalerie 253 Einsiedeleie
 Schleißheim, Altes Schloß 211, 292, 428, <i>429-48</i>, 449, 482, 488, 566 Nordtrakt 430 Saal und Wohnräume im Ostflügel 430-47 Wilhelmsbau 429 Wilhelmskapelle 429, 448 Wilhelmsklause 448
 
 Schleißheim, Neues Schloß 33, 410 f., 427 f., 432, 488-58 Antecamera nördlich, sog. Billardzimmer 499-502 Antecamera südlich 493, 496-98, 553 Appartements, Kurfürstliche 525-48 Appartement des Kurfürsten 519, 525-38, 540, 548 Appartement der Kurfürstin 515, 519, 525, 538-48 Billardzimmer → Antecamera nördlich Braunes Kabinett → Niederländisches Malerei-Kabinett Große oder Schöne Galerie 510, 519-24, 526 538 Großer Saal → Weißer Saal Holländisches Kabinett → Niederländisches Malerei-Kabinett Jagdkabinett 492, 525, 534-36
-<!-- citation-page-bottom: Band03-2 p585 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=19 -->
-<!-- citation-page-top: Band03-2 p586 -->
 
-<!-- header: ORTSREGISTER -->
 
 Salle des Colonnes 488-93, 507, 553 Speisesaal 499, 502-06, 515 Treppenhaus 492, 506-10, 519, 553 f. Viktoriensaal 506, 510, 515-18, 519, 527, 553, 556 Weißer Saal 412, 476, 510-14, 516, 517, 519, 527, 553-56 Schleißheim, Schloß Lustheim 291, 311, 354, 356, 359, 427, 428, 449-87, 488, 527 Belvedere 454 Renatuskapelle 449 f., 482-83, 484 Renatusklause vor 1685 449 Runde Galerie 451, 454 Saal 276, 278, 360 Saal und Appartements 449-81 Schöner Stall 449, 484-87 Schlehdorf 168 Schönberg 103, 106 Schönbrunn bei Dachau 335 Schwaben, Schloß 292 Schwarzach, Schloß bei Bozen 261 Schongau 72, 96 f. Schrobenhausen 73, 103, 105 Schweinfurt 253 Schwindegg 99 Siena, Palazzo Publico 113 Siklos 556 Sogdia 288 Stadt am Hof 72, 102, 104 Starnberg 106, 112, 560 Bucentaur 560-63 Heimatmuseum 560-63 Schloß 292, 560 f. Starnberger See 560-62 Steinhausen 362 Stockholm, Sammlung E. Perman 55 Straubing 72, 99, 198-201, 203, 208 f. Rentamt 261 Stuttgart, Lusthaus 113 Staatsgalerie, Graphische Sammlung 122, 278, 279 - Stiftung Schloß Fachsenfeld #1
 
@@ -244,5 +235,3 @@ Palazzo Barbaro Curtis 221 Scuola di San Fantin 382 Scuola Grande di San Rocco 1
 Wartenberg 100, 102 Wasserburg am Inn 71 f., 98 Weilheim 73, 103 f., 168 Stadtmuseum 279 Wemding 73, 106, 110, 362 Wien 87, 301, 397, 555 Graphische Sammlung Albertina 52 f. Stallburg 342 Wies 335 Wiesensteig 261 Wildshut 96, 98 Winzer 261 Wolfenbüttel, Herzog August-Bibliothek 54, 74, 118 Wolfratshausen 102, 104 Wolnzach 97 Würzburg 180, 455, 492 Martin von Wagner-Museum 51 Universitätsbibliothek, Handschriftenabteilung 52
 
 Zweibrücken 348 Zypern 228, 260
-
-{{End}}

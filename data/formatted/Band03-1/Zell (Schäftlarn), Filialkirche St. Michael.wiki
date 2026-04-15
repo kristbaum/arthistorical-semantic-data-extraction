@@ -12,11 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p180 -->
 
-<!-- header: ZELI -->
 
-<!-- header: ZELL -->
 
 Filialkirche, Gemeinde Schäftlarn, Pfarrei Schäftlarn-St. Benedikt Ebenhausen, Erzdiözese München und Freising; z. Z. der Ausmalung Klosterhofmark Schäftlarn
 
@@ -90,19 +87,13 @@ Mayer-Westermayer, Bd 3, S. 650 f., 656.
 Abstreiter, Leo, Geschichte der Abtei Schäftlarn, Schäftlarn 1916, S. 108f.
 
 Kirche in Zell wird restauriert (o. V.), in: Isar-Loisach-Bote 84, 23. Juli 1952, Nr. 176, S. 1.
-<!-- citation-page-bottom: Band03-1 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band03-1 p182 -->
 
 == ANHANG VERLORENE DECKENMALEREIEN ==
 
 
 1. Durch Photos dokumentierte, meist im Zweiten Weltkrieg zerstörte Deckenbilder
-<!-- citation-page-bottom: Band03-1 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band03-1 p184 -->
 
 
 == INNENSTADT ==
@@ -110,6 +101,3 @@ Kirche in Zell wird restauriert (o. V.), in: Isar-Loisach-Bote 84, 23. Juli 1952
 
 
 == ST ANNA DAMENSTIFT ==
-
-
-{{End}}

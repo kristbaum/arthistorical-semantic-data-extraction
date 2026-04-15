@@ -92,10 +92,7 @@ Miesbach 176
 Mintraching 40, 276  
 Mittermarbach 261  
 Moosach 184  
-<!-- citation-page-bottom: Band06 p305 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk007.pdf#page=4 -->
-<!-- citation-page-top: Band06 p306 -->
 
 
 == ORTSREGISTER ==
@@ -204,6 +201,3 @@ Venedig, San Marco 155 Versailles 162 Villingen 230
 Walchensee 272 Walterskirchen 30 Wartenberg/Lkr. Erding 20, 280 Weihenstephan → Freising Weilheim 292 Weingarten 61, 118, 189 Weißenburg 216 Weißenhorn/Schw. 298 Weltenburg 189 Weng 216 Westerndorf bei Rosenheim 28 Weyarn 214 Wien 31, 45, 229 Wies bei Freising → Freising, Wies Wies bei Steingaden 200, 207 Wippenhausen 291
 
 Zolling 200, 202 f., 231 f., 234, 238 f.
-
-
-{{End}}

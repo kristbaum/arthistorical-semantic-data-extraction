@@ -52,14 +52,9 @@ Erhaltungszustand: Von einigen Haarrissen abgesehen sehr gut
 HISTORISCHE SZENE Das Freskofeld ist annähernd ein Quadrat mit abgeschrägten Ecken und nach innen geschwungenen Seiten. Einansichtige Szene. Der Betrachterstandort liegt unterhalb des westlichen Bildrandes. Das Fresko gehört zu den schönsten Zimmermanns. Eine Komposition, die durch ihre klare Raumschichtung und die lebendige, dynamische Anordnung der Figuren beeindruckt. Im Vordergrund kniet eine Gruppe von Personen, die durch ihre Kleidung und Haltung als Zeitgenossen des Malers identifiziert werden können. Hinter ihnen erstreckt sich ein Landschaftsbild mit einer idealisierten Darstellung des Klosters Andechs, flankiert von symbolischen Figuren, die die vier Evangelisten darstellen. Die Farbigkeit ist hell und kräftig, wobei die Farbkontraste sorgfältig abgestimmt sind, um die räumliche Tiefe zu unterstreichen. Die Details der Architektur und der Landschaft sind präzise, wodurch der Eindruck einer lebendigen, realistischen Umgebung entsteht.
 
 [[File:Band01_chunk007_p001_img001.jpg|thumb|Historische Szene]]
-<!-- citation-page-bottom: Band01 p301 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=2 -->
-<!-- citation-page-top: Band01 p302 -->
 
-<!-- header: ANDECHS -->
 
-<!-- header: ANDECH -->
 
 ponente seiner Deckenmalerei, nämlich das idyllische Landschaftsszenarium, hat sich hier verselbständigt.
 
@@ -84,5 +79,3 @@ Nicht nur das Deckenbild der Kapelle weist als Jagdszene auf die zeitgenössisch
 Bushart, Bruno, Ein Skizzenbild J. B. Zimmermanns für Andechs, in: Pantheon 26, 1968, S. 393.
 
 Deutsche Barockgalerie (Städtische Kunstsammlungen Augsburg – Bayerische Staatsgemäldesammlungen), Bd. 2. Bearbeitung Eckhard von Knorre, Augsburg 1970, S. 213. Weitere Literatur siehe S. 316
-
-{{End}}

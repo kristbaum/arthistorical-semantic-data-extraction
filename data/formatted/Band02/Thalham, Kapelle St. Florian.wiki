@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p602 -->
 
-<!-- header: THALHAM -->
 
 Kapelle in der Herrenmühle, Gemeinde Weyarn, Pfarrei Neukirchen, Erzdiözese München und Freising; z. Z. der Ausmalung Klostergut des Augustinerchorherrenstiftes Weyarn
 
@@ -65,7 +63,3 @@ Hofmann, Sigfrid, Künstler und Kunstwerke des Miesbacher und Schlierseer Landes
 Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nach den Tagebüchern des Chorherrn L.J. Ott, in: Beiträge zur altbayerischen Kirchengeschichte, Bd 30, 1976, S. 117 u. 182 f.
 
 [[File:Band02_chunk013_p001_img001.jpg|thumb|Maria die Braut des Hohenliedes]]
-<!-- citation-page-bottom: Band02 p603 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=3 -->
-{{End}}

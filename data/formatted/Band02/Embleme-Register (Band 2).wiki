@@ -9,8 +9,6 @@
 |danach=
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=3 -->
-<!-- citation-page-top: Band02 p654 -->
 
 Embleme 95, 134, 161–63, 250–53, 270–72, 369 f., 382, 385, 416–20, 467 f., 500–02, 514 f., 521 f., 543–45, 562 f., 608–10  
 Emblemähnliche Darstellungen  
@@ -158,10 +156,7 @@ Paucis contentus 162
 Per ardua 251  
 Perdit, ut servet 161  
 Perennat 23
-<!-- citation-page-bottom: Band02 p655 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=4 -->
-<!-- citation-page-top: Band02 p656 -->
 
 Perfusa latent 522 Portet nomen meum coram gentibus 369 Pretiosa latent 251 Proiectis agilior 271
 
@@ -200,7 +195,3 @@ Unbeweglich 468 Unverlegt 468
 Von Deinem Glantz Erleicht bin gantz 163 Von schönen Sonen Liecht Alles Unreines Fliecht 163 Vor Deinen Lohn Bereidt die Kron 543
 
 Wer unter disen schuz, der biethet aller Truz 501
-<!-- citation-page-bottom: Band02 p657 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk014.pdf#page=5 -->
-{{End}}

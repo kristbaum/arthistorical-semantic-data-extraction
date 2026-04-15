@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p140 -->
 
-<!-- header: MARKT KRAIBURG -->
 
 
 == MARKT KRAIBURG ==
@@ -68,5 +66,3 @@ AEM, Pfarrei Kraiburg, Pfarrmatrikeln.
 Wening, Michael, Rentamt Burghausen, München 1721, S. 10. Riedl, Karl, Geschichte des Marktes und der Grafschaft Kraiburg, München 1867, S. 106. Mayer-Westermayer, Bd 2, S. 126.
 
 Mayer-Westermayer, Bd 2, S. 126. KDB IOB (3), S. 2178 f. Dehio 1990, S. 561 f.
-
-{{End}}

@@ -9,8 +9,6 @@
 |danach=
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk007.pdf#page=10 -->
-<!-- citation-page-top: Band05 p318 -->
 
 
 Embleme 150, 229 f., 258, 260, 270 f., 280-83, 296, 298, 300
@@ -34,6 +32,3 @@ Favum tegit, quando legit 283 Flos amorum, gemma florum 282 Fructus bonos, profe
 == Deutsche Lemmata ==
 
 Ein gantz neues Leben in Feur ihm wirdt geben. 229 Er brinet zwar in der Glueth, doch ihn nit verzöhren thuet. 229 Es wird im Feur nit verzehrt, sein Schein und Glantz würdt vermehrt 230 Von unten schen blüehet und oben doch glüehet.
-<!-- citation-page-bottom: Band05 p319 -->
-
-{{End}}

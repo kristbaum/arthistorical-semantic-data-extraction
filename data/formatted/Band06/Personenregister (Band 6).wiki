@@ -266,12 +266,8 @@ Haslang, Joseph Xaver von 261
 Hausinger, Sebastian, Restaurator 165, 179
 
 Heigl, Martin, Maler 176
-<!-- citation-page-bottom: Band06 p307 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk007.pdf#page=5 -->
-<!-- citation-page-top: Band06 p308 -->
 
-<!-- header: PERSONENREGISTER -->
 
 
 == PERSONENREGISTER ==
@@ -518,11 +514,3 @@ Zernickel, Helmut, Restaurator 66
 Zimmermann, Johann Baptist, Maler und Stukkator 133–48, 150–59, 160–62, 176–87  
 Zimmermann, Franz Michael 176, 179  
 Zödl, Gregor OSB, Konventuale in Benediktbeuern 172  
-<!-- citation-page-bottom: Band06 p309 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk007.pdf#page=6 -->
-<!-- citation-page-top: Band06 p310 -->
-
-<!-- header: IKONOGRAPHISCHES REGISTER -->
-
-{{End}}

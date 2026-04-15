@@ -9,8 +9,6 @@
 |danach=Ikonographisches Register (Band 2)
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=20 -->
-<!-- citation-page-top: Band02 p638 -->
 
 
 == Personenregister ==
@@ -152,10 +150,7 @@ Guglhör, P., Maler 355
 Guglhör, Philip, Maler 181, 355  
 Gunetzrainer, Johann, Baumeister 601  
 Günther, Matthäus, Maler 25–27, 176, 219, 245, 250, 280, 282, 288, 296, 300, 306, 310, <i>335–47</i>, 350, 355, <i>358–70</i>, <i>376–93</i>, 406, 410, 432, 452, 548, 598  
-<!-- citation-page-bottom: Band02 p639 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=21 -->
-<!-- citation-page-top: Band02 p640 -->
 
 Gustav Adolf, König von Schweden 174  
 Gutrath, Petrus, Abt von Tegernsee 598  
@@ -489,10 +484,7 @@ Wirimseer → Würmseer
 Wittelsbach → Bayern-Wittelsbach, Herrscherhaus  
 Wittmann, A., Maler 430  
 Wolf, Alban, Restaurator 41, 64, 104, 112, 123, 125, 224, 285, 336, 360, 405 f.  
-<!-- citation-page-bottom: Band02 p641 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=22 -->
-<!-- citation-page-top: Band02 p642 -->
 
 Wolf, Antonie, Restauratorin 41, 64, 104, 123, 125, 224, 285  
 Wolff, Johann Andreas, Maler 69, 223  
@@ -523,5 +515,3 @@ Zwick, Joseph → Zwinck, Johann Joseph
 Zwick, Patritius, Propst von Weyarn 562  
 Zwinck, Franz Seraph, Maler 273 f., 246, 329 f., 331, 336–47, 348 f., 350–54, 433–41, 444  
 Zwinck, Johann Joseph, Maler 246–253, 350, 376–93, 394–96, 440  
-
-{{End}}

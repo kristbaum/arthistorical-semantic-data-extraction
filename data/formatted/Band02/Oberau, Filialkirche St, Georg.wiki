@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p394 -->
 
 Filialkirche, Pfarrei Oberau, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei St. Martin Garmisch, Kloster-Ettalisches-Kammergericht Ettal
 
@@ -70,10 +69,7 @@ Das Bild illustriert den Bericht der Genesis. Jakob hat sein Haupt an einen quad
 
 
 [[File:Band02_chunk008_p023_img003.jpg|thumb|B Zwei Putti]]
-<!-- citation-page-bottom: Band02 p395 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk008.pdf#page=24 -->
-<!-- citation-page-top: Band02 p396 -->
 
 [[File:Band02_chunk008_p024_img001.jpg|thumb]]
 [[File:Band02_chunk008_p024_img002.jpg|thumb]]
@@ -111,5 +107,3 @@ B ZWEI PUTTI mit Palmzweig und Lorbeerkranz, die sich auf den Patron, den Martyr
 
 
 Mayer-Westermayer, Bd 3, S. 579, 583. Dehio-Gall OB, S. 205.
-
-{{End}}

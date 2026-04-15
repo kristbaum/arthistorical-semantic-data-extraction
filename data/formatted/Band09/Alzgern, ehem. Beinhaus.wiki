@@ -12,7 +12,6 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band09 p38 -->
 
 [[File:Band09_chunk001_p020_img001.jpg|thumb]]
 
@@ -53,10 +52,7 @@ Das Gewölbe der Kapelle ist vollkommen ausgemalt. Auf violetten Grund, der bis 
 
 A DER SÜNDENFALL  
 »An welchem Tag du von der Frucht des / Baumes eßen wirst, so mußt du des Todes sterben / Gene 12 Cap.« (Gen 1,17). Eine baumbestandene Landschaft stellt das Paradies dar. In der Mitte ragt der Baum der Erkenntnis auf, voll mit Früchten. Eva pflückt einen Apfel – Adam macht eine abwehrende Geste. Hinter einem Laubengang lugt ein Gerippe hervor, zu seinen Füßen eine Sense.
-<!-- citation-page-bottom: Band09 p39 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=21 -->
-<!-- citation-page-top: Band09 p40 -->
 
 [[File:Band09_chunk001_p021_img001.jpg|thumb]]
 
@@ -78,10 +74,7 @@ der Andacht. Auf einem Altar bringt er seine Herrschaftsinsignien dar. Am Boden 
 [[File:Band09_chunk001_p021_img007.jpg|thumb]]
 
 [[File:Band09_chunk001_p021_img008.jpg|thumb|Sonnenblume wendet sich der Sonne zu]]
-<!-- citation-page-bottom: Band09 p41 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=22 -->
-<!-- citation-page-top: Band09 p42 -->
 
 == ALZGERN ==
 
@@ -110,5 +103,3 @@ Ferchl, Georg, Bayerische Behörden und Beamte, Müncher 1908, S. 725.
 Fellermeier, Max, Alzgern. Ein Beitrag zur Ortsgeschichte. In Heimatland. Beilage zum Oettinger und Burghauser Anzeiger, hg. Von Max Fellermeier Jg. 6, 1955, S. 1-5, 9-16, 17-21. Handbuch des Bistums Passau, hg. vom Bischöflichen Ordinariat Passau, 1981, S. 348.
 
 hio 1990, S. 36 f. (
-
-{{End}}

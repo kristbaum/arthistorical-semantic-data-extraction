@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- header: ZELI -->
 
-<!-- header: ZELL -->
 
 Kapelle, Pfarrei Egling, Gemeinde Moorenweis, Diözese Augsburg; z. Z. der Ausmalung war die Pfarrei Egling Kloster Ettal inkorporiert (seit 1743); Zell gehörte zur Hofmark Dünzelbach, die von 1472 bis 1848 im Besitz der Grafen Törring- Seefeld war. Gericht Landsberg
 
@@ -86,14 +84,10 @@ Erhaltungszustand und Restaurierungen: 1909 Restaurierung durch Wilhelm Geromill
 
 
 [[File:Band04_chunk006_p013_img001.jpg|thumb|Hl. Sebastian, Patron der Kranken (Photo D. Reichler)]]
-<!-- citation-page-bottom: Band04 p275 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=14 -->
-<!-- citation-page-top: Band04 p276 -->
 
 ZELL
 
-<!-- header: ZEL -->
 
 
 [[File:Band04_chunk006_p014_img001.jpg|thumb]]
@@ -120,12 +114,8 @@ A1-4 Kirchenväter
 
 
 B Mariä Verkündigung
-<!-- citation-page-bottom: Band04 p277 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=15 -->
-<!-- citation-page-top: Band04 p278 -->
 
-<!-- header: ZELL -->
 
 
 [[File:Band04_chunk006_p015_img001.jpg|thumb]]
@@ -192,10 +182,3 @@ Kunst- und Kulturdenkmäler, S. 381.
 Dehio 1990, S. 1302.
 
 DC
-<!-- citation-page-bottom: Band04 p279 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=16 -->
-<!-- citation-page-top: Band04 p280 -->
-
-
-{{End}}

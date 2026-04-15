@@ -51,10 +51,7 @@ A DAVID PSALLENS Das einansichtige Fresko über der Orgel hat seine Basis im Wes
 
 B ST. NIKOLAUS PATRON DER KRANKEN UND NOTLEIDENDEN Das längsovale Fresko erstreckt sich über zwei Joche. Dargestellt sind zwei Figurengruppen, und zwar eine irdische und eine himmlische, die durch eine leere Mittelzone voneinander getrennt sind und nur inhaltlich durch Gesten und Blicke aufeinander bezogen sind. Das untere, östliche Drittel füllt die arme und kranke Bittsteller, im oberen erscheint der hl. Nikolaus in der Glorie. Der Bildaufbau ist in der Vertikalen durch die Mittelachse bestimmt, westlich durch die Gestalt des Heiligen markiert, östlich durch eine am Krankenlager ruhende junge Frau hervorgehoben, zu deren Seiten Gruppen Bittflehender angeordnet sind: rechts ein mit zwei Männern ringender Besessener, dessen Mund Dämonen entfliehen, links ein Betender, eine Frau mit Kind und ein Alter mit Pestglöckchen. Vor diesen Figuren, die auf einem halbkreisförmig nach hinten geschwungenen schmalen Sockel stehen, erstreckt sich ein leeres, in die Tiefe führendes Feld.  
 
-<!-- citation-page-bottom: Band01 p87 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=20 -->
-<!-- citation-page-top: Band01 p88 -->
 
 [[File:Band01_chunk002_p020_img001.jpg|thumb]]
 
@@ -81,14 +78,9 @@ W ERZIEHUNG MARIENS Das Fresko an der südlichen Chorwand zeigt Anna in zeitgen�
 Ergänzungen zur Ikonographie: Das Hauptbild (B) ist dem hl. Nikolaus gewidmet. Obgleich die Kirche noch im 19. Jh. dem hl. Johannes d. Täufer geweiht war, erfuhr der hl. Nikolaus schon im 18. Jh. in Hausen besondere Verehrung (vgl. Hopp). Die Alten, Kranken, Besessener und Notleidenden spielen nicht auf bestimmte Wunderaten des Heiligen an, sondern sie vertrauen sich mit ihren Anliegen in die Fürbitte ihres Patrons Nikolaus.
 
 Das Altarraumfresko (C) schildert das trostreiche Sterben in Christus. Dem Sünder (vgl. Inschrift) erteilt Jesus durch die Vermittlung Mariens – die Absolution am Sterbebett. Diese Darstellung steht wahrscheinlich im Zusammenhang mit der noch heute in Hausen bestehenden Corpus-Christi-Bruderschaft. Eines der Hauptgebetsanliegen der Corpus-Christi-Bruderschaft ist das um einen guten christlichen Tod.
-<!-- citation-page-bottom: Band01 p89 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=21 -->
-<!-- citation-page-top: Band01 p90 -->
 
-<!-- header: HAUSEN BEI GELTENDORF -->
 
-<!-- header: HECHENWANG -->
 
 
 [[File:Band01_chunk002_p021_img001.jpg|thumb]]
@@ -117,5 +109,3 @@ Heimatbuch Fürstenfeldbruck, Fürstenfeldbruck 1952, S. 263.
 Landkreis Fürstenfeldbruck, Heimatbuch, Pörsdorf 1963, S. 160.
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22–23), München 1971, S. 173.
-
-{{End}}

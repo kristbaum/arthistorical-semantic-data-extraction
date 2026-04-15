@@ -30,14 +30,9 @@ Inschrift auf dem Epitaph von Pfarrer Schwarz unter der Kanzel: Plurimum Reveren
 
 
 [[File:Band05_chunk004_p003_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p155 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=4 -->
-<!-- citation-page-top: Band05 p156 -->
 
-<!-- header: KREUZHOLZHAUSEN -->
 
-<!-- header: KREUZHOLZHAUSE -->
 
 
 [[File:Band05_chunk004_p004_img001.jpg|thumb]]
@@ -82,10 +77,7 @@ C SCHLACHT AN DER MILVISCHEN BRÜCKE (LA-Benz, S. 351) In der weiten Ebene sieht
 Die Szenen der Kreuzlegende sind von dem jungen Bauernmaler Pfeil mit viel Sinn für Drastik und mit lebhafter Freude am bunten Detail geschildert. Die naive Malerei ist nicht ohne Reiz, da Pfeil ganz offensichtlich keine Bildvorlagen hatte, an denen er sich hätte orientieren können und so die ikonographischen Vorgaben unbeholfen, aber unbefangen ins Bild setzte.
 
 D MARIÄ HIMMELFAHRT Im Bild, dessen Originalsubstanz soweit zerstört ist, daß kaum mehr als die Komposition erhalten ist, sieht man Christus mit einem großen Kreuz. Er reicht Maria, die neben ihm kniet, die Hand. Der leeren Sarkophag der Gottesmutter in der unteren Bildhälfte umringen die Apostel.
-<!-- citation-page-bottom: Band05 p157 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=5 -->
-<!-- citation-page-top: Band05 p158 -->
 
 KREUZHOLZHAUSEN
 
@@ -94,12 +86,8 @@ KREUZHOLZHAUSEN
 
 
 [[File:Band05_chunk004_p005_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p159 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=6 -->
-<!-- citation-page-top: Band05 p160 -->
 
-<!-- header: KREUZHOLZHAUSEN -->
 
 
 [[File:Band05_chunk004_p006_img001.jpg|thumb|EB<sub>a-b</sub> Bruderschaftsbilder der Gut-Tod-Bruderschaft]]
@@ -170,7 +158,3 @@ Dehio 1990, S. 566.
 Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Landes Bd 7, hg. im Auftrag des Museumsvereins Dachau e.V.), Dachau 1991, S. 148-54.
 
 -, Rosenkranzandacht und Rosenkranzbruderschaften des Barock im Dachauer Land, in: Amperland 27, 1991, S. 74.
-<!-- citation-page-bottom: Band05 p161 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=7 -->
-{{End}}

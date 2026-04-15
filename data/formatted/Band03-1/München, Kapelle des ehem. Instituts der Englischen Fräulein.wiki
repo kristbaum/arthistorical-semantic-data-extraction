@@ -12,9 +12,7 @@
 |AutorIn1=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band03-1 p214 -->
 
-<!-- header: EHEM. INSTITUT DER ENGLISCHEN FRAULEIN -->
 
 
 == EHEM. INSTITUT DER ENGLISCHEN FRÄULEIN ==
@@ -73,9 +71,7 @@ Nach der Säkularisation war der Kapellenraum 1812 zu einem Sitzungs saal umgeba
 Rekonstruierende Beschreibung und Ikonographie (nach Vorkriegspho tographien)
 
 Ein im ganzen Raum umlaufendes breites Stuckgesims war Fußpunkt der Gewölbemalerei. Es trug reichen Stuck, der Marienthematik entsprechend ein Band mit verschlungenen Rosenzweigen, Lilienstengeln und Kronreifen (Akten BLfD, keine Abbildung). Darüber setzten die Schildmauern an, die mit illusionistischer Malerei freskiert waren. In jedem Schildbogen war ein Ochsenauge gemalt, im O, N und S jeweils von zwei Putti auf Podesten flankiert, die eine Blattgirlande mit Bändern um das kartuschengerahmte Fenster drapierten; im W an der Altarwand waren Wolken und Puttoköpfchen um das Fenster gemalt.
-<!-- citation-page-bottom: Band03-1 p215 -->
 
-<!-- citation-page-top: Band03-1 p216 -->
 [[File:Band03-1_chunk005_p009_img001.jpg|thumb]]
 
 [[File:Band03-1_chunk005_p009_img002.jpg|thumb|Ausschnitt aus dem Kuppelfresko, S-Seite; Engel tragen Gottvater (vor der Zerstörung)]]
@@ -95,12 +91,8 @@ A KRÖNUNG MARIENS DURCH DIE HL. DREIFALTIGKEIT Die Ovalkuppel war verhältnism�
 realen Rahmenleiste des Freskos setzt eine illusionistisch gemalte Steinbalustrade an, an deren Pfosten plastische Puttoköpfchen in Tondi oder Hermenpilaster gemalt sind, im O und S stehen große geschmückte Prunkvasen auf der Brüstung, umlaufend eine Lorbeerblatt-Girlande. Hinter der Brüstung wird eine weitere Raumschale durch Paare von korinthischen Säulen alternierend mit offenen Arkaden und Wandnischen mit imitiertem Stuckmuschelwerk gebildet. Dieser tempiettoartige Ring, dessen Fußpunkt hinter der Steinbalustrade unsichtbar bleibt, fasst die göttlichen Personen mit ihren Engelsscharen. Entgegen der Aufwärtsbewegung Mariens in der Hauptblickachse scheinen Wolkenpartien und Puttogruppen über die Brüstung in den Kapellenraum herabzuschweben, besonders im O und S, wo die Säulenarkaden von Engelsgruppen fast verdeckt werden. Durch betonte Lichtführung ist die Quadraturmalerei plastisch greifbar, größte Helligkeit geht jedoch von den beiden Glorienscheinen im Bildzentrum um die Jungfrau und die Geisttaube aus
 
 [[File:Band03-1_chunk005_p009_img007.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p217 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=10 -->
-<!-- citation-page-top: Band03-1 p218 -->
 
-<!-- header: EHEM. INSTITUT DER ENGLISCHEN FRÄULEI -->
 
 [[File:Band03-1_chunk005_p010_img001.jpg|thumb|5 Dreifaltigkeits-Gloriole und Engelskonze: Fresko in der Altarnische (vor der Zerstörung)]]
 [[File:Band03-1_chunk005_p010_img002.jpg|thumb|4 Erzengel Raphael (vor der Zerstörung]]
@@ -146,7 +138,3 @@ Lieb/Sauermost S 27
 Langenstein-Wagner, Eva, Georg Asam, 1649–1711, Ein Beitrag zur Entwicklung der barocken Deckenmalerei in Bayern, München 1983, S. 35 ff., 147 ff., 211.
 
 [[File:Band03-1_chunk005_p010_img005.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p219 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=11 -->
-{{End}}

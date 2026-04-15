@@ -70,12 +70,8 @@ B ANBETUNG DER HIRTEN In einer Ruine ist die Hl. Familie dargestellt, ein älter
 
 
 [[File:Band02_chunk011_p006_img007.jpg|thumb|Anbetung der Hirten]]
-<!-- citation-page-bottom: Band02 p511 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=7 -->
-<!-- citation-page-top: Band02 p512 -->
 
-<!-- header: HAGNRERG -->
 
 
 [[File:Band02_chunk011_p007_img001.jpg|thumb]]
@@ -123,6 +119,3 @@ Mayer-Westermayer, Bd 2, S. 7, 9, 11. Brunhuber, Josef, Chronik des oberen Leitz
 
 
 == HOLZKIRCHEN ==
-
-
-{{End}}

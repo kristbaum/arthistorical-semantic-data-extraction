@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p86 -->
 
-<!-- header: LOCHHAUSEN -->
 
 
 == LOCHHAUSEN St Michael ==
@@ -42,7 +40,7 @@ Pfarrkirche St. Michael, Schussenriederstraße 6, Erzdiözese München und Freis
 '''Auftraggeber:''' Im Pfarrbuch (s. oben, S. 782) findet sich 1742 der Hinweis: »umb 76 fl. 1 kr. den Chor ausstockador und ein fresco gemallen worden, da zue Joseph Ruesdor fer, Schwaiger in Freyhamb 12 fl. 45 kr. Caspar Häberl.. von Langwied 12 fl. Franz Pfuger (?) Zollner 4 fl. 15 kr hergeschenkt«.
 
 
-'''Autor und Entstehungszeit:''' Die Deckenfresken sind 1742 entstanden (s. oben). In den Gerichtsrechnungen heißt es 1740 (StAM Geistl. Rat, Kirchenrechnungen Gericht Dachau 1740, S. 1422 v): »Franz Schmidt Mahler in Alling hat den tabernacl blau angemahlen und von guettem gol<br>einige Stern hierein gesprengt, daß gemähl in fresco ir etwas verbessert, dann ihm vor hergegebenes Golt, Farber und arbeith zaig zötls bezalt worden 2 fl. 28 kr.« Möglicherweise handelt es sich bei dem erwähnten »fresco« um das Bruderschafts-Fresko W, das auch schon 1737, bei Gründung der Bruderschaft, entstanden sein kann. Die Ausmalung ist Anton Zächenberger (*um 1690 bei Salzburg †1773 München) zuzuschreiben. Sie zeigt stilistische Verwandtschaft mit den Chorfresken in St. Michael in Perlach (S. 93–96).
+'''Autor und Entstehungszeit:''' Die Deckenfresken sind 1742 entstanden (s. oben). In den Gerichtsrechnungen heißt es 1740 (StAM Geistl. Rat, Kirchenrechnungen Gericht Dachau 1740, S. 1422 v): »Franz Schmidt Mahler in Alling hat den tabernacl blau angemahlen und von guettem gol einige Stern hierein gesprengt, daß gemähl in fresco ir etwas verbessert, dann ihm vor hergegebenes Golt, Farber und arbeith zaig zötls bezalt worden 2 fl. 28 kr.« Möglicherweise handelt es sich bei dem erwähnten »fresco« um das Bruderschafts-Fresko W, das auch schon 1737, bei Gründung der Bruderschaft, entstanden sein kann. Die Ausmalung ist Anton Zächenberger (*um 1690 bei Salzburg †1773 München) zuzuschreiben. Sie zeigt stilistische Verwandtschaft mit den Chorfresken in St. Michael in Perlach (S. 93–96).
 
 
 == Befund ==
@@ -67,14 +65,9 @@ Erhaltungszustand und Restaurierungen: 1927 – im Zusammenhang mit der Erweiter
 Die Ausstattung des AR bildet stilistisch und ikonographisch eine Einheit. Der Altar, wie ein Theaterprospekt in verschiedenen räumlichen Ebenen komponiert, füllt den dreiseitigen Chorschluß, dessen Wölbung von einem blauen Stuckbaldachin (Innenseite rötliches Brokatmuster) ausgestattet ist. Plastische graue Stuckwölkchen schaffen die Verbindung zwischen Altar und Deckenbild. Gewölbe und Stichkappen sind mit zartfarbigen Bandwerkstukkaturen dekoriert. Das westliche Joch der N-Wand schmückt das Bruderschaftsfresko W, das formal und farblich in die AR-Dekoration einbezogen ist.
 
 A KRÖNUNG MARIENS Konventionelle Darstellung mit symmetrischer Anordnung der Figuren ohne nennenswerten Unterschied; Gottvater im gelb-blauen Mantel mit Weltkugel und Zepter, Christus im roten Gewand mit dem Kreuz halten die Krone über Maria, die im Typus der Immaculata mit der Mondsichel zu Füßen zwischen ihnen schwebt. Über der Gruppe die Geisttaube, in den Wolken verstreut Puttoköpfchen.
-<!-- citation-page-bottom: Band03-1 p87 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=20 -->
-<!-- citation-page-top: Band03-1 p88 -->
 
-<!-- header: LOCHHAUSEN -->
 
-<!-- header: MOOSACH St. Martin -->
 
 
 [[File:Band03-1_chunk002_p020_img001.jpg|thumb|W Vision der Margareta Maria Alacoque und Herz-Jesu-Bruderschaftsbild]]
@@ -97,5 +90,3 @@ Illusionistische Rahmendarstellung, vergleichbar Augsburger Kupferstichen des 18
 
 
 Schmidtsche Matrikel, Bd 1, S. 394 f. Westenrieder, Beiträge, Bd 4, S. 390. Mayer-Westermayer, Bd 2, S. 516–19. Sattler, Karl, Lochhausen – Langwied in der Vergangenheit und Jetztzeit, München 1931, S. 41, 49 f. Dehio-Gall OB, S. 44.
-
-{{End}}

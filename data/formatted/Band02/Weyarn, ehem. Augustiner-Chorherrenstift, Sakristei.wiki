@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p624 -->
 
-<!-- header: WEYARN -->
 
-<!-- header: WEYARN -->
 
 Sakristei der ehem. Stiftskirche
 
@@ -71,5 +68,3 @@ B REGELÜBERGABE Im Vordergrund einer weiten Landschaft kniet ein Chorherr. Übe
 C KASELÜBERGABE Ein heiliger Chorherr, der das erzbischöfliche Pallium trägt, kniet vor Maria, die vor ihm in Wolken erscheint und eine Kasel überreicht. Das Haupt Mariens ist von hellen Strahlen umgeben. Auf dem Haupt trägt sie die Krone der Patrona Bavariae. Zu Füßen des Heiligen ist eine Mitra zu sehen.
 
 Literatur siehe S 626
-
-{{End}}

@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p208 -->
 
-<!-- header: ROTT -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung Kloster Wessobrunn inkorporiert, Gericht Landsberg
 
@@ -66,10 +64,7 @@ Kuppelkonstruktion und Szenenanordnung gleichen sehr dem ein Jahr früher — 17
 
 
 [[File:Band01_chunk005_p005_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p209 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=6 -->
-<!-- citation-page-top: Band01 p210 -->
 
 [[File:Band01_chunk005_p006_img001.jpg|thumb|Elisabeth — im Madonnentypus — hält den Johannesknaben auf dem Schoß, dieser ist durch Kreuzstab ECCE AGNUS DEI und Lamm bezeichnet. Literatur Meidinger, Franz Sebastian, Historische Beschreibung der kurfürstlichen Haupt- und Regierungsstädte in Niederbayern, Landshut und Straubing ..., Landshut 1787, S. 382.]]
 
@@ -94,7 +89,3 @@ Hager, Georg, Die Bautätigkeit und Kunstpflege im Kloster Wessobrunn, in: OAVG 
 Dehio-Gall OB (1964), S. 266
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966 S 599—609
-<!-- citation-page-bottom: Band01 p211 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=7 -->
-{{End}}

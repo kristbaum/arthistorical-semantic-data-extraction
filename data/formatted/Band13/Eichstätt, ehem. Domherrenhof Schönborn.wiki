@@ -21,12 +21,8 @@ Dreiflügelige Anlage aus dreigeschossigem Wohnhaus im S, einem schmalen zweiges
 
 
 [[File:Band13_chunk005_p021_img001.jpg|thumb|Fliehender Mann mit Augenbinde (nach 1736)]]
-<!-- citation-page-bottom: Band13 p241 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=22 -->
-<!-- citation-page-top: Band13 p242 -->
 
-<!-- header: EICHSTÄTT BISCHÖFLICHES PALAIS -->
 
 
 == EICHSTATT BISCHOFLICHES PALAIS ==
@@ -58,14 +54,9 @@ Technik: Öl auf Leinwand
 
 
 [[File:Band13_chunk005_p022_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p243 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk005.pdf#page=23 -->
-<!-- citation-page-top: Band13 p244 -->
 
-<!-- header: EICHSTATT BISCHOFLICHES PALAIS -->
 
-<!-- header: Maße: A Höhe 3,25 m; 0,90 × 1,35 -->
 B Höhe 3,40 m; 0,95 × 1,35
 C Höhe 3,40 m; 0,95 × 1,35
 
@@ -114,7 +105,3 @@ Gabriel de Gabrieli. Fürstbischöflich Eichstättischer Hofbaudirektor (1671–
 Schick, Magdalena unter Mitarbeit von Brun Appel, Besitzgeschichte der Eichstätter Domherrnhöfe, in: SHVE 97, 2004, S. 7–76, hier: S. 55–58 (Schönborn-Hof).
 
 A. B./C. G.
-
-<!-- header: ENKERING -->
-
-{{End}}

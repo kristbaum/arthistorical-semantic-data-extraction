@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band07 p80 -->
 
-<!-- header: BURGRAIN -->
 
 
 == BURGRAIN ==
@@ -57,12 +55,8 @@ Das Wappen am Chorbogen malte Franz Dominikus Poo, der auch das Oratorium neu fa
 
 
 Zu A Verehrung der Immaculata. Bleigriffel laviert, Maße unbekannt, um 1724 in Privatbesitz, jetziger Aufenthaltsort nicht bekannt. Lit.: Richard Hofmann, Die gegenwärtige Altarausstattung des Freisinger Domes, in: Wissenschaftliche Festgabe zum 1200jährigen Jubiläum des hl. Korbinian, München 1924, S. 516, Tafel 26 (Zuschreibung an Cosmas Damian Asam); Frigisinga 6 (1929), S. 486f.; Josef Maß und Sigmund Benker, Freising in alten Ansichten, Freising 1976, S. 56, Kat. Nr. 58 mit Abb. (Zuschreibung an Nikolaus Gottfried Stuber).
-<!-- citation-page-bottom: Band07 p81 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=17 -->
-<!-- citation-page-top: Band07 p82 -->
 
-<!-- header: BURGRAIN -->
 
 == Befund ==
 
@@ -104,12 +98,8 @@ Am W-Rand sind Puttenköpfchen in den dichten Wolken dargestellt. Zwischen den P
 
 
 [[File:Band07_chunk002_p017_img001.jpg|thumb|A Verehrung der Immaculata durch die Patrone des Freisinger Doms, davor Wappen des Hochstifts Freising]]
-<!-- citation-page-bottom: Band07 p83 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk002.pdf#page=18 -->
-<!-- citation-page-top: Band07 p84 -->
 
-<!-- header: BURGRAIN -->
 
 
 [[File:Band07_chunk002_p018_img001.jpg|thumb|B Dreifaltigkeit]]
@@ -156,5 +146,3 @@ Brenninger, Georg, Die Kirchen im Pfarrverband Isen, Isen 1997, S. 24 f. C.B.
 Stadtpfarrkirche und Wallfahrtskirche Maria Dorfen Marktkirche S. 96
 
 Stadtpfarrkirche und Wallfahrtskirche Maria Dorfen, Stadt Dorfen, Erzdiözese München und Freising; z. Z. der Ausmalung Filiale der Pfarrei Oberdorfen, die seit 1737 dem Priesterhaus in Dorfen inkorporiert war. Bis 1761 hatte die Pfarrei einen eigenen in Oberdorfen ansässigen Pfarrvikar, ab 1761 Pfarrers aus Seit 1812 ist Dorfen Pfarrei
-
-{{End}}

@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p344 -->
 
-<!-- header: SEEFELD -->
 
-<!-- header: SEEFELD -->
 
 Schloßkapelle, Gemeinde Oberalting-Seefeld, Pfarrei Oberalting, Diözese Augsburg; z. Z. der Ausmalung Herrschaft Seefeld
 
@@ -69,14 +66,9 @@ Hell-Dunkel-Gegensätze bestimmen die Farbigkeit des
 
 
 [[File:Band01_chunk007_p023_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p345 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=24 -->
-<!-- citation-page-top: Band01 p346 -->
 
-<!-- header: SEEFELD -->
 
-<!-- header: STARNBERG -->
 
 Gemäldes. Die Erdfarben, vor allem Schwarzbraun und Ocker, heben sich von hellen, gebrochenen Grau- und Weißtönen ab. Als buntfarbige Akzente wirken die hellen, intensiven Blau- und Türkistöne. Die Farbstimmung des Bildes ist klassizistisch kühl.
 
@@ -95,5 +87,3 @@ Töpfer, Friedrich, Geschichte des Schlosses Seefeld, in: OAVG 9, 1848, S. 3 ff.
 Graf, Matthias, Geschichte der Pfarrei Oberalting, München 1902, S. 68 ff.
 
 Thieme-Becker, Bd 26, S. 86, s. v. Ott, Josef Mathias. Albrecht, Dieter, Das Landgericht Weilheim (= Historischer Atlas von Bayern 1, Heft 4) München 1952, S. 30–32.
-
-{{End}}

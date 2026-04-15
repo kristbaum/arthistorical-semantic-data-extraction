@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band04 p170 -->
 
-<!-- header: HOLZHAUSEN -->
 
 
 == HOLZHAUSEN ==
@@ -70,7 +68,3 @@ C. B
 
 
 [[File:Band04_chunk004_p011_img002.jpg|thumb|B Moses und die Eherne Schlange]]
-<!-- citation-page-bottom: Band04 p171 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=12 -->
-{{End}}

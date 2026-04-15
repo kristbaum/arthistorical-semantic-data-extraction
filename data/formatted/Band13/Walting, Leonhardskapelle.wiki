@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band13 p444 -->
 
-<!-- header: WALTING -->
 
 
 [[File:Band13_chunk009_p023_img001.jpg|thumb]]
@@ -70,7 +68,3 @@ KDB V MF (2), S. 342. Buchner Bistum Eichstätt 1938, S. 721–26.
 
 
 [[File:Band13_chunk009_p023_img002.jpg|thumb|B St. Leonhard als Patron der Gefangenen]]
-<!-- citation-page-bottom: Band13 p445 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk009.pdf#page=24 -->
-{{End}}

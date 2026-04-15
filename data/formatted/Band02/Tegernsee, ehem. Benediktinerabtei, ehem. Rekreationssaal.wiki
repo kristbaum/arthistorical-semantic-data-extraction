@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p598 -->
 
-<!-- header: TEGERNSEE -->
 
-<!-- header: TEGERNSE -->
 
 
 == Ehem. Rekreationssaal, jetzt Aula des Gymnasiums ==
@@ -68,10 +65,7 @@ Während die Figurenbezeichnung noch im Sinne des Barocks (etwa C.D. Asams) kör
 
 
 [[File:Band02_chunk012_p025_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p599 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=1 -->
-<!-- citation-page-top: Band02 p600 -->
 
 == Ikonographie und Ikonologie ==
 
@@ -104,7 +98,3 @@ Rupprecht, Bernhard, Akzente im Bau- und Kunstwesen Ingolstadts von der Ankunft 
 Thon, Christina, Johann Baptist Zimmermann als Stukkator, München und Zürich 1977.
 
 Literatur siehe S. 59
-<!-- citation-page-bottom: Band02 p601 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk013.pdf#page=2 -->
-{{End}}

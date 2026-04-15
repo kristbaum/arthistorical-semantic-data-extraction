@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band03-2 p292 -->
 
 '''Zum Bauwerk:''' (nach BHStA I, HR II, 13/92-93; HR II, 14/114-17) Beginn des Umbaues am südlichen Grottenhoftrakt am 5. 8. 1680 nach Plänen Enrico Zuccallis durch Lorenzo Perti und Antonio Riva. Im Hauptgeschoss wurde anstelle einer Altane an der N-Seite des Trakts eine Flucht von drei Räumen eingerichtet: eine mittlere Galerie (Zweites Sommerzimmer) und zwei flankierende Zimmer (Erstes und Drittes Sommerzimmer), an die im W ein weiteres Zimmer angeschlossen wurde (Viertes Sommerzimmer). An der S-Seite des Hauptgeschosses blieb die alte maximilianische Galerie bestehen. Über dem gesamten Trakt wurde in der Höhe des zweiten Geschosses eine offene Altane eingerichtet, die im O und W vor einstöckigen Fassaden mit Giebelabschluß begrenzt wurde, im S und N Balustraden aus Tuffstein hatte und auf der über einem Kupferdach ein kleiner Garten eingerichtet wurde, mit einem zentralen Springbrunnen, Pflanzen in Blumenkübeln und gepflasterten Wegen. Im O schloß an die Altane ein großes Gartenzimmer an, das von dem »Vorfletzl« innerhalb der Alexanderzimmer über eine Treppe erreicht werden konnte. Stuck an der Fassade zum Grottenhof von Prospero Breni, 1681 (HR II, 13/93). Die Bauarbeiten waren im Winter 1680 vollendet, die Innenausstattung zog sich bis 1685 hin: Stuck und Pflasterung 1681, Stuckmarmorportale bis 1682, Kistlerarbeiten bis 1684, hauptsächlich von Georg Wohlgemuth, aber auch von Stadtkistlern, Bildausstattung bis 1685. Die Zimmer waren durch große Stuckmarmorportale von Andreas Römer miteinander verbunden (wohl in der Art einer Enfilade).
 
@@ -39,7 +38,6 @@ Da der größte Teil der Deckenbilder der Sommerzimmer in den Baurechnungen nich
 [[File:Band03-2_chunk006_p022_img001.jpg|thumb]]
 
 
-<!-- header: EHEMALIGE SOMMERZIMMER -->
 
 Altane (1681, 13/93, Nr. 281) und malte acht »zwückhl übersich« (Embleme I. a) in das Erste Sommerzimmer (1682, 14/115, Nr. 61).
 
@@ -90,22 +88,14 @@ I<sub>4</sub> VIS NESCIA VINCI (Kraft, die das Besiegtwerden nicht kennt) – En
 I<sub>5</sub> INNIXA UBERIOR (Angelehnt fruchtbarer) – Rebzweig, der auf einem Ulmenast emporwächst. Die Rebe trägt auf Stützen reichere Frucht als auf dem Boden; »warmit ein nit gar mächtiger Fürst erinnert wird, sich mi Gewaltigern zuvereinigen, umb dardurch sich auch stärcker und grösser zu machen« (ebd., S. 222).
 
 I<sub>6</sub> DISSIDIUM IMPERII LABES (Zwietracht ist der Untergang des Reiches) - Hippolyt, dessen Wagenpferde von Neptun durch ein Ungeheuer so erschreckt wurden, daß sie nach verschiedenen Seiten scheuten und der Wagenlenker zu Tode schleiften. »Dann die von dem grawsamen Meer wunder also in die Forcht gesetzte Pferdt seynd jene Fürsten oder Reichs glider, welche von mächtigem Gewalt eines Außländischen Potentaten sich solchergestalt erschröcken lassen, daß sie sich von ihrem Haupt unne Mitglidern, zu unbeschreiblichem Schaden ... eines gantzen Reichs, absön dern und entscheyden« (ebd., S. 223).
-<!-- citation-page-bottom: Band03-2 p293 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=23 -->
-<!-- citation-page-top: Band03-2 p294 -->
 
 Drei Hauptbilder, das mittlere von sechs, die seitlichen von je acht Emblemen umgeben. Die Formen der Bilder nennt Schmid nicht.
 
 Ratio tritt als Fürstentugend in der Residenz hier zum erstenmal auf. Sie wird Mutter aller Tugenden genannt. In den Emblemen werden ihre Eigenschaften näher erläutert: Unerbittlichkeit dem verderbenbringenden Feind gegenüber, Großmut gegen den Besiegten, Gleichmut in Glück und Unglück, Zeigen der Stärke, um mögliche Angriffe zu verhindern. Die Vernunft allein konnte auch die »alten Heyden« zur Tugend führen, welche »ob ihnen zwar die wahre Glaubens-Sonne nit geleuchtet, dannoch allein durch das Liecht der rechten Vernunfft den Sittlichen Tugendtweeg auch in der Finsternuß gefunden« (ebd.).
-<!-- citation-page-bottom: Band03-2 p295 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=24 -->
-<!-- citation-page-top: Band03-2 p296 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: EHEMALIGE SOMMERZIMMER -->
 
 III<sub>4</sub> ALIIS MELIORA REFUNDIT (Für andere gießt er das Bessere zurück) – Destillierapparat, der aus Kräutern Arzneimittel gewinnt. Das Bild vom Destillierofen, der aus einer Flüssigkeit eine mengenmäßig geringere, aber kostbare Essenz gewinnt (Picinelli, Lib. XVII, s.v. furnus campanus, Nr. 66–68) wird hier auf den Fürsten angewandt, dessen Wohltaten durch stetes Bitten (Feuer) erreicht werden.
 
@@ -150,7 +140,7 @@ Die umgebenden Embleme charakterisieren damit die Hauptfigur weniger als Gottesf
 
 IV-W<sub>1</sub> DIE TUGEND BRINGT DEN MENSCHEN ZUR VOLLKOMMENHEIT (S-Seite) Eine schöne, doch schlecht gekleidete Frau, schlug aus einem unbehauenen Steinbock eine schöne Bildsäule. »Dise Wunderkünstlerin ist die Tugendt, welche den Menschen (so ohne sie nur ein grober Erdklotz ist) erst recht außarbeitet und zu seiner Vollkommenheit bringet. Jene Männer, welche dort von weitem die nunmehr verfertigte Bildnuß auff einen starck unnd vesten Fuß setzen, geben mir zu vernemen, daß der durch Tugendtwandl erworbene Ruhm auff der unbewögli chen Grundveste der immerwehrenden Gedächtnuß gesteiffet seye-« (Schmid, S. 255).
 
-IV-W<sub>2</sub> DER LOHN DER TUGEND (N-Seite) Hier »sihe ich einen schön und ansichtbaren Mann, und diser ist der Ehrnlohn (also pflegten<br>ihn die alten Römer vorzubilden) er ist schon etwas erlebt, dann zu ihme anderst nit, als durch langwürdige Tugendtsübung, auch grosse Mühe und Arbeit zu kommen, es erscheinen bei ihme vil Cronen, von Gold, Palmen Lorbeer- und Olivenzweigen gemacht, welche alle auff die jenige warten, so sich vermittelst der schön doch mühsamben Tugendt ihrer verdient gemacht, durch die guldene Cronen wird der unbeschreibliche Nutzen vorgestelt, welcher einem jeden Tugendt-Beflissenen gleichsamb auff dem Fuß nacheylet, die Lorbeer-Palm- und Olivenkräntz aber erinnern mich der unaußbleiblichen Ehr, so einen Tugendtvollen Menschen glorwürdig umbfanget. Unweit von diesem Ehrnlohn sitzen vil Engl auff einem Palmbaum, welche die herunder gerissene Oest hauffenweiß herunder werffen, woselbsten sie von andern auffgelesen, und zu etlich auff grünen Waasen sitzenden Frawen getragen werden, damit sie auß denselbigen noch mehrer Kräntz und Cronen flechten mögen, dann zu Beehrung eines Tugendthafften alles sich der Arbeit undernimbt, und niemand zu feyren begeret« (Schmid, S. 254f.).
+IV-W<sub>2</sub> DER LOHN DER TUGEND (N-Seite) Hier »sihe ich einen schön und ansichtbaren Mann, und diser ist der Ehrnlohn (also pflegten ihn die alten Römer vorzubilden) er ist schon etwas erlebt, dann zu ihme anderst nit, als durch langwürdige Tugendtsübung, auch grosse Mühe und Arbeit zu kommen, es erscheinen bei ihme vil Cronen, von Gold, Palmen Lorbeer- und Olivenzweigen gemacht, welche alle auff die jenige warten, so sich vermittelst der schön doch mühsamben Tugendt ihrer verdient gemacht, durch die guldene Cronen wird der unbeschreibliche Nutzen vorgestelt, welcher einem jeden Tugendt-Beflissenen gleichsamb auff dem Fuß nacheylet, die Lorbeer-Palm- und Olivenkräntz aber erinnern mich der unaußbleiblichen Ehr, so einen Tugendtvollen Menschen glorwürdig umbfanget. Unweit von diesem Ehrnlohn sitzen vil Engl auff einem Palmbaum, welche die herunder gerissene Oest hauffenweiß herunder werffen, woselbsten sie von andern auffgelesen, und zu etlich auff grünen Waasen sitzenden Frawen getragen werden, damit sie auß denselbigen noch mehrer Kräntz und Cronen flechten mögen, dann zu Beehrung eines Tugendthafften alles sich der Arbeit undernimbt, und niemand zu feyren begeret« (Schmid, S. 254f.).
 
 Die Figur des »Ehrenlohn« war der Allegorie Premio von Ripa nachgebildet. Von den zwei »parti del premio principali, cioè l'honore, & l'utile« übernahm man die Zeichen des Premio del’honore, die Kronen und Kränze, und führte dieses Motiv weiter aus (Ripa, s.v. premio).
 
@@ -158,14 +148,9 @@ IV-W<sub>3</sub> DER WEG ZUM RUHM (W-Seite; Schmid, S. 253 beschrieb den Raum vo
 
 
 [[File:Band03-2_chunk006_p024_img001.jpg|thumb|Ehemaliges Viertes Sommerzimmer, Decke (Vorkriegszustand)]]
-<!-- citation-page-bottom: Band03-2 p297 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=25 -->
-<!-- citation-page-top: Band03-2 p298 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: IERSCHIMMELSAAL UND STEINZIMMER -->
 
 mit Edelsteinen geschmückte Krone, hielt ein Zepter und in der **anderen** Hand die Fama-Posaune (Krone und Posaune nach Ripa s.v. gloria). **Auf** den Stufen ihres Throns standen all die Tugendallegorien, die »in disen Zimmern und nechst gelegenen Galeri abgemahlt [waren], dann zu wahrer Ehr und Glory zugelangen, ist kein anderer als der Tugendtweeg, durch welchen allein ein immerwehrendes Lob zuerwerben, wie es der Spruch der an der ersten Stapfl zusehen, klar ITER AD GLORIAM PANDUNT« (Sie bahnen den Weg zum Ruhm).
 
@@ -193,5 +178,3 @@ In der einzigen christlichen Tugend, der Gottesfurcht (in IV), werden verschiede
 
 BHStA I, HR II 13/92-93; HR II 14/114-17: Rechnungsbände über Bau und Ausstattung der Alexander- und Sommerzimmer 1680-85.  
 Faßmann 1770, S. 411–14. Schmid 1685, S. 216–260. Wening 1701, S. 4. Kalmbach 1719, S. 216–257. Haeutle 1883, S. 95–100; Abb. Seidel Abt. II Blatt 10. KDB I OB (2), S. 1090. Hojer, in: Kat. Max Emanuel 1976, I, S. 142-44. Baumstark, ebd., S. 185–87
-
-{{End}}

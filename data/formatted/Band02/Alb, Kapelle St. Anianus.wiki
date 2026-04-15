@@ -46,10 +46,7 @@ Erhaltungszustand und Restaurierungen: Inschriftkartusche westlich von C Renov. 
 
 
 [[File:Band02_chunk009_p024_img002.jpg|thumb|A Marinus besucht Anianus]]
-<!-- citation-page-bottom: Band02 p447 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=25 -->
-<!-- citation-page-top: Band02 p448 -->
 
 
 [[File:Band02_chunk009_p025_img001.jpg|thumb|B Anianus in der Einsiedelei]]
@@ -84,12 +81,8 @@ C GLORIE DER HLL. MARINUS UND ANIANUS Vor einem lichten Himmelsraum mit kreisfö
 Die Gruppe dieser Figuren ist einansichtig wiedergegeben, ohne Untersicht und Verkürzungen; sie steht wie eine Kulisse vor der hellen Glorie, die sich dahinter in die Tiefe zu öffnen scheint. Auffallend ist dabei, daß nicht die göttlichen Gestalten in der Glorie erscheinen, sondern diese wie ein Nimbus die Heiligen hinterfängt. Das Chorfresko ist ikonographisch eine Weiterführung der Darstellung auf dem Altarblatt, das den Tod der beiden Heiligen zeigt. Während Marinus in Wilparting von der Hand räuberischer Horden den Martertod erlitt, starb Anianus in seiner Zelle in Alb, und seine Seele entfloh dem Körper in Gestalt einer weißen Taube.
 
 Fresko B ist von vier Rocaillekartuschen umgeben, die Darstellungen in Stuck tragen. Die nordöstliche Kartusche zeigt einen kleinen achteckigen Bau mit dem dreifachen Kreuz über der Kuppel, ein Symbol der Ecclesia. Die südöstliche Kartusche zeigt ein großes Schiff auf dem
-<!-- citation-page-bottom: Band02 p449 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk010.pdf#page=1 -->
-<!-- citation-page-top: Band02 p450 -->
 
-<!-- header: ALB -->
 
 Meer, ebenfalls ein Ecclesia-Symbol. Südwestlich sind zwei Kirchen dargestellt, und zwar Kirche und Kapelle von Wilparting. In der nordwestlichen Kartusche sind eine Kirche und ein Haus zu sehen; hier handelt es sich wahrscheinlich um Alb.
 
@@ -101,6 +94,3 @@ Literatur siehe Wilparting, S. 634
 
 
 == ALLGAU bei Piesenkam ==
-
-
-{{End}}

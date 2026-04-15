@@ -28,12 +28,8 @@ Dreischiffige hohe Hallenkirche mit Rundpfeilern zu vier Jochen, an die der im A
 
 
 [[File:Band08_chunk001_p010_img001.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band08 p19 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=11 -->
-<!-- citation-page-top: Band08 p20 -->
 
-<!-- header: ALTMÜHLDORF -->
 
 
 == ALTMÜHLDORF ==
@@ -77,14 +73,9 @@ W<sub>4</sub> OTTILIA VON HOHENBURG (lebte um 700, Fest 13.12.). Die Patronin de
 
 
 [[File:Band08_chunk001_p011_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band08 p21 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=12 -->
-<!-- citation-page-top: Band08 p22 -->
 
-<!-- header: ALTMUHLDORF -->
 
-<!-- header: AMPFING -->
 
 
 [[File:Band08_chunk001_p012_img001.jpg|thumb]]
@@ -111,5 +102,3 @@ AEM, Ptarrakten Altmühldorf 109000101 Pfarrbeschreibung 109300203 Restaurierung
 BLfD, Akt Altmühldorf, Pfarrkirche St. Laurentius.
 
 Mayer-Westermayer, Bd 2, S. 79–83. KDB I OB (3), S. 2144–46. Aumüller, Hans und Hans R. Spagl, Altmühldorf, Pfarrkirche St. Laurentius, 1970 Historischer Atlas Bd 36, Mühldorf, München 1976, S. 312, 316. Dehio 1990, S. 20 f.
-
-{{End}}

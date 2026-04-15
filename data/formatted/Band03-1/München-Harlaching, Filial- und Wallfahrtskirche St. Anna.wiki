@@ -12,9 +12,7 @@
 |AutorIn1=Lüdicke, Lore
 }}
 
-<!-- citation-page-top: Band03-1 p82 -->
 
-<!-- header: HARLACHING -->
 
 
 == HARLACHING St Anna ==
@@ -72,12 +70,8 @@ Erhaltungszustand und Restaurierungen: Restaurierungen
 
 
 [[File:Band03-1_chunk002_p017_img001.jpg|thumb|A Die hll. Anna und Joachim mit dem Kind Maria]]
-<!-- citation-page-bottom: Band03-1 p83 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=18 -->
-<!-- citation-page-top: Band03-1 p84 -->
 
-<!-- header: HARLACHING -->
 
 '''B Die hll. Anna und Joachim in der Glorie'''
 
@@ -125,7 +119,3 @@ Grad, A., Harlaching vom Miocän bis heute, München 1974, S. 23–35, 42–47 u
 Wild, Therese, Chronik der Filial- und Wallfahrtskirche Sankt Anna München-Harlaching, München 1977 (Hektographierte Schrift, Pfarrei Heilige Familie München).
 
 Thon, Christina, Johann Baptist Zimmermann als Stukkator, München 1977, S. 173 u. 343. L. L.
-<!-- citation-page-bottom: Band03-1 p85 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk002.pdf#page=19 -->
-{{End}}

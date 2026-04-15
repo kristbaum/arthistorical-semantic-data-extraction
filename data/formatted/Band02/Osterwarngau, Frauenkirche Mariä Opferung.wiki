@@ -46,14 +46,9 @@ A HIMMELFAHRT MARIÄ Das einansichtige Fresko erstreckt sich in seinem sehr schm
 
 
 [[File:Band02_chunk011_p019_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p537 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=20 -->
-<!-- citation-page-top: Band02 p538 -->
 
-<!-- header: OSTERWARNGALI -->
 
-<!-- header: OSTERWARNGAU -->
 
 
 [[File:Band02_chunk011_p020_img001.jpg|thumb]]
@@ -105,14 +100,9 @@ Lamp bringt zu diesem verhältnismäßig späten Zeitpunkt und obwohl er selbst 
 
 
 [[File:Band02_chunk011_p020_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p539 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=21 -->
-<!-- citation-page-top: Band02 p540 -->
 
-<!-- header: OSTERWARNGAU -->
 
-<!-- header: OSTERWARNGAL -->
 
 
 [[File:Band02_chunk011_p021_img001.jpg|thumb|Heilige Famili]]
@@ -147,5 +137,3 @@ Hartig, Michael, Die oberbayerischen Stifte, Bd 1, München 1935, S. 221.
 Dehio-Gall OB, S. 243
 
 Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nach den Tagebüchern des Chorherrn L.J. Ott, in: Beiträge zur altbayerischen Kirchengeschichte, Bd 30, 1976, S. 118 u. 183.
-
-{{End}}

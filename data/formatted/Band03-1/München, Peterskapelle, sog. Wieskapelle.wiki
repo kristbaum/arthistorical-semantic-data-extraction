@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula?
 }}
 
-<!-- citation-page-top: Band03-1 p266 -->
 
-<!-- header: PETERSKAPELLE SOG WIESKAPELLE -->
 
 ehem. Friedhofskirche auf dem Petersplatz, in der O-Ecke, ehem. Haus Nr. 5, Pfarrei St. Peter; 1803 säkularisiert und profaniert, 1880 abgebrochen. Innenansicht überliefert
 
@@ -69,5 +67,3 @@ Häuserbuch, Bd 4, S. 183.
 Reiser, Rudolf, Zwei Kirchen standen am Petersbergl, in: Süddeutsche Zeitung vom 1. 10. 1980.
 
 C. B
-
-{{End}}

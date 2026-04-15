@@ -13,9 +13,7 @@
 |AutorIn2=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band03-2 p428 -->
 
-<!-- header: SCHLEISSHEIM -->
 
 
 == Baugeschichtlicher Überblick ==
@@ -92,14 +90,9 @@ Ab Dezember 1616 erfolgte auf den Fundamenten des teilweise abgebrochenen Wilhel
 Pader mit anderen Arbeiten beschäftigt war. Am Neubau beteiligt waren auch Blasius Fistulator und seine Mitarbeiter (ebd., Stuckhator und Posierarbeit, passim) offenbar mit Stuckmarmorarbeiten, deren Verwendung nur einmal angegeben ist: »Gesims und ander Zier zu den Fenstern« (Nr. 1). Ende des Jahres 1617 war der Haupttrakt des Schlosses – der Trakt im O – im wesentlichen fertig und ausgestattet.
 
 [[File:Band03-2_chunk009_p015_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p429 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk009.pdf#page=16 -->
-<!-- citation-page-top: Band03-2 p430 -->
 
-<!-- header: SCHIFISSHEIM ALTES SCHLOSS -->
 
-<!-- header: SAAL UND WOHNRÄUMI -->
 
 
 [[File:Band03-2_chunk009_p016_img001.jpg|thumb|Candid-Werkstatt, Kopie eines Entwurfs zu I<sub>1</sub> Melken und Buttern, München]]
@@ -112,6 +105,3 @@ Noch unter Maximilian I. wurde ab Ende 1650, nach dessen Tod (27. 9. 1651) unter
 
 
 Christoph Langenbuecher bekam, malte Caspar Amort (* 1612 Jachenau † 1675 München) eine perspektivische Decke in Wasserfarben auf Leinwand (Nr. 611). Sechs Zimmer hatten Kassettendecken mit Füllungen; Amort malte zumindest einen Teil dieser Füllungen (Nr. 748). Von den Bildern Amorts in diesem Schloßtrakt ist weiter nichts bekannt.
-
-
-{{End}}

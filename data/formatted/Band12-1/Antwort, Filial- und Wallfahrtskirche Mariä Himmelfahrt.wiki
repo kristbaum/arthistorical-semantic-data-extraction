@@ -13,9 +13,7 @@
 |AutorIn2=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p56 -->
 
-<!-- header: ANTWOR -->
 
 
 == ANTWORT ==
@@ -40,10 +38,7 @@ Saal zu drei Jochen mit Gliederung durch Wandpfeiler geschweifte Doppelempore im
 
 
 [[File:Band12-1_chunk002_p004_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p57 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=5 -->
-<!-- citation-page-top: Band12 p58 -->
 
 Eintrag in der Kirchenrechnung 1747: »... nachdem hier einige Guetthaetter im löbl: unserer lieben Frauen Gottshaus auf ihre Costen sauber ausstokhatorn lassen, so ist zur mehrern Zierdte solches auch in Fresco ausgemahlen und Joseph Adam Mölckh Mahlern zu Walchsee Landts Tyroll accordiertermassen hiervon bezahlt worden ... 126 f.«.
 
@@ -84,12 +79,8 @@ In den Kartuschen der Gewölbezwickel des LHs sind die Kirchenväter in Halbfigu
 2 GREGOR DER GROSSE Der heilige Papst trägt die Tiara auf dem Haupt; die Taube fliegt zu seinem Ohr.  
 3 HIERONYMUS Er ist in Büßerkleidung dargestellt, vor ihm liegt der Kardinalshut, hinter dem Tisch ist der Löwe zu sehen. Während Hieronymus in ein Buch schreibt, wendet er den Blick zum Himmel, wo eine Trompete erscheint.  
 AMBROSIUS Er taucht die Feder in ein Tintenfaß und hat sein Attribut, den Bienenstock, bei sich.
-<!-- citation-page-bottom: Band12 p59 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=6 -->
-<!-- citation-page-top: Band12 p60 -->
 
-<!-- header: ANTWORT -->
 
 
 [[File:Band12-1_chunk002_p006_img001.jpg|thumb|B Engel verehren die Dreifaltigkeit, 5–8 Evangelister]]
@@ -133,5 +124,3 @@ Müller, Werner, Bad Endorf. Ein historischer Spaziergang lurch die Jahrhunderte
 Ehem. Benediktinerabtei Pfarrei und Stadt Wasserburg Erzdiözese München und Freising Ehem. Klosterhofmark Attel Gericht Wasserburg
 
 '''Zur Geschichte:''' Gründung des Benediktinerklosters 1038 durch Graf Arnold von Andechs. Um 1137 Errichtung einer dreischiffigen Basilika. Vor 1145 wurde Attel Abtei, die nach einer Zeit des Niedergangs im 15. Jh. durch die Melker Reformbewegung neuen Aufschwung erlebte. Der Abtei waren die Pfarreien Attel, Eiselfing mit Griesstätt und die Stadtpfarrei Wasserburg inkorporiert. Nach den Schäden des Dreißigjährigen Krieges unter Abt Engelbert III. Fischer (1669–87) Wiederaufbau, in dessen Verlauf auch die Sakristei und der darüberliegende Mönchschor errichtet wurden. Die Abteikirche, die gleichzeitig Pfarrkirche der dem Kloster inkorporierten Pfarrei Attel war, wurde in den Jahren 1713-15 nach Entwürfen des Abtes Cajetan Scheyerl (1703-23) errichtet, Weihe 1715. Nach der Säkularisation standen die Klostergebäude lange leer, 1874 wurden sie von den Barmherzigen Brüdern erworben. Heute sind sie in Besitz der »Stiftung Attl - Einrichtung für behinderte Menschen«. Die Klosterkirche wurde Pfarrkirche der Pfarrei Attel. Zur Pfarrei gehört auch der ehem. Mönchschor.
-
-{{End}}

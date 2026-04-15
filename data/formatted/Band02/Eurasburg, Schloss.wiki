@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p166 -->
 
-<!-- header: EURASBURG -->
 
 
 == EURASBURG ==
@@ -53,13 +51,8 @@ Erhaltungszustand und Restaurierungen: z. Z. der photographischen Aufnahme (1965
 
 
 A–D SAMSON-ZYKLUS Die vier Hauptbilder waren in den horizontalen Teil der Kassettendecke eingelassen, A, B und C im Saal, D im anschließenden Erker. Das Bildfeld A ist quadratisch mit seitlichen halbrunden Ausbuchtungen, B und C sind quadratisch mit abgeschrägten Ecken, D ist hochrechteckig mit abgeschrägten Ecken. Aufnahmestandpunkt ist für A unter dem östlichen (oberen) Bildrand, für B und C unter der Bildmitte und für D unter dem östlichen (oberen) Bildrand jeweils gegen W gerichtet. Die Bilder mit den Samson-Szenen zeigen einen nicht geringen Einfluß aus dem römisch-niederländischen Caravaggismus. Die starke Körpermodellierung in Licht und Schatten sowie die Aufstellung der Hauptfiguren an einer Vordergrundsrampe gehen auf das Bildsystem Caravaggios zurück; ebenso eine »Monumentalisierung« des Zufälligen oder Beiläufigen, so wie etwa in C (Samson stürzt das Haus der Philister) die Rückenfigur Samsons und ein gestürzter Philister über die Bildgrenze nach vorne zu ragen scheinen. Obwohl direkte Untersichten oder Verkürzungen fehlen, sind so illusionistische Elemente ins Bild gebracht. Die Bildanlage mit dem niedrigen Horizont und den unmittelbar in den Bildvordergrund gestellten Hauptfiguren kommt der Anbringung der Bilder als Deckenbilder entgegen. A–D sind typische Quadri riportati der Frühzeit der barocken Deckenmalerei. Die Pathosgesten und der Gesichtsausdruck der Figuren sind extrem und naturalistisch gesteigert; auch das erinnert
-<!-- citation-page-bottom: Band02 p167 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=10 -->
-<!-- citation-page-top: Band02 p168 -->
 
-<!-- header: EURASBURG -->
-<!-- header: EURASBURG -->
 
 [[File:Band02_chunk004_p010_img001.jpg|thumb]]
 
@@ -80,12 +73,8 @@ C Samson stürzt das Haus der P
 etik 4 Geometrie
 
 5 Rhetorik
-<!-- citation-page-bottom: Band02 p169 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=11 -->
-<!-- citation-page-top: Band02 p170 -->
 
-<!-- header: EURASBURG -->
 
 
 [[File:Band02_chunk004_p011_img001.jpg|thumb|1 Grammati]]
@@ -129,9 +118,7 @@ Kartusche zwischen 1 und 7: GRAMMA/TA QVOD DO-/ CEAM QVID RI-/DES IMPROBE NA/SO/
 
 
 [[File:Band02_chunk004_p011_img003.jpg|thumb|2 Musi]]
-<!-- citation-page-bottom: Band02 p171 -->
 
-<!-- citation-page-top: Band02 p172 -->
 
 [[File:Band02_chunk004_p012_img001.jpg|thumb]]
 
@@ -166,12 +153,8 @@ Ein bärtiger Gelehrter in weitem Mantel sitzt neben einem Tisch, auf dem Büche
 [[File:Band02_chunk004_p012_img002.jpg|thumb]]
 [[File:Band02_chunk004_p012_img003.jpg|thumb|4 Geometrie]]
 [[File:Band02_chunk004_p012_img004.jpg|thumb|6 Dialektik]]
-<!-- citation-page-bottom: Band02 p173 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band02 p174 -->
 
-<!-- header: EURASBURG -->
 
 Armillarsphäre. Weitere Bücher und astronomische Meßgeräte sind neben ihm und im Hintergrund dargestellt.
 
@@ -232,7 +215,3 @@ Rée, Paul Johannes, Peter Candid, in: Bayer. Bibliothek Bd 5, Bamberg 1890, S. 
 Zur Deckenmalerei im Schloß Eurasburg KDB I OB (1), S. 866.
 
 Rambaldi, Karl von, Geschichte des Schlosses Eurasburg und seiner Besitzer, in: OAVG, Bd 48, 1893/94, S. 1-86. Der Landkreis Wolfratshausen in Geschichte und Gegenwart. Ein Heimatbuch (o. V.), München 1965, S. 162.
-<!-- citation-page-bottom: Band02 p175 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=14 -->
-{{End}}

@@ -29,14 +29,10 @@ Weiter, hoher, gut proportionierter Raum zu drei Jochen gegliedert durch kräfti
 
 
 [[File:Band12-1_chunk003_p020_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p139 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=21 -->
-<!-- citation-page-top: Band12 p140 -->
 
 FLINTSBACH AM INN
 
-<!-- header: FLINTSBACH AM INN -->
 
 
 [[File:Band12-1_chunk003_p021_img001.jpg|thumb|Der Kirchenraum nach Oster]]
@@ -44,12 +40,8 @@ FLINTSBACH AM INN
 
 
 [[File:Band12-1_chunk003_p021_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p141 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=22 -->
-<!-- citation-page-top: Band12 p142 -->
 
-<!-- header: FLINTSBACH AM INN -->
 
 
 [[File:Band12-1_chunk003_p022_img001.jpg|thumb]]
@@ -106,10 +98,7 @@ Durch Willibald und Alois Stein, Inzell, wurde der Stuck freigelegt und neu get�
 
 
 Die Gewölbezone ist durch den Freisinger Stuckator Thomas Glasl im schönen Ornamentstil der Dreißiger Jahre gestaltet, mit vielfältigen und phantasievollen Motiven - Lambrequins, Kartuschen, Ranken, Putten in Wolken, Brokatfeldern – noch auf der Grundstruktur des Bandwerks. Die Bildfelder sind in kräftigen Rahmen in das feine, grau, rosa und gelb getönte Netzwerk des Stucks gesetzt. Die Deckenmalerei von Rechenauer befindet sich nur im Langhaus, in zwei großen (A, B) und zwei kleinen (B<sub>1-2</sub>) Mittelfeldern sowie vier Kartuschen (1–4). Das große Feld C vor dem Chorbogen ist stuckplastisch als Hl.-Geist-Öffnung gestaltet, umgeben von den feurigen Zungen; ebenso wurden die beiden Deckenfelder im Chor als
-<!-- citation-page-bottom: Band12 p143 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=23 -->
-<!-- citation-page-top: Band12 p144 -->
 
 [[File:Band12-1_chunk003_p023_img001.jpg|thumb]]
 
@@ -129,14 +118,9 @@ Der farbige Gesamtton wird von Gold-Ocker und Braun bestimmt, blasse Mischungen 
 
 [[File:Band12-1_chunk003_p023_img004.jpg|thumb|A Darstellung Jesu im Tempel]]
 
-<!-- citation-page-bottom: Band12 p145 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk003.pdf#page=24 -->
-<!-- citation-page-top: Band12 p146 -->
 
-<!-- header: FLINTSBACH AM INN -->
 
-<!-- header: FRASDORF -->
 
 
 [[File:Band12-1_chunk003_p024_img001.jpg|thumb|Kirchenpatron Hl. Martin, Stuckrelief von Thomas Glasl im Chorgewölbe]]
@@ -173,5 +157,3 @@ Rosenegger, Josef, Flintsbach/Falkenstein. Ortschronik – Hof- und Familiengesc
 Flintsbach), Fischbach am Inn 1986, S. 12, S. 591. Rosenegger, Josef, Brannenburg-Degerndorf. Chronik und Dokumentation der Gemeinde Brannenburg, Brannenburg 1990. Sebastian Rechenauer der Ältere S. 216 f. Dobio rose C seef
 
 A. B./K. S
-
-{{End}}

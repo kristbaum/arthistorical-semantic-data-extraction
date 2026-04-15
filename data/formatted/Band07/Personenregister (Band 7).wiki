@@ -290,10 +290,7 @@ Penda, König von Mercia 273
 Perneder, Caspar, Kurat in Heilig Blut 51  
 Perusa, Grafen von 245  
 Pfättisch, Johann Franz, Kooperator in Bockhorn 130  
-<!-- citation-page-bottom: Band07 p331 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=17 -->
-<!-- citation-page-top: Band07 p332 -->
 
 
 == PERSONENREGISTER ==
@@ -334,5 +331,3 @@ Josepha geb. Schalck 281 Maria Klara 281 Zimmermann, Dominikus, Stuckator 169 Zi
 Zollner, Maria, Brodbäuerin in Berglern 53 Simon, Brodbauer in Berglern 53 Zunhamer, Martin, Restaurator in Altötting 190, 226
 
 Zwingli, Ulrich, Reformator 304
-
-{{End}}

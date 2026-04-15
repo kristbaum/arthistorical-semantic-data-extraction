@@ -38,14 +38,9 @@ In der Darstellung von Fresko D zeigt sich Fett, wie auch in der Allgaukapelle, 
 
 
 [[File:Band02_chunk005_p010_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p219 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=11 -->
-<!-- citation-page-top: Band02 p220 -->
 
-<!-- header: REICHERSBEUERN -->
 
-<!-- header: REICHERSBEUER -->
 
 
 == Befund ==
@@ -116,14 +111,9 @@ und ließ zu Ehren der hll. Valentin und Zeno eine Kirche bauen, in der Korbinia
 D DIE GEMEINDE REICHERSBEUERN BEGIBT SICH UNTER DEN SCHUTZ DER GOTTESMUTTER Hoffmann (S. 112) schlägt für dieses Fresko folgende Deutung vor: Abt Gregor Plaichshirn von Tegernsee zelebriert ein Pontifikalamt. – Von einem solchen historischen Ereignis ist allerdings nichts bekannt. Pfarrer Josef Zimmermann von Reichersbeuern weist hingegen auf ein Pontifikalamt hin, das am 13. 8. 1752 anläßlich der Übertragung der Reliquien des hl. Honorat stattfand, und das Johann Christian Graf von Königsfeld, seit 24. 4. 1746 Bischof des St. Georgs-Ritterordens, zelebrierte. Da der Inhaber der Hofmark, Johann Maximilian IV., Graf von Preysing, seit 1729 (also seit der Gründung des Ordens) Ordenskanzler war, selbst mit seiner Familie im Bild erscheint und um sein Wappen in auffälliger Weise das Ordensband dargestellt ist, ist diese Deutung wahrscheinlich
 
 Daß ein so kurz zurückliegendes historisches Ereignis Thema eines Deckenbildes an so hervorragender Stelle (Chor) werden konnte, hat seinen Grund wohl darin, daß im historischen Bewußtsein des Auftraggebers durch dieses
-<!-- citation-page-bottom: Band02 p221 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=12 -->
-<!-- citation-page-top: Band02 p222 -->
 
-<!-- header: REICHERSBEUERN -->
 
-<!-- header: REUTBERG -->
 
 
 [[File:Band02_chunk005_p012_img001.jpg|thumb]]
@@ -150,5 +140,3 @@ Mathäser, Hans, Pfarrkirche Reichersbeuern, in: Tölzer Kurier, September 1957.
 Dehio-Gall OB, S. 217 f.
 
 Bauer, Anton, Allgaukapelle und Allgauklause bei Piesenkam, in: Beiträge zur altbayerischen Kirchengeschichte 25, 1967. S. 119–44.
-
-{{End}}

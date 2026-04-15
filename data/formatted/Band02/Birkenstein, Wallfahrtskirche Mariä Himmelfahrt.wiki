@@ -34,12 +34,8 @@ Von ihm stammen das Altarantependium, zwei Türfüllungen und Votivbilder in Bir
 
 
 [[File:Band02_chunk010_p007_img001.jpg|thumb|Krönung Mariens]]
-<!-- citation-page-bottom: Band02 p463 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk010.pdf#page=8 -->
-<!-- citation-page-top: Band02 p464 -->
 
-<!-- header: BIRKENSTEIN -->
 
 
 == ELBACH ==
@@ -84,5 +80,3 @@ Hoffmann, Richard, Der Wallfahrtsort Maria-Birkenstein in: Der Heimgarten, 1933,
 Bauer, Anton, und Max Mangold, Birkenstein (= KKF, Nr. 85/86), München 1950.
 
 Dehio-Gall OB, S. 233.
-
-{{End}}

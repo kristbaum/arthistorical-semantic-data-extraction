@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p64 -->
 
 == Anastasiakapelle ==
 
@@ -63,14 +62,9 @@ Alle Figurengruppen sind in die lichten Himmels- und Wolkenpartien verhältnism�
 
 
 [[File:Band02_chunk002_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p65 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=9 -->
-<!-- citation-page-top: Band02 p66 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
-<!-- header: RENEDIKTBEUERI -->
 
 
 [[File:Band02_chunk002_p009_img001.jpg|thumb]]
@@ -94,12 +88,8 @@ W TRANSLATIO UND INTHRONISATION DER ANASTASIA-RELIQUIE An der S-Wand der Kapelle
 
 
 [[File:Band02_chunk002_p009_img003.jpg|thumb|Die Hl. Dreifaltigkeit und Maria in Erwartung der hl. Anastasia, Ausschnitt]]
-<!-- citation-page-bottom: Band02 p67 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band02 p68 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
 
 [[File:Band02_chunk002_p010_img001.jpg|thumb]]
@@ -127,6 +117,3 @@ Die Rocaillekartuschen um das Hauptfresko zeigen Szenen aus dem Leben der hl. An
 
 
 Fischer, Pius OSB, Der Barockmaler Johann Jakob Zeiller und sein Ettaler Werk, München 1964, S. 26 f. Matsche, Franz, Der Freskomaler Johann Jakob Zeiller, Marburg/Lahn 1970, S. 240–47. Literatur siehe S. 133
-
-
-{{End}}

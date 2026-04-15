@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p454 -->
 
 == AURACH ==
 
@@ -64,5 +63,3 @@ ottvater
 
 
 Pfarrkirche Seelen- und Wallfahrtskapelle S. 460  
-
-{{End}}

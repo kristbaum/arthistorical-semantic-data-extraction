@@ -32,14 +32,9 @@ Soweit die stark restaurierten LHs-Deckenfresken A, A<sub>1-4</sub> und – rudi
 
 
 [[File:Band04_chunk001_p015_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p29 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=16 -->
-<!-- citation-page-top: Band04 p30 -->
 
-<!-- header: DUNZELBACH -->
 
-<!-- header: DÜNZELBACI -->
 
 
 [[File:Band04_chunk001_p016_img001.jpg|thumb]]
@@ -85,10 +80,7 @@ StAM, Archiv Törring-Seefeld II, Kirchenrechnungen 1697–1819, Bde 1726, 1765�
 
 
 [[File:Band04_chunk001_p016_img002.jpg|thumb|A Glorie des hl. Nikolaus]]
-<!-- citation-page-bottom: Band04 p31 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=17 -->
-<!-- citation-page-top: Band04 p32 -->
 
 
 == DÜNZELBACH ==
@@ -112,6 +104,3 @@ Dehio 1990, S. 198.
 
 
 == EISMERSZELL ==
-
-
-{{End}}

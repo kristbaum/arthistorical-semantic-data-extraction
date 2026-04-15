@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p172 -->
 
-<!-- header: OBERMEITINGEN -->
 
 
 == OBERMEITINGEN ==
@@ -66,14 +64,9 @@ A MARTYRIUM DES HL. MAURITIUS UND DER THEBÄISCHEN LEGION Das langgestreckte Fre
 
 
 [[File:Band01_chunk004_p012_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p173 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band01 p174 -->
 
-<!-- header: OBERMEITINGEN -->
 
-<!-- header: OBERMEITINGER -->
 
 Zäsur getrennt, fügen sich im westlichen Bilddrittel drei einfach nebeneinandergereihte Szenen dem irdischen Panorama ein. Der Bildhimmel wird durch eine große Wolkenformation bestimmt: Ein Wolkenkreis umschließt im westlichen Bildteil ein lichtes Himmelszentrum und geht in einer lang ausgezogenen, flächigen Spirale zu dem szenisch betonten östlichen Teil über. – Dieser west-östlichen Richtungsachse – ohne räumlich-illusionistische Höhendimension – folgen Engel und Putti. Ein Engel auf einem Wolkenballen vor dem lichten Zentrum präsentiert einen Schild mit den Worten: obtulerunt / Decimas sanctorum. / 2. Paralip. 31 U. 6. Putti mit Siegespalmen und Lorbeerkränzen fliegen auf die Hinrichtungsstätte zu. Dort kniet barhäuptig – Rüstung, Waffen und Fahne sind abgelegt – der hl. Mauritius und erwartet den Tod aus der Hand des Henkers, der hinter ihm stehend zum Schwertstreich ausholt. Ein heidnischer Priester versucht, den Christen noch zum kultischen Opfer zu überreden, er weist auf die Götterstatue und die opfernden Priester links im Hintergrund. — Die Hinrichtungsgruppe befindet sich auf einem kleinen Erdhügel, distanziert vom Bildrand, den zuschauende kaiserliche Soldaten, wiedergegeben als dunkle Renoussoirfiguren einnehmen.
 
@@ -104,12 +97,8 @@ Obermeitingen steht darin und präsentiert dem Heiligen eine Ortsansicht mit der
 B<sub>1-2</sub>, A<sub>1-4</sub> ZWOLF APOSTEL Den beiden Hauptfresken in Altar- und Gemeinderaum sind kartuschförmige, rocaillegerahmte Apostelbilder zugeordnet. Die Apostel werden paarweise in Grisaillemalerei in einer mehrfarbigen Szenerie wiedergegeben. Petrus und Paulus (B1); Jakobus d. Ä. und Johannes (B2); Thomas und Andreas (A1); Jakobus d. J. und Philippus (A2); Bartholomäus und Matthäus (A<sub>3</sub>): Simon und Thaddäus (A<sub>4</sub>)
 
 Aa-d EVANGELISTEN In den Eckfeldern des Lang hauses sind die 4 Evangelisten – ebenfalls monochrom ge malte Figuren - dargestellt: Lukas, Markus, Matthäus und Johannes. Den Evangelisten entsprechen die vier lateinischen Kirchenväter, welche an der Empore dargestell sind (keine Abbildungen).
-<!-- citation-page-bottom: Band01 p175 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=14 -->
-<!-- citation-page-top: Band01 p176 -->
 
-<!-- header: OBERMEITINGEN -->
 
 [[File:Band01_chunk004_p014_img001.jpg|thumb]]
 
@@ -176,7 +165,3 @@ Pfarrkirche Obermeitingen (o. V.), in: Der Sinkelbote, Heimatkundliche Beilage z
 Müller-Hahl, Bernhard, Ortsgeschichte von Obermeitingen (= Unsere Heimat am Lechrain, Bd 7), Landsberg am Lech 1957, S. 27–38.
 
 - (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 543–47.
-<!-- citation-page-bottom: Band01 p177 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=15 -->
-{{End}}

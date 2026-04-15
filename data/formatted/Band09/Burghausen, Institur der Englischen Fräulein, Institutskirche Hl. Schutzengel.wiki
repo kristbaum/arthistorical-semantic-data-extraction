@@ -12,11 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band09 p70 -->
 
-<!-- header: BURGHAUSEN -->
 
-<!-- header: BURGHAUSEN -->
 
 
 == Institutskirche der Englischen Fräulein ==
@@ -44,14 +41,9 @@ Erhaltungszustand und Restaurierungen: Für 1857, 1882, 1928, 1947 und 1968 sind
 
 
 [[File:Band09_chunk002_p011_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p71 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=12 -->
-<!-- citation-page-top: Band09 p72 -->
 
-<!-- header: RURCHAUSEN -->
 
-<!-- header: BURGHAUSEN -->
 
 
 [[File:Band09_chunk002_p012_img001.jpg|thumb]]
@@ -71,12 +63,8 @@ Im westlichen Bilddrittel schwebt Gottvater auf Wolken, die von Putten getragen 
 [[File:Band09_chunk002_p012_img002.jpg|thumb|A Anbetung der Könige (Innozenz Warathi 1732/34)]]
 
 
-<!-- citation-page-bottom: Band09 p73 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=13 -->
-<!-- citation-page-top: Band09 p74 -->
 
-<!-- header: BURGHAUSEN -->
 
 ecksnimbus bekrönt ist, und von hier im Zickzack weiter zum Stern mit Kometenschweif, der am Stall stillsteht.
 
@@ -136,5 +124,3 @@ C. B
 == BURGKIRCHEN AN DER ALZ ==
 
 [[File:Band09_chunk002_p013_img001.jpg|thumb|Der Kirchenraum]]
-
-{{End}}

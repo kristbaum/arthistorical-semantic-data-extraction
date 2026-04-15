@@ -27,12 +27,8 @@ Johann Schmuzer aus Wessobrunn gegen W erweitert und neu ausgestattet. – Gewes
 
 
 [[File:Band01_chunk011_p012_img002.jpg|thumb|1-4 Putti mit biblischen Textstellen]]
-<!-- citation-page-bottom: Band01 p523 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk011.pdf#page=13 -->
-<!-- citation-page-top: Band01 p524 -->
 
-<!-- header: SCHONGAU -->
 
 SCHWABBRUCK
 
@@ -81,5 +77,3 @@ Hofmann, Sigfrid, Geschichte der Stadt Schongau, in: Festschrift 700 Jahre Stadt
 -, Der Landkreis Schongau, München 1959, S. 96  
 -, Stadtpfarrkirche Mariä Himmelfahrt - Schongau (Kirchenführer), Schongau [1967].  
 Neu, Wilhelm, Beiträge zum Werk Münchener Hofmaurermeister der 2. Hälfte des 18. Jahrhunderts im südwestlichen Oberbayern, in: Festschrift Norbert Lieb, Zeitschrift für bayerische Landesgeschichte 35, H. 1, 1972, S. 302 f.  
-
-{{End}}

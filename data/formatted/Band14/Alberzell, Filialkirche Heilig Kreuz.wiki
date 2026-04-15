@@ -34,12 +34,8 @@ durch barocke Rundbogenfenster, im AR je eines auf der N- und S-Seite. Die baroc
 Von Johann Anton Zächenberger sind Freskierungen in Puch (siehe S. 230) und in München-Perlach (CBD Bd 3/I, S. 94) signiert und 1720 bzw. 1729 datiert. Vergleicht man die Figur des hl. Nikolaus in Alberzell mit dem hl. Martin in Puch (Fresko B) und mit dem Bischof von Sipont (Fresko B) in der Michaelskirche in Perlach bei München, so zeigen sich trotz größerer Qualitätsunterschiede Gemeinsamkeiten: überlange Gliedmaßen, Gesichter mit breiter Stirn und breiter stumpfer Nase, ungeschickter Körperaufbau in der Haltung des Kniens, scharf nach außen umknickende Innenränder des Pluviale, Bischofskrumme in Gestalt eines eingerollten Akanthusblatts. In diese Vergleichsreihe fügt sich stilistisch die Figur des Hohenpriesters aus der Szene Mariä Tempelgang an der Emporenbrüstung in Großmehring ein.
 
 Vergleicht man den in Alberzell nur gemalten Stuckdekor auf Brokatmustergrund, der mit eckig gebrochenem Bandwerk und kurvig geführten Blattranken arbeitet, dazu eingestreute Medaillons und Muschelmotive verwendet und als Blumenmotiv nur vorgetäuschte Blumenvasen in Grisaillemalerei aufweist, mit der Stuckierung auf farbig gemustertem Grund der 1730 fertig gestellten Pfarrkirche von Tandern, so erscheint er
-<!-- citation-page-bottom: Band14 p175 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=14 -->
-<!-- citation-page-top: Band14 p176 -->
 
-<!-- header: ALBERZELL -->
 
 als ein vereinfachter Verwandter des dortigen reicheren Systems, das außer eingestreuten Medaillons auch noch kleine, farbig abgesetzte Binnenfelder mit bizarr geführten Umrissen einfügt. Diese Charakteristika rücken die Stuckierung in Tandern in die Nähe der Auszierung der Liebfrauenkirche in Großmehring, wenn auch dort die Einzelmotive etwas anders gebildet sind. Es ist vorstellbar, dass das Gewölbe in Alberzell wie in Tandern stuckiert war und dass bei der Freilegung die Vorzeichnung für diese Stuckierung aufgefunden wurde.
 
@@ -73,12 +69,8 @@ A HL. NIKOLAUS IN DER GLORIE Die einansichtige, tafelbildmäßige Darstellung is
 
 
 [[File:Band14_chunk004_p014_img001.jpg|thumb|Das Chorgewölbe mit A St. Nikolaus in der Glorie, A<sub>1-4</sub> Patronat-Szenen (1725/30)]]
-<!-- citation-page-bottom: Band14 p177 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk004.pdf#page=15 -->
-<!-- citation-page-top: Band14 p178 -->
 
-<!-- header: ALBERZELL -->
 
 3AAR
 
@@ -109,5 +101,3 @@ ABA, Pf 183 (= Tandern): K2: Gebäude, u. a. Baulast, Pfarrkirche..., darin: Act
 Gemeindearchiv im Rathaus Gerolsbach, Kulturgeschichte und Chronik der Gemeinde Alberzell, 3 Bde, bearb. von Georg August Reischl, Ms. Schrobenhausen 1944/45, Bd 3 S. 153ff.
 
 Braun-Augsburg Bd 1, S. 437. Steichele-Schröder Bd 2, S. 264, 266–68. Geiß, Ernest, Tandern, Scholl und Hofmark und seine Besitzer, in: OAVG Bd 32, 1872, H. 1, S. 244-54. Hopp, Pfründe-Statistik Bd 1, S. 84f. Reischl, Georg August und Ludwig Rauch, Die Gemeinden des Landkreises, in: Heimatbuch Landkreis Schrobenhausen, Pörsdorf bei Aßling 1963, S. 128–30. Rutsch, Franz, Gemeindegebietsreform, in: Kreis Pfaffenhofen – Land und Leute, Ein Heimatbuch für den Landkreis Pfaffenhofen a.d. Ilm, ebd. 1974, S. 178. Historischer Atlas Schrobenhausen, S. 23, 66f. Pötzl, Kultgeographie des Bistums Augsburg, S. 83. Denkmaltopographie Pfaffenhofen, S. 46f. mit Abb.
-
-{{End}}

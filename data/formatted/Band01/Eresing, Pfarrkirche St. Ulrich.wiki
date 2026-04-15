@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p66 -->
 
-<!-- header: ERESING -->
 
 Pfarrkirche (von Kloster St. Ottilien vikariert), Diözese Augsburg; z. Z. der Ausmalung Hofmark Windach unter den Freiherren Füll von Windach, die das Präsentationsrecht auf die Pfarrei innehatten
 
@@ -76,12 +74,8 @@ B SCHLACHT AUF DEM LECHFELD Das langgestreckte Fresko mit Betrachtungsstandpunkt
 Die Bildwelt baut sich vom Freskorahmen aus über den Betrachter auf. Den Rahmen entlang erscheinen die dem Betrachter nächsten Zonen in intensiven dunklen Farben, darauf folgen kontrastreich in Licht und Schatten wechselnde Farben im zweiten terrestrischen Plan, lichte Farben im dritten und schließlich helle ineinander übergehende Lichttöne im Himmelszentrum. Die Aufhellung der Palette bewirkt im Zusammenspiel mit den Formen die Höhenillusion. Die Farbskala geht von Schwarzgrau und Ocker mit kräftigem Blau, Rot und Gelb als Farbakzenter über zu Gelb- und Weißtönen mit zartem Violett, gedämpftem Rot und Türkis.
 
 Das Himmelszentrum mit der strahlenden Sonnenscheibe wird von dichten Wolken umkreist. Ein Wolkenausläufer schiebt sich vor die Sonnenscheibe, auf diesem hat Divina Providentia ihre Thronstätte; sie stützt ihr Zepter mit dem Auge Gottes im Dreieck auf die Weltkugel und hebt zum Zeichen des Sieges einen Lorbeerzweig empor; ihre Mantelschleppe wird von Putti weit ausgebreitet. Engel im Wolkenkreis umfliegen die Göttliche Vorsehung. Eine Gruppe von Engeln gleitet mit einer Wolke zum irdischen Schauplatz hinab, dort findet die Reiterschlacht zwischen Christen und Ungarn statt. Von der Stadt her sprengen der hl. Ulrich im Bischofsornat mit wehendem, violettem
-<!-- citation-page-bottom: Band01 p67 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band01 p68 -->
 
-<!-- header: ERESING -->
 
 
 [[File:Band01_chunk002_p010_img001.jpg|thumb]]
@@ -111,10 +105,7 @@ B<sub>1</sub>-4 KARDINALTUGENDEN Die Begleitfresken zeigen die auf Wolken throne
 
 
 [[File:Band01_chunk002_p010_img006.jpg|thumb|C Mahl der hll. Bischöfe Ulrich und Konrad]]
-<!-- citation-page-bottom: Band01 p69 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=11 -->
-<!-- citation-page-top: Band01 p70 -->
 
 trommel sitzend Fortitudo (B3); Temperantia (B4) mit einem Schalengefäß und einem Zaum in den Händen.
 
@@ -139,10 +130,7 @@ D<sub>1-2</sub> GEBET UND BUSSE An den Schmalseiten des Freskos D setzt sich die
 [[File:Band01_chunk002_p011_img002.jpg|thumb|D2 Buße]]
 
 [[File:Band01_chunk002_p011_img003.jpg|thumb|D Pfarrer Zwinck empfiehlt seine Gemeinde der Fürbitte der Heiligen]]
-<!-- citation-page-bottom: Band01 p71 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=12 -->
-<!-- citation-page-top: Band01 p72 -->
 
 == Ikonographie ==
 
@@ -165,7 +153,3 @@ Müller-Hahl, Bernhard, (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech
 Neu, Wilhelm, Die Rechnungen der Pfarrkirche St. Ulrich in Eresing (1646–1804), in: Lechisarland 1969, S. 147–165.  
 
 [[File:Band01_chunk002_p012_img001.jpg|thumb|B Ausschnitt: Der hl. Ulrich empfängt das Siegeskreuz]]  
-<!-- citation-page-bottom: Band01 p73 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=13 -->
-{{End}}

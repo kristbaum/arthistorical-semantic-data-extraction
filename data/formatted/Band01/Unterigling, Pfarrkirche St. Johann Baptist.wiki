@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p248 -->
 
-<!-- header: UNTERIGLING -->
 
 
 == UNTERIGLING ==
@@ -76,10 +74,7 @@ B PREDIGT JOHANNES' DES TÄUFERS (Mt 3 1-12 u. Par.) In einer bergigen Landschaf
 a TAUFE JESU (Mt 3,13–17 u. Par.) Die Kartusch
 
 
-<!-- citation-page-bottom: Band01 p249 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=1 -->
-<!-- citation-page-top: Band01 p250 -->
 
 [[File:Band01_chunk006_p001_img001.jpg|thumb|Predigt Johannes des Täufers a Taufe Jesu b Johannes im Kerker A Enthauptung des Täufers]]
 
@@ -102,7 +97,3 @@ KDB I OB (1), S. 551
 Steichele-Schröder, Bd 8 (1932), S. 305.
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 500.
-<!-- citation-page-bottom: Band01 p251 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=2 -->
-{{End}}

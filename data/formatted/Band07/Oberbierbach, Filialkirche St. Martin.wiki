@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p238 -->
 
-<!-- header: OBERBIERBACH -->
 
 
 == OBERBIERBACH ==
@@ -90,12 +88,8 @@ A<sub>1</sub> (N) S. BALTHASAR. Balthasar ist als jugendlicher König mit Krone 
 
 
 [[File:Band07_chunk005_p020_img006.jpg|thumb|A, Kaspar A, A<sub>1</sub>. Die Heiligen]]
-<!-- citation-page-bottom: Band07 p239 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=21 -->
-<!-- citation-page-top: Band07 p240 -->
 
-<!-- header: OBERBIERBACH -->
 
 
 [[File:Band07_chunk005_p021_img001.jpg|thumb]]
@@ -146,14 +140,9 @@ In der Landschaft darunter ist ein brennendes Dorf sehr lebendig dargestellt. Im
 
 
 Um seinen Hals ist noch der Mühlstein gebunden; sein Haupt ist von Strahlen umgeben. Vom Dreifaltigkeitssymbol im Himmel fallen Gnadenstrahlen auf den toten Heiligen, über dem ein Adler schwebt.
-<!-- citation-page-bottom: Band07 p241 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=22 -->
-<!-- citation-page-top: Band07 p242 -->
 
-<!-- header: OBERBIERBACH -->
 
-<!-- header: OBERBIERBAC -->
 
 
 [[File:Band07_chunk005_p022_img001.jpg|thumb]]
@@ -181,14 +170,9 @@ D<sub>a</sub> Terena sordent (sordent; die irdischen Dinge werden verachtet). Ei
 
 
 [[File:Band07_chunk005_p022_img005.jpg|thumb|Der Kirchenraum nach Westen, an der Emporenbrüstung: EB<sub>1-1</sub>, EB<sub>3-d</sub> Christus, Apostel und Kirchenväter]]
-<!-- citation-page-bottom: Band07 p243 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=23 -->
-<!-- citation-page-top: Band07 p244 -->
 
-<!-- header: OBERBIERBACH -->
 
-<!-- header: Callinis Omnia -->
 
 
 [[File:Band07_chunk005_p023_img001.jpg|thumb|Brennende Kerze]]
@@ -212,10 +196,7 @@ Brenninger, Georg, Üppige Aiglstorffer-Werke und der klare Stil des (Kirchen-)B
 [[File:Band07_chunk005_p023_img002.jpg|thumb]]
 
 
-Pfarrkirche, Gemeinde Neuching, Erzdiözese München und Freising; z.Z. der Ausmalung war Oberneuching Monatspfar-<br>rei. Den Edelsitz Oberneuching zusammen mit der angren-<br>zenden Hofmark Ottenhofen besaßen die Grafen von Perusa (bis 1821), die zwar die Verwaltung des Kirchenvermögens
+Pfarrkirche, Gemeinde Neuching, Erzdiözese München und Freising; z.Z. der Ausmalung war Oberneuching Monatspfarrei. Den Edelsitz Oberneuching zusammen mit der angrenzenden Hofmark Ottenhofen besaßen die Grafen von Perusa (bis 1821), die zwar die Verwaltung des Kirchenvermögens
 
 
 [[File:Band07_chunk005_p023_img003.jpg|thumb|Der Kirchenraum]]
-
-
-{{End}}

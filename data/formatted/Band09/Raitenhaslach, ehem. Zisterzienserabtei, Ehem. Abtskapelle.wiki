@@ -43,12 +43,8 @@ Emanuel Mayr, geboren in Dillingen am 4.12.1716 als Sohn von Johann Andreas und 
 
 
 [[File:Band09_chunk004_p015_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p179 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk004.pdf#page=16 -->
-<!-- citation-page-top: Band09 p180 -->
 
-<!-- header: RAITENHASLACH -->
 
 kolleg in Burghausen und trat dann im Kloster Raitenhaslach ein, wo er am 7. 12. 1739 die Profeß ablegte. Die Theologie studierte er in Raitenhaslach, die Jurisprudenz in Salzburg. 1751 wurde er Archivar des Klosters, und damit wird der 35jährige in der Chronik als Charakter fassbar, als unermüdlicher und effektiver Arbeiter mit großem Ordnungs- und Schönheitssinn: »omnia nostri Archivi documenta, tempore belli in unum cumulum coniecta, et ideo confusa, eo in ordinem, cum notatione, inscriptione omnium fasciculorum et registrorum de super in omnibus scriniis repositorum non levi labore restituit« (BSB Clm 12536); in dieser Zeit schrieb er auch die Annalen über 116 Jahre Klostergeschichte. Seinen Fähigkeiten entsprach sein rascher Aufstieg im Kloster: 1755 wurde er Cellerar, 1756 außerdem Novizenmeister, 1758 Subprior und nach der Ermordung des Priors Georg Dunckl am 4. 12. 1758 noch im gleichen Jahr Prior. Am 9. 1. 1759 starb Abt Abundus Tschan und Emanuel Mayr wurde am 8.3.1759 zum Abt gewählt
 
@@ -81,5 +77,3 @@ A<sub>a</sub> Aufgehende Sonne Die Sonne, die die Nacht überwindet, steht für 
 A<sub>b</sub> Regenbogen Der Regenbogen ist Symbol für die Versöhnung Gottvaters mit den Menschen.
 
 A<sub>c</sub> Pelikan Der Pelikan nährt die Jungen mit seinem eigenen Blut und ist damit ein Sinnbild für den Opfertod Christi. A<sub>d</sub> Phönix Der Vogel Phönix, der sich im Feuer erneuert, ist Sinnbild der Auferstehung Christi.
-
-{{End}}

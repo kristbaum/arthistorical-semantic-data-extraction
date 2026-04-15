@@ -53,16 +53,3 @@ BHStA, Beschreibung 1748, HR I, 25/89 (Brief Cuvilliés vom 4. 4. 1764 über Abt
 Haeutle 1883, S. 109. Brunner 1977, S. 103. Thon 1977, Kat. Nr. 59
 
 Bachter, Falk, Balthasar Augustin Albrecht, Mittenwald 1981, S. 83.
-<!-- citation-page-bottom: Band03-2 p343 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk007.pdf#page=23 -->
-
-<!-- citation-page-top: Band03-2 p344 -->
-
-<!-- header: RESIDENZ -->
-
-<!-- header: SPEISESAAL -->
-
-<!-- header: EHEMALIGE CÄCILIENKAPELLE -->
-
-{{End}}

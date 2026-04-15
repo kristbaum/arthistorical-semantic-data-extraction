@@ -56,14 +56,9 @@ Erhaltungszustand und Restaurierungen: 1936 wurden Fresko B und C gereinigt; 196
 
 
 [[File:Band02_chunk003_p022_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p143 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=23 -->
-<!-- citation-page-top: Band02 p144 -->
 
-<!-- header: BICHI -->
 
-<!-- header: RICHI -->
 
 == Beschreibung und Ikonographie ==
 
@@ -89,10 +84,7 @@ Der hl. Georg ist in vornehmer Soldatentracht mit entblößtem Nacken dargestell
 
 
 [[File:Band02_chunk003_p023_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p145 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=24 -->
-<!-- citation-page-top: Band02 p146 -->
 
 [[File:Band02_chunk003_p024_img001.jpg|thumb|EU Fides-Ecclesia]]
 
@@ -129,7 +121,3 @@ Mindera, Karl, Benediktbeuern, Das Handwerk im Dienst der Kunst, München 1939, 
 -, Benediktbeuern, Kulturland und Kirchen (= GKF, Nr. 23), München 1957, S. 41 f.
 
 Matsche, Franz, Der Freskomaler Johann Jakob Zeiller (1708–1783), Marburg an der Lahn 1970, S. 247–60.
-<!-- citation-page-bottom: Band02 p147 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=25 -->
-{{End}}

@@ -38,14 +38,9 @@ Der Autor der Deckenfresken (A1-8, B, a-k) ist ebenfalls nicht überliefert. Es 
 
 
 [[File:Band02_chunk005_p012_img002.jpg|thumb|D Die Gemeinde Reichersbeuern begibt sich unter den Schutz der Gottesmutter]]
-<!-- citation-page-bottom: Band02 p223 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=13 -->
-<!-- citation-page-top: Band02 p224 -->
 
-<!-- header: REUTBERG -->
 
-<!-- header: REUTBERG -->
 
 stilistischen Gründen als Autor für die Deckenbilder nicht in Frage.
 
@@ -95,14 +90,9 @@ A3 REGINA PROPHETARUM Die Himmelskönigin mit Propheten; durch die Harfe ist Kö
 
 
 [[File:Band02_chunk005_p013_img001.jpg|thumb|A<sub>1-8</sub> Lauretanische Litanei – Anrufungen Mariens als Königin]]
-<!-- citation-page-bottom: Band02 p225 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=14 -->
-<!-- citation-page-top: Band02 p226 -->
 
-<!-- header: REUTBERG -->
 
-<!-- header: REUTBER -->
 
 
 [[File:Band02_chunk005_p014_img001.jpg|thumb|k Mater Salvatori]]
@@ -154,14 +144,9 @@ Am umlaufenden Gesims des Chores befindet sich die skulpturale Darstellung (Schn
 
 
 [[File:Band02_chunk005_p014_img012.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p227 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=15 -->
-<!-- citation-page-top: Band02 p228 -->
 
-<!-- header: REUTBERG -->
 
-<!-- header: SACHSENKAM -->
 
 
 [[File:Band02_chunk005_p015_img001.jpg|thumb]]
@@ -192,5 +177,3 @@ Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, Dießen 1913, S.
 Bavaria Franciscana Antiqua, Bd 4, München 1958, S. 443–64.
 
 Dilger, M. Petra, M. Angela Mayer, Josef Zimmermann, Kloster Reutberg (= KKF, Nr. 116), München <sup>6</sup>1977.
-
-{{End}}

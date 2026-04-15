@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p162 -->
 
-<!-- header: LEEDE -->
 
 
 == LEEDER ==
@@ -88,7 +86,3 @@ Braun-Augsburg, Bd 1, S. 159 f., Bd 2, S. 72 f. Fürst, Conrad, Das Fuchstal, Ka
 Leeder (o. V.), in: Deutsche Gaue, Gemeindebeschreibungen des Bezirksamts Kaufbeuren, 1923 ff. Neu, Wilhelm, Unbekannte Frühwerke des Baumeister Joseph Schmuzer, in: Lechisarland 1963, S. 20.
 
 Breuer, Tilman, Stadt und Landkreis Kaufbeuren (= Kurz inventar der Bayerischen Kunstdenkmale), München 1960, S. 149 ff.
-<!-- citation-page-bottom: Band01 p163 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=8 -->
-{{End}}

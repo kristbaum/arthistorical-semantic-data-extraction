@@ -44,14 +44,9 @@ Erhaltungszustand: Durchgehender Kuppelriß im S vom Fuß bis zum Scheitel; grö
 
 
 [[File:Band02_chunk004_p017_img002.jpg|thumb|Schlacht auf dem Lechfeld]]
-<!-- citation-page-bottom: Band02 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band02 p184 -->
 
-<!-- header: GRAFING -->
 
-<!-- header: GREILING -->
 
 
 [[File:Band02_chunk004_p018_img001.jpg|thumb|Stiftungsinschrift über dem Eingang]]
@@ -78,5 +73,3 @@ In der Apsisnische Freskoreste mit Gottvater und dem Hl. Geist und Engeln mit Pa
 
 
 KDB I OB (1), S. 873. Dehio-Gall OB, S. 57.
-
-{{End}}

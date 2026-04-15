@@ -12,7 +12,6 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band14 p264 -->
 
 Filialkirche, Pfarrei Rohrbach seit 1953, Gemeinde Rohrbach, Diözese Augsburg; z.Z. der Ausmalung war Waal Pfarrkirche. Von 1595-1773 gehörte die Pfarrei zum Jesuitenkolleg in München, das Präsentationsrecht hatte der Rektor inne. Nach Auflösung des Ordens präsentierte der bayerische Kurfürst, bevor dieser 1782 Güter, Rechte und Pflichten der Jesuiten an die Malteser übergab. Das Präsentationsrecht verblieb bis 1808 beim Großpriorat der Malteser in München und ging dann an den König von Bayern über. Gericht Pfaffenhofen a. d. Ilm.
 
@@ -26,14 +25,9 @@ Saalbau (18 × 7 m) ursprünglich zu drei, heute zu vier Achsen, mit einem gleic
 
 [[File:Band14_chunk006_p008_img001.jpg|thumb|Himmelfahrt Mariens (Johann Michael Singer 1780)]]  
 [[File:Band14_chunk006_p008_img002.jpg|thumb]]  
-<!-- citation-page-bottom: Band14 p265 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk006.pdf#page=9 -->
-<!-- citation-page-top: Band14 p266 -->
 
-<!-- header: WAAL -->
 
-<!-- header: WAAI -->
 
 fürst Karl Theodor von Bayern (1777-99). Die Kirche von Waal war nicht unvermögend. Im Jahr 1780 betrugen ihre Einnahmen 1748 fl. (StAM, fol. 96 v.). Darüber hinaus hatte Pfarrer Kümmerl sicher ein persönliches Interesse daran, dem Freskanten Johann Michael Singer, den er getraut hatte und dessen Versuch, sich in der benachbarten Hofmark Rohrbach niederzulassen, gescheitert war, einen Auftrag zu verschaffen.
 
@@ -108,5 +102,3 @@ Denkmaltopographie Pfaffenhofen, S. XIX, XXXIII, 250f. mit Abb., 360.
 Dehio OB 2006, S. 1339.
 
 Kratzsch, Klaus, Kunst im Landkreis Pfaffenhofen, Pfaffenhofen 2006, S. 79. B.S.
-<!-- citation-page-bottom: Band14 p267 -->
-{{End}}

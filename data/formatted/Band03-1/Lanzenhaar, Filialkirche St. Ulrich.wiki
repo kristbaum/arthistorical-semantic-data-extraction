@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p142 -->
 
-<!-- header: LANZENHAAR -->
 
 
 == LANZENHAAR ==
@@ -93,7 +91,3 @@ Zur Ikonographie vgl. AASS Julii, Tom. 2, 4, 7., S. 88 f. und Grafing, LKr. Bad-
 Schmidtsche Matrikel, Bd 2, S. 458. Hobmair, Karl, Hachinger Heimatbuch, Oberhaching 1979, S. 318.
 
 C.B.
-<!-- citation-page-bottom: Band03-1 p143 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=23 -->
-{{End}}

@@ -29,12 +29,8 @@ Im Pfarrhof befindet sich eine Entwurfsskizze, Ol auf Leinwand, 73,5 × 58 cm (a
 
 
 [[File:Band01_chunk008_p016_img003.jpg|thumb|D St. Leonhard leistet der Königin von Frankreich Beistand bei ihrer Niederkunft (Fälschung des 19. Jh.)]]
-<!-- citation-page-bottom: Band01 p381 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=17 -->
-<!-- citation-page-top: Band01 p382 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=17 -->
 
 == Befund ==
 
@@ -79,14 +75,9 @@ C IMMACULATA CONCEPTIO Über dem östlichen Rahmen, der durch ein schmales gemal
 [[File:Band01_chunk008_p017_img007.jpg|thumb]]
 
 [[File:Band01_chunk008_p017_img008.jpg|thumb|B Himmelfahrt Marien]]
-<!-- citation-page-bottom: Band01 p383 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=18 -->
-<!-- citation-page-top: Band01 p384 -->
 
-<!-- header: BERNBEUREN -->
 
-<!-- header: BERNBEURE -->
 
 6 DEPOSUIT POTENTES DE SEDE ET / EXALTA- UIT HUMILES Luc. C. I. V. 52. Maria, eine der Niedrigen, die vom Herrn sogar zur Gottesmutter erhöht wurde, sitzt in demütiger Geste mit geneigtem Haupt.
 
@@ -113,12 +104,8 @@ A Nach dem Protoevangelium des Jakobus (Hennecke-Schneemelcher, Bd 1, S. 283) wu
 Dem ikonographischen Typus der Immaculata conceptio (C) liegen Stellen des Hohenliedes und der Apokalypse zugrunde (vgl. LCI, Bd 2, Sp. 338 ff.). Mit einem Fuß zertritt sie als neue Eva das Haupt der erdbeherrschenden Schlange (Gen 3,15), die den todbringenden...
 
 [[File:Band01_chunk008_p018_img001.jpg|thumb|D Nikolaus und die drei unschuldigen Ritter]]
-<!-- citation-page-bottom: Band01 p385 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=19 -->
-<!-- citation-page-top: Band01 p386 -->
 
-<!-- header: BERNBEUREN -->
 
 
 [[File:Band01_chunk008_p019_img001.jpg|thumb]]
@@ -133,5 +120,3 @@ Die bildlichen Medaillondarstellungen 1–8 zum Magnificat, Vers 47–53 und Ver
 D schildert eine Szene aus dem Leben des Kirchenpatrons Nikolaus (Ribadeneira-Hornig, Bd 2, Sp. 937 f.). Während eines Gastmahls, bei dem der Bischof drei vom Kaiser gesandte Fürsten bewirtete, erfährt er, daß ein bestochener Landpfleger drei unschuldige Ritter hinrichten will. Er eilt mit den Gästen zur Richtstätte – diese stehen im Fresko rechts hinter Nikolaus. Dort reißt er zornig dem Henker das Schwert aus der Hand, mit dem dieser eben die bereits mit verbundenen Augen knienden Ritter enthaupten wollte.
 
 Literatur siehe S. 392
-
-{{End}}

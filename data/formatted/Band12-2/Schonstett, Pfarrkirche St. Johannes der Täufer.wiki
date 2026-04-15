@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p478 -->
 
-<!-- header: SCHONSTETT -->
 
 
 == SCHONSTETT ==
@@ -68,7 +66,3 @@ Mayer-Westermayer, Bd 1, S. 89–91. KDB I OB (2), S. 2057–58. Dehio 1990, S. 
 
 
 [[File:Band12-2_chunk004_p015_img001.jpg|thumb|A Krönung Mariens – Verehrung der Vier Erdteile (Balthasar Furtner 1756)]]
-<!-- citation-page-bottom: Band12 p479 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=16 -->
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p494 -->
 
-<!-- header: TATTENHAUSEN -->
 
 
 == TATTENHAUSEN ==
@@ -75,12 +73,8 @@ Bei den Voruntersuchungen der Firma Lauber, Bad Endorf vor der letzten Restaurie
 
 
 Die Darstellungen sind völlig flächig, die Konturen betont; die Farbigkeit ist mit der ausschließlichen Verwendung von Gelbgrau, Ocker, Weiß und Braun der Monochromie angenähert. Die Dekoration besteht aus Blattkränzen um die Hauptbilder.
-<!-- citation-page-bottom: Band12 p495 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=24 -->
-<!-- citation-page-top: Band12 p496 -->
 
-<!-- header: TATTENHAUSEN -->
 
 
 [[File:Band12-2_chunk004_p024_img001.jpg|thumb|Chorgewölbe mit MARIA- und IHS-Monogramm, 4-11 Apostel]]
@@ -113,5 +107,3 @@ Bergmaier, Peter, Tattenhausen, in: Der Mangfallgau 11, 1966, S. 139-55.
 Historischer Atlas von Bayern I, Bd 38 Rosenheim. Die Landgerichte Rosenheim und Auerburg und die Herrschaften Hohenaschau und Wildenwart (Gertrud Diepolder, Richard van Dülmen, Adolf Sandberger), München 1978, S. 49.
 
 UMRATHSHAUSEN
-
-{{End}}

@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band09 p144 -->
 
-<!-- header: NIEDERGOTTSAU -->
 
 
 == NIEDERGOTTSAU ==
@@ -71,7 +69,6 @@ Innerhalb des ungewöhnlich reichen mittelalterlichen Freskenzyklus im Chor und 
 A HEIMSÜCHUNG Ansicht nach Westen. Die Darstellung folgt Johann Georg Bergmüllers Kupferstich nach seinem Rosenkranzzyklus in der Dominikanerkirche Augsburg (Karin Friedlmaier, Johann Georg Bergmiller. Das druckgraphische Werk, München 1997). Aus dem Portal ihres Hauses treten Elisabeth und Zacharias. Elisabeth wendet sich Maria zu, die mit einem großen Sonnenhut auf der Eingangstreppe steht. Ihr folgt Joseph mit dem Gepäck. Im Hintergrund ein Obelisk
 
 B MARIÄ TEMPELGANG Bildschauplatz ist eine große Freitreppe, überwölbt von einer hohen Portalarchitektur, die sich in Bögen zum Hintergrund hin öffnet. Der Hohepriester
-<!-- citation-page-bottom: Band09 p145 -->
 
 
 [[File:Band09_chunk003_p023_img001.jpg|thumb|C Bruderschaftsbild]]
@@ -80,10 +77,7 @@ B MARIÄ TEMPELGANG Bildschauplatz ist eine große Freitreppe, überwölbt von e
 
 [[File:Band09_chunk003_p023_img002.jpg|thumb]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=24 -->
-<!-- citation-page-top: Band09 p146 -->
 
-<!-- header: NIEDERGOTTSAU -->
 
 
 [[File:Band09_chunk003_p024_img001.jpg|thumb]]
@@ -124,7 +118,3 @@ Haug, Heinrich, Albert Huber, Alois Stockner, Niedergottsau Mariä Himmelfahrt (
 
 
 [[File:Band09_chunk003_p024_img003.jpg|thumb|B Mariä Tempelgang]]
-<!-- citation-page-bottom: Band09 p147 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk003.pdf#page=25 -->
-{{End}}

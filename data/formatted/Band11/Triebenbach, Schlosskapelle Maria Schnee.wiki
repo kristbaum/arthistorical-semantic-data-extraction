@@ -38,10 +38,7 @@ In der Kirchenrechnung der Schloßkapelle Triebenbach für die erste Jahreshälf
 
 
 [[File:Band11_chunk006_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band11 p263 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk006.pdf#page=8 -->
-<!-- citation-page-top: Band11 p264 -->
 
 == Befund ==
 
@@ -82,10 +79,7 @@ Reindel-Schedl, Helga, Schloß Triebenbach, die Hofmark und ihre Inhaber, in: La
 Historischer Atlas I, Bd 55, Laufen an der Salzach (Helga Reindel-Schedl), München 1989, S. 448–51.  
 Dehio 1990, S. 1185.  
 Langwider 1756
-<!-- citation-page-bottom: Band11 p265 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk006.pdf#page=9 -->
-<!-- citation-page-top: Band11 p266 -->
 
 
 == LANDKREIS EBERSBERG ==
@@ -93,6 +87,3 @@ Langwider 1756
 
 
 == ALTENBURG ==
-
-
-{{End}}

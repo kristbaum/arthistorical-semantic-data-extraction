@@ -50,12 +50,8 @@ Die einzelnen Bildfelder werden hier in ihrer thematischen, der Deckengliederung
 1 ANNA SELBDRITT (Das Ovalfeld weist Feuchtigkeitsflecken auf und scheint in der Binnenzeichnung der Figuren beträchtlich erneuert zu sein.) Das mittelalterliche Andachtsbild ist im Sinne von Renaissance und Barock als symmetrisches Gruppenbild gestaltet. Anna rechts als würdige Matrone, Maria mädchenhafter, hier auch mit Kopfschleier, der Jesusknabe frontal im Segensgestus. Darüber schwebt die Geist-Taube.
 
 Die folgenden 7 Szenen entstammen den apokryph-legendären Berichten über Eltern und Jugend Mariens (Grundlage: Protoevangelium des Jakobus, vgl. Edgar Hennecke und Wilhelm Schneemelcher, Neutestamentliche Apokry-
-<!-- citation-page-bottom: Band01 p397 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=25 -->
-<!-- citation-page-top: Band01 p398 -->
 
-<!-- header: BURGGEN -->
 
 
 [[File:Band01_chunk008_p025_img001.jpg|thumb]]
@@ -90,19 +86,12 @@ Vier Szenen in den äußeren Bildfeldern der östlichen Deckenhälfte zeigen Vis
 13 COLETA SIEHT MARIA SALOME UND DEREN SÖHNE, Johannes Evangelist und Jakobus den Älteren (wenig beschädigt.) Hier hebt die Nonne – zur Seite des Altares – bei der Vision eine Hand zu ihren Augen. Die drei biblischen Gestalten, Johannes und Jakobus deutlich durch Attribute bezeichnet, sitzen auf einer Wolke.
 
 14 COLETA(?)SIEHT MARIA KLEOPHAS(?) (Stark durch Feuchtigkeit beschädigte Malerei, die obere deutlich abgesetzte Hälfte ist vielleicht erneuert.) Eine in Tracht und Typ genau übereinstimmend dargestellte Ordensschwester sieht eine weibliche Gestalt, in Typus und Gebärde der Maria Salome der vorher genannten Szene gleichend. Diese weist auf vier nebeneinander sitzende Männer, die jedoch nicht – wie zu erwarten – als die vier Söhne der Maria Kleophas, nämlich als Jakobus der Jüngere, Simon, Judas und Joseph, vielmehr als ein Greis und drei geistliche Würdenträger, zwei Bischöfe und ein Papst, bezeichnet sind. Die Würdenträger und der vielleicht als Prophet zu deutende Greis erinnern im Zusammenhang mit der Immaculata-Conceptio-Thematik an Disputà-Darstellungen, doch ist eine solche als Visionsbild unbekannt. Vielleicht sind die vier Männergestalten bei einer Restaurierung mißverstanden und umgeändert worden, wofür auch das ungewöhnliche Attribut in Händen des Papstes spricht – es handelt sich hierbei offensichtlich um die Säge des Apostels Simon.
-<!-- citation-page-bottom: Band01 p399 -->
 
 [[File:Band01_chunk009_p001_img001.jpg|thumb]]  
 [[File:Band01_chunk009_p001_img002.jpg|thumb|St.-Anna-Szenen Ostseite]]  
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=1 -->  
-<!-- citation-page-top: Band01 p400 -->  
-<!-- citation-page-bottom: Band01 p401 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=2 -->
-<!-- citation-page-top: Band01 p402 -->
 
-<!-- header: BURGGEN -->
 
 DEUTENHAUSEN
 
@@ -137,5 +126,3 @@ Fuchs, Adolf, Franz Xaver Bernhard »de Eggenthall« und seine Künstlersippe, i
 Hofmann, Sigfrid, Die Sakralbauten der Gemeinde Burggen, in: Lechisarland 1963, S. 103 ff.
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22–23), München 1971, S. 253 f.
-
-{{End}}

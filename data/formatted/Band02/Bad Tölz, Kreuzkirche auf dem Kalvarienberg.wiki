@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p28 -->
 
-<!-- header: BAD TOLZ -->
 
-<!-- header: BAD T -->
 
 Kreuzkirche auf dem Kalvarienberg, Wallfahrt und Eremitorium, Stadtpfarrei Bad Tölz, Erzdiözese München und Freising; z. Z. der Ausmalung Benefizium, Landgericht Tölz
 
@@ -81,14 +78,9 @@ Der vorherrschende violette Grundton der Wolken wird vom zartfarbigen Inkarnat d
 B VERHERRLICHUNG DES KREUZES In das annähernd quadratische Bildfeld ragen an den vier Seiten Stichkappen herein. Die illusionierte Gesims-Rahmung hat einen kastenartigen Charakter. Die Hauptansicht gegen N mit einer terrestrischen Szenerie verlangt den Betrachterstandort am Eingang zum Kirchenraum unter der südlichen Stichkappe. Die Komposition in enormer Höhenillusion folgt der beherrschenden Bilddiagonale, den höchsten Punkt bezeichnet die Gloriole der Hl.-Geist-Taube, der exzentrisch nach SW verlegte Fluchtpunkt, den tiefsten der Sturz Luzifers und Superbias in der NO-Ecke. Die Figuren scheinen über den Gesimsrahmen hinaus in die Kirche herabzustürzen. Der Himmelsschauplatz, eine aus spiralförmig angeordneten Wolken gebildete Kuppel, nimmt zwei Drittel des Bildfeldes ein. Die Figuren in der Himmelskuppel sind stark untersichtig und verkürzt dargestellt. Den Mittelpunkt bildet die pyramidal aufgebaute Gruppe von Gottvater, bezeichnet durch Jachwe-Zeichen im Dreieck, Zepter und Weltkugel, vor dem Kreuz thronend, unter dem Christus-Salvator Adam und Eva empfängt. Die Hl. Geist-Taube vor einem Lichtdreieck in der Gloriensonne schwebt darüber. Dienende Engel und Putti umgeben die Gruppe.
 
 Dem inneren Wolkenkranz schließt sich rechts eine Gruppe von Martyrern mit Kreuzen an. Unten, am äußeren Wolkenbogen, Weihrauchfaß schwingende Engel im W und im S ein Engelskonzert, im O folgen Putti Michael nach. Der Erzengel stürzt Luzifer mit Feuerschwert und Blitzen, die vom Kreuzzeichen des Schildes ausgehen. Luzifer hat Schlangenhaar und Fledermausflügel und ist von der Paradiesesschlange (Satan) umwunden. Mit ihm stürzt die Ursünde Superbia, eine prächtig gekleidete und
-<!-- citation-page-bottom: Band02 p29 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=16 -->
-<!-- citation-page-top: Band02 p30 -->
 
-<!-- header: BAD TOLZ -->
 
-<!-- header: BAD TÖLZ -->
 
 
 [[File:Band02_chunk001_p016_img001.jpg|thumb|Marienszenen – Ave-Maria-Bitter]]
@@ -124,14 +116,9 @@ B<sub>1-6</sub> MARIENSZENEN Eine Lorbeerblattgirlande, die mit Bändern am Gesi
 
 
 [[File:Band02_chunk001_p016_img007.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p31 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=17 -->
-<!-- citation-page-top: Band02 p32 -->
 
-<!-- header: BAD TOLZ -->
 
-<!-- header: BAD TOL -->
 
 
 [[File:Band02_chunk001_p017_img001.jpg|thumb|C Apokalyptisches Lamm]]
@@ -180,5 +167,3 @@ C DAS APOKALYPTISCHE LAMM, das allein würdig ist, das Buch mit den sieben Siege
 W<sub>1-4</sub> KREUZES-SZENEN Die vier Wandbilder des Hauptraumes stellen drei Szenen aus der Legende der Wiederauffindung des Hl. Kreuzes durch Helena und die Verehrung des Hl. Kreuzes durch die Vier Erdteile dar.
 
 Literatur siehe S. 35
-
-{{End}}

@@ -13,9 +13,7 @@
 |AutorIn2=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band04 p140 -->
 
-<!-- header: GRAFRATI -->
 
 
 == GRAFRATH ==
@@ -52,14 +50,9 @@ Zu C Der hl. Rasso als Patron. Kompositionsskizze, Rötel grau laviert und quadr
 
 
 [[File:Band04_chunk003_p021_img003.jpg|thumb|J. G. Bergmüller, Kompositionsskizze zu B Gründung von Kloster Grafrath, Stuttgart]]
-<!-- citation-page-bottom: Band04 p141 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=22 -->
-<!-- citation-page-top: Band04 p142 -->
 
-<!-- header: GRAFRATI -->
 
-<!-- header: GRAFRATH -->
 
 Röhrer im Besitze der Stadt Augsburg, Augsburg 1926, S. 46, Kat.Nr. III, 28; Rolf Biedermann, Meisterzeichnungen des deutschen Barock aus dem Besitz der Städtischen Kunstsammlungen Augsburg, Ausstellungskatalog, Augsburg 1987, Nr. 102, mit Abb.; Johann Georg Bergmüller 1688-1762. Zur 300. Wiederkehr seines Geburtsjahres. Katalog der Ausstellung in Türkheim, Weißenhorn 1988, Nr. 21 und Abb. 20 (Rolf Biedermann).
 
@@ -111,10 +104,7 @@ Vor der von Gelb-Braun bis zu Grau-Violett spielenden Hintergrundsarchitektur, d
 
 
 [[File:Band04_chunk003_p022_img003.jpg|thumb|J. G. Bergmüller, Hl. Rasso, vielleicht für Grafrath, Augsburg]]
-<!-- citation-page-bottom: Band04 p143 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=23 -->
-<!-- citation-page-top: Band04 p144 -->
 
 [[File:Band04_chunk003_p023_img001.jpg|thumb|C Hl. Rasso als Patron]]
 [[File:Band04_chunk003_p023_img002.jpg|thumb]]
@@ -133,29 +123,18 @@ Von musizierenden Engeln mit Laute, Violoncello und Flöte umgeben, spielt die h
 
 Durch die Wolkenformation unten werden die in starker Untersicht gesehenen Figuren der Musizierenden weit nach oben gerückt. Diesem Höhenzug begegnet der herabschwebende Engel mit dem Buch. Die Schräge seines Körpers ist ein wichtiges Moment innerhalb des strengen Kompositionsgerüsts. Aus dem lichten Grau-Beige ist das Blau-Rosa-Gold-
 
-<!-- citation-page-bottom: Band04 p145 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=24 -->
-<!-- citation-page-top: Band04 p146 -->
 
-<!-- header: CRAFRATH -->
-<!-- header: GRAFRATH -->
 
 [[File:Band04_chunk003_p024_img001.jpg|thumb]]
 
 [[File:Band04_chunk003_p024_img002.jpg|thumb|Der hl. Rasso, Patron von Grafrath, Ausschnitt von Fresko C]]
-<!-- citation-page-bottom: Band04 p147 -->
 
 '''GRAFRATH'''  
 Der hl. Rasso, Patron von Grafrath, Ausschnitt von Fresko C  
 
-<!-- Scanfragmente entfernt: Kopf-/Fußzeilen, Zeichensalat -->  
-<!-- OCR-Fehler korrigiert: "E" am Ende des Textes aus Transkribus entfernt -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk003.pdf#page=25 -->
-<!-- citation-page-top: Band04 p148 -->
 
-<!-- header: GRAFRATE -->
 
 gelb der hl. Cäcilie hervorgehoben, wirkungsvoll in Kontrast gesetzt zu dem schwereren Rot-Violett und Rot-Grün der großen Engel links und rechts.
 
@@ -205,6 +184,3 @@ Kat. Johann Michael Fischer (1692-1766), hg. von Gabriele Dischinger und Franz P
 
 
 == GRUNERTSHOFEN ==
-
-
-{{End}}

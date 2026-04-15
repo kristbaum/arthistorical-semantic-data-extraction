@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p116 -->
 
 == Ehem. Speisesaal, jetzt Bibliotheksraum ==
 
@@ -68,13 +67,8 @@ Die Berührung der Füße Christi durch Maria Magdalena bedeutet gleichzeitig Ta
 
 Das Thema der Fünf Sinne, das in der niederländischen Malerei des 16. und 17. Jh. eines der Schlüsselthemen war (s. Hans Kauffmann, Die Fünfsinne in der niederländischen Malerei des 17. Jahrhunderts, in: Festschrift für Dagobert Frey, Breslau 1943), ist im süddeutschen Bereich in der Deckenmalerei selten. Wie im Stil ist auch in der Thematik eine Übernahme aus dem Niederländischen
 
-<!-- citation-page-bottom: Band02 p117 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=10 -->
-<!-- citation-page-top: Band02 p118 -->
 
-<!-- header: BENEDIKTBEIJERN -->
-<!-- header: BENEDIKTBEUERN -->
 
 [[File:Band02_chunk003_p010_img001.jpg|thumb]]
 
@@ -115,5 +109,3 @@ Die beiden Kartuschfelder 1 und 3 sind von je zwei Stuckallegorien flankiert, di
 Die Monatsdarstellungen an der Wand entsprechen der allgemeinen Thematik des ganzen Südtraktes (s. Neuer Festsaal S. 103).
 
 Literatur siehe S. 133
-
-{{End}}

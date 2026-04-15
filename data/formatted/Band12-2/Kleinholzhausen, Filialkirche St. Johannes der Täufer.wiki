@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p332 -->
 
-<!-- header: KLEINHOLZHAUSEN -->
 
 
 == KLEINHOLZHAUSEN ==
@@ -26,7 +24,7 @@ Filialkirche, Pfarrei Litzldorf, Gemeinde Raubling, Erzdiözese München und Fre
 '''Patrozinium:''' St. Johannes der Täufer
 
 
-'''Zum Bauwerk:''' Der Vorgängerbau, ein spätgotisches Kirchlein, stand »früher im Dorfe; erst im Jahre 1738 wurde es unte Vermittlung und Mithilfe ... Stephan Maiers an dem jetzige<br>freien Platze vor dem Dorf erbaut«. Bischöflicher Konsens zum Neubau anstatt dieser »totaliter ruinosen« Kirche am 1.8.1731, nachdem der weltliche Konsens durch den Grafen Preysing schon gegeben war. Grundsteinlegung durch Felix Martin Joseph Högg, Pfarrer von Au, im Frühjahr 1732, Bau 1732/33 durch Abraham Millauer, Maurermeister von der Hausstatt bei Feilnbach, Weihe am 17.9.1740 durch Johann Ferdinand Freiherr von Poedigheim, Weihbischof von Freising. Neuer, reich ornamentierter Hochaltar 1770, nach Bomhard vielleicht von Ignaz Stumbeck, Bildhauer in Aibling; Fassung laut Inschrift von Joseph Weidinger, Maler Son zu Ebbs. Sehr kleine Kirche, einschiffiger Raum zu drei Jochen (10,50×5,80) mit Pilastergliederung und verkröpftem Gebälk, Empore im W. Wenig eingezogene Altarnische mit halbkreisförmigem Schluß (3,00×4,80). Gute Belichtung durch große Fenster mit segmentförmigem Schluß, im LHs durch je zwei von N und S, in der Altarnische von Nordost und Südost. Querovales Fenster in der Westwand über der Empore.
+'''Zum Bauwerk:''' Der Vorgängerbau, ein spätgotisches Kirchlein, stand »früher im Dorfe; erst im Jahre 1738 wurde es unte Vermittlung und Mithilfe ... Stephan Maiers an dem jetzige freien Platze vor dem Dorf erbaut«. Bischöflicher Konsens zum Neubau anstatt dieser »totaliter ruinosen« Kirche am 1.8.1731, nachdem der weltliche Konsens durch den Grafen Preysing schon gegeben war. Grundsteinlegung durch Felix Martin Joseph Högg, Pfarrer von Au, im Frühjahr 1732, Bau 1732/33 durch Abraham Millauer, Maurermeister von der Hausstatt bei Feilnbach, Weihe am 17.9.1740 durch Johann Ferdinand Freiherr von Poedigheim, Weihbischof von Freising. Neuer, reich ornamentierter Hochaltar 1770, nach Bomhard vielleicht von Ignaz Stumbeck, Bildhauer in Aibling; Fassung laut Inschrift von Joseph Weidinger, Maler Son zu Ebbs. Sehr kleine Kirche, einschiffiger Raum zu drei Jochen (10,50×5,80) mit Pilastergliederung und verkröpftem Gebälk, Empore im W. Wenig eingezogene Altarnische mit halbkreisförmigem Schluß (3,00×4,80). Gute Belichtung durch große Fenster mit segmentförmigem Schluß, im LHs durch je zwei von N und S, in der Altarnische von Nordost und Südost. Querovales Fenster in der Westwand über der Empore.
 
 
 [[File:Band12-2_chunk001_p017_img001.jpg|thumb]]
@@ -65,12 +63,8 @@ Rahmen: A-C, 1-4, C<sub>1-2</sub> glatte Stuckprofile; D über dem Stuckgebälk 
 Technik: Fresko; alle Deckenbilder sind polychrom
 
 Maße: A Höhe 6,20 m; 1,70 x 2,60
-<!-- citation-page-bottom: Band12 p333 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=18 -->
-<!-- citation-page-top: Band12 p334 -->
 
-<!-- header: KLEINHOLZHAUSEN -->
 
 
 [[File:Band12-2_chunk001_p018_img001.jpg|thumb]]
@@ -105,7 +99,6 @@ C TAUFE JESU (Mt 3,13-17) In einer weiten Flußlandschaft mit Hügeln im Hinterg
 C<sub>1</sub> EVANGELIST MARKUS Innenraum, in dem der Evangelist an einem Tisch sitzt und in ein Buch schreibt. Neben ihm sitzt der Löwe, sein Attribut.
 
 C<sub>2</sub> EVANGELIST LUKAS Innenraum, in dem der Evangelist an einem Tisch sitzt und in ein Buch schreibt. Neben ihm sitzt der Büffel, sein Attribut.
-<!-- citation-page-bottom: Band12 p335 -->
 
 
 [[File:Band12-2_chunk001_p018_img002.jpg|thumb]]
@@ -128,10 +121,7 @@ C<sub>2</sub> EVANGELIST LUKAS Innenraum, in dem der Evangelist an einem Tisch s
 
 [[File:Band12-2_chunk001_p018_img008.jpg|thumb|C<sub>2</sub> Evangelist Lukas]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=19 -->
-<!-- citation-page-top: Band12 p336 -->
 
-<!-- header: KLEINHOLZHAUSEN -->
 
 
 [[File:Band12-2_chunk001_p019_img001.jpg|thumb|D Auge Gottes mit den Evangelisten Matthäus und Johannes (Sebastian Rechenauer d. Ä.]]
@@ -170,5 +160,3 @@ Rosenegger, Josef und Nikolai Molodovsky, Meister im Inntal (= Kleine Pannonia-R
 Schmitter, E., St. Johannes der Täufer Kleinholzhausen. Filialkirche der Pfarrei Litzldorf. Geschichtlicher Rückblick zur Kirchenrenovierung 1985 (vervielfältigtes Ms).
 
 Dehio 1990, S. 544.
-
-{{End}}

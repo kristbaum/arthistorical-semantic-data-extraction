@@ -12,11 +12,8 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p154 -->
 
-<!-- header: KOLLBACH -->
 
-<!-- header: KREUZHOLZHAUSEN -->
 
 
 
@@ -66,5 +63,3 @@ StAM, LRA 3445
 AEM, Pfarrakten Kollbach: Pfarrbeschreibung: Rauten II
 
 Schmidtsche Matrikel, Bd 2, S. 197 f. Mayer-Westermayer, Bd 1, S. 166–71. KDB I OB (1), S. 304. Kunst- und Kulturdenkmäler 1977, S. 29 Dehio 1990, S. 559.
-
-{{End}}

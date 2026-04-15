@@ -34,10 +34,7 @@ Saalbau zu 6 Jochen mit Wandpfeilergliederung, eingezogener doppeljochiger AR mi
 
 
 [[File:Band02_chunk011_p007_img006.jpg|thumb|A Laurentius vor dem Kaiser]]
-<!-- citation-page-bottom: Band02 p513 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=8 -->
-<!-- citation-page-top: Band02 p514 -->
 
 
 [[File:Band02_chunk011_p008_img001.jpg|thumb|4 Taufe des Hippoly]]
@@ -120,10 +117,7 @@ Für die vier Embleme hat das Emblembuch Monumentum Extremi Honoris ... Principi
 
 
 [[File:Band02_chunk011_p008_img011.jpg|thumb|D]]
-<!-- citation-page-bottom: Band02 p515 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=9 -->
-<!-- citation-page-top: Band02 p516 -->
 
 == HOLZKIRCHEN ==  
 
@@ -156,5 +150,3 @@ Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, München 1913, S
 Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirchen, München 1981.  
 
 == KLEINHOHENKIRCHEN ==  
-
-{{End}}

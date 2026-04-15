@@ -12,11 +12,8 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p106 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · MOGLING -->
 
-<!-- header: MOGLING -->
 
 Nebenkirche der Pfarrei Trostberg-Schwarzau (seit 1805 in Privatbesitz), Stadt Trostberg, Erzdiözese München und Freising; z.Z. der Ausmalung war die Kirche Kloster Baumburg »ad mensam Praepositi« inkorporiert, Erzbistum Salzburg, Archidiakonat Baumburg. In Mögling befand sich ein Mariengnadenbild, das örtlich große Verehrung genoß. 1788 war »eine 30tägige Andacht unter nicht geringem Zulauf des Volks bereits eingeführt« (AEM). Das Dorf Mögling bestand damals nur aus zwei Bauernhöfen und einer Mühle. Gericht Trostberg
 
@@ -24,7 +21,7 @@ Nebenkirche der Pfarrei Trostberg-Schwarzau (seit 1805 in Privatbesitz), Stadt T
 '''Patrozinium:''' Mariä Himmelfahrt
 
 
-'''Zum Bauwerk:''' Von einem spätgotischen Vorgängerbau um 1445 ist der Chor erhalten, das LHs wurde 1757/58 durch den Baumeister Franz Alois Mayr von Trostberg umgestaltet. Der Rokokoaltar mit den seitlichen Durchgängen stammt aus der Zeit der Neudekoration 1758. Nach der Säkularisierung wurde die Kirche 1805 zum Abbruch bestimmt, exsekriert und versteigert. Der Möglinger Müller Johann Nepomuk Liner hat die des Gnadenbildes und aller Paramente beraubte Kirche »durch Kauf an sich gebracht, dieselbe aber nicht abge<br>brochen, sondern fortwährend in ordentlichem baulicher Stand erhalten« (Preißl 1837). Sein Sohn Sebastian Linner ließ sie »schöner wieder herstellen, als sie ehemals gewesen« sorgte für eine gründliche Baureparatur, beschaffte Paramente, richtete den Altar wieder auf, ließ ein neues Gnadenbild Maria-Hilf malen und betrieb endlich die Wieder-Benedizierung, die, nachdem er die Kirche mit Kapital versehen und sich zum Bauunterhalt verpflichtet hatte, am 12.11.1837 durch den Trostberger Pfarrer Joseph Preißl durchgeführt wurde (Inschrift in einer Kartusche am Chorbogen Gott allein / sei die / Ehre 1758 1837). Preißl schrieb 1865, viele Jahre später sei auch das alte Gnadenbild der Kirche wieder zurückgegeben worden.
+'''Zum Bauwerk:''' Von einem spätgotischen Vorgängerbau um 1445 ist der Chor erhalten, das LHs wurde 1757/58 durch den Baumeister Franz Alois Mayr von Trostberg umgestaltet. Der Rokokoaltar mit den seitlichen Durchgängen stammt aus der Zeit der Neudekoration 1758. Nach der Säkularisierung wurde die Kirche 1805 zum Abbruch bestimmt, exsekriert und versteigert. Der Möglinger Müller Johann Nepomuk Liner hat die des Gnadenbildes und aller Paramente beraubte Kirche »durch Kauf an sich gebracht, dieselbe aber nicht abge brochen, sondern fortwährend in ordentlichem baulicher Stand erhalten« (Preißl 1837). Sein Sohn Sebastian Linner ließ sie »schöner wieder herstellen, als sie ehemals gewesen« sorgte für eine gründliche Baureparatur, beschaffte Paramente, richtete den Altar wieder auf, ließ ein neues Gnadenbild Maria-Hilf malen und betrieb endlich die Wieder-Benedizierung, die, nachdem er die Kirche mit Kapital versehen und sich zum Bauunterhalt verpflichtet hatte, am 12.11.1837 durch den Trostberger Pfarrer Joseph Preißl durchgeführt wurde (Inschrift in einer Kartusche am Chorbogen Gott allein / sei die / Ehre 1758 1837). Preißl schrieb 1865, viele Jahre später sei auch das alte Gnadenbild der Kirche wieder zurückgegeben worden.
 
 1934 beantragte der damalige Besitzer Huber den Bau einer Priesterwohnung an der Kirche (AEM, Bauten II), wozu es nicht kam.
 
@@ -48,10 +45,7 @@ Erhaltungszustand und Restaurierungen: Restaurierungen 1837 und 1901/02. Von der
 
 
 [[File:Band11_chunk003_p004_img001.jpg|thumb|Himmelfahrt Mariens (Joseph Hartmann 1758)]]
-<!-- citation-page-bottom: Band11 p107 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk003.pdf#page=5 -->
-<!-- citation-page-top: Band11 p108 -->
 
 LANDKREIS TRAUNSTEIN · MÖGLING
 
@@ -61,10 +55,7 @@ LANDKREIS TRAUNSTEIN · MÖGLING
 
 
 [[File:Band11_chunk003_p005_img002.jpg|thumb|Geburt Mariens (Joseph Moy 1758)]]
-<!-- citation-page-bottom: Band11 p109 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk003.pdf#page=6 -->
-<!-- citation-page-top: Band11 p110 -->
 
 
 == LANDKREIS TRAUNSTEIN · MÖGLING ==
@@ -111,5 +102,3 @@ Dehio 1990, S. 642
 Barockmalers Joseph Hartmann mit einem Katalog seiner Fresken (ungedr. Magisterarbeit) München 1994, S. 47–55. Paula, Georg, Die Meister und Gesellen der Augsburger Malerzunft von 1648 bis 1827, in: Zeitschrift des Historischen Vereins für Schwaben 92, 1999. Johann Michael Moy S. 102. 110, 123.
 
 A. B.
-
-{{End}}

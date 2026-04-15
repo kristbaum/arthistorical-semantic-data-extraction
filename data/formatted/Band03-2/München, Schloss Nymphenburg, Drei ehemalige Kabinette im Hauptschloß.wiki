@@ -12,11 +12,8 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band03-2 p424 -->
 
-<!-- header: NYMPHENBURG -->
 
-<!-- header: QUELLEN UND LITERATUI -->
 
 
 == VERLORENE DECKENMALEREIEN ==
@@ -63,5 +60,3 @@ Chinoiserien. Das Kabinett ist 1751 im Faßmann-Inventar aufgeführt »Cabinet d
 Verbleib: Die Deckenmalerei ist nicht erhalten. Im Inventar von 1751 ist im ersten südlichen Pavillon im ersten Geschoß ein Groteskenplafond erwähnt, der in dem Inventar 1758 und in den folgenden nicht mehr aufscheint, möglicherweise inzwischen übermalt worden war.
 
 Darstellung: Groteskenmalerei
-
-{{End}}

@@ -34,12 +34,8 @@ Die Ausmalung des LHs ist das letzte Freskowerk des Münchner Hofmalers Thomas C
 
 
 [[File:Band03-1_chunk004_p007_img005.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p163 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=8 -->
-<!-- citation-page-top: Band03-1 p164 -->
 
-<!-- header: SIEGERTSBRUNN -->
 
 
 [[File:Band03-1_chunk004_p008_img001.jpg|thumb]]
@@ -95,14 +91,9 @@ Die Komposition der figürlichen Szene folgt einem sehr gleichmäßigen, statisc
 
 
 [[File:Band03-1_chunk004_p008_img005.jpg|thumb|B St. Leonhard als Fürbitter B Evans]]
-<!-- citation-page-bottom: Band03-1 p165 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=9 -->
-<!-- citation-page-top: Band03-1 p166 -->
 
-<!-- header: SIEGERTSBRUNN -->
 
-<!-- header: SIEGERTSBRUNN -->
 
 Auf der linken Seite werden die Kranken vorgeführt: ein Mann mit Pestglöckchen, eine junge Frau, die einen vornübergebeugten Mann stützt, zwei Mütter mit Kindern – die eine mit dem von sich gestreckten leblosen Kinderkörper, eine andere Frau, die eine ohnmächtige Kranke hält, außerdem ein Gefangener mit Handfessel. Auf der rechten Seite Kühe, Pferde und ein Schaf, bei ihnen ein Bauer im blauen Gehrock mit Frau und Tochter; ganz im Vordergrund ein Bub über seinem zusammengebrochenen Tier kauernd.
 
@@ -139,10 +130,7 @@ C<sub>1</sub> Johannes von Nepomuk ist traditionell mit Almutie und Birett darge
 C<sub>2</sub> Die fünf auf den bärtigen Heiligen herabfallenden Kreuze bezeichnen denselben wohl als den Jesuitenheiligen Franz Xaver (vgl. die Darstellung C. Th. Schefflers von 1754 in Hl. Kreuz, Landsberg am Lech, CBD, Bd 1, S. 137, 140). Die Heiligen Johann von Nepomuk und Franz Xaver wurden häufig zusammen dargestellt.
 
 [[File:Band03-1_chunk004_p009_img006.jpg|thumb]]
-<!-- citation-page-bottom: Band03-1 p167 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk004.pdf#page=10 -->
-<!-- citation-page-top: Band03-1 p168 -->
 
 == SIEGERTSBRUNN ==
 
@@ -187,6 +175,3 @@ Skrabal, Gerhard, St. Leonhard zu Siegertsbrunn, in: Münchner Stadtanzeiger, Di
 
 
 == TAUFKIRCHEN ==
-
-
-{{End}}

@@ -54,14 +54,9 @@ Die Gesamtdekoration der Decken in Gotzing liegt qualitativ unter der der übrig
 
 
 [[File:Band02_chunk011_p002_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p503 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=3 -->
-<!-- citation-page-top: Band02 p504 -->
 
-<!-- header: GOTZING -->
 
-<!-- header: GOTZING -->
 
 A KREUZESPROBE Das sehr lange und verhältnismäßig schmale Bildfeld zeigt eine einansichtige Szene. Der Aufnahmestandpunkt liegt unter dem westlichen Bilddrittel. Um das lange Format zu bewältigen, bringt Gaill einen extrem tiefen Vordergrund, der ins Bild einführt. Hier, auf einer Wiese mit einer tief ausgehobenen Grube, liegen die drei Kreuze von Golgotha. In ihrer Anordnung und Verkürzung in die Tiefe wird versucht, den weiten Vordergrund als Raum faßbar zu machen.
 
@@ -97,14 +92,9 @@ A1 DAS LEBENDE KREUZ In der Mitte ist ein Kruzifixus zu sehen, eine weibliche Ge
 
 
 [[File:Band02_chunk011_p003_img001.jpg|thumb|A Kreuzesprobe]]
-<!-- citation-page-bottom: Band02 p505 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=4 -->
-<!-- citation-page-top: Band02 p506 -->
 
-<!-- header: GOTZING -->
 
-<!-- header: GOTZINO -->
 
 
 [[File:Band02_chunk011_p004_img001.jpg|thumb|A<sub>5</sub> Schlacht an der Milvischen Brücke]]
@@ -146,10 +136,7 @@ C ENTHAUPTUNG DES JAKOBUS MAJOR Als erster der Apostel erlitt Jakobus d.Ä. im J
 
 
 links im Vordergrund ist durch das weite Gewand und eine Art Mitra, die mit hebräischen Schriftzeichen versehen ist, wohl als Schriftgelehrter bezeichnet; den Hohenpriester dahinter kennzeichnen Ephod und Mitra. In dieser Gruppe 
-<!-- citation-page-bottom: Band02 p507 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=5 -->
-<!-- citation-page-top: Band02 p508 -->
 
 a-f JAKOBUS-SZENEN in chronologischer Folge:
 
@@ -172,5 +159,3 @@ b ERWECKUNG DES SELBSTMÖRDERS Auf einer Wiese kniet Maria; bei ihr steht – un
 Mayer-Westermayer, Bd 2, S. 45 f. KDB I OB (2), S. 1460 f.
 
 Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nach den Tagebüchern des Chorherrn L. J. Ott, in: Beiträge zur altbayerischen Kirchengeschichte, Bd 30, 1976, S. 117.
-
-{{End}}

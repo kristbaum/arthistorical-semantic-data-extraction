@@ -22,7 +22,7 @@ Die Wandgliederung des Viscardi-Saales entsprach in etwa der endgültigen mit je
 
 1756/58 wurden Stuckdekoration und Deckenmalerei in Saal, im Gartensaal und auf der Empore entfernt. Neustukkierung und dritte Ausmalung durch Johann Baptist Zimmermann.
 
-Rechteckiger Saal mit Kolossal-Pilastergliederung; Belichtung von O durch drei rundbogige Fenstertüren, die zur stadtseitigen Terrasse führen, sowie durch drei darüberliegende rundbogige Fenster und querovale Ochsenaugen im<br>Mezzanin. Der Saal ist durch drei hohe, offene Bogenstel-
+Rechteckiger Saal mit Kolossal-Pilastergliederung; Belichtung von O durch drei rundbogige Fenstertüren, die zur stadtseitigen Terrasse führen, sowie durch drei darüberliegende rundbogige Fenster und querovale Ochsenaugen im Mezzanin. Der Saal ist durch drei hohe, offene Bogenstel-
 
 lungen in zwei Geschossen von dem nach W anschließenden Gartensaal und der darüberliegenden Musikempore getrennt. Diese beiden erhalten ihr Licht im Hauptgeschoss durch Fenstertüren und im zweiten Geschoß durch Fenster. Durch die weiten Bogenöffnungen wird auch der Saal von W her belichtet.
 
@@ -42,17 +42,12 @@ In dem fraglichen Zeitraum 1675-79 wurden vom Hof zwei Maler besoldet, die für 
 
 Antonio Triva, Jean Delamonce und Stefano Catani (der keine feste Besoldung erhielt) sind also als Maler für Nymphenburg während der ersten Ausstattungszeit des Saales nachgewiesen. Eine Rechnung des Farbenreibers Gregor Schecker gibt Auskunft über Technik und Maße der Bilder: »3 Diecher jedes 22 schuh lang Auf den Sall naher Nimphenburg ...« (GHA, Korr. Akt 668/II Nr. 127). Die Gemälde waren demnach auf Leinwand ausgeführt und in die stuckierte Decke eingesetzt, jedes der drei Bilder war ca. 6,60 m lang. Da Stuckdekoration und Felderteilung bei der zweiten Ausmalung durch Gumpp beibehalten wurden, ist eine Rekonstruktion der Felderteilung möglich.
 
-Die in den Quellen überlieferten Fakten reichen nicht aus, um eine Rekonstruktion der Bildausstattung im Saal wagen zu können. Sie sagen nicht mehr aus, als daß der Saal 1675/76 eine Stuckdekoration erhielt, die für die Ausstattung 1701/02 übernommen wurde (S. 356) und daß er – laut Wening – mit Bildern geschmückt war, den Abrechnungen nach zu<br>schließen mit Ölbildern auf Leinwand. Außer den Stuckmarmorportalen ist als Wandschmuck einzig ein Stuckmarmorbild mit einer perspektivischen Darstellung fest überliefert: »... wie auch ein Perspectif versezt ist in dem sall ...« (Bericht Andreas Römers über seine Arbeiten für Nymphenburg BHStA I, HR I, 115/89).
+Die in den Quellen überlieferten Fakten reichen nicht aus, um eine Rekonstruktion der Bildausstattung im Saal wagen zu können. Sie sagen nicht mehr aus, als daß der Saal 1675/76 eine Stuckdekoration erhielt, die für die Ausstattung 1701/02 übernommen wurde (S. 356) und daß er – laut Wening – mit Bildern geschmückt war, den Abrechnungen nach zu schließen mit Ölbildern auf Leinwand. Außer den Stuckmarmorportalen ist als Wandschmuck einzig ein Stuckmarmorbild mit einer perspektivischen Darstellung fest überliefert: »... wie auch ein Perspectif versezt ist in dem sall ...« (Bericht Andreas Römers über seine Arbeiten für Nymphenburg BHStA I, HR I, 115/89).
 
 Zur Bildthematik und zum Gesamtprogramm s. S. 303-06
-<!-- citation-page-bottom: Band03-2 p355 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=4 -->
-<!-- citation-page-top: Band03-2 p356 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAA -->
 
 
 == Quellen und Literatur ==
@@ -102,7 +97,8 @@ A ERHEBUNG DIANAS ZUR GÖTTIN DER JAGD Nach Kallimachos (5 ff.) erbat Diana als 
 
 A<sub>1</sub> DIANA ERHÄLT VON PAN IHRE JAGDHUNDE (Kallimachos, 87 ff.) Nachdem Diana sich Gefährtinnen gewählt und Waffen bei den Kyklopen erhalten hatte, ging sie zu Pan nach Arkadien, der ihr Jagdhunde schenkte. »Diana nach erhaltenen verwilligung von Jupiter sich in beglaitung sehr viller der Nymphen begebend in die Waldung, empfanget von Pan, den fürsten der waldtgötter, so beglaidet von etlichen Sattyren hervortretend auß den nechsten waldt, ein große schar der jaghundt. Diese nemmen auf befelch Dianae zuhanden die Nimphen undt liebkoßen sie ... AD CERVOS, APROS, VAFRASQVE VVLPES.« (Zu den Hirschen, den Ebern und den verschlagenen Füchsen.)
 
-A<sub>2</sub> DIANAS ERSTE JAGD (Kallimachos, 98ff.) Diana, begleitet von ihren Nymphen, jagte auf dem Berg Parrhasion die fünf Hirschkühe mit den goldenen Geweihen, um vier davon an ihren Wagen zu spannen; die fünfte aber ließ sie auf den Wunsch der Juno laufen, da sie für eine spätere Tat des Herkules aufgespart werden sollte. »Diana wirdt gemahlen in einen mit netzen geschloßenen bogen oder gezirkh, darinen auch fünf flüchtige hirschen, deren geweicht, wie die fabel meldet, von goldt seyen.<br>Diana, nachdem sie vier von dießen erlegt, eillet den 5ten nach, den sie durch die hundt ermüdeten bey dem geweicht ergreiffet. Es werden gemahlen vile Nymphen neben der göttin Diana, mit lantzen undt bögen<br>in den händen, andere aber, welche neben denen erlegten hirschen über diesen sig frolokhen. Der zetl zeuget den spruch Ovidy VEL TV VENANDI STVDIVM COLE.« (Oder geh du der Jagdleidenschaft nach; ... saepe recessit turpiter a Phoebi victa sorore Venus; Ovid, Remedia Amoris 199.)
+A<sub>2</sub> DIANAS ERSTE JAGD (Kallimachos, 98ff.) Diana, begleitet von ihren Nymphen, jagte auf dem Berg Parrhasion die fünf Hirschkühe mit den goldenen Geweihen, um vier davon an ihren Wagen zu spannen; die fünfte aber ließ sie auf den Wunsch der Juno laufen, da sie für eine spätere Tat des Herkules aufgespart werden sollte. »Diana wirdt gemahlen in einen mit netzen geschloßenen bogen oder gezirkh, darinen auch fünf flüchtige hirschen, deren geweicht, wie die fabel meldet, von goldt seyen.
+Diana, nachdem sie vier von dießen erlegt, eillet den 5ten nach, den sie durch die hundt ermüdeten bey dem geweicht ergreiffet. Es werden gemahlen vile Nymphen neben der göttin Diana, mit lantzen undt bögen in den händen, andere aber, welche neben denen erlegten hirschen über diesen sig frolokhen. Der zetl zeuget den spruch Ovidy VEL TV VENANDI STVDIVM COLE.« (Oder geh du der Jagdleidenschaft nach; ... saepe recessit turpiter a Phoebi victa sorore Venus; Ovid, Remedia Amoris 199.)
 
 A<sub>3</sub> OPFER AN JUNO (Kallimachos, 107 ff.) Das Freilassen der fünften Hirschkuh auf den Wunsch der Juno ist hier als das Opfern der getöteten Hirschkuh auf einem Altar mißverstanden. Diana »opferet und offerieret ermelten 5ten hirschen mit den goldenen gewichtern der göttin Junoni die so wirdt vorgestellt: auf einer etwas von der erdten erhebten wolkhen mit herabgestrekhten händen alß empfangent den hirschen, welcher von drey Nymphen der Diana erhebet wirdt gegen der Juno. Diana stehedt bittet Junonem, daß sie wolle genem halten diese erste frucht ihrer jacht. Neben Diana werden gesteldt eltiche Nymphen mit waffen undt instromenten der jägerey. Auf den zettl wirdt geschriben NEC PIETATE MINVS, QVAM TELO INSIGNIS ET ARMIS.« (Durch Frömmigkeit nicht weniger ausgezeichnet, als durch Speer und Waffen; Troius Aeneas pietate insignis et armis; Vergil, Aeneis VI, 403.)
 
@@ -110,13 +106,8 @@ A<sub>4</sub> DIANA ÜBT SICH IN DER JAGD Die Übung der verschiedenen Gattungen
 
 
 [[File:Band03-2_chunk008_p004_img002.jpg|thumb|J. E. Kendlbacher, Zeichnung nach A Erhebung Dianas zur Göttin der Jagd, München]]
-<!-- citation-page-bottom: Band03-2 p357 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=5 -->
-<!-- citation-page-top: Band03-2 p358 -->
 
-<!-- header: NYMPHENBURG HAUPTSCHLOSS -->
-<!-- header: STEINERNER SAAL -->
 
 [[File:Band03-2_chunk008_p005_img001.jpg|thumb]]
 
@@ -150,7 +141,7 @@ Ad STURZ DES BELLEROPHON »Bellerophon, welcher, stolzierendt wegen vieller erha
 
 W<sub>1-6</sub> DIANA-SZENEN Neun Wandfelder waren ursprünglich geplant und sind bei Kendlbacher beschrieben. Sechs davon werden von Pierre de Bretagne als ausgeführt überliefert. Eine Skizze Kendlbachers existiert nur zu einem der nicht ausgeführten Wandbilder, das die Geschichte von der Errettung der Nymphe Britomartis darstellen sollte: die Inschriften waren in Schriftbändern im Bildfeld angebracht, wie diese Skizze zeigt.
 
-W<sub>1</sub> DIE BESTRAFUNG DES AMPELOS (Nonnos, Dionysiaka 10, 175 ff; 11, 185 ff.) Der junge Ampelos, dem Dionysos seine Liebe geschenkt hatte, schmähte einst die Mondgöttin (Artemis-Selene), die den Frevel rächte, indem sie ihn von seinem Lieblingstier zu Tode stürzen ließ: »daß gedicht von den jingling Ampello, welcher von Diana gezichtiget worden, weillen er von ihr mit schlechten respect geredt hatte. Ampelus wirdt gemahlen auf einen umb den kopf mit underschidlichen bluemmen gezireten stier, auf welchen er auß leihtsinigkeit gesprungen: Diana befilchet ihren Nymphen, daß sie den stier mit spitzigen ruethen undt rhören stechen undt mithin erwildtet machen, darumben er auch mit volen gewaldt lauffet under dißen gestreiß undt stauden, in welchen Ampellus<br>dergestalden sein angesicht verlezet, daß er allerseits in denselben mit bluet beruennen. Dariber frolokhen die Nymphen. Ein zetl aber gibt zuletzt die bolitische lehr VEL LAUDA DOMINI FACTA, VEL ILLA TACE.« (Entweder lobe die Taten des Herrn, oder schweige darüber.)
+W<sub>1</sub> DIE BESTRAFUNG DES AMPELOS (Nonnos, Dionysiaka 10, 175 ff; 11, 185 ff.) Der junge Ampelos, dem Dionysos seine Liebe geschenkt hatte, schmähte einst die Mondgöttin (Artemis-Selene), die den Frevel rächte, indem sie ihn von seinem Lieblingstier zu Tode stürzen ließ: »daß gedicht von den jingling Ampello, welcher von Diana gezichtiget worden, weillen er von ihr mit schlechten respect geredt hatte. Ampelus wirdt gemahlen auf einen umb den kopf mit underschidlichen bluemmen gezireten stier, auf welchen er auß leihtsinigkeit gesprungen: Diana befilchet ihren Nymphen, daß sie den stier mit spitzigen ruethen undt rhören stechen undt mithin erwildtet machen, darumben er auch mit volen gewaldt lauffet under dißen gestreiß undt stauden, in welchen Ampellus dergestalden sein angesicht verlezet, daß er allerseits in denselben mit bluet beruennen. Dariber frolokhen die Nymphen. Ein zetl aber gibt zuletzt die bolitische lehr VEL LAUDA DOMINI FACTA, VEL ILLA TACE.« (Entweder lobe die Taten des Herrn, oder schweige darüber.)
 
 W<sub>2</sub> OPFERUNG IPHIGENIES (Euripides, Iphigenie in Tauris; Ovid Metamorphosen. XII, 1 ff.; Hyginus, Fabeln 98) Um Diana zu versöhnen, wollte Agamemnon ihr seine Tochter Iphigenie opfern. Diana schickte stattdessen einen Hirsch als Opfertier und nahm Iphigenie zu sich. »Es wird gemahlt auf freyen Feld ein großer Stock in Gestalt eines Altars, darauf ein Haufen brennenden Holzes und ein weißer Hirsch, so darinnen verbrannt wird. Diesen Opfer steht bei Chalcas, der Priester und Dolmetscher des Orakels oder Götz, mit vielen Soldaten aus der Garde des Königs Agamemnonis. Etwaß davon entfernt soll zu sehen sein Agamemnon zu Pferd, nachsuchend einen Diana vorbehaltenen Hirschen, den er auch mit einer Lanze fühlet, aber hierdurch schwerlich beleidigt Diana, welche wieder zu versöhnen der Götz erfordert, daß Agamemnon opfere seine geliebteste Tochter Iphigeniam. Als er dieses bewerkstelliget, erbarmet sich Diana der unschuldigen Prinzessin und leget anstatt derselben auf ermelten Scheiterhaufen den weißen Hirschen. Auf einer Wolke, etwaß entfernt von dem Opfer, wird gemahlt Diana, welche ganz liebreich Iphigeniam zu sich nimmt. Der Zettel zeiget den Vers Ovids: SIC CAPITUR MINIMO THORUS (Thuris) HONORE DEUS.« (So wird die Gottheit durch die geringste Ehrengabe auf dem Scheiterhaufen befriedigt. Ovid, Tristia II, 76.)
 
@@ -173,14 +164,9 @@ W<sub>5</sub> WERBUNG UM DIANA (Irrige Interpretation der Geschichte von Otos un
 [[File:Band03-2_chunk008_p005_img007.jpg|thumb]]
 
 [[File:Band03-2_chunk008_p005_img008.jpg|thumb|Ad Sturz des Bellerophon]]
-<!-- citation-page-bottom: Band03-2 p359 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=6 -->
-<!-- citation-page-top: Band03-2 p360 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAA -->
 
 nachjagen, denen flüchtigen Haaren. In den Zettel wird geschrieben NEC QUID SINT CONNUBIA CURAT.» (Und sie sorgt sich nicht darum, was Hochzeiten sind. Nec, quid Hymen, quid amor, quid sint conubia, curat; Ovid Metamorphosen I, 480.)
 
@@ -251,14 +237,9 @@ Ein großer Anteil von Gehilfenarbeit an den Fresken ist unbestritten. Franz Mic
 Martin Heigl, Schüler und langjähriger Mitarbeiter Zimmermanns, erhielt am 7. September 1757 »in gdister Erwä gung dessen auf dem Saal zu Nymphenburg verfertigter Arbeit den gebethenen Hofschuz um so mehrers gdis verwilliget ... als er Supplicant denen andern hiesiger Mahlern mit seiner Arbeit ohnehin keinen Eintrag thuet« (BHStA I, HR 284/213).
 
 Heigl ist zur Zeit der Entstehung der Nymphenburger Fresken in seinem persönlichen Stil soweit faßbar, daß große Partien der Ausführung ihm zugewiesen werden können. Im Saal sind die Gruppe von Merkur und Saturn die Gruppe der Flora mit den Nymphen, die Wandbilder
-<!-- citation-page-bottom: Band03-2 p361 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=7 -->
-<!-- citation-page-top: Band03-2 p362 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAAI -->
 
 W<sub>1-2</sub> sicher von Heigl. Bei den Deckenbildern im Gartensaal und auf der Musikempore sind Heigl die Gruppe von Flora und Zephyr und wohl auch die der Latona zuzuschreiben. So sehr Heigl an Zimmermanns Stil angepaßt ist, an bestimmten Details sind doch seine charakteristischen Stilmerkmale zu erkennen: Heigl zeichnet z.B. die Konturen weicher, mit breiterem Strich, er modelliert in der Faltendarstellung mit weichen Strichen und nicht, wie Zimmermann, mit gegeneinandergesetzten Flächen in Licht und Schatten. Er verwendet kompaktere Farben: Der farbliche Gesamteindruck ist dunkler und kräftiger, weil bei Heigl die für Zimmermann typischen, extrem aufgelichteten, fast farblosen Partien fehlen. Er verwendet gern Grünschatten im Inkarnat und zeichnet die Zimmermannschen Gesichtstypen – noch weniger variiert als Zimmermann selbst – nur mit wenigen »Kürzeln«.
 
@@ -300,14 +281,9 @@ Weit konsequenter als in den vergleichbaren Kompositionen von Steinhausen/Bad.-W
 
 
 [[File:Band03-2_chunk008_p007_img001.jpg|thumb|[. B. Zimmermann, Bozzetto zu A Wohlstand und Blüte des Landes im Frieden, Augsburg]]
-<!-- citation-page-bottom: Band03-2 p363 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=8 -->
-<!-- citation-page-top: Band03-2 p364 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAAI -->
 
 nach W betont und die beiden himmlischen Hauptfiguren Apoll und Merkur in Szene gesetzt.
 
@@ -323,14 +299,9 @@ Die Hauptansicht nach W zeigt eine Nymphe mit ihren Begleiterinnen in einer idea
 
 
 [[File:Band03-2_chunk008_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p365 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=9 -->
-<!-- citation-page-top: Band03-2 p366 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAAI -->
 
 rocaillebesetzter Springbrunnen mit vergoldeten Statuen sind zugleich Bestandteile des höfischen Gartens wie auch Hintergrund für den thronähnlichen Sitz der Nymphe. Dieser besteht aus steinernen Stufen und einem mit Stoff drapierten Podest, auf dem die Nymphe sitzt, an einen steinernen Sockel gelehnt, den eine girlandenbehangene Ziervase bekrönt.
 
@@ -353,14 +324,9 @@ Die gespannte Draperie verbindet die Szene mit der Darstellung der S-Seite. Hier
 Dem Sonnengott zunächst thront Jupiter mit Krone und Zepter, ein Flammenbündel und den Adler zu seinen Füßen. Bei der Gruppe der Figuren Phosphorus, Apollo und Jupiter ist mit Fackel, Flammenpfeil und Flammenbündel auf ihre gemeinsame Zuordnung zum Element Feuer angespielt.
 
 [[File:Band03-2_chunk008_p009_img001.jpg|thumb|Ausschnitt aus A Nymphe als Herrin von Nymphenburg mit Begleiterinnen]]
-<!-- citation-page-bottom: Band03-2 p367 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=10 -->
-<!-- citation-page-top: Band03-2 p368 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAA -->
 
 Hinter Jupiter ist Neptun zu sehen, der Gott des Meeres, den Dreizack in der Hand. Daneben gießt eine weibliche Figur Wasser aus einem Krug: die Personifikation des Morgentaus. Damit sind auch die dem Element Wasser zugeordneten Figuren gemeinsam dargestellt.
 
@@ -393,12 +359,8 @@ MONATSDARSTELLUNGEN Über den Pilasterverkröpfungen sind auf dem Gesims Stuckpu
 [[File:Band03-2_chunk008_p010_img002.jpg|thumb|Ausschnitt aus A Die Götter des Olymp: Apoll, von Phosphorus geleitet, Jupiter, Neptun und Juno, davor Saturn und Merkur]]
 
 [[File:Band03-2_chunk008_p010_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p369 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=11 -->
-<!-- citation-page-top: Band03-2 p370 -->
 
-<!-- header: NVMPHENBURG, HAUPTSCHLOSS -->
 
 Januar Putto mit Holzbündel; Hintergrund: Feuer in einem Kohlebecken und Schneeschauer blasender Mann als Allegorie des Winters
 
@@ -458,14 +420,9 @@ Cephalus war mit Procris, einer Tochter des athenischen Königs Erechtheus, in g
 
 
 [[File:Band03-2_chunk008_p011_img004.jpg|thumb|d Putti mit Bogen und Vogelkäfig]]
-<!-- citation-page-bottom: Band03-2 p371 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=12 -->
-<!-- citation-page-top: Band03-2 p372 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAA -->
 
 
 [[File:Band03-2_chunk008_p012_img001.jpg|thumb|C Zephyr und Flora]]
@@ -504,10 +461,7 @@ Den entscheidenden Hinweis zur Deutung gibt Fresko B mit der selten dargestellte
 Die Dreiheit von Sonne, Luft und Wasser erklärt die Zusammenstellung der Götter im Himmel des Hauptbildes. Sonne, Luft und Wasser sind für das Blühen der Erde und des Gartens - wie für das Leben der Menschen notwendig und allen Menschen gemeinsamer Besitz - eine aufklärerische Variante des traditionellen Elementebildes.
 
 Der Gedanke des gemeinsamen Besitzes ist der Hintergrund für das Grundthema des Bildes: Wohlstand und Blüte des Landes im Frieden. In diesem Zusammenhang ist auch die beherrschende Merkurfigur zu erklären. Dieser Gott galt als der Erfinder der Verträge und Bündnisse, des Waffenstillstands und der Möglichkeit, Botschafter zu entsenden, und damit als Gott der Verhandlungen; in dieser Eigenschaft ist er Friedensgott. In unserem Zusammenhang wird ihm eine weitere Eigenschaft verliehen: Er trägt die Fama-Posaune und wird so als Verkünder des Ruhmes dessen eingesetzt, der den Frieden erreicht hat, bewahrt
-<!-- citation-page-bottom: Band03-2 p373 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=13 -->
-<!-- citation-page-top: Band03-2 p374 -->
 
 NYMPHENBURG, HAUPTSCHLOSS
 
@@ -517,14 +471,9 @@ NYMPHENBURG, HAUPTSCHLOSS
 
 
 [[File:Band03-2_chunk008_p013_img002.jpg|thumb|W<sub>2</sub> Mars und Venus]]
-<!-- citation-page-bottom: Band03-2 p375 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=14 -->
-<!-- citation-page-top: Band03-2 p376 -->
 
-<!-- header: NYMPHENBURG, HAUPTSCHLOSS -->
 
-<!-- header: STEINERNER SAA -->
 
 
 [[File:Band03-2_chunk008_p014_img001.jpg|thumb]]
@@ -559,14 +508,9 @@ Eine weitere Sinnschicht hängt eng mit dem Gedanken des Friedens zusammen. Das 
 Max III. Joseph war mit seiner Gemahlin Maria Anna Sophie von Sachsen seit 1747 in glücklicher Ehe verbunden und weigerte sich, als Nachkommen ausblieben, zeit seines Lebens, die Ehe für ungültig erklären zu lassen. Mit ihm starb die altbayerische Linie der Wittelsbacher aus.
 
 Das Thema vom Glück des Landes im Frieden ist eng verwandt mit der Vorstellung von der Wiederkehr des Goldenen Zeitalters. Hinweis darauf, daß dieser Gedanke bei der Konzeption des Programms relevant war, ist die Gestalt des Saturn, der mit Merkur und Zephyr unter dem Regenbogen, der irdischen Zone unmittelbar zugewandt, erscheint. Die Wiederkehr des Goldenen Zeitalters wird mit der Wiederkehr der Herrschaft Saturns gleichgesetzt: »Redeunt Saturnia regna« (Vergil, Hirtengedichte IV, 6), und mit der Rückkehr der jungfräulichen Göttin Astraea, die im eisernen Zeitalter in den Himmel geflohen war, auf die Erde. Die Minerva-ähnliche Gestalt links im Vordergrund könnte man in diesem Zusammenhang als Astraea identifizieren, die Göttin der Gerechtigkeit (Dike). Die Vorstellung, daß die Wiederkehr des Goldenen Zeitalters an das segensreiche Regiment eines Herrschers geknüpft sei, geht auf Vergil zurück und ist in der Ikonographie der Renaissance und des Barock nicht selten.
-<!-- citation-page-bottom: Band03-2 p377 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk008.pdf#page=15 -->
-<!-- citation-page-top: Band03-2 p378 -->
 
-<!-- header: NYMPHENBURG HAUPTSCHLOSS -->
 
-<!-- header: DIE KURFÜRSTLICHEN APPARTEMENT -->
 
 
 [[File:Band03-2_chunk008_p015_img001.jpg|thumb|C. Putti, von Faun erschreck]]
@@ -619,6 +563,3 @@ Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann, Entstehung und
 
 
 == DIE KURFÜRSTLICHEN APPARTEMENTS ==
-
-
-{{End}}

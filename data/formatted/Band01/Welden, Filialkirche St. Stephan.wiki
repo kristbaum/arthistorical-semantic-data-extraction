@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p280 -->
 
-<!-- header: WELDEN -->
 
-<!-- header: WELDEN -->
 
 Filialkirche, Gemeinde Fuchstal, Pfarrei Leeder, Diözese Augsburg; z. Z. der Ausmalung Pfarrei und Herrschaft Leeder, deren Besitzer das Hochstift Augsburg war
 
@@ -81,7 +78,3 @@ Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 90 f. Welden (o. V.), in Deuts
 Fuchs, Adolf, Georg Alois Gaibler, in: Kaufbeurer Geschichtsblätter 2, 1955 bis 1958, S. 126 ff.
 
 Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen Kunstdenkmale) München 1960, S. 206.
-<!-- citation-page-bottom: Band01 p281 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=17 -->
-{{End}}

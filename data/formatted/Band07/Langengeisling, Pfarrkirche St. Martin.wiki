@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p188 -->
 
-<!-- header: LANGENGEISLING -->
 
 
 == LANGENGEISLING ==
@@ -45,18 +43,14 @@ LHs zu fünf Jochen, Gliederung durch Pilaster vor kräftigen Wandvorlagen, Dopp
 
 
 188
-<!-- citation-page-bottom: Band07 p189 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=21 -->
-<!-- citation-page-top: Band07 p190 -->
 
-<!-- header: LANGENGEISLING -->
 
 
 == LANGENGEISLING ==
 
 
-Pfarr die Verpflegung schafft accordierter Maßen auf das aller-<br>genauste vor die 1 Stuck Histori vierhundert vor die gemahlne<br>Schild undt Ram dreyhundert Gulden Joh: Martin Heigl Chftl. privil: Mahler. « Es kam schließlich zu einer reduzierten und vermutlich billigeren Ausführung mit vier Emblemen im LHs statt der veranschlagten acht sowie nur zwei Emblemen im Chor statt sechs.
+Pfarr die Verpflegung schafft accordierter Maßen auf das allergenauste vor die 1 Stuck Histori vierhundert vor die gemahlne Schild undt Ram dreyhundert Gulden Joh: Martin Heigl Chftl. privil: Mahler. « Es kam schließlich zu einer reduzierten und vermutlich billigeren Ausführung mit vier Emblemen im LHs statt der veranschlagten acht sowie nur zwei Emblemen im Chor statt sechs.
 
 
 == Befund ==
@@ -92,10 +86,7 @@ Das Bild zeigt die dritte Totenerweckung des hl. Martin (Sulpicius Severus, 2. D
 
 
 [[File:Band07_chunk004_p021_img001.jpg|thumb|B Der hl. Martin als Fürbitter]]
-<!-- citation-page-bottom: Band07 p191 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=22 -->
-<!-- citation-page-top: Band07 p192 -->
 
 [[File:Band07_chunk004_p022_img001.jpg|thumb]]
 
@@ -156,14 +147,10 @@ Kupferschmied, Thomas Johannes, Der Freskant J. Martin Heigl. Arbeiten für Joha
 Dehio 1990, S. 583.
 
 Kraus, Andreas, Erding. Stadt mit vielen Gesichtern, Stuttgart 1997; zu Langengeisling S. 31, 59–62. A. B.
-<!-- citation-page-bottom: Band07 p193 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk004.pdf#page=23 -->
-<!-- citation-page-top: Band07 p194 -->
 
 LANGENGEISLING
 
-<!-- header: LANGENGEISLING -->
 
 
 [[File:Band07_chunk004_p023_img001.jpg|thumb]]
@@ -171,7 +158,3 @@ LANGENGEISLING
 
 
 [[File:Band07_chunk004_p023_img002.jpg|thumb]]
-
-
-
-{{End}}

@@ -43,12 +43,8 @@ Der Autor der Deckenmalerei ist nicht bekannt. Die qualitätvolle Stuckierung mu
 
 
 Träger der Deckenmalerei: A,B (LHs) Stichkappentonne Rahmen: A,B glatte weiße Stuckprofile mit ockerfarbener schmaler Innenleiste, an den Schmalseiten von Stuck-Rocaillen übergriffen
-<!-- citation-page-bottom: Band03-1 p117 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunk003.pdf#page=10 -->
-<!-- citation-page-top: Band03-1 p118 -->
 
-<!-- header: GROSSHESSELOHE -->
 
 
 [[File:Band03-1_chunk003_p010_img001.jpg|thumb]]
@@ -96,7 +92,3 @@ Dehio-Gall OB, S. 59
 Der Landkreis München (o. V.), München 1979, S. 265 f. Drube, Herbert, Pullach im Isartal, Pullach 1982, S. 29, 33 f Sinkel, Kristin, Die Dreifaltigkeitskapelle zu Großhesselohe und ihre Fresken der Zimmermann-Werkstatt, in: Jahr buch des Vereins für christliche Kunst in München e.V., Bd. 16, 1987, S. 241–44.
 
 KS
-<!-- citation-page-bottom: Band03-1 p119 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=11 -->
-{{End}}

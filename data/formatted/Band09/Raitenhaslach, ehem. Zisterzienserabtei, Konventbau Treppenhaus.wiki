@@ -12,8 +12,6 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=4 -->
-<!-- citation-page-top: Band09 p206 -->
 
 == Konventbau ==
 
@@ -56,5 +54,3 @@ Die Farben sind fast monochrom; das helle Grün der Wiese und der Alpenrand gebe
 == Quellen und Literatur ==
 
 Keine Erwähnung in den Quellen. Hopfgartner, 1987, Abb. 33, 1996, S. 93, Kat. Nr. 7. 8.
-
-{{End}}

@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p114 -->
 
-<!-- header: <b>IEDELSTETTEN</b> -->
 
 
 == JEDELSTETTEN ==
@@ -55,14 +53,9 @@ Erhaltungszustand und Restaurierungen: Nach Unter lagen des B.L.f.D. waren die D
 
 
 [[File:Band01_chunk003_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p115 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=9 -->
-<!-- citation-page-top: Band01 p116 -->
 
-<!-- header: JEDELSTETTEN -->
 
-<!-- header: IEDELSTETTE. -->
 
 Rocaillen (A1-4) sind einigermaßen originalgetreu überarbeitet. Die Deckenbilder im AR (B, B1-2) sind erneuert bzw. stark übermalt und daher nur noch inhaltlich interessant.
 
@@ -101,8 +94,3 @@ Emerich, Karl, Johann Baptist Baader, in: Landsberger Geschichtsblätter 1932, N
 Fuchs, Adolf, Johann Baptist Baader, der Lechhansl, Kaufbeuren 1959, S. 38.  
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 512.  
 Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Katalog des Gesamtwerkes, ungedruckte Diss. München 1972.
-
-<!-- citation-page-bottom: Band01 p117 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=10 -->
-{{End}}

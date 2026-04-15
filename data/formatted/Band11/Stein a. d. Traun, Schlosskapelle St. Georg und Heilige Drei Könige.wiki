@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p160 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · STEIN AN DER TRAU -->
 
 
 == STEIN AN DER TRAUN ==
@@ -59,12 +57,8 @@ Träger der Deckenmalerei: Einfaches gotisches Kreuzgewölbe Rahmen: Die Bilder 
 Technik: Fresko, polychrom
 
 Maße: 1-4 Höhe 5,00 m; 2,20×4,40
-<!-- citation-page-bottom: Band11 p161 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk004.pdf#page=7 -->
-<!-- citation-page-top: Band11 p162 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · STEIN AN DER TRAUN -->
 
 [[File:Band11_chunk004_p007_img001.jpg|thumb|Westansicht mit 1 Beichte der Königin und 2 Predigt des hl. Johann Nepomuk]]
 
@@ -79,5 +73,3 @@ Quellen und Literatur s. S. 16
 
 
 == Johann-Nepomuk-Kapelle ==
-
-{{End}}

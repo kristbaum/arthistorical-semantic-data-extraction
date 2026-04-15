@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p224 -->
 
-<!-- header: SCHWABHAUSEN -->
 
 
 == SCHWABHAUSEN ==
@@ -91,12 +89,8 @@ Das Bild wird farblich von dem in Ocker- und Goldtöne gebetteten Hellgrün-Viol
 
 Dem Patrozinium der Kirche gemäß ist das Kreuzesthema bestimmend für die bildlichen Darstellungen. Der Hochaltar, zu Ehren der Kreuzauffindung benediziert, zeigt eine plastische Kreuzigungsgruppe. Das Chronostichon am Chorbogen gibt das Motto der Darstellungen an: DVLGe LIgnVM / saLVs orbIs / VnIVersI. (= 1779) Die Hauptdarstellung B im Langhaus zeigt in diesem Sinne das Kreuz Christi; als Heil der Welt wird es durch die auf die vier Erdteile fallenden Gnadenstrahlen und – in typisch barocker Antithese – durch die Götzendienst, Tod und Teufel  
 
-<!-- citation-page-bottom: Band01 p225 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=14 -->
-<!-- citation-page-top: Band01 p226 -->
 
-<!-- header: SCHWABHAUSEN -->
 
 [[File:Band01_chunk005_p014_img001.jpg|thumb|C Schlacht an der Milvischen Brücke]]
 
@@ -123,14 +117,9 @@ c DIE EHERNE SCHLANGE (Num 21,9) Die von Moses an einer Stange – in Form des T
 [[File:Band01_chunk005_p014_img004.jpg|thumb]]  
 [[File:Band01_chunk005_p014_img005.jpg|thumb|Eherne Schlange]]  
 
-<!-- citation-page-bottom: Band01 p227 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=15 -->
-<!-- citation-page-top: Band01 p228 -->
 
-<!-- header: SCHWABHAUSEN -->
 
-<!-- header: SCHWABHAUSEI -->
 
 
 [[File:Band01_chunk005_p015_img001.jpg|thumb]]
@@ -155,5 +144,3 @@ Braun-Augsburg Bd 1, S. 390 f. KDB I OB (1), S. 547.
 
 
 Die Pfarreien und ihre Vorstände – Schwabhausen (o. V.), in: Landsberger Geschichtsblätter 14, 1915, Nr. 4, S. 26; Nr. 5, S. 30–32; Nr. 6, S. 40. Dehio-Gall OB (1964), S. 281. Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 612 f.
-
-{{End}}

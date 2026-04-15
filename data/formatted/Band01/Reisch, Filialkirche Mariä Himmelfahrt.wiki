@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p202 -->
 
-<!-- header: REISCH -->
 
-<!-- header: REISCH -->
 
 Filialkirche, Stadtkreis Landsberg, Pfarrei Schwifting (von Penzing vikariert), Diözese Augsburg; z. Z. der Ausmalung Pfarrei Untermühlhausen, auf die Kloster Benediktbeuern das Präsentationsrecht hatte, Gericht Landsberg
 
@@ -37,7 +34,7 @@ Filialkirche, Stadtkreis Landsberg, Pfarrei Schwifting (von Penzing vikariert), 
 == Befund ==
 
 
-Träger der Deckenmalerei: LHs Flachtonne mit Stichkappen, AR Kuppel (im W über Pendentifs) mit Rundspiegel<br>Rahmen: Vollplastischer Stuck (A, C: Akanthus und Weinrebenkranz, B: Laubkranz)
+Träger der Deckenmalerei: LHs Flachtonne mit Stichkappen, AR Kuppel (im W über Pendentifs) mit Rundspiegel Rahmen: Vollplastischer Stuck (A, C: Akanthus und Weinrebenkranz, B: Laubkranz)
 
 Technik: Öl?; polychrom
 
@@ -71,9 +68,7 @@ C IMMACULATA CONCEPTIO Maria ist durch Attribute (Sternenkranz, Mondsichel, Lili
 
 
 [[File:Band01_chunk005_p002_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p203 -->
 
-<!-- citation-page-top: Band01 p204 -->
 
 Maria ist mit einem Blumenkranz im Haar im Typus der Wessobrunner »Mutter der schönen Liebe«, dem Andachtsbild der ehemaligen Bruderschaft von der Unbefleckt Empfangenen, wiedergegeben.
 
@@ -88,5 +83,3 @@ Die Pfarrherren im Bezirk Untermühlhausen (o. V.), in Landsberger Geschichtsbl�
 Neu, Wilhelm, Johann Caspar Schäffler – ein vergessener Maler des Lech-Ammerseegebietes, in: Lechisarland 1962, S. 36–44.
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 589 f., 641.
-
-{{End}}

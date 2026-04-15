@@ -12,12 +12,8 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk001.pdf#page=23 -->
-<!-- citation-page-top: Band11 p44 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · BAUMBURG -->
 
-<!-- header: BERG -->
 
 
 [[File:Band11_chunk001_p023_img001.jpg|thumb]]
@@ -52,5 +48,3 @@ ENGEL Ansicht nach N. Das Bild zeigt vor einem Streifen blauen Himmels rosig bis
 
 Quellen und Literatur  
 Keine Erwähnung.
-
-{{End}}

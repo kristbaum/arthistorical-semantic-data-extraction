@@ -12,10 +12,7 @@
 }}
 
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk001.pdf#page=4 -->
-<!-- citation-page-top: Band08 p6 -->
 
-<!-- header: VORWORT -->
 
 Der heutige Landkreis Mühldorf besteht im wesentlichen aus dem ehemaligen Gericht Neumarkt, das zum Rentamt Landshut gehörte, und dem kleinen Gericht Kraiburg im Rentamt Burghausen. Gebietsteile der Gerichte Mörmoosen und Kling sowie der ehemaligen Grafschaft Haag überschneiden im Süden die heutigen Landkreisgrenzen. Kirchlich gehörte das gesamte Gebiet bis zur Säkularisation zum Erzbistum Salzburg. Die Stadt Mühldorf war eine Exklave von Salzburg und Sitz der salzburgischen Vogt- und Propstgerichte, die eine Art Niedergerichtsbarkeit im Gericht Neumarkt ausübten.
 
@@ -40,5 +37,3 @@ Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für d
 Das Zustandekommen dieses Bandes war nur möglich durch das großzügige Entgegenkommen von Herrn Erich Rambold, Landrat des Landkreises Mühldorf, Herrn Hermann Tischler, Kreisverbandsvorsitzender des Genossenschaftsverbands Bayern, Herrn Dr. Siegfried Naser, Geschäftsführender Präsident des Sparkassenverbands Bayern, Ludwig Bronold, Vorstandsvorsitzender Direktor der Kreissparkasse Mühldorf, und durch Herrn Dr. Alois Harbeck, dem langjährigen Mitarbeiter und Förderer des Projekts.
 
 Frank Büttner und Bernhard Rupprecht
-<!-- citation-page-bottom: Band08 p7 -->
-{{End}}

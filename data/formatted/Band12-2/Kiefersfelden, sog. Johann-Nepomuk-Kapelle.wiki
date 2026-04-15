@@ -12,9 +12,7 @@
 |AutorIn1=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p310 -->
 
-<!-- header: KIEFERSFELDEN -->
 
 
 == KIEFERSFELDEN ==
@@ -47,12 +45,8 @@ Sebastian Anton Defregger machte 1801-04 eine Bildhauer und Vergolderlehre. Ab 1
 
 
 [[File:Band12-2_chunk001_p006_img003.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band12 p311 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=7 -->
-<!-- citation-page-top: Band12 p312 -->
 
-<!-- header: KIEFERSFELDEN -->
 
 Weitere Freskierungen von seiner Hand sind die Deckenbilder in Windisch-Matrei 1808, die Ausmalungen der Mariahilfkirche in Thiersee 1817, der Pfarrkirche in Erl 1818 und in Landl 1818/20. Obgleich die Freskierung in der kleinen Kiefersfeldener Kapelle schon weit im 19. Jh. entstanden ist, kann man doch von einer klassizistischen Dekoration sprechen; die figürlichen Darstellungen stehen noch ganz in der Tradition der Rokokomalerei.
 
@@ -92,6 +86,3 @@ Biasi, Franz, Kufsteiner Buch. Beiträge zur Heimatkunde von Kufstein und Umgebu
 
 
 == KIRCHLOIBERSDORF ==
-
-
-{{End}}

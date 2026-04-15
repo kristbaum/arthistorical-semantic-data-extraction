@@ -26,7 +26,7 @@ Einfacher Saal (9×5 m) mit Vorhaus, durchgehendes Gesims, Wände ungegliedert; 
 
 '''Auftraggeber:''' Johann Baptist Adam Knodt, Pfarrer von Alzgern (1758–94). Die Ausmalung muß gestiftet worden sein, da sie in den Kirchenrechnungen 1787/88 nicht erwähnt wird, ebensowenig wie eventuelle Baureparaturen, die Anlaß zur Ausmalung gewesen sein könnten. Pfarrer Knodt gab sich als Gönner seiner Kirchen aus, was nach seinem Tod vom Propsteidirektor Johann Georg Kellner bestritten wurde, der selbst in Obereschlbach eine Wiese für 300 f. getauscht und damit zur Ausstattung beigetragen haben wollte (s. S. 30).
 
-1/34 Frie-<br>dingen an der Donau † 1798 Trostberg; s. S. 244) 1787. Signatur in Fresko A rechts: Pinxit F. Joseph Soll M. in Trostberg. Die Ausmalung entstand ein Jahr vor der in der Pfarrkirche Alzgern. Die Emporenbrüstungsbilder, das Altarbild und das Bild im Auszug sind ebenfalls Franz Joseph Soll zuzuschreiben. Die Fresken in St. Johann gehören zu den gelungensten Arbeiten Solls: der intime Raum und die höfische Thomasik
+1/34 Friedingen an der Donau † 1798 Trostberg; s. S. 244) 1787. Signatur in Fresko A rechts: Pinxit F. Joseph Soll M. in Trostberg. Die Ausmalung entstand ein Jahr vor der in der Pfarrkirche Alzgern. Die Emporenbrüstungsbilder, das Altarbild und das Bild im Auszug sind ebenfalls Franz Joseph Soll zuzuschreiben. Die Fresken in St. Johann gehören zu den gelungensten Arbeiten Solls: der intime Raum und die höfische Thomasik
 
 
 == Befund ==
@@ -58,14 +58,9 @@ Die LHs-Tonne ist vollkommen ausgemalt. Über dem Gesims ist eine Attikazone ill
 
 
 [[File:Band09_chunk005_p009_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p217 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=10 -->
-<!-- citation-page-top: Band09 p218 -->
 
-<!-- header: ST. IOHANN -->
 
-<!-- header: ST. JOHANN -->
 
 Die Chorbogenlunette ist mit dekorativer Malerei im Zopfstil geschmückt. Das Chorgewölbe zeigt einen brokatierten Gurtbogen, um den Freskorahmen B aber keine illusionistische Malerei, nur Pflanzenornamente, die die Medaillons B<sub>1-2</sub> einfassen. Über dem weißen ungegliederten Raum wirkt das farbige Gewölbe, das nicht, wie gewöhnlich, durch Stichkappen unterbrochen wird, wie ein prächtiger bunter Teppich. Das Bildprogramm der Kirche beschäftigt sich mit Johannes
 
@@ -87,14 +82,9 @@ B TAUFE JESU (Mt 3,13-17) Eine lieblich geschilderte Flußlandschaft mit Palmen 
 
 
 [[File:Band09_chunk005_p010_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band09 p219 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=11 -->
-<!-- citation-page-top: Band09 p220 -->
 
-<!-- header: ST. JOHANN -->
 
-<!-- header: ST. IOHANI -->
 
 
 [[File:Band09_chunk005_p011_img001.jpg|thumb|B Taufe Jesu, B, und B, Johannes-Szener]]
@@ -119,12 +109,8 @@ EB<sub>1-3</sub> VERHEISSUNG UND GEBURT JOHANNES DES TAUFERS (Lc 1) Die Emporenb
 EB<sub>1</sub> VERHEISSUNG AN ZACHARIAS (S) Der Engel des Herrn sprach zu Zacharias / Dein Gebett ist erhört, dein Weib Elisabeth / wird dir ein Sohn gebehren, du solst Ihm / den Namen Joannes geben (Lc 1,13). Das Bild zeigt den Priester Zacharias, der im Tempel ein Rauchopfer darbringt. Ihm erscheint der Engel Gabriel, der ihm die Geburt eines Sohnes verkündet, der groß sein werde vor dem Herrn. Zacharias bezweifelte die Botschaft, denn er und seine Frau Elisabeth waren schon betagt. Wegen seines Zweifels wurde Zacharias mit Stummheit geschlagen.
 
 EB, HEIMSÜCHUNG (N) Als Elisabeth den Gruß Maria hörte, ist das Kind / vor Freude in Ihren Leib aufgesprungen, und Elisabeth ist mit dem Heiligen Geist erfüllt worden (Lc 1,44). Nach der Verkündigung machte sich
-<!-- citation-page-bottom: Band09 p221 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=12 -->
-<!-- citation-page-top: Band09 p222 -->
 
-<!-- header: ST. JOHANN -->
 
 
 [[File:Band09_chunk005_p012_img001.jpg|thumb|Emporenbrüstung, EB, Verheißung an Zacharias, EB, Heimsuchung (rechts), EB, Geburt und Beschneidung des Johannes]]
@@ -159,5 +145,3 @@ Hochberger, K., 200 Jahre alte Fresken, in: Niederbayerische Heimatglocken, Beil
 Marktkirche
 
 Schloß Schloßkapelle S. 23 Festsaal S. 232
-
-{{End}}

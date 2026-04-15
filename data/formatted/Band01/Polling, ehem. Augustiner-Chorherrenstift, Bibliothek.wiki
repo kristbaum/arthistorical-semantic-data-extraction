@@ -53,12 +53,8 @@ A DER PARNASS Einansichtige Szene, Betrachter standort unterhalb des nördlichen
 
 
 [[File:Band01_chunk010_p005_img001.jpg|thumb|Zustand vor der Restaurierung 1973/75]]
-<!-- citation-page-bottom: Band01 p459 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=6 -->
-<!-- citation-page-top: Band01 p460 -->
 
-<!-- header: POLLING -->
 
 
 [[File:Band01_chunk010_p006_img001.jpg|thumb]]
@@ -76,35 +72,30 @@ Dunkle, schwere Farben beherrschen den äußeren Rand
 
 
 [[File:Band01_chunk010_p006_img002.jpg|thumb|B Der Alte und der Neue Bund oder die Theologie (photographische Aufnahme vor der Restaurierung von 1975)]]
-<!-- citation-page-bottom: Band01 p461 -->
 
 
-<!-- header: POLLING -->
 
 
 **Korrekturen an OCR-Fehlern:**  
 - „»erheben«“ → aus Transkribus: »erheben«  
 - „»Öffnungen«“ → aus Transkribus: »Öffnungen«  
 - „»bekrönt«“ → aus Transkribus: »bekrönt«  
-- „ge-<br>bildet“ → „gebildet“  
-- „Illusion; der Bau wirkt weniger als<br>architektonische Einheit“ → „Illusion; der Bau wirkt weniger als architektonische Einheit“  
-- „ornamentale Rahmung<br>der Figurengruppen.“ → „ornamentale Rahmung der Figurengruppen.“  
+- „gebildet“ → „gebildet“  
+- „Illusion; der Bau wirkt weniger als architektonische Einheit“ → „Illusion; der Bau wirkt weniger als architektonische Einheit“  
+- „ornamentale Rahmung der Figurengruppen.“ → „ornamentale Rahmung der Figurengruppen.“  
 - „Vierpaßrahmen von der stuckierten Wölbung getrennt.“ → „Vierpaßrahmen von der stuckierten Wölbung getrennt.“  
 
 **Entfernte Scanfragmente:**  
 - „POLLING“-Kopfzeilen  
 - „D 110110 3,0 ) FR OSEXISO“-ähnliche Zeichensalate  
-- Silbentrennungen mit <br> (z. B. „ge-<br>bildet“ → „gebildet“)  
+- Silbentrennungen mit (z. B. „gebildet“ → „gebildet“)  
 
 **Ersetzte Zitate mit »«:**  
 - „Bei den vier Einschnürungen des Bildfeldes »erheben« sich unvermittelt...“ → „Bei den vier Einschnürungen des Bildfeldes »erheben« sich unvermittelt...“  
 - „die Figurengruppen in den vier »Öffnungen« der Vierpaßsegmente.“ → „die Figurengruppen in den vier »Öffnungen« der Vierpaßsegmente.“  
 - „Der gemalte Kuppelaufbau »bekrönt« zwar das Joch...“ → „Der gemalte Kuppelaufbau »bekrönt« zwar das Joch...“
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=7 -->
-<!-- citation-page-top: Band01 p462 -->
 
-<!-- header: POLLING -->
 
 [[File:Band01_chunk010_p007_img001.jpg|thumb|C Die Entschleierung der Wahrheit oder die Geschichtswissenschaften]]
 
@@ -137,12 +128,8 @@ B DER ALTE UND DER NEUE BUND ODER DIE THEOLOGIE Im Hauptfresko ist die Geschicht
 Die linke Hälfte des nördlichen Bildabschnittes nehmen bärtige Propheten mit Schriftrollen ein, unter ihnen der psalmodierende König David. Mit diesem endet die AT-Reihe. In der rechten Hälfte sind die Apostel den Propheten gegenübergestellt, Petrus ist an den Schlüsseln und Paulus am Schwert kenntlich. Zu Füßen Petri stürzt ein Mann – vielleicht Judas, der Verräter Jesu – in die Tiefe, von einem Teufel empfangen.
 
 Links über den Propheten ist Synagoge im Ornat der
-<!-- citation-page-bottom: Band01 p463 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=8 -->
-<!-- citation-page-top: Band01 p464 -->
 
-<!-- header: POLLING -->
 
 Hohenpriester, mit Rauchfaß, Aaronstab und Gesetzes-tafeln, rechts über den Aposteln Ecclesia mit Tiara, Kelch und Kreuz wiedergegeben. Synagoge, die Symbolgestalt des Alten Bundes, ist im Sinne der Concordia veteris et novi Testamenti wie Ecclesia gleich einer Königin thronend wiedergegeben. - Ein Rundtempel auf einem Felsen - im Hintergrund, in der Mitte des Bildabschnittes - stellt gemäß dem Text der Bibel (Mt 17,18) die Gründung der Kirche Christi und damit den Übergang vom Alten zum Neuen Bund dar.
 
@@ -176,14 +163,9 @@ Das Fundament der Geschichtswissenschaft ist die Wahrhaftigkeit. Die wissenschaf
 
 Verschiedene Altertümer und historische Dokumente werden von geflügelten Genien und anderen Figuren in Szene gesetzt; sie bezeichnen historische Hilfswissenschaften. In der Mitte des Bildes weist eine allegorische Gestalt, ausgezeichnet durch eine Sonne am Haupt auf das Doppelwappen des Klosters und des Propstes Franz Töpsl. Daneben steht ein heraldisches Buch aufgeschlagen, in altertümlicher Manier ist auf der einer Seite ein Adler wiedergegeben, auf der anderen das zweite Wappen Töpsls. Nach E. Zimmermann (S. 122) fand der Prälat dieses Wappen unter dem Namen Debsel in einem alten Wappenbuch und führte es fortan als zweite Wappen. Wahrscheinlich ist hier sogar dieses bestimmte
 
-<!-- citation-page-bottom: Band01 p465 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=9 -->
-<!-- citation-page-top: Band01 p466 -->
 
-<!-- header: POLLING -->
 
-<!-- header: POLLIN -->
 
 Buch wiedergegeben. – So ist die Heraldik vorgestellt und ganz speziell die heraldische Forschung des Prälaten.
 
@@ -224,7 +206,3 @@ Das bis ins letzte durchdachte Programm kam Baaders spezifischen Fähigkeiten ni
 Bibliotheksaal Polling im ehemaligen Augustiner-Chorherrenstift, hg. vom Verein der Freunde des Pollinger Bibliotheksaals, Pollinger Drucke Bd 1 und Bd 2 (Chronik der Restaurierung), Murnau 1975.
 
 Weitere Literatur siehe S. 469
-<!-- citation-page-bottom: Band01 p467 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk010.pdf#page=10 -->
-{{End}}

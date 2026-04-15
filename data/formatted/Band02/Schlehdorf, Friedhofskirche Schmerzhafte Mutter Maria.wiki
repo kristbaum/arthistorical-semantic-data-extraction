@@ -32,12 +32,8 @@ Aufgrund dieser Übereinstimmungen kann man schließen, daß Wand- und Deckenbil
 
 
 [[File:Band02_chunk006_p002_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p253 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=3 -->
-<!-- citation-page-top: Band02 p254 -->
 
-<!-- header: SCHLEHDORF -->
 
 spät, zeitlich jedoch vor Riegsee (1792) anzusetzen, weil dort Kirzingers manieristischer Spätstil im Vergleich zu Schlehdorf noch weiter fortgeschritten ist. Zwei von Franz Kirzinger signierte Ölgemälde in Kloster und Pfarrkirche, ein Porträt Propst Innozenz Strassers (1755-88) und ein Altarblatt des hl. Johann Nepomuk (datiert 1794) belegen die Tätigkeit Franz Seraph Kirzingers für Kloster Schlehdorf in der fraglichen Zeit.
 
@@ -75,6 +71,3 @@ Hartig, Michael, Die Oberbayerischen Stifte, München 1935, Bd 1, S. 233.
 
 
 == SIEGERTSHOFEN ==
-
-
-{{End}}

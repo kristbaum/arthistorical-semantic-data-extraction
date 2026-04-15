@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p338 -->
 
-<!-- header: PERCHTING -->
 
 
 == PERCHTING ==
@@ -65,12 +63,8 @@ Die einzelnen Szenen sind durch die umgebende Landschaft und die Hintergrundsarc
 
 
 [[File:Band01_chunk007_p020_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p339 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=21 -->
-<!-- citation-page-top: Band01 p340 -->
 
-<!-- header: PERCHTING -->
 
 ten Farben. Dazu kommen gewisse Klassizismen, wie stimmungsvolle Weiträumigkeit der Landschaft, bildhafte Distanzierung der antikischen Architekturen und ein Verlust von zusammenhängenden Bewegungsmotiven zugunsten einer spürbaren Statuarik der Einzelfigur.
 
@@ -93,5 +87,3 @@ Eismann, Josef, Die Rokokokirche Unserer Lieben Frau von Perchting, in: 80 Jahre
 Fuchs, Adolf, Johann Baptist Baader, der Lechhansl. Kaufbeuren 1959, S. 36.
 
 Simon, Adelheid, Die Fresken des Johann Baptist Baader mit einem kritischen Katalog des Gesamtwerkes, ungedruckte Diss. München 1972.
-
-{{End}}

@@ -12,11 +12,8 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band03-1 p220 -->
 
-<!-- header: FRAUENKIRCHE -->
 
-<!-- header: FRAUENKIRCHE -->
 
 Stadtpfarrkirche zu Unserer Lieben Frau, Frauenplatz 1, seit 1817 Metropolitankirche der Erzdiözese München und Freising. Ehemalige barocke Einbauten: Im Chor der Bennobogen und zwei Kapellen, über denen sich auf der S-Seite die Sängertribüne und auf der N-Seite die Fürstenloge befanden, ferner über dem Eingangsportal der Kirche im W der Vorbau der Orgelempore; alle Einbauten 1858 abgebrochen, Deckenbilder teils erhalten, teils durch Photos überliefert, teils durch Beschreibungen und durch Innenansichten der Kirche dokumentiert.
 
@@ -58,12 +55,8 @@ Die Aufteilung der Flachdecken der Chorkapellen ist summarisch angegeben auf ein
 
 
 [[File:Band03-1_chunk005_p011_img004.jpg|thumb|Ehemaliger Vorbau der Orgelempore mit Deckenbildern in der Frauenkirche, Zeichnung von Ludwig Huber nach L. X. Nachtmann, um 1830, Stadtmuseum München]]
-<!-- citation-page-bottom: Band03-1 p221 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=12 -->
-<!-- citation-page-top: Band03-1 p222 -->
 
-<!-- header: FRAUENKIRCH -->
 
 
 == FRAUENKIRCHE ==
@@ -127,7 +120,3 @@ B.V.-K.
 
 
 [[File:Band03-1_chunk005_p012_img008.jpg|thumb|Chorkapellen der Frauenkirche (zerstört)]]
-<!-- citation-page-bottom: Band03-1 p223 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=13 -->
-{{End}}

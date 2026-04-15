@@ -8,10 +8,7 @@
 |davor=Waal, Filialkirche Mariä Himmelfahrt
 |danach=Ortsregister (Band 14)
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk006.pdf#page=10 -->
-<!-- citation-page-top: Band14 p268 -->
 
-<!-- header: MALER -->
 
 
 == IM 18. JH. IM RAUM INGOLSTADT UND PFAFFENHOFEN TÄTIGE MALER ==
@@ -84,12 +81,8 @@ SINGER, Johann Michael, Maler in Reichertshofen
 * Kissingen, Lebensdaten unbekannt, tätig 1768/88. Über Leben und Werk des Malers war bisher wenig bekannt. Das Hofmarksarchiv Rohrbach enthält einige Archivalien, die sich auf J.M. Singers Ansiedlungsversuch in Rohrbach beziehen. Danach stammte er aus Kissingen, war 1777 Witwer und heiratete am 16. September 1777 Maria Schlechenloher von Oberpindhart, um ein Anrecht auf Niederlassung zu gewinnen. Die Trauung durch Pfarrer Kümmerl fand wohl in der Kirche St. Johann Evangelist in Rohrbach statt, die damals mit Waal vereint war. Zur »wirklichen Ansessigmachung« wäre noch die »Erkaufung eines Gütls« vonnöten gewesen. Hierzu kam es nicht mehr, da der Stiefsohn Singers (wohl der voraufgehenden Ehe zugehörig), der in einem kurprinzlichen Regiment diente, des Diebstahls angeklagt wurde und seinen Stiefvater der Teilhabe an dem Diebesgut bezichtigte. J.M. Singer wurde vom Hofmarksgericht Rohrbach festgenommen und für den Prozess an das Landgericht Pfaffenhofen überstellt.
 
 Erstmals 1768 tritt Johann Michael Singer mit Fresken in der ehemaligen Hofmarkskirche in Hofgiebing, LKr. Mühldorf, auf (CBD Bd 8, S. 126–28). Zwischen 1768 und 1777 war J.M. Singer für die Grafen Törring-Jettenbach in Winhöring, LKr. Altötting, tätig. Maximilian Graf Arco, Wildmeister in Geisenfeld, schrieb am 3. Juli 1777 einen Empfehlungsbrief für J.M. Singer an den Freiherrn Maximilian Clemens von Dirsch auf Rohrbach, worin es hieß: » ... Er ist auch sehr geschickt in fresco mahlerey, und hat ihm mein Vätter der verstorbene Graf Töring yber seinen accord der gefasten Kürche zu Winnering (= Winhöring, seit 1717 im Besitz der Grafen Törring-Jettenbach, die ab 1744 auch Hofmarksherren auf Pörnbach im Landgericht Pfaffenhofen waren) 150 f. duceur (= Trinkgeld) gegeben«. Von dieser Arbeit Singers ist nichts erhalten. Nach seinem missglückten Ansiedlungsversuch in Rohrbach scheint J.M. Singer in Reichertshofen ansässig geworden zu sein. In der Kirchenrechnung von Waal für 1780 wird er unter »Ausgab auf Kirchenzierd« wie folgt genannt: »Michael Singer Mahler zu Reichertshofen empfangt vor einige Mallereyen 2 fl. 6 x.« (fol. 101 r). 1779 »vollendete« in Wolnzach der Schreiner G.J. Kirmeier ein offenes, viersäuliges Altarretabel nach einem Entwurf von J.M. Singer für die an die Pfarrkirche St. Laurentius angebaute Elsenheimerkapelle (Drexler-Herold, S. 360). Im AR der Waal benachbarten Pfarrkirche St. Martin in Fahlenbach - im 18. Jh. eine Hofmarkskirche - hängt ein stark nachgedunkeltes Ölgemälde mit der Geißelung Christi, bezeichnet »Joha michal Singer / pix 1788«. Quellen: Hofmarksarchiv Rohrbach
-<!-- citation-page-bottom: Band14 p269 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk006.pdf#page=11 -->
-<!-- citation-page-top: Band14 p270 -->
 
-<!-- header: MALER -->
 
 WINTER, Johann Georg, Maler in München
 
@@ -128,5 +121,3 @@ Lit.: CBD Bd 1–12; Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimme
 *13.2.1665 Donaumünster †2.11.1738 Eichstätt. Am 17.1.1691 heiratete Zink in Eichstätt und betrieb bis zu seinem Tode 1738 die größte und wichtigste Malerwerkstätte in Eichstätt. Sein Hauptauftraggeber war das Hochstift Eichstätt (CBD Bd 13); daneben war Zink auch in Ingolstadt, Neuburg a.d. Donau (CBD Bd 10, S. 162) und Harburg tätig. Im LKr. Pfaffenhofen kann ihm die Ausmalung der Kirche in Baar, in Zusammenarbeit mit dem Eichstätter Stuckator Jakob Egg, zugewiesen werden (siehe S. 179).
 
 Lit.: Weissenberger, Paulus, Die Malerfamilie Matthias und Johann Michael Zink. Ihre Lebensgeschichte und ihr Lebenswerk, in: Ellwanger Jahrbuch 22, 1967/68, S. 37–71; CBD Bd 13, S. 456.
-
-{{End}}

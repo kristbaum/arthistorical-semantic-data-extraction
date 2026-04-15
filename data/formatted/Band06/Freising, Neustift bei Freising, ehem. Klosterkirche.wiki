@@ -31,12 +31,8 @@ Ehem. Stiftskirche, heute Pfarrkirche. Nach der Säkularisation ab 1803 Garnison
 
 
 [[File:Band06_chunk004_p013_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band06 p175 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=14 -->
-<!-- citation-page-top: Band06 p176 -->
 
-<!-- header: NEUSTIFT BEI FREISING -->
 
 == NEUSTIFT BEI FREISING ==
 
@@ -58,12 +54,8 @@ Die Dekoration von Neustift entstand in einer Zeit, als Zimmermann trotz seines 
 
 [[File:Band06_chunk004_p014_img001.jpg|thumb|Vorzeichnung zu B, Vorbestimmung des Klosters Prémontré – Grundsteinlegung der Kirche – Neustift als neues Prémontré, München]]
 
-<!-- citation-page-bottom: Band06 p177 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=15 -->
-<!-- citation-page-top: Band06 p178 -->
 
-<!-- header: NEUSTIFT BEI FREISING -->
 
 
 [[File:Band06_chunk004_p015_img001.jpg|thumb|Innenansicht]]
@@ -113,12 +105,8 @@ Das Bild spielt auf diese Vision an. Die Szene wurde hier wohl als Bildthema gew
 
 Die scheinbare Leichtigkeit der Bildszenerie unterliegt einer streng gebauten Dreiecks-Komposition, wobei die aufragenden Bäume und das Heckentor sowie die Balustrade aus dem kleineren Marienbild ein gleichgewichtiges Gegenüber zur Figur Friedrich von Hallums bilden, der von der Architektur hinterfangen ist. Unterstützt wird diese Komposition durch die Verteilung der Buntwerte: Rot und Gold (Ocker) sind die wichtigsten Farbwerte bei jeder der drei Personen. Bei Cäcilia tritt es an Orgel und Mantel auf, beim Marienbild an Rah-
 
-<!-- citation-page-bottom: Band06 p179 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=16 -->
-<!-- citation-page-top: Band06 p180 -->
 
-<!-- header: NEUSTIFT BEI FREISING -->
 
 
 [[File:Band06_chunk004_p016_img001.jpg|thumb]]
@@ -136,10 +124,7 @@ Der hl. Norbert steht auf den Steinstufen, die zur Klause auf der linken Bildsei
 
 
 [[File:Band06_chunk004_p016_img002.jpg|thumb|Vorbestimmung des Klosters Prémontré – Grundsteinlegung der Kirche – Neustift als neues Prémontré]]
-<!-- citation-page-bottom: Band06 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band06 p182 -->
 
 NEUSTIET BEI EREISING
 
@@ -174,10 +159,7 @@ Die zweite Szene dieser Bildseite zeigt rechts vom Kreuz einen Bischof, vor dem 
 
 
 [[File:Band06_chunk004_p017_img005.jpg|thumb|Vorbestimmung des Klosters Prémontré, Südansicht von Fresko B]]
-<!-- citation-page-bottom: Band06 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band06 p184 -->
 
 [[File:Band06_chunk004_p018_img001.jpg|thumb]]
 
@@ -212,10 +194,7 @@ Der weite Kuppelraum ist lichtdurchflutet. Das irdische Licht aus den großen Bo
 Die Engel hinter Maria halten Attribute, die dem hl. Norbert (ab 1126 Erzbischof von Magdeburg) zukommen: die Lilie als Zeichen der Jungfräulichkeit, Brustkreuz und Pallium als Zeichen der erzbischöflichen Würde und einen Lorbeerbzweig. Die Flammenschale auf der Balustrade symbolisiert die liebende Verehrung Norberts für die Gottesmutter.
 
 Rechts, an der gegenüberliegenden Seite des Kuppelraums, ist ein Altar zu sehen, auf dem eine Statue des hl. Johannes des Täufers steht. Ein Mönch in grauem Habit kniet davor. Der Johannes-Altar kennzeichnet den Kirchenraum als die alte Johanniskapelle von Prémontré. Dort erhielt Norbert nach der Legende das weiße Ordenskleid von Maria, dort nannte sie ihm den Ort für die Klostergründung und forderte ihn auf, die Regel vom Papst bestätigen zu lassen. So wird durch die Szene der Gewandübergabe – Maria als eigentliche Gründerin des Ordens dargestellt.
-<!-- citation-page-bottom: Band06 p185 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band06 p186 -->
 
 [[File:Band06_chunk004_p019_img001.jpg|thumb|FII Die Drei Göttlichen Tugenden]]
 
@@ -285,7 +264,3 @@ Lehrmann, Günther-Franz, Neustift in Freising. Chronik einer Vorstadtpfarrei, M
 
 »Diptychor inclytae canoniae Neocellensis prope Frigisingam«
 »Kirchen Zierd«
-<!-- citation-page-bottom: Band06 p187 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=20 -->
-{{End}}

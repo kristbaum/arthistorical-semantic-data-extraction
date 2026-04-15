@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p442 -->
 
-<!-- header: WEINDOR -->
 
 
 == WEINDORF ==
@@ -79,7 +77,3 @@ Gailler, Franciscus, Vindeliciae Sacrae... Capitulum Weilheimense, Augsburg 1756
 Gebhart, Hansjakob, Staffelseechronik, Murnau [1931], S. 129.
 
 Lohr, Martin, Murnau (= KKF, Nr. 476), München<sup>3</sup> 1961, S. 22 f.
-<!-- citation-page-bottom: Band02 p443 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=23 -->
-{{End}}

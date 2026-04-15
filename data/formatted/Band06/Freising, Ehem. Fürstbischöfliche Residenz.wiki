@@ -12,9 +12,7 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band06 p160 -->
 
-<!-- header: STADT FREISING -->
 
 
 == Ehem. fürstbischöfliche Residen: ==
@@ -65,10 +63,7 @@ Zimmermann hat diesen Antagonismus von apollinischer und dionysischer Musik häu
 
 
 Apol
-<!-- citation-page-bottom: Band06 p161 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk004.pdf#page=7 -->
-<!-- citation-page-top: Band06 p162 -->
 
 [[File:Band06_chunk004_p007_img001.jpg|thumb|lustitia]]
 
@@ -85,5 +80,3 @@ Holnstein, 1737; Nymphenburg, Steinerner Saal, 1755/57; CBD 3/II, S. 366, 573). 
 Benker 1975, Abb. S. 12 (Stuck). Bauer, Hermann und Anna, Johann Baptist und Dominikus Zimmermann, Regensburg 1985, S. 308. Götz 1992, S. 228, 290 und Abb. 86. Beiträge Freising 1994, S. 277 und Abb. S. 259. B.V.-K.
 
 Ehem. Domdechantei, Domberg 18-24, heute Amtsgericht und Vermessungsamt
-
-{{End}}

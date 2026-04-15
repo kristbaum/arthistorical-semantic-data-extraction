@@ -13,9 +13,7 @@
 |AutorIn2=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p488 -->
 
-<!-- header: SCHWEINSTEIG -->
 
 Kapelle in Privatbesitz, zum Einödhof Vorderschweinsteig gehörig, Pfarrei Reisach/Oberaudorf, Gemeinde Oberaudorf, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei Flintsbach, Kuratie Audorf. Gericht Auerburg
 
@@ -57,15 +55,11 @@ Das gesamte Gewölbe des kleinen Hauptraums ist von Malerei überzogen, die durc
 
 A MARIA HIMMELFAHRT Das runde Kuppelbild hat eine – thematisch bedingte – Hauptansicht, doch ist es zentralperspektivisch korrekt konstruiert. Es zeigt eine umlaufende Szenerie, gebildet teils durch Architekturen, die zur Bildmitte hin fluchten, teils durch Landschaft, wo die Bäume die Flucht-
 
-<!-- citation-page-bottom: Band12 p489 -->
 
 
 [[File:Band12-2_chunk004_p020_img003.jpg|thumb]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=21 -->
-<!-- citation-page-top: Band12 p490 -->
 
-<!-- header: SCHWEINSTEIG -->
 
 [[File:Band12-2_chunk004_p021_img001.jpg|thumb|Das Gewölbe der Kapelle mit den Fresken A Mariä Himmelfahrt, 1–4 Evangelisten (Peter Troger 1771)]]
 
@@ -96,7 +90,3 @@ Bernrieder, Josef, Unser Audorf. Chronik II. Teil, Oberaudorf 1991, S. 436 (mit 
 -, Die Geschichte der Pfarrei »Zu Unserer lieben Frau« in Oberaudorf (hg. anläßlich der 1200-Jahr-Feier der Pfarrei) Oberaudorf 1992. 3. Die Kapellen in Ober- und Niederaudorf und in Kiefersfelden, S. 67–101. Schweinsteig S. 92 f.  
 
 A. B./K. S.  
-<!-- citation-page-bottom: Band12 p491 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=22 -->
-{{End}}

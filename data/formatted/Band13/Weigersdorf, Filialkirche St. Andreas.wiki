@@ -13,9 +13,7 @@
 |AutorIn2=Grimminger, Christina
 }}
 
-<!-- citation-page-top: Band13 p446 -->
 
-<!-- header: WEIGERSDORF -->
 
 
 == WEIGERSDORF ==
@@ -27,7 +25,7 @@ Filialkirche, Gemeinde und Pfarrei Pollenfeld, Bistum Eichstätt; z. Z. der Ausm
 '''Patrozinium:''' St. Andreas
 
 
-'''Zum Bauwerk:''' Kleine, für die ländliche Gegend des ehem. Hochstiftgebiets typische, barockzeitlich geprägte Kirche. Neubau von 1745 nach Plänen des Eichstätter Hofbaudirektors Gabriel de Gabrieli, ausgeführt durch seinen Palier und Hofmaurermeister Giovanni Domenico Barbieri, Bauausführung vor Ort durch den Pollenfelder Maurermeister Joseph Leitner, Zimmermeister Matthias Heis von Seuversholz. Auch die bauzeitliche Innenausstattung von Eichstätter Künstlern, so der Stuck von Franz Xaver Horneis: »Stucca Horneys allhir hat von der Ippsdeckh mit einer Hohl-köll,<br>und in der Mitte ein Kranz, oder Ramen, die Baarkürch aber an der Brüstwandt mit 3 Vilungen zumachen. Vor seinen Verdienst 30 fl.« (DAEI, Pfarrakten Pollenfeld I,4). Von ihm stammen auch die 1746 datierte Kanzel und die Apostelkränze. Die Fresken sowie Haupt- und Auszugsgemälde des H
+'''Zum Bauwerk:''' Kleine, für die ländliche Gegend des ehem. Hochstiftgebiets typische, barockzeitlich geprägte Kirche. Neubau von 1745 nach Plänen des Eichstätter Hofbaudirektors Gabriel de Gabrieli, ausgeführt durch seinen Palier und Hofmaurermeister Giovanni Domenico Barbieri, Bauausführung vor Ort durch den Pollenfelder Maurermeister Joseph Leitner, Zimmermeister Matthias Heis von Seuversholz. Auch die bauzeitliche Innenausstattung von Eichstätter Künstlern, so der Stuck von Franz Xaver Horneis: »Stucca Horneys allhir hat von der Ippsdeckh mit einer Hohl-köll, und in der Mitte ein Kranz, oder Ramen, die Baarkürch aber an der Brüstwandt mit 3 Vilungen zumachen. Vor seinen Verdienst 30 fl.« (DAEI, Pfarrakten Pollenfeld I,4). Von ihm stammen auch die 1746 datierte Kanzel und die Apostelkränze. Die Fresken sowie Haupt- und Auszugsgemälde des H
 
 LHs (11 × 7,50 m) als kleine Saalkirche zu zwei Fensterachsen, eingezogener, mit korbbogigem Chorbogen ausgeschiedener
 
@@ -63,10 +61,7 @@ Erhaltungszustand und Restaurierungen: 1868 Restaurierung mit Baureparaturen und
 
 
 0 1 A MARTYRIUM DES HL. ANDREAS In einer weiten Landschaft sieht man im Hintergrund eine Stadt - Patras. Schauplatz der Szene ist eine steinige Wiese, rings von Felsen umgeben. Hier ist der Apostel Andreas in der Bildmitte kniend dargestellt, ein graubärtiger Mann, bis auf einen roten Mantel entblößt, mit Stricken gebunden. Mehrere Henkersknechte zerren an ihm, kommandiert von einem Berittenen in römischer Soldatentracht, der einen Feldherrnstab in der Linken hält; in ihm dürfte der Statthalter Aegeas zu sehen sein.
-<!-- citation-page-bottom: Band13 p447 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk009.pdf#page=25 -->
-<!-- citation-page-top: Band13 p448 -->
 
 [[File:Band13_chunk009_p025_img001.jpg|thumb]]
 
@@ -104,14 +99,10 @@ Richard der Angelsachse, Vater der Heiligen Walburga, Willibald und Wunibald, wa
 
 == 2 Walburga ==
 Die Heilige steht in einer weiten Ebene, aus der links im Hintergrund ein Berg mit einer Kirche mit Doppelturmfassade (Kloster Heidenheim?) aufragt. Sie trägt den Habit der Benediktinerinnen und hat ein Buch in der Hand. Zum Zeichen ihrer Äbtissinnenwürde hält sie das Pedum in der Linken; die Krone auf dem Haupt erinnert an ihre königliche Abkunft. Stifterinschrift: Walburga Pfaller.
-<!-- citation-page-bottom: Band13 p449 -->
 
 [[File:Band13_chunk009_p025_img007.jpg|thumb|A Martyrium des hl. Andreas, B Martyrium des hl. Vitus (Hugo Ernst Murmann 1745)]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk010.pdf#page=1 -->
-<!-- citation-page-top: Band13 p450 -->
 
-<!-- header: WEIGERSDORF -->
 
 
 [[File:Band13_chunk010_p001_img001.jpg|thumb|Emporenbrüstung: Vermählung, Abendmahl, Hl. Wandel (modern]]
@@ -140,5 +131,3 @@ DAEI, Pfarrakten Pollenfeld I,4: Baulichkeit an der Filialkirche Weigersdorf; R2
 Buchner Bistum Eichstätt 1938, S. 404–10 (Pfarrei Pollenfeld). Neuhofer, Theodor, Beiträge zur Kunstgeschichte des Hochstifts Eichstätt, in: SHVE 61, 1965/66, S. 9–92, hier: S. 40f. Margadant, Silvio und Emanuel Braun (Hg.), maurermeister des Fürstbischofs von Eichstätt. Autobiographie und Ausgabenjournal, Regensburg 2004, S. 111. Dehio OB 2006, S. 1363.
 
 A. B./C. G.
-
-{{End}}

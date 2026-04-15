@@ -25,12 +25,8 @@ Lange, niedrige Kirche in beherrschender Lage auf der äußersten Spitze des >Ra
 [[File:Band12-2_chunk003_p006_img001.jpg|thumb|Der Kirchenraum]]
 
 [[File:Band12-2_chunk003_p006_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p411 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk003.pdf#page=7 -->
-<!-- citation-page-top: Band12 p412 -->
 
-<!-- header: RAIN -->
 
 
 [[File:Band12-2_chunk003_p007_img001.jpg|thumb]]
@@ -62,10 +58,7 @@ A GESCHICHTE DES HL. ANDREAS Längsformatiges Bildfeld, dessen beide Längsseite
 
 
 [[File:Band12-2_chunk003_p007_img002.jpg|thumb|Geschichte des hl. Andreas (Franz Xaver Tiefenbrunner d. J. 1763)]]
-<!-- citation-page-bottom: Band12 p413 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk003.pdf#page=8 -->
-<!-- citation-page-top: Band12 p414 -->
 
 [[File:Band12-2_chunk003_p008_img001.jpg|thumb|Heiligen, den Hund mit der Fackel über der Weltkugel. Aus dem Himmel fällt ein Strahl auf Dominikus.]]
 
@@ -74,12 +67,8 @@ Die Südseite zeigt die Berufung des Andreas (Mt 4,18-20 u. Par.). Jesus steht a
 Die Nordseite zeigt das Martyrium des hl. Andreas: Im Vordergrund einer weiten hügeligen Landschaft mit einzelnen Bäumen ist das schräge Balkenkreuz aufgestellt, von Soldaten und Wächtern umgeben. Mit dem vornehm gekleideten Mann in der Mitte der Szene dürfte der Landpfleger Aegeas gemeint sein, der Andreas zum Tod verurteilt hatte. Andreas selbst kommt von rechts auf das Kreuz zu und bricht bei seinem Anblick in eine Lobpreisung des Kreuzes aus (LA-Benz, Sp. 26 f.). Hinter ihm Soldaten und Volk.
 
 [[File:Band12-2_chunk003_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p415 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk003.pdf#page=9 -->
-<!-- citation-page-top: Band12 p416 -->
 
-<!-- header: RAIN -->
 
 RAMERBERG
 
@@ -114,5 +103,3 @@ Historischer Atlas I, Bd 38 Rosenheim. Die Landgerichte Rosenheim und Auerburg u
 Thalkirchen (o.V., o.O.), vervielfältigtes Ms als Kirchenführer. Katalog der Ausstellung 1250 Jahre Truthersreute – Trautersdorf 740–1990 im Heimatmuseum Prien, Prien 1990, S. 36 f. Dehio 1990, S. 997.
 
 Naimer, Erwin, Das Bistum Chiemsee in der Neuzeit (= Quellen und Darstellungen zur Geschichte der Stadt und des Landkreises Rosenheim Bd XI), Rosenheim 1990, S. 57. A. I
-
-{{End}}

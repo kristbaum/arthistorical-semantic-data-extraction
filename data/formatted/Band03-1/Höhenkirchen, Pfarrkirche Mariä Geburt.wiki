@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p120 -->
 
-<!-- header: HOHENKIRCHEN -->
 
 
 == HOHENKIRCHEN ==
@@ -99,7 +97,3 @@ Die apokryphen Szenen aus dem Leben Mariens sind im Protoevangelium des Jakobus 
 Schmidtsche Matrikel, Bd 2, S. 509f, § 317. Mayer-Westermayer, Bd 2, S. 626 f., 629. Haas, Walter, Die Baugeschichte der Pfarrkirche in Höhenkirchen, in: BLfD, 23. Bericht 1964 (1965), S. 64-79. Backer, Johann, Höhenkirchen vor München (= KKF, Nr. 836), München 1966. Der Landkreis München (o. V.), München 1979, S. 50.
 
 C. B
-<!-- citation-page-bottom: Band03-1 p121 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=12 -->
-{{End}}

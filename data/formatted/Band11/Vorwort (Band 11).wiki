@@ -10,10 +10,7 @@
 |AutorIn1=Büttner, Frank
 |AutorIn2=Rupprecht, Bernhard
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk001.pdf#page=4 -->
-<!-- citation-page-top: Band11 p6 -->
 
-<!-- header: VORWORT -->
 
 Das Gebiet, dessen Deckenmalereien in diesem Band 11 des >Corpus der barocken Deckenmalerei in Deutschland« vorgestellt werden, hat keine gemeinsamen historischen Wurzeln. Der heutige Landkreis Traunstein umfaßt sowohl ehemals kurbayerische Gerichte wie Traunstein, Trostberg, Kling und Marquartstein als auch die Fürstbischöflich Salzburgischen Gerichte Tittmoning und Waging. Der Landkreis Berchtesgadener Land erstreckt sich über das Gebiet der ehemaligen reichsfreien Fürstpropstei Berchtesgaden sowie über die Salzburgischen Gerichte Laufen und Staufeneck. Historisch in sich geschlossen ist nur der Landkreis Ebersberg, der sich im wesentlichen mit dem ehemals kurbayerischen Gericht Schwaben deckt.
 
@@ -50,5 +47,3 @@ Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir m�
 Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für die verlegerische Betreuung verpflichtet. Frau Katja Durchholz betrieb wieder mit fachlichem Können, künstlerischem Geschick und großem persönlichen Einsatz die Herstellung dieses Bandes.
 
 Frank Büttner und Bernhard Rupprecht
-<!-- citation-page-bottom: Band11 p7 -->
-{{End}}

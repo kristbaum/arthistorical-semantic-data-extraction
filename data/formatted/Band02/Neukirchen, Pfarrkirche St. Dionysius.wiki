@@ -54,10 +54,7 @@ A HEILIGENHIMMEL Der Aufnahmestandpunkt liegt unter dem westlichen Bildrand. - D
 
 
 [[File:Band02_chunk011_p015_img004.jpg|thumb|EB<sub>3</sub> Georg in der Kalkgrube]]
-<!-- citation-page-bottom: Band02 p529 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=16 -->
-<!-- citation-page-top: Band02 p530 -->
 
 [[File:Band02_chunk011_p016_img001.jpg|thumb|A4 Insti]]
 
@@ -87,16 +84,11 @@ B<sub>1-2</sub> ALTTESTAMENTARISCHE OPFERSZENEN Zwei Kartuschfelder begleiten da
 
 A HEILIGENHIMMEL Das Hauptfresko von Neukirchen zeigt einen Heiligenhimmel besonderer Art: Über den Kirchen und Kapellen, die z. Z. der Ausmalung zu der Pfarrei Neukirchen gehörten, ist jeweils der Patron der Kirche dargestellt (frdl. Mitt. Geistlicher Rat Ernst Kretschmer, Holzolling). Auch die übrigen Heiligen stehen in einem direkten Bezug jeweils zu den einzelnen Kirchen oder der Pfarrei. Im einzelnen sind es folgende Heilige: An der O-Seite thronen über der Pfarrkirche von Neukirchen (mit dem 1876 abgetragenen Turm auf der S-Seite, jetzt an der N-Seite) die beiden Gefährten des Kirchenpatrons, der Priester Rusticus und der Diakon Eleutherius, die nach der Legende zusammen mit dem ersten Bischof von Paris, Dionysius, den Martertod erlitten und mit ihm in Neukirchen verehrt wurden. Sie sind beide in Diakonstracht dargestellt und halten Schwert und Palmzweige. Die Gruppe links davon wird angeführt von dem Kirchenpatron Dionysius, der auf Händen sein Attribut, den Kopf trägt. Von ihm aus gehen Strahlen zu seiner Kirche. Neben
 
-<!-- citation-page-bottom: Band02 p531 -->
 
 [[File:Band02_chunk011_p016_img005.jpg|thumb|A Heiligenhimmel]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=17 -->
-<!-- citation-page-top: Band02 p532 -->
 
-<!-- header: NEUKIRCHEN -->
 
-<!-- header: NEUKIRCHE -->
 
 
 [[File:Band02_chunk011_p017_img001.jpg|thumb]]
@@ -133,15 +125,11 @@ A1-4 KARDINALTUGENDEN In den neugemalten Kartuschen, in denen wohl ursprünglich
 A1 Löwenhaut, Olivenzweig, Schild, Keule und Helm = Fortitudo. – A2 Bücher, Spiegel und Schlangen = Prudentia. – A3 Auge Gottes im Dreiecknimbus über den Gesetzestafeln: diese Kartusche ist sicher vollkommen neu gemalt worden; ursprünglich dürften sich hier die Attribute der Temperantia befunden haben. – A4 Buch, Schwert und Waage = Justitia.
 
 B MARTYRIUM DES HL. DIONYSIUS Das Hauptfresko im LHs nimmt Bezug auf die ganze Pfarrei, deren Hauptkirche Neukirchen ist. B dagegen im Chor ist dem eigenen Patron, dem hl. Dionysius, gewidmet. Dargestellt ist eine Szene aus seiner Legende (AASS Oct., Tom. 4, 9.10., S. 900–902; LA-Benz, S. 856 f.). Dionysius, vom Papst zusammen mit seinen Gefährten Rusticus und Eleutherius nach Frankreich gesandt, wurde in der Nähe von Paris ergriffen und wegen seines Glaubens entsetzlichen Martern unterworfen. Zuletzt wurde er mit seinen Begleitern enthauptet. Sein Haupt unter dem Arm, wandelte er von himmlischem Licht umstrahlt, den Mons Martyrum hinab bis zu seiner Grabstätte in St. Denis. Zahlreiche Augenzeugen dieses Wunders wurden gläubig und ließen
-<!-- citation-page-bottom: Band02 p533 -->
 
 
 [[File:Band02_chunk011_p017_img003.jpg|thumb|B Martyrium des hl. Dionysius B<sub>1-2</sub> AT-Szenen]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=18 -->
-<!-- citation-page-top: Band02 p534 -->
 
-<!-- header: NEUKIRCHEN -->
 
 sich taufen, unter ihnen Larcia (Laertia), Gattin des Präfekten Lubrius, die daraufhin ebenfalls enthauptet wurde. Diese Larcia ist im Deckenbild in der vor dem Heiligen knienden Frau dargestellt. In den Enthaupteten auf dem Hügel im Hintergrund kann man die Gefährten Rusticus und Eleutherius erkennen.
 
@@ -161,6 +149,3 @@ Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nac
 
 
 == OSTERHOFEN ==
-
-
-{{End}}

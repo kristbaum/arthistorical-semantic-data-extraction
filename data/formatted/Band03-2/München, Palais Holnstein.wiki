@@ -43,12 +43,10 @@ Erhaltungszustand und Restaurierungen: Die Deckenbilder wurden 1971 durch Werner
 »Risse mit Niveau-Verschiebung, sowie frühere Retuschen in den Puttenfiguren, Überarbeitung des Ornaments wurde vorgefunden, Wasserschäden. (...) Die Retuschen wurden entfernt und neu eingestimmt, der übermalte Grundton im Ornament wurde aufgehellt.«
 
 zu Bild IB: »Die Freilegung dieser Fläche in Secco-Malerei gestaltete sich schwierig, da nach den Beschädigungen durch Luftminen im 2. Weltkrieg an eine Restaurierung nicht gedacht wurde. Flächen wurden nur überputzt und weiß getüncht.« Peltzer registrierte außerdem Wasserschäden und nicht gänzlich entfernbare Reste der weißen Übertünchung. Rekonstruiert werden mußten ein Streifen an der S-Wand und die anschließende Hohlkehle. »Partien. die stark lädiert waren, wie z.B. die Baumgruppe mit Schwert schwingendem Genius oder die Brunnenarchitektur auf der rechten Bildseite wurden nur insoweit skizzenhaft verdeutlicht, als für einen geschlossenen Gesamteindruck erforderlich war.« Peltzer konstatiert, daß die beiden Hauptfiguren am besten erhalten waren, »während der Beschädigungsgrad mit der Entfernung von dieser Mitte zunahm.«
-<!-- citation-page-bottom: Band03-2 p571 -->
 
 
 [[File:Band03-2_chunk012_p011_img001.jpg|thumb|I<sub>A</sub> Put]]
 
-<!-- citation-page-top: Band03-2 p572 -->
 
 [[File:Band03-2_chunk012_p012_img001.jpg|thumb|II Parnaß, Teilansicht Apoll und die Muser]]
 
@@ -96,14 +94,9 @@ In der Hohlkehle sind in Grisaillemalerei Rocaillen und Blumenranken gemalt; die
 chen wird zwischen den Sträuchern ein Faunskopf sichtbar Wild verbirgt sich in den Büschen, ein Jagdhund springt vor.
 
 [[File:Band03-2_chunk012_p012_img003.jpg|thumb|II Parnaß, Teilansicht Diana mit Göttinnen und Geniu-]]
-<!-- citation-page-bottom: Band03-2 p573 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk012.pdf#page=13 -->
-<!-- citation-page-top: Band03-2 p574 -->
 
-<!-- header: PALAIS TATTENBACH -->
 
-<!-- header: PALAIS TATTENBACH -->
 
 schmale längsrechteckige gemalte Kartusche mit ockerfarbener Puttodarstellung, rechts und links davon jeweils, trophäenartig gebündelt, Requisiten der betreffenden Szene.
 
@@ -151,6 +144,3 @@ Braunfels, Wolfgang, François Cuvilliés. Der Baumeister der galanten Architekt
 
 
 == PALAIS TATTENBACH ==
-
-
-{{End}}

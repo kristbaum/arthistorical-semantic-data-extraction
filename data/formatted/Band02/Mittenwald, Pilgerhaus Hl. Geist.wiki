@@ -48,12 +48,8 @@ Erhaltungszustand und Restaurierungen: 1896 erfolgte eine Restaurierung des Pilg
 A TRIUMPH MICHAELS Einansichtiges Deckenbild in gestreckter Vierpaßform mit großfiguriger Darstellung des Engelsturzes in einem Himmelsraum. Die Komposition ist auf den Fluchtpunkt im oberen Bilddrittel hin angelegt, Betrachterstandort in der Mitte unter dem Bild gegen O; es kann wegen der geringen Deckenhöhe (von 3 m) nicht simultan erfaßt werden, auch wirkt das Format der Engelsfiguren zu mächtig. Die symmetrisch angelegte, tafelbildmäßige Darstellung ohne Untersicht zeigt den Erzengel als Hauptakteur im Zentrum als größte Figur, seine Assistenzfiguren zu beiden Seiten sowie die gefallenen Engel zu seinen Füßen sind dagegen in gleicher Weise verkleinert, was einer höhenillusionistisch aufgebauten Gesamtanlage des Bildes widerspricht. Es scheinen sich vielmehr die Himmelssphäre mit der Puttenglorie ebenso wie der anschaulich »unten« an der Bildbasis angedeutete Höllenschlund gegenüber der Zentralfigur bildparallel in die Tiefe zu stufen.
 
 Kräftige, gesättigte Farbtöne, besonders Ocker, Rot und Graublau bis zu Schwarz versammeln sich in der unteren Bildpartie, während der Bereich des Erzengels und der
-<!-- citation-page-bottom: Band02 p371 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk008.pdf#page=12 -->
-<!-- citation-page-top: Band02 p372 -->
 
-<!-- header: MITTENWALD -->
 
 [[File:Band02_chunk008_p012_img001.jpg|thumb|B Pfingsten]]
 
@@ -69,12 +65,8 @@ Luzifers weist auf den apokalyptischen Kampf Michaels hin (Apoc 12, 7–9). Stei
 B PFINGSTEN (Act 2, 1–4) Einansichtiges Bild in der Form von A mit Betrachterstandpunkt gegen O in der Mitte darunter. Das Format der Figuren ist gegenüber der großen Michaelsfigur in A reduziert, wirkt aber für die geringe Deckenhöhe immer noch zu mächtig, desgleichen die Stufenanlage im Vordergrund.  
 
 Eine Rückenfigur führt repoussoirhaft in das Bildgeschehen ein, zur halbkreisförmigen Versammlung der Apostel und Frauen um Maria vor einer genischten und säulenbesetzten Rückwand, die in der Gebälkzone von der wolkengesäumten Glorie der Hl.-Geist-Taube überstrahlt wird. Das Bild ist nicht konsequent auf den Fluchtpunkt unterhalb der Bildmitte hin konstruiert: Die verhältnismäßig kleine Rückenfigur in starker Aufsicht und Verkürzung illusioniert Raumtiefe, diese wird aber von den größeren Apostelfiguren, besonders der beiden an den Bildrändern und der sehr groß wirkenden Marienfigur in der Mitte nicht fortgeführt. Vielmehr erscheinen dadurch die an der Bildbasis einschwingenden Treppenstufen an ihrem oberen Abschluß konvex vorschwingend. Eine gewisse Entrückung der Gloriole wird durch die leicht untersichtige und konvergierende Säulenarchitektur erreicht, die gegen die breit gelagerte Gruppe die vertikale Mittelachse der Komposition betont.  
-<!-- citation-page-bottom: Band02 p373 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk008.pdf#page=13 -->
-<!-- citation-page-top: Band02 p374 -->
 
-<!-- header: MITTENWALD -->
 
 Die Farbgebung und Hell-Dunkel-Behandlung entspricht weitgehend A, nur fehlen die kühlen Gelbgrautöne. Rot, Ocker, Braun und Schwarzblau sind die vorherrschenden Farben, die in starker Sättigung auftreten. Die Gloriole ist zwar in aufgehelltem Rot gehalten, die Hl.-Geist-Taube grauweiß, sie wirkt im ganzen jedoch nicht als strahlende Lichtquelle. Den hellsten Wert des Bildes macht das Inkarnat und das weiße Untergewand Mariens aus.
 
@@ -104,6 +96,3 @@ Böhm, Cordula, Der verlorene Sohn von Mittenwald, in Charivari 1980, Heft 3, S.
 
 
 == OBERAMMERGAU ==
-
-
-{{End}}

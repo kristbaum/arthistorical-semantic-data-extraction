@@ -45,13 +45,8 @@ Maße: Höhe 8,30 m; 3,60 x 2,90
 Erhaltungszustand und Restaurierungen: Die Innenrestaurierung 1861 »interpretierte den Raum einheitlich im Sinne de Neugotik«. Damals wurden im Gewölbe neugotische Rippen
 
 
-<!-- citation-page-bottom: Band12 p17 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk001.pdf#page=10 -->
-<!-- citation-page-top: Band12 p18 -->
 
-<!-- header: AISING -->
-<!-- header: ALBACHING -->
 
 [[File:Band12-1_chunk001_p010_img001.jpg|thumb|Martyrium des hl. Stephanus (Johann Baptist Böham 1792)]]
 
@@ -66,5 +61,3 @@ MARTYRIUM DES HL. STEPHANUS Auf einem weiten Wiesenplan, der sich nach hinten bi
 == Quellen und Literatur ==
 
 AEM, Pfarrakten Pang, Pfarrbeschreibung; Bauten II: Restaurierung 1933; Filiale Aising 1649–1921: Wallfahrt zu den Vierzehn Nothelfern, Nothelferaltar 1645. AEM, Kunsttopographie der Erzdiözese, Dekanat 34/Rosenheim, Pfarrei Pang, Filiale St. Stephanus 41.13.2. (Dieter Gerhard Morsch 2001). BLfD, Akt Aising, Filialkirche St. Stephan. Schmidtsche Matrikel Bd 2, S. 77–82. Mayer-Westermayer Bd 2, S. 769, 773. KDB I OB (2), S. 1570. Bomhard Bd 1, S. 109–11, 398, 448. Historischer Atlas I, Bd 17, Landgericht Aibling und Reichsgrafschaft Hohenwaldeck (Franz Andrelang), München 1967, S. 134 f. Dehio 1990, S. 6. Bomhard, Peter von, und Sigmund Benker, Kirche St. Johann Baptist – Heilig Kreuz Westerndorf am Wasen (= KKF Nr. 667), München-Zürich 1991, S. 16–18.
-
-{{End}}

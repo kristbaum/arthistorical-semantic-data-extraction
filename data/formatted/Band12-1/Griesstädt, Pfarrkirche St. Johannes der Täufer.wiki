@@ -13,9 +13,7 @@
 |AutorIn2=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band12 p172 -->
 
-<!-- header: GRIESSTAT -->
 
 
 == GRIESSTATT ==
@@ -53,15 +51,11 @@ Mitterwieser 1913 benützte eine heute verschollene Beschreibung der Kirche von 
 Das frühere Chorfresko liegt wegen der baulichen Veränderungen von 1870 heute zwischen dem ersten und dem zweiten Langhaus-Joch von Osten her; diese beiden Joche bildeten vor dem Anbau den alten Chor. Von begleitenden Nebenbildern wie im LHs ist nichts überliefert.
 
 ENTHAUPTUNG JOHANNES DES TÄUFERS Ansicht nach O. Schauplatz der Szene ist ein Bühnenpodest, zu dem Stufen hinaufführen. Es zieht sich über die ganze Bildbreite und trägt eine triumphbogenartige Säulenarchitektur, hinter der sich der Bildraum zu einem Kuppelsaal mit Pilastern und hohen Fenstern weitet. Im Gegensatz zur dunkleren Vordergrundsarchitektur, die wie ein mächtiges Repoussoir wirkt, erscheint die Tiefe des halbrund geschlossenen Saales sehr hell. Die Tafel des Herodes mit den Gästen ist leicht schräg in den Raum gestellt. Links, am Kopfende ist der baldachinüberwölbte Thron mit Herodes zu sehen. Salome steht in tänzerischer Haltung, reich gekleidet und den Kopf mit Federn aufgeputzt, und hält dem Henker, der zu ihr tritt und ihr das Haupt des Täufers präsentiert, die Schüssel entgegen. Das Johannes-Haupt bildet genau den Mittelpunkt der Komposition. Zu dem auf die Hervorhebung des Johannes-Hauptes hingewiesenen Bildaufbau tritt als weiteres Bildmittel das einer gewollt naiven Drastik, das die Aufmerksamkeit des Betrachters zusätzlich auf das Geschehen bannt: So treten von rechts Pagen auf, die – als eine Paraphrase der Johannesschüssel – auf Schüsseln gehäufte Speisen tragen; so ist links ein Hund gezeigt, der nicht nur nach den Speisen auf den Schüsseln giert. Salome selbst, mit ihren schleifengeschmückten Schuhen noch Tanzschritte vollführend, blickt unter ihrem Federschmuck in grotesker Fröhlichkeit geradeaus, vom Haupt des Täufers weg, wie um ihre völlige innere Teilnahmslosigkeit zu demonstrieren, während der Henker, das blutige Schwert noch in der Rechten, über das Haupt hinweg auf Salome sieht.
-<!-- citation-page-bottom: Band12 p173 -->
 
 
 [[File:Band12-1_chunk004_p012_img001.jpg|thumb|Enthauptung Johannes des Täufers (Franz Xaver Lamp 1775)]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band12 p174 -->
 
-<!-- header: GRIESSTATT -->
 
 
 == Quellen und Literatur ==
@@ -91,6 +85,3 @@ Knorr, Helmut, Ingeborg Mende und Alexander Heisig, St. Johann Baptist in Griess
 
 
 == GROSSHOLZHAUSEN ==
-
-
-{{End}}

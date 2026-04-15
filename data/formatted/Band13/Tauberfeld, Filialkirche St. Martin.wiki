@@ -27,20 +27,15 @@ Altbau bestehend aus einem kleinen, saalartigen LHs (11,80 x 8,60 m) zu zwei Fen
 
 
 [[File:Band13_chunk009_p019_img001.jpg|thumb|Der Altbau nach Osten, jetzt Eingangsbereich]]
-<!-- citation-page-bottom: Band13 p437 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk009.pdf#page=20 -->
-<!-- citation-page-top: Band13 p438 -->
 
-<!-- header: TAUBERFELD -->
 
-<!-- header: TAUBERFEL -->
 
 
 [[File:Band13_chunk009_p020_img001.jpg|thumb|Blick aus dem Neubau nach Osten, vor der Ausmalung 1993]]
 
 
-meinde »auch beede Neben Altär und die Fresco Mahlerey an<br>Tabulat allschon aus aigenen mitlen errichten lassen« (DAEI, Pfarrakten Buxheim VII,2a).
+meinde »auch beede Neben Altär und die Fresco Mahlerey an Tabulat allschon aus aigenen mitlen errichten lassen« (DAEI, Pfarrakten Buxheim VII,2a).
 
 Amtierender Pfarrer von Buxheim war im angenommenen Zeitraum der Entstehung der Ausmalung Richard Anton Streng (1745–66).
 
@@ -75,10 +70,7 @@ Das Oktogon von 1947 besitzt eine Kassettendecke, deren Felder mit floralen Dars
 Die Freskenausstattung im Altbau bestand ursprünglich aus dem mittigen Hauptgemälde, umgeben von vier bassgeigenförmigen Bildfeldern in den Ecken und vier mandelförmigen Medaillons in den Mittelachsen, auch das ovale Bildfeld im AR dürfte barock bemalt gewesen sein. Auf historischen Fotos (Pfarrarchiv Buxheim) sind Umrahmungen um die Eckmedaillons zu sehen; diese eher gemalt als stuckiert. Ob eine barocke Stuckdekoration nachträglich abgeschlagen wurde, ließ sich nicht ermitteln. Die mandelförmigen Bildfelder gehen auf das 19. Jh. zurück. Während die kleineren Bildfelder mehrfach überarbeitet wurden, blieb das Hauptbild relativ erhalten. 
 
 [[File:Band13_chunk009_p020_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p439 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk009.pdf#page=21 -->
-<!-- citation-page-top: Band13 p440 -->
 
 
 == TAUBERFELD ==
@@ -99,6 +91,3 @@ KDB V MF (2), S. 329 f. Buchner Bistum Eichstätt 1937, S. 131-35 (Pfarrei Buxhe
 
 
 == UNTEREMMENDORF ==
-
-
-{{End}}

@@ -49,13 +49,10 @@ Maße: A Höhe 11,30 m; 10,40×5,75
 B Höhe 10,50 m; 4,90×3,35
 
 Erhaltungszustand und Restaurierungen: 1863/64 Reparatur des stuckierten Chorbogens, Schlaudern, Schließen der Risse, Restaurierung der Deckenbilder und Neufassung der Raumschale durch den Maler Joseph Martin Karl von Erding, der bei beiden Bildern eine »Übermalung« in Rechnung stellt
-<!-- citation-page-bottom: Band07 p225 -->
 
-<!-- citation-page-top: Band07 p226 -->
 
 [[File:Band07_chunk005_p014_img001.jpg|thumb]]
 [[File:Band07_chunk005_p014_img002.jpg|thumb|A Martin von Tours vor Kaiser Valerian]]
-<!-- citation-page-bottom: Band07 p227 -->
 
 (»Ubermalen« oder »Auffrischen« bedeutet Nachmalen des vorhandenen Bildes). Die monochromen Bilder wurden ausgebessert und retuschiert (StAM, LRA).
 
@@ -71,8 +68,6 @@ A MARTIN VON TOURS VOR KAISER VALERIAN Um das sehr langgezogene Bildfeld zu glie
 
 Geschildert ist die Szene, als der hl. Martin den Kaiser aufsuchte: »Diser ware von Natur eines unleuthseelig- und rauhen Gemüths, und feindete beynebens, seiner Arianischen Kayserin zulieb, die Catholische, und vorab die Priesterschafft, über die massen an. Nun erforderte einstens die Noth, daß Martinus ihm einige Wichtigkeiten vortragen solte, und um gnädigsten Zutritt ersuchte, der ihm aber zum andern und drittenmahl versaget ward: setzet derohalben von ferneren Begehren aus, lasset gleichwohlen den Muth nit fallen, sondern begibt sich sieben Tag lang zum H. Gebett ... gegen dem«.
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=15 -->
-<!-- citation-page-top: Band07 p228 -->
 
 [[File:Band07_chunk005_p015_img001.jpg|thumb]]
 [[File:Band07_chunk005_p015_img002.jpg|thumb]]
@@ -88,12 +83,8 @@ A<sub>a-d</sub> EMBLEME Kartuschen an Gewölbezwickeln des LHs zeigen vier Emble
 
 A1 Kessel auf dem Feuer. Sey das Wasser noch so kalt / wirds da werden warm gar balt. Wie das Wasser über dem Feuer erhitzt wird, so wurde dem Kaiser auf seinem brennenden Sessel warm.
 
-<!-- citation-page-bottom: Band07 p229 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=16 -->
-<!-- citation-page-top: Band07 p230 -->
 
-<!-- header: NIEDERDING -->
 
 Ab Tobendes Unwetter und Blitz. Ob zwar nit allzeit Schlagt ein, / Schrekht er Doch insgemein. Ebenso wie die Menschen immer Furcht vor dem Gewitter haben, weil der Blitz manchmal einschlägt, so müssen die Hoffärtigen Gott auf das einmalige Ereignis am Thron des Kaisers hin fürchten.
 
@@ -152,7 +143,3 @@ Kleiner, Andreas, Geschichte und Erklärung der Rokoko-Kirche in Niederding (Fal
 Dehio 1990, S. 881 f.
 
 Historischer Atlas I, Bd 58, Erding, (Susanne Margarethe Herleth-Krentz) 1997, S. 210. A.B.
-
-<!-- header: NIEDERSTRAUBING -->
-
-{{End}}

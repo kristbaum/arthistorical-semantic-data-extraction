@@ -12,11 +12,8 @@
 |AutorIn1=Grimminger, Christina
 }}
 
-<!-- citation-page-top: Band13 p180 -->
 
-<!-- header: FICHSTÄTT FRAUENBERGKAPELLE -->
 
-<!-- header: EICHSTÄTT FRAUENBERGKAPELLE -->
 
 
 == Frauenbergkapelle ==
@@ -68,14 +65,9 @@ Technik: Fresko; polychrom.
 Maße: A Höhe 10,20 (Stich 1,80) m; 4,00 × 3,20.
 
 Erhaltungszustand und Restaurierungen: Eine erste Restaurierung der Kapelle ist für die Zeit um 1853 überliefert. Damals dürften die Neben- und Puttenszenen übermalt worden sein. Diesen Zustand beschreibt auch das BLfD-Gutachten vom 19.7. 1939 im Vorfeld der Restaurierung des Innenraums von 1940–42: Während das Hauptbild »wenig oder gar keine Übermalungen aufweist, sind die 7 Medaillons stark und entstellend übermalt«. Damals wurden die Deckenbilder von Kirchenmaler Konrad Schmer »konserviert«, der Stuck ausgebessert, vermutlich auch die Chronogramme unter den Bischofswappen rekonstruiert (deren Wortlaut sind in den
-<!-- citation-page-bottom: Band13 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band13 p182 -->
 
-<!-- header: FICHSTÄTT FRAUENBERGKAPELLE -->
 
-<!-- header: FICHSTÄTT FRAUENBERGKAPELLE -->
 
 
 [[File:Band13_chunk004_p017_img001.jpg|thumb|Wappen der Fürstbischöfe Johann Anton I. Knebel von Katzenelnbogen und Johann Anton II. von Freyberg-Hopferau]]
@@ -99,10 +91,7 @@ a-d PUTTEN MIT KRÄNZEN AUS MARIENSYMBOLEN Vier ovale Bildfelder am unteren Spie
 
 
 [[File:Band13_chunk004_p017_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band13 p184 -->
 
 == EICHSTÄTT FRAUENBERGKAPELLE ==
 
@@ -141,7 +130,3 @@ Grund, Claudia, Die Frauenbergkapelle zu Eichstätt, hg. von der Dompfarrei Eich
 Dehio OB 1990, S. 228f.; 2006, S. 246.
 
 CG
-<!-- citation-page-bottom: Band13 p185 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk004.pdf#page=19 -->
-{{End}}

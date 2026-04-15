@@ -34,12 +34,8 @@ Joseph Anton Schütz zeigt sich in Altenhohenau am Ende des Rokoko als ein begab
 
 
 Träger der Deckenmalerei: LHs und AR Kreuzrippengewölbe; die Deckenbilder 1–3 im LHs und 5–6 im AR erstrecken sich bis über die nach unten anschließende Schildwand
-<!-- citation-page-bottom: Band12 p51 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=2 -->
-<!-- citation-page-top: Band12 p52 -->
 
-<!-- header: ALTENHOHENAU -->
 
 Rahmen: Die Bildfelder nehmen jeweils den ganzen Gewölbezwickel ein. Die Rippen sind ornamental bemalt.
 
@@ -76,12 +72,8 @@ Das Bildthema ist im Bereich des Dominikanerordens häufig: Christus, erzürnt g
 
 
 3 SCHUTZHEILIGE VON ALTENHOHENAU Ansicht nach N. Das Fresko ist von der nach N in die Kirche führenden Türleibung geringfügig angeschnitten. Die dichte Wolkenszenerie öffnet sich am unteren Bildrand zu einem kleinen Ausblick in die Landschaftstiefe, wo in der Ferne das Kloster Altenhohenau dargestellt ist. Die Heiligen nehmen etwa die Fläche der Schildwand ein; im eigentlichen Gewölbebereich sind Putten mit den Leidenswerkzeugen Christi zu sehen. Die zartfarbigen Figuren mit ihren verschiedenen Attributen vor den hellen Wolken sind von großem Reiz.
-<!-- citation-page-bottom: Band12 p53 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=3 -->
-<!-- citation-page-top: Band12 p54 -->
 
-<!-- header: ALTENHOHENAU -->
 
 
 [[File:Band12-1_chunk002_p003_img001.jpg|thumb]]
@@ -111,7 +103,3 @@ ANNA LEHRT MARIA Ansicht nach N. Im Gewölbebereich sind nur Putten dargestellt,
 6–9 PUTTEN Die Gewölbefelder im Schluß des kleinen AR zeigen nur Puttenköpfchen in Wolken.
 
 Quellen und Literatur s.S. 39
-<!-- citation-page-bottom: Band12 p55 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=4 -->
-{{End}}

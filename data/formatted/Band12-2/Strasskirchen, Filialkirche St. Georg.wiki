@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band12 p492 -->
 
-<!-- header: STRASSKIRCHEN -->
 
 
 == STRASSKIRCHEN ==
@@ -81,7 +79,3 @@ A. E
 
 
 [[File:Band12-2_chunk004_p022_img003.jpg|thumb|🛊 Johannes und Paulus als Wohltäter der Arme]]
-<!-- citation-page-bottom: Band12 p493 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk004.pdf#page=23 -->
-{{End}}

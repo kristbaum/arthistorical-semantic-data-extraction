@@ -12,7 +12,6 @@
 |AutorIn1=kein Autorenvermerk (wahrscheinlich Bauer-Wild, Anna)
 }}
 
-<!-- citation-page-top: Band12 p520 -->
 
 == WEIHENLINDEN ==
 
@@ -46,14 +45,9 @@ Zur Zeit der Ausmalung Pfarrei Högling. Die Wallfahrtskirche wurde von Konventu
 
 
 [[File:Band12-2_chunk005_p011_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p521 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=12 -->
-<!-- citation-page-top: Band12 p522 -->
 
-<!-- header: WEIHENLINDEN -->
 
-<!-- header: WEIHENLINDE: -->
 
 bleibt. Einzelmotive wie die an die Türme angehängten Treppentürmchen, die unbelichteten Emporen mit den abgeschrägten Decken, die völlig ungestaltete Fassade und anderes mehr machen deutlich, daß es sich hier um eine Laienarchitektur handelt, mit all ihren Schwächen – aber auch Stärken.
 
@@ -61,7 +55,7 @@ bleibt. Einzelmotive wie die an die Türme angehängten Treppentürmchen, die un
 
 In den folgenden Jahren wurde an der Inneneinrichtung gearbeitet. Der gewaltige zweistöckige Wallfahrtsaltar stammt von 1657/60, die Kanzel schuf 1660 Constantin Pader. Die beiden Seitenaltäre, 1658 und 1659 aufgestellt, wurden 1790/93 durch Rokokoaltäre des Aiblinger Bildhauers Joseph Götsch ersetzt. Kirchturmeinsturz 1679, bei dem das Gewölbe durchschlagen und die Orgel zerstört wurden; anschließend Wiederaufbau. Nach der Einführung der Dreifaltigkeits-Bruderschaft 1733
 
-Neudekoration des Kirchenraums: der Stuck wird Johann Schwarzenberger aus Aibling zugewiesen (Bomhard, S. 6) Schmidt schreibt zehn Jahre später: »Ecclesia haec multum magnifica, peregrinorum ad Beatissimam Virginem, hic mira-<br>culis et beneficiis clarescentem, concursu et frequentia, nec<br>non publicis processionibus celebris, supra sacellum ad sanctum fontem nuncupatum, in quo Bmae Virginis statua residet aedificata est.«
+Neudekoration des Kirchenraums: der Stuck wird Johann Schwarzenberger aus Aibling zugewiesen (Bomhard, S. 6) Schmidt schreibt zehn Jahre später: »Ecclesia haec multum magnifica, peregrinorum ad Beatissimam Virginem, hic miraculis et beneficiis clarescentem, concursu et frequentia, nec non publicis processionibus celebris, supra sacellum ad sanctum fontem nuncupatum, in quo Bmae Virginis statua residet aedificata est.«
 
 Zur Hundertjahrfeier 1757 wurde in den beiden seitlich an die Kirche anschließenden Gängen der Zyklus mit der Geschichte der Wallfahrt gemalt. 1761 reiche Neudekoration der Gnadenkapelle unter Propst Augustin Hamel von Weyarn (1753–65) mit Stuck von Johann Martin Pichler.
 
@@ -74,21 +68,16 @@ Im Westen liegt ein Vorraum mit dem Portal und die Orgel empore darüber im Bere
 Die Gnadenkapelle wird vom Mittelschiff aus durch zwei Türen zu seiten des Josephsaltars betreten. Sie ist nur einstöckig, der Innenraum erbaut auf rundem Grundriß; erst in der Höhe des Gewölbeansatzes geht er in ein Achteck über. Sie wurde 1761 ausgestattet: Inschriften als Chronogramme in zwei Stuckkartuschen an der Westwand der Gnadenkapelle CLI/entes DeCora/VerVnt / Me (= 1761; links) und ALso zIer/ten MICh / aVs eInIge / LIebe pfLeg/kInDer (= 1761; rechts). Darüber ist das Wappen des Weyarner Propstes Augustin Hamel (1753–65), des Auftraggebers der Neuausstattung. Im Gewölbe der Gnadenkapelle befindet sich eine runde Öffnung, durch die man in einen darüberliegenden Chorraum sieht, von dem allerdings ein Teil durch die Hinterseite des großen oberen Altars eingenommen ist (mit den Fresken I<sub>a-f</sub>, s. S. 536). Im Osten schließt an die Kirche die Sakristei mit den schrägen Nebengebäuden und den darüber liegenden drei Stockwerken an.
 
 '''Auftraggeber:''' Propst Patritius Zwick von Weyarn (1731–53)  
-»... wie dann der heut zu Tag würdigist regierende Hochwürdige, Gnädige Herr, Herr Patritius Propst zu Weyarn ... auf das schönste sie mit subtiler Stockador-Arbeit der Allerheilisten Dreyfaltigkeit, der Allerseeligsten Mutter<br>Gottes, und ihres Jungfräulichen Gespons Josephi gemahl-<br>ten Sinnbilderen zu jedermans Verwunderung hatte aus-<br>schmücken und ziehren lassen« (Puteus 1745). Pfarrvikar während der Ausmalung war der Weyarner Konventuale P. Laetus Egger (1733–38), der auch Superior von Weihenlinden war.
+»... wie dann der heut zu Tag würdigist regierende Hochwürdige, Gnädige Herr, Herr Patritius Propst zu Weyarn ... auf das schönste sie mit subtiler Stockador-Arbeit der Allerheilisten Dreyfaltigkeit, der Allerseeligsten Mutter Gottes, und ihres Jungfräulichen Gespons Josephi gemahlten Sinnbilderen zu jedermans Verwunderung hatte ausschmücken und ziehren lassen« (Puteus 1745). Pfarrvikar während der Ausmalung war der Weyarner Konventuale P. Laetus Egger (1733–38), der auch Superior von Weihenlinden war.
 
 Vier Wappen sind innerhalb der Dekoration an der Hochschiffwand angebracht. Im dritten Joch von Westen links das Wappen Kurbayerns, rechts das Wappen des Freisinger Fürstbischofs Veit Adam von Gepeck. Im zweiten Joch von Westen links weist das Wappen des Propstes Valentin Steyrer von Weyarn auf den Erbauer der Kirche hin; rechts das Wappen des Weyarner Propstes Patritius Zwick auf den Auftraggeber der Ausstattung.
 
 '''Autor und Entstehungszeit:''' Zuschreibung an Anton Zächenberger (* um 1690 Straßwalchen bei Salzburg † 1773 München) 1736.
 
 [[File:Band12-2_chunk005_p012_img001.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band12 p523 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=13 -->
-<!-- citation-page-top: Band12 p524 -->
 
-<!-- header: WEIHENLINDER -->
 
-<!-- header: WEIHENLINDE -->
 
 An dem Gewölbebogen über dem Hochaltar befindet sich eine Stuckkartusche mit der Weiheinschrift, die als Chronogramm das Datum der Innenausstattung angibt: DEO VNI & TRINO / PATRI FILIO & SPIRITVI S. / ATQVE / MARIAE TRINITATIS TRICLINIO. / SPONSOQVE S. IOSEPHO (= 1736).
 
@@ -124,14 +113,9 @@ B WALLFAHRT ZUM GNADENBILD WEIHENLINDE Langgestrecktes Bildfeld mit vier Ausbuch
 
 
 [[File:Band12-2_chunk005_p013_img001.jpg|thumb|Gewölbe des Mittelschiffs mit A Namen Josephs, B Wallfahrt zum Gnadenbild in Weihenlinden, C Engel, a–d Embleme (Anton Zächenberger? 1736)]]
-<!-- citation-page-bottom: Band12 p525 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=14 -->
-<!-- citation-page-top: Band12 p526 -->
 
-<!-- header: WEIHENLINDEN -->
 
-<!-- header: WEIHENLINDE -->
 
 
 [[File:Band12-2_chunk005_p014_img001.jpg|thumb]]
@@ -204,10 +188,7 @@ E GNADENSONNE Über einer weiten Landschaft mit baumumgebener Lichtung und Berge
 
 
 E<sub>f</sub> GNADENSCHIFF Auf aufgewühltem Meer sieht man ein Schiff, in dem Maria sitzt, den Jesusknaben auf dem Schoß. Das Kind hat eine Waage in der Hand. Joseph und ein Engel
-<!-- citation-page-bottom: Band12 p527 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=15 -->
-<!-- citation-page-top: Band12 p528 -->
 
 [[File:Band12-2_chunk005_p015_img001.jpg|thumb]]
 [[File:Band12-2_chunk005_p015_img002.jpg|thumb]]
@@ -230,12 +211,8 @@ Sinn der Darstellung ist: Durch den Ratschluß Gottes (in der drei Göttlichen P
 
 [[File:Band12-2_chunk005_p015_img007.jpg|thumb]]
 [[File:Band12-2_chunk005_p015_img008.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p529 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=16 -->
-<!-- citation-page-top: Band12 p530 -->
 
-<!-- header: WEIHENLINDEN -->
 
 
 [[File:Band12-2_chunk005_p016_img001.jpg|thumb]]
@@ -259,12 +236,8 @@ ken thront und an seiner Seite die Weltkugel hat, von Engeln getragen. Er breite
 Vor einer Strahlenglorie erscheint das Herz Mariens, aus dem oben Flammen schlagen. Seitlich wachsen aus ihm sieben Lilien, die die sieben Freuden Mariä bedeuten. Rund um die Glorie sind Puttenköpfen vor Wolken am Bildrand zu sehen. In der Hauptansicht halten zwei Putten eine Lilie und eine Rose. Als die sieben Freuden gelten die Verkündigung, die Heimsuchung, die Geburt Jesu, die Anbetung der Könige, die Begegnung mit Simeon, das Wiederfinden Jesu im Tempel und die Krönung. Vier von ihnen sind im Weihenlindener Marienleben dargestellt.
 
 Der Altar unter dem Fresko im nördlichen Seitenschiff ist der Bruderschaftsaltar der Bruderschaft der Unbefleckten Empfängnis. Auf ihm steht ein Bild der Wessobrunner Madonna.
-<!-- citation-page-bottom: Band12 p531 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=17 -->
-<!-- citation-page-top: Band12 p532 -->
 
-<!-- header: WEIHENLINDEN -->
 
 [[File:Band12-2_chunk005_p017_img001.jpg|thumb|EB<sub>1-3</sub> Die drei Bruderschaften von Weihenlinden, über der Eingangstür W. Traum Jakobe]]
 
@@ -311,10 +284,7 @@ AEM, Heckenstalleriana, KB 130: Inkorporierung, Weihe; KB 140: Annales Canoniae 
 Pfarrarchiv Högling-Weihenlinden, Kirchenrechnung 1761. BLfD, Akten Weihenlinden, Pfarrkirche Hlste Dreifaltigkeit.
 
 Andreas a S. Theresia OCarm, Die Hochheilige, Wunderbare, Erschaffene Dreifaltigkeit Jesu, Maria, Joseph ..., Predigt zur Einführung der »Bruderschaft des h. Ertzvatters Joseph« oder »Bruderschaft der Allerheiligsten Gesellschaft Jesu, Maria, Joseph« in Weihenlinden, München 1664. Gumppenberg, P. Wilhelm S. J., Marianischer Atlaß. Vom Anfang und Ursprung zwölffhundert wunderthätiger Maria-Bilder (Übersetzung von P. Maximilian Wartenberg S. J. des Atlas Marianus, München 1672), München 1673, Bd I, Nr. 184, S. 427–29.
-<!-- citation-page-bottom: Band12 p533 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk005.pdf#page=18 -->
-<!-- citation-page-top: Band12 p534 -->
 
 
 == WEIHENLINDEN ==
@@ -349,5 +319,3 @@ Bleibrunner, Hans, Andachtsbilder aus Altbayern, München 1971, S. 76 f.
 Unger, Adelheid, Joseph Götsch. Ein bayerischer Bildhauer des Rokoko aus Tirol, Weißenhorn 1972, S. 70.
 
 Klemenz, Birgitta, Marienwallfahrten im Erzbistum München und Freising, Regensburg 1989. Weihenlinden S. 146–54. Benker, Sigmund und Peter von Bomhard, Weihenlinden (= KKF Nr. 782), <sup>5</sup>1995.
-
-{{End}}

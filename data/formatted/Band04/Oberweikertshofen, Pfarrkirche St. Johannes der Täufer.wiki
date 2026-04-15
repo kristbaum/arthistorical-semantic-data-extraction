@@ -12,9 +12,7 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band04 p214 -->
 
-<!-- header: OBERWEIKERTSHOFEN -->
 
 
 == OBERWEIKERTSHOFEN ==
@@ -62,14 +60,9 @@ Die extreme Längserstreckung des schmalen Freskos ist bedingt durch den vorgege
 
 
 [[File:Band04_chunk005_p008_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p215 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk005.pdf#page=9 -->
-<!-- citation-page-top: Band04 p216 -->
 
-<!-- header: OBEDWEIKERTSHOEEN -->
 
-<!-- header: OBERWEIKERTSHOFEN -->
 
 
 [[File:Band04_chunk005_p009_img001.jpg|thumb]]
@@ -120,7 +113,3 @@ Kunst- und Kulturdenkmäler, S. 318
 Paula, Georg, Johann Georg Dieffenbrunner (= tuduv-Studien, Reihe Kunstgeschichte Bd 8), München 1983.
 
 Dehio 1990, S. 929. B. S
-<!-- citation-page-bottom: Band04 p217 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk005.pdf#page=10 -->
-{{End}}

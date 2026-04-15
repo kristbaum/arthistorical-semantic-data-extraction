@@ -10,10 +10,7 @@
 |AutorIn1=Büttner, Frank
 |AutorIn2=Rupprecht, Bernhard
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk001.pdf#page=4 -->
-<!-- citation-page-top: Band09 p6 -->
 
-<!-- header: VORWORT -->
 
 Der heutige Landkreis Altotting umfasst im wesentlichen das ehemalige Landgericht Neuötting, die ehemalige Herrschaft Wald sowie das Stadtgebiet Burghausen und einen Teil des ehemaligen Landgerichts Leonberg-Marktl. Kirchlich gehörte das Gebiet zum Fürsterzbistum Salzburg mit Ausnahme der Pfarrei Haiming, die schon immer zum Bistum Passau gehörte, dem dann 1823 das Dekanat Burghausen zufiel. Im gerichtsunmittelbaren Bereich findet sich jedoch kein Bauwerk mit Deckenmalerei; das Gebiet nördlich des Inn, das sog. Holzland, lag abseits der Salz- und Wasserstraße und war kulturhistorisch nicht bedeutend. Künstlerische Impulse gingen von den südlich des Inn gelegenen Niedergerichtsbezirken aus, dem Propsteigericht Altötting, der Klosterhofmark Raitenhaslach, der Hofmark Tüßling und dem Herrschaftsgericht Wald. Geistiger und künstlerischer Mittelpunkt im Barock war das Zisterzienserstift Raitenhaslach. Sein Verdienst war es, für die Neuausstattungen der Klosterkirche mit einem umfangreichen Bernhardszyklus (Johann Zick 1737/42) und des Klosters mit sieben erhaltenen freskierten Räumen, darunter dem nur Wenigen bekannten Festsaal (Martin Heigl 1765), Künstler aus München zu berufen, die die Freskomalerei in diesem Gebiet maßgeblich beeinflussten. Als Höhepunkte sind zu nennen die Wallfahrtskirchen Margarethenberg (Johann Baptist Zimmermann 1753/54) und Marienberg (Martin Heigl 1764). In Heigls künstlerischer Nachfolge wuchs der Maler Franz Joseph Soll aus Trostberg heran, dessen Freskenzyklen in Wald a.d. Alz, in Feichten, Kirchweidach, Alzgern und St. Johann als geistvolle Glanzleistungen der volkstümlichen Rokokomalerei im östlichen Altbayern gelten können. Unter dem Patronat der Grafen von Wartenberg wurden im ersten Drittel des Jahrhunderts die Kirchen in Tüßling und Heiligenstatt durch Johann Anton Vogl und Nikolaus Miller ausgestattet.
 
@@ -28,5 +25,3 @@ Zu allen Objekten wurde uns großzügig Zugang gewährt, in Altötting, Burghaus
 Dem Hirmer Verlag und Herrn Albert Hirmer selbst sind wir zu großem Dank für die verlegerische Betreuung verpflichtet. Frau Katja Durchholz betrieb mit fachlichem Können, künstlerischem Geschick und großem persönlichen Einsatz die Herstellung des Bandes.
 
 Frank Büttner und Bernhard Rupprecht
-<!-- citation-page-bottom: Band09 p7 -->
-{{End}}

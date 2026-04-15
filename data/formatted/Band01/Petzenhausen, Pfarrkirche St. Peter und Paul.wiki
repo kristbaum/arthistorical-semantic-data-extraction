@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p180 -->
 
-<!-- header: PETZENHAUSEN -->
 
 
 == PETZENHAUSEN ==
@@ -35,7 +33,7 @@ Pfarrkirche (z. Z. von Geretshausen vikariert), Gemeinde Weil, Diözese Augsburg
 == Befund ==
 
 
-Träger der Deckenmalerei: LHs Flachdecke mit Stichkappen, AR ovales Muldengewölbe mit Spiegel<br>Rahmen: A Rocaillerahmen, B Stuckprofil, von Rocaillen überlappt, A1-4, B1-4, Ba Rocaillekartuschen Technik: Fresko; A, B polychrom, A1-4 monochrom ocker
+Träger der Deckenmalerei: LHs Flachdecke mit Stichkappen, AR ovales Muldengewölbe mit Spiegel Rahmen: A Rocaillerahmen, B Stuckprofil, von Rocaillen überlappt, A1-4, B1-4, Ba Rocaillekartuschen Technik: Fresko; A, B polychrom, A1-4 monochrom ocker
 
 
 [[File:Band01_chunk004_p016_img001.jpg|thumb|A Martyrium der hll. Petrus und Paulus]]
@@ -53,14 +51,9 @@ Die Bildkomposition ist durch zwei sich (in dem Putto mit Kirchenmodell) überkr
 
 
 [[File:Band01_chunk004_p016_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band01 p182 -->
 
-<!-- header: PETZENHALISEN -->
 
-<!-- header: PETZENHAUSEN -->
 
 
 [[File:Band01_chunk004_p017_img001.jpg|thumb]]
@@ -116,7 +109,3 @@ KDB I OB (1), S. 536 f
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 566.
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern Bd 22/23, München 1971, S. 166.
-<!-- citation-page-bottom: Band01 p183 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk004.pdf#page=18 -->
-{{End}}

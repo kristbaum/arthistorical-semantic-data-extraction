@@ -50,12 +50,8 @@ Maße: Höhe 7,30 m; 5,60 x 3,55 m
 
 
 [[File:Band13_chunk006_p022_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p293 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=23 -->
-<!-- citation-page-top: Band13 p294 -->
 
-<!-- header: KINDING -->
 
 
 [[File:Band13_chunk006_p023_img001.jpg|thumb]]
@@ -83,7 +79,3 @@ KDB VMF (2), S. 156–59. Buchner Bistum Eichstätt 1938, S. 26–29. Neuhofer, 
 
 
 [[File:Band13_chunk006_p023_img002.jpg|thumb|Geburt Mariens (Willibald Wunderer 1792)]]
-<!-- citation-page-bottom: Band13 p295 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=24 -->
-{{End}}

@@ -9,8 +9,6 @@
 |danach=Personenregister (Band 8)
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=1 -->
-<!-- citation-page-top: Band08 p350 -->
 
 
 Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Objekte
@@ -164,10 +162,7 @@ Haunertsholzen 348
 
 Haunzenbergersöll 79, 329, 346
 |}
-<!-- citation-page-bottom: Band08 p351 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk008.pdf#page=2 -->
-<!-- citation-page-top: Band08 p352 -->
 
 Maria Thalheim 176, 200 Mariahilf bei Freystadt 319 Marienberg 349 Massing 93 f., 346 Mettenheim 7, 31, 145-56, 157, 185, 346-48 Michhausen 93 Mittergars 99, 155, 222, 284, 347 Mörmoosen, Gericht 7, 27, 119, 122, 195, 203, 204 Schloßkapelle 82, 89 Mössling 157–59, 292, 349 Mohacz 316 Moldau 20, 148 Mühldorf 119, 145, 157, 172, 176, 179, 183, 204, 218, 222, 257, 296, 345–47 Salzburgisches Vogtgericht 7, 19, 64, 74, 145, 157, 160, 185, 222, 248, 254, 286 Salzburgisches Propstgericht 7, 19, 23, 160 Kollegiatstift St. Nikolaus 19, 27, 119, 160 f., 179, 183 f., 195, 204, 218, 346 Stiftskirche St. Nikolaus 160–78, 185, 195 f., 200, 208 St. Katharina 19f., 27, 160, 179–83, 204, 208, 347 Maria Eich Kapelle 183 f. Heimatmuseum 102 f., 161 f., 257, 295 Kapuzinerkloster 116 Magdalenenkapelle 208 Mülln bei Salzburg 322, 324 München 7, 102, 117, 136, 186, 195, 296, 305, 332, 346, 349 St. Jakob am Anger 349 St. Michael 150 Jesuitenkolleg 150 Residenz, Herkulessaal 295 Residenz, Antiquarium 313 Residenz, Sommerzimmer 340 Residenz, Theatinergang 311 Palais Neuhaus 102, 308, 317, 345, 349 Palais Preysing, Prannerstr. 11 317
 
@@ -192,5 +187,3 @@ Vatersham 337 Vilsbiburg 190, 221, 248, 346
 Waal 126 Waging 31 Wald 247, 292 Wald an der Alz 349 Waldeck/OPf 308, 332 Walkersaich 64, 70, 75, 119, 274-83, 348 Wang 99, 254, 284 f., 347 Walpertskirchen 348 Wartenberg 345 Wasserburg 33, 58, 99 f., 116, 294, 305, 329, 336, 345, 347 t. Frauenkirche 20, 179, 182, 204, 347 Schloßkapelle 31 Weilkirchen 23, 79, 145, 155, 286-93, 294, 304, 346 Weißer Berg bei Prag 146, 148, 150 Welden 240, 336 Wellenburg 336 Wessobrunn 23 Weyarn 45 f. Wien 222, 296, 316, 333, 348 Wimpasing bei Ampfing 146, 150, 155, 191, 294–98, 315, 346 Wimpasing bei Malseneck 299–301, 347 Winhöring 36, 126, 348 Wörth 64, 70, 72, 75, 248, 302-04, 347 Wurmsham 337
 
 Zangberg 7, 31, 60, 195, 257, 286, 294, 305-42, 345, 349 Ahnensaal 316–42 Fürstensaal 306–16 Schloßkapelle 332
-
-{{End}}

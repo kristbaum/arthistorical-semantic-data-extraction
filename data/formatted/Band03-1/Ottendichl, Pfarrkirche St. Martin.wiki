@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band03-1 p144 -->
 
-<!-- header: OTTENDICHI -->
 
 
 == OTTENDICHL ==
@@ -97,14 +95,9 @@ a Name Mariens MARIA (ligiert)
 
 
 B TOD MARTINS (Abb. S. 148) Ein blauer, zur Seite geraffter Vorhang am rechten Bildrand führt in die Szene ein. Der sterbende Martin liegt auf einer Bettstatt, die auf einem Stufenpodest steht. Drei Mitbrüder Martins, als Augustinerchorherren gegeben, knien betend am Sterbela-
-<!-- citation-page-bottom: Band03-1 p145 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=24 -->
-<!-- citation-page-top: Band03-1 p146 -->
 
-<!-- header: OTTENDICHL -->
 
-<!-- header: OTTENDICH -->
 
 
 [[File:Band03-1_chunk003_p024_img001.jpg|thumb|D Corpus-Christi-Bruderschaf]]
@@ -127,14 +120,9 @@ b HL. DREIFALTIGKEIT Am Chorbogen halten freiplastisch ausgeführte Putti einen 
 Die Personen der Hl. Dreifaltigkeit sind durch drei völlig übereinstimmende männliche Gestalten im Typus Gottvaters wiedergegeben: bärtig, auf dem Haupt die Tiara mit dem dreifachen Reifen, thronend die Rechte im Segensgestus erhoben und den Erdball in der Linken haltend. Vor ihren Füßen ein Dreifaltigkeitssymbol: das Dreieck mit dem Auge Gottes, einer Glorien-Sonne einbeschrieben. Diese Darstellung hat ihr plastisches Vorbild im Hochaltar der Wallfahrtskirche zur Hl. Dreifaltigkeit in Weihenlinden (Lkr. Rosenheim), die wie Ottendichl dem Kloster Weyarn (LKr. Miesbach) inkorporiert war.
 
 D CORPUS-CHRISTI-BRUDERSCHAFT In der Mitte des Bildes ist ein Sterbender dargestellt, der aus der
-<!-- citation-page-bottom: Band03-1 p147 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk003.pdf#page=25 -->
-<!-- citation-page-top: Band03-1 p148 -->
 
-<!-- header: OTTENDICHL -->
 
-<!-- header: SCHAFTLARN -->
 
 
 [[File:Band03-1_chunk003_p025_img001.jpg|thumb|B Tod Martins, Deckenbild im Langhaus]]
@@ -149,5 +137,3 @@ Die Bruderschaftsmitglieder und die Bettstatt sind auf Stufen angeordnet und von
 
 
 Schmidtsche Matrikel, Bd 2, S. 484 f. Mayer-Westermayer, Bd 3, S. 647 f. KDB I OB (1), S. 799. Zacherl, Georg, Pfarrei und Kirche, in: 1000 Jahre Otten-dichl 981–1981, Neukeferloh 1981, S. 65-95. 
-
-{{End}}

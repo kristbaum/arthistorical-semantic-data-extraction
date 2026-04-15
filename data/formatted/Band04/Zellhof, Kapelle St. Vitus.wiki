@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- header: ZELLHO -->
 
 
 == ZELLHOF ==
@@ -104,11 +103,6 @@ AR
 
 
 [[File:Band04_chunk006_p016_img005.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p281 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=17 -->
-<!-- citation-page-top: Band04 p282 -->
 
 == REGISTER ==
-
-{{End}}

@@ -12,7 +12,6 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band13 p254 -->
 
 
 == GROSSMEHRING ==
@@ -93,7 +92,3 @@ Historischer Atlas Ingolstadt, S. 191
 Hofmann, Siegfried, Die Kirchen in Großmehring, in: Wilhelm Ernst, Heimatbuch Großmehring, 1984, S. 348–66. Dehio OB 1990, S. 379; 2006, S. 409f.
 
 C.B
-<!-- citation-page-bottom: Band13 p255 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk006.pdf#page=4 -->
-{{End}}

@@ -43,12 +43,8 @@ Technik: Fresko mit Seccoübermalungen; polychrom
 Maße: A Höhe 6,20 m; 4,00 x 2,45. a—b 2,20 x 2,20
 
 Erhaltungszustand und Restaurierungen: Baureparatur und Entfeuchtung der Kirche 1895. Damals waren die beider Hauptbilder offenbar noch gut erhalten (BLfD, Gutachter 30. 10. 1897; von ursprünglich wohl vorhandenen Kartuschenbildern im LHs ist keine Rede). Bei der Restaurierung
-<!-- citation-page-bottom: Band07 p231 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=17 -->
-<!-- citation-page-top: Band07 p232 -->
 
-<!-- header: NIEDERSTRAUBING -->
 
 NIEDERSTRAUBING
 
@@ -89,14 +85,9 @@ A DIE HEILIGEN MARTIN, LEONHARD UND ANTONIUS VON PADUA ALS FÜRBITTER Symmetrisc
 signien, Ketten) und Antonius von Padua (Franziskanerhabit, Lilie) flankiert, die Dreifaltigkeit von Engeln und Putten, die aus Füllhörnern Blumen schütten. Wann diese drei kommen zu bitten,/ zu Ihnen Ich Mich gsell in dMitten./ Wo Ihrer aber zwey oder drei mit mir versamblet sein / ganz hilfreich sich mein himmlischer Vater alzeit stellet ein.
 
 Über der Inschrift ist ein Landschaftsausschnitt gemalt, auf dem die acht Kirchen der ehemaligen Pfarrei Steinkirchen wie-
-<!-- citation-page-bottom: Band07 p233 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=18 -->
-<!-- citation-page-top: Band07 p234 -->
 
-<!-- header: MIEDERSTRAUBING -->
 
-<!-- header: niederstraubing -->
 
 
 [[File:Band07_chunk005_p018_img001.jpg|thumb]]
@@ -185,7 +176,3 @@ C.]
 
 
 23
-<!-- citation-page-bottom: Band07 p235 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk005.pdf#page=19 -->
-{{End}}

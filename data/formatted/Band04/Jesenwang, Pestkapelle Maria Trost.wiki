@@ -12,7 +12,6 @@
 |AutorIn1=Sauerländer, Brigitte
 }}
 
-<!-- citation-page-top: Band04 p172 -->
 
 == IESENWANG ==
 
@@ -29,7 +28,7 @@ Kleine, gewestete Rotunde mit Flachkuppel und einem Vorhaus an der östlichen Ei
 
 '''Autor und Entstehungszeit:''' P. Balduin Mancini von Fürstenfeld (* 1708/09 München, 1728 Profeß in Fürstenfeld, zuletzt in der Konventsliste von 1761 verzeichnet; Altmann, S. 238) 1751
 
-P. Balduin Mancini war unter zwei Jesenwanger Pfarrvikaren Cooperator, unter Abundus Asum (Asam? 1743–49) und Liebhard Saurle. In der Fürstenfelder Chronik berichtet Abt Gerard Führer zum Jahr 1751: »Während dieses neuen Baue war eben P. Balduin Mancini Cooperator in Jesenwang, ein<br>gelehrter und zu allen Handarbeiten aufgelegter hiesiger<br>Religios, welcher diese Feldkapelle zierlich – für's Landvolkausgemallen hatte« (s. auch Woerl, S. 100 f.). Daß hier ein Laienkünstler am Werk war, bestätigt das für 1751 sehr rückständige Formenrepertoire. Hinzu kommt eine naive, reir flächige Bewältigung höhenperspektivischer Probleme bei der architektonischen Ausmalung der Kuppel.
+P. Balduin Mancini war unter zwei Jesenwanger Pfarrvikaren Cooperator, unter Abundus Asum (Asam? 1743–49) und Liebhard Saurle. In der Fürstenfelder Chronik berichtet Abt Gerard Führer zum Jahr 1751: »Während dieses neuen Baue war eben P. Balduin Mancini Cooperator in Jesenwang, ein gelehrter und zu allen Handarbeiten aufgelegter hiesiger Religios, welcher diese Feldkapelle zierlich – für's Landvolkausgemallen hatte« (s. auch Woerl, S. 100 f.). Daß hier ein Laienkünstler am Werk war, bestätigt das für 1751 sehr rückständige Formenrepertoire. Hinzu kommt eine naive, reir flächige Bewältigung höhenperspektivischer Probleme bei der architektonischen Ausmalung der Kuppel.
 
 
 == Befund ==
@@ -62,12 +61,8 @@ Die heutige, lichte Farbigkeit, an den originalen Spuren orientiert, ist im wese
 
 
 AEM, PfB Jesenwang, Pfarrer Daxenberger, Verzeichniß der Pfarrer, Pfarrvikaren und Kooperatoren an der Pfarrei Jesenwang ab ano 1685–1845.
-<!-- citation-page-bottom: Band04 p173 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=13 -->
-<!-- citation-page-top: Band04 p174 -->
 
-<!-- header: IESENWANG -->
 
 BSB, Cgm 3920 und Cod. bavar. 380: Gerard Führer (letzter Abt von Fürstenfeld), Chronik des Klosters Fürstenfeld, von dessen Entstehung bis zur Aufhebung 1803 (beendet 1817), S. 231.
 
@@ -90,5 +85,3 @@ Führer, Thomas, Die Pestkapelle »Maria Trost« in Jesenwang, vervielfältigtes
 Altmann, Lothar, Die Ausstattungskünstler der bestehenden Barockanlage von Fürstenfeld (1690–1803), in: Kat. Fürstenfeld 1988, Bd 2, S. 238.
 
 Dehio 1990, S. 511.
-
-{{End}}

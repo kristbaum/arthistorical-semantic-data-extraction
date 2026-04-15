@@ -42,12 +42,8 @@ Erhaltungszustand und Restaurierungen: 1947–49 erfolgte eine Restaurierung dur
 Die goldornamentierten, aus paßförmig gekurvten Profilstücken zusammengesetzten Rahmen heben die großformatigen Bildfelder A und B entschieden von der Tonnenwölbung in LHs und Chor ab. Die Stichkappenprofile treffen hart auf die Bilderrahmen auf, es gibt kein vermittelndes  
 
 [[File:Band02_chunk011_p009_img004.jpg|thumb]]  
-<!-- citation-page-bottom: Band02 p517 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=10 -->
-<!-- citation-page-top: Band02 p518 -->
 
-<!-- header: KLEINHÖHENKIRCHEN -->
 
 Ornament. Gemalte Rocaillen mit Blütenranken und Schriftbändern um die Bildkartuschen 1-6 und a-d füllen die Stichkappenfelder bis zum Rand. Auch hier fällt strenge Trennung von Ornament und Rahmung auf. Die Rahmenprofile bilden das Dekorationsgerüst. Gemalte oder stukkierte Ornamentmotive stehen in stumpfen Graumischtönen bzw. fahlen Buntwerten auf dem hell rötlich gehaltenen Grund. Die Bildfelder haben eine zurückhaltend helle Farbigkeit ohne Lichteffekte. In Fresko A sind im wesentlichen mattes Gelb, Ocker und Braunrot im Kontrast zu Blau und Grauweiß verwendet. Die fleckenartig-kleinteilige Malweise bewirkt dabei einen eher ornamentalen Zusammenhang, als daß sie der Gegenstandsklärung diente. In Fresko B erscheinen die gleichen Farbwerte – um Grün vermehrt – in großzügigerer Malweise.
 
@@ -70,14 +66,9 @@ B HEIMSUCHUNG MARIENS (Lc 1, 39–56) Der Aufnahmestandort der einansichtigen Sz
 
 
 1-6 MARIENLEBEN Die Stichkappenbilder des LHs sind großfigurig komponierte, ikonographisch konventionelle Szenen. Der ausschnitthaft gezeigte Schauplatz weist die jeweils typischen Requisiten auf. Die Szenen sind nicht chronologisch geordnet, durch Inschriftbänder unterhalb jeder Kartusche bezeichnet.
-<!-- citation-page-bottom: Band02 p519 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=11 -->
-<!-- citation-page-top: Band02 p520 -->
 
-<!-- header: KLEINHOHENKIRCHEN -->
 
-<!-- header: KLEINHÖHENKIRCHEN -->
 
 
 [[File:Band02_chunk011_p011_img001.jpg|thumb]]
@@ -106,12 +97,8 @@ schlange auf der Weltkugel den Kopf (Weib des Protoevangeliums nach Gen 3,15). D
 5 M. Geburt Anna und Joachim knien zu beiden Seiten der Wiege Mariens. Das Kind ist durch die Zwölf-Sterne-Glorie ausgezeichnet, zu seinen Häupten schwebt die Hl. Geist-Taube. Die Wiege trägt den Namen MARIA (ligiert) (LA-Benz, S. 736).
 
 a-d EMBLEME In den Fensterstichkappen des Chores befinden sich vier Emblemkartuschen, jeweils von einem lateinischen Lemma in einem Schriftband darunter begleitet.
-<!-- citation-page-bottom: Band02 p521 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk011.pdf#page=12 -->
-<!-- citation-page-top: Band02 p522 -->
 
-<!-- header: KLEINHÖHENKIRCHEN -->
 
 
 [[File:Band02_chunk011_p012_img001.jpg|thumb]]
@@ -165,6 +152,3 @@ Kemp, Cornelia, Angewandte Emblematik in Bildprogrammen süddeutscher Barockkirc
 
 
 == KLEINPIENZENAU ==
-
-
-{{End}}

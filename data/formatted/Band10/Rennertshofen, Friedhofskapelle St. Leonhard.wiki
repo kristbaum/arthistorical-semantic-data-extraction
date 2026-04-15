@@ -23,10 +23,7 @@ Einschiffiger Raum zu zwei Fensterachsen, im O dreiseitig geschlossen. Tonne mit
 
 
 [[File:Band10_chunk006_p002_img001.jpg|thumb|Friedhofskapelle, Der hl. Leonhard von Noblac weist die Bischofswürde zurück]]
-<!-- citation-page-bottom: Band10 p255 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=3 -->
-<!-- citation-page-top: Band10 p256 -->
 
 
 == RENNERTSHOFEN ==
@@ -99,5 +96,3 @@ B. V.-K.
 
 
 Pfarrkirche Sakristei S. 264 Schloßkapelle (Privatbesitz) S. 266
-
-{{End}}

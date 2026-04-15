@@ -26,10 +26,7 @@
 Kleiner Saalraum (6,80×5,40m), flachrund geschlossen. Wandgliederung mit vorgelegten Doppelpilastern und eingetieften Nischen. Belichtung durch ein Fenster von Norden und zwei Rundfenster seitlich des Altars. Dem Eingang auf der Nordseite lag ursprünglich ein Zugang auf der Südseite gegenüber (jetzt Lourdes-Grotte), so dass ein Prozessionsweg durch die Kirche bestand. Bandwerkstuck, von Siegfried Hofmann  
 
 [[File:Band13_chunk007_p004_img003.jpg|thumb]]  
-<!-- citation-page-bottom: Band13 p307 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=5 -->
-<!-- citation-page-top: Band13 p308 -->
 
 [[File:Band13_chunk007_p005_img001.jpg|thumb]]
 
@@ -59,7 +56,6 @@ Die Fresken A-C zeigen von O nach W die Vier Letzten Dinge: Tod, Gericht, Himmel
 
 [[File:Band13_chunk007_p005_img004.jpg|thumb]]
 
-<!-- citation-page-bottom: Band13 p309 -->
 
 **A TOD**  
 Eine Frau liegt im Sterben. An ihrem Sterbebett stehen ein Engel und ein Priester. Sie weisen den Weg zum Himmel, den nun die Seele bald gehen soll, und versperren zwei Teufeln, die mit den gefüllten Sündenregistern – auf einem prallen Beutel stehen die Zahlen 300/100 – in einem aufgeschlagenen Buch 10000/2000/563?/100 – zu der Sterbenden herandrängen, den Zugriff auf ihre Seele. Der Priester zeigt auf ein Weihwasserbecken.  
@@ -71,12 +67,9 @@ Das Bild zeigt den Erzengel Michael mit dem Flammenschwert. Er hat Luzifer gest�
 B, Strahlende Sonne: »Was auch haar klein, zeigt dißer schein.« Das Emblem bezieht sich darauf, dass beim Jüngsten Gericht nichts verborgen bleibt, ebenso wie beim hellen Sonnenschein alle Dinge klar erkennbar sind.  
 B1 Münzen und Prüfstein: »Was falsch/was guet. Entscheided Godt.« Auf einem Tisch steht eine Geldkassette, daneben ist ein Prüfstein, der von einer Hand aus Wolken bedient wird.
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=6 -->
-<!-- citation-page-top: Band13 p310 -->
 
 KÖSCHING
 
-<!-- header: KÖSCHING -->
 
 
 [[File:Band13_chunk007_p006_img001.jpg|thumb]]
@@ -142,12 +135,8 @@ D<sub>b</sub> Eine Hand öffnet mit einem Schlüssel die Gittertüre eines Gefä
 
 
 D.
-<!-- citation-page-bottom: Band13 p311 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=7 -->
-<!-- citation-page-top: Band13 p312 -->
 
-<!-- header: KOSCHING -->
 
 W<sub>a-b</sub> Zwei Wandbilder über den Türen geben dem Besucher ein »memento mori« mit auf den Weg.
 
@@ -188,7 +177,3 @@ Hofmann, Siegfried, Zum Werk Ingolstädter Freskenmaler des 18. Jahrhunderts, in
 -, Die Kirchen in Appertshofen, Kasing und die kleinen Kirchen (Kapellen) in Kösching (Peterskapelle, Seelhauskapelle, Kapelle im äußeren Friedhof, Klausenkapelle): Werke Michael Anton Prunthallers und Johann Schellhorns aus Ingolstadt, in: SHVI 92, 1983, S. 291–316.
 
 A. B./E. L.
-
-<!-- header: KONSTEIN -->
-
-{{End}}

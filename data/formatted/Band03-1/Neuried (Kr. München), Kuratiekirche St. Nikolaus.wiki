@@ -46,14 +46,9 @@ Verbleib: Die Deckenbilder existieren nicht mehr, sie wurden anläßlich von Res
 
 
 [[File:Band03-1_chunk006_p004_img003.jpg|thumb|C Der hl. Georg (vernichtet)]]
-<!-- citation-page-bottom: Band03-1 p257 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk006.pdf#page=5 -->
-<!-- citation-page-top: Band03-1 p258 -->
 
-<!-- header: NEURIED -->
 
-<!-- header: SENDLING ST. ACHAZ -->
 
 
 == Darstellungen ==
@@ -72,5 +67,3 @@ C DER HL. ERZMARTYRER GEORG als Drachentöter, im Hintergrund die befreite Prinz
 KDB I OB (1), S. 793
 
 C B.
-
-{{End}}

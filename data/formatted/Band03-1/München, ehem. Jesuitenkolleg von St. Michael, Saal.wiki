@@ -31,14 +31,9 @@ Joseph Ignaz Schilling (* 1702 Villingen, 1730 Meister in München † 2. 4. 177
 
 
 [[File:Band03-1_chunk005_p021_img002.jpg|thumb|Johannes Hoermann, Entwurf zur Deckengestaltung von Saal I, 1696, in: Delineationes ... Blatt 73, München, Bayerische Staatsbibliothek]]
-<!-- citation-page-bottom: Band03-1 p241 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=22 -->
-<!-- citation-page-top: Band03-1 p242 -->
 
-<!-- header: EHEM. IESUITENKOLLEG -->
 
-<!-- header: EHEM. JESUITENKOLLI -->
 
 
 == Befund ==
@@ -114,12 +109,8 @@ Asia (N) Weißhaarige, bärtige Gestalt in kostbarer Gewandung, auf dem Haupt ei
 
 
 [[File:Band03-1_chunk005_p022_img002.jpg|thumb|Saal I: Teilansicht der Decke mit dem Mittelbild B und 2 Athanasius Kircher (vor der Zerstörung)]]
-<!-- citation-page-bottom: Band03-1 p243 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-1_chunk005.pdf#page=23 -->
-<!-- citation-page-top: Band03-1 p244 -->
 
-<!-- header: EHEM. JESUITENKOLLEG -->
 
 
 [[File:Band03-1_chunk005_p023_img001.jpg|thumb|(1554–1624) war Verfasser bedeutenden und umfangreichen aszetischer Schrifttums.]]
@@ -141,6 +132,3 @@ Saal I: Teilansicht der Decke mit
 
 
 [[File:Band03-1_chunk005_p023_img003.jpg|thumb|Saal II: Ansicht der Decke mit C Hl. Ignatius als Missionsgründer B Die Kirchenväter als Medium der Exegese und A Die Wissenschaften als Medium der Jesuitischen Mission (vor der Zerstörung)]]
-
-
-{{End}}

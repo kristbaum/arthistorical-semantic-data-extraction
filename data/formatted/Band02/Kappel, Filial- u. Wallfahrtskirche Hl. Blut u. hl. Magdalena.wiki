@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p350 -->
 
-<!-- header: KAPPE -->
 
-<!-- header: KAPPEL -->
 
 Filial- und Wallfahrtskirche, Gemeinde und Pfarrei Unterammergau, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei Oberammergau, die dem Stift Rottenbuch inkorporiert war, Kloster-Ettalisches-Gericht Ammergau
 
@@ -54,14 +51,9 @@ Maße: A Höhe 8,40 m; 8,80 × 6,40 B Höhe 7,70 m; 5,00 × 3,70
 
 
 [[File:Band02_chunk008_p001_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p351 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk008.pdf#page=2 -->
-<!-- citation-page-top: Band02 p352 -->
 
-<!-- header: KAPPE -->
 
-<!-- header: KAPPEL -->
 
 Erhaltungszustand und Restaurierungen: Signatur in A Renov. / X. Stegmüller / 18 Schongau.96. Eine weitere Restaurierung führte 1967 Fa. Mayerhofer, München, durch, bei der Fehlübermalungen entfernt, Risse gekittet und die Fresken gereinigt wurden. Die grelle Buntfarbigkeit von Fresko A ist auf die Restaurierungen zurückzuführen. Fresko B und die Begleitfresken in gutem Zustand
 
@@ -128,12 +120,8 @@ lichter. Zur Bildmitte hin, bei der Darstellung der Veronikagruppe, sind verschi
 Ba Herz Jesu von Dornen umwunden, mit dem Kreuz Bb Herz Mariens von Rosen umwunden, mit dem Schwert der sieben Schmerzen
 
 1-6 ARMA CHRISTI Die Seitenfresken an den Gewölbezwickeln im Gemeinde- und AR zeigen die Leidenswerkzeuge. Allen Darstellungen gemeinsam ist eine Art Glorie: ockerfarbene Wolken, die eine helle Himmelsfolie kreisförmig umschließen. In den LHs-Kartuschen 1, 2, 5, 6 kommt aus den Wolken eine Hand hervor und präsentiert die Werkzeuge
-<!-- citation-page-bottom: Band02 p353 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk008.pdf#page=3 -->
-<!-- citation-page-top: Band02 p354 -->
 
-<!-- header: KAPPEL -->
 
 KRUN
 
@@ -168,5 +156,3 @@ Mois, Jakob, Unterammergau, Kappel, Unterammergau 1969.
 KRÜN
 
 dürften gleichzeitig mit der Erbauung der Kirche 1760/63 entstanden sein, da die Innenausstattung der Kirche einheitlich aus diesen Jahren stammt.
-
-{{End}}

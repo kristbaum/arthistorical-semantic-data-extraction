@@ -171,13 +171,9 @@ Pfingsten 78
 → Dreifaltigkeit  
 Hl.-Geist-Öffnung 198  
 
-<!-- citation-page-bottom: Band04 p287 -->
 
 ```mediawiki
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=20 -->
-<!-- citation-page-top: Band04 p288 -->
 
-<!-- header: IKONOGRAPHISCHES REGISTER -->
 
 
 == IKONOGRAPHISCHES REGISTER ==
@@ -236,11 +232,8 @@ des Zisterzienserordens 92–104 Musik-Visionen 92 der sel. Thomas von Arnsburg 
 des sel. Fulcard von Clairvaux 101 f. des sel. Gerardus 102 der seligen Guda von Hoven 100 f.
 
 der seligen Huda von Hoven 100 f. des sel. Hugo von Tennenbach 100 f. der hl. Katharina von Siena mit dem Jesuskind
-<!-- citation-page-bottom: Band04 p289 -->
 ```
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=21 -->
-<!-- citation-page-top: Band04 p290 -->
 
 
 == IKONOGRAPHISCHES REGISTER ==
@@ -309,5 +302,3 @@ Offizium beten 89, 91 Predigen 88, 90 Psallieren 89, 91 Schrift auslegen 90 f. Z
 Visionen 72–104
 
 Zodiakus 229 im Zeichen der Zwillinge 78, 80, 82
-
-{{End}}

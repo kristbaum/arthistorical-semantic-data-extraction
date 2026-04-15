@@ -32,12 +32,8 @@ Johann Michael Freundt, Salzburgischer Geistlicher Rat, war schon über 60 Jahre
 
 
 [[File:Band12-2_chunk001_p007_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p313 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=8 -->
-<!-- citation-page-top: Band12 p314 -->
 
-<!-- header: KIRCHLOIBERSDORF -->
 
 
 [[File:Band12-2_chunk001_p008_img001.jpg|thumb|C Glorie des hl. Petrus]]
@@ -102,17 +98,12 @@ An der Emporenbrüstung befinden sich elf Ölbilder auf Leinwand mit Szenen aus 
 
 
 [[File:Band12-2_chunk001_p008_img004.jpg|thumb|B Schlüsselübergabe an Petrus (Johann Georg Schrott 1744)]]
-<!-- citation-page-bottom: Band12 p315 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-2_chunk001.pdf#page=9 -->
-<!-- citation-page-top: Band12 p316 -->
-
-<!-- header: KIRCHLOIBERSDORF -->
-
-<!-- header: KIRCHWALD -->
 
 
-[[File:Band12-2_chunk001_p009_img001.jpg|thumb|Emporenbrüstung: 11 Ölbilder mit Petrus-Zyklus (chronologisch von links nach rechts):<br>Fischfang, Berufung, Schlüsselübergabe, Verklärung Christi, Fußwaschung, Predigt Petri, Heilung des Lahmen, Reuiger Petrus, Taufe des Cornelius, Befreiung Petri aus dem Kerker, Kreuzigung]]
+
+
+
+[[File:Band12-2_chunk001_p009_img001.jpg|thumb|Emporenbrüstung: 11 Ölbilder mit Petrus-Zyklus (chronologisch von links nach rechts): Fischfang, Berufung, Schlüsselübergabe, Verklärung Christi, Fußwaschung, Predigt Petri, Heilung des Lahmen, Reuiger Petrus, Taufe des Cornelius, Befreiung Petri aus dem Kerker, Kreuzigung]]
 
 
 Annähernd chronologischer Ablauf der Szenen von links nach rechts: Petrus und seine Brüder beim Fischfang; Berufung Petri; Schlüsselübergabe; Verklärung Christi; Christus wäscht Petrus die Füße; Predigt Petri (Mitte); Heilung des Lahmen; Verleugnung Petri (im Hintergrund) und Reuiger Petrus; Bekehrung und Taufe des Cornelius; Befreiung Petri aus dem Kerker; Kreuzigung Petri.
@@ -140,5 +131,3 @@ KDB I OB (3), S. 2008
 Braun, Michael, Beiträge zur Geschichte der Pfarrei Schnaitsee, Schnaitsee 1928. 8. Kirche St. Peter zu Loibersdorf, S. 115–18.
 
 Historischer Atlas I, Bd 15, Die Landgerichte Wasserburg und Kling (Tertulina Burkard), München 1965, S. 153, 251. Dehio 1990, S. 534f.
-
-{{End}}

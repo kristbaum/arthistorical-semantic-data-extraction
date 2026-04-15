@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p86 -->
 
-<!-- header: INHAUSEN -->
 
 Filialkirche, Pfarrei und Gemeinde Haimhausen, Erzdiözese München und Freising; z.Z. der Ausmalung Marienwallfahrt, seit der zweiten Hälfte des 17. Jh. nachweisbar. Inhausen gehörte zur Hofmark Haimhausen; das Recht zur freien Besetzung der Pfarrei Haimhausen hatte trotz aller Bemühungen der Hofmarksherren der Fürstbischof von Freising. Gericht Dachau
 
@@ -78,14 +76,9 @@ A VEREHRUNG MARIENS DURCH DIE VIER ERD-TEILE Zweiansichtige Bildanlage, Aufnahme
 In einer zentralen Lichtglorie erscheinen Gottvater und der Hl. Geist, darunter Maria, auf Wolken kniend und von Engeln umgeben. Maria setzt den Fuß auf die Mondsichel und hat unter sich die Weltkugel, um die sich die Schlange aus dem Paradies, den Apfel im Maul, windet: Attribute der Immaculata Conceptio. Das Symbol der Reinheit, die Lilie, wird von einem Engel gehalten. Derselbe Engel schüttet aus einem Füllhorn Krone, Fürstenhüte, Orden und Münzen.
 
 In der Mitte der Hauptansicht sieht man im Hintergrund einen Rundtempel, das Symbol der römischen Kirche. Links davon erscheint Europa in Gestalt einer reichgekleideten Frau mit Diadem; sie weist auf die Kaiserkrone, die auf einem blauen Kissen rechts von ihr liegt. Neben Europa ist der Vertreter der höchsten geistlichen Würde dargestellt: der Papst (z. Z. der Ausmalung Clemens XIII.), dessen Insignien, Tiara und dreifaches Kreuz, von Klerikern gehalten werden. Hinter der Allegorie der Europa treten Bittflehende auf, die ihren Blick auf Maria gerichtet haben. Einer von ihnen hält eine Schale brennender Herzen als Zeichen der Liebe und Hingabe, ein Devotions-Symbol, das sich hier auf die Wallfahrer zum Gnadenbild von Inhausen bezieht. Im Vordergrund, am
-<!-- citation-page-bottom: Band05 p87 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk002.pdf#page=20 -->
-<!-- citation-page-top: Band05 p88 -->
 
-<!-- header: INHAUSEN -->
 
-<!-- header: INHAUSEN -->
 
 
 [[File:Band05_chunk002_p020_img001.jpg|thumb]]
@@ -109,12 +102,8 @@ Das Gnadenbild am Hochaltar zeigt Maria mit dem Kind; es ist Ausgangspunkt des i
 
 
 [[File:Band05_chunk002_p020_img004.jpg|thumb|Johann Georg Dieffenbrunner, Entwurfszeichnung zu Fresko A, Nürnberg]]
-<!-- citation-page-bottom: Band05 p89 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk002.pdf#page=21 -->
-<!-- citation-page-top: Band05 p90 -->
 
-<!-- header: INHAUSEN -->
 
 
 [[File:Band05_chunk002_p021_img001.jpg|thumb]]
@@ -170,6 +159,3 @@ Böck, Robert, Wallfahrt im Dachauer Land (= Kulturgeschichte des Dachauer Lande
 
 
 [[File:Band05_chunk002_p021_img002.jpg|thumb|Der Kirchenraum]]
-
-
-{{End}}

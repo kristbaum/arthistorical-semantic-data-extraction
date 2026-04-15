@@ -49,10 +49,7 @@ Erhaltungszustand und Restaurierungen: 1876 und 1905 fanden Restaurierungen stat
 
 
 [[File:Band04_chunk006_p005_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p259 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=6 -->
-<!-- citation-page-top: Band04 p260 -->
 
 UNTERSCHWEINBACH
 
@@ -62,12 +59,8 @@ UNTERSCHWEINBACH
 
 
 [[File:Band04_chunk006_p006_img002.jpg|thumb|Mariä Himmelfahrt]]
-<!-- citation-page-bottom: Band04 p261 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=7 -->
-<!-- citation-page-top: Band04 p262 -->
 
-<!-- header: UNTERSCHWEINBACH -->
 
 [[File:Band04_chunk006_p007_img001.jpg|thumb|Hochaltargemälde der Klosterkirche Fürstenfeld von Johann Nepomuk bzw. Johann Adam Schöpf]]
 
@@ -120,9 +113,3 @@ Altmann, Lothar, Die Ausstattungskünstler der bestehenden Barockanlage von Für
 Dehio 1990, S. 1216.
 
 Literatur zu Johann Nepomuk von Schöpf s. S. 139.
-<!-- citation-page-bottom: Band04 p263 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk006.pdf#page=8 -->
-<!-- citation-page-top: Band04 p264 -->
-
-{{End}}

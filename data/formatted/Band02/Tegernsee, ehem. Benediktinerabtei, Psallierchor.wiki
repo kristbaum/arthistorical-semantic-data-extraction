@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p594 -->
 
-<!-- header: TEGERNSEE -->
 
-<!-- header: TEGERNSEI -->
 
 Ehem. Psallierchor, jetzt Bibliothek, in Wittelsbachischem Resitz
 
@@ -54,14 +51,9 @@ A HIMMELFAHRT UND KRONUNG MARIENS Einansichtiges hochovales Bildfeld mit schmale
 
 
 [[File:Band02_chunk012_p023_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p595 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk012.pdf#page=24 -->
-<!-- citation-page-top: Band02 p596 -->
 
-<!-- header: TEGERNSEE -->
 
-<!-- header: TEGERNSE -->
 
 mit dem geöffneten Sarkophag vor der Tegernseer Landschaft mit der Klostervedute über dem See angedeutet.
 
@@ -86,5 +78,3 @@ Die Darstellung von Schutzengel und menschlicher Seele (anima) ist in der vorlie
 Die Inschrift SUB HAC CUSTODIA bezeichnet das theologische Thema des Bildes. Die Wahl desselben für den Psallierchor erklärt sich wohl daraus, daß die Bayerische Benediktiner-Kongregation unter das Patronat der hll. Schutzengel gestellt war (Lindner, in: OAVG 50 Ergänzungsheft 1898, S. 44 f., und Lampl, S. 109, Anm. 199).
 
 Literatur siehe S. 597
-
-{{End}}

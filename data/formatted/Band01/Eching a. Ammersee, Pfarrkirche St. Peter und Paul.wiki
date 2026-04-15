@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p48 -->
 
-<!-- header: ECHING -->
 
-<!-- header: ECHINO -->
 
 Pfarrkirche, z. Z. von der Pfarrei Greifenberg-Beuern vikariert, Diözese Augsburg; z. Z. der Ausmalung Präsentationsrecht beim Bischof von Freising, Herrschaft Greifenberg
 
@@ -27,15 +24,15 @@ Pfarrkirche, z. Z. von der Pfarrei Greifenberg-Beuern vikariert, Diözese Augsbu
 
 '''Zum Bauwerk:''' Unter Pfarrer Franz Anton Ziegler (1761 -1809) wurde die Kirche nach Plänen des Leonhard Matthias Giessl (Lieb) 1764-66 als langgestreckter Saalbau mit eingezogenem halbrund geschlossenem Chor neu errichtet und 1770 ausgemalt. Zur Finanzierung trug das Legat des 1760 verstorbenen Pfarrers Johann Jakob Schorer bei (vgl. KDB). Die Wahl des Hofmalers Christian Wink ist wohl durch den Hofmarksherrn Emanuel Maximilian Freiherrn von Perfall (* ca. 1717 †1790) beeinflußt.
 
-'''Autor und Entstehungszeit:''' Signatur in der südöstlichen Ecke des Freskos B (Inschrift auf einem Stein): Christian Wink. Aulae / Bojc. Pictor. Im Rahmentondo zwischen A und B steht die Jahreszahl: MDCCLXX. Die Augsburger<br>Kunstzeitung von 1771 und die »Geschichtlichen Notizen« des Echinger Pfarrers Lorenz Gruber (1825–39) im Pfarrarchiv erwähnen die Echinger Fresken sowie das Hochaltarbild des Hofmalers Wink, für welche derselbe 800 fl. erhalten hat (Texte zitiert bei Clementschitsch).
+'''Autor und Entstehungszeit:''' Signatur in der südöstlichen Ecke des Freskos B (Inschrift auf einem Stein): Christian Wink. Aulae / Bojc. Pictor. Im Rahmentondo zwischen A und B steht die Jahreszahl: MDCCLXX. Die Augsburger Kunstzeitung von 1771 und die »Geschichtlichen Notizen« des Echinger Pfarrers Lorenz Gruber (1825–39) im Pfarrarchiv erwähnen die Echinger Fresken sowie das Hochaltarbild des Hofmalers Wink, für welche derselbe 800 fl. erhalten hat (Texte zitiert bei Clementschitsch).
 
 
 == Befund ==
 
 
-Träger der Deckenmalerei: LHs und AR Flachtonne mit<br>Stichkappen, im O gemuldet
+Träger der Deckenmalerei: LHs und AR Flachtonne mit Stichkappen, im O gemuldet
 
-Rahmen: imitierte Rahmenprofile und imitierter Stuck-<br>dekor
+Rahmen: imitierte Rahmenprofile und imitierter Stuckdekor
 
 Technik: Fresko; A, B, C polychrom, B<sub>1-4</sub> monochrom gold ocker
 
@@ -73,12 +70,8 @@ Die himmlische Gruppe mit der zentralen Figur der Fides-Ecclesia ist in der Form
 Die meist als Rückenfiguren gezeigten Zuschauer und Soldaten sind entlang dem am O-Ende leicht gerundeten Rahmen gruppiert und fassen die beiden Martyriumszenen ein. Die irdische Zone ist seitlich hochgezogen und mit aufragenden landschaftlichen Requisiten und Figuren besetzt; ihren Tiefenhorizont deuten die perspektivisch stark verkürzten Figuren der Zuschauer an.
 
 Das Deckenfresko ist nicht im Sinne des barocken Illusionismus konzipiert. Die beherrschende figurale Mittelsenk
-<!-- citation-page-bottom: Band01 p49 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=1 -->
-<!-- citation-page-top: Band01 p50 -->
 
-<!-- header: ECHINO -->
 
 
 [[File:Band01_chunk002_p001_img001.jpg|thumb|B<sub>2</sub> Matthäus]]
@@ -104,14 +97,9 @@ C DIE ÜBERGABE DER SCHLÜSSEL Das längsformatige Chorfresko ist einansichtig a
 
 
 [[File:Band01_chunk002_p001_img005.jpg|thumb|B<sub>4</sub> Lukas]]
-<!-- citation-page-bottom: Band01 p51 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=2 -->
-<!-- citation-page-top: Band01 p52 -->
 
-<!-- header: ECHING -->
 
-<!-- header: ECHINO -->
 
 
 [[File:Band01_chunk002_p002_img001.jpg|thumb|EB<sub>6</sub> Befreiung Petri]]
@@ -184,7 +172,3 @@ Lieb, Norbert, Münchner Barockbaumeister, München 1941, S. 142, 151.
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 444 f.
 
 Clementschitsch, Heide, Christian Wink 1738–97, ungedr. Diss. Wien 1968, Bd 1, S. 67–70; Bd 2 Anhang A.
-<!-- citation-page-bottom: Band01 p53 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk002.pdf#page=3 -->
-{{End}}

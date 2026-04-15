@@ -53,10 +53,7 @@ C Höhe 8,40 m; 4,00 x 3,50
 C<sub>1-</sub>, I,I0×2,20
 
 Erhaltungszustand und Restaurierungen: 1869–76 fand aufgrund von Gewölbeschäden eine Restaurierung im neuroma-
-<!-- citation-page-bottom: Band08 p257 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=5 -->
-<!-- citation-page-top: Band08 p258 -->
 
 [[File:Band08_chunk006_p005_img001.jpg|thumb|C Glorie der hll. Johann Baptist und Johann Evangelist; C, Anbetung der Hirten (S. Brandstetter 1983), C, Anbetung der Könige]]  
 [[File:Band08_chunk006_p005_img002.jpg|thumb]]  
@@ -64,14 +61,9 @@ Erhaltungszustand und Restaurierungen: 1869–76 fand aufgrund von Gewölbeschä
 nischen Stil statt, bei der die barocke Ausmalung übermalt wurde. Auch die beiden barocken Kapellenanbauten wurden in diesem Zusammenhang entfernt. 1928/30 Restaurierung durch die Firma Keilhacker. 1964 wurde die Ausmalung des 19. Jh. entfernt und durch eine Raumtönung mit gemalter Jochgliederung ersetzt. Bei der letzten Restaurierung 1982/83 durch Karl Holzner, Ampfing, wurde eine reiche dekorative Rokokoausmalung an den Gewölben festgestellt, freigelegt, restauriert und ergänzt. Von den bildlichen Darstellungen wurden im LHs nur die Rahmen, im AR das Mittelbild C und Fragmente eines Nebenfreskos aufgefunden. Kirchenverwaltung und BLfD entschieden sich für eine Ergänzung der leeren Bildflächen mit Darstellungen, die der Altöttinger Maler Sebastian Brandstetter ausführte. Das AR-Fresko C wurde renoviert, die beiden Nebenfresken C<sub>1</sub>, wurden mit zwei Darstellungen »Anbetung der Hirten« und »Anbetung der Könige«, weil sich das Fragment eines Königs auf dem einen erhalten hatte, ergänzt (Signaturen in C<sub>1</sub> 19 WB 83, in C<sub>2</sub> WB). Die Fresken A und B wurden neu erfunden, B unter Zuhilfenahme einer Vorlage aus dem Wallfahrtsbuch Templum Salomonis, die das barocke Gnadenbild zeigt (Signatur in B Wastl Brandstetter 83). Neugemalt wurden auch zwei Chronogramme, die dem Werk Templum Salomonis entnommen sind und die die Daten 1734 und 1735 ergeben: Am Chorbogen VIRGO DEI GENITRIX IN SALMONSKIRCHEN GRATIIS PLENA EXISTENS. Am Gewölbe über der Orgel ALLES ZU LOB IESV MARIAE UND GEGENWERTIGER h. RELIQVIEN.  
 
 == Bildabfolge der ergänzten Ausmalung ==  
-<!-- citation-page-bottom: Band08 p259 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=6 -->
-<!-- citation-page-top: Band08 p260 -->
 
-<!-- header: SALMANSKIRCHEN -->
 
-<!-- header: ANKT ERASMUS -->
 
 
 [[File:Band08_chunk006_p006_img001.jpg|thumb]]
@@ -113,5 +105,3 @@ o.V., Kirche erglänzt im herrlichen Kleid des Barocks, in: Mühldorfer Anzeiger
 Dehio 1990 S 1947f
 
 С. В.
-
-{{End}}

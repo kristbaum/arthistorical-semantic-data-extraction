@@ -12,11 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p302 -->
 
-<!-- header: WORTI -->
 
-<!-- header: WORTH -->
 
 Filialkirche, Pfarrei Buchbach, Gemeinde Schwindegg, Erzdiözese München und Freising; z.Z. der Ausmalung Erzdiözese Salzburg, Archidiakonat Gars. Wörth war Hofmark im Besitz der Freiherren von Mändl (seit 1655 mit der Hofmark Steeg vereinigt). Gericht Neumarkt
 
@@ -61,12 +58,8 @@ Träger der Deckenmalerei: LHs (A) Spitztonne mit Stichkappen, AR (B) flache Ton
 
 
 Rahmen: A und B Stuckprofil in Weiß und Ocker. Technik: Fresko; polychrom. Maße: A Höhe 8,40 m; 5,70 × 2,80. B Höhe 7,70 m; 3,70 × 2,25. Erhaltungszustand und Restaurierungen: Restaurierungsschriften bei der Signatur Mangs in A: H: Dang [= Dagn] Renovirt / 18:19. (= 1879?) - Uebermalt 1898 Ziehrer. - FREI- GELEGT. RESTAVR. 1977 / FRITZ G.[öttler] K.[arl] HOL[zner] u. IRENE A.[nderka] (= Mitarbeiter Holzners). 1878/79 Regotisierung des Innenraums mit neoromanischer Ausstattung. Die Deckenbilder wurden von Heinrich Dagn aus Buchbach übermalt. Das neuromanische Fresko A zeigte
-<!-- citation-page-bottom: Band08 p303 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk007.pdf#page=3 -->
-<!-- citation-page-top: Band08 p304 -->
 
-<!-- header: WORTH -->
 
 
 [[File:Band08_chunk007_p003_img001.jpg|thumb|B Anbetung der Hl. Dreifaltigkeit]]
@@ -111,7 +104,3 @@ Wallner, Max, Rittergut Steeg von 1203–1849, in: 1200 Jahre Buchbach, S. 154�
 Brenninger, Georg, Kirchen der Pfarrei Buchbach (KKF Nr. 1741), 1989, S. 18f. Dehio 1000 S 1204
 
 C.B.
-
-<!-- header: ZANGBERG -->
-
-{{End}}

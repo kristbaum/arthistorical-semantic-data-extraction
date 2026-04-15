@@ -29,10 +29,7 @@ Passionsblume 103 Pfahl, im Wasser sich spiegelnd 28 Pfeil, zum Himmel fliegend 
 Räderuhr 30 Regenbogen 28 Richtscheit 23 Rose in Dornen 98 Ruder im Wasser, geknickt erscheinend 2
 
 Säule 30 Säule, im Hohlspiegel gekrümmt 28 Saphir 79 Seekompass 28 Sonne, aufgehend 221 Sonne im Zodiakus zwischen Löwe und Jungfr 221 Sonne spiegelt sich im Wasser 34 Sonne im Spiegel 171
-<!-- citation-page-bottom: Band14 p285 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk006.pdf#page=19 -->
-<!-- citation-page-top: Band14 p286 -->
 
 Sonne und Mond 227  
 Sonnenuhr 25f.  
@@ -172,6 +169,3 @@ Ut sine errore 23
 
 Vel ipsa per aspera crescit 98  
 Vexanti respondet amice 33  
-<!-- citation-page-bottom: Band14 p287 -->
-
-{{End}}

@@ -46,10 +46,7 @@ C Höhe 7,00 m; 2,50 × 2,00
 
 
 [[File:Band12-1_chunk006_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p263 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=8 -->
-<!-- citation-page-top: Band12 p264 -->
 
 [[File:Band12-1_chunk006_p008_img001.jpg|thumb]]
 
@@ -72,14 +69,9 @@ Gaill stellt das legendäre Geschehen volkstümlich und drastisch dar, in hellen
 C AUFNAHME DES HL. MARTIN IN DEN HIMMEL In Wolken erscheinen Christus und rechts von ihm Gottvater
 
 [[File:Band12-1_chunk006_p008_img003.jpg|thumb|A Taufe des hl. Martin]]
-<!-- citation-page-bottom: Band12 p265 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=9 -->
-<!-- citation-page-top: Band12 p266 -->
 
-<!-- header: HOGLIN -->
 
-<!-- header: HÖGLING -->
 
 
 [[File:Band12-1_chunk006_p009_img001.jpg|thumb|Martin küßt den Aussätzigen]]
@@ -102,7 +94,6 @@ StAM, Geistlicher Rat, Kirchen- und Stiftungsrechnungen. StAM, Gericht Aibling, 
 Bomhard, Peter von, Weihenlinden (KKF Nr. 782), München <sup>3</sup>1979, S. 21–23. Dehio 1990, S. 436. Engel, Rudolf, Land zwischen Isar und Inn, München-Zürich 1975, S. 250. Bomhard, Peter von und Sigmund Benker, Weihenlinden Regensburg 1995. Bartkowski, Gregor, Ehemalige Pfarrkirche St. Martin in Högling, in: Högling. Geschichte und Gegenwart (Hg. Pfarramt Weihenlinden-Högling), Eching 2001, S. 17–20. Pechinger-Theuerkauf, Evelyn, Högling. Ehemalige Pfarrkirche St. Martin (= Peda-Kunstführer Nr. 216), Passau 2003.
 
 A. B.
-<!-- citation-page-bottom: Band12 p267 -->
 
 
 [[File:Band12-1_chunk006_p009_img003.jpg|thumb]]
@@ -129,6 +120,3 @@ A. B.
 
 
 [[File:Band12-1_chunk006_p009_img008.jpg|thumb|Tod des hl. Martin]]
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk006.pdf#page=10 -->
-{{End}}

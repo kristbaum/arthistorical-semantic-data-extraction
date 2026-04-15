@@ -47,5 +47,3 @@ A. B.
 
 
 == SPITAL DER BARMHERZIGEN BRÜDER ==
-
-{{End}}

@@ -41,7 +41,6 @@ Erhaltungszustand und Restaurierungen: Eine Restaurierung der Vorhalle anläßli
 
 
 == Bildabfolge ==
-<!-- citation-page-bottom: Band09 p95 -->
 
 
 A DREIFALTIGKEIT in einem kreisrunden Mittelfeld; stark erneuert
@@ -62,10 +61,7 @@ A DREIFALTIGKEIT in einem kreisrunden Mittelfeld; stark erneuert
 
 6 Kapuzinerkloster und Basilika (Fehlstelle durch den Einbau einer Treppe zur Orgelempore)
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk002.pdf#page=24 -->
-<!-- citation-page-top: Band09 p96 -->
 
-<!-- header: HAIMING -->
 
 
 [[File:Band09_chunk002_p024_img001.jpg|thumb]]
@@ -92,5 +88,3 @@ A DREIFALTIGKEIT in einem kreisrunden Mittelfeld; stark erneuert
 
 
 Eindeutig in diesem Zyklus ist allerdings nur die Pfeilmarte Sebastians (4), die drei vorhergehenden sind nicht mit Sicherheit Sebastian zuzuordnen: als junger, vom Kaiser geschätzter Palastwächter setzte er sich für ein zum Tode verurteiltes Brüderpaar ein – im Schraubstock sitzen aber drei junge Männer (1). Er bekehrte den Präfekten von Rom mit seiner Gemahlin und seinem Sohn zum Christentum (3). Kaiser Diokletian verurteilte ihn zur Pfeilmarter (2). Der Sebastian-Zyklus steht wohl in Zusammenhang mit der Pest. Gedenktafel an der Südseite der Kirche in Höhe der Totenkapelle: »Den Toten der Gemeinde Haiming des Pestjahres 1634«. In diese Zeit fällt auch die Gründung der Sebastians-Bruderschaft in Haiming.
-
-{{End}}

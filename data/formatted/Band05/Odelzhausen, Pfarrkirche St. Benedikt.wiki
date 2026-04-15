@@ -12,7 +12,6 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p178 -->
 
 == ODELZHAUSEN ==
 
@@ -45,14 +44,9 @@ LHs dreischiffig, basilikal; die Hochwände sind von Säulen mit geradem Architr
 Die Zuweisung an Franz Mayr, Maler in Lauterbach, ab 1737 in Dachau, stützt sich auf die für ihn gesicherten Deckenbilder in Rumeltshausen (1748/50, s. S. 224–30). Die Ähnlichkeit in den Figuren- und Gesichtstypen, in der Darstellung der Stoffe und Wolken ist so groß, daß man Mayr mit Sicherheit als Autor der Deckenbilder in Odelzhausen annehmen kann. Die Deckenbilder in Orthofen können ebenfalls an Mayr zugewiesen werden (1747, s. S. 189–91). 
 
 Terminus ante für Umbau und Dekoration ist die Notiz in Schmidts Matrikel (1739), die Kirche sei »inter rurales nobilioris notae«. Die Dekoration dürfte demnach frühestens
-<!-- citation-page-bottom: Band05 p179 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=16 -->
-<!-- citation-page-top: Band05 p180 -->
 
-<!-- header: ODELZHAUSEN -->
 
-<!-- header: ODELZHAUSEI -->
 
 
 [[File:Band05_chunk004_p016_img001.jpg|thumb]]
@@ -94,10 +88,7 @@ Die in den Gewändern verwendeten Buntfarben Blau und Rot, Gelb und Grün sind s
 
 
 [[File:Band05_chunk004_p016_img003.jpg|thumb|Anbetung der Hirten]]
-<!-- citation-page-bottom: Band05 p181 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=17 -->
-<!-- citation-page-top: Band05 p182 -->
 
 [[File:Band05_chunk004_p017_img001.jpg|thumb]]
 
@@ -126,12 +117,8 @@ C<sub>1-10</sub> BENEDIKT-SZENEN Die Medaillons an den Stichkappen und Gewölbez
 C<sub>1</sub> DAS ZERBROCHENE SIEB DER AMME (Ribadeneira-Hornig, Bd 1, S. 503; LA-Benz, S. 237) Der junge Benedikt, entschlossen, in der Einsamkeit asketisch zu leben, wurde von seiner Amme begleitet; eines Tages ließ sie ein
 
 [[File:Band05_chunk004_p017_img004.jpg|thumb|8 Verkündigung]]
-<!-- citation-page-bottom: Band05 p183 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=18 -->
-<!-- citation-page-top: Band05 p184 -->
 
-<!-- header: ODELZHAUSEN -->
 
 
 [[File:Band05_chunk004_p018_img001.jpg|thumb]]
@@ -144,7 +131,7 @@ Gefäß (Sieb) fallen; es zerbrach und sie beklagte den Verlust heftig. Auf ein 
 
 Das Bild zeigt Benedikt betend inmitten der Scherben, hinter ihm die jammernde Amme und ein junger Mann. Säule und Bogen deuten eine Palastarchitektur vor einer weiten Landschaft an.
 
-C<sub>2</sub> ROMANUS NIMMT SICH DES JUNGEN BENE- DIKT AN (Ribadeneira-Hornig, Bd 1, S. 503) Auf dem Weg in die Einsamkeit traf der junge Benedikt den frommen Romanus, »... welcher dises junge und adeliche Blut gantz<br>allein sahe in dem Wald hin und her stürtzen; diser fragte, wer er seye, was sein Absehen in diser Einöde? wohin seine Reiß gerichtet? Da ihm nun der Jüngling sein gantzes Vorhaben getreulich, aber im Geheim, entdecket, kleidet er ihn geistlich, und weiset ihm eine wilde Clausen zur Wohnung an.«. Links ein Baum auf einem Felsen bezeichnet die Einöde, im Hintergrund eine Burg die verlassene Welt. Romanus, in schwarzer Kutte, führt den jungen Benedikt, der in römische Soldatentracht gekleidet ist. Ein Putto rechts mit Amors Bogen weist auf die irdischen Freuden hin, auf die zu verzichten sich Benedikt anschickt, ein Basilisk (?) mit Schlangenzunge auf die Laster, denen er abschwört.
+C<sub>2</sub> ROMANUS NIMMT SICH DES JUNGEN BENE- DIKT AN (Ribadeneira-Hornig, Bd 1, S. 503) Auf dem Weg in die Einsamkeit traf der junge Benedikt den frommen Romanus, »... welcher dises junge und adeliche Blut gantz allein sahe in dem Wald hin und her stürtzen; diser fragte, wer er seye, was sein Absehen in diser Einöde? wohin seine Reiß gerichtet? Da ihm nun der Jüngling sein gantzes Vorhaben getreulich, aber im Geheim, entdecket, kleidet er ihn geistlich, und weiset ihm eine wilde Clausen zur Wohnung an.«. Links ein Baum auf einem Felsen bezeichnet die Einöde, im Hintergrund eine Burg die verlassene Welt. Romanus, in schwarzer Kutte, führt den jungen Benedikt, der in römische Soldatentracht gekleidet ist. Ein Putto rechts mit Amors Bogen weist auf die irdischen Freuden hin, auf die zu verzichten sich Benedikt anschickt, ein Basilisk (?) mit Schlangenzunge auf die Laster, denen er abschwört.
 
 C<sub>3</sub> ROMANUS ERNÄHRT BENEDIKT IN DER EINÖDE (Ribadeneira-Hornig, Bd 1, S. 503; LA-Benz, S. 237) Die Klause, die Romanus dem jungen Benedikt zugewiesen hatte, war so abgeschieden, daß man kaum zu ihr gelangen konnte. Romanus ernährte deshalb seinen Schützling vermittels eines Korbes, in dem er Brot zu ihm hinabließ. Benedikt sitzt in einer Felsennische vor einem Kreuz und hält ein Buch in der Hand. Oben auf dem Felsen kauert Romanus und läßt an einem Strick einen Korb hinab.
 
@@ -152,7 +139,7 @@ C<sub>4</sub> DAS OSTERMAHL IN DER EINÖDE (Ribadeneira-Hornig, Bd 1, S. 503 f.;
 
 Links ist der Priester zu sehen, im Hintergrund seine kleine Kirche. Benedikt sitzt mit aufgeschlagenem Buch vor einem Kreuz an einem Felsen. Im Vordergrund steht der Korb des Priesters mit Speisen und Wein. In Wolken erscheint Christus
 
-C<sub>5</sub> DIE VERSUCHUNG DES HL. BENEDIKT (Ribadeneira-Hornig, Bd 1, S. 504; LA-Benz, S. 237 f.) Eines Tages bedrängte der Teufel den Heiligen in Gestalt einer Amsel; Benedikt vertrieb ihn zwar mit dem Kreuzeszeichen. »... verspuhret aber von Stund an einen dermassen hefftigen<br>Brand zur Unlauterkeit in seinem Leib«, daß er schon erwog, die Einöde zu verlassen. Mit Hilfe Gottes widerstand er der Versuchung, indem er sich nackt in Dornen wälzte.
+C<sub>5</sub> DIE VERSUCHUNG DES HL. BENEDIKT (Ribadeneira-Hornig, Bd 1, S. 504; LA-Benz, S. 237 f.) Eines Tages bedrängte der Teufel den Heiligen in Gestalt einer Amsel; Benedikt vertrieb ihn zwar mit dem Kreuzeszeichen. »... verspuhret aber von Stund an einen dermassen hefftigen Brand zur Unlauterkeit in seinem Leib«, daß er schon erwog, die Einöde zu verlassen. Mit Hilfe Gottes widerstand er der Versuchung, indem er sich nackt in Dornen wälzte.
 
 Das Bild zeigt den Vorgang in zwei Phasen: hinten kniet Benedikt vor einem Kreuz, während ein schwarzer Vogel über seinem Haupt fliegt. Im Vordergrund ist der entkleidete Heilige zu sehen, während er sich in Dornen wälzt.
 
@@ -160,12 +147,8 @@ C<sub>6</sub> BENEDIKT UND DAS VERGIFTETE BROT (Ribadeneira-Hornig, Bd 1, S. 506
 
 
 [[File:Band05_chunk004_p018_img003.jpg|thumb|Der hl. Benedikt, Patron von Odelzhausen]]
-<!-- citation-page-bottom: Band05 p185 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band05 p186 -->
 
-<!-- header: ODELZHAUSEN -->
 
 [[File:Band05_chunk004_p019_img001.jpg|thumb]]
 
@@ -203,12 +186,8 @@ Auf den Stufen vor dem Klosterportal kniet Totila, von Soldaten begleitet. Aus d
 [[File:Band05_chunk004_p019_img011.jpg|thumb|C<sub>10</sub> Die Seele des hl. Benedikt fliegt in den Himmel]]
 
 C<sub>10</sub> DIE SEELE DES HL. BENEDIKT FLIEGT IN DEN HIMMEL (Ribadeneira-Hornig, Bd 1, S. 511) Im Augenblick des Todes Benedikts sah einer der Mitbrüder die Seele des Entschlafenen in den Himmel fliegen.
-<!-- citation-page-bottom: Band05 p187 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk004.pdf#page=20 -->
-<!-- citation-page-top: Band05 p188 -->
 
-<!-- header: ODELZHAUSEN -->
 
 Engel tragen eine helle Jünglingsgestalt zum Himmel. Unten rechts – kaum mehr sichtbar – stehen Mönche.
 
@@ -242,6 +221,3 @@ Dehio 1990, S. 931.
 
 
 == ORTHOFE ==
-
-
-{{End}}

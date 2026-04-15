@@ -12,9 +12,7 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band04 p26 -->
 
-<!-- header: BIBUR -->
 
 
 == BIBURG ==
@@ -56,12 +54,8 @@ Erhaltungszustand und Restaurierungen: Auf einer Photographie von 1905 ist noch 
 
 
 [[File:Band04_chunk001_p014_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p27 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk001.pdf#page=15 -->
-<!-- citation-page-top: Band04 p28 -->
 
-<!-- header: BIBLIR -->
 
 stellung des Hl. Geistes. 1992 Vorbereitung einer Innenrestaurierung, die den Zustand von 1916 wiederherstellen soll. Im nordwestlichen AR-Joch ist eine Freilegungsprobe zu sehen, die eine Schar von Köpfen zeigt, verschiedener Stände angehörig – die Darstellung läßt auf vergleichbare schließen, vielleicht Anrufungen aus der Lauretanischen Litanei oder ein ähnliches Stifterbild wie in Lochhausen. Die Deckenbilder sind in ihrer barocken Substanz sehr beeinträchtigt.
 
@@ -89,6 +83,3 @@ Schmidtsche Matrikel, Bd 2, S. 301. Mayer-Westermayer, Bd 1, S. 259. Heimatbuch 
 
 
 == DÜNZELBACH ==
-
-
-{{End}}

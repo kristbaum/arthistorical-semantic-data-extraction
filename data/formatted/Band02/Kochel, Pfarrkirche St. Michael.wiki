@@ -52,12 +52,8 @@ D Höhe 7,20 m; 4,00 × 3,00
 
 
 [[File:Band02_chunk004_p025_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p199 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=1 -->
-<!-- citation-page-top: Band02 p200 -->
 
-<!-- header: KOCHEL -->
 
 [[File:Band02_chunk005_p001_img001.jpg|thumb]]
 
@@ -98,13 +94,8 @@ Die angelologischen Darstellungen 1 und 2 zeigen den hl. Michael als Patron der 
 4 MICHAEL AM TEICH BETHESDA Der Erzengel Michael bringt das Wasser des Badehauses (= Bethesda) in Wallung; der erste, der es danach besteigt, wird geheilt. Inschrift: Angelus |: Michael: / descendit De Caelo-et / sanabatur unum. / Jo 5 V. 3. (= Io 5, 4)
 
 3 und 4 sind freie Adaptionen auf den hl. Michael, denen biblische Engelserscheinungen zugrundeliegen. Dabei ist der Einschub des Namens Michael in den Unterschriften durch Striche und Doppelpunkte gekennzeichnet.
-<!-- citation-page-bottom: Band02 p201 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=2 -->
-<!-- citation-page-top: Band02 p202 -->
 
-<!-- header: KOCHEL -->
-<!-- header: KÖNIGSDORF -->
 
 [[File:Band02_chunk005_p002_img001.jpg|thumb]]
 
@@ -133,5 +124,3 @@ Mindera, Karl, Benediktbeuern. Das Handwerk im Dienst der Kunst auf dem Boden de
 -, Benediktbeuern (= GKF, Nr. 23), München <sup>3</sup>1970, S. 41.
 
 Schlor, Walter, Kochel am See, Wangen 1973.
-
-{{End}}

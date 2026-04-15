@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band11 p188 -->
 
-<!-- header: LANDKREIS TRAUNSTEIN · TRAUNWALCHEN -->
 
 
 == TRAUNWALCHEN ==
@@ -90,7 +88,3 @@ Dehio 1990, S. 1185
 Danner, Johannes, Pfarrkirche Mariä Geburt – Frauenbrunn – Kirche Kirchstätt. Traunwalchen 1995, S. 26–65 (mit Auswertung der Kirchenrechnungen im Pfarrarchiv Traunwalchen).
 
 А. В.
-<!-- citation-page-bottom: Band11 p189 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band11_chunk004.pdf#page=21 -->
-{{End}}

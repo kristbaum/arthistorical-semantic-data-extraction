@@ -73,7 +73,3 @@ Inschrift am Chorbogen <i>Lobet den Herrn in Seinen Heiligen 1.50</i> bsal: (= P
 
 
 KDB I OB (1), S. 903
-<!-- citation-page-bottom: Band02 p255 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk006.pdf#page=4 -->
-{{End}}

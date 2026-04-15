@@ -16,11 +16,8 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p94 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
-<!-- header: BENEDIKTBEUERN -->
 
 Ehem. Schlafzimmer im Konventbau, z. Z. Jugendpastoralinstitut
 
@@ -66,7 +63,3 @@ A IMMACULATA Einansichtige Darstellung; Aufnahmestandpunkt unter der Bildmitte; 
 W NACHT Das Wandbild an der O-Seite des Raumes über dem früheren Alkoven zeigt eine weibliche Gestalt in bestirntem Kleid, die zusammen mit Putti auf einem Lager ruht. Eine brennende Kerze in einer Laterne ist als Attribut beigegeben.
 
 Literatur siehe S. 133
-<!-- citation-page-bottom: Band02 p95 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=24 -->
-{{End}}

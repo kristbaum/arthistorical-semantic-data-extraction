@@ -49,12 +49,8 @@ B ST. LEONHARD PATRON VON REICHLING Das querovale Hauptfresko nimmt die volle Br
 
 
 [[File:Band01_chunk004_p025_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p199 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=1 -->
-<!-- citation-page-top: Band01 p200 -->
 
-<!-- header: REICHLING -->
 
 
 [[File:Band01_chunk005_p001_img001.jpg|thumb]]
@@ -83,7 +79,6 @@ Stork, Anton, Geschichte von Reichling, Donauwörth 1930.
 Hofmann, Sigfrid, Der Landkreis Schongau, München 1959, S. 80.
 
 Neu, Wilhelm, Beiträge zum Werk Münchener Hofmalermeister der 2. Hälfte des 18. Jahrhunderts im südwestlichen Oberbayern, in: Festschrift Norbert Lieb, Zeit schrift für bayerische Landesgeschichte 35, H. 1, 1972 S. 294 ff.
-<!-- citation-page-bottom: Band01 p201 -->
 
 
 [[File:Band01_chunk005_p001_img002.jpg|thumb|C St. Nikolaus beschenkt die drei Töchter des armen Edelmanns mit C1-4 Evangelist]]
@@ -91,6 +86,3 @@ Neu, Wilhelm, Beiträge zum Werk Münchener Hofmalermeister der 2. Hälfte des 1
 
 
 [[File:Band01_chunk005_p001_img003.jpg|thumb|A David psallens]]
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=2 -->
-{{End}}

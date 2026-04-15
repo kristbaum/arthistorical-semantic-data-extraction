@@ -21,10 +21,7 @@ Das Kind am Meer 223 Aussätzige, Pestkranke 150, 241, 253, 260 Auxilium Christi
 295 Anbetung der Könige 267 Beschneidung/Namensgebung 267 Darbringung im Tempel 91, 267, 300 Flucht nach Ägypten 267f. Rückkehr von Ägypten 267f. Zwölfjährig im Tempel 249, 267 f., 2 Berufung Petri 204 222
 
 332
-<!-- citation-page-bottom: Band07 p333 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=18 -->
-<!-- citation-page-top: Band07 p334 -->
 
 {| class="wikitable"
 |-
@@ -438,12 +435,8 @@ Höllestrafe 200
 Hoheslied 166  
 Hoherpriester 249, 266 f., 278, 300  
 Holler, Holunder
-<!-- citation-page-bottom: Band07 p335 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=19 -->
-<!-- citation-page-top: Band07 p336 -->
 
-<!-- header: IKONOGRAPHISCHES REGISTER -->
 
 
 == IKONOGRAPHISCHES REGISTER ==
@@ -662,10 +655,7 @@ unter dem Kreuz 53 Heilige Sippe 20, 22 Heiliger Wandel 268 Herz Mariä 180 Huld
 Huldigung der Erdteile 20, 22f., 25, 28 I- Intercessio 264
 
 Intercessio 26
-<!-- citation-page-bottom: Band07 p337 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=20 -->
-<!-- citation-page-top: Band07 p338 -->
 
 {| class="wikitable"
 |-
@@ -960,7 +950,7 @@ Intercessio 26
 |-
 | Nikolaus von Tolentino 121,
 |-
-| Vision von den Armen Seelen 259 Siege<br>Rettung Cordobas vor der Pest 259, 261 Palmlil
+| Vision von den Armen Seelen 259 Siege Rettung Cordobas vor der Pest 259, 261 Palmlil
 |-
 | Auferweckung des gekochten Kindes 260 Pantale
 |-
@@ -1563,10 +1553,7 @@ Intercessio 26
 Quelle, Quellwunder 240f., 258 Quis ut Deus → Michael 190, 198
 
 Rad → Katharina 264 Räuchergefäß → Asia 20 Ratschluß der Erlösung 65, 6 Rauchmantel → Petrus 22
-<!-- citation-page-bottom: Band07 p339 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=21 -->
-<!-- citation-page-top: Band07 p340 -->
 
 
 == IKONOGRAPHISCHES REGISTE ==
@@ -2029,10 +2016,7 @@ Rad → Katharina 264 Räuchergefäß → Asia 20 Ratschluß der Erlösung 65, 6
 |-
 | Ritt durch die Wertach 56–58
 |}
-<!-- citation-page-bottom: Band07 p341 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk007.pdf#page=22 -->
-<!-- citation-page-top: Band07 p342 -->
 
 
 == IKONOGRAPHISCHES REGISTER ==
@@ -2047,5 +2031,3 @@ Zacharias 22, 90, 165 f., 248, 267, 276, 278, 293 Zahn, Zahnzange → Apollonia 
 Prophezeiung der Geburt durch einen Engel 173, 176 vom Teufel aus der Stadt getragen 173, 176 vom Engel ins Elternhaus zurückgebracht 1 Zerstörung der Götzenbilder 173, 176 Marter durch die Heiden 173, 176 Heilung von Besessenen 173, 176 Heilung der Tochter von Kaiser Gallienus 1 Wasserwunder von Verona 174 Fischwunder 173 f., 176 Erweckung eines Ertrunkenen 174, 176 Heilung eines Blinden 174, 176 Heilung von Stummen, Tauben und Kranken 173, 176 sendet den Teufel um eine Porphyrmuschel
 
 Erweckung des Sohns eines mildtätigen Mannes 173f. verschafft einem Toten Zeit zur Buße 173 f. Wetter-, Feuer und Viehpatron 174 Zepter → Maria 218 → Asia 20 → Europa 20, 282 → Katharina 125 → Oswald 273 → Sigismund 82 Zirkel → Joseph 264 Zodiakus 160 Zwingli, Ulrich, als Ketzer 304
-
-{{End}}

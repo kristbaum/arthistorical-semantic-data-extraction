@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band07 p130 -->
 
-<!-- header: HECKE -->
 
 
 == HECKEN ==
@@ -48,7 +46,7 @@ Rahmen: A und B geschwungene Rahmen in kräftigem Stuckprofil, in den Diagonalen
 
 Maße: A Höhe 8,70 m; 4,70×2,80 B Höhe 8,40 m; 2,80×1,80
 
-Erhaltungszustand und Restaurierungen: 1858 ist die Kirche»in geradezu schauerlicher Weise restauriert worden, sodaß<br>der schöne Innenraum gänzlich entstellt ist« (Gutachten BLfD Johann Eder. (Datum an der Innenseite des Chorbogens Renoviert A. 1960 D.). Freilegen des Stucks, Reinigen der Deckenbilder, Abnehmen der Übermalungen, Einstimmen der Fehlstellen. Jetzt wieder zahlreiche schwarze Flecken (Befall von Mikro-Organismen an den Secco-Übermalungen).
+Erhaltungszustand und Restaurierungen: 1858 ist die Kirche»in geradezu schauerlicher Weise restauriert worden, sodaß der schöne Innenraum gänzlich entstellt ist« (Gutachten BLfD Johann Eder. (Datum an der Innenseite des Chorbogens Renoviert A. 1960 D.). Freilegen des Stucks, Reinigen der Deckenbilder, Abnehmen der Übermalungen, Einstimmen der Fehlstellen. Jetzt wieder zahlreiche schwarze Flecken (Befall von Mikro-Organismen an den Secco-Übermalungen).
 
 
 == Beschreibung und Ikonographie ==
@@ -67,10 +65,7 @@ Die Erscheinung des Teufels in Drachenform wird in Bildzyklen der hl. Margareta 
 
 
 [[File:Band07_chunk003_p016_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band07 p131 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk003.pdf#page=17 -->
-<!-- citation-page-top: Band07 p132 -->
 
 [[File:Band07_chunk003_p017_img001.jpg|thumb|a-d Margareta-Emblem]]
 [[File:Band07_chunk003_p017_img002.jpg|thumb|B Margareta und Olibrius]]
@@ -109,8 +104,3 @@ AEM, Kunsttopographie der Erzdiözese, Dekanat 23/Erding, Pfarrei Bockhorn, Fili
 BLfD, Akt Hecken, Kirche St. Margareta. Schmidtsche Matrikel, Bd 1, S. 520f. Mayer-Westermayer, Bd 1, S. 364. Landkreis Erding 1963, S. 228.
 
 Brenninger 1980, S. 135. Brenninger 1982, S. 112 f. Landkreis Erding 1985, S. 321. Dehio 1990, S. 412 f.
-
-<!-- citation-page-bottom: Band07 p133 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band07_chunk003.pdf#page=18 -->
-{{End}}

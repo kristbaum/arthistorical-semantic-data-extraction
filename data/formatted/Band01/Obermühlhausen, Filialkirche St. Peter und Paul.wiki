@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p178 -->
 
-<!-- header: OBERMÜHLHAUSEN -->
 
-<!-- header: PENZIN( -->
 
 Filialkirche, Gemeinde Dießen, Pfarrei Thaining (von Stadl vikariert), Diözese Augsburg; z. Z. der Ausmalung Pfarrei Dettenschwang, auf die Kloster Wessobrunn das Präsentationsrecht hatte, Gericht Landsberg
 
@@ -57,5 +54,3 @@ Hopp, Jakob, Pfründe-Statistik der Diözese Augsburg, Augsburg 1893, Bd 1, S. 3
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 550.
 
 Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern. Bd 22–23), München 1971, S. 158.
-
-{{End}}

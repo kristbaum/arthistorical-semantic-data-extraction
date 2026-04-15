@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p212 -->
 
-<!-- header: ST. GEORGEN -->
 
 == Filialkirche Demontiertes Deckenbild S. 216 ==
 
@@ -60,11 +58,8 @@ A ST. GEORG – VERTEIDIGER DER KIRCHE UND HELFER DER BEDRÄNGTEN In der längsf
 
 
 [[File:Band01_chunk005_p007_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p213 -->
 
-<!-- citation-page-top: Band01 p214 -->
 
-<!-- header: ST. GEORGEN -->
 
 die Wolkenformation, welche sich wie ein Dach über dem seichten Bühnenaufbau an der östlichen Schmalseite des Bildfeldes ausbreitet.
 
@@ -121,7 +116,3 @@ Hartig, Michael, Die oberbayrischen Stifte, Bd 1, München 1935, S. 194.
 Dehio-Gall, OB (1964), S. 281
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 422 f., 441 f.
-<!-- citation-page-bottom: Band01 p215 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk005.pdf#page=9 -->
-{{End}}

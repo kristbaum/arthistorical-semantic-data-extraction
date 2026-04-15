@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p444 -->
 
-<!-- header: ODERDING -->
 
 Filialkirche, Pfarrei Polling, Diözese Augsburg; z. Z. der Ausmalung eigene, dem Augustinerchorherrenstift Polling inkorporierte Pfarrei, Gericht Landsberg
 
@@ -89,7 +87,3 @@ Rückert, Georg, Die St. Martinskirche in Oderding, in Weilheimer Sonntagsblatt 
 —, Polling, Etting, Oderding, Bd 2 Pfarrgeschichte, Weilheim 1938.
 
 Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1962, S. 43.
-<!-- citation-page-bottom: Band01 p445 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk009.pdf#page=24 -->
-{{End}}

@@ -32,12 +32,8 @@ B Höhe 3,60 m; 3,00 × 2,20
 C Höhe 3,60 m; 2,70 × 2,20
 
 Erhaltungszustand und Restaurierungen: 1958 durch A. Dasser restauriert, wobei fehlende Putzteile wieder aufgetragen, lose Stellen aufgeschraubt und Risse ausgebessert wurden. Am besten erhalten ist Fresko A, es zeigt kaum wahrnehmbar Retouchen. Der gekittete Querriß in B ist wieder leicht aufgerissen, Haarrisse kommen hinzu. Zwei Freskopartien – ein Himmelsstück und die Beinpartie der Figur Josephs – sind ausgebessert. Fresko C ist teilweise stark erneuert: Über das ganze Bild läuft quer ein breiter erneuerter Streifen, die Stadtansicht und ein Stück des Himmels sind erneuert. — Im ganzen sind die Bildfiguren in Zeichnung und Farbe trotzdem recht gut erhalten
-<!-- citation-page-bottom: Band01 p263 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=8 -->
-<!-- citation-page-top: Band01 p264 -->
 
-<!-- header: VILGERTSHOFEN -->
 
 Beschreibung
 
@@ -68,7 +64,3 @@ Weitere Literatur siehe S 269
 
 
 [[File:Band01_chunk006_p008_img003.jpg|thumb|C Jesus und die Samariterin am Jakobsbrunnen]]
-<!-- citation-page-bottom: Band01 p265 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk006.pdf#page=9 -->
-{{End}}

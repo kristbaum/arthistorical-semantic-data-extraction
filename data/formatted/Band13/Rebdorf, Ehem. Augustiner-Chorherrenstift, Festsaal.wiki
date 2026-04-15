@@ -12,12 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk009.pdf#page=12 -->
-<!-- citation-page-top: Band13 p422 -->
 
-<!-- header: REBDORF FESTSAAI -->
 
-<!-- header: Festsaal -->
 
 Baugeschichte: Der Festsaal befindet sich im Klostertrakt der ehem. Prälatur, deren Entstehungszeit nicht exakt zu bestimmen ist. Aufgrund unterschiedlicher Mitteilungen in zeitgenössischen Quellen kann der Bau in die Amtszeiten zweier Priore gesetzt werden. Felix Mader meint in den KDB von 1924, basierend auf Strauss S. 306, dass die Prälatur unter Prior Erhard Räm (1712–32) »die heutige Fassade und Inneneinteilung« erhalten hat. Dagegen wird in der »Leichred« auf Prior Johann Baptist Mayr (1732–57) diesem die Ausgestaltung des Prälaturbaues, »Abbteyliche Wohnung« genannt, zugesprochen. Für Räms Bauherrnschaft spricht sein Wappen, das sich über der Eingangstür des den Prälaturtrakt im Osten einnehmenden Quertrakts befindet; diese stellte laut einem mit 1892 datierten Plan »Grundriß des Klosters zur Zeit der Aufhebung«, abgebildet in SHVE 29, 1914, Taf. III, die bauzeitliche Erschließung des Prälaturtrakts dar. Jedenfalls stellt das Jahr 1735, in dem das Fresko im Festsaal entstand, den Terminus ante quem für die Entstehung des heutigen Erscheinungsbildes dieses Barockbaus dar, in dem Räumlichkeiten des Vorgängerbaues, darunter der »Gotische Saal«, überkommen sind. Die Forschung weist den an der Hoffassade mit Frührokoko-Stuck ausgestatteten Bau dem Werk des damaligen Eichstätter Hofbildhauers Matthias Seybold zu, dem auch – basierend auf einer zeitgenössischen Notiz – die Barockisierung der Rebdorfer Klosterkirche zugewiesen wird. Man vermutet, dass der fürstbischöfliche Hofbaudirektor Gabriel de Gabrieli, der 1717–19 den die Rebdorfer Klosteranlage prägenden Konventflügel, einen entlang der Altmühl sich erstreckenden, zweigeschossigen Mansardwalmdachbau, errichtete, zu beschäftigt war und daher Seybold, ab 1747 fürstbischöflicher Hofinspektor, nicht nur mit dem Umbau der Kirche, sondern auch mit dem Bau der Prälatur betraut wurde. Gestützt wird diese These durch den stilistischen Vergleich von Gabrieli-Konventsflügel und Seybold-Prälatur.
 
@@ -32,12 +28,8 @@ Kleiner rechteckiger Saal (13,00 × 8,80 m), ursprünglich nur drei Fensterachse
 [[File:Band13_chunk009_p012_img001.jpg|thumb|A Augustiner-Chorherren als Licht der Welt, a-c Embleme (Matthias Zink 1735)]]
 
 '''Autor und Entstehungszeit:''' Zuschreibung an Matthias Zink (* 1665 Donaumünster † 1738 Eichstätt) 1735. Chronogramm Vt ILLVCeat IIs qVIInDoMo/tVa sVnt/ex eVangelio (= 1735) Als Urheber des Freskos, für das bislang kein Künstler vorgeschlagen wurde, ist der Eichstätter Maler Matthias Zink anzusehen. Die Zuschreibung beruht auf der stilistischen Übereinstimmung mit illusionistischen Architekturmalereien der von Zink im Jahre 1725 datierten und signierten Freskodekoration der Stadtpfarrkirche Hl. Geist in Neuburg a.D. (siehe CBD, Bd 10, S. 161–81, vor allem die Fresken A3, 5). Auch die Figu-
-<!-- citation-page-bottom: Band13 p423 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk009.pdf#page=13 -->
-<!-- citation-page-top: Band13 p424 -->
 
-<!-- header: REBDORF FESTSAAL -->
 
 Elemente und die Freude an detaillierten Innenraumeinrichtungen sind identisch. Der Architekturaufbau des Rebdorfer Festsaalfreskos ist für Zinks Schaffen wie auch für die Freskomalerei Eichstätts ungewöhnlich. Zink dürfte eine graphische Vorlage verwandt haben.
 
@@ -91,5 +83,3 @@ SCHAMBACH
 
 
 Pfarr- und Wallfahrtskirche, Markt Kipfenberg, Diözese Eichstätt; z. Z. der Ausmalung Hochstift Eichstätt; damals war Schambach eine Filiale der Pfarrei Böhmfeld, seit 1793 ist sie eigene Pfarrei. Bis 1972 Reg.Bez. Mittelfranken.
-
-{{End}}

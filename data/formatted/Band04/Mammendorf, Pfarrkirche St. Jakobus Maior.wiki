@@ -30,14 +30,9 @@ Bildaufbau und Farbgebung belegen eine Entstehung um 1800: Trotz großer Höhene
 
 
 [[File:Band04_chunk004_p022_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p193 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=23 -->
-<!-- citation-page-top: Band04 p194 -->
 
-<!-- header: MAMMENDORF -->
 
-<!-- header: MAMMENDOR -->
 
 
 [[File:Band04_chunk004_p023_img001.jpg|thumb]]
@@ -84,7 +79,6 @@ Der größte Teil der Bildfläche gehört dem himmlischen Bereich. Ockerfarbene,
 Die mattfarbige Palette, die mit Abwandlungen gebrochener Violett- und Purpurtöne arbeitet, zu denen sie ein kräftigeres Rostrot und ein lichtes Gelb in Gegensatz stellt, geht auf Thomas Christian Wink zurück; das gilt auch für die Bildung der Wolken, ihre Ockertönung und den Übergang in branstige Brauntöne bei den Randwolken.
 
 1–4 EVANGELISTENSYMBOLE Die vier Zwickelfelder, die an das LHs-Fresko stoßen, zeigen die Evangelistensymbole fast in Gestalt einer Drolerie. In den ungerahmten Grisailleszenen vor Wolkengrund thront jeweils ein Putto spielerisch, beinahe reitend, über dem Symboltier und schreibt in ein Buch. Nur der Engel schreibt selbst, von einem Putto assistiert.
-<!-- citation-page-bottom: Band04 p195 -->
 
 
 [[File:Band04_chunk004_p023_img002.jpg|thumb|arkus 1–4 Evangelist]]
@@ -117,12 +111,8 @@ Die mattfarbige Palette, die mit Abwandlungen gebrochener Violett- und Purpurtö
 
 [[File:Band04_chunk004_p023_img009.jpg|thumb]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=24 -->
-<!-- citation-page-top: Band04 p196 -->
 
-<!-- header: MAMMENDORF -->
 
-<!-- header: MAMMENDOR -->
 
 
 [[File:Band04_chunk004_p024_img001.jpg|thumb|B Das Chorgewölbe mit den Fresken B Hl.-Geist-Öffnung und C Engel schweben zum Empfang des Martyrers hernieder]]
@@ -130,18 +120,10 @@ Die mattfarbige Palette, die mit Abwandlungen gebrochener Violett- und Purpurtö
 
 
 [[File:Band04_chunk004_p024_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band04 p197 -->
 
 
-<!-- header: MAMMENDORF -->
-<!-- header: MAMMENDOR -->
-<!-- citation-page-top: Band04 p196 -->
-<!-- citation-page-bottom: Band04 p197 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band04_chunk004.pdf#page=25 -->
-<!-- citation-page-top: Band04 p198 -->
 
-<!-- header: MAMMENDORF -->
 
 B TAUBE DES HL. GEISTES Kleines queroblonges Feld mit der Hl.-Geist-Öffnung und der gemalten Geisttaube in einem Strahlenkranz, von Putten begleitet. Rosagelblicher Wolkengrund; am östlichen Bildrand gemalte Scheinbrüstung.
 
@@ -175,6 +157,3 @@ Dehio 1990, S. 613.
 
 
 == MOORENWEIS ==
-
-
-{{End}}

@@ -26,12 +26,8 @@ LHs (17×11m) als großzügiger Saal, an den Übergängen von den Wänden zur Ch
 
 
 [[File:Band13_chunk007_p009_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p317 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=10 -->
-<!-- citation-page-top: Band13 p318 -->
 
-<!-- header: KOTTINGWORTH -->
 
 
 [[File:Band13_chunk007_p010_img001.jpg|thumb|A Christus erscheint dem hl. Vitus im Kerker]]
@@ -43,7 +39,7 @@ Als Zeichen der Zugehörigkeit Kottingwörths zum Hochstift Eichstätt findet si
 
 '''Autor und Entstehungszeit:''' Christian Dominikus Erhardt (* 1731 Augsburg † 1805 Augsburg) 1761. Signatur in Fresko B Christian: Erhardt/Pinx: aug: 1766, in der Erhardt neben Namen und Datierung auch seinen Status als Augsburger Maler angab.
 
-Der Zeitraum der Freskierung kann durch ein in den Pfarrakten überliefertes Schriftstück vom 29. 3. 1761 des mit der Baudirektion beauftragten Barbieri eingegrenzt werden: »Es hat<br>verstrichener Tagen H: Pfarrer zu Kottingwörth Franz Xaver
+Der Zeitraum der Freskierung kann durch ein in den Pfarrakten überliefertes Schriftstück vom 29. 3. 1761 des mit der Baudirektion beauftragten Barbieri eingegrenzt werden: »Es hat verstrichener Tagen H: Pfarrer zu Kottingwörth Franz Xaver
 
 
 [[File:Band13_chunk007_p010_img002.jpg|thumb]]
@@ -56,12 +52,8 @@ Die Fresken in Kottingwörth sind das Hauptwerk Erhardts dieser Gattung. (Weiter
 Fresken sind konventionell strukturiert. Schauplatz der Szenerien sind zumeist in extremer Verkürzung sich aufbauende Architekturprospekte, deren Substruktionen dem Betrachter vorgeführt werden. Ein beliebtes Stilmittel ist eine über drei Seiten umlaufende, einleitende Zone in Form eines Podestes oder einer Brüstung. Als illusionistisch könnte man auch die Art und Weise der Anbringung der Rocaillekartuschen an den gemalten Stuckprofilrahmen der Bildfelder bezeichnen, die bei Fresko C über in das Bildfeld ragende Palmwedel verfügen. Als ein für Erhardt charakteristisches Stilmittel ist die Betonung der Figurenmodellierung anzuführen, die bisweilen ins Affektierte geht. Die Divergenz zwischen räumlich und proportional in sich stimmigen Figuren und im Zusammenfügen von Gliedmaßen »verunglückten« Figuren dürfte in der Verwendung von Vorlagen und der mangelnden Souveränität im eigenen Entwurf zu suchen sein. Generell zeigt sich in der perspektivischen Darstellung wie auch in der Disposition der Figuren im Raum die Zweitklassigkeit Erhardts. In manchen stilistischen Details wie der teilweisen Verwendung changie-
 
 
-<!-- citation-page-bottom: Band13 p319 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=11 -->
-<!-- citation-page-top: Band13 p320 -->
 
-<!-- header: KOTTINGWÖRTH -->
 
 render Gewänder, dem Lächeln der Figuren und dem Zerfließen der Wolken geht er über den Stil seines Lehrers hinaus und erweist sich als ein dem Rokokostil verpflichteter Maler (vgl. hierzu Georg Paula, Erhard (Erhardt), Christian Dominikus, in: Saur Bd 34, 2002, S. 322).
 
@@ -93,10 +85,7 @@ Die Legende berichtet, dass Vitus zusammen mit seinem Lehrer Modestus seiner nic
 
 
 [[File:Band13_chunk007_p011_img001.jpg|thumb|B Teufelsaustreibung durch den hl. Vitus (Christian Dominikus Erhardt 1761)]]
-<!-- citation-page-bottom: Band13 p321 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=12 -->
-<!-- citation-page-top: Band13 p322 -->
 
 KOTTINGWÖRTH
 
@@ -106,14 +95,9 @@ KOTTINGWÖRTH
 
 
 [[File:Band13_chunk007_p012_img002.jpg|thumb|Kaiser Diokletian und sein besessener Sohn, Ausschnitt aus Fresko B]]
-<!-- citation-page-bottom: Band13 p323 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=13 -->
-<!-- citation-page-top: Band13 p324 -->
 
-<!-- header: KOTTINGWÖRT -->
 
-<!-- header: KOTTINGWÖRT -->
 
 
 [[File:Band13_chunk007_p013_img001.jpg|thumb|Engel präsentieren die Kirche von Kottingwörth und die Würdezeichen des Eichstätter Fürstbischofs, Ausschnitt aus Fresko (]]
@@ -121,10 +105,7 @@ KOTTINGWÖRTH
 
 
 [[File:Band13_chunk007_p013_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band13 p325 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band13_chunk007.pdf#page=14 -->
-<!-- citation-page-top: Band13 p326 -->
 
 == KOTTINGWORTH ==
 
@@ -161,6 +142,3 @@ C.G.
 
 
 == LENTING ==
-
-
-{{End}}

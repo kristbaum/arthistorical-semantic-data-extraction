@@ -37,14 +37,9 @@ Technik: A Öl auf Putz, B<sub>1-2</sub>, C, C<sub>1-4</sub>, C<sub>a-b</sub>, D
 
 
 Maße: A Höhe 4,20 m; 1,40 × 0,85 B<sub>1-2</sub> Höhe 4,20 m; 1,90 × 1,10 C Höhe 4,20 m; 1,75 × 1,00 C<sub>1-4</sub> Höhe 4,20 m; 0,60 × 0,70 C<sub>a-b</sub> Höhe 4,20 m; 1,35 × 1,50 D<sub>1-4</sub> Höhe 4,20 m; 1,30 × 1,70
-<!-- citation-page-bottom: Band02 p111 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=7 -->
-<!-- citation-page-top: Band02 p112 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
-<!-- header: RENEDIKTBEUER -->
 
 
 [[File:Band02_chunk003_p007_img001.jpg|thumb]]
@@ -90,14 +85,9 @@ C<sub>1-4</sub> PUTTI MIT MUSIKINSTRUMENTEN C<sub>1</sub> Putto mit Schalmei (ke
 
 
 [[File:Band02_chunk003_p007_img005.jpg|thumb|Amphion]]
-<!-- citation-page-bottom: Band02 p113 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=8 -->
-<!-- citation-page-top: Band02 p114 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
-<!-- header: RENEDIKTBEUERN -->
 
 
 [[File:Band02_chunk003_p008_img001.jpg|thumb]]
@@ -146,7 +136,3 @@ Da-b SONNE UND MOND Die Bilder sind fast zerstört, der Bildgegenstand kaum mehr
 Die Bildfolgen der vier Gästezimmer haben alle ein weltliches mythologisch-allegorisches Thema und verleihen der Zimmerflucht eine gemeinsame Grundstimmung von Muße, Bildung und Unterhaltung.
 
 Literatur siehe S. 122 und 133
-<!-- citation-page-bottom: Band02 p115 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk003.pdf#page=9 -->
-{{End}}

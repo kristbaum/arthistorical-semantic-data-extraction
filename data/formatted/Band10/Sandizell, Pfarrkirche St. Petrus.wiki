@@ -35,14 +35,9 @@ Das stuckierte Doppelwappen über dem Chorbogen zeigt auf dem nördlichen Schild
 Priecz wird in seinem Hochzeitseintrag in München 1733 (AEM, Pfarrmatrikel U.L.F.) als »churfürstlicher HofMahler in München« bezeichnet. Der am 8.3.1736 zwischen Max Emanuel von Sandizell und Priecz in München abgeschlossene Vertrag über die Ausmalung lautet: »...erstlich ybernimbt... H. Briez in obbemelten Pfaar Gottshaus inwendtig im Porta die nach dem verhandtenen Riss vorhabenten Bildtnus Maria Himelfahrt neben den 4 Evangelisten herumb wie auch das Aug Gottes yber dem Chor Altar mit Öllfarben...auszemahlen, hierzu alle Farben und anders, außer des benöttigter Leinöhls, selbsten beyzeschaffen... Dagegen wurdte ihme...300 Gulden...accordieret« (StAM, Schloßarchiv Sandizell 459, Nr. 55, zitiert nach BLfD, Dischinger, Ms. S. 3). Aus dem Originalvertrag (ebd., inliegend Nr. 55) sind zwei Abschlagszahlungen bestätigt, eine von 150 fl. am 23.3.1736 und eine weitere von 30 fl. am 15.5.1736.
 
 Das von Priecz signierte Seitenaltarbild in der Pfarrkirche von Mering, zu datieren um 1745/50, mit der Rosenkranzspende
-<!-- citation-page-bottom: Band10 p257 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=4 -->
-<!-- citation-page-top: Band10 p258 -->
 
-<!-- header: SANDIZELL -->
 
-<!-- header: SANDIZE -->
 
 Mariens an die hll. Dominikus und Katharina von Siena zeigt im oberen Teil eine mit dem AR-Fresko von Sandizell sehr verwandte, von Engeln und Putten gehaltene Rosengirlande, im Hauptteil eine lebhaft agierende, übereinander getürmte Figurengruppe in leuchtenden Farben, die stilistisch an böhmische Maler der ersten Hälfte des 18. Jh. erinnert, wie etwa Wenzel Lorenz Reiner (1689–1743).
 
@@ -56,7 +51,7 @@ Technik: A, A<sub>1-4</sub>, B Secco, polychrom; Malerei von 1736 fette Tempera,
 
 B Höhe 11,80 m; 8,10×7,80
 
-Erhaltungszustand und Restaurierungen: 1854-56 wurde das Hauptbild A infolge von Dachschäden zerstört, anschließend übertünchte man die gesamte Deckenfläche von Hauptraum und Chor. 1888 fielen Teile der Hauptdecke herab, die weitgehend erneuert werden mußte. 1911 wurden die Medaillons A<sub>1-4</sub> und die Ausmalung des Gewölbes im AR freigelegt. 1912/13 erfolgte eine Wiederherstellung der Deckenbilder durch Waldemar Kolmsperger, München, wobei das heutige Deckenbild A mit der Himmelfahrt Mariä als eine völlige Neuschöpfung Kolmspergers entstand. Von den freigelegten Bildern sagte er: <blockquote>»... leider dürften es nicht mehr als höchstens 10 Quadratmeter sein, die von sämtlichen Gemälden im Original erhalten werden können«</blockquote> (»...leider dürften es nicht mehr als 10 Quadratmeter sein, die von sämtlichen Gemälden im Origi-<br>nal erhalten werden können«). Kolmsperger rekonstruierte die Medaillons A<sub>1-4</sub> und das Deckenbild B unter Einbindung der originalen Partien, die er jedoch teilweise übermalte. Die Firma Carl Port, Augsburg, besorgte die Ausbesserung und Neutönung des Stuckdekors im Gemeinderaum (BLfD, Dischinger, Ms., S. 12–15). 1938 war eine Reinigung des Kircheninneren geplant. 1948/49 erfolgte eine Restaurierung der Innenausstattung sowie eine Neutünchung der Wände durch die Fa. Josef Finkenzeller, München. Die umfassende Restaurierung von 1992, der 1989 eine Voruntersuchung von Restaurator Eberhard Reichelt, Gundelsheim bei Bamberg, vorausging, wurde ausgeführt von Restaurator Stefano Cafaggi, Steinsberg bei Regenstauf. Hierbei zeigte sich, daß die durch Kolmsperger rekonstruierten Partien sowie seine Übermalungen der Originalmalerei wegen sehr schlechter Erhaltung abgenommen werden mußten. Zuvor wurde die Kolmspergersche Fassung durch Photos und Pausen dokumentiert. UV-Aufnahmen ergaben, <blockquote>»daß doch sehr viele Fragmente und zusammenhängende größere Partien unter den Figurengruppen der heutigen (= Kolmspergerschen) Darstellung erhalten sind«</blockquote> (»daß doch sehr viele Fragmente und<br>zusammenhängende größere Partien unter den Figurengrup-<br>pen der heutigen (= Kolmspergerschen) Darstellung erhalten<br>sind«) (BLfD, Restaurierungsbericht von Cafaggi). Die originalen Partien wurden in Temperatechnik retuschiert. »Die Rekonstruktion (erfolgte) unter Einbindung der retuschierten, originalen Bildteile, wobei gemäß dem originalen Malschichtaufbau eine dünne, gelbe Grundierung aufgebracht wurde. – In figürlichen Bereichen ohne Original wurde die Rekonstruktion mittels der abgenommenen Pausen (Kolmsperger), aber im Duktus und der Farbigkeit von Priecz durchgeführt« (ebd.). Bei den Medaillons A<sub>1-4</sub> zeigte sich, daß die Evangelisten nur teilweise von Kolmsperger übermalt worden waren, daß die Figuren von Markus und Markuslöwe noch relativ große Flächen an Originalsubstanz aufweisen, während bei Johannes und Lukas die Originalmalerei weitgehend zerstört ist. Vom Erhaltungszustand her erlaubten A<sub>1-4</sub> eine vorsichtige Trockenreinigung mit dem Pinsel, pudernde Teilbereiche wurden fixiert, Risse verkittet und retuschiert. Zu den von Kolmsperger neu geschaffenen Partien gehörte auch die Rocaillemalerei am nordöstlichen Ansatz des Deckenbildes im AR. Auf der Basis von Originalbefunden Restaurierung der Raumschale und der Raumausstattung durch die Fa. Alfred Binapfel, Friedberg, des Stucks durch die Fa. Walter Berger, Friedberg (BLfD, Registratur Akten).
+Erhaltungszustand und Restaurierungen: 1854-56 wurde das Hauptbild A infolge von Dachschäden zerstört, anschließend übertünchte man die gesamte Deckenfläche von Hauptraum und Chor. 1888 fielen Teile der Hauptdecke herab, die weitgehend erneuert werden mußte. 1911 wurden die Medaillons A<sub>1-4</sub> und die Ausmalung des Gewölbes im AR freigelegt. 1912/13 erfolgte eine Wiederherstellung der Deckenbilder durch Waldemar Kolmsperger, München, wobei das heutige Deckenbild A mit der Himmelfahrt Mariä als eine völlige Neuschöpfung Kolmspergers entstand. Von den freigelegten Bildern sagte er: <blockquote>»... leider dürften es nicht mehr als höchstens 10 Quadratmeter sein, die von sämtlichen Gemälden im Original erhalten werden können«</blockquote> (»...leider dürften es nicht mehr als 10 Quadratmeter sein, die von sämtlichen Gemälden im Original erhalten werden können«). Kolmsperger rekonstruierte die Medaillons A<sub>1-4</sub> und das Deckenbild B unter Einbindung der originalen Partien, die er jedoch teilweise übermalte. Die Firma Carl Port, Augsburg, besorgte die Ausbesserung und Neutönung des Stuckdekors im Gemeinderaum (BLfD, Dischinger, Ms., S. 12–15). 1938 war eine Reinigung des Kircheninneren geplant. 1948/49 erfolgte eine Restaurierung der Innenausstattung sowie eine Neutünchung der Wände durch die Fa. Josef Finkenzeller, München. Die umfassende Restaurierung von 1992, der 1989 eine Voruntersuchung von Restaurator Eberhard Reichelt, Gundelsheim bei Bamberg, vorausging, wurde ausgeführt von Restaurator Stefano Cafaggi, Steinsberg bei Regenstauf. Hierbei zeigte sich, daß die durch Kolmsperger rekonstruierten Partien sowie seine Übermalungen der Originalmalerei wegen sehr schlechter Erhaltung abgenommen werden mußten. Zuvor wurde die Kolmspergersche Fassung durch Photos und Pausen dokumentiert. UV-Aufnahmen ergaben, <blockquote>»daß doch sehr viele Fragmente und zusammenhängende größere Partien unter den Figurengruppen der heutigen (= Kolmspergerschen) Darstellung erhalten sind«</blockquote> (»daß doch sehr viele Fragmente und zusammenhängende größere Partien unter den Figurengruppen der heutigen (= Kolmspergerschen) Darstellung erhalten sind«) (BLfD, Restaurierungsbericht von Cafaggi). Die originalen Partien wurden in Temperatechnik retuschiert. »Die Rekonstruktion (erfolgte) unter Einbindung der retuschierten, originalen Bildteile, wobei gemäß dem originalen Malschichtaufbau eine dünne, gelbe Grundierung aufgebracht wurde. – In figürlichen Bereichen ohne Original wurde die Rekonstruktion mittels der abgenommenen Pausen (Kolmsperger), aber im Duktus und der Farbigkeit von Priecz durchgeführt« (ebd.). Bei den Medaillons A<sub>1-4</sub> zeigte sich, daß die Evangelisten nur teilweise von Kolmsperger übermalt worden waren, daß die Figuren von Markus und Markuslöwe noch relativ große Flächen an Originalsubstanz aufweisen, während bei Johannes und Lukas die Originalmalerei weitgehend zerstört ist. Vom Erhaltungszustand her erlaubten A<sub>1-4</sub> eine vorsichtige Trockenreinigung mit dem Pinsel, pudernde Teilbereiche wurden fixiert, Risse verkittet und retuschiert. Zu den von Kolmsperger neu geschaffenen Partien gehörte auch die Rocaillemalerei am nordöstlichen Ansatz des Deckenbildes im AR. Auf der Basis von Originalbefunden Restaurierung der Raumschale und der Raumausstattung durch die Fa. Alfred Binapfel, Friedberg, des Stucks durch die Fa. Walter Berger, Friedberg (BLfD, Registratur Akten).
 
 == Beschreibung und Ikonographie ==
 
@@ -65,12 +60,8 @@ Das große fast runde Spiegelgewölbe setzt über einer steiler Voute an, in die
 [[File:Band10_chunk006_p004_img001.jpg|thumb|Wenzeslaus Priecz, 1745/50, Rosenkranzspende, Altarbild in Merins]]
 [[File:Band10_chunk006_p004_img002.jpg|thumb]]
 
-<!-- citation-page-bottom: Band10 p259 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=5 -->
-<!-- citation-page-top: Band10 p260 -->
 
-<!-- header: SANDIZELL -->
 
 [[File:Band10_chunk006_p005_img001.jpg|thumb]]
 
@@ -87,14 +78,9 @@ A Himmelfahrt Mariä Die heutige, von Kolmsperger 1912/13 geschaffene Darstellun
 A<sub>1-4</sub> VIER EVANGELISTEN Sie sind in Untersicht dargestellt, auf Wolken thronend, in auffallend unruhiger, expres...
 
 [[File:Band10_chunk006_p005_img005.jpg|thumb|A, Johannes]]
-<!-- citation-page-bottom: Band10 p261 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk006.pdf#page=6 -->
-<!-- citation-page-top: Band10 p262 -->
 
-<!-- header: SANDIZELL -->
 
-<!-- header: SANDIZELL -->
 
 
 [[File:Band10_chunk006_p006_img001.jpg|thumb]]
@@ -128,5 +114,3 @@ Ursprünglich dürften die Farben des Deckenbildes mehr Leuchtkraft besessen hab
 
 
 [[File:Band10_chunk006_p006_img002.jpg|thumb|B Das Auge Gottes, von Engeln umgeben (Zustand nach der Restaurierung von 1992)]]
-<!-- citation-page-bottom: Band10 p263 -->
-{{End}}

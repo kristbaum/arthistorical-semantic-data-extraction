@@ -12,11 +12,8 @@
 |AutorIn1=Volk-Knüttel, Brigitte
 }}
 
-<!-- citation-page-top: Band10 p230 -->
 
-<!-- header: NEUBURG -->
 
-<!-- header: NEUBURG -->
 
 Ehemalige Hofapotheke heute Gasthaus >Laterne< Amalienstraße A 53
 
@@ -46,12 +43,8 @@ Apoll, Mars und Venus sind in ihrer Körperhaltung deutlich abhängig von Pruden
 Seit der Antike glaubte man an eine Verbindung des Menschen mit dem Kosmos und an eine unmittelbare Einwirkung der sieben Planeten und ihres wechselnden Standes am Himmel auf Körper und Gemüt, auf die Krankheiten und deren Heilmittel. Die Wichtigkeit der Planetenbewegung im Makrokosmos für die Konstitution des menschlichen Mikrokosmos schien evident. Die pharmakologische und alchemistische Bedeutung einzelner Planeten beruhte speziell darauf, daß ihnen jeweils ein bestimmtes Metall zugeordnet war, mit dem eine Wechselwirkung bestand. Auf die Medizin übertragen spricht man beispielsweise von merkurischen oder martialischen Medikamenten. Im Christentum wurde die Wirkung der Gestirne auf die Menschen als Teil der göttlichen Weltordnung betrachtet.
 
 Die Wahl der sieben Planeten für die Decke der Offizin der Hofapotheke zeugt in ihrer Kenntnis des antiken Schrifttums von hohem Anspruch. Deckenbildausstattungen von Apotheken mit dieser Thematik lassen sich bisher nicht nachweisen. Deswegen kommt den wiederentdeckten und freigelegten Gemälden der ehem. Neuburger Hofapotheke besondere Bedeutung zu.
-<!-- citation-page-bottom: Band10 p231 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk005.pdf#page=16 -->
-<!-- citation-page-top: Band10 p232 -->
 
-<!-- header: NEIJBIJRG -->
 
 
 [[File:Band10_chunk005_p016_img001.jpg|thumb|D Apol]]
@@ -100,7 +93,3 @@ Thuillier, Jacques, Brejon de Lavergnée, Barbara und Denis Lavalle, Vouet (Kat.
 Thiele, Roland u.a., Hofapotheke Neuburg. Festschrift, hg. von Manfred Bartl, (Neuburg) 1991, S. 15.
 
 B. V.-K.
-
-<!-- header: OBERHAUSEN -->
-
-{{End}}

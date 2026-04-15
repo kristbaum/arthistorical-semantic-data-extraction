@@ -47,10 +47,7 @@ Oberhaunstadt 151 Ochsenhausen, Klosterkirche 198 Ottobeuren, Benediktinerabtei 
 Padua 40f., 44 Paraguay 90 Paris 103 Louvre 216 Peru 90 Pest → Budapest 100 f. Petersberg/Glaneck bei Eisenhofen 241, 248 Pettenhofen 159–163, 268 Pfaffenhofen, Gericht 164, 189, 205, 223, 230, 241 264 Pfalz-Neuburg, Fürstentum 179, 237 Pörnbach, Hofmark 230 Prag 98, 102 St. Niklas 54 Prien, Pfarrkirche 127 Provence 103
 
 Ramsau 125 Regensburg 80 Bistum 189, 205 St. Emmeram 230 St. Emmeram Bibliothek 56 Alte Kapelle 138 Reichertshofen, Pfarrkirche 237–240 Gericht 164, 179, 268 f.
-<!-- citation-page-bottom: Band14 p271 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk006.pdf#page=12 -->
-<!-- citation-page-top: Band14 p272 -->
 
 Reisach 205 Rohrbach, Hofmark und Pfarrei 264, 269 Rom 99, 101, 143, 196 S. Ignazio 2081. Santa Croce 253 Rott am Inn. ehem. Benediktinerabtei 248
 
@@ -65,5 +62,3 @@ Unterbruch, LKr. Freising 225 Venedig 216 Vohburg, Gericht 151
 Waal 264 Wahlstatt 54 Waidhofen 226 Waldsassen, Zisterzienserstift, Bibliothek 14 Wien 44, 106 Wittelsbach, Burg bei Aichach 241, 260
 
 Zuchering 164–17
-
-{{End}}

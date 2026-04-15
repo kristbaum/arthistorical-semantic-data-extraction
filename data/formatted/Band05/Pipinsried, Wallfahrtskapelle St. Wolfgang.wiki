@@ -12,9 +12,7 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-<!-- citation-page-top: Band05 p202 -->
 
-<!-- header: PIPINSRIED -->
 
 
 == PIPINSRIED ==
@@ -60,14 +58,9 @@ dem leben des H. Wolfgangi. Darzue auch an den beyden Seithen die bildnussen der
 
 
 Träger der Deckenmalerei: Flachtonne mit Gurtbogenteilung und Stichkappen
-<!-- citation-page-bottom: Band05 p203 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=3 -->
-<!-- citation-page-top: Band05 p204 -->
 
-<!-- header: PIPINSRIED -->
 
-<!-- header: PIPINSRIEI -->
 
 
 [[File:Band05_chunk005_p003_img001.jpg|thumb]]
@@ -95,14 +88,9 @@ B ST. WOLFGANG KOMMT IN DIE NEUE KIRCHE BEI PIPINSRIED Aufnahmestandpunkt unter 
 [[File:Band05_chunk005_p003_img002.jpg|thumb]]
 
 
-<!-- citation-page-bottom: Band05 p205 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=4 -->
-<!-- citation-page-top: Band05 p206 -->
 
-<!-- header: PIPINSRIED -->
 
-<!-- header: PIPINSRIE -->
 
 
 [[File:Band05_chunk005_p004_img001.jpg|thumb|EB<sub>2</sub> Wolfgang kommt nach Einsiedeln – Wolfgang wird zum Priester geweiht]]
@@ -124,12 +112,8 @@ Zunhamer hatte sich bei den Vorarbeiten seiner Chronik intensiv mit der Erforsch
 
 
 [[File:Band05_chunk005_p004_img004.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p207 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=5 -->
-<!-- citation-page-top: Band05 p208 -->
 
-<!-- header: PIPINSRIED -->
 
 
 [[File:Band05_chunk005_p005_img001.jpg|thumb|4 und 5 Die hll. Christophorus und Cyriacus]]
@@ -164,14 +148,9 @@ EB<sub>2</sub> WOLFGANG KOMMT NACH EINSIEDELN - WOLFGANG WIRD ZUM PRIESTER GEWEI
 EB<sub>3</sub> ÜBERFÜHRUNG DER LEICHE WOLFGANGS NACH REGENSBURG Wolfgang starb 994 in Pupping, einem Ort seiner Diözese, wo er sich in Amtspflichten aufhielt. Sein Leib wurde nach Regensburg überführt und im Kloster St. Emmeram begraben. Das Bild zeigt den Zug mit der Leiche in den Straßen der Stadt.
 
 1-14 DIE VIERZEHN NOTHELFER An den Hochwänden der Kirche sind zwischen Pilastergebälk und Fenstern jeweils Rocaillekartuschen angebracht, in denen die Vierzehn Nothelfer dargestellt sind. Unterschriften nennen die Namen. In der Kirche waren vor der Neuausstattung 1746 holzgeschnitzte Figuren der Nothelfer an der Emporenbrüstung angebracht gewesen. P. Anton Zunhamer wollte »ihre Veneration nicht nehmen« und ließ sie deshalb an die Kirchenwände malen.
-<!-- citation-page-bottom: Band05 p209 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=6 -->
-<!-- citation-page-top: Band05 p210 -->
 
-<!-- header: PIPINSRIFD -->
 
-<!-- header: PIPINSRIFI -->
 
 
 [[File:Band05_chunk005_p006_img001.jpg|thumb]]
@@ -245,7 +224,3 @@ Zinnhobler, Rudolf, Der heilige Wolfgang. Leben, Legende, Kult, Linz 1975: dort 
 
 
 [[File:Band05_chunk005_p006_img007.jpg|thumb]]
-<!-- citation-page-bottom: Band05 p211 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band05_chunk005.pdf#page=7 -->
-{{End}}

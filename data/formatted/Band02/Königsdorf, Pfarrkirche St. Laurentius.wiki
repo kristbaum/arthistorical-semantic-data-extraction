@@ -45,10 +45,7 @@ A PASSIO DES HL. LAURENTIUS Das gekurvt gerahmte Bildfeld zieht sich über drei 
 Beide Bildszenen sind vielfigurig, erzählerisch angelegt, wobei die östliche Gerichts-Szene in einen halbrund geöffneten Architekturraum mit zurückschwingender Treppenanlage und Exedra gesetzt ist, während der westliche Bildschauplatz mit dem Abschied von Sixtus eine von antikischen Gebäuden begrenzte Landschaft zeigt. An den Architekturteilen wird mit Untersicht und leicht konvergierenden Vertikalen jeweils ein Raum für die agierenden Personen geschaffen, während die scheibenförmige Gloriole in der Himmelsdarstellung folienartig wirkt und keine
 
 [[File:Band02_chunk005_p002_img006.jpg|thumb|5 Der Engel erscheint den Hirten 6 Der Engel am Ölberg]]
-<!-- citation-page-bottom: Band02 p203 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=3 -->
-<!-- citation-page-top: Band02 p204 -->
 
 [[File:Band02_chunk005_p003_img001.jpg|thumb]]
 
@@ -78,14 +75,9 @@ B4 Lukas mit Stier, VOCATUM/ EST/ NOMEN/ EIUS/ IESUS /C2 (= Lc 2, 21)
 
 
 [[File:Band02_chunk005_p003_img002.jpg|thumb|A Passio des hl. Laurentius – Abschied von Sixtus]]
-<!-- citation-page-bottom: Band02 p205 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=4 -->
-<!-- citation-page-top: Band02 p206 -->
 
-<!-- header: KÖNIGSDORF -->
 
-<!-- header: KÖNIGSDORI -->
 
 
 [[File:Band02_chunk005_p004_img001.jpg|thumb]]
@@ -104,10 +96,7 @@ Das Thema des Bildes wird allgemein angegeben mit: »Stiftung der Bruderschaft v
 
 
 [[File:Band02_chunk005_p004_img002.jpg|thumb|Verurteilung des Laurentius, Ausschnitt aus A]]
-<!-- citation-page-bottom: Band02 p207 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk005.pdf#page=5 -->
-<!-- citation-page-top: Band02 p208 -->
 
 
 == KÖNIGSDORF ==
@@ -146,5 +135,3 @@ Katalog Neuerwerbungen deutscher Malerei. Staatliche Kunstsammlungen Dresden, Ge
 
 
 Pfarrkirche St. Jakob Kapelle Maria Hilf S. 214
-
-{{End}}

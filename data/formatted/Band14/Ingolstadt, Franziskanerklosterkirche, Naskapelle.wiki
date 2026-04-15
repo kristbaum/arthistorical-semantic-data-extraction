@@ -12,10 +12,7 @@
 |AutorIn1=Langenstein, Eva
 }}
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=22 -->
-<!-- citation-page-top: Band14 p42 -->
 
-<!-- header: INGOLSTADT FRANZISKANERKIRCHI -->
 
 
 Ehemalige obere Chorkapelle sog. Naskapelle
@@ -79,12 +76,8 @@ Im Jahr der Ausmalung 1740 legte Stebler zum 150. Todestag von Johannes Nas eine
 hl. Antonius mit dem Jesuskind, das Gnadenstrahlen aussendet und die Familie segnet.
 
 8 Rettung in der Versuchung Durch eine Landschaft schreitet ein Paar, ein alter Mann im Kapuzenumhang und ein junger Bursche in Kniehosen und Rock. Ein grässlicher dunkler Teufel mit Drachenflügeln und herausgestreckter Zunge krallt sich in den Kopf des Knaben. Der Junge streckt abwehrend die Hand aus, und aus den Wolken gebietet der hl. Antonius dem Teufel Einhalt. Der Begleiter mit weißem Bart ist vielleicht ein Magier oder Astrologe, der den Jüngling in seinen Bann gezogen hat, denn er weist mit seinem Stock auf ein gelbes Band im Hintergrund, das in der Art eines Zodiak mit verschiedenen magischen Zeichen besetzt ist. Darunter sind ein kleiner Löwe und ein Jupiter- oder Neptunsymbol zu erkennen.
-<!-- citation-page-bottom: Band14 p43 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=23 -->
-<!-- citation-page-top: Band14 p44 -->
 
-<!-- header: INGOLSTADT FRANZISKANERKIRCHE -->
 
 
 [[File:Band14_chunk001_p023_img001.jpg|thumb]]
@@ -131,14 +124,9 @@ Die Deckenmalerei ist stellenweise verblasst, reduziert und farblich verändert,
 
 
 Das Gewölbe überspannt den rechteckigen Kapellenraum. Es ist durch Stucco-Finto-Malerei und in Übereinstimmung mit dem Verlauf der Gewölbegrate in vier Zwickelfelder aufgeteilt, die jeweils zwei tropfenförmige Bildfelder enthalten, die von gemalten Stuckornamenten gerahmt sind. Von den acht Bildfeldern wurden zwei wohl nie bemalt, vermutlich, weil sie
-<!-- citation-page-bottom: Band14 p45 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=24 -->
-<!-- citation-page-top: Band14 p46 -->
 
-<!-- header: INICOL STADT ERANZISKANFRKIRCHF -->
 
-<!-- header: riftband: Consolatrix afflictorum (Trösterin der Betrüb -->
 
 
 [[File:Band14_chunk001_p024_img001.jpg|thumb|4 Johannes Bonaventura]]
@@ -191,10 +179,7 @@ Kartusche unterhalb: Palme mit großer Frucht (nur noch schemenhaft zu erkennen)
 5 JOHANNES DUNS SCOTUS (* um 1265 † 1308) Er blickt mit gefalteten Händen zum Himmel, wo Maria Immaculata (als Apokalyptisches Weib) in einer Wolkenöffnung vor der Sonne erscheint. Die besondere Beziehung des Heiligen zur Immaculata hat damit zu tun, dass er die von den Franziskanern gelehrte Vorstellung von der Unbefleckten Empfängnis Mariens theologisch untermauert hat: nach seiner Theorie war Maria von ihrer Empfängnis an von der Erbsünde befreit, und zwar durch die Verdienste Jesu, die in ihrem Fall im Voraus wirksam wurden, weil Gott es konnte, weil es sich geziemte und weil er es also gemacht hat: »potiut, decuit, ergo«.
 
 Schriftband: Speculum iustitiae (Spiegel der Gerechtigkeit)
-<!-- citation-page-bottom: Band14 p47 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band14_chunk001.pdf#page=25 -->
-<!-- citation-page-top: Band14 p48 -->
 
 == INGOLSTADT FRANZISKANERKIRCHE ==
 
@@ -234,5 +219,3 @@ Hausfelder, Edmund, Als die Franziskanerkirche noch Garnisonskirche hieß, Das S
 Denkmaltopographie Ingolstadt, Bd 1, München 2002, S. 145-153, bes. 152 f.
 
 Dehio OB 2006, S. 522-525.
-
-{{End}}

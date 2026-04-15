@@ -12,9 +12,7 @@
 |AutorIn1=Tezmen-Siegel, Jutta
 }}
 
-<!-- citation-page-top: Band06 p222 -->
 
-<!-- header: GIGGENHAUSEN -->
 
 
 == GIGGENHAUSEN ==
@@ -44,12 +42,8 @@ LHs unsymmetrischer, da im N erweiterter Saalbau mit Flachdecke; das westliche J
 
 Die dargestellte Gemeinde im Deckenbild läßt auf eine gemeinsame Stiftung schließen, die in Zusammenhang steht mit einer Reliquienschenkung. Im Jahre 1737 gab P. Gregor Lochner von Weihenstephan mit Erlaubnis seines Abtes Ildefons Huber der Kirche einen Kreuzpartikel sowie Reliquien der hll. Stephanus, Laurentius und Venantius. Am 20. Oktober fand die feierliche Einführung der Reliquien in die Kirche von Giggenhausen statt (Inschrift auf einer ovalen Platte auf GIGGENHAUSEN).
 
-<!-- citation-page-bottom: Band06 p223 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band06_chunk005.pdf#page=13 -->
-<!-- citation-page-top: Band06 p224 -->
 
-<!-- header: GIGGENHAUSEN -->
 
 der Rückseite des Kreuzpartikels; zitiert in Frigisinga 6, S. 471 f.). Möglicherweise fungierte auch die in Giggenhausen ansässige Allerseelen-Bruderschaft als Auftraggeber, zumal der hl. Laurentius Patron der Armen Seelen ist.
 
@@ -98,7 +92,3 @@ Seitz, Konrad und Georg, Land und Leute im Hausenbauerngebiet der Pfarreien Für
 Dehio-Gall OB, S. 95  
 Historischer Atlas I, Bd 11/12 (Pankraz Fried), München 1958, S. 184.  
 Dehio 1990, S. 359 f.  
-
-<!-- header: GROSSEISENBACH -->
-
-{{End}}

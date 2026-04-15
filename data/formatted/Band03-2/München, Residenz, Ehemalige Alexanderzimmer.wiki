@@ -72,13 +72,8 @@ Mit dem Umbau des Ankleidezimmers wurde 1693 begonnen. Zwischen dem zweiten und 
 
 Von den beiden genannten Residenzplänen, die den Zustand nach der Umgestaltung des Ankleidezimmers wiedergeben (IIb und III, s. S. 25) entspricht der erste, die Tektur auf dem Pariser Plan, genauer den
 
-<!-- citation-page-bottom: Band03-2 p275 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=14 -->
-<!-- citation-page-top: Band03-2 p276 -->
 
-<!-- header: RESIDEN -->
-<!-- header: EHEMALIGE ALEXANDERZIMME -->
 
 Beschreibungen als der zweite. Man darf deshalb annehmen, daß sein Zustand den tatsächlichen Gegebenheiten entspricht. Er zeigt das Holländische Kabinett mit einem Balkon und einem Kamin zwischen den Fenstern, der Raum ist von quadratischem Grundriß mit eingezeichnetem runden Deckenspiegel (Kalmbachs Beschreibung eines »in Oval« gesetzten Spiegels an der Decke läßt keine Schlüsse auf die Decken- bzw. Raumform zu, da im Sprachgebrauch des 17./18. Jh. oval und rund gleich verwendet werden können). Der Teilplan III ist summarischer, zeigt weder Balkon noch Kamin, der Raum ist hier längsrechteckig, seine N-Wand verläuft in der Flucht des Alkovens im Schlafzimmer.
 
@@ -226,14 +221,9 @@ III<sub>a-c</sub> Emblembilder unter den Fenstern und Fries. Diese Arbeiten wurd
 == IV Inneres Audienzzimmer ==
 
 Die Autoren der Deckenbilder werden in den Rechnungen nicht genannt. Es dürfte sich deshalb bei ihnen um Hofmaler handeln.
-<!-- citation-page-bottom: Band03-2 p277 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=15 -->
-<!-- citation-page-top: Band03-2 p278 -->
 
-<!-- header: DECIDENT -->
 
-<!-- header: EHEMALIGE ALEXANDERZIMMER -->
 
 IV-F<sub>a-b</sub> Emblembilder unter den Fenstern und Fries. Diese Arbeiten wurden 1681 unter Nr. 287 mit Caspar Gottfried Stuber abgerechnet.
 
@@ -341,14 +331,9 @@ Träger der Deckenmalerei und Rahmung: Flache, geschnitzte und vergoldete Holzde
 
 
 [[File:Band03-2_chunk006_p015_img008.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p279 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=16 -->
-<!-- citation-page-top: Band03-2 p280 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: FHEMALIGE ALEXANDERZIMME -->
 
 
 == I Ritterstube ==
@@ -407,7 +392,6 @@ I<sub>1-6</sub> ALLEGORISCHE UND MYTHOLOGISCHE SZENEN MIT EMBLEMEN In den sechs 
 I<sub>1</sub> GALATEA UND NYMPHEN (Franz Joseph Geiger, verschollen, Entwurfszeichnung) Galatea fährt auf ihrem von zwei Tritonen gezogenen Muschelwagen. Im Vordergrund, am Meeresufer, sitzen drei Nymphen und schmücken sich mit Korallen und Perlen. Im Sand liegen geschlossene Muscheln, die von Hummern, die Steine in den Scheren halten, angegriffen werden: »... wann sie eines diser Perlmuschlen offen finden, ihr mitgenomenes Steinlein hinein werffen, und also verhindern, daß sich die Muschl nicht mehr zuschliesse, noch auch das darinnen liegende Perl zu seiner Vollkommenheit kommen möge, also auch die hochwichtige Anschläge grosser Potentaten nothwendig krebsgängig werden müssen, wann deroselben Geheimbnussen durch ihre Ministros frühezeitig an Tag kommen« (S. 155; ähnlich Picinelli, Lib. VI, s.v. cancer, Nr. 49. Das seltene Motiv geht auf Plutarch, De sollertia animalium 30, zurück; s. Henkel-Schöne, Sp. 725). 
 
 Das Lemma wird über der Szene von Putti auf einem Schriftband vorge wiesen TAMDIU TUTA QUAMDIU TECTA. (Solange geschlossen, solange sicher).
-<!-- citation-page-bottom: Band03-2 p281 -->
 
 
 [[File:Band03-2_chunk006_p016_img001.jpg|thumb|I<sub>5</sub> Mars mit Consilium und Inventio über Ansicht von Troja, heute in Schloß Nymphenburg]]
@@ -415,12 +399,8 @@ Das Lemma wird über der Szene von Putti auf einem Schriftband vorge wiesen TAMD
 
 [[File:Band03-2_chunk006_p016_img002.jpg|thumb]]
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=17 -->
-<!-- citation-page-top: Band03-2 p282 -->
 
-<!-- header: RESIDEN7 -->
 
-<!-- header: EHEMALIGE ALEXANDERZIMMER -->
 
 
 [[File:Band03-2_chunk006_p017_img001.jpg|thumb|Gumpp-Umkreis, Nachzeichnung von I<sub>6</sub> Königliche Majestät, Augsburg]]
@@ -440,7 +420,6 @@ Im Hintergrund sieht man einen Jüngling, den Schmid den »glückseligen Fortgan
 
 
 [[File:Band03-2_chunk006_p017_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p283 -->
 
 
 Die Antecamera hatte drei Hauptbilder, die nach Schmid rund waren. Die beiden äußeren Bilder waren von je vier Nebenbildern (Faßmann schreibt die 1770 noch vorhandenen Nebenbilder Francesco Rosa zu) und vier Emblemen umgeben. Unter den vier Fenstern befanden sich ebenfalls Bildfelder mit Emblemen (Schmid, S. 164–77).
@@ -469,12 +448,8 @@ II-Bc MONET & MUNIT (Er warnt und schützt) Der Leuchtturm von Pharos, »welcher
 
 II-Bd LENTE DELIBERANDUM, CELERITER EXEQUENDUM (Lang soll man überlegen, schnell handeln) Kanonen, die genau auf das Ziel eingestellt werden müssen, bevor geschossen werden kann.
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=18 -->
-<!-- citation-page-top: Band03-2 p284 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: EHEMALIGE ALEXANDERZIMMER -->
 
 II-C DIE GROSSMUT ALEXANDERS DES GROSSEN (verschollen; Plutarch, Cap. 21) Das Bild zeigte die gefangene Familie des Perserkönigs Darius vor dem siegreichen Alexander, der Darius' Mutter Sisigambis, seine Gemahlin Stateira, die Töchter und den kleinen Sohn verschonte und mit Großmut und Ehrerbietung behandelte.
 
@@ -526,7 +501,7 @@ III<sub>1-4</sub> ALLEGORIEN (verschollen) In den vier Ecken der Decke befanden 
 
 III, DER FRIEDE TRIUMPHIERT ÜBER DEN KRIEG Pax war als schöne junge Frau dargestellt, die in der rechten Hand einen Ölzweig, in der linken eine Garbe hielt (Ripa, s.v. pace). Sie trat auf eine schrecklich aussehende Gestalt; diese war »der wilde Kriegsgrimmen, welcher bey den stillen Fridens-Zeiten sich ducken und schmucken muß« (S. 181). POTIOR PAX MILLE TRIUMPHIS (Der Friede ist mächtiger als tausend Triumphe).
 
-III, DIE REUE BEWEINT DIE VERSÄUMTE GELEGENHEIT Die nackte Gestalt der Occasio, der günstigen Gelegenheit, war an den Füßen geflügelt und hatte einen nach vorn wehenden Haarschopf, »zu bezeigen,<br>daß die gute Gelegenheit vornenher, und gar behend zuergreiffen, weilen<br>sie gar flüchtig durchgehet, und hernach nit mehr zu gewinnen« (S. 182). Ihr lief Metanea, die Göttin der Reue, nach: sie war tränenüberströmt gezeigt, weil sie die günstige Gelegenheit versäumt hatte. Die Darstellung folgte einem Epigramm des Decimus Magnus Ausonius (4. Jh. n. Chr.) auf ein Bild der Occasio und Paenitentia; die Reue sagt: »sum dea, quae factique et non facti exigo poenas, nempe ut paeniteat. Sic Metanoea vocor«. (Die Werke des Ausonius waren 1671 von Jacobus Tollius herausgegeben worden.)
+III, DIE REUE BEWEINT DIE VERSÄUMTE GELEGENHEIT Die nackte Gestalt der Occasio, der günstigen Gelegenheit, war an den Füßen geflügelt und hatte einen nach vorn wehenden Haarschopf, »zu bezeigen, daß die gute Gelegenheit vornenher, und gar behend zuergreiffen, weilen sie gar flüchtig durchgehet, und hernach nit mehr zu gewinnen« (S. 182). Ihr lief Metanea, die Göttin der Reue, nach: sie war tränenüberströmt gezeigt, weil sie die günstige Gelegenheit versäumt hatte. Die Darstellung folgte einem Epigramm des Decimus Magnus Ausonius (4. Jh. n. Chr.) auf ein Bild der Occasio und Paenitentia; die Reue sagt: »sum dea, quae factique et non facti exigo poenas, nempe ut paeniteat. Sic Metanoea vocor«. (Die Werke des Ausonius waren 1671 von Jacobus Tollius herausgegeben worden.)
 
 Bei den beiden Allegorien war wiederum Bonum Consilium (vgl. I<sub>5</sub> und I<sub>6</sub>) dargestellt, dazu Prudentia, die einen Helm mit einem Kranz aus Maulbeerblättern trug und einen Pfeil in der Hand hatte, der von einer Schlange umwunden war (dem Fisch Remora, s. Ripa, s.v. prudenza) FUGIT OCCASIO PRAECEPS (Die flüchtige Gelegenheit flieht).
 
@@ -554,16 +529,10 @@ Der Raum gehörte zur Privatwohnung des Kurfürsten. An der Decke waren ein Mitt
 
 
 [[File:Band03-2_chunk006_p018_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band03-2 p285 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=19 -->
-<!-- citation-page-top: Band03-2 p286 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: vom Goldenen Vlies ge mittler zwischen Oberv stahl). -->
 
-<!-- header: EHEMALIGE ALEXANDERZIMMER -->
 
 IV HULDIGUNG AN ALEXANDER UND FREIWILLIGE UNTERWERFUNG (verschollen) Der Herrscher, umgeben von seinen Offizieren, war hoch zu Roß dargestellt, in Beisein seines Heeres. Ihm nahten sich »einige orientalische König, theils disem grossen Weltbezwinger ihre Underthänigkeit zubezeugen, theils seinem mächtigen Schutz sich zu underwerffen, theils auch ihme mit allerhand köstlich und durch eine Anzahl der Cameel herzu geführte Schätz zubeehren« (Schmid, S. 187). Putti spielten mit Waffen. In diesem Bild war kein konkretes historisches Ereignis dargestellt, sondern die allgemeine Tatsache, daß sich viele Fürsten dem in Asien vorrückenden Alexander freiwillig unterwarfen.
 
@@ -585,7 +554,7 @@ IV<sub>b</sub> VIRES ACQUIRIT EUNDO (Im Vorwärtsschreiten gewinnt sie Kraft) - 
 
 IV-F<sub>a-b</sub> EMBLEME (verschollen) über den zwei Fenstern wurden von Schilden von je einem Putto vorgezeigt; sie bezogen sich auf den Herrscher, der, je nach Notwendigkeit, als Beschützer oder als Verfolger auftreten kann.
 
-IV-Fa NON PARVAS FERIT (Kleine tötet er nicht) – Adler inmitten einer Schar kleinerer Vögel, ein Sinnbild für Alexander, »dessen Starckmütig-<br>keit die schwache Orientalische Fürsten nit allein nit undertrucket, sondern noch gnädigist beschützet« (S. 190).
+IV-Fa NON PARVAS FERIT (Kleine tötet er nicht) – Adler inmitten einer Schar kleinerer Vögel, ein Sinnbild für Alexander, »dessen Starckmütigkeit die schwache Orientalische Fürsten nit allein nit undertrucket, sondern noch gnädigist beschützet« (S. 190).
 
 IV-F<sub>b</sub> SAEVA SAEVIS (Grausam gegen Grausame) – Storch, der eine Schlange in Stücke zerreißt: So verfolgt Alexander »dieselbigen unversöhnlich ... so sich dessen Macht zuwidersetzen freventlich understanden« (S. 191).
 
@@ -599,7 +568,7 @@ V Schlafzimmer und Alkoven
 
 Das von Schmid (S. 192-200) besonders gerühmte Schlafzimmer, »warinnen die Bildhauer-kunst sowol, als der künstliche Pembsl wunder zusehen vorstellet, jene die köstliche Alcova, und darbey die schön gehauene Risenbilder: dise die wundervolle Geburt Alexandri des Grossen, in der obern Decke vorbildendt.« In die geschnitzte und vergoldete Decke war offenbar nur dieses eine, sehr große Deckenbild eingelassen.
 
-V-A GEBURT ALEXANDERS DES GROSSEN (verschollen) Eine Schar von Göttern und Tugendpersonifikationen verlieh dem neugeborenen Herrscher Tugenden und Glück: »Und sihe oben in den Wolcken Jupiter, beglaitet von allen Göttern, welcher disen newgebornen Printzen, als seinem vermeynten Sohn, mit allen Königlichen Qualitäten geziert haben will, der Ursachen halber sich besser herunden Mars anmeldet, so disem jungen Herrn sein Schwert darbietet, auch seinen Heldenmuth überlasset, nechst darbey erscheinet Mercurius, welcher auß den Elisischen Feldern die entnommene guldene Haar der Lachesi überantwortet, damit sie dem erst jetzt gebornen Alexandro die guldene Glücksfäden, auch lange, und fast ewige Lebenstäg spinnen, welche, weiln sie gar merckwürdig seyn werden, die darbey sitzende Clotho fleissig auff einen Kneuel windet, Atropos aber die dritte Lebensspinnerin, auff daß sie dise lobwürdige Lebens-Zeit ihrem Ambt gemäß nit frühezeitig abschneiden müsse, wirfft ihr Scheer freywillig von sich. Auff der andern Seyten erscheinen die drei Gratiae ebenmässig auff einer Wolcken, mitbringend die Glückswindelein, darmit mehrer die vilfältige Cronen, welche auff dises Kind warten, zubinden, als sein zartes Leibl einzufätschen. Es findet sich auch Diana ein, welche disen jungen Printzen abzuwaschen sich bemühet. Jener schöne Jüngling, so auch zugegen, nennet sich Augurium, oder die Glücksvorbedeutung. So will auch das Glück nit die letste seyn, welches mit einem silbernen Wasserkrueg den Printzen mit Glückswasser gäntzlich zuübergiessen suchet. Ein andere (und diß ist das Adeliche Herkommen) ist bereit, mit zarten Leinwath solches abzutrücknen. Die bewaffnete Pallas tragt das ihrige auch bey, damit nur nichts disem jungen<br>Herrlein abgehe. Derjenige schöne Templ, welchen ich von weitem gantz angeflammet sihe, ist der Herrliche Tempel Dianae zu Epheso, so eben an dem jenigen Tag durch Boßheit Herostrati (so ihm dardurch einen ewigen Namen machen wolte) im Rauch auffgangen, an welchem Alexander die Sonne das erstemal gesehen, anzuzeigen, daß, gleichwie diser Asiatische Templ, seiner Majestät und Schöne ungeachtet, zu Aschen hat werden müssen, also auch mit der Zeit alle Asiatische König sich vor der Macht deß Grossen Alexandri zuverbergen, ja derselben gäntzlich zuunderligen wurden getrungen werden« (Schmid S. 192–94).
+V-A GEBURT ALEXANDERS DES GROSSEN (verschollen) Eine Schar von Göttern und Tugendpersonifikationen verlieh dem neugeborenen Herrscher Tugenden und Glück: »Und sihe oben in den Wolcken Jupiter, beglaitet von allen Göttern, welcher disen newgebornen Printzen, als seinem vermeynten Sohn, mit allen Königlichen Qualitäten geziert haben will, der Ursachen halber sich besser herunden Mars anmeldet, so disem jungen Herrn sein Schwert darbietet, auch seinen Heldenmuth überlasset, nechst darbey erscheinet Mercurius, welcher auß den Elisischen Feldern die entnommene guldene Haar der Lachesi überantwortet, damit sie dem erst jetzt gebornen Alexandro die guldene Glücksfäden, auch lange, und fast ewige Lebenstäg spinnen, welche, weiln sie gar merckwürdig seyn werden, die darbey sitzende Clotho fleissig auff einen Kneuel windet, Atropos aber die dritte Lebensspinnerin, auff daß sie dise lobwürdige Lebens-Zeit ihrem Ambt gemäß nit frühezeitig abschneiden müsse, wirfft ihr Scheer freywillig von sich. Auff der andern Seyten erscheinen die drei Gratiae ebenmässig auff einer Wolcken, mitbringend die Glückswindelein, darmit mehrer die vilfältige Cronen, welche auff dises Kind warten, zubinden, als sein zartes Leibl einzufätschen. Es findet sich auch Diana ein, welche disen jungen Printzen abzuwaschen sich bemühet. Jener schöne Jüngling, so auch zugegen, nennet sich Augurium, oder die Glücksvorbedeutung. So will auch das Glück nit die letste seyn, welches mit einem silbernen Wasserkrueg den Printzen mit Glückswasser gäntzlich zuübergiessen suchet. Ein andere (und diß ist das Adeliche Herkommen) ist bereit, mit zarten Leinwath solches abzutrücknen. Die bewaffnete Pallas tragt das ihrige auch bey, damit nur nichts disem jungen Herrlein abgehe. Derjenige schöne Templ, welchen ich von weitem gantz angeflammet sihe, ist der Herrliche Tempel Dianae zu Epheso, so eben an dem jenigen Tag durch Boßheit Herostrati (so ihm dardurch einen ewigen Namen machen wolte) im Rauch auffgangen, an welchem Alexander die Sonne das erstemal gesehen, anzuzeigen, daß, gleichwie diser Asiatische Templ, seiner Majestät und Schöne ungeachtet, zu Aschen hat werden müssen, also auch mit der Zeit alle Asiatische König sich vor der Macht deß Grossen Alexandri zuverbergen, ja derselben gäntzlich zuunderligen wurden getrungen werden« (Schmid S. 192–94).
 
 Die bildliche Ausführung dieses gewaltigen panegyrischen Apparates hat man sich etwa so vorzustellen: Zuoberst den Olymp mit Jupiter als zentraler Gestalt. Unten im Bild - ob auf Wolken oder auf Erden, geht aus der Beschreibung nicht hervor – war der neugeborene Prinz dargestellt. Diana bemühte sich als Geburtshelferin, begleitet von Augurio buono und Nobilità (nach Ripa; vgl. Sommerzimmer III-A). Rechts und links der Geburtsszene waren wohl Minerva und Mars dargestellt, über Minerva und Mars auf Wolken zwei Dreiergruppen zu sehen: auf der einen Seite die drei Grazien auf der andern die drei Parzen. Über der Hauptgruppe goß Fortuna – oder Felicità – das »Glückswasser« auf den Neugeborenen. Der brennende Tempel von Ephesus war in einem Landschaftsausblick am unteren Bildrand zu sehen.
 
@@ -702,12 +671,8 @@ V<sub>b</sub> REGNI VIGILANTIA CUSTOS (Die Wachsamkeit ist der Beschützer des R
 Dieser Raum, in dem der Fürst sich für die Anforderungen des Tages rüstete, führte nun im Gegensatz zu Schlafzimmer und Kabinett die Taten Alexanders des Großen vor.
 
 Das Mittelbild, ein Rechteck mit angeschobenen Halbkreisen, (bei Schmid als »Rundel« bezeichnet), war von sechs Szenen mit Taten Alexanders begleitet. Zwei Embleme an der Decke und drei unter den Fenstern priesen seine Tugenden als Feldherr (Schmid, S. 201–08).
-<!-- citation-page-bottom: Band03-2 p287 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=20 -->
-<!-- citation-page-top: Band03-2 p288 -->
 
-<!-- header: DECIDENT -->
 
 VI ALEXANDER DER GROSSE LEGT PERSISCHE KLEIDUNG AN (Johann Andreas Wolff, verschollen, Vor- und Nachzeichnungen) Eine Nachzeichnung zeigt den jugendlichen Helden auf einem Thron unter einem Baldachin, umgeben von Dienern und Höflingen. Zwei davon helfen Alexander, die makedonische Kleidung abzulegen, während von links Diener die persische Kleidung mit Krone, Kette und Turban (?) herantragen. Der Schauplatz mit in das Bild einführenden Stufen und einem Säulenbau im Hintergrund sowie die Figuren innerhalb der gedrängten Gruppe sind in starker Untersicht und Verkürzung wiedergegeben.
 
@@ -727,7 +692,6 @@ VI<sub>5</sub> UNTERWERFUNG VON TYRUS (BSGS, Inv. Nr. 3481; Arrian, Anabasis II)
 
 VI<sub>6</sub> KÖNIG MOPHIS UNTERWIRFT SICH FREIWILLIG (verschollen; Diodor, Bibl. Hist. XVII, 86) Das Bild zeigte Gesandte, die Alexander Stadtschlüssel überreichen. Mophis (auch Omphis, s. Curtius Rufus, Hist. Alexandri Magni VIII, 12), Herrscher eines kleinen indischen Landes, erneuerte nach dem Tod seines Vaters Taxiles dessen Vertrag mit Alexander, worauf dieser ihn »nit allein in seinem Reich ungekräncket gelassen, sondern dasselbe noch mercklich vermehret« (S. 205). HOSPITI NON HOSTI (Dem Gastfreund, nicht dem Feind).
 
-<!-- header: EHEMALIGE ALEXANDERZIMMER -->
 
 VI<sub>a-b</sub>, VI-F<sub>a-c</sub> EMBLEME (Caspar Gottfried Stuber, verschollen) »Auff den Seyten deß großen Rundels« und unter den Fenstern befanden sich Embleme, die sich auf die Tugenden des Herrschers im Krieg be-
 
@@ -785,14 +749,9 @@ VII<sub>7</sub> TUETUR QUIA INTUETUR (Es wird beschützt, weil es beobachtet wir
 [[File:Band03-2_chunk006_p020_img004.jpg|thumb]]
 
 
-<!-- citation-page-bottom: Band03-2 p289 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=21 -->
-<!-- citation-page-top: Band03-2 p290 -->
 
-<!-- header: RESIDENZ -->
 
-<!-- header: EHEMALIGE ALEXANDERZIMME -->
 
 VII<sub>8</sub> FAVENTIBUS OBSEQUOR (Denen folge ich, die mich begünstigen) – Das Schiff Jasons wird von günstigen Winden nach Colchis geführt: Der Fürst soll die günstige Gelegenheit erkennen und nutzen.
 
@@ -853,7 +812,3 @@ Baumstark, in: Kat. Max Emanuel 1976, I, S. 185–87; II, Nr. 260–65. Hojer, e
 Volk, ebd. I, S. 127. Seelig, ebd. I, S. 8.
 
 A.B.
-<!-- citation-page-bottom: Band03-2 p291 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band03-2_chunk006.pdf#page=22 -->
-{{End}}

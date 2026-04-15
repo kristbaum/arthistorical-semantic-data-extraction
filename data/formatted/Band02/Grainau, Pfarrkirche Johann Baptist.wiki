@@ -16,9 +16,7 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p348 -->
 
-<!-- header: GRAINAU -->
 
 
 == GRAINAU ==
@@ -38,7 +36,7 @@ Der barocke Kirchenbau bildet jetzt den rückwärtigen Teil der Kirche, an den g
 == Befund ==
 
 
-Träger der Deckenmalerei: Tonne mit Gurtbogen<br>Rahmen: Gemalte Rahmung mit Rocailledekoration, nicht original
+Träger der Deckenmalerei: Tonne mit Gurtbogen Rahmen: Gemalte Rahmung mit Rocailledekoration, nicht original
 
 
 [[File:Band02_chunk007_p025_img001.jpg|thumb]]
@@ -85,7 +83,3 @@ A<sub>1-4</sub> KIRCHENVÄTER A<sub>1</sub> Hieronymus, A2 Augustinus, A3 Ambros
 
 
 Mayer-Westermayer, Bd 3, S. 579, 583. Pfarrkirche Grainau (o. V.), Kirchenführer (o. J.
-<!-- citation-page-bottom: Band02 p349 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk008.pdf#page=1 -->
-{{End}}

@@ -8,8 +8,6 @@
 |davor=Im 18. Jh. im Bereich des Landkreises Altötting tätige Maler
 |danach=Personenregister (Band 9)
 }}
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=24 -->
-<!-- citation-page-top: Band09 p246 -->
 
 
 == REGISTER ==
@@ -275,10 +273,7 @@ Kursivschrift und Kursivzahlen verweisen auf die in diesem Band behandelten Obje
 |-
 | Mariakirchen/NB 245
 |}
-<!-- citation-page-bottom: Band09 p247 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=25 -->
-<!-- citation-page-top: Band09 p248 -->
 
 Marienberg 7, 34, 106, 110, 124, 125–43, 149, 173, 177, 180, 192–94, 203, 206 f., 219, 243  
 Herrnstöckl 125  
@@ -482,5 +477,3 @@ Zeidlarn 149
 Zell an der Pram/OÖ 7, 193  
 Zell in der Fischbachau 223  
 Zwiefalten 244  
-
-{{End}}

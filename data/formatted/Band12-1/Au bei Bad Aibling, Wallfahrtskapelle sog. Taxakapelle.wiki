@@ -30,12 +30,8 @@ Kleiner Raum (13,20×5,80), Langhaus zu vier Jochen, von denen die beiden mittle
 
 
 [[File:Band12-1_chunk002_p008_img005.jpg|thumb|4 Johannes]]
-<!-- citation-page-bottom: Band12 p65 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=9 -->
-<!-- citation-page-top: Band12 p66 -->
 
-<!-- header: AU BEI BAD AIBLING -->
 
 
 [[File:Band12-1_chunk002_p009_img001.jpg|thumb|C. Die Auer Bürger vor dem Bild Elisabeths]]
@@ -88,10 +84,7 @@ B MARIA UND ELISABETH Durch ein ornamentales Podest mit blumengefüllter Ziervas
 
 
 [[File:Band12-1_chunk002_p009_img003.jpg|thumb]]
-<!-- citation-page-bottom: Band12 p67 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=10 -->
-<!-- citation-page-top: Band12 p68 -->
 
 [[File:Band12-1_chunk002_p010_img001.jpg|thumb|D Maria geht übers Gebirge]]
 
@@ -108,12 +101,8 @@ Im LHs befinden sich zwei Inschriften an den Schildwänden über den Fenstern: V
 == Zur Ikonologie ==
 
 Das Bildprogramm der Kapelle ist auf das Geheimnis der Menschwerdung Christi bezogen, ausgehend vom Kirchenpatrozinium Mariä Heimsuchung (Darstellung auf dem Altarblatt). Das Fest wurde 1389 für die ganze Kirche vorgeschrieben (2.7.). Das Festoffizium, wie es bis zur Liturgiereform gültig war, wurde 1605 festgesetzt, und erst damit blühte die Verehrung der Heimsuchung als volkstümlicher Kult auf, in Bayern von Kurfürst Maximilian I. gefördert. Das also zur Zeit der Entstehung der Wallfahrt »moderne« Patrozinium in Au war in besonderer Weise mit den ersten Ursprüngen der Wallfahrt verbunden: Balthasar Futterer ging 1647 am Fest Mariä Heimsuchung nach Weihenlinden, und das vom Bäcker Abraham Kreitmayr im gleichen Jahr gestiftete spätere Gnadenbild zeigte die Heimsuchung. Die Darstellung D mit dem Gang Mariens über das Gebirge läßt sich nach der Inschrift im LHs »thue uns heimsuchen jederzeit ... das wird
-<!-- citation-page-bottom: Band12 p69 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band12-1_chunk002.pdf#page=11 -->
-<!-- citation-page-top: Band12 p70 -->
 
-<!-- header: AU BEI BAD AIBLING -->
 
 uns hier sei die größte Freude, wenn du zu uns gebetet wirst gehen« unmittelbar auf Au beziehen und auf die Wallfahrer zum Gnadenbild, die wie der Hirsch nach dem Wasserquell nach ihr verlangen.
 
@@ -168,5 +157,3 @@ Jahrbuch der Bayerischen Denkmalpflege 41 (Jahr 1987), München 1991, S. 246.
 Stadt und Pfarrei Bad Aibling Erzdiözese München und Freising. Ehem. Markt Aibling
 
 Stadtpfarrkirche Mariä Himmelfahrt Sebastians- oder Marktkirche S. 8
-
-{{End}}

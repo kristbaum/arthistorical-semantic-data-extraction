@@ -12,11 +12,8 @@
 |AutorIn1=Baur, Eva-Gesine
 }}
 
-<!-- citation-page-top: Band03-1 p264 -->
 
-<!-- header: ETTALER KLOSTERHAUS -->
 
-<!-- header: OBERE GRUFTKIRCHE -->
 
 
 [[File:Band03-1_chunk006_p001.jpg|thumb|Engel verehren das Marienmonogramm, Deckenbild aus dem ehemaligen Ettaler Klosterhaus, jetzt München, Bayer. Nationalmuseum]]
@@ -72,6 +69,3 @@ E.-G. B
 
 
 == Oberen Gruftkirche ==
-
-
-{{End}}

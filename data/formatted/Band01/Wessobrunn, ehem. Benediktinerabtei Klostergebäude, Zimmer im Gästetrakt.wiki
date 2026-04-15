@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p570 -->
 
-<!-- header: WESSOBRUNN -->
 
-<!-- header: WESSOBRUNN -->
 
 Zimmer im ehemaligen Gästetrakt, z. Z. Zweigniederlassung der Missionsbenediktinerinnen von Tutzing
 
@@ -82,14 +79,9 @@ C ABFÜHRUNG EINES MARTYRERS Die Gerichtsszene ist breit in das vierpaßähnlich
 In einem hofartigen Raum, rückwärts von einer balustradenbekrönten Galerie und auf der rechten Bildseite durch einen hohen Thronaufbau gebildet, wird ein gefesselter jugendlicher Heiliger von Soldaten und einem halbnackten Schergen gewaltsam abgeführt. Der Kaiser auf dem Thron erteilt dazu Befehl, er hat in wütender Gebärde seine Hand gegen den Heiligen ausgestreckt. Das Gewand mit kurzem Rock kennzeichnet letzteren als vornehmen Römer.
 
 Die Handlung wirkt wie eine Fortsetzung der Szene in Bild A: Die Rede des Christen hat den heidnischen Kaiser so erzürnt, daß er Folterung und Hinrichtung befiehlt. Auch diese Martyriumsszene ist ganz allgemein gehalten. Von den oben genannten Patronen Wessobrunns kommt der hl. Amantius in Frage. Von diesem weiß Leutner kaum etwas zu berichten: »Leonardus (Abt Leonhard Weiß) a SS Domino Innocentio XI . . . impetravit corpus S. Amantii Martyris quod expedivit Romae . . . anno Domini 1678 die 28. Augusti.« (Historia monasterii Wessofontani, S. 462.) Es wird sich wahrscheinlich um einen sog. römischen Katakombenheiligen handeln: Seit der Wiederentdeckung der römischen Katakomben, 1578, hatten sich viele Klöster um die Erwerbung heiliger Leiber bemüht, vor allem auch im späten 17. Jahrhundert. Diesen unbekannten römischen
-<!-- citation-page-bottom: Band01 p571 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk012.pdf#page=12 -->
-<!-- citation-page-top: Band01 p572 -->
 
-<!-- header: WESSOBRUNN -->
 
-<!-- header: WESSOBRUNI -->
 
 Leibern wurden Heiligennamen und auch Geschichten gegeben (Edgar Krausen, Die Pflege religiös-volksfrommen Brauchtums bei Benediktinern und Zisterziensern in Süddeutschland und Österreich, in: Studien und Mitteilungen zur Geschichte des Benediktinerordens, Bd 83, Ottobeuren 1972, S. 277–80). Daß diesem römischen Heiligen unter Abt Leonhard eine figurenreiche Szene gewidmet wird, ist verständlich. Auffallend ist, daß die bildliche Darstellung sich mit der Wiedergabe einer allgemein gehaltenen Martyrer-Gerichtsszene wie bereits in Zimmer A begnügt.
 
@@ -102,5 +94,3 @@ Der hl. Sebastian wurde, nachdem er durch Pfeilschüsse scheinbar zu Tode gemart
 Die Sebastiansdarstellung dieses Zimmers unterscheidet sich wesentlich von den drei ersten Deckengemälden: Format und perspektivische räumliche Anlage des Bildes geben keinen eindeutigen Hinweis darauf, daß das Gemälde als Deckenbild konzipiert wurde, es ist eher als Wandbild vorstellbar. Es stammt vom gleichen Autor wie das Magdalenenbild im Prälatentrakt (siehe dort) und könnte vielleicht wie jenes erst später seinen Platz an der Decke erhalten haben. Das würde das Vorkommen zweier verschiedener – handlungsmäßig einander folgender (D-A) – Sebastiansszenen in zwei getrennten Räumen, was den Ausführungen C. Leutners widerspricht, erklären. Die Anhaltspunkte für diese Erklärung sind jedoch zu unbestimmt, daher muß die Benennung der Szene in Zimmer A und folglich auch der in Zimmer C ungewiß bleiben. Vielleicht ist außer Amantius ein weiterer römischer Katakombenheiliger (vgl. Pontians Passio S. 571), von dem das Kloster keine Reliquien besaß und der deshalb vom Chronisten C. Leutner nicht erwähnt wird, durch eine der bildlichen Darstellungen geehrt.
 
 Literatur siehe S. 599
-
-{{End}}

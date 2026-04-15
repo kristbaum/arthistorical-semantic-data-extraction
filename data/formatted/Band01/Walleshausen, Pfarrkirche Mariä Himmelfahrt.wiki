@@ -15,11 +15,8 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p274 -->
 
-<!-- header: WALLESHAUSEN -->
 
-<!-- header: WEIL -->
 
 Pfarrhof, z. Z. der Ausmalung Sommersitz der Pollinger Pröpste, Saal im zweiten Stock
 
@@ -63,5 +60,3 @@ KDB IOB (1), S. 558
 Dehio-Gall OB (1964), S. 281
 
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 659.
-
-{{End}}

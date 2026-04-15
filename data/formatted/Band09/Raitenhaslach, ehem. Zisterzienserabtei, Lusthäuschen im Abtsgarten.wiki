@@ -55,16 +55,12 @@ Wening 1721, S. 32-34: Raitenhaslach (mit Auflistung der Grab legen), Abb. S. 64
 Bonaventura Regenstauffensis (Kapuziner), Trauerrede auf Abt Robertus ... als ein der Baukunst Besterfahrender Salomon, Burghausen 1756 (BSB 2 Bavar. 970, XI, 19)
 
 Jacobus von Straubing (Kapuziner), Trauerrede auf den todtlichen Hintritt...Abt Emanuels 1780 (BSB Fiche 2 Bavar 970,IV,11).
-<!-- citation-page-bottom: Band09 p215 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band09_chunk005.pdf#page=9 -->
-<!-- citation-page-top: Band09 p216 -->
 
-<!-- header: RAITENHASLACH -->
 
-Meidinger, Franz Sebastian, Historische Beschreibung der<br>kurfürstlichen Haupt- und Regierungsstädte in Niederbayern,<br>Landshut und Straubing, mit einer ansehnlichen Gemälden-<br>sammlung der Kirchen verschiedener Städte und hohen Präla-<br>turen, Landshut 1787, S. 362 f.
+Meidinger, Franz Sebastian, Historische Beschreibung der kurfürstlichen Haupt- und Regierungsstädte in Niederbayern, Landshut und Straubing, mit einer ansehnlichen Gemäldensammlung der Kirchen verschiedener Städte und hohen Prälaturen, Landshut 1787, S. 362 f.
 
-Meidinger, Franz Sebastian, Historische Beschreibung ver-<br>schiedener Städte und Märkte der kurfürstlich pfalzbaierischen Rentämter München, Burghausen, Landshut und Straubing, Landshut 1790, S. 88.
+Meidinger, Franz Sebastian, Historische Beschreibung verschiedener Städte und Märkte der kurfürstlich pfalzbaierischen Rentämter München, Burghausen, Landshut und Straubing, Landshut 1790, S. 88.
 
 Jansens, Joseph Aloys, Trauerrede auf den tödtlichen Hintritt...Herrn Theobalds, Burghausen 1792 (BSB 2 Bavar. 970,XII-3).
 
@@ -92,9 +88,10 @@ Kupterschmied, Thomas Johannes, Der Freskant J. Martin Heigl. Arbeiten für Joha
 
 Strieder, Barbara, Johann Zick (1702–1762), Die Fresken und Deckengemälde (= Manuskripte zur Kunstwissenschaft in der Wernerschen Verlagsgesellschaft, hg. von Ferdinand Werner), Worms 1990, S. 26–33. (BSB Art. 85, 1117–33)
 
-Leutheußer, Sabine, Die barocken Ausstattungsprogramme<br>der ehemaligen Zisterzienser-Abteikirchen Waldsassen, Fürstenfeld und Raitenhaslach, Diss. Freiburg 1990 (= tuduv Bd 61), München 1993. (BSB Art. 93, 2877)
+Leutheußer, Sabine, Die barocken Ausstattungsprogramme der ehemaligen Zisterzienser-Abteikirchen Waldsassen, Fürstenfeld und Raitenhaslach, Diss. Freiburg 1990 (= tuduv Bd 61), München 1993. (BSB Art. 93, 2877)
 
-Demmel, Fritz und Wolfgang Hopfgartner, Die Kirchen der Raitenhaslacher Klosterannalen des 18. Jh., Teil 1 und 2, in: Oettinger Land 10, 1990, S. 212–251 und 11, 1991, S. 132–148.<br>Hopfgartner, Wolfgang, Raitenhaslach (=KKF Nr. 22), 1992.
+Demmel, Fritz und Wolfgang Hopfgartner, Die Kirchen der Raitenhaslacher Klosterannalen des 18. Jh., Teil 1 und 2, in: Oettinger Land 10, 1990, S. 212–251 und 11, 1991, S. 132–148.
+Hopfgartner, Wolfgang, Raitenhaslach (=KKF Nr. 22), 1992.
 
 Die Barockisierung der Klosterkirche Raitenhaslach – Zum 250. Jahrestag einer Bauphase, in: Oettinger Land 13, 1993, S. 166–208.
 
@@ -148,6 +145,3 @@ P 1238 »Profil vom Speissaal in: und auswendig« (Glonner jun. nach Mayr um 176
 
 
 == SANKT JOHANN bei OBERESCHLBACH ==
-
-
-{{End}}

@@ -49,12 +49,8 @@ Erhaltungszustand: Die Gemälde sind offenbar noch nicht restauriert. Sie sind g
 A ST. BENEDIKT ALS ORDENSGRÜNDER Einansichtige Szene, Ansicht gegen O. Der Heilige thront frontal in der Mitte des Bildes. Im Vordergrund sitzen rechts und links auf Konsolen zwei Putti mit verschiedenen Attributen. Nur an dieser Stelle, den beiden östlichen Ecken des Bildes, ist versucht, eine Schrägansicht von unten in den Bildraum hinein zu geben; die Konsolen sind in starker Untersicht dargestellt, aber schon die Treppenstufen dazwischen wie das ganze übrige Bild haben geringe Untersicht.
 
 Geschwungene Stufen, mit einem Samtteppich belegt, führen zum Sessel des Heiligen empor. Ein Baldachin, aus
-<!-- citation-page-bottom: Band02 p69 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=11 -->
-<!-- citation-page-top: Band02 p70 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
 [[File:Band02_chunk002_p011_img001.jpg|thumb]]
 
@@ -78,14 +74,9 @@ Auch in diesem Bild ist die Komposition von der Symmetrie bestimmt, wobei die En
 
 A BENEDIKT ALS ORDENSGRÜNDER Der Gründer des Benediktinerordens und »Patriarch der abendländischen Mönche« ist hier von Engeln umgeben dargestellt, die die mönchischen Tugenden verkörpern, wie sie Benedikt in seiner Regel niedergelegt hat (s. Bibliothek der Kirchenväter, Bd 20, übersetzt von Pius Bihlmeyer O.S.B., Kempten und München 1914). Er selbst hält das Regelbuch mit der Inschrift Ausculta O Fili, / praecepta Magistri.,
 
-<!-- citation-page-bottom: Band02 p71 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk002.pdf#page=12 -->
-<!-- citation-page-top: Band02 p72 -->
 
-<!-- header: BENEDIKTBEUERN -->
 
-<!-- header: BENEDIKTBEUERN -->
 
 dem Anfang der Regel. Der Engel mit dem Säulenstumpf links stellt Stabilitas, im besonderen Stabilitas loci, dar, die bei der Profess gelobt werden muß (vgl. Regel, Kap. 4). Der Engel daneben, der den Zeigefinger der Rechten im Schweigegestus auf den Mund legt und ein Schloß vorweist, verkörpert Silentium, die Tugend des Schweigens (Kap. 6); der Engel rechts von Benedikt hält eine Lilie in Händen, auf die er mit der Linken ausdrücklich hinweist: das Symbol der Reinheit (Kap. 7), während der Engel ganz rechts auf sein übergroßes Ohr zeigt: Er stellt Oboedientia dar, den klösterlichen Gehorsam, eine mönchische Haupttugend, die ebenfalls bei der Profess gelobt wird (Kap. 5). Zugleich bezieht sich diese Darstellung auch auf die im ersten Kapitel der Regel immer wiederholte Aufforderung, zu hören (»inclina aurem cordis tui«) auf Gottes Wort, die Stimme des Geistes und die Vorschriften des Lehrers. Der Putto links im Vordergrund läßt von der Konsole, auf der er sitzt, Krone, Zepter, Ketten und Geschmeide nach unten fallen, während er die Linke abwehrend erhoben hält. Er symbolisiert den Verzicht auf Rang, Macht und Reichtum, und bezeichnet damit die klösterliche Armut (Kap. 58). Der rechte Putto hält eine Schlange, die in diesem Zusammenhang die Klugheit des Christen bedeutet (Mt 10, 16). Der Puttokopf an der Thronbekrönung, der eine Mitra trägt, weist auf die Abtswürde des hl. Benedikt hin.
 
@@ -96,6 +87,3 @@ Die Vision des hl. Benedikt, überliefert in den Dialogen Gregors des Großen (G
 In Benediktbeuern schwebt die Kugel, in der die Dreifaltigkeit zu sehen ist, über dem Haupt des Heiligen. Sie ist von hellen Strahlen umgeben (das große Licht). Die Welt ist zu Füßen Benedikts in Gestalt der vier Erdteile dargestellt, die die Dreifaltigkeit verehren. Links sieht man Europa, einen Mann im kaiserlichen Ornat, die Kaiserkrone auf dem Haupt und ein Zepter in der Hand, bei ihm ist das Pferd, das Europa als Attribut zugeordnet ist. Es folgt Africa mit Federschmuck und Perlen, eine dunkelhäutige Gestalt, zu der als Attribut der Affe gehört, der im Vordergrund unter den von Putti getragenen Wolken sichtbar ist. America, an der anderen Seite des Heiligen, eine dunkle Gestalt mit Federkrone, hat als Symboltier den Papagei bei sich. Ganz rechts ist Asia dargestellt, als männliche Figur in prächtigen Gewändern mit einem Turban auf dem Haupt. Zu ihr gehört das Kamel. Die in den Wolken schwebenden Putti tragen Abtstab, Mitra und Buch des hl. Benedikt, dazu den zerbrochenen Becher mit der Schlange, der an folgendes legendäre Ereignis erinnert: Als die Mönche von Vicovaro den Heiligen durch Gift in einem Becher zu töten versuchten, weil ihnen seine Zucht zu streng war, machte Benedikt das Kreuzzeichen über den Becher; der zersprang und man fand eine Schlange darin. (Gregor I. Dialoge II, loc. cit., S. 55 ff.)
 
 Literatur siehe S. 133
-
-
-{{End}}

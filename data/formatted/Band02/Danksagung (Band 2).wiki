@@ -22,8 +22,3 @@ Wir freuen uns, daß uns Herr Dr. Sigmund Benker und Herr Dr. Hubert Vogel im Er
 Unser Unternehmen wird von der Deutschen Forschungsgemeinschaft getragen. Wir hoffen, durch unsere wissenschaftlichen Ergebnisse unseren Dank abstatten zu können. An dieser Stelle aber wollen wir den Damen und Herren der Deutschen Forschungsgemeinschaft, die mit unserer Sache befaßt sind und die unseren Sorgen Gehör schenken, aufs herzlichste danken für ihre Geduld und ihr Verständnis.
 
 Der Süddeutsche Verlag hat für das CORPUS DER BAROCKEN DECKENMALEREI eine große verlegerische Aufgabe und Verpflichtung übernommen. Für die verständnisvolle Zusammenarbeit danken wir dem Verlag - Herrn Robert Schäfer, Frau Dr. Helga Heikamp-Wagner, Herrn Dr. Hans-Peter Rasp und Herrn Rudolf Miggisch.
-<!-- citation-page-bottom: Band02 p7 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk001.pdf#page=5 -->
-<!-- citation-page-top: Band02 p8 -->
-{{End}}

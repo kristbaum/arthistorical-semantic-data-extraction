@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p574 -->
 
-<!-- header: WESSOBRUNN -->
 
 Stiegenhaus im ehemaligen Gästetrakt, z. Z. Zweigniederlassung der Missionsbenediktinerinnen von Tutzing
 
@@ -53,5 +51,3 @@ Uber den architektonisch ungegliederten Wänden des Treppenhauses setzt oberhalb
 
 
 Literatur siehe S 599
-
-{{End}}

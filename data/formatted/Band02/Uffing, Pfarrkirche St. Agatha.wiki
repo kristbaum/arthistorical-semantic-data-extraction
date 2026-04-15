@@ -16,7 +16,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-<!-- citation-page-top: Band02 p430 -->
 
 Pfarrkirche, Diözese Augsburg; z. Z. der Ausmalung hatte Kloster Benediktbeuern das Präsentationsrecht auf die Pfarrei, Gericht Weilheim
 
@@ -68,12 +67,8 @@ B GRAB DER HL. AGATHA Das nahezu runde Bildfeld zeigt den Schrägblick in das In
 
 
 [[File:Band02_chunk009_p016_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band02 p431 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk009.pdf#page=17 -->
-<!-- citation-page-top: Band02 p432 -->
 
-<!-- header: UFFING -->
 
 
 [[File:Band02_chunk009_p017_img001.jpg|thumb]]
@@ -103,6 +98,3 @@ Mauthe, Willi, Der Pfaffenwinkel, Weilheim 1964, S. 46
 
 
 == UNTERAMMERGAU ==
-
-
-{{End}}

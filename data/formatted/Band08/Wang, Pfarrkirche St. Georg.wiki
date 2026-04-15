@@ -12,11 +12,8 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-<!-- citation-page-top: Band08 p284 -->
 
-<!-- header: WANC -->
 
-<!-- header: WANG -->
 
 Pfarrkirche (Pfarrverband Gars), Gemeinde Gars, Erzdiözese München und Freising; z. Z. der Ausmalung Erzdiözese Salzburg, Archidiakonat Gars. Die Kirche war dem Augustiner-Chorherrenstift Gars am Inn inkorporiert, das in Stadl bei Wang einen Sommersitz hatte. Salzburgische Hofmark Mittergars. Gericht Kling
 
@@ -96,7 +93,3 @@ Historischer Atlas Bd 15, Wasserburg und Kling (Tertulina Burkard), München 196
 
 
 [[File:Band08_chunk006_p018_img007.jpg|thumb]]
-<!-- citation-page-bottom: Band08 p285 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band08_chunk006.pdf#page=19 -->
-{{End}}

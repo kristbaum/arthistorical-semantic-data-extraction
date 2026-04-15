@@ -47,12 +47,8 @@ Erhaltungszustand und Restaurierungen: Restaurierungen 1900 durch Ludwig Griebl,
 Beschreibung und Ikonographie
 
 PATRON ST. NIKOLAUS Einansichtige Bildanlage mit geringen Verkürzungen, Betrachterstandpunkt unter dem W-Rand des Bildes. Der hl. Nikolaus im Bischofsornat ist im Fürbittgestus wiedergegeben, zur Seite liegen seine Attribute, Mitra, Buch und drei goldene Kugeln. Ein großer Engel in Rückenansicht mit wallendem Lendentuch hält den Bischofsstab. Am O-Rand ist in Vogelperspektive ein Schiff in Seenot dargestellt, eine Anspielung auf das Patronat der Schiffer und Flößer der nahegelegenen Isar. Das Fresko hat eine von Weiß zu Ocker gestimmte hellstumpf wirkende Farbigkeit, Braun und Rotbraun
-<!-- citation-page-bottom: Band02 p185 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band02_chunk004.pdf#page=19 -->
-<!-- citation-page-top: Band02 p186 -->
 
-<!-- header: GREILING -->
 
 HARMATING
 
@@ -65,5 +61,3 @@ Das Hochaltarbild zeigt den hl. Nikolaus in der Glorie umgeben von den hll. Marg
 
 
 Mayer-Westermayer, Bd 3, S. 321 f. Seidl, Oskar, Die Kirchen und Kapellen des Dekanates Tegernsee, Dießen [1913], S. 41 f. Greiling (o. V.), in: Tölzer Kurier, August 1957. Dehio-Gall OB, S. 217.
-
-{{End}}

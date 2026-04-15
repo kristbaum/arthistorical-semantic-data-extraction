@@ -26,14 +26,9 @@ Kloster schließlich zur Reparatur bereit, lieferte einen Riß und stellte Mater
 
 
 [[File:Band10_chunk002_p013_img001.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p77 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=14 -->
-<!-- citation-page-top: Band10 p78 -->
 
-<!-- header: BURGHFIM -->
 
-<!-- header: BURGHEI -->
 
 den Stuck der Decke zugeschrieben. (Vgl. auch die Kanzel von Egg in Monheim von 1721 sowie die Kanzel und die übrige Stuckierung in Waidhofen von 1718/19, die Egg zugeschrieben werden können, s. S. 313 ff.)
 
@@ -65,14 +60,9 @@ Erhaltungszustand und Restaurierungen: Die Fresken haben viel von ihrer original
 
 
 [[File:Band10_chunk002_p014_img001.jpg|thumb|Der Kirchenraum]]
-<!-- citation-page-bottom: Band10 p79 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=15 -->
-<!-- citation-page-top: Band10 p80 -->
 
-<!-- header: BURGHEIM -->
 
-<!-- header: BURGHEI -->
 
 Burgheim, Josef Dolp, und des Restaurators Severin Walter (Februar 1995) wurden diese Darstellungen jedoch nicht völlig neu gemalt, sondern für drei von ihnen (14, 15, 16) konnte man von aufgefundenen Resten ausgehen, während die Darstellung des hl. Paulus (17) neu gemalt und die Inschrift dazu von Pfarrer Dolp entworfen wurde. 1983 Putz- und Stucksanierung durch die Kirchenmalerfirma Rudolf Pfaller, Ingolstadt. Bei den Deckenfresken wurden Risse geschlossen und eine trockene Reinigung vorgenommen. Die durch Granatbeschuß beschädigte Sakristei wurde jetzt erstmals nach dem Krieg instandgesetzt, der Stuck ergänzt und ein ca. 1 Quadratmeter großes Loch bei der Darstellung des hl. Nepomuk (S) geschlossen und die Malerei ebenfalls ergänzt.
 
@@ -99,14 +89,9 @@ D ENTHAUPTUNG DER HLL. KOSMAS UND DA- MIAN Das Fresko ist von der Orgel halb ver
 
 
 [[File:Band10_chunk002_p015_img002.jpg|thumb]]
-<!-- citation-page-bottom: Band10 p81 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=16 -->
-<!-- citation-page-top: Band10 p82 -->
 
-<!-- header: BURGHEIM -->
 
-<!-- header: BURGHEIM -->
 
 
 [[File:Band10_chunk002_p016_img001.jpg|thumb]]
@@ -165,12 +150,8 @@ S HL. JOHANNES VON NEPOMUK (Blickrichtung nach O) Der Heilige im Kanonikergewand
 
 
 Die Deckenbilder verherrlichen die Gottesmutter und die beiden Kirchenpatrone, die Medaillons an der oberen Emporen brüstung und in den Stichkappen beziehen sich auf die Apostel, die zur Errichtung der Kirche in die Welt geschickt
-<!-- citation-page-bottom: Band10 p83 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band10_chunk002.pdf#page=17 -->
-<!-- citation-page-top: Band10 p84 -->
 
-<!-- header: BURGHEIM -->
 
 
 [[File:Band10_chunk002_p017_img001.jpg|thumb|Chronogramm am Chorbogen mit dem Datum 1749]]
@@ -221,7 +202,3 @@ Pigler, Adolf, Barockthemen, Bd 1, Budapest-Berlin 1956, S. 497.
 LCI Bd 1, 1968, Sp. 150-173, hier Sp. 155: Apostel (J. Myslivec); Sp. 461–464: Credo (H. W. van Os).
 
 B. V.-K.
-
-<!-- header: DEZENACKER -->
-
-{{End}}

@@ -15,9 +15,7 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-<!-- citation-page-top: Band01 p360 -->
 
-<!-- header: WANGEN -->
 
 Expositurkirche, Erzdiözese München-Freising; z. Z. der Ausmalung Filialkirche der Pfarrei Aufkirchen, die von 1688–1803 dem Kloster der Augustinereremiten in München inkorporiert war, grundbesitzmäßig Kloster Schäftlarn, Gericht Starnberg
 
@@ -74,7 +72,3 @@ B ST. AUGUSTINUS UND ST. NORBERT Augustinus im Bischofsornat, mit flammendem Her
 
 
 Mayer-Westermayer, Bd 3, S. 615, 618. Albrecht, Dieter, Das Landgericht Starnberg (= Historischer Atlas von Bayern, Teil 1, Heft 3), München 1951, S. 13.
-<!-- citation-page-bottom: Band01 p361 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk008.pdf#page=7 -->
-{{End}}

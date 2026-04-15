@@ -72,12 +72,8 @@ B DIE ERDTEILE HULDIGEN ST. LEONHARD Um einen kleinen, felsigen Hügel in einer 
 
 B<sub>1</sub> Serenitatem Affert. Regenbogen. Der Regenbogen als Verkünder besseren Wetters wird unter anderem als
 
-<!-- citation-page-bottom: Band01 p121 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=12 -->
-<!-- citation-page-top: Band01 p122 -->
 
-<!-- header: KAUFERING -->
 
 
 [[File:Band01_chunk003_p012_img001.jpg|thumb]]
@@ -116,10 +112,7 @@ EB<sub>4</sub> Tod des hl. Leonhard. Inschrift: a d 559./den 8. Nov
 
 
 122
-<!-- citation-page-bottom: Band01 p123 -->
 
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=13 -->
-<!-- citation-page-top: Band01 p124 -->
 
 [[File:Band01_chunk003_p013_img001.jpg|thumb|EB3 Gefangenenbefreiung]]
 [[File:Band01_chunk003_p013_img002.jpg|thumb|B<sub>1-2</sub> Leonhard-Embleme]]
@@ -139,7 +132,3 @@ Der hl. Leonhard entstammt der Legende nach einer adeligen Familie, die am Hof d
 Dellinger, Joachim, Die Hofmark Kaufring, in: OAVG 9 1848. S. 254–352.  
 Neu, Wilhelm, Michael Natter, Ein Vorarlberger Baumeister im Dienste des Klosters Dießen und der Stadt Landsberg, in: Lechisarland 1964, S. 80 f.  
 Müller-Hahl, Bernhard (Hg.), Heimatbuch Stadt- und Landkreis Landsberg am Lech, Aßling-München 1966, S. 518.  
-<!-- citation-page-bottom: Band01 p125 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk003.pdf#page=14 -->
-{{End}}
