@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=2
 |Originalseitenvon=200
 |Originalseitenbis=210
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Marienkirche

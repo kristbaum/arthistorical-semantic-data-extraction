@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=24
 |Originalseitenvon=45
 |Originalseitenbis=48
 |Lemma=Berg, ehem. Filialkirche St. Nikolaus

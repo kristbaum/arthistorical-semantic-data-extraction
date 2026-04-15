@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=15
 |Originalseitenvon=26
 |Originalseitenbis=28
 |Lemma=Biburg, Filialkirche Mariä Geburt

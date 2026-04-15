@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=145
 |Originalseitenbis=153
 |Lemma=Indersdorf, Kloster, ehem. Winterrefektorium

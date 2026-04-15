@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=167
 |Lemma=Lauterbach, Filialkirche St. Alban

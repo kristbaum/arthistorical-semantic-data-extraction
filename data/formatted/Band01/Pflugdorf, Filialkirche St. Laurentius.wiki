@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=184
 |Originalseitenbis=188
 |Lemma=Pflugdorf, Filialkirche St. Laurentius

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=3
 |Originalseitenvon=502
 |Originalseitenbis=506
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Speisesaal

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=172
 |Originalseitenbis=179
 |Lemma=Eichstätt, Maria-Hilf-Kapelle

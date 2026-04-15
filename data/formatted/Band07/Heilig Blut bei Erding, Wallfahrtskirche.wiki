@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=134
 |Originalseitenbis=145
 |Lemma=Heilig Blut bei Erding, Wallfahrtskirche

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=22
 |Originalseitenvon=590
 |Originalseitenbis=594
 |Lemma=Wessobrunn, Pfarrkirche St. Johann Baptist

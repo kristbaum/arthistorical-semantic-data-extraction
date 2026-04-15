@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=2
 |Originalseitenvon=401
 |Originalseitenbis=409
 |Lemma=München, Pagodenburg

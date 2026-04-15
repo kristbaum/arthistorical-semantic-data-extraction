@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=239
 |Originalseitenbis=242
 |Lemma=Rammertshofen, Filialkirche Inventio Crucis

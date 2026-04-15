@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=252
 |Originalseitenbis=253
 |Lemma=Untermühlhausen, Pfarrkirche St. Benedikt

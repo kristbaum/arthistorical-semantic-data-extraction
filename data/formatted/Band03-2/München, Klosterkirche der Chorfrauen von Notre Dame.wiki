@@ -1,9 +1,9 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=13
 |Originalseitenvon=425
-|Originalseitenbis=426
+|Originalseitenbis=425
 |Lemma=München, Klosterkirche der Chorfrauen von Notre Dame
 |Typ=Sakral
 |Ort=München

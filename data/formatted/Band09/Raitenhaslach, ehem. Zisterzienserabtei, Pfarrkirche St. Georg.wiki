@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=2
 |Originalseitenvon=151
 |Originalseitenbis=177
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Pfarrkirche St. Georg

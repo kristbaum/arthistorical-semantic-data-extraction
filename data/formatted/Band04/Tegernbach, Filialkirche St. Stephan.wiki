@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=242
 |Originalseitenbis=246
 |Lemma=Tegernbach, Filialkirche St. Stephan

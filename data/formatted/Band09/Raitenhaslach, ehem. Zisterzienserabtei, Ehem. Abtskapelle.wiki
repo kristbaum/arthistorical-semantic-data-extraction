@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=178
 |Originalseitenbis=179
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Ehem. Abtskapelle

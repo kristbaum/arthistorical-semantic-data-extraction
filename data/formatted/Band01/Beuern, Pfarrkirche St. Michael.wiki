@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=25
 |Originalseitenbis=27
 |Lemma=Beuern, Pfarrkirche St. Michael

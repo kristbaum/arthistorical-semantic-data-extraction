@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=7
 |Originalseitenvon=214
 |Originalseitenbis=214
 |Lemma=München, Residenz, ehem. Hofapotheke

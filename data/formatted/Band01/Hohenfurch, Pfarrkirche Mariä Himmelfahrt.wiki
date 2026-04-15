@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=5
 |Originalseitenvon=407
 |Originalseitenbis=409
 |Lemma=Hohenfurch, Pfarrkirche Mariä Himmelfahrt

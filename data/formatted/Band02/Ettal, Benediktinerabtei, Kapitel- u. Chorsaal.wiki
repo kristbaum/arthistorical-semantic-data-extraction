@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=13
 |Originalseitenvon=323
 |Originalseitenbis=329
 |Lemma=Ettal, Benediktinerabtei, Kapitel- u. Chorsaal

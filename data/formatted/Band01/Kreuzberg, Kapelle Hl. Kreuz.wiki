@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=16
 |Originalseitenvon=428
 |Originalseitenbis=432
 |Lemma=Kreuzberg, Kapelle Hl. Kreuz

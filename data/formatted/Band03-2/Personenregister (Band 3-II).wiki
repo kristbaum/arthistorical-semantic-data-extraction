@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=20
 |Originalseitenvon=586
 |Originalseitenbis=592
 |Lemma=Personenregister (Band 3-II)

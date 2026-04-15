@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=6
 |Originalseitenvon=61
 |Originalseitenbis=65
 |Lemma=Bergheim, Pfarrkirche St. Mauritius

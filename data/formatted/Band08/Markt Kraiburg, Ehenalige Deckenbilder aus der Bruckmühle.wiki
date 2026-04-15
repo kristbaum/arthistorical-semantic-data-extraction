@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=22
 |Originalseitenvon=141
 |Originalseitenbis=144
 |Lemma=Markt Kraiburg, Ehenalige Deckenbilder aus der Bruckmühle

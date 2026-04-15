@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=9
 |Originalseitenvon=165
 |Originalseitenbis=173
 |Lemma=Freising, sog. Asamsaal im ehem. Bischöflichen Lyzeum

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=336
 |Originalseitenbis=342
 |Lemma=Lampferding, Kuratiekirche Mariä Himmelfahrt

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=91
 |Originalseitenbis=94
 |Lemma=Hechenwang, Filialkirche St. Martin

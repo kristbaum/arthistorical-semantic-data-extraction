@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=1
 |Originalseitenvon=348
 |Originalseitenbis=351
 |Lemma=München, ehem. Hofgartengalerie

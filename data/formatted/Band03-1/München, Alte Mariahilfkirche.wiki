@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=268
 |Originalseitenbis=268
 |Lemma=München, Alte Mariahilfkirche

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=22
 |Originalseitenvon=592
 |Originalseitenbis=593
 |Lemma=Embleme-Register (Band 12-II)

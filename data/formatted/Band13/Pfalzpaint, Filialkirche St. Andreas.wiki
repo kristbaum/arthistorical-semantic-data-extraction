@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=17
 |Originalseitenvon=380
 |Originalseitenbis=383
 |Lemma=Pfalzpaint, Filialkirche St. Andreas

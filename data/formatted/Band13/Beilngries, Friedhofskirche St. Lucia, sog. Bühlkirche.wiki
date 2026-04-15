@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=36
 |Originalseitenbis=41
 |Lemma=Beilngries, Friedhofskirche St. Lucia, sog. Bühlkirche

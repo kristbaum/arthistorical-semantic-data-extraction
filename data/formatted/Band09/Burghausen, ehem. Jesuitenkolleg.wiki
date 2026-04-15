@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=22
 |Originalseitenvon=43
 |Originalseitenbis=43
 |Lemma=Burghausen, ehem. Jesuitenkolleg

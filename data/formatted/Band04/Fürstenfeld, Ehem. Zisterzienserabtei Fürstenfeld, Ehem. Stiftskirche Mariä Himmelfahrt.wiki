@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=6
 |Originalseitenvon=58
 |Originalseitenbis=103
 |Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Stiftskirche Mariä Himmelfahrt

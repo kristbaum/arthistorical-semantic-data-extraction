@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=8
 |Originalseitenvon=513
 |Originalseitenbis=516
 |Lemma=St. Nikolaus, Kapelle St. Nikolaus

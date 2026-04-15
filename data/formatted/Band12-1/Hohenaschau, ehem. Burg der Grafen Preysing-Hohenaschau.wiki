@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=11
 |Originalseitenvon=268
 |Originalseitenbis=271
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau

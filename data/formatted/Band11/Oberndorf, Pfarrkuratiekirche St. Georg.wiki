@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=12
 |Originalseitenvon=371
 |Originalseitenbis=378
 |Lemma=Oberndorf, Pfarrkuratiekirche St. Georg

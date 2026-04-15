@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=7
 |Originalseitenvon=215
 |Originalseitenbis=215
 |Lemma=München, Residenz, Schreibzimmer der Kurfürstin Maria Anna

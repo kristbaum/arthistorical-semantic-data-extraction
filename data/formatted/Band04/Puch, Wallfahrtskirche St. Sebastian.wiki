@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=223
 |Originalseitenbis=238
 |Lemma=Puch, Wallfahrtskirche St. Sebastian

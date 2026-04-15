@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=488
 |Originalseitenbis=491
 |Lemma=Schweinsteig, Kapelle

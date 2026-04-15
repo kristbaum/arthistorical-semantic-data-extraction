@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=233
 |Originalseitenbis=234
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Hofgartenpavillons

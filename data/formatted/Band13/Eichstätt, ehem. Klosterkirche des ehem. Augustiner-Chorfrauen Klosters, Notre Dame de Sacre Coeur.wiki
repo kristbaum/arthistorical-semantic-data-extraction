@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=154
 |Originalseitenbis=171
 |Lemma=Eichstätt, ehem. Klosterkirche des ehem. Augustiner-Chorfrauen Klosters, Notre Dame de Sacre Coeur

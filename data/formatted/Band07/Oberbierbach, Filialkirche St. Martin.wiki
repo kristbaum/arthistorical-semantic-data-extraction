@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=238
 |Originalseitenbis=244
 |Lemma=Oberbierbach, Filialkirche St. Martin

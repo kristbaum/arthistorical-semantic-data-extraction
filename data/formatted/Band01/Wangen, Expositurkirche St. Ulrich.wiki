@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=7
 |Originalseitenvon=360
 |Originalseitenbis=361
 |Lemma=Wangen, Expositurkirche St. Ulrich

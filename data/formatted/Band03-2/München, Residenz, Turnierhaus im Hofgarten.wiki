@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=215
 |Originalseitenbis=216
 |Lemma=München, Residenz, Turnierhaus im Hofgarten

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=394
 |Originalseitenbis=399
 |Lemma=Pfraundorf, Pfarrkirche St. Nikolaus

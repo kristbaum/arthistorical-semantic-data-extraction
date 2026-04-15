@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=25
 |Originalseitenvon=497
 |Originalseitenbis=502
 |Lemma=Frauenried, Filialkirche Mariä Geburt

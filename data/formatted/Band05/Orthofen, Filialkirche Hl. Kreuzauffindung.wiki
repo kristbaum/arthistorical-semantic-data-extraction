@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=189
 |Originalseitenbis=191
 |Lemma=Orthofen, Filialkirche Hl. Kreuzauffindung

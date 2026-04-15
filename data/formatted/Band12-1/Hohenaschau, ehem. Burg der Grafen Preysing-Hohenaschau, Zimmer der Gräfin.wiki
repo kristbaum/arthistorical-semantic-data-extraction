@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=20
 |Originalseitenvon=287
 |Originalseitenbis=290
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Zimmer der Gräfin

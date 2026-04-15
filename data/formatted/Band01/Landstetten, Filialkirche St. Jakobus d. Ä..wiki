@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=19
 |Originalseitenvon=335
 |Originalseitenbis=336
 |Lemma=Landstetten, Filialkirche St. Jakobus d. Ä.

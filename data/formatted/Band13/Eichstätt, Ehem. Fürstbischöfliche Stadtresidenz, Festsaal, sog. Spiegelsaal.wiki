@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=195
 |Originalseitenbis=213
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Festsaal, sog. Spiegelsaal

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=386
 |Originalseitenbis=393
 |Lemma=Nußdorf am Inn, Filial- und Wallfahrtskirche St. Leonhard

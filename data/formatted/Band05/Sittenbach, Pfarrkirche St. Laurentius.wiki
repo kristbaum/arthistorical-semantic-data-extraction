@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=244
 |Originalseitenbis=252
 |Lemma=Sittenbach, Pfarrkirche St. Laurentius

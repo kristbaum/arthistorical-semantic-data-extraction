@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=133
 |Originalseitenbis=149
 |Lemma=Freising, Domkreuzgang

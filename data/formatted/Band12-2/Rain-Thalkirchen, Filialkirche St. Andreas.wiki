@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=7
 |Originalseitenvon=411
 |Originalseitenbis=416
 |Lemma=Rain/Thalkirchen, Filialkirche St. Andreas

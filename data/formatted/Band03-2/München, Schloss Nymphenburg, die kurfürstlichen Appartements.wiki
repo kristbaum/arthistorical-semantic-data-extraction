@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=16
 |Originalseitenvon=379
 |Originalseitenbis=396
 |Lemma=München, Schloss Nymphenburg, die kurfürstlichen Appartements

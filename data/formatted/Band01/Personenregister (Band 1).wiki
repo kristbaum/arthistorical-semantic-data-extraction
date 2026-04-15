@@ -1,11 +1,11 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=15
 |Originalseitenvon=627
 |Originalseitenbis=629
 |Lemma=Personenregister (Band 1)
-|davor=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph
+|davor=Ortsregister (Band 1)
 |danach=Ikonographisches Register (Band 1)
 }}
 

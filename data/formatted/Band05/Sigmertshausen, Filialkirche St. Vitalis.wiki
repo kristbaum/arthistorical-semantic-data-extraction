@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=235
 |Originalseitenbis=243
 |Lemma=Sigmertshausen, Filialkirche St. Vitalis

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=261
 |Originalseitenbis=265
 |Lemma=Hohenkammer, Pfarrkirche St. Johannes Evangelist

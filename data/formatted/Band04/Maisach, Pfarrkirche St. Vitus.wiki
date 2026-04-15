@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=190
 |Originalseitenbis=192
 |Lemma=Maisach, Pfarrkirche St. Vitus

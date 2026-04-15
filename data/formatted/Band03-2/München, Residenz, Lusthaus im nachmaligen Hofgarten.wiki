@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=18
 |Originalseitenvon=33
 |Originalseitenbis=48
 |Lemma=München, Residenz, Lusthaus im nachmaligen Hofgarten

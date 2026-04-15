@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=17
 |Originalseitenvon=331
 |Originalseitenbis=334
 |Lemma=Froschhausen, Filial- u. Wallfahrtskirche St. Leonhard

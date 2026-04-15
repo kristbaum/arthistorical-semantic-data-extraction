@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=19
 |Originalseitenvon=284
 |Originalseitenbis=295
 |Lemma=Schwindkirchen, Pfarrkirche Mariä Himmelfahrt

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=13
 |Originalseitenvon=571
 |Originalseitenbis=574
 |Lemma=München, Palais Holnstein

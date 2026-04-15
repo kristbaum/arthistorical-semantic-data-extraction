@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=19
 |Originalseitenvon=535
 |Originalseitenbis=536
 |Lemma=Osterhofen, Kapelle

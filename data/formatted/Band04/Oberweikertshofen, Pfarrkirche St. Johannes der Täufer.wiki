@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=217
 |Lemma=Oberweikertshofen, Pfarrkirche St. Johannes der Täufer

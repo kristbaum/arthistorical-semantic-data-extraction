@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=10
 |Originalseitenvon=517
 |Originalseitenbis=522
 |Lemma=Schongau, Stadtpfarrkirche Mariä Himmelfahrt

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=273
 |Originalseitenbis=273
 |Lemma=Unterzarnham, Filialkirche St. Viktor und St. Corona

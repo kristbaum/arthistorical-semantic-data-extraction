@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=172
 |Originalseitenbis=174
 |Lemma=Jesenwang, Pestkapelle Maria Trost

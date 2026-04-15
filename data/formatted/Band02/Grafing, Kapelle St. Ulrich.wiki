@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=183
 |Originalseitenbis=184
 |Lemma=Grafing, Kapelle St. Ulrich

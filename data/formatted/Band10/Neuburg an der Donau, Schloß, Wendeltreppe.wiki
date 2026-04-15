@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=15
 |Originalseitenvon=228
 |Originalseitenbis=229
 |Lemma=Neuburg an der Donau, Schloß, Wendeltreppe

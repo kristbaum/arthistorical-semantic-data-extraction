@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=8
 |Originalseitenvon=112
 |Originalseitenbis=116
 |Lemma=Garching bei München, Alte Pfarrkirche St. Katharina

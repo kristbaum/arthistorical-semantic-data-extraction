@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=234
 |Originalseitenbis=241
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Bibliothek

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=25
 |Originalseitenvon=99
 |Originalseitenbis=104
 |Lemma=Haselbach, Pfarrkirche St. Michael

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=16
 |Originalseitenvon=329
 |Originalseitenbis=330
 |Lemma=Ebersberg, ehem. Augustiner-Chorherrenstift, Sebastianskapelle

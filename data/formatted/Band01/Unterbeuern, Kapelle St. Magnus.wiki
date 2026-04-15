@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=240
 |Originalseitenbis=240
 |Lemma=Unterbeuern, Kapelle St. Magnus

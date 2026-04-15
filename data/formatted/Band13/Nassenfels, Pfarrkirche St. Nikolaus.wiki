@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=7
 |Originalseitenvon=360
 |Originalseitenbis=371
 |Lemma=Nassenfels, Pfarrkirche St. Nikolaus

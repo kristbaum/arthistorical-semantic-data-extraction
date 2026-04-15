@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=189
 |Originalseitenbis=190
 |Lemma=Pöring, Schlosskirche St. Maria von der Versöhnung

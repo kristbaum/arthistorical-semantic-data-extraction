@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=21
 |Originalseitenvon=339
 |Originalseitenbis=343
 |Lemma=München, Residenz, Grüne Galerie

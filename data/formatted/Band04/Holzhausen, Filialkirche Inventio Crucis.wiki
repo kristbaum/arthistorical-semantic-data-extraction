@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=12
 |Originalseitenvon=170
 |Originalseitenbis=171
 |Lemma=Holzhausen, Filialkirche Inventio Crucis

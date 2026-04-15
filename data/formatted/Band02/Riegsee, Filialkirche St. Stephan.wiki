@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=2
 |Originalseitenvon=401
 |Originalseitenbis=404
 |Lemma=Riegsee, Filialkirche St. Stephan

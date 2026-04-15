@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=179
 |Originalseitenbis=188
 |Lemma=Baar, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

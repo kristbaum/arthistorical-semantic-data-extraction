@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=12
 |Originalseitenvon=120
 |Originalseitenbis=125
 |Lemma=Kaufering, Kapelle St. Leonhard

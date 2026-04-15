@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=317
 |Originalseitenbis=326
 |Lemma=Kottingwörth, Pfarrkirche St. Vitus

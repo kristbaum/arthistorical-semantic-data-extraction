@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=168
 |Originalseitenbis=169
 |Lemma=Hohenzell, Filialkirche Mariä Heimsuchung

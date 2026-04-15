@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=13
 |Originalseitenvon=74
 |Originalseitenbis=76
 |Lemma=Bertoldsheim, Pfarrkirche St. Michael

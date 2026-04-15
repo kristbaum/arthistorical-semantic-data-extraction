@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=564
 |Originalseitenbis=569
 |Lemma=Im 18. Jh. in Stadt und Landkreis Rosenheim tätige Maler

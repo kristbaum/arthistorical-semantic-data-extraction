@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=16
 |Originalseitenvon=29
 |Originalseitenbis=32
 |Lemma=Dünzelbach, Pfarrkirche St. Nikolaus

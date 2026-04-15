@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=22
 |Originalseitenvon=541
 |Originalseitenbis=541
 |Lemma=Osterwarngau, Manhartskapelle

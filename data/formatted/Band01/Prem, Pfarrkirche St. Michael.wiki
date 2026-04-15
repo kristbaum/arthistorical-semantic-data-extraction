@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=12
 |Originalseitenvon=470
 |Originalseitenbis=471
 |Lemma=Prem, Pfarrkirche St. Michael

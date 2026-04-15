@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=16
 |Originalseitenvon=79
 |Originalseitenbis=81
 |Lemma=München-Fröttmaning, Filialkirche Hl. Kreuz

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=25
 |Originalseitenvon=47
 |Originalseitenbis=50
 |Lemma=Altomünster, Pfarr- und Klosterkirche St. Alto, Frauenchor

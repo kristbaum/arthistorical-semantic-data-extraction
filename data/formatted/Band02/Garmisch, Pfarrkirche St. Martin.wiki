@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=19
 |Originalseitenvon=335
 |Originalseitenbis=347
 |Lemma=Garmisch, Pfarrkirche St. Martin

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=15
 |Originalseitenvon=426
 |Originalseitenbis=427
 |Lemma=Kienberg, Kapelle St. Michael

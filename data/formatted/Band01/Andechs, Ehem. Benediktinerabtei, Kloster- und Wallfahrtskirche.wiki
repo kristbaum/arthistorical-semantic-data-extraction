@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=289
 |Originalseitenbis=299
 |Lemma=Andechs, Ehem. Benediktinerabtei, Kloster- und Wallfahrtskirche

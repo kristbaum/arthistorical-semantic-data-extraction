@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=16
 |Originalseitenvon=579
 |Originalseitenbis=580
 |Lemma=München, Schloss Harlaching

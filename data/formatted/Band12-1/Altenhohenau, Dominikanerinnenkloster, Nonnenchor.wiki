@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=21
 |Originalseitenvon=39
 |Originalseitenbis=50
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Nonnenchor

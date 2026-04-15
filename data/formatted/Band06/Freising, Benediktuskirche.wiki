@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=2
 |Originalseitenvon=150
 |Originalseitenbis=159
 |Lemma=Freising, Benediktuskirche

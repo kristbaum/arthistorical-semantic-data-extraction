@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=24
 |Originalseitenvon=595
 |Originalseitenbis=597
 |Lemma=Wessobrunn, Kreuzbergkapelle Hl. Kreuz

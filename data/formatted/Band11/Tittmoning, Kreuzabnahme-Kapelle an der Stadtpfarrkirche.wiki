@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=178
 |Originalseitenbis=179
 |Lemma=Tittmoning, Kreuzabnahme-Kapelle an der Stadtpfarrkirche

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=17
 |Originalseitenvon=581
 |Originalseitenbis=581
 |Lemma=München, Schloss Neuberghausen

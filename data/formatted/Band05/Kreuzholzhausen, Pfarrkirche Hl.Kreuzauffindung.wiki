@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=155
 |Originalseitenbis=161
 |Lemma=Kreuzholzhausen, Pfarrkirche Hl.Kreuzauffindung

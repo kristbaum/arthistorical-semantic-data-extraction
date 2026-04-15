@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=6
 |Originalseitenvon=161
 |Originalseitenbis=181
 |Lemma=Neuburg an der Donau, Stadtpfarrkirche Hl. Geist

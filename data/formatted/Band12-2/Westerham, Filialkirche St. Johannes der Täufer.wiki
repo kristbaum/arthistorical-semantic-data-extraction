@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=23
 |Originalseitenvon=542
 |Originalseitenbis=548
 |Lemma=Westerham, Filialkirche St. Johannes der Täufer

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=169
 |Originalseitenbis=177
 |Lemma=Isen, Pfarrkirche St. Zeno

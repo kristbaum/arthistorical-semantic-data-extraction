@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=24
 |Originalseitenvon=494
 |Originalseitenbis=496
 |Lemma=Tattenhausen, Pfarrkuratiekirche Inventio Crucis

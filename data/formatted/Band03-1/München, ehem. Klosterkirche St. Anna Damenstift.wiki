@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=185
 |Originalseitenbis=190
 |Lemma=München, ehem. Klosterkirche St. Anna Damenstift

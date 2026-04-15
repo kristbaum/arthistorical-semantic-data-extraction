@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=19
 |Originalseitenvon=334
 |Originalseitenbis=338
 |Lemma=München, Residenz, Ahnengalerie

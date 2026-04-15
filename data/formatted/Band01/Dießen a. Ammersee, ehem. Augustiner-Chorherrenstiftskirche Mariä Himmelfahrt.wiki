@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=21
 |Originalseitenvon=38
 |Originalseitenbis=47
 |Lemma=Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt

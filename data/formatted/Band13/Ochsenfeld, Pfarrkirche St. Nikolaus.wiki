@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=13
 |Originalseitenvon=372
 |Originalseitenbis=375
 |Lemma=Ochsenfeld, Pfarrkirche St. Nikolaus

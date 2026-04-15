@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=24
 |Originalseitenvon=144
 |Originalseitenbis=159
 |Lemma=Siegsdorf, Pfarrkirche Mariä Unbefleckte Empfängnis

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=3
 |Originalseitenvon=352
 |Originalseitenbis=354
 |Lemma=Steinebach, Filialkirche St. Martin

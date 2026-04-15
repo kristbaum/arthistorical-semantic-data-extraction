@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=25
 |Originalseitenvon=97
 |Originalseitenbis=101
 |Lemma=München-Sendling, Alte Pfarrkirche St. Margareta

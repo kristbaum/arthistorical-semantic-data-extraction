@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=17
 |Originalseitenvon=430
 |Originalseitenbis=447
 |Lemma=Oberschleißheim, Altes Schloss Schleißheim, Saal und Wohnräume

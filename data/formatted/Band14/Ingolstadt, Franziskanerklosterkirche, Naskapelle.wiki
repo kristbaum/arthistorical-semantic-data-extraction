@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=22
 |Originalseitenvon=42
 |Originalseitenbis=48
 |Lemma=Ingolstadt, Franziskanerklosterkirche, Naskapelle

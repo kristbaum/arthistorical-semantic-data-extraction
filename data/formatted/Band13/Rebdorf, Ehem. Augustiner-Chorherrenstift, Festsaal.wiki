@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=12
 |Originalseitenvon=422
 |Originalseitenbis=424
 |Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Festsaal 

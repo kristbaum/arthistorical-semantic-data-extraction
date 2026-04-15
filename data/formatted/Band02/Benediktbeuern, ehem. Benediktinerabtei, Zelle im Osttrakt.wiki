@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=11
 |Originalseitenvon=73
 |Originalseitenbis=73
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Zelle im Osttrakt

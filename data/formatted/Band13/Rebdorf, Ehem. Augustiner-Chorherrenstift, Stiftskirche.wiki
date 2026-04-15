@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=22
 |Originalseitenvon=391
 |Originalseitenbis=421
 |Lemma=Rebdorf, Ehem. Augustiner-Chorherrenstift, Stiftskirche 

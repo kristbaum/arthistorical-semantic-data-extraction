@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=6
 |Originalseitenvon=158
 |Originalseitenbis=161
 |Lemma=Landsberg am Lech, Filialkirche St. Johannes

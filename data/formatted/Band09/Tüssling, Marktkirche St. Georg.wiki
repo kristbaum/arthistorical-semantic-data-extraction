@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=223
 |Originalseitenbis=229
 |Lemma=Tüssling, Marktkirche St. Georg

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=175
 |Originalseitenbis=184
 |Lemma=Kottgeisering, Pfarrkirche Hl. Valentin von Terni

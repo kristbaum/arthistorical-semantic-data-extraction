@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=13
 |Originalseitenvon=174
 |Originalseitenbis=174
 |Lemma=Freising, Altöttinger Kapelle

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=16
 |Originalseitenvon=379
 |Originalseitenbis=382
 |Lemma=Im 18. Jh. in den Landkreisen Traunstein, Berchtesgadener Land und Ebersberg tätige Maler

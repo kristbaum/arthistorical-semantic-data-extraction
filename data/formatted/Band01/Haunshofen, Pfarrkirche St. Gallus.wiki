@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=3
 |Originalseitenvon=404
 |Originalseitenbis=406
 |Lemma=Haunshofen, Pfarrkirche St. Gallus

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=274
 |Originalseitenbis=274
 |Lemma=Walleshausen, Pfarrkirche Mariä Himmelfahrt

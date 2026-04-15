@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=4
 |Originalseitenvon=105
 |Originalseitenbis=118
 |Lemma=Kirchweidach, Pfarr- und Wallfahrtskirche St. Vitus

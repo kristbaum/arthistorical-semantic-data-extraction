@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=18
 |Originalseitenvon=633
 |Originalseitenbis=634
 |Lemma=Wilparting, Kapelle St. Vitus

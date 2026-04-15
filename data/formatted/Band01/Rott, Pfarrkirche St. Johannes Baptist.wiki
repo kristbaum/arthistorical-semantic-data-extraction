@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=6
 |Originalseitenvon=208
 |Originalseitenbis=211
 |Lemma=Rott, Pfarrkirche St. Johannes Baptist

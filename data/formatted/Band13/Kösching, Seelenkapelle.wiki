@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=306
 |Originalseitenbis=312
 |Lemma=Kösching, Seelenkapelle

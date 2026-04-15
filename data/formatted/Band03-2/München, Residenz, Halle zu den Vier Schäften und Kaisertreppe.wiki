@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=168
 |Originalseitenbis=176
 |Lemma=München, Residenz, Halle zu den Vier Schäften und Kaisertreppe

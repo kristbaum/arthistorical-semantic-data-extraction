@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=65
 |Originalseitenbis=70
 |Lemma=Au bei Bad Aibling, Wallfahrtskapelle sog. Taxakapelle

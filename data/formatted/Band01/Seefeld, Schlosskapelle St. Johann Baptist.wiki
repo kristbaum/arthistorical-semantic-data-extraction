@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=24
 |Originalseitenvon=344
 |Originalseitenbis=346
 |Lemma=Seefeld, Schlosskapelle St. Johann Baptist

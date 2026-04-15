@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=163
 |Originalseitenbis=164
 |Lemma=Freising, Kapelle in der ehem. Domdechantei

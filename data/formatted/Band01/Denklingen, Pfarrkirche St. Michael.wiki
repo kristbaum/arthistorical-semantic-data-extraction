@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=17
 |Originalseitenvon=30
 |Originalseitenbis=36
 |Lemma=Denklingen, Pfarrkirche St. Michael

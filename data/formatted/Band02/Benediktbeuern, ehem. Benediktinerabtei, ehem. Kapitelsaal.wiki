@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=11
 |Originalseitenvon=69
 |Originalseitenbis=72
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Kapitelsaal

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=12
 |Originalseitenvon=20
 |Originalseitenbis=40
 |Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Ehem. Stiftskirche

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=3
 |Originalseitenvon=202
 |Originalseitenbis=211
 |Lemma=Pipinsried, Wallfahrtskapelle St. Wolfgang

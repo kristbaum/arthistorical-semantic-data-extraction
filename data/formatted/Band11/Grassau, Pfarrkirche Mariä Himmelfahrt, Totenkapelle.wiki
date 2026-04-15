@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=16
 |Originalseitenvon=79
 |Originalseitenbis=82
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt, Totenkapelle

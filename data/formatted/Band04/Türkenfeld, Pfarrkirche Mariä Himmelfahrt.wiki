@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=25
 |Originalseitenvon=247
 |Originalseitenbis=258
 |Lemma=Türkenfeld, Pfarrkirche Mariä Himmelfahrt

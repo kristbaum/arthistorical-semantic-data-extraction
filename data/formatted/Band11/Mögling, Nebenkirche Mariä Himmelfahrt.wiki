@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=5
 |Originalseitenvon=106
 |Originalseitenbis=110
 |Lemma=Mögling, Nebenkirche Mariä Himmelfahrt

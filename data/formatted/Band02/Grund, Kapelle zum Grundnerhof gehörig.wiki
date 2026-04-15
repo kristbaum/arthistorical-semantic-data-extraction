@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=6
 |Originalseitenvon=509
 |Originalseitenbis=510
 |Lemma=Grund, Kapelle zum Grundnerhof gehörig

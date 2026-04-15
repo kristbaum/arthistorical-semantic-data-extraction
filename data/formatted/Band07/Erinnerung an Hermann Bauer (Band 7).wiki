@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=3
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Erinnerung an Hermann Bauer (Band 7)

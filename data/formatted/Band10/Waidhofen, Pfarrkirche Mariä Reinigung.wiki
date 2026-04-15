@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=7
 |Originalseitenvon=313
 |Originalseitenbis=327
 |Lemma=Waidhofen, Pfarrkirche Mariä Reinigung

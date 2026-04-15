@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=22
 |Originalseitenvon=291
 |Originalseitenbis=296
 |Lemma=Thalhausen, Schlosskapelle St. Anna

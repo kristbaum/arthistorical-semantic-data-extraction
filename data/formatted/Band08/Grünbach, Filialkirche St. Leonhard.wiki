@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=11
 |Originalseitenvon=119
 |Originalseitenbis=121
 |Lemma=Grünbach, Filialkirche St. Leonhard

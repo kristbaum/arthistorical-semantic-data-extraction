@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=7
 |Originalseitenvon=560
 |Originalseitenbis=562
 |Lemma=Weilheim, Leichenhaus

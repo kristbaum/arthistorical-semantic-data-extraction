@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=9
 |Originalseitenvon=164
 |Originalseitenbis=174
 |Lemma=Zuchering, Pfarrkirche St. Blasius

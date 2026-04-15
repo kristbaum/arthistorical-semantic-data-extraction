@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=15
 |Originalseitenvon=376
 |Originalseitenbis=379
 |Lemma=Pfahldorf, Pfarrkirche St. Johannes Baptist

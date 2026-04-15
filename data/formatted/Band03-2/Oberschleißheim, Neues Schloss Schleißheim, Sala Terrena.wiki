@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=23
 |Originalseitenvon=493
 |Originalseitenbis=496
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Sala Terrena

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=236
 |Originalseitenbis=237
 |Lemma=Notzing, Filialkirche St. Nikolaus

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=266
 |Originalseitenbis=270
 |Lemma=Sandizell, Schlosskapelle Zum gekreuzigten Heiland

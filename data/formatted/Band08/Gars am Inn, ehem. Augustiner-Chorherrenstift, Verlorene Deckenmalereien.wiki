@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=10
 |Originalseitenvon=117
 |Originalseitenbis=118
 |Lemma=Gars am Inn, ehem. Augustiner-Chorherrenstift, Verlorene Deckenmalereien

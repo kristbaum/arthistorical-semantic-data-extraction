@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=12
 |Originalseitenvon=71
 |Originalseitenbis=81
 |Lemma=Bad Aibling, Pfarrkirche Mariä Himmelfahrt

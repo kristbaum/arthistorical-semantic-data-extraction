@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=244
 |Originalseitenbis=252
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, Seekapelle

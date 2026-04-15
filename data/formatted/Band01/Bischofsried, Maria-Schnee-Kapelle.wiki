@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=16
 |Originalseitenvon=28
 |Originalseitenbis=29
 |Lemma=Bischofsried, Maria-Schnee-Kapelle

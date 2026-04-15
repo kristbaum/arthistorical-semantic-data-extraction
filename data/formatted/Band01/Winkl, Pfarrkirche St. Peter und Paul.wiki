@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=18
 |Originalseitenvon=282
 |Originalseitenbis=287
 |Lemma=Winkl, Pfarrkirche St. Peter und Paul

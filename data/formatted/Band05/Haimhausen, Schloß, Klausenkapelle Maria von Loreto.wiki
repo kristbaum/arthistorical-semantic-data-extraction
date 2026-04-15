@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=82
 |Originalseitenbis=82
 |Lemma=Haimhausen, Schloß, Klausenkapelle Maria von Loreto

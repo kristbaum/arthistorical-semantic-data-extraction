@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=7
 |Originalseitenvon=160
 |Originalseitenbis=162
 |Lemma=Freising, Ehem. Fürstbischöfliche Residenz

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=6
 |Originalseitenvon=459
 |Originalseitenbis=467
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Bibliothek

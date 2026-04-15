@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=24
 |Originalseitenvon=44
 |Originalseitenbis=48
 |Lemma=Erching, Schlosskapelle St. Walburga

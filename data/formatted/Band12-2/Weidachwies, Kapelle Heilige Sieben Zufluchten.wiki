@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=11
 |Originalseitenvon=519
 |Originalseitenbis=519
 |Lemma=Weidachwies, Kapelle Heilige Sieben Zufluchten

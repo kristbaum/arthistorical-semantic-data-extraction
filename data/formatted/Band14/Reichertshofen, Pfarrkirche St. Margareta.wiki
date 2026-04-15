@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=237
 |Originalseitenbis=240
 |Lemma=Reichertshofen, Pfarrkirche St. Margareta

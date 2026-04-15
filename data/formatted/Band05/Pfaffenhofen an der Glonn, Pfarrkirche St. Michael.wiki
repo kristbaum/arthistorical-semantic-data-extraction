@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=23
 |Originalseitenvon=192
 |Originalseitenbis=201
 |Lemma=Pfaffenhofen an der Glonn, Pfarrkirche St. Michael

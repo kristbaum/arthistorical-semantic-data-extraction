@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=13
 |Originalseitenvon=422
 |Originalseitenbis=425
 |Lemma=Kirchberg, Pfarrkirche St. Jakobus Major

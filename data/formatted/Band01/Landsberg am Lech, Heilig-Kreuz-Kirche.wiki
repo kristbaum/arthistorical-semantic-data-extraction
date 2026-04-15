@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=132
 |Originalseitenbis=140
 |Lemma=Landsberg am Lech, Heilig-Kreuz-Kirche

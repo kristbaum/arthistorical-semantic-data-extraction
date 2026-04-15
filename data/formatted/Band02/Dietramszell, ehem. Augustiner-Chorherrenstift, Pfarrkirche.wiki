@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=1
 |Originalseitenvon=148
 |Originalseitenbis=156
 |Lemma=Dietramszell, ehem. Augustiner-Chorherrenstift, Pfarrkirche

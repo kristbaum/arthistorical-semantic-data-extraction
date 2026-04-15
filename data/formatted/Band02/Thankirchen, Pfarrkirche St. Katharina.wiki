@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=5
 |Originalseitenvon=256
 |Originalseitenbis=260
 |Lemma=Thankirchen, Pfarrkirche St. Katharina

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=2
 |Originalseitenvon=251
 |Originalseitenbis=257
 |Lemma=Scheyern, Benediktinerabtei, Hl.-Kreuz-Kapelle

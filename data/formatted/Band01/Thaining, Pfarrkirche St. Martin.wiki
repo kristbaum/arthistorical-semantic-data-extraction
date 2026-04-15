@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=234
 |Originalseitenbis=239
 |Lemma=Thaining, Pfarrkirche St. Martin

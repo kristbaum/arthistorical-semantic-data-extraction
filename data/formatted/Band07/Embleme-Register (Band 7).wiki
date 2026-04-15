@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=342
 |Originalseitenbis=344
 |Lemma=Embleme-Register (Band 7)

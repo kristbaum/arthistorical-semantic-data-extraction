@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=98
 |Originalseitenbis=98
 |Lemma=Ellenbrunn, Filialkirche St. Martin

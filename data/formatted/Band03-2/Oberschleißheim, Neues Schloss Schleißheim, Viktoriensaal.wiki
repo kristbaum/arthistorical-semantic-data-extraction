@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=9
 |Originalseitenvon=515
 |Originalseitenbis=518
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Viktoriensaal

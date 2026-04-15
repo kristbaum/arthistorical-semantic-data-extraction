@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=194
 |Lemma=Jachenau, Pfarrkirche St. Nikolaus

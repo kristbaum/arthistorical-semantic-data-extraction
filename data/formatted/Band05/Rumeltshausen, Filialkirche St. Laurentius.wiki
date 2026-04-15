@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=224
 |Originalseitenbis=230
 |Lemma=Rumeltshausen, Filialkirche St. Laurentius

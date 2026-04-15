@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=10
 |Originalseitenvon=316
 |Originalseitenbis=323
 |Lemma=Ettal, Benediktinerabtei, Sakristei

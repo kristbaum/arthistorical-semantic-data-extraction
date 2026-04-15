@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=8
 |Originalseitenvon=313
 |Originalseitenbis=316
 |Lemma=Kirchloibersdorf, Filialkirche St. Petrus

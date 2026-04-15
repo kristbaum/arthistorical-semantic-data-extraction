@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=2
 |Originalseitenvon=200
 |Originalseitenbis=213
 |Lemma=Freising, Wies bei Freising, Wallfahrtskirche

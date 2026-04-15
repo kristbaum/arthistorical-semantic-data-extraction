@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=65
 |Lemma=Ellighofen, Filialkirche St. Stephan

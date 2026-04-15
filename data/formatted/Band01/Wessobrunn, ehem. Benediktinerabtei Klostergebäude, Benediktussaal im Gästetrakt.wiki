@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=10
 |Originalseitenvon=567
 |Originalseitenbis=569
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Benediktussaal im Gästetrakt

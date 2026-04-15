@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=44
 |Originalseitenbis=44
 |Lemma=Baumburg, Ehem. Augustiner-Chorherrenstift, Turmaufgang

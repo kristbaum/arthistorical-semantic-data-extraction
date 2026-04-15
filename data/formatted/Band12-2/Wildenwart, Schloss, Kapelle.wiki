@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=549
 |Originalseitenbis=553
 |Lemma=Wildenwart, Schloss, Kapelle

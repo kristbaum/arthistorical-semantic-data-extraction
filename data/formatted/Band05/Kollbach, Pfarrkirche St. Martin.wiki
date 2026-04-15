@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=3
 |Originalseitenvon=154
 |Originalseitenbis=154
 |Lemma=Kollbach, Pfarrkirche St. Martin

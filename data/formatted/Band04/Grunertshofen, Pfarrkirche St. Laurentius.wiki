@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=1
 |Originalseitenvon=149
 |Originalseitenbis=161
 |Lemma=Grunertshofen, Pfarrkirche St. Laurentius

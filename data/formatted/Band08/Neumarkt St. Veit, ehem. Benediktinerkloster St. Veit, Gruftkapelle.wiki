@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=190
 |Originalseitenbis=192
 |Lemma=Neumarkt St. Veit, ehem. Benediktinerkloster St. Veit, Gruftkapelle

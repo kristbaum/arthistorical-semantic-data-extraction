@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=19
 |Originalseitenvon=185
 |Originalseitenbis=189
 |Lemma=Neufahrn, Filialkirche St. Rupert

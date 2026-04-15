@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=15
 |Originalseitenvon=426
 |Originalseitenbis=432
 |Lemma=Rosenheim, Loretokapelle

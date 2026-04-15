@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=123
 |Originalseitenbis=124
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Gastzimmer

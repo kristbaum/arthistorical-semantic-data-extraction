@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=15
 |Originalseitenvon=225
 |Originalseitenbis=230
 |Lemma=Niederding, Pfarrkirche St. Martin

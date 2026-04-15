@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=14
 |Originalseitenvon=75
 |Originalseitenbis=80
 |Lemma=Burgkirchen an der Alz, Alte Pfarrkirche Johannes der Täufer

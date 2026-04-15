@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=18
 |Originalseitenvon=282
 |Originalseitenbis=286
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Ehemalige Zimmer des Grafen oder Gastzimmer

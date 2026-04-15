@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=23
 |Originalseitenvon=92
 |Originalseitenbis=98
 |Lemma=Frauenornau, Filial- und Wallfahrtskirche Maria vom Trost

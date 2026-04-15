@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=10
 |Originalseitenvon=166
 |Originalseitenbis=167
 |Lemma=Hanshofen, Filialkirche St. Katharina

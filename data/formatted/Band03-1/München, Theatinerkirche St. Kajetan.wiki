@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=5
 |Originalseitenvon=57
 |Originalseitenbis=59
 |Lemma=München, Theatinerkirche St. Kajetan

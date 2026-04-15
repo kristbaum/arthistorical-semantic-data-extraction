@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=1
 |Originalseitenvon=348
 |Originalseitenbis=350
 |Lemma=Marienstein, Priorat des Augustinerinnenklosters Marienstein

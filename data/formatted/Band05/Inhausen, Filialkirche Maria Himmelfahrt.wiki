@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=86
 |Originalseitenbis=90
 |Lemma=Inhausen, Filialkirche Maria Himmelfahrt

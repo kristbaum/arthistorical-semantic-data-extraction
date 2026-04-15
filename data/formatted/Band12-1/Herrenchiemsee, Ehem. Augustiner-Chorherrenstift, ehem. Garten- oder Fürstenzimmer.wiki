@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=15
 |Originalseitenvon=226
 |Originalseitenbis=233
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Garten- oder Fürstenzimmer

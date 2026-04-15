@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=238
 |Originalseitenbis=243
 |Lemma=Ortlfing, Pfarrkirche St. Stephanus

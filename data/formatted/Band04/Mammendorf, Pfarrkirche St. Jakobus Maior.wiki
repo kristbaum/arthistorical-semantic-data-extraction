@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=23
 |Originalseitenvon=193
 |Originalseitenbis=198
 |Lemma=Mammendorf, Pfarrkirche St. Jakobus Maior

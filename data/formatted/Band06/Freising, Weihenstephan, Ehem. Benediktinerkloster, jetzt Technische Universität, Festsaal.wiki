@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=188
 |Originalseitenbis=199
 |Lemma=Freising, Weihenstephan, Ehem. Benediktinerkloster, jetzt Technische Universität, Festsaal

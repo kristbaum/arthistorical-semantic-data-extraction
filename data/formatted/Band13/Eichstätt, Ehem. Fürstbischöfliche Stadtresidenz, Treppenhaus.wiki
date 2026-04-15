@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=20
 |Originalseitenvon=187
 |Originalseitenbis=195
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Stadtresidenz, Treppenhaus

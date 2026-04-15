@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=20
 |Originalseitenvon=337
 |Originalseitenbis=337
 |Lemma=Leutstetten, Filialkirche St. Alto

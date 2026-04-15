@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=15
 |Originalseitenvon=76
 |Originalseitenbis=77
 |Lemma=Erpfting, Pfarrhof im ehem. kath. Pfarrhaus

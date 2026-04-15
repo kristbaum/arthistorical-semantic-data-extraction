@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=205
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Festsaal

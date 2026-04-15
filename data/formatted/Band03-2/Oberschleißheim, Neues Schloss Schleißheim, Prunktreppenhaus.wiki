@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=5
 |Originalseitenvon=506
 |Originalseitenbis=510
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Prunktreppenhaus

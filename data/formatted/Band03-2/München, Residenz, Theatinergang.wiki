@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=197
 |Originalseitenbis=210
 |Lemma=München, Residenz, Theatinergang

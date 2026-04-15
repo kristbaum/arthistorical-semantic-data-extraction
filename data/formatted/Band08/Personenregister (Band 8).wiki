@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=3
 |Originalseitenvon=353
 |Originalseitenbis=357
 |Lemma=Personenregister (Band 8)

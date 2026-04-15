@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=93
 |Originalseitenbis=97
 |Lemma=Dinkelshausen, Nebenkirche St. Gertrud von Helfta

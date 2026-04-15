@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=24
 |Originalseitenvon=294
 |Originalseitenbis=298
 |Lemma=Wimpasing bei Ampfing, Sog. Schweppermannkapelle

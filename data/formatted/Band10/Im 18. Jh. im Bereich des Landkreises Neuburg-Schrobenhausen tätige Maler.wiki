@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=20
 |Originalseitenvon=337
 |Originalseitenbis=341
 |Lemma=Im 18. Jh. im Bereich des Landkreises Neuburg-Schrobenhausen tätige Maler

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=7
 |Originalseitenvon=160
 |Originalseitenbis=178
 |Lemma=Mühldorf, Stadtpfarrkirche und ehem. Kollegiatskirche St. Nikolaus

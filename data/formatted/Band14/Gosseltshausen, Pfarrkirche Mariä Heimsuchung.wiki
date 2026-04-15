@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=205
 |Originalseitenbis=222
 |Lemma=Gosseltshausen, Pfarrkirche Mariä Heimsuchung

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=23
 |Originalseitenvon=292
 |Originalseitenbis=298
 |Lemma=München, Residenz, Ehemalige Sommerzimmer

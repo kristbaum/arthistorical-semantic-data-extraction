@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=24
 |Originalseitenbis=26
 |Lemma=Altmannstein, Pfarrkirche Hl. Kreuz

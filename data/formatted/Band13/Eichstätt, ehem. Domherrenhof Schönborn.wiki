@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=22
 |Originalseitenvon=241
 |Originalseitenbis=244
 |Lemma=Eichstätt, ehem. Domherrenhof Schönborn

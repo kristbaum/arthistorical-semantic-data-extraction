@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=12
 |Originalseitenvon=220
 |Originalseitenbis=222
 |Lemma=Neuburg an der Donau, Schloß, Saal im Nordturm

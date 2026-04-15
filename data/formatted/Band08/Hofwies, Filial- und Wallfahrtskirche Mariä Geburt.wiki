@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=16
 |Originalseitenvon=129
 |Originalseitenbis=132
 |Lemma=Hofwies, Filial- und Wallfahrtskirche Mariä Geburt

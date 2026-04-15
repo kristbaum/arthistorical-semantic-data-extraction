@@ -1,14 +1,14 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=306
 |Originalseitenbis=307
 |Lemma=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
+|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore

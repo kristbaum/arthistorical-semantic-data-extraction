@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=94
 |Originalseitenbis=95
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, ehem. Schlafzimmer

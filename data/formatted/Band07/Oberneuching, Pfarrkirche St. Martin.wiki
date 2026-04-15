@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=245
 |Originalseitenbis=253
 |Lemma=Oberneuching, Pfarrkirche St. Martin

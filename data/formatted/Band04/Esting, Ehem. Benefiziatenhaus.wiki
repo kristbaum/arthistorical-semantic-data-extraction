@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=21
 |Originalseitenvon=39
 |Originalseitenbis=41
 |Lemma=Esting, Ehem. Benefiziatenhaus

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=21
 |Originalseitenvon=138
 |Originalseitenbis=142
 |Lemma=Beuerberg, ehem. Pfarrkirche St. Johannes u. Paulus

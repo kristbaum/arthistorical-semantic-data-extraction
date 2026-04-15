@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=25
 |Originalseitenvon=496
 |Originalseitenbis=499
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Südliche Antecamera

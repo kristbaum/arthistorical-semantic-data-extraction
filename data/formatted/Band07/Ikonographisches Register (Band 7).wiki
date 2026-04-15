@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=18
 |Originalseitenvon=333
 |Originalseitenbis=341
 |Lemma=Ikonographisches Register (Band 7)

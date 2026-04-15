@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=20
 |Originalseitenvon=387
 |Originalseitenbis=392
 |Lemma=Bernbeuren, Kapelle Mariä Heimsuchung

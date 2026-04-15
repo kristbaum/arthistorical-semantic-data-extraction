@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=18
 |Originalseitenvon=482
 |Originalseitenbis=483
 |Lemma=Oberschleißheim, Schloss Lustheim, Renatuskapelle

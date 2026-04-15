@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=1
 |Originalseitenvon=299
 |Originalseitenbis=301
 |Lemma=Wimpasing bei Malseneck, Feldkapelle

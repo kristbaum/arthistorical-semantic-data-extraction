@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=5
 |Originalseitenvon=456
 |Originalseitenbis=458
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Prälatenkapelle

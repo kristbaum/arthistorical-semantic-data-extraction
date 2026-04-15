@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=7
 |Originalseitenvon=264
 |Originalseitenbis=265
 |Lemma=Sandizell, Pfarrkirche St. Petrus, Sakristei

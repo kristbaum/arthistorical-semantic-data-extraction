@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=22
 |Originalseitenvon=142
 |Originalseitenbis=154
 |Lemma=Mauern, Pfarrkirche Mariä Himmelfahrt

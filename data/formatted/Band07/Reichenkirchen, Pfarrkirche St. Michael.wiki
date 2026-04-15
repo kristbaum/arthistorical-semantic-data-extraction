@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=254
 |Originalseitenbis=261
 |Lemma=Reichenkirchen, Pfarrkirche St. Michael

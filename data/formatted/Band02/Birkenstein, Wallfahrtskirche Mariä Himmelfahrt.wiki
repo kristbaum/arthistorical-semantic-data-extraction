@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=8
 |Originalseitenvon=463
 |Originalseitenbis=464
 |Lemma=Birkenstein, Wallfahrtskirche Mariä Himmelfahrt 

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=3
 |Originalseitenvon=151
 |Originalseitenbis=158
 |Lemma=Etting, Pfarr- und Wallfahrtskirche St. Michael

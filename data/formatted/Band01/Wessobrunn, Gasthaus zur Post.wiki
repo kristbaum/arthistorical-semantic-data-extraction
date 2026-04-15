@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=25
 |Originalseitenvon=597
 |Originalseitenbis=599
 |Lemma=Wessobrunn, Gasthaus zur Post

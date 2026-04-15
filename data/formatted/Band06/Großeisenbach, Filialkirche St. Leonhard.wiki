@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=225
 |Originalseitenbis=228
 |Lemma=Großeisenbach, Filialkirche St. Leonhard

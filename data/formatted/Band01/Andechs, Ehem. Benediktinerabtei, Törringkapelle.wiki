@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=2
 |Originalseitenvon=300
 |Originalseitenbis=302
 |Lemma=Andechs, Ehem. Benediktinerabtei, Törringkapelle

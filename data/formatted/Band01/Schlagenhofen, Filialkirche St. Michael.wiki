@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=342
 |Originalseitenbis=343
 |Lemma=Schlagenhofen, Filialkirche St. Michael

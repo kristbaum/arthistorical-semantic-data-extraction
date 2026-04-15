@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=208
 |Originalseitenbis=218
 |Lemma=Neuburg an der Donau, ehem. Bruderschaftshaus zur Schmerzhaften Muttergottes (Provinzialbibliothek)

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=5
 |Originalseitenvon=210
 |Originalseitenbis=210
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Großes Tafelzimmer

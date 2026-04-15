@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=42
 |Originalseitenbis=57
 |Lemma=Fürstenfeldbruck, Stadtpfarrkirche St. Magdalena

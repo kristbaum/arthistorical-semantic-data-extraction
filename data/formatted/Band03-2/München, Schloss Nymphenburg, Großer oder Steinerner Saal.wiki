@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=4
 |Originalseitenvon=355
 |Originalseitenbis=379
 |Lemma=München, Schloss Nymphenburg, Großer oder Steinerner Saal

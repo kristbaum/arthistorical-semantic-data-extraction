@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=11
 |Originalseitenvon=268
 |Originalseitenbis=273
 |Lemma=Zankenhausen, Pfarrkirche St. Johannes der Täufer

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=16
 |Originalseitenvon=128
 |Originalseitenbis=132
 |Lemma=Freising, St.-Maximilian-Kapelle

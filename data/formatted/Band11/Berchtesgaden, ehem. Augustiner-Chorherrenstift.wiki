@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=2
 |Originalseitenvon=201
 |Originalseitenbis=206
 |Lemma=Berchtesgaden, ehem. Augustiner-Chorherrenstift

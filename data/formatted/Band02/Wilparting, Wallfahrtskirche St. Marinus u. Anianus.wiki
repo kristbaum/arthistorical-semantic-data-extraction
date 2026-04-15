@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=16
 |Originalseitenvon=628
 |Originalseitenbis=633
 |Lemma=Wilparting, Wallfahrtskirche St. Marinus u. Anianus

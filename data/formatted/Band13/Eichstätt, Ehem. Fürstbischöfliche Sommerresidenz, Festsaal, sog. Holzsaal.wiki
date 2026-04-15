@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=224
 |Lemma=Eichstätt, Ehem. Fürstbischöfliche Sommerresidenz, Festsaal, sog. Holzsaal

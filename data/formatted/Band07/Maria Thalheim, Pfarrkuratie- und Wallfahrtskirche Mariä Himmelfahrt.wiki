@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=6
 |Originalseitenvon=209
 |Originalseitenbis=224
 |Lemma=Maria Thalheim, Pfarrkuratie- und Wallfahrtskirche Mariä Himmelfahrt

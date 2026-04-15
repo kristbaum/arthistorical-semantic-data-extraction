@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=7
 |Originalseitenvon=211
 |Originalseitenbis=225
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, sog. Kaiser- oder Fürstensaal

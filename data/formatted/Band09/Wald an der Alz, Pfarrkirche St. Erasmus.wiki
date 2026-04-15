@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=235
 |Originalseitenbis=241
 |Lemma=Wald an der Alz, Pfarrkirche St. Erasmus

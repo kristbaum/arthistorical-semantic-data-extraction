@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=183
 |Originalseitenbis=186
 |Lemma=Heilig Blut am Wasen, Pfarrkirche Heiligste Dreifaltigkeit

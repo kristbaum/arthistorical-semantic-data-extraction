@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=8
 |Originalseitenvon=213
 |Originalseitenbis=213
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Neuer Bibliothekstrakt mit Bibliothek

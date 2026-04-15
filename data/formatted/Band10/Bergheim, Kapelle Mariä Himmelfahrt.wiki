@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=66
 |Originalseitenbis=73
 |Lemma=Bergheim, Kapelle Mariä Himmelfahrt

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=1
 |Originalseitenvon=99
 |Originalseitenbis=103
 |Lemma=Eitting, Pfarrkirche St. Georg

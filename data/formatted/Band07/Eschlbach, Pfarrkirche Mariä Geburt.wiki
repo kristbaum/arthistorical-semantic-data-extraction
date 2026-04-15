@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=4
 |Originalseitenvon=104
 |Originalseitenbis=106
 |Lemma=Eschlbach, Pfarrkirche Mariä Geburt

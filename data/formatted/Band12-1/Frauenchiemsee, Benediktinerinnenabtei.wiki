@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=154
 |Originalseitenbis=155
 |Lemma=Frauenchiemsee, Benediktinerinnenabtei

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=248
 |Originalseitenbis=251
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Bibliothek

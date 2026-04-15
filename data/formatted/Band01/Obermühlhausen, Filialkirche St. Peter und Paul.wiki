@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=15
 |Originalseitenvon=178
 |Originalseitenbis=178
 |Lemma=Obermühlhausen, Filialkirche St. Peter und Paul

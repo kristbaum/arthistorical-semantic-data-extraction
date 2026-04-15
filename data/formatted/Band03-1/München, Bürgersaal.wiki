@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=196
 |Originalseitenbis=208
 |Lemma=München, Bürgersaal

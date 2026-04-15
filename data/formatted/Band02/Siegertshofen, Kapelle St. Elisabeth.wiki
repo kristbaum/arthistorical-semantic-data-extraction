@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=4
 |Originalseitenvon=255
 |Originalseitenbis=255
 |Lemma=Siegertshofen, Kapelle St. Elisabeth

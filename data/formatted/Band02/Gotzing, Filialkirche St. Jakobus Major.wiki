@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=3
 |Originalseitenvon=503
 |Originalseitenbis=508
 |Lemma=Gotzing, Filialkirche St. Jakobus Major

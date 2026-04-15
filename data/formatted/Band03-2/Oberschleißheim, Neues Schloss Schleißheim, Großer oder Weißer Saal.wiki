@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=7
 |Originalseitenvon=510
 |Originalseitenbis=514
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Großer oder Weißer Saal

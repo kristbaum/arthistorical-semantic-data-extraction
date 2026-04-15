@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=24
 |Originalseitenvon=594
 |Originalseitenbis=596
 |Lemma=Tegernsee, ehem. Benediktinerabtei, Psallierchor

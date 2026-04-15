@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=13
 |Originalseitenvon=326
 |Originalseitenbis=326
 |Lemma=Hadorf, Filialkirche St. Johann Baptist

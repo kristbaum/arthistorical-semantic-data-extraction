@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=13
 |Originalseitenvon=523
 |Originalseitenbis=524
 |Lemma=Schongau, Kapelle Hl. Kreuz

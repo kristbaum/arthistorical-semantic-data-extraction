@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=7
 |Originalseitenvon=61
 |Originalseitenbis=64
 |Lemma=Attel am Inn, ehem. Benediktinerabtei

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=478
 |Originalseitenbis=479
 |Lemma=Schonstett, Pfarrkirche St. Johannes der Täufer

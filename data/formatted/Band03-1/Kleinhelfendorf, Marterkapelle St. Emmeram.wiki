@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=134
 |Originalseitenbis=136
 |Lemma=Kleinhelfendorf, Marterkapelle St. Emmeram

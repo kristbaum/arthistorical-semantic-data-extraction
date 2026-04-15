@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=169
 |Lemma=Götting, Pfarrkirche St. Michael

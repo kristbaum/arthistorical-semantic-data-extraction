@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=1
 |Originalseitenvon=598
 |Originalseitenbis=601
 |Lemma=Tegernsee, ehem. Benediktinerabtei, ehem. Rekreationssaal

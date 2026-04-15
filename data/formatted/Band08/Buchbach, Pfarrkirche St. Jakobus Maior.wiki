@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=78
 |Lemma=Buchbach, Pfarrkirche St. Jakobus Maior

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=24
 |Originalseitenvon=95
 |Originalseitenbis=100
 |Lemma=Heinrichshofen, Filialkirche St. Andreas

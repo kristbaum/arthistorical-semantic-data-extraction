@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=13
 |Originalseitenvon=274
 |Originalseitenbis=274
 |Lemma=Unterweilbach, Schloßkapelle St. Martin

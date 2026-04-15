@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=12
 |Originalseitenvon=570
 |Originalseitenbis=572
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Zimmer im Gästetrakt

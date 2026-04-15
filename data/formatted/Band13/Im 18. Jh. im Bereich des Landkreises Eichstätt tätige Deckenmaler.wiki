@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=2
 |Originalseitenvon=451
 |Originalseitenbis=455
 |Lemma=Im 18. Jh. im Bereich des Landkreises Eichstätt tätige Deckenmaler

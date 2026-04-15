@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=4
 |Originalseitenvon=155
 |Originalseitenbis=156
 |Lemma=Landsberg am Lech, ehem. Ursulinenkloster, Stiegenhaus

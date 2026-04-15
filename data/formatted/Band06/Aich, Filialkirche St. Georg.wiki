@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=29
 |Lemma=Aich, Filialkirche St. Georg

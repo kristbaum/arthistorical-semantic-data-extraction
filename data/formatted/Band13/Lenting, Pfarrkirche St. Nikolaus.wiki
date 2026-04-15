@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=15
 |Originalseitenvon=327
 |Originalseitenbis=342
 |Lemma=Lenting, Pfarrkirche St. Nikolaus

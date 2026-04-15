@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=229
 |Originalseitenbis=229
 |Lemma=Schwabhausen, Kapelle St. Leonhard

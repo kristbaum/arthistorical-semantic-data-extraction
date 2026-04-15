@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=13
 |Originalseitenvon=222
 |Originalseitenbis=224
 |Lemma=Giggenhausen, Filialkirche St. Stephan

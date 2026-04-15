@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=18
 |Originalseitenvon=433
 |Originalseitenbis=441
 |Lemma=Unterammergau, Pfarrkirche St. Nikolaus

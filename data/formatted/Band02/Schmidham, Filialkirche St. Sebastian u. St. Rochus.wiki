@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=8
 |Originalseitenvon=562
 |Originalseitenbis=563
 |Lemma=Schmidham, Filialkirche St. Sebastian u. St. Rochus

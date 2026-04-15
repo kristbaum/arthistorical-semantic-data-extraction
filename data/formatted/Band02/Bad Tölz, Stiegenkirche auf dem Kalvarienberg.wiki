@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=18
 |Originalseitenvon=33
 |Originalseitenbis=35
 |Lemma=Bad Tölz, Stiegenkirche auf dem Kalvarienberg

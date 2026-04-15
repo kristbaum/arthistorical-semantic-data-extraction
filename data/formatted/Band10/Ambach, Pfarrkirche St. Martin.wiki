@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=9
 |Originalseitenvon=17
 |Originalseitenbis=18
 |Lemma=Ambach, Pfarrkirche St. Martin

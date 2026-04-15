@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=13
 |Originalseitenvon=23
 |Originalseitenbis=26
 |Lemma=Ampfing, Friedhofskapelle Schmerzhafte Mutter Gottes

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=18
 |Originalseitenvon=132
 |Originalseitenbis=137
 |Lemma=München, Residenz, Ehemalige Appartements im sog. Charlottentrakt

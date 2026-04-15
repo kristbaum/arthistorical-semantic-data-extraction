@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=2
 |Originalseitenvon=354
 |Originalseitenbis=354
 |Lemma=München, Schlosanlage Nymphenburg

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=16
 |Originalseitenvon=428
 |Originalseitenbis=430
 |Lemma=Oberschleißheim, Altes Schloss Schleißheim

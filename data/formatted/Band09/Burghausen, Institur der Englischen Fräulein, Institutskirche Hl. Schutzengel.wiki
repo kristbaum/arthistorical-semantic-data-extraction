@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=12
 |Originalseitenvon=70
 |Originalseitenbis=74
 |Lemma=Burghausen, Institur der Englischen Fräulein, Institutskirche Hl. Schutzengel

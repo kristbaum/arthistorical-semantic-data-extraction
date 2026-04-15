@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=13
 |Originalseitenvon=23
 |Originalseitenbis=24
 |Lemma=Beuerbach (Weil), Kapelle im Holz Maria Eich

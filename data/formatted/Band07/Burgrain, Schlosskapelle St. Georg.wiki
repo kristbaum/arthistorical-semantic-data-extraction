@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=80
 |Originalseitenbis=84
 |Lemma=Burgrain, Schlosskapelle St. Georg

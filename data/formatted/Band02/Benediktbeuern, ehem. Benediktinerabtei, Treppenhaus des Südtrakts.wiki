@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=2
 |Originalseitenvon=100
 |Originalseitenbis=102
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Treppenhaus des Südtrakts

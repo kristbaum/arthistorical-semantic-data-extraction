@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=17
 |Originalseitenvon=129
 |Originalseitenbis=132
 |Lemma=Schedling, ehem. Schlosskapelle St. Joseph

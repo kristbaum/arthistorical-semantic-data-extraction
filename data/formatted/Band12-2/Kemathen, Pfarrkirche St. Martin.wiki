@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=6
 |Originalseitenvon=308
 |Originalseitenbis=309
 |Lemma=Kemathen, Pfarrkirche St. Martin

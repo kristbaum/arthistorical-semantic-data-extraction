@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=9
 |Originalseitenvon=415
 |Originalseitenbis=418
 |Lemma=Iffeldorf, Pfarrkirche Hll. Vitus und Margareta

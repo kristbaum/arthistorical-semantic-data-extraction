@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=229
 |Originalseitenbis=230
 |Lemma=Günzenhausen, Filialkirche St. Laurentius

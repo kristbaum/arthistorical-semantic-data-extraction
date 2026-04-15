@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=13
 |Originalseitenvon=322
 |Originalseitenbis=325
 |Lemma=Grünsink, Filial- und Wallfahrtskirche Mariahilf

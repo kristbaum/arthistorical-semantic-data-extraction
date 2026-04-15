@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=198
 |Lemma=Prittriching, Pfarrkirche St. Peter und Paul

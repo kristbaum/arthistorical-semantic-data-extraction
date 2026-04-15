@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=25
 |Originalseitenvon=497
 |Originalseitenbis=502
 |Lemma=Umrathshausen, Filialkirche Heilig Blut

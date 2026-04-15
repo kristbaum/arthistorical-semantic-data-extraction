@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=232
 |Originalseitenbis=237
 |Lemma=Höglwörth, ehem. Winterchor des ehem. Augustiner-Chorherrenstifts

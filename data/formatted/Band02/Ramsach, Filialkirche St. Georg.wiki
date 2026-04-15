@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=25
 |Originalseitenvon=397
 |Originalseitenbis=400
 |Lemma=Ramsach, Filialkirche St. Georg

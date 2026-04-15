@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=83
 |Originalseitenbis=90
 |Lemma=Kay, Pfarrkirche St. Martin

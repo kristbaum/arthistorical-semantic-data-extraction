@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=11
 |Originalseitenvon=419
 |Originalseitenbis=421
 |Lemma=Iffeldorf, Heuwinklkapelle

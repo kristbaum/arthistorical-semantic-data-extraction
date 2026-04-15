@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=3
 |Originalseitenvon=503
 |Originalseitenbis=518
 |Lemma=Wasserburg am Inn, Frauenkirche

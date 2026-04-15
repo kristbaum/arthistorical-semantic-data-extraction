@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=21
 |Originalseitenvon=488
 |Originalseitenbis=493
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Salle des Colonnes

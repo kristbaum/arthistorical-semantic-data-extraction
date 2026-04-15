@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=180
 |Originalseitenbis=181
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Raum in der Abtswohnung

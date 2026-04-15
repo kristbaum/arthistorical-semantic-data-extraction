@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=13
 |Originalseitenvon=73
 |Originalseitenbis=78
 |Lemma=München-Bogenhausen, Filialkirche St. Georg

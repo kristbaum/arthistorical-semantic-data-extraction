@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=6
 |Originalseitenvon=263
 |Originalseitenbis=263
 |Lemma=München, Bibliothek des Klosters der Augustiner-Eremiten

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=5
 |Originalseitenvon=506
 |Originalseitenbis=507
 |Lemma=St. Johannisrain, Filialkirche St. Johannes Baptist und Evangelist

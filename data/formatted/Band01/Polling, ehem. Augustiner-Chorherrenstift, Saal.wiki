@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=11
 |Originalseitenvon=468
 |Originalseitenbis=469
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Saal

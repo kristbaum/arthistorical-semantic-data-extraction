@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=4
 |Originalseitenvon=355
 |Originalseitenbis=357
 |Lemma=Krün, Kuratiekirche St. Sebastian

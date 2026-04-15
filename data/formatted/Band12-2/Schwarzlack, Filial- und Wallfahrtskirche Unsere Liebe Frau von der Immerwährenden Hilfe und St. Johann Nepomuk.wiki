@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=480
 |Originalseitenbis=487
 |Lemma=Schwarzlack, Filial- und Wallfahrtskirche Unsere Liebe Frau von der Immerwährenden Hilfe und St. Johann Nepomuk

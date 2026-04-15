@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=11
 |Originalseitenvon=69
 |Originalseitenbis=75
 |Lemma=Dörndorf, Pfarrkirche St. Sixtus

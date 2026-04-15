@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=23
 |Originalseitenvon=343
 |Originalseitenbis=344
 |Lemma=Leonhardspfunzen, Wallfahrtskirche St. Leonhard

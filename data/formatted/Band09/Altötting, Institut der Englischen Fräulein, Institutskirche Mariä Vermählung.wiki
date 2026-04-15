@@ -1,13 +1,13 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=13
 |Originalseitenvon=23
 |Originalseitenbis=28
 |Lemma=Altötting, Institut der Englischen Fräulein, Institutskirche Mariä Vermählung
 |Typ=Sakral
 |Ort=Altötting
-|davor=
+|davor=Altötting, Ehem. Jesuitenkolleg, Kongregationssaal
 |danach=Alzgern, Pfarrkirche Mariä Himmelfahrt
 |AutorIn1=Böhm, Cordula
 }}

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=3
 |Originalseitenvon=602
 |Originalseitenbis=623
 |Lemma=Wies bei Steingaden, Wallfahrtskirche Wies, St. Joseph

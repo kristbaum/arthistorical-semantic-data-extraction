@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=14
 |Originalseitenvon=25
 |Originalseitenbis=27
 |Lemma=Bad Tölz, Wallfahrtskirche Maria Hilf

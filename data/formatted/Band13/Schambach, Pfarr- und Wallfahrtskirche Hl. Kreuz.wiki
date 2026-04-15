@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=14
 |Originalseitenvon=425
 |Originalseitenbis=436
 |Lemma=Schambach, Pfarr- und Wallfahrtskirche Hl. Kreuz

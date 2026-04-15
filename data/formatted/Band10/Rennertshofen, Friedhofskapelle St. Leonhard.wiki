@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=3
 |Originalseitenvon=255
 |Originalseitenbis=256
 |Lemma=Rennertshofen, Friedhofskapelle St. Leonhard

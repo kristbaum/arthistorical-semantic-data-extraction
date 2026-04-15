@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=10
 |Originalseitenvon=216
 |Originalseitenbis=218
 |Lemma=München, Residenz, Galerie mit Kabinett der Kurfürstin Henriette Adelaide vor 1667

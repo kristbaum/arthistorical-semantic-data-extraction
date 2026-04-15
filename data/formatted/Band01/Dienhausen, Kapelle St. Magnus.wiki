@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=20
 |Originalseitenvon=37
 |Originalseitenbis=37
 |Lemma=Dienhausen, Kapelle St. Magnus

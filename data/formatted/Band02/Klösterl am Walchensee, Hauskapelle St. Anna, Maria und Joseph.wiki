@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=24
 |Originalseitenvon=195
 |Originalseitenbis=198
 |Lemma=Klösterl am Walchensee, Hauskapelle St. Anna, Maria und Joseph

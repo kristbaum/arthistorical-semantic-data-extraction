@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=276
 |Originalseitenbis=279
 |Lemma=Sehensand, Firedhofskapelle St. Stephanus

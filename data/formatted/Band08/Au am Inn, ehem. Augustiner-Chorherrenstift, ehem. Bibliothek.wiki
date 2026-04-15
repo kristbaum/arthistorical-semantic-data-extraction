@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=6
 |Originalseitenvon=59
 |Originalseitenbis=63
 |Lemma=Au am Inn, ehem. Augustiner-Chorherrenstift, ehem. Bibliothek

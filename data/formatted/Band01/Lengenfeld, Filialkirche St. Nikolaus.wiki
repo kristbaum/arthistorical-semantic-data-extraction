@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=9
 |Originalseitenvon=164
 |Originalseitenbis=166
 |Lemma=Lengenfeld, Filialkirche St. Nikolaus

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=462
 |Originalseitenbis=466
 |Lemma=Sachrang, Pfarrkirche St. Michael

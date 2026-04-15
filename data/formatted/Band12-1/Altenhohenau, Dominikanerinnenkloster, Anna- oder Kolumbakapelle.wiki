@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=2
 |Originalseitenvon=51
 |Originalseitenbis=55
 |Lemma=Altenhohenau, Dominikanerinnenkloster, Anna- oder Kolumbakapelle

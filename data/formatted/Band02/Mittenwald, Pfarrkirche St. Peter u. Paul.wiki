@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=6
 |Originalseitenvon=358
 |Originalseitenbis=370
 |Lemma=Mittenwald, Pfarrkirche St. Peter u. Paul

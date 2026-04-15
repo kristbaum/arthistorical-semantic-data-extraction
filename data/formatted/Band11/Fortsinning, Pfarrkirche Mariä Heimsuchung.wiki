@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=20
 |Originalseitenvon=337
 |Originalseitenbis=342
 |Lemma=Fortsinning, Pfarrkirche Mariä Heimsuchung

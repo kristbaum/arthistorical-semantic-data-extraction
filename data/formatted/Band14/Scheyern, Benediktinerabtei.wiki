@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=22
 |Originalseitenvon=241
 |Originalseitenbis=250
 |Lemma=Scheyern, Benediktinerabtei

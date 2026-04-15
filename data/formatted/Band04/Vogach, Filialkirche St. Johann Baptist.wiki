@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=264
 |Originalseitenbis=265
 |Lemma=Vogach, Filialkirche St. Johann Baptist

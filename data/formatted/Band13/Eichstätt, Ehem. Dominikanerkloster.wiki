@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=7
 |Originalseitenvon=111
 |Originalseitenbis=117
 |Lemma=Eichstätt, Ehem. Dominikanerkloster

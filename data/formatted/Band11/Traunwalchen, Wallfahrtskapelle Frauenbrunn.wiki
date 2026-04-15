@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=21
 |Originalseitenvon=188
 |Originalseitenbis=189
 |Lemma=Traunwalchen, Wallfahrtskapelle Frauenbrunn

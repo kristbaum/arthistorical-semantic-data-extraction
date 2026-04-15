@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=22
 |Originalseitenvon=191
 |Originalseitenbis=199
 |Lemma=Herrenchiemsee, Ehem. Augustiner-Chorherrenstift, ehem. Stiftskirche

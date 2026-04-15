@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=274
 |Originalseitenbis=279
 |Lemma=Zell, Kapelle St. Sebastian

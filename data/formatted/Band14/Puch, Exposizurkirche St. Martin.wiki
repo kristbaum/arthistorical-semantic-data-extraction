@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=230
 |Originalseitenbis=236
 |Lemma=Puch, Exposizurkirche St. Martin

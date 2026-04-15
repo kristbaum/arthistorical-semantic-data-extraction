@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=265
 |Originalseitenbis=265
 |Lemma=Wegscheid, Pestkapelle St. Anton

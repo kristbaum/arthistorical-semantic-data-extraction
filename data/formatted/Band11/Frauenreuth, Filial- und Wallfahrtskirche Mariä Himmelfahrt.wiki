@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=343
 |Originalseitenbis=346
 |Lemma=Frauenreuth, Filial- und Wallfahrtskirche Mariä Himmelfahrt

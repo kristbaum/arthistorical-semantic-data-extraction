@@ -1,7 +1,7 @@
 {{Artikel
 |Band=311
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=8
 |Originalseitenvon=62
 |Originalseitenbis=63
 |Lemma=München-Baumkirchen, Pfarrkirche St. Stephan

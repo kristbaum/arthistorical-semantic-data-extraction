@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=1
 |Originalseitenvon=199
 |Originalseitenbis=201
 |Lemma=Reichling, Pfarrkirche St. Nikolaus

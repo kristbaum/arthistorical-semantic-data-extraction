@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=2
 |Originalseitenvon=600
 |Originalseitenbis=601
 |Lemma=Wies bei Steingaden, Wieskapelle

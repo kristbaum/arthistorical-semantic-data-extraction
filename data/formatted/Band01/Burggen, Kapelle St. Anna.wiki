@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=25
 |Originalseitenvon=397
 |Originalseitenbis=402
 |Lemma=Burggen, Kapelle St. Anna

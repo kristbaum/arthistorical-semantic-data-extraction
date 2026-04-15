@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=2
 |Originalseitenvon=400
 |Originalseitenbis=410
 |Lemma=Prien am Chiemsee, Pfarrkirche Mariä Himmelfahrt

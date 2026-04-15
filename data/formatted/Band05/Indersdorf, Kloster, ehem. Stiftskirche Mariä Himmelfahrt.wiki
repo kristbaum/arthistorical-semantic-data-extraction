@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=1
 |Originalseitenvon=98
 |Originalseitenbis=131
 |Lemma=Indersdorf, Kloster, ehem. Stiftskirche Mariä Himmelfahrt

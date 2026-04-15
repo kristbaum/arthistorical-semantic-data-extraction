@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=17
 |Originalseitenvon=130
 |Originalseitenbis=133
 |Lemma=Hecken, Filialkirche St. Margareta

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=23
 |Originalseitenvon=542
 |Originalseitenbis=545
 |Lemma=Parsberg, Pfarrkirche St. Laurentius

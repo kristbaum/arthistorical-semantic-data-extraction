@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=4
 |Originalseitenvon=54
 |Originalseitenbis=58
 |Lemma=Blainthal, Filialkirche St. Ulrich

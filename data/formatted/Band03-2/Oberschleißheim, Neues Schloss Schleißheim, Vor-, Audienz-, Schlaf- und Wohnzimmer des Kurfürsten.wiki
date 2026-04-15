@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=14
 |Originalseitenvon=525
 |Originalseitenbis=534
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Vor-, Audienz-, Schlaf- und Wohnzimmer des Kurfürsten

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=5
 |Originalseitenvon=207
 |Originalseitenbis=213
 |Lemma=Ettenberg, Wallfahrtskirche Maria Ettenberg

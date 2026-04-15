@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=19
 |Originalseitenvon=484
 |Originalseitenbis=487
 |Lemma=Oberschleißheim, Schloss Lustheim, Sog. Schöner Stall

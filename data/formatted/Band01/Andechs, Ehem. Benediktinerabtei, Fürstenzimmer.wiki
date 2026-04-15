@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=6
 |Originalseitenvon=309
 |Originalseitenbis=311
 |Lemma=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer

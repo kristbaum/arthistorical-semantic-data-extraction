@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=23
 |Originalseitenvon=294
 |Originalseitenbis=295
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Vestibül

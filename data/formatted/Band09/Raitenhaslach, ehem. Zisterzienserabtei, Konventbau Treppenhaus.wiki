@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=206
 |Originalseitenbis=207
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Konventbau Treppenhaus

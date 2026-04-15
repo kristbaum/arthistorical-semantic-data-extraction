@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=21
 |Originalseitenvon=338
 |Originalseitenbis=340
 |Lemma=Perchting, Pfarrkirche Mariä Heimsuchung

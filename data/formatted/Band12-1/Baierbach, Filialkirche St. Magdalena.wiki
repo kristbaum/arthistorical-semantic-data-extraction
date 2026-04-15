@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=86
 |Originalseitenbis=89
 |Lemma=Baierbach, Filialkirche St. Magdalena

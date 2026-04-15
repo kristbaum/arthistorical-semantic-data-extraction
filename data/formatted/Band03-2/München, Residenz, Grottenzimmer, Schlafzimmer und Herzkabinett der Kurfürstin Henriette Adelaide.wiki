@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=233
 |Originalseitenbis=249
 |Lemma=München, Residenz, Grottenzimmer, Schlafzimmer und Herzkabinett der Kurfürstin Henriette Adelaide

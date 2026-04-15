@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=20
 |Originalseitenvon=86
 |Originalseitenbis=88
 |Lemma=München-Lochhausen, Pfarrkirche St. Michael

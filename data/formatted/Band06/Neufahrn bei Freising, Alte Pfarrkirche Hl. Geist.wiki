@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=12
 |Originalseitenvon=271
 |Originalseitenbis=279
 |Lemma=Neufahrn bei Freising, Alte Pfarrkirche Hl. Geist

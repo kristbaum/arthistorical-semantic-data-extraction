@@ -1,13 +1,13 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=16
 |Originalseitenvon=29
 |Originalseitenbis=37
 |Lemma=Alzgern, Pfarrkirche Mariä Himmelfahrt
 |Typ=Sakral
 |Ort=Alzgern
-|davor=Altötting, Ehem. Jesuitenkolleg, Kirche St. Magdalena
+|davor=Altötting, Institut der Englischen Fräulein, Institutskirche Mariä Vermählung
 |danach=Alzgern, ehem. Beinhaus
 |AutorIn1=Böhm, Cordula
 }}

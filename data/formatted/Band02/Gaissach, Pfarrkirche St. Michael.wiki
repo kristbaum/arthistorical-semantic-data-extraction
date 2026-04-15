@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=15
 |Originalseitenvon=176
 |Originalseitenbis=180
 |Lemma=Gaissach, Pfarrkirche St. Michael

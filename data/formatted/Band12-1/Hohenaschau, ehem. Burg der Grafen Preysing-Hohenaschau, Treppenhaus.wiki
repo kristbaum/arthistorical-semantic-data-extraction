@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=2
 |Originalseitenvon=302
 |Originalseitenbis=303
 |Lemma=Hohenaschau, ehem. Burg der Grafen Preysing-Hohenaschau, Treppenhaus

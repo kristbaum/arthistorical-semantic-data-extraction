@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=4
 |Originalseitenvon=204
 |Originalseitenbis=208
 |Lemma=Oberneukirchen, Pfarrkirche St. Margareta

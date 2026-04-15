@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=11
 |Originalseitenvon=218
 |Originalseitenbis=220
 |Lemma=Polling, Kuratiekirche Mariä Heimsuchung

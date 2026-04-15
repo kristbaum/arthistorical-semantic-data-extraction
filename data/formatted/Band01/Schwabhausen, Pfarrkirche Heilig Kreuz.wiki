@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=224
 |Originalseitenbis=228
 |Lemma=Schwabhausen, Pfarrkirche Heilig Kreuz

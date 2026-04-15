@@ -1,11 +1,11 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=13
+|Chunkseite=17
 |Originalseitenvon=630
 |Originalseitenbis=641
 |Lemma=Ikonographisches Register (Band 1)
-|davor=Ortsregister (Band 1)
+|davor=Personenregister (Band 1)
 |danach=Embleme-Register (Band 1)
 }}
 

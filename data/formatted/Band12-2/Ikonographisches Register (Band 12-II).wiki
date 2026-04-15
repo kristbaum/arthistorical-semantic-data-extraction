@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=16
 |Originalseitenvon=579
 |Originalseitenbis=592
 |Lemma=Ikonographisches Register (Band 12-II)

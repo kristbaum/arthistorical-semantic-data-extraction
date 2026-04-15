@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=23
 |Originalseitenvon=242
 |Originalseitenbis=245
 |Lemma=Im 18. Jh. im Bereich des Landkreises Altötting tätige Maler

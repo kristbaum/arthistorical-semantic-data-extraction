@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=9
 |Originalseitenvon=264
 |Originalseitenbis=268
 |Lemma=Waal, Filialkirche Mariä Himmelfahrt

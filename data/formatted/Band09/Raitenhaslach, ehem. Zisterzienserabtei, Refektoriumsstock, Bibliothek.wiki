@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=7
 |Originalseitenvon=213
 |Originalseitenbis=213
 |Lemma=Raitenhaslach, ehem. Zisterzienserabtei, Refektoriumsstock, Bibliothek

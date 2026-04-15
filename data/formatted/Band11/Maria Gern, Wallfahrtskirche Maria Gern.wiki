@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=24
 |Originalseitenvon=245
 |Originalseitenbis=256
 |Lemma=Maria Gern, Wallfahrtskirche Maria Gern

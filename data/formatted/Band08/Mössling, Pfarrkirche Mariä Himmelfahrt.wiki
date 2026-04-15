@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=5
 |Originalseitenvon=157
 |Originalseitenbis=159
 |Lemma=Mössling, Pfarrkirche Mariä Himmelfahrt

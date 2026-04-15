@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=5
 |Originalseitenvon=257
 |Originalseitenbis=260
 |Lemma=Salmanskirchen, Filialkirche St. Johannes Evangelist und St. Johannes Baptist

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=25
 |Originalseitenvon=450
 |Originalseitenbis=450
 |Lemma=Polling, ehem. Augustiner-Chorherrenstift, Stiftkirche

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=17
 |Originalseitenvon=131
 |Originalseitenbis=133
 |Lemma=Hohenschäftlarn, Pfarrkirche St. Georg

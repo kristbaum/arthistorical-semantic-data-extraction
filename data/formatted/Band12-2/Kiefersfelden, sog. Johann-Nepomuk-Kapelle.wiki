@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=7
 |Originalseitenvon=310
 |Originalseitenbis=312
 |Lemma=Kiefersfelden, sog. Johann-Nepomuk-Kapelle

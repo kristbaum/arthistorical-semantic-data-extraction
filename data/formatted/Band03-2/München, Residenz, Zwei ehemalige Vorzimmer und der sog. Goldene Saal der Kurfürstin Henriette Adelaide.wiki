@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=12
 |Originalseitenvon=220
 |Originalseitenbis=233
 |Lemma=München, Residenz, Zwei ehemalige Vorzimmer und der sog. Goldene Saal der Kurfürstin Henriette Adelaide

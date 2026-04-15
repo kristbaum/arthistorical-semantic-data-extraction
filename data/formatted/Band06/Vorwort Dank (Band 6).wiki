@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=4
 |Originalseitenvon=6
 |Originalseitenbis=7
 |Lemma=Vorwort Dank (Band 6)

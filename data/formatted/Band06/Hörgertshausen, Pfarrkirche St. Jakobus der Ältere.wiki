@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=23
 |Originalseitenvon=242
 |Originalseitenbis=260
 |Lemma=Hörgertshausen, Pfarrkirche St. Jakobus der Ältere

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=221
 |Lemma=Fürholzen, Pfarrkirche St. Stephanus

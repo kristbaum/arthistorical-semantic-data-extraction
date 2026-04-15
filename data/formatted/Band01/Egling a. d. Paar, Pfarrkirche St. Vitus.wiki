@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=4
 |Originalseitenvon=54
 |Originalseitenbis=62
 |Lemma=Egling a. d. Paar, Pfarrkirche St. Vitus

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=17
 |Originalseitenvon=530
 |Originalseitenbis=531
 |Lemma=Sindelsdorf, Pfarrkirche St. Georg

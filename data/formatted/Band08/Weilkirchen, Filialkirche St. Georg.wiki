@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=286
 |Originalseitenbis=293
 |Lemma=Weilkirchen, Filialkirche St. Georg

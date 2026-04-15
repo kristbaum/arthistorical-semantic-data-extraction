@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=14
 |Originalseitenvon=224
 |Originalseitenbis=230
 |Lemma=München, Ehem. Spitalkirche Hl. Geist

@@ -1,13 +1,13 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=5
 |Originalseitenvon=308
 |Originalseitenbis=309
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
 |Typ=Sakral
 |Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|davor=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
 |danach=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=165
 |Lemma=Günzlhofen, Pfarrkirche St. Margareta

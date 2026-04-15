@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=13
 |Originalseitenvon=424
 |Originalseitenbis=424
 |Lemma=München, Schloss Nymphenburg, Drei ehemalige Kabinette im Hauptschloß

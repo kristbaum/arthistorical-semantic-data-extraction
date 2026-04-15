@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=12
 |Originalseitenvon=421
 |Originalseitenbis=423
 |Lemma=München, Amalienburg

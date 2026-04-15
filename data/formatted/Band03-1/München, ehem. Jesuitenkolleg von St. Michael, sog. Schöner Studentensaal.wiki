@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=19
 |Originalseitenvon=235
 |Originalseitenbis=240
 |Lemma=München, ehem. Jesuitenkolleg von St. Michael, sog. Schöner Studentensaal

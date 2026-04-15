@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=18
 |Originalseitenbis=32
 |Lemma=München, Residenz

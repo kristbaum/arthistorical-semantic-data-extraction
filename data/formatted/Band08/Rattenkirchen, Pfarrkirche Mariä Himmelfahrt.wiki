@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=18
 |Originalseitenvon=232
 |Originalseitenbis=247
 |Lemma=Rattenkirchen, Pfarrkirche Mariä Himmelfahrt

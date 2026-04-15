@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=9
 |Originalseitenvon=64
 |Originalseitenbis=65
 |Lemma=Grossberghofen, Kuratiekirche St. Georg

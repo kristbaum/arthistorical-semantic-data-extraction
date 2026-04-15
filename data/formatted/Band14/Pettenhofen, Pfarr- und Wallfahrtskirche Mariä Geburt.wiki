@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=6
 |Originalseitenvon=159
 |Originalseitenbis=163
 |Lemma=Pettenhofen, Pfarr- und Wallfahrtskirche Mariä Geburt

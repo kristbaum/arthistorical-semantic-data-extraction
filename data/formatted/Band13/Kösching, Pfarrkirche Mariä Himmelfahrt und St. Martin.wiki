@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=25
 |Originalseitenvon=296
 |Originalseitenbis=306
 |Lemma=Kösching, Pfarrkirche Mariä Himmelfahrt und St. Martin

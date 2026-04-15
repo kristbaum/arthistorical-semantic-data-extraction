@@ -1,7 +1,7 @@
 {{Artikel
 |Band=31
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=264
 |Originalseitenbis=264
 |Lemma=München, Kapelle im ehem. Stadthaus des Klosters Ettal

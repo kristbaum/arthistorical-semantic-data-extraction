@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=11
 |Originalseitenvon=519
 |Originalseitenbis=524
 |Lemma=Oberschleißheim, Neues Schloss Schleißheim, Große Galerie

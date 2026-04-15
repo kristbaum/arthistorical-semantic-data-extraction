@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=8
 |Originalseitenvon=263
 |Originalseitenbis=267
 |Lemma=Högling, Filialkirche St. Martin

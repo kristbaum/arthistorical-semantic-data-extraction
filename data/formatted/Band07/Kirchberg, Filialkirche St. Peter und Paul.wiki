@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=18
 |Originalseitenvon=183
 |Originalseitenbis=186
 |Lemma=Kirchberg, Filialkirche St. Peter und Paul

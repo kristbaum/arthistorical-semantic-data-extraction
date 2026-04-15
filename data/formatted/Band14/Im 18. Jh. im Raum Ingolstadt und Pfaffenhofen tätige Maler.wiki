@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=10
 |Originalseitenvon=268
 |Originalseitenbis=271
 |Lemma=Im 18. Jh. im Raum Ingolstadt und Pfaffenhofen tätige Maler

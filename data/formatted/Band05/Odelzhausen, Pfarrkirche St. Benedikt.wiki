@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=16
 |Originalseitenvon=178
 |Originalseitenbis=188
 |Lemma=Odelzhausen, Pfarrkirche St. Benedikt

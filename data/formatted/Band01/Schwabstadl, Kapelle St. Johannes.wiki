@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=16
 |Originalseitenvon=230
 |Originalseitenbis=230
 |Lemma=Schwabstadl, Kapelle St. Johannes

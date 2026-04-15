@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=275
 |Originalseitenbis=280
 |Lemma=St. Wolfgang, Pfarr- und Wallfahrtskirche St. Wolfgang

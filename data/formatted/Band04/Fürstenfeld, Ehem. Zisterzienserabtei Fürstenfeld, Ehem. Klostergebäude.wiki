@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=8
 |Originalseitenvon=113
 |Originalseitenbis=133
 |Lemma=Fürstenfeld, Ehem. Zisterzienserabtei Fürstenfeld, Ehem. Klostergebäude

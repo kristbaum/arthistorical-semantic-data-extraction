@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=20
 |Originalseitenvon=437
 |Originalseitenbis=440
 |Lemma=Tauberfeld, Filialkirche St. Martin

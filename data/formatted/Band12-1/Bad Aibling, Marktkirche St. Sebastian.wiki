@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=81
 |Originalseitenbis=85
 |Lemma=Bad Aibling, Marktkirche St. Sebastian

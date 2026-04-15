@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=82
 |Originalseitenbis=85
 |Lemma=Greifenberg, Schlosskapelle St. Georg

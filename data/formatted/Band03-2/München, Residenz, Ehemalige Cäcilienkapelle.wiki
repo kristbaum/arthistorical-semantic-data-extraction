@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=24
 |Originalseitenvon=345
 |Originalseitenbis=346
 |Lemma=München, Residenz, Ehemalige Cäcilienkapelle

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=8
 |Originalseitenvon=313
 |Originalseitenbis=316
 |Lemma=Konstein, sog. Apostelkirche St. Ägidius

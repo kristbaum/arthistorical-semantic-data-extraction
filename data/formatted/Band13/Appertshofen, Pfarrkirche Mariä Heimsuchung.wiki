@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=15
 |Originalseitenvon=27
 |Originalseitenbis=35
 |Lemma=Appertshofen, Pfarrkirche Mariä Heimsuchung

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=20
 |Originalseitenvon=383
 |Originalseitenbis=390
 |Lemma=Personenregister (Band 11)

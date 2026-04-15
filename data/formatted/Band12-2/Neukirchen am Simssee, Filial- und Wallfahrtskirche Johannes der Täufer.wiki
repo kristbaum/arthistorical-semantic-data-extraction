@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=7
 |Originalseitenvon=360
 |Originalseitenbis=366
 |Lemma=Neukirchen am Simssee, Filial- und Wallfahrtskirche Johannes der Täufer

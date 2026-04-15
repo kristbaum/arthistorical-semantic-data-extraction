@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=18
 |Originalseitenvon=433
 |Originalseitenbis=436
 |Lemma=Obereglfing, Pfarrkirche St. Mauritius

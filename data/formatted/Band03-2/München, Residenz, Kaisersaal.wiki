@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=15
 |Originalseitenvon=177
 |Originalseitenbis=196
 |Lemma=München, Residenz, Kaisersaal

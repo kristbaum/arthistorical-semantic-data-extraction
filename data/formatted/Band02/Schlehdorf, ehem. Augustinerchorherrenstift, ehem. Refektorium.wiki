@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=2
 |Originalseitenvon=252
 |Originalseitenbis=253
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, ehem. Refektorium

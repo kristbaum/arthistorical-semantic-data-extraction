@@ -1,7 +1,7 @@
 {{Artikel
 |Band=13
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=3
 |Originalseitenvon=351
 |Originalseitenbis=359
 |Lemma=Möckenlohe, Pfarrkirche Mariä Himmelfahrt

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=8
+|Chunkseite=17
 |Originalseitenvon=381
 |Originalseitenbis=387
 |Lemma=Bernbeuren, Pfarrkirche St. Nikolaus

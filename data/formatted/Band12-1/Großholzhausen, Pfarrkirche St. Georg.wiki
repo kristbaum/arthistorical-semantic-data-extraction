@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=175
 |Originalseitenbis=182
 |Lemma=Großholzhausen, Pfarrkirche St. Georg

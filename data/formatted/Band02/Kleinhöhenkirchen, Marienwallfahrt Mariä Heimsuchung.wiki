@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=10
 |Originalseitenvon=517
 |Originalseitenbis=522
 |Lemma=Kleinhöhenkirchen, Marienwallfahrt Mariä Heimsuchung

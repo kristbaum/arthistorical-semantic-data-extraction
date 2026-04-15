@@ -1,14 +1,14 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=4
 |Originalseitenvon=305
 |Originalseitenbis=305
 |Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
 |Typ=Sakral
 |Ort=Andechs
 |davor=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
-|danach=Andechs, Ehem. Benediktinerabtei, Ehem. Fürstensaal
+|danach=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
 |AutorIn1=Bauer-Wild, Anna
 |AutorIn2=Böhm, Cordula
 |AutorIn3=Lüdicke, Lore
@@ -52,107 +52,6 @@ Literatur siehe S. 316
 
 <!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=4 -->
 <!-- citation-page-top: Band01 p306 -->
-
-<!-- header: ANDECHS -->
-
-<!-- header: ANDECH -->
-
-{{Artikel
-|Band=1
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=306
-|Originalseitenbis=307
-|Lemma=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
-|Typ=Sakral
-|Ort=Andechs
-|davor=Andechs, Ehem. Benediktinerabtei, Törringkapelle
-|danach=Aschering, Filialkirche St. Sebastian
-|AutorIn1=Bauer-Wild, Anna
-|AutorIn2=Böhm, Cordula
-|AutorIn3=Lüdicke, Lore
-|AutorIn4=Werner-Clementschitsch, Heide
-}}
-
-Ehem. Prälatenkapelle, auch Kreuzkapelle
-
-'''Zum Bauwerk:''' Polygonaler, unregelmäßiger Raum im oberen Geschoß, nach NO gerichtet; Durchgangsraum vom oberen Hochaltar zum Konventbau und zum Fürstentrakt
-
-'''Auftraggeber:''' Abt Bernhard Schütz von Andechs (1746–59)
-
-'''Autor und Entstehungszeit:''' Johann Baptist Zimmermann, augenscheinlich unter stärkerer Beteiligung von Gehilfen (vgl. figürliches Detail und Farbdisposition), vor allem bei den Wandfresken.
-
-
-== Befund ==
-
-
-Träger der Deckenmalerei: Flachkuppel über Stichkappen  
-Rahmen: Stuckprofil
-
-Technik: Fresko; polychrom
-
-Maße: Höhe 6,70 m; Ø 3,75 (das Bildfeld ist annähernd kreisförmig)
-
-Erhaltungszustand und Restaurierungen: Restaurierung mit der Kirche 1941. Das Deckenfresko ist verschmutzt und hat Haarrisse. In W<sub>1–5</sub> finden sich auffällig übermalte Partien.
-
-
-== Beschreibung ==
-
-
-HULDIGUNG DER ERDTEILE Einansichtige Szene; Betrachterstandpunkt unter dem südwestlichen Bildrand. Ein dreistufiges, von einer Mauer begrenztes Podest bildet die seichte, bogenförmig nach hinten ausgebuchtete Handlungsbühne. Darauf stehen die Personifikationen Europa und Asia in der Mitte der Szene. Africa und America, auf einem landschaftlichen Terrain, rechts im Vordergrund wiedergegeben, wenden sich von der Seite her der himmlischen Glorie zu. In den Wolken vor einer hellen Himmelsöffnung erscheint die Dreifaltigkeit.
-
-Farblich ist das Bild in zwei Sphären unterschieden: Lichte Farben, Weiß-, Blau- und Grautöne in hellen Abstufungen sind bildbestimmend, fassen den architektonischen und himmlischen Schauplatz anschaulich zusammen und charakterisieren diese Zone als geistlich-himmlisch. Die Erdfarben Braun, Ocker und gebrochenes Grün sowie als buntfarbiger Akzent ein kräftiges Rot im Mantel Africas kennzeichnen das Terrain mit seinen Figuren als weltlich-irdisch. Die einfachen, theatralischen Farbkontraste, Weiß und Dunkelbraun, betonen nicht nur die unterschiedlichen Merkmale der Rassen, sondern zugleich die inhaltlich verschiedene Bewertung der Erdteile. Der europäische Laubbaum und die exotische Palme, wie die verschieden gearteten Accessoires der Personifikationen bezeichnen ebenso effektvoll die Unterschiede. 
-
-
-== Ikonographie ==
-
-
-Die Personifikationen der vier Erdteile huldigen der Hl. Dreifaltigkeit. Europa, auf dem Haupt die Kaiserkrone, in der Hand ein Kreuz, auf ein Kirchenmodell gestützt; auf den Stufen liegen Tiara, Papststab und Buch, weitere Attribute der Europa. Asia mit Turban, Krone und Hennin darüber, in der Hand ein Räuchergefäß. Africa mit Rauchfaß und kronenartigem Kopfputz und America mit Federschmuck und Köcher auf dem Rücken (vgl. die Erdteil-Personifikationen bei Ripa, s. v. mundo).
-
-Das Kirchenmodell ist ein traditionelles Attribut der Personifikation Europa. Hier ist es jedoch nicht Europa attributiv beigegeben, sondern bildet das Zentrum der irdischen Szene. Europa als Sitz der römischen Kirche und Asia als ihr Ursprung und Ausgang sind dem Kirchenmodell unmittelbar zugeordnet. America und Africa, die erst durch die Mission des Glaubens teilhaftig werden, wenden sich aus größerer Distanz der Kirche zu. Die mit den päpstlichen Insignien ausgestattete Rundkirche ist als Sinnbild der Ecclesia, der römischen Kirche anzusehen. Das Kreuz Christi ist dem Kirchenmodell symbolhaft zugeordnet.
-
-W<sub>1–5</sub> PASSIONSSZENEN
-
-W<sub>1</sub> Ölberg, Stärkung durch den Engel (Lc 22,42–43)  
-W<sub>2</sub> Geißelung Jesu (Mt 27,27 u. Par.)  
-W<sub>3</sub> Dornenkrönung und Verspottung Jesu (Mt 27, 28–30)  
-W<sub>4</sub> Ecce Homo, Schaustellung durch Pilatus (Jo 19,5)  
-W<sub>5</sub> Kreuztragung (Mt 27,31 u. Par.), im Sinn der Kreuzwegmeditation mit Fall Jesu, mit Maria Magdalena, Maria und Johannes
-
-Literatur siehe S. 316
-
-
-[[File:Band01_chunk007_p004_img001.jpg|thumb|Huldigung der Erdteile]]
-
-
-W<sub>1</sub>  
-
-
-[[File:Band01_chunk007_p004_img002.jpg|thumb]]  
-
-
-
-[[File:Band01_chunk007_p004_img003.jpg|thumb]]  
-
-
-
-[[File:Band01_chunk007_p004_img004.jpg|thumb]]  
-
-
-
-[[File:Band01_chunk007_p004_img005.jpg|thumb|Trans. / 9]]  
-
-
-
-[[File:Band01_chunk007_p004_img006.jpg|thumb]]  
-
-
-
-[[File:Band01_chunk007_p004_img007.jpg|thumb]]
-<!-- citation-page-bottom: Band01 p307 -->
-
-<!-- dropbox: https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/Band01_chunk007.pdf#page=5 -->
-<!-- citation-page-top: Band01 p308 -->
 
 <!-- header: ANDECHS -->
 

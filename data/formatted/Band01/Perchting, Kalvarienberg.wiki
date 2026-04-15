@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=22
 |Originalseitenvon=341
 |Originalseitenbis=341
 |Lemma=Perchting, Kalvarienberg

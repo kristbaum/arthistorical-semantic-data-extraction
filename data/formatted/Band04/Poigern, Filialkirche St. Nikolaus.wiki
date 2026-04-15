@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=11
 |Originalseitenvon=218
 |Originalseitenbis=222
 |Lemma=Poigern, Filialkirche St. Nikolaus

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=1
 |Originalseitenvon=248
 |Originalseitenbis=251
 |Lemma=Unterigling, Pfarrkirche St. Johann Baptist

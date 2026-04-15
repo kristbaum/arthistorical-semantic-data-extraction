@@ -1,7 +1,7 @@
 {{Artikel
 |Band=121
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=22
 |Originalseitenvon=90
 |Originalseitenbis=101
 |Lemma=Berbling, Pfarrkirche Inventio Crucis

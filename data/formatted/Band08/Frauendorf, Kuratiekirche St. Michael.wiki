@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=21
 |Originalseitenvon=89
 |Originalseitenbis=92
 |Lemma=Frauendorf, Kuratiekirche St. Michael

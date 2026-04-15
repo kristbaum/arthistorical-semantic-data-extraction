@@ -1,7 +1,7 @@
 {{Artikel
 |Band=9
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=8
 |Originalseitenvon=62
 |Originalseitenbis=69
 |Lemma=Burghausen, ehem. Jesuitenkolleg, Kleine Aula

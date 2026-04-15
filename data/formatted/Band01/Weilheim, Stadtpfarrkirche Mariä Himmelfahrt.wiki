@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=3
 |Originalseitenvon=553
 |Originalseitenbis=560
 |Lemma=Weilheim, Stadtpfarrkirche Mariä Himmelfahrt

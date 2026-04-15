@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=17
 |Originalseitenvon=380
 |Originalseitenbis=385
 |Lemma=Niederaschau, Kreuzkapell

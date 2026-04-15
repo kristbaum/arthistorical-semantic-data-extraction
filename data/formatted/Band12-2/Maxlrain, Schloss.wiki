@@ -1,7 +1,7 @@
 {{Artikel
 |Band=122
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=5
 |Originalseitenvon=356
 |Originalseitenbis=359
 |Lemma=Maxlrain, Schloss

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=10
 |Originalseitenvon=566
 |Originalseitenbis=567
 |Lemma=München, Vier nicht lokalisierbare Deckenbilder aus dem Hofbereich

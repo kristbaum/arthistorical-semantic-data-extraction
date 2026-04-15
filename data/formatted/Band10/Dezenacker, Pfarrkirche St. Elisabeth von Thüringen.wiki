@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=85
 |Originalseitenbis=92
 |Lemma=Dezenacker, Pfarrkirche St. Elisabeth von Thüringen

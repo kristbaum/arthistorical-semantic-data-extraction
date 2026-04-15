@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=23
 |Originalseitenvon=343
 |Originalseitenbis=343
 |Lemma=München, Residenz, Prunktreppenhaus

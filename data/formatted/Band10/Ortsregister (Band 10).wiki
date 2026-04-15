@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=21
 |Originalseitenvon=342
 |Originalseitenbis=343
 |Lemma=Ortsregister (Band 10)

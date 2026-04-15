@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=3
 |Originalseitenvon=155
 |Originalseitenbis=160
 |Lemma=Neuburg an der Donau, Stadtpfarrkirche St. Peter

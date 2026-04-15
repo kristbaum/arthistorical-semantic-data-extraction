@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=21
 |Originalseitenvon=288
 |Originalseitenbis=299
 |Lemma=Anzing, ehem. Schlosskapelle Heilig Kreuz

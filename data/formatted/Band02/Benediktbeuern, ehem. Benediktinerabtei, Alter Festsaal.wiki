@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=13
 |Originalseitenvon=73
 |Originalseitenbis=93
 |Lemma=Benediktbeuern, ehem. Benediktinerabtei, Alter Festsaal

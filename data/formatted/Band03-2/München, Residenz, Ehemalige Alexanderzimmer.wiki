@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=275
 |Originalseitenbis=291
 |Lemma=München, Residenz, Ehemalige Alexanderzimmer

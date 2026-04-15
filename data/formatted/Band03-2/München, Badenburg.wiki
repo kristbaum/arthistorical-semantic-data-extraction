@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=7
 |Originalseitenvon=410
 |Originalseitenbis=416
 |Lemma=München, Badenburg

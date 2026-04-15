@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=13
 |Originalseitenvon=573
 |Originalseitenbis=573
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Magdalenenzimmer

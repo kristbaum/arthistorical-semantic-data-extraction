@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=17
 |Originalseitenvon=181
 |Originalseitenbis=182
 |Lemma=Jaibing, Filialkirche Johannes der Täufer

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=13
 |Originalseitenvon=123
 |Originalseitenbis=128
 |Lemma=Ruhpolding, Schlosskapelle im Neuen Schloss

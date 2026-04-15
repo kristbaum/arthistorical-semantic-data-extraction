@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=20
 |Originalseitenvon=237
 |Originalseitenbis=240
 |Lemma=Höglwörth, ehem. Prälatur des ehem. Augustiner-Chorherrenstifts

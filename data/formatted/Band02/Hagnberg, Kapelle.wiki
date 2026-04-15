@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=11
+|Chunkseite=7
 |Originalseitenvon=511
 |Originalseitenbis=512
 |Lemma=Hagnberg, Kapelle

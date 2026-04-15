@@ -1,7 +1,7 @@
 {{Artikel
 |Band=14
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=1
 |Originalseitenvon=49
 |Originalseitenbis=104
 |Lemma=Ingolstadt, Kongregationssaal Maria de Victoria

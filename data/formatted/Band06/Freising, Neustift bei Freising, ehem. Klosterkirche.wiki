@@ -1,7 +1,7 @@
 {{Artikel
 |Band=6
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=14
 |Originalseitenvon=175
 |Originalseitenbis=187
 |Lemma=Freising, Neustift bei Freising, ehem. Klosterkirche

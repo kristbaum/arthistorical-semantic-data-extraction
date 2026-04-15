@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=19
 |Originalseitenvon=85
 |Originalseitenbis=95
 |Lemma=Dorfen, Stadtpfarrkirche und Wallfahrtskirche Maria Dorfen

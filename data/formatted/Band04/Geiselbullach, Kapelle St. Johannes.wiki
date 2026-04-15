@@ -1,7 +1,7 @@
 {{Artikel
 |Band=4
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=19
 |Originalseitenvon=134
 |Originalseitenbis=139
 |Lemma=Geiselbullach, Kapelle St. Johannes

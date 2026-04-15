@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=2
 |Originalseitenvon=101
 |Originalseitenbis=101
 |Lemma=Holzhausen (a. Ammersee), Filialkirche St. Ulrich

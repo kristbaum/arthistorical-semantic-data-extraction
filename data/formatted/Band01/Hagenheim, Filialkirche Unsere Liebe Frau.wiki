@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=18
 |Originalseitenvon=86
 |Originalseitenbis=86
 |Lemma=Hagenheim, Filialkirche Unsere Liebe Frau

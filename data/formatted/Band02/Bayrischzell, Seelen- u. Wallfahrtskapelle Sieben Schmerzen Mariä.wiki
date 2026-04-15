@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=7
 |Originalseitenvon=460
 |Originalseitenbis=462
 |Lemma=Bayrischzell, Seelen- u. Wallfahrtskapelle Sieben Schmerzen Mariä

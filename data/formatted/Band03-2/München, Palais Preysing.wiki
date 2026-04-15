@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=15
 |Originalseitenvon=577
 |Originalseitenbis=578
 |Lemma=München, Palais Preysing

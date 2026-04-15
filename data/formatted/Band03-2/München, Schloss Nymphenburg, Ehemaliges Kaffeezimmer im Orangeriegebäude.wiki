@@ -1,9 +1,9 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
-|Originalseitenvon=424
-|Originalseitenbis=424
+|Chunk=9
+|Chunkseite=14
+|Originalseitenvon=425
+|Originalseitenbis=425
 |Lemma=München, Schloss Nymphenburg, Ehemaliges Kaffeezimmer im Orangeriegebäude
 |Typ=Profan
 |Ort=München

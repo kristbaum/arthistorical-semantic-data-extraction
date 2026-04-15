@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=1
 |Originalseitenvon=549
 |Originalseitenbis=554
 |Lemma=Reichersdorf, Filialkirche St. Leonhard

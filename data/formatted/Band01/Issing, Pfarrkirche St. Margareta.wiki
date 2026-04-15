@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=3
+|Chunkseite=6
 |Originalseitenvon=109
 |Originalseitenbis=113
 |Lemma=Issing, Pfarrkirche St. Margareta

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=10
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=25
 |Originalseitenvon=299
 |Originalseitenbis=305
 |Lemma=Strass, Pfarrkirche Mariä Himmelfahrt

@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=1
 |Originalseitenvon=202
 |Originalseitenbis=204
 |Lemma=Reisch, Filialkirche Mariä Himmelfahrt

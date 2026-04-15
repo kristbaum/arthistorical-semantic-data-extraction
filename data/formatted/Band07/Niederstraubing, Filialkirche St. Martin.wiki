@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=17
 |Originalseitenvon=231
 |Originalseitenbis=235
 |Lemma=Niederstraubing, Filialkirche St. Martin

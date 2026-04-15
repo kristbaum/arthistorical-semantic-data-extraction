@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=20
 |Originalseitenvon=437
 |Originalseitenbis=438
 |Lemma=Oberhausen, Filialkirche St. Mauritius

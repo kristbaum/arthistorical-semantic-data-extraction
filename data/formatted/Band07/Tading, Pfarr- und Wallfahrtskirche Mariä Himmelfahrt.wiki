@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=25
 |Originalseitenvon=296
 |Originalseitenbis=301
 |Lemma=Tading, Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

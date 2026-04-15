@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=9
 |Originalseitenvon=214
 |Originalseitenbis=216
 |Lemma=Hintersee, Kapelle St. Antonius von Padua

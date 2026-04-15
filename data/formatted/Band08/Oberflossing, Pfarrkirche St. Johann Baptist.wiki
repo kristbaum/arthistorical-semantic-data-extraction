@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=24
 |Originalseitenvon=195
 |Originalseitenbis=203
 |Lemma=Oberflossing, Pfarrkirche St. Johann Baptist

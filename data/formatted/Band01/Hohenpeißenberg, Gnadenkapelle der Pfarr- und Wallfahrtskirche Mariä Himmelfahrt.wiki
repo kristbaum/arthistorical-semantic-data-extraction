@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=7
 |Originalseitenvon=410
 |Originalseitenbis=414
 |Lemma=Hohenpeißenberg, Gnadenkapelle der Pfarr- und Wallfahrtskirche Mariä Himmelfahrt

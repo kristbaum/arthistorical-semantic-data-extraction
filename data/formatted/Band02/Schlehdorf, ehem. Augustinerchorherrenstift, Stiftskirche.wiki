@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=5
+|Chunkseite=21
 |Originalseitenvon=239
 |Originalseitenbis=245
 |Lemma=Schlehdorf, ehem. Augustinerchorherrenstift, Stiftskirche

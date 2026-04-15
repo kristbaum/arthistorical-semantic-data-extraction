@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=1
+|Chunkseite=11
 |Originalseitenvon=19
 |Originalseitenbis=23
 |Lemma=Ainhofen, Filial- und Wallfahrtskirche Mariä Empfängnis

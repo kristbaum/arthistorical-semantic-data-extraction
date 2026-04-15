@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=8
 |Originalseitenvon=162
 |Originalseitenbis=163
 |Lemma=Leeder, Pfarrkirche Mariä Verkündigung

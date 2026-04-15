@@ -1,7 +1,7 @@
 {{Artikel
 |Band=8
-|Chunk=
-|Chunkseite=
+|Chunk=6
+|Chunkseite=14
 |Originalseitenvon=274
 |Originalseitenbis=283
 |Lemma=Walkersaich, Kuratiekirche Mriä Himmelfahrt

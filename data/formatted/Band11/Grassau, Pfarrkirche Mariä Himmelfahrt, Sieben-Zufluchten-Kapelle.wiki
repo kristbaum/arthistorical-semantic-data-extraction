@@ -1,7 +1,7 @@
 {{Artikel
 |Band=11
-|Chunk=
-|Chunkseite=
+|Chunk=2
+|Chunkseite=15
 |Originalseitenvon=77
 |Originalseitenbis=78
 |Lemma=Grassau, Pfarrkirche Mariä Himmelfahrt, Sieben-Zufluchten-Kapelle

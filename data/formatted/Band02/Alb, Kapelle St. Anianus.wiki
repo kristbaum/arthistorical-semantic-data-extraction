@@ -1,7 +1,7 @@
 {{Artikel
 |Band=2
-|Chunk=
-|Chunkseite=
+|Chunk=9
+|Chunkseite=25
 |Originalseitenvon=447
 |Originalseitenbis=450
 |Lemma=Alb, Kapelle St. Anianus

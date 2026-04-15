@@ -1,7 +1,7 @@
 {{Artikel
 |Band=32
-|Chunk=
-|Chunkseite=
+|Chunk=10
+|Chunkseite=1
 |Originalseitenvon=449
 |Originalseitenbis=481
 |Lemma=Oberschleißheim, Schloss Lustheim

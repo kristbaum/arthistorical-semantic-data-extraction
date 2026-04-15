@@ -1,7 +1,7 @@
 {{Artikel
 |Band=5
-|Chunk=
-|Chunkseite=
+|Chunk=4
+|Chunkseite=11
 |Originalseitenvon=168
 |Originalseitenbis=177
 |Lemma=Markt Indersdorf, Marktkirche St. Bartholomäus

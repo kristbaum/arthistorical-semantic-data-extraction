@@ -1,7 +1,7 @@
 {{Artikel
 |Band=1
-|Chunk=
-|Chunkseite=
+|Chunk=12
+|Chunkseite=14
 |Originalseitenvon=
 |Originalseitenbis=
 |Lemma=Wessobrunn, ehem. Benediktinerabtei Klostergebäude, Gang

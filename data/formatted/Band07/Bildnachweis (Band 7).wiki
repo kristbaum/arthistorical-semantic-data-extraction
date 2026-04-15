@@ -1,7 +1,7 @@
 {{Artikel
 |Band=7
-|Chunk=
-|Chunkseite=
+|Chunk=7
+|Chunkseite=15
 |Originalseitenvon=328
 |Originalseitenbis=328
 |Lemma=Bildnachweis (Band 7)
