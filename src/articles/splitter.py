@@ -54,7 +54,7 @@ def split_band(
 ) -> tuple[int, int, list[str]]:
     """Split a _split.wiki file into article files.
 
-    Returns (written_count, before_after_count, missing_lemmas).
+    Returns (written_count, missing_lemmas).
     """
     split_path = SPLITTING_DIR / band_prefix / f"{band_prefix}_split.wiki"
 
@@ -68,7 +68,6 @@ def split_band(
 
     out_dir = OUTPUT_DIR / band_prefix
     written = 0
-    ba_written = 0
     missing_lemmas: list[str] = []
 
     # Locate all {{Artikel}} start lines and {{End}} lines.
@@ -84,23 +83,6 @@ def split_band(
         if verbose:
             print(f"  SKIP {band_prefix} — no {{{{Artikel}}}} markers found")
         return 0, 0, []
-
-    # ── Before text ──────────────────────────────────────────────────────────
-    before_text = _clean("\n".join(lines[: artikel_lines[0]]))
-    if before_text:
-        out_path = out_dir / "before_articles.wiki"
-        if dry_run:
-            print(
-                f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}  ({len(before_text)} chars)"
-            )
-        else:
-            out_dir.mkdir(parents=True, exist_ok=True)
-            out_path.write_text(before_text + "\n", encoding="utf-8")
-            if verbose:
-                print(
-                    f"  WROTE: {out_path.relative_to(REPO_ROOT)}  ({len(before_text)} chars)"
-                )
-        ba_written += 1
 
     # ── Articles ─────────────────────────────────────────────────────────────
     for idx, art_start in enumerate(artikel_lines):
@@ -145,25 +127,7 @@ def split_band(
             )
             print(f"  WARN {tag}: {lemma!r}")
 
-    # ── After text ───────────────────────────────────────────────────────────
-    last_end = end_lines[-1] if end_lines else artikel_lines[-1]
-    after_text = _clean("\n".join(lines[last_end + 1 :]))
-    if after_text:
-        out_path = out_dir / "after_articles.wiki"
-        if dry_run:
-            print(
-                f"  WOULD WRITE: {out_path.relative_to(REPO_ROOT)}  ({len(after_text)} chars)"
-            )
-        else:
-            out_dir.mkdir(parents=True, exist_ok=True)
-            out_path.write_text(after_text + "\n", encoding="utf-8")
-            if verbose:
-                print(
-                    f"  WROTE: {out_path.relative_to(REPO_ROOT)}  ({len(after_text)} chars)"
-                )
-        ba_written += 1
-
-    return written, ba_written, missing_lemmas
+    return written, missing_lemmas
 
 
 def main(argv: list[str] | None = None) -> None:
@@ -192,19 +156,17 @@ def main(argv: list[str] | None = None) -> None:
         )
 
     total_written = 0
-    total_ba = 0
     all_missing: list[str] = []
 
     for band_prefix in band_prefixes:
         print(f"Splitting {band_prefix} …")
-        w, ba, miss = split_band(
+        w, miss = split_band(
             band_prefix, dry_run=args.dry_run, verbose=args.verbose
         )
         total_written += w
-        total_ba += ba
         all_missing.extend(miss)
 
-    print(f"\nWrote {total_written} articles, {total_ba} before/after files.")
+    print(f"\nWrote {total_written} articles.")
     if all_missing:
         print(f"Missing lemmas ({len(all_missing)}): {all_missing}")
 
