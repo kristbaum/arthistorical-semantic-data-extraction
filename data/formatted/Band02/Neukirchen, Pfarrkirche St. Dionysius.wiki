@@ -29,9 +29,7 @@ Saal zu fünf Jochen, Gliederung durch Wandpfeiler mit vorgelegten Pilastern; im
 
 '''Autor und Entstehungszeit:''' Die Fresken sind nicht signiert und datiert. Wie sich durch Stilvergleich ergibt, stammen sie aus der Hand des J.G. Gaill, der in der Pfarrei Neukirchen mehrfach beschäftigt war (Reichersdorf 1760 und 1772, S. 549–54; Gotzing 1761, S. 503–08; Kleinpienzenau 1766 und 1772, S. 523–28). Johann Georg Gaill (* 1721 Friedberg † 1793 Aibling) war Bürger und Maler in Aibling (siehe Reichersdorf, S. 549). 1766 malte er in der Kirche von Kleinpienzenau, deren Stuck- und Dekorationssystem mit der Ausstattung der Pfarrkirche in Neukirchen nahezu identisch ist. In Neukirchen und Kleinpienzenau wurden offensichtlich die gleichen Meister beschäftigt; da der Stuck in Neukirchen, wie archivalisch nachgewiesen (KDB I OB (1), S. 1472) aus dem Jahre 1763 stammt, sind die Fresken wohl im gleichen Jahr entstanden.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' LHs (A, A1-4) Tonne mit Stichkappen, AR (B, B<sub>1-2</sub>) Tonne mit Stichkappen, im O abgemuldet
 
@@ -47,25 +45,15 @@ B Höhe 7,90 m; 5,80 × 4,10
 
 In beiden Hauptfresken durchgehende Scheitelrisse und Retuschen der Restaurierung von 1910/11. Veränderungen an der Darstellung der Kirchenbauten in A. An der Südseite von A Feuchtigkeitsschäden, in beiden Fresken Verschmutzungen. Restaurierung bevorstehend.
 
-
 == Beschreibung ==
 
-
-A HEILIGENHIMMEL Der Aufnahmestandpunkt liegt unter dem westlichen Bildrand. - Dargestellt ist ein Wolkenhimmel mit radial angeordneten Heiligen und Engeln und einer zentralen Glorie, in der die Dreifaltigkeit und darunter Maria erscheint. Die Gloriendarstellung ist auf die Hauptansicht nach O bezogen. Am Bildrand sind
-
+A HEILIGENHIMMEL Der Aufnahmestandpunkt liegt unter dem westlichen Bildrand. - Dargestellt ist ein Wolkenhimmel mit radial angeordneten Heiligen und Engeln und einer zentralen Glorie, in der die Dreifaltigkeit und darunter Maria erscheint. Die Gloriendarstellung ist auf die Hauptansicht nach O bezogen. Am Bildrand sind vom Rahmen halb verdeckt, an allen Seiten Kirchen vor blauem Himmel zu sehen.
 
 [[File:Band02_chunk011_p015_img004.jpg|thumb|EB<sub>3</sub> Georg in der Kalkgrube]]
-
-
 [[File:Band02_chunk011_p016_img001.jpg|thumb|A4 Insti]]
-
 [[File:Band02_chunk011_p016_img002.jpg|thumb]]
-
 [[File:Band02_chunk011_p016_img003.jpg|thumb]]
-
 [[File:Band02_chunk011_p016_img004.jpg|thumb]]
-
-vom Rahmen halb verdeckt, an allen Seiten Kirchen vor blauem Himmel zu sehen.
 
 Das Bild stellt in seiner Anlage ein für die Spätzeit der barocken Deckenmalerei (im volkstümlichen Bereich) bezeichnendes System vor. Einerseits erscheint ein Allerheiligenhimmel mit dem hellen Zentrum der von Engeln umgebenen Dreifaltigkeit, andererseits ist diese Erscheinung des Himmels, die sich wie ein geschlossenes bildgegenständliches Motiv herabsenkt, an den Rändern von votivbildähnlichen Kirchendarstellungen vor blauem Landschaftshimmel begrenzt. Der Heiligenhimmel mit den konzentrischen Kreisen radial gerichteter Figuren ist Rudi ment aus der Tradition des Kuppelbildes. So wie er über einem naturalistischen, blauen Himmel über bayrischen Kirchen ansetzt, wird er zu einem Zitat aus der Tradition. Es gibt keine terrestrische Szenerie mehr im Zusammenhang mit dem Himmelsbild. Die Ansichten der Kirchenbauten der Pfarrei Neukirchen am Bildrand sinken isolier hinter dem Rahmen ab, weil eine neue Bildvorstellung am Werk ist, die keine Bezüge im Sinne des spätbarocken Illusionismus mehr stiftet. Dabei kommt es zu Erscheinungen, die in der gleichzeitigen Volkskunst zu beobachten sind: Die Dimensionen der einzelnen Bildteile und Gegenstände sind ohne Relation zueinander, wie etwa die Körpergröße der Heiligen zum Bildraum; analog dazu ist die Relation von Szenerie am Bildrand zum Heiligenhimmel im illusionistischen Sinn nicht mehr schlüssig.
 
@@ -83,23 +71,11 @@ B<sub>1-2</sub> ALTTESTAMENTARISCHE OPFERSZENEN Zwei Kartuschfelder begleiten da
 
 == Ikonographie ==
 
-A HEILIGENHIMMEL Das Hauptfresko von Neukirchen zeigt einen Heiligenhimmel besonderer Art: Über den Kirchen und Kapellen, die z. Z. der Ausmalung zu der Pfarrei Neukirchen gehörten, ist jeweils der Patron der Kirche dargestellt (frdl. Mitt. Geistlicher Rat Ernst Kretschmer, Holzolling). Auch die übrigen Heiligen stehen in einem direkten Bezug jeweils zu den einzelnen Kirchen oder der Pfarrei. Im einzelnen sind es folgende Heilige: An der O-Seite thronen über der Pfarrkirche von Neukirchen (mit dem 1876 abgetragenen Turm auf der S-Seite, jetzt an der N-Seite) die beiden Gefährten des Kirchenpatrons, der Priester Rusticus und der Diakon Eleutherius, die nach der Legende zusammen mit dem ersten Bischof von Paris, Dionysius, den Martertod erlitten und mit ihm in Neukirchen verehrt wurden. Sie sind beide in Diakonstracht dargestellt und halten Schwert und Palmzweige. Die Gruppe links davon wird angeführt von dem Kirchenpatron Dionysius, der auf Händen sein Attribut, den Kopf trägt. Von ihm aus gehen Strahlen zu seiner Kirche. Neben
-
+A HEILIGENHIMMEL Das Hauptfresko von Neukirchen zeigt einen Heiligenhimmel besonderer Art: Über den Kirchen und Kapellen, die z. Z. der Ausmalung zu der Pfarrei Neukirchen gehörten, ist jeweils der Patron der Kirche dargestellt (frdl. Mitt. Geistlicher Rat Ernst Kretschmer, Holzolling). Auch die übrigen Heiligen stehen in einem direkten Bezug jeweils zu den einzelnen Kirchen oder der Pfarrei. Im einzelnen sind es folgende Heilige: An der O-Seite thronen über der Pfarrkirche von Neukirchen (mit dem 1876 abgetragenen Turm auf der S-Seite, jetzt an der N-Seite) die beiden Gefährten des Kirchenpatrons, der Priester Rusticus und der Diakon Eleutherius, die nach der Legende zusammen mit dem ersten Bischof von Paris, Dionysius, den Martertod erlitten und mit ihm in Neukirchen verehrt wurden. Sie sind beide in Diakonstracht dargestellt und halten Schwert und Palmzweige. Die Gruppe links davon wird angeführt von dem Kirchenpatron Dionysius, der auf Händen sein Attribut, den Kopf trägt. Von ihm aus gehen Strahlen zu seiner Kirche. Neben ihm steht Franz Xaver im Chorhemd mit dem brennenden Herzen und dem Kreuz in Händen. Seine Statue wurde in Neukirchen verehrt (sie befindet sich noch in der Kirche). Bischof Benno von Meißen, der auf dem Fresko neben ihm sitzt und den Fisch mit dem Schlüssel als Attribut hat, ist einer der Heiligen, denen der Hochaltar geweiht war (Statue am Hochaltar). Johannes von Nepomuk - weiter im Uhrzeigersinn - ist als Kanoniker mit Palmzweig dargestellt.
 
 [[File:Band02_chunk011_p016_img005.jpg|thumb|A Heiligenhimmel]]
-
-
-
-
-
 [[File:Band02_chunk011_p017_img001.jpg|thumb]]
-
-
-
 [[File:Band02_chunk011_p017_img002.jpg|thumb]]
-
-
-ihm steht Franz Xaver im Chorhemd mit dem brennenden Herzen und dem Kreuz in Händen. Seine Statue wurde in Neukirchen verehrt (sie befindet sich noch in der Kirche). Bischof Benno von Meißen, der auf dem Fresko neben ihm sitzt und den Fisch mit dem Schlüssel als Attribut hat, ist einer der Heiligen, denen der Hochaltar geweiht war (Statue am Hochaltar). Johannes von Nepomuk - weiter im Uhrzeigersinn - ist als Kanoniker mit Palmzweig dargestellt.
 
 Es folgt der Bereich von Mittenkirchen: Vom hl. Martyrer Vitus, dem Kirchenpatron, der Ölkessel und Palme als Attribut hat und als vornehmer Jüngling mit hermelinbesetztem Barett abgebildet ist, gehen Strahlen aus zu seiner Kirche. Neben ihm steht Bischof Ulrich von Augsburg mit Buch und Fisch. Auf dem Hochaltar von Mittenkirchen sind neben Vitus der hl. Ulrich und der hl. Dionysius die Nebenpatrone.
 
@@ -125,14 +101,9 @@ A1-4 KARDINALTUGENDEN In den neugemalten Kartuschen, in denen wohl ursprünglich
 
 A1 Löwenhaut, Olivenzweig, Schild, Keule und Helm = Fortitudo. – A2 Bücher, Spiegel und Schlangen = Prudentia. – A3 Auge Gottes im Dreiecknimbus über den Gesetzestafeln: diese Kartusche ist sicher vollkommen neu gemalt worden; ursprünglich dürften sich hier die Attribute der Temperantia befunden haben. – A4 Buch, Schwert und Waage = Justitia.
 
-B MARTYRIUM DES HL. DIONYSIUS Das Hauptfresko im LHs nimmt Bezug auf die ganze Pfarrei, deren Hauptkirche Neukirchen ist. B dagegen im Chor ist dem eigenen Patron, dem hl. Dionysius, gewidmet. Dargestellt ist eine Szene aus seiner Legende (AASS Oct., Tom. 4, 9.10., S. 900–902; LA-Benz, S. 856 f.). Dionysius, vom Papst zusammen mit seinen Gefährten Rusticus und Eleutherius nach Frankreich gesandt, wurde in der Nähe von Paris ergriffen und wegen seines Glaubens entsetzlichen Martern unterworfen. Zuletzt wurde er mit seinen Begleitern enthauptet. Sein Haupt unter dem Arm, wandelte er von himmlischem Licht umstrahlt, den Mons Martyrum hinab bis zu seiner Grabstätte in St. Denis. Zahlreiche Augenzeugen dieses Wunders wurden gläubig und ließen
-
+B MARTYRIUM DES HL. DIONYSIUS Das Hauptfresko im LHs nimmt Bezug auf die ganze Pfarrei, deren Hauptkirche Neukirchen ist. B dagegen im Chor ist dem eigenen Patron, dem hl. Dionysius, gewidmet. Dargestellt ist eine Szene aus seiner Legende (AASS Oct., Tom. 4, 9.10., S. 900–902; LA-Benz, S. 856 f.). Dionysius, vom Papst zusammen mit seinen Gefährten Rusticus und Eleutherius nach Frankreich gesandt, wurde in der Nähe von Paris ergriffen und wegen seines Glaubens entsetzlichen Martern unterworfen. Zuletzt wurde er mit seinen Begleitern enthauptet. Sein Haupt unter dem Arm, wandelte er von himmlischem Licht umstrahlt, den Mons Martyrum hinab bis zu seiner Grabstätte in St. Denis. Zahlreiche Augenzeugen dieses Wunders wurden gläubig und ließen sich taufen, unter ihnen Larcia (Laertia), Gattin des Präfekten Lubrius, die daraufhin ebenfalls enthauptet wurde. Diese Larcia ist im Deckenbild in der vor dem Heiligen knienden Frau dargestellt. In den Enthaupteten auf dem Hügel im Hintergrund kann man die Gefährten Rusticus und Eleutherius erkennen.
 
 [[File:Band02_chunk011_p017_img003.jpg|thumb|B Martyrium des hl. Dionysius B<sub>1-2</sub> AT-Szenen]]
-
-
-
-sich taufen, unter ihnen Larcia (Laertia), Gattin des Präfekten Lubrius, die daraufhin ebenfalls enthauptet wurde. Diese Larcia ist im Deckenbild in der vor dem Heiligen knienden Frau dargestellt. In den Enthaupteten auf dem Hügel im Hintergrund kann man die Gefährten Rusticus und Eleutherius erkennen.
 
 B<sub>1-2</sub> ALTTESTAMENTARISCHE OPFERSZENEN Diese Bilder haben keinen direkten Bezug auf das Hauptbild. Ihrer Lage im AR entsprechend zeigen sie antetypische Vorbilder der Eucharistie.
 
@@ -140,13 +111,10 @@ B<sub>1</sub> OPFERUNG ISAAKS (Gen 22, 10) Der junge Isaak sitzt mit gebundenen 
 
 B<sub>2</sub> OPFER DES MELCHISEDECH (Gen 14, 18–20) Melchisedech, König von Salem und Priester, steht mit erhobenen Händen vor dem Altar, auf dem Brot liegt und ein Kelch steht. Vor ihm kniet, gerüstet, aber mit bloßem Haupt, Abraham, aus der Schlacht zurückgekehrt, und empfängt seinen Segen. Im Hintergrund sind Soldaten zu sehen.
 
-
 == Quellen und Literatur ==
-
 
 Mayer-Westermayer, Bd 2, S. 42. KDB I OB (2), S. 1472.
 
 Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nach den Tagebüchern des Chorherrn L.J. Ott, in: Beiträge zur altbayerischen Kirchengeschichte, Bd 30, 1976, S. 117 u. 183.
-
 
 == OSTERHOFEN ==

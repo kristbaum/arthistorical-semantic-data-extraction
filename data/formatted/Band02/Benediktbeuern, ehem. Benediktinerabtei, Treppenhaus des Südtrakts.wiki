@@ -19,24 +19,17 @@
 
 == Treppenhaus des Südtrakts ==
 
-
 '''Zum Bauwerk:''' Das Treppenhaus des 1728-31 durch Joseph Hainz und Michael Ötschmann erbauten Süd- oder Gästetrakts wird vom westlichen Klosterhof aus betreten, ist im Erdgeschoß ummauert und führt direkt in das erste Geschoß. Im Obergeschoß nimmt die Treppenanlage den Raum zwischen dem im N durchlaufenden Gang und einer nach S liegenden Estrade ein. Diese verbindet die beiden an das Treppenhaus angrenzenden Räume miteinander (westlich befindet sich der Neue Festsaal), ist von der Treppenanlage jedoch durch eine Gitterbrüstung abgetrennt. Die Deckendekoration faßt den Treppenaufgang und die Estrade zu einer räumlichen Einheit zusammen. – Beleuchtung durch vier S-Fenster (Estrade) und drei N-Fenster (Gang) nur im oberen Geschoß
 
 '''Auftraggeber:''' Abt Magnus Pachinger von Benediktbeuern (1707–42)
 
 '''Autor und Entstehungszeit:''' A ist am Hundehalsband signiert IIZ. Meichelbeck berichtet von einer Anwesenheit zweier Maler namens Zimmermann ab Mai 1732 in Benediktbeuern (s. Neuer Festsaal S. 103). Neben Johann Baptist Zimmermann dürfte damit sein Sohn Johann Joseph Zimmermann (getauft 6. 10. 1707 Miesbach, † 10. 3. 1743 München) gemeint sein, der ab 1730 bei der Dekoration der Reichen Zimmer in der Münchner Residenz als Mitarbeiter seines Vaters auftritt (Thieme-Becker, Bd 36 [1947], S. 512). Man kann daher die Signatur auf Johann Joseph Zimmermann beziehen, der nur hier und im Neuen Festsaal eigenhändig signiert hat. Aufgrund stilistischer Zusammenhänge kann die Mitarbeit Johann Joseph
 
-
 [[File:Band02_chunk003_p001_img003.jpg|thumb|A Eintritt in das Kloster A<sub>1-2</sub> Allegorien auf den Eintritt ins Kloster]]
-
-
-
 
 Zimmermanns auch an den Deckenbildern der Sommerprälatur und der Gästezimmer angenommen werden (s. S. 111–15 und 119–22).
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' Flachdecke über Hohlkehle Rahmen: A, A<sub>1-2</sub> Holzprofilleiste (innen) und Stuckprofil Technik: Öl auf Leinwand; polychrom Maße: Höhe ab Estrade 4,80 m
 
@@ -49,9 +42,7 @@ A<sub>1-2</sub> 2,40 × 3,70
 '''Erhaltungszustand und Restaurierungen:''' Die Gemälde wurden 1976/77 restauriert: A durch Hans-Heinrich Müller-Werther, Ebersberg, und Werner Peltzer, Söcking, A1-2 durch Hans-Heinrich Müller-Werther. Sie wurden gereinigt, es wurden mehrere Löcher geflickt, Risse geschlossen und gelockerte Teile gefestigt, ausgebrochene Stellen ausgetupft und eingestimmt und im ganzen elastisch gemacht.
 Die Bilder sind jetzt in gutem Zustand.
 
-
 == Beschreibung und Ikonographie ==
-
 
 Die drei Deckenbilder (A, A1-2) haben ihre Basis im O. sind also auf den Betrachter bezogen, der die Treppe hinaufsteigt.
 
@@ -74,6 +65,5 @@ A1 Verzicht auf Reichtum und weltliche Ehren In heftiger Abwehr stoßen zwei Put
 A2 Verzicht auf irdische Liebe und Eitelkeit Die beiden Putti in der Bildmitte weisen mit heftigen Gebärden die Gaben der weiblichen Allegorien an den Bildseiten zurück. Der linke tritt die Kugel der Fortuna und hebt abwehrend beide Hände. Die zugehörige Allegorie hat neben der Kugel eine Maske als Attribut. Die Maske, Attribut der Fraus wie auch der Superbia, und die Kugel, als Fortuna-Symbol Zeichen der Vergänglichkeit des Glücks und damit Vanitas-Attribut, weisen beide auf die Eitelkeit des irdischen Glücks hin. Die rechte Allegorie sitzt unter einem roten Vorhang, der über einen dürren Ast drapiert ist. Sie hat den Amorknaben bei sich, der Pfeil und Bogen auf die Puttoknaben richtet. Sie verkörpert Amor carnalis, die irdische Liebe.
 
 Literatur siehe S. 133
-
 
 [[File:Band02_chunk003_p001.jpg|thumb]]

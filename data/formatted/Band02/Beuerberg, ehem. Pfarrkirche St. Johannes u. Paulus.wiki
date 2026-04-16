@@ -17,9 +17,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-
-
-
 Ehem. Pfarrkirche der Stiftspfarrei Beuerberg, jetzt Friedhofskirche
 
 '''Patrozinium:''' St. Johannes und Paulus, Nebenpatrozinium Maria
@@ -36,9 +33,7 @@ In B befindet sich am unteren Bildrand die Signatur invenit et pinxit / aloysius
 
 Daß Johann Baader (* 1717 Lechmühlen † 1780 Schlehdorf) Autor des AR-Freskos C ist, ergibt sich aus oben zitierter Quelle. Aus stilistischen Gründen kommt eine Entstehungszeit von 1767, wie Fuchs vorgeschlagen hat, (Fuchs, S. 31) nicht in Frage. Das Fresko zeigt alle Merkmale von Baaders Spätstil (vgl. Schlehdorf, S. 240, und die Bibliothek in Polling, CBD, Bd 1, S. 459-62). Da Baader bis 1779 in Polling beschäftigt war und Ende August 1780 während seiner Arbeit in Schlehdorf starb, kommt als Entstehungsdatum für Beuerberg der Herbst des Jahres 1779 oder das Frühjahr 1780 in Betracht.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' LHs (A, B) und AR (C) Tonnen mit sehr tief einschneidenden Stichkappen
 
@@ -54,9 +49,7 @@ C Höhe 9,20 m; 5,00 × 3,60
 
 '''Erhaltungszustand und Restaurierungen:''' 1882 wurden die Deckengemälde weiß übertüncht, 1941/42 durch Weinzierl und Josef Albrecht wiederaufgedeckt. Dabei wurden besonders in A und B die Wolkenpartien mit den Engeln stark verändert. Weitere Übermalungen finden sich besonders in den Gesichtern
 
-
 == Beschreibung ==
-
 
 A DIE HLL. NOTBURGA, ISIDOR UND WENDELIN Der Aufnahmestandpunkt der einansichtigen Szene liegt unter dem westlichen Bildrand; die Bildanlage zeigt keine illusionistischen Effekte: lediglich an den Seiten ist die landschaftliche Szenerie, dem Rahmen folgend, nach oben gezogen.
 
@@ -68,19 +61,11 @@ Unter einem roh zusammengefügten Bretterdach sitzt links gegenüber der hl. Wen
 
 In einer Lichtglorie erscheint im Himmel, von Wolken umgeben, von Engeln angebetet, das Symbol der Dreifaltigkeit.
 
-Der Farb- und Lichteinsatz entspricht der tafelbildmäßigen Anlage: In der Bildtiefe ist die Landschaft stark aufgehellt; der Vordergrund zeigt dunklere und intensivere Farbwerte, vor allem Braun-, Grün- und Ockerfarben. Die Glorie, dunkler vor den hellen Grund des Landschaftshimmels gesetzt, bringt als Farbe, die das Überirdische bezeichnet, ein intensives Gelb. Dieses Himmelslicht bleibt der Glorie immanent und tritt nicht in Beziehung zum Bildraum. Reine Buntfarben treten kaum auf; in der Farbgebung wird
-
+Der Farb- und Lichteinsatz entspricht der tafelbildmäßigen Anlage: In der Bildtiefe ist die Landschaft stark aufgehellt; der Vordergrund zeigt dunklere und intensivere Farbwerte, vor allem Braun-, Grün- und Ockerfarben. Die Glorie, dunkler vor den hellen Grund des Landschaftshimmels gesetzt, bringt als Farbe, die das Überirdische bezeichnet, ein intensives Gelb. Dieses Himmelslicht bleibt der Glorie immanent und tritt nicht in Beziehung zum Bildraum. Reine Buntfarben treten kaum auf; in der Farbgebung wird zwischen Figuren und umgebender Landschaft kein Unterschied in der Farbwertigkeit gemacht.
 
 [[File:Band02_chunk003_p020_img001.jpg|thumb|A Die hll. Notburga, Isidor und Wendelin]]
-
-
 [[File:Band02_chunk003_p020_img002.jpg|thumb]]
-
-
-
 [[File:Band02_chunk003_p021_img001.jpg|thumb]]
-
-zwischen Figuren und umgebender Landschaft kein Unterschied in der Farbwertigkeit gemacht.
 
 Das für Gaibler sehr typische Bild zeigt ihn als Vertreter der bäuerlichen Deckenmalerei, die im späten 18. Jh. eine von der »hohen« Kunst losgelöste, eigene Möglichkeit der Volkskunst ist. Dabei ist ein besonderes ikonologisches Verhältnis zueinander getreten: Handlungen – die legendären Wunder – erscheinen noch szenisch, haben jedoch attributiven Charakter (Sichelwunder, pflügende Engel). Ebenso sind Landschaftsteile den dargestellten Personen beigefügt (Wendelins Hütte, Notburgas Kornfeld, Isidors Acker). Daraus ist ein neuer »realistischer« Bildraum zusammengefügt, der gleichzeitig die Landschaft von Beuerberg darstellt.
 
@@ -100,10 +85,6 @@ Das Fresko, kurz vor Baaders Tod entstanden, ist ein typisches Spätwerk. Die st
 
 == [ikonographie] ==
 
-
-
-
-
 verblieb und brachte durch dieses Wunder ihren Herrn zur Einsicht (AASS, Sept., Tom. 4, 14. 9., S. 720 f.).
 
 Isidors Kult blühte etwa gleichzeitig mit dem der hl. Notburga im 17. Jh. auf. Beide wurden bald zusammen verehrt und dargestellt.
@@ -114,9 +95,7 @@ B MARTYRIUM DER HLL. JOHANNES UND PAULUS Die beiden Wetterheiligen spielen in de
 
 C SCHUTZMANTELMADONNA Die Darstellung im AR bringt ein weiteres Vorbild christlicher Lebensführung: die Hl. Familie. Dabei sind zwei verschiedene ikonographische Bildtypen miteinander verbunden: Schutzmantelmadonna und Hl. Familie. Die kompositorisch und ikonographisch betonte Darstellung Josephs – er und nicht Maria hält den Jesusknaben – bezeugt das Erstarken des Josephskultes; Joseph ist seit 1663 neben Maria auch ein Patron Bayerns. Die Patrona Bavariae ist als Schutzherrin Beuerbergs vorgestellt.
 
-
 == Quellen und Literatur ==
-
 
 Pfattrisch, Peter, Geschichte des regulierten Chorherrenstifts Beuerberg, München 1876.
 

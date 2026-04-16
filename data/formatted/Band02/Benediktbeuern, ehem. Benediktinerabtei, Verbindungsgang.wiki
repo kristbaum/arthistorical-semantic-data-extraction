@@ -19,7 +19,6 @@
 
 == Verbindungsgang ==
 
-
 '''Zum Bauwerk:''' Der Verbindungsbau zwischen dem Konventbau und dem 1728-32 errichteten Süd- oder Gästetrakt ist sicher während der Bauarbeiten an letzterem entstanden.
 
 Gang zu fünf Fensterachsen im ersten Geschoß, 19,20 × 5,00 m; Fenster nach O
@@ -32,9 +31,7 @@ A, A<sub>1-4</sub> und M<sub>1-8</sub> sind sicher Bestandteile einer früheren 
 
 M<sub>1-8</sub> zeigen motivische Übereinstimmungen mit den Monatsbildern Stephan Kesslers im Alten Festsaal. Die stilistischen Übereinstimmungen mit den Monatsbildern im ehem. Speisesaal (S. 118) sind so groß, daß man M1-8 und damit auch A und A1-4 dem gleichen (unbekannten) Autor zuweisen kann.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' Flachdecke mit Hohlkehle Rahmen: Stuckprofil und Innenleisten aus Holz Technik: Öl auf Leinwand; polychrom
 
@@ -52,38 +49,25 @@ M<sub>1-8</sub> 1,20 × 1,65
 
 Erhaltungszustand: Die Bilder sind nicht restauriert. Sie sind durchweg durch starke Risse und viele kleine Sprünge beeinträchtigt. Die Farbsubstanz ist angegriffen. Alle Bilder sind auffallend blaß in den Farben, bei M3 ist der Bildgegenstand kaum mehr erkennbar.
 
-
 [[File:Band02_chunk002_p024_img002.jpg|thumb]]
-
-
 
 == Beschreibung und Ikonographie ==
 
-
 Die Bilder A, A<sub>1-4</sub> und M<sub>1-8</sub> sind in Aufbau, Komposition und Perspektivsystem als Tafelbilder angelegt. Nur die Form ihrer Bildfelder (vgl. oben) zeigt, daß sie für eine Decke bestimmt waren. A, B und C sind mit Blickrichtung nach W, A<sub>1-2</sub>, M<sub>1-2</sub> und M<sub>5-6</sub> nach W, A<sub>3-4</sub>, M<sub>3-4</sub> und M<sub>7-8</sub> nach O zu betrachten
-
 
 [[File:Band02_chunk002_p024_img003.jpg|thumb]]
 
-
-
 [[File:Band02_chunk002_p024_img004.jpg|thumb|A Erschaffung der Welt]]
-
 
 A ERSCHAFFUNG DER WELT Das Bild zeigt eine weite Weltlandschaft mit Wiese, Bäumen, Wäldern, Meer und Bergen im Hintergrund. Hauptszene ist die Erschaffung Evas. Diese Figurengruppe nimmt das Zentrum des Bildes ein. Gottvater in weißem Gewand und rotem Mantel hat die Hand segnend erhoben, zu seinen Füßen liegt der schlafende Adam. Eva kniet dicht an Adams Seite. Sie hat die Hände gefaltet und neigt das Haupt Gottvater zu. Noch zweimal ist Gottvater auf diesem Bild zu sehen: Im Mittelgrund links am Bildrand ist die Erschaffung der Tiere dargestellt: Gott breitet die Arme über einer Schar von Tieren aus. Im Hintergrund sieht man die Erschaffung der Vögel: Gott blickt zu einer großen Zahl von Vögeln im Himmel auf.
 
-
 == A<sub>1-4</sub> ELEMENTE ==
-
 
 A1 WASSER Das Wasser wird von einer jungen Frau verkörpert, die auf dem Haupt Korallen trägt und mit Perlen geschmückt ist. Sie sitzt am schilfigen Ufer eines weiten Gewässers; aus zwei großen runden Gefäßen gießt sie Wasser. Auf dem Meer, das sich weit in den Hintergrund erstreckt, sind Schiffe dargestellt.
 
 A2 FEUER Die Allegorie des Feuers ist rechts im Bildvordergrund dargestellt; es ist eine junge Frau, ihr Haupt ist von einem Flammenkranz umgeben, in der Linken hält sie ein Flammenbündel. Als Attribut hat sie einen Feuersalamander, der von einem Feuerschein umgeben ist. Da der Salamander nach Meinung antiker Autoren im Feuer leben konnte, wurde er zum geläufigen Feuer-Attribut. Im Hintergrund eine brennende Stadt.
 
-
 [[File:Band02_chunk002_p024_img005.jpg|thumb|A2 Feuer]]
-
-
 
 [[File:Band02_chunk002_p025_img001.jpg|thumb]]
 
@@ -124,7 +108,6 @@ M<sub>3</sub> NOVEMBER (?) Die Hauptfigur zeigt einen Holzhacker (? das Bild ist
 [[File:Band02_chunk002_p025_img009.jpg|thumb]]
 
 [[File:Band02_chunk002_p025_img010.jpg|thumb|16 Dezember]]
-
 
 [[File:Band02_chunk003_p001_img001.jpg|thumb]]
 

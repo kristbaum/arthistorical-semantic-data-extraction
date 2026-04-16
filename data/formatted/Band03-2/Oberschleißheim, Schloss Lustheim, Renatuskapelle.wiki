@@ -13,14 +13,9 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-
-
-
 Kapelle eines ehem. Eremitoriums für vier Augustiner- Eremiten im südlichen Pavillon von Schloß Lustheim, ehemals dem Kloster der Augustiner-Eremiten in München unterstellt
 
-
 '''Patrozinium:''' St Renatu
-
 
 '''Zum Bauwerk:''' Die ursprüngliche Renatusklause, gegründet von Wilhelm V., »Clösterl« genannt, wurde 1684 abgerissen, um für den Neubau von Schloß Lustheim in der Achse des Alten Schlosses Platz zu schaffen. Ab Frühjahr 1686 wurde sie als Südlicher Pavillonbau wiedererbaut: Pläne von Enrico Zuccalli, Bauaufsicht führte Hofbaumeister Philipp Zwerger, Faßarbeiten Caspar Gottfried Stuber, das Altarbild des hl. Renatus schuf Giovanni Trubillio 1680 für 280 fl. (BHStA I, HR II, 16, S. 21 r); Weihe am 19. 5. 1688.
 
@@ -32,9 +27,7 @@ Die Kapelle ist ein zweigeschossiger Ovalraum. Zugang in der Mittelachse durch e
 
 '''Autor und Entstehungszeit:''' Am 28. August 1687 stellte Johann Anton Gumpp die Rechnung für seine Arbeiten in Lustheim: »Vor 3 gemachte Hystori in die zimmer und absonderlich ein stuckh in die Clausen khürchen über sich gemalt ... je 200 fl. = 800 fl. (BHStA I, HR I 282, Nr. 158, vgl. Berg, S. 102). Da die Kapelle ab Mai 1687 eingewölbt wurde (StAM, Ordnungs-Nr. Grau, Lustheim 1687), dürfte das Deckenbild als späteste Arbeit Gumpps in der ersten Bauphase Lustheims im Sommer 1687 entstanden sein (vgl. S. 450).
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' längselliptisches Holzlattengewölbe mit annähernd halbrundem Querschnitt. Rahmen: Das Gewölbe zeigt, von Eichblattstäben in acht Sektoren aufgeteilt, Stuckkassetten mit Rosettenfüllungen. Die Blattstäbe enden in einem ovalen Eichenlaubkranz, der den äußeren Bildrahmen bildet, der innere Rahmen ist eine Stuckprofilleiste.
 
@@ -44,9 +37,7 @@ Die Kapelle ist ein zweigeschossiger Ovalraum. Zugang in der Mittelachse durch e
 
 '''Erhaltungszustand und Restaurierungen:''' Restaurierungen sind nicht bekannt. Verschmutzungen, Risse (vor allem im Randbereich), Wasserschaden am NW-Rand, Fehlstelle an der Erdkugel. Im wesentlichen original erhalten.
 
-
 == Beschreibung und Ikonographie ==
-
 
 GLORIE DES HL. RENATUS Szene in Wolken. Blickrichtung nach O. Der Heilige wird in einer bewegten Gruppe von Tugendpersonifikationen emporgetragen und von der Hl. Dreifaltigkeit in Empfang genommen. Die Figuren sind sehr dicht zueinander komponiert, ihr Umriß folgt dem Oval des Bildfeldes und läßt nur einen schmalen Streifen Wolkenszenerie frei. Ohne auf illusionistische Effekte abzuzielen, sind starke Untersichten und Verkürzungen eingesetzt, ebenso kontrastvolle Licht- und Schattenpartien, die die Plastizität der Figurengruppe unterstreichen.
 
@@ -56,9 +47,7 @@ Dem hl. Renatus sind Putti und weibliche Tugendpersonifikationen zugeordnet. Die
 
 Der hl. Renatus (René) war Bischof von Angers (legendär). Sein Kult war in Frankreich verbreitet, in Bayern fast unbekannt. Er war Namenspatron Renatas von Lothringen, der Gemahlin Wilhelms V., des Erbauers der ursprünglichen Renatusklause.
 
-
 == Quellen und Literatur ==
-
 
 StAM, Ordnungs-Nr. Grau, Lustheim 1687. BHStA I, HR I, 282, Nr. 158. BHStA I, HR II, 16. fol. 21 r.
 
@@ -69,6 +58,5 @@ Berg, Viktoria, Die Lustheimer Fresken, in: Anzeiger des Germanischen Nationalmu
 s. auch Quellen und Literatur S. 557 f
 
 A.B.
-
 
 [[File:Band03-2_chunk010_p017_img001.jpg|thumb|Glorie des hl. Renatus]]

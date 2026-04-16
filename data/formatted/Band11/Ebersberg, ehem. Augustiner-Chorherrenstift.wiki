@@ -14,7 +14,6 @@
 |AutorIn2=Böhm, Cordula
 }}
 
-
 == EBERSBER ==
 
 Ehem. Augustiner-Chorherrenstift, dann Benediktinerstift 1596–1773 Jesuiten-Superiorat 1781–1808 Malteser-Großpriorat Erzdiözese München und Freising. Gericht Schwaben
@@ -25,16 +24,10 @@ Ehem. Stifts- und Wallfahrtskirche, seit 1817 Pfarrkirche Die Pfarrei Ebersberg 
 
 '''Patrozinium:''' St. Sebastian
 
-'''Zum Bauwerk:''' Bau der ersten steinernen Kirche 934, Weihe 970 durch den Salzburger Erzbischof Friedrich. Nach einem Brand 1305 Wiederaufbau von Kirche und Kloster unter Abt Otto Siegersdorfer (1299–1343). Der Chor der heutigen Kirche, der ursprünglich zweigeschossig war – im Obergeschoß befand sich der Mönchschor –, wurde unter Abt Eckhart (1446–72) in den Jahren 1450/52 neu erbaut und gegenüber dem Vorgängerbau verlängert. 1610 brachen die Jesuiten den
+'''Zum Bauwerk:''' Bau der ersten steinernen Kirche 934, Weihe 970 durch den Salzburger Erzbischof Friedrich. Nach einem Brand 1305 Wiederaufbau von Kirche und Kloster unter Abt Otto Siegersdorfer (1299–1343). Der Chor der heutigen Kirche, der ursprünglich zweigeschossig war – im Obergeschoß befand sich der Mönchschor –, wurde unter Abt Eckhart (1446–72) in den Jahren 1450/52 neu erbaut und gegenüber dem Vorgängerbau verlängert. 1610 brachen die Jesuiten den oberen Chor ab; an die Zweigeschossigkeit erinnern an der Nord- und S-Wand die Erdgeschoß-Arkatur und die darüber erst sehr hoch ansetzende Fensterzone. Weihe des Hochaltars und von fünf weiteren Altären 1452. Das LHs bekam seine endgültige Gestalt als spätgotische Hallenkirche unter Abt Sebastian Häfele (1472–1500) durch den Münchner Baumeister Erhard Randeck 1481/84: die Seitenschiffe wurden fast auf die Höhe des unter Abt Eckhart gewölbten Mittelschiffes hochgeführt. Auch der Eingangsbereich der Kirche mit der zwischen den spätromanischen Westtürmen befindlichen Eingangshalle und der darüber liegenden Empore wurde damals umgebaut. Abt Sebastian ließ auch das Stifterhochgrab durch den Bildhauer Wolfgang Leb errichten.
 
 [[File:Band11_chunk007_p001_img001.jpg|thumb|Der Kirchenraum nach Osten]]
-
 [[File:Band11_chunk007_p001_img002.jpg|thumb]]
-
-
-
-
-oberen Chor ab; an die Zweigeschossigkeit erinnern an der Nord- und S-Wand die Erdgeschoß-Arkatur und die darüber erst sehr hoch ansetzende Fensterzone. Weihe des Hochaltars und von fünf weiteren Altären 1452. Das LHs bekam seine endgültige Gestalt als spätgotische Hallenkirche unter Abt Sebastian Häfele (1472–1500) durch den Münchner Baumeister Erhard Randeck 1481/84: die Seitenschiffe wurden fast auf die Höhe des unter Abt Eckhart gewölbten Mittelschiffes hochgeführt. Auch der Eingangsbereich der Kirche mit der zwischen den spätromanischen Westtürmen befindlichen Eingangshalle und der darüber liegenden Empore wurde damals umgebaut. Abt Sebastian ließ auch das Stifterhochgrab durch den Bildhauer Wolfgang Leb errichten.
 
 Unter den Jesuiten wurde 1666 die äußere Vorhalle umgebaut. Bau der Sebastianskapelle 1668 im Zusammenhang mit der Wiederbelebung der Sebastians-Bruderschaft (Weihe 1671). 1733/34 Barockisierung unter Leitung von Johann Georg Ettenhofer; die spätgotischen Pfeiler wurden ummantelt. Rokoko-Innendekoration im Chor 1751/52, im LHs 1764.
 
@@ -60,44 +53,27 @@ Von dieser Ausmalung stammen die Wandbilder W<sub>1-10</sub>; außerdem gehörte
 
 [[File:Band11_chunk007_p002_img001.jpg|thumb|Der Kirchenraum nach Westen]]
 
-
-
-
-
 [[File:Band11_chunk007_p003_img001.jpg|thumb]]
-
 
 Unter dem Jahr 1751 steht in den Litterae annuae, den Jahresberichten der Jesuiten (BHStA): Die Übersetzungen aus dem Lateinischen fassen den Sachverhalt inhaltlich zusammen.
 
 »...initium Ducentes a Domo Domini, cui insolitus hoc anno splendor accessit ex partis anticae, quam Chorum vocant, nova majestate: ara enim veteri, quae ruinam jam meditabatur, amota, alia recens a fundamentis surrexit, opere sculptorio scitissime elaborata; Tabulato item novam e Gypso crustam induximus, eleganti penicillo Hystoriae fundationis in ec seriem exprimente. Ne vero fabricae splendori molesta fenestrarum caligo officeret, novi earundem ordines e lucidissimo vitro fuere substituti.« (Wir beginnen mit der Kirche. Sie erhielt in diesem Jahr ungewöhnlicher Glanz durch die neue Pracht des Chors. Nach Entfernung eines alten sehr baufälligen Altars wurde ein anderer, neuer von Grund auf errichtet mit sehr schöner Bildhauerarbeit. Auf die Wölbung ließen wir eine neue Putzschicht aufbringen, worauf in geschmackvoller Malweise eine Abfolge der Gründungsgeschichte dargestellt wurde. Damit aber nicht die Dunkelheit dem Glanz des Werks abträglich sei, wurden neue Fenster ausgebrochen und mit reinem Glas versehen )
 
-
 == Beim Jahr 1752 wird zum Chor vermerkt ==
 
-
-»... Chorus nempe templi nostri, qui eam iam ab arte atque industria formam sumpsit, ut et hospite suo magno archiatro Divo Sebastiano dignus sit, et haec aedificij pervetusti pars a summo ad imum renovata, faciem non inamoenam referat. crustati operis parerga intermicans aurum distinguit. pictura, quae summo in fornice historiam allati Eberspergam sacri cranii representat, anno superiore iam descripta, accessere denae aliae. quibus vacua utrinque parietum spatia vestiuntur, non tam ingeniosae illae, quam ad excitandam populi in Sanctum fiduciam factae. prodigiosum et Beneficum in varios Divum Martyrem exhibent, subiuncta singulis subscriptione
-
+»... Chorus nempe templi nostri, qui eam iam ab arte atque industria formam sumpsit, ut et hospite suo magno archiatro Divo Sebastiano dignus sit, et haec aedificij pervetusti pars a summo ad imum renovata, faciem non inamoenam referat. crustati operis parerga intermicans aurum distinguit. pictura, quae summo in fornice historiam allati Eberspergam sacri cranii representat, anno superiore iam descripta, accessere denae aliae. quibus vacua utrinque parietum spatia vestiuntur, non tam ingeniosae illae, quam ad excitandam populi in Sanctum fiduciam factae. prodigiosum et Beneficum in varios Divum Martyrem exhibent, subiuncta singulis subscriptione peregrinantium turmas porrecta in auxilium manu excipit commune sup plicantis patriae Perfugium. hic ligneam sui effigiem, et cranium suun cum theca argentea, penitus illaesa, de templi conflagrantis busto vindicat voracium flammarum domitor. Hic futurum templi sui fundatorem prae cipuum adhuc tum infantem etiam tumulo vicinum Parenti supplici resti tuit e momento incolumem, mortis Victor. Isthic Maximilianus Primus Bavariae Elector, sui et copiarum suarum contra pestiferam luem assertor trophaea statuit. illic heterodoxi adeo de aqua Divi nomine consecrata salutem bibunt. Videas alibi Ottonem Tertium Imperatorem Sancti Strategi praesidio Turcarum Victorum manibus ereptum: Eodem auspice alib Serenissimus Bavariae dux Albertus amissos in Venatione filios Principes recuperat. iterum alibi Divus idem Tutelarius vel naufragii tabulam porrigit, vel agros tuetur a grandine, vel castimoniae periclitanti praesente contra stygem adest praesidio.«
 
 [[File:Band11_chunk007_p003_img002.jpg|thumb]]
 
-
-peregrinantium turmas porrecta in auxilium manu excipit commune sup plicantis patriae Perfugium. hic ligneam sui effigiem, et cranium suun cum theca argentea, penitus illaesa, de templi conflagrantis busto vindicat voracium flammarum domitor. Hic futurum templi sui fundatorem prae cipuum adhuc tum infantem etiam tumulo vicinum Parenti supplici resti tuit e momento incolumem, mortis Victor. Isthic Maximilianus Primus Bavariae Elector, sui et copiarum suarum contra pestiferam luem assertor trophaea statuit. illic heterodoxi adeo de aqua Divi nomine consecrata salutem bibunt. Videas alibi Ottonem Tertium Imperatorem Sancti Strategi praesidio Turcarum Victorum manibus ereptum: Eodem auspice alib Serenissimus Bavariae dux Albertus amissos in Venatione filios Principes recuperat. iterum alibi Divus idem Tutelarius vel naufragii tabulam porrigit, vel agros tuetur a grandine, vel castimoniae periclitanti praesente contra stygem adest praesidio.«
-
 (... der Chor unserer Kirche ist bereits durch Kunst und Fleiß zu solchem Ansehen gekommen, daß er seines großen Gastes, des heiligen Erzheilers Sebastian, würdig ist und dieser Teil des uralten Baus, renoviert von oben bis unten, einen reizenden Anblick bietet. Der Stuck ist teilvergoldet. Zu der schon im Vorjahr beschriebenen Malerei am Gewölbe, die die Geschichte der Ankunft des heiligen Hauptes in Ebersberg darstellt, kamen zehn Wandbilder, weniger geistreich erfunden als dazu bestimmt den Glauben des Volkes an den Heiligen zu stärken. Sie zeigen Wunder und Wohltaten des Heiligen, jeweils mit kurzer Unterschrift in deutscher Sprache. In einem Bild empfängt er als Zuflucht die zu ihm strömenden Pilgerscharen, in einem andern rettet er sein hölzernes Bild und sein Haupt samt dem Silberreliquiar heil aus der brennenden Kirche als Überwinder des Feuers. In einem gibt er als Sieger über den Tod den künftigen Hauptstifter seiner Kirche, der als Kind dem Tode nahe war, gesund dem Vater zurück, in einem andern errichtet Maximilian I., erster Kurfürst von Bayern, Siegeszeichen für seinen und seines Heeres Beschützer gegen die Pest. Ein Bild zeigt, wie selbst Andersgläubige gesund werden, als sie mit seinem Namen geweihtes Wasser trinken. An anderer Stelle sieht man Kaiser Otto II., durch den Schutz des heiligen Heerführers den Händen der siegreichen Türken entrissen. Durch denselben Beschützer findet Herzog Albrecht von Bayern seine bei einer Jagd verirrten Söhne wieder. In andern Bildern reicht der Heilige einem Schiffbrüchigen die rettende Planke, schützt Felder vor Hagel oder schützt die wankende Keuschheit vor der drohenden Hölle.)
-
 
 [[File:Band11_chunk007_p003_img003.jpg|thumb|Der totgeglaubte Sebastian unter dem Marterbaum, Vorzeichnung zu einem Fresko im Mittelschiff]]
 
-
 Aus den Einträgen geht hervor, daß 1751 gleichzeitig mit dem neuen Hochaltar und der Änderung der Durchfensterung zur besseren Belichtung die Ausmalung des Chorgewölbes entstand, und zwar von einem bedeutenderen Maler. Sie zeigte im Zusammenhang mit der Gründungsgeschichte die Übertragung der Hirnschale des hl. Sebastian nach Ebersberg. 1752 fand dann die Stuckierung statt und wurden - weniger »ingenios« - die zehn Wandfelder W<sub>1-10</sub> gemalt, die den hl. Sebastian als Wunder- und Wohltäter zeigen.
 
-Die gewisse Derbheit der erhaltenen Fresken, im Malerischen wie im Formalen, entspricht der Aussage, sie seien weniger talentvoll bzw. geistreich. Ihre Qualität läßt auf Werkstattarbeit schließen. Jedoch agieren die etwas plumpen, stämmigen Figuren mit schwungvollen Bewegungen und demonstrieren recht eindringlich das jeweilige Geschehen. Die Haupt- oder Vordergrundfiguren sind nicht ohne kompositorisches Geschick in die Landschafts-Szenerien eingefügt (z. B. W<sub>7</sub>). Es herrscht eine relativ lichte Buntfarbigkeit, vor allem bei den kleinen Fresken W<sub>4-10</sub>, mit hellem Rot und verschiedenen Blau- und Gelbtönen als den vordringenden Farben. Auf bescheidenem Niveau spricht die Manier dieser Wandbilder für das Umfeld von Johann Baptist Zimmermann. Parallel zum Stuck im Chor lassen sich auch die Wandbilder mit der Ausmalung der Klosterkirche Andechs vergleichen, und zwar mit den Fresken der Seitenschiffe. Daß Zimmermann selbst
-
+Die gewisse Derbheit der erhaltenen Fresken, im Malerischen wie im Formalen, entspricht der Aussage, sie seien weniger talentvoll bzw. geistreich. Ihre Qualität läßt auf Werkstattarbeit schließen. Jedoch agieren die etwas plumpen, stämmigen Figuren mit schwungvollen Bewegungen und demonstrieren recht eindringlich das jeweilige Geschehen. Die Haupt- oder Vordergrundfiguren sind nicht ohne kompositorisches Geschick in die Landschafts-Szenerien eingefügt (z. B. W<sub>7</sub>). Es herrscht eine relativ lichte Buntfarbigkeit, vor allem bei den kleinen Fresken W<sub>4-10</sub>, mit hellem Rot und verschiedenen Blau- und Gelbtönen als den vordringenden Farben. Auf bescheidenem Niveau spricht die Manier dieser Wandbilder für das Umfeld von Johann Baptist Zimmermann. Parallel zum Stuck im Chor lassen sich auch die Wandbilder mit der Ausmalung der Klosterkirche Andechs vergleichen, und zwar mit den Fresken der Seitenschiffe. Daß Zimmermann selbst der Intendant der Dekoration im Chor war und sogar das Hauptbild gemalt hat, ist nach der Unterscheidung der Litterae annuae in einen bedeutenden und einen weniger ingeniösen Maler vorstellbar. Für Stuck und Fresken der Pfarrkirche in Oberndorf war Zimmermann 1720 bereits herangezogen worden (S. 371–73). Als Zimmermanns Mitarbeiter ist Joseph Ignaz Schilling für die Wandfresken nicht auszuschließen; die stilistischen Kriterien treffen durchaus auf ihn zu.
 
 [[File:Band11_chunk007_p003_img004.jpg|thumb]]
-
-
-der Intendant der Dekoration im Chor war und sogar das Hauptbild gemalt hat, ist nach der Unterscheidung der Litterae annuae in einen bedeutenden und einen weniger ingeniösen Maler vorstellbar. Für Stuck und Fresken der Pfarrkirche in Oberndorf war Zimmermann 1720 bereits herangezogen worden (S. 371–73). Als Zimmermanns Mitarbeiter ist Joseph Ignaz Schilling für die Wandfresken nicht auszuschließen; die stilistischen Kriterien treffen durchaus auf ihn zu.
 
 Erste Ausmalung von Mittelschiff und Seitenschiffen: Joseph Ignaz Schilling (* 1702 Villingen im Schwarzwald † 1773 München) 1764.
 
@@ -105,28 +81,17 @@ Diese Ausmalung umfaßte das Mittelschiffgewölbe mit dem Gewölbe über der Wes
 
 Lorenz Westenrieder nennt J. I. Schilling als Autor (Beschreibung der Haupt- und Residenzstadt München, München
 
-
-
-
-
 [[File:Band11_chunk007_p004_img001.jpg|thumb]]
 
-
-
 [[File:Band11_chunk007_p004_img002.jpg|thumb|Sebastian zum zweiten Mal vor dem Kaiser]]
-
 
 1782, S. 376-78): »Er malte auch 1764 die St. Sebastianskirche zu Ebersberg aus, und machte sich durch seine Arbeiten allenthalben berühmt.«
 
 Fresko A zeigt Sebastian vor Diokletian. Das läßt auf einen Sebastians-Zyklus bei der Ausmalung des LHs schließen. In der Staatlichen Graphischen Sammlung München befinden sich fünfzehn Zeichnungen aus der Sammlung Felix Halm, von denen zwölf durch Cordula Böhm als Vorzeichnungen für Ebersberg identifiziert werden konnten (publiziert von Krammer 2002, S. 259-261). Sie waren zunächst Joseph Ignaz Schilling zugeschrieben (Summarisches Verzeichnis 1818). Die zwölf Zeichnungen für Ebersberg sind unsigniert. Von den übrigen Blättern weicht eines (SGS Mü, Inv.Nr. 30476) stilistisch von den vierzehn anderen ab. Es wurde von Anna Bauer als Vorzeichnung für ein Fresko an der Westwand in der Hl. Geist-Kirche in München erkannt. (Das Fresko hat sich nicht erhalten, aber sein Pendant.) Die Signatur auf diesem Entwurf: Fx. Schiling. fecit Mon. (Felix Nepomuk Schilling, Sohn von
 
-
 [[File:Band11_chunk007_p004_img003.jpg|thumb]]
 
-
-
 [[File:Band11_chunk007_p004_img004.jpg|thumb]]
-
 
 Joseph Ignaz Schilling, *1742 München †1808 München) führte dazu, daß später alle fünfzehn Zeichnungen Felix Nepomuk Schilling zugewiesen wurden (s. auch Thieme-Becker, Bd XXX, S. 69, s.v. Schilling, Felix Nepomuk).
 
@@ -134,33 +99,18 @@ Ein Vergleich zwischen Fresko A und den Ebersberger Vorzeichnungen einerseits un
 
 Joseph Ignaz Schilling war vielfach für die Jesuiten tätig, insbesondere für das Münchner Kolleg (s. CBD, Bd 3/I, S. 169 241–47). Möglicherweise hat Felix Nepomuk Schilling, der 1764 zweiundzwanzig Jahre alt war, als Gehilfe seines Vaters in Ebersberg mitgearbeitet.
 
-
 [[File:Band11_chunk007_p004_img005.jpg|thumb|Sebastian bestärkt gefangene Christen im Glaube]]
-
-
 
 [[File:Band11_chunk007_p004_img006.jpg|thumb]]
 
-
 Die Litterae annuae von 1764 beschreiben die Ausmalung und Stuckierung des LHs als Teil einer umfassenden Aus- und Umgestaltung des Gemeinderaums:
 
-»Templum nostrum antea tam informe, obscurum et praegrave, faciem modo longe aliam induit, elegantem. Sane, et claris etiam urbibus invidendam. Dejecimus nimirum moles illas praegrandes et murata vincula, quae ter geminum Templi fornicem connectebant: Tholumque omnem artifici penicillo et opere gypsato, auroque liberaliter illuso ita exornavimus, ut exeuntibus inde in columnas et utrumque Templi latus aureis parergis, caeterisque, quae hodierni saeculi gustus appetit, adjectis ornamentis mira quadam amoenitate parique majestate intuentium oculos rapiat, penitusque exsatiet. Augent decorem columnae ipsae, antea rotundae oculisque admodum graves, modo autem octangulae, et inauratis magnam partem coronatae capitibus ... Difficultatis plurimum in eo fuit, ut amplior lux ex ea quoque parte, quae Domum nostram respicit, in templum induceretur; sed et hoc praestitimus; dejecto enim, ut vocabamus, choro cereorum et ambulacro ei exterius respondente tres novae fenestrae sund apertae, quae
-
+»Templum nostrum antea tam informe, obscurum et praegrave, faciem modo longe aliam induit, elegantem. Sane, et claris etiam urbibus invidendam. Dejecimus nimirum moles illas praegrandes et murata vincula, quae ter geminum Templi fornicem connectebant: Tholumque omnem artifici penicillo et opere gypsato, auroque liberaliter illuso ita exornavimus, ut exeuntibus inde in columnas et utrumque Templi latus aureis parergis, caeterisque, quae hodierni saeculi gustus appetit, adjectis ornamentis mira quadam amoenitate parique majestate intuentium oculos rapiat, penitusque exsatiet. Augent decorem columnae ipsae, antea rotundae oculisque admodum graves, modo autem octangulae, et inauratis magnam partem coronatae capitibus ... Difficultatis plurimum in eo fuit, ut amplior lux ex ea quoque parte, quae Domum nostram respicit, in templum induceretur; sed et hoc praestitimus; dejecto enim, ut vocabamus, choro cereorum et ambulacro ei exterius respondente tres novae fenestrae sund apertae, quae ad tholum usque surgentes vitroque pellucido instructae plenum jam omni ex parte Diem admittunt. quibus rebus effectum, ut, qui hoc Templum olim sibi visum vident denuo, adduci vix possint, ut credant, idem etiamnum stare templum. Sed nec illud capiunt, quomodo hoc omnia potuerint perfici sumptu tam modico /: quem tum Residentia nostra, tun R.P. Rectoris Monacensis Liberalitas suppeditavit:/ et praeterea tam exiguo tempore; coeptus enim labor est mense Aprili; Octobri finitus.« (Unsere zuvor so häßliche, dunkle und plumpe Kirche erhielt ein völlig anderes, elegantes Aussehen, um das uns berühmte Städte beneiden könnten. Wir brachen die gewaltigen gemauerten Scheidbögen ab, die die zweimal drei Gewölbe der Kirche verbanden und dekorierten das Gewölbe mit kunstvollem Pinsel und reich vergoldetem Stuck derart, daß die Dekoration sich auch auf die Säulen und beide Kirchenseiten herab erstreckte, und goldene und andere Zierate nach heutigem Geschmack sowohl mit staunenswerter Anmut wie Erhabenheit die Betrachter hinhreißen. Die Schönheit vermehren noch die Säulen, früher rund und schwerfällig anzusehen, jetzt aber achteckig und mit großenteils vergoldeten Kapitellen versehen ... Die größte Schwierigkeit dabei war, mehr Licht auch von der Seite in die Kirche zu bringen, die zu unserm Haus herüber steht. Aber auch das schafften wir; nachdem wir den sogenannten Wachschor und den Umgang, der ihm außen entsprach, niedergelegt hatten
 
 [[File:Band11_chunk007_p004_img007.jpg|thumb]]
-
-
-
 [[File:Band11_chunk007_p004_img008.jpg|thumb|Sebastians Leichnam wird in die Cloaca maxima geworfen]]
 
-
-ad tholum usque surgentes vitroque pellucido instructae plenum jam omni ex parte Diem admittunt. quibus rebus effectum, ut, qui hoc Templum olim sibi visum vident denuo, adduci vix possint, ut credant, idem etiamnum stare templum. Sed nec illud capiunt, quomodo hoc omnia potuerint perfici sumptu tam modico /: quem tum Residentia nostra, tun R.P. Rectoris Monacensis Liberalitas suppeditavit:/ et praeterea tam exiguo tempore; coeptus enim labor est mense Aprili; Octobri finitus.« (Unsere zuvor so häßliche, dunkle und plumpe Kirche erhielt ein völlig anderes, elegantes Aussehen, um das uns berühmte Städte beneiden könnten. Wir brachen die gewaltigen gemauerten Scheidbögen ab, die die zweimal drei Gewölbe der Kirche verbanden und dekorierten das Gewölbe mit kunstvollem Pinsel und reich vergoldetem Stuck derart, daß die Dekoration sich auch auf die Säulen und beide Kirchenseiten herab erstreckte, und goldene und andere Zierate nach heutigem Geschmack sowohl mit staunenswerter Anmut wie Erhabenheit die Betrachter hinhreißen. Die Schönheit vermehren noch die Säulen, früher rund und schwerfällig anzusehen, jetzt aber achteckig und mit großenteils vergoldeten Kapitellen versehen ... Die größte Schwierigkeit dabei war, mehr Licht auch von der Seite in die Kirche zu bringen, die zu unserm Haus herüber steht. Aber auch das schafften wir; nachdem wir den sogenannten Wachschor und den Umgang, der ihm außen entsprach, niedergelegt hatten
-
 <blockquote>»Templum nostrum antea tam informe, obscurum et praegrave, faciem modo longe aliam induit, elegantem. Sane, et claris etiam urbibus invidendam. Dejecimus nimirum moles illas praegrandes et murata vincula, quae ter geminum Templi fornicem connectebant: Tholumque omnem artific penicillo et opere gypsato, auroque liberaliter illuso ita exornavimus, ut exeuntibus inde in columnas et utrumque Templi latus aureis parergis caeterisque, quae hodierni saeculi gustus appetit, adjectis ornamentis mira quadam amoenitate parique majestate intuentium oculos rapiat, penitusque exsatiet. Augent decorem columnae ipsae, antea rotundae oculisque admodum graves, modo autem octangulae, et inauratis magnam partem coronatae capitibus ... Difficultatis plurimum in eo fuit, ut amplior lux ex ea quoque parte, quae Domum nostram respicit, in templum induceretur; sed et hoc praestitimus; dejecto enim, ut vocabamus, choro cereorum et ambulacro ei exterius respondente tres novae fenestrae sunt apertae, quae ad tholum usque surgentes vitroque pellucido instructae plenum jam omni ex parte Diem admittunt. Quibus rebus effectum, ut, qui hoc Temp-lum olim sibi visum vident denuo, adduci vix possint, ut credant, idem etiamnum stare templum. Sed nec illud capiunt, quomodo hoc omnia potuerint perfici sumptu tam modico /: quem tum Residentia nostra, tum R. P. Rectoris Monacensis Liberalitas suppeditavit: / et praeterea tam exiguo tempore; coeptus enim labor est mense Aprili; Octobri finitus.«</blockquote>
-
-
-
-
 
 ten, wurden drei neue Fenster ausgebrochen, die bis zur Wölbung reichen und mit ihrem klaren Glas allseitig Tageslicht einlassen. So ist es gekommen, daß wer die Kirche früher kannte und sie nun sieht, kaum glauben kann, daß es dieselbe Kirche ist. Es ist auch kaum zu fassen, daß all dies mit dermaßen geringen Kosten vollbracht werden konnte - die teils unsere Niederlassung, teils die Großzügigkeit des Münchner Rektors aufgebracht hat - und außerdem in so kurzer Zeit, denn angefangen wurden die Arbeiten im April, abgeschlossen im Oktober.)
 
@@ -186,9 +136,7 @@ Vorzeichnung zum zerstörten Seitenschiffbild »Sebastians Leichnam wird in die 
 
 Nicht dem Ebersberger Zyklus zuzuordnen: Vorzeichnung zu »Sebastian wird von der Leibgarde mit Pfeilen durchbohrt«. Feder in Braun, grau laviert, 28,8×26,2 cm, SGS Mü, Inv.Nr. 30 488 (Halm-Maffei V 80).
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' Wölbung über der Empore (A) ehem. queroblonges Netzrippengewölbe, Rippen abgeschlagen, Kompartimentübergänge verschliffen; LHs (B, C, 1-4) Stichkappentonne, LHs-Seitenschiffe (S<sub>1-8</sub>) ehem. Netzrippengewölbe, Rippen abgeschlagen, Übergänge verschliffen; Chor (D, 5-8) Stichkappentonne, im Chorschluß nach O abgemuldet; N-Wand des AR, Fensterzone (W<sub>1-3</sub>); N- und S- Wand des AR, unterhalb der Fensterzone (W<sub>4-10</sub>)
 
@@ -208,22 +156,17 @@ S<sub>1-8</sub> Höhe 15,60 m; 3,25 × 3,65
 
 '''Erhaltungszustand und Restaurierungen:''' Restaurierung 1937 mit Ausbesserungen und teilweisen Übermalungen. 1960-64 erfolgte eine umfassende Wiederherstellung der Decken- und Wandbilder durch Alban Wolf, München. Gleichzeitig wurde durch die Fa. Hans Mayrhofer, München, der Stuck restauriert und die Brokatmusterung in der gemalten Deckengliederung von 1783 überarbeitet. Feuchtigkeit des Mauerwerks und bauliche Mängel des AR-Gewölbes erschwerten die Wiederherstellung. Problematisch war die Befestigung sich ablösender Farbschichten. A zeigte Feuchtigkeitsschäden und Verschimmelung, B nur vereinzelte Risse und Farbabblätterungen, C zahlreiche Parallelrisse und Lockerung der Farbschichten durch Feuchtigkeit. Von den acht Seitenschiffbildern S<sub>1-8</sub> war S<sub>2</sub> (Elisabeth) noch am besten erhalten, waren S<sub>8</sub> (Aglais) und S<sub>5</sub> (Afra) besonders stark durch Nässe geschädigt, zeigte S<sub>1</sub> (Bergpredigt) einen breiten, übermalten Diagonalsprung und S<sub>3</sub> (Venantius) Fresken Schillings. S<sub>5</sub> zeigt am stärksten die alten Feuchtigkeitsschäden, S<sub>8</sub> scheint erneut durch Nässe gelitten zu haben.
 
-
 [[File:Band11_chunk007_p005_img001.jpg|thumb|A Sebastian vor Diokletian (Joseph Ignaz Schilling 1764)]]
-
 
 Die Grisaillen 1-8 waren relativ gut erhalten bis auf 2 (Papst Gregor). Alle fünf Wappen über dem Triumphbogen waren übermalt (s.o.). Die Wandbilder W<sub>1-10</sub> wiesen starke Übermalungen auf und eine zu kräftige Konturierung der Figuren. Diese Ergebnisse einer Restaurierung von 1937 wurden vollständig entfernt und die ursprüngliche Farbigkeit weitgehend zurückgewonnen. Die Fresken an der N-Wand des AR waren besser erhalten als die an der S-Wand, W<sub>8</sub> (Schiffbruch) und W<sub>10</sub> (Zuflucht) hatten besonders Schaden genommen (BLfD). W<sub>7-12</sub> wirken ziemlich überarbeitet.
 
 Der heutige Zustand der Freskierung ist bis auf Verschmutzungen relativ gut. Fresko A zeigt zwar Flecken und Risse und Verschmutzungen; was aber den originalen Befund der großen Deckenbilder Kirzingers B, C und D betrifft, so sind sie in ausgezeichnetem Zustand.
 
-
 == Beschreibung und Ikonographie ==
-
 
 Fresko über der Orgel (einziges erhaltenes Fresko der Ausmalung unter den Jesuiten von Joseph Ignaz Schilling 1764) A SEBASTIAN VOR KAISER DIOKLETIAN Hochovales Bildfeld, Bild einansichtig, gewestet. Ungünstig für die Komposition waren die Einpassung des Bildfeldes in die verschliffene Kappe eines spätgotischen Gewölbes und der Einbau der Orgel 1763. Diese verhinderte von vornherein eine volle Sichtbarkeit des Freskos. Daher entfalten sich die Hauptfiguren der stark untersichtigen Bildkomposition reliefartig in einem flachen Rühnenraum
 
 Auf einem Stufensockel, der mit einem roten Tuch bedeckt ist, erhebt sich linker Hand der von Sphingen eingefaßte Thronsitz des Kaisers, überwölbt von einem hochgehängten, an einem Baum befestigten violetten Baldachin. Der thronende Herrscher trägt einen goldenen Brustpanzer über einem blauweiß changierenden, kurzen Untergewand und einem purpurfarbenen Mantel. Hinter ihm erscheinen römische Soldaten. Auf der anderen Seite wird Sebastian von Kriegern, die mit Fahnen und römischen Feldzeichen ausgestattet sind, herzugeführt. Sein Brustpanzer ist silberweiß, das Untergewand grün, der Mantel violett. Bei den Soldaten überwiegen rötlichgelbe Farbtöne. Zwischen den Kontrahenten, die scharf umrissen, silhouettenhaft gegen den grautonigen Himmel gesetzt sind, bleibt eine Gasse frei, die das Thema der Auseinandersetzung, das verlangte Opfer an die heidnischen Götter szenisch sichtbar macht: im Mittelgrund des Bildes erscheinen heidnische Priester in weißen Gewändern, die eine Jupiter-Statuette mit sich führen; am westlichen Bildrand hockt, für den Betrachter kaum zu sehen, ein halbnackter Mann in roten Mantel, einen Widder als Opfertier in den Armen haltend; dar über ein Dreifuß mit Opferfeuer. Während die südliche Bildhälfte durch den Baldachin und den Baum weitgehend verdunkelt wird, fällt vom Himmel helles Licht auf Sebastian, und zwei Putten halten Märtyrerkranz und Palmzweig über ihn. Das Fresko entwickelt nur eine geringe Tiefenräumlichkeit. Die großflächigen, in sich changierenden Farbfelder mit ihren unregelmäßigen Schattenfurchen schließen sich fast teppich- 
-
 
 haft zusammen. Violette, rötliche und gelbe Töne herrschen vor, durchsetzt mit türkisfarbenen und blauen Einsprengseln. Die heute sehr gedämpfte, etwas düstere Buntfarbigkeit ist vermutlich ein Resultat der ehemaligen Verschimmelung. Zu diesem Fresko existiert eine Vorzeichnung (s. unter Autor), der das ausgeführte Bild bis in Details entspricht.
 
@@ -267,15 +210,9 @@ Noch ein Blafon 14 Schuch im Durchschnit Christus erzirnt über die sin dige Wel
 
 B VERPFLEGUNG DER KRANKEN DURCH DIE MALTESER Einansichtige Bildanlage, stark untersichtig; Ansicht nach O. Die hochformatige Szene ist bis auf einen schmalen, von wenigen Engeln besetzten Wolkenzug am westlichen Bildrand rein terrestrisch. Die Handlung entfaltet sich in der unteren Bildhälfte, während die obere im wesentlichen nur dekorativen Charakter hat.
 
-Über einer kleinen Bodenwelle erhebt sich – in zwei Diagonalzügen angeordnet – eine aus Treppenversatzstücken und Mauerzungen aufgetürmte Handlungsbühne, die auf ihren verschiedenen Podesten den einzelnen Figurengruppen Raum gibt. Darüber öffnen sich zwei breite Arkaden zum realen Himmel hin; der Mittelpfeiler ist mit einer vorgestellten Säule ausgestattet. Der obere, architektonisch unklare Abschluß der Arkatur verschwindet hinter einer von einigen Engeln und Puttenköpfchen belebten Wolkenschicht. Ein zum Bildrand hin hochgeraffter roter Vorhang, der die nördliche Arkade etwas überdeckt, ist seiner oberen Einfassung nach als Baldachin zu verstehen, der sich in Diagonalrichtung zur Bildmitte öffnet. Hier befindet sich, von zwei Malteserrittern flankiert, der ranghöhere Ritter, von dem der Auftrag, die Kranken zu speisen, ausgeht. Er ist dicht an die Säule gerückt, die wie bei Herrscherbildern als Hoheits-Symbol zu sehen ist. Die drei Malteser tragen eine weiß gepuderte Haartracht und den langen, schwarzen, weitärmeligen Mantel des Malteserordens, der auf der linken Schulter mit einem aufgenähten, weißen, achtzackigen Kreuz versehen ist. Um den Hals haben sie einen feinen weißen Schal geschlungen, der vorn mit einer Art Rosette verbunden ist. Unter dem Mantel tragen sie den roten, mit weißen Manschetten und weißen Knopfleisten einge- faßten Rock, der sich aus der roten >cotta d'armi« entwickelt hat. Im Rockspalt des mittleren Malteserritters wird das große Malteserkreuz auf rotem Grund sichtbar, das er mitten auf dem Brustpanzer trägt. Er gehört damit zu den oberen Würdenträgern, denn nur denjenigen Rittern stand das große Kreuz zu, die berechtigt waren, den Großmeister zu wäh-
-
+Über einer kleinen Bodenwelle erhebt sich – in zwei Diagonalzügen angeordnet – eine aus Treppenversatzstücken und Mauerzungen aufgetürmte Handlungsbühne, die auf ihren verschiedenen Podesten den einzelnen Figurengruppen Raum gibt. Darüber öffnen sich zwei breite Arkaden zum realen Himmel hin; der Mittelpfeiler ist mit einer vorgestellten Säule ausgestattet. Der obere, architektonisch unklare Abschluß der Arkatur verschwindet hinter einer von einigen Engeln und Puttenköpfchen belebten Wolkenschicht. Ein zum Bildrand hin hochgeraffter roter Vorhang, der die nördliche Arkade etwas überdeckt, ist seiner oberen Einfassung nach als Baldachin zu verstehen, der sich in Diagonalrichtung zur Bildmitte öffnet. Hier befindet sich, von zwei Malteserrittern flankiert, der ranghöhere Ritter, von dem der Auftrag, die Kranken zu speisen, ausgeht. Er ist dicht an die Säule gerückt, die wie bei Herrscherbildern als Hoheits-Symbol zu sehen ist. Die drei Malteser tragen eine weiß gepuderte Haartracht und den langen, schwarzen, weitärmeligen Mantel des Malteserordens, der auf der linken Schulter mit einem aufgenähten, weißen, achtzackigen Kreuz versehen ist. Um den Hals haben sie einen feinen weißen Schal geschlungen, der vorn mit einer Art Rosette verbunden ist. Unter dem Mantel tragen sie den roten, mit weißen Manschetten und weißen Knopfleisten einge- faßten Rock, der sich aus der roten >cotta d'armi« entwickelt hat. Im Rockspalt des mittleren Malteserritters wird das große Malteserkreuz auf rotem Grund sichtbar, das er mitten auf dem Brustpanzer trägt. Er gehört damit zu den oberen Würdenträgern, denn nur denjenigen Rittern stand das große Kreuz zu, die berechtigt waren, den Großmeister zu wählen. Man darf annehmen, daß mit der zentralen Figur der Großprior des neugegründeten Großpriorats München-Ebersberg gemeint ist. Die langen Zeremonienmäntel mit den weiten Ärmeln, sowie die Farbe Weiß für die Beinkleider und Strümpfe anstelle von Schwarz weisen auf einen festlichen Anlaß: Hier ist wohl die Übernahme Ebersbergs durch die Malteser und die durch sie bewerkstelligte Wiederherstellung von Kloster und Kirche gemeint.
 
 [[File:Band11_chunk007_p006_img001.jpg|thumb|Gewölbe des Langhauses und der Seitenschiffe]]
-
-
-
-
-len. Man darf annehmen, daß mit der zentralen Figur der Großprior des neugegründeten Großpriorats München-Ebersberg gemeint ist. Die langen Zeremonienmäntel mit den weiten Ärmeln, sowie die Farbe Weiß für die Beinkleider und Strümpfe anstelle von Schwarz weisen auf einen festlichen Anlaß: Hier ist wohl die Übernahme Ebersbergs durch die Malteser und die durch sie bewerkstelligte Wiederherstellung von Kloster und Kirche gemeint.
 
 Bildthema ist die Krankenversorgung, die ursprüngliche Aufgabe des Johanniterordens, seit 1534 auch Malteserorden genannt. Die symbolischen Szenen sind halbkreisförmig um die zentrale Gestalt gruppiert. Ein muskulöser nur um die Lenden bekleideter Mann mit einer schweren Schale auf dem Kopf steigt zu dem ersten Podest empor, wo ein kniender Bedürftiger nach einem Korb mit Broten greift. Etwas oberhalb, am südlichen Bildrand, ruht eine unbekleidete weibliche Kranke, die von einem Ordensritter Brot empfängt. Ihm assistiert ein Malteserordenspriester in schwarzem Talar und rotem Umhang. Das mittlere Treppenstück dient nur dem Großprior als Sockel. Zur nördlichen Bildhälfte leiten die Sitzfiguren eines jungen Paares über; der Mann ist am Bein verwundet und hält einen Krückstock. Etwas oberhalb ruht ein halbnackter Kranker in den Armen eines knienden Ordenspriesters, der für ihn einen Becher bereithält.
 
@@ -283,9 +220,7 @@ Die beiden, über unterschiedliche Treppenblöcke zum südlichen bzw. nördliche
 
 Die Farbigkeit zielt auf matte und stumpfe Werte ab. Sehr viel Weiß in den Gewändern, dazu verschiedene helle Ockertöne, ein zartes Graugrün, ausgebleichtes Rot und aufgehelltes Schwarz bilden die Hauptakzente.
 
-
 == Exkurs: Der Malteserorden in Bavern ==
-
 
 Die Selbstdarstellung des Malteserordens in einem Deckenbild und an so hervorragender Stelle ist unseres Wissens ohne Beispiel in Bayern. Sie verdankt ihre Existenz dem zeitlichen Zusammentreffen des Brandunglücks von Ebersberg und der Gründung des Malteserordens in Bayern mit dem Großpriorat München-Ebersberg. (Bekannt ist noch die sog. Schüleraula des Jesuitenkollegs in Burghausen mit einer wissenschaftlich-aufklärerischen Ausstattung unter den Maltesern, die aber der früheren Ausmalung unter den Jesuiten bei einer Renovierung wieder geopfert wurde.) In Bayern war der Orden bis dahin kaum verankert, mehrfach hatten sich die bayerischen Herzöge und die Kurfürsten Max Emanuel und
 
@@ -293,11 +228,7 @@ Max III. Joseph um die Errichtung eines eigenen Priorates des Malteserordens in 
 
 Papst Pius VI. erteilte seine Zustimmung möglicherweise während seines Besuches in München vom 26. April bis 2. Mai 1782. Der schnellen Verwirklichung des Plans kam die 1773 erfolgte Aufhebung des Jesuitenordens zu Hilfe. Denn nachdem der bayerische Prälatenstand sich geweigert hatte, den Orden finanziell auszustatten, und auch die Aufhebung einiger Frauenklöster zugunsten des Ordens scheiterte, wurde das von Max III. Joseph eigentlich für das Schulwesen vorgesehene Jesuitenvermögen dem neuen Großpriorat einverleibt. Freiherr von Flachslanden und der Komtur Graf Morawitzky nahmen 1782/83 folgende Einteilung der ehemaligen Jesuitenklöster vor: Großpriorat München-Ebersberg, Großballei Neuburg an der Donau sowie mehrere Kommenden, darunter Landsberg, Amberg, Altötting, Straubing. Vorbedingung für die Aufnahme in den Ritterorden war ein Ahnennachweis. Nicht unbegründet waren die Befürchtungen des Großpriors von Deutschland, Johann Benedikt Fürst von Rheinach, daß das Großpriorat zum Versorgungsinstitut des Adels, vornehmlich der illegitimen Kinder Karl Theodors, werden könnte. Denn Karl August Reichsgraf von und zu Bretzenheim, der illegitime Sohn des Kurfürsten Karl Theodor, zu diesem Zeitpunkt 14 Jahre alt, wurde zum ersten Großprior nicht ordnungsgemäß gewählt, sondern vom Kurfürsten bestimmt. Der Bailli Freiherr von Flachslanden wurde zum Statthalter und Administrator des Großpriors ernannt, Franz Albert Leopold Freiherr von Oberndorf zum Großbailli und Prior von Neuburg und Kasimir Haeffelin zum Gnadenbailli des Ordens und zum Generalvikar des Großpriorats. Möglicherweise sind diese drei Personen in der Szene porträtiert. Die Physiognomie des mittleren Maltesers stimmt durchaus mit den drei bekannten Bildnissen des Freiherrn von Flachslanden überein, in der linken Person kann Freiherr von Oberndorf und in dem Geistlichen rechts Freiherr von Haeffelin vermutet werden (vgl. ihre Porträts bei Autengruber, Abb. 2, 9, 14, 10 und 4). Der jugendliche Reichsgraf von Bretzenheim ist nicht vertreten, da für ihn der Administrator Flachslanden fungierte. In jedem Fall sollen die genannten Personen nur als Andeutung verstanden werden, denn vordergründig in dieser Darstellung ist das mildtätige Handeln des Ordens. Im Gegensatz zu allen alten Ordensniederlassungen wurde allerdings im
 
-
 [[File:Band11_chunk007_p007_img001.jpg|thumb|B Verpflegung der Kranken durch die Malteser (Franz Seraph Kirzinger 1783)]]
-
-
-
 
 Großpriorat Bayern kein Krankenhaus und keine andere caritative Einrichtung errichtet; das ausgehende 18. Jahrhundert war nicht die Zeit einer spirituellen Erneuerung. Zwei Tage nach Karl Theodors Tod, am 18. Februar 1799, hob der neue Kurfürst Max IV. Joseph den wenig beliebten Orden auf. Weil die Englisch-Bayerische Zunge inzwischen aber um ein Russisches Großpriorat erweitert und der russische Zar Paul I. zum Großmeister gewählt worden war und den kurfürstlichen Erlaß mit dem Befehl, auf dem Feldzug nach Frankreich in Bayern einzumarschieren, quittierte, sah sich der Kurfürst gezwungen, seinen Entschluß zu revidieren. Als nach dem Ende des Heiligen Römischen Reichs dem Orden die politische Grundlage entzogen war, hob König Max I. Joseph am 8. September 1808 erneut den Malteserorden in Bayern auf (der historische Abriß folgt Strachwitz und Autengruber).
 
@@ -322,45 +253,25 @@ D DER HL. SEBASTIAN ALS FÜRBITTER Untersichtige Bildanlage, Ansicht nach O. Auf
 
 Im Himmel erscheinen vor der lichten Strahlenglorie mit der Geisttaube Christus und Gottvater, dieser mit ungewöhnlicher blonder Haar- und Barttracht. Sie sind weitgehend zu Silhouetten reduziert und nur von wenigen Engeln und Putten begleitet. Verbindungsfigur zwischen irdischem und himmlischem Bereich ist der hl. Sebastian, der auf der Wolkenbank kniet, die der Säule vorgelagert ist und dadurch einen sehr dominanten Platz einnimmt. Er trägt Rüstung und violetten Mantel; in der rechten Hand hält er zwei Pfeile und empfiehlt mit der Linken die Bittflehenden Christus.
 
-Die Höhenentwicklung des Freskos wird kaum noch durch Luftperspektive erreicht, vielmehr durch das Über- und Hin-
-
+Die Höhenentwicklung des Freskos wird kaum noch durch Luftperspektive erreicht, vielmehr durch das Über- und Hintereinanderstaffeln von Figuren und Architektur-Elementen und die Einbeziehung der vertikalen Fluchtlinien der Komposition als Leitlinien für das Auge. Der Himmel ist trotz der hellen Glorie nicht transparent, sondern eher eine ockertonige Folie, der die himmlischen Personen als Silhouetten appliziert sind. Die Räumlichkeit der architektonischen Bühne ist nur durch das Addieren der Körpervolumen begreifbar. Auffallend ist das Interesse des Freskanten an der Darstellung komplizierter Körperhaltungen in komplizierten Ansichten, rein um ihrer selbst willen.
 
 [[File:Band11_chunk007_p008_img001.jpg|thumb|Verpflegung der Kranken durch die Malteser, Ausschnitt aus Fresko B]]
-
-
-
 [[File:Band11_chunk007_p009_img001.jpg|thumb]]
-
-
 [[File:Band11_chunk007_p009_img002.jpg|thumb]]
-
-
-tereinanderstaffeln von Figuren und Architektur-Elementen und die Einbeziehung der vertikalen Fluchtlinien der Komposition als Leitlinien für das Auge. Der Himmel ist trotz der hellen Glorie nicht transparent, sondern eher eine ockertonige Folie, der die himmlischen Personen als Silhouetten appliziert sind. Die Räumlichkeit der architektonischen Bühne ist nur durch das Addieren der Körpervolumen begreifbar. Auffallend ist das Interesse des Freskanten an der Darstellung komplizierter Körperhaltungen in komplizierten Ansichten, rein um ihrer selbst willen.
 
 Ähnlich wie in Fresko C wirken hier die ockergetönten Wolken und die zart ockerfarbenen Architekturteile als eine Art Gesamtgrundierung, die den Figuren Halt gibt und die etwas kreidigen Buntfarben der Gewänder, Braun, lichtes Grün, ausgebleichte Rot-, Blau- und Violett-Töne einbindet.
 
 5-8 VIER EVANGELISTEN Die vier Stichkappenzwickel, die paarweise Fresko D flankieren, enthalten hochovale Medaillons mit Darstellungen der Evangelisten, die als sitzende Halbfiguren in Grisaille auf grauviolettem Grund gemalt sind.
 
-
 [[File:Band11_chunk007_p009_img003.jpg|thumb|2 Gregor]]
-
 
 [[File:Band11_chunk007_p009_img004.jpg|thumb]]
 
-
 S<sub>1-8</sub> Fresken in den Seitenschiffen (Ausmalung von Franz Kirzinger 1783 über den Fresken J.I. Schillings)
 
-DIE BERGPREDIGT UND DIE SIEBEN LEIBLICHEN WERKE DER BARMHERZIGKEIT Entsprechend der Kernaufgabe des Johanniter-Ordens, der Armen- und Krankenpflege, sind in den Seitenschiff-Kompartimenten des LHs die Sieben Werke der Barmherzigkeit als Ergänzung zum Bildthema von Fresko B dargestellt. Sie wurden auf besonderen Wunsch des Freiherrn von Flachslanden hier angebracht (Stadtarchiv München). Der Begriff von den zunächst sechs Werken der Barmherzigkeit – das siebente, die Bestattung der Toten, kam später hinzu – geht zurück auf Jesu Vorankündigung des Endgerichts (Mt 25,31–46), nach der zu den Gerechten der zählen wird, der diese Wohltaten seinen bedürftigen Mitmenschen, d. h. Christus selbst erwiesen hat. In Ebersberg ist die Bildfolge zusätzlich den Worten Jesu aus der Bergpredigt unterstellt: »Gebt, und es wird euch gegeben werden; ein gutes, vollgedrücktes, gerütteltes und gehäuftes Maß wird man euch geben in euren Schoß; denn mit dem Maß, mit dem ihr meßt, wird euch wieder gemessen werden« (Lc 6,38). Die Darstellung Jesu, wo er diese Worte zu seinen Jüngern spricht, ist das östliche Fresko im südlichen Seitenschiff. Mit ihm beginnt die Zählung. Es folgen die Sieben Werke der Barmherzigkeit in ihrer Reihenfolge, beginnend im östlichen Bildfeld des nördlichen Seitenschiffs und dann alternierend in den Schiffen bis
-
+DIE BERGPREDIGT UND DIE SIEBEN LEIBLICHEN WERKE DER BARMHERZIGKEIT Entsprechend der Kernaufgabe des Johanniter-Ordens, der Armen- und Krankenpflege, sind in den Seitenschiff-Kompartimenten des LHs die Sieben Werke der Barmherzigkeit als Ergänzung zum Bildthema von Fresko B dargestellt. Sie wurden auf besonderen Wunsch des Freiherrn von Flachslanden hier angebracht (Stadtarchiv München). Der Begriff von den zunächst sechs Werken der Barmherzigkeit – das siebente, die Bestattung der Toten, kam später hinzu – geht zurück auf Jesu Vorankündigung des Endgerichts (Mt 25,31–46), nach der zu den Gerechten der zählen wird, der diese Wohltaten seinen bedürftigen Mitmenschen, d. h. Christus selbst erwiesen hat. In Ebersberg ist die Bildfolge zusätzlich den Worten Jesu aus der Bergpredigt unterstellt: »Gebt, und es wird euch gegeben werden; ein gutes, vollgedrücktes, gerütteltes und gehäuftes Maß wird man euch geben in euren Schoß; denn mit dem Maß, mit dem ihr meßt, wird euch wieder gemessen werden« (Lc 6,38). Die Darstellung Jesu, wo er diese Worte zu seinen Jüngern spricht, ist das östliche Fresko im südlichen Seitenschiff. Mit ihm beginnt die Zählung. Es folgen die Sieben Werke der Barmherzigkeit in ihrer Reihenfolge, beginnend im östlichen Bildfeld des nördlichen Seitenschiffs und dann alternierend in den Schiffen bis zum letzten Werk im westlichen Bildfeld des nördlichen Seitenschiffs.
 
 [[File:Band11_chunk007_p009_img005.jpg|thumb|C Taufe Jesu im Jordan]]
-
-
-
-
-
-
-zum letzten Werk im westlichen Bildfeld des nördlichen Seitenschiffs.
 
 Die querovalen Bilder sind einansichtig, alle mit der Ansicht nach O. Sie ersetzen die zerstörten Sebastian-Szenen von J.I. Schilling und fügen sich in die Stuckrahmen von 1764, deren breite Kartuschen in den Hauptachsen in die Malfläche eingreifen. Bildüberschrift und Bildunterschrift sind innerhalb der Bildfläche angebracht.
 
@@ -383,7 +294,6 @@ S. DIE FREMDEN BEHERBERGEN / AFRA VON AUGSBURG Überschrift S. AFRA, Unterschrif
 Dargestellt ist die Bekehrung der hl. Afra durch den Bischof Narcissus von Gerona. Afra war die Tochter vornehmer Einwanderer aus Zypern, die mit ihrer Mutter in Augsburg als Kurtisane lebte. Während der Diokletianischen Christenverfolgung nahm sie den Bischof Narcissus, der auf der Flucht war, bei sich auf. Sie bereitete ihm ein Mahl und wurde durch sein Tischgebet so sehr bewegt, daß sie beschloß, Christin zu.
 
 [[File:Band11_chunk007_p010_img001.jpg|thumb|D Hl. Sebastian als Fürbitter, 5–8 Evangelisten (Franz Seraph Kirzinger 1783)]]
-
 
 [[File:Band11_chunk007_p011_img001.jpg|thumb]]
 
@@ -412,7 +322,6 @@ bewegt, daß er von da an sein Leben der Nächstenliebe widmete, in Granada ein 
 S. DIE TOTEN BEGRABEN / AGLAIS Überschrift S. AGLAIS (heute weitgehend zerstört); Unterschrift Begrabet de Todte. Inschrift auf einem Grabstein S. / VENANTIVS. MT. Vor einer hellen Landschaft steht neben einem offenen Grab eine violett ausgeschlagene Totentrage, in der der Leichnam eines Märtyrers ruht, gehüllt in das weiße Totenlaken. Der abgeschlagene Jünglingskopf ist zwischen den nackten Füßen aufgebahrt. Über den Leichnam beugt sich eine reich und vornehm gekleidete Frau mit dem Kopfschleier der Verheirateten, die rechte Hand im Abschiedsgestus erhoben. Sie trägt einen langen, goldgelben Rock, ein Mieder und einen kürzeren, zweiten Rock aus schilfgrünem Brokat. Die Inschrift auf der hochgestellten Grabplatte S. VENANTIVS. MT. sollte sich auf den hl. Venantius von Camerino (s. S<sub>3</sub>) beziehen. Mit seiner Vita hat jedoch die hl. Aglais nichts zu tun. Da auch in der handschriftlichen Inhaltsangabe zu Kirzingers Fresken aus dem Nachlaß von Lorenz Westenrieder der Name auf der Grabplatte St. Venantius lautet, so scheint hier von Anfang an eine Verwechslung von zwei Märtyrern stattgefunden zu haben, die beide als Jünglinge den Martertod durch Enthauptung starben: Venantius von Camerino und Bonifatius von Tarsus (14. 5.; s. Ribadeneira-Hornig, Bd 1 S. 729–33; Stadler, Bd 1, S. 500 f.). Dieser Bonifatius war Oberaufseher der Güter einer reichen und noch jugendlichen römischen Matrone, mit der er in Sünde lebte. Aglais wurde vor Reue ergriffen; sie schickte Bonifatius aus, um Reliquien von Märtyrern zu holen, durch deren Fürsprache sie Gottes Verzeihung erreichen könnten. Bonifatius kam nach Tarsus, wo die Christen besonders schwer verfolgt wurden. Er bekannte sich zum Christentum, wurde gefoltert und enthauptet, im Jahr 305. Seine Reisegefährten kauften seinen Körper und Kopf frei, balsamierten den Leichnam ein und brachten ihn nach Hause. Aglais, durch einen Engel verständigt, ging dem Zug entgegen und begrub anschließend Bonifatius außerhalb von Rom. Dann zog sie sich in ein Kloster zurück.
 
 Im Gynaeceum des Artur du Moustier (Mitte 17. Jh.), einer Legendensammlung heiliger und seliger Frauen, wird Aglais als heilig aufgeführt (Stadler, Bd I, S. 77, s.v. Aglae, und Einleitung S. 34).
-
 
 [[File:Band11_chunk007_p012_img001.jpg|thumb]]
 
@@ -448,8 +357,6 @@ W<sub>5</sub> SEBASTIAN RETTET KAISER OTTO II. Die Szene spielt in einer Meeresl
 
 Dargestellt ist die Niederlage Ottos II. (973–983) gegen die Fatimiden 982 in Süditalien. Nachdem er sie zunächst besiegt hatte, umzingelten sie ihn am Kap Colonne und der Kaiser konnte sich nur mit knapper Not durch eine Flucht zu Schiff retten. Ein Meer Port Kaysers Otto II:
 
-
-
 [[File:Band11_chunk007_p013_img001.jpg|thumb]]
 
 [[File:Band11_chunk007_p013_img002.jpg|thumb]]
@@ -482,17 +389,13 @@ Ebersberg war im Mittelalter der berühmteste Wallfahrtsort im altbayerischen Ra
 
 [[File:Band11_chunk007_p013_img007.jpg|thumb]]
 
-
-
 2. Ausmalung des Langhauses und der Seitenschiffe (Joseph Ignaz Schilling 1764; LHs-Fresko A erhalten, Vorzeichnungen Schillings für zwei weitere LHs-Fresken und für acht Seitenschiff-Fresken erhalten)
 
 In dem Konvolut von Zeichnungen Schillings in der SGS Mü sind außer den acht Vorzeichnungen für die Felder der Seitenschiffe (s. u.) und der Vorzeichnung für Fresko A noch drei weitere Sebastiansszenen enthalten. Eine zeigt die eigentliche Pfeilmarter (SGS Mü, Inv.Nr. 30488, Halm-Maffei V 80). Sie ist auf anderem Papier als die übrigen Zeichnungen und auch nicht von der gleichen Hand; der Duktus der Feder ist zarter, skizzenhafter als in den anderen Blättern. Wenn sie für Ebersberg gedacht war, dann als ein Entwurf aus einer frühen Planungsphase. Krammer (2002, S. 260) nimmt aufgrund des zutreffenden Bildformats an, daß dieses Fresko für das stuckierte Bildfeld der Vorhalle vorgesehen war bzw. sich womöglich unter der Tünche erhalten hat. Dann stellt sich die Frage, ob und warum Kirzinger für diesen Platz auch ein Fresko entworfen hat (s. S. 310).
 
 Die beiden andern Zeichnungen: *Der totgeglaubte Sebastian unter dem Marterbaum* (Inv.Nr. 30478) und *Wallfahrt zum hl. Sebastian in Ebersberg* (Inv.Nr. 30 489) dagegen sind sicher Vorzeichnungen für Hauptfresken in Ebersberg. Für die beiden Fresken kommt nur das Mittelschiff-Gewölbe des LHs als Anbringungsort in Betracht. Das AR-Gewölbe scheidet aus, da es ja schon 1751 mit der Geschichte der Wallfahrt ausgemalt worden war. Damit fehlte beim Ebersberger Sebastianszyklus, wie er 1764 vollendet wurde, die Hauptszene der Sebastians-Vita, die Pfeilmarter. Dieses Martyrium war in der holzgeschnitzten Sebastians-Figur im Hochaltar dargestellt.
 
-
 == Langhausfresken ==
-
 
 DER TOTGEGLAUBTE SEBASTIAN UNTER DEM MARTERBAUM Der Entwurf ist in Untersicht angelegt und für einen sehr gedehnten Vierpaßrahmen bestimmt, der sich über zwei Joche des Mittelschiffs erstreckte. Der Marterbaum ist in der Mittelachse der symmetrisch aufgebauten Komposition dargestellt. Unter ihm liegt Sebastian, in dessen Leib zahlreiche Pfeile stecken. Die Fesseln, mit denen er an den Baum gebunden war, sind gelöst. Über ihm im Himmel fliegt ein großer Engel herbei, mit Märtyrerkrone und Palmzweig. Die irdische Zone, eine hügelige Landschaft, bildet eine beidseitig ansteigende Vordergrundsrampe aus, in der zahlreiche römische Soldaten zu sehen sind, beritten und zu Fuß, Bogenschützen, Hellebardenträger und Trommler. Links erscheint ein Befehlshaber zu Pferde, darüber ein weiterer Berittener mit Fahne, und am Bildrand hält ein Soldat ein Feldzeichen. Rechts erhebt sich ein Tempelarchitektur mit einer Jupiter-Statue, die ein Blitzbündel in der Hand hat; ein heidnischer Priester weist auf sie hin. Zu Füßen dieser Gruppe sitzen zwei klagende Frauen, wahrscheinlich die Witwe Irene mit einer Dienerin.
 
@@ -500,9 +403,7 @@ Links im Hintergrund naht eine Schar von Soldaten, deren Anführer einen Kreuzst
 
 WALLFAHRT ZUM HL. SEBASTIAN IN EBERSBERG Die einansichtige, gemäßigt untersichtige Bildkomposition hat die gleichen Abmessungen wie die Darstellung mit dem leblosen Körper Sebastians unter dem Baum. Die untere Bildhälfte füllt eine beidseitig ansteigende Geländemulde, die den zahlreichen Prozessionen, die sich in sie ergießen, als geräumiger Bühnenraum dient. An der Horizontlinie erscheint links die Silhouette Münchens mit den Türmen der Frauenkirche, der Peters- und der Theatinerkirche, rechts, etwas weniger entfernt, Kloster Ebersberg mit Kirche und noch mittelalterlichem Turm. Von allen Seiten strömen Prozessionen mit Kirchenfahnen und Opferkerzen herzu. Die Hauptprozession nähert sich im Vordergrund von links und biegt zum hochgelegenen Kloster ab. Man erkennt im Gefolge der Kleriker und Bürger einen Bischof; es ist wahrscheinlich ein Bischof von Freising. Am rechten Bildrand, erhöht auf einem Geländevorsprung, ist eine Pilgergruppe zu sehen, die nur aus Klerikern besteht. In der oberen Bildhälfte, im Himmelsbereich, kniet rechts auf Wolken der hl. Sebastian in Rüstung und Mantel; ein Putto hinter ihm hält seinen Helm und sein Attribut, den Köcher mit den Pfeilen. Sebastian hält in jeder Hand einen Schild; mit diesen wehrt er die Zornespfeile ab, die Christus, links über Sebastian auf Wolken thronend, zur Erde schleudert. (Bei der Anordnung der Schilde in den Händen Sebastians versuchte der Zeichner zwei Möglichkeiten.) Die Wallfahrt zum hl. Sebastian in Ebersberg war neben der nach Andechs eine der bedeutendsten in Altbayern. Von München war sie sieben Fußstunden entfernt. Besonders in den Zeiten der Pest lösten Städte wie Mühldorf und Straubing mit regelmäßigen Wallfahrten nach Ebersberg Gelübde ein. Im Jubeljahr 1650 zogen viele Städte, Märkte und Dörfer nach Ebersberg, weil sie von der Pest verschont worden waren, unter ihnen der Bischof Veit Adam von Freising (»Gnaden-Schutz« S. 257 f.). Aber auch von einer Wallfahrt im Jahr 1687 ist die Rede, als vier Tausend Menschen kamen, unter ihnen die Hl.-Kreuz-Bruderschaft aus Forstenried und die Sebastians-Bruderschaft, darunter Hoch und Niedrig, Bürgermeister, Grafen und Freiherren, und um einen glücklichen Ausgang der Schlacht bei Mohacz gegen die Türken zu beten (»Gnaden-Schutz« S. 268).
 
-
 == Seitenschiff-Fresken ==
-
 
 Die acht kleinen Entwurfszeichnungen waren ihren Abmessungen und dem Umriß nach eindeutig für die Seitenschiffkompartimente und die Stuckrahmung von 1764 bestimmt. Alle acht Szenen sind mit Architektur-Elementen hinterlegt, die teils Innenräume, teils als Schauplatz die Stadt Rom darstellen. Diese Schauplätze sind leicht untersichtig konstruiert, mit Stufen oder Rampen, die in die meist flache Handlungsbühne einführen.
 
@@ -530,23 +431,15 @@ SEBASTIANS LEICHNAM WIRD IN DIE CLOACA MAXIMA GEWORFEN Freies Feld vor der Stadt
 
 Sowohl die kleinformatigen, als auch die großen Vorzeichnungen machen deutlich, daß hier im Sinn der Aufgabe der Wallfahrtskirche die Vita des Titelheiligen in allen wichtigen Stationen – und abschließend seine Funktion als Beschirmer – eindringlich und belehrend dargestellt werden sollten. Joseph Ignaz Schilling verzichtete weitgehend auf die Anwendung von »Tiefenraum« als Handlungsort. Alles Wesentliche geschieht sozusagen bildparallel und war für den Wallfahrer leicht zu erkennen. Hierzu trug auch der symmetrische Bildaufbau der Szenen mit dem Marterbaum bei. Darüber hinaus versuchte Schilling in den kleinen Szenen der Seitenschiffe Gefühlsstimmungen darzustellen, z.B. Zorn im Gesicht des hl. Sebastian, der die Götzenbilder zerschlägt, oder innige Anteilnahme im Gesicht der Irene, oder den Nachklang durchlittener Folter im Gesichtsausdruck des toten Sebastian. Hier wurde private Religiosität spürbar, die nicht mehr der Zeit des Rokoko angehört.
 
-
 == Deckenfresko in der Vorhalle (Franz Kirzinger 1783, Beschreibung in den »Gedanckhen...«) ==
-
 
 DER HL. SEBASTIAN WEHRT DIE ZORNESPFEILE CHRISTI AB Die handschriftliche Inhaltsangabe zu Franz Kirzingers Fresken mit dem Titel »Gedanckhen welche in dem lobl. gottshauß S: Sebastian zu Ebersperg gemahlen worden in fresco« schließt mit der Beschreibung eines weiteren, heute nicht mehr vorhandenen Freskos, das möglicherweise am Gewölbe der äußeren Vorhalle oder unter der Empore angebracht war: »Noch ein Blafon 14 Schuch im Durchschnit Christus erzirnt über die sindige Welt wirft mit Pfeile allerhand Übels herunder. S. Sepastianus kniet etwas beser herunder in einer Stelung Gott für seine Verehrer bit tend und mit beiden Händen seinen Mantl über die bei ihm Hilf suchente Menschen ausbreitent, worin die göttliche Zorn Pfeile steckhen. Dans herunden verschidene Presthaffte«. Das Thema des erzürnten Weltheilands, der Pfeile auf die Erde schleudert, die der fürbittende Sebastian abwehrt, war von Joseph Ignaz Schilling in dem Fresko über der Wallfahrt nach Ebersberg dargestellt gewesen. Dort wehrte er mit zwei Schil den ab (s. S. 305), hier fing er die Pfeile in seinem Mantel auf. Die Maßangabe »14 schuch im Durchschnit« läßt ein rundes Fresko von annähernd 4,20 m Durchmesser erwarten. Da die Inhaltsangabe zu den Fresken mit dem AR beginnt und im Westen der Kirche endet, ist es naheliegend, dieses Fresko im Eingangsbereich zu vermuten. Das Gewölbe der spätgotischen Vorhalle, 1666 barockisiert, wurde 1764 ebenso verändert wie die Decke unter der Empore. In der Vorhalle umschließt ein geschweifter Stuckrahmen das heute leere Bildfeld mit den Maßen ca. 5,40 x 4,40 m; das Stuckfeld unter der Empore mißt im Durchmesser 4,40 m. Für die genannte Darstellung kommt beides in Frage.
 
-
 == Literatur zum Malteser-Orden ==
-
 
 Zedler, Bd 19, Sp. 772–79, s.v. Malteser-Ritter. Doyé, Bd 2, Anhang II: Die alten Trachten der männlichen und weiblichen Orden sowie der geistlichen Mitglieder der ritterlichen Orden, Taf. 141, Fig. 281, 282; Taf. 142, Fig. 283. Krenn, Ernst, Die Trachten der katholischen Ordensleut, Regensburg 1932, S. 26.
 
-
-
-
 [[File:Band11_chunk007_p015_img001.jpg|thumb|Sebastianskapelle nach Süden mit Weiheinschri]]
-
 
 Heimbucher, Max, Die Orden und Kongregationen der katholischen Kirche (2 Bde), Paderborn 1933, Bd I, III/S 81 Der Johanniter- und der Deutschorden, S. 615 f.
 
@@ -554,9 +447,7 @@ Strachwitz, Rupert Graf, Die Bayerische Zunge des Malteser-Ritter-Ordens 1780–
 
 Autengruber, Michael, Klaus H. Feder, Bayern und Malta, Das Großpriorat Bayern der Bayerischen Zunge des Souveräner Malteser Ritterordens und seine Insignien, Brannenburg/Konstanz 2002.
 
-
 == Quellen und Literatur ==
-
 
 Pfarrarchiv Ebersberg, Wallfahrtsbüchlein 1747.
 BHStA I, Jesuitica 129: »Litterae Annuae Provinciae Germaniae Societatis Jesu«, Anni 1751–55; Jesuitica 130: Anni 1761–65; Jesuitica 1057: »Jesuiten = seu Maltheser Orden. Errichtung einer Maltheserordenszunge in Bayern...« 1782-89.
@@ -586,9 +477,7 @@ Historischer Atlas I, Bd 48, Gericht Schwaben (Gottfried Mayr), München 1989.
 Dehio 1990, S. 203-05.
 Kloster Ebersberg. Prägekraft christlich-abendländischer Kultur im Herzen Altbayerns. Hg. Landkreis und Kreissparkasse Ebersberg 2002, S. 235–77.
 
-
 [[File:Band11_chunk007_p015_img002.jpg|thumb]]
-
 
 Krammer, Markus, Kath. Pfarrkirche St. Sebastian in Ebersberg (= KKF Nr. 113), München <sup>6</sup>2003.
 

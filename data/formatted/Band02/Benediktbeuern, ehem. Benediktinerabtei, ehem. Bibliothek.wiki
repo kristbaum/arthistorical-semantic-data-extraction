@@ -19,7 +19,6 @@
 
 == Ehem. Bibliothek, jetzt Speisesaal ==
 
-
 '''Zum Bauwerk:''' Das ehem. Bibliotheks- und Archivgebäude wurde 1722 durch Joseph Hainz und Michael Ötschmann erbaut. Ursprünglich stand es frei im SO des Klosterkomplexes; nach 1900 wurde es mit ihm durch einen zweistöckigen Laubengang verbunden.
 
 Der ehem. Bibliotheksaal nimmt das obere Geschoß des Bibliotheksbaues ein; längsrechteckiger Saal (20,45 × 10,55 m) mit je drei Fenstern nach S, O und N, Zugang von der W-Seite. (Übersichtsplan S. 38)
@@ -32,9 +31,7 @@ ceps Archivum nostrum cum Bibliotheca reponi posset, ut im posterum ab incendior
 
 Die Dekoration des Bibliotheksaales in Benediktbeuern gehört zu den besten Werken der mittleren Schaffensperiode Johann Baptist Zimmermanns. Nach mehreren Jahren Unterbrechung (zuletzt Maria Mödingen, Schw. 1719/1722, und Vilgertshofen, 1721, CBD, Bd 1, S. 255 f.) ist er wieder als Freskant tätig, nach der für ihn entscheidenden Begegnung mit der höfischen Kunst durch die Berufung an den Münchner Hof und die Zusammenarbeit mit Joseph Effner bei der Dekoration von Schloß Schleißheim. In Benediktbeuern entwickelt Zimmermann weitgehend unabhängig von der Tradition der barocken Deckenmalerei neue Bildmöglichkeiten, die in der Folgezeit für die Deckenmalerei Süddeutschlands entscheidend werden.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' Spiegelgewölbe
 
@@ -49,39 +46,25 @@ a Höhe 6,70 m; 1,90 × 2,30
 
 '''Erhaltungszustand und Restaurierungen:''' Restaurierung 1971/72 durch Alban und Antonie Wolf, München. Es wurden Risse ausgebessert und Schimmelbildung beseitigt. Von Haarrissen und geringen Verschmutzungen abgesehen ist der Zustand gut, die Farben sind außerordentlich frisch und klar erhalten.
 
-
 == Beschreibung ==
-
 
 Zwei Hauptfresken (A, B) in massiver, geschlossener Rahmung flankieren in der Längsachse das kleine Mittelfeld (a) mit den Wappen. Vier weitere Bildfelder (1-4) kleineren Formats liegen im Achsenkreuz an den vier Deckenseiten; die Rahmung dieser Felder wird von der Stuckornamentik gebildet. Sämtliche Darstellungen sind einansichtig. Der Betrachterstandpunkt ist unter der Deckenmitte anzunehmen, für A und 3 mit Blickrichtung nach W. B und 4 nach O, 1 nach N und 2 nach S. Das Dekorationssystem zeigt Ahnlichkeit mit dem der 1715–18 ebenfalls von Zimmermann stuckierten Decke im Bibliothekssaal von Ottobeuren (Schw), doch unterscheidet es sich in zwei wesentlichen Punkten:
 
-
 [[File:Band02_chunk003_p013_img005.jpg|thumb]]
-
 
 Die beiden Hauptbildfelder sind nicht mehr streng in das System der Deckendekoration einbezogen und nicht von der Linienführung der Stuckornamentik bestimmt. Im Vergleich zu Ottobeuren haben sie sich in ihrem Verhältnis zur Dekoration emanzipiert. Die Nebenfelder sind dagegen in verstärktem Maß Teil der Dekoration geworden. Sie sind ebenso Gegenstand des Stuckornamentes wie etwa die Fontänen in den Diagonalen und haben mit diesen den gleichen – ornamentalen – Realitätsgrad. Auch ikonographisch sind die Inhalte der Nebenfelder gleichgewichtig wie die Darstellungen im Stuck (Tageszeiten, Jahreszeiten), während die ikonologischen Hauptgedanken auf die großen Bildfelder beschränkt sind. Hier kündigt sich in dem Verhältnis von ornamentaler Rahmenzone zu großem Bild eine Entwicklung an, an deren Ende die Decke von Steinhausen (Schw) steht (1732).
 
-
 [[File:Band02_chunk003_p013_img006.jpg|thumb|a Kloster- und Abtswappen]]
-
 
 a WAPPEN Die Mitte der Decke nimmt ein Bildfeld ein, das zwei reich ausgestaltete Wappenkartuschen mit dem Kloster- und dem Abtswappen zeigt. Putti tragen die Kartuschen, die mit Füllhörnern geschmückt sind. Darüber ist ein Puttokopf mit Mitra und Stab dargestellt.
 
 A WISSENSCHAFTEN UND KÜNSTE Mit wenigen Mitteln ist die Stimmung einer idealen Gartenlandschaft angedeutet: Über einem seichten Grasstreifen im Bildvordergrund führen Stufen, zur rechten Bildseite ansteigend, ins Bild. Links wird die Treppenanlage von einer Balustrade, auf der zwei große, blumengefüllte Schmuckvasen stehen, begrenzt; dahinter steht, an die Brüstung gelehnt, ein junger Mann mit Laute. Ein Gartenweg führt in die Tiefe des Bildes: dort sieht man im Hintergrund eine phantastische, statuengeschmückte Fontäne. An und auf dem Stufenpodest der rechten Bildseite sind die allegorischen Gestalten der Wissenschaften und Künste versammelt.
 
-
-
 [[File:Band02_chunk003_p014_img001.jpg|thumb]]
-
-
 
 [[File:Band02_chunk003_p014_img002.jpg|thumb|B Der hl. Benedikt im Kreis der Kirchenväter]]
 
-
-
-
 [[File:Band02_chunk003_p015_img001.jpg|thumb|2 Putti mit Fernrohr und Sonnenuhr]]
-
 
 Putti sitzen auf den Stufen, ein junger Mann lehnt schreibend am Sockel. Die Gruppe der Allegorien wird von einer Merkurstatue überragt. Darüber schwebt auf einer Wolke vor dem hellen Himmel die Gestalt der Divina Sapientia, von Putti begleitet. Sie hält ein Zepter mit dem strahlenden Dreifaltigkeitssymbol und hat ein Buch mit der Inschrift SAPI/ENTIA / DIVI/NA bei sich.
 
@@ -97,19 +80,13 @@ Weil in jeder Farbe in nuce die Möglichkeit enthalten ist, zur völligen Farblo
 
 [[File:Band02_chunk003_p015_img002.jpg|thumb]]
 
-
 B DER HL. BENEDIKT IM KREIS DER KIRCHENVATER Ein seichter, grasbewachsener Bodenstreifen mit dahinter ansetzenden Stufen führt ins Bild ein. Links sitzt auf einem Thronsessel über einer konvex geschwungenen Marmortreppe der hl. Benedikt in lehrender Haltung mit erhobenem Zeigefinger; in der Rechten hält er ein Buch mit der Inschrift REGU/LA / S. /BENE/DICTI. Über ihm erhebt sich eine Säulenarchitektur mit volutengekröntem Gebälk, über der baldachinartig eine schwere grüne Stoffdraperie mit Goldquasten liegt. Zu beiden Seiten Benedikts sitzen etwas tiefer Gregor der Große und ein Bischof. Hinter dem Thronsessel stehen junge Benediktinermönche mit dem Abtstab und der Mitra des Heiligen. Dieser Gruppe gegenüber, auf der rechten Bildseite, sitzen lesend und sprechend ein Kardinal, ein Bischof und weitere Benediktiner. Die vier Gestalten des Papstes Gregor, des Kardinals und der beiden Bischöfe sind farblich und kompositionell hervorgehoben und bilden eine inhaltliche Einheit. Obwohl außer Gregor dem Großen, der als Papst
-
-
-
-
 
 Der hl. Benedikt, der mit einer einfachen Kutte bekleidet ist und eine weiße Taube auf seiner Schulter trägt, sowie die drei weiteren Figuren, keiner durch ein Attribut gekennzeichnet ist, ist ihre Identität klar: es sind die vier Kirchenlehrer Augustinus, Ambrosius, Hieronymus und Gregor, kenntlich durch den Gesichts- und Gewandtyp und ihre Vierzahl.
 
 Die vielfigurige Szenerie nimmt den sehr seichten Mittelgrund des Bildes ein und steht mit ihrer bewegten Silhouette vor dem hellen Bildgrund, in dem eine Palastarchitektur und eine Pyramide zu sehen sind, unstofflich und durchscheinend in den hellen Himmelsgrund einbezogen. Diese lichte Fläche auf der rechten Bildseite ist dem Baldachinaufbau gegenübergesetzt in einer ähnlichen asymmetrischen Komposition wie in A.
 
 Auch die Farbigkeit zeigt Verwandtschaft mit dem zweiten Hauptbild in der häufigen Verwendung von Gold, Gelb und Ockerfarben. Sowohl das Rot der Säule und verschiedener Gewänder als auch das Grün der Draperie hat Braunbeimischungen. Daneben erscheint auch Schwarz als Farbe in den Kutten der Mönche, eine – hier thematisch bedingte – Ausnahme bei Zimmermann. Der Himmelsgrund ist sehr hell, fast farblos – transparent mit seinen zarten Blau- und Braunrosawerten.
-
 
 == 1-4 PUTTI MIT WISSENSCHAFTLICHEM GERÄT ==
 
@@ -129,7 +106,6 @@ An der W-Seite der Decke sind stuckierte Putti, die die Tageszeiten darstellen: 
 
 An der O-Seite der Decke stellen die entsprechenden Putti die Vier Jahreszeiten dar: Blumen bezeichnen den Frühling, Ähren den Sommer und Weinlaub den Herbst. Der Putto, der den Winter darstellt, bläst auf »Fontänen vor Schnee und Eis« (Thon, S. 86).
 
-
 == Ikonographie und Ikonologie ==
 
 A WISSENSCHAFTEN UND KÜNSTE Die Wissenschaften und Künste, die durch die dargestellten Personen und Gegenstände alludiert werden, sind nicht immer eindeutig bezeichnet. Merkur (als Statue) und Minerva (im Hintergrund) weisen dabei auf die beiden Bereiche der künstlichen Erfindung (Merkur) und der hohen Kunst und Wissenschaft (Minerva) hin. Im Altertum standen die Künste und Wissenschaften unter dem Schutz dieser beiden Götter; ihre Herrschaft wurde abgelöst durch die der Sapientia Divina. Mit diesem Grundgedanken verkörpert das Bild die scholastische Vorstellung von der Einordnung der Wissenschaften in die Heilsordnung, ein Thema, das die meisten Bibliotheksikonologien des 18. Jh. beherrscht.
@@ -139,7 +115,6 @@ Im einzelnen sind zu erkennen: Die Musik, verkörpert durch den jungen Mann mit 
 B DER HL. BENEDIKT IM KREIS DER KIRCHENVÄTER Nicht ein historisches Ereignis, sondern ein handlungsloses Nebeneinander historischer Personen aus verschiedenen Zeiten ist dargestellt; und zwar nicht in der Glorie des Himmels, sondern in zwar zeitloser, idealer, aber doch irdischer Umgebung. Es ist der Bildtyp der Sacra Conversazione, der auf Deckenbildern des 18. Jh. ungewöhnlich ist. Das Bild als Ganzes stellt die Wissenschaft der Theologie dar, und zwar in besonderer Beziehung zum Benediktinerorden, wobei dem hl. Benedikt ein hervorragender Platz im theologischen Lehrgebäude eingeräumt ist.
 
 1–4 PUTTI MIT WISSENSCHAFTLICHEM GERÄT In den einzelnen Instrumenten der vier kleineren Bildfelder wird auf folgende Wissenschaften angespielt: Astronomie – Fernrohr (2) und Armillarsphäre (3); Architektur – Winkelmaß (1) und Bauplan einer Festungsanlage (1); Physik – Fliehkraftversuch (4) und der Energieübertragungsversuch (1); Geometrie – Stechzirkel (4) und Pentagonpolyeder (4). Die Gesamtheit der Wissenschaften in ein formales System zu bringen, wobei die Theologie den anderen übergeordnet wird, war die zentrale Bemühung beim Entwurf der Bibliotheksprogramme im späteren 17. und 18. Jh. Dabei wird noch bis ins mittlere und spätere 18. Jh. ein aufwendiger gelehrter Apparat mit minutiös ausgedachten ikonographischen Details ausgebreitet. Im Vergleich mit solchen Programmen (etwa Admont, Steiermark, und St. Florian, OÖ, sehr spät Strahov bei Prag oder Polling, Band 1, S. 459–67) fällt das Programm von Benediktbeuern aus der Reihe. Der Grundgedanke zwar, die Zuordnung von Theologie (= Religion) zu den anderen Wissenschaften ist der gleiche, doch wird die Theologie den anderen Wissenschaften formal gleichgeordnet. Außerdem wird in Benediktbeuern weitgehend auf präzise Details und hieratische Anordnung verzichtet. Die vier Kardinaltugenden der Stuckdekoration gehören zur herkömmlichen Bibliotheksikonologie, in der der Virtus-Gedanke eine große Rolle spielt. Dagegen weiten – eher ungewöhnlich – die Darstellungen der Tages- und Jahreszeiten das Programm ins Kosmologische aus.
-
 
 == Spezialliteratur zum Bibliotheksaal ==
 

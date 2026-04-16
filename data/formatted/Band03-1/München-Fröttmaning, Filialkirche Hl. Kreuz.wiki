@@ -15,9 +15,7 @@
 
 Filialkirche Hl. Kreuz, Kranzberger Allee 66, Stadtpfarrei St. Albert, München-Freimann, Erzdiözese München und Freising; z. Z. der Ausmalung Pfarrei Garching, auf die Kloster Weihenstephan das Präsentationsrecht hatte, Gericht Kranzberg
 
-
 '''Patrozinium:''' Hl. Kreuz
-
 
 '''Zum Bauwerk:''' Nach Meichelbeck (Mayer-Westermayer, S. 506) wurde in Fröttmaning bereits 815 eine Kirche geweiht. Der im Kern romanische Bau (romanische Wandmalereien aus dem 12./13. Jh. 1981 freigelegt) wurde im 14. Jh. verändert und 1735/36 barockisiert. (StAM Geistl. Rat, Kirchenrechnungen Gericht Kranzberg, Fröttmaning 1750: »Anno 1735 ist zur Erpauung dieser Kirchen mit gdigster Bewilligung ohne Interesse auf Wiederbezahlung von hernachfolgenden Orten entbehrt worden... weiters haben zur Erpauung der Kirchen ao 1736 folgende Gottshäuser hergliehen...«)
 
@@ -25,9 +23,7 @@ Saalbau, dreijochig, eingezogener quadratischer AR mit Spiegeldecke, gerade gesc
 
 '''Autor und Entstehungszeit:''' Der Autor ist nicht bekannt, der stilistische Befund weist auf eine Entstehungszeit um 1736/40.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' LHs Spiegelgewölbe mit kleinen Stichkappen über Fenstern und Chorbogen Rahmen: Die Stuckprofilrahmung ist – wie die gesamte
 
@@ -35,15 +31,11 @@ Saalbau, dreijochig, eingezogener quadratischer AR mit Spiegeldecke, gerade gesc
 
 '''Maße:''' A Höhe 4,90 m; 4,00 × 3,50 A<sub>1-4</sub> Höhe 4,90 m; 1,80 × 1,60 A Höhe 4,90 m: 1,10 × 1,70
 
-
 [[File:Band03-1_chunk002_p015_img003.jpg|thumb|Vorhalle: V Jüngstes Gericht]]
-
 
 '''Erhaltungszustand und Restaurierungen:''' 1892/1902 Restaurierung der Kirche. 1934 Restaurierung der Deckenbilder (Reinigung, Ausbesserung, Ergänzung von Fehlstellen) durch Ostenrieder und Fa. Mayrhofer, München 1977 lösten sich Teile der Fresken, bedingt durch jahrelange Dachschäden. 1979/80 Renovierung und Wiederherstellung der Fehlstellen durch Alban Wolf, München, und Fa. Mayrhofer, München. Die Fresken A, A<sub>3-4</sub> sind in gutem Zustand, die originale Substanz ist erhalten bis auf eine ausgebesserte Stelle in A am rechten Bildrand; A1 sind überwiegend Restaurierungsmalerei. Eine gemalte Kartusche am Chorbogen trägt weder Inschrift noch Darstellung.
 
-
 == Beschreibung und Ikonographie ==
-
 
 A VEREHRUNG DES HL. KREUZES Einansichtige Bildanlage mit perspektivisch konstruierter, jedoch wenig geglückter Illusionsarchitektur. Schauplatz ist ein sakraler Kuppelraum; in der Mitte ist das Kreuz Christi beherrschend auf einem altarähnlichen Sockel aufgerichtet. Es ragt bis in den Scheitel der lichten Tambourkuppel auf und ist von einer Strahlenglorie umfangen. Putti verehren es, ein Weihrauchfaß schwingend. Auf Stufen kniend beten ein Bischof und ein Kaiser mit Gefolge das Kreuz an. Krone und Zepter liegen zu Füßen des Kaisers.
 
@@ -55,11 +47,7 @@ A<sub>1</sub> Der hl. Franziskus von Assisi empfängt in einer Vision des Kruzif
 
 A<sub>2</sub> Der hl. Franz Xaver tauft im Zeichen des Kreuzes einen dunkelhäutigen Inder, dabei assistiert ein Mann in
 
-
-
-
 == FROTTMANING ==
-
 
 der Tracht eines Pagen. Franz Xaver hat das Kruzifix erhoben und zeigt zur Himmelsglorie empor. Der Heilige ist mit einer Pilgerpelerine (Muschelabzeichen) wiedergegeben. (Seine Gesichtszüge sind neu gezeichnet.)
 
@@ -71,13 +59,10 @@ Aa Golgotha Der Berg mit drei Kreuzen, das Kreuz Christi durch eine Gloriole aus
 
 Ab Erdball im Zeichen des Kreuzes Schauplatz eine Landschaft mit Wolkengloriole
 
-
 == Quellen und Literatur ==
-
 
 Schmidtsche Matrikel, Bd 1, S. 409. Mayer-Westermayer, Bd 2, S. 503-06. Fried, Pankraz, Die Landgerichte Dachau und Kranzberg (= Historischer Atlas von Bayern, Teil Altbayern, Heft 11 12). München 1958, S. 194.
 
 C. B
-
 
 [[File:Band03-1_chunk002_p016_img001.jpg|thumb|Decke des Gemeinderaumes: A Verehrung des Hl. Kreuzes A<sub>1-4</sub> Heilige mit dem Kreuz Christi A<sub>1</sub> Hl. Franz von Assisi A<sub>2</sub> Hl. Franz Xaver A<sub>3</sub> Hl. Magdalena A<sub>4</sub> Reuiger Petrus A<sub>3-1</sub> Symbole des Kreuzes]]

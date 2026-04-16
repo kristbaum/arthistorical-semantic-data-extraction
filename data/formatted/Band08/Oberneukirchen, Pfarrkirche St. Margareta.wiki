@@ -13,17 +13,11 @@
 |AutorIn1=Böhm, Cordula
 }}
 
-
-
-
 == OBERNEUKIRCHEN ==
-
 
 Pfarrkirche (Pfarrverband Flossing mit Pfarrsitz Oberneukirchen), Gemeinde Oberneukirchen, Erzdiözese München und Freising; z. Z. der Ausmalung Filialkirche der Pfarrei Flossing, die dem Kollegiatstift in Mühldorf inkorporiert war, Erzdiözese Salzburg; seit 1823 Expositur, seit 1861 Pfarrkirche. An der Kirche wurde 1760 die »Bruderschaft zu Ehren Mariä vom Guten Rat« eingeführt. Gericht Mörmoosen
 
-
 '''Patrozinium:''' St. Margareta
-
 
 '''Zum Bauwerk:''' Der spätgotische Tuffsteinquaderbau mit hohem Westturm (Datum 1479 über dem Eingang der Kelterkapelle) wurde 1757-59 umgebaut und barockisiert (ein schon 1736 genehmigter Umbau, den Martin Pöllner übernehmen sollte, wurde offenbar nicht ausgeführt, s. Grünbach, zum Bauwerk). Es war der erste Auftrag für den Trostberger Baumeister Franz Alois Mayr im Gericht Mörmosen (s. dazu Kreilinger, S. 115 f.). Die teilweise bereits losen gotischen Rippen wurden abgeschlagen, doch blieb das Gewölbe mit den tiefen Stichkappen erhalten. Stuckierung durch Mayr in altertümlichen einfachen Bandwerkformen (»Herstellung einer saubern architectur und quadratur«, vgl. Polling und Grünbach) und Umgestaltung der Wandvorlagen in LHs und AR. Umfangreiche Dachstuhlreparatur.
 
@@ -43,37 +37,23 @@ im W Doppelempore. Gliederung durch Wandpfeiler mit Pilastervorlagen. Belichtung
 
 Im kleinen Gericht Mörmosen gab es keine gerichtseigene Handwerker und Künstler, man mußte daher stets Handwerker aus den angrenzenden Gerichten Mühldorf, Kraiburg, Neuötting oder Trostberg beauftragen. Für Mühldorf, wo die Kirche inkorporiert war, war Johann Paul Kurz zuständig.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' A und B verschliffene gotische Rippengewölbe, B im O abgemuldet. Rahmen: Stuckprofil
 
-
 [[File:Band08_chunk005_p003_img001.jpg|thumb|Der Kirchenraum (Aufnahme vor der Restaurierung)]]
-
 
 '''Technik:''' Fresko mit erheblichem Seccoanteil; polychrom. Maße: A Höhe 9,00 m; 8,90 × 4,30. B Höhe 10,00 m; 6,20 × 4,10
 
-
 '''Erhaltungszustand und Restaurierungen:''' 1848 faßte Balthasar Mang, Maler in Tüßling, den barocken Hochaltar und 14 Kreuzwegstationen für 740 fl. neu. Eine Restaurierung im Stil der Neugotik saugte die pudrige Freskomalerei auf und band die Fresken in einem bräunlichen Ölfirnis. Mit dem Erweiterungsbau 1922/23 war eine umfangreiche Neuausmalung verbunden. August Prieser, München, und Peter Keilhacker, Taufkirchen, freskierten im neubarocken Stil die Wolfgangskapelle, den nördlichen Anbau und die Kanzelbrüstung sowie die beiden Emporenbrüstungen. Die barocken Fresken, die so dunkel waren, »daß von irgendeiner Darstellung nichts mehr zu erkennen war« (BLfD), wurden dabei überlasiert und mit gemalten Lichteffekten aufgehellt. Renovierungen 1948, 1966 und 2002 durch Martin Zunhamer, Altötting. Bei der jüngsten Restaurierung wurden die Fresken von sämtlichen Übermalungen befreit. Dabei wurden ursprüngliche Korrekturen an Schafen und bei der Johannesfigur aufgefunden. Die Fresken sind jetzt wesentlich heller, sie zeigen den gedünnten Originalbestand einer kleinteiligen und in der Qualität schwankenden Freskomalerei, der die Zuschreibung an Johann Paul Kurz bestätigt.
-
 
 == Beschreibung und Ikonographie ==
 
-
 Franz Alois Mayrs eigenartiger Stuck überspannt netzartig die Zwickel und Stichkappen mit gleichmäßigem Gitterwerk, was eine starke Konzentrierung auf die Deckenbilder bewirkt. Margareta von Antiochien, die Kirchenpatronin, der die beiden Fresken und das Hochaltarblatt gewidmet sind, stammte aus vornehmer Familie. Ihre Amme bekehrte sie zum Christentum. Fünfzehnjährig sah sie der Präfekt Olibrius, als sie Schafe hütete, und wollte sie zur Frau. Sie weigerte sich und bekannte sich hartnäckig zu Christus als dem wahren Gott, worauf Olibrius sie ins Gefängnis bringen und foltern ließ. Im Gefängnis erschien ihr der böse Feind in Gestalt eines Drachen; sie schlug ihn durch das Kreuz in die Flucht. Schließlich wurde sie nach weiteren Martern enthauptet.
-
-
-
 
 [[File:Band08_chunk005_p004_img001.jpg|thumb|B Glorie der hl. Margareta (Aufnahme vor der Restaurierung)]]
 
-
-
 [[File:Band08_chunk005_p004_img002.jpg|thumb]]
-
-
 
 OBERORNAU .
 
@@ -87,9 +67,7 @@ Auf Wolken erscheinen seitlich zwei Heilige, ein Bischof (mit Gans) und Katharin
 
 Auf dem Hochaltarblatt ist die Enthauptung der hl. Margareta, der Kirchenpatronin, gezeigt.
 
-
 == Quellen und Literatur ==
-
 
 StAM, Gericht Mörmoosen, Kirchenrechnungen 1700–1800. StAM, LRA 51856-51863: Baureparaturen und Kirchenerweiterung der Pfarrei Oberneukirchen 1889/1924. AEM, Pfarrakten Flossing, Filiale Oberneukirchen. BLfD, Akt Oberneukirchen, Kirche St. Margareta.
 

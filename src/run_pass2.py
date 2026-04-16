@@ -125,16 +125,7 @@ zusammenführen.
 - Gedankenstriche vereinheitlichen: – (Halbgeviert).
 - Anführungszeichen: »…« für Zitate, ›…‹ für Zitate im Zitat.
 
-=== 4. Abkürzungen (nur beim ERSTEN Vorkommen expandieren) ===
-Ersetze diese Abkürzungen beim ersten Auftreten im Text durch die \
-Langform, danach die Abkürzung beibehalten. \
-Abkürzungen die nur in Quellenangaben, Maßen oder Befund auftreten \
-NICHT expandieren.
-{abbreviations_block}
-Alle anderen Abkürzungen (z. B. Literaturkürzel wie KDB, BHStA, \
-LCI, LThK, AASS, NK, ABA, DI, Pf) NICHT expandieren.
-
-=== 5. Befund-Abschnitt: Maße als Tabelle ===
+=== 4. Befund-Abschnitt: Maße als Tabelle ===
 Der Abschnitt == Befund == enthält oft eine »Maße:«-Angabe mit \
 Aufzählungen wie:
   A Höhe 8,30 m; 3,60 × 4,90
@@ -153,7 +144,7 @@ Einleitungstext (»Maße:« oder »Maße (lichte Maße):«) als Zeile vor \
 der Tabelle belassen. Alle anderen Teile des Befund-Abschnitts \
 (Träger, Rahmen, Technik, Erhaltungszustand) NICHT in Tabellen umwandeln.
 
-=== 6. Beschreibung: Abschnittskennungen formatieren ===
+=== 5. Beschreibung: Abschnittskennungen formatieren ===
 Kennungen wie »A1 HIMMELFAHRT CHRISTI Beschreibungstext…« bestehen aus:
 - Buchstabe+Zahl → Buchstabe<sub>Zahl</sub> (z. B. A1 → A<sub>1</sub>)
 - GROSSBUCHSTABEN-Titel → '''fett''' (z. B. '''HIMMELFAHRT CHRISTI''')
@@ -161,7 +152,7 @@ Ergebnis: A<sub>1</sub> '''HIMMELFAHRT CHRISTI''' Beschreibungstext…
 Einfache Buchstabenkennungen ohne Zahl (A, B, C, W, …) bleiben ohne \
 <sub>. Kennungen wie D<sub>1</sub>–4 (bereits mit sub) nicht doppelt formatieren.
 
-=== 7. Quellen und Literatur: Aufzählungsliste ===
+=== 6. Quellen und Literatur: Aufzählungsliste ===
 Der Abschnitt == Quellen und Literatur == enthält oft mehrere \
 Literaturangaben hintereinander im Fließtext. Trenne jede Quellenangabe \
 als einzelnen Aufzählungspunkt (* ) ab. Erkenne Einträge an Autorennamen, \
@@ -173,7 +164,7 @@ Nachher:
   * KDB I IOB (1), S. 698.
   * Thieme-Becker, Bd 22, S. 72.
 
-=== 8. Bestehendes Markup beibehalten ===
+=== 7. Bestehendes Markup beibehalten ===
 - [[File:…]] Bild-Einbindungen EXAKT unverändert lassen.
 - == Überschriften == nicht umbenennen.
 - <sub>, <sup>, '''…''' und andere vorhandene Formatierungen beibehalten.
@@ -187,33 +178,6 @@ Nachher:
 == Verbesserter Text ==
 """
 
-# Abbreviation table – only these are expanded, only on first occurrence
-_ABBREVIATIONS = [
-    ("LHs", "Langhaus (LHs)"),
-    ("AR", "Altarraum (AR)"),
-    ("QSch.", "Querschiff (QSch.)"),
-    ("MSch.", "Mittelschiff (MSch.)"),
-    ("SSch.", "Seitenschiff (SSch.)"),
-    ("OB", "Oberbayern (OB)"),
-    ("NB", "Niederbayern (NB)"),
-    ("Schw.", "Schwaben (Schw.)"),
-    ("LKr.", "Landkreis (LKr.)"),
-    ("ehem.", "ehemalige (ehem.)"),
-    ("Jh.", "Jahrhundert (Jh.)"),
-]
-
-
-def _build_abbreviation_block() -> str:
-    lines = []
-    for short, expanded in _ABBREVIATIONS:
-        lines.append(f"- {short} → {expanded}")
-    return "\n".join(lines)
-
-
-# Build once
-_ABBREVIATIONS_BLOCK = _build_abbreviation_block()
-
-# ---------------------------------------------------------------------------
 # LLM communication (mirrors run_pass1.py)
 # ---------------------------------------------------------------------------
 
@@ -297,7 +261,6 @@ def process_article(
         return False
 
     prompt = PROMPT_TEMPLATE.format(
-        abbreviations_block=_ABBREVIATIONS_BLOCK,
         article_body=body.strip(),
     )
 

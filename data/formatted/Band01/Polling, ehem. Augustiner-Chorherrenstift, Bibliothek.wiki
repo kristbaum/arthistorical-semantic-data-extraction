@@ -30,9 +30,7 @@ abgeschleyerte Wahrheit angefangen.« (BayHStA I, KI Polling 139, 8., 10, und 14
 
 Baader vollendete 1779 die Ausmalung der Bibliothek, wie aus der Signatur der Bilder an den Bibliothekstüren hervorgeht. Baader, der 1780 starb, arbeitete offenbar unter schweren Bedingungen; Pater Gerhoh Steigenberger schreibt an Töpsl am 29. Januar 1778: »Ich förchte beständig, der H. Joannes möchte nicht 2 Jahr mehr dauern; seir Aussehen wenigstens gefällt vielen nicht, und darum glaube ich, das auf Vollendung der Arbeit nothwendig zu dringer seve.« (BSB, cgm 3187, IV, 14. Brief).
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' Kreuzgratgewölbe ohne Gurt einteilung
 
@@ -46,20 +44,13 @@ B Höhe 7,70 m; 7,70 × 6,70
 
 1975, nach der photographischen Aufnahme, Restaurierung der Deckenbilder durch Fronske.
 
-
 == Beschreibung ==
-
 
 A DER PARNASS Einansichtige Szene, Betrachter standort unterhalb des nördlichen Bildviertels. Das nördliche Bildfeld gibt Einblick in eine Landschaft. Vorne links – kulissengleich – ein dunkles Erdstück, darauf ein
 
-
 [[File:Band01_chunk010_p005_img001.jpg|thumb|Zustand vor der Restaurierung 1973/75]]
 
-
-
-
 [[File:Band01_chunk010_p006_img001.jpg|thumb]]
-
 
 A DER PARNAß ODER DIE PHILE  
 kahler Baum und allegorische Figuren. Ein Bach trennt es grabenartig von dem breit gelagerten, grasbewachsenen Landstück gegenüber. Dort residiert Apollo unter einem Baum, umgeben von den Musen. Rechts unter einem zeltähnlichen Sonnendach drei mythologisch-allegorische Figuren. Im Hintergrund erhebt sich der helle Felsen des Parnaß, von dessen Spitze sich Pegasus in die Lüfte erhebt. In diesem Deckenbild fehlen alle illusionistischen Effekte. Im Unterschied zu den beiden anderen Bibliotheksfresken haben hier die Höhenlinien keinen gemeinsamen Fluchtpunkt. Durch die dunkle Vordergrundszenerie wird nur geringe Tiefenräumlichkeit erzielt.
@@ -71,11 +62,7 @@ Konkav geschwungene Treppenpodeste führen in diese vom Rahmen her ein. Die Kalo
 
 Dunkle, schwere Farben beherrschen den äußeren Rand
 
-
 [[File:Band01_chunk010_p006_img002.jpg|thumb|B Der Alte und der Neue Bund oder die Theologie (photographische Aufnahme vor der Restaurierung von 1975)]]
-
-
-
 
 **Korrekturen an OCR-Fehlern:**  
 - „»erheben«“ → aus Transkribus: »erheben«  
@@ -94,21 +81,15 @@ Dunkle, schwere Farben beherrschen den äußeren Rand
 **Ersetzte Zitate mit »«:**  
 - „Bei den vier Einschnürungen des Bildfeldes »erheben« sich unvermittelt...“ → „Bei den vier Einschnürungen des Bildfeldes »erheben« sich unvermittelt...“  
 - „die Figurengruppen in den vier »Öffnungen« der Vierpaßsegmente.“ → „die Figurengruppen in den vier »Öffnungen« der Vierpaßsegmente.“  
-- „Der gemalte Kuppelaufbau »bekrönt« zwar das Joch...“ → „Der gemalte Kuppelaufbau »bekrönt« zwar das Joch...“
-
-
+- „Der gemalte Kuppelaufbau »bekrönt« zwar das Joch...“ → „Der gemalte Kuppelaufbau »bekrönt« zwar das Joch...“ des Bildes in den Vierpaßsegmenten: warme Töne, Braun, Karmin, Ocker und Olivgrün. Zur Mitte hin wird das Bild lichter, die Architektur ist in kaltem Graurosa wiedergegeben.
 
 [[File:Band01_chunk010_p007_img001.jpg|thumb|C Die Entschleierung der Wahrheit oder die Geschichtswissenschaften]]
-
-des Bildes in den Vierpaßsegmenten: warme Töne, Braun, Karmin, Ocker und Olivgrün. Zur Mitte hin wird das Bild lichter, die Architektur ist in kaltem Graurosa wiedergegeben.
 
 C DIE ENTSCHLEIERUNG DER WAHRHEIT Einansichtige Szene, Betrachterstandort unterhalb des südlichen Bildviertels. Schauplatz ist eine steil ansteigende, konvex geschwungene Treppe. Diese ist bekrönt vor einem kleinen Monopteros. Rechts davon ist noch die Front eines antikischen Monuments sichtbar. Im Vordergrund vor der ansteigenden Treppe - eine schmale Bodenzone. Dort und auf den Stufen befinden sich allegorische Figuren. Darüber, vor dem Monopteros, wird Veritas entschleiert. In der Farbigkeit herrschen Braun und Ocker vor. Die spärlich verwendeten Buntfarben kommen kaum zur Geltung.
 
 Interessant ist ein Vergleich der unterschiedlichen perspektivischen Darstellung von Landschaft (Fresko A) und Architektur (Fresken B und C). Von demselben Maler zur gleichen Zeit zwei unterschiedliche Konzeptionen: Während Baader bei den Architekturen noch in der Tradition der illusionistischen Deckenmalerei zu stehen scheint – denn er arbeitet mit starken Verkürzungen und gemeinsamem Höhenfluchtpunkt der Linien –, verlässt er diese bei den Landschaften und konstruiert perspektivisch gemäß den Gesetzen der Tafelbildmalerei. Dies ist jedoch nur scheinbar eine Diskrepanz: Die Architektur hat auch ihren Illusionscharakter verloren und ist nur noch perspektivisch erscheinendes Rahmenwerk, das die einzelnen Bildsegmente zusammenfaßt.
 
-
 == Ikonographie ==
-
 
 Nach schriftlichen Quellen können die drei Bildfelder als allegorische Darstellungen von Philosophie (A), Theologie (B) und Geschichtswissenschaften (C) gedeutet werden.
 
@@ -129,8 +110,6 @@ B DER ALTE UND DER NEUE BUND ODER DIE THEOLOGIE Im Hauptfresko ist die Geschicht
 Die linke Hälfte des nördlichen Bildabschnittes nehmen bärtige Propheten mit Schriftrollen ein, unter ihnen der psalmodierende König David. Mit diesem endet die AT-Reihe. In der rechten Hälfte sind die Apostel den Propheten gegenübergestellt, Petrus ist an den Schlüsseln und Paulus am Schwert kenntlich. Zu Füßen Petri stürzt ein Mann – vielleicht Judas, der Verräter Jesu – in die Tiefe, von einem Teufel empfangen.
 
 Links über den Propheten ist Synagoge im Ornat der
-
-
 
 Hohenpriester, mit Rauchfaß, Aaronstab und Gesetzes-tafeln, rechts über den Aposteln Ecclesia mit Tiara, Kelch und Kreuz wiedergegeben. Synagoge, die Symbolgestalt des Alten Bundes, ist im Sinne der Concordia veteris et novi Testamenti wie Ecclesia gleich einer Königin thronend wiedergegeben. - Ein Rundtempel auf einem Felsen - im Hintergrund, in der Mitte des Bildabschnittes - stellt gemäß dem Text der Bibel (Mt 17,18) die Gründung der Kirche Christi und damit den Übergang vom Alten zum Neuen Bund dar.
 
@@ -163,10 +142,6 @@ Die männliche Gestalt Historia thront königlich gekleidet auf einem mächtigen
 Das Fundament der Geschichtswissenschaft ist die Wahrhaftigkeit. Die wissenschaftliche Forschungstätigkeit der historisch chronologischen Zeitmessung, der historischer Analyse und des historischen, zugleich zukunftsweisender Urteils sollen der Wahrhaftigkeit unterworfen sein und haben die Enthüllung der Wahrheit zum Ziel: »Veritaquaesita, Ratio quaerens veritatem und Historia ir quaerendo viam ope Chronologiae, Geogr. Numism Diplomat. Herald. etc. detegens . . . « (s. o. vollständige Zitat).
 
 Verschiedene Altertümer und historische Dokumente werden von geflügelten Genien und anderen Figuren in Szene gesetzt; sie bezeichnen historische Hilfswissenschaften. In der Mitte des Bildes weist eine allegorische Gestalt, ausgezeichnet durch eine Sonne am Haupt auf das Doppelwappen des Klosters und des Propstes Franz Töpsl. Daneben steht ein heraldisches Buch aufgeschlagen, in altertümlicher Manier ist auf der einer Seite ein Adler wiedergegeben, auf der anderen das zweite Wappen Töpsls. Nach E. Zimmermann (S. 122) fand der Prälat dieses Wappen unter dem Namen Debsel in einem alten Wappenbuch und führte es fortan als zweite Wappen. Wahrscheinlich ist hier sogar dieses bestimmte
-
-
-
-
 
 Buch wiedergegeben. – So ist die Heraldik vorgestellt und ganz speziell die heraldische Forschung des Prälaten.
 

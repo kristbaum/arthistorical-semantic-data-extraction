@@ -26,9 +26,7 @@ Dreischiffige Halle, von drei Pfeilerpaaren getragen; freischwingende, nur im O 
 
 '''Autor und Entstehungszeit:''' Das große Chorfresko D ist am südöstlichen Bildrand signiert: Zimmermann; Fresko S3 in der nordöstlichsten Ecke: Z: (Die Signatur in D wurde bei der Restaurierung 1941 aufgedeckt.) Sowohl in der Überlieferung als auch in sämtlicher bisher erschienener Literatur hat Zimmermanns Autorschaft immer als sicher gegolten. Quellen dazu sind offensichtlich keine mehr vorhanden. Ursula Röhlig behauptet in ihrer Dissertation über Johann Baptist Zimmermann, die Fresken in Andechs stünden nur in einem losen Zusammenhang mit diesem; sie hält die Fresken nur für Arbeiten der Werkstatt, für die nicht einmal Entwürfe des Meisters zur Verfügung gestanden hätten. Dieser Meinung können wir uns nicht anschließen. Im Gegenteil: Wenngleich manche Bilder schwach sind, wie David (A1), Cäcilie (A2) oder Benedikt (S2), und durchaus Gehilfenarbeiten sein können, wenn auch der Heiligenhimmel (D) als Thema Zimmermann nicht lag und Schwächen zeigt, so sind doch andere Bilder, wie die Himmelfahrt (C), Andechs als Teich Bethesda (B), auch die Szene am Monte Gargano (S4) unverwechselbar zimmermannisch und durchaus auf der Höhe seiner eigenhändigen Werke. Vor allem aber muß man in diesem Zusammenhang die Fresken in Prälatenkapelle, Törringkapelle und Sakristei nennen, die mit zum Besten zählen, was Johann Baptist Zimmermann geschaffen hat. Die Fresken sind 1753/55 entstanden.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' A, A<sub>1-2</sub>, B, C, S<sub>1-4</sub>, S<sub>a-f</sub> verschliffenes Kreuzgewölbe; D Flachkuppel; EU, EU1-4 verschliffenes Kreuzgewölbe
 
@@ -37,7 +35,6 @@ Dreischiffige Halle, von drei Pfeilerpaaren getragen; freischwingende, nur im O 
 '''Technik:''' Fresko; alle Fresken polychrom bis auf EU3-4 so wie S<sub>a-f</sub>, welche Grisaillen auf Goldgrund sind.
 
 '''Maße:''' Höhe des Kirchenraums: 13,30 m; Höhe der Empore: 4,90 m
-
 
 {| class="wikitable"
 |-
@@ -48,47 +45,29 @@ Dreischiffige Halle, von drei Pfeilerpaaren getragen; freischwingende, nur im O 
 | B 5,00 × 4,30 C 5,00 × 4,30 D 8,00 × 8,00 EU<sub>1-2</sub> 1,40 × 1,20 EU<sub>3-4</sub> 2,80 × 2,15
 |}
 
-
-
 [[File:Band01_chunk006_p021_img001.jpg|thumb|A<sub>1</sub> David psallens]]
-
 
 '''Erhaltungszustand und Restaurierungen:''' Letzte Restaurierung 1941. Die Fresken A-D weisen verschieden starke Risse auf; in Fresko C ein durchgehender Scheitelriß, in EU zwei starke Querrisse. Die auf den Deckel des Hl.- Geist-Lochs gemalte Christusfigur in Fresko C ist stark restauriert. Die Fresken A1-2, S1-4, Sa-f und die Emporenfresken EU, EU<sub>1-4</sub> weisen außer Rissen teilweise kleine Fehlstellen und Übermalungen auf; in A1, S2 und S4 größere, wohl durch Wasser verursachte Schäden
 
-
 == Beschreibung ==
-
 
 A ENGELSKONZERT Einansichtige Himmels- und Wolkenszene über der Orgelempore. Zarte Wolkenschleier umgeben eine Himmelsöffnung, in der das Dreieck als Dreifaltigkeitssymbol mit dem hebräischen Tetragramm erscheint. Auf den Wolken im Vordergrund sitzen Engel und Erzengel, singend, anbetend oder musizierend. Dazwischen und darüber Putti und Puttoköpfchen.
 
 Die Fresken A, A1 und A2 sind auf einen Betrachter berechnet, der sich nach hinten, nach Westen, gewendet hat. Der Betrachterstandpunkt liegt unterhalb des jeweils nächsten nach Osten liegenden Deckengemäldes.
 
-
 [[File:Band01_chunk006_p021_img002.jpg|thumb]]
-
 
 A1 DAVID PSALLENS Vor einer schönen Waldlandschaft mit Vögeln und einem Hirsch erhebt sich ein steinernes Stufenpodest mit einem thronartigen Sitz, auf dem König David Harfe spielend dargestellt ist. Seine Augen hat er zum Himmel erhoben. Er ist mit Krone und hermelinbesetztem Königsmantel bekleidet.
 
 A2 CÄCILIA Über einem Treppenpodest erhebt sich eine mächtige steinerne Bogenöffnung, unter der die hl. Cäcilia sitzt und Orgel spielt. Sie ist prächtig gekleidet; ihre Augen sind nach oben gerichtet. Seitlich wird ein schwerer, fransenbesetzter Vorhang von einem Putto vor der Szene zurückgezogen.
 
-
 [[File:Band01_chunk006_p021_img003.jpg|thumb]]
-
-
 
 [[File:Band01_chunk006_p021_img004.jpg|thumb|A<sub>2</sub> Hl. Cäcilia]]
 
-
-B DER TEICH BETHESDA Einansichtige Szene; der Betrachterstandpunkt liegt unter dem westlichen Gurtbogen. – Vor der Himmelsöffnung, die durch zarte umlaufende Wolkenbänke mit einer Reihe von Puttoköpfchen gebildet wird, erscheint das Andechser Gnadenbild
-
-
-
-
+B DER TEICH BETHESDA Einansichtige Szene; der Betrachterstandpunkt liegt unter dem westlichen Gurtbogen. – Vor der Himmelsöffnung, die durch zarte umlaufende Wolkenbänke mit einer Reihe von Puttoköpfchen gebildet wird, erscheint das Andechser Gnadenbild die Madonna mit dem Kind in prächtigem Gewand, Mantel, Krone und Zepter. Es ist von Engeln umgeben. Der irdische Schauplatz wird von einer hohen, geschwungenen Arkadenarchitektur gebildet, welche die Szene im Halbkreis umgibt. Links führen Stufen nach oben; hier schließt die Architektur mit einer Balustrade ab. Der Teich Bethesda, wie ein Brunnenbecken konvex nach vorne geschwungen und von einem Mäuerchen umgeben, liegt im Mittelpunkt der Szene. Ein Engel, über dem Wasser schwebend, bringt es mit einem Kreuzstab in Wallung. Vom Teich steigt eine Wolke auf, die sich nach oben verdichtet und auf der die Madonna thront. Links vom Brunnen ist eine Gruppe von Kranken und Bresthaften, von denen einige mit flehenden Gebärden zum Gnadenbild aufschauen. Einer von ihnen besteigt eben, von einem anderen gestützt, das Brunnenbecken. Auf den Stufen weitere Kranke. Durch eine Öffnung in der Brunnenumfassungsmauer fließt Wasser und bildet eine kleine Quelle im Vordergrund des Bildes, an der zwei Kinder mit einem Gefäß spielen.
 
 [[File:Band01_chunk006_p022_img001.jpg|thumb]]
-
-
-die Madonna mit dem Kind in prächtigem Gewand, Mantel, Krone und Zepter. Es ist von Engeln umgeben. Der irdische Schauplatz wird von einer hohen, geschwungenen Arkadenarchitektur gebildet, welche die Szene im Halbkreis umgibt. Links führen Stufen nach oben; hier schließt die Architektur mit einer Balustrade ab. Der Teich Bethesda, wie ein Brunnenbecken konvex nach vorne geschwungen und von einem Mäuerchen umgeben, liegt im Mittelpunkt der Szene. Ein Engel, über dem Wasser schwebend, bringt es mit einem Kreuzstab in Wallung. Vom Teich steigt eine Wolke auf, die sich nach oben verdichtet und auf der die Madonna thront. Links vom Brunnen ist eine Gruppe von Kranken und Bresthaften, von denen einige mit flehenden Gebärden zum Gnadenbild aufschauen. Einer von ihnen besteigt eben, von einem anderen gestützt, das Brunnenbecken. Auf den Stufen weitere Kranke. Durch eine Öffnung in der Brunnenumfassungsmauer fließt Wasser und bildet eine kleine Quelle im Vordergrund des Bildes, an der zwei Kinder mit einem Gefäß spielen.
 
 Die Farbigkeit des Bildes wird bestimmt durch eine Skala changierender Farbtöne in Ocker, Rosaocker, Grau und Rotbraun in Wolken und Architekturen. Davon heben sich die leuchtenden Weiß-, Gelb-, Rot- und Blautöne in den Gewändern ab.
 
@@ -96,9 +75,7 @@ C HIMMELFAHRT CHRISTI Einansichtige Szene; auch hier liegt der Betrachterstandpu
 
 Den Mittelpunkt des Bildes nimmt die Gestalt des in den Himmel auffahrenden Christus mit der Osterfahne ein.
 
-
 [[File:Band01_chunk006_p022_img002.jpg|thumb|C Himmelfahrt Christi]]
-
 
 Auf einer Wolke wird er nach oben getragen, zu beiden Seiten von schwebenden, anbetenden Engeln umgeben. Gottvater mit der Taube des Hl. Geistes erwartet ihn. Nur mit wenigen Mitteln, einer Blume im Vordergrund, einer aufragenden Palme und einem bewachsenen Felsen ist die landschaftliche Szenerie angedeutet. Links eine Gruppe von acht Aposteln und die Gottesmutter – neben ihr der hl. Johannes –, die mit lebhaften Gebärden das wunderbare Geschehen begleiten. Rechts stehen zwei Frauen und drei Apostel.
 
@@ -107,7 +84,6 @@ Die untere Bildmitte ist freigeblieben; da auch im Himmel Gottvater nicht in der
 Eine helle und festliche Farbigkeit herrscht vor. Vor dem heiteren Himmelsblau Engel in gelben und rosa Gewändern, vor den gebrochenen Grüntönen der Landschaft erscheinen in den Kleidern der Frauen und Apostel warme und – außer Blau – gebrochene Buntfarben. Durch das schwere Rot des Mantels und der Osterfahne wird auch farblich Christus zur beherrschenden Gestalt.
 
 D HEILIGENHIMMEL Kuppel mit zentraler Glorie; starke illusionistische Effekte durch Untersichten und Verkürzungen. – In der Glorie erscheint, von strahlendem Licht umgeben, die Monstranz mit den drei Hostien, das
-
 
 [[File:Band01_chunk006_p023_img001.jpg|thumb]]
 
@@ -129,16 +105,9 @@ S<sub>4</sub> HL. MICHAEL – DAS WUNDER AM MONTE GARGANO In bergiger Landschaft
 
 Saf ARMA CHRISTI In den sechs Kartuschen des nördlichen und südlichen Seitenschiffs jeweils zwei Putti mit Leidenswerkzeugen auf einer Wolke vor Goldgrund. Dieser besteht aus einem ockerfarbenen Fond mit aufgetragenen goldenen Punkten.
 
-
-
-
-
 [[File:Band01_chunk006_p024_img001.jpg|thumb|FII Fides]]
 
-
-
 [[File:Band01_chunk006_p024_img002.jpg|thumb|EU<sub>2</sub> Spes]]
-
 
 g). E Ss Hl. Rasso Sd Putti mit Schwamm und Lanze
 EU, EU1-4 CHRISTLICHE TUGENDEN
@@ -160,29 +129,14 @@ zungen Raumtiefe erzeugen, ist die Figur der Fides unabhängig davon, ganz ohne 
 
 EU3-4 liegen seitlich von EU. Die Bilder sind farblich von EU unterschieden. Es sind Grisaillen auf Goldgrund, der mit dem Fond in Ocker und der goldenen Punktierung dem Goldgrund der Kartuschen Sa gleich ist. Auf Wolken lagern Justitia und Prudentia (EU3), Fortitudo und Temperantia (EU<sub>4</sub>).
 
-
 == Ikonographie ==
 
-
-A, A1-2 Mit dem Engelskonzert, der hl. Cäcilia und Da-
-
+A, A1-2 Mit dem Engelskonzert, der hl. Cäcilia und David psallens erscheinen die über der Orgelempore üblichen Themen. Rechts in A, in der Gruppe der Erzengel, Michael mit Harnisch und Feldherrnstab, Raphael mit dem Wanderstab und Gabriel mit der Lilie.
 
 [[File:Band01_chunk006_p024_img003.jpg|thumb]]
-
-
-
 [[File:Band01_chunk006_p024_img004.jpg|thumb]]
-
-
-
 [[File:Band01_chunk006_p024_img005.jpg|thumb]]
-
-
-
 [[File:Band01_chunk006_p024_img006.jpg|thumb|EU<sub>4</sub> Fortitudo und Temperantia]]
-
-
-vid psallens erscheinen die über der Orgelempore üblichen Themen. Rechts in A, in der Gruppe der Erzengel, Michael mit Harnisch und Feldherrnstab, Raphael mit dem Wanderstab und Gabriel mit der Lilie.
 
 B DER TEICH BETHESDA Dargestellt ist der Teich Bethesda, in dem ein Engel das Wasser in Wallung bringt: Der Erste, der daraufhin in das Wasser steigt, wird gesund (Jo 5, 1-4). Durch das Andechser Gnadenbild, das auf Wolken über dem Teich thront, wird aber deutlich, was gemeint ist: Andechs ist der neue Teich Bethesda, eine Gnadenstätte, wo Kranke Heilung erhalten. (In den Chroniken aus dem 18. Jh. sind die Andechser Wunderheilungen genau verzeichnet.)
 
@@ -203,8 +157,6 @@ Die drei Hostien sind in der von Albrecht III., der 1455 das Benediktinerkloster
 Über dem Hochaltar ist der hl. Georg als Jüngling dargestellt, mit Mantel, Helm und Sandalen. Als Attribute hat er Lanze und Schild mit dem Georgskreuz. Georg, Patron des von Rathardus gegründeten Klosters in Dießen (s. LKr. Landsberg am Lech) wurde auch im nahen Andechs sehr verehrt.
 
 Fahren wir fort bei der Reihe der Heiligen an der nordöstlichen Seite: Rechts von der nördlichen Rocaille am Rahmen sehen wir mit den drei Hostien Otto d. Gr., Bischof von Bamberg. Neben ihm, barhäuptig und bärtig, in königlicher Kleidung, der hl. Rasso, der bedeutendste
-
-
 
 Heilige aus dem Andechser Geschlecht; die Reliquien, die er sammelte, bildeten den Grundstock zu dem größeren Heiltumsschatz. Neben ihm Leo IX., der die Hostien nach Bamberg schenkte, und Papst Gregor d. Gr. mit der weißen Taube. Links neben Georg thronen zwei weitere Päpste: Caius, dessen Leib von dem »Edlen Herrn Georgio von Füll auf eigenen Schultern von München auf den Heil. Berg getragen« wurde (Historiola... Zweiter Theil. S. 73), und Sixtus mit dem Geldbeutel und einem Geldstück.
 
@@ -259,10 +211,6 @@ EU2 Spes mit Anker, der in ein Kreuz übergeht
 EU3-4 KARDINALTUGENDEN Justitia mit Schwert und Waage, Prudentia mit Spiegel, um den sich eine Schlange (vgl. Mt 10,16) windet (EU3); Fortitudo mit Löwe, Palmzweig und Säulenstumpf, Temperantia mit Krug und Schale (EU<sub>4</sub>).
 
 Leitgedanke der Gesamtikonologie der Deckenbilder und sonstigen Ausstattung in Andechs ist die Darstellung eines Coelum Andecense. Der Terminus fällt in der
-
-
-
-
 
 Grabinschrift des Abtes Bernhard Schütz: »In Coelum ascendit . . . Postquam in Coelo Andecensi Tertium Fundationis saeculum celebravit.« - Auch in den Predigten, die zur Säkularfeier und Einweihung der neuen Kirche 1755 gehalten wurden, taucht der Begriff des Coelum Andecense auf, besonders in der achten Predigt von P. Ulrich Apel (Lob- und Danck-Opfer, S. 242): »Betrachte man nur dieses Münster, und Marianischen Gnaden-Tempel, in welchem wir uns befinden, etwas genaueres, o! so wird ja männiglich vor Annehmlichkeit, und Erstaunung mit dem apokalyptischen Adler aufzuruffen sich gleichsam bezwungen sehen: Video coelum novum, dass es nicht so viel einer Kirchen, als irdischem Himmel gleiche. Mit hin mit Fug, diese wenige Wort an dessen Ehren-Portal konnten angehefftet werden: Coe- LVM anDeCense« (= 1755).
 

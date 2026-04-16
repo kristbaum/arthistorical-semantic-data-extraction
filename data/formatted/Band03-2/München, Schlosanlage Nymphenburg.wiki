@@ -14,16 +14,9 @@
 |AutorIn2=Lüdicke, Lore
 }}
 
-
-
-
 == CROSSER ODER STEINERNER SAAI ==
 
-
-
 == Baugeschichtlicher Überblick Hauptschloß ==
-
-
 
 {| class="wikitable"
 |-
@@ -82,11 +75,7 @@ Neuausstattung der beiden Kabinette in d
 Appartements des Hauptbaus
 |}
 
-
-
 == Parkburger ==
-
-
 
 {| class="wikitable"
 |-
@@ -112,7 +101,6 @@ Appartements des Hauptbaus
 |-
 | Stock über der Orangerie im Südtrakt des nörd-
 |}
-
 
 Die Anlage von Nymphenburg nahm ihren Ausgang von dem Mitteltrakt des heutigen Schlosses. Er wurde 1664-75 für Kurfürstin Henriette Adelaide als freistehendes Landhaus errichtet, dem auf der N- und S-Seite je ein mit dem Hauptbau durch Galerien verbundener Pavillon angefügt war. Die noch nicht vollendeten Pavillons wurden 1684/85 wieder abgebrochen und das Baumaterial für Schloß Lustheim verwendet.
 

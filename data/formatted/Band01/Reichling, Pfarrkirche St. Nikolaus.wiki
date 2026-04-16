@@ -26,9 +26,7 @@ Pfarrkirche, Diözese Augsburg; bis 1806 Stift Bernried inkorporiert, Landgerich
 
 '''Autor und Entstehungszeit:''' Signatur in B über dem nordwestlichen Rahmen: Seb. Jaud / inv. 1803.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' A Tonnengewölbe, B querelliptische Flachkuppel, C flache Pendentifkuppel Rahmen: A, B, C ornamentierte Stuckprofilrahmen, B<sub>1</sub>-4, C<sub>1</sub>–4 Rocaillekartuschen Technik: Fresko: polychrom
 
@@ -40,22 +38,15 @@ C Höhe 9,90 m; ∅ 5,20
 
 '''Erhaltungszustand und Restaurierungen:''' 1882 Übermalung der Fresken in Öl. Freilegung 1924/25 durch J Huwyler, der die vier Kirchenlehrer in den Kartuschen B<sub>1</sub>-4 und die Emporenbilder neu malte. Erhaltungszustand sehr schlecht, Abblätterungen, Risse, starke Schimmelbildung. In C sind die Figuren erneuert und teilweise falsch wiedergegeben C1-4 übermalt
 
-
 == Beschreibung und Ikonographie ==
-
 
 A DAVID PSALLENS König David sitzt Harfe spielend am Erdboden. Die großflächig, ohne Untersichten gemalte Figur füllt nahezu das ganze Bildfeld aus. Basis am W-Rand.
 
 B ST. LEONHARD PATRON VON REICHLING Das querovale Hauptfresko nimmt die volle Breite des Gemeinderaumes ein und entspricht der zentralisierenden Tendenz der architektonischen Grundform. Das Bild steht zwar noch in der Tradition der barocken Deckenmalerei, zeigt jedoch gleichzeitig die Auflösung der illusionistischen Großmalerei. Das System eines durchgehenden Landschaftspanoramas mit einer darüber sich öffnenden Himmelsglorie ist hier zu vier völlig voneinander isolierten, tafelbildmäßig aufgefaßten Szenen verändert worden
 
-
 [[File:Band01_chunk004_p025_img003.jpg|thumb]]
 
-
-
-
 [[File:Band01_chunk005_p001_img001.jpg|thumb]]
-
 
 Die drei irdischen Szenen stehen im rechten Winkel zu einander, ohne aufeinander oder auf die umlaufende Rahmung Bezug zu nehmen. Die Himmelsglorie schwebt isoliert, ohne Beziehung zu den irdischen Figuren, in der Mitte des Freskos in einem ovalen Wolkenrahmen. Es fehlen jeglicher gemeinsamer Fluchtpunkt, Verkürzungen, Untersichten, sowie Verkleinerung der Figuren und Aufhellung der Farbe nach oben zu.
 
@@ -69,9 +60,7 @@ C ST. NIKOLAUS BESCHENKT DIE DREI ARMEN TÖCHTER Das Altarraum-Fresko zeigt eine
 
 Farblich ist nicht viel vom Original erhalten geblieben. Die Gesamtwirkung ist matt und stumpf: Olivgrün, Graublau, Ocker, mattes Rot.
 
-
 == Quellen und Literatur ==
-
 
 Braun-Augsburg, Bd 1, S. 377, Bd 2, S. 269. KDB I OB (1), S. 589.
 
@@ -81,9 +70,6 @@ Hofmann, Sigfrid, Der Landkreis Schongau, München 1959, S. 80.
 
 Neu, Wilhelm, Beiträge zum Werk Münchener Hofmalermeister der 2. Hälfte des 18. Jahrhunderts im südwestlichen Oberbayern, in: Festschrift Norbert Lieb, Zeit schrift für bayerische Landesgeschichte 35, H. 1, 1972 S. 294 ff.
 
-
 [[File:Band01_chunk005_p001_img002.jpg|thumb|C St. Nikolaus beschenkt die drei Töchter des armen Edelmanns mit C1-4 Evangelist]]
-
-
 
 [[File:Band01_chunk005_p001_img003.jpg|thumb|A David psallens]]

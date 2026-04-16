@@ -35,9 +35,7 @@ Asam wurde unterstützt durch den Maler Johann Adam Müller. Im Gemäldeinventar
 
 Johann Adam Müller (* Erding † 18. 4. 1738 München) wurde 1718 in München in die Malerzunft aufgenommen (Lippert-Nachlaß im Stadt A. München, Gewerbeamt 1792/4 und 1718, Liedke-Meisterbuch S. 44. Thieme-Becker, Bd 25, 1931, S. 234f.). Er wird gerühmt als »ein sehr geschickter Maler, sonderbar auf frischen Kalch«. Eigenhändige Werke sind von ihm nicht gesichert. Frobenius Ferdinand Fürst von Fürstenberg erwähnt, daß Müller »auf Auftrag der beiden Asams die fresco mallerey zu Meßkirch zu sonderbarem Vergnügen würklich ausgemacht habe« (BHStA I HR I 285, Nr. 269, zitiert im Trautmann-Nachlaß 58/8). Überzeugende stilistische Übereinstimmungen zeigen die Grisaillemalereien 1-6 mit entsprechenden szenischen Darstellungen in den Kuppelfeldern der Schloßkapelle in Meßkirch (Bad. Württ. Lkr. Konstanz), welche 1720, 25 zu datieren sind.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' Tonne (A, B, C) mit Stichkappen (a-d), W Schildbogen
 
@@ -53,25 +51,17 @@ W 3,00 × 4,10
 
 '''Erhaltungszustand und Restaurierungen:''' Die Deckenbilder wurden im Krieg 1944 stark beschädigt; die Restaurierung von 1965/67 kommt nahezu einer Rekonstruktion gleich. Die Arbeiten wurden von Günther Schelling und Ulrich Thiele durchgeführt. Von den Medaillonfresken 1-6 sind die der O-Seite (1-3) original, die der W-Seite (4-6) erneuert.
 
-
 == Beschreibung und Ikonographie ==
-
 
 Die flach gewölbte Tonne ist einem einheitlichen Dekorationssystem unterworfen, ähnlich dem einer vergoldeten Kassettendecke, in die seitlich acht Stichkappen einschneiden, die in Grisaille-Technik ausgeführt bzw. mit Brokat-Imitation geschmückt sind. In den äußeren vier befinden sich über den Fenstern kleine Medaillons mit Puttodarstellungen (a-d), dazwischen sechs Medaillons mit szenischen Darstellungen (1-6). In der Hauptachse des Gewölbes sind drei Hauptszenen der Maximilians-Vita dargestellt, einge-bunden in ein dreigeteiltes Rahmensystem (einheitliche Blickrichtung gegen S, Betrachterstandpunkt unterhalb von A). Durch imitierte Goldrahmung wird in der Mitte ein großes rundes Bildfeld ausgegrenzt, an das von den Schmalseiten des Raumes zwei rechteckige Ausschnitte angeschoben sind. Der südliche Bildausschnitt (C) über dem Altar wird dabei als irdischer Schauplatz zu der Glorienszene in der Gewölbemitte (B) gesehen, was durch die rahmenüberspielenden Figuren und Wolken verdeutlicht wird. Das Fresko A im N stellt dagegen eine für sich abgeschlossene Bildräumlichkeit dar.
 
 Die Farbigkeit - sofern sie nach der Rekonstruktion beurteilt werden kann – ist überwiegend an Lokalfarben (Gold-)Gelb, (Rost-)Rot, Grün und (helles) Blau gebunden, sie erhält durch die Rahmung ein festlich-sakrales Gepräge.
 
-
 [[File:Band03-2_chunk011_p025_img001.jpg|thumb|Maximilianskapelle, Decke (Zustand 1945)]]
 
-
-A-C, 1-6 MAXIMILIANS-SZENEN Im Gemälde-Inventar des Schlosses Schleißheim von 1761 wird die Malerei des Cosmas Damian Asam beschrieben (BHStA I, HR 210 Nr. 18/2, fol. 42 v und 43 r): »In der Hof Capellen. Cosmas Damianus Asam. Der Plafond enthaltet von dem Leben, Marter und Glorie des Heiligen Maximiliani, welcher zu Celeja in Panonien gebohren, und hernach von Pabst Sixto den zweyten zum Bischof der Laureacenischen Kirchen geweyhet worden, vier besondere abtheillungen, davon Die Erste, so nächst dem Chor ist, daß Leben desselben vorbildet, wie er Denen um sich stehenden Armen, und Presthafften Leuthen mit reichen Allmosen beyspringet (= Fresko A). In der zweyten Abtheillung ob dem altar ist einerseiths der Panonische Landt-Pfleger Ejulasius zu sehen, welcher den Heiligen Maximilianum, weil Er den Götzen nicht opfern wollen, um des wahren Glaubens willen zum Todt verurtheillet hat; andererseits aber ist der Heilige Maximilianus auf der Köpf-Statt Knyender zu bemercken, wie er dem hinter ihm stehenden Hencker sein Haupt willig darbittet, und zugleich jene unter der Köpf-Statt liegende gefesselte Christen zur standthafftigkeit
-
-
+A-C, 1-6 MAXIMILIANS-SZENEN Im Gemälde-Inventar des Schlosses Schleißheim von 1761 wird die Malerei des Cosmas Damian Asam beschrieben (BHStA I, HR 210 Nr. 18/2, fol. 42 v und 43 r): »In der Hof Capellen. Cosmas Damianus Asam. Der Plafond enthaltet von dem Leben, Marter und Glorie des Heiligen Maximiliani, welcher zu Celeja in Panonien gebohren, und hernach von Pabst Sixto den zweyten zum Bischof der Laureacenischen Kirchen geweyhet worden, vier besondere abtheillungen, davon Die Erste, so nächst dem Chor ist, daß Leben desselben vorbildet, wie er Denen um sich stehenden Armen, und Presthafften Leuthen mit reichen Allmosen beyspringet (= Fresko A). In der zweyten Abtheillung ob dem altar ist einerseiths der Panonische Landt-Pfleger Ejulasius zu sehen, welcher den Heiligen Maximilianum, weil Er den Götzen nicht opfern wollen, um des wahren Glaubens willen zum Todt verurtheillet hat; andererseits aber ist der Heilige Maximilianus auf der Köpf-Statt Knyender zu bemercken, wie er dem hinter ihm stehenden Hencker sein Haupt willig darbittet, und zugleich jene unter der Köpf-Statt liegende gefesselte Christen zur standthafftigkeit ermahnt, welche ebenfahls um des Wahren Glaubens willen zu sterben sich entschlossen haben (= Fresko C). Alßdann ist In der dritten und Mitteren abtheilung der Heilige Maximilianus in seiner Glorie gemahlen, wie Er in Begleitung der Englen von der allerheiligsten Dreifaltigkeit in dem Himmel aufgenommen wird (= Fresko B). Und In der Vierten stelle an der Wandt des Altars, seynd die Miracul des Heiligen Maximiliani enthalten, wie er denen kranken und betrübten in unterschiedlichen Nöthen und anliegen beyspringet (=Fresko D). Zwischen denen obern Fenstern, folglich in denen Ornamenten des Plafonds, ist ferners in 6 Runden Gemählden das Leben und Marter des Heiligen Maximiliani al Schiaro et Scuro nochmahls Entworfen (= 1-6). – Miller. Und in dem Plafond ob den Thor ist der heilige Maximilianus in seiner Glorie mehrmahls zu sehen» (Emporenunterseite?, nicht erhalten).
 
 [[File:Band03-2_chunk012_p001_img001.jpg|thumb]]
-
-ermahnt, welche ebenfahls um des Wahren Glaubens willen zu sterben sich entschlossen haben (= Fresko C). Alßdann ist In der dritten und Mitteren abtheilung der Heilige Maximilianus in seiner Glorie gemahlen, wie Er in Begleitung der Englen von der allerheiligsten Dreifaltigkeit in dem Himmel aufgenommen wird (= Fresko B). Und In der Vierten stelle an der Wandt des Altars, seynd die Miracul des Heiligen Maximiliani enthalten, wie er denen kranken und betrübten in unterschiedlichen Nöthen und anliegen beyspringet (=Fresko D). Zwischen denen obern Fenstern, folglich in denen Ornamenten des Plafonds, ist ferners in 6 Runden Gemählden das Leben und Marter des Heiligen Maximiliani al Schiaro et Scuro nochmahls Entworfen (= 1-6). – Miller. Und in dem Plafond ob den Thor ist der heilige Maximilianus in seiner Glorie mehrmahls zu sehen» (Emporenunterseite?, nicht erhalten).
 
 A ALMOSENSPENDE Auf den Stufen vor einem Säulenportikus steht der Heilige im Bischofsornat, hinter ihm hält ein Mann einen Schirm über ihn, zu seiner Rechten trägt ein anderer eine Schale mit Silbermünzen, die von Maximilian verteilt werden. Eine Frau am rechten Bildrand hält schon eine Münze in Händen, neben ihr drängen Kranke und Arme die Treppe hinauf, vor der Treppenbalustrade am linken Bildrand kauern ein halb enblößter Kranker und eine Frau mit Kind. Im Hintergrund sind ein Palast mit Figurenschmuck und ein Turm angedeutet, wohl die bischöflichen Gebäude von Lorch (Lauriacum).
 
@@ -79,14 +69,9 @@ Die Szene ist untersichtig angelegt, die Figuren scheinen kleiner im Maßstab zu
 
 B GLORIE DES HL. MAXIMILIAN Das runde Mittelfresko ist durch einen besonderen goldenen Rahmen ausgezeichnet, der den Schrägblick durch eine kreisrunde Deckenöffnung in den Himmel vorstellen soll. Am unteren Bildrahmen überschneiden große Wolkenzüge die Raumgrenzen, verbinden aber nicht den realen Kirchenraum mit dem Himmelsausblick, sondern knüpfen an der Marterszene (C) an, die durch Wolken dem Beschauer entrückt ist. Engel tragen hier den Heiligen und seine Attribute, Bischofinsignien und Buch, Schwert und Martyrer-Palmzweig in die Glorie zur Hl. Dreifaltigkeit empor. In Begleitung musizierender Engel reicht Gottvater Christus die Krone für Maximilian, links weist Christus auf das Kreuz der Passion, wo Engel Dornenkrone, Palmwedel, Kelch und die Geißelsäule auf einem Postament halten.
 
-C HINRICHTUNG Die Enthauptungsszene ist auf einem gemauerten Rundbau in der Mitte des Bildes dargestellt. Am linken Bildrand als Repoussoir die Götzenfigur, daneben ein alter Priester vor dem Opferaltar, rechts halten römische Soldaten mit Feldzeichen nackte Gestalten in Fesseln. Die rundgemauerte Richtstatt auf schmalem Erdstreifen und die Stufen des Throns des römischen Beamten schließen sich nicht eigentlich zu einem erfaßbaren Schau
+C HINRICHTUNG Die Enthauptungsszene ist auf einem gemauerten Rundbau in der Mitte des Bildes dargestellt. Am linken Bildrand als Repoussoir die Götzenfigur, daneben ein alter Priester vor dem Opferaltar, rechts halten römische Soldaten mit Feldzeichen nackte Gestalten in Fesseln. Die rundgemauerte Richtstatt auf schmalem Erdstreifen und die Stufen des Throns des römischen Beamten schließen sich nicht eigentlich zu einem erfaßbaren Schau platz zusammen, sie sind vielmehr wie auch der Altar und die Götzenfigur Versatzstücke, die zur Schilderung der Vorgänge notwendig sind.
 
 [[File:Band03-2_chunk012_p001_img002.jpg|thumb|Maximilianskapelle, Decke mit B Glorie und C Hinrichtung des hl. Maximilian (Vorkriegszustand)]]
-
-
-
-
-platz zusammen, sie sind vielmehr wie auch der Altar und die Götzenfigur Versatzstücke, die zur Schilderung der Vorgänge notwendig sind.
 
 verschiedenen Anliegen anrufen: links eine Mutter mit Kindern, davor ein Kranker, rechts ein Krüppel, im Hintergrund ein Kerkerturm, aus dessen Fenster sich Hände recken.
 
@@ -96,19 +81,13 @@ Ergänzungen zur Ikonographie: Die überwiegend legendäre Vita des hl. Maximili
 
 Maximilian ist Namenspatron der Habsburger und Wittelsbacher; erstmals trug Kaiser Maximilian I. (1493-1519) seinen Namen.
 
-
 == Quellen und Literatur ==
-
 
 Crammer, Teutsches Rom 1776, s. 168 f. Mayer-Westermayer, Bd 2, S. 494. Kat. Max Emanuel 1976, II, S. 273 f. Rupprecht, Bernhard, Die Brüder Asam, Regensburg 1980, S. 19. Schmid 1980, S. 114. Hojer/Schmid 1984, S. 55-56.
 
-
 [[File:Band03-2_chunk012_p002_img001.jpg|thumb|Maximilianskapelle, W Patronats-Szene (Vorkriegszustand)]]
 
-
-
 == Ikonologie ==
-
 
 Das Neue Schloß Schleißheim war als Residenzschloß geplant und erbaut, vergleichbar in der – intendierten – Funktion und Bedeutung etwa mit Versailles. Die absolutistische Herrscherideologie, die im Bau ihren Ausdruck fand, bestimmte mit ihren Ambitionen teilweise auch die Bildinhalte der Innenausstattung. Diese Bildinhalte zeigen in den verschiedenen Bereichen des Schlosses kein übergreifendes Gesamtprogramm, sondern verschiedene Möglichkeiten in Art und Gewichtung der Bildaussage. In Schleißheim bediente man sich bei der Vermittlung der Bildgedanken einiger Instrumente nicht mehr, die bei Beginn der Regierung Max Emanuels – in den Alexanderzimmern der Residenz – noch eine große Rolle gespielt hatten. So fehlen in Schleißheim die Embleme ganz, ebenso die Inschriften. Personifikationen abstrakter Begriffe kommen selten vor, und wenn, dann meist in der Form antiker Göttergestalten. Es fehlen auch fast durchwegs die dem Hauptbild untergeordneten Nebenbilder und damit die Möglichkeit, die Bildaussage zu erweitern, zu erläutern oder zu präzisieren; wenn Nebenbildfelder vorhanden sind, wie in einzelnen Räumen der Appartements, dann werden sie nicht in diesem Sinn genutzt.
 
@@ -116,24 +95,13 @@ Bei den in der Erbauungszeit ausgemalten unteren Räumen – Salle des Colonnes,
 
 Die großen Repräsentationsräume – Treppenhaus, Weißer Saal, Viktoriensaal (= ehem. Salle à manger) – zeigen Themen aus Vergils Aeneis. Nach der Tradition ist hier die Hauptaussage des Bauherrn über das Wesen seiner Herrschaft und seinen politischen Anspruch zu erwarten, außerdem ein enger Bezug zwischen der Hauptfigur der Deckenbilder und dem Auftraggeber. Ein Vergleich Max Emanuels mit Aeneas war nicht neu. 1701 erschien eine Lobschrift zur Rückkehr des Kurfürsten aus den Niederlanden: »Allegoricus Aeneas Illius decennalis Trojae defensio, ... id est: Serenissimi Electoris Bavariae decennalis Hispalis propugnatio« (Seelig, in: Kat. Max Emanuel I, S. 11, Anm. 182).
 
-
-
-
-
 [[File:Band03-2_chunk012_p003_img001.jpg|thumb]]
-
-
 
 [[File:Band03-2_chunk012_p003_img002.jpg|thumb]]
 
-
-
 [[File:Band03-2_chunk012_p003_img003.jpg|thumb]]
 
-
-
 == Treppenhaus ==
-
 
 Beim Entwurf des Schleißheimer Programms verzichtet man auf die bildlichen Möglichkeiten, eine Gleichsetzung Max Emanuel – Aeneas unmittelbar sinnfällig zu machen. Nur Cosmas Damian Asam bringt im Treppenhaus-Fresko einen aktualisierenden Hinweis in Form der weißblauen Rautenfahne auf einem Schild unter den Waffen des Aeneas. Da auf dem Schild, den Vulkan für Aeneas geschmiedet hatte, die ganze zukünftige ruhmreiche Geschichte Roms dargestellt war (VIII, 626ff.), ist das als Hinweis auf die ruhmreiche Zukunft Bayerns bzw. des Hauses Wittelsbach zu sehen. Auch läßt sich – weniger in porträthaften Zügen als in der barock-höfischen Pose – die Gleichsetzung von Aeneas mit Max Emanuel in der Figur neben Venus im gleichen Fresko vermuten; diese Art der Verdeutlichung entspräche Asams persönlichem Stil, steht aber im Widerspruch zum ikonologischen Stil der übrigen Bildausstattung. Auch der Flußgott Tiber, der den glücklichen Ausgang von Aeneas' Sendung geweissagt hatte, hat mit der eigentlichen Szene nichts zu tun. So malt Asam nicht nur die Szene, sondern deutet sie gleichzeitig: Götter (himmlische Mächte) geben dem Helden nicht nur seine Bestimmung, sondern sie lenken und unterstützen ihn auch bei seinen Taten. Der glückliche Ausgang nach langer Mühen, geweissagt durch den Flußgott, wird durch den göttlichen Beistand gesichert. – Die Nymphen und Flußgötter (N.G. Stuber), die durch die Tambouröffnungen gesehen werden können, gehören in diesen Zusammenhang. Aeneas fleht sie nach der Prophezeiung des Tiber an: Nymphen, laurentische Nymphen, von denen die Flüsse entstammen, / und du, Vater Thybris, mit deinem heiligen Strome, / nehmet Aeneas auf, schützt endlich ihn vor Gefahren (VIII, 71ff.). – In den Waffen und Trophäen des Stucks wird das Thema fortgeführt. Über dem mittleren Eingang zum Weißen Saal halten Genien das bayerische Wappen mit dem bekrönenden Kurhut. 
 
@@ -143,17 +111,11 @@ Das Deckenbild zeigt mit dem Zweikampf des Aeneas mit dem Rutulerfürsten Turnus
 
 Auch in der Versammlung der Götter im Himmel ist das Ende der dramatischen Auseinandersetzung der dem Helden freundlich oder feindlich gesinnten Mächte abgeschlossen. Die Schicksalswaage, auf die Jupiter die Geschicke der beiden Helden gelegt hatte (XII, 725f.), hat sich zugunsten des Aeneas geneigt. In der Hauptansicht thronen die Gewinner des himmlischen Machtkampfes: Jupiter, von dem die Troer abstammen (VII, 219), Neptun, der auf Seite des Aeneas war, und Venus, die Mutter des Aeneas und sein wichtigster himmlischer Beistand, sowie die mächtige Gestalt des Saturn neben Jupiter. Saturn war der Stammvater der Latiner, damit auch der zukünftigen Aeneas-Gattin Lavinia. Unter Augustus wird mit dem Goldenen Zeitalter auch Saturns Herrschaft wiederkehren: »Goldene Weltzeit / bringt er wieder für Latiums Flur, wo einstens Saturnus / herrschte« (VI, 792ff.); »Redeunt Saturnia regna« (Hirtengedichte IV, 6). Auf der Gegenseite sind Götter zu sehen, die ihren Schützlingen nicht helfen konnten: Juno mit Iris, Minerva, von den Latinern vergeblich um Hilfe angefleht (XI, 477ff.) und Herkules, der von Pallas, Sohn des mit Aeneas verbündeten Königs Evander, im Kampf gegen Turnus vergeblich um Hilfe angerufen worden war (X, 460ff.). Juno grollt nicht mehr, sie hat sich den »Fata« gefügt.
 
-
 [[File:Band03-2_chunk012_p003_img004.jpg|thumb]]
-
-
 
 [[File:Band03-2_chunk012_p003_img005.jpg|thumb|6 Enthauptung]]
 
-
-
 [[File:Band03-2_chunk012_p003_img006.jpg|thumb]]
-
 
 Die Macht der Fata, der Bestimmung des Helden, der er folgen muß, ist zentrales Thema der Aeneis; sie ist auch im Deckenbild dargestellt. Die drei Parzen erscheinen an wichtiger Stelle in der Nähe Jupiters. Sie sind gleichbedeutend mit den Fata, und ihrer Macht war sogar Jupiter unterworfen, dessen Ratschlüsse sie andererseits auch ausführten. Als der Kampf zwischen den Troern und den feindlichen Völkern sich seinem Höhepunkt nähert, spricht Juno zu Iuturna: »Als es Fortuna noch offenbar litt und die Parzer Erfolg für Latium ließen, beschützte ich Turnus ... Jetz aber ... der Parzen Tag und feindliche Macht ist nahe« (XII, 147ff.). Und Jupiter sagt zu Juno: »Weißt dus doch selbst ... Aeneas gehört als Vaterlandsgott dem Himmel ihn hebt zu den Sternen die Sendung« (XII, 795f.: »Indigetem Aenean scis deberi caelo fatisque ad sidera tolli«). Nicht einmal die Götter haben die Macht, »nova condere fata« (X, 35), die Bestimmung des Helden zu ändern. Aeneas' Fata sind es, die Macht Trojas in Rom neu zu begründen und damit Ruhm für sich und sein Haus zu erwerben. So sehr er persönlich unter Kampf, Krieg und Tod, die er den italischen Stämmen bringen muß, leiden mag, höher steht ihm als Wert seine ruhmreiche Bestimmung. Solange er lebt, ist Trojas Macht nicht besiegt: »quo sospite numquam / res equidem Troiae victas aut regna fatebor« (VIII, 470f.). Einen Teil seiner Gefährten, die ermattet von Leiden und Schicksalsschlägen Frieden suchen, läßt er an den Küsten Siziliens zurück. Es sind »Gemüter, die keinerlei Ehrer bedürfen«. »animi egentes nil magnae laudis« (V, 751).
 
@@ -163,14 +125,9 @@ Ein direkter Bezug Aeneas – Max Emanuel ist nirgends im Fresko auch nur angede
 
 Legitimation für das Erreichen höherer und höchster Ehren waren für den Kurfürsten nicht zuletzt seine Türkensiege. Die beiden großen Schlachtengemälde Beichs (schon 1702/04 entstanden) an den Stirnseiten des Saals zeigen die Errettung Wiens vor den Türken 1683 und die
 
-
-
-
 Schlacht am Berg Hársan bei Mohács 1687. Am Berg Hársan hatte Max Emanuel mit einem tollkühnen Angriff Karl von Lothringen, den Oberkommandierenden des Kaiserlichen Heeres, aus der Umzingelung des türkischen Heeres unter dem Großwesir Suleiman befreit und infolge des triumphalen Sieges die Räumung ganz Ungarns von den Türken erreicht. – Über den beiden Gemälden sieht man – stuckiert – das bayerische Wappen und die Ordenskette vom Goldenen Vlies, von Fama-Gestalten umgeben. Der bekrönende Kurhut reicht jeweils bis in die Zone des Deckenbildes.
 
-
 == Viktoriensaal ==
-
 
 An den Wänden des ehemaligen Empfangs- und Speisesaales wird das Thema von den Türkensiegen Max Emanuels fortgeführt (die Decke zeigt den Empfang Aeneas' durch Dido). In den Schlachtengemälden Beichs sind Heldentaten des jungen Max Emanuel in den Türkenkriegen dargestellt:
 
@@ -199,9 +156,7 @@ Zwei große Aeneas-Zyklen waren dem Kurfürsten mit Sicherheit bekannt: In der G
 
 Die Berufung auf Bestimmung und Schicksal des Aeneas in den drei Deckenbildern der großen Repräsentationsräume ist letztlich nichts anderes als eine Apologie der Politik Max Emanuels, seiner Ansprüche und seiner lebenslangen Bemühungen, diese Ansprüche durchzusetzen. Gleichzeitig wird in ihnen die Hoffnung ausgedrückt, daß die Wechselfälle des Schicksals zu einem glücklichen Ende führen, zur Erfüllung der Bestimmung des Kurfürsten, Ruhm und Rang des Hauses Wittelsbach zu mehren.
 
-
 == Quellen und Literatur ==
-
 
 Hauttmann, Max, Die Entwürfe Robert de Cottes für Schloß Schleißheim, in: Münchner Jahrbuch der Bildenden Kunst 6, 1911, S. 256-76.
 
@@ -225,9 +180,7 @@ Braunfels, Wolfgang, François Cuvilliés. Der Baumeiste der galanten Architektu
 
 s. auch die folgenden Quellen und die Literatur zur gesamten Schloßanlage Schleißheim. A.B./W.H.
 
-
 == Quellen und Literatur zur Schloßanlage Schleißheim ==
-
 
 »Mobilien«-Inventare im Archiv der BSV: Lustheim und Neues Schloß, 1755, 1761; Altes und Neues Schloß, 1770.
 
@@ -244,8 +197,6 @@ BHStA I, HR I 210/21, Benedikt Faßmann, Beschreibung der Gemälden in der Churf
 Bretagne 1722 = Bretagne, Pierre de, Réjouissances et fêtes magnifiques, qui se sont faites en Bavière l'an 1722, au marriage de S.A.S. monseigneur le prince electoral, München 1723, S. 17–20.
 
 Münchens Merkwürdigkeiten (o. V.), Ein Taschenbuch für jeden Fremden und Kunstfreunde, München 1811, S. 73 ff. Seidel, G. F., Das Königliche Lustschloß Schleißheim, Leipzig 1885.
-
-
 
 KDB I OB (1), S. 814-17
 
@@ -288,6 +239,5 @@ Hojer, Gerhard und Elmar D. Schmid, Schleißheim. Neue Schloß und Garten. Amtli
 Heym, Sabine, Henrico Zuccalli (um 1642-1724), der kurbayerische Hofbaumeister, München/Zürich 1984.
 
 Holler, Wolfgang, Jacopo Amigonis Frühwerk in Süd deutschland, Hildesheim – Zürich – New York 1986 S. 24-67.
-
 
 == SALVATORTHEATER ==

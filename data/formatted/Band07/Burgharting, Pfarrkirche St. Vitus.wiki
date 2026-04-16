@@ -13,47 +13,29 @@
 |AutorIn1=Bauer-Wild, Anna
 }}
 
-
-
-
 == BURGHARTING ==
-
 
 Pfarrkirche (seit 1923, Pfarrverband Holzland), Gemeinde Kirchberg, Erzdiözese München und Freising; z.Z. der Ausmalung war Burgharting Filiale der großen Pfarrei Wambach, zu der auch Geislbach gehörte (s. S. 107). Gericht Erding
 
-
 '''Patrozinium:''' St. Vitus
-
 
 '''Zum Bauwerk:''' Konsens zum Neubau anstelle der kleinen und baufälligen mittelalterlichen Kirche am 16.10.1722. Abbruch der alten Kirche im Frühjahr 1723, Grundsteinlegung im Juni 1723. Baumeister war Anton Kogler aus Erding. 1727 wurde der Bau mit Inneneinrichtung völlig zu Ende gebracht (der Hochaltar von 1716 mit dem Altarblatt von Johann Degler wurde aus der alten Kirche übernommen). Saal zu vier Jochen, Gliederung durch Pilaster, Doppelempore im W; gleichmäßige Belichtung von N und S in allen Jochen durch hohe Rundbogenfenster (im westlichen Joch wegen des Emporeneinbaus verkürzt). Eingezogener AR zu einem Joch mit halbrundem Schluß, Pilastergliederung, Belichtung durch je zwei Fenster von N und S
 
-
 '''Auftraggeber:''' Gregor Wagner, Pfarrer von Wambach (1711-32), ein Mitglied der Bartholomäer (S. 136), der außer Burgharting auch die Filiale Geislbach erbauen und ausschmücken ließ. Nach den Baudaten ist zu vermuten, daß die Kirche von Burgharting kurz vor der von Großwimpasing ausgemalt wurde. Die endgültige Ausbildung des Bildsystems mit lateinischen Inschriften und deutschen Versen - hier in Burgharting haben zum ersten Mal die zahlreichen Nebenbilder und Embleme neben den lateinischen Inschriften und Lemmata auch deutsche Verse - das wir in den Aiglstorffer Freskierungen im ehemaligen Gericht Erding so oft finden könnte demnach die Leistung von Gregor Wagner gewesen sein. Möglicherweise hat Pfarrer Wagner auch seine Pfarrkirche Wambach ausmalen lassen, denn ein Visitationsbericht aus der ersten Hälfte des 19. Jh. sagt, sie sei »zwar alt, aber fest und gut unterhalten, ist mit Mahlereven ausgeziert«.
-
 
 Der Erfolg dieser Art von kleinteilig-didaktischen Bildprogrammen ist verständlich, wenn man bedenkt, welche Möglichkeit dem einzelnen Seelsorger damit an die Hand gegeben wurde, seiner Gemeinde die Patrone der Kirche nahezubringen, Wallfahrten zu fördern, Heilswahrheiten zu vermitteln und die moralischen Imperative eines christlichen Lebens zu veranschaulichen. Ansprüche an den künstlerischen Wert einer Ausmalung traten offenbar dahinter zurück. Die Möglichkeit, solche Programme zu realisieren, war eng mit Franz Albert Aiglstorffer und später mit seinem Sohn Franz Joseph verknüpft. Beide schrieben gern und gut (die Handschrift Aiglstorffers ist keine Handwerkerschrift, sondern von der eines gebildeten Mannes nicht zu unterscheiden), und das war im 18. Jh. bei Malern seltener, als man denken möchte.
 
-
-Die Verschiedenheit in der Denk- und Ausdrucksweise und die stark variierende Geläufigkeit der Verse läßt sicher erscheinen, daß jeder Pfarrer sein Programm selbst entwarf und auch
-
+Die Verschiedenheit in der Denk- und Ausdrucksweise und die stark variierende Geläufigkeit der Verse läßt sicher erscheinen, daß jeder Pfarrer sein Programm selbst entwarf und auch selbst dichtete; doch schuf sich der Maler im Laufe der Zeit einen großen Fundus von Themen, Emblemen und Inschriften, aus dem der jeweilige Auftraggeber schöpfen konnte. Dabei wurden geglückte Formulierungen immer wieder aufgegriffen.
 
 [[File:Band07_chunk002_p011_img001.jpg|thumb|Der Kirchenraum]]
-
-
 [[File:Band07_chunk002_p011_img002.jpg|thumb]]
-
-
 [[File:Band07_chunk002_p012_img001.jpg|thumb|Taufe des hl. Viti]]
-
-selbst dichtete; doch schuf sich der Maler im Laufe der Zeit einen großen Fundus von Themen, Emblemen und Inschriften, aus dem der jeweilige Auftraggeber schöpfen konnte. Dabei wurden geglückte Formulierungen immer wieder aufgegriffen.
 
 '''Autor und Entstehungszeit:''' Franz Albert Aiglstorffer (* um 1675 Wartenberg † 1741 Wartenberg; s. S 238) 1724. Datum in C, 1724
 
 Uberzeugende Zuweisung an Aiglstorffer durch Georg Brenninger 1980 (S. 133-35). 1729 malte Aiglstorffer auch die Wambacher Filiale Geislbach aus.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' LHs (A, B, C<sub>1-3</sub>, 1-6, a-h) und AR (D, D<sub>a-f</sub>) Tonne mit Stichkappen, im AR nach O abgemuldet. Rahmen: Einfache Stuckprofile
 
@@ -63,9 +45,7 @@ Uberzeugende Zuweisung an Aiglstorffer durch Georg Brenninger 1980 (S. 133-35). 
 
 Letzte Restaurierung des Innenraums 1988/89 durch Ludwig Keilhacker, Taufkirchen: Die Deckenbilder wurden gereinigt, der Putz und die pudernden Partien gefestigt, die Risse (besonders ein Scheitelriß am Chorbogen, der in das AR-Fresko D ausstrahlte) geschlossen, Fehlstellen wurden retuschiert.
 
-
 == Beschreibung und Ikonographie ==
-
 
 A, B, 1–6 SZENEN AUS DER VITA DER HEILIGEN VITUS, MODESTUS UND CRESCENTIA Die beiden Hauptfresken A und B und die Fresken 1–6 an den Gewölbezwickeln des LHs (sowie die Patronatsfresken CB, und CB) bringen Szenen aus Vita und Passio des hl. Vitus, seines Lehrers Modestus und seiner Amme Crescentia.
 
@@ -75,79 +55,42 @@ Vitus predigte und wirkte Wunder. Als Kaiser Diokletian von ihm hörte, ließ er
 
 A VITUS, MODESTUS UND CRESCENTIA IM KERKER Lumen in Tenebris (Licht in der Finsternis). Ansicht nach W. In einem Verlies mit vergitterten Fenstern sind die drei Heiligen dargestellt, Vitus als Knabe, sein Lehrer Modestus als bärtiger Mann, seine Amme Crescentia als junge Frau. Alle tragen Ketten. Von oben dringen lichte Wolken in den Raum – hier erscheint ein Engel, der zum Himmel weist. Seyt die Heiligen gefangen in finsterm Arest / ein Engel vom Himmel schön glänzende sie Tröst.
 
-
 [[File:Band07_chunk002_p012_img002.jpg|thumb]]
-
 
 [[File:Band07_chunk002_p012_img003.jpg|thumb|Vitus heilt seinen erblindeten Vater]]
 
-
 [[File:Band07_chunk002_p012_img004.jpg|thumb|6 Marter der hll. Vitus, Modestus und Crescentia]]
-
 
 1 DER VATER ENTDECKT VITUS IM GEBET InCorupta Fide (Unversehrten Glaubens). In einem weiten Innenraum kniet Vitus als Kind links an einem Altar, auf dem ein Kruzifixus steht und ein geöffnetes Buch liegt. Vitus, betend, wendet sich zu seinem Vater um, der eben das Zimmer betreten hat und seinen Sohn mit rollenden Augen und drohenden Gesten zur Rede stellt. Der Vater erschrickt und sich drum entrist / als er S. Veith sihet das er war ein Christ.
 
 2 TAUFE DES HL. VITUS In aetendo (aeterno) in Veniunt (In der Ewigkeit ernten sie). In einem Innenraum kniet Vitus als Knabe an einem Taufbecken, das auf Stufen erhöht
 
-
 [[File:Band07_chunk002_p012_img005.jpg|thumb]]
-
 
 [[File:Band07_chunk002_p012_img006.jpg|thumb]]
 
-
 [[File:Band07_chunk002_p012_img007.jpg|thumb]]
 
-
-
-
-BURGHARTING
-
+BURGHARTING steht. Der Priester gießt Wasser über das Haupt des Kindes, ein Ministrant hält ein offenes Buch. Hinter Vitus sieht man seine Amme Crescentia. den Richter und Sündter S. Veith zor nung findt, / der Vatter und Mutter ungnedig s.
 
 [[File:Band07_chunk002_p013_img001.jpg|thumb]]
-
-
-
 [[File:Band07_chunk002_p013_img002.jpg|thumb]]
-
-
-
 [[File:Band07_chunk002_p013_img003.jpg|thumb]]
-
-
-
 [[File:Band07_chunk002_p013_img004.jpg|thumb]]
-
-
-steht. Der Priester gießt Wasser über das Haupt des Kindes, ein Ministrant hält ein offenes Buch. Hinter Vitus sieht man seine Amme Crescentia. den Richter und Sündter S. Veith zor nung findt, / der Vatter und Mutter ungnedig s.
-
 
 [[File:Band07_chunk002_p013_img005.jpg|thumb]]
 
-
-
 [[File:Band07_chunk002_p013_img006.jpg|thumb|B Marter des hl. Vitus]]
-
-
 
 [[File:Band07_chunk002_p013_img007.jpg|thumb]]
 
-
-
 [[File:Band07_chunk002_p013_img008.jpg|thumb]]
-
-
 
 [[File:Band07_chunk002_p013_img009.jpg|thumb]]
 
-
-
 [[File:Band07_chunk002_p013_img010.jpg|thumb|d Pyramide]]
 
-
-
 [[File:Band07_chunk002_p013_img011.jpg|thumb]]
-
 
 VITUS ALS KIND VOR DEM RICHTER  
 judicio castigandus traditur (Vitus wird zur Züchtigung vorgeführt). In einem Innenraum sitzt rechts unter Draperie der Richter. Das Kind Vitus, von den Eltern, steht vor ihm. Während Vater und Mutter in flehende Gesten in ihn dringen, schaut Vitus, die Rechte auf die Brust gelegt und die Linke erhoben, den Richter an. Der Richter weist auf eine Rute und zwei Geißeln, die auf dem Tisch neben ihm liegen. den Richter und Sündter S. Veith zor nung findt, / der Vatter und Mutter ungnedig s  
@@ -178,14 +121,9 @@ ligrt S
 
 BURGHARTING
 
-
-
-
 [[File:Band07_chunk002_p014_img001.jpg|thumb]]
 
-
 [[File:Band07_chunk002_p014_img002.jpg|thumb|D Glorie des hl. Vitus]]
-
 
 == BURGHARTING ==
 
@@ -218,47 +156,27 @@ e) Ecce Ad Sum (Sieh, hier bin ich). Stadt in Landschaft; aus den Wolken hält e
 
 '''Dc''' Terena Sordent (Die irdischen Dinge werden gering geschätzt). Adler, der über einer Landschaft mit Häusern fliegt. In die Höhe alzeit Trachtet / Auf der Erdten alls verachtet. Der Adler, der weit auffliegt und die Erde hinter sich läßt...
 
-
-
-
 [[File:Band07_chunk002_p015_img001.jpg|thumb]]
-
-
 
 [[File:Band07_chunk002_p015_img002.jpg|thumb|D<sub>a-f</sub> Embleme auf den hl. Vitus]]
 
-
-
 [[File:Band07_chunk002_p015_img003.jpg|thumb]]
-
 
 (Picinelli, Lib. IV, Nr. 169, s. v. aquila, mit gleichem Lemma), ist Bild der Verachtung alles Irdischen.
 
 Burghartinger Kirche. Im 18. Jh. waren die Patrone des nördlichen Seitenaltars Leonhard und Florian, die Patronin des südlichen Maria mater dolorosa. Die drei mittleren Szenen beziehen sich auf den Kirchenpatron Vitus mit seinen Gefährten Modestus und Crescentia. Wie die drei Heiligen sollen die Gläubigen von Burgharting Christus folgen (CB<sub>1</sub>: »Trahe m post te«); wie sie sollen sie auf die göttliche Hilfe vertrauen (CB<sub>3</sub>). Vitus wird in der Krankheit ihr Helfer sein (CB<sub>2</sub>).
 
-
 [[File:Band07_chunk002_p015_img004.jpg|thumb]]
-
-
 
 [[File:Band07_chunk002_p015_img005.jpg|thumb|B<sub>5</sub> Mater Dolorosa CB<sub>1-5</sub> Patrone von Burgharting]]
 
-
-
 [[File:Band07_chunk002_p015_img006.jpg|thumb]]
-
-
 
 [[File:Band07_chunk002_p015_img007.jpg|thumb]]
 
-
-
 [[File:Band07_chunk002_p015_img008.jpg|thumb]]
 
-
-
 [[File:Band07_chunk002_p015_img009.jpg|thumb]]
-
 
 erhobenen Händen. Von oben kommt ein Adler, ein Brot im Schnabel. Gott in der Noth, / versorgts mit Brodt.
 
@@ -272,9 +190,6 @@ AEM, Pfarrakten Wambach, Pfarrbeschreibung; Bauten II; Resignations- und Verlass
 
 Schmidtsche Matrikel, Bd 2, S. 110. Mayer-Westermayer, Bd 3, S. 505-07. KDB I OB (2), S. 1215. Landkreis Erding 1963, S. 273. Brenninger, Georg, Die Kirchen der Pfarreien Schröding und Burgharting (Kirchenführer), Burgharting/Schröding <sup>2</sup>1983. Brenninger 1980, S. 133–35. Brenninger 1982, S. 107 f. Landkreis Erding 1985, S. 361 f. Dehio 1990, S. 151. A. B
 
-
 [[File:Band07_chunk002_p015_img010.jpg|thumb]]
-
-
 
 [[File:Band07_chunk002_p015_img011.jpg|thumb]]

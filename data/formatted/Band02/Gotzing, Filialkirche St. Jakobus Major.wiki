@@ -29,9 +29,7 @@ Einfacher Saal zu drei Jochen; im W Empore. Wenig eingezogener AR zu zwei Jochen
 
 '''Autor und Entstehungszeit:''' A ist signiert: Joh. Georg Gaill pinx. 1761. Das Datum der Ausmalung findet sich noch einmal am Chorbogen in einem Chronogramm in der Inschrift EX HOC SPLENDOREM RECEPI. Die Ausmalung der Kirche in Gotzing ist das zweite Werk des Aiblinger Malers Johann Georg Gaill (* 1721 Friedberg † 1793 Aibling) in der Pfarrei Neukirchen (s. Reichersdorf, S. 549)
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' LHs (A, A<sub>1-6</sub>) flache Korbbo-gentonne mit Stichkappen, im AR (B, C, a-f) ist das spätgotische Gewölbe zu einer Spitzbogentonne mit Stichkappen verschliffen
 
@@ -47,17 +45,11 @@ C Höhe 6,10 m; 1,40 × 2,70
 
 '''Erhaltungszustand und Restaurierungen:''' Bei der letzten Restaurierung 1960 durch Sebastian Hausinger, München wurden die Fresken gereinigt und ausgebessert. Die Farbsubstanz ist durchweg gut erhalten. Gekittete Risse in A; in B und C unerhebliche Haarrisse
 
-
 == Beschreibung ==
-
 
 Die Gesamtdekoration der Decken in Gotzing liegt qualitativ unter der der übrigen Kirchen der Pfarrei Neukirchen, die etwa gleichzeitig von Gaill ausgemalt worden sind. Während dort Stukkatoren am Werk waren, die die Rocaille anwenden, arbeitet der Stukkator von Gotzing noch mit den Formen der Stilstufe um 1730 und bringt nur selten (etwa an den Rahmen der Medaillons A1-6) die Andeutung einer Rocaille. Dies und die Unbeholfenheit in der Gesamtanordnung und Detail der Ornamentik lassen vermuten, daß kein ausgebildeter Stukkator am Werk war. Das Bildfeld A übergreift die beiden östlichen LHs-Joche; im AR ist die Jochteilung beibehalten worden, was der Zeitstufe von 1761 nicht entspricht und bei Gaill ungewöhnlich ist. Diese Anordnung geht offensichtlich auf den Stukkator zurück.
 
-
 [[File:Band02_chunk011_p002_img001.jpg|thumb]]
-
-
-
 
 A KREUZESPROBE Das sehr lange und verhältnismäßig schmale Bildfeld zeigt eine einansichtige Szene. Der Aufnahmestandpunkt liegt unter dem westlichen Bilddrittel. Um das lange Format zu bewältigen, bringt Gaill einen extrem tiefen Vordergrund, der ins Bild einführt. Hier, auf einer Wiese mit einer tief ausgehobenen Grube, liegen die drei Kreuze von Golgotha. In ihrer Anordnung und Verkürzung in die Tiefe wird versucht, den weiten Vordergrund als Raum faßbar zu machen.
 
@@ -81,9 +73,7 @@ Das Bild wiederholt bis ins Detail die Darstellung der Enthauptung des Apostels 
 
 a-f JAKOBUS-SZENEN Sechs Bildmedaillons in den Gewölbezwickeln des Chors begleiten die Hauptbilder. Als Relikt der Jocheinteilung sind b und e durch ein ornamentiertes Stuckband verbunden
 
-
 == Ikonographie ==
-
 
 Die Bildinhalte der Fresken von Gotzing beziehen sich zunächst auf den Apostel Jakobus Major als Kirchenpatron. Ihm sind das Hauptbild C und die sechs begleitenden Medaillons a-f gewidmet. Die hl. Kaiserin Helena ist die zweite Patronin Gotzings: Aus den Themen, die ihrer Ikonographie entnommen sind (A und B) ist als dritter Themenkreis eine Kreuzesikonologie entwickelt worden. Zu diesem Zyklus gehören A und A<sub>1-6</sub>.
 
@@ -91,19 +81,11 @@ A KREUZESPROBE Das Hauptbild schildert das Wunder, durch das unter den drei Kreu
 
 A1 DAS LEBENDE KREUZ In der Mitte ist ein Kruzifixus zu sehen, eine weibliche Gestalt weist darauf, während sich – am linken Bildrand – eine verschleierte Gestalt abwendet und flieht. Rechts eine Schar Betender. Es handelt sich wohl um das allegorische Bildthema des lebenden Kreuzes, das die Kreuzigung Christi als den Sieg der Kirche über die Synagoge, des Neuen Bundes über den Alten, veranschaulicht {ZITAT|NNN}.
 
-
 [[File:Band02_chunk011_p003_img001.jpg|thumb|A Kreuzesprobe]]
-
-
-
-
 
 [[File:Band02_chunk011_p004_img001.jpg|thumb|A<sub>5</sub> Schlacht an der Milvischen Brücke]]
 
-
-
 [[File:Band02_chunk011_p004_img002.jpg|thumb]]
-
 
 Kreuz, Einsiedeln 1964). In Gotzing ist es in reduzierter Form dargestellt durch die Figuren des Kruzifixes, der auf diesen weisenden Ecclesia und der entfliehenden Synagoge.
 
@@ -117,31 +99,12 @@ A5 SCHLACHT AN DER MILVISCHEN BRÜCKE Über einer Schlachtszene erscheint in Wol
 
 A6 KREUZÜBERFÜHRUNG Der Kaiser Heraklius, das Kreuz auf den Schultern, nähert sich dem Stadttor von Jerusalem. Ein Page begleitet ihn und trägt seine Krone. - Als Kaiser Heraklius nach dem Sieg über König Chosroes II. und der Rückeroberung des Kreuzes Christi in Jerusalem einziehen wollte, schlossen sich vor ihm die Stadttore durch ein Wunder und öffneten sich erst, als er die kaiserlichen Gewänder abgetan hatte und mit dem Kreuz auf dem Rücken einzog (LA-Benz, S. 756 f.; Ribadeneira-Hornig, Bd 2, 14.9. Fest der Erhöhung des Hl. Kreuzes, S. 383 f.)
 
-C ENTHAUPTUNG DES JAKOBUS MAJOR Als erster der Apostel erlitt Jakobus d.Ä. im Jahr 44 unter Herodes Agrippa den Martertod (Act 12, 2). - Der Jude links im Vordergrund ist sicher der Hohepriester Abiathar, der Jakobus fangen und an Herodes ausliefern ließ, dargestellt (AASS Julii, Tom. 6, 25.7., S. 9–12; Ribadeneira-Hornig, Bd 2, 25.7., S. 95 f.); die Figur ist wohl als Schriftgelehrter bezeichnet; den Hohenpriester dahinter kennzeichnen Ephod und Mitra. In dieser Gruppe 
-
-
+C ENTHAUPTUNG DES JAKOBUS MAJOR Als erster der Apostel erlitt Jakobus d.Ä. im Jahr 44 unter Herodes Agrippa den Martertod (Act 12, 2). - Der Jude links im Vordergrund ist sicher der Hohepriester Abiathar, der Jakobus fangen und an Herodes ausliefern ließ, dargestellt (AASS Julii, Tom. 6, 25.7., S. 9–12; Ribadeneira-Hornig, Bd 2, 25.7., S. 95 f.); die Figur ist wohl als Schriftgelehrter bezeichnet; den Hohenpriester dahinter kennzeichnen Ephod und Mitra. In dieser Gruppe links im Vordergrund ist durch das weite Gewand und eine Art Mitra, die mit hebräischen Schriftzeichen versehen ist, wohl als Schriftgelehrter bezeichnet; den Hohenpriester dahinter kennzeichnen Ephod und Mitra. In dieser Gruppe a-f JAKOBUS-SZENEN in chronologischer Folge: c BERUFUNG DES JAKOBUS (Mt 4, 21) Am Ufer eines Sees sind Fischer mit Kahn und Netz beschäftigt. Jesus erwählt Jakobus, Sohn des Zebedäus und der Maria Salome, und seinen jüngeren Bruder Johannes als Jünger.
 
 [[File:Band02_chunk011_p004_img003.jpg|thumb]]
-
-
-
 [[File:Band02_chunk011_p004_img004.jpg|thumb]]
-
-
-
 [[File:Band02_chunk011_p004_img005.jpg|thumb|ist sicher der Hohepriester Abiathar, der Jakobus fangen und an Herodes ausliefern ließ, dargestellt (AASS Julii, Tom. 6, 25.7., S. 9–12; Ribadeneira-Hornig, Bd 2, 25.7., S. 95 f.)]]
-
-
-
 [[File:Band02_chunk011_p004_img006.jpg|thumb]]
-
-
-links im Vordergrund ist durch das weite Gewand und eine Art Mitra, die mit hebräischen Schriftzeichen versehen ist, wohl als Schriftgelehrter bezeichnet; den Hohenpriester dahinter kennzeichnen Ephod und Mitra. In dieser Gruppe 
-
-
-a-f JAKOBUS-SZENEN in chronologischer Folge:
-
-c BERUFUNG DES JAKOBUS (Mt 4, 21) Am Ufer eines Sees sind Fischer mit Kahn und Netz beschäftigt. Jesus erwählt Jakobus, Sohn des Zebedäus und der Maria Salome, und seinen jüngeren Bruder Johannes als Jünger.
 
 a BEKEHRUNG DES HERMOGENES Auf einer Wiese steht der Apostel Jakobus in Pilgertracht inmitten einer Menschenmenge. Ein Teufel bringt den Zauberer Hermogenes gebunden zu ihm. - Es handelt sich um die Legende, nach der Hermogenes seinen Jünger Philetus zu Jakobus gesandt hatte, um den Apostel vom Glauben abzubringen. Philetus wurde von Jakobus bekehrt und deshalb von Hermogenes verzaubert. Jakobus aber befreite den Philetus, worauf der Zauberer Teufel sandte, um den Apostel zu fangen; dieser aber befahl den Teufeln, den Hermogenes gebunden vor ihn zu bringen. Schließlich ließ sich Hermogenes bekehren. Der kniende Mann auf der rechten Bildseite ist wohl Philetus (LCI, Bd 7, Sp. 24; Ribadeneira-Hornig, loc. cit., S. 95).
 
@@ -153,9 +116,7 @@ d DER ERHÄNGTE JUNGLING Die Bilder b und d stellen zwei Pilgerwunder dar, die e
 
 b ERWECKUNG DES SELBSTMÖRDERS Auf einer Wiese kniet Maria; bei ihr steht – unter anderen – ein Jüngling. - Hier handelt es sich wohl um die Legende vom Jüngling, der eine Wallfahrt zum hl. Jakobus von Compostela machte und unterwegs in Sünde fiel. Vom Teufel wurde er in einem Traumgesicht veranlaßt, sich zur Buße selbst zu töten. Jakobus aber führte die Seele des Toten auf eine schöne Wiese, auf der Maria ihn wieder zum Leben erweckte (AASS, loc. cit., S. 54–55, LA-Benz, S. 534 f.).
 
-
 == Quellen und Literatur ==
-
 
 Mayer-Westermayer, Bd 2, S. 45 f. KDB I OB (2), S. 1460 f.
 

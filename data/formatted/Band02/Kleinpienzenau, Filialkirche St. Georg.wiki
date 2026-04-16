@@ -31,9 +31,7 @@ Saal zu vier Jochen mit Pilastergliederung, im W Empore eingezogener AR zu zwei 
 
 Johann Georg Gaill (* 1721 Friedberg † 1793 Aibling), der in der Pfarrei Neukirchen außer Kleinpienzenau noch Neukirchen (s. S. 529–34), Reichersdorf (s. S. 549–54) und Gotzing (s. S. 503–08) freskierte, war 1772 hier noch einmal tätig. Sein Wandfresko W stellt die hll. Florian und Donatus dar mit den Inschriften In IeDen VngLU(= II)kh sIe bewahren sonDerheit In feVr sChaVr Donnersgfahren, (= 1772); HH MartU(= II)rer FLorIane, Donate, seU(= II)et VorbItter / BeU(= II) gott fU(= II)r PIentzenaVer KIrChtraCt <math>(=1772)</math>
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' LHs (A, B, B<sub>1-4</sub>) und AR (C, C<sub>1-2</sub>) verschliffenes Kreuzgratgewölbe
 
@@ -49,35 +47,18 @@ C Höhe 7,00 m; 4,40 × 3,40
 
 '''Erhaltungszustand und Restaurierungen:''' Restaurierung laut Inschrift mit Chronogramm am Oratorium an der südlichen AR-Wand 1924. Die Farbsubstanz von B und C ist gut erhalten. In B leichte Scheitelrisse, geringe Feuchtigkeitsschäden am südlichen Rand sowie Verschmutzungen; in der östlichen Bildhälfte ist das Quadraturnetz deutlich sichtbar. Fresko C ist im ganzen leicht verschmutzt.
 
-
 == Beschreibung ==
-
 
 A DREIFALTIGKEITSSYMBOL In dem Bildfeld über der Orgelempore ist eine Wolkenglorie dargestellt, von Puttenköpfchen besetzt. In der Mitte erscheint das Dreieck mit dem Auge Gottes und der Inschrift Gott / Sieht / Alles (keine Abbildung)
 
 B MARTYRIUM DES HL. GEORG Einansichtige Darstellung; der Aufnahmestandpunkt liegt unter dem westlichen Bilddrittel. Das Bildfeld ist verhältnismäßig lang und schmal; es erstreckt sich bei einer Breite von kaum vier Metern über fast drei Joche.
 
-Die Enthauptungsszene nimmt die Mittelzone ein. Davor, im Bildvordergrund, sind Marterwerkzeuge ausgebreitet. Der Heilige kniet auf einer kleinen Bodenerhebung und erwartet den Streich des Henkers. Von Christus, der oben in den Wolken erscheint, fällt ein Lichtstrahl auf Georg. In seine Bahn sind die Worte eingeschrieben Ich Bin mit dir. Ein Engel schwebt mit Martyrerkranz und Palme herab. Von der Enthauptungsszene durch einen hellen Wiesenplan getrennt ist im Hintergrund eine aufwendige architektonische Szenerie dargestellt: Links thront der Kaiser vor einer Säulenhalle, zu der halbrunde Stufen führen, unter einem Baldachin. Rechts, im Winkel dazu gestellt, ragt ein
-
+Die Enthauptungsszene nimmt die Mittelzone ein. Davor, im Bildvordergrund, sind Marterwerkzeuge ausgebreitet. Der Heilige kniet auf einer kleinen Bodenerhebung und erwartet den Streich des Henkers. Von Christus, der oben in den Wolken erscheint, fällt ein Lichtstrahl auf Georg. In seine Bahn sind die Worte eingeschrieben Ich Bin mit dir. Ein Engel schwebt mit Martyrerkranz und Palme herab. Von der Enthauptungsszene durch einen hellen Wiesenplan getrennt ist im Hintergrund eine aufwendige architektonische Szenerie dargestellt: Links thront der Kaiser vor einer Säulenhalle, zu der halbrunde Stufen führen, unter einem Baldachin. Rechts, im Winkel dazu gestellt, ragt ein hoher, tempelartiger Bau auf, dessen riesiges Tor, eine Triumphbogenarchitektur nicht unähnlich, den Blick ins Innere freigibt, wo zwei Götterbilder geborsten von ihren Sockeln stürzen. Dahinter ist im Durchblick ein mächtiger Stadtpalast zu sehen.
 
 [[File:Band02_chunk011_p012_img005.jpg|thumb]]
-
-
-
-
-
 [[File:Band02_chunk011_p013_img001.jpg|thumb]]
-
-
-
 [[File:Band02_chunk011_p013_img002.jpg|thumb|Cı Römische Soldatenheilig]]
-
-
-
 [[File:Band02_chunk011_p013_img003.jpg|thumb]]
-
-
-hoher, tempelartiger Bau auf, dessen riesiges Tor, eine Triumphbogenarchitektur nicht unähnlich, den Blick ins Innere freigibt, wo zwei Götterbilder geborsten von ihren Sockeln stürzen. Dahinter ist im Durchblick ein mächtiger Stadtpalast zu sehen.
 
 Der terrestrische Schauplatz besteht aus drei übereinander gestaffelten und gegeneinander verschobenen Einzelschauplätzen, der Vordergrundszenerie mit den Marterwerkzeugen, hinter der – heller – die Zone mit der Enthauptung Georgs ansetzt, und schließlich die beiden Hügel mit Thronsitz, Tempel und Palast. Jede dieser drei Zonen ist in sich annähernd perspektivisch konsequent konstruiert, sinkt aber dann nach hinten ab und steht mit der folgenden räumlich kaum in Zusammenhang. Die kritischen Stellen sind jeweils die Übergänge von einer zur anderen Zone. Einesteils sind sie durch Repoussoireffekte (Gerüst, Stein, zwei Soldaten rechts) voneinander abgehoben, um so eine gewisse Bildräumlichkeit zu erzielen, anderenteils sind die Nahtstellen durch Figuren und Figurengruppen verstellt. Ihr Agieren und die inhaltlichen Bezüge geben dem räumlich uneinheitlichen Schauplatz wieder Zusammen-
 
@@ -87,47 +68,25 @@ Das Gesamtkolorit ist spannungslos, bestimmt durch viel Ocker in Boden, Architek
 
 B<sub>1-4</sub> GEORG-SZENEN In den Gewölbezwickeln ist das Hauptfresko von Bildfeldern in Kartuschen begleitet, die monochrome Darstellungen mit Inschriften besitzen.
 
-C GLORIE DES HL. GEORG Das Chorfresko zeigt eine einsichtig angelegte Himmels- und Wolken-Szenerie. Unten links steht der hl. Georg in römischer Soldaten-
-
+C GLORIE DES HL. GEORG Das Chorfresko zeigt eine einsichtig angelegte Himmels- und Wolken-Szenerie. Unten links steht der hl. Georg in römischer Soldatentracht, Fuß und Lanze auf den besiegten Drachen gestellt. Etwas höher ist rechts in den Wolken die Gruppe der drei christlichen Tugenden dargestellt. Zuoberst in Wolken die Dreifaltigkeit, Christus mit der Weltkugel, Gottvater und die Taube des Hl. Geistes.
 
 [[File:Band02_chunk011_p013_img004.jpg|thumb]]
-
-
-
 [[File:Band02_chunk011_p013_img005.jpg|thumb|3 Martyrium des hl. Georg]]
-
-
-
 [[File:Band02_chunk011_p013_img006.jpg|thumb]]
-
-
-
 [[File:Band02_chunk011_p013_img007.jpg|thumb]]
-
-
-
-
-
 [[File:Band02_chunk011_p014_img001.jpg|thumb|C Glorie des hl. Georg C<sub>1-2</sub> Römische Soldatenheilige]]
-
-
-tracht, Fuß und Lanze auf den besiegten Drachen gestellt. Etwas höher ist rechts in den Wolken die Gruppe der drei christlichen Tugenden dargestellt. Zuoberst in Wolken die Dreifaltigkeit, Christus mit der Weltkugel, Gottvater und die Taube des Hl. Geistes.
 
 Die Himmelslandschaft wird gebildet durch spiralförmig in die Höhe gezogene Wolken; die Figurengruppen sind in ihr vollständig isoliert voneinander angeordnet. Durch Blick und Gesten wird ein Bezug zwischen den Gruppen hergestellt. Durch Auflichten von unten nach oben und perspektivische Verkleinerung der Figuren nach der Höhe zu wird versucht, eine illusionistische Höhenperspektive zu erreichen; die Figuren selbst sind aber den Bedingungen der Perspektive – Verkürzung und Untersicht – nicht unterworfen. Die Farbigkeit des Bildes ist weit differenzierter und spannungsvoller als die von Fresko A. Im Gegensatz zur gleichmäßig blassen Ockerfarbigkeit des Schauplatzes findet man im Chorfresko zarte und fein nuancierte Werte in den rosa-grauen Wolken vor dem hellblauen Himmel. Davor erscheinen als Buntfarben bräunliches Karminrot, Blau und Grün in für Gaill ungewöhnlichen Abstufungen.
 
 C<sub>1-2</sub> PATRONAT-SZENEN In den Gewölbezwickeln ist das Chorfresko von zwei Bildfeldern in Kartuschen begleitet, die monochrome Darstellungen zeigen. Unter ihnen sind Inschriftbänder angebracht.
 
-
 == Ikonographie ==
-
 
 B MARTYRIUM DES HL. GEORG Darstellung der Martern des hl. Georg nach der Legende (LA-Benz, S. 328–31; Surius-Via, Bd 2, 23. 4., S. 510–14). Als Krieger aus Kappadokien erlangte Georg hohe Ehren; nachdem er sich zum Christentum bekehrt hatte, erlitt er unter Kaiser Diokletian viele Martern und wurde endlich auf dessen Befehl im Jahre 303 enthauptet. Sein Tod ist im Bildzentrum dargestellt; Marterwerkzeuge im Vordergrund weisen auf die vorausgegangenen Martern hin. Seine Passio nennt die Martern in folgender Reihenfolge: Zunächst band man ihn an das Foltergerüst (im Bild rechts), dann wurde ein schwerer Stein auf ihn gerollt (links im Bild). Daraufhin wurde er an ein mit Messern besetztes Rad geflochten und gerädert. Seine Wunden wurden mit Fackeln gebrannt und mit Salz eingerieben. Darauf wurde er wieder gefesselt und mit Eisenhaken gequält, mit Keulen und Sennadern von Ochsen geschlagen; in eine Grube mit ungelöschtem Kalk geworfen (am unteren Bildrand zu sehen); man zwang ihn, glühende Eisenschuhe anzuziehen, peitschte ihn aus, versuchte, ihn mit vergiftetem Wein zu töten (im Fresko eine Platte mit zwei Bechern); das Gift wurde unschädlich, als der Heilige das Kreuz darüber schlug. Endlich wurde Georg noch in einen Kessel voll siedenden Bleis gesetzt. Alle diese Martern überstand der Heilige mit Gottes Hilfe. Im Hintergrund zeigt das Fresko noch das Wunder der stürzenden Götzenstatuen, die von ihren Sockeln fielen, als Georg den Himmel darum anflehte.
 
 C GLORIE DES HL. GEORG Über dem Hochaltar mit der Statue des berittenen Georg als Drachentöter ist im Fresko die Glorie des Kirchenpatrons dargestellt. Zwei Putti halten Lorbeerkranz und Palmzweig über den Martyrer, der als Überwinder des Drachens und Miles christianus (Kreuzsymbol auf dem Schild) wiedergegeben ist. Die allegorischen Figuren – Fides mit bedecktem Haupt, Kreuz und Hostienkelch, Spes mit Anker und entzündeter Ampel und Caritas mit brennendem Herzen – weisen auf Georg als Verkörperung der christlichen Tugenden hin. Christus ist durch Seitenwunde und Segensgestus, durch Weltkugel und Kreuz als Salvator Mundi gekennzeichnet.
 
-
 [[File:Band02_chunk011_p014_img002.jpg|thumb]]
-
 
 B<sub>1-4</sub> GEORG-SZENEN Die Inschriftenbänder in der Kartuschen geben Ehrentitel des Heiligen an.
 
@@ -141,27 +100,17 @@ dominum, ut quicunque eius imploraret auxilium, petitionis suae consequeretur ef
 
 B<sub>4</sub> MARIA UND GEORG ERSCHEINEN EINER NONNE In einem Innenraum kniet eine Nonne. Maria (?) erscheint über ihr in Wolken und weist auf den hl. Georg in Soldatentracht mit Lanze hin, der neben ihr steht. – Christlicher Soldat. Die Szene konnte nicht gedeutet werden.
 
-
 == C<sub>1-2</sub> PATRONAT-SZENEN ==
-
 
 C<sub>1</sub> ROMISCHE SOLDATENHEILIGE Dargestellt sind zwei Heilige in Soldatentracht; einer weist zum Himmel, der zweite hat die linke Hand auf die Brust gelegt. Ein weiterer Soldat geht nach rechts von der Szene weg. Im Hintergrund ist ein Heer zu sehen. Am oberen Bildrand erscheint in Wolken Christus.
 
 C<sub>2</sub> JOHANNES UND PAULUS Über einer Landschaft thronen in Wolken die beiden Wetterheiligen Johannes und Paulus. Sie halten ein Schild zwischen sich über der Erde, das die Blitze abhält, die aus der dunklen Wolke (vielleicht durch spätere Übermalung verändert) fallen.
 
-
-
-
 [[File:Band02_chunk011_p015_img001.jpg|thumb]]
-
-
 
 [[File:Band02_chunk011_p015_img002.jpg|thumb|EB<sub>2</sub> Georg wird gerädert]]
 
-
-
 [[File:Band02_chunk011_p015_img003.jpg|thumb]]
-
 
 Die beiden Inschriften müssen wohl zusammen gelesen werden: Hl. Georg unser Schutzpatron (bei C1) / Bitt für deine Schutzbefohlenen (bei C2). Sie beziehen sich offenbar nicht auf die Nebenfresken C1-2, sondern auf das Hauptfresko C, in dem Georg als Patron von Kleinpienzenau dargestellt ist. Da C2 die Wetterheiligen Johannes und Paulus darstellt, die Nebenpatrone in Kleinpienzenau sind, könnten als Pendant dazu in C1 zwei weitere Patrone Pienzenaus, die hll. Florian und Donatus, gesehen werden (vgl. Fresko W).
 
@@ -177,11 +126,8 @@ EB<sub>2</sub> Georg wird gerädert
 
 EB3 Georg in der Kalkgrube
 
-
 == Quellen und Literatur ==
 
-
 Mayer-Westermayer, Bd 2, S. 45. KDB I OB (2), S. 1468 f. Thieme-Becker, Bd 13, S. 75. Gasteiger, Michael, Der Landkreis Miesbach, Miesbach 1953. Mayer, Matthias, Die Seelsorge der Weyarner Chorherrn im ausgehenden 18. Jh. nach den Tagebüchern des Chorherrn L.J. Ott, in: Beiträge zur altbayerischen Kirchengeschichte, Bd 30, 1976, S. 117 u. 185.
-
 
 == NEUKIRCHEN ==

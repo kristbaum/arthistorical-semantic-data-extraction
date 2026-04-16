@@ -55,8 +55,7 @@ Verbleib: Die Ausmalung ging offenbar im Zusammenhang mit der Säkularisierung d
 
 == Rekonstruierte Bildabfolge (nach einer Kupferstichserie) ==
 
-Der gesamte Freskenzyklus ist in einer Kupferstichfolge von Michael Wening (1707) überliefert. Das Titelkupfer lautet: »Geburt, Leben, und über grosse Wunderwerch deß Heiligen Vatters Francisci de Paula Ordens=Stiffter der Mindesten Brüder. Wie solches in dem Hochlöbl Closter R. R. P. P. Paulaner zu Neudeck ob der Au, nechst München kunstreich gemahlet zu sehen ist. Verlegt, in Kupfer gestochen und z finden, in München, bey Michael Wening, Portier und Kupferstecher, A 1707.« Obgleich in den literarischen Quellen (s. Autor) nicht ausdrücklich
-
+Der gesamte Freskenzyklus ist in einer Kupferstichfolge von Michael Wening (1707) überliefert. Das Titelkupfer lautet: »Geburt, Leben, und über grosse Wunderwerch deß Heiligen Vatters Francisci de Paula Ordens=Stiffter der Mindesten Brüder. Wie solches in dem Hochlöbl Closter R. R. P. P. Paulaner zu Neudeck ob der Au, nechst München kunstreich gemahlet zu sehen ist. Verlegt, in Kupfer gestochen und z finden, in München, bey Michael Wening, Portier und Kupferstecher, A 1707.« Obgleich in den literarischen Quellen (s. Autor) nicht ausdrücklich von Deckenbildern die Rede ist, weisen die Kupferstiche auf Deckenbildkompositionen als Vorlagen hin: Sie sind im Format durchweg querova (möglicherweise ist mit der Bezeichnung »halbrund« im Verzeichnis 1760 und bei Westenrieder dieses Format gemeint), die Darstellungen sind jeweils in Untersicht auf einer Erdrampe bzw. auf einem Treppenpodes angesiedelt. In das üppige Rahmenwerk sind Schriftbänder geschlungen, deren Inschriften teilweise auf dem Kopf stehen.
 
 [[File:Band03-1_chunk006_p011_img001.jpg|thumb]]
 [[File:Band03-1_chunk006_p011_img002.jpg|thumb|1 Teufelsaustreibung]]
@@ -64,8 +63,6 @@ Der gesamte Freskenzyklus ist in einer Kupferstichfolge von Michael Wening (1707
 [[File:Band03-1_chunk006_p011_img004.jpg|thumb]]
 [[File:Band03-1_chunk006_p011_img005.jpg|thumb]]
 [[File:Band03-1_chunk006_p011_img006.jpg|thumb]]
-
-von Deckenbildern die Rede ist, weisen die Kupferstiche auf Deckenbildkompositionen als Vorlagen hin: Sie sind im Format durchweg querova (möglicherweise ist mit der Bezeichnung »halbrund« im Verzeichnis 1760 und bei Westenrieder dieses Format gemeint), die Darstellungen sind jeweils in Untersicht auf einer Erdrampe bzw. auf einem Treppenpodes angesiedelt. In das üppige Rahmenwerk sind Schriftbänder geschlungen, deren Inschriften teilweise auf dem Kopf stehen.
 
 Die Inschriften geben oben bzw. seitlich auf die jeweilige Darstellung bezogene bzw. adaptierte Bibelzitate wieder, auf dem Band unten jeweils eine Erläuterung der Szene in lateinischer Sprache. Alle Darstellungen geben Szenen aus der Legende des hl. Franz von Paula (* 1416 Calabrier † 1507 Plessis-les-Tours) wieder.
 
@@ -98,10 +95,6 @@ imponitur et a celebri oppido cosentinensis diaece sis de Paula nunc patur.«
 [[File:Band03-1_chunk006_p011_img017.jpg|thumb]]
 [[File:Band03-1_chunk006_p011_img018.jpg|thumb|Wunderbare Baumteilung]]
 
-
-
-
-
 [[File:Band03-1_chunk006_p012_img001.jpg|thumb]]
 
 [[File:Band03-1_chunk006_p012_img002.jpg|thumb|6 Entrückung]]
@@ -125,7 +118,6 @@ imponitur et a celebri oppido cosentinensis diaece sis de Paula nunc patur.«
 [[File:Band03-1_chunk006_p012_img011.jpg|thumb]]
 
 [[File:Band03-1_chunk006_p012_img012.jpg|thumb]]
-
 
 == PAULANERKLOSTER AM NEUDECK ==
 
@@ -288,41 +280,18 @@ nal, von rechts naht der Heilige, umgeben von Zuschauern. — Franziskus
 »S. Franciscus de Paula transiens per civitatem Bormensem visitat, et sanat  
 de Paula hatte Giulio della Rovere, Kardinal von S. Pietro a vinculo,  
 omnes peste infectos.«  
-24 WIEDERBELEBUNG EINES ERFRORENEN Vor dem Kloster
-
-
-
+24 WIEDERBELEBUNG EINES ERFRORENEN Vor dem Kloster vorhergesagt, daß er als Julius II. Papst werden würde
 
 [[File:Band03-1_chunk006_p013_img001.jpg|thumb|32 Engelserscheinung]]
-
-
-
 [[File:Band03-1_chunk006_p013_img002.jpg|thumb]]
-
-
-
 [[File:Band03-1_chunk006_p013_img003.jpg|thumb]]
-
-
-
 [[File:Band03-1_chunk006_p013_img004.jpg|thumb|35 Leichenwunder]]
-
-
-
 [[File:Band03-1_chunk006_p013_img005.jpg|thumb]]
-
-
-
 [[File:Band03-1_chunk006_p013_img006.jpg|thumb]]
-
-
-vorhergesagt, daß er als Julius II. Papst werden würde
 
 Die bei Lipowsky (s. oben) angeführten Darstellungen »Christus an Ölberg« und »Christus am Kreuz« befanden sich, vielleicht zusammen mit anderen Szenen aus der Passion Christi, an der Wand.
 
-
 == Quellen und Literatur ==
-
 
 Quellen und Literatur Wening 1701, S. 24. Wening, Michael, Geburt, Leben, ... Francisci de Paula..., München 1707. Verzeichnis 1760. Beschreibung 1750, S. 87. Schmidtsche Matrikel, Bd 1, S. 234. Crammer 1781, S. 168–170. Westenrieder 1783, S. 197. Meidinger, S. 274. Westenrieder, Beyträge zur vaterländischen Historie, Geographie, Statistik, Bd 6, München, 1800, S. 339–352.
 

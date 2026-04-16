@@ -17,9 +17,6 @@
 |AutorIn5=Sinkel, Kristin
 }}
 
-
-
-
 Ehem. Psallierchor, jetzt Bibliothek, in Wittelsbachischem Resitz
 
 '''Zum Bauwerk:''' Dreijochiger Chorraum mit dreiseitigem Schluß in der Achse des Kirchenschiffes. Errichtung einer Trennwand im W zum AR erst 1823–24 durch Leo von Klenze unter König Max I. Joseph von Bayern, dabei wahrscheinlich Zerstörung eines dritten Freskos. Ursprünglich an dieser Stelle eine segmentbogenförmige Wand bis zur Höhe des Hauptaltars, darüber ein Holzgitter-Abschluß (Planskizze S. 565)
@@ -28,9 +25,7 @@ Ehem. Psallierchor, jetzt Bibliothek, in Wittelsbachischem Resitz
 
 '''Autor und Entstehungszeit:''' Die Fresken sind nicht datiert und signiert, jedoch archivalisch belegt: In einem Schreiben des Hans Georg Asam (* 1649 Rott am Inn † 1711 Sulzbach) vom 7. 9. 1687 an den Prior von Tegernsee (BayHStA I, KL 875/519, fol. 37, 38; publiziert von S. Lampl, S. 117) bittet er um Aufschub der Ausstattung des Chors in das folgende Frühjahr. Im Vertrag für die Arbeiten in der Kirche (vgl. S. 564) vom 29.4.1689 werden die Fresken des Chors als ausgeführt erwähnt, müssen also vom Frühjahr 1688 an entstanden sein.
 
-
 == Befund ==
-
 
 '''Träger der Deckenmalerei:''' A, B Tonne mit Stichkappen Rahmen: A Stuckprofil mit Blüten-Früchte-Kranz, B Stuckprofil mit Lorbeerkranz
 
@@ -44,19 +39,10 @@ B Höhe 8,50 m; 2,70 × 3,80
 
 == Beschreibung und Ikonographie ==
 
-A HIMMELFAHRT UND KRONUNG MARIENS Einansichtiges hochovales Bildfeld mit schmalem terrestrischen Schauplatz an der östlichen Basis und großfiguriger Darstellung in einer Himmelsszenerie (Betrachterstandort unterhalb des westlichen Bildrahmens). In betonter Achsensymmetrie, mit einem Fluchtpunkt weit oberhalb des westlichen Bildrahmens, ist Mariä Himmelfahrt in starker Untersicht und mäßiger Verkürzung dargestellt. Engel und Putti tragen Maria hinauf zu Christus und Gottvater, die sie mit den Insignien der Krönung erwarten; zuoberst die Taube des Hl. Geistes. Der Erdenbereich wird
-
+A HIMMELFAHRT UND KRONUNG MARIENS Einansichtiges hochovales Bildfeld mit schmalem terrestrischen Schauplatz an der östlichen Basis und großfiguriger Darstellung in einer Himmelsszenerie (Betrachterstandort unterhalb des westlichen Bildrahmens). In betonter Achsensymmetrie, mit einem Fluchtpunkt weit oberhalb des westlichen Bildrahmens, ist Mariä Himmelfahrt in starker Untersicht und mäßiger Verkürzung dargestellt. Engel und Putti tragen Maria hinauf zu Christus und Gottvater, die sie mit den Insignien der Krönung erwarten; zuoberst die Taube des Hl. Geistes. Der Erdenbereich wird mit dem geöffneten Sarkophag vor der Tegernseer Landschaft mit der Klostervedute über dem See angedeutet.
 
 [[File:Band02_chunk012_p023_img001.jpg|thumb|Himmelfahrt und Krönung Mariens]]
-
-
-
 [[File:Band02_chunk012_p023_img002.jpg|thumb]]
-
-
-
-
-mit dem geöffneten Sarkophag vor der Tegernseer Landschaft mit der Klostervedute über dem See angedeutet.
 
 Hell-Dunkel-Einsatz und Farbgebung unterstützen die Entrückung der Gestalt Mariens in einen überirdischen Bereich, der mit aufgehellten Farbtönen von einer strahlenden Lichtquelle hinterfangen wird.
 
