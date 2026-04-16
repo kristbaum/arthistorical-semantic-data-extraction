@@ -114,6 +114,134 @@ def _fix_befund_labels(lines: list[str]) -> list[str]:
 
 
 # ---------------------------------------------------------------------------
+# Section heading and prose label normalisation (non-Meta articles only)
+# ---------------------------------------------------------------------------
+
+_CANONICAL_HEADINGS = [
+    "Befund",
+    "Beschreibung und Ikonographie",
+    "Quellen und Literatur",
+]
+
+_PROSE_LABELS = [
+    "Patrozinium:",
+    "Zum Bauwerk:",
+    "Auftraggeber:",
+    "Autor und Entstehungszeit:",
+]
+
+_HEADING_LIKE_RE = re.compile(r"^=+\s*(.*?)\s*=*$")
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+
+# A plain-text line may be an un-marked-up heading only when it is short,
+# contains no wiki markup characters and is surrounded by blank lines.
+_PLAIN_HEADING_MAX_LEN = 50
+
+
+def _strip_html_tags(text: str) -> str:
+    return _HTML_TAG_RE.sub("", text).strip()
+
+
+def _fix_section_headings(lines: list[str]) -> list[str]:
+    """Normalise == Section == headings using fuzzy matching.
+
+    Handles three OCR/formatting problems:
+      1. Wrong wiki level or extra spaces: ``= Befund =`` → ``== Befund ==``
+      2. HTML bold inside heading: ``== <b>Befund</b> ==`` → ``== Befund ==``
+      3. Plain-text heading with no markup: ``Beschreibung der Ikonographie``
+         → ``== Beschreibung und Ikonographie ==``  (only when not already present
+         and the line is isolated by blank lines above and below)
+    """
+    # Pre-scan for already-correct canonical headings so we never create duplicates
+    existing_exact: set[str] = {
+        h
+        for h in _CANONICAL_HEADINGS
+        if any(line.strip() == f"== {h} ==" for line in lines)
+    }
+
+    result: list[str] = []
+    for idx, line in enumerate(lines):
+        stripped = line.strip()
+
+        if stripped.startswith("="):
+            # --- case 1 + 2: line already looks like a heading ---
+            m = _HEADING_LIKE_RE.match(stripped)
+            if m:
+                inner = _strip_html_tags(m.group(1))  # strip <b> etc.
+                for canonical in _CANONICAL_HEADINGS:
+                    canonical_form = f"== {canonical} =="
+                    if stripped == canonical_form:
+                        break  # already perfect
+                    if canonical in existing_exact:
+                        continue
+                    threshold = max(2, int(len(canonical) * 0.15))
+                    if abs(len(inner) - len(canonical)) <= threshold + 4:
+                        dist = _levenshtein(inner.lower(), canonical.lower())
+                        if dist <= threshold:
+                            line = canonical_form
+                            existing_exact.add(canonical)
+                            break
+
+        elif (
+            stripped
+            and not stripped.startswith("{")
+            and not stripped.startswith("[")
+            and not stripped.startswith("'")
+            and not stripped.startswith("|")
+            and not stripped.startswith("!")
+            and len(stripped) <= _PLAIN_HEADING_MAX_LEN
+        ):
+            # --- case 3: candidate plain-text heading ---
+            # Must be surrounded by blank lines (or start/end of content)
+            prev_blank = idx == 0 or not lines[idx - 1].strip()
+            next_blank = idx == len(lines) - 1 or not lines[idx + 1].strip()
+            if prev_blank and next_blank:
+                for canonical in _CANONICAL_HEADINGS:
+                    if canonical in existing_exact:
+                        continue
+                    threshold = max(2, int(len(canonical) * 0.15))
+                    if abs(len(stripped) - len(canonical)) <= threshold + 4:
+                        dist = _levenshtein(stripped.lower(), canonical.lower())
+                        if dist <= threshold:
+                            line = f"== {canonical} =="
+                            existing_exact.add(canonical)
+                            break
+
+        result.append(line)
+    return result
+
+
+def _fix_prose_labels(lines: list[str]) -> list[str]:
+    """Bold canonical inline labels in the article prose (before the first == heading ==).
+
+    Does not modify lines already starting with '''.
+    """
+    result: list[str] = []
+    in_section = False
+
+    for line in lines:
+        if re.match(r"^==\s*\S", line.strip()):
+            in_section = True
+
+        if not in_section and not line.startswith("'''") and ":" in line:
+            colon_pos = line.index(":")
+            candidate = line[: colon_pos + 1]
+            for canonical in _PROSE_LABELS:
+                if abs(len(candidate) - len(canonical)) > 6:
+                    continue
+                dist = _levenshtein(candidate.lower(), canonical.lower())
+                if dist <= _befund_label_threshold(canonical):
+                    rest = line[colon_pos + 1 :].lstrip()
+                    sep = " " if rest else ""
+                    line = f"'''{canonical}'''{sep}{rest}".rstrip()
+                    break
+
+        result.append(line)
+
+    return result
+
+
+# ---------------------------------------------------------------------------
 # Meta inference
 # ---------------------------------------------------------------------------
 
@@ -253,7 +381,16 @@ def process_article(text: str, *, apply: bool) -> tuple[str, list[str]]:
     lines = [
         l for l in lines if not _COMMENT_LINE_RE.match(l) and not _END_LINE_RE.match(l)
     ]
-    lines = _fix_befund_labels(lines)
+
+    # Determine Meta early so non-Meta transforms are only applied to content articles
+    early_fields = _read_template(lines)
+    is_non_meta = not _infer_meta(early_fields.get("Lemma", ""))
+
+    if is_non_meta:
+        lines = _fix_section_headings(lines)  # must run before _fix_befund_labels
+        lines = _fix_befund_labels(lines)
+        lines = _fix_prose_labels(lines)
+
     while lines and not lines[-1].strip():
         lines.pop()
 

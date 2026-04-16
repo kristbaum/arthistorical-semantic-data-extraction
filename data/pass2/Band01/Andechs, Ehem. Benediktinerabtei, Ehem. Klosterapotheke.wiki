@@ -1,0 +1,191 @@
+{{Artikel
+|Band=1
+|Chunk=7
+|Chunkseite=8
+|Originalseitenvon=312
+|Originalseitenbis=316
+|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
+|Meta=
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Fürstenzimmer
+|danach=Aschering, Filialkirche St. Sebastian
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Ehem. Klosterapotheke, z. Z. Schlesisches Museum
+
+
+'''Zum Bauwerk:''' Auf Betreiben des P. Felix Funk, der ein berühmter Apotheker und Leiter der Klosterapotheke von Andechs war, wurde mit Hilfe einer Spende von 3000 fl., die Pater Funks Mutter, die Witwe des Stadtapothekers von Landshut, beisteuerte, 1763 unter Abt Meinrad Moosmüller der neue Apothekenbau auf dem Fronhof errichtet (frdl. Mitt. Stiftsbibliothek St. Bonifaz, München). Das Wappen des Abtes mit der Jahreszahl 1763 und der Inschrift M.A.I.M.S.A. (Meinradus Abbas in Monte Sancto Andecensi) befindet sich über der mittleren Eingangstür. Einfacher, zweigeschossiger Bau. Mehrere Räume im Erdgeschoß, im Obergeschoß Kräuterboden. Durch einen Vorraum gelangt man links in den Hauptraum der ehem. Apotheke, der mit Deckenbildern geschmückt ist. Rechteckiger, durch Schwibbögen in drei Joche gegliederter Saal (7,95 × 4,75 m); nach O und W Fenster.
+
+'''Auftraggeber:''' Abt Meinrad Moosmüller (1759–67) und P. Felix Funk (Profeß 1758 †1797), auf den ein Chronogramm in dem z. Z. übermalten Mittelfeld A hinwies: P. FeLIXpharMaCopaeVs AnDeCensIs (= 1767); der Wortlaut des Chronogramms ist in den KDB I OB, S. 852, publiziert.
+
+'''Autor und Entstehungszeit:''' Das oben zitierte Chronogramm gibt als Entstehungsjahr für die nicht signierten Fresken das Jahr 1767 an. Die im folgenden angedeuteten stilistischen Eigenarten weisen auf Joseph Mathias Ott (*1735 München †1791 München) als Autor der Andechser Apothekenbilder hin. Ein Vergleich mit den 1776 von Ott geschaffenen Fresken in Grünsink und Seefeld läßt Übereinstimmungen im Figürlichen erkennen: Die Figuren haben einen schmalgliedrigen Körperbau, die Proportionen der Gliedmaßen sind gelängt, der verhältnismäßig kleine Kopf sitzt auf einem langen Hals. Die Figuren sind in tänzerisch-gespreizten Stellungen wiedergegeben. Die Bewegungen und Gesten einer Figur zielen häufig in verschiedene Richtungen. Einzelne theatralisch pointierte Gesten bestimmen als eigenwertige Ausdrucksformen mehr die Bildszene als die thematisch vorgegebene Handlung. Der schlechte Erhaltungszustand der Andechser Apothekenbilder sowie das Fehlen detaillierter Daten zu Leben und Œuvre des Münchner Malers Ott erlauben keine sichere Zuschreibung (vgl. auch Widdersberg).
+
+
+== Befund ==
+
+Träger der Deckenmalerei: A, B, C schmale Quertonne; D, E, F, G böhmische Kappen, durch breite Gurte bzw. Schwibbögen getrennt
+
+Rahmen: Stuckprofil
+
+Technik: Secco; A–F polychrom; D<sub>1-4</sub>, E<sub>1-4</sub>, F<sub>1-4</sub>, G<sub>1-4</sub> monochrom ocker
+
+Maße: A Höhe 3,70 m; 1,80 × 1,80
+
+B-C Höhe 3,10 m; 1,95 × 2,15
+
+D-G Höhe 3,80 m; 1,80 × 1,60
+
+{| class="wikitable"
+|-
+! Bereich !! Höhe !! Maße
+|-
+| A || 3,70 m || 1,80 × 1,80
+|-
+| B-C || 3,10 m || 1,95 × 2,15
+|-
+| D-G || 3,80 m || 1,80 × 1,60
+|}
+
+Erhaltungszustand und Restaurierungen: Restaurierung des Raumes und der Deckenbilder 1938/41. Die Deckenbilder sind sehr schlecht erhalten: Der originale Bestand ist durch Verschmutzung, durch Feuchtigkeitsschäden und Ausblühungen und teilweise durch Übermalung entstellt oder ganz ruiniert. A völlig neu übermalt; B linke Bildhälfte zerstört; in C, F, G größere Schäden; D, E einigermaßen erhalten. Die Icones und Lemmata der Embleme in den Zwickeln (D1-4, E1-4, F1-4, G1-4) sind schwer und nur teilweise zu erkennen.
+
+Zu beiden Seiten des hier behandelten Apothekenraumes befinden sich Räume, deren Decken stuckgerahmte, weißgetünchte Rundfelder aufweisen. Diese waren vielleicht ehemals ausgemalt.
+
+
+== Beschreibung ==
+
+A Das quadratische, übereck gestellte Mittelfeld zeigt z. Z. eine Ornamentmalerei neueren Datums (keine Abbildung).
+
+B und C Die unregelmäßig fünfeckigen Bildfelder B und C sind auf das quadratische Mittelfeld A zugeordnet; einansichtige Bildanlage, Betrachterstandort unterhalb des Feldes A in der Mitte der Tonnenwölbung.
+
+B ERSCHAFFUNG DER WELT Gottvater schwebt segnend über einer weiten Gartenlandschaft. Ein Inschriftband erläutert den Schöpfungsakt: et Protulit Terra Herbam virentem et Facientem Semen et vidit Deus quod esset Bonum. (Gen 1,12). Die Landschaft ist in Vogelperspektive wiedergegeben. In der Mitte führt eine Allee aus Baumreihen mit eingefaßten Rabatten in der Art barocker Gartenanlagen nach links in den Hintergrund. Ein geschlossenes kreisrundes Gärtchen, in dessen Mitte ein Baum steht (das Paradies), liegt im Bildzentrum. Soweit das Bild nicht zerstört ist, sind Tiere, die rechts und links im Vorder- und Mittelgrund dargestellt sind, zu erkennen: ein Paar Hirsche, eine Raubkatze, ein Einhorn, ein Pferd und Kamele; dazu Vögel.
+
+[[File:Band01_chunk007_p007_img001.jpg|thumb|B Erschaffung der Welt]]
+
+Die Darstellung der Erschaffung der Pflanzen weist innerhalb dieses Apothekenprogrammes auf die große Bedeutung der Pflanzen als Grundstoffe der Medikamente hin.
+
+[[File:Band01_chunk007_p007_img002.jpg|thumb]]
+
+C KRANKENHEILUNG Der Schauplatz, eine baumbestandene hügelige Landschaft, wird durch niedrige, kulissenartig hintereinander verschobene Boden- und Buschteile gebildet. Links steht aufgerichtet Christus in einer Gruppe von Jüngern, die sich erregt gestikulierend um ihn drängen. Von rechts kommt eine Schar Kranker herbei; auch sie heftig bewegt in Haltung und Gebärde. Der Vorderste ist auf Krücken gestützt, ein anderer legt flehend die Hände zusammen. – Es ist keine bestimmte Heilung dargestellt, was auch aus der Inschrift hervorgeht: Virtus de illo Exibat, et Sanabat Omnes (Lc 6,19).
+
+D-G Die Bilder in den böhmischen Kappen der beiden seitlichen Raumjoche sind mit Rücksicht auf den Betrachterstandort in der Mitte des Saales (unterhalb des Feldes A) schräg in die ovalen Felder komponiert worden. Einansichtige Szenen; Aufnahmestandort jeweils unterhalb des Bildfeldes.
+
+D DER TEICH BETHESDA Im Mittelgrund des Bildes ein säulengeschmücktes Brunnenhaus, davor der von einem runden Steinbecken gefaßte Teich Bethesda. Über dem Teich schwebt ein Putto, die Arme gebietend ausgestreckt. Links am Rand des Teichbeckens ein Kranker, der sich bittend aufrichtet. Ein Mann bemüht sich hilfreich um ihn. Die erläuternde Inschriftkartusche trennt die Teichszene von den Figuren, die seitlich davor wie auf einem Proszenium wiedergegeben sind. Rechts auf einem steinernen Podest steht Christus, gefolgt von zwei Jüngern und wendet sich den Kranken am Teich zu. Links pflanzt ein Soldat eine Fahne auf, er ist von der mittleren Szene abgewendet.
+
+Auch die perspektivische Bildanlage scheidet Vorder- und Mittelgrund voneinander, während das auf dem Stuckrahmen fußende Podest mit der Gruppe Christi und die repoussoirartig gemalte Soldatenfigur in Untersichtsperspektive gezeigt sind, ist die Teichszene von oben gesehen – man sieht auf den Wasserspiegel des Beckens hinab. Die Darstellung gibt die Heilung des seit 38 Jahren Gelähmten wieder (Jo 5,1–8), und zwar wird weniger der wunderbare Akt Christi, vielmehr der biblische Ort, die Heilungsstätte, vor Augen geführt. In diesem Sinn ist die Inschrift aus dem Johannestext gewählt: Sanus Fiebat, Quacunque Detinebatur / Infirmitate. / Ioan. (5,4). Die Gleichsetzung des heilsgeschichtlichen Ortes Bethesda mit dem Wallfahrtsort Andechs ist hier nur indirekt gegeben und nicht unmittelbar im Bild selbst wie bei Fresko B in der Klosterkirche. Hier ist der ikonologische Bezug Heilungstätte – Klosterapotheke (Ort der Bereitung von Heilmitteln) wesentlich.
+
+[[File:Band01_chunk007_p007_img003.jpg|thumb|D Der Teich Bethesda D1-4]]
+
+E DER BARMHERZIGE SAMARITER Ein lichtes, weites Tal zwischen steilen, bewaldeten Bergen bildet den Schauplatz. Die unmittelbar oberhalb der Inschriftkartusche Appropians alligavit / Vulnera eius. / Luc: 10. 34. wiedergegebene Samariterszene ist wie auf einer Bühne in den Vordergrund gerückt. Der Verwundete liegt auf der Erde, neben ihm kniet der Samariter, in orientalischer Tracht wiedergegeben, und entnimmt einem Arzneikasten ein Fläschchen. Sein Reittier ist am Baum festgebunden. Durch das Tal entfernen sich zwei Männer in Amtstracht, ein Priester und ein Levit.
+
+Das einigermaßen gut erhaltene Bild gibt den besten Eindruck von der ursprünglichen Farbigkeit der Apothekenfresken: Der Farbcharakter der Bilder wird von wenigen Farben, Braun – Ocker und Blau – Grau, bestimmt. Diese Farben kommen in verschiedenfarbig abgestuften Mischtönen und in Hell-Dunkel-Kontrasten vor und verleihen der Schauplatzfarbigkeit einen camaïeuhaften Charakter. Leuchtendes Blau und Violett und blasses Rosaviolett bei den Figuren wirken als buntfarbige Akzente im Bild.
+
+Dargestellt ist das Gleichnis vom barmherzigen Samariter; der Priester ist bereits an dem Verwundeten vorbeigegangen; in der Ferne ist er noch zu erkennen, ebenso der Levit. Der Samariter aber gießt Öl auf die Wunden und verbindet sie. Sinn der Darstellung in diesem ikonologischen Zusammenhang ist die Hilfe, die ein Mensch dem anderen geben kann, wenn Barmherzigkeit und Kenntnis zusammentreffen.
+
+
+[[File:Band01_chunk007_p008_img001.jpg|thumb]]
+
+
+F DIE EHERNE SCHLANGE In der Mitte des Bildes ist ein steiler felsiger Hügel, auf dem Moses die Eherne Schlange errichtet hat. Ein Hoherpriester steht neben ihm. Unten, in hügeliger, baumbestandener Landschaft eine Gruppe von Kranken und Sterbenden, die erregt um Hilfe flehen. Im Hintergrund, in der Ferne, sieht man das Zeltlager der Israeliten.
+
+Die Inschrift ist weitgehend zerstört. Zu lesen ist nur mehr: aspicerent . . . (wohl: quem cum percussi aspicerent, sanabantur. Num 21, 9). Durch die Aufrichtung der Ehernen Schlange heilt Moses auf Geheiß Gottes die Israeliten, die von Schlangen gebissen worden waren. Die Eherne Schlange bezieht sich hier auf die mit Gottes Hilfe erzielte Heilung Kranker.
+
+
+[[File:Band01_chunk007_p008_img002.jpg|thumb|F Die Eherne Schlange F1-4 Embleme]]
+
+
+G WUNDER DES TOBIAS Der greise Vater des Tobias sitzt an einen Hüttenpfosten gelehnt, ihm zur Seite steht die Mutter. Tobias nähert sich ihm von rechts, beugt sich über ihn und bestreicht seine Augen. Seitlich stehend, verfolgt der Erzengel Raphael das Geschehen. Ein drachenähnlich, mit geöffnetem Maul wiedergegebener Fisch liegt im Vordergrund auf Steinen bei einem Bach.
+
+Tobias nahm auf Geheiß des Engels Raphael einem großen Fisch die Eingeweide heraus, die als Arznei dienen sollten. Zum blinden Vater heimgekehrt, bestrich er dessen Augen mit der Galle des Fisches und heilte ihn (Tob 11, 13–15). Die Inschrift zu dieser Szene ist völlig zerstört.
+
+
+[[File:Band01_chunk007_p008_img003.jpg|thumb|G Wunder des Tobias G1-4 Embleme]]
+
+
+EMBLEME.
+
+Die vier alt- und neutestamentlichen Heilungsszenen werden jeweils von vier Emblemen, monochromen Zwickelbildern, begleitet.
+
+D<sub>1</sub> Ne quid Nimis Eine Hand hält eine Waage, die sich im Gleichgewicht befindet. Das Bild der Waage, ein traditionelles Symbol der Gerechtigkeit, wird bei Picinelli in einem Emblem mit dem sinngemäß ähnlichen Lemma NEC CITRA, NEC ULTRA verbunden (s. v. bilanx, Lib. 21, Nr. 22). Hier bezieht es sich auf den klugen, seine Arzneien vorsichtig abwägenden Apotheker.
+
+D<sub>2</sub> Non Marte sed Arte Regal mit Büchern, Pult mit aufgeschlagenem Handbuch der Pharmazie. Im Buch ist zu lesen: DISPENSATORIUM PHARMACEUTICUM (Rest zerstört). Mars et Ars – Mars und Minerva stehen als Sinnbild der Herrschertugenden, Kriegskunst und Pflege der Wissenschaften, z. B. im Emblem Nr. 68 mit dem Lemma ARTE ET MARTE in: Gabriel Rollenhagen, Nucleus Emblematum Selectissimorum . . ., Bd 1, Arnheim 1611 (vgl. Emblemata, Handbuch zur Sinnbildkunst des 16. und 17. Jh.s, hg. v. Arthur Henkel u. Albrecht Schöne, Stuttgart 1967, Sp. 1739). Beim Andechser Emblem ist das Lemma durch die Negation im Sinn so verändert, dass es allein auf die Wissenschaft, speziell auf die Pharmazie, bezogen ist. Demgemäß zeigt die Icon eine wissenschaftliche Bibliothek. D<sub>3</sub> Abluor non Obruor Ein Schwan schwimmt auf dem Wasser. Dieses Emblem ist bei Picinelli (s. v. cygnus, Lib. 4, Nr. 317) beschrieben: »Cygnus intra aquas epigraphen tenet. Abluor, non obruor. In rem praesentem D. Gregorius Brunellus. Abluor ex vitreis laetus, non obruor undis: gaudet et a tanto remige lympha premi. Hinc conjicias velim, innundantes aerumnas liberalem mentibus nostris expiandis subministrare materiem; incommodi vero aut exitii vix quidquam afferre.« Das Emblem steht für »calamitates purificant« (vgl. D<sub>1</sub>).
+
+D<sub>4</sub> Contraria prosunt Von zwei Seiten greifen Winde ein Feuer an; sie entfachen es jedoch zu stärkerem Brand. Picinelli bringt zwei Embleme, die eine entsprechende Icon und das Lemma contraria iuvant haben, in moralischer Deutung für die »calamitas utilis« an (s. v. ignis Lib. 2, Nr. 3 und 4). Hier ist das Emblem offensichtlich als ein Hinweis auf die heilsame Wirkung einer schmerzhaften Therapie zu verstehen.
+
+E<sub>1</sub> Ante Retroque Janus. Dieses Emblem ist sicher zu deuten. Picinelli schreibt, Alciati folgend (s. v. Janus, Lib. 3, Nr. 69): »Iani bifrontis imago epigraphen subjunctam habet. Non illi altera satis. Vel, hinc inde. Vel certe. ANTE RETROQUE. Viri prudentis haec effigies est, qui res futuras aeque ac praeteritas intuetur.« Das Andechser Emblem bezieht sich auf den klugen, aus Erfahrung urteilenden und handelnden Pharmazeuten.
+
+E<sub>2</sub> Per me omnia Spirant Jupiter, mit Krone und Blitzen, auf einem Adler reitend. Das Lemma bezieht sich offenbar auf die lebenspendende göttliche Allmacht. Vielleicht steht das Bild Jupiters hier für Gott als den Herrn über Leben und Tod und also auch des Heilerfolges der Pharmazie.
+
+E<sub>3</sub> Natura iuvatur ab Arte Statue auf einem Sockel, die in einer Landschaft mit Wasser und Bäumen steht. Bei den Emblemen des Andreas Alciati findet sich eines mit dem gleichen Lemma ars naturam adiuvans (Ausgabe Lyon 1550, S. 107, vgl. Emblemata, Handbuch zur Sinnbildkunst des 16. und 17. Jh.s, hg. v. Arthur Henkel u. Albrecht Schöne, Stuttgart 1967, Sp. 1796). Die Icon zeigt in einer Landschaft Merkur, auf einem Sockel sitzend; Fortuna eilt auf einer rollenden Kugel an ihm vorbei. Die Icon des Andechser Emblems beschränkt sich auf die Wiedergabe einer Statue. Gegenständlich ist diese nicht mehr zu bestimmen. Vom ikonologischen Zusammenhang des Apothekenprogramms her gesehen, ist die Darstellung einer Äskulap-Statue denkbar.
+
+E<sub>4</sub> Semper in Motu Der Götterbote Merkur ist in schnellem Lauf, seinen Stab in der Hand tragend, wiedergegeben. Vom Himmel strahlt die Sonne herab. Dieses Emblem spielt wahrscheinlich auf das für die Heilkunde bedeutsame Quecksilber an, dessen alchimistische Bezeichnung mercurium ist und das dem Planeten Merkur zugeordnet wurde. Die Sonnenstrahlen als Bild der Hitze sowie das Lemma legen eine Deutung Quecksilber = Fieberthermometer nahe.
+
+F<sub>1</sub> Pretiosa Latent Perlmuschel. Bei Picinelli steht ein Perlmuschel-Emblem mit gleichlautendem Lemma für die Tugend Humilitas (s. v. margaritha, Lib. 12, Nr. 243). Diese Sinngebung paßt nicht für das Andechser Emblem. Wahrscheinlich deutet die Muschel auf die Apotheke hin, in welcher die Heilmittel (= Perlen) als Schätze aufbewahrt werden. Perlen wurden, zu Pulver zerstoßen, auch als Medizin verwendet, von daher liegt der emblematische Bildvergleich nahe.
+
+F<sub>2</sub> Legunt non Laedunt Bienenstock in einem Blumengarten. Ein Bienenemblem mit dem gleichlautenden Lemma führt Picinelli an (s. v. apis, Lib. 8, Nr. 15). Es steht für den »studiosus discretus«. Diese Bedeutung paßt auch für das Andechser Emblem, darüber hinaus liegt offensichtlich ein bildlicher Vergleich mit typischen Tätigkeiten des Pharmazeuten, dem Sammeln von Heilkräutern und der Verarbeitung derselben zu Medikamenten vor. Darauf weist die Abwandlung der Icon Picinellis hin: Statt der Bienen über Lilien (nur eine Blumenart!) werden in Andechs der Bienenstock und ein Garten mit verschiedenen Pflanzenarten gezeigt.
+
+F<sub>3</sub> Provida sic Providet Vogel fliegt zum Nest. Die Darstellung ist nicht mehr genau zu erkennen, doch muß es sich um das Emblem handeln, das Picinelli (s. v. aquila, Lib. 4, Nr. 116) beschreibt: »Illorum, quos natura a secretis habet; cumprimis vero Aeliani testimonio firmatum est, lapidem Aetitem ab Aquila intra nidum reponi, ut illius frigore nativos ac immodicos suos calores temperare ... Unde Rossus Aquilae, dum Aetidem nido imponit epigraphen addit. provida sic providet.« Im Andechser Emblem spielt der Adler auf den klugen Apotheker, der Adlerstein (»lapis Aetites«) auf die Fieberbekämpfung an. F<sub>4</sub> Extrahit ad Minimum Destillierofen. F<sub>3</sub> ist kein Emblem im eigentlichen Sinn, da kein symbolischer Verweis vorhanden ist; es stellt den Destillierofen als Illustration der Tätigkeit des Apothekers hin.
+
+G1 ... Misere. (Übrige Inschrift und Bild zerstört)
+
+G2 Viscera Fesse Carent Tobias schneidet den Bauch des großen Fisches auf und gewinnt daraus die Medizin für seinen Vater. Die biblisch-historische Szene gehört thematisch zur Darstellung des Mittelfeldes G und paßt inhaltlich in den ikonologischen Zusammenhang des Emblemzyklus.
+
+G3 Labor Omnia Vincit Mann mit Mörser. Vordergründige Anspielung auf die mühevolle Arbeit des Apothekers
+
+G4 Redivivus ab Urna Eine sitzende Frau hält einen Askulapstab, auf sie geht Merkur mit dem Botenstab zu. In verkürzter Form ist wahrscheinlich eine Szene aus der Askulapsage dargestellt. »Es wird aber solcher für de Apollo Sohn gehalten, welchen er mit der Koronis, de Phlegyas, Königes in Thessalien, Tochter, erzeuget, nach dem aber diese hernach sich auch mit dem Ischys, des Elo tas Sohne, zu genau eingelassen, so soll sie Apollo au Eifersucht getödtet, und, da sie bereits auf dem brennen den Scheiterhaufen gelegen, Mercurius erst noch der Aesculapius von ihr genommen haben.« (Benjamin Hederich, Gründliches Mythologisches Lexikon, Leipzig 1770, Kap. Aesculapius, Sp. 114 f.)
+
+In der sitzenden Frau ist wohl Koronis wiedergegeben; der vom Thema her geforderte Scheiterhaufen ist in dem schadhaften Gemälde gegenständlich nicht genau zu identifizieren. – Eine weitere historische Szene, die sich thematisch mit den mythologischen Motiven der Embleme E1-4 verbindet. Das Lemma spielt auf Heilerfolge der Medizin aus der Retorte (= urna) an.
+
+
+== Spezialliteratur zur ehem. Klosterapotheke ==
+
+Rosenthal, Oskar, Wunderheilungen und ärztliche Schutzpatrone in der bildenden Kunst, Leipzig 1925.
+
+Schnabel, Raimund, Pharmazie in Wissenschaft und Praxis dargestellt an der Geschichte der Klosterapotheker Altbayerns, München 1965, S. 71 ff.
+
+
+== Quellen und Literatur ==
+
+* Chronick deß hochberümbten Closters und Gottshauses heiligen Berg Andechs ... (o. V.), München 1657.
+
+* Historiola Montis sancti Andecensis ..., Augsburg 1755.
+
+* Lob- und Danck-Opfer Dem Dreyeinigen Gott in denen Drey wunderbarlichen Hostien Auf dem Heiligen Berg Andex ... (o. V.), Augsburg 1756.
+
+* Beschreibung des heil. Berges Andex ... und des ... Schatzes da selbst... (o. V.), Augsburg 1781.
+
+* Braun-Augsburg, Bd 1, S. 363 (Erling).
+
+* Andechs oder der heilige Berg (o. V.), in: Kalender für Katholische Christen 4, 1844 (s. Kurze Beschreibung merkwürdiger Gebäude ... IV).
+
+* Wolf, Josef Heinrich, Geschichte von Starnberg, Söcking, Andechs und Seefeld, in: Allgemeine Bayrische Chronik oder Geschichtsjahrbuch 5, 1846, S. 58.
+
+* Sattler, Magnus, Chronik von Andechs, Donauwörth 1877.
+
+* Heindl, Emmeram, Der heilige Berg Andechs in seiner Geschichte, München 1895.
+
+* KDB I OB (1), S. 847 ff.
+
+* Hauttmann, Max, Geschichte der kirchlichen Baukunst in Bayern, Schwaben und Franken, München 1921, passim.
+
+* Bauerreiß, Romuald, Andechs, Andechs 1925.
+
+* Hartig, Michael, Die oberbayerischen Stifte, Bd 1, München 1935, S. 78 ff.
+
+* Kraft, Benedikt, Andechser Studien 1–2 (= OAVG 73, 1937 und 74, 1940/41).
+
+* Röhlig, Ursula, Die Deckenfresken Johann Baptist Zimmermanns, ungedr. Diss. München 1949, S. 116–17.
+
+* Schnell, Hugo, Andechs (= KKF 394), München 1950.
+
+* Dehio-Gall OB (1952), S. 144 ff.
+
+* Bauerreiß, Romuald und Hugo Schnell, Der Heilige Berg Andechs (= GKF 19), München 1955.
+
+* Lieb, Norbert, Andechs als Stätte der Kunst, in: Der Zwiebelturm 22, 1967, S. 77.
+
+* Ausstellungskatalog, Der Schatz vom heiligen Berg Andechs. Bayerisches Nationalmuseum München, hg. v. Kloster Andechs, bearbeitet v. Rainer Rückert, München — Kloster Andechs 1967 (mit Verzeichnis der Chroniken, Heiltumsinventare und -bücher und Literaturangaben). [Baur, Willy], Kloster Andechs, Andechs [1970].

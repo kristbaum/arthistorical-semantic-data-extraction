@@ -1,0 +1,54 @@
+{{Artikel
+|Band=1
+|Chunk=7
+|Chunkseite=4
+|Originalseitenvon=305
+|Originalseitenbis=305
+|Lemma=Andechs, Ehem. Benediktinerabtei, Ehem. Kapellenraum
+|Meta=
+|Typ=Sakral
+|Ort=Andechs
+|davor=Andechs, Ehem. Benediktinerabtei, Sakristei (Antoniuskapelle)
+|danach=Andechs, Ehem. Benediktinerabtei, ehem. Prälatenkapelle
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Ehemalige (ehem.) Kapellenraum, jetzt Abstellraum
+
+'''Zum Bauwerk:''' Die Umbauten Ende des 17. Jahrhundert (Jh.) haben hinter der »Schmerzhaften Kapelle« Reste einer früheren Kapelle übriggelassen, und zwar einen schmalen, tonnengewölbten Restraum (A) und weiter dahinter einen kleinen quadratischen Raum (B). Auftraggeber ist wohl Abt Michael Einslin von Andechs (1610–40), der die »Closter- Kirch mit einem Gewölb, schönen Altären, und Bilderen gezieret« (Historiola, Zweiter Theil, S. 75).
+
+'''Autor und Entstehungszeit:''' Über der alten, jetzt zugemauerten Türe ist noch das Datum 1610 zu sehen, darunter die Buchstaben R B (?). Bauerreiß und Schnell (GKF 19 S. 27) sehen in den Buchstaben E K und nehmen als Autor Elias Greither (Kreuter) an. Die Gewölbemalerei ähnelt stilistisch den Werken Greithers, stammt vermutlich jedoch nicht von Elias Greither d. Ä. († 1646).
+
+Die figürlichen und ornamentalen Motive sind einzeln in die Gewölbe gesetzt. In der großzügigen Auffassung der Engelsfiguren, die frei – ohne eigene Rahmen – in die Gewölbefelder gemalt sind (B), kündigt sich ein neues barockes Dekorationssystem an (vgl. die Deckenbilder von 1627 des Johann Greither in der Pfarrkirche von Weilheim, s. LKr. Weilheim-Schongau).
+
+== Befund ==
+
+Träger der Deckenmalerei: A schmale Quertonne; B Kreuzgratgewölbe  
+Rahmen: keine bildeigenen Rahmen; in B gemalte Perlstäbe auf den Kreuzgraten  
+Technik: Secco; polychrom  
+
+{| class="wikitable"
+|-
+! Bereich !! Höhe !! Maße
+|-
+| A || 2,60 m || 3,20 × 1,20
+|-
+| B || 3,90 m || 3,20 × 3,10
+|}
+
+Erhaltungszustand: A nur fragmentarisch erhalten, stark verschmutzt (keine Abbildung). B Abblätterungen, Kratzer und Schrammen; Zustand der Malerei sehr schlecht
+
+Beschreibung und Ikonographie
+
+A '''DREIFALTIGKEITSGLORIE''' In der Mitte tragen zwei Putti einen Kranz aus Rosen, in dem sich überkreuzend eine Lilie und ein Palmzweig schweben. Darüber das Dreifaltigkeitssymbol, von dem Strahlen ausgehen. Ringsherum ein Wolkenkranz. Anschließend an den beiden unteren Seiten der Tonnenwölbung je ein dekorativer Engelskopf (keine Abbildung).
+
+B '''ARMA CHRISTI''' Im Zentrum des Kreuzgewölbes ein Kreis mit dem IHS und einem Herzen mit Nägeln, umgeben von einem Wolkenring mit Engelsköpfen. Von diesem Kranz gehen, dem Kreuzgewölbe folgend, gemalte Rippenprofile in Perlstabmuster aus. Zwei einander gegenüberliegende Gewölbefelder sind mit ornamentalen Engelsköpfen, Fruchtgehängen und Rollwerkornamenten dekoriert. Die beiden anderen sich gegenüber liegenden Felder tragen jeweils die Darstellung von zwei Engeln mit Leidenswerkzeugen. Die Engel stehen auf kleinen Wolken, aus denen Puttoköpfe hervorblicken. Figuren und Wolken stehen auf dem weißen Gewölbe als ausgeschnittene Silhouetten.
+
+Die Engel tragen die Leidenswerkzeuge Christi: Schwamm auf dem Rohr, Lanze und Dornenkrone, Geißelsäule und Geißel, Kreuz.
+
+[[File:Band01_chunk007_p003_img006.jpg|thumb]]
+
+Literatur siehe S. 316
