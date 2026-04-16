@@ -25,6 +25,8 @@ Usage:
 import argparse
 import re
 
+from Levenshtein import distance as _levenshtein
+
 from .helpers import OUTPUT_DIR
 
 # ---------------------------------------------------------------------------
@@ -53,15 +55,80 @@ def _fix_br(text: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Befund section label normalisation
+# ---------------------------------------------------------------------------
+
+_BEFUND_SECTION_RE = re.compile(r"^==\s*Befund\s*==\s*$")
+
+# Canonical forms of the four labels to be bolded (fuzzy-matched against OCR)
+_BEFUND_LABELS = [
+    "Rahmen:",
+    "Technik:",
+    "Maße:",
+    "Erhaltungszustand und Restaurierungen:",
+    "Träger der Deckenmalerei:",
+]
+
+
+def _befund_label_threshold(label: str) -> int:
+    """Levenshtein distance threshold – 15 % of label length, min 1."""
+    return max(1, int(len(label) * 0.15))
+
+
+def _fix_befund_labels(lines: list[str]) -> list[str]:
+    """In == Befund ==: bold and OCR-normalise the standard sub-section labels.
+
+    For each line in the Befund section the text up to the first colon is
+    compared (case-insensitively) against the canonical label list using
+    Levenshtein distance.  If the distance is within the per-label threshold
+    the prefix is replaced with the bold canonical form.
+    """
+    result: list[str] = []
+    in_befund = False
+
+    for line in lines:
+        if _BEFUND_SECTION_RE.match(line):
+            in_befund = True
+            result.append(line)
+            continue
+        if in_befund and re.match(r"^==[^=]", line):
+            in_befund = False
+
+        if in_befund and not line.startswith("'''") and ":" in line:
+            colon_pos = line.index(":")
+            candidate = line[: colon_pos + 1]
+            for canonical in _BEFUND_LABELS:
+                # Only compare when candidate length is close to canonical length
+                if abs(len(candidate) - len(canonical)) > 6:
+                    continue
+                dist = _levenshtein(candidate.lower(), canonical.lower())
+                if dist <= _befund_label_threshold(canonical):
+                    rest = line[colon_pos + 1 :].lstrip()
+                    sep = " " if rest else ""
+                    line = f"'''{canonical}'''{sep}{rest}".rstrip()
+                    break
+
+        result.append(line)
+
+    return result
+
+
+# ---------------------------------------------------------------------------
 # Meta inference
 # ---------------------------------------------------------------------------
 
 _META_RULES: list[tuple[re.Pattern, str]] = [
     (re.compile(r"\bVorwort\b|\bDank|\bErinnerung\b", re.IGNORECASE), "Vorwort"),
-    (re.compile(r"^Ikonographisches Register\b", re.IGNORECASE), "Ikonographisches Register"),
+    (
+        re.compile(r"^Ikonographisches Register\b", re.IGNORECASE),
+        "Ikonographisches Register",
+    ),
     (re.compile(r"\bOrtsregister\b", re.IGNORECASE), "Ortsregister"),
     (re.compile(r"\bPersonenregister\b", re.IGNORECASE), "Personenregister"),
-    (re.compile(r"\bEmleme-Register\b|\bEmbleme-Register\b", re.IGNORECASE), "Embleme-Register"),
+    (
+        re.compile(r"\bEmleme-Register\b|\bEmbleme-Register\b", re.IGNORECASE),
+        "Embleme-Register",
+    ),
     (re.compile(r"\bBildnachweis\b", re.IGNORECASE), "Bildnachweis"),
     (re.compile(r"^Im 18\. Jh", re.IGNORECASE), "Malerliste"),
 ]
@@ -136,7 +203,14 @@ def _set_meta(lines: list[str], meta_value: str) -> list[str]:
 # Validation
 # ---------------------------------------------------------------------------
 
-_ALWAYS_REQUIRED = ["Band", "Chunk", "Chunkseite", "Originalseitenvon", "Originalseitenbis", "Lemma"]
+_ALWAYS_REQUIRED = [
+    "Band",
+    "Chunk",
+    "Chunkseite",
+    "Originalseitenvon",
+    "Originalseitenbis",
+    "Lemma",
+]
 _CONTENT_REQUIRED = ["Typ", "Ort"]
 
 
@@ -157,7 +231,9 @@ def _validate(fields: dict[str, str]) -> list[str]:
         for f in _CONTENT_REQUIRED:
             if not fields.get(f, "").strip():
                 errors.append(f"missing |{f}=")
-        has_autor = any(k.startswith("AutorIn") and v.strip() for k, v in fields.items())
+        has_autor = any(
+            k.startswith("AutorIn") and v.strip() for k, v in fields.items()
+        )
         if not has_autor:
             errors.append("no |AutorIn1= (or higher) set")
 
@@ -174,7 +250,10 @@ def process_article(text: str, *, apply: bool) -> tuple[str, list[str]]:
     # Step 1: formatting transforms
     text = _fix_br(text)
     lines = text.splitlines()
-    lines = [l for l in lines if not _COMMENT_LINE_RE.match(l) and not _END_LINE_RE.match(l)]
+    lines = [
+        l for l in lines if not _COMMENT_LINE_RE.match(l) and not _END_LINE_RE.match(l)
+    ]
+    lines = _fix_befund_labels(lines)
     while lines and not lines[-1].strip():
         lines.pop()
 
@@ -189,7 +268,7 @@ def process_article(text: str, *, apply: bool) -> tuple[str, list[str]]:
     # Step 3: validate
     errors = _validate(fields)
 
-    new_text = "\n".join(lines) + "\n" if apply else text
+    new_text = "\n".join(lines) + "\n"
     return new_text, errors
 
 
@@ -239,8 +318,12 @@ def format_band(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--band", metavar="BAND", help="Process only this band, e.g. Band01")
-    parser.add_argument("--apply", action="store_true", help="Write changes to disk (default: dry-run)")
+    parser.add_argument(
+        "--band", metavar="BAND", help="Process only this band, e.g. Band01"
+    )
+    parser.add_argument(
+        "--apply", action="store_true", help="Write changes to disk (default: dry-run)"
+    )
     parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args()
 
