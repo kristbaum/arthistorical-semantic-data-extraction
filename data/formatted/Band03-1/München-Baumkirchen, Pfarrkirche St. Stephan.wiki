@@ -1,5 +1,5 @@
 {{Artikel
-|Band=311
+|Band=31
 |Chunk=2
 |Chunkseite=8
 |Originalseitenvon=62
