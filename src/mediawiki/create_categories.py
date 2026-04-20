@@ -58,6 +58,21 @@ _PREFIX: dict[str, str] = {
     "AutorIn": "AutorIn:",
 }
 
+# Special Band value display names (raw field value → display name)
+_BAND_DISPLAY: dict[str, str] = {
+    "31": "Band03-I",
+    "32": "Band03-II",
+    "121": "Band12-I",
+    "122": "Band12-II",
+}
+
+# Parent category to add to child category pages (field group → parent category title)
+_PARENT_CATEGORY: dict[str, str] = {
+    "AutorIn": "AutorInnen",
+    "Ort": "Orte",
+    "Meta": "Meta",
+}
+
 
 # ---------------------------------------------------------------------------
 # Template parsing
@@ -106,8 +121,15 @@ def iter_articles(band_filter: str | None = None):
 # ---------------------------------------------------------------------------
 
 
+def _band_display(value: str) -> str:
+    """Map a raw Band field value to its display name."""
+    return _BAND_DISPLAY.get(value, f"Band{int(value):02d}")
+
+
 def category_name(field_group: str, value: str) -> str:
     """Return the MediaWiki category page title (without 'Category:' prefix)."""
+    if field_group == "Band":
+        return _band_display(value)
     prefix = _PREFIX.get(field_group, f"{field_group}:")
     return f"{prefix}{value}"
 
@@ -119,7 +141,9 @@ def category_name(field_group: str, value: str) -> str:
 
 def collect_stats(band_filter: str | None = None) -> dict[str, Counter]:
     """Return a Counter per logical field group."""
-    counters: dict[str, Counter] = {g: Counter() for g in list(_SINGLE_FIELDS) + ["AutorIn"]}
+    counters: dict[str, Counter] = {
+        g: Counter() for g in list(_SINGLE_FIELDS) + ["AutorIn"]
+    }
 
     for _path, fields in iter_articles(band_filter):
         for field in _SINGLE_FIELDS:
@@ -144,7 +168,9 @@ def print_stats(counters: dict[str, Counter]) -> None:
         if not counter:
             continue
         print(f"{'=' * 50}")
-        print(f"  {group}  ({len(counter)} unique values, {sum(counter.values())} occurrences)")
+        print(
+            f"  {group}  ({len(counter)} unique values, {sum(counter.values())} occurrences)"
+        )
         print(f"{'=' * 50}")
         for val, count in counter.most_common():
             cat = category_name(group, val)
@@ -157,17 +183,26 @@ def print_stats(counters: dict[str, Counter]) -> None:
 # ---------------------------------------------------------------------------
 
 _CATEGORY_DESCRIPTION: dict[str, str] = {
-    "Band": "Artikel aus {value} des Corpus der barocken Deckenmalerei in Deutschland.",
-    "Meta": 'Metaartikel vom Typ "{value}".',
-    "Typ": 'Artikel vom Gebäudetyp "{value}".',
-    "Ort": "Artikel zum Ort {value}.",
-    "AutorIn": "Artikel von {value}.",
+    "Band": "Artikel aus {display} des Corpus der barocken Deckenmalerei in Deutschland.",
+    "Meta": 'Metaartikel vom Typ "{display}".',
+    "Typ": 'Artikel vom Gebäudetyp "{display}".',
+    "Ort": "Artikel zum Ort {display}.",
+    "AutorIn": "Artikel von {display}.",
 }
 
 
 def _category_text(field_group: str, value: str) -> str:
-    tmpl = _CATEGORY_DESCRIPTION.get(field_group, "Kategorie {value}.")
-    return tmpl.format(value=value)
+    # For descriptions use the raw value; for Band use the mapped display name
+    if field_group == "Band":
+        display = _band_display(value)
+    else:
+        display = value
+    tmpl = _CATEGORY_DESCRIPTION.get(field_group, "Kategorie {display}.")
+    body = tmpl.format(display=display)
+    parent = _PARENT_CATEGORY.get(field_group)
+    if parent:
+        body += f"\n\n[[Category:{parent}]]"
+    return body
 
 
 def create_categories(
@@ -177,8 +212,10 @@ def create_categories(
     verbose: bool = False,
 ) -> None:
     """Create one Category: page per unique value that does not yet exist."""
-    site = pywikibot.Site()
-    site.login()
+    site = None
+    if not dry_run:
+        site = pywikibot.Site()
+        site.login()
 
     created = 0
     skipped = 0
@@ -188,7 +225,9 @@ def create_categories(
         for value in counter:
             cat_title = f"Category:{category_name(group, value)}"
             if dry_run:
+                body = _category_text(group, value)
                 print(f"  Would create: {cat_title}")
+                print(f"    Content: {body!r}")
                 created += 1
                 continue
 
@@ -200,7 +239,9 @@ def create_categories(
                     skipped += 1
                     continue
                 page.text = _category_text(group, value)
-                page.save(summary=f"[bot] Kategorie erstellt: {category_name(group, value)}")
+                page.save(
+                    summary=f"[bot] Kategorie erstellt: {category_name(group, value)}"
+                )
                 print(f"  Created: {cat_title}")
                 created += 1
             except Exception as exc:  # noqa: BLE001
@@ -218,10 +259,25 @@ def create_categories(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--band", metavar="BAND", help="Restrict to a single band folder (e.g. Band05)")
-    parser.add_argument("--dry-run", action="store_true", help="Show what would be created, do not write to wiki")
-    parser.add_argument("--apply", action="store_true", help="Actually create category pages on the wiki")
-    parser.add_argument("--verbose", "-v", action="store_true", help="Print skipped (already existing) pages")
+    parser.add_argument(
+        "--band", metavar="BAND", help="Restrict to a single band folder (e.g. Band05)"
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Show what would be created, do not write to wiki",
+    )
+    parser.add_argument(
+        "--apply",
+        action="store_true",
+        help="Actually create category pages on the wiki",
+    )
+    parser.add_argument(
+        "--verbose",
+        "-v",
+        action="store_true",
+        help="Print skipped (already existing) pages",
+    )
     args = parser.parse_args()
 
     counters = collect_stats(args.band)
@@ -235,7 +291,9 @@ def main() -> None:
             verbose=args.verbose,
         )
     else:
-        print("Pass --dry-run to preview category pages or --apply to create them on the wiki.")
+        print(
+            "Pass --dry-run to preview category pages or --apply to create them on the wiki."
+        )
 
 
 if __name__ == "__main__":
