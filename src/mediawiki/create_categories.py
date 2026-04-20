@@ -60,10 +60,10 @@ _PREFIX: dict[str, str] = {
 
 # Special Band value display names (raw field value → display name)
 _BAND_DISPLAY: dict[str, str] = {
-    "31": "Band03-I",
-    "32": "Band03-II",
-    "121": "Band12-I",
-    "122": "Band12-II",
+    "31": "Band 3-I",
+    "32": "Band 3-II",
+    "121": "Band 12-I",
+    "122": "Band 12-II",
 }
 
 # Parent category to add to child category pages (field group → parent category title)
@@ -123,7 +123,7 @@ def iter_articles(band_filter: str | None = None):
 
 def _band_display(value: str) -> str:
     """Map a raw Band field value to its display name."""
-    return _BAND_DISPLAY.get(value, f"Band{int(value):02d}")
+    return _BAND_DISPLAY.get(value, f"Band {int(value)}")
 
 
 def category_name(field_group: str, value: str) -> str:
