@@ -10,9 +10,9 @@ the configured MediaWiki instance.  Existing category pages are left untouched.
 Category naming
 ---------------
   Band N            →  Category:Band N
-  Meta=<value>      →  Category:Meta:<value>
-  Typ=<value>       →  Category:Typ:<value>
-  Ort=<value>       →  Category:Ort:<value>
+  Meta=<value>      →  Category:<value>  (with [[Category:Meta]])
+  Typ=<value>       →  Category:<value>  (with [[Category:Typ]])
+  Ort=<value>       →  Category:<value>  (with [[Category:Ort]])
   AutorIn[1-6]=<v>  →  Category:AutorIn:<value>
 
 Usage
@@ -33,13 +33,15 @@ Usage
 import argparse
 import re
 import sys
-from collections import Counter, defaultdict
+from collections import Counter
 from pathlib import Path
 
 import pywikibot
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 FORMATTED_DIR = REPO_ROOT / "data" / "formatted"
+
+DEFAULT_WIKI_URL = "https://badwcbd-lab.srv.mwn.de/api.php"
 
 _FIELD_RE = re.compile(r"^\s*\|(\w+)=(.*)$")
 
@@ -52,10 +54,10 @@ _AUTOR_FIELDS = tuple(f"AutorIn{i}" for i in range(1, 7))
 # Category prefix per field
 _PREFIX: dict[str, str] = {
     "Band": "Band ",
-    "Meta": "Meta:",
-    "Typ": "Typ:",
-    "Ort": "Ort:",
-    "AutorIn": "AutorIn:",
+    "Meta": "",
+    "Typ": "",
+    "Ort": "",
+    "AutorIn": "",
 }
 
 # Special Band value display names (raw field value → display name)
@@ -69,7 +71,8 @@ _BAND_DISPLAY: dict[str, str] = {
 # Parent category to add to child category pages (field group → parent category title)
 _PARENT_CATEGORY: dict[str, str] = {
     "AutorIn": "AutorInnen",
-    "Ort": "Orte",
+    "Ort": "Ort",
+    "Typ": "Typ",
     "Meta": "Meta",
 }
 
@@ -208,13 +211,14 @@ def _category_text(field_group: str, value: str) -> str:
 def create_categories(
     counters: dict[str, Counter],
     *,
+    wiki_url: str = DEFAULT_WIKI_URL,
     dry_run: bool = True,
     verbose: bool = False,
 ) -> None:
     """Create one Category: page per unique value that does not yet exist."""
     site = None
     if not dry_run:
-        site = pywikibot.Site()
+        site = pywikibot.Site(url=wiki_url)
         site.login()
 
     created = 0
@@ -260,6 +264,11 @@ def create_categories(
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument(
+        "--wiki-url",
+        default=DEFAULT_WIKI_URL,
+        help="MediaWiki API endpoint URL.",
+    )
+    parser.add_argument(
         "--band", metavar="BAND", help="Restrict to a single band folder (e.g. Band05)"
     )
     parser.add_argument(
@@ -287,6 +296,7 @@ def main() -> None:
         print("Category creation", "(dry-run)" if args.dry_run else "(live)", "\n")
         create_categories(
             counters,
+            wiki_url=args.wiki_url,
             dry_run=not args.apply,
             verbose=args.verbose,
         )
