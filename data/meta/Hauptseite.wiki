@@ -1,0 +1,68 @@
+<div style="background-color:var(--background-color-notice-subtle,#eaf3fb); border-left:4px solid var(--border-color-progressive,#3a6ea5); color:var(--color-base,inherit); padding:0.5em 1em; margin:0 0 1em 0; font-size:0.9em;">'''Experimenteller Aufbau:''' Diese Wiki-Instanz ist ein Forschungsprototyp. Die Artikel wurden automatisch aus den gedruckten Bänden des CbDD extrahiert und sind nur grob für menschliche Leser formatiert. Einige Abbildungen fehlen. Inhaltliche Fehler und Formatierungsprobleme sind zu erwarten.</div>
+
+Das ''Corpus der barocken Deckenmalerei in Deutschland'' (CbDD) umfasste 15 Druckbände (14 Sachbände und einen Gesamtindex), erschienen von 1976 bis 2010 im Hirmer Verlag. Sie dokumentieren die barocke Deckenmalerei in Oberbayern.
+
+----
+
+=== Nach Band durchsuchen ===
+
+{| class="wikitable" style="width:100%"
+|-
+| [[:Kategorie:Band 1|Band 1]] – Landkreise Landsberg am Lech, Starnberg, Weilheim-Schongau (1976)
+| [[:Kategorie:Band 2|Band 2]] – Landkreise Bad Tölz-Wolfratshausen, Garmisch-Partenkirchen, Miesbach (1981)
+|-
+| [[:Kategorie:Band 3-I|Band 3-I]] – Stadt und Landkreis München, Sakralbauten (1987)
+| [[:Kategorie:Band 3-II|Band 3-II]] – Stadt und Landkreis München, Profanbauten (1989)
+|-
+| [[:Kategorie:Band 4|Band 4]] – Landkreis Fürstenfeldbruck (1995)
+| [[:Kategorie:Band 5|Band 5]] – Landkreis Dachau (1996)
+|-
+| [[:Kategorie:Band 6|Band 6]] – Stadt und Landkreis Freising (1998)
+| [[:Kategorie:Band 7|Band 7]] – Landkreis Erding (2001)
+|-
+| [[:Kategorie:Band 8|Band 8]] – Landkreis Mühldorf am Inn (2002)
+| [[:Kategorie:Band 9|Band 9]] – Landkreis Altötting (2003)
+|-
+| [[:Kategorie:Band 10|Band 10]] – Landkreis Neuburg-Schrobenhausen (2005)
+| [[:Kategorie:Band 11|Band 11]] – Landkreis Traunstein (2005)
+|-
+| [[:Kategorie:Band 12-I|Band 12-I]] – Stadt und Landkreis Rosenheim, Teil 1 (2006)
+| [[:Kategorie:Band 12-II|Band 12-II]] – Stadt und Landkreis Rosenheim, Teil 2 (2006)
+|-
+| [[:Kategorie:Band 13|Band 13]] – Landkreis Eichstätt (2008)
+| [[:Kategorie:Band 14|Band 14]] – Landkreise Ingolstadt und Pfaffenhofen (2010)
+|}
+
+=== Nach Gebäudetyp ===
+
+* [[:Kategorie:Sakral|Sakralbauten]]
+* [[:Kategorie:Profan|Profanbauten]]
+
+=== Nach Autorinnen und Autoren ===
+
+[[:Kategorie:Bauer-Wild, Anna|Bauer-Wild, Anna]] · [[:Kategorie:Böhm, Cordula|Böhm, Cordula]] · [[:Kategorie:Lüdicke, Lore|Lüdicke, Lore]] · [[:Kategorie:Werner-Clementschitsch, Heide|Werner-Clementschitsch, Heide]] · [[:Kategorie:Sinkel, Kristin|Sinkel, Kristin]] · [[:Kategorie:Bachter, Falk|Bachter, Falk]] · [[:Kategorie:Volk-Knüttel, Brigitte|Volk-Knüttel, Brigitte]] · [[:Kategorie:Sauerländer, Brigitte|Sauerländer, Brigitte]] · [[:Kategorie:Grimminger, Christina|Grimminger, Christina]] · [[:Kategorie:Langenstein, Eva|Langenstein, Eva]] · [[:Kategorie:Rupprecht, Bernhard|Rupprecht, Bernhard]] · [[:Kategorie:Baur, Eva-Gesine|Baur, Eva-Gesine]] · [[:Kategorie:Tezmen-Siegel, Jutta|Tezmen-Siegel, Jutta]] · [[:Kategorie:Büttner, Frank|Büttner, Frank]] · [[:Kategorie:Bauer, Hermann|Bauer, Hermann]] · [[:Kategorie:Holler, Wolfgang|Holler, Wolfgang]] · [[:Kategorie:Hamacher, Bärbel|Hamacher, Bärbel]] · [[:Kategorie:Gluderer, Martin|Gluderer, Martin]]
+
+----
+
+=== KI-Zugang über MCP ===
+
+Diese Wiki-Instanz stellt einen [https://modelcontextprotocol.io Model Context Protocol (MCP)]-Endpunkt bereit, über den KI-Assistenten direkt auf die Artikelinhalte zugreifen können.
+
+==== MCP-Endpunkt ====
+
+<code>https://badwcbd-lab.srv.mwn.de/mcp</code>
+
+Der Endpunkt erfordert keine Authentifizierung und ist öffentlich zugänglich.
+
+==== Einrichtung mit Claude.ai (Remote MCP Connector) ====
+
+# Claude.ai aufrufen und unter '''Einstellungen → Integrationen''' einen neuen Connector hinzufügen.
+# Als URL <code>https://badwcbd-lab.srv.mwn.de/mcp</code> eingeben.
+# Keine Authentifizierung erforderlich – einfach speichern und aktivieren.
+# Im Chat kann nun direkt nach Artikeln, Orten oder AutorInnen gefragt werden.
+
+==== Einrichtung mit dem MediaWiki-MCP-Server (selbst gehostet) ====
+
+Das Projekt [https://github.com/ProfessionalWiki/MediaWiki-MCP-Server MediaWiki-MCP-Server] ermöglicht es, einen eigenen MCP-Server für diese Instanz zu betreiben:
+
+Den lokalen Server kann man in jedem MCP-fähigen Client (Claude Desktop, VS Code Copilot, etc.) als lokalen Endpunkt eintragen.
