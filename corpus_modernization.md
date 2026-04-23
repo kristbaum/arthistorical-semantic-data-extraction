@@ -75,3 +75,18 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 - [x] Upload the improved images to MediaWiki installation (8959 files)
 - [ ] Identify and document errors in image recognition manually (GWAP!)
 - [ ] Upload images into MediaWiki
+
+
+                                      Non-Meta          Meta         Total
+  ------------------------------------------------------------------------
+  Articles (count)                         908            86           994
+
+  Total characters                    14891486       1593255      16484741
+  Total words                          2070252        244266       2314518
+  Total [[File:]]s                        8598             3          8601
+  Total est. tokens                    3722871        398313       4121185
+
+  Avg characters                         16400         18526         16584
+  Avg words                               2280          2840          2328
+  Avg [[File:]]s                          9.47          0.03          8.65
+  Avg est. tokens                         4100          4632          4146
