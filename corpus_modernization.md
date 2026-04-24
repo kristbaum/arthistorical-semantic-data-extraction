@@ -77,7 +77,7 @@ The goal of this work is to update the contents of the original CbDD to fit the 
 - [ ] Upload images into MediaWiki
 
 | Metric | Articles | Meta | Total |
-| --- |--- :|---:|---:|
+| --- | ---: | ---: | ---: |
 | Articles (count) | 908 | 86 | 994 |
 | Total characters | 14,891,486 | 1,593,255 | 16,484,741 |
 | Total words | 2,070,252 | 244,266 | 2,314,518 |
