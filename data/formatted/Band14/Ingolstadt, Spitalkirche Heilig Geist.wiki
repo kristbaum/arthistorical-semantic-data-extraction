@@ -232,7 +232,7 @@ StAI, Ingolstadt, Akten Spitalkirche, Abt. A IX, Nr. 77, Restaurierung der Spita
 
 BLfD, Ingolstadt, Restaurierungsakten Heiliggeist-Spitalkirche
 
-== KDB I OB (1), S. 58 ==
+KDB I OB (1), S. 58
 
 Spiegel, Joseph, Die Spitalkirche in Ingolstadt, ihre Geschichte und Ausstattung, in: SHVI 35, 1914/15, erschienen 1916, 15-22, 22-37, 41–45, 52.
 
@@ -287,7 +287,3 @@ Grimm, Jakob und Wilhelm, Deutsches Wörterbuch, Bd 5, Leipzig 1873, Sp. 562-565
 Kemp, Ingolstadt Spitalkirche, S. 218–220.
 
 3. S./E. L.
-
-== FRANZISKANERKLOSTERKIRCHE ==
-
-Stadtpfarrei »Zur Schönen Unserer Lieben Frau«, Diözese Eichstätt, Harderstraße 2
