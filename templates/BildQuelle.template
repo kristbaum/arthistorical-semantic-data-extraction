@@ -40,7 +40,9 @@
 	}
 }
 </templatedata></noinclude><div style="background-color:var(--background-color-notice-subtle,#eaf3fb); border-left:4px solid var(--border-color-progressive,#3a6ea5); color:var(--color-base,inherit); padding:0.5em 1em; margin:0 0 1em 0; font-size:0.9em;">
-'''Quelle:''' {{BandString|{{{Band}}}}}, S. {{{Originalseitenvon}}}{{#ifeq:{{{Originalseitenvon}}}|{{{Originalseitenbis}}}||–{{{Originalseitenbis}}}}}{{#if:{{{Chunk|}}}| [[{{#switch:{{{Band}}}|31=Band03-1|32=Band03-2|121=Band12-1|122=Band12-2|#default=Band{{padleft:{{{Band}}}|2|0}}}}_chunk{{padleft:{{{Chunk}}}|3|0}}.pdf|[https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/{{#switch:{{{Band}}}|31=Band03-1|32=Band03-2|121=Band12-1|122=Band12-2|#default=Band{{padleft:{{{Band}}}|2|0}}}}_chunk{{padleft:{{{Chunk}}}|3|0}}.pdf#page={{{Chunkseite|}}} Original (Passwortgeschützt)]]]}}
+'''Urheberrechtshinweis:''' Dieses Bild ist urheberrechtlich geschützt und darf ohne ausdrückliche Genehmigung des Rechteinhabers nicht weiterverwendet werden.
+
+'''Quelle:''' {{BandString|{{{Band}}}}}, S. {{{Originalseitenvon}}}{{#ifeq:{{{Originalseitenvon}}}|{{{Originalseitenbis}}}||–{{{Originalseitenbis}}}}}{{#if:{{{Chunk|}}}|  [https://www.dropbox.com/preview/CbDD_Dienstordner/literatur/altes%20corpus/chunked/chunked/{{#switch:{{{Band}}}|31=Band03-1|32=Band03-2|121=Band12-1|122=Band12-2|#default=Band{{padleft:{{{Band}}}|2|0}}}}_chunk{{padleft:{{{Chunk}}}|3|0}}.pdf#page={{{Chunkseite|}}} Original (Passwortgeschützt)]}}
 
 '''Bildnachweis:''' {{#switch: {{{Band}}}
 | 1   = Photographische Aufnahmen: Wolf-Christian von der Mülbe
