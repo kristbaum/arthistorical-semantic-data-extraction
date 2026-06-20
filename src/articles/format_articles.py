@@ -27,7 +27,7 @@ import re
 
 from Levenshtein import distance as _levenshtein
 
-from .helpers import OUTPUT_DIR
+from .helpers import OUTPUT_DIR, formatted_band_prefixes, iter_formatted_articles
 
 # ---------------------------------------------------------------------------
 # Compiled patterns – formatting
@@ -420,14 +420,13 @@ def format_band(
     apply: bool = False,
     verbose: bool = False,
 ) -> int:
-    band_dir = OUTPUT_DIR / band_prefix
-    if not band_dir.is_dir():
+    if not (OUTPUT_DIR / band_prefix).is_dir():
         if verbose:
             print(f"  SKIP {band_prefix}: directory not found")
         return 0
 
     changes = 0
-    for path in sorted(band_dir.glob("*.wiki")):
+    for path in iter_formatted_articles(band_prefix):
         original = path.read_text(encoding="utf-8")
         new_text, errors = process_article(original, apply=apply)
 
@@ -464,10 +463,7 @@ def main() -> None:
     parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args()
 
-    if args.band:
-        band_prefixes = [args.band]
-    else:
-        band_prefixes = sorted(p.name for p in OUTPUT_DIR.iterdir() if p.is_dir())
+    band_prefixes = formatted_band_prefixes(args.band)
 
     total = 0
     for bp in band_prefixes:

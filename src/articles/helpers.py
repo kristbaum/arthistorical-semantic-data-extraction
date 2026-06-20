@@ -1,12 +1,89 @@
 """Shared helpers: path conventions, CSV mapping, filename sanitisation."""
 
 import re
+from collections.abc import Iterator
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 EXTRACTED_DIR = REPO_ROOT / "data" / "extracted"
 META_CSV = REPO_ROOT / "data" / "meta" / "Liste_Bände.csv"
 OUTPUT_DIR = REPO_ROOT / "data" / "formatted"
+
+
+# ---------------------------------------------------------------------------
+# Iterating over formatted articles
+# ---------------------------------------------------------------------------
+#
+# The formatted folder holds one .wiki file per article, grouped by band:
+#     data/formatted/{Band}/{Lemma}.wiki
+# These helpers give every script the same, ordered view of that tree so the
+# band-selection + glob boilerplate lives in one place.
+
+
+def formatted_band_prefixes(
+    band: str | None = None, *, base: Path = OUTPUT_DIR
+) -> list[str]:
+    """Band directory names under the formatted folder, sorted.
+
+    With ``band`` set, returns just that band (as a single-element list if it
+    exists, otherwise empty).
+    """
+    if band:
+        return [band] if (base / band).is_dir() else []
+    return sorted(p.name for p in base.iterdir() if p.is_dir())
+
+
+def iter_formatted_articles(
+    band: str | None = None, *, base: Path = OUTPUT_DIR
+) -> Iterator[Path]:
+    """Yield every article .wiki file in the formatted folder.
+
+    Files are ordered by band, then by filename. Restrict to a single band by
+    passing its prefix (e.g. ``"Band01"``). ``base`` overrides the formatted
+    root (used by run_pass2's ``--input-dir``).
+    """
+    for prefix in formatted_band_prefixes(band, base=base):
+        yield from sorted((base / prefix).glob("*.wiki"))
+
+
+# ---------------------------------------------------------------------------
+# Article file parsing
+# ---------------------------------------------------------------------------
+
+_FIELD_RE = re.compile(r"^\s*\|(\w+)=(.*)$")
+
+
+def parse_article_file(text: str) -> tuple[str, dict[str, str], str]:
+    """Split an article file into (template_block, fields, body).
+
+    template_block: the raw text from {{Artikel to }} inclusive (with newlines).
+    fields:         dict of field_name → value.
+    body:           everything after the closing }}.
+    """
+    lines = text.splitlines(keepends=True)
+    in_tpl = False
+    tpl_lines: list[str] = []
+    fields: dict[str, str] = {}
+    body_start = 0
+
+    for i, line in enumerate(lines):
+        s = line.strip()
+        if s.startswith("{{Artikel"):
+            in_tpl = True
+            tpl_lines.append(line)
+        elif s == "}}" and in_tpl:
+            tpl_lines.append(line)
+            body_start = i + 1
+            break
+        elif in_tpl:
+            tpl_lines.append(line)
+            m = _FIELD_RE.match(line)
+            if m:
+                fields[m.group(1)] = m.group(2).strip()
+
+    template_block = "".join(tpl_lines)
+    body = "".join(lines[body_start:])
+    return template_block, fields, body
 
 
 def csv_band_to_dir_prefix(band_csv: str) -> str:

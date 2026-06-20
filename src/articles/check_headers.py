@@ -16,7 +16,7 @@ import argparse
 import re
 from collections import defaultdict
 
-from .helpers import OUTPUT_DIR
+from .helpers import formatted_band_prefixes, iter_formatted_articles
 from .normalize_structure import _get_lemma, _is_list_article
 
 _HEADING_RE = re.compile(r"^(==+)\s*(.+?)\s*(==+)\s*$")
@@ -39,12 +39,8 @@ def _link(path, text: str) -> str:
 
 def collect_band(band_prefix: str):
     """Return list of (path, line_index, heading_text, full_line, lines, text) tuples."""
-    band_dir = OUTPUT_DIR / band_prefix
-    if not band_dir.is_dir():
-        return []
-
     results = []
-    for path in sorted(band_dir.glob("*.wiki")):
+    for path in iter_formatted_articles(band_prefix):
         text = path.read_text(encoding="utf-8")
         lines = text.splitlines()
         lemma = _get_lemma(lines)
@@ -73,10 +69,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if args.band:
-        band_prefixes = [args.band]
-    else:
-        band_prefixes = sorted(p.name for p in OUTPUT_DIR.iterdir() if p.is_dir())
+    band_prefixes = formatted_band_prefixes(args.band)
 
     all_results = []
     for bp in band_prefixes:
