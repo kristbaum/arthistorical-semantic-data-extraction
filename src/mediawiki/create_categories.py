@@ -70,6 +70,7 @@ _BAND_DISPLAY: dict[str, str] = {
 
 # Parent category to add to child category pages (field group → parent category title)
 _PARENT_CATEGORY: dict[str, str] = {
+    "Band": "CBD",
     "AutorIn": "AutorInnen",
     "Ort": "Ort",
     "Typ": "Typ",
