@@ -7,7 +7,10 @@ the page wikitext.
 
 Behaviour:
   - If the page does not exist it is created.
-  - If the page already exists and the content differs it is updated.
+  - If the page already exists and the content differs it is updated,
+    unless it is in the manually curated "CbDD" category — those pages are
+    protected and left untouched, except stubs ("Bereits publiziert in" and
+    shorter than 3000 characters), which are still overwritten.
   - If the page already exists and the content is identical it is skipped.
   - Pages with a |Meta= value are included unless --skip-meta is passed.
 
@@ -43,6 +46,29 @@ FORMATTED_DIR = REPO_ROOT / "data" / "formatted"
 DEFAULT_WIKI_URL = "https://badwcbd-lab.srv.mwn.de/api.php"
 
 _FIELD_RE = re.compile(r"^\s*\|(\w+)=(.*)$")
+
+# Matches a category link to the manually curated "CbDD" category (English or
+# German namespace, optional sort key). Note the exact casing "CbDD".
+_CBDD_CATEGORY_RE = re.compile(
+    r"\[\[\s*(?:Category|Kategorie)\s*:\s*CbDD\s*(?:\|[^\]]*)?\]\]"
+)
+
+# An existing CbDD page may still be overwritten when it is merely a stub:
+# it references the original publication and is short.
+_STUB_MARKER = "Bereits publiziert in"
+_STUB_MAX_LEN = 3000
+
+
+def _is_protected(existing: str) -> bool:
+    """Return True if an existing page must not be overwritten.
+
+    Pages in the manually curated "CbDD" category are protected, unless they
+    are stubs ("Bereits publiziert in" and shorter than 3000 characters).
+    """
+    if not _CBDD_CATEGORY_RE.search(existing):
+        return False
+    is_stub = _STUB_MARKER in existing and len(existing) < _STUB_MAX_LEN
+    return not is_stub
 
 
 # ---------------------------------------------------------------------------
@@ -115,7 +141,7 @@ def sync_all(
     else:
         site = None
 
-    created = updated = skipped = errors = 0
+    created = updated = skipped = protected = errors = 0
 
     for lemma, wikitext in iter_articles(band_filter, skip_meta=skip_meta):
         if dry_run:
@@ -134,6 +160,9 @@ def sync_all(
                 page.save(summary=f"[bot] Create: {summary}")
                 print(f"  CREATED: {lemma}")
                 created += 1
+            elif _is_protected(existing):
+                print(f"  PROTECTED (CbDD, skip): {lemma}")
+                protected += 1
             elif existing.strip() != wikitext.strip():
                 page.text = wikitext
                 page.save(summary=f"[bot] Update: {summary}")
@@ -151,7 +180,7 @@ def sync_all(
     mode = "Would sync" if dry_run else "Synced"
     print(
         f"\n{mode}: {created} created, {updated} updated, "
-        f"{skipped} unchanged, {errors} errors."
+        f"{skipped} unchanged, {protected} protected (CbDD), {errors} errors."
     )
     if errors:
         sys.exit(1)
