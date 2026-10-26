@@ -43,26 +43,72 @@ user wants that.
 
 ## 2. Gather the sources for each article
 
-The formatted body is the base text. For any doubtful word, consult the two
-page-level OCR sources the body was merged from:
+The formatted body is the base text. For any doubtful word, consult the
+page-level sources the body was merged from:
 
 | Source | Path | Character |
 |---|---|---|
-| Surya OCR (wiki) | `data/extracted/{Band}_chunk{NNN}/wiki/p{NNN}.wiki` | good layout, images, `†`/`*` usually kept |
-| Transkribus OCR | `data/extracted/{Band}_chunk{NNN}/add_txt/{NNNN}_p{NNN}.txt` | custom-trained model, better letters; keeps line breaks, `¬` hyphens, page header in line 1 |
-| LLM pass 1 | `data/extracted/{Band}_chunk{NNN}/pass1/p{NNN}.wiki` | merged result, may contain LLM slips |
+| Surya OCR (wiki) | `data/extracted/{Band}_chunk{NNN}/wiki/p{NNN}.wiki` | good layout, images, `†`/`*` usually kept; drops bold labels, `<!-- header: … -->` comments mark running heads |
+| Transkribus OCR | `data/extracted/{Band}_chunk{NNN}/add_txt/{NNNN}_p{NNN}.txt` | custom-trained model, better letters and punctuation; keeps line breaks, `¬` hyphens, page header in line 1 |
+| LLM pass 1 | `data/extracted/{Band}_chunk{NNN}/pass1/p{NNN}.wiki` | merged result — **the usual origin of LLM slips** (e.g. a changed year) |
+| Page scan | `data/scans/{Band}_chunk{NNN}/p{NNN}.{png,jpg,…}` | the printed page itself; the final authority (see §2.1) |
 
-Locate the pages from the template: `|Chunk=` → `chunk{NNN}` (zero-padded to
-3), `|Chunkseite=` → first page `p{NNN}`. The article continues on the
-following pages; `|Originalseitenvon=`/`|Originalseitenbis=` give the printed
-range, and the `<!-- citation-page-top/bottom: … -->` comments in the page
-files map PDF pages to printed pages. `[[File:Band01_chunk007_p007_img001.jpg]]`
-names tell you which PDF page an image sits on — a quick way to find the right
-page for a passage.
+`{NNNN}` is the same page number as `p{NNN}`, padded to 4 (`0010_p010.txt`).
+
+**Find the pages with the helper**, don't work them out by hand:
+```bash
+uv run python .claude/skills/clean-cbd-skill/scripts/find_sources.py \
+    "data/formatted/{Band}/{Lemma}.wiki"
+# compare all readings of a doubtful passage (regex, case-insensitive):
+uv run python .claude/skills/clean-cbd-skill/scripts/find_sources.py \
+    "data/formatted/{Band}/{Lemma}.wiki" --grep "Fresken von \d+"
+```
+It matches the printed range (`|Originalseitenvon=`–`|Originalseitenbis=`)
+against the `<!-- citation-page-top/bottom: … pNN -->` comments, lists every
+PDF page with the paths of all four sources, and with `--grep` prints the
+matching snippet from each OCR source side by side. Facts behind it:
+- Each PDF page is a **two-page spread** (e.g. `p010` = printed S. 18/19).
+- `|Chunkseite=` is **not reliable** as the first page — in Band01 it is one
+  higher than the PDF page the article starts on, elsewhere it matches.
+- An article can run into the next chunk; the helper checks it too.
+- `[[File:Band01_chunk007_p007_img001.jpg]]` names tell you which PDF page an
+  image sits on.
+
+Transkribus quirks seen so far: line order is sometimes **reversed** for a
+column next to an image (read the block bottom-up); subscript digits come out
+as letters (`Ai`/`Al` = A1, `Az` = A2, `As` = A3 or A5); captions appear as
+loose lines among the text. Surya quirks: lost periods (`St Martin`), `1.30`
+for `1,30`, truncated words (`woh`).
 
 Read only the passages you need to resolve; do not re-transcribe the article.
-When the two OCRs disagree and neither is clearly right, keep the formatted
-text and log the spot (see §5).
+When the two OCRs disagree and neither is clearly right, check the scan
+(§2.1); without a scan, keep the formatted text and log the spot (see §5).
+When both OCRs agree against the formatted text, follow the OCRs — the
+formatted text then carries a pass-1 slip — and log it if it is a number or
+name.
+
+### 2.1 Checking the page scan
+
+Scans of the printed pages will be placed in `data/scans/` (one folder per
+chunk, one image per PDF page, named like the page: `p010.png`). Another
+location can be set with the environment variable `CBDD_SCAN_DIR`.
+`find_sources.py` shows the scan path in its `scan` line, or `—` when there is
+none yet.
+
+When a scan exists:
+1. Open it with the Read tool (it displays images). The image holds both
+   printed pages of the spread, two columns each; find the passage by its
+   neighbouring words or by the image next to it.
+2. Use it to settle what the OCRs cannot: numbers and dates, the subscript in
+   `A1`/`A4`, punctuation at line ends, `†`/`*`, missing captions, garbled
+   titles (`S./JOSEPH`), a word only one OCR reads.
+3. The scan wins over both OCRs. Fix the text to what is printed and write
+   `SCAN pNNN: …` in the report so the reviewer knows it was checked.
+4. Check the scan only for the doubtful spots — don't proofread the whole
+   page against it.
+
+If there is no scan, nothing else changes: decide from the OCRs and log
+doubtful spots as before.
 
 ---
 
@@ -179,23 +225,32 @@ Chronograms are deliberate mixed case (`P. FeLIXpharMaCopaeVs`) — leave them.
   quote if an OCR source shows a different reading,
 - abbreviations (`KDB`, `Bd`, `fl.`, `frdl. Mitt.`) — expanding them is a
   separate, later pass,
-- names, dates and numbers, unless an OCR source proves the misreading.
+- names, dates and numbers, unless an OCR source or the scan proves the
+  misreading. Even an implausible printed date stays as printed — log it
+  instead (Band01 Adelshausen: »Fresken von 1795« by Anwander, †1770).
 
 ---
 
 ## 4. Procedure per article
 
-1. Read the article; note template fields (Band, Chunk, Chunkseite, pages).
-2. Edit the body by rules 3.1–3.10, consulting the page sources for doubtful
-   spots. Write the result to the target path.
+1. Read the article and run `find_sources.py` on it (§2) to get the page
+   list. Read the Surya and Transkribus pages of the article once — short
+   articles fit on 2–3 pages — and note the doubtful spots.
+2. Edit the body by rules 3.1–3.10; resolve doubtful spots with
+   `find_sources.py --grep` and the scan (§2.1). Write the result to the
+   target path. To keep the template byte-identical, copy it rather than
+   retyping it:
+   ```bash
+   sed -n '1,/^}}$/p' "$SRC" > "$TARGET"   # template only
+   cat >> "$TARGET" <<'EOF'
+   
+   …cleaned body…
+   EOF
+   ```
 3. Apply the deterministic cleanups (spaces before punctuation, blank lines,
-   one blank line around `== headings ==`):
-   ```python
-   import sys; sys.path.insert(0, "src")
-   from articles.helpers import parse_article_file
-   from articles.postprocess import postprocess
-   tpl, _, body = parse_article_file(text)
-   text = tpl.rstrip("\n") + "\n\n" + postprocess(body) + "\n"
+   one blank line around `== headings ==`, trailing newline):
+   ```bash
+   uv run python .claude/skills/clean-cbd-skill/scripts/finalize.py "$TARGET"
    ```
 4. Verify:
    ```bash
@@ -237,5 +292,15 @@ number of report entries.
 - Band directories with parts: `Band03-1`, `Band12-2`; their template `Band=`
   values are `31`, `122`.
 - Preserve the trailing newline; files are UTF-8.
+- `== Quellen und Literatur ==` in early bands, where the book prints just
+  `Literatur`, comes from an earlier normalisation step — keep it, don't
+  revert it.
+- Image captions are often garbled (`Joseph W`) or missing. Fix them only from
+  an OCR source or the scan, and never invent a caption; otherwise log it.
+- Garbled caps titles (`S./JOSEPH` for `ST. JOSEPH`) that both OCRs share:
+  keep them and log them, or settle them with the scan.
+- `postprocess()` once ate the spaces before `!!` in wikitable headers. That is
+  fixed now, but if a table header ever comes out as `! Bereich!! Höhe`,
+  check `_SPACE_BEFORE_PUNCT_RE` in `src/articles/postprocess.py`.
 - Deterministic rules you find yourself applying over and over belong in
   `src/articles/postprocess.py` — suggest moving them there (see `AGENTS.md`).

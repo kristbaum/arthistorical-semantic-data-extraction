@@ -41,7 +41,7 @@ for path in iter_formatted_articles(args.band):
 - `parse_article_file(text)` — splits the `{{Artikel …}}` template from the body.
 
 Current consumers: `src/run_pass2.py`, `src/articles/format_articles.py`,
-`src/articles/check_headers.py`, `src/format/postprocess.py`.
+`src/articles/check_headers.py`, `src/articles/postprocess.py`.
 
 ## Script conventions
 
@@ -55,11 +55,11 @@ Current consumers: `src/run_pass2.py`, `src/articles/format_articles.py`,
   - `articles` package: `python -m src.articles.check_headers …` (relative
     imports, `from .helpers import …`).
   - A standalone script in `src/format/` that needs the helpers must add `src/`
-    to `sys.path` first — see `main()` in `src/format/postprocess.py`.
+    to `sys.path` first — see `main()` in `src/articles/postprocess.py`.
 
 ## Deterministic vs. LLM formatting
 
-`src/format/postprocess.py` holds the **deterministic** MediaWiki cleanups
+`src/articles/postprocess.py` holds the **deterministic** MediaWiki cleanups
 (spaces before punctuation, blank-line normalisation, one blank line around
 `== headings ==`). Anything needing language judgment stays in the LLM prompt in
 `run_pass2.py`. Keep that split: if a rule can be a regex/line transform, move it
@@ -69,8 +69,8 @@ to `postprocess.py` rather than asking the model.
 the whole formatted tree:
 
 ```bash
-python src/format/postprocess.py                 # dry-run, all bands
-python src/format/postprocess.py --band Band01 --apply
+python src/articles/postprocess.py                 # dry-run, all bands
+python src/articles/postprocess.py --band Band01 --apply
 ```
 
 When run standalone it normalises only the article **body**; the

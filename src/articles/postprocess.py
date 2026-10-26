@@ -11,16 +11,18 @@ Can also be run standalone to reformat every article in the formatted folder
 (the article template is left untouched; only the body is normalised):
 
     # dry-run over all bands
-    python src/acticles/postprocess.py
+    python src/articles/postprocess.py
 
     # write changes for one band
-    python src/acticles/postprocess.py --band Band01 --apply
+    python src/articles/postprocess.py --band Band01 --apply
 """
 
 import re
 from pathlib import Path
 
-_SPACE_BEFORE_PUNCT_RE = re.compile(r"[ \t]+([,.;:!?])")
+# "!!" is the wikitable header-cell separator ("! Bereich !! Höhe"), not
+# punctuation, so a "!" followed by another "!" is left alone.
+_SPACE_BEFORE_PUNCT_RE = re.compile(r"[ \t]+([,.;:?]|!(?!!))")
 
 
 def is_heading(line: str) -> bool:
@@ -76,7 +78,7 @@ def main() -> None:
     import argparse
     import sys
 
-    # Make src/ importable when run as `python src/format/postprocess.py`.
+    # Make src/ importable when run as `python src/articles/postprocess.py`.
     src_dir = Path(__file__).resolve().parent.parent
     if str(src_dir) not in sys.path:
         sys.path.insert(0, str(src_dir))
