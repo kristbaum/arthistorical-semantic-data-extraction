@@ -92,11 +92,20 @@ only where they differ, restricted to the article's own text:
   `[A4]` vs `[Al]`). Known harmless differences are already filtered out:
   case, spacing, dash and `×` style, rejoined hyphens, and Transkribus' letter
   for a subscript digit when it agrees with Surya (`Ai` = A1, `Az` = A2,
-  `As` = A3/A5).
+  `As` = A3/A5). Disagreements the article already resolved the way
+  Transkribus reads them are only counted in the `TOTAL` line. Each shown
+  line ends with `(article = surya)` — check whether Transkribus is right — or
+  `(article: other)` — the article follows neither OCR, often a pass-1 slip
+  (a changed year, an inserted word): look at it first.
 - `BLOCK` — a longer stretch only one OCR has, or that the two read
   differently: a caption read into the text, a skipped line, a reversed
   column. This is a layout question.
-- `ORDER` — the same text in a different reading order; normally ignore.
+- `ORDER` — the same text in a different reading order (Transkribus often
+  interleaves the two columns line by line); ignore.
+
+The article has usually been built from Surya's reading order, so a page with
+many `ORDER` stretches and a few `BLOCK`s is normal and not a reason to open
+the scan by itself.
 
 Read only the passages you need to resolve; do not re-transcribe the article.
 When both OCRs agree against the formatted text, follow the OCRs — the
@@ -155,8 +164,17 @@ the caption the article currently has. It writes per page into
   and labelled `img001`, `img002` … Read it when an image's position in the
   text is unclear (§3.11) or for a layout question (§2.1).
 
-A strip with no text under the image means the caption is beside or above it
-or the image has none — look at the overview before deciding.
+Reading the sheet:
+- The caption is the short line in small type that starts with the identifier
+  (`A₂ Johannes`). A strip may also catch a line of body text or a page
+  number below it — ignore those.
+- A strip with no text means the caption is beside or above the image, the
+  image shares a caption with its neighbour (two medallions side by side under
+  one `B₁₋₂ Verkündigung`), or it has none (floor plans) — look at the
+  overview before deciding.
+- In the overview, look for **pictures without a red box**: Surya missed them
+  (Band01 Aich p010: the `A₁ Matthäus` medallion has no crop). They cannot be
+  added — log `MISSING`.
 
 ---
 
@@ -215,7 +233,10 @@ becomes a table.
   `ORNAMENTMALEREI`) becomes `=== Embleme ===` (title case, no period).
 
 ### 3.5 Quellen und Literatur as bullets (pass-2 rule 5, extended)
-One `* ` bullet per entry. Unprinted sources (archives) come first, as in the
+One `* ` bullet per entry. `finalize.py` puts a bullet on every line of the
+section, so you only need to split run-together entries onto their own lines
+(and leave label lines like `Zum Bauwerk:` alone). Unprinted sources
+(archives) come first, as in the
 book. Entry boundaries: an author name (`Gruber, Max, …`), a known short
 title (`Mayer-Westermayer`, `KDB`, `Thieme-Becker`, `Dehio`), or an archive
 siglum (`BHStA`, `StAM`, `AEM`, `PfA`, `HStAM`, `BayHStA`, `KAM`, `StadtA`).
@@ -277,9 +298,12 @@ Chronograms are deliberate mixed case (`P. FeLIXpharMaCopaeVs`) — leave them.
 
 ### 3.11 Images: captions, position, links (new)
 
-Many captions were lost or garbled by the OCR (`Joseph W`, or none at all).
-They carry the identifier that ties an image to its description, so restore
-every one from the `…_captions.png` sheet (§2.2).
+Over half the images in the corpus have no caption, and existing captions
+are often **on the wrong image**: Surya matched them to the nearest crop, so
+whole runs are shifted by one (Band01 Aich: the caption of img002 sat on
+img001, that of img004 on img003). Captions carry the identifier that ties an
+image to its description, so check **every** caption against the
+`…_captions.png` sheet (§2.2) — the present ones too, not just the missing.
 
 **Captions**
 - Write the caption as printed under the image, after the last `|`:
@@ -287,8 +311,11 @@ every one from the `…_captions.png` sheet (§2.2).
   Apply the body rules: subscripts (`A1` → `A<sub>1</sub>`, ranges
   `D<sub>1–4</sub>`), dashes, OCR fixes. Keep the book's wording and case
   (`St. Joseph`, not the caps title of the entry).
-- A wrong caption (`Joseph W`) is replaced by the printed one; a missing one is
-  added. Each change is a `CAPTION` line in the report.
+- A wrong caption (`Joseph W`, or another image's caption) is replaced by the
+  printed one; a missing one is added. Each change is a `CAPTION` line in the
+  report.
+- One printed caption under two adjacent images goes on the image it is
+  printed under; the other gets none (`NOCAPTION … shares caption`).
 - If the strip shows no caption and the overview shows none either, leave the
   image without one and log `NOCAPTION`. Never invent a caption from the
   description text.
@@ -300,9 +327,15 @@ every one from the `…_captions.png` sheet (§2.2).
   paragraph of that entry** (`[[File:…|thumb|A<sub>2</sub> Gericht]]` after
   the `A<sub>2</sub> Ein Engel …` paragraph). Not after a paragraph that only
   mentions the identifier.
+- An entry can run over several paragraphs (entry A of a large fresco often
+  does); its images go after the last of them, before the next entry.
 - Several images for one entry stay together, in file order. A group heading
   entry (`A<sub>1–4</sub> ALLEGORISCHE DARSTELLUNGEN`) does not pull the
-  single images — each goes to its own entry.
+  single images — each goes to its own entry. If the single fields have no
+  entries of their own (`A<sub>1–4</sub> EVANGELISTENBILDER … Matthäus (A1),
+  Johannes (A2) …`), their images go after the group paragraph.
+- When the article has a separate `== Ikonographie ==` section repeating the
+  entries, images go to the entry in `== Beschreibung ==`.
 - Images without an identifier (general views, plans, details) stay where the
   book prints them: after the paragraph that precedes them in reading order
   on the page (use the overview). Never between two halves of a sentence.
@@ -311,14 +344,15 @@ every one from the `…_captions.png` sheet (§2.2).
   the end of the body; log it as `FOREIGN`.
 - Entries marked `(keine Abbildung)` have no image; that is expected.
 
-**Links** — don't type them. `finalize.py` (§4 step 3) builds them from the
+**Links** — don't type them. `finalize.py` (§4 step 4) builds them from the
 captions: every entry head in the Beschreibung section and every subscripted
 identifier in the body (`in A<sub>2</sub>`) becomes
 `[[:File:Band01_chunk001_p011_img002.jpg|A<sub>2</sub>]]` — a link to the
-image's file page. So the captions must be right first. Plain letters outside
-entry heads (`Fresko B`, often another building), ranges and identifiers
-without an image stay unlinked. If an article already contains such links,
-leave them.
+image's file page. A field with several images links to its first full view,
+not to an `Ausschnitt`/`Detail`. Plain letters outside entry heads
+(`Fresko B`, often another building), ranges and identifiers without an image
+stay unlinked. Links are rebuilt from the captions on every `finalize.py`
+run, so after a caption fix just run it again.
 
 ---
 
@@ -330,19 +364,40 @@ leave them.
    the diff context is too short.
 2. Decide which spots need the scan by §2.1 — usually none or a few per
    article — and look at those (overview first).
-3. Edit the body by rules 3.1–3.11. Write the result to the
-   target path. To keep the template byte-identical, copy it rather than
-   retyping it:
+3. Edit the body by rules 3.1–3.11 as a **list of exact replacements**
+   applied to a copy of the original — never retype the article. Writing
+   out the cleaned text is the largest cost of the whole skill (output
+   tokens); the formatted text is already mostly right, so the edits are a
+   fraction of its length. Typical edits: move an image line (delete it in
+   one edit, insert it after its entry in another), fix a caption, rejoin a
+   sentence split by an image, bold an entry title, subscript identifiers,
+   build the Maße table.
    ```bash
-   sed -n '1,/^}}$/p' "$SRC" > "$TARGET"   # template only
-   cat >> "$TARGET" <<'EOF'
-   
-   …cleaned body…
+   uv run python .claude/skills/clean-cbd-skill/scripts/apply_edits.py \
+       "$SRC" "$TARGET" - <<'EOF'
+   <<<
+   Kapitelle und
+
+   [[File:Band01_chunk008_p010_img001.jpg|thumb|A Ausschnitt Westseite: Sturz der Häretiker]]
+
+   Balustraden
+   ===
+   Kapitelle und Balustraden
+   >>>
+   <<<
+   A MARIA VOM SIEGE – TRIUMPH ÜBER SÜNDE UND SÜNDENSTRAFEN Das
+   ===
+   A '''MARIA VOM SIEGE – TRIUMPH ÜBER SÜNDE UND SÜNDENSTRAFEN''' Das
+   >>>
    EOF
    ```
+   Each `old` must occur exactly once (add context until it does); edits
+   apply in order; if any fails, nothing is written — fix that edit and run
+   all again. The template is never touched. Only an article that needs
+   rewriting throughout (a raw, unjoined OCR text) is written out in full.
 4. Apply the deterministic cleanups (spaces before punctuation, blank lines,
-   one blank line around `== headings ==`, trailing newline) and build the
-   identifier links from the captions (§3.11):
+   one blank line around `== headings ==`, bibliography bullets, trailing
+   newline) and build the identifier links from the captions (§3.11):
    ```bash
    uv run python .claude/skills/clean-cbd-skill/scripts/finalize.py "$TARGET"
    ```
@@ -405,6 +460,17 @@ number of report entries.
   not on the wiki cannot be located — log it as `LOWMATCH`.
 - Spread scans are landscape (`page L`/`R`); a few chunks have single-page
   scans (portrait, `page -`).
+- Pass-1 slips to look for (they show up as `(article: other)` in the diff):
+  inserted connector words before an entry head (Band01 Aich:
+  »Dementsprechend A MARIA VOM SIEGE …« — not in the book), changed years
+  (Adelshausen »1695« for printed »1795«), normalised names in quotations
+  (signature »Mathee Gindter« made »Mattheus«).
+- A page break inside a hyphenated word can come out as a finished word plus a
+  stray fragment at the top of the next paragraph:
+  »… bezeichnen.« / »nen (Ripa, s. v. perfidia); …« → »… bezeichnen (Ripa …«.
+  A paragraph that starts with a lowercase fragment is the sign.
+- `ocr_diff.py` output is large for long multi-page articles (~1–2k tokens
+  per page); read it once and work from the `(article: other)` lines first.
 - `postprocess()` once ate the spaces before `!!` in wikitable headers. That is
   fixed now, but if a table header ever comes out as `! Bereich!! Höhe`,
   check `_SPACE_BEFORE_PUNCT_RE` in `src/articles/postprocess.py`.

@@ -12,8 +12,11 @@ as  [[:File:Band01_chunk001_p011_img002.jpg|A<sub>2</sub>]]
 
 Not linked: plain letters outside entry heads (`Fresko B` often refers to
 another building), ranges (`A<sub>1–4</sub>`), identifiers without an image,
-captions, headings, table rows. Already linked identifiers are left alone, so
-the script is idempotent. Used by finalize.py; standalone for a dry run:
+captions, headings, table rows. Existing [[:File:…|…]] links are removed and
+rebuilt on every run, so links always follow the current captions (fix a
+caption, run finalize.py again). For a field with several images the link goes
+to the first full view, not an »Ausschnitt«/»Detail«. Used by finalize.py;
+standalone for a dry run:
 
     uv run python .claude/skills/clean-cbd-skill/scripts/link_identifiers.py FILE.wiki
 """
@@ -26,11 +29,13 @@ _IDENT = r"[A-Z](?:<sub>\d+</sub>)?"
 _HEAD_RE = re.compile(rf"^({_IDENT})(?=\s+(?:'''|\(|[A-ZÄÖÜ]))")
 _SUB_RE = re.compile(r"(?<![\w:|])([A-Z]<sub>\d+</sub>)(?![\w–-])")
 _LINK_OR_FILE_RE = re.compile(r"\[\[[^\]]*\]\]")
+_DETAIL_RE = re.compile(r"\b(?:Ausschnitt|Detail|Teilansicht)\b")
 
 
 def image_map(body: str) -> dict[str, str]:
-    """identifier → first file whose caption starts with it."""
-    out: dict[str, str] = {}
+    """identifier → file whose caption starts with it: the first full view,
+    an »Ausschnitt«/»Detail« only when the field has no full view."""
+    out: dict[str, tuple[str, bool]] = {}
     for line in body.splitlines():
         line = line.strip()
         if not re.match(r"\[\[(?:File|Datei):", line):
@@ -41,8 +46,10 @@ def image_map(body: str) -> dict[str, str]:
             len(parts) == 2 and parts[1].strip() not in ("thumb", "mini")) else ""
         m = re.match(rf"({_IDENT})(?:\s|$)", caption)
         if m:
-            out.setdefault(m.group(1), fname)
-    return out
+            detail = bool(_DETAIL_RE.search(caption))
+            if m.group(1) not in out or (out[m.group(1)][1] and not detail):
+                out[m.group(1)] = (fname, detail)
+    return {ident: v[0] for ident, v in out.items()}
 
 
 def _link(ident: str, fname: str) -> str:
@@ -64,7 +71,12 @@ def _sub_links(text: str, images: dict[str, str]) -> str:
     )
 
 
+_OLD_LINK_RE = re.compile(r"\[\[:(?:File|Datei):[^|\]]*\|([^\]]*)\]\]")
+
+
 def link_body(body: str) -> str:
+    # rebuild from scratch, so links always follow the current captions
+    body = _OLD_LINK_RE.sub(r"\1", body)
     images = image_map(body)
     if not images:
         return body

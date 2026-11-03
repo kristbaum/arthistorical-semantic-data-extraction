@@ -184,7 +184,10 @@ def write_captions(scan: Image.Image, boxes: dict[str, tuple], path: Path) -> No
         # a little wider than the image: captions may start left of it
         sx1 = max(0, x1 - (x2 - x1) // 10)
         sx2 = min(scan.width, x2 + (x2 - x1) // 10)
-        strip = scan.crop((sx1, y2, sx2, min(scan.height, y2 + strip_h))).convert("RGB")
+        # start a little above the box: some crops reach past the picture
+        # and would cut the caption's top off
+        top = max(0, y2 - strip_h // 3)
+        strip = scan.crop((sx1, top, sx2, min(scan.height, y2 + strip_h))).convert("RGB")
         if strip.width > 1400:
             strip = strip.resize((1400, round(strip.height * 1400 / strip.width)))
         strips.append((label, strip))
