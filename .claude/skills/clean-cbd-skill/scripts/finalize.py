@@ -2,8 +2,10 @@
 """Apply the deterministic cleanups to a hand-cleaned article, in place.
 
 Runs `postprocess()` from src/articles/postprocess.py over the body (spaces
-before punctuation, blank lines, one blank line around == headings ==),
-leaves the {{Artikel …}} template untouched, and ensures one trailing newline.
+before punctuation, blank lines, one blank line around == headings ==), then
+links field identifiers to their images (link_identifiers.py), leaves the
+{{Artikel …}} template untouched, and ensures one trailing newline.
+Run it again after fixing captions — it is idempotent.
 
 Usage:
     python .claude/skills/clean-cbd-skill/scripts/finalize.py \\
@@ -19,6 +21,9 @@ sys.path.insert(0, str(REPO_ROOT / "src"))
 from articles.helpers import parse_article_file  # noqa: E402
 from articles.postprocess import postprocess  # noqa: E402
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from link_identifiers import link_body  # noqa: E402
+
 
 def main() -> None:
     if len(sys.argv) < 2:
@@ -27,7 +32,7 @@ def main() -> None:
         path = Path(arg)
         text = path.read_text(encoding="utf-8")
         template_block, _fields, body = parse_article_file(text)
-        new = template_block.rstrip("\n") + "\n\n" + postprocess(body).strip("\n") + "\n"
+        new = template_block.rstrip("\n") + "\n\n" + link_body(postprocess(body)).strip("\n") + "\n"
         if new != text:
             path.write_text(new, encoding="utf-8")
             print(f"  [FINALIZED] {path}")

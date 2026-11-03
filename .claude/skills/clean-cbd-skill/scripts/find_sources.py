@@ -13,7 +13,7 @@ For every page it prints the paths of:
   surya   data/extracted/{Band}_chunk{NNN}/wiki/p{NNN}.wiki
   trkb    data/extracted/{Band}_chunk{NNN}/add_txt/{NNNN}_p{NNN}.txt
   pass1   data/extracted/{Band}_chunk{NNN}/pass1/p{NNN}.wiki
-  scan    data/scans/{Band}_chunk{NNN}/p{NNN}.{png,jpg,…}  (if present)
+  scan    data/extracted/{Band}_chunk{NNN}/pages/{Band}_chunk{NNN}_p{NNN}.jpg (if present)
 
 With --grep, it also prints the lines of every source page that match a
 regex (case-insensitive), to compare the two OCR readings of a doubtful word.
@@ -35,7 +35,7 @@ sys.path.insert(0, str(REPO_ROOT / "src"))
 from articles.helpers import parse_article_file  # noqa: E402
 
 EXTRACTED = REPO_ROOT / "data" / "extracted"
-# Page scans: data/scans/{Band}_chunk{NNN}/p{NNN}.<ext>; override with CBDD_SCAN_DIR.
+# Page scans: data/extracted/{chunk}/pages/{chunk}_p{NNN}.jpg; fallback CBDD_SCAN_DIR/{chunk}/p{NNN}.<ext>
 SCANS = Path(os.environ.get("CBDD_SCAN_DIR", REPO_ROOT / "data" / "scans"))
 SCAN_EXTS = (".png", ".jpg", ".jpeg", ".tif", ".tiff", ".webp")
 
@@ -66,12 +66,16 @@ def find_pages(band: str, chunk: int, von: int, bis: int) -> list[tuple[Path, st
     return hits
 
 
+def find_scan(cdir: Path, stem: str) -> Path | None:
+    """Rendered page: data/extracted/{chunk}/pages/{chunk}_{pNNN}.jpg, or CBDD_SCAN_DIR."""
+    candidates = [cdir / "pages" / f"{cdir.name}_{stem}{ext}" for ext in SCAN_EXTS]
+    candidates += [SCANS / cdir.name / f"{stem}{ext}" for ext in SCAN_EXTS]
+    return next((p for p in candidates if p.exists()), None)
+
+
 def source_paths(cdir: Path, stem: str) -> dict[str, Path | None]:
     num = int(stem[1:])
-    scan = next(
-        (p for ext in SCAN_EXTS if (p := SCANS / cdir.name / f"{stem}{ext}").exists()),
-        None,
-    )
+    scan = find_scan(cdir, stem)
     return {
         "surya": cdir / "wiki" / f"{stem}.wiki",
         "trkb": cdir / "add_txt" / f"{num:04d}_{stem}.txt",

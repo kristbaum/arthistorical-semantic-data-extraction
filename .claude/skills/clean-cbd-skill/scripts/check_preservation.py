@@ -8,6 +8,7 @@ content. This script reports what a reviewer should look at:
   - [[File:…]] targets that are missing, added or reordered
   - numbers (years, measurements, page numbers) lost or added
   - words lost or added, ignoring markup, punctuation, hyphenation and case
+    (identifier links [[:File:…|A<sub>2</sub>]] count as their label only)
   - the body shrinking or growing by more than --max-ratio
 
 Usage:
@@ -41,11 +42,20 @@ _WORD_RE = re.compile(r"[^\W\d_]+")
 _HYPHEN_GAP_RE = re.compile(r"(\w)[-¬]\s+(\w)")
 
 
+# [[:File:X.jpg|A<sub>2</sub>]] identifier links -> their label
+_FILE_LINK_RE = re.compile(r"\[\[:(?:File|Datei):[^|\]]*\|([^\]]*)\]\]")
+
+
+def _unlink(body: str) -> str:
+    return _FILE_LINK_RE.sub(r"\1", body)
+
+
 def _strip_markup(body: str) -> str:
-    text = _FILE_RE.sub(" ", body)
+    text = _FILE_RE.sub(" ", _unlink(body))
     text = re.sub(r"\[\[(?:File|Datei):[^\]]*\]\]", " ", text)
     text = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
     text = _TAG_RE.sub(" ", text)
+    text = re.sub(r"^\{\|.*$", " ", text, flags=re.M)  # table start + attributes
     text = re.sub(r"'{2,}|={2,}|\{\||\|\}|\|-|!!|\|\||^[*!|]", " ", text, flags=re.M)
     return _HYPHEN_GAP_RE.sub(r"\1\2", text)
 
@@ -55,7 +65,7 @@ def _words(body: str) -> Counter:
 
 
 def _numbers(body: str) -> Counter:
-    text = _FILE_RE.sub(" ", body)
+    text = _FILE_RE.sub(" ", _unlink(body))
     text = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
     return Counter(_NUMBER_RE.findall(text))
 

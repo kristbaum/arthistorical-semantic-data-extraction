@@ -1,6 +1,6 @@
 ---
 name: clean-cbd-skill
-description: "Use when asked to clean, correct, proofread or finish formatting CbDD articles (Corpus der barocken Deckenmalerei) from data/formatted/ — one article, a list of lemmas, or a whole band — and write the result to a target folder. Goes beyond the run_pass2 LLM prompt: fixes OCR errors by cross-checking both OCR sources, removes running headers and page-break debris, rejoins split sentences, normalises section labels, Befund tables, identifiers (A<sub>1</sub>), bibliographies and captions, and verifies nothing was lost. Trigger on 'clean this article', 'fix Band05', 'pass 2 by hand', 'proofread the CbDD text'."
+description: "Use when asked to clean, correct, proofread or finish formatting CbDD articles (Corpus der barocken Deckenmalerei) from data/formatted/ — one article, a list of lemmas, or a whole band — and write the result to a target folder. Goes beyond the run_pass2 LLM prompt: fixes OCR errors by cross-checking both OCR sources, removes running headers and page-break debris, rejoins split sentences, normalises section labels, Befund tables, identifiers (A<sub>1</sub>) and bibliographies, locates every image on the page scan to fix its position and restore lost captions, links identifiers to their images, and verifies nothing was lost. Opens the scan only where the OCRs contradict each other or the layout is in doubt. Trigger on 'clean this article', 'fix Band05', 'pass 2 by hand', 'proofread the CbDD text'."
 ---
 
 # Clean CbDD articles
@@ -51,7 +51,8 @@ page-level sources the body was merged from:
 | Surya OCR (wiki) | `data/extracted/{Band}_chunk{NNN}/wiki/p{NNN}.wiki` | good layout, images, `†`/`*` usually kept; drops bold labels, `<!-- header: … -->` comments mark running heads |
 | Transkribus OCR | `data/extracted/{Band}_chunk{NNN}/add_txt/{NNNN}_p{NNN}.txt` | custom-trained model, better letters and punctuation; keeps line breaks, `¬` hyphens, page header in line 1 |
 | LLM pass 1 | `data/extracted/{Band}_chunk{NNN}/pass1/p{NNN}.wiki` | merged result — **the usual origin of LLM slips** (e.g. a changed year) |
-| Page scan | `data/scans/{Band}_chunk{NNN}/p{NNN}.{png,jpg,…}` | the printed page itself; the final authority (see §2.1) |
+| Page scan | `data/extracted/{Band}_chunk{NNN}/pages/{Band}_chunk{NNN}_p{NNN}.jpg` | the printed spread itself, 300 dpi; the final authority — but expensive to read, see §2.1 |
+| Image crops | wiki `File:{Band}_chunk{NNN}_p{NNN}_img{NNN}.jpg`, cached in `data/cache/wiki_images/` | what each `[[File:…]]` shows; located on the scan by `page_images.py` (§2.2) |
 
 `{NNNN}` is the same page number as `p{NNN}`, padded to 4 (`0010_p010.txt`).
 
@@ -80,35 +81,82 @@ as letters (`Ai`/`Al` = A1, `Az` = A2, `As` = A3 or A5); captions appear as
 loose lines among the text. Surya quirks: lost periods (`St Martin`), `1.30`
 for `1,30`, truncated words (`woh`).
 
+**Get the disagreements, don't read both OCR pages in full:**
+```bash
+uv run python .claude/skills/clean-cbd-skill/scripts/ocr_diff.py \
+    "data/formatted/{Band}/{Lemma}.wiki"
+```
+It aligns Surya against Transkribus for every page of the article and prints
+only where they differ, restricted to the article's own text:
+- `WORD` — a small disagreement with context (`[1.30]` vs `[1,30]`,
+  `[A4]` vs `[Al]`). Known harmless differences are already filtered out:
+  case, spacing, dash and `×` style, rejoined hyphens, and Transkribus' letter
+  for a subscript digit when it agrees with Surya (`Ai` = A1, `Az` = A2,
+  `As` = A3/A5).
+- `BLOCK` — a longer stretch only one OCR has, or that the two read
+  differently: a caption read into the text, a skipped line, a reversed
+  column. This is a layout question.
+- `ORDER` — the same text in a different reading order; normally ignore.
+
 Read only the passages you need to resolve; do not re-transcribe the article.
-When the two OCRs disagree and neither is clearly right, check the scan
-(§2.1); without a scan, keep the formatted text and log the spot (see §5).
 When both OCRs agree against the formatted text, follow the OCRs — the
 formatted text then carries a pass-1 slip — and log it if it is a number or
-name.
+name. When the two OCRs disagree, decide from context first (§2.1).
 
-### 2.1 Checking the page scan
+### 2.1 When to look at the page scan
 
-Scans of the printed pages will be placed in `data/scans/` (one folder per
-chunk, one image per PDF page, named like the page: `p010.png`). Another
-location can be set with the environment variable `CBDD_SCAN_DIR`.
-`find_sources.py` shows the scan path in its `scan` line, or `—` when there is
-none yet.
+Reading a whole spread costs about as many tokens as the article text itself,
+so the scan is **not** checked by default. Open it only when one of these
+holds and context cannot settle it:
 
-When a scan exists:
-1. Open it with the Read tool (it displays images). The image holds both
-   printed pages of the spread, two columns each; find the passage by its
-   neighbouring words or by the image next to it.
-2. Use it to settle what the OCRs cannot: numbers and dates, the subscript in
-   `A1`/`A4`, punctuation at line ends, `†`/`*`, missing captions, garbled
-   titles (`S./JOSEPH`), a word only one OCR reads.
+1. **The OCRs contradict each other on something that matters** — a number,
+   date, measurement, name, the subscript of an identifier (`A4` vs `Al`),
+   `†`/`*`, a word only one OCR has, punctuation that changes the meaning.
+   Not for disagreements where one reading is plainly a non-word
+   (`Bildthena`, `MDK`) — fix those from the other OCR without looking.
+2. **The layout is in question** — a `BLOCK` that touches the article's text,
+   a sentence that seems to continue elsewhere, an entry whose order differs
+   between the OCRs and the formatted text, text that may belong to the
+   neighbouring article, a garbled caps title both OCRs share (`S./JOSEPH`).
+
+Captions and image positions are always checked, but through the cheap
+`page_images.py` outputs (§2.2), not the full scan.
+
+How to look:
+1. First read the **overview** from §2.2 (`…_overview.jpg`, about half the
+   cost of the full scan) — often enough for layout questions, and it
+   shows which half and column the passage is in.
+2. Only for small print (subscripts, `†`, punctuation, digits) read the full
+   scan at `data/extracted/{chunk}/pages/{chunk}_p{NNN}.jpg`. The image holds
+   both printed pages of the spread, two columns each.
 3. The scan wins over both OCRs. Fix the text to what is printed and write
    `SCAN pNNN: …` in the report so the reviewer knows it was checked.
-4. Check the scan only for the doubtful spots — don't proofread the whole
-   page against it.
+4. Check only the doubtful spots — never proofread the whole page against it.
 
-If there is no scan, nothing else changes: decide from the OCRs and log
-doubtful spots as before.
+`find_sources.py` shows the scan path in its `scan` line, or `—` when there is
+none. Without a scan, decide from the OCRs and log doubtful spots as before.
+
+### 2.2 Locating the images (every article with `[[File:…]]`)
+
+```bash
+uv run python .claude/skills/clean-cbd-skill/scripts/page_images.py \
+    "data/formatted/{Band}/{Lemma}.wiki"
+```
+It downloads the crops the article embeds from the wiki, finds each one on its
+page scan (score ≥ 0.6 is a sure match; anything lower is flagged), and
+prints per image the printed page (`L`/`R` half of the spread), its box and
+the caption the article currently has. It writes per page into
+`data/cache/page_images/`:
+
+- `{chunk}_{pNNN}_captions.png` — **always read this.** One strip per image:
+  the printed line(s) directly under it at full resolution — the caption as
+  the book prints it. Small and cheap.
+- `{chunk}_{pNNN}_overview.jpg` — the spread downscaled with every image boxed
+  and labelled `img001`, `img002` … Read it when an image's position in the
+  text is unclear (§3.11) or for a layout question (§2.1).
+
+A strip with no text under the image means the caption is beside or above it
+or the image has none — look at the overview before deciding.
 
 ---
 
@@ -180,9 +228,7 @@ Remove the author initials at the very end (`C.B.`, `H.B.`). The authors are
 in the template already.
 
 ### 3.7 Keep existing markup (pass-2 rule 7)
-- `[[File:…]]`: filename and options never change. Caption text (after the
-  last `|`) may get the same OCR, dash and `<sub>` fixes as the body
-  (`D Der Teich Bethesda D1-4` → `D Der Teich Bethesda D<sub>1–4</sub>`).
+- `[[File:…]]`: filename and `thumb` never change. The caption follows §3.11.
 - Do not rename `== headings ==` except for plain OCR errors
   (`== Befnnd ==` → `== Befund ==`). The book's own titles (`== Beschreibung ==`
   in early bands vs `== Beschreibung und Ikonographie ==`) stay as they are.
@@ -196,7 +242,7 @@ in the template already.
   (`… kein symbolischer Verweis ASCHERING vorhanden ist` → `… Verweis
   vorhanden ist`). Also delete bare page numbers and footer lines.
 - **Sentences split by an image or page break**: rejoin them and move the
-  `[[File:…]]` line to the next paragraph boundary. Keep image order.
+  `[[File:…]]` line to where §3.11 puts it.
 - **Citation split across lines**: `Luc: 10. U` + `34. wiedergegebene` →
   `Luc. 10,34 wiedergegebene` — verify against the OCR page.
 - **Text from a neighbouring article** (the head of the next lemma, or the
@@ -229,15 +275,62 @@ Chronograms are deliberate mixed case (`P. FeLIXpharMaCopaeVs`) — leave them.
   misreading. Even an implausible printed date stays as printed — log it
   instead (Band01 Adelshausen: »Fresken von 1795« by Anwander, †1770).
 
+### 3.11 Images: captions, position, links (new)
+
+Many captions were lost or garbled by the OCR (`Joseph W`, or none at all).
+They carry the identifier that ties an image to its description, so restore
+every one from the `…_captions.png` sheet (§2.2).
+
+**Captions**
+- Write the caption as printed under the image, after the last `|`:
+  `[[File:Band01_chunk001_p011_img001.jpg|thumb|A<sub>1</sub> Himmel]]`.
+  Apply the body rules: subscripts (`A1` → `A<sub>1</sub>`, ranges
+  `D<sub>1–4</sub>`), dashes, OCR fixes. Keep the book's wording and case
+  (`St. Joseph`, not the caps title of the entry).
+- A wrong caption (`Joseph W`) is replaced by the printed one; a missing one is
+  added. Each change is a `CAPTION` line in the report.
+- If the strip shows no caption and the overview shows none either, leave the
+  image without one and log `NOCAPTION`. Never invent a caption from the
+  description text.
+- A caption that is unreadable in the strip: keep what the article has (or
+  nothing) and log `UNSURE`.
+
+**Position**
+- An image whose caption starts with an identifier goes directly **after the
+  paragraph of that entry** (`[[File:…|thumb|A<sub>2</sub> Gericht]]` after
+  the `A<sub>2</sub> Ein Engel …` paragraph). Not after a paragraph that only
+  mentions the identifier.
+- Several images for one entry stay together, in file order. A group heading
+  entry (`A<sub>1–4</sub> ALLEGORISCHE DARSTELLUNGEN`) does not pull the
+  single images — each goes to its own entry.
+- Images without an identifier (general views, plans, details) stay where the
+  book prints them: after the paragraph that precedes them in reading order
+  on the page (use the overview). Never between two halves of a sentence.
+- An image whose entry is not in this article (it shows a neighbouring
+  article's fresco) stays in the file — the image set must not change — at
+  the end of the body; log it as `FOREIGN`.
+- Entries marked `(keine Abbildung)` have no image; that is expected.
+
+**Links** — don't type them. `finalize.py` (§4 step 3) builds them from the
+captions: every entry head in the Beschreibung section and every subscripted
+identifier in the body (`in A<sub>2</sub>`) becomes
+`[[:File:Band01_chunk001_p011_img002.jpg|A<sub>2</sub>]]` — a link to the
+image's file page. So the captions must be right first. Plain letters outside
+entry heads (`Fresko B`, often another building), ranges and identifiers
+without an image stay unlinked. If an article already contains such links,
+leave them.
+
 ---
 
 ## 4. Procedure per article
 
-1. Read the article and run `find_sources.py` on it (§2) to get the page
-   list. Read the Surya and Transkribus pages of the article once — short
-   articles fit on 2–3 pages — and note the doubtful spots.
-2. Edit the body by rules 3.1–3.10; resolve doubtful spots with
-   `find_sources.py --grep` and the scan (§2.1). Write the result to the
+1. Read the article. Run `ocr_diff.py` (§2) for the doubtful spots and, if
+   the article has images, `page_images.py` (§2.2) and read the captions
+   sheet. `find_sources.py --grep` gives the full readings of one spot when
+   the diff context is too short.
+2. Decide which spots need the scan by §2.1 — usually none or a few per
+   article — and look at those (overview first).
+3. Edit the body by rules 3.1–3.11. Write the result to the
    target path. To keep the template byte-identical, copy it rather than
    retyping it:
    ```bash
@@ -247,12 +340,13 @@ Chronograms are deliberate mixed case (`P. FeLIXpharMaCopaeVs`) — leave them.
    …cleaned body…
    EOF
    ```
-3. Apply the deterministic cleanups (spaces before punctuation, blank lines,
-   one blank line around `== headings ==`, trailing newline):
+4. Apply the deterministic cleanups (spaces before punctuation, blank lines,
+   one blank line around `== headings ==`, trailing newline) and build the
+   identifier links from the captions (§3.11):
    ```bash
    uv run python .claude/skills/clean-cbd-skill/scripts/finalize.py "$TARGET"
    ```
-4. Verify:
+5. Verify:
    ```bash
    uv run python .claude/skills/clean-cbd-skill/scripts/check_preservation.py \
        "data/formatted/{Band}/{Lemma}.wiki" "{target}/{Band}/{Lemma}.wiki"
@@ -263,7 +357,9 @@ Chronograms are deliberate mixed case (`P. FeLIXpharMaCopaeVs`) — leave them.
    `FAIL` (template changed, image lost/added, length off by >25 %) must be
    fixed. For `CHECK` lines, every lost or added word/number must be
    explainable by a rule above (removed header, signature, rejoined hyphen,
-   OCR fix). Anything else is a mistake — restore it.
+   OCR fix, restored caption). Anything else is a mistake — restore it.
+   `WARN images reordered` is expected when §3.11 moved images — confirm each
+   move follows a caption identifier or the printed reading order.
 
 ---
 
@@ -277,6 +373,10 @@ a human must look at:
 - CHECK p008: »F<sub>3</sub> ist kein Emblem« — the book probably means F<sub>4</sub>; left as printed.
 - UNSURE p007: »Luc: 10. U 34.« read as »Luc. 10,34«.
 - FOREIGN: last paragraph »G1 … Misere.« may belong to the next article.
+- SCAN p008: »A<sub>4</sub>« (Surya) vs »Al« (Transkribus) — scan shows A<sub>4</sub>.
+- CAPTION p011 img003: »Joseph W« → »W<sub>1</sub> St. Joseph« (from scan).
+- NOCAPTION p012 img002: no caption printed.
+- LOWMATCH p013 img001: not found on the scan (score 0.41) — position not checked.
 ```
 
 Never put such notes into the article itself. Finish with a short summary to
@@ -295,10 +395,16 @@ number of report entries.
 - `== Quellen und Literatur ==` in early bands, where the book prints just
   `Literatur`, comes from an earlier normalisation step — keep it, don't
   revert it.
-- Image captions are often garbled (`Joseph W`) or missing. Fix them only from
-  an OCR source or the scan, and never invent a caption; otherwise log it.
-- Garbled caps titles (`S./JOSEPH` for `ST. JOSEPH`) that both OCRs share:
-  keep them and log them, or settle them with the scan.
+- Image captions are often garbled (`Joseph W`) or missing. Restore them from
+  the `…_captions.png` sheet (§2.2, §3.11); never invent one.
+- Garbled caps titles (`S./JOSEPH`) that both OCRs share: settle them with the
+  scan (§2.1 case 2). Band01 Adelshausen p011 really prints `S./JOSEPH` and
+  `S./ANNA` in italics — keep such printed forms.
+- `page_images.py` needs network access to the wiki the first time per image;
+  crops are cached in `data/cache/wiki_images/` afterwards. An image that is
+  not on the wiki cannot be located — log it as `LOWMATCH`.
+- Spread scans are landscape (`page L`/`R`); a few chunks have single-page
+  scans (portrait, `page -`).
 - `postprocess()` once ate the spaces before `!!` in wikitable headers. That is
   fixed now, but if a table header ever comes out as `! Bereich!! Höhe`,
   check `_SPACE_BEFORE_PUNCT_RE` in `src/articles/postprocess.py`.

@@ -1,5 +1,6 @@
 data/additional_ocr/
 data/raw/
+data/pdf_chunked
 data/extracted/*/add_ocr/
 data/extracted/*/images/
 data/extracted/*/processed_images/
@@ -11,3 +12,5 @@ user-password.cfg
 apicache
 *.lwp
 *.ctrl
+# skill caches: wiki image crops, page overviews, caption sheets
+data/cache/
