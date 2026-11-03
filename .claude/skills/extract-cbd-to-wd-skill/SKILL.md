@@ -69,7 +69,9 @@ Find the QID in this order and record the evidence in the report:
 
 1. **deckenmalerei.eu**: `cbdd_buildings` from step 1 (exact appellation match,
    QID via `P10626`). Still open the item: check `P31`, `P131`, coordinates and
-   dedication against the article — CbDD links are occasionally wrong.
+   dedication against the article — CbDD links are occasionally wrong. The
+   dump is read-only evidence: **never write `P10626`** to any item, also not
+   when a match is certain — that is CBDDsync's job.
 2. **Wikidata**: `search_items` with the lemma, the Ort, the patron saint;
    SPARQL for buildings with `P131` = the municipality (resolve it first) and
    a matching `P825` or label. Bavarian monument items (`P4244`, description
@@ -127,6 +129,13 @@ report.
 3. Paintings: one item per identified field, terms and classes as in
    data-model.md. Labels and descriptions must be unique per pair — the
    description carries the field ID and lemma.
+4. Cycles and room sequences get **no item of their own**: link the members
+   (`P155`/`P156` in identifier order, `P1639` for pairs, `P921` for a named
+   programme; rooms `P2789` connects with) and name the group in the
+   description — data-model.md, "Cycles and room sequences".
+5. Dimensions: `a × b` is length × width (`P2043`/`P2049`); `P2048` height only
+   where the text says `Höhe`/`H`. The Maße table's `Höhe` column is the
+   room's height → `P2048` on the room, not the painting.
 
 Depicted subjects (`P180`), Iconclass (`P1257`) and template sources (`P144`)
 are best-effort: add what resolves cleanly, skip the rest without a report
@@ -208,14 +217,12 @@ facts). Tell the user the run order:
 | `'''Zum Bauwerk:'''` | building `P571`, `P84`; room names |
 | `'''Auftraggeber:'''` | paintings `P88` |
 | `'''Autor und Entstehungszeit:'''` | paintings `P170` (+ certainty), `P571`; people's biographies |
-| `== Befund ==` | rooms (Träger), `P2079`/`P186` (Technik), `P2043`/`P2049`/`P2386` (Maße), `P5816` (Erhaltungszustand) |
+| `== Befund ==` | rooms (Träger), `P2079`/`P186` (Technik), `P2043`/`P2049`/`P2386` (Maße), room `P2048` (Höhe), `P5816` (Erhaltungszustand) |
 | `== Beschreibung (und Ikonographie) ==` | painting items (one per field), labels, `P180`, `P1257`, `P1684`, `P144` |
 | `== Quellen und Literatur ==` | not written (the corpus is the source); may help disambiguate people |
 
-## Open questions (ask the user when they matter)
+## Settled decisions
 
-- Order of `a × b` in Maße: assumed length × width as in CbDD; not confirmed
-  from the volumes' prefaces.
-- Whether to also create items for picture cycles / room sequences.
-- Whether to add `P10626` to buildings found only by Wikidata search, or leave
-  that to CBDDsync's `agentic-reconcile`.
+- Maße `a × b` = length × width; height only when written as `Höhe`.
+- No items for picture cycles or room sequences; members are linked directly.
+- Never add `P10626`.

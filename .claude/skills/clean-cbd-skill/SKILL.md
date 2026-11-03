@@ -281,6 +281,9 @@ in the template already.
 
 ### 3.7 Keep existing markup (pass-2 rule 7)
 - `[[File:…]]`: filename and `thumb` never change. The caption follows §3.11.
+  Only exception: images of a series move into a `<gallery>` (§3.11
+  "Series"), where they lose the `[[…|thumb|` wrapper but keep filename and
+  caption.
 - Do not rename `== headings ==` except for plain OCR errors
   (`== Befnnd ==` → `== Befund ==`). The book's own titles (`== Beschreibung ==`
   in early bands vs `== Beschreibung und Ikonographie ==`) stay as they are.
@@ -390,8 +393,33 @@ image to its description, so check **every** caption against the
   the end of the body; log it as `FOREIGN`.
 - Entries marked `(keine Abbildung)` have no image; that is expected.
 
+**Series → gallery**
+- A series is ≥ 2 images of fields that belong together and are short entries
+  of one group: the same letter with subscripts (`A<sub>1</sub>`–`A<sub>4</sub>`
+  Zwickel, `M<sub>1–8</sub>` medallions, `W<sub>1</sub>`/`W<sub>2</sub>`), or
+  images the book prints side by side in a row (overview). A main fresco with
+  its `Ausschnitt`/`Detail` views is **not** a series — those stay `thumb`s.
+- Put the whole series in one gallery, in identifier order (`A1, A2, A3, A4`,
+  not file order), after the **last** entry of the series — or after the
+  group paragraph when the fields have no entries of their own. This replaces
+  the "after its own entry" rule for these images.
+- Each image keeps its caption exactly as §3.11 "Captions" says, so it shows
+  under the picture; a series image without a printed caption gets just the
+  identifier (`File:…|A<sub>3</sub>`) — that is the printed label, not an
+  invented caption — and is still logged `NOCAPTION`.
+  ```
+  <gallery mode="packed" heights="160">
+  File:Band01_chunk001_p011_img001.jpg|A<sub>1</sub> Himmel
+  File:Band01_chunk001_p011_img002.jpg|A<sub>2</sub> Gericht
+  </gallery>
+  ```
+  `mode="packed"` shows the captions under the images (never use
+  `packed-hover` / `packed-overlay`, which hide them). No `thumb`, no `[[ ]]`,
+  one `File:` line per image, no blank lines inside.
+- Log each gallery as `GALLERY <identifiers>` in the report.
+
 **Links** — don't type them. `finalize.py` (§4 step 4) builds them from the
-captions: every entry head in the Beschreibung section and every subscripted
+captions (`[[File:…|thumb|…]]` and gallery lines alike): every entry head in the Beschreibung section and every subscripted
 identifier in the body (`in A<sub>2</sub>`) becomes
 `[[:File:Band01_chunk001_p011_img002.jpg|A<sub>2</sub>]]` — a link to the
 image's file page. A field with several images links to its first full view,

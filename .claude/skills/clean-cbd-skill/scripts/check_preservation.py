@@ -5,7 +5,7 @@ Cleaning may reformat, rejoin and correct OCR, but it must not drop or invent
 content. This script reports what a reviewer should look at:
 
   - the {{Artikel …}} template block differs (must be byte-identical)
-  - [[File:…]] targets that are missing, added or reordered
+  - [[File:…]] / <gallery> File: targets that are missing, added or reordered
   - numbers (years, measurements, page numbers) lost or added
   - words lost or added, ignoring markup, punctuation, hyphenation and case
     (identifier links [[:File:…|A<sub>2</sub>]] count as their label only)
@@ -34,7 +34,10 @@ sys.path.insert(0, str(REPO_ROOT / "src"))
 
 from articles.helpers import parse_article_file  # noqa: E402
 
-_FILE_RE = re.compile(r"\[\[(?:File|Datei):([^|\]]+)")
+# [[File:X.jpg|thumb|…]] and, inside <gallery>, lines "File:X.jpg|caption"
+_FILE_RE = re.compile(r"(?:\[\[|^[ \t]*)(?:File|Datei):([^|\]\n]+)", re.M)
+# the |thumb / |mini option disappears when an image moves into a gallery
+_THUMB_RE = re.compile(r"\|(?:thumb|mini)\b")
 _NUMBER_RE = re.compile(r"\d+(?:[,.]\d+)?")
 _TAG_RE = re.compile(r"<[^>]+>")
 _WORD_RE = re.compile(r"[^\W\d_]+")
@@ -47,7 +50,7 @@ _FILE_LINK_RE = re.compile(r"\[\[:(?:File|Datei):[^|\]]*\|([^\]]*)\]\]")
 
 
 def _unlink(body: str) -> str:
-    return _FILE_LINK_RE.sub(r"\1", body)
+    return _THUMB_RE.sub("", _FILE_LINK_RE.sub(r"\1", body))
 
 
 def _strip_markup(body: str) -> str:
@@ -66,6 +69,7 @@ def _words(body: str) -> Counter:
 
 def _numbers(body: str) -> Counter:
     text = _FILE_RE.sub(" ", _unlink(body))
+    text = re.sub(r"</?gallery\b[^>]*>", " ", text)  # heights="160" is markup
     text = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
     return Counter(_NUMBER_RE.findall(text))
 

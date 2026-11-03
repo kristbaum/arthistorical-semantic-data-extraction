@@ -3,6 +3,8 @@
 
 The image captions say which field an image shows:
     [[File:Band01_chunk001_p011_img002.jpg|thumb|A<sub>2</sub> Gericht]]
+or, for a series inside <gallery>…</gallery>:
+    File:Band01_chunk001_p011_img002.jpg|A<sub>2</sub> Gericht
 From those captions this script builds a map identifier → file and links
     - every entry head in the Beschreibung section (a paragraph starting with
       the identifier: `A<sub>2</sub> Ein Engel …`, `B '''ST. MARTIN …'''`),
@@ -31,20 +33,33 @@ _HEAD_RE = re.compile(rf"^({_IDENT})(?=\s+(?:'''|\(|[A-ZÄÖÜ]))")
 _SUB_RE = re.compile(r"(?<![\w:|])([A-Z]{1,2}<sub>\d+</sub>)(?![\w–-])")
 _LINK_OR_FILE_RE = re.compile(r"\[\[[^\]]*\]\]")
 _DETAIL_RE = re.compile(r"\b(?:Ausschnitt|Detail|Teilansicht)\b")
+_GALLERY_OPEN_RE = re.compile(r"<gallery\b[^>]*>")
 
 
 def image_map(body: str) -> dict[str, str]:
     """identifier → file whose caption starts with it: the first full view,
     an »Ausschnitt«/»Detail« only when the field has no full view."""
     out: dict[str, tuple[str, bool]] = {}
+    in_gallery = False
     for line in body.splitlines():
         line = line.strip()
-        if not re.match(r"\[\[(?:File|Datei):", line):
+        if _GALLERY_OPEN_RE.match(line):
+            in_gallery = True
             continue
-        parts = line.strip("[]").split("|")
-        fname = parts[0].split(":", 1)[1].strip()
-        caption = parts[-1].strip() if len(parts) > 2 or (
-            len(parts) == 2 and parts[1].strip() not in ("thumb", "mini")) else ""
+        if line.startswith("</gallery"):
+            in_gallery = False
+            continue
+        if in_gallery and re.match(r"(?:File|Datei):", line):
+            # gallery line: File:X.jpg|caption
+            fname, _, caption = line.partition("|")
+            fname, caption = fname.split(":", 1)[1].strip(), caption.strip()
+        elif re.match(r"\[\[(?:File|Datei):", line):
+            parts = line.strip("[]").split("|")
+            fname = parts[0].split(":", 1)[1].strip()
+            caption = parts[-1].strip() if len(parts) > 2 or (
+                len(parts) == 2 and parts[1].strip() not in ("thumb", "mini")) else ""
+        else:
+            continue
         m = re.match(rf"({_IDENT})(?:\s|$)", caption)
         if m:
             detail = bool(_DETAIL_RE.search(caption))
@@ -82,9 +97,17 @@ def link_body(body: str) -> str:
     if not images:
         return body
     out = []
-    in_beschreibung = False
+    in_beschreibung = in_gallery = False
     for line in body.split("\n"):
         stripped = line.strip()
+        # gallery blocks hold File:…|caption lines — never link inside them
+        if _GALLERY_OPEN_RE.match(stripped):
+            in_gallery = True
+        if in_gallery:
+            out.append(line)
+            if stripped.startswith("</gallery"):
+                in_gallery = False
+            continue
         if re.match(r"^==[^=].*==$", stripped):
             in_beschreibung = stripped.strip("= ").startswith("Beschreibung")
             out.append(line)

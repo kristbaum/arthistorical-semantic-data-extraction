@@ -17,8 +17,8 @@ room → (picture cycle) → painting → painting part. On Wikidata:
 | room | `P361` part of **and** `P276` location → building | Q139817768 → Q2240519 |
 | building | `P527` has part(s) → room (inverse, optional but recommended) | |
 
-No room-sequence or picture-cycle items from the printed corpus unless the user
-asks.
+No items for room sequences or picture cycles — they are expressed as links
+between the rooms / paintings themselves (see "Cycles and room sequences").
 
 ## Reference (every statement)
 
@@ -63,10 +63,11 @@ Every item touched also gets (no reference needed, it *is* the source):
 | `'''Patrozinium:'''` | `P825` dedicated to | saint item (e.g. Martin of Tours Q133704); former patrocinia (`vor 1452 Maria`) get `P582` end time if dated |
 | `'''Zum Bauwerk:'''` | `P571` inception | construction date; only if the item has none or a less precise one |
 | `'''Zum Bauwerk:'''` | `P84` architect | person (reconcile thoroughly) |
-| CbDD dump | `P10626` | only if the item lacks it and the CbDD match is certain — normally left to the `agentic-reconcile` skill in CBDDsync |
 
-Never touch `P625`, `P4244`, `P1435`, addresses on existing building items —
-CBDDsync and the BLfD import own those.
+**Never write `P10626` (deckenmalerei.eu ID)** — on buildings, people or any
+other item. The CbDD dump is used read-only for matching; adding the ID is
+CBDDsync's job. Likewise never touch `P625`, `P4244`, `P1435` or addresses on
+existing building items — CBDDsync and the BLfD import own those.
 
 ## Room (lax)
 
@@ -81,6 +82,7 @@ paintings `P276` → building directly.
 | `P31` | Langhaus Q607600 · Altarraum/Chor Q207707 · Empore Q648224 · Kirchenkapelle Q2196917 · Treppenhaus Q2451751 · Festsaal Q31838271 · otherwise resolve, fallback room Q180516 |
 | `P361`, `P276` | building |
 | `P571` | only when the article dates the room separately |
+| `P2048` height | room height as printed with `Höhe` (`AR Höhe 5,40 m`, or the Maße table's `Höhe` column when it is one value for the room), unit metre |
 
 Abbreviations: `LHs` Langhaus, `AR` Altarraum, `N`/`S`/`O`/`W` compass
 (`W` before a subscript is a wall field, not west).
@@ -103,13 +105,41 @@ ornament without a subject.
 | `'''Autor und Entstehungszeit:'''` | `P170` creator | see "Certainty" below |
 | same | `P571` inception | see "Dates" below |
 | `'''Auftraggeber:'''` | `P88` commissioned by | person, family or institution (as CbDD: commissioners sit on the paintings) |
-| `'''Maße:'''` `a × b` | `P2043` length = a, `P2049` width = b, unit metre `U11573` | CbDD's convention; `Durchmesser` → `P2386`; `ca.` → `P1480 Q5727902`. The `Höhe` column is the ceiling's height above floor → **not** `P2048` |
+| `'''Maße:'''` `a × b` | `P2043` length = a, `P2049` width = b, unit metre `U11573` | the corpus prints length × width. Height is always written out as `Höhe` (or `H`): only then `P2048`. Labelled axes win over the order (`H 2,10 × B 1,40` → `P2048` + `P2049`; `B`/`T` → width). `Durchmesser` → `P2386`; `ca.` → `P1480 Q5727902`. The Maße table's `Höhe` column is the room's height above floor → `P2048` on the **room**, never on the painting |
 | `'''Erhaltungszustand…'''` | `P5816` state of conservation | zerstört Q56556915 · beschädigt Q106379705 · restauriert Q75505084 (+ `P585` year) · verschollen Q62077203 |
 | description | `P180` depicts | clearly named persons/saints/allegories with an item; lax |
 | description | `P1257` Iconclass | optional, via the Iconclass MCP; one notation per clear subject |
 | inscriptions | `P1684` inscription | monolingual, verbatim: `la:"…"` |
 | `Vorlage`, Stich, Emblembuch | `P144` based on | only if the print/book item exists |
 | stuccoist | `P767` contributor + `P3831` stuccoist Q18435135 | on the room (or building if no room item) |
+
+## Cycles and room sequences (no extra item)
+
+A picture cycle or a room sequence is not an item of its own; its members are
+linked to each other, and the grouping lives in the description.
+
+**Picture cycles** (`A<sub>1–4</sub> ALLEGORISCHE DARSTELLUNGEN`, Zwickel,
+medallion rows, Evangelists, months, Stations of the Cross):
+
+| Link | When | Statement |
+|---|---|---|
+| reading order | every cycle with ≥ 3 members | `P155` follows / `P156` followed by between neighbours, in the order of the corpus identifiers (`A1 → A2 → A3 → A4`); no wrap-around |
+| pair | exactly two companion fields (`W1`/`W2`, two medallions) | `P1639` pendant of, both directions; no `P155`/`P156` |
+| shared programme | the article names the cycle's theme and it has an item (Four Last Things, the four Evangelists, the four seasons …) | `P921` main subject = theme on each member; the individual subject stays in `P180` |
+| group name | always | in the description: `Deckenbild A1 der Folge »Allegorische Darstellungen« in <Lemma>` |
+
+All members of one cycle share the same `P276` room. Members are linked by
+placeholders, so the links go in `statements.qs`.
+
+**Room sequences** (Appartement, Enfilade, Raumfolge):
+
+| Link | Statement |
+|---|---|
+| physical connection | `P2789` connects with, between rooms with a door between them, both directions — only if the article says so (`anschließend`, `Enfilade`, `folgt`) |
+| order of an enfilade / suite | additionally `P155` / `P156` in the order the article walks through it |
+| sequence name | description only: `Raum im Appartement der Kurfürstin in <Lemma>` (not as an alias — aliases name the room itself) |
+
+Each room keeps `P361` + `P276` → building.
 
 ## People (thorough)
 
