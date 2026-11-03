@@ -103,9 +103,20 @@ only where they differ, restricted to the article's own text:
 - `ORDER` — the same text in a different reading order (Transkribus often
   interleaves the two columns line by line); ignore.
 
+**Check every `BLOCK` where Surya has `∅` or a few tokens and Transkribus a
+full sentence: Surya often drops lines at page breaks and next to images,
+and the article inherited the gap.** Grep the article for the Transkribus
+words; if they are missing, restore them from Transkribus (`RESTORED` in the
+report; verify numbers on a crop). Band01 Andechs Klosterkirche lost three
+passages this way (»das [bedeutendste Heiltum von Andechs. Sie ist mit einem]
+Mantel umkleidet«, »Die Wappen ver[sinnbildlichen …]«). Signs in the article
+itself: a sentence or word cut off before an image or a heading (`… das`,
+`… Die Wappen ver`), or a phrase that does not parse (`zusammen mit einer
+Art Thronaufbau bildet`).
+
 The article has usually been built from Surya's reading order, so a page with
-many `ORDER` stretches and a few `BLOCK`s is normal and not a reason to open
-the scan by itself.
+many `ORDER` stretches and a few layout `BLOCK`s is normal and not a reason to
+open the scan by itself.
 
 Read only the passages you need to resolve; do not re-transcribe the article.
 When both OCRs agree against the formatted text, follow the OCRs — the
@@ -132,12 +143,23 @@ Captions and image positions are always checked, but through the cheap
 `page_images.py` outputs (§2.2), not the full scan.
 
 How to look:
-1. First read the **overview** from §2.2 (`…_overview.jpg`, about half the
-   cost of the full scan) — often enough for layout questions, and it
-   shows which half and column the passage is in.
-2. Only for small print (subscripts, `†`, punctuation, digits) read the full
-   scan at `data/extracted/{chunk}/pages/{chunk}_p{NNN}.jpg`. The image holds
-   both printed pages of the spread, two columns each.
+1. For **layout questions**, read the **overview** from §2.2
+   (`…_overview.jpg`, ~2.3k tokens) — it shows which half and column a
+   passage is in. Large print (Befund labels, signatures) is often readable
+   there too.
+2. For **small print** (subscripts, `†`, punctuation, digits, one word in a
+   quotation) **crop** the spot at full resolution instead of reading the
+   whole scan — sharper (the whole spread is downscaled when read) and
+   ~0.5–1.5k tokens instead of ~4.8k:
+   ```bash
+   uv run python .claude/skills/clean-cbd-skill/scripts/scan_crop.py \
+       data/extracted/{chunk}/pages/{chunk}_p{NNN}.jpg --col R1 --rows 0.2,0.31
+   # or --box x1,y1,x2,y2 as fractions of the spread; columns L1 L2 R1 R2
+   ```
+   Then Read `data/cache/page_images/{chunk}_p{NNN}_crop.png`. Locate the
+   rows from the overview or from the line position in the Transkribus file
+   (line 96 of ~110 → near the bottom). If you miss, move the window — a
+   second small crop is still cheaper than the full scan.
 3. The scan wins over both OCRs. Fix the text to what is printed and write
    `SCAN pNNN: …` in the report so the reviewer knows it was checked.
 4. Check only the doubtful spots — never proofread the whole page against it.
@@ -172,9 +194,18 @@ Reading the sheet:
   image shares a caption with its neighbour (two medallions side by side under
   one `B₁₋₂ Verkündigung`), or it has none (floor plans) — look at the
   overview before deciding.
+- A caption can also stand to the lower right of a tall image, so the strip
+  only catches its edge (Fürstenzimmer p006 img003 `A₂ Genius`) — look at the
+  overview.
 - In the overview, look for **pictures without a red box**: Surya missed them
   (Band01 Aich p010: the `A₁ Matthäus` medallion has no crop). They cannot be
   added — log `MISSING`.
+- Look also for **red boxes that do not fit a picture** — a crop that cuts
+  across two pictures and the text column. Keep the image (the set must not
+  change), give it no caption and log `BADCROP` so it can be re-cropped.
+- One crop can hold **two pictures** (a fresco with the cartouche below it, two
+  medallions side by side); the book then prints their captions side by side
+  under it.
 
 ---
 
@@ -276,7 +307,14 @@ The inline labels are bold with the colon inside, content on the same line:
 `'''Träger der Deckenmalerei:'''`, `'''Rahmen:'''`, `'''Technik:'''`,
 `'''Maße:'''`, `'''Erhaltungszustand und Restaurierungen:'''`. Fix OCR-broken
 labels (`Auftragqeber`, `Zum Bauwcrk`) and labels that lost their bold.
+Some early articles print just `Erhaltungszustand:` — bold it, don't extend it.
+Each Befund label starts its own paragraph (a blank line between them —
+single line breaks are joined by MediaWiki). Labels run into the previous
+line (`stuckierte Flachdecke Rahmen · Stuckprofil`, `Öl auf Leinwand Maße: …`,
+`… 1,60 × 1,00 Erhaltungszustand und Restaurierungen: Das …`) are split off.
 Do not add a label the article lacks and do not reorder sections.
+Befund lines that are OCR garbage (`T-1 1 F 1 1 1 cemin. Tresno, poryentom
+Mala …`) are rebuilt from Transkribus and checked on a crop.
 
 ### 3.10 OCR word errors (new)
 Fix letters the OCR misread when the right word is certain — from context
@@ -316,6 +354,10 @@ image to its description, so check **every** caption against the
   report.
 - One printed caption under two adjacent images goes on the image it is
   printed under; the other gets none (`NOCAPTION … shares caption`).
+- Two captions printed side by side under one crop that holds both pictures
+  are joined with `; `:
+  `S<sub>1</sub> Die Stola des hl. Johannes; S<sub>b</sub> Putti mit …`.
+  The image goes to the entry of the first identifier.
 - If the strip shows no caption and the overview shows none either, leave the
   image without one and log `NOCAPTION`. Never invent a caption from the
   description text.
@@ -336,7 +378,11 @@ image to its description, so check **every** caption against the
   Johannes (A2) …`), their images go after the group paragraph.
 - When the article has a separate `== Ikonographie ==` section repeating the
   entries, images go to the entry in `== Beschreibung ==`.
-- Images without an identifier (general views, plans, details) stay where the
+- Floor plans (`Übersicht in Höhe des Kirchenraums`, or no caption) go to the
+  end of `== Befund ==`, after Erhaltungszustand. So does the single image of
+  an article with one fresco and no identifiers (Fürstensaal: »Das
+  Wittelsbacher Wappen«) — never inside the Befund list.
+- Other images without an identifier (general views, details) stay where the
   book prints them: after the paragraph that precedes them in reading order
   on the page (use the overview). Never between two halves of a sentence.
 - An image whose entry is not in this article (it shows a neighbouring
@@ -363,7 +409,7 @@ run, so after a caption fix just run it again.
    sheet. `find_sources.py --grep` gives the full readings of one spot when
    the diff context is too short.
 2. Decide which spots need the scan by §2.1 — usually none or a few per
-   article — and look at those (overview first).
+   article — and look at those (overview for layout, crop for small print).
 3. Edit the body by rules 3.1–3.11 as a **list of exact replacements**
    applied to a copy of the original — never retype the article. Writing
    out the cleaned text is the largest cost of the whole skill (output
@@ -372,9 +418,11 @@ run, so after a caption fix just run it again.
    one edit, insert it after its entry in another), fix a caption, rejoin a
    sentence split by an image, bold an entry title, subscript identifiers,
    build the Maße table.
+   Write the edits to a file in the scratchpad first, then apply — if one
+   edit fails, fix that block in the file instead of resending the list, and
+   chain the following steps with `&&` so they do not run on a missing file:
    ```bash
-   uv run python .claude/skills/clean-cbd-skill/scripts/apply_edits.py \
-       "$SRC" "$TARGET" - <<'EOF'
+   cat > "$SCRATCH/lemma.edits" <<'EOF'
    <<<
    Kapitelle und
 
@@ -390,11 +438,18 @@ run, so after a caption fix just run it again.
    A '''MARIA VOM SIEGE – TRIUMPH ÜBER SÜNDE UND SÜNDENSTRAFEN''' Das
    >>>
    EOF
+   S=.claude/skills/clean-cbd-skill/scripts
+   uv run python $S/apply_edits.py "$SRC" "$TARGET" "$SCRATCH/lemma.edits" \
+     && uv run python $S/finalize.py "$TARGET" \
+     && uv run python $S/check_preservation.py "$SRC" "$TARGET"
    ```
-   Each `old` must occur exactly once (add context until it does); edits
-   apply in order; if any fails, nothing is written — fix that edit and run
-   all again. The template is never touched. Only an article that needs
-   rewriting throughout (a raw, unjoined OCR text) is written out in full.
+   Each `old` must occur exactly once (add context until it does) and is
+   matched against the **article**, not against the diff output — copy it
+   from the article text (the diff shows Surya's reading, which may differ).
+   Edits apply in order; if any fails, nothing is written. The template is
+   never touched. A stretch of raw, unjoined OCR inside an article (lines
+   with `¬`) is replaced as one block; only an article that needs rewriting
+   throughout is written out in full.
 4. Apply the deterministic cleanups (spaces before punctuation, blank lines,
    one blank line around `== headings ==`, bibliography bullets, trailing
    newline) and build the identifier links from the captions (§3.11):
@@ -432,6 +487,9 @@ a human must look at:
 - CAPTION p011 img003: »Joseph W« → »W<sub>1</sub> St. Joseph« (from scan).
 - NOCAPTION p012 img002: no caption printed.
 - LOWMATCH p013 img001: not found on the scan (score 0.41) — position not checked.
+- RESTORED p023: »… das bedeutendste Heiltum von Andechs. Sie ist mit einem …« — line dropped by Surya, from Transkribus.
+- MISSING p024: photo »S<sub>4</sub> Hl. Michael« has no crop.
+- BADCROP p024 img002: crop cuts across two cartouches and the text.
 ```
 
 Never put such notes into the article itself. Finish with a short summary to

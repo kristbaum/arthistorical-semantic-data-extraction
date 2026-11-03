@@ -25,9 +25,10 @@ import re
 import sys
 
 # identifier at the start of a caption / paragraph: A, A<sub>2</sub>, W<sub>12</sub>
-_IDENT = r"[A-Z](?:<sub>\d+</sub>)?"
+# one or two capitals: A, W, EU (Emporenfresken) — then an optional subscript number
+_IDENT = r"[A-Z]{1,2}(?:<sub>\d+</sub>)?"
 _HEAD_RE = re.compile(rf"^({_IDENT})(?=\s+(?:'''|\(|[A-ZÄÖÜ]))")
-_SUB_RE = re.compile(r"(?<![\w:|])([A-Z]<sub>\d+</sub>)(?![\w–-])")
+_SUB_RE = re.compile(r"(?<![\w:|])([A-Z]{1,2}<sub>\d+</sub>)(?![\w–-])")
 _LINK_OR_FILE_RE = re.compile(r"\[\[[^\]]*\]\]")
 _DETAIL_RE = re.compile(r"\b(?:Ausschnitt|Detail|Teilansicht)\b")
 
