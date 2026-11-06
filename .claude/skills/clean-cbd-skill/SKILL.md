@@ -232,6 +232,8 @@ Reading the sheet:
 
 The `{{Artikel …}}` template is copied **byte for byte**. Only the body is
 edited. Rules 3.1–3.7 are the original pass-2 prompt; the rest go further.
+(§3.10 "abbreviations … separate, later pass" means: never *expand* them in
+the text. Tagging them with `{{Abk|…}}`, §3.12, is not an expansion.)
 
 ### 3.1 Line breaks (pass-2 rule 1)
 Join paragraphs broken by the column layout into running text. Rejoin
@@ -447,6 +449,39 @@ not to an `Ausschnitt`/`Detail`. Plain letters outside entry heads
 stay unlinked. Links are rebuilt from the captions on every `finalize.py`
 run, so after a caption fix just run it again.
 
+### 3.12 Abbreviations: `{{Abk|…}}` (new)
+
+The book's glossary ([[Zur Benutzung]] on the Lab: general abbreviations,
+Bible books, bibliographic short titles) is in `Modul:Abk/Daten`, kept in the
+repo as `templates/Modul-Abk-Daten.lua`. `{{Abk|LHs}}` shows `LHs` with the
+full form as a tooltip; bibliographic short titles also link to the
+glossary section.
+
+**Don't type them.** `finalize.py` (§4 step 4) runs `tag_abk.py`, which wraps
+the **first occurrence per article** of every glossary key, exactly as
+spelled in the table (`LKr.`, `z. Z.`, `Mayer-Westermayer`, `Lc` before
+`1,26`). It skips quotations, links, bold titles, headings and `<sub>`, and
+applies the context rules from the data (Bible books only before chapter
+numbers, `f.`/`v.` only after a number, `F.`/`H.` only before one). Keys
+marked `manuell` (`S`, `W`, `O`, `x`) are never tagged automatically.
+
+What stays with you:
+- Fix the OCR form of an abbreviation first (`LKr ,` → `LKr.`, `Bd.` as
+  printed stays `Bd.`, which is *not* the key `Bd` and stays untagged). The
+  tagger only finds exact keys.
+- Add `{{Abk|S}}` / `{{Abk|W}}` / `{{Abk|O}}` by hand only where the letter
+  is plainly a compass point (`Fenster von O und SO`). Never for field
+  identifiers — they are linked to their images (§3.11). Picture-field codes
+  can be written `{{Abk|EB|typ=Bildfeld}}`, but leave them plain unless
+  asked.
+- A wrongly tagged spot (a German word that happens to match): unwrap it and
+  log `ABK` in the report so the context rule can be tightened.
+- An abbreviation the book uses that is missing from the table: leave it
+  plain and log `ABK missing: …` — new keys are added in
+  `src/mediawiki/build_abk_data.py` (`BIBL_EXTRA` for other volumes'
+  bibliographies), not in the article. Never write `{{Abk|…}}` for an
+  unknown key; it would land in `Kategorie:Unbekannte Abkürzung`.
+
 ---
 
 ## 4. Procedure per article
@@ -499,7 +534,8 @@ run, so after a caption fix just run it again.
    throughout is written out in full.
 4. Apply the deterministic cleanups (spaces before punctuation, blank lines,
    one blank line around `== headings ==`, bibliography bullets, trailing
-   newline) and build the identifier links from the captions (§3.11):
+   newline), build the identifier links from the captions (§3.11) and tag
+   the abbreviations (§3.12):
    ```bash
    uv run python .claude/skills/clean-cbd-skill/scripts/finalize.py "$TARGET"
    ```
@@ -534,6 +570,7 @@ a human must look at:
 - CAPTION p011 img003: »Joseph W« → »W<sub>1</sub> St. Joseph« (from scan).
 - NOCAPTION p012 img002: no caption printed.
 - LOWMATCH p013 img001: not found on the scan (score 0.41) — position not checked.
+- ABK p014: »Mal 3« is the noun, not Malachias — unwrapped.
 - RESTORED p023: »… das bedeutendste Heiltum von Andechs. Sie ist mit einem …« — line dropped by Surya, from Transkribus.
 - MISSING p024: photo »S<sub>4</sub> Hl. Michael« has no crop.
 - BADCROP p024 img002: crop cuts across two cartouches and the text.

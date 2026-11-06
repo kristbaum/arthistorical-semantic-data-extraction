@@ -34,7 +34,7 @@ This pipeline processes arthistorical texts to extract meaningful semantic relat
 │   ├── formatted/{Band}/{Lemma}.wiki  # One file per article – main working tree
 │   ├── pass2/{Band}/{Lemma}.wiki      # Pass 2 LLM output
 │   └── meta/              # Liste_Bände.csv (article list per band), Hauptseite, Struktur notes
-├── templates/             # MediaWiki templates: Artikel, BandString, BildQuelle
+├── templates/             # MediaWiki templates: Artikel, BandString, BildQuelle, Abk (+ Modul-Abk*.lua)
 ├── examples/              # Sample pages and files.csv
 ├── batch_pass1.sh / batch_pass2.sh / submit.sh   # SLURM jobs for the LRZ cluster (see LRZ_USAGE_GUIDE.md)
 ├── excel_to_csv.py        # Liste_Bände.xlsx → data/meta/Liste_Bände.csv

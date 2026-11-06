@@ -1,0 +1,26 @@
+<noinclude><templatedata>
+{
+    "description": "Zeigt eine Abkürzung aus dem gedruckten CBD mit ihrer Auflösung als Tooltip. Die Auflösungen stehen in Modul:Abk/Daten, erzeugt aus den Tabellen auf [[Zur Benutzung]]. Bibliographische Kurztitel verlinken auf Zur Benutzung#Bibliographische Abkürzungen. Unbekannte Kürzel landen in Kategorie:Unbekannte Abkürzung.",
+    "params": {
+        "1": {
+            "label": "Abkürzung",
+            "description": "Die Abkürzung genau wie in der Tabelle, mit Punkt und Leerzeichen (z. B. 'LHs', 'z. Z.', 'Lc', 'KDB I OB').",
+            "type": "string",
+            "required": true,
+            "example": "LHs"
+        },
+        "2": {
+            "label": "Angezeigter Text",
+            "description": "Abweichende Anzeige, etwa eine flektierte Form. Leer lassen, dann wird die Abkürzung selbst angezeigt.",
+            "type": "string",
+            "example": "Bde."
+        },
+        "typ": {
+            "label": "Typ",
+            "description": "'Bildfeld' für die Bildfeld-Kürzel (EB, ED, Z …), die sonst mit Himmelsrichtungen (S, W, O) kollidieren.",
+            "type": "string",
+            "suggestedvalues": ["Bildfeld"]
+        }
+    }
+}
+</templatedata></noinclude>{{#invoke:Abk|main}}

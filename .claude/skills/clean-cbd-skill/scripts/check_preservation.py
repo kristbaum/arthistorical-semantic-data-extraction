@@ -8,7 +8,8 @@ content. This script reports what a reviewer should look at:
   - [[File:…]] / <gallery> File: targets that are missing, added or reordered
   - numbers (years, measurements, page numbers) lost or added
   - words lost or added, ignoring markup, punctuation, hyphenation and case
-    (identifier links [[:File:…|A<sub>2</sub>]] count as their label only)
+    (identifier links [[:File:…|A<sub>2</sub>]] count as their label only,
+    {{Abk|…}} as the abbreviation it wraps)
   - the body shrinking or growing by more than --max-ratio
 
 Usage:
@@ -49,7 +50,12 @@ _HYPHEN_GAP_RE = re.compile(r"(\w)[-¬]\s+(\w)")
 _FILE_LINK_RE = re.compile(r"\[\[:(?:File|Datei):[^|\]]*\|([^\]]*)\]\]")
 
 
+# {{Abk|key}} / {{Abk|key|shown}} -> the text as printed
+_ABK_RE = re.compile(r"\{\{Abk\|([^|}]*)(?:\|([^|}]*))?[^}]*\}\}")
+
+
 def _unlink(body: str) -> str:
+    body = _ABK_RE.sub(lambda m: m.group(2) or m.group(1), body)
     return _THUMB_RE.sub("", _FILE_LINK_RE.sub(r"\1", body))
 
 
