@@ -43,3 +43,14 @@
 - CHECK: the article began with the bibliography of Denklingen and the running header »DIENHAUSEN« — moved to Denklingen. check_preservation reports `FAIL text length 2693 → 2056` for this reason only; all lost words/numbers are those seven Denklingen entries.
 - CAPTION p019 img001: »Hl. Benedik« → »Hl. Benedikt«; the only fresco, moved to the end of Befund.
 - CHECK p019: »Grundherrschaf« → »Grundherrschaft« (Transkribus).
+
+## Band01 / Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt
+- RESTORED p024: »Die darin glänzenden Sterne sind die Heiligen.« (end of the paragraph on Fastl's sermon) — dropped by Surya, from Transkribus.
+- SCAN p021: inscriptions as printed: »Litterae / Donati/onis«, »Litterae / Confir-/mationis«, »Confir-/matio« (pass 1: »Confirmationis«, »Confirmation«), »ANTE / OM/NIA / DILI/GATUR / DEUS« (pass 1: »OMNIA / DILIGATUR«).
+- CHECK p020: pass 1 changed »Engelkaryatiden« (both OCRs) to »Engelkartuschen«; restored. Also »Ol« → »Öl«, »Lateranesischen« → »Lateranensischen«, »Piccinelli« → »Picinelli« (both OCRs), »Augustiner Klosterkirche« → »Augustiner-Klosterkirche«.
+- CHECK p020: »Technik:« was run into the Rahmen line; split off. Maße table gets a »Stich« column for D.
+- CHECK p023: the Ikonographie entries A–D had been made `== headings ==`; restored as run-in entries with bold titles (both OCRs). Plain line »Ikonographie« made `== Ikonographie ==`.
+- CAPTION p022 img001: none → »C Gründung des Klosters St. Georgen durch Rathard«. p020 img001: floor plan, no caption → end of Befund.
+- UNSURE p021 img001: the caption strip shows no text (caption probably beside the full-page photo); kept the article's »B Szenen aus der Geschichte der Klöster St. Maria und St. Stephan«.
+- CHECK p023 img001 »B Ausschnitt: Patrone von Dießen« moved from the middle of a sentence in the D iconography (»Grafen von Andechs, | Stifterin …«) to entry B, after the full view.
+- CHECK p022: »obedíenza« (Ripa, s. v.) — Surya »obedíenza«, Transkribus »obedßenza«; left as is, check on the scan if it matters.
