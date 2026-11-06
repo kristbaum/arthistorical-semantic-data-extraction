@@ -4,7 +4,7 @@ data/pdf_chunked
 data/extracted/*/add_ocr/
 data/extracted/*/images/
 data/extracted/*/processed_images/
-data/extracted/*/pages/
+data/extracted/*/pages/*
 .venv/
 __pycache__
 *.xlsx
@@ -13,4 +13,25 @@ apicache
 *.lwp
 *.ctrl
 # skill caches: wiki image crops, page overviews, caption sheets
-data/cache/
+data/cache/*
+
+# Exceptions: Band01 chunk001 article pages (p010-p025) and their image crops
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p010.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p011.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p012.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p013.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p014.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p015.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p016.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p017.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p018.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p019.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p020.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p021.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p022.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p023.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p024.jpg
+!data/extracted/Band01_chunk001/pages/Band01_chunk001_p025.jpg
+!data/cache/wiki_images/
+data/cache/wiki_images/*
+!data/cache/wiki_images/Band01_chunk001_*.jpg

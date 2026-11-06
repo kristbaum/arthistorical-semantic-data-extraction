@@ -1,9 +1,10 @@
 # AGENTS.md
 
 Guidance for working on the CbDD (*Corpus der barocken Deckenmalerei in
-Deutschland*) digitisation scripts under `src/`. For the wiki file/section
-layout and OCR quirks, see the `cbdd-wiki-format` skill in
-`.claude/skills/cbdd-wiki-format/`.
+Deutschland*) digitisation scripts under `src/`. The source is the printed
+*Corpus der barocken Deckenmalerei* (Oberbayern): Band 1–14 plus Gesamtindex,
+being turned into MediaWiki articles for deckenmalerei.eu. For cleaning and
+proofreading articles, see the `clean-cbd-skill`.
 
 ## Data layout (the two trees)
 
@@ -12,6 +13,23 @@ layout and OCR quirks, see the `cbdd-wiki-format` skill in
   `page_sort_key` in `src/articles/helpers.py`). Used by the `count_*` scripts.
 - **`data/formatted/{Band}/{Lemma}.wiki`** — one file per article, grouped by
   band. This is the tree most pipeline steps operate on.
+
+Band directories are `Band01` … `Band14`; Band 3 and Band 12 are split into
+`Band03-1`/`Band03-2` and `Band12-1`/`Band12-2`. Chunks are segments of a
+volume's PDF; page numbers are zero-padded to 3 digits. Sort order: band →
+band part → chunk → page (use `band_chunk_key`, don't re-implement it).
+
+Per-page wiki files carry HTML-comment metadata:
+
+| Comment | Meaning |
+|---|---|
+| `<!-- dropbox: URL -->` | Link to the PDF page, for checking against the source |
+| `<!-- citation-page-top: Band01 p12 -->` | Printed book page number at the top of the PDF page |
+| `<!-- citation-page-bottom: Band01 p13 -->` | Printed book page number at the bottom |
+| `<!-- header: ORTSNAME -->` | Running page header from the book (place name), not article text |
+
+Images are named `{Band}_chunk{NNN}_p{NNN}_img{NNN}.jpg` (band, chunk, PDF page,
+image index on that page).
 
 ## Iterating over formatted articles — use the shared helpers
 

@@ -51,7 +51,7 @@ FIELDS = ["placeholder", "kind", "label_de", "description_de", "qid"]
 def load_map(path: Path) -> list[dict]:
     if not path.exists():
         return []
-    rows = list(csv.DictReader(path.open(encoding="utf-8"), delimiter="\t"))
+    rows = list(csv.DictReader(path.open(encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE))
     for r in rows:
         for f in FIELDS:
             r[f] = (r.get(f) or "").strip()
@@ -60,7 +60,7 @@ def load_map(path: Path) -> list[dict]:
 
 def save_map(path: Path, rows: list[dict]) -> None:
     with path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=FIELDS, delimiter="\t", lineterminator="\n")
+        w = csv.DictWriter(f, fieldnames=FIELDS, delimiter="\t", lineterminator="\n", quoting=csv.QUOTE_NONE, escapechar="\\")
         w.writeheader()
         for r in rows:
             w.writerow({k: r.get(k, "") for k in FIELDS})

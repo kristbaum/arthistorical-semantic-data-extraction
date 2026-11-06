@@ -108,7 +108,7 @@ ornament without a subject.
 | `'''Maße:'''` `a × b` | `P2043` length = a, `P2049` width = b, unit metre `U11573` | the corpus prints length × width. Height is always written out as `Höhe` (or `H`): only then `P2048`. Labelled axes win over the order (`H 2,10 × B 1,40` → `P2048` + `P2049`; `B`/`T` → width). `Durchmesser` → `P2386`; `ca.` → `P1480 Q5727902`. The Maße table's `Höhe` column is the room's height above floor → `P2048` on the **room**, never on the painting |
 | `'''Erhaltungszustand…'''` | `P5816` state of conservation | zerstört Q56556915 · beschädigt Q106379705 · restauriert Q75505084 (+ `P585` year) · verschollen Q62077203 |
 | description | `P180` depicts | clearly named persons/saints/allegories with an item; lax |
-| description | `P1257` Iconclass | optional, via the Iconclass MCP; one notation per clear subject |
+| entry title + description | `P1257` Iconclass | via the `iconclass-cbdd` skill (fallback: Iconclass MCP, every notation confirmed with `resolve`); from the text, one notation per clearly named subject, most specific supported; value is the notation as a quoted string `"11H(MARTIN)"` |
 | inscriptions | `P1684` inscription | monolingual, verbatim: `la:"…"` |
 | `Vorlage`, Stich, Emblembuch | `P144` based on | only if the print/book item exists |
 | stuccoist | `P767` contributor + `P3831` stuccoist Q18435135 | on the room (or building if no room item) |

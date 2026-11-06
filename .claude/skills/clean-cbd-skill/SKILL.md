@@ -10,7 +10,8 @@ faithful MediaWiki text possible. It starts from the pass-2 prompt in
 `src/run_pass2.py` (`PROMPT_TEMPLATE`, rules 1–7) and adds everything else that
 can be fixed by reading the text against its sources.
 
-Read the `cbdd-wiki-format` skill for the file layout if you have not yet.
+For the band/chunk/page file layout and the page-comment metadata, see
+`AGENTS.md` in the repo root.
 
 **The prime directive: this is an edition of a printed book.** Correct what the
 OCR and the layout broke; never change what the authors wrote. No new content,
@@ -35,9 +36,27 @@ no paraphrase, no modernised spelling, no expanded abbreviations.
 4. **Resume** — if `{target}/{Band}/{Lemma}.wiki` already exists, skip it unless
    the user says to redo.
 
-For more than ~5 articles, work one article at a time and report progress per
-band; offer to fan a large run out over subagents (one band each) only if the
-user wants that.
+For more than ~5 articles, work one article at a time; offer to fan a large
+run out over subagents (one band each) only if the user wants that.
+
+### Work quietly
+
+The user reads the report and the final summary, not a running commentary.
+While cleaning:
+- **No narration between tool calls.** Don't announce each step ("Now running
+  ocr_diff…", "Let me read the captions sheet…"), don't explain decisions
+  that go by the rules, don't restate what a script printed.
+- **Never echo article text, diffs, edit lists or script output** into chat.
+  Findings go into `_cleaning_report.md` (§5), nowhere else.
+- **Progress**: at most one short line per finished article
+  (`Aich — done, 4 report entries`), and for runs over ~5 articles one line
+  per band instead.
+- Speak up mid-run only to ask the one question from step 2 above, or when
+  something blocks the run (a script crashes, a source is missing, a
+  `check_preservation.py` FAIL you cannot fix).
+- Keep shell output small: pipe long outputs through `tail`/`grep` when you
+  only need the result lines (e.g. on a whole-band `check_preservation.py`
+  run, look only at the files that are not `[OK]`).
 
 ---
 
@@ -521,8 +540,9 @@ a human must look at:
 ```
 
 Never put such notes into the article itself. Finish with a short summary to
-the user: articles cleaned, skipped (meta / existing), failed checks, and the
-number of report entries.
+the user — a few lines, no per-edit detail: articles cleaned, skipped (meta /
+existing), failed checks, the number of report entries, and the path to the
+report.
 
 ---
 
