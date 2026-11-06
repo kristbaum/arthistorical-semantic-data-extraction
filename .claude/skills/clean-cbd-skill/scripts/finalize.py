@@ -4,8 +4,7 @@
 Runs `postprocess()` from src/articles/postprocess.py over the body (spaces
 before punctuation, blank lines, one blank line around == headings ==), puts
 one `* ` bullet on every line of the bibliography, links field identifiers to
-their images (link_identifiers.py), wraps the first occurrence of each
-glossary abbreviation in {{Abk|…}} (tag_abk.py), leaves the
+their images (link_identifiers.py), leaves the
 {{Artikel …}} template untouched, and ensures one trailing newline.
 Run it again after fixing captions — it is idempotent.
 
@@ -26,7 +25,6 @@ from articles.postprocess import postprocess  # noqa: E402
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from link_identifiers import link_body  # noqa: E402
-from tag_abk import tag_body  # noqa: E402
 
 # a line that is only a label: '''Zum Bauwerk:''' / Zur Ausstattung:
 _LABEL_LINE_RE = re.compile(r"^(?:'{3}[^']+'{3}|[A-ZÄÖÜ][\w ]+:)\s*$")
@@ -55,7 +53,7 @@ def main() -> None:
         path = Path(arg)
         text = path.read_text(encoding="utf-8")
         template_block, _fields, body = parse_article_file(text)
-        new = template_block.rstrip("\n") + "\n\n" + tag_body(link_body(bullet_bibliography(postprocess(body)))).strip("\n") + "\n"
+        new = template_block.rstrip("\n") + "\n\n" + link_body(bullet_bibliography(postprocess(body))).strip("\n") + "\n"
         if new != text:
             path.write_text(new, encoding="utf-8")
             print(f"  [FINALIZED] {path}")

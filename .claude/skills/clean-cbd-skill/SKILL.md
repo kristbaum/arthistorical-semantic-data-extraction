@@ -457,30 +457,39 @@ repo as `templates/Modul-Abk-Daten.lua`. `{{Abk|LHs}}` shows `LHs` with the
 full form as a tooltip; bibliographic short titles also link to the
 glossary section.
 
-**Don't type them.** `finalize.py` (§4 step 4) runs `tag_abk.py`, which wraps
-the **first occurrence per article** of every glossary key, exactly as
+**Don't type them — tag the finished article** (§4 step 6). `tag_abk.py`
+wraps **every** occurrence of a glossary key in the main text, exactly as
 spelled in the table (`LKr.`, `z. Z.`, `Mayer-Westermayer`, `Lc` before
-`1,26`). It skips quotations, links, bold titles, headings and `<sub>`, and
-applies the context rules from the data (Bible books only before chapter
-numbers, `f.`/`v.` only after a number, `F.`/`H.` only before one). Keys
-marked `manuell` (`S`, `W`, `O`, `x`) are never tagged automatically.
+`1,26`). It leaves out quotations (`»…«`, `›…‹`), the `== Quellen und
+Literatur ==` section, headings, links, templates, bold titles and labels,
+and `<sub>`. It applies the context rules from the data (Bible books only
+before chapter,verse; `f.`/`v.` only after a number; `F.`/`H.` only before
+one). Keys marked `manuell` (`S`, `W`, `O`, `x`) are never tagged.
 
-What stays with you:
-- Fix the OCR form of an abbreviation first (`LKr ,` → `LKr.`, `Bd.` as
-  printed stays `Bd.`, which is *not* the key `Bd` and stays untagged). The
-  tagger only finds exact keys.
+```bash
+uv run python .claude/skills/clean-cbd-skill/scripts/tag_abk.py "$TARGET" --apply
+```
+
+It prints one `SUSPECT` line per tag of an ambiguous key — Bible books that
+are also German words (`Am`, `Is`, `Rom`, `Mal`, `Gen` …), compass and region
+codes (`AR`, `AT`, `NO`, `SO`, `OB` …) — with the tag marked `⟦…⟧`. **Check
+every SUSPECT line**: if the match is not the abbreviation (the city »Rom«,
+`AT` in a caps title that lost its bold), unwrap it with an edit and log
+`ABK` in the report. Don't run the tagger again after unwrapping — it would
+re-tag the spot; it runs once per article, at the end.
+
+What else stays with you:
+- Fix the OCR form of an abbreviation during cleaning (`LKr ,` → `LKr.`).
+  The tagger only finds exact keys; `Bd.` as printed stays `Bd.` and is not
+  the key `Bd`.
 - Add `{{Abk|S}}` / `{{Abk|W}}` / `{{Abk|O}}` by hand only where the letter
   is plainly a compass point (`Fenster von O und SO`). Never for field
-  identifiers — they are linked to their images (§3.11). Picture-field codes
-  can be written `{{Abk|EB|typ=Bildfeld}}`, but leave them plain unless
-  asked.
-- A wrongly tagged spot (a German word that happens to match): unwrap it and
-  log `ABK` in the report so the context rule can be tightened.
+  identifiers — they are linked to their images (§3.11).
 - An abbreviation the book uses that is missing from the table: leave it
-  plain and log `ABK missing: …` — new keys are added in
-  `src/mediawiki/build_abk_data.py` (`BIBL_EXTRA` for other volumes'
-  bibliographies), not in the article. Never write `{{Abk|…}}` for an
-  unknown key; it would land in `Kategorie:Unbekannte Abkürzung`.
+  plain and log `ABK missing: …` — new keys go into
+  `templates/Modul-Abk-Daten.lua` (and Modul:Abk/Daten on the wiki), not
+  into the article. Never write `{{Abk|…}}` for an unknown key; it would
+  land in `Kategorie:Unbekannte Abkürzung`.
 
 ---
 
@@ -534,8 +543,7 @@ What stays with you:
    throughout is written out in full.
 4. Apply the deterministic cleanups (spaces before punctuation, blank lines,
    one blank line around `== headings ==`, bibliography bullets, trailing
-   newline), build the identifier links from the captions (§3.11) and tag
-   the abbreviations (§3.12):
+   newline) and build the identifier links from the captions (§3.11):
    ```bash
    uv run python .claude/skills/clean-cbd-skill/scripts/finalize.py "$TARGET"
    ```
@@ -553,6 +561,17 @@ What stays with you:
    OCR fix, restored caption). Anything else is a mistake — restore it.
    `WARN images reordered` is expected when §3.11 moved images — confirm each
    move follows a caption identifier or the printed reading order.
+6. Tag the abbreviations on the verified result (§3.12) and review every
+   `SUSPECT` line; unwrap false matches and re-run `check_preservation.py`
+   (it reads `{{Abk|…}}` as the plain abbreviation, so it must stay `[OK]`
+   or unchanged from step 5):
+   ```bash
+   S=.claude/skills/clean-cbd-skill/scripts
+   uv run python $S/tag_abk.py "$TARGET" --apply \
+     && uv run python $S/check_preservation.py "$SRC" "$TARGET"
+   ```
+   Tag last: `finalize.py` may be re-run after it, but edits after tagging
+   must match the tagged text (`{{Abk|LHs}}`, not `LHs`).
 
 ---
 

@@ -1,0 +1,55 @@
+{{Artikel
+|Band=1
+|Chunk=1
+|Chunkseite=20
+|Originalseitenvon=37
+|Originalseitenbis=37
+|Lemma=Dienhausen, Kapelle St. Magnus
+|Meta=
+|Typ=Sakral
+|Ort=Dienhausen
+|davor=Denklingen, Pfarrkirche St. Michael
+|danach=Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt
+|AutorIn1=Bauer-Wild, Anna
+|AutorIn2=Böhm, Cordula
+|AutorIn3=Lüdicke, Lore
+|AutorIn4=Werner-Clementschitsch, Heide
+}}
+
+Kapelle, Gemeinde und Pfarrei Denklingen, Diözese Augsburg; {{Abk|z. Z.}} der Ausmalung Niedergericht und Grundherrschaft Abtei Füssen
+
+'''Patrozinium:''' {{Abk|St.}} Magnus
+
+'''Zum Bauwerk:''' Neubau 1733 an Stelle einer hölzernen Kapelle. Einfacher Saal zu zwei Fensterachsen, eingezogener {{Abk|AR}} (4,60 × 4,20) zu einem Joch mit halbrundem Schluß. Das Deckenbild befindet sich im Altarraum.
+
+'''Auftraggeber:''' Abt Dominicus Dierling von Füssen (1714–38), dessen Wappen sich am Chorbogen befindet
+
+'''Autor und Entstehungszeit:''' Das Deckenbild stammt aus der Erbauungszeit, also kurz nach 1733. Der unbekannte Autor dürfte im Umkreis der Abtei {{Abk|St.}} Mang in Füssen zu suchen sein.
+
+== Befund ==
+
+'''Träger der Deckenmalerei:''' Flachdecke über Hohlkehle
+
+'''Rahmen:''' Stuckprofil mit Goldleiste
+
+'''Technik:''' Fresko; polychrom
+
+'''Maße:''' Höhe 4,90 m; 1,50 × 1,30
+
+'''Erhaltungszustand:''' Einzelne Risse, Verschmutzungen, Abblätterungen am unteren Rand
+
+[[File:Band01_chunk001_p019_img001.jpg|thumb|Hl. Benedikt]]
+
+== Beschreibung und Ikonographie ==
+
+Auf Wolken stehend ist der {{Abk|hl.}} Benedikt dargestellt, als Ordensgründer der Benediktiner — {{Abk|St.}} Mang in Füssen war Benediktinerabtei. Neben ihm sind seine Attribute zu sehen, Buch, Abtstab und Giftbecher mit Schlange. Er trägt die schwarze Benediktinerkutte; sein Haupt umgeben lichte Strahlen. Seitlich erscheinen aus den Wolken Engelsköpfchen.
+
+== Quellen und Literatur ==
+
+* Braun-Augsburg, Bd 1, S. 156.
+* Fürst, Conrad, Das Fuchstal, Kaufbeuren 1880, S. 72 ff.
+* Dienhausen (o. V.), in: Deutsche Gaue, Gemeindebeschreibungen des Bezirksamts Kaufbeuren, 1923 ff.
+* Dienhausen bei Denklingen. – Aus mehreren alten Urkunden über den Kapellenbau zusammengetragen (o. V.), in: Schwäbische Heimat, Heimatkundliche Beilage zum Buchloer Anzeigblatt 5, 1926, Nr. 65.
+* Zimmermann, Eduard, Bayerische Klosterheraldik, München 1930, S. 83.
+* Breuer, Tilmann, Stadt und Landkreis Kaufbeuren (= Kurzinventar der Bayerischen Kunstdenkmale), München 1960, S. 83 f.
+* Fried, Pankraz und Sebastian Hiereth, Die Landgerichte Landsberg und Schongau (= Historischer Atlas von Bayern, Bd 22/23), München 1971, S. 266.
