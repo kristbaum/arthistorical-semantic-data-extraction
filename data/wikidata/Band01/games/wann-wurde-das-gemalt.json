@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Wann wurde das gemalt?",
+    "short_description": "Genau datiert oder nur ungefähr? Prüfe die Datierung barocker Deckenbilder.",
+    "long_description": "Wann ist ein barockes Deckenbild entstanden? Ein Sprachmodell hat Jahreszahlen aus dem gedruckten »Corpus der barocken Deckenmalerei in Deutschland« herausgelesen. Du entscheidest anhand der Textstelle, wie sicher das Jahr ist:\n• so datiert oder belegt: Das Bild trägt die Jahreszahl, oder eine Quelle nennt sie.\n• um …: Der Text gibt das Jahr nur ungefähr an (»um«, »gegen«, »etwa«).\n• vermutlich …: Die Autoren erschließen das Jahr (»wohl«, »vermutlich«).\nWähle »Keine davon«, wenn die Jahreszahl etwas anderes datiert: den Bau, eine Renovierung, ein anderes Bild.\nZwei Spieler müssen sich einig sein. Dann wird auf Wikidata Entstehungsdatum (P571) mit der gewählten Sicherheit eingetragen. Als Beleg wird der »Corpus der barocken Deckenmalerei in Deutschland«, Band 1 (https://www.wikidata.org/wiki/Q118117102), mit der Seitenzahl hinter der Textstelle eingetragen. Ein Tipp auf die Textstelle öffnet den Artikel auf https://deckenmalerei-lab.badw.de an genau dieser Stelle. Das Foto ist die Abbildung aus dem Band, soweit es eine gibt.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Wie sicher datiert die Textstelle %subject% in das Jahr %custom_value2%?",
+    "confidence_type": "E",
+    "prompt_type": "TI",
+    "prompt_labels_list": [
+      "Textstelle"
+    ],
+    "response_type": "SC",
+    "action_type": "WA",
+    "daily_streak_target": 10,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/St._Martin_Adelshausen_02.jpg"
+  },
+  "action_request_templates": [
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P571\"}, \"value\": {\"type\": \"value\", \"content\": {\"time\": \"+%custom_value2%-00-00T00:00:00Z\", \"precision\": 9, \"calendarmodel\": \"http://www.wikidata.org/entity/Q1985727\"}}, \"qualifiers\": [], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}",
+      "trigger_option": 1
+    },
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P571\"}, \"value\": {\"type\": \"value\", \"content\": {\"time\": \"+%custom_value2%-00-00T00:00:00Z\", \"precision\": 9, \"calendarmodel\": \"http://www.wikidata.org/entity/Q1985727\"}}, \"qualifiers\": [{\"property\": {\"id\": \"P1480\"}, \"value\": {\"type\": \"value\", \"content\": \"Q5727902\"}}], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}",
+      "trigger_option": 2
+    },
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P571\"}, \"value\": {\"type\": \"value\", \"content\": {\"time\": \"+%custom_value2%-00-00T00:00:00Z\", \"precision\": 9, \"calendarmodel\": \"http://www.wikidata.org/entity/Q1985727\"}}, \"qualifiers\": [{\"property\": {\"id\": \"P1480\"}, \"value\": {\"type\": \"value\", \"content\": \"Q18122778\"}}], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}",
+      "trigger_option": 3
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Erste Prüfung",
+      "subtitle": "Die erste Textstelle geprüft",
+      "goal_type": "D",
+      "goal_value": 1
+    },
+    {
+      "title": "Prüfung im Blick",
+      "subtitle": "2 Textstellen geprüft",
+      "goal_type": "D",
+      "goal_value": 2
+    },
+    {
+      "title": "Drei Tage Barock",
+      "subtitle": "An drei Tagen in Folge gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    },
+    {
+      "title": "Schlussstein",
+      "subtitle": "Die letzte offene Textstelle entschieden",
+      "goal_type": "L",
+      "goal_value": 0
+    }
+  ]
+}

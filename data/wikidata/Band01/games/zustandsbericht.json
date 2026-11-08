@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Zustandsbericht",
+    "short_description": "Erhalten, beschädigt, zerstört? Prüfe den Zustand barocker Deckenbilder.",
+    "long_description": "Ist ein barockes Deckenbild gut erhalten, beschädigt oder zerstört? Ein Sprachmodell hat das aus den Abschnitten zum Erhaltungszustand im gedruckten »Corpus der barocken Deckenmalerei in Deutschland« herausgelesen.\nOben steht, welches Bild gemeint ist und welcher Zustand behauptet wird. Antworte »Ja«, wenn die Textstelle genau diesem Bild diesen Zustand zuschreibt; gilt sie für alle Bilder des Raums, zählt das auch. Antworte »Nein«, wenn sie ein anderes Bild meint (achte auf die Buchstaben A, B, A1 …), einen anderen Zustand nennt oder nur Restaurierungen aufzählt. Entscheidend ist der Text: Das Foto ist oft Jahrzehnte alt.\nBei »Ja« wird auf Wikidata Erhaltungszustand (P5816) eingetragen. Als Beleg wird der »Corpus der barocken Deckenmalerei in Deutschland«, Band 1 (https://www.wikidata.org/wiki/Q118117102), mit der Seitenzahl hinter der Textstelle eingetragen. Ein Tipp auf die Textstelle öffnet den Artikel auf https://deckenmalerei-lab.badw.de an genau dieser Stelle. Das Foto ist die Abbildung aus dem Band, soweit es eine gibt.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Beschreibt die Textstelle %subject% als »%value_label%«?",
+    "confidence_type": "L",
+    "prompt_type": "TI",
+    "prompt_labels_list": [
+      "Textstelle"
+    ],
+    "response_type": "YN",
+    "action_type": "WA",
+    "daily_streak_target": 10,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/St._Martin_Adelshausen_02.jpg"
+  },
+  "action_request_templates": [
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P5816\"}, \"value\": {\"type\": \"value\", \"content\": \"%custom_value2%\"}, \"qualifiers\": [], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Erste Prüfung",
+      "subtitle": "Die erste Textstelle geprüft",
+      "goal_type": "D",
+      "goal_value": 1
+    },
+    {
+      "title": "Prüfung im Blick",
+      "subtitle": "2 Textstellen geprüft",
+      "goal_type": "D",
+      "goal_value": 2
+    },
+    {
+      "title": "Drei Tage Barock",
+      "subtitle": "An drei Tagen in Folge gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    },
+    {
+      "title": "Schlussstein",
+      "subtitle": "Die letzte offene Textstelle entschieden",
+      "goal_type": "L",
+      "goal_value": 0
+    }
+  ]
+}

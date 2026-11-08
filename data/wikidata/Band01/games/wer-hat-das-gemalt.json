@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Wer hat das gemalt?",
+    "short_description": "Wie sicher nennen die Autoren den Maler eines Deckenbilds?",
+    "long_description": "Wer hat ein barockes Deckenbild gemalt, und wie sicher ist das? Ein Sprachmodell hat Zuschreibungen aus dem gedruckten »Corpus der barocken Deckenmalerei in Deutschland« herausgelesen. Du entscheidest anhand der Textstelle, wie sicher die Autoren sind:\n• Belegt: Signatur, Datierung, Rechnung, Vertrag oder eine andere Quelle nennt den Maler.\n• Zugeschrieben: Die Autoren schließen aus Stil oder Vergleich auf ihn.\n• Vermutlich: Der Text sagt »wohl« oder »vermutlich«.\n• Wahrscheinlich: Der Text sagt »wahrscheinlich«.\nWähle »Keine davon«, wenn die Textstelle ein anderes Bild meint, den Künstler in anderer Rolle nennt (etwa als Stuckateur) oder die Zuschreibung ablehnt. Unter »Maler« steht, wie Wikidata ihn beschreibt, und wie er im Text heißt; ein Tipp öffnet seinen Eintrag.\nZwei Spieler müssen sich einig sein. Dann wird auf Wikidata Urheber (P170) mit der gewählten Sicherheit und dem Namen wie im Text (P1932) angelegt. Als Beleg wird der »Corpus der barocken Deckenmalerei in Deutschland«, Band 1 (https://www.wikidata.org/wiki/Q118117102), mit der Seitenzahl hinter der Textstelle eingetragen. Ein Tipp auf die Textstelle öffnet den Artikel auf https://deckenmalerei-lab.badw.de an genau dieser Stelle. Das Foto ist die Abbildung aus dem Band, soweit es eine gibt.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Wie sicher schreibt die Textstelle %subject% %painter_label% zu?",
+    "confidence_type": "E",
+    "prompt_type": "TTI",
+    "prompt_labels_list": [
+      "Maler",
+      "Textstelle"
+    ],
+    "response_type": "SC",
+    "action_type": "WA",
+    "daily_streak_target": 10,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/St._Martin_Adelshausen_02.jpg"
+  },
+  "action_request_templates": [
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P170\"}, \"value\": {\"type\": \"value\", \"content\": \"%custom_value2%\"}, \"qualifiers\": [{\"property\": {\"id\": \"P1932\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_named_as%\"}}], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}",
+      "trigger_option": 1
+    },
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P170\"}, \"value\": {\"type\": \"value\", \"content\": \"%custom_value2%\"}, \"qualifiers\": [{\"property\": {\"id\": \"P5102\"}, \"value\": {\"type\": \"value\", \"content\": \"Q230768\"}}, {\"property\": {\"id\": \"P1932\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_named_as%\"}}], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}",
+      "trigger_option": 2
+    },
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P170\"}, \"value\": {\"type\": \"value\", \"content\": \"%custom_value2%\"}, \"qualifiers\": [{\"property\": {\"id\": \"P1480\"}, \"value\": {\"type\": \"value\", \"content\": \"Q18122778\"}}, {\"property\": {\"id\": \"P1932\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_named_as%\"}}], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}",
+      "trigger_option": 3
+    },
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P170\"}, \"value\": {\"type\": \"value\", \"content\": \"%custom_value2%\"}, \"qualifiers\": [{\"property\": {\"id\": \"P1480\"}, \"value\": {\"type\": \"value\", \"content\": \"Q56644435\"}}, {\"property\": {\"id\": \"P1932\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_named_as%\"}}], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}",
+      "trigger_option": 4
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Erste Prüfung",
+      "subtitle": "Die erste Textstelle geprüft",
+      "goal_type": "D",
+      "goal_value": 1
+    },
+    {
+      "title": "Prüfung im Blick",
+      "subtitle": "2 Textstellen geprüft",
+      "goal_type": "D",
+      "goal_value": 2
+    },
+    {
+      "title": "Drei Tage Barock",
+      "subtitle": "An drei Tagen in Folge gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    },
+    {
+      "title": "Schlussstein",
+      "subtitle": "Die letzte offene Textstelle entschieden",
+      "goal_type": "L",
+      "goal_value": 0
+    }
+  ]
+}

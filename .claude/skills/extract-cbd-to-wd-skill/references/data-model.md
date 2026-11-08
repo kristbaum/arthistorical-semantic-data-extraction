@@ -129,7 +129,7 @@ medallion rows, Evangelists, months, Stations of the Cross):
 | group name | always | in the description: `Deckenbild A1 der Folge »Allegorische Darstellungen« in <Lemma>` |
 
 All members of one cycle share the same `P276` room. Members are linked by
-placeholders, so the links go in `statements.qs`.
+placeholders, so build.py puts the links in `direct.qs`.
 
 **Room sequences** (Appartement, Enfilade, Raumfolge):
 

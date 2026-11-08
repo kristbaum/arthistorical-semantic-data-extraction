@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Wer ist zu sehen?",
+    "short_description": "Heilige, Allegorien, Szenen: Wer ist auf dem Deckenbild dargestellt?",
+    "long_description": "Wer oder was ist auf einem barocken Deckenbild zu sehen? Ein Sprachmodell hat aus den Bildbeschreibungen des gedruckten »Corpus der barocken Deckenmalerei in Deutschland« Personen, Figuren und Themen herausgelesen.\nAntworte »Ja«, wenn die Textstelle diese Person oder dieses Thema auf genau diesem Bild beschreibt. Antworte »Nein«, wenn sie es nur nebenbei erwähnt (als Vergleich, als Stifter), wenn es auf einem anderen Bild des Raums zu sehen ist (achte auf die Buchstaben A, B, A1 …) oder wenn unter »Dargestellt« jemand anderes gleichen Namens steht. Ein Tipp darauf öffnet den Wikidata-Eintrag.\nBei »Ja« wird auf Wikidata »stellt dar« (P180) eingetragen. Als Beleg wird der »Corpus der barocken Deckenmalerei in Deutschland«, Band 1 (https://www.wikidata.org/wiki/Q118117102), mit der Seitenzahl hinter der Textstelle eingetragen. Ein Tipp auf die Textstelle öffnet den Artikel auf https://deckenmalerei-lab.badw.de an genau dieser Stelle. Das Foto ist die Abbildung aus dem Band, soweit es eine gibt.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Zeigt %subject% laut Textstelle %value_label%?",
+    "confidence_type": "L",
+    "prompt_type": "TTI",
+    "prompt_labels_list": [
+      "Dargestellt",
+      "Textstelle"
+    ],
+    "response_type": "YN",
+    "action_type": "WA",
+    "daily_streak_target": 10,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/St._Martin_Adelshausen_02.jpg"
+  },
+  "action_request_templates": [
+    {
+      "request_method": "POST",
+      "request_url": "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/%custom_value1%/statements",
+      "request_body": "{\"statement\": {\"property\": {\"id\": \"P180\"}, \"value\": {\"type\": \"value\", \"content\": \"%custom_value2%\"}, \"qualifiers\": [], \"references\": [{\"parts\": [{\"property\": {\"id\": \"P248\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_volume%\"}}, {\"property\": {\"id\": \"P304\"}, \"value\": {\"type\": \"value\", \"content\": \"%var_pages%\"}}]}]}, \"comment\": \"Textstelle aus dem Corpus der barocken Deckenmalerei bestätigt via Como\"}"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Erste Prüfung",
+      "subtitle": "Die erste Textstelle geprüft",
+      "goal_type": "D",
+      "goal_value": 1
+    },
+    {
+      "title": "Prüfung im Blick",
+      "subtitle": "10 Textstellen geprüft",
+      "goal_type": "D",
+      "goal_value": 10
+    },
+    {
+      "title": "Drei Tage Barock",
+      "subtitle": "An drei Tagen in Folge gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    },
+    {
+      "title": "Schlussstein",
+      "subtitle": "Die letzte offene Textstelle entschieden",
+      "goal_type": "L",
+      "goal_value": 0
+    }
+  ]
+}

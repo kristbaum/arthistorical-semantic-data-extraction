@@ -1,29 +1,36 @@
 ---
 name: extract-cbd-to-wd-skill
-description: "Use when asked to extract structured data from CbDD articles (printed Corpus der barocken Deckenmalerei, data/formatted or cleaned output) into Wikidata statements — buildings, rooms, ceiling paintings, painters, stuccoists, commissioners, dates, techniques, patron saints, depicted subjects. Reconciles the buildings and people against Wikidata and the deckenmalerei.eu dump, writes QuickStatements batches cited to the printed volume and page, uses {NEW:…} placeholders for items that still have to be created, derives Iconclass notations from the text (iconclass-cbdd skill), and builds a Como game CSV that shows each statement with the passage it was extracted from. Trigger on 'extract the data from this article', 'make Wikidata statements for Band05', 'put this church's paintings on Wikidata', 'QS batch from the corpus', 'Como game for the corpus statements'."
+description: "Use when asked to extract structured data from CbDD articles (printed Corpus der barocken Deckenmalerei, data/formatted or cleaned output) into Wikidata statements — buildings, rooms, ceiling paintings, painters, stuccoists, commissioners, dates, techniques, patron saints, depicted subjects. Reconciles the buildings and people against Wikidata and the deckenmalerei.eu dump, writes one claims file per article with the verbatim passage behind every claim, and builds from it (deterministically): QuickStatements batches cited to the printed volume and page with {NEW:…} placeholders for items still to be created, a direct batch for high-certainty statements, a curator queue, and Como games (config JSON + prompt CSV) for the interpretive statements, with links into the deckenmalerei-lab page that scroll to the passage. Trigger on 'extract the data from this article', 'make Wikidata statements for Band05', 'put this church's paintings on Wikidata', 'QS batch from the corpus', 'Como game for the corpus statements'."
 ---
 
 # Extract CbDD articles to Wikidata
 
 Turns one article, a list of lemmas, or a band of the printed *Corpus der
-barocken Deckenmalerei in Deutschland* into reviewed QuickStatements batches.
-**Use the `as-quickstatments` skill for all batch syntax, value formats and
-validation** — load it first; this skill adds the CbDD data model, the
-reconciliation rules and the placeholder workflow on top. **Use the
-`iconclass-cbdd` skill for the Iconclass statements** (`P1257`, step 4).
+barocken Deckenmalerei in Deutschland* into checked Wikidata statements.
 
-Two deliverables carry the same statements: the QuickStatements batches, and
-a Como game CSV in which each statement is shown next to the passage of the
-article it was extracted from, so players can confirm it (step 6).
+**The split of work:** you (the model) read, reconcile and write one
+**claims file** per article: atomic claims, each with the verbatim passage it
+rests on. Everything after that is deterministic and done by
+`scripts/build.py`: placeholders, bookkeeping statements, checks, triage, QS
+files, Como games, links. Never hand-write QS lines, game CSVs or request
+bodies.
 
-Nothing is sent to Wikidata. The user runs the batches.
+Load first: `as-quickstatments` (QS syntax and value formats), and for the
+games the `como-game-creator` skill (`~/Projects/como-game-creator-skill`,
+especially `reference/llm-extracted-claims.md`). Iconclass: the
+`iconclass-cbdd` skill if installed, otherwise the Iconclass MCP (step 4).
+
+Nothing is sent to Wikidata. The user runs the batches and uploads the games.
 
 Files:
 - [references/data-model.md](references/data-model.md) — properties, classes,
-  volume QIDs, certainty and date rules. **Read it before writing statements.**
+  volume QIDs, certainty and date rules. **Read it before writing claims.**
+- [references/claims-format.md](references/claims-format.md) — the claims
+  file you write. **Read it before writing one.**
 - `scripts/cbdd_lookup.py` — article context + deckenmalerei.eu lookups.
+- `scripts/build.py` — claims files → everything else (see Output).
+- `scripts/check_quotes.py` — standalone verbatim check of passages.
 - `scripts/placeholders.py` — check / lookup / fill `{NEW:…}` placeholders.
-- `scripts/como_csv.py` — batches + `context.tsv` → Como CSV.
 
 ## Input
 
@@ -32,23 +39,25 @@ Cleaned articles (output of `clean-cbd-skill`, folder named by the user, e.g.
 `data/formatted/{Band}/{Lemma}.wiki`. Skip articles with a non-empty `|Meta=`
 and front/back matter (`Vorwort`, `Register`, …).
 
-## Output
+The deckenmalerei-lab wiki (`https://deckenmalerei-lab.badw.de`) holds the
+**older, uncleaned** text of the same articles (OCR errors such as "1695" for
+"1795"). Quotes always come from the cleaned file; `build.py` finds the part
+of each quote that also exists on the lab page for the link anchor.
 
-A folder the user names (default `data/wikidata/{Band}/`), shared by all
-articles of the run:
+## Output (folder `data/wikidata/{Band}/`, shared by all articles of the run)
 
-| File | Content |
-|---|---|
-| `create.qs` | one `CREATE` block per new item; only self-contained statements (terms, `P31`, own dates/technique/measurements, `P1343`) — **no placeholder as a value** |
-| `statements.qs` | everything else: statements on existing items and every statement that links two items; may contain placeholders as entity or value |
-| `placeholders.tsv` | `placeholder  kind  label_de  description_de  qid` (qid empty until created) |
-| `context.tsv` | `entity  property  value  lemma  pages  quote` — one row per extracted statement: the verbatim passage it rests on |
-| `como.csv` | generated by `como_csv.py` from the two batches + `context.tsv`; never written by hand |
-| `report.md` | per article: matched items with evidence, new items, skipped facts with reason, conflicts, open questions |
-
-If the folder already has these files (earlier run), append and reuse existing
-placeholders — never define the same person twice. Before creating a person
-also `grep` other bands' `data/wikidata/*/placeholders.tsv`.
+| File | Written by | Content |
+|---|---|---|
+| `claims/<lemma-slug>.json` | you | items + claims + passages, one file per article |
+| `create.qs` | build.py | one CREATE block per new item: terms, P31, P1343 and the direct statements that need no other new item |
+| `direct.qs` | build.py | high-certainty statements on existing items and links between new items (placeholders until filled); includes "already on Wikidata, add the reference" lines |
+| `curator.qs` | build.py | statements a person must look at, each with the reason as a comment |
+| `games/<slug>.json` + `.csv` | build.py | Como game configs and prompt CSVs (see Games) |
+| `claims.tsv` | build.py | every statement: id, route, game, reason, entity, property, value, qualifiers, quote, lab link, QS line |
+| `placeholders.tsv` | build.py | placeholder → label, description, qid (fill qid after creation) |
+| `build-report.md` | build.py | counts per route and game, curator queue |
+| `cache.json` | build.py | Wikidata / Iconclass / lab lookups (delete to refresh) |
+| `report.md` | you | per article: matches with evidence, skipped facts, conflicts, open questions |
 
 ## Workflow (per article)
 
@@ -58,233 +67,156 @@ also `grep` other bands' `data/wikidata/*/placeholders.tsv`.
 python3 .claude/skills/extract-cbd-to-wd-skill/scripts/cbdd_lookup.py article "<path>.wiki"
 ```
 
-Gives lemma, band, volume QID, page range, the ready `reference`
-(`S248 <volume> S304 "<pages>"`), labelled fields (Patrozinium, Technik, …),
-field identifiers with titles, the Maße table, room words, and the matching
-deckenmalerei.eu building with its QID and whatever rooms/paintings CbDD holds
-below it. The CBDDsync checkout defaults to `~/Projects/CBDDsync`
-(`--cbddsync` / `$CBDDSYNC_DIR`). Then read the whole article yourself — the
-script only finds structure; meaning comes from the text.
+Gives lemma, band, volume QID, page range, labelled fields, field identifiers
+with titles, the Maße table, room words and the matching deckenmalerei.eu
+building with its QID. Then read the whole article — the script only finds
+structure; meaning comes from the text.
 
 ### 2. Main subject(s): the building(s) — thorough
 
-Usually one building: the lemma. Some lemmas name a part (`Andechs, Ehem.
-Benediktinerabtei, Fürstenzimmer`): the room is the subject and the parent
-building is reconciled the same thorough way. An article about "Kirche und
-Kloster" has two buildings.
+Usually one building: the lemma. Some lemmas name a part (`…, Fürstenzimmer`):
+the room is the subject and the parent building is reconciled the same way.
 
 Find the QID in this order and record the evidence in the report:
 
-1. **deckenmalerei.eu**: `cbdd_buildings` from step 1 (exact appellation match,
-   QID via `P10626`). Still open the item: check `P31`, `P131`, coordinates and
-   dedication against the article — CbDD links are occasionally wrong. The
-   dump is read-only evidence: **never write `P10626`** to any item, also not
-   when a match is certain — that is CBDDsync's job.
-2. **Wikidata**: `search_items` with the lemma, the Ort, the patron saint;
-   SPARQL for buildings with `P131` = the municipality (resolve it first) and
-   a matching `P825` or label. Bavarian monument items (`P4244`, description
-   like "einschiffiger Saalbau … mit Ausstattung") are often the only item and
-   are the right one — the printed lemma as an alias on the item is a strong
-   signal (CBDDsync adds those).
-3. Decide: one confirmed item → use it. Two plausible items (church item +
-   separate monument item, church vs. monastery complex) → choose the one that
-   is the building itself, list the other in the report. Nothing after 1 and 2
-   → new building item with a placeholder (`{NEW:building:<lemma-slug>}`).
+1. **deckenmalerei.eu**: `cbdd_buildings` from step 1 (QID via `P10626`).
+   Still open the item: check `P31`, `P131`, dedication against the article.
+   **Never write `P10626`** — that is CBDDsync's job.
+2. **Wikidata**: `search_items` with lemma, place, patron saint; SPARQL on
+   `P131` = municipality. Bavarian monument items (description "einschiffiger
+   Saalbau … mit Ausstattung") are often the right item; the printed lemma as
+   an alias is a strong signal.
+3. One confirmed item → use it. Nothing → new building (`"new": "building"`).
 
-Confirm with at least two independent agreements (place + dedication, place +
-P4244 alias, CbDD ID + location). Never pick a building because the name alone
-matches — "St. Martin" exists in every second village.
+At least two independent agreements (place + dedication, place + alias, CbDD
+ID + location). Never pick a building because the name alone matches.
+
+Also look for **existing painting items** on the building (`P527`, or
+`?x wdt:P276|wdt:P361 wd:<building>`); reuse them with `"qid": …,
+"painting": true` (Dießen: the cupola fresco Q106548750 already existed).
 
 ### 3. People — thorough
 
-Everyone named as painter, stuccoist, architect, commissioner, template
-provider (data-model.md, "People"). For each:
+Painters, stuccoists, architects, commissioners: `cbdd_lookup.py person`,
+then Wikidata (label + dates in one SPARQL query for all names of the band),
+`normdata-search` when ambiguous. Match only when life dates fit the work date
+and the place fits the activity region. CbDD matches on surname + first given
+name are candidates, not answers (Anwander: "Johann" †1770 vs. Johann Baptist
+1750–1800 for frescoes of c. 1795). No match and too little to describe a new
+person → leave the claim out and list it in the report.
+
+### 4. Rooms, paintings, subjects — lax
+
+Rooms only when paintings sit in ≥ 2 rooms; paintings one item per described
+field; cycles get no item (`seq`, `pair` in the claims file). Dimensions:
+`a × b` = length × width; the Maße table's `Höhe` is the **room** height.
+
+Depicted subjects (`P180`): clearly named persons/saints with an item. Look up
+all saints of the band in one SPARQL query on German labels with a sitelink
+filter (`wikibase:sitelinks ?sl FILTER(?sl > 8)`), then check descriptions.
+
+Iconclass (`P1257`): one notation per clearly named subject, the most
+specific the text supports; confirm every notation (Iconclass MCP `resolve`,
+or `https://iconclass.org/<notation>.json`). The passage must name what the
+notation encodes. Skip local legends without a notation.
+
+### 5. Write the claims file
+
+`data/wikidata/{Band}/claims/<lemma-slug>.json`, format in
+[references/claims-format.md](references/claims-format.md). Rules:
+
+- **Quotes verbatim** from the cleaned article with markup removed
+  (`{{Abk|St.}}` → `St.`, `A<sub>1</sub>` → `A1`, file links → their text).
+  Cut with `[…]`. Table rows are quoted as rendered:
+  `Maße: […] A – 3,30 m – 1,75 × 1,40`.
+- Keep the authors' certainty as qualifiers (data-model.md, "Certainty");
+  the passage must contain the cue word (*wohl, vermutlich, um, zuschreiben*…)
+  or the claim lands in the curator queue.
+- `named_as` = the name as printed (becomes `P1932`).
+- One claim per fact; a list in `"s"` when the same passage supports the same
+  fact for several fields.
+
+### 6. Build, check, triage
 
 ```bash
-python3 .claude/skills/extract-cbd-to-wd-skill/scripts/cbdd_lookup.py person "Johann Baptist Anwander"
-```
-
-then Wikidata (`search_items`, SPARQL on label + `P106` + dates), and the
-`normdata-search` skill (GND) when ambiguous. Match only when life dates and
-activity fit the article: the work date must fall inside the life span, the
-place inside the activity region. CbDD matches on surname + first given name
-are **candidates, not answers**:
-
-> Adelshausen, Kapelle St. Martin (Bd 1): frescoes near 1795 "Johann Baptist
-> Anwanders". CbDD's only Anwander is "Anwander, Johann" → Q1530000, who died
-> 1770 — impossible. The right item is Q1692498 Johann Baptist Anwander
-> (1750–1800, Landsberg/Augsburg).
-
-Institutions and families as commissioners (`Grafen Fugger von Kirchberg und
-Weißenhorn`, a monastery, an abbot in office) — resolve to the family /
-institution / person item; abbots and provosts by name + office years.
-
-No match after this → new person item with a placeholder
-(`{NEW:person:<surname>-<given>}`), only if the article (or the biography in
-another article of the band) gives enough to describe them: at least a role
-and a date or place. Otherwise leave the statement out and list it in the
-report.
-
-### 4. Rooms and paintings — lax
-
-1. Look at what already exists: the CbDD tree from step 1, and
-   ```sparql
-   SELECT ?x ?xLabel ?class WHERE { ?x wdt:P276|wdt:P361 wd:<building>. OPTIONAL { ?x wdt:P31 ?class } }
-   ```
-   (repeat with a room QID for paintings). Reuse an item when label/field and
-   room clearly correspond; otherwise create.
-2. Rooms: create only where data-model.md says so.
-3. Paintings: one item per identified field, terms and classes as in
-   data-model.md. Labels and descriptions must be unique per pair — the
-   description carries the field ID and lemma.
-4. Cycles and room sequences get **no item of their own**: link the members
-   (`P155`/`P156` in identifier order, `P1639` for pairs, `P921` for a named
-   programme; rooms `P2789` connects with) and name the group in the
-   description — data-model.md, "Cycles and room sequences".
-5. Dimensions: `a × b` is length × width (`P2043`/`P2049`); `P2048` height only
-   where the text says `Höhe`/`H`. The Maße table's `Höhe` column is the
-   room's height → `P2048` on the room, not the painting.
-
-**Iconclass (`P1257`)**: load the `iconclass-cbdd` skill and follow it. The
-notations come mostly from the text — the entry title and the description
-paragraph of each field (persons, saints and their attributes, allegories,
-scenes, emblems), not from looking at the images. Each notation needs a
-passage that names what it encodes; that passage goes into `context.tsv`. If
-the skill is not installed, use the Iconclass MCP (`search`, then `resolve` to
-confirm every notation) with the same rule: one notation per clearly named
-subject, the most specific one the text supports, keys (`(+…)`) only when the
-text states them.
-
-Depicted subjects (`P180`) and template sources (`P144`) are best-effort: add
-what resolves cleanly, skip the rest without a report entry per item (just a
-count).
-
-### 5. Write the batches
-
-- Follow data-model.md for properties and the as-quickstatments skill for
-  syntax. Every substantive statement gets the volume reference from step 1.
-- Every touched item gets `P1343 <volume> P304 "<pages>"`; the main subject also
-  `P1810 "<Lemma>"`.
-- **Check first** (`get_statements`) on every existing item: skip values it
-  already has; to add the corpus reference to an existing value, repeat the
-  statement with the reference. Conflicts (other date, other painter) → report,
-  don't overwrite.
-- Keep the authors' certainty (data-model.md, "Certainty"). Never upgrade
-  `wohl` to fact, never guess a date more precise than printed.
-- `create.qs`: the placeholder goes in a comment on the label line, nothing
-  else may reference a placeholder inside a CREATE block:
-  ```
-  CREATE
-  LAST	Lde	"St. Martin in der Glorie"	/* {NEW:painting:adelshausen-kapelle-st-martin-b} */
-  LAST	Dde	"Deckenbild B in Adelshausen (Weil), Kapelle St. Martin"
-  LAST	Den	"ceiling painting B in Adelshausen (Weil), Kapelle St. Martin"
-  LAST	P31	Q1181933	S248	Q118117102	S304	"19-21"
-  LAST	P2079	Q134194	S248	Q118117102	S304	"19-21"
-  LAST	P571	+1795-00-00T00:00:00Z/9	P1480	Q5727902	S248	Q118117102	S304	"19-21"
-  LAST	P180	Q133704	S248	Q118117102	S304	"19-21"
-  LAST	P1343	Q118117102	P304	"19-21"
-  ```
-- `statements.qs`: the links, existing items first:
-  ```
-  Q41254096	P825	Q133704	S248	Q118117102	S304	"19-21"
-  Q41254096	P1343	Q118117102	P304	"19-21"	P1810	"Adelshausen (Weil), Kapelle St. Martin"
-  Q41254096	P527	{NEW:room:adelshausen-kapelle-st-martin-ar}	S248	Q118117102	S304	"19-21"
-  {NEW:room:adelshausen-kapelle-st-martin-ar}	P361	Q41254096	S248	Q118117102	S304	"19-21"
-  {NEW:room:adelshausen-kapelle-st-martin-ar}	P276	Q41254096	S248	Q118117102	S304	"19-21"
-  {NEW:painting:adelshausen-kapelle-st-martin-b}	P276	{NEW:room:adelshausen-kapelle-st-martin-ar}	S248	Q118117102	S304	"19-21"
-  {NEW:painting:adelshausen-kapelle-st-martin-b}	P170	Q1692498	P5102	Q230768	P1932	"Johann Baptist Anwander"	S248	Q118117102	S304	"19-21"
-  ```
-- Placeholder syntax: `{NEW:<person|building|room|painting|other>:<slug>}`,
-  slug = lowercase ASCII, digits, hyphens (`ä`→`ae`), painting/room slugs
-  prefixed with the lemma slug so they are unique across the band.
-- Add a row to `placeholders.tsv` for each new item; `label_de` and
-  `description_de` must be exactly the `Lde` / `Dde` in `create.qs`.
-- **Record the context while writing each statement**, in `context.tsv`
-  (TAB-separated, no quoting): `entity`, `property` and `value` exactly as in
-  the QS line (`LAST` lines use the block's placeholder; values keep their
-  quotes, e.g. `"11H(MARTIN)"`), then lemma, pages, and `quote` — the
-  sentence(s) of the article the statement rests on, verbatim, markup and
-  `[[:File:…|…]]` links removed, at most ~2 sentences. Every text-derived
-  statement needs one, qualifiers included (the quote must also support
-  `wohl`/`zugeschrieben`/`um`). Structural statements (`P1343`, `P527`,
-  `P31`, `P155`/`P156`, `P1639`) need none. Several statements may share a
-  quote (length and width from one Maße line).
-  ```
-  entity	property	value	lemma	pages	quote
-  {NEW:painting:adelshausen-kapelle-st-martin-b}	P170	Q1692498	Adelshausen (Weil), Kapelle St. Martin	19-21	Die Deckenbilder zeigen … so große Ähnlichkeit mit den Fresken Johann Baptist Anwanders, daß man sie dem Augsburger Meister zuschreiben muß.
-  ```
-
-### 6. Validate and build the Como CSV
-
-```bash
+python3 .claude/skills/extract-cbd-to-wd-skill/scripts/build.py \
+    --articles data/cleaned-with-skill-v2/{Band} --out data/wikidata/{Band}
 python3 .claude/skills/extract-cbd-to-wd-skill/scripts/placeholders.py check \
-    --map <out>/placeholders.tsv <out>/create.qs <out>/statements.qs
+    --map data/wikidata/{Band}/placeholders.tsv data/wikidata/{Band}/create.qs data/wikidata/{Band}/direct.qs
+for j in data/wikidata/{Band}/games/*.json; do
+  python3 ~/Projects/como-game-creator-skill/scripts/validate.py "$j" "${j%.json}.csv"; done
 ```
 
-Swaps placeholders for dummy QIDs, runs the as-quickstatments validator, and
-flags undefined/unused placeholders, placeholders used as values inside CREATE
-blocks, and non-unique label+description pairs. Fix every error.
+Checks per claim: passage verbatim in the article; certainty qualifiers backed
+by a cue word; inscription text found in the passage; every QID exists and is
+no redirect; statement not already on the item (then: direct, reference only).
 
-```bash
-python3 .claude/skills/extract-cbd-to-wd-skill/scripts/como_csv.py \
-    --context <out>/context.tsv --map <out>/placeholders.tsv \
-    -o <out>/como.csv <out>/create.qs <out>/statements.qs
-```
+Routes:
 
-One Como prompt per statement with context (labels fetched from Wikidata):
-
-| Column | Content |
+| Route | When |
 |---|---|
-| `text1` (+ `text1_link`) | item: label – description (link for existing items; new items marked `(neu)`) |
-| `text2` | the statement in words: `Urheber: Johann Baptist Anwander (Art der Behauptung: Zuschreibung)` |
-| `text3` | `»quote«` (lemma, S. pages) |
-| `custom_id` | `entity|property|value` |
-| `custom_value1` | the exact QS line (placeholders replaced once resolved) |
-| `custom_value2` | lemma, pages |
+| direct | structural statements; labelled-field/table properties (P2079, P186, P2043, P2049, P2048, P2386, P825, P361, P276, P1684 …) with an unhedged passage; statements already on Wikidata (reference only) |
+| audit | deterministic 10 % sample of the direct text claims, ≥ 1 per article → game "Stichprobe Corpus" (no action) |
+| game | P170, P571 (year precision), P1257, P180, P5816 on paintings, checks passed; Yes/No games only for unhedged claims |
+| curator | any failed check; hedged claim for a Yes/No game; P84, P88, P921, date ranges … |
 
-Game config (printed by the script; see the `como-game-creator` skill for the
-rest): `prompt_type TTT`, labels `Objekt / Aussage / Textstelle`,
-`response_type YN`, `confidence_type D`, language `de`, question "Wird die
-Aussage durch die Textstelle aus dem Corpus der barocken Deckenmalerei
-belegt?". No `action_type`: the Yes-confirmed rows of the export select which
-QS lines to run (their `custom_value1`). The script lists statements without
-context — add the missing rows to `context.tsv` (or justify them in the
-report) and rerun.
+Fix the claims file (not the outputs) when a check fails because *you* got
+something wrong; leave real ambiguities in the curator queue.
 
-### 7. Hand over
+### 7. Games
 
-Report (as-quickstatments "Report" format, plus per article: building and
-people matches with their evidence; number of new rooms/paintings; skipped
-facts). Tell the user the run order:
+| Game (slug) | Response | Confidence | Action (REST, `POST …/items/%custom_value1%/statements`) |
+|---|---|---|---|
+| Wer hat das gemalt? | SC: belegt / zugeschrieben / vermutlich / wahrscheinlich | E | P170 + qualifier per option (`trigger_option`), P1932 = `%var_named_as%` |
+| Wann wurde das gemalt? | SC: so datiert / um / vermutlich | E | P571 year + qualifier per option |
+| Iconclass-Detektiv | YN | E | P1257 notation, label from iconclass.org |
+| Wer ist zu sehen? | YN | L | P180 |
+| Zustandsbericht | YN | L | P5816 |
+| Stichprobe Corpus | YN | S | none (measures the error rate of the direct route) |
+
+Double confirmation (`E`) only for the judgment calls (certainty, Iconclass);
+the plain Yes/No checks need one logged-in answer (`L`).
+
+Prompts carry only what players use, one link per piece of evidence:
+
+- **Question**: names the painting (`%subject%`: »title«, description) and
+  the claim, so no separate painting block is needed.
+- **Claim block**: only where the question isn't enough: painter (Wikidata
+  link, name as printed), Iconclass notation (text from iconclass.org, link
+  into the tree), depicted subject (Wikidata link, to tell namesakes apart),
+  the audit statement. Zustand and Datierung have none (value in the question
+  or the options).
+- **Textstelle**: »quote« (S. pages), the single link into the article: the
+  lab page with a `#:~:text=` fragment.
+- **Image**, last and unlabelled: the scan from the lab
+  (`/images/x/xy/<file>`, found via the `[[:File:…|A]]` links, the captions,
+  or caption ranges like `A1–4`), else P18 of an existing painting. Como shows
+  lab images through its proxy. Prompts without an image just lose the block.
+  Because the image comes last, no labels shift.
+
+The volume is the same on every prompt, so it is not a block. The long
+description names it with a link to its Wikidata item, says the page is
+added from the passage, and explains how to decide (what counts as Yes/No,
+what each option means). Every reference is `P248 %var_volume%` +
+`P304 %var_pages%`. Requires Como with `var_*` columns and `trigger_option`
+(migration 0052).
+
+### 8. Hand over and run order
 
 1. Run `create.qs` in QuickStatements.
-2. `placeholders.py lookup --map placeholders.tsv --apply` — finds each new item
-   by its unique German label + description and writes the QID into the map
-   (or fill the `qid` column by hand).
-3. `placeholders.py fill --map placeholders.tsv statements.qs` → writes
-   `statements.filled.qs` (ready) and `statements.pending.qs` (lines whose
-   placeholders still have no QID).
-4. Run `statements.filled.qs`.
-
-The Como game can be played before or after step 1. Rerun `como_csv.py` after
-step 2 so `custom_value1` and the item links carry the real QIDs instead of
-placeholders.
-
-## Section → data cheat sheet
-
-| Section | Goes to |
-|---|---|
-| first paragraph | context only (parish, diocese, *z. Z. der Ausmalung*) — not written |
-| `'''Patrozinium:'''` | building `P825` |
-| `'''Zum Bauwerk:'''` | building `P571`, `P84`; room names |
-| `'''Auftraggeber:'''` | paintings `P88` |
-| `'''Autor und Entstehungszeit:'''` | paintings `P170` (+ certainty), `P571`; people's biographies |
-| `== Befund ==` | rooms (Träger), `P2079`/`P186` (Technik), `P2043`/`P2049`/`P2386` (Maße), room `P2048` (Höhe), `P5816` (Erhaltungszustand) |
-| `== Beschreibung (und Ikonographie) ==` | painting items (one per field), labels, `P180`, `P1257`, `P1684`, `P144` |
-| `== Quellen und Literatur ==` | not written (the corpus is the source); may help disambiguate people |
+2. `placeholders.py lookup --map placeholders.tsv --apply` (finds new items by
+   unique German label + description) or fill the `qid` column by hand.
+3. Rerun `build.py`: created items are now used by QID everywhere — the game
+   CSVs and `direct.qs` no longer contain placeholders.
+4. Run `direct.qs`. Review `curator.qs`.
+5. Create the games from `games/*.json`, upload the CSVs, ask for activation.
+   Games may be played on placeholders for testing only (unlisted): their
+   actions would fail.
 
 ## Settled decisions
 
 - Maße `a × b` = length × width; height only when written as `Höhe`.
 - No items for picture cycles or room sequences; members are linked directly.
 - Never add `P10626`.
+- One claim per Como prompt; certainty is chosen by players, not copied from
+  the model.

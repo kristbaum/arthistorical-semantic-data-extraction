@@ -111,7 +111,7 @@ def cmd_check(a) -> int:
             elif fields[0] == "LAST" and "/*" in line and PH_RE.search(line.split("/*", 1)[1]):
                 create_open = None
             elif fields[0] == "LAST" and PH_RE.search(line.split("/*", 1)[0]):
-                print(f"{b}:{n}: ERROR: placeholder used as a value inside a CREATE block; move that statement to statements.qs")
+                print(f"{b}:{n}: ERROR: placeholder used as a value inside a CREATE block; move that statement to direct.qs")
                 errors += 1
             out.append(PH_RE.sub(lambda m: dummy[m.group(0)], line))
         if create_open is not None:

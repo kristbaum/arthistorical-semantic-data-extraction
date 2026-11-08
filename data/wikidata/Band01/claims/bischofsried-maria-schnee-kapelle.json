@@ -1,0 +1,20 @@
+{
+  "lemma": "Bischofsried, Maria-Schnee-Kapelle",
+  "items": {
+    "bld": {"qid": "Q41253998", "main": true},
+    "wolcker": {"qid": "Q1693998"},
+    "karg": {"qid": "Q94819127"},
+    "kuppel": {"new": "ceiling", "label": "Das Gnadenbild von Bischofsried", "desc_de": "Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle", "desc_en": "dome fresco in Bischofsried, Maria-Schnee-Kapelle"}
+  },
+  "claims": [
+    {"s": "bld", "p": "P825", "v": "Q263827", "quote": "Patrozinium: Maria-Schnee"},
+    {"s": "kuppel", "p": "P276", "v": "bld", "structural": true},
+    {"s": "kuppel", "p": "P2079", "v": "Q134194", "quote": "Technik: Fresko; polychrom"},
+    {"s": "kuppel", "p": "P2386", "v": "4.75U11573", "quote": "Maße: Höhe 6 m (Stich 1,70); Ø 4,75"},
+    {"s": "kuppel", "p": "P88", "v": "karg", "named_as": "Propst Herkulan Karg", "quote": "Auftraggeber: Propst Herkulan Karg. v. Dießen (1728–55)"},
+    {"s": "kuppel", "p": "P170", "v": "wolcker", "q": {"P5102": "Q230768"}, "named_as": "Johann Georg Wolcker", "quote": "Das unsignierte Freskobild im Kuppelspiegel zeigt so große Übereinstimmungen mit den zwischen 1730–34 geschaffenen Fresken des Johann Georg Wolcker in der Zisterzienser-Stiftskirche Stams (Tirol), daß es in das Werk dieses Künstlers einzureihen ist."},
+    {"s": "kuppel", "p": "P571", "v": "+1730-00-00T00:00:00Z/9", "q": {"P1480": "Q5727902"}, "quote": "Das Fresko ist wohl ebenfalls in den Jahren um 1730 entstanden."},
+    {"s": "kuppel", "p": "P5816", "v": "Q106379705", "quote": "Das Kuppelfresko ist in sehr schlechtem Zustand: große Risse, Feuchtigkeitsflecken (z. T. Fehlstellen), teilweise Übermalungen besonders im südwestlichen Viertel."},
+    {"s": "kuppel", "p": "P180", "v": "Q345", "quote": "Engel tragen das Gnadenbild der Kapelle, Maria-Schnee, auf Wolken wie in einer triumphalen Himmelfahrt empor."}
+  ]
+}

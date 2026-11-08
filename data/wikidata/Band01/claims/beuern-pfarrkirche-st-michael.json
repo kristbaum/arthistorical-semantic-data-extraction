@@ -1,0 +1,24 @@
+{
+  "lemma": "Beuern, Pfarrkirche St. Michael",
+  "items": {
+    "bld": {"qid": "Q41254590", "main": true},
+    "schmuzer": {"qid": "Q1707978"},
+    "schoepf": {"qid": "Q835326"},
+    "lhs": {"new": "ceiling", "label": "Engelsturz", "desc_de": "Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael", "desc_en": "ceiling painting in the nave of Beuern, Pfarrkirche St. Michael"}
+  },
+  "claims": [
+    {"s": "bld", "p": "P825", "v": "Q45581", "quote": "Patrozinium: St. Michael"},
+    {"s": "bld", "p": "P84", "v": "schmuzer", "named_as": "Joseph Schmuzer", "quote": "Unter Pfarrer Kaspar Mauser (1717–45) wurde 1724–25 der Neubau der Kirche durch Joseph Schmuzer errichtet"},
+    {"s": "lhs", "p": "P276", "v": "bld", "structural": true},
+    {"s": "lhs", "p": "P2079", "v": "Q134194", "quote": "Technik: Fresko; polychrom"},
+    {"s": "lhs", "p": "P2043", "v": "9.10U11573", "quote": "Maße: Höhe 13,15 m; 9,10 × 6,00"},
+    {"s": "lhs", "p": "P2049", "v": "6.00U11573", "quote": "Maße: Höhe 13,15 m; 9,10 × 6,00"},
+    {"s": "lhs", "p": "P170", "v": "schoepf", "named_as": "J de Schoepf", "quote": "Daher kommt nur Johann Adam Schöpf (*1702 Stadtamhof † 1772 Egenburg), Vater und Lehrer des Johann Nepomuk, nach 1742 kurkölnischer Truchseß und Hofmaler, ab 1757 Hofmarksherr von Geiselbullach (Keim) in Frage."},
+    {"s": "lhs", "p": "P571", "v": "+1759-00-00T00:00:00Z/9", "quote": "Signatur in der östlichen Rahmenmuschel des LHs-Bildes: J de Schoepf: inv. et pinx./1759."},
+    {"s": "lhs", "p": "P180", "v": "Q45581", "quote": "Mit Helm, Lederpanzer und wehendem roten Mantel bekleidet, erhebt Michael das flammende Schwert gegen Luzifer und seinen Anhang."},
+    {"s": "lhs", "p": "P180", "v": "Q185498", "quote": "Mit Helm, Lederpanzer und wehendem roten Mantel bekleidet, erhebt Michael das flammende Schwert gegen Luzifer und seinen Anhang."},
+    {"s": "lhs", "p": "P180", "v": "Q186350", "quote": "Gottvater thront als Weltregent in der Glorie, umgeben von anbetenden Engeln."},
+    {"s": "lhs", "p": "P1257", "v": "\"11G33\"", "quote": "Unterhalb der Gestalt Michaels stürzen die Feinde, nackte menschliche Leiber, in Qualen gewunden und aneinandergepreßt, auf dunklen Wolken hinab; Blitze des Himmels treffen sie."},
+    {"s": "lhs", "p": "P1684", "v": "la:\"QUIS /UT / DEUS\"", "quote": "Engel präsentieren einen Schild mit der Aufschrift QUIS /UT / DEUS und die Seelenwaage Michaels."}
+  ]
+}
