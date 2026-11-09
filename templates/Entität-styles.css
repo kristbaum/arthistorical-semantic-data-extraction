@@ -28,8 +28,8 @@
 	white-space: normal;
 }
 
-.ent:hover > .ent-popover,
-.ent:focus-within > .ent-popover {
+/* TemplateStyles accepts Selectors Level 3 only — no :focus-within */
+.ent:hover > .ent-popover {
 	display: block;
 }
 
