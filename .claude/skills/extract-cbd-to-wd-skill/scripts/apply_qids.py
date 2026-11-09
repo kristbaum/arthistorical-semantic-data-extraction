@@ -13,7 +13,7 @@ placeholders.tsv by `placeholders.py lookup --apply`) — this script sets
 
 Subcommands
 -----------
-  write --out data/wikidata/Band01 --articles data/cleaned-with-skill-v2/Band01 [--apply]
+  write --out data/wikidata/Band01 --articles data/cleaned-with-skill-v2/Band01 [--lemma L] [--apply]
       Resolve every ref to a QID and set it in the article. Dry run unless
       --apply. Reports refs still waiting for their item (placeholder without
       QID), refs not found in the article, and CONFLICTs (template already has
@@ -110,6 +110,8 @@ def cmd_write(a) -> int:
     stats = {"set": 0, "already": 0, "waiting": 0, "missing": 0, "conflict": 0}
     for _p, spec in claims_files(a.out):
         lemma = spec["lemma"]
+        if a.lemma and lemma != a.lemma:
+            continue
         art = a.articles / f"{lemma}.wiki"
         if not art.exists():
             print(f"  NOARTICLE {lemma}")
@@ -204,6 +206,8 @@ def match(spec: dict, key: str, it: dict, ents: list[dict]) -> list[dict]:
 def cmd_link(a) -> int:
     n_new = n_open = 0
     for path, spec in claims_files(a.out):
+        if a.lemma and spec["lemma"] != a.lemma:
+            continue
         art = a.articles / f"{spec['lemma']}.wiki"
         if not art.exists():
             print(f"  NOARTICLE {spec['lemma']}")
@@ -239,6 +243,7 @@ def main() -> int:
         s.add_argument("--out", required=True, type=Path, help="data/wikidata/{Band}")
         s.add_argument("--articles", required=True, type=Path, help="folder with the cleaned {Lemma}.wiki files")
         s.add_argument("--apply", action="store_true")
+        s.add_argument("--lemma", help="only this article (exact lemma)")
     a = ap.parse_args()
     return cmd_write(a) if a.cmd == "write" else cmd_link(a)
 
