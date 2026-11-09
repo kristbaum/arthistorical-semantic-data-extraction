@@ -7,12 +7,12 @@ It is the only thing the model writes; `build.py` derives everything else.
 {
   "lemma": "Adelshausen (Weil), Kapelle St. Martin",
   "items": {
-    "bld": {"qid": "Q41254096", "main": true},
-    "anwander": {"qid": "Q1692498"},
-    "langhaus": {"new": "room", "label": "Langhaus", "p31": "Q607600"},
-    "b": {"new": "ceiling", "field": "B", "label": "St. Martin in der Glorie"},
-    "a1": {"new": "ceiling", "field": "A1", "label": "Himmel", "cycle": "Allegorische Darstellungen"},
-    "w1": {"new": "wall", "field": "W1", "label": "St. Joseph"},
+    "bld": {"qid": "Q41254096", "main": true, "ref": "e9yssbz5"},
+    "anwander": {"qid": "Q1692498", "ref": "gfhveak5"},
+    "langhaus": {"new": "room", "label": "Langhaus", "p31": "Q607600", "ref": "lrcj32hd"},
+    "b": {"new": "ceiling", "field": "B", "label": "St. Martin in der Glorie", "ref": "fea4ldbw"},
+    "a1": {"new": "ceiling", "field": "A1", "label": "Himmel", "cycle": "Allegorische Darstellungen", "ref": "wbyvanzd"},
+    "w1": {"new": "wall", "field": "W1", "label": "St. Joseph", "ref": "shhi462b"},
     "kuppel": {"new": "ceiling", "label": "Das Gnadenbild von Bischofsried",
                "desc_de": "Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle",
                "desc_en": "dome fresco in Bischofsried, Maria-Schnee-Kapelle"},
@@ -48,6 +48,14 @@ Keys are free short names used in `claims`. Each item is either
   - `room`: `p31` required (Langhaus Q607600, Altarraum Q207707, Empore
     Q648224, Vierung Q728243 …). Description `Raum in <Lemma>`.
   - `building`, `person`, `other`: `p31`, `desc_de`, `desc_en` required.
+
+Every item may carry **`"ref"`**: the `id` of the `{{Entität}}` template
+that marks this entity in the cleaned article (8 characters a-z0-9, listed by
+`cbdd_lookup.py article` under `entities`). Copy it exactly; one ref per item,
+each ref once. `build.py` copies refs into `claims.tsv` (`entity_ref`,
+`value_ref`) and `refs.tsv`; `apply_qids.py write` uses them to put the item's
+QID into the template once the item exists. Items without a template (no
+`{{Entität}}` for them) have no ref.
 
 Label + German description must be unique across the band (the build stops
 otherwise).

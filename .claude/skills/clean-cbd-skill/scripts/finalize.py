@@ -3,8 +3,8 @@
 
 Runs `postprocess()` from src/articles/postprocess.py over the body (spaces
 before punctuation, blank lines, one blank line around == headings ==), puts
-one `* ` bullet on every line of the bibliography, links field identifiers to
-their images (link_identifiers.py), leaves the
+one `* ` bullet on every line of the bibliography, marks the building and the
+paintings with {{Entität}} (entities.py), leaves the
 {{Artikel …}} template untouched, and ensures one trailing newline.
 Run it again after fixing captions — it is idempotent.
 
@@ -24,7 +24,7 @@ from articles.helpers import parse_article_file  # noqa: E402
 from articles.postprocess import postprocess  # noqa: E402
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from link_identifiers import link_body  # noqa: E402
+from entities import mark_body  # noqa: E402
 
 # a line that is only a label: '''Zum Bauwerk:''' / Zur Ausstattung:
 _LABEL_LINE_RE = re.compile(r"^(?:'{3}[^']+'{3}|[A-ZÄÖÜ][\w ]+:)\s*$")
@@ -53,7 +53,7 @@ def main() -> None:
         path = Path(arg)
         text = path.read_text(encoding="utf-8")
         template_block, _fields, body = parse_article_file(text)
-        new = template_block.rstrip("\n") + "\n\n" + link_body(bullet_bibliography(postprocess(body))).strip("\n") + "\n"
+        new = template_block.rstrip("\n") + "\n\n" + mark_body(bullet_bibliography(postprocess(body))).strip("\n") + "\n"
         if new != text:
             path.write_text(new, encoding="utf-8")
             print(f"  [FINALIZED] {path}")

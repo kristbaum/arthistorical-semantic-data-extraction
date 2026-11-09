@@ -1,8 +1,8 @@
 {
   "lemma": "Dienhausen, Kapelle St. Magnus",
   "items": {
-    "bld": {"qid": "Q41253199", "main": true},
-    "bild": {"new": "ceiling", "label": "Hl. Benedikt", "desc_de": "Deckenbild im Altarraum von Dienhausen, Kapelle St. Magnus", "desc_en": "ceiling painting in the chancel of Dienhausen, Kapelle St. Magnus"}
+    "bld": {"qid": "Q41253199", "main": true, "ref": "kuv1n4a0"},
+    "bild": {"new": "ceiling", "label": "Hl. Benedikt", "desc_de": "Deckenbild im Altarraum von Dienhausen, Kapelle St. Magnus", "desc_en": "ceiling painting in the chancel of Dienhausen, Kapelle St. Magnus", "ref": "iznvz6p1"}
   },
   "claims": [
     {"s": "bld", "p": "P825", "v": "Q566085", "quote": "Patrozinium: St. Magnus"},

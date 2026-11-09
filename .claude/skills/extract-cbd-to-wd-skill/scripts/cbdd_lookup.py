@@ -78,6 +78,20 @@ IDENT_RE = re.compile(
     r"(?:\(keine Abbildung\)\s*)?"
     r"(?:'''(.+?)''')?"
 )
+ENTITY_RE = re.compile(
+    r"\{\{Entität\|(?:1=)?((?:[^{}]|\{\{[^{}]*\}\})*?)((?:\|(?:rolle|titel|bild|qid|id)=[^|{}]*)*)\}\}")
+ABK_RE = re.compile(r"\{\{Abk\|([^|}]*)(?:\|([^|}]*))?[^}]*\}\}")
+
+
+def entities(text: str) -> list[dict]:
+    """The {{Entität}} templates of a cleaned article: id (the key to note as
+    the item's "ref" in the claims file), rolle, text, titel, bild, qid."""
+    out = []
+    for m in ENTITY_RE.finditer(text):
+        e = {"text": ABK_RE.sub(lambda a: a.group(2) or a.group(1), m.group(1))}
+        e.update(dict(re.findall(r"\|(rolle|titel|bild|qid|id)=([^|{}]*)", m.group(2))))
+        out.append(e)
+    return out
 HEADING_RE = re.compile(r"^==+\s*(.+?)\s*==+\s*$")
 LABEL_RE = re.compile(r"^'''([^']+?):?'''\s*:?\s*(.*)$")
 
@@ -242,6 +256,9 @@ def article(path: Path, db: CbDD | None) -> dict:
     except ImportError:  # running outside the repo
         parse_article_file = None
     text = path.read_text(encoding="utf-8")
+    ents = entities(text)
+    # {{Entität|A|rolle=…|bild=…}} -> A (the markup from the cleaning step)
+    text = ENTITY_RE.sub(r"\1", text)
     if parse_article_file:
         _, fields, body = parse_article_file(text)
     else:
@@ -285,6 +302,7 @@ def article(path: Path, db: CbDD | None) -> dict:
         "labelled_fields": lab,
         "description_section": desc_key,
         "identifiers": idents,
+        "entities": ents,
         "measurements": [
             {"field": a, "room_height": b, "size": c} for a, b, c in measures if a not in ("Bereich",)
         ],

@@ -1,0 +1,46 @@
+<noinclude><templatedata>
+{
+    "description": "Markiert ein Bauwerk, eine Person oder ein Deckenbild im Artikeltext für die strukturierten Daten. Jede Entität wird nur einmal markiert (erste Nennung). Beim Überfahren erscheint ein Popover mit Titel, Rolle, Bild und – sobald eine Wikidata-ID gesetzt ist – den Wikidata-Angaben. Die Wikidata-ID wird von der Wikidata-Extraktion ergänzt.",
+    "params": {
+        "1": {
+            "label": "Text",
+            "description": "Der markierte Text, unverändert wie gedruckt. Enthält er ein »=«, als 1=… angeben.",
+            "type": "content",
+            "required": true,
+            "example": "Johann Adam Schöpf"
+        },
+        "rolle": {
+            "label": "Rolle",
+            "description": "Rolle des Markierten: Bauwerk (die Bezeichnung des Baus im ersten Satz), Raum, Auftraggeber, Maler, Stuckateur, Baumeister, Stecher, Kistler, Vergolder (auch Fassmaler), Person (andere historische Personen) oder Deckenbild.",
+            "type": "string",
+            "required": true,
+            "suggestedvalues": ["Bauwerk", "Raum", "Auftraggeber", "Maler", "Stuckateur", "Baumeister", "Stecher", "Kistler", "Vergolder", "Person", "Deckenbild"]
+        },
+        "titel": {
+            "label": "Bildtitel",
+            "description": "Nur bei Deckenbildern: Titel des Bildes ohne Bildfeld-Kürzel, aus der Bildunterschrift oder der Überschrift des Eintrags. Wird nicht im Text angezeigt.",
+            "type": "string",
+            "example": "Gericht"
+        },
+        "bild": {
+            "label": "Bild",
+            "description": "Nur bei Deckenbildern: Dateiname des Bildes ohne »Datei:«. Der Text verlinkt dann auf die Bilddatei.",
+            "type": "string",
+            "example": "Band01_chunk001_p011_img002.jpg"
+        },
+        "qid": {
+            "label": "Wikidata-ID",
+            "description": "Wikidata-Item (Q…). Wird von der Wikidata-Extraktion gesetzt.",
+            "type": "string",
+            "example": "Q123"
+        },
+        "id": {
+            "label": "Kennung",
+            "description": "Interne, eindeutige Kennung (8 Zeichen a-z0-9), wird beim Bereinigen automatisch vergeben und nie geändert. Verbindet die Stelle mit den Aussagen der Wikidata-Extraktion. Nicht von Hand setzen oder ändern.",
+            "type": "string",
+            "example": "k3f9x2ab"
+        }
+    },
+    "format": "inline"
+}
+</templatedata></noinclude>{{#invoke:Entität|main}}

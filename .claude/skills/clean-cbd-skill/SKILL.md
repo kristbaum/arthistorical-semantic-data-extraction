@@ -1,6 +1,6 @@
 ---
 name: clean-cbd-skill
-description: "Use when asked to clean, correct, proofread or finish formatting CbDD articles (Corpus der barocken Deckenmalerei) from data/formatted/ — one article, a list of lemmas, or a whole band — and write the result to a target folder. Goes beyond the run_pass2 LLM prompt: fixes OCR errors by cross-checking both OCR sources, removes running headers and page-break debris, rejoins split sentences, normalises section labels, Befund tables, identifiers (A<sub>1</sub>) and bibliographies, locates every image on the page scan to fix its position and restore lost captions, links identifiers to their images, and verifies nothing was lost. Opens the scan only where the OCRs contradict each other or the layout is in doubt. Trigger on 'clean this article', 'fix Band05', 'pass 2 by hand', 'proofread the CbDD text'."
+description: "Use when asked to clean, correct, proofread or finish formatting CbDD articles (Corpus der barocken Deckenmalerei) from data/formatted/ — one article, a list of lemmas, or a whole band — and write the result to a target folder. Goes beyond the run_pass2 LLM prompt: fixes OCR errors by cross-checking both OCR sources, removes running headers and page-break debris, rejoins split sentences, normalises section labels, Befund tables, identifiers (A<sub>1</sub>) and bibliographies, locates every image on the page scan to fix its position and restore lost captions, removes headings left over from splitting the volumes, normalises heading and label formatting, marks building, rooms, persons and paintings with {{Entität}} (with a stable id for the Wikidata link), tags the non-obvious abbreviations with {{Abk}}, and verifies nothing was lost. Opens the scan only where the OCRs contradict each other or the layout is in doubt. Trigger on 'clean this article', 'fix Band05', 'pass 2 by hand', 'proofread the CbDD text'."
 ---
 
 # Clean CbDD articles
@@ -16,6 +16,17 @@ For the band/chunk/page file layout and the page-comment metadata, see
 **The prime directive: this is an edition of a printed book.** Correct what the
 OCR and the layout broke; never change what the authors wrote. No new content,
 no paraphrase, no modernised spelling, no expanded abbreviations.
+
+**Main tasks**, beyond the OCR fixes:
+1. **Remove what the splitting left behind** — the book was cut into articles
+   automatically, so headings of the neighbouring article, book-part titles
+   and running headers sit at the start or end of an article or mid-text
+   (§3.8).
+2. **Normalise headings and labels — formatting only** (§3.9, §3.14): bold and
+   colons, painting entries that came out as headings; never rename a section.
+3. **Images**: captions, positions, galleries (§3.11).
+4. **Entities and abbreviations**: `{{Entität}}` for building, people,
+   rooms and paintings (§3.13), `{{Abk}}` for the book's shorthand (§3.12).
 
 ---
 
@@ -321,10 +332,23 @@ in the template already.
   `[[File:…]]` line to where §3.11 puts it.
 - **Citation split across lines**: `Luc: 10. U` + `34. wiedergegebene` →
   `Luc. 10,34 wiedergegebene` — verify against the OCR page.
+- **Headings left over from splitting** (main task 1): the articles were cut
+  from the volumes automatically, and the cut often kept a heading that
+  belongs to the neighbour — the next article's place or title as the last
+  line (`== HAGNBERG ==`, `== LUSTHAUS IM NACHMALIGEN HOFGARTEN ==`,
+  `== Filialkirche St. Katharina ==`), the article's own place repeated as a
+  heading at the top (`== WIES bei Steingaden ==`), or a book-part title
+  (`== EINGEMEINDETE VORORTE ==`, `== ANHANG VERLORENE DECKENMALEREIEN ==`,
+  `== NICHT HÖFISCHE BAUTEN ==`). Delete the heading and log `LEFTOVER`.
+  `check_headings.py` lists the candidates (§3.14).
 - **Text from a neighbouring article** (the head of the next lemma, or the
-  tail of the previous one) — do not delete; log it in the report (§5).
+  tail of the previous one, often right after such a leftover heading) — do
+  not delete; log it as `FOREIGN` in the report (§5).
 
 ### 3.9 Section labels (new)
+`check_headings.py --apply` fixes the plain cases (`Erhaltungszustand:` →
+`'''Erhaltungszustand:'''`, `'''Maße'''` → `'''Maße:'''`) and lists labels that
+lost both bold and colon (`NOLABEL`). The rule:
 The inline labels are bold with the colon inside, content on the same line:
 `'''Patrozinium:'''`, `'''Zur Geschichte:'''`, `'''Zum Bauwerk:'''`,
 `'''Auftraggeber:'''`, `'''Autor und Entstehungszeit:'''`, and inside Befund
@@ -439,15 +463,14 @@ image to its description, so check **every** caption against the
   one `File:` line per image, no blank lines inside.
 - Log each gallery as `GALLERY <identifiers>` in the report.
 
-**Links** — don't type them. `finalize.py` (§4 step 4) builds them from the
-captions (`[[File:…|thumb|…]]` and gallery lines alike): every entry head in the Beschreibung section and every subscripted
-identifier in the body (`in A<sub>2</sub>`) becomes
-`[[:File:Band01_chunk001_p011_img002.jpg|A<sub>2</sub>]]` — a link to the
-image's file page. A field with several images links to its first full view,
-not to an `Ausschnitt`/`Detail`. Plain letters outside entry heads
-(`Fresko B`, often another building), ranges and identifiers without an image
-stay unlinked. Links are rebuilt from the captions on every `finalize.py`
-run, so after a caption fix just run it again.
+**Links** — don't type them. `finalize.py` (§4 step 4) builds the painting
+templates (§3.13) from the captions (`[[File:…|thumb|…]]` and gallery lines
+alike): each field gets **one** `{{Entität|A<sub>2</sub>|rolle=Deckenbild|titel=Gericht|bild=Band01_chunk001_p011_img002.jpg}}`
+— on its entry head, else on its first mention. The shown identifier links to
+the image's file page; a field with several images points to its first full
+view, not to an `Ausschnitt`/`Detail`. Further mentions stay plain. The
+templates are rebuilt from the captions on every `finalize.py` run (a `qid=`
+already set is kept), so after a caption fix just run it again.
 
 ### 3.12 Abbreviations: `{{Abk|…}}` (new)
 
@@ -457,12 +480,23 @@ repo as `templates/Modul-Abk-Daten.lua`. `{{Abk|LHs}}` shows `LHs` with the
 full form as a tooltip; bibliographic short titles also link to the
 glossary section.
 
+**Only where a reader needs it.** Abbreviations every reader understands —
+`St.`, `S.` (Seite), `hl.`, `vgl.`, `z. Z.`, `Bd`, `Nr.`, `Jh.`, `f.`/`ff.`,
+`Abb.`, `Anm.`, `ehem.`, the compass points `NO`/`SW` … — are marked
+`generisch = true` in the data and stay plain; the tagger never wraps them
+and unwraps them where an older run did. The tooltip is for the book's own
+shorthand: `LHs`, `AR`, `QSch.`, `LKr.`, `OB`, archive sigla, Bible books,
+bibliographic short titles. To move a key between the two groups, add or
+remove `generisch = true` in `templates/Modul-Abk-Daten.lua`, never decide
+per article.
+
 **Don't type them — tag the finished article** (§4 step 6). `tag_abk.py`
-wraps **every** occurrence of a glossary key in the main text, exactly as
-spelled in the table (`LKr.`, `z. Z.`, `Mayer-Westermayer`, `Lc` before
+wraps **every** occurrence of a non-generic glossary key in the main text,
+exactly as spelled in the table (`LKr.`, `Mayer-Westermayer`, `Lc` before
 `1,26`). It leaves out quotations (`»…«`, `›…‹`), the `== Quellen und
 Literatur ==` section, headings, links, templates, bold titles and labels,
-and `<sub>`. It applies the context rules from the data (Bible books only
+and `<sub>`. The text shown by a `{{Entität|…}}` is tagged like
+running text; its `rolle=`/`bild=`/`qid=` are not. It applies the context rules from the data (Bible books only
 before chapter,verse; `f.`/`v.` only after a number; `F.`/`H.` only before
 one). Keys marked `manuell` (`S`, `W`, `O`, `x`) are never tagged.
 
@@ -484,24 +518,153 @@ What else stays with you:
   the key `Bd`.
 - Add `{{Abk|S}}` / `{{Abk|W}}` / `{{Abk|O}}` by hand only where the letter
   is plainly a compass point (`Fenster von O und SO`). Never for field
-  identifiers — they are linked to their images (§3.11).
+  identifiers — they are painting templates (§3.11, §3.13).
 - An abbreviation the book uses that is missing from the table: leave it
   plain and log `ABK missing: …` — new keys go into
   `templates/Modul-Abk-Daten.lua` (and Modul:Abk/Daten on the wiki), not
   into the article. Never write `{{Abk|…}}` for an unknown key; it would
   land in `Kategorie:Unbekannte Abkürzung`.
 
+### 3.13 Entities: `{{Entität|…}}` (new)
+
+The building, rooms, the people behind the paintings and the paintings are
+marked with `{{Entität}}` (`templates/Entität.template`, `Modul:Entität`). The
+Wikidata extraction notes each template's `id` for the item it reconciles or
+creates; `apply_qids.py` later writes the `qid=` back by that id, and the page
+shows the Wikidata data on hover. The cleaning step only marks — **never write
+`qid=` or `id=`**. **Each entity is marked once**: one template per building,
+room, person and painting in the article.
+
+```
+{{Entität|<text as printed>|rolle=<Rolle>|titel=<Bildtitel>|bild=<file>|id=<auto>}}
+```
+- `1` — the marked text, unchanged; the article still reads as printed (use
+  `1=…` if it contains `=`).
+- `rolle` — one of exactly these eleven:
+
+  | Rolle | for |
+  |---|---|
+  | `Bauwerk` | the building (automatic, first sentence) |
+  | `Raum` | a room or part of the building holding paintings: `Langhaus`/`LHs`, `Altarraum`/`AR`, `Chor`, `Empore`, `Vierung`, `Fürstensaal`, `Bibliothek` |
+  | `Auftraggeber` | whoever commissioned or paid for the paintings |
+  | `Maler` | painter, also of a model or sketch |
+  | `Stuckateur` | stuccoist, also sculptor of stucco figures |
+  | `Baumeister` | architect, master builder |
+  | `Stecher` | engraver (of a model print, a portrait) |
+  | `Kistler` | cabinet-maker, joiner (Kistler, Schreiner) |
+  | `Vergolder` | gilder, also Fassmaler |
+  | `Person` | any other historical person: teacher, intermediary, lord of the manor |
+  | `Deckenbild` | a painting (mostly automatic) |
+- `titel` — paintings only: the title without the identifier, for the data
+  (not shown in the text).
+- `bild` — paintings only: image file name without `File:`; the text then
+  links to the image file.
+- `id` — set by `finalize.py`: a unique 8-character key (a-z0-9) for every
+  template, the automatic ones and the ones you mark by hand. Never type,
+  change or copy an id; an existing id is kept on every run, because claims
+  and QIDs are attached to it. Other skills ignore it.
+
+**Automatic** (`finalize.py`, via `entities.py`) — don't type these:
+- **Building**: the part of the article's first sentence that names it, up to
+  the first comma or semicolon: `{{Entität|Pfarrkirche|rolle=Bauwerk}}, Pfarrei …`,
+  `{{Entität|Kapelle im Holz Maria Eich|rolle=Bauwerk}}, Gemeinde Weil …`.
+- **Paintings with identifiers**, in every section that describes paintings
+  — *Beschreibung*, *Beschreibung und Ikonographie*, *Bildabfolge (und
+  Inschriften)*, *Darstellung*, *Rekonstruierende …*, *Erste Ausstattung*,
+  *Ikonographie*, room headings — i.e. every section except *Befund*,
+  *Quellen und Literatur*, *Zeichnung/Entwurf* and registers. Entry heads may
+  be letters, subscripts or numbers (`1 Zacharias …` medallions). The template
+  goes on the entry head, else the first mention in such a section, else the
+  first mention anywhere if the field has an image. `titel` comes from the
+  caption (its own part, before `und B<sub>1</sub> …`), else the bold caps
+  title of the entry, else the text before the first `;` (Asch: `B Huldigung
+  an die Immaculata; …`), else a short entry as a whole.
+- **Articles without identifier entries**: each bold caps title opening a
+  paragraph in such a section becomes
+  `'''{{Entität|ENGELSTURZ|rolle=Deckenbild|titel=Engelsturz|bild=…}}'''`.
+
+Check the automatic `titel` values in the dry run
+(`entities.py FILE.wiki`). A missing or wrong `titel` (a description
+fragment instead of a title) is fixed by hand after `finalize.py`; later runs
+keep an existing `titel` (and `qid`, `id`). To have a `titel` rebuilt from a changed
+caption, delete it and run `finalize.py` again.
+
+**By hand**, as part of the edit list (§4 step 3), on the untagged text:
+- **Persons** in `'''Zum Bauwerk:'''`, `'''Auftraggeber:'''` and
+  `'''Autor und Entstehungszeit:'''` (architects and stuccoists are often
+  named only in *Zum Bauwerk*): every named historical person, **once per article** — at the first mention
+  that gives the full name, else at the first mention (`der Hofmaler Schöpf`
+  … `Johann Adam Schöpf` → mark only the second). Role by what the person
+  does in the article (table above); `Person` only when no other role fits
+  (`den Porträtstich von {{Entität|Haid|rolle=Stecher}} nach {{Entität|Bergmüller|rolle=Maler}}`).
+- **Rooms** that hold paintings (named in *Träger der Deckenmalerei* or where
+  the description places a painting): the first mention of each in running
+  text, usually in *Zum Bauwerk* — never in a heading. The abbreviation stays
+  inside: `das {{Entität|{{Abk|LHs}}|rolle=Raum}} neu aufgeführt`,
+  `eingezogener {{Entität|Chor|rolle=Raum}}`. A room named first in a passage
+  about an earlier building is marked where the paintings are placed
+  (`Kuppelfresko über der {{Entität|Vierung|rolle=Raum}}`).
+- Not marked: names in inscriptions and signatures (`Inschrifttafel: … unter
+  dem Baumeister Johannes Kleinhans …`).
+- Not marked: researchers cited as references (`Schulten`, `Keim`,
+  `Thieme-Becker`, the source of a `Frdl. Mitt.`), names inside signatures and
+  »quotations«, depicted saints, persons known only by office (`der Abt`).
+- Wrap the name as printed, with forenames, particles and inflection
+  (`Emanuel Maximilian Freiherrn von Perfall`, `Johann Baptist Anwanders`),
+  not the office before it or the dates after it:
+  `Pfarrer {{Entität|Matthias Johann Nepomuk Bayerlacher|rolle=Auftraggeber}} von Beuern (1750–72)`.
+- **One painting with neither identifier nor printed title**: wrap the phrase
+  that names its subject in the first Beschreibung sentence, with title and
+  image: `der {{Entität|hl. Benedikt|rolle=Deckenbild|titel=Hl. Benedikt|bild=Band01_chunk001_p019_img001.jpg}}`.
+  `finalize.py` leaves such hand-made painting templates alone.
+
+`check_preservation.py` reads a template as its shown text, so marking never
+shows up as a lost or added word.
+
+### 3.14 Headings: formatting only (new)
+
+Main task 2. Section headings vary a lot across the volumes (*Beschreibung und
+Ikonographie*, *Bildabfolge*, *Darstellung*, *Ikonologie*, room headings …);
+the variants are the authors' structure and **stay as printed** — the
+deckenmalerei-lab skill reads them through a lookup table. Only formatting
+changes are allowed:
+
+- **Painting entries that came out as headings** (about 250 in the corpus):
+  `== A AUFFINDUNG DER GEBEINE DES SELIGEN RATHARD ==` becomes the entry
+  paragraph `A '''AUFFINDUNG DER GEBEINE DES SELIGEN RATHARD''' <text>` (§3.4).
+  `check_headings.py --apply` does this, joining the following text line.
+- **Labels** without bold or colon (§3.9) — `--apply` for the plain cases.
+- **Caps headings** inside the article (`CAPS`): a running header
+  (`== STADT FREISING ==`, `== WIES BEI STEINGADEN ==`) is deleted like any
+  running header (§3.8); the title of a group of entries
+  (`== PAULUSFOLGE ==`, `== GLORREICHER ROSENKRANZ ==`) becomes
+  `=== Paulusfolge ===` (§3.4). Decide by the scan or the context.
+- **Leftovers from splitting** (`LEFTOVER`): delete (§3.8).
+- **Empty section at the end** (`EMPTY`): its text is usually missing from the
+  OCR or sits elsewhere — find it; never delete the heading on a guess.
+- An OCR slip in a section name (`Ikonologi`) is corrected like any OCR error;
+  `--sections` lists names outside the known variants.
+
+Never rename, merge, reorder or add a section, and never turn a room heading
+into a label or vice versa.
+
+```bash
+uv run python .claude/skills/clean-cbd-skill/scripts/check_headings.py "$SRC"            # plan (step 1)
+uv run python .claude/skills/clean-cbd-skill/scripts/check_headings.py "$TARGET" --apply # safe fixes (step 3)
+```
+
 ---
 
 ## 4. Procedure per article
 
-1. Read the article. Run `ocr_diff.py` (§2) for the doubtful spots and, if
+1. Read the article. Run `check_headings.py "$SRC"` (§3.14) for leftover
+   headings, entry headings and labels, `ocr_diff.py` (§2) for the doubtful spots and, if
    the article has images, `page_images.py` (§2.2) and read the captions
    sheet. `find_sources.py --grep` gives the full readings of one spot when
    the diff context is too short.
 2. Decide which spots need the scan by §2.1 — usually none or a few per
    article — and look at those (overview for layout, crop for small print).
-3. Edit the body by rules 3.1–3.11 as a **list of exact replacements**
+3. Edit the body by rules 3.1–3.11 and 3.14 and mark the persons (§3.13) as a **list of exact replacements**
    applied to a copy of the original — never retype the article. Writing
    out the cleaned text is the largest cost of the whole skill (output
    tokens); the formatted text is already mostly right, so the edits are a
@@ -531,6 +694,7 @@ What else stays with you:
    EOF
    S=.claude/skills/clean-cbd-skill/scripts
    uv run python $S/apply_edits.py "$SRC" "$TARGET" "$SCRATCH/lemma.edits" \
+     && uv run python $S/check_headings.py "$TARGET" --apply \
      && uv run python $S/finalize.py "$TARGET" \
      && uv run python $S/check_preservation.py "$SRC" "$TARGET"
    ```
@@ -543,7 +707,7 @@ What else stays with you:
    throughout is written out in full.
 4. Apply the deterministic cleanups (spaces before punctuation, blank lines,
    one blank line around `== headings ==`, bibliography bullets, trailing
-   newline) and build the identifier links from the captions (§3.11):
+   newline) and build the building and painting templates (§3.11, §3.13):
    ```bash
    uv run python .claude/skills/clean-cbd-skill/scripts/finalize.py "$TARGET"
    ```
@@ -582,6 +746,7 @@ a human must look at:
 
 ```markdown
 ## Band01 / Andechs, Ehem. Benediktinerabtei, Ehem. Klosterapotheke
+- LEFTOVER: last line »== HAGNBERG ==« (next article's place) — removed.
 - CHECK p008: »F<sub>3</sub> ist kein Emblem« — the book probably means F<sub>4</sub>; left as printed.
 - UNSURE p007: »Luc: 10. U 34.« read as »Luc. 10,34«.
 - FOREIGN: last paragraph »G1 … Misere.« may belong to the next article.

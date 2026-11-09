@@ -280,6 +280,7 @@ def load_article(path: Path, articles: Path) -> dict:
     spec["pages"] = tpl["Originalseitenvon"] + (
         f"-{tpl['Originalseitenbis']}" if tpl.get("Originalseitenbis") not in (None, "", tpl["Originalseitenvon"]) else "")
     spec["plain"] = plain(wiki)
+    spec["_entity_ids"] = set(re.findall(r"\|id=([a-z0-9]+)", wiki))  # {{Entität|…|id=…}}
     spec["images"] = field_images(wiki)
     return spec
 
@@ -319,6 +320,7 @@ def expand(spec: dict, band: str, created: dict[str, str]) -> tuple[list[Stmt], 
         new_items.append({"key": key, "placeholder": ph, "kind": kind, "label": it["label"],
                           "dde": dde, "den": den, "p31": p31, "field": it.get("field")})
 
+    spec["_tok"] = tok
     spec["_fields"] = {tok[k]: it["field"] for k, it in items.items() if it.get("field")}
     spec["_titles"] = {tok[k]: it["label"] for k, it in items.items() if it.get("new") in ("ceiling", "wall")}
 
@@ -712,6 +714,21 @@ def main() -> None:
         specs.append(spec)
         stmts += st
         new_items.update({n["placeholder"]: n for n in ni})
+    # refs: the {{Entität|…|id=…}} each item stands for (written back by apply_qids.py)
+    ref_rows, ref_warn, seen_refs = [], [], {}
+    for spec in specs:
+        for key, it in spec["items"].items():
+            r = it.get("ref")
+            if not r:
+                continue
+            if r in seen_refs:
+                sys.exit(f"ref {r} used twice: {seen_refs[r]} and {spec['lemma']} / {key}")
+            seen_refs[r] = f"{spec['lemma']} / {key}"
+            if r not in spec["_entity_ids"]:
+                ref_warn.append(f"ref {r} ({spec['lemma']} / {key}) is not an id in the article")
+            ref_rows.append((r, spec["lemma"], key, spec["_tok"][key]))
+    tok_ref = {(spec["lemma"], spec["_tok"][k]): it["ref"]
+               for spec in specs for k, it in spec["items"].items() if it.get("ref")}
     labels = Counter((n["label"], n["dde"]) for n in new_items.values())
     dup = [k for k, c in labels.items() if c > 1]
     if dup:
@@ -778,11 +795,19 @@ def main() -> None:
             if ph not in new_items and QID_RE.match((r.get("qid") or "").strip()):
                 f.write(f"{ph}\t{r['kind']}\t{r['label_de']}\t{r['description_de']}\t{r['qid'].strip()}\n")
     with open(out / "claims.tsv", "w", encoding="utf-8") as f:
-        f.write("id\tlemma\tpages\troute\tgame\treason\tentity\tproperty\tvalue\tqualifiers\tquote\tlab_link\tqs\n")
+        # qs holds TABs itself, so it stays the last column
+        f.write("id\tlemma\tpages\troute\tgame\treason\tentity\tproperty\tvalue\tqualifiers\tquote\tlab_link"
+                "\tentity_ref\tvalue_ref\tqs\n")
         for s in stmts:
             q = ";".join(f"{p}={v}" for p, v in s.quals)
             f.write("\t".join([s.id, s.lemma, s.pages, s.route, s.game or "", s.reason, s.entity, s.prop, s.value, q,
-                               s.quote or "", s.lab_link or "", s.qs()]) + "\n")
+                               s.quote or "", s.lab_link or "",
+                               tok_ref.get((s.lemma, s.entity), ""), tok_ref.get((s.lemma, s.value), ""),
+                               s.qs()]) + "\n")
+    with open(out / "refs.tsv", "w", encoding="utf-8") as f:
+        f.write("ref\tlemma\titem\ttarget\n")
+        for r in ref_rows:
+            f.write("\t".join(r) + "\n")
     files = {tok: painting_image(spec, tok) for spec in specs for tok in {*spec["_fields"], *spec["_titles"]}}
     cache.lab_images({f for f in files.values() if f})
     images = {tok: cache.lab_image(f) for tok, f in files.items() if cache.lab_image(f)}
@@ -811,6 +836,9 @@ def main() -> None:
                                             for s in stmts if s.route == "curator"]
     nolab = [s.id for s in stmts if s.quote and "#:~:text=" not in (s.lab_link or "")]
     lines += ["", f"Passages without a lab text anchor (page link only): {len(nolab)}"]
+    n_items = sum(len(s["items"]) for s in specs)
+    lines += ["", f"Entity refs: {len(ref_rows)} of {n_items} items carry a ref (refs.tsv)."]
+    lines += [f"- {w}" for w in ref_warn]
     (out / "build-report.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("\n".join(lines[: lines.index("## Curator queue")]))
 

@@ -1,10 +1,10 @@
 {
   "lemma": "Bischofsried, Maria-Schnee-Kapelle",
   "items": {
-    "bld": {"qid": "Q41253998", "main": true},
-    "wolcker": {"qid": "Q1693998"},
-    "karg": {"qid": "Q94819127"},
-    "kuppel": {"new": "ceiling", "label": "Das Gnadenbild von Bischofsried", "desc_de": "Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle", "desc_en": "dome fresco in Bischofsried, Maria-Schnee-Kapelle"}
+    "bld": {"qid": "Q41253998", "main": true, "ref": "tdgc05ep"},
+    "wolcker": {"qid": "Q1693998", "ref": "jtd4knee"},
+    "karg": {"qid": "Q94819127", "ref": "nea2gj7v"},
+    "kuppel": {"new": "ceiling", "label": "Das Gnadenbild von Bischofsried", "desc_de": "Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle", "desc_en": "dome fresco in Bischofsried, Maria-Schnee-Kapelle", "ref": "bitwomf8"}
   },
   "claims": [
     {"s": "bld", "p": "P825", "v": "Q263827", "quote": "Patrozinium: Maria-Schnee"},

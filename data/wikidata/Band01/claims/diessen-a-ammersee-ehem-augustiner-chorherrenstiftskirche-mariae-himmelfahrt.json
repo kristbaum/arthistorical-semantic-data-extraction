@@ -1,16 +1,16 @@
 {
   "lemma": "Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt",
   "items": {
-    "bld": {"qid": "Q1254306", "main": true},
-    "fischer": {"qid": "Q72959"},
-    "bergmueller": {"qid": "Q551709"},
-    "karg": {"qid": "Q94819127"},
-    "langhaus": {"new": "room", "label": "Langhaus", "p31": "Q607600"},
-    "vierung": {"new": "room", "label": "Vierung", "p31": "Q728243"},
-    "a": {"new": "ceiling", "field": "A", "label": "Auffindung der Gebeine des seligen Rathard"},
-    "b": {"qid": "Q127502516", "painting": true},
-    "c": {"new": "ceiling", "field": "C", "label": "Gründung des Klosters St. Georgen durch Rathard"},
-    "d": {"qid": "Q106548750", "painting": true}
+    "bld": {"qid": "Q1254306", "main": true, "ref": "x8z94bd6"},
+    "fischer": {"qid": "Q72959", "ref": "mjl87aua"},
+    "bergmueller": {"qid": "Q551709", "ref": "p467s5y1"},
+    "karg": {"qid": "Q94819127", "ref": "hscgqw6e"},
+    "langhaus": {"new": "room", "label": "Langhaus", "p31": "Q607600", "ref": "ykszfh1m"},
+    "vierung": {"new": "room", "label": "Vierung", "p31": "Q728243", "ref": "vikcfhhq"},
+    "a": {"new": "ceiling", "field": "A", "label": "Auffindung der Gebeine des seligen Rathard", "ref": "y3xck47v"},
+    "b": {"qid": "Q127502516", "painting": true, "ref": "wq6a6g05"},
+    "c": {"new": "ceiling", "field": "C", "label": "Gründung des Klosters St. Georgen durch Rathard", "ref": "obr0up5e"},
+    "d": {"qid": "Q106548750", "painting": true, "ref": "nwiao6ls"}
   },
   "claims": [
     {"s": "bld", "p": "P825", "v": "Q162691", "quote": "Patrozinium: Mariä Himmelfahrt"},

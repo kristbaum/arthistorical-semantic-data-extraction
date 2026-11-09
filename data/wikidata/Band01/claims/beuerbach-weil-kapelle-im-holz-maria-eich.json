@@ -1,12 +1,12 @@
 {
   "lemma": "Beuerbach (Weil), Kapelle im Holz Maria Eich",
   "items": {
-    "bld": {"qid": "Q41254110", "main": true},
-    "a": {"new": "ceiling", "field": "A", "label": "Kreuzabnahme"},
-    "a1": {"new": "ceiling", "field": "A1", "label": "Abschied Jesu von Maria", "cycle": "Monochrome Fresken"},
-    "a2": {"new": "ceiling", "field": "A2", "label": "Büßende Maria Magdalena", "cycle": "Monochrome Fresken"},
-    "a3": {"new": "ceiling", "field": "A3", "label": "Grablegung Jesu", "cycle": "Monochrome Fresken"},
-    "a4": {"new": "ceiling", "field": "A4", "label": "Reuiger Petrus", "cycle": "Monochrome Fresken"}
+    "bld": {"qid": "Q41254110", "main": true, "ref": "z59elp8m"},
+    "a": {"new": "ceiling", "field": "A", "label": "Kreuzabnahme", "ref": "qp8rgqfg"},
+    "a1": {"new": "ceiling", "field": "A1", "label": "Abschied Jesu von Maria", "cycle": "Monochrome Fresken", "ref": "wkpqpq1b"},
+    "a2": {"new": "ceiling", "field": "A2", "label": "Büßende Maria Magdalena", "cycle": "Monochrome Fresken", "ref": "ata0qw28"},
+    "a3": {"new": "ceiling", "field": "A3", "label": "Grablegung Jesu", "cycle": "Monochrome Fresken", "ref": "oso6iagt"},
+    "a4": {"new": "ceiling", "field": "A4", "label": "Reuiger Petrus", "cycle": "Monochrome Fresken", "ref": "o5jleqht"}
   },
   "claims": [
     {"s": "bld", "p": "P825", "v": "Q1196075", "quote": "Patrozinium: Schmerzhafte Mutter Gottes"},

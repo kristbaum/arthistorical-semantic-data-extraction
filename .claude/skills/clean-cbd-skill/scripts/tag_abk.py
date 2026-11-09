@@ -3,20 +3,24 @@
 
 Keys and context rules come from templates/Modul-Abk-Daten.lua (the static
 copy of Modul:Abk/Daten, taken from [[Zur Benutzung]]). Every occurrence in
-the main text is tagged.
+the main text is tagged — except the keys marked `generisch = true` (St., S.,
+vgl., hl., z. Z., Bd, Nr. …): they are understood without a tooltip and stay
+plain. An existing {{Abk|…}} around a generic key is unwrapped.
 
 Never tagged: »quotations« / ›…‹, the == Quellen und Literatur == /
 == Literatur == section, == headings ==, [[links]], {{templates}} (so text
 already inside {{Abk|…}} is left alone), <gallery>, '''bold titles and
 labels''', <sub>/<sup>, comments; keys with kontext "manuell" (S, W, O, x).
+The text shown by {{Entität|…}} is tagged like running text; its
+named parameters (rolle=, titel=, bild=, qid=, id=) are not.
 Context rules: "vor_zahl" keys only before a number, "nach_zahl" only after
 one, "kapitel" (Bible books) only before chapter,verse or a chapter closed by
 ) or ; — so »Rom 410 durch« and »Am 3.3.1687« stay plain but »Rom 12,5« and
 »(Ps 50)« are tagged.
 
 Idempotent. Prints one SUSPECT line per tag of an ambiguous key (Bible books
-that are also German words or names, compass and region codes)
-for the model to confirm or unwrap.
+that are also German words or names, region codes) for the model to confirm
+or unwrap.
 
 Usage:
     python .claude/skills/clean-cbd-skill/scripts/tag_abk.py FILE.wiki [...] [--apply]
@@ -31,12 +35,15 @@ REPO_ROOT = Path(__file__).resolve().parents[4]
 DATA = REPO_ROOT / "templates" / "Modul-Abk-Daten.lua"
 
 _ENTRY_RE = re.compile(
-    r'^\t\t\["((?:[^"\\]|\\.)*)"\] = \{ voll = .*?typ = "(\w+)"(?:, kontext = "(\w+)")? \},$', re.M)
+    r'^\t\t\["((?:[^"\\]|\\.)*)"\] = \{ voll = .*?typ = "(\w+)"'
+    r'(?:, kontext = "(\w+)")?(, generisch = true)? \},$', re.M)
 
 # spans that are never tagged
 _PROTECTED_RE = re.compile(
     r"^==+\s*(?:Quellen|Literatur)[^\n]*\n.*?(?=^==[^=]|\Z)"  # bibliography section
-    r"|\{\{.*?\}\}"                # templates, incl. existing {{Abk|…}}
+    r"|\{\{(?!Entität\|)[^{}]*\}\}"  # templates, incl. existing {{Abk|…}}
+    r"|\{\{Entität\|"   # popover opener — its shown text stays taggable
+    r"|\|\s*(?:rolle|titel|bild|qid|id)\s*=[^|{}]*"  # … but not its named parameters
     r"|\[\[.*?\]\]"                # links and files
     r"|<gallery\b.*?</gallery>"
     r"|<!--.*?-->"
@@ -52,21 +59,34 @@ _LETTER = "A-Za-zÄÖÜäöüß"
 _SUSPECT = {
     "Am", "Is", "Os", "Dan", "Bar", "Mal", "Rom", "Gen", "Ion", "Tit", "Act",
     "Ex", "Num", "Iob", "Ruth", "Tob", "Nah", "Mich", "Hab", "Lam", "Io",
-    "AR", "AT", "NT", "NO", "SO", "NW", "SW", "OB", "NB", "MFr", "Schw",
+    "AR", "OB", "NB", "MFr", "Schw",
 }
+
+_ABK_TAG_RE = re.compile(r"\{\{Abk\|([^|}]*)(?:\|([^|}]*))?\}\}")
 
 
 @lru_cache(maxsize=1)
-def load_keys() -> tuple[re.Pattern, dict[str, str]]:
+def load_keys() -> tuple[re.Pattern, dict[str, str], frozenset[str]]:
+    """(pattern of taggable keys, key -> kontext, generic keys)."""
     text = DATA.read_text(encoding="utf-8")
     abk_part = text.split("\tbildfeld = {")[0]
     kontext: dict[str, str] = {}
-    for key, _typ, ctx in _ENTRY_RE.findall(abk_part):
+    generic: set[str] = set()
+    for key, _typ, ctx, gen in _ENTRY_RE.findall(abk_part):
         key = key.replace('\\"', '"')
-        if ctx != "manuell":
+        if gen:
+            generic.add(key)
+        elif ctx != "manuell":
             kontext[key] = ctx or ""
     alts = "|".join(re.escape(k) for k in sorted(kontext, key=len, reverse=True))
-    return re.compile(rf"(?<![{_LETTER}\d.])(?:{alts})"), kontext
+    return re.compile(rf"(?<![{_LETTER}\d.])(?:{alts})"), kontext, frozenset(generic)
+
+
+def unwrap_generic(body: str) -> str:
+    """{{Abk|St.}} -> St. for generic keys (the shown form, if one is given)."""
+    generic = load_keys()[2]
+    return _ABK_TAG_RE.sub(
+        lambda m: (m.group(2) or m.group(1)) if m.group(1) in generic else m.group(0), body)
 
 
 def _context_ok(key: str, ctx: str, text: str, start: int, end: int) -> bool:
@@ -84,7 +104,8 @@ def _context_ok(key: str, ctx: str, text: str, start: int, end: int) -> bool:
 
 def tag_body(body: str) -> tuple[str, list[str]]:
     """Return (tagged body, SUSPECT lines)."""
-    pattern, kontext = load_keys()
+    pattern, kontext, _generic = load_keys()
+    body = unwrap_generic(body)
     protected = [m.span() for m in _PROTECTED_RE.finditer(body)]
     out, suspects, pos = [], [], 0
     for m in pattern.finditer(body):
@@ -116,11 +137,12 @@ def main() -> None:
         text = path.read_text(encoding="utf-8")
         tpl, _f, body = parse_article_file(text)
         new_body, suspects = tag_body(body)
-        n = new_body.count("{{Abk|") - body.count("{{Abk|")
-        print(f"[{n} tagged, {len(suspects)} suspect] {path}")
+        unwrapped = body.count("{{Abk|") - unwrap_generic(body).count("{{Abk|")
+        tagged = new_body.count("{{Abk|") - body.count("{{Abk|") + unwrapped
+        print(f"[{tagged} tagged, {unwrapped} generic unwrapped, {len(suspects)} suspect] {path}")
         for line in suspects:
             print("  " + line)
-        if "--apply" in sys.argv and n:
+        if "--apply" in sys.argv and new_body != body:
             path.write_text(tpl.rstrip("\n") + "\n\n" + new_body.strip("\n") + "\n", encoding="utf-8")
 
 

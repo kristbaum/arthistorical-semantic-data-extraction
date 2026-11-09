@@ -1,10 +1,10 @@
 {
   "lemma": "Beuern, Pfarrkirche St. Michael",
   "items": {
-    "bld": {"qid": "Q41254590", "main": true},
-    "schmuzer": {"qid": "Q1707978"},
-    "schoepf": {"qid": "Q835326"},
-    "lhs": {"new": "ceiling", "label": "Engelsturz", "desc_de": "Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael", "desc_en": "ceiling painting in the nave of Beuern, Pfarrkirche St. Michael"}
+    "bld": {"qid": "Q41254590", "main": true, "ref": "ft9cjb9q"},
+    "schmuzer": {"qid": "Q1707978", "ref": "indqsa5j"},
+    "schoepf": {"qid": "Q835326", "ref": "wpeyhvwk"},
+    "lhs": {"new": "ceiling", "label": "Engelsturz", "desc_de": "Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael", "desc_en": "ceiling painting in the nave of Beuern, Pfarrkirche St. Michael", "ref": "xl48lbz8"}
   },
   "claims": [
     {"s": "bld", "p": "P825", "v": "Q45581", "quote": "Patrozinium: St. Michael"},

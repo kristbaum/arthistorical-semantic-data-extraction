@@ -9,7 +9,8 @@ content. This script reports what a reviewer should look at:
   - numbers (years, measurements, page numbers) lost or added
   - words lost or added, ignoring markup, punctuation, hyphenation and case
     (identifier links [[:File:…|A<sub>2</sub>]] count as their label only,
-    {{Abk|…}} as the abbreviation it wraps)
+    {{Abk|…}} as the abbreviation it wraps, {{Entität|…}} as its
+    shown text)
   - the body shrinking or growing by more than --max-ratio
 
 Usage:
@@ -54,8 +55,14 @@ _FILE_LINK_RE = re.compile(r"\[\[:(?:File|Datei):[^|\]]*\|([^\]]*)\]\]")
 _ABK_RE = re.compile(r"\{\{Abk\|([^|}]*)(?:\|([^|}]*))?[^}]*\}\}")
 
 
+# {{Entität|text|rolle=…|bild=…|qid=…}} -> text (after {{Abk}} is gone)
+_POPOVER_RE = re.compile(
+    r"\{\{Entität\|(?:1=)?([^{}]*?)(?:\|(?:rolle|titel|bild|qid|id)=[^|{}]*)*\}\}")
+
+
 def _unlink(body: str) -> str:
     body = _ABK_RE.sub(lambda m: m.group(2) or m.group(1), body)
+    body = _POPOVER_RE.sub(r"\1", body)
     return _THUMB_RE.sub("", _FILE_LINK_RE.sub(r"\1", body))
 
 

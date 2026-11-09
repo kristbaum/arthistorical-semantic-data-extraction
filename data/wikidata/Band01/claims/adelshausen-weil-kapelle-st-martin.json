@@ -1,18 +1,18 @@
 {
   "lemma": "Adelshausen (Weil), Kapelle St. Martin",
   "items": {
-    "bld": {"qid": "Q41254096", "main": true},
-    "anwander": {"qid": "Q1692498"},
-    "langhaus": {"new": "room", "label": "Langhaus", "p31": "Q607600"},
-    "altarraum": {"new": "room", "label": "Altarraum", "p31": "Q207707"},
-    "a": {"new": "ceiling", "field": "A", "label": "Mantelspende des hl. Martin"},
-    "b": {"new": "ceiling", "field": "B", "label": "St. Martin in der Glorie"},
-    "a1": {"new": "ceiling", "field": "A1", "label": "Himmel", "cycle": "Allegorische Darstellungen"},
-    "a2": {"new": "ceiling", "field": "A2", "label": "Gericht", "cycle": "Allegorische Darstellungen"},
-    "a3": {"new": "ceiling", "field": "A3", "label": "Hölle", "cycle": "Allegorische Darstellungen"},
-    "a4": {"new": "ceiling", "field": "A4", "label": "Tod", "cycle": "Allegorische Darstellungen"},
-    "w1": {"new": "wall", "field": "W1", "label": "St. Joseph"},
-    "w2": {"new": "wall", "field": "W2", "label": "St. Anna"}
+    "bld": {"qid": "Q41254096", "main": true, "ref": "e9yssbz5"},
+    "anwander": {"qid": "Q1692498", "ref": "gfhveak5"},
+    "langhaus": {"new": "room", "label": "Langhaus", "p31": "Q607600", "ref": "lrcj32hd"},
+    "altarraum": {"new": "room", "label": "Altarraum", "p31": "Q207707", "ref": "igzyytpk"},
+    "a": {"new": "ceiling", "field": "A", "label": "Mantelspende des hl. Martin", "ref": "nvkomy8g"},
+    "b": {"new": "ceiling", "field": "B", "label": "St. Martin in der Glorie", "ref": "fea4ldbw"},
+    "a1": {"new": "ceiling", "field": "A1", "label": "Himmel", "cycle": "Allegorische Darstellungen", "ref": "wbyvanzd"},
+    "a2": {"new": "ceiling", "field": "A2", "label": "Gericht", "cycle": "Allegorische Darstellungen", "ref": "kspjsulm"},
+    "a3": {"new": "ceiling", "field": "A3", "label": "Hölle", "cycle": "Allegorische Darstellungen", "ref": "vheiq9xj"},
+    "a4": {"new": "ceiling", "field": "A4", "label": "Tod", "cycle": "Allegorische Darstellungen", "ref": "no3cn2ju"},
+    "w1": {"new": "wall", "field": "W1", "label": "St. Joseph", "ref": "shhi462b"},
+    "w2": {"new": "wall", "field": "W2", "label": "St. Anna", "ref": "fsyn6rw9"}
   },
   "claims": [
     {"s": "bld", "p": "P825", "v": "Q133704", "quote": "Patrozinium: St. Martin"},

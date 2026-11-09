@@ -16,15 +16,15 @@
 |AutorIn4=Werner-Clementschitsch, Heide
 }}
 
-Kapelle, Gemeinde und Pfarrei Denklingen, Diözese Augsburg; {{Abk|z. Z.}} der Ausmalung Niedergericht und Grundherrschaft Abtei Füssen
+{{Entität|Kapelle|rolle=Bauwerk|id=kuv1n4a0}}, Gemeinde und Pfarrei Denklingen, Diözese Augsburg; z. Z. der Ausmalung Niedergericht und Grundherrschaft Abtei Füssen
 
-'''Patrozinium:''' {{Abk|St.}} Magnus
+'''Patrozinium:''' St. Magnus
 
-'''Zum Bauwerk:''' Neubau 1733 an Stelle einer hölzernen Kapelle. Einfacher Saal zu zwei Fensterachsen, eingezogener {{Abk|AR}} (4,60 × 4,20) zu einem Joch mit halbrundem Schluß. Das Deckenbild befindet sich im Altarraum.
+'''Zum Bauwerk:''' Neubau 1733 an Stelle einer hölzernen Kapelle. Einfacher Saal zu zwei Fensterachsen, eingezogener {{Entität|{{Abk|AR}}|rolle=Raum|id=og9w621s}} (4,60 × 4,20) zu einem Joch mit halbrundem Schluß. Das Deckenbild befindet sich im Altarraum.
 
-'''Auftraggeber:''' Abt Dominicus Dierling von Füssen (1714–38), dessen Wappen sich am Chorbogen befindet
+'''Auftraggeber:''' Abt {{Entität|Dominicus Dierling|rolle=Auftraggeber|id=yu6uuczc}} von Füssen (1714–38), dessen Wappen sich am Chorbogen befindet
 
-'''Autor und Entstehungszeit:''' Das Deckenbild stammt aus der Erbauungszeit, also kurz nach 1733. Der unbekannte Autor dürfte im Umkreis der Abtei {{Abk|St.}} Mang in Füssen zu suchen sein.
+'''Autor und Entstehungszeit:''' Das Deckenbild stammt aus der Erbauungszeit, also kurz nach 1733. Der unbekannte Autor dürfte im Umkreis der Abtei St. Mang in Füssen zu suchen sein.
 
 == Befund ==
 
@@ -42,7 +42,7 @@ Kapelle, Gemeinde und Pfarrei Denklingen, Diözese Augsburg; {{Abk|z. Z.}} der A
 
 == Beschreibung und Ikonographie ==
 
-Auf Wolken stehend ist der {{Abk|hl.}} Benedikt dargestellt, als Ordensgründer der Benediktiner — {{Abk|St.}} Mang in Füssen war Benediktinerabtei. Neben ihm sind seine Attribute zu sehen, Buch, Abtstab und Giftbecher mit Schlange. Er trägt die schwarze Benediktinerkutte; sein Haupt umgeben lichte Strahlen. Seitlich erscheinen aus den Wolken Engelsköpfchen.
+Auf Wolken stehend ist der {{Entität|hl. Benedikt|rolle=Deckenbild|titel=Hl. Benedikt|bild=Band01_chunk001_p019_img001.jpg|id=iznvz6p1}} dargestellt, als Ordensgründer der Benediktiner — St. Mang in Füssen war Benediktinerabtei. Neben ihm sind seine Attribute zu sehen, Buch, Abtstab und Giftbecher mit Schlange. Er trägt die schwarze Benediktinerkutte; sein Haupt umgeben lichte Strahlen. Seitlich erscheinen aus den Wolken Engelsköpfchen.
 
 == Quellen und Literatur ==
 

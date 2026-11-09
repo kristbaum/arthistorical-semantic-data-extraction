@@ -31,8 +31,18 @@ Files:
 - `scripts/build.py` — claims files → everything else (see Output).
 - `scripts/check_quotes.py` — standalone verbatim check of passages.
 - `scripts/placeholders.py` — check / lookup / fill `{NEW:…}` placeholders.
+- `scripts/apply_qids.py` — `link` notes refs for items of older claims files;
+  `write` puts the QIDs into the articles' `{{Entität}}` templates by ref.
 
 ## Input
+
+**Entity refs.** The cleaned articles mark the building, rooms, people and
+paintings with `{{Entität|<text>|rolle=…|titel=…|bild=…|id=<ref>}}`, one
+template per entity. The `id` is a stable key: **note it as `"ref"` on the
+item** that stands for this entity (claims-format.md), so the QID can later be
+written back to exactly that spot. `cbdd_lookup.py article` lists them under
+`entities` (id, rolle, text, titel, bild). Otherwise ignore the template's
+parameters — quote only its shown text.
 
 Cleaned articles (output of `clean-cbd-skill`, folder named by the user, e.g.
 `data/cleaned-with-skill-v2/{Band}/`), falling back to
@@ -53,7 +63,8 @@ of each quote that also exists on the lab page for the link anchor.
 | `direct.qs` | build.py | high-certainty statements on existing items and links between new items (placeholders until filled); includes "already on Wikidata, add the reference" lines |
 | `curator.qs` | build.py | statements a person must look at, each with the reason as a comment |
 | `games/<slug>.json` + `.csv` | build.py | Como game configs and prompt CSVs (see Games) |
-| `claims.tsv` | build.py | every statement: id, route, game, reason, entity, property, value, qualifiers, quote, lab link, QS line |
+| `claims.tsv` | build.py | every statement: id, route, game, reason, entity, property, value, qualifiers, quote, lab link, `entity_ref`/`value_ref` (the `{{Entität}}` ids of subject and value), QS line |
+| `refs.tsv` | build.py | ref → lemma, item key, target (QID or placeholder) |
 | `placeholders.tsv` | build.py | placeholder → label, description, qid (fill qid after creation) |
 | `build-report.md` | build.py | counts per route and game, curator queue |
 | `cache.json` | build.py | Wikidata / Iconclass / lab lookups (delete to refresh) |
@@ -125,8 +136,15 @@ notation encodes. Skip local legends without a notation.
 `data/wikidata/{Band}/claims/<lemma-slug>.json`, format in
 [references/claims-format.md](references/claims-format.md). Rules:
 
+- **Refs**: every item that has an `{{Entität}}` in the article gets its
+  `id` as `"ref"` — the main building (`rolle=Bauwerk`), each painting (by its
+  identifier or title), each person, each room. Never invent a ref; an entity
+  without a template (a person only named in a quotation) simply has none.
+  `build.py` stops on a ref used twice and reports refs not found in the
+  article.
 - **Quotes verbatim** from the cleaned article with markup removed
-  (`{{Abk|St.}}` → `St.`, `A<sub>1</sub>` → `A1`, file links → their text).
+  (`{{Abk|St.}}` → `St.`, `{{Entität|Pfarrkirche|…}}` → `Pfarrkirche`,
+  `A<sub>1</sub>` → `A1`, file links → their text).
   Cut with `[…]`. Table rows are quoted as rendered:
   `Maße: […] A – 3,30 m – 1,75 × 1,40`.
 - Keep the authors' certainty as qualifiers (data-model.md, "Certainty");
@@ -209,6 +227,18 @@ what each option means). Every reference is `P248 %var_volume%` +
 3. Rerun `build.py`: created items are now used by QID everywhere — the game
    CSVs and `direct.qs` no longer contain placeholders.
 4. Run `direct.qs`. Review `curator.qs`.
+4a. Write the QIDs into the articles and re-upload them:
+   ```bash
+   S=.claude/skills/extract-cbd-to-wd-skill/scripts
+   uv run python $S/apply_qids.py write --out data/wikidata/{Band} --articles data/cleaned-with-skill-v2/{Band}          # dry run
+   uv run python $S/apply_qids.py write --out data/wikidata/{Band} --articles data/cleaned-with-skill-v2/{Band} --apply
+   uv run python -m src.mediawiki.upload_pages --articles data/cleaned-with-skill-v2/{Band}
+   ```
+   Reconciled items are written at once; created ones after step 2. A
+   `CONFLICT` (the template already has another qid) is never overwritten —
+   resolve it by hand. For claims files written before refs existed,
+   `apply_qids.py link` suggests the refs (`--apply` writes them; it lists
+   ambiguous items for you to settle).
 5. Create the games from `games/*.json`, upload the CSVs, ask for activation.
    Games may be played on placeholders for testing only (unlisted): their
    actions would fail.

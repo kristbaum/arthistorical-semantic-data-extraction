@@ -33,8 +33,12 @@ This pipeline processes arthistorical texts to extract meaningful semantic relat
 │   ├── splitting/{Band}/  # {Band}.wiki (all pass1 pages), {Band}.csv, {Band}_split.wiki (with markers)
 │   ├── formatted/{Band}/{Lemma}.wiki  # One file per article – main working tree
 │   ├── pass2/{Band}/{Lemma}.wiki      # Pass 2 LLM output
+│   ├── cleaned-with-skill-v2/{Band}/{Lemma}.wiki  # Articles cleaned with clean-cbd-skill (+ _cleaning_report.md)
+│   ├── wikidata/{Band}/   # extract-cbd-to-wd-skill: claims/*.json, QS batches, games, refs.tsv, placeholders.tsv
 │   └── meta/              # Liste_Bände.csv (article list per band), Hauptseite, Struktur notes
-├── templates/             # MediaWiki templates: Artikel, BandString, BildQuelle, Abk (+ Modul-Abk*.lua)
+├── .claude/skills/        # clean-cbd-skill, extract-cbd-to-wd-skill (instructions + scripts)
+├── templates/             # MediaWiki templates and Lua modules: Artikel, BandString, BildQuelle,
+│                          #   Abk (+ Modul-Abk*.lua), Entität (+ Modul-Entität.lua, Entität-styles.css)
 ├── examples/              # Sample pages and files.csv
 ├── batch_pass1.sh / batch_pass2.sh / submit.sh   # SLURM jobs for the LRZ cluster (see LRZ_USAGE_GUIDE.md)
 ├── excel_to_csv.py        # Liste_Bände.xlsx → data/meta/Liste_Bände.csv
@@ -64,6 +68,82 @@ This pipeline processes arthistorical texts to extract meaningful semantic relat
 | 9 | Publish to MediaWiki | `python -m src.mediawiki.upload_images`, `sync_articles`, `create_categories` (`list_files` exports uploaded files) | → deckenmalerei-lab wiki |
 
 Most fix scripts are dry-run by default and write only with `--apply`; `--band BandXX` restricts a run to one band (see [AGENTS.md](AGENTS.md)).
+
+## Cleaning and reconciliation pipeline
+
+After step 7, articles can be finished by hand with the help of two Claude Code skills instead of Pass 2. The skills hold the instructions; deterministic scripts do everything that needs no judgment. The result is an edited article whose building, rooms, people and paintings carry stable ids, Wikidata statements cited to the printed volume, and QIDs written back into the article.
+
+```text
+data/formatted/{Band}/          ──clean-cbd-skill──▶  data/cleaned-with-skill-v2/{Band}/
+                                                          │  {{Abk}}, {{Entität|…|id=…}}
+                                                          ▼
+                                  extract-cbd-to-wd-skill ──▶  data/wikidata/{Band}/
+                                                          │  claims/*.json (item → ref), *.qs, games
+                                                          ▼
+                     QuickStatements / Como  ──▶  new items  ──▶  placeholders.tsv (qid)
+                                                          │
+                                  apply_qids.py write ◀───┘   qid= set on {{Entität|…|id=…}}
+                                                          │
+                                  upload_pages.py ────────▶  deckenmalerei-lab wiki
+```
+
+### 1. Clean (`.claude/skills/clean-cbd-skill`)
+
+Turns `data/formatted/{Band}/{Lemma}.wiki` into a faithful edition of the printed text. Trigger: "clean Band01" / "clean this article". Main tasks:
+
+- OCR fixes by cross-checking the Surya and Transkribus readings; the page scan only where they disagree.
+- Remove what splitting the volumes left behind (the next article's heading at the end, book-part titles, running headers) and normalise headings and labels — formatting only, no section is renamed.
+- Images: correct captions from the scan, positions after their entry, series as galleries.
+- Mark entities with `{{Entität}}` — the building (first sentence), rooms with paintings, persons (Auftraggeber, Maler, Stuckateur, Baumeister, Stecher, Kistler, Vergolder, Person) and paintings (with `titel` and `bild`) — once per entity.
+- Tag the book's own abbreviations with `{{Abk}}`; generic ones (St., S., vgl., hl. …, `generisch = true` in `templates/Modul-Abk-Daten.lua`) stay plain.
+
+| Script (`.claude/skills/clean-cbd-skill/scripts/`) | Does |
+|---|---|
+| `find_sources.py`, `ocr_diff.py`, `page_images.py`, `scan_crop.py` | gather OCR readings, image positions and scan crops |
+| `check_headings.py` | leftover headings, entry headings, labels (`--apply` for the safe formatting fixes) |
+| `apply_edits.py` | apply the model's list of exact replacements to a copy |
+| `finalize.py` | `postprocess()`, bibliography bullets, `{{Entität}}` for building and paintings (`entities.py`), a stable `id` for every `{{Entität}}` |
+| `tag_abk.py` | wrap non-generic abbreviations in `{{Abk}}` |
+| `check_preservation.py` | verify no word, number or image was lost |
+
+```bash
+S=.claude/skills/clean-cbd-skill/scripts
+uv run python $S/apply_edits.py "$SRC" "$TARGET" edits.txt \
+  && uv run python $S/check_headings.py "$TARGET" --apply \
+  && uv run python $S/finalize.py "$TARGET" \
+  && uv run python $S/check_preservation.py "$SRC" "$TARGET"
+uv run python $S/tag_abk.py "$TARGET" --apply
+```
+
+`{{Entität}}` ids (8 characters a-z0-9) are assigned once and never changed — they are the key between an article spot and its Wikidata item.
+
+### 2. Extract and reconcile (`.claude/skills/extract-cbd-to-wd-skill`)
+
+Reconciles buildings and people against Wikidata and the deckenmalerei.eu dump and writes one claims file per article (`data/wikidata/{Band}/claims/<slug>.json`) with the verbatim passage behind every statement. Each item notes the `id` of its `{{Entität}}` as `"ref"` (`cbdd_lookup.py article` lists them). `build.py` derives everything else:
+
+| Output | Content |
+|---|---|
+| `create.qs`, `direct.qs`, `curator.qs` | QuickStatements batches, referenced to volume and page; `{NEW:…}` placeholders for items still to be created |
+| `games/*.json` + `.csv` | Como games for interpretive statements (painter, dating, Iconclass, depicted subjects) |
+| `claims.tsv` | every statement with route, passage, lab link and `entity_ref` / `value_ref` |
+| `refs.tsv` | ref → lemma, item, QID or placeholder |
+| `placeholders.tsv` | placeholder → label, description, QID once created |
+
+### 3. Write QIDs back and publish
+
+```bash
+X=.claude/skills/extract-cbd-to-wd-skill/scripts
+uv run python $X/placeholders.py lookup --map data/wikidata/Band01/placeholders.tsv --apply   # after running create.qs
+uv run python $X/apply_qids.py write --out data/wikidata/Band01 --articles data/cleaned-with-skill-v2/Band01          # dry run
+uv run python $X/apply_qids.py write --out data/wikidata/Band01 --articles data/cleaned-with-skill-v2/Band01 --apply
+uv run python -m src.mediawiki.upload_pages --articles data/cleaned-with-skill-v2/Band01
+```
+
+`apply_qids.py write` sets `qid=` on the `{{Entität}}` whose `id` matches an item's ref; it never overwrites a different existing QID (reported as `CONFLICT`) and lists refs still waiting for their item. `apply_qids.py link` adds refs to claims files written before refs existed.
+
+`src/mediawiki/upload_pages.py` is interactive: it asks for a normal wiki account (no bot password), logs in via `clientlogin`, shows which pages are new or changed and uploads after confirmation. Besides the articles it uploads the Lua modules (`templates/Modul-*.lua` → `Modul:…`), stylesheets (`*-styles.css` → `Vorlage:…/styles.css`) and templates (`*.template` → `Vorlage:…`).
+
+The [deckenmalerei-lab-skill](https://github.com/kristbaum/deckenmalerei-lab-skill) documents the resulting article format (labels, `{{Abk}}`, `{{Entität}}`, heading variants) for research questions against the wiki.
 
 ## Features
 
@@ -149,5 +229,3 @@ sbatch batch_format.sh "/dss/dsshome1/02/USERNAME_HERE/arthistorical-semantic-da
 SBATCH --container-image=docker://nvcr.io/nvidia/pytorch:25.10-py3
 
 ‘docker://nvcr.io#nvidia/pytorch:25.10-py3’
-
-853 Articles?

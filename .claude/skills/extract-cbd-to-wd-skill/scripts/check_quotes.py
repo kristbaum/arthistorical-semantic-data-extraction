@@ -15,7 +15,8 @@ from pathlib import Path
 
 def plain(wiki: str) -> str:
     t = re.sub(r"\{\{Artikel.*?\n\}\}", "", wiki, flags=re.S)
-    t = re.sub(r"\{\{Abk\|([^}]*)\}\}", r"\1", t)
+    t = re.sub(r"\{\{Abk\|([^}|]*)(?:\|([^}|]*))?\}\}", lambda m: m.group(2) or m.group(1), t)
+    t = re.sub(r"\{\{Entität\|(?:1=)?([^{}]*?)(?:\|(?:rolle|titel|bild|qid|id)=[^|{}]*)*\}\}", r"\1", t)
     t = re.sub(r"\[\[File:[^\]]*\]\]", "", t)  # embedded images (thumbs)
     t = re.sub(r"\[\[:File:[^|\]]*\|([^\]]*)\]\]", r"\1", t)  # links to images
     t = re.sub(r"<gallery.*?</gallery>", "", t, flags=re.S)

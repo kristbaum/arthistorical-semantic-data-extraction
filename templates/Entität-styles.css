@@ -1,0 +1,51 @@
+/* Vorlage:Entität/styles.css — Popover für Modul:Entität */
+.ent {
+	position: relative;
+}
+
+.ent[data-qid] > .ent-anchor {
+	border-bottom: 1px dotted var(--border-color-progressive, #36c);
+}
+
+.ent-popover {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 10;
+	min-width: 12em;
+	max-width: 20em;
+	padding: 0.5em 0.75em;
+	background: var(--background-color-base, #fff);
+	color: var(--color-base, #202122);
+	border: 1px solid var(--border-color-base, #a2a9b1);
+	border-radius: 2px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+	font-size: 0.875em;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1.4;
+	white-space: normal;
+}
+
+.ent:hover > .ent-popover,
+.ent:focus-within > .ent-popover {
+	display: block;
+}
+
+.ent-popover > span {
+	display: block;
+}
+
+.ent-title {
+	font-weight: bold;
+}
+
+.ent-role {
+	color: var(--color-subtle, #54595d);
+	font-variant: small-caps;
+}
+
+.ent-image {
+	margin-top: 0.3em;
+}
