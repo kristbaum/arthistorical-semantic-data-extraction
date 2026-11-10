@@ -49,3 +49,19 @@
 .ent-image {
 	margin-top: 0.3em;
 }
+
+.ent-facts {
+	margin-top: 0.3em;
+}
+
+.ent-fact {
+	display: block;
+}
+
+.ent-key {
+	color: var(--color-subtle, #54595d);
+}
+
+.ent-key:after {
+	content: ':';
+}
