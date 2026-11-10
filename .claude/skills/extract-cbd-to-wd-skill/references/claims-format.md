@@ -48,6 +48,15 @@ Keys are free short names used in `claims`. Each item is either
   - `room`: `p31` required (Langhaus Q607600, Altarraum Q207707, Empore
     Q648224, Vierung Q728243 …). Description `Raum in <Lemma>`.
   - `building`, `person`, `other`: `p31`, `desc_de`, `desc_en` required.
+- **unreconciled**: `{"rec": kind, "label": …, "hint": …, "candidates": […],
+  "quote": …}`, kind `person` / `building` / `room` / `painting` / `other`.
+  For an entity of the article that has no confirmed Wikidata item yet and is
+  not worth a new item from this article alone. `label` = the name as printed,
+  `hint` = what the text says about it (role, dates, place: shown to players),
+  `candidates` = up to 4 QIDs that could be it (may be empty), `quote` = the
+  verbatim passage that identifies it. Claims on it are written as usual; they
+  become `{REC:…}` statements with route `pending` until the entity is
+  resolved in `reconcile.tsv` (game "Wer ist gemeint?" or by hand).
 
 Every item may carry **`"ref"`**: the `id` of the `{{Entität}}` template
 that marks this entity in the cleaned article (8 characters a-z0-9, listed by

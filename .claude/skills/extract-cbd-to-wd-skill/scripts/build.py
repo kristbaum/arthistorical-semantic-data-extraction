@@ -12,9 +12,16 @@ rests on. Everything after that is deterministic and lives here:
      backed by cue words in the passage, every QID exists, statement not
      already on the item
   3. triage: direct (QS), game (Como), audit (sample of direct, Como game
-     without action), curator (needs a person)
-  4. write create.qs, direct.qs, curator.qs, placeholders.tsv, claims.tsv,
-     games/<game>.json + .csv, report.md
+     without action), curator (needs a person), pending (needs an entity
+     that is not reconciled yet: {REC:…})
+  4. write create.qs, direct.qs, curator.qs, placeholders.tsv, reconcile.tsv,
+     claims.tsv, games/<game>.json + .csv, report.md
+
+Unreconciled entities ("rec" items) become {REC:…} placeholders. Their
+statements are kept (route "pending") but stay out of the QS files until the
+entity is resolved in reconcile.tsv: by the reconciliation game "Wer ist
+gemeint?" (apply_results.py) or by hand. "none" there means: no item exists,
+create one (route curator).
 
 Labels shown to players are fetched from Wikidata and iconclass.org, never
 taken from the claims file. Passage links point at the deckenmalerei-lab page
@@ -71,6 +78,8 @@ DIRECT_PROPS = {"P31", "P2079", "P186", "P2043", "P2049", "P2048", "P2386", "P82
 CHOICE_GAMES = {"maler", "datierung"}  # players pick the certainty; hedged passages are fine
 GAMES = {"P170": "maler", "P571": "datierung", "P1257": "iconclass", "P180": "motiv", "P5816": "zustand"}
 PH_RE = re.compile(r"\{NEW:(person|building|room|painting|other):[a-z0-9][a-z0-9-]*\}")
+REC_RE = re.compile(r"\{REC:(person|building|room|painting|other):[a-z0-9][a-z0-9-]*\}")
+REC_KINDS = {"person", "building", "room", "painting", "other"}
 QID_RE = re.compile(r"^Q\d+$")
 
 
@@ -116,7 +125,7 @@ class Cache:
         for i in range(0, len(missing), 50):
             chunk = missing[i:i + 50]
             d = http_json(WD_API, {"action": "wbgetentities", "ids": "|".join(chunk), "format": "json",
-                                   "props": "labels|descriptions|claims|info", "languages": "de|en"})
+                                   "props": "labels|descriptions|claims|info", "languages": "de|en|mul"})
             for qid, e in d.get("entities", {}).items():
                 if "missing" in e:
                     self.data["wd"][qid] = {"missing": True}
@@ -125,7 +134,7 @@ class Cache:
                 claims = {p: sorted({json.dumps(s["mainsnak"].get("datavalue", {}).get("value"), sort_keys=True)
                                      for s in v}) for p, v in e.get("claims", {}).items()}
                 self.data["wd"][qid] = {
-                    "label": (lab.get("de") or lab.get("en") or {}).get("value", qid),
+                    "label": (lab.get("de") or lab.get("mul") or lab.get("en") or {}).get("value", qid),
                     "desc": (des.get("de") or des.get("en") or {}).get("value", ""),
                     "redirect": e.get("id") != qid,
                     "claims": claims,
@@ -137,6 +146,19 @@ class Cache:
 
     def desc(self, qid: str) -> str:
         return self.data["wd"].get(qid, {}).get("desc", "")
+
+    def lifespan(self, qid: str) -> str:
+        """"1702–1772" from P569/P570, for telling namesakes apart."""
+        c = self.data["wd"].get(qid, {}).get("claims", {})
+
+        def year(p):
+            for h in c.get(p, []):
+                m = re.match(r'^\{.*"time": "([+-]\d+)-', h)
+                if m:
+                    return str(int(m[1]))
+            return ""
+        b, d = year("P569"), year("P570")
+        return f"{b}–{d}" if b or d else ""
 
     def iconclass(self, notation: str) -> str | None:
         if not self.data["ic"].get(notation) and not self.offline:
@@ -285,7 +307,8 @@ def load_article(path: Path, articles: Path) -> dict:
     return spec
 
 
-def expand(spec: dict, band: str, created: dict[str, str]) -> tuple[list[Stmt], list[dict]]:
+def expand(spec: dict, band: str, created: dict[str, str],
+           resolved: dict[str, str]) -> tuple[list[Stmt], list[dict], list[dict]]:
     """Claims file -> statements + new item definitions."""
     lemma, pages = spec["lemma"], spec["pages"]
     volume = VOLUMES[band][0]
@@ -293,9 +316,24 @@ def expand(spec: dict, band: str, created: dict[str, str]) -> tuple[list[Stmt], 
     items = spec["items"]
     tok: dict[str, str] = {}
     new_items: list[dict] = []
+    rec_items: list[dict] = []
     for key, it in items.items():
         if it.get("qid"):
             tok[key] = it["qid"]
+            continue
+        if "rec" in it:  # not reconciled yet: candidates for the game, or none found
+            kind = it["rec"]
+            if kind not in REC_KINDS:
+                sys.exit(f"{lemma} / {key}: rec kind {kind!r} not in {sorted(REC_KINDS)}")
+            ph = f"{{REC:{kind}:{lslug}-{slugify(key)}}}"
+            got = resolved.get(ph, "")
+            tok[key] = got if QID_RE.match(got) else ph
+            if QID_RE.match(got) and it.get("painting"):
+                spec.setdefault("_paintings", set()).add(got)
+            rec_items.append({"key": key, "placeholder": ph, "kind": kind, "label": it["label"],
+                              "hint": it.get("hint", ""), "quote": it.get("quote"),
+                              "candidates": list(it.get("candidates") or []), "ref": it.get("ref", ""),
+                              "lemma": lemma, "pages": pages, "resolved": got})
             continue
         kind = it["new"]
         ph = f"{{NEW:{'painting' if kind in ('ceiling', 'wall') else kind}:{lslug}-{slugify(key)}}}"
@@ -363,7 +401,7 @@ def expand(spec: dict, band: str, created: dict[str, str]) -> tuple[list[Stmt], 
             add(tok[key], "P1343", volume, structural=True)
     for ni in new_items:
         add(ni["placeholder"], "P1343", volume, structural=True)
-    return out, new_items
+    return out, new_items, rec_items
 
 
 # ----------------------------------------------------------------- checks
@@ -371,7 +409,17 @@ def check_and_route(st: Stmt, spec: dict, cache: Cache, sample: bool) -> None:
     def route(r, game=None, reason=""):
         st.route, st.game, st.reason = r, game, reason
 
+    rec = [t for t in [st.entity, st.value, *[v for _, v in st.quals]] if REC_RE.match(t or "")]
+    if rec:
+        r = spec["_rec"][rec[0]]
+        if r["resolved"] == "none":
+            return route("pending", reason=f"no Wikidata item for »{r['label']}«: create one, then set its QID in reconcile.tsv")
+        if not r["candidates"]:
+            return route("pending", reason=f"»{r['label']}« not reconciled, no candidate found: reconcile by hand or create")
+        return route("pending", reason=f"waits for the reconciliation game on »{r['label']}«")
     if st.structural:
+        if QID_RE.match(st.entity) and already_there(st, cache):
+            return route("direct", reason="structural; already on the item")
         return route("direct", reason="structural")
     if not st.quote:
         return route("curator", reason="no passage")
@@ -420,6 +468,17 @@ def already_there(st: Stmt, cache: Cache) -> bool:
     if m:
         return any(json.loads(h).get("time", "").startswith(f"+{m[1]}-") and json.loads(h).get("precision") == 9
                    for h in have if h.startswith("{"))
+    vals = [json.loads(h) for h in have]
+    m = re.match(r"^([\d.]+)U(\d+)$", st.value)
+    if m:
+        return any(isinstance(v, dict) and "amount" in v and float(v["amount"]) == float(m[1])
+                   and v.get("unit", "").endswith(f"/Q{m[2]}") for v in vals)
+    m = re.match(r'^([a-z-]+):"(.*)"$', st.value)
+    if m:
+        return {"language": m[1], "text": m[2]} in vals
+    m = re.match(r'^"(.*)"$', st.value)
+    if m:
+        return m[1] in vals
     return False
 
 
@@ -557,6 +616,18 @@ GAME_DEFS = {
               "einen anderen Zustand nennt oder nur Restaurierungen aufzählt. Entscheidend ist der Text: Das Foto "
               "ist oft Jahrzehnte alt.\n"
               "Bei »Ja« wird auf Wikidata Erhaltungszustand (P5816) eingetragen. ")),
+    "abgleich": dict(
+        name="Wer ist gemeint?", short="Welcher Wikidata-Eintrag ist die Person oder der Ort aus dem Corpus?",
+        prompt="TT", labels=["Im Text", "Textstelle"], response="SC", confidence="E",
+        question="Wer oder was ist mit »%var_named_as%« gemeint?",
+        long=("Das gedruckte »Corpus der barocken Deckenmalerei in Deutschland« nennt Maler, Stuckateure, "
+              "Auftraggeber und Orte, die noch keinem Wikidata-Eintrag zugeordnet sind. Ein Sprachmodell hat "
+              "mögliche Einträge gesucht. Du entscheidest anhand der Textstelle, welcher gemeint ist: Lebensdaten, "
+              "Beruf und Wirkungsort müssen zur Textstelle passen. Ein Tipp auf eine Antwort öffnet den Eintrag.\n"
+              "Wähle »Keine davon« (oder »Kein passender Eintrag«), wenn keiner passt oder du es nicht sicher "
+              "sagen kannst.\n"
+              "Zwei Spieler müssen sich einig sein. Das Spiel ändert nichts auf Wikidata: Die Zuordnung verknüpft "
+              "die Stelle im Artikel mit dem Eintrag und schaltet die Aussagen frei, die auf ihr beruhen. ")),
     "stichprobe": dict(
         name="Stichprobe Corpus", short="Stimmt die Angabe? Prüfe automatisch übernommene Daten.",
         prompt="TTI", labels=["Aussage", "Textstelle"], response="YN", confidence="S",
@@ -580,12 +651,13 @@ TEMPLATES = {
     "motiv": [tpl(statement_body("P180", '"%custom_value2%"'))],
     "zustand": [tpl(statement_body("P5816", '"%custom_value2%"'))],
     "stichprobe": [],
+    "abgleich": [],
 }
 COVER = "https://upload.wikimedia.org/wikipedia/commons/2/2b/St._Martin_Adelshausen_02.jpg"
 
 
 def write_games(stmts: list[Stmt], new_items: dict[str, dict], cache: Cache, out: Path, band: str,
-                images: dict[str, str]) -> dict:
+                images: dict[str, str], rec_items: list[dict] = ()) -> dict:
     gdir = out / "games"
     gdir.mkdir(exist_ok=True)
     vol_qid, vol_no = VOLUMES[band]
@@ -650,6 +722,25 @@ def write_games(stmts: list[Stmt], new_items: dict[str, dict], cache: Cache, out
                                           if QID_RE.match(st.entity) and row["image1_url"] else "")
         rows_by_game[g].append(row)
 
+    # reconciliation: one prompt per open entity with candidates; no action
+    for r in rec_items:
+        if r["resolved"] or not r["candidates"]:
+            continue
+        row = {"custom_value1": r["placeholder"], "var_claim": r["placeholder"], "var_named_as": r["label"],
+               "var_ref": r["ref"], "var_pages": r["pages"], "var_volume": vol_qid,
+               "text1": r["hint"] or r["label"], "text1_link": "",
+               "text2": f"»{r['quote']}« (S. {r['pages']})" if r["quote"] else f"{r['lemma']} (S. {r['pages']})",
+               "text2_link": r.get("lab_link") or lab_url(r["lemma"])}
+        opts = [(f"{cache.label(q)}" + (f" ({cache.lifespan(q)})" if cache.lifespan(q) else ""),
+                 cache.desc(q), f"https://www.wikidata.org/wiki/{q}", q) for q in r["candidates"][:4]]
+        if len(opts) == 1:  # Single Choice needs two options
+            opts.append(("Kein passender Eintrag", "Der Vorschlag passt nicht zur Textstelle.", "", "none"))
+        for i in range(1, 5):
+            t, d, link, cv = opts[i - 1] if i <= len(opts) else ("", "", "", "")
+            row.update({f"option{i}": t, f"option{i}_description": d, f"option{i}_link": link,
+                        f"option{i}_custom_value": cv})
+        rows_by_game["abgleich"].append(row)
+
     for g, rows in rows_by_game.items():
         d = GAME_DEFS[g]
         templates = TEMPLATES[g]
@@ -705,10 +796,16 @@ def main() -> None:
     if (a.out / "placeholders.tsv").exists():
         for r in csv.DictReader((a.out / "placeholders.tsv").open(encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE):
             created[r["placeholder"]] = (r.get("qid") or "").strip()
-    specs, stmts, new_items = [], [], {}
+    resolved = {}
+    if (a.out / "reconcile.tsv").exists():
+        for r in csv.DictReader((a.out / "reconcile.tsv").open(encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE):
+            resolved[r["placeholder"]] = (r.get("qid") or "").strip()
+    specs, stmts, new_items, rec_items = [], [], {}, []
     for p in sorted((a.out / "claims").glob("*.json")):
         spec = load_article(p, a.articles)
-        st, ni = expand(spec, band, created)
+        st, ni, ri = expand(spec, band, created, resolved)
+        spec["_rec"] = {r["placeholder"]: r for r in ri}
+        rec_items += ri
         cache.paintings |= {it["qid"] for it in spec["items"].values() if it.get("qid") and it.get("painting")}
         cache.paintings |= spec.get("_paintings", set())
         specs.append(spec)
@@ -742,7 +839,17 @@ def main() -> None:
             m = re.match(r"^[\d.]+U(\d+)$", t or "")
             if m:
                 ids.add("Q" + m[1])
+    for r in rec_items:
+        ids |= {q for q in r["candidates"] if QID_RE.match(q)}
     cache.entities(ids)
+    for r in rec_items:
+        bad = [q for q in r["candidates"] if not QID_RE.match(q) or cache.data["wd"].get(q, {}).get("missing")
+               or cache.data["wd"].get(q, {}).get("redirect")]
+        if bad:
+            sys.exit(f"{r['lemma']} / {r['key']}: candidates missing, redirected or malformed: {bad}")
+        spec = next(s for s in specs if s["lemma"] == r["lemma"])
+        if r["quote"] and quote_check(r["quote"], spec["plain"]):
+            sys.exit(f"{r['lemma']} / {r['key']}: rec quote not verbatim in the article")
 
     spec_by_lemma = {s["lemma"]: s for s in specs}
     sample = audit_sample(stmts, a.audit_rate)
@@ -762,6 +869,9 @@ def main() -> None:
     for s in stmts:
         if s.quote:
             s.lab_link = lab_url(s.lemma) + (text_fragment(s.quote, cache.lab_plain(s.lemma)) or "")
+    for r in rec_items:
+        if r["quote"]:
+            r["lab_link"] = lab_url(r["lemma"]) + (text_fragment(r["quote"], cache.lab_plain(r["lemma"])) or "")
     cache.save()
 
     out = a.out
@@ -794,6 +904,11 @@ def main() -> None:
         for ph, r in old_rows.items():  # already created: keep the row with its QID
             if ph not in new_items and QID_RE.match((r.get("qid") or "").strip()):
                 f.write(f"{ph}\t{r['kind']}\t{r['label_de']}\t{r['description_de']}\t{r['qid'].strip()}\n")
+    with open(out / "reconcile.tsv", "w", encoding="utf-8") as f:
+        f.write("placeholder\tlemma\tref\tkind\tlabel\thint\tcandidates\tqid\n")
+        for r in rec_items:
+            f.write("\t".join([r["placeholder"], r["lemma"], r["ref"], r["kind"], r["label"], r["hint"],
+                               ",".join(r["candidates"]), r["resolved"]]) + "\n")
     with open(out / "claims.tsv", "w", encoding="utf-8") as f:
         # qs holds TABs itself, so it stays the last column
         f.write("id\tlemma\tpages\troute\tgame\treason\tentity\tproperty\tvalue\tqualifiers\tquote\tlab_link"
@@ -817,7 +932,7 @@ def main() -> None:
             images[qid] = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(
                 json.loads(p18[0]).replace(" ", "_"))
     cache.save()
-    game_counts = write_games(stmts, new_items, cache, out, band, images)
+    game_counts = write_games(stmts, new_items, cache, out, band, images, rec_items)
     with open(out / "followers.tsv", "w", encoding="utf-8") as f:
         f.write("rep_id\tgame\tfollower_id\tentity\tproperty\tvalue\tnamed_as\tpages\tvolume\n")
         for rep, fol in followers:
@@ -830,10 +945,16 @@ def main() -> None:
              f"{len(specs)} articles, {len(new_items)} new items, {len(stmts)} statements "
              f"({sum(s.structural for s in stmts)} structural).", "",
              "| route | text-backed statements |", "|---|---|"]
-    lines += [f"| {r} | {routes.get(r, 0)} |" for r in ("direct", "audit", "game", "follows", "curator")]
+    lines += [f"| {r} | {routes.get(r, 0)} |" for r in ("direct", "audit", "game", "follows", "curator", "pending")]
     lines += ["", "| game | prompts |", "|---|---|"] + [f"| {g} | {n} |" for g, n in sorted(game_counts.items())]
     lines += ["", "## Curator queue", ""] + [f"- `{s.id}` {s.prop} {render(s.value, cache, new_items)}: {s.reason}"
                                             for s in stmts if s.route == "curator"]
+    lines += ["", f"## Reconciliation ({len(rec_items)} entities, reconcile.tsv)", ""]
+    for r in rec_items:
+        n = sum(1 for s in stmts if r["placeholder"] in (s.entity, s.value))
+        state = (r["resolved"] if r["resolved"] else
+                 f"game, {len(r['candidates'])} candidate(s)" if r["candidates"] else "open, no candidate")
+        lines.append(f"- {r['lemma']} / {r['label']} ({r['ref'] or 'no ref'}): {state}; {n} pending statement(s)")
     nolab = [s.id for s in stmts if s.quote and "#:~:text=" not in (s.lab_link or "")]
     lines += ["", f"Passages without a lab text anchor (page link only): {len(nolab)}"]
     n_items = sum(len(s["items"]) for s in specs)

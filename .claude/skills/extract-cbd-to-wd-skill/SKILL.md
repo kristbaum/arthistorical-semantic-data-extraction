@@ -66,6 +66,7 @@ of each quote that also exists on the lab page for the link anchor.
 | `claims.tsv` | build.py | every statement: id, route, game, reason, entity, property, value, qualifiers, quote, lab link, `entity_ref`/`value_ref` (the `{{Entität}}` ids of subject and value), QS line |
 | `refs.tsv` | build.py | ref → lemma, item key, target (QID or placeholder) |
 | `placeholders.tsv` | build.py | placeholder → label, description, qid (fill qid after creation) |
+| `reconcile.tsv` | build.py | `{REC:…}` placeholder → lemma, ref, label, hint, candidates, qid (`Q…` or `none`; set by `apply_results.py` from the game export or by hand; kept across builds) |
 | `build-report.md` | build.py | counts per route and game, curator queue |
 | `cache.json` | build.py | Wikidata / Iconclass / lab lookups (delete to refresh) |
 | `report.md` | you | per article: matches with evidence, skipped facts, conflicts, open questions |
@@ -113,8 +114,16 @@ then Wikidata (label + dates in one SPARQL query for all names of the band),
 `normdata-search` when ambiguous. Match only when life dates fit the work date
 and the place fits the activity region. CbDD matches on surname + first given
 name are candidates, not answers (Anwander: "Johann" †1770 vs. Johann Baptist
-1750–1800 for frescoes of c. 1795). No match and too little to describe a new
-person → leave the claim out and list it in the report.
+1750–1800 for frescoes of c. 1795).
+
+Not confirmed → **still extract it**: every `{{Entität}}` person (and any
+other entity) without a confirmed item becomes a `"rec"` item
+(claims-format.md) with up to 4 candidate QIDs (dates, occupation, region
+checked; empty when nothing comes close), and its claims are written as for
+any other item. They wait as `pending` statements; candidates go into the
+reconciliation game "Wer ist gemeint?", an empty list stays open for a curator.
+Confirmed matches (two independent agreements) get `"qid"` directly, even
+without claims, so `apply_qids.py write` links the template.
 
 ### 4. Rooms, paintings, subjects — lax
 
@@ -177,6 +186,7 @@ Routes:
 | audit | deterministic 10 % sample of the direct text claims, ≥ 1 per article → game "Stichprobe Corpus" (no action) |
 | game | P170, P571 (year precision), P1257, P180, P5816 on paintings, checks passed; Yes/No games only for unhedged claims |
 | curator | any failed check; hedged claim for a Yes/No game; P84, P88, P921, date ranges … |
+| pending | subject, value or qualifier is a `{REC:…}` entity not resolved yet; in no QS file until `reconcile.tsv` has its QID |
 
 Fix the claims file (not the outputs) when a check fails because *you* got
 something wrong; leave real ambiguities in the curator queue.
@@ -191,6 +201,7 @@ something wrong; leave real ambiguities in the curator queue.
 | Wer ist zu sehen? | YN | L | P180 |
 | Zustandsbericht | YN | L | P5816 |
 | Stichprobe Corpus | YN | S | none (measures the error rate of the direct route) |
+| Wer ist gemeint? | SC: the candidates (label, life dates, description, link) + »Keine davon« (a 2nd option »Kein passender Eintrag« when only one) | E | none; `apply_results.py` writes the choice into `reconcile.tsv`, which unlocks the pending statements and the template link |
 
 Double confirmation (`E`) only for the judgment calls (certainty, Iconclass);
 the plain Yes/No checks need one logged-in answer (`L`).
@@ -227,7 +238,12 @@ what each option means). Every reference is `P248 %var_volume%` +
 3. Rerun `build.py`: created items are now used by QID everywhere — the game
    CSVs and `direct.qs` no longer contain placeholders.
 4. Run `direct.qs`. Review `curator.qs`.
-4a. Write the QIDs into the articles and re-upload them:
+4a. After "Wer ist gemeint?" has been played:
+   `apply_results.py --out data/wikidata/{Band} <export>.csv` fills
+   `reconcile.tsv`; for `none` (or open rows without candidates) create the
+   item and put its QID there. Rerun `build.py` — the pending statements are
+   routed normally and land in `direct.qs` / the games / `curator.qs`.
+4b. Write the QIDs into the articles and re-upload them:
    ```bash
    S=.claude/skills/extract-cbd-to-wd-skill/scripts
    uv run python $S/apply_qids.py write --out data/wikidata/{Band} --articles data/cleaned-with-skill-v2/{Band}          # dry run

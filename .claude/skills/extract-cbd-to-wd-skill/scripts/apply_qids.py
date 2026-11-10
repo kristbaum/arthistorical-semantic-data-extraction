@@ -4,7 +4,8 @@
 The cleaning step gives every {{Entität}} in an article a unique `id=`
 (8 characters a-z0-9). In the claims file, each item that stands for such a
 template notes it as `"ref": "<id>"`. Once the items exist — reconciled
-(`"qid"` in the claims file) or created (placeholder resolved in
+(`"qid"` in the claims file, or a `"rec"` item resolved in reconcile.tsv by
+the game "Wer ist gemeint?" / by hand) or created (placeholder resolved in
 placeholders.tsv by `placeholders.py lookup --apply`) — this script sets
 `qid=` on the matching template:
 
@@ -76,11 +77,18 @@ def placeholder(lemma: str, key: str, kind: str) -> str:  # same as build.py exp
 
 
 def load_created(out: Path) -> dict[str, str]:
-    path = out / "placeholders.tsv"
-    if not path.exists():
-        return {}
-    return {r["placeholder"]: (r.get("qid") or "").strip()
-            for r in csv.DictReader(path.open(encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE)}
+    """placeholder -> QID from placeholders.tsv ({NEW:…}) and reconcile.tsv ({REC:…})."""
+    got = {}
+    for name in ("placeholders.tsv", "reconcile.tsv"):
+        path = out / name
+        if path.exists():
+            got |= {r["placeholder"]: (r.get("qid") or "").strip()
+                    for r in csv.DictReader(path.open(encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE)}
+    return got
+
+
+def rec_placeholder(lemma: str, key: str, kind: str) -> str:  # same as build.py expand()
+    return f"{{REC:{kind}:{slugify(lemma)}-{slugify(key)}}}"
 
 
 def dump_claims(spec: dict) -> str:
@@ -122,12 +130,16 @@ def cmd_write(a) -> int:
             ref = it.get("ref")
             if not ref:
                 continue
-            qid = it.get("qid") or created.get(placeholder(lemma, key, it.get("new", "")), "")
+            if "rec" in it:
+                qid = created.get(rec_placeholder(lemma, key, it["rec"]), "")
+            else:
+                qid = it.get("qid") or created.get(placeholder(lemma, key, it.get("new", "")), "")
             if QID_RE.match(qid or ""):
                 target[ref] = qid
             else:
                 stats["waiting"] += 1
-                print(f"  WAITING  {lemma} / {key} ({ref}): item not created yet")
+                why = "not reconciled yet" if "rec" in it else "item not created yet"
+                print(f"  WAITING  {lemma} / {key} ({ref}): {why}")
 
         found = set()
 
