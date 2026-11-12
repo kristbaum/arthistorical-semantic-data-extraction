@@ -1,77 +1,69 @@
 ---
 name: extract-cbd-to-wd-skill
-description: "Use when asked to extract structured data from CbDD articles (printed Corpus der barocken Deckenmalerei, data/formatted or cleaned output) into Wikidata statements — buildings, rooms, ceiling paintings, painters, stuccoists, commissioners, dates, techniques, patron saints, depicted subjects. Reconciles the buildings and people against Wikidata and the deckenmalerei.eu dump, writes one claims file per article with the verbatim passage behind every claim, and builds from it (deterministically): QuickStatements batches cited to the printed volume and page with {NEW:…} placeholders for items still to be created, a direct batch for high-certainty statements, a curator queue, and Como games (config JSON + prompt CSV) for the interpretive statements, with links into the deckenmalerei-lab page that scroll to the passage. Trigger on 'extract the data from this article', 'make Wikidata statements for Band05', 'put this church's paintings on Wikidata', 'QS batch from the corpus', 'Como game for the corpus statements'."
+description: "Use when asked to extract structured data from CbDD articles (printed Corpus der barocken Deckenmalerei, data/formatted or cleaned output) into Wikidata statements — buildings, rooms, ceiling paintings, painters, stuccoists, commissioners, dates, techniques, patron saints, depicted subjects, Iconclass. Knows the deckenmalerei-lab markup ({{Entität}} ids, {{Abk}}, Maße tables, labelled fields), the deckenmalerei.eu structure (building → room → painting) and the ceiling paintings and rooms already on Wikidata; writes one draft per article and turns a band into a claim bundle (version 2) for the como-game-creator skill, which reconciles, verifies, routes, uploads and builds the games. Trigger on 'extract the data from this article', 'make Wikidata statements for Band05', 'put this church's paintings on Wikidata', 'claim bundle from the corpus'."
 ---
 
-# Extract CbDD articles to Wikidata
+# CbDD articles → claim bundle
 
 Turns one article, a list of lemmas, or a band of the printed *Corpus der
-barocken Deckenmalerei in Deutschland* into checked Wikidata statements.
+barocken Deckenmalerei in Deutschland* into a claim bundle: the entities
+the article names (to reconcile) and the statements it makes (to validate),
+each with the verbatim passage behind it.
 
-**The split of work:** you (the model) read, reconcile and write one
-**claims file** per article: atomic claims, each with the verbatim passage it
-rests on. Everything after that is deterministic and done by
-`scripts/build.py`: placeholders, bookkeeping statements, checks, triage, QS
-files, Como games, links. Never hand-write QS lines, game CSVs or request
-bodies.
+**This skill knows the corpus; the como-game-creator skill knows the rest.**
 
-Load first: `as-quickstatments` (QS syntax and value formats), and for the
-games the `como-game-creator` skill (`~/Projects/como-game-creator-skill`,
-especially `reference/llm-extracted-claims.md`). Iconclass: the
-`iconclass-cbdd` skill if installed, otherwise the Iconclass MCP (step 4).
+| This skill | como-game-creator (`claim-bundle`) |
+|---|---|
+| the article markup, ids and pages; the lab page | the bundle format, temporary ids as placeholders, evidence |
+| which statements a ceiling-painting article holds ([data-model.md](references/data-model.md)) | candidate generators and validators against Wikidata |
+| the deckenmalerei.eu structure and existing items | routing from verified evidence ([policy.json](references/policy.json) is ours) |
+| the certainty vocabulary of the authors | batches, games (reconciliation, validation), results |
+| writing QIDs back into the articles | progress |
 
-Nothing is sent to Wikidata. The user runs the batches and uploads the games.
+**Load first** the como-game-creator skill (`~/Projects/como-game-creator-skill/skill`):
+`reference/claim-bundle.md`, `reference/reconciliation.md`,
+`reference/validation.md`, `reference/evidence.md`. Its command is
+`CB=~/Projects/como-game-creator-skill/skill/scripts/claim-bundle`.
+Nothing is sent to Wikidata.
 
 Files:
-- [references/data-model.md](references/data-model.md) — properties, classes,
-  volume QIDs, certainty and date rules. **Read it before writing claims.**
-- [references/claims-format.md](references/claims-format.md) — the claims
-  file you write. **Read it before writing one.**
-- `scripts/cbdd_lookup.py` — article context + deckenmalerei.eu lookups.
-- `scripts/build.py` — claims files → everything else (see Output).
-- `scripts/check_quotes.py` — standalone verbatim check of passages.
-- `scripts/placeholders.py` — check / lookup / fill `{NEW:…}` placeholders.
-- `scripts/apply_qids.py` — `link` notes refs for items of older claims files;
-  `write` puts the QIDs into the articles' `{{Entität}}` templates by ref.
+- [references/data-model.md](references/data-model.md): properties, classes,
+  volume QIDs, certainty and date rules. **Read before writing.**
+- [references/draft-format.md](references/draft-format.md): the draft you
+  write and the shorthands make_bundle expands. **Read before writing.**
+- [references/policy.json](references/policy.json): the routing policy for
+  `claim-bundle route`.
+- `scripts/cbdd_lookup.py`: article context, deckenmalerei.eu lookups.
+- `scripts/make_bundle.py`: drafts → `bundle.json`, `refs.tsv`, `texts/`.
+- `scripts/check_quotes.py`: the CbDD markup → plain text (used by
+  make_bundle for the texts quotes are checked against).
+- `scripts/apply_qids.py`: QIDs from bundle + state → `qid=` in the
+  articles' `{{Entität}}` templates.
 
-## Input
+## The markup
 
-**Entity refs.** The cleaned articles mark the building, rooms, people and
-paintings with `{{Entität|<text>|rolle=…|titel=…|bild=…|id=<ref>}}`, one
-template per entity. The `id` is a stable key: **note it as `"ref"` on the
-item** that stands for this entity (claims-format.md), so the QID can later be
-written back to exactly that spot. `cbdd_lookup.py article` lists them under
-`entities` (id, rolle, text, titel, bild). Otherwise ignore the template's
-parameters — quote only its shown text.
+Cleaned articles (`clean-cbd-skill` output, e.g.
+`data/cleaned-with-skill-v2/{Band}/`; fallback `data/formatted/{Band}/`).
+Skip articles with a non-empty `|Meta=` and front/back matter.
 
-Cleaned articles (output of `clean-cbd-skill`, folder named by the user, e.g.
-`data/cleaned-with-skill-v2/{Band}/`), falling back to
-`data/formatted/{Band}/{Lemma}.wiki`. Skip articles with a non-empty `|Meta=`
-and front/back matter (`Vorwort`, `Register`, …).
+- `{{Artikel|…}}`: `Originalseitenvon`/`-bis` are the pages of every
+  reference; the band directory gives the volume QID.
+- `{{Entität|<text>|rolle=…|titel=…|bild=…|qid=…|id=<ref>}}` marks the
+  building, rooms, people and paintings. Note the `id` as `ref` on the
+  entity it stands for; `apply_qids.py` later writes the QID there. A
+  `qid=` already present is a candidate match: verify it like any other.
+  Templates for cycles (`A<sub>1–4</sub>`) and for the only room of a
+  one-room building get no entity.
+- Quote the plain text: `{{Abk|St.}}` → `St.`, `{{Entität|Pfarrkirche|…}}`
+  → `Pfarrkirche`, `A<sub>1</sub>` → `A1`, `'''Technik:'''` → `Technik:`,
+  table rows as `A – 3,30 m – 1,75 × 1,40` (empty cells: `– –`).
+  `texts/<id>.txt`, written by make_bundle, is exactly that text.
+- The lab wiki (`https://deckenmalerei-lab.badw.de`) holds the **older,
+  uncleaned** text. Quotes come from the cleaned file; make_bundle saves the
+  lab text as `texts/<id>.lab.txt`, and `claim-bundle anchors` builds the
+  passage links from it.
 
-The deckenmalerei-lab wiki (`https://deckenmalerei-lab.badw.de`) holds the
-**older, uncleaned** text of the same articles (OCR errors such as "1695" for
-"1795"). Quotes always come from the cleaned file; `build.py` finds the part
-of each quote that also exists on the lab page for the link anchor.
-
-## Output (folder `data/wikidata/{Band}/`, shared by all articles of the run)
-
-| File | Written by | Content |
-|---|---|---|
-| `claims/<lemma-slug>.json` | you | items + claims + passages, one file per article |
-| `create.qs` | build.py | one CREATE block per new item: terms, P31, P1343 and the direct statements that need no other new item |
-| `direct.qs` | build.py | high-certainty statements on existing items and links between new items (placeholders until filled); includes "already on Wikidata, add the reference" lines |
-| `curator.qs` | build.py | statements a person must look at, each with the reason as a comment |
-| `games/<slug>.json` + `.csv` | build.py | Como game configs and prompt CSVs (see Games) |
-| `claims.tsv` | build.py | every statement: id, route, game, reason, entity, property, value, qualifiers, quote, lab link, `entity_ref`/`value_ref` (the `{{Entität}}` ids of subject and value), QS line |
-| `refs.tsv` | build.py | ref → lemma, item key, target (QID or placeholder) |
-| `placeholders.tsv` | build.py | placeholder → label, description, qid (fill qid after creation) |
-| `reconcile.tsv` | build.py | `{REC:…}` placeholder → lemma, ref, label, hint, candidates, qid (`Q…` or `none`; set by `apply_results.py` from the game export or by hand; kept across builds) |
-| `build-report.md` | build.py | counts per route and game, curator queue |
-| `cache.json` | build.py | Wikidata / Iconclass / lab lookups (delete to refresh) |
-| `report.md` | you | per article: matches with evidence, skipped facts, conflicts, open questions |
-
-## Workflow (per article)
+## Workflow (per article, then per band)
 
 ### 1. Context
 
@@ -79,190 +71,117 @@ of each quote that also exists on the lab page for the link anchor.
 python3 .claude/skills/extract-cbd-to-wd-skill/scripts/cbdd_lookup.py article "<path>.wiki"
 ```
 
-Gives lemma, band, volume QID, page range, labelled fields, field identifiers
-with titles, the Maße table, room words and the matching deckenmalerei.eu
-building with its QID. Then read the whole article — the script only finds
-structure; meaning comes from the text.
+Lemma, band, volume QID, pages, labelled fields, identifiers with titles,
+the Maße table, room words, the `{{Entität}}` list, and the matching
+deckenmalerei.eu building with its QID. Then read the whole article.
 
-### 2. Main subject(s): the building(s) — thorough
+### 2. Building: thorough
 
-Usually one building: the lemma. Some lemmas name a part (`…, Fürstenzimmer`):
-the room is the subject and the parent building is reconciled the same way.
+Usually the lemma (`"main": true`); a lemma naming a part makes the room
+the subject.
 
-Find the QID in this order and record the evidence in the report:
+1. deckenmalerei.eu: `cbdd_buildings` (QID via `P10626`); open the item and
+   check `P31`, `P131`, dedication. **Never write `P10626`**.
+2. Wikidata: name, place, patron saint; Bavarian monument items are often
+   right, the printed lemma as alias is a strong signal. For a building
+   without a match, give `facts` (P625 when known, P131) and `types`, set
+   `status: reconcile`, and run `$CB candidates --method geo`.
+3. One confirmed item → `match` with the evidence in `route_reason` (two
+   independent agreements; never the name alone).
 
-1. **deckenmalerei.eu**: `cbdd_buildings` from step 1 (QID via `P10626`).
-   Still open the item: check `P31`, `P131`, dedication against the article.
-   **Never write `P10626`** — that is CBDDsync's job.
-2. **Wikidata**: `search_items` with lemma, place, patron saint; SPARQL on
-   `P131` = municipality. Bavarian monument items (description "einschiffiger
-   Saalbau … mit Ausstattung") are often the right item; the printed lemma as
-   an alias is a strong signal.
-3. One confirmed item → use it. Nothing → new building (`"new": "building"`).
+### 3. Existing paintings and rooms
 
-At least two independent agreements (place + dedication, place + alias, CbDD
-ID + location). Never pick a building because the name alone matches.
+Earlier runs and other projects created items (Beuern: batch 66344;
+Dießen: three Bergmüller frescoes). Look before creating:
 
-Also look for **existing painting items** on the building (`P527`, or
-`?x wdt:P276|wdt:P361 wd:<building>`); reuse them with `"qid": …,
-"painting": true` (Dießen: the cupola fresco Q106548750 already existed).
-
-### 3. People — thorough
-
-Painters, stuccoists, architects, commissioners: `cbdd_lookup.py person`,
-then Wikidata (label + dates in one SPARQL query for all names of the band),
-`normdata-search` when ambiguous. Match only when life dates fit the work date
-and the place fits the activity region. CbDD matches on surname + first given
-name are candidates, not answers (Anwander: "Johann" †1770 vs. Johann Baptist
-1750–1800 for frescoes of c. 1795).
-
-Not confirmed → **still extract it**: every `{{Entität}}` person (and any
-other entity) without a confirmed item becomes a `"rec"` item
-(claims-format.md) with up to 4 candidate QIDs (dates, occupation, region
-checked; empty when nothing comes close), and its claims are written as for
-any other item. They wait as `pending` statements; candidates go into the
-reconciliation game "Wer ist gemeint?", an empty list stays open for a curator.
-Confirmed matches (two independent agreements) get `"qid"` directly, even
-without claims, so `apply_qids.py write` links the template.
-
-### 4. Rooms, paintings, subjects — lax
-
-Rooms only when paintings sit in ≥ 2 rooms; paintings one item per described
-field; cycles get no item (`seq`, `pair` in the claims file). Dimensions:
-`a × b` = length × width; the Maße table's `Höhe` is the **room** height.
-
-Depicted subjects (`P180`): clearly named persons/saints with an item. Look up
-all saints of the band in one SPARQL query on German labels with a sitelink
-filter (`wikibase:sitelinks ?sl FILTER(?sl > 8)`), then check descriptions.
-
-Iconclass (`P1257`): one notation per clearly named subject, the most
-specific the text supports; confirm every notation (Iconclass MCP `resolve`,
-or `https://iconclass.org/<notation>.json`). The passage must name what the
-notation encodes. Skip local legends without a notation.
-
-### 5. Write the claims file
-
-`data/wikidata/{Band}/claims/<lemma-slug>.json`, format in
-[references/claims-format.md](references/claims-format.md). Rules:
-
-- **Refs**: every item that has an `{{Entität}}` in the article gets its
-  `id` as `"ref"` — the main building (`rolle=Bauwerk`), each painting (by its
-  identifier or title), each person, each room. Never invent a ref; an entity
-  without a template (a person only named in a quotation) simply has none.
-  `build.py` stops on a ref used twice and reports refs not found in the
-  article.
-- **Quotes verbatim** from the cleaned article with markup removed
-  (`{{Abk|St.}}` → `St.`, `{{Entität|Pfarrkirche|…}}` → `Pfarrkirche`,
-  `A<sub>1</sub>` → `A1`, file links → their text).
-  Cut with `[…]`. Table rows are quoted as rendered:
-  `Maße: […] A – 3,30 m – 1,75 × 1,40`.
-- Keep the authors' certainty as qualifiers (data-model.md, "Certainty");
-  the passage must contain the cue word (*wohl, vermutlich, um, zuschreiben*…)
-  or the claim lands in the curator queue.
-- `named_as` = the name as printed (becomes `P1932`).
-- One claim per fact; a list in `"s"` when the same passage supports the same
-  fact for several fields.
-
-### 6. Build, check, triage
-
-```bash
-python3 .claude/skills/extract-cbd-to-wd-skill/scripts/build.py \
-    --articles data/cleaned-with-skill-v2/{Band} --out data/wikidata/{Band}
-python3 .claude/skills/extract-cbd-to-wd-skill/scripts/placeholders.py check \
-    --map data/wikidata/{Band}/placeholders.tsv data/wikidata/{Band}/create.qs data/wikidata/{Band}/direct.qs
-for j in data/wikidata/{Band}/games/*.json; do
-  python3 ~/Projects/como-game-creator-skill/scripts/validate.py "$j" "${j%.json}.csv"; done
+```sparql
+SELECT ?b ?x ?xLabel ?xDescription WHERE {
+  VALUES ?b { wd:Q41254590 wd:Q1254306 }                 # the band's buildings
+  { ?x wdt:P276 ?b } UNION { ?x wdt:P361 ?b } UNION { ?b wdt:P527 ?x }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de". } }
 ```
 
-Checks per claim: passage verbatim in the article; certainty qualifiers backed
-by a cue word; inscription text found in the passage; every QID exists and is
-no redirect; statement not already on the item (then: direct, reference only).
+or, per painting entity, `status: reconcile`, `on_no_match: create`,
+`types: ["Q1181933"]` and `$CB candidates --method relation --property P276
+--value <building>`. Reuse an existing item as `match` with its `ref`.
 
-Routes:
+### 4. People: thorough
 
-| Route | When |
-|---|---|
-| direct | structural statements; labelled-field/table properties (P2079, P186, P2043, P2049, P2048, P2386, P825, P361, P276, P1684 …) with an unhedged passage; statements already on Wikidata (reference only) |
-| audit | deterministic 10 % sample of the direct text claims, ≥ 1 per article → game "Stichprobe Corpus" (no action) |
-| game | P170, P571 (year precision), P1257, P180, P5816 on paintings, checks passed; Yes/No games only for unhedged claims |
-| curator | any failed check; hedged claim for a Yes/No game; P84, P88, P921, date ranges … |
-| pending | subject, value or qualifier is a `{REC:…}` entity not resolved yet; in no QS file until `reconcile.tsv` has its QID |
+Painters, stuccoists, architects, commissioners: `cbdd_lookup.py person`,
+then Wikidata. Every `{{Entität}}` person becomes an entity (global id
+`_:person:<slug>`, shared across articles):
 
-Fix the claims file (not the outputs) when a check fails because *you* got
-something wrong; leave real ambiguities in the curator queue.
+- confirmed (dates fit the work, place fits the region, two agreements) →
+  `match`, evidence in `route_reason`;
+- otherwise `reconcile` with `types: ["Q5"]`, `on_no_match` (usually
+  `curator`), `facts` from the article (`P569`/`P570` life dates; `P2031`/
+  `P2032` term of office; `P1317` activity year), and the candidates you
+  know (QIDs). Then `$CB candidates --method label --keep 4 --entity …
+  --write` for those without; remove the implausible ones yourself.
 
-### 7. Games
+CbDD matches on surname + first given name are candidates, not answers
+(Anwander: "Johann" †1770 vs. Johann Baptist 1750–1800 for c. 1795).
 
-| Game (slug) | Response | Confidence | Action (REST, `POST …/items/%custom_value1%/statements`) |
-|---|---|---|---|
-| Wer hat das gemalt? | SC: belegt / zugeschrieben / vermutlich / wahrscheinlich | E | P170 + qualifier per option (`trigger_option`), P1932 = `%var_named_as%` |
-| Wann wurde das gemalt? | SC: so datiert / um / vermutlich | E | P571 year + qualifier per option |
-| Iconclass-Detektiv | YN | E | P1257 notation, label from iconclass.org |
-| Wer ist zu sehen? | YN | L | P180 |
-| Zustandsbericht | YN | L | P5816 |
-| Stichprobe Corpus | YN | S | none (measures the error rate of the direct route) |
-| Wer ist gemeint? | SC: the candidates (label, life dates, description, link) + »Keine davon« (a 2nd option »Kein passender Eintrag« when only one) | E | none; `apply_results.py` writes the choice into `reconcile.tsv`, which unlocks the pending statements and the template link |
+### 5. Rooms, paintings, subjects: lax
 
-Double confirmation (`E`) only for the judgment calls (certainty, Iconclass);
-the plain Yes/No checks need one logged-in answer (`L`).
+Rooms only when paintings sit in ≥ 2 rooms; one painting per described
+field; cycles get no entity (`seq`, `pair`). `a × b` = length × width; the
+Maße table's `Höhe` is the **room** height. Depicted subjects (`P180`):
+clearly named persons/saints with an item (one SPARQL query for all saints
+of the band, sitelinks > 8). Iconclass (`P1257`): one confirmed notation per
+clearly named subject (Iconclass MCP `resolve`).
 
-Prompts carry only what players use, one link per piece of evidence:
+### 6. Write the draft
 
-- **Question**: names the painting (`%subject%`: »title«, description) and
-  the claim, so no separate painting block is needed.
-- **Claim block**: only where the question isn't enough: painter (Wikidata
-  link, name as printed), Iconclass notation (text from iconclass.org, link
-  into the tree), depicted subject (Wikidata link, to tell namesakes apart),
-  the audit statement. Zustand and Datierung have none (value in the question
-  or the options).
-- **Textstelle**: »quote« (S. pages), the single link into the article: the
-  lab page with a `#:~:text=` fragment.
-- **Image**, last and unlabelled: the scan from the lab
-  (`/images/x/xy/<file>`, found via the `[[:File:…|A]]` links, the captions,
-  or caption ranges like `A1–4`), else P18 of an existing painting. Como shows
-  lab images through its proxy. Prompts without an image just lose the block.
-  Because the image comes last, no labels shift.
+`data/claim-bundles/{Band}/drafts/<id>.json` ([draft-format.md](references/draft-format.md)):
+every statement the article supports and the data model covers, quotes
+verbatim, the authors' certainty as qualifiers (make_bundle turns hedged
+attributions and dates of paintings into certainty choices), `named_as`
+as printed, `route` only where the policy would be wrong for this text
+(with a `route_reason`).
 
-The volume is the same on every prompt, so it is not a block. The long
-description names it with a link to its Wikidata item, says the page is
-added from the passage, and explains how to decide (what counts as Yes/No,
-what each option means). Every reference is `P248 %var_volume%` +
-`P304 %var_pages%`. Requires Como with `var_*` columns and `trigger_option`
-(migration 0052).
+### 7. Build, then the como tools
 
-### 8. Hand over and run order
+```bash
+S=.claude/skills/extract-cbd-to-wd-skill
+CB=~/Projects/como-game-creator-skill/skill/scripts/claim-bundle
+B=data/claim-bundles/{Band}/bundle.json
+python3 $S/scripts/make_bundle.py --articles data/cleaned-with-skill-v2/{Band} --out data/claim-bundles/{Band}
+$CB candidates $B --method label --keep 4 --entity <reconcile entities without candidates> --write
+#   remove implausible candidates from the bundle
+$CB verify  $B --write                        # names, dates, classes, passages, existing statements
+$CB route   $B --policy $S/references/policy.json --write
+$CB anchors $B --write
+$CB check   $B
+```
 
-1. Run `create.qs` in QuickStatements.
-2. `placeholders.py lookup --map placeholders.tsv --apply` (finds new items by
-   unique German label + description) or fill the `qid` column by hand.
-3. Rerun `build.py`: created items are now used by QID everywhere — the game
-   CSVs and `direct.qs` no longer contain placeholders.
-4. Run `direct.qs`. Review `curator.qs`.
-4a. After "Wer ist gemeint?" has been played:
-   `apply_results.py --out data/wikidata/{Band} <export>.csv` fills
-   `reconcile.tsv`; for `none` (or open rows without candidates) create the
-   item and put its QID there. Rerun `build.py` — the pending statements are
-   routed normally and land in `direct.qs` / the games / `curator.qs`.
-4b. Write the QIDs into the articles and re-upload them:
-   ```bash
-   S=.claude/skills/extract-cbd-to-wd-skill/scripts
-   uv run python $S/apply_qids.py write --out data/wikidata/{Band} --articles data/cleaned-with-skill-v2/{Band}          # dry run
-   uv run python $S/apply_qids.py write --out data/wikidata/{Band} --articles data/cleaned-with-skill-v2/{Band} --apply
-   uv run python -m src.mediawiki.upload_pages --articles data/cleaned-with-skill-v2/{Band}
-   ```
-   Reconciled items are written at once; created ones after step 2. A
-   `CONFLICT` (the template already has another qid) is never overwritten —
-   resolve it by hand. For claims files written before refs existed,
-   `apply_qids.py link` suggests the refs (`--apply` writes them; it lists
-   ambiguous items for you to settle).
-5. Create the games from `games/*.json`, upload the CSVs, ask for activation.
-   Games may be played on placeholders for testing only (unlisted): their
-   actions would fail.
+make_bundle stops on CbDD errors (unknown keys, refs missing or used twice,
+unknown Iconclass notations, a shared entity defined differently). `note:`
+lines list `{{Entität}}` refs without an entity: add them or say why not.
+make_bundle rewrites the bundle from the drafts, so the como steps run
+again after every rebuild; fix the draft when a check shows *you* got it
+wrong, leave real ambiguity to the curator.
+
+### 8. Hand over
+
+Report per article (`report.md`: matches with evidence, skipped facts,
+conflicts, open questions) and `$CB report $B`. Uploading and the games are
+the como-game-creator skill's loop (`next`, `resolve`, `como`,
+`game-config`, `como-sync`). Once items exist, write their QIDs into the
+articles:
+
+```bash
+python3 $S/scripts/apply_qids.py --bundle $B --articles data/cleaned-with-skill-v2/{Band}   # dry run, then --apply
+uv run python -m src.mediawiki.upload_pages --articles data/cleaned-with-skill-v2/{Band}
+```
+
+A `CONFLICT` (the template already has another qid) is never overwritten.
 
 ## Settled decisions
 
 - Maße `a × b` = length × width; height only when written as `Höhe`.
 - No items for picture cycles or room sequences; members are linked directly.
 - Never add `P10626`.
-- One claim per Como prompt; certainty is chosen by players, not copied from
-  the model.
+- "Autor unbekannt" is `P170 somevalue`, routed direct.
+- Certainty of attributions and dates is chosen by players (or a curator),
+  not copied from the model.

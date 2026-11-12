@@ -1,0 +1,131 @@
+{
+ "id": "dienhausen",
+ "lemma": "Dienhausen, Kapelle St. Magnus",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q41253199",
+   "main": true,
+   "ref": "kuv1n4a0",
+   "route_reason": "deckenmalerei.eu building 'Dienhausen, Kapelle St. Magnus' carries this QID (P10626); the monument item ('Katholische Kapelle St. Magnus', Satteldachbau mit halbrunder Apsis, 1733) matches the article's new building of 1733 with a semicircular AR."
+  },
+  "dierling": {
+   "kind": "person",
+   "status": "reconcile",
+   "route": "curator",
+   "p31": "Q5",
+   "ref": "yu6uuczc",
+   "labels": {
+    "de": "Dominicus Dierling"
+   },
+   "descriptions": {
+    "de": "Abt von St. Mang in Füssen (1714–1738)",
+    "en": "abbot of St. Mang, Füssen (1714–1738)"
+   },
+   "candidates": [],
+   "route_reason": "Abbot of St. Mang; neither a label search (Dominicus/Dominikus Dierling) nor a search for abbots of St. Mang found an item. A curator decides whether to create one.",
+   "quote": "Abt Dominicus Dierling von Füssen (1714–38), dessen Wappen sich am Chorbogen befindet",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P2031",
+     "value": "+1714-00-00T00:00:00Z/9"
+    },
+    {
+     "property": "P2032",
+     "value": "+1738-00-00T00:00:00Z/9"
+    }
+   ]
+  },
+  "benedikt": {
+   "kind": "painting",
+   "status": "create",
+   "labels": {
+    "de": "Hl. Benedikt"
+   },
+   "descriptions": {
+    "de": "Deckenbild im Altarraum von Dienhausen, Kapelle St. Magnus",
+    "en": "ceiling painting in the chancel of Dienhausen, Kapelle St. Magnus"
+   },
+   "ref": "iznvz6p1"
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q566085",
+   "quote": "Patrozinium: St. Magnus"
+  },
+  {
+   "subject": "benedikt",
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": "benedikt",
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; polychrom"
+  },
+  {
+   "subject": "benedikt",
+   "property": "P2043",
+   "value": "1.50U11573",
+   "quote": "Maße: Höhe 4,90 m; 1,50 × 1,30"
+  },
+  {
+   "subject": "benedikt",
+   "property": "P2049",
+   "value": "1.30U11573",
+   "quote": "Maße: Höhe 4,90 m; 1,50 × 1,30"
+  },
+  {
+   "subject": "benedikt",
+   "property": "P88",
+   "value": "dierling",
+   "named_as": "Dominicus Dierling",
+   "quote": "Auftraggeber: Abt Dominicus Dierling von Füssen (1714–38), dessen Wappen sich am Chorbogen befindet"
+  },
+  {
+   "subject": "benedikt",
+   "property": "P170",
+   "value": "somevalue",
+   "quote": "Der unbekannte Autor dürfte im Umkreis der Abtei St. Mang in Füssen zu suchen sein.",
+   "route": "direct",
+   "route_reason": "The article states that the author is unknown: unknown value, nothing to interpret."
+  },
+  {
+   "subject": "benedikt",
+   "property": "P571",
+   "value": "+1730-00-00T00:00:00Z/8",
+   "qualifiers": {
+    "P1319": "+1733-00-00T00:00:00Z/9"
+   },
+   "quote": "Das Deckenbild stammt aus der Erbauungszeit, also kurz nach 1733."
+  },
+  {
+   "subject": "benedikt",
+   "property": "P5816",
+   "value": "Q106379705",
+   "quote": "Erhaltungszustand: Einzelne Risse, Verschmutzungen, Abblätterungen am unteren Rand"
+  },
+  {
+   "subject": "benedikt",
+   "property": "P180",
+   "value": "Q44265",
+   "quote": "Auf Wolken stehend ist der hl. Benedikt dargestellt, als Ordensgründer der Benediktiner"
+  },
+  {
+   "subject": "benedikt",
+   "property": "P1257",
+   "value": "\"11H(BENEDICT)\"",
+   "quote": "Neben ihm sind seine Attribute zu sehen, Buch, Abtstab und Giftbecher mit Schlange."
+  }
+ ]
+}

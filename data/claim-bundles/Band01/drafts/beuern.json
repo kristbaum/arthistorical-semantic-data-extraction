@@ -1,0 +1,305 @@
+{
+ "id": "beuern",
+ "lemma": "Beuern, Pfarrkirche St. Michael",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q41254590",
+   "main": true,
+   "ref": "ft9cjb9q",
+   "route_reason": "QID in the cleaned article's {{Entität}}; the deckenmalerei.eu building 'Beuern, Pfarrkirche St. Michael' carries the same QID (P10626), dedication St. Michael."
+  },
+  "engelsturz": {
+   "kind": "painting",
+   "status": "match",
+   "qid": "Q142089560",
+   "ref": "xl48lbz8",
+   "route_reason": "Created from the earlier extraction (QuickStatements batch 66344, label 'Engelsturz', P276 = Q41254590); QID in the article's {{Entität}}."
+  },
+  "_:person:joseph-schmuzer": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1707978",
+   "ref": "indqsa5j",
+   "route_reason": "QID in the cleaned article's {{Entität}}; Joseph Schmuzer (1683–1752), Wessobrunn architect, fits the rebuilding of 1724–25 in the Landsberg area."
+  },
+  "_:person:johann-adam-schoepf": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q835326",
+   "ref": "wpeyhvwk",
+   "route_reason": "QID in the cleaned article's {{Entität}}; the item's dates 1702–1772 equal the article's (*1702 Stadtamhof † 1772 Egenburg)."
+  },
+  "_:person:johann-georg-bergmueller": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q551709",
+   "ref": "kli7j129",
+   "route_reason": "Johann Georg Bergmüller (1688–1762), Augsburg fresco painter; Haid's portrait engravings after Bergmüller are well known, and he is the only painter of this name in the region and period."
+  },
+  "_:person:emanuel-maximilian-von-perfall": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q133668057",
+   "ref": "glxb4est",
+   "route_reason": "Emanuel Maximilian von Perfall, item dates 1717–1790 equal the article's (* ca. 1717 † 1790); the Perfall family held Greifenberg, the article's Herrschaft."
+  },
+  "mauser": {
+   "kind": "person",
+   "status": "reconcile",
+   "route": "curator",
+   "p31": "Q5",
+   "ref": "tvjpnp6s",
+   "labels": {
+    "de": "Kaspar Mauser"
+   },
+   "descriptions": {
+    "de": "Pfarrer von Beuern (1717–1745)",
+    "en": "parish priest of Beuern (1717–1745)"
+   },
+   "candidates": [],
+   "route_reason": "Parish priest; Wikidata label search and the deckenmalerei.eu dump found nobody of this name. A curator decides whether he gets an item.",
+   "quote": "Unter Pfarrer Kaspar Mauser (1717–45) wurde 1724–25 der Neubau der Kirche durch Joseph Schmuzer errichtet",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P2031",
+     "value": "+1717-00-00T00:00:00Z/9"
+    },
+    {
+     "property": "P2032",
+     "value": "+1745-00-00T00:00:00Z/9"
+    }
+   ]
+  },
+  "bayerlacher": {
+   "kind": "person",
+   "status": "reconcile",
+   "route": "curator",
+   "p31": "Q5",
+   "ref": "xfvquqkr",
+   "labels": {
+    "de": "Matthias Johann Nepomuk Bayerlacher"
+   },
+   "descriptions": {
+    "de": "Pfarrer von Beuern (1750–1772)",
+    "en": "parish priest of Beuern (1750–1772)"
+   },
+   "candidates": [],
+   "route_reason": "Parish priest who paid for the frescoes; no item under this name on Wikidata or in the deckenmalerei.eu dump. A curator decides whether he gets an item.",
+   "quote": "Pfarrer Matthias Johann Nepomuk Bayerlacher von Beuern (1750–72) bestritt die Kosten der Freskierung von 1759",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P2031",
+     "value": "+1750-00-00T00:00:00Z/9"
+    },
+    {
+     "property": "P2032",
+     "value": "+1772-00-00T00:00:00Z/9"
+    }
+   ]
+  },
+  "_:person:johann-nepomuk-von-schoepf": {
+   "kind": "person",
+   "status": "reconcile",
+   "p31": "Q5",
+   "ref": "en5hqy5v",
+   "labels": {
+    "de": "Johann Nepomuk von Schöpf"
+   },
+   "descriptions": {
+    "de": "kurbayerischer Hofmaler (* 1735)",
+    "en": "Bavarian court painter (born 1735)"
+   },
+   "candidates": [
+    {
+     "id": "Q1695668",
+     "reason": "Johann Nepomuk Schöpf, Baroque painter, son of Johann Adam Schöpf; item dates 1733–1798 differ from the article's *1735 † nach 1785."
+    }
+   ],
+   "hint": "Son and pupil of Johann Adam Schöpf; the article names him only as the painter of the usual (rejected) attribution.",
+   "route_reason": "Name and family fit Q1695668, but the birth year differs (1733 vs. 1735), so players confirm the match.",
+   "quote": "Das Fresko wird meist Johann Nepomuk von Schöpf, dem kurbayerischen Hofmaler (*1735 † nach 1785) zugeschrieben",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P569",
+     "value": "+1735-00-00T00:00:00Z/9"
+    }
+   ]
+  },
+  "_:person:haid": {
+   "kind": "person",
+   "status": "reconcile",
+   "p31": "Q5",
+   "ref": "k5e5ct54",
+   "labels": {
+    "de": "Haid"
+   },
+   "descriptions": {
+    "de": "Kupferstecher eines Porträts von Johann Adam Schöpf nach Bergmüller",
+    "en": "engraver of a portrait of Johann Adam Schöpf after Bergmüller"
+   },
+   "candidates": [
+    {
+     "id": "Q1694808",
+     "reason": "Johann Jakob Haid (1704–1767), Augsburg engraver of mezzotint portraits, many after Bergmüller."
+    },
+    {
+     "id": "Q5783104",
+     "reason": "Johann Gottfried Haid (1710/14–1776), engraver, son of Johann Jakob."
+    },
+    {
+     "id": "Q22669889",
+     "reason": "Johann Lorenz Haid (1702–1750), painter and engraver."
+    },
+    {
+     "id": "Q94886131",
+     "reason": "Johann Jakob Haid (1670–1730), probably too early for a portrait of Schöpf as 'von Schöpf'."
+    }
+   ],
+   "hint": "Only the surname is printed; the Augsburg Haid family of engravers had several members.",
+   "route_reason": "Only the surname is printed; four members of the Haid family are plausible candidates.",
+   "quote": "Johann Adam Schöpf nannte sich auch »von Schöpf« (vgl. den Porträtstich von Haid nach Bergmüller, Abb. 55 bei Schulten).",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P1317",
+     "value": "+1750-00-00T00:00:00Z/9"
+    }
+   ]
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q45581",
+   "quote": "Patrozinium: St. Michael"
+  },
+  {
+   "subject": "bld",
+   "property": "P84",
+   "value": "_:person:joseph-schmuzer",
+   "named_as": "Joseph Schmuzer",
+   "quote": "Unter Pfarrer Kaspar Mauser (1717–45) wurde 1724–25 der Neubau der Kirche durch Joseph Schmuzer errichtet",
+   "route": "direct",
+   "route_reason": "Unhedged statement, and the architect's QID is in the source markup ({{Entität|Joseph Schmuzer|…|qid=Q1707978}})."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; polychrom"
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P2043",
+   "value": "9.10U11573",
+   "quote": "Maße: Höhe 13,15 m; 9,10 × 6,00"
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P2049",
+   "value": "6.00U11573",
+   "quote": "Maße: Höhe 13,15 m; 9,10 × 6,00"
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P1684",
+   "value": "la:\"QUIS /UT / DEUS\"",
+   "quote": "Engel präsentieren einen Schild mit der Aufschrift QUIS /UT / DEUS und die Seelenwaage Michaels."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P1684",
+   "value": "la:\"J de Schoepf: inv. et pinx./1759\"",
+   "quote": "Signatur in der östlichen Rahmenmuschel des LHs-Bildes: J de Schoepf: inv. et pinx./1759."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P170",
+   "value": "_:person:johann-adam-schoepf",
+   "named_as": "J de Schoepf",
+   "quote": "Die Kirchenrechnung spricht jedoch ausdrücklich von einem Kurkölnischen Hofmaler Johann von Schöpf. Daher kommt nur Johann Adam Schöpf […] in Frage.",
+   "hint": "The article argues against the usual attribution to Johann Nepomuk von Schöpf (Thieme-Becker, Dehio).",
+   "route": "curator",
+   "route_reason": "The attribution is the authors' argument (church account plus style comparison) against the literature; whether to add a deprecated statement for J. N. von Schöpf is a curator's call."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P170",
+   "value": "_:person:johann-nepomuk-von-schoepf",
+   "named_as": "Johann Nepomuk von Schöpf",
+   "quote": "Das Fresko wird meist Johann Nepomuk von Schöpf, dem kurbayerischen Hofmaler (*1735 † nach 1785) zugeschrieben",
+   "route": "curator",
+   "route_reason": "The usual attribution that the article rejects; only useful as a deprecated statement, which a curator decides."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P571",
+   "value": "+1759-00-00T00:00:00Z/9",
+   "quote": "Signatur in der östlichen Rahmenmuschel des LHs-Bildes: J de Schoepf: inv. et pinx./1759."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P88",
+   "value": "bayerlacher",
+   "named_as": "Matthias Johann Nepomuk Bayerlacher",
+   "quote": "Pfarrer Matthias Johann Nepomuk Bayerlacher von Beuern (1750–72) bestritt die Kosten der Freskierung von 1759"
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P180",
+   "value": "Q45581",
+   "quote": "Mit Helm, Lederpanzer und wehendem roten Mantel bekleidet, erhebt Michael das flammende Schwert gegen Luzifer und seinen Anhang."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P180",
+   "value": "Q185498",
+   "quote": "Mit Helm, Lederpanzer und wehendem roten Mantel bekleidet, erhebt Michael das flammende Schwert gegen Luzifer und seinen Anhang."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P180",
+   "value": "Q186350",
+   "quote": "Gottvater thront als Weltregent in der Glorie, umgeben von anbetenden Engeln."
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P1257",
+   "value": "\"11G33\"",
+   "quote": "Die Darstellung enthält Bildmotive, die deutlich auf den Engelsturz, die Bestrafung der aufrührerischen Engel zu Beginn der Weltschöpfung, hinweisen"
+  },
+  {
+   "subject": "engelsturz",
+   "property": "P5816",
+   "value": "Q75505084",
+   "qualifiers": {
+    "P585": "+1963-00-00T00:00:00Z/9"
+   },
+   "quote": "1922 Verrußung durch Kirchenbrand; 1933 und 1963 erneute Restaurierungen."
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "id": "adelshausen",
+ "lemma": "Adelshausen (Weil), Kapelle St. Martin",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q41254096",
+   "main": true,
+   "ref": "e9yssbz5",
+   "route_reason": "deckenmalerei.eu building 'Adelshausen (Weil), Kapelle St. Martin' carries this QID (P10626); the item is the Bavarian monument 'Katholische Kapelle Sankt Martin' (Satteldachbau, bezeichnet 1677), matching the date 1677 and the dedication in the article."
+  },
+  "gemeinderaum": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q607600",
+   "labels": {
+    "de": "Gemeinderaum"
+   },
+   "ref": "lrcj32hd"
+  },
+  "altarraum": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q207707",
+   "labels": {
+    "de": "Altarraum"
+   },
+   "ref": "igzyytpk"
+  },
+  "_:person:johann-baptist-anwander": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1692498",
+   "ref": "gfhveak5",
+   "route_reason": "Johann Baptist Anwander (1750–1800), Augsburg Rococo painter; the article calls him 'Augsburger Meister' and dates the frescoes near his signed works of 1795 in Hausen bei Geltendorf. Dates, place and occupation agree."
+  },
+  "a": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A",
+   "labels": {
+    "de": "Mantelspende des hl. Martin"
+   },
+   "ref": "nvkomy8g"
+  },
+  "b": {
+   "kind": "painting",
+   "status": "create",
+   "field": "B",
+   "labels": {
+    "de": "St. Martin in der Glorie"
+   },
+   "ref": "fea4ldbw"
+  },
+  "a1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A1",
+   "cycle": "Allegorische Darstellungen",
+   "labels": {
+    "de": "Himmel"
+   },
+   "ref": "wbyvanzd"
+  },
+  "a2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A2",
+   "cycle": "Allegorische Darstellungen",
+   "labels": {
+    "de": "Gericht"
+   },
+   "ref": "kspjsulm"
+  },
+  "a3": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A3",
+   "cycle": "Allegorische Darstellungen",
+   "labels": {
+    "de": "Hölle"
+   },
+   "ref": "vheiq9xj"
+  },
+  "a4": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A4",
+   "cycle": "Allegorische Darstellungen",
+   "labels": {
+    "de": "Tod"
+   },
+   "ref": "no3cn2ju"
+  },
+  "w1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "W1",
+   "labels": {
+    "de": "St. Joseph"
+   },
+   "ref": "shhi462b"
+  },
+  "w2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "W2",
+   "labels": {
+    "de": "St. Anna"
+   },
+   "ref": "fsyn6rw9"
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q133704",
+   "quote": "Patrozinium: St. Martin"
+  },
+  {
+   "subject": [
+    "gemeinderaum",
+    "altarraum"
+   ],
+   "property": "P361",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "gemeinderaum",
+    "altarraum"
+   ],
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "a",
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ],
+   "property": "P276",
+   "value": "gemeinderaum",
+   "structural": true
+  },
+  {
+   "subject": [
+    "b",
+    "w1",
+    "w2"
+   ],
+   "property": "P276",
+   "value": "altarraum",
+   "structural": true
+  },
+  {
+   "subject": "gemeinderaum",
+   "property": "P2048",
+   "value": "3.30U11573",
+   "quote": "A – 3,30 m – 1,75 × 1,40"
+  },
+  {
+   "subject": "altarraum",
+   "property": "P2048",
+   "value": "3.45U11573",
+   "quote": "B – 3,45 m – 1,00 × 1,30"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "w1",
+    "w2"
+   ],
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; polychrom"
+  },
+  {
+   "subject": "a",
+   "property": "P2043",
+   "value": "1.75U11573",
+   "quote": "A – 3,30 m – 1,75 × 1,40"
+  },
+  {
+   "subject": "a",
+   "property": "P2049",
+   "value": "1.40U11573",
+   "quote": "A – 3,30 m – 1,75 × 1,40"
+  },
+  {
+   "subject": "b",
+   "property": "P2043",
+   "value": "1.00U11573",
+   "quote": "B – 3,45 m – 1,00 × 1,30"
+  },
+  {
+   "subject": "b",
+   "property": "P2049",
+   "value": "1.30U11573",
+   "quote": "B – 3,45 m – 1,00 × 1,30"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "w1",
+    "w2"
+   ],
+   "property": "P170",
+   "value": "_:person:johann-baptist-anwander",
+   "qualifiers": {
+    "P5102": "Q230768"
+   },
+   "named_as": "Johann Baptist Anwander",
+   "quote": "Die Deckenbilder zeigen trotz ihres schlechten Zustandes so große Ähnlichkeit mit den Fresken Johann Baptist Anwanders, daß man sie dem Augsburger Meister zuschreiben muß."
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "w1",
+    "w2"
+   ],
+   "property": "P571",
+   "value": "+1795-00-00T00:00:00Z/9",
+   "qualifiers": {
+    "P1480": "Q5727902"
+   },
+   "quote": "Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen"
+  },
+  {
+   "subject": [
+    "a",
+    "a2",
+    "a3",
+    "a4"
+   ],
+   "property": "P5816",
+   "value": "Q106379705",
+   "quote": "In A Fehlstelle am rechten Bildrand, am linken schadhaft; A2 große Fehlstelle, A3 völlig, A4 weitgehend ruiniert."
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q133704",
+   "quote": "St. Martin auf dem Roß und der Bettler erscheinen in einer Landschaft"
+  },
+  {
+   "subject": "a",
+   "property": "P1257",
+   "value": "\"11H(MARTIN)41\"",
+   "quote": "MANTELSPENDE DES HL. MARTIN Die beliebte Legende aus dem Leben des Heiligen"
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q133704",
+   "quote": "ST. MARTIN IN DER GLORIE Der Heilige thront auf Wolken"
+  },
+  {
+   "subject": "b",
+   "property": "P1257",
+   "value": "\"11H(MARTIN)\"",
+   "quote": "neben ihm liegen auf einer Wolke Mitra, Buch und sein spezielles Attribut, die Gans."
+  },
+  {
+   "subject": "a1",
+   "property": "P1257",
+   "value": "\"11L541413\"",
+   "quote": "Von diesem fallen Strahlen auf den Jüngling herab (= Himmel)."
+  },
+  {
+   "subject": "a2",
+   "property": "P1257",
+   "value": "\"11L541412\"",
+   "quote": "Am unteren Bildrand stemmt eine verhüllte Menschengestalt offenbar einen Sargdeckel hoch (= Gericht)."
+  },
+  {
+   "subject": "a3",
+   "property": "P1257",
+   "value": "\"11L541414\"",
+   "quote": "Reste einer menschlichen Gestalt in Flammen (?), von Teufelskrallen erfaßt (= Hölle)."
+  },
+  {
+   "subject": "a4",
+   "property": "P1257",
+   "value": "\"11L541411\"",
+   "quote": "Die verhüllte Skelettgestalt ist wohl als Tod anzusprechen"
+  },
+  {
+   "subject": [
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ],
+   "property": "P921",
+   "value": "Q1219811",
+   "qualifiers": {
+    "P1480": "Q18122778"
+   },
+   "quote": "Die fragmentarisch erhaltenen Zwickelbilder im Langhaus lassen Bildfiguren erkennen, die vermutlich als die Vier Letzten Dinge zu deuten sind"
+  },
+  {
+   "subject": "w1",
+   "property": "P180",
+   "value": "Q128267",
+   "quote": "S./JOSEPH Der Heilige in der Zimmermannswerkstatt; das Jesuskind kehrt Hobelspäne."
+  },
+  {
+   "subject": "w1",
+   "property": "P180",
+   "value": "Q302",
+   "quote": "S./JOSEPH Der Heilige in der Zimmermannswerkstatt; das Jesuskind kehrt Hobelspäne."
+  },
+  {
+   "subject": "w1",
+   "property": "P1257",
+   "value": "\"73B721\"",
+   "quote": "S./JOSEPH Der Heilige in der Zimmermannswerkstatt; das Jesuskind kehrt Hobelspäne."
+  },
+  {
+   "subject": "w2",
+   "property": "P180",
+   "value": "Q164294",
+   "quote": "S./ANNA Vor seiner Mutter Anna kniet lesend das Mädchen Maria."
+  },
+  {
+   "subject": "w2",
+   "property": "P180",
+   "value": "Q345",
+   "quote": "S./ANNA Vor seiner Mutter Anna kniet lesend das Mädchen Maria."
+  },
+  {
+   "subject": "w2",
+   "property": "P1257",
+   "value": "\"73A331\"",
+   "quote": "S./ANNA Vor seiner Mutter Anna kniet lesend das Mädchen Maria."
+  },
+  {
+   "seq": [
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ]
+  },
+  {
+   "pair": [
+    "w1",
+    "w2"
+   ]
+  }
+ ]
+}

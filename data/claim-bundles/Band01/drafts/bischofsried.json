@@ -1,0 +1,104 @@
+{
+ "id": "bischofsried",
+ "lemma": "Bischofsried, Maria-Schnee-Kapelle",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q41253998",
+   "main": true,
+   "ref": "tdgc05ep",
+   "route_reason": "deckenmalerei.eu building 'Bischofsried, Maria-Schnee-Kapelle' carries this QID (P10626); the item 'Maria Schnee, Kapelle in Bischofsried' agrees in place and dedication."
+  },
+  "_:person:herkulan-karg": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q94819127",
+   "ref": "nea2gj7v",
+   "route_reason": "Herkulan Karg, Propst (P106) with GND 1166337499 and a deckenmalerei.eu ID; the article names him Propst of Dießen, whose Klosterpfarrei held Bischofsried."
+  },
+  "_:person:johann-georg-wolcker": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1693998",
+   "ref": "jtd4knee",
+   "route_reason": "Johann Georg Wolcker (1700–1766), German church painter; the article compares with his frescoes of 1730–34 in Stams, which fits his dates and the Augsburg region."
+  },
+  "kuppel": {
+   "kind": "painting",
+   "status": "create",
+   "labels": {
+    "de": "Das Gnadenbild von Bischofsried"
+   },
+   "descriptions": {
+    "de": "Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle",
+    "en": "dome fresco in Bischofsried, Maria-Schnee-Kapelle"
+   },
+   "ref": "bitwomf8"
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q263827",
+   "quote": "Patrozinium: Maria-Schnee"
+  },
+  {
+   "subject": "kuppel",
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": "kuppel",
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; polychrom"
+  },
+  {
+   "subject": "kuppel",
+   "property": "P2386",
+   "value": "4.75U11573",
+   "quote": "Maße: Höhe 6 m (Stich 1,70); Ø 4,75"
+  },
+  {
+   "subject": "kuppel",
+   "property": "P88",
+   "value": "_:person:herkulan-karg",
+   "named_as": "Herkulan Karg",
+   "quote": "Auftraggeber: Propst Herkulan Karg. v. Dießen (1728–55)"
+  },
+  {
+   "subject": "kuppel",
+   "property": "P170",
+   "value": "_:person:johann-georg-wolcker",
+   "qualifiers": {
+    "P5102": "Q230768"
+   },
+   "named_as": "Johann Georg Wolcker",
+   "quote": "Das unsignierte Freskobild im Kuppelspiegel zeigt so große Übereinstimmungen mit den zwischen 1730–34 geschaffenen Fresken des Johann Georg Wolcker in der Zisterzienser-Stiftskirche Stams (Tirol), daß es in das Werk dieses Künstlers einzureihen ist."
+  },
+  {
+   "subject": "kuppel",
+   "property": "P571",
+   "value": "+1730-00-00T00:00:00Z/9",
+   "qualifiers": {
+    "P1480": "Q5727902"
+   },
+   "quote": "Das Fresko ist wohl ebenfalls in den Jahren um 1730 entstanden."
+  },
+  {
+   "subject": "kuppel",
+   "property": "P5816",
+   "value": "Q106379705",
+   "quote": "Das Kuppelfresko ist in sehr schlechtem Zustand: große Risse, Feuchtigkeitsflecken (z. T. Fehlstellen), teilweise Übermalungen besonders im südwestlichen Viertel."
+  },
+  {
+   "subject": "kuppel",
+   "property": "P180",
+   "value": "Q345",
+   "quote": "Engel tragen das Gnadenbild der Kapelle, Maria-Schnee, auf Wolken wie in einer triumphalen Himmelfahrt empor."
+  }
+ ]
+}

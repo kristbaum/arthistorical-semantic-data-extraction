@@ -1,0 +1,441 @@
+{
+ "id": "diessen",
+ "lemma": "Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q1254306",
+   "main": true,
+   "ref": "x8z94bd6",
+   "route_reason": "No deckenmalerei.eu building for this lemma. Wikidata 'Marienmünster Dießen, Kirchengebäude in Dießen am Ammersee': the former Augustinian canons' church; its existing parts include Bergmüller's frescoes Q127502516 and Q106548750 and the fresco Q104218325 'Gründung des Klosters St. Georgen durch den seligen Rathardus', i.e. the article's B, D and C. Place, dedication and contents agree."
+  },
+  "langhaus": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q607600",
+   "labels": {
+    "de": "Langhaus"
+   },
+   "ref": "ykszfh1m"
+  },
+  "vierung": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q728243",
+   "labels": {
+    "de": "Vierung"
+   },
+   "ref": "vikcfhhq"
+  },
+  "_:person:johann-michael-fischer": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q72959",
+   "ref": "mjl87aua",
+   "route_reason": "Johann Michael Fischer (1692–1766), German Baroque architect; Dießen (from 1732) is one of his known churches; dates fit."
+  },
+  "_:person:herkulan-karg": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q94819127",
+   "ref": "hscgqw6e",
+   "route_reason": "Herkulan Karg, Propst (P106) with GND 1166337499 and a deckenmalerei.eu ID; the article names him Propst of Dießen."
+  },
+  "_:person:johann-georg-bergmueller": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q551709",
+   "ref": "p467s5y1",
+   "route_reason": "Johann Georg Bergmüller (1688–1762), Augsburg fresco painter and academy director, as the article says; the existing fresco items B and D already name him."
+  },
+  "a": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A",
+   "labels": {
+    "de": "Auffindung der Gebeine des seligen Rathard"
+   },
+   "ref": "y3xck47v"
+  },
+  "b": {
+   "kind": "painting",
+   "status": "match",
+   "qid": "Q127502516",
+   "ref": "wq6a6g05",
+   "route_reason": "Existing item 'Maria als Himmelskönigin', fresco by Bergmüller over the nave of the Marienmünster: the main nave fresco B, whose centre shows Mary enthroned as queen of the saints."
+  },
+  "c": {
+   "kind": "painting",
+   "status": "match",
+   "qid": "Q104218325",
+   "ref": "obr0up5e",
+   "route_reason": "Existing item 'Gründung des Klosters St. Georgen durch den seligen Rathardus im Jahr 815', a fresco located in the Marienmünster: same subject and title as fresco C."
+  },
+  "d": {
+   "kind": "painting",
+   "status": "match",
+   "qid": "Q106548750",
+   "ref": "nwiao6ls",
+   "route_reason": "Existing item 'Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus)', Bergmüller fresco in the Marienmünster: the cupola fresco D 'Heiligenhimmel von Dießen' (the item's description says Altarraum; the article places it over the crossing)."
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q162691",
+   "quote": "Patrozinium: Mariä Himmelfahrt"
+  },
+  {
+   "subject": "bld",
+   "property": "P84",
+   "value": "_:person:johann-michael-fischer",
+   "quote": "Der Neubau der Kirche wurde 1722 begonnen, jedoch erst 1732 durch Johann Michael Fischer fortgesetzt; Weihe 1739.",
+   "named_as": "Johann Michael Fischer"
+  },
+  {
+   "subject": [
+    "langhaus",
+    "vierung"
+   ],
+   "property": "P361",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "langhaus",
+    "vierung"
+   ],
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c"
+   ],
+   "property": "P276",
+   "value": "langhaus",
+   "structural": true
+  },
+  {
+   "subject": "d",
+   "property": "P276",
+   "value": "vierung",
+   "structural": true
+  },
+  {
+   "subject": "langhaus",
+   "property": "P2048",
+   "value": "23.20U11573",
+   "quote": "A – 23,20 m – – 6,10 × 10,50"
+  },
+  {
+   "subject": "vierung",
+   "property": "P2048",
+   "value": "25.40U11573",
+   "quote": "D – 25,40 m – 5,10 – ∅ 11,30"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; polychrom"
+  },
+  {
+   "subject": "a",
+   "property": "P2043",
+   "value": "6.10U11573",
+   "quote": "A – 23,20 m – – 6,10 × 10,50"
+  },
+  {
+   "subject": "a",
+   "property": "P2049",
+   "value": "10.50U11573",
+   "quote": "A – 23,20 m – – 6,10 × 10,50"
+  },
+  {
+   "subject": "b",
+   "property": "P2043",
+   "value": "20.90U11573",
+   "quote": "B – 23,20 m – – 20,90 × 12,10"
+  },
+  {
+   "subject": "b",
+   "property": "P2049",
+   "value": "12.10U11573",
+   "quote": "B – 23,20 m – – 20,90 × 12,10"
+  },
+  {
+   "subject": "c",
+   "property": "P2043",
+   "value": "6.10U11573",
+   "quote": "C – 23,20 m – – 6,10 × 11,40"
+  },
+  {
+   "subject": "c",
+   "property": "P2049",
+   "value": "11.40U11573",
+   "quote": "C – 23,20 m – – 6,10 × 11,40"
+  },
+  {
+   "subject": "d",
+   "property": "P2386",
+   "value": "11.30U11573",
+   "quote": "D – 25,40 m – 5,10 – ∅ 11,30"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "property": "P88",
+   "value": "_:person:herkulan-karg",
+   "quote": "Auftraggeber: Propst Herkulan Karg von Dießen (1728–1766)",
+   "named_as": "Herkulan Karg"
+  },
+  {
+   "subject": "a",
+   "property": "P170",
+   "value": "_:person:johann-georg-bergmueller",
+   "quote": "Signatur in Fresko A, am Westrand: JGB: (ligiert) f: 1736.",
+   "named_as": "JGB"
+  },
+  {
+   "subject": "b",
+   "property": "P170",
+   "value": "_:person:johann-georg-bergmueller",
+   "quote": "Signatur am Südwestrand von Fresko B: Ioannes GeorglVs BergMILLer AVgVstanVs sIC De-/pInXIt. Das Chronogramm ergibt 1736.",
+   "named_as": "Ioannes GeorglVs BergMILLer"
+  },
+  {
+   "subject": [
+    "c",
+    "d"
+   ],
+   "property": "P170",
+   "value": "_:person:johann-georg-bergmueller",
+   "quote": "Dießen gilt als ein Hauptwerk des Augsburger Akademiedirektors Johann Georg Bergmüller.",
+   "named_as": "Johann Georg Bergmüller"
+  },
+  {
+   "subject": "a",
+   "property": "P571",
+   "value": "+1736-00-00T00:00:00Z/9",
+   "quote": "Signatur in Fresko A, am Westrand: JGB: (ligiert) f: 1736."
+  },
+  {
+   "subject": "b",
+   "property": "P571",
+   "value": "+1736-00-00T00:00:00Z/9",
+   "quote": "Signatur am Südwestrand von Fresko B: Ioannes GeorglVs BergMILLer AVgVstanVs sIC De-/pInXIt. Das Chronogramm ergibt 1736."
+  },
+  {
+   "subject": "a",
+   "property": "P1684",
+   "value": "la:\"JGB: (ligiert) f: 1736\"",
+   "quote": "Signatur in Fresko A, am Westrand: JGB: (ligiert) f: 1736."
+  },
+  {
+   "subject": "b",
+   "property": "P1684",
+   "value": "la:\"Ioannes GeorglVs BergMILLer AVgVstanVs sIC De-/pInXIt\"",
+   "quote": "Signatur am Südwestrand von Fresko B: Ioannes GeorglVs BergMILLer AVgVstanVs sIC De-/pInXIt. Das Chronogramm ergibt 1736."
+  },
+  {
+   "subject": "b",
+   "property": "P1684",
+   "value": "la:\"ANTE / OM/NIA / DILI/GATUR / DEUS\"",
+   "quote": "ist ein Engel zugeordnet, der ein Buch mit der Inschrift ANTE / OM/NIA / DILI/GATUR / DEUS (frei zitiert der Beginn der sog. zweiten Regel des Augustinus) präsentiert."
+  },
+  {
+   "subject": "d",
+   "property": "P1684",
+   "value": "la:\"GLORIA SANCTO-RUM, BEATO-RUMQUE DIESSEN-SIUM, ET ANDECEN-SIUM\"",
+   "quote": "erhebt sich ein Glorienhimmel mit der Umschrift im Kuppelring GLORIA SANCTO-RUM, BEATO-RUMQUE DIESSEN-SIUM, ET ANDECEN-SIUM."
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c"
+   ],
+   "property": "P5816",
+   "value": "Q106379705",
+   "quote": "Durchgehender Riß im Scheitel der Tonne (A, B, C), verbunden mit leichten Feuchtigkeitsschäden und Haarrissen, im O-Teil von Fresko B kommen stärkere Risse hinzu."
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q104243579",
+   "quote": "Ein weiterer Geistlicher und ein Bauarbeiter schauen in die Gruft, in der die Gebeine des seligen Rathard sichtbar werden."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q345",
+   "quote": "Ganz oben, im Zentrum des Bildes, in der lichten Himmelsglorie, von Engeln umgeben, thront Maria als Königin der Heiligen und Patronin der Dießener Stiftskirche."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q48438",
+   "quote": "Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q161775",
+   "quote": "Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q33923",
+   "quote": "Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q9200",
+   "quote": "Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q8018",
+   "quote": "Bischof Augustinus, bezeichnet durch das flammende Herz, ist ein Engel zugeordnet"
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q170386",
+   "quote": "Papst Innozenz II., umgeben von Kardinälen und anderen Prälaten, überreicht dem vor ihm auf den Thronstufen knienden Chorherrn Degenhard die Bestätigungsbulle"
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q100206",
+   "quote": "An der westlichen Schmalseite ist der Eintritt der fünfjährigen Mechthild in das unter der Leitung des Propstes Hartwig stehende regulierte Chorfrauen-Stift St. Stephan dargestellt."
+  },
+  {
+   "subject": "c",
+   "property": "P180",
+   "value": "Q104243579",
+   "quote": "Zwei Geistliche, die Brüder Rathard und Hanto, assistiert von Chorherren, Chorfrauen und einem Baumeister, präsentieren dem Kaiser einen Kirchen- und Klosterplan."
+  },
+  {
+   "subject": "c",
+   "property": "P180",
+   "value": "Q43974",
+   "quote": "Der Kaiser wird als Ludwig der Fromme benannt."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q302",
+   "quote": "Dort umgibt eine Schar von Engeln mit Weihrauchgefäßen und Blumen die Gestalt Christi"
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q100206",
+   "quote": "Die selige Mechthild in weißem Ordenshabit mit grauem Schleier, Hostienkelch und goldenen Abtstab haltend"
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q104243579",
+   "quote": "Daneben der selige Rathard in Prälatentracht mit dem Stab des Propstes (vgl. Fresko A und C)."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q881725",
+   "quote": "Davor kniet der selige Rasso in Rüstung, blauem Mantel und Hermelinpelz"
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q177903",
+   "quote": "der hl. Stephan, König von Ungarn, in gelbem Königsmantel mit Hermelinbesatz"
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q103556",
+   "quote": "Daneben thront, breit hingelagert, der hl. Kaiser Heinrich II."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q232039",
+   "quote": "In den drei gekrönten Frauengestalten dahinter sind die selige Gisela, Schwester des hl. Heinrich und Gemahlin König Stephans von Ungarn, die hl. Adelheid, Gemahlin Kaiser Ottos des Großen, und die hl. Kunigunde, Gemahlin Kaiser Heinrichs II. zu sehen."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q76802",
+   "quote": "In den drei gekrönten Frauengestalten dahinter sind die selige Gisela, Schwester des hl. Heinrich und Gemahlin König Stephans von Ungarn, die hl. Adelheid, Gemahlin Kaiser Ottos des Großen, und die hl. Kunigunde, Gemahlin Kaiser Heinrichs II. zu sehen."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q61620",
+   "quote": "In den drei gekrönten Frauengestalten dahinter sind die selige Gisela, Schwester des hl. Heinrich und Gemahlin König Stephans von Ungarn, die hl. Adelheid, Gemahlin Kaiser Ottos des Großen, und die hl. Kunigunde, Gemahlin Kaiser Heinrichs II. zu sehen."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q705868",
+   "quote": "Im Hintergrund der hl. Konrad, Bischof von Konstanz, mit Bischofsstab und Kelch mit einer Spinne darauf."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q3044",
+   "quote": "Hierauf folgt die Gruppe der Andechser, als erster Kaiser Karl der Große mit Reichsapfel, Zepter und der historischen Kaiserkrone."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q234410",
+   "quote": "Ihm wendet sich seine zweite Gemahlin die selige Hildegard zu"
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q63399",
+   "quote": "Darüber sitzen die bereits erwähnten Heiligen, Ludwig, Landgraf von Thüringen mit seiner Gemahlin, der hl. Elisabeth, einer Nichte Hedwigs."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q159862",
+   "quote": "Darüber sitzen die bereits erwähnten Heiligen, Ludwig, Landgraf von Thüringen mit seiner Gemahlin, der hl. Elisabeth, einer Nichte Hedwigs."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q57520",
+   "quote": "Es folgen nun drei weibliche Gestalten, in denen wohl die selige Adelinde, […] die hl. Hedwig, Herzogin von Schlesien und Gründerin des Zisterzienserinnenklosters Trebnitz, eine Andechser Grafentochter, […] zu sehen sein sollen."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q235857",
+   "quote": "Es folgen nun drei weibliche Gestalten, in denen wohl die selige Adelinde, […] und die hl. Elisabeth, Königin von Portugal, eine Großnichte der Thüringer Elisabeth, zu sehen sein sollen."
+  }
+ ]
+}

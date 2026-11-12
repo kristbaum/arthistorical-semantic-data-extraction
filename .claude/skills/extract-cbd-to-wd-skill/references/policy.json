@@ -1,0 +1,53 @@
+{
+  "structural": [
+    "P31",
+    "P276",
+    "P361",
+    "P527",
+    "P1343",
+    "P155",
+    "P156",
+    "P1639"
+  ],
+  "direct": [
+    "P2079",
+    "P186",
+    "P2043",
+    "P2049",
+    "P2048",
+    "P2386",
+    "P825",
+    "P1684",
+    "P17",
+    "P131"
+  ],
+  "games": {
+    "P180": "motiv",
+    "P1257": "iconclass",
+    "P5816": "zustand",
+    "P170": "urheber",
+    "P571": "datierung"
+  },
+  "choice_games": {
+    "P170": "urheber-sicherheit",
+    "P571": "datierung-sicherheit"
+  },
+  "game_subject_kinds": [
+    "painting"
+  ],
+  "game_qualifiers": [
+    "P1932"
+  ],
+  "hedge": "\\b(wohl|vermutlich|wahrscheinlich|vielleicht|möglicherweise|dürfte|offenbar)\\b|zuschreib|zugeschrieben|\\(\\?\\)",
+  "audit_rate": 0.1,
+  "audit_game": "stichprobe",
+  "auto_match": [
+    "identifier"
+  ],
+  "exclude": [
+    "identifier",
+    "date",
+    "class"
+  ],
+  "create_route": "curator"
+}

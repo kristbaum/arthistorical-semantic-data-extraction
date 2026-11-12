@@ -1,0 +1,329 @@
+{
+ "id": "beuerbach",
+ "lemma": "Beuerbach (Weil), Kapelle im Holz Maria Eich",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q41254110",
+   "main": true,
+   "ref": "z59elp8m",
+   "route_reason": "deckenmalerei.eu building 'Beuerbach (Weil), Kapelle im Holz Maria Eich' carries this QID (P10626); the item ('Feldkapelle, sogenannte Holzkapelle', runder Zentralbau 1686, erweitert 1824, am Westerholz) matches the article's 'Rundbau von 1686 … Anbau von 1824'."
+  },
+  "a": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A",
+   "labels": {
+    "de": "Kreuzabnahme"
+   },
+   "ref": "qp8rgqfg"
+  },
+  "a1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A1",
+   "cycle": "Szenen zur Passion",
+   "labels": {
+    "de": "Abschied Jesu von Maria"
+   },
+   "ref": "wkpqpq1b"
+  },
+  "a2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A2",
+   "cycle": "Szenen zur Passion",
+   "labels": {
+    "de": "Büßende Maria Magdalena"
+   },
+   "ref": "ata0qw28"
+  },
+  "a3": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A3",
+   "cycle": "Szenen zur Passion",
+   "labels": {
+    "de": "Grablegung Jesu"
+   },
+   "ref": "oso6iagt"
+  },
+  "a4": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A4",
+   "cycle": "Szenen zur Passion",
+   "labels": {
+    "de": "Reuiger Petrus"
+   },
+   "ref": "o5jleqht"
+  },
+  "w1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "W1",
+   "labels": {
+    "de": "Hl. Joachim"
+   },
+   "ref": "i35fdkxa"
+  },
+  "w2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "W2",
+   "labels": {
+    "de": "Hl. Anna lehrt Maria"
+   },
+   "ref": "y1935far"
+  },
+  "w3": {
+   "kind": "painting",
+   "status": "create",
+   "field": "W3",
+   "labels": {
+    "de": "Hl. Notburga"
+   },
+   "ref": "a63jmws5"
+  },
+  "w4": {
+   "kind": "painting",
+   "status": "create",
+   "field": "W4",
+   "labels": {
+    "de": "Hl. Wendelin"
+   },
+   "ref": "ir17owql"
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q1196075",
+   "quote": "Patrozinium: Schmerzhafte Mutter Gottes"
+  },
+  {
+   "subject": [
+    "a",
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "w1",
+    "w2",
+    "w3",
+    "w4"
+   ],
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "a",
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ],
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; A polychrom, A1–4 monochrom-ocker"
+  },
+  {
+   "subject": "a",
+   "property": "P2386",
+   "value": "2.40U11573",
+   "quote": "Maße: A Höhe 5,90 m, (Stich 1,40); ∅ 2,40"
+  },
+  {
+   "subject": [
+    "a",
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ],
+   "property": "P170",
+   "value": "somevalue",
+   "quote": "Der Maler der Deckenmalereien ist nicht überliefert, eine Zuschreibung ist wegen des schlechten Erhaltungszustandes nicht versucht worden.",
+   "route": "direct",
+   "route_reason": "The article states that the author is unknown: unknown value, nothing to interpret."
+  },
+  {
+   "subject": [
+    "a",
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ],
+   "property": "P571",
+   "value": "+1750-00-00T00:00:00Z/7",
+   "qualifiers": {
+    "P1319": "+1760-00-00T00:00:00Z/9",
+    "P1326": "+1780-00-00T00:00:00Z/9"
+   },
+   "quote": "Die Rocailleformen der Stuckdekoration und das erst im späten 18. Jh. als Deckenbild häufiger behandelte Thema der Kreuzabnahme weisen in das 7./8. Jahrzehnt des 18. Jahrhunderts."
+  },
+  {
+   "subject": [
+    "a",
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ],
+   "property": "P5816",
+   "value": "Q106379705",
+   "quote": "Die originale Deckenmalerei ist durch Feuchtigkeit stark beschädigt"
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q302",
+   "quote": "Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein."
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q44015",
+   "quote": "Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein."
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q271474",
+   "quote": "Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein."
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q295084",
+   "quote": "Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein."
+  },
+  {
+   "subject": "a",
+   "property": "P1257",
+   "value": "\"73D71\"",
+   "quote": "KREUZABNAHME (vgl. Mt 27, 57–60 u. Par.) Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen"
+  },
+  {
+   "subject": "a1",
+   "property": "P180",
+   "value": "Q302",
+   "quote": "Abschied Jesu von Maria, seiner Mutter (nicht biblisch, vgl. LCI, Bd 1, Sp. 35–37)."
+  },
+  {
+   "subject": "a1",
+   "property": "P180",
+   "value": "Q345",
+   "quote": "Abschied Jesu von Maria, seiner Mutter (nicht biblisch, vgl. LCI, Bd 1, Sp. 35–37)."
+  },
+  {
+   "subject": "a1",
+   "property": "P1257",
+   "value": "\"73D17\"",
+   "quote": "Abschied Jesu von Maria, seiner Mutter (nicht biblisch, vgl. LCI, Bd 1, Sp. 35–37)."
+  },
+  {
+   "subject": "a2",
+   "property": "P180",
+   "value": "Q63070",
+   "quote": "Die Büßerin Maria Magdalena geißelt sich im Anblick von Kreuz und Totenschädel."
+  },
+  {
+   "subject": "a2",
+   "property": "P1257",
+   "value": "\"11HH(MARY MAGDALENE)36\"",
+   "quote": "Die Büßerin Maria Magdalena geißelt sich im Anblick von Kreuz und Totenschädel."
+  },
+  {
+   "subject": "a3",
+   "property": "P180",
+   "value": "Q302",
+   "quote": "Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle."
+  },
+  {
+   "subject": "a3",
+   "property": "P180",
+   "value": "Q271474",
+   "quote": "Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle."
+  },
+  {
+   "subject": "a3",
+   "property": "P180",
+   "value": "Q295084",
+   "quote": "Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle."
+  },
+  {
+   "subject": "a3",
+   "property": "P1257",
+   "value": "\"73D76\"",
+   "quote": "Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle."
+  },
+  {
+   "subject": "a4",
+   "property": "P180",
+   "value": "Q33923",
+   "quote": "Der reuige Petrus in der Einöde kniend; der Hahn zeigt seine Verleugnung Christi an (Mt 26, 73–75)."
+  },
+  {
+   "subject": "a4",
+   "property": "P1257",
+   "value": "\"73D332\"",
+   "quote": "Der reuige Petrus in der Einöde kniend; der Hahn zeigt seine Verleugnung Christi an (Mt 26, 73–75)."
+  },
+  {
+   "subject": "w1",
+   "property": "P180",
+   "value": "Q314700",
+   "quote": "Joachim mit Hirtenschippe und zwei Opfertauben auf einem Buch (W1)"
+  },
+  {
+   "subject": "w1",
+   "property": "P1257",
+   "value": "\"11H(JOACHIM)\"",
+   "quote": "Joachim mit Hirtenschippe und zwei Opfertauben auf einem Buch (W1)"
+  },
+  {
+   "subject": "w2",
+   "property": "P180",
+   "value": "Q164294",
+   "quote": "Anna, ihre Tochter Maria lehrend (W2)"
+  },
+  {
+   "subject": "w2",
+   "property": "P180",
+   "value": "Q345",
+   "quote": "Anna, ihre Tochter Maria lehrend (W2)"
+  },
+  {
+   "subject": "w2",
+   "property": "P1257",
+   "value": "\"73A331\"",
+   "quote": "Anna, ihre Tochter Maria lehrend (W2)"
+  },
+  {
+   "subject": "w3",
+   "property": "P180",
+   "value": "Q78917",
+   "quote": "Notburga mit Sichel und Ährenbündel (W3)"
+  },
+  {
+   "subject": "w4",
+   "property": "P180",
+   "value": "Q389586",
+   "quote": "Wendelin vor einem Kruzifix kniend, im Hintergrund der pflügende Engel der Legende (W4)"
+  },
+  {
+   "seq": [
+    "a1",
+    "a2",
+    "a3",
+    "a4"
+   ]
+  }
+ ]
+}

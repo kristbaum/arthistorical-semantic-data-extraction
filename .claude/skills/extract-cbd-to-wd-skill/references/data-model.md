@@ -27,7 +27,7 @@ S248	<volume QID>	S304	"<Originalseitenvon>-<Originalseitenbis>"
 ```
 
 Single page → `S304 "22"`. Pages come from the `{{Artikel}}` template, not
-from guesses. `cbdd_lookup.py article` prints the ready-made `reference`.
+from guesses. make_bundle.py adds it to every claim (source `src:<id>` + P304).
 
 Printed volumes (`P31` volume Q1238720, `P179` → Q107174967):
 
@@ -128,8 +128,8 @@ medallion rows, Evangelists, months, Stations of the Cross):
 | shared programme | the article names the cycle's theme and it has an item (Four Last Things, the four Evangelists, the four seasons …) | `P921` main subject = theme on each member; the individual subject stays in `P180` |
 | group name | always | in the description: `Deckenbild A1 der Folge »Allegorische Darstellungen« in <Lemma>` |
 
-All members of one cycle share the same `P276` room. Members are linked by
-placeholders, so build.py puts the links in `direct.qs`.
+All members of one cycle share the same `P276` room. Write the links as
+`seq` / `pair` in the draft; they go out once both items exist.
 
 **Room sequences** (Appartement, Enfilade, Raumfolge):
 

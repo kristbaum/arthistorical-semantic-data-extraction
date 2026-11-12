@@ -1,0 +1,594 @@
+{
+ "id": "asch",
+ "lemma": "Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q40873464",
+   "main": true,
+   "ref": "sk2kxz4y",
+   "route_reason": "deckenmalerei.eu building 'Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist' carries this QID (P10626); the item 'St. Johann Baptist (Asch)' agrees in place (Fuchstal) and dedication."
+  },
+  "lhs": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q607600",
+   "labels": {
+    "de": "Langhaus"
+   },
+   "ref": "xknauyb4"
+  },
+  "ar": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q207707",
+   "labels": {
+    "de": "Altarraum"
+   },
+   "ref": "i6swzrb0"
+  },
+  "_:person:joseph-schmuzer": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1707978",
+   "ref": "z1dm2yif",
+   "route_reason": "Joseph Schmuzer (1683–1752), Wessobrunn architect and stuccoist; the extension of 1720 near Landsberg fits his dates and region, and the Beuern article gives the same person with QID in the markup."
+  },
+  "einsslin": {
+   "kind": "person",
+   "status": "reconcile",
+   "route": "curator",
+   "p31": "Q5",
+   "ref": "d805phyr",
+   "labels": {
+    "de": "Johann Georg Einßlin"
+   },
+   "descriptions": {
+    "de": "Pfarrer von Asch (1707–1741)",
+    "en": "parish priest of Asch (1707–1741)"
+   },
+   "candidates": [],
+   "route_reason": "Parish priest; no item under this name (also not Einsslin) on Wikidata or in the deckenmalerei.eu dump. A curator decides whether to create one.",
+   "quote": "Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 unter Pfarrer Johann Georg Einßlin (1707–41)",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P2031",
+     "value": "+1707-00-00T00:00:00Z/9"
+    },
+    {
+     "property": "P2032",
+     "value": "+1741-00-00T00:00:00Z/9"
+    }
+   ]
+  },
+  "boodman": {
+   "kind": "person",
+   "status": "reconcile",
+   "route": "curator",
+   "p31": "Q5",
+   "ref": "r5kmcvi3",
+   "labels": {
+    "de": "Eva Maria Theresia von Boodman"
+   },
+   "descriptions": {
+    "de": "Äbtissin des Damenstifts St. Stephan in Augsburg",
+    "en": "abbess of St. Stephan, Augsburg"
+   },
+   "candidates": [],
+   "route_reason": "Abbess of St. Stephan in Augsburg; a search for the name and for abbesses of St. Stephan found no item. A curator decides whether to create one.",
+   "quote": "unter der Herrschaft der Eva Maria Theresia Freifrau von Boodman, Äbtissin in St. Stephan",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P1317",
+     "value": "+1720-00-00T00:00:00Z/9"
+    }
+   ]
+  },
+  "a": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A",
+   "labels": {
+    "de": "Vermählung Mariens mit der Taube des Geistes"
+   },
+   "ref": "ad32ibow"
+  },
+  "b": {
+   "kind": "painting",
+   "status": "create",
+   "field": "B",
+   "labels": {
+    "de": "Huldigung an die Immaculata"
+   },
+   "ref": "ooc516dr"
+  },
+  "c": {
+   "kind": "painting",
+   "status": "create",
+   "field": "C",
+   "labels": {
+    "de": "Vision des Johannes auf Patmos"
+   },
+   "ref": "wg43wa8s"
+  },
+  "d": {
+   "kind": "painting",
+   "status": "create",
+   "field": "D",
+   "labels": {
+    "de": "Heiligenhimmel mit apokalyptischem Lamm"
+   },
+   "ref": "sclex2rj"
+  },
+  "d1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "D1",
+   "labels": {
+    "de": "Augustinus"
+   },
+   "ref": "fnj3z5m3"
+  },
+  "d2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "D2",
+   "labels": {
+    "de": "Gregor"
+   },
+   "ref": "nsg5o8nl"
+  },
+  "m1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "1",
+   "cycle": "Leben Johannes des Täufers",
+   "labels": {
+    "de": "Zacharias erfährt den Namen des Johannes"
+   },
+   "ref": "vj2q9t0y"
+  },
+  "m2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "2",
+   "cycle": "Leben Johannes des Täufers",
+   "labels": {
+    "de": "Johannes als Knabe in der Wüste, von einem Engel verpflegt"
+   },
+   "ref": "r3lc6yed"
+  },
+  "m3": {
+   "kind": "painting",
+   "status": "create",
+   "field": "3",
+   "cycle": "Leben Johannes des Täufers",
+   "labels": {
+    "de": "Johannes predigt den Pharisäern"
+   },
+   "ref": "vk2kx9b5"
+  },
+  "m4": {
+   "kind": "painting",
+   "status": "create",
+   "field": "4",
+   "cycle": "Leben Johannes des Täufers",
+   "labels": {
+    "de": "Taufe Jesu"
+   },
+   "ref": "upcak7o8"
+  },
+  "m5": {
+   "kind": "painting",
+   "status": "create",
+   "field": "5",
+   "cycle": "Leben Johannes des Täufers",
+   "labels": {
+    "de": "Verhaftung des Johannes"
+   },
+   "ref": "p669iqk7"
+  },
+  "m6": {
+   "kind": "painting",
+   "status": "create",
+   "field": "6",
+   "cycle": "Leben Johannes des Täufers",
+   "labels": {
+    "de": "Enthauptung des Johannes"
+   },
+   "ref": "aikyce8a"
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q40662",
+   "quote": "Patrozinium: St. Johann Baptist"
+  },
+  {
+   "subject": "bld",
+   "property": "P84",
+   "value": "_:person:joseph-schmuzer",
+   "named_as": "Joseph Schmuzer",
+   "quote": "Baumeister und Stukkator war Joseph Schmuzer."
+  },
+  {
+   "subject": [
+    "lhs",
+    "ar"
+   ],
+   "property": "P361",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "lhs",
+    "ar"
+   ],
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c",
+    "m1",
+    "m2",
+    "m3",
+    "m4",
+    "m5",
+    "m6"
+   ],
+   "property": "P276",
+   "value": "lhs",
+   "structural": true
+  },
+  {
+   "subject": [
+    "d",
+    "d1",
+    "d2"
+   ],
+   "property": "P276",
+   "value": "ar",
+   "structural": true
+  },
+  {
+   "subject": "lhs",
+   "property": "P2048",
+   "value": "10.10U11573",
+   "quote": "A – 10,10 m – 4,80 × 5,30"
+  },
+  {
+   "subject": "ar",
+   "property": "P2048",
+   "value": "8.70U11573",
+   "quote": "D – 8,70 m – 4,50 × 3,20"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "d1",
+    "d2",
+    "m1",
+    "m2",
+    "m3",
+    "m4",
+    "m5",
+    "m6"
+   ],
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; polychrom"
+  },
+  {
+   "subject": "a",
+   "property": "P2043",
+   "value": "4.80U11573",
+   "quote": "A – 10,10 m – 4,80 × 5,30"
+  },
+  {
+   "subject": "a",
+   "property": "P2049",
+   "value": "5.30U11573",
+   "quote": "A – 10,10 m – 4,80 × 5,30"
+  },
+  {
+   "subject": "b",
+   "property": "P2043",
+   "value": "5.80U11573",
+   "quote": "B – 10,10 m – 5,80 × 5,30"
+  },
+  {
+   "subject": "b",
+   "property": "P2049",
+   "value": "5.30U11573",
+   "quote": "B – 10,10 m – 5,80 × 5,30"
+  },
+  {
+   "subject": "c",
+   "property": "P2043",
+   "value": "4.80U11573",
+   "quote": "C – 10,10 m – 4,80 × 5,30"
+  },
+  {
+   "subject": "c",
+   "property": "P2049",
+   "value": "5.30U11573",
+   "quote": "C – 10,10 m – 4,80 × 5,30"
+  },
+  {
+   "subject": "d",
+   "property": "P2043",
+   "value": "4.50U11573",
+   "quote": "D – 8,70 m – 4,50 × 3,20"
+  },
+  {
+   "subject": "d",
+   "property": "P2049",
+   "value": "3.20U11573",
+   "quote": "D – 8,70 m – 4,50 × 3,20"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "d1",
+    "d2",
+    "m1",
+    "m2",
+    "m3",
+    "m4",
+    "m5",
+    "m6"
+   ],
+   "property": "P170",
+   "value": "somevalue",
+   "quote": "Der Autor ist unbekannt, dürfte stilistisch auch kaum zu ermitteln sein",
+   "route": "direct",
+   "route_reason": "The article states that the author is unknown: unknown value, nothing to interpret."
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "d1",
+    "d2",
+    "m1",
+    "m2",
+    "m3",
+    "m4",
+    "m5",
+    "m6"
+   ],
+   "property": "P571",
+   "value": "+1720-00-00T00:00:00Z/9",
+   "qualifiers": {
+    "P1480": "Q18122778"
+   },
+   "quote": "Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden."
+  },
+  {
+   "subject": "d",
+   "property": "P5816",
+   "value": "Q106379705",
+   "quote": "Am stärksten in Mitleidenschaft gezogen war das schwer beschädigte AR-Bild (D)."
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q345",
+   "quote": "Vermählung Mariens mit der Taube des Geistes; Himmelsszenerie mit Engeln, die marianische Symbole tragen."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q345",
+   "quote": "Huldigung an die Immaculata; einansichtige Darstellung einer nach oben offenen zentralen Scheinarchitektur"
+  },
+  {
+   "subject": "b",
+   "property": "P1257",
+   "value": "\"11F232\"",
+   "quote": "Huldigung an die Immaculata; einansichtige Darstellung einer nach oben offenen zentralen Scheinarchitektur"
+  },
+  {
+   "subject": "b",
+   "property": "P1684",
+   "value": "la:\"EX HOC / BEATAM / ME / DICENT - OMNES / GENERATIONES / LUCA IV 48\"",
+   "quote": "Inschrift auf den Fenstersockeln EX HOC / BEATAM / ME / DICENT - OMNES / GENERATIONES / LUCA IV 48 (= Luc 1,48)."
+  },
+  {
+   "subject": "c",
+   "property": "P180",
+   "value": "Q44015",
+   "quote": "Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens."
+  },
+  {
+   "subject": "c",
+   "property": "P180",
+   "value": "Q45581",
+   "quote": "Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens."
+  },
+  {
+   "subject": "c",
+   "property": "P1257",
+   "value": "\"73G411\"",
+   "quote": "Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens."
+  },
+  {
+   "subject": "c",
+   "property": "P1257",
+   "value": "\"73G412\"",
+   "quote": "Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens."
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q40662",
+   "quote": "Heiligenhimmel mit apokalyptischem Lamm; u. a. Johann Baptist und Evangelist, Apostel"
+  },
+  {
+   "subject": "d",
+   "property": "P180",
+   "value": "Q44015",
+   "quote": "Heiligenhimmel mit apokalyptischem Lamm; u. a. Johann Baptist und Evangelist, Apostel"
+  },
+  {
+   "subject": "d",
+   "property": "P1257",
+   "value": "\"73G44\"",
+   "quote": "Inschriftband östlich: VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT apoca (= Apoc 14,4)."
+  },
+  {
+   "subject": "d",
+   "property": "P1684",
+   "value": "la:\"VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT\"",
+   "quote": "Inschriftband östlich: VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT apoca (= Apoc 14,4)."
+  },
+  {
+   "subject": "d1",
+   "property": "P180",
+   "value": "Q8018",
+   "quote": "Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum."
+  },
+  {
+   "subject": "d1",
+   "property": "P1257",
+   "value": "\"11H(AUGUSTINE)\"",
+   "quote": "Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum."
+  },
+  {
+   "subject": "d2",
+   "property": "P180",
+   "value": "Q42827",
+   "quote": "Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum."
+  },
+  {
+   "subject": "d2",
+   "property": "P1257",
+   "value": "\"11H(GREGORY)\"",
+   "quote": "Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum."
+  },
+  {
+   "subject": "d2",
+   "property": "P1684",
+   "value": "la:\"Lib:/22/Moral:/Sequela/conci/onum\"",
+   "quote": "Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum."
+  },
+  {
+   "subject": "m1",
+   "property": "P180",
+   "value": "Q139464",
+   "quote": "Zacharias erfährt den Namen des Johannes, Buchinschrift: Johan/s Es."
+  },
+  {
+   "subject": "m1",
+   "property": "P1684",
+   "value": "la:\"Johan/s Es\"",
+   "quote": "Zacharias erfährt den Namen des Johannes, Buchinschrift: Johan/s Es."
+  },
+  {
+   "subject": "m2",
+   "property": "P180",
+   "value": "Q40662",
+   "quote": "Johannes als Knabe in der Wüste, von einem Engel verpflegt"
+  },
+  {
+   "subject": "m2",
+   "property": "P1257",
+   "value": "\"73A18\"",
+   "quote": "Johannes als Knabe in der Wüste, von einem Engel verpflegt"
+  },
+  {
+   "subject": "m3",
+   "property": "P180",
+   "value": "Q40662",
+   "quote": "Johannes predigt den Pharisäern"
+  },
+  {
+   "subject": "m3",
+   "property": "P1257",
+   "value": "\"73C11\"",
+   "quote": "Johannes predigt den Pharisäern"
+  },
+  {
+   "subject": "m4",
+   "property": "P180",
+   "value": "Q302",
+   "quote": "Taufe Jesu"
+  },
+  {
+   "subject": "m4",
+   "property": "P180",
+   "value": "Q40662",
+   "quote": "Taufe Jesu"
+  },
+  {
+   "subject": "m4",
+   "property": "P1257",
+   "value": "\"73C121\"",
+   "quote": "Taufe Jesu"
+  },
+  {
+   "subject": "m5",
+   "property": "P180",
+   "value": "Q40662",
+   "quote": "Verhaftung des Johannes"
+  },
+  {
+   "subject": "m5",
+   "property": "P1257",
+   "value": "\"73C132\"",
+   "quote": "Verhaftung des Johannes"
+  },
+  {
+   "subject": "m6",
+   "property": "P180",
+   "value": "Q40662",
+   "quote": "Enthauptung des Johannes"
+  },
+  {
+   "subject": "m6",
+   "property": "P1257",
+   "value": "\"73C13\"",
+   "quote": "Enthauptung des Johannes"
+  },
+  {
+   "seq": [
+    "m1",
+    "m2",
+    "m3",
+    "m4",
+    "m5",
+    "m6"
+   ]
+  },
+  {
+   "pair": [
+    "d1",
+    "d2"
+   ]
+  }
+ ]
+}

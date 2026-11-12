@@ -1,0 +1,785 @@
+{
+ "id": "denklingen",
+ "lemma": "Denklingen, Pfarrkirche St. Michael",
+ "entities": {
+  "bld": {
+   "kind": "building",
+   "status": "match",
+   "qid": "Q1586238",
+   "main": true,
+   "ref": "t2c0g6hv",
+   "route_reason": "deckenmalerei.eu building 'Denklingen, Pfarrkirche St. Michael' carries this QID (P10626); the item 'St. Michael, Pfarrkirche in Denklingen' agrees in place and dedication."
+  },
+  "saal": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q607600",
+   "labels": {
+    "de": "Saal"
+   },
+   "ref": "af22juhq"
+  },
+  "empore": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q648224",
+   "labels": {
+    "de": "Doppelempore"
+   },
+   "ref": "ogbdszn8"
+  },
+  "chor": {
+   "kind": "room",
+   "status": "create",
+   "p31": "Q207707",
+   "labels": {
+    "de": "Chor"
+   },
+   "ref": "dxycdiz3"
+  },
+  "_:person:franz-xaver-kleinhans": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1449663",
+   "ref": "wkijwv13",
+   "route_reason": "Franz Xaver Kleinhans (1699–1776), Rococo architect in the Hochstift Augsburg, which owned Denklingen; dates fit the building of 1765/66. The inscription calls him 'Johannes Kleinhans aus Tirol' (Kleinhans came from Tyrol)."
+  },
+  "_:person:ignaz-finsterwalder": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1657439",
+   "ref": "pbyny8xk",
+   "route_reason": "Ignaz Finsterwalder (1708–1772), German stuccoist; the only stuccoist of the name, dates fit 1765/66."
+  },
+  "_:person:joseph-ignaz-philipp-von-hessen-darmstadt": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1707293",
+   "ref": "rfgvvi8m",
+   "route_reason": "Joseph Ignaz Philipp von Hessen-Darmstadt, Fürstbischof von Augsburg 1740–1768: same office and years as printed ('Landgraf von Hessen-Darmstadt und Fürstbischof von Augsburg (1740–68)')."
+  },
+  "_:person:johann-joseph-anton-huber": {
+   "kind": "person",
+   "status": "match",
+   "qid": "Q1694998",
+   "ref": "axly8u6w",
+   "route_reason": "Johann Joseph Anton Huber (1737–1815), Baroque painter and later director of the Augsburg academy, as the article says ('der spätere Akademiedirektor in Augsburg'); signed 1767."
+  },
+  "schmid": {
+   "kind": "person",
+   "status": "reconcile",
+   "route": "curator",
+   "p31": "Q5",
+   "ref": "qr2w221n",
+   "labels": {
+    "de": "Joseph Schmid"
+   },
+   "descriptions": {
+    "de": "Pfarrer von Denklingen (1761–1782)",
+    "en": "parish priest of Denklingen (1761–1782)"
+   },
+   "candidates": [],
+   "route_reason": "Very common name: of ~40 items named Joseph/Josef Schmid none is an 18th-century priest (Q93521098, 1698–1769, died before 1782). A curator decides whether to create one.",
+   "quote": "1765/66 Neubau anstelle eines provisorischen Baues unter Pfarrer Joseph Schmid (1761–82).",
+   "types": [
+    "Q5"
+   ],
+   "on_no_match": "curator",
+   "facts": [
+    {
+     "property": "P2031",
+     "value": "+1761-00-00T00:00:00Z/9"
+    },
+    {
+     "property": "P2032",
+     "value": "+1782-00-00T00:00:00Z/9"
+    }
+   ]
+  },
+  "a": {
+   "kind": "painting",
+   "status": "create",
+   "field": "A",
+   "labels": {
+    "de": "Wunder am Monte Gargano"
+   },
+   "ref": "yp0xlcoy"
+  },
+  "b": {
+   "kind": "painting",
+   "status": "create",
+   "field": "B",
+   "labels": {
+    "de": "Triumph Michaels"
+   },
+   "ref": "y1srmwbn"
+  },
+  "c": {
+   "kind": "painting",
+   "status": "create",
+   "field": "C",
+   "labels": {
+    "de": "Zug der Israeliten durch die Wüste"
+   },
+   "ref": "j9w8xtj4"
+  },
+  "c1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "C1",
+   "labels": {
+    "de": "Gregor"
+   },
+   "ref": "l68o06r0",
+   "cycle": "Die vier Kirchenväter"
+  },
+  "c2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "C2",
+   "labels": {
+    "de": "Augustinus"
+   },
+   "ref": "o7tfifou",
+   "cycle": "Die vier Kirchenväter"
+  },
+  "c3": {
+   "kind": "painting",
+   "status": "create",
+   "field": "C3",
+   "labels": {
+    "de": "Ambrosius"
+   },
+   "ref": "mqch4b9t",
+   "cycle": "Die vier Kirchenväter"
+  },
+  "c4": {
+   "kind": "painting",
+   "status": "create",
+   "field": "C4",
+   "labels": {
+    "de": "Hieronymus"
+   },
+   "ref": "a38tij3i",
+   "cycle": "Die vier Kirchenväter"
+  },
+  "z1": {
+   "kind": "painting",
+   "status": "create",
+   "field": "1",
+   "labels": {
+    "de": "Petrus und Paulus"
+   },
+   "ref": "d68p8dcs",
+   "cycle": "Apostel"
+  },
+  "z2": {
+   "kind": "painting",
+   "status": "create",
+   "field": "2",
+   "labels": {
+    "de": "Philippus und Jakobus Minor"
+   },
+   "ref": "j9nvx55s",
+   "cycle": "Apostel"
+  },
+  "z3": {
+   "kind": "painting",
+   "status": "create",
+   "field": "3",
+   "labels": {
+    "de": "Jakobus Major"
+   },
+   "ref": "gep81mhp",
+   "cycle": "Apostel"
+  },
+  "z4": {
+   "kind": "painting",
+   "status": "create",
+   "field": "4",
+   "labels": {
+    "de": "Thomas"
+   },
+   "ref": "vh7quyni",
+   "cycle": "Apostel"
+  },
+  "z5": {
+   "kind": "painting",
+   "status": "create",
+   "field": "5",
+   "labels": {
+    "de": "Judas Thaddäus"
+   },
+   "ref": "t542s2dj",
+   "cycle": "Apostel"
+  },
+  "z6": {
+   "kind": "painting",
+   "status": "create",
+   "field": "6",
+   "labels": {
+    "de": "Matthäus"
+   },
+   "ref": "jytbpwzq",
+   "cycle": "Apostel"
+  },
+  "z7": {
+   "kind": "painting",
+   "status": "create",
+   "field": "7",
+   "labels": {
+    "de": "Bartholomäus"
+   },
+   "ref": "qohj0ik9",
+   "cycle": "Apostel"
+  },
+  "z8": {
+   "kind": "painting",
+   "status": "create",
+   "field": "8",
+   "labels": {
+    "de": "Simon"
+   },
+   "ref": "v2ksdrws",
+   "cycle": "Apostel"
+  },
+  "z9": {
+   "kind": "painting",
+   "status": "create",
+   "field": "9",
+   "labels": {
+    "de": "Johannes"
+   },
+   "ref": "yul0hguk",
+   "cycle": "Apostel"
+  },
+  "z10": {
+   "kind": "painting",
+   "status": "create",
+   "field": "10",
+   "labels": {
+    "de": "Andreas"
+   },
+   "ref": "h8jd18qv",
+   "cycle": "Apostel"
+  },
+  "eb1": {
+   "kind": "painting",
+   "status": "create",
+   "p31": "Q219423",
+   "labels": {
+    "de": "David psallens"
+   },
+   "ref": "p5qq0uno",
+   "descriptions": {
+    "de": "Emporenbrüstungsbild EB1 in Denklingen, Pfarrkirche St. Michael",
+    "en": "gallery parapet painting EB1 in Denklingen, Pfarrkirche St. Michael"
+   }
+  },
+  "eb2": {
+   "kind": "painting",
+   "status": "create",
+   "p31": "Q219423",
+   "labels": {
+    "de": "Göttliche Tugenden"
+   },
+   "ref": "ya9edafg",
+   "descriptions": {
+    "de": "Emporenbrüstungsbild EB2 in Denklingen, Pfarrkirche St. Michael",
+    "en": "gallery parapet painting EB2 in Denklingen, Pfarrkirche St. Michael"
+   }
+  }
+ },
+ "claims": [
+  {
+   "subject": "bld",
+   "property": "P825",
+   "value": "Q45581",
+   "quote": "Patrozinium: St. Michael"
+  },
+  {
+   "subject": "bld",
+   "property": "P84",
+   "value": "_:person:franz-xaver-kleinhans",
+   "quote": "Baumeister war Franz Xaver Kleinhans, Stukkator Ignaz Finsterwalder.",
+   "named_as": "Franz Xaver Kleinhans"
+  },
+  {
+   "subject": "bld",
+   "property": "P767",
+   "value": "_:person:ignaz-finsterwalder",
+   "quote": "Baumeister war Franz Xaver Kleinhans, Stukkator Ignaz Finsterwalder.",
+   "qualifiers": {
+    "P3831": "Q18435135"
+   },
+   "named_as": "Ignaz Finsterwalder"
+  },
+  {
+   "subject": "bld",
+   "property": "P1684",
+   "value": "de:\"Unter dem Pfarrer Joseph Schmid / unter dem Baumeister Johannes Kleinhans aus Tirol / ist dieß Gotteshaus / im Jahre 1766 / erbauet worden\"",
+   "quote": "Inschrifttafel über dem N-Portal: Unter dem Pfarrer Joseph Schmid / unter dem Baumeister Johannes Kleinhans aus Tirol / ist dieß Gotteshaus / im Jahre 1766 / erbauet worden."
+  },
+  {
+   "subject": [
+    "saal",
+    "empore",
+    "chor"
+   ],
+   "property": "P361",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "saal",
+    "empore",
+    "chor"
+   ],
+   "property": "P276",
+   "value": "bld",
+   "structural": true
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "z1",
+    "z2",
+    "z3",
+    "z4",
+    "z5",
+    "z6",
+    "z7",
+    "z8",
+    "z9",
+    "z10"
+   ],
+   "property": "P276",
+   "value": "saal",
+   "structural": true
+  },
+  {
+   "subject": [
+    "c",
+    "c1",
+    "c2",
+    "c3",
+    "c4"
+   ],
+   "property": "P276",
+   "value": "chor",
+   "structural": true
+  },
+  {
+   "subject": [
+    "eb1",
+    "eb2"
+   ],
+   "property": "P276",
+   "value": "empore",
+   "structural": true
+  },
+  {
+   "subject": "saal",
+   "property": "P2048",
+   "value": "12.10U11573",
+   "quote": "A – 12,10 m – 4,40 × 7,15"
+  },
+  {
+   "subject": "chor",
+   "property": "P2048",
+   "value": "11.90U11573",
+   "quote": "C – 11,90 m – 8,70 × 8,20"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c",
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "z1",
+    "z2",
+    "z3",
+    "z4",
+    "z5",
+    "z6",
+    "z7",
+    "z8",
+    "z9",
+    "z10",
+    "eb1",
+    "eb2"
+   ],
+   "property": "P2079",
+   "value": "Q134194",
+   "quote": "Technik: Fresko; A, B, C polychrom, 1–10, C1–4, EB1–2 zweifarbig grün-karmin"
+  },
+  {
+   "subject": "a",
+   "property": "P2043",
+   "value": "4.40U11573",
+   "quote": "A – 12,10 m – 4,40 × 7,15"
+  },
+  {
+   "subject": "a",
+   "property": "P2049",
+   "value": "7.15U11573",
+   "quote": "A – 12,10 m – 4,40 × 7,15"
+  },
+  {
+   "subject": "b",
+   "property": "P2043",
+   "value": "15.40U11573",
+   "quote": "B – 12,10 m – 15,40 × 9,50"
+  },
+  {
+   "subject": "b",
+   "property": "P2049",
+   "value": "9.50U11573",
+   "quote": "B – 12,10 m – 15,40 × 9,50"
+  },
+  {
+   "subject": "c",
+   "property": "P2043",
+   "value": "8.70U11573",
+   "quote": "C – 11,90 m – 8,70 × 8,20"
+  },
+  {
+   "subject": "c",
+   "property": "P2049",
+   "value": "8.20U11573",
+   "quote": "C – 11,90 m – 8,70 × 8,20"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c"
+   ],
+   "property": "P88",
+   "value": "_:person:joseph-ignaz-philipp-von-hessen-darmstadt",
+   "quote": "Auftraggeber: Joseph Landgraf von Hessen-Darmstadt und Fürstbischof von Augsburg (1740–68); Wappen am Chorbogen",
+   "named_as": "Joseph Landgraf von Hessen-Darmstadt"
+  },
+  {
+   "subject": "b",
+   "property": "P170",
+   "value": "_:person:johann-joseph-anton-huber",
+   "quote": "Signatur am O-Rand von B: A: 1767. JAH (ligiert) ueber inven: et pinx: = Johann Joseph Anton Hueber",
+   "named_as": "Johann Joseph Anton Hueber"
+  },
+  {
+   "subject": "c",
+   "property": "P170",
+   "value": "_:person:johann-joseph-anton-huber",
+   "quote": "verwendet Hueber das gleiche Kompositionsprinzip wie in der Moses-Aarongruppe in C",
+   "named_as": "Hueber"
+  },
+  {
+   "subject": "b",
+   "property": "P571",
+   "value": "+1767-00-00T00:00:00Z/9",
+   "quote": "Signatur am O-Rand von B: A: 1767. JAH (ligiert) ueber inven: et pinx: = Johann Joseph Anton Hueber"
+  },
+  {
+   "subject": "b",
+   "property": "P1684",
+   "value": "la:\"A: 1767. JAH (ligiert) ueber inven: et pinx:\"",
+   "quote": "Signatur am O-Rand von B: A: 1767. JAH (ligiert) ueber inven: et pinx: = Johann Joseph Anton Hueber"
+  },
+  {
+   "subject": "a",
+   "property": "P1684",
+   "value": "la:\"QUIS / UT / DEUS\"",
+   "quote": "er trägt als Attribut einen Schild mit der Inschrift QUIS / UT / DEUS."
+  },
+  {
+   "subject": "b",
+   "property": "P1684",
+   "value": "la:\"QUIS / UT DEUS\"",
+   "quote": "Die Inschrift auf seinem Schild QUIS / UT DEUS – die lateinische Übersetzung seines hebräischen Namens"
+  },
+  {
+   "subject": [
+    "a",
+    "b",
+    "c"
+   ],
+   "property": "P5816",
+   "value": "Q106379705",
+   "quote": "Ausgebesserte Risse und mit Kupferschrauben befestigte Partien in A, B, C; einzelne Wasserflecken."
+  },
+  {
+   "subject": "a",
+   "property": "P180",
+   "value": "Q45581",
+   "quote": "In den Wolken erscheint der Erzengel Michael von anderen Engeln begleitet"
+  },
+  {
+   "subject": "a",
+   "property": "P1257",
+   "value": "\"11G18341\"",
+   "quote": "Als er auf den Stier schoß, wendete der Pfeil und traf ihn selbst."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q45581",
+   "quote": "Licht und Plazierung innerhalb der Gesamtkomposition machen den Erzengel Michael zum beherrschenden Bildgegenstand."
+  },
+  {
+   "subject": "b",
+   "property": "P180",
+   "value": "Q186350",
+   "quote": "Die Gestalt Gottvaters, der inmitten von Engeln mit Zepter und Weltkugel auf einer Wolke thront, ist dagegen eine Randfigur"
+  },
+  {
+   "subject": "b",
+   "property": "P1257",
+   "value": "\"11G33\"",
+   "quote": "Umgeben und unterstützt von anderen Engeln stürzt er die abtrünnigen Geister ins höllische Feuer."
+  },
+  {
+   "subject": "c",
+   "property": "P180",
+   "value": "Q9077",
+   "quote": "Hier stehen im Mittelpunkt der irdischen Szenerie Moses und Aaron in malerischen Gewändern"
+  },
+  {
+   "subject": "c",
+   "property": "P180",
+   "value": "Q51676",
+   "quote": "Hier stehen im Mittelpunkt der irdischen Szenerie Moses und Aaron in malerischen Gewändern"
+  },
+  {
+   "subject": "c",
+   "property": "P1257",
+   "value": "\"71E12\"",
+   "quote": "ZUG DER ISRAELITEN DURCH DIE WÜSTE In karger Landschaft mit einzelnen niedrigen Büschen und Bäumen ziehen die Juden"
+  },
+  {
+   "subject": "c1",
+   "property": "P180",
+   "value": "Q42827",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "c1",
+   "property": "P1257",
+   "value": "\"11H(GREGORY)\"",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "c2",
+   "property": "P180",
+   "value": "Q8018",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "c2",
+   "property": "P1257",
+   "value": "\"11H(AUGUSTINE)\"",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "c3",
+   "property": "P180",
+   "value": "Q43689",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "c3",
+   "property": "P1257",
+   "value": "\"11H(AMBROSE)\"",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "c4",
+   "property": "P180",
+   "value": "Q44248",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "c4",
+   "property": "P1257",
+   "value": "\"11H(JEROME)\"",
+   "quote": "Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4)."
+  },
+  {
+   "subject": "z1",
+   "property": "P180",
+   "value": "Q33923",
+   "quote": "Petrus mit Schlüssel und Paulus mit Schwert"
+  },
+  {
+   "subject": "z1",
+   "property": "P1257",
+   "value": "\"11H(PETER)\"",
+   "quote": "Petrus mit Schlüssel und Paulus mit Schwert"
+  },
+  {
+   "subject": "z1",
+   "property": "P180",
+   "value": "Q9200",
+   "quote": "Petrus mit Schlüssel und Paulus mit Schwert"
+  },
+  {
+   "subject": "z1",
+   "property": "P1257",
+   "value": "\"11H(PAUL)\"",
+   "quote": "Petrus mit Schlüssel und Paulus mit Schwert"
+  },
+  {
+   "subject": "z2",
+   "property": "P180",
+   "value": "Q43675",
+   "quote": "Philippus mit Kreuz und Jakobus Minor mit Walkerstange"
+  },
+  {
+   "subject": "z2",
+   "property": "P1257",
+   "value": "\"11H(PHILIP)\"",
+   "quote": "Philippus mit Kreuz und Jakobus Minor mit Walkerstange"
+  },
+  {
+   "subject": "z2",
+   "property": "P180",
+   "value": "Q3245490",
+   "quote": "Philippus mit Kreuz und Jakobus Minor mit Walkerstange"
+  },
+  {
+   "subject": "z2",
+   "property": "P1257",
+   "value": "\"11H(JAMES THE LESS)\"",
+   "quote": "Philippus mit Kreuz und Jakobus Minor mit Walkerstange"
+  },
+  {
+   "subject": "z3",
+   "property": "P180",
+   "value": "Q43999",
+   "quote": "Jakobus Major in Pilgertracht mit Muscheln und Stab"
+  },
+  {
+   "subject": "z4",
+   "property": "P180",
+   "value": "Q43669",
+   "quote": "Thomas mit Lanze"
+  },
+  {
+   "subject": "z4",
+   "property": "P1257",
+   "value": "\"11H(THOMAS)\"",
+   "quote": "Thomas mit Lanze"
+  },
+  {
+   "subject": "z5",
+   "property": "P180",
+   "value": "Q43945",
+   "quote": "Judas Thaddäus mit Keule"
+  },
+  {
+   "subject": "z6",
+   "property": "P180",
+   "value": "Q43600",
+   "quote": "Matthäus mit Beil"
+  },
+  {
+   "subject": "z6",
+   "property": "P1257",
+   "value": "\"11H(MATTHEW)\"",
+   "quote": "Matthäus mit Beil"
+  },
+  {
+   "subject": "z7",
+   "property": "P180",
+   "value": "Q43982",
+   "quote": "Bartholomäus mit Messer"
+  },
+  {
+   "subject": "z7",
+   "property": "P1257",
+   "value": "\"11H(BARTHOLOMEW)\"",
+   "quote": "Bartholomäus mit Messer"
+  },
+  {
+   "subject": "z8",
+   "property": "P180",
+   "value": "Q12871",
+   "quote": "Simon mit Säge"
+  },
+  {
+   "subject": "z8",
+   "property": "P1257",
+   "value": "\"11H(SIMON)\"",
+   "quote": "Simon mit Säge"
+  },
+  {
+   "subject": "z9",
+   "property": "P180",
+   "value": "Q44015",
+   "quote": "Johannes mit dem Kelch"
+  },
+  {
+   "subject": "z9",
+   "property": "P1257",
+   "value": "\"11H(JOHN)\"",
+   "quote": "Johannes mit dem Kelch"
+  },
+  {
+   "subject": "z10",
+   "property": "P180",
+   "value": "Q43399",
+   "quote": "Andreas mit Andreaskreuz"
+  },
+  {
+   "subject": "z10",
+   "property": "P1257",
+   "value": "\"11H(ANDREW)\"",
+   "quote": "Andreas mit Andreaskreuz"
+  },
+  {
+   "subject": "eb1",
+   "property": "P180",
+   "value": "Q41370",
+   "quote": "Die Bilder an den Emporenbrüstungen zeigen oben David psallierend (EB1)"
+  },
+  {
+   "subject": "eb2",
+   "property": "P1257",
+   "value": "\"11M3\"",
+   "quote": "Putti mit den Attributen der drei göttlichen Tugenden, Kreuz und Kelch (Fides), flammendem Herzen (Caritas) und Anker (Spes)."
+  },
+  {
+   "seq": [
+    "c1",
+    "c2",
+    "c3",
+    "c4"
+   ]
+  },
+  {
+   "seq": [
+    "z1",
+    "z2",
+    "z3",
+    "z4",
+    "z5",
+    "z6",
+    "z7",
+    "z8",
+    "z9",
+    "z10"
+   ]
+  },
+  {
+   "pair": [
+    "eb1",
+    "eb2"
+   ]
+  }
+ ]
+}
