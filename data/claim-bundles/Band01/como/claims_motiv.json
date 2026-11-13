@@ -1,0 +1,2632 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Motiv – cbdd-band01",
+    "short_description": "Aussagen aus CbDD Bd. 1 – 8 Artikel (Band01) prüfen",
+    "long_description": "Daten: Aussagen, von einem Sprachmodell aus CbDD Bd. 1 – 8 Artikel (Band01) gewonnen und, wo möglich, von Programmen geprüft. Jede Aufgabe zeigt die Textstelle, auf der sie beruht, mit einem Link zur Quelle. Die Antworten werden gesammelt und später in geprüften QuickStatements-Batches hochgeladen.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Belegt die Textstelle diese Aussage?",
+    "confidence_type": "D",
+    "prompt_type": "TTTT",
+    "prompt_labels_list": [
+      "Objekt",
+      "Aussage",
+      "Textstelle",
+      "Quelle"
+    ],
+    "response_type": "YN",
+    "action_type": null,
+    "purpose": "validation",
+    "daily_streak_target": 10,
+    "image_url": null
+  },
+  "action_request_templates": [],
+  "achievements": [
+    {
+      "title": "Erste Schritte",
+      "subtitle": "10 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 10
+    },
+    {
+      "title": "Fleißig",
+      "subtitle": "50 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 50
+    },
+    {
+      "title": "Drei Tage",
+      "subtitle": "An 3 Tagen hintereinander gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    }
+  ],
+  "prompts": [
+    {
+      "key": "cbdd-band01:adelshausen:a:P180:bea966",
+      "custom_value1": "_:adelshausen:a",
+      "custom_value2": "Q133704",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a:P180:bea966",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Mantelspende des hl. Martin (neu) – Deckenbild A in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Motiv: Martin von Tours – Heiliger, dritter Bischof von Tours",
+          "link": "https://www.wikidata.org/wiki/Q133704"
+        },
+        {
+          "text": "»St. Martin auf dem Roß und der Bettler erscheinen in einer Landschaft«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=St.%20Martin%20auf%20dem,erscheinen%20in%20einer%20Landschaft"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:b:P180:cf7528",
+      "custom_value1": "_:adelshausen:b",
+      "custom_value2": "Q133704",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:b:P180:cf7528",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Martin in der Glorie (neu) – Deckenbild B in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Motiv: Martin von Tours – Heiliger, dritter Bischof von Tours",
+          "link": "https://www.wikidata.org/wiki/Q133704"
+        },
+        {
+          "text": "»ST. MARTIN IN DER GLORIE Der Heilige thront auf Wolken«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=ST.%20MARTIN%20IN%20DER,Heilige%20thront%20auf%20Wolken"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w1:P180:9a7540",
+      "custom_value1": "_:adelshausen:w1",
+      "custom_value2": "Q128267",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w1:P180:9a7540",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Joseph (neu) – Wandbild W1 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Motiv: Josef von Nazaret – Ehemann Marias, der Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q128267"
+        },
+        {
+          "text": "»S./JOSEPH Der Heilige in der Zimmermannswerkstatt; das Jesuskind kehrt Hobelspäne.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=S.%2FJOSEPH%20Der%20Heilige%20in,das%20Jesuskind%20kehrt%20Hobelsp%C3%A4ne."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w1:P180:6f16aa",
+      "custom_value1": "_:adelshausen:w1",
+      "custom_value2": "Q302",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w1:P180:6f16aa",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Joseph (neu) – Wandbild W1 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Motiv: Jesus Christus – zentrale Person des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q302"
+        },
+        {
+          "text": "»S./JOSEPH Der Heilige in der Zimmermannswerkstatt; das Jesuskind kehrt Hobelspäne.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=S.%2FJOSEPH%20Der%20Heilige%20in,das%20Jesuskind%20kehrt%20Hobelsp%C3%A4ne."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w2:P180:e55628",
+      "custom_value1": "_:adelshausen:w2",
+      "custom_value2": "Q164294",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w2:P180:e55628",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Anna (neu) – Wandbild W2 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Motiv: Heilige Anna – Mutter Marias",
+          "link": "https://www.wikidata.org/wiki/Q164294"
+        },
+        {
+          "text": "»S./ANNA Vor seiner Mutter Anna kniet lesend das Mädchen Maria.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=S.%2FANNA%20Vor%20seiner%20Mutter,lesend%20das%20M%C3%A4dchen%20Maria."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w2:P180:c201ad",
+      "custom_value1": "_:adelshausen:w2",
+      "custom_value2": "Q345",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w2:P180:c201ad",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Anna (neu) – Wandbild W2 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Motiv: Maria – Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q345"
+        },
+        {
+          "text": "»S./ANNA Vor seiner Mutter Anna kniet lesend das Mädchen Maria.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=S.%2FANNA%20Vor%20seiner%20Mutter,lesend%20das%20M%C3%A4dchen%20Maria."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:a:P180:f23219",
+      "custom_value1": "_:asch:a",
+      "custom_value2": "Q345",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:a:P180:f23219",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vermählung Mariens mit der Taube des Geistes (neu) – Deckenbild A in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Maria – Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q345"
+        },
+        {
+          "text": "»Vermählung Mariens mit der Taube des Geistes; Himmelsszenerie mit Engeln, die marianische Symbole tragen.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Verm%C3%A4hlung%20Mariens%20mit%20der,die%20marianische%20Symbole%20tragen."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:b:P180:813d2a",
+      "custom_value1": "_:asch:b",
+      "custom_value2": "Q345",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:b:P180:813d2a",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Huldigung an die Immaculata (neu) – Deckenbild B in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Maria – Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q345"
+        },
+        {
+          "text": "»Huldigung an die Immaculata; einansichtige Darstellung einer nach oben offenen zentralen Scheinarchitektur«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Huldigung%20an%20die%20Immaculata%3B,oben%20offenen%20zentralen%20Scheinarchitektur"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:c:P180:2d930c",
+      "custom_value1": "_:asch:c",
+      "custom_value2": "Q44015",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:c:P180:2d930c",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vision des Johannes auf Patmos (neu) – Deckenbild C in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes – Apostel Jesu",
+          "link": "https://www.wikidata.org/wiki/Q44015"
+        },
+        {
+          "text": "»Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Vision%20des%20Johannes%20auf,als%20Bezwinger%20des%20Drachens."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:c:P180:52979a",
+      "custom_value1": "_:asch:c",
+      "custom_value2": "Q45581",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:c:P180:52979a",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vision des Johannes auf Patmos (neu) – Deckenbild C in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Erzengel Michael – Erzengel in Judentum, Christentum und Islam",
+          "link": "https://www.wikidata.org/wiki/Q45581"
+        },
+        {
+          "text": "»Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Vision%20des%20Johannes%20auf,als%20Bezwinger%20des%20Drachens."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d:P180:edd7c3",
+      "custom_value1": "_:asch:d",
+      "custom_value2": "Q40662",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d:P180:edd7c3",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Heiligenhimmel mit apokalyptischem Lamm (neu) – Deckenbild D in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes der Täufer – christlicher Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q40662"
+        },
+        {
+          "text": "»Heiligenhimmel mit apokalyptischem Lamm; u. a. Johann Baptist und Evangelist, Apostel«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Heiligenhimmel%20mit%20apokalyptischem%20Lamm%3B,Baptist%20und%20Evangelist%2C%20Apostel"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d:P180:384324",
+      "custom_value1": "_:asch:d",
+      "custom_value2": "Q44015",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d:P180:384324",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Heiligenhimmel mit apokalyptischem Lamm (neu) – Deckenbild D in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes – Apostel Jesu",
+          "link": "https://www.wikidata.org/wiki/Q44015"
+        },
+        {
+          "text": "»Heiligenhimmel mit apokalyptischem Lamm; u. a. Johann Baptist und Evangelist, Apostel«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Heiligenhimmel%20mit%20apokalyptischem%20Lamm%3B,Baptist%20und%20Evangelist%2C%20Apostel"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d1:P180:bbb748",
+      "custom_value1": "_:asch:d1",
+      "custom_value2": "Q8018",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d1:P180:bbb748",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Augustinus (neu) – Deckenbild D1 in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Augustinus von Hippo – lateinischer Kirchenlehrer der Spätantike, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q8018"
+        },
+        {
+          "text": "»Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Augustinus%2C%20D2%20Gregor%2C%20Buchinschrift%3A%20Lib%3A%2F22%2FMoral%3A%2FSequela%2Fconci%2Fonum."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d2:P180:ee77b7",
+      "custom_value1": "_:asch:d2",
+      "custom_value2": "Q42827",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d2:P180:ee77b7",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Gregor (neu) – Deckenbild D2 in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Gregor der Große – Papst 590–604, Kirchenvater der Spätantike, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q42827"
+        },
+        {
+          "text": "»Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Augustinus%2C%20D2%20Gregor%2C%20Buchinschrift%3A%20Lib%3A%2F22%2FMoral%3A%2FSequela%2Fconci%2Fonum."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m1:P180:77c675",
+      "custom_value1": "_:asch:m1",
+      "custom_value2": "Q139464",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m1:P180:77c675",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Zacharias erfährt den Namen des Johannes (neu) – Deckenbild 1 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Zacharias – neutestamentarische Figur, Vater des Johannes des Täufers",
+          "link": "https://www.wikidata.org/wiki/Q139464"
+        },
+        {
+          "text": "»Zacharias erfährt den Namen des Johannes, Buchinschrift: Johan/s Es.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Zacharias%20erf%C3%A4hrt%20den%20Namen,Johannes%2C%20Buchinschrift%3A%20Johan%2Fs%20Es."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m2:P180:e2f0fb",
+      "custom_value1": "_:asch:m2",
+      "custom_value2": "Q40662",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m2:P180:e2f0fb",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Johannes als Knabe in der Wüste, von einem Engel verpflegt (neu) – Deckenbild 2 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes der Täufer – christlicher Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q40662"
+        },
+        {
+          "text": "»Johannes als Knabe in der Wüste, von einem Engel verpflegt«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Johannes%20als%20Knabe%20in,von%20einem%20Engel%20verpflegt"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m3:P180:392703",
+      "custom_value1": "_:asch:m3",
+      "custom_value2": "Q40662",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m3:P180:392703",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Johannes predigt den Pharisäern (neu) – Deckenbild 3 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes der Täufer – christlicher Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q40662"
+        },
+        {
+          "text": "»Johannes predigt den Pharisäern«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Johannes%20predigt%20den%20Pharis%C3%A4ern"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m4:P180:320aa1",
+      "custom_value1": "_:asch:m4",
+      "custom_value2": "Q302",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m4:P180:320aa1",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Taufe Jesu (neu) – Deckenbild 4 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Jesus Christus – zentrale Person des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q302"
+        },
+        {
+          "text": "»Taufe Jesu«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m4:P180:a3a244",
+      "custom_value1": "_:asch:m4",
+      "custom_value2": "Q40662",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m4:P180:a3a244",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Taufe Jesu (neu) – Deckenbild 4 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes der Täufer – christlicher Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q40662"
+        },
+        {
+          "text": "»Taufe Jesu«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m5:P180:d37cee",
+      "custom_value1": "_:asch:m5",
+      "custom_value2": "Q40662",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m5:P180:d37cee",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Verhaftung des Johannes (neu) – Deckenbild 5 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes der Täufer – christlicher Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q40662"
+        },
+        {
+          "text": "»Verhaftung des Johannes«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Verhaftung%20des%20Johannes"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m6:P180:01ba1c",
+      "custom_value1": "_:asch:m6",
+      "custom_value2": "Q40662",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m6:P180:01ba1c",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Enthauptung des Johannes (neu) – Deckenbild 6 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Motiv: Johannes der Täufer – christlicher Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q40662"
+        },
+        {
+          "text": "»Enthauptung des Johannes«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Enthauptung%20des%20Johannes"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a:P180:7906ef",
+      "custom_value1": "_:beuerbach:a",
+      "custom_value2": "Q302",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a:P180:7906ef",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Kreuzabnahme (neu) – Deckenbild A in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Jesus Christus – zentrale Person des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q302"
+        },
+        {
+          "text": "»Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Johannes%2C%20Joseph%20von%20Arimathia,in%20ein%20Leinentuch%20ein."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a:P180:728f06",
+      "custom_value1": "_:beuerbach:a",
+      "custom_value2": "Q44015",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a:P180:728f06",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Kreuzabnahme (neu) – Deckenbild A in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Johannes – Apostel Jesu",
+          "link": "https://www.wikidata.org/wiki/Q44015"
+        },
+        {
+          "text": "»Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Johannes%2C%20Joseph%20von%20Arimathia,in%20ein%20Leinentuch%20ein."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a:P180:945029",
+      "custom_value1": "_:beuerbach:a",
+      "custom_value2": "Q271474",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a:P180:945029",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Kreuzabnahme (neu) – Deckenbild A in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Josef von Arimathäa – Mitglied des Sanhedrins, Jünger Jesu von Nazaret",
+          "link": "https://www.wikidata.org/wiki/Q271474"
+        },
+        {
+          "text": "»Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Johannes%2C%20Joseph%20von%20Arimathia,in%20ein%20Leinentuch%20ein."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a:P180:0df141",
+      "custom_value1": "_:beuerbach:a",
+      "custom_value2": "Q295084",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a:P180:0df141",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Kreuzabnahme (neu) – Deckenbild A in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Nikodemus – Person aus dem Johannesevangelium, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q295084"
+        },
+        {
+          "text": "»Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen und hüllen ihn in ein Leinentuch ein.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Johannes%2C%20Joseph%20von%20Arimathia,in%20ein%20Leinentuch%20ein."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a1:P180:b137f1",
+      "custom_value1": "_:beuerbach:a1",
+      "custom_value2": "Q302",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a1:P180:b137f1",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Abschied Jesu von Maria (neu) – Deckenbild A1 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Jesus Christus – zentrale Person des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q302"
+        },
+        {
+          "text": "»Abschied Jesu von Maria, seiner Mutter (nicht biblisch, vgl. LCI, Bd 1, Sp. 35–37).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Abschied%20Jesu%20von%20Maria%2C,Bd%201%2C%20Sp.%2035%E2%80%9337%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a1:P180:04d211",
+      "custom_value1": "_:beuerbach:a1",
+      "custom_value2": "Q345",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a1:P180:04d211",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Abschied Jesu von Maria (neu) – Deckenbild A1 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Maria – Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q345"
+        },
+        {
+          "text": "»Abschied Jesu von Maria, seiner Mutter (nicht biblisch, vgl. LCI, Bd 1, Sp. 35–37).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Abschied%20Jesu%20von%20Maria%2C,Bd%201%2C%20Sp.%2035%E2%80%9337%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a2:P180:8e6fe7",
+      "custom_value1": "_:beuerbach:a2",
+      "custom_value2": "Q63070",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a2:P180:8e6fe7",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Büßende Maria Magdalena (neu) – Deckenbild A2 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Maria Magdalena – Jüngerin von Jesus Christus aus dem Neuen Testament",
+          "link": "https://www.wikidata.org/wiki/Q63070"
+        },
+        {
+          "text": "»Die Büßerin Maria Magdalena geißelt sich im Anblick von Kreuz und Totenschädel.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Die%20B%C3%BC%C3%9Ferin%20Maria%20Magdalena,von%20Kreuz%20und%20Totensch%C3%A4del."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a3:P180:277780",
+      "custom_value1": "_:beuerbach:a3",
+      "custom_value2": "Q302",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a3:P180:277780",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Grablegung Jesu (neu) – Deckenbild A3 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Jesus Christus – zentrale Person des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q302"
+        },
+        {
+          "text": "»Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Grablegung%20Jesu%20durch%20Joseph,Nikodemus%20in%20der%20Grabesh%C3%B6hle."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a3:P180:88b64d",
+      "custom_value1": "_:beuerbach:a3",
+      "custom_value2": "Q271474",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a3:P180:88b64d",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Grablegung Jesu (neu) – Deckenbild A3 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Josef von Arimathäa – Mitglied des Sanhedrins, Jünger Jesu von Nazaret",
+          "link": "https://www.wikidata.org/wiki/Q271474"
+        },
+        {
+          "text": "»Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Grablegung%20Jesu%20durch%20Joseph,Nikodemus%20in%20der%20Grabesh%C3%B6hle."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a3:P180:f5b8af",
+      "custom_value1": "_:beuerbach:a3",
+      "custom_value2": "Q295084",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a3:P180:f5b8af",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Grablegung Jesu (neu) – Deckenbild A3 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Nikodemus – Person aus dem Johannesevangelium, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q295084"
+        },
+        {
+          "text": "»Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Grablegung%20Jesu%20durch%20Joseph,Nikodemus%20in%20der%20Grabesh%C3%B6hle."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a4:P180:5f0f1d",
+      "custom_value1": "_:beuerbach:a4",
+      "custom_value2": "Q33923",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a4:P180:5f0f1d",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Reuiger Petrus (neu) – Deckenbild A4 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Petrus – Apostel",
+          "link": "https://www.wikidata.org/wiki/Q33923"
+        },
+        {
+          "text": "»Der reuige Petrus in der Einöde kniend; der Hahn zeigt seine Verleugnung Christi an (Mt 26, 73–75).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Der%20reuige%20Petrus%20in,an%20%28Mt%2026%2C%2073%E2%80%9375%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:w1:P180:93f692",
+      "custom_value1": "_:beuerbach:w1",
+      "custom_value2": "Q314700",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:w1:P180:93f692",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Hl. Joachim (neu) – Wandbild W1 in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Joachim – legendärer Großvater Jesu Christi",
+          "link": "https://www.wikidata.org/wiki/Q314700"
+        },
+        {
+          "text": "»Joachim mit Hirtenschippe und zwei Opfertauben auf einem Buch (W1)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Joachim%20mit%20Hirtenschippe%20und,auf%20einem%20Buch%20%28W1%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:w2:P180:81876a",
+      "custom_value1": "_:beuerbach:w2",
+      "custom_value2": "Q164294",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:w2:P180:81876a",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Hl. Anna lehrt Maria (neu) – Wandbild W2 in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Heilige Anna – Mutter Marias",
+          "link": "https://www.wikidata.org/wiki/Q164294"
+        },
+        {
+          "text": "»Anna, ihre Tochter Maria lehrend (W2)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Anna%2C%20ihre%20Tochter%20Maria%20lehrend%20%28W2%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:w2:P180:87e46b",
+      "custom_value1": "_:beuerbach:w2",
+      "custom_value2": "Q345",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:w2:P180:87e46b",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Hl. Anna lehrt Maria (neu) – Wandbild W2 in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Maria – Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q345"
+        },
+        {
+          "text": "»Anna, ihre Tochter Maria lehrend (W2)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Anna%2C%20ihre%20Tochter%20Maria%20lehrend%20%28W2%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:w3:P180:e64381",
+      "custom_value1": "_:beuerbach:w3",
+      "custom_value2": "Q78917",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:w3:P180:e64381",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Hl. Notburga (neu) – Wandbild W3 in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Notburga von Rattenberg – Tiroler heilige",
+          "link": "https://www.wikidata.org/wiki/Q78917"
+        },
+        {
+          "text": "»Notburga mit Sichel und Ährenbündel (W3)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Notburga%20mit%20Sichel%20und%20%C3%84hrenb%C3%BCndel%20%28W3%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:w4:P180:7f26a4",
+      "custom_value1": "_:beuerbach:w4",
+      "custom_value2": "Q389586",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:w4:P180:7f26a4",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Hl. Wendelin (neu) – Wandbild W4 in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Motiv: Wendelin – katholischer Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q389586"
+        },
+        {
+          "text": "»Wendelin vor einem Kruzifix kniend, im Hintergrund der pflügende Engel der Legende (W4)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Wendelin%20vor%20einem%20Kruzifix,Engel%20der%20Legende%20%28W4%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuern:engelsturz:P180:2d4f4a",
+      "custom_value1": "Q142089560",
+      "custom_value2": "Q45581",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuern:engelsturz:P180:2d4f4a",
+        "ref_p248": "Q118117102",
+        "ref_p304": "25-27"
+      },
+      "texts": [
+        {
+          "text": "Engelsturz – Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael",
+          "link": "https://www.wikidata.org/wiki/Q142089560"
+        },
+        {
+          "text": "Motiv: Erzengel Michael – Erzengel in Judentum, Christentum und Islam",
+          "link": "https://www.wikidata.org/wiki/Q45581"
+        },
+        {
+          "text": "»Mit Helm, Lederpanzer und wehendem roten Mantel bekleidet, erhebt Michael das flammende Schwert gegen Luzifer und seinen Anhang.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael#:~:text=Mit%20Helm%2C%20Lederpanzer%20und,Luzifer%20und%20seinen%20Anhang."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuern, Pfarrkirche St. Michael (S. 25–27)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuern:engelsturz:P180:4ffe04",
+      "custom_value1": "Q142089560",
+      "custom_value2": "Q185498",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuern:engelsturz:P180:4ffe04",
+        "ref_p248": "Q118117102",
+        "ref_p304": "25-27"
+      },
+      "texts": [
+        {
+          "text": "Engelsturz – Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael",
+          "link": "https://www.wikidata.org/wiki/Q142089560"
+        },
+        {
+          "text": "Motiv: Luzifer – Mythologische und religiöse Figur",
+          "link": "https://www.wikidata.org/wiki/Q185498"
+        },
+        {
+          "text": "»Mit Helm, Lederpanzer und wehendem roten Mantel bekleidet, erhebt Michael das flammende Schwert gegen Luzifer und seinen Anhang.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael#:~:text=Mit%20Helm%2C%20Lederpanzer%20und,Luzifer%20und%20seinen%20Anhang."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuern, Pfarrkirche St. Michael (S. 25–27)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuern:engelsturz:P180:317921",
+      "custom_value1": "Q142089560",
+      "custom_value2": "Q186350",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuern:engelsturz:P180:317921",
+        "ref_p248": "Q118117102",
+        "ref_p304": "25-27"
+      },
+      "texts": [
+        {
+          "text": "Engelsturz – Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael",
+          "link": "https://www.wikidata.org/wiki/Q142089560"
+        },
+        {
+          "text": "Motiv: Gott der Vater – Aspekt Gottes",
+          "link": "https://www.wikidata.org/wiki/Q186350"
+        },
+        {
+          "text": "»Gottvater thront als Weltregent in der Glorie, umgeben von anbetenden Engeln.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael#:~:text=Gottvater%20thront%20als%20Weltregent,umgeben%20von%20anbetenden%20Engeln."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuern, Pfarrkirche St. Michael (S. 25–27)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:bischofsried:kuppel:P180:92ace7",
+      "custom_value1": "_:bischofsried:kuppel",
+      "custom_value2": "Q345",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "bischofsried:kuppel:P180:92ace7",
+        "ref_p248": "Q118117102",
+        "ref_p304": "28-29"
+      },
+      "texts": [
+        {
+          "text": "Das Gnadenbild von Bischofsried (neu) – Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Bischofsried,_Maria-Schnee-Kapelle"
+        },
+        {
+          "text": "Motiv: Maria – Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q345"
+        },
+        {
+          "text": "»Engel tragen das Gnadenbild der Kapelle, Maria-Schnee, auf Wolken wie in einer triumphalen Himmelfahrt empor.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Bischofsried,_Maria-Schnee-Kapelle#:~:text=Engel%20tragen%20das%20Gnadenbild,einer%20triumphalen%20Himmelfahrt%20empor."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Bischofsried, Maria-Schnee-Kapelle (S. 28–29)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:a:P180:22f16c",
+      "custom_value1": "_:denklingen:a",
+      "custom_value2": "Q45581",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:a:P180:22f16c",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Wunder am Monte Gargano (neu) – Deckenbild A in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Erzengel Michael – Erzengel in Judentum, Christentum und Islam",
+          "link": "https://www.wikidata.org/wiki/Q45581"
+        },
+        {
+          "text": "»In den Wolken erscheint der Erzengel Michael von anderen Engeln begleitet«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=In%20den%20Wolken%20erscheint,von%20anderen%20Engeln%20begleitet"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:b:P180:bbd2bf",
+      "custom_value1": "_:denklingen:b",
+      "custom_value2": "Q45581",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:b:P180:bbd2bf",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Triumph Michaels (neu) – Deckenbild B in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Erzengel Michael – Erzengel in Judentum, Christentum und Islam",
+          "link": "https://www.wikidata.org/wiki/Q45581"
+        },
+        {
+          "text": "»Licht und Plazierung innerhalb der Gesamtkomposition machen den Erzengel Michael zum beherrschenden Bildgegenstand.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Licht%20und%20Plazierung%20innerhalb,Michael%20zum%20beherrschenden%20Bildgegenstand."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:b:P180:4d7bb0",
+      "custom_value1": "_:denklingen:b",
+      "custom_value2": "Q186350",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:b:P180:4d7bb0",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Triumph Michaels (neu) – Deckenbild B in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Gott der Vater – Aspekt Gottes",
+          "link": "https://www.wikidata.org/wiki/Q186350"
+        },
+        {
+          "text": "»Die Gestalt Gottvaters, der inmitten von Engeln mit Zepter und Weltkugel auf einer Wolke thront, ist dagegen eine Randfigur«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20Gestalt%20Gottvaters%2C%20der,ist%20dagegen%20eine%20Randfigur"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c:P180:8de967",
+      "custom_value1": "_:denklingen:c",
+      "custom_value2": "Q9077",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c:P180:8de967",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Zug der Israeliten durch die Wüste (neu) – Deckenbild C in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Mose – Zentralfigur der ersten fünf Bücher der Bibel",
+          "link": "https://www.wikidata.org/wiki/Q9077"
+        },
+        {
+          "text": "»Hier stehen im Mittelpunkt der irdischen Szenerie Moses und Aaron in malerischen Gewändern«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Hier%20stehen%20im%20Mittelpunkt,Aaron%20in%20malerischen%20Gew%C3%A4ndern"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c:P180:189f07",
+      "custom_value1": "_:denklingen:c",
+      "custom_value2": "Q51676",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c:P180:189f07",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Zug der Israeliten durch die Wüste (neu) – Deckenbild C in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Aaron – Bruder des Mose",
+          "link": "https://www.wikidata.org/wiki/Q51676"
+        },
+        {
+          "text": "»Hier stehen im Mittelpunkt der irdischen Szenerie Moses und Aaron in malerischen Gewändern«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Hier%20stehen%20im%20Mittelpunkt,Aaron%20in%20malerischen%20Gew%C3%A4ndern"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c1:P180:fba775",
+      "custom_value1": "_:denklingen:c1",
+      "custom_value2": "Q42827",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c1:P180:fba775",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Gregor (neu) – Deckenbild C1 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Gregor der Große – Papst 590–604, Kirchenvater der Spätantike, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q42827"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c2:P180:10c88c",
+      "custom_value1": "_:denklingen:c2",
+      "custom_value2": "Q8018",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c2:P180:10c88c",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Augustinus (neu) – Deckenbild C2 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Augustinus von Hippo – lateinischer Kirchenlehrer der Spätantike, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q8018"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c3:P180:36fe08",
+      "custom_value1": "_:denklingen:c3",
+      "custom_value2": "Q43689",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c3:P180:36fe08",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Ambrosius (neu) – Deckenbild C3 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Ambrosius von Mailand – römischer Politiker, Bischof und Kirchenvater der Spätantike, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q43689"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c4:P180:e4411f",
+      "custom_value1": "_:denklingen:c4",
+      "custom_value2": "Q44248",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c4:P180:e4411f",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Hieronymus (neu) – Deckenbild C4 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Hieronymus – Kirchenvater der Spätantike, Verfasser der Vulgata, Theologe der alten Kirche",
+          "link": "https://www.wikidata.org/wiki/Q44248"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z1:P180:f44d8b",
+      "custom_value1": "_:denklingen:z1",
+      "custom_value2": "Q33923",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z1:P180:f44d8b",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Petrus und Paulus (neu) – Deckenbild 1 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Petrus – Apostel",
+          "link": "https://www.wikidata.org/wiki/Q33923"
+        },
+        {
+          "text": "»Petrus mit Schlüssel und Paulus mit Schwert«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Petrus%20mit%20Schl%C3%BCssel%20und%20Paulus%20mit%20Schwert"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z1:P180:8bb67b",
+      "custom_value1": "_:denklingen:z1",
+      "custom_value2": "Q9200",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z1:P180:8bb67b",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Petrus und Paulus (neu) – Deckenbild 1 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Paulus von Tarsus – Apostel und Missionar des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q9200"
+        },
+        {
+          "text": "»Petrus mit Schlüssel und Paulus mit Schwert«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Petrus%20mit%20Schl%C3%BCssel%20und%20Paulus%20mit%20Schwert"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z2:P180:b4ae08",
+      "custom_value1": "_:denklingen:z2",
+      "custom_value2": "Q43675",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z2:P180:b4ae08",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Philippus und Jakobus Minor (neu) – Deckenbild 2 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Philippus – Apostel",
+          "link": "https://www.wikidata.org/wiki/Q43675"
+        },
+        {
+          "text": "»Philippus mit Kreuz und Jakobus Minor mit Walkerstange«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Philippus%20mit%20Kreuz%20und%20Jakobus%20Minor%20mit%20Walkerstange"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z2:P180:e4eca4",
+      "custom_value1": "_:denklingen:z2",
+      "custom_value2": "Q3245490",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z2:P180:e4eca4",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Philippus und Jakobus Minor (neu) – Deckenbild 2 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Jakobus der Jüngere – Apostel Jesu",
+          "link": "https://www.wikidata.org/wiki/Q3245490"
+        },
+        {
+          "text": "»Philippus mit Kreuz und Jakobus Minor mit Walkerstange«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Philippus%20mit%20Kreuz%20und%20Jakobus%20Minor%20mit%20Walkerstange"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z3:P180:1de639",
+      "custom_value1": "_:denklingen:z3",
+      "custom_value2": "Q43999",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z3:P180:1de639",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Jakobus Major (neu) – Deckenbild 3 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Jakobus der Ältere – Apostel Jesu Christi",
+          "link": "https://www.wikidata.org/wiki/Q43999"
+        },
+        {
+          "text": "»Jakobus Major in Pilgertracht mit Muscheln und Stab«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Jakobus%20Major%20in%20Pilgertracht%20mit%20Muscheln%20und%20Stab"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z4:P180:02a989",
+      "custom_value1": "_:denklingen:z4",
+      "custom_value2": "Q43669",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z4:P180:02a989",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Thomas (neu) – Deckenbild 4 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Thomas – Apostel bzw. Jünger, der Jesus drei Jahre lang begleitete",
+          "link": "https://www.wikidata.org/wiki/Q43669"
+        },
+        {
+          "text": "»Thomas mit Lanze«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Thomas%20mit%20Lanze"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z5:P180:15aa5b",
+      "custom_value1": "_:denklingen:z5",
+      "custom_value2": "Q43945",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z5:P180:15aa5b",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Judas Thaddäus (neu) – Deckenbild 5 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Judas Thaddäus – Jünger Jesu",
+          "link": "https://www.wikidata.org/wiki/Q43945"
+        },
+        {
+          "text": "»Judas Thaddäus mit Keule«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Judas%20Thadd%C3%A4us%20mit%20Keule"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z6:P180:2302fb",
+      "custom_value1": "_:denklingen:z6",
+      "custom_value2": "Q43600",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z6:P180:2302fb",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Matthäus (neu) – Deckenbild 6 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Matthäus – Verfasser des Matthäusevangeliums, Apostel",
+          "link": "https://www.wikidata.org/wiki/Q43600"
+        },
+        {
+          "text": "»Matthäus mit Beil«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Matth%C3%A4us%20mit%20Beil"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z7:P180:0f5537",
+      "custom_value1": "_:denklingen:z7",
+      "custom_value2": "Q43982",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z7:P180:0f5537",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Bartholomäus (neu) – Deckenbild 7 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Bartholomäus – christlicher Apostel",
+          "link": "https://www.wikidata.org/wiki/Q43982"
+        },
+        {
+          "text": "»Bartholomäus mit Messer«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Bartholom%C3%A4us%20mit%20Messer"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z8:P180:09c6f4",
+      "custom_value1": "_:denklingen:z8",
+      "custom_value2": "Q12871",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z8:P180:09c6f4",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Simon (neu) – Deckenbild 8 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Simon Zelotes – Jünger Jesu Christi",
+          "link": "https://www.wikidata.org/wiki/Q12871"
+        },
+        {
+          "text": "»Simon mit Säge«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Simon%20mit%20S%C3%A4ge"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z9:P180:e54c2a",
+      "custom_value1": "_:denklingen:z9",
+      "custom_value2": "Q44015",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z9:P180:e54c2a",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Johannes (neu) – Deckenbild 9 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Johannes – Apostel Jesu",
+          "link": "https://www.wikidata.org/wiki/Q44015"
+        },
+        {
+          "text": "»Johannes mit dem Kelch«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Johannes%20mit%20dem%20Kelch"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z10:P180:8666bb",
+      "custom_value1": "_:denklingen:z10",
+      "custom_value2": "Q43399",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z10:P180:8666bb",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Andreas (neu) – Deckenbild 10 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: Andreas – urchristlicher Apostel",
+          "link": "https://www.wikidata.org/wiki/Q43399"
+        },
+        {
+          "text": "»Andreas mit Andreaskreuz«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Andreas%20mit%20Andreaskreuz"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:eb1:P180:8ecbbe",
+      "custom_value1": "_:denklingen:eb1",
+      "custom_value2": "Q41370",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:eb1:P180:8ecbbe",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "David psallens (neu) – Emporenbrüstungsbild EB1 in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Motiv: David – Nachfolger Sauls, zweiter König von Israel",
+          "link": "https://www.wikidata.org/wiki/Q41370"
+        },
+        {
+          "text": "»Die Bilder an den Emporenbrüstungen zeigen oben David psallierend (EB1)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20Bilder%20an%20den,oben%20David%20psallierend%20%28EB1%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:dienhausen:benedikt:P180:f549a0",
+      "custom_value1": "_:dienhausen:benedikt",
+      "custom_value2": "Q44265",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "dienhausen:benedikt:P180:f549a0",
+        "ref_p248": "Q118117102",
+        "ref_p304": "37"
+      },
+      "texts": [
+        {
+          "text": "Hl. Benedikt (neu) – Deckenbild im Altarraum von Dienhausen, Kapelle St. Magnus",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Dienhausen,_Kapelle_St._Magnus"
+        },
+        {
+          "text": "Motiv: Benedikt von Nursia – Begründer des christlichen Mönchtums, Gründer des Benediktinerordens",
+          "link": "https://www.wikidata.org/wiki/Q44265"
+        },
+        {
+          "text": "»Auf Wolken stehend ist der hl. Benedikt dargestellt, als Ordensgründer der Benediktiner«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Dienhausen,_Kapelle_St._Magnus#:~:text=Auf%20Wolken%20stehend%20ist,als%20Ordensgr%C3%BCnder%20der%20Benediktiner"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dienhausen, Kapelle St. Magnus (S. 37)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:a:P180:20d6fa",
+      "custom_value1": "_:diessen:a",
+      "custom_value2": "Q104243579",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:a:P180:20d6fa",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Auffindung der Gebeine des seligen Rathard (neu) – Deckenbild A in Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt"
+        },
+        {
+          "text": "Motiv: Seliger Rathardus – Priester aus dem Hause der Grafen von Andechs",
+          "link": "https://www.wikidata.org/wiki/Q104243579"
+        },
+        {
+          "text": "»Ein weiterer Geistlicher und ein Bauarbeiter schauen in die Gruft, in der die Gebeine des seligen Rathard sichtbar werden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Ein%20weiterer%20Geistlicher%20und,seligen%20Rathard%20sichtbar%20werden."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:abeebd",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q345",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:abeebd",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Maria – Mutter Jesu",
+          "link": "https://www.wikidata.org/wiki/Q345"
+        },
+        {
+          "text": "»Ganz oben, im Zentrum des Bildes, in der lichten Himmelsglorie, von Engeln umgeben, thront Maria als Königin der Heiligen und Patronin der Dießener Stiftskirche.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Ganz%20oben%2C%20im%20Zentrum,Patronin%20der%20Die%C3%9Fener%20Stiftskirche."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:8f857d",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q48438",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:8f857d",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Georg – christlicher Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q48438"
+        },
+        {
+          "text": "»Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Ritter%20Georg%20mit%20dem,Paulus%20mit%20dem%20Schwert."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:cacdd6",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q161775",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:cacdd6",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Stephanus – Diakon der Gemeinde von Jerusalem und erster christlicher Märtyrer",
+          "link": "https://www.wikidata.org/wiki/Q161775"
+        },
+        {
+          "text": "»Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Ritter%20Georg%20mit%20dem,Paulus%20mit%20dem%20Schwert."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:0bd108",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q33923",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:0bd108",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Petrus – Apostel",
+          "link": "https://www.wikidata.org/wiki/Q33923"
+        },
+        {
+          "text": "»Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Ritter%20Georg%20mit%20dem,Paulus%20mit%20dem%20Schwert."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:6f85e4",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q9200",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:6f85e4",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Paulus von Tarsus – Apostel und Missionar des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q9200"
+        },
+        {
+          "text": "»Ritter Georg mit dem Drachen, Diakon Stephanus mit einem Stein, Apostel Petrus mit den Schlüsseln und Paulus mit dem Schwert.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Ritter%20Georg%20mit%20dem,Paulus%20mit%20dem%20Schwert."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:92f8de",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q8018",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:92f8de",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Augustinus von Hippo – lateinischer Kirchenlehrer der Spätantike, Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q8018"
+        },
+        {
+          "text": "»Bischof Augustinus, bezeichnet durch das flammende Herz, ist ein Engel zugeordnet«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Bischof%20Augustinus%2C%20bezeichnet%20durch,ist%20ein%20Engel%20zugeordnet"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:338a44",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q170386",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:338a44",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Innozenz II. – Papst (1130–1143)",
+          "link": "https://www.wikidata.org/wiki/Q170386"
+        },
+        {
+          "text": "»Papst Innozenz II., umgeben von Kardinälen und anderen Prälaten, überreicht dem vor ihm auf den Thronstufen knienden Chorherrn Degenhard die Bestätigungsbulle«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Papst%20Innozenz%20II.%2C%20umgeben,Chorherrn%20Degenhard%20die%20Best%C3%A4tigungsbulle"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P180:ddbf42",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q100206",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P180:ddbf42",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Motiv: Mechtild von Dießen – Augustiner-Chorfrau und Äbtissin von Edelstetten (um 1125–1160)",
+          "link": "https://www.wikidata.org/wiki/Q100206"
+        },
+        {
+          "text": "»An der westlichen Schmalseite ist der Eintritt der fünfjährigen Mechthild in das unter der Leitung des Propstes Hartwig stehende regulierte Chorfrauen-Stift St. Stephan dargestellt.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=An%20der%20westlichen%20Schmalseite,Chorfrauen%2DStift%20St.%20Stephan%20dargestellt."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:c:P180:4abc94",
+      "custom_value1": "Q104218325",
+      "custom_value2": "Q104243579",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:c:P180:4abc94",
+        "statement": "Q104218325$63feddc9-4171-c3e7-59be-e7ad8ff1b154",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Gründung des Klosters St. Georgen durch den seligen Rathardus im Jahr 815 – Fresko",
+          "link": "https://www.wikidata.org/wiki/Q104218325"
+        },
+        {
+          "text": "Motiv: Seliger Rathardus – Priester aus dem Hause der Grafen von Andechs",
+          "link": "https://www.wikidata.org/wiki/Q104243579"
+        },
+        {
+          "text": "»Zwei Geistliche, die Brüder Rathard und Hanto, assistiert von Chorherren, Chorfrauen und einem Baumeister, präsentieren dem Kaiser einen Kirchen- und Klosterplan.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Zwei%20Geistliche%2C%20die%20Br%C3%BCder,einen%20Kirchen%2D%20und%20Klosterplan."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:c:P180:147ddd",
+      "custom_value1": "Q104218325",
+      "custom_value2": "Q43974",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:c:P180:147ddd",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Gründung des Klosters St. Georgen durch den seligen Rathardus im Jahr 815 – Fresko",
+          "link": "https://www.wikidata.org/wiki/Q104218325"
+        },
+        {
+          "text": "Motiv: Ludwig der Fromme – König des Fränkischen Reiches und römischer Kaiser",
+          "link": "https://www.wikidata.org/wiki/Q43974"
+        },
+        {
+          "text": "»Der Kaiser wird als Ludwig der Fromme benannt.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Der%20Kaiser%20wird%20als%20Ludwig%20der%20Fromme%20benannt."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:f470a2",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q302",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:f470a2",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Jesus Christus – zentrale Person des Christentums",
+          "link": "https://www.wikidata.org/wiki/Q302"
+        },
+        {
+          "text": "»Dort umgibt eine Schar von Engeln mit Weihrauchgefäßen und Blumen die Gestalt Christi«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Dort%20umgibt%20eine%20Schar,Blumen%20die%20Gestalt%20Christi"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:5b4e57",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q100206",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:5b4e57",
+        "statement": "Q106548750$d1a97ab7-4374-47fe-6ca0-9bfaad1cb447",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Mechtild von Dießen – Augustiner-Chorfrau und Äbtissin von Edelstetten (um 1125–1160)",
+          "link": "https://www.wikidata.org/wiki/Q100206"
+        },
+        {
+          "text": "»Die selige Mechthild in weißem Ordenshabit mit grauem Schleier, Hostienkelch und goldenen Abtstab haltend«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Die%20selige%20Mechthild%20in,und%20goldenen%20Abtstab%20haltend"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:308702",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q104243579",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:308702",
+        "statement": "Q106548750$76268d32-40b2-465d-a652-501e5364e6dd",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Seliger Rathardus – Priester aus dem Hause der Grafen von Andechs",
+          "link": "https://www.wikidata.org/wiki/Q104243579"
+        },
+        {
+          "text": "»Daneben der selige Rathard in Prälatentracht mit dem Stab des Propstes (vgl. Fresko A und C).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Daneben%20der%20selige%20Rathard,Fresko%20A%20und%20C%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:391cfe",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q881725",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:391cfe",
+        "statement": "Q106548750$f8d7028f-4e6d-beaf-9866-3452cf4518d8",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Rasso – bayerischer Adliger, Pilger und Klostergründer",
+          "link": "https://www.wikidata.org/wiki/Q881725"
+        },
+        {
+          "text": "»Davor kniet der selige Rasso in Rüstung, blauem Mantel und Hermelinpelz«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Davor%20kniet%20der%20selige,blauem%20Mantel%20und%20Hermelinpelz"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:a75e28",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q177903",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:a75e28",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Stephan I. – König von Ungarn (1000-1038) und Heiliger",
+          "link": "https://www.wikidata.org/wiki/Q177903"
+        },
+        {
+          "text": "»der hl. Stephan, König von Ungarn, in gelbem Königsmantel mit Hermelinbesatz«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=der%20hl.%20Stephan%2C%20K%C3%B6nig,gelbem%20K%C3%B6nigsmantel%20mit%20Hermelinbesatz"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:3658c2",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q103556",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:3658c2",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Heinrich II. – ostfränkischer König und römisch-deutscher Kaiser, heiliggesprochen",
+          "link": "https://www.wikidata.org/wiki/Q103556"
+        },
+        {
+          "text": "»Daneben thront, breit hingelagert, der hl. Kaiser Heinrich II.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Daneben%20thront%2C%20breit%20hingelagert%2C,hl.%20Kaiser%20Heinrich%20II."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:129b77",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q232039",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:129b77",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Gisela von Bayern – Königin von Ungarn, Äbtissin des Klosters Niedernburg in Passau",
+          "link": "https://www.wikidata.org/wiki/Q232039"
+        },
+        {
+          "text": "»In den drei gekrönten Frauengestalten dahinter sind die selige Gisela, Schwester des hl. Heinrich und Gemahlin König Stephans von Ungarn, die hl. Adelheid, Gemahlin Kaiser Ottos des Großen, und die hl. Kunigunde, Gemahlin Kaiser Heinrichs II. zu sehen.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=In%20den%20drei%20gekr%C3%B6nten,Heinrichs%20II.%20zu%20sehen."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:e7ae13",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q76802",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:e7ae13",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Adelheid von Burgund – Königin von Italien, Kaiserin des Heiligen Römischen Reiches, Heilige",
+          "link": "https://www.wikidata.org/wiki/Q76802"
+        },
+        {
+          "text": "»In den drei gekrönten Frauengestalten dahinter sind die selige Gisela, Schwester des hl. Heinrich und Gemahlin König Stephans von Ungarn, die hl. Adelheid, Gemahlin Kaiser Ottos des Großen, und die hl. Kunigunde, Gemahlin Kaiser Heinrichs II. zu sehen.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=In%20den%20drei%20gekr%C3%B6nten,Heinrichs%20II.%20zu%20sehen."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:7cf2a5",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q61620",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:7cf2a5",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Kunigunde von Luxemburg – Gemahlin Kaiser Heinrichs II., Regentin des Heiligen Römischen Reiches, Heilige der katholischen Kirche",
+          "link": "https://www.wikidata.org/wiki/Q61620"
+        },
+        {
+          "text": "»In den drei gekrönten Frauengestalten dahinter sind die selige Gisela, Schwester des hl. Heinrich und Gemahlin König Stephans von Ungarn, die hl. Adelheid, Gemahlin Kaiser Ottos des Großen, und die hl. Kunigunde, Gemahlin Kaiser Heinrichs II. zu sehen.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=In%20den%20drei%20gekr%C3%B6nten,Heinrichs%20II.%20zu%20sehen."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:a08001",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q705868",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:a08001",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Konrad von Konstanz – Heiliger des Bistums und der Bischofsstadt Konstanz",
+          "link": "https://www.wikidata.org/wiki/Q705868"
+        },
+        {
+          "text": "»Im Hintergrund der hl. Konrad, Bischof von Konstanz, mit Bischofsstab und Kelch mit einer Spinne darauf.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Im%20Hintergrund%20der%20hl.,mit%20einer%20Spinne%20darauf."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:1879f2",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q3044",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:1879f2",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Karl der Große – König des Fränkischen Reiches und römischer Kaiser",
+          "link": "https://www.wikidata.org/wiki/Q3044"
+        },
+        {
+          "text": "»Hierauf folgt die Gruppe der Andechser, als erster Kaiser Karl der Große mit Reichsapfel, Zepter und der historischen Kaiserkrone.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Hierauf%20folgt%20die%20Gruppe,und%20der%20historischen%20Kaiserkrone."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:9e48a1",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q234410",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:9e48a1",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Hildegard – Dritte Ehefrau Karls des Großen",
+          "link": "https://www.wikidata.org/wiki/Q234410"
+        },
+        {
+          "text": "»Ihm wendet sich seine zweite Gemahlin die selige Hildegard zu«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Ihm%20wendet%20sich%20seine,die%20selige%20Hildegard%20zu"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:d4ef3d",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q63399",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:d4ef3d",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Ludwig IV. – Landgraf von Thüringen und Pfalzgraf von Sachsen",
+          "link": "https://www.wikidata.org/wiki/Q63399"
+        },
+        {
+          "text": "»Darüber sitzen die bereits erwähnten Heiligen, Ludwig, Landgraf von Thüringen mit seiner Gemahlin, der hl. Elisabeth, einer Nichte Hedwigs.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Dar%C3%BCber%20sitzen%20die%20bereits,Elisabeth%2C%20einer%20Nichte%20Hedwigs."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P180:ace6fc",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q159862",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P180:ace6fc",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Motiv: Elisabeth von Thüringen – Heilige des Mittelalters",
+          "link": "https://www.wikidata.org/wiki/Q159862"
+        },
+        {
+          "text": "»Darüber sitzen die bereits erwähnten Heiligen, Ludwig, Landgraf von Thüringen mit seiner Gemahlin, der hl. Elisabeth, einer Nichte Hedwigs.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Dar%C3%BCber%20sitzen%20die%20bereits,Elisabeth%2C%20einer%20Nichte%20Hedwigs."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    }
+  ]
+}

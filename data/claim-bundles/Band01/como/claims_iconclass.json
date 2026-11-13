@@ -1,0 +1,1294 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Iconclass – cbdd-band01",
+    "short_description": "Aussagen aus CbDD Bd. 1 – 8 Artikel (Band01) prüfen",
+    "long_description": "Daten: Aussagen, von einem Sprachmodell aus CbDD Bd. 1 – 8 Artikel (Band01) gewonnen und, wo möglich, von Programmen geprüft. Jede Aufgabe zeigt die Textstelle, auf der sie beruht, mit einem Link zur Quelle. Die Antworten werden gesammelt und später in geprüften QuickStatements-Batches hochgeladen.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Belegt die Textstelle diese Aussage?",
+    "confidence_type": "D",
+    "prompt_type": "TTTT",
+    "prompt_labels_list": [
+      "Objekt",
+      "Aussage",
+      "Textstelle",
+      "Quelle"
+    ],
+    "response_type": "YN",
+    "action_type": null,
+    "purpose": "validation",
+    "daily_streak_target": 10,
+    "image_url": null
+  },
+  "action_request_templates": [],
+  "achievements": [
+    {
+      "title": "Erste Schritte",
+      "subtitle": "10 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 10
+    },
+    {
+      "title": "Fleißig",
+      "subtitle": "43 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 43
+    },
+    {
+      "title": "Drei Tage",
+      "subtitle": "An 3 Tagen hintereinander gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    }
+  ],
+  "prompts": [
+    {
+      "key": "cbdd-band01:adelshausen:a:P1257:4402bb",
+      "custom_value1": "_:adelshausen:a",
+      "custom_value2": "11H(MARTIN)41",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a:P1257:4402bb",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Mantelspende des hl. Martin (neu) – Deckenbild A in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(MARTIN)41 – der hl. Martin teilt seinen Mantel (Barmherzigkeit des hl. Martin); in der Regel wird er zu Pferde dargestellt; er zerteilt den Mantel mit dem Schwert oder legt die Mantelhälfte um die Schultern des Bettlers, der neben ihm kniet",
+          "link": "https://iconclass.org/11H%28MARTIN%2941"
+        },
+        {
+          "text": "»MANTELSPENDE DES HL. MARTIN Die beliebte Legende aus dem Leben des Heiligen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=MANTELSPENDE%20DES%20HL.%20MARTIN,dem%20Leben%20des%20Heiligen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:b:P1257:90b3a1",
+      "custom_value1": "_:adelshausen:b",
+      "custom_value2": "11H(MARTIN)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:b:P1257:90b3a1",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Martin in der Glorie (neu) – Deckenbild B in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(MARTIN) – Martin, Bischof von Tours; mögliche Attribute: Bettler, Gans",
+          "link": "https://iconclass.org/11H%28MARTIN%29"
+        },
+        {
+          "text": "»neben ihm liegen auf einer Wolke Mitra, Buch und sein spezielles Attribut, die Gans.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=neben%20ihm%20liegen%20auf,spezielles%20Attribut%2C%20die%20Gans."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:a1:P1257:b4c1f1",
+      "custom_value1": "_:adelshausen:a1",
+      "custom_value2": "11L541413",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a1:P1257:b4c1f1",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Himmel (neu) – Deckenbild A1 der Folge »Allegorische Darstellungen« in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11L541413 – der Himmel (als eines der vier letzten Dinge)",
+          "link": "https://iconclass.org/11L541413"
+        },
+        {
+          "text": "»Von diesem fallen Strahlen auf den Jüngling herab (= Himmel).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Von%20diesem%20fallen%20Strahlen,J%C3%BCngling%20herab%20%28%3D%20Himmel%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w1:P1257:d6dd43",
+      "custom_value1": "_:adelshausen:w1",
+      "custom_value2": "73B721",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w1:P1257:d6dd43",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Joseph (neu) – Wandbild W1 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73B721 – Joseph mit dem Christuskind (und Maria) in seiner Zimmermannswerkstatt",
+          "link": "https://iconclass.org/73B721"
+        },
+        {
+          "text": "»S./JOSEPH Der Heilige in der Zimmermannswerkstatt; das Jesuskind kehrt Hobelspäne.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=S.%2FJOSEPH%20Der%20Heilige%20in,das%20Jesuskind%20kehrt%20Hobelsp%C3%A4ne."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w2:P1257:dd8115",
+      "custom_value1": "_:adelshausen:w2",
+      "custom_value2": "73A331",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w2:P1257:dd8115",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Anna (neu) – Wandbild W2 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73A331 – Anna bringt Maria das Lesen bei",
+          "link": "https://iconclass.org/73A331"
+        },
+        {
+          "text": "»S./ANNA Vor seiner Mutter Anna kniet lesend das Mädchen Maria.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=S.%2FANNA%20Vor%20seiner%20Mutter,lesend%20das%20M%C3%A4dchen%20Maria."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:b:P1257:e34e8e",
+      "custom_value1": "_:asch:b",
+      "custom_value2": "11F232",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:b:P1257:e34e8e",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Huldigung an die Immaculata (neu) – Deckenbild B in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11F232 – Immaculata, Purisima: Maria, in der Regel auf einer Mondsichel stehend, steigt vom Himmel herab und befreit die Menschheit von der Erbsünde, manchmal indem sie eine Schlange zertritt",
+          "link": "https://iconclass.org/11F232"
+        },
+        {
+          "text": "»Huldigung an die Immaculata; einansichtige Darstellung einer nach oben offenen zentralen Scheinarchitektur«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Huldigung%20an%20die%20Immaculata%3B,oben%20offenen%20zentralen%20Scheinarchitektur"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:c:P1257:f41db8",
+      "custom_value1": "_:asch:c",
+      "custom_value2": "73G411",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:c:P1257:f41db8",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vision des Johannes auf Patmos (neu) – Deckenbild C in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73G411 – eine schwangere Frau, die mit der Sonne bekleidet ist und auf dem Mond steht, erscheint; sie wird von einem roten Drachen mit langem Schwanz und sieben Köpfen bedroht",
+          "link": "https://iconclass.org/73G411"
+        },
+        {
+          "text": "»Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Vision%20des%20Johannes%20auf,als%20Bezwinger%20des%20Drachens."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:c:P1257:d61629",
+      "custom_value1": "_:asch:c",
+      "custom_value2": "73G412",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:c:P1257:d61629",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vision des Johannes auf Patmos (neu) – Deckenbild C in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73G412 – Michael und seine Engel kämpfen gegen den Drachen und seine Gefolgsleute; der Drachen (Teufel, Satan) wird aus dem Himmel vertrieben",
+          "link": "https://iconclass.org/73G412"
+        },
+        {
+          "text": "»Vision des Johannes auf Patmos (Apoc 12); das apokalyptische Weib und St. Michael als Bezwinger des Drachens.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Vision%20des%20Johannes%20auf,als%20Bezwinger%20des%20Drachens."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d:P1257:0ef3bb",
+      "custom_value1": "_:asch:d",
+      "custom_value2": "73G44",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d:P1257:0ef3bb",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Heiligenhimmel mit apokalyptischem Lamm (neu) – Deckenbild D in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73G44 – die Anbetung des Lamms auf dem Berg Zion durch die 144.000 (Apokalypse)",
+          "link": "https://iconclass.org/73G44"
+        },
+        {
+          "text": "»Inschriftband östlich: VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT apoca (= Apoc 14,4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Inschriftband%20%C3%B6stlich%3A%20VIRGINES%20SUNT,apoca%20%28%3D%20Apoc%2014%2C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d1:P1257:eeed11",
+      "custom_value1": "_:asch:d1",
+      "custom_value2": "11H(AUGUSTINE)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d1:P1257:eeed11",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Augustinus (neu) – Deckenbild D1 in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(AUGUSTINE) – Augustinus, Bischof von Hippo; mögliche Attribute: Pfeile in seiner Brust, Buch, Kind mit Löffel, brennendes Herz, Herz (von Pfeilen durchbohrt), Feder",
+          "link": "https://iconclass.org/11H%28AUGUSTINE%29"
+        },
+        {
+          "text": "»Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Augustinus%2C%20D2%20Gregor%2C%20Buchinschrift%3A%20Lib%3A%2F22%2FMoral%3A%2FSequela%2Fconci%2Fonum."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d2:P1257:1fc45c",
+      "custom_value1": "_:asch:d2",
+      "custom_value2": "11H(GREGORY)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d2:P1257:1fc45c",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Gregor (neu) – Deckenbild D2 in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(GREGORY) – Papst Gregor der Große; mögliche Attribute: Taube, Kaiser Trajan",
+          "link": "https://iconclass.org/11H%28GREGORY%29"
+        },
+        {
+          "text": "»Augustinus, D2 Gregor, Buchinschrift: Lib:/22/Moral:/Sequela/conci/onum.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Augustinus%2C%20D2%20Gregor%2C%20Buchinschrift%3A%20Lib%3A%2F22%2FMoral%3A%2FSequela%2Fconci%2Fonum."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m2:P1257:70f396",
+      "custom_value1": "_:asch:m2",
+      "custom_value2": "73A18",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m2:P1257:70f396",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Johannes als Knabe in der Wüste, von einem Engel verpflegt (neu) – Deckenbild 2 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73A18 – Johannes der Täufer in der Wüste; in der Regel wird er von einem Lamm begleitet",
+          "link": "https://iconclass.org/73A18"
+        },
+        {
+          "text": "»Johannes als Knabe in der Wüste, von einem Engel verpflegt«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Johannes%20als%20Knabe%20in,von%20einem%20Engel%20verpflegt"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m3:P1257:2bc1c2",
+      "custom_value1": "_:asch:m3",
+      "custom_value2": "73C11",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m3:P1257:2bc1c2",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Johannes predigt den Pharisäern (neu) – Deckenbild 3 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73C11 – Johannes der Täufer predigt (Christus kann inmitten des Publikums dargestellt sein)",
+          "link": "https://iconclass.org/73C11"
+        },
+        {
+          "text": "»Johannes predigt den Pharisäern«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Johannes%20predigt%20den%20Pharis%C3%A4ern"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m4:P1257:9dedfd",
+      "custom_value1": "_:asch:m4",
+      "custom_value2": "73C121",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m4:P1257:9dedfd",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Taufe Jesu (neu) – Deckenbild 4 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73C121 – die Taufe Christi im Jordan: Johannes der Täufer gießt Wasser auf das Haupt Christi; der Heilige Geist senkt sich herab",
+          "link": "https://iconclass.org/73C121"
+        },
+        {
+          "text": "»Taufe Jesu«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m5:P1257:3c7685",
+      "custom_value1": "_:asch:m5",
+      "custom_value2": "73C132",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m5:P1257:3c7685",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Verhaftung des Johannes (neu) – Deckenbild 5 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73C132 – Johannes der Täufer wird gefangengenommen und eingekerkert",
+          "link": "https://iconclass.org/73C132"
+        },
+        {
+          "text": "»Verhaftung des Johannes«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Verhaftung%20des%20Johannes"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m6:P1257:9cc829",
+      "custom_value1": "_:asch:m6",
+      "custom_value2": "73C13",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m6:P1257:9cc829",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Enthauptung des Johannes (neu) – Deckenbild 6 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73C13 – Martyrium und Tod Johannes des Täufers (Matthäus 14:3-12; Markus 6:17-29)",
+          "link": "https://iconclass.org/73C13"
+        },
+        {
+          "text": "»Enthauptung des Johannes«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Enthauptung%20des%20Johannes"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a:P1257:34eeb6",
+      "custom_value1": "_:beuerbach:a",
+      "custom_value2": "73D71",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a:P1257:34eeb6",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Kreuzabnahme (neu) – Deckenbild A in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73D71 – die Kreuzabnahme: Christus wird (in der Regel von Nikodemus und Joseph von Arimathäa, die auf Leitern stehen) vom Kreuz genommen (beide Arme Christi sind vom Kreuz abgenommen worden)",
+          "link": "https://iconclass.org/73D71"
+        },
+        {
+          "text": "»KREUZABNAHME (vgl. Mt 27, 57–60 u. Par.) Johannes, Joseph von Arimathia und Nikodemus haben den Leichnam Christi vom Kreuz herabgenommen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=KREUZABNAHME%20%28vgl.%20Mt%2027%2C,Christi%20vom%20Kreuz%20herabgenommen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a1:P1257:1b86f0",
+      "custom_value1": "_:beuerbach:a1",
+      "custom_value2": "73D17",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a1:P1257:1b86f0",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Abschied Jesu von Maria (neu) – Deckenbild A1 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73D17 – Christus nimmt Abschied von Maria; in der Regel im Beisein Maria Magdalenas",
+          "link": "https://iconclass.org/73D17"
+        },
+        {
+          "text": "»Abschied Jesu von Maria, seiner Mutter (nicht biblisch, vgl. LCI, Bd 1, Sp. 35–37).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Abschied%20Jesu%20von%20Maria%2C,Bd%201%2C%20Sp.%2035%E2%80%9337%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a2:P1257:a3c012",
+      "custom_value1": "_:beuerbach:a2",
+      "custom_value2": "11HH(MARY MAGDALENE)36",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a2:P1257:a3c012",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Büßende Maria Magdalena (neu) – Deckenbild A2 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11HH(MARY MAGDALENE)36 – die hl. Maria Magdalena als Büßerin (häufig vor einer Höhle, manchmal vor der Grotte von Sainte-Baume); ihr langes Haar bedeckt ihren (nackten) Körper, sie liest, meditiert oder blickt mit tränenerfüllten Augen gen Himmel",
+          "link": "https://iconclass.org/11HH%28MARY%20MAGDALENE%2936"
+        },
+        {
+          "text": "»Die Büßerin Maria Magdalena geißelt sich im Anblick von Kreuz und Totenschädel.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Die%20B%C3%BC%C3%9Ferin%20Maria%20Magdalena,von%20Kreuz%20und%20Totensch%C3%A4del."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a3:P1257:858aa8",
+      "custom_value1": "_:beuerbach:a3",
+      "custom_value2": "73D76",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a3:P1257:858aa8",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Grablegung Jesu (neu) – Deckenbild A3 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73D76 – Grablegung Christi (möglicherweise durch Engel)",
+          "link": "https://iconclass.org/73D76"
+        },
+        {
+          "text": "»Grablegung Jesu durch Joseph von Arimathia und Nikodemus in der Grabeshöhle.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Grablegung%20Jesu%20durch%20Joseph,Nikodemus%20in%20der%20Grabesh%C3%B6hle."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a4:P1257:e2d5ae",
+      "custom_value1": "_:beuerbach:a4",
+      "custom_value2": "73D332",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a4:P1257:e2d5ae",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Reuiger Petrus (neu) – Deckenbild A4 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73D332 – die Reue Petri",
+          "link": "https://iconclass.org/73D332"
+        },
+        {
+          "text": "»Der reuige Petrus in der Einöde kniend; der Hahn zeigt seine Verleugnung Christi an (Mt 26, 73–75).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Der%20reuige%20Petrus%20in,an%20%28Mt%2026%2C%2073%E2%80%9375%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:w1:P1257:82abd4",
+      "custom_value1": "_:beuerbach:w1",
+      "custom_value2": "11H(JOACHIM)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:w1:P1257:82abd4",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Hl. Joachim (neu) – Wandbild W1 in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(JOACHIM) – Joachim, der Vater Marias, mögliche Attribute: Buch, zwei Tauben, Lamm, (Hirten)stab",
+          "link": "https://iconclass.org/11H%28JOACHIM%29"
+        },
+        {
+          "text": "»Joachim mit Hirtenschippe und zwei Opfertauben auf einem Buch (W1)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Joachim%20mit%20Hirtenschippe%20und,auf%20einem%20Buch%20%28W1%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:w2:P1257:4e08d6",
+      "custom_value1": "_:beuerbach:w2",
+      "custom_value2": "73A331",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:w2:P1257:4e08d6",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Hl. Anna lehrt Maria (neu) – Wandbild W2 in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 73A331 – Anna bringt Maria das Lesen bei",
+          "link": "https://iconclass.org/73A331"
+        },
+        {
+          "text": "»Anna, ihre Tochter Maria lehrend (W2)«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Anna%2C%20ihre%20Tochter%20Maria%20lehrend%20%28W2%29"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuern:engelsturz:P1257:995d60",
+      "custom_value1": "Q142089560",
+      "custom_value2": "11G33",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuern:engelsturz:P1257:995d60",
+        "ref_p248": "Q118117102",
+        "ref_p304": "25-27"
+      },
+      "texts": [
+        {
+          "text": "Engelsturz – Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael",
+          "link": "https://www.wikidata.org/wiki/Q142089560"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11G33 – Sturz der Engel, die Teufel werden",
+          "link": "https://iconclass.org/11G33"
+        },
+        {
+          "text": "»Die Darstellung enthält Bildmotive, die deutlich auf den Engelsturz, die Bestrafung der aufrührerischen Engel zu Beginn der Weltschöpfung, hinweisen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael#:~:text=Die%20Darstellung%20enth%C3%A4lt%20Bildmotive%2C,Beginn%20der%20Weltsch%C3%B6pfung%2C%20hinweisen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuern, Pfarrkirche St. Michael (S. 25–27)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:a:P1257:af36eb",
+      "custom_value1": "_:denklingen:a",
+      "custom_value2": "11G18341",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:a:P1257:af36eb",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Wunder am Monte Gargano (neu) – Deckenbild A in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11G18341 – auf dem Monte Gargano erscheint der Erzengel Michael dem Garganus, Bischof von Siponte, der einen Pfeil auf einen Stier abgeschossen hat",
+          "link": "https://iconclass.org/11G18341"
+        },
+        {
+          "text": "»Als er auf den Stier schoß, wendete der Pfeil und traf ihn selbst.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Als%20er%20auf%20den,und%20traf%20ihn%20selbst."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:b:P1257:a14bf0",
+      "custom_value1": "_:denklingen:b",
+      "custom_value2": "11G33",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:b:P1257:a14bf0",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Triumph Michaels (neu) – Deckenbild B in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11G33 – Sturz der Engel, die Teufel werden",
+          "link": "https://iconclass.org/11G33"
+        },
+        {
+          "text": "»Umgeben und unterstützt von anderen Engeln stürzt er die abtrünnigen Geister ins höllische Feuer.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Umgeben%20und%20unterst%C3%BCtzt%20von,Geister%20ins%20h%C3%B6llische%20Feuer."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c:P1257:25248b",
+      "custom_value1": "_:denklingen:c",
+      "custom_value2": "71E12",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c:P1257:25248b",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Zug der Israeliten durch die Wüste (neu) – Deckenbild C in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 71E12 – Exodus (Teil II): der Zug der Israeliten zum Berg Sinai",
+          "link": "https://iconclass.org/71E12"
+        },
+        {
+          "text": "»ZUG DER ISRAELITEN DURCH DIE WÜSTE In karger Landschaft mit einzelnen niedrigen Büschen und Bäumen ziehen die Juden«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=ZUG%20DER%20ISRAELITEN%20DURCH,B%C3%A4umen%20ziehen%20die%20Juden"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c1:P1257:8e1239",
+      "custom_value1": "_:denklingen:c1",
+      "custom_value2": "11H(GREGORY)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c1:P1257:8e1239",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Gregor (neu) – Deckenbild C1 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(GREGORY) – Papst Gregor der Große; mögliche Attribute: Taube, Kaiser Trajan",
+          "link": "https://iconclass.org/11H%28GREGORY%29"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c2:P1257:fa7273",
+      "custom_value1": "_:denklingen:c2",
+      "custom_value2": "11H(AUGUSTINE)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c2:P1257:fa7273",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Augustinus (neu) – Deckenbild C2 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(AUGUSTINE) – Augustinus, Bischof von Hippo; mögliche Attribute: Pfeile in seiner Brust, Buch, Kind mit Löffel, brennendes Herz, Herz (von Pfeilen durchbohrt), Feder",
+          "link": "https://iconclass.org/11H%28AUGUSTINE%29"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c3:P1257:a751ed",
+      "custom_value1": "_:denklingen:c3",
+      "custom_value2": "11H(AMBROSE)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c3:P1257:a751ed",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Ambrosius (neu) – Deckenbild C3 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(AMBROSE) – Ambrosius, Bischof von Mailand; mögliche Attribute: Bienenstock, Wiege mit Baby, dreiknotige Geißel",
+          "link": "https://iconclass.org/11H%28AMBROSE%29"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c4:P1257:1fbd9a",
+      "custom_value1": "_:denklingen:c4",
+      "custom_value2": "11H(JEROME)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c4:P1257:1fbd9a",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Hieronymus (neu) – Deckenbild C4 der Folge »Die vier Kirchenväter« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(JEROME) – Hieronymus, Mönch und Einsiedler; mögliche Attribute: Buch, Kardinalshut, Kruzifix, Stundenglas, Löwe, Totenschädel, Stein",
+          "link": "https://iconclass.org/11H%28JEROME%29"
+        },
+        {
+          "text": "»Die vier Kirchenväter in Halbfiguren, Gregor (C1), Augustinus (C2), Ambrosius (C3) und Hieronymus (C4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Die%20vier%20Kirchenv%C3%A4ter%20in,%28C3%29%20und%20Hieronymus%20%28C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z1:P1257:9b3840",
+      "custom_value1": "_:denklingen:z1",
+      "custom_value2": "11H(PETER)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z1:P1257:9b3840",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Petrus und Paulus (neu) – Deckenbild 1 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(PETER) – der Apostel Petrus, erster Bischof von Rom; mögliche Attribute: Buch, Hahn, (umgekehrtes) Kreuz, Krummstab mit drei Querbalken, Fisch, Schlüssel, Schriftrolle, Schiff, Tiara",
+          "link": "https://iconclass.org/11H%28PETER%29"
+        },
+        {
+          "text": "»Petrus mit Schlüssel und Paulus mit Schwert«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Petrus%20mit%20Schl%C3%BCssel%20und%20Paulus%20mit%20Schwert"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z1:P1257:d33a2c",
+      "custom_value1": "_:denklingen:z1",
+      "custom_value2": "11H(PAUL)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z1:P1257:d33a2c",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Petrus und Paulus (neu) – Deckenbild 1 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(PAUL) – der Apostel Paulus (von Tarsus); mögliche Attribute: Buch, Schriftrolle, Schwert",
+          "link": "https://iconclass.org/11H%28PAUL%29"
+        },
+        {
+          "text": "»Petrus mit Schlüssel und Paulus mit Schwert«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Petrus%20mit%20Schl%C3%BCssel%20und%20Paulus%20mit%20Schwert"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z2:P1257:e41b1a",
+      "custom_value1": "_:denklingen:z2",
+      "custom_value2": "11H(PHILIP)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z2:P1257:e41b1a",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Philippus und Jakobus Minor (neu) – Deckenbild 2 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(PHILIP) – der Apostel Philippus, mögliche Attribute: Buch, Kreuz, Schüssel mit Schlange, Lanze, Schriftrolle, Stein, Schwert",
+          "link": "https://iconclass.org/11H%28PHILIP%29"
+        },
+        {
+          "text": "»Philippus mit Kreuz und Jakobus Minor mit Walkerstange«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Philippus%20mit%20Kreuz%20und%20Jakobus%20Minor%20mit%20Walkerstange"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z2:P1257:5f4390",
+      "custom_value1": "_:denklingen:z2",
+      "custom_value2": "11H(JAMES THE LESS)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z2:P1257:5f4390",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Philippus und Jakobus Minor (neu) – Deckenbild 2 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(JAMES THE LESS) – Jakobus der Jüngere (Minor), Apostel und erster Bischof von Jerusalem; mögliche Attribute: Buch, Walkerknüppel, Schriftrolle",
+          "link": "https://iconclass.org/11H%28JAMES%20THE%20LESS%29"
+        },
+        {
+          "text": "»Philippus mit Kreuz und Jakobus Minor mit Walkerstange«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Philippus%20mit%20Kreuz%20und%20Jakobus%20Minor%20mit%20Walkerstange"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z4:P1257:152f3d",
+      "custom_value1": "_:denklingen:z4",
+      "custom_value2": "11H(THOMAS)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z4:P1257:152f3d",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Thomas (neu) – Deckenbild 4 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(THOMAS) – der Apostel Thomas; mögliche Attribute: Buch, Kelch, Gürtel, Herz, Lanze oder Speer, Schriftrolle, Winkelmaß, Steine",
+          "link": "https://iconclass.org/11H%28THOMAS%29"
+        },
+        {
+          "text": "»Thomas mit Lanze«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Thomas%20mit%20Lanze"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z6:P1257:08dfda",
+      "custom_value1": "_:denklingen:z6",
+      "custom_value2": "11H(MATTHEW)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z6:P1257:08dfda",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Matthäus (neu) – Deckenbild 6 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(MATTHEW) – der Apostel und Evangelist Matthäus; mögliche Attribute: Engel, Axt, Buch, Hellebarde, Schreibfeder und Tintenfaß, Geldbörse, Schriftrolle, Winkelmaß, Schwert",
+          "link": "https://iconclass.org/11H%28MATTHEW%29"
+        },
+        {
+          "text": "»Matthäus mit Beil«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Matth%C3%A4us%20mit%20Beil"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z7:P1257:5356fe",
+      "custom_value1": "_:denklingen:z7",
+      "custom_value2": "11H(BARTHOLOMEW)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z7:P1257:5356fe",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Bartholomäus (neu) – Deckenbild 7 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(BARTHOLOMEW) – der Apostel Bartholomäus, mögliche Attribute: Buch, Teufel oder Drachen zu seinen Füßen, Messer, Schriftrolle, abgezogene Haut, Stab/Stecken",
+          "link": "https://iconclass.org/11H%28BARTHOLOMEW%29"
+        },
+        {
+          "text": "»Bartholomäus mit Messer«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Bartholom%C3%A4us%20mit%20Messer"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z8:P1257:82e762",
+      "custom_value1": "_:denklingen:z8",
+      "custom_value2": "11H(SIMON)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z8:P1257:82e762",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Simon (neu) – Deckenbild 8 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(SIMON) – der Apostel Simon Zelotes (oder Simon von Kana); mögliche Attribute: Buch, Säge, Schriftrolle",
+          "link": "https://iconclass.org/11H%28SIMON%29"
+        },
+        {
+          "text": "»Simon mit Säge«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Simon%20mit%20S%C3%A4ge"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z9:P1257:3703f9",
+      "custom_value1": "_:denklingen:z9",
+      "custom_value2": "11H(JOHN)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z9:P1257:3703f9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Johannes (neu) – Deckenbild 9 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(JOHN) – Johannes der Evangelist, Apostel; mögliche Attribute: Buch, Kessel, Kelch mit Schlange, Adler, Palme, Schriftrolle",
+          "link": "https://iconclass.org/11H%28JOHN%29"
+        },
+        {
+          "text": "»Johannes mit dem Kelch«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Johannes%20mit%20dem%20Kelch"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z10:P1257:a110e9",
+      "custom_value1": "_:denklingen:z10",
+      "custom_value2": "11H(ANDREW)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z10:P1257:a110e9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Andreas (neu) – Deckenbild 10 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(ANDREW) – der Apostel Andreas; mögliche Attribute: Buch, Andreaskreuz,Fisch, Fischnetz, Strick, Schriftrolle",
+          "link": "https://iconclass.org/11H%28ANDREW%29"
+        },
+        {
+          "text": "»Andreas mit Andreaskreuz«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Andreas%20mit%20Andreaskreuz"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:eb2:P1257:69f190",
+      "custom_value1": "_:denklingen:eb2",
+      "custom_value2": "11M3",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:eb2:P1257:69f190",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Göttliche Tugenden (neu) – Emporenbrüstungsbild EB2 in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11M3 – die drei theologischen Tugenden",
+          "link": "https://iconclass.org/11M3"
+        },
+        {
+          "text": "»Putti mit den Attributen der drei göttlichen Tugenden, Kreuz und Kelch (Fides), flammendem Herzen (Caritas) und Anker (Spes).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Putti%20mit%20den%20Attributen,%28Caritas%29%20und%20Anker%20%28Spes%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:dienhausen:benedikt:P1257:2a6b49",
+      "custom_value1": "_:dienhausen:benedikt",
+      "custom_value2": "11H(BENEDICT)",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "dienhausen:benedikt:P1257:2a6b49",
+        "ref_p248": "Q118117102",
+        "ref_p304": "37"
+      },
+      "texts": [
+        {
+          "text": "Hl. Benedikt (neu) – Deckenbild im Altarraum von Dienhausen, Kapelle St. Magnus",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Dienhausen,_Kapelle_St._Magnus"
+        },
+        {
+          "text": "Iconclass-Bilderkennung: 11H(BENEDICT) – Benedikt von Nursia, Abt von Monte Cassino und Gründer des Benediktinerordens, mögliche Attribute: Weihwedel, Buch, Kelch (manchmal zerbrochen), Rabe mit Brotlaib, Sieb (oder Tafel)",
+          "link": "https://iconclass.org/11H%28BENEDICT%29"
+        },
+        {
+          "text": "»Neben ihm sind seine Attribute zu sehen, Buch, Abtstab und Giftbecher mit Schlange.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Dienhausen,_Kapelle_St._Magnus#:~:text=Neben%20ihm%20sind%20seine,und%20Giftbecher%20mit%20Schlange."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dienhausen, Kapelle St. Magnus (S. 37)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    }
+  ]
+}

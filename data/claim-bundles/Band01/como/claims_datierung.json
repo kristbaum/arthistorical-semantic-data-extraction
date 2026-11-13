@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Datierung – cbdd-band01",
+    "short_description": "Aussagen aus CbDD Bd. 1 – 8 Artikel (Band01) prüfen",
+    "long_description": "Daten: Aussagen, von einem Sprachmodell aus CbDD Bd. 1 – 8 Artikel (Band01) gewonnen und, wo möglich, von Programmen geprüft. Jede Aufgabe zeigt die Textstelle, auf der sie beruht, mit einem Link zur Quelle. Die Antworten werden gesammelt und später in geprüften QuickStatements-Batches hochgeladen.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Belegt die Textstelle diese Aussage?",
+    "confidence_type": "D",
+    "prompt_type": "TTTT",
+    "prompt_labels_list": [
+      "Objekt",
+      "Aussage",
+      "Textstelle",
+      "Quelle"
+    ],
+    "response_type": "YN",
+    "action_type": null,
+    "purpose": "validation",
+    "daily_streak_target": 4,
+    "image_url": null
+  },
+  "action_request_templates": [],
+  "achievements": [
+    {
+      "title": "Erste Schritte",
+      "subtitle": "4 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 4
+    },
+    {
+      "title": "Drei Tage",
+      "subtitle": "An 3 Tagen hintereinander gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    }
+  ],
+  "prompts": [
+    {
+      "key": "cbdd-band01:beuern:engelsturz:P571:5ae33a",
+      "custom_value1": "Q142089560",
+      "custom_value2": "+1759-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuern:engelsturz:P571:5ae33a",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "25-27"
+      },
+      "texts": [
+        {
+          "text": "Engelsturz – Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael",
+          "link": "https://www.wikidata.org/wiki/Q142089560"
+        },
+        {
+          "text": "Entstehung: 1759"
+        },
+        {
+          "text": "»Signatur in der östlichen Rahmenmuschel des LHs-Bildes: J de Schoepf: inv. et pinx./1759.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael#:~:text=Signatur%20in%20der%20%C3%B6stlichen,Schoepf%3A%20inv.%20et%20pinx.%2F1759."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuern, Pfarrkirche St. Michael (S. 25–27)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:b:P571:25d567",
+      "custom_value1": "_:denklingen:b",
+      "custom_value2": "+1767-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:b:P571:25d567",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Triumph Michaels (neu) – Deckenbild B in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Entstehung: 1767"
+        },
+        {
+          "text": "»Signatur am O-Rand von B: A: 1767. JAH (ligiert) ueber inven: et pinx: = Johann Joseph Anton Hueber«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Signatur%20am%20O%2DRand%20von,Johann%20Joseph%20Anton%20Hueber"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:a:P571:46fe54",
+      "custom_value1": "_:diessen:a",
+      "custom_value2": "+1736-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:a:P571:46fe54",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Auffindung der Gebeine des seligen Rathard (neu) – Deckenbild A in Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt"
+        },
+        {
+          "text": "Entstehung: 1736"
+        },
+        {
+          "text": "»Signatur in Fresko A, am Westrand: JGB: (ligiert) f: 1736.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Signatur%20in%20Fresko%20A%2C,JGB%3A%20%28ligiert%29%20f%3A%201736."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P571:3bf1c4",
+      "custom_value1": "Q127502516",
+      "custom_value2": "+1736-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P571:3bf1c4",
+        "statement": "Q127502516$77064993-45ee-ae02-8bfb-9a9a520c780c",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Entstehung: 1736"
+        },
+        {
+          "text": "»Signatur am Südwestrand von Fresko B: Ioannes GeorglVs BergMILLer AVgVstanVs sIC De-/pInXIt. Das Chronogramm ergibt 1736.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Signatur%20am%20S%C3%BCdwestrand%20von,Das%20Chronogramm%20ergibt%201736."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    }
+  ]
+}

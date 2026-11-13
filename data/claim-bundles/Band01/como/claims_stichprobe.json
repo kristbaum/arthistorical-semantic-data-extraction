@@ -1,0 +1,512 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Stichprobe – cbdd-band01",
+    "short_description": "Aussagen aus CbDD Bd. 1 – 8 Artikel (Band01) prüfen",
+    "long_description": "Daten: Aussagen, von einem Sprachmodell aus CbDD Bd. 1 – 8 Artikel (Band01) gewonnen und, wo möglich, von Programmen geprüft. Jede Aufgabe zeigt die Textstelle, auf der sie beruht, mit einem Link zur Quelle. Die Antworten werden gesammelt und später in geprüften QuickStatements-Batches hochgeladen.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Belegt die Textstelle diese Aussage?",
+    "confidence_type": "D",
+    "prompt_type": "TTTT",
+    "prompt_labels_list": [
+      "Objekt",
+      "Aussage",
+      "Textstelle",
+      "Quelle"
+    ],
+    "response_type": "YN",
+    "action_type": null,
+    "purpose": "validation",
+    "daily_streak_target": 10,
+    "image_url": null
+  },
+  "action_request_templates": [],
+  "achievements": [
+    {
+      "title": "Erste Schritte",
+      "subtitle": "10 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 10
+    },
+    {
+      "title": "Fleißig",
+      "subtitle": "16 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 16
+    },
+    {
+      "title": "Drei Tage",
+      "subtitle": "An 3 Tagen hintereinander gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    }
+  ],
+  "prompts": [
+    {
+      "key": "cbdd-band01:adelshausen:b:P2049:1949f4",
+      "custom_value1": "_:adelshausen:b",
+      "custom_value2": "1.30",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:b:P2049:1949f4",
+        "value_unit": "Q11573",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Martin in der Glorie (neu) – Deckenbild B in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Breite: 1,30 m"
+        },
+        {
+          "text": "»B – 3,45 m – 1,00 × 1,30«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=B%20%E2%80%93%203%2C45%20m%20%E2%80%93%201%2C00%20%C3%97%201%2C30"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:a:P2079:a1ace4",
+      "custom_value1": "_:asch:a",
+      "custom_value2": "Q134194",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:a:P2079:a1ace4",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vermählung Mariens mit der Taube des Geistes (neu) – Deckenbild A in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Herstellungsmethode: Fresko – Wandmalereitechnik insbesondere auf frischem Kalkputz",
+          "link": "https://www.wikidata.org/wiki/Q134194"
+        },
+        {
+          "text": "»Technik: Fresko; polychrom«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Technik%3A%20Fresko%3B%20polychrom"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:b:P2079:8ad292",
+      "custom_value1": "_:asch:b",
+      "custom_value2": "Q134194",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:b:P2079:8ad292",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Huldigung an die Immaculata (neu) – Deckenbild B in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Herstellungsmethode: Fresko – Wandmalereitechnik insbesondere auf frischem Kalkputz",
+          "link": "https://www.wikidata.org/wiki/Q134194"
+        },
+        {
+          "text": "»Technik: Fresko; polychrom«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Technik%3A%20Fresko%3B%20polychrom"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d:P2079:2e8222",
+      "custom_value1": "_:asch:d",
+      "custom_value2": "Q134194",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d:P2079:2e8222",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Heiligenhimmel mit apokalyptischem Lamm (neu) – Deckenbild D in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Herstellungsmethode: Fresko – Wandmalereitechnik insbesondere auf frischem Kalkputz",
+          "link": "https://www.wikidata.org/wiki/Q134194"
+        },
+        {
+          "text": "»Technik: Fresko; polychrom«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Technik%3A%20Fresko%3B%20polychrom"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d:P1684:f570a2",
+      "custom_value1": "_:asch:d",
+      "custom_value2": "VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d:P1684:f570a2",
+        "value_lang": "la",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Heiligenhimmel mit apokalyptischem Lamm (neu) – Deckenbild D in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Inschrift: la:\"VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT"
+        },
+        {
+          "text": "»Inschriftband östlich: VIRGINES SUNT ET SEQUNTUR / AGNUM QUOQUNQUE IERIT apoca (= Apoc 14,4).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Inschriftband%20%C3%B6stlich%3A%20VIRGINES%20SUNT,apoca%20%28%3D%20Apoc%2014%2C4%29."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m1:P1684:af9cfd",
+      "custom_value1": "_:asch:m1",
+      "custom_value2": "Johan/s Es",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m1:P1684:af9cfd",
+        "value_lang": "la",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Zacharias erfährt den Namen des Johannes (neu) – Deckenbild 1 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Inschrift: la:\"Johan/s Es"
+        },
+        {
+          "text": "»Zacharias erfährt den Namen des Johannes, Buchinschrift: Johan/s Es.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Zacharias%20erf%C3%A4hrt%20den%20Namen,Johannes%2C%20Buchinschrift%3A%20Johan%2Fs%20Es."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuerbach:a1:P2079:6f33ff",
+      "custom_value1": "_:beuerbach:a1",
+      "custom_value2": "Q134194",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuerbach:a1:P2079:6f33ff",
+        "ref_p248": "Q118117102",
+        "ref_p304": "23-24"
+      },
+      "texts": [
+        {
+          "text": "Abschied Jesu von Maria (neu) – Deckenbild A1 der Folge »Szenen zur Passion« in Beuerbach (Weil), Kapelle im Holz Maria Eich",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich"
+        },
+        {
+          "text": "Herstellungsmethode: Fresko – Wandmalereitechnik insbesondere auf frischem Kalkputz",
+          "link": "https://www.wikidata.org/wiki/Q134194"
+        },
+        {
+          "text": "»Technik: Fresko; A polychrom, A1–4 monochrom-ocker«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuerbach_(Weil),_Kapelle_im_Holz_Maria_Eich#:~:text=Technik%3A%20Fresko%3B%20A%20polychrom%2C%20A1%E2%80%934%20monochrom%2Docker"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuerbach (Weil), Kapelle im Holz Maria Eich (S. 23–24)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:beuern:engelsturz:P2043:8f5f48",
+      "custom_value1": "Q142089560",
+      "custom_value2": "9.10",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "beuern:engelsturz:P2043:8f5f48",
+        "statement": "Q142089560$7A7E91D0-ECA7-4A76-BA7D-14E62D8B950A",
+        "value_unit": "Q11573",
+        "ref_p248": "Q118117102",
+        "ref_p304": "25-27"
+      },
+      "texts": [
+        {
+          "text": "Engelsturz – Deckenbild im Langhaus von Beuern, Pfarrkirche St. Michael",
+          "link": "https://www.wikidata.org/wiki/Q142089560"
+        },
+        {
+          "text": "Länge: 9,10 m"
+        },
+        {
+          "text": "»Maße: Höhe 13,15 m; 9,10 × 6,00«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael#:~:text=Ma%C3%9Fe%3A%20H%C3%B6he%2013%2C15%20m%3B%209%2C10%20%C3%97%206%2C00"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Beuern, Pfarrkirche St. Michael (S. 25–27)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:bischofsried:kuppel:P2386:43f62a",
+      "custom_value1": "_:bischofsried:kuppel",
+      "custom_value2": "4.75",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "bischofsried:kuppel:P2386:43f62a",
+        "value_unit": "Q11573",
+        "ref_p248": "Q118117102",
+        "ref_p304": "28-29"
+      },
+      "texts": [
+        {
+          "text": "Das Gnadenbild von Bischofsried (neu) – Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Bischofsried,_Maria-Schnee-Kapelle"
+        },
+        {
+          "text": "Durchmesser: 4,75 m"
+        },
+        {
+          "text": "»Maße: Höhe 6 m (Stich 1,70); Ø 4,75«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Bischofsried,_Maria-Schnee-Kapelle#:~:text=Ma%C3%9Fe%3A%20H%C3%B6he%206%20m%20%28Stich%201%2C70%29%3B%20%C3%98%204%2C75"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Bischofsried, Maria-Schnee-Kapelle (S. 28–29)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z5:P2079:b077b8",
+      "custom_value1": "_:denklingen:z5",
+      "custom_value2": "Q134194",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z5:P2079:b077b8",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Judas Thaddäus (neu) – Deckenbild 5 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Herstellungsmethode: Fresko – Wandmalereitechnik insbesondere auf frischem Kalkputz",
+          "link": "https://www.wikidata.org/wiki/Q134194"
+        },
+        {
+          "text": "»Technik: Fresko; A, B, C polychrom, 1–10, C1–4, EB1–2 zweifarbig grün-karmin«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Technik%3A%20Fresko%3B%20A%2C%20B%2C,C1%E2%80%934%2C%20EB1%E2%80%932%20zweifarbig%20gr%C3%BCn%2Dkarmin"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:z6:P2079:891882",
+      "custom_value1": "_:denklingen:z6",
+      "custom_value2": "Q134194",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:z6:P2079:891882",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Matthäus (neu) – Deckenbild 6 der Folge »Apostel« in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Herstellungsmethode: Fresko – Wandmalereitechnik insbesondere auf frischem Kalkputz",
+          "link": "https://www.wikidata.org/wiki/Q134194"
+        },
+        {
+          "text": "»Technik: Fresko; A, B, C polychrom, 1–10, C1–4, EB1–2 zweifarbig grün-karmin«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Technik%3A%20Fresko%3B%20A%2C%20B%2C,C1%E2%80%934%2C%20EB1%E2%80%932%20zweifarbig%20gr%C3%BCn%2Dkarmin"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:eb1:P2079:5db56c",
+      "custom_value1": "_:denklingen:eb1",
+      "custom_value2": "Q134194",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:eb1:P2079:5db56c",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "David psallens (neu) – Emporenbrüstungsbild EB1 in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Herstellungsmethode: Fresko – Wandmalereitechnik insbesondere auf frischem Kalkputz",
+          "link": "https://www.wikidata.org/wiki/Q134194"
+        },
+        {
+          "text": "»Technik: Fresko; A, B, C polychrom, 1–10, C1–4, EB1–2 zweifarbig grün-karmin«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Technik%3A%20Fresko%3B%20A%2C%20B%2C,C1%E2%80%934%2C%20EB1%E2%80%932%20zweifarbig%20gr%C3%BCn%2Dkarmin"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:b:P2049:6a702e",
+      "custom_value1": "_:denklingen:b",
+      "custom_value2": "9.50",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:b:P2049:6a702e",
+        "value_unit": "Q11573",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Triumph Michaels (neu) – Deckenbild B in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Breite: 9,50 m"
+        },
+        {
+          "text": "»B – 12,10 m – 15,40 × 9,50«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=B%20%E2%80%93%2012%2C10%20m%20%E2%80%93%2015%2C40%20%C3%97%209%2C50"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c:P2049:2cf011",
+      "custom_value1": "_:denklingen:c",
+      "custom_value2": "8.20",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c:P2049:2cf011",
+        "value_unit": "Q11573",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Zug der Israeliten durch die Wüste (neu) – Deckenbild C in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Breite: 8,20 m"
+        },
+        {
+          "text": "»C – 11,90 m – 8,70 × 8,20«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=C%20%E2%80%93%2011%2C90%20m%20%E2%80%93%208%2C70%20%C3%97%208%2C20"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:dienhausen:benedikt:P2043:1540e1",
+      "custom_value1": "_:dienhausen:benedikt",
+      "custom_value2": "1.50",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "dienhausen:benedikt:P2043:1540e1",
+        "value_unit": "Q11573",
+        "ref_p248": "Q118117102",
+        "ref_p304": "37"
+      },
+      "texts": [
+        {
+          "text": "Hl. Benedikt (neu) – Deckenbild im Altarraum von Dienhausen, Kapelle St. Magnus",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Dienhausen,_Kapelle_St._Magnus"
+        },
+        {
+          "text": "Länge: 1,50 m"
+        },
+        {
+          "text": "»Maße: Höhe 4,90 m; 1,50 × 1,30«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Dienhausen,_Kapelle_St._Magnus#:~:text=Ma%C3%9Fe%3A%20H%C3%B6he%204%2C90%20m%3B%201%2C50%20%C3%97%201%2C30"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dienhausen, Kapelle St. Magnus (S. 37)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:c:P2043:9e65dc",
+      "custom_value1": "Q104218325",
+      "custom_value2": "6.10",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:c:P2043:9e65dc",
+        "value_unit": "Q11573",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Gründung des Klosters St. Georgen durch den seligen Rathardus im Jahr 815 – Fresko",
+          "link": "https://www.wikidata.org/wiki/Q104218325"
+        },
+        {
+          "text": "Länge: 6,10 m"
+        },
+        {
+          "text": "»C – 23,20 m – – 6,10 × 11,40«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=C%20%E2%80%93%2023%2C20%20m,%E2%80%93%206%2C10%20%C3%97%2011%2C40"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1013 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Datierung Sicherheit – cbdd-band01",
+    "short_description": "Aussagen aus CbDD Bd. 1 – 8 Artikel (Band01) prüfen",
+    "long_description": "Daten: Aussagen, von einem Sprachmodell aus CbDD Bd. 1 – 8 Artikel (Band01) gewonnen und, wo möglich, von Programmen geprüft. Jede Aufgabe zeigt die Textstelle, auf der sie beruht, mit einem Link zur Quelle. Die Antworten werden gesammelt und später in geprüften QuickStatements-Batches hochgeladen.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Wie sicher ist die Aussage laut Textstelle?",
+    "confidence_type": "D",
+    "prompt_type": "TTTT",
+    "prompt_labels_list": [
+      "Objekt",
+      "Aussage",
+      "Textstelle",
+      "Quelle"
+    ],
+    "response_type": "SC",
+    "action_type": null,
+    "purpose": "validation",
+    "daily_streak_target": 10,
+    "image_url": null
+  },
+  "action_request_templates": [],
+  "achievements": [
+    {
+      "title": "Erste Schritte",
+      "subtitle": "10 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 10
+    },
+    {
+      "title": "Fleißig",
+      "subtitle": "21 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 21
+    },
+    {
+      "title": "Drei Tage",
+      "subtitle": "An 3 Tagen hintereinander gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    }
+  ],
+  "prompts": [
+    {
+      "key": "cbdd-band01:adelshausen:a:P571:ee8b04",
+      "custom_value1": "_:adelshausen:a",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a:P571:ee8b04",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Mantelspende des hl. Martin (neu) – Deckenbild A in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:b:P571:764eed",
+      "custom_value1": "_:adelshausen:b",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:b:P571:764eed",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Martin in der Glorie (neu) – Deckenbild B in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:a1:P571:0c7382",
+      "custom_value1": "_:adelshausen:a1",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a1:P571:0c7382",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Himmel (neu) – Deckenbild A1 der Folge »Allegorische Darstellungen« in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:a2:P571:3467e8",
+      "custom_value1": "_:adelshausen:a2",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a2:P571:3467e8",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Gericht (neu) – Deckenbild A2 der Folge »Allegorische Darstellungen« in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:a3:P571:adb635",
+      "custom_value1": "_:adelshausen:a3",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a3:P571:adb635",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Hölle (neu) – Deckenbild A3 der Folge »Allegorische Darstellungen« in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:a4:P571:1153c9",
+      "custom_value1": "_:adelshausen:a4",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:a4:P571:1153c9",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "Tod (neu) – Deckenbild A4 der Folge »Allegorische Darstellungen« in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w1:P571:a450b7",
+      "custom_value1": "_:adelshausen:w1",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w1:P571:a450b7",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Joseph (neu) – Wandbild W1 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:adelshausen:w2:P571:f158ae",
+      "custom_value1": "_:adelshausen:w2",
+      "custom_value2": "+1795-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "adelshausen:w2:P571:f158ae",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "19-21"
+      },
+      "texts": [
+        {
+          "text": "St. Anna (neu) – Wandbild W2 in Adelshausen (Weil), Kapelle St. Martin",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin"
+        },
+        {
+          "text": "Entstehung: 1795"
+        },
+        {
+          "text": "»Auf Grund des stilistischen Befundes sind die Adelshausener Kapellenfresken in zeitliche Nähe zu den signierten und datierten Fresken von 1795 in der Pfarrkirche von Hausen bei Geltendorf zu setzen«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Adelshausen_(Weil),_Kapelle_St._Martin#:~:text=Auf%20Grund%20des%20stilistischen,bei%20Geltendorf%20zu%20setzen"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Adelshausen (Weil), Kapelle St. Martin (S. 19–21)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:a:P571:47cf8f",
+      "custom_value1": "_:asch:a",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:a:P571:47cf8f",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vermählung Mariens mit der Taube des Geistes (neu) – Deckenbild A in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:b:P571:93f854",
+      "custom_value1": "_:asch:b",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:b:P571:93f854",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Huldigung an die Immaculata (neu) – Deckenbild B in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:c:P571:d38200",
+      "custom_value1": "_:asch:c",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:c:P571:d38200",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Vision des Johannes auf Patmos (neu) – Deckenbild C in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d:P571:881ef8",
+      "custom_value1": "_:asch:d",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d:P571:881ef8",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Heiligenhimmel mit apokalyptischem Lamm (neu) – Deckenbild D in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d1:P571:21c4ab",
+      "custom_value1": "_:asch:d1",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d1:P571:21c4ab",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Augustinus (neu) – Deckenbild D1 in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:d2:P571:ce60e3",
+      "custom_value1": "_:asch:d2",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:d2:P571:ce60e3",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Gregor (neu) – Deckenbild D2 in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m1:P571:1d405b",
+      "custom_value1": "_:asch:m1",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m1:P571:1d405b",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Zacharias erfährt den Namen des Johannes (neu) – Deckenbild 1 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m2:P571:631977",
+      "custom_value1": "_:asch:m2",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m2:P571:631977",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Johannes als Knabe in der Wüste, von einem Engel verpflegt (neu) – Deckenbild 2 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m3:P571:64e1f9",
+      "custom_value1": "_:asch:m3",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m3:P571:64e1f9",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Johannes predigt den Pharisäern (neu) – Deckenbild 3 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m4:P571:a3f801",
+      "custom_value1": "_:asch:m4",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m4:P571:a3f801",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Taufe Jesu (neu) – Deckenbild 4 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m5:P571:62a1aa",
+      "custom_value1": "_:asch:m5",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m5:P571:62a1aa",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Verhaftung des Johannes (neu) – Deckenbild 5 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:asch:m6:P571:d1c638",
+      "custom_value1": "_:asch:m6",
+      "custom_value2": "+1720-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "asch:m6:P571:d1c638",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "22"
+      },
+      "texts": [
+        {
+          "text": "Enthauptung des Johannes (neu) – Deckenbild 6 der Folge »Leben Johannes des Täufers« in Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist"
+        },
+        {
+          "text": "Entstehung: 1720"
+        },
+        {
+          "text": "»Der aus dem Jahre 1428 stammende gotische Bau wurde 1720 […] barock erweitert […] Die Fresken sind wohl gleichzeitig mit dem Stuck entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Asch_(Landsberg_am_Lech),_Pfarrkirche_St._Johannes_Baptist#:~:text=Der%20aus%20dem%20Jahre,gotische%20Bau%20wurde%201720"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Asch (Landsberg am Lech), Pfarrkirche St. Johannes Baptist (S. 22)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:bischofsried:kuppel:P571:799be5",
+      "custom_value1": "_:bischofsried:kuppel",
+      "custom_value2": "+1730-00-00T00:00:00Z",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "bischofsried:kuppel:P571:799be5",
+        "value_precision": "9",
+        "ref_p248": "Q118117102",
+        "ref_p304": "28-29"
+      },
+      "texts": [
+        {
+          "text": "Das Gnadenbild von Bischofsried (neu) – Kuppelfresko in Bischofsried, Maria-Schnee-Kapelle",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Bischofsried,_Maria-Schnee-Kapelle"
+        },
+        {
+          "text": "Entstehung: 1730"
+        },
+        {
+          "text": "»Das Fresko ist wohl ebenfalls in den Jahren um 1730 entstanden.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Bischofsried,_Maria-Schnee-Kapelle#:~:text=Das%20Fresko%20ist%20wohl,Jahren%20um%201730%20entstanden."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Bischofsried, Maria-Schnee-Kapelle (S. 28–29)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ],
+      "options": [
+        {
+          "text": "so datiert",
+          "custom_value": "1",
+          "description": "Jahreszahl, Signatur oder Rechnung"
+        },
+        {
+          "text": "um",
+          "custom_value": "2",
+          "description": "»um«, »in zeitlicher Nähe«"
+        },
+        {
+          "text": "vermutlich",
+          "custom_value": "3",
+          "description": "»wohl«, »vermutlich«"
+        }
+      ]
+    }
+  ]
+}

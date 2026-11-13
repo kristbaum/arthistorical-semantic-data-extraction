@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Urheber – cbdd-band01",
+    "short_description": "Aussagen aus CbDD Bd. 1 – 8 Artikel (Band01) prüfen",
+    "long_description": "Daten: Aussagen, von einem Sprachmodell aus CbDD Bd. 1 – 8 Artikel (Band01) gewonnen und, wo möglich, von Programmen geprüft. Jede Aufgabe zeigt die Textstelle, auf der sie beruht, mit einem Link zur Quelle. Die Antworten werden gesammelt und später in geprüften QuickStatements-Batches hochgeladen.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Belegt die Textstelle diese Aussage?",
+    "confidence_type": "D",
+    "prompt_type": "TTTT",
+    "prompt_labels_list": [
+      "Objekt",
+      "Aussage",
+      "Textstelle",
+      "Quelle"
+    ],
+    "response_type": "YN",
+    "action_type": null,
+    "purpose": "validation",
+    "daily_streak_target": 6,
+    "image_url": null
+  },
+  "action_request_templates": [],
+  "achievements": [
+    {
+      "title": "Erste Schritte",
+      "subtitle": "6 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 6
+    },
+    {
+      "title": "Drei Tage",
+      "subtitle": "An 3 Tagen hintereinander gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    }
+  ],
+  "prompts": [
+    {
+      "key": "cbdd-band01:denklingen:b:P170:ebcd93",
+      "custom_value1": "_:denklingen:b",
+      "custom_value2": "Q1694998",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:b:P170:ebcd93",
+        "q_p1932": "Johann Joseph Anton Hueber",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Triumph Michaels (neu) – Deckenbild B in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Urheber: Johann Joseph Anton Huber – deutscher Barockmaler",
+          "link": "https://www.wikidata.org/wiki/Q1694998"
+        },
+        {
+          "text": "»Signatur am O-Rand von B: A: 1767. JAH (ligiert) ueber inven: et pinx: = Johann Joseph Anton Hueber«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=Signatur%20am%20O%2DRand%20von,Johann%20Joseph%20Anton%20Hueber"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:denklingen:c:P170:34460a",
+      "custom_value1": "_:denklingen:c",
+      "custom_value2": "Q1694998",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "denklingen:c:P170:34460a",
+        "q_p1932": "Hueber",
+        "ref_p248": "Q118117102",
+        "ref_p304": "30-36"
+      },
+      "texts": [
+        {
+          "text": "Zug der Israeliten durch die Wüste (neu) – Deckenbild C in Denklingen, Pfarrkirche St. Michael",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "Urheber: Johann Joseph Anton Huber – deutscher Barockmaler",
+          "link": "https://www.wikidata.org/wiki/Q1694998"
+        },
+        {
+          "text": "»verwendet Hueber das gleiche Kompositionsprinzip wie in der Moses-Aarongruppe in C«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Denklingen,_Pfarrkirche_St._Michael#:~:text=verwendet%20Hueber%20das%20gleiche,der%20Moses%2DAarongruppe%20in%20C"
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Denklingen, Pfarrkirche St. Michael (S. 30–36)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:a:P170:72cc7b",
+      "custom_value1": "_:diessen:a",
+      "custom_value2": "Q551709",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:a:P170:72cc7b",
+        "q_p1932": "JGB",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Auffindung der Gebeine des seligen Rathard (neu) – Deckenbild A in Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt"
+        },
+        {
+          "text": "Urheber: Johann Georg Bergmüller – deutscher Freskomaler des Barocks",
+          "link": "https://www.wikidata.org/wiki/Q551709"
+        },
+        {
+          "text": "»Signatur in Fresko A, am Westrand: JGB: (ligiert) f: 1736.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Signatur%20in%20Fresko%20A%2C,JGB%3A%20%28ligiert%29%20f%3A%201736."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:b:P170:3e193f",
+      "custom_value1": "Q127502516",
+      "custom_value2": "Q551709",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:b:P170:3e193f",
+        "statement": "Q127502516$e261ebc9-49ad-59ea-472d-1f7146efa86d",
+        "q_p1932": "Ioannes GeorglVs BergMILLer",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Maria als Himmelskönigin – Fresko von Johann Georg Bergmüller über dem Langhaus des Marienmünster Diessen",
+          "link": "https://www.wikidata.org/wiki/Q127502516"
+        },
+        {
+          "text": "Urheber: Johann Georg Bergmüller – deutscher Freskomaler des Barocks",
+          "link": "https://www.wikidata.org/wiki/Q551709"
+        },
+        {
+          "text": "»Signatur am Südwestrand von Fresko B: Ioannes GeorglVs BergMILLer AVgVstanVs sIC De-/pInXIt. Das Chronogramm ergibt 1736.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Signatur%20am%20S%C3%BCdwestrand%20von,Das%20Chronogramm%20ergibt%201736."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:c:P170:8a9382",
+      "custom_value1": "Q104218325",
+      "custom_value2": "Q551709",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:c:P170:8a9382",
+        "statement": "Q104218325$d74ed0a4-4e5b-774e-4372-4cdef28ed650",
+        "q_p1932": "Johann Georg Bergmüller",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Gründung des Klosters St. Georgen durch den seligen Rathardus im Jahr 815 – Fresko",
+          "link": "https://www.wikidata.org/wiki/Q104218325"
+        },
+        {
+          "text": "Urheber: Johann Georg Bergmüller – deutscher Freskomaler des Barocks",
+          "link": "https://www.wikidata.org/wiki/Q551709"
+        },
+        {
+          "text": "»Dießen gilt als ein Hauptwerk des Augsburger Akademiedirektors Johann Georg Bergmüller.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Die%C3%9Fen%20gilt%20als%20ein,Akademiedirektors%20Johann%20Georg%20Bergm%C3%BCller."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    },
+    {
+      "key": "cbdd-band01:diessen:d:P170:6a6438",
+      "custom_value1": "Q106548750",
+      "custom_value2": "Q551709",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "claim": "diessen:d:P170:6a6438",
+        "statement": "Q106548750$95cad323-436b-0ef2-903e-c4c5c76d174f",
+        "q_p1932": "Johann Georg Bergmüller",
+        "ref_p248": "Q118117102",
+        "ref_p304": "38-47"
+      },
+      "texts": [
+        {
+          "text": "Der Dießener Himmel (die Heiligen und Seligen aus dem Haus Andechs-Meranien scharen sich um Christus) – Fresko Johann Georg Bergmüllers im Altarraum des Marienmünsters Diessen",
+          "link": "https://www.wikidata.org/wiki/Q106548750"
+        },
+        {
+          "text": "Urheber: Johann Georg Bergmüller – deutscher Freskomaler des Barocks",
+          "link": "https://www.wikidata.org/wiki/Q551709"
+        },
+        {
+          "text": "»Dießen gilt als ein Hauptwerk des Augsburger Akademiedirektors Johann Georg Bergmüller.«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Die%C3%9Fen_a._Ammersee,_ehem._Augustiner-Chorherrenstiftskirche_Mari%C3%A4_Himmelfahrt#:~:text=Die%C3%9Fen%20gilt%20als%20ein,Akademiedirektors%20Johann%20Georg%20Bergm%C3%BCller."
+        },
+        {
+          "text": "Corpus der barocken Deckenmalerei, Bd. 1: Dießen a. Ammersee, ehem. Augustiner-Chorherrenstiftskirche Mariä Himmelfahrt (S. 38–47)",
+          "link": "https://www.wikidata.org/wiki/Q118117102"
+        }
+      ]
+    }
+  ]
+}

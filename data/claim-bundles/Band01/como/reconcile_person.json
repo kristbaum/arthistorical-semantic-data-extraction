@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "game": {
+    "name": "Person – cbdd-band01",
+    "short_description": "Welcher Eintrag ist gemeint? Namen aus CbDD Bd. 1 – 8 Artikel (Band01)",
+    "long_description": "Daten: Namen von Personen, Orten und Objekten, von einem Sprachmodell aus CbDD Bd. 1 – 8 Artikel (Band01) gewonnen und, wo möglich, von Programmen geprüft. Jede Aufgabe zeigt die Textstelle, auf der sie beruht, mit einem Link zur Quelle. Die Antworten werden gesammelt und später in geprüften QuickStatements-Batches hochgeladen.",
+    "language": "de",
+    "is_listed": false,
+    "question_template": "Welcher Eintrag ist gemeint?",
+    "confidence_type": "D",
+    "prompt_type": "TT",
+    "prompt_labels_list": [
+      "Gesucht",
+      "Textstelle"
+    ],
+    "response_type": "SC",
+    "action_type": null,
+    "purpose": "reconciliation",
+    "daily_streak_target": 1,
+    "image_url": null
+  },
+  "action_request_templates": [],
+  "achievements": [
+    {
+      "title": "Erste Schritte",
+      "subtitle": "1 Aufgaben beantwortet",
+      "goal_type": "D",
+      "goal_value": 1
+    },
+    {
+      "title": "Drei Tage",
+      "subtitle": "An 3 Tagen hintereinander gespielt",
+      "goal_type": "S",
+      "goal_value": 3
+    }
+  ],
+  "prompts": [
+    {
+      "key": "cbdd-band01:_:person:haid",
+      "custom_value1": "_:person:haid",
+      "variables": {
+        "bundle": "cbdd-band01",
+        "entity": "_:person:haid",
+        "candidates": "Q1694808|Q5783104|Q22669889"
+      },
+      "texts": [
+        {
+          "text": "Haid – Kupferstecher eines Porträts von Johann Adam Schöpf nach Bergmüller",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael"
+        },
+        {
+          "text": "»Johann Adam Schöpf nannte sich auch »von Schöpf« (vgl. den Porträtstich von Haid nach Bergmüller, Abb. 55 bei Schulten).«",
+          "link": "https://deckenmalerei-lab.badw.de/index.php/Beuern,_Pfarrkirche_St._Michael#:~:text=Johann%20Adam%20Sch%C3%B6pf%20nannte,Abb.%2055%20bei%20Schulten%29."
+        }
+      ],
+      "options": [
+        {
+          "text": "Johann Jakob Haid",
+          "link": "https://www.wikidata.org/wiki/Q1694808",
+          "custom_value": "Q1694808",
+          "description": "deutscher Maler und Kupferstecher · ✓ lebte 1704–1767, passt zu 1750 · ✓ ist ein(e) Mensch"
+        },
+        {
+          "text": "Johann Gottfried Haid",
+          "link": "https://www.wikidata.org/wiki/Q5783104",
+          "custom_value": "Q5783104",
+          "description": "German engraver · ✓ lebte 1710–1776, passt zu 1750 · ✓ ist ein(e) Mensch"
+        },
+        {
+          "text": "Johann Lorenz Haid",
+          "link": "https://www.wikidata.org/wiki/Q22669889",
+          "custom_value": "Q22669889",
+          "description": "German painter, draftsman, and engraver, 1702-1750 (1702–1750) · ✓ lebte 1702–1750, passt zu 1750 · ✓ ist ein(e) Mensch"
+        }
+      ]
+    }
+  ]
+}
